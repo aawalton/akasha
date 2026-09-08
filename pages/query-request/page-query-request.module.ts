@@ -4,7 +4,7 @@ export const pageQueryRequest = {
   id: "01a06874-32db-7000-85c2-0567c0db08d6",
   pageTypeSlug: "module",
   slug: "page-query-request",
-  definition: "what a request to a page query carries, and what it answers with",
+  definition: "what a request to a page query has, and what it answers with",
   code: "ts",
   invariants: [
     {

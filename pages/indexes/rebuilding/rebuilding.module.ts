@@ -35,7 +35,7 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A filing with no line is answered as a path carrying no body.",
+      statement: "A filing with no line is answered as a path with no body.",
     },
     {
       invariantKind: "departure",

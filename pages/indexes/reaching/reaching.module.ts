@@ -33,12 +33,12 @@ export const reaching = {
     {
       invariantKind: "departure",
       statement:
-        "One key carried by two properties reaches each property under the type carrying that property.",
+        "One key carried by two properties reaches each property under the type with that property.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A key carried by two properties reaches nothing where a page's type carries neither property.",
+        "A key carried by two properties reaches nothing where a page's type has neither property.",
     },
     {
       invariantKind: "departure",

@@ -62,7 +62,7 @@ export const kindsGathering = {
     },
     {
       invariantKind: "departure",
-      statement: "A page reached through the index carries its own page type's calculations.",
+      statement: "A page reached through the index has its own page type's calculations.",
     },
     {
       invariantKind: "departure",

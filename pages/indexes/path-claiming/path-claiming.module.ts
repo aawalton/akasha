@@ -43,12 +43,12 @@ export const pathClaiming = {
     {
       invariantKind: "departure",
       statement:
-        "A file property declared uncommitted is claimed under the name an uncommitted file carries.",
+        "A file property declared uncommitted is claimed under the name an uncommitted file has.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A file property declared with a default alone is claimed under the name a committed file carries.",
+        "A file property declared with a default alone is claimed under the name a committed file has.",
     },
     {
       invariantKind: "departure",

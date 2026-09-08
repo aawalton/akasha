@@ -73,7 +73,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page carrying no such file yet takes that folder too.",
+      statement: "A page with no such file yet takes that folder too.",
     },
     {
       invariantKind: "departure",
@@ -94,11 +94,11 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page carries the page type the caller named.",
+      statement: "A page has the page type the caller named.",
     },
     {
       invariantKind: "departure",
-      statement: "A page carries the slug the caller named.",
+      statement: "A page has the slug the caller named.",
     },
     {
       invariantKind: "departure",

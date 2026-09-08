@@ -22,7 +22,7 @@ export const nameMatching = {
     },
     {
       invariantKind: "constraint",
-      statement: "A shape is asked with `test` alone and so carries no `g` flag.",
+      statement: "A shape is asked with `test` alone and so has no `g` flag.",
     },
     {
       invariantKind: "absence",

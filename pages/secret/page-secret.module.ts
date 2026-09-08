@@ -14,7 +14,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "One file has every secret a page carries rather than one file for each secret.",
+      statement: "One file has every secret a page has rather than one file for each secret.",
     },
     {
       invariantKind: "departure",
@@ -42,11 +42,11 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "Composed ciphertext carrying no sops mac is refused rather than handed back.",
+      statement: "Composed ciphertext with no sops mac is refused rather than handed back.",
     },
     {
       invariantKind: "departure",
-      statement: "A page with no sops file beside that page carries no secrets.",
+      statement: "A page with no sops file beside that page has no secrets.",
     },
     {
       invariantKind: "departure",

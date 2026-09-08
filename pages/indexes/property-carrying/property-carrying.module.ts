@@ -23,8 +23,7 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The declarers of a property are answered apart from the pages carrying the property.",
+      statement: "The declarers of a property are answered apart from the pages with the property.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +42,7 @@ export const propertyCarrying = {
     {
       invariantKind: "departure",
       statement:
-        "A property declared as a record's field is carried by the pages carrying that record.",
+        "A property declared as a record's field is carried by the pages with that record.",
     },
     {
       invariantKind: "departure",
@@ -59,12 +58,12 @@ export const propertyCarrying = {
     },
     {
       invariantKind: "departure",
-      statement: "A name no page property carries is refused rather than answered with no pages.",
+      statement: "A name no page property has is refused rather than answered with no pages.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A file is beside a property naming that file where a page carrying that property sits in its folder.",
+        "A file is beside a property naming that file where a page with that property sits in its folder.",
     },
     {
       invariantKind: "departure",

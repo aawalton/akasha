@@ -54,7 +54,7 @@ export const storeWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A write stating the keys a page would carry is refused for want of a renderer.",
+      statement: "A write stating the keys a page would have is refused for want of a renderer.",
     },
     {
       invariantKind: "departure",

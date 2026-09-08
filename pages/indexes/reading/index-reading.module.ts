@@ -11,7 +11,7 @@ export const indexReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The value every page carries is answered as one map from path to value.",
+      statement: "The value every page has is answered as one map from path to value.",
     },
     {
       invariantKind: "departure",
@@ -130,7 +130,7 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
-      statement: "That slug is read off the name of the file carrying the id.",
+      statement: "That slug is read off the name of the file with the id.",
     },
     {
       invariantKind: "departure",

@@ -63,7 +63,7 @@ export const pageCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal over a body that will not read carries the parser's message.",
+      statement: "A refusal over a body that will not read has the parser's message.",
     },
     {
       invariantKind: "departure",

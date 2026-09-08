@@ -24,7 +24,7 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carries the page type its own page states rather than the page type named.",
+      statement: "A row has the page type its own page states rather than the page type named.",
     },
     {
       invariantKind: "departure",
@@ -82,11 +82,11 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A question naming no key is answered with every key a page carries.",
+      statement: "A question naming no key is answered with every key a page has.",
     },
     {
       invariantKind: "departure",
-      statement: "A key a page does not carry stands in no row.",
+      statement: "A key a page does not have stands in no row.",
     },
     {
       invariantKind: "departure",
@@ -154,7 +154,7 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "The uncommitted values are written over the values the index carries.",
+      statement: "The uncommitted values are written over the values the index has.",
     },
     {
       invariantKind: "departure",
@@ -187,15 +187,15 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration carries the property page's own id.",
+      statement: "A declaration has the property page's own id.",
     },
     {
       invariantKind: "departure",
-      statement: "A declaration carries the page type a property points at.",
+      statement: "A declaration has the page type a property points at.",
     },
     {
       invariantKind: "departure",
-      statement: "A declaration carries the values a select property states.",
+      statement: "A declaration has the values a select property states.",
     },
     {
       invariantKind: "departure",
