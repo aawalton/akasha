@@ -35,10 +35,6 @@ export const changeKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A change kind is the page type of the changes of that kind.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "The checks a change runs and the readings a change owes are read off the change kind's page.",
     },
