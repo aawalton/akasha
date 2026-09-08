@@ -2,9 +2,9 @@ import { extname } from "node:path"
 import type { Named } from "@akasha/indexes"
 import { pageNamed, partedIn } from "@akasha/pages/page-file-name"
 import {
-  answered,
   gathered,
   refusing,
+  stating,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
@@ -62,7 +62,7 @@ function ownLast(beside: readonly string[], at: string): readonly string[] {
 
 async function unnamingIn(world: World, at: string, parents: readonly Named[]): Promise<Reached> {
   const said = partedIn(at)
-  if (said === null) return { said: answered([]), world }
+  if (said === null) return { said: stating([]), world }
   const qualified = `${said.pageType}/${said.slug}`
   const answers: Answer[] = []
   let seen = world
