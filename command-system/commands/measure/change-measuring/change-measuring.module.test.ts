@@ -1,8 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { put } from "@akasha/testing-system/putting"
 import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
-import { linesOf, windowIn } from "../check-measuring/check-measuring.module.code.ts"
-import { costsIn, heldIn, partsIn } from "./change-measuring.module.code.ts"
+import { linesOf, partsIn, windowIn } from "../check-measuring/check-measuring.module.code.ts"
+import { costsIn, heldIn } from "./change-measuring.module.code.ts"
 import {
   APPLY_AT,
   agoOf,

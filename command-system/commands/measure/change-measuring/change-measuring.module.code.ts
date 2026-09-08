@@ -1,12 +1,12 @@
-import { existsSync, readFileSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { uncommittedPartsOf } from "../../../../pages/file-parts/page-file-parts.module.code.ts"
 import {
   byCpu,
   type Chosen,
   type Costs,
   costOf,
   latestOf,
+  partsIn,
   type Run,
   rankedOf,
   runningOf,
@@ -14,10 +14,6 @@ import {
   totalOf,
   withinOf,
 } from "../check-measuring/check-measuring.module.code.ts"
-
-const ENTRIES = "entries"
-
-const HELD = "jsonl"
 
 export const CHANGE = "change"
 
@@ -31,11 +27,6 @@ export const PAGES: readonly string[] = [
 export interface Reading {
   readonly runs: readonly Run[]
   readonly unread: readonly string[]
-}
-
-export function partsIn(root: string, page: string): readonly string[] {
-  const there = (at: string): boolean => existsSync(join(root, at))
-  return uncommittedPartsOf(page, ENTRIES, HELD, there).filter(there)
 }
 
 export function heldIn(root: string): Reading {
