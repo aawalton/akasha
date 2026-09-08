@@ -222,18 +222,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/values/health/fitness/exercise-access": {
-      "name": "@akasha/exercise-access",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/command-system": "workspace:*",
-        "@akasha/day": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-service": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "alan/web": {
       "name": "@akasha/alanwalton-web",
       "dependencies": {
@@ -3069,8 +3057,6 @@
     "@akasha/eso-rig": ["@akasha/eso-rig@workspace:infrastructure/eso-rig"],
 
     "@akasha/eso-wallpapers": ["@akasha/eso-wallpapers@workspace:alan/eso/eso-wallpapers"],
-
-    "@akasha/exercise-access": ["@akasha/exercise-access@workspace:alan/values/health/fitness/exercise-access"],
 
     "@akasha/file-page-identity": ["@akasha/file-page-identity@workspace:file-page-identity"],
 
