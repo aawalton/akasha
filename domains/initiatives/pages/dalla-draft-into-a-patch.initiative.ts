@@ -31,7 +31,7 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
       workingMemory:
-        "`harness-landing` writes the tree with raw `writeFileSync`, `renameSync` and `rmSync`, reaching neither `landing` nor a change. `page-writing` lands with a null gate. Every `landedMechanically` call site composes its own `FileEdit`. `replace` builds its own `FileEdit` and imports nothing from `changes/`, so it is `change-file`'s act written twice. The `addressed` sidecar types every address as `Parameters<typeof import(path)['runChange']>[1]` and holds all 43, agent and mechanical alike.",
+        "`landedMechanically` is left at `cut-fingerprint`, `subagent-presence`, `subagent-sweep` and `tracking-landing`. A program re-landing a computed body reaches `add-if-not-present-file`, which states no edit where the body is already there, and a fold whose changes all state no edit lands nothing rather than refusing. A change resolves off the index at the root handed in, so nothing lands into a scratch repo. `harness-landing` still writes the tree raw; `page-writing` lands with a null gate.",
     },
     {
       statement: "Every change is a patch before it is applied.",
