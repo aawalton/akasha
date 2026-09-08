@@ -5,7 +5,7 @@ export const ellaHendersonLetSGoHomeTogetherStripped = {
   pageTypeSlug: "release",
   slug: "ella-henderson-let-s-go-home-together-stripped",
   title: "Let’s Go Home Together (Stripped)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 7.1665,
   ownProgress: 7.1665,

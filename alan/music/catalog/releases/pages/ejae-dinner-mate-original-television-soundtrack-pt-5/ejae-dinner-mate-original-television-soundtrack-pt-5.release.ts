@@ -5,7 +5,7 @@ export const ejaeDinnerMateOriginalTelevisionSoundtrackPt5 = {
   pageTypeSlug: "release",
   slug: "ejae-dinner-mate-original-television-soundtrack-pt-5",
   title: "DINNER MATE (Original Television Soundtrack) Pt.5",
-  partOfSlugs: ["ejae"],
+  partOfCollectionSlugs: ["ejae"],
   position: 0,
   ownLength: 7.678667,
   ownProgress: 7.678667,

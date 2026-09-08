@@ -5,7 +5,7 @@ export const coldplayYellow = {
   pageTypeSlug: "release",
   slug: "coldplay-yellow",
   title: "Yellow",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 11.568433,
   ownProgress: 11.568433,

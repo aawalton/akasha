@@ -5,7 +5,7 @@ export const elvisPresley2RaisedOnRock = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-raised-on-rock",
   title: "Raised On Rock",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 27.474817,
   ownProgress: 27.474817,

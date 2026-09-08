@@ -5,7 +5,7 @@ export const coldplayHymnForTheWeekendSeebRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-hymn-for-the-weekend-seeb-remix",
   title: "Hymn for the Weekend (Seeb Remix)",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 3.544117,
   ownProgress: 3.544117,

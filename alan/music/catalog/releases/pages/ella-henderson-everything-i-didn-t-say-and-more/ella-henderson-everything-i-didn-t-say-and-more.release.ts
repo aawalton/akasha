@@ -5,7 +5,7 @@ export const ellaHendersonEverythingIDidnTSayAndMore = {
   pageTypeSlug: "release",
   slug: "ella-henderson-everything-i-didn-t-say-and-more",
   title: "Everything I Didn’t Say And More",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 80.8534,
   ownProgress: 0,

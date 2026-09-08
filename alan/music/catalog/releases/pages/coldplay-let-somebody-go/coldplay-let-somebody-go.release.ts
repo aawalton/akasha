@@ -5,7 +5,7 @@ export const coldplayLetSomebodyGo = {
   pageTypeSlug: "release",
   slug: "coldplay-let-somebody-go",
   title: "Let Somebody Go",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 7.575733,
   ownProgress: 7.575733,

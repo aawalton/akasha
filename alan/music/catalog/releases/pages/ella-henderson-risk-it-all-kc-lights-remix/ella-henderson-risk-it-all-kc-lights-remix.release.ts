@@ -5,7 +5,7 @@ export const ellaHendersonRiskItAllKcLightsRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-risk-it-all-kc-lights-remix",
   title: "Risk It All (KC Lights Remix)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 6.328133,
   ownProgress: 6.328133,

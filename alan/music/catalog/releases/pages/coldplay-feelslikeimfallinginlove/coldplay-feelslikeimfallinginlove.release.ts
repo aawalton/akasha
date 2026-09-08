@@ -5,7 +5,7 @@ export const coldplayFeelslikeimfallinginlove = {
   pageTypeSlug: "release",
   slug: "coldplay-feelslikeimfallinginlove",
   title: "feelslikeimfallinginlove",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 3.963383,
   ownProgress: 3.963383,

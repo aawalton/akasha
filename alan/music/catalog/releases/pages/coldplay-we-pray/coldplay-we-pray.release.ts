@@ -5,7 +5,7 @@ export const coldplayWePray = {
   pageTypeSlug: "release",
   slug: "coldplay-we-pray",
   title: "WE PRAY",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 3.8901,
   ownProgress: 3.8901,

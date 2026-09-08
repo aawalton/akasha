@@ -5,7 +5,7 @@ export const elvisPresley2GIBlues = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-g-i-blues",
   title: "G.I. Blues",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 27.92015,
   ownProgress: 27.92015,

@@ -5,7 +5,7 @@ export const ellaHendersonGhostRemixes = {
   pageTypeSlug: "release",
   slug: "ella-henderson-ghost-remixes",
   title: "Ghost (Remixes)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 12.34755,
   ownProgress: 12.34755,

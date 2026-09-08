@@ -5,7 +5,7 @@ export const elvisPresley2PotluckWithElvis = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-potluck-with-elvis",
   title: "Potluck with Elvis",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 27.930433,
   ownProgress: 27.930433,

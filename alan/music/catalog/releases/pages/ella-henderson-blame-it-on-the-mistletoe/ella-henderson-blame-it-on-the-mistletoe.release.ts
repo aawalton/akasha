@@ -5,7 +5,7 @@ export const ellaHendersonBlameItOnTheMistletoe = {
   pageTypeSlug: "release",
   slug: "ella-henderson-blame-it-on-the-mistletoe",
   title: "Blame It On The Mistletoe",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 3.09565,
   ownProgress: 3.09565,

@@ -5,7 +5,7 @@ export const ellaHendersonLetSGoHomeTogetherLucaSchreinerExtendedRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-let-s-go-home-together-luca-schreiner-extended-remix",
   title: "Let’s Go Home Together (Luca Schreiner Extended Remix)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 3.233333,
   ownProgress: 3.233333,

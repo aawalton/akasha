@@ -5,7 +5,7 @@ export const coldplayVivaLaVidaProspektSMarchEdition = {
   pageTypeSlug: "release",
   slug: "coldplay-viva-la-vida-prospekt-s-march-edition",
   title: "Viva La Vida (Prospekt's March Edition)",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 73.351617,
   ownProgress: 73.351617,

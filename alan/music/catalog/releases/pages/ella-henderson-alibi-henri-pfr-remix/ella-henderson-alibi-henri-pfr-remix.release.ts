@@ -5,7 +5,7 @@ export const ellaHendersonAlibiHenriPfrRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-alibi-henri-pfr-remix",
   title: "Alibi (Henri PFR Remix)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 2.3712,
   ownProgress: 0,

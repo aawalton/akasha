@@ -5,7 +5,7 @@ export const elvisPresley2HarumScarumOriginalSoundtrack = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-harum-scarum-original-soundtrack",
   title: "Harum Scarum (Original Soundtrack)",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 24.616717,
   ownProgress: 24.616717,

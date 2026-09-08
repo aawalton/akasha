@@ -5,7 +5,7 @@ export const elvisPresley2Roustabout = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-roustabout",
   title: "Roustabout",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 20.384833,
   ownProgress: 20.384833,

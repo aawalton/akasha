@@ -5,7 +5,7 @@ export const coldplayCharlieBrownDaveAudeRemix = {
   pageTypeSlug: "release",
   slug: "coldplay-charlie-brown-dave-aude-remix",
   title: "Charlie Brown (Dave Audé Remix)",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 6.7307,
   ownProgress: 6.7307,

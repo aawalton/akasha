@@ -5,7 +5,7 @@ export const elvisPresley2GirlsGirlsGirlsOriginalSoundtrack = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-girls-girls-girls-original-soundtrack",
   title: "Girls! Girls! Girls! (Original Soundtrack)",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 26.29525,
   ownProgress: 26.29525,

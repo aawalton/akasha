@@ -5,7 +5,7 @@ export const ellaHendersonLetSGoHomeTogetherMotiExtendedRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-let-s-go-home-together-moti-extended-remix",
   title: "Let’s Go Home Together (MOTi Extended Remix)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 3.563483,
   ownProgress: 3.563483,

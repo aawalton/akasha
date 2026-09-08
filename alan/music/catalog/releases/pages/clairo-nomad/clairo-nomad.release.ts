@@ -5,7 +5,7 @@ export const clairoNomad = {
   pageTypeSlug: "release",
   slug: "clairo-nomad",
   title: "Nomad",
-  partOfSlugs: ["clairo"],
+  partOfCollectionSlugs: ["clairo"],
   position: 0,
   ownLength: 7.222783,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const coldplayWePrayTwiceVersion = {
   pageTypeSlug: "release",
   slug: "coldplay-we-pray-twice-version",
   title: "WE PRAY (TWICE Version)",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 4.125383,
   ownProgress: 4.125383,

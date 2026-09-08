@@ -5,7 +5,7 @@ export const ellaHendersonOneDoorClosesFeatBreland = {
   pageTypeSlug: "release",
   slug: "ella-henderson-one-door-closes-feat-breland",
   title: "One Door Closes (feat. Breland)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 3.118067,
   ownProgress: 0,

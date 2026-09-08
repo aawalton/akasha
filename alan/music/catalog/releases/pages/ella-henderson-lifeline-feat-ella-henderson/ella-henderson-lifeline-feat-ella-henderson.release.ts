@@ -5,7 +5,7 @@ export const ellaHendersonLifelineFeatEllaHenderson = {
   pageTypeSlug: "release",
   slug: "ella-henderson-lifeline-feat-ella-henderson",
   title: "Lifeline (feat. Ella Henderson)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 2.83755,
   ownProgress: 0,

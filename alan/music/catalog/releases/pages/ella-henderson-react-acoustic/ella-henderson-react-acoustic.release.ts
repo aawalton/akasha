@@ -5,7 +5,7 @@ export const ellaHendersonReactAcoustic = {
   pageTypeSlug: "release",
   slug: "ella-henderson-react-acoustic",
   title: "REACT (Acoustic)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 6.4686,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const ellaHendersonYoursRemixes = {
   pageTypeSlug: "release",
   slug: "ella-henderson-yours-remixes",
   title: "Yours (Remixes)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 16.432883,
   ownProgress: 16.432883,

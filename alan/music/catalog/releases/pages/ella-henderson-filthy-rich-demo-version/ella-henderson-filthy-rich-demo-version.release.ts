@@ -5,7 +5,7 @@ export const ellaHendersonFilthyRichDemoVersion = {
   pageTypeSlug: "release",
   slug: "ella-henderson-filthy-rich-demo-version",
   title: "Filthy Rich (Demo Version)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 2.8489,
   ownProgress: 0,

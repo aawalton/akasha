@@ -5,7 +5,7 @@ export const ellaHendersonAlibiLiveAcousticVersion = {
   pageTypeSlug: "release",
   slug: "ella-henderson-alibi-live-acoustic-version",
   title: "Alibi (Live Acoustic Version)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 3.506667,
   ownProgress: 0,

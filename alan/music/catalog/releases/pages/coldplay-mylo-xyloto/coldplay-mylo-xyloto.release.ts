@@ -5,7 +5,7 @@ export const coldplayMyloXyloto = {
   pageTypeSlug: "release",
   slug: "coldplay-mylo-xyloto",
   title: "Mylo Xyloto",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 44.17705,
   ownProgress: 44.17705,

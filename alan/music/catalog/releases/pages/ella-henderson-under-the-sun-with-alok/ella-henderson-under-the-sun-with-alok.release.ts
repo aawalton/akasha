@@ -5,7 +5,7 @@ export const ellaHendersonUnderTheSunWithAlok = {
   pageTypeSlug: "release",
   slug: "ella-henderson-under-the-sun-with-alok",
   title: "Under The Sun (with Alok)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 2.762383,
   ownProgress: 0,

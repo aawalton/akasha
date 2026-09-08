@@ -5,7 +5,7 @@ export const ellaHenderson0800Heaven = {
   pageTypeSlug: "release",
   slug: "ella-henderson-0800-heaven",
   title: "0800 HEAVEN",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 2.655267,
   ownProgress: 0,

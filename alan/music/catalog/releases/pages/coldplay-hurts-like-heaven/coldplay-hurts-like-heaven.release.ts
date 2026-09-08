@@ -5,7 +5,7 @@ export const coldplayHurtsLikeHeaven = {
   pageTypeSlug: "release",
   slug: "coldplay-hurts-like-heaven",
   title: "Hurts Like Heaven",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 4.03755,
   ownProgress: 4.03755,

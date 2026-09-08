@@ -5,7 +5,7 @@ export const coldplayCharlieBrown = {
   pageTypeSlug: "release",
   slug: "coldplay-charlie-brown",
   title: "Charlie Brown",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 4.75265,
   ownProgress: 4.75265,

@@ -5,7 +5,7 @@ export const elvisPresley2PlatinumALifeInMusic = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-platinum-a-life-in-music",
   title: "Platinum - A Life In Music",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 262.792533,
   ownProgress: 262.792533,

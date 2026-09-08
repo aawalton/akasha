@@ -5,7 +5,7 @@ export const ellaHendersonUnderTheSunWithAlokSwitchDiscoVipMix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-under-the-sun-with-alok-switch-disco-vip-mix",
   title: "Under The Sun (with Alok) [Switch Disco VIP Mix]",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 4.019367,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const elvisPresley2KissinCousins = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-kissin-cousins",
   title: "Kissin' Cousins",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 26.792367,
   ownProgress: 26.792367,

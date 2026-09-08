@@ -5,7 +5,7 @@ export const elvisPresley2ElvisSingsFlamingStar = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-elvis-sings-flaming-star",
   title: "Elvis Sings Flaming Star",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 20.4133,
   ownProgress: 20.4133,

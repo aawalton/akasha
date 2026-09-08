@@ -5,7 +5,7 @@ export const ellaHenderson21ReasonsFeatEllaHendersonLussoRemixExtended = {
   pageTypeSlug: "release",
   slug: "ella-henderson-21-reasons-feat-ella-henderson-lusso-remix-extended",
   title: "21 Reasons (feat. Ella Henderson) [LUSSO Remix] [Extended]",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 3.777767,
   ownProgress: 3.777767,

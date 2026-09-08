@@ -5,7 +5,7 @@ export const clairoLiveAtElectricLady = {
   pageTypeSlug: "release",
   slug: "clairo-live-at-electric-lady",
   title: "Live at Electric Lady",
-  partOfSlugs: ["clairo"],
+  partOfCollectionSlugs: ["clairo"],
   position: 0,
   ownLength: 19.649967,
   ownProgress: 0,

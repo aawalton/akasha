@@ -5,7 +5,7 @@ export const ellaHendersonWeGotLove = {
   pageTypeSlug: "release",
   slug: "ella-henderson-we-got-love",
   title: "We Got Love",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 3.550667,
   ownProgress: 3.550667,

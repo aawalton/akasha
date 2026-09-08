@@ -5,7 +5,7 @@ export const coldplayWePrayTiniVersion = {
   pageTypeSlug: "release",
   slug: "coldplay-we-pray-tini-version",
   title: "WE PRAY (TINI Version)",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 7.7802,
   ownProgress: 7.7802,

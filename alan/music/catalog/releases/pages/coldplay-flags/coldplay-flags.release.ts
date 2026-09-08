@@ -5,7 +5,7 @@ export const coldplayFlags = {
   pageTypeSlug: "release",
   slug: "coldplay-flags",
   title: "Flags",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 3.608217,
   ownProgress: 3.608217,

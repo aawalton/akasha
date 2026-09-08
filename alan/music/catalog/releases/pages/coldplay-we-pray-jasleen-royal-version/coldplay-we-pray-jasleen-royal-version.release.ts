@@ -5,7 +5,7 @@ export const coldplayWePrayJasleenRoyalVersion = {
   pageTypeSlug: "release",
   slug: "coldplay-we-pray-jasleen-royal-version",
   title: "WE PRAY (Jasleen Royal Version)",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 3.8901,
   ownProgress: 3.8901,

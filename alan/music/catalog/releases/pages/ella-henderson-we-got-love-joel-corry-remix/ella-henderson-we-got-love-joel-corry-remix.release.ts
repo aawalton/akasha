@@ -5,7 +5,7 @@ export const ellaHendersonWeGotLoveJoelCorryRemix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-we-got-love-joel-corry-remix",
   title: "We Got Love (Joel Corry Remix)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 2.661283,
   ownProgress: 2.661283,

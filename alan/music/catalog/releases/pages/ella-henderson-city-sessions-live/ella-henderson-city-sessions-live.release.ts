@@ -5,7 +5,7 @@ export const ellaHendersonCitySessionsLive = {
   pageTypeSlug: "release",
   slug: "ella-henderson-city-sessions-live",
   title: "City Sessions – Live",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 15.839683,
   ownProgress: 0,

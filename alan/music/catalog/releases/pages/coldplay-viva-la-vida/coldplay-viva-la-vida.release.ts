@@ -5,7 +5,7 @@ export const coldplayVivaLaVida = {
   pageTypeSlug: "release",
   slug: "coldplay-viva-la-vida",
   title: "Viva La Vida",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 5.3371,
   ownProgress: 5.3371,

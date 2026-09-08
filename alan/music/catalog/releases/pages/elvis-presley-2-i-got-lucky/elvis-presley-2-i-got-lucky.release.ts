@@ -5,7 +5,7 @@ export const elvisPresley2IGotLucky = {
   pageTypeSlug: "release",
   slug: "elvis-presley-2-i-got-lucky",
   title: "I Got Lucky",
-  partOfSlugs: ["elvis-presley-2"],
+  partOfCollectionSlugs: ["elvis-presley-2"],
   position: 0,
   ownLength: 27.134833,
   ownProgress: 27.134833,

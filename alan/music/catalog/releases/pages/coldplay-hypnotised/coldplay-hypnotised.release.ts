@@ -5,7 +5,7 @@ export const coldplayHypnotised = {
   pageTypeSlug: "release",
   slug: "coldplay-hypnotised",
   title: "Hypnotised",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 5.919533,
   ownProgress: 5.919533,

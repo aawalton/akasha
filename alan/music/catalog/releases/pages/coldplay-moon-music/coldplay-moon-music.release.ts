@@ -5,7 +5,7 @@ export const coldplayMoonMusic = {
   pageTypeSlug: "release",
   slug: "coldplay-moon-music",
   title: "Moon Music",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 44.005,
   ownProgress: 44.005,

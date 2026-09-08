@@ -5,7 +5,7 @@ export const ellaHendersonMeYouUnplugged = {
   pageTypeSlug: "release",
   slug: "ella-henderson-me-you-unplugged",
   title: "Me & You (Unplugged)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 3.09185,
   ownProgress: 0,

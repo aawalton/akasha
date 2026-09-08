@@ -5,7 +5,7 @@ export const ellaHendersonHurricane = {
   pageTypeSlug: "release",
   slug: "ella-henderson-hurricane",
   title: "Hurricane",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 6.2962,
   ownProgress: 6.2962,

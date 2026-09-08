@@ -5,7 +5,7 @@ export const ellaHendersonHeartstrings = {
   pageTypeSlug: "release",
   slug: "ella-henderson-heartstrings",
   title: "Heartstrings",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 3.52265,
   ownProgress: 0,

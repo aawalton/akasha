@@ -5,7 +5,7 @@ export const coldplayAllMyLovePnauXColdplay = {
   pageTypeSlug: "release",
   slug: "coldplay-all-my-love-pnau-x-coldplay",
   title: "ALL MY LOVE (PNAU x Coldplay)",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 3.242667,
   ownProgress: 3.242667,

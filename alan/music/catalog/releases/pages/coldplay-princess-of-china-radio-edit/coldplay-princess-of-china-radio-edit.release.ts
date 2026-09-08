@@ -5,7 +5,7 @@ export const coldplayPrincessOfChinaRadioEdit = {
   pageTypeSlug: "release",
   slug: "coldplay-princess-of-china-radio-edit",
   title: "Princess of China [Radio Edit]",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 3.62625,
   ownProgress: 3.62625,

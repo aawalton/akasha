@@ -5,7 +5,7 @@ export const coldplayAllMyLove = {
   pageTypeSlug: "release",
   slug: "coldplay-all-my-love",
   title: "ALL MY LOVE",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 11.0588,
   ownProgress: 11.0588,

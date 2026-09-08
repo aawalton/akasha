@@ -5,7 +5,7 @@ export const ellaHendersonRestOfOurDaysLiveFromLondon = {
   pageTypeSlug: "release",
   slug: "ella-henderson-rest-of-our-days-live-from-london",
   title: "Rest Of Our Days (Live From London)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 3.809467,
   ownProgress: 0,

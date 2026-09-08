@@ -5,7 +5,7 @@ export const coldplayTrueLove = {
   pageTypeSlug: "release",
   slug: "coldplay-true-love",
   title: "True Love",
-  partOfSlugs: ["coldplay"],
+  partOfCollectionSlugs: ["coldplay"],
   position: 0,
   ownLength: 4.1,
   ownProgress: 4.1,

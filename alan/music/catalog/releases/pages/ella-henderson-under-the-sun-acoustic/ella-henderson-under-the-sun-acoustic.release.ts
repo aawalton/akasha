@@ -5,7 +5,7 @@ export const ellaHendersonUnderTheSunAcoustic = {
   pageTypeSlug: "release",
   slug: "ella-henderson-under-the-sun-acoustic",
   title: "Under The Sun (Acoustic)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 4.17635,
   ownProgress: 0,

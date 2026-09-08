@@ -5,7 +5,7 @@ export const ellaHendersonGhost = {
   pageTypeSlug: "release",
   slug: "ella-henderson-ghost",
   title: "Ghost",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 3.601767,
   ownProgress: 3.601767,

@@ -5,7 +5,7 @@ export const ellaHendersonReactExtendedMix = {
   pageTypeSlug: "release",
   slug: "ella-henderson-react-extended-mix",
   title: "REACT (Extended Mix)",
-  partOfSlugs: ["ella-henderson"],
+  partOfCollectionSlugs: ["ella-henderson"],
   position: 0,
   ownLength: 7.511133,
   ownProgress: 0,

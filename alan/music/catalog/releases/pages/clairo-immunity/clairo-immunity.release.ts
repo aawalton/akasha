@@ -5,7 +5,7 @@ export const clairoImmunity = {
   pageTypeSlug: "release",
   slug: "clairo-immunity",
   title: "Immunity",
-  partOfSlugs: ["clairo"],
+  partOfCollectionSlugs: ["clairo"],
   position: 0,
   ownLength: 40.658817,
   ownProgress: 0,
