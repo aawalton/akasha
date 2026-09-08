@@ -10,9 +10,13 @@ const SAFE_QUOTED = /'[^']*'|"[^"`$\\]*"/g
 
 const WORD = "[^\\s'\"`$;|&<>()\\\\]+"
 
+const QUOTED = "'[^']*'"
+
+const PATH = "(?:" + WORD + "|" + QUOTED + ")"
+
 const FENCE = "HEREDOC"
 
-const READ = new RegExp("^akasha read( --full| --file-path " + WORD + ")*$")
+const READ = new RegExp("^akasha read( --full| --file-path " + PATH + ")*$")
 
 const CHANGE = new RegExp("^akasha change( " + WORD + "){0,2}( <<'" + FENCE + "')?$")
 
@@ -24,7 +28,9 @@ const REFUSED = [
   "",
   "  akasha read --file-path <path> [--full]",
   "",
-  "takes those flags and no other word, with nothing before it and nothing after it.",
+  "takes those flags and no other word, with nothing before it and nothing after it. A path",
+  "holding a character the shell would act on is written in single quotes, which the shell",
+  "leaves whole: `akasha read --file-path 'routes/api.pages.$pageTypeSlug.ts'`.",
   "",
   "  akasha change draft <act> <<'HEREDOC'",
   "  at: <path>",
@@ -86,6 +92,11 @@ export const SCOPE: readonly string[] = [
   "one of the names in a message without being judged as a call. A run holding a `$`, a backtick",
   "or a backslash is left in, because the shell rewrites what is inside such a run. The",
   "condition on the first word is what keeps `sh -c` from quoting its way past this hook.",
+  "",
+  "A PATH A READ NAMES is a bare word or a run in single quotes. A single-quoted run is literal",
+  "to the shell, so it is worth what a bare word is worth, and it is how a path holding a `$`",
+  "is named at all. Without it no such path could be read, and so no such file could be written",
+  "or taken away.",
   "",
   "NOT REACHED:",
   "  `akasha` reached by a name that is not `akasha`, which the trigger never finds",

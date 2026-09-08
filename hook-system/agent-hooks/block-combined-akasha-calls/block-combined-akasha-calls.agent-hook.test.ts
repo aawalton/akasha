@@ -11,6 +11,26 @@ test("a read naming file paths is let through", () => {
   expect(refusalIn("akasha read --file-path a/b.ts --file-path c/d.ts")).toBe(null)
 })
 
+test("a read naming a single-quoted path is let through", () => {
+  expect(refusalIn("akasha read --file-path 'a/b.ts'")).toBe(null)
+})
+
+test("a read naming a quoted path holding a dollar sign is let through", () => {
+  expect(refusalIn("akasha read --file-path 'routes/api.pages.$pageTypeSlug.ts'")).toBe(null)
+})
+
+test("a read naming a bare path holding a dollar sign is refused", () => {
+  expect(refusalIn("akasha read --file-path routes/api.pages.$pageTypeSlug.ts")).toContain(NAMES)
+})
+
+test("a quoted path beside a bare path is let through", () => {
+  expect(refusalIn("akasha read --file-path 'a/b.ts' --file-path c/d.ts")).toBe(null)
+})
+
+test("a quoted run following no path flag is refused", () => {
+  expect(refusalIn("akasha read --file-path a/b.ts 'c/d.ts'")).toContain(NAMES)
+})
+
 test("a read asking for the whole body is let through", () => {
   expect(refusalIn("akasha read --full --file-path a/b.ts")).toBe(null)
 })

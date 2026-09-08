@@ -30,6 +30,18 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
+      statement: "A path a read names is a bare word or a run in single quotes.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A run in single quotes reaches the program as the run was written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path no read can name is a path no change can write or take away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An approved read carries `--full`.",
     },
     {
