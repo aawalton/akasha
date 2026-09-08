@@ -10,7 +10,7 @@ export const blackInventors = {
   unitSlug: "minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "black-inventors",
   externalLink: "https://www.thegreatcoursesplus.com/black-inventors",

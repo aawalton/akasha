@@ -10,7 +10,11 @@ export const americaAndTheNewGlobalEconomy = {
   unitSlug: "minutes",
   ownLength: 1120.2,
   ownProgress: 1120.2,
-  partOfSlugs: ["all-great-courses", "business-and-finance-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "business-and-finance-great-courses",
+    "history-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "america-and-the-new-global-economy",
   externalLink: "https://www.thegreatcoursesplus.com/america-and-the-new-global-economy",

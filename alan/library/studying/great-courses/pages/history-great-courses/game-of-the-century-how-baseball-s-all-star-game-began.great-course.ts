@@ -10,7 +10,7 @@ export const gameOfTheCenturyHowBaseballSAllStarGameBegan = {
   unitSlug: "minutes",
   ownLength: 12.6,
   ownProgress: 12.6,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "history-great-courses",
     "hobby-and-personal-pursuits-great-courses",

@@ -10,7 +10,7 @@ export const foundationsOfEasternCivilization = {
   unitSlug: "minutes",
   ownLength: 1407,
   ownProgress: 1407,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "foundations-of-eastern-civilization",
   externalLink: "https://www.thegreatcoursesplus.com/foundations-of-eastern-civilization",

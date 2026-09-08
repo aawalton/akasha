@@ -10,7 +10,7 @@ export const figureDrawingAnEssentialGuide = {
   unitSlug: "minutes",
   ownLength: 93.6,
   ownProgress: 93.6,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "figure-drawing-an-essential-guide",
   externalLink: "https://www.thegreatcoursesplus.com/figure-drawing-an-essential-guide",

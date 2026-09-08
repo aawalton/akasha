@@ -10,7 +10,7 @@ export const realisticWatercolorsStepByStep = {
   unitSlug: "minutes",
   ownLength: 162,
   ownProgress: 162,
-  partOfSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "realistic-watercolors-step-by-step",
   externalLink: "https://www.thegreatcoursesplus.com/realistic-watercolors-step-by-step",

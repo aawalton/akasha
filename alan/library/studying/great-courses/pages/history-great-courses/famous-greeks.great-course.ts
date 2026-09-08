@@ -10,7 +10,7 @@ export const famousGreeks = {
   unitSlug: "minutes",
   ownLength: 736.8,
   ownProgress: 736.8,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "famous-greeks",
   externalLink: "https://www.thegreatcoursesplus.com/famous-greeks",

@@ -9,7 +9,7 @@ export const forensicHistoryCrimesFraudsAndScandals = {
   unitSlug: "minutes",
   ownLength: 735.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "forensic-history-crimes-frauds-and-scandals",
   externalLink: "https://www.thegreatcoursesplus.com/forensic-history-crimes-frauds-and-scandals",

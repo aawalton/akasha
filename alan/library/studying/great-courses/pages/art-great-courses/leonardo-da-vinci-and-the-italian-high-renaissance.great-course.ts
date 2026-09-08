@@ -10,7 +10,7 @@ export const leonardoDaVinciAndTheItalianHighRenaissance = {
   unitSlug: "minutes",
   ownLength: 1122,
   ownProgress: 1122,
-  partOfSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "leonardo-da-vinci-and-the-italian-high-renaissance",
   externalLink:

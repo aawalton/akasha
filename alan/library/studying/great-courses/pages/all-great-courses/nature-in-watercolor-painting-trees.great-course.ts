@@ -10,7 +10,7 @@ export const natureInWatercolorPaintingTrees = {
   unitSlug: "minutes",
   ownLength: 151.2,
   ownProgress: 151.2,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "nature-in-watercolor-painting-trees",
   externalLink: "https://www.thegreatcoursesplus.com/nature-in-watercolor-painting-trees",

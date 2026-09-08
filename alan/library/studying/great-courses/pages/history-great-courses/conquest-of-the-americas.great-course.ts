@@ -9,7 +9,7 @@ export const conquestOfTheAmericas = {
   unitSlug: "minutes",
   ownLength: 723,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "conquest-of-the-americas",
   externalLink: "https://www.thegreatcoursesplus.com/conquest-of-the-americas",

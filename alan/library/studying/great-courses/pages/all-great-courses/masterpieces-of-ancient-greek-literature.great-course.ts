@@ -9,7 +9,7 @@ export const masterpiecesOfAncientGreekLiterature = {
   unitSlug: "minutes",
   ownLength: 1105.133333,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "masterpieces-of-ancient-greek-literature",
   externalLink: "https://www.thegreatcoursesplus.com/masterpieces-of-ancient-greek-literature",

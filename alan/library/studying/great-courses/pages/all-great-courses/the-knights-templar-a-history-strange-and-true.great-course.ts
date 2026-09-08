@@ -9,7 +9,7 @@ export const theKnightsTemplarAHistoryStrangeAndTrue = {
   unitSlug: "minutes",
   ownLength: 663,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "the-knights-templar-a-history-strange-and-true",
   externalLink:

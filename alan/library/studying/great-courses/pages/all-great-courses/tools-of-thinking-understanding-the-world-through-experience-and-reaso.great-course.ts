@@ -9,7 +9,7 @@ export const toolsOfThinkingUnderstandingTheWorldThroughExperienceAndReaso = {
   unitSlug: "minutes",
   ownLength: 728.866667,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "tools-of-thinking-understanding-the-world-through-experience-and-reason",
   externalLink:

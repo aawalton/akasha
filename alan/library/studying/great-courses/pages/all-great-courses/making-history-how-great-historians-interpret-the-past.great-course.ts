@@ -9,7 +9,7 @@ export const makingHistoryHowGreatHistoriansInterpretThePast = {
   unitSlug: "minutes",
   ownLength: 734.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "making-history-how-great-historians-interpret-the-past",
   externalLink:

@@ -10,7 +10,7 @@ export const reflectionsInAcrylicDepictingLightOnWater = {
   unitSlug: "minutes",
   ownLength: 141.6,
   ownProgress: 141.6,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

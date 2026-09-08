@@ -10,7 +10,7 @@ export const flavorComesFirstHealthyMealsThatTasteDelicious = {
   unitSlug: "minutes",
   ownLength: 123,
   ownProgress: 123,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "flavor-comes-first-healthy-meals-that-taste-delicious",
   externalLink:

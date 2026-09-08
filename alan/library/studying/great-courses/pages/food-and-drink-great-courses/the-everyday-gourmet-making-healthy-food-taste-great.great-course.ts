@@ -10,7 +10,7 @@ export const theEverydayGourmetMakingHealthyFoodTasteGreat = {
   unitSlug: "minutes",
   ownLength: 198.6,
   ownProgress: 198.6,
-  partOfSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-everyday-gourmet-making-healthy-food-taste-great",
   externalLink:

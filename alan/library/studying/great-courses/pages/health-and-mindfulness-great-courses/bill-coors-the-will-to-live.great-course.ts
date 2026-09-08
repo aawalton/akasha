@@ -10,7 +10,7 @@ export const billCoorsTheWillToLive = {
   unitSlug: "minutes",
   ownLength: 126.6,
   ownProgress: 126.6,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "health-and-mindfulness-great-courses",
     "history-great-courses",

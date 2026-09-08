@@ -10,7 +10,11 @@ export const apollo11LessonsForAllTime = {
   unitSlug: "minutes",
   ownLength: 72.6,
   ownProgress: 72.6,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "apollo-11-lessons-for-all-time",
   externalLink: "https://www.thegreatcoursesplus.com/apollo-11-lessons-for-all-time",

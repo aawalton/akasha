@@ -10,7 +10,7 @@ export const athenianDemocracyAnExperimentForTheAges = {
   unitSlug: "minutes",
   ownLength: 777,
   ownProgress: 777,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "athenian-democracy-an-experiment-for-the-ages",
   externalLink: "https://www.thegreatcoursesplus.com/athenian-democracy-an-experiment-for-the-ages",

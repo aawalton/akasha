@@ -9,7 +9,7 @@ export const whyEvilExists = {
   unitSlug: "minutes",
   ownLength: 1148.4,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "why-evil-exists",
   externalLink: "https://www.thegreatcoursesplus.com/why-evil-exists",

@@ -10,7 +10,7 @@ export const adultEducationInTheAgeOfAiAPanelDiscussion = {
   unitSlug: "minutes",
   ownLength: 138.6,
   ownProgress: 138.6,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "business-and-finance-great-courses",
     "professional-growth-great-courses",

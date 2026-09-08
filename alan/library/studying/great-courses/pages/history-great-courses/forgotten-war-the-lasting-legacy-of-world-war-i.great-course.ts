@@ -10,7 +10,7 @@ export const forgottenWarTheLastingLegacyOfWorldWarI = {
   unitSlug: "minutes",
   ownLength: 21,
   ownProgress: 21,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "forgotten-war-the-lasting-legacy-of-world-war-i",
   externalLink:

@@ -10,7 +10,7 @@ export const theCathedral = {
   unitSlug: "minutes",
   ownLength: 739.8,
   ownProgress: 739.8,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "art-great-courses",
     "history-great-courses",

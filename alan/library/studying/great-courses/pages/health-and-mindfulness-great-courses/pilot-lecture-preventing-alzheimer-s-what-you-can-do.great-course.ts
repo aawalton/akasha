@@ -10,7 +10,7 @@ export const pilotLecturePreventingAlzheimerSWhatYouCanDo = {
   unitSlug: "minutes",
   ownLength: 34.2,
   ownProgress: 34.2,
-  partOfSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "preventing-alzheimer-s-what-you-can-do",
   externalLink: "https://www.thegreatcoursesplus.com/preventing-alzheimer-s-what-you-can-do",

@@ -10,7 +10,7 @@ export const advancedInvestments = {
   unitSlug: "minutes",
   ownLength: 766.2,
   ownProgress: 766.2,
-  partOfSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "advanced-investments",
   externalLink: "https://www.thegreatcoursesplus.com/advanced-investments",

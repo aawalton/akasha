@@ -9,7 +9,7 @@ export const theSkepticSGuideToHealthMedicineAndTheMedia = {
   unitSlug: "minutes",
   ownLength: 750.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "health-and-mindfulness-great-courses"],
   source: "the-great-courses",
   externalId: "the-skeptics-guide-to-health-medicine-and-the-media",
   externalLink:

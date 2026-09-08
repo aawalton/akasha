@@ -9,7 +9,7 @@ export const pyramidsOfTheWorld = {
   unitSlug: "minutes",
   ownLength: 364.766667,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "pyramids-of-the-world",
   externalLink: "https://www.thegreatcoursesplus.com/pyramids-of-the-world",

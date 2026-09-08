@@ -10,7 +10,7 @@ export const deliciousDishesForEverySeasonSummer = {
   unitSlug: "minutes",
   ownLength: 68.4,
   ownProgress: 68.4,
-  partOfSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "delicious-dishes-for-every-season-summer",
   externalLink: "https://www.thegreatcoursesplus.com/delicious-dishes-for-every-season-summer",

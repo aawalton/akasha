@@ -9,7 +9,7 @@ export const theGreatUnansweredQuestionsOfPhysics = {
   unitSlug: "minutes",
   ownLength: 751.3,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "the-great-unanswered-questions-of-physics",
   externalLink: "https://www.thegreatcoursesplus.com/the-great-unanswered-questions-of-physics",

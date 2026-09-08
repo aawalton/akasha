@@ -10,7 +10,7 @@ export const pilotLectureABriefHistoryOfCuba = {
   unitSlug: "minutes",
   ownLength: 37.8,
   ownProgress: 37.8,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-a-brief-history-of-cuba",
   externalLink: "https://www.thegreatcoursesplus.com/pilot-lecture-a-brief-history-of-cuba",

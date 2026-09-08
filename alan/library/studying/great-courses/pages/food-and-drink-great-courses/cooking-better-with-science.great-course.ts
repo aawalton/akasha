@@ -10,7 +10,7 @@ export const cookingBetterWithScience = {
   unitSlug: "minutes",
   ownLength: 357.6,
   ownProgress: 357.6,
-  partOfSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "cooking-better-with-science",
   externalLink: "https://www.thegreatcoursesplus.com/cooking-better-with-science",

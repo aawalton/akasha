@@ -9,7 +9,7 @@ export const understandingLiteratureAndLifeDramaPoetryNarrative = {
   unitSlug: "minutes",
   ownLength: 1976.883333,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-literature-and-life-drama-poetry-narrative",
   externalLink:

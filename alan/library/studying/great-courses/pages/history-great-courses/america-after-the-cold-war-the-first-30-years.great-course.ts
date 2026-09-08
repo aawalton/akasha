@@ -10,7 +10,11 @@ export const americaAfterTheColdWarTheFirst30Years = {
   unitSlug: "minutes",
   ownLength: 345,
   ownProgress: 345,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "learning-paths-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "learning-paths-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "america-after-the-cold-war-the-first-30-years",
   externalLink: "https://www.thegreatcoursesplus.com/america-after-the-cold-war-the-first-30-years",

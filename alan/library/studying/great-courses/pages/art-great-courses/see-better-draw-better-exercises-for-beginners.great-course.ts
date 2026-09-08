@@ -10,7 +10,7 @@ export const seeBetterDrawBetterExercisesForBeginners = {
   unitSlug: "minutes",
   ownLength: 133.8,
   ownProgress: 133.8,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "art-great-courses",
     "hobby-and-personal-pursuits-great-courses",

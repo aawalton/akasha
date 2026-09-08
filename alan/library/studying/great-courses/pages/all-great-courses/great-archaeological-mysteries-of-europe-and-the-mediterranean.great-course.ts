@@ -9,7 +9,7 @@ export const greatArchaeologicalMysteriesOfEuropeAndTheMediterranean = {
   unitSlug: "minutes",
   ownLength: 547.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "great-archaeological-mysteries-of-europe-and-the-mediterranean",
   externalLink:

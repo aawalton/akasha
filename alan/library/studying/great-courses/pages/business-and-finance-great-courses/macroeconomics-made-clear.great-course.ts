@@ -9,7 +9,7 @@ export const macroeconomicsMadeClear = {
   unitSlug: "minutes",
   ownLength: 753.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "business-and-finance-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "business-and-finance-great-courses"],
   source: "the-great-courses",
   externalId: "macroeconomics-made-clear",
   externalLink: "https://www.thegreatcoursesplus.com/macroeconomics-made-clear",

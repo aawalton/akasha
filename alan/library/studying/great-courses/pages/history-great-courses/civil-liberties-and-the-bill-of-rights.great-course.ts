@@ -9,7 +9,7 @@ export const civilLibertiesAndTheBillOfRights = {
   unitSlug: "minutes",
   ownLength: 36,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "civil-liberties-and-the-bill-of-rights",
   externalLink: "https://plus.thegreatcourses.com/civil-liberties-and-the-bill-of-rights",

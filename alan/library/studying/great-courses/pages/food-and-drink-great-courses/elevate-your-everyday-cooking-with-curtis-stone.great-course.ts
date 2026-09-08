@@ -10,7 +10,7 @@ export const elevateYourEverydayCookingWithCurtisStone = {
   unitSlug: "minutes",
   ownLength: 276.6,
   ownProgress: 276.6,
-  partOfSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "elevate-your-everyday-cooking-with-curtis-stone",
   externalLink:

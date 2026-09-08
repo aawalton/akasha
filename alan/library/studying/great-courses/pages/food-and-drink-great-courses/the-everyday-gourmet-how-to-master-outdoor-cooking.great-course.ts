@@ -10,7 +10,7 @@ export const theEverydayGourmetHowToMasterOutdoorCooking = {
   unitSlug: "minutes",
   ownLength: 400.2,
   ownProgress: 400.2,
-  partOfSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-everyday-gourmet-how-to-master-outdoor-cooking",
   externalLink:

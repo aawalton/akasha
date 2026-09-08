@@ -10,7 +10,7 @@ export const whereOurFoodReallyComesFrom = {
   unitSlug: "minutes",
   ownLength: 193.8,
   ownProgress: 193.8,
-  partOfSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "where-our-food-really-comes-from",
   externalLink: "https://www.thegreatcoursesplus.com/where-our-food-really-comes-from",

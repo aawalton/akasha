@@ -10,7 +10,7 @@ export const theEverydayGourmetBakingPastriesAndDesserts = {
   unitSlug: "minutes",
   ownLength: 232.2,
   ownProgress: 232.2,
-  partOfSlugs: ["all-great-courses", "food-and-drink-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "food-and-drink-great-courses"],
   source: "the-great-courses",
   externalId: "the-everyday-gourmet-baking-pastries-and-desserts",
   externalLink:

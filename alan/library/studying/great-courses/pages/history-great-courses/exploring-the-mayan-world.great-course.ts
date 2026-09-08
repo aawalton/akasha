@@ -10,7 +10,11 @@ export const exploringTheMayanWorld = {
   unitSlug: "minutes",
   ownLength: 205.8,
   ownProgress: 205.8,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "exploring-the-mayan-world",
   externalLink: "https://www.thegreatcoursesplus.com/exploring-the-mayan-world",

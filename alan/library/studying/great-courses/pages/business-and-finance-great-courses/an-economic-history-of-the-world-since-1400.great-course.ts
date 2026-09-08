@@ -10,7 +10,11 @@ export const anEconomicHistoryOfTheWorldSince1400 = {
   unitSlug: "minutes",
   ownLength: 1472.4,
   ownProgress: 1472.4,
-  partOfSlugs: ["all-great-courses", "business-and-finance-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "business-and-finance-great-courses",
+    "history-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "an-economic-history-of-the-world-since-1400",
   externalLink: "https://www.thegreatcoursesplus.com/an-economic-history-of-the-world-since-1400",

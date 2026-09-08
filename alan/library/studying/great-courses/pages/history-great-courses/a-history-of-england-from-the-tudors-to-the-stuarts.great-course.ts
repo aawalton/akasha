@@ -10,7 +10,7 @@ export const aHistoryOfEnglandFromTheTudorsToTheStuarts = {
   unitSlug: "minutes",
   ownLength: 1458,
   ownProgress: 1458,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "a-history-of-england-from-the-tudors-to-the-stuarts",
   externalLink:

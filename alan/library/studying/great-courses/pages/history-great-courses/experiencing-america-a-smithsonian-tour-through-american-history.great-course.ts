@@ -10,7 +10,11 @@ export const experiencingAmericaASmithsonianTourThroughAmericanHistory = {
   unitSlug: "minutes",
   ownLength: 777,
   ownProgress: 777,
-  partOfSlugs: ["all-great-courses", "history-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "history-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "experiencing-america-a-smithsonian-tour-through-american-history",
   externalLink:

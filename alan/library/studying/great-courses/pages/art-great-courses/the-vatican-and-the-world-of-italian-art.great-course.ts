@@ -9,7 +9,7 @@ export const theVaticanAndTheWorldOfItalianArt = {
   unitSlug: "minutes",
   ownLength: 14,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "art-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "art-great-courses"],
   source: "the-great-courses",
   externalId: "the-vatican-and-the-world-of-italian-art",
   externalLink: "https://plus.thegreatcourses.com/the-vatican-and-the-world-of-italian-art",

@@ -9,7 +9,7 @@ export const theOlmecsMesoamericaSMysteriousFirstCivilization = {
   unitSlug: "minutes",
   ownLength: 436.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "the-olmecs-mesoamerica-s-mysterious-first-civilization",
   externalLink:

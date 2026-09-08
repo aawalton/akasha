@@ -9,7 +9,7 @@ export const robertELeeAndHisHighCommand = {
   unitSlug: "minutes",
   ownLength: 733.333333,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses"],
   source: "the-great-courses",
   externalId: "robert-e-lee-and-his-high-command",
   externalLink: "https://www.thegreatcoursesplus.com/robert-e-lee-and-his-high-command",

@@ -10,7 +10,7 @@ export const aHistorianGoesToTheMoviesGladiatorFactVsFiction = {
   unitSlug: "minutes",
   ownLength: 42.6,
   ownProgress: 42.6,
-  partOfSlugs: ["all-great-courses", "history-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "history-great-courses"],
   source: "the-great-courses",
   externalId: "a-historian-goes-to-the-movies-gladiator-fact-or-fiction",
   externalLink:
