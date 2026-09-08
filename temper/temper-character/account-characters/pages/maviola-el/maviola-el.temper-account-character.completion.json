@@ -1011,6 +1011,7 @@
     6548,
     6550,
     6551,
+    6554,
     6564,
     6576,
     6577,
@@ -6939,8 +6940,8 @@
     "groupDungeonTotal": 26,
     "tutorial": 0,
     "skyshardPoints": 176,
-    "unassigned": 156,
-    "zoneQuestTotal": 114,
+    "unassigned": 157,
+    "zoneQuestTotal": 115,
     "publicDungeons": {
       "EP4": 1,
       "AD1": 1,
@@ -7103,7 +7104,7 @@
       "EP2": 3,
       "DC2": 3,
       "DC0a": 0,
-      "TR": 4,
+      "TR": 5,
       "DC3": 3,
       "WR": 3,
       "DC4": 3,
@@ -7136,7 +7137,7 @@
       "AP": 8,
       "GY": 0
     },
-    "total": 444,
+    "total": 445,
     "maelstromArena": 1
   },
   "traitResearch": {
@@ -12999,7 +13000,8 @@
         "1": 1,
         "2": 2,
         "3": 3,
-        "4": 4
+        "4": 4,
+        "5": 5
       },
       "2": {
         "1": 1,
