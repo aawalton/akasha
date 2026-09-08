@@ -46,7 +46,7 @@ export function assertStoryExists(): undefined {
 export function filedChapterLinks(): ReadonlySet<string> {
   const asked = asking(akashaRoot(), {
     pageTypeSlug: CHAPTER_PAGE_TYPE,
-    where: { partOfSlugs: { has: STORY_ADDRESS } },
+    where: { partOfCollectionSlugs: { has: STORY_ADDRESS } },
     keys: ["externalLink"],
   })
   if ("refused" in asked) {
@@ -84,7 +84,7 @@ export async function fileChapter(chapter: Filing): Promise<string> {
     pageTypeSlug: CHAPTER_PAGE_TYPE,
     slug,
     title: chapter.title,
-    partOfSlugs: [STORY_ADDRESS],
+    partOfCollectionSlugs: [STORY_ADDRESS],
     position: chapter.position,
     ownLength: countChapterWords(chapter.text),
     unitSlug: WORDS,

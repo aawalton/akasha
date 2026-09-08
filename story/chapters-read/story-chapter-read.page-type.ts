@@ -53,7 +53,7 @@ export const storyChapterRead = {
     },
   },
   sequence: {
-    groupBy: "partOfSlugs",
+    groupBy: "partOfCollectionSlugs",
     orderBy: "position",
     direction: "asc",
   },

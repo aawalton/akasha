@@ -32,7 +32,7 @@ export const storyRead = {
     },
     childCollection: {
       childType: "story-chapter-read",
-      childRelation: "partOfSlugs",
+      childRelation: "partOfCollectionSlugs",
     },
   },
   partSlugs: ["select-property/publication-status", "text-property/external-tags"],
