@@ -36,10 +36,6 @@ function marksByTask(marks: readonly CharacterMark[]): Map<string, Set<string>> 
   return held
 }
 
-// A task of `next_character` scope waits on the one character it falls to, and that character
-// progressing is enough. A task of `all_characters` scope waits on the whole roster, where a
-// character counts as answered by completing the task or by progressing at it. A character the
-// game holds no record for has not progressed, so the roster is the count either way.
 export function rollVerdicts(inputs: RollInputs): readonly RollVerdict[] {
   const completedBy = marksByTask(inputs.completed)
   const progressedBy = marksByTask(inputs.progressed)
