@@ -19,8 +19,7 @@ export const runsTabooCheck = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The words a page type's own file carries are judged whatever that page type says.",
+      statement: "The words a page type's own file has are judged whatever that page type says.",
     },
     {
       invariantKind: "departure",

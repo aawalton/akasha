@@ -14,11 +14,11 @@ export const removePackageAlias = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The name the package carries now is read from the manifest the caller names.",
+      statement: "The name the package has now is read from the manifest the caller names.",
     },
     {
       invariantKind: "departure",
-      statement: "An old name equal to the name the package carries is refused.",
+      statement: "An old name equal to the name the package has is refused.",
     },
     {
       invariantKind: "departure",

@@ -7,5 +7,5 @@ export const required = {
   pageTypeSlug: "boolean-property",
   slug: "required",
   propertySlug: "required",
-  definition: "whether a page of this type must carry the property",
+  definition: "whether a page of this type must have the property",
 } as const satisfies BooleanProperty

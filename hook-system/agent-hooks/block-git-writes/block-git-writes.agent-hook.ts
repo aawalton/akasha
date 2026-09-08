@@ -12,7 +12,7 @@ export const blockGitWrites = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A git write is refused unless the call carries a flag that writes nothing.",
+      statement: "A git write is refused unless the call has a flag that writes nothing.",
     },
     {
       invariantKind: "departure",

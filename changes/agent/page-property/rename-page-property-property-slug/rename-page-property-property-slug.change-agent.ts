@@ -7,8 +7,7 @@ export const renamePagePropertyPropertySlug = {
   changeModeSlug: "change-mode-rename",
   changeTargetTypeSlug: "change-target-type/page-property",
   changeTargetSubtypeSlug: "change-target-subtype/page-property-property-slug",
-  definition:
-    "one property's key spelled anew on that property's page and on every page carrying it",
+  definition: "one property's key spelled anew on that property's page and on every page with it",
   code: "ts",
   test: "ts",
   runsChecks: false,
@@ -35,11 +34,11 @@ export const renamePagePropertyPropertySlug = {
     {
       invariantKind: "departure",
       statement:
-        "Which pages carry the key is read from the values the index files for each page type.",
+        "Which pages have the key is read from the values the index files for each page type.",
     },
     {
       invariantKind: "absence",
-      statement: "No page body is read to find out which pages carry the key.",
+      statement: "No page body is read to find out which pages have the key.",
     },
     {
       invariantKind: "departure",

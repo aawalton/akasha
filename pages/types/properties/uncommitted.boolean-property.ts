@@ -7,7 +7,7 @@ export const uncommitted = {
   pageTypeSlug: "boolean-property",
   slug: "uncommitted",
   propertySlug: "uncommitted",
-  definition: "whether the value a page carries for this property stands outside the commit",
+  definition: "whether the value a page has for this property stands outside the commit",
   invariants: [
     {
       invariantKind: "departure",

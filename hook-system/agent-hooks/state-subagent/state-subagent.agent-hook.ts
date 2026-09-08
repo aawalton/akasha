@@ -23,7 +23,7 @@ export const stateSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "The seat is named by the page the index carries for the id the call runs under.",
+      statement: "The seat is named by the page the index has for the id the call runs under.",
     },
     {
       invariantKind: "departure",

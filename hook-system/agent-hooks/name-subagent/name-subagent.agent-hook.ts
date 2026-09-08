@@ -16,7 +16,7 @@ export const nameSubagent = {
     },
     {
       invariantKind: "departure",
-      statement: "A call the seat makes carries nothing.",
+      statement: "A call the seat makes has nothing.",
     },
     {
       invariantKind: "departure",

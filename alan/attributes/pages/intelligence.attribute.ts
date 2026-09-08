@@ -19,7 +19,7 @@ export const intelligence = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying no count earns nothing rather than an intelligence of zero.",
+      statement: "A day with no count earns nothing rather than an intelligence of zero.",
     },
     {
       invariantKind: "absence",

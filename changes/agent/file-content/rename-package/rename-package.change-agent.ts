@@ -42,7 +42,7 @@ export const renamePackage = {
     {
       invariantKind: "departure",
       statement:
-        "A new name the package already carries is refused where the caller states no old name.",
+        "A new name the package already has is refused where the caller states no old name.",
     },
     {
       invariantKind: "departure",
@@ -87,7 +87,7 @@ export const renamePackage = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest keeps the spacing that manifest already carries.",
+      statement: "A manifest keeps the spacing that manifest already has.",
     },
     {
       invariantKind: "departure",

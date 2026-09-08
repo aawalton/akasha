@@ -14,7 +14,7 @@ export const changePagePagePropertyText = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The property a key names is read from the schema the index carries.",
+      statement: "The property a key names is read from the schema the index has.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const changePagePagePropertyText = {
     },
     {
       invariantKind: "departure",
-      statement: "A key the page's own page type carries no property for is refused.",
+      statement: "A key the page's own page type has no property for is refused.",
     },
     {
       invariantKind: "absence",

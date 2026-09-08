@@ -79,7 +79,7 @@ export const removePackageManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest a name goes out of or is restated in keeps the spacing it carries.",
+      statement: "A manifest a name goes out of or is restated in keeps the spacing it has.",
     },
     {
       invariantKind: "gap",

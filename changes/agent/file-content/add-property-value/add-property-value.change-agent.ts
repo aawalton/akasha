@@ -50,7 +50,7 @@ export const addPropertyValue = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether the property carries one value is read from the type the page states.",
+      statement: "Whether the property has one value is read from the type the page states.",
     },
     {
       invariantKind: "departure",

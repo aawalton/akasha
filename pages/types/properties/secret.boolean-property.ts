@@ -7,8 +7,7 @@ export const secret = {
   pageTypeSlug: "boolean-property",
   slug: "secret",
   propertySlug: "secret",
-  definition:
-    "whether the value a page carries for this property is hidden from whoever has the files",
+  definition: "whether the value a page has for this property is hidden from whoever has the files",
   invariants: [
     {
       invariantKind: "departure",
@@ -21,7 +20,7 @@ export const secret = {
     },
     {
       invariantKind: "absence",
-      statement: "No write of the page's own file carries a secret value.",
+      statement: "No write of the page's own file has a secret value.",
     },
     {
       invariantKind: "departure",

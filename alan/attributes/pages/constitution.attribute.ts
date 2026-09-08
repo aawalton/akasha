@@ -28,7 +28,7 @@ export const constitution = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a figure the tracking day carries.",
+      statement: "Nothing here reads a figure the tracking day has.",
     },
   ],
 } as const satisfies Attribute

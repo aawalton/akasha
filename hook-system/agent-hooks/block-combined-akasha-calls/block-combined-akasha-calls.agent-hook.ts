@@ -22,11 +22,11 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "The whole command is matched rather than the calls the command carries.",
+      statement: "The whole command is matched rather than the calls the command has.",
     },
     {
       invariantKind: "departure",
-      statement: "An approved read carries `--file-path` flags.",
+      statement: "An approved read has `--file-path` flags.",
     },
     {
       invariantKind: "departure",
@@ -46,15 +46,15 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "An approved read carries no other word.",
+      statement: "An approved read has no other word.",
     },
     {
       invariantKind: "departure",
-      statement: "An approved change carries the change command.",
+      statement: "An approved change has the change command.",
     },
     {
       invariantKind: "departure",
-      statement: "An approved change carries the one word that command takes.",
+      statement: "An approved change has the one word that command takes.",
     },
     {
       invariantKind: "departure",
@@ -116,7 +116,7 @@ export const blockCombinedAkashaCalls = {
     },
     {
       invariantKind: "constraint",
-      statement: "No approved form carries shell structure.",
+      statement: "No approved form has shell structure.",
     },
     {
       invariantKind: "gap",
