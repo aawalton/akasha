@@ -58,10 +58,10 @@ export function folding(root: string, page: string): Folded {
       return had
     }
     answer = {
-      folded: [...bodies.keys()].sort(),
+      folded: [...bodies.held.keys(), ...bodies.carries.map((one) => one.to)].sort(),
       dropped,
       unfold: { went: linesIn(root, page) },
-      carried: { held: bodies, running: CHANGED },
+      carried: { held: bodies.held, running: CHANGED, carries: bodies.carries },
     }
     return had
   })
@@ -77,7 +77,7 @@ export function rebasedRows(
   if (said.refused !== null) return { why: said.refused }
   const bodies = bodiesFrom(root, said)
   if ("why" in bodies) return bodies
-  return rebasedHeld(root, base, bodies)
+  return rebasedHeld(root, base, bodies.held)
 }
 
 export function undone(root: string, page: string, unfold: Unfold, landed: boolean): string | null {

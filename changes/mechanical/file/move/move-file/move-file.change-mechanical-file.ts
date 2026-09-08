@@ -16,7 +16,7 @@ export const moveFile = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The body carried is the body standing at the path the move came from.",
+      statement: "A move lands as a path carried rather than a body written and a body taken away.",
     },
     {
       invariantKind: "departure",

@@ -78,7 +78,7 @@ export async function runMechanicalChange(
     NO_GATE,
     writing.writer ?? null,
     [],
-    { held, running: MECHANICAL },
+    { held: held.held, running: MECHANICAL, carries: held.carries },
     writing.read ?? null
   )
 }

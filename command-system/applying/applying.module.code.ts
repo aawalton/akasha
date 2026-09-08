@@ -67,8 +67,12 @@ export function noneSaid(root: string, page: string): string {
   return `${NONE} — a subagent's draft goes to its seat when the subagent stops, so ask the ${seat} seat for what was drafted here before`
 }
 
-export function messageFor(said: string | null, held: Bodies): string {
-  return said ?? defaultMessage(APPLIES, [...held.keys()])
+export function messageFor(
+  said: string | null,
+  held: Bodies,
+  carries: readonly FileCarry[] = []
+): string {
+  return said ?? defaultMessage(APPLIES, [...held.keys(), ...carries.map((one) => one.to)])
 }
 
 export type Applying = Answer & { readonly landed: boolean }
@@ -138,7 +142,7 @@ export async function applying(
   const built0 = broken === null && "gate" in built ? built.gate : NO_GATE
   const gate = asked.measure ? measured(built0) : built0
   const unloaded = "gate" in built ? null : built.broken
-  const said0 = messageFor(asked.message, carried.held)
+  const said0 = messageFor(asked.message, carried.held, carried.carries)
   const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   if (asked.measure) process.env[MEASURING] = MARK
@@ -172,7 +176,11 @@ export async function applying(
   }
 }
 
-export type Carried = { readonly held: Bodies; readonly running: Running }
+export type Carried = {
+  readonly held: Bodies
+  readonly running: Running
+  readonly carries?: readonly FileCarry[]
+}
 
 export type Applied = {
   readonly base: string
@@ -252,6 +260,7 @@ export async function applied(
   if (running.writerOwesReading && agentId !== null)
     warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
+  const carrying = [...carries, ...(holding.carries ?? [])]
   const done = await landing(
     root,
     prepared.changes,
@@ -260,7 +269,7 @@ export async function applied(
     writer,
     read ?? head,
     asRead,
-    carries,
+    carrying,
     null,
     prepared.over
   )

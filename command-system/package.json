@@ -39,6 +39,7 @@
     "./landing": "./landing/landing.module.code.ts",
     "./landing/testing": "./landing/landing.module.test-fixtures.ts",
     "./landing-saying": "./landing-saying/landing-saying.module.code.ts",
+    "./path-carrying": "./path-carrying/path-carrying.module.code.ts",
     "./mechanical-landing": "./mechanical-landing/mechanical-landing.module.code.ts",
     "./long-body": "./commands/read/long-body/long-body.module.code.ts",
     "./piping": "./piping/piping.module.code.ts",

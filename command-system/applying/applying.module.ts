@@ -67,6 +67,10 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "A carry the bodies handed in name is handed on beside the caller's carries.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A conflict refuses the apply and leaves the patch as the patch was.",
     },
     {

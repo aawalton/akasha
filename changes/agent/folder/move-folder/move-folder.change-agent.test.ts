@@ -1,6 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
-import { writeFileSync } from "node:fs"
+import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { bodiesFrom } from "@akasha/command-system/edits-landing"
+import { carriedOnto } from "@akasha/command-system/path-carrying"
 import { indexedRepo, pageOf, put, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
@@ -66,7 +68,7 @@ const UNNAMED = `${FROM}/deep/notes.txt`
 
 const NOT_TEXT = `${FROM}/deep/held.png`
 
-const PNG = new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a])
+const PNG = new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 0xff, 0xfe, 0x00, 0x11])
 
 const MOVE_FILE = "change-mechanical-file/move-file"
 
@@ -143,13 +145,20 @@ test("a file the index names nowhere is carried with the rest", async () => {
   expect(pathsIn(said)).toContain(`${INTO}/deep/notes.txt`)
 })
 
-test("a body that is not text is carried rather than refused", async () => {
+test("a body that is not text moves with its bytes unchanged", async () => {
   const root = indexedRepo(HELD)
   writeFileSync(join(root, NOT_TEXT), PNG)
   const said = await moveFolder(worldIn(root), { at: FROM, to: INTO })
+  const landed = `${INTO}/deep/held.png`
+  const held = bodiesFrom(root, said)
+  if ("why" in held) throw new Error(held.why)
+  carriedOnto(root, held.carries)
 
   expect(said.refused).toBeNull()
-  expect(pathsIn(said)).toContain(`${INTO}/deep/held.png`)
+  expect(pathsIn(said)).toContain(landed)
+  expect(held.carries).toContainEqual({ from: NOT_TEXT, to: landed })
+  expect(held.held.has(landed)).toBe(false)
+  expect(new Uint8Array(readFileSync(join(root, landed)))).toEqual(PNG)
 })
 
 test("a folder already holding a body at a path the move would write is refused", async () => {
