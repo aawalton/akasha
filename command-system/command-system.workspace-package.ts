@@ -18,7 +18,6 @@ export const commandSystem = {
     "module/command-declaring",
     "module/gated-write",
     "module/ios-widget-swift",
-    "module/ios-widget-emit",
     "module/command-failing",
     "module/argument-narrowing",
     "module/landing",
