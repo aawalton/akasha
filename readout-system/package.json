@@ -9,6 +9,7 @@
     "./monarch-unreviewed-transactions": "./readouts/pages/monarch-unreviewed-transactions/monarch-unreviewed-transactions.readout.code.ts",
     "./upkeep-activity": "./readouts/pages/upkeep-activity/upkeep-activity.readout.code.ts",
     "./upkeep-plants": "./readouts/pages/upkeep-plants/upkeep-plants.readout.code.ts",
+    "./upkeep-plants/testing": "./readouts/pages/upkeep-plants/upkeep-plants.readout.test-fixtures.ts",
     "./upkeep-capacity": "./readouts/pages/upkeep-capacity/upkeep-capacity.readout.code.ts",
     "./upkeep-safety": "./readouts/pages/upkeep-safety/upkeep-safety.readout.code.ts",
     "./upkeep-sleep": "./readouts/pages/upkeep-sleep/upkeep-sleep.readout.code.ts",
