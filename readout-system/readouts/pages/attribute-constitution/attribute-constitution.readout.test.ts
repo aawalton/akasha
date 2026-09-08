@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { answering, refusing } from "../../../readout-asking/readout-asking.module.test-fixtures.ts"
+import { ate } from "../upkeep-plants/upkeep-plants.readout.test-fixtures.ts"
 import {
   constitutionIn,
   fetchConstitutionPoints,
@@ -9,8 +10,6 @@ import {
 const FROM = "2026-09-01T13:00:00.000Z"
 
 const TO = "2026-09-02T13:00:00.000Z"
-
-const ate = (grams: unknown) => ({ values: { id: "one", plantGrams: grams } })
 
 test("a hundred grams of whole plants eaten is one point", () => {
   expect(GRAMS_TO_THE_POINT).toBe(100)

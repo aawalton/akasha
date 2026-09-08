@@ -7,6 +7,7 @@ export const upkeepPlants = {
   definition: "how many grams of whole plants Alan has eaten in a day",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   label: "Plants",
   unit: "grams",
   place: 4,

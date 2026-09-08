@@ -1,12 +1,11 @@
 import { expect, test } from "bun:test"
 import { answering, refusing } from "../../../readout-asking/readout-asking.module.test-fixtures.ts"
 import { entriesBetween, fetchPlantGrams, gramsIn } from "./upkeep-plants.readout.code.ts"
+import { ate } from "./upkeep-plants.readout.test-fixtures.ts"
 
 const FROM = "2026-09-01T13:00:00.000Z"
 
 const TO = "2026-09-02T13:00:00.000Z"
-
-const ate = (grams: unknown) => ({ values: { id: "one", plantGrams: grams } })
 
 test("the entries asked for are the food entries inside the window handed in", () => {
   const query = entriesBetween(FROM, TO) as Record<string, unknown>
