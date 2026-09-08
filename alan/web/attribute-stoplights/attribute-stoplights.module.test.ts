@@ -1,14 +1,14 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { join } from "node:path"
-import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
+import { answerStoplightsAdmittedBy } from "@akasha/readouts/readout-group-serving"
 import {
   colorIn,
   readoutsNaming,
   type Tile,
   tileAt,
-} from "@akasha/readout-system/readout-group-serving/testing"
-import { dropRelayed } from "@akasha/readout-system/readout-relay"
-import { relayedFor } from "@akasha/readout-system/readout-relay/testing"
+} from "@akasha/readouts/readout-group-serving/testing"
+import { dropRelayed } from "@akasha/readouts/readout-relay"
+import { relayedFor } from "@akasha/readouts/readout-relay/testing"
 import { GROUP, WIRE_KEY_NAME } from "./attribute-stoplights.module.code.ts"
 
 globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response

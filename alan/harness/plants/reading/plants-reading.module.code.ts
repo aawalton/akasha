@@ -1,8 +1,8 @@
 import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-service/asking"
-import type { Asking } from "@akasha/readout-system/readout-asking"
-import { keepReading } from "@akasha/readout-system/readout-reading"
-import { fetchPlantGrams } from "@akasha/readout-system/upkeep-plants"
+import type { Asking } from "@akasha/readouts/readout-asking"
+import { keepReading } from "@akasha/readouts/readout-reading"
+import { fetchPlantGrams } from "@akasha/readouts/upkeep-plants"
 import {
   wakeDayOf,
   wakeDayWindow,

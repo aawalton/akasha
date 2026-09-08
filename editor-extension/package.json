@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "@akasha/design-tokens": "workspace:*",
-    "@akasha/readout-system": "workspace:*",
+    "@akasha/readouts": "workspace:*",
     "@akasha/utils-run": "workspace:*",
     "zod": "^4.3.6"
   },

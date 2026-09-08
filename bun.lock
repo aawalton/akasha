@@ -738,7 +738,7 @@
       "name": "@akasha/editor-extension",
       "dependencies": {
         "@akasha/design-tokens": "workspace:*",
-        "@akasha/readout-system": "workspace:*",
+        "@akasha/readouts": "workspace:*",
         "@akasha/utils-run": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -1353,7 +1353,7 @@
       },
     },
     "readouts": {
-      "name": "@akasha/readout-system",
+      "name": "@akasha/readouts",
       "dependencies": {
         "@akasha/domains": "workspace:*",
         "@akasha/pages-service": "workspace:*",
@@ -3183,7 +3183,7 @@
 
     "@akasha/reading": ["@akasha/reading@workspace:alan/library/reading"],
 
-    "@akasha/readout-system": ["@akasha/readout-system@workspace:readouts"],
+    "@akasha/readouts": ["@akasha/readouts@workspace:readouts"],
 
     "@akasha/recurrence": ["@akasha/recurrence@workspace:recurrence"],
 

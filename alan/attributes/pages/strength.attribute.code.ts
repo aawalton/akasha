@@ -1,4 +1,4 @@
-import { statedAt } from "@akasha/readout-system/readout-tier"
+import { statedAt } from "@akasha/readouts/readout-tier"
 
 const STRENGTH_VOLUME = "strength-volume"
 

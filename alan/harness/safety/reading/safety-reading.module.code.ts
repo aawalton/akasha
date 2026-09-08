@@ -1,5 +1,5 @@
-import { keepReading } from "@akasha/readout-system/readout-reading"
-import { levelIn } from "@akasha/readout-system/upkeep-safety"
+import { keepReading } from "@akasha/readouts/readout-reading"
+import { levelIn } from "@akasha/readouts/upkeep-safety"
 import { openSession } from "../../../track/daily/day-stretches/day-stretches.module.code.ts"
 
 export const READOUT_PAGE = "readouts/pages/upkeep-safety/upkeep-safety.readout.ts"

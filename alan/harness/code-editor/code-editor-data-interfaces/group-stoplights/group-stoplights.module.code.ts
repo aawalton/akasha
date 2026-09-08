@@ -1,4 +1,4 @@
-import type { Stoplight } from "@akasha/readout-system/readout-group-serving"
+import type { Stoplight } from "@akasha/readouts/readout-group-serving"
 
 const LEGEND_SEPARATOR = " · "
 

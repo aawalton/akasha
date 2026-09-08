@@ -3,8 +3,8 @@ import {
   presentsSecret,
   READOUT_CACHE_CONTROL,
   RELAY_SECRET_HEADER,
-} from "@akasha/readout-system/readout-credential"
-import { holdRelayed, RELAY_SECRET_NAME, relayedIn } from "@akasha/readout-system/readout-relay"
+} from "@akasha/readouts/readout-credential"
+import { holdRelayed, RELAY_SECRET_NAME, relayedIn } from "@akasha/readouts/readout-relay"
 import type { Route } from "./+types/jenny-readout-relay.route.code"
 
 const NO_READING_IN_THE_BODY = {

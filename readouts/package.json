@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/readout-system",
+  "name": "@akasha/readouts",
   "private": true,
   "type": "module",
   "exports": {

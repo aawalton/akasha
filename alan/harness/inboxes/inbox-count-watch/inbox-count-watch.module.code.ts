@@ -4,14 +4,14 @@ import { getEsoDayStr } from "@akasha/day/eso-day"
 import { indexNamed } from "@akasha/indexes"
 import { indexValue } from "@akasha/indexes/value/page"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { keepReading } from "@akasha/readout-system/readout-reading"
+import { keepReading } from "@akasha/readouts/readout-reading"
 import {
   NO_SECRET_TO_CARRY_ON,
   RELAY_SECRET_NAME,
   readoutNamedBy,
   relayReading,
   statedIn,
-} from "@akasha/readout-system/readout-relay"
+} from "@akasha/readouts/readout-relay"
 import { followFolders } from "@akasha/service-system/file-following"
 import {
   pollTaskCounts,

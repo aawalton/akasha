@@ -1,4 +1,4 @@
-import { countTap, type Tapped } from "@akasha/readout-system/widget-tap-counting"
+import { countTap, type Tapped } from "@akasha/readouts/widget-tap-counting"
 import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
 import {
   type DeviceTokenContext,

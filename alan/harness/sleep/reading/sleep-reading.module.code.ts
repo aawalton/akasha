@@ -1,6 +1,6 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
-import { keepReading } from "@akasha/readout-system/readout-reading"
-import { sleepIn } from "@akasha/readout-system/upkeep-sleep"
+import { keepReading } from "@akasha/readouts/readout-reading"
+import { sleepIn } from "@akasha/readouts/upkeep-sleep"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
 export const READOUT_PAGE = "readouts/pages/upkeep-sleep/upkeep-sleep.readout.ts"
