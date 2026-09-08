@@ -2,12 +2,12 @@ import { index, layout, type RouteConfig, route } from "@react-router/dev/routes
 
 export default [
   layout("routes/_app-layout.tsx", [
-    index("routes/home.tsx"),
+    index("routes/archive-of-worlds-home/archive-of-worlds-home.route.code.tsx"),
     route(":pageTypeSlug/:pageHrefParam", "routes/page-detail.tsx"),
     route(":pageTypeSlug", "routes/page-listing.tsx"),
   ]),
-  route("sign-in", "routes/sign-in.tsx"),
-  route("sign-up", "routes/sign-up.tsx"),
+  route("sign-in", "routes/archive-of-worlds-sign-in/archive-of-worlds-sign-in.route.code.tsx"),
+  route("sign-up", "routes/archive-of-worlds-sign-up/archive-of-worlds-sign-up.route.code.tsx"),
   route("sign-out", "routes/archive-of-worlds-sign-out/archive-of-worlds-sign-out.route.code.ts"),
   route(
     "api/health",
@@ -26,6 +26,9 @@ export default [
     "routes/archive-of-worlds-api-page-types/archive-of-worlds-api-page-types.route.code.ts"
   ),
   route("api/pages/:pageTypeSlug", "routes/api.pages.$pageTypeSlug.ts"),
-  route("api/page-write", "routes/api.page-write.ts"),
+  route(
+    "api/page-write",
+    "routes/archive-of-worlds-api-page-write/archive-of-worlds-api-page-write.route.code.ts"
+  ),
   route("api/nav-icon/:idSuffix", "routes/api.nav-icon.$idSuffix.ts"),
 ] satisfies RouteConfig

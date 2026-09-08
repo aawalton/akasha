@@ -33,6 +33,10 @@ export const archiveOfWorldsWeb = {
     "route/archive-of-worlds-api-live-version",
     "route/archive-of-worlds-api-page-types",
     "route/archive-of-worlds-sign-out",
+    "route/archive-of-worlds-home",
+    "route/archive-of-worlds-sign-in",
+    "route/archive-of-worlds-sign-up",
+    "route/archive-of-worlds-api-page-write",
   ],
   invariants: [
     {
