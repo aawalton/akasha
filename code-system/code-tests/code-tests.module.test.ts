@@ -12,6 +12,7 @@ import {
   RUNNING,
   ranOver,
   slowIn,
+  spentOver,
   summaryIn,
   testsBesideOf,
   testsUnder,
@@ -216,6 +217,14 @@ check(
 check("a file under the ceiling is not answered as over it", () => {
   const root = repo({ "one.test.ts": PASSES })
   expect(slowIn(root, groupedBy(root, ["akasha"]), [], [], null)).toEqual([])
+})
+
+check("a file under the ceiling is still answered with what that file spent", () => {
+  const root = repo({ "one.test.ts": PASSES })
+  const found = spentOver(root, ["akasha"])
+  expect(found.map((one) => one.path)).toEqual(["akasha/one.test.ts"])
+  expect(found[0]?.signal).toBeNull()
+  expect(found[0]?.cpuSeconds).toBeGreaterThan(0)
 })
 
 check("a run whose files are each under the ceiling is clean and carries what it spent", () => {

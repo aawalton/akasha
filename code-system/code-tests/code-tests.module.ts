@@ -96,7 +96,23 @@ export const codeTests = {
     {
       invariantKind: "departure",
       statement:
-        "A caller stating no ceiling holds each file to the five seconds one file may spend.",
+        "A caller naming no ceiling holds each file to the five seconds one file may spend.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller may hold a file to no ceiling at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file held to no ceiling runs to its own end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller may ask what every file named spent rather than which files went over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file answered that way is run on its own, as a file being judged is.",
     },
     {
       invariantKind: "departure",

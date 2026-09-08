@@ -58,6 +58,12 @@ export type Slowed = {
   readonly cpuSeconds: number
 }
 
+export type Spent = {
+  readonly path: string
+  readonly cpuSeconds: number
+  readonly signal: string | null
+}
+
 export type Summary = {
   readonly files: number | null
   readonly failed: number | null
@@ -219,12 +225,38 @@ export function batchedOf(named: readonly string[]): readonly (readonly string[]
   return held
 }
 
-function runsIn(root: string, argv: readonly string[], ceiling: number): Said {
-  return ran([...argv], {
-    cwd: root,
-    env: { ...process.env, [RUNNING]: MARK },
-    cpuCeiling: ceiling,
-  })
+function runsIn(root: string, argv: readonly string[], ceiling: number | null): Said {
+  const held = { cwd: root, env: { ...process.env, [RUNNING]: MARK } }
+  return ran([...argv], ceiling === null ? held : { ...held, cpuCeiling: ceiling })
+}
+
+function runsFor(root: string, named: readonly string[]): readonly Grouping[] {
+  const grouped = groupedBy(root, named)
+  return grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
+}
+
+function servesFor(serving: Serving | null): readonly string[] {
+  return serving === null ? [] : [PRELOADING, serving.preload]
+}
+
+export function spentIn(
+  root: string,
+  runs: readonly Grouping[],
+  serves: readonly string[],
+  naming: readonly string[],
+  serving: Serving | null,
+  ceiling: number | null = CEILING
+): readonly Spent[] {
+  const found: Spent[] = []
+  for (const group of runs) {
+    const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
+    for (const one of group.named) {
+      const at = serving?.standing.get(one) ?? one
+      const done = runsIn(root, [RUNNER, RUNS, ...serves, ...preloading, ...naming, at], ceiling)
+      found.push({ path: one, cpuSeconds: done.cpuSeconds, signal: done.signal })
+    }
+  }
+  return found
 }
 
 export function slowIn(
@@ -235,17 +267,17 @@ export function slowIn(
   serving: Serving | null,
   ceiling: number = CEILING
 ): readonly Slowed[] {
-  const found: Slowed[] = []
-  for (const group of runs) {
-    const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
-    for (const one of group.named) {
-      const at = serving?.standing.get(one) ?? one
-      const done = runsIn(root, [RUNNER, RUNS, ...serves, ...preloading, ...naming, at], ceiling)
-      if (done.signal !== null || done.cpuSeconds > ceiling)
-        found.push({ path: one, cpuSeconds: done.cpuSeconds })
-    }
-  }
-  return found
+  return spentIn(root, runs, serves, naming, serving, ceiling)
+    .filter((one) => one.signal !== null || one.cpuSeconds > ceiling)
+    .map((one) => ({ path: one.path, cpuSeconds: one.cpuSeconds }))
+}
+
+export function spentOver(
+  root: string,
+  named: readonly string[],
+  serving: Serving | null = null
+): readonly Spent[] {
+  return spentIn(root, runsFor(root, named), servesFor(serving), [], serving, null)
 }
 
 export function ranOver(
@@ -255,10 +287,9 @@ export function ranOver(
   name: string | null = null,
   serving: Serving | null = null
 ): Ran {
-  const grouped = groupedBy(root, named)
-  const runs = grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
+  const runs = runsFor(root, named)
   const naming = name === null ? [] : [NAMING, wholeOf(name)]
-  const serves = serving === null ? [] : [PRELOADING, serving.preload]
+  const serves = servesFor(serving)
   let code = 0
   let signal: string | null = null
   let output = ""
