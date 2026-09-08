@@ -58,6 +58,6 @@ test("a page this change hands on is reached through the runner the world carrie
     { at: "changes/one.module.ts" }
   )
 
-  expect(reached).toBe("change-mechanical-file/remove-file-page")
+  expect(reached).toBe("change-mechanical/remove-file-of-any-kind")
   expect(said.refused).toBeNull()
 })

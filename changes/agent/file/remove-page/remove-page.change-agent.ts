@@ -30,7 +30,8 @@ export const removePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page that is no page type is handed to the partial change taking a page away.",
+      statement:
+        "A page that is no page type is handed to the partial change taking that kind of page away.",
     },
     {
       invariantKind: "absence",
