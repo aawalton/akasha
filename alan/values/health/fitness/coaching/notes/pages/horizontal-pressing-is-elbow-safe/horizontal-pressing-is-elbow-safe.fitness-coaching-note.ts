@@ -8,6 +8,6 @@ export const horizontalPressingIsElbowSafe = {
   active: true,
   focusTags: ["push"],
   kind: "programming-cue",
-  coachingNoteSortOrder: 2,
+  sortOrder: 2,
   says: "txt",
 } as const satisfies FitnessCoachingNote

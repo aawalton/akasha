@@ -8,6 +8,6 @@ export const coachingNote30LbDbCeilingActivelyOutRepping = {
   active: true,
   focusTags: ["push", "pull"],
   kind: "equipment-ceiling",
-  coachingNoteSortOrder: 3,
+  sortOrder: 3,
   says: "txt",
 } as const satisfies FitnessCoachingNote

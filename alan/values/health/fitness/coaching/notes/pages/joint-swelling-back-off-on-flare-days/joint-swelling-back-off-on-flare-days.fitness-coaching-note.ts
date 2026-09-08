@@ -8,6 +8,6 @@ export const jointSwellingBackOffOnFlareDays = {
   active: true,
   focusTags: ["all"],
   kind: "injury-watch",
-  coachingNoteSortOrder: 7,
+  sortOrder: 7,
   says: "txt",
 } as const satisfies FitnessCoachingNote

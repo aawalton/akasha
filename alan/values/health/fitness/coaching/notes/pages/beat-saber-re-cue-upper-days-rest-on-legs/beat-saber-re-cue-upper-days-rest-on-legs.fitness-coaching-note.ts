@@ -8,6 +8,6 @@ export const beatSaberReCueUpperDaysRestOnLegs = {
   active: true,
   focusTags: ["push", "pull", "upper", "legs"],
   kind: "programming-cue",
-  coachingNoteSortOrder: 12,
+  sortOrder: 12,
   says: "txt",
 } as const satisfies FitnessCoachingNote

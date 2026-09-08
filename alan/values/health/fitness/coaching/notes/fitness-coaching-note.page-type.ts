@@ -14,7 +14,7 @@ export type FitnessCoachingNote = Page & {
   focusTags: readonly FocusTags[]
   kind: FitnessCoachingNoteKind
   date?: FitnessCoachingNoteDate
-  coachingNoteSortOrder?: FitnessCoachingNoteSortOrder
+  sortOrder?: FitnessCoachingNoteSortOrder
   says?: Says
 }
 

@@ -8,6 +8,6 @@ export const overheadMobility50NoForcedLockout = {
   active: true,
   focusTags: ["push"],
   kind: "programming-cue",
-  coachingNoteSortOrder: 1,
+  sortOrder: 1,
   says: "txt",
 } as const satisfies FitnessCoachingNote

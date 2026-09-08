@@ -8,6 +8,6 @@ export const legsArentStrengthLimitedAtHomeLoads = {
   active: true,
   focusTags: ["legs"],
   kind: "programming-cue",
-  coachingNoteSortOrder: 8,
+  sortOrder: 8,
   says: "txt",
 } as const satisfies FitnessCoachingNote

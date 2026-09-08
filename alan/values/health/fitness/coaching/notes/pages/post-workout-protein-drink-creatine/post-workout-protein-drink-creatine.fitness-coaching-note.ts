@@ -8,6 +8,6 @@ export const postWorkoutProteinDrinkCreatine = {
   active: true,
   focusTags: ["all"],
   kind: "programming-cue",
-  coachingNoteSortOrder: 11,
+  sortOrder: 11,
   says: "txt",
 } as const satisfies FitnessCoachingNote

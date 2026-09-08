@@ -8,6 +8,6 @@ export const preDecideTheWorkoutOneSetAtATime = {
   active: true,
   focusTags: ["all"],
   kind: "ef-accommodation",
-  coachingNoteSortOrder: 10,
+  sortOrder: 10,
   says: "txt",
 } as const satisfies FitnessCoachingNote
