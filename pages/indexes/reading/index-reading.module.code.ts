@@ -12,6 +12,7 @@ import { indexSchema } from "../schema/index-schema.index.ts"
 import type { Reading, Schema } from "../shape/index-shape.module.code.ts"
 import {
   beneath,
+  forgetReadings,
   INDEX_AT,
   indexAt,
   indexIn,
@@ -291,13 +292,23 @@ function valuesIn(reading: Reading, at: string): readonly Valued[] {
   return found
 }
 
+let everyValueOf = new WeakMap<Reading, ReadonlyMap<string, Value>>()
+
+export function forgetIndex(): undefined {
+  everyValueOf = new WeakMap<Reading, ReadonlyMap<string, Value>>()
+  forgetReadings()
+}
+
 export function everyValue(given: string | Reading): ReadonlyMap<string, Value> {
   return answered(given, ROOT, "what every page carries", (reading) => {
+    const had = everyValueOf.get(reading)
+    if (had !== undefined) return had
     const found = new Map<string, Value>()
     for (const one of reading.listing(VALUE)) {
       if (one.directory || !one.name.endsWith(ENDING)) continue
       for (const held of valuesIn(reading, join(VALUE, one.name))) found.set(held.path, held.value)
     }
+    everyValueOf.set(reading, found)
     return found
   })
 }

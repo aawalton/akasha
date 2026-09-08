@@ -13,6 +13,7 @@ import { basename, dirname, join } from "node:path"
 const INDEX = "index"
 
 import type { Entry } from "../entries/index-entries.module.code.ts"
+import { forgetIndex } from "../reading/index-reading.module.code.ts"
 import { walkedUnder } from "../tree-reading/tree-reading.module.code.ts"
 
 export type Drift = {
@@ -34,6 +35,7 @@ function pruneAbove(at: string, root: string): undefined {
 }
 
 export function keepWhole(at: string, lines: readonly string[], root: string): undefined {
+  forgetIndex()
   if (lines.length === 0) {
     if (existsSync(at)) rmSync(at)
     pruneAbove(dirname(at), root)
@@ -53,12 +55,6 @@ function bodyAt(at: string): string | null {
   }
 }
 
-// Every file the index holds sits under a folder named for an index, and the index is one folder.
-// So a file at the index's own top, and a folder beside it whose name opens `index.`, belong to no
-// index. This answers only for a folder actually named `index`, because a scratch index built for a
-// test sits beside folders that are nobody's business here. A caller putting nothing in place is
-// answered the same paths, because an answer that is empty whatever is there cannot be told from
-// one that looked and found none.
 export function sweptBeside(root: string, put: boolean): readonly string[] {
   if (basename(root) !== INDEX || !existsSync(root)) return []
   const taken: string[] = []

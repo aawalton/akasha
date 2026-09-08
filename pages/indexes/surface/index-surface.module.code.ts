@@ -16,8 +16,16 @@ export function indexAt(indexName: string, ...parts: readonly string[]): string 
   return join(INDEX_AT, indexName, ...parts)
 }
 
+const readings = new Map<string, Reading>()
+
+export function forgetReadings(): undefined {
+  readings.clear()
+}
+
 export function readingAt(index: string): Reading {
-  return {
+  const had = readings.get(index)
+  if (had !== undefined) return had
+  const made: Reading = {
     holds: (at) => existsSync(join(index, at)),
     listing: (at) => {
       try {
@@ -39,6 +47,8 @@ export function readingAt(index: string): Reading {
       }
     },
   }
+  readings.set(index, made)
+  return made
 }
 
 export function readingNone(): Reading {
