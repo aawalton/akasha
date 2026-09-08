@@ -17,6 +17,7 @@ import { filedInto } from "@akasha/indexes/indexing"
 import type { Filing } from "@akasha/indexes/shape"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { ran } from "@akasha/utils-run/running"
+import type { Serving } from "../test-bodies/test-bodies.module.code.ts"
 
 const TS = ".ts"
 
@@ -375,11 +376,17 @@ function preloadingFor(root: string, at: string): readonly string[] {
   return preloadsIn(found)
 }
 
+function namedUnder(root: string, one: string): readonly string[] {
+  const absolute = join(root, one)
+  if (existsSync(absolute)) return testsIn(absolute)
+  return testNamed(one) ? [absolute] : []
+}
+
 export function groupedBy(root: string, named: readonly string[]): readonly Grouping[] {
   const held = new Map<string, Grouping>()
   const seen = new Set<string>()
   for (const one of named) {
-    for (const at of testsIn(join(root, one))) {
+    for (const at of namedUnder(root, one)) {
       if (seen.has(at)) continue
       seen.add(at)
       const preloads = preloadingFor(root, at)
@@ -410,18 +417,21 @@ export function ranOver(
   root: string,
   named: readonly string[],
   expected: number,
-  name: string | null = null
+  name: string | null = null,
+  serving: Serving | null = null
 ): Ran {
   const grouped = groupedBy(root, named)
   const runs = grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
   const naming = name === null ? [] : [NAMING, wholeOf(name)]
+  const serves = serving === null ? [] : [PRELOADING, serving.preload]
   let code = 0
   let signal: string | null = null
   let output = ""
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const batch of batchedOf(group.named)) {
-      const done = ran([RUNNER, RUNS, ...preloading, ...naming, ...batch], {
+      const over = batch.map((one) => serving?.standing.get(one) ?? one)
+      const done = ran([RUNNER, RUNS, ...serves, ...preloading, ...naming, ...over], {
         cwd: root,
         env: { ...process.env, [RUNNING]: MARK },
       })

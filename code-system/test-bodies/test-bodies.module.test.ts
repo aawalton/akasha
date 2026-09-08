@@ -1,7 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
-import { writeFileSync } from "node:fs"
-import { join } from "node:path"
+import { existsSync, mkdirSync, readFileSync, realpathSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { ranOver } from "../code-tests/code-tests.module.code.ts"
+import { FAILS, handing, PASSES, UNDER } from "../code-tests/code-tests.module.test-fixtures.ts"
 import {
   bodiesAt,
   endingOf,
@@ -11,9 +13,30 @@ import {
   SERVED,
   SERVING,
   servedBy,
+  servingOf,
   servingOut,
   wholeOf,
 } from "./test-bodies.module.code.ts"
+
+const KEEPS = "export const kept = 1\n"
+
+const TURNS = "export const kept = 2\n"
+
+const CHECKS =
+  'import { expect, test } from "bun:test"\n' +
+  'import { kept } from "./one.module.code.ts"\n' +
+  'test("kept", () => { expect(kept).toBe(1) })\n'
+
+function repo(files: Record<string, string>): string {
+  const root = realpathSync(scratch.rootFor("test-bodies-"))
+  mkdirSync(join(root, "akasha"), { recursive: true })
+  for (const [name, body] of Object.entries(files)) {
+    const at = join(root, "akasha", name)
+    mkdirSync(dirname(at), { recursive: true })
+    writeFileSync(at, body)
+  }
+  return root
+}
 
 const scratch = scratchWorld()
 
@@ -82,4 +105,57 @@ test("the preload text names this module and the file the bodies were written to
 
 test("the plugin made for a change is named once however many bodies it serves", () => {
   expect(servedBy({}).name).toBe(servedBy({ [ONE]: "held\n" }).name)
+})
+
+test("a run over a serving answers the body handed in, not the one on disk", () => {
+  const from = repo({ "one.test.ts": PASSES })
+  const named = ["akasha/one.test.ts"]
+  const serving = servingOf(from, named, handing({ "akasha/one.test.ts": FAILS }), named)
+  try {
+    expect(ranOver(from, named, 1, null, serving).verdict).toBe("fail")
+    expect(ranOver(from, named, 1).verdict).toBe("pass")
+  } finally {
+    serving.sweep()
+  }
+})
+
+test("a test on disk reads the body the change carries beside it, not the one there", () => {
+  const from = repo({ "one.module.code.ts": KEEPS, "one.module.test.ts": CHECKS })
+  const carried = ["akasha/one.module.code.ts"]
+  const named = ["akasha/one.module.test.ts"]
+  const serving = servingOf(from, carried, handing({ "akasha/one.module.code.ts": TURNS }), named)
+  try {
+    expect(ranOver(from, named, 1, null, serving).verdict).toBe("fail")
+    expect(ranOver(from, named, 1).verdict).toBe("pass")
+  } finally {
+    serving.sweep()
+  }
+})
+
+test("a test file the change brings is run though no file is there for it", () => {
+  const from = repo({})
+  const named = ["akasha/new.test.ts"]
+  const serving = servingOf(from, named, handing({ "akasha/new.test.ts": FAILS }), named)
+  try {
+    expect(existsSync(join(from, "akasha/new.test.ts"))).toBe(false)
+    expect(serving.standing.get("akasha/new.test.ts")).toBeDefined()
+    expect(ranOver(from, named, 1, null, serving).verdict).toBe("fail")
+  } finally {
+    serving.sweep()
+  }
+})
+
+test("a serving sits under /var/tmp and is gone once it is swept", () => {
+  const serving = servingOf(repo({}), [], handing({}), [])
+  expect(serving.preload.startsWith(UNDER)).toBe(true)
+  expect(existsSync(serving.preload)).toBe(true)
+  serving.sweep()
+  expect(existsSync(serving.preload)).toBe(false)
+})
+
+test("a body a serving could not read names the path the serving reached for", () => {
+  const from = repo({})
+  const asked = (): unknown => servingOf(from, ["akasha/one.ts"], () => readFileSync(""), [])
+  expect(asked).toThrow("akasha/one.ts")
+  expect(asked).toThrow("ENOENT")
 })

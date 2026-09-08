@@ -251,13 +251,14 @@ check("a package inside the tree is answered from the world holding it", () => {
   }
 })
 
-check("a package inside the tree the world does not hold is answered by nothing", () => {
+check("a package inside the tree is answered though the change carries no body of it", () => {
   const from = repo({ "held/package.json": '{"name":"@akasha/held"}\n' })
   installed(from, "@akasha/held", "akasha/held")
   const world = worldOf(from, [], handing({}), null)
   try {
-    expect(existsSync(join(world.root, "node_modules/@akasha/held"))).toBe(false)
-    expect(existsSync(join(world.root, "node_modules/@akasha"))).toBe(true)
+    const at = join(world.root, "node_modules/@akasha/held")
+    expect(existsSync(at)).toBe(true)
+    expect(realpathSync(at)).toBe(join(from, "akasha/held"))
   } finally {
     world.sweep()
   }
@@ -378,7 +379,7 @@ check("the bunfig.toml at the root is left to the runner rather than handed over
 
 check("a list past one batch is parted into batches, and nothing is lost", () => {
   expect(batchedOf([])).toEqual([[]])
-  const named = Array.from({ length: BATCH * 2 + 1 }, (one, at) => `${at}.test.ts`)
+  const named = Array.from({ length: BATCH * 2 + 1 }, (_, at) => `${at}.test.ts`)
   const batches = batchedOf(named)
   expect(batches.length).toBe(3)
   expect(batches[0]?.length).toBe(BATCH)
