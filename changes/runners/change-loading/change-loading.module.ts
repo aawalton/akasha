@@ -69,6 +69,30 @@ export const changeLoading = {
       statement: "The guards are loaded alongside the change rather than after the change answers.",
     },
     {
+      invariantKind: "departure",
+      statement: "The target subtype a change acts on is read off that change's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The path handed in is read under the name every change names a path by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path whose kind narrows the subtype the change acts on is run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other path is refused before the change is run.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A change acting on no file subtype has no path judged here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A call handing in no path has no path judged here.",
+    },
+    {
       invariantKind: "absence",
       statement: "No change is imported here.",
     },

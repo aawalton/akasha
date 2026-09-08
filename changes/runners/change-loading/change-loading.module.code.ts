@@ -5,12 +5,18 @@ import type { Answer, Said } from "../../modules/change-answer/change-answer.mod
 import { guardedBy } from "../../modules/change-guarding/change-guarding.module.code.ts"
 import type { Guard } from "../../modules/change-guarding/change-guarding.module.types.ts"
 import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+import { kindOf } from "../../modules/target-kinding/target-kinding.module.code.ts"
+import { narrows, slugIn } from "../../modules/target-narrowing/target-narrowing.module.code.ts"
 
 const CODE = "code"
 const TS = "ts"
 const GUARD_SLUGS = "guardSlugs"
 const RUN_CHANGE = "runChange"
 const RUN_GUARD = "runGuard"
+const SUBTYPE_SLUG = "changeTargetSubtypeSlug"
+const FILE = "file"
+const AT = "at"
+const FROM = "from"
 
 export function partsOf(address: string): readonly [string, string] | null {
   const cut = address.indexOf("/")
@@ -92,8 +98,34 @@ export async function ranBy(world: World, loaded: Loaded, given: unknown): Promi
   return guardedBy(world, said, loaded.guards)
 }
 
+export function targetIn(given: unknown): string | null {
+  if (typeof given !== "object" || given === null) return null
+  const held = (given as Record<string, unknown>)[AT] ?? (given as Record<string, unknown>)[FROM]
+  return typeof held === "string" ? held : null
+}
+
+export function subtypeIn(world: World, address: string): string | null {
+  const parts = partsOf(address)
+  if (parts === null) return null
+  const value = world.index.pageAt(parts[0], parts[1])
+  const named = value === null ? null : value[SUBTYPE_SLUG]
+  return typeof named === "string" ? slugIn(named) : null
+}
+
+export function targetRefusal(world: World, address: string, given: unknown): string | null {
+  const wanted = subtypeIn(world, address)
+  if (wanted === null || !narrows(world, wanted, FILE)) return null
+  const at = targetIn(given)
+  if (at === null) return null
+  const kind = kindOf(world, at)
+  if (narrows(world, kind, wanted)) return null
+  return `\`${at}\` is a \`${kind}\`, and \`${address}\` acts on a \`${wanted}\``
+}
+
 export async function runAt(world: World, at: string, given: unknown): Promise<Answer> {
   const loaded = await loadedAt(world, at)
   if (typeof loaded === "string") return refusing(loaded)
+  const why = targetRefusal(world, at, given)
+  if (why !== null) return refusing(why)
   return await ranBy(world, loaded, given)
 }
