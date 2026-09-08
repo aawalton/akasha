@@ -94,6 +94,7 @@
     "./url-property": "./url-properties/url-property.page-type.ts"
   },
   "dependencies": {
+    "@akasha/changes": "workspace:*",
     "@akasha/code": "workspace:*"
   }
 }

@@ -1,6 +1,8 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { landingAsked, mistaking, wroteAndTook } from "@akasha/command-system/asking"
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
+import { mistaking } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { quoted as listed } from "@akasha/command-system/seat-act-calling"
@@ -156,36 +158,43 @@ export function messageFor(said: Said, target: Target, act: string): string {
   return `page secret ${act} ${named}`
 }
 
+export const PUT = "change-mechanical/add-file-of-any-kind"
+
+export const TAKE = "change-mechanical-file/remove-file"
+
+export type Landing = (
+  root: string,
+  changes: readonly Asking[],
+  message: string
+) => ReturnType<typeof runMechanicalChange>
+
+function answered(landed: Awaited<ReturnType<Landing>>, did: string): Answer {
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) return { report: [], refusals: wrong, code: 3 }
+  return { report: [did], refusals: [], code: 0 }
+}
+
 export async function landedWith(
   given: Given,
   said: Said,
   target: Target,
   act: string,
-  values: Secrets
+  values: Secrets,
+  landing: Landing = runMechanicalChange
 ): Promise<Answer> {
   const message = messageFor(said, target, act)
   if (values.size === 0) {
-    return await landingAsked(given, {
-      changes: [{ path: target.sidecar, body: null }],
-      message,
-      dryRun: false,
-      glass: null,
-      unmoved: [],
-      saying: wroteAndTook,
-    })
+    const taken: readonly Asking[] = [{ at: TAKE, given: { at: target.sidecar } }]
+    return answered(await landing(given.root, taken, message), `took away ${target.sidecar}`)
   }
   const composed = cipherFor(given.root, target.path, values)
   if (composed.text === null) {
     return { report: [], refusals: [composed.why, "nothing was written"], code: 2 }
   }
-  return await landingAsked(given, {
-    changes: [{ path: target.sidecar, body: new TextEncoder().encode(composed.text) }],
-    message,
-    dryRun: false,
-    glass: null,
-    unmoved: [],
-    saying: wroteAndTook,
-  })
+  const written: readonly Asking[] = [
+    { at: PUT, given: { at: target.sidecar, body: composed.text } },
+  ]
+  return answered(await landing(given.root, written, message), `wrote ${target.sidecar}`)
 }
 
 export async function caught(run: () => Answer | Promise<Answer>): Promise<Answer> {

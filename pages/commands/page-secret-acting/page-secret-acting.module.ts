@@ -47,6 +47,14 @@ export const pageSecretActing = {
       statement: "A sops file left holding nothing is taken away rather than written empty.",
     },
     {
+      invariantKind: "departure",
+      statement: "A sops file is written and taken away through a change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The landing a sops file goes through is handed in.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes the sops file itself.",
     },

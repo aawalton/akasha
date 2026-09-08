@@ -1187,6 +1187,7 @@
     "pages": {
       "name": "@akasha/pages",
       "dependencies": {
+        "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
       },
     },
