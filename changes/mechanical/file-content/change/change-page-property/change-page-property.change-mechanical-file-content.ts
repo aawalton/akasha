@@ -6,7 +6,7 @@ export const changePageProperty = {
   slug: "change-page-property",
   changeModeSlug: "change-mode-change",
   changeTargetTypeSlug: "change-target-type/file-content",
-  changeTargetSubtypeSlug: "change-target-subtype/page-property-prose",
+  changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value-prose",
   definition: "one key of a page's exported object stated anew",
   code: "ts",
   test: "ts",
