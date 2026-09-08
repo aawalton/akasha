@@ -14,7 +14,7 @@ function utcDateString(d: Date): string {
 export function advanceRecurrenceDueDate(
   task: RecurrenceTask,
   now: Date,
-  getResetTime: (now: Date) => Date
+  getResetTime: (at: Date) => Date
 ): RecurrenceDueResult | null {
   if (task.rrule == null) return null
 
