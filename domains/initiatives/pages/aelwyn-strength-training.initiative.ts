@@ -23,16 +23,6 @@ export const aelwynStrengthTraining = {
         "The old planner is deleted: the `session-planning` package whole, and the commands `exercise-select`, `exercise-next-set` and `exercise-ranks`. Alan called for a rebuild from first principles on 2026-09-08. Nothing chooses a movement today. Kept for the rebuild: the goal weights L40 E30 F20 A10, the layoff and novelty knobs the selection policy carries, the 13 coaching constraints, and the 884-movement catalogue. The principles themselves are unsettled.",
     },
     {
-      statement: "The equipment commands read the keys the equipment pages carry.",
-      workingMemory:
-        "`exercise-equipment-list` reads `equipmentItemCategory`, `equipmentItemLoads`, `equipmentItemAvailable` and three more, ordering on `equipmentItemSortOrder`; `exercise-equipment-set` writes the same six. Every equipment page carries those six names unprefixed, and has since 648fe2d2875 on 2026-09-03. Every load column reads `-`, `available` falls to its `?? true` default, and `--all` leaves nothing out. The dumbbells page names loads 3 to 30. Today's deletion of the old properties is innocent.",
-    },
-    {
-      statement: "The history command fetches the newest sets.",
-      workingMemory:
-        "`exercise-history` orders on `sessionSlug` descending and slices the limit there, and a session slug opens with its weekday name, so the window runs wednesday, tuesday, thursday, sunday, saturday, monday, friday. The rows are re-sorted by date before printing, so the answer looks right. `--limit 5` on dumbbell-bench-press answers five 2026-06-25 rows and calls that day the best; the default of 20 answers all 16 and calls 2026-08-10 the best. Bench press has 16 sets, so this bites at 21.",
-    },
-    {
       statement: "A joint's mobility reads as a direction.",
       workingMemory:
         "Seven mobility readings exist, all dated 2026-06-19 to 2026-06-24. `akasha exercise-mobility-show` answers a trend for each of `supine-slr::right`, `supine-slr::left` and `wall-slide-overhead::n-a`, and every one reads `insufficient`. Overhead mobility near half range is already one of the thirteen coaching constraints, so what a reading would bound is programmed against today.",
