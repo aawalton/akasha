@@ -12,13 +12,13 @@ export const pageFoldersByIndex = {
       statement:
         "Code reaching the pages of a type asks the index for them rather than spelling their folder.",
       workingMemory:
-        '48 files hold a constant such as `"seat-system/seats/pages"` and then read that folder off disk. `listedAt` and `listedWithin` under `pages/indexes/reading` answer by page type slug already, so each of those constants re-derives what the index holds. `move-folder` repoints an import and leaves a path spelled as text, which is how carrying `alan/tracking` to `alan/track` left twelve files reaching a folder that was gone.',
+        '48 files hold a constant such as `"seat-system/seats/pages"` and then read that folder off disk, where `listedAt` and `listedWithin` under `pages/indexes/reading` answer by page type slug. The breakage that raised this is mended, so what is left is that the index holds these answers and the code re-derives them.',
     },
     {
       statement:
         "A check refuses a path spelled as text where the index answers what that path reaches.",
       workingMemory:
-        "Nothing refuses one yet. A workstation-service spells a path to a module's code file inside the shell command line it runs, and one of those runs no module at all, so the rule either admits that shape or the `runs` lines become a question of their own.",
+        "`21afe5ce74` refuses a carry that empties a folder a body still spells, which catches a path as that path goes stale rather than catching the spelling. A workstation-service spells a path to a module's code file inside the shell command line it runs, and one of those runs no module at all, so the rule either admits that shape or the `runs` lines become a question of their own.",
     },
   ],
 } as const satisfies Initiative
