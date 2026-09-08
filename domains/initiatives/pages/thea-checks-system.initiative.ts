@@ -38,7 +38,7 @@ export const theaChecksSystem = {
     {
       statement: "Every runtime helper the Lua compiler carries is a page.",
       workingMemory:
-        "124 files under lualib/src are claimed by nothing, the old page type saying a file here carries no page of its own, which Alan calls a gap. One page per exported name: 135 names, less five doubled by the universal and 5.0 overlay, so 130 pages. Five files become folders, Error at 6 and Scheduling at 5 the largest. Stages: the page type, then the compiler reading pages, then one helper a landing, then dropping the fallback. Hold the emitted Lua to the byte with /var/tmp/imip/lualib-driver.ts.",
+        "Stage 2 landed: the compiler reads lualib pages with a fallback, byte-identical over nine targets, ArrayAt migrated as proof. Alan rules that a file holding many exports splits one per export, its shared state extracted into modules that export their bindings, one left unexported being trapped in the emitted do-end block. Five files hold 17 exports. Prove every split with the 50-check Lua suite at /var/tmp/imip/thea-behaviour.lua, because comparing bodies passes a bundle that is broken.",
     },
     {
       statement: "Every cluster-check module body is claimed by a page.",
