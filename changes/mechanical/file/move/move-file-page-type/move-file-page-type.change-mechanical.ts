@@ -27,8 +27,9 @@ export const moveFilePageType = {
       statement: "No page filed under the page type is carried here.",
     },
     {
-      invariantKind: "gap",
-      statement: "A manifest naming the carried file as a way in states the new path for that way.",
+      invariantKind: "departure",
+      statement:
+        "A manifest naming the carried file as a way in is restated by the change reached.",
     },
   ],
 } as const satisfies ChangeMechanical

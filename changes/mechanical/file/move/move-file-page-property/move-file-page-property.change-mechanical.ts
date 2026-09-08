@@ -23,8 +23,9 @@ export const moveFilePageProperty = {
       statement: "Nothing here judges the path handed in.",
     },
     {
-      invariantKind: "gap",
-      statement: "A manifest naming the carried file as a way in states the new path for that way.",
+      invariantKind: "departure",
+      statement:
+        "A manifest naming the carried file as a way in is restated by the change reached.",
     },
   ],
 } as const satisfies ChangeMechanical
