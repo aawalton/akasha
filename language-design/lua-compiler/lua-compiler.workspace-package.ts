@@ -9,6 +9,9 @@ export const luaCompiler = {
   partSlugs: [
     "lua-runtime-library/lualib",
     "lualib/array-at",
+    "lualib/async-awaiter",
+    "lualib/awaiting",
+    "lualib/coroutines",
     "lualib/error",
     "lualib/error-classing",
     "lualib/range-error",

@@ -29,7 +29,7 @@ export function wrapInAsyncAwaiter(
   statements: readonly luaStatements.Statement[],
   includeResolveParameter = true
 ): luaExpressions.CallExpression {
-  importLuaLibFeature(context, LuaLibFeature.Await)
+  importLuaLibFeature(context, LuaLibFeature.AsyncAwaiter)
 
   const parameters = includeResolveParameter
     ? [luaExpressions.createIdentifier("____awaiter_resolve")]

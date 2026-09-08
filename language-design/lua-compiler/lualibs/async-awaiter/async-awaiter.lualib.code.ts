@@ -1,10 +1,9 @@
-import { __TS__Promise } from "./Promise"
+import { __TS__Promise } from "../../lualib/src/Promise.ts"
+import { __TS__Coroutines } from "../coroutines/coroutines.lualib.code.ts"
 
-const coroutine = _G.coroutine ?? {}
-const cocreate = coroutine.create
-const coresume = coroutine.resume
-const costatus = coroutine.status
-const coyield = coroutine.yield
+const cocreate = __TS__Coroutines.create
+const coresume = __TS__Coroutines.resume
+const costatus = __TS__Coroutines.status
 
 export function __TS__AsyncAwaiter(this: void, generator: (this: void) => void) {
   return new Promise((resolve, reject) => {
@@ -39,8 +38,4 @@ export function __TS__AsyncAwaiter(this: void, generator: (this: void) => void) 
       return reject(resultOrError)
     }
   })
-}
-
-export function __TS__Await(this: void, thing: unknown) {
-  return coyield(thing)
 }
