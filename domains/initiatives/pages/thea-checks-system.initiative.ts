@@ -48,7 +48,7 @@ export const theaChecksSystem = {
     {
       statement: "Every file claimed by nothing else is claimed by a page.",
       workingMemory:
-        "Three left of ten. The four dockerfile extensions are claimed as built-image pages. territory-map.json is delegated as 47 pages, being a table rather than a config. eso-opt-in.json is delegated as a page type holding one file property, good enough while Alan cleans Temper up. The verdict-emitter-chokepoint config is deleted, naming two files gone for a check whose directory is gone. Left: the prose-mechanism ratchet, check-type-assertions-hard-cases.md, and the canary under __fixtures__.",
+        "Two left of ten. territory-map became 47 held-addon pages in code-system, nine of its eleven fields having had no reader at all. eso-opt-in became the eso-opt-in-list page type holding a tokens file property. The prose-mechanism ratchet is gone whole: its accepted list was empty and could never widen, so the file, the schema and the write path went together. Left: check-type-assertions-hard-cases.md and the canary under __fixtures__.",
     },
     {
       statement: "Every property file has the page whose property that file is.",
