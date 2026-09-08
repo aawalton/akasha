@@ -15,7 +15,12 @@ export const olwenPersonaCleanup = {
     {
       statement: "The personas/ folder passes the folder-matches-a-shape check.",
       workingMemory:
-        "100 refusals, each from the one enabled many-page shape `pages-of-the-type-above`. 98 are `personas/days/pages/<date>/`: 97 dated folders and a `1901-01-01` sentinel, holding 2079 persona-day pages and no sidecar, refused for a name that is not `pages` and no page type above them. The 2 left are `questions/pages` and `review-sessions/pages`, meeting every clause but the sidecar one: 252 `.question.context.txt` and 2 `.review-session.notes.txt` beside their pages. Page count is never the fault.",
+        "98 refusals, all `personas/days/pages/<date>/`, and they go with the concept rather than being reshaped. `questions/pages` and `review-sessions/pages` are clean now: each page carrying a sidecar was folded into a folder of its own, 279 and 2 of them, which is the remedy the shape names. Page count is never the fault; a sidecar beside a page file is, and so is a folder named for anything but `pages`.",
+    },
+    {
+      statement: "No persona-day is left in the repository.",
+      workingMemory:
+        "2079 pages over 97 dated folders and a `1901-01-01` sentinel, one page type, five properties under `personas/days/properties/`. Nothing draws them: no tsx, command or check names persona-day, and the one writer `persona-day-points` has no caller. `green-day-points` is the persona's own and survives. 83 pages of Alan's daily tracking carry 185 persona-day ids. Waiting on the two change acts Alan approved on 2026-09-08.",
     },
   ],
 } as const satisfies Initiative
