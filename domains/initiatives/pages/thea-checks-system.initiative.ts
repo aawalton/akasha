@@ -58,7 +58,7 @@ export const theaChecksSystem = {
     {
       statement: "Every file an app carries beside its routes is claimed by a page.",
       workingMemory:
-        "Fourteen files: server.ts in all six web apps, public/sidebar-boot.js in four, a favicon, a placeholder, and temper-web's deploy/addon-bundle-image.ts. router-app already declares entry.server.tsx, root.tsx, routes.ts, vite.config.ts, react-router.config.ts and tunnel-routes.ts, so these are the same shape and the declaration only stopped short. Optional named files, stated on each app's own page.",
+        "Thirteen files. router-app now declares server, sidebar-boot, placeholder-image and addon-bundle-image as optional named files, and temper-web states all four. Nine are left, each wanting one line on its own router-app page: server.ts in alan/web, atlas-web, archive-of-worlds-web, audhdalan-web and smilingjenny-web, public/sidebar-boot.js in the first three of those, and alan/web/public/favicon.svg, which no property reaches, placeholder-image naming placeholder.svg.",
     },
     {
       statement: "Every ast-unused workspace config is claimed by a page.",
