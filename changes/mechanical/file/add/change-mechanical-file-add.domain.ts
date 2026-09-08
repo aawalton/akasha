@@ -8,7 +8,7 @@ export const changeMechanicalFileAdd = {
   partSlugs: [
     "change-mechanical-file/add-file",
     "change-mechanical/add-file-code",
-    "change-mechanical-file/add-file-page",
+    "change-mechanical/add-file-page",
     "change-mechanical/add-file-page-type",
     "change-mechanical/add-file-page-property",
   ],
