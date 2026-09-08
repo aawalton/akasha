@@ -18,6 +18,18 @@ export const trackingLanding = {
     },
     {
       invariantKind: "departure",
+      statement: "A body goes up through the change that works out the kind of path it is handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's id is worked out by that change rather than by the landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every page landed here arrives with an id, whichever tracked tree it goes under.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path outside the tracked trees is refused before anything is written.",
     },
     {

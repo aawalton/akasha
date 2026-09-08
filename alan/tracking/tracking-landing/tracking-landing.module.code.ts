@@ -12,7 +12,7 @@ export const FOOD_ENTRIES_AT = "alan/tracking/food-entries/pages/"
 
 export const TRACKED_AT: readonly string[] = [DAYS_AT, FOOD_ENTRIES_AT]
 
-const PUT = "change-mechanical-file/add-file"
+const PUT = "change-mechanical/add-file-of-any-kind"
 
 const TAKE = "change-mechanical-file/remove-file"
 

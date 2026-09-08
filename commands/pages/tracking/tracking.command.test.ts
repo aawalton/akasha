@@ -22,7 +22,7 @@ const ROWS_AT = `${DAYS_AT}2026-09-01/wake-day-2026-09-01.wake-day.sessions.json
 
 const FOOD_AT = `${FOOD_ENTRIES_AT}2026-08-22-banana/food-entry-2026-08-22-banana.food-entry.ts`
 
-const ADDS = "change-mechanical-file/add-file"
+const ADDS = "change-mechanical/add-file-of-any-kind"
 
 const DAY = "the day this call composed\n"
 
