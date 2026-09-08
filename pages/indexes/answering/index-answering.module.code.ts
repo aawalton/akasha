@@ -42,6 +42,7 @@ import {
   listedById,
   listedByPath,
   listedNamed,
+  listedWithin,
   type Named,
   namersOf,
   type Schemad,
@@ -76,6 +77,13 @@ export type Answering = {
   readonly listedNamed: (
     uniqueKind: string,
     scope: string,
+    propertySlug: string,
+    said: string
+  ) => readonly Listed[]
+  readonly listedWithin: (
+    pageTypeSlug: string,
+    scopePropertySlug: string,
+    scopeValue: string,
     propertySlug: string,
     said: string
   ) => readonly Listed[]
@@ -127,6 +135,8 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     listedByPath: (path) => listedByPath(reading, path),
     listedNamed: (uniqueKind, scope, propertySlug, said) =>
       listedNamed(reading, uniqueKind, scope, propertySlug, said),
+    listedWithin: (pageTypeSlug, scopePropertySlug, scopeValue, propertySlug, said) =>
+      listedWithin(reading, pageTypeSlug, scopePropertySlug, scopeValue, propertySlug, said),
     manifestsBeside: (fileProperties) => manifestsBeside(reading, fileProperties),
     namersOf: (id, indexName) => namersOf(reading, id, indexName),
     pageAt: (pageTypeSlug, slug) => pageAt(reading, pageTypeSlug, slug, pageOf),

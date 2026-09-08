@@ -126,6 +126,18 @@ export function listedAt(
   return listedNamed(given, PAGE_TYPE, pageTypeSlug, SLUG, slug)
 }
 
+export function listedWithin(
+  given: string | Reading,
+  pageTypeSlug: string,
+  scopePropertySlug: string,
+  scopeValue: string,
+  propertySlug: string,
+  said: string
+): readonly Listed[] {
+  const scope = join(pageTypeSlug, scopePropertySlug, scopeValue)
+  return listedNamed(given, PROPERTY, scope, propertySlug, said)
+}
+
 export function listedById(given: string | Reading, id: string): Listed | null {
   return answered(
     given,
@@ -138,8 +150,16 @@ export function listedById(given: string | Reading, id: string): Listed | null {
 export function listedFor(given: string | Reading, address: PageAddress): Listed | null {
   if ("id" in address) return listedById(given, address.id)
   if ("scopeValue" in address) {
-    const scope = join(address.pageTypeSlug, address.scopePropertySlug, address.scopeValue)
-    return listedNamed(given, PROPERTY, scope, address.propertySlug, address.value)[0] ?? null
+    return (
+      listedWithin(
+        given,
+        address.pageTypeSlug,
+        address.scopePropertySlug,
+        address.scopeValue,
+        address.propertySlug,
+        address.value
+      )[0] ?? null
+    )
   }
   return (
     listedNamed(given, PAGE_TYPE, address.pageTypeSlug, address.propertySlug, address.value)[0] ??

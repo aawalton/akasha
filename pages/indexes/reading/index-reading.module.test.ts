@@ -8,6 +8,7 @@ import {
   listedById,
   listedByPath,
   listedFor,
+  listedWithin,
   readingIn,
   schemaOf,
 } from "./index-reading.module.code.ts"
@@ -100,6 +101,25 @@ test("a page carrying that value in another scope is not the page answered", () 
       value: "chapter-1",
     })
   ).toBe(null)
+})
+
+test("a scope named on its own is answered without an address being composed", () => {
+  const root = rootAt()
+  const held = { path: "akasha/inn/chapter-1.story-chapter-read.ts", id: A }
+  scopedFiled(root, "story-chapter-read", "story-read-slug", "the-wandering-inn", "chapter-1", [
+    held,
+  ])
+
+  expect(
+    listedWithin(
+      root,
+      "story-chapter-read",
+      "story-read-slug",
+      "the-wandering-inn",
+      "slug",
+      "chapter-1"
+    )
+  ).toEqual([held])
 })
 
 test("a path the index carries is answered with the page carrying it", () => {
