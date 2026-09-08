@@ -15,4 +15,10 @@ export const cluster = {
     "workspace-package/k8s-types",
     "domain/cluster-workflows",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Every folder under `cluster` matches a folder shape.",
+    },
+  ],
 } as const satisfies Domain

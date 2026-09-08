@@ -23,10 +23,5 @@ export const aranyaClusterCleanup = {
       workingMemory:
         "52 manifests already sit with their service and 2 sit under `cluster/`. What is left is `cluster/manifests`: 65 modules, of which about 50 are one service's own rbac, synth or constants and about 14 are shared machinery that stays. Commands consolidate under `commands/`, and `machines/clusters` holds the cluster as a machine rather than as a workload, so neither is this work. No subject folder sits in a workspace package, so a module leaving is reached by path rather than by name.",
     },
-    {
-      statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
-      workingMemory:
-        "`cluster/` carries 18 refusals: 16 folders under `provisioning/talos/` open with `talos`, `cluster-api-fetch` opens with `cluster-api`, and `provisioning` holds two domain pages where a shape allows one. Renaming the three folders that arrived added no refusal and removed none, measured over a seeded layout. The check states no phase, so only a direct run measures it.",
-    },
   ],
 } as const satisfies Initiative
