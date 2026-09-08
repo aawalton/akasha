@@ -168,31 +168,31 @@ SEAM_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 . "$SEAM_DIR/badge/alanwalton-badge.shell-script.shell.sh"
 # shellcheck source=../wallpaper-intent/alanwalton-wallpaper-intent.shell-script.shell.sh
 . "$SEAM_DIR/wallpaper-intent/alanwalton-wallpaper-intent.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh
+# shellcheck source=../health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh
 . "$SEAM_DIR/health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/health-samples-drain/alanwalton-health-samples-drain.shell-script.shell.sh
+# shellcheck source=../health-samples-drain/alanwalton-health-samples-drain.shell-script.shell.sh
 . "$SEAM_DIR/health-samples-drain/alanwalton-health-samples-drain.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/app-shortcuts/alanwalton-app-shortcuts.shell-script.shell.sh
+# shellcheck source=../app-shortcuts/alanwalton-app-shortcuts.shell-script.shell.sh
 . "$SEAM_DIR/app-shortcuts/alanwalton-app-shortcuts.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/device-secret/alanwalton-device-secret.shell-script.shell.sh
+# shellcheck source=../device-secret/alanwalton-device-secret.shell-script.shell.sh
 . "$SEAM_DIR/device-secret/alanwalton-device-secret.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/monarch-tap/alanwalton-monarch-tap.shell-script.shell.sh
+# shellcheck source=../monarch-tap/alanwalton-monarch-tap.shell-script.shell.sh
 . "$SEAM_DIR/monarch-tap/alanwalton-monarch-tap.shell-script.shell.sh"
 
 # Where 09-monarch-tap-and-build-stamp.sh called it, between the relay and the
 # registrations. The sibling shell calls it from its own seam too.
 native_shell_stamp_app "$APPDELEGATE"
 
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/plugin-registrations/alanwalton-plugin-registrations.shell-script.shell.sh
+# shellcheck source=../plugin-registrations/alanwalton-plugin-registrations.shell-script.shell.sh
 . "$SEAM_DIR/plugin-registrations/alanwalton-plugin-registrations.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/fluidaudio-pin/alanwalton-fluidaudio-pin.shell-script.shell.sh
+# shellcheck source=../fluidaudio-pin/alanwalton-fluidaudio-pin.shell-script.shell.sh
 . "$SEAM_DIR/fluidaudio-pin/alanwalton-fluidaudio-pin.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/app-icon/alanwalton-app-icon.shell-script.shell.sh
+# shellcheck source=../app-icon/alanwalton-app-icon.shell-script.shell.sh
 . "$SEAM_DIR/app-icon/alanwalton-app-icon.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/widget-target/alanwalton-widget-target.shell-script.shell.sh
+# shellcheck source=../widget-target/alanwalton-widget-target.shell-script.shell.sh
 . "$SEAM_DIR/widget-target/alanwalton-widget-target.shell-script.shell.sh"
 
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/app-entitlements/alanwalton-app-entitlements.shell-script.shell.sh
+# shellcheck source=../app-entitlements/alanwalton-app-entitlements.shell-script.shell.sh
 . "$SEAM_DIR/app-entitlements/alanwalton-app-entitlements.shell-script.shell.sh"
 
 echo "Next: open the project in Xcode (npm run ios:open), select your free"
