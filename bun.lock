@@ -557,6 +557,7 @@
         "@akasha/agents": "workspace:*",
         "@akasha/analysis-complexity": "workspace:*",
         "@akasha/changes": "workspace:*",
+        "@akasha/checks": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/digit-padding": "workspace:*",
         "@akasha/errors-core": "workspace:*",

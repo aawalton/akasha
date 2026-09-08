@@ -62,6 +62,7 @@
   },
   "dependencies": {
     "@akasha/changes": "workspace:*",
+    "@akasha/checks": "workspace:*",
     "@akasha/code": "workspace:*",
     "@akasha/seat-system": "workspace:*",
     "@akasha/agents": "workspace:*",

@@ -18,19 +18,27 @@ export const mechanicalFiling = {
     },
     {
       invariantKind: "departure",
-      statement: "The bodies read are landed as a mechanical landing lands.",
+      statement: "A body to write goes in through the change adding a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path to take away goes through the change removing a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that is not text refuses the call rather than being landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every body a call carries is worked out before any of them is run.",
     },
     {
       invariantKind: "departure",
       statement: "No check runs over a body landed here.",
     },
     {
-      invariantKind: "departure",
-      statement: "The name the caller was called as is said in the commit.",
-    },
-    {
       invariantKind: "absence",
-      statement: "Nothing here drafts into a patch.",
+      statement: "Nothing here keeps an edit rather than landing it.",
     },
     {
       invariantKind: "absence",
