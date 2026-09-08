@@ -27,6 +27,7 @@ export const smilingjennyWeb = {
     "module/jenny-session",
     "module/jenny-shell",
     "route/jenny-categorization",
+    "route/jenny-readout-relay",
     "route/jenny-safety-level",
     "route/jenny-surplus",
   ],

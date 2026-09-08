@@ -1,6 +1,6 @@
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
-import { action } from "../api.readout-relay.ts"
+import { action } from "../jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { loader } from "./jenny-safety-level.route.code.ts"
 
 const RING_CREDENTIAL = crypto.randomUUID()

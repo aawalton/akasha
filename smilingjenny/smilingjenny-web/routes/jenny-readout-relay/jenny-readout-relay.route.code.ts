@@ -5,7 +5,7 @@ import {
   RELAY_SECRET_HEADER,
 } from "@akasha/readout-system/readout-credential"
 import { holdRelayed, RELAY_SECRET_NAME, relayedIn } from "@akasha/readout-system/readout-relay"
-import type { Route } from "./+types/api.readout-relay"
+import type { Route } from "./+types/jenny-readout-relay.route.code"
 
 const NO_READING_IN_THE_BODY = {
   ok: false,
