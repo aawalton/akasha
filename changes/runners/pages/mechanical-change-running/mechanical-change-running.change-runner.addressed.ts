@@ -104,6 +104,9 @@ export type Changes = {
   "change-mechanical/move-file-code": Parameters<
     typeof import("../../../mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts")["runChange"]
   >[1]
+  "change-mechanical/move-file-of-any-kind": Parameters<
+    typeof import("../../../mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts")["runChange"]
+  >[1]
   "change-mechanical/remove-file-code": Parameters<
     typeof import("../../../mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.code.ts")["runChange"]
   >[1]

@@ -9,5 +9,6 @@ export const changeMechanicalFileMove = {
     "change-mechanical-file/move-file",
     "change-mechanical/move-file-code",
     "change-mechanical-file/move-file-page",
+    "change-mechanical/move-file-of-any-kind",
   ],
 } as const satisfies Domain
