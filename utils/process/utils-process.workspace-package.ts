@@ -12,5 +12,6 @@ export const utilsProcess = {
     "module/proc-environ",
     "module/proc-reading",
     "module/process-ending",
+    "module/libc-mapping",
   ],
 } as const satisfies WorkspacePackage

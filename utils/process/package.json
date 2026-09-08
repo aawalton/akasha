@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./libc-mapping": "./libc-mapping/libc-mapping.module.code.ts",
     "./pid-signal": "./pid-signal/pid-signal.module.code.ts",
     "./port-holding": "./port-holding/port-holding.module.code.ts",
     "./proc-environ": "./proc-environ/proc-environ.module.code.ts",

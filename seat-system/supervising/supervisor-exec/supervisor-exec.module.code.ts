@@ -1,6 +1,6 @@
 import { dlopen, FFIType, ptr } from "bun:ffi"
-import { readFileSync } from "node:fs"
 import { collapse, folds, refuses } from "@akasha/utils-narrow/collapse"
+import { resolveMappedLibc } from "@akasha/utils-process/libc-mapping"
 import { errnoCodeOf, readPidSignal } from "@akasha/utils-process/pid-signal"
 import type {
   ChildExitRuleSource,
@@ -18,19 +18,6 @@ const F_GETFD = 1
 const F_SETFD = 2
 const FD_CLOEXEC = 1
 const WNOHANG = 1
-
-const LIBC_MAPPING = /^(libc\.so\.|libc-|libc\.musl-|ld-musl-)/
-
-export function resolveMappedLibc(): string {
-  for (const line of readFileSync("/proc/self/maps", "utf8").split("\n")) {
-    const slash = line.indexOf("/")
-    if (slash < 0) continue
-    const path = line.slice(slash).replace(/ \(deleted\)$/, "")
-    const base = path.slice(path.lastIndexOf("/") + 1)
-    if (LIBC_MAPPING.test(base)) return path
-  }
-  throw new Error("supervisor-exec: no libc mapping found in /proc/self/maps")
-}
 
 const libc = dlopen(resolveMappedLibc(), {
   execvpe: {
