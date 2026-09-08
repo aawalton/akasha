@@ -289,9 +289,7 @@ test("a change answering says how many subagents handed edits over", async () =>
 
   const said = await removing(root, NAMER_PAGE)
 
-  expect(said.report).toContain(
-    "1 subagent(s) handed edits over, which `akasha change handed` names"
-  )
+  expect(said.report).toContain("1 subagent(s) handed edits over, which `akasha change list` names")
 })
 
 test("a change page saying its readers owe no reading is read as saying so", () => {

@@ -336,6 +336,19 @@ function dropped(root: string, page: string, argv: readonly string[], piping: Pi
   return dropping(root, page, piped)
 }
 
+export type Chosen = {
+  readonly said: string
+  readonly drafts: boolean
+  readonly barred: readonly string[]
+}
+
+export function barredIn(given: Arguments, chosen: Chosen | null): readonly string[] {
+  if (chosen === null) return []
+  return chosen.barred
+    .filter((key) => given[key] !== undefined)
+    .map((key) => `\`${key}\` is no argument a ${chosen.said} takes`)
+}
+
 export async function changing(
   root: string,
   page: string,
@@ -343,7 +356,8 @@ export async function changing(
   argv: readonly string[],
   piping: Piping,
   loading: Loading,
-  applying: Applying
+  applying: Applying,
+  chosen: Chosen | null = null
 ): Promise<Answer> {
   const before = opening()
   const world = worldAt(root, textIn(root), runAt)
@@ -351,18 +365,23 @@ export async function changing(
   if (slug === undefined) {
     return mistaking([`no change is named, and this runs one of ${runsSaid(world)}`, DROP_SAID])
   }
-  if (slug === HANDED) return listing(root, page)
-  if (slug === TAKE) return taking(root, page, argv[1], piping)
-  if (slug === FORGET) return forgetting(root, page, argv[1], piping)
-  if (slug === DROP) return dropped(root, page, argv.slice(1), piping)
+  if (chosen === null) {
+    if (slug === HANDED) return listing(root, page)
+    if (slug === TAKE) return taking(root, page, argv[1], piping)
+    if (slug === FORGET) return forgetting(root, page, argv[1], piping)
+    if (slug === DROP) return dropped(root, page, argv.slice(1), piping)
+  }
   const unknown = unknownIn(argv.slice(1), BARE, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const said = argumentsIn(piping)
   if (typeof said === "string") return mistaking([said])
   const given = rootedIn(root, said)
   if (typeof given === "string") return mistaking([given])
+  const wrong = barredIn(given, chosen)
+  if (wrong.length > 0) return mistaking(wrong)
   const asked = applyIn(given)
   if (typeof asked === "string") return mistaking([asked])
+  const drafts = chosen === null ? asked.drafts : chosen.drafts
   const type = typeOf(world, slug)
   if (type === null) {
     return mistaking([
@@ -384,7 +403,7 @@ export async function changing(
   })
   costRecorded(root, CHANGE_PAGE, before, CHANGE, slug, paths, answered.refusals.length)
   if (answered.code !== 0) return answered
-  if (asked.drafts) {
+  if (drafts) {
     const drafted = `the edits are kept at ${keptAt(page) ?? ""}, and \`akasha apply\` lands them`
     return { ...answered, report: [...answered.report, drafted] }
   }
