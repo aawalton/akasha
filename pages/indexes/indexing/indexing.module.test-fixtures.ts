@@ -1,6 +1,6 @@
 import { cpSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "@akasha/command-system/scratching"
+import { keptAt, scratchWorld } from "@akasha/command-system/scratching"
 import { said as git } from "@akasha/git/git-running"
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
@@ -400,7 +400,7 @@ export function indexedRepo(named: Readonly<Record<string, string>> = {}): strin
   const key = JSON.stringify(Object.entries(named).sort())
   let held = BUILT[key]
   if (held === undefined) {
-    held = scratch.rootFor("akasha-indexed-")
+    held = keptAt("akasha-indexed-")
     git(held, ["init", "--quiet"])
     git(held, ["config", "user.email", "held@nowhere"])
     git(held, ["config", "user.name", "Held"])

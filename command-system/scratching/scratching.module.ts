@@ -22,6 +22,18 @@ export const scratching = {
     },
     {
       invariantKind: "departure",
+      statement: "A kept root is swept when the process ends rather than when a test file ends.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A kept root is what more than one test file in a run reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The world kept roots are taken from is made the first time one is asked for.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A test names only the prefix the test wants.",
     },
     {

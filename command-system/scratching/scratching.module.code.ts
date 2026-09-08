@@ -8,6 +8,16 @@ export type Scratch = {
   readonly sweep: () => undefined
 }
 
+let kept: Scratch | null = null
+
+export function keptAt(prefix: string): string {
+  if (kept === null) {
+    kept = scratchWorld()
+    process.on("exit", kept.sweep)
+  }
+  return kept.rootFor(prefix)
+}
+
 export function scratchWorld(): Scratch {
   const held: string[] = []
   return {
