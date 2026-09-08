@@ -22,7 +22,7 @@ const DAY_BACK = { by: "period", ms: DAY, said: "24h" } as const
 
 const INDEX_AT = pageAt("commands/pages", "index")
 
-const READ_AT = pageAt("command-system/commands", "read")
+const READ_AT = pageAt("commands/pages", "read")
 
 function rootFor(): string {
   return scratch.rootFor("command-measuring-")
