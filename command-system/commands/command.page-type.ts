@@ -52,6 +52,7 @@ export const command = {
     "command/index",
     "command/ios-app",
     "command/loki",
+    "command/move-intent",
     "command/push",
     "command/read",
     "command/restore",
