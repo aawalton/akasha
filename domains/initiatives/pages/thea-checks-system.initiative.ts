@@ -38,7 +38,7 @@ export const theaChecksSystem = {
     {
       statement: "Every runtime helper the Lua compiler carries is a page.",
       workingMemory:
-        "Stage 2 landed, and no-class now exempts lua-compiler/lualib and lualibs by Alan's call, unblocking the seven files carrying classes. Alan rules that many exports split one per export, shared state extracted into modules exporting their bindings. Five files hold 17 exports. Every split is a migration to lualibs pages, file-has-its-page refusing any edit to an unclaimed src file. Prove each with the suite at /var/tmp/imip/thea-behaviour.lua, because comparing bodies passes a broken bundle.",
+        "All five splits landed. lualib/src holds 104 files against 115, lualibs 26 pages, 135 features, suite 50 of 50. Left are 91 leaves that move plainly, 13 non-leaves, and 5 overlay twins last, no page yet carrying lua50-code. Prove a move by hashing the removed source against the added code file in the one commit, then byte-identity on nine targets, then the suite at /var/tmp/imip/thea-behaviour.lua. A split takes the suite first. No mover is possible, a program cannot write into the checkout.",
     },
     {
       statement: "Every property file has the page whose property that file is.",
