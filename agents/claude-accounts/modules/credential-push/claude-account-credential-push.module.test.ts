@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { chmodSync } from "node:fs"
-import { join } from "node:path"
 import { readingIn } from "@akasha/indexes"
 import { routingIn } from "../marking/claude-account-marking.module.code.ts"
 import {
@@ -11,6 +9,7 @@ import {
   bodiesIn,
   counting,
   pageAt,
+  shut,
 } from "../marking/claude-account-marking.module.test-fixtures.ts"
 import { everyAccountStateIn, rescuedIn } from "../reading/claude-account-reading.module.code.ts"
 import {
@@ -318,10 +317,9 @@ test("a root filing no index refuses the push rather than throwing", async () =>
 
 test("pushing one account's credential opens that account's page and no other page", async () => {
   const root = worldMade()
-  for (const one of ["aine", "aow"]) chmodSync(join(root, pageAt(one)), 0o000)
-  expect(() => everyAccountStateIn(root)).toThrow()
+  for (const one of ["aine", "aow"]) shut(root, one)
+  expect([...everyAccountStateIn(root).keys()]).toEqual(["ctw"])
   expect((await pushed(root, credentialOf("ctw"), sopsIn().doors)).kind).toBe("pushed")
-  for (const one of ["aine", "aow"]) chmodSync(join(root, pageAt(one)), 0o644)
 })
 
 test("pushing one account's credential lists no directory the accounts are filed under", async () => {

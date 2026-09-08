@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { chmodSync, mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
@@ -58,6 +58,11 @@ type Held = Record<string, unknown>
 
 function pageAt(slug: string): string {
   return `${PAGES_AT}/${slug}/${slug}.claude-account.ts`
+}
+
+function shut(at: string): undefined {
+  rmSync(at)
+  mkdirSync(at)
 }
 
 function bodied(name: string, held: Held): string {
@@ -307,16 +312,13 @@ test("reading one account lists no directory of the fleet", () => {
 test("reading one account opens no other account's page", () => {
   const root = worldMade()
   for (const slug of ["aow", "ctw"]) {
-    chmodSync(join(root, pageAt(slug)), 0o000)
+    shut(join(root, pageAt(slug)))
   }
-  expect(() => everyAccountStateIn(root)).toThrow()
+  expect([...everyAccountStateIn(root).keys()]).toEqual(["aine"])
   const state = accountStateIn(root, "aine")
   expect(state?.sevenDayPercentUsed).toBe(40)
   const held = credentialIn(root, "aine", secretsFake)
   expect(held.kind).toBe("read")
-  for (const slug of ["aow", "ctw"]) {
-    chmodSync(join(root, pageAt(slug)), 0o644)
-  }
 })
 
 test("what an account states and what is observed of it are told apart", () => {

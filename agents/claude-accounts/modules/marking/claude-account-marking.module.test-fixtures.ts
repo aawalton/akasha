@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
@@ -223,6 +223,12 @@ export function pageAt(slug: string): string {
 
 export function besideAt(slug: string): string {
   return `${PAGES_AT}/${slug}/${slug}.claude-account.uncommitted.ts`
+}
+
+export function shut(root: string, slug: string): undefined {
+  const at = join(root, pageAt(slug))
+  rmSync(at)
+  mkdirSync(at)
 }
 
 function idFor(slug: string): string {

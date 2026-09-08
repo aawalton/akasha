@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { chmodSync, readFileSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   everyAccountSlugIn,
@@ -52,6 +52,7 @@ import {
   rootFor,
   routed,
   routedFor,
+  shut,
   sweep,
   USAGE,
   USAGE_UNKNOWN,
@@ -262,10 +263,9 @@ test("writing beside a page answers with why rather than throwing", () => {
 
 test("marking one account opens no other account's page", () => {
   const root = worldMade()
-  for (const one of ["aine", "aow"]) chmodSync(join(root, pageAt(one)), 0o000)
-  expect(() => everyAccountStateIn(root)).toThrow()
+  for (const one of ["aine", "aow"]) shut(root, one)
+  expect([...everyAccountStateIn(root).keys()]).toEqual(["ctw"])
   expect(heldIn(root, "ctw", { retryAllowedAt: RESETS_AT })["retryAllowedAt"]).toBe(RESETS_AT)
-  for (const one of ["aine", "aow"]) chmodSync(join(root, pageAt(one)), 0o644)
 })
 
 test("marking one account reads no index the whole fleet is filed in", () => {
