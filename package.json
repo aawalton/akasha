@@ -79,7 +79,7 @@
   },
   "scripts": {
     "typecheck": "./node_modules/typescript-7/bin/tsc -b",
-    "clean:stale-folders": "bun workspace-paths/stale-folders/stale-folders.module.code.ts"
+    "clean:stale-folders": "bun alan/harness/workspace-paths/stale-folders/stale-folders.module.code.ts"
   },
   "trustedDependencies": [
     "@biomejs/biome",
