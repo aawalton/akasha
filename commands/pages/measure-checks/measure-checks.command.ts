@@ -40,12 +40,10 @@ export const measureChecks = {
     "a run's memory is what that run added over the memory resident when the run opened.",
     "a run that forgot no high-water mark is left out of the memory it would otherwise report.",
     "that run is counted in the processor time all the same.",
-    "that run is counted among the runs its phase holds all the same.",
-    "how many runs a phase holds is said before that phase's averages.",
-    "a phase no run was judged at is drawn as `-` rather than as an average of zero.",
-    "a phase no run was judged at counts `0` runs rather than an absence.",
-    "checks are ordered by what their patch runs took on average.",
-    "a check carrying no patch run comes last.",
+    "that run is counted among the runs a check holds all the same.",
+    "how many runs a check holds is said before that check's averages.",
+    "checks are ordered by what their runs took on average.",
+    "checks taking equal processor time are ordered by name.",
   ],
   invariants: [
     {
