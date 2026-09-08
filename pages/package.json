@@ -7,6 +7,7 @@
     "./icon-index-rendering": "./commands/icon-index-rendering/icon-index-rendering.module.code.ts",
     "./page-secret-acting": "./commands/page-secret-acting/page-secret-acting.module.code.ts",
     "./boolean-property": "./boolean-properties/boolean-property.page-type.ts",
+    "./build-folder-property": "./build-folder-properties/build-folder-property.page-type.ts",
     "./calculation-loading": "./calculation-loading/calculation-loading.module.code.ts",
     "./calendar-date-property": "./calendar-date-properties/calendar-date-property.page-type.ts",
     "./calendar-time-property": "./calendar-time-properties/calendar-time-property.page-type.ts",
