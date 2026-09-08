@@ -69,8 +69,8 @@ const transformObjectLiteralExpression: FunctionVisitor<ts.ObjectLiteralExpressi
     context.pushPrecedingStatements()
 
     if (ts.isPropertyAssignment(element)) {
-      const expression = context.transformExpression(element.initializer)
-      properties.push(luaExpressions.createTableFieldExpression(expression, name, element))
+      const initializer = context.transformExpression(element.initializer)
+      properties.push(luaExpressions.createTableFieldExpression(initializer, name, element))
       initializers.push(element.initializer)
     } else if (ts.isShorthandPropertyAssignment(element)) {
       const valueSymbol = context.checker.getShorthandAssignmentValueSymbol(element)
@@ -82,8 +82,8 @@ const transformObjectLiteralExpression: FunctionVisitor<ts.ObjectLiteralExpressi
       properties.push(luaExpressions.createTableFieldExpression(identifier, name, element))
       initializers.push(element)
     } else if (ts.isMethodDeclaration(element)) {
-      const expression = transformFunctionLikeDeclaration(element, context)
-      properties.push(luaExpressions.createTableFieldExpression(expression, name, element))
+      const method = transformFunctionLikeDeclaration(element, context)
+      properties.push(luaExpressions.createTableFieldExpression(method, name, element))
       initializers.push(element)
     } else if (ts.isSpreadAssignment(element)) {
       const type = context.checker.getTypeAtLocation(element.expression)
