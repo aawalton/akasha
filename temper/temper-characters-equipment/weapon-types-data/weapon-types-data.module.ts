@@ -14,7 +14,7 @@ export const weaponTypesData = {
     },
     {
       invariantKind: "constraint",
-      statement: "A weapon's place in this table is the index a build hash carries.",
+      statement: "A weapon's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

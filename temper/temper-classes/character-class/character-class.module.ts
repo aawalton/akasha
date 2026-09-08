@@ -9,7 +9,7 @@ export const characterClass = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A class's place in this table is the index a build hash carries.",
+      statement: "A class's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

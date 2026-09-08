@@ -13,7 +13,7 @@ export const armorWeights = {
     },
     {
       invariantKind: "constraint",
-      statement: "A weight's place in this table is the index a build hash carries.",
+      statement: "A weight's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

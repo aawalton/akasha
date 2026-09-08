@@ -17,7 +17,7 @@ export const jewelryEnchantsData = {
     },
     {
       invariantKind: "constraint",
-      statement: "A glyph's place in this table is the index a build hash carries.",
+      statement: "A glyph's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

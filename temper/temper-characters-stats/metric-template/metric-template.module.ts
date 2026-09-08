@@ -4,6 +4,6 @@ export const metricTemplate = {
   id: "01a0612f-aae9-7080-8113-07ece2efe06d",
   pageTypeSlug: "module",
   slug: "metric-template",
-  definition: "the shape every character stat answers to, narrowed by the kind of value it carries",
+  definition: "the shape every character stat answers to, narrowed by the kind of value it has",
   code: "ts",
 } as const satisfies Module

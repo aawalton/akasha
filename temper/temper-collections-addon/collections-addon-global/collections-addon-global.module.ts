@@ -14,7 +14,7 @@ export const collectionsAddonGlobal = {
     },
     {
       invariantKind: "departure",
-      statement: "The global carries this add-on's name and version and nothing else.",
+      statement: "The global has this add-on's name and version and nothing else.",
     },
     {
       invariantKind: "departure",

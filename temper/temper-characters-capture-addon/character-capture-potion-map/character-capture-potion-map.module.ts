@@ -9,7 +9,7 @@ export const characterCapturePotionMap = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A place in this table is the number a saved build hash carries.",
+      statement: "A place in this table is the number a saved build hash has.",
     },
   ],
 } as const satisfies Module

@@ -18,7 +18,7 @@ export const metricTreeData = {
     {
       invariantKind: "gap",
       statement:
-        "The generator for this table reads a row shape the metric-tree pages no longer carry.",
+        "The generator for this table reads a row shape the metric-tree pages no longer have.",
     },
   ],
 } as const satisfies Module

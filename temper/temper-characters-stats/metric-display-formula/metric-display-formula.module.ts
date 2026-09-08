@@ -5,6 +5,6 @@ export const metricDisplayFormula = {
   pageTypeSlug: "module",
   slug: "metric-display-formula",
   definition:
-    "a character stat's formula written out as display nodes, each operand carrying its number",
+    "a character stat's formula written out as display nodes, each operand with its number",
   code: "ts",
 } as const satisfies Module

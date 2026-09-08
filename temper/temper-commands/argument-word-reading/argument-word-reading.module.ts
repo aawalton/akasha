@@ -22,7 +22,7 @@ export const argumentWordReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag no word follows carries no value.",
+      statement: "A flag no word follows has no value.",
     },
     {
       invariantKind: "departure",

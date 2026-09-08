@@ -19,7 +19,7 @@ export const addonFixtureManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "A fixture manifest carries the fields the addon roster reads.",
+      statement: "A fixture manifest has the fields the addon roster reads.",
     },
     {
       invariantKind: "departure",
