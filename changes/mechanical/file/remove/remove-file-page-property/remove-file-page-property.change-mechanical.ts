@@ -28,8 +28,9 @@ export const removeFilePageProperty = {
         "A page type still declaring the property is refused by a guard that change names.",
     },
     {
-      invariantKind: "gap",
-      statement: "A page still carrying the key the property declares refuses the removal.",
+      invariantKind: "departure",
+      statement:
+        "No page carries that key while the property goes, its page type having to declare it first.",
     },
   ],
 } as const satisfies ChangeMechanical
