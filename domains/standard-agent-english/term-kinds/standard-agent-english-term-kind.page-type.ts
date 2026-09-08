@@ -9,10 +9,6 @@ export const standardAgentEnglishTermKind = {
   slug: "standard-agent-english-term-kind",
   definition: "which sort one term is",
   pluralSlug: "standard-agent-english-term-kinds",
-  partSlugs: [
-    "standard-agent-english-term-kind/common-language",
-    "standard-agent-english-term-kind/domain-name",
-    "standard-agent-english-term-kind/foreign-name",
-  ],
+  partSlugs: [],
   extendsSlug: ["page-type/domain"],
 } as const satisfies PageType
