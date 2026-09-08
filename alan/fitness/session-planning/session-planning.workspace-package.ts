@@ -16,7 +16,6 @@ export const sessionPlanning = {
     "module/performed-set",
     "module/session-anchor",
     "module/slot-templates",
-    "module/weekly-coverage",
   ],
   invariants: [
     {
