@@ -4,12 +4,12 @@ import { told } from "@akasha/git/git-running"
 import { textAt, valueAt } from "@akasha/pages/page-value"
 import { seatPathForName } from "@akasha/seat-system/seat-reading"
 import { type Stopped, stopping } from "@akasha/seat-system/seat-stopping"
-import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { refused } from "../../../command-system/calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../../../command-system/calling/calling.module.code.ts"
 import {
   namedIn,
   quoted,
-} from "../../../command-system/seat-act-calling/seat-act-calling.module.code.ts"
+} from "../../../../../command-system/seat-act-calling/seat-act-calling.module.code.ts"
 
 const STOP = "stop"
 
