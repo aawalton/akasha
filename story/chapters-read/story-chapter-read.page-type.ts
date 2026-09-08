@@ -7,9 +7,11 @@ import type { Prose } from "../stories-played/properties/prose.file-property.ts"
 import type { ChronologyAnchors } from "./properties/chronology-anchors.page-property-entry.ts"
 import type { MarkedReadAt } from "./properties/marked-read-at.instant-property.ts"
 import type { RemovedAt } from "./properties/removed-at.instant-property.ts"
+import type { StorySlug } from "./properties/story-slug.relation-property.ts"
 
 export type StoryChapterRead = CollectionExternal & {
   title: Title
+  storySlug?: StorySlug
   ownLength: OwnLength
   externalLink: ExternalLink
   prose: Prose
@@ -63,6 +65,7 @@ export const storyChapterRead = {
     "number-property/anchor-beat",
     "number-property/anchor-volume",
     "page-property-entry/chronology-anchors",
+    "relation-property/story-slug",
     "select-property/anchor-direction",
     "select-property/anchor-kind",
     "select-property/anchor-standing",
@@ -74,6 +77,7 @@ export const storyChapterRead = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/story-slug", required: false, many: false },
     { pagePropertySlug: "number-property/own-length", required: true, many: false },
     { pagePropertySlug: "url-property/external-link", required: true, many: false },
     { pagePropertySlug: "file-property/prose", required: true, many: false },
