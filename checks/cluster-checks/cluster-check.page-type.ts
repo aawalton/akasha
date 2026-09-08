@@ -224,6 +224,7 @@ export const clusterCheck = {
     "module/ts-type-assertions",
     "module/ts-void-declarations",
     "module/tsconfig-conventions",
+    "module/tsconfig-import-graph",
   ],
   properties: [
     {
