@@ -19,6 +19,7 @@ export const changeMechanicalFile = {
     "domain/change-mechanical-file-remove",
     "domain/change-mechanical-file-move",
     "domain/change-mechanical-file-add-if-not-present",
+    "domain/change-mechanical-file-rename",
   ],
   properties: [
     { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },

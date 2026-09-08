@@ -9,6 +9,7 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as moveFileCode } from "../../../mechanical/file/move/move-file-code/move-file-code.change-mechanical.code.ts"
+import { runChange as renameFilePage } from "../../../mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { runChange as renamePageAddress } from "../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
@@ -21,7 +22,6 @@ import {
   type World,
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { runChange as renamePageChange } from "../../file/rename-page/rename-page.change-agent.code.ts"
 import {
   landingFor,
   moveFolderPackage,
@@ -82,7 +82,7 @@ const HELD: Readonly<Record<string, string>> = {
 }
 
 const REACHED = {
-  "change-agent/rename-page": renamePageChange,
+  "change-mechanical/rename-file-page": renameFilePage,
   "change-mechanical-folder/move-folder": moveFolderChange,
   "change-mechanical-file-content/change-imports": changeImports,
   "change-mechanical-file-content/rename-export": renameExport,

@@ -16,7 +16,7 @@ const TO = "to"
 
 const MOVE_FOLDER = "change-mechanical-folder/move-folder"
 
-const RENAME_PAGE = "change-agent/rename-page"
+const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
 
 export type MoveFolderPackageAsked = {
   readonly at: string
@@ -40,7 +40,7 @@ export async function moveFolderPackage(
   if (carried.said.refused !== null) return carried.said
   const named = basename(given.to)
   if (named === parted.slug) return carried.said
-  const said = await reach(carried.world, RENAME_PAGE, {
+  const said = await reach(carried.world, RENAME_FILE_PAGE, {
     at: landingFor(given.at, from, given.to),
     to: named,
   })
