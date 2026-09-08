@@ -60,6 +60,22 @@ const PREPOSITION = "ADP"
 
 const RATHER = "rather"
 
+const NOUN = "NOUN"
+
+const COMPOUND = "compound"
+
+const APPOSITION = "appos"
+
+const ASKING: ReadonlySet<string> = new Set([
+  "how",
+  "whether",
+  "why",
+  "when",
+  "where",
+  "which",
+  "what",
+])
+
 const TOWARD: ReadonlySet<string> = new Set([TO])
 
 const DIRECTED: ReadonlySet<string> = new Set([
@@ -168,7 +184,12 @@ function particled(sentence: DepSentence, token: DepToken): boolean {
 }
 
 function subjectOfItsOwn(sentence: DepSentence, token: DepToken): boolean {
-  return childrenByRel(sentence, token.id, SUBJECT).some((one) => !RELATIVIZERS.has(lower(one)))
+  const own = childrenByRel(sentence, token.id, SUBJECT)
+  if (own.length > 0) return own.some((one) => !RELATIVIZERS.has(lower(one)))
+  const near = byId(sentence, token.id - 1)
+  if (near === undefined || !THINGS.has(near.upos)) return false
+  if (near.deprel === COMPOUND && near.head === token.id) return true
+  return near.deprel === APPOSITION || near.deprel === SUBJECT
 }
 
 function personHeld(sentence: DepSentence, token: DepToken): boolean {
@@ -252,6 +273,16 @@ function participleOf(sentence: DepSentence, token: DepToken): Frame | null {
   return verbConjoined(sentence, token) ? null : PARTICIPLE_FRAME
 }
 
+function objectAsked(sentence: DepSentence, token: DepToken): boolean {
+  const object = child(sentence, token.id, OBJECT)
+  if (object === undefined) return false
+  return subtree(sentence, object.id).some((one) => one.id < object.id && ASKING.has(lower(one)))
+}
+
+function acting(token: DepToken): boolean {
+  return token.upos === VERB || (token.upos === NOUN && token.deprel === RELATIVE)
+}
+
 function leftAlone(sentence: DepSentence, token: DepToken): boolean {
   if (particled(sentence, token)) return true
   if (personHeld(sentence, token)) return true
@@ -260,11 +291,12 @@ function leftAlone(sentence: DepSentence, token: DepToken): boolean {
   if (setAgainst(sentence, token)) return true
   if (strandedOn(sentence, token)) return true
   if (selfHeld(sentence, token)) return true
+  if (objectAsked(sentence, token)) return true
   return sentOn(sentence, token)
 }
 
 function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
-  if (token.upos !== VERB) return null
+  if (!acting(token)) return null
   if (leftAlone(sentence, token)) return null
   if (hasChild(sentence, token.id, PASSIVE)) {
     return placedSomewhere(sentence, token) ? PLACED_FRAME : null

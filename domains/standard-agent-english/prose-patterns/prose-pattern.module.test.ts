@@ -448,6 +448,47 @@ test("a word with no object that places a thing somewhere is left alone", () => 
   expect(foundIn(said, HOLD)).toEqual([])
 })
 
+test("a word the parser read as a noun heading a relative clause is found", () => {
+  const said = sentenceOf([
+    ["The", "DET", 2, "det"],
+    ["flags", "NOUN", 7, "nsubj:pass"],
+    ["a", "DET", 5, "det"],
+    ["call", "NOUN", 5, "compound"],
+    ["holds", "NOUN", 2, "acl:relcl"],
+    ["are", "AUX", 7, "aux:pass"],
+    ["judged", "VERB", 0, "root"],
+  ])
+
+  expect(foundIn(said, HOLD).map((one) => one.frame)).toEqual(["fronted"])
+})
+
+test("a thing right before a word with no subject of its own is that word's subject", () => {
+  const said = sentenceOf([
+    ["An", "DET", 2, "det"],
+    ["id", "NOUN", 7, "nsubj"],
+    ["no", "DET", 5, "det"],
+    ["buy", "NOUN", 5, "compound"],
+    ["rule", "NOUN", 2, "appos"],
+    ["holds", "VERB", 2, "acl:relcl"],
+    ["refuses", "VERB", 0, "root"],
+  ])
+
+  expect(foundIn(said, HOLD).map((one) => one.frame)).toEqual(["fronted"])
+})
+
+test("a word whose object is a question is left alone", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["widget", "NOUN", 3, "nsubj"],
+    ["holds", "VERB", 0, "root"],
+    ["how", "ADV", 5, "advmod"],
+    ["many", "ADJ", 6, "amod"],
+    ["taps", "NOUN", 3, "obj"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
 test("a word bound to something by a directed preposition is left alone", () => {
   const said = sentenceOf([
     ["a", "DET", 2, "det"],

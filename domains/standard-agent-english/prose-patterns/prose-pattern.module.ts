@@ -14,7 +14,8 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A word read as a noun is no construction of that word as an action.",
+      statement:
+        "A word read as a noun heading no clause is no construction of that word as an action.",
     },
     {
       invariantKind: "departure",
@@ -133,6 +134,19 @@ export const prosePattern = {
     {
       invariantKind: "departure",
       statement: "A word with no object that places a thing somewhere is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word read as a noun that heads a relative clause is read as an action.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A thing right before a word with no subject of its own is that word's subject.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A word whose object is a question answers rather than holds, so it is left alone.",
     },
   ],
 } as const satisfies Module
