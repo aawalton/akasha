@@ -189,7 +189,7 @@ export interface ThisVoidSelfDropCorpus {
 
 const ROOT_ONLY_FAMILY: ReadonlySet<string> = new Set([CONTROL_ROOT])
 
-export function scanTstlThisVoidSelfDrop(
+export function scanThisVoidSelfDrop(
   sf: ts.SourceFile,
   corpus: ThisVoidSelfDropCorpus = {}
 ): readonly ThisVoidSelfDropFinding[] {

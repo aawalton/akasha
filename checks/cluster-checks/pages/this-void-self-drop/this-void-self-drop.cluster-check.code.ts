@@ -16,7 +16,7 @@ import {
   collectTypeFamilyEdges,
   collectXmlColonCalls,
   resolveControlFamily,
-  scanTstlThisVoidSelfDrop,
+  scanThisVoidSelfDrop,
   type ThisVoidSelfDropFinding,
 } from "../../modules/ts-this-void-self-drop/ts-this-void-self-drop.module.code.ts"
 import {
@@ -83,7 +83,7 @@ function scanFile(
 ): readonly ThisVoidSelfDropFinding[] {
   const source = readFileSync(join(repoRoot, rel), "utf8")
   const sf = ts.createSourceFile(rel, source, ts.ScriptTarget.Latest, true, ts.ScriptKind.TS)
-  return scanTstlThisVoidSelfDrop(sf, { xmlColonCalls, controlFamily })
+  return scanThisVoidSelfDrop(sf, { xmlColonCalls, controlFamily })
 }
 
 interface ScanTarget {
