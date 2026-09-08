@@ -6,7 +6,7 @@ export default [
   route("sign-out", "routes/sign-out.ts"),
   route("api/health", "routes/api.health.ts"),
   route("api/live-version", "routes/api.live-version.ts"),
-  route("api/categorization", "routes/api.categorization.ts"),
+  route("api/categorization", "routes/jenny-categorization/jenny-categorization.route.code.ts"),
   route("api/readout-relay", "routes/api.readout-relay.ts"),
   route("api/safety-level", "routes/jenny-safety-level/jenny-safety-level.route.code.ts"),
   route("api/surplus", "routes/jenny-surplus/jenny-surplus.route.code.ts"),

@@ -1,10 +1,7 @@
-// Jenny's ring, driven over real HTTP: the relay carrier POSTs a reading into her
-// receiving route and her categorization route serves it. The two secrets are the
-// only made-up things here, generated fresh for each run.
 import { afterAll, beforeAll, expect, test } from "bun:test"
 import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
-import { loader } from "./api.categorization.ts"
-import { action } from "./api.readout-relay.ts"
+import { action } from "../api.readout-relay.ts"
+import { loader } from "./jenny-categorization.route.code.ts"
 
 const RING_CREDENTIAL = crypto.randomUUID()
 const RELAY_SECRET = crypto.randomUUID()
@@ -51,12 +48,6 @@ beforeAll(() => {
   origin = `http://localhost:${server.port}`
 })
 
-// THE ORIGIN THIS FILE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
-//
-// Every test file in one run shares one process, so a file leaving this origin in place leaves
-// every later file asking this store rather than the store the run was pointed at. Stopping the
-// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
-// one, so a stopped store goes on answering the file that runs next.
 afterAll(() => {
   server.stop()
   store.stop(true)
