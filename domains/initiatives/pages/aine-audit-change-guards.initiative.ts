@@ -8,6 +8,11 @@ export const aineAuditChangeGuards = {
   personaSlug: "aine",
   intents: [
     {
+      statement: "Every sensible combination of mode, type and subtype has a mechanical change.",
+      workingMemory:
+        "24 mechanical changes cover a grid of 5 modes by 3 target types, each type taking its own subtypes: file takes file, file-code, file-page, file-page-type, file-page-property; file-content takes code, page-property, page-property-prose, manifest; folder takes folder, folder-package. Only file/add is filled. file/move holds move-file alone, which nothing reaches. file/rename holds rename-path, which carries a file rather than renaming a concept. folder holds remove-page-type alone.",
+    },
+    {
       statement:
         "Every mechanical change that can leave an edge hanging names the guard judging that edge.",
       workingMemory:
