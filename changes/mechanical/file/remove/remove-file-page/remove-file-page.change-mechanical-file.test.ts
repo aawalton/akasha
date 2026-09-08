@@ -219,19 +219,7 @@ test("a path beside a page is refused", async () => {
   const said = await runChange(worldIn(root), { at: HELD_CODE })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(
-    `\`${HELD_CODE}\` is under no page name, so this change takes nothing away`
-  )
-})
-
-test("a path under no page type is refused", async () => {
-  const root = indexedRepo()
-  const at = "akasha/one/fresh.notatype.ts"
-
-  const said = await runChange(worldIn(root), { at })
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${at}\` is under no page name, so this change takes nothing away`)
+  expect(said.refused).toBe(`\`${HELD_CODE}\` names no page, so no page is taken away`)
 })
 
 test("a path the world names no page at is refused", async () => {
@@ -400,7 +388,7 @@ test("a page whose code file another page imports is refused through the guarded
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
-    `\`${SPARE_CODE}\` imports \`${HELD_CODE}\`, and \`${HELD_CODE}\` is taken away`
+    `\`${SPARE_CODE}\` imports \`${HELD_CODE}\`, and \`${HELD_CODE}\` holds no body after`
   )
 })
 

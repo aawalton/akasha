@@ -20,11 +20,7 @@ export const removeFilePage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path under no page name is refused here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The page types a name is read against are the ones the world files.",
+      statement: "A path the index files no page at is refused.",
     },
     {
       invariantKind: "departure",

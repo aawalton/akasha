@@ -1,6 +1,6 @@
 import { extname } from "node:path"
 import type { Named } from "@akasha/indexes"
-import { pageNamed, partedIn } from "@akasha/pages/page-file-name"
+import { partedIn } from "@akasha/pages/page-file-name"
 import {
   gathered,
   refusing,
@@ -90,9 +90,6 @@ async function unnamingIn(world: World, at: string, parents: readonly Named[]): 
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  if (!pageNamed(given.at, world.index.pageTypesIn())) {
-    return refusing(`\`${given.at}\` is under no page name, so this change takes nothing away`)
-  }
   let beside: readonly string[]
   try {
     const value = pageIn(world, given.at)
