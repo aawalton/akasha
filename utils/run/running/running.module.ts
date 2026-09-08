@@ -149,8 +149,30 @@ export const running = {
       statement: "A process given no ceiling runs to its own end.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A run is relayed only where a run made here is measured to cost more than a run should.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The first run made here is the one measured.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run under a ceiling is never the one measured.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A relay that will not start leaves every run to be made here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A relayed run goes to a server outliving the run but not the process that started it.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here starts a process meant to outlive its caller.",
+      statement: "No process started here is meant to outlive the process that started it.",
     },
   ],
 } as const satisfies Module

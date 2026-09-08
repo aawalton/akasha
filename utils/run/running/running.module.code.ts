@@ -1,5 +1,6 @@
 import { accessSync, constants, mkdirSync, readFileSync, rmdirSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { relayed, SERVING_MARKER } from "../run-relaying/run-relaying.module.code.ts"
 
 export const NO_CODE = -1
 
@@ -163,8 +164,27 @@ export function spawnedHere(argv: readonly string[], asked: Asked = {}): Held {
   }
 }
 
+const TOLL = 0.002
+
+let relaying = false
+
+let measured = false
+
 export function bytes(argv: readonly string[], asked: Asked = {}): Held {
-  return spawnedHere(argv, asked)
+  if (relaying) {
+    try {
+      return relayed(argv, asked)
+    } catch {
+      relaying = false
+      return spawnedHere(argv, asked)
+    }
+  }
+  const done = spawnedHere(argv, asked)
+  if (!measured && asked.cpuCeiling === undefined) {
+    measured = true
+    relaying = done.cpuSeconds > TOLL && process.env[SERVING_MARKER] === undefined
+  }
+  return done
 }
 
 export function endingOf(code: number, signal: string | null): string {

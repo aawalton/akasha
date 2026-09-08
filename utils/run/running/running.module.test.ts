@@ -1,6 +1,55 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
-import { bytes, delegatedAt, NO_CODE, ran, said, shown } from "./running.module.code.ts"
+import { relayed, SERVING_MARKER } from "../run-relaying/run-relaying.module.code.ts"
+import {
+  bytes,
+  delegatedAt,
+  NO_CODE,
+  ran,
+  said,
+  shown,
+  spawnedHere,
+} from "./running.module.code.ts"
+
+const CODE = `${import.meta.dir}/running.module.code.ts`
+
+const COSTLY = ["sh", "-c", "i=0; while [ $i -lt 20000 ]; do i=$((i+1)); done"]
+
+const CLEAN = { ...process.env, [SERVING_MARKER]: undefined }
+
+const MARKED = { ...process.env, [SERVING_MARKER]: "1" }
+
+const SEEING = `
+function servers() {
+  const own = String(process.pid)
+  let seen = 0
+  for (const name of readdirSync("/proc")) {
+    let stat = ""
+    let cmd = ""
+    try {
+      stat = readFileSync("/proc/" + name + "/stat", "utf8")
+      cmd = readFileSync("/proc/" + name + "/cmdline", "utf8")
+    } catch {
+      continue
+    }
+    const after = stat.slice(stat.lastIndexOf(")") + 2).split(" ")
+    if (after[1] === own && cmd.includes("run-serving")) seen += 1
+  }
+  console.log("servers " + String(seen))
+}
+`
+
+const AFTER_COSTLY =
+  `bytes(${JSON.stringify(COSTLY)})\n` +
+  'const done = bytes(["printf", "hi"])\n' +
+  'console.log("said " + new TextDecoder().decode(done.out) + " " + String(done.code))\n'
+
+function childSaying(body: string, env: Record<string, string | undefined> = CLEAN): string {
+  const source =
+    'import { readdirSync, readFileSync } from "node:fs"\n' +
+    `import { bytes } from ${JSON.stringify(CODE)}\n${SEEING}\n${body}servers()\n`
+  return said(["bun", "-e", source], { env }).trim()
+}
 
 test("a command exiting zero is answered as zero and what it printed", () => {
   expect(ran(["sh", "-c", "printf hello"])).toMatchObject({
@@ -159,4 +208,47 @@ test("a process run to be watched throws where it exits other than zero", () => 
 
 test("a process run to be watched throws naming the signal where a signal ended it", () => {
   expect(() => shown(["sh", "-c", "kill -KILL $$"])).toThrow(/`sh` died on SIGKILL/)
+})
+
+test("a run measured to cost no more than a run should leaves the runs after it here", () => {
+  expect(childSaying('bytes(["true"])\nbytes(["true"])\nbytes(["true"])\n')).toBe("servers 0")
+})
+
+test("a run measured to cost more than a run should sends the runs after it to a server", () => {
+  expect(childSaying(AFTER_COSTLY)).toBe("said hi 0\nservers 1")
+})
+
+test("a run relayed is answered as the same run made here is", () => {
+  const runs = [
+    ["sh", "-c", "printf out; printf err 1>&2; exit 3"],
+    ["sh", "-c", "kill -KILL $$"],
+    ["printf", "\\377\\376"],
+  ]
+  for (const argv of runs) {
+    const here = spawnedHere(argv)
+    const there = relayed(argv)
+    expect(there.code).toBe(here.code)
+    expect(there.signal).toBe(here.signal)
+    expect([...there.out]).toEqual([...here.out])
+    expect(there.err).toBe(here.err)
+  }
+})
+
+test("a run under a ceiling is never the run the roads are measured by", () => {
+  const body =
+    `bytes(${JSON.stringify(COSTLY)}, { cpuCeiling: 30 })\n` + 'bytes(["true"])\nbytes(["true"])\n'
+  expect(childSaying(body)).toBe("servers 0")
+})
+
+test("a process marked as the server itself makes every run here and starts no server", () => {
+  expect(childSaying(AFTER_COSTLY, MARKED)).toBe("said hi 0\nservers 0")
+})
+
+test("a run the server raises on is made here rather than answered as a run", () => {
+  const body =
+    `bytes(${JSON.stringify(COSTLY)})\n` +
+    'try { bytes(["no-such-program-on-any-path"]) } catch { console.log("raised") }\n' +
+    'const done = bytes(["printf", "hi"])\n' +
+    'console.log("said " + new TextDecoder().decode(done.out) + " " + String(done.code))\n'
+  expect(childSaying(body)).toBe("raised\nsaid hi 0\nservers 1")
 })
