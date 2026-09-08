@@ -50,11 +50,6 @@ export const theaChecksSystem = {
       workingMemory:
         "Ten of eleven settled. The eight ESO days from 2026-08-31 to 09-07 have pages again and their samples are claimed, Alan taking the writer itself separately. The two eso-daily-tracking strays are gone, every measurement in them already on its ESO day once floats and timestamps are normalised. Left is change-running.change-runner.addressed.ts, which no hand can remove: an apply drops any edit naming a change-runner addressed file, reading only the name. Filed as a finding.",
     },
-    {
-      statement: "Every file beside a page the page holds is claimed by that page.",
-      workingMemory:
-        "One left of three. The two location-collection descriptions are renamed and claimed. Their qualifier is load-bearing rather than clumsy: page carries a description key that location-collection inherits, so the file name was wrong and the property was right. Left is main.cluster.sops.yaml, a sops sidecar of 14KB that claimsOf never claims, no page type from cluster through host to domain declaring a secret. Whether cluster declares one is Alan's call.",
-    },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
