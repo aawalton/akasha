@@ -85,7 +85,7 @@ export function createTranspiler({ emitHost = ts.sys }: TranspilerOptions = {}):
 
     const options = program.getCompilerOptions()
 
-    if (options.tstlVerbose === true) {
+    if (options.verbose === true) {
       console.log("Emitting output")
     }
 
