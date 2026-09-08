@@ -1,0 +1,49 @@
+import type { WorkspacePackage } from "../../../../code-system/workspace-packages/workspace-package.page-type.ts"
+
+export const workflowLanguage = {
+  id: "01a06f10-7000-7000-b000-9d4a2f6c0000",
+  pageTypeSlug: "workspace-package",
+  slug: "workflow-language",
+  definition: "the words a workflow template's declaration is written in",
+  manifest: "json",
+  partSlugs: [
+    "page-type/workflow-step",
+    "module/workflow-types",
+    "module/workflow-discovery",
+    "module/step",
+    "module/workflow",
+    "module/secrets",
+    "module/images",
+    "module/ci-identifiers",
+    "module/inputs-hash",
+    "module/rbac-types",
+    "module/buildkit",
+    "module/checksum-hash",
+    "workflow-step/deploy",
+    "workflow-step/kubectl-apply",
+    "module/manifest-path",
+    "module/pod-selection",
+    "workflow-step/rbac-apply",
+    "module/retry-transient-ddl",
+    "module/rollback-image",
+    "module/set-image",
+    "workflow-step/secret-place",
+    "workflow-step/sops-decrypt",
+    "workflow-step/source-sync",
+    "module/verify-rollout",
+  ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A declaration names a step template rather than writing the shell lines itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A template answers with a step rather than running anything.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An image a step runs is named here rather than written into the step.",
+    },
+  ],
+} as const satisfies WorkspacePackage

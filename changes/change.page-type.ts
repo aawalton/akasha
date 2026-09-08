@@ -31,7 +31,6 @@ export const change = {
     "page-type/change-runner",
     "page-type/workflow-template",
     "page-type/change-kind",
-    "workspace-package/workflow-language",
     "page-type/change-guard",
     "module/change-shadow",
     "module/change-guarding",

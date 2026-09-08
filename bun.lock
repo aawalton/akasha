@@ -461,16 +461,6 @@
         "zod": "^4.3.6",
       },
     },
-    "changes/workflow-language": {
-      "name": "@akasha/workflow-language",
-      "dependencies": {
-        "@akasha/indexes": "workspace:*",
-        "@akasha/k8s-synth": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-service": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "checks": {
       "name": "@akasha/checks",
       "dependencies": {
@@ -1062,6 +1052,16 @@
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages": "workspace:*",
         "yaml": "^2.8.0",
+        "zod": "^4.3.6",
+      },
+    },
+    "infrastructure/cluster/workflows/workflow-language": {
+      "name": "@akasha/workflow-language",
+      "dependencies": {
+        "@akasha/indexes": "workspace:*",
+        "@akasha/k8s-synth": "workspace:*",
+        "@akasha/pages": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -3530,7 +3530,7 @@
 
     "@akasha/web-static-assets": ["@akasha/web-static-assets@workspace:web-static-assets"],
 
-    "@akasha/workflow-language": ["@akasha/workflow-language@workspace:changes/workflow-language"],
+    "@akasha/workflow-language": ["@akasha/workflow-language@workspace:infrastructure/cluster/workflows/workflow-language"],
 
     "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:workspace-paths"],
 
