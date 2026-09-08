@@ -16,14 +16,6 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "An edit stating no body takes its path away.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An edit naming a path that edit came from is a move.",
-    },
-    {
-      invariantKind: "departure",
       statement: "An edit states whether the readers of its path owe the reading again.",
     },
     {
