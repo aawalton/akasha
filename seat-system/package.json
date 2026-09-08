@@ -263,7 +263,8 @@
     "./seat-start": "./seat-start/seat-start.module.code.ts",
     "./payload": "./payload/payload.module.code.ts",
     "./gated-write": "./gated-write/gated-write.module.code.ts",
-    "./gated-landing": "./gated-landing/gated-landing.module.code.ts"
+    "./gated-landing": "./gated-landing/gated-landing.module.code.ts",
+    "./argument-narrowing": "./argument-narrowing/argument-narrowing.module.code.ts"
   },
   "dependencies": {
     "@akasha/agents": "workspace:*",

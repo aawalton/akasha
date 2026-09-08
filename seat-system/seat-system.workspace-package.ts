@@ -328,6 +328,7 @@ export const seatSystem = {
     "module/message-file-watch",
     "module/message-file",
     "module/run-supervisor",
+    "module/argument-narrowing",
     "module/gated-landing",
     "module/gated-write",
     "module/payload",

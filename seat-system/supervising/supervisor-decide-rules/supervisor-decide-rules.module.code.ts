@@ -1,5 +1,5 @@
-import { arr, bool, maybe, num, obj, str } from "@akasha/command-system/argument-narrowing"
 import { fail } from "@akasha/command-system/command-failing"
+import { arr, bool, maybe, num, obj, str } from "@akasha/seat-system/argument-narrowing"
 import {
   isIdleForPreservingRestart,
   isIdleForPreservingRestartPastCliff,
@@ -50,7 +50,7 @@ import {
 function sub(
   value: unknown,
   path: string,
-  handlers: Readonly<Record<string, (value: unknown, path: string) => unknown>>
+  handlers: Readonly<Record<string, (given: unknown, at: string) => unknown>>
 ): Record<string, unknown> {
   const question = obj(value, path)
   const asked = Object.keys(question)
