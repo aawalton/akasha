@@ -101,7 +101,7 @@ export function getPlugins(program: ts.Program): {
   const options = program.getCompilerOptions()
 
   for (const [index, pluginOption] of (options.luaPlugins ?? []).entries()) {
-    const optionName = `tstl.luaPlugins[${index}]`
+    const optionName = `luaCompiler.luaPlugins[${index}]`
 
     const factory = (() => {
       if ("plugin" in pluginOption) {
