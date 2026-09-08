@@ -5,7 +5,7 @@ import { valueAt } from "@akasha/pages/page-value"
 import {
   markedIn,
   subscriptionMarks,
-} from "../../../agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
+} from "../../../../agents/claude-accounts/modules/marking/claude-account-marking.module.code.ts"
 
 const TAKES_ONE = "this takes one account and no more, named as its page is named"
 

@@ -1,4 +1,4 @@
-import type { Namespace } from "../namespace.page-type.ts"
+import type { Namespace } from "../../../command-system/namespaces/namespace.page-type.ts"
 
 export const claudeAccount = {
   id: "01a07bcb-0b96-7437-a26f-deb498bea34d",
