@@ -1,4 +1,4 @@
-import * as path from "path"
+import * as path from "node:path"
 import { SourceNode } from "source-map"
 import type * as ts from "typescript"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
