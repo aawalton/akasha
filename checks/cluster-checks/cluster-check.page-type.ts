@@ -130,6 +130,7 @@ export const clusterCheck = {
     "module/change-closure",
     "module/check-boundary-parse",
     "module/check-component-layout",
+    "module/check-exhaustive-dispatch",
   ],
   properties: [
     {
