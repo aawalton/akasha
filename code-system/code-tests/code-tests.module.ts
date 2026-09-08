@@ -187,7 +187,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A world borrows nothing else from that tree.",
+      statement: "A world links what the world does not write rather than copying it.",
     },
     {
       invariantKind: "departure",
