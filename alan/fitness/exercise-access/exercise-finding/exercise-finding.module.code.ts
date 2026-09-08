@@ -1,4 +1,5 @@
 import { getEsoDayStr } from "@akasha/day/eso-day"
+import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { type Row, rowFor, rowsFor, textIn } from "../exercise-rows/exercise-rows.module.code.ts"
 
 export type Found = { readonly row: Row } | { readonly refused: string }
@@ -13,14 +14,12 @@ const WORKOUT_SCHEDULE = "workout-schedule"
 
 const SCHEDULE_DAY = "schedule-day"
 
-const UUID_SAID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i
-
 const NAMED_AT_MOST = 5
 
 const TWO = 2
 
 async function foundBy(pageTypeSlug: string, ref: string, named: string): Promise<Found> {
-  if (UUID_SAID.test(ref)) {
+  if (lowerUuid(ref)) {
     const byId = await rowsFor({ pageTypeSlug, where: [{ key: "id", eq: ref }], limit: 1 })
     if ("unread" in byId) return { refused: byId.unread }
     const one = byId.rows[0]
