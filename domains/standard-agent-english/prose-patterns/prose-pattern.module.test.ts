@@ -289,3 +289,174 @@ test("a word whose object comes before it as a pronoun is left alone", () => {
 
   expect(foundIn(said, HOLD)).toEqual([])
 })
+
+test("a word a form of `have` comes right after is left alone", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["value", "NOUN", 6, "nsubj"],
+    ["no", "DET", 4, "det"],
+    ["page", "NOUN", 5, "nsubj"],
+    ["holds", "VERB", 2, "acl:relcl"],
+    ["has", "VERB", 0, "root"],
+    ["no", "DET", 8, "det"],
+    ["file", "NOUN", 6, "obj"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word the parser gave a form of `have` for an auxiliary is left alone", () => {
+  const said = sentenceOf([
+    ["the", "DET", 2, "det"],
+    ["edition", "NOUN", 5, "nsubj"],
+    ["Alan", "PROPN", 5, "nsubj"],
+    ["has", "AUX", 5, "aux"],
+    ["holds", "VERB", 0, "root"],
+    ["that", "DET", 7, "det"],
+    ["reading", "NOUN", 5, "obj"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word set against another word by `rather than` is left alone", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["refusal", "NOUN", 4, "nsubj:pass"],
+    ["is", "AUX", 4, "aux:pass"],
+    ["held", "VERB", 0, "root"],
+    ["in", "ADP", 6, "case"],
+    ["plan", "NOUN", 4, "obl"],
+    ["rather", "ADV", 8, "cc"],
+    ["dropped", "VERB", 4, "conj"],
+  ])
+
+  expect(foundIn(said, HELD)).toEqual([])
+})
+
+test("a preposition the parser hung on a word as an adverb strands that word", () => {
+  const said = sentenceOf([
+    ["The", "DET", 2, "det"],
+    ["push", "NOUN", 3, "nsubj"],
+    ["holds", "VERB", 0, "root"],
+    ["the", "DET", 5, "det"],
+    ["branch", "NOUN", 3, "obj"],
+    ["each", "DET", 7, "det"],
+    ["repository", "NOUN", 3, "nsubj"],
+    ["is", "AUX", 9, "cop"],
+    ["on", "ADP", 3, "advmod"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word whose object is a self is left alone", () => {
+  const said = sentenceOf([
+    ["the", "DET", 2, "det"],
+    ["ask", "NOUN", 3, "nsubj"],
+    ["holds", "VERB", 0, "root"],
+    ["itself", "PRON", 3, "obj"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word whose object a preposition hangs off sends that object on", () => {
+  const said = sentenceOf([
+    ["the", "DET", 2, "det"],
+    ["watcher", "NOUN", 3, "nsubj"],
+    ["holds", "VERB", 0, "root"],
+    ["what", "PRON", 3, "obj"],
+    ["to", "ADP", 4, "case"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word a directed preposition follows the object of sends that object on", () => {
+  const said = sentenceOf([
+    ["The", "DET", 2, "det"],
+    ["code", "NOUN", 0, "root"],
+    ["holding", "VERB", 2, "acl"],
+    ["a", "DET", 5, "det"],
+    ["module", "NOUN", 3, "obj"],
+    ["to", "ADP", 7, "case"],
+    ["runtime", "NOUN", 8, "compound"],
+    ["states", "NOUN", 2, "nmod"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a participle an adverb comes before is left alone", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["name", "NOUN", 7, "nsubj:pass"],
+    ["already", "ADV", 4, "advmod"],
+    ["holding", "VERB", 2, "acl"],
+    ["text", "NOUN", 4, "obj"],
+    ["is", "AUX", 7, "aux:pass"],
+    ["left", "VERB", 0, "root"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a participle beside another clause on the same word is left alone", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["push", "NOUN", 4, "nsubj:pass"],
+    ["is", "AUX", 4, "aux:pass"],
+    ["given", "VERB", 0, "root"],
+    ["the", "DET", 6, "det"],
+    ["time", "NOUN", 4, "obj"],
+    ["holding", "VERB", 6, "acl"],
+    ["objects", "NOUN", 7, "obj"],
+    ["takes", "VERB", 6, "acl"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a participle joined to another word is left alone", () => {
+  const said = sentenceOf([
+    ["A", "DET", 2, "det"],
+    ["day", "NOUN", 0, "root"],
+    ["holding", "VERB", 2, "acl"],
+    ["rows", "NOUN", 3, "obj"],
+    ["and", "CCONJ", 6, "cc"],
+    ["declaring", "VERB", 3, "conj"],
+    ["no", "DET", 8, "det"],
+    ["stretches", "NOUN", 6, "obj"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word with no object that places a thing somewhere is left alone", () => {
+  const said = sentenceOf([
+    ["An", "DET", 2, "det"],
+    ["object", "NOUN", 0, "root"],
+    ["the", "DET", 5, "det"],
+    ["list", "NOUN", 5, "compound"],
+    ["names", "NOUN", 6, "nsubj"],
+    ["holds", "VERB", 2, "acl:relcl"],
+    ["in", "ADP", 8, "case"],
+    ["objects", "NOUN", 6, "obl"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})
+
+test("a word bound to something by a directed preposition is left alone", () => {
+  const said = sentenceOf([
+    ["a", "DET", 2, "det"],
+    ["record", "NOUN", 0, "root"],
+    ["that", "PRON", 4, "nsubj"],
+    ["holds", "VERB", 2, "acl:relcl"],
+    ["between", "ADP", 6, "case"],
+    ["rounds", "NOUN", 4, "obl"],
+  ])
+
+  expect(foundIn(said, HOLD)).toEqual([])
+})

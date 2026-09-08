@@ -22,7 +22,7 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A word taking a particle is left alone, because the particle carries the sense.",
+      statement: "A word taking a particle is left alone, because the particle sets the sense.",
     },
     {
       invariantKind: "departure",
@@ -83,6 +83,56 @@ export const prosePattern = {
     {
       invariantKind: "departure",
       statement: "A `to` phrase the parser hung on a word's object binds that word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A directed preposition binds a word as `to` does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word a form of `have` comes right after is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word the parser gave a form of `have` for an auxiliary is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word set against another word by `rather than` is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A preposition the parser hung on a word as an adverb strands that word, so it is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word whose object is a self is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A word whose object a preposition hangs off sends that object on, so it is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A directed preposition after a word's object sends that object on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A participle an adverb comes before is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A participle beside another clause on the same word is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A participle joined to another word by `and` is left alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word with no object that places a thing somewhere is left alone.",
     },
   ],
 } as const satisfies Module

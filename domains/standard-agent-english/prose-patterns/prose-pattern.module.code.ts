@@ -5,6 +5,7 @@ import {
   childrenByRel,
   hasChild,
   lower,
+  subtree,
 } from "@akasha/plain-language/dependency-graph"
 import type { Frame } from "../banned-terms/properties/prose-frame.relation-property.ts"
 
@@ -49,7 +50,47 @@ const MARK = "mark"
 
 const MODIFIER = "nmod"
 
+const CONJUNCT = "conj"
+
+const COORDINATOR = "cc"
+
+const AUXILIARY = "aux"
+
+const PREPOSITION = "ADP"
+
+const RATHER = "rather"
+
 const TOWARD: ReadonlySet<string> = new Set([TO])
+
+const DIRECTED: ReadonlySet<string> = new Set([
+  TO,
+  "into",
+  "onto",
+  "from",
+  "toward",
+  "towards",
+  "across",
+  "between",
+  "past",
+  "beyond",
+  "over",
+])
+
+const HAVING: ReadonlySet<string> = new Set(["has", "have", "had"])
+
+const PREPOSITIONAL: ReadonlySet<string> = new Set([PREPOSITION, "SCONJ"])
+
+const SELVES: ReadonlySet<string> = new Set([
+  "itself",
+  "themselves",
+  "himself",
+  "herself",
+  "myself",
+  "ourselves",
+  "yourself",
+  "yourselves",
+  "oneself",
+])
 
 const PAST = /ed$/i
 
@@ -101,7 +142,7 @@ function caseIs(sentence: DepSentence, one: DepToken, among: ReadonlySet<string>
 }
 
 function boundTo(sentence: DepSentence, token: DepToken): boolean {
-  if (childrenByRel(sentence, token.id, OBLIQUE).some((one) => caseIs(sentence, one, TOWARD))) {
+  if (childrenByRel(sentence, token.id, OBLIQUE).some((one) => caseIs(sentence, one, DIRECTED))) {
     return true
   }
   const object = child(sentence, token.id, OBJECT)
@@ -148,21 +189,92 @@ function pastAfter(sentence: DepSentence, token: DepToken): boolean {
   return next !== undefined && next.upos === VERB && PAST.test(next.form)
 }
 
+function havingBeside(sentence: DepSentence, token: DepToken): boolean {
+  const next = byId(sentence, token.id + 1)
+  if (next !== undefined && HAVING.has(lower(next))) return true
+  return childrenByRel(sentence, token.id, AUXILIARY).some((one) => HAVING.has(lower(one)))
+}
+
+function setAgainst(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, CONJUNCT).some(
+    (one) =>
+      one.upos === VERB &&
+      childrenByRel(sentence, one.id, COORDINATOR).some((each) => lower(each) === RATHER)
+  )
+}
+
+function strandedOn(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, ADVERB).some(
+    (one) => one.upos === PREPOSITION && one.id > token.id
+  )
+}
+
+function selfHeld(sentence: DepSentence, token: DepToken): boolean {
+  const object = child(sentence, token.id, OBJECT)
+  return object !== undefined && SELVES.has(lower(object))
+}
+
+function directed(one: DepToken | undefined): boolean {
+  return one !== undefined && PREPOSITIONAL.has(one.upos) && DIRECTED.has(lower(one))
+}
+
+function afterAll(sentence: DepSentence, token: DepToken): DepToken | undefined {
+  const ids = subtree(sentence, token.id).map((one) => one.id)
+  return byId(sentence, Math.max(...ids) + 1)
+}
+
+function sentOn(sentence: DepSentence, token: DepToken): boolean {
+  const object = child(sentence, token.id, OBJECT)
+  if (object === undefined) return false
+  if (caseIs(sentence, object, DIRECTED)) return true
+  if (directed(byId(sentence, object.id + 1))) return true
+  return directed(afterAll(sentence, object))
+}
+
+function adverbBefore(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, ADVERB).some((one) => one.id < token.id)
+}
+
+function clauseBeside(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.head, PARTICIPLE).some(
+    (one) => one.id > token.id && one.upos === VERB
+  )
+}
+
+function verbConjoined(sentence: DepSentence, token: DepToken): boolean {
+  return childrenByRel(sentence, token.id, CONJUNCT).some((one) => one.upos === VERB)
+}
+
+function participleOf(sentence: DepSentence, token: DepToken): Frame | null {
+  if (underAPreposition(sentence, token)) return null
+  if (adverbBefore(sentence, token)) return null
+  if (clauseBeside(sentence, token)) return null
+  return verbConjoined(sentence, token) ? null : PARTICIPLE_FRAME
+}
+
+function leftAlone(sentence: DepSentence, token: DepToken): boolean {
+  if (particled(sentence, token)) return true
+  if (personHeld(sentence, token)) return true
+  if (boundTo(sentence, token)) return true
+  if (havingBeside(sentence, token)) return true
+  if (setAgainst(sentence, token)) return true
+  if (strandedOn(sentence, token)) return true
+  if (selfHeld(sentence, token)) return true
+  return sentOn(sentence, token)
+}
+
 function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (token.upos !== VERB) return null
-  if (particled(sentence, token)) return null
-  if (personHeld(sentence, token)) return null
-  if (boundTo(sentence, token)) return null
+  if (leftAlone(sentence, token)) return null
   if (hasChild(sentence, token.id, PASSIVE)) {
     return placedSomewhere(sentence, token) ? PLACED_FRAME : null
   }
   if (child(sentence, token.id, OBJECT) !== undefined) {
-    if (token.deprel === PARTICIPLE) {
-      return underAPreposition(sentence, token) ? null : PARTICIPLE_FRAME
-    }
+    if (token.deprel === PARTICIPLE) return participleOf(sentence, token)
     return pastAfter(sentence, token) ? null : OBJECT_FRAME
   }
   if (token.deprel !== RELATIVE) return null
+  if (placedSomewhere(sentence, token)) return null
   if (!thingFronted(sentence, token)) return null
   if (pastAfter(sentence, token)) return null
   return subjectOfItsOwn(sentence, token) ? FRONTED_FRAME : null
