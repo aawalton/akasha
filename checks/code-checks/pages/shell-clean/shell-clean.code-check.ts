@@ -31,15 +31,15 @@ export const shellClean = {
     {
       invariantKind: "departure",
       statement:
-        "The linter reads a world written out of the bodies the change proposes rather than the working tree.",
+        "The linter reads a mirror written out of the bodies the change proposes rather than the tree.",
     },
     {
       invariantKind: "departure",
-      statement: "The world holds every shell script the tree holds.",
+      statement: "The mirror holds every shell script the tree holds.",
     },
     {
       invariantKind: "departure",
-      statement: "The world carries no index.",
+      statement: "The mirror carries no index.",
     },
     {
       invariantKind: "absence",
@@ -47,7 +47,7 @@ export const shellClean = {
     },
     {
       invariantKind: "departure",
-      statement: "A script outside the world is a script the linter cannot follow a source into.",
+      statement: "A script outside the mirror is a script the linter cannot follow a source into.",
     },
 
     {
