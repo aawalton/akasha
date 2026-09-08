@@ -69,15 +69,29 @@ function readIn(at: string, text: string): Read {
 
 type Beside = { readonly propertySlug: string; readonly ending: string }
 
+function filedIn(world: World, held: Held): ReadonlyMap<string, string> {
+  const filed = new Map<string, string>()
+  for (const one of world.index.propertiesIfNamed(held.pageTypeSlug) ?? []) {
+    if (one.pageTypeSlug !== FILE_PROPERTY) continue
+    filed.set(one.key, one.propertySlug)
+  }
+  return filed
+}
+
+function searchedIn(world: World, key: string): string | null {
+  const answer = world.index.schemaOf(slugFor(key))
+  if ("refused" in answer) return null
+  const one = answer.schema
+  if (one.pageTypeSlug !== FILE_PROPERTY) return null
+  return one.propertySlug
+}
+
 function besideIn(world: World, held: Held): readonly Beside[] {
+  const filed = filedIn(world, held)
   const found: Beside[] = []
   for (const [key, ending] of held.said) {
-    const answer = world.index.schemaOf(slugFor(key))
-    if ("refused" in answer) continue
-    const one = answer.schema
-    if (one.pageTypeSlug !== FILE_PROPERTY) continue
-    const propertySlug = one.propertySlug
-    if (propertySlug === null) continue
+    const propertySlug = filed.get(key) ?? searchedIn(world, key)
+    if (propertySlug === null || propertySlug === undefined) continue
     found.push({ propertySlug, ending })
   }
   return found
