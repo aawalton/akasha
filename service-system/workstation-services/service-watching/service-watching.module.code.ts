@@ -65,7 +65,8 @@ export function ledgerWrite(home: string, ledger: Ledger): undefined {
 }
 
 export function passedOn(one: Telling, why: string): string {
-  return `${one.body} This was meant for \`${one.to}\`, whom nothing could reach: ${why}`
+  const said = why.endsWith(".") ? why : `${why}.`
+  return `${one.body} This was meant for \`${one.to}\`, whom nothing could reach: ${said}`
 }
 
 export const sending: Sent = async (to, body) => {
