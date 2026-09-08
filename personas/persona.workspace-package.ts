@@ -73,5 +73,6 @@ export const persona = {
     "module/wallpaper-record",
     "module/image-name",
     "module/voice-spec",
+    "module/wallpaper-backfill-execute",
   ],
 } as const satisfies WorkspacePackage

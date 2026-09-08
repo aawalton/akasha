@@ -1249,6 +1249,7 @@
       "dependencies": {
         "@akasha/pages": "workspace:*",
         "@akasha/pages-core": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1257,7 +1258,6 @@
       "dependencies": {
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/utils-narrow": "workspace:*",
       },
     },
     "persons": {
