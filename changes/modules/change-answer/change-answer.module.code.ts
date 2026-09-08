@@ -150,6 +150,11 @@ export function replayed(said: Said, textOf: BodyOf): Bodies | { readonly refuse
   return held
 }
 
+export function beyond(had: Answer, said: Answer): Answer {
+  const held = new Set(had.edits)
+  return { edits: said.edits.filter((one) => !held.has(one)), refused: said.refused }
+}
+
 export function gathered(answers: readonly Answer[]): Answer {
   const edits: Stated[] = []
   for (const one of answers) {
