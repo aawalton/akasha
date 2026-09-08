@@ -21,6 +21,8 @@ const RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
 
 const RULES_AT_MOST = 500
 
+const INDENT = 2
+
 const SETTINGS = "settings"
 
 const ENDING = "json"
@@ -100,7 +102,9 @@ async function writeSlice(
     pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
     where: [{ key: "title", eq: accountUserId }],
     set: { title: accountUserId, [SETTINGS]: ENDING },
-    bodies: { [SETTINGS]: JSON.stringify({ ...player.settings, [sliceKey]: next }) },
+    bodies: {
+      [SETTINGS]: JSON.stringify({ ...player.settings, [sliceKey]: next }, null, INDENT),
+    },
   })
   return undefined
 }

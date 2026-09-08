@@ -52,5 +52,9 @@ export const inventorySettingsAccess = {
       invariantKind: "departure",
       statement: "A write carries the whole blob merged onto the blob last read.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A blob is written indented, so a change to one setting diffs as a few lines.",
+    },
   ],
 } as const satisfies Module
