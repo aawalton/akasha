@@ -113,13 +113,13 @@ declare function pairs<T>(
 
 declare function pcall<This, Args extends unknown[], R>(
   this: void,
-  f: (this: This, ...args: Args) => R,
+  f: (this: This, ...given: Args) => R,
   context: This,
   ...args: Args
 ): LuaMultiReturn<[true, R] | [false, string]>
 declare function pcall<A extends unknown[], R>(
   this: void,
-  f: (this: void, ...args: A) => R,
+  f: (this: void, ...given: A) => R,
   ...args: A
 ): LuaMultiReturn<[true, R] | [false, string]>
 
@@ -139,10 +139,10 @@ declare function select<T>(this: void, index: "#", ...args: T[]): number
 declare const setfenv: (<T extends (this: void, ...args: unknown[]) => unknown>(
   this: void,
   f: T,
-  table: object
+  env: object
 ) => T) &
-  ((this: void, f: 0, table: object) => (this: void, ...args: unknown[]) => unknown) &
-  ((this: void, f: number, table: object) => void)
+  ((this: void, f: 0, env: object) => (this: void, ...args: unknown[]) => unknown) &
+  ((this: void, f: number, env: object) => void)
 
 declare function setmetatable<
   T extends object,
@@ -170,7 +170,7 @@ declare function unpack<T>(this: void, list: T[], i: number, j?: number): LuaMul
 declare function xpcall<R, E>(
   this: void,
   f: () => R,
-  err: (err: unknown) => E
+  err: (thrown: unknown) => E
 ): LuaMultiReturn<[true, R] | [false, E]>
 
 declare const coroutine: {
