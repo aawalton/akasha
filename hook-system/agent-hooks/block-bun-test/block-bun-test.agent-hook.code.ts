@@ -13,22 +13,17 @@ const HOOK = "block-bun-test"
 
 const RUNS = "test"
 
-const HELP = "Say `akasha test --help` for what it takes."
-
 const REFUSED = [
   "`bun test` runs the akasha tests outside the akasha commands.",
   "Every test file in this repository is an akasha test, so no path bounds a run away from",
   "them, and a run naming no path reaches every one of them.",
-  "`akasha test` runs the tests in the one test file it is named, and it reads the verdict from",
-  "what the run printed rather than from the exit code, which a suite leaking a handle makes",
-  "non-zero on a run where nothing failed.",
   "",
-  "  akasha test --file-path <path>  the tests in the one test file at that path",
+  "The tests run at the change. `akasha change` and `akasha apply` run every test beside what",
+  "that change carries, in a world written out of the change's own bodies, and refuse the",
+  "change where one of those tests fails.",
   "",
-  "It runs no folder and no whole suite. Running every test in this repository is the checks'",
-  "work rather than a call you make by hand.",
-  "",
-  HELP,
+  "No command runs a test by hand. A run by hand judges the tree the change has not landed",
+  "on, which is a different question from the one the change asks.",
 ]
 
 export const SCOPE: readonly string[] = [

@@ -46,12 +46,10 @@ const REFUSAL = toldOf(HOOK, [
   "WHO RUNS IT: the seat that dispatched you, in the background, after a batch of mechanical",
   "changes rather than after each one. Hand back what you wanted judged and let it run there.",
   "",
-  "WHAT ANSWERS INSTEAD, each scoped to what you touched:",
-  "  akasha test --file-path <path>   the tests in the one test file at that path",
-  "  akasha lint check --file-path <path>   the linter over one path",
-  "",
-  "A change landing through the akasha commands is checked as it lands, so what you wrote that",
-  "way is judged already. An audit re-judges the whole tree rather than your change.",
+  "WHAT ANSWERS INSTEAD: a change landing through `akasha change` and `akasha apply` is checked",
+  "so what you wrote that way is judged already. The tests, the typecheck and the linter all",
+  "run over what the change carries, and refuse the change where one of them finds anything.",
+  "An audit re-judges the whole tree rather than your change.",
 ])
 
 export const SCOPE: readonly string[] = [

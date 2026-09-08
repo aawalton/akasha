@@ -16,7 +16,7 @@ export const blockBunTest = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names `akasha test`.",
+      statement: "The refusal names where the tests run.",
     },
     {
       invariantKind: "departure",

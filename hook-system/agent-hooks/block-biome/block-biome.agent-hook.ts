@@ -16,7 +16,7 @@ export const blockBiome = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names `akasha lint check`.",
+      statement: "The refusal names where the linter runs.",
     },
     {
       invariantKind: "departure",
