@@ -217,6 +217,7 @@ export const clusterCheck = {
     "module/ts-harness-credential-script-text",
     "module/ts-import-graph-list-imports",
     "module/ts-path-literals",
+    "module/ts-population-read-swallow",
   ],
   properties: [
     {
