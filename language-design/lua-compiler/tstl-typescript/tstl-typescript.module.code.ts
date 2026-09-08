@@ -43,6 +43,12 @@ export function isExpressionWithEvaluationEffect(node: ts.Expression): boolean {
   )
 }
 
+export function isEqualsAssignment(
+  node: ts.BinaryExpression
+): node is ts.AssignmentExpression<ts.EqualsToken> {
+  return node.operatorToken.kind === ts.SyntaxKind.EqualsToken
+}
+
 export function isAssignmentPattern(node: ts.Node): node is ts.AssignmentPattern {
   return ts.isObjectLiteralExpression(node) || ts.isArrayLiteralExpression(node)
 }
