@@ -2,9 +2,9 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../../pages/properties/title.text-property.ts"
 import type { Asks } from "./properties/asks.file-property.ts"
-import type { CoachingConstraintSortOrder } from "./properties/coaching-constraint-sort-order.number-property.ts"
 import type { CoachingConstraintActive } from "./properties/coaching-note-active.boolean-property.ts"
 import type { CoachingConstraintKind } from "./properties/coaching-note-kind.select-property.ts"
+import type { CoachingConstraintSortOrder } from "./properties/coaching-note-sort-order.number-property.ts"
 import type { FocusTags } from "./properties/focus-tags.select-property.ts"
 
 export type CoachingNote = Page & {
@@ -25,7 +25,7 @@ export const coachingNote = {
   partSlugs: [
     "boolean-property/coaching-note-active",
     "file-property/asks",
-    "number-property/coaching-constraint-sort-order",
+    "number-property/coaching-note-sort-order",
     "select-property/coaching-note-kind",
     "select-property/focus-tags",
   ],
@@ -40,7 +40,7 @@ export const coachingNote = {
     { pagePropertySlug: "select-property/focus-tags", required: true, many: true, maxCount: null },
     { pagePropertySlug: "select-property/coaching-note-kind", required: true, many: false },
     {
-      pagePropertySlug: "number-property/coaching-constraint-sort-order",
+      pagePropertySlug: "number-property/coaching-note-sort-order",
       required: false,
       many: false,
     },
