@@ -63,8 +63,31 @@ const CARRY = carriedOff([
   [HELD_CODE, CARRIED_CODE],
 ])
 
+const ROOTED_SLUG = "rooted"
+
+const ROOTED_PAGE = `${ROOTED_SLUG}/${ROOTED_SLUG}.module.ts`
+
+const ROOTED_CODE = `${ROOTED_SLUG}/${ROOTED_SLUG}.module.code.ts`
+
+const ROOTED = pageOf({
+  id: idOf("f"),
+  pageTypeSlug: "module",
+  slug: ROOTED_SLUG,
+  definition: "a page at the root of a folder that page's own slug names",
+  code: "ts",
+})
+
+const ROOTED_CARRY = carriedOff([
+  [ROOTED_PAGE, `akasha/seven/${ROOTED_SLUG}.module.ts`],
+  [ROOTED_CODE, `akasha/seven/${ROOTED_SLUG}.module.code.ts`],
+])
+
 function spelling(body: string): string {
   return indexedRepo({ [SPELLING_PAGE]: SPELLING, [SPELLING_CODE]: body })
+}
+
+function rooted(body: string): string {
+  return indexedRepo({ [ROOTED_PAGE]: ROOTED, [ROOTED_CODE]: body })
 }
 
 test("a body the carry moves spelling that same folder is refused at the path it landed", () => {
@@ -101,4 +124,16 @@ test("a carry no body spells the folder after is not refused", () => {
 
   expect(said.refused).toBe(null)
   expect(pathsIn(said)).toContain(CARRIED_PAGE)
+})
+
+test("a page carried off a folder at the root its own slug spells is not refused", () => {
+  const root = rooted(`export const ${ROOTED_SLUG} = 1\n`)
+
+  expect(judged(root, ROOTED_CARRY).refused).toBe(null)
+})
+
+test("a body the carry moves spelling a path under that root folder is refused", () => {
+  const root = rooted(`export const AT = "${ROOTED_CODE}"\n`)
+
+  expect(judged(root, ROOTED_CARRY).refused ?? "").toContain(ROOTED_CODE)
 })

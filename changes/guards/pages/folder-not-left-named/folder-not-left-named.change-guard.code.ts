@@ -46,6 +46,7 @@ function emptiedIn(holding: ReadonlySet<string>, gone: readonly string[]): reado
 }
 
 function namedBy(said: string, folders: readonly string[]): string | null {
+  if (!said.includes(UNDER)) return null
   for (const at of folders) {
     if (said === at || said.startsWith(`${at}${UNDER}`)) return at
   }
