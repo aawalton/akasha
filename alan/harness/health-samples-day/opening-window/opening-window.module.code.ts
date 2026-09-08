@@ -33,7 +33,7 @@ export const SESSIONS_SLUG = "sessions"
 
 const ENTRY_EXTENSION = "jsonl"
 
-const DAY_SLUG_PREFIX = "wake-day-"
+const DAY_SLUG_PREFIX = "day-"
 
 const SLEEP = "sleep"
 

@@ -20,7 +20,7 @@ export function dayPlaceOf(_dayStr: string): DayPlace {
 }
 
 export function dayNameIn(_place: DayPlace, dayStr: string): string {
-  return `wake-day-${dayStr}`
+  return `day-${dayStr}`
 }
 
 export function dayNameOf(dayStr: string): string {
@@ -28,7 +28,7 @@ export function dayNameOf(dayStr: string): string {
 }
 
 export function dayOfName(name: string): string {
-  return name.startsWith("wake-day-") ? name.slice("wake-day-".length) : name
+  return name.startsWith("day-") ? name.slice("day-".length) : name
 }
 
 export interface DayLanding {

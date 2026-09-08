@@ -32,7 +32,7 @@ export const dayPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "A day's page is named `wake-day-` and the date rather than the bare date.",
+      statement: "A day's page is named `day-` and the date rather than the bare date.",
     },
     {
       invariantKind: "departure",

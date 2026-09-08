@@ -74,13 +74,13 @@ describe("where a day is kept", () => {
     const today = new Date().toISOString().slice(0, 10)
     for (const day of ["2026-03-05", "2026-09-01", "2026-09-02", today, UNNAMED_DAY]) {
       expect(dayPlaceOf(day)).toBe(AKASHA)
-      expect(dayNameOf(day)).toBe(`wake-day-${day}`)
+      expect(dayNameOf(day)).toBe(`day-${day}`)
     }
   })
 
   test("an akasha day is named with its date prefixed, and the name reads back", () => {
-    expect(dayNameIn(AKASHA, "2026-03-05")).toBe("wake-day-2026-03-05")
-    expect(dayOfName("wake-day-2026-03-05")).toBe("2026-03-05")
+    expect(dayNameIn(AKASHA, "2026-03-05")).toBe("day-2026-03-05")
+    expect(dayOfName("day-2026-03-05")).toBe("2026-03-05")
     expect(dayOfName("2026-03-05")).toBe("2026-03-05")
   })
 })
@@ -89,7 +89,7 @@ describe("create, edit and delete agree on where a day is", () => {
   const day = "2026-03-05"
 
   test("akasha: one page type, one name, for every act, and the name is prefixed", () => {
-    const name = `wake-day-${day}`
+    const name = `day-${day}`
     const acts = [dayPageAt(AKASHA, "patch", day), dayPageAt(AKASHA, "write", day)]
     for (const at of acts) {
       expect(at.place).toBe(AKASHA)
@@ -120,7 +120,7 @@ describe("what reaches the file layer", () => {
     await landSessionRow("write-row", UNNAMED_DAY, { id: "one" }, "tracking")
     await landSessionRow("patch-row", UNNAMED_DAY, { id: "one" }, "tracking")
     await dropSessionRow(UNNAMED_DAY, "one", "tracking")
-    const name = `wake-day-${UNNAMED_DAY}`
+    const name = `day-${UNNAMED_DAY}`
     expect(REACHED).toEqual([
       { verb: "landAkashaDayPage", act: "patch", pageType: "akasha", name },
       { verb: "landAkashaSessionRow", act: "write-row", pageType: "akasha", name },
@@ -156,7 +156,7 @@ describe("the funnel's day names", () => {
   test("a day is spelled by the prefix and never by its bare date", () => {
     for (const day of DAYS) {
       expect(dayNameIn(AKASHA, day)).not.toBe(day)
-      expect(dayNameIn(AKASHA, day)).toBe(`wake-day-${day}`)
+      expect(dayNameIn(AKASHA, day)).toBe(`day-${day}`)
     }
   })
 })

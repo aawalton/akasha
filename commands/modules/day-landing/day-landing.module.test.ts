@@ -11,7 +11,7 @@ const UNDECLARED = `import type { WakeDay } from "../../wake-day.page-type.ts"
 export const wakeDay20260906 = {
   id: "01a07629-2c15-7000-aa49-25832a4c3322",
   pageTypeSlug: "wake-day",
-  slug: "wake-day-2026-09-06",
+  slug: "day-2026-09-06",
   date: "2026-09-06",
 } as const satisfies WakeDay
 `
@@ -32,9 +32,9 @@ function heldFor(
   const at = `${ROOT}/alan/track/days/pages/${day}`
   return {
     day,
-    path: `${at}/wake-day-${day}.wake-day.sessions.jsonl`,
+    path: `${at}/day-${day}.day.sessions.jsonl`,
     page: "01a07629-2c15-7000-aa49-25832a4c3322",
-    pageAt: `${at}/wake-day-${day}.wake-day.ts`,
+    pageAt: `${at}/day-${day}.day.ts`,
     pageSaid: said,
     rows: [],
   }
@@ -67,7 +67,7 @@ test("the one day of a landing has its page written and its rows left to the bod
     const argv = besideArgv([{ held: heldFor("2026-09-06", UNDECLARED), rows: [] }], scratch, ROOT)
     expect(argv).toEqual([
       "--file-path",
-      "alan/track/days/pages/2026-09-06/wake-day-2026-09-06.wake-day.ts",
+      "alan/track/days/pages/2026-09-06/day-2026-09-06.day.ts",
       "--content-file",
       join(scratch, "page-0"),
     ])
@@ -100,7 +100,7 @@ test("the rows of every day but the last are written beside the days those rows 
     )
     expect(argv).toEqual([
       "--file-path",
-      "alan/track/days/pages/2026-09-05/wake-day-2026-09-05.wake-day.sessions.jsonl",
+      "alan/track/days/pages/2026-09-05/day-2026-09-05.day.sessions.jsonl",
       "--content-file",
       join(scratch, "day-0"),
     ])

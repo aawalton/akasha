@@ -16,9 +16,9 @@ import { alanTracking, NO_GLASS, strayIn } from "./alan-tracking.command.code.ts
 
 const ROOT = "/nowhere"
 
-const AT = `${DAYS_AT}2026-09-01/wake-day-2026-09-01.wake-day.ts`
+const AT = `${DAYS_AT}2026-09-01/day-2026-09-01.day.ts`
 
-const ROWS_AT = `${DAYS_AT}2026-09-01/wake-day-2026-09-01.wake-day.sessions.jsonl`
+const ROWS_AT = `${DAYS_AT}2026-09-01/day-2026-09-01.day.sessions.jsonl`
 
 const FOOD_AT = `${FOOD_ENTRIES_AT}2026-08-22-banana/food-entry-2026-08-22-banana.food-entry.ts`
 

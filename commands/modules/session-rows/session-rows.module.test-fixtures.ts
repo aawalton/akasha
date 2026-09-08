@@ -5,7 +5,7 @@ import { DAYS_AT } from "./session-rows.module.code.ts"
 
 export const DAY = "2026-09-01"
 
-const NAMED = `${DAYS_AT}/${DAY}/wake-day-${DAY}.day`
+const NAMED = `${DAYS_AT}/${DAY}/day-${DAY}.day`
 
 const PAGE_AT = `${NAMED}.ts`
 

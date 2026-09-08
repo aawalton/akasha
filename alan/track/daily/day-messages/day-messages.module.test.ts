@@ -12,7 +12,7 @@ import {
 
 const HOLD = "/var/tmp"
 
-const DAY = "alan/track/days/pages/2026-09-08/wake-day-2026-09-08.wake-day.ts"
+const DAY = "alan/track/days/pages/2026-09-08/day-2026-09-08.day.ts"
 
 const TWO: readonly Counted[] = [
   { personaSlug: "aura", sent: 4 },
