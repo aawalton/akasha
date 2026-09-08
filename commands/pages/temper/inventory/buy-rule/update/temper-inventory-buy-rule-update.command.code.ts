@@ -20,8 +20,8 @@ import {
   unfound,
   webIn,
   wholeOf,
-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
-import { BUY_SOURCE_VALUES } from "../inventory-rule-flags/inventory-rule-flags.module.code.ts"
+} from "../../../../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
+import { BUY_SOURCE_VALUES } from "../../../../../../temper/temper-commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-buy-rule-update"
 
