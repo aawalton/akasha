@@ -124,31 +124,11 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The edits a subagent leaves are handed to the seat that dispatched the subagent.",
+      statement: "The edits a subagent leaves stay in the file the subagent kept them in.",
     },
     {
       invariantKind: "departure",
-      statement: "Edits handed over are kept under a ref naming the subagent the edits came from.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "One subagent's handed edits are read and taken away apart from another's.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Edits handed over are never folded into the edits a seat is holding.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A subagent holding no row hands nothing over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Handing edits over takes away the files the subagent held.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Edits handed over twice are kept in the order the edits arrived.",
+      statement: "One subagent's edits are read and taken away apart from another's.",
     },
     {
       invariantKind: "departure",

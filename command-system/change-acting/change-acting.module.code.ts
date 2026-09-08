@@ -2,11 +2,14 @@ import { replayed } from "../../changes/modules/change-answer/change-answer.modu
 import type { Stated } from "../../changes/modules/change-answer/change-answer.module.types.ts"
 import {
   bodyIn,
-  handedAway,
-  handedIn,
-  handedUnder,
+  droppedAll,
+  editsIn,
   keptEdits,
 } from "../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  handedPageOf,
+  handedUnder,
+} from "../../changes/modules/subagent-handed/subagent-handed.module.code.ts"
 import { mistaking } from "../asking/asking.module.code.ts"
 import type { Answer } from "../calling/calling.module.code.ts"
 import { offRepo, pathAt } from "../said-pathing/said-pathing.module.code.ts"
@@ -74,11 +77,15 @@ export function waitingSaid(root: string, page: string): readonly string[] {
   return [`${String(many)} subagent(s) handed edits over, which \`akasha change handed\` names`]
 }
 
+function heldFor(root: string, page: string, under: string): string | null {
+  return handedUnder(root, page).includes(under) ? handedPageOf(under) : null
+}
+
 export function listing(root: string, page: string): Answer {
   const under = handedUnder(root, page)
   if (under.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
   const said = under.map((one) => {
-    const held = handedIn(root, page, one)
+    const held = editsIn(root, handedPageOf(one))
     return `${one} handed ${String("why" in held ? 0 : held.rows.length)} edit(s) over`
   })
   return { report: [...said, HANDED_LANDS], refusals: [], code: 0 }
@@ -86,7 +93,9 @@ export function listing(root: string, page: string): Answer {
 
 export function taking(root: string, page: string, under: string | undefined): Answer {
   if (under === undefined) return mistaking([NO_SUBAGENT])
-  const held = handedIn(root, page, under)
+  const at = heldFor(root, page, under)
+  if (at === null) return { report: [NONE_HANDED], refusals: [], code: 0 }
+  const held = editsIn(root, at)
   if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
   if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
   let answer: Answer = mistaking([NO_PAGE])
@@ -100,15 +109,17 @@ export function taking(root: string, page: string, under: string | undefined): A
     return [...had, ...held.rows]
   })
   if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
-  if (answer.code === 0) handedAway(root, page, under)
+  if (answer.code === 0) droppedAll(root, at)
   return answer
 }
 
 export function forgetting(root: string, page: string, under: string | undefined): Answer {
   if (under === undefined) return mistaking([NO_SUBAGENT])
-  const held = handedIn(root, page, under)
+  const at = heldFor(root, page, under)
+  if (at === null) return { report: [NONE_HANDED], refusals: [], code: 0 }
+  const held = editsIn(root, at)
   if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
   if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
-  handedAway(root, page, under)
+  droppedAll(root, at)
   return { report: [...held.rows.map(saidOf).sort(), DROPPED], refusals: [], code: 0 }
 }

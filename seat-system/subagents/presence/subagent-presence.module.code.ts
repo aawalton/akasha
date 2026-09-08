@@ -10,7 +10,6 @@ import { partedIn } from "@akasha/pages/page-file-name"
 import { valueAt } from "@akasha/pages/page-value"
 import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
 import { textAt } from "@akasha/utils-narrow/text-at"
-import { handedOver } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { subagentPageInHistory } from "../../subagent-page-history/subagent-page-history.module.code.ts"
 
 export const SUBAGENTS_AT = "seat-system/subagents/pages"
@@ -179,8 +178,6 @@ export async function took(root: string, seatName: string, own: string): Promise
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
   const went = tookInUnder(root, seatName, patchesUnder(root, seatName))
-  const seat = seatPageIn(root, seatName)
-  if (seat !== null) handedOver(root, seat, at, slug)
   if (!existsSync(join(root, at))) return WENT
   const why = went.includes(at)
     ? `${slug} is done, so its page goes; the patch it drafted went to the ${seatName} seat,` +
@@ -225,13 +222,6 @@ export async function tookUnder(root: string, seatName: string, why: string): Pr
   tookInUnder(root, seatName, patchesUnder(root, seatName))
   const paths = pathsUnder(root, seatName)
   if (paths.length === 0) return WENT
-  const seat = seatPageIn(root, seatName)
-  if (seat !== null) {
-    for (const one of paths) {
-      const named = partedIn(one)
-      if (named !== null) handedOver(root, seat, one, named.slug)
-    }
-  }
   const gone = await handed(
     root,
     paths.map((path) => ({ path, body: null })),

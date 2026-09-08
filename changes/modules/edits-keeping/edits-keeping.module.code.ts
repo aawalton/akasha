@@ -2,7 +2,6 @@ import { Buffer } from "node:buffer"
 import { appendFileSync, existsSync, mkdirSync, readFileSync, rmSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { exclusively } from "@akasha/file-system/exclusive"
-import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
 import { type BodyOf, gathered } from "../change-answer/change-answer.module.code.ts"
@@ -13,10 +12,6 @@ const SLUG = "edits"
 const HELD = "jsonl"
 
 const FIRST_PART = 1
-
-const HANDED = "refs/akasha/edits-handed"
-
-const BYTES = new TextEncoder()
 
 const NO_PAGE = "a path that is no page keeps no edits"
 
@@ -93,10 +88,6 @@ function rowsIn(text: string): Kept {
   return { rows: said }
 }
 
-function textOf(rows: readonly Stated[]): string {
-  return rows.map((one) => `${JSON.stringify(one)}\n`).join("")
-}
-
 function textAt(root: string, at: string): string | null {
   const full = join(root, at)
   if (!existsSync(full)) return null
@@ -106,20 +97,6 @@ function textAt(root: string, at: string): string | null {
   } catch {
     return null
   }
-}
-
-export function readUnder(root: string, ref: string): string | null {
-  const held = gitTold(root, ["cat-file", "blob", ref])
-  return held === null || held === "" ? null : held
-}
-
-export function putUnder(root: string, ref: string, text: string): undefined {
-  const oid = gitIn(root, ["hash-object", "-w", "--stdin"], { stdin: BYTES.encode(text) }).trim()
-  gitIn(root, ["update-ref", ref, oid])
-}
-
-export function dropUnder(root: string, ref: string): undefined {
-  gitTold(root, ["update-ref", "-d", ref])
 }
 
 function partsAt(root: string, page: string): readonly string[] {
@@ -290,45 +267,6 @@ export function foldedIn(rows: readonly Stated[]): Answer {
   return gathered(rows.map((one) => ({ edits: [one], refused: null })))
 }
 
-export function handedRef(seat: string, under: string): string | null {
-  const at = editsAt(seat)
-  return at === null ? null : `${HANDED}/${at}/${under}`
-}
-
-export function handedUnder(root: string, seat: string): readonly string[] {
-  const at = editsAt(seat)
-  if (at === null) return []
-  const held = `${HANDED}/${at}/`
-  const said = gitTold(root, ["for-each-ref", "--format=%(refname)", `${held}*`])
-  if (said === null) return []
-  return said
-    .split("\n")
-    .filter((one) => one !== "")
-    .map((one) => one.slice(held.length))
-    .sort()
-}
-
-export function handedIn(root: string, seat: string, under: string): Kept {
-  const ref = handedRef(seat, under)
-  if (ref === null) return { why: NO_PAGE }
-  const held = readUnder(root, ref)
-  return held === null ? { rows: [] } : rowsIn(held)
-}
-
-export function handedOver(root: string, seat: string, from: string, under: string): Kept {
-  const ref = handedRef(seat, under)
-  if (ref === null) return { why: NO_PAGE }
-  const held = editsIn(root, from)
-  if ("why" in held) return held
-  if (held.rows.length === 0) return { rows: [] }
-  const had = handedIn(root, seat, under)
-  if ("why" in had) return had
-  putUnder(root, ref, textOf([...had.rows, ...held.rows]))
-  keptEdits(root, from, () => null)
-  return { rows: held.rows }
-}
-
-export function handedAway(root: string, seat: string, under: string): undefined {
-  const ref = handedRef(seat, under)
-  if (ref !== null) dropUnder(root, ref)
+export function droppedAll(root: string, page: string): undefined {
+  keptEdits(root, page, () => null)
 }

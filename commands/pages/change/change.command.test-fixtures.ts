@@ -7,9 +7,9 @@ import type { Stated } from "../../../changes/modules/change-answer/change-answe
 import type { World } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
 import {
   editsIn,
-  handedRef,
-  putUnder,
+  keptEdits,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { handedPageOf } from "../../../changes/modules/subagent-handed/subagent-handed.module.code.ts"
 import {
   type Loaded,
   loadedAt,
@@ -117,14 +117,36 @@ export function pathsIn(root: string): readonly string[] {
   return "why" in said ? [] : said.rows.flatMap(pathsOf)
 }
 
+export const SUB = "tester-one"
+
 export function handing(root: string, under: string, rows: readonly Stated[]): undefined {
-  const ref = handedRef(PAGE, under)
-  if (ref !== null) putUnder(root, ref, `${rows.map((one) => JSON.stringify(one)).join("\n")}\n`)
+  keptEdits(root, handedPageOf(under), () => rows)
 }
 
 export const HANDED_AT = "akasha/three/handed.md"
 
 export const HANDED_ONE: Stated = { kind: "add", path: HANDED_AT, content: "handed" }
+
+export const SUB_SAID = "tester-one handed 1 edit(s) over"
+
+export const TAKEN_SAID: readonly string[] = [
+  `adds ${HANDED_AT}`,
+  "these edits are this agent's own now, and `akasha apply` lands them",
+]
+
+export const FORGOT_SAID: readonly string[] = [
+  `adds ${HANDED_AT}`,
+  "these edits are gone, and no apply lands them",
+]
+
+export function handedTwice(root: string): string {
+  handing(root, SUB, [HANDED_ONE])
+  handing(root, "tester-two", [
+    HANDED_ONE,
+    { kind: "add", path: "akasha/three/other.md", content: "other" },
+  ])
+  return root
+}
 
 export const MOVED_FROM = "akasha/three/from.md"
 
@@ -183,8 +205,8 @@ export const DROPPED_ONE: readonly string[] = [
 ]
 
 export const HANDED_SAID: readonly string[] = [
-  "one handed 1 edit(s) over",
-  "two handed 2 edit(s) over",
+  "tester-one handed 1 edit(s) over",
+  "tester-two handed 2 edit(s) over",
   "`akasha change take <subagent>` takes one of these into this agent's own",
 ]
 

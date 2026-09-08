@@ -16,11 +16,13 @@ import {
   drafting,
   draftingAndApplying,
   EDIT,
+  FORGOT_SAID,
   givenIn,
   HANDED_AT,
   HANDED_ONE,
   HANDED_SAID,
   HELD,
+  handedTwice,
   handing,
   keptIn,
   loading,
@@ -40,7 +42,10 @@ import {
   repo,
   SPARE_CODE,
   SPARE_PAGE,
+  SUB,
+  SUB_SAID,
   saysApply,
+  TAKEN_SAID,
   taking,
 } from "./change.command.test-fixtures.ts"
 
@@ -251,29 +256,19 @@ test("a call over no handed edits says no subagent has handed edits over", async
 })
 
 test("handed names each subagent that handed edits over and how many that subagent handed", async () => {
-  const root = repo()
-  handing(root, "one", [HANDED_ONE])
-  handing(root, "two", [
-    HANDED_ONE,
-    { kind: "add", path: "akasha/three/other.md", content: "other" },
-  ])
-
-  const said = await acting(root, ["handed"])
+  const said = await acting(handedTwice(repo()), ["handed"])
 
   expect(said.report).toEqual(HANDED_SAID)
 })
 
 test("a take folds one subagent's handed edits in and takes the handed edits away", async () => {
   const root = repo()
-  handing(root, "one", [HANDED_ONE])
+  handing(root, SUB, [HANDED_ONE])
 
-  const said = await acting(root, ["take", "one"])
+  const said = await acting(root, ["take", SUB])
 
   expect(said.refusals).toEqual([])
-  expect(said.report).toEqual([
-    `adds ${HANDED_AT}`,
-    "these edits are this agent's own now, and `akasha apply` lands them",
-  ])
+  expect(said.report).toEqual(TAKEN_SAID)
   expect(pathsIn(root)).toEqual([HANDED_AT])
   expect((await acting(root, ["handed"])).report).toEqual([NONE_HANDED])
 })
@@ -281,34 +276,31 @@ test("a take folds one subagent's handed edits in and takes the handed edits awa
 test("a take that would not fold refuses and leaves both sets as those sets were", async () => {
   const root = repo()
   appendEdits(root, PAGE, [{ kind: "add", path: HANDED_AT, content: "own" }])
-  handing(root, "one", [{ kind: "add", path: HANDED_AT, content: "handed" }])
+  handing(root, SUB, [{ kind: "add", path: HANDED_AT, content: "handed" }])
 
-  const said = await acting(root, ["take", "one"])
+  const said = await acting(root, ["take", SUB])
 
   expect(said.code).toBe(3)
   expect(said.refusals[1]).toBe(
     "the handed edits are kept as they were, and this agent's own are unchanged"
   )
   expect(pathsIn(root)).toEqual([HANDED_AT])
-  expect((await acting(root, ["handed"])).report[0]).toBe("one handed 1 edit(s) over")
+  expect((await acting(root, ["handed"])).report[0]).toBe(SUB_SAID)
 })
 
 test("a forget takes one subagent's handed edits away and names each edit that went", async () => {
   const root = repo()
-  handing(root, "one", [HANDED_ONE])
+  handing(root, SUB, [HANDED_ONE])
 
-  const said = await acting(root, ["forget", "one"])
+  const said = await acting(root, ["forget", SUB])
 
-  expect(said.report).toEqual([
-    `adds ${HANDED_AT}`,
-    "these edits are gone, and no apply lands them",
-  ])
+  expect(said.report).toEqual(FORGOT_SAID)
   expect(pathsIn(root)).toEqual([])
 })
 
 test("a take naming no subagent is refused rather than reaching every subagent", async () => {
   const root = repo()
-  handing(root, "one", [HANDED_ONE])
+  handing(root, SUB, [HANDED_ONE])
 
   const said = await acting(root, ["take"])
 
@@ -318,7 +310,7 @@ test("a take naming no subagent is refused rather than reaching every subagent",
 
 test("a change answering says how many subagents handed edits over", async () => {
   const root = repo()
-  handing(root, "one", [HANDED_ONE])
+  handing(root, SUB, [HANDED_ONE])
 
   const said = await removing(root, NAMER_PAGE)
 

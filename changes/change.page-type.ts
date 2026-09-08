@@ -43,6 +43,7 @@ export const change = {
     "module/page-literal",
     "module/change-answer",
     "module/edits-keeping",
+    "module/subagent-handed",
     "page-type/change-mode",
     "relation-property/change-mode-slug",
     "page-type/change-target-type",
