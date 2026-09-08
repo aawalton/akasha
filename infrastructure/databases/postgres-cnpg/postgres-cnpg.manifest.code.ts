@@ -1,9 +1,9 @@
-import { cnpgClusterYaml } from "@akasha/cluster-manifests/cnpg-cluster"
-import { objectStoreYaml } from "@akasha/cluster-manifests/cnpg-object-store"
-import { scheduledBackupYaml } from "@akasha/cluster-manifests/cnpg-scheduled-backup"
 import { type ApiObjectManifest, synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
 import { HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
 import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
+import { cnpgClusterYaml } from "./modules/cnpg-cluster/cnpg-cluster.module.code.ts"
+import { objectStoreYaml } from "./modules/cnpg-object-store/cnpg-object-store.module.code.ts"
+import { scheduledBackupYaml } from "./modules/cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts"
 
 const NAMESPACE = "postgres"
 const APP_NAME = "postgres"

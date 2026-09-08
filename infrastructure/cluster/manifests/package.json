@@ -5,9 +5,6 @@
   "exports": {
     "./app-namespaces-synth": "./app-namespaces-synth/app-namespaces-synth.module.code.ts",
     "./cgroup-psi-constants": "./cgroup-psi-constants/cgroup-psi-constants.module.code.ts",
-    "./cnpg-cluster": "./cnpg-cluster/cnpg-cluster.module.code.ts",
-    "./cnpg-object-store": "./cnpg-object-store/cnpg-object-store.module.code.ts",
-    "./cnpg-scheduled-backup": "./cnpg-scheduled-backup/cnpg-scheduled-backup.module.code.ts",
     "./exporter-daemonsets": "./exporter-daemonsets/exporter-daemonsets.module.code.ts",
     "./headscale-configmaps": "./headscale-configmaps/headscale-configmaps.module.code.ts",
     "./headscale-constants": "./headscale-constants/headscale-constants.module.code.ts",
