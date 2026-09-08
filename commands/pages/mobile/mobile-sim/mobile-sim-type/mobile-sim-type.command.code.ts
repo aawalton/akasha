@@ -11,7 +11,7 @@ import {
   driving,
   type Reading,
   wordsIn,
-} from "../../modules/mobile-answering/mobile-answering.module.code.ts"
+} from "../../../../modules/mobile-answering/mobile-answering.module.code.ts"
 
 const TEXT = "--text"
 

@@ -1,4 +1,4 @@
-import type { Namespace } from "../namespace.page-type.ts"
+import type { Namespace } from "../../../../command-system/namespaces/namespace.page-type.ts"
 
 export const mobileSim = {
   id: "01a07bc2-afbe-7db2-96a8-ce71678480ac",
