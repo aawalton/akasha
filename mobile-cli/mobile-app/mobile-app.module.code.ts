@@ -1,7 +1,6 @@
-import { readdirSync } from "node:fs"
-import { join } from "node:path"
 import { InputError } from "@akasha/errors-core/exit-code"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+import { everyOfType } from "@akasha/pages/index-reading"
 import { slugAt, textAt, textsAt, type Value, valueAt } from "@akasha/pages/page-value"
 
 export interface MobileApp {
@@ -29,10 +28,6 @@ export const IOS_APP_PAGE_TYPE_SLUG = "ios-app"
 
 export const DEFAULT_APP_SLUG = "alanwalton"
 
-const APPS_FOLDER = "code-system/ios-apps/pages"
-
-const PAGE_SUFFIX = ".ios-app.ts"
-
 const SCRIPT_SUFFIX = ".shell-script.shell.sh"
 
 function inAkasha(path: string): string {
@@ -41,24 +36,6 @@ function inAkasha(path: string): string {
 
 function akashaRoot(): string {
   return rootFor(resolveRoots(), AKASHA)
-}
-
-function appPagePath(slug: string): string {
-  return `${APPS_FOLDER}/${slug}/${slug}${PAGE_SUFFIX}`
-}
-
-function pagePathsUnder(root: string): readonly string[] {
-  const found: string[] = []
-  try {
-    for (const entry of readdirSync(join(root, APPS_FOLDER), { withFileTypes: true })) {
-      if (entry.isDirectory()) found.push(appPagePath(entry.name))
-    }
-  } catch (why) {
-    throw new InputError(
-      `the iOS app pages under ${APPS_FOLDER} would not be listed: ${why instanceof Error ? why.message : String(why)}`
-    )
-  }
-  return found.sort()
 }
 
 let scripts: Readonly<Record<string, string>> | null = null
@@ -133,7 +110,7 @@ export function mobileApps(): Readonly<Record<string, MobileApp>> {
   if (held !== null) return held
   const root = akashaRoot()
   const bySlug: Record<string, MobileApp> = {}
-  for (const path of pagePathsUnder(root)) {
+  for (const { path } of everyOfType(root, IOS_APP_PAGE_TYPE_SLUG)) {
     const value = valueAt(path, root)
     if (value === null) throw new InputError(`${path} declares no page value`)
     const app = mobileAppOf(value, path)
