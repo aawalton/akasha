@@ -44,4 +44,5 @@ export const removeFolder = {
       statement: "A name into the folder left hanging is refused by a guard this change names.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFolder

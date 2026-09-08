@@ -79,4 +79,5 @@ export const moveFolder = {
         "The imports, the pages' files and the folders emptied are judged by the guards here.",
     },
   ],
+  changeKindSlug: "change-mechanical",
 } as const satisfies ChangeMechanicalFolder
