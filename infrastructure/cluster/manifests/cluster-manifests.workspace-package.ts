@@ -60,7 +60,6 @@ export const clusterManifests = {
     "module/realtime-tenant-bootstrap",
     "module/registry-constants",
     "manifest/registry-gc-manifests",
-    "module/smilingjenny-web-rbac",
     "module/supabase-realtime-rbac",
     "module/supabase-studio-rbac",
     "module/tailnet-egress-rbac",

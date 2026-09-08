@@ -24,5 +24,6 @@ export const smilingjennyWeb = {
     "module/jenny-session",
     "module/jenny-shell",
     "route/jenny-surplus",
+    "module/smilingjenny-web-rbac",
   ],
 } as const satisfies RouterApp
