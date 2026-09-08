@@ -5,10 +5,10 @@ import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { Suspense } from "react"
 import { data, useSearchParams } from "react-router"
-import { CharactersPageContent } from "../characters-page-content/characters-page-content.module.code.tsx"
-import { CompanionsPageContent } from "../companions-page-content/companions-page-content.module.code.tsx"
-import { useImportErrorToast } from "../use-import-error-toast/use-import-error-toast.module.code.ts"
-import type { Route } from "./+types/$pageTypeSlug"
+import { CharactersPageContent } from "../../characters-page-content/characters-page-content.module.code.tsx"
+import { CompanionsPageContent } from "../../companions-page-content/companions-page-content.module.code.tsx"
+import { useImportErrorToast } from "../../use-import-error-toast/use-import-error-toast.module.code.ts"
+import type { Route } from "./+types/temper-page-listing.route.code"
 
 export async function loader({ params, request }: Route.LoaderArgs) {
   const pluralSlug = params.pageTypeSlug

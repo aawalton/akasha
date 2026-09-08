@@ -18,7 +18,7 @@ const PAGE_ROUTES: RouteConfig = [
     route("shopping", "routes/shopping.tsx"),
     route("watcher", "routes/watcher.tsx"),
     route(":pageTypeSlug/:pageHrefParam", "routes/page-detail/page-detail.route.code.tsx"),
-    route(":pageTypeSlug", "routes/$pageTypeSlug.tsx"),
+    route(":pageTypeSlug", "routes/temper-page-listing/temper-page-listing.route.code.tsx"),
   ]),
 ]
 
