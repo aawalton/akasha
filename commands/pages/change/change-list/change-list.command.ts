@@ -8,6 +8,7 @@ export const changeList = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-authored",
+  timeout: 30,
   helpNotes: [
     "a list naming nothing names the edits kept beside this agent's own page.",
     "a list names each subagent holding edits for this agent, and how many each one holds.",

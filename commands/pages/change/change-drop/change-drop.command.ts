@@ -8,6 +8,7 @@ export const changeDrop = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-authored",
+  timeout: 30,
   helpNotes: [
     "a drop naming nothing reaches the edits kept beside this agent's own page.",
     "a drop naming a subagent reaches the edits that subagent handed over.",

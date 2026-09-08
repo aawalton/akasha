@@ -8,6 +8,7 @@ export const changeDraft = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",
+  timeout: 30,
   helpNotes: [
     "the change to answer is the first word, and the arguments that change takes are piped in.",
     "a call naming no change is refused with every change a draft runs.",

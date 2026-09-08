@@ -10,9 +10,11 @@ import type { HelpFlags } from "./properties/help-flags.record-property.ts"
 import type { HelpNotes } from "./properties/help-notes.text-property.ts"
 import type { HelpPositionals } from "./properties/help-positionals.record-property.ts"
 import type { Taking } from "./properties/taking.record-property.ts"
+import type { Timeout } from "./properties/timeout.number-property.ts"
 
 export type Command = Module & {
   changeKindSlug: ChangeKindSlug
+  timeout?: Timeout
   taking?: Taking
   helpNotes?: readonly HelpNotes[]
   positionals?: HelpPositionals

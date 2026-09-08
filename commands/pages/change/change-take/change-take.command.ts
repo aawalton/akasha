@@ -8,6 +8,7 @@ export const changeTake = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-authored",
+  timeout: 30,
   helpNotes: [
     "a take names the subagent whose handed edits are taken.",
     "the subagent is named as a bare word, so no shell reads a quote or a backslash.",

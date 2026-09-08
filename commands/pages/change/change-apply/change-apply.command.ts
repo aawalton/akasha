@@ -8,6 +8,7 @@ export const changeApply = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",
+  timeout: 30,
   helpNotes: [
     "an apply naming no change lands the edits already kept beside this agent's page.",
     "an apply naming a change answers that change first, then lands every edit kept.",
