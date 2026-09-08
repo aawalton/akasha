@@ -170,5 +170,6 @@ export const alanWeb = {
     "route/alan-web-api-image",
     "route/alan-web-api-pages",
     "route/alan-web-api-nav-icon",
+    "route/alan-web-api-media-variants",
   ],
 } as const satisfies RouterApp

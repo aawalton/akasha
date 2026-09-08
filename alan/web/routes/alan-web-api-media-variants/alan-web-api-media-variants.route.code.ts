@@ -1,6 +1,5 @@
-import { resolveMediaPage } from "../media-page/media-page.module.code.ts"
-import { resolveMediaVariants } from "../media-variants/media-variants.module.code.ts"
-import type { Route } from "./+types/api.media.$pageId.variants"
+import { resolveMediaPage } from "../../media-page/media-page.module.code.ts"
+import { resolveMediaVariants } from "../../media-variants/media-variants.module.code.ts"
 
 const CAPACITOR_ORIGIN = "capacitor://localhost"
 
@@ -16,7 +15,13 @@ function corsHeaders(request: Request): Record<string, string> {
     : {}
 }
 
-export async function loader({ params, request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({
+  params,
+  request,
+}: {
+  params: { pageId: string }
+  request: Request
+}): Promise<Response> {
   const cors = corsHeaders(request)
   if (request.method === "OPTIONS") {
     return new Response(null, { status: 204, headers: cors })

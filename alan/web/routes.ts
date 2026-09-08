@@ -46,7 +46,10 @@ export default [
   route("api/wallpaper", "routes/wallpaper/wallpaper.route.code.ts"),
   route("api/property-option", "routes/api.property-option.ts"),
   route("api/media/token", "routes/api.media.token.ts"),
-  route("api/media/:pageId/variants", "routes/api.media.$pageId.variants.ts"),
+  route(
+    "api/media/:pageId/variants",
+    "routes/alan-web-api-media-variants/alan-web-api-media-variants.route.code.ts"
+  ),
   route("api/media/:pageId/:medium/stream", "routes/api.media.$pageId.$medium.stream.ts"),
   route("api/media/:pageId/:medium/ensure", "routes/api.media.$pageId.$medium.ensure.ts"),
   route("api/media/:pageId/:medium/marks", "routes/api.media.$pageId.$medium.marks.ts"),

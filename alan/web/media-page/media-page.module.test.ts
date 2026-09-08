@@ -3,12 +3,6 @@ import * as pagesGet from "@akasha/pages-access/get"
 import * as calling from "@akasha/pages-service/calling"
 import * as authServer from "@akasha/supabase-rr/auth-server"
 
-// A `mock.module` replacement is process-wide, and the replacement outlives the file that installs
-// the replacement. The real namespaces are held here, before any mock replaces the real namespaces,
-// so the mocks go up in `beforeAll` and come down in `afterAll`. Installing the mocks at import
-// time instead put the mock of `askingFor` in front of every other test file bun runs in this
-// process. The stoplight routes read their rows through `askingFor`, so those files were served a
-// store holding no rows.
 const REAL_PAGES_GET = { ...pagesGet }
 const REAL_CALLING = { ...calling }
 const REAL_AUTH_SERVER = { ...authServer }
@@ -76,7 +70,9 @@ beforeAll(async () => {
   fileMediaPageTypeSlugs = config.getMediaPageTypeSlugs
   fileMediaConfig = (slug: string) => config.getMediaConfig({ pageTypeSlug: slug })
   resolveMediaPage = (await import("./media-page.module.code.ts")).resolveMediaPage
-  variantsLoader = (await import("../routes/api.media.$pageId.variants.ts")).loader as never
+  variantsLoader = (
+    await import("../routes/alan-web-api-media-variants/alan-web-api-media-variants.route.code.ts")
+  ).loader as never
   hlsLoader = (await import("../routes/api.media.$pageId.$medium.hls.m3u8.ts")).loader as never
   marksLoader = (await import("../routes/api.media.$pageId.$medium.marks.ts")).loader as never
 })
