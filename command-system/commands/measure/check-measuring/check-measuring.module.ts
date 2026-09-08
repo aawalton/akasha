@@ -165,11 +165,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "Checks are ordered by falling average processor time of their patch runs.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A check carrying no patch run is ordered after every check carrying a patch run.",
+      statement: "Checks are ordered by falling average processor time.",
     },
     {
       invariantKind: "departure",
@@ -177,7 +173,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A run naming a phase the table does not split by is counted beneath the table.",
+      statement: "A run naming a phase this does not read is counted beneath the table.",
     },
     {
       invariantKind: "departure",
