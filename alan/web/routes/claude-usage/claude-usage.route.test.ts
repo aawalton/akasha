@@ -1,20 +1,3 @@
-/**
- * What the usage tile is allowed to say, and what it must refuse to say.
- *
- * This route moved off `@shared/pages-query`, whose store could not see the figures it reduces —
- * they are declared `uncommitted` on the claude-account page type and stand beside each account's
- * page rather than in the commit — onto `@akasha/pages-service`, which reads them. The
- * service reduces nothing, so the mean and the three "next instant" picks the four saved page
- * queries carried are taken here over plain rows.
- *
- * The reduction moving is what these tests are for. A mean over an empty list sums to zero and
- * divides by nothing, and either mistake draws Alan a fleet that has spent nothing — a claim about
- * his capacity rather than the absence it is. Absent has to stay distinguishable from zero on the
- * way out, and it is only distinguishable because the route refuses with 503 instead of answering.
- *
- * The three instants are the other half: a pick matching no account is a true `null` — nothing is
- * pending — and must not be dragged into that refusal.
- */
 import { expect, test } from "bun:test"
 import {
   ACCOUNT,
