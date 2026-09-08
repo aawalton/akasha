@@ -11,7 +11,6 @@ export const exercise = {
     "namespace/exercise-equipment",
     "command/exercise-history",
     "namespace/exercise-mobility",
-    "command/exercise-next-set",
     "command/exercise-policy-show",
     "namespace/exercise-profile",
     "command/exercise-ranks",
