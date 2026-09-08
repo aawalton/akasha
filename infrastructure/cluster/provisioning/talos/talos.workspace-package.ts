@@ -9,7 +9,7 @@ export const talos = {
   partSlugs: [
     "module/build-patch",
     "module/build-schematic",
-    "module/talos-build-volumes",
+    "module/build-volumes",
     "module/emit-yaml",
     "module/factory",
     "module/talos-kubectl",

@@ -5,7 +5,7 @@
   "exports": {
     "./build-patch": "./build-patch/build-patch.module.code.ts",
     "./build-schematic": "./build-schematic/build-schematic.module.code.ts",
-    "./talos-build-volumes": "./talos-build-volumes/talos-build-volumes.module.code.ts",
+    "./build-volumes": "./build-volumes/build-volumes.module.code.ts",
     "./emit-yaml": "./emit-yaml/emit-yaml.module.code.ts",
     "./factory": "./factory/factory.module.code.ts",
     "./nodes": "./nodes/nodes.module.code.ts",
