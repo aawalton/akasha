@@ -6,7 +6,7 @@ export const exerciseAccess = {
   slug: "exercise-access",
   definition: "how the exercise pages are reached and what their fields may carry",
   manifest: "json",
-  partSlugs: ["module/exercise-rows", "module/free-exercise-row", "module/set-history"],
+  partSlugs: ["module/exercise-rows", "module/free-exercise-row"],
   invariants: [
     {
       invariantKind: "departure",
