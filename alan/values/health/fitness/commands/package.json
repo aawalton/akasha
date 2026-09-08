@@ -2,10 +2,7 @@
   "name": "@akasha/exercise-commands",
   "private": true,
   "type": "module",
-  "exports": {
-    "./exercise-said": "./exercise-said/exercise-said.module.code.ts",
-    "./exercise-saying": "./exercise-saying/exercise-saying.module.code.ts"
-  },
+  "exports": {},
   "dependencies": {
     "@akasha/command-system": "workspace:*",
     "@akasha/day": "workspace:*",
