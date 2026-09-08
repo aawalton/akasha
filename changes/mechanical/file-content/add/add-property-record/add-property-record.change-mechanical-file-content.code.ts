@@ -42,6 +42,7 @@ export function withRecord(
   const started = last.getStart(source)
   const indent = text.slice(text.lastIndexOf("\n", started) + 1, started)
   const ended = last.getEnd()
+  if (indent.trim() !== "") return { from: ended, to: ended, put: `, ${record}` }
   return { from: ended, to: ended, put: `,\n${indent}${record}` }
 }
 

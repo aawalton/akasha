@@ -61,5 +61,10 @@ export const addTypeMember = {
       invariantKind: "absence",
       statement: "Nothing here puts the imports in order, the landing formatting the body.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A type written on one line gains its member on that line rather than on a line of its own.",
+    },
   ],
 } as const satisfies ChangeMechanicalFileContent

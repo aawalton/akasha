@@ -96,6 +96,16 @@ test("a body exporting no object is refused rather than gaining a key", () => {
   expect(refusalOf(said)).toContain("exports no object")
 })
 
+test("a list written on one line gains its record on that line", () => {
+  const { world, said } = answering(bodied(`  properties: [${SLUG}],`))
+  expect(bodyOf(said, world.base)).toContain(`  properties: [${SLUG}, ${NAME}],`)
+})
+
+test("a list written on one line gains no second key", () => {
+  const { world, said } = answering(bodied(`  properties: [${SLUG}],`))
+  expect(bodyOf(said, world.base).match(/properties:/g)?.length).toBe(1)
+})
+
 test("the change is reached through its own runner", () => {
   const world = worldOf({ [AT]: HOLDING })
   expect(bodyOf(runChange(world, { at: AT, key: KEY, record: NAME }), world.base)).toContain(NAME)

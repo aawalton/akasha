@@ -83,6 +83,18 @@ test("a body carrying no import gains the import at its opening", () => {
   expect(bodyOf(said, world.base).startsWith("import type { WebDirectory }")).toBe(true)
 })
 
+test("a type written on one line gains its member on that line", () => {
+  const { world, said } = answering(`export type IosApp = { manifest: Manifest }\n`)
+  expect(bodyOf(said, world.base)).toContain(
+    "export type IosApp = { manifest: Manifest; webDirectory: WebDirectory }"
+  )
+})
+
+test("a type written on one line closing a member gains no second semicolon", () => {
+  const { world, said } = answering(`export type IosApp = { manifest: Manifest; }\n`)
+  expect(bodyOf(said, world.base)).toContain("manifest: Manifest; webDirectory: WebDirectory }")
+})
+
 test("the change is reached through its own runner", () => {
   const world = worldOf({ [AT]: HOLDING })
   const said = runChange(world, {

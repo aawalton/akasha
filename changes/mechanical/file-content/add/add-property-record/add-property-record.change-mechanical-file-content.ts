@@ -66,5 +66,10 @@ export const addPropertyRecord = {
       invariantKind: "absence",
       statement: "Nothing here reads what the record means.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A list written on one line gains its record on that line rather than on a line of its own.",
+    },
   ],
 } as const satisfies ChangeMechanicalFileContent

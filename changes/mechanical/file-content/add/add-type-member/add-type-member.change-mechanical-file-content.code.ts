@@ -72,6 +72,10 @@ export function withMember(
   const started = last.getStart(source)
   const indent = text.slice(text.lastIndexOf("\n", started) + 1, started)
   const ended = last.getEnd()
+  if (indent.trim() !== "") {
+    const parted = text.slice(ended - 1, ended) === ";" ? " " : "; "
+    return { from: ended, to: ended, put: `${parted}${put}` }
+  }
   return { from: ended, to: ended, put: `\n${indent}${put}` }
 }
 
