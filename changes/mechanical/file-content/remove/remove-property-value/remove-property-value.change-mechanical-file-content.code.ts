@@ -7,8 +7,9 @@ import {
   spliced,
   stating,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said, Splice } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { without } from "../../../../modules/literal-splicing/literal-splicing.module.code.ts"
 import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
 
 const BLIND = ts.TypeFlags.Any | ts.TypeFlags.Unknown
@@ -20,34 +21,6 @@ export type Sought = {
 
 export type RemovePropertyValueAsked = Sought & {
   readonly value: string
-}
-
-function commaAfter(text: string, from: number, limit: number): number {
-  for (let at = from; at < limit; at += 1) {
-    const one = text[at] ?? ""
-    if (one === ",") return at + 1
-    if (one.trim() !== "") return from
-  }
-  return from
-}
-
-export function without(
-  text: string,
-  source: ts.SourceFile,
-  held: ts.Node,
-  every: readonly ts.Node[],
-  at: number
-): Splice {
-  const one = every[at]
-  if (one === undefined) return { from: 0, to: 0, put: "" }
-  if (every.length === 1) {
-    return { from: held.getStart(source) + 1, to: held.getEnd() - 1, put: "" }
-  }
-  const past = commaAfter(text, one.getEnd(), held.getEnd())
-  if (past > one.getEnd()) return { from: one.pos, to: past, put: "" }
-  const before = every[at - 1]
-  const from = before === undefined ? held.getStart(source) + 1 : before.getEnd()
-  return { from, to: one.getEnd(), put: "" }
 }
 
 export function requiredIn(world: World, given: Sought): boolean | null {
