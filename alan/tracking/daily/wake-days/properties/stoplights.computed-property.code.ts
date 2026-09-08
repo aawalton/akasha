@@ -12,7 +12,6 @@ export const work: Work<WorkedWakeDay, string> = (page) => {
   ]
   let text = ""
   for (const light of lights) {
-    // A text literal answers absent where any light in it is absent.
     if (typeof light !== "string") return null
     text += light
   }

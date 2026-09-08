@@ -10,4 +10,10 @@ export const stoplights = {
   definition: "the rung each of the day's six values reached, as one colored light apiece",
   holds: "text",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A day missing any of the six lights states no lights.",
+    },
+  ],
 } as const satisfies ComputedProperty
