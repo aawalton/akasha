@@ -13,7 +13,7 @@ import {
   rendered,
   type Staged,
   standingIn,
-} from "../../../pages/commands/icon-index-rendering/icon-index-rendering.module.code.ts"
+} from "../../../../pages/commands/icon-index-rendering/icon-index-rendering.module.code.ts"
 
 const CODE_ROOT = "--code-root"
 
