@@ -1,7 +1,10 @@
-import { basename, dirname, join } from "node:path"
+import { basename, dirname, join, relative } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
+import { reachesIn } from "@akasha/code/package-manifest"
+import { manifestsIn } from "@akasha/indexes/package-reaching"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
+import ts from "typescript"
 import { folderFor } from "../../../../pages/service/page-composing/page-composing.module.code.ts"
 import {
   gathered,
@@ -9,9 +12,13 @@ import {
   refusing,
   stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import type {
+  Answer,
+  Replacing,
+} from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
+import { spelledAnew } from "../../file-content/rename-package/rename-package.change-agent.code.ts"
 
 const RENAME_PAGE_SLUG = "change-mechanical-file-content/rename-page-slug"
 
@@ -136,6 +143,118 @@ function landingIn(
   return join(dirname(folder), folderFor(pluralIn(world, held), held.pageTypeSlug, given.to), name)
 }
 
+const UNDER = "/"
+
+const WAYS = "exports"
+
+type Way = {
+  readonly at: string
+  readonly was: string
+  readonly to: string
+  readonly moved: ReadonlyMap<string, string>
+  readonly importers: readonly string[]
+}
+
+type Splice = { readonly start: number; readonly end: number; readonly said: string }
+
+function namersIn(world: World, moved: ReadonlyMap<string, string>): readonly string[] {
+  const found = new Set<string>()
+  for (const one of moved.keys()) {
+    for (const each of world.index.importersOf(one)) found.add(each)
+  }
+  for (const one of moved.keys()) found.delete(one)
+  return [...found].sort()
+}
+
+function wayIn(
+  world: World,
+  moved: ReadonlyMap<string, string>,
+  was: string,
+  to: string
+): Way | null {
+  const ending = `${UNDER}${was}`
+  for (const at of manifestsIn(world.index.everyPath(), world.index.fileKeysAt())) {
+    const text = world.textOf(at)
+    if (text === null) continue
+    for (const [said, path] of reachesIn(dirname(at), text)) {
+      if (!moved.has(path) || !said.endsWith(ending)) continue
+      const next = `${said.slice(0, -ending.length)}${UNDER}${to}`
+      return { at, was: said, to: next, moved, importers: namersIn(world, moved) }
+    }
+  }
+  return null
+}
+
+function splicedOver(text: string, found: readonly Splice[]): string {
+  let out = ""
+  let from = 0
+  for (const one of found) {
+    out = `${out}${text.slice(from, one.start)}${one.said}`
+    from = one.end
+  }
+  return `${out}${text.slice(from)}`
+}
+
+function waysIn(node: ts.Node): ts.ObjectLiteralExpression | null {
+  if (!ts.isObjectLiteralExpression(node)) return null
+  for (const one of node.properties) {
+    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
+    if (one.name.text !== WAYS) continue
+    return ts.isObjectLiteralExpression(one.initializer) ? one.initializer : null
+  }
+  return null
+}
+
+function wayAnew(way: Way, text: string, was: string, to: string): string {
+  const source = ts.parseJsonText(way.at, text)
+  const first = source.statements[0]
+  if (first === undefined) return text
+  const held = waysIn(first.expression)
+  if (held === null) return text
+  const folder = dirname(way.at)
+  const found: Splice[] = []
+  for (const one of held.properties) {
+    if (!ts.isPropertyAssignment(one) || !ts.isStringLiteral(one.name)) continue
+    const value = one.initializer
+    if (!ts.isStringLiteral(value)) continue
+    const next = way.moved.get(join(folder, value.text))
+    if (next === undefined) continue
+    if (one.name.text === `.${UNDER}${was}`) {
+      found.push({
+        start: one.name.getStart(source),
+        end: one.name.getEnd(),
+        said: JSON.stringify(`.${UNDER}${to}`),
+      })
+    }
+    found.push({
+      start: value.getStart(source),
+      end: value.getEnd(),
+      said: JSON.stringify(`.${UNDER}${relative(folder, next)}`),
+    })
+  }
+  return splicedOver(text, found)
+}
+
+function wayEdits(world: World, way: Way, was: string, to: string): readonly Replacing[] {
+  const edits: Replacing[] = []
+  const text = world.textOf(way.at)
+  if (text !== null) {
+    const next = wayAnew(way, text, was, to)
+    if (next !== text) {
+      edits.push({ kind: "replace", path: way.at, contentFrom: text, contentTo: next })
+    }
+  }
+  for (const path of way.importers) {
+    const body = world.textOf(path)
+    if (body === null) continue
+    const next = spelledAnew(path, body, way.was, way.to)
+    if (next !== body) {
+      edits.push({ kind: "replace", path, contentFrom: body, contentTo: next })
+    }
+  }
+  return edits
+}
+
 export async function renamePage(world: World, given: RenamePageAsked): Promise<Answer> {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
@@ -162,7 +281,9 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
     if (given.plural !== undefined) return refusing(`${carries}, so no plural is restated`)
     if (lands === given.at) return refusing(`${carries}, in the folder that slug names`)
   }
-  for (const one of [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]) {
+  const carries = [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]
+  const way = wayIn(world, new Map(carries.map((one) => [one.from, one.to])), held.slug, given.to)
+  for (const one of carries) {
     const carried = await reach(seen, RENAME_PATH, one)
     if (carried.said.refused !== null) return carried.said
     answers.push(carried.said)
@@ -180,6 +301,14 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
     answers.push(said.said)
     folded = gathered(answers)
     if (folded.refused !== null) return folded
+  }
+  if (way !== null) {
+    const edits = wayEdits(seen, way, held.slug, given.to)
+    if (edits.length > 0) {
+      answers.push(stating(edits))
+      folded = gathered(answers)
+      if (folded.refused !== null) return folded
+    }
   }
   return folded
 }
