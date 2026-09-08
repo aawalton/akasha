@@ -10,7 +10,7 @@ export const aineAuditChangeGuards = {
     {
       statement: "Every sensible combination of mode, type and subtype has a mechanical change.",
       workingMemory:
-        "file holds add, move and remove across file, file-code, file-page, file-page-type and file-page-property, each with a dispatcher; rename holds file-page and file-page-property. folder holds move and remove across folder and folder-package. A file's own rename is that file's carry, and add-if-not-present reads no path as a page. What is left is a page type's own slug, which no change renames, and the file-content cells, none of which has a caller yet.\n",
+        "file holds add, move and remove across file, file-code, file-page, file-page-type and file-page-property, each with a dispatcher; rename holds file-page and file-page-property. folder holds move and remove across folder and folder-package. file-content holds change across file-content, code and page, with a dispatcher the authored change-file reaches. A file's own rename is that file's carry, add-if-not-present reads no path as a page, and a page type's own slug is renamed by no change.\n",
     },
     {
       statement:
@@ -23,12 +23,6 @@ export const aineAuditChangeGuards = {
         "A content change is judged by the guards that judge an edge into the body that change leaves.",
       workingMemory:
         "`change-page-page-property` names no guard and restates any key, `slug` included. `rename-page-slug` reaches it for exactly that and repoints the namers afterwards, so a guard on that rung would refuse the rename's own middle step. Such a guard belongs on the outermost mechanical change of a family rather than on a rung a composition passes through. `relation-not-left-hanging` cannot see the hanging name at all, a name that no longer resolves being no namer.\n",
-    },
-    {
-      statement:
-        "A change-page-file wraps change-code-file, and the authored change-file routes to it.",
-      workingMemory:
-        "`change-code-file` is landed. The rename guard belongs on `change-page-file` because id and slug are page properties. `change-file.change-mechanical` refuses inline where the body reads null and needs that body to work the passage out, so that refusal is structural rather than a guard that was missed.",
     },
     {
       statement: "The mode a change runs in is factored out of the changes that carry one.",
