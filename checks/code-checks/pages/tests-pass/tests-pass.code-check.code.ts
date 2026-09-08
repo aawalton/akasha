@@ -8,7 +8,7 @@ import {
   spentOver,
   testsBesideOf,
 } from "@akasha/code/code-tests"
-import { SERVED, servingOf } from "@akasha/code/test-bodies"
+import { SERVED } from "@akasha/code/test-bodies"
 import type { Bodies } from "@akasha/code/test-overlay"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
@@ -127,18 +127,13 @@ function refusalsIn(change: Change): readonly Judged[] {
   const first = named[0]
   if (first === undefined) return []
   const bodies = bodiesOf(change)
-  const serving = servingOf(change.root, change.changed, change.after, named, change.before)
-  try {
-    if (measuring())
-      return [{ path: first, reason: spentlyOf(spentOver(change.root, named, serving, bodies)) }]
-    const found = ranOver(change.root, named, named.length, null, serving, bodies)
-    if (found.verdict === "pass") return []
-    const said = { ...found, output: spelledIn(found.output, serving.root) }
-    const at = said.slow[0]?.path ?? first
-    return [{ path: at, reason: reasonOf(said, named) }]
-  } finally {
-    serving.sweep()
-  }
+  if (measuring())
+    return [{ path: first, reason: spentlyOf(spentOver(change.root, named, null, bodies)) }]
+  const found = ranOver(change.root, named, named.length, null, null, bodies)
+  if (found.verdict === "pass") return []
+  const said = { ...found, output: spelledIn(found.output, change.root) }
+  const at = said.slow[0]?.path ?? first
+  return [{ path: at, reason: reasonOf(said, named) }]
 }
 
 export const testsPass = input(TESTED, refusalsIn)

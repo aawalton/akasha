@@ -19,13 +19,12 @@ export const testsPass = {
     },
 
     {
-      invariantKind: "departure",
-      statement:
-        "The tests run in the working tree, with the change's bodies served in place of the files there.",
+      invariantKind: "constraint",
+      statement: "A module loaded from two trees at once is two modules.",
     },
     {
       invariantKind: "departure",
-      statement: "A file the change carries is served whether or not a file is there for it.",
+      statement: "The run reads a body the change carries whether or not a file is at that path.",
     },
     {
       invariantKind: "departure",
@@ -74,7 +73,7 @@ export const testsPass = {
     },
     {
       invariantKind: "constraint",
-      statement: "What was written to serve the bodies is swept whatever the run said.",
+      statement: "What was written to mount the bodies is swept whatever the run said.",
     },
     {
       invariantKind: "departure",
