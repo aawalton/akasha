@@ -73,6 +73,7 @@ export const luaCompiler = {
     "module/lualib-call",
     "module/lualib-builder",
     "module/lualib-builder-deps",
+    "module/lualib-pages",
     "module/lualib-runtime",
     "module/measure-performance",
     "module/optional-chain-data",

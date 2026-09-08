@@ -6,6 +6,7 @@
     "./transpilation": "./transpilation/transpilation.module.code.ts"
   },
   "dependencies": {
+    "@akasha/pages": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "enhanced-resolve": "5.8.2",
     "picomatch": "^2.3.1",

@@ -17,6 +17,11 @@ import {
   type LuaLibModulesInfo,
   resolveRecursiveLualibFeatures,
 } from "../lualib-features/lualib-features.module.code.ts"
+import {
+  lualibPagesRoot,
+  pagesUnder,
+  sourcesFrom,
+} from "../lualib-pages/lualib-pages.module.code.ts"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
 import type { Plugin } from "../transpile-plugins/transpile-plugins.module.code.ts"
 import { cast } from "../utils/utils.module.code.ts"
@@ -116,7 +121,7 @@ interface LuaLibPlugin extends Plugin {
   buildModulesInfo: () => LuaLibModulesInfo
 }
 
-function createLuaLibPlugin(): LuaLibPlugin {
+function createLuaLibPlugin(featureBySourceName: ReadonlyMap<string, LuaLibFeature>): LuaLibPlugin {
   const featureExports = new Map<LuaLibFeature, Set<string>>()
   const featureDependencies = new Map<LuaLibFeature, Set<LuaLibFeature>>()
   const featureCode = new Map<LuaLibFeature, string>()
@@ -125,7 +130,8 @@ function createLuaLibPlugin(): LuaLibPlugin {
     file: ts.SourceFile,
     context: TransformationContext
   ): luaStatements.File {
-    const featureName = path.basename(file.fileName, ".ts")
+    const sourceName = path.basename(file.fileName, ".ts")
+    const featureName = featureBySourceName.get(sourceName) ?? sourceName
     if (!isLuaLibFeature(featureName)) {
       context.addDiagnostic({
         category: ts.DiagnosticCategory.Error,
@@ -241,7 +247,8 @@ function createLuaLibPlugin(): LuaLibPlugin {
     afterPrint: (_program, _options, _emitHost, result) => {
       for (const file of result) {
         const base = path.basename(file.fileName)
-        const featureName = base.replace(/\.(ts|lua)$/, "")
+        const sourceName = base.replace(/\.(ts|lua)$/, "")
+        const featureName = featureBySourceName.get(sourceName) ?? sourceName
         if (isLuaLibFeature(featureName)) {
           featureCode.set(featureName, file.code)
         }
@@ -279,12 +286,18 @@ export function buildLuaLib(luaTarget: LuaTarget): BuiltLuaLib {
     throw new Error(`lualib builder: failed to parse ${configFileName}:\n${messages}`)
   }
 
+  const sources = sourcesFrom(
+    parsedConfig.fileNames,
+    pagesUnder(lualibPagesRoot()),
+    luaTarget === LuaTarget.Lua50
+  )
+
   const program = ts.createProgram({
-    rootNames: parsedConfig.fileNames,
+    rootNames: sources.rootNames,
     options: parsedConfig.options,
   })
 
-  const plugin = createLuaLibPlugin()
+  const plugin = createLuaLibPlugin(sources.featureBySourceName)
   const transpiler = requireLualibTranspiler()()
 
   const writeFile: ts.WriteFileCallback = () => {}
