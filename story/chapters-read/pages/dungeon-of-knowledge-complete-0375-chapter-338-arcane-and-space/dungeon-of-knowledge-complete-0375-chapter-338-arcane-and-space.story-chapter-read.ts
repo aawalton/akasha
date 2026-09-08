@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0375Chapter338ArcaneAndSpace = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0375-chapter-338-arcane-and-space",
   title: "Chapter 338: Arcane and Space",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 375,
   ownLength: 3882,
   ownProgress: 3882,

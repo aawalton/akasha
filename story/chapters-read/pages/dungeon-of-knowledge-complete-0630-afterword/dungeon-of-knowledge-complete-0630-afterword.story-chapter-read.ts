@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0630Afterword = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0630-afterword",
   title: "Afterword",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 630,
   ownLength: 560,
   unitSlug: "words",

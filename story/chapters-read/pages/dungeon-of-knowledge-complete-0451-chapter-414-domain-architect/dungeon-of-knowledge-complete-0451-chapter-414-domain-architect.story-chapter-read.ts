@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0451Chapter414DomainArchitect = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0451-chapter-414-domain-architect",
   title: "Chapter 414: Domain Architect",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 451,
   ownLength: 4155,
   ownProgress: 4155,

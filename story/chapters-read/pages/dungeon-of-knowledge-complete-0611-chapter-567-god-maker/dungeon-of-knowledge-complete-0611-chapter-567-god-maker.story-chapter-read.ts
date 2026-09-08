@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0611Chapter567GodMaker = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0611-chapter-567-god-maker",
   title: "Chapter 567: God Maker",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 611,
   ownLength: 2956,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0536Chapter496DarkAndTormentedSouls = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0536-chapter-496-dark-and-tormented-souls",
   title: "Chapter 496: Dark and Tormented Souls",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 536,
   ownLength: 3684,
   ownProgress: 3684,

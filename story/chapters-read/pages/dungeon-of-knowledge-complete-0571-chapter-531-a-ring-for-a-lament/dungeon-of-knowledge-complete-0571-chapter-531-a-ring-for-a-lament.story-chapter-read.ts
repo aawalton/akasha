@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0571Chapter531ARingForALament = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0571-chapter-531-a-ring-for-a-lament",
   title: "Chapter 531: A Ring for a Lament",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 571,
   ownLength: 5551,
   ownProgress: 5551,

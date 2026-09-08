@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0622Chapter578TheCorruptedCoil = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0622-chapter-578-the-corrupted-coil",
   title: "Chapter 578: The Corrupted Coil",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 622,
   ownLength: 3592,
   unitSlug: "words",

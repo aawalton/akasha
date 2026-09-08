@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0624Chapter580HiddenInPlainSight = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0624-chapter-580-hidden-in-plain-sight",
   title: "Chapter 580: Hidden in Plain Sight",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 624,
   ownLength: 2429,
   unitSlug: "words",

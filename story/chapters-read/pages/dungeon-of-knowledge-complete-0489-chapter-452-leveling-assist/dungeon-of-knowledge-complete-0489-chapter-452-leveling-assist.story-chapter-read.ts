@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0489Chapter452LevelingAssist = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0489-chapter-452-leveling-assist",
   title: "Chapter 452: Leveling Assist",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 489,
   ownLength: 2636,
   ownProgress: 2636,

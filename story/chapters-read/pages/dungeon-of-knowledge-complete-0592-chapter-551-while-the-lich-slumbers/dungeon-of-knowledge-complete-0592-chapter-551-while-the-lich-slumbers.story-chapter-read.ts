@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0592Chapter551WhileTheLichSlumbers = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0592-chapter-551-while-the-lich-slumbers",
   title: "Chapter 551: While the Lich Slumbers",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 592,
   ownLength: 2096,
   ownProgress: 2096,

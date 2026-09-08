@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0316Chapter282Crafting = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0316-chapter-282-crafting",
   title: "Chapter 282: Crafting",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 316,
   ownLength: 3943,
   ownProgress: 3943,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0354Chapter317TheArtOfCalligraphy = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0354-chapter-317-the-art-of-calligraphy",
   title: "Chapter 317: The Art of Calligraphy",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 354,
   ownLength: 2265,
   ownProgress: 2265,

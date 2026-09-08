@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0507Chapter470TheDragonGodSLibrary = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0507-chapter-470-the-dragon-god-s-library",
   title: "Chapter 470: The Dragon God’s Library",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 507,
   ownLength: 3471,
   ownProgress: 3471,

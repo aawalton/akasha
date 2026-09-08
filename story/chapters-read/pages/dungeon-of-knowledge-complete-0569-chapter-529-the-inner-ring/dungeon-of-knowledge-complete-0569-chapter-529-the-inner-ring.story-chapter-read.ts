@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0569Chapter529TheInnerRing = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0569-chapter-529-the-inner-ring",
   title: "Chapter 529: The Inner Ring",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 569,
   ownLength: 4889,
   ownProgress: 4889,

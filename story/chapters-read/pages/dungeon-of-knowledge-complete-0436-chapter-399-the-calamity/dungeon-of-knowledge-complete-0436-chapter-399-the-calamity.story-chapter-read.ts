@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0436Chapter399TheCalamity = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0436-chapter-399-the-calamity",
   title: "Chapter 399: The Calamity",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 436,
   ownLength: 4366,
   ownProgress: 4366,

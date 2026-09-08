@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0462Chapter425RecoveringTheShrine = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0462-chapter-425-recovering-the-shrine",
   title: "Chapter 425: Recovering the Shrine",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 462,
   ownLength: 3855,
   ownProgress: 3855,

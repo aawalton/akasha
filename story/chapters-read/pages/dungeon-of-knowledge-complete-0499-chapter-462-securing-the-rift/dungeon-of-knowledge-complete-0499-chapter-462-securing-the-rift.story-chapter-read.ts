@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0499Chapter462SecuringTheRift = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0499-chapter-462-securing-the-rift",
   title: "Chapter 462: Securing the Rift",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 499,
   ownLength: 2239,
   ownProgress: 2239,

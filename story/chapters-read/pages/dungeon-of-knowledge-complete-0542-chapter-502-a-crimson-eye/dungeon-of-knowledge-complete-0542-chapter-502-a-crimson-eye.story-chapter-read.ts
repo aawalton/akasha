@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0542Chapter502ACrimsonEye = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0542-chapter-502-a-crimson-eye",
   title: "Chapter 502: A Crimson Eye",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 542,
   ownLength: 3423,
   ownProgress: 3423,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0420Chapter383FleeingThroughAnAngryForest
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0420-chapter-383-fleeing-through-an-angry-forest",
   title: "Chapter 383: Fleeing Through an Angry Forest",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 420,
   ownLength: 2524,
   ownProgress: 2524,

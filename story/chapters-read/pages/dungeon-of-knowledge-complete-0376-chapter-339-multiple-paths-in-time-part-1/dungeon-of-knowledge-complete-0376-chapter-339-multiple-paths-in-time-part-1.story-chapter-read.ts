@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0376Chapter339MultiplePathsInTimePart1 = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0376-chapter-339-multiple-paths-in-time-part-1",
   title: "Chapter 339: Multiple Paths in Time (Part 1)",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 376,
   ownLength: 2560,
   ownProgress: 2560,

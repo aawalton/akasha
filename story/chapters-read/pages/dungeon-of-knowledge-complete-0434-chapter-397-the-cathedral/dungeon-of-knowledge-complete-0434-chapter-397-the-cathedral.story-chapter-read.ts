@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0434Chapter397TheCathedral = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0434-chapter-397-the-cathedral",
   title: "Chapter 397: The Cathedral",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 434,
   ownLength: 2620,
   ownProgress: 2620,

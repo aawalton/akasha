@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0481Chapter444TheWeightOfAnAcorn = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0481-chapter-444-the-weight-of-an-acorn",
   title: "Chapter 444: The Weight of an Acorn",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 481,
   ownLength: 3377,
   ownProgress: 3377,

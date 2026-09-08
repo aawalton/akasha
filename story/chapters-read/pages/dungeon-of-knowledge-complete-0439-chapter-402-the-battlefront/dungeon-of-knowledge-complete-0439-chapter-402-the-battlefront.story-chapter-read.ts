@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0439Chapter402TheBattlefront = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0439-chapter-402-the-battlefront",
   title: "Chapter 402: The Battlefront",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 439,
   ownLength: 2446,
   ownProgress: 2446,

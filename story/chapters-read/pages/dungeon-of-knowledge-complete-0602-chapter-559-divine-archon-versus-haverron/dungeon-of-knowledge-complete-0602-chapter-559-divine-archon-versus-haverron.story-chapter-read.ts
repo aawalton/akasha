@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0602Chapter559DivineArchonVersusHaverron 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0602-chapter-559-divine-archon-versus-haverron",
   title: "Chapter 559: Divine Archon Versus Haverron",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 602,
   ownLength: 2250,
   unitSlug: "words",

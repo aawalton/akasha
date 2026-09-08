@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0508Chapter471TheCryptOfKings = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0508-chapter-471-the-crypt-of-kings",
   title: "Chapter 471: The Crypt of Kings",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 508,
   ownLength: 2838,
   ownProgress: 2838,

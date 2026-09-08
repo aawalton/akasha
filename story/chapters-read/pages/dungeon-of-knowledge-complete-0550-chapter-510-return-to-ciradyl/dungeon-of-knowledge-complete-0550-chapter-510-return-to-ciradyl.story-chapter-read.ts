@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0550Chapter510ReturnToCiradyl = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0550-chapter-510-return-to-ciradyl",
   title: "Chapter 510: Return to Ciradyl",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 550,
   ownLength: 2883,
   ownProgress: 2883,

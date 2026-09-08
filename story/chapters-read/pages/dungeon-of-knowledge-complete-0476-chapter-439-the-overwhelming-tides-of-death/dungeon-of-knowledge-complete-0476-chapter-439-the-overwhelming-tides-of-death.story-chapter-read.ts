@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0476Chapter439TheOverwhelmingTidesOfDeath
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0476-chapter-439-the-overwhelming-tides-of-death",
   title: "Chapter 439: The Overwhelming Tides of Death",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 476,
   ownLength: 3283,
   ownProgress: 3283,

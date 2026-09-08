@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0333Chapter298TheElementalShapeshifter = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0333-chapter-298-the-elemental-shapeshifter",
   title: "Chapter 298: The Elemental Shapeshifter",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 333,
   ownLength: 2139,
   ownProgress: 2139,

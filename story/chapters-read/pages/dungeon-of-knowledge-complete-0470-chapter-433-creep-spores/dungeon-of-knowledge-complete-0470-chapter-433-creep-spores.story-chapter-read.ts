@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0470Chapter433CreepSpores = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0470-chapter-433-creep-spores",
   title: "Chapter 433: Creep Spores",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 470,
   ownLength: 3726,
   ownProgress: 3726,

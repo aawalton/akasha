@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0623Chapter579TheDefianceOfTheMeek = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0623-chapter-579-the-defiance-of-the-meek",
   title: "Chapter 579: The Defiance of the Meek",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 623,
   ownLength: 4643,
   unitSlug: "words",

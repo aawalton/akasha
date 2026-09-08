@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0362Chapter325RunicTattoos = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0362-chapter-325-runic-tattoos",
   title: "Chapter 325: Runic Tattoos",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 362,
   ownLength: 1835,
   ownProgress: 1835,

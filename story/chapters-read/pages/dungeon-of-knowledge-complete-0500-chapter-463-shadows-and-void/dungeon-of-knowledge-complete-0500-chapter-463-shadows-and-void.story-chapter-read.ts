@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0500Chapter463ShadowsAndVoid = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0500-chapter-463-shadows-and-void",
   title: "Chapter 463: Shadows and Void",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 500,
   ownLength: 2710,
   ownProgress: 2710,

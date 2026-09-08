@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0469Chapter432FungalothRavager = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0469-chapter-432-fungaloth-ravager",
   title: "Chapter 432: Fungaloth Ravager",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 469,
   ownLength: 3171,
   ownProgress: 3171,

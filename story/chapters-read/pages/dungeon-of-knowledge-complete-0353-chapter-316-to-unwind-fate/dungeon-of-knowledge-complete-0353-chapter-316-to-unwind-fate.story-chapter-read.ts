@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0353Chapter316ToUnwindFate = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0353-chapter-316-to-unwind-fate",
   title: "Chapter 316: To Unwind Fate",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 353,
   ownLength: 2006,
   ownProgress: 2006,

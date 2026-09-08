@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0461Chapter424MaalgarothSReturn = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0461-chapter-424-maalgaroth-s-return",
   title: "Chapter 424: Maalgaroth’s Return",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 461,
   ownLength: 3089,
   ownProgress: 3089,

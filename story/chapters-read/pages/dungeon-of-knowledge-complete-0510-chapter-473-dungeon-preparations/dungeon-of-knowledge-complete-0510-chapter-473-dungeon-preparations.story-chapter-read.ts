@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0510Chapter473DungeonPreparations = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0510-chapter-473-dungeon-preparations",
   title: "Chapter 473: Dungeon Preparations",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 510,
   ownLength: 2750,
   ownProgress: 2750,

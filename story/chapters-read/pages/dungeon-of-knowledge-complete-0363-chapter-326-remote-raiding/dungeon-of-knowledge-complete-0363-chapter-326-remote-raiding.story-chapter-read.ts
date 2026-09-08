@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0363Chapter326RemoteRaiding = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0363-chapter-326-remote-raiding",
   title: "Chapter 326: Remote Raiding",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 363,
   ownLength: 3133,
   ownProgress: 3133,

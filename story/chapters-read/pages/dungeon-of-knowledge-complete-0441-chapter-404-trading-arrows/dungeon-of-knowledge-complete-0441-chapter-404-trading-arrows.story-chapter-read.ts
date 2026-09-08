@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0441Chapter404TradingArrows = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0441-chapter-404-trading-arrows",
   title: "Chapter 404: Trading Arrows",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 441,
   ownLength: 2351,
   ownProgress: 2351,
