@@ -208,6 +208,15 @@
         "@akasha/pages": "workspace:*",
       },
     },
+    "alan/harness/health-samples-import": {
+      "name": "@akasha/health-samples-import",
+      "dependencies": {
+        "@akasha/health-samples-access": "workspace:*",
+        "@akasha/ssh-access": "workspace:*",
+        "@akasha/verdict": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "alan/harness/idle-system": {
       "name": "@akasha/idle-system",
       "dependencies": {
@@ -898,15 +907,6 @@
       "name": "@akasha/graph",
       "dependencies": {
         "@akasha/code": "workspace:*",
-      },
-    },
-    "health-samples-import": {
-      "name": "@akasha/health-samples-import",
-      "dependencies": {
-        "@akasha/health-samples-access": "workspace:*",
-        "@akasha/ssh-access": "workspace:*",
-        "@akasha/verdict": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "hook-system": {
@@ -3058,7 +3058,7 @@
 
     "@akasha/health-samples-day": ["@akasha/health-samples-day@workspace:alan/harness/health-samples-day"],
 
-    "@akasha/health-samples-import": ["@akasha/health-samples-import@workspace:health-samples-import"],
+    "@akasha/health-samples-import": ["@akasha/health-samples-import@workspace:alan/harness/health-samples-import"],
 
     "@akasha/hook-system": ["@akasha/hook-system@workspace:hook-system"],
 
