@@ -2,7 +2,7 @@ import "@akasha/temper-eso-types/eso-enums-04"
 import "@akasha/temper-eso-types/eso-functions-09"
 import "@akasha/temper-eso-types/eso-functions-10"
 import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 
 import type {
   TributePatronCatalogCard,

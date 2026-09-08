@@ -3,7 +3,7 @@ import "@akasha/temper-eso-types/eso-enums-12"
 import "@akasha/temper-eso-types/eso-functions-02"
 import "@akasha/temper-eso-types/eso-functions-07"
 import "@akasha/temper-eso-types/eso-functions-08"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 import type { CompanionBuildData } from "../companions-codec/companions-codec.module.code.ts"
 
 export interface InventoryItem {

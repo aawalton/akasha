@@ -25,7 +25,7 @@ import "@akasha/temper-eso-types/eso-string-ids"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 import "../companions-globals/companions-globals.module.code.ts"
 
 import { registerAddonInit } from "@akasha/temper-addon-init/addon-init"

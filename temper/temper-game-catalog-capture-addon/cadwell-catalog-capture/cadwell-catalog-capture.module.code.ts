@@ -1,7 +1,7 @@
 import "@akasha/temper-eso-types/eso-enums-01"
 import "@akasha/temper-eso-types/eso-functions-04"
 import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 
 import type {
   CadwellCatalogLevel,

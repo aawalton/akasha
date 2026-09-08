@@ -6,7 +6,7 @@ import "@akasha/temper-eso-types/eso-objects-01"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-lua-sandbox"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 import { portToFriend } from "../housing-state/housing-state.module.code.ts"
 
 const wm = WINDOW_MANAGER

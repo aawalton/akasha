@@ -13,7 +13,7 @@ import "@akasha/temper-eso-types/eso-interface-extra-2"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 import {
   checkForActiveCompanion,
   INTERACTIONS,

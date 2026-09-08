@@ -4,7 +4,7 @@ import "@akasha/temper-eso-types/eso-enums-19"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 import { GREEN } from "@akasha/design-tokens/semantic-color"
 import { TEXT_PRIMARY, TEXT_SECONDARY } from "@akasha/design-tokens/text-color"
 

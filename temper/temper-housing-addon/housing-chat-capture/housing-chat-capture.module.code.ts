@@ -4,7 +4,7 @@ import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/eso-interface-extra-3"
 import "@akasha/temper-eso-types/eso-lua-sandbox"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 import { getPtfSavedVars, portToFriend } from "../housing-state/housing-state.module.code.ts"
 
 function parseLuaCapture(captured: string | undefined): string | undefined {

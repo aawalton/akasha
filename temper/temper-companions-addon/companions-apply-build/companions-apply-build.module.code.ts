@@ -7,7 +7,7 @@ import "@akasha/temper-eso-types/eso-functions-04"
 import "@akasha/temper-eso-types/eso-functions-07"
 import "@akasha/temper-eso-types/eso-functions-08"
 import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 import { requireAt } from "@akasha/utils-narrow/require-at"
 import {
   ARMOR_SLOTS,

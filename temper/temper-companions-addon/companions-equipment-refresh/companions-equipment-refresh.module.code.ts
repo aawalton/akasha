@@ -11,7 +11,7 @@ import "@akasha/temper-eso-types/eso-globals"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 import { TEXT_TERTIARY } from "@akasha/design-tokens/text-color"
 import { requireAt } from "@akasha/utils-narrow/require-at"
 import {

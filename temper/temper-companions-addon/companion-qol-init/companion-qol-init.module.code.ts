@@ -23,7 +23,7 @@ import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
 import "@akasha/temper-eso-types/eso-lua-sandbox"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 import "../companion-qol-globals/companion-qol-globals.module.code.ts"
 
 import "../companion-qol-constants/companion-qol-constants.module.code.ts"

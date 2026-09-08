@@ -1,6 +1,6 @@
 import "@akasha/temper-eso-types/eso-functions-05"
 import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 
 import type {
   LoreLibraryCatalogBook,

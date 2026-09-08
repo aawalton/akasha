@@ -1,7 +1,7 @@
 import "@akasha/temper-eso-types/eso-functions-01"
 import "@akasha/temper-eso-types/eso-functions-09"
 import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 
 import type { CollectiblesCatalogData } from "@akasha/temper-capture-shapes/collectibles-catalog"
 import { runBatched } from "@akasha/temper-capture-writer/run-batched"

@@ -2,7 +2,7 @@ import "@akasha/temper-eso-types/eso-functions-04"
 import "@akasha/temper-eso-types/eso-functions-07"
 import "@akasha/temper-eso-types/eso-functions-09"
 import "@akasha/temper-eso-types/eso-globals"
-import "@akasha/temper-eso-types/tstl-language-extensions"
+import "@akasha/temper-eso-types/lua-language-extensions"
 
 import type { PoiCatalogEntry, PoiCatalogZone } from "@akasha/temper-capture-shapes/poi-catalog"
 import { registerCatalogDomain } from "@akasha/temper-catalog-core/domain-registry"
