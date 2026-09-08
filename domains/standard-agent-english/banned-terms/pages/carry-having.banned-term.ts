@@ -5,6 +5,7 @@ export const carryHaving = {
   pageTypeSlug: "banned-term",
   slug: "carry-having",
   spelling: "carry",
+  variants: ["carries", "carrying", "carried"],
   definition: "having something",
   instead: "have",
   replacementPatterns: [

@@ -5,6 +5,7 @@ export const holdInside = {
   pageTypeSlug: "banned-term",
   slug: "hold-inside",
   spelling: "hold",
+  variants: ["holds", "holding", "held"],
   definition: "having something inside",
   instead: "have",
   replacementPatterns: [
