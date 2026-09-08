@@ -8,6 +8,11 @@ export const dallaDraftIntoAPatch = {
   personaSlug: "dalla",
   intents: [
     {
+      statement: "The wide Edit type no longer exists.",
+      workingMemory:
+        "`FileEdit` is `{ path, body: Uint8Array | null, carried? }` at `command-system/landing/landing.module.code.ts:24`, reached by 26 files. Thirteen are the landing's own machinery; the rest compose an edit by hand. A change answers `Stated` instead, so the type goes once nothing composes an edit without naming a change. `pages/shadow/shadow.module.test.ts` declares a decoy of its own that sorts first in a search.",
+    },
+    {
       statement: "A file that is not text is refused rather than decoded into an edit.",
       workingMemory:
         "Landed as a refusal at `change.command.code.ts`, reusing `decodeUtf8` from `code-system/utf8-body`. Measured: of 121,768 tracked files exactly 80 fail a strict decode, all `.png`, two per persona. That refusal also blocks removing one, which was safe before, as a removal carries a null body. The precise route is declared already: `holdsBytes` is true on the two wallpaper file properties and nowhere else, and `no-raw-nul-bytes` reads it. A file declaring bytes is carried rather than decoded.",
