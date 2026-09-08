@@ -165,6 +165,13 @@
         "zod": "^4.3.6",
       },
     },
+    "alan/harness/sms-access": {
+      "name": "@akasha/sms-access",
+      "dependencies": {
+        "@akasha/pages": "workspace:*",
+        "@akasha/sms-core": "workspace:*",
+      },
+    },
     "alan/harness/supabase-auth": {
       "name": "@akasha/supabase-auth",
       "dependencies": {
@@ -1499,13 +1506,6 @@
         "@types/react-dom": "^19",
         "typescript": "^5.8.3",
         "vite": "^8.0.3",
-      },
-    },
-    "sms-access": {
-      "name": "@akasha/sms-access",
-      "dependencies": {
-        "@akasha/pages": "workspace:*",
-        "@akasha/sms-core": "workspace:*",
       },
     },
     "sms-core": {
@@ -3207,7 +3207,7 @@
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/smilingjenny-web"],
 
-    "@akasha/sms-access": ["@akasha/sms-access@workspace:sms-access"],
+    "@akasha/sms-access": ["@akasha/sms-access@workspace:alan/harness/sms-access"],
 
     "@akasha/sms-core": ["@akasha/sms-core@workspace:sms-core"],
 

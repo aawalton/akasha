@@ -24,7 +24,7 @@
         "**/*.ts"
       ]
     },
-    "sms-access": {
+    "alan/harness/sms-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
