@@ -38,5 +38,14 @@ export const moveFileOfAnyKind = {
       invariantKind: "absence",
       statement: "Nothing here works out a body of its own.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A path under a page type name is carried by the change carrying a page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path under a page property name is carried by the change carrying a page property.",
+    },
   ],
 } as const satisfies ChangeMechanical

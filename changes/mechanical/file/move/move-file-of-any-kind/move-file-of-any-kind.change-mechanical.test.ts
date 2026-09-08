@@ -15,10 +15,15 @@ const PLAIN = "akasha/one/notes.md"
 
 type Carried = { at: string; given: unknown }
 
+const UNDER = new Set(["text-property"])
+
 function worldOf(named: ReadonlySet<string>, carried: Carried): World {
   return {
     root: "/nowhere",
-    index: Object.assign({} as World["index"], { pageTypesIn: () => named }),
+    index: Object.assign({} as World["index"], {
+      pageTypesIn: () => named,
+      kindsUnder: () => UNDER,
+    }),
     textOf: () => null,
     under: () => [],
     base: () => null,
@@ -37,6 +42,22 @@ const PAGED = worldOf(new Set(["held"]), { at: "", given: null })
 
 test("a path under a page name is carried by the change carrying the files beside it", () => {
   expect(addressFor(PAGED, PAGE)).toBe("change-mechanical-file/move-file-page")
+})
+
+test("a path under a page type name is carried by the change carrying a page type", () => {
+  const world = worldOf(new Set(["page-type"]), { at: "", given: null })
+
+  expect(addressFor(world, "akasha/kept.page-type.ts")).toBe(
+    "change-mechanical/move-file-page-type"
+  )
+})
+
+test("a path under a page property name is carried by the change carrying a page property", () => {
+  const world = worldOf(new Set(["text-property"]), { at: "", given: null })
+
+  expect(addressFor(world, "akasha/properties/kept.text-property.ts")).toBe(
+    "change-mechanical/move-file-page-property"
+  )
 })
 
 test("every other TypeScript path is carried by the change judging the imports named", () => {
