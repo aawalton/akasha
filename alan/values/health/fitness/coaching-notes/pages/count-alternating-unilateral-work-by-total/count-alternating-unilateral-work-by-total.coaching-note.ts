@@ -1,8 +1,8 @@
-import type { CoachingConstraint } from "../../coaching-constraint.page-type.ts"
+import type { CoachingNote } from "../../coaching-note.page-type.ts"
 
 export const countAlternatingUnilateralWorkByTotal = {
   id: "019f01e1-b6f3-7191-aeae-18da9502b03a",
-  pageTypeSlug: "coaching-constraint",
+  pageTypeSlug: "coaching-note",
   slug: "count-alternating-unilateral-work-by-total",
   title: "Count alternating/unilateral work by TOTAL",
   coachingConstraintActive: true,
@@ -10,4 +10,4 @@ export const countAlternatingUnilateralWorkByTotal = {
   coachingConstraintKind: "ef-accommodation",
   coachingConstraintSortOrder: 4,
   asks: "txt",
-} as const satisfies CoachingConstraint
+} as const satisfies CoachingNote
