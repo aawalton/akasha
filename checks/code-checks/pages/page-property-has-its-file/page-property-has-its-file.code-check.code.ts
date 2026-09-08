@@ -1,6 +1,7 @@
 import { dirname, join } from "node:path"
 import type { Answering } from "@akasha/indexes/answering"
-import { type FilePropertiesBy, filesClaimedIn, type UncommittedBy } from "@akasha/indexes/entries"
+import type { FilePropertiesBy, UncommittedBy } from "@akasha/indexes/entries"
+import { filesClaimedIn } from "@akasha/indexes/path-claiming"
 import type { Change } from "@akasha/pages/change"
 import { pageNamed } from "@akasha/pages/page-file-name"
 import { valueIn } from "@akasha/pages/page-value"

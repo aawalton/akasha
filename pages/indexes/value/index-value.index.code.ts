@@ -1,6 +1,7 @@
 import { join } from "node:path"
 import { textAt, type Value } from "@akasha/pages/page-value"
-import { type Entry, under } from "../entries/index-entries.module.code.ts"
+import type { Entry } from "../entries/index-entries.module.code.ts"
+import { under } from "../path-claiming/path-claiming.module.code.ts"
 import { indexValue } from "./index-value.index.ts"
 
 const VALUE = indexValue.name

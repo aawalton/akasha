@@ -15,6 +15,7 @@ export const index = {
     "index/index-listing",
     "index/index-value",
     "module/path-naming",
+    "module/path-claiming",
     "page-type/index",
     "module/index-entries",
     "module/indexing",

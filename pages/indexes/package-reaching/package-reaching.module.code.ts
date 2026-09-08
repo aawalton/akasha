@@ -3,12 +3,8 @@ import { basename, dirname, join } from "node:path"
 import type { Naming } from "@akasha/code/code-specifier"
 import { reachesIn, reachingOver } from "@akasha/code/package-manifest"
 import type { Value } from "@akasha/pages/page-value"
-import {
-  type FilePropertiesBy,
-  fileKeysAt,
-  pathsOf,
-  under,
-} from "../entries/index-entries.module.code.ts"
+import { type FilePropertiesBy, fileKeysAt } from "../entries/index-entries.module.code.ts"
+import { pathsOf, under } from "../path-claiming/path-claiming.module.code.ts"
 import { carryingOf } from "../property-carrying/property-carrying.module.code.ts"
 import { everyPath, importersIn } from "../reading/index-reading.module.code.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"

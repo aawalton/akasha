@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
-import { filePropertiesIn, sidecarsIn } from "../entries/index-entries.module.code.ts"
+import { filePropertiesIn } from "../entries/index-entries.module.code.ts"
+import { sidecarsIn } from "../path-claiming/path-claiming.module.code.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
 import { type Besides, besidesTurned, pagesTurned } from "./beside-turning.module.code.ts"
 

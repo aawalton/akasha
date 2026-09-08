@@ -4,13 +4,9 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
 import type { Value } from "@akasha/pages/page-value"
+import { claimsOf, type IsThere, sidecarsIn } from "../path-claiming/path-claiming.module.code.ts"
 import type { Shaped } from "../reaching/reaching.module.code.ts"
-import {
-  claimsOf,
-  type FilePropertiesBy,
-  type IsThere,
-  sidecarsIn,
-} from "./index-entries.module.code.ts"
+import type { FilePropertiesBy } from "./index-entries.module.code.ts"
 
 export const A = "01a04b79-0000-7000-8000-00000000000a"
 export const B = "01a04b79-0000-7000-8000-00000000000b"

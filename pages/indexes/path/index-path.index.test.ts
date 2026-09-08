@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
-import type { Beside, FilePropertiesBy, SidecarsBy } from "../entries/index-entries.module.code.ts"
+import type { FilePropertiesBy } from "../entries/index-entries.module.code.ts"
 import { A } from "../entries/index-entries.module.test-fixtures.ts"
+import type { Beside, SidecarsBy } from "../path-claiming/path-claiming.module.code.ts"
 import { pathIn } from "./index-path.index.code.ts"
 
 const BESIDES: ReadonlyMap<string, Beside> = new Map()

@@ -1,6 +1,7 @@
 import { join } from "node:path"
 import { slugOf, textAt, type Value } from "@akasha/pages/page-value"
-import { type Entry, under } from "../entries/index-entries.module.code.ts"
+import type { Entry } from "../entries/index-entries.module.code.ts"
+import { under } from "../path-claiming/path-claiming.module.code.ts"
 import {
   namesIn,
   namesMortal,
@@ -37,8 +38,6 @@ export function relationIn(value: Value, path: string, known: Shaped, repo: stri
     for (const named of namesIn(one.held)) {
       const reached = reaches(named, wanted, known)
       if ("refused" in reached) {
-        // A page meant to be deleted outlives what it named, and a name for a page type meant to be
-        // deleted outlives the page it named. Neither is a fault, so neither is said.
         if (!dies && !namesMortal(named, wanted, known)) {
           refused.push(`${path}: \`${one.said}\` — ${reached.refused}`)
         }

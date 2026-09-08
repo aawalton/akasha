@@ -18,9 +18,6 @@ import {
   filePropertiesOver,
   type Identifier,
   pageTypesIn,
-  sidecarsIn,
-  sidecarsOver,
-  under,
   uniquePropertiesAt,
   uniquePropertiesIn,
 } from "../entries/index-entries.module.code.ts"
@@ -36,6 +33,7 @@ import {
 } from "../package-reaching/package-reaching.module.code.ts"
 import { claimingIn } from "../path/index-path.index.code.ts"
 import { indexPath } from "../path/index-path.index.ts"
+import { sidecarsIn, sidecarsOver, under } from "../path-claiming/path-claiming.module.code.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"
 import { everyPath, indexThere } from "../reading/index-reading.module.code.ts"
 import {

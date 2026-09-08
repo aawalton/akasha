@@ -1,12 +1,8 @@
 import { join } from "node:path"
 import type { Identifying } from "@akasha/pages/page-type-properties"
 import { textAt, type Value } from "@akasha/pages/page-value"
-import {
-  type Entry,
-  type Identifier,
-  type ScopedBy,
-  under,
-} from "../entries/index-entries.module.code.ts"
+import type { Entry, Identifier, ScopedBy } from "../entries/index-entries.module.code.ts"
+import { under } from "../path-claiming/path-claiming.module.code.ts"
 import { indexIdentity } from "./index-identity.index.ts"
 
 const IDENTITY = indexIdentity.name

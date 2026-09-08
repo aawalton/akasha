@@ -1,14 +1,13 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { textAt, type Value } from "@akasha/pages/page-value"
+import type { Entry, FilePropertiesBy } from "../entries/index-entries.module.code.ts"
 import {
   claimsOf,
-  type Entry,
-  type FilePropertiesBy,
   type IsThere,
   type SidecarsBy,
   under,
-} from "../entries/index-entries.module.code.ts"
+} from "../path-claiming/path-claiming.module.code.ts"
 import { indexPath } from "./index-path.index.ts"
 
 const PATH = indexPath.name

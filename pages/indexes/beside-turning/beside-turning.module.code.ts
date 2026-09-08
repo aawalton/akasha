@@ -1,4 +1,5 @@
-import type { FilePropertiesBy, SidecarsBy } from "../entries/index-entries.module.code.ts"
+import type { FilePropertiesBy } from "../entries/index-entries.module.code.ts"
+import type { SidecarsBy } from "../path-claiming/path-claiming.module.code.ts"
 import { type Valued, valuesOfType } from "../reading/index-reading.module.code.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
 

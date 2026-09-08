@@ -16,13 +16,12 @@ import {
   fileKeysAt,
   filePropertiesAt,
   pageTypesIn,
-  type SidecarsBy,
   schemaAt,
-  sidecarsOver,
   type UncommittedBy,
   uncommittedFiledAt,
 } from "../entries/index-entries.module.code.ts"
 import { manifestsBeside } from "../package-reaching/package-reaching.module.code.ts"
+import { type SidecarsBy, sidecarsOver } from "../path-claiming/path-claiming.module.code.ts"
 import {
   carryingOf,
   type Declaring,
