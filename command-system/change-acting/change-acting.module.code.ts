@@ -27,6 +27,12 @@ const STILL_HANDED = "edit(s) are still handed over by this subagent"
 
 const NONE_HANDED = "no subagent has handed edits to this agent"
 
+const HANDED_NONE = "has handed no edits to this agent"
+
+const NOTHING_HELD = "no edits are kept beside this agent's page"
+
+const KEPT_LANDS = "`akasha apply` lands these"
+
 const NO_SUBAGENT = "this call names no subagent whose handed edits would be reached"
 
 const HANDED_LANDS = "`akasha change take <subagent>` takes one of these into this agent's own"
@@ -173,21 +179,44 @@ export function dropping(root: string, page: string, said: readonly string[]): A
 export function waitingSaid(root: string, page: string): readonly string[] {
   const many = handedUnder(root, page).length
   if (many === 0) return []
-  return [`${String(many)} subagent(s) handed edits over, which \`akasha change handed\` names`]
+  return [`${String(many)} subagent(s) handed edits over, which \`akasha change list\` names`]
 }
 
 function heldFor(root: string, page: string, under: string): string | null {
   return handedUnder(root, page).includes(under) ? handedPageOf(under) : null
 }
 
-export function listing(root: string, page: string): Answer {
+function handedSaid(root: string, page: string): readonly string[] {
   const under = handedUnder(root, page)
-  if (under.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
+  if (under.length === 0) return []
   const said = under.map((one) => {
     const held = editsIn(root, handedPageOf(one))
     return `${one} handed ${String("why" in held ? 0 : held.rows.length)} edit(s) over`
   })
-  return { report: [...said, HANDED_LANDS], refusals: [], code: 0 }
+  return [...said, HANDED_LANDS]
+}
+
+export function listing(root: string, page: string): Answer {
+  const said = handedSaid(root, page)
+  if (said.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
+  return { report: said, refusals: [], code: 0 }
+}
+
+export function listingKept(root: string, page: string): Answer {
+  const held = editsIn(root, page)
+  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
+  const own =
+    held.rows.length === 0 ? [NOTHING_HELD] : [...held.rows.map(saidOf).sort(), KEPT_LANDS]
+  return { report: [...own, ...handedSaid(root, page)], refusals: [], code: 0 }
+}
+
+export function listingHanded(root: string, page: string, under: string): Answer {
+  const at = heldFor(root, page, under)
+  if (at === null) return { report: [`${under} ${HANDED_NONE}`], refusals: [], code: 0 }
+  const held = editsIn(root, at)
+  if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
+  if (held.rows.length === 0) return { report: [`${under} ${HANDED_NONE}`], refusals: [], code: 0 }
+  return { report: [...held.rows.map(saidOf).sort(), HANDED_LANDS], refusals: [], code: 0 }
 }
 
 type Held = {

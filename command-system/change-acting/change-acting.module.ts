@@ -53,6 +53,22 @@ export const changeActing = {
       statement: "A drop leaves every edit a subagent handed over.",
     },
     {
+      invariantKind: "departure",
+      statement: "A listing of the edits kept names each edit and the call landing those edits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That listing names each subagent holding edits for this agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A listing of one subagent's handed edits names each of those edits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How a subagent's handed edits are counted is worked out in one place.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads an argument off the command line.",
     },
