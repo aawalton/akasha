@@ -33,7 +33,7 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
   {
     struct: "Categorization",
     canonical: {
-      file: "readout-system/readout-body/readout-body.module.code.ts",
+      file: "readouts/body/readout-body.module.code.ts",
       anchor: "export type RingCounts = {",
       kind: "members",
     },
@@ -42,7 +42,7 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
   {
     struct: "BacklogScale",
     canonical: {
-      file: "readout-system/readout-body/readout-body.module.code.ts",
+      file: "readouts/body/readout-body.module.code.ts",
       anchor: "export type RingScale = {",
       kind: "members",
     },
