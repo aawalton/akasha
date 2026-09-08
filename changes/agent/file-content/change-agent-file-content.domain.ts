@@ -13,7 +13,7 @@ export const changeAgentFileContent = {
     "change-agent/remove-package-alias",
     "change-agent/remove-property-value",
     "change-agent/rename-code-token",
-    "change-checked/rename-package",
+    "change-agent/rename-package",
     "change-agent/change-page-property-text",
   ],
 } as const satisfies Domain

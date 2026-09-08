@@ -14,7 +14,7 @@ import {
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Replacing, Said } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { aliasIn, nameFor } from "../rename-package/rename-package.change-checked.code.ts"
+import { aliasIn, nameFor } from "../rename-package/rename-package.change-agent.code.ts"
 
 const AT = "at"
 

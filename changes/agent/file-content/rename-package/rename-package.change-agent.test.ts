@@ -6,7 +6,7 @@ import {
   type World,
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { renamePackage, runChange } from "./rename-package.change-checked.code.ts"
+import { renamePackage, runChange } from "./rename-package.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 
