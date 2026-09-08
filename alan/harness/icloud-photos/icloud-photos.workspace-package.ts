@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const icloudPhotos = {
   id: "01a06585-5f39-7952-9837-205f11953eba",
