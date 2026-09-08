@@ -173,5 +173,6 @@ export const alanWeb = {
     "route/alan-web-api-media-variants",
     "route/alan-web-api-media-marks",
     "route/alan-web-api-media-ensure",
+    "route/alan-web-api-media-hls-playlist",
   ],
 } as const satisfies RouterApp

@@ -3,13 +3,12 @@ import { type ObjectStore, seaweedFSObjectStoreFromEnv } from "@akasha/object-st
 import { mediaTokenSecret, verifyMediaToken } from "@akasha/pages-ui/media/media-token"
 import { MEDIA_VARIANT_PATTERN, mediaPageExists } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
-import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
-import { forwardedOrigin } from "../forwarded-origin/forwarded-origin.module.code.ts"
-import { ensureHlsPlaylist } from "../hls-render/hls-render.module.code.ts"
-import { resolveChapterKokoroSegments } from "../kokoro-render/kokoro-render.module.code.ts"
-import { MEDIA_UUID_PATTERN, resolveMediaPage } from "../media-page/media-page.module.code.ts"
-import { rewriteHlsPlaylist } from "../rewrite-hls-playlist/rewrite-hls-playlist.module.code.ts"
-import type { Route } from "./+types/api.media.$pageId.$medium.hls.m3u8"
+import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
+import { forwardedOrigin } from "../../forwarded-origin/forwarded-origin.module.code.ts"
+import { ensureHlsPlaylist } from "../../hls-render/hls-render.module.code.ts"
+import { resolveChapterKokoroSegments } from "../../kokoro-render/kokoro-render.module.code.ts"
+import { MEDIA_UUID_PATTERN, resolveMediaPage } from "../../media-page/media-page.module.code.ts"
+import { rewriteHlsPlaylist } from "../../rewrite-hls-playlist/rewrite-hls-playlist.module.code.ts"
 
 async function readPlaylist(
   store: ObjectStore,
@@ -32,7 +31,13 @@ async function resolveChapterSegments(
   return resolveChapterKokoroSegments(pageId, found.pageTypeSlug, { fromSentenceIndex })
 }
 
-export async function loader({ params, request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({
+  params,
+  request,
+}: {
+  params: { pageId: string; medium: string }
+  request: Request
+}): Promise<Response> {
   const cors = capacitorCorsHeaders(request, "GET, OPTIONS")
   if (request.method === "OPTIONS") {
     return new Response(null, { status: 204, headers: withCors(new Headers(), cors) })
@@ -90,11 +95,11 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   const segments = await resolveChapterSegments(pageId, fromSentence)
   if (segments == null) return respond("Not Found", 404)
 
-  const { status } = await ensureHlsPlaylist(pageId, segments, store, { fromSentence })
-  if (status === "live") {
+  const { status: made } = await ensureHlsPlaylist(pageId, segments, store, { fromSentence })
+  if (made === "live") {
     const published = await readPlaylist(store, pageId, fromSentence)
     if (published != null) return playlistBody(published)
   }
-  if (status === "unavailable") return respond("Not Found", 404)
+  if (made === "unavailable") return respond("Not Found", 404)
   return respond("Generating", 503, { "Retry-After": "1", "Cache-Control": "no-store" })
 }

@@ -59,7 +59,10 @@ export default [
     "api/media/:pageId/:medium/marks",
     "routes/alan-web-api-media-marks/alan-web-api-media-marks.route.code.ts"
   ),
-  route("api/media/:pageId/:medium/hls.m3u8", "routes/api.media.$pageId.$medium.hls.m3u8.ts"),
+  route(
+    "api/media/:pageId/:medium/hls.m3u8",
+    "routes/alan-web-api-media-hls-playlist/alan-web-api-media-hls-playlist.route.code.ts"
+  ),
   route(
     "api/media/:pageId/:medium/hls/:segment",
     "routes/api.media.$pageId.$medium.hls.$segment.ts"
