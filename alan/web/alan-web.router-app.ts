@@ -15,6 +15,7 @@ export const alanWeb = {
   viteConfig: "ts",
   server: "ts",
   sidebarBoot: "js",
+  siteIcon: "svg",
   partSlugs: [
     "manifest/alanwalton-web",
     "stylesheet/alan-web-look",
