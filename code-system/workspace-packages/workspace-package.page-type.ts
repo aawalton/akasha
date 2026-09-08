@@ -1,11 +1,13 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
+import type { DockerfileExtensions } from "./properties/dockerfile-extensions.named-file-property.ts"
 import type { Manifest } from "./properties/manifest.named-file-property.ts"
 import type { TunnelRoutes } from "./properties/tunnel-routes.named-file-property.ts"
 
 export type WorkspacePackage = Domain & {
   manifest: Manifest
   tunnelRoutes?: TunnelRoutes
+  dockerfileExtensions?: DockerfileExtensions
 }
 
 export const workspacePackage = {
@@ -14,11 +16,16 @@ export const workspacePackage = {
   slug: "workspace-package",
   definition: "a domain the workspace installs as one",
   pluralSlug: "workspace-packages",
-  partSlugs: ["named-file-property/manifest", "named-file-property/tunnel-routes"],
+  partSlugs: [
+    "named-file-property/dockerfile-extensions",
+    "named-file-property/manifest",
+    "named-file-property/tunnel-routes",
+  ],
   extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "named-file-property/manifest", required: true, many: false },
     { pagePropertySlug: "named-file-property/tunnel-routes", required: false, many: false },
+    { pagePropertySlug: "named-file-property/dockerfile-extensions", required: false, many: false },
   ],
   invariants: [
     {
