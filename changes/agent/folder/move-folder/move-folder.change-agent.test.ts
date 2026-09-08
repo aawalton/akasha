@@ -3,12 +3,13 @@ import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { bodiesFrom } from "@akasha/command-system/edits-landing"
 import { carriedOnto } from "@akasha/command-system/path-carrying"
-import { indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import { indexedRepo, pageOf, scratch } from "@akasha/indexes/indexing/testing"
 import { runChange as moveFile } from "../../../mechanical/file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as moveFolderMechanical } from "../../../mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
 import { pathsIn } from "../../../modules/change-answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { bodyIn } from "../../../modules/edits-keeping/edits-keeping.module.code.ts"
 import { moveFolder, runChange } from "./move-folder.change-agent.code.ts"
 
 afterAll(scratch.sweep)
@@ -65,7 +66,7 @@ const MOVE_FILE = "change-mechanical-file/move-file"
 const MOVE_FOLDER = "change-mechanical-folder/move-folder"
 
 function worldIn(root: string): World {
-  return worldAt(root, textIn(root), async (world, at, given) => {
+  return worldAt(root, bodyIn(root), async (world, at, given) => {
     if (at === MOVE_FOLDER) {
       return await moveFolderMechanical(world, given as Parameters<typeof moveFolderMechanical>[1])
     }
@@ -115,7 +116,7 @@ test("an argument the change was handed no value for is refused by its key", asy
 test("the whole carry is left to the change reached at its address", async () => {
   const reached: string[] = []
   const root = indexedRepo(HELD)
-  const world = worldAt(root, textIn(root), (_world, at) => {
+  const world = worldAt(root, bodyIn(root), (_world, at) => {
     reached.push(at)
     return Promise.resolve({ edits: [], refused: null })
   })
