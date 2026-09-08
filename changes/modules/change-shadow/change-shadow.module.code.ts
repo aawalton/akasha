@@ -25,6 +25,7 @@ export type World = {
   readonly root: string
   readonly index: Answering
   readonly textOf: (path: string) => string | null
+  readonly base: BodyOf
   readonly over: Answer
   readonly reaching?: Reaching
 }
@@ -74,7 +75,7 @@ export function worldAt(
   textOf: (path: string) => string | null,
   reaching: Reaching = REACHES_NOTHING
 ): World {
-  return { root, index: shadowAt(root).index, textOf, over: NOTHING_OVER, reaching }
+  return { root, index: shadowAt(root).index, textOf, base: textOf, over: NOTHING_OVER, reaching }
 }
 
 export function worldOver(world: World, said: Answer): World {
@@ -86,6 +87,7 @@ export function worldOver(world: World, said: Answer): World {
     root: world.root,
     index,
     textOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.textOf(path)),
+    base: world.base,
     over,
     reaching: world.reaching,
   }
@@ -134,6 +136,7 @@ export function ledgerAt(
     kept,
     root,
     reaching,
+    base: textOf,
     get index(): Answering {
       if (kept.index === null) kept.index = settledIn(kept)
       return kept.index

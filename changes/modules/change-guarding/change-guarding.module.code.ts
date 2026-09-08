@@ -32,16 +32,9 @@ export function judging(
 }
 
 export function holdsAfter(given: Guarding, path: string): boolean {
-  let moved = false
-  for (const one of given.said.edits) {
-    if (one.kind === "move") {
-      if (one.pathTo === path) return true
-      if (one.pathFrom === path) moved = true
-      continue
-    }
-    if (one.path === path) return one.kind !== "remove"
-  }
-  return moved ? false : given.before.textOf(path) !== null
+  const held = replayed(given.said, given.before.textOf)
+  if ("refused" in held || !held.has(path)) return given.before.textOf(path) !== null
+  return held.get(path) !== null
 }
 
 export function writtenIn(given: Guarding): ReadonlyMap<string, string> {
@@ -56,7 +49,7 @@ export function guardedBy(world: World, said: Answer, guards: readonly Guard[]):
   if (said.refused !== null || guards.length === 0) return said
   const whole = gathered([world.over, said])
   if (whole.refused !== null) return refusing(whole.refused)
-  const cast = shadowOver(world.root, whole, world.textOf)
+  const cast = shadowOver(world.root, whole, world.base)
   if ("refused" in cast) return refusing(NOT_WORKED_OUT)
   const given: Guarding = { said, shadow: cast.shadow, before: world }
   for (const guard of guards) {
