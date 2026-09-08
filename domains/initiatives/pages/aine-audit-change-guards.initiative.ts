@@ -8,12 +8,6 @@ export const aineAuditChangeGuards = {
   personaSlug: "aine",
   intents: [
     {
-      statement:
-        "A content change is judged by the guards that judge an edge into the body that change leaves.",
-      workingMemory:
-        "`change-page-page-property` names no guard and restates any key, `slug` included. `rename-page-slug` reaches it for exactly that and repoints the namers afterwards, so a guard on that rung would refuse the rename's own middle step. Such a guard belongs on the outermost mechanical change of a family rather than on a rung a composition passes through. `relation-not-left-hanging` cannot see the hanging name at all, a name that no longer resolves being no namer.\n",
-    },
-    {
       statement: "The mode a change runs in is factored out of the changes that carry one.",
       workingMemory:
         "The three flags a run mode is made of, `runsChecks`, `readersOweReading` and `writerOwesReading`, are stated on every change page though `change-mechanical` narrows all three to false. A declaration default cannot carry them: `default-value` says a default does not make a required property optional, and nothing turns a default's text into a boolean. `page-matches-its-type` excuses a computed property, so reading the three off the change kind is the way out.\n",
