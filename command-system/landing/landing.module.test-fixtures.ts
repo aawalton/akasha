@@ -1,5 +1,5 @@
 import { expect } from "bun:test"
-import { chmodSync, existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { editsAt } from "@akasha/changes/edits-keeping"
 import type { Judged, Judging } from "@akasha/checks/judging"
@@ -125,15 +125,27 @@ const HELD_OUT = "deep/held.uncommitted.json"
 
 const KEPT_OUT = "kept.uncommitted.json"
 
+const PROPOSED = "proposed"
+
+const OBJECTS = ".git/objects"
+
+const FANOUT = 2
+
 export const IGNORED_OUT: readonly string[] = [".gitignore", "new.txt", "one.txt"]
 
 const SPLIT: readonly FileEdit[] = [
-  { path: "new.txt", body: bytesOf("proposed") },
+  { path: "new.txt", body: bytesOf(PROPOSED) },
   { path: HELD_OUT, body: bytesOf("unsaid") },
 ]
 
 function ignoringRepo(): string {
   return repoWith({ ".gitignore": "*.uncommitted.*\n", "one.txt": "committed" })
+}
+
+function objectsShut(root: string, body: string): undefined {
+  git(root, ["repack", "-a", "-d", "--quiet"])
+  const oid = git(root, ["hash-object", "--stdin"], { stdin: bytesOf(body) }).trim()
+  writeFileSync(join(root, OBJECTS, oid.slice(0, FANOUT)), "")
 }
 
 export async function splitLanded(): Promise<{
@@ -155,22 +167,18 @@ export async function splitLanded(): Promise<{
 export async function splitKept(): Promise<string | null> {
   const root = ignoringRepo()
   writeFileSync(join(root, KEPT_OUT), "was")
-  const at = join(root, ".git/objects")
-  chmodSync(at, 0o500)
+  objectsShut(root, PROPOSED)
   try {
     await landing(
       root,
       [
-        { path: "new.txt", body: bytesOf("proposed") },
+        { path: "new.txt", body: bytesOf(PROPOSED) },
         { path: KEPT_OUT, body: bytesOf("now") },
       ],
       "held",
       ADMITS
     )
-  } catch {
-  } finally {
-    chmodSync(at, 0o700)
-  }
+  } catch {}
   const full = join(root, KEPT_OUT)
   return existsSync(full) ? readFileSync(full, "utf8") : null
 }
@@ -180,15 +188,12 @@ export async function splitThrew(): Promise<{
   readonly left: readonly string[]
 }> {
   const root = ignoringRepo()
-  const at = join(root, ".git/objects")
-  chmodSync(at, 0o500)
+  objectsShut(root, PROPOSED)
   let why = ""
   try {
     await landing(root, SPLIT, "held", ADMITS)
   } catch (thrown) {
     why = thrown instanceof Error ? thrown.message : String(thrown)
-  } finally {
-    chmodSync(at, 0o700)
   }
   const might = [HELD_OUT, "new.txt", "deep"]
   return { why, left: might.filter((one) => existsSync(join(root, one))) }

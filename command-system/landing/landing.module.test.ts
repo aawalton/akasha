@@ -284,7 +284,7 @@ test("a commit that throws leaves the body an ignored path already held", async 
 
 test("a commit that throws leaves no trace of the path the repository ignores", async () => {
   const said = await splitThrew()
-  expect(said.why).toContain("insufficient permission")
+  expect(said.why).toContain("Unable to add")
   expect(said.left).toEqual([])
 })
 

@@ -65,5 +65,9 @@ export const testOverlay = {
       invariantKind: "absence",
       statement: "Nothing here spawns a runner.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The run inside is root in that namespace, so no file mode refuses it.",
+    },
   ],
 } as const satisfies Module
