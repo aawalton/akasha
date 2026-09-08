@@ -1,11 +1,14 @@
 import { expect, test } from "bun:test"
-import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { restated } from "./change-page-property.change-mechanical-file-content.code.ts"
 
 function ranOn(path: string, text: string, key: string, to: string): Answer {
-  return widened(restated(path, text, key, to), (asked) => (asked === path ? text : null))
+  return restated(path, text, key, to)
+}
+
+function textOn(path: string, text: string, key: string, to: string): string {
+  return bodyOf(ranOn(path, text, key, to), (asked) => (asked === path ? text : null))
 }
 
 const AT = "akasha/held/kept.page-type.ts"
@@ -22,20 +25,13 @@ export const kept = {
 `
 
 test("a key's text is stated anew", () => {
-  const said = ranOn(AT, BODY, "pluralSlug", "change-atomic")
-  expect(bodyOf(said)).toContain(`pluralSlug: "change-atomic",`)
+  const said = textOn(AT, BODY, "pluralSlug", "change-atomic")
+  expect(said).toContain(`pluralSlug: "change-atomic",`)
 })
 
 test("one key is restated and the rest of the body is left as it is", () => {
-  const said = ranOn(AT, BODY, "pluralSlug", "change-atomic")
-  expect(bodyOf(said)).toBe(BODY.replace(`"kepts"`, `"change-atomic"`))
-})
-
-test("the body is answered under the path it was worked out from", () => {
-  const said = ranOn(AT, BODY, "pluralSlug", "change-atomic")
-  expect(said.edits[0]?.path).toBe(AT)
-  expect(said.edits[0]?.was).toBe(BODY)
-  expect(said.edits[0]?.from).toBe(undefined)
+  const said = textOn(AT, BODY, "pluralSlug", "change-atomic")
+  expect(said).toBe(BODY.replace(`"kepts"`, `"change-atomic"`))
 })
 
 test("the whole body is stated each side rather than the passage under that key", () => {
@@ -69,15 +65,15 @@ test("a key stating what was asked for already is refused", () => {
 })
 
 test("the text is written back quoted", () => {
-  const said = ranOn(AT, BODY, "slug", 'has "quotes"')
-  expect(bodyOf(said)).toContain(`slug: "has \\"quotes\\"",`)
+  const said = textOn(AT, BODY, "slug", 'has "quotes"')
+  expect(said).toContain(`slug: "has \\"quotes\\"",`)
 })
 
 test("an object above the exported one is not read", () => {
   const held = `const held = { slug: "wrong" }\n${BODY}`
-  const said = ranOn(AT, held, "slug", "change-atomic")
-  expect(bodyOf(said)).toContain(`const held = { slug: "wrong" }`)
-  expect(bodyOf(said)).toContain(`slug: "change-atomic",`)
+  const said = textOn(AT, held, "slug", "change-atomic")
+  expect(said).toContain(`const held = { slug: "wrong" }`)
+  expect(said).toContain(`slug: "change-atomic",`)
 })
 
 test("nothing here judges whether that key may be restated", () => {

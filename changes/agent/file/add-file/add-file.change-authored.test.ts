@@ -21,6 +21,7 @@ function worldOf(held: Readonly<Record<string, string>>): World {
     root: "/nowhere",
     index: Object.assign({} as World["index"], { pageTypesIn: () => new Set<string>() }),
     textOf: (path) => held[path] ?? null,
+    base: (path) => held[path] ?? null,
     over: NOTHING_OVER,
     reaching: REACHING,
   }
@@ -30,7 +31,7 @@ test("the arguments naming a path and a body are answered as one edit", async ()
   const said = await addFileCommand(worldOf({}), { at: PLAIN, body: "alpha\n" })
 
   expect(said.refused).toBeNull()
-  expect(said.edits).toEqual([{ path: PLAIN, was: null, body: "alpha\n" }])
+  expect(said.edits).toEqual([{ kind: "add", path: PLAIN, content: "alpha\n" }])
 })
 
 test("arguments holding no path are refused by the name of the argument", async () => {

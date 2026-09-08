@@ -1,16 +1,11 @@
 import { expect, test } from "bun:test"
-import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { pathsIn } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type World,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { addPropertyValue as adding } from "./add-property-value.change-mechanical-file-content.code.ts"
-
-function addPropertyValue(world: World, given: Parameters<typeof adding>[1]): Answer {
-  return widened(adding(world, given), world.textOf)
-}
+import { addPropertyValue } from "./add-property-value.change-mechanical-file-content.code.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
 
@@ -41,7 +36,13 @@ const GAINED_LAST = `${OPENING}  partSlugs: ["kept/one", "kept/two"],
 `
 
 function worldOf(text: string | null): World {
-  return { root: "/nowhere", index: null as never, textOf: () => text, over: NOTHING_OVER }
+  return {
+    root: "/nowhere",
+    index: null as never,
+    textOf: () => text,
+    base: () => text,
+    over: NOTHING_OVER,
+  }
 }
 
 test("a value is put after the values the property already holds", () => {
@@ -51,27 +52,25 @@ test("a value is put after the values the property already holds", () => {
     value: "kept/three",
   })
 
-  expect(bodyOf(said)).toContain(`["kept/one", "kept/two", "kept/three"]`)
+  expect(bodyOf(said, () => BODY)).toContain(`["kept/one", "kept/two", "kept/three"]`)
 })
 
 test("the rest of the body is left as the body was", () => {
   const said = addPropertyValue(worldOf(BODY), { at: AT, key: "partSlugs", value: "kept/three" })
 
-  expect(bodyOf(said)).toBe(BODY.replace(`"kept/two"`, `"kept/two", "kept/three"`))
+  expect(bodyOf(said, () => BODY)).toBe(BODY.replace(`"kept/two"`, `"kept/two", "kept/three"`))
 })
 
 test("a property holding no value yet takes the first value", () => {
   const said = addPropertyValue(worldOf(EMPTY), { at: AT, key: "partSlugs", value: "kept/one" })
 
-  expect(bodyOf(said)).toContain(`partSlugs: ["kept/one"],`)
+  expect(bodyOf(said, () => EMPTY)).toContain(`partSlugs: ["kept/one"],`)
 })
 
 test("the body is answered under the path the body was worked out from", () => {
   const said = addPropertyValue(worldOf(BODY), { at: AT, key: "partSlugs", value: "kept/three" })
 
-  expect(said.edits[0]?.path).toBe(AT)
-  expect(said.edits[0]?.was).toBe(BODY)
-  expect(said.edits[0]?.from).toBe(undefined)
+  expect(pathsIn(said)).toEqual([AT])
 })
 
 test("a value the property holds already is refused", () => {
@@ -96,7 +95,7 @@ test("a page stating no such key gains that key after the property `after` names
     after: "slug",
   })
 
-  expect(bodyOf(said)).toBe(GAINED_AFTER_SLUG)
+  expect(bodyOf(said, () => BODY)).toBe(GAINED_AFTER_SLUG)
 })
 
 test("a key the page gains is written last where `after` names no such property", () => {
@@ -107,7 +106,7 @@ test("a key the page gains is written last where `after` names no such property"
     after: "definition",
   })
 
-  expect(bodyOf(said)).toBe(GAINED_LAST)
+  expect(bodyOf(said, () => BODY)).toBe(GAINED_LAST)
 })
 
 test("a key the page gains is written last where no `after` is stated", () => {
@@ -117,7 +116,7 @@ test("a key the page gains is written last where no `after` is stated", () => {
     value: "page-type/page",
   })
 
-  expect(bodyOf(said)).toBe(GAINED_LAST)
+  expect(bodyOf(said, () => BODY)).toBe(GAINED_LAST)
 })
 
 test("a body exporting no object is refused", () => {

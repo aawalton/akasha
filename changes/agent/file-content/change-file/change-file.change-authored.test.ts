@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { runChange as changeFile } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
-import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
@@ -14,7 +14,7 @@ type Passage = { at: string; old: string; new: string }
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-file-content") {
-    return Promise.resolve(widened(changeFile(world, given as Passage), world.textOf))
+    return Promise.resolve(changeFile(world, given as Passage))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
@@ -24,6 +24,7 @@ function worldOf(held: Readonly<Record<string, string>>): World {
     root: "/nowhere",
     index: {} as World["index"],
     textOf: (path) => held[path] ?? null,
+    base: (path) => held[path] ?? null,
     over: NOTHING_OVER,
     reaching: RUNS,
   }
@@ -37,7 +38,7 @@ test("the arguments naming a path and two passages are answered as one edit", as
   })
 
   expect(said.refused).toBeNull()
-  expect(said.edits).toEqual([{ path: AT, was: "one two\n", body: "one four\n" }])
+  expect(said.edits).toEqual([{ kind: "replace", path: AT, contentFrom: "two", contentTo: "four" }])
 })
 
 test("arguments holding no path are refused by the name of the argument", async () => {

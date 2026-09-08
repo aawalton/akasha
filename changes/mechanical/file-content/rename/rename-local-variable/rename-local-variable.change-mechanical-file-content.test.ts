@@ -1,22 +1,16 @@
 import { expect, test } from "bun:test"
-import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { renameLocalVariable } from "./rename-local-variable.change-mechanical-file-content.code.ts"
 
 const AT = "/repo/one.ts"
 
 function ranOn(text: string, of: string, to: string): Answer {
-  const said = renameLocalVariable(AT, text, { at: text.indexOf(of), to })
-  return widened(said, (path) => (path === AT ? text : null))
+  return renameLocalVariable(AT, text, { at: text.indexOf(of), to })
 }
 
-function bodyOf(text: string, of: string, to: string): string {
-  const answered = ranOn(text, of, to)
-  expect(answered.refused).toBe(null)
-  expect(answered.edits).toHaveLength(1)
-  expect(answered.edits[0]?.path).toBe(AT)
-  expect(answered.edits[0]?.was).toBe(text)
-  return answered.edits[0]?.body ?? ""
+function bodyIn(text: string, of: string, to: string): string {
+  return bodyOf(ranOn(text, of, to), (path) => (path === AT ? text : null))
 }
 
 function whyOf(text: string, of: string, to: string): string {
@@ -27,28 +21,28 @@ function whyOf(text: string, of: string, to: string): string {
 
 test("a local const and its references are spelled anew", () => {
   const text = "export function f(): number {\n  const n = 1\n  return n + n\n}\n"
-  expect(bodyOf(text, "n = 1", "total")).toBe(
+  expect(bodyIn(text, "n = 1", "total")).toBe(
     "export function f(): number {\n  const total = 1\n  return total + total\n}\n"
   )
 })
 
 test("a parameter is renamed where its references are", () => {
   const text = "export function f(n: number): number {\n  return n + 1\n}\n"
-  expect(bodyOf(text, "n: number", "count")).toBe(
+  expect(bodyIn(text, "n: number", "count")).toBe(
     "export function f(count: number): number {\n  return count + 1\n}\n"
   )
 })
 
 test("a shorthand property keeps its key", () => {
   const text = "export function f(): object {\n  const n = 1\n  return { n }\n}\n"
-  expect(bodyOf(text, "n = 1", "total")).toBe(
+  expect(bodyIn(text, "n = 1", "total")).toBe(
     "export function f(): object {\n  const total = 1\n  return { n: total }\n}\n"
   )
 })
 
 test("a property of the same name is left alone", () => {
   const text = "export function f(o: { n: number }): number {\n  const n = 1\n  return o.n + n\n}\n"
-  expect(bodyOf(text, "n = 1", "total")).toBe(
+  expect(bodyIn(text, "n = 1", "total")).toBe(
     "export function f(o: { n: number }): number {\n  const total = 1\n  return o.n + total\n}\n"
   )
 })

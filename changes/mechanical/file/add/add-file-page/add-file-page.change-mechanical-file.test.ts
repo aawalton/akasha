@@ -16,7 +16,7 @@ test("a page path is written by the change this change reaches", async () => {
   const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
 
   expect(said.refused).toBe(null)
-  expect(said.edits).toEqual([{ path: at, was: null, body: BODY }])
+  expect(said.edits).toEqual([{ kind: "add", path: at, content: BODY }])
 })
 
 test("a path beside a page is refused", async () => {

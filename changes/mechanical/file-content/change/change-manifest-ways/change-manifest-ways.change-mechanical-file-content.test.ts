@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
-import { gathered, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { gathered, pathsIn } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import {
   landingFor,
   renameManifestWays,
@@ -36,16 +37,16 @@ const BROKEN = `{
   "exports": {
 `
 
-function saidOf(moved: Record<string, string>, text: string): Answer {
-  const textOf = (path: string): string | null => (path === AT ? text : null)
-  return gathered([widened(renameManifestWays({ at: AT, moved }, textOf), textOf)])
+function textIn(text: string): (path: string) => string | null {
+  return (path) => (path === AT ? text : null)
 }
 
-function bodyOf(moved: Record<string, string>, text: string): string {
-  const said = saidOf(moved, text)
-  expect(said.refused).toBeNull()
-  expect(said.edits).toHaveLength(1)
-  return said.edits[0]?.body ?? ""
+function saidOf(moved: Record<string, string>, text: string): Answer {
+  return gathered([renameManifestWays({ at: AT, moved }, textIn(text))])
+}
+
+function bodyIn(moved: Record<string, string>, text: string): string {
+  return bodyOf(saidOf(moved, text), textIn(text))
 }
 
 function waysOf(body: string): Record<string, string> {
@@ -53,7 +54,7 @@ function waysOf(body: string): Record<string, string> {
 }
 
 test("a way in whose file moved inside the package points at where the file went", () => {
-  const said = bodyOf(
+  const said = bodyIn(
     { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
     BODY
   )
@@ -62,14 +63,14 @@ test("a way in whose file moved inside the package points at where the file went
 })
 
 test("a way in whose file landed outside the package is dropped", () => {
-  const said = bodyOf({ "seat-system/beta/beta.module.code.ts": "other/beta.module.code.ts" }, BODY)
+  const said = bodyIn({ "seat-system/beta/beta.module.code.ts": "other/beta.module.code.ts" }, BODY)
 
   expect(said).toBe(BODY.replace(`\n    "./beta": "./beta/beta.module.code.ts",`, ""))
   expect(Object.keys(waysOf(said))).toEqual(["./alpha", "./gamma"])
 })
 
 test("the last way in is dropped and what stays reads as JSON", () => {
-  const said = bodyOf(
+  const said = bodyIn(
     { "seat-system/gamma/gamma.module.code.ts": "other/gamma.module.code.ts" },
     BODY
   )
@@ -78,7 +79,7 @@ test("the last way in is dropped and what stays reads as JSON", () => {
 })
 
 test("every way in is dropped and the exports key stays", () => {
-  const said = bodyOf(
+  const said = bodyIn(
     {
       "seat-system/alpha/alpha.module.code.ts": "other/alpha.module.code.ts",
       "seat-system/beta/beta.module.code.ts": "other/beta.module.code.ts",
@@ -99,14 +100,13 @@ test("a manifest that moves carries every way in to where the files landed", () 
   }
   const said = saidOf(moved, BODY)
 
-  expect(said.edits[0]?.from).toBe(AT)
-  expect(said.edits[0]?.path).toBe("held/package.json")
-  expect(bodyOf(moved, BODY)).toBe(BODY)
+  expect(said.edits[0]).toEqual({ kind: "move", pathFrom: AT, pathTo: "held/package.json" })
+  expect(bodyIn(moved, BODY)).toBe(BODY)
 })
 
 test("the spacing the manifest already carries is kept", () => {
   const text = `{"name":"one","exports":{"./beta":"./beta/beta.module.code.ts"}}`
-  const said = bodyOf(
+  const said = bodyIn(
     { "seat-system/beta/beta.module.code.ts": "seat-system/held/beta.module.code.ts" },
     text
   )
@@ -115,7 +115,7 @@ test("the spacing the manifest already carries is kept", () => {
 })
 
 test("a manifest stating one way in as text follows the file that way in names", () => {
-  const said = bodyOf(
+  const said = bodyIn(
     { "seat-system/alpha/alpha.module.code.ts": "seat-system/held/alpha.module.code.ts" },
     ONE_WAY
   )
@@ -126,7 +126,7 @@ test("a manifest stating one way in as text follows the file that way in names",
 })
 
 test("a way in stated as text and landed outside goes with the exports key", () => {
-  const said = bodyOf(
+  const said = bodyIn(
     { "seat-system/alpha/alpha.module.code.ts": "other/alpha.module.code.ts" },
     ONE_WAY
   )
@@ -177,9 +177,7 @@ test("a manifest that stays is answered under the path the body was read from", 
     BODY
   )
 
-  expect(said.edits[0]?.path).toBe(AT)
-  expect(said.edits[0]?.was).toBe(BODY)
-  expect(said.edits[0]?.from).toBe(undefined)
+  expect(pathsIn(said)).toEqual([AT])
 })
 
 test("a landing is read against the folder the manifest arrives in", () => {

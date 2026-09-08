@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { runChange as removeFileMechanical } from "../../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
-import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
@@ -36,6 +36,9 @@ const UNASKED: World = {
   textOf: () => {
     throw new Error(ASKED)
   },
+  base: () => {
+    throw new Error(ASKED)
+  },
   over: NOTHING_OVER,
 }
 
@@ -44,18 +47,19 @@ const RUNS: Reaching = (world, at, given) => {
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
   }
   const asked = given as Parameters<typeof removeFileMechanical>[1]
-  return Promise.resolve(widened(removeFileMechanical(world, asked), world.textOf))
+  return Promise.resolve(removeFileMechanical(world, asked))
 }
 
 function worldOf(held: Readonly<Record<string, string>>): World {
-  return { ...UNASKED, textOf: (path) => held[path] ?? null, reaching: RUNS }
+  const textOf = (path: string): string | null => held[path] ?? null
+  return { ...UNASKED, textOf, base: textOf, reaching: RUNS }
 }
 
 test("a path the tree holds a body for is answered as one edit taking that path away", async () => {
   const said = await removeFile(worldOf({ [ORDINARY]: BODY }), { at: ORDINARY })
 
   expect(said.refused).toBeNull()
-  expect(said.edits).toEqual([{ path: ORDINARY, was: BODY, body: null }])
+  expect(said.edits).toEqual([{ kind: "remove", path: ORDINARY }])
 })
 
 test("a page file is refused, and the refusal names the change that takes a page away", async () => {
@@ -69,7 +73,7 @@ test("a file named as a page of no page type is taken away rather than refused",
   const said = await removeFile(worldOf({ [SHAPED]: BODY }), { at: SHAPED })
 
   expect(said.refused).toBeNull()
-  expect(said.edits).toEqual([{ path: SHAPED, was: BODY, body: null }])
+  expect(said.edits).toEqual([{ kind: "remove", path: SHAPED }])
 })
 
 test("a path holding no body is refused and answers no edit", async () => {

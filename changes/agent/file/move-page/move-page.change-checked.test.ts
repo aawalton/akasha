@@ -8,10 +8,13 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { type MovePageAsked, movePage } from "./move-page.change-checked.code.ts"
+import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { movePage } from "./move-page.change-checked.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -24,30 +27,23 @@ const MOVED_CODE = "akasha/three/held.module.code.ts"
 function worldIn(root: string): World {
   return worldAt(root, textIn(root), (world, at, given) => {
     if (at === "change-mechanical-file-content/change-imports") {
-      return Promise.resolve(
-        widened(changeImports(world, given as Parameters<typeof changeImports>[1]), world.textOf)
-      )
+      return Promise.resolve(changeImports(world, given as Parameters<typeof changeImports>[1]))
     }
     return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
   })
 }
 
-async function answering(world: World, given: MovePageAsked): Promise<Answer> {
-  return widened(await movePage(world, given), world.textOf)
-}
-
 test("a page carried into another folder carries the files beside that page", async () => {
-  const said = await answering(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
-  const paths = said.edits.map((one) => one.path)
+  const said = await movePage(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
 
   expect(said.refused).toBeNull()
-  expect(paths).toContain(MOVED_PAGE)
-  expect(paths).toContain(MOVED_CODE)
+  expect(pathsIn(said)).toContain(MOVED_PAGE)
+  expect(pathsIn(said)).toContain(MOVED_CODE)
 })
 
 test("every path that moved says the path the move came from", async () => {
-  const said = await answering(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
-  const came = said.edits.map((one) => one.from).filter((one) => one !== undefined)
+  const said = await movePage(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
+  const came = said.edits.flatMap((one) => (one.kind === "move" ? [one.pathFrom] : []))
 
   expect([...came].sort()).toEqual([HELD_CODE, HELD_PAGE])
 })
@@ -62,10 +58,10 @@ test("a file carried with its body unchanged is stated as a move holding no body
 })
 
 test("a body naming a path that moved is repointed in the same answer", async () => {
-  const said = await answering(worldIn(indexedRepo()), { at: HELD_PAGE, to: INTO })
-  const one = said.edits.find((edit) => edit.path === NAMER_CODE)
+  const world = worldIn(indexedRepo())
+  const said = await movePage(world, { at: HELD_PAGE, to: INTO })
 
-  expect(one?.body ?? "").toContain("../three/held.module.code.ts")
+  expect(bodiesIn(said, world.base).get(NAMER_CODE) ?? "").toContain("../three/held.module.code.ts")
 })
 
 test("the folder a page already sits in is refused rather than carried", async () => {

@@ -1,7 +1,8 @@
 import { expect, test } from "bun:test"
 import { ARRIVES, CODE, HOLDER, TARGET } from "@akasha/testing-system/page-holding"
-import { gathered, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { gathered } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { changeImports } from "./change-imports.change-mechanical-file-content.code.ts"
 
 const TABLE = "akasha/one/routes.ts"
@@ -21,25 +22,21 @@ export const it: Route | null = null
 `
 
 function ranOn(was: string, now: string, text: string, moved: ReadonlyMap<string, string>): Answer {
-  const said = widened(changeImports(was, now, text, moved), (path) => (path === was ? text : null))
-  return gathered([said])
+  return gathered([changeImports(was, now, text, moved)])
 }
 
-function bodyOf(
+function bodyIn(
   was: string,
   now: string,
   text: string,
   moved: ReadonlyMap<string, string>
 ): string {
-  const said = ranOn(was, now, text, moved)
-  expect(said.refused).toBe(null)
-  expect(said.edits).toHaveLength(1)
-  return said.edits[0]?.body ?? ""
+  return bodyOf(ranOn(was, now, text, moved), (path) => (path === was ? text : null))
 }
 
 test("a specifier reaching a file that moves in the same act reaches its new path", () => {
   const moved = new Map([[TARGET, ARRIVES]])
-  const said = bodyOf(HOLDER, HOLDER, CODE, moved)
+  const said = bodyIn(HOLDER, HOLDER, CODE, moved)
   expect(said).toContain('from "../four/other.module.code.ts"')
   expect(said).toContain('import ts from "typescript"')
 })
@@ -58,7 +55,7 @@ test("a body that does not move states a replace rather than a move", () => {
 test("a name that is no specifier is read against the folder of the body naming it", () => {
   const moved = new Map([["akasha/one/two/held.ts", "akasha/one/three/held.ts"]])
   const text = `export const at = "two/held.ts"\n`
-  expect(bodyOf(TABLE, TABLE, text, moved)).toBe(`export const at = "three/held.ts"\n`)
+  expect(bodyIn(TABLE, TABLE, text, moved)).toBe(`export const at = "three/held.ts"\n`)
 })
 
 test("a name landing on nothing that moved, and one holding no slash, are left alone", () => {
@@ -75,24 +72,22 @@ test("a name a body imports is read as a package however that name would resolve
 
 test("a body's import of its own generated types follows that body's folder and name", () => {
   const moved = new Map([[TYPED_ROUTE, TYPED_ROUTE_AT]])
-  expect(bodyOf(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved)).toBe(TYPED_FOLLOWED)
+  expect(bodyIn(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved)).toBe(TYPED_FOLLOWED)
 })
 
 test("a body landing elsewhere is answered as one move rather than as a write and a removal", () => {
   const moved = new Map([[TYPED_ROUTE, TYPED_ROUTE_AT]])
   const said = ranOn(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved)
 
-  expect(said.edits).toHaveLength(1)
-  expect(said.edits[0]?.from).toBe(TYPED_ROUTE)
-  expect(said.edits[0]?.path).toBe(TYPED_ROUTE_AT)
-  expect(said.edits[0]?.was).toBe(TYPED_CODE)
+  expect(said.edits.map((one) => one.kind)).toEqual(["move", "replace"])
+  expect(said.edits[0]).toEqual({ kind: "move", pathFrom: TYPED_ROUTE, pathTo: TYPED_ROUTE_AT })
 })
 
 test("a body moving under the name it has keeps the types specifier it already spells", () => {
   const was = "akasha/one/routes/keep.ts"
   const now = "akasha/one/routes/under/keep.ts"
   const text = `import type { Route } from "./+types/keep"\n`
-  expect(bodyOf(was, now, text, new Map([[was, now]]))).toBe(text)
+  expect(bodyIn(was, now, text, new Map([[was, now]]))).toBe(text)
 })
 
 test("a move whose body is left alone states the two paths and no body", () => {

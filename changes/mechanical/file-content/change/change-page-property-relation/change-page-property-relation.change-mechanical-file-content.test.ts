@@ -1,19 +1,22 @@
 import { expect, test } from "bun:test"
 import type { Value } from "@akasha/pages/page-value"
-import { refusing, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
   type World,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { knownOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import {
+  bodyOf,
+  knownOf,
+} from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical-file-content.code.ts"
 import { changePagePropertyRelation } from "./change-page-property-relation.change-mechanical-file-content.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-property") {
     const said = changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
-    return Promise.resolve(widened(said, world.textOf))
+    return Promise.resolve(said)
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
@@ -52,6 +55,7 @@ function worldTold(told: Told): World {
     root: "/nowhere",
     index: { knownIn: () => known, pageAt: () => ("page" in told ? told.page : PAGE) } as never,
     textOf: () => BODY,
+    base: () => BODY,
     over: NOTHING_OVER,
     reaching: RUNS,
   }
@@ -90,7 +94,7 @@ test("a value reaching a page is handed to the change stating one key anew", asy
 
   expect(said.refused).toBeNull()
   expect(said.edits).toHaveLength(1)
-  expect(said.edits[0]?.body ?? "").toContain(`assignmentSlug: "initiative/found"`)
+  expect(bodyOf(said, () => BODY)).toContain(`assignmentSlug: "initiative/found"`)
 })
 
 test("a path the world names no page at is refused", async () => {

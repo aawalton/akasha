@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
@@ -41,8 +41,11 @@ function holding(body: string): (path: string) => string | null {
 }
 
 function saidOf(key: string, value: string, textOf: (path: string) => string | null): Answer {
-  const world = worldAt(ROOT, textOf)
-  return widened(removePropertyValue(world, { at: PAGE, key, value }), world.textOf)
+  return removePropertyValue(worldAt(ROOT, textOf), { at: PAGE, key, value })
+}
+
+function bodyIn(key: string, value: string, textOf: (path: string) => string | null): string {
+  return bodyOf(saidOf(key, value, textOf), textOf)
 }
 
 function whyOf(key: string, value: string, textOf: (path: string) => string | null): string {
@@ -52,25 +55,21 @@ function whyOf(key: string, value: string, textOf: (path: string) => string | nu
 }
 
 test("one value goes out of a property holding many and the rest stay", () => {
-  expect(bodyOf(saidOf("partSlugs", "beta", holding(BODY)))).toBe(BODY.replace(`    "beta",\n`, ""))
+  expect(bodyIn("partSlugs", "beta", holding(BODY))).toBe(BODY.replace(`    "beta",\n`, ""))
 })
 
 test("the first value and the last value each go out on their own", () => {
-  expect(bodyOf(saidOf("partSlugs", "alpha", holding(BODY)))).toBe(
-    BODY.replace(`    "alpha",\n`, "")
-  )
-  expect(bodyOf(saidOf("partSlugs", "gamma", holding(BODY)))).toBe(
-    BODY.replace(`    "gamma",\n`, "")
-  )
+  expect(bodyIn("partSlugs", "alpha", holding(BODY))).toBe(BODY.replace(`    "alpha",\n`, ""))
+  expect(bodyIn("partSlugs", "gamma", holding(BODY))).toBe(BODY.replace(`    "gamma",\n`, ""))
 })
 
 test("a property holding many keeps its key when the last value goes", () => {
   const body = BODY.replace(`    "beta",\n    "gamma",\n`, "")
-  expect(bodyOf(saidOf("partSlugs", "alpha", holding(body)))).toContain("partSlugs: [],")
+  expect(bodyIn("partSlugs", "alpha", holding(body))).toContain("partSlugs: [],")
 })
 
 test("a property holding one value goes with that value", () => {
-  expect(bodyOf(saidOf("definition", "one thing", holding(BODY)))).toBe(
+  expect(bodyIn("definition", "one thing", holding(BODY))).toBe(
     BODY.replace(`  definition: "one thing",\n`, "")
   )
 })
@@ -107,9 +106,7 @@ test("a type that could not be read refuses rather than taking the property away
 
 test("the body is answered under the path it was worked out from", () => {
   const said = saidOf("partSlugs", "beta", holding(BODY))
-  expect(said.edits[0]?.path).toBe(PAGE)
-  expect(said.edits[0]?.was).toBe(BODY)
-  expect(said.edits[0]?.from).toBe(undefined)
+  expect(pathsIn(said)).toEqual([PAGE])
 })
 
 test("the body is answered rather than written", () => {

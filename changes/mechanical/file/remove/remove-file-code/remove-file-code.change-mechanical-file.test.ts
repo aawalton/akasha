@@ -1,13 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { dirname, join } from "node:path"
-import {
-  HELD_CODE,
-  HELD_EXPORT,
-  indexedRepo,
-  scratch,
-  textIn,
-} from "@akasha/indexes/indexing/testing"
-import { refusing, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { HELD_CODE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import {
   type Reaching,
   type World,
@@ -18,7 +12,7 @@ import { runChange } from "./remove-file-code.change-mechanical-file.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file/remove-file") {
-    return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))
+    return Promise.resolve(removeFile(world, given as { at: string }))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
@@ -39,9 +33,7 @@ test("a code path is taken away by the change this change reaches", async () => 
   const said = await runChange(worldIn(root), { at: HELD_CODE })
 
   expect(said.refused).toBe(null)
-  expect(said.edits).toEqual([
-    { path: HELD_CODE, was: `export const ${HELD_EXPORT} = 1\n`, body: null },
-  ])
+  expect(said.edits).toEqual([{ kind: "remove", path: HELD_CODE }])
 })
 
 test("a path under no TypeScript name is refused", async () => {
@@ -62,5 +54,5 @@ test("a path named as TSX is taken away", async () => {
   const said = await runChange(worldIn(root), { at: LOOSE })
 
   expect(said.refused).toBe(null)
-  expect(said.edits).toEqual([{ path: LOOSE, was: BODY, body: null }])
+  expect(said.edits).toEqual([{ kind: "remove", path: LOOSE }])
 })

@@ -42,6 +42,12 @@ export function bodyOf(said: Answer, textOf: BodyOf = NOTHING): string {
   return left[0] ?? ""
 }
 
+export function refusalOf(said: Answer, textOf: BodyOf = NOTHING): string {
+  if (said.refused !== null) return said.refused
+  const held = replayed(said, textOf)
+  return "refused" in held ? held.refused : ""
+}
+
 export function worldOf(held: Readonly<Record<string, string>>): World {
   return {
     root: "/nowhere",

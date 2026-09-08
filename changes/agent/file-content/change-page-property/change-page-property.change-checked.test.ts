@@ -2,18 +2,21 @@ import { expect, test } from "bun:test"
 import type { Value } from "@akasha/pages/page-value"
 import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
 import { runChange as changeRelation } from "../../../mechanical/file-content/change/change-page-property-relation/change-page-property-relation.change-mechanical-file-content.code.ts"
-import { refusing, widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import {
+  bodyOf,
+  knownOf,
+} from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { changePageProperty, runChange } from "./change-page-property.change-checked.code.ts"
 
 const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical-file-content/change-page-property") {
-    return widened(changeValue(world, given as Parameters<typeof changeValue>[1]), world.textOf)
+    return await Promise.resolve(changeValue(world, given as Parameters<typeof changeValue>[1]))
   }
   if (at === "change-mechanical-file-content/change-page-property-relation") {
     return await changeRelation(world, given as Parameters<typeof changeRelation>[1])
@@ -47,6 +50,7 @@ function worldTold(slug: string | null, target: string | null): World {
     root: "/nowhere",
     index: { knownIn: () => known, pageAt: () => PAGE } as never,
     textOf: () => BODY,
+    base: () => BODY,
     over: NOTHING_OVER,
     reaching: RUNS,
   }
@@ -71,7 +75,7 @@ test("a key naming no relation is stated anew with no page reached", async () =>
   const said = await changePageProperty(world, { at: AT, key: "slug", to: "other" })
 
   expect(said.refused).toBeNull()
-  expect(said.edits[0]?.body ?? "").toContain(`slug: "other"`)
+  expect(bodyOf(said, () => BODY)).toContain(`slug: "other"`)
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {

@@ -31,6 +31,11 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A refusal is read here whether the change said the refusal or the replay found it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An answer is cast as the change shape the shadow already reads.",
     },
     {

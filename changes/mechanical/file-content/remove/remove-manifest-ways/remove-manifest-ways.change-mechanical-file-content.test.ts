@@ -1,7 +1,8 @@
 import { expect, test } from "bun:test"
 import { reading } from "@akasha/pages/page-value/testing"
-import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import {
   landsOn,
   removeManifestWays,
@@ -37,14 +38,11 @@ const BETA = "seat-system/beta/beta.module.code.ts"
 const GAMMA = "seat-system/gamma/gamma.module.code.ts"
 
 function saidOf(going: readonly string[], text: string): Answer {
-  const textOf = reading({ [AT]: text })
-  return widened(removeManifestWays({ at: AT, going }, textOf), textOf)
+  return removeManifestWays({ at: AT, going }, reading({ [AT]: text }))
 }
 
-function bodyOf(said: Answer): string {
-  expect(said.refused).toBeNull()
-  expect(said.edits).toHaveLength(1)
-  return said.edits[0]?.body ?? ""
+function bodyIn(going: readonly string[], text: string): string {
+  return bodyOf(saidOf(going, text), reading({ [AT]: text }))
 }
 
 function waysOf(body: string): Record<string, string> {
@@ -52,20 +50,20 @@ function waysOf(body: string): Record<string, string> {
 }
 
 test("a way in landing on a file that goes is dropped and the rest stay", () => {
-  const said = bodyOf(saidOf([BETA], BODY))
+  const said = bodyIn([BETA], BODY)
 
   expect(said).toBe(BODY.replace(`\n    "./beta": "./beta/beta.module.code.ts",`, ""))
   expect(Object.keys(waysOf(said))).toEqual(["./alpha", "./gamma"])
 })
 
 test("the last way in goes and what stays reads as JSON", () => {
-  const said = bodyOf(saidOf([GAMMA], BODY))
+  const said = bodyIn([GAMMA], BODY)
 
   expect(Object.keys(waysOf(said))).toEqual(["./alpha", "./beta"])
 })
 
 test("every way in goes and the exports key stays", () => {
-  const said = bodyOf(saidOf(["seat-system/alpha/alpha.module.code.ts", BETA, GAMMA], BODY))
+  const said = bodyIn(["seat-system/alpha/alpha.module.code.ts", BETA, GAMMA], BODY)
 
   expect(waysOf(said)).toEqual({})
 })
@@ -111,9 +109,7 @@ test("the ways in that go are named by their keys", () => {
 test("the body is answered under the path the body was read from", () => {
   const said = saidOf([BETA], BODY)
 
-  expect(said.edits[0]?.path).toBe(AT)
-  expect(said.edits[0]?.was).toBe(BODY)
-  expect(said.edits[0]?.from).toBe(undefined)
+  expect(pathsIn(said)).toEqual([AT])
 })
 
 test("the body is answered rather than written", () => {
