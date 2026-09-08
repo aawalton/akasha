@@ -64,5 +64,7 @@ export function tryTransformBuiltinGlobalCall(
         node
       )
     }
+    default:
+      return undefined
   }
 }
