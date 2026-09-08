@@ -6,4 +6,29 @@ export const constitution = {
   slug: "constitution",
   definition: "what Alan has built by eating whole plants",
   pointUnit: "100 grams of whole plants eaten",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A hundred grams of whole plants eaten is one point.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The points are the plant grams of the day's food entries turned into points.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The grams turned into points are the grams the plants readout counts.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The window the entries are counted over is handed in rather than worked out here.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here reads a figure the tracking day carries.",
+    },
+  ],
 } as const satisfies Attribute

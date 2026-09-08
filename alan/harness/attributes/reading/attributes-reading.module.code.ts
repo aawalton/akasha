@@ -4,12 +4,12 @@ import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import type { Row } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { charismaIn } from "../../../attributes/pages/charisma.attribute.code.ts"
+import { fetchConstitutionPoints } from "../../../attributes/pages/constitution.attribute.code.ts"
 import { enduranceIn } from "../../../attributes/pages/endurance.attribute.code.ts"
 import { intelligenceIn } from "../../../attributes/pages/intelligence.attribute.code.ts"
 import { strengthIn } from "../../../attributes/pages/strength.attribute.code.ts"
 import { wisdomIn } from "../../../attributes/pages/wisdom.attribute.code.ts"
 import { keepPointsToday } from "../../../attributes/points/attribute-points.module.code.ts"
-import { fetchConstitutionPoints } from "../../../attributes/readouts/attribute-constitution/attribute-constitution.readout.code.ts"
 import {
   wakeDayOf,
   wakeDayWindow,

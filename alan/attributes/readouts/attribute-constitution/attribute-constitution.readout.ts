@@ -17,25 +17,19 @@ export const attributeConstitution = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the plant grams of the day's food entries turned into points.",
+      statement: "The reading is the points the constitution attribute carries for today.",
     },
     {
       invariantKind: "departure",
-      statement: "The grams turned into points are the grams the plants readout counts.",
+      statement: "The attribute is reached through the link this readout names.",
     },
     {
       invariantKind: "departure",
-      statement: "A hundred grams of whole plants eaten is one point.",
+      statement: "An attribute carrying no points today is no reading rather than a zero.",
     },
-    {
-      invariantKind: "departure",
-      statement:
-        "The window the entries are counted over is handed in rather than worked out here.",
-    },
-
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a figure the tracking day carries.",
+      statement: "Nothing here works out what a day earned.",
     },
     {
       invariantKind: "absence",

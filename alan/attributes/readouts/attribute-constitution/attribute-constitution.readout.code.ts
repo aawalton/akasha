@@ -1,16 +1,6 @@
-import type { Asking } from "@akasha/readout-system/readout-asking"
-import { fetchPlantGrams } from "@akasha/readout-system/upkeep-plants"
+import { pointsTodayKept } from "../../points/attribute-points.module.code.ts"
+import { attributeConstitution } from "./attribute-constitution.readout.ts"
 
-export const GRAMS_TO_THE_POINT = 100
-
-export function constitutionIn(grams: number): number {
-  return grams / GRAMS_TO_THE_POINT
-}
-
-export async function fetchConstitutionPoints(
-  ask: Asking,
-  from: string,
-  to: string
-): Promise<number> {
-  return constitutionIn(await fetchPlantGrams(ask, from, to))
+export function constitutionShown(root: string): number | null {
+  return pointsTodayKept(root, attributeConstitution.attributeSlug)
 }
