@@ -7,7 +7,7 @@ export const SERVED = "body"
 
 export const SERVING = import.meta.path
 
-export type Form = "ts" | "tsx" | "js" | "jsx" | "json" | "css" | "toml" | "text"
+export type Form = "ts" | "tsx" | "js" | "jsx"
 
 export type Bodies = Readonly<Record<string, string | null>>
 
@@ -33,8 +33,6 @@ const FILE = "file"
 const MARK = `${SERVED}:`
 
 const NAME = "akasha-test-bodies"
-
-const TEXT = "text"
 
 const SPECIAL = /[.*+?^${}()|[\]\\]/g
 
@@ -64,12 +62,7 @@ const LOADERS: Readonly<Record<string, Form>> = {
   ".tsx": "tsx",
   ".js": "js",
   ".jsx": "jsx",
-  ".json": "json",
-  ".css": "css",
-  ".toml": "toml",
 }
-
-const CARRIED: ReadonlySet<Form> = new Set<Form>(["ts", "tsx", "js", "jsx", "json", "toml"])
 
 function escaped(one: string): string {
   return one.replace(SPECIAL, "\\$&")
@@ -90,8 +83,8 @@ export function folderOf(importer: string): string {
   return dirname(importer.startsWith(MARK) ? importer.slice(MARK.length) : importer)
 }
 
-export function loaderOf(path: string): Form {
-  return LOADERS[extname(path)] ?? TEXT
+export function loaderOf(path: string): Form | null {
+  return LOADERS[extname(path)] ?? null
 }
 
 export function bodiesAt(at: string): Bodies {
@@ -109,7 +102,7 @@ export function servingOut(bodies: Bodies, path: string): Served {
   const body = bodies[path] ?? null
   if (body === null) throw new Error(`\`${path}\` is taken away by the change these tests judge`)
   const form = loaderOf(path)
-  if (CARRIED.has(form)) return { contents: body, loader: form }
+  if (form !== null) return { contents: body, loader: form }
   return { contents: `export default ${JSON.stringify(body)}\n`, loader: "js" }
 }
 

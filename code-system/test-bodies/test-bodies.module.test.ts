@@ -27,6 +27,13 @@ const CHECKS =
   'import { kept } from "./one.module.code.ts"\n' +
   'test("kept", () => { expect(kept).toBe(1) })\n'
 
+const LOOK = ".ring { color: red }\n"
+
+const LOOKS =
+  'import { expect, test } from "bun:test"\n' +
+  'import look from "./look.css"\n' +
+  'test("look", () => { expect(look).toContain("red") })\n'
+
 function repo(files: Record<string, string>): string {
   const root = realpathSync(scratch.rootFor("test-bodies-"))
   mkdirSync(join(root, "akasha"), { recursive: true })
@@ -76,13 +83,26 @@ test("the folder an import is read against drops the mark a served body carries"
 test("the form a body is read as follows the extension its path carries", () => {
   expect(loaderOf("/repo/one.ts")).toBe("ts")
   expect(loaderOf("/repo/one.tsx")).toBe("tsx")
-  expect(loaderOf("/repo/one.json")).toBe("json")
-  expect(loaderOf("/repo/one.notes")).toBe("text")
+  expect(loaderOf("/repo/one.js")).toBe("js")
+  expect(loaderOf("/repo/one.jsx")).toBe("jsx")
 })
 
 test("a body handed over is served under the form its path names", () => {
   const said = servingOut({ [ONE]: "export const held = 1\n" }, ONE)
   expect(said).toEqual({ contents: "export const held = 1\n", loader: "ts" })
+})
+
+test("a stylesheet is served as JavaScript answering that stylesheet's text", () => {
+  const at = "/repo/one/held.stylesheet.styles.css"
+  const said = servingOut({ [at]: LOOK }, at)
+  expect(said.loader).toBe("js")
+  expect(said.contents).toBe(`export default ${JSON.stringify(LOOK)}\n`)
+})
+
+test("a body under an extension named by nothing is served as JavaScript too", () => {
+  const at = "/repo/one/held.notes"
+  const said = servingOut({ [at]: "just words\n" }, at)
+  expect(said).toEqual({ contents: 'export default "just words\\n"\n', loader: "js" })
 })
 
 test("a path the change takes away refuses the import reaching it", () => {
@@ -127,6 +147,18 @@ test("a test on disk reads the body the change carries beside it, not the one th
   try {
     expect(ranOver(from, named, 1, null, serving).verdict).toBe("fail")
     expect(ranOver(from, named, 1).verdict).toBe("pass")
+  } finally {
+    serving.sweep()
+  }
+})
+
+test("a run over a serving carrying a stylesheet reads that stylesheet's text", () => {
+  const from = repo({ "look.css": ".ring { color: blue }\n", "one.module.test.ts": LOOKS })
+  const carried = ["akasha/look.css"]
+  const named = ["akasha/one.module.test.ts"]
+  const serving = servingOf(from, carried, handing({ "akasha/look.css": LOOK }), named)
+  try {
+    expect(ranOver(from, named, 1, null, serving).verdict).toBe("pass")
   } finally {
     serving.sweep()
   }

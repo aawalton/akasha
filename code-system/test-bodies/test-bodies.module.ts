@@ -55,6 +55,11 @@ export const testBodies = {
       statement: "An import reaching a path the change takes away is refused.",
     },
     {
+      invariantKind: "constraint",
+      statement:
+        "The runner loads a body handed over as JavaScript, TypeScript or their JSX and nothing else.",
+    },
+    {
       invariantKind: "departure",
       statement: "The form a body is read as follows the extension its path carries.",
     },
