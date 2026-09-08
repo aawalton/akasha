@@ -1,9 +1,0 @@
-{
-  "name": "@akasha/workflow-language",
-  "private": true,
-  "type": "module",
-  "exports": {
-    "./retry-transient-ddl": "./retry-transient-ddl/retry-transient-ddl.module.code.ts"
-  },
-  "dependencies": {}
-}

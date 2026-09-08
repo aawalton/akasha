@@ -1061,7 +1061,6 @@
         "@akasha/seat-system": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-run": "workspace:*",
-        "@akasha/workflow-language": "workspace:*",
         "yaml": "^2.8.0",
         "zod": "^4.3.6",
       },
@@ -1076,9 +1075,6 @@
         "yaml": "^2.8.0",
         "zod": "^4.3.6",
       },
-    },
-    "infrastructure/cluster/workflows/workflow-language": {
-      "name": "@akasha/workflow-language",
     },
     "infrastructure/dockerfiles": {
       "name": "@akasha/dockerfiles",
@@ -1417,7 +1413,6 @@
         "@akasha/pages": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "@akasha/utils-process": "workspace:*",
-        "@akasha/workflow-language": "workspace:*",
         "yaml": "^2.8.1",
       },
     },
@@ -3544,8 +3539,6 @@
     "@akasha/web-security-headers": ["@akasha/web-security-headers@workspace:web-security-headers"],
 
     "@akasha/web-static-assets": ["@akasha/web-static-assets@workspace:web-static-assets"],
-
-    "@akasha/workflow-language": ["@akasha/workflow-language@workspace:infrastructure/cluster/workflows/workflow-language"],
 
     "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:workspace-paths"],
 

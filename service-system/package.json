@@ -25,7 +25,6 @@
     "@akasha/pages": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "@akasha/utils-process": "workspace:*",
-    "@akasha/workflow-language": "workspace:*",
     "yaml": "^2.8.1"
   }
 }

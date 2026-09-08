@@ -12,6 +12,7 @@ export const database = {
     "manifest/postgrest",
     "manifest/supabase-realtime",
     "manifest/supabase-studio",
+    "module/retry-transient-ddl",
   ],
   invariants: [
     {

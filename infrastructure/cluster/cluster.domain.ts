@@ -13,7 +13,6 @@ export const cluster = {
     "workspace-package/cluster-api",
     "workspace-package/k8s-synth",
     "workspace-package/k8s-types",
-    "domain/cluster-workflows",
   ],
   invariants: [
     {

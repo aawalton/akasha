@@ -4,7 +4,7 @@ import {
   colocationAffinityPreferred,
 } from "@akasha/k8s-types/hostnames"
 import { synthNamespaceServiceDeployment } from "@akasha/k8s-types/manifest-composing"
-import { retryTransientDdl } from "@akasha/workflow-language/retry-transient-ddl"
+import { retryTransientDdl } from "../retry-transient-ddl/retry-transient-ddl.module.code.ts"
 
 const NAMESPACE = "supabase-studio"
 const APP_NAME = "supabase-studio"
