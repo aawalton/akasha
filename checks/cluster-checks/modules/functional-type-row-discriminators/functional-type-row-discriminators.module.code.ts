@@ -22,7 +22,7 @@ export function hasLuaCompilerTsconfig(workspaceDir: string): boolean {
   }
   for (const entry of entries) {
     if (!isTsconfigFileName(entry)) continue
-    if (declaresTstl(join(workspaceDir, entry), 0)) return true
+    if (declaresLuaCompiler(join(workspaceDir, entry), 0)) return true
   }
   return false
 }
@@ -31,7 +31,7 @@ function isTsconfigFileName(name: string): boolean {
   return name.startsWith("tsconfig") && name.endsWith(".json")
 }
 
-function declaresTstl(configPath: string, depth: number): boolean {
+function declaresLuaCompiler(configPath: string, depth: number): boolean {
   if (depth > TSCONFIG_EXTENDS_LIMIT) return false
   let text: string
   try {
@@ -45,7 +45,7 @@ function declaresTstl(configPath: string, depth: number): boolean {
   for (const target of extendsTargets(config)) {
     const next = resolveExtendsPath(dirname(configPath), target)
     if (next === null) continue
-    if (declaresTstl(next, depth + 1)) return true
+    if (declaresLuaCompiler(next, depth + 1)) return true
   }
   return false
 }
