@@ -8,9 +8,14 @@ import { data, useSearchParams } from "react-router"
 import { CharactersPageContent } from "../../characters-page-content/characters-page-content.module.code.tsx"
 import { CompanionsPageContent } from "../../companions-page-content/companions-page-content.module.code.tsx"
 import { useImportErrorToast } from "../../use-import-error-toast/use-import-error-toast.module.code.ts"
-import type { Route } from "./+types/temper-page-listing.route.code"
 
-export async function loader({ params, request }: Route.LoaderArgs) {
+export async function loader({
+  params,
+  request,
+}: {
+  params: { pageTypeSlug: string }
+  request: Request
+}) {
   const pluralSlug = params.pageTypeSlug
   const { headers } = createServerClient(request)
   const pageType = await getPageTypeByPluralSlug(pluralSlug)
@@ -24,7 +29,11 @@ export async function loader({ params, request }: Route.LoaderArgs) {
   return data({ slug: pageType.slug, userId: user?.id ?? null }, { headers })
 }
 
-export default function PagesListingRoute({ loaderData }: Route.ComponentProps) {
+export default function PagesListingRoute({
+  loaderData,
+}: {
+  loaderData: { slug: string; userId: string | null }
+}) {
   const [searchParams] = useSearchParams()
   useImportErrorToast()
   const slug = loaderData.slug

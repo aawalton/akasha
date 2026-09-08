@@ -4,13 +4,12 @@ import { Suspense } from "react"
 import { useSearchParams } from "react-router"
 import { CompletionPageContent } from "../../completion-page-content/completion-page-content.module.code.tsx"
 import { tabDefaultFor } from "../../tab-defaults/tab-defaults.module.code.ts"
-import type { Route } from "./+types/temper-user-completion.route.code"
 
 export function meta() {
   return [{ title: "Temper | Completion" }]
 }
 
-export default function CompletionPublicPage({ params }: Route.ComponentProps) {
+export default function CompletionPublicPage({ params }: { params: { userId: string } }) {
   const [searchParams] = useSearchParams()
   const tab = searchParams.get("tab") ?? tabDefaultFor("/completion") ?? "summary"
   return (
