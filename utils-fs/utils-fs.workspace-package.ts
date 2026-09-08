@@ -9,6 +9,7 @@ export const utilsFs = {
   partSlugs: [
     "module/atomic-write",
     "module/expand-tilde",
+    "module/file-size",
     "module/missing",
     "module/read-stdin-or-file",
     "module/text-on-disk",
