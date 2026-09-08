@@ -1,6 +1,6 @@
-import type { Outcome } from "@akasha/command-system/gated-write"
 import { AKASHA, rootFor } from "@akasha/pages/checkout-roots"
 import type { Roots } from "@akasha/pages/markdown-page-at"
+import type { Outcome } from "@akasha/seat-system/gated-write"
 import { principalSeatNameOf } from "../seat-principal/seat-principal.module.code.ts"
 import type { Stated } from "../seat-stated/seat-stated.module.code.ts"
 import type { SeatStated, Stating } from "../seat-stating/seat-stating.module.code.ts"
@@ -14,15 +14,10 @@ export function akashaSeatRelPath(seatName: string): string {
   return `${DIR}/${seatName}${SUFFIX}`
 }
 
-// Where every seat page stands, for a caller watching the store rather than addressing one seat in
-// it. The directory is spelled here with the paths that reach into it rather than a second time at
-// whoever watches.
 export function akashaSeatsDirIn(root: string): string {
   return `${root}/${DIR}`
 }
 
-// The old state carries each value wrapped in the record it was read from. What states a seat in
-// akasha is the values themselves, so they are unwrapped here and nowhere else.
 function seatStatedFrom(stated: Stated, parentName: string | null): SeatStated {
   return {
     agentId: stated.agent,

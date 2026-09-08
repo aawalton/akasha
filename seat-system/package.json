@@ -261,7 +261,8 @@
     "./seat-reset": "./seat-reset/seat-reset.module.code.ts",
     "./seat-resume": "./seat-resume/seat-resume.module.code.ts",
     "./seat-start": "./seat-start/seat-start.module.code.ts",
-    "./payload": "./payload/payload.module.code.ts"
+    "./payload": "./payload/payload.module.code.ts",
+    "./gated-write": "./gated-write/gated-write.module.code.ts"
   },
   "dependencies": {
     "@akasha/agents": "workspace:*",
@@ -272,6 +273,7 @@
     "@akasha/pages": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils-fs": "workspace:*",
+    "@akasha/utils-run": "workspace:*",
     "@akasha/utils-system": "workspace:*",
     "@akasha/workspace-paths": "workspace:*",
     "@modelcontextprotocol/sdk": "^1.30.0",

@@ -1,6 +1,6 @@
 import { fail } from "@akasha/command-system/command-failing"
-import type { Outcome } from "@akasha/command-system/gated-write"
 import { resolveRoots } from "@akasha/pages/checkout-roots"
+import type { Outcome } from "@akasha/seat-system/gated-write"
 import {
   nameFromHistory,
   parentFromHistory,
@@ -29,7 +29,7 @@ export interface BeatReport {
   readonly seat: string | null
 }
 
-function valueOf(argv: readonly string[], flag: string): string | null {
+function valueAfter(argv: readonly string[], flag: string): string | null {
   const at = argv.indexOf(flag)
   if (at === -1) return null
   const value = argv[at + 1]
@@ -50,13 +50,11 @@ export function statedForPage(
   return running === null ? held : { ...held, session: running }
 }
 
-// What an importer asks for: one seat page written or taken down from what these arguments say.
-// It throws rather than exiting, so a supervisor holding the call is told rather than ended.
 export async function beat(argv: readonly string[]): Promise<BeatReport> {
-  const agentId = valueOf(argv, "--agent")
+  const agentId = valueAfter(argv, "--agent")
   if (agentId === null) throw new Error("--agent names the seat this writes for")
 
-  const stopReason = valueOf(argv, "--remove")
+  const stopReason = valueAfter(argv, "--remove")
   if (stopReason !== null) return { outcome: await removeSeatPage(agentId, stopReason), seat: null }
 
   const roots = resolveRoots()
@@ -65,12 +63,12 @@ export async function beat(argv: readonly string[]): Promise<BeatReport> {
 
   backfillObserved(agentId)
 
-  const healing = valueOf(argv, "--self-heal-session")
-  if (healing !== null && valueOf(argv, "--self-heal-agent") === agentId) {
+  const healing = valueAfter(argv, "--self-heal-session")
+  if (healing !== null && valueAfter(argv, "--self-heal-agent") === agentId) {
     keepSession(agentId, healing)
   }
 
-  const sessionId = valueOf(argv, "--session")
+  const sessionId = valueAfter(argv, "--session")
   if (sessionId !== null) {
     const running = sessionRecordOf(sessionId)
     if (running === null) return { outcome: { kind: "unchanged" }, seat }
@@ -78,11 +76,8 @@ export async function beat(argv: readonly string[]): Promise<BeatReport> {
     return { outcome: await writeSeatPage({ ...statedOf(agentId), session: running }, seat), seat }
   }
 
-  const transcriptPath = valueOf(argv, "--transcript")
+  const transcriptPath = valueAfter(argv, "--transcript")
   if (transcriptPath !== null) {
-    // The caller builds this argument from a session id it started and can never revise, so a
-    // clear leaves it naming a file nothing writes to any more. Where the seat's session has
-    // rotated, the file found beside the named one is the one to watch instead.
     const watching = transcriptRecordOf(rotatedTranscriptFor(agentId) ?? transcriptPath)
     if (watching === null) return { outcome: { kind: "unchanged" }, seat }
     keepTranscript(agentId, watching.value)
@@ -100,9 +95,9 @@ export async function beat(argv: readonly string[]): Promise<BeatReport> {
   const stated = fallBackToHistory(
     statedForPage(
       agentId,
-      valueOf(argv, "--account"),
-      valueOf(argv, "--self-heal-agent"),
-      valueOf(argv, "--self-heal-session")
+      valueAfter(argv, "--account"),
+      valueAfter(argv, "--self-heal-agent"),
+      valueAfter(argv, "--self-heal-session")
     ),
     seat,
     roots

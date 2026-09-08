@@ -1404,6 +1404,7 @@
         "@akasha/pages": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils-fs": "workspace:*",
+        "@akasha/utils-run": "workspace:*",
         "@akasha/utils-system": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
         "@modelcontextprotocol/sdk": "^1.30.0",

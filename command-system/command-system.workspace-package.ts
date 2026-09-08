@@ -15,7 +15,6 @@ export const commandSystem = {
     "module/command-answering",
     "module/command-filling",
     "module/command-declaring",
-    "module/gated-write",
     "module/command-failing",
     "module/argument-narrowing",
     "module/landing",
