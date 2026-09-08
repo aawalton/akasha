@@ -48,7 +48,7 @@
         "**/*.ts"
       ]
     },
-    "status-bar-access": {
+    "alan/harness/status-bar-access": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],

@@ -199,6 +199,13 @@
         "@akasha/utils": "workspace:*",
       },
     },
+    "alan/harness/status-bar-access": {
+      "name": "@akasha/status-bar-access",
+      "dependencies": {
+        "@akasha/health-samples-access": "workspace:*",
+        "@akasha/health-samples-day": "workspace:*",
+      },
+    },
     "alan/harness/supabase-auth": {
       "name": "@akasha/supabase-auth",
       "dependencies": {
@@ -1531,13 +1538,6 @@
         "@types/react-dom": "^19",
         "typescript": "^5.8.3",
         "vite": "^8.0.3",
-      },
-    },
-    "status-bar-access": {
-      "name": "@akasha/status-bar-access",
-      "dependencies": {
-        "@akasha/health-samples-access": "workspace:*",
-        "@akasha/health-samples-day": "workspace:*",
       },
     },
     "story/engine/core": {
@@ -3212,7 +3212,7 @@
 
     "@akasha/ssh-access": ["@akasha/ssh-access@workspace:alan/harness/ssh-access"],
 
-    "@akasha/status-bar-access": ["@akasha/status-bar-access@workspace:status-bar-access"],
+    "@akasha/status-bar-access": ["@akasha/status-bar-access@workspace:alan/harness/status-bar-access"],
 
     "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:story/engine/core"],
 
