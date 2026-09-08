@@ -13,7 +13,6 @@ export const exerciseAccess = {
     "module/exercise-vocabulary",
     "module/free-exercise-row",
     "module/mobility-derive",
-    "module/movement-standing",
     "module/schedule-focus",
     "module/selection-features",
     "module/selection-policy",
