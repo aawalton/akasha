@@ -4,13 +4,13 @@ import { join } from "node:path"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { loadedFrom } from "@akasha/pages/page-value"
 import {
-  CUTS_FOLDER,
   type CutFingerprint,
   compareCutStatus,
   cutFingerprintValues,
   cutPageBody,
   cutPageNameFor,
   cutPagePath,
+  cutsFolder,
   fingerprintOf,
   MOBILE_CUT_PAGE_TYPE_SLUG,
   readCutPages,
@@ -69,8 +69,9 @@ describe("readCutPages", () => {
   test("the cuts are the TypeScript pages inside akasha rather than markdown", () => {
     const pages = readCutPages()
     expect(pages.length).toBeGreaterThan(0)
+    const folder = cutsFolder()
     for (const page of pages) {
-      expect(page.path.startsWith(`${CUTS_FOLDER}/`)).toBe(true)
+      expect(page.path.startsWith(`${folder}/`)).toBe(true)
       expect(page.path.endsWith(`.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`)).toBe(true)
     }
   })

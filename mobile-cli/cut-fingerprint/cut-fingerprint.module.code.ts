@@ -9,8 +9,6 @@ export const MOBILE_CUT_PAGE_TYPE_SLUG = "mobile-cut"
 
 const PUT = "change-mechanical-file/add-file"
 
-export const CUTS_FOLDER = "mobile-cli/mobile-cuts/pages"
-
 const PAGE_SUFFIX = `.${MOBILE_CUT_PAGE_TYPE_SLUG}.ts`
 
 export class CutsUnread extends Error {
@@ -74,16 +72,27 @@ export function cutPageNameFor(appSlug: string, buildNumber: number): string {
   return `${appSlug}-${buildNumber}`
 }
 
-export function cutPagePath(slug: string): string {
-  return `${CUTS_FOLDER}/${slug}/${slug}${PAGE_SUFFIX}`
-}
-
 function akashaRoot(): string {
   return rootFor(resolveRoots(), AKASHA)
 }
 
 function pathsUnder(root: string): readonly string[] {
   return everyOfType(root, MOBILE_CUT_PAGE_TYPE_SLUG).map((listed) => listed.path)
+}
+
+export function cutsFolder(): string {
+  const one = pathsUnder(akashaRoot())[0]
+  if (one === undefined) {
+    throw new Error(
+      `no \`${MOBILE_CUT_PAGE_TYPE_SLUG}\` page is filed, so nothing says which folder the cuts ` +
+        `are filed in`
+    )
+  }
+  return one.split("/").slice(0, -2).join("/")
+}
+
+export function cutPagePath(slug: string): string {
+  return `${cutsFolder()}/${slug}/${slug}${PAGE_SUFFIX}`
 }
 
 export function readCutPages(): readonly CutPage[] {

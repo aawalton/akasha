@@ -19,6 +19,14 @@ export const cutFingerprint = {
     },
     {
       invariantKind: "departure",
+      statement: "The folder the cuts sit in is read off the cuts already filed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No cut filed at all raises rather than answering a folder.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A cut source that cannot be read raises rather than reading as no cut taken.",
     },
     {
