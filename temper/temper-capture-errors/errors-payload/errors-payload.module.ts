@@ -13,7 +13,7 @@ export const errorsPayload = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry carries the first time and the last time the error was seen.",
+      statement: "An entry has the first time and the last time the error was seen.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const errorsPayload = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry carries the game version and the API version that raised the error.",
+      statement: "An entry has the game version and the API version that raised the error.",
     },
     {
       invariantKind: "departure",

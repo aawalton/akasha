@@ -19,7 +19,7 @@ export const applyInvalidations = {
     },
     {
       invariantKind: "departure",
-      statement: "A named domain the payload does not carry is ignored.",
+      statement: "A named domain the payload does not have is ignored.",
     },
     {
       invariantKind: "departure",

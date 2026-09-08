@@ -9,7 +9,7 @@ export const addonInit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The loading announcement carries the name of whichever add-on loaded.",
+      statement: "The loading announcement has the name of whichever add-on loaded.",
     },
     {
       invariantKind: "departure",

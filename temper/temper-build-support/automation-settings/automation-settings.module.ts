@@ -18,11 +18,11 @@ export const automationSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "A character carries a toggle for each crafting writ the game gives out.",
+      statement: "A character has a toggle for each crafting writ the game gives out.",
     },
     {
       invariantKind: "departure",
-      statement: "A companion carries fewer toggles than a character.",
+      statement: "A companion has fewer toggles than a character.",
     },
   ],
 } as const satisfies Module

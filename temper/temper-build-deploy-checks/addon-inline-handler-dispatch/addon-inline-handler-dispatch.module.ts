@@ -17,7 +17,7 @@ export const addonInlineHandlerDispatch = {
     },
     {
       invariantKind: "constraint",
-      statement: "A body carrying anything after the closing bracket is no single dispatch.",
+      statement: "A body with anything after the closing bracket is no single dispatch.",
     },
     {
       invariantKind: "constraint",

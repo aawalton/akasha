@@ -13,7 +13,7 @@ export const catalogPublicApi = {
     },
     {
       invariantKind: "departure",
-      statement: "The global carries the one reader and nothing more.",
+      statement: "The global has the one reader and nothing more.",
     },
   ],
 } as const satisfies Module

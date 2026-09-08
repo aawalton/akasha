@@ -4,7 +4,7 @@ export const deployableAddons = {
   id: "01a06060-ec3e-76a0-91e2-ff4014f8a701",
   pageTypeSlug: "module",
   slug: "deployable-addons",
-  definition: "the addons a deploy can carry, each with what that addon needs built first",
+  definition: "the addons a deploy can have, each with what that addon needs built first",
   code: "ts",
   invariants: [
     {

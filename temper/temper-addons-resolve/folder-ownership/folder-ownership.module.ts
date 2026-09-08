@@ -10,11 +10,11 @@ export const folderOwnership = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A folder the deploy wrote carries a marker file the deploy put there.",
+      statement: "A folder the deploy wrote has a marker file the deploy put there.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder carrying the marker is replaced.",
+      statement: "A folder with the marker is replaced.",
     },
     {
       invariantKind: "departure",

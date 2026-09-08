@@ -10,7 +10,7 @@ export const catalogDescriptor = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The defaults name every field the payload carries.",
+      statement: "The defaults name every field the payload has.",
     },
     {
       invariantKind: "departure",

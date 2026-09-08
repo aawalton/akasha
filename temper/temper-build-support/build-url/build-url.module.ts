@@ -17,7 +17,7 @@ export const buildUrl = {
     },
     {
       invariantKind: "departure",
-      statement: "A build link carries the build's own id.",
+      statement: "A build link has the build's own id.",
     },
     {
       invariantKind: "departure",

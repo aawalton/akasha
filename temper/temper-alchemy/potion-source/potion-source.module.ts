@@ -9,7 +9,7 @@ export const potionSource = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A potion's place in this table is the index a build hash carries.",
+      statement: "A potion's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

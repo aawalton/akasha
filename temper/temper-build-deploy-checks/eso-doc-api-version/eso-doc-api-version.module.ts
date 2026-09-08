@@ -9,8 +9,7 @@ export const esoDocApiVersion = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement:
-        "An artifact carrying no version stamp is a defect rather than a current artifact.",
+      statement: "An artifact with no version stamp is a defect rather than a current artifact.",
     },
     {
       invariantKind: "constraint",

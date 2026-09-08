@@ -13,7 +13,7 @@ export const checkEsoTypingsFresh = {
     },
     {
       invariantKind: "constraint",
-      statement: "The artifacts judged are the subset of those files carrying a provenance line.",
+      statement: "The artifacts judged are the subset of those files with a provenance line.",
     },
     {
       invariantKind: "constraint",

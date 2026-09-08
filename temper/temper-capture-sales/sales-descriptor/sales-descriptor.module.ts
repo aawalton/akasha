@@ -13,7 +13,7 @@ export const salesDescriptor = {
     },
     {
       invariantKind: "departure",
-      statement: "The defaults carry no sale.",
+      statement: "The defaults have no sale.",
     },
     {
       invariantKind: "absence",

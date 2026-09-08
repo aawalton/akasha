@@ -9,7 +9,7 @@ export const salesAddonEntry = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The saved variables carry the account name the sales were captured under.",
+      statement: "The saved variables have the account name the sales were captured under.",
     },
     {
       invariantKind: "departure",

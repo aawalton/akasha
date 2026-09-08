@@ -18,7 +18,7 @@ export const dataminingQuestMiner = {
 
     {
       invariantKind: "departure",
-      statement: "A quest carries the name of the zone the quest sits in.",
+      statement: "A quest has the name of the zone the quest sits in.",
     },
     {
       invariantKind: "departure",

@@ -13,7 +13,7 @@ export const errorsDescriptor = {
     },
     {
       invariantKind: "departure",
-      statement: "The defaults carry an empty list of entries.",
+      statement: "The defaults have an empty list of entries.",
     },
     {
       invariantKind: "absence",

@@ -13,7 +13,7 @@ export const antiquitiesAddonGlobal = {
     },
     {
       invariantKind: "departure",
-      statement: "The global carries the add-on's name and version and nothing else.",
+      statement: "The global has the add-on's name and version and nothing else.",
     },
   ],
 } as const satisfies Module
