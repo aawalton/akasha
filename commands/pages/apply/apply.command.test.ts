@@ -197,7 +197,7 @@ test("a fold the apply landed is left where the apply left it", async () => {
 
 test("a fold the apply did not land leaves the rows", async () => {
   const root = await repo()
-  const row = replacing(ONE, WAS, WAS)
+  const row = replacing(ONE, WAS, NOW)
   appendEdits(root, PAGE, [row])
   const said = folding(root, PAGE)
   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
