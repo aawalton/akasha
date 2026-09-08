@@ -159,6 +159,7 @@ export const clusterCheck = {
     "module/design-token-parity",
     "module/env-unset-bash",
     "module/eso-global-decl-consistency",
+    "module/eso-live-dir-candidate-order",
   ],
   properties: [
     {
