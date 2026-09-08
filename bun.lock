@@ -1146,15 +1146,6 @@
     "location-traces-access": {
       "name": "@akasha/location-traces-access",
     },
-    "migration-system": {
-      "name": "@akasha/migration-system",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/git": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/pages": "workspace:*",
-      },
-    },
     "mobile-cli": {
       "name": "@akasha/mobile-cli",
       "dependencies": {
@@ -3144,8 +3135,6 @@
     "@akasha/loki-service": ["@akasha/loki-service@workspace:infrastructure/loki-service"],
 
     "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:language-design/lua-compiler"],
-
-    "@akasha/migration-system": ["@akasha/migration-system@workspace:migration-system"],
 
     "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:mobile-cli"],
 

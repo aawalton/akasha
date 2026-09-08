@@ -99,8 +99,6 @@ export const command = {
     "namespace/browser",
     "namespace/sms",
     "namespace/claude-account",
-    "command/migration-reach",
-    "command/part-census",
     "command/learn-next",
     "command/shell-init-bash",
     "namespace/domain",
