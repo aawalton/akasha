@@ -190,6 +190,7 @@ export const clusterCheck = {
     "module/popover-family-wrappers",
     "module/porcelain-status-boundary",
     "module/process-start",
+    "module/properties-file-key-space",
   ],
   properties: [
     {
