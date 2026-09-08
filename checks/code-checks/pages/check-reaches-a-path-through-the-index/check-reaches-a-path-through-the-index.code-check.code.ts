@@ -94,15 +94,19 @@ function reachedIn(
 
 function writtenIn(source: ts.SourceFile): ReadonlyMap<string, readonly ts.Expression[]> {
   const found = new Map<string, ts.Expression[]>()
+  const keep = (name: ts.BindingName, from: ts.Expression): undefined => {
+    if (ts.isIdentifier(name)) {
+      const kept = found.get(name.text)
+      if (kept === undefined) found.set(name.text, [from])
+      else kept.push(from)
+    }
+  }
   const visit = (node: ts.Node): undefined => {
-    if (
-      ts.isVariableDeclaration(node) &&
-      ts.isIdentifier(node.name) &&
-      node.initializer !== undefined
-    ) {
-      const kept = found.get(node.name.text)
-      if (kept === undefined) found.set(node.name.text, [node.initializer])
-      else kept.push(node.initializer)
+    if (ts.isVariableDeclaration(node) && node.initializer !== undefined) {
+      keep(node.name, node.initializer)
+    }
+    if (ts.isForOfStatement(node) && ts.isVariableDeclarationList(node.initializer)) {
+      for (const one of node.initializer.declarations) keep(one.name, node.expression)
     }
     ts.forEachChild(node, visit)
   }

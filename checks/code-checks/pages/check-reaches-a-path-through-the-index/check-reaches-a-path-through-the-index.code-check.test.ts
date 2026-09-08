@@ -99,9 +99,19 @@ test("a value a helper returns is not carried to the caller that lists it", () =
   expect(only('function at() {\n  return "design/colors"\n}\nreaddirSync(at())\n')).toEqual([])
 })
 
-test("a name a loop binds carries nothing", () => {
+test("a name a loop binds carries what the loop runs over", () => {
   const held = 'const HELD = ["design/colors"]\n'
+  expect(only(`${held}for (const one of HELD) readdirSync(one)\n`)).toHaveLength(1)
+})
+
+test("a name a loop binds over a source carrying nothing carries nothing", () => {
+  const held = 'const HELD = ["text/event-stream"]\n'
   expect(only(`${held}for (const one of HELD) readdirSync(one)\n`)).toEqual([])
+})
+
+test("a name a for-in loop binds is a key rather than what the loop runs over", () => {
+  const held = 'const HELD = { a: "design/colors" }\n'
+  expect(only(`${held}for (const one in HELD) readdirSync(one)\n`)).toEqual([])
 })
 
 test("a name carries over the whole file rather than within one scope", () => {

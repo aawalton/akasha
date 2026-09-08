@@ -61,6 +61,14 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
+      statement: "A name a loop binds carries what the source that loop runs over carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name a `for in` loop binds is a key rather than what that loop runs over.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name carries over the whole file rather than within the scope it is bound in.",
     },
     {
@@ -94,10 +102,6 @@ export const checkReachesAPathThroughTheIndex = {
     {
       invariantKind: "absence",
       statement: "A value a helper returns is not carried to the caller that lists it.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A name a loop names carries nothing, since a loop states no initializer.",
     },
     {
       invariantKind: "gap",
