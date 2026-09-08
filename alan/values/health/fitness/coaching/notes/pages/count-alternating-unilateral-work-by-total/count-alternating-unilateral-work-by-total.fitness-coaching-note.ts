@@ -1,8 +1,8 @@
-import type { CoachingNote } from "../../coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
 
 export const countAlternatingUnilateralWorkByTotal = {
   id: "019f01e1-b6f3-7191-aeae-18da9502b03a",
-  pageTypeSlug: "coaching-note",
+  pageTypeSlug: "fitness-coaching-note",
   slug: "count-alternating-unilateral-work-by-total",
   title: "Count alternating/unilateral work by TOTAL",
   coachingNoteActive: true,
@@ -10,4 +10,4 @@ export const countAlternatingUnilateralWorkByTotal = {
   coachingNoteKind: "ef-accommodation",
   coachingNoteSortOrder: 4,
   asks: "txt",
-} as const satisfies CoachingNote
+} as const satisfies FitnessCoachingNote
