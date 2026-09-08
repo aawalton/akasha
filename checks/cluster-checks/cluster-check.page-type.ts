@@ -85,6 +85,7 @@ export const clusterCheck = {
     "module/file-finding",
     "module/functional-type",
     "module/held-addon-structure",
+    "module/line-counting",
     "module/population",
     "module/prose-mechanism-restatement",
     "module/remediation-doc",

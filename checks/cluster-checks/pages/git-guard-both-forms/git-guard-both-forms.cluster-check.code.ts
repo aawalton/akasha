@@ -3,6 +3,7 @@
 import { realpathSync } from "node:fs"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { findFiles } from "../../modules/file-finding/file-finding.module.code.ts"
+import { lineAtOffset } from "../../modules/line-counting/line-counting.module.code.ts"
 import {
   examineFilePopulation,
   examinePopulation,
@@ -58,12 +59,6 @@ function spansOf(content: string, pattern: RegExp): readonly Span[] {
   }))
 }
 
-function lineOf(content: string, offset: number): number {
-  let line = 1
-  for (let i = 0; i < offset; i++) if (content[i] === "\n") line++
-  return line
-}
-
 function pairs(content: string, d: Span, f: Span): boolean {
   if (d.negated !== f.negated) return false
   const gap =
@@ -91,7 +86,7 @@ export function findGitGuards(content: string, relPath: string): readonly GitGua
   const fTests = spansOf(content, DASH_F_GIT_RE)
   return dTests.map((directoryTest) => ({
     file: relPath,
-    line: lineOf(content, directoryTest.start),
+    line: lineAtOffset(content, directoryTest.start),
     content,
     directoryTest,
     fileTests: fTests,

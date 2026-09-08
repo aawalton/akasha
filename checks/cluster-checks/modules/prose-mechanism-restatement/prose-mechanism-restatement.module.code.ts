@@ -1,6 +1,7 @@
 import { classifyExtension, type FileKind } from "@akasha/code/file-kind"
 import { type FileKindNodeType, nodeTypeOf } from "@akasha/graph/file-kind-authorship"
 import { blankCode, type CommentSyntax } from "../blank-comments/blank-comments.module.code.ts"
+import { lineAtOffset } from "../line-counting/line-counting.module.code.ts"
 
 export interface Restatement {
   readonly file: string
@@ -91,65 +92,11 @@ export function findRestatements(file: string, text: string): readonly Restateme
     if (symbol === undefined || body === undefined) continue
     out.push({
       file,
-      line: countLines(prose, match.index),
+      line: lineAtOffset(prose, match.index),
       symbol,
       fields: body.split(",").map((field) => field.trim().replace(/\?$/, "")),
       span,
     })
   }
   return out
-}
-
-function countLines(text: string, index: number): number {
-  let line = 1
-  for (let i = 0; i < index; i++) if (text[i] === "\n") line++
-  return line
-}
-
-export function restatementKey(restatement: Restatement): string {
-  return `${restatement.file}#${restatement.symbol}`
-}
-
-export function restatementCarrier(key: string): string {
-  const at = key.lastIndexOf("#")
-  return at < 0 ? key : key.slice(0, at)
-}
-
-export interface RatchetVerdict {
-  readonly failures: readonly Restatement[]
-  readonly grandfathered: readonly string[]
-  readonly departed: readonly string[]
-  readonly repaired: readonly string[]
-}
-
-export function applyRatchet(
-  found: readonly Restatement[],
-  accepted: readonly string[],
-  carriers: ReadonlySet<string>
-): RatchetVerdict {
-  const known = new Set(accepted)
-  const present = new Set(found.map(restatementKey))
-  const gone = accepted.filter((key) => !present.has(key))
-  return {
-    failures: found.filter((restatement) => !known.has(restatementKey(restatement))),
-    grandfathered: accepted.filter((key) => present.has(key)).sort(),
-    departed: gone.filter((key) => !carriers.has(restatementCarrier(key))).sort(),
-    repaired: gone.filter((key) => carriers.has(restatementCarrier(key))).sort(),
-  }
-}
-
-export type RatchetWrite =
-  | { readonly kind: "written"; readonly accepted: readonly string[] }
-  | { readonly kind: "refused"; readonly wouldAdd: readonly string[] }
-
-export function nextRatchet(
-  foundKeys: readonly string[],
-  accepted: readonly string[],
-  drop: readonly string[]
-): RatchetWrite {
-  const known = new Set(accepted)
-  const wouldAdd = [...new Set(foundKeys.filter((key) => !known.has(key)))].sort()
-  if (wouldAdd.length > 0) return { kind: "refused", wouldAdd }
-  const dropping = new Set(drop)
-  return { kind: "written", accepted: accepted.filter((key) => !dropping.has(key)).sort() }
 }
