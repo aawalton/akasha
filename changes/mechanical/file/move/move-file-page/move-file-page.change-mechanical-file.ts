@@ -1,0 +1,72 @@
+import type { ChangeMechanicalFile } from "../../change-mechanical-file.page-type.ts"
+
+export const moveFilePage = {
+  id: "01a0820d-23fd-7cc2-9bef-074f9f70e6ac",
+  pageTypeSlug: "change-mechanical-file",
+  slug: "move-file-page",
+  changeModeSlug: "change-mode-move",
+  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetSubtypeSlug: "change-target-subtype/file-page",
+  definition: "one page carried to another folder with every file that page keeps beside the page",
+  code: "ts",
+  test: "ts",
+  runsChecks: false,
+  readersOweReading: false,
+  writerOwesReading: false,
+  guardSlugs: ["change-guard/claimed-file-not-left-behind"],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A path under no page name is refused here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page types a name is read against are the ones the world files.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A carry keeps the name the page has, so a landing naming it anew is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page and every file that page keeps beside the page are carried together.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Which files sit beside a page is read from the index rather than from the folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the page claims and the tree holds no body at is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file beside the page lands under its own name in the folder the page lands in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file beside the page under a TypeScript name is carried by `move-file-code`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other file beside the page is carried by `move-file`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal from any change reached here refuses the whole carry.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files beside the page are judged by the guard this change names.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here changes the data the page states.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here works out a body of its own.",
+    },
+  ],
+} as const satisfies ChangeMechanicalFile
