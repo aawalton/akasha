@@ -71,7 +71,7 @@ export function getExtensionKindForType(
   context: TransformationContext,
   type: ts.Type
 ): ExtensionKind | undefined {
-  const value = getPropertyValue(context, type, "__tstlExtension")
+  const value = getPropertyValue(context, type, "__luaExtension")
   if (value !== undefined && isExtensionKind(value)) {
     return value
   }
