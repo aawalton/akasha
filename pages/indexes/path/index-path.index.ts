@@ -63,6 +63,10 @@ export const indexPath = {
     },
     {
       invariantKind: "departure",
+      statement: "Which paths a page claims is worked out here for whatever files them.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page's sops file is filed here whether or not that file is there.",
     },
     {

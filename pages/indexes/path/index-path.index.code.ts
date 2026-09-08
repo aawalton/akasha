@@ -32,6 +32,21 @@ function thereIn(repo: string, carried: ReadonlyMap<string, Bodied>, was: boolea
   }
 }
 
+export function claimedIn(
+  value: Value,
+  path: string,
+  repo: string,
+  fileProperties: FilePropertiesBy,
+  sidecars: SidecarsBy,
+  there?: IsThere
+): readonly string[] {
+  const id = textAt(value, "id")
+  const slug = textAt(value, "slug")
+  const pageTypeSlug = textAt(value, "pageTypeSlug")
+  if (id === null || slug === null || pageTypeSlug === null) return []
+  return claimsOf(value, path, repo, fileProperties, sidecars, there)
+}
+
 export function pathIn(
   value: Value,
   path: string,
@@ -40,12 +55,8 @@ export function pathIn(
   sidecars: SidecarsBy,
   there?: IsThere
 ): readonly Entry[] {
-  const id = textAt(value, "id")
-  const slug = textAt(value, "slug")
-  const pageTypeSlug = textAt(value, "pageTypeSlug")
-  if (id === null || slug === null || pageTypeSlug === null) return []
-  const line = JSON.stringify({ path: under(repo, path), id })
-  return claimsOf(value, path, repo, fileProperties, sidecars, there).map((one) => ({
+  const line = JSON.stringify({ path: under(repo, path), id: textAt(value, "id") })
+  return claimedIn(value, path, repo, fileProperties, sidecars, there).map((one) => ({
     at: join(PATH, `${one}${ENDING}`),
     line,
   }))
