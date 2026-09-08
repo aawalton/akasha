@@ -1249,6 +1249,7 @@
       "name": "@akasha/personas",
       "dependencies": {
         "@akasha/pages": "workspace:*",
+        "@akasha/pages-core": "workspace:*",
       },
     },
     "personas-core": {

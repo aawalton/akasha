@@ -1,9 +1,9 @@
 import type { PageCondition } from "@akasha/pages-core/page-types"
-import { pad2 } from "../image-name/image-name.module.code.ts"
+import { pad2 } from "../../personas-core/image-name/image-name.module.code.ts"
 import {
   personaSlugCondition,
   relationshipLevelMatchCondition,
-} from "../persona-page-conditions/persona-page-conditions.module.code.ts"
+} from "../../personas-core/persona-page-conditions/persona-page-conditions.module.code.ts"
 
 export const PERSONA_ANCHOR_IMAGE_PAGE_TYPE_SLUG = "persona-anchor-image"
 

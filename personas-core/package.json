@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./anchor-cover-record": "./anchor-cover-record/anchor-cover-record.module.code.ts",
     "./canonical-image-classify": "./canonical-image-classify/canonical-image-classify.module.code.ts",
     "./desktop-wallpaper-setting": "./desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts",
     "./framework": "./framework/framework.module.code.ts",

@@ -5,10 +5,12 @@
   "exports": {
     "./email-address": "./properties/email-address.email-address-property.ts",
     "./image-locator": "./image-locator/image-locator.module.code.ts",
+    "./anchor-cover-record": "./anchor-cover-record/anchor-cover-record.module.code.ts",
     "./persona-targets": "./targets/persona-targets.module.code.ts",
     "./persona-reading": "./reading/persona-reading.module.code.ts"
   },
   "dependencies": {
-    "@akasha/pages": "workspace:*"
+    "@akasha/pages": "workspace:*",
+    "@akasha/pages-core": "workspace:*"
   }
 }

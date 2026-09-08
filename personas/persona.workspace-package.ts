@@ -67,5 +67,6 @@ export const persona = {
     "persona/zeli",
     "text-property/value-slug",
     "module/image-locator",
+    "module/anchor-cover-record",
   ],
 } as const satisfies WorkspacePackage
