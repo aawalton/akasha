@@ -9,8 +9,8 @@ import {
   pipedPathsIn,
 } from "../../../command-system/change-acting/change-acting.module.code.ts"
 import { subagentIn } from "../../../command-system/change-arguing/change-arguing.module.code.ts"
+import { noPageSaid } from "../../../command-system/change-running/change-running.module.code.ts"
 import { inputIn } from "../../../command-system/piping/piping.module.code.ts"
-import { noPageSaid } from "../change/change.command.code.ts"
 
 const DROPS = "drop"
 

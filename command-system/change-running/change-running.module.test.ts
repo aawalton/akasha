@@ -1,12 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import { editsIn } from "@akasha/changes/edits-keeping"
 import { NAMER_CODE, NAMER_PAGE, scratch } from "@akasha/indexes/indexing/testing"
-import { appending, changing, owedBy, owingBy, stamped } from "./change.command.code.ts"
+import { appending, changing, owedBy, owingBy, stamped } from "./change-running.module.code.ts"
 import {
   APPLIED,
   acting,
   applying,
   BOTH,
+  CHOSEN,
   drafting,
   draftingAndApplying,
   EDIT,
@@ -31,7 +32,7 @@ import {
   SUB,
   saysApply,
   taking,
-} from "./change.command.test-fixtures.ts"
+} from "./change-running.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 
@@ -91,7 +92,7 @@ test("a word naming no change is refused by that word rather than by an address"
   expect(said.refusals[0] ?? "").toContain("`remove-file` names no change")
 })
 
-test("a call naming no change is refused with the changes this command runs", async () => {
+test("a call naming no change is refused with the changes this runs", async () => {
   const said = await acting(repo(), [])
 
   expect(said.refusals[0] ?? "").toContain("no change is named")
@@ -135,7 +136,8 @@ test("a path that is no page keeps no edits", async () => {
     ["remove-page"],
     piping(taking(NAMER_PAGE)),
     loading,
-    applying
+    applying,
+    CHOSEN
   )
 
   expect(said.refusals).toEqual(["a path that is no page keeps no edits"])

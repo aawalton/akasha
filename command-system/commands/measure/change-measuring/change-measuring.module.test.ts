@@ -2,18 +2,20 @@ import { afterAll, expect, test } from "bun:test"
 import { put } from "@akasha/testing-system/putting"
 import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
 import { linesOf, partsIn, windowIn } from "../check-measuring/check-measuring.module.code.ts"
-import { costsIn, heldIn } from "./change-measuring.module.code.ts"
 import {
-  APPLY_AT,
   agoOf,
-  CHANGE_AT,
   DAY,
   HOUR,
   NOW,
+  spacedOnce,
+} from "../check-measuring/check-measuring.module.test-fixtures.ts"
+import { costsIn, heldIn } from "./change-measuring.module.code.ts"
+import {
+  APPLY_AT,
+  CHANGE_AT,
   ONE,
   partAt,
   rowsInto,
-  spacedOnce,
   THREE,
   TWO,
 } from "./change-measuring.module.test-fixtures.ts"

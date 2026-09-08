@@ -8,9 +8,9 @@ import type { World } from "@akasha/changes/change-shadow"
 import { editsIn, keptEdits } from "@akasha/changes/edits-keeping"
 import { handedPageOf } from "@akasha/changes/subagent-handed"
 import { idOf, indexedRepo, NAMER_CODE, NAMER_PAGE, pageOf } from "@akasha/indexes/indexing/testing"
-import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
-import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
-import { type Applying, changing, type Over } from "./change.command.code.ts"
+import type { Answer } from "../calling/calling.module.code.ts"
+import type { Piping } from "../piping/piping.module.code.ts"
+import { type Applying, type Chosen, changing, type Over } from "./change-running.module.code.ts"
 
 export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 
@@ -29,6 +29,13 @@ const SPARE: Readonly<Record<string, string>> = {
     code: "ts",
   }),
   [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
+}
+
+export const CHOSEN: Chosen = {
+  said: "change",
+  drafts: null,
+  barred: [],
+  at: "commands/pages/change-draft/change-draft.command.ts",
 }
 
 let given: Readonly<Record<string, string>> = {}
@@ -89,7 +96,8 @@ export async function refusedApply(root: string, at: string): Promise<Answer> {
     ["remove-page"],
     piping(taking(at)),
     loading,
-    refusingApply
+    refusingApply,
+    CHOSEN
   )
 }
 
@@ -142,7 +150,7 @@ export async function acting(
   argv: readonly string[],
   said: Piping = NOTHING
 ): Promise<Answer> {
-  return await changing(root, PAGE, null, argv, said, loading, applying)
+  return await changing(root, PAGE, null, argv, said, loading, applying, CHOSEN)
 }
 
 export async function removing(root: string, at: string, message?: string): Promise<Answer> {

@@ -15,7 +15,7 @@ export const changeMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "The change page and the apply page are both read.",
+      statement: "The page of every command running a change or an apply is read.",
     },
     {
       invariantKind: "departure",

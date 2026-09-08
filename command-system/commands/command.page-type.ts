@@ -41,7 +41,6 @@ export const command = {
     "command/apply",
     "command/audit",
     "command/calendar",
-    "command/change",
     "command/claude-usage",
     "command/complexity",
     "command/compose-notices",

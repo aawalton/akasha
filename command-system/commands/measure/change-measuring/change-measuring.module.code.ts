@@ -12,6 +12,7 @@ import {
   runningOf,
   runsIn,
   totalOf,
+  underRan,
   withinOf,
 } from "../check-measuring/check-measuring.module.code.ts"
 
@@ -20,7 +21,8 @@ export const CHANGE = "change"
 export const APPLY = "apply"
 
 export const PAGES: readonly string[] = [
-  "commands/pages/change/change.command.ts",
+  "commands/pages/change-draft/change-draft.command.ts",
+  "commands/pages/change-apply/change-apply.command.ts",
   "commands/pages/apply/apply.command.ts",
 ]
 
@@ -42,16 +44,6 @@ export function heldIn(root: string): Reading {
     }
   }
   return { runs, unread }
-}
-
-export function underRan(runs: readonly Run[]): ReadonlyMap<string, readonly Run[]> {
-  const found = new Map<string, Run[]>()
-  for (const one of runs) {
-    const had = found.get(one.ran)
-    if (had === undefined) found.set(one.ran, [one])
-    else had.push(one)
-  }
-  return found
 }
 
 export function costsIn(root: string, now: number, chosen: Chosen): Costs {

@@ -206,6 +206,16 @@ export function runningOf(runs: readonly Run[], ids: ReadonlySet<string>): reado
   return runs.filter((one) => one.runId !== null && ids.has(one.runId))
 }
 
+export function underRan(runs: readonly Run[]): ReadonlyMap<string, readonly Run[]> {
+  const found = new Map<string, Run[]>()
+  for (const one of runs) {
+    const had = found.get(one.ran)
+    if (had === undefined) found.set(one.ran, [one])
+    else had.push(one)
+  }
+  return found
+}
+
 function memoryOf(some: readonly Run[]): readonly number[] {
   return some.flatMap((one) => (one.mem === null ? [] : [one.mem]))
 }

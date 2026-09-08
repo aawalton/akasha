@@ -10,6 +10,7 @@ export const changeDraft = {
   changeKindSlug: "change-mechanical",
   helpNotes: [
     "the change to answer is the first word, and the arguments that change takes are piped in.",
+    "a call naming no change is refused with every change a draft runs.",
     "an argument is a line `key: value`, or `key <fence>` opening a body that `<fence>` alone closes.",
     "`key <fence> no-newline` opens a body whose last line keeps no newline, for a passage ending mid-line.",
     "the fence is yours to pick, so a body carrying one run of characters is opened with another.",

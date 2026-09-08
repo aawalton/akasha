@@ -74,6 +74,7 @@ export const commandSystem = {
     "module/refusals-keeping",
     "module/command-walking",
     "module/change-arguing",
+    "module/change-running",
     "module/change-preparing",
     "module/path-carrying",
   ],

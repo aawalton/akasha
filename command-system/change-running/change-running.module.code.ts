@@ -2,38 +2,25 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { pathsOf, replayed } from "@akasha/changes/change-answer"
 import type { Answer as Said, Stated } from "@akasha/changes/change-answer/types"
-import { type Loaded, loadedAt, ranBy, runAt } from "@akasha/changes/change-loading"
+import { type Loaded, ranBy, runAt } from "@akasha/changes/change-loading"
 import { addedTo, ledgerAt, type World, worldAt } from "@akasha/changes/change-shadow"
-import { bodyIn, editsAt, foldedIn, keptAt, keptEdits } from "@akasha/changes/edits-keeping"
+import { bodyIn, foldedIn, keptAt, keptEdits } from "@akasha/changes/edits-keeping"
+import { costRecorded, opening } from "@akasha/checks/check-cost"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
-import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
+import { changingOf, owedIn } from "@akasha/context/warranting"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, type Value } from "@akasha/pages/page-value"
-import { costRecorded, opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
 import {
   type Given as Arguments,
   readingIn,
-} from "../../../command-system/argument-reading/argument-reading.module.code.ts"
-import { mistaking, puttingUpSaid } from "../../../command-system/asking/asking.module.code.ts"
-import {
-  type Answer,
-  type Given,
-  HELP,
-  HELP_SHORT,
-  helpOf,
-} from "../../../command-system/calling/calling.module.code.ts"
-import {
-  NO_PAGE,
-  saidOf,
-  waitingSaid,
-} from "../../../command-system/change-acting/change-acting.module.code.ts"
-import { unknownIn } from "../../../command-system/command-flags/command-flags.module.code.ts"
-import type { Taking } from "../../../command-system/commands/properties/taking.record-property.ts"
-import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
-import { inputIn, type Piping } from "../../../command-system/piping/piping.module.code.ts"
-import { offRepo, pathAt } from "../../../command-system/said-pathing/said-pathing.module.code.ts"
-import { CHANGE, CHANGE_PAGE } from "../../modules/change-costing/change-costing.module.code.ts"
-import { change as changePage } from "./change.command.ts"
+} from "../argument-reading/argument-reading.module.code.ts"
+import { mistaking, puttingUpSaid } from "../asking/asking.module.code.ts"
+import type { Answer } from "../calling/calling.module.code.ts"
+import { NO_PAGE, saidOf, waitingSaid } from "../change-acting/change-acting.module.code.ts"
+import { unknownIn } from "../command-flags/command-flags.module.code.ts"
+import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
+import type { Piping } from "../piping/piping.module.code.ts"
+import { offRepo, pathAt } from "../said-pathing/said-pathing.module.code.ts"
 
 export const PAGE_LANDING =
   "A subagent dispatched a moment ago can run before its page lands, and a landing refused leaves" +
@@ -80,7 +67,7 @@ function bytesIn(root: string, path: string): Uint8Array | null {
   }
 }
 
-function textIn(root: string): (path: string) => string | null {
+export function textIn(root: string): (path: string) => string | null {
   return (path) => {
     const bytes = bytesIn(root, path)
     if (bytes === null) return null
@@ -115,18 +102,6 @@ export function runsSaid(world: World): string {
   return changesIn(world)
     .map((one) => `\`${one.slug}\``)
     .join(", ")
-}
-
-export function takingOf(world: World): Taking {
-  return changesIn(world).map((one) => ({ said: one.slug, takes: one.definition }))
-}
-
-export function helping(root: string, calledAs: string): Answer {
-  const surface = {
-    taking: takingOf(worldAt(root, textIn(root), runAt)),
-    helpNotes: changePage.helpNotes,
-  }
-  return { report: helpOf(calledAs, changePage.definition, surface), refusals: [], code: 0 }
 }
 
 export function argumentsIn(piping: Piping): Arguments | string {
@@ -267,20 +242,24 @@ export type Loading = (world: World, at: string) => Promise<Loaded | string>
 
 export type Applying = (message: string | null) => Promise<Answer>
 
+const CHANGE = "change"
+
 const KEPT = "and `akasha change apply` lands them once what refused is answered"
 
-function keptSaid(page: string): string {
-  return `the edits are kept at ${keptAt(page) ?? ""}, ${KEPT}`
+const LANDS = "and `akasha change apply` lands them"
+
+function keptSaid(page: string, why: string): string {
+  return `the edits are kept at ${keptAt(page) ?? ""}, ${why}`
 }
 
 export type Chosen = {
   readonly said: string
-  readonly drafts: boolean
+  readonly drafts: boolean | null
   readonly barred: readonly string[]
+  readonly at: string
 }
 
-export function barredIn(given: Arguments, chosen: Chosen | null): readonly string[] {
-  if (chosen === null) return []
+export function barredIn(given: Arguments, chosen: Chosen): readonly string[] {
   return chosen.barred
     .filter((key) => given[key] !== undefined)
     .map((key) => `\`${key}\` is no argument a ${chosen.said} takes`)
@@ -294,7 +273,7 @@ export async function changing(
   piping: Piping,
   loading: Loading,
   applying: Applying,
-  chosen: Chosen | null = null
+  chosen: Chosen
 ): Promise<Answer> {
   const before = opening()
   const world = worldAt(root, textIn(root), runAt)
@@ -312,7 +291,7 @@ export async function changing(
   if (wrong.length > 0) return mistaking(wrong)
   const asked = applyIn(given)
   if (typeof asked === "string") return mistaking([asked])
-  const drafts = chosen === null ? asked.drafts : chosen.drafts
+  const drafts = chosen.drafts ?? asked.drafts
   const type = typeOf(world, slug)
   if (type === null) {
     return mistaking([`\`${slug}\` names no change, and this runs one of ${runsSaid(world)}`])
@@ -329,41 +308,19 @@ export async function changing(
     paths = new Set(made.edits.flatMap(pathsOf)).size
     return made
   })
-  costRecorded(root, CHANGE_PAGE, before, CHANGE, slug, paths, answered.refusals.length)
+  costRecorded(root, chosen.at, before, CHANGE, slug, paths, answered.refusals.length)
   if (answered.code !== 0) return answered
   if (drafts) {
-    const drafted = `the edits are kept at ${keptAt(page) ?? ""}, and \`akasha change apply\` lands them`
-    return { ...answered, report: [...answered.report, drafted] }
+    return { ...answered, report: [...answered.report, keptSaid(page, LANDS)] }
   }
   const landed = await applying(asked.message)
   return {
-    report: [...answered.report, ...landed.report, ...(landed.code === 0 ? [] : [keptSaid(page)])],
+    report: [
+      ...answered.report,
+      ...landed.report,
+      ...(landed.code === 0 ? [] : [keptSaid(page, KEPT)]),
+    ],
     refusals: landed.refusals,
     code: landed.code,
   }
-}
-
-function applyingFor(given: Given): Applying {
-  return async (message) => {
-    const { applyWith } = await import("../apply/apply.command.code.ts")
-    return await applyWith(message === null ? {} : { [MESSAGE]: message }, given)
-  }
-}
-
-export async function change(argv: readonly string[], given: Given): Promise<Answer> {
-  const first = argv[0]
-  if (first === HELP || first === HELP_SHORT) return helping(given.root, given.calledAs)
-  const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
-  if (page === null || editsAt(page) === null) {
-    return mistaking([noPageSaid(given.root, given.agentId)])
-  }
-  return await changing(
-    given.root,
-    page,
-    given.agentId,
-    argv,
-    inputIn,
-    loadedAt,
-    applyingFor(given)
-  )
 }

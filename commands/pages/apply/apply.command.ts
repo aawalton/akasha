@@ -144,7 +144,7 @@ export const apply = {
     },
     {
       invariantKind: "departure",
-      statement: "That refusal is the refusal `akasha change` gives.",
+      statement: "That refusal is the refusal every call running a change gives.",
     },
     {
       invariantKind: "departure",

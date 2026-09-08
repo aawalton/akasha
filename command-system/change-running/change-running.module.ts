@@ -1,45 +1,21 @@
-import type { Command } from "../../../command-system/commands/command.page-type.ts"
+import type { Module } from "@akasha/code/module"
 
-export const change = {
-  id: "01a07780-1fd8-71ad-8268-5d477e7f5cbc",
-  pageTypeSlug: "command",
-  slug: "change",
-  definition: "one mechanical change run for the edits it answers rather than for a landing",
+export const changeRunning = {
+  id: "01a0818f-bf8a-746c-8cff-6a16f214e396",
+  pageTypeSlug: "module",
+  slug: "change-running",
+  definition: "one mechanical change run for the edits it answers",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKindSlug: "change-mechanical",
-  helpNotes: [
-    "the change is the first word, and the arguments that change takes are piped in.",
-    "an argument is a line `key: value`, or `key <fence>` opening a body that `<fence>` alone closes.",
-    "`key <fence> no-newline` opens a body whose last line keeps no newline, for a passage ending mid-line.",
-    "the fence is yours to pick, so a body carrying one run of characters is opened with another.",
-    "nothing on the command line carries a value, so no shell reads a quote or a backslash.",
-    "`at` names a path, read against the repository root.",
-    "a change answers edits rather than writing them, and the edits are appended beside this agent's page.",
-    "a change checks and applies as it answers, so the edits it answers land as a commit.",
-    "`message` says what the commit is for, and a change naming none composes the message.",
-    "an apply lands every edit kept rather than the edits this run appended alone.",
-    "`draft: true` keeps the edits for a later `akasha change apply` rather than applying as this change answers.",
-    "`draft` and `message` together are refused, as `draft` declines the commit a message would say.",
-    "two runs leave two sets of edits in the order the runs were made.",
-    "a change reads the world as every edit appended before it had already landed.",
-    "a change that refuses appends nothing and leaves the edits as the edits were.",
-    "a change that refuses applies nothing and lands nothing.",
-    "an apply that refuses leaves the edits kept, and that is the dry run.",
-    "`akasha change list` names the edits kept, and `akasha change drop` takes them away.",
-    "no check runs over the change, and an apply judges the edits kept as that apply lands them.",
-    "a change is refused where its writer has not read what the change writes, before anything is appended.",
-  ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The change to run is named by the first word.",
+      statement: "The change to run is named by the first word of the call.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A change is reached by its address rather than by a name this command's code holds.",
+      statement: "A change is reached by its address rather than by a name held here.",
     },
     {
       invariantKind: "departure",
@@ -50,16 +26,8 @@ export const change = {
       statement: "The change is loaded before the turn over the edits is taken.",
     },
     {
-      invariantKind: "absence",
-      statement: "No flag is said on the command line.",
-    },
-    {
       invariantKind: "departure",
       statement: "The arguments a change takes are read from standard input.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body opened with `no-newline` names a passage ending mid-line.",
     },
     {
       invariantKind: "departure",
@@ -84,19 +52,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A change checks and applies once that change has answered.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The value at `message` says what the commit is for.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A change naming no message takes the message `akasha apply` composes.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The commit message is named among the arguments rather than on the command line.",
     },
     {
       invariantKind: "departure",
@@ -105,22 +61,6 @@ export const change = {
     {
       invariantKind: "departure",
       statement: "An empty `message` is refused before the change is loaded.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A change that refuses applies nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The apply a change makes is the apply `akasha apply` makes.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An apply lands every edit kept rather than the edits that run appended.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A call that applied says nothing of the edits being kept for a later apply.",
     },
     {
       invariantKind: "departure",
@@ -140,8 +80,11 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A change naming `draft` names where the edits are kept and the apply that lands the edits.",
+      statement: "A caller settling what a run does with its edits bars the keys saying otherwise.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run keeping its edits names where they are kept and the apply landing them.",
     },
     {
       invariantKind: "departure",
@@ -202,10 +145,6 @@ export const change = {
       statement: "The edits are read and appended to under one turn over the file the edits fill.",
     },
     {
-      invariantKind: "absence",
-      statement: "No word here names an act over the edits kept.",
-    },
-    {
       invariantKind: "departure",
       statement: "A change answering says how many subagents are holding edits for this agent.",
     },
@@ -215,7 +154,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "What one run of one change cost is appended beside this page.",
+      statement: "What one run of one change cost is appended beside the page the caller names.",
     },
     {
       invariantKind: "departure",
@@ -240,44 +179,27 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "An apply judges the whole set of edits kept as that apply lands them.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An apply is where a check refusing stops the edits landing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A check refusing at an apply leaves the edits kept where the edits are.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A call naming no message lands the edits that call answers.",
+      statement: "A change that refuses applies nothing and lands nothing.",
     },
     {
       invariantKind: "departure",
       statement: "A change that refuses writes no body onto the tree.",
     },
     {
-      invariantKind: "absence",
-      statement: "This command takes no dry run.",
+      invariantKind: "departure",
+      statement: "An apply lands every edit kept rather than the edits that run appended.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The changes the help lists are read off the index rather than named on this page.",
+      statement: "A call that applied says nothing of the edits being kept for a later apply.",
     },
     {
       invariantKind: "departure",
-      statement: "A change is listed under the definition that change's own page states.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "No taking is stated here.",
+      statement: "An apply that refuses leaves the edits kept and names what lands them.",
     },
     {
       invariantKind: "departure",
-      statement: "The help flag reaches this command's own code.",
+      statement: "A call naming no change is refused with every change the index carries.",
     },
   ],
-} as const satisfies Command
+} as const satisfies Module

@@ -6,6 +6,11 @@ import type { Given as Arguments } from "../../../command-system/argument-readin
 import { mistaking } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import {
+  argumentsIn,
+  noPageSaid,
+  worldFor,
+} from "../../../command-system/change-running/change-running.module.code.ts"
+import {
   ANSWER_CEILING,
   countLines,
   numbered,
@@ -14,7 +19,6 @@ import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.
 import { inputIn } from "../../../command-system/piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../../../command-system/reading/reading.module.code.ts"
 import { offRepo, pathAt } from "../../../command-system/said-pathing/said-pathing.module.code.ts"
-import { argumentsIn, noPageSaid, worldFor } from "../change/change.command.code.ts"
 
 const AT = "at"
 
