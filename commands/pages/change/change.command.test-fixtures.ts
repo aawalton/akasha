@@ -51,8 +51,21 @@ const REMOVE_PAGE: Loaded = {
   guards: [],
 }
 
+const REMOVE_PAGE_AT = "akasha/changes/remove-page.change-checked.ts"
+
+const OWING_NO_READING: Readonly<Record<string, string>> = {
+  [REMOVE_PAGE_AT]: pageOf({
+    id: "01a04a4a-0001-7000-8000-000000000006",
+    pageTypeSlug: "change-checked",
+    slug: "remove-page",
+    definition: "a mechanical change an indexed repository carries",
+    code: "ts",
+    writerOwesReading: false,
+  }),
+}
+
 export function repo(): string {
-  return indexedRepo(SPARE)
+  return indexedRepo({ ...SPARE, ...OWING_NO_READING })
 }
 
 export function piping(said: string): Piping {

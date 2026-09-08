@@ -1,6 +1,7 @@
+import { replayed } from "../../changes/modules/change-answer/change-answer.module.code.ts"
 import type { Stated } from "../../changes/modules/change-answer/change-answer.module.types.ts"
 import {
-  foldedIn,
+  bodyIn,
   handedAway,
   handedIn,
   handedUnder,
@@ -90,9 +91,9 @@ export function taking(root: string, page: string, under: string | undefined): A
   if (held.rows.length === 0) return { report: [NONE_HANDED], refusals: [], code: 0 }
   let answer: Answer = mistaking([NO_PAGE])
   const kept = keptEdits(root, page, (had) => {
-    const folded = foldedIn([...had, ...held.rows])
-    if (folded.refused !== null) {
-      answer = { report: [], refusals: [folded.refused, HELD_BACK], code: 3 }
+    const after = replayed({ edits: [...had, ...held.rows], refused: null }, bodyIn(root))
+    if ("refused" in after) {
+      answer = { report: [], refusals: [after.refused, HELD_BACK], code: 3 }
       return had
     }
     answer = { report: [...held.rows.map(saidOf).sort(), TAKEN], refusals: [], code: 0 }
