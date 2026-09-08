@@ -13,6 +13,7 @@
     "@akasha/command-system": "workspace:*",
     "zod": "^4.3.6",
     "@akasha/pages": "workspace:*",
-    "typescript": "5.9.3"
+    "typescript": "5.9.3",
+    "@akasha/utils": "workspace:*"
   }
 }
