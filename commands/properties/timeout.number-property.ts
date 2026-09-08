@@ -16,7 +16,11 @@ export const timeout = {
     },
     {
       invariantKind: "departure",
-      statement: "A call stopped answers as an operational fault rather than as a refusal.",
+      statement: "These seconds are counted on the wall clock.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call stopped is ended rather than answered.",
     },
     {
       invariantKind: "departure",

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { ALLOWED, heldTo, saidOf, secondsIn } from "./command-stopping.module.code.ts"
+import { ALLOWED, saidOf, secondsIn, watchOf } from "./command-stopping.module.code.ts"
 
 const NAMED = "akasha one"
 
@@ -18,18 +18,19 @@ test("a page stating seconds that are no number above nothing is allowed thirty"
   expect(secondsIn({ timeout: -1 })).toBe(ALLOWED)
 })
 
-test("a command answering without a promise runs past nothing", async () => {
-  expect(await heldTo(0.01, NAMED, "said")).toEqual({ answer: "said" })
+test("the watch counts the seconds it was allowed as milliseconds", () => {
+  expect(watchOf(30, "said", 7)).toContain("30000")
 })
 
-test("an answer given before the seconds run out is the answer", async () => {
-  expect(await heldTo(30, NAMED, Promise.resolve("said"))).toEqual({ answer: "said" })
+test("the watch ends the process it was told the number of", () => {
+  expect(watchOf(30, "said", 7)).toContain('process.kill(7, "SIGKILL")')
 })
 
-test("work running past the seconds is stopped", async () => {
-  const slow = new Promise((keep) => setTimeout(() => keep("said"), 200))
+test("the watch says why before ending the process", () => {
+  const body = watchOf(30, saidOf(NAMED, 30), 7)
 
-  expect(await heldTo(0.01, NAMED, slow)).toEqual({ stopped: saidOf(NAMED, 0.01) })
+  expect(body.indexOf("console.error")).toBeLessThan(body.indexOf("process.kill"))
+  expect(body).toContain(NAMED)
 })
 
 test("what is said names the call and the seconds that call was allowed", () => {

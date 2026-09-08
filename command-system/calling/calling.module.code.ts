@@ -6,7 +6,7 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import { costRecorded, opening } from "../../checks/modules/check-cost/check-cost.module.code.ts"
 import type { HelpNotes } from "../../commands/properties/help-notes.text-property.ts"
 import type { Taking } from "../../commands/properties/taking.record-property.ts"
-import { heldTo, secondsIn } from "../command-stopping/command-stopping.module.code.ts"
+import { secondsIn, watching } from "../command-stopping/command-stopping.module.code.ts"
 import { type Reached, saidIn, walkingIn } from "../command-walking/command-walking.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import {
@@ -79,8 +79,6 @@ const CODE = "code"
 const TS = "ts"
 
 const COMMAND = "command"
-
-const STOPPED = 3
 
 export const ROOTED = "index"
 
@@ -295,10 +293,9 @@ async function answeredBy(
   }
   const kind = outside.changeKind ?? kindOf(root, page)
   const calledAs = `${outside.calledAs} ${said}`
-  const held = await heldTo(
-    secondsIn(page),
-    calledAs,
-    answers(argv, {
+  const watch = watching(secondsIn(page), calledAs)
+  try {
+    return await answers(argv, {
       root,
       calledAs,
       from: outside.from,
@@ -306,8 +303,9 @@ async function answeredBy(
       agentId: outside.agentId,
       ...(kind === null ? {} : { changeKind: kind }),
     })
-  )
-  return "stopped" in held ? { report: [], refusals: [held.stopped], code: STOPPED } : held.answer
+  } finally {
+    watch.ended()
+  }
 }
 
 function helping(root: string, outside: Outside): Answer {

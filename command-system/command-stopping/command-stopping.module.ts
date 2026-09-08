@@ -22,19 +22,32 @@ export const commandStopping = {
     },
     {
       invariantKind: "departure",
-      statement: "A command answering without a promise runs past nothing.",
+      statement:
+        "The seconds are counted on the wall clock rather than on the work a command does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The watch runs on a thread of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command holding the loop for its whole run is stopped all the same.",
     },
     {
       invariantKind: "departure",
       statement: "What is said names the call and the seconds that call was allowed.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here ends the work a stopped call left running.",
+      invariantKind: "departure",
+      statement: "A stopped call says why on the error stream and the process is ended.",
     },
     {
       invariantKind: "departure",
-      statement: "The process exiting is what ends that work.",
+      statement: "A call answering inside its seconds ends the watch.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here waits on the answer a command gives.",
     },
   ],
 } as const satisfies Module
