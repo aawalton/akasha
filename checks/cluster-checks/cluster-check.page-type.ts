@@ -148,6 +148,7 @@ export const clusterCheck = {
     "module/check-type-assertions",
     "module/cli-json-contract-coupling",
     "module/client-env-inlined",
+    "module/codegen-type-identity-drift",
   ],
   properties: [
     {
