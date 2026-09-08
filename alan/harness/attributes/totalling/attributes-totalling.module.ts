@@ -42,7 +42,7 @@ export const attributesTotalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A day's points are worked out by the code beside that attribute's readout.",
+      statement: "A day's points are worked out by the code beside that attribute's page.",
     },
     {
       invariantKind: "departure",

@@ -84,5 +84,13 @@ export const attribute = {
       invariantKind: "departure",
       statement: "An attribute shown as no daily light earns points all the same.",
     },
+    {
+      invariantKind: "departure",
+      statement: "What earns an attribute its points is the code beside that attribute's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout counting an attribute reads that attribute's points off its page.",
+    },
   ],
 } as const satisfies PageType
