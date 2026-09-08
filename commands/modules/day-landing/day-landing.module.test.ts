@@ -6,14 +6,14 @@ import { besideArgv, pathUnder, withSessionsDeclared } from "./day-landing.modul
 
 const ROOT = "/var/home/walton/repos/akasha"
 
-const UNDECLARED = `import type { WakeDay } from "../../wake-day.page-type.ts"
+const UNDECLARED = `import type { Day } from "../../day.page-type.ts"
 
 export const wakeDay20260906 = {
   id: "01a07629-2c15-7000-aa49-25832a4c3322",
-  pageTypeSlug: "wake-day",
+  pageTypeSlug: "day",
   slug: "day-2026-09-06",
   date: "2026-09-06",
-} as const satisfies WakeDay
+} as const satisfies Day
 `
 
 const DECLARED = withSessionsDeclared(UNDECLARED)
@@ -41,7 +41,7 @@ function heldFor(
 }
 
 test("a day page carrying no declaration gains one before its closing line", () => {
-  expect(DECLARED).toContain('  sessions: "jsonl",\n} as const satisfies WakeDay')
+  expect(DECLARED).toContain('  sessions: "jsonl",\n} as const satisfies Day')
   expect(DECLARED.replace('  sessions: "jsonl",\n', "")).toBe(UNDECLARED)
 })
 
