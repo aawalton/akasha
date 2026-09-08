@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0044Chapter42CrisisManag
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0044-chapter-42-crisis-management",
   title: "Chapter 42 - Crisis Management",
-  partOfSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
+  partOfCollectionSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
   position: 44,
   ownLength: 2812,
   unitSlug: "words",

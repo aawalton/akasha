@@ -5,7 +5,7 @@ export const delve0223223Control = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0223-223-control",
   title: "223: Control",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 223,
   ownLength: 4315,
   unitSlug: "words",

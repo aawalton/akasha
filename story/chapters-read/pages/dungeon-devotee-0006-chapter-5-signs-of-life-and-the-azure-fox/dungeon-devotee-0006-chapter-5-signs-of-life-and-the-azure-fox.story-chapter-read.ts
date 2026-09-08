@@ -5,7 +5,7 @@ export const dungeonDevotee0006Chapter5SignsOfLifeAndTheAzureFox = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0006-chapter-5-signs-of-life-and-the-azure-fox",
   title: "Chapter 5: Signs of Life and the Azure Fox",
-  partOfSlugs: ["dungeon-devotee"],
+  partOfCollectionSlugs: ["dungeon-devotee"],
   position: 6,
   ownLength: 8341,
   ownProgress: 8341,

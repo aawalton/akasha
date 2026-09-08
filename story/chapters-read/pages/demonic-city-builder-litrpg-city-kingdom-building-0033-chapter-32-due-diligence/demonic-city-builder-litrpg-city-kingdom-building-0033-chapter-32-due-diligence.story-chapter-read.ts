@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0033Chapter32DueDiligenc
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0033-chapter-32-due-diligence",
   title: "Chapter 32 - Due Diligence",
-  partOfSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
+  partOfCollectionSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
   position: 33,
   ownLength: 2507,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0013Chapter13MasterMage = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0013-chapter-13-master-mage",
   title: "Chapter 13: Master Mage",
-  partOfSlugs: ["delver-dungeon-diving-and-magic-litrpg"],
+  partOfCollectionSlugs: ["delver-dungeon-diving-and-magic-litrpg"],
   position: 13,
   ownLength: 2372,
   unitSlug: "words",

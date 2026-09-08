@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0019Chapter57FireIcePart
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0019-chapter-57-fire-ice-part-2",
   title: "Chapter 57 - Fire & Ice - Part 2",
-  partOfSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
+  partOfCollectionSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
   position: 19,
   ownLength: 2295,
   unitSlug: "words",

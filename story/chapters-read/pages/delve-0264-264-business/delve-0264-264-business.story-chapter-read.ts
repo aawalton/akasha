@@ -5,7 +5,7 @@ export const delve0264264Business = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0264-264-business",
   title: "264: Business",
-  partOfSlugs: ["delve"],
+  partOfCollectionSlugs: ["delve"],
   position: 264,
   ownLength: 3822,
   unitSlug: "words",

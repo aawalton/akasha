@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0001Chapter1TheFinePrint
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0001-chapter-1-the-fine-print",
   title: "Chapter 1 - The Fine Print",
-  partOfSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
+  partOfCollectionSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
   position: 1,
   ownLength: 2539,
   unitSlug: "words",
