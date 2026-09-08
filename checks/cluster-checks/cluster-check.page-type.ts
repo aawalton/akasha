@@ -68,7 +68,7 @@ export const clusterCheck = {
     "cluster-check/tailwind-sources",
     "cluster-check/test-step-paths",
     "cluster-check/tsconfig",
-    "cluster-check/tstl-this-void-self-drop",
+    "cluster-check/this-void-self-drop",
     "cluster-check/verdict-emitter-chokepoint",
     "cluster-check/vite-supabase-rr-define",
     "cluster-check/widget-payload-shape-mirror",
