@@ -20,27 +20,50 @@ export const SLEPT = "01a06818-339b-7fc2-8cd9-caea195150b3"
 
 const ROW = `{"id":"${SLEPT}","title":"Slept","startTime":"2026-09-01T06:00:00.000Z","dailyTracking":"${PAGE_ID}","endTime":"2026-09-01T14:00:00.000Z"}\n`
 
-const PUT = "add-file-of-any-kind.change-mechanical"
+const PUT_UNDER = "changes/mechanical/file/add"
 
-const PUT_UNDER = "changes/mechanical/file/add/add-file-of-any-kind"
+type Reached = {
+  readonly slug: string
+  readonly type: string
+  readonly named: string
+  readonly id: string
+}
 
-const PUT_ID = "01a06818-339b-7fc2-8cd9-caea195150b4"
+const REACHED: readonly Reached[] = [
+  {
+    slug: "add-file-of-any-kind",
+    type: "change-mechanical",
+    named: "addFileOfAnyKind",
+    id: "01a06818-339b-7fc2-8cd9-caea195150b4",
+  },
+  {
+    slug: "add-file",
+    type: "change-mechanical-file",
+    named: "addFile",
+    id: "01a06818-339b-7fc2-8cd9-caea195150b5",
+  },
+]
 
-const PUT_PAGE = `export const addFileOfAnyKind = {
-  id: "${PUT_ID}",
-  pageTypeSlug: "change-mechanical",
-  slug: "add-file-of-any-kind",
-  definition: "the change a track act lands its rows through",
+function pageOf(one: Reached): string {
+  return `export const ${one.named} = {
+  id: "${one.id}",
+  pageTypeSlug: "${one.type}",
+  slug: "${one.slug}",
+  definition: "a change a track act lands its rows through",
   code: "ts",
 } as const
 `
+}
 
 function changing(): Readonly<Record<string, string>> {
-  const at = join(rootOf(process.cwd()), PUT_UNDER, `${PUT}.code.ts`)
-  return {
-    [`akasha/changes/${PUT}.ts`]: PUT_PAGE,
-    [`akasha/changes/${PUT}.code.ts`]: `export { runChange } from "${at}"\n`,
+  const found: Record<string, string> = {}
+  for (const one of REACHED) {
+    const named = `${one.slug}.${one.type}`
+    const at = join(rootOf(process.cwd()), PUT_UNDER, one.slug, `${named}.code.ts`)
+    found[`akasha/changes/${named}.ts`] = pageOf(one)
+    found[`akasha/changes/${named}.code.ts`] = `export { runChange } from "${at}"\n`
   }
+  return found
 }
 
 export function dayRepo(): string {
