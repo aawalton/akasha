@@ -16,6 +16,7 @@ export const changeRunner = {
   pluralSlug: "change-runners",
   partSlugs: [
     "change-runner/change-running",
+    "module/change-loading",
     "file-property/addressed",
     "relation-property/reached-slug",
   ],

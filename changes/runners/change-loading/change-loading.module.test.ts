@@ -1,11 +1,8 @@
 import { expect, test } from "bun:test"
-import { refusing, stating } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { codeAt, partsOf, ranBy, sittingAt } from "./change-running.change-runner.code.ts"
+import { refusing, stating } from "../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import { NOTHING_OVER, type World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+import { codeAt, partsOf, ranBy, sittingAt } from "./change-loading.module.code.ts"
 
 const AT = "akasha/one.held.ts"
 
@@ -21,6 +18,16 @@ const WROTE: Answer = stating([{ kind: "add", path: AT, content: "held\n" }])
 
 function moving(was: string, now: string): Answer {
   return stating([{ kind: "move", pathFrom: was, pathTo: now }])
+}
+
+function worldOf(): World {
+  return {
+    root: "/nowhere",
+    index: {} as World["index"],
+    textOf: () => null,
+    base: () => null,
+    over: NOTHING_OVER,
+  }
 }
 
 test("a path a move carries a body to is loaded from the path that body came from", () => {
@@ -42,16 +49,6 @@ test("a page a move carries elsewhere is read for its code beside the path that 
 
   expect(codeAt(world, "held-kind/held-one")).toBe("akasha/one/held-one.held-kind.code.ts")
 })
-
-function worldOf(): World {
-  return {
-    root: "/nowhere",
-    index: {} as World["index"],
-    textOf: () => null,
-    base: () => null,
-    over: NOTHING_OVER,
-  }
-}
 
 test("an address is parted at the first slash into a page type and a slug", () => {
   expect(partsOf("change-agent/remove-page")).toEqual(["change-agent", "remove-page"])
