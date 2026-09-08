@@ -1,5 +1,7 @@
+import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const COMPANION_JEWELRY_SLOT_EAV_SCHEMA = z
   .object({
@@ -36,11 +38,7 @@ function parseCompanionJewelrySlot(row: Page): ParsedCompanionJewelrySlot {
 export function generateTemperCompanionJewelrySlot(rows: readonly Page[]): string {
   const parsed = rows.map(parseCompanionJewelrySlot)
 
-  const precedence: Record<string, number> = {
-    necklace: 0,
-    "ring-1": 1,
-    "ring-2": 2,
-  }
+  const precedence: Record<string, number> = ranksOf(companionJewelrySlots.ids)
   const sorted = [...parsed].sort((a, b) => {
     const pa = precedence[a.key] ?? 1_000
     const pb = precedence[b.key] ?? 1_000

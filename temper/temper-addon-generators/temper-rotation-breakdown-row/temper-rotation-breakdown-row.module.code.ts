@@ -1,5 +1,7 @@
+import { rotationBreakdownRows } from "@akasha/temper-companions-core/rotation-breakdown-rows"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 
 const ROTATION_BREAKDOWN_ROW_EAV_SCHEMA = z
   .object({
@@ -36,21 +38,7 @@ function parseRotationBreakdownRow(row: Page): ParsedRotationBreakdownRow {
 export function generateTemperRotationBreakdownRow(rows: readonly Page[]): string {
   const parsed = rows.map(parseRotationBreakdownRow)
 
-  const precedence: Record<string, number> = {
-    damage: 0,
-    "d-percent": 1,
-    dps: 2,
-    dpc: 3,
-    healing: 4,
-    "h-percent": 5,
-    sps: 6,
-    spc: 7,
-    hps: 8,
-    hpc: 9,
-    casts: 10,
-    uptime: 11,
-    tps: 12,
-  }
+  const precedence: Record<string, number> = ranksOf(rotationBreakdownRows.ids)
   const sorted = [...parsed].sort((a, b) => {
     const pa = precedence[a.key] ?? 1_000
     const pb = precedence[b.key] ?? 1_000

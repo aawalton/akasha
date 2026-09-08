@@ -1,5 +1,7 @@
+import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
 import { z } from "zod"
 import type { Page } from "../addon-data-page/addon-data-page.module.code.ts"
+import { ranksOf } from "../rank-by-key/rank-by-key.module.code.ts"
 import { renderConstOrNull } from "../render-const-or-null/render-const-or-null.module.code.ts"
 import { renderQualityValues } from "../render-quality-values/render-quality-values.module.code.ts"
 
@@ -63,18 +65,7 @@ function parseCompanionTrait(row: Page): ParsedCompanionTrait {
 export function generateTemperCompanionTrait(rows: readonly Page[]): string {
   const parsed = rows.map(parseCompanionTrait)
 
-  const precedence: Record<string, number> = {
-    "no-trait": 0,
-    aggressive: 1,
-    augmented: 2,
-    bolstered: 3,
-    focused: 4,
-    prolific: 5,
-    quickened: 6,
-    shattering: 7,
-    soothing: 8,
-    vigorous: 9,
-  }
+  const precedence: Record<string, number> = ranksOf(companionTraits.ids)
   const sorted = [...parsed].sort((a, b) => {
     const pa = precedence[a.key] ?? 1_000
     const pb = precedence[b.key] ?? 1_000
