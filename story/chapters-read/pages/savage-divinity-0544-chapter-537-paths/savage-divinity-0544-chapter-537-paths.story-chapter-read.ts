@@ -5,7 +5,7 @@ export const savageDivinity0544Chapter537Paths = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0544-chapter-537-paths",
   title: "Chapter 537: Paths",
-  partOfSlugs: ["savage-divinity"],
+  partOfCollectionSlugs: ["savage-divinity"],
   position: 544,
   ownLength: 4811,
   unitSlug: "words",

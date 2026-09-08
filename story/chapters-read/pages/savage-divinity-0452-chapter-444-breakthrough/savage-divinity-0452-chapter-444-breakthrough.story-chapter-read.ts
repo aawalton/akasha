@@ -5,7 +5,7 @@ export const savageDivinity0452Chapter444Breakthrough = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0452-chapter-444-breakthrough",
   title: "Chapter 444: Breakthrough",
-  partOfSlugs: ["savage-divinity"],
+  partOfCollectionSlugs: ["savage-divinity"],
   position: 452,
   ownLength: 4117,
   unitSlug: "words",

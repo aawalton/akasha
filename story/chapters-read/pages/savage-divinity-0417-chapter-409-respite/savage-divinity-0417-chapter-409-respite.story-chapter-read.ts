@@ -5,7 +5,7 @@ export const savageDivinity0417Chapter409Respite = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0417-chapter-409-respite",
   title: "Chapter 409: Respite",
-  partOfSlugs: ["savage-divinity"],
+  partOfCollectionSlugs: ["savage-divinity"],
   position: 417,
   ownLength: 3514,
   unitSlug: "words",
