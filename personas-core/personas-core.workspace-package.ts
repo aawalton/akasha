@@ -15,7 +15,6 @@ export const personasCore = {
     "module/image-name",
     "module/last-messaged",
     "module/points-source-availability",
-    "module/points-source-coherence",
     "module/points-source-declarers",
     "module/render-prompt",
     "module/voice-spec",

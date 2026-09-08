@@ -69,5 +69,6 @@ export const persona = {
     "module/image-locator",
     "module/anchor-cover-record",
     "module/persona-page-conditions",
+    "module/points-source-coherence",
   ],
 } as const satisfies WorkspacePackage

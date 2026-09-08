@@ -11,7 +11,6 @@
     "./image-name": "./image-name/image-name.module.code.ts",
     "./last-messaged": "./last-messaged/last-messaged.module.code.ts",
     "./points-source-availability": "./points-source-availability/points-source-availability.module.code.ts",
-    "./points-source-coherence": "./points-source-coherence/points-source-coherence.module.code.ts",
     "./points-source-declarers": "./points-source-declarers/points-source-declarers.module.code.ts",
     "./render-prompt": "./render-prompt/render-prompt.module.code.ts",
     "./voice-spec": "./voice-spec/voice-spec.module.code.ts",
