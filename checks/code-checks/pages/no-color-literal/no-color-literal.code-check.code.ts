@@ -1,6 +1,11 @@
+import { dirname } from "node:path"
+import { besideAt } from "@akasha/pages/page-file-name"
+import { textAt } from "@akasha/pages/page-value"
+import type { Shadow } from "@akasha/pages/shadow"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import {
   BODIES,
+  type Body,
   judgingEach,
   overEachBody,
   PAGES,
@@ -8,17 +13,32 @@ import {
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 
 export type Grant = {
-  readonly path: string
+  readonly pageTypeSlug: string
+  readonly slug: string
   readonly values: readonly [string, ...(readonly string[])]
   readonly reason: string
 }
 
-export const RULE_HOME =
-  "checks/code-checks/pages/no-color-literal/no-color-literal.code-check.code.ts"
+export type Passing = {
+  readonly palette: string
+  readonly home: string
+  readonly granted: ReadonlyMap<string, ReadonlySet<string>>
+}
+
+const DOMAIN = "domain"
+
+const PALETTE = "design"
+
+const CODE_CHECK = "code-check"
+
+const OWN = "no-color-literal"
+
+const CODE = "code"
 
 export const GRANTS: readonly Grant[] = [
   {
-    path: "alan/atlas-web/location-map/location-map.module.code.tsx",
+    pageTypeSlug: "module",
+    slug: "location-map",
     values: ["#e6e4df"],
     reason:
       "Alan grant 2026-07-02: the MapLibre background matching the ground the external OSM tiles draw, which is no color of ours to re-shade.",
@@ -29,17 +49,40 @@ export function normalized(value: string): string {
   return value.trim().toLowerCase().replace(/\s+/g, " ")
 }
 
-const GRANTED: ReadonlyMap<string, ReadonlySet<string>> = new Map(
-  GRANTS.map((one) => [one.path, new Set(one.values.map(normalized))])
-)
-
-const PALETTE_HOME = "design/"
-
 const GENERATED = "generated"
 
-export function judgedAt(path: string): boolean {
-  if (path.startsWith(PALETTE_HOME)) return false
-  if (path === RULE_HOME) return false
+function codeAt(shadow: Shadow, pageTypeSlug: string, slug: string): string {
+  const named = shadow.index.listedAt(pageTypeSlug, slug)[0]
+  if (named === undefined) {
+    throw new Error(`the index files no \`${pageTypeSlug}/${slug}\`, so its code is unreachable`)
+  }
+  const value = shadow.index.pageByPath(named.path)
+  const held = value === null ? null : textAt(value, CODE)
+  const beside = held === null ? null : besideAt(named.path, CODE, held)
+  if (beside === null) throw new Error(`${named.path} states no code file beside it`)
+  return beside
+}
+
+export function passingIn(shadow: Shadow): Passing {
+  const design = shadow.index.listedAt(DOMAIN, PALETTE)[0]
+  if (design === undefined) {
+    throw new Error(`the index files no \`${DOMAIN}/${PALETTE}\`, so the palette's home is unknown`)
+  }
+  return {
+    palette: `${dirname(design.path)}/`,
+    home: codeAt(shadow, CODE_CHECK, OWN),
+    granted: new Map(
+      GRANTS.map((one) => [
+        codeAt(shadow, one.pageTypeSlug, one.slug),
+        new Set(one.values.map(normalized)),
+      ])
+    ),
+  }
+}
+
+export function judgedAt(passing: Passing, path: string): boolean {
+  if (path.startsWith(passing.palette)) return false
+  if (path === passing.home) return false
   const base = path.slice(path.lastIndexOf("/") + 1)
   if (base.includes(".test.") || base.includes(".generated.")) return false
   return !path.split("/").includes(GENERATED)
@@ -370,17 +413,29 @@ function saidOf(one: Written): string {
   return `line ${one.line} writes the color ${one.value} out rather than taking it from a design token`
 }
 
-export function found(path: string, text: string): readonly string[] {
-  if (!judgedAt(path)) return []
+export function found(passing: Passing, path: string, text: string): readonly string[] {
+  if (!judgedAt(passing, path)) return []
   const seen = styleNamed(path) ? inStyles(text) : inCode(text)
-  const granted = GRANTED.get(path)
+  const granted = passing.granted.get(path)
   const kept =
     granted === undefined ? seen : seen.filter((one) => !granted.has(normalized(one.value)))
   return kept.map(saidOf)
 }
 
-export const reasonsIn = overEachBody(found)
+export function reasonsOver(passing: Passing): (given: Body) => readonly string[] {
+  return overEachBody((path, text) => found(passing, path, text))
+}
+
+const PASSING = new WeakMap<Shadow, Passing>()
+
+function passingFor(shadow: Shadow): Passing {
+  const held = PASSING.get(shadow)
+  if (held !== undefined) return held
+  const made = passingIn(shadow)
+  PASSING.set(shadow, made)
+  return made
+}
 
 export const noColorLiteral = judgingEach(BODIES, (given, shadow) =>
-  PAGES.isInput(given.path, shadow) ? [] : found(given.path, given.text)
+  PAGES.isInput(given.path, shadow) ? [] : found(passingFor(shadow), given.path, given.text)
 )

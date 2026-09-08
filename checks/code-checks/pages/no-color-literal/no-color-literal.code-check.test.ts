@@ -1,8 +1,31 @@
 import { expect, test } from "bun:test"
 import { bodiesAt } from "@akasha/testing-system/bodying"
-import { found, judgedAt, reasonsIn } from "./no-color-literal.code-check.code.ts"
+import {
+  found as finding,
+  judgedAt as judging,
+  type Passing,
+  reasonsOver,
+} from "./no-color-literal.code-check.code.ts"
 
 const ROOT = "/repo"
+
+const GRANTED_AT = "alan/atlas-web/location-map/location-map.module.code.tsx"
+
+const PASSING: Passing = {
+  palette: "design/",
+  home: "checks/code-checks/pages/no-color-literal/no-color-literal.code-check.code.ts",
+  granted: new Map([[GRANTED_AT, new Set(["#e6e4df"])]]),
+}
+
+const reasonsIn = reasonsOver(PASSING)
+
+function found(path: string, text: string): readonly string[] {
+  return finding(PASSING, path, text)
+}
+
+function judgedAt(path: string): boolean {
+  return judging(PASSING, path)
+}
 
 const coded = bodiesAt(ROOT, "alan/web/held/held.module.code.ts")
 
@@ -66,15 +89,13 @@ test("an address holding a hash and digits is no color", () => {
 })
 
 test("a value Alan granted a file is let through in that file alone", () => {
-  const path = "alan/atlas-web/location-map/location-map.module.code.tsx"
   const body = 'const FALLBACK_BACKGROUND = "#e6e4df"\n'
-  expect(found(path, body)).toEqual([])
+  expect(found(GRANTED_AT, body)).toEqual([])
   expect(found("alan/web/held/held.module.code.ts", body)).toHaveLength(1)
 })
 
 test("a value no grant names is refused in a file holding a grant", () => {
-  const path = "alan/atlas-web/location-map/location-map.module.code.tsx"
-  expect(found(path, 'const OTHER = "#b87b11"\n')).toHaveLength(1)
+  expect(found(GRANTED_AT, 'const OTHER = "#b87b11"\n')).toHaveLength(1)
 })
 
 test("the palette's own home is judged by nothing", () => {
@@ -89,9 +110,7 @@ test("a test body and a generated body are judged by nothing", () => {
 })
 
 test("the check's own code is judged by nothing, so its grants are no violation", () => {
-  expect(
-    judgedAt("checks/code-checks/pages/no-color-literal/no-color-literal.code-check.code.ts")
-  ).toBe(false)
+  expect(judgedAt(PASSING.home)).toBe(false)
 })
 
 test("a body that is neither code nor a stylesheet is passed over", () => {
