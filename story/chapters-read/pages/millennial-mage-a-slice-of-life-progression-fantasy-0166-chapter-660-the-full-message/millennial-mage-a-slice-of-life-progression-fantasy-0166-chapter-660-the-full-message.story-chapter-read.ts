@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0166Chapter660TheFullMe
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0166-chapter-660-the-full-message",
   title: "Chapter: 660 - The Full Message",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 166,
   ownLength: 2893,
   ownProgress: 2893,

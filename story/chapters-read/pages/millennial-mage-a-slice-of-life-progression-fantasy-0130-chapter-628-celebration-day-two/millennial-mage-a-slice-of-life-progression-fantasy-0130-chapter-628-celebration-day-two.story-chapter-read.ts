@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0130Chapter628Celebrati
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0130-chapter-628-celebration-day-two",
   title: "Chapter: 628 - Celebration: Day Two",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 130,
   ownLength: 2748,
   ownProgress: 2748,

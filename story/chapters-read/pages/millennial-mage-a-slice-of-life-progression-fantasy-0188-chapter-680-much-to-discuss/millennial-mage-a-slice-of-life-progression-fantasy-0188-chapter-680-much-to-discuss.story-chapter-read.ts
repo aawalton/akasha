@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0188Chapter680MuchToDis
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0188-chapter-680-much-to-discuss",
   title: "Chapter: 680 - Much to Discuss",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 188,
   ownLength: 2754,
   ownProgress: 2754,

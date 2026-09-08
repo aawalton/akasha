@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0150Chapter646TheConcep
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0150-chapter-646-the-concept-more-than-the-fact",
   title: "Chapter: 646 - The Concept More than the Fact",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 150,
   ownLength: 2836,
   ownProgress: 2836,

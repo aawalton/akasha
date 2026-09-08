@@ -5,7 +5,7 @@ export const motherOfLearning009191APathPaidInBlood = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0091-91-a-path-paid-in-blood",
   title: "91. A Path Paid in Blood",
-  partOfSlugs: ["story-read/mother-of-learning"],
+  partOfCollectionSlugs: ["story-read/mother-of-learning"],
   position: 91,
   ownLength: 13150,
   ownProgress: 13150,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0143Chapter640Goodbye =
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0143-chapter-640-goodbye",
   title: "Chapter: 640 - Goodbye",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 143,
   ownLength: 2954,
   ownProgress: 2954,

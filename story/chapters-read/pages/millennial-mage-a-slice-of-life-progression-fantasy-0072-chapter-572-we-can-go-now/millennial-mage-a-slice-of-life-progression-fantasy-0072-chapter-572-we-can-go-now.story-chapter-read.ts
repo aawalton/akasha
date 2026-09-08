@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0072Chapter572WeCanGoNo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0072-chapter-572-we-can-go-now",
   title: "Chapter: 572 - We Can Go Now",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 72,
   ownLength: 2761,
   ownProgress: 2761,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0173Chapter667FailureIn
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0173-chapter-667-failure-in-victory",
   title: "Chapter: 667 - Failure in Victory",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 173,
   ownLength: 2932,
   ownProgress: 2932,

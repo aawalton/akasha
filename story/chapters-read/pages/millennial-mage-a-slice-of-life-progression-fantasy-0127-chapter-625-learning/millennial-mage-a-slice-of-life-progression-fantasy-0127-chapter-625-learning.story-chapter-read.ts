@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0127Chapter625Learning 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0127-chapter-625-learning",
   title: "Chapter: 625 - Learning",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 127,
   ownLength: 3056,
   ownProgress: 3056,

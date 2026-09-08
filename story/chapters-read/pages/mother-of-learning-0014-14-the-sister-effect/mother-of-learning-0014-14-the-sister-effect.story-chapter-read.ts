@@ -5,7 +5,7 @@ export const motherOfLearning001414TheSisterEffect = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0014-14-the-sister-effect",
   title: "14. The Sister Effect",
-  partOfSlugs: ["story-read/mother-of-learning"],
+  partOfCollectionSlugs: ["story-read/mother-of-learning"],
   position: 14,
   ownLength: 5071,
   ownProgress: 5071,

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0020Chapter19Compression
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0020-chapter-19-compression",
   title: "Chapter 19 Compression",
-  partOfSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
   position: 20,
   ownLength: 2107,
   unitSlug: "words",

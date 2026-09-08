@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0142Chapter639Succeeded
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0142-chapter-639-succeeded",
   title: "Chapter: 639 - Succeeded",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 142,
   ownLength: 2846,
   ownProgress: 2846,

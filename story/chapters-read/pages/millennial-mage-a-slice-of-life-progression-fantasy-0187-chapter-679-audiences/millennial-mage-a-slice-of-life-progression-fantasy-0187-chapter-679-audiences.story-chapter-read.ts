@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0187Chapter679Audiences
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0187-chapter-679-audiences",
   title: "Chapter: 679 - Audiences",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 187,
   ownLength: 2615,
   ownProgress: 2615,

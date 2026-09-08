@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0097Chapter595HerExpert
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0097-chapter-595-her-expertise",
   title: "Chapter: 595 - Her Expertise",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 97,
   ownLength: 2751,
   ownProgress: 2751,

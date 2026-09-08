@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0225Chapter716ARealisti
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0225-chapter-716-a-realistic-response",
   title: "Chapter: 716 - A Realistic Response",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 225,
   ownLength: 2945,
   unitSlug: "words",

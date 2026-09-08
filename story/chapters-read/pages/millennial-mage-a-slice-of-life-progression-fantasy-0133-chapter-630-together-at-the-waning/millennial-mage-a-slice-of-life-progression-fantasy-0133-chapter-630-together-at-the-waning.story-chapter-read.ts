@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0133Chapter630TogetherA
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0133-chapter-630-together-at-the-waning",
   title: "Chapter: 630 - Together at the Waning",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 133,
   ownLength: 3125,
   ownProgress: 3125,

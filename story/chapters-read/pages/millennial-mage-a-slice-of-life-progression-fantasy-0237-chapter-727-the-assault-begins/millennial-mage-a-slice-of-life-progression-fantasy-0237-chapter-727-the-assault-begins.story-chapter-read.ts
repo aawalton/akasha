@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0237Chapter727TheAssaul
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0237-chapter-727-the-assault-begins",
   title: "Chapter: 727 - The Assault Begins",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 237,
   ownLength: 2489,
   unitSlug: "words",

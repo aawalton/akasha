@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0252Chapter741Realities
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0252-chapter-741-realities-of-the-fight",
   title: "Chapter: 741 - Realities of the Fight",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 252,
   ownLength: 2634,
   unitSlug: "words",

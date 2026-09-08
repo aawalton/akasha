@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0119Chapter617NewCitySi
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0119-chapter-617-new-city-site",
   title: "Chapter: 617 - New City Site",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 119,
   ownLength: 2725,
   ownProgress: 2725,

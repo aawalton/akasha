@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0203Chapter695Collapse 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0203-chapter-695-collapse",
   title: "Chapter: 695 - Collapse",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 203,
   ownLength: 2707,
   ownProgress: 2707,

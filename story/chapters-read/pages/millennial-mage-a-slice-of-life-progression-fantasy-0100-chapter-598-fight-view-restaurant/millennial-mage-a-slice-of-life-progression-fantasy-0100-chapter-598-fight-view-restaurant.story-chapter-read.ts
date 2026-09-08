@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0100Chapter598FightView
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0100-chapter-598-fight-view-restaurant",
   title: "Chapter: 598 - Fight-View Restaurant",
-  partOfSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
   position: 100,
   ownLength: 2560,
   ownProgress: 2560,
