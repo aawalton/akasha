@@ -29,5 +29,6 @@ export const serviceSystem = {
     "module/service-health",
     "module/service-alerting",
     "module/service-watching",
+    "workstation-service/service-watching",
   ],
 } as const satisfies WorkspacePackage

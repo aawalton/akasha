@@ -20,6 +20,7 @@ export const shellScript = {
     "shell-script/bash-env",
     "shell-script/repos-empty-dir-purge",
     "shell-script/statusline",
+    "workstation-service/repos-empty-dir-purge",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [

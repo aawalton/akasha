@@ -10,6 +10,7 @@ export const rulePopulation = {
     "module/rule-population-notice",
     "module/rule-population-reading",
     "module/rule-population-sweeping",
+    "workstation-service/rule-population-sweep",
   ],
   invariants: [
     {

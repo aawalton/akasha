@@ -13,6 +13,7 @@ export const emailWatch = {
     "module/inbox-pass",
     "module/inbox-run",
     "module/inbox-watching",
+    "workstation-service/alan-email-worker",
   ],
   invariants: [
     {

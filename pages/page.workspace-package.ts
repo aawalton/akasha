@@ -95,6 +95,7 @@ export const page = {
     "workspace-package/page-commands",
     "page-type/named-folder-property",
     "page-type/build-folder-property",
+    "workstation-service/sweep-page-answers",
   ],
   invariants: [
     {

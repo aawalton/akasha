@@ -28,6 +28,7 @@ export const personasCore = {
     "module/wallpaper-order",
     "module/wallpaper-record",
     "module/wallpaper-select",
+    "workstation-service/desktop-wallpaper-setting",
   ],
   invariants: [
     {
