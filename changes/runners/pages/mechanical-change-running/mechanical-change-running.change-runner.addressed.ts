@@ -116,6 +116,9 @@ export type Changes = {
   "change-mechanical/remove-file-of-any-kind": Parameters<
     typeof import("../../../mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.code.ts")["runChange"]
   >[1]
+  "change-mechanical/remove-file-page-property": Parameters<
+    typeof import("../../../mechanical/file/remove/remove-file-page-property/remove-file-page-property.change-mechanical.code.ts")["runChange"]
+  >[1]
   "change-mechanical/remove-file-page-type": Parameters<
     typeof import("../../../mechanical/file/remove/remove-file-page-type/remove-file-page-type.change-mechanical.code.ts")["runChange"]
   >[1]
