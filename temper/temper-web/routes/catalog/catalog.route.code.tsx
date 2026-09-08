@@ -2,7 +2,7 @@ import { PageLayoutSkeleton } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
-import { CatalogPageContent } from "../catalog-page-content/catalog-page-content.module.code.tsx"
+import { CatalogPageContent } from "../../catalog-page-content/catalog-page-content.module.code.tsx"
 
 export function meta() {
   return [{ title: "Temper | Catalog" }]

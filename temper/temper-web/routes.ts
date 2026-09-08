@@ -3,7 +3,7 @@ import { index, layout, type RouteConfig, route } from "@react-router/dev/routes
 const PAGE_ROUTES: RouteConfig = [
   layout("routes/_app-layout.tsx", [
     route("home", "routes/home.tsx"),
-    route("catalog", "routes/catalog.tsx"),
+    route("catalog", "routes/catalog/catalog.route.code.tsx"),
     route("cli-link", "routes/cli-link.tsx"),
     route("completion", "routes/completion.tsx"),
     route(
