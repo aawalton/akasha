@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "exports": {
-    "./browser-test-storage-state": "./browser-test-storage-state/browser-test-storage-state.command.code.ts"
+    "./browser-test-storage-state": "./browser-test-storage-state/browser-test-storage-state.command.code.ts",
+    "./verify-render-plan": "./verify-render-plan/verify-render-plan.module.code.ts"
   },
   "dependencies": {
     "@akasha/browser-test-harness": "workspace:*",
