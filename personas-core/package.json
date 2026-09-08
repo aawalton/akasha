@@ -4,7 +4,6 @@
   "type": "module",
   "exports": {
     "./desktop-wallpaper-setting": "./desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts",
-    "./wallpaper-install": "./wallpaper-install/wallpaper-install.module.code.ts",
     "./wallpaper-order": "./wallpaper-order/wallpaper-order.module.code.ts",
     "./wallpaper-select": "./wallpaper-select/wallpaper-select.module.code.ts"
   },
