@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { landedMechanically } from "@akasha/command-system/asking"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { listedAt, readingIn, slugsOfType, typeSlugOf } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { kindsUnder } from "@akasha/pages/page-type-descent"
@@ -11,12 +11,13 @@ const PERSON = "person"
 
 const DOMAIN = "domain"
 
-/** The seat page type, reached by the id it keeps rather than by the slug it answers to. */
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 
 const PREFERRED: readonly string[] = [DOMAIN, PERSON, "persona", "initiative"]
 
-const CALLED_AS = "seat-stating"
+const PUT = "change-mechanical-file/add-file"
+
+const TAKE = "change-mechanical-file/remove-file"
 
 const ASSIGNMENT = "assignmentSlug"
 
@@ -139,25 +140,25 @@ export async function statedSeat(
   if (there && readFileSync(join(root, page), "utf8") === body) {
     return { kind: "unchanged" }
   }
-  const landed = await landedMechanically(
+  const landed = await runMechanicalChange(
     root,
-    CALLED_AS,
-    [{ path: page, body: new TextEncoder().encode(body) }],
+    [{ at: PUT, given: { at: page, body } }],
     `${seatName}: the seat is in akasha as what it states`
   )
-  if (landed.code !== 0) return { kind: "refused", said: landed.refusals.join("; ") }
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) return { kind: "refused", said: wrong.join("; ") }
   return { kind: "wrote" }
 }
 
 export async function tookSeat(root: string, seatName: string, why: string): Promise<Stating> {
   const page = seatPathForName(seatName)
   if (!existsSync(join(root, page))) return { kind: "unchanged" }
-  const landed = await landedMechanically(
+  const landed = await runMechanicalChange(
     root,
-    CALLED_AS,
-    [{ path: page, body: null }],
+    [{ at: TAKE, given: { at: page } }],
     `${seatName} stopped, ${why}, so its page goes`
   )
-  if (landed.code !== 0) return { kind: "refused", said: landed.refusals.join("; ") }
+  const wrong = "refusals" in landed ? landed.refusals : landed.wrong
+  if (wrong.length > 0) return { kind: "refused", said: wrong.join("; ") }
   return { kind: "took" }
 }

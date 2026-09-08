@@ -57,6 +57,10 @@ export const seatStating = {
       statement: "The address a seat's page carries is read from that page rather than composed.",
     },
     {
+      invariantKind: "departure",
+      statement: "The seat page type is reached by the id it keeps rather than by its slug.",
+    },
+    {
       invariantKind: "constraint",
       statement: "A stop takes away the page an address is read from.",
     },
@@ -78,7 +82,11 @@ export const seatStating = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat that stopped has its page taken away here.",
+      statement: "The page goes in through the change adding a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat that stopped has its page taken away by the change removing a file.",
     },
     {
       invariantKind: "absence",
