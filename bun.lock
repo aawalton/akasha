@@ -2906,13 +2906,6 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "utils-system": {
-      "name": "@akasha/utils-system",
-      "dependencies": {
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "utils/fs": {
       "name": "@akasha/utils-fs",
       "dependencies": {
@@ -2934,6 +2927,13 @@
     },
     "utils/run": {
       "name": "@akasha/utils-run",
+    },
+    "utils/system": {
+      "name": "@akasha/utils-system",
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
     },
     "verdict": {
       "name": "@akasha/verdict",
@@ -3531,7 +3531,7 @@
 
     "@akasha/utils-sync": ["@akasha/utils-sync@workspace:utils-sync"],
 
-    "@akasha/utils-system": ["@akasha/utils-system@workspace:utils-system"],
+    "@akasha/utils-system": ["@akasha/utils-system@workspace:utils/system"],
 
     "@akasha/verdict": ["@akasha/verdict@workspace:verdict"],
 

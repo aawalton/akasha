@@ -11,7 +11,6 @@ export const akasha = {
     "domain/text",
     "domain/file",
     "workspace-package/file-system",
-    "workspace-package/utils-system",
     "workspace-package/git",
     "workspace-package/shell",
     "workspace-package/page",
