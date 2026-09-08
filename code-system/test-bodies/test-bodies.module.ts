@@ -31,6 +31,20 @@ export const testBodies = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A specifier a manifest the change carries names is resolved through that manifest.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A way in landing on a path the change carries is served rather than read on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A specifier no manifest the change carries names is left to the runner.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An import reaching a path the change takes away is refused.",
     },
     {
