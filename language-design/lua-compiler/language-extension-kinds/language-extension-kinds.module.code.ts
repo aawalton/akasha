@@ -136,7 +136,7 @@ export function getIterableExtensionTypeForType(
   context: TransformationContext,
   type: ts.Type
 ): IterableExtensionKind | undefined {
-  const value = getPropertyValue(context, type, "__tstlIterable")
+  const value = getPropertyValue(context, type, "__luaIterable")
   if (value !== undefined && isIterableExtensionKind(value)) {
     return value
   }
