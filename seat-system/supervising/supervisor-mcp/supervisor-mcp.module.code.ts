@@ -81,17 +81,10 @@ function atomicWriteStorageState(path: string, contents: string): undefined {
   renameSync(tmp, path)
 }
 
-/**
- * The export is imported where it is called rather than at the top of this file.
- *
- * It drives a chromium through `playwright-core`, which the browser packages hold as an optional
- * dependency, and a supervisor that never seeds a browser MCP never needs it. A specifier at the
- * top would load it into every supervisor at boot and kill one on a tree that has none.
- */
 async function runExport(): Promise<undefined> {
   console.log(`${LOG} re-exporting playwright storage state`)
   const { exportBrowserTestStorageState } = await import(
-    "@akasha/browser-commands/browser-test-storage-state"
+    "../../../commands/pages/browser/test-storage-state/browser-test-storage-state.command.code.ts"
   )
   try {
     for (const line of await exportBrowserTestStorageState()) console.log(`${LOG} ${line}`)
@@ -199,7 +192,7 @@ export async function resolveMcpConfig(
     reconcileDisabledMcpServers(opts.configDir, opts.cwd, Object.keys(content.mcpServers))
   }
   if ("playwright" in content.mcpServers) await ensureFreshPlaywrightStorageState()
-  const configPath = `/tmp/mcp-local-${sessionId}.json`
+  const configPath = `/var/tmp/mcp-local-${sessionId}.json`
   writeFileSync(configPath, JSON.stringify(content))
   return configPath
 }
