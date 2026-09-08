@@ -6,7 +6,7 @@ import {
   createDefaultExportStringLiteral,
   hasDefaultExportModifier,
 } from "../export-scope/export-scope.module.code.ts"
-import { createExportsIdentifier } from "../tstl-exports-identifier/tstl-exports-identifier.module.code.ts"
+import { createExportsIdentifier } from "../exports-identifier/exports-identifier.module.code.ts"
 import {
   ContextType,
   getFunctionContextType,

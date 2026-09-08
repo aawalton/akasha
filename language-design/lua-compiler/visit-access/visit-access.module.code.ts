@@ -5,12 +5,12 @@ import { transformBuiltinPropertyAccessExpression } from "../builtins/builtins.m
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
 import { getSymbolExportScope, isSymbolExported } from "../export-scope/export-scope.module.code.ts"
+import { createExportsIdentifier } from "../exports-identifier/exports-identifier.module.code.ts"
 import {
   invalidCallExtensionUse,
   invalidMultiReturnAccess,
   unsupportedOptionalCompileMembersOnly,
 } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
-import { createExportsIdentifier } from "../tstl-exports-identifier/tstl-exports-identifier.module.code.ts"
 import { getExtensionKindForNode } from "../tstl-language-extensions/tstl-language-extensions.module.code.ts"
 import { addToNumericExpression } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"

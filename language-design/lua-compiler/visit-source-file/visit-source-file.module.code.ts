@@ -1,7 +1,7 @@
 import * as ts from "typescript"
 import { z } from "zod"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { createExportsIdentifier } from "../tstl-exports-identifier/tstl-exports-identifier.module.code.ts"
+import { createExportsIdentifier } from "../exports-identifier/exports-identifier.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { transformInPrecedingStatementScope } from "../tstl-preceding-statements/tstl-preceding-statements.module.code.ts"

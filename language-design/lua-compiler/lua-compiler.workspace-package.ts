@@ -57,7 +57,7 @@ export const luaCompiler = {
     "module/tstl-diagnostics",
     "module/export-scope",
     "module/export-deps",
-    "module/tstl-exports-identifier",
+    "module/exports-identifier",
     "module/tstl-function-context",
     "module/tstl-language-extensions",
     "module/tstl-lua-ast",
