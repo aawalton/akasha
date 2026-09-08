@@ -5,7 +5,7 @@ export const towerAndTheStar0009Floor9ClearAndTheWeightOfKnowing = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0009-floor-9-clear-and-the-weight-of-knowing",
   title: "Floor 9 Clear and the Weight of Knowing",
-  partOfSlugs: ["tower-and-the-star"],
+  partOfCollectionSlugs: ["tower-and-the-star"],
   position: 9,
   ownLength: 4120,
   unitSlug: "words",

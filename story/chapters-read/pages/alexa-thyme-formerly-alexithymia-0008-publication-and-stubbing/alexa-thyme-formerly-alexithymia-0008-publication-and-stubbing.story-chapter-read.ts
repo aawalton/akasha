@@ -5,7 +5,7 @@ export const alexaThymeFormerlyAlexithymia0008PublicationAndStubbing = {
   pageTypeSlug: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0008-publication-and-stubbing",
   title: "Publication and Stubbing",
-  partOfSlugs: ["alexa-thyme-formerly-alexithymia"],
+  partOfCollectionSlugs: ["alexa-thyme-formerly-alexithymia"],
   position: 8,
   ownLength: 124,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const towerAndTheStar0027CartographerSTruth = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0027-cartographer-s-truth",
   title: "Cartographer's Truth",
-  partOfSlugs: ["tower-and-the-star"],
+  partOfCollectionSlugs: ["tower-and-the-star"],
   position: 27,
   ownLength: 2659,
   unitSlug: "words",

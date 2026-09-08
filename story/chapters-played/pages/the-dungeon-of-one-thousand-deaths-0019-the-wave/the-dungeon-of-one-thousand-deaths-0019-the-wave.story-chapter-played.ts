@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0019TheWave = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0019-the-wave",
   title: "The Wave",
-  partOfSlugs: ["the-dungeon-of-one-thousand-deaths"],
+  partOfCollectionSlugs: ["the-dungeon-of-one-thousand-deaths"],
   position: 19,
   ownLength: 3577,
   unitSlug: "words",

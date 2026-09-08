@@ -5,7 +5,7 @@ export const thePlacesSheCarries0003TheGreenBelow = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0003-the-green-below",
   title: "The Green Below",
-  partOfSlugs: ["the-places-she-carries"],
+  partOfCollectionSlugs: ["the-places-she-carries"],
   position: 3,
   ownLength: 7961,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const towerAndTheStar0018TheInstrumentCache = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0018-the-instrument-cache",
   title: "The Instrument Cache",
-  partOfSlugs: ["tower-and-the-star"],
+  partOfCollectionSlugs: ["tower-and-the-star"],
   position: 18,
   ownLength: 3615,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePlacesSheCarries0019TheSecondHolding = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0019-the-second-holding",
   title: "The Second Holding",
-  partOfSlugs: ["the-places-she-carries"],
+  partOfCollectionSlugs: ["the-places-she-carries"],
   position: 19,
   ownLength: 4300,
   unitSlug: "words",

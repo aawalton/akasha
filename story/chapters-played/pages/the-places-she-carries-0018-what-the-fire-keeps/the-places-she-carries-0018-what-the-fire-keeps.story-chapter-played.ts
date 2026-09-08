@@ -5,7 +5,7 @@ export const thePlacesSheCarries0018WhatTheFireKeeps = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0018-what-the-fire-keeps",
   title: "What the Fire Keeps",
-  partOfSlugs: ["the-places-she-carries"],
+  partOfCollectionSlugs: ["the-places-she-carries"],
   position: 18,
   ownLength: 4751,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePlacesSheCarries0025TheRoothold = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0025-the-roothold",
   title: "The Roothold",
-  partOfSlugs: ["the-places-she-carries"],
+  partOfCollectionSlugs: ["the-places-she-carries"],
   position: 25,
   ownLength: 2596,
   unitSlug: "words",

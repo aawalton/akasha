@@ -5,7 +5,7 @@ export const thePlacesSheCarries0009TheSouthWindow = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0009-the-south-window",
   title: "The South Window",
-  partOfSlugs: ["the-places-she-carries"],
+  partOfCollectionSlugs: ["the-places-she-carries"],
   position: 9,
   ownLength: 4426,
   unitSlug: "words",

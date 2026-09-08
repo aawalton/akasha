@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0010Book6Ch3AReckoning = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0010-book-6-ch-3-a-reckoning",
   title: "Book 6 Ch 3: A Reckoning",
-  partOfSlugs: ["all-the-skills-a-deckbuilding-litrpg"],
+  partOfCollectionSlugs: ["all-the-skills-a-deckbuilding-litrpg"],
   position: 10,
   ownLength: 2119,
   ownProgress: 2119,

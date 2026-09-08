@@ -5,7 +5,7 @@ export const towerAndTheStar0011PhaseThree = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0011-phase-three",
   title: "Phase Three",
-  partOfSlugs: ["tower-and-the-star"],
+  partOfCollectionSlugs: ["tower-and-the-star"],
   position: 11,
   ownLength: 5193,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0029TheLevelZeroHeroChapter
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0029-the-level-zero-hero-chapter-191",
   title: "The Level Zero Hero Chapter 191",
-  partOfSlugs: ["amelia-the-level-zero-hero-an-op-mc-isekai-litrpg"],
+  partOfCollectionSlugs: ["amelia-the-level-zero-hero-an-op-mc-isekai-litrpg"],
   position: 29,
   ownLength: 1665,
   unitSlug: "words",

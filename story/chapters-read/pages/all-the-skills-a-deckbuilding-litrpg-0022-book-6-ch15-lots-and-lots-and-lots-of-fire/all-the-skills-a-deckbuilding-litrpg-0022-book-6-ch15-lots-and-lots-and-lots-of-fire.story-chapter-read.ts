@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0022Book6Ch15LotsAndLotsAndLotsOfFir
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0022-book-6-ch15-lots-and-lots-and-lots-of-fire",
   title: "Book 6: Ch15: Lots and Lots and Lots of Fire",
-  partOfSlugs: ["all-the-skills-a-deckbuilding-litrpg"],
+  partOfCollectionSlugs: ["all-the-skills-a-deckbuilding-litrpg"],
   position: 22,
   ownLength: 3042,
   ownProgress: 3042,

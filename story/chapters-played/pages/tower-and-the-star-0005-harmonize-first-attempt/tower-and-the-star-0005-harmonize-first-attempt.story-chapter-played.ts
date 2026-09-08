@@ -5,7 +5,7 @@ export const towerAndTheStar0005HarmonizeFirstAttempt = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0005-harmonize-first-attempt",
   title: "Harmonize (First Attempt)",
-  partOfSlugs: ["tower-and-the-star"],
+  partOfCollectionSlugs: ["tower-and-the-star"],
   position: 5,
   ownLength: 5424,
   unitSlug: "words",

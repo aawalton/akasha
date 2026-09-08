@@ -5,7 +5,7 @@ export const towerAndTheStar0008TheTowerIsWatching = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0008-the-tower-is-watching",
   title: "The Tower Is Watching",
-  partOfSlugs: ["tower-and-the-star"],
+  partOfCollectionSlugs: ["tower-and-the-star"],
   position: 8,
   ownLength: 4338,
   unitSlug: "words",

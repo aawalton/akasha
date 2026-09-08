@@ -5,7 +5,7 @@ export const towerAndTheStar0024SixOfSixWhatSheChooses = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0024-six-of-six-what-she-chooses",
   title: "Six of Six (What She Chooses)",
-  partOfSlugs: ["tower-and-the-star"],
+  partOfCollectionSlugs: ["tower-and-the-star"],
   position: 24,
   ownLength: 3572,
   unitSlug: "words",

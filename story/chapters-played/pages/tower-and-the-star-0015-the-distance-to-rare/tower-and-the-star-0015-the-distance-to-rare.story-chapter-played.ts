@@ -5,7 +5,7 @@ export const towerAndTheStar0015TheDistanceToRare = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0015-the-distance-to-rare",
   title: "The Distance to Rare",
-  partOfSlugs: ["tower-and-the-star"],
+  partOfCollectionSlugs: ["tower-and-the-star"],
   position: 15,
   ownLength: 4179,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0007Book6Chapter1AccessToASecretPlac
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0007-book-6-chapter-1-access-to-a-secret-place",
   title: "Book 6 Chapter 1: Access To A Secret Place",
-  partOfSlugs: ["all-the-skills-a-deckbuilding-litrpg"],
+  partOfCollectionSlugs: ["all-the-skills-a-deckbuilding-litrpg"],
   position: 7,
   ownLength: 2096,
   ownProgress: 2096,
