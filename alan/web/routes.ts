@@ -25,7 +25,7 @@ export default [
   route("api/errors", "routes/api.errors.ts"),
   route("api/claude-usage", "routes/claude-usage/claude-usage.route.code.ts"),
   route("api/inbox-stoplights", "routes/inbox-stoplights/inbox-stoplights.route.code.ts"),
-  route("api/habit-stoplights", "routes/api.habit-stoplights.ts"),
+  route("api/habit-stoplights", "routes/habit-stoplights/habit-stoplights.route.code.ts"),
   route("api/attribute-stoplights", "attribute-stoplights/attribute-stoplights.module.code.ts"),
   route("api/surplus", "routes/surplus/surplus.route.code.ts"),
   route("api/safety-level", "routes/api.safety-level.ts"),
