@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code/module"
 
-export const talosRegistryCa = {
+export const registryCa = {
   id: "01a06813-7b0f-77e9-b7be-7c10f95506c1",
   pageTypeSlug: "module",
-  slug: "talos-registry-ca",
+  slug: "registry-ca",
   definition: "the registry CA certificate's path and the bytes at it",
   code: "ts",
 } as const satisfies Module

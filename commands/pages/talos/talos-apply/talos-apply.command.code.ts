@@ -11,9 +11,9 @@ import { emitDocumentsYaml, emitPatchYaml, emitSchematicYaml } from "@akasha/tal
 import { registerSchematic } from "@akasha/talos/factory"
 import { getCluster, getNode } from "@akasha/talos/nodes"
 import { clusterSecretsSopsPath, clusterTalosconfigPath } from "@akasha/talos/paths"
+import { readRegistryCa } from "@akasha/talos/registry-ca"
 import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
 import { decryptToTmp } from "@akasha/talos/sops"
-import { readRegistryCa } from "@akasha/talos/talos-registry-ca"
 import { runTalosctl } from "@akasha/talos/talosctl"
 
 export const NODE = "--node"

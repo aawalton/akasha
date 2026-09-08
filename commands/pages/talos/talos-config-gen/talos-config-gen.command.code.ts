@@ -6,8 +6,8 @@ import { buildNodePatch, PLACEHOLDER_SCHEMATIC_ID } from "@akasha/talos/build-pa
 import { buildNodeVolumes } from "@akasha/talos/build-volumes"
 import { emitDocumentsYaml } from "@akasha/talos/emit-yaml"
 import { getClusterForNode, getNode } from "@akasha/talos/nodes"
+import { readRegistryCa } from "@akasha/talos/registry-ca"
 import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
-import { readRegistryCa } from "@akasha/talos/talos-registry-ca"
 import { lines } from "../../../modules/yaml-lines/yaml-lines.module.code.ts"
 
 export const NODE = "--node"
