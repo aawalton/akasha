@@ -1,0 +1,269 @@
+import { expect, test } from "bun:test"
+import type { Value } from "@akasha/pages/page-value"
+import { refusing, stating } from "../../../modules/change-answer/change-answer.module.code.ts"
+import type { Reaching, World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { worldOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import {
+  renamePagePropertyPropertySlug,
+  runChange,
+} from "./rename-page-property-property-slug.change-agent.code.ts"
+
+const CODE_AT = "akasha/code/code.file-property.ts"
+
+const NOTE_AT = "akasha/note/note.relation-property.ts"
+
+const MODULE_AT = "akasha/module.page-type.ts"
+
+const ONE_AT = "akasha/one/one.module.ts"
+
+const TWO_AT = "akasha/two/two.module.ts"
+
+const ONE_CODE = "akasha/one/one.module.code.ts"
+
+const ONE_CODE_TO = "akasha/one/one.module.code-file.ts"
+
+const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-property"
+
+const RENAME_KEY = "change-mechanical-file-content/rename-page-property-key"
+
+const RENAME_SIGNATURE = "change-mechanical-file-content/rename-property-signature"
+
+const RENAME_PATH = "change-mechanical-file/rename-path"
+
+const VALUES: Readonly<Record<string, Value>> = {
+  "file-property/code": {
+    id: "code-id",
+    pageTypeSlug: "file-property",
+    slug: "code",
+    propertySlug: "code",
+  },
+  "relation-property/note": {
+    id: "note-id",
+    pageTypeSlug: "relation-property",
+    slug: "note",
+    propertySlug: "note",
+  },
+  "module/one": { id: "one", pageTypeSlug: "module", slug: "one", code: "ts", note: "module/two" },
+  "module/two": { id: "two", pageTypeSlug: "module", slug: "two" },
+}
+
+const BODIES: Readonly<Record<string, string>> = { [ONE_CODE]: "export const one = 1\n" }
+
+type Declaring = {
+  readonly slug: string
+  readonly kind: string
+  readonly id: string
+  readonly path: string
+}
+
+const BY_A_TYPE: readonly Declaring[] = [
+  { slug: "module", kind: "page-type", id: "module-id", path: MODULE_AT },
+]
+
+const BY_A_RECORD: readonly Declaring[] = [
+  { slug: "invariants", kind: "record-property", id: "invariants-id", path: "akasha/i.record.ts" },
+]
+
+type Reached = { readonly at: string; readonly given: unknown }
+
+function watching(reached: Reached[], refuse: string | null = null): Reaching {
+  return (_world, at, given) => {
+    reached.push({ at, given })
+    return Promise.resolve(refuse === null ? stating([]) : refusing(refuse))
+  }
+}
+
+function worldIn(
+  declaring: readonly Declaring[],
+  reaching: Reaching,
+  values: Readonly<Record<string, Value>> = VALUES
+): World {
+  return {
+    ...worldOf(BODIES),
+    index: {
+      pageAt: (type: string, slug: string) => values[`${type}/${slug}`] ?? null,
+      declaringOf: () => declaring,
+      kindsUnder: (slug: string) => new Set([slug]),
+      everyOfType: (slug: string) =>
+        slug === "module"
+          ? [
+              { path: ONE_AT, id: "one" },
+              { path: TWO_AT, id: "two" },
+            ]
+          : [],
+    } as never,
+    reaching,
+  }
+}
+
+function givenAt(reached: readonly Reached[], at: string): unknown {
+  return reached.find((one) => one.at === at)?.given
+}
+
+test("the whole rename is composed of the four changes, in the order they are reached", async () => {
+  const reached: Reached[] = []
+
+  const said = await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached)), {
+    at: CODE_AT,
+    to: "code-file",
+  })
+
+  expect(said.refused).toBeNull()
+  expect(reached.map((one) => one.at)).toEqual([
+    CHANGE_PAGE_PROPERTY,
+    RENAME_KEY,
+    RENAME_SIGNATURE,
+    RENAME_PATH,
+  ])
+})
+
+test("the property page's own `property-slug` is restated", async () => {
+  const reached: Reached[] = []
+
+  await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached)), {
+    at: CODE_AT,
+    to: "code-file",
+  })
+
+  expect(givenAt(reached, CHANGE_PAGE_PROPERTY)).toEqual({
+    at: CODE_AT,
+    key: "propertySlug",
+    to: "code-file",
+  })
+})
+
+test("the key is spelled anew in camel on each page carrying it", async () => {
+  const reached: Reached[] = []
+
+  await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached)), {
+    at: CODE_AT,
+    to: "code-file",
+  })
+
+  expect(reached.filter((one) => one.at === RENAME_KEY).map((one) => one.given)).toEqual([
+    { at: ONE_AT, was: "code", now: "codeFile" },
+  ])
+})
+
+test("the member the declaring page type declares is spelled anew", async () => {
+  const reached: Reached[] = []
+
+  await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached)), {
+    at: CODE_AT,
+    to: "code-file",
+  })
+
+  expect(givenAt(reached, RENAME_SIGNATURE)).toEqual({
+    at: MODULE_AT,
+    of: "Module.code",
+    to: "codeFile",
+  })
+})
+
+test("every file a file property's key names is carried to the new name", async () => {
+  const reached: Reached[] = []
+
+  await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached)), {
+    at: CODE_AT,
+    to: "code-file",
+  })
+
+  expect(givenAt(reached, RENAME_PATH)).toEqual({ from: ONE_CODE, to: ONE_CODE_TO })
+})
+
+test("a property that is no file property carries no file", async () => {
+  const reached: Reached[] = []
+
+  const said = await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached)), {
+    at: NOTE_AT,
+    to: "held",
+  })
+
+  expect(said.refused).toBeNull()
+  expect(reached.map((one) => one.at)).not.toContain(RENAME_PATH)
+})
+
+test("a property a record declares as one of its fields is refused", async () => {
+  const reached: Reached[] = []
+
+  const said = await renamePagePropertyPropertySlug(worldIn(BY_A_RECORD, watching(reached)), {
+    at: CODE_AT,
+    to: "code-file",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`invariants` declares this property as one of its fields, and a key inside a record is not spelled anew here"
+  )
+  expect(reached).toEqual([])
+})
+
+test("the property slug the page already carries is refused", async () => {
+  const said = await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching([])), {
+    at: CODE_AT,
+    to: "code",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`code` is the property slug that page already carries")
+})
+
+test("a slug that is not lower kebab case is refused", async () => {
+  const said = await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching([])), {
+    at: CODE_AT,
+    to: "codeFile",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`codeFile` is no property slug, a property slug being lower kebab case"
+  )
+})
+
+test("a page stating no `property-slug` is refused", async () => {
+  const said = await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching([])), {
+    at: ONE_AT,
+    to: "held",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`akasha/one/one.module.ts` states no `property-slug`, so that page carries no key"
+  )
+})
+
+test("a path the index files no page at is refused", async () => {
+  const said = await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching([])), {
+    at: "akasha/gone/gone.file-property.ts",
+    to: "held",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`akasha/gone/gone.file-property.ts` names no page, so no key is spelled anew"
+  )
+})
+
+test("one page refused refuses the whole change, and the refusal names that page", async () => {
+  const reached: Reached[] = []
+  const world = worldIn(BY_A_TYPE, (over, at, given) => {
+    reached.push({ at, given })
+    return at === RENAME_KEY
+      ? Promise.resolve(refusing("that key is spelled otherwise"))
+      : watching([])(over, at, given)
+  })
+
+  const said = await renamePagePropertyPropertySlug(world, { at: CODE_AT, to: "code-file" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`akasha/one/one.module.ts` is refused, and that key is spelled otherwise"
+  )
+})
+
+test("an argument this change was handed no value for is refused by the key", async () => {
+  const said = await runChange(worldIn(BY_A_TYPE, watching([])), { at: CODE_AT })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/`to` names what this change is handed/)
+})

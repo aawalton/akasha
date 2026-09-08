@@ -1,0 +1,70 @@
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
+
+export const renamePagePropertyPropertySlug = {
+  id: "01a0819e-9047-7f45-850f-d66e47cf03e4",
+  pageTypeSlug: "change-agent",
+  slug: "rename-page-property-property-slug",
+  changeModeSlug: "change-mode-rename",
+  changeTargetTypeSlug: "change-target-type/page-property",
+  changeTargetSubtypeSlug: "change-target-subtype/page-property-property-slug",
+  definition:
+    "one property's key spelled anew on that property's page and on every page carrying it",
+  code: "ts",
+  test: "ts",
+  runsChecks: true,
+  readersOweReading: false,
+  writerOwesReading: false,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The key spelled anew is the one the property's page states under `property-slug`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages written are the pages of every page type declaring that property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page of a page type beneath a declaring page type is written too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating no value under that key is passed over rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The member each declaring page type declares is spelled anew beside the key.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every file a file property's key names is carried to the name the new key spells.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property a record declares as one of its fields is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page stating no `property-slug` is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The property slug the page already carries is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug that is not lower kebab case is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Each change this one composes is reached through the runner rather than by an import.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here works out a body of its own.",
+    },
+  ],
+} as const satisfies ChangeAgent

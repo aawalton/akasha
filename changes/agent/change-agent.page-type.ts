@@ -14,6 +14,7 @@ export const changeAgent = {
     "domain/change-agent-file",
     "domain/change-agent-folder",
     "domain/change-agent-file-content",
+    "domain/change-agent-page-property",
     "domain/change-agent-page-type",
   ],
   invariants: [
