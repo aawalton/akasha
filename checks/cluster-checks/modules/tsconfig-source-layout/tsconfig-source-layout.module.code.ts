@@ -41,7 +41,7 @@ export function validateNoOutDir(
 ): SourceLayoutViolation | null {
   const co = tsconfig.compilerOptions
   if (!isRecord(co) || co.outDir === undefined) return null
-  if ("tstl" in tsconfig) return null
+  if ("luaCompiler" in tsconfig) return null
   return {
     rule: "noOutDir",
     workspace,
