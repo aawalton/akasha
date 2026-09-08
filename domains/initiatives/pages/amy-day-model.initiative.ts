@@ -20,7 +20,7 @@ export const amyDayModel = {
       statement:
         "Every health sample and listen filed under an ESO day is filed under the day Alan woke into.",
       workingMemory:
-        "`sample-upsert` keeps the day as a storage key rather than working it out on a read, so refiling means rewriting those keys. `939706ec7a` mended the computation that answered the wrong day for one hour at each spring transition from 2024 to 2026, and left the keys already written wrong, which this refiling corrects.",
+        "`sample-upsert` keeps the day as a storage key rather than working it out on a read, so refiling means rewriting those keys. Alan ruled that a reading whose waking cannot be recovered ports across unchanged, and one whose waking can be recovered aligns to that boundary. `939706ec7a` mended the computation that answered the wrong day for one hour at each spring transition from 2024 to 2026, and left the keys already written wrong, which this refiling corrects.",
     },
   ],
 } as const satisfies Initiative
