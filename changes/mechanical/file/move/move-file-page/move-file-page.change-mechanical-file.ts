@@ -17,15 +17,11 @@ export const moveFilePage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path under no page name is refused here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The page types a name is read against are the ones the world files.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A carry keeps the name the page has, so a landing naming it anew is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the index files no page at is refused.",
     },
     {
       invariantKind: "departure",

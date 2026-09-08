@@ -57,14 +57,6 @@ test("a file beside the page lands under its own name in the folder the page lan
   expect(landingFor(HELD_CODE, INTO)).toBe(CARRIED_CODE)
 })
 
-test("a path under no page name is refused", async () => {
-  const said = await runChange(worldIn(indexedRepo()), { from: HELD_CODE, to: CARRIED_CODE })
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(
-    `\`${HELD_CODE}\` is under no page name, so this change carries nothing`
-  )
-})
-
 test("a landing naming the page anew is refused", async () => {
   const said = await runChange(worldIn(indexedRepo()), {
     from: HELD_PAGE,

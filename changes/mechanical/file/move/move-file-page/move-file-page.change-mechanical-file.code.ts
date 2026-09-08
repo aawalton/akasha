@@ -1,5 +1,4 @@
 import { basename, dirname, extname, join } from "node:path"
-import { pageNamed } from "@akasha/pages/page-file-name"
 import { gathered, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -37,9 +36,6 @@ function besideIn(world: World, at: string): readonly string[] | string {
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  if (!pageNamed(given.from, world.index.pageTypesIn())) {
-    return refusing(`\`${given.from}\` is under no page name, so this change carries nothing`)
-  }
   if (basename(given.from) !== basename(given.to)) {
     return refusing(`\`${given.to}\` names the page anew, and a carry keeps the name a page has`)
   }
