@@ -17,23 +17,20 @@ export const attributeEndurance = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the active calories the tracking day carries turned into points.",
+      statement: "The reading is the points the endurance attribute carries for today.",
     },
     {
       invariantKind: "departure",
-      statement: "Two hundred calories burned moving is one point.",
-    },
-
-    {
-      invariantKind: "departure",
-      statement: "No tracking day is no reading rather than an endurance of zero.",
+      statement: "The attribute is reached through the link this readout names.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A day carrying no active calories is no reading rather than an endurance of zero.",
+      statement: "An attribute carrying no points today is no reading rather than a zero.",
     },
-
+    {
+      invariantKind: "absence",
+      statement: "Nothing here works out what a day earned.",
+    },
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",

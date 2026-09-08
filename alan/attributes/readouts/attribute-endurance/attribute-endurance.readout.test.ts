@@ -1,28 +1,24 @@
 import { expect, test } from "bun:test"
-import { CALORIES_TO_THE_POINT, enduranceIn } from "./attribute-endurance.readout.code.ts"
+import { mkdtempSync } from "node:fs"
+import { join } from "node:path"
+import { keepPointsToday } from "../../points/attribute-points.module.code.ts"
+import { enduranceShown } from "./attribute-endurance.readout.code.ts"
+import { attributeEndurance } from "./attribute-endurance.readout.ts"
 
-const held = (figure: unknown) => ({ "active-calories": figure })
+const HOLD = "/var/tmp"
 
-test("the reading is the figure over the amount one point costs", () => {
-  expect(CALORIES_TO_THE_POINT).toBe(200)
-  expect(enduranceIn(held(200))).toBeCloseTo(1, 10)
-  expect(enduranceIn(held(200 * 2))).toBeCloseTo(2, 10)
+const rootMade = () => mkdtempSync(join(HOLD, "attribute-endurance-"))
+
+test("this readout names the attribute whose points it shows", () => {
+  expect(attributeEndurance.attributeSlug).toBe("endurance")
 })
 
-test("a figure given as text is read as the number that text spells", () => {
-  expect(enduranceIn(held(String(200)))).toBeCloseTo(1, 10)
+test("the reading is the points that attribute earned today", () => {
+  const root = rootMade()
+  keepPointsToday(root, attributeEndurance.attributeSlug, 1.75)
+  expect(enduranceShown(root)).toBe(1.75)
 })
 
-test("a reading of zero is a reading rather than an absent one", () => {
-  expect(enduranceIn(held(0))).toBe(0)
-  expect(enduranceIn(held("0"))).toBe(0)
-})
-
-test("a day carrying no figure is no reading rather than an endurance of zero", () => {
-  expect(enduranceIn({})).toBeNull()
-  expect(enduranceIn(held(null))).toBeNull()
-  expect(enduranceIn(held(undefined))).toBeNull()
-  expect(enduranceIn(held(""))).toBeNull()
-  expect(enduranceIn(held("   "))).toBeNull()
-  expect(enduranceIn(held("soon"))).toBeNull()
+test("an attribute carrying no points today is no reading rather than a zero", () => {
+  expect(enduranceShown(rootMade())).toBeNull()
 })

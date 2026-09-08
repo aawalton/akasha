@@ -5,5 +5,22 @@ export const endurance = {
   pageTypeSlug: "attribute",
   slug: "endurance",
   definition: "what Alan has built by moving his body",
-  pointUnit: "400 active calories burned",
+  pointUnit: "200 active calories burned",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Two hundred calories burned moving is one point.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The points are the active calories the tracking day carries turned into points.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A day carrying no active calories earns nothing rather than an endurance of zero.",
+    },
+  ],
 } as const satisfies Attribute
