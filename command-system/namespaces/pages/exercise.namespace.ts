@@ -16,7 +16,6 @@ export const exercise = {
     "namespace/exercise-profile",
     "command/exercise-ranks",
     "command/exercise-schedule-create",
-    "command/exercise-select",
     "command/exercise-today",
   ],
 } as const satisfies Namespace
