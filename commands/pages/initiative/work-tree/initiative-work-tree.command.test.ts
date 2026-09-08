@@ -4,17 +4,23 @@ import type { InitiativeIntent, InitiativeRow } from "@akasha/domains/work-initi
 import {
   colorsSaid,
   countOf,
+  initiativeWorkTree,
   readIn,
   render,
   treeOf,
   walk,
-  workTree,
-} from "./work-tree.command.code.ts"
+} from "./initiative-work-tree.command.code.ts"
 
 const ROOT = "/nowhere"
 
 function givenIn(): Given {
-  return { root: ROOT, calledAs: "akasha work-tree", from: ROOT, writer: null, agentId: null }
+  return {
+    root: ROOT,
+    calledAs: "akasha initiative work-tree",
+    from: ROOT,
+    writer: null,
+    agentId: null,
+  }
 }
 
 function rowIn(
@@ -69,7 +75,7 @@ test("a tree nothing is drawn on answers an empty record rather than none", () =
 })
 
 test("a word this does not take refuses as a fault in the call", () => {
-  const said = workTree(["--sideways"], givenIn())
+  const said = initiativeWorkTree(["--sideways"], givenIn())
 
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])

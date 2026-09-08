@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { messageFor, noInitiative, readIn, saidFor } from "./move-intent.command.code.ts"
+import { messageFor, noInitiative, readIn, saidFor } from "./initiative-move-intent.command.code.ts"
 
 test("three words are read as an initiative and two places", () => {
   expect(readIn(["amy-work-panel-editing", "2", "1"])).toEqual({

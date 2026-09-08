@@ -70,7 +70,7 @@ async function carried(root: string, at: string, asked: Asked, given: Given): Pr
   return { report: [...saidFor(asked, landed.commit)], refusals: [], code: 0 }
 }
 
-export async function moveIntent(argv: readonly string[], given: Given): Promise<Answer> {
+export async function initiativeMoveIntent(argv: readonly string[], given: Given): Promise<Answer> {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: [...read.refused], code: 1 }
   try {

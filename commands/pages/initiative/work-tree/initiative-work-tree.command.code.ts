@@ -209,7 +209,7 @@ function said(root: string, shown: Shown): Answer {
   return { report: [...render(tree)], refusals: [], code: 0 }
 }
 
-export function workTree(argv: readonly string[], given: Given): Answer {
+export function initiativeWorkTree(argv: readonly string[], given: Given): Answer {
   const read = readIn(argv)
   if ("refused" in read) return { report: [], refusals: read.refused, code: 1 }
   try {
