@@ -34,6 +34,10 @@ export const changePagePageType = {
     },
     {
       invariantKind: "departure",
+      statement: "A file beside the page is read for holding a body rather than for holding text.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An address the page type moves is restated wherever a body spells that address.",
     },
     {

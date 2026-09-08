@@ -1,6 +1,7 @@
 import { basename, dirname, extname, join, relative } from "node:path"
 import { landingOf, placedIn, specifierFor, spelledIn } from "@akasha/code/code-specifier"
 import {
+  notText,
   refusing,
   splicing,
   stating,
@@ -80,7 +81,8 @@ export type Given = {
 }
 
 export function runChange(world: World, given: Given): Said {
-  const text = world.textOf(given.now) ?? world.textOf(given.was)
-  if (text === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
-  return changeImports(given.was, given.now, text, new Map(Object.entries(given.moved)))
+  const held = world.bodyOf(given.now) ?? world.bodyOf(given.was)
+  if (notText(held)) return stating([])
+  if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
+  return changeImports(given.was, given.now, held, new Map(Object.entries(given.moved)))
 }

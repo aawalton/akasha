@@ -33,6 +33,10 @@ export const changeImports = {
       statement: "The body is read from the path that body sits at once the caller has carried it.",
     },
     {
+      invariantKind: "departure",
+      statement: "A body that is not text names no path, so nothing in it is repointed.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here carries a file.",
     },

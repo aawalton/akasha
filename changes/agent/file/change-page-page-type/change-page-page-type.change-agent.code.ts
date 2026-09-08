@@ -46,7 +46,7 @@ function renamedInto(
   for (const one of beside) {
     const held = one.replace(`.${was}.`, `.${now}.`)
     if (held === one) return `\`${one}\` states no \`${was}\` in its name, so the page type stands`
-    if (world.textOf(held) !== null) return `\`${held}\` is a body already`
+    if (world.bodyOf(held) !== null) return `\`${held}\` is a body already`
     said.set(one, held)
   }
   return said
@@ -74,7 +74,7 @@ export async function changePagePageType(
   if (type === null) {
     return refusing(`\`${given.to}\` reads as no page file, so no page type is named`)
   }
-  if (world.textOf(given.to) === null) {
+  if (world.bodyOf(given.to) === null) {
     return refusing(`\`${given.to}\` holds no body, so no page type is named`)
   }
   if (type.slug === said.pageType) {
@@ -108,7 +108,7 @@ export async function changePagePageType(
   carried.push(addressed.said)
   over = addressed.world
   for (const [one, next] of moved) {
-    if (over.textOf(one) === null) return refusing(`\`${one}\` could not be read`)
+    if (over.bodyOf(one) === null) return refusing(`\`${one}\` could not be read`)
     const carrying = await reach(over, MOVE_FILE, { from: one, to: next })
     if (carrying.said.refused !== null) return carrying.said
     carried.push(carrying.said)
