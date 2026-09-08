@@ -98,7 +98,7 @@ export const optionDeclarations: CommandLineOption[] = [
   },
   {
     name: "noResolvePaths",
-    description: "An array of paths that tstl should not resolve and keep as-is.",
+    description: "An array of paths the compiler should not resolve and keep as-is.",
     type: "array",
   },
   {
