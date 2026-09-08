@@ -6,4 +6,10 @@ export const toolAccess = {
   slug: "tool-access",
   definition: "which built-in tools an agent may reach",
   harnessSettings: "json",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "No agent reaches `Write` or `Edit`.",
+    },
+  ],
 } as const satisfies AgentSettings
