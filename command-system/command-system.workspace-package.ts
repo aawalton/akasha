@@ -9,7 +9,6 @@ export const commandSystem = {
   partSlugs: [
     "module/parse-args",
     "module/answer-bytes",
-    "module/format-output",
     "page-type/command",
     "module/calling",
     "module/command-answering",

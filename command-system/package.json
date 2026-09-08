@@ -5,7 +5,6 @@
   "exports": {
     "./parse-args": "./parse-args/parse-args.module.code.ts",
     "./answer-bytes": "./answer-bytes/answer-bytes.module.code.ts",
-    "./format-output": "./format-output/format-output.module.code.ts",
     "./asking": "./asking/asking.module.code.ts",
     "./asking/testing": "./asking/asking.module.test-fixtures.ts",
     "./address-mapping": "./address-mapping/address-mapping.module.code.ts",

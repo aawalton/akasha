@@ -26,6 +26,7 @@ export const temperCommands = {
     "module/eso-base-game-globals",
     "module/eso-chatter-names",
     "module/flag-fault-stage",
+    "module/format-output",
     "module/eso-colon-methods",
     "module/inventory-rule-calling",
     "module/bank-profile-reading",
