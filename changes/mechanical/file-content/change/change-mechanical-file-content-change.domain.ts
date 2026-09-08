@@ -14,5 +14,6 @@ export const changeMechanicalFileContentChange = {
     "change-mechanical-file-content/change-property-record-field",
     "change-mechanical-file-content/change-domain-parent",
     "change-mechanical-file-content/change-file-content-page",
+    "change-mechanical-file-content/change-file-content-of-any-kind",
   ],
 } as const satisfies Domain
