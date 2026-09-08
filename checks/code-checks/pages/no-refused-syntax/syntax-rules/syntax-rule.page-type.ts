@@ -40,6 +40,7 @@ export const syntaxRule = {
     "syntax-rule/no-sops-on-dev-stdin",
     "syntax-rule/no-swallowed-read",
     "syntax-rule/no-void-return",
+    "syntax-rule/no-void-self-in-constructor",
     "syntax-rule/no-void-self-in-object-method",
   ],
   extendsSlug: ["page-type/module"],
