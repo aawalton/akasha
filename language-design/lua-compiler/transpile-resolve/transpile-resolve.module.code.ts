@@ -220,7 +220,7 @@ function createResolutionContext(
     dependency: string
   ): string | undefined {
     const fileDirectory = path.dirname(requiringFile.fileName)
-    if (options.tstlVerbose === true) {
+    if (options.verbose === true) {
       console.log(`Resolving "${dependency}" from ${normalizeSlashes(requiringFile.fileName)}`)
     }
 
