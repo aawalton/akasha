@@ -37,5 +37,13 @@ export const workspaceDirs = {
       invariantKind: "departure",
       statement: "A folder whose name opens with a dot is left out of a doubled star expansion.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A wider glob grammar lands before the entry needing that grammar.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry no glob grammar reads breaks every caller at once rather than one.",
+    },
   ],
 } as const satisfies Module
