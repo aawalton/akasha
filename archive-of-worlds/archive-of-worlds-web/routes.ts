@@ -11,7 +11,10 @@ export default [
   route("sign-out", "routes/sign-out.ts"),
   route("api/health", "routes/api.health.ts"),
   route("api/live-version", "routes/api.live-version.ts"),
-  route("api/errors", "routes/api.errors.ts"),
+  route(
+    "api/errors",
+    "routes/archive-of-worlds-api-errors/archive-of-worlds-api-errors.route.code.ts"
+  ),
   route("api/page-types", "routes/api.page-types.ts"),
   route("api/pages/:pageTypeSlug", "routes/api.pages.$pageTypeSlug.ts"),
   route("api/page-write", "routes/api.page-write.ts"),
