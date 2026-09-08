@@ -10,7 +10,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "What the game records against a task reaches the due date the web holds.",
       workingMemory:
-        "The watcher's `rollOnProgress` advances `dueDate` for a task whose rrule date has passed. `next_character` rolls once the named character progresses, `all_characters` once every character has completed or progressed. It rolled `cadwell-s-almanac` on 2026-09-07; the save holds 154 completion and 135 progress marks. There is no once-a-day guard: `dueDate <= today` is the brake. Left: `overdue-rolling` patches the same key daily against no progress, and no per-character count reaches the web.\n",
+        "`rollOnProgress` advances `dueDate` off what the characters did and now holds that key alone: `overdue-rolling` no longer names `temper-task`. The per-character rows land too — `watcher-task-progress-landing` writes them in one commit through pages-service at the end of the import. Proved 2026-09-08 by 82f0aded41: 14 files, `lorebooks` gained 20 rows, `skill-morphs` moved 24020 to 24050. Left: the browser render is unseen, and a character-scoped task's totals now read as the roster's sum.",
     },
     {
       statement: "Every key the watcher names on a page is one that page type declares.",
