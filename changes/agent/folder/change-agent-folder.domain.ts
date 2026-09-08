@@ -10,5 +10,6 @@ export const changeAgentFolder = {
     "change-agent/move-folder-package",
     "change-agent/remove-page-type",
     "change-agent/move-folder-batch",
+    "change-agent/nest-commands",
   ],
 } as const satisfies Domain

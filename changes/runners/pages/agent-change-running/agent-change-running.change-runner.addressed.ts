@@ -35,6 +35,9 @@ export type Changes = {
   "change-agent/move-page": Parameters<
     typeof import("../../../agent/file/move-page/move-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/nest-commands": Parameters<
+    typeof import("../../../agent/folder/nest-commands/nest-commands.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/remove-file": Parameters<
     typeof import("../../../agent/file/remove-file/remove-file.change-agent.code.ts")["runChange"]
   >[1]
