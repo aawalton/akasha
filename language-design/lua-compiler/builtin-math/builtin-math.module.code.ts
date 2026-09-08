@@ -30,6 +30,7 @@ export function transformMathProperty(
 
     default:
       context.addDiagnostic(unsupportedProperty(node.name, "Math", name))
+      return undefined
   }
 }
 
@@ -149,5 +150,6 @@ export function transformMathCall(
 
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "Math", expressionName))
+      return undefined
   }
 }
