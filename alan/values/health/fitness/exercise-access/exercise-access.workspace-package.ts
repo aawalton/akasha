@@ -12,7 +12,6 @@ export const exerciseAccess = {
     "module/exercise-rows",
     "module/exercise-vocabulary",
     "module/free-exercise-row",
-    "module/mobility-derive",
     "module/set-history",
   ],
   invariants: [
