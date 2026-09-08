@@ -9,15 +9,11 @@ import {
 import { runChange as addFile } from "../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
 import { runChange as removeFile } from "../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import {
-  answered,
   beyond,
   gathered,
-  moving,
   pathsIn,
   refusing,
   stating,
-  taking,
-  writing,
 } from "../change-answer/change-answer.module.code.ts"
 import {
   addedTo,
@@ -76,7 +72,7 @@ test("a ledger reads a path no edit names from the files beneath", () => {
 
 test("a ledger reads back the body an edit added leaves", () => {
   const ledger = ledgerIn(indexedRepo())
-  addedTo(ledger, answered([writing(AT, null, "held\n")]))
+  addedTo(ledger, stating([{ kind: "add", path: AT, content: "held\n" }]))
 
   expect(ledger.textOf(AT)).toBe("held\n")
 })
@@ -85,7 +81,7 @@ test("a ledger reads back nothing where an edit carried a path away", () => {
   const root = indexedRepo()
   const was = textIn(root)(HELD_CODE) ?? ""
   const ledger = ledgerIn(root)
-  addedTo(ledger, answered([taking(HELD_CODE, was)]))
+  addedTo(ledger, stating([{ kind: "remove", path: HELD_CODE }]))
 
   expect(ledger.textOf(HELD_CODE)).toBeNull()
 })
@@ -94,7 +90,7 @@ test("a ledger reads back nothing at the path a move left", () => {
   const root = indexedRepo()
   const was = textIn(root)(HELD_CODE) ?? ""
   const ledger = ledgerIn(root)
-  addedTo(ledger, answered([moving(HELD_CODE, AT, was, was)]))
+  addedTo(ledger, stating([{ kind: "move", pathFrom: HELD_CODE, pathTo: AT }]))
 
   expect(ledger.textOf(HELD_CODE)).toBeNull()
   expect(ledger.textOf(AT)).toBe(was)
@@ -102,11 +98,14 @@ test("a ledger reads back nothing at the path a move left", () => {
 
 test("a ledger added to twice carries both answers gathered", () => {
   const ledger = ledgerIn(indexedRepo())
-  addedTo(ledger, answered([writing(AT, null, "one\n")]))
-  addedTo(ledger, answered([writing(OTHER, null, "two\n")]))
+  addedTo(ledger, stating([{ kind: "add", path: AT, content: "one\n" }]))
+  addedTo(ledger, stating([{ kind: "add", path: OTHER, content: "two\n" }]))
 
   expect(ledger.over).toEqual(
-    gathered([answered([writing(AT, null, "one\n")]), answered([writing(OTHER, null, "two\n")])])
+    gathered([
+      stating([{ kind: "add", path: AT, content: "one\n" }]),
+      stating([{ kind: "add", path: OTHER, content: "two\n" }]),
+    ])
   )
 })
 
@@ -128,19 +127,19 @@ test("an index a ledger answers knows the page an edit added", () => {
   const ledger = ledgerIn(indexedRepo())
   expect(ledger.index.listedAt("module", "fresh")).toEqual([])
 
-  addedTo(ledger, answered([writing(FRESH_PAGE, null, FRESH_BODY)]))
+  addedTo(ledger, stating([{ kind: "add", path: FRESH_PAGE, content: FRESH_BODY }]))
 
   expect(ledger.index.listedAt("module", "fresh").map((one) => one.path)).toEqual([FRESH_PAGE])
 })
 
 test("an index a ledger answers is built again where a later edit was added", () => {
   const ledger = ledgerIn(indexedRepo())
-  addedTo(ledger, answered([writing(FRESH_PAGE, null, FRESH_BODY)]))
+  addedTo(ledger, stating([{ kind: "add", path: FRESH_PAGE, content: FRESH_BODY }]))
   const first = ledger.index
 
   expect(ledger.index).toBe(first)
 
-  addedTo(ledger, answered([writing(OTHER, null, "two\n")]))
+  addedTo(ledger, stating([{ kind: "add", path: OTHER, content: "two\n" }]))
 
   expect(ledger.index).not.toBe(first)
 })
@@ -168,7 +167,9 @@ test("a ledger is told from a world built over an answer", () => {
 
   expect(isLedger(ledgerIn(root))).toBe(true)
   expect(isLedger(worldIn(root))).toBe(false)
-  expect(isLedger(worldOver(worldIn(root), answered([writing(AT, null, "held\n")])))).toBe(false)
+  expect(
+    isLedger(worldOver(worldIn(root), stating([{ kind: "add", path: AT, content: "held\n" }])))
+  ).toBe(false)
 })
 
 test("a world over no answer carries an answer holding no edit", () => {
@@ -178,7 +179,7 @@ test("a world over no answer carries an answer holding no edit", () => {
 test("a path an answer writes reads back the body that answer leaves at the path", () => {
   const root = indexedRepo()
 
-  const world = worldOver(worldIn(root), answered([writing(AT, null, "held\n")]))
+  const world = worldOver(worldIn(root), stating([{ kind: "add", path: AT, content: "held\n" }]))
 
   expect(world.textOf(AT)).toBe("held\n")
 })
@@ -187,7 +188,7 @@ test("a path an answer carries away reads back nothing", () => {
   const root = indexedRepo()
   const was = textIn(root)(HELD_CODE) ?? ""
 
-  const world = worldOver(worldIn(root), answered([taking(HELD_CODE, was)]))
+  const world = worldOver(worldIn(root), stating([{ kind: "remove", path: HELD_CODE }]))
 
   expect(world.textOf(HELD_CODE)).toBe(null)
 })
@@ -195,16 +196,16 @@ test("a path an answer carries away reads back nothing", () => {
 test("a path no answer names reads back the body the world beneath answers", () => {
   const root = indexedRepo()
 
-  const world = worldOver(worldIn(root), answered([writing(AT, null, "held\n")]))
+  const world = worldOver(worldIn(root), stating([{ kind: "add", path: AT, content: "held\n" }]))
 
   expect(world.textOf(NAMER_CODE)).toBe(textIn(root)(NAMER_CODE))
 })
 
 test("a world built over a second answer carries both answers gathered", () => {
   const root = indexedRepo()
-  const first = worldOver(worldIn(root), answered([writing(AT, null, "one\n")]))
+  const first = worldOver(worldIn(root), stating([{ kind: "add", path: AT, content: "one\n" }]))
 
-  const world = worldOver(first, answered([writing(OTHER, null, "two\n")]))
+  const world = worldOver(first, stating([{ kind: "add", path: OTHER, content: "two\n" }]))
 
   expect(world.over.refused).toBe(null)
   expect([...pathsIn(world.over)].sort()).toEqual([AT, OTHER])
@@ -216,14 +217,17 @@ test("a move empties the path it came from and fills the path it lands at", () =
   const root = indexedRepo()
   const was = textIn(root)(HELD_CODE) ?? ""
 
-  const world = worldOver(worldIn(root), answered([moving(HELD_CODE, AT, was, was)]))
+  const world = worldOver(
+    worldIn(root),
+    stating([{ kind: "move", pathFrom: HELD_CODE, pathTo: AT }])
+  )
 
   expect(world.textOf(HELD_CODE)).toBe(null)
   expect(world.textOf(AT)).toBe(was)
 })
 
 test("a path a move leaves is among the paths the change changed", () => {
-  const said = answered([moving(HELD_CODE, AT, "was\n", "now\n")])
+  const said = stating([{ kind: "move", pathFrom: HELD_CODE, pathTo: AT }])
 
   const change = changeOver("/nowhere", said, (path) => (path === HELD_CODE ? "was\n" : null))
 
@@ -235,7 +239,7 @@ test("a path a move leaves is among the paths the change changed", () => {
 })
 
 test("an edit stating no body leaves that path holding nothing after the change", () => {
-  const change = changeOver("/nowhere", answered([taking(AT, "was\n")]), (path) =>
+  const change = changeOver("/nowhere", stating([{ kind: "remove", path: AT }]), (path) =>
     path === AT ? "was\n" : null
   )
 
@@ -313,7 +317,7 @@ const HOLDS_A_BODY = "holds a body already"
 
 test("an edit added over a path the ledger wrote is replayed onto the body that path holds", () => {
   const ledger = ledgerIn(indexedRepo())
-  addedTo(ledger, answered([writing(AT, null, "one\n")]))
+  addedTo(ledger, stating([{ kind: "add", path: AT, content: "one\n" }]))
 
   addedTo(ledger, stating([{ kind: "replace", path: AT, contentFrom: "one", contentTo: "two" }]))
 
@@ -326,7 +330,7 @@ test("an edit added over a path the ledger wrote is replayed onto the body that 
 
 test("an edit that will not replay onto the ledger throws and leaves the ledger as it was", () => {
   const ledger = ledgerIn(indexedRepo())
-  addedTo(ledger, answered([writing(AT, null, "one\n")]))
+  addedTo(ledger, stating([{ kind: "add", path: AT, content: "one\n" }]))
 
   expect(() => addedTo(ledger, stating([{ kind: "add", path: AT, content: "two\n" }]))).toThrow(
     HOLDS_A_BODY
@@ -337,7 +341,10 @@ test("an edit that will not replay onto the ledger throws and leaves the ledger 
 })
 
 test("an edit that will not replay onto a world throws rather than answering", () => {
-  const world = worldOver(worldIn(indexedRepo()), answered([writing(AT, null, "one\n")]))
+  const world = worldOver(
+    worldIn(indexedRepo()),
+    stating([{ kind: "add", path: AT, content: "one\n" }])
+  )
 
   expect(() => worldOver(world, stating([{ kind: "add", path: AT, content: "two\n" }]))).toThrow(
     HOLDS_A_BODY

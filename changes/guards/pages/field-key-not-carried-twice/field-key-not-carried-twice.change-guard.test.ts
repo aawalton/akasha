@@ -7,7 +7,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { answered, writing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -83,7 +83,7 @@ function whyRefused(path: string, first: string, second: string): string {
 test("a property carrying one key on two fields is refused", () => {
   const root = indexedRepo(VOCABULARY)
 
-  const said = judged(root, answered([writing(AT, null, recordOf([NOTE, OTHER]))]))
+  const said = judged(root, stating([{ kind: "add", path: AT, content: recordOf([NOTE, OTHER]) }]))
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(whyRefused(AT, NOTE, OTHER))
@@ -92,7 +92,7 @@ test("a property carrying one key on two fields is refused", () => {
 test("a property carrying a key on each field is not refused", () => {
   const root = indexedRepo(VOCABULARY)
 
-  const said = judged(root, answered([writing(AT, null, recordOf([NOTE, PARTS]))]))
+  const said = judged(root, stating([{ kind: "add", path: AT, content: recordOf([NOTE, PARTS]) }]))
 
   expect(said.refused).toBe(null)
 })
@@ -102,9 +102,9 @@ test("a field naming a property the same answer writes is judged", () => {
 
   const said = judged(
     root,
-    answered([
-      writing(MADE, null, propertyOf()),
-      writing(AT, null, recordOf([NOTE, "relation-property/made"])),
+    stating([
+      { kind: "add", path: MADE, content: propertyOf() },
+      { kind: "add", path: AT, content: recordOf([NOTE, "relation-property/made"]) },
     ])
   )
 
@@ -122,7 +122,7 @@ test("a page type carrying one key twice is judged by nothing", () => {
     properties: declaring([NOTE, OTHER]),
   })
 
-  const said = judged(root, answered([writing(at, null, body)]))
+  const said = judged(root, stating([{ kind: "add", path: at, content: body }]))
 
   expect(said.refused).toBe(null)
 })
@@ -131,7 +131,10 @@ test("a path under no page property name is judged by nothing", () => {
   const root = indexedRepo(VOCABULARY)
   const beside = "akasha/one/pair.record-property.code.ts"
 
-  const said = judged(root, answered([writing(beside, null, "export const pair = 1\n")]))
+  const said = judged(
+    root,
+    stating([{ kind: "add", path: beside, content: "export const pair = 1\n" }])
+  )
 
   expect(said.refused).toBe(null)
 })

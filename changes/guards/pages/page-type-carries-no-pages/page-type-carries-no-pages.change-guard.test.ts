@@ -8,7 +8,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { answered, taking } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   guardedBy,
@@ -40,8 +40,8 @@ const OTHER = pageOf({ id: idOf("d"), pageTypeSlug: "kept", slug: "two" })
 
 function takingAway(root: string, paths: readonly string[]): Answer {
   const text = textIn(root)
-  const edits = paths.map((path) => taking(path, text(path) ?? ""))
-  return guardedBy(worldAt(root, text), answered(edits), GUARDS)
+  const edits = paths.map((path) => ({ kind: "remove", path }))
+  return guardedBy(worldAt(root, text), stating(edits), GUARDS)
 }
 
 test("a page type a page is still filed under is refused", () => {

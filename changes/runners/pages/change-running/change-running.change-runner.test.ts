@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import {
-  answered,
+
   refusing,
-  writing,
+  stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
@@ -21,14 +21,14 @@ const WAS_PAGE = "akasha/one/held-one.held-kind.ts"
 
 const NOW_PAGE = "akasha/one/held-one.held-other.ts"
 
-const WROTE: Answer = answered([writing(AT, null, "held\n")])
+const WROTE: Answer = stating([{ kind: "add", path: AT, content: "held\n" }])
 
-function moving(was: string, now: string): Answer {
-  return answered([{ path: now, was: "held\n", body: "held\n", from: was }])
+function { kind: "move", pathFrom: was: string, pathTo: now: string }: Answer {
+  return stating([{ path: now, was: "held\n", body: "held\n", from: was }])
 }
 
 test("a path a move carries a body to is loaded from the path that body came from", () => {
-  const world = { ...worldOf(), over: moving(WAS, NOW) }
+  const world = { ...worldOf(), over: { kind: "move", pathFrom: WAS, pathTo: NOW } }
 
   expect(sittingAt(world, NOW)).toBe(WAS)
 })
@@ -41,7 +41,7 @@ test("a page a move carries elsewhere is read for its code beside the path that 
   const world = {
     ...worldOf(),
     index: { listedAt: () => [{ path: NOW_PAGE }] } as never,
-    over: moving(WAS_PAGE, NOW_PAGE),
+    over: { kind: "move", pathFrom: WAS_PAGE, pathTo: NOW_PAGE },
   }
 
   expect(codeAt(world, "held-kind/held-one")).toBe("akasha/one/held-one.held-kind.code.ts")

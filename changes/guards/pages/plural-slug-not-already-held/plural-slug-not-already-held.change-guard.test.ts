@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { idOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { answered, writing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -40,7 +40,10 @@ function judged(root: string, said: Answer): Answer {
 test("a page type stating a plural slug another page type states is refused", () => {
   const root = repoHolding()
 
-  const said = judged(root, answered([writing(AT, null, aType("f", "fresh", KEPT_PLURAL))]))
+  const said = judged(
+    root,
+    stating([{ kind: "add", path: AT, content: aType("f", "fresh", KEPT_PLURAL) }])
+  )
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
@@ -51,7 +54,10 @@ test("a page type stating a plural slug another page type states is refused", ()
 test("a page type stating a plural slug no other page type states is not refused", () => {
   const root = repoHolding()
 
-  const said = judged(root, answered([writing(AT, null, aType("f", "fresh", "freshes"))]))
+  const said = judged(
+    root,
+    stating([{ kind: "add", path: AT, content: aType("f", "fresh", "freshes") }])
+  )
 
   expect(said.refused).toBe(null)
 })
@@ -61,9 +67,9 @@ test("two page types one answer writes stating one plural slug are refused", () 
 
   const said = judged(
     root,
-    answered([
-      writing(AT, null, aType("f", "fresh", "twins")),
-      writing(ALSO, null, aType("0", "second", "twins")),
+    stating([
+      { kind: "add", path: AT, content: aType("f", "fresh", "twins") },
+      { kind: "add", path: ALSO, content: aType("0", "second", "twins") },
     ])
   )
 
@@ -84,7 +90,7 @@ test("a page that is no page type is judged by nothing", () => {
     pluralSlug: KEPT_PLURAL,
   })
 
-  const said = judged(root, answered([writing(at, null, body)]))
+  const said = judged(root, stating([{ kind: "add", path: at, content: body }]))
 
   expect(said.refused).toBe(null)
 })
@@ -93,7 +99,10 @@ test("a path under no page name is judged by nothing", () => {
   const root = repoHolding()
   const beside = "akasha/one/fresh.page-type.code.ts"
 
-  const said = judged(root, answered([writing(beside, null, "export const fresh = 1\n")]))
+  const said = judged(
+    root,
+    stating([{ kind: "add", path: beside, content: "export const fresh = 1\n" }])
+  )
 
   expect(said.refused).toBe(null)
 })

@@ -7,13 +7,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { importNotLeftHanging } from "../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
-import {
-  answered,
-  moving,
-  refusing,
-  taking,
-  writing,
-} from "../change-answer/change-answer.module.code.ts"
+import { refusing, stating } from "../change-answer/change-answer.module.code.ts"
 import { type World, worldAt, worldOver } from "../change-shadow/change-shadow.module.code.ts"
 import { guardedBy, takingIn } from "./change-guarding.module.code.ts"
 import type { Guard } from "./change-guarding.module.types.ts"
@@ -44,7 +38,7 @@ test("an answer already refused runs no guard", () => {
 
 test("a guard answering nothing lets the answer through as the answer was", () => {
   const root = indexedRepo()
-  const wrote = answered([writing(AT, null, "held\n")])
+  const wrote = stating([{ kind: "add", path: AT, content: "held\n" }])
 
   expect(guardedBy(worldIn(root), wrote, [counting([], null)])).toEqual(wrote)
 })
@@ -53,7 +47,7 @@ test("the first guard to refuse gives the reason and no guard runs after", () =>
   const root = indexedRepo()
   const ran: string[] = []
 
-  const said = guardedBy(worldIn(root), answered([writing(AT, null, "held\n")]), [
+  const said = guardedBy(worldIn(root), stating([{ kind: "add", path: AT, content: "held\n" }]), [
     counting(ran, "the first"),
     counting(ran, "the second"),
   ])
@@ -65,8 +59,8 @@ test("the first guard to refuse gives the reason and no guard runs after", () =>
 test("a file an earlier answer took away is gone from the files a guard reads", () => {
   const root = indexedRepo()
   const was = textIn(root)
-  const world = worldOver(worldIn(root), answered([taking(NAMER_CODE, was(NAMER_CODE) ?? "")]))
-  const said = answered([taking(HELD_CODE, was(HELD_CODE) ?? "")])
+  const world = worldOver(worldIn(root), stating([{ kind: "remove", path: NAMER_CODE }]))
+  const said = stating([{ kind: "remove", path: HELD_CODE }])
 
   expect(guardedBy(world, said, [importNotLeftHanging]).refused).toBe(null)
   expect(guardedBy(worldIn(root), said, [importNotLeftHanging]).refused ?? "").toContain(NAMER_CODE)
@@ -74,9 +68,11 @@ test("a file an earlier answer took away is gone from the files a guard reads", 
 
 test("two answers that will not gather refuse rather than being judged apart", () => {
   const root = indexedRepo()
-  const world = worldOver(worldIn(root), answered([writing(AT, null, "one\n")]))
+  const world = worldOver(worldIn(root), stating([{ kind: "add", path: AT, content: "one\n" }]))
 
-  const said = guardedBy(world, answered([writing(AT, null, "two\n")]), [counting([], null)])
+  const said = guardedBy(world, stating([{ kind: "add", path: AT, content: "two\n" }]), [
+    counting([], null),
+  ])
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toContain("answered twice")
@@ -86,17 +82,17 @@ import { addedTo, ledgerAt } from "../change-shadow/change-shadow.module.code.ts
 
 test("an answer the world already holds is judged rather than refused", () => {
   const root = indexedRepo()
-  const said = answered([taking(NAMER_CODE, textIn(root)(NAMER_CODE) ?? "")])
+  const said = stating([{ kind: "remove", path: NAMER_CODE }])
   const ledger = addedTo(ledgerAt(root, textIn(root)), said)
 
   expect(guardedBy(ledger, said, [counting([], null)]).refused).toBe(null)
 })
 
 test("the paths an answer takes away are read here, and a path a move leaves is not one", () => {
-  const said = answered([
-    taking("akasha/a.ts", "x\n"),
-    moving("akasha/b.ts", "akasha/c.ts", "y\n", "y\n"),
-    writing("akasha/d.ts", null, "z\n"),
+  const said = stating([
+    { kind: "remove", path: "akasha/a.ts" },
+    { kind: "move", pathFrom: "akasha/b.ts", pathTo: "akasha/c.ts" },
+    { kind: "add", path: "akasha/d.ts", content: "z\n" },
   ])
 
   expect(takingIn(said)).toEqual(["akasha/a.ts"])

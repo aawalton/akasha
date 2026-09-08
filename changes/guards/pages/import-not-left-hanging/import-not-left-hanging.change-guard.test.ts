@@ -11,11 +11,7 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import { schemaFiled } from "@akasha/indexes/testing"
 import { NOT_WORKED_OUT } from "@akasha/pages/shadow"
-import {
-  answered,
-  taking,
-  writing,
-} from "../../../modules/change-answer/change-answer.module.code.ts"
+import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   guardedBy,
@@ -74,9 +70,12 @@ function takingAway(root: string, path: string): Answer {
 test("a shadow that will not build refuses rather than answering no hanging import", () => {
   const root = brokenRoot()
 
-  const took = [taking(HELD_CODE, KEPT_BODY), writing(APART_PAGE, null, APART_BODY)]
+  const took = [
+    { kind: "remove", path: HELD_CODE },
+    { kind: "add", path: APART_PAGE, content: APART_BODY },
+  ]
 
-  const said = guardedBy(worldAt(root, textIn(root)), answered(took), GUARDS)
+  const said = guardedBy(worldAt(root, textIn(root)), stating(took), GUARDS)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(NOT_WORKED_OUT)
@@ -87,7 +86,7 @@ test("an index that will not read refuses rather than answering no hanging impor
 
   const said = guardedBy(
     worldAt(root, textIn(root)),
-    answered([taking(HELD_CODE, KEPT_BODY)]),
+    stating([{ kind: "remove", path: HELD_CODE }]),
     GUARDS
   )
 

@@ -15,12 +15,7 @@ import {
 import { claimedFileNotLeftBehind } from "../../../../guards/pages/claimed-file-not-left-behind/claimed-file-not-left-behind.change-guard.code.ts"
 import { importNotLeftHanging } from "../../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
 import { relationNotLeftHanging } from "../../../../guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
-import {
-  answered,
-  refusing,
-  taking,
-  widened,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../../modules/change-guarding/change-guarding.module.code.ts"
 import type { Guard } from "../../../../modules/change-guarding/change-guarding.module.types.ts"
@@ -193,7 +188,7 @@ function bodyIn(said: Answer, at: string): string {
 }
 
 function tookAway(root: string, path: string): Answer {
-  return answered([taking(path, textIn(root)(path) ?? "")])
+  return stating([{ kind: "remove", path }])
 }
 
 test("a page and the file beside that page are taken away together", async () => {

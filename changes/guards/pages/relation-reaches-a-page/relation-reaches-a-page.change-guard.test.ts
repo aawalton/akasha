@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { idOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { answered, writing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -32,7 +32,10 @@ function judged(root: string, said: Answer): Answer {
 test("a page naming a page that reaches nothing is refused", () => {
   const root = indexedRepo()
 
-  const said = judged(root, answered([writing(AT, null, naming("f", "fresh", ["module/gone"]))]))
+  const said = judged(
+    root,
+    stating([{ kind: "add", path: AT, content: naming("f", "fresh", ["module/gone"]) }])
+  )
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
@@ -43,7 +46,10 @@ test("a page naming a page that reaches nothing is refused", () => {
 test("a page naming a page that reaches a page is not refused", () => {
   const root = indexedRepo()
 
-  const said = judged(root, answered([writing(AT, null, naming("f", "fresh", ["module/held"]))]))
+  const said = judged(
+    root,
+    stating([{ kind: "add", path: AT, content: naming("f", "fresh", ["module/held"]) }])
+  )
 
   expect(said.refused).toBe(null)
 })
@@ -53,9 +59,9 @@ test("a page naming a page the same answer writes is not refused", () => {
 
   const said = judged(
     root,
-    answered([
-      writing(MADE, null, naming("m", "made", [])),
-      writing(AT, null, naming("f", "fresh", ["module/made"])),
+    stating([
+      { kind: "add", path: MADE, content: naming("m", "made", []) },
+      { kind: "add", path: AT, content: naming("f", "fresh", ["module/made"]) },
     ])
   )
 
@@ -66,7 +72,10 @@ test("a path under no page name is judged by nothing", () => {
   const root = indexedRepo()
   const beside = "akasha/one/fresh.module.code.ts"
 
-  const said = judged(root, answered([writing(beside, null, "export const fresh = 1\n")]))
+  const said = judged(
+    root,
+    stating([{ kind: "add", path: beside, content: "export const fresh = 1\n" }])
+  )
 
   expect(said.refused).toBe(null)
 })

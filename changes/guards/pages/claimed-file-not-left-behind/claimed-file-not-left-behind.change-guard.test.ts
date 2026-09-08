@@ -8,7 +8,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { answered, taking } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { stating } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -35,7 +35,7 @@ function judged(root: string, said: Answer): Answer {
 
 function tookAway(root: string, paths: readonly string[]): Answer {
   const was = textIn(root)
-  return answered(paths.map((one) => taking(one, was(one) ?? "")))
+  return stating(paths.map((one) => ({ kind: "remove", path: one })))
 }
 
 test("a page taken away leaving the file that page claims is refused", () => {
