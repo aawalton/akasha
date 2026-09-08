@@ -1,7 +1,8 @@
-import { readdirSync, readFileSync, rmSync } from "node:fs"
-import { join } from "node:path"
+import { readFileSync, rmSync } from "node:fs"
+import { basename, join } from "node:path"
 import { dropReadings } from "@akasha/command-system/reading"
 import { fileStemOf } from "@akasha/file-page-identity"
+import { everyOfType } from "@akasha/indexes"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { besideOf } from "@akasha/pages/page-beside"
 import { landRemovals } from "@akasha/seat-system/gated-landing"
@@ -12,7 +13,7 @@ const DAY_MS = 86_400_000
 
 const WRITER = "log-day-sweeper"
 
-const DAYS_AT = "seat-system/seat-log-days/pages"
+const DAY_TYPE = "seat-log-day"
 
 const PAGE_SUFFIX = ".seat-log-day.ts"
 
@@ -38,17 +39,11 @@ export interface DaysRead {
 }
 
 export function daysIn(root: string): DaysRead {
-  let names: readonly string[]
-  try {
-    names = readdirSync(join(root, DAYS_AT))
-  } catch {
-    return { days: [], unjudged: [] }
-  }
   const found: DayFacts[] = []
   const unjudged: string[] = []
-  for (const name of names) {
-    if (!name.endsWith(PAGE_SUFFIX)) continue
-    const relPath = `${DAYS_AT}/${name}`
+  for (const one of everyOfType(root, DAY_TYPE)) {
+    const relPath = one.path
+    const name = basename(relPath)
     let text: string
     try {
       text = readFileSync(join(root, relPath), "utf8")

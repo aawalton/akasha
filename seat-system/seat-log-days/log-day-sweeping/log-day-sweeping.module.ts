@@ -57,9 +57,12 @@ export const logDaySweeping = {
       statement: "Nothing is taken away unless the sweep is asked to.",
     },
     {
-      invariantKind: "gap",
-      statement:
-        "A folder of days that cannot be listed is refused rather than read as holding no day at all.",
+      invariantKind: "departure",
+      statement: "The days are what the index answers rather than a folder listed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index that cannot be read refuses rather than reading as holding no day.",
     },
   ],
 } as const satisfies Module
