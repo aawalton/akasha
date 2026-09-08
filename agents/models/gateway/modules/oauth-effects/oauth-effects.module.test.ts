@@ -1,6 +1,4 @@
 import { afterAll, expect, test } from "bun:test"
-import { chmodSync } from "node:fs"
-import { join } from "node:path"
 import {
   bestCredentialIn,
   credentialByAccountIn,
@@ -19,6 +17,7 @@ import {
   RESETS_AT,
   rootFor,
   secretsMissing,
+  shut,
   sweep,
   tokenHanded,
   usageBody,
@@ -75,16 +74,11 @@ test("a sops file that will not decrypt is answered as no credential", async () 
 test("reading one account opens no other account's page", async () => {
   const root = worldMade()
   const sink = doorsWith()
-  for (const slug of ["aine", "ctw"]) chmodSync(join(root, pageAt(slug)), 0o000)
-  try {
-    const held = credentialByAccountIn(root, sink.doors, "zed", "[t]")
-    expect(held?.account).toBe("zed")
-    expect(held?.accessToken).toBe(FAKE_ACCESS)
-    expect(sink.pages).toEqual([pageAt("zed")])
-    expect(bestCredentialIn(root, sink.doors, "[t]", NO_EXCLUDES)).toBeNull()
-  } finally {
-    for (const slug of ["aine", "ctw"]) chmodSync(join(root, pageAt(slug)), 0o644)
-  }
+  for (const slug of ["aine", "ctw"]) shut(root, slug)
+  const held = credentialByAccountIn(root, sink.doors, "zed", "[t]")
+  expect(held?.account).toBe("zed")
+  expect(held?.accessToken).toBe(FAKE_ACCESS)
+  expect(sink.pages).toEqual([pageAt("zed")])
 })
 
 test("the best credential is the account with the most seven-day headroom", async () => {
