@@ -16,7 +16,6 @@ export const exerciseAccess = {
     "module/exercise-load-model",
     "module/exercise-rows",
     "module/exercise-vocabulary",
-    "module/free-exercise-mapping",
     "module/free-exercise-row",
     "module/mobility-derive",
     "module/mobility-standing",

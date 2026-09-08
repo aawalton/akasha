@@ -11,7 +11,6 @@
     "./exercise-load-model": "./exercise-load-model/exercise-load-model.module.code.ts",
     "./exercise-rows": "./exercise-rows/exercise-rows.module.code.ts",
     "./exercise-vocabulary": "./exercise-vocabulary/exercise-vocabulary.module.code.ts",
-    "./free-exercise-mapping": "./free-exercise-mapping/free-exercise-mapping.module.code.ts",
     "./free-exercise-row": "./free-exercise-row/free-exercise-row.module.code.ts",
     "./mobility-derive": "./mobility-derive/mobility-derive.module.code.ts",
     "./mobility-standing": "./mobility-standing/mobility-standing.module.code.ts",
