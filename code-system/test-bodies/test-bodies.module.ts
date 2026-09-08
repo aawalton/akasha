@@ -121,7 +121,15 @@ export const testBodies = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook decides for the path handed in rather than trusting its filter.",
+      statement: "A resolve hook decides for the path handed in rather than trusting its filter.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The runner fails a run where a load hook answers nothing for a path handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A load hook's filter spells exactly the paths a body is served for.",
     },
     {
       invariantKind: "departure",
