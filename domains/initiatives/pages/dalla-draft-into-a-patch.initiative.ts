@@ -35,7 +35,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
       workingMemory:
-        "The apply's own `unwarranted` at `apply.command.code.ts:112-126` is not `unwarrantedIn` rewritten: the shared one reads one flag off the call, the local one filters each row, and `FileEdit` carries no `writerOwesReading` field. It runs above the glass, so the glass skips checks and skips no warrant. `lint-exception` and `patch` both run checks and neither warrants; `akasha patch apply` reaches `applying` directly where `akasha apply` warrants its rows first.",
+        "The apply's own `unwarranted` at `apply.command.code.ts:112-126` is not `unwarrantedIn` rewritten: the shared one reads one flag off the call, the local one filters each row, and `FileEdit` carries no `writerOwesReading` field. It runs above the glass, so the glass skips checks and skips no warrant. `patch` runs checks and does not warrant; `akasha patch apply` reaches `applying` directly where `akasha apply` warrants its rows first.",
     },
     {
       statement:
@@ -51,7 +51,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Only `akasha change` drafts changes.",
       workingMemory:
-        "`replace`, the one command drafting where it should land at once, is gone; its act is `change-file`. `apply`, `patch` and `lint-exception` work on a patch rather than making one. Every other command declares `change-mechanical` and lands through `landedMechanically`, which is right. The edits `akasha change` keeps are the git ref `refs/akasha/edits`, and `landedMechanically` carries an unused `agentId` that would turn drafting on.",
+        "`replace`, the one command drafting where it should land at once, is gone; its act is `change-file`. `apply` and `patch` work on a patch rather than making one. Every other command declares `change-mechanical` and lands through `landedMechanically`, which is right. The edits `akasha change` keeps are the git ref `refs/akasha/edits`, and `landedMechanically` carries an unused `agentId` that would turn drafting on.",
     },
     {
       statement: "The patch a landing works out is held by no page property.",
