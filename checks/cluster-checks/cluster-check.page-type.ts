@@ -196,6 +196,7 @@ export const clusterCheck = {
     "module/repo-scope",
     "module/rule-population",
     "module/rule-population-audit",
+    "module/shellcheck-violations",
   ],
   properties: [
     {
