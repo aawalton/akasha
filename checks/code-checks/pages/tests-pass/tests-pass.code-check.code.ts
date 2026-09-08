@@ -127,8 +127,8 @@ function refusalsIn(change: Change): readonly Judged[] {
   if (first === undefined) return []
   const bodies = bodiesOf(change)
   if (measuring())
-    return [{ path: first, reason: spentlyOf(spentOver(change.root, named, null, bodies)) }]
-  const found = ranOver(change.root, named, named.length, null, null, bodies)
+    return [{ path: first, reason: spentlyOf(spentOver(change.root, named, bodies)) }]
+  const found = ranOver(change.root, named, named.length, null, bodies)
   if (found.verdict === "pass") return []
   const said = { ...found, output: spelledIn(found.output, change.root) }
   const at = said.slow[0]?.path ?? first

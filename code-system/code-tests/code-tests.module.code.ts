@@ -3,7 +3,6 @@ import { dirname, join, relative } from "node:path"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Said } from "@akasha/utils-run/running"
 import { ran } from "@akasha/utils-run/running"
-import type { Serving } from "../test-bodies/test-bodies.module.code.ts"
 import { type Bodies, mountedOver, type Overlay } from "../test-overlay/test-overlay.module.code.ts"
 
 const TS = ".ts"
@@ -250,16 +249,10 @@ function runsFor(root: string, named: readonly string[]): readonly Grouping[] {
   return grouped.length === 0 ? [{ preloads: [], named: [...named] }] : grouped
 }
 
-function servesFor(serving: Serving | null): readonly string[] {
-  return serving === null ? [] : [PRELOADING, serving.preload]
-}
-
 export function spentIn(
   root: string,
   runs: readonly Grouping[],
-  serves: readonly string[],
   naming: readonly string[],
-  serving: Serving | null,
   ceiling: number | null = CEILING,
   over: Overlay | null = null
 ): readonly Spent[] {
@@ -267,8 +260,7 @@ export function spentIn(
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const one of group.named) {
-      const at = serving?.standing.get(one) ?? one
-      const argv = [RUNNER, RUNS, ...serves, ...preloading, ...naming, at]
+      const argv = [RUNNER, RUNS, ...preloading, ...naming, one]
       const done = runsIn(root, argv, ceiling, over)
       found.push({
         path: one,
@@ -284,13 +276,11 @@ export function spentIn(
 export function slowIn(
   root: string,
   runs: readonly Grouping[],
-  serves: readonly string[],
   naming: readonly string[],
-  serving: Serving | null,
   ceiling: number = CEILING,
   over: Overlay | null = null
 ): readonly Slowed[] {
-  return spentIn(root, runs, serves, naming, serving, ceiling, over)
+  return spentIn(root, runs, naming, ceiling, over)
     .filter((one) => one.signal !== null || one.cpuSeconds > ceiling)
     .map((one) => ({ path: one.path, cpuSeconds: one.cpuSeconds }))
 }
@@ -306,12 +296,11 @@ export function judgedAs(said: Verdict, over: number, ended: boolean): Verdict {
 export function spentOver(
   root: string,
   named: readonly string[],
-  serving: Serving | null = null,
   bodies: Bodies | null = null
 ): readonly Spent[] {
   const over = bodies === null ? null : mountedOver(root, bodies)
   try {
-    return spentIn(root, runsFor(root, named), servesFor(serving), [], serving, null, over)
+    return spentIn(root, runsFor(root, named), [], null, over)
   } finally {
     over?.sweep()
   }
@@ -322,12 +311,10 @@ function ranUnder(
   named: readonly string[],
   expected: number,
   name: string | null,
-  serving: Serving | null,
   over: Overlay | null
 ): Ran {
   const runs = runsFor(root, named)
   const naming = name === null ? [] : [NAMING, wholeOf(name)]
-  const serves = servesFor(serving)
   let code = 0
   let signal: string | null = null
   let output = ""
@@ -337,8 +324,7 @@ function ranUnder(
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const batch of batchedOf(group.named)) {
-      const paths = batch.map((one) => serving?.standing.get(one) ?? one)
-      const argv = [RUNNER, RUNS, ...serves, ...preloading, ...naming, ...paths]
+      const argv = [RUNNER, RUNS, ...preloading, ...naming, ...batch]
       const bound = CEILING * batch.length
       const done = runsIn(root, argv, bound, over)
       output += `${done.out}${done.err}`
@@ -356,7 +342,7 @@ function ranUnder(
   }
   const said = verdictOf(code, output, expected)
   const beyond = signal !== null || (said === "pass" && spent > CEILING * many)
-  const slow = beyond ? slowIn(root, runs, serves, naming, serving, CEILING, over) : []
+  const slow = beyond ? slowIn(root, runs, naming, CEILING, over) : []
   return {
     code,
     signal,
@@ -373,12 +359,11 @@ export function ranOver(
   named: readonly string[],
   expected: number,
   name: string | null = null,
-  serving: Serving | null = null,
   bodies: Bodies | null = null
 ): Ran {
   const over = bodies === null ? null : mountedOver(root, bodies)
   try {
-    return ranUnder(root, named, expected, name, serving, over)
+    return ranUnder(root, named, expected, name, over)
   } finally {
     over?.sweep()
   }

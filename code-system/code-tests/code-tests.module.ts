@@ -269,19 +269,7 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A run is handed the serving of a change's bodies or nothing at all.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A serving reaches the runner as one more preload.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A test file is named to the runner by the path its serving hands over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A test file no serving hands a path over for is named by its own path.",
+      statement: "A test file is named to the runner by its own path.",
     },
     {
       invariantKind: "departure",

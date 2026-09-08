@@ -154,7 +154,7 @@ check("one named path runs alone, and its neighbour does not", () => {
 check("a run handed bodies reads them over the checkout, which is left as it was", () => {
   const root = repo({ "one.test.ts": FAILS })
   const bodies = { "akasha/one.test.ts": PASSES }
-  expect(ranOver(root, ["akasha"], 1, null, null, bodies).verdict).toBe("pass")
+  expect(ranOver(root, ["akasha"], 1, null, bodies).verdict).toBe("pass")
   expect(readFileSync(join(root, "akasha/one.test.ts"), "utf8")).toBe(FAILS)
 })
 
@@ -216,7 +216,7 @@ check(
   "a file past the ceiling is ended there and answered by name",
   () => {
     const root = repo({ "one.test.ts": PASSES, "slow.test.ts": BURNS })
-    const found = slowIn(root, groupedBy(root, ["akasha"]), [], [], null, 1)
+    const found = slowIn(root, groupedBy(root, ["akasha"]), [], 1)
     expect(found.map((one) => one.path)).toEqual(["akasha/slow.test.ts"])
     expect(found[0]?.cpuSeconds).toBeLessThan(4)
   },
@@ -239,7 +239,7 @@ check("a run ended at its ceiling is slow rather than a crash", () => {
 
 check("a file under the ceiling is not answered as over it", () => {
   const root = repo({ "one.test.ts": PASSES })
-  expect(slowIn(root, groupedBy(root, ["akasha"]), [], [], null)).toEqual([])
+  expect(slowIn(root, groupedBy(root, ["akasha"]), [])).toEqual([])
 })
 
 check("a file under the ceiling is still answered with what that file spent", () => {

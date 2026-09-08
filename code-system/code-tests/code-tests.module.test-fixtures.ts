@@ -20,12 +20,3 @@ export const SETS = "globalThis.held = true\n"
 export const NEEDS =
   'import { expect, test } from "bun:test"\n' +
   'test("one", () => { expect(globalThis.held).toBe(true) })\n'
-
-export const UNDER = "/var/tmp/"
-
-export function handing(held: Record<string, string>): (path: string) => Uint8Array | null {
-  return (path: string): Uint8Array | null => {
-    const body = held[path]
-    return body === undefined ? null : new TextEncoder().encode(body)
-  }
-}

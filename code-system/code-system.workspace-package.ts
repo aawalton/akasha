@@ -54,7 +54,6 @@ export const codeSystem = {
     "module/carried-file",
     "module/name-series",
     "module/value-inserting",
-    "module/test-bodies",
     "module/test-overlay",
     "page-type/lualib",
   ],
