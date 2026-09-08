@@ -14,7 +14,7 @@ export const amyDayModel = {
       statement:
         "Everything measured about one of Alan's days sits on one `day` page under `alan/track/days/pages`.",
       workingMemory:
-        "The type is `day`, renamed in `df2af0cb86`, and 250 dates each have a page under `alan/track/days/pages`. The page slugs still read `wake-day-YYYY-MM-DD`, so a newly composed day lands in a folder named for the slug rather than the date until they are restated. A day begins when its first sleep block starting or running past six the previous evening began, derived on every read, and a day that finds no such sleep opens at six the previous evening.",
+        "The type is `day` and every page is slugged `day-YYYY-MM-DD` under `alan/track/days/pages`, 250 of them, one for each date carrying data. Nothing in the day model is named for a waking now. A day begins when its first sleep block starting or running past six the previous evening began, derived on every read, and a day finding no such sleep opens at six the previous evening. What is left is `eso-day`, which still holds the health samples and the listens.",
     },
     {
       statement:
