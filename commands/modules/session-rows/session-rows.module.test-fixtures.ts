@@ -1,8 +1,7 @@
-import { mkdirSync } from "node:fs"
 import { join } from "node:path"
 import { indexedRepo } from "@akasha/indexes/indexing/testing"
 import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
-import { ACTIVITIES_AT, DAYS_AT, RELATIONSHIPS_AT } from "./session-rows.module.code.ts"
+import { DAYS_AT } from "./session-rows.module.code.ts"
 
 export const DAY = "2026-09-01"
 
@@ -67,9 +66,5 @@ function changing(): Readonly<Record<string, string>> {
 }
 
 export function dayRepo(): string {
-  const root = indexedRepo({ [PAGE_AT]: PAGE, [ROWS_AT]: ROW, ...changing() })
-  for (const one of [ACTIVITIES_AT, RELATIONSHIPS_AT]) {
-    mkdirSync(join(root, one), { recursive: true })
-  }
-  return root
+  return indexedRepo({ [PAGE_AT]: PAGE, [ROWS_AT]: ROW, ...changing() })
 }

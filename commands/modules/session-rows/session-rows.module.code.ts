@@ -1,8 +1,9 @@
-import { readdirSync, readFileSync } from "node:fs"
+import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { mountainWallAt, readMountainWallTime } from "@akasha/day/mountain-wall"
 import { padTwo } from "@akasha/digit-padding"
 import { uuidVersion7 } from "@akasha/id-minting/uuid-version-7"
+import { everyOfType } from "@akasha/indexes"
 import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import {
   type ActivityDifficulty,
@@ -27,9 +28,9 @@ export type LevelsReading =
 
 export const DAYS_AT = "alan/track/days/pages"
 
-export const ACTIVITIES_AT = "alan/track/session-activities/pages"
+const ACTIVITY_TYPE = "session-activity"
 
-export const RELATIONSHIPS_AT = "alan/relating/relationships/pages"
+const RELATIONSHIP_TYPE = "relationship"
 
 export const TITLE = "--title"
 export const AT = "--at"
@@ -129,11 +130,9 @@ export function linesOf(rows: readonly Row[]): string {
 }
 
 export function activitiesIn(root: string): readonly ActivityDifficulty[] {
-  const at = join(root, ACTIVITIES_AT)
   const held: ActivityDifficulty[] = []
-  for (const name of readdirSync(at)) {
-    if (!name.endsWith(".session-activity.ts")) continue
-    const said = readFileSync(join(at, name), "utf8")
+  for (const one of everyOfType(root, ACTIVITY_TYPE)) {
+    const said = readFileSync(join(root, one.path), "utf8")
     const title = /title:\s*"([^"]+)"/.exec(said)
     const level = /defaultDifficulty:\s*(-?[\d.]+)/.exec(said)
     if (title?.[1] === undefined || level?.[1] === undefined) continue
@@ -171,15 +170,9 @@ export function aliasesIn(said: string): readonly string[] {
 }
 
 export function relationshipsIn(root: string): readonly RelationshipPage[] {
-  const at = join(root, RELATIONSHIPS_AT)
   const held: RelationshipPage[] = []
-  for (const name of readdirSync(at)) {
-    let said: string
-    try {
-      said = readFileSync(join(at, name, `${name}.relationship.ts`), "utf8")
-    } catch {
-      continue
-    }
+  for (const one of everyOfType(root, RELATIONSHIP_TYPE)) {
+    const said = readFileSync(join(root, one.path), "utf8")
     const id = /^\s*id:\s*"([0-9a-f-]{36})"/m.exec(said)
     const title = /^\s*title:\s*"([^"]+)"/m.exec(said)
     if (id?.[1] === undefined || title?.[1] === undefined) continue
