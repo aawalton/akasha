@@ -31,7 +31,7 @@ function topLevelGroup(filePath: string): string {
 }
 
 function messageOf(v: PropertyCallbackSelfFinding): string {
-  return `property-style callback \`${v.name}\` lacks an explicit \`this\` parameter — TSTL defaults to method-context and emits a hidden self param that shifts arguments when a Lua-native caller (table.sort, pcall, ZO_*) invokes it; declare \`this: void\` for a plain callback, or \`this: Receiver\` for a colon-called self-method`
+  return `property-style callback \`${v.name}\` lacks an explicit \`this\` parameter — the Lua compiler defaults to method-context and emits a hidden self param that shifts arguments when a Lua-native caller (table.sort, pcall, ZO_*) invokes it; declare \`this: void\` for a plain callback, or \`this: Receiver\` for a colon-called self-method`
 }
 
 function formatViolation(v: PropertyCallbackSelfFinding): string {
