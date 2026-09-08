@@ -144,29 +144,29 @@ if [[ "$WIDGET_ENABLED" == "1" ]]; then
 fi
 
 SEAM_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/plist-keys/alanwalton-plist-keys.shell-script.shell.sh
+# shellcheck source=../plist-keys/alanwalton-plist-keys.shell-script.shell.sh
 . "$SEAM_DIR/plist-keys/alanwalton-plist-keys.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/appdelegate-imports/alanwalton-appdelegate-imports.shell-script.shell.sh
+# shellcheck source=../appdelegate-imports/alanwalton-appdelegate-imports.shell-script.shell.sh
 . "$SEAM_DIR/appdelegate-imports/alanwalton-appdelegate-imports.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/seam-reset/alanwalton-seam-reset.shell-script.shell.sh
+# shellcheck source=../seam-reset/alanwalton-seam-reset.shell-script.shell.sh
 . "$SEAM_DIR/seam-reset/alanwalton-seam-reset.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/crash-capture/alanwalton-crash-capture.shell-script.shell.sh
+# shellcheck source=../crash-capture/alanwalton-crash-capture.shell-script.shell.sh
 . "$SEAM_DIR/crash-capture/alanwalton-crash-capture.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/native-audio/alanwalton-native-audio.shell-script.shell.sh
+# shellcheck source=../native-audio/alanwalton-native-audio.shell-script.shell.sh
 . "$SEAM_DIR/native-audio/alanwalton-native-audio.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/kokoro-tts/alanwalton-kokoro-tts.shell-script.shell.sh
+# shellcheck source=../kokoro-tts/alanwalton-kokoro-tts.shell-script.shell.sh
 . "$SEAM_DIR/kokoro-tts/alanwalton-kokoro-tts.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/kokoro-synthesis/alanwalton-kokoro-synthesis.shell-script.shell.sh
+# shellcheck source=../kokoro-synthesis/alanwalton-kokoro-synthesis.shell-script.shell.sh
 . "$SEAM_DIR/kokoro-synthesis/alanwalton-kokoro-synthesis.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/keyboard-accessory-suppressor/alanwalton-keyboard-accessory-suppressor.shell-script.shell.sh
+# shellcheck source=../keyboard-accessory-suppressor/alanwalton-keyboard-accessory-suppressor.shell-script.shell.sh
 . "$SEAM_DIR/keyboard-accessory-suppressor/alanwalton-keyboard-accessory-suppressor.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/apns-forwarding/alanwalton-apns-forwarding.shell-script.shell.sh
+# shellcheck source=../apns-forwarding/alanwalton-apns-forwarding.shell-script.shell.sh
 . "$SEAM_DIR/apns-forwarding/alanwalton-apns-forwarding.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/widget-refresh/alanwalton-widget-refresh.shell-script.shell.sh
+# shellcheck source=../widget-refresh/alanwalton-widget-refresh.shell-script.shell.sh
 . "$SEAM_DIR/widget-refresh/alanwalton-widget-refresh.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/badge/alanwalton-badge.shell-script.shell.sh
+# shellcheck source=../badge/alanwalton-badge.shell-script.shell.sh
 . "$SEAM_DIR/badge/alanwalton-badge.shell-script.shell.sh"
-# shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/wallpaper-intent/alanwalton-wallpaper-intent.shell-script.shell.sh
+# shellcheck source=../wallpaper-intent/alanwalton-wallpaper-intent.shell-script.shell.sh
 . "$SEAM_DIR/wallpaper-intent/alanwalton-wallpaper-intent.shell-script.shell.sh"
 # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh
 . "$SEAM_DIR/health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh"
