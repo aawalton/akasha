@@ -27,7 +27,11 @@ const BARE = pageOf({
   definition: "a page claiming no file beside itself",
 })
 
-const LEFT = `\`${HELD_PAGE}\` is taken away, and \`${HELD_CODE}\` that page claims is left behind`
+const CARRIED_PAGE = "akasha/six/held.module.ts"
+
+const CARRIED_CODE = "akasha/six/held.module.code.ts"
+
+const LEFT = `\`${HELD_PAGE}\` is gone from that path, and \`${HELD_CODE}\` that page claims is left behind`
 
 function judged(root: string, said: Answer): Answer {
   return guardedBy(worldAt(root, textIn(root)), said, GUARDS)
@@ -36,6 +40,35 @@ function judged(root: string, said: Answer): Answer {
 function tookAway(paths: readonly string[]): Answer {
   return stating(paths.map((one) => ({ kind: "remove", path: one })))
 }
+
+function carriedOff(moves: readonly (readonly [string, string])[]): Answer {
+  return stating(moves.map(([pathFrom, pathTo]) => ({ kind: "move", pathFrom, pathTo })))
+}
+
+test("a page carried off leaving the file that page claims is refused", () => {
+  const root = indexedRepo()
+
+  const said = judged(root, carriedOff([[HELD_PAGE, CARRIED_PAGE]]))
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(LEFT)
+})
+
+test("a page carried off with the file that page claims is not refused", () => {
+  const root = indexedRepo()
+
+  const said = judged(
+    root,
+    carriedOff([
+      [HELD_PAGE, CARRIED_PAGE],
+      [HELD_CODE, CARRIED_CODE],
+    ])
+  )
+
+  expect(said.refused).toBe(null)
+  expect(pathsIn(said)).toContain(CARRIED_PAGE)
+  expect(pathsIn(said)).toContain(CARRIED_CODE)
+})
 
 test("a page taken away leaving the file that page claims is refused", () => {
   const root = indexedRepo()

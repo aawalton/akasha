@@ -6,13 +6,14 @@ export const claimedFileNotLeftBehind = {
   slug: "claimed-file-not-left-behind",
   changeTargetTypeSlug: "change-target-type/file",
   definition:
-    "the guard refusing an answer taking a page away and leaving behind a file that page claims",
+    "the guard refusing an answer leaving a page's path and leaving behind a file that page claims",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The page an answer takes away is read from the world before that answer.",
+      statement:
+        "The page an answer leaves a path without is read from the world before that answer.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +29,7 @@ export const claimedFileNotLeftBehind = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the page taken away and the file left behind.",
+      statement: "The refusal names the page gone from its path and the file left behind.",
     },
     {
       invariantKind: "departure",
@@ -45,6 +46,10 @@ export const claimedFileNotLeftBehind = {
     {
       invariantKind: "absence",
       statement: "Nothing here reads the working tree or the index on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a move carried off is judged as a page taken away.",
     },
   ],
 } as const satisfies ChangeGuard
