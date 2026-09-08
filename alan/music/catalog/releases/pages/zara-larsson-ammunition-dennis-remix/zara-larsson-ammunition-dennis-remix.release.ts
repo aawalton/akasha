@@ -5,7 +5,7 @@ export const zaraLarssonAmmunitionDennisRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-ammunition-dennis-remix",
   title: "Ammunition (DENNIS Remix)",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 2.316083,
   ownProgress: 2.316083,

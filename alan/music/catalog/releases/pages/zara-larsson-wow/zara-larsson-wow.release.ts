@@ -5,7 +5,7 @@ export const zaraLarssonWow = {
   pageTypeSlug: "release",
   slug: "zara-larsson-wow",
   title: "WOW",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 2.994583,
   ownProgress: 2.994583,

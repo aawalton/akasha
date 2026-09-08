@@ -5,7 +5,7 @@ export const vinnyMarchiHabanera = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-habanera",
   title: "Habanera",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.180383,
   ownProgress: 2.180383,

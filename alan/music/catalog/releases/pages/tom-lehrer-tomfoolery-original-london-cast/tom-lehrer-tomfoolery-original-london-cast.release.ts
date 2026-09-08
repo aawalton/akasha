@@ -5,7 +5,7 @@ export const tomLehrerTomfooleryOriginalLondonCast = {
   pageTypeSlug: "release",
   slug: "tom-lehrer-tomfoolery-original-london-cast",
   title: "Tomfoolery (Original London Cast)",
-  partOfSlugs: ["tom-lehrer"],
+  partOfCollectionSlugs: ["tom-lehrer"],
   position: 0,
   ownLength: 56.8399,
   ownProgress: 56.8399,

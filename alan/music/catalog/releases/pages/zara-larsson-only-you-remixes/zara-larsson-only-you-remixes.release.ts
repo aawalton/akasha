@@ -5,7 +5,7 @@ export const zaraLarssonOnlyYouRemixes = {
   pageTypeSlug: "release",
   slug: "zara-larsson-only-you-remixes",
   title: "Only You + Remixes",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 14.610317,
   ownProgress: 14.610317,

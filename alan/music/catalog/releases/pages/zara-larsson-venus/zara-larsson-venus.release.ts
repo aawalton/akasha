@@ -5,7 +5,7 @@ export const zaraLarssonVenus = {
   pageTypeSlug: "release",
   slug: "zara-larsson-venus",
   title: "VENUS",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 39.3006,
   ownProgress: 39.3006,

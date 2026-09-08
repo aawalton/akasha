@@ -5,7 +5,7 @@ export const zaraLarssonLushLifeRetroVersion = {
   pageTypeSlug: "release",
   slug: "zara-larsson-lush-life-retro-version",
   title: "Lush Life (Retro Version)",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 3.230883,
   ownProgress: 3.230883,

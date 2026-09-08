@@ -5,7 +5,7 @@ export const vinnyMarchiTheTaleOfTheLesbianHunter = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-the-tale-of-the-lesbian-hunter",
   title: "The Tale of the Lesbian Hunter",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.3171,
   ownProgress: 2.3171,

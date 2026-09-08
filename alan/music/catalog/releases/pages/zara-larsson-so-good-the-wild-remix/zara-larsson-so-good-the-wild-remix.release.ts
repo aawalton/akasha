@@ -5,7 +5,7 @@ export const zaraLarssonSoGoodTheWildRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-so-good-the-wild-remix",
   title: "So Good (The Wild Remix)",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 3.75755,
   ownProgress: 3.75755,

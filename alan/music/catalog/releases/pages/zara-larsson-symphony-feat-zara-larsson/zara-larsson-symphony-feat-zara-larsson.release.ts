@@ -5,7 +5,7 @@ export const zaraLarssonSymphonyFeatZaraLarsson = {
   pageTypeSlug: "release",
   slug: "zara-larsson-symphony-feat-zara-larsson",
   title: "Symphony (feat. Zara Larsson)",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 3.540983,
   ownProgress: 3.540983,

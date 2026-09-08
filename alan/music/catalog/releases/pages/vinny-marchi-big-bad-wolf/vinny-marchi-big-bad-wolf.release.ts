@@ -5,7 +5,7 @@ export const vinnyMarchiBigBadWolf = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-big-bad-wolf",
   title: "Big Bad Wolf",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.352533,
   ownProgress: 2.352533,

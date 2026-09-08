@@ -5,7 +5,7 @@ export const zaraLarssonRuinMyLifeTheRemixes = {
   pageTypeSlug: "release",
   slug: "zara-larsson-ruin-my-life-the-remixes",
   title: "Ruin My Life (The Remixes)",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 21.958067,
   ownProgress: 21.958067,

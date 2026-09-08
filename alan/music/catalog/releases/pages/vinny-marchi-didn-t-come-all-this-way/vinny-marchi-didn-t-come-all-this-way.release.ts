@@ -5,7 +5,7 @@ export const vinnyMarchiDidnTComeAllThisWay = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-didn-t-come-all-this-way",
   title: "Didn't Come All This Way",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.5641,
   ownProgress: 2.5641,

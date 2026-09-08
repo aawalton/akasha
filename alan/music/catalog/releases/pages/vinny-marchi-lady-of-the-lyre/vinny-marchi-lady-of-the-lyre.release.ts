@@ -5,7 +5,7 @@ export const vinnyMarchiLadyOfTheLyre = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-lady-of-the-lyre",
   title: "Lady of the Lyre",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.6,
   ownProgress: 2.6,

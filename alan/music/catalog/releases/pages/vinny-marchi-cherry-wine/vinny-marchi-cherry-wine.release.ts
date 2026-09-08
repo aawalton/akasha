@@ -5,7 +5,7 @@ export const vinnyMarchiCherryWine = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-cherry-wine",
   title: "Cherry Wine",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 3.4964,
   ownProgress: 3.4964,

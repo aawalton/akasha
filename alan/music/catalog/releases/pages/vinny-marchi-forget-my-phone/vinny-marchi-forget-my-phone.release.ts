@@ -5,7 +5,7 @@ export const vinnyMarchiForgetMyPhone = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-forget-my-phone",
   title: "Forget My Phone",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.595067,
   ownProgress: 2.595067,

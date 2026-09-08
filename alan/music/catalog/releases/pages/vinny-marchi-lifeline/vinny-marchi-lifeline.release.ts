@@ -5,7 +5,7 @@ export const vinnyMarchiLifeline = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-lifeline",
   title: "LIFELINE",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 3.404767,
   ownProgress: 3.404767,

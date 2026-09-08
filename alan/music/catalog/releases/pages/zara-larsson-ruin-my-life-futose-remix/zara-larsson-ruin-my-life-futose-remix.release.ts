@@ -5,7 +5,7 @@ export const zaraLarssonRuinMyLifeFutoseRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-ruin-my-life-futose-remix",
   title: "Ruin My Life (Futosé Remix)",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 4.748167,
   ownProgress: 4.748167,

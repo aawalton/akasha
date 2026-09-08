@@ -5,7 +5,7 @@ export const vinnyMarchiTheLetGo = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-the-let-go",
   title: "The Let Go",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 3.353967,
   ownProgress: 3.353967,

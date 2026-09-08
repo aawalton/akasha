@@ -5,7 +5,7 @@ export const vinnyMarchiMeetUThere = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-meet-u-there",
   title: "meet U there",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.8,
   ownProgress: 2.8,

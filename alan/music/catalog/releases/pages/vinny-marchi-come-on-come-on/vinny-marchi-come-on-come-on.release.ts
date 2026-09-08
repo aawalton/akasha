@@ -5,7 +5,7 @@ export const vinnyMarchiComeOnComeOn = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-come-on-come-on",
   title: "Come On! Come On!",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.482083,
   ownProgress: 2.482083,

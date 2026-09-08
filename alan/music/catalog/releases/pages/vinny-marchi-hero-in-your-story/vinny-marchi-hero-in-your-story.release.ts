@@ -5,7 +5,7 @@ export const vinnyMarchiHeroInYourStory = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-hero-in-your-story",
   title: "Hero In Your Story",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.8611,
   ownProgress: 2.8611,

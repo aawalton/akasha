@@ -5,7 +5,7 @@ export const zaraLarssonDonTWorryBoutMe = {
   pageTypeSlug: "release",
   slug: "zara-larsson-don-t-worry-bout-me",
   title: "Don't Worry Bout Me",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 3.480183,
   ownProgress: 3.480183,

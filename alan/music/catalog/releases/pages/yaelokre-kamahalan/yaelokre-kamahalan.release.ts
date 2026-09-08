@@ -5,7 +5,7 @@ export const yaelokreKamahalan = {
   pageTypeSlug: "release",
   slug: "yaelokre-kamahalan",
   title: "Kamahalan",
-  partOfSlugs: ["yaelokre"],
+  partOfCollectionSlugs: ["yaelokre"],
   position: 0,
   ownLength: 2.470633,
   ownProgress: 2.470633,

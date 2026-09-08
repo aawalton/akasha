@@ -5,7 +5,7 @@ export const zaraLarssonLikeItIs = {
   pageTypeSlug: "release",
   slug: "zara-larsson-like-it-is",
   title: "Like It Is",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 3.051117,
   ownProgress: 3.051117,

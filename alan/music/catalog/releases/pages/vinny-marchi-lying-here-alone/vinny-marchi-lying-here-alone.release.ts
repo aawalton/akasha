@@ -5,7 +5,7 @@ export const vinnyMarchiLyingHereAlone = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-lying-here-alone",
   title: "LYING HERE ALONE",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.67385,
   ownProgress: 2.67385,

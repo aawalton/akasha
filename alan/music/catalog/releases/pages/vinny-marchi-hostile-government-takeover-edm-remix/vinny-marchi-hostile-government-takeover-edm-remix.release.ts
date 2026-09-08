@@ -5,7 +5,7 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemix = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-hostile-government-takeover-edm-remix",
   title: "Hostile Government Takeover (EDM Remix)",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.656933,
   ownProgress: 2.656933,

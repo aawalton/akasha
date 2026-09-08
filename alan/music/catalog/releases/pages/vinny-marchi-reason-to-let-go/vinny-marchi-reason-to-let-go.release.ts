@@ -5,7 +5,7 @@ export const vinnyMarchiReasonToLetGo = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-reason-to-let-go",
   title: "reason to let go",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 3.5245,
   ownProgress: 3.5245,

@@ -5,7 +5,7 @@ export const vinnyMarchiMistyMountains = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-misty-mountains",
   title: "Misty Mountains",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 3.153,
   ownProgress: 3.153,

@@ -5,7 +5,7 @@ export const vinnyMarchiBewareOfTheSiren = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-beware-of-the-siren",
   title: "Beware of the Siren",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.946867,
   ownProgress: 2.946867,

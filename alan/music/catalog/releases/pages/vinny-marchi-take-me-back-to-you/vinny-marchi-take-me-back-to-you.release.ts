@@ -5,7 +5,7 @@ export const vinnyMarchiTakeMeBackToYou = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-take-me-back-to-you",
   title: "Take Me Back To You",
-  partOfSlugs: ["vinny-marchi"],
+  partOfCollectionSlugs: ["vinny-marchi"],
   position: 0,
   ownLength: 2.885567,
   ownProgress: 2.885567,

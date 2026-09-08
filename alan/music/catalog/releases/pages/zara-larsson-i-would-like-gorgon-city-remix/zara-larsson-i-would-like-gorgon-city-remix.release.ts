@@ -5,7 +5,7 @@ export const zaraLarssonIWouldLikeGorgonCityRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-i-would-like-gorgon-city-remix",
   title: "I Would Like (Gorgon City Remix)",
-  partOfSlugs: ["zara-larsson"],
+  partOfCollectionSlugs: ["zara-larsson"],
   position: 0,
   ownLength: 4.39425,
   ownProgress: 4.39425,
