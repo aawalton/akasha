@@ -9,6 +9,8 @@ export const luaCompiler = {
   partSlugs: [
     "lua-runtime-library/lualib",
     "lualib/array-at",
+    "lualib/symbol",
+    "lualib/well-known-symbols",
     "lualib/symbol-registry",
     "lualib/symbol-registry-for",
     "lualib/symbol-registry-key-for",

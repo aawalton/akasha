@@ -18,6 +18,7 @@ const FEATURES: ReadonlySet<string> = new Set<string>(Object.values(LuaLibFeatur
 export type LualibPage = {
   readonly pagePath: string
   readonly luaExport: string
+  readonly luaFeature?: string | null
   readonly codePath: string
   readonly lua50CodePath: string | null
 }
@@ -52,9 +53,11 @@ export function pageAt(root: string, relative: string): LualibPage | null {
   const codePath = `${stem}${CODE}`
   if (!existsSync(codePath)) return null
   const lua50CodePath = `${stem}${LUA50_CODE}`
+  const luaFeature = textAt(value, "luaFeature")
   return {
     pagePath: join(root, relative),
     luaExport,
+    luaFeature: luaFeature === null || luaFeature === "" ? null : luaFeature,
     codePath: realpathSync(codePath),
     lua50CodePath: existsSync(lua50CodePath) ? realpathSync(lua50CodePath) : null,
   }
@@ -81,10 +84,11 @@ export function sourcesFrom(
   const stated = new Map<LuaLibFeature, string>()
   const claimedBy = new Map<LuaLibFeature, string>()
   for (const page of pages) {
-    const feature = featureNamed(page.luaExport)
+    const named = page.luaFeature ?? page.luaExport
+    const feature = featureNamed(named)
     if (feature === null) {
       throw new Error(
-        `lualib pages: ${page.pagePath} states lua-export "${page.luaExport}", which names no lualib feature`
+        `lualib pages: ${page.pagePath} names "${named}", which names no lualib feature`
       )
     }
     const taken = claimedBy.get(feature)

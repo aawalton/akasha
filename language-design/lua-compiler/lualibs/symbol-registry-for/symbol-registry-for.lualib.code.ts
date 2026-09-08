@@ -1,4 +1,4 @@
-import { __TS__Symbol } from "../../lualib/src/Symbol.ts"
+import { __TS__Symbol } from "../symbol/symbol.lualib.code.ts"
 import { __TS__SymbolRegistry } from "../symbol-registry/symbol-registry.lualib.code.ts"
 
 const symbolRegistry = __TS__SymbolRegistry

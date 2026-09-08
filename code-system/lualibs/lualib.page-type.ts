@@ -3,6 +3,7 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Code } from "../modules/properties/code.file-property.ts"
 import type { CompiledLua } from "./properties/compiled-lua.file-property.ts"
 import type { LuaExport } from "./properties/lua-export.text-property.ts"
+import type { LuaFeature } from "./properties/lua-feature.text-property.ts"
 import type { Lua50Code } from "./properties/lua50-code.file-property.ts"
 
 export type Lualib = Domain & {
@@ -10,6 +11,7 @@ export type Lualib = Domain & {
   lua50Code?: Lua50Code
   compiledLua?: CompiledLua
   luaExport: LuaExport
+  luaFeature?: LuaFeature
 }
 
 export const lualib = {
@@ -18,13 +20,19 @@ export const lualib = {
   slug: "lualib",
   definition: "one helper a compiler writes into every addon's Lua",
   pluralSlug: "lualibs",
-  partSlugs: ["file-property/compiled-lua", "file-property/lua50-code", "text-property/lua-export"],
+  partSlugs: [
+    "file-property/compiled-lua",
+    "file-property/lua50-code",
+    "text-property/lua-export",
+    "text-property/lua-feature",
+  ],
   extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/code", required: true, many: false },
     { pagePropertySlug: "file-property/lua50-code", required: false, many: false },
     { pagePropertySlug: "file-property/compiled-lua", required: false, many: false },
     { pagePropertySlug: "text-property/lua-export", required: true, many: false },
+    { pagePropertySlug: "text-property/lua-feature", required: false, many: false },
   ],
   invariants: [
     {

@@ -103,8 +103,20 @@ test("a page naming no lualib feature either way refuses the build", () => {
     lua50CodePath: null,
   }
   expect(() => sourcesFrom(SCANNED, [named], false)).toThrow(
-    'nowhere.lualib.ts states lua-export "NotAFeature", which names no lualib feature'
+    'nowhere.lualib.ts names "NotAFeature", which names no lualib feature'
   )
+})
+
+test("a page's stated lua feature takes the place of the one its export names", () => {
+  const named: LualibPage = {
+    pagePath: "/lua-compiler/lualibs/well-known-symbols/well-known-symbols.lualib.ts",
+    luaExport: "Symbol",
+    luaFeature: "WellKnownSymbols",
+    codePath: "/lua-compiler/lualibs/well-known-symbols/well-known-symbols.lualib.code.ts",
+    lua50CodePath: null,
+  }
+  const held = sourcesFrom(SCANNED, [named], false)
+  expect(held.featureBySourceName.get("well-known-symbols.lualib.code")).toBe("WellKnownSymbols")
 })
 
 test("a page naming a feature the scan found nowhere is added after what the scan found", () => {

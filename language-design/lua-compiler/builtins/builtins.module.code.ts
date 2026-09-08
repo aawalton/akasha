@@ -66,7 +66,8 @@ export function transformBuiltinPropertyAccessExpression(
     const ownerName = ownerType.symbol.name
     if (ownerName === "NumberConstructor") return transformNumberProperty(context, node)
     if (ownerName === "Math") return transformMathProperty(context, node)
-    if (ownerName === "SymbolConstructor") importLuaLibFeature(context, LuaLibFeature.Symbol)
+    if (ownerName === "SymbolConstructor")
+      importLuaLibFeature(context, LuaLibFeature.WellKnownSymbols)
   }
 
   if (isStringType(context, ownerType)) {

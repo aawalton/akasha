@@ -47,7 +47,11 @@ export const lualibPages = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the page's path and the Lua export the page states.",
+      statement: "The refusal names the page's path and the name the page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's stated lua feature takes the place of the one its Lua export names.",
     },
     {
       invariantKind: "departure",
