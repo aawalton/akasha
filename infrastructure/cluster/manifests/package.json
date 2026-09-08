@@ -5,7 +5,6 @@
   "exports": {
     "./alanwalton-web-rbac": "./alanwalton-web-rbac/alanwalton-web-rbac.module.code.ts",
     "./app-namespaces-synth": "./app-namespaces-synth/app-namespaces-synth.module.code.ts",
-    "./audhdalan-web-rbac": "./audhdalan-web-rbac/audhdalan-web-rbac.module.code.ts",
     "./cert-manager-rbac": "./cert-manager-rbac/cert-manager-rbac.module.code.ts",
     "./cgroup-psi-constants": "./cgroup-psi-constants/cgroup-psi-constants.module.code.ts",
     "./ci-namespace-synth": "./ci-namespace-synth/ci-namespace-synth.module.code.ts",

@@ -11,8 +11,7 @@ export const workflows = [
     steps: [
       applyRbac({
         name: "audhdalan-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster/manifests/audhdalan-web-rbac/audhdalan-web-rbac.module.code.ts",
+        rbacFile: "audhdalan/audhdalan-web/audhdalan-web-rbac/audhdalan-web-rbac.module.code.ts",
       }),
       kubectlApply({
         name: "audhdalan-infra-apply-service",
