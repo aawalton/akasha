@@ -47,7 +47,7 @@ export const population = {
     },
     {
       invariantKind: "departure",
-      statement: "A member carrying no site leaves the root as the other members left that root.",
+      statement: "A member with no site leaves the root as the other members left that root.",
     },
     {
       invariantKind: "departure",

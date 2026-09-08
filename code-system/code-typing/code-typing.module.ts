@@ -48,8 +48,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Two properties carrying one key are told apart by where each property is declared.",
+      statement: "Two properties with one key are told apart by where each property is declared.",
     },
     {
       invariantKind: "departure",
@@ -168,7 +167,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A body served to the program carries a version.",
+      statement: "A body served to the program has a version.",
     },
     {
       invariantKind: "absence",

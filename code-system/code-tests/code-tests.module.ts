@@ -11,35 +11,35 @@ export const codeTests = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run's answer carries the code the run exited.",
+      statement: "A run's answer has the code the run exited.",
     },
     {
       invariantKind: "departure",
-      statement: "A run's answer carries the signal the run died on where a signal ended the run.",
+      statement: "A run's answer has the signal the run died on where a signal ended the run.",
     },
     {
       invariantKind: "departure",
-      statement: "A run's answer carries the output the run printed.",
+      statement: "A run's answer has the output the run printed.",
     },
     {
       invariantKind: "departure",
-      statement: "A run's answer carries the summary read out of the output the run printed.",
+      statement: "A run's answer has the summary read out of the output the run printed.",
     },
     {
       invariantKind: "departure",
-      statement: "A run's answer carries the verdict that follows.",
+      statement: "A run's answer has the verdict that follows.",
     },
     {
       invariantKind: "departure",
-      statement: "A run's answer carries the processor seconds every batch of that run spent.",
+      statement: "A run's answer has the processor seconds every batch of that run spent.",
     },
     {
       invariantKind: "departure",
-      statement: "A run's answer carries the files that spent more than one file may.",
+      statement: "A run's answer has the files that spent more than one file may.",
     },
     {
       invariantKind: "departure",
-      statement: "A run's answer carries nothing more.",
+      statement: "A run's answer has nothing more.",
     },
     {
       invariantKind: "departure",

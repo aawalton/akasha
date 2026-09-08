@@ -4,7 +4,7 @@ export const packageNaming = {
   id: "01a08236-274a-7266-ab52-6e34c361587e",
   pageTypeSlug: "module",
   slug: "package-naming",
-  definition: "a package's name where a string carries it",
+  definition: "a package's name where a string has it",
   code: "ts",
   test: "ts",
   invariants: [
@@ -18,7 +18,7 @@ export const packageNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A name carrying the old name anywhere else names no package renamed.",
+      statement: "A name with the old name anywhere else names no package renamed.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +32,7 @@ export const packageNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A value carrying no colon is no alias.",
+      statement: "A value with no colon is no alias.",
     },
     {
       invariantKind: "departure",

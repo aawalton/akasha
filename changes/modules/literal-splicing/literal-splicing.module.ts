@@ -39,7 +39,7 @@ export const literalSplicing = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry written after another takes the indent that entry carries.",
+      statement: "An entry written after another takes the indent that entry has.",
     },
     {
       invariantKind: "departure",

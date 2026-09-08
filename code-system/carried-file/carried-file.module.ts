@@ -18,8 +18,7 @@ export const carriedFile = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A carrier states the byte count and the sha256 of the bytes that carrier carries.",
+      statement: "A carrier states the byte count and the sha256 of the bytes that carrier has.",
     },
     {
       invariantKind: "departure",

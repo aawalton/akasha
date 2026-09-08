@@ -4,13 +4,13 @@ export const changeMirror = {
   id: "01a080b1-5322-7000-ae97-da48e0382c61",
   pageTypeSlug: "module",
   slug: "change-mirror",
-  definition: "a folder with the bodies a change carries, each at the path it is filed at",
+  definition: "a folder with the bodies a change has, each at the path it is filed at",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A body the change carries is written at the path the change files that body at.",
+      statement: "A body the change has is written at the path the change files that body at.",
     },
     {
       invariantKind: "departure",

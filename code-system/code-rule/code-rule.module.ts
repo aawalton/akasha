@@ -43,7 +43,7 @@ export const codeRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration carrying no body says no rule rather than saying an empty rule.",
+      statement: "A declaration with no body says no rule rather than saying an empty rule.",
     },
     {
       invariantKind: "departure",

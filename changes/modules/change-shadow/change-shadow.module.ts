@@ -72,7 +72,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A world carries the answer that world was built over.",
+      statement: "A world has the answer that world was built over.",
     },
     {
       invariantKind: "departure",
@@ -80,7 +80,7 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A world built over a second answer carries both answers gathered.",
+      statement: "A world built over a second answer has both answers gathered.",
     },
     {
       invariantKind: "departure",

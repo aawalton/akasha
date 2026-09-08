@@ -81,7 +81,7 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "Every check judged over one change carries one run id.",
+      statement: "Every check judged over one change has one run id.",
     },
     {
       invariantKind: "departure",

@@ -15,7 +15,7 @@ export const pageKnowing = {
     },
     {
       invariantKind: "departure",
-      statement: "A path carrying a section beside the page's own names no page.",
+      statement: "A path with a section beside the page's own names no page.",
     },
     {
       invariantKind: "departure",

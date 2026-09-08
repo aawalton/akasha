@@ -28,7 +28,7 @@ export const entryReasons = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry carrying no id refuses the page.",
+      statement: "An entry with no id refuses the page.",
     },
     {
       invariantKind: "departure",

@@ -30,7 +30,7 @@ export const codeSource = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a declaration is exported is read from the modifiers that declaration carries.",
+        "Whether a declaration is exported is read from the modifiers that declaration has.",
     },
     {
       invariantKind: "absence",
@@ -43,7 +43,7 @@ export const codeSource = {
     {
       invariantKind: "absence",
       statement:
-        "A path is a name the parse carries so a node says its place rather than a file this module opens.",
+        "A path is a name the parse has so a node says its place rather than a file this module opens.",
     },
   ],
 } as const satisfies Module

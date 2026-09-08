@@ -27,7 +27,7 @@ export const violationReporting = {
     },
     {
       invariantKind: "departure",
-      statement: "The population bound is said on the line that carries the count.",
+      statement: "The population bound is said on the line that has the count.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const violationReporting = {
     {
       invariantKind: "departure",
       statement:
-        "A violation is said as file and line and message where the violation carries those fields.",
+        "A violation is said as file and line and message where the violation has those fields.",
     },
     {
       invariantKind: "departure",

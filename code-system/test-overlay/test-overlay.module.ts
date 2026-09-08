@@ -14,7 +14,7 @@ export const testOverlay = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the change carries is read at the path the change files that body at.",
+      statement: "A body the change has is read at the path the change files that body at.",
     },
     {
       invariantKind: "departure",

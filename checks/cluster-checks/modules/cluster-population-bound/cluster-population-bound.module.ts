@@ -9,7 +9,7 @@ export const clusterPopulationBound = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A verdict carries the population the verdict rests on.",
+      statement: "A verdict has the population the verdict rests on.",
     },
     {
       invariantKind: "departure",

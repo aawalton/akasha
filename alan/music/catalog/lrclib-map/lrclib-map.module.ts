@@ -26,7 +26,7 @@ export const lrclibMap = {
     },
     {
       invariantKind: "departure",
-      statement: "A record with words stamped line by line wins over one carrying plain words.",
+      statement: "A record with words stamped line by line wins over one with plain words.",
     },
     {
       invariantKind: "departure",

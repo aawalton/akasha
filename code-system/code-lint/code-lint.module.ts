@@ -11,7 +11,7 @@ export const codeLint = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run's answer carries the code the run exited with.",
+      statement: "A run's answer has the code the run exited with.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const codeLint = {
     },
     {
       invariantKind: "departure",
-      statement: "A run's answer carries nothing more.",
+      statement: "A run's answer has nothing more.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const codeLint = {
     {
       invariantKind: "departure",
       statement:
-        "The findings are read from the first line printed that parses as an object carrying diagnostics.",
+        "The findings are read from the first line printed that parses as an object with diagnostics.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +78,7 @@ export const codeLint = {
     },
     {
       invariantKind: "absence",
-      statement: "A run carries no configuration of its own.",
+      statement: "A run has no configuration of its own.",
     },
     {
       invariantKind: "absence",
