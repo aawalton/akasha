@@ -51,6 +51,10 @@ export const warranting = {
       statement: "One read call names every page a refusal names.",
     },
     {
+      invariantKind: "departure",
+      statement: "A page a refusal names more than once is named once in that read.",
+    },
+    {
       invariantKind: "absence",
       statement: "A refusal says nothing about how a read behaves.",
     },

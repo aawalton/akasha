@@ -106,7 +106,8 @@ export function fromTabooTerm(warrant: Warrant): boolean {
 }
 
 export function callOf(paths: readonly string[]): string {
-  return `  ${READING} ${paths.map((one) => `${FLAG} ${one}`).join(" ")}`
+  const once = [...new Set(paths)]
+  return `  ${READING} ${once.map((one) => `${FLAG} ${one}`).join(" ")}`
 }
 
 export function notReadOf(warrant: Warrant): string {
