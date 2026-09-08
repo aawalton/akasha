@@ -4,9 +4,10 @@ import ts from "typescript"
 import {
   pathsIn,
   refusing,
+  spliced,
   stating,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type { Said, Splice } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
 
@@ -36,17 +37,17 @@ export function without(
   held: ts.Node,
   every: readonly ts.Node[],
   at: number
-): string {
+): Splice {
   const one = every[at]
-  if (one === undefined) return text
+  if (one === undefined) return { from: 0, to: 0, put: "" }
   if (every.length === 1) {
-    return text.slice(0, held.getStart(source) + 1) + text.slice(held.getEnd() - 1)
+    return { from: held.getStart(source) + 1, to: held.getEnd() - 1, put: "" }
   }
   const past = commaAfter(text, one.getEnd(), held.getEnd())
-  if (past > one.getEnd()) return text.slice(0, one.pos) + text.slice(past)
+  if (past > one.getEnd()) return { from: one.pos, to: past, put: "" }
   const before = every[at - 1]
   const from = before === undefined ? held.getStart(source) + 1 : before.getEnd()
-  return text.slice(0, from) + text.slice(one.getEnd())
+  return { from, to: one.getEnd(), put: "" }
 }
 
 export function requiredIn(world: World, given: Sought): boolean | null {
@@ -83,8 +84,8 @@ export function removePropertyValue(world: World, given: RemovePropertyValueAske
       (each) => ts.isStringLiteral(each) && each.text === given.value
     )
     if (found < 0) return refusing(`\`${given.key}\` holds no \`${given.value}\``)
-    const body = without(text, source, holding, holding.elements, found)
-    return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: body }])
+    const gone = without(text, source, holding, holding.elements, found)
+    return stating(spliced(given.at, text, gone))
   }
   if (!ts.isStringLiteral(holding) || holding.text !== given.value) {
     return refusing(`\`${given.key}\` holds no \`${given.value}\``)
@@ -97,7 +98,7 @@ export function removePropertyValue(world: World, given: RemovePropertyValueAske
     return refusing(`\`${given.key}\` is required, so taking \`${given.value}\` away is a retype`)
   }
   const left = without(text, source, owner, owner.properties, at)
-  return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: left }])
+  return stating(spliced(given.at, text, left))
 }
 
 export function runChange(world: World, given: RemovePropertyValueAsked): Said {
