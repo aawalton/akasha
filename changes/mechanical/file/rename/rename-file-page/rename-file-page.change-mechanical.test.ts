@@ -251,7 +251,7 @@ test("a body that is no page spelling the page's address states the new address"
   expect(bodiesIn(said, was).get(SPELLER_CODE)).toBe(`export const at = "module/${CARRIED}"\n`)
 })
 
-test("a beside file whose key is more than one word is carried too", async () => {
+test("a beside file is carried whichever kind of property holds that file", async () => {
   const root = indexedRepo({
     "akasha/test-fixtures.file-property.ts": bodyOf({
       id: idOf("d"),
@@ -259,21 +259,37 @@ test("a beside file whose key is more than one word is carried too", async () =>
       slug: "test-fixtures",
       propertySlug: "test-fixtures",
     }),
+    "akasha/page-property-entry.page-type.ts": bodyOf({
+      id: idOf("e"),
+      pageTypeSlug: "page-type",
+      slug: "page-property-entry",
+      extendsSlug: ["page-type/page-property"],
+      properties: [],
+    }),
+    "akasha/sessions.page-property-entry.ts": bodyOf({
+      id: idOf("0"),
+      pageTypeSlug: "page-property-entry",
+      slug: "sessions",
+      propertySlug: "sessions",
+    }),
     [WIDE_PAGE]: pageOf({
       id: idOf("f"),
       pageTypeSlug: "module",
       slug: "wide",
       code: "ts",
       testFixtures: "ts",
+      sessions: "jsonl",
     }),
     "akasha/four/wide.module.code.ts": "export const kept = 3\n",
     "akasha/four/wide.module.test-fixtures.ts": "export const set = 4\n",
+    "akasha/four/wide.module.sessions.jsonl": "{}\n",
   })
   const said = await runChange(worldIn(root, textIn(root)), { at: WIDE_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [WIDE_PAGE, CARRIED_PAGE],
     ["akasha/four/wide.module.code.ts", CARRIED_CODE],
+    ["akasha/four/wide.module.sessions.jsonl", "akasha/carried/carried.module.sessions.jsonl"],
     ["akasha/four/wide.module.test-fixtures.ts", "akasha/carried/carried.module.test-fixtures.ts"],
   ])
 })

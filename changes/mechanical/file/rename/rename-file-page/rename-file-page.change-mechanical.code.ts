@@ -44,8 +44,6 @@ const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const PAGE_TYPE = "page-type"
 
-const FILE_PROPERTY = "file-property"
-
 const PLURAL_SLUG = "pluralSlug"
 
 export type Asked = {
@@ -82,29 +80,18 @@ function readIn(at: string, text: string): Read {
 
 type Beside = (path: string) => string | null
 
-function filedIn(world: World, held: Held): ReadonlyMap<string, string> {
-  const filed = new Map<string, string>()
-  for (const one of world.index.propertiesIfNamed(held.pageTypeSlug) ?? []) {
-    if (one.pageTypeSlug !== FILE_PROPERTY) continue
-    filed.set(one.key, one.propertySlug)
-  }
-  return filed
-}
-
-function searchedIn(world: World, key: string): string | null {
-  const answer = world.index.schemaOf(slugFor(key))
-  if ("refused" in answer) return null
-  const one = answer.schema
-  if (one.pageTypeSlug !== FILE_PROPERTY) return null
-  return one.propertySlug
+function heldIn(world: World, held: Held, propertySlug: string): string | null | undefined {
+  const filed = world.index.filePropertiesAt().get(held.pageTypeSlug)
+  if (filed?.has(propertySlug) === true) return filed.get(propertySlug)
+  const keys = world.index.fileKeysAt()
+  return keys.has(propertySlug) ? keys.get(propertySlug) : undefined
 }
 
 function besideIn(world: World, held: Held): readonly Beside[] {
-  const filed = filedIn(world, held)
   const found: Beside[] = []
   for (const [key, ending] of held.said) {
-    const propertySlug = filed.get(key) ?? searchedIn(world, key)
-    if (propertySlug === null || propertySlug === undefined) continue
+    const propertySlug = slugFor(key)
+    if (heldIn(world, held, propertySlug) !== null) continue
     found.push((path) => besideAt(path, propertySlug, ending))
   }
   return found

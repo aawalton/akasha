@@ -33,6 +33,10 @@ export const renameFilePage = {
       statement: "A key that type does not declare is looked for among every page property.",
     },
     {
+      invariantKind: "absence",
+      statement: "Which properties a page type holds in a file is answered nowhere here.",
+    },
+    {
       invariantKind: "departure",
       statement:
         "A page type holding a secret or an uncommitted value keeps that value beside the page.",
