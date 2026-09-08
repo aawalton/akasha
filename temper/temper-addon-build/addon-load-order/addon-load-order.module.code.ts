@@ -236,7 +236,7 @@ export async function writeLoadOrder(
   const bundle = readTstlLuaBundle(addonDir, generated)
   if (bundle === null) {
     throw new Error(
-      `writeLoadOrder: neither ${join(addonDir, TSCONFIG_NAME)} nor ${generated} declares a tstl.luaBundle, and the manifest has to name the Lua the game loads`
+      `writeLoadOrder: neither ${join(addonDir, TSCONFIG_NAME)} nor ${generated} declares a luaCompiler.luaBundle, and the manifest has to name the Lua the game loads`
     )
   }
   const additionalLuaFiles = await readAdditionalLuaFiles(addonDir)
