@@ -63,7 +63,7 @@ export function parseConfigFileWithSystem(
 
   parsedConfigFile.raw.luaCompiler = Object.assign(
     inherited,
-    parsedConfigFile.raw.luaCompiler ?? parsedConfigFile.raw.tstl ?? {}
+    parsedConfigFile.raw.luaCompiler ?? {}
   )
 
   return updateParsedConfigFile(parsedConfigFile)
