@@ -183,6 +183,27 @@ export const applying = {
       statement: "An apply over a patch that is not mechanical is judged as any authored apply is.",
     },
     {
+      invariantKind: "departure",
+      statement: "Every refusal an apply answers with is written beside the calling agent's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run replaces those refusals rather than appending to those refusals.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply that landed leaves no refusals beside that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal set past what one answer holds is answered as a pointer to that agent's file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Where those refusals are written is worked out by the module keeping them.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here takes the hold.",
     },

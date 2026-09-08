@@ -25,6 +25,7 @@ import { carryLanded } from "../landing-reading/landing-reading.module.code.ts"
 import { defaultMessage, formattedSaid } from "../landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
+import { refusalsKept } from "../refusals-keeping/refusals-keeping.module.code.ts"
 
 const NOTHING_HELD = "no bodies were handed in, so nothing is there to apply"
 
@@ -98,17 +99,19 @@ export async function applying(
   taken: Arguments,
   carried: Carried | null
 ): Promise<Applying> {
+  const keeping = (refusals: readonly string[]): readonly string[] =>
+    refusalsKept(given.root, page, refusals)
   const asked = askedIn(taken)
-  if ("refusals" in asked) return notLanded(mistaking(asked.refusals))
+  if ("refusals" in asked) return notLanded(mistaking(keeping(asked.refusals)))
   const broken = asked.glass
   if (carried === null) {
-    return notLanded(mistaking([noneSaid(given.root, page)]))
+    return notLanded(mistaking(keeping([noneSaid(given.root, page)])))
   }
   const built = gateBuilt(given.root)
   if (broken === null && !("gate" in built)) {
     return notLanded({
       report: [],
-      refusals: [`the checks would not load — ${built.broken}`],
+      refusals: keeping([`the checks would not load — ${built.broken}`]),
       code: 3,
     })
   }
@@ -119,7 +122,9 @@ export async function applying(
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   try {
     const said = await applied(given.root, given.agentId, why, gate, given.writer, [], carried)
-    if ("refusals" in said) return notLanded({ report: [], refusals: said.refusals, code: 3 })
+    if ("refusals" in said) {
+      return notLanded({ report: [], refusals: keeping(said.refusals), code: 3 })
+    }
     return {
       report: [
         ...said.landed.map((one) => `landed ${one}`),
@@ -130,14 +135,14 @@ export async function applying(
           ? "nothing was committed — the tree already holds what the change asked for"
           : `committed as ${said.commit}`,
       ],
-      refusals: said.wrong,
+      refusals: keeping(said.wrong),
       code: said.wrong.length === 0 ? 0 : 3,
       landed: true,
     }
   } catch (thrown) {
     return notLanded({
       report: [],
-      refusals: [`nothing was committed — ${whyOf(thrown)}`],
+      refusals: keeping([`nothing was committed — ${whyOf(thrown)}`]),
       code: 3,
     })
   }
