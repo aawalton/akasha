@@ -24,7 +24,11 @@ export function pointsBeforeTodayKept(root: string, slug: string): number | null
 }
 
 export function keepPointsBeforeToday(root: string, slug: string, points: number): undefined {
-  mergeUncommitted(root, attributePage(slug), { [POINTS_BEFORE_TODAY]: points })
+  const today = pointsTodayKept(root, slug) ?? 0
+  mergeUncommitted(root, attributePage(slug), {
+    [POINTS_BEFORE_TODAY]: points,
+    [POINTS_TOTAL]: points + today,
+  })
 }
 
 export function keepPointsToday(root: string, slug: string, points: number): undefined {

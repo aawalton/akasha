@@ -3,6 +3,7 @@ import { mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import {
   attributePage,
+  keepPointsBeforeToday,
   keepPointsToday,
   pointsTodayKept,
   pointsTotalKept,
@@ -64,6 +65,28 @@ test("keeping points again replaces the points kept before", () => {
     keepPointsToday(root, "wisdom", 0.5)
     keepPointsToday(root, "wisdom", 0.9)
     expect(pointsTodayKept(root, "wisdom")).toBe(0.9)
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("the points before today are a total on their own where today is unread", () => {
+  const root = rooted()
+  try {
+    keepPointsBeforeToday(root, "endurance", 0.34871)
+    expect(pointsTotalKept(root, "endurance")).toBe(0.34871)
+    expect(pointsTodayKept(root, "endurance")).toBeNull()
+  } finally {
+    rmSync(root, { recursive: true, force: true })
+  }
+})
+
+test("keeping the points before today counts today's points into the total", () => {
+  const root = rooted()
+  try {
+    keepPointsToday(root, "endurance", 0.5)
+    keepPointsBeforeToday(root, "endurance", 2)
+    expect(pointsTotalKept(root, "endurance")).toBe(2.5)
   } finally {
     rmSync(root, { recursive: true, force: true })
   }

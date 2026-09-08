@@ -34,6 +34,14 @@ export const attributePoints = {
     },
     {
       invariantKind: "departure",
+      statement: "Keeping the points before today replaces the total too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An attribute whose today is unread totals the points before today alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An attribute carrying nothing before today totals today's points alone.",
     },
     {
