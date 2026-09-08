@@ -43,7 +43,7 @@ function messageOf(v: TstlThisVoidSelfDropFinding): string {
     case "control-method":
       return `control method \`${v.name}\` on a \`& Control\` type declares a sole \`this: void\` — the Lua compiler emits a dot-call that drops self and shifts arguments; declare \`this: <Control>\` (property-arrow, source-safe) instead`
     case "xml-handler":
-      return `XML-colon-called handler \`${v.name}\` is defined as a sole \`this: void\` value-assignment — TSTL emits a dot-call that drops self and shifts arguments; declare \`this: <Receiver>\` (matching the XML colon-call) at the def and its interface member instead`
+      return `XML-colon-called handler \`${v.name}\` is defined as a sole \`this: void\` value-assignment — the Lua compiler emits a dot-call that drops self and shifts arguments; declare \`this: <Receiver>\` (matching the XML colon-call) at the def and its interface member instead`
     default:
       return assertNever(v.kind)
   }
