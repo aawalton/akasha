@@ -69,6 +69,22 @@ export const testsPass = {
       statement: "What was written to serve the bodies is swept whatever the run said.",
     },
     {
+      invariantKind: "departure",
+      statement: "A change carrying a test file that costs more than that file may is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal names each file over the ceiling and the seconds that file spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That refusal says the tests themselves are green.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slow run is reported against the first file over the ceiling.",
+    },
+    {
       invariantKind: "gap",
       statement: "A failing run is reported against the first test file the run named.",
     },

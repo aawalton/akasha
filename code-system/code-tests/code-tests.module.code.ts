@@ -1,6 +1,7 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { besideAt } from "@akasha/pages/page-file-name"
+import type { Said } from "@akasha/utils-run/running"
 import { ran } from "@akasha/utils-run/running"
 import type { Serving } from "../test-bodies/test-bodies.module.code.ts"
 
@@ -48,7 +49,14 @@ export const RUNNING = "AKASHA_TESTS_RUNNING"
 
 export const BATCH = 100
 
-export type Verdict = "pass" | "fail" | "short" | "crash"
+export const CEILING = 5
+
+export type Verdict = "pass" | "fail" | "short" | "crash" | "slow"
+
+export type Slowed = {
+  readonly path: string
+  readonly cpuSeconds: number
+}
 
 export type Summary = {
   readonly files: number | null
@@ -62,6 +70,8 @@ export type Ran = {
   readonly output: string
   readonly summary: Summary
   readonly verdict: Verdict
+  readonly cpuSeconds: number
+  readonly slow: readonly Slowed[]
 }
 
 export type Grouping = {
@@ -209,6 +219,29 @@ export function batchedOf(named: readonly string[]): readonly (readonly string[]
   return held
 }
 
+function runsIn(root: string, argv: readonly string[]): Said {
+  return ran([...argv], { cwd: root, env: { ...process.env, [RUNNING]: MARK } })
+}
+
+export function slowIn(
+  root: string,
+  runs: readonly Grouping[],
+  serves: readonly string[],
+  naming: readonly string[],
+  serving: Serving | null
+): readonly Slowed[] {
+  const found: Slowed[] = []
+  for (const group of runs) {
+    const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
+    for (const one of group.named) {
+      const at = serving?.standing.get(one) ?? one
+      const done = runsIn(root, [RUNNER, RUNS, ...serves, ...preloading, ...naming, at])
+      if (done.cpuSeconds > CEILING) found.push({ path: one, cpuSeconds: done.cpuSeconds })
+    }
+  }
+  return found
+}
+
 export function ranOver(
   root: string,
   named: readonly string[],
@@ -223,15 +256,16 @@ export function ranOver(
   let code = 0
   let signal: string | null = null
   let output = ""
+  let spent = 0
+  let many = 0
   for (const group of runs) {
     const preloading = group.preloads.flatMap((one) => [PRELOADING, one])
     for (const batch of batchedOf(group.named)) {
       const over = batch.map((one) => serving?.standing.get(one) ?? one)
-      const done = ran([RUNNER, RUNS, ...serves, ...preloading, ...naming, ...over], {
-        cwd: root,
-        env: { ...process.env, [RUNNING]: MARK },
-      })
+      const done = runsIn(root, [RUNNER, RUNS, ...serves, ...preloading, ...naming, ...over])
       output += `${done.out}${done.err}`
+      spent += done.cpuSeconds
+      many += batch.length
       if (signal !== null) continue
       if (done.signal !== null) {
         code = done.code
@@ -241,11 +275,16 @@ export function ranOver(
       if (code === 0) code = done.code
     }
   }
+  const said = verdictOf(code, output, expected)
+  const beyond = said === "pass" && spent > CEILING * many
+  const slow = beyond ? slowIn(root, runs, serves, naming, serving) : []
   return {
     code,
     signal,
     output,
     summary: summaryIn(output),
-    verdict: verdictOf(code, output, expected),
+    verdict: slow.length > 0 ? "slow" : said,
+    cpuSeconds: spent,
+    slow,
   }
 }

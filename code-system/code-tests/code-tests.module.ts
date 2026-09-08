@@ -31,7 +31,44 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
+      statement: "A run's answer carries the processor seconds every batch of that run spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run's answer carries the files that spent more than one file may.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run's answer carries nothing more.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One test file may spend five processor seconds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run spending more than the files it named may is judged file by file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That second judging runs each file the first run named on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file over the ceiling is answered by name beside the seconds that file spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run holding a file over the ceiling is slow.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run that failed or fell short or crashed is answered as that rather than as slow.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run judged anything but clean is judged file by file for no ceiling.",
     },
     {
       invariantKind: "departure",

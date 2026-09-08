@@ -1,5 +1,5 @@
 import type { Ran } from "@akasha/code/code-tests"
-import { alreadyRunning, plain, ranOver, testsBesideOf } from "@akasha/code/code-tests"
+import { alreadyRunning, CEILING, plain, ranOver, testsBesideOf } from "@akasha/code/code-tests"
 import { SERVED, servingOf } from "@akasha/code/test-bodies"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
@@ -13,6 +13,8 @@ import {
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const KEPT = 40
+
+const SHOWN = 1
 
 function testedBeside(path: string, shadow: Shadow): boolean {
   for (const beside of testsBesideOf(path)) {
@@ -51,8 +53,19 @@ export function counted(many: number): string {
   return many === 1 ? "1 test file" : `${many} test files`
 }
 
+export function slowlyOf(ran: Ran): string {
+  const held = ran.slow
+    .map((one) => `${one.path} spent ${one.cpuSeconds.toFixed(SHOWN)} processor seconds`)
+    .join("\n")
+  return (
+    `a test file is given ${String(CEILING)} processor seconds, and ${counted(ran.slow.length)} ` +
+    `went past that:\n${held}\n\nThe tests themselves are green. Make the file cheaper or divide it.`
+  )
+}
+
 export function reasonOf(ran: Ran, named: readonly string[]): string {
   const over = `${counted(named.length)} standing beside what this change carries`
+  if (ran.verdict === "slow") return slowlyOf(ran)
   if (ran.verdict === "fail") {
     const held = (ran.summary.passed ?? 0) + (ran.summary.failed ?? 0)
     return `${ran.summary.failed} of ${held} tests failed, over ${over}:\n${tailOf(ran.output)}`
@@ -84,7 +97,8 @@ function refusalsIn(change: Change): readonly Judged[] {
     const found = ranOver(change.root, named, named.length, null, serving)
     if (found.verdict === "pass") return []
     const said = { ...found, output: spelledIn(found.output, serving.root) }
-    return [{ path: first, reason: reasonOf(said, named) }]
+    const at = said.slow[0]?.path ?? first
+    return [{ path: at, reason: reasonOf(said, named) }]
   } finally {
     serving.sweep()
   }

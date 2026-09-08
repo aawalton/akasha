@@ -54,9 +54,26 @@ function withoutGuard<T>(run: () => T): T {
   }
 }
 
-function ranAs(verdict: Ran["verdict"], summary: Ran["summary"], output = ""): Ran {
-  return { code: 1, signal: null, output, summary, verdict }
+function ranAs(
+  verdict: Ran["verdict"],
+  summary: Ran["summary"],
+  output = "",
+  slow: Ran["slow"] = []
+): Ran {
+  return { code: 1, signal: null, output, summary, verdict, cpuSeconds: 0, slow }
 }
+
+test("a run over the ceiling is refused by naming each file and the seconds it spent", () => {
+  const said = reasonOf(
+    ranAs("slow", { files: 1, failed: 0, passed: 9 }, "", [
+      { path: "akasha/one.module.test.ts", cpuSeconds: 21.4 },
+    ]),
+    ["akasha/one.module.test.ts"]
+  )
+  expect(said).toContain("akasha/one.module.test.ts spent 21.4 processor seconds")
+  expect(said).toContain("a test file is given 5 processor seconds")
+  expect(said).toContain("The tests themselves are green")
+})
 
 test("the tests named are the ones standing beside the files the change carries", () => {
   const root = repo({
