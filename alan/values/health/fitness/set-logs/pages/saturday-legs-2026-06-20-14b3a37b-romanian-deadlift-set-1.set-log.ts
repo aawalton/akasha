@@ -11,6 +11,8 @@ export const saturdayLegs2026062014b3a37bRomanianDeadliftSet1 = {
   reps: 12,
   rpe: 8,
   sessionSlug: "saturday-legs-2026-06-20-14b3a37b",
+  setLogDate: "2026-06-20",
+  wakeDaySlug: "wake-day-2026-06-20",
   setNumber: 1,
   weight: 30,
 } as const satisfies SetLog

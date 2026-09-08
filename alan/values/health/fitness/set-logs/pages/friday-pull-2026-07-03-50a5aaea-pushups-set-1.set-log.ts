@@ -11,5 +11,7 @@ export const fridayPull2026070350a5aaeaPushupsSet1 = {
   reps: 10,
   rpe: 8,
   sessionSlug: "friday-pull-2026-07-03-50a5aaea",
+  setLogDate: "2026-07-03",
+  wakeDaySlug: "wake-day-2026-07-03",
   setNumber: 1,
 } as const satisfies SetLog

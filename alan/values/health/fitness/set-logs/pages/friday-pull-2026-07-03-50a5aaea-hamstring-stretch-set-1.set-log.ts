@@ -10,5 +10,7 @@ export const fridayPull2026070350a5aaeaHamstringStretchSet1 = {
   exerciseSlug: "hamstring-stretch",
   note: "~30s/side supine. Both sides felt fine — no notable L/R gap today. Low back kept out of it.",
   sessionSlug: "friday-pull-2026-07-03-50a5aaea",
+  setLogDate: "2026-07-03",
+  wakeDaySlug: "wake-day-2026-07-03",
   setNumber: 1,
 } as const satisfies SetLog

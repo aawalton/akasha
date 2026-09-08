@@ -10,6 +10,8 @@ export const fridayPull2026061918252e37BentOverTwoDumbbellRowSet3 = {
   reps: 10,
   rpe: 6,
   sessionSlug: "friday-pull-2026-06-19-18252e37",
+  setLogDate: "2026-06-19",
+  wakeDaySlug: "wake-day-2026-06-19",
   setNumber: 3,
   weight: 25,
 } as const satisfies SetLog
