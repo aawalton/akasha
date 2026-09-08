@@ -50,6 +50,12 @@ export const theaChecksSystem = {
       workingMemory:
         "Three left: cli-args, repo-root and tree-reading. No page can be written for any, a slug being unique within its page type and each of those three slugs already held by a module page elsewhere. They wait on the same uniquePropertySlug call as the routes.",
     },
+    {
+      statement:
+        "Every checksum annotation a workload carries derives from a secret its page names.",
+      workingMemory:
+        "12 manifest modules write a placeholder checksum annotation and 9 workflow templates sed it back, 7 of the 11 sed sites naming infra/k8s/src, a tree holding no tracked file. 92 secret pages state placements of resource and key; 52 cluster-service pages state namespace, resource kind and resource name. The missing edge is which secrets a workload reads. Given it, the annotation and the hash both derive, the deploy patches the workload rather than sedding a path, and the check goes.",
+    },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
