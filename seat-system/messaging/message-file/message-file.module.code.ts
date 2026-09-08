@@ -1,4 +1,6 @@
-import { existsSync, readdirSync } from "node:fs"
+import { existsSync } from "node:fs"
+import { basename } from "node:path"
+import { everyOfType } from "@akasha/indexes"
 import { AKASHA, akashaRoot } from "@akasha/pages/checkout-roots"
 import { mergeUncommitted, removeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
 import { valueAt } from "@akasha/pages/page-value"
@@ -138,16 +140,9 @@ function msOf(said: unknown): number | null {
 
 function pageMessages(): readonly Message[] {
   const root = akashaRoot()
-  let names: readonly string[]
-  try {
-    names = readdirSync(`${root}/${PAGES_AT}`)
-  } catch {
-    return []
-  }
   const held: Message[] = []
-  for (const name of names) {
-    if (!name.endsWith(PAGE_EXT)) continue
-    const relPath = `${PAGES_AT}/${name}`
+  for (const one of everyOfType(root, PAGE_TYPE)) {
+    const relPath = one.path
     let value: ReturnType<typeof valueAt>
     try {
       value = valueAt(relPath, root)
@@ -157,7 +152,7 @@ function pageMessages(): readonly Message[] {
     if (value === null || value === undefined) continue
     const stated = value["warrant"]
     held.push({
-      id: name.slice(0, -PAGE_EXT.length),
+      id: basename(relPath).slice(0, -PAGE_EXT.length),
       to: typeof value["to"] === "string" ? value["to"] : "",
       from: typeof value["from"] === "string" ? value["from"] : "",
       warrant: stated === "blocked" ? "blocked" : "announce",

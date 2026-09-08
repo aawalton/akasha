@@ -33,7 +33,11 @@ export const messageFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A message page composed outside the one folder read here is refused.",
+      statement: "The messages there are what the index answers for the message page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message page composed outside the folder a message is written to is refused.",
     },
     {
       invariantKind: "departure",
