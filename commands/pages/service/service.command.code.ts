@@ -8,9 +8,9 @@ import {
 } from "@akasha/service-system/service-installing"
 import { everyService, readFor } from "@akasha/service-system/service-reading"
 import { installedUnitName } from "@akasha/service-system/unit-writing"
-import { namesDrawn } from "../../../commands/modules/name-drawing/name-drawing.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { refused } from "../../calling/calling.module.code.ts"
+import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
+import { refused } from "../../../command-system/calling/calling.module.code.ts"
+import { namesDrawn } from "../../modules/name-drawing/name-drawing.module.code.ts"
 
 const INPUT = 1
 const DATA = 2
