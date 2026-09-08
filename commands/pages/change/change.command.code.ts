@@ -5,8 +5,8 @@ import { agentPathOf } from "@akasha/context/warranting"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, type Value } from "@akasha/pages/page-value"
 import type {
-  Edit,
   Answer as Said,
+  Stated,
 } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
 import {
   addedTo,
@@ -131,7 +131,7 @@ function textIn(root: string): (path: string) => string | null {
   }
 }
 
-function worldFor(root: string, had: readonly Edit[], before: Said): World {
+function worldFor(root: string, had: readonly Stated[], before: Said): World {
   const base = ledgerAt(root, textIn(root), runAt)
   return had.length === 0 ? base : addedTo(base, before)
 }
@@ -226,22 +226,6 @@ export function applyIn(given: Arguments): Asked | string {
   const message = said.trim()
   if (message === "") return NO_MESSAGE
   return { message, drafts, given: rest }
-}
-
-export function editsFor(rows: readonly Edit[]): readonly FileEdit[] {
-  const held: FileEdit[] = []
-  for (const one of rows) {
-    const owed = one.readersOweReading
-    if (one.from !== undefined && one.from !== one.path) {
-      held.push({ path: one.from, body: null, readersOweReading: owed })
-    }
-    held.push({
-      path: one.path,
-      body: one.body === null ? null : BYTES.encode(one.body),
-      readersOweReading: owed,
-    })
-  }
-  return held
 }
 
 export function owedBy(value: Value | null): boolean {
