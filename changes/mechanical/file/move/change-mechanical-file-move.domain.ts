@@ -10,6 +10,7 @@ export const changeMechanicalFileMove = {
     "change-mechanical/move-file-code",
     "change-mechanical-file/move-file-page",
     "change-mechanical/move-file-of-any-kind",
+    "change-mechanical/move-file-page-property",
   ],
   invariants: [
     {
