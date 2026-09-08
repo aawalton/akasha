@@ -37,8 +37,9 @@ export const removePage = {
       statement: "Nothing here works out a body of its own.",
     },
     {
-      invariantKind: "gap",
-      statement: "A page property goes through the partial for an ordinary page.",
+      invariantKind: "departure",
+      statement:
+        "A page property is taken away by the partial change taking an ordinary page away.",
     },
   ],
 } as const satisfies ChangeAgent
