@@ -77,8 +77,24 @@ export const running = {
       statement: "Nothing a watched process said is carried back.",
     },
     {
-      invariantKind: "absence",
-      statement: "No shell comes between a caller and the process the caller starts.",
+      invariantKind: "departure",
+      statement: "A caller may give a process a ceiling in processor seconds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The kernel ends a process reaching its ceiling rather than a reader noticing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process ended at its ceiling is answered as having died on a signal.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ceiling is whole seconds, and a fraction is taken up to the next second.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A process given no ceiling runs to its own end.",
     },
     {
       invariantKind: "absence",

@@ -70,6 +70,16 @@ test("a process is answered with the processor seconds that process and its own 
   expect(idle).toBeLessThan(busy)
 })
 
+test("a process given a ceiling is ended by the kernel at that many processor seconds", () => {
+  const done = ran(["bun", "-e", "for (;;) {}"], { cpuCeiling: 1 })
+  expect(done.signal).not.toBeNull()
+  expect(done.cpuSeconds).toBeLessThan(3)
+})
+
+test("a process given no ceiling runs to its own end", () => {
+  expect(ran(["true"]).signal).toBeNull()
+})
+
 test("the seconds answered carry what a process's own children spent", () => {
   const inner = "Bun.spawnSync(['bun', '-e', 'let x = 0; for (let i = 0; i < 6e8; i++) x += i'])"
   expect(ran(["bun", "-e", inner]).cpuSeconds).toBeGreaterThan(0.1)

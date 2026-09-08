@@ -2,6 +2,13 @@ export const NO_CODE = -1
 
 const MICROS = 1_000_000
 
+const LIMIT = "prlimit"
+
+function limited(argv: readonly string[], ceiling: number | undefined): readonly string[] {
+  if (ceiling === undefined) return argv
+  return [LIMIT, `--cpu=${String(Math.ceil(ceiling))}`, "--", ...argv]
+}
+
 export type Said = {
   readonly code: number
   readonly signal: string | null
@@ -23,10 +30,11 @@ export type Asked = {
   readonly env?: Record<string, string | undefined>
   readonly stdin?: Uint8Array
   readonly timeout?: number
+  readonly cpuCeiling?: number
 }
 
 export function bytes(argv: readonly string[], asked: Asked = {}): Held {
-  const done = Bun.spawnSync([...argv], {
+  const done = Bun.spawnSync([...limited(argv, asked.cpuCeiling)], {
     stdout: "pipe",
     stderr: "pipe",
     ...(asked.cwd === undefined ? {} : { cwd: asked.cwd }),
