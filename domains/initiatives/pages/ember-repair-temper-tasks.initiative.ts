@@ -10,7 +10,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "Every key the watcher names on a page is one that page type declares.",
       workingMemory:
-        "Met: temper-task narrowed on `account`; `userId` dropped from four temper page types; `display-order`; `name` on temper-sale; `capturedAt` across the watcher and the inventory UI; `target-build-id` raised to temper-character-thing; `due-time` and `pending-sync` declared on temper-task; `handle`, `platform` and `server` declared on temper-player. Open: ten browser reads filter on `userId`, which no temper page type declares, so the store refuses each.",
+        'The reads are done: the ten that filtered on `userId` name `accountPage`, and no `key: "userId"` is left in temper. The writes are not: every create sends `userId`, `buildName` and `buildMetadata`, which neither build page type declares, and about twenty browser readers take `build.buildMetadata` or `build.userId`, which read empty. Write title, description, roles, targetCount and accountPage instead. No build page carries an accountPage yet.',
     },
     {
       statement: "Reading one page costs bytes in proportion to that page.",
