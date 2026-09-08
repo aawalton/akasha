@@ -37,8 +37,6 @@ export function dirsOf(files: Iterable<string>): ReadonlySet<string> {
   return dirs
 }
 
-// What the folders hold at this moment that `holds` admits. Taken again at every weighing, so a
-// file that appears is weighed from then on and a file that goes drops out of the weighing.
 export function filesWithin(
   folders: Iterable<string>,
   holds: (at: string) => boolean
@@ -97,8 +95,6 @@ function follow(
   }
 }
 
-// Follow a set named file by file. A file appearing beside one of them is no part of the set and
-// is not answered, so this suits a set that is known whole and does not grow.
 export function followFiles(
   files: ReadonlySet<string>,
   moved: (what: readonly string[]) => undefined,
@@ -108,8 +104,6 @@ export function followFiles(
   return follow(dirsOf(files), () => digestOf(files), moved, settleMs, from)
 }
 
-// Follow whole folders. What is weighed is worked out again at every settle, so this suits a set
-// that grows and shrinks while the watch runs, as a folder of seats does.
 export function followWithin(
   folders: ReadonlySet<string>,
   holds: (at: string) => boolean,
@@ -122,15 +116,14 @@ export function followWithin(
 
 const TICK = "tick"
 
-// A weighing that never matches the one before it, so every settled event is answered.
 function ticking(): () => Digest {
   let beat = 0
-  return () => new Map([[TICK, String((beat += 1))]])
+  return () => {
+    beat += 1
+    return new Map([[TICK, String(beat)]])
+  }
 }
 
-// Follow whole folders and answer on any event in them, reading nothing they hold. This suits a
-// folder written far more often, and holding far more, than reading it is worth: the event is the
-// whole answer, and what changed is left to the caller to work out at its own pace.
 export function followFolders(
   folders: ReadonlySet<string>,
   moved: (what: readonly string[]) => undefined,
