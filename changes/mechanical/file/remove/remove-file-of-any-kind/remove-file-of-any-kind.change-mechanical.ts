@@ -27,12 +27,12 @@ export const removeFileOfAnyKind = {
       statement: "Every other path goes by the change taking the file alone away.",
     },
     {
-      invariantKind: "departure",
-      statement: "The page types a name is read against are the ones the world files.",
+      invariantKind: "absence",
+      statement: "Nothing here works out a body of its own.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here works out a body of its own.",
+      statement: "Nothing here reads a path for its kind.",
     },
     {
       invariantKind: "departure",
