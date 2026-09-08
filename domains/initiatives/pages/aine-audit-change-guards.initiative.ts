@@ -33,7 +33,7 @@ export const aineAuditChangeGuards = {
       statement:
         "Code outside the changes writes the repository through a change rather than by itself.\n",
       workingMemory:
-        "`refactor retype` is gone, and the work it did is the agent change `change-page-page-type`, which now reaches a mechanical rung rather than spelling passages. What still writes repo source with `writeFile` and names no change address is `temper-eso-generate-typings`, `-chatter-names` and `-hud-scene-catalog`, each stating `changeKindSlug: change-mechanical`. No mechanical change restates a whole body, so that primitive is owed before the check could land clean.\n",
+        "`repository-is-written-by-a-change` is landed and binds at patch. It judges every `.code.ts` outside the change package and the command system, both asked of the index, and refuses a destination built from the checkout root and named `.ts`. Eight are left, over `temper-eso-generate-typings`, `-chatter-names`, `-hud-scene-catalog` and `temper-addon-bundle-publish`. A destination worked out at run time is seen by nothing.\n",
     },
   ],
   constraints: [
