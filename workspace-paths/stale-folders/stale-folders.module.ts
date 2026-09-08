@@ -5,7 +5,7 @@ export const staleFolders = {
   pageTypeSlug: "module",
   slug: "stale-folders",
   definition:
-    "the folders of a repository that no tracked or untracked file accounts for, and what they cost on disk",
+    "a repository folder no tracked or untracked file accounts for, and what it costs on disk",
   code: "ts",
   test: "ts",
   invariants: [
