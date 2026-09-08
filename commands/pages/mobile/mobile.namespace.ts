@@ -1,4 +1,4 @@
-import type { Namespace } from "../namespace.page-type.ts"
+import type { Namespace } from "../../../command-system/namespaces/namespace.page-type.ts"
 
 export const mobile = {
   id: "01a07bc2-afbe-7a85-ba01-366f93a9c7a1",
