@@ -1,5 +1,6 @@
 import { listedById } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
+import { textIn } from "@akasha/pages/page-value-reading"
 import { canonicalize } from "@akasha/pages/repo-path"
 import { asking, type Row } from "@akasha/pages-service/asking"
 import type {
@@ -39,11 +40,6 @@ export interface WorkflowPage {
 
 export interface DeclarationContext {
   readonly codeRoot: string
-}
-
-function textIn(row: Row, key: string): string | null {
-  const held = row[key]
-  return typeof held === "string" && held !== "" ? held : null
 }
 
 function kindOf(row: Row, at: string): WorkflowKind {
@@ -123,7 +119,7 @@ function attachDiscovery(workflow: Workflow, page: WorkflowPage): DiscoveredWork
 function statedBy(held: unknown, page: WorkflowPage, context: DeclarationContext): unknown {
   if (typeof held !== "function") return held
   try {
-    return (held as (context: DeclarationContext) => unknown)(context)
+    return (held as (given: DeclarationContext) => unknown)(context)
   } catch (cause) {
     throw new Error(
       `\`${page.sourcePath}\` states \`${page.slug}\` as a function of the tree it runs over, and ` +
