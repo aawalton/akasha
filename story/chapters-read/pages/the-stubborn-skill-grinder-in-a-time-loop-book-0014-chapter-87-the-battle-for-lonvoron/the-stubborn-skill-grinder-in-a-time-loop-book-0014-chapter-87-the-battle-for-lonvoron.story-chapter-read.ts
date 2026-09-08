@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0014Chapter87TheBattleForLonv
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0014-chapter-87-the-battle-for-lonvoron",
   title: "Chapter 87 - The Battle for Lonvoron",
-  partOfSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
+  partOfCollectionSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
   position: 14,
   ownLength: 24879,
   unitSlug: "words",

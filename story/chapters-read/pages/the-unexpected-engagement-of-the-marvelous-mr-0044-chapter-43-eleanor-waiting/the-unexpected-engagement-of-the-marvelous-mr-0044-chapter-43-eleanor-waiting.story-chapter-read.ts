@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0044Chapter43EleanorWaiting 
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0044-chapter-43-eleanor-waiting",
   title: "Chapter 43 - Eleanor Waiting",
-  partOfSlugs: ["the-unexpected-engagement-of-the-marvelous-mr"],
+  partOfCollectionSlugs: ["the-unexpected-engagement-of-the-marvelous-mr"],
   position: 44,
   ownLength: 1220,
   unitSlug: "words",

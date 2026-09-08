@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0050NewsMrPennNowHasAnAudiob
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0050-news-mr-penn-now-has-an-audiobook",
   title: "News! - Mr. Penn now has an audiobook!",
-  partOfSlugs: ["the-unexpected-engagement-of-the-marvelous-mr"],
+  partOfCollectionSlugs: ["the-unexpected-engagement-of-the-marvelous-mr"],
   position: 50,
   ownLength: 151,
   unitSlug: "words",

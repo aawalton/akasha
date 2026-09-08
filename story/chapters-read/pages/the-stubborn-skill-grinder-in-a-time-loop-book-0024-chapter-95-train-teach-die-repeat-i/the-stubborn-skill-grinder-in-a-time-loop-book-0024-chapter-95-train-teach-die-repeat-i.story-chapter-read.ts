@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0024Chapter95TrainTeachDieRep
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0024-chapter-95-train-teach-die-repeat-i",
   title: "Chapter 95 - Train. Teach. Die. Repeat. I",
-  partOfSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
+  partOfCollectionSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
   position: 24,
   ownLength: 18096,
   unitSlug: "words",

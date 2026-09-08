@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0014Chapter13AConversationIn
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0014-chapter-13-a-conversation-in-a-cab",
   title: "Chapter 13 - A Conversation in a Cab",
-  partOfSlugs: ["the-unexpected-engagement-of-the-marvelous-mr"],
+  partOfCollectionSlugs: ["the-unexpected-engagement-of-the-marvelous-mr"],
   position: 14,
   ownLength: 1495,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0041Chapter110TrainProtectSys
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0041-chapter-110-train-protect-system-space-die",
   title: "Chapter 110 - Train. Protect System Space. Die. Repeat. I",
-  partOfSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
+  partOfCollectionSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
   position: 41,
   ownLength: 7835,
   unitSlug: "words",

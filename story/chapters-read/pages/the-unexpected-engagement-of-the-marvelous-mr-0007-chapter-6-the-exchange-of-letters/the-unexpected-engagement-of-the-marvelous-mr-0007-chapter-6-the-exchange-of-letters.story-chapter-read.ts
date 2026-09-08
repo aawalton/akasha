@@ -5,7 +5,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0007Chapter6TheExchangeOfLet
   pageTypeSlug: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0007-chapter-6-the-exchange-of-letters",
   title: "Chapter 6 - The Exchange of Letters",
-  partOfSlugs: ["the-unexpected-engagement-of-the-marvelous-mr"],
+  partOfCollectionSlugs: ["the-unexpected-engagement-of-the-marvelous-mr"],
   position: 7,
   ownLength: 2156,
   unitSlug: "words",

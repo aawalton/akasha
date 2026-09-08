@@ -5,7 +5,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0018Chapter90TheUnintendedCon
   pageTypeSlug: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0018-chapter-90-the-unintended-consequences-of-true",
   title: "Chapter 90 - The Unintended Consequences of True Power",
-  partOfSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
+  partOfCollectionSlugs: ["the-stubborn-skill-grinder-in-a-time-loop-book"],
   position: 18,
   ownLength: 8696,
   unitSlug: "words",
