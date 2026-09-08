@@ -35,7 +35,7 @@ export const attribute = {
   ],
   properties: [
     { pagePropertySlug: "text-property/point-unit", required: true, many: false },
-    { pagePropertySlug: "number-property/lifetime-points", required: true, many: false },
+    { pagePropertySlug: "number-property/lifetime-points", required: false, many: false },
     { pagePropertySlug: "number-property/points-today", required: false, many: false },
     { pagePropertySlug: "number-property/points-total", required: false, many: false },
     { pagePropertySlug: "computed-property/attribute-level", required: false, many: false },
