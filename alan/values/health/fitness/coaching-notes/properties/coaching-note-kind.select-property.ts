@@ -12,6 +12,7 @@ export const coachingNoteKind = {
     "equipment-ceiling",
     "injury-watch",
     "ef-accommodation",
+    "bout-observation",
   ],
 } as const satisfies SelectProperty
 
