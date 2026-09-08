@@ -2,7 +2,8 @@ import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { idOf, indexedRepo, NAMER_CODE, NAMER_PAGE, pageOf } from "@akasha/indexes/indexing/testing"
 import { removePage } from "../../../changes/agent/file/remove-page/remove-page.change-checked.code.ts"
-import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
+import { pathsOf } from "../../../changes/modules/change-answer/change-answer.module.code.ts"
+import type { Stated } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
 import {
   editsIn,
@@ -100,21 +101,25 @@ export async function loading(world: World, at: string): Promise<Loaded | string
 
 export function pathsIn(root: string): readonly string[] {
   const said = editsIn(root, PAGE)
-  return "why" in said ? [] : said.rows.map((one) => one.path)
+  return "why" in said ? [] : said.rows.flatMap(pathsOf)
 }
 
-export function handing(root: string, under: string, rows: readonly Edit[]): undefined {
+export function handing(root: string, under: string, rows: readonly Stated[]): undefined {
   const ref = handedRef(PAGE, under)
   if (ref !== null) putUnder(root, ref, `${rows.map((one) => JSON.stringify(one)).join("\n")}\n`)
 }
 
-export const HANDED_ONE: Edit = { path: "akasha/three/handed.md", was: null, body: "handed" }
+export const HANDED_AT = "akasha/three/handed.md"
+
+export const HANDED_ONE: Stated = { kind: "add", path: HANDED_AT, content: "handed" }
 
 export const MOVED_FROM = "akasha/three/from.md"
 
-export const MOVED: Edit = { path: "akasha/three/to.md", was: null, body: "to", from: MOVED_FROM }
+export const MOVED_TO = "akasha/three/to.md"
 
-export const EDIT: Edit = { path: "a/b.ts", was: null, body: "held" }
+export const MOVED: Stated = { kind: "move", pathFrom: MOVED_FROM, pathTo: MOVED_TO }
+
+export const EDIT: Stated = { kind: "add", path: "a/b.ts", content: "held" }
 
 export const HELD = { edits: [EDIT], refused: null }
 
@@ -125,7 +130,7 @@ export const NOT_TEXT_SAID = `\`${NOT_TEXT_AT}\` is not text, and a change reads
 export function readingNotText(root: string): Over {
   writeFileSync(join(root, NOT_TEXT_AT), new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a]))
   return async (world) => ({
-    edits: [{ path: NOT_TEXT_AT, was: null, body: world.textOf(NOT_TEXT_AT) }],
+    edits: [{ kind: "add", path: NOT_TEXT_AT, content: world.textOf(NOT_TEXT_AT) ?? "" }],
     refused: null,
   })
 }
@@ -171,21 +176,6 @@ export const HANDED_SAID: readonly string[] = [
 ]
 
 export const NONE_HANDED = "no subagent has handed edits to this agent"
-
-export const WRITES: Edit = { path: "a/b.ts", was: null, body: "held" }
-
-export const WRITTEN = [{ path: "a/b.ts", body: new TextEncoder().encode("held") }]
-
-export const REMOVES: Edit = { path: "a/b.ts", was: "held", body: null }
-
-export const REMOVED = [{ path: "a/b.ts", body: null }]
-
-export const MOVES: Edit = { path: "a/two.ts", was: "held", body: "held", from: "a/one.ts" }
-
-export const MADE_MOVE = [
-  { path: "a/one.ts", body: null },
-  { path: "a/two.ts", body: new TextEncoder().encode("held") },
-]
 
 export function owedIn(root: string): readonly (boolean | undefined)[] {
   const said = editsIn(root, PAGE)

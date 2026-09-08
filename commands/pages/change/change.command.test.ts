@@ -4,7 +4,7 @@ import {
   appendEdits,
   editsIn,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import { appending, changing, editsFor, owedBy, owingBy, stamped } from "./change.command.code.ts"
+import { appending, changing, owedBy, owingBy, stamped } from "./change.command.code.ts"
 import {
   APPLIED,
   acting,
@@ -17,25 +17,23 @@ import {
   draftingAndApplying,
   EDIT,
   givenIn,
+  HANDED_AT,
   HANDED_ONE,
   HANDED_SAID,
   HELD,
   handing,
   keptIn,
   loading,
-  MADE_MOVE,
   MISSING,
   MOVED,
   MOVED_FROM,
-  MOVES,
+  MOVED_TO,
   NONE_HANDED,
   NOT_TEXT_SAID,
   owedIn,
   PAGE,
   pathsIn,
   piping,
-  REMOVED,
-  REMOVES,
   readingNotText,
   refusedApply,
   removing,
@@ -44,8 +42,6 @@ import {
   SPARE_PAGE,
   saysApply,
   taking,
-  WRITES,
-  WRITTEN,
 } from "./change.command.test-fixtures.ts"
 
 afterAll(scratch.sweep)
@@ -241,7 +237,7 @@ test("an edit a move left behind is taken away by the path that move came from",
   const said = await acting(root, ["drop"], piping(taking(MOVED_FROM)))
 
   expect(said.refusals).toEqual([])
-  expect(said.report[0]).toBe(`moves ${MOVED_FROM} to ${MOVED.path}`)
+  expect(said.report[0]).toBe(`moves ${MOVED_FROM} to ${MOVED_TO}`)
   expect(pathsIn(root)).toEqual([])
 })
 
@@ -257,7 +253,10 @@ test("a call over no handed edits says no subagent has handed edits over", async
 test("handed names each subagent that handed edits over and how many that subagent handed", async () => {
   const root = repo()
   handing(root, "one", [HANDED_ONE])
-  handing(root, "two", [HANDED_ONE, { path: "akasha/three/other.md", was: null, body: "other" }])
+  handing(root, "two", [
+    HANDED_ONE,
+    { kind: "add", path: "akasha/three/other.md", content: "other" },
+  ])
 
   const said = await acting(root, ["handed"])
 
@@ -272,17 +271,17 @@ test("a take folds one subagent's handed edits in and takes the handed edits awa
 
   expect(said.refusals).toEqual([])
   expect(said.report).toEqual([
-    `adds ${HANDED_ONE.path}`,
+    `adds ${HANDED_AT}`,
     "these edits are this agent's own now, and `akasha apply` lands them",
   ])
-  expect(pathsIn(root)).toEqual([HANDED_ONE.path])
+  expect(pathsIn(root)).toEqual([HANDED_AT])
   expect((await acting(root, ["handed"])).report).toEqual([NONE_HANDED])
 })
 
 test("a take that would not fold refuses and leaves both sets as those sets were", async () => {
   const root = repo()
-  appendEdits(root, PAGE, [{ path: HANDED_ONE.path, was: null, body: "own" }])
-  handing(root, "one", [{ path: HANDED_ONE.path, was: "another", body: "handed" }])
+  appendEdits(root, PAGE, [{ kind: "add", path: HANDED_AT, content: "own" }])
+  handing(root, "one", [{ kind: "add", path: HANDED_AT, content: "handed" }])
 
   const said = await acting(root, ["take", "one"])
 
@@ -290,7 +289,7 @@ test("a take that would not fold refuses and leaves both sets as those sets were
   expect(said.refusals[1]).toBe(
     "the handed edits are kept as they were, and this agent's own are unchanged"
   )
-  expect(pathsIn(root)).toEqual([HANDED_ONE.path])
+  expect(pathsIn(root)).toEqual([HANDED_AT])
   expect((await acting(root, ["handed"])).report[0]).toBe("one handed 1 edit(s) over")
 })
 
@@ -301,7 +300,7 @@ test("a forget takes one subagent's handed edits away and names each edit that w
   const said = await acting(root, ["forget", "one"])
 
   expect(said.report).toEqual([
-    `adds ${HANDED_ONE.path}`,
+    `adds ${HANDED_AT}`,
     "these edits are gone, and no apply lands them",
   ])
   expect(pathsIn(root)).toEqual([])
@@ -326,18 +325,6 @@ test("a change answering says how many subagents handed edits over", async () =>
   expect(said.report).toContain(
     "1 subagent(s) handed edits over, which `akasha change handed` names"
   )
-})
-
-test("an edit writing a body becomes a change carrying that body", () => {
-  expect(editsFor([WRITES])).toEqual(WRITTEN)
-})
-
-test("an edit stating no body becomes a change taking that path away", () => {
-  expect(editsFor([REMOVES])).toEqual(REMOVED)
-})
-
-test("a move becomes the path it came from taken away beside the path it lands at", () => {
-  expect(editsFor([MOVES])).toEqual(MADE_MOVE)
 })
 
 test("a change page saying its readers owe no reading is read as saying so", () => {
@@ -511,5 +498,5 @@ test("a change whose writer owes no reading appends without asking the record", 
   const said = await appending(root, PAGE, null, false, async () => HELD)
 
   expect(said.code).toBe(0)
-  expect(pathsIn(root)).toEqual([EDIT.path])
+  expect(pathsIn(root)).toEqual(["a/b.ts"])
 })
