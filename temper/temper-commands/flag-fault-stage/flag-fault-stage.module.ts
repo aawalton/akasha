@@ -22,7 +22,7 @@ export const flagFaultStage = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag the call does not carry answers nothing.",
+      statement: "A flag the call does not have answers nothing.",
     },
     {
       invariantKind: "departure",

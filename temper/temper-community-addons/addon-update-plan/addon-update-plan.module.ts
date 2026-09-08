@@ -34,7 +34,7 @@ export const addonUpdatePlan = {
     },
     {
       invariantKind: "departure",
-      statement: "A download is fetched once however many folders that download carries.",
+      statement: "A download is fetched once however many folders that download has.",
     },
   ],
 } as const satisfies Module

@@ -14,7 +14,7 @@ export const companionFactory = {
     },
     {
       invariantKind: "departure",
-      statement: "An empty companion carries armor items of no-weight rather than empty slots.",
+      statement: "An empty companion has armor items of no-weight rather than empty slots.",
     },
     {
       invariantKind: "constraint",

@@ -21,7 +21,7 @@ export const inventorySettingsAccess = {
     },
     {
       invariantKind: "departure",
-      statement: "A player is found by the account the title carries.",
+      statement: "A player is found by the account the title has.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const inventorySettingsAccess = {
     {
       invariantKind: "departure",
       statement:
-        "A write carrying an item rule or a buy rule is refused naming how many rules the write carries.",
+        "A write with an item rule or a buy rule is refused naming how many rules the write has.",
     },
     {
       invariantKind: "departure",

@@ -14,7 +14,7 @@ export const companionEffectSources = {
     },
     {
       invariantKind: "constraint",
-      statement: "Every source carries a categoryId drawn from the shared SourceCategoryId union.",
+      statement: "Every source has a categoryId drawn from the shared SourceCategoryId union.",
     },
     {
       invariantKind: "constraint",

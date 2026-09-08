@@ -26,7 +26,7 @@ export const argumentWordReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag the call does not carry answers with nothing.",
+      statement: "A flag the call does not have answers with nothing.",
     },
     {
       invariantKind: "departure",

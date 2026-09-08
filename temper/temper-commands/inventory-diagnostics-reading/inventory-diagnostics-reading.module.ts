@@ -16,7 +16,7 @@ export const inventoryDiagnosticsReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The first account carrying the diagnostic answers and the rest go unread.",
+      statement: "The first account with the diagnostic answers and the rest go unread.",
     },
     {
       invariantKind: "departure",

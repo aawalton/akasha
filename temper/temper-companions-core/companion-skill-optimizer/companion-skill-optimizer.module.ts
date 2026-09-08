@@ -17,7 +17,7 @@ export const companionSkillOptimizer = {
     },
     {
       invariantKind: "constraint",
-      statement: "A combination carrying more than one armor skill is rejected.",
+      statement: "A combination with more than one armor skill is rejected.",
     },
     {
       invariantKind: "gap",

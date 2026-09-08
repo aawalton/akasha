@@ -9,7 +9,7 @@ export const inventoryRuleCalling = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The category rules and the item rules and the buy rules carry one act set.",
+      statement: "The category rules and the item rules and the buy rules have one act set.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +76,7 @@ export const inventoryRuleCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A fault carrying a code of its own is answered under that code.",
+      statement: "A fault with a code of its own is answered under that code.",
     },
     {
       invariantKind: "stopgap",

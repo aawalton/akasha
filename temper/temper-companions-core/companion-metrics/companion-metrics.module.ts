@@ -17,11 +17,11 @@ export const companionMetrics = {
     },
     {
       invariantKind: "constraint",
-      statement: "A metric carrying a formula is worked out after every metric the formula reads.",
+      statement: "A metric with a formula is worked out after every metric the formula reads.",
     },
     {
       invariantKind: "absence",
-      statement: "No companion build hash carries a metric's place in this table.",
+      statement: "No companion build hash has a metric's place in this table.",
     },
   ],
 } as const satisfies Module

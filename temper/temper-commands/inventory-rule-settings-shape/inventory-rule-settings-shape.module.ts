@@ -18,7 +18,7 @@ export const inventoryRuleSettingsShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule is required to carry an id and an action and nothing more.",
+      statement: "A rule is required to have an id and an action and nothing more.",
     },
     {
       invariantKind: "departure",

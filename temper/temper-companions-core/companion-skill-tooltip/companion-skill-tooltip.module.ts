@@ -17,7 +17,7 @@ export const companionSkillTooltip = {
     },
     {
       invariantKind: "gap",
-      statement: "The primary targeting is the first effect carrying a target.",
+      statement: "The primary targeting is the first effect with a target.",
     },
   ],
 } as const satisfies Module

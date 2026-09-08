@@ -9,7 +9,7 @@ export const companionsSkillMap = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "An ability's index here is the index a saved build hash carries.",
+      statement: "An ability's index here is the index a saved build hash has.",
     },
   ],
 } as const satisfies Module

@@ -9,7 +9,7 @@ export const companionsSkillsPanel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A skill is drawn as a card carrying its icon and its rank.",
+      statement: "A skill is drawn as a card with its icon and its rank.",
     },
   ],
 } as const satisfies Module

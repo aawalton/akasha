@@ -25,7 +25,7 @@ export const inventorySnapshotReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading nothing carries answers as nothing rather than refusing.",
+      statement: "A reading nothing has answers as nothing rather than refusing.",
     },
     {
       invariantKind: "departure",

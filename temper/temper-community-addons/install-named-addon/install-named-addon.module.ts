@@ -37,7 +37,7 @@ export const installNamedAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "An archive carrying no folder the caller expected is refused.",
+      statement: "An archive with no folder the caller expected is refused.",
     },
   ],
 } as const satisfies Module

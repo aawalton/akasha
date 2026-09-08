@@ -13,7 +13,7 @@ export const companionSkills = {
     },
     {
       invariantKind: "constraint",
-      statement: "A skill's place in this table is the index a build hash carries.",
+      statement: "A skill's place in this table is the index a build hash has.",
     },
     {
       invariantKind: "gap",

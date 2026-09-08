@@ -13,7 +13,7 @@ export const companionSoothingHealing = {
     },
     {
       invariantKind: "constraint",
-      statement: "A two-handed weapon carries a soothing value of its own.",
+      statement: "A two-handed weapon has a soothing value of its own.",
     },
   ],
 } as const satisfies Module

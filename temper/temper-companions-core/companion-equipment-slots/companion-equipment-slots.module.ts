@@ -9,7 +9,7 @@ export const companionEquipmentSlots = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The next-empty-trait helper throws when no slot carries the no-trait value.",
+      statement: "The next-empty-trait helper throws when no slot has the no-trait value.",
     },
     {
       invariantKind: "constraint",
