@@ -8,7 +8,7 @@ import {
   wakeDayWindow,
 } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
 
-export const READOUT_PAGE = "readout-system/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
+export const READOUT_PAGE = "readouts/readouts/pages/upkeep-plants/upkeep-plants.readout.ts"
 
 export function askingIn(root: string): Asking {
   return async (query) => {

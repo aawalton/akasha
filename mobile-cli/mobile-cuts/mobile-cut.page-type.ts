@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { AppSlug } from "../../readout-system/readout-widgets/properties/app-slug.relation-property.ts"
+import type { AppSlug } from "../../readouts/readout-widgets/properties/app-slug.relation-property.ts"
 import type { BuildInputTreeHash } from "./properties/build-input-tree-hash.text-property.ts"
 import type { BuildNumber } from "./properties/build-number.number-property.ts"
 import type { CutAt } from "./properties/cut-at.instant-property.ts"

@@ -19,7 +19,7 @@ export const alanHarness = {
     "domain/alan-harness-stoplights",
     "domain/alan-readouts",
     "domain/attributes",
-    "workspace-package/readout-system",
+    "workspace-package/readouts",
     "workspace-package/voice-core",
     "workspace-package/idle-system",
     "workspace-package/sms-access",

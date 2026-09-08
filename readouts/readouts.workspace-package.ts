@@ -1,9 +1,9 @@
 import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
-export const readoutSystem = {
+export const readouts = {
   id: "01a05446-e75c-73a6-9442-0919b16723c0",
   pageTypeSlug: "workspace-package",
-  slug: "readout-system",
+  slug: "readouts",
   definition: "how a reading reaches the person it is for",
   manifest: "json",
   partSlugs: [

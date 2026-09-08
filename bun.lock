@@ -1354,7 +1354,7 @@
         "react": "^18 || ^19",
       },
     },
-    "readout-system": {
+    "readouts": {
       "name": "@akasha/readout-system",
       "dependencies": {
         "@akasha/domains": "workspace:*",
@@ -3181,7 +3181,7 @@
 
     "@akasha/reading": ["@akasha/reading@workspace:alan/library/reading"],
 
-    "@akasha/readout-system": ["@akasha/readout-system@workspace:readout-system"],
+    "@akasha/readout-system": ["@akasha/readout-system@workspace:readouts"],
 
     "@akasha/recurrence": ["@akasha/recurrence@workspace:recurrence"],
 
