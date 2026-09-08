@@ -7,7 +7,7 @@ export const clientReachesPagesThroughItsHooks = {
   definition: "the check refusing a browser file reaching the pages table outside the pages hooks",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
