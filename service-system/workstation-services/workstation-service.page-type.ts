@@ -59,7 +59,6 @@ export const workstationService = {
     "workstation-service/monarch-poll",
     "workstation-service/monarch-sync",
     "workstation-service/node-exporter",
-    "workstation-service/orphaned-resources-sweep",
     "workstation-service/recipient-resolver",
     "workstation-service/repos-empty-dir-purge",
     "workstation-service/royal-road-sync",
