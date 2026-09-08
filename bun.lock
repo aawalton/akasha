@@ -173,6 +173,9 @@
         "@akasha/digit-padding": "workspace:*",
       },
     },
+    "alan/harness/email-inbound": {
+      "name": "@akasha/email-inbound",
+    },
     "alan/harness/errors-client": {
       "name": "@akasha/errors-client",
       "dependencies": {
@@ -795,9 +798,6 @@
     "editor-extension/vscode-typings": {
       "name": "@types/vscode",
       "version": "1.110.0",
-    },
-    "email-inbound": {
-      "name": "@akasha/email-inbound",
     },
     "email-watch": {
       "name": "@akasha/email-watch",
@@ -3020,7 +3020,7 @@
 
     "@akasha/editor-extension": ["@akasha/editor-extension@workspace:editor-extension"],
 
-    "@akasha/email-inbound": ["@akasha/email-inbound@workspace:email-inbound"],
+    "@akasha/email-inbound": ["@akasha/email-inbound@workspace:alan/harness/email-inbound"],
 
     "@akasha/email-watch": ["@akasha/email-watch@workspace:email-watch"],
 
