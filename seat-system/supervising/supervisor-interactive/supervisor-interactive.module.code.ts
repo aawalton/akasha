@@ -184,8 +184,13 @@ export async function runInteractive(
     if (isShuttingDown() || !wiring.actionSubsystem.wasSupervisorKill()) {
       if (isShuttingDown()) {
         console.log(`${LOG} Supervisor shutting down — skipping restart check`)
-      } else {
+      } else if (exitCode === 0) {
         console.log(`${LOG} User-initiated exit — skipping restart check`)
+      } else {
+        console.log(
+          `${LOG} the child exited ${exitCode} and this supervisor issued no kill, so something ` +
+            "outside signalled it — skipping restart check"
+        )
       }
       break
     }
