@@ -1,0 +1,266 @@
+import { afterAll, expect, test } from "bun:test"
+import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import {
+  bodiesIn,
+  type World,
+  worldAt,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  objectPut,
+  removePackageManifest,
+  runChange,
+  waysIn,
+} from "./remove-package-manifest.change-agent.code.ts"
+
+afterAll(scratch.sweep)
+
+const HELD = "@probe/held"
+
+const INNER = "@probe/inner"
+
+const HELD_MANIFEST = "akasha/held/package.json"
+
+const INNER_MANIFEST = "akasha/held/inner/package.json"
+
+const SIDE_MANIFEST = "akasha/side/package.json"
+
+const OTHER_MANIFEST = "akasha/other/package.json"
+
+const READER_CODE = "akasha/side/reader.module.code.ts"
+
+const idAt = (one: string): string => `01a0830a-0004-7000-8000-00000000000${one}`
+
+const HELD_BODY = `{
+  "name": "${HELD}",
+  "exports": {
+    "./one": "./one/one.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6"
+  }
+}
+`
+
+const HELD_WANTED = `{
+  "name": "${HELD}",
+  "exports": {
+    "./one": "./one/one.ts",
+    "./inner/two": "./inner/two/two.ts"
+  },
+  "dependencies": {
+    "zod": "^4.3.6",
+    "yaml": "^2.8.1"
+  }
+}
+`
+
+const INNER_BODY = `{
+  "name": "${INNER}",
+  "exports": {
+    "./two": "./two/two.ts"
+  },
+  "dependencies": {
+    "yaml": "^2.8.1"
+  }
+}
+`
+
+const SIDE_BODY = `{
+  "name": "@probe/side",
+  "dependencies": {
+    "${INNER}": "workspace:*"
+  }
+}
+`
+
+const SIDE_WANTED = `{
+  "name": "@probe/side",
+  "dependencies": {
+    "${HELD}": "workspace:*"
+  }
+}
+`
+
+const OTHER_BODY = `{
+  "name": "@probe/other",
+  "dependencies": {
+    "${HELD}": "workspace:*",
+    "${INNER}": "workspace:*"
+  }
+}
+`
+
+const OTHER_WANTED = `{
+  "name": "@probe/other",
+  "dependencies": {
+    "${HELD}": "workspace:*"
+  }
+}
+`
+
+const READER_CODE_BODY = `import { two } from "${INNER}/two"
+
+export const reader = two
+`
+
+const READER_CODE_WANTED = `import { two } from "${HELD}/inner/two"
+
+export const reader = two
+`
+
+const SPEAKING: Readonly<Record<string, string>> = {
+  "akasha/text-property.page-type.ts": bodyOf({
+    id: idAt("0"),
+    pageTypeSlug: "page-type",
+    slug: "text-property",
+    extendsSlug: ["page-type/page-property"],
+  }),
+  "akasha/file-name.text-property.ts": bodyOf({
+    id: idAt("1"),
+    pageTypeSlug: "text-property",
+    slug: "file-name",
+    propertySlug: "file-name",
+  }),
+  "akasha/named-file-property.page-type.ts": bodyOf({
+    id: idAt("2"),
+    pageTypeSlug: "page-type",
+    slug: "named-file-property",
+    extendsSlug: ["page-type/page-property"],
+    properties: [{ pagePropertySlug: "text-property/file-name", required: true, many: false }],
+  }),
+  "akasha/manifest.named-file-property.ts": bodyOf({
+    id: idAt("3"),
+    pageTypeSlug: "named-file-property",
+    slug: "manifest",
+    propertySlug: "manifest",
+    fileName: "package.json",
+  }),
+  "akasha/workspace-package.page-type.ts": bodyOf({
+    id: idAt("4"),
+    pageTypeSlug: "page-type",
+    slug: "workspace-package",
+    extendsSlug: ["page-type/domain"],
+    properties: [{ pagePropertySlug: "named-file-property/manifest", required: true, many: false }],
+  }),
+}
+
+const PACKAGED: Readonly<Record<string, string>> = {
+  "akasha/held/held.workspace-package.ts": pageOf({
+    id: idAt("5"),
+    pageTypeSlug: "workspace-package",
+    slug: "held",
+    manifest: "json",
+  }),
+  [HELD_MANIFEST]: HELD_BODY,
+  "akasha/held/one/one.ts": "export const one = 1\n",
+  "akasha/held/inner/inner.workspace-package.ts": pageOf({
+    id: idAt("6"),
+    pageTypeSlug: "workspace-package",
+    slug: "inner",
+    manifest: "json",
+  }),
+  [INNER_MANIFEST]: INNER_BODY,
+  "akasha/held/inner/two/two.ts": "export const two = 2\n",
+  "akasha/side/side.workspace-package.ts": pageOf({
+    id: idAt("7"),
+    pageTypeSlug: "workspace-package",
+    slug: "side",
+    manifest: "json",
+  }),
+  [SIDE_MANIFEST]: SIDE_BODY,
+  "akasha/side/reader.module.ts": pageOf({
+    id: idAt("8"),
+    pageTypeSlug: "module",
+    slug: "reader",
+    code: "ts",
+  }),
+  [READER_CODE]: READER_CODE_BODY,
+  "akasha/other/other.workspace-package.ts": pageOf({
+    id: idAt("9"),
+    pageTypeSlug: "workspace-package",
+    slug: "other",
+    manifest: "json",
+  }),
+  [OTHER_MANIFEST]: OTHER_BODY,
+}
+
+function world(): World {
+  const root = indexedRepo({ ...SPEAKING, ...PACKAGED })
+  return worldAt(root, textIn(root))
+}
+
+function folded(): ReadonlyMap<string, string | null> {
+  const over = world()
+  const said = removePackageManifest(over, { at: INNER_MANIFEST })
+  expect(said.refused).toBe(null)
+  return bodiesIn(said, over.base)
+}
+
+test("a way in opens with the folder path between the two packages", () => {
+  expect(waysIn({ exports: { "./two": "./two/two.ts" } }, "inner")).toEqual([
+    ["./inner/two", "./inner/two/two.ts"],
+  ])
+})
+
+test("ways in stated as anything but an object of paths answer nothing", () => {
+  expect(waysIn({ exports: "./two/two.ts" }, "inner")).toBe(null)
+})
+
+test("a manifest naming no ways in answers a list of none", () => {
+  expect(waysIn({ name: INNER }, "inner")).toEqual([])
+})
+
+test("an object of no pairs is written as an empty object", () => {
+  expect(objectPut([])).toBe("{}")
+})
+
+test("the package above takes the ways in and the dependency it does not name", () => {
+  expect(folded().get(HELD_MANIFEST)).toBe(HELD_WANTED)
+})
+
+test("the manifest folded is taken away", () => {
+  expect(folded().get(INNER_MANIFEST)).toBe(null)
+})
+
+test("a specifier naming the folded package names the package above and that folder", () => {
+  expect(folded().get(READER_CODE)).toBe(READER_CODE_WANTED)
+})
+
+test("a manifest naming the folded package under a dependency names the package above", () => {
+  expect(folded().get(SIDE_MANIFEST)).toBe(SIDE_WANTED)
+})
+
+test("a manifest already naming the package above drops the folded entry", () => {
+  expect(folded().get(OTHER_MANIFEST)).toBe(OTHER_WANTED)
+})
+
+test("no page is restated here", () => {
+  expect([...folded().keys()].sort()).toEqual(
+    [HELD_MANIFEST, OTHER_MANIFEST, READER_CODE, SIDE_MANIFEST, INNER_MANIFEST].sort()
+  )
+})
+
+test("a folder sitting under no other package is refused", () => {
+  const said = removePackageManifest(world(), { at: HELD_MANIFEST })
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    `\`${HELD_MANIFEST}\` sits under no other package, so no package is folded`
+  )
+})
+
+test("a manifest that could not be read is refused", () => {
+  const said = removePackageManifest(
+    worldAt(scratch.rootFor("fold-"), () => null),
+    {
+      at: INNER_MANIFEST,
+    }
+  )
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(`\`${INNER_MANIFEST}\` could not be read`)
+})
+
+test("a call stating no path is refused by that key", () => {
+  const said = runChange(world(), {})
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`at` names what this change is handed, and the arguments hold no `at`")
+})

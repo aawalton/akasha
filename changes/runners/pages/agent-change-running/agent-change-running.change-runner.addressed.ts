@@ -62,6 +62,9 @@ export type Changes = {
   "change-agent/remove-package-alias": Parameters<
     typeof import("../../../agent/file-content/remove-package-alias/remove-package-alias.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/remove-package-manifest": Parameters<
+    typeof import("../../../agent/file/remove-package-manifest/remove-package-manifest.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/remove-page": Parameters<
     typeof import("../../../agent/file/remove-page/remove-page.change-agent.code.ts")["runChange"]
   >[1]
