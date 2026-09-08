@@ -17,49 +17,20 @@ export const attributeCharisma = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the hours of the day's stretches Alan spent with someone at ease.",
+      statement: "The reading is the points the charisma attribute carries for today.",
     },
     {
       invariantKind: "departure",
-      statement: "A stretch is at ease where its safety less its difficulty reaches one level.",
+      statement: "The attribute is reached through the link this readout names.",
     },
     {
       invariantKind: "departure",
-      statement: "A stretch is with someone where that stretch names a relationship.",
+      statement: "An attribute carrying no points today is no reading rather than a zero.",
     },
     {
-      invariantKind: "departure",
-      statement: "A stretch naming nobody adds no hours however far that stretch is at ease.",
+      invariantKind: "absence",
+      statement: "Nothing here works out what a day earned.",
     },
-    {
-      invariantKind: "departure",
-      statement: "Sleep names nobody.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An hour with someone at ease is one point.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A level given as text is read as the number that text spells.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A stretch missing either level or either time is left out of the sum.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A stretch that earns nothing adds no hours and still makes the day a reading.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A day no stretch can be read on is no reading rather than a charisma of zero.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A day is read as holding two hundred stretches at the most.",
-    },
-
     {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",
