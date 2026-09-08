@@ -49,6 +49,8 @@ export function guardedBy(world: World, said: Answer, guards: readonly Guard[]):
   if (said.refused !== null || guards.length === 0) return said
   const whole = gathered([world.over, beyond(world.over, said)])
   if (whole.refused !== null) return refusing(whole.refused)
+  const bodies = replayed(whole, world.base)
+  if ("refused" in bodies) return refusing(bodies.refused)
   const cast = shadowOver(world.root, whole, world.base)
   if ("refused" in cast) return refusing(NOT_WORKED_OUT)
   const given: Guarding = { said, shadow: cast.shadow, before: world }
