@@ -48,6 +48,10 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A page unique within a scope is answered under that scope's property and value.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type no page is filed under is answered empty.",
     },
     {

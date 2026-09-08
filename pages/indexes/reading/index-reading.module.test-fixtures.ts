@@ -111,6 +111,18 @@ export function listedFiled(
   identityFiled(root, PAGE_TYPE, pageTypeSlug, SLUG, slug, lines)
 }
 
+export function scopedFiled(
+  root: string,
+  pageTypeSlug: string,
+  scopePropertySlug: string,
+  scopeValue: string,
+  slug: string,
+  lines: readonly unknown[]
+): undefined {
+  const scope = join(pageTypeSlug, scopePropertySlug, scopeValue)
+  identityFiled(root, PAGE_PROPERTY, scope, SLUG, slug, lines)
+}
+
 export function listedAlsoFiled(
   root: string,
   pageTypeSlug: string,

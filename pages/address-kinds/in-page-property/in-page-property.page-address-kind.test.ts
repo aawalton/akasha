@@ -1,29 +1,31 @@
 import { expect, test } from "bun:test"
 import { isInPageProperty } from "./in-page-property.page-address-kind.code.ts"
 
-test("an address naming a parent is of this kind", () => {
+test("an address naming a scope property and its value is of this kind", () => {
   expect(
     isInPageProperty({
       pageTypeSlug: "story-chapter-read",
-      partOf: { pageTypeSlug: "story-read", propertySlug: "slug", value: "the-wandering-inn" },
+      scopePropertySlug: "story-read-slug",
+      scopeValue: "the-wandering-inn",
       propertySlug: "slug",
       value: "chapter-1",
     })
   ).toBe(true)
 })
 
-test("a parent named by id is named by an address all the same", () => {
+test("a scope is any kind of page property rather than a relation alone", () => {
   expect(
     isInPageProperty({
-      pageTypeSlug: "story-chapter-read",
-      partOf: { id: "01a04edd-897d-7b88-90d8-c86522baad1d" },
+      pageTypeSlug: "release",
+      scopePropertySlug: "year",
+      scopeValue: "1998",
       propertySlug: "slug",
-      value: "chapter-1",
+      value: "the-first",
     })
   ).toBe(true)
 })
 
-test("an address naming no parent is of another kind", () => {
+test("an address naming no scope property is of another kind", () => {
   expect(isInPageProperty({ pageTypeSlug: "role", propertySlug: "slug", value: "definer" })).toBe(
     false
   )

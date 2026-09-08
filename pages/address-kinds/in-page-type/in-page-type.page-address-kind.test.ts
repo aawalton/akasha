@@ -5,11 +5,12 @@ test("an address naming a page type and a property is of this kind", () => {
   expect(isInPageType({ pageTypeSlug: "role", propertySlug: "slug", value: "definer" })).toBe(true)
 })
 
-test("an address naming a parent as well is of another kind", () => {
+test("an address naming a scope property as well is of another kind", () => {
   expect(
     isInPageType({
       pageTypeSlug: "story-chapter-read",
-      partOf: { pageTypeSlug: "story-read", propertySlug: "slug", value: "the-wandering-inn" },
+      scopePropertySlug: "story-read-slug",
+      scopeValue: "the-wandering-inn",
       propertySlug: "slug",
       value: "chapter-1",
     })

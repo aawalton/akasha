@@ -137,10 +137,9 @@ export function listedById(given: string | Reading, id: string): Listed | null {
 
 export function listedFor(given: string | Reading, address: PageAddress): Listed | null {
   if ("id" in address) return listedById(given, address.id)
-  if ("partOf" in address) {
-    throw new Error(
-      `\`${address.value}\` is named under a parent, and no page is filed under a parent yet`
-    )
+  if ("scopeValue" in address) {
+    const scope = join(address.pageTypeSlug, address.scopePropertySlug, address.scopeValue)
+    return listedNamed(given, PROPERTY, scope, address.propertySlug, address.value)[0] ?? null
   }
   return (
     listedNamed(given, PAGE_TYPE, address.pageTypeSlug, address.propertySlug, address.value)[0] ??

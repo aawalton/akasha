@@ -20,6 +20,7 @@ import {
   nothingFiled,
   pathFiled,
   schemaFiled,
+  scopedFiled,
   valueAlsoFiled,
 } from "./index-reading.module.test-fixtures.ts"
 
@@ -66,17 +67,39 @@ test("an address naming a page by its id is answered by that id", () => {
   expect(listedFor(root, { id: A })).toEqual(held)
 })
 
-test("an address naming a parent is loud rather than answered under something else", () => {
+test("a page unique within a scope is answered under the page type and then the scope", () => {
   const root = rootAt()
+  const held = { path: "akasha/inn/chapter-1.story-chapter-read.ts", id: A }
+  scopedFiled(root, "story-chapter-read", "story-read-slug", "the-wandering-inn", "chapter-1", [
+    held,
+  ])
 
-  expect(() =>
+  expect(
     listedFor(root, {
       pageTypeSlug: "story-chapter-read",
-      partOf: { pageTypeSlug: "story-read", propertySlug: "slug", value: "the-wandering-inn" },
+      scopePropertySlug: "story-read-slug",
+      scopeValue: "the-wandering-inn",
       propertySlug: "slug",
       value: "chapter-1",
     })
-  ).toThrow()
+  ).toEqual(held)
+})
+
+test("a page carrying that value in another scope is not the page answered", () => {
+  const root = rootAt()
+  scopedFiled(root, "story-chapter-read", "story-read-slug", "the-wandering-inn", "chapter-1", [
+    { path: "akasha/inn/chapter-1.story-chapter-read.ts", id: A },
+  ])
+
+  expect(
+    listedFor(root, {
+      pageTypeSlug: "story-chapter-read",
+      scopePropertySlug: "story-read-slug",
+      scopeValue: "the-last-orellia",
+      propertySlug: "slug",
+      value: "chapter-1",
+    })
+  ).toBe(null)
 })
 
 test("a path the index carries is answered with the page carrying it", () => {
