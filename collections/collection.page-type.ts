@@ -81,6 +81,8 @@ export const collection = {
     "text-property/collection-tags",
     "workspace-package/great-courses",
     "workspace-package/royal-road",
+    "page-type/recipe",
+    "page-type/recipe-collection",
   ],
   extendsSlug: ["page-type/page"],
   properties: [
