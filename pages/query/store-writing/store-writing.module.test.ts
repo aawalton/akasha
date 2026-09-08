@@ -116,9 +116,9 @@ test("a refusal the store states is carried back", async () => {
 
 test("a write stating the keys a page would carry is refused for want of a renderer", async () => {
   const refusals = await Promise.all([
-    writePage("workout-session", "one", {}, WRITER),
-    patchPage("workout-session", "one", {}, WRITER),
-    patchState("workout-session", "one", {}, WRITER),
+    writePage("set-log", "one", {}, WRITER),
+    patchPage("set-log", "one", {}, WRITER),
+    patchState("set-log", "one", {}, WRITER),
   ])
   for (const one of refusals) {
     expect(one.ok).toBe(false)
