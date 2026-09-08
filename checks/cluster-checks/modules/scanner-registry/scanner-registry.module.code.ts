@@ -11,7 +11,6 @@ import { objectLiteralSelfEntry } from "../check-object-literal-self/check-objec
 import { popoverViewportSafetyEntry } from "../check-popover-viewport-safety/check-popover-viewport-safety.module.code.ts"
 import { populationReadSwallowEntry } from "../check-population-read-swallow/check-population-read-swallow.module.code.ts"
 import { propertyCallbackSelfEntry } from "../check-property-callback-self/check-property-callback-self.module.code.ts"
-import { readonlyCollectionsEntry } from "../check-readonly-collections/check-readonly-collections.module.code.ts"
 import { sopsSpawnPipeEntry } from "../check-sops-spawn-pipe/check-sops-spawn-pipe.module.code.ts"
 import { suspenseThrowSettlesEntry } from "../check-suspense-throw-settles/check-suspense-throw-settles.module.code.ts"
 import { timezoneHandlingEntry } from "../check-timezone-handling/check-timezone-handling.module.code.ts"
@@ -21,7 +20,6 @@ import type { SyntaxScannerEntry } from "../syntax-scanner-entry/syntax-scanner-
 export const SYNTAX_SCANNER_ENTRIES: readonly SyntaxScannerEntry[] = [
   typeAssertionsEntry,
   noVoidReturnEntry,
-  readonlyCollectionsEntry,
   exhaustiveDispatchEntry,
   boundaryParseEntry,
   timezoneHandlingEntry,
