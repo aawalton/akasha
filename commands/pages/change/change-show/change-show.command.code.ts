@@ -10,11 +10,6 @@ import {
   noPageSaid,
   worldFor,
 } from "../../../../command-system/change-running/change-running.module.code.ts"
-import {
-  ANSWER_CEILING,
-  countLines,
-  numbered,
-} from "../../../../command-system/commands/read/long-body/long-body.module.code.ts"
 import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { inputIn } from "../../../../command-system/piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../../../../command-system/reading/reading.module.code.ts"
@@ -22,6 +17,7 @@ import {
   offRepo,
   pathAt,
 } from "../../../../command-system/said-pathing/said-pathing.module.code.ts"
+import { ANSWER_CEILING, countLines, numbered } from "../../read/long-body/long-body.module.code.ts"
 
 const AT = "at"
 
