@@ -11,18 +11,18 @@ import {
   proseIn,
   type Reading,
   wordsIn,
-} from "../../../imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
+} from "../../../../imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
 import {
   isEmailLike,
   isPhoneLike,
   searchContacts,
-} from "../../../imessage/contacts-db/contacts-db.module.code.ts"
-import { MACBOOK } from "../../../imessage/host/imessage-host.module.code.ts"
-import { fetchContacts } from "../../../imessage/remote/imessage-remote.module.code.ts"
+} from "../../../../imessage/contacts-db/contacts-db.module.code.ts"
+import { MACBOOK } from "../../../../imessage/host/imessage-host.module.code.ts"
+import { fetchContacts } from "../../../../imessage/remote/imessage-remote.module.code.ts"
 import {
   buildSendScript,
   type SendAttachment,
-} from "../../../imessage/send/imessage-send.module.code.ts"
+} from "../../../../imessage/send/imessage-send.module.code.ts"
 
 const TO = "--to"
 

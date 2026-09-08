@@ -6,8 +6,8 @@ import {
   refusedBy,
   told,
 } from "@akasha/command-system/command-answering"
-import type { ImessageMessage } from "../../../imessage/chat-db/chat-db.module.code.ts"
-import { buildUnreadListSql } from "../../../imessage/chat-db/chat-db.module.code.ts"
+import type { ImessageMessage } from "../../../../imessage/chat-db/chat-db.module.code.ts"
+import { buildUnreadListSql } from "../../../../imessage/chat-db/chat-db.module.code.ts"
 import {
   CONTACT_SAID,
   countOf,
@@ -18,18 +18,18 @@ import {
   oldestFirst,
   type Reading,
   wordsIn,
-} from "../../../imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
+} from "../../../../imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
 import {
   formatLocalMinute,
   messageLabel,
   type NameFor,
   singleLine,
-} from "../../../imessage/message-lines/message-lines.module.code.ts"
+} from "../../../../imessage/message-lines/message-lines.module.code.ts"
 import {
   fetchContacts,
   fetchMessages,
   resolveContactHandleRowids,
-} from "../../../imessage/remote/imessage-remote.module.code.ts"
+} from "../../../../imessage/remote/imessage-remote.module.code.ts"
 
 const VALUED = [LIMIT_SAID, CONTACT_SAID]
 

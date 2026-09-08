@@ -5,9 +5,9 @@ import {
   JSON_SAID,
   type Reading,
   wordsIn,
-} from "../../../imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
-import { searchContacts } from "../../../imessage/contacts-db/contacts-db.module.code.ts"
-import { fetchContacts } from "../../../imessage/remote/imessage-remote.module.code.ts"
+} from "../../../../imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
+import { searchContacts } from "../../../../imessage/contacts-db/contacts-db.module.code.ts"
+import { fetchContacts } from "../../../../imessage/remote/imessage-remote.module.code.ts"
 
 const QUERY = "--query"
 
