@@ -161,6 +161,12 @@
         "zod": "^4.3.6",
       },
     },
+    "alan/harness/calendar-sync": {
+      "name": "@akasha/calendar-sync",
+      "dependencies": {
+        "zod": "^4.3.6",
+      },
+    },
     "alan/harness/errors-client": {
       "name": "@akasha/errors-client",
       "dependencies": {
@@ -461,12 +467,6 @@
       },
       "optionalDependencies": {
         "playwright-core": "1.61.1",
-      },
-    },
-    "calendar-sync": {
-      "name": "@akasha/calendar-sync",
-      "dependencies": {
-        "zod": "^4.3.6",
       },
     },
     "changes": {
@@ -2972,7 +2972,7 @@
 
     "@akasha/browser-test-harness": ["@akasha/browser-test-harness@workspace:browser/test-harness"],
 
-    "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:calendar-sync"],
+    "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:alan/harness/calendar-sync"],
 
     "@akasha/changes": ["@akasha/changes@workspace:changes"],
 
