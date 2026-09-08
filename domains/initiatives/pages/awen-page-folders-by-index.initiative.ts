@@ -1,9 +1,9 @@
 import type { Initiative } from "../initiative.page-type.ts"
 
-export const pageFoldersByIndex = {
+export const awenPageFoldersByIndex = {
   id: "01a0823b-74ce-744f-a860-1dc482cbd1c9",
   pageTypeSlug: "initiative",
-  slug: "page-folders-by-index",
+  slug: "awen-page-folders-by-index",
   domainSlug: "workspace-package/page",
   personaSlug: "amy",
   constraints: ["Start this only once the day model is one page type."],
