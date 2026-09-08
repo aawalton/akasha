@@ -43,10 +43,6 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "How many records belong to no run is said beneath the table.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A caller naming a period reads every record stamped within that period.",
     },
     {
