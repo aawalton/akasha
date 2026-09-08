@@ -36,7 +36,7 @@ export default [
   route("api/sms/opt-in", "routes/api.sms.opt-in.ts"),
   route("api/spotify/callback", "routes/api.spotify.callback.ts"),
   route("api/page-types", "routes/api.page-types.ts"),
-  route("api/pages/:pageTypeSlug", "routes/api.pages.$pageTypeSlug.ts"),
+  route("api/pages/:pageTypeSlug", "routes/alan-web-api-pages/alan-web-api-pages.route.code.ts"),
   route("api/page-write", "routes/api.page-write.ts"),
   route("api/nav-icon/:idSuffix", "routes/api.nav-icon.$idSuffix.ts"),
   route("api/image/:imageId", "routes/alan-web-api-image/alan-web-api-image.route.code.ts"),
