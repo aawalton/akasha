@@ -30,20 +30,11 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A line states the edit narrowly or states the whole body that edit was worked out from.",
+      statement: "A line states one edit of the four kinds and no body that edit does not name.",
     },
     {
       invariantKind: "departure",
-      statement: "A line stating an edit narrowly is read against the files beneath the root.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A line is read against the bodies the lines before that line leave.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A line that will not read against those bodies refuses the whole file.",
+      statement: "A line is read as the edit that line states rather than against any body.",
     },
     {
       invariantKind: "departure",
@@ -67,32 +58,11 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A row appended states the edit narrowly where the narrow row reads back as that row.",
+      statement: "A row appended states the edit as the change that answered it stated the edit.",
     },
     {
       invariantKind: "departure",
-      statement: "A row that would read back as any other row states the whole body instead.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A row whose path holds a body each side states the whole body each side.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A row narrowed names no passage of a body.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body that moved beneath a narrowed row is read as that body is now.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Whether a row reads back is answered against the body that row states.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A row written again beside rows that went states the whole body.",
+      statement: "A row comes back as the row went in.",
     },
     {
       invariantKind: "departure",
@@ -187,6 +157,10 @@ export const editsKeeping = {
     {
       invariantKind: "absence",
       statement: "Nothing here works out a body or judges an edit.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "A row kept in the whole shape is read as the edits that row narrows to.",
     },
     {
       invariantKind: "stopgap",
