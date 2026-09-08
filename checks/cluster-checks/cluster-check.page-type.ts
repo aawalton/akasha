@@ -210,6 +210,7 @@ export const clusterCheck = {
     "module/test-preload-obligations",
     "module/tree-globs",
     "module/ts-boundary-reads",
+    "module/ts-client-page-access",
   ],
   properties: [
     {
