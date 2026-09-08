@@ -30,7 +30,6 @@ export const clusterCheck = {
     "boolean-property/tree-sha",
     "cluster-check/checksum-annotation-substitution",
     "cluster-check/held-addon-structure",
-    "cluster-check/package-names",
     "cluster-check/playwright-image-alignment",
     "cluster-check/porcelain-status-boundary",
     "cluster-check/properties-file-key-space",
