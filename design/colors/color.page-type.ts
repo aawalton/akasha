@@ -31,7 +31,12 @@ export const color = {
     },
     {
       invariantKind: "departure",
-      statement: "Each hex here is a gemstone shade under a plain name rather than the gemstone's.",
+      statement:
+        "Each hex here is a shade the palette draws, under a plain name rather than the source's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The neutrals run from soot up to chalk, and grey sits between stone and silver.",
     },
     {
       invariantKind: "departure",
