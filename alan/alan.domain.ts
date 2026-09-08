@@ -12,7 +12,6 @@ export const alan = {
     "domain/authoring",
     "domain/car-research",
     "domain/collections",
-    "domain/fitness",
     "domain/library",
     "domain/literature",
     "domain/music",
