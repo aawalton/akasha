@@ -6,6 +6,7 @@ export const authProxy = {
   slug: "auth-proxy",
   definition: "the server reading a request's session cookie before passing the request on",
   manifest: "json",
+  dockerfileExtensions: "json",
   partSlugs: [
     "manifest/auth-proxy-manifests",
     "module/auth-proxy-config",
