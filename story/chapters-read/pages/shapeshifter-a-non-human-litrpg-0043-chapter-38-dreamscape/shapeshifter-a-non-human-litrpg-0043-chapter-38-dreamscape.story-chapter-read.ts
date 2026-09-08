@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0043Chapter38Dreamscape = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0043-chapter-38-dreamscape",
   title: "Chapter 38: Dreamscape",
-  partOfSlugs: ["shapeshifter-a-non-human-litrpg"],
+  partOfCollectionSlugs: ["shapeshifter-a-non-human-litrpg"],
   position: 43,
   ownLength: 1964,
   unitSlug: "words",

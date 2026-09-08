@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0016Chapter16CowsBlueAndPurple = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0016-chapter-16-cows-blue-and-purple",
   title: "Chapter 16 - Cows Blue and Purple",
-  partOfSlugs: ["sherly-the-most-virtuous-holy-cow"],
+  partOfCollectionSlugs: ["sherly-the-most-virtuous-holy-cow"],
   position: 16,
   ownLength: 2998,
   unitSlug: "words",

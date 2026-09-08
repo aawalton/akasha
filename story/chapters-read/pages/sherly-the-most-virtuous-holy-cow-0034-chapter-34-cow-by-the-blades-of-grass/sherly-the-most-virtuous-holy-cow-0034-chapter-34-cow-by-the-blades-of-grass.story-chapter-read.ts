@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0034Chapter34CowByTheBladesOfGrass = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0034-chapter-34-cow-by-the-blades-of-grass",
   title: "Chapter 34 - Cow by the Blades of Grass",
-  partOfSlugs: ["sherly-the-most-virtuous-holy-cow"],
+  partOfCollectionSlugs: ["sherly-the-most-virtuous-holy-cow"],
   position: 34,
   ownLength: 1841,
   unitSlug: "words",

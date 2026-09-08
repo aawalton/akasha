@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0033Chapter33CowAndRevashir = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0033-chapter-33-cow-and-revashir",
   title: "Chapter 33 - Cow and Revashir",
-  partOfSlugs: ["sherly-the-most-virtuous-holy-cow"],
+  partOfCollectionSlugs: ["sherly-the-most-virtuous-holy-cow"],
   position: 33,
   ownLength: 2084,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0022Chapter22CowAndHerSkills = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0022-chapter-22-cow-and-her-skills",
   title: "Chapter 22 - Cow and Her Skills",
-  partOfSlugs: ["sherly-the-most-virtuous-holy-cow"],
+  partOfCollectionSlugs: ["sherly-the-most-virtuous-holy-cow"],
   position: 22,
   ownLength: 1748,
   unitSlug: "words",

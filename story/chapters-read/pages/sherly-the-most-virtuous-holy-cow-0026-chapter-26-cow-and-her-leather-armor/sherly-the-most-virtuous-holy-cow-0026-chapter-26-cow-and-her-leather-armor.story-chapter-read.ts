@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0026Chapter26CowAndHerLeatherArmor = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0026-chapter-26-cow-and-her-leather-armor",
   title: "Chapter 26 - Cow and Her Leather Armor",
-  partOfSlugs: ["sherly-the-most-virtuous-holy-cow"],
+  partOfCollectionSlugs: ["sherly-the-most-virtuous-holy-cow"],
   position: 26,
   ownLength: 2060,
   unitSlug: "words",

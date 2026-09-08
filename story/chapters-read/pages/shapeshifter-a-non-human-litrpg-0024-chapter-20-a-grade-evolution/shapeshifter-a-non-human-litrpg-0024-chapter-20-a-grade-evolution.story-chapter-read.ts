@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0024Chapter20AGradeEvolution = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0024-chapter-20-a-grade-evolution",
   title: "Chapter 20: A-Grade Evolution",
-  partOfSlugs: ["shapeshifter-a-non-human-litrpg"],
+  partOfCollectionSlugs: ["shapeshifter-a-non-human-litrpg"],
   position: 24,
   ownLength: 1535,
   unitSlug: "words",

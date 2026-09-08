@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0038Chapter33LivingInTheShadows = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0038-chapter-33-living-in-the-shadows",
   title: "Chapter 33: Living in the Shadows",
-  partOfSlugs: ["shapeshifter-a-non-human-litrpg"],
+  partOfCollectionSlugs: ["shapeshifter-a-non-human-litrpg"],
   position: 38,
   ownLength: 1965,
   unitSlug: "words",
