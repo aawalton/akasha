@@ -1,10 +1,11 @@
-import type { Domain } from "../domains/domain.page-type.ts"
+import type { WorkspacePackage } from "../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const utils = {
   id: "01a0827a-166b-7a7c-9b60-e90209b46c46",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "workspace-package",
   slug: "utils",
   definition: "the pieces every domain reaches for and no domain claims",
+  manifest: "json",
   partSlugs: [
     "workspace-package/utils-fs",
     "workspace-package/utils-narrow",
@@ -13,4 +14,4 @@ export const utils = {
     "workspace-package/utils-system",
     "workspace-package/utils-sync",
   ],
-} as const satisfies Domain
+} as const satisfies WorkspacePackage

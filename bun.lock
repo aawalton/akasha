@@ -2900,6 +2900,9 @@
         "react-dom": "^19",
       },
     },
+    "utils": {
+      "name": "@akasha/utils",
+    },
     "utils/fs": {
       "name": "@akasha/utils-fs",
       "dependencies": {
@@ -3521,6 +3524,8 @@
     "@akasha/testing-system": ["@akasha/testing-system@workspace:testing-system"],
 
     "@akasha/upscale": ["@akasha/upscale@workspace:inference/generations/upscale"],
+
+    "@akasha/utils": ["@akasha/utils@workspace:utils"],
 
     "@akasha/utils-fs": ["@akasha/utils-fs@workspace:utils/fs"],
 
