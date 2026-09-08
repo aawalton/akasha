@@ -1,5 +1,6 @@
 import { saidBy } from "@akasha/command-system/fault-saying"
 import { getEsoDayStr } from "@akasha/day/eso-day"
+import { listedAt } from "@akasha/indexes"
 import { resolveRoots } from "@akasha/pages/checkout-roots"
 import { asking } from "@akasha/pages-service/asking"
 import { lowestIn, mailOn } from "@akasha/readouts/inboxes-email"
@@ -9,14 +10,29 @@ import { statedAt } from "@akasha/readouts/readout-tier"
 import { wakeDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
-const READOUTS = "readouts/pages"
+const READOUT = "readout"
 
-export const EMAIL_PAGE = `${READOUTS}/inboxes-email/inboxes-email.readout.ts`
+function pageOf(root: string, slug: string): string {
+  const listed = listedAt(root, READOUT, slug)[0]
+  if (listed === undefined) {
+    throw new Error(
+      `no \`${READOUT}\` is slugged \`${slug}\`, so a count taken for it would be kept nowhere`
+    )
+  }
+  return listed.path
+}
 
-export const TASKS_PAGE = `${READOUTS}/inboxes-tasks/inboxes-tasks.readout.ts`
+export function emailPage(root: string): string {
+  return pageOf(root, "inboxes-email")
+}
 
-export const TEMPER_TASKS_PAGE =
-  "temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts"
+export function tasksPage(root: string): string {
+  return pageOf(root, "inboxes-tasks")
+}
+
+export function temperTasksPage(root: string): string {
+  return pageOf(root, "inboxes-temper-tasks")
+}
 
 const TEMPER_TASKS_KEY = "inbox-temper-tasks"
 
@@ -58,6 +74,9 @@ function mailEntry(root: string, day: string): Readonly<Record<string, unknown>>
 }
 
 export async function takeReadings(root: string, now: Date = new Date()): Promise<Taken> {
+  const emailAt = emailPage(root)
+  const tasksAt = tasksPage(root)
+  const temperTasksAt = temperTasksPage(root)
   const kept: Record<string, number> = {}
   const unread: string[] = []
   const wanting = (pages: readonly string[], why: string): undefined => {
@@ -80,26 +99,26 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
   ])
 
   if (day.status === "rejected") {
-    wanting([TASKS_PAGE, TEMPER_TASKS_PAGE], saidBy(day.reason))
+    wanting([tasksAt, temperTasksAt], saidBy(day.reason))
   } else if (day.value === null) {
-    wanting([TASKS_PAGE, TEMPER_TASKS_PAGE], `no tracking day is written down for ${esoDay}`)
+    wanting([tasksAt, temperTasksAt], `no tracking day is written down for ${esoDay}`)
   } else {
     const values = day.value
-    keep(TASKS_PAGE, tasksIn(values), `the tracking day for ${esoDay} states no task count`)
+    keep(tasksAt, tasksIn(values), `the tracking day for ${esoDay} states no task count`)
     keep(
-      TEMPER_TASKS_PAGE,
+      temperTasksAt,
       temperTasksIn(values),
       `the tracking day for ${esoDay} states no \`${TEMPER_TASKS_KEY}\``
     )
   }
 
   if (mail.status === "rejected") {
-    wanting([EMAIL_PAGE], saidBy(mail.reason))
+    wanting([emailAt], saidBy(mail.reason))
   } else if (mail.value === null) {
-    wanting([EMAIL_PAGE], `no mail entry is written down for ${mailDay}`)
+    wanting([emailAt], `no mail entry is written down for ${mailDay}`)
   } else {
     keep(
-      EMAIL_PAGE,
+      emailAt,
       lowestIn(mail.value),
       `the mail entry for ${mailDay} states no lowest inbox count`
     )

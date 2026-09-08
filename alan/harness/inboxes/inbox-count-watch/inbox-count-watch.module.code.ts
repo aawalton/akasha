@@ -18,7 +18,7 @@ import {
   type TaskCounts,
 } from "../inbox-count-polling/inbox-count-polling.module.code.ts"
 import { persistInboxCounts } from "../inbox-count-writing/inbox-count-writing.module.code.ts"
-import { TASKS_PAGE, TEMPER_TASKS_PAGE } from "../reading/inbox-reading.module.code.ts"
+import { tasksPage, temperTasksPage } from "../reading/inbox-reading.module.code.ts"
 
 export const SETTLE_MS = 250
 
@@ -46,8 +46,8 @@ export async function carryCounts(
 ): Promise<undefined> {
   await persistInboxCounts({ tasks: counts.tasks, temperTasks: counts.temperTasks }, day, now)
   const took: readonly (readonly [string, number])[] = [
-    [TASKS_PAGE, counts.tasks],
-    [TEMPER_TASKS_PAGE, counts.temperTasks],
+    [tasksPage(root), counts.tasks],
+    [temperTasksPage(root), counts.temperTasks],
   ]
   for (const [page, value] of took) keepReading(root, page, value, now)
   if (secret === null) return undefined

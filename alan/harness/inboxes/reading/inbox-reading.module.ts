@@ -108,8 +108,12 @@ export const inboxReading = {
         "The root read is the root the environment states or the root the call was made in.",
     },
     {
-      invariantKind: "stopgap",
-      statement: "Each readout's path is spelled here rather than asked of the index.",
+      invariantKind: "departure",
+      statement: "Where each readout's page sits is asked of the index rather than spelled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A readout the index names no page for stops the run rather than one reading.",
     },
     {
       invariantKind: "absence",
