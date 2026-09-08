@@ -4,7 +4,7 @@
     "ast-unused.alanwalton.config.json",
     "archive-of-worlds.ast-unused-config.workspaces.json",
     "audhdalan.ast-unused-config.workspaces.json",
-    "ast-unused.infra.config.json",
+    "infra.ast-unused-config.workspaces.json",
     "ast-unused.shared.config.json",
     "smilingjenny.ast-unused-config.workspaces.json",
     "temper.ast-unused-config.workspaces.json"

@@ -8,6 +8,7 @@ export const everyWorkspace = {
   partSlugs: [
     "ast-unused-config/archive-of-worlds",
     "ast-unused-config/audhdalan",
+    "ast-unused-config/infra",
     "ast-unused-config/smilingjenny",
     "ast-unused-config/temper",
   ],
