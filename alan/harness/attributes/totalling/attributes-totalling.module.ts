@@ -26,6 +26,18 @@ export const attributesTotalling = {
     },
     {
       invariantKind: "departure",
+      statement: "A total may be asked for the days short of a day the caller names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The day named is itself left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A total naming no day counts every counted day.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A date is compared as text rather than as a date.",
     },
     {

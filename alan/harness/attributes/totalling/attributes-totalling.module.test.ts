@@ -61,6 +61,18 @@ test("a run of days beginning before the day the counting begins opens on that d
   ])
 })
 
+test("the days counted stop short of the day the caller names", () => {
+  const days: readonly Day[] = [
+    { date: ATTRIBUTES_COUNTED_FROM },
+    { date: "2026-09-07" },
+    { date: "2026-09-08" },
+  ]
+  expect(daysCounted(days, "2026-09-08").map((day) => day["date"])).toEqual([
+    ATTRIBUTES_COUNTED_FROM,
+    "2026-09-07",
+  ])
+})
+
 test("a day's charisma is the hours of its stretches at ease with someone", () => {
   expect(charismaOf({ sessions: [AT_EASE_WITH_SOMEONE] })).toBe(2)
 })

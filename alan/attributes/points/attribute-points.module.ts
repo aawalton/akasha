@@ -37,8 +37,12 @@ export const attributePoints = {
       statement: "An attribute carrying nothing before today totals today's points alone.",
     },
     {
+      invariantKind: "departure",
+      statement: "The points before today are kept by the rebuild alone.",
+    },
+    {
       invariantKind: "absence",
-      statement: "Nothing here moves the points before today on.",
+      statement: "Nothing here decides which days fall before today.",
     },
     {
       invariantKind: "absence",

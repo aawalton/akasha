@@ -81,8 +81,10 @@ export function totalOver(
   return held
 }
 
-export function daysCounted(days: readonly Day[]): readonly Day[] {
-  return days.filter((day) => String(day[DATE] ?? "") >= ATTRIBUTES_COUNTED_FROM)
+export function daysCounted(days: readonly Day[], before?: string): readonly Day[] {
+  const counted = days.filter((day) => String(day[DATE] ?? "") >= ATTRIBUTES_COUNTED_FROM)
+  if (before === undefined) return counted
+  return counted.filter((day) => String(day[DATE] ?? "") < before)
 }
 
 export function daysTracked(root: string): readonly Day[] {
@@ -115,7 +117,7 @@ async function constitutionOver(days: readonly Day[]): Promise<number> {
   return fetchConstitutionPoints(askingIn(checkout), span.from, span.to)
 }
 
-export async function totalAttributes(root: string): Promise<Taken> {
+export async function totalAttributes(root: string, before?: string): Promise<Taken> {
   const kept: Record<string, number> = {}
   const unread: string[] = []
 
@@ -128,7 +130,7 @@ export async function totalAttributes(root: string): Promise<Taken> {
     return { kept, unread }
   }
 
-  const counted = daysCounted(days)
+  const counted = daysCounted(days, before)
 
   for (const summing of OVER_THE_DAYS) {
     const total = totalOver(counted, summing.pointsOf)

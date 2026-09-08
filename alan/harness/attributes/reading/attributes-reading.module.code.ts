@@ -90,7 +90,7 @@ async function constitutionOf(now: Date): Promise<number> {
   return fetchConstitutionPoints(askingIn(checkout), window.from, window.to)
 }
 
-const ATTRIBUTE_OF: Readonly<Record<string, string>> = {
+export const ATTRIBUTE_OF: Readonly<Record<string, string>> = {
   [STRENGTH_PAGE]: "strength",
   [ENDURANCE_PAGE]: "endurance",
   [CONSTITUTION_PAGE]: "constitution",
