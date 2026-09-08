@@ -49,6 +49,14 @@ export const lualib = {
     },
     {
       invariantKind: "constraint",
+      statement: "A helper names an argument for what that argument is rather than for its scope.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rule refusing a name that shadows an outer name is off here.",
+    },
+    {
+      invariantKind: "constraint",
       statement: "A value compared with itself is how the ECMAScript runtime tests for NaN.",
     },
     {

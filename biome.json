@@ -112,6 +112,9 @@
             "noExplicitAny": "off",
             "noSelfCompare": "off",
             "noShadowRestrictedNames": "off"
+          },
+          "nursery": {
+            "noShadow": "off"
           }
         }
       }
