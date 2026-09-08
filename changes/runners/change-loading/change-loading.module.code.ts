@@ -112,9 +112,22 @@ export function subtypeIn(world: World, address: string): string | null {
   return typeof named === "string" ? slugIn(named) : null
 }
 
-export function targetRefusal(world: World, address: string, given: unknown): string | null {
+const JUDGED = new WeakMap<World, Map<string, string | null>>()
+
+export function judgedIn(world: World, address: string): string | null {
+  const held = JUDGED.get(world)
+  const before = held?.get(address)
+  if (before !== undefined) return before
   const wanted = subtypeIn(world, address)
-  if (wanted === null || !narrows(world, wanted, FILE)) return null
+  const found = wanted !== null && narrows(world, wanted, FILE) ? wanted : null
+  if (held === undefined) JUDGED.set(world, new Map([[address, found]]))
+  else held.set(address, found)
+  return found
+}
+
+export function targetRefusal(world: World, address: string, given: unknown): string | null {
+  const wanted = judgedIn(world, address)
+  if (wanted === null) return null
   const at = targetIn(given)
   if (at === null) return null
   const kind = kindOf(world, at)

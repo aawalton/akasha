@@ -74,6 +74,10 @@ export const changeLoading = {
     },
     {
       invariantKind: "departure",
+      statement: "The subtype a change judges a path against is worked out once over one world.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The path handed in is read under the name every change names a path by.",
     },
     {

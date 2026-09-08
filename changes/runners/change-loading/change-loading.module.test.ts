@@ -183,6 +183,27 @@ test("a change acting on no file subtype has no path judged", () => {
   expect(targetRefusal(world, ADDRESS, { at: PLAIN })).toBeNull()
 })
 
+test("the subtype a change judges a path against is worked out once over one world", () => {
+  const world = judging("change-target-subtype/file-page")
+  let asked = 0
+  const over: World = {
+    ...world,
+    index: {
+      ...world.index,
+      pageAt: (pageType, slug) => {
+        asked += 1
+        return world.index.pageAt(pageType, slug)
+      },
+    },
+  }
+
+  expect(targetRefusal(over, ADDRESS, { at: AT })).toBeNull()
+  asked = 0
+
+  expect(targetRefusal(over, ADDRESS, { at: AT })).toBeNull()
+  expect(asked).toBe(0)
+})
+
 test("a call handing in no path has no path judged", () => {
   const world = judging("change-target-subtype/file-page-type")
 
