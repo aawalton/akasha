@@ -3,6 +3,7 @@ import { isRecord } from "@akasha/utils-narrow/is-record"
 import * as resolve from "resolve"
 import type * as ts from "typescript"
 import * as cliDiagnostics from "../cli-diagnostics/cli-diagnostics.module.code.ts"
+import type { CompilerOptions } from "../compiler-options/compiler-options.module.code.ts"
 import type { Visitors } from "../context-visitors/context-visitors.module.code.ts"
 import * as diagnosticFactories from "../transpile-diagnostics/transpile-diagnostics.module.code.ts"
 import type {
@@ -10,7 +11,6 @@ import type {
   ProcessedFile,
 } from "../transpile-emit-file/transpile-emit-file.module.code.ts"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
-import type { CompilerOptions } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import type { Printer } from "../tstl-lua-printer-helpers/tstl-lua-printer-helpers.module.code.ts"
 import * as performance from "../tstl-measure-performance/tstl-measure-performance.module.code.ts"
 

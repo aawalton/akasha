@@ -4,6 +4,7 @@ import { isRecord } from "@akasha/utils-narrow/is-record"
 import * as resolve from "enhanced-resolve"
 import picomatch from "picomatch"
 import * as ts from "typescript"
+import type { CompilerOptions } from "../compiler-options/compiler-options.module.code.ts"
 import {
   couldNotReadDependency,
   couldNotResolveRequire,
@@ -36,7 +37,6 @@ import {
   replaceRequireInCode,
   replaceRequireInSourceMap,
 } from "../transpile-resolve-require-replacement/transpile-resolve-require-replacement.module.code.ts"
-import type { CompilerOptions } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import { normalizeSlashes } from "../tstl-utils/tstl-utils.module.code.ts"
 
 const resolver = resolve.ResolverFactory.createResolver({

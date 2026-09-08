@@ -1,4 +1,5 @@
 import * as ts from "typescript"
+import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import {
   moveToPrecedingTemp as moveToPrecedingTempImpl,
   shouldMoveToTemp as shouldMoveToTempImpl,
@@ -19,7 +20,6 @@ import type {
   StatementLikeNode,
   VisitorMap,
 } from "../context-visitors/context-visitors.module.code.ts"
-import { LuaTarget } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import { unsupportedNodeKind } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import {
   type OneToManyVisitorResult,

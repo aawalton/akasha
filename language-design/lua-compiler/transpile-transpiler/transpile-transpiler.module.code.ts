@@ -1,5 +1,11 @@
 import * as path from "node:path"
 import * as ts from "typescript"
+import {
+  type CompilerOptions,
+  isBundleEnabled,
+  LuaLibImportKind,
+  LuaTarget,
+} from "../compiler-options/compiler-options.module.code.ts"
 import { getBundleResult } from "../transpile-bundle/transpile-bundle.module.code.ts"
 import type {
   EmitFile,
@@ -16,12 +22,6 @@ import {
   getProgramTranspileResult,
   type TranspileOptions,
 } from "../transpile-transpile/transpile-transpile.module.code.ts"
-import {
-  type CompilerOptions,
-  isBundleEnabled,
-  LuaLibImportKind,
-  LuaTarget,
-} from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import { lualibTranspilerHolder } from "../tstl-lualib-builder-deps/tstl-lualib-builder-deps.module.code.ts"
 import {
   buildMinimalLualibBundle,

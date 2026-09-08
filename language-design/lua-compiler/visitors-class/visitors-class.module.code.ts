@@ -1,10 +1,10 @@
 import * as ts from "typescript"
+import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type {
   AllAccessorDeclarations,
   TransformationContext,
 } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { LuaTarget } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import {
   createDefaultExportExpression,
   createExportedIdentifier,

@@ -1,7 +1,7 @@
 import * as path from "node:path"
 import * as ts from "typescript"
+import { BuildMode } from "../compiler-options/compiler-options.module.code.ts"
 import type { LuaRequire } from "../transpile-find-lua-requires/transpile-find-lua-requires.module.code.ts"
-import { BuildMode } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import { formatPathToLuaPath, trimExtension } from "../tstl-utils/tstl-utils.module.code.ts"
 
 export function shouldRewriteRequires(resolvedDependency: string, program: ts.Program) {

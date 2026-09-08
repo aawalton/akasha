@@ -31,8 +31,8 @@ import {
   transformStringPrototypeCall,
 } from "../builtin-string/builtin-string.module.code.ts"
 import { transformSymbolConstructorCall } from "../builtin-symbol/builtin-symbol.module.code.ts"
+import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { LuaTarget } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import {
   unsupportedBuiltinOptionalCall,
   unsupportedProperty,

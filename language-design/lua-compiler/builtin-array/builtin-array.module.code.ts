@@ -1,6 +1,6 @@
 import * as ts from "typescript"
+import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { LuaTarget } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import { unsupportedProperty } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import { isUnpackCall, wrapInTable } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"

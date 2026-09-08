@@ -6,12 +6,12 @@ import {
   locateConfigFile,
   parseConfigFileWithSystem,
 } from "../cli-tsconfig/cli-tsconfig.module.code.ts"
+import type * as tstlCompilerOptions from "../compiler-options/compiler-options.module.code.ts"
+import { isBundleEnabled } from "../compiler-options/compiler-options.module.code.ts"
 import * as tstlTranspiler from "../transpile-transpiler/transpile-transpiler.module.code.ts"
 import { getHelpString, name } from "../tstl-cli-information/tstl-cli-information.module.code.ts"
 import { parseCommandLine } from "../tstl-cli-parse/tstl-cli-parse.module.code.ts"
 import { createDiagnosticReporter } from "../tstl-cli-report/tstl-cli-report.module.code.ts"
-import type * as tstlCompilerOptions from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
-import { isBundleEnabled } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import * as performance from "../tstl-measure-performance/tstl-measure-performance.module.code.ts"
 
 const shouldBePretty = ({ pretty }: ts.CompilerOptions = {}) =>

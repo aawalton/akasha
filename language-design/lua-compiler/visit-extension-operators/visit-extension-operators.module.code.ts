@@ -1,6 +1,6 @@
 import type * as ts from "typescript"
+import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { LuaTarget } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import { unsupportedForTarget } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import {
   ExtensionKind,

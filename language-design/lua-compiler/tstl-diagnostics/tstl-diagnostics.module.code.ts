@@ -1,9 +1,6 @@
 import * as ts from "typescript"
 import type { AnnotationKind } from "../annotations/annotations.module.code.ts"
-import {
-  LuaTarget,
-  type TstlOptions,
-} from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
+import { LuaTarget, type TstlOptions } from "../compiler-options/compiler-options.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import { createSerialDiagnosticFactory } from "../tstl-utils/tstl-utils.module.code.ts"
 

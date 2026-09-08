@@ -7,7 +7,7 @@ import {
   type CompilerOptions,
   LuaLibImportKind,
   LuaTarget,
-} from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
+} from "../compiler-options/compiler-options.module.code.ts"
 
 const JsonArraySchema = z.unknown()
 

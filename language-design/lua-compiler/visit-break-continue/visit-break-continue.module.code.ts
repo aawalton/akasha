@@ -1,7 +1,7 @@
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type * as ts from "typescript"
+import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
-import { LuaTarget } from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { findScope, LoopContinued, ScopeType } from "../tstl-scope/tstl-scope.module.code.ts"

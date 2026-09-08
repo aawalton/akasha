@@ -1,12 +1,12 @@
 import type * as ts from "typescript"
 import type {
+  CompilerOptions,
+  LuaTarget,
+} from "../compiler-options/compiler-options.module.code.ts"
+import type {
   ExpressionLikeNode,
   StatementLikeNode,
 } from "../context-visitors/context-visitors.module.code.ts"
-import type {
-  CompilerOptions,
-  LuaTarget,
-} from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
 import type { OneToManyVisitorResult } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
 import type * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import type * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"

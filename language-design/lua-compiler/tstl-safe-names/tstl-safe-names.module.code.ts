@@ -1,9 +1,9 @@
 import type * as ts from "typescript"
-import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import {
   type CompilerOptions,
   LuaTarget,
-} from "../tstl-compiler-options/tstl-compiler-options.module.code.ts"
+} from "../compiler-options/compiler-options.module.code.ts"
+import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import { invalidAmbientIdentifierName } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import { isSymbolExported } from "../tstl-export/tstl-export.module.code.ts"
 import { isAmbientNode } from "../tstl-typescript/tstl-typescript.module.code.ts"
