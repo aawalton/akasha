@@ -123,6 +123,7 @@ export const clusterCheck = {
     "module/color-literal-scan",
     "module/addon-build-population",
     "module/alanwalton-ios-seam",
+    "module/app-capacitor-parity-divergences",
   ],
   properties: [
     {
