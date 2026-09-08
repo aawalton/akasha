@@ -17,7 +17,7 @@ export const pois = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A place here carries the label of the kind of point of interest the place is.",
+      statement: "A place here has the label of the kind of point of interest the place is.",
     },
   ],
 } as const satisfies PagePropertyEntry

@@ -63,7 +63,7 @@ export const sessions = {
     },
     {
       invariantKind: "departure",
-      statement: "A stretch carrying no end is the stretch running now.",
+      statement: "A stretch with no end is the stretch running now.",
     },
     {
       invariantKind: "gap",
@@ -72,7 +72,7 @@ export const sessions = {
     {
       invariantKind: "departure",
       statement:
-        "A calculation is handed the rows this file has in place of the extension the page carries.",
+        "A calculation is handed the rows this file has in place of the extension the page has.",
     },
     {
       invariantKind: "departure",

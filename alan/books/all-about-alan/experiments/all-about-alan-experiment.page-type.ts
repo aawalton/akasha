@@ -27,7 +27,7 @@ export const allAboutAlanExperiment = {
     {
       invariantKind: "departure",
       statement:
-        "An experiment carries the material the experiment is run with rather than any topic or finding.",
+        "An experiment has the material the experiment is run with rather than any topic or finding.",
     },
     {
       invariantKind: "departure",

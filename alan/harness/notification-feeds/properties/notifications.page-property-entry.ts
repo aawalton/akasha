@@ -41,7 +41,7 @@ export const notifications = {
     },
     {
       invariantKind: "departure",
-      statement: "A notification carrying no instant that notification was read at is unread.",
+      statement: "A notification with no instant that notification was read at is unread.",
     },
     {
       invariantKind: "departure",

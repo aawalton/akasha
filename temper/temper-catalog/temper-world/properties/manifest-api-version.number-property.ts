@@ -7,6 +7,6 @@ export const manifestApiVersion = {
   pageTypeSlug: "number-property",
   slug: "manifest-api-version",
   propertySlug: "manifest-api-version",
-  definition: "the manifest number a game build carries",
+  definition: "the manifest number a game build has",
   max: null,
 } as const satisfies NumberProperty

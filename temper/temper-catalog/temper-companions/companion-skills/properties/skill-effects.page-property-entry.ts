@@ -60,11 +60,11 @@ export const skillEffects = {
     },
     {
       invariantKind: "departure",
-      statement: "An effect that delays or repeats carries an inner effect.",
+      statement: "An effect that delays or repeats has an inner effect.",
     },
     {
       invariantKind: "constraint",
-      statement: "A skill carrying no effect states no effect rather than an empty list.",
+      statement: "A skill with no effect states no effect rather than an empty list.",
     },
   ],
 } as const satisfies PagePropertyEntry

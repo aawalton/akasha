@@ -11,7 +11,6 @@ import type { LearnStoplight } from "./properties/learn-stoplight.computed-prope
 import type { LoveLevel } from "./properties/love-level.computed-property.ts"
 import type { LoveStoplight } from "./properties/love-stoplight.computed-property.ts"
 import type { ProjectHours } from "./properties/project-hours.computed-property.ts"
-import type { WorkedSessions } from "./properties/sessions.page-property-entry.ts"
 import type { SleepHours } from "./properties/sleep-hours.computed-property.ts"
 import type { SpendHours } from "./properties/spend-hours.computed-property.ts"
 import type { Stoplights } from "./properties/stoplights.computed-property.ts"
@@ -22,8 +21,7 @@ import type { TotalLevel } from "./properties/total-level.computed-property.ts"
 import type { WealthLevel } from "./properties/wealth-level.computed-property.ts"
 import type { WealthStoplight } from "./properties/wealth-stoplight.computed-property.ts"
 
-export type WorkedDay = Omit<Day, "sessions"> & {
-  sessions?: WorkedSessions
+export type WorkedDay = Day & {
   activityCalories?: ActivityCalories
   strengthCalories?: StrengthCalories
   strengthVolume?: StrengthVolume

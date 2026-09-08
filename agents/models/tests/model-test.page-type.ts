@@ -44,11 +44,11 @@ export const modelTest = {
     },
     {
       invariantKind: "departure",
-      statement: "A test carries no address for a model.",
+      statement: "A test has no address for a model.",
     },
     {
       invariantKind: "departure",
-      statement: "A case carries its own text.",
+      statement: "A case has its own text.",
     },
     {
       invariantKind: "departure",

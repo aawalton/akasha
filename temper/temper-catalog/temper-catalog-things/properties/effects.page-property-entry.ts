@@ -33,7 +33,7 @@ export const effects = {
     {
       invariantKind: "departure",
       statement:
-        "An effect moves a metric or puts a buff on the character or companion carrying the effect.",
+        "An effect moves a metric or puts a buff on the character or companion with the effect.",
     },
     {
       invariantKind: "departure",

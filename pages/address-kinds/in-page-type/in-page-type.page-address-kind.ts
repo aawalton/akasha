@@ -22,7 +22,7 @@ export const inPageType = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type carrying more than one such property is why the property is named.",
+      statement: "A page type with more than one such property is why the property is named.",
     },
   ],
 } as const satisfies PageAddressKind

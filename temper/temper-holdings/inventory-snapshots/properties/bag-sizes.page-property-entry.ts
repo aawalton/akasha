@@ -20,7 +20,7 @@ export const bagSizes = {
     },
     {
       invariantKind: "departure",
-      statement: "A holder carrying no bag of a kind has no line for that kind.",
+      statement: "A holder with no bag of a kind has no line for that kind.",
     },
   ],
 } as const satisfies PagePropertyEntry

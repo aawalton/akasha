@@ -17,7 +17,7 @@ export const maxLevel = {
     },
     {
       invariantKind: "departure",
-      statement: "A character the text never levels carries no highest level.",
+      statement: "A character the text never levels has no highest level.",
     },
   ],
 } as const satisfies NumberProperty

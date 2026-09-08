@@ -33,7 +33,7 @@ export const castConditions = {
     },
     {
       invariantKind: "departure",
-      statement: "A test gathering several tests carries each gathered test.",
+      statement: "A test gathering several tests has each gathered test.",
     },
     {
       invariantKind: "constraint",

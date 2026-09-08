@@ -23,11 +23,11 @@ export const chronologyAnchors = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An anchor is one place in one chapter rather than a date the chapter carries.",
+      statement: "An anchor is one place in one chapter rather than a date the chapter has.",
     },
     {
       invariantKind: "departure",
-      statement: "An anchor carries the words that date the anchor.",
+      statement: "An anchor has the words that date the anchor.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const chronologyAnchors = {
     },
     {
       invariantKind: "gap",
-      statement: "Every chapter a world's chronology rests on carries its anchors here.",
+      statement: "Every chapter a world's chronology rests on has its anchors here.",
     },
   ],
 } as const satisfies PagePropertyEntry

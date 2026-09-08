@@ -31,7 +31,7 @@ export const puzzles = {
     },
     {
       invariantKind: "absence",
-      statement: "A row nobody has answered carries no answer.",
+      statement: "A row nobody has answered has no answer.",
     },
     {
       invariantKind: "absence",

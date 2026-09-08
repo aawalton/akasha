@@ -12,7 +12,7 @@ export const doctrineVersion = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Changing the doctrine a pack carries without raising this number is refused.",
+      statement: "Changing the doctrine a pack has without raising this number is refused.",
     },
   ],
 } as const satisfies NumberProperty
