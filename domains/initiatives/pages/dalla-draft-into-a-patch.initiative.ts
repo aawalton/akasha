@@ -18,9 +18,9 @@ export const dallaDraftIntoAPatch = {
         "Two functions named `textIn` differ: `change-running:70` throws `NOT_TEXT` where `decodeUtf8` answers null, and `mechanical-change-running:39` answers null instead. The `askedFor` twins refuse with `notUtf8` before either is reached. `holdsBytes` is true on the two wallpaper file properties and nowhere else, and `no-raw-nul-bytes` and `change-taboo-terms` both read it. A file declaring bytes is carried rather than decoded.",
     },
     {
-      statement: "A change is reached by its address rather than by an import.",
+      statement: "A helper two changes share lives in a module rather than in one of the changes.",
       workingMemory:
-        "What is left is a change importing another change's code for a helper rather than reaching it: `rename-page` from `rename-package` and from `rename-page-slug`, `remove-package-alias` from `rename-package` and from `remove-manifest-ways`, `change-page-page-type` from `change-imports`, `add-page-property` from `add-property-value`. `runAgentChange` has no caller.",
+        "Every reach from one change to another goes by address. Ten imports remain, each borrowing a helper rather than reaching work: splice and property arithmetic from `add-property-value` and `remove-property-value`, manifest arithmetic from `remove-manifest-ways`, package parsing from `rename-package`, and two more. `changes/modules` already holds `change-answer` and `page-literal`. `runAgentChange` has no caller and cannot go: it is all its file holds, and `code` is required on `page-type/module`.",
     },
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
