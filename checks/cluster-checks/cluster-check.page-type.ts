@@ -121,6 +121,7 @@ export const clusterCheck = {
     "module/tsconfig-source-layout",
     "module/tsconfig-rule-guidance",
     "module/color-literal-scan",
+    "module/addon-build-population",
   ],
   properties: [
     {
