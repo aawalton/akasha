@@ -22,7 +22,7 @@ export const alan = {
     "domain/self",
     "domain/self-care",
     "domain/style",
-    "domain/tracking",
+    "domain/track",
     "domain/visual-arts",
     "page-type/alan-book",
     "page-type/attribute",

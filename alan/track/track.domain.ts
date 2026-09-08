@@ -1,13 +1,13 @@
 import type { Domain } from "../../domains/domain.page-type.ts"
 
-export const tracking = {
+export const track = {
   id: "01a062dc-1b7f-7bbe-a348-b71f1bbf4c9c",
   pageTypeSlug: "domain",
-  slug: "tracking",
+  slug: "track",
   definition: "what is measured about Alan",
   partSlugs: [
     "domain/tracking-capture",
-    "domain/tracking-daily",
+    "domain/track-daily",
     "page-type/food-entry",
     "page-type/location-trace",
     "page-type/session-activity",
