@@ -4,7 +4,6 @@ import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import { endingOf } from "@akasha/utils-run/running"
 import {
-  everyFileOf,
   input,
   type Selector,
   TEXTS,
@@ -75,8 +74,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const named = namedIn(change)
   const first = named[0]
   if (first === undefined) return []
-  const over = [...new Set([...everyFileOf(shadow.index), ...change.changed])]
-  const world = worldOf(change.root, over, change.after, shadow.filed())
+  const world = worldOf(change.root, change.changed, change.after, shadow.filed())
   try {
     const ran = ranOver(world.root, named, named.length)
     if (ran.verdict === "pass") return []

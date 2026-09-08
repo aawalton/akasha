@@ -254,6 +254,38 @@ function rootMade(held: string): string {
   }
 }
 
+export function foldersOf(paths: readonly string[]): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const one of paths) {
+    let at = dirname(one)
+    while (at !== "." && at !== sep) {
+      found.add(at)
+      at = dirname(at)
+    }
+  }
+  return found
+}
+
+export function laidOver(
+  from: string,
+  root: string,
+  folders: ReadonlySet<string>,
+  apart: ReadonlySet<string>,
+  rel: string
+): undefined {
+  const here = rel === "" ? from : join(from, rel)
+  for (const one of readdirSync(here, { withFileTypes: true })) {
+    const at = rel === "" ? one.name : `${rel}/${one.name}`
+    if (apart.has(at)) continue
+    if (one.isDirectory() && folders.has(at)) {
+      mkdirSync(join(root, at), { recursive: true })
+      laidOver(from, root, folders, apart, at)
+      continue
+    }
+    symlinkSync(join(here, one.name), join(root, at))
+  }
+}
+
 export function worldOf(
   from: string,
   paths: readonly string[],
@@ -263,11 +295,18 @@ export function worldOf(
   const held = heldMade()
   const root = rootMade(held)
   try {
+    const bodies = new Map<string, Uint8Array>()
     for (const one of paths) {
       const bytes = reaching(root, `the body handed in for \`${one}\` would not be read`, () =>
         at(one)
       )
-      if (bytes === null) continue
+      if (bytes !== null) bodies.set(one, bytes)
+    }
+    const apart = new Set<string>([...paths, ...CARRIED, MODULES, GIT_DIR])
+    reaching(root, `the tree at ${from} would not be laid over`, () =>
+      laidOver(from, root, foldersOf(paths), apart, "")
+    )
+    for (const [one, bytes] of bodies) {
       const to = join(root, one)
       reaching(root, `\`${one}\` would not be written`, () => {
         mkdirSync(dirname(to), { recursive: true })
@@ -276,17 +315,18 @@ export function worldOf(
     }
     const index = join(from, INDEX)
     if (filed !== null && existsSync(index)) {
-      reaching(root, `the index at ${index} would not be taken`, () => {
+      reaching(root, `the index at ${index} would not be laid over`, () => {
         const to = join(root, INDEX)
-        mkdirSync(dirname(to), { recursive: true })
-        cpSync(index, to, { recursive: true })
+        mkdirSync(to, { recursive: true })
+        const named = filed.map((one) => one.at)
+        laidOver(index, to, foldersOf(named), new Set(named), "")
         filedInto(to, filed)
       })
     }
     for (const one of CARRIED) {
-      const held = join(from, one)
-      if (existsSync(held)) {
-        reaching(root, `${held} would not be taken`, () => cpSync(held, join(root, one)))
+      const there = join(from, one)
+      if (existsSync(there)) {
+        reaching(root, `${there} would not be taken`, () => cpSync(there, join(root, one)))
       }
     }
     reaching(root, `the modules under ${from} would not be linked`, () => modulesInto(from, root))
