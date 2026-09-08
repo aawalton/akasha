@@ -1,7 +1,7 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { answering, refusedBy } from "@akasha/command-system/command-answering"
 import { filing, wordFilling } from "@akasha/command-system/command-filling"
-import { buildSearchSql } from "../../../../imessage/chat-db/chat-db.module.code.ts"
+import { buildSearchSql } from "../../../../alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import {
   CONTACT_SAID,
   countOf,
@@ -13,12 +13,12 @@ import {
   proseIn,
   type Reading,
   wordsIn,
-} from "../../../../imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
+} from "../../../../alan/harness/imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
 import {
   fetchContacts,
   fetchMessages,
   resolveContactHandleRowids,
-} from "../../../../imessage/remote/imessage-remote.module.code.ts"
+} from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
 
 const QUERY = filing("--query")
 

@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const messageLines = {
   id: "01a0657e-795c-7000-8a91-fdebae0f4233",

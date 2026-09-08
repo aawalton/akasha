@@ -246,6 +246,16 @@
         "zod": "^4.3.6",
       },
     },
+    "alan/harness/imessage": {
+      "name": "@akasha/imessage",
+      "dependencies": {
+        "@akasha/command-system": "workspace:*",
+        "@akasha/digit-padding": "workspace:*",
+        "@akasha/errors-core": "workspace:*",
+        "@akasha/ssh-access": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "alan/harness/location-traces-access": {
       "name": "@akasha/location-traces-access",
     },
@@ -928,16 +938,6 @@
     },
     "id-minting": {
       "name": "@akasha/id-minting",
-    },
-    "imessage": {
-      "name": "@akasha/imessage",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/digit-padding": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/ssh-access": "workspace:*",
-        "zod": "^4.3.6",
-      },
     },
     "inference/clients": {
       "name": "@akasha/inference-clients",
@@ -3069,7 +3069,7 @@
 
     "@akasha/idle-system": ["@akasha/idle-system@workspace:alan/harness/idle-system"],
 
-    "@akasha/imessage": ["@akasha/imessage@workspace:imessage"],
+    "@akasha/imessage": ["@akasha/imessage@workspace:alan/harness/imessage"],
 
     "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
 

@@ -1,6 +1,6 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { answering, flagsAloneIn, refusedBy } from "@akasha/command-system/command-answering"
-import { buildRecentSql } from "../../../../imessage/chat-db/chat-db.module.code.ts"
+import { buildRecentSql } from "../../../../alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import {
   CONTACT_SAID,
   countOf,
@@ -11,12 +11,12 @@ import {
   namingIn,
   type Reading,
   wordsIn,
-} from "../../../../imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
+} from "../../../../alan/harness/imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
 import {
   fetchContacts,
   fetchMessages,
   resolveContactHandleRowids,
-} from "../../../../imessage/remote/imessage-remote.module.code.ts"
+} from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
 
 const VALUED = [LIMIT_SAID, CONTACT_SAID]
 
