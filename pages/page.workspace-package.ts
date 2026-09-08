@@ -33,6 +33,7 @@ export const page = {
     "page-type/text-property",
     "page-type/number-property",
     "page-type/computed-property",
+    "page-type/computed-property-module",
     "page-type/boolean-property",
     "page-type/instant-property",
     "page-type/relation-property",
