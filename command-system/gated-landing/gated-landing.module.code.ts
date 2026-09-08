@@ -1,5 +1,6 @@
+import type { Asking } from "@akasha/changes/mechanical-change-running"
+import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { landedMechanically } from "../asking/asking.module.code.ts"
 
 export type GatedRepo = "akasha"
 
@@ -19,35 +20,20 @@ export type Landed =
   | { readonly ok: true; readonly sha: string | null; readonly unpushed: string | null }
   | { readonly ok: false; readonly why: string }
 
-interface Change {
-  readonly path: string
-  readonly body: Uint8Array | null
-}
+const PUT = "change-mechanical-file/add-file"
+
+const TAKE = "change-mechanical-file/remove-file"
 
 function rootOf(act: GatedAct): string {
   return act.root ?? rootFor(resolveRoots(), act.repo)
 }
 
-// The landing reports the commit in its own words. The older `commit: <sha>` line came from the
-// ops-cli commands this no longer calls, and is read here too so an older report is still understood.
-const COMMITTED = /(?:committed as|^commit:)\s+([0-9a-f]{7,40})/m
-
-export function shaIn(output: string): string | null {
-  const said = COMMITTED.exec(output)
-  return said === null ? null : (said[1] as string)
-}
-
-// This runs on the workstation, so the bytes go into the landing in process rather than out to the
-// pages service or through a command line. A body of null is how a landing is told to take a path
-// away, so one call carries both what is written and what goes. A path is read against the root,
-// so it is named relative to the root rather than absolute.
-async function landing(act: GatedAct, changes: readonly Change[]): Promise<Landed> {
-  if (changes.length === 0) return { ok: true, sha: null, unpushed: null }
-  const said = await landedMechanically(rootOf(act), act.writer, changes, act.message)
-  if (said.code !== 0) {
-    return { ok: false, why: said.refusals.join("\n") || said.report.join("\n") }
-  }
-  return { ok: true, sha: shaIn(said.report.join("\n")), unpushed: null }
+async function landing(act: GatedAct, asked: readonly Asking[]): Promise<Landed> {
+  if (asked.length === 0) return { ok: true, sha: null, unpushed: null }
+  const said = await runMechanicalChange(rootOf(act), asked, act.message)
+  if ("refusals" in said) return { ok: false, why: said.refusals.join("\n") }
+  if (said.wrong.length > 0) return { ok: false, why: said.wrong.join("\n") }
+  return { ok: true, sha: said.commit, unpushed: null }
 }
 
 export async function landBodies(
@@ -56,14 +42,14 @@ export async function landBodies(
   removing: readonly string[] = []
 ): Promise<Landed> {
   return await landing(act, [
-    ...bodies.map((one) => ({ path: one.relPath, body: new TextEncoder().encode(one.body) })),
-    ...removing.map((relPath) => ({ path: relPath, body: null })),
+    ...bodies.map((one): Asking => ({ at: PUT, given: { at: one.relPath, body: one.body } })),
+    ...removing.map((relPath): Asking => ({ at: TAKE, given: { at: relPath } })),
   ])
 }
 
 export async function landRemovals(act: GatedAct, relPaths: readonly string[]): Promise<Landed> {
   return await landing(
     act,
-    relPaths.map((relPath) => ({ path: relPath, body: null }))
+    relPaths.map((relPath): Asking => ({ at: TAKE, given: { at: relPath } }))
   )
 }
