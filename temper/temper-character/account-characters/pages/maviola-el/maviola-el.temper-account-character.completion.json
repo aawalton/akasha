@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATAHIsdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQYQyWeA",
+  "buildHash": "ATAHIrdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQYQyWeA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -1008,6 +1008,7 @@
     6515,
     6532,
     6547,
+    6548,
     6550,
     6551,
     6564,
@@ -6938,8 +6939,8 @@
     "groupDungeonTotal": 26,
     "tutorial": 0,
     "skyshardPoints": 176,
-    "unassigned": 155,
-    "zoneQuestTotal": 113,
+    "unassigned": 156,
+    "zoneQuestTotal": 114,
     "publicDungeons": {
       "EP4": 1,
       "AD1": 1,
@@ -7102,7 +7103,7 @@
       "EP2": 3,
       "DC2": 3,
       "DC0a": 0,
-      "TR": 3,
+      "TR": 4,
       "DC3": 3,
       "WR": 3,
       "DC4": 3,
@@ -7135,7 +7136,7 @@
       "AP": 8,
       "GY": 0
     },
-    "total": 443,
+    "total": 444,
     "maelstromArena": 1
   },
   "traitResearch": {
@@ -12997,7 +12998,8 @@
       "1": {
         "1": 1,
         "2": 2,
-        "3": 3
+        "3": 3,
+        "4": 4
       },
       "2": {
         "1": 1,
