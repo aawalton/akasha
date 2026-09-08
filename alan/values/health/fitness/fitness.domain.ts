@@ -9,7 +9,6 @@ export const fitness = {
     "page-type/coaching-constraint",
     "page-type/equipment-item",
     "page-type/exercise",
-    "page-type/exercise-collection",
     "page-type/mobility-reading",
     "page-type/schedule-day",
     "page-type/set-log",
