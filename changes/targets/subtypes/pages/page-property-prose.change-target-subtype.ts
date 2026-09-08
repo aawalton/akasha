@@ -6,5 +6,5 @@ export const pagePropertyProse = {
   slug: "page-property-prose",
   definition: "a page property whose value is read as prose",
   changeTargetTypeSlug: "change-target-type/file-content",
-  parentSlug: "change-target-subtype/page-property",
+  parentSlug: "change-target-subtype/file-content-page-property-value",
 } as const satisfies ChangeTargetSubtype
