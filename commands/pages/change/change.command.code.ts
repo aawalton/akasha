@@ -55,7 +55,6 @@ import {
 } from "../../../command-system/command-flags/command-flags.module.code.ts"
 import type { Taking } from "../../../command-system/commands/properties/taking.record-property.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
-import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
 import { inputIn, type Piping } from "../../../command-system/piping/piping.module.code.ts"
 import { offRepo, pathAt } from "../../../command-system/said-pathing/said-pathing.module.code.ts"
 import { change as changePage } from "./change.command.ts"
@@ -78,7 +77,12 @@ const APPLY = "apply"
 
 const NO_MESSAGE = "`apply` takes the commit message, and the message given is empty"
 
-const COMMAND_TYPES: readonly string[] = ["change-agent", "change-checked", "change-authored", "change-restated"]
+const COMMAND_TYPES: readonly string[] = [
+  "change-agent",
+  "change-checked",
+  "change-authored",
+  "change-restated",
+]
 
 const DROP = "drop"
 
