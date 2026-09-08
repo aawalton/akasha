@@ -5,7 +5,7 @@ export const taylorSwift2DaylightLiveFromParis = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-daylight-live-from-paris",
   title: "Daylight (Live From Paris)",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 4.372,
   ownProgress: 4.372,

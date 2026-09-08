@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareWinterMorning = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-winter-morning",
   title: "Winter Morning",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 28.6893,
   ownProgress: 0,

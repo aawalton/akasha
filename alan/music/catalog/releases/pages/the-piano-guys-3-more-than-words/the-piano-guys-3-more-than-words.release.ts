@@ -5,7 +5,7 @@ export const thePianoGuys3MoreThanWords = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-more-than-words",
   title: "More Than Words",
-  partOfSlugs: ["the-piano-guys-3"],
+  partOfCollectionSlugs: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.931333,
   ownProgress: 3.931333,

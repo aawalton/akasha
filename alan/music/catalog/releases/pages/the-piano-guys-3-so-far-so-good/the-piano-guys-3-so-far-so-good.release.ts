@@ -5,7 +5,7 @@ export const thePianoGuys3SoFarSoGood = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-so-far-so-good",
   title: "So Far, So Good",
-  partOfSlugs: ["the-piano-guys-3"],
+  partOfCollectionSlugs: ["the-piano-guys-3"],
   position: 0,
   ownLength: 51.949267,
   ownProgress: 51.949267,

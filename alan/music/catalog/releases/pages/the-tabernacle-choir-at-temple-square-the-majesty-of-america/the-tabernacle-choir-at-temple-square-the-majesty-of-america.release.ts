@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareTheMajestyOfAmerica = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-majesty-of-america",
   title: "The Majesty of America",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 86.796267,
   ownProgress: 86.796267,

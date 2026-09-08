@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareShowtimeMusicOfBroadwayAndHollywood
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-showtime-music-of-broadway-and-hollywood",
   title: "Showtime! Music of Broadway and Hollywood",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 61.18525,
   ownProgress: 0,

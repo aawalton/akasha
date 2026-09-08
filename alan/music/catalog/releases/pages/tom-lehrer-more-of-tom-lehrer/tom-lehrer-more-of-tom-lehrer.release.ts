@@ -5,7 +5,7 @@ export const tomLehrerMoreOfTomLehrer = {
   pageTypeSlug: "release",
   slug: "tom-lehrer-more-of-tom-lehrer",
   title: "More of Tom Lehrer",
-  partOfSlugs: ["tom-lehrer"],
+  partOfCollectionSlugs: ["tom-lehrer"],
   position: 0,
   ownLength: 28.717267,
   ownProgress: 28.717267,

@@ -5,7 +5,7 @@ export const taylorSwift2AntiHeroFeatBleachers = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-anti-hero-feat-bleachers",
   title: "Anti-Hero (feat. Bleachers)",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 7.15145,
   ownProgress: 7.15145,

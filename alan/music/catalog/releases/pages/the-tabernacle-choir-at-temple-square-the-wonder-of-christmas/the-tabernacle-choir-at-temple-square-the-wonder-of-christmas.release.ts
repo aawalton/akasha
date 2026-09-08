@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareTheWonderOfChristmas = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-wonder-of-christmas",
   title: "The Wonder of Christmas",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 58.931017,
   ownProgress: 0,

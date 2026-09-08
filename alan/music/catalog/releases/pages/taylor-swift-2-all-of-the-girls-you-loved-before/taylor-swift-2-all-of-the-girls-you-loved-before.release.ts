@@ -5,7 +5,7 @@ export const taylorSwift2AllOfTheGirlsYouLovedBefore = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-all-of-the-girls-you-loved-before",
   title: "All Of The Girls You Loved Before",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.690117,
   ownProgress: 3.690117,

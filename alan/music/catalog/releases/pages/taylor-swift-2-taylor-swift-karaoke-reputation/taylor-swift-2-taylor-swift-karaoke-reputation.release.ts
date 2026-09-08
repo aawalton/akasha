@@ -5,7 +5,7 @@ export const taylorSwift2TaylorSwiftKaraokeReputation = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-taylor-swift-karaoke-reputation",
   title: "Taylor Swift Karaoke: reputation",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 55.665233,
   ownProgress: 55.665233,

@@ -5,7 +5,7 @@ export const taylorSwift2Willow90STrendRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-willow-90-s-trend-remix",
   title: "willow (90's trend remix)",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.751767,
   ownProgress: 3.751767,

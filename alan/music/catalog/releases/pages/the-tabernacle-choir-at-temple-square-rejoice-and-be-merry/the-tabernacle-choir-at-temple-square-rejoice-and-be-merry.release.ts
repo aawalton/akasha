@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareRejoiceAndBeMerry = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-rejoice-and-be-merry",
   title: "Rejoice and Be Merry!",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 73.891667,
   ownProgress: 0,

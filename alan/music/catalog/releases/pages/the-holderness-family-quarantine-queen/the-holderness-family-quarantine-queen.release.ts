@@ -5,7 +5,7 @@ export const theHoldernessFamilyQuarantineQueen = {
   pageTypeSlug: "release",
   slug: "the-holderness-family-quarantine-queen",
   title: "Quarantine Queen",
-  partOfSlugs: ["the-holderness-family"],
+  partOfCollectionSlugs: ["the-holderness-family"],
   position: 0,
   ownLength: 2.2291,
   ownProgress: 2.2291,

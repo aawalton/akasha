@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareRozsaThreeChoralSuites = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-rozsa-three-choral-suites",
   title: "Rózsa: Three Choral Suites",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 61.34675,
   ownProgress: 0,

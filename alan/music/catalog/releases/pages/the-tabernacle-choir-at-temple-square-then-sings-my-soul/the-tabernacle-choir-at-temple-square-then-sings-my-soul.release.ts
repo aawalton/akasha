@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareThenSingsMySoul = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-then-sings-my-soul",
   title: "Then Sings My Soul",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 76.71345,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const taylorSwift2SpeakNowTaylorSVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-speak-now-taylor-s-version",
   title: "Speak Now (Taylor's Version)",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 104.734183,
   ownProgress: 104.734183,

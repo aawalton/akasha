@@ -5,7 +5,7 @@ export const taylorSwift2OpaliteBuntRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-opalite-bunt-remix",
   title: "Opalite (BUNT. Remix)",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.5461,
   ownProgress: 0,

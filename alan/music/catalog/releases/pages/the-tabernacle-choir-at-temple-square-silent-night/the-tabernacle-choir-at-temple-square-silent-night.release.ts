@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSilentNight = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-silent-night",
   title: "Silent Night",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 4.626217,
   ownProgress: 0,

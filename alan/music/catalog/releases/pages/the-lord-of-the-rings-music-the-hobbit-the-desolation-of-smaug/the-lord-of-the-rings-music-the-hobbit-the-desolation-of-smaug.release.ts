@@ -6,7 +6,7 @@ export const theLordOfTheRingsMusicTheHobbitTheDesolationOfSmaug = {
   slug: "the-lord-of-the-rings-music-the-hobbit-the-desolation-of-smaug",
   title:
     "The Hobbit: The Desolation of Smaug (Original Motion Picture Soundtrack) [Special Edition]",
-  partOfSlugs: ["the-lord-of-the-rings-music"],
+  partOfCollectionSlugs: ["the-lord-of-the-rings-music"],
   position: 5,
   ownLength: 129.532117,
   ownProgress: 0,

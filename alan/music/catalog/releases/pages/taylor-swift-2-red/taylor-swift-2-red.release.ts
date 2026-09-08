@@ -5,7 +5,7 @@ export const taylorSwift2Red = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-red",
   title: "Red",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 64.923233,
   ownProgress: 64.923233,

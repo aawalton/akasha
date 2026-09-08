@@ -5,7 +5,7 @@ export const thePianoGuys3SweetChildOMine = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-sweet-child-o-mine",
   title: "Sweet Child o' Mine",
-  partOfSlugs: ["the-piano-guys-3"],
+  partOfCollectionSlugs: ["the-piano-guys-3"],
   position: 0,
   ownLength: 4.329167,
   ownProgress: 4.329167,

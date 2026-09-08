@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareTheJoyOfChristmas = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-joy-of-christmas",
   title: "The Joy of Christmas",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 49.808783,
   ownProgress: 49.808783,

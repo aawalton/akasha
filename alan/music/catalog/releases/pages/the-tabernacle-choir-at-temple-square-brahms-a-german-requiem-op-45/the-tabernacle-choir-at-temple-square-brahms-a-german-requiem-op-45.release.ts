@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareBrahmsAGermanRequiemOp45 = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-brahms-a-german-requiem-op-45",
   title: "Brahms: A German Requiem, Op. 45 (New English Adaptation by Robert Shaw)",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 68.82595,
   ownProgress: 0,

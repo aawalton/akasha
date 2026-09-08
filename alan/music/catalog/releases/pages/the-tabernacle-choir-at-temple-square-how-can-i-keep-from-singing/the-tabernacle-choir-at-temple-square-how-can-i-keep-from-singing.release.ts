@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHowCanIKeepFromSinging = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-how-can-i-keep-from-singing",
   title: "How Can I Keep from Singing?",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 4.305983,
   ownProgress: 0,

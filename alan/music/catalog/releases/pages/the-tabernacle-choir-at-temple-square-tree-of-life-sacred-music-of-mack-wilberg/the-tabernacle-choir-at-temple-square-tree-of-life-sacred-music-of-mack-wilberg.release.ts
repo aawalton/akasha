@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareTreeOfLifeSacredMusicOfMackWilberg 
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-tree-of-life-sacred-music-of-mack-wilberg",
   title: "Tree of Life: Sacred Music of Mack Wilberg",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 79.395917,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareTheGreatThanksgiving = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-great-thanksgiving",
   title: "The Great Thanksgiving - Hymns and Songs of Thanks and Brotherhood",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 72.069867,
   ownProgress: 72.069867,

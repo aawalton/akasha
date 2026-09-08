@@ -5,7 +5,7 @@ export const taylorSwift2WillowLonelyWitchVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-willow-lonely-witch-version",
   title: "willow (lonely witch version)",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.57755,
   ownProgress: 3.57755,

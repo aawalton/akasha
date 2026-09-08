@@ -5,7 +5,7 @@ export const thePianoGuys3BeforeYouGo = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-before-you-go",
   title: "Before You Go",
-  partOfSlugs: ["the-piano-guys-3"],
+  partOfCollectionSlugs: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.883917,
   ownProgress: 3.883917,

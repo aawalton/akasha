@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareOnceUponAChristmas = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-once-upon-a-christmas",
   title: "Once Upon a Christmas",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 71.653733,
   ownProgress: 0,

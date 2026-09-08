@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareBelovedChorusesVolIi2025Remastererd
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-beloved-choruses-vol-ii-2025-remastererd",
   title: "Beloved Choruses, Vol II (2025 Remastererd)",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 20.977517,
   ownProgress: 20.977517,

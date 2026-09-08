@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareOHolyNight = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-o-holy-night",
   title: "O Holy Night: Christmas with The Tabernacle Choir & Orchestra at Temple Square",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 58.340383,
   ownProgress: 0,

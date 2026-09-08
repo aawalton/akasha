@@ -5,7 +5,7 @@ export const theHoldernessFamilyQuarantunesVolOne = {
   pageTypeSlug: "release",
   slug: "the-holderness-family-quarantunes-vol-one",
   title: "Quarantunes, Vol. One",
-  partOfSlugs: ["the-holderness-family"],
+  partOfCollectionSlugs: ["the-holderness-family"],
   position: 0,
   ownLength: 46.5096,
   ownProgress: 46.5096,

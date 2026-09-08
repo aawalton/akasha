@@ -5,7 +5,7 @@ export const taylorSwift2RenegadePopVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-renegade-pop-version",
   title: "Renegade (Pop Version)",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.858767,
   ownProgress: 3.858767,

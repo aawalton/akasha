@@ -5,7 +5,7 @@ export const theHoldernessFamilyBestOf2023 = {
   pageTypeSlug: "release",
   slug: "the-holderness-family-best-of-2023",
   title: "Best of 2023",
-  partOfSlugs: ["the-holderness-family"],
+  partOfCollectionSlugs: ["the-holderness-family"],
   position: 0,
   ownLength: 35.989083,
   ownProgress: 35.989083,

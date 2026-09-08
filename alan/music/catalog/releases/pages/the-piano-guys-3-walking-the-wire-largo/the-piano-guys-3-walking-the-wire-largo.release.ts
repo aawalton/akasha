@@ -5,7 +5,7 @@ export const thePianoGuys3WalkingTheWireLargo = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-walking-the-wire-largo",
   title: "Walking the Wire / Largo",
-  partOfSlugs: ["the-piano-guys-3"],
+  partOfCollectionSlugs: ["the-piano-guys-3"],
   position: 0,
   ownLength: 4.3011,
   ownProgress: 4.3011,

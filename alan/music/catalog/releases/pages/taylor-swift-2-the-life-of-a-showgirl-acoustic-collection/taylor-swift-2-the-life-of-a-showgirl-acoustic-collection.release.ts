@@ -5,7 +5,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollection = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-the-life-of-a-showgirl-acoustic-collection",
   title: "The Life of a Showgirl + Acoustic Collection",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 68.979233,
   ownProgress: 68.979233,

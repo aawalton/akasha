@@ -5,7 +5,7 @@ export const taylorSwift2TodayWasAFairytale = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-today-was-a-fairytale",
   title: "Today Was A Fairytale",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 4.030217,
   ownProgress: 4.030217,

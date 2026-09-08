@@ -5,7 +5,7 @@ export const taylorSwift2FortnightAcousticVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-fortnight-acoustic-version",
   title: "Fortnight (Acoustic Version)",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 10.870583,
   ownProgress: 10.870583,

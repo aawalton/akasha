@@ -5,7 +5,7 @@ export const taylorSwift2OpaliteElyOaksRemix = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-opalite-ely-oaks-remix",
   title: "Opalite (Ely Oaks Remix)",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.437417,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theHoldernessFamilyTheGreatestHitsVolOne = {
   pageTypeSlug: "release",
   slug: "the-holderness-family-the-greatest-hits-vol-one",
   title: "The Greatest Hits, Vol. One",
-  partOfSlugs: ["the-holderness-family"],
+  partOfCollectionSlugs: ["the-holderness-family"],
   position: 0,
   ownLength: 30.518767,
   ownProgress: 30.518767,

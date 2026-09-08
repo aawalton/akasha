@@ -5,7 +5,7 @@ export const thePianoGuys3BlessTheBrokenRoad = {
   pageTypeSlug: "release",
   slug: "the-piano-guys-3-bless-the-broken-road",
   title: "Bless the Broken Road",
-  partOfSlugs: ["the-piano-guys-3"],
+  partOfCollectionSlugs: ["the-piano-guys-3"],
   position: 0,
   ownLength: 3.924167,
   ownProgress: 3.924167,

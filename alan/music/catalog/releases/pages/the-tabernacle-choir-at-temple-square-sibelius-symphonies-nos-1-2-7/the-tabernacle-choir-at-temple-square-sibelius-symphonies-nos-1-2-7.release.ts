@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSibeliusSymphoniesNos127 = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-sibelius-symphonies-nos-1-2-7",
   title: "Sibelius: Symphonies Nos. 1,2,7 & Orchestral Works by Eugene Ormandy",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 146.402867,
   ownProgress: 0,

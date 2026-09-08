@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSpiritOfAmerica = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-spirit-of-america",
   title: "Spirit of America",
-  partOfSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 69.7639,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const taylorSwift2WildestDreamsTaylorSVersion = {
   pageTypeSlug: "release",
   slug: "taylor-swift-2-wildest-dreams-taylor-s-version",
   title: "Wildest Dreams (Taylor's Version)",
-  partOfSlugs: ["taylor-swift-2"],
+  partOfCollectionSlugs: ["taylor-swift-2"],
   position: 0,
   ownLength: 3.673883,
   ownProgress: 3.673883,
