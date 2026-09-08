@@ -47,7 +47,7 @@ export const RULE_GUIDANCE: Readonly<Record<string, RuleGuidance>> = {
     allowlist: "ALLOWED_CYCLES",
   },
   noOutDir: {
-    label: "Has compilerOptions.outDir without TSTL bundling",
+    label: "Has compilerOptions.outDir without Lua compiler bundling",
     act: (ws) => `remove "outDir" from compilerOptions in ${ws}/tsconfig.json`,
     allowlist: null,
   },
