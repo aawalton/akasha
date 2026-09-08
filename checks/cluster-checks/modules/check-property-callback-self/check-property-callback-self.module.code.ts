@@ -22,7 +22,7 @@ import { exitOnResult } from "../violation-reporting/violation-reporting.module.
 
 if (import.meta.main) refuseRetired()
 
-const PREFIX = "[tstl-property-callback-self]"
+const PREFIX = "[property-callback-self]"
 
 function topLevelGroup(filePath: string): string {
   const segs = filePath.split("/")
