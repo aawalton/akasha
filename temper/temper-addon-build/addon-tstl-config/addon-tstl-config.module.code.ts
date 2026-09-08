@@ -154,7 +154,7 @@ export function tstlConfigBody(asked: TstlConfigAsked): string {
       strict: true,
       types: [],
     },
-    tstl: {
+    luaCompiler: {
       luaTarget: "5.1",
       luaBundle: `${asked.canonicalName}.lua`,
       luaBundleEntry: asked.entryPath,
