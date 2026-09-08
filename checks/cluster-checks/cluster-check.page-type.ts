@@ -195,6 +195,7 @@ export const clusterCheck = {
     "module/repo-path-resolver",
     "module/repo-scope",
     "module/rule-population",
+    "module/rule-population-audit",
   ],
   properties: [
     {
