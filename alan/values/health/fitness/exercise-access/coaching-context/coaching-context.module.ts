@@ -35,15 +35,6 @@ export const coachingContext = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A piece of kit's kind and its setup and its load are no page properties of that kit yet.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "No equipment item page exists.",
-    },
-    {
-      invariantKind: "gap",
       statement: "Nothing states the kit a session is loaded with.",
     },
   ],
