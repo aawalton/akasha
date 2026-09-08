@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0016Chapter16TheSameBed = 
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0016-chapter-16-the-same-bed",
   title: "Chapter 16: The Same Bed",
-  partOfSlugs: ["underworld-bread-mage-yuri-progfan-slice-of-life"],
+  partOfCollectionSlugs: ["underworld-bread-mage-yuri-progfan-slice-of-life"],
   position: 16,
   ownLength: 1945,
   unitSlug: "words",

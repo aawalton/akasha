@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0075Chapter75ThreeTitans = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0075-chapter-75-three-titans",
   title: "Chapter 75: Three Titans",
-  partOfSlugs: ["time-cursed-knight-time-loop-post-apoc"],
+  partOfCollectionSlugs: ["time-cursed-knight-time-loop-post-apoc"],
   position: 75,
   ownLength: 2981,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0013Chapter12Spirited
   pageTypeSlug: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0013-chapter-12-spirited-away",
   title: "Chapter 12: Spirited Away",
-  partOfSlugs: ["twelve-steps-to-transcendence-a-skill-grinding-litrpg"],
+  partOfCollectionSlugs: ["twelve-steps-to-transcendence-a-skill-grinding-litrpg"],
   position: 13,
   ownLength: 2114,
   unitSlug: "words",

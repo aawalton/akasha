@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0232209WhyneTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0232-209-whyne-time",
   title: "209: Whyne Time",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 232,
   ownLength: 2524,
   unitSlug: "words",

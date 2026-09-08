@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0039Chapter38ItsTime 
   pageTypeSlug: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0039-chapter-38-its-time",
   title: "Chapter 38: It's Time",
-  partOfSlugs: ["twelve-steps-to-transcendence-a-skill-grinding-litrpg"],
+  partOfCollectionSlugs: ["twelve-steps-to-transcendence-a-skill-grinding-litrpg"],
   position: 39,
   ownLength: 1843,
   unitSlug: "words",

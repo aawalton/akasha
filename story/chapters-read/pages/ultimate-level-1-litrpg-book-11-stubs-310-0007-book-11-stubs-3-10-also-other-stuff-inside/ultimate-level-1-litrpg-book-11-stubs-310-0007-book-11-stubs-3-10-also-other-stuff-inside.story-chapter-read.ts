@@ -5,7 +5,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100007Book11Stubs310AlsoOtherStuffI
   pageTypeSlug: "story-chapter-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310-0007-book-11-stubs-3-10-also-other-stuff-inside",
   title: "Book 11 Stubs 3/10! Also other stuff inside",
-  partOfSlugs: ["ultimate-level-1-litrpg-book-11-stubs-310"],
+  partOfCollectionSlugs: ["ultimate-level-1-litrpg-book-11-stubs-310"],
   position: 7,
   ownLength: 110,
   unitSlug: "words",

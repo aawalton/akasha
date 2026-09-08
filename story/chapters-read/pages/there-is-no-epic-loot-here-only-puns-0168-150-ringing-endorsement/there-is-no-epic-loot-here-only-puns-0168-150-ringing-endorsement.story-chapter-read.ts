@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0168150RingingEndorsement = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0168-150-ringing-endorsement",
   title: "150: Ringing Endorsement",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 168,
   ownLength: 3315,
   unitSlug: "words",

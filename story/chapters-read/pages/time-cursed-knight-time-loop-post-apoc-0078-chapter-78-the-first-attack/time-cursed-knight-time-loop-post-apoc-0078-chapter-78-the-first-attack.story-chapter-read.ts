@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0078Chapter78TheFirstAttack = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0078-chapter-78-the-first-attack",
   title: "Chapter 78: The First Attack",
-  partOfSlugs: ["time-cursed-knight-time-loop-post-apoc"],
+  partOfCollectionSlugs: ["time-cursed-knight-time-loop-post-apoc"],
   position: 78,
   ownLength: 2323,
   unitSlug: "words",

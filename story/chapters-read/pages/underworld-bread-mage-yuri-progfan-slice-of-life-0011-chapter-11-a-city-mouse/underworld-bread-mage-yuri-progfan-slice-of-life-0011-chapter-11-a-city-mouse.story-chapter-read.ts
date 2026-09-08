@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0011Chapter11ACityMouse = 
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0011-chapter-11-a-city-mouse",
   title: "Chapter 11: A City Mouse",
-  partOfSlugs: ["underworld-bread-mage-yuri-progfan-slice-of-life"],
+  partOfCollectionSlugs: ["underworld-bread-mage-yuri-progfan-slice-of-life"],
   position: 11,
   ownLength: 1472,
   unitSlug: "words",

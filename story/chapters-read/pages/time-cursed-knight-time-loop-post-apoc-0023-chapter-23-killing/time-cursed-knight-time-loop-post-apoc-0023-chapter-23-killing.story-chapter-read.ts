@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0023Chapter23Killing = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0023-chapter-23-killing",
   title: "Chapter 23: Killing",
-  partOfSlugs: ["time-cursed-knight-time-loop-post-apoc"],
+  partOfCollectionSlugs: ["time-cursed-knight-time-loop-post-apoc"],
   position: 23,
   ownLength: 3386,
   unitSlug: "words",

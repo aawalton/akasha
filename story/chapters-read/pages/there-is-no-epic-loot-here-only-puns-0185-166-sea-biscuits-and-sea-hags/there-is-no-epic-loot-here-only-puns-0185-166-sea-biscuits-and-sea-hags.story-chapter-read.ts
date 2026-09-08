@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0185166SeaBiscuitsAndSeaHags = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0185-166-sea-biscuits-and-sea-hags",
   title: "166: Sea biscuits and Sea Hags",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 185,
   ownLength: 4714,
   unitSlug: "words",

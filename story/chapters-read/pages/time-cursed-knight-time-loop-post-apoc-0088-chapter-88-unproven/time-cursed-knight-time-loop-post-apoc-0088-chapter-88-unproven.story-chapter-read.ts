@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0088Chapter88Unproven = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0088-chapter-88-unproven",
   title: "Chapter 88: Unproven",
-  partOfSlugs: ["time-cursed-knight-time-loop-post-apoc"],
+  partOfCollectionSlugs: ["time-cursed-knight-time-loop-post-apoc"],
   position: 88,
   ownLength: 2707,
   unitSlug: "words",

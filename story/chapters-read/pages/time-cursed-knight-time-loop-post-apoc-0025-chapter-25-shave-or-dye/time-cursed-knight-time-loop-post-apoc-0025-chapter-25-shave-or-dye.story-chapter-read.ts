@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0025Chapter25ShaveOrDye = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0025-chapter-25-shave-or-dye",
   title: "Chapter 25: Shave or dye?",
-  partOfSlugs: ["time-cursed-knight-time-loop-post-apoc"],
+  partOfCollectionSlugs: ["time-cursed-knight-time-loop-post-apoc"],
   position: 25,
   ownLength: 2169,
   unitSlug: "words",

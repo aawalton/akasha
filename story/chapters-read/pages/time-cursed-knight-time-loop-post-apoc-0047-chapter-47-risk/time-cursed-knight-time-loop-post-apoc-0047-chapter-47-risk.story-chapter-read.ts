@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0047Chapter47Risk = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0047-chapter-47-risk",
   title: "Chapter 47: Risk",
-  partOfSlugs: ["time-cursed-knight-time-loop-post-apoc"],
+  partOfCollectionSlugs: ["time-cursed-knight-time-loop-post-apoc"],
   position: 47,
   ownLength: 2637,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0193172BetaHurry = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0193-172-beta-hurry",
   title: "172: Beta Hurry",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 193,
   ownLength: 4390,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0030Chapter29Spar = {
   pageTypeSlug: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0030-chapter-29-spar",
   title: "Chapter 29: Spar",
-  partOfSlugs: ["twelve-steps-to-transcendence-a-skill-grinding-litrpg"],
+  partOfCollectionSlugs: ["twelve-steps-to-transcendence-a-skill-grinding-litrpg"],
   position: 30,
   ownLength: 1837,
   unitSlug: "words",

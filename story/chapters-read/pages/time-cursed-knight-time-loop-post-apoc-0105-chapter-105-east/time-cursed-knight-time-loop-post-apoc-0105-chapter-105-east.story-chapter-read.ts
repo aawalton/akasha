@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0105Chapter105East = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0105-chapter-105-east",
   title: "Chapter 105: East",
-  partOfSlugs: ["time-cursed-knight-time-loop-post-apoc"],
+  partOfCollectionSlugs: ["time-cursed-knight-time-loop-post-apoc"],
   position: 105,
   ownLength: 3436,
   unitSlug: "words",

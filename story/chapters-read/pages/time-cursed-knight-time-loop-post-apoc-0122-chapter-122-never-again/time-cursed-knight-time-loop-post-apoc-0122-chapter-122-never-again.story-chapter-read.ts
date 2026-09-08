@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0122Chapter122NeverAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0122-chapter-122-never-again",
   title: "Chapter 122: Never Again",
-  partOfSlugs: ["time-cursed-knight-time-loop-post-apoc"],
+  partOfCollectionSlugs: ["time-cursed-knight-time-loop-post-apoc"],
   position: 122,
   ownLength: 2280,
   unitSlug: "words",

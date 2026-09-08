@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0224201TheEndOfAnEra = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0224-201-the-end-of-an-era",
   title: "201: The End of an Era",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 224,
   ownLength: 2128,
   unitSlug: "words",

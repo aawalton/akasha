@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0183164FoodieBeGoodie = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0183-164-foodie-be-goodie",
   title: "164: Foodie Be Goodie",
-  partOfSlugs: ["there-is-no-epic-loot-here-only-puns"],
+  partOfCollectionSlugs: ["there-is-no-epic-loot-here-only-puns"],
   position: 183,
   ownLength: 4358,
   unitSlug: "words",
