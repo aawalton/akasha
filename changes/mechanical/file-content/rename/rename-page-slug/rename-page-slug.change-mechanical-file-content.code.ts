@@ -1,7 +1,6 @@
 import { parsedAs } from "@akasha/code/code-source"
 import type { Named } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
-import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import {
@@ -21,6 +20,7 @@ import {
   type World,
   worldOver,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { readFor } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
 import {
   boundIn,
   keyOf,
@@ -80,14 +80,16 @@ export function addressedIn(
   path: string,
   text: string,
   slugs: ReadonlySet<string>,
-  one: Renaming
+  one: Renaming,
+  declaring: (key: string) => string | null
 ): readonly Splice[] {
   const source = parsedAs(path, text)
   const found: Splice[] = []
   const walk = (node: ts.Node): undefined => {
     if (ts.isPropertyAssignment(node)) {
       const key = keyOf(node)
-      if (key !== null && slugs.has(slugFor(key))) {
+      const said = key === null ? null : declaring(key)
+      if (said !== null && slugs.has(said)) {
         found.push(...valuedIn(source, node.initializer, one))
       }
     }
@@ -163,7 +165,10 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
       texts.set(path, read)
       body = read
     }
-    put(path, addressedIn(path, body, slugs, one))
+    const naming = readFor(world, path)
+    if ("refused" in naming) return refusing(naming.refused)
+    const declaring = (key: string): string | null => naming.known.slugOfKeyIn(naming.value, key)
+    put(path, addressedIn(path, body, slugs, one, declaring))
   }
   const restating: Stated[] = []
   for (const [path, held] of spots) {

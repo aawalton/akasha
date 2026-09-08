@@ -1,9 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  aType,
+  bodyOf,
   HELD_PAGE,
   HELD_SLUG,
+  idOf,
   indexedRepo,
   NAMER_PAGE,
+  pageOf,
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
@@ -236,4 +240,59 @@ test("the plural and the export rename are reached at their own addresses", asyn
     "change-mechanical-file-content/change-page-page-property",
     "change-mechanical-file-content/rename-export",
   ])
+})
+
+const KEYED_PROPERTY = "module-held-note"
+
+const KEYED_KEY = "heldNote"
+
+const KEYED_NAMER = "akasha/two/keyed.module.ts"
+
+const KEYED_ABOVE = ["page-type/domain"]
+
+const KEYED_DECLARES = ["code", "test", "note", "part-slugs", KEYED_PROPERTY]
+
+const KEYED_MODULE = aType(idOf("6"), "module", KEYED_ABOVE, KEYED_DECLARES)
+
+const KEYED_PROPERTY_PAGE = {
+  id: idOf("d"),
+  pageTypeSlug: "relation-property",
+  slug: KEYED_PROPERTY,
+  propertySlug: "held-note",
+  definition: "a name a page writes under a key this slug does not spell",
+  targetPageTypeSlug: "module",
+}
+
+const KEYED_NAMER_PAGE = {
+  id: "01a04a4a-0004-7000-8000-000000000001",
+  pageTypeSlug: "module",
+  slug: "keyed",
+  definition: "a page naming another under such a key",
+  [KEYED_KEY]: HELD_SLUG,
+}
+
+function keyedRepo(): string {
+  return indexedRepo({
+    "akasha/module.page-type.ts": bodyOf(KEYED_MODULE[1]),
+    [`akasha/${KEYED_PROPERTY}.relation-property.ts`]: bodyOf(KEYED_PROPERTY_PAGE),
+    [KEYED_NAMER]: pageOf(KEYED_NAMER_PAGE),
+  })
+}
+
+test("a namer is filed under its property page's slug rather than under its key", () => {
+  const root = keyedRepo()
+  const world = worldIn(root, textIn(root))
+  expect(world.index.namersOf(idOf("8"))).toContainEqual({
+    path: KEYED_NAMER,
+    propertySlug: KEYED_PROPERTY,
+  })
+})
+
+test("a name under a key its property page's slug does not spell is restated", async () => {
+  const root = keyedRepo()
+  const world = worldIn(root, textIn(root))
+  const said = await renameSlug(world, { at: HELD_PAGE, to: KEPT })
+  expect(said.refused).toBe(null)
+  expect(bodyIn(said, world, KEYED_NAMER)).toContain(`"${KEYED_KEY}": "${KEPT}"`)
+  expect(bodyIn(said, world, KEYED_NAMER)).not.toContain(`"${HELD_SLUG}"`)
 })
