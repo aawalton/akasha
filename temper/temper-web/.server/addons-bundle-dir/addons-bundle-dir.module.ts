@@ -11,5 +11,14 @@ export const addonsBundleDir = {
       invariantKind: "departure",
       statement: "A folder named relative is taken against the folder the server runs in.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The folder is read from the environment once, when this module loads.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change to the environment after this module has loaded does not move the folder.",
+    },
   ],
 } as const satisfies Module
