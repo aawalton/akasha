@@ -72,7 +72,22 @@ export const renamePagePropertyPropertySlug = {
     },
     {
       invariantKind: "departure",
-      statement: "The property slug the page already carries is refused.",
+      statement:
+        "The property slug the page already carries is refused where no former key is handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A former key handed in is spelled anew though the property's page already states its new slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Such a run states no slug on the property's own page and spells no signature anew.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A former key that is the slug the property's page carries is refused.",
     },
     {
       invariantKind: "departure",

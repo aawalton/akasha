@@ -259,6 +259,43 @@ test("the property slug the page already carries is refused", async () => {
   expect(said.refused).toBe("`code` is the property slug that page already carries")
 })
 
+const STATED: Readonly<Record<string, Value>> = {
+  ...VALUES,
+  "file-property/code": {
+    id: "code-id",
+    pageTypeSlug: "file-property",
+    slug: "code",
+    propertySlug: "code-file",
+  },
+}
+
+test("a former key handed in is spelled anew though the page states its new slug", async () => {
+  const reached: Reached[] = []
+
+  const said = await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching(reached), STATED), {
+    at: CODE_AT,
+    to: "code-file",
+    was: "code",
+  })
+
+  expect(said.refused).toBeNull()
+  expect(reached.map((one) => one.at)).toEqual([RENAME_KEY, MOVE_FILE_CODE])
+  expect(givenAt(reached, RENAME_KEY)).toEqual({ at: ONE_AT, was: "code", now: "codeFile" })
+})
+
+test("a former key that is the slug the page carries is refused", async () => {
+  const said = await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching([]), STATED), {
+    at: CODE_AT,
+    to: "code-file",
+    was: "code-file",
+  })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`code-file` is the slug handed in and the slug that page carries, so no key changes"
+  )
+})
+
 test("a slug that is not lower kebab case is refused", async () => {
   const said = await renamePagePropertyPropertySlug(worldIn(BY_A_TYPE, watching([])), {
     at: CODE_AT,

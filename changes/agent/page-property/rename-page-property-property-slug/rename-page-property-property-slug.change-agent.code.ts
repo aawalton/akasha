@@ -41,10 +41,13 @@ const TO = "to"
 
 const MOST = "most"
 
+const WAS = "was"
+
 export type RenamePagePropertyPropertySlugAsked = {
   readonly at: string
   readonly to: string
   readonly most?: number | null
+  readonly was?: string | null
 }
 
 type Moving = { readonly from: string; readonly to: string }
@@ -62,7 +65,12 @@ type Spelling = {
   readonly most: number | null
 }
 
-type Reading = { readonly was: string; readonly id: string; readonly kind: string }
+type Reading = {
+  readonly was: string
+  readonly id: string
+  readonly kind: string
+  readonly states: boolean
+}
 
 function readingOf(world: World, given: RenamePagePropertyPropertySlugAsked): Reading | string {
   if (!KEBAB.test(given.to)) {
@@ -79,8 +87,13 @@ function readingOf(world: World, given: RenamePagePropertyPropertySlugAsked): Re
   if (typeof was !== "string" || typeof id !== "string") {
     return `\`${given.at}\` states no \`property-slug\`, so that page carries no key`
   }
-  if (was === given.to) return `\`${given.to}\` is the property slug that page already carries`
-  return { was, id, kind: named.pageType }
+  if (was !== given.to) return { was, id, kind: named.pageType, states: false }
+  const before = given.was ?? null
+  if (before === null) return `\`${given.to}\` is the property slug that page already carries`
+  if (before === given.to) {
+    return `\`${before}\` is the slug handed in and the slug that page carries, so no key changes`
+  }
+  return { was: before, id, kind: named.pageType, states: true }
 }
 
 function spelledIn(world: World, types: readonly string[], one: Spelling): Spelled {
@@ -145,17 +158,19 @@ export async function renamePagePropertyPropertySlug(
     answers.push(said.said)
     return null
   }
-  const own = await reaching(CHANGE_PAGE_PROPERTY, {
-    at: given.at,
-    key: PROPERTY_SLUG,
-    to: given.to,
-  })
-  if (own !== null) return refusing(own)
+  if (!read.states) {
+    const own = await reaching(CHANGE_PAGE_PROPERTY, {
+      at: given.at,
+      key: PROPERTY_SLUG,
+      to: given.to,
+    })
+    if (own !== null) return refusing(own)
+  }
   for (const path of held.carrying) {
     const why = await reaching(RENAME_KEY, { at: path, was: key, now })
     if (why !== null) return refusing(`\`${path}\` is refused, and ${why}`)
   }
-  for (const one of types) {
+  for (const one of read.states ? [] : types) {
     const of = `${typedAs(one.slug)}.${key}`
     const why = await reaching(RENAME_SIGNATURE, { at: one.path, of, to: now })
     if (why !== null) return refusing(`\`${one.path}\` is refused, and ${why}`)
@@ -185,5 +200,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (to === undefined) return refusing(missing(TO))
   const most = mostIn(given[MOST])
   if (typeof most === "string") return refusing(most)
-  return await renamePagePropertyPropertySlug(world, { at, to, most })
+  return await renamePagePropertyPropertySlug(world, { at, to, most, was: given[WAS] ?? null })
 }
