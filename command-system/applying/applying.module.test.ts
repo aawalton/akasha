@@ -18,7 +18,7 @@ import {
   scratch,
 } from "../landing/landing.module.test-fixtures.ts"
 import { readingIn } from "../reading/reading.module.code.ts"
-import { applied, type Carried, messageFor } from "./applying.module.code.ts"
+import { applied, askedIn, type Carried, messageFor } from "./applying.module.code.ts"
 
 const HELD = { was: null, body: null, readersOweReading: true }
 
@@ -59,6 +59,20 @@ async function indexed(): Promise<string> {
 function headOid(root: string, path: string): string {
   return gitSaid(root, ["rev-parse", `HEAD:${path}`]).trim()
 }
+
+test("an apply takes a measure beside its message, and refuses any other key", () => {
+  expect(askedIn({})).toEqual({ message: null, glass: null, measure: false })
+  expect(askedIn({ measure: "true" })).toEqual({ message: null, glass: null, measure: true })
+  expect(askedIn({ held: "1" })).toEqual({
+    refusals: ["`held` is no argument an apply takes"],
+  })
+})
+
+test("a measure saying anything but true is refused", () => {
+  expect(askedIn({ measure: "yes" })).toEqual({
+    refusals: ["`measure` takes `true`, and this one says something else"],
+  })
+})
 
 test("an apply given no message says the act and the paths that apply lands", () => {
   const held = new Map([

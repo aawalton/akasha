@@ -13,6 +13,7 @@ export const apply = {
     "nothing on the command line carries a value, so no shell reads a quote or a backslash.",
     "`message` says what the commit is for, and an apply naming none composes the message.",
     "`break-the-glass` applies with no check run, and the reason is said in the commit.",
+    "`measure` runs the checks, holds no test file to a ceiling, says what each spent, and lands nothing.",
     "an apply piping nothing in lands the edits kept under a message it composes.",
     "the edits `akasha change` appended are folded into one answer and landed.",
     "the folded edits leave the file holding them once the apply has landed.",
@@ -150,8 +151,25 @@ export const apply = {
       statement: "The paths folded in are named in the report before the report the apply makes.",
     },
     {
-      invariantKind: "absence",
-      statement: "This command takes no dry run.",
+      invariantKind: "departure",
+      statement: "The key `measure` runs the checks and lands nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measuring apply holds no test file to a ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measuring apply says what each test file the change names spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An apply naming no measure lands only where every test file is under the ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measuring apply carrying no test file refuses rather than landing.",
     },
     {
       invariantKind: "gap",

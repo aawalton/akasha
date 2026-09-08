@@ -1,4 +1,5 @@
 import type { Judging } from "@akasha/checks/judging"
+import { MEASURING } from "@akasha/code/code-tests"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt as textIn, valueAt } from "@akasha/pages/page-value"
@@ -39,6 +40,17 @@ const NO_MESSAGE = "`message` says what the commit is for, and this one is empty
 
 const NO_GLASS = "`break-the-glass` says why no check runs, and this one is empty"
 
+const MEASURES = "measure"
+
+const TRUE = "true"
+
+const MARK = "1"
+
+const NO_MEASURE = "`measure` takes `true`, and this one says something else"
+
+const NOTHING_MEASURED =
+  "this apply was to measure, and nothing it carries sits beside a test, so nothing landed"
+
 function seatOver(root: string, page: string): string | null {
   const said = partedIn(page)
   if (said === null || said.pageType !== SUBAGENT) return null
@@ -65,22 +77,37 @@ function notLanded(answer: Answer): Applying {
 export type Asked = {
   readonly message: string | null
   readonly glass: string | null
+  readonly measure: boolean
 }
 
 export type Taken = Asked | { readonly refusals: readonly string[] }
 
 export function askedIn(taken: Arguments): Taken {
   const said = Object.keys(taken)
-    .filter((key) => key !== MESSAGE && key !== GLASS)
+    .filter((key) => key !== MESSAGE && key !== GLASS && key !== MEASURES)
     .map((key) => `\`${key}\` is no argument an apply takes`)
   if (said.length > 0) return { refusals: said }
   const one = taken[MESSAGE]
   const two = taken[GLASS]
+  const three = taken[MEASURES]
   const message = one === undefined ? null : one.trim()
   const glass = two === undefined ? null : two.trim()
   if (message === "") return { refusals: [NO_MESSAGE] }
   if (glass === "") return { refusals: [NO_GLASS] }
-  return { message, glass }
+  if (three !== undefined && three.trim() !== TRUE) return { refusals: [NO_MEASURE] }
+  return { message, glass, measure: three !== undefined }
+}
+
+function measured(judging: Judging): Judging {
+  return {
+    named: judging.named,
+    checksFor: judging.checksFor,
+    over: async (change) => {
+      const said = await judging.over(change)
+      if (said.length > 0) return said
+      return [{ path: change.changed[0] ?? "", reason: NOTHING_MEASURED }]
+    },
+  }
 }
 
 export async function applying(
@@ -105,11 +132,13 @@ export async function applying(
       code: 3,
     })
   }
-  const gate = broken === null && "gate" in built ? built.gate : NO_GATE
+  const built0 = broken === null && "gate" in built ? built.gate : NO_GATE
+  const gate = asked.measure ? measured(built0) : built0
   const unloaded = "gate" in built ? null : built.broken
   const said0 = messageFor(asked.message, carried.held)
   const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
+  if (asked.measure) process.env[MEASURING] = MARK
   try {
     const said = await applied(given.root, given.agentId, why, gate, given.writer, [], carried)
     if ("refusals" in said) {
@@ -135,6 +164,8 @@ export async function applying(
       refusals: keeping([`nothing was committed — ${whyOf(thrown)}`]),
       code: 3,
     })
+  } finally {
+    delete process.env[MEASURING]
   }
 }
 

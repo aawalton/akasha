@@ -87,6 +87,18 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "An apply told to measure marks the run so the tests are held to no ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That mark is taken off however the apply ended.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measuring apply the gate cleared is refused, so a measure lands nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body the patch leaves is formatted before the gate judges that body.",
     },
     {
