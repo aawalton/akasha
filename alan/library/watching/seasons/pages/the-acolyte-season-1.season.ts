@@ -5,7 +5,7 @@ export const theAcolyteSeason1 = {
   pageTypeSlug: "season",
   slug: "the-acolyte-season-1",
   title: "The Acolyte Season 1",
-  partOfSlugs: ["the-acolyte"],
+  partOfCollectionSlugs: ["the-acolyte"],
   position: 1,
   ownLength: 328.8,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theWheelOfTimeSeason1 = {
   pageTypeSlug: "season",
   slug: "the-wheel-of-time-season-1",
   title: "The Wheel of Time Season 1",
-  partOfSlugs: ["the-wheel-of-time"],
+  partOfCollectionSlugs: ["the-wheel-of-time"],
   position: 1,
   ownLength: 490.8,
   ownProgress: 0,

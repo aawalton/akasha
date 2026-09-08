@@ -5,7 +5,7 @@ export const scorpionSeason2 = {
   pageTypeSlug: "season",
   slug: "scorpion-season-2",
   title: "Scorpion Season 2",
-  partOfSlugs: ["scorpion"],
+  partOfCollectionSlugs: ["scorpion"],
   position: 2,
   ownLength: 1464,
   ownProgress: 1464,

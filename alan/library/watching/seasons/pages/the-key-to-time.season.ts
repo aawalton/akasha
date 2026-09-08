@@ -5,7 +5,7 @@ export const theKeyToTime = {
   pageTypeSlug: "season",
   slug: "the-key-to-time",
   title: "The Key to Time",
-  partOfSlugs: ["doctor-who-1963-1989"],
+  partOfCollectionSlugs: ["doctor-who-1963-1989"],
   position: 16,
   ownLength: 649.8,
   ownProgress: 0,

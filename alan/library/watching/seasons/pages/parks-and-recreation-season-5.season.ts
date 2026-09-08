@@ -5,7 +5,7 @@ export const parksAndRecreationSeason5 = {
   pageTypeSlug: "season",
   slug: "parks-and-recreation-season-5",
   title: "Parks and Recreation Season 5",
-  partOfSlugs: ["parks-and-recreation"],
+  partOfCollectionSlugs: ["parks-and-recreation"],
   position: 5,
   ownLength: 484.2,
   ownProgress: 0,

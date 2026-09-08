@@ -5,7 +5,7 @@ export const starWarsResistanceSeason2 = {
   pageTypeSlug: "season",
   slug: "star-wars-resistance-season-2",
   title: "Star Wars Resistance Season 2",
-  partOfSlugs: ["star-wars-resistance"],
+  partOfCollectionSlugs: ["star-wars-resistance"],
   position: 2,
   ownLength: 483,
   ownProgress: 0,

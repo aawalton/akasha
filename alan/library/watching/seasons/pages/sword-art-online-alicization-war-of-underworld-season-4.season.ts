@@ -5,7 +5,7 @@ export const swordArtOnlineAlicizationWarOfUnderworldSeason4 = {
   pageTypeSlug: "season",
   slug: "sword-art-online-alicization-war-of-underworld-season-4",
   title: "Sword Art Online: Alicization - War of Underworld (Season 4)",
-  partOfSlugs: ["sword-art-online-shows"],
+  partOfCollectionSlugs: ["sword-art-online-shows"],
   position: 5,
   ownLength: 552,
   ownProgress: 552,

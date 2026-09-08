@@ -5,7 +5,7 @@ export const starTrekTheAnimatedSeriesSeason1 = {
   pageTypeSlug: "season",
   slug: "star-trek-the-animated-series-season-1",
   title: "Star Trek: The Animated Series Season 1",
-  partOfSlugs: ["star-trek-the-animated-series"],
+  partOfCollectionSlugs: ["star-trek-the-animated-series"],
   position: 1,
   ownLength: 384,
   ownProgress: 384,

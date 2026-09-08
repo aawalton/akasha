@@ -5,7 +5,7 @@ export const theExpanseSeason2 = {
   pageTypeSlug: "season",
   slug: "the-expanse-season-2",
   title: "The Expanse Season 2",
-  partOfSlugs: ["the-expanse"],
+  partOfCollectionSlugs: ["the-expanse"],
   position: 2,
   ownLength: 568.8,
   ownProgress: 0,

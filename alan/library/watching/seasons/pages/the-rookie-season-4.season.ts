@@ -5,7 +5,7 @@ export const theRookieSeason4 = {
   pageTypeSlug: "season",
   slug: "the-rookie-season-4",
   title: "The Rookie Season 4",
-  partOfSlugs: ["the-rookie"],
+  partOfCollectionSlugs: ["the-rookie"],
   position: 4,
   ownLength: 945,
   ownProgress: 945,

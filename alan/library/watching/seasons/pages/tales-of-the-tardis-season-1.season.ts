@@ -5,7 +5,7 @@ export const talesOfTheTardisSeason1 = {
   pageTypeSlug: "season",
   slug: "tales-of-the-tardis-season-1",
   title: "Tales of the Tardis Season 1",
-  partOfSlugs: ["tales-of-the-tardis"],
+  partOfCollectionSlugs: ["tales-of-the-tardis"],
   position: 1,
   ownLength: 673.8,
   ownProgress: 0,

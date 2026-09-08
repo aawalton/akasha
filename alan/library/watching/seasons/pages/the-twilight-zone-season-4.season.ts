@@ -5,7 +5,7 @@ export const theTwilightZoneSeason4 = {
   pageTypeSlug: "season",
   slug: "the-twilight-zone-season-4",
   title: "The Twilight Zone Season 4",
-  partOfSlugs: ["the-twilight-zone-1959"],
+  partOfCollectionSlugs: ["the-twilight-zone-1959"],
   position: 4,
   ownLength: 950,
   ownProgress: 0,

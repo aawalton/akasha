@@ -5,7 +5,7 @@ export const theRaveningWar = {
   pageTypeSlug: "season",
   slug: "the-ravening-war",
   title: "The Ravening War",
-  partOfSlugs: ["dimension-20"],
+  partOfCollectionSlugs: ["dimension-20"],
   position: 17,
   ownLength: 903,
   ownProgress: 0,

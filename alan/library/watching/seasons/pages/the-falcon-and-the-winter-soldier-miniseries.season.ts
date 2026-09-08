@@ -5,7 +5,7 @@ export const theFalconAndTheWinterSoldierMiniseries = {
   pageTypeSlug: "season",
   slug: "the-falcon-and-the-winter-soldier-miniseries",
   title: "The Falcon and the Winter Soldier Miniseries",
-  partOfSlugs: ["the-falcon-and-the-winter-soldier"],
+  partOfCollectionSlugs: ["the-falcon-and-the-winter-soldier"],
   position: 1,
   ownLength: 330,
   ownProgress: 330,

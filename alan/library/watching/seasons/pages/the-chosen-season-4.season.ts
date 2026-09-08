@@ -5,7 +5,7 @@ export const theChosenSeason4 = {
   pageTypeSlug: "season",
   slug: "the-chosen-season-4",
   title: "The Chosen Season 4",
-  partOfSlugs: ["the-chosen"],
+  partOfCollectionSlugs: ["the-chosen"],
   position: 4,
   ownLength: 553.8,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const starTrekStrangeNewWorldsSeason2 = {
   pageTypeSlug: "season",
   slug: "star-trek-strange-new-worlds-season-2",
   title: "Star Trek: Strange New Worlds Season 2",
-  partOfSlugs: ["star-trek-strange-new-worlds"],
+  partOfCollectionSlugs: ["star-trek-strange-new-worlds"],
   position: 2,
   ownLength: 562.2,
   ownProgress: 0,

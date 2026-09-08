@@ -5,7 +5,7 @@ export const stargateAtlantisSeason5 = {
   pageTypeSlug: "season",
   slug: "stargate-atlantis-season-5",
   title: "Stargate Atlantis Season 5",
-  partOfSlugs: ["stargate-atlantis"],
+  partOfCollectionSlugs: ["stargate-atlantis"],
   position: 5,
   ownLength: 877.8,
   ownProgress: 0,

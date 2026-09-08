@@ -5,7 +5,7 @@ export const stargateOriginsSeason1 = {
   pageTypeSlug: "season",
   slug: "stargate-origins-season-1",
   title: "Stargate Origins Season 1",
-  partOfSlugs: ["stargate-origins"],
+  partOfCollectionSlugs: ["stargate-origins"],
   position: 1,
   ownLength: 177,
   ownProgress: 0,

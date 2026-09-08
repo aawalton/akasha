@@ -5,7 +5,7 @@ export const starWarsResistanceSpecials = {
   pageTypeSlug: "season",
   slug: "star-wars-resistance-specials",
   title: "Star Wars Resistance Specials",
-  partOfSlugs: ["star-wars-resistance"],
+  partOfCollectionSlugs: ["star-wars-resistance"],
   position: 0,
   ownLength: 16.8,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const onePieceSeason21 = {
   pageTypeSlug: "season",
   slug: "one-piece-season-21",
   title: "One Piece Season 21",
-  partOfSlugs: ["one-piece"],
+  partOfCollectionSlugs: ["one-piece"],
   position: 21,
   ownLength: 4728,
   ownProgress: 0,

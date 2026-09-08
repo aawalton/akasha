@@ -5,7 +5,7 @@ export const starWarsAndorSeason1 = {
   pageTypeSlug: "season",
   slug: "star-wars-andor-season-1",
   title: "Star Wars: Andor Season 1",
-  partOfSlugs: ["andor"],
+  partOfCollectionSlugs: ["andor"],
   position: 1,
   ownLength: 582,
   ownProgress: 0,

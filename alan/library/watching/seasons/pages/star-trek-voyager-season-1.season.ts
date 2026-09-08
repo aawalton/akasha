@@ -5,7 +5,7 @@ export const starTrekVoyagerSeason1 = {
   pageTypeSlug: "season",
   slug: "star-trek-voyager-season-1",
   title: "Star Trek: Voyager Season 1",
-  partOfSlugs: ["star-trek-voyager"],
+  partOfCollectionSlugs: ["star-trek-voyager"],
   position: 1,
   ownLength: 781.2,
   ownProgress: 0,

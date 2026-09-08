@@ -5,7 +5,7 @@ export const sheHulkAttorneyAtLawMiniseries = {
   pageTypeSlug: "season",
   slug: "she-hulk-attorney-at-law-miniseries",
   title: "She-Hulk: Attorney at Law Miniseries",
-  partOfSlugs: ["she-hulk-attorney-at-law"],
+  partOfCollectionSlugs: ["she-hulk-attorney-at-law"],
   position: 1,
   ownLength: 309,
   ownProgress: 309,

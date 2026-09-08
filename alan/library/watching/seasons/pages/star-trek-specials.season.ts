@@ -5,7 +5,7 @@ export const starTrekSpecials = {
   pageTypeSlug: "season",
   slug: "star-trek-specials",
   title: "Star Trek Specials",
-  partOfSlugs: ["star-trek-2"],
+  partOfCollectionSlugs: ["star-trek-2"],
   position: 0,
   ownLength: 1461,
   ownProgress: 1461,

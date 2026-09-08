@@ -5,7 +5,7 @@ export const stargateUniverseSpecials = {
   pageTypeSlug: "season",
   slug: "stargate-universe-specials",
   title: "Stargate Universe Specials",
-  partOfSlugs: ["stargate-universe"],
+  partOfCollectionSlugs: ["stargate-universe"],
   position: 0,
   ownLength: 145.2,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const stargateInfinitySeason1 = {
   pageTypeSlug: "season",
   slug: "stargate-infinity-season-1",
   title: "Stargate Infinity Season 1",
-  partOfSlugs: ["stargate-infinity"],
+  partOfCollectionSlugs: ["stargate-infinity"],
   position: 1,
   ownLength: 546,
   ownProgress: 0,

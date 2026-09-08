@@ -5,7 +5,7 @@ export const theSarahJaneAdventuresSeason5 = {
   pageTypeSlug: "season",
   slug: "the-sarah-jane-adventures-season-5",
   title: "The Sarah Jane Adventures Season 5",
-  partOfSlugs: ["the-sarah-jane-adventures"],
+  partOfCollectionSlugs: ["the-sarah-jane-adventures"],
   position: 5,
   ownLength: 180,
   ownProgress: 0,
