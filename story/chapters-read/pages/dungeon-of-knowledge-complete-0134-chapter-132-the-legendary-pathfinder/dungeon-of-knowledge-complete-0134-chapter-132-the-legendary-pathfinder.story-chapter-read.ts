@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0134Chapter132TheLegendaryPathfinder = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0134-chapter-132-the-legendary-pathfinder",
   title: "Chapter 132: The Legendary Pathfinder",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 134,
   ownLength: 7673,
   ownProgress: 7673,

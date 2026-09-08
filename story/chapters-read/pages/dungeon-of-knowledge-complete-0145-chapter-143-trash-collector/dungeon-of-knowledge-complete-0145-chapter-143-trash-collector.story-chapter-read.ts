@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0145Chapter143TrashCollector = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0145-chapter-143-trash-collector",
   title: "Chapter 143: Trash Collector",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 145,
   ownLength: 4786,
   ownProgress: 4786,

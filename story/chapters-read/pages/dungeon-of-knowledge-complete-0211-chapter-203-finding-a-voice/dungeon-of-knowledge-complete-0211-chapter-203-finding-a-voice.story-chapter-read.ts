@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0211Chapter203FindingAVoice = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0211-chapter-203-finding-a-voice",
   title: "Chapter 203: Finding a Voice",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 211,
   ownLength: 3629,
   ownProgress: 3629,

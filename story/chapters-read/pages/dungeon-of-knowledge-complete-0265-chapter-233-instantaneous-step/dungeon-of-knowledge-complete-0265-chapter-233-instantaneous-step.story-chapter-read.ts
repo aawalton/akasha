@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0265Chapter233InstantaneousStep = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0265-chapter-233-instantaneous-step",
   title: "Chapter 233: Instantaneous Step",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 265,
   ownLength: 2877,
   ownProgress: 2877,

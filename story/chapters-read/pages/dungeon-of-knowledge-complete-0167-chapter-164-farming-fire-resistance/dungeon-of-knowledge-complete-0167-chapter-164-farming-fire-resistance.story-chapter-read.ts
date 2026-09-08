@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0167Chapter164FarmingFireResistance = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0167-chapter-164-farming-fire-resistance",
   title: "Chapter 164: Farming Fire Resistance",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 167,
   ownLength: 5082,
   ownProgress: 5082,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0039Chapter39AccidentsHappen = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0039-chapter-39-accidents-happen",
   title: "Chapter 39: Accidents Happen",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 39,
   ownLength: 4338,
   ownProgress: 4338,

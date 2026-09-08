@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0070Chapter70TheUnawareDungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0070-chapter-70-the-unaware-dungeon",
   title: "Chapter 70: The Unaware Dungeon",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 70,
   ownLength: 3907,
   ownProgress: 3907,

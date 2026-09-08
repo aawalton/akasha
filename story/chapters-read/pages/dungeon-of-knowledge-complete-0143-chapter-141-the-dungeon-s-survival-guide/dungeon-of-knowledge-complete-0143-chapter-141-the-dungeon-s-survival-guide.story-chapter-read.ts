@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0143Chapter141TheDungeonSSurvivalGuide = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0143-chapter-141-the-dungeon-s-survival-guide",
   title: "Chapter 141: The Dungeon’s Survival Guide",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 143,
   ownLength: 5172,
   ownProgress: 5172,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0075Chapter75ADangerousClass = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0075-chapter-75-a-dangerous-class",
   title: "Chapter 75: A Dangerous Class",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 75,
   ownLength: 3787,
   ownProgress: 3787,

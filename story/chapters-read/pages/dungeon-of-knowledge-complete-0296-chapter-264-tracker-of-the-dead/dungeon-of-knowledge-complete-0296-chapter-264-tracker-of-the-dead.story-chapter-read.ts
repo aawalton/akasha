@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0296Chapter264TrackerOfTheDead = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0296-chapter-264-tracker-of-the-dead",
   title: "Chapter 264: Tracker of the Dead",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 296,
   ownLength: 2503,
   ownProgress: 2503,

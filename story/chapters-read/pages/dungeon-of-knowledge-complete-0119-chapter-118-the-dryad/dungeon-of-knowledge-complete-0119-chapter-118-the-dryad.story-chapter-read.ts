@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0119Chapter118TheDryad = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0119-chapter-118-the-dryad",
   title: "Chapter 118: The Dryad",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 119,
   ownLength: 4102,
   ownProgress: 4102,

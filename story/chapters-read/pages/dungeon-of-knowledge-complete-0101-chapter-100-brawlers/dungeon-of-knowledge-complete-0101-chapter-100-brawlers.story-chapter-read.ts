@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0101Chapter100Brawlers = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0101-chapter-100-brawlers",
   title: "Chapter 100: Brawlers",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 101,
   ownLength: 5279,
   ownProgress: 5279,

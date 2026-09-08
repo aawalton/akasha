@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0135Chapter133Bloodline = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0135-chapter-133-bloodline",
   title: "Chapter 133: Bloodline",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 135,
   ownLength: 4394,
   ownProgress: 4394,

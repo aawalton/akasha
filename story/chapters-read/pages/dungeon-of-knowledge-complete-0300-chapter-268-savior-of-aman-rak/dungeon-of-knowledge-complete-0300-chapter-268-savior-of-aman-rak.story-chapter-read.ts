@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0300Chapter268SaviorOfAmanRak = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0300-chapter-268-savior-of-aman-rak",
   title: "Chapter 268: Savior of Aman Rak",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 300,
   ownLength: 2099,
   ownProgress: 2099,

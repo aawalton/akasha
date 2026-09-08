@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0044Chapter44TheGoblinHorde = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0044-chapter-44-the-goblin-horde",
   title: "Chapter 44: The Goblin Horde",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 44,
   ownLength: 3443,
   ownProgress: 3443,

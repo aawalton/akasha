@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0017Chapter17Respawn = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0017-chapter-17-respawn",
   title: "Chapter 17: Respawn",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 17,
   ownLength: 6881,
   ownProgress: 6881,

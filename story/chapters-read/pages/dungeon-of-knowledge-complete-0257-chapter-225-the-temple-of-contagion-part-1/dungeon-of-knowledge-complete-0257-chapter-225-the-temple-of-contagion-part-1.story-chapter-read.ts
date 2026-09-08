@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0257Chapter225TheTempleOfContagionPart1 =
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0257-chapter-225-the-temple-of-contagion-part-1",
   title: "Chapter 225: The Temple of Contagion (Part 1)",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 257,
   ownLength: 2601,
   ownProgress: 2601,

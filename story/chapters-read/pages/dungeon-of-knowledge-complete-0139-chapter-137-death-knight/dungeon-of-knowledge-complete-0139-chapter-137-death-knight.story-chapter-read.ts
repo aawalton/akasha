@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0139Chapter137DeathKnight = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0139-chapter-137-death-knight",
   title: "Chapter 137: Death Knight",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 139,
   ownLength: 5413,
   ownProgress: 5413,

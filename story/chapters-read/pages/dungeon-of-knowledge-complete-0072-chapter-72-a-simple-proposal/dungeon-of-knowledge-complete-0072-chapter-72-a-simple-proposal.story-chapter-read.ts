@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0072Chapter72ASimpleProposal = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0072-chapter-72-a-simple-proposal",
   title: "Chapter 72: A Simple Proposal",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 72,
   ownLength: 4768,
   ownProgress: 4768,

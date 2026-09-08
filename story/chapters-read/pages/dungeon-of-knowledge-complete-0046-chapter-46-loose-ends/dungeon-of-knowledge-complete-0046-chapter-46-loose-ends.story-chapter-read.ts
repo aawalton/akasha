@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0046Chapter46LooseEnds = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0046-chapter-46-loose-ends",
   title: "Chapter 46: Loose Ends",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 46,
   ownLength: 4312,
   ownProgress: 4312,

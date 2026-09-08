@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0141Chapter139DeathMagic = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0141-chapter-139-death-magic",
   title: "Chapter 139: Death Magic",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 141,
   ownLength: 5867,
   ownProgress: 5867,

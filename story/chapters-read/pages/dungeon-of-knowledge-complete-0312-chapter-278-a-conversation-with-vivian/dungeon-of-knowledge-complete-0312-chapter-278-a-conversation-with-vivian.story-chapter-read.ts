@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0312Chapter278AConversationWithVivian = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0312-chapter-278-a-conversation-with-vivian",
   title: "Chapter 278: A Conversation with Vivian",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 312,
   ownLength: 1915,
   ownProgress: 1915,

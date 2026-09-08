@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0091Chapter905FullStatusSheets = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0091-chapter-90-5-full-status-sheets",
   title: "Chapter 90.5: Full Status Sheets",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 91,
   ownLength: 2713,
   ownProgress: 2713,

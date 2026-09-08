@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0250Chapter221SpiritRealmPart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0250-chapter-221-spirit-realm-part-1",
   title: "Chapter 221: Spirit Realm (Part 1)",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 250,
   ownLength: 2174,
   ownProgress: 2174,

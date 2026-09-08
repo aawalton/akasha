@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0092Chapter91VivianSDecision = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0092-chapter-91-vivian-s-decision",
   title: "Chapter 91: Vivian’s Decision",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 92,
   ownLength: 3728,
   ownProgress: 3728,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0064Chapter64FireballFtw = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0064-chapter-64-fireball-ftw",
   title: "Chapter 64: Fireball FTW",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 64,
   ownLength: 5296,
   ownProgress: 5296,

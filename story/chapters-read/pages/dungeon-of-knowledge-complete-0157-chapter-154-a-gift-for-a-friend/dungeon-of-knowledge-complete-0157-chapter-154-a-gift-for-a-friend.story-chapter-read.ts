@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0157Chapter154AGiftForAFriend = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0157-chapter-154-a-gift-for-a-friend",
   title: "Chapter 154: A Gift for a Friend",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 157,
   ownLength: 5439,
   ownProgress: 5439,

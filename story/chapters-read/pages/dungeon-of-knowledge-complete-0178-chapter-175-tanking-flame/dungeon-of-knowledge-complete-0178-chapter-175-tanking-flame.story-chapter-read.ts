@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0178Chapter175TankingFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0178-chapter-175-tanking-flame",
   title: "Chapter 175: Tanking Flame",
-  partOfSlugs: ["dungeon-of-knowledge-complete"],
+  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
   position: 178,
   ownLength: 6024,
   ownProgress: 6024,
