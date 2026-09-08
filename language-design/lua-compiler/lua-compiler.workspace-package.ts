@@ -77,7 +77,7 @@ export const luaCompiler = {
     "module/measure-performance",
     "module/optional-chain-data",
     "module/tstl-plugin-tstl-no-multi-store",
-    "module/tstl-plugin-tstl-no-truthy-numbers",
+    "module/plugin-no-truthy-numbers",
     "module/preceding-statements",
     "module/safe-names",
     "module/scope",
