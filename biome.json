@@ -102,6 +102,20 @@
   },
   "overrides": [
     {
+      "includes": [
+        "language-design/lua-compiler/lualib/**",
+        "language-design/lua-compiler/lualibs/**"
+      ],
+      "linter": {
+        "rules": {
+          "suspicious": {
+            "noExplicitAny": "off",
+            "noShadowRestrictedNames": "off"
+          }
+        }
+      }
+    },
+    {
       "includes": ["temper/*-addon/src/**"],
       "linter": {
         "rules": {

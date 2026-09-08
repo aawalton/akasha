@@ -32,6 +32,14 @@ export const lualib = {
       statement: "A helper's TypeScript is held in a file beside the page.",
     },
     {
+      invariantKind: "constraint",
+      statement: "A helper's exported name is the ECMAScript runtime's rather than akasha's.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rules refusing a shadowed global name and refusing `any` are off here.",
+    },
+    {
       invariantKind: "departure",
       statement: "One exported name is one page.",
     },
