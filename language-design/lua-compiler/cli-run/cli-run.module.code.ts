@@ -247,7 +247,7 @@ function checkNodeVersion(): undefined {
   const isValid = major > 12 || (major === 12 && minor >= 13)
   if (!isValid) {
     console.error(
-      `@temper/shared-build-deploy-tstl requires Node.js >=12.13.0, the current version is ${process.version}`
+      `@akasha/lua-compiler requires Node.js >=12.13.0, the current version is ${process.version}`
     )
     process.exit(1)
   }
