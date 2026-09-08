@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { uncommittedPartsOf } from "../../../../pages/file-parts/page-file-parts.module.code.ts"
+import { uncommittedPartsOf } from "../../../pages/file-parts/page-file-parts.module.code.ts"
 import { columnsOf } from "../checkout-counting/checkout-counting.module.code.ts"
 
 const PAGES_AT = "checks/code-checks/pages"

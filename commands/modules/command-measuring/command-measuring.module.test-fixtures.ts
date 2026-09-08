@@ -1,20 +1,11 @@
 import { put } from "@akasha/testing-system/putting"
-
-export const NOW = Date.parse("2026-09-05T12:00:00.000Z")
-
-export const HOUR = 3600000
-
-export const DAY = 24 * HOUR
+import { agoOf, HOUR } from "../check-measuring/check-measuring.module.test-fixtures.ts"
 
 export const ONE = "01a08071-39a4-7000-9c6b-6cee59d30d10"
 
 export const TWO = "01a08071-39a4-7000-9c6b-6cee59d30d20"
 
 export const THREE = "01a08071-39a4-7000-9c6b-6cee59d30d30"
-
-export function agoOf(ms: number): string {
-  return new Date(NOW - ms).toISOString()
-}
 
 export function lineOf(one: Record<string, unknown>): string {
   return JSON.stringify({
@@ -50,8 +41,4 @@ export function rowsInto(
 ): string {
   put(root, at, `${rows.map(lineOf).join("\n")}\n`)
   return root
-}
-
-export function spacedOnce(said: string | undefined): string {
-  return (said ?? "").replace(/\s+/g, " ")
 }

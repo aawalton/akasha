@@ -1,12 +1,9 @@
 import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
-import {
-  linesOf,
-  windowIn,
-} from "../../../../command-system/commands/measure/check-measuring/check-measuring.module.code.ts"
+import { linesOf, windowIn } from "../../../modules/check-measuring/check-measuring.module.code.ts"
 import {
   COMMAND,
   costsIn,
-} from "../../../../command-system/commands/measure/command-measuring/command-measuring.module.code.ts"
+} from "../../../modules/command-measuring/command-measuring.module.code.ts"
 
 export function measureCommands(argv: readonly string[], given: Given): Answer {
   const chose = windowIn(argv)

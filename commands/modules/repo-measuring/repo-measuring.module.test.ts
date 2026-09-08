@@ -3,7 +3,7 @@ import { symlinkSync } from "node:fs"
 import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
 import { put } from "@akasha/testing-system/putting"
-import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { countsIn, linesOf, typeOf } from "./repo-measuring.module.code.ts"
 
 const scratch = scratchWorld()

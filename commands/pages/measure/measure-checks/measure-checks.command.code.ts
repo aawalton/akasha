@@ -3,7 +3,7 @@ import {
   chosenIn,
   costsIn,
   linesOf,
-} from "../../../../command-system/commands/measure/check-measuring/check-measuring.module.code.ts"
+} from "../../../modules/check-measuring/check-measuring.module.code.ts"
 
 export function measureChecks(argv: readonly string[], given: Given): Answer {
   const chose = chosenIn(argv)
