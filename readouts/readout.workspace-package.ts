@@ -106,6 +106,10 @@ export const readout = {
       statement:
         "A readout's reader is never the instrument that catches that readout being wrong.",
     },
+    {
+      invariantKind: "gap",
+      statement: "Every key a feed sends is decoded by the tile reading that feed.",
+    },
   ],
   directives: [
     {
