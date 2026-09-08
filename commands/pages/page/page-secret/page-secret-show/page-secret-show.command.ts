@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../command-system/commands/command.page-type.ts"
 
 export const pageSecretShow = {
   id: "01a06812-3ce8-715d-a904-1eb88e02bd62",

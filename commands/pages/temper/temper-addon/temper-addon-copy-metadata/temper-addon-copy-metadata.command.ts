@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../command-system/commands/command.page-type.ts"
 
 export const temperAddonCopyMetadata = {
   id: "01a0603c-c1c9-7aeb-a484-f4b4517ed141",

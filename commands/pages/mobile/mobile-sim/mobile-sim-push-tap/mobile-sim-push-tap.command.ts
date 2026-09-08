@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../command-system/commands/command.page-type.ts"
 
 export const mobileSimPushTap = {
   id: "01a0685d-ceae-700a-91a5-034c3b41a91c",

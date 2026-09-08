@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../command-system/commands/command.page-type.ts"
 
 export const temperAddonGlobalNameDependents = {
   id: "01a0603c-c1ca-77a6-9408-76d7485c7dcf",

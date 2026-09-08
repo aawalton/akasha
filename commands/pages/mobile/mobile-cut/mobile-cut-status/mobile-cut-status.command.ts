@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../command-system/commands/command.page-type.ts"
 
 export const mobileCutStatus = {
   id: "01a0685d-ceae-7003-b691-5ac97b0f647a",

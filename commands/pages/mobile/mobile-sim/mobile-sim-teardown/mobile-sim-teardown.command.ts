@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../command-system/commands/command.page-type.ts"
 
 export const mobileSimTeardown = {
   id: "01a0685d-ceae-700e-bb0c-c5b113d526fd",

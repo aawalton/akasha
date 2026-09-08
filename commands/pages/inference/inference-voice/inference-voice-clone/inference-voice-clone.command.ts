@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../command-system/commands/command.page-type.ts"
 
 export const inferenceVoiceClone = {
   id: "01a0685e-fd50-7b15-b3e5-0d3469cc2a28",

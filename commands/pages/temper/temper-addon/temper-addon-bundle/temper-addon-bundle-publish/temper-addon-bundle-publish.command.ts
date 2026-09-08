@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../../command-system/commands/command.page-type.ts"
 
 export const temperAddonBundlePublish = {
   id: "01a0603c-c1c8-7f53-b9d9-96714b600427",
