@@ -49,6 +49,7 @@ export const codeCheck = {
     "code-check/name-format-judges-by-one-shape",
     "code-check/no-class",
     "code-check/no-code-comments",
+    "code-check/no-color-literal",
     "code-check/no-enum-or-namespace",
     "code-check/no-global-in-a-module",
     "code-check/no-import-cycle",
