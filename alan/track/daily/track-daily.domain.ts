@@ -15,6 +15,7 @@ export const trackDaily = {
     "module/day-entry-keys",
     "module/day-stretches",
     "module/day-completions",
+    "module/day-messages",
     "module/track-shape",
     "module/akasha-day",
     "module/track-pages",
