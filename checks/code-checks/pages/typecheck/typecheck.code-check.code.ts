@@ -43,7 +43,7 @@ const TYPEGEN = "+types"
 
 const DECLARED = ".d.ts"
 
-const LIBRARY = ".lua-runtime-library.ts"
+const LIBRARY = "lua-runtime-library"
 
 const CONFIGS = [universalConfig.fileName, lua50Config.fileName]
 
@@ -254,9 +254,8 @@ export function matching(one: string): RegExp {
 
 export function claimedIn(change: Change, index: Answering): (path: string) => boolean {
   const held: RegExp[] = []
-  for (const one of index.everyPath()) {
-    if (!one.endsWith(LIBRARY)) continue
-    const folder = dirname(one)
+  for (const listed of index.everyOfType(LIBRARY)) {
+    const folder = dirname(listed.path)
     for (const name of CONFIGS) {
       const bytes = change.after(join(folder, name))
       if (bytes === null) continue
