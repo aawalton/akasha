@@ -9,11 +9,11 @@ export const housingChatCapture = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A line is a visit card only when the line carries the agreed key word.",
+      statement: "A line is a visit card only when the line has the agreed key word.",
     },
     {
       invariantKind: "departure",
-      statement: "Which chat channels may carry a card is a player setting.",
+      statement: "Which chat channels may have a card is a player setting.",
     },
   ],
 } as const satisfies Module

@@ -18,7 +18,7 @@ export const tributeCatalogCapture = {
     },
     {
       invariantKind: "departure",
-      statement: "A dock card pair carrying no upgrade card is passed over.",
+      statement: "A dock card pair with no upgrade card is passed over.",
     },
   ],
 } as const satisfies Module

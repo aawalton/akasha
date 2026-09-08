@@ -9,7 +9,7 @@ export const housingWindowControls = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A scroll frame carries a slider the add-on made rather than the game's.",
+      statement: "A scroll frame has a slider the add-on made rather than the game's.",
     },
   ],
 } as const satisfies Module

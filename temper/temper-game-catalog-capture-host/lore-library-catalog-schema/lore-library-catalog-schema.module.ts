@@ -13,7 +13,7 @@ export const loreLibraryCatalogSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A book carries only its name.",
+      statement: "A book has only its name.",
     },
     {
       invariantKind: "departure",

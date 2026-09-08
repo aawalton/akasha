@@ -17,7 +17,7 @@ export const filterBarControls = {
     },
     {
       invariantKind: "departure",
-      statement: "A dropdown carries an entry meaning the filter is off.",
+      statement: "A dropdown has an entry meaning the filter is off.",
     },
     {
       invariantKind: "departure",

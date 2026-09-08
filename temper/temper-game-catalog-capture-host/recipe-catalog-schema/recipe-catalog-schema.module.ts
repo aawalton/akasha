@@ -13,7 +13,7 @@ export const recipeCatalogSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A recipe carries only its name.",
+      statement: "A recipe has only its name.",
     },
     {
       invariantKind: "departure",

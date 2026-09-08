@@ -18,7 +18,7 @@ export const cadwellCatalogCapture = {
     },
     {
       invariantKind: "departure",
-      statement: "A zone or a point of interest carrying no name is left out.",
+      statement: "A zone or a point of interest with no name is left out.",
     },
   ],
 } as const satisfies Module

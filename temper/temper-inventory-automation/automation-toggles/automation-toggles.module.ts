@@ -27,7 +27,7 @@ export const automationToggles = {
     },
     {
       invariantKind: "departure",
-      statement: "Settings carry a map for characters and a map for companions at every moment.",
+      statement: "Settings have a map for characters and a map for companions at every moment.",
     },
     {
       invariantKind: "departure",

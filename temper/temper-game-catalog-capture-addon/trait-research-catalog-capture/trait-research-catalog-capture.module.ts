@@ -13,7 +13,7 @@ export const traitResearchCatalogCapture = {
     },
     {
       invariantKind: "departure",
-      statement: "Research lines are read for the four crafting types carrying research.",
+      statement: "Research lines are read for the four crafting types with research.",
     },
     {
       invariantKind: "departure",

@@ -10,7 +10,7 @@ export const searchFilterRegistry = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "buildFilterIndex throws when two filters in the list carry the same filter id.",
+      statement: "buildFilterIndex throws when two filters in the list have the same filter id.",
     },
     {
       invariantKind: "departure",

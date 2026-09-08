@@ -13,11 +13,11 @@ export const cadwellCatalogSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A zone carries an order number.",
+      statement: "A zone has an order number.",
     },
     {
       invariantKind: "departure",
-      statement: "A point of interest carries an order number.",
+      statement: "A point of interest has an order number.",
     },
   ],
 } as const satisfies Module

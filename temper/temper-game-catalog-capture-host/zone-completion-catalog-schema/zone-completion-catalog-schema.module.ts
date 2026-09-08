@@ -13,11 +13,11 @@ export const zoneCompletionCatalogSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "An activity carries an id of its own beside its name.",
+      statement: "An activity has an id of its own beside its name.",
     },
     {
       invariantKind: "departure",
-      statement: "A completion type carries activities and nothing else.",
+      statement: "A completion type has activities and nothing else.",
     },
   ],
 } as const satisfies Module

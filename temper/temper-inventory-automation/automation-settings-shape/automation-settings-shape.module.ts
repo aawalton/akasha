@@ -14,7 +14,7 @@ export const automationSettingsShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A toggle carrying anything other than a boolean is refused.",
+      statement: "A toggle with anything other than a boolean is refused.",
     },
     {
       invariantKind: "departure",

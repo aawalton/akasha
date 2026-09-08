@@ -13,7 +13,7 @@ export const hudAddonHideTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A plan entry carries the mechanism the catalog gives its part.",
+      statement: "A plan entry has the mechanism the catalog gives its part.",
     },
   ],
 } as const satisfies Module

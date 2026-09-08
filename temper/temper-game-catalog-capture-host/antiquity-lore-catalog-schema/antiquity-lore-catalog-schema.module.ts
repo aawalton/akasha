@@ -13,7 +13,7 @@ export const antiquityLoreCatalogSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry carrying a field the schema does not name is refused.",
+      statement: "An entry with a field the schema does not name is refused.",
     },
   ],
 } as const satisfies Module

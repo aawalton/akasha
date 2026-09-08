@@ -18,7 +18,7 @@ export const hudAddonCommands = {
     },
     {
       invariantKind: "departure",
-      statement: "A subcommand carrying no handler is listed and not dispatched to.",
+      statement: "A subcommand with no handler is listed and not dispatched to.",
     },
   ],
 } as const satisfies Module

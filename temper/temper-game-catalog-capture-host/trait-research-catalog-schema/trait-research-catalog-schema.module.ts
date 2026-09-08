@@ -13,7 +13,7 @@ export const traitResearchCatalogSchema = {
     },
     {
       invariantKind: "departure",
-      statement: "A trait carries only its name.",
+      statement: "A trait has only its name.",
     },
     {
       invariantKind: "departure",

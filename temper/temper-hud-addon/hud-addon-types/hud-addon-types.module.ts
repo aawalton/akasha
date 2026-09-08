@@ -13,7 +13,7 @@ export const hudAddonTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A cell carries its own color and its own transparency.",
+      statement: "A cell has its own color and its own transparency.",
     },
     {
       invariantKind: "absence",
