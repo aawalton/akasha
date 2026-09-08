@@ -2,12 +2,11 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { editsAt } from "@akasha/changes/edits-keeping"
 import type { Judged, Judging } from "@akasha/checks/judging"
-import { formattedBody } from "@akasha/code/code-format"
 import { agentPathOf } from "@akasha/context/warranting"
 import type { Change } from "@akasha/pages/change"
 import { isMissing } from "@akasha/utils-fs/missing"
-import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
+import { preparing } from "../change-preparing/change-preparing.module.code.ts"
 import { runningOf } from "../drafting/drafting.module.code.ts"
 import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
@@ -34,16 +33,11 @@ import {
   reported,
   type Saying,
 } from "../landing-saying/landing-saying.module.code.ts"
-import {
-  installingIn,
-  lockingFor,
-  sameBytes,
-} from "../manifest-locking/manifest-locking.module.code.ts"
+import { installingIn, sameBytes } from "../manifest-locking/manifest-locking.module.code.ts"
 import { type Carry, type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import type { Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
 import { unwarrantedIn } from "../warrant-owing/warrant-owing.module.code.ts"
-import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
 
@@ -75,52 +69,6 @@ export type Asked = {
 export type Trouble = {
   readonly mistaken: readonly string[]
   readonly wrong: readonly string[]
-}
-
-export type Formatting = {
-  readonly changes: readonly FileEdit[]
-  readonly formatted: readonly string[]
-}
-
-export function formattingIn(root: string, changes: readonly FileEdit[]): Formatting {
-  const held: FileEdit[] = []
-  const formatted: string[] = []
-  for (const one of changes) {
-    if (one.body === null) {
-      held.push(one)
-      continue
-    }
-    const said = formattedBody(root, one.path, one.body)
-    if (!said.changed) {
-      held.push(one)
-      continue
-    }
-    held.push({ ...one, body: said.body })
-    formatted.push(one.path)
-  }
-  return { changes: held, formatted }
-}
-
-export type Prepared = {
-  readonly formatting: Formatting
-  readonly changes: readonly FileEdit[]
-  readonly said: readonly string[]
-  readonly over: Change | null
-}
-
-export function preparing(root: string, base: string, changes: readonly FileEdit[]): Prepared {
-  const formatting = formattingIn(root, changes)
-  const locking = lockingFor(root, base, formatting.changes)
-  const change = changeOf(root, { base, edits: formatting.changes })
-  const worked = workedFor(change)
-  const mapped = mappedFor(change)
-  const added = [...locking.edits, ...worked.edits, ...mapped.edits]
-  return {
-    formatting,
-    changes: added.length === 0 ? formatting.changes : [...formatting.changes, ...added],
-    said: [...locking.said, ...worked.said, ...mapped.said],
-    over: added.length === 0 ? change : null,
-  }
 }
 
 export function mistaking(said: readonly string[]): Answer {

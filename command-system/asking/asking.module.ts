@@ -94,10 +94,6 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A body of a kind the formatter owns is formatted before the gate sees the body.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The links a caller hands in are repointed once the checks have loaded.",
     },
     {
@@ -108,64 +104,6 @@ export const asking = {
       invariantKind: "constraint",
       statement:
         "A link repointed while this call runs reaches a folder the change has not written yet.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A body of any other kind reaches the gate as the caller handed the body in.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A removal is never formatted.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A change carrying a package manifest carries the lockfile those manifests warrant.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The lockfile is made again before the gate sees the change.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Formatting and the lockfile and the worked type are worked out before the hold is taken.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The address map is worked out before the hold is taken alongside those three.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Formatting a body leaves every other thing the change says about that path unchanged.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Every road that lands works those three out through one step here.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The worked type and the address map are worked out over one change rather than one each.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "That change is built from the base commit this call was handed.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "That change is answered alongside the edits, so the gate is judged over that same change.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A change the lockfile or a generated file was added to is answered as no change to judge over.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A lockfile that could not be made is said rather than refusing the change.",
     },
     {
       invariantKind: "departure",

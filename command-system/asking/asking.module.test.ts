@@ -10,7 +10,6 @@ import {
   applied,
   applying,
   asking,
-  BROKEN,
   blocked,
   bodyIn,
   checking,
@@ -20,22 +19,17 @@ import {
   git,
   givenIn,
   holds,
-  LOOSE,
   landedFrom,
   mechanically,
   PROGRAM,
   PROPOSED,
-  REFORMATTED,
-  REFUSES_LOOSE,
   REFUSES_TAKING,
   reaching,
   repoNoCheckLoads,
   repoWith,
-  repoWithTheFormatter,
   scratch,
   seeded,
   THREE_AT,
-  TIDY,
   treeHolds,
   UNLOADABLE_AT,
   wrote,
@@ -264,44 +258,6 @@ test("a mechanical change after an authored one leaves the patch judged still", 
   expect((await applying(root)).code).toBe(3)
 })
 
-test("a loose body lands formatted and sorted, and the report says it did", async () => {
-  const root = repoWithTheFormatter()
-  const said = await wrote(root, ["--message", "held"], LOOSE)
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(TIDY)
-  expect(git(root, ["show", "HEAD:akasha/two.ts"])).toBe(TIDY)
-  expect(said.report).toContain(REFORMATTED)
-})
-
-test("a body that will not parse lands whole rather than blank", async () => {
-  const root = repoWithTheFormatter()
-  const said = await wrote(root, ["--message", "held"], BROKEN)
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(BROKEN)
-  expect(said.report).not.toContain(REFORMATTED)
-})
-
-test("a body already formatted lands untouched, and the report says nothing extra", async () => {
-  const root = repoWithTheFormatter()
-  const said = await wrote(root, ["--message", "held"], TIDY)
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(TIDY)
-  expect(said.report).not.toContain(REFORMATTED)
-})
-
-test("a removal is carried through the formatter untouched, and nothing is said of it", async () => {
-  const root = repoWithTheFormatter({
-    "akasha/one.ts": "committed\n",
-    "akasha/two.ts": "committed\n",
-  })
-  const said = await wroteWith(root, ["--remove", "akasha/two.ts", "--message", "held"])
-  expect(said.code).toBe(0)
-  expect(said.report).toContain("landed akasha/two.ts")
-  expect(said.report).not.toContain(REFORMATTED)
-  expect(existsSync(join(root, "akasha/two.ts"))).toBe(false)
-})
-
 test("a folder left holding nothing by a removal is cleared off the disk", async () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/deep/two.ts": "committed\n" })
   const said = await wroteWith(root, ["--remove", "akasha/deep/two.ts", "--message", "held"])
@@ -323,32 +279,12 @@ test("a folder still holding a file git does not track is kept by a removal", as
   expect(existsSync(join(root, "akasha/deep"))).toBe(true)
 })
 
-test("the gate judges the formatted body, so a check refusing a loose one passes what lands", async () => {
-  const root = repoWithTheFormatter()
-  checking(root, "refuses-loose", REFUSES_LOOSE)
-  const said = await wrote(root, ["--message", "held"], LOOSE)
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-  expect(readFileSync(join(root, "akasha/two.ts"), "utf8")).toBe(TIDY)
-})
-
 test("a body that lands is recorded as read, so writing over it again is not refused", async () => {
   const root = repoWith()
   expect((await wrote(root, [])).code).toBe(0)
   const again = put(root, "again.txt", "written twice\n")
   const said = await landedFrom(
     ["--file-path", "akasha/two.ts", "--content-file", again],
-    givenIn(root)
-  )
-  expect(said.refusals).toEqual([])
-  expect(said.code).toBe(0)
-})
-
-test("a body the formatter changed is recorded as it landed, not as it was handed in", async () => {
-  const root = repoWithTheFormatter()
-  expect((await wrote(root, [], LOOSE)).report).toContain(REFORMATTED)
-  const said = await landedFrom(
-    ["--file-path", "akasha/two.ts", "--content-file", put(root, "again.txt", TIDY)],
     givenIn(root)
   )
   expect(said.refusals).toEqual([])
