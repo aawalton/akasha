@@ -402,17 +402,16 @@ test("a warrant owed of a taboo term is said before every warrant that is not", 
   ])
 })
 
-test("what is said of a taboo term names the read that clears it", () => {
+test("what is said of a taboo term hands its whole page back and clears the gate", () => {
   const root = rootWith([{ slug: "chain", code: chainOf({ [A]: [TERM_AT] }) }])
+  expect(unreadIn(root, AGENT, [A])[0]).toContain(`akasha read --file-path ${TERM_AT}`)
+  writing(root, TERM_AT, "the term itself\n")
   const said = unreadIn(root, AGENT, [A])[0]
-  expect(said?.split("\n")[1]).toBe(`${TERM_AT} states the term.`)
+  expect(said?.split("\n")[0]).toBe(DECIDING)
   expect(said).not.toContain(NOT_READ)
+  expect(said).toContain("the term itself")
   expect(said).toContain(CLEARS)
-  expect(said).toContain(`akasha read --file-path ${TERM_AT}`)
-  readAt(root, AGENT, TERM_AT, "gone")
-  const moved = unreadIn(root, AGENT, [A])[0]
-  expect(moved?.split("\n")[0]).toBe(DECIDING)
-  expect(moved).toContain("it has changed since you read it")
+  expect(unreadIn(root, AGENT, [A])).toEqual([])
 })
 
 test("what a change owes and what its seat owes are ordered as one answer", () => {

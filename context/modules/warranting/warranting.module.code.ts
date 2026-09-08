@@ -6,6 +6,7 @@ import {
   partly,
   reachOf,
   readingIn,
+  recordRead,
   SUBAGENT_MARK,
   sameBody,
 } from "@akasha/command-system/reading"
@@ -23,12 +24,12 @@ const READS = "This one call reads every page named above:"
 const ANSWER_CEILING = 28000
 
 const DECIDING =
-  "NAMING DECISION — reading the term's page clears this, and it may mean renaming what your change writes."
+  "NAMING DECISION — the term's page clears this, and it may mean renaming what your change writes."
 
-const DECIDE = [
-  "Nothing here judges the sense you meant, so this read clears the gate whether you reword or not.",
-  "Read the page, decide what you meant, and reword where you meant a sense the term bars.",
-].join("\n")
+const DECIDE =
+  "Nothing here judges the sense you meant, so this gate is clear whether you reword or not."
+
+const REWORD = "Decide what you meant and reword where you meant a sense the term bars."
 
 const PAGE_TYPE = "page-type"
 
@@ -118,24 +119,37 @@ function againOf(held: number): string {
 }
 
 export function heldTo(
+  root: string,
+  agentId: string,
   owed: readonly Owing[],
   ceiling: number = ANSWER_CEILING
 ): readonly string[] {
   const taken: string[] = []
   const paths: string[] = []
+  const handed: Warrant[] = []
   let bytes = 0
   for (const one of owed) {
-    const saying = sayingOf(one)
+    const body = fromTabooTerm(one.warrant) ? bodyAt(root, one.warrant.path) : null
+    const saying = sayingOf(one, body)
     const next = bytes + new TextEncoder().encode(saying).length + 1
     if (taken.length > 0 && next > ceiling) break
     taken.push(saying)
-    paths.push(one.warrant.path)
+    if (body === null) paths.push(one.warrant.path)
+    else handed.push(one.warrant)
     bytes = next
   }
   const at = taken.length - 1
   const tail = taken[at]
   if (tail === undefined) return []
-  taken[at] = `${tail}\n\n${READS}\n\n${callOf(paths)}`
+  for (const one of handed) {
+    recordRead(root, agentId, {
+      path: one.path,
+      oid: one.oid,
+      seenAt: Date.now(),
+      carriedOid: null,
+    })
+  }
+  if (paths.length > 0) taken[at] = `${tail}\n\n${READS}\n\n${callOf(paths)}`
   const held = owed.length - taken.length
   return held === 0 ? taken : [...taken, againOf(held)]
 }
@@ -177,12 +191,23 @@ function tabooSaid(owing: Owing): readonly string[] {
   ]
 }
 
-export function tabooOf(owing: Owing): string {
-  return [DECIDING, ...tabooSaid(owing), owing.warrant.owed, DECIDE].join("\n")
+function bodyAt(root: string, path: string): string | null {
+  try {
+    return readFileSync(join(root, path), "utf8")
+  } catch {
+    return null
+  }
 }
 
-export function sayingOf(owing: Owing): string {
-  if (fromTabooTerm(owing.warrant)) return tabooOf(owing)
+export function tabooOf(owing: Owing, body: string | null): string {
+  const warrant = owing.warrant
+  if (body === null) return [DECIDING, ...tabooSaid(owing), warrant.owed, REWORD].join("\n")
+  const states = `${warrant.path} states the term, and the whole page follows.`
+  return [DECIDING, states, warrant.owed, "", body.trimEnd(), "", DECIDE, REWORD].join("\n")
+}
+
+export function sayingOf(owing: Owing, body: string | null = null): string {
+  if (fromTabooTerm(owing.warrant)) return tabooOf(owing, body)
   const reach = reachOf(owing.reach)
   if (reach !== null) return partlyOf(owing.warrant, reach)
   return owing.held === null ? notReadOf(owing.warrant) : movedOf(owing.warrant, owing.held)
@@ -374,7 +399,7 @@ export function unreadIn(
   changing?: Changing
 ): readonly string[] {
   if (agentId === null) return [NO_AGENT]
-  return heldTo(termFirst(unreadOwing(root, agentId, paths, changing)))
+  return heldTo(root, agentId, termFirst(unreadOwing(root, agentId, paths, changing)))
 }
 
 export function seatPathOf(root: string, agentId: string): string | null {
@@ -409,7 +434,7 @@ export function unheldOwing(root: string, agentId: string): readonly Owing[] {
 
 export function unheldIn(root: string, agentId: string | null): readonly string[] {
   if (agentId === null) return []
-  return heldTo(termFirst(unheldOwing(root, agentId)))
+  return heldTo(root, agentId, termFirst(unheldOwing(root, agentId)))
 }
 
 export function owedIn(
@@ -420,6 +445,8 @@ export function owedIn(
 ): readonly string[] {
   if (agentId === null) return [NO_AGENT]
   return heldTo(
+    root,
+    agentId,
     termFirst([...unheldOwing(root, agentId), ...unreadOwing(root, agentId, paths, changing)])
   )
 }

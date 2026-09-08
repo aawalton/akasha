@@ -74,7 +74,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing here writes.",
+      statement: "Nothing here writes the repository.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +82,7 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing here records.",
+      statement: "A taboo term's page a refusal hands back is recorded as read here.",
     },
     {
       invariantKind: "departure",
@@ -145,8 +145,11 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The refusal said of a taboo term names reading that term's page as clearing the warrant.",
+      statement: "The refusal said of a taboo term hands that term's whole page back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page a refusal hands back clears the warrant owed of that page.",
     },
     {
       invariantKind: "departure",
