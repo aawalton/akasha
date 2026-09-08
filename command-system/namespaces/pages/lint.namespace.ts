@@ -5,5 +5,5 @@ export const lint = {
   pageTypeSlug: "namespace",
   slug: "lint",
   definition: "the linter over this repository",
-  partSlugs: ["command/lint-check", "command/lint-exception"],
+  partSlugs: ["command/lint-check"],
 } as const satisfies Namespace
