@@ -1,12 +1,16 @@
 import type { Found, Linted } from "@akasha/code/code-lint"
 import { lintedOver } from "@akasha/code/code-lint"
-import { worldOf } from "@akasha/code/code-tests"
 import type { Change } from "@akasha/pages/change"
+import { mirroredOf } from "../../../modules/change-mirror/change-mirror.module.code.ts"
 import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
 import { FILES, input } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const CONFIG = "biome.json"
+
+const IGNORE = ".gitignore"
+
+const CONFIGURED: readonly string[] = [CONFIG, IGNORE]
 
 const NAMES = "**/*."
 
@@ -107,11 +111,11 @@ function refusalsIn(change: Change): readonly Judged[] {
   const carried = carriedIn(change, readsIn(said), skippedIn(said))
   const first = carried[0]
   if (first === undefined) return []
-  const world = worldOf(change.root, carried, change.after, null)
+  const mirror = mirroredOf(change.root, carried, change.after, CONFIGURED)
   try {
-    return judgedOf(lintedOver(world.root, carried), first, world.root)
+    return judgedOf(lintedOver(mirror.root, carried, change.root), first, mirror.root)
   } finally {
-    world.sweep()
+    mirror.sweep()
   }
 }
 

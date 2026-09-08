@@ -128,10 +128,10 @@ function askedOf(at: string, root: string, named: readonly string[]): Done {
   return { code: done.code, output: `${done.out}${done.err}` }
 }
 
-export function lintedOver(root: string, named: readonly string[]): Linted {
-  const at = join(root, BINARY)
+export function lintedOver(root: string, named: readonly string[], under: string = root): Linted {
+  const at = join(under, BINARY)
   if (!existsSync(at)) {
-    return unlooked(`no linter is at \`${BINARY}\` under ${root}, so nothing was looked at`)
+    return unlooked(`no linter is at \`${BINARY}\` under ${under}, so nothing was looked at`)
   }
   let done: Done
   try {

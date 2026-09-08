@@ -167,11 +167,11 @@ test("a linter that could not run is a refusal, not a pass", () => {
   expect(judged[0]?.reason).toContain("verified nothing")
 })
 
-test("the reason names no tree that has been swept", () => {
+test("the reason names the tree that stays rather than the one that is swept", () => {
   const root = repo({ "akasha/one.ts": CLEAN }, false)
   const judged = linted(change(root, ["akasha/one.ts"]))
-  expect(judged[0]?.reason).not.toContain("/var/tmp/akasha-world-")
-  expect(judged[0]?.reason).toContain("the world this change was set up in")
+  expect(judged[0]?.reason).not.toContain("/var/tmp/akasha-mirror-")
+  expect(judged[0]?.reason).toContain(root)
 })
 
 test("the world's root is taken out of what is reported", () => {
