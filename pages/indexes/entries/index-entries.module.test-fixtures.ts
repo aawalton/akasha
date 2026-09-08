@@ -19,25 +19,25 @@ export const D = "01a04b79-0000-7000-8000-00000000000d"
 
 export const SCHEMA = {
   code:
-    '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniqueScope":null,' +
+    '{"pageTypeSlug":"file-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,' +
     '"slug":"code","propertySlug":"code","fileName":null}',
   domainSlug:
-    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniqueScope":null,' +
+    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,' +
     '"slug":"domain-slug","propertySlug":"domain-slug","fileName":null}',
   partSlugs:
-    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniqueScope":null,' +
+    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,' +
     '"slug":"part-slugs","propertySlug":"part-slugs","fileName":null}',
   noteSlug:
-    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"note","unique":null,"uniqueScope":null,' +
+    '{"pageTypeSlug":"relation-property","targetPageTypeSlug":"note","unique":null,"uniquePropertySlug":null,' +
     '"slug":"note-slug","propertySlug":"note-slug","fileName":null}',
   either:
-    '{"pageTypeSlug":"one-of-property","targetPageTypeSlug":null,"unique":null,"uniqueScope":null,' +
+    '{"pageTypeSlug":"one-of-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,' +
     '"slug":"either","propertySlug":"either","fileName":null}',
   id: JSON.stringify({
     pageTypeSlug: idPage.pageTypeSlug,
     targetPageTypeSlug: null,
     unique: idPage.unique,
-    uniqueScope: null,
+    uniquePropertySlug: null,
     slug: idPage.slug,
     propertySlug: idPage.propertySlug,
     fileName: null,
@@ -46,7 +46,7 @@ export const SCHEMA = {
     pageTypeSlug: slugPage.pageTypeSlug,
     targetPageTypeSlug: null,
     unique: slugPage.unique,
-    uniqueScope: null,
+    uniquePropertySlug: null,
     slug: slugPage.slug,
     propertySlug: slugPage.propertySlug,
     fileName: null,
@@ -86,8 +86,8 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     slug: "parts",
     properties: [{ pagePropertySlug: "page-property/part-slugs", required: true, many: true }],
   })
-  filed("identity/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
-  filed("identity/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
+  filed("identity/page-type/page-type/slug/domain.jsonl", '{"path":"domain.page-type.ts","id":"1"}')
+  filed("identity/page-type/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
   page("either.one-of-property.ts", {
     id: "4",
     pageTypeSlug: "one-of-property",
@@ -95,9 +95,12 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     propertySlug: "either",
     memberSlugs: ["relation-property/domain-slug", "relation-property/note-slug"],
   })
-  filed("identity/record-property/slug/parts.jsonl", '{"path":"parts.record-property.ts","id":"3"}')
   filed(
-    "identity/one-of-property/slug/either.jsonl",
+    "identity/page-type/record-property/slug/parts.jsonl",
+    '{"path":"parts.record-property.ts","id":"3"}'
+  )
+  filed(
+    "identity/page-type/one-of-property/slug/either.jsonl",
     '{"path":"either.one-of-property.ts","id":"4"}'
   )
   filed("schema/page-property/file-property/slug/code.jsonl", SCHEMA.code)

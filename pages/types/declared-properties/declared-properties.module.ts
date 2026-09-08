@@ -58,7 +58,8 @@ export const declaredProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration stating a reach carries that reach rather than its property's.",
+      statement:
+        "A declaration stating a unique kind carries that kind rather than its property's.",
     },
     {
       invariantKind: "departure",

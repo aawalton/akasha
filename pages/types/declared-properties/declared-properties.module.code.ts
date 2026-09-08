@@ -290,7 +290,7 @@ export function sourceOver(values: readonly Value[]): Source {
       pageTypeSlug,
       targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
       unique: slugAt(value, "unique"),
-      uniqueScope: slugAt(value, "uniqueScope"),
+      uniquePropertySlug: slugAt(value, "uniquePropertySlug"),
       slug,
       propertySlug,
       fileName: textAt(value, "fileName"),

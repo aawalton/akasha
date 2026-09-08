@@ -128,11 +128,11 @@ test("those paths come back in the order they were filed rather than sorted agai
   expect(everyPath(root)).toEqual(held)
 })
 
-test("an index filing no listing refuses rather than answering that no file is there", () => {
+test("an index that is there filing no listing is answered with no path rather than refused", () => {
   const root = rootAt()
   nothingFiled(root)
 
-  expect(() => everyPath(root)).toThrow(/`\.git\/data\/index\/listing` is not there/)
+  expect(everyPath(root)).toEqual([])
 })
 
 test("an id the index carries is answered with the page carrying it", () => {
@@ -166,7 +166,7 @@ test("a relation property is answered with the shape it is and the page type it 
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: "domain",
     unique: null,
-    uniqueScope: null,
+    uniquePropertySlug: null,
     slug: "domain-slug",
     propertySlug: "domain-slug",
     fileName: null,
@@ -182,7 +182,7 @@ test("a property that names no page is answered with a shape that is not a relat
     pageTypeSlug: "standard-agent-english-property",
     targetPageTypeSlug: null,
     unique: null,
-    uniqueScope: null,
+    uniquePropertySlug: null,
     slug: "definition",
     propertySlug: "definition",
     fileName: null,
@@ -198,7 +198,7 @@ test("a property naming many pages is answered with the target it names itself",
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: "domain",
     unique: null,
-    uniqueScope: null,
+    uniquePropertySlug: null,
     slug: "part-slugs",
     propertySlug: "part-slugs",
     fileName: null,
@@ -214,7 +214,7 @@ test("a name saying its page type reads that one file, and passes over another o
     pageTypeSlug: "text-property",
     targetPageTypeSlug: null,
     unique: null,
-    uniqueScope: null,
+    uniquePropertySlug: null,
     slug: "foo",
     propertySlug: "foo",
     fileName: null,
@@ -223,7 +223,7 @@ test("a name saying its page type reads that one file, and passes over another o
     pageTypeSlug: "number-property",
     targetPageTypeSlug: null,
     unique: null,
-    uniqueScope: null,
+    uniquePropertySlug: null,
     slug: "foo",
     propertySlug: "foo",
     fileName: null,
@@ -260,7 +260,7 @@ test("a bare slug one page type carries is searched for and answered with that s
     pageTypeSlug: "text-property",
     targetPageTypeSlug: null,
     unique: null,
-    uniqueScope: null,
+    uniquePropertySlug: null,
     slug: "foo",
     propertySlug: "foo",
     fileName: null,

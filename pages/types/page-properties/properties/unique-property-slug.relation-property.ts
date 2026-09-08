@@ -1,41 +1,39 @@
 import type { RelationProperty } from "../../../relation-properties/relation-property.page-type.ts"
 
-export type UniqueScope = string
+export type UniquePropertySlug = string
 
-export const uniqueScope = {
+export const uniquePropertySlug = {
   id: "01a07c96-3272-7d36-9394-051287145f2a",
   pageTypeSlug: "relation-property",
-  slug: "unique-scope",
-  propertySlug: "unique-scope",
+  slug: "unique-property-slug",
+  propertySlug: "unique-property-slug",
   definition: "the property whose value a unique value is unique within",
   targetPageTypeSlug: "page-type/page-property",
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A property naming a scope is unique within that scope rather than across its page type.",
+      statement: "A property naming one here is unique within that property's value.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The property a scope names is declared on the same page type as the property naming that scope.",
+        "The property named here is declared on the same page type as the property naming it.",
     },
     {
       invariantKind: "departure",
-      statement: "The property a scope names is required.",
+      statement: "The property named here is required.",
     },
     {
       invariantKind: "departure",
-      statement: "The property a scope names carries one value.",
+      statement: "The property named here carries one value.",
     },
     {
       invariantKind: "departure",
-      statement: "A scope narrows the reach `page-type`.",
+      statement: "Naming a property makes the unique kind `page-property` rather than `page-type`.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A property stating no scope is unique across the whole reach that property states.",
+      statement: "A property naming none is unique across the whole of the kind it states.",
     },
   ],
 } as const satisfies RelationProperty

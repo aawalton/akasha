@@ -71,7 +71,7 @@ export type Shape = {
   readonly pageTypeSlug: string
   readonly targetPageTypeSlug?: string | null
   readonly unique?: string | null
-  readonly uniqueScope?: string | null
+  readonly uniquePropertySlug?: string | null
   readonly fileName?: string | null
 }
 
@@ -81,7 +81,7 @@ export function declaring(root: string, slug: string, shape: Shape): undefined {
       pageTypeSlug: shape.pageTypeSlug,
       targetPageTypeSlug: shape.targetPageTypeSlug ?? null,
       unique: shape.unique ?? null,
-      uniqueScope: shape.uniqueScope ?? null,
+      uniquePropertySlug: shape.uniquePropertySlug ?? null,
       slug,
       propertySlug: slug,
       fileName: shape.fileName ?? null,

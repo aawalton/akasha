@@ -15,7 +15,7 @@ export const akashaFolderShape = {
     {
       statement: "A page unique only within a scope declares `uniquePropertySlug`.",
       workingMemory:
-        '`Schema` is one shape in `index-shape` now, read by the entries reader, the reading reader and the writer, and it carries `uniqueScope`, which the writer files. An absent slug reads as the empty string rather than as nothing, so a reader dropping a stub line drops on `""`. `Identifier` and `identifyingFrom` still carry `key` and `reach` alone, and `filedIn` composes no scope, so nothing reads the field a declaration states yet.',
+        '`Schema` is one shape in `index-shape`, read by the entries reader, the reading reader and the writer, and it carries `uniquePropertySlug`, which the writer files. An absent slug reads as the empty string rather than as nothing, so a reader dropping a stub line drops on `""`. `Identifier` and `identifyingFrom` still carry `key` and `reach` alone, so nothing reads the field a declaration states yet, and `filedIn` composes a scope for `page`, `page-type` and `part-of`.',
     },
     {
       statement: "The identity index files each page under its unique kind.",

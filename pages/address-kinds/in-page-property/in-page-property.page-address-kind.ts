@@ -22,7 +22,8 @@ export const inPageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "The scope is the value the property a declaration's `uniqueScope` names carries.",
+      statement:
+        "The scope is the value the property a declaration's `uniquePropertySlug` names carries.",
     },
     {
       invariantKind: "departure",

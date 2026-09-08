@@ -182,7 +182,7 @@ function schemaIn(reading: Reading, at: string): readonly Schema[] {
       pageTypeSlug,
       targetPageTypeSlug: stringAt(said, "targetPageTypeSlug"),
       unique: stringAt(said, "unique"),
-      uniqueScope: stringAt(said, "uniqueScope"),
+      uniquePropertySlug: stringAt(said, "uniquePropertySlug"),
       slug: stringAt(said, "slug") ?? "",
       propertySlug: stringAt(said, "propertySlug") ?? "",
       fileName: stringAt(said, "fileName"),
@@ -325,7 +325,7 @@ export function idsNaming(
 }
 
 export function everyPath(given: string | Reading): readonly string[] {
-  return answered(given, LISTING, "which files are there", (reading) =>
+  return answered(given, ROOT, "which files are there", (reading) =>
     reading.lines(join(LISTING, `${AT_PATH}${ENDING}`))
   )
 }

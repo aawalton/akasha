@@ -18,7 +18,7 @@ export type Schema = {
   readonly pageTypeSlug: string
   readonly targetPageTypeSlug: string | null
   readonly unique: string | null
-  readonly uniqueScope: string | null
+  readonly uniquePropertySlug: string | null
   readonly slug: string
   readonly propertySlug: string
   readonly fileName: string | null
