@@ -21,7 +21,7 @@ import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
 import { absentAfter, orphaningIn, orphaningSaid } from "../orphaning/orphaning.module.code.ts"
-import type { FileCarry } from "../path-moving/path-moving.module.code.ts"
+import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { carriedOnto, carriesHeld } from "../path-moving/path-moving.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 
@@ -35,7 +35,7 @@ export type FileEdit = {
 export type Proposed = {
   readonly base: string
   readonly edits: readonly FileEdit[]
-  readonly carries?: readonly FileCarry[]
+  readonly carries?: readonly FileMove[]
 }
 
 export type Landed = {
@@ -194,7 +194,7 @@ function restored(root: string, before: ReadonlyMap<string, Uint8Array | null>):
 function reindexed(
   root: string,
   changed: readonly FileEdit[],
-  carries: readonly FileCarry[],
+  carries: readonly FileMove[],
   before: ReadonlyMap<string, Uint8Array | null>,
   keeping: Keeping
 ): undefined {
@@ -242,7 +242,7 @@ function alsoSaid(why: string, back: string | null, off: string | null): string 
 function indexed(
   root: string,
   changed: readonly FileEdit[],
-  carries: readonly FileCarry[],
+  carries: readonly FileMove[],
   before: ReadonlyMap<string, Uint8Array | null>,
   keeping: Keeping
 ): readonly string[] {
@@ -321,7 +321,7 @@ export function landing(
   writer?: string | null,
   read?: string | null,
   asRead?: readonly AsRead[],
-  carries?: readonly FileCarry[],
+  carries?: readonly FileMove[],
   drafting?: null,
   over?: Change | null
 ): Promise<Landed | Refused>
@@ -333,7 +333,7 @@ export function landing(
   writer: string | null,
   read: string | null,
   asRead: readonly AsRead[],
-  carries: readonly FileCarry[],
+  carries: readonly FileMove[],
   drafting: Drafting
 ): Promise<Drafted | Refused>
 export async function landing(
@@ -344,7 +344,7 @@ export async function landing(
   writer: string | null = null,
   read: string | null = null,
   asRead: readonly AsRead[] = [],
-  carries: readonly FileCarry[] = [],
+  carries: readonly FileMove[] = [],
   drafting: Drafting | null = null,
   over: Change | null = null
 ): Promise<Landed | Refused | Drafted> {

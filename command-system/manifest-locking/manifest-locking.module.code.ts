@@ -13,7 +13,7 @@ import { dirname, join, relative } from "node:path"
 import { argvFor } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils/run/running"
 import type { FileEdit } from "../landing/landing.module.code.ts"
-import type { FileCarry } from "../path-moving/path-moving.module.code.ts"
+import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 
 const MANIFEST = "package.json"
 
@@ -54,7 +54,7 @@ export function manifestsIn(changes: readonly FileEdit[]): readonly FileEdit[] {
   return changes.filter((one) => isManifest(one.path))
 }
 
-export function manifestCarriesIn(carries: readonly FileCarry[]): readonly FileCarry[] {
+export function manifestCarriesIn(carries: readonly FileMove[]): readonly FileMove[] {
   return carries.filter((one) => isManifest(one.from) || isManifest(one.to))
 }
 
@@ -74,7 +74,7 @@ export function lockedOver(
   root: string,
   base: string,
   touched: readonly FileEdit[],
-  carried: readonly FileCarry[] = []
+  carried: readonly FileMove[] = []
 ): Made {
   const held = mkdtempSync(join(SCRATCH_AT, PREFIX))
   try {
@@ -126,7 +126,7 @@ export function lockingOver(
   root: string,
   base: string,
   changes: readonly FileEdit[],
-  carries: readonly FileCarry[] = []
+  carries: readonly FileMove[] = []
 ): Locking {
   const touched = manifestsIn(changes)
   const carried = manifestCarriesIn(carries)
@@ -160,7 +160,7 @@ export function lockingFor(
   root: string,
   base: string,
   changes: readonly FileEdit[],
-  carries: readonly FileCarry[] = []
+  carries: readonly FileMove[] = []
 ): Locking {
   try {
     return lockingOver(root, base, changes, carries)
@@ -293,7 +293,7 @@ export function installedIn(root: string): Installing {
 export function installingIn(
   root: string,
   changes: readonly FileEdit[],
-  carries: readonly FileCarry[] = []
+  carries: readonly FileMove[] = []
 ): Installing {
   if (manifestsIn(changes).length === 0 && manifestCarriesIn(carries).length === 0) {
     return NOTHING_INSTALLED

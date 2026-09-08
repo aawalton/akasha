@@ -12,7 +12,7 @@ import {
   PAGE,
   repoWith,
 } from "../landing/landing.module.test-fixtures.ts"
-import type { FileCarry } from "./path-moving.module.code.ts"
+import type { FileMove } from "./path-moving.module.code.ts"
 
 export const MOVED_BIN = "akasha/one.bin"
 
@@ -22,7 +22,7 @@ export const PAGE_TO = "akasha/deep/a.domain.ts"
 
 export const MORE = `${A}// moved\n`
 
-export function blockedCarries(root: string): readonly FileCarry[] {
+export function blockedCarries(root: string): readonly FileMove[] {
   writeFileSync(join(root, "one.uncommitted.ts"), "one")
   writeFileSync(join(root, "two.uncommitted.ts"), "two")
   mkdirSync(join(root, "deep/two.uncommitted.ts"), { recursive: true })

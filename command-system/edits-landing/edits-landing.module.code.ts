@@ -6,7 +6,7 @@ import { bytesOf } from "@akasha/changes/change-shadow"
 import { bodyIn } from "@akasha/changes/edits-keeping"
 import { formattedBody } from "@akasha/code/code-format"
 import type { Bodies, Body } from "../drafting/drafting.module.code.ts"
-import type { FileCarry } from "../path-moving/path-moving.module.code.ts"
+import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 
 const BYTES = new TextEncoder()
 
@@ -24,15 +24,15 @@ export function owingIn(said: Said): ReadonlyMap<string, boolean> {
 
 export type Landing = {
   readonly held: Bodies
-  readonly carries: readonly FileCarry[]
+  readonly carries: readonly FileMove[]
 }
 
-export function carriesIn(said: Said): readonly FileCarry[] {
+export function carriesIn(said: Said): readonly FileMove[] {
   const named = new Map<string, number>()
   for (const one of said.edits) {
     for (const path of pathsOf(one)) named.set(path, (named.get(path) ?? 0) + 1)
   }
-  const carries: FileCarry[] = []
+  const carries: FileMove[] = []
   for (const one of said.edits) {
     if (one.kind !== "move") continue
     if (named.get(one.pathFrom) !== 1 || named.get(one.pathTo) !== 1) continue

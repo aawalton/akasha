@@ -27,7 +27,7 @@ import {
   type Saying,
 } from "../landing-saying/landing-saying.module.code.ts"
 import { installingIn, sameBytes } from "../manifest-locking/manifest-locking.module.code.ts"
-import type { FileCarry } from "../path-moving/path-moving.module.code.ts"
+import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { type Carry, type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import type { Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
@@ -54,7 +54,7 @@ export type Asked = {
   readonly unmoved: readonly Held[]
   readonly saying: Saying
   readonly read?: string | null
-  readonly carries?: readonly FileCarry[]
+  readonly carries?: readonly FileMove[]
   readonly readings?: readonly Carry[]
   readonly draft?: boolean
   readonly reaching?: () => undefined

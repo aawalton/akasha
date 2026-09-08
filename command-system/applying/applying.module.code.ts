@@ -14,7 +14,7 @@ import { editsOf, type FileEdit, landing, type Refused } from "../landing/landin
 import { carryLanded } from "../landing-reading/landing-reading.module.code.ts"
 import { defaultMessage, formattedSaid } from "../landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
-import type { FileCarry } from "../path-moving/path-moving.module.code.ts"
+import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 import { refusalsKept } from "../refusals-keeping/refusals-keeping.module.code.ts"
 
@@ -69,7 +69,7 @@ export function noneSaid(root: string, page: string): string {
 export function messageFor(
   said: string | null,
   held: Bodies,
-  carries: readonly FileCarry[] = []
+  carries: readonly FileMove[] = []
 ): string {
   return said ?? defaultMessage(APPLIES, [...held.keys(), ...carries.map((one) => one.to)])
 }
@@ -178,7 +178,7 @@ export async function applying(
 export type Carried = {
   readonly held: Bodies
   readonly running: Running
-  readonly carries?: readonly FileCarry[]
+  readonly carries?: readonly FileMove[]
 }
 
 export type Applied = {
@@ -233,7 +233,7 @@ export async function applied(
   message: string,
   judging: Judging,
   writer: string | null = null,
-  carries: readonly FileCarry[] = [],
+  carries: readonly FileMove[] = [],
   carried: Carried | null = null,
   read: string | null = null
 ): Promise<Applied | Refused> {
