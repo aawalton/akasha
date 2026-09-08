@@ -103,7 +103,6 @@ export const command = {
     "command/part-census",
     "command/learn-next",
     "command/shell-init-bash",
-    "namespace/lint",
     "namespace/domain",
     "namespace/model-gateway",
     "namespace/temper",
