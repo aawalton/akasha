@@ -159,11 +159,11 @@ test("an apply refuses a page whose slug names no export", async () => {
   expect(existsSync(join(root, UNEXPORTABLE_AT))).toBe(false)
 })
 
-test("a path an apply is handed as a carry moves on disk", async () => {
+test("a path an apply is handed as a move moves on disk", async () => {
   const root = await indexed()
   writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
-  const carries = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
-  const said = await applied(root, AGENT, "applied", ADMITS, null, carries, carrying(MORE))
+  const moves = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
+  const said = await applied(root, AGENT, "applied", ADMITS, null, moves, carrying(MORE))
   if ("refusals" in said) throw new Error(said.refusals.join("; "))
   expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
   expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)

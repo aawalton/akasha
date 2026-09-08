@@ -45,13 +45,13 @@ export function preparing(
   root: string,
   base: string,
   changes: readonly FileEdit[],
-  carries: readonly FileMove[] = []
+  moves: readonly FileMove[] = []
 ): Prepared | Refused {
   const formatting = formattingIn(root, changes)
   const unexportable = unexportableIn(formatting.changes)
   if (unexportable.length > 0) return { refusals: unexportable }
-  const locking = lockingFor(root, base, formatting.changes, carries)
-  const change = changeOf(root, { base, edits: formatting.changes, carries })
+  const locking = lockingFor(root, base, formatting.changes, moves)
+  const change = changeOf(root, { base, edits: formatting.changes, moves })
   const worked = workedFor(change)
   const mapped = mappedFor(change)
   const stepped = steppedFor(change)

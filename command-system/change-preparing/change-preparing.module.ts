@@ -71,7 +71,8 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement: "That change carries the paths a carry moves as well as the paths an edit writes.",
+      statement:
+        "That change carries the paths a move renames as well as the paths an edit writes.",
     },
     {
       invariantKind: "departure",

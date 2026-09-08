@@ -54,7 +54,7 @@ export type Asked = {
   readonly unmoved: readonly Held[]
   readonly saying: Saying
   readonly read?: string | null
-  readonly carries?: readonly FileMove[]
+  readonly moves?: readonly FileMove[]
   readonly readings?: readonly Carry[]
   readonly draft?: boolean
   readonly reaching?: () => undefined
@@ -190,8 +190,7 @@ async function reporting(
 ): Promise<Answer> {
   const paths = pathsOf(asked.changes)
   const change =
-    over ??
-    changeOf(root, { base: baseOf(root), edits: asked.changes, carries: asked.carries ?? [] })
+    over ?? changeOf(root, { base: baseOf(root), edits: asked.changes, moves: asked.moves ?? [] })
   const held = { said: await gate.over(change), woke: gate.checksFor(change).length }
   if (held.said.length > 0) {
     return {
@@ -265,7 +264,7 @@ async function draftingAsked(
       given.writer,
       asked.read ?? null,
       asRead,
-      asked.carries ?? [],
+      asked.moves ?? [],
       { page }
     )
   } catch (thrown) {
@@ -292,7 +291,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
     return { report: [], refusals: [`${NOTHING} — ${whyOf(thrown)}`], code: 3 }
   }
   const base = baseOf(given.root)
-  const prepared = preparing(given.root, base, minted.changes, asked.carries ?? [])
+  const prepared = preparing(given.root, base, minted.changes, asked.moves ?? [])
   if ("refusals" in prepared) return mistaking([...prepared.refusals, NOTHING])
   const formatting = prepared.formatting
   const aside = [
@@ -321,7 +320,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
       given.writer,
       held.read ?? null,
       asRead,
-      held.carries ?? [],
+      held.moves ?? [],
       null,
       prepared.over
     )
@@ -335,7 +334,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   carryLanded(given.root, base, runningOf(given.changeKind), held.changes, held.readings ?? [])
   recordLanded(given, formatting.changes)
-  const put = installingIn(given.root, held.changes, held.carries ?? [])
+  const put = installingIn(given.root, held.changes, held.moves ?? [])
   return {
     report: reported(counted, said, {
       saying: held.saying,

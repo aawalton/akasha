@@ -63,11 +63,11 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A carry the caller names is handed to the landing the apply makes.",
+      statement: "A move the caller names is handed to the landing the apply makes.",
     },
     {
       invariantKind: "departure",
-      statement: "A carry the bodies handed in name is handed on beside the caller's carries.",
+      statement: "A move the bodies handed in name is handed on beside the caller's moves.",
     },
     {
       invariantKind: "departure",

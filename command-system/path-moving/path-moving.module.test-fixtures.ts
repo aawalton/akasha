@@ -22,7 +22,7 @@ export const PAGE_TO = "akasha/deep/a.domain.ts"
 
 export const MORE = `${A}// moved\n`
 
-export function blockedCarries(root: string): readonly FileMove[] {
+export function blockedMoves(root: string): readonly FileMove[] {
   writeFileSync(join(root, "one.uncommitted.ts"), "one")
   writeFileSync(join(root, "two.uncommitted.ts"), "two")
   mkdirSync(join(root, "deep/two.uncommitted.ts"), { recursive: true })

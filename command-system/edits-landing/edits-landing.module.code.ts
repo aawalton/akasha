@@ -24,26 +24,26 @@ export function owingIn(said: Said): ReadonlyMap<string, boolean> {
 
 export type Landing = {
   readonly held: Bodies
-  readonly carries: readonly FileMove[]
+  readonly moves: readonly FileMove[]
 }
 
-export function carriesIn(said: Said): readonly FileMove[] {
+export function movesIn(said: Said): readonly FileMove[] {
   const named = new Map<string, number>()
   for (const one of said.edits) {
     for (const path of pathsOf(one)) named.set(path, (named.get(path) ?? 0) + 1)
   }
-  const carries: FileMove[] = []
+  const moves: FileMove[] = []
   for (const one of said.edits) {
     if (one.kind !== "move") continue
     if (named.get(one.pathFrom) !== 1 || named.get(one.pathTo) !== 1) continue
-    carries.push({ from: one.pathFrom, to: one.pathTo })
+    moves.push({ from: one.pathFrom, to: one.pathTo })
   }
-  return carries
+  return moves
 }
 
 export function bodiesFrom(root: string, said: Said): Landing | { readonly why: string } {
-  const carries = carriesIn(said)
-  const moved = new Set(carries.flatMap((one) => [one.from, one.to]))
+  const moves = movesIn(said)
+  const moved = new Set(moves.flatMap((one) => [one.from, one.to]))
   const reads = bodyIn(root)
   const after = replayed(said, (path) =>
     moved.has(path) ? (existsSync(join(root, path)) ? NOT_TEXT : null) : reads(path)
@@ -62,5 +62,5 @@ export function bodiesFrom(root: string, said: Said): Landing | { readonly why: 
       ...(owes === undefined ? {} : { readersOweReading: owes }),
     })
   }
-  return { held, carries }
+  return { held, moves }
 }

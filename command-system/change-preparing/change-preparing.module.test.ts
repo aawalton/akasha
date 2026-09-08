@@ -30,7 +30,7 @@ import {
 
 afterAll(scratch.sweep)
 
-test("the change judged carries the paths a carry moves beside the paths an edit writes", () => {
+test("the change judged carries the paths a move renames beside the paths an edit writes", () => {
   const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "second\n" })
   const said = preparing(
     root,

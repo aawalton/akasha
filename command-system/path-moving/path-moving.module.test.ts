@@ -13,7 +13,7 @@ import {
   scratch,
 } from "../landing/landing.module.test-fixtures.ts"
 import {
-  blockedCarries,
+  blockedMoves,
   MORE,
   MOVED_BIN,
   MOVED_TO,
@@ -47,24 +47,24 @@ test("a move whose body also changed lands the rename and the new body", async (
   expect(said.tree).not.toContain(PAGE)
 })
 
-test("a path a change carries that no commit holds moves on disk and is committed nowhere", async () => {
+test("a path a change moves that no commit holds moves on disk and is committed nowhere", async () => {
   const root = await edged({ "one.txt": "committed" })
   writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
-  const carries = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
+  const moves = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
   const change = [{ path: "new.txt", body: bytes("proposed") }]
-  const said = await landing(root, change, "held", ADMITS, null, null, [], carries)
+  const said = await landing(root, change, "held", ADMITS, null, null, [], moves)
   expect("refusals" in said).toBe(false)
   expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
   expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)
   expect(filesIn(root)).toEqual(besides("new.txt", "one.txt"))
 })
 
-test("a carry that will not go puts back the ones that went and commits nothing", async () => {
+test("a move that will not go puts back the ones that went and commits nothing", async () => {
   const root = await edged({ "one.txt": "committed" })
   const was = baseOf(root)
-  const carries = blockedCarries(root)
+  const moves = blockedMoves(root)
   const change = [{ path: "new.txt", body: bytes("proposed") }]
-  await expect(landing(root, change, "held", ADMITS, null, null, [], carries)).rejects.toThrow()
+  await expect(landing(root, change, "held", ADMITS, null, null, [], moves)).rejects.toThrow()
   expect(readFileSync(join(root, "one.uncommitted.ts"), "utf8")).toBe("one")
   expect(readFileSync(join(root, "two.uncommitted.ts"), "utf8")).toBe("two")
   expect(existsSync(join(root, "deep/one.uncommitted.ts"))).toBe(false)

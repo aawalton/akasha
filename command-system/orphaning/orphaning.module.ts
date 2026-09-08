@@ -15,7 +15,7 @@ export const orphaning = {
     },
     {
       invariantKind: "departure",
-      statement: "A path carried away is weighed as a path taken away is.",
+      statement: "A path moved away is weighed as a path taken away is.",
     },
     {
       invariantKind: "departure",

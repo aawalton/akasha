@@ -290,11 +290,11 @@ test("an install leaves a folder under node_modules that is no link", () => {
   expect(existsSync(scoped)).toBe(true)
 })
 
-const CARRIED = [{ from: "held/one/package.json", to: "held/moved/package.json" }]
+const MOVED = [{ from: "held/one/package.json", to: "held/moved/package.json" }]
 
-test("a manifest carried to another path takes the lockfile with it", () => {
+test("a manifest moved to another path takes the lockfile with it", () => {
   const root = world()
-  const held = lockingFor(root, baseOf(root), [], CARRIED)
+  const held = lockingFor(root, baseOf(root), [], MOVED)
   expect(held.edits.map((one) => one.path)).toEqual([LOCK])
   renameSync(join(root, "held/one"), join(root, "held/moved"))
   expect(ran(FROZEN, { cwd: root }).code).not.toBe(0)
@@ -308,13 +308,13 @@ test("a landing carrying a manifest to another path points the workspace at that
   const root = world(true)
   const link = join(root, MODULES, "@held", "one")
   expect(existsSync(link)).toBe(true)
-  const locked = lockingFor(root, baseOf(root), [], CARRIED)
+  const locked = lockingFor(root, baseOf(root), [], MOVED)
   renameSync(join(root, "held/one"), join(root, "held/moved"))
   for (const one of locked.edits) {
     writeFileSync(join(root, one.path), one.body ?? new Uint8Array())
   }
   expect(existsSync(link)).toBe(false)
-  const put = installingIn(root, [], CARRIED)
+  const put = installingIn(root, [], MOVED)
   expect(put.wrong).toEqual([])
   expect(existsSync(link)).toBe(true)
 })

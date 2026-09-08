@@ -68,10 +68,10 @@ export function folding(root: string, page: string): Folded {
       return had
     }
     answer = {
-      folded: [...bodies.held.keys(), ...bodies.carries.map((one) => one.to)].sort(),
+      folded: [...bodies.held.keys(), ...bodies.moves.map((one) => one.to)].sort(),
       dropped,
       unfold: { went: linesIn(root, page) },
-      carried: { held: bodies.held, running: CHANGED, carries: bodies.carries },
+      carried: { held: bodies.held, running: CHANGED, moves: bodies.moves },
     }
     return had
   })

@@ -23,11 +23,11 @@ export const editsLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A move no other edit names is handed on as a path carried rather than as a body.",
+      statement: "A move no other edit names is handed on as a path moved rather than as a body.",
     },
     {
       invariantKind: "departure",
-      statement: "Neither path of a carry is read for a body or handed on as one.",
+      statement: "Neither path of a move is read for a body or handed on as one.",
     },
     {
       invariantKind: "departure",

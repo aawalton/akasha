@@ -6,7 +6,7 @@ export type Gone = {
   readonly body: Uint8Array | null
 }
 
-export type Carry = {
+export type Move = {
   readonly from: string
   readonly to: string
 }
@@ -20,12 +20,12 @@ const NAMED = 3
 
 export const TOGETHER = "the importers have to change in the same landing"
 
-export function absentAfter(edits: readonly Gone[], carries: readonly Carry[]): readonly string[] {
+export function absentAfter(edits: readonly Gone[], moves: readonly Move[]): readonly string[] {
   const gone = new Set<string>()
   for (const one of edits) if (one.body === null) gone.add(one.path)
-  for (const one of carries) gone.add(one.from)
+  for (const one of moves) gone.add(one.from)
   for (const one of edits) if (one.body !== null) gone.delete(one.path)
-  for (const one of carries) gone.delete(one.to)
+  for (const one of moves) gone.delete(one.to)
   return [...gone].sort()
 }
 

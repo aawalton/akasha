@@ -133,12 +133,12 @@ export const manifestLocking = {
     {
       invariantKind: "departure",
       statement:
-        "A manifest carried from one path to another is a manifest going and a manifest arriving.",
+        "A manifest moved from one path to another is a manifest going and a manifest arriving.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A manifest carried is moved in the scratch tree before the manifests are worked in.",
+        "A manifest moved is renamed in the scratch tree before the manifests are worked in.",
     },
     {
       invariantKind: "departure",

@@ -69,9 +69,9 @@ export function noneSaid(root: string, page: string): string {
 export function messageFor(
   said: string | null,
   held: Bodies,
-  carries: readonly FileMove[] = []
+  moves: readonly FileMove[] = []
 ): string {
-  return said ?? defaultMessage(APPLIES, [...held.keys(), ...carries.map((one) => one.to)])
+  return said ?? defaultMessage(APPLIES, [...held.keys(), ...moves.map((one) => one.to)])
 }
 
 export type Applying = Answer & { readonly landed: boolean }
@@ -141,7 +141,7 @@ export async function applying(
   const built0 = broken === null && "gate" in built ? built.gate : NO_GATE
   const gate = asked.measure ? measured(built0) : built0
   const unloaded = "gate" in built ? null : built.broken
-  const said0 = messageFor(asked.message, carried.held, carried.carries)
+  const said0 = messageFor(asked.message, carried.held, carried.moves)
   const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   if (asked.measure) process.env[MEASURING] = MARK
@@ -178,7 +178,7 @@ export async function applying(
 export type Carried = {
   readonly held: Bodies
   readonly running: Running
-  readonly carries?: readonly FileMove[]
+  readonly moves?: readonly FileMove[]
 }
 
 export type Applied = {
@@ -233,7 +233,7 @@ export async function applied(
   message: string,
   judging: Judging,
   writer: string | null = null,
-  carries: readonly FileMove[] = [],
+  moves: readonly FileMove[] = [],
   carried: Carried | null = null,
   read: string | null = null
 ): Promise<Applied | Refused> {
@@ -252,8 +252,8 @@ export async function applied(
   }
   const running = holding.running
   const gate = running.checks ? judging : NO_GATE
-  const carrying = [...carries, ...(holding.carries ?? [])]
-  const prepared = preparing(root, head, editsOf(said.held), carrying)
+  const moving = [...moves, ...(holding.moves ?? [])]
+  const prepared = preparing(root, head, editsOf(said.held), moving)
   if ("refusals" in prepared) return { refusals: [...prepared.refusals, UNEXPORTABLE] }
   const formatting = prepared.formatting
   if (running.writerOwesReading && agentId !== null)
@@ -267,14 +267,14 @@ export async function applied(
     writer,
     read ?? head,
     asRead,
-    carrying,
+    moving,
     null,
     prepared.over
   )
   if ("refusals" in done) return done
   carryLanded(root, head, running, prepared.changes, [])
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
-  const put = installingIn(root, prepared.changes, carrying)
+  const put = installingIn(root, prepared.changes, moving)
   return {
     base: done.base,
     landed: [...done.wrote, ...done.took].sort(),

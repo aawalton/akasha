@@ -95,11 +95,11 @@ test("a body that is not text moves with its bytes unchanged", async () => {
   const landed = `${INTO}/deep/held.png`
   const held = bodiesFrom(root, said)
   if ("why" in held) throw new Error(held.why)
-  movedOnto(root, held.carries)
+  movedOnto(root, held.moves)
 
   expect(said.refused).toBeNull()
   expect(pathsIn(said)).toContain(landed)
-  expect(held.carries).toContainEqual({ from: NOT_TEXT, to: landed })
+  expect(held.moves).toContainEqual({ from: NOT_TEXT, to: landed })
   expect(held.held.has(landed)).toBe(false)
   expect(new Uint8Array(readFileSync(join(root, landed)))).toEqual(PNG)
 })
