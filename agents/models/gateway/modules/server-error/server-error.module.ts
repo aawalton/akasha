@@ -10,19 +10,19 @@ export const serverError = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Status 529 matches whatever the body carries.",
+      statement: "Status 529 matches whatever the body has.",
     },
     {
       invariantKind: "departure",
-      statement: "Status 500 matches whatever the body carries.",
+      statement: "Status 500 matches whatever the body has.",
     },
     {
       invariantKind: "departure",
-      statement: "Status 502 matches whatever the body carries.",
+      statement: "Status 502 matches whatever the body has.",
     },
     {
       invariantKind: "departure",
-      statement: "Status 503 matches whatever the body carries.",
+      statement: "Status 503 matches whatever the body has.",
     },
     {
       invariantKind: "departure",

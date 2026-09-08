@@ -5,7 +5,7 @@ export const preForwardQueue = {
   pageTypeSlug: "module",
   slug: "pre-forward-queue",
   definition:
-    "the re-probing a request waits through when no account is eligible to carry that request",
+    "the re-probing a request waits through when no account is eligible to have that request",
   code: "ts",
   test: "ts",
   invariants: [

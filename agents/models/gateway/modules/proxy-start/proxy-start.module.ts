@@ -68,19 +68,19 @@ export const proxyStart = {
     },
     {
       invariantKind: "absence",
-      statement: "No option here carries a token.",
+      statement: "No option here has a token.",
     },
     {
       invariantKind: "absence",
-      statement: "No option here carries an account name.",
+      statement: "No option here has an account name.",
     },
     {
       invariantKind: "gap",
-      statement: "Nothing a gateway runs reads the refresh outcome hook these options carry.",
+      statement: "Nothing a gateway runs reads the refresh outcome hook these options have.",
     },
     {
       invariantKind: "gap",
-      statement: "Nothing a gateway runs reads the terminal test these options carry.",
+      statement: "Nothing a gateway runs reads the terminal test these options have.",
     },
     {
       invariantKind: "gap",

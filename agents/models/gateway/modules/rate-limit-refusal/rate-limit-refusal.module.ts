@@ -18,7 +18,7 @@ export const rateLimitRefusal = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal carries the anthropic error envelope.",
+      statement: "A refusal has the anthropic error envelope.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +58,7 @@ export const rateLimitRefusal = {
     },
     {
       invariantKind: "departure",
-      statement: "A response carries the status text `Too Many Requests`.",
+      statement: "A response has the status text `Too Many Requests`.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +66,7 @@ export const rateLimitRefusal = {
     },
     {
       invariantKind: "departure",
-      statement: "A response carries the wait in a `retry-after` header.",
+      statement: "A response has the wait in a `retry-after` header.",
     },
     {
       invariantKind: "departure",

@@ -32,7 +32,7 @@ export const permissionDenied = {
     {
       invariantKind: "departure",
       statement:
-        "A match reading an envelope with no message carries `permission_error` as the reason.",
+        "A match reading an envelope with no message has `permission_error` as the reason.",
     },
     {
       invariantKind: "departure",

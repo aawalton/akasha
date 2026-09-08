@@ -9,7 +9,7 @@ export const activityReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is taken on the workstation carrying the checkout.",
+      statement: "The reading is taken on the workstation with the checkout.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const activityReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying neither the cardio half nor the lifting half takes no reading.",
+      statement: "A day with neither the cardio half nor the lifting half takes no reading.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const activityReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A day whose health samples never arrived carries no cardio half.",
+      statement: "A day whose health samples never arrived has no cardio half.",
     },
     {
       invariantKind: "departure",

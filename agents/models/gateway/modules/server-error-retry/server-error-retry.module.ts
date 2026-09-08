@@ -46,11 +46,11 @@ export const serverErrorRetry = {
     },
     {
       invariantKind: "departure",
-      statement: "Every retry carries the token of the account being retried.",
+      statement: "Every retry has the token of the account being retried.",
     },
     {
       invariantKind: "departure",
-      statement: "Every retry carries the body of the request that failed.",
+      statement: "Every retry has the body of the request that failed.",
     },
     {
       invariantKind: "departure",
@@ -86,11 +86,11 @@ export const serverErrorRetry = {
     },
     {
       invariantKind: "departure",
-      statement: "A persistent error carries the body of the last attempt.",
+      statement: "A persistent error has the body of the last attempt.",
     },
     {
       invariantKind: "departure",
-      statement: "A persistent error carries the status of the last attempt.",
+      statement: "A persistent error has the status of the last attempt.",
     },
     {
       invariantKind: "departure",

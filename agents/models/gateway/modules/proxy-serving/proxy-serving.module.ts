@@ -63,12 +63,11 @@ export const proxyServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A response carrying a body arms the observer to lower the in-flight count.",
+      statement: "A response with a body arms the observer to lower the in-flight count.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A response carrying no body lowers the in-flight count before that answer goes out.",
+      statement: "A response with no body lowers the in-flight count before that answer goes out.",
     },
     {
       invariantKind: "departure",
@@ -101,7 +100,7 @@ export const proxyServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A remote-control response carrying a body arms its observer to lower that count.",
+      statement: "A remote-control response with a body arms its observer to lower that count.",
     },
     {
       invariantKind: "departure",
@@ -109,8 +108,7 @@ export const proxyServing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A request carrying a body is read into one buffer before that request is forwarded.",
+      statement: "A request with a body is read into one buffer before that request is forwarded.",
     },
     {
       invariantKind: "departure",
@@ -283,11 +281,11 @@ export const proxyServing = {
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here reads the refresh outcome hook the start options carry.",
+      statement: "Nothing here reads the refresh outcome hook the start options have.",
     },
     {
       invariantKind: "gap",
-      statement: "Nothing here reads the terminal test the start options carry.",
+      statement: "Nothing here reads the terminal test the start options have.",
     },
     {
       invariantKind: "gap",

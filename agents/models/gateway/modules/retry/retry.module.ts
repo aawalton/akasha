@@ -19,7 +19,7 @@ export const retry = {
     },
     {
       invariantKind: "departure",
-      statement: "A DOMException carrying no idle timeout token is not transient.",
+      statement: "A DOMException with no idle timeout token is not transient.",
     },
     {
       invariantKind: "departure",

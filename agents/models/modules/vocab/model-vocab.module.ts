@@ -33,7 +33,7 @@ export const modelVocab = {
     },
     {
       invariantKind: "departure",
-      statement: "A raw name carries the marker at the end of the raw name or nowhere.",
+      statement: "A raw name has the marker at the end of the raw name or nowhere.",
     },
     {
       invariantKind: "departure",
@@ -61,7 +61,7 @@ export const modelVocab = {
     },
     {
       invariantKind: "departure",
-      statement: "Which logical names can carry extended context is named here.",
+      statement: "Which logical names can have extended context is named here.",
     },
     {
       invariantKind: "departure",
@@ -69,12 +69,12 @@ export const modelVocab = {
     },
     {
       invariantKind: "departure",
-      statement: "A cli alias carries the marker only for a model that can carry the marker.",
+      statement: "A cli alias has the marker only for a model that can have the marker.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A cli alias carries the marker only where the caller says extended context is to be had.",
+        "A cli alias has the marker only where the caller says extended context is to be had.",
     },
     {
       invariantKind: "absence",

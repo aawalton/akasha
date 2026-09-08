@@ -66,7 +66,7 @@ export const transportLog = {
     },
     {
       invariantKind: "departure",
-      statement: "One decoder serves every chunk this process carries.",
+      statement: "One decoder serves every chunk this process has.",
     },
     {
       invariantKind: "departure",

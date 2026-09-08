@@ -22,7 +22,7 @@ export const chessPuzzleLichess = {
     },
     {
       invariantKind: "departure",
-      statement: "Every puzzle row carries the CC0-1.0 licence the database is published under.",
+      statement: "Every puzzle row has the CC0-1.0 licence the database is published under.",
     },
   ],
 } as const satisfies Module

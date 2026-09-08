@@ -30,15 +30,15 @@ export const proxySeats = {
     },
     {
       invariantKind: "departure",
-      statement: "A live seat carries the version its proxy is running.",
+      statement: "A live seat has the version its proxy is running.",
     },
     {
       invariantKind: "departure",
-      statement: "A live seat carries the agent id the seat is reached by.",
+      statement: "A live seat has the agent id the seat is reached by.",
     },
     {
       invariantKind: "departure",
-      statement: "A seat carrying no name is live under a null name.",
+      statement: "A seat with no name is live under a null name.",
     },
     {
       invariantKind: "departure",

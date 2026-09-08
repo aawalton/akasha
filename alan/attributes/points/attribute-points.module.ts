@@ -51,7 +51,7 @@ export const attributePoints = {
     },
     {
       invariantKind: "departure",
-      statement: "An attribute carrying nothing before today totals today's points alone.",
+      statement: "An attribute with nothing before today totals today's points alone.",
     },
     {
       invariantKind: "departure",
