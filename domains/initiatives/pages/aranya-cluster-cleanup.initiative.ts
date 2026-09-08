@@ -20,17 +20,12 @@ export const aranyaClusterCleanup = {
     {
       statement: "All cluster-specific files are in the cluster/ folder.",
       workingMemory:
-        "`cluster/manifests`, `cluster/operations` and `cluster/services` have all arrived, so every folder named here is under `cluster/`. What is left is what intent three moves: the workflow language and its templates, still under `changes/`. A move re-depths what an import spells and rewrites nothing spelled as text, and touching an old file runs every prose and lint refusal already latent in it.",
+        "Every folder this intent set out to move is under `cluster/`: manifests, operations, services and workflows. What is left outside is what the commands remodel gathered: nine command pages under `commands/pages/` naming the cluster or Talos, and `talos.namespace`. `machines/clusters` holds the cluster as a machine rather than as a workload, and the checks stay where a constraint puts them. A move rewrites nothing spelled as text, so a path in a string outlives it.",
     },
     {
       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
         "`cluster/` carries 18 refusals: 16 folders under `provisioning/talos/` open with `talos`, `cluster-api-fetch` opens with `cluster-api`, and `provisioning` holds two domain pages where a shape allows one. Renaming the three folders that arrived added no refusal and removed none, measured over a seeded layout. The check states no phase, so only a direct run measures it.",
-    },
-    {
-      statement: "The workflow language and its templates sit in cluster/workflow/.",
-      workingMemory:
-        "Both sit under `changes/`. All 38 declarations reach the language by its package name, so a move breaks no import, and only `bun.lock` and one comment spell either folder's path. A seeded run of `folder-matches-a-shape` over the whole layout under `cluster/workflow/` refused nothing, though the parent folder's own verdict is unproven: a probe cannot file a new page into the committed index.",
     },
   ],
 } as const satisfies Initiative
