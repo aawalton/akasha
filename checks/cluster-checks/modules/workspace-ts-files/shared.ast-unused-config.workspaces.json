@@ -56,7 +56,7 @@
         "**/*.ts"
       ]
     },
-    "utils-narrow": {
+    "utils/narrow": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
@@ -64,7 +64,7 @@
         "**/*.ts"
       ]
     },
-    "utils-sync": {
+    "utils/sync": {
       "entry": [
         "**/*.test.{ts,tsx}"
       ],
