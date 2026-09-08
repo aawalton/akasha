@@ -73,7 +73,7 @@ export const theaChecksSystem = {
     {
       statement: "Every file claimed by nothing else is claimed by a page.",
       workingMemory:
-        "Thirteen files, each wanting its own decision rather than a rule, and Alan reviews them one at a time. Four prefixed dockerfile extensions in one folder under infrastructure/dockerfiles. Two health-samples jsonl, a ratchet and a config are named like property files whose property nothing declares. Then a territory map, an eso opt-in, a hard-cases markdown, and a canary under __fixtures__ that sits in a folder rather than beside its page.",
+        "Twelve files, each wanting its own decision rather than a rule, and Alan reviews them one at a time. Four prefixed dockerfile extensions in one folder under infrastructure/dockerfiles. Two health-samples jsonl, a ratchet and a config are named like property files whose property nothing declares. Then a territory map, an eso opt-in, a hard-cases markdown, and a canary under __fixtures__ that sits in a folder rather than beside its page.",
     },
   ],
   constraints: [
