@@ -1,10 +1,10 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { DoctrineVersion } from "../../gm-doctrine-packs/properties/doctrine-version.number-property.ts"
-import type { GateDimensions } from "../../gm-doctrine-packs/properties/gate-dimensions.file-property.ts"
-import type { Policies } from "../../gm-doctrine-packs/properties/policies.file-property.ts"
-import type { SheetTemplate } from "../../gm-doctrine-packs/properties/sheet-template.file-property.ts"
-import type { TallyCatalog } from "../../gm-doctrine-packs/properties/tally-catalog.file-property.ts"
+import type { DoctrineVersion } from "./properties/doctrine-version.number-property.ts"
+import type { GateDimensions } from "./properties/gate-dimensions.file-property.ts"
+import type { Policies } from "./properties/policies.file-property.ts"
+import type { SheetTemplate } from "./properties/sheet-template.file-property.ts"
+import type { TallyCatalog } from "./properties/tally-catalog.file-property.ts"
 
 export type Doctrine = Page & {
   doctrineVersion: DoctrineVersion

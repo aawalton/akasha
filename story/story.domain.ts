@@ -14,7 +14,6 @@ export const story = {
     "domain/wandering-inn",
     "domain/world-lore",
     "page-type/game",
-    "page-type/gm-doctrine-pack",
     "page-type/named-event",
     "page-type/story-build",
     "page-type/story-chapter-played",
