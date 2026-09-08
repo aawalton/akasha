@@ -1,23 +1,7 @@
-// Jenny's safety tile, driven over real HTTP: the relay carrier POSTs a reading into her
-// receiving route, and her own route answers it as the `stoplights` body her shipped widget
-// decodes. The two secrets are the only made-up things here, generated fresh for each run.
-//
-// The reading in these tests is a fixture. The level Alan is actually at is never read here,
-// and no test asserts a level as though it were his.
-//
-// The level is Alan's. Jenny's widget says so in its own words — "Where Alan's safety level
-// stands today" — so the group her route serves is the same one his site serves, and the
-// reading reaching her pod is the same reading, carried to two sites rather than taken twice.
-//
-// What this pins that nothing else does: the shipped Swift decodes `stoplights` as a NON-EMPTY
-// array whose every element carries a `tier` that is one of six colour names. An empty array, a
-// missing `tier`, or a colour outside that set fails the whole decode and the tile falls back to
-// its cache and then to "No signal". So the shape below is a contract with a binary already on
-// Jenny's phone, not a convention this repository is free to change.
 import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
 import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
-import { action } from "./api.readout-relay.ts"
-import { loader } from "./api.safety-level.ts"
+import { action } from "../api.readout-relay.ts"
+import { loader } from "./jenny-safety-level.route.code.ts"
 
 const RING_CREDENTIAL = crypto.randomUUID()
 const RELAY_SECRET = crypto.randomUUID()
@@ -29,9 +13,6 @@ process.env.READING_RELAY_SECRET = RELAY_SECRET
 
 const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
 
-// The rungs the `safety-level` scale page states, and the keys the `upkeep-safety` readout page
-// carries. Held here so a change to either page shows up as a failure rather than as a blank
-// tile on Jenny's home screen.
 const READOUT_ROW = {
   slug: READOUT,
   label: "Safety",
@@ -74,12 +55,6 @@ beforeAll(() => {
   origin = `http://localhost:${server.port}`
 })
 
-// THE ORIGIN THIS FILE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
-//
-// Every test file in one run shares one process, so a file leaving this origin in place leaves
-// every later file asking this store rather than the store the run was pointed at. Stopping the
-// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
-// one, so a stopped store goes on answering the file that runs next.
 afterAll(() => {
   server.stop()
   store.stop(true)
@@ -102,8 +77,6 @@ type Stoplight = {
   progress?: number
 }
 
-// `null` is the caller holding nothing. `undefined` would take the default back, which is how a
-// test meaning to send no credential quietly sends the right one and passes.
 const tile = (credential: string | null = RING_CREDENTIAL) =>
   fetch(`${origin}/api/safety-level`, {
     headers: credential === null ? {} : { "X-Ring-Credential": credential },
@@ -168,7 +141,7 @@ test("the widget's body is a non-empty list under `stoplights`", async () => {
   expect(stoplights.length).toBeGreaterThan(0)
 })
 
-test("every stoplight carries a tier that is one of the six colours the phone decodes", async () => {
+test("every stoplight carries a tier that is one of the six colors the phone decodes", async () => {
   for (const level of [-2, -1.5, 0, 0.5, 1, 2, 2.5, 3, 4, 5]) {
     dropRelayed()
     await carryNow(level)
@@ -179,7 +152,7 @@ test("every stoplight carries a tier that is one of the six colours the phone de
   }
 })
 
-test("the colour is resolved here rather than sent as rungs for the phone to work out", async () => {
+test("the color is resolved here rather than sent as rungs for the phone to work out", async () => {
   await carryNow(2.5)
   const [one] = await drawn()
   expect(one?.tier).toBe("yellow")

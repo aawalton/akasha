@@ -8,7 +8,7 @@ export default [
   route("api/live-version", "routes/api.live-version.ts"),
   route("api/categorization", "routes/api.categorization.ts"),
   route("api/readout-relay", "routes/api.readout-relay.ts"),
-  route("api/safety-level", "routes/api.safety-level.ts"),
+  route("api/safety-level", "routes/jenny-safety-level/jenny-safety-level.route.code.ts"),
   route("api/surplus", "routes/jenny-surplus/jenny-surplus.route.code.ts"),
   route("api/push/register", "routes/api.push.register.ts"),
   route("api/errors", "routes/api.errors.ts"),
