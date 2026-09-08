@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../../../../pages/properties/title.text-property.ts"
+import type { Title } from "../../../../../../pages/properties/title.text-property.ts"
 import type { CoachingNoteActive } from "./properties/coaching-note-active.boolean-property.ts"
 import type { CoachingNoteDate } from "./properties/coaching-note-date.calendar-date-property.ts"
 import type { CoachingNoteKind } from "./properties/coaching-note-kind.select-property.ts"
