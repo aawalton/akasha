@@ -21,13 +21,11 @@ export interface PayloadMirror {
 const READOUTS = "../akasha/readouts"
 const ROUTES = "alan/web/routes"
 
-const RESPONSE_BODY = "return Response.json("
-
-const bodyOf = (route: string): CanonicalRef => ({
-  file: `${ROUTES}/${route}`,
-  anchor: RESPONSE_BODY,
+const STOPLIGHTS_BODY: CanonicalRef = {
+  file: "readouts/group-serving/readout-group-serving.module.code.ts",
+  anchor: "return Response.json(",
   kind: "body",
-})
+}
 
 export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
   {
@@ -57,7 +55,7 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
     },
     unit: "key",
   },
-  { struct: "InboxStoplightsResponse", canonical: bodyOf("api.inbox-stoplights.ts"), unit: "key" },
+  { struct: "InboxStoplightsResponse", canonical: STOPLIGHTS_BODY, unit: "key" },
   {
     struct: "InboxStoplight",
     canonical: {
@@ -67,7 +65,7 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
     },
     unit: "key",
   },
-  { struct: "SafetyLevelResponse", canonical: bodyOf("api.safety-level.ts"), unit: "key" },
+  { struct: "SafetyLevelResponse", canonical: STOPLIGHTS_BODY, unit: "key" },
   {
     struct: "HabitStoplight",
     canonical: {
@@ -77,8 +75,8 @@ export const PAYLOAD_MIRRORS: readonly PayloadMirror[] = [
     },
     unit: "key",
   },
-  { struct: "SurplusResponse", canonical: bodyOf("api.surplus.ts"), unit: "key" },
-  { struct: "UpkeepStoplightsResponse", canonical: bodyOf("api.habit-stoplights.ts"), unit: "key" },
+  { struct: "SurplusResponse", canonical: STOPLIGHTS_BODY, unit: "key" },
+  { struct: "UpkeepStoplightsResponse", canonical: STOPLIGHTS_BODY, unit: "key" },
   {
     struct: "UpkeepStoplight",
     canonical: {
