@@ -4,13 +4,13 @@ import type { TransformationContext } from "../context-transformation-context/co
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   transformInPrecedingStatementScope,
   type WithPrecedingStatements,
 } from "../preceding-statements/preceding-statements.module.code.ts"
 import { performHoisting, ScopeType } from "../scope/scope.module.code.ts"
 import { truthyOnlyConditionalValue } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { canBeFalsy } from "../typescript/typescript.module.code.ts"
 import { transformBlockOrStatement } from "../visit-block/visit-block.module.code.ts"
 

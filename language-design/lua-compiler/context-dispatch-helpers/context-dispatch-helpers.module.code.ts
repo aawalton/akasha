@@ -5,11 +5,11 @@ import { validateAssignment } from "../assignment-validation/assignment-validati
 import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { isOptionalContinuation } from "../optional-chain-data/optional-chain-data.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { isConstIdentifier } from "../typescript/typescript.module.code.ts"
 
 function validateArguments(

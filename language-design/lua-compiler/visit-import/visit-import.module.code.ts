@@ -5,6 +5,7 @@ import type { TransformationContext } from "../context-transformation-context/co
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
 import { createDefaultExportStringLiteral } from "../export-scope/export-scope.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   createStaticPromiseFunctionAccessor,
   importLuaLibFeature,
@@ -13,7 +14,6 @@ import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts
 import { createSafeName } from "../safe-names/safe-names.module.code.ts"
 import { peekScope } from "../scope/scope.module.code.ts"
 import { createHoistableVariableDeclarationStatement } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import {
   getCustomNameFromSymbol,
   transformIdentifier,

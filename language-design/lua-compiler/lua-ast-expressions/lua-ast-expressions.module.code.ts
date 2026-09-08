@@ -8,13 +8,13 @@ import {
   setNodePositionFromTs,
   type UnaryOperator,
 } from "../lua-ast-core/lua-ast-core.module.code.ts"
-import type { Block } from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
+import type { Block } from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   type AssignmentStatement,
   isReturnStatement,
   type ReturnStatement,
   type VariableDeclarationStatement,
-} from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
+} from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 
 export interface NilLiteral extends Node {
   kind: typeof SyntaxKind.NilKeyword

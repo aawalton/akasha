@@ -1,7 +1,7 @@
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { createClassMethodDecoratingExpression } from "../visit-decorators/visit-decorators.module.code.ts"
 import { transformFunctionToExpression } from "../visit-function/visit-function.module.code.ts"
 import {

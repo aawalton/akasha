@@ -5,6 +5,7 @@ import type { TransformationContext } from "../context-transformation-context/co
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import {
@@ -12,7 +13,6 @@ import {
   type WithPrecedingStatements,
 } from "../preceding-statements/preceding-statements.module.code.ts"
 import { wrapInToStringForConcat } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { assert, cast } from "../tstl-utils/tstl-utils.module.code.ts"
 import {
   canBeFalsyWhenNotNull,

@@ -4,9 +4,9 @@ import type * as ts from "typescript"
 import type { CompilerOptions } from "../compiler-options/compiler-options.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { shouldAllowUnicode } from "../safe-names/safe-names.module.code.ts"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
-import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 
 const escapeStringRegExp = /[\b\f\n\r\t\v\\"\0]/g
 const escapeStringMap = new Map<string, string>([

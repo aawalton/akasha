@@ -4,12 +4,12 @@ import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.m
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   createOptionalContinuationIdentifier,
   getOptionalContinuationData,
 } from "../optional-chain-data/optional-chain-data.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { assert, cast } from "../tstl-utils/tstl-utils.module.code.ts"
 import {
   canBeFalsyWhenNotNull,

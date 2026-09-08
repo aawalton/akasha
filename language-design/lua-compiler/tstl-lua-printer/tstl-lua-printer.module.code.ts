@@ -3,13 +3,13 @@ import { type Mapping, SourceMapGenerator, type SourceNode } from "source-map"
 import type * as ts from "typescript"
 import { LuaLibImportKind, LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { lualibPrinterHolder } from "../lualib-builder-deps/lualib-builder-deps.module.code.ts"
 import {
   loadImportedLualibFeatures,
   loadInlineLualibFeatures,
 } from "../lualib-runtime/lualib-runtime.module.code.ts"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
-import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import {
   concatNodes,
   createLuaPrinterState,

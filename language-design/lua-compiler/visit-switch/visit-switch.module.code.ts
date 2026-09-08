@@ -3,12 +3,12 @@ import type { TransformationContext } from "../context-transformation-context/co
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
 import * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   transformInPrecedingStatementScope,
   type WithPrecedingStatements,
 } from "../preceding-statements/preceding-statements.module.code.ts"
 import { ScopeType, separateHoistedStatements } from "../scope/scope.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { createShortCircuitBinaryExpressionPrecedingStatements } from "../visitors-binary-expression/visitors-binary-expression.module.code.ts"
 
 const containsBreakOrReturn = (nodes: Iterable<ts.Node>): boolean => {

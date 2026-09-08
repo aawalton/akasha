@@ -1,6 +1,6 @@
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
+import type * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 
 export interface WithPrecedingStatements<
   T extends

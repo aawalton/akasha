@@ -8,6 +8,7 @@ import {
   isSymbolExported,
 } from "../export-scope/export-scope.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
 import { transformInPrecedingStatementScope } from "../preceding-statements/preceding-statements.module.code.ts"
@@ -16,7 +17,6 @@ import {
   notAllowedOptionalAssignment,
 } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import { createBoundedUnpackCall, wrapInTable } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { isArrayType, isDestructuringAssignment } from "../typescript/typescript.module.code.ts"
 import { transformElementAccessArgument } from "../visit-access/visit-access.module.code.ts"
 import { isArrayLength } from "../visit-array-length/visit-array-length.module.code.ts"

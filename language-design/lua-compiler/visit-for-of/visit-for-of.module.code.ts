@@ -7,9 +7,9 @@ import {
   IterableExtensionKind,
 } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformLuaLibFunction } from "../lualib-call/lualib-call.module.code.ts"
 import { LuaLibFeature } from "../lualib-features/lualib-features.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { isArrayType } from "../typescript/typescript.module.code.ts"
 import {
   transformForOfIterableStatement,

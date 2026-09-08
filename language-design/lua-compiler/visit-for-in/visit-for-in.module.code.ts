@@ -1,8 +1,8 @@
 import type * as ts from "typescript"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { forbiddenForIn } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { isArrayType } from "../typescript/typescript.module.code.ts"
 import {
   transformForInitializer,

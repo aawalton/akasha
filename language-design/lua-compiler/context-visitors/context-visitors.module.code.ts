@@ -2,8 +2,8 @@ import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import type * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import type * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import type { OneToManyVisitorResult } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 
 interface NodesBySyntaxKind {
   [ts.SyntaxKind.NumericLiteral]: ts.NumericLiteral

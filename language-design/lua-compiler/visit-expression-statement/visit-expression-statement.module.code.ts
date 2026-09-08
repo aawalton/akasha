@@ -2,7 +2,7 @@ import type * as ts from "typescript"
 import { tempSymbolId } from "../context-temp-symbol-id/context-temp-symbol-id.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { transformUnaryExpressionStatement } from "../visit-unary-expression/visit-unary-expression.module.code.ts"
 import { transformBinaryExpressionStatement } from "../visitors-binary-expression/visitors-binary-expression.module.code.ts"
 

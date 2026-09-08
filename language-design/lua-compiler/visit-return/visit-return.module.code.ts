@@ -3,10 +3,10 @@ import { validateAssignment } from "../assignment-validation/assignment-validati
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type { FunctionVisitor } from "../context-visitors/context-visitors.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { ScopeType, walkScopesUp } from "../scope/scope.module.code.ts"
 import { invalidMultiFunctionReturnType } from "../transform-diagnostics/transform-diagnostics.module.code.ts"
 import { createUnpackCall, wrapInTable } from "../tstl-lua-ast/tstl-lua-ast.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { isInAsyncFunction } from "../typescript/typescript.module.code.ts"
 import {
   canBeMultiReturnType,

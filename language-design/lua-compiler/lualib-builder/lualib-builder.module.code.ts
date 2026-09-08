@@ -6,6 +6,7 @@ import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
 import type * as luaCore from "../lua-ast-core/lua-ast-core.module.code.ts"
 import * as luaExpressions from "../lua-ast-expressions/lua-ast-expressions.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import {
   requireLualibPrinter,
   requireLualibTranspiler,
@@ -18,7 +19,6 @@ import {
 } from "../lualib-features/lualib-features.module.code.ts"
 import type { EmitHost } from "../transpile-emit-host/transpile-emit-host.module.code.ts"
 import type { Plugin } from "../transpile-plugins/transpile-plugins.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { cast } from "../tstl-utils/tstl-utils.module.code.ts"
 
 function isExportTable(node: luaCore.Node): node is luaExpressions.Identifier {

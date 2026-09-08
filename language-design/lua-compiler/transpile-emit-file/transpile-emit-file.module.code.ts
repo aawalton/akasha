@@ -1,6 +1,6 @@
 import type { SourceNode } from "source-map"
 import type * as ts from "typescript"
-import type * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
+import type * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 
 interface BaseFile {
   code: string

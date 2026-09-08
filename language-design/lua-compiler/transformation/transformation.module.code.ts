@@ -6,8 +6,8 @@ import type {
   VisitorMap,
   Visitors,
 } from "../context-visitors/context-visitors.module.code.ts"
+import * as luaStatements from "../lua-ast-statements/lua-ast-statements.module.code.ts"
 import { usingTransformer } from "../transform-using-transformer/transform-using-transformer.module.code.ts"
-import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { getOrUpdate } from "../tstl-utils/tstl-utils.module.code.ts"
 import { standardVisitors } from "../visitors-visitors/visitors-visitors.module.code.ts"
 
