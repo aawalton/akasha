@@ -25,7 +25,7 @@ export const logSource = {
     },
     {
       invariantKind: "absence",
-      statement: "A source carries nothing but the name the source is reached by.",
+      statement: "A source has nothing but the name the source is reached by.",
     },
   ],
 } as const satisfies PageType

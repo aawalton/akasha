@@ -93,7 +93,7 @@ export const seatConditions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One page carries a seat's conditions.",
+      statement: "One page has a seat's conditions.",
     },
     {
       invariantKind: "departure",
@@ -113,7 +113,7 @@ export const seatConditions = {
     },
     {
       invariantKind: "departure",
-      statement: "The page carrying these states every condition rather than leaning on a default.",
+      statement: "The page with these states every condition rather than leaning on a default.",
     },
     {
       invariantKind: "gap",

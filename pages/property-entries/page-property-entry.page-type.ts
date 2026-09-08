@@ -27,12 +27,11 @@ export const pagePropertyEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry shape names the fields every entry under that shape carries.",
+      statement: "An entry shape names the fields every entry under that shape has.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An entry is reached through the page that carries the entry rather than by a slug.",
+      statement: "An entry is reached through the page that has the entry rather than by a slug.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +48,7 @@ export const pagePropertyEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "Every entry carries an id.",
+      statement: "Every entry has an id.",
     },
     {
       invariantKind: "departure",

@@ -176,7 +176,7 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat carries the mode the seat is running in.",
+      statement: "A seat has the mode the seat is running in.",
     },
   ],
 } as const satisfies PageType

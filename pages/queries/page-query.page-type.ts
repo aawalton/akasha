@@ -96,7 +96,7 @@ export const pageQuery = {
     },
     {
       invariantKind: "absence",
-      statement: "A query carries no title.",
+      statement: "A query has no title.",
     },
     {
       invariantKind: "gap",

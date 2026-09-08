@@ -94,11 +94,11 @@ export const location = {
     },
     {
       invariantKind: "departure",
-      statement: "A place kept from a map export carries the place id that export gave that place.",
+      statement: "A place kept from a map export has the place id that export gave that place.",
     },
     {
       invariantKind: "departure",
-      statement: "A place on an itinerary carries the hours that place is scheduled between.",
+      statement: "A place on an itinerary has the hours that place is scheduled between.",
     },
   ],
 } as const satisfies PageType

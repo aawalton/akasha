@@ -124,7 +124,7 @@ export const readout = {
     {
       invariantKind: "departure",
       statement:
-        "A readout takes its own reading on the page carrying the code that takes the reading.",
+        "A readout takes its own reading on the page with the code that takes the reading.",
     },
     {
       invariantKind: "departure",
@@ -140,20 +140,20 @@ export const readout = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout carries its label and unit.",
+      statement: "A readout has its label and unit.",
     },
     {
       invariantKind: "departure",
-      statement: "A readout carries nothing about how the label and unit are drawn.",
+      statement: "A readout has nothing about how the label and unit are drawn.",
     },
     {
       invariantKind: "departure",
-      statement: "A readout carries one place whatever groups draw the readout.",
+      statement: "A readout has one place whatever groups draw the readout.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The place a readout carries is where that readout sits rather than how wide its figure is.",
+        "The place a readout has is where that readout sits rather than how wide its figure is.",
     },
     {
       invariantKind: "departure",

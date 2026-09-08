@@ -32,7 +32,7 @@ export const selectProperty = {
     },
     {
       invariantKind: "absence",
-      statement: "A text property carrying a hand-written union is no select property.",
+      statement: "A text property with a hand-written union is no select property.",
     },
   ],
 } as const satisfies PageType

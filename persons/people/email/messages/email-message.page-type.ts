@@ -25,7 +25,7 @@ export const emailMessage = {
     },
     {
       invariantKind: "gap",
-      statement: "The fields a message carries are yet to exist as properties.",
+      statement: "The fields a message has are yet to exist as properties.",
     },
   ],
 } as const satisfies PageType

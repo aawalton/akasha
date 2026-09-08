@@ -68,7 +68,7 @@ export const locationDeal = {
     },
     {
       invariantKind: "departure",
-      statement: "A deal with no cap on its uses carries `no-limit` rather than a count.",
+      statement: "A deal with no cap on its uses has `no-limit` rather than a count.",
     },
     {
       invariantKind: "departure",

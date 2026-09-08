@@ -17,7 +17,7 @@ export const urlProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A web address carries the scheme the address is reached over.",
+      statement: "A web address has the scheme the address is reached over.",
     },
     {
       invariantKind: "departure",

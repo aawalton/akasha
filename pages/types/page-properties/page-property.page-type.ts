@@ -53,7 +53,7 @@ export const pageProperty = {
     {
       invariantKind: "departure",
       statement:
-        "How many values a page carries is stated in the declaration rather than on the property.",
+        "How many values a page has is stated in the declaration rather than on the property.",
     },
     {
       invariantKind: "departure",

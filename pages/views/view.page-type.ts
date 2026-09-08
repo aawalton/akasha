@@ -129,11 +129,11 @@ export const view = {
     },
     {
       invariantKind: "departure",
-      statement: "A view carries the order its properties are shown in.",
+      statement: "A view has the order its properties are shown in.",
     },
     {
       invariantKind: "departure",
-      statement: "A view carries its hidden properties.",
+      statement: "A view has its hidden properties.",
     },
     {
       invariantKind: "departure",

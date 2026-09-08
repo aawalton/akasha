@@ -25,7 +25,7 @@ export const phoneNumberProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A number carries its own country calling code.",
+      statement: "A number has its own country calling code.",
     },
     {
       invariantKind: "departure",

@@ -96,7 +96,7 @@ export const readoutWidget = {
     },
     {
       invariantKind: "departure",
-      statement: "A widget carries the words the gallery prints and nothing the tile draws.",
+      statement: "A widget has the words the gallery prints and nothing the tile draws.",
     },
     {
       invariantKind: "constraint",

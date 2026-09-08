@@ -67,7 +67,7 @@ export const personaPointsSource = {
     },
     {
       invariantKind: "departure",
-      statement: "Every earning persona's document carries the rule naming her source.",
+      statement: "Every earning persona's document has the rule naming her source.",
     },
     {
       invariantKind: "departure",
