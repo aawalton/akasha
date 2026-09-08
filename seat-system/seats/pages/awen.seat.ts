@@ -5,7 +5,7 @@ export const awen = {
   pageTypeSlug: "seat",
   slug: "awen",
   personaSlug: "awen",
-  assignmentSlug: "domain/story-engine",
+  assignmentSlug: "initiative/awen-page-folders-by-index",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
