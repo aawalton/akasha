@@ -2,7 +2,7 @@ import {
   postgresExporterDeploymentYaml,
   postgresExporterQueriesConfigmapYaml,
   postgresExporterServiceYaml,
-} from "@akasha/cluster-manifests/postgres-exporter-manifests"
+} from "./modules/postgres-exporter-manifests/postgres-exporter-manifests.module.code.ts"
 
 export default function synth(): readonly { readonly name: string; readonly yaml: string }[] {
   return [

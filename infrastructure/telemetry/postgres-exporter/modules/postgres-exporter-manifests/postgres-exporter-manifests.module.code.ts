@@ -1,14 +1,14 @@
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import {
-  CNPG_POSTGRES_PRIMARY_LABELS,
-  colocationAffinityPreferred,
-} from "@akasha/k8s-types/hostnames"
 import {
   NAMESPACE,
   POSTGRES_EXPORTER_IMAGE,
   POSTGRES_EXPORTER_LABELS,
   POSTGRES_EXPORTER_SELECTOR_LABELS,
-} from "../prometheus-constants/prometheus-constants.module.code.ts"
+} from "@akasha/cluster-manifests/prometheus-constants"
+import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import {
+  CNPG_POSTGRES_PRIMARY_LABELS,
+  colocationAffinityPreferred,
+} from "@akasha/k8s-types/hostnames"
 import { QUERY_PERF_QUERIES_YAML } from "../query-perf-queries/query-perf-queries.module.code.ts"
 
 const POSTGRES_EXPORTER_QUERIES_YAML = `pg_schema_size:
