@@ -162,6 +162,7 @@ export const clusterCheck = {
     "module/eso-live-dir-candidate-order",
     "module/functional-type-dep-walkers",
     "module/functional-type-fixpoint",
+    "module/functional-type-import-scan",
   ],
   properties: [
     {
