@@ -13,11 +13,6 @@ export const dallaDraftIntoAPatch = {
         "`file-arguing.builtIn` reads argv into `{ changes: FileEdit[], message }`, the one place an edit is composed outside the landing. Two near-identical `askedFor` twins decode those bytes back to strings and name a change, in `mechanical-filing` and `tracking-landing`, differing in the write address. `builtIn` answering `Asking[]` takes both with it. `subagent-presence` is the only other reach in. A decoy in `pages/shadow` sorts first in a search.",
     },
     {
-      statement: "A helper two changes share lives in a module rather than in one of the changes.",
-      workingMemory:
-        "Four homes landed: `literal-splicing`, `package-naming`, `json-entries`, and `specifierFor` into `code-system/code-specifier`. Two reaches remain, both held on purpose. `rename-file-page:25` takes `splicedIn` from `rename-page-slug`; it belongs in `change-answer` and waits while another intent holds that module. `remove-page-property:12` takes `requiredIn` from `remove-property-value`; it reads the checker and is its own concern. Scan across lines: a single-line scan misses one.\n",
-    },
-    {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
       workingMemory:
         "`apply-running:25` hands `applying` a flat `{ checks: true, writerOwesReading: false, readersOweReading: true }`, and `applying:260` warrants only where `writerOwesReading` is true, so an apply runs the checks and no warrant. The data is there and thrown away: `edits-keeping:36-43` reads both fields off each change and keeps them on the row. What is left is for the apply to read the rows it folds rather than a constant. That refuses landings nothing refuses today, so Alan settles it first.\n",
