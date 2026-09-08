@@ -1,9 +1,10 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
-import { agentPathOf } from "@akasha/context/warranting"
+import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt, type Value } from "@akasha/pages/page-value"
+import { replayed } from "../../../changes/modules/change-answer/change-answer.module.code.ts"
 import type {
   Answer as Said,
   Stated,
@@ -15,6 +16,7 @@ import {
   worldAt,
 } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
 import {
+  bodyIn,
   editsAt,
   foldedIn,
   keptAt,
@@ -228,6 +230,25 @@ export function applyIn(given: Arguments): Asked | string {
   return { message, drafts, given: rest }
 }
 
+export function unwarrantedFor(
+  root: string,
+  agentId: string | null,
+  rows: readonly Stated[]
+): readonly string[] {
+  const after = replayed({ edits: rows, refused: null }, bodyIn(root))
+  if ("refused" in after) return [after.refused]
+  const edits = [...after].map(([path, body]) => ({
+    path,
+    body: body === null ? null : BYTES.encode(body),
+  }))
+  return owedIn(
+    root,
+    agentId,
+    edits.map((one) => one.path),
+    changingOf(root, edits)
+  )
+}
+
 export function owedBy(value: Value | null): boolean {
   return value === null || value[READERS_OWE_READING] !== false
 }
@@ -253,7 +274,13 @@ function typeOf(world: World, slug: string): string | null {
   return null
 }
 
-export async function appending(root: string, page: string, over: Over): Promise<Answer> {
+export async function appending(
+  root: string,
+  page: string,
+  agentId: string | null,
+  owing: boolean,
+  over: Over
+): Promise<Answer> {
   let answer: Answer = mistaking([NO_PAGE])
   const kept = await keptEdits(root, page, async (had) => {
     const before = foldedIn(had)
@@ -270,6 +297,11 @@ export async function appending(root: string, page: string, over: Over): Promise
     }
     if (said.refused !== null) {
       answer = { report: [], refusals: [said.refused], code: 1 }
+      return had
+    }
+    const unread = owing ? unwarrantedFor(root, agentId, [...had, ...said.edits]) : []
+    if (unread.length > 0) {
+      answer = { report: [], refusals: unread, code: 3 }
       return had
     }
     answer = {
@@ -329,6 +361,7 @@ function dropped(root: string, page: string, argv: readonly string[], piping: Pi
 export async function changing(
   root: string,
   page: string,
+  agentId: string | null,
   argv: readonly string[],
   piping: Piping,
   loading: Loading,
@@ -364,7 +397,7 @@ export async function changing(
   const value = world.index.pageAt(type, slug)
   const owed = owedBy(value)
   const owing = owingBy(value)
-  const answered = await appending(root, page, async (one) =>
+  const answered = await appending(root, page, agentId, owing, async (one) =>
     stamped(await ranBy(one, held, asked.given), owed, owing)
   )
   if (answered.code !== 0) return answered
@@ -394,5 +427,13 @@ export async function change(argv: readonly string[], given: Given): Promise<Ans
   if (page === null || editsAt(page) === null) {
     return mistaking([noPageSaid(given.root, given.agentId)])
   }
-  return await changing(given.root, page, argv, inputIn, loadedAt, applyingFor(given))
+  return await changing(
+    given.root,
+    page,
+    given.agentId,
+    argv,
+    inputIn,
+    loadedAt,
+    applyingFor(given)
+  )
 }

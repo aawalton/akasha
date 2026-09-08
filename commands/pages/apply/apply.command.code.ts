@@ -1,5 +1,5 @@
 import { formattedBody } from "@akasha/code/code-format"
-import { agentPathOf, changingOf, owedIn } from "@akasha/context/warranting"
+import { agentPathOf } from "@akasha/context/warranting"
 import {
   pathsOf,
   replayed,
@@ -118,24 +118,6 @@ export function folding(root: string, page: string): Folded {
   return "why" in kept ? { refusals: [kept.why] } : answer
 }
 
-export function unwarranted(
-  root: string,
-  agentId: string | null,
-  rows: readonly Stated[]
-): readonly string[] {
-  const owing = rows.filter((one) => one.writerOwesReading !== false)
-  if (owing.length === 0) return []
-  const bodies = bodiesFrom(root, { edits: owing, refused: null })
-  if ("why" in bodies) return [bodies.why]
-  const edits = [...bodies].map(([path, one]) => ({ path, body: one.body }))
-  return owedIn(
-    root,
-    agentId,
-    edits.map((one) => one.path),
-    changingOf(root, edits)
-  )
-}
-
 export function rebasedRows(
   root: string,
   base: string,
@@ -183,8 +165,6 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
   }
   const held = keptEdits(given.root, page, (had) => had)
   if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
-  const owing = unwarranted(given.root, given.agentId, held.rows)
-  if (owing.length > 0) return { report: [], refusals: owing, code: 3 }
   if (!argv.includes(BREAK_GLASS)) {
     const refused = await refusedBefore(given.root, page)
     if (refused.length > 0) return { report: [], refusals: refused, code: 3 }

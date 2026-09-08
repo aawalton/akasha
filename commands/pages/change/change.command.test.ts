@@ -146,6 +146,7 @@ test("a path that is no page keeps no edits", async () => {
   const said = await changing(
     repo(),
     "akasha/notes.md",
+    null,
     ["remove-page"],
     piping(taking(NAMER_PAGE)),
     loading,
@@ -487,9 +488,28 @@ test("a change naming draft and apply together is refused and appends nothing", 
 test("a body that is not text refuses the change rather than being read as text", async () => {
   const root = repo()
 
-  const said = await appending(root, PAGE, readingNotText(root))
+  const said = await appending(root, PAGE, null, false, readingNotText(root))
 
   expect(said.code).toBe(3)
   expect(said.refusals).toEqual([NOT_TEXT_SAID])
   expect(pathsIn(root)).toEqual([])
+})
+
+test("a change whose writer owes reading asks the record before appending its edits", async () => {
+  const root = repo()
+
+  const said = await appending(root, PAGE, null, true, async () => HELD)
+
+  expect(said.code).toBe(3)
+  expect(said.refusals[0] ?? "").toContain("names no agent")
+  expect(pathsIn(root)).toEqual([])
+})
+
+test("a change whose writer owes no reading appends without asking the record", async () => {
+  const root = repo()
+
+  const said = await appending(root, PAGE, null, false, async () => HELD)
+
+  expect(said.code).toBe(0)
+  expect(pathsIn(root)).toEqual([EDIT.path])
 })

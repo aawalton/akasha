@@ -42,6 +42,7 @@ export const change = {
     "a take that would not fold is refused, and leaves both sets where those sets were.",
     "`forget <subagent>` takes one subagent's handed edits away.",
     "no check runs over the change, and an apply judges the edits kept before folding the edits in.",
+    "a change is refused where its writer has not read what the change writes, before anything is appended.",
   ],
   invariants: [
     {
@@ -288,6 +289,19 @@ export const change = {
     {
       invariantKind: "departure",
       statement: "No check runs over the change itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A change whose writer owes reading is refused before that change's edits are appended.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reading a writer owes is asked for at the change rather than at the apply.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change whose writer owes no reading is passed over by that warrant.",
     },
     {
       invariantKind: "departure",

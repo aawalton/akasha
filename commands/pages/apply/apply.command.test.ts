@@ -13,14 +13,7 @@ import { headOf, rebasedHeld } from "../../../command-system/drafting/drafting.m
 import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { writing as putting } from "../../../command-system/scratching/scratching.module.test-fixtures.ts"
-import {
-  draftsOf,
-  type Folded,
-  folding,
-  rebasedRows,
-  undone,
-  unwarranted,
-} from "./apply.command.code.ts"
+import { draftsOf, type Folded, folding, rebasedRows, undone } from "./apply.command.code.ts"
 
 const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 
@@ -54,18 +47,6 @@ const scratch = scratchWorld()
 
 afterAll(() => {
   scratch.sweep()
-})
-
-test("a row whose writer owes no reading is held to no warrant", async () => {
-  const root = await repo()
-  const rows = [{ path: ONE, was: null, body: WAS, writerOwesReading: false }]
-  expect(unwarranted(root, "tester", rows)).toEqual([])
-})
-
-test("a row saying nothing of its writer is carried to the warrant", async () => {
-  const root = await repo()
-  const rows = [{ path: ONE, was: null, body: WAS }]
-  expect(() => unwarranted(root, "tester", rows)).toThrow("is not there")
 })
 
 test("a row worked out from an older body is judged as merged onto the commit at HEAD", async () => {

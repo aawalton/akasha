@@ -95,20 +95,16 @@ export const apply = {
       statement: "A run holding nothing but such rows drops those rows and lands nothing.",
     },
     {
-      invariantKind: "departure",
-      statement: "A row whose writer owes reading is warranted before the edits are folded.",
+      invariantKind: "absence",
+      statement: "No warrant runs here, as a change is warranted where that change is made.",
     },
     {
       invariantKind: "departure",
-      statement: "A row whose writer owes no reading is passed over by that warrant.",
+      statement: "A row reaching an apply was warranted against the record its writer held.",
     },
     {
       invariantKind: "departure",
-      statement: "A row saying nothing of its writer is warranted.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "`--break-the-glass` passes the checks and passes no warrant.",
+      statement: "`--break-the-glass` passes the checks.",
     },
     {
       invariantKind: "departure",

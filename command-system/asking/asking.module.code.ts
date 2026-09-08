@@ -41,6 +41,7 @@ import {
 import { type Carry, type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import type { Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
+import { unwarrantedIn } from "../warrant-owing/warrant-owing.module.code.ts"
 import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
@@ -332,6 +333,8 @@ async function draftingAsked(
     const said = `${NO_AGENT_PAGE}. ${PUT_UP}\n  ${puttingUpSaid(given.root, given.agentId)}`
     return mistaking([said])
   }
+  const unread = unwarrantedIn(given, asked.changes)
+  if (unread.length > 0) return { report: [], refusals: unread, code: 3 }
   let said: Drafted | Refused
   try {
     said = await landing(

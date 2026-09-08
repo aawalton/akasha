@@ -74,7 +74,15 @@ const refusingApply: Applying = async () => ({
 })
 
 export async function refusedApply(root: string, at: string): Promise<Answer> {
-  return await changing(root, PAGE, ["remove-page"], piping(taking(at)), loading, refusingApply)
+  return await changing(
+    root,
+    PAGE,
+    null,
+    ["remove-page"],
+    piping(taking(at)),
+    loading,
+    refusingApply
+  )
 }
 
 export function taking(path: string): string {
@@ -127,7 +135,7 @@ export async function acting(
   argv: readonly string[],
   said: Piping = NOTHING
 ): Promise<Answer> {
-  return await changing(root, PAGE, argv, said, loading, applying)
+  return await changing(root, PAGE, null, argv, said, loading, applying)
 }
 
 export async function removing(root: string, at: string, message?: string): Promise<Answer> {
