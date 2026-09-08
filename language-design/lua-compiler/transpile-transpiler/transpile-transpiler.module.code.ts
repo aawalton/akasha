@@ -101,7 +101,7 @@ export function createTranspiler({ emitHost = ts.sys }: TranspilerOptions = {}):
 
     const emitBOM = options.emitBOM ?? false
     for (const { outputPath, code, sourceMap, sourceFiles } of emitPlan) {
-      if (options.tstlVerbose === true) {
+      if (options.verbose === true) {
         console.log(`Emitting ${normalizeSlashes(outputPath)}`)
       }
 
