@@ -108,7 +108,7 @@ function createResolutionContext(
 
     if (dependencyPath == null) return couldNotResolveImport(required, file)
 
-    if (options.tstlVerbose === true) {
+    if (options.verbose === true) {
       console.log(`Resolved ${required.requirePath} to ${normalizeSlashes(dependencyPath)}`)
     }
 
