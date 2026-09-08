@@ -30,18 +30,12 @@ export const testBodies = {
       statement: "An import inside a served body reaching no served path is left to the runner.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A specifier a manifest the change carries names is resolved through that manifest.",
+      invariantKind: "constraint",
+      statement: "A bare specifier is resolved by the runner rather than by anything here.",
     },
     {
-      invariantKind: "departure",
-      statement:
-        "A way in landing on a path the change carries is served rather than read on disk.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A specifier no manifest the change carries names is left to the runner.",
+      invariantKind: "gap",
+      statement: "A specifier is resolved through the manifest the change leaves.",
     },
     {
       invariantKind: "departure",
