@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0019Chapter18Genesis = {
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0019-chapter-18-genesis",
   title: "Chapter 18 – Genesis",
-  partOfSlugs: ["rock-falls-everyone-dies"],
+  partOfCollectionSlugs: ["rock-falls-everyone-dies"],
   position: 19,
   ownLength: 2083,
   unitSlug: "words",

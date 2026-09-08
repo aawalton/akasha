@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0102Chapter632Tonight = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0102-chapter-632-tonight",
   title: "Chapter 632: Tonight.",
-  partOfSlugs: ["story-read/rise-of-the-living-forge"],
+  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
   position: 102,
   ownLength: 2751,
   unitSlug: "words",

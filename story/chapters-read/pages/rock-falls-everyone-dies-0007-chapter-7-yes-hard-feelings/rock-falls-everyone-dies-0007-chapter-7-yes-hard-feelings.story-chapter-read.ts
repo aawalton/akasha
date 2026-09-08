@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0007Chapter7YesHardFeelings = {
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0007-chapter-7-yes-hard-feelings",
   title: "Chapter 7 – Yes Hard Feelings",
-  partOfSlugs: ["rock-falls-everyone-dies"],
+  partOfCollectionSlugs: ["rock-falls-everyone-dies"],
   position: 7,
   ownLength: 1714,
   unitSlug: "words",

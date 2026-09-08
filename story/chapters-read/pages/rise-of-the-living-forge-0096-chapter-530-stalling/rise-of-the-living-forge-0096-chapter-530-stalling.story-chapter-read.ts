@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0096Chapter530Stalling = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0096-chapter-530-stalling",
   title: "Chapter 530: Stalling",
-  partOfSlugs: ["story-read/rise-of-the-living-forge"],
+  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
   position: 96,
   ownLength: 1879,
   unitSlug: "words",

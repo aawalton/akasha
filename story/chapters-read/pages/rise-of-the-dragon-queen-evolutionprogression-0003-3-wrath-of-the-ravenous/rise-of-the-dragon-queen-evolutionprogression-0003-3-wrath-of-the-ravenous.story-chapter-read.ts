@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression00033WrathOfTheRavenous = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0003-3-wrath-of-the-ravenous",
   title: "3 - Wrath Of The Ravenous",
-  partOfSlugs: ["rise-of-the-dragon-queen-evolutionprogression"],
+  partOfCollectionSlugs: ["rise-of-the-dragon-queen-evolutionprogression"],
   position: 3,
   ownLength: 2507,
   unitSlug: "words",

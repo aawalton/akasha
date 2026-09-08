@@ -5,7 +5,7 @@ export const riseOfTheDragonQueenEvolutionprogression001616Training = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-dragon-queen-evolutionprogression-0016-16-training",
   title: "16 - Training",
-  partOfSlugs: ["rise-of-the-dragon-queen-evolutionprogression"],
+  partOfCollectionSlugs: ["rise-of-the-dragon-queen-evolutionprogression"],
   position: 16,
   ownLength: 2164,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const salvos0001ArtGallery = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0001-art-gallery",
   title: "Art Gallery",
-  partOfSlugs: ["story-read/salvos"],
+  partOfCollectionSlugs: ["story-read/salvos"],
   position: 1,
   ownLength: 285,
   unitSlug: "words",

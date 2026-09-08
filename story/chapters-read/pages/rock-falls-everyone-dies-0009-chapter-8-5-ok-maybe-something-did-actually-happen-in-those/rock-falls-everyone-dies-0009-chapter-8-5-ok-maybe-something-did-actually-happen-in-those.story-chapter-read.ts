@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0009Chapter85OkMaybeSomethingDidActuallyHappen
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0009-chapter-8-5-ok-maybe-something-did-actually-happen-in-those",
   title: "Chapter 8.5 – Ok, Maybe Something Did Actually Happen in Those 500 Years",
-  partOfSlugs: ["rock-falls-everyone-dies"],
+  partOfCollectionSlugs: ["rock-falls-everyone-dies"],
   position: 9,
   ownLength: 1397,
   unitSlug: "words",

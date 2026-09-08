@@ -5,7 +5,7 @@ export const salvos00020Advent = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0002-0-advent",
   title: "0. Advent",
-  partOfSlugs: ["story-read/salvos"],
+  partOfCollectionSlugs: ["story-read/salvos"],
   position: 2,
   ownLength: 585,
   unitSlug: "words",

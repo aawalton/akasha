@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0006Chapter6OneStoneBreaksBone = {
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0006-chapter-6-one-stone-breaks-bone",
   title: "Chapter 6 – One Stone Breaks Bone",
-  partOfSlugs: ["rock-falls-everyone-dies"],
+  partOfCollectionSlugs: ["rock-falls-everyone-dies"],
   position: 6,
   ownLength: 2037,
   unitSlug: "words",

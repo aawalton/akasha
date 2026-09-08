@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0014Chapter13LonelyVoyage = {
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0014-chapter-13-lonely-voyage",
   title: "Chapter 13 – Lonely Voyage.",
-  partOfSlugs: ["rock-falls-everyone-dies"],
+  partOfCollectionSlugs: ["rock-falls-everyone-dies"],
   position: 14,
   ownLength: 2012,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const salvos000841DanielsDilemmaStartOfVolume2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0008-41-daniels-dilemma-start-of-volume-2",
   title: "41. Daniel's Dilemma (Start of Volume 2)",
-  partOfSlugs: ["story-read/salvos"],
+  partOfCollectionSlugs: ["story-read/salvos"],
   position: 8,
   ownLength: 1828,
   unitSlug: "words",

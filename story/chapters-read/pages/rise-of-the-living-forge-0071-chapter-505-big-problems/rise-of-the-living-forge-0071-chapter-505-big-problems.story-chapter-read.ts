@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0071Chapter505BigProblems = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0071-chapter-505-big-problems",
   title: "Chapter 505: Big Problems",
-  partOfSlugs: ["story-read/rise-of-the-living-forge"],
+  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
   position: 71,
   ownLength: 1876,
   unitSlug: "words",

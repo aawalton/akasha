@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse0009TheWebcomicIsOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0009-the-webcomic-is-out",
   title: "The Webcomic Is Out!!!",
-  partOfSlugs: ["road-to-mastery-a-litrpg-apocalypse"],
+  partOfCollectionSlugs: ["road-to-mastery-a-litrpg-apocalypse"],
   position: 9,
   ownLength: 157,
   unitSlug: "words",

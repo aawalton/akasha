@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0052Chapter485Prepared = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0052-chapter-485-prepared",
   title: "Chapter 485: Prepared",
-  partOfSlugs: ["story-read/rise-of-the-living-forge"],
+  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
   position: 52,
   ownLength: 1625,
   unitSlug: "words",

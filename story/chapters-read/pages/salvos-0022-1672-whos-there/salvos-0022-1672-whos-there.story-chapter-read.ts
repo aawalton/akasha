@@ -5,7 +5,7 @@ export const salvos00221672WhosThere = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0022-1672-whos-there",
   title: "167.2. Who's There?",
-  partOfSlugs: ["story-read/salvos"],
+  partOfCollectionSlugs: ["story-read/salvos"],
   position: 22,
   ownLength: 1339,
   unitSlug: "words",
