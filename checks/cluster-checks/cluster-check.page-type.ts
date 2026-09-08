@@ -226,6 +226,7 @@ export const clusterCheck = {
     "module/tsconfig-conventions",
     "module/tsconfig-import-graph",
     "module/tsconfig-import-graph-rollup",
+    "module/verdict-emitter-chokepoint",
   ],
   properties: [
     {
