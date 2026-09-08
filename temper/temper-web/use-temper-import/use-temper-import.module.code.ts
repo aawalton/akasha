@@ -26,10 +26,6 @@ const ENDING = "json"
 
 type Row = Readonly<Record<string, unknown>>
 
-// A COMPLETION IS A FILE BESIDE ITS PAGE, so a query that does not name it under `files` answers
-// the four characters naming that file's ending. Reading that as nothing would leave the forward
-// merge with nothing to merge against and the import would write over what the game already
-// counted, so the ending is refused outright rather than read as an absent completion.
 async function rowsWithCompletion(
   pageTypeSlug: string,
   where: Readonly<Record<string, unknown>>,
