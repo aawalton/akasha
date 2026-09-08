@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const audit = {
   id: "01a04fba-6d24-7935-80d4-8a1433dc03d4",
@@ -24,7 +24,8 @@ export const audit = {
     "a run narrowed by --file-path says nothing about the files that run did not judge.",
     "it writes nothing, and holds nothing still while it runs.",
     "one whole run peaks above 20 GB for about eight minutes, measured 2026-09-04 at 21 GB and 8m25s.",
-    "--check narrows which checks run rather than which files they see, and the cost sits in which checks run, so one cheap check over every file costs about 1.5 GB and 12 seconds while typecheck alone is most of a whole run.",
+    "--check narrows which checks run rather than which files they see, so the cost sits in which checks run.",
+    "one cheap check over every file costs about 1.5 GB and 12 seconds, and typecheck alone is most of a whole run.",
     "a seat runs it in the background and a subagent does not run it at all, several at once costing the swarm its model service.",
   ],
   invariants: [
