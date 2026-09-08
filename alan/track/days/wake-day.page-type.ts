@@ -25,6 +25,7 @@ import type { LearnPoints } from "./properties/learn-points.number-property.ts"
 import type { LovePoints } from "./properties/love-points.number-property.ts"
 import type { Meals } from "./properties/meals.text-property.ts"
 import type { NutritionPoints } from "./properties/nutrition-points.number-property.ts"
+import type { PersonaMessages } from "./properties/persona-messages.page-property-entry.ts"
 import type { SafetyLevel } from "./properties/safety-level.text-property.ts"
 import type { Sessions } from "./properties/sessions.page-property-entry.ts"
 import type { SleepPoints } from "./properties/sleep-points.number-property.ts"
@@ -76,6 +77,7 @@ export type WakeDay = Page & {
   inboxCalendarClearedToday?: InboxCalendarClearedToday
   sessions?: Sessions
   completedTasks?: CompletedTasks
+  personaMessages?: PersonaMessages
 }
 
 export const wakeDay = {
@@ -129,6 +131,7 @@ export const wakeDay = {
     "number-property/intelligence-topics",
     "number-property/learn-points",
     "number-property/love-points",
+    "number-property/messages-sent",
     "number-property/nutrition-points",
     "number-property/seq",
     "number-property/sleep-points",
@@ -139,7 +142,9 @@ export const wakeDay = {
     "number-property/words-read-points",
     "number-property/words-read-snapshot",
     "page-property-entry/completed-tasks",
+    "page-property-entry/persona-messages",
     "page-property-entry/sessions",
+    "relation-property/messaged-persona-slug",
     "text-property/date",
     "text-property/meals",
     "text-property/recurrence",
@@ -204,6 +209,12 @@ export const wakeDay = {
     },
     { pagePropertySlug: "page-property-entry/sessions", required: false, many: false },
     { pagePropertySlug: "page-property-entry/completed-tasks", required: false, many: false },
+    {
+      pagePropertySlug: "page-property-entry/persona-messages",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
     { pagePropertySlug: "computed-property/activity-calories", required: false, many: false },
     { pagePropertySlug: "computed-property/strength-calories", required: false, many: false },
     { pagePropertySlug: "computed-property/strength-volume", required: false, many: false },
@@ -247,6 +258,14 @@ export const wakeDay = {
     {
       invariantKind: "departure",
       statement: "A stretch of time and a finished to-do round are entries beside the day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What Alan wrote to each persona that day is an entry beside the day too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those entries alone stay outside the commit.",
     },
     {
       invariantKind: "departure",

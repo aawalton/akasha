@@ -1,0 +1,13 @@
+import type { Slug } from "@akasha/pages/page/slug"
+import type { RelationProperty } from "@akasha/pages/relation-property"
+
+export type MessagedPersonaSlug = Slug
+
+export const messagedPersonaSlug = {
+  id: "01a082db-817c-7626-b074-d75a367de571",
+  pageTypeSlug: "relation-property",
+  slug: "messaged-persona-slug",
+  propertySlug: "persona-slug",
+  definition: "the persona Alan wrote to",
+  targetPageTypeSlug: "page-type/persona",
+} as const satisfies RelationProperty
