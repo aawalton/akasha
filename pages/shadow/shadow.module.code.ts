@@ -25,22 +25,41 @@ export type Cast = Made | { readonly refused: string }
 export const NOT_WORKED_OUT =
   "the files and index as this change leaves them could not be worked out"
 
-function remembering(pageOf: (path: string) => Value | null): (path: string) => Value | null {
-  const held = new Map<string, Value | null>()
+export type Remembered = {
+  readonly values: Map<string, Value | null>
+  readonly filed: Map<string, ReadonlyMap<string, Value>>
+}
+
+export function remembered(): Remembered {
+  return { values: new Map(), filed: new Map() }
+}
+
+export function forgotten(held: Remembered, paths: Iterable<string>): undefined {
+  for (const path of paths) {
+    held.values.delete(path)
+    const said = partedIn(path)
+    if (said !== null) held.filed.delete(said.pageType)
+  }
+}
+
+function remembering(
+  pageOf: (path: string) => Value | null,
+  values: Map<string, Value | null>
+): (path: string) => Value | null {
   return (path) => {
-    const found = held.get(path)
-    if (found !== undefined || held.has(path)) return found ?? null
+    const found = values.get(path)
+    if (found !== undefined || values.has(path)) return found ?? null
     const value = pageOf(path)
-    held.set(path, value)
+    values.set(path, value)
     return value
   }
 }
 
 function filedOver(
   reading: Reading,
-  bodyOf: (path: string) => Value | null
+  bodyOf: (path: string) => Value | null,
+  held: Map<string, ReadonlyMap<string, Value>>
 ): (path: string) => Value | null {
-  const held = new Map<string, ReadonlyMap<string, Value>>()
   const filed = (pageType: string): ReadonlyMap<string, Value> => {
     const found = held.get(pageType)
     if (found !== undefined) return found
@@ -91,8 +110,12 @@ function codeOver(change: Change): (path: string) => string | null {
   }
 }
 
-function shadowOver(reading: Reading, bodyOf: (path: string) => Value | null): Shadow {
-  const pageOf = remembering(filedOver(reading, bodyOf))
+function shadowOver(
+  reading: Reading,
+  bodyOf: (path: string) => Value | null,
+  held: Remembered = remembered()
+): Shadow {
+  const pageOf = remembering(filedOver(reading, bodyOf, held.filed), held.values)
   return {
     index: answeringOver(reading, pageOf),
     filed: () => [],
@@ -102,17 +125,17 @@ function shadowOver(reading: Reading, bodyOf: (path: string) => Value | null): S
 }
 
 export function shadowAt(root: string): Shadow {
-  return shadowOver(readingIn(root), bodyOnDisk(root))
+  return shadowOver(readingIn(root), bodyOnDisk(root), remembered())
 }
 
-function castFrom(was: Reading, change: Change): Cast {
+function castFrom(was: Reading, change: Change, held: Remembered): Cast {
   const body = bodyIn(change)
   if (nothingMoved(change)) {
-    return { shadow: shadowOver(was, body), reading: was }
+    return { shadow: shadowOver(was, body, held), reading: was }
   }
   const carried = new Set(change.changed)
-  const under = filedOver(was, body)
-  const pageOf = remembering((path) => (carried.has(path) ? body(path) : under(path)))
+  const under = filedOver(was, body, held.filed)
+  const pageOf = remembering((path) => (carried.has(path) ? body(path) : under(path)), held.values)
   try {
     const moving = change.changed.map((path) => ({
       path,
@@ -130,12 +153,16 @@ function castFrom(was: Reading, change: Change): Cast {
   }
 }
 
-export function shadowOnto(was: Reading | null, change: Change): Cast {
-  return castFrom(was ?? readingIn(change.root), change)
+export function shadowOnto(
+  was: Reading | null,
+  change: Change,
+  held: Remembered = remembered()
+): Cast {
+  return castFrom(was ?? readingIn(change.root), change, held)
 }
 
 function castOver(change: Change): Cast {
-  return castFrom(readingIn(change.root), change)
+  return castFrom(readingIn(change.root), change, remembered())
 }
 
 export function shadowAsked(change: Change): Shadow {

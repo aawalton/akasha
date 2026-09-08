@@ -44,7 +44,16 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "That file is read once for a page type and held for the shadow's life.",
+      statement:
+        "That file is read once for a page type and held for the life of the memo handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller handing in a memo has a page value read once for that caller's life.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path a settle carried is forgotten from the memo handed in.",
     },
     {
       invariantKind: "absence",

@@ -170,6 +170,10 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A ledger holds one memo across every reach rather than one memo for each reach.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A ledger replays those edits onto the bodies that ledger already settled.",
     },
     {
