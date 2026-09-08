@@ -44,6 +44,15 @@ export const luaRuntimeLibrary = {
       statement: "A file here carries no page of its own.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A function compiled here takes a hidden receiver, no config here turning implicit self off.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A callback-typed property here declares its own this parameter.",
+    },
+    {
       invariantKind: "constraint",
       statement:
         "Flattening this tree changes which file a name reaches without any name changing.",
