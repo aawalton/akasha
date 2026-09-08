@@ -15,7 +15,7 @@ import {
   type World,
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { renameCodeToken } from "./rename-code-token.change-checked.code.ts"
+import { renameCodeToken } from "./rename-code-token.change-agent.code.ts"
 
 afterAll(scratch.sweep)
 

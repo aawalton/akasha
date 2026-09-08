@@ -1,8 +1,8 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const renameCodeToken = {
   id: "01a07718-c9b6-7d80-aebd-b1155f08ab77",
-  pageTypeSlug: "change-checked",
+  pageTypeSlug: "change-agent",
   slug: "rename-code-token",
   changeModeSlug: "change-mode-rename",
   definition: "a name a code file declares renamed wherever it reaches, exported or not",
@@ -11,4 +11,4 @@ export const renameCodeToken = {
   runsChecks: true,
   readersOweReading: false,
   writerOwesReading: false,
-} as const satisfies ChangeChecked
+} as const satisfies ChangeAgent
