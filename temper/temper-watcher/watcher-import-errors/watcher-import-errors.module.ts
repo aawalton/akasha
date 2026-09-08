@@ -56,7 +56,7 @@ export const watcherImportErrors = {
     },
     {
       invariantKind: "departure",
-      statement: "A run carrying nothing up logs that nothing was new or had recurred.",
+      statement: "A run with nothing up logs that nothing was new or had recurred.",
     },
     {
       invariantKind: "departure",

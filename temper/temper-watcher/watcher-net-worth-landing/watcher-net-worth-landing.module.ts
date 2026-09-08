@@ -14,7 +14,7 @@ export const watcherNetWorthLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "The hour is read in UTC off the instant the scan carries.",
+      statement: "The hour is read in UTC off the instant the scan has.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const watcherNetWorthLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries no key joining the account to the milliseconds.",
+      statement: "A line has no key joining the account to the milliseconds.",
     },
     {
       invariantKind: "departure",

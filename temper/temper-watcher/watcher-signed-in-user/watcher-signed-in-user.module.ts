@@ -18,11 +18,11 @@ export const watcherSignedInUser = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer carrying an error is refused.",
+      statement: "An answer with an error is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "An answer carrying no user is refused.",
+      statement: "An answer with no user is refused.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const watcherSignedInUser = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal carries the error the session named.",
+      statement: "A refusal has the error the session named.",
     },
     {
       invariantKind: "departure",

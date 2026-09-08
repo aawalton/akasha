@@ -18,7 +18,7 @@ export const watcherRunObserving = {
     },
     {
       invariantKind: "departure",
-      statement: "An operation that throws is an upload failure carrying the error thrown.",
+      statement: "An operation that throws is an upload failure with the error thrown.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +46,7 @@ export const watcherRunObserving = {
     },
     {
       invariantKind: "departure",
-      statement: "Every operation carries the moment the operation ran.",
+      statement: "Every operation has the moment the operation ran.",
     },
   ],
 } as const satisfies Module

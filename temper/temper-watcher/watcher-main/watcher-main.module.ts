@@ -20,11 +20,11 @@ export const watcherMain = {
     },
     {
       invariantKind: "departure",
-      statement: "An exit answered carries the code the worker should end on.",
+      statement: "An exit answered has the code the worker should end on.",
     },
     {
       invariantKind: "departure",
-      statement: "An exit answered carries the reason the exit was wanted.",
+      statement: "An exit answered has the reason the exit was wanted.",
     },
     {
       invariantKind: "departure",

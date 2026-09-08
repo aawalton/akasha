@@ -39,7 +39,7 @@ export const watcherSideFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A write goes through the atomic write the retry module carries.",
+      statement: "A write goes through the atomic write the retry module has.",
     },
     {
       invariantKind: "departure",

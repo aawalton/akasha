@@ -35,7 +35,7 @@ export const watcherImportCompanions = {
     },
     {
       invariantKind: "departure",
-      statement: "A build carrying no base role is named for the `no-role` role.",
+      statement: "A build with no base role is named for the `no-role` role.",
     },
     {
       invariantKind: "departure",

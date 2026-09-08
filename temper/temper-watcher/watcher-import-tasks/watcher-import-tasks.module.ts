@@ -11,7 +11,7 @@ export const watcherImportTasks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A task is reached by the id the addon carries and by the task's slug alike.",
+      statement: "A task is reached by the id the addon has and by the task's slug alike.",
     },
     {
       invariantKind: "departure",

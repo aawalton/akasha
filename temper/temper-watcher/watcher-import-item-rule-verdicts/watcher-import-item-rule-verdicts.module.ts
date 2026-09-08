@@ -11,7 +11,7 @@ export const watcherImportItemRuleVerdicts = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A verdict is read from the first account-wide table the file carries.",
+      statement: "A verdict is read from the first account-wide table the file has.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const watcherImportItemRuleVerdicts = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry carrying a key the schema does not name is refused whole.",
+      statement: "An entry with a key the schema does not name is refused whole.",
     },
     {
       invariantKind: "departure",

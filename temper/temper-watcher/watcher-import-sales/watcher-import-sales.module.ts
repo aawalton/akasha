@@ -14,7 +14,7 @@ export const watcherImportSales = {
     },
     {
       invariantKind: "departure",
-      statement: "A sale entry carrying a key the sale shape does not name is dropped.",
+      statement: "A sale entry with a key the sale shape does not name is dropped.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const watcherImportSales = {
     },
     {
       invariantKind: "departure",
-      statement: "A sale carrying no sold-at time is written with no sold-at value.",
+      statement: "A sale with no sold-at time is written with no sold-at value.",
     },
     {
       invariantKind: "departure",

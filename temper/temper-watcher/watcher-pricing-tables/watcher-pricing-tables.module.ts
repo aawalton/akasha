@@ -27,11 +27,11 @@ export const watcherPricingTables = {
     },
     {
       invariantKind: "gap",
-      statement: "The rates come from the currency price lookup the pricing package carries.",
+      statement: "The rates come from the currency price lookup the pricing package has.",
     },
     {
       invariantKind: "gap",
-      statement: "The costs come from the crown consumable price lookup that package carries.",
+      statement: "The costs come from the crown consumable price lookup that package has.",
     },
     {
       invariantKind: "gap",

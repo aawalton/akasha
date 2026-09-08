@@ -15,11 +15,11 @@ export const watcherImportCharacters = {
     },
     {
       invariantKind: "departure",
-      statement: "A character carrying no build hash is left out.",
+      statement: "A character with no build hash is left out.",
     },
     {
       invariantKind: "departure",
-      statement: "A character carrying no name is named for the game's number for that character.",
+      statement: "A character with no name is named for the game's number for that character.",
     },
     {
       invariantKind: "departure",

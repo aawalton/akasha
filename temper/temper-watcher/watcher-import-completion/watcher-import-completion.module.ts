@@ -31,7 +31,7 @@ export const watcherImportCompletion = {
     },
     {
       invariantKind: "departure",
-      statement: "A page beside no completion file carries no stored completion.",
+      statement: "A page beside no completion file has no stored completion.",
     },
     {
       invariantKind: "departure",
@@ -56,16 +56,15 @@ export const watcherImportCompletion = {
     {
       invariantKind: "departure",
       statement:
-        "Saved variables carrying no known section are refused rather than read as an empty account.",
+        "Saved variables with no known section are refused rather than read as an empty account.",
     },
     {
       invariantKind: "departure",
-      statement: "An account carrying no completion still has its page written.",
+      statement: "An account with no completion still has its page written.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A character's order is written only where that character's page carries no order.",
+      statement: "A character's order is written only where that character's page has no order.",
     },
     {
       invariantKind: "departure",
@@ -113,7 +112,7 @@ export const watcherImportCompletion = {
     },
     {
       invariantKind: "absence",
-      statement: "No completion body reaches the set an upsert carries.",
+      statement: "No completion body reaches the set an upsert has.",
     },
     {
       invariantKind: "absence",
