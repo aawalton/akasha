@@ -1,26 +1,15 @@
-import { getEsoDayWindow } from "@akasha/day/eso-day"
-import { greenDayPointsOf } from "@akasha/personas-core/green-day-fraction"
 import type { ReadonlyJSONValue } from "../day-narrow-types/day-narrow-types.module.code.ts"
-import {
-  numberOf,
-  SOURCE_POINTS_FIELD,
-  textOf,
-} from "../day-scan-window/day-scan-window.module.code.ts"
+import { textOf } from "../day-scan-window/day-scan-window.module.code.ts"
 import {
   allSessions,
   sessionPropertyUndeclared,
 } from "../day-stretches/day-stretches.module.code.ts"
-import {
-  type PersonaDayTarget,
-  patchPersonaDayField,
-} from "../persona-day-points/persona-day-points.module.code.ts"
 import { personaRecipeRows } from "../persona-recipe-rows/persona-recipe-rows.module.code.ts"
 import {
   PersonaSessionRowSchema,
   planPersonaSessionWrite,
   type SessionTotalsOutcome,
   sumSessionPointsForValue,
-  sumSessionPointsForWindow,
 } from "../session-points-compute/session-points-compute.module.code.ts"
 
 export interface PersonaSessionSpec {
@@ -96,47 +85,4 @@ export async function writeSessionPointsTotalForPersona(
   const { outcomes } = planPersonaSessionWrite(total, persona)
 
   return { outcomes, undeclared: null }
-}
-
-export interface SessionDailyOutcome {
-  readonly dayStr: string
-  readonly personaTitle: string
-  readonly sourcePoints: number
-  readonly outcome: "created" | "patched"
-}
-
-export interface SessionDailyReport {
-  readonly days: readonly SessionDailyOutcome[]
-  readonly undeclared: string | null
-}
-
-export async function writeSessionPointsDailyForPersona(
-  spec: PersonaSessionSpec,
-  dayStrs: readonly string[]
-): Promise<SessionDailyReport> {
-  const source = await readSessionPointsSource(spec)
-  if (source.undeclared !== null) return { days: [], undeclared: source.undeclared }
-
-  const personaRaw = await personaFor(spec.personaSlug)
-  if (personaRaw === undefined) return { days: [], undeclared: null }
-  const persona = PersonaSessionRowSchema.parse(personaRaw)
-  const target: PersonaDayTarget = {
-    id: persona.id,
-    slug: persona.slug ?? persona.id,
-    title: persona.title ?? persona.slug ?? persona.id,
-    ...(persona.valueSlug === undefined ? {} : { valueSlug: persona.valueSlug }),
-    greenDayPoints: greenDayPointsOf({
-      slug: persona.slug ?? persona.id,
-      greenDayPoints: numberOf(persona.greenDayPoints),
-    }),
-  }
-
-  const days: SessionDailyOutcome[] = []
-  for (const dayStr of dayStrs) {
-    const raw = sumSessionPointsForWindow(source.rows, spec.pointsPropId, getEsoDayWindow(dayStr))
-    const sourcePoints = Math.max(0, raw)
-    const outcome = await patchPersonaDayField(dayStr, SOURCE_POINTS_FIELD, sourcePoints, target)
-    days.push({ dayStr, personaTitle: target.title, sourcePoints, outcome })
-  }
-  return { days, undeclared: null }
 }

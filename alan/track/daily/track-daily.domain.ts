@@ -26,7 +26,6 @@ export const trackDaily = {
     "module/air-quality-fetch",
     "module/persona-recipe-rows",
     "module/session-points-compute",
-    "module/persona-day-points",
     "module/session-points-totals",
     "module/points-source-writer",
     "module/health-total-population",
