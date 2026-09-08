@@ -132,6 +132,7 @@ export const clusterCheck = {
     "module/check-component-layout",
     "module/check-exhaustive-dispatch",
     "module/check-generated-suffix",
+    "module/check-harness-credential-script-text",
   ],
   properties: [
     {
