@@ -20,5 +20,10 @@ export const useCompletionProgress = {
       statement:
         "A caller reading before the catalogs arrive would show a real-looking zero per cent.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "An account ask answers at most one row, so the first body answered with is that account's.",
+    },
   ],
 } as const satisfies Module

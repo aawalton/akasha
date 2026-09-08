@@ -82,7 +82,6 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
       })),
     [bareCompanionRows, companionBodies.bodies]
   )
-  // An account is one page, so the one body this answers with is that account's.
   const accountCompletion = useMemo(() => {
     for (const body of accountBodies.bodies.values()) return body as AccountCompletion
     return null
