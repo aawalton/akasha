@@ -3,7 +3,7 @@ import { CardHeader } from "@akasha/design-primitives/card"
 import { Skeleton } from "@akasha/design-primitives/skeleton"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
-import { AuthPageContent } from "../temper-auth-page-content/temper-auth-page-content.module.code.tsx"
+import { AuthPageContent } from "../../temper-auth-page-content/temper-auth-page-content.module.code.tsx"
 
 export function meta() {
   return [{ title: "Temper | Sign In" }]

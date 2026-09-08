@@ -24,7 +24,7 @@ const PAGE_ROUTES: RouteConfig = [
 
 const PUBLIC_ROUTES: RouteConfig = [
   index("routes/landing/landing.route.code.tsx"),
-  route("sign-in", "routes/sign-in.tsx"),
+  route("sign-in", "routes/sign-in/sign-in.route.code.tsx"),
   route("sign-up", "routes/sign-up.tsx"),
 ]
 
