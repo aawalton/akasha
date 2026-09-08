@@ -41,7 +41,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every change is a patch before it is applied.",
       workingMemory:
-        "`landedMechanically` lands straight onto the tree at its one remaining call site, `subagent-presence`. `harness-landing` is gone, as nothing reached it, and `page-writing` reaches `runMechanicalChange`. `applying.module.code.ts` is the one path that works a patch out and applies it, and both `akasha apply` and `akasha change apply` reach it. The patch stays inside the landing rather than being kept.",
+        "`landedMechanically` lands straight onto the tree at its one remaining call site, `subagent-presence`. Every other program reaches `applied` through `runMechanicalChange`, and `change-apply` reaches `applying` through `apply-running`. Those two entries into `applying.module.code.ts` are the one path that works a patch out and applies it. The patch stays inside the landing rather than being kept.",
     },
     {
       statement: "Only `akasha change` drafts changes.",
