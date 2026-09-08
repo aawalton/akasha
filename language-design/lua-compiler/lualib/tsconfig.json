@@ -9,7 +9,7 @@
     "rootDirs": ["src", "src/universal"],
     "strict": true
   },
-  "tstl": {
+  "luaCompiler": {
     "luaLibImport": "none"
   },
   "include": [
