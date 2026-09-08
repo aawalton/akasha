@@ -55,8 +55,6 @@ function judgedIn(root: string, entries: Parameters<typeof seenIn>[0], baseDir?:
   return judgedOver(pagesIn(root), seenIn(entries, baseDir))
 }
 
-// WHAT A TRANSCRIPT SAID, SEEDED. A call naming no ids is the same call the tests above make, so
-// each of those is the unseeded control for the one below it.
 function judgedWith(
   root: string,
   entries: Parameters<typeof seenIn>[0],
@@ -254,10 +252,6 @@ test("a transcript entry naming no agent id joins to no page and changes no judg
   world.sweep()
 })
 
-// THE CONTROL IS THE REASON RATHER THAN A SECOND JUDGING. Comparing against a run seeded with no
-// ids reads the same code, so a rule turning the transcript into proof of an end moves the control
-// with it and the test passes blind. Every stale verdict names the rule that reached it, and only
-// two rules may, so the reasons are what this holds.
 const STALE_WHYS = [
   "its take-down ran and the landing dropped it, which the seat's subagent-presence log says",
   "no process at all carries its seat's agent id, so the seat that would host it is gone",
