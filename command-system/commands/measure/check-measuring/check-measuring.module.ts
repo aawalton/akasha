@@ -4,10 +4,10 @@ export const checkMeasuring = {
   id: "01a0735c-1733-7951-92bb-c79e18a063a2",
   pageTypeSlug: "module",
   slug: "check-measuring",
-  definition:
-    "the processor time and memory a check's runs took in the last twenty-four hours, split by phase",
+  definition: "the processor time and memory the check runs a caller chose took, split by phase",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -15,27 +15,91 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "The window is the twenty-four hours ending at the moment of asking.",
+      statement: "A record's run is the run id that record carries.",
     },
     {
       invariantKind: "departure",
-      statement: "A run exactly twenty-four hours old is counted.",
+      statement: "A record carrying no run id belongs to no run.",
     },
     {
       invariantKind: "departure",
-      statement: "A run older than twenty-four hours is not counted.",
+      statement: "A caller naming no choice reads the last one run.",
     },
     {
       invariantKind: "departure",
-      statement: "A run stamped after the moment of asking is not counted.",
+      statement: "A count says how many runs are read.",
     },
     {
       invariantKind: "departure",
-      statement: "A run whose time cannot be read is not counted.",
+      statement: "The runs a count reads are the newest runs.",
     },
     {
       invariantKind: "departure",
-      statement: "The window the numbers cover is said with the table.",
+      statement: "Runs are ranked by the latest moment any record of that run carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record belonging to no run is counted nowhere where runs were counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "How many records belong to no run is said beneath the table.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller naming a period reads every record stamped within that period.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A period ends at the moment of asking.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record carrying no run id is counted where a period was named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record stamped exactly a period's length ago is counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record stamped before a period opened is not counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record stamped after the moment of asking is not counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A record whose time cannot be read is not counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A period is named in minutes or in hours or in days.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count of no runs is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A flag nothing follows is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word this module reads as neither a count nor a period is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal names the two forms a choice is written in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The choice a caller made is said beneath the table.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The one run chosen is named beneath the table with the moment that run ran.",
     },
     {
       invariantKind: "departure",
@@ -86,6 +150,22 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
+      statement: "The total counts the distinct runs of a phase rather than the records read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The total shares a phase's processor time over the distinct runs of that phase.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A peak of memory is added to no other peak.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The total draws its memory as absent.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A count of bytes is rounded to the whole byte before that count is scaled.",
     },
     {
@@ -110,7 +190,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A check holding no run within the window is not answered.",
+      statement: "A check holding no run the choice reached is not answered.",
     },
     {
       invariantKind: "absence",

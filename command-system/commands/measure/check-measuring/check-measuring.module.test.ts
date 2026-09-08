@@ -3,59 +3,41 @@ import { put } from "@akasha/testing-system/putting"
 import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
 import {
   bytesAs,
+  chosenIn,
   costOf,
   costsIn,
+  footerOf,
+  latestOf,
   linesOf,
   meanOf,
+  ONE_RUN,
+  rankedOf,
   runsIn,
   secondsAs,
+  totalOf,
   withinOf,
 } from "./check-measuring.module.code.ts"
+import {
+  agoOf,
+  costsOf,
+  DAY,
+  DAY_BACK,
+  HOUR,
+  lineOf,
+  NOW,
+  ONE,
+  rowsInto,
+  spacedOnce,
+  THREE,
+  TWO,
+} from "./check-measuring.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-const NOW = Date.parse("2026-09-05T12:00:00.000Z")
-
-const HOUR = 3600000
-
-const DAY = 24 * HOUR
-
-function agoOf(ms: number): string {
-  return new Date(NOW - ms).toISOString()
-}
-
-function lineOf(one: Record<string, unknown>): string {
-  return JSON.stringify({
-    ranAt: agoOf(HOUR),
-    wallMs: 0,
-    cpuSeconds: 0,
-    childCpuSeconds: 0,
-    peakBytes: 0,
-    residentBeforeBytes: 0,
-    peakAddedBytes: 0,
-    peakMeasured: true,
-    pathsChanged: 1,
-    refusals: 0,
-    ...one,
-  })
-}
-
 function rootWith(held: Record<string, readonly Record<string, unknown>[]>): string {
-  const root = scratch.rootFor("check-measuring-")
-  for (const [check, rows] of Object.entries(held)) {
-    put(
-      root,
-      `checks/code-checks/pages/${check}/${check}.code-check.entries.uncommitted.jsonl`,
-      `${rows.map(lineOf).join("\n")}\n`
-    )
-  }
-  return root
-}
-
-function spacedOnce(said: string | undefined): string {
-  return (said ?? "").replace(/\s+/g, " ")
+  return rowsInto(scratch.rootFor("check-measuring-"), held)
 }
 
 test("an average is what the runs took together shared out over how many there were", () => {
@@ -68,6 +50,14 @@ test("a run's processor time is its own together with the children it reaped", (
   const runs = runsIn(lineOf({ phase: "patch", cpuSeconds: 1.5, childCpuSeconds: 2.25 }))
 
   expect(runs[0]?.cpu).toBe(3.75)
+})
+
+test("a record naming no run id is read as belonging to no run", () => {
+  const runs = runsIn(
+    [lineOf({ phase: "patch", runId: null }), lineOf({ phase: "patch", runId: "" })].join("\n")
+  )
+
+  expect(runs.map((one) => one.runId)).toEqual([null, null])
 })
 
 test("a run that forgot no high-water mark is left out of memory but counted everywhere else", () => {
@@ -86,7 +76,7 @@ test("a run that forgot no high-water mark is left out of memory but counted eve
   expect(cost.patchRuns).toBe(4)
 })
 
-test("a run exactly the window's age is counted and a run a moment older is not", () => {
+test("a run exactly the period's age is counted and a run a moment older is not", () => {
   const runs = runsIn(
     [
       lineOf({ phase: "patch", cpuSeconds: 6, ranAt: agoOf(DAY) }),
@@ -94,22 +84,22 @@ test("a run exactly the window's age is counted and a run a moment older is not"
     ].join("\n")
   )
 
-  expect(withinOf(runs, NOW).map((one) => one.cpu)).toEqual([6])
+  expect(withinOf(runs, NOW, DAY).map((one) => one.cpu)).toEqual([6])
 })
 
 test("a run stamped after the moment of asking is not counted", () => {
   const runs = runsIn(lineOf({ phase: "patch", cpuSeconds: 7, ranAt: agoOf(-HOUR) }))
 
-  expect(withinOf(runs, NOW)).toEqual([])
+  expect(withinOf(runs, NOW, DAY)).toEqual([])
 })
 
 test("a run whose time cannot be read is not counted", () => {
   const runs = runsIn(lineOf({ phase: "patch", cpuSeconds: 7, ranAt: "the other day" }))
 
-  expect(withinOf(runs, NOW)).toEqual([])
+  expect(withinOf(runs, NOW, DAY)).toEqual([])
 })
 
-test("a run older than the window counts towards no average, at the edge or far outside", () => {
+test("a run older than the period counts towards no average, at the edge or far outside", () => {
   const root = rootWith({
     one: [
       { phase: "patch", cpuSeconds: 2, ranAt: agoOf(HOUR) },
@@ -118,13 +108,13 @@ test("a run older than the window counts towards no average, at the edge or far 
       { phase: "patch", cpuSeconds: 1000, ranAt: agoOf(30 * DAY) },
     ],
   })
-  const cost = costsIn(root, NOW).checks[0]
+  const cost = costsIn(root, NOW, DAY_BACK).checks[0]
 
   expect(cost?.patchRuns).toBe(2)
   expect(cost?.patchCpu).toBe(3)
 })
 
-test("a check holding no run within the window is not answered", () => {
+test("a check holding no run the choice reached is not answered", () => {
   const root = rootWith({
     fresh: [{ phase: "patch", cpuSeconds: 1, ranAt: agoOf(HOUR) }],
     stale: [
@@ -133,13 +123,183 @@ test("a check holding no run within the window is not answered", () => {
     ],
   })
 
-  expect(costsIn(root, NOW).checks.map((one) => one.check)).toEqual(["fresh"])
+  expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual(["fresh"])
 })
 
-test("the window the numbers cover is said with the table", () => {
-  const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 1 })))
+test("a call handing over no argument reads the last one run", () => {
+  expect(chosenIn([])).toEqual({ chosen: ONE_RUN, refusals: [] })
+})
 
-  expect(linesOf({ checks: [cost], unread: [], other: [] })[2]).toBe("over the last 24 hours")
+test("a count names how many of the newest runs are read", () => {
+  expect(chosenIn(["--last", "5"]).chosen).toEqual({ by: "runs", runs: 5 })
+})
+
+test("a period is named in minutes or hours or days", () => {
+  expect(chosenIn(["--last", "30m"]).chosen).toEqual({ by: "period", ms: 1800000, said: "30m" })
+  expect(chosenIn(["--last", "2h"]).chosen).toEqual({ by: "period", ms: 7200000, said: "2h" })
+  expect(chosenIn(["--last", "7d"]).chosen).toEqual({ by: "period", ms: 604800000, said: "7d" })
+})
+
+test("a count of no runs is refused", () => {
+  const chose = chosenIn(["--last", "0"])
+
+  expect(chose.chosen).toBe(null)
+  expect(chose.refusals[0]).toContain("`--last <count>`")
+})
+
+test("a flag nothing follows is refused", () => {
+  const chose = chosenIn(["--last"])
+
+  expect(chose.chosen).toBe(null)
+  expect(chose.refusals[0]).toContain("`--last <count>{m|h|d}`")
+})
+
+test("an argument this command does not take is refused", () => {
+  expect(chosenIn(["--since"]).chosen).toBe(null)
+  expect(chosenIn(["yesterday"]).chosen).toBe(null)
+  expect(chosenIn(["--last", "5", "--last", "6"]).chosen).toBe(null)
+  expect(chosenIn(["--last", "3w"]).chosen).toBe(null)
+  expect(chosenIn(["--last", "0h"]).chosen).toBe(null)
+})
+
+test("runs are ranked by the latest moment any record of that run carries", () => {
+  const runs = runsIn(
+    [
+      lineOf({ phase: "patch", runId: ONE, ranAt: agoOf(3 * HOUR) }),
+      lineOf({ phase: "patch", runId: ONE, ranAt: agoOf(HOUR) }),
+      lineOf({ phase: "patch", runId: TWO, ranAt: agoOf(2 * HOUR) }),
+      lineOf({ phase: "patch", runId: THREE, ranAt: agoOf(4 * HOUR) }),
+    ].join("\n")
+  )
+
+  expect([...rankedOf(latestOf(runs), 2)]).toEqual([ONE, TWO])
+})
+
+test("a record carrying no run id is counted nowhere where runs were counted", () => {
+  const root = rootWith({
+    one: [
+      { phase: "patch", cpuSeconds: 2, runId: ONE },
+      { phase: "patch", cpuSeconds: 100, runId: null },
+    ],
+  })
+  const costs = costsIn(root, NOW, ONE_RUN)
+
+  expect(costs.checks[0]?.patchRuns).toBe(1)
+  expect(costs.checks[0]?.patchCpu).toBe(2)
+  expect(costs.idless).toBe(1)
+})
+
+test("a record carrying no run id is counted where a period was named", () => {
+  const root = rootWith({
+    one: [
+      { phase: "patch", cpuSeconds: 2, runId: null },
+      { phase: "patch", cpuSeconds: 4, runId: null },
+    ],
+  })
+  const costs = costsIn(root, NOW, DAY_BACK)
+
+  expect(costs.checks[0]?.patchRuns).toBe(2)
+  expect(costs.checks[0]?.patchCpu).toBe(3)
+  expect(costs.idless).toBe(0)
+})
+
+test("how many records carry no run id is said beneath the table", () => {
+  const root = rootWith({
+    one: [
+      { phase: "patch", runId: ONE },
+      { phase: "patch", runId: null },
+    ],
+  })
+
+  expect(linesOf(costsIn(root, NOW, ONE_RUN))).toContain(
+    "1 record carries no run id, and what carries none belongs to no run"
+  )
+})
+
+test("only the runs chosen are counted where a count was named", () => {
+  const root = rootWith({
+    one: [
+      { phase: "patch", cpuSeconds: 2, runId: ONE, ranAt: agoOf(HOUR) },
+      { phase: "patch", cpuSeconds: 4, runId: TWO, ranAt: agoOf(2 * HOUR) },
+      { phase: "patch", cpuSeconds: 8, runId: THREE, ranAt: agoOf(3 * HOUR) },
+    ],
+  })
+
+  expect(costsIn(root, NOW, ONE_RUN).checks[0]?.patchCpu).toBe(2)
+  expect(costsIn(root, NOW, { by: "runs", runs: 2 }).checks[0]?.patchRuns).toBe(2)
+  expect(costsIn(root, NOW, { by: "runs", runs: 9 }).checks[0]?.patchRuns).toBe(3)
+})
+
+test("one run's runs are the runs of every check that run judged", () => {
+  const root = rootWith({
+    one: [{ phase: "patch", cpuSeconds: 2, runId: TWO, ranAt: agoOf(HOUR) }],
+    two: [{ phase: "patch", cpuSeconds: 3, runId: TWO, ranAt: agoOf(HOUR) }],
+    three: [{ phase: "patch", cpuSeconds: 90, runId: ONE, ranAt: agoOf(9 * HOUR) }],
+  })
+  const costs = costsIn(root, NOW, ONE_RUN)
+
+  expect(costs.checks.map((one) => one.check)).toEqual(["two", "one"])
+  expect(costs.total).toEqual({ patchRuns: 1, patchCpu: 5, auditRuns: 0, auditCpu: null })
+})
+
+test("the total shares a phase's processor time over the distinct runs of that phase", () => {
+  const runs = runsIn(
+    [
+      lineOf({ phase: "patch", runId: ONE, cpuSeconds: 3 }),
+      lineOf({ phase: "patch", runId: ONE, cpuSeconds: 5 }),
+      lineOf({ phase: "patch", runId: TWO, cpuSeconds: 2 }),
+      lineOf({ phase: "audit", runId: THREE, cpuSeconds: 9 }),
+    ].join("\n")
+  )
+
+  expect(totalOf(runs)).toEqual({ patchRuns: 2, patchCpu: 5, auditRuns: 1, auditCpu: 9 })
+})
+
+test("a phase holding no run totals no processor time rather than a time of zero", () => {
+  expect(totalOf(runsIn(lineOf({ phase: "patch", runId: ONE })))).toEqual({
+    patchRuns: 1,
+    patchCpu: 0,
+    auditRuns: 0,
+    auditCpu: null,
+  })
+})
+
+test("the total sits beneath the table with its memory drawn absent", () => {
+  const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 2 })))
+  const said = linesOf({
+    checks: [cost],
+    total: { patchRuns: 1, patchCpu: 2, auditRuns: 0, auditCpu: null },
+    footer: "the last run",
+    idless: 0,
+    unread: [],
+    other: [],
+  })
+
+  expect(spacedOnce(said[2])).toBe("")
+  expect(spacedOnce(said[3])).toBe("total 1 2.000s - 0 - -")
+  expect(said).toContain("memory is left out of the total, because peaks do not add")
+})
+
+test("the one run chosen is named beneath the table with the moment that run ran", () => {
+  const runs = runsIn(lineOf({ phase: "patch", runId: ONE, ranAt: agoOf(HOUR) }))
+
+  expect(footerOf(ONE_RUN, runs)).toBe(`the last run \`${ONE}\` ran at ${agoOf(HOUR)}`)
+})
+
+test("how many runs were chosen is said where more than one was chosen", () => {
+  const runs = runsIn(
+    [lineOf({ runId: ONE }), lineOf({ runId: TWO }), lineOf({ runId: THREE })].join("\n")
+  )
+
+  expect(footerOf({ by: "runs", runs: 5 }, runs)).toBe("the last 3 runs")
+})
+
+test("the period chosen is said beneath the table", () => {
+  expect(footerOf({ by: "period", ms: 7200000, said: "2h" }, [])).toBe("over the last 2h")
+})
+
+test("a choice of runs reaching no run says so beneath the table", () => {
+  expect(footerOf(ONE_RUN, [])).toBe("no run carrying a run id was found")
 })
 
 test("how many runs a phase holds is counted beside that phase's averages", () => {
@@ -152,7 +312,7 @@ test("how many runs a phase holds is counted beside that phase's averages", () =
       { phase: "worktree", cpuSeconds: 9 },
     ],
   })
-  const cost = costsIn(root, NOW).checks[0]
+  const cost = costsIn(root, NOW, DAY_BACK).checks[0]
 
   expect(cost?.patchRuns).toBe(3)
   expect(cost?.patchCpu).toBe(4)
@@ -165,7 +325,7 @@ test("a phase no run was judged at carries no average rather than an average of 
 
   expect(cost.patchCpu).toBe(0)
   expect(cost.auditCpu).toBe(null)
-  const said = linesOf({ checks: [cost], unread: [], other: [] })[1] ?? ""
+  const said = linesOf(costsOf([cost]))[1] ?? ""
 
   expect(said).toContain("0.000s")
   expect(said.endsWith("-")).toBe(true)
@@ -175,7 +335,7 @@ test("a phase no run was judged at counts zero runs rather than drawing them abs
   const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 0 })))
 
   expect(cost.auditRuns).toBe(0)
-  const said = linesOf({ checks: [cost], unread: [], other: [] })
+  const said = linesOf(costsOf([cost]))
 
   expect(spacedOnce(said[0])).toBe(
     "check patch runs patch cpu patch mem full runs full cpu full mem"
@@ -196,7 +356,7 @@ test("checks are ordered by what their patch runs took, and no patch run comes l
     ],
   })
 
-  expect(costsIn(root, NOW).checks.map((one) => one.check)).toEqual([
+  expect(costsIn(root, NOW, DAY_BACK).checks.map((one) => one.check)).toEqual([
     "slow",
     "skewed",
     "b-tie",
@@ -212,7 +372,7 @@ test("a patch run and an audit run are split apart", () => {
       { phase: "audit", cpuSeconds: 8, peakAddedBytes: 1048576 },
     ],
   })
-  const cost = costsIn(root, NOW).checks[0]
+  const cost = costsIn(root, NOW, DAY_BACK).checks[0]
 
   expect(cost?.patchRuns).toBe(1)
   expect(cost?.patchCpu).toBe(2)
@@ -232,7 +392,7 @@ test("a run naming a phase this does not split by is counted beneath the table",
       { phase: "worktree", cpuSeconds: 5, ranAt: agoOf(30 * DAY) },
     ],
   })
-  const costs = costsIn(root, NOW)
+  const costs = costsIn(root, NOW, DAY_BACK)
 
   expect(costs.checks[0]?.patchRuns).toBe(1)
   expect(costs.checks[0]?.patchCpu).toBe(1)
@@ -243,7 +403,7 @@ test("a run naming a phase this does not split by is counted beneath the table",
 test("entries that could not be read are named beneath the table", () => {
   const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 1 }] })
   put(root, "checks/code-checks/pages/bad/bad.code-check.entries.uncommitted.jsonl", "{not json\n")
-  const costs = costsIn(root, NOW)
+  const costs = costsIn(root, NOW, DAY_BACK)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["one"])
   expect(costs.unread).toEqual([
@@ -265,8 +425,11 @@ test("a count of bytes is rounded to the whole byte before it is scaled", () => 
 })
 
 test("a root holding no checks answers no check rather than throwing", () => {
-  expect(costsIn(scratch.rootFor("check-measuring-empty-"), NOW)).toEqual({
+  expect(costsIn(scratch.rootFor("check-measuring-empty-"), NOW, ONE_RUN)).toEqual({
     checks: [],
+    total: { patchRuns: 0, patchCpu: null, auditRuns: 0, auditCpu: null },
+    footer: "no run carrying a run id was found",
+    idless: 0,
     unread: [],
     other: [],
   })
