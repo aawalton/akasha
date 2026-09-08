@@ -4,7 +4,7 @@ export const declaring = {
   id: "01a04f4e-cc2d-7607-9fbc-82d1c0c0d9be",
   pageTypeSlug: "module",
   slug: "declaring",
-  definition: "the property pages a test's world must carry before an identity can be filed",
+  definition: "the pages a test's world must carry before an identity can be filed",
   code: "ts",
   test: "ts",
   invariants: [
@@ -28,6 +28,23 @@ export const declaring = {
     {
       invariantKind: "departure",
       statement: "A property naming a kind that exists nowhere is refused rather than guessed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The page types a property hangs from are carried apart from the properties themselves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world carrying them settles what a page type of its own declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every type a page type extends up to the root type is carried with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world is served the same way whichever set of pages that world asks for.",
     },
   ],
 } as const satisfies Module

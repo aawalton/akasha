@@ -23,6 +23,26 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
+      statement: "The body an entry file holds is its lines, one to a line, closed by a line end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That body is spelled here once, for the file written and the file compared.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A filing is answered as that body under the path the filing sits at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A filing holding no line is answered as a path carrying no body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path answered that way is read against the repository root.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file the pages no longer imply is found by walking the index.",
     },
     {

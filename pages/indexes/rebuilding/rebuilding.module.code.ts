@@ -13,7 +13,21 @@ import { basename, dirname, join } from "node:path"
 const INDEX = "index"
 
 import type { Entry } from "../entries/index-entries.module.code.ts"
+import type { Filing } from "../shape/index-shape.module.code.ts"
+import { indexAt } from "../surface/index-surface.module.code.ts"
 import { walkedUnder } from "../tree-reading/tree-reading.module.code.ts"
+
+export function wholeOf(lines: readonly string[]): string {
+  return `${lines.join("\n")}\n`
+}
+
+export function bodiesFrom(filings: readonly Filing[]): ReadonlyMap<string, string | null> {
+  const held = new Map<string, string | null>()
+  for (const one of filings) {
+    held.set(indexAt(one.at), one.lines.length === 0 ? null : wholeOf(one.lines))
+  }
+  return held
+}
 
 export type Drift = {
   readonly added: readonly string[]
@@ -41,7 +55,7 @@ export function keepWhole(at: string, lines: readonly string[], root: string): u
   }
   mkdirSync(dirname(at), { recursive: true })
   const near = `${at}.${process.pid}.part`
-  writeFileSync(near, `${lines.join("\n")}\n`)
+  writeFileSync(near, wholeOf(lines))
   renameSync(near, at)
 }
 
@@ -85,7 +99,7 @@ export function reconcile(
     const lines = [...new Set(held.map((one) => one.line))].sort()
     const path = join(root, at)
     const was = bodyAt(path)
-    if (was === `${lines.join("\n")}\n`) continue
+    if (was === wholeOf(lines)) continue
     if (was === null) added.push(at)
     else changed.push(at)
     if (put) keepWhole(path, lines, root)

@@ -36,6 +36,23 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "The run reads the index this change leaves rather than the index HEAD holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That index reaches the run as bodies over the checkout, as the change's own do.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry file the change empties is a path the overlay takes away too.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type the change moves is resolved by the run at the path the change files it at.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A test stands beside a changed file when the change answers a body for the test.",
     },
     {

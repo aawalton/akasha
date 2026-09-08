@@ -9,6 +9,7 @@ import {
   testsBesideOf,
 } from "@akasha/code/code-tests"
 import type { Bodies } from "@akasha/code/test-overlay"
+import { bodiesFrom } from "@akasha/indexes/rebuilding"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import { endingOf } from "@akasha/utils-run/running"
@@ -114,18 +115,19 @@ export function spelledIn(output: string, root: string): string {
   return output.replaceAll(`${root}/`, "")
 }
 
-export function bodiesOf(change: Change): Bodies {
-  const held: Record<string, Uint8Array | null> = {}
+export function bodiesOf(change: Change, shadow: Shadow): Bodies {
+  const held: Record<string, Uint8Array | string | null> = {}
   for (const one of change.changed) held[one] = change.after(one)
+  for (const [at, body] of bodiesFrom(shadow.filed())) held[at] = body
   return held
 }
 
-function refusalsIn(change: Change): readonly Judged[] {
+function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   if (alreadyRunning()) return []
   const named = namedIn(change)
   const first = named[0]
   if (first === undefined) return []
-  const bodies = bodiesOf(change)
+  const bodies = bodiesOf(change, shadow)
   if (measuring())
     return [{ path: first, reason: spentlyOf(spentOver(change.root, named, bodies)) }]
   const found = ranOver(change.root, named, named.length, null, bodies)

@@ -4,11 +4,14 @@ import { dirname, join } from "node:path"
 import type { Ran } from "@akasha/code/code-tests"
 import { RUNNING } from "@akasha/code/code-tests"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { noPathsFiled, pathFiled } from "@akasha/indexes/testing"
-import { shadowAt } from "@akasha/pages/shadow"
+import { noPathsFiled, pathFiled, repoAt } from "@akasha/indexes/testing"
+import { shadowAsked, shadowAt } from "@akasha/pages/shadow"
+import { bytesOf } from "@akasha/testing-system/bodying"
+import { typingUnder } from "@akasha/testing-system/declaring"
 import {
   change,
   gone,
+  landing,
   proposing,
 } from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import { namedIn, reasonOf, saidOf, spentlyOf, testsPass } from "./tests-pass.code-check.code.ts"
@@ -272,6 +275,36 @@ test("the whole run is carried rather than the end of the run", () => {
   const said = saidOf(many)
   expect(said).toContain("line 0\n")
   expect(said).toContain("line 199")
+})
+
+const TREE = "akasha"
+
+const TYPE_WAS = `${TREE}/text-property.page-type.ts`
+
+const TYPE_NOW = `${TREE}/types/text-property.page-type.ts`
+
+const INDEXES = Bun.resolveSync("@akasha/indexes", import.meta.dir)
+
+const RESOLVES =
+  'import { expect, test } from "bun:test"\n' +
+  `import { listedAt } from ${JSON.stringify(INDEXES)}\n` +
+  'test("one", () => {\n' +
+  '  const found = listedAt(process.cwd(), "page-type", "text-property")\n' +
+  `  expect(found.map((one) => one.path)).toEqual([${JSON.stringify(TYPE_NOW)}])\n` +
+  "})\n"
+
+test("a run under a change that moves a page type resolves that page type where it lands", () => {
+  const root = repoAt(realpathSync(scratch.rootFor("tests-pass-moved-")), typingUnder(TREE))
+  const body = readFileSync(join(root, TYPE_WAS))
+  const moved = landing(
+    root,
+    { [TYPE_WAS]: null, [TYPE_NOW]: body, "akasha/one.module.test.ts": bytesOf(RESOLVES) },
+    { [TYPE_WAS]: body }
+  )
+
+  const said = withoutGuard(() => testsPass(moved, shadowAsked(moved)))
+
+  expect(said).toEqual([])
 })
 
 test("the reason names a file where it stands in the change, not in the world it ran in", () => {
