@@ -22,7 +22,7 @@ const MEMBER = "change-mechanical-file-content/add-type-member"
 
 type Reached = { readonly at: string; readonly given: Record<string, unknown> }
 
-type Standing = {
+type Holding = {
   readonly path?: string
   readonly listed?: boolean
   readonly owner?: boolean
@@ -35,14 +35,14 @@ function catching(seen: Reached[]): Reaching {
   }
 }
 
-function worldFor(seen: Reached[], standing: Standing = {}): World {
-  const path = standing.path ?? PROPERTY_AT
+function worldFor(seen: Reached[], holding: Holding = {}): World {
+  const path = holding.path ?? PROPERTY_AT
   return {
     ...worldOf({}),
     index: {
-      listedAt: () => (standing.listed === false ? [] : [{ path, id: path }]),
+      listedAt: () => (holding.listed === false ? [] : [{ path, id: path }]),
       pageByPath: (one: string) => {
-        if (one === OWNER_AT) return standing.owner === false ? null : { slug: "ios-app" }
+        if (one === OWNER_AT) return holding.owner === false ? null : { slug: "ios-app" }
         return { propertySlug: "web-directory" }
       },
     } as never,
@@ -53,9 +53,9 @@ function worldFor(seen: Reached[], standing: Standing = {}): World {
 async function answering(
   seen: Reached[],
   given: Partial<Parameters<typeof addPropertyToPageType>[1]> = {},
-  standing: Standing = {}
+  holding: Holding = {}
 ) {
-  return await addPropertyToPageType(worldFor(seen, standing), {
+  return await addPropertyToPageType(worldFor(seen, holding), {
     at: OWNER_AT,
     property: PROPERTY,
     required: false,
