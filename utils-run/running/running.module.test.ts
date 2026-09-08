@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
-import { bytes, NO_CODE, ran, said, shown } from "./running.module.code.ts"
+import { readFileSync } from "node:fs"
+import { bytes, delegatedAt, NO_CODE, ran, said, shown } from "./running.module.code.ts"
 
 test("a command exiting zero is answered as zero and what it printed", () => {
   expect(ran(["sh", "-c", "printf hello"])).toMatchObject({
@@ -70,10 +71,10 @@ test("a process is answered with the processor seconds that process and its own 
   expect(idle).toBeLessThan(busy)
 })
 
-test("a process given a ceiling is ended by the kernel at that many processor seconds", () => {
+test("a process given a ceiling is ended at that many processor seconds", () => {
   const done = ran(["sh", "-c", "while :; do :; done"], { cpuCeiling: 1 })
-  expect(done.signal).toBe("SIGXCPU")
-  expect(done.cpuSeconds).toBeLessThan(3)
+  expect(done.signal).toBe("SIGKILL")
+  expect(done.cpuSeconds).toBeLessThan(2)
 })
 
 test("a process given no ceiling runs to its own end", () => {
@@ -88,11 +89,19 @@ test("a process inside one given a ceiling states a ceiling above its own", () =
   expect(ran(["bun", "-e", inner], { cpuCeiling: 30 }).out.trim()).toBe("0 null")
 })
 
-test("a ceiling bounds one process rather than that process and its children together", () => {
+test("a ceiling bounds a process and everything that process starts, together", () => {
   const inner = 'Bun.spawnSync(["sh", "-c", "while :; do :; done"])'
   const done = ran(["bun", "-e", inner], { cpuCeiling: 1 })
-  expect(done.signal).toBeNull()
-  expect(done.cpuSeconds).toBeGreaterThan(1)
+  expect(done.signal).toBe("SIGKILL")
+  expect(done.cpuSeconds).toBeLessThan(3)
+})
+
+test("a delegated ancestor is the one a budget is made under", () => {
+  expect(delegatedAt("/nowhere/akasha-probe")).toBeNull()
+  const own = (readFileSync("/proc/self/cgroup", "utf8").trim().split(":").at(-1) ?? "").trim()
+  const at = delegatedAt(own)
+  expect(at).not.toBeNull()
+  expect(readFileSync(`${String(at)}/cgroup.subtree_control`, "utf8")).toContain("cpu")
 })
 
 test("the seconds answered carry what a process's own children spent", () => {

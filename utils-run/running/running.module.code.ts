@@ -1,12 +1,95 @@
+import { accessSync, constants, mkdirSync, readFileSync, rmdirSync } from "node:fs"
+import { dirname, join } from "node:path"
+
 export const NO_CODE = -1
 
 const MICROS = 1_000_000
 
-const LIMIT = "prlimit"
+const MOUNT = "/sys/fs/cgroup"
 
-function limited(argv: readonly string[], ceiling: number | undefined): readonly string[] {
-  if (ceiling === undefined) return argv
-  return [LIMIT, `--cpu=${String(Math.ceil(ceiling))}:`, "--", ...argv]
+const OWN = "/proc/self/cgroup"
+
+const CONTROL = "cgroup.subtree_control"
+
+const PROCS = "cgroup.procs"
+
+const CPU = "cpu"
+
+const POLL = 50
+
+const SWEEPS = 20
+
+function holding(at: string): boolean {
+  try {
+    accessSync(at, constants.W_OK)
+    return readFileSync(join(at, CONTROL), "utf8").split(/\s+/).includes(CPU)
+  } catch {
+    return false
+  }
+}
+
+export function delegatedAt(own: string): string | null {
+  let at = dirname(join(MOUNT, own))
+  while (at.startsWith(MOUNT) && at !== MOUNT) {
+    if (holding(at)) return at
+    at = dirname(at)
+  }
+  return holding(MOUNT) ? MOUNT : null
+}
+
+function budgetAt(): string | null {
+  let text = ""
+  try {
+    text = readFileSync(OWN, "utf8")
+  } catch {
+    return null
+  }
+  const own = text.trim().split("\n")[0]?.split(":").at(-1)
+  if (own === undefined) return null
+  const parent = delegatedAt(own)
+  if (parent === null) return null
+  const at = join(parent, `akasha-${String(process.pid)}-${String(Bun.nanoseconds())}`)
+  try {
+    mkdirSync(at)
+    return at
+  } catch {
+    return null
+  }
+}
+
+export function watching(at: string, ceiling: number): string {
+  const cap = String(Math.round(ceiling * MICROS))
+  return (
+    `const fs = require("node:fs")\n` +
+    `const at = ${JSON.stringify(at)}\n` +
+    `for (;;) {\n` +
+    `  let spent = 0\n` +
+    `  try {\n` +
+    `    for (const line of fs.readFileSync(at + "/cpu.stat", "utf8").split("\\n"))\n` +
+    `      if (line.startsWith("usage_usec ")) spent = Number(line.slice(11))\n` +
+    `  } catch { break }\n` +
+    `  if (spent > ${cap}) {\n` +
+    `    try { fs.writeFileSync(at + "/cgroup.kill", "1") } catch {}\n` +
+    `    break\n` +
+    `  }\n` +
+    `  Bun.sleepSync(${String(POLL)})\n` +
+    `}\n`
+  )
+}
+
+function joined(at: string, argv: readonly string[]): readonly string[] {
+  return ["sh", "-c", `echo $$ > ${join(at, PROCS)}; exec "$@"`, "sh", ...argv]
+}
+
+function swept(at: string): undefined {
+  for (let held = 0; held < SWEEPS; held += 1) {
+    try {
+      rmdirSync(at)
+      return
+    } catch {
+      Bun.sleepSync(POLL)
+    }
+  }
 }
 
 export type Said = {
@@ -34,20 +117,31 @@ export type Asked = {
 }
 
 export function bytes(argv: readonly string[], asked: Asked = {}): Held {
-  const done = Bun.spawnSync([...limited(argv, asked.cpuCeiling)], {
-    stdout: "pipe",
-    stderr: "pipe",
-    ...(asked.cwd === undefined ? {} : { cwd: asked.cwd }),
-    ...(asked.env === undefined ? {} : { env: asked.env }),
-    ...(asked.stdin === undefined ? {} : { stdin: asked.stdin }),
-    ...(asked.timeout === undefined ? {} : { timeout: asked.timeout }),
-  })
-  return {
-    code: done.exitCode ?? NO_CODE,
-    signal: done.signalCode ?? null,
-    out: new Uint8Array(done.stdout),
-    err: done.stderr.toString(),
-    cpuSeconds: Number(done.resourceUsage?.cpuTime.total ?? 0n) / MICROS,
+  const ceiling = asked.cpuCeiling
+  const at = ceiling === undefined ? null : budgetAt()
+  const watch =
+    at === null || ceiling === undefined
+      ? null
+      : Bun.spawn(["bun", "-e", watching(at, ceiling)], { stdout: "ignore", stderr: "ignore" })
+  try {
+    const done = Bun.spawnSync([...(at === null ? argv : joined(at, argv))], {
+      stdout: "pipe",
+      stderr: "pipe",
+      ...(asked.cwd === undefined ? {} : { cwd: asked.cwd }),
+      ...(asked.env === undefined ? {} : { env: asked.env }),
+      ...(asked.stdin === undefined ? {} : { stdin: asked.stdin }),
+      ...(asked.timeout === undefined ? {} : { timeout: asked.timeout }),
+    })
+    return {
+      code: done.exitCode ?? NO_CODE,
+      signal: done.signalCode ?? null,
+      out: new Uint8Array(done.stdout),
+      err: done.stderr.toString(),
+      cpuSeconds: Number(done.resourceUsage?.cpuTime.total ?? 0n) / MICROS,
+    }
+  } finally {
+    watch?.kill()
+    if (at !== null) swept(at)
   }
 }
 

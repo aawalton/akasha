@@ -82,36 +82,53 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "The kernel ends a process reaching its ceiling rather than a reader noticing.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A process ended at its ceiling is answered as having died on a signal.",
     },
     {
       invariantKind: "departure",
-      statement: "A ceiling is the limit the kernel warns at rather than the limit it kills at.",
+      statement: "A ceiling bounds a process and everything that process starts, together.",
     },
     {
       invariantKind: "departure",
-      statement: "The limit the kernel kills at is left as the caller was given it.",
+      statement: "A process given a ceiling runs in a control group made for that one run.",
     },
     {
       invariantKind: "departure",
-      statement: "A ceiling therefore raises no limit, and a process inside one states its own.",
+      statement: "That group is made under the nearest ancestor group this one may write in.",
     },
     {
-      invariantKind: "constraint",
-      statement: "A ceiling bounds one process rather than that process and its children together.",
+      invariantKind: "departure",
+      statement: "An ancestor group is written in only where processor time is delegated to it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seconds the group has spent are read while the run is going.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every process in the group is ended at once where those seconds go past the ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The group is taken away once the run is over, whatever the run said.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ceiling raises no limit, so a run inside a run states a ceiling of its own.",
     },
     {
       invariantKind: "constraint",
       statement:
-        "A process warned at its ceiling spends more before ending than the ceiling names.",
+        "A machine delegating no processor time bounds no run, and that run is not refused.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A run on such a machine is caught by the seconds answered rather than bounded.",
     },
     {
       invariantKind: "departure",
-      statement: "A ceiling is whole seconds, and a fraction is taken up to the next second.",
+      statement: "A ceiling therefore raises no limit, and a process inside one states its own.",
     },
     {
       invariantKind: "departure",
