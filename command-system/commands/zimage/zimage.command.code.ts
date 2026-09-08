@@ -1,11 +1,21 @@
-import { createHash, webcrypto } from "node:crypto"
-import { readFileSync } from "node:fs"
+import { createHash } from "node:crypto"
 import { copyFile, mkdir, rename, stat, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
-import { basename, dirname, isAbsolute, join, resolve } from "node:path"
+import { basename, dirname, join } from "node:path"
 import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
+import { drawSeed } from "@akasha/inference-clients/inference-seed"
 import { buildModelGraph } from "@akasha/zimage/zimage-graph"
 import { MODEL_IDS, MODELS, toModelId } from "@akasha/zimage/zimage-models"
+import {
+  heldOnce,
+  numberIn,
+  pathUnder,
+  routedIn,
+  type Shape,
+  textIn,
+  wholeIn,
+} from "../../../commands/modules/flag-arguing/flag-arguing.module.code.ts"
+import { namesDrawn } from "../../../commands/modules/name-drawing/name-drawing.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
@@ -16,13 +26,7 @@ const ACTS = [GENERATE] as const
 
 const DEFAULT_PORT = "8678"
 
-const ROUTE = "-file"
-
-const STDIN = "-"
-
 const STAGED_DIGEST = 8
-
-type Shape = "token" | "prose" | "switch"
 
 const TAKEN = new Map<string, Shape>([
   ["--prompt", "prose"],
@@ -63,32 +67,11 @@ export type Taken = {
 export type Read = Taken | { readonly refused: readonly string[] }
 
 function acts(): string {
-  return ACTS.map((one) => `\`${one}\``).join(", ")
+  return namesDrawn(ACTS)
 }
 
 function flags(): string {
-  return [...TAKEN.keys()].map((one) => `\`${one}\``).join(", ")
-}
-
-function routedIn(said: string): string | null {
-  if (!said.endsWith(ROUTE)) return null
-  const named = said.slice(0, -ROUTE.length)
-  return TAKEN.get(named) === "prose" ? named : null
-}
-
-function textIn(path: string): { readonly text: string } | { readonly why: string } {
-  try {
-    return { text: path === STDIN ? readFileSync(0, "utf8") : readFileSync(path, "utf8") }
-  } catch (thrown) {
-    return { why: whyOf(thrown) }
-  }
-}
-
-function wholeIn(raw: string): number | null {
-  const said = raw.trim()
-  if (!/^\d+$/.test(said)) return null
-  const held = Number.parseInt(said, 10)
-  return Number.isSafeInteger(held) ? held : null
+  return namesDrawn(TAKEN.keys())
 }
 
 export function readIn(argv: readonly string[]): Read {
@@ -102,16 +85,9 @@ export function readIn(argv: readonly string[]): Read {
   const refusals: string[] = []
   const said = new Map<string, string>()
   const on = new Set<string>()
-  const holding = (flag: string, value: string): undefined => {
-    if (said.has(flag)) {
-      refusals.push(`\`${flag}\` is said more than once, and it carries one value`)
-      return
-    }
-    said.set(flag, value)
-    return
-  }
-  for (let at = 0; at < rest.length; at += 1) {
-    const one = rest[at]
+  const holding = (flag: string, value: string): undefined => heldOnce(said, refusals, flag, value)
+  for (let step = 0; step < rest.length; step += 1) {
+    const one = rest[step]
     if (one === undefined) continue
     if (!one.startsWith("-")) {
       refusals.push(`\`${one}\` is no flag, and \`${GENERATE}\` is said with flags alone`)
@@ -122,13 +98,13 @@ export function readIn(argv: readonly string[]): Read {
       on.add(one)
       continue
     }
-    const routed = shape === undefined ? routedIn(one) : null
+    const routed = shape === undefined ? routedIn(one, TAKEN) : null
     if (shape === undefined && routed === null) {
       refusals.push(`\`${one}\` is no flag this takes — it takes ${flags()}`)
       continue
     }
-    const value = rest[at + 1]
-    at += 1
+    const value = rest[step + 1]
+    step += 1
     if (value === undefined) {
       refusals.push(`\`${one}\` carries a value, and nothing followed it`)
       continue
@@ -162,20 +138,8 @@ export function readIn(argv: readonly string[]): Read {
   return { act: GENERATE, said, on }
 }
 
-function drawSeed(): number {
-  const held = new Uint32Array(1)
-  webcrypto.getRandomValues(held)
-  return (held[0] ?? 0) & (2 ** 31 - 1)
-}
-
 export function at(given: Given, path: string): string {
-  if (path.startsWith("~/")) return join(homedir(), path.slice(2))
-  return isAbsolute(path) ? path : resolve(given.root, path)
-}
-
-function numberIn(said: ReadonlyMap<string, string>, flag: string): number | undefined {
-  const raw = said.get(flag)
-  return raw === undefined ? undefined : (wholeIn(raw) ?? undefined)
+  return pathUnder(given.root, path)
 }
 
 function portIn(): string {

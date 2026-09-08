@@ -8,7 +8,12 @@ export const wan = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",
-  partSlugs: ["module/wan-arguing", "module/wan-clip-rendering", "module/wan-hosting"],
+  partSlugs: [
+    "module/flag-arguing",
+    "module/wan-arguing",
+    "module/wan-clip-rendering",
+    "module/wan-hosting",
+  ],
   taking: [
     {
       said: "generate",
