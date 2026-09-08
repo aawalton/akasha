@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const temperInventoryBankTrace = {
   id: "01a0603c-c1cf-7944-91f2-3c13783517fa",

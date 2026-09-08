@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const temperEsoGenerateColonMethods = {
   id: "01a0685d-f8fa-7dc8-bf64-5a62864e6dbb",
@@ -24,8 +24,10 @@ export const temperEsoGenerateColonMethods = {
   ],
   helpNotes: [
     "the scan takes every method the source defines on a class, and the census is the distinct names rather than the receivers.",
-    "nothing reads this census today, which is why it is not in akasha. It answered receiver provenance for two checks over the Lua compiler that did not cross, and this command is the rule the census would be made by, kept in place so a consumer arriving again has one.",
-    "one file of the whole census is many times the fifteen thousand byte akasha ceiling, so it is written as numbered runs with an aggregate composing them, and how many digits a run's ordinal carries follows from how many runs there are.",
+    "nothing reads this census today, which is why it is not in akasha. It answered receiver provenance for two checks over the Lua compiler that did not cross.",
+    "this command is the rule the census would be made by, kept in place so a consumer arriving again has one.",
+    "one file of the whole census is many times the fifteen thousand byte akasha ceiling, so it is written as numbered runs with an aggregate composing them.",
+    "how many digits a run's ordinal carries follows from how many runs there are.",
     "nothing lands here. The bodies are staged outside akasha and the writing call that lands them is named, because that call is what judges them against the checks and commits them.",
     "landing them puts about twelve thousand method names into the tree that nothing asks a question of, so land them when a consumer arrives rather than before.",
     "a clone holding no such method refuses the call, because an empty census reads to every consumer as a clean answer.",

@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const temperEsoGenerateBaseGameGlobals = {
   id: "01a0685d-f8fa-7913-8b39-8d1f9f835d34",
@@ -25,9 +25,11 @@ export const temperEsoGenerateBaseGameGlobals = {
   helpNotes: [
     "the scan takes every top-level global assignment matching the game's naming convention and unions every `SI_` string id the source mentions.",
     "a string id is declared rather than assigned, so an assignment scan alone reaches only part of the set and the mention scan is what finds the rest.",
-    "only the string ids cross. The scan sees about twenty-one thousand base-game names and the census keeps the thirteen thousand `SI_` ones, because the one consumer asks the census one question: whether a string id an addon's markup consumes at parse time is provided by the base game.",
+    "only the string ids cross. The scan sees about twenty-one thousand base-game names and the census keeps the thirteen thousand `SI_` ones.",
+    "the one consumer asks the census one question: whether a string id an addon's markup consumes at parse time is provided by the base game.",
     "keeping the other names would set up a second, wider name authority beside the curated one, and the two would contradict each other by construction.",
-    "one file of the whole census is many times the fifteen thousand byte akasha ceiling, so it is written as numbered runs with an aggregate composing them, and how many digits a run's ordinal carries follows from how many runs there are.",
+    "one file of the whole census is many times the fifteen thousand byte akasha ceiling, so it is written as numbered runs with an aggregate composing them.",
+    "how many digits a run's ordinal carries follows from how many runs there are.",
     "nothing lands here. The bodies are staged outside akasha and the writing call that lands them is named, because that call is what judges them against the checks and commits them.",
     "a run whose body is already there is not staged, so a scan finding the same names stages nothing.",
     "a clone holding no string id refuses the call, because an empty census reads to every consumer as a clean answer.",
