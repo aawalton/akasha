@@ -61,6 +61,8 @@ export const alanHarness = {
     "page-type/calendar-event-source",
     "module/overdue-rolling",
     "workstation-service/overdue-rolling",
+    "module/persona-points-rebuilding",
+    "workstation-service/persona-points-rebuilding",
   ],
   invariants: [
     {
