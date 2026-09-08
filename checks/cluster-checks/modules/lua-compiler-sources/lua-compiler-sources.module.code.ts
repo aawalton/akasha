@@ -3,14 +3,14 @@ import { resolve } from "node:path"
 import ts from "typescript"
 import { findFiles } from "../file-finding/file-finding.module.code.ts"
 
-export interface TstlTsconfig {
+export interface LuaCompilerTsconfig {
   readonly rel: string
   readonly text: string
 }
 
 const TSCONFIG_BASENAME = "tsconfig.json"
 
-export function deriveLuaCompilerRoots(configs: readonly TstlTsconfig[]): readonly string[] {
+export function deriveLuaCompilerRoots(configs: readonly LuaCompilerTsconfig[]): readonly string[] {
   const roots: string[] = []
   for (const { rel, text } of configs) {
     if (rel.includes("__fixtures__") || rel.includes("node_modules")) continue
