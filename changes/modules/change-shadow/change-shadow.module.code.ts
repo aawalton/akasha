@@ -1,6 +1,9 @@
+import { existsSync } from "node:fs"
+import { join, relative } from "node:path"
 import type { Change } from "../../../pages/change/change.module.code.ts"
 import type { Answering } from "../../../pages/indexes/answering/index-answering.module.code.ts"
 import type { Reading } from "../../../pages/indexes/shape/index-shape.module.code.ts"
+import { walkedUnder } from "../../../pages/indexes/tree-reading/tree-reading.module.code.ts"
 import {
   type Cast,
   shadowAsked,
@@ -22,15 +25,43 @@ import type { Answer, Bodies, Held, Stated } from "../change-answer/change-answe
 
 const BYTES = new TextEncoder()
 
+const OUTSIDE = ".."
+
 export type Reaching = (world: World, at: string, given: unknown) => Promise<Answer>
 
 export type World = {
   readonly root: string
   readonly index: Answering
   readonly textOf: (path: string) => string | null
+  readonly under: (folder: string) => readonly string[]
   readonly base: BodyOf
   readonly over: Answer
   readonly reaching?: Reaching
+}
+
+function treeUnder(root: string, folder: string): readonly string[] {
+  const at = join(root, folder)
+  if (!existsSync(at)) return []
+  return walkedUnder(at, () => true)
+    .map((one) => relative(root, one))
+    .sort()
+}
+
+function beneath(folder: string, path: string): boolean {
+  const held = relative(folder, path)
+  return held !== "" && !held.startsWith(OUTSIDE)
+}
+
+function underOver(had: readonly string[], said: Answer, folder: string): readonly string[] {
+  const found = new Set(had)
+  for (const one of said.edits) {
+    if (one.kind === "remove") found.delete(one.path)
+    else if (one.kind === "move") {
+      found.delete(one.pathFrom)
+      found.add(one.pathTo)
+    } else found.add(one.path)
+  }
+  return [...found].filter((one) => beneath(folder, one)).sort()
 }
 
 export const NOTHING_OVER: Answer = { edits: [], refused: null }
@@ -86,7 +117,15 @@ export function worldAt(
   textOf: (path: string) => string | null,
   reaching: Reaching = REACHES_NOTHING
 ): World {
-  return { root, index: shadowAt(root).index, textOf, base: textOf, over: NOTHING_OVER, reaching }
+  return {
+    root,
+    index: shadowAt(root).index,
+    textOf,
+    under: (folder) => treeUnder(root, folder),
+    base: textOf,
+    over: NOTHING_OVER,
+    reaching,
+  }
 }
 
 export function worldOver(world: World, said: Answer): World {
@@ -101,6 +140,7 @@ export function worldOver(world: World, said: Answer): World {
       const found = held.has(path) ? (held.get(path) ?? null) : world.textOf(path)
       return notText(found) ? null : found
     },
+    under: (folder) => underOver(world.under(folder), said, folder),
     base: world.base,
     over,
     reaching: world.reaching,
@@ -170,6 +210,7 @@ export function ledgerAt(
       const found = held === undefined ? kept.base(path) : held
       return notText(found) ? null : found
     },
+    under: (folder) => underOver(treeUnder(root, folder), kept.over, folder),
   }
 }
 

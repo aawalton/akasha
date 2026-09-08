@@ -52,6 +52,7 @@ export function worldOf(held: Readonly<Record<string, string>>): World {
     root: "/nowhere",
     index: {} as World["index"],
     textOf: (path) => held[path] ?? null,
+    under: () => [],
     base: (path) => held[path] ?? null,
     over: NOTHING_OVER,
   }

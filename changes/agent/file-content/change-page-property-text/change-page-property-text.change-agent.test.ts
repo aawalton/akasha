@@ -61,6 +61,7 @@ function worldTold(carried: readonly Carried[], value: Value | null): World {
       propertiesIfNamed: () => carried,
     } as never,
     textOf: () => BODY,
+    under: () => [],
     base: () => BODY,
     over: NOTHING_OVER,
     reaching: RUNS,

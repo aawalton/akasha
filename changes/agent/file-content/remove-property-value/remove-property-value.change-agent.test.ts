@@ -21,6 +21,7 @@ function worldWith(page: Value | null): World {
     root: "/nowhere",
     index: { knownIn: () => known, pageAt: () => page } as never,
     textOf: () => null,
+    under: () => [],
     base: () => null,
     over: NOTHING_OVER,
   }

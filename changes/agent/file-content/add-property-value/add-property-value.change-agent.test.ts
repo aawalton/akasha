@@ -38,6 +38,7 @@ function worldTold(told: Told): World {
     root: "/nowhere",
     index: { knownIn: () => known, pageAt: () => ("page" in told ? told.page : PAGE) } as never,
     textOf: () => null,
+    under: () => [],
     base: () => null,
     over: NOTHING_OVER,
   }

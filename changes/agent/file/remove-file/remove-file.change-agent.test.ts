@@ -36,6 +36,7 @@ const UNASKED: World = {
   textOf: () => {
     throw new Error(ASKED)
   },
+  under: () => [],
   base: () => {
     throw new Error(ASKED)
   },

@@ -50,6 +50,7 @@ function worldTold(slug: string | null, target: string | null): World {
     root: "/nowhere",
     index: { knownIn: () => known, pageAt: () => PAGE } as never,
     textOf: () => BODY,
+    under: () => [],
     base: () => BODY,
     over: NOTHING_OVER,
     reaching: RUNS,

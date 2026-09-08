@@ -21,6 +21,7 @@ function worldOf(held: Readonly<Record<string, string>>): World {
     root: "/nowhere",
     index: Object.assign({} as World["index"], { pageTypesIn: () => new Set<string>() }),
     textOf: (path) => held[path] ?? null,
+    under: () => [],
     base: (path) => held[path] ?? null,
     over: NOTHING_OVER,
     reaching: REACHING,

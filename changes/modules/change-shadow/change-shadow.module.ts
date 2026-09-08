@@ -105,6 +105,19 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
+        "A world answers the paths under a folder from the tree rather than from the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path an answer writes under a folder is among the paths that folder answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path an answer carries away is left out of the paths that folder answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A world is worked out over the answers gathered so far rather than over one answer.",
     },
     {
