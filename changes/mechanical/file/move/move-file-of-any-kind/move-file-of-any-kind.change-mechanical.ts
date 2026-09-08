@@ -13,19 +13,19 @@ export const moveFileOfAnyKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path under a page name is carried by the change carrying the files beside it.",
+      statement: "A path under a page name is moved by the change moving the files beside it.",
     },
     {
       invariantKind: "departure",
-      statement: "Every other TypeScript path is carried by the change judging the imports named.",
+      statement: "Every other TypeScript path is moved by the change judging the imports named.",
     },
     {
       invariantKind: "departure",
-      statement: "Every other path is carried by the change carrying the file alone.",
+      statement: "Every other path is moved by the change moving the file alone.",
     },
     {
       invariantKind: "departure",
-      statement: "The kind of path is read off the path the file is carried from.",
+      statement: "The kind of path is read off the path the file is moved from.",
     },
     {
       invariantKind: "absence",
@@ -37,12 +37,11 @@ export const moveFileOfAnyKind = {
     },
     {
       invariantKind: "departure",
-      statement: "A path under a page type name is carried by the change carrying a page type.",
+      statement: "A path under a page type name is moved by the change moving a page type.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path under a page property name is carried by the change carrying a page property.",
+      statement: "A path under a page property name is moved by the change moving a page property.",
     },
   ],
   changeKindSlug: "change-mechanical",
