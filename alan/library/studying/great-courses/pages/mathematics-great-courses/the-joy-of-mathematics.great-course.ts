@@ -9,7 +9,7 @@ export const theJoyOfMathematics = {
   unitSlug: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "the-joy-of-mathematics",
   externalLink: "https://www.thegreatcoursesplus.com/the-joy-of-mathematics",

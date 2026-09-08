@@ -9,7 +9,7 @@ export const theNeuroscienceOfEverydayLife = {
   unitSlug: "minutes",
   ownLength: 1081.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-neuroscience-of-everyday-life",
   externalLink: "https://www.thegreatcoursesplus.com/the-neuroscience-of-everyday-life",

@@ -9,7 +9,7 @@ export const theGreatIdeasOfPsychology = {
   unitSlug: "minutes",
   ownLength: 1444.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-great-ideas-of-psychology",
   externalLink: "https://www.thegreatcoursesplus.com/the-great-ideas-of-psychology",

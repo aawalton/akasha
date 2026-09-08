@@ -10,7 +10,7 @@ export const pilotLecturePowerAndJusticeDoesMightMakeRight = {
   unitSlug: "minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
-  partOfSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-power-and-justice-does-might-make-right",
   externalLink:

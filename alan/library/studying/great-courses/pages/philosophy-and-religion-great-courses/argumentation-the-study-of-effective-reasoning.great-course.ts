@@ -10,7 +10,7 @@ export const argumentationTheStudyOfEffectiveReasoning = {
   unitSlug: "minutes",
   ownLength: 732,
   ownProgress: 732,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "philosophy-and-religion-great-courses",
     "professional-growth-great-courses",

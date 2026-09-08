@@ -10,7 +10,7 @@ export const howHamiltonRevolutionizedTheBroadwayMusical = {
   unitSlug: "minutes",
   ownLength: 12.6,
   ownProgress: 12.6,
-  partOfSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "how-hamilton-revolutionized-the-broadway-musical",
   externalLink:

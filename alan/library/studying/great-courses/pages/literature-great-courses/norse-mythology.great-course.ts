@@ -9,7 +9,7 @@ export const norseMythology = {
   unitSlug: "minutes",
   ownLength: 681,
   ownProgress: 56.75,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "norse-mythology",
   externalLink: "https://www.thegreatcoursesplus.com/norse-mythology",

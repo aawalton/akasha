@@ -10,7 +10,7 @@ export const americaSMusicalHeritage = {
   unitSlug: "minutes",
   ownLength: 355.2,
   ownProgress: 355.2,
-  partOfSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "americas-musical-heritage",
   externalLink: "https://www.thegreatcoursesplus.com/americas-musical-heritage",

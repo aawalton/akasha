@@ -9,7 +9,7 @@ export const theNatureOfMatterUnderstandingThePhysicalWorld = {
   unitSlug: "minutes",
   ownLength: 738,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-nature-of-matter-understanding-the-physical-world",
   externalLink:

@@ -9,7 +9,7 @@ export const theArtOfTeachingBestPracticesFromAMasterEducator = {
   unitSlug: "minutes",
   ownLength: 738.6,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "literature-great-courses",
     "professional-growth-great-courses",

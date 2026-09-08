@@ -10,7 +10,11 @@ export const pilotLectureMythsOfLearningAndMemory = {
   unitSlug: "minutes",
   ownLength: 27,
   ownProgress: 27,
-  partOfSlugs: ["all-great-courses", "professional-growth-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "professional-growth-great-courses",
+    "science-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "myths-of-learning-and-memory",
   externalLink: "https://www.thegreatcoursesplus.com/myths-of-learning-and-memory",

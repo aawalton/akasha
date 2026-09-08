@@ -9,7 +9,11 @@ export const understandingTheQuantumWorld = {
   unitSlug: "minutes",
   ownLength: 722.4,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "learning-paths-great-courses",
+    "science-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "understanding-the-quantum-world",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-the-quantum-world",

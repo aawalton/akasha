@@ -9,7 +9,11 @@ export const theLearningBrain = {
   unitSlug: "minutes",
   ownLength: 752.4,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "learning-paths-great-courses",
+    "science-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "the-learning-brain",
   externalLink: "https://www.thegreatcoursesplus.com/the-learning-brain",

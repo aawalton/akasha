@@ -9,7 +9,7 @@ export const discreteMathematics = {
   unitSlug: "minutes",
   ownLength: 764.4,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "discrete-mathematics",
   externalLink: "https://www.thegreatcoursesplus.com/discrete-mathematics",

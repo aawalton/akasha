@@ -10,7 +10,7 @@ export const aNewHistoryOfLife = {
   unitSlug: "minutes",
   ownLength: 1069.2,
   ownProgress: 1069.2,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "a-new-history-of-life",
   externalLink: "https://www.thegreatcoursesplus.com/a-new-history-of-life",

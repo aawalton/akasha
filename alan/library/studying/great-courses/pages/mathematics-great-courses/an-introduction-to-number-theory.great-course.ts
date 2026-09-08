@@ -10,7 +10,7 @@ export const anIntroductionToNumberTheory = {
   unitSlug: "minutes",
   ownLength: 736.8,
   ownProgress: 736.8,
-  partOfSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "an-introduction-to-number-theory",
   externalLink: "https://www.thegreatcoursesplus.com/an-introduction-to-number-theory",

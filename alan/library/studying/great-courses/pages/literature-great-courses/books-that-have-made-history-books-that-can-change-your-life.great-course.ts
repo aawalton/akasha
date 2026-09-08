@@ -9,7 +9,7 @@ export const booksThatHaveMadeHistoryBooksThatCanChangeYourLife = {
   unitSlug: "minutes",
   ownLength: 1096.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "books-that-have-made-history-books-that-can-change-your-life",
   externalLink:

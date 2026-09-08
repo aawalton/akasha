@@ -9,7 +9,7 @@ export const musicAsAMirrorOfHistory = {
   unitSlug: "minutes",
   ownLength: 1102.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "music-as-a-mirror-of-history",
   externalLink: "https://www.thegreatcoursesplus.com/music-as-a-mirror-of-history",

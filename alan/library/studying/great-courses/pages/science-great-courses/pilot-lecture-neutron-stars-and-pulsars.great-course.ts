@@ -10,7 +10,7 @@ export const pilotLectureNeutronStarsAndPulsars = {
   unitSlug: "minutes",
   ownLength: 27,
   ownProgress: 27,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "neutron-stars-and-pulsars",
   externalLink: "https://www.thegreatcoursesplus.com/neutron-stars-and-pulsars",

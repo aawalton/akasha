@@ -10,7 +10,7 @@ export const woodworkingEssentialsBenchesAndBoxes = {
   unitSlug: "minutes",
   ownLength: 184.8,
   ownProgress: 184.8,
-  partOfSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "hobby-and-personal-pursuits-great-courses"],
   source: "the-great-courses",
   externalId: "woodworking-essentials-benches-boxes",
   externalLink: "https://www.thegreatcoursesplus.com/woodworking-essentials-benches-boxes",

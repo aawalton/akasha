@@ -9,7 +9,7 @@ export const masteringLinearAlgebraAnIntroductionWithApplications = {
   unitSlug: "minutes",
   ownLength: 723.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "mastering-linear-algebra-an-introduction-to-applications",
   externalLink:

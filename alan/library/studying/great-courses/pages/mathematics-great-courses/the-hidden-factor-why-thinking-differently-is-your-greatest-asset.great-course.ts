@@ -9,7 +9,7 @@ export const theHiddenFactorWhyThinkingDifferentlyIsYourGreatestAsset = {
   unitSlug: "minutes",
   ownLength: 718.8,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "mathematics-great-courses",
     "professional-growth-great-courses",

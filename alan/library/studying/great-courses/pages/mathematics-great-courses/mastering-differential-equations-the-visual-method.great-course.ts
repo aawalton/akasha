@@ -9,7 +9,7 @@ export const masteringDifferentialEquationsTheVisualMethod = {
   unitSlug: "minutes",
   ownLength: 751.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "mastering-differential-equations-the-visual-method",
   externalLink:

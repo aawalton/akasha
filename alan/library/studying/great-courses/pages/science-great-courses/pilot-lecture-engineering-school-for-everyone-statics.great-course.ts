@@ -10,7 +10,7 @@ export const pilotLectureEngineeringSchoolForEveryoneStatics = {
   unitSlug: "minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilots-engineering-school-for-everyone-statics",
   externalLink:

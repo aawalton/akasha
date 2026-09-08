@@ -9,7 +9,7 @@ export const introductionToCognitiveScience = {
   unitSlug: "minutes",
   ownLength: 783,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "introduction-to-cognitive-science",
   externalLink: "https://www.thegreatcoursesplus.com/introduction-to-cognitive-science",

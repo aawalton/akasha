@@ -10,7 +10,7 @@ export const pilotLectureHowToThinkLikeASpyTheArtOfReadingPeople = {
   unitSlug: "minutes",
   ownLength: 34.8,
   ownProgress: 34.8,
-  partOfSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "pilot-lecture-how-to-think-like-a-spy-the-art-of-reading-people",
   externalLink:

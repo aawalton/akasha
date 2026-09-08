@@ -9,7 +9,7 @@ export const theInexplicableUniverseUnsolvedMysteries = {
   unitSlug: "minutes",
   ownLength: 193.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-inexplicable-universe-unsolved-mysteries",
   externalLink: "https://www.thegreatcoursesplus.com/the-inexplicable-universe-unsolved-mysteries",

@@ -9,7 +9,7 @@ export const masteringStagePresenceHowToPresentToAnyAudience = {
   unitSlug: "minutes",
   ownLength: 731.4,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "mastering-stage-presence-how-to-present-to-any-audience",
   externalLink:

@@ -9,7 +9,7 @@ export const aLiteraryTourOfTheUnitedStates = {
   unitSlug: "minutes",
   ownLength: 672.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "a-literary-tour-of-the-united-states",
   externalLink: "https://www.thegreatcoursesplus.com/a-literary-tour-of-the-united-states",

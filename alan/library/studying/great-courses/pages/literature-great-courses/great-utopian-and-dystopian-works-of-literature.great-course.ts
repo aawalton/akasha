@@ -9,7 +9,7 @@ export const greatUtopianAndDystopianWorksOfLiterature = {
   unitSlug: "minutes",
   ownLength: 748.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "great-utopian-and-dystopian-works-of-literature",
   externalLink:

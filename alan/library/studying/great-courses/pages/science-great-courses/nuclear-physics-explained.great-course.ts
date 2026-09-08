@@ -9,7 +9,7 @@ export const nuclearPhysicsExplained = {
   unitSlug: "minutes",
   ownLength: 729,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "nuclear-physics-explained",
   externalLink: "https://www.thegreatcoursesplus.com/nuclear-physics-explained",

@@ -9,7 +9,7 @@ export const experiencingHubbleUnderstandingTheGreatestImagesOfTheUniverse = {
   unitSlug: "minutes",
   ownLength: 370.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "experiencing-hubble-understanding-the-greatest-images-of-the-universe",
   externalLink:

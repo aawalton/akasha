@@ -10,7 +10,11 @@ export const aFieldGuideToThePlanets = {
   unitSlug: "minutes",
   ownLength: 760.2,
   ownProgress: 760.2,
-  partOfSlugs: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "learning-paths-great-courses",
+    "science-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "a-field-guide-to-the-planets",
   externalLink: "https://www.thegreatcoursesplus.com/a-field-guide-to-the-planets",

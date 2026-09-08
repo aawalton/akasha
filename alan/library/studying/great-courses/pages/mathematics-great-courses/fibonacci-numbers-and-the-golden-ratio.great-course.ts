@@ -10,7 +10,7 @@ export const fibonacciNumbersAndTheGoldenRatio = {
   unitSlug: "minutes",
   ownLength: 331.8,
   ownProgress: 331.8,
-  partOfSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "fibonacci-numbers-and-the-golden-ratio",
   externalLink: "https://www.thegreatcoursesplus.com/fibonacci-numbers-and-the-golden-ratio",

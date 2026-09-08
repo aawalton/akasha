@@ -10,7 +10,11 @@ export const nationalGeographicPolarExplorations = {
   unitSlug: "minutes",
   ownLength: 669.6,
   ownProgress: 669.6,
-  partOfSlugs: ["all-great-courses", "science-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "science-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "national-geographic-polar-explorations",
   externalLink: "https://www.thegreatcoursesplus.com/national-geographic-polar-explorations",

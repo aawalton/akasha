@@ -10,7 +10,7 @@ export const pilotLectureTheExcitingWorldOfProjectManagement = {
   unitSlug: "minutes",
   ownLength: 36.6,
   ownProgress: 36.6,
-  partOfSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "plus-pilots-the-eciting-world-of-project-management",
   externalLink:

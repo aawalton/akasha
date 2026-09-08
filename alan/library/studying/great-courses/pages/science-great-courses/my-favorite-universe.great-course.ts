@@ -9,7 +9,7 @@ export const myFavoriteUniverse = {
   unitSlug: "minutes",
   ownLength: 388.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "my-favorite-universe",
   externalLink: "https://www.thegreatcoursesplus.com/my-favorite-universe",

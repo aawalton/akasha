@@ -9,7 +9,7 @@ export const mysteriesOfTheMicroscopicWorld = {
   unitSlug: "minutes",
   ownLength: 712.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "mysteries-of-the-microscopic-world",
   externalLink: "https://www.thegreatcoursesplus.com/mysteries-of-the-microscopic-world",

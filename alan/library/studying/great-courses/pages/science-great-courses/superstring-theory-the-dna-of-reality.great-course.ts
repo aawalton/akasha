@@ -9,7 +9,7 @@ export const superstringTheoryTheDnaOfReality = {
   unitSlug: "minutes",
   ownLength: 730.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "superstring-theory-the-dna-of-reality",
   externalLink: "https://www.thegreatcoursesplus.com/superstring-theory-the-dna-of-reality",

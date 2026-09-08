@@ -9,7 +9,11 @@ export const theTheoryOfEverythingTheQuestToExplainAllReality = {
   unitSlug: "minutes",
   ownLength: 751.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "learning-paths-great-courses",
+    "science-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "the-theory-of-everything-the-quest-to-explain-all-reality",
   externalLink:

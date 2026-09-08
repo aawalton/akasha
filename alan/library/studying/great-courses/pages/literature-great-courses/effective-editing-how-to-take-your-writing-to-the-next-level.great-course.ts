@@ -9,7 +9,7 @@ export const effectiveEditingHowToTakeYourWritingToTheNextLevel = {
   unitSlug: "minutes",
   ownLength: 318.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "effective-editing-how-to-take-your-writing-to-the-next-level",
   externalLink:

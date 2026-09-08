@@ -9,7 +9,7 @@ export const greekTragedy = {
   unitSlug: "minutes",
   ownLength: 741,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "greek-tragedy",
   externalLink: "https://www.thegreatcoursesplus.com/greek-tragedy",

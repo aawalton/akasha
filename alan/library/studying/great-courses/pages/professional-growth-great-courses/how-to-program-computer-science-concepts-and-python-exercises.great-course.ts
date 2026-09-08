@@ -9,7 +9,7 @@ export const howToProgramComputerScienceConceptsAndPythonExercises = {
   unitSlug: "minutes",
   ownLength: 761.4,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "professional-growth-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "professional-growth-great-courses"],
   source: "the-great-courses",
   externalId: "how-to-program-computer-science-concepts-and-python-exercises",
   externalLink:

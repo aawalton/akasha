@@ -9,7 +9,7 @@ export const greatAmericanShortStoriesAGuideForWritersAndReaders = {
   unitSlug: "minutes",
   ownLength: 777.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "great-american-short-stories-a-guide-for-writers-and-readers",
   externalLink:

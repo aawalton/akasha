@@ -9,7 +9,7 @@ export const physicsInYourLife = {
   unitSlug: "minutes",
   ownLength: 1098,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "physics-in-your-life",
   externalLink: "https://www.thegreatcoursesplus.com/physics-in-your-life",

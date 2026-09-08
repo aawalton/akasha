@@ -9,7 +9,11 @@ export const geometryAnInteractiveJourneyToMastery = {
   unitSlug: "minutes",
   ownLength: 1098.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "learning-paths-great-courses", "mathematics-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "learning-paths-great-courses",
+    "mathematics-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "geometry-an-interactive-journey-to-mastery",
   externalLink: "https://www.thegreatcoursesplus.com/geometry-an-interactive-journey-to-mastery",

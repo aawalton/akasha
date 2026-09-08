@@ -10,7 +10,7 @@ export const travelingTheRomanEmpire = {
   unitSlug: "minutes",
   ownLength: 290.4,
   ownProgress: 290.4,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "learning-paths-great-courses",
     "travel-and-culture-great-courses",

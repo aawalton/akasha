@@ -9,7 +9,7 @@ export const mathematicalBrainTeasersAndLogicPuzzles = {
   unitSlug: "minutes",
   ownLength: 309,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "mathematics-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "mathematics-great-courses"],
   source: "the-great-courses",
   externalId: "mathematical-brain-teasers-and-logic-puzzles",
   externalLink: "https://www.thegreatcoursesplus.com/mathematical-brain-teasers-and-logic-puzzles",

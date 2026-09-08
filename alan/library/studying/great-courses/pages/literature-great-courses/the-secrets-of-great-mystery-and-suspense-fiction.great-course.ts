@@ -9,7 +9,7 @@ export const theSecretsOfGreatMysteryAndSuspenseFiction = {
   unitSlug: "minutes",
   ownLength: 1138.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "the-secrets-of-great-mystery-and-suspense-fiction",
   externalLink:

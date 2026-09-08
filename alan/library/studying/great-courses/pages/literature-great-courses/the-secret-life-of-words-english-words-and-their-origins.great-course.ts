@@ -9,7 +9,7 @@ export const theSecretLifeOfWordsEnglishWordsAndTheirOrigins = {
   unitSlug: "minutes",
   ownLength: 1101.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "the-secret-life-of-words-english-words-and-their-origins",
   externalLink:

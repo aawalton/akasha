@@ -9,7 +9,7 @@ export const theDarwinianRevolution = {
   unitSlug: "minutes",
   ownLength: 726.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-darwinian-revolution",
   externalLink: "https://www.thegreatcoursesplus.com/the-darwinian-revolution",

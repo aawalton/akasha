@@ -10,7 +10,7 @@ export const theHistoryOfChristmasConcertMusic = {
   unitSlug: "minutes",
   ownLength: 42,
   ownProgress: 42,
-  partOfSlugs: ["all-great-courses", "music-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "music-great-courses"],
   source: "the-great-courses",
   externalId: "the-history-of-christmas-concert-music",
   externalLink: "https://www.thegreatcoursesplus.com/the-history-of-christmas-concert-music",

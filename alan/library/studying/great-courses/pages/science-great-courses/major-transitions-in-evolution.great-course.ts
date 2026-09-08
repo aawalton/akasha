@@ -9,7 +9,7 @@ export const majorTransitionsInEvolution = {
   unitSlug: "minutes",
   ownLength: 738.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "major-transitions-in-evolution",
   externalLink: "https://www.thegreatcoursesplus.com/major-transitions-in-evolution",

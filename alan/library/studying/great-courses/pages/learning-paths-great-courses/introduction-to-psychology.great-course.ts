@@ -9,7 +9,11 @@ export const introductionToPsychology = {
   unitSlug: "minutes",
   ownLength: 1078.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "learning-paths-great-courses",
+    "science-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "introduction-to-psychology",
   externalLink: "https://www.thegreatcoursesplus.com/introduction-to-psychology",

@@ -10,7 +10,11 @@ export const aVisualGuideToTheUniverseWithTheSmithsonian = {
   unitSlug: "minutes",
   ownLength: 546.6,
   ownProgress: 546.6,
-  partOfSlugs: ["all-great-courses", "learning-paths-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "learning-paths-great-courses",
+    "science-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "a-visual-guide-to-the-universe-with-the-smithsonian",
   externalLink:

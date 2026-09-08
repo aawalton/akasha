@@ -10,7 +10,7 @@ export const pilotLectureEdithWhartonSGildedAgeNewYork = {
   unitSlug: "minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-edith-wharton-s-gilded-age",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-edith-wharton-s-gilded-age",

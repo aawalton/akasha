@@ -9,7 +9,7 @@ export const theApocryphalJesus = {
   unitSlug: "minutes",
   ownLength: 753.6,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "the-apocryphal-jesus",
   externalLink: "https://www.thegreatcoursesplus.com/the-apocryphal-jesus",

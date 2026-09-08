@@ -9,7 +9,7 @@ export const theLifeAndDeathOfStars = {
   unitSlug: "minutes",
   ownLength: 715.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-life-and-death-of-stars",
   externalLink: "https://www.thegreatcoursesplus.com/the-life-and-death-of-stars",

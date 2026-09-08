@@ -9,7 +9,7 @@ export const londonInTheTimeOfDickens = {
   unitSlug: "minutes",
   ownLength: 372,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "london-in-the-time-of-dickens",
   externalLink: "https://www.thegreatcoursesplus.com/london-in-the-time-of-dickens",

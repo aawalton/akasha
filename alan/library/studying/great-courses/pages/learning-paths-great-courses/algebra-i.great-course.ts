@@ -10,7 +10,11 @@ export const algebraI = {
   unitSlug: "minutes",
   ownLength: 1110.6,
   ownProgress: 1110.6,
-  partOfSlugs: ["all-great-courses", "learning-paths-great-courses", "mathematics-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "learning-paths-great-courses",
+    "mathematics-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "algebra-i",
   externalLink: "https://www.thegreatcoursesplus.com/algebra-i",

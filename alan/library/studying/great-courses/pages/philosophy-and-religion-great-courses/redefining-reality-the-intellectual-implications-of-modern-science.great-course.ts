@@ -9,7 +9,7 @@ export const redefiningRealityTheIntellectualImplicationsOfModernScience = {
   unitSlug: "minutes",
   ownLength: 1089.6,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "philosophy-and-religion-great-courses",
     "science-great-courses",

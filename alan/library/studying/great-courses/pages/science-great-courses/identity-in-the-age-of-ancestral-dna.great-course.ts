@@ -9,7 +9,7 @@ export const identityInTheAgeOfAncestralDna = {
   unitSlug: "minutes",
   ownLength: 352.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "identity-in-the-age-of-ancestral-dna",
   externalLink: "https://www.thegreatcoursesplus.com/identity-in-the-age-of-ancestral-dna",

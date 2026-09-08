@@ -9,7 +9,7 @@ export const howToWriteBestSellingFiction = {
   unitSlug: "minutes",
   ownLength: 792,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "literature-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "literature-great-courses"],
   source: "the-great-courses",
   externalId: "how-to-write-best-selling-fiction",
   externalLink: "https://www.thegreatcoursesplus.com/how-to-write-best-selling-fiction",

@@ -9,7 +9,7 @@ export const effectiveCommunicationSkills = {
   unitSlug: "minutes",
   ownLength: 712.2,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "literature-great-courses",
     "professional-growth-great-courses",

@@ -9,7 +9,7 @@ export const theGreatWorksOfSacredMusic = {
   unitSlug: "minutes",
   ownLength: 708.6,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "music-great-courses",
     "philosophy-and-religion-great-courses",

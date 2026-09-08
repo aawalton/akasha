@@ -9,7 +9,7 @@ export const mastersOfGreekThoughtPlatoSocratesAndAristotle = {
   unitSlug: "minutes",
   ownLength: 1095,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "philosophy-and-religion-great-courses"],
   source: "the-great-courses",
   externalId: "masters-of-greek-thought-plato-socrates-and-aristotle",
   externalLink:

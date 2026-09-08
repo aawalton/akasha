@@ -9,7 +9,7 @@ export const greatMindsOfTheEasternIntellectualTradition = {
   unitSlug: "minutes",
   ownLength: 1120.8,
   ownProgress: 0,
-  partOfSlugs: [
+  partOfCollectionSlugs: [
     "all-great-courses",
     "learning-paths-great-courses",
     "philosophy-and-religion-great-courses",
