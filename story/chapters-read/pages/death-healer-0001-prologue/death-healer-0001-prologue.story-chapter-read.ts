@@ -5,7 +5,7 @@ export const deathHealer0001Prologue = {
   pageTypeSlug: "story-chapter-read",
   slug: "death-healer-0001-prologue",
   title: "Prologue",
-  partOfSlugs: ["death-healer"],
+  partOfCollectionSlugs: ["death-healer"],
   position: 1,
   ownLength: 3142,
   unitSlug: "words",

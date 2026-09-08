@@ -5,7 +5,7 @@ export const defianceOfTheFall0079Chapter1401Immortal = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0079-chapter-1401-immortal",
   title: "Chapter 1,401 - Immortal",
-  partOfSlugs: ["story-read/defiance-of-the-fall"],
+  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
   position: 79,
   ownLength: 2962,
   unitSlug: "words",

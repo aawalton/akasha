@@ -5,7 +5,7 @@ export const defianceOfTheFall0012Chapter1337EveritDraom = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0012-chapter-1337-everit-draom",
   title: "Chapter 1,337 - Everit Draom",
-  partOfSlugs: ["story-read/defiance-of-the-fall"],
+  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
   position: 12,
   ownLength: 3077,
   unitSlug: "words",
