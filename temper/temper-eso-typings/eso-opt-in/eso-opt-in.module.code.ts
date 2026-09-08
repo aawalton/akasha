@@ -1,9 +1,10 @@
 import { readFileSync } from "node:fs"
 import type { EsoOptIn } from "../eso-token-scope/eso-token-scope.module.code.ts"
 
-// The manifest sits beside this module rather than being reached from the checkout root, so the
-// scope travels with the code that declares its shape and a copy run from anywhere still finds it.
-const MANIFEST_PATH = new URL("./eso-opt-in.json", import.meta.url).pathname
+const MANIFEST_PATH = new URL(
+  "../declared-tokens/declared-tokens.eso-opt-in-list.tokens.json",
+  import.meta.url
+).pathname
 
 function readOptIn(): EsoOptIn {
   const read: EsoOptIn = JSON.parse(readFileSync(MANIFEST_PATH, "utf8"))
