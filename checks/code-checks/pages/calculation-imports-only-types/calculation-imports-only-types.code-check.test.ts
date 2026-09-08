@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { bodyFrom } from "../../../modules/judged-body/judged-body.module.code.ts"
 import { reasonsIn, valueImportsIn } from "./calculation-imports-only-types.code-check.code.ts"
 
 const ROOT = "/repo"
@@ -6,7 +7,7 @@ const ROOT = "/repo"
 const AT = "akasha/held.computed-property.code.ts"
 
 function given(at: string, body: string) {
-  return { root: ROOT, path: at, bytes: new TextEncoder().encode(body) }
+  return bodyFrom(ROOT, at, body)
 }
 
 test("a calculation importing only types is let through", () => {

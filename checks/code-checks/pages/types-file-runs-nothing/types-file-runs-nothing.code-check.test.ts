@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { bodyFrom } from "../../../modules/judged-body/judged-body.module.code.ts"
 import { reasonsIn, whatRunsIn } from "./types-file-runs-nothing.code-check.code.ts"
 
 const ROOT = "/repo"
@@ -6,7 +7,7 @@ const ROOT = "/repo"
 const AT = "akasha/held.module.types.ts"
 
 function given(at: string, body: string) {
-  return { root: ROOT, path: at, bytes: new TextEncoder().encode(body) }
+  return bodyFrom(ROOT, at, body)
 }
 
 test("a types file holding a type alias and an interface is let through", () => {

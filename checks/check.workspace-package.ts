@@ -13,6 +13,7 @@ export const check = {
     "page-type/cluster-check",
     "page-type/model-check",
     "page-type/refusal",
+    "module/judged-body",
     "module/judging",
     "module/model-running",
     "module/check-scratch",
