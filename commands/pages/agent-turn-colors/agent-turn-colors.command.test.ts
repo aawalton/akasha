@@ -1,7 +1,8 @@
 import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Given } from "@akasha/command-system/calling"
+import { colorIn, WORKING_PAGE } from "@akasha/seat-system/seat-turn-color/testing"
 import type { SeatTurnState } from "@akasha/seat-system/seat-turn-state"
 import {
   agentTurnColors,
@@ -24,22 +25,11 @@ function givenIn(): Given {
   }
 }
 
-const WORKING_PAGE = "seat-system/seat-turn-states/pages/working.seat-turn-state.ts"
-
 function rootWith(color: string): string {
   const at = mkdtempSync(join("/var/tmp", "agent-turn-colors-test-"))
   mkdirSync(join(at, dirname(WORKING_PAGE)), { recursive: true })
   colorIn(at, color)
   return at
-}
-
-function colorIn(at: string, color: string): undefined {
-  writeFileSync(
-    join(at, WORKING_PAGE),
-    `export const working = {\n  pageTypeSlug: "seat-turn-state",\n  slug: "working",\n` +
-      `  definition: "an agent taking a turn",\n  colorSlug: "${color}",\n} as const\n`
-  )
-  return undefined
 }
 
 test("bare words are agent ids", () => {

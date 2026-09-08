@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const agentTurnColors = {
   id: "01a0693c-9b24-7a22-8c27-03b9194b117e",
@@ -77,6 +77,15 @@ export const agentTurnColors = {
     {
       invariantKind: "departure",
       statement: "A run keeps beside each seat the reading of that seat's transcript.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The reader of a state's color is handed in, so a test drives it without a checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Neither road takes the root the call carries, so one call reads one checkout.",
     },
   ],
 } as const satisfies Command

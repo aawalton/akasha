@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { mkdirSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
 import {
@@ -11,6 +11,7 @@ import {
   type Serving,
   servingFrom,
 } from "@akasha/editor-extension/command-server-client"
+import { colorIn, WORKING_PAGE } from "@akasha/seat-system/seat-turn-color/testing"
 import { COMMANDS_SERVED, LEASE_ENV } from "../commands-served/commands-served.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import { COMMANDS_LOADABLE, commandsAdrift } from "./command-server.module.code.ts"
@@ -18,8 +19,6 @@ import { COMMANDS_LOADABLE, commandsAdrift } from "./command-server.module.code.
 const BUN = join(homedir(), ".bun", "bin", "bun")
 
 const SERVER = join(import.meta.dir, "command-server.module.code.ts")
-
-const WORKING_PAGE = "seat-system/seat-turn-states/pages/working.seat-turn-state.ts"
 
 const ASK_MS = 20_000
 
@@ -32,15 +31,6 @@ function rootWith(color: string): string {
   mkdirSync(join(at, dirname(WORKING_PAGE)), { recursive: true })
   colorIn(at, color)
   return at
-}
-
-function colorIn(at: string, color: string): undefined {
-  writeFileSync(
-    join(at, WORKING_PAGE),
-    `export const working = {\n  pageTypeSlug: "seat-turn-state",\n  slug: "working",\n` +
-      `  definition: "an agent taking a turn",\n  colorSlug: "${color}",\n} as const\n`
-  )
-  return undefined
 }
 
 function clientAt(

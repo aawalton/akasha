@@ -30,13 +30,6 @@ Commands: ${COMMANDS_SERVED.join(", ")}
   --help  This.
 `
 
-/**
- * The file a command's page names, for the `argv[1]` a command loaded here reads.
- *
- * Answered from the index rather than assembled out of the command's name, so a command that moves
- * is followed without this file being touched. A command the index cannot answer for is named by
- * its own name rather than by a path that is nowhere.
- */
 async function commandFile(command: string): Promise<string> {
   try {
     const { akashaRoot } = await import("@akasha/pages/checkout-roots")
@@ -62,7 +55,7 @@ type Ran = (argv: readonly string[]) => number | Promise<number>
 const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Ran }>>> = {
   "agent-turn-colors": async () => {
     const { agentTurnColors } = await import(
-      "../commands/agent-turn-colors/agent-turn-colors.command.code.ts"
+      "../../commands/pages/agent-turn-colors/agent-turn-colors.command.code.ts"
     )
     const { akashaRoot } = await import("@akasha/pages/checkout-roots")
     return {

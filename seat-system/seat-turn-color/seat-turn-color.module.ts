@@ -6,4 +6,5 @@ export const seatTurnColor = {
   slug: "seat-turn-color",
   definition: "the color a seat's turn state is drawn in, read off that state's own page",
   code: "ts",
+  testFixtures: "ts",
 } as const satisfies Module
