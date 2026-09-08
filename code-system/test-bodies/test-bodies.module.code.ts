@@ -160,6 +160,7 @@ export function servingOf(
 export function servedBy(bodies: Bodies): BunPlugin {
   const named = Object.keys(bodies)
   const apart = new Set(named.filter((one) => !existsSync(one)))
+  const reached = reachedIn(bodies)
   return {
     name: NAME,
     setup: (build): undefined => {
@@ -169,6 +170,11 @@ export function servedBy(bodies: Bodies): BunPlugin {
         const at = resolve(from, args.path)
         if (apart.has(at)) return { path: at, namespace: SERVED }
         return { path: Bun.resolveSync(at, from), namespace: FILE }
+      })
+      build.onResolve({ filter: wholeOf([...reached.keys()]) }, (args) => {
+        const at = reached.get(args.path)
+        if (at === undefined) return undefined
+        return { path: at, namespace: apart.has(at) ? SERVED : FILE }
       })
       build.onResolve({ filter: endingOf(named) }, (args) => {
         const at = resolve(folderOf(args.importer), args.path)
