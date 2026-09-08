@@ -19,6 +19,7 @@ export const archiveOfWorldsWeb = {
   gitIgnore: "gitignore",
   routeTypesDirectory: true,
   declarationDirectory: true,
+  bundleDirectory: true,
   partSlugs: [
     "manifest/archive-of-worlds-web-manifests",
     "stylesheet/archive-of-worlds-web-look",

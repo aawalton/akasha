@@ -17,6 +17,7 @@ export const audhdalanWeb = {
   gitIgnore: "gitignore",
   routeTypesDirectory: true,
   declarationDirectory: true,
+  bundleDirectory: true,
   partSlugs: [
     "manifest/audhdalan-web-manifests",
     "stylesheet/audhdalan-web-look",

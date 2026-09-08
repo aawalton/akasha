@@ -17,6 +17,7 @@ export const smilingjennyWeb = {
   gitIgnore: "gitignore",
   routeTypesDirectory: true,
   declarationDirectory: true,
+  bundleDirectory: true,
   partSlugs: [
     "manifest/smilingjenny-web-manifests",
     "stylesheet/smilingjenny-web-look",

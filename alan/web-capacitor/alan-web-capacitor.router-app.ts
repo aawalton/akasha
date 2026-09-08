@@ -14,6 +14,7 @@ export const alanWebCapacitor = {
   viteConfig: "ts",
   routeTypesDirectory: true,
   declarationDirectory: true,
+  bundleDirectory: true,
   partSlugs: ["route/alan-web-capacitor-home", "stylesheet/alan-web-capacitor-look"],
   invariants: [
     {

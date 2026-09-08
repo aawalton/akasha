@@ -2,6 +2,7 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
 import type { AddonBundleImage } from "./properties/addon-bundle-image.named-file-property.ts"
 import type { AppLayout } from "./properties/app-layout.named-file-property.ts"
+import type { BundleDirectory } from "./properties/bundle-directory.build-folder-property.ts"
 import type { CompileConfig } from "./properties/compile-config.named-file-property.ts"
 import type { DeclarationDirectory } from "./properties/declaration-directory.build-folder-property.ts"
 import type { PlaceholderImage } from "./properties/placeholder-image.named-file-property.ts"
@@ -34,6 +35,7 @@ export type RouterApp = WorkspacePackage & {
   testPreload?: TestPreload
   routeTypesDirectory?: RouteTypesDirectory
   declarationDirectory?: DeclarationDirectory
+  bundleDirectory?: BundleDirectory
 }
 
 export const routerApp = {
@@ -60,6 +62,7 @@ export const routerApp = {
     "type-declaration/vite-client",
     "build-folder-property/route-types-directory",
     "build-folder-property/declaration-directory",
+    "build-folder-property/bundle-directory",
   ],
   extendsSlug: ["page-type/workspace-package"],
   properties: [
@@ -91,6 +94,7 @@ export const routerApp = {
       required: false,
       many: false,
     },
+    { pagePropertySlug: "build-folder-property/bundle-directory", required: false, many: false },
   ],
   invariants: [
     {

@@ -19,6 +19,7 @@ export const alanAtlasWeb = {
   gitIgnore: "gitignore",
   routeTypesDirectory: true,
   declarationDirectory: true,
+  bundleDirectory: true,
   partSlugs: [
     "manifest/alanwalton-atlas",
     "stylesheet/alan-atlas-web-look",

@@ -22,6 +22,7 @@ export const temperWeb = {
   testPreload: "toml",
   routeTypesDirectory: true,
   declarationDirectory: true,
+  bundleDirectory: true,
   partSlugs: [
     "manifest/temper-web-manifests",
     "stylesheet/temper-web-look",

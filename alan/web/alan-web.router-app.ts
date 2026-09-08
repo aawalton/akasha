@@ -21,6 +21,7 @@ export const alanWeb = {
   testPreload: "toml",
   routeTypesDirectory: true,
   declarationDirectory: true,
+  bundleDirectory: true,
   partSlugs: [
     "manifest/alanwalton-web",
     "stylesheet/alan-web-look",
