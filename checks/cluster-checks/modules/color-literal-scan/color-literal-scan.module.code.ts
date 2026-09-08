@@ -29,14 +29,10 @@ const EXEMPT_SEGMENTS: ReadonlySet<string> = new Set([
   "__fixtures__",
   "addon",
   "addons",
-  "tstl",
 ])
 
 const DESIGN_HOME_PREFIXES = ["shared/design-", "design/"]
 
-// A shell's www/ holds what a build put there — a staged SPA bundle for one shell, a
-// copied boot page for the other — and neither is authored. Matched under ios-apps
-// rather than at one shell's old path, so it keeps holding as shells move in.
 const NATIVE_SHELL_BUILT_ARTIFACT_RE = /^akasha\/code-system\/ios-app\/ios-apps\/[^/]+\/www\//
 
 export function shouldScanColorFile(repoRelPath: string): boolean {

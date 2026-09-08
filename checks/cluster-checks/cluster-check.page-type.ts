@@ -120,6 +120,7 @@ export const clusterCheck = {
     "module/check-readonly-collections",
     "module/tsconfig-source-layout",
     "module/tsconfig-rule-guidance",
+    "module/color-literal-scan",
   ],
   properties: [
     {
