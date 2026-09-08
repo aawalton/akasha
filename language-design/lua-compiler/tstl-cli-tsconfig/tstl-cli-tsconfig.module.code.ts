@@ -1,4 +1,4 @@
-import * as path from "path"
+import * as path from "node:path"
 import * as ts from "typescript"
 import * as cliDiagnostics from "../tstl-cli-diagnostics/tstl-cli-diagnostics.module.code.ts"
 import { isRecord } from "../tstl-cli-is-record/tstl-cli-is-record.module.code.ts"
