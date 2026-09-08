@@ -136,7 +136,7 @@ export const SUB_SAID = "tester-one handed 1 edit(s) over"
 
 export const TAKEN_SAID: readonly string[] = [
   `adds ${HANDED_AT}`,
-  "these edits are this agent's own now, and `akasha apply` lands them",
+  "these edits are this agent's own now, and `akasha change apply` lands them",
 ]
 
 export const FORGOT_SAID: readonly string[] = [
@@ -201,7 +201,7 @@ export function keptIn(root: string): readonly string[] {
 }
 
 export function saysApply(said: Answer): boolean {
-  return said.report.some((one) => one.includes("akasha apply"))
+  return said.report.some((one) => one.includes("akasha change apply"))
 }
 
 export const DROPPED_BOTH: readonly string[] = [
@@ -346,7 +346,7 @@ export type Hand = {
 
 const HANDED_BOTH: readonly string[] = [HANDED_AT, HANDED_OTHER]
 
-const TOOK = "these edits are this agent's own now, and `akasha apply` lands them"
+const TOOK = "these edits are this agent's own now, and `akasha change apply` lands them"
 
 const WENT = "these edits are gone, and no apply lands them"
 

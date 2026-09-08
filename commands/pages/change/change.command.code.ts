@@ -320,7 +320,7 @@ export type Loading = (world: World, at: string) => Promise<Loaded | string>
 
 export type Applying = (message: string | null) => Promise<Answer>
 
-const KEPT = "and `akasha apply` lands them once what refused is answered"
+const KEPT = "and `akasha change apply` lands them once what refused is answered"
 
 function keptSaid(page: string): string {
   return `the edits are kept at ${keptAt(page) ?? ""}, ${KEPT}`
@@ -404,7 +404,7 @@ export async function changing(
   costRecorded(root, CHANGE_PAGE, before, CHANGE, slug, paths, answered.refusals.length)
   if (answered.code !== 0) return answered
   if (drafts) {
-    const drafted = `the edits are kept at ${keptAt(page) ?? ""}, and \`akasha apply\` lands them`
+    const drafted = `the edits are kept at ${keptAt(page) ?? ""}, and \`akasha change apply\` lands them`
     return { ...answered, report: [...answered.report, drafted] }
   }
   const landed = await applying(asked.message)

@@ -31,7 +31,7 @@ const HANDED_NONE = "has handed no edits to this agent"
 
 const NOTHING_HELD = "no edits are kept beside this agent's page"
 
-const KEPT_LANDS = "`akasha apply` lands these"
+const KEPT_LANDS = "`akasha change apply` lands these"
 
 const NO_SUBAGENT = "this call names no subagent whose handed edits would be reached"
 
@@ -39,7 +39,7 @@ const HANDED_LANDS = "`akasha change take <subagent>` takes one of these into th
 
 const HELD_BACK = "the handed edits are kept as they were, and this agent's own are unchanged"
 
-const TAKEN = "these edits are this agent's own now, and `akasha apply` lands them"
+const TAKEN = "these edits are this agent's own now, and `akasha change apply` lands them"
 
 export function saidOf(one: Stated): string {
   if (one.kind === "move") return `moves ${one.pathFrom} to ${one.pathTo}`
