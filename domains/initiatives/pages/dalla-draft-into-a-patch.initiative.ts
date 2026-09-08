@@ -61,7 +61,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "The check phase an apply runs in is named `change-apply` rather than `patch`.",
       workingMemory:
-        "`check-cost` writes a `phase` on every row, and the only two values written are `patch` and `audit`: 197,067 rows hold `patch` against 661 for `audit`. The apply's checks are the `patch` rows, so the name says the old store rather than the act it names. A rename reaches the writer, whatever reads a recorded row, and the 197,728 rows already written across 45 files beside check pages.",
+        "`change-costing:5` sets `APPLY` to `apply`, and `apply-running:140` writes it as both the phase and the `ran`, so an apply no longer records `patch`. The command road records that same run again under phase `command` with `ran` `change-apply`. Five phases are written across the cost files: `patch`, `command`, `change`, `apply` and `audit`, and `patch` is most of what is recorded. What is left is finding what still writes `patch`.",
     },
   ],
   constraints: [
