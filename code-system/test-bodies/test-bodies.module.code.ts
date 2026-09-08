@@ -1,6 +1,7 @@
 import { existsSync, mkdtempSync, readFileSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, extname, join, resolve } from "node:path"
 import type { BunPlugin } from "bun"
+import { reachesIn } from "../package-manifest/package-manifest.module.code.ts"
 
 export const SERVED = "body"
 
@@ -37,6 +38,11 @@ const EVERY = /.*/
 const NOTHING = /(?!)/
 
 const NEAR = /^\.\.?\//
+
+const RELATIVE =
+  /(\bfrom\s+|\bimport\s*\(\s*|\brequire\s*\(\s*|\bimport\s+)(["'])(\.\.?\/[^"']*)\2/g
+
+const MANIFEST = "/package.json"
 
 const HOLD = "/var/tmp"
 
@@ -108,17 +114,65 @@ function bodyOf(at: (path: string) => Uint8Array | null, one: string): string | 
   }
 }
 
+export function absoluteIn(text: string, folder: string): string {
+  let out = ""
+  let from = 0
+  for (const found of text.matchAll(RELATIVE)) {
+    const said = found[3]
+    if (said === undefined) continue
+    out += text.slice(from, found.index) + found[1] + found[2] + resolve(folder, said) + found[2]
+    from = found.index + found[0].length
+  }
+  return out + text.slice(from)
+}
+
+export function pairedIn(
+  folder: string,
+  was: string | null,
+  now: string
+): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  if (was === null) return found
+  const before = reachesIn(folder, was)
+  const after = reachesIn(folder, now)
+  const gone: string[] = []
+  const come: string[] = []
+  for (const [key, to] of before) {
+    const holds = after.get(key)
+    if (holds === undefined) gone.push(to)
+    else if (holds !== to) found.set(to, holds)
+  }
+  for (const [key, to] of after) if (!before.has(key)) come.push(to)
+  const one = gone[0]
+  const two = come[0]
+  if (gone.length === 1 && come.length === 1 && one !== undefined && two !== undefined) {
+    found.set(one, two)
+  }
+  return found
+}
+
 export function servingOf(
   from: string,
   paths: readonly string[],
   at: (path: string) => Uint8Array | null,
-  named: readonly string[]
+  named: readonly string[],
+  was: (path: string) => Uint8Array | null = () => null
 ): Serving {
   const held = mkdtempSync(join(HOLD, PREFIX))
   try {
     const root = realpathSync(from)
     const bodies: Record<string, string | null> = {}
     for (const one of paths) bodies[join(root, one)] = bodyOf(at, one)
+    for (const one of paths) {
+      if (!one.endsWith(MANIFEST)) continue
+      const now = bodies[join(root, one)] ?? null
+      if (now === null) continue
+      for (const [gone, come] of pairedIn(dirname(join(root, one)), bodyOf(was, one), now)) {
+        const body = bodies[come] ?? null
+        if (body === null) continue
+        bodies[gone] = absoluteIn(body, dirname(come))
+      }
+    }
     const standing = new Map<string, string>()
     for (const one of named) {
       const real = join(root, one)
