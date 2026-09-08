@@ -151,6 +151,7 @@ export const clusterCheck = {
     "module/codegen-type-identity-drift",
     "module/color-literal-grants",
     "module/codegen-type-identity-pairs",
+    "module/component-layout-boundary",
   ],
   properties: [
     {
