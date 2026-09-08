@@ -16,7 +16,7 @@ export const LIVE_VERSION_POLL_MS = 60_000
 
 const ASK_CEILING_MS = 5_000
 
-const BUILD_SHA = parseBuildSha(process.env.NEXT_PUBLIC_BUILD_SHA)
+const BUILD_SHA = parseBuildSha(import.meta.env.VITE_BUILD_SHA)
 
 const DEFAULT_CLASSNAMES = {
   toast: `!${surfaceClass(0)} !border-accent !text-accent !font-bold`,

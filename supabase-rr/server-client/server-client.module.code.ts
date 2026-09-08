@@ -15,14 +15,23 @@ export function createServerClient(
   request: Request,
   options: CreateServerClientOptions = {}
 ): { supabase: SupabaseServerClient; headers: Headers } {
-  const url = options.url ?? z.string().optional().parse(process.env.NEXT_PUBLIC_SUPABASE_URL)
+  const url =
+    options.url ??
+    z
+      .string()
+      .optional()
+      .parse(import.meta.env.VITE_SUPABASE_URL)
   const anonKey =
-    options.anonKey ?? z.string().optional().parse(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY)
+    options.anonKey ??
+    z
+      .string()
+      .optional()
+      .parse(import.meta.env.VITE_SUPABASE_ANON_KEY)
   if (url == null) {
-    throw new Error("createServerClient: NEXT_PUBLIC_SUPABASE_URL is not set")
+    throw new Error("createServerClient: VITE_SUPABASE_URL is not set")
   }
   if (anonKey == null) {
-    throw new Error("createServerClient: NEXT_PUBLIC_SUPABASE_ANON_KEY is not set")
+    throw new Error("createServerClient: VITE_SUPABASE_ANON_KEY is not set")
   }
 
   const cookieHeader = request.headers.get("cookie") ?? ""
@@ -35,7 +44,7 @@ export function createServerClient(
   const headers = new Headers()
 
   const supabase = createSsrServerClient(url, anonKey, {
-    cookieOptions: parseSupabaseCookieOptions(process.env.NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN),
+    cookieOptions: parseSupabaseCookieOptions(import.meta.env.VITE_SUPABASE_COOKIE_DOMAIN),
     cookies: {
       getAll() {
         return cookieEntries
@@ -65,13 +74,19 @@ export function bearerScopedClientOptions(token: string): {
 }
 
 export function createBearerScopedClient(token: string): SupabaseServerClient {
-  const url = z.string().optional().parse(process.env.NEXT_PUBLIC_SUPABASE_URL)
-  const anonKey = z.string().optional().parse(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY)
+  const url = z
+    .string()
+    .optional()
+    .parse(import.meta.env.VITE_SUPABASE_URL)
+  const anonKey = z
+    .string()
+    .optional()
+    .parse(import.meta.env.VITE_SUPABASE_ANON_KEY)
   if (url == null) {
-    throw new Error("createBearerScopedClient: NEXT_PUBLIC_SUPABASE_URL is not set")
+    throw new Error("createBearerScopedClient: VITE_SUPABASE_URL is not set")
   }
   if (anonKey == null) {
-    throw new Error("createBearerScopedClient: NEXT_PUBLIC_SUPABASE_ANON_KEY is not set")
+    throw new Error("createBearerScopedClient: VITE_SUPABASE_ANON_KEY is not set")
   }
   return createClient(url, anonKey, bearerScopedClientOptions(token))
 }

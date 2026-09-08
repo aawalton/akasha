@@ -11,13 +11,19 @@ export async function getUser(
 }
 
 export async function getUserFromBearerToken(jwt: string): Promise<{ user: SupabaseUser | null }> {
-  const url = z.string().optional().parse(process.env.NEXT_PUBLIC_SUPABASE_URL)
-  const anonKey = z.string().optional().parse(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY)
+  const url = z
+    .string()
+    .optional()
+    .parse(import.meta.env.VITE_SUPABASE_URL)
+  const anonKey = z
+    .string()
+    .optional()
+    .parse(import.meta.env.VITE_SUPABASE_ANON_KEY)
   if (url == null) {
-    throw new Error("getUserFromBearerToken: NEXT_PUBLIC_SUPABASE_URL is not set")
+    throw new Error("getUserFromBearerToken: VITE_SUPABASE_URL is not set")
   }
   if (anonKey == null) {
-    throw new Error("getUserFromBearerToken: NEXT_PUBLIC_SUPABASE_ANON_KEY is not set")
+    throw new Error("getUserFromBearerToken: VITE_SUPABASE_ANON_KEY is not set")
   }
 
   const client = createClient(url, anonKey, {

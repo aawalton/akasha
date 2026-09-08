@@ -28,14 +28,14 @@ function currentProtocol(): string | undefined {
 export function createBrowserClient(
   options: CreateBrowserClientOptions = {}
 ): SupabaseBrowserClient {
-  const url = options.url ?? OPTIONAL_ENV_SCHEMA.parse(process.env.NEXT_PUBLIC_SUPABASE_URL)
+  const url = options.url ?? OPTIONAL_ENV_SCHEMA.parse(import.meta.env.VITE_SUPABASE_URL)
   const anonKey =
-    options.anonKey ?? OPTIONAL_ENV_SCHEMA.parse(process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY)
+    options.anonKey ?? OPTIONAL_ENV_SCHEMA.parse(import.meta.env.VITE_SUPABASE_ANON_KEY)
   if (url == null) {
-    throw new Error("createBrowserClient: NEXT_PUBLIC_SUPABASE_URL is not set")
+    throw new Error("createBrowserClient: VITE_SUPABASE_URL is not set")
   }
   if (anonKey == null) {
-    throw new Error("createBrowserClient: NEXT_PUBLIC_SUPABASE_ANON_KEY is not set")
+    throw new Error("createBrowserClient: VITE_SUPABASE_ANON_KEY is not set")
   }
 
   const mode = resolveBrowserAuthMode(options.protocol ?? currentProtocol())
@@ -54,7 +54,7 @@ export function createBrowserClient(
   }
 
   return createSsrBrowserClient(url, anonKey, {
-    cookieOptions: parseSupabaseCookieOptions(process.env.NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN),
+    cookieOptions: parseSupabaseCookieOptions(import.meta.env.VITE_SUPABASE_COOKIE_DOMAIN),
   })
 }
 
