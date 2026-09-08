@@ -5,7 +5,7 @@ export const doctorWho = {
   pageTypeSlug: "fandom",
   slug: "doctor-who",
   title: "Doctor Who",
-  partOfSlugs: ["science-fiction-fandoms", "speculative-antholoagies"],
+  partOfCollectionSlugs: ["science-fiction-fandoms", "speculative-antholoagies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

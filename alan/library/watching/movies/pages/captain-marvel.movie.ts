@@ -5,7 +5,7 @@ export const captainMarvel = {
   pageTypeSlug: "movie",
   slug: "captain-marvel",
   title: "Captain Marvel",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 21,
   ownLength: 0,
   ownProgress: 0,

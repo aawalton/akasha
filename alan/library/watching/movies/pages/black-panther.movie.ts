@@ -5,7 +5,7 @@ export const blackPanther = {
   pageTypeSlug: "movie",
   slug: "black-panther",
   title: "Black Panther",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 18,
   ownLength: 0,
   ownProgress: 0,

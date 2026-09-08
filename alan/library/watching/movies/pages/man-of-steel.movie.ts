@@ -5,7 +5,7 @@ export const manOfSteel = {
   pageTypeSlug: "movie",
   slug: "man-of-steel",
   title: "Man of Steel",
-  partOfSlugs: ["dc-extended-universe"],
+  partOfCollectionSlugs: ["dc-extended-universe"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

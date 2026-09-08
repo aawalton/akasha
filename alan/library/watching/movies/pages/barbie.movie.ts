@@ -5,7 +5,7 @@ export const barbie = {
   pageTypeSlug: "movie",
   slug: "barbie",
   title: "Barbie",
-  partOfSlugs: ["award-winning-movies"],
+  partOfCollectionSlugs: ["award-winning-movies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const planetOfTheApes2 = {
   pageTypeSlug: "fandom",
   slug: "planet-of-the-apes-2",
   title: "Planet of the Apes",
-  partOfSlugs: ["science-fiction-fandoms"],
+  partOfCollectionSlugs: ["science-fiction-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

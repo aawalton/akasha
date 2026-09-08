@@ -5,7 +5,7 @@ export const theAvengers = {
   pageTypeSlug: "movie",
   slug: "the-avengers",
   title: "The Avengers",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

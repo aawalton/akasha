@@ -5,7 +5,7 @@ export const starTrekNemesis = {
   pageTypeSlug: "movie",
   slug: "star-trek-nemesis",
   title: "Star Trek: Nemesis",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 16,
   ownLength: 0,
   ownProgress: 0,

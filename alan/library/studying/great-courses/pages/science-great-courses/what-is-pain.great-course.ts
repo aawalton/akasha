@@ -9,7 +9,7 @@ export const whatIsPain = {
   unitSlug: "minutes",
   ownLength: 12,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "what-is-pain",
   externalLink: "https://plus.thegreatcourses.com/what-is-pain",

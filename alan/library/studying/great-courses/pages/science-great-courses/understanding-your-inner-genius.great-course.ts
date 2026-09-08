@@ -9,7 +9,7 @@ export const understandingYourInnerGenius = {
   unitSlug: "minutes",
   ownLength: 186,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "understanding-your-inner-genius",
   externalLink: "https://www.thegreatcoursesplus.com/understanding-your-inner-genius",

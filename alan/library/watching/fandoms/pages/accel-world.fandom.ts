@@ -5,7 +5,7 @@ export const accelWorld = {
   pageTypeSlug: "fandom",
   slug: "accel-world",
   title: "Accel World",
-  partOfSlugs: ["anime-fandoms"],
+  partOfCollectionSlugs: ["anime-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

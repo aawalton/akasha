@@ -5,7 +5,7 @@ export const blueBeetle = {
   pageTypeSlug: "movie",
   slug: "blue-beetle",
   title: "Blue Beetle",
-  partOfSlugs: ["dc-extended-universe"],
+  partOfCollectionSlugs: ["dc-extended-universe"],
   position: 15,
   ownLength: 0,
   ownProgress: 0,

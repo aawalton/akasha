@@ -5,7 +5,7 @@ export const kpopDemonHuntersMovie = {
   pageTypeSlug: "movie",
   slug: "kpop-demon-hunters-movie",
   title: "KPop Demon Hunters Movie",
-  partOfSlugs: ["kpop-demon-hunters"],
+  partOfCollectionSlugs: ["kpop-demon-hunters"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

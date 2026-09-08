@@ -5,7 +5,7 @@ export const harryPotterAndThePhilosopherSStone = {
   pageTypeSlug: "movie",
   slug: "harry-potter-and-the-philosopher-s-stone",
   title: "Harry Potter and the Philosopher's Stone",
-  partOfSlugs: ["harry-potter-movie-series"],
+  partOfCollectionSlugs: ["harry-potter-movie-series"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

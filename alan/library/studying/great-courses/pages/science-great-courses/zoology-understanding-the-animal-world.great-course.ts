@@ -9,7 +9,7 @@ export const zoologyUnderstandingTheAnimalWorld = {
   unitSlug: "minutes",
   ownLength: 744,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "zoology-understanding-the-animal-world",
   externalLink: "https://www.thegreatcoursesplus.com/zoology-understanding-the-animal-world",

@@ -5,7 +5,7 @@ export const rogueOne = {
   pageTypeSlug: "movie",
   slug: "rogue-one",
   title: "Rogue One",
-  partOfSlugs: ["star-wars-2"],
+  partOfCollectionSlugs: ["star-wars-2"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

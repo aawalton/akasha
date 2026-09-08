@@ -9,7 +9,7 @@ export const theScienceOfExtremeWeather = {
   unitSlug: "minutes",
   ownLength: 778.8,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-science-of-extreme-weather",
   externalLink: "https://www.thegreatcoursesplus.com/the-science-of-extreme-weather",

@@ -5,7 +5,7 @@ export const stargateContinuum = {
   pageTypeSlug: "movie",
   slug: "stargate-continuum",
   title: "Stargate: Continuum",
-  partOfSlugs: ["stargate-2"],
+  partOfCollectionSlugs: ["stargate-2"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

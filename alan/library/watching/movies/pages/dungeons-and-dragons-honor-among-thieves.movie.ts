@@ -5,7 +5,7 @@ export const dungeonsAndDragonsHonorAmongThieves = {
   pageTypeSlug: "movie",
   slug: "dungeons-and-dragons-honor-among-thieves",
   title: "Dungeons & Dragons: Honor Among Thieves",
-  partOfSlugs: ["dungeons-and-dragons-shows"],
+  partOfCollectionSlugs: ["dungeons-and-dragons-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

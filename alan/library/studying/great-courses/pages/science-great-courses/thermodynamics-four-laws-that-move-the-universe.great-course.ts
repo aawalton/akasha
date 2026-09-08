@@ -9,7 +9,7 @@ export const thermodynamicsFourLawsThatMoveTheUniverse = {
   unitSlug: "minutes",
   ownLength: 756,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "thermodynamics-four-laws-that-move-the-universe",
   externalLink:

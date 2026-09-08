@@ -5,7 +5,7 @@ export const doctorStrange = {
   pageTypeSlug: "movie",
   slug: "doctor-strange",
   title: "Doctor Strange",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 14,
   ownLength: 0,
   ownProgress: 0,

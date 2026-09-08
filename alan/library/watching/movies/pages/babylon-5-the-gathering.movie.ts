@@ -5,7 +5,7 @@ export const babylon5TheGathering = {
   pageTypeSlug: "movie",
   slug: "babylon-5-the-gathering",
   title: "Babylon 5: The Gathering",
-  partOfSlugs: ["babylon-5-2"],
+  partOfCollectionSlugs: ["babylon-5-2"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

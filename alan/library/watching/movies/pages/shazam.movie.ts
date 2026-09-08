@@ -5,7 +5,7 @@ export const shazam = {
   pageTypeSlug: "movie",
   slug: "shazam",
   title: "Shazam!",
-  partOfSlugs: ["dc-extended-universe"],
+  partOfCollectionSlugs: ["dc-extended-universe"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

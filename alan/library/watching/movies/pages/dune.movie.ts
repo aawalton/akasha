@@ -5,7 +5,7 @@ export const dune = {
   pageTypeSlug: "movie",
   slug: "dune",
   title: "Dune",
-  partOfSlugs: ["dune-2"],
+  partOfCollectionSlugs: ["dune-2"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

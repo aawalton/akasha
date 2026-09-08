@@ -5,7 +5,7 @@ export const marvelCinematicUniverse = {
   pageTypeSlug: "fandom",
   slug: "marvel-cinematic-universe",
   title: "Marvel Cinematic Universe",
-  partOfSlugs: ["superhero-fandoms"],
+  partOfCollectionSlugs: ["superhero-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

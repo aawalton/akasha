@@ -5,7 +5,7 @@ export const gameOfThrones2 = {
   pageTypeSlug: "fandom",
   slug: "game-of-thrones-2",
   title: "Game of Thrones",
-  partOfSlugs: ["fantasy-fandoms"],
+  partOfCollectionSlugs: ["fantasy-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

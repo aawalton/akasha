@@ -5,7 +5,7 @@ export const harryPotterAndTheDeathlyHallowsPart2 = {
   pageTypeSlug: "movie",
   slug: "harry-potter-and-the-deathly-hallows-part-2",
   title: "Harry Potter and the Deathly Hallows – Part 2",
-  partOfSlugs: ["harry-potter-movie-series"],
+  partOfCollectionSlugs: ["harry-potter-movie-series"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

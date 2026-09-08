@@ -5,7 +5,7 @@ export const dune2 = {
   pageTypeSlug: "fandom",
   slug: "dune-2",
   title: "Dune",
-  partOfSlugs: ["science-fiction-fandoms"],
+  partOfCollectionSlugs: ["science-fiction-fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

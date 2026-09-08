@@ -5,7 +5,7 @@ export const babylon5TheLostTales = {
   pageTypeSlug: "movie",
   slug: "babylon-5-the-lost-tales",
   title: "Babylon 5: The Lost Tales",
-  partOfSlugs: ["babylon-5-2"],
+  partOfCollectionSlugs: ["babylon-5-2"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

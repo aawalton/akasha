@@ -9,7 +9,7 @@ export const theoriesOfHumanDevelopment = {
   unitSlug: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "theories-of-human-development",
   externalLink: "https://www.thegreatcoursesplus.com/theories-of-human-development",

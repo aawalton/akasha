@@ -9,7 +9,7 @@ export const whyInsectsMatterEarthSMostEssentialSpecies = {
   unitSlug: "minutes",
   ownLength: 732,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "why-insects-matter-earth-s-most-essential-species",
   externalLink:

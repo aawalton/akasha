@@ -5,7 +5,7 @@ export const avengersAgeOfUltron = {
   pageTypeSlug: "movie",
   slug: "avengers-age-of-ultron",
   title: "Avengers: Age of Ultron",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

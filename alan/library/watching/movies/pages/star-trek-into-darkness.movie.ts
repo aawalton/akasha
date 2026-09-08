@@ -5,7 +5,7 @@ export const starTrekIntoDarkness = {
   pageTypeSlug: "movie",
   slug: "star-trek-into-darkness",
   title: "Star Trek Into Darkness",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 18,
   ownLength: 0,
   ownProgress: 0,

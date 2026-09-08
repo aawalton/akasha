@@ -5,7 +5,7 @@ export const avengersEndgame = {
   pageTypeSlug: "movie",
   slug: "avengers-endgame",
   title: "Avengers: Endgame",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 22,
   ownLength: 0,
   ownProgress: 0,

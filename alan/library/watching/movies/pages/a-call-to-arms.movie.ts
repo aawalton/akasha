@@ -5,7 +5,7 @@ export const aCallToArms = {
   pageTypeSlug: "movie",
   slug: "a-call-to-arms",
   title: "A Call to Arms",
-  partOfSlugs: ["babylon-5-2"],
+  partOfCollectionSlugs: ["babylon-5-2"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

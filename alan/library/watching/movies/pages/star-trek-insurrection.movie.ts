@@ -5,7 +5,7 @@ export const starTrekInsurrection = {
   pageTypeSlug: "movie",
   slug: "star-trek-insurrection",
   title: "Star Trek: Insurrection",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 14,
   ownLength: 0,
   ownProgress: 0,

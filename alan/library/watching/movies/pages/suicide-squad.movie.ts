@@ -5,7 +5,7 @@ export const suicideSquad = {
   pageTypeSlug: "movie",
   slug: "suicide-squad",
   title: "Suicide Squad",
-  partOfSlugs: ["dc-extended-universe"],
+  partOfCollectionSlugs: ["dc-extended-universe"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

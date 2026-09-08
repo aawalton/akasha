@@ -5,7 +5,7 @@ export const battlestarGalacticaThePlan = {
   pageTypeSlug: "movie",
   slug: "battlestar-galactica-the-plan",
   title: "Battlestar Galactica: The Plan",
-  partOfSlugs: ["battlestar-galactica"],
+  partOfCollectionSlugs: ["battlestar-galactica"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

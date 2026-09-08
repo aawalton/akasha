@@ -5,7 +5,7 @@ export const starTrekBeyond = {
   pageTypeSlug: "movie",
   slug: "star-trek-beyond",
   title: "Star Trek Beyond",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 19,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const eternals = {
   pageTypeSlug: "movie",
   slug: "eternals",
   title: "Eternals",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 26,
   ownLength: 0,
   ownProgress: 0,

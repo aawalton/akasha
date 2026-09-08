@@ -10,7 +10,11 @@ export const wondersOfTheNationalParksAGeologyOfNorthAmerica = {
   unitSlug: "minutes",
   ownLength: 1128,
   ownProgress: 1128,
-  partOfSlugs: ["all-great-courses", "science-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: [
+    "all-great-courses",
+    "science-great-courses",
+    "travel-and-culture-great-courses",
+  ],
   source: "the-great-courses",
   externalId: "wonders-of-the-national-parks-a-geology-of-north-america",
   externalLink:

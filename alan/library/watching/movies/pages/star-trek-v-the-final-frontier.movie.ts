@@ -5,7 +5,7 @@ export const starTrekVTheFinalFrontier = {
   pageTypeSlug: "movie",
   slug: "star-trek-v-the-final-frontier",
   title: "Star Trek V: The Final Frontier",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 8,
   ownLength: 0,
   ownProgress: 0,

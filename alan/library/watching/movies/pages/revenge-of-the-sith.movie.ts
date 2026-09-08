@@ -5,7 +5,7 @@ export const revengeOfTheSith = {
   pageTypeSlug: "movie",
   slug: "revenge-of-the-sith",
   title: "Revenge of the Sith",
-  partOfSlugs: ["star-wars-2"],
+  partOfCollectionSlugs: ["star-wars-2"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

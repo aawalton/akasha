@@ -5,7 +5,7 @@ export const aquamanAndTheLostKingdom = {
   pageTypeSlug: "movie",
   slug: "aquaman-and-the-lost-kingdom",
   title: "Aquaman and the Lost Kingdom",
-  partOfSlugs: ["dc-extended-universe"],
+  partOfCollectionSlugs: ["dc-extended-universe"],
   position: 16,
   ownLength: 0,
   ownProgress: 0,

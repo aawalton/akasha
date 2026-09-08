@@ -10,7 +10,7 @@ export const americaSBestStateParksForSummerFun = {
   unitSlug: "minutes",
   ownLength: 10.2,
   ownProgress: 10.2,
-  partOfSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "americas-best-state-parks-for-summer-fun",
   externalLink: "https://www.thegreatcoursesplus.com/americas-best-state-parks-for-summer-fun",

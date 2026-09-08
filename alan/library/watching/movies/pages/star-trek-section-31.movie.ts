@@ -5,7 +5,7 @@ export const starTrekSection31 = {
   pageTypeSlug: "movie",
   slug: "star-trek-section-31",
   title: "Star Trek: Section 31",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 27,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const stargateTheArkOfTruth = {
   pageTypeSlug: "movie",
   slug: "stargate-the-ark-of-truth",
   title: "Stargate: The Ark of Truth",
-  partOfSlugs: ["stargate-2"],
+  partOfCollectionSlugs: ["stargate-2"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

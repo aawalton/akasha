@@ -5,7 +5,7 @@ export const starTrekIiTheWrathOfKhan = {
   pageTypeSlug: "movie",
   slug: "star-trek-ii-the-wrath-of-khan",
   title: "Star Trek II: The Wrath of Khan",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const starTrekTheMotionPicture = {
   pageTypeSlug: "movie",
   slug: "star-trek-the-motion-picture",
   title: "Star Trek: The Motion Picture",
-  partOfSlugs: ["star-trek-3"],
+  partOfCollectionSlugs: ["star-trek-3"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

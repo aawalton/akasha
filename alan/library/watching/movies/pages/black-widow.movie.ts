@@ -5,7 +5,7 @@ export const blackWidow = {
   pageTypeSlug: "movie",
   slug: "black-widow",
   title: "Black Widow",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 24,
   ownLength: 0,
   ownProgress: 0,

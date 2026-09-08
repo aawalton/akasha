@@ -5,7 +5,7 @@ export const deadpoolAndWolverine = {
   pageTypeSlug: "movie",
   slug: "deadpool-and-wolverine",
   title: "Deadpool & Wolverine",
-  partOfSlugs: ["marvel-cinematic-universe"],
+  partOfCollectionSlugs: ["marvel-cinematic-universe"],
   position: 50,
   ownLength: 0,
   ownProgress: 0,

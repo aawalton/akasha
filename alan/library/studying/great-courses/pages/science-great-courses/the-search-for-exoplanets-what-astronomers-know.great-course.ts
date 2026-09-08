@@ -9,7 +9,7 @@ export const theSearchForExoplanetsWhatAstronomersKnow = {
   unitSlug: "minutes",
   ownLength: 738,
   ownProgress: 0,
-  partOfSlugs: ["all-great-courses", "science-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "science-great-courses"],
   source: "the-great-courses",
   externalId: "the-search-for-exoplanets-what-astronomers-know",
   externalLink:

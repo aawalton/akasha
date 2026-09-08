@@ -10,7 +10,7 @@ export const pilotLectureTheHaitianRevolution = {
   unitSlug: "minutes",
   ownLength: 29.4,
   ownProgress: 29.4,
-  partOfSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
+  partOfCollectionSlugs: ["all-great-courses", "travel-and-culture-great-courses"],
   source: "the-great-courses",
   externalId: "wondrium-pilots-the-haitian-revolution",
   externalLink: "https://www.thegreatcoursesplus.com/wondrium-pilots-the-haitian-revolution",

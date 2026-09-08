@@ -5,7 +5,7 @@ export const oppenheimer = {
   pageTypeSlug: "movie",
   slug: "oppenheimer",
   title: "Oppenheimer",
-  partOfSlugs: ["award-winning-movies"],
+  partOfCollectionSlugs: ["award-winning-movies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
