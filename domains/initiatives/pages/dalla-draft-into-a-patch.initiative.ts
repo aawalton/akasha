@@ -31,7 +31,7 @@ export const dallaDraftIntoAPatch = {
       statement:
         "All changes outside of `akasha change` are mechanical changes made through `runChange`.",
       workingMemory:
-        "Six programs compose `FileEdit` by hand and land through `landingAsked` without naming a change: `seat-stopping`, `subagent-presence`, `page-secret-acting`, `music-rate`, `music-capture` and `music-import-artist`. A page's id is worked out by the change rather than the landing, so a mechanical caller writing a page reaches the change holding `idFilled` and the path dispatch. `applied` runs no `unexportableIn`, which the asking page says a change running no check is still held to.",
+        "Four programs still land through `landingAsked`: `page-secret-acting`, `music-rate`, `music-capture` and `music-import-artist`, and `subagent-presence` still calls `landedMechanically`. Each composes a page body, so each waits on the mechanical change holding `idFilled` and the path dispatch. Deleting `landedMechanically` is blocked by the test ceiling: `asking.module.test.ts` measures 13.1 processor seconds against 5, as one landing spawns 39 git processes.",
     },
     {
       statement: "Every change is a patch before it is applied.",
