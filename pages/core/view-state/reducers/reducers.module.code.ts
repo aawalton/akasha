@@ -27,10 +27,6 @@ function asViewDataJSON(value: Record<string, unknown> & { version: 1 }): ViewDa
   return value as ViewDataJSON
 }
 
-// A VIEW IS REACHED BY A SLUG NOBODY TYPED. Every page carries a slug, and a view's is derived
-// from the name given it, under the nav item's own slug so that two nav items may each hold a
-// view called the same thing. A name colliding with a view already under this nav item takes the
-// next free number.
 function slugForView(name: string, ownerNavSlug: string, taken: readonly ViewRow[]): string {
   const stem =
     name
@@ -49,10 +45,6 @@ function slugForView(name: string, ownerNavSlug: string, taken: readonly ViewRow
   }
 }
 
-// THE VIEW PAGE TYPE DECLARES EVERY KEY WRITTEN HERE. A key it declares nothing for is refused
-// rather than kept, so writing the whole arrangement under one `config` would refuse the create
-// and leave no view at all. What the arrangement holds beyond a layout and a page type is not
-// written yet.
 function buildViewProperties(args: {
   name: string
   data: ViewDataJSON

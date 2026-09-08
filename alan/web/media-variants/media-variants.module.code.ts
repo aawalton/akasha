@@ -18,13 +18,6 @@ import { resolveReadAloudSentenceMarks } from "../read-aloud-marks/read-aloud-ma
 
 const READING_STORY_SLUG = "reading-story"
 
-// THE VOICED PERSONAS ARE ASKED OF THE PAGES RATHER THAN NAMED AT THE OLD ENGINE. This read the
-// `persona-all` saved query, and `askNamed` refuses with 501 now. `persona` is a page type the
-// pages system service holds and `voiceReferenceSha256` is a key it declares, so the same set
-// comes back from a question asked here. The filter remains in `voicedPersonasIn` rather
-// than in the `where`: which personas carry a voice reference is the one thing this reads for,
-// and reading it off the rows keeps the refusal below able to tell an unread set from an empty
-// one.
 const VOICED_PERSONAS = "the personas carrying a voice reference"
 
 const EVERY_PERSONA_VOICE: Query = {
@@ -45,13 +38,6 @@ export function withKokoroFallback(
   }
 }
 
-// A VOICE LIST THAT WENT UNREAD IS NOT A PAGE WITH ONE VOICE. The voiced personas are the whole
-// set of voices this page offers, so carrying on without them would present the single Kokoro
-// fallback as everything there is.
-//
-// The label a variant carries is the persona's slug. The old saved query read `title`, and the
-// persona page type in akasha declares no such key — it names a persona by slug — so the label is
-// what the old code already fell back to wherever a title was missing.
 export function voicedPersonasIn(asked: Asked): readonly string[] {
   if ("refused" in asked) {
     throw new Error(`${VOICED_PERSONAS} went unread: ${asked.refused}`)

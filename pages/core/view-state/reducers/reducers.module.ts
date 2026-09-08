@@ -6,4 +6,14 @@ export const reducers = {
   slug: "reducers",
   definition: "the effects a view-editing command produces",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "Two nav items may each hold a view of the same name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every key written for a new view is a key the view page type declares.",
+    },
+  ],
 } as const satisfies Module

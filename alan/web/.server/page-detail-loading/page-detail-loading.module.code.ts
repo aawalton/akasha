@@ -30,10 +30,6 @@ import { selectPageDisplayKind } from "../../page-display-kind/page-display-kind
 const NAV_SLUG = "nav"
 const GAME_KEYS = ["externalId", "gameEngine"] as const
 
-// A KEY IS ASKED FOR ONLY OF A PAGE TYPE DECLARING IT. These two say whether a page is drawn as a
-// game, and only a game's page type declares them. A question naming a key the page type declares
-// nothing for is refused, so asking every page type for them refuses every detail page that is not
-// a game.
 async function gameKeysDeclaredBy(pageTypeSlug: ReturnType<typeof toPageTypeSlug>) {
   const definitions = await getPropertyDefinitions({ pageTypeSlug })
   const declared = new Set(definitions.map((one) => one.key))

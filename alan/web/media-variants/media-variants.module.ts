@@ -6,4 +6,11 @@ export const mediaVariants = {
   slug: "media-variants",
   definition: "the voices and renditions a page's media is held in",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "The personas carrying a voice reference are picked out of the rows rather than in the question.",
+    },
+  ],
 } as const satisfies Module
