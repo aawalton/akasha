@@ -1,5 +1,6 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import { buildSchematic } from "@akasha/talos/build-schematic"
 import { emitSchematicYaml } from "@akasha/talos/emit-yaml"
 import {
   metalCmdlineUrl,
@@ -10,7 +11,6 @@ import {
 } from "@akasha/talos/factory"
 import { getClusterForNode, getNode } from "@akasha/talos/nodes"
 import type { ClusterIntent, NodeIntent } from "@akasha/talos/schema"
-import { buildSchematic } from "@akasha/talos/talos-build-schematic"
 import { runSsh } from "@akasha/talos/talos-ssh"
 import { waitForPort } from "@akasha/talos/talos-wait-for-port"
 

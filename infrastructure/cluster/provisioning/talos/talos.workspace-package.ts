@@ -8,7 +8,7 @@ export const talos = {
   manifest: "json",
   partSlugs: [
     "module/build-patch",
-    "module/talos-build-schematic",
+    "module/build-schematic",
     "module/talos-build-volumes",
     "module/emit-yaml",
     "module/factory",
