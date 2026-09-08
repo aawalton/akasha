@@ -15,4 +15,22 @@ export const changeMechanicalFileContentRename = {
     "change-mechanical-file-content/rename-property-signature",
     "change-mechanical-file-content/rename-page-addresses",
   ],
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A rung here spells a name anew inside a body the caller names.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No rung here carries a file, so no rung here leaves an edge into a file hanging.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No rung here names a guard.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The change composing these rungs judges the edges the whole rename leaves.",
+    },
+  ],
 } as const satisfies Domain
