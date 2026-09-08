@@ -1,8 +1,8 @@
-import type { CoachingNote } from "../../coaching-note.page-type.ts"
+import type { FitnessCoachingNote } from "../../fitness-coaching-note.page-type.ts"
 
 export const preDecideTheWorkoutOneSetAtATime = {
   id: "019f01e1-bbac-7c7e-bec8-7ff35d23236c",
-  pageTypeSlug: "coaching-note",
+  pageTypeSlug: "fitness-coaching-note",
   slug: "pre-decide-the-workout-one-set-at-a-time",
   title: "Pre-decide the workout — one set at a time",
   coachingNoteActive: true,
@@ -10,4 +10,4 @@ export const preDecideTheWorkoutOneSetAtATime = {
   coachingNoteKind: "ef-accommodation",
   coachingNoteSortOrder: 10,
   asks: "txt",
-} as const satisfies CoachingNote
+} as const satisfies FitnessCoachingNote
