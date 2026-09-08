@@ -21,7 +21,7 @@ import {
   type World,
   worldAt,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { runChange as changePageProperty } from "../../../file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
+import { runChange as changePageProperty } from "../../../file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../../../file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { runChange as renamePageAddress } from "../../../file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
@@ -123,7 +123,7 @@ const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical/move-file-code") {
     return await moveFileCode(world, given as Parameters<typeof moveFileCode>[1])
   }
-  if (at === "change-mechanical-file-content/change-page-property") {
+  if (at === "change-mechanical-file-content/change-page-page-property") {
     return changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
   }
   if (at === "change-mechanical-file-content/rename-export") {

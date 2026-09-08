@@ -27,7 +27,7 @@ const PROSE = "standard-agent-english-property"
 
 const RECORD = "record-property"
 
-const RESTATES = "change-mechanical-file-content/change-page-property"
+const RESTATES = "change-mechanical-file-content/change-page-page-property"
 
 const RESTATES_FIELD = "change-mechanical-file-content/change-property-record-field"
 

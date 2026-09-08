@@ -1,9 +1,9 @@
 import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-content.page-type.ts"
 
-export const changePageProperty = {
+export const changePagePageProperty = {
   id: "01a07716-76a6-7428-9e18-f3fc32d18085",
   pageTypeSlug: "change-mechanical-file-content",
-  slug: "change-page-property",
+  slug: "change-page-page-property",
   changeModeSlug: "change-mode-change",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value-prose",

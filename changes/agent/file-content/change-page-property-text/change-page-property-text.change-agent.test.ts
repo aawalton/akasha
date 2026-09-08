@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import type { Value } from "@akasha/pages/page-value"
-import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-file-content.code.ts"
+import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   bodiesIn,
@@ -12,7 +12,7 @@ import {
 import { changePagePropertyText, runChange } from "./change-page-property-text.change-agent.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical-file-content/change-page-property") {
+  if (at === "change-mechanical-file-content/change-page-page-property") {
     return Promise.resolve(changeValue(world, given as Parameters<typeof changeValue>[1]))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))

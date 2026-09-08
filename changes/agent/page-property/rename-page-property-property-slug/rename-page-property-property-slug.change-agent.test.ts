@@ -22,7 +22,7 @@ const ONE_CODE = "akasha/one/one.module.code.ts"
 
 const ONE_CODE_TO = "akasha/one/one.module.code-file.ts"
 
-const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-property"
+const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-page-property"
 
 const RENAME_KEY = "change-mechanical-file-content/rename-page-property-key"
 

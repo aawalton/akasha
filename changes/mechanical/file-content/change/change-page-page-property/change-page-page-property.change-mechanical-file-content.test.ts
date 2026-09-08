@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { restated } from "./change-page-property.change-mechanical-file-content.code.ts"
+import { restated } from "./change-page-page-property.change-mechanical-file-content.code.ts"
 
 function ranOn(path: string, text: string, key: string, to: string): Answer {
   return restated(path, text, key, to)

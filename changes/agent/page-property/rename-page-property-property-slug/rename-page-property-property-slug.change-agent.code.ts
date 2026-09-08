@@ -15,7 +15,7 @@ import {
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 
-const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-property"
+const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-page-property"
 
 const RENAME_KEY = "change-mechanical-file-content/rename-page-property-key"
 
