@@ -11,7 +11,7 @@ import {
   gone,
   proposing,
 } from "../../../modules/check-scratch/check-scratch.module.code.ts"
-import { namedIn, reasonOf, saidOf, testsPass } from "./tests-pass.code-check.code.ts"
+import { namedIn, reasonOf, saidOf, spentlyOf, testsPass } from "./tests-pass.code-check.code.ts"
 
 const PASSES = 'import { expect, test } from "bun:test"\ntest("one", () => { expect(1).toBe(1) })\n'
 
@@ -73,6 +73,18 @@ test("a run over the ceiling is refused by naming each file over it", () => {
   expect(said).toContain("akasha/one.module.test.ts")
   expect(said).toContain("a test file is given 5 processor seconds")
   expect(said).toContain("The tests themselves are green")
+})
+
+test("a measuring run names each file beside the seconds that file spent", () => {
+  const said = spentlyOf([
+    { path: "akasha/one.module.test.ts", cpuSeconds: 9.53, signal: null },
+    { path: "akasha/two.module.test.ts", cpuSeconds: 0.42, signal: null },
+  ])
+  expect(said).toContain("akasha/one.module.test.ts spent 9.5 processor seconds")
+  expect(said).toContain("akasha/two.module.test.ts spent 0.4 processor seconds")
+  expect(said).toContain("no ceiling")
+  expect(said).toContain("Nothing landed")
+  expect(said).toContain("A test file may spend 5 processor seconds")
 })
 
 test("a file over the ceiling is named without the seconds that file ran", () => {

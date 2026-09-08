@@ -90,6 +90,18 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "A run told to measure holds every test file named to no ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measuring run answers each file beside the seconds that file spent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A measuring run refuses whatever the tests said, so nothing lands.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The whole output of the run is carried in the refusal.",
     },
     {

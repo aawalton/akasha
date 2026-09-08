@@ -1,5 +1,13 @@
-import type { Ran } from "@akasha/code/code-tests"
-import { alreadyRunning, CEILING, plain, ranOver, testsBesideOf } from "@akasha/code/code-tests"
+import type { Ran, Spent } from "@akasha/code/code-tests"
+import {
+  alreadyRunning,
+  CEILING,
+  measuring,
+  plain,
+  ranOver,
+  spentOver,
+  testsBesideOf,
+} from "@akasha/code/code-tests"
 import { SERVED, servingOf } from "@akasha/code/test-bodies"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
@@ -49,6 +57,18 @@ export function counted(many: number): string {
   return many === 1 ? "1 test file" : `${many} test files`
 }
 
+const SHOWN = 1
+
+export function spentlyOf(spent: readonly Spent[]): string {
+  const held = spent
+    .map((one) => `${one.path} spent ${one.cpuSeconds.toFixed(SHOWN)} processor seconds`)
+    .join("\n")
+  return (
+    `every test file this change names ran on its own with no ceiling:\n${held}\n\n` +
+    `Nothing landed. A test file may spend ${String(CEILING)} processor seconds.`
+  )
+}
+
 export function slowlyOf(ran: Ran): string {
   const held = ran.slow.map((one) => one.path).join("\n")
   return (
@@ -88,6 +108,8 @@ function refusalsIn(change: Change): readonly Judged[] {
   if (first === undefined) return []
   const serving = servingOf(change.root, change.changed, change.after, named, change.before)
   try {
+    if (measuring())
+      return [{ path: first, reason: spentlyOf(spentOver(change.root, named, serving)) }]
     const found = ranOver(change.root, named, named.length, null, serving)
     if (found.verdict === "pass") return []
     const said = { ...found, output: spelledIn(found.output, serving.root) }

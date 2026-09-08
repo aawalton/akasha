@@ -47,6 +47,8 @@ const NONE_NAMED = /\bmatched 0 tests\b/
 
 export const RUNNING = "AKASHA_TESTS_RUNNING"
 
+export const MEASURING = "AKASHA_TESTS_MEASURING"
+
 export const BATCH = 100
 
 export const CEILING = 5
@@ -87,6 +89,10 @@ export type Grouping = {
 
 export function alreadyRunning(): boolean {
   return process.env[RUNNING] === MARK
+}
+
+export function measuring(): boolean {
+  return process.env[MEASURING] === MARK
 }
 
 export function testNamed(path: string): boolean {
