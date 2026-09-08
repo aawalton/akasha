@@ -36,7 +36,7 @@ import {
   type Refused,
 } from "../landing/landing.module.code.ts"
 import { carryLanded } from "../landing-reading/landing-reading.module.code.ts"
-import { formattedSaid } from "../landing-saying/landing-saying.module.code.ts"
+import { defaultMessage, formattedSaid } from "../landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
@@ -54,7 +54,7 @@ const SUBAGENT = "subagent"
 
 const SEAT_KEY = "principalSeatName"
 
-const WHY = "the patch this agent drafted"
+const APPLIES = "apply"
 
 const APPLYING = [MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
@@ -105,7 +105,7 @@ export async function applying(
   }
   const gate = broken === null && "gate" in built ? built.gate : NO_GATE
   const unloaded = "gate" in built ? null : built.broken
-  const said0 = message.message ?? WHY
+  const said0 = message.message ?? defaultMessage(APPLIES, [...carried.held.keys()])
   const bypassed = broken === null ? said0 : bypassedIn(said0, broken)
   const why = unloaded === null || broken === null ? bypassed : unloadableIn(bypassed, unloaded)
   try {
