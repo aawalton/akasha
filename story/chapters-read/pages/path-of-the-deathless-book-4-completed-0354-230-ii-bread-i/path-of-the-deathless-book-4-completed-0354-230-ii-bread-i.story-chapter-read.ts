@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0354230IiBreadI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0354-230-ii-bread-i",
   title: "230 (II) Bread [I] ",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 354,
   ownLength: 0,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0296203IAcademyI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0296-203-i-academy-i",
   title: "203 (I) Academy [I] ",
-  partOfSlugs: ["path-of-the-deathless-book-4-completed"],
+  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
   position: 296,
   ownLength: 0,
   unitSlug: "words",
