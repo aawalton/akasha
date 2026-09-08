@@ -16,7 +16,6 @@ export const personasCore = {
     "module/points-source-availability",
     "module/points-source-declarers",
     "module/render-prompt",
-    "module/voice-spec",
     "module/wallpaper-backfill-classify",
     "module/wallpaper-backfill-execute",
     "module/wallpaper-install",

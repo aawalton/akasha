@@ -12,7 +12,6 @@
     "./points-source-availability": "./points-source-availability/points-source-availability.module.code.ts",
     "./points-source-declarers": "./points-source-declarers/points-source-declarers.module.code.ts",
     "./render-prompt": "./render-prompt/render-prompt.module.code.ts",
-    "./voice-spec": "./voice-spec/voice-spec.module.code.ts",
     "./wallpaper-backfill-classify": "./wallpaper-backfill-classify/wallpaper-backfill-classify.module.code.ts",
     "./wallpaper-backfill-execute": "./wallpaper-backfill-execute/wallpaper-backfill-execute.module.code.ts",
     "./wallpaper-install": "./wallpaper-install/wallpaper-install.module.code.ts",
@@ -22,7 +21,6 @@
   "dependencies": {
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/utils-narrow": "workspace:*",
-    "zod": "^4.3.6"
+    "@akasha/utils-narrow": "workspace:*"
   }
 }

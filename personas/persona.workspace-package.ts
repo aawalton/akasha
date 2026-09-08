@@ -72,5 +72,6 @@ export const persona = {
     "module/points-source-coherence",
     "module/wallpaper-record",
     "module/image-name",
+    "module/voice-spec",
   ],
 } as const satisfies WorkspacePackage
