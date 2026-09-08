@@ -151,10 +151,6 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A program landing a change is handed the caller a program lands through.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Whether a check runs is the change kind's answer rather than the caller's.",
     },
     {

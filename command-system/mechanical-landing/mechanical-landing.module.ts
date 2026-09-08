@@ -14,6 +14,10 @@ export const mechanicalLanding = {
     },
     {
       invariantKind: "departure",
+      statement: "A program landing a change is handed the caller a program lands through.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A landing here runs no check and writes nothing into the commit about that.",
     },
     {
