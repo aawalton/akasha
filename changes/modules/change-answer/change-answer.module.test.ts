@@ -6,6 +6,7 @@ import {
   NOT_TEXT,
   replayed,
   spliced,
+  splicing,
 } from "./change-answer.module.code.ts"
 import type { Stated } from "./change-answer.module.types.ts"
 
@@ -263,6 +264,33 @@ test("a line the body holds twice widens until the body holds the passage once",
 
 test("a splice leaving its place as the place was answers no edit", () => {
   expect(spliced(AT, LINES, { from: 4, to: 7, put: "two" })).toEqual([])
+})
+
+const MANY = "one\ntwo\nthree\nfour\nfive\n"
+
+test("two splices whose lines are apart answer an edit each", () => {
+  const said = splicing(AT, MANY, [
+    { from: 7, to: 7, put: "!" },
+    { from: 18, to: 18, put: "?" },
+  ])
+
+  expect(said).toEqual([
+    { kind: "replace", path: AT, contentFrom: "two", contentTo: "two!" },
+    { kind: "replace", path: AT, contentFrom: "four", contentTo: "four?" },
+  ])
+})
+
+test("two splices whose lines meet answer one edit over those lines", () => {
+  const said = splicing(AT, MANY, [
+    { from: 9, to: 9, put: "X" },
+    { from: 12, to: 12, put: "Y" },
+  ])
+
+  expect(said).toEqual([{ kind: "replace", path: AT, contentFrom: "three", contentTo: "tXhreYe" }])
+})
+
+test("no splice answers no edit", () => {
+  expect(splicing(AT, MANY, [])).toEqual([])
 })
 
 test("the passage a splice names is smaller than the body it sits in", () => {

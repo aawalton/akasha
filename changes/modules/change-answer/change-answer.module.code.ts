@@ -98,6 +98,39 @@ export function spliced(path: string, text: string, splice: Splice): readonly St
   ]
 }
 
+function joined(text: string, splices: readonly Splice[]): Splice | null {
+  const first = splices[0]
+  const last = splices[splices.length - 1]
+  if (first === undefined || last === undefined) return null
+  let put = ""
+  let at = first.from
+  for (const one of splices) {
+    put = `${put}${text.slice(at, one.from)}${one.put}`
+    at = one.to
+  }
+  return { from: first.from, to: last.to, put }
+}
+
+export function splicing(
+  path: string,
+  text: string,
+  splices: readonly Splice[]
+): readonly Stated[] {
+  const runs: Splice[][] = []
+  let shut = -1
+  for (const one of splices) {
+    const [start, ended] = windowed(text, one.from, one.to)
+    const run = runs[runs.length - 1]
+    if (run !== undefined && start <= shut) run.push(one)
+    else runs.push([one])
+    shut = Math.max(shut, ended)
+  }
+  return runs.flatMap((run) => {
+    const over = joined(text, run)
+    return over === null ? [] : spliced(path, text, over)
+  })
+}
+
 function addedIn(one: Adding, textOf: BodyOf): Expanded {
   if (holds(textOf(one.path))) {
     return { refused: `\`${one.path}\` holds a body already, so nothing is added` }

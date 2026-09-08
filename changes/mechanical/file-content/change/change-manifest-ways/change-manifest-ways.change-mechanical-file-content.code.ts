@@ -2,7 +2,7 @@ import { dirname, join } from "node:path"
 import ts from "typescript"
 import {
   refusing,
-  spliced,
+  splicing,
   stating,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Said, Splice } from "../../../../modules/change-answer/change-answer.module.types.ts"
@@ -129,19 +129,6 @@ function splicesFor(
   return next === null ? [] : [next]
 }
 
-function joined(text: string, splices: readonly Splice[]): Splice | null {
-  const first = splices[0]
-  const last = splices[splices.length - 1]
-  if (first === undefined || last === undefined) return null
-  let put = ""
-  let at = first.from
-  for (const one of splices) {
-    put = `${put}${text.slice(at, one.from)}${one.put}`
-    at = one.to
-  }
-  return { from: first.from, to: last.to, put }
-}
-
 export function renameManifestWays(given: Asked, textOf: (path: string) => string | null): Said {
   const text = textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` holds no body, so no way in is repointed`)
@@ -157,8 +144,7 @@ export function renameManifestWays(given: Asked, textOf: (path: string) => strin
   const moved = new Map(Object.entries(given.moved))
   const lands = moved.get(given.at) ?? given.at
   const source = ts.parseJsonText(given.at, text)
-  const over = joined(text, splicesFor(source, text, given.at, dirname(lands), moved))
-  const edits = over === null ? [] : spliced(lands, text, over)
+  const edits = splicing(lands, text, splicesFor(source, text, given.at, dirname(lands), moved))
   const one =
     lands === given.at
       ? edits

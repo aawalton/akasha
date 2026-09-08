@@ -85,6 +85,18 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "Many splices are read in the order they sit in the body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two splices whose lines meet or overlap answer one edit over those lines.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two splices whose lines are apart answer an edit each.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The body such an edit is worked out from is read off the tree.",
     },
     {

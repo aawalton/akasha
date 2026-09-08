@@ -52,7 +52,7 @@ export const changeManifestWays = {
     },
     {
       invariantKind: "departure",
-      statement: "The passage answered runs from the first way in changed to the last.",
+      statement: "Each passage answered runs over the ways in changed whose lines meet.",
     },
     {
       invariantKind: "absence",
