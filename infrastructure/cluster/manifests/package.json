@@ -39,7 +39,6 @@
     "./prometheus-rbac": "./prometheus-rbac/prometheus-rbac.module.code.ts",
     "./query-perf-constants": "./query-perf-constants/query-perf-constants.module.code.ts",
     "./rbac-identity": "./rbac-identity/rbac-identity.module.code.ts",
-    "./rbac-profiles": "./rbac-profiles/rbac-profiles.module.code.ts",
     "./registry-constants": "./registry-constants/registry-constants.module.code.ts",
     "./registry-gc-manifests": "./registry-gc-manifests/registry-gc-manifests.manifest.code.ts",
     "./supabase-realtime-rbac": "./supabase-realtime-rbac/supabase-realtime-rbac.module.code.ts",

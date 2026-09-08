@@ -51,7 +51,6 @@ export const clusterManifests = {
     "module/query-perf-constants",
     "module/query-perf-queries",
     "module/rbac-identity",
-    "module/rbac-profiles",
     "module/realtime-tenant-bootstrap",
     "module/registry-constants",
     "manifest/registry-gc-manifests",
