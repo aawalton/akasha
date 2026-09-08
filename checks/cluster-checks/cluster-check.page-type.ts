@@ -223,6 +223,7 @@ export const clusterCheck = {
     "module/ts-timezone-violations",
     "module/ts-type-assertions",
     "module/ts-void-declarations",
+    "module/tsconfig-conventions",
   ],
   properties: [
     {
