@@ -1,4 +1,5 @@
-import { dirname, relative } from "node:path"
+import { dirname } from "node:path"
+import { importedFrom } from "@akasha/pages/page-body"
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
 import { textAt } from "@akasha/pages/page-value-reading"
 import {
@@ -30,8 +31,6 @@ const PROPERTY_SLUG = "property-slug"
 const SLUG = "slug"
 
 const OUTSIDE = ".."
-
-const HERE = "./"
 
 const AT = "at"
 
@@ -71,11 +70,6 @@ export function recordFor(given: AddPropertyToPageTypeAsked): string {
   return `{ ${held.join(", ")} }`
 }
 
-export function importedAs(at: string, held: string): string {
-  const said = relative(dirname(at), held)
-  return said.startsWith(OUTSIDE) ? said : `${HERE}${said}`
-}
-
 export async function addPropertyToPageType(
   world: World,
   given: AddPropertyToPageTypeAsked
@@ -92,7 +86,7 @@ export async function addPropertyToPageType(
   if (owner === null) return refusing(`\`${given.at}\` names no page type`)
   const owning = textAt(owner, SLUG)
   if (owning === null) return refusing(`\`${given.at}\` states no slug`)
-  const from = importedAs(given.at, listed.path)
+  const from = importedFrom(given.at, listed.path)
   if (from.startsWith(OUTSIDE)) {
     return refusing(
       `\`${listed.path}\` sits outside \`${dirname(given.at)}\`, so no import is spelled`
