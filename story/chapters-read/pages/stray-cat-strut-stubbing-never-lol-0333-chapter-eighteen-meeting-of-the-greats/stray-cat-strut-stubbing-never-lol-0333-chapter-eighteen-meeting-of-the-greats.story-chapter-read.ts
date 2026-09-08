@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0333ChapterEighteenMeetingOfTheGreats 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0333-chapter-eighteen-meeting-of-the-greats",
   title: "Chapter Eighteen - Meeting of the Greats",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 333,
   ownLength: 1499,
   unitSlug: "words",

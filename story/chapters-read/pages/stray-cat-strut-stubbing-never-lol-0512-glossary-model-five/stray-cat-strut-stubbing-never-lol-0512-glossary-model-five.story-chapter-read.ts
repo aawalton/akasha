@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0512GlossaryModelFive = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0512-glossary-model-five",
   title: "Glossary: Model Five",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 512,
   ownLength: 904,
   unitSlug: "words",

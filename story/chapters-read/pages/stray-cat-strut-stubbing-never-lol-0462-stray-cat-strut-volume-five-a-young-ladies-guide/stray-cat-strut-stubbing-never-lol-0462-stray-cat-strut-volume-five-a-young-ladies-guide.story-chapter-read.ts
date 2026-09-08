@@ -6,7 +6,7 @@ export const strayCatStrutStubbingNeverLol0462StrayCatStrutVolumeFiveAYoungLadie
   slug: "stray-cat-strut-stubbing-never-lol-0462-stray-cat-strut-volume-five-a-young-ladies-guide",
   title:
     "Stray Cat Strut - Volume Five - A Young Ladies Guide to Interpersonal Ballistic Missiles, is Out!",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 462,
   ownLength: 178,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0407ChapterThirteenLongDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0407-chapter-thirteen-long-day",
   title: "Chapter Thirteen - Long Day",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 407,
   ownLength: 1500,
   unitSlug: "words",

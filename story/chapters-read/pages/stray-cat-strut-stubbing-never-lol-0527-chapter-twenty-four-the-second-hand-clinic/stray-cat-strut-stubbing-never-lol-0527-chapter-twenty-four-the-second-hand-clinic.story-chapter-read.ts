@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0527ChapterTwentyFourTheSecondHandClin
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0527-chapter-twenty-four-the-second-hand-clinic",
   title: "Chapter Twenty-Four - The Second Hand Clinic",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 527,
   ownLength: 1495,
   unitSlug: "words",

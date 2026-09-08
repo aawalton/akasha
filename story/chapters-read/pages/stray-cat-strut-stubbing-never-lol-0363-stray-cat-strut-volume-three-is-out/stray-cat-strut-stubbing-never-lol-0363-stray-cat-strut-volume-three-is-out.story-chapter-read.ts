@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0363StrayCatStrutVolumeThreeIsOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0363-stray-cat-strut-volume-three-is-out",
   title: "Stray Cat Strut - Volume Three is Out!",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 363,
   ownLength: 320,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0457ChapterFortyEightRecreationalRespi
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0457-chapter-forty-eight-recreational-respiratory",
   title: "Chapter Forty-Eight - Recreational Respiratory Deterioration",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 457,
   ownLength: 1464,
   unitSlug: "words",

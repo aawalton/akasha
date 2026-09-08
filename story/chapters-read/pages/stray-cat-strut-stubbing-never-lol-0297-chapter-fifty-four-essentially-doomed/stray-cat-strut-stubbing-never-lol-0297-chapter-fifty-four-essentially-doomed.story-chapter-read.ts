@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0297ChapterFiftyFourEssentiallyDoomed 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0297-chapter-fifty-four-essentially-doomed",
   title: "Chapter Fifty-Four - Essentially Doomed",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 297,
   ownLength: 1632,
   unitSlug: "words",

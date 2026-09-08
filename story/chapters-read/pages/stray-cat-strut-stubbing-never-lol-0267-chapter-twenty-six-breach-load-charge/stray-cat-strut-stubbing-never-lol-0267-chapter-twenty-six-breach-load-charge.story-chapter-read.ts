@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0267ChapterTwentySixBreachLoadCharge =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0267-chapter-twenty-six-breach-load-charge",
   title: "Chapter Twenty-Six - Breach, Load, Charge",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 267,
   ownLength: 1500,
   unitSlug: "words",

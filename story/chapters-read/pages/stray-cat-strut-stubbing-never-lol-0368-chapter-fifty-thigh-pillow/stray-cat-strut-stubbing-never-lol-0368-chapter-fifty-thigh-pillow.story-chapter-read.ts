@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0368ChapterFiftyThighPillow = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0368-chapter-fifty-thigh-pillow",
   title: "Chapter Fifty - Thigh Pillow",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 368,
   ownLength: 1518,
   unitSlug: "words",

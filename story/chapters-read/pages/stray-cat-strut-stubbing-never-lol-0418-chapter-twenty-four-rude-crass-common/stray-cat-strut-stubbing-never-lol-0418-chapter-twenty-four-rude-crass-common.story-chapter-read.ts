@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0418ChapterTwentyFourRudeCrassCommon =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0418-chapter-twenty-four-rude-crass-common",
   title: "Chapter Twenty-Four - Rude, Crass, Common",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 418,
   ownLength: 1488,
   unitSlug: "words",

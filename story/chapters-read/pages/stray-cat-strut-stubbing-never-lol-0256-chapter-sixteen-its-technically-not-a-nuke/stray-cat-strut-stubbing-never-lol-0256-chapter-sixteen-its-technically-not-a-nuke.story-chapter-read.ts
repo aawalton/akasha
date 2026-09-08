@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0256ChapterSixteenItsTechnicallyNotANu
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0256-chapter-sixteen-its-technically-not-a-nuke",
   title: "Chapter Sixteen - It’s Technically Not a Nuke",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 256,
   ownLength: 1540,
   unitSlug: "words",

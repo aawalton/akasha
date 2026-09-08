@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0301ChapterFiftyEightCrackshotCowboy =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0301-chapter-fifty-eight-crackshot-cowboy",
   title: "Chapter Fifty-Eight - Crackshot Cowboy",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 301,
   ownLength: 1454,
   unitSlug: "words",

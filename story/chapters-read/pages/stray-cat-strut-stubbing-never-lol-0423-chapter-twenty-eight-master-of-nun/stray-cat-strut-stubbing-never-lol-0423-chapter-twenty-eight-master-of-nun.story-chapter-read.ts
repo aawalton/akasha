@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0423ChapterTwentyEightMasterOfNun = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0423-chapter-twenty-eight-master-of-nun",
   title: "Chapter Twenty-Eight - Master Of Nun",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 423,
   ownLength: 1498,
   unitSlug: "words",

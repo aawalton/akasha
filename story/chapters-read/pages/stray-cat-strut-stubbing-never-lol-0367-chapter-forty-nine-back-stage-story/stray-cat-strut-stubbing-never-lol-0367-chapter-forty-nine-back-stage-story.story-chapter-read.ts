@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0367ChapterFortyNineBackStageStory = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0367-chapter-forty-nine-back-stage-story",
   title: "Chapter Forty-Nine - Back Stage Story",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 367,
   ownLength: 1540,
   unitSlug: "words",

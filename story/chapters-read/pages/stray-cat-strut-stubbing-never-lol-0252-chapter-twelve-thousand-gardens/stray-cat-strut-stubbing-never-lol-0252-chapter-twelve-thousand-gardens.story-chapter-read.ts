@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0252ChapterTwelveThousandGardens = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0252-chapter-twelve-thousand-gardens",
   title: "Chapter Twelve - Thousand Gardens",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 252,
   ownLength: 1456,
   unitSlug: "words",

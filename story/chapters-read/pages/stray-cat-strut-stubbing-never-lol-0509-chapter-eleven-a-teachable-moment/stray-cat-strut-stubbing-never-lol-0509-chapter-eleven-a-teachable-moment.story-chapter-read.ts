@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0509ChapterElevenATeachableMoment = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0509-chapter-eleven-a-teachable-moment",
   title: "Chapter Eleven - A Teachable Moment",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 509,
   ownLength: 1449,
   unitSlug: "words",

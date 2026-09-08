@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0564InterludeTheSamuraisSamurai = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0564-interlude-the-samurais-samurai",
   title: "Interlude - The Samurai's Samurai",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 564,
   ownLength: 1347,
   unitSlug: "words",

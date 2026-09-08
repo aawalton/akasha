@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0379ChapterSixtyCallsigns = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0379-chapter-sixty-callsigns",
   title: "Chapter Sixty - Callsigns",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 379,
   ownLength: 1608,
   unitSlug: "words",

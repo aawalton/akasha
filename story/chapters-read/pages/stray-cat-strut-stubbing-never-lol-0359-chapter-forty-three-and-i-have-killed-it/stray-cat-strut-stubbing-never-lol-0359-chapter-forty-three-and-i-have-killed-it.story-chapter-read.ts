@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0359ChapterFortyThreeAndIHaveKilledIt 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0359-chapter-forty-three-and-i-have-killed-it",
   title: "Chapter Forty-Three - And I Have Killed It",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 359,
   ownLength: 1460,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0513ChapterThirteenFlickMySwitches = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0513-chapter-thirteen-flick-my-switches",
   title: "Chapter Thirteen - Flick My Switches",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 513,
   ownLength: 1483,
   unitSlug: "words",

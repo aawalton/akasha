@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0318ChapterFourWhereTheFuckIsBurlingto
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0318-chapter-four-where-the-fuck-is-burlington",
   title: "Chapter Four - Where the Fuck is Burlington?",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 318,
   ownLength: 1557,
   unitSlug: "words",

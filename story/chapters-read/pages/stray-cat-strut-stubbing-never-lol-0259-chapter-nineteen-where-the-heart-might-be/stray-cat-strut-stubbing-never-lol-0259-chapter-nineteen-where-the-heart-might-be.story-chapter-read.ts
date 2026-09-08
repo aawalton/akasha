@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0259ChapterNineteenWhereTheHeartMightB
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0259-chapter-nineteen-where-the-heart-might-be",
   title: "Chapter Nineteen - Where the Heart Might Be",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 259,
   ownLength: 1514,
   unitSlug: "words",

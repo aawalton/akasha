@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0511ChapterTwelveSaltTheEarth = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0511-chapter-twelve-salt-the-earth",
   title: "Chapter Twelve - Salt The Earth",
-  partOfSlugs: ["stray-cat-strut-stubbing-never-lol"],
+  partOfCollectionSlugs: ["stray-cat-strut-stubbing-never-lol"],
   position: 511,
   ownLength: 1511,
   unitSlug: "words",
