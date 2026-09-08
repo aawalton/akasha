@@ -53,11 +53,6 @@ export const dallaDraftIntoAPatch = {
       workingMemory:
         "5 of 27 properties on `command.page-type.ts` are read: `change-kind-slug` by `kindOf`, `taking` and `help-notes` by `surfaceOf`, `said` and `takes` by `helpOf`; `akasha change` reads `help-notes` a second time off its own page. The other 22 are proven unread by deleting each and diffing `--help`, on an instrument that fired on all 5. `parse-args` reads the same vocabulary off `CommandHelp`, a hand-written twin set by 5 literals, so either `calling` grows or the page type shrinks.",
     },
-    {
-      statement: "The check phase an apply runs in is named `change-apply` rather than `patch`.",
-      workingMemory:
-        "`change-costing:5` sets `APPLY` to `apply`, and `apply-running:140` writes it as both the phase and the `ran`, so an apply no longer records `patch`. The command road records that same run again under phase `command` with `ran` `change-apply`. Five phases are written across the cost files: `patch`, `command`, `change`, `apply` and `audit`, and `patch` is most of what is recorded. What is left is finding what still writes `patch`.",
-    },
   ],
   constraints: [
     "A read hands back the body at HEAD rather than the body the patch would leave.",
