@@ -27,9 +27,13 @@ const PARTED_BY = "/"
 
 const MOST = 60
 
-const SAID = "a check asks the index where a page sits rather than spelling that place"
+const SAID = "what sits under a path the index answers for is asked rather than listed"
+
+const LISTING: ReadonlySet<string> = new Set(["readdirSync", "readdir", "Glob"])
 
 export type Asking = (said: string) => string | null
+
+type Reached = { readonly said: string; readonly at: string }
 
 function shortened(said: string): string {
   return said.length > MOST ? `${said.slice(0, MOST)}…` : said
@@ -80,21 +84,89 @@ function specified(node: ts.Node): boolean {
   return ts.isCallExpression(up) && up.expression.kind === ts.SyntaxKind.ImportKeyword
 }
 
-export function reasonsIn(asking: Asking, path: string, text: string): readonly string[] {
-  const source = parsedAs(path, text)
-  const said: string[] = []
+function namingIn(node: ts.Node, asking: Asking): Reached | null {
+  if (!ts.isStringLiteral(node) && !ts.isNoSubstitutionTemplateLiteral(node)) return null
+  if (specified(node)) return null
+  const at = asking(node.text)
+  return at === null ? null : { said: node.text, at }
+}
+
+function reachedIn(
+  node: ts.Node,
+  asking: Asking,
+  held: ReadonlyMap<string, Reached>
+): Reached | null {
+  const own = namingIn(node, asking)
+  if (own !== null) return own
+  if (ts.isIdentifier(node)) return held.get(node.text) ?? null
+  if (ts.isPropertyAccessExpression(node)) return reachedIn(node.expression, asking, held)
+  return ts.forEachChild(node, (one) => reachedIn(one, asking, held) ?? undefined) ?? null
+}
+
+function writtenIn(source: ts.SourceFile): ReadonlyMap<string, readonly ts.Expression[]> {
+  const found = new Map<string, ts.Expression[]>()
   const visit = (node: ts.Node): undefined => {
     if (
-      (ts.isStringLiteral(node) || ts.isNoSubstitutionTemplateLiteral(node)) &&
-      !specified(node)
+      ts.isVariableDeclaration(node) &&
+      ts.isIdentifier(node.name) &&
+      node.initializer !== undefined
     ) {
-      const at = asking(node.text)
-      if (at !== null) {
-        said.push(
-          `line ${lineOf(source, node)} spells \`${shortened(node.text)}\`, ` +
-            `where \`${at}\` sits — ${SAID}`
-        )
+      const kept = found.get(node.name.text)
+      if (kept === undefined) found.set(node.name.text, [node.initializer])
+      else kept.push(node.initializer)
+    }
+    ts.forEachChild(node, visit)
+  }
+  ts.forEachChild(source, visit)
+  return found
+}
+
+export function heldIn(source: ts.SourceFile, asking: Asking): ReadonlyMap<string, Reached> {
+  const written = writtenIn(source)
+  const held = new Map<string, Reached>()
+  let more = true
+  while (more) {
+    more = false
+    for (const [name, each] of written) {
+      if (held.has(name)) continue
+      for (const one of each) {
+        const found = reachedIn(one, asking, held)
+        if (found === null) continue
+        held.set(name, found)
+        more = true
+        break
       }
+    }
+  }
+  return held
+}
+
+function calledAs(node: ts.Expression): string | null {
+  if (ts.isIdentifier(node)) return node.text
+  if (ts.isPropertyAccessExpression(node)) return node.name.text
+  return null
+}
+
+function listedBy(node: ts.Node): readonly ts.Expression[] {
+  if (!ts.isCallExpression(node) && !ts.isNewExpression(node)) return []
+  const named = calledAs(node.expression)
+  if (named === null || !LISTING.has(named)) return []
+  return [...(node.arguments ?? [])]
+}
+
+export function reasonsIn(asking: Asking, path: string, text: string): readonly string[] {
+  const source = parsedAs(path, text)
+  const held = heldIn(source, asking)
+  const said: string[] = []
+  const visit = (node: ts.Node): undefined => {
+    for (const one of listedBy(node)) {
+      const found = reachedIn(one, asking, held)
+      if (found === null) continue
+      said.push(
+        `line ${lineOf(source, node)} lists \`${shortened(found.said)}\`, ` +
+          `where \`${found.at}\` sits — ${SAID}`
+      )
+      break
     }
     ts.forEachChild(node, visit)
   }

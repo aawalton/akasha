@@ -4,7 +4,7 @@ export const checkReachesAPathThroughTheIndex = {
   id: "01a0824b-5ca1-7150-a799-fd2189f44fe4",
   pageTypeSlug: "code-check",
   slug: "check-reaches-a-path-through-the-index",
-  definition: "the check refusing a check that spells a path the index answers for",
+  definition: "the check refusing a check that lists a path the index answers for",
   code: "ts",
   test: "ts",
   runsOnPatch: true,
@@ -15,6 +15,23 @@ export const checkReachesAPathThroughTheIndex = {
     {
       invariantKind: "departure",
       statement: "The check package and the page types passed over are asked of the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A literal is judged by where that literal reaches rather than by what that literal spells.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A directory listing is `readdirSync`, `readdir` or `Glob`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A literal reaching a directory listing is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A literal reaching anything else is let through.",
     },
     {
       invariantKind: "departure",
@@ -31,16 +48,28 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
+      statement: "An expression carries whatever a name inside that expression carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name carries what an initializer of that name carries, worked out again until nothing changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name carries over the whole file rather than within the scope it is bound in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One listing is refused once however many of its arguments carry a path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every string a body has is read rather than the specifiers alone.",
     },
     {
       invariantKind: "departure",
       statement: "A specifier is left to the checks that judge a specifier.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A literal naming a path is refused whether that path is reached or matched against.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +85,7 @@ export const checkReachesAPathThroughTheIndex = {
     },
     {
       invariantKind: "departure",
-      statement: "The refusal names the line the literal sits on and the path the index answered.",
+      statement: "The refusal names the line the listing sits on and the path the index answered.",
     },
     {
       invariantKind: "departure",
@@ -70,6 +99,14 @@ export const checkReachesAPathThroughTheIndex = {
     {
       invariantKind: "absence",
       statement: "A path built from anything but plain strings is not seen.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A value a helper returns is not carried to the caller that lists it.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A name a loop names carries nothing, since a loop states no initializer.",
     },
     {
       invariantKind: "gap",

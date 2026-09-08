@@ -20,66 +20,99 @@ function only(text: string): readonly string[] {
   return reasonsIn(asking, AT, text)
 }
 
-test("a literal the index knows a page at is refused", () => {
-  const said = only('const a = "design/colors/pages/yellow.color.ts"\n')
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("design/colors/pages/yellow.color.ts")
+const NAMED = 'const AT = "design/colors"\n'
+
+test("a literal a listing is handed straight off is refused", () => {
+  expect(only('readdirSync("design/colors")\n')).toHaveLength(1)
 })
 
-test("a literal naming a folder the index files pages under is refused", () => {
-  const said = only('const a = "utils/run/running/"\n')
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("utils/run/running")
+test("a listing reaching a path through the name holding it is refused", () => {
+  expect(only(`${NAMED}readdirSync(join(root, AT))\n`)).toHaveLength(1)
 })
 
-test("a folder is named with or without the separator closing it", () => {
-  expect(only('const a = "design/colors"\n')).toHaveLength(1)
+test("a name taking what another name holds carries the path along", () => {
+  expect(only(`${NAMED}const dir = join(root, AT)\nreaddirSync(dir)\n`)).toHaveLength(1)
 })
 
-test("a literal the index knows a path ending with is refused", () => {
-  const said = only('const a = "name-matching/name-matching.module.code.ts"\n')
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("pages/name-formats/modules/name-matching")
+test("a folder is listed with or without the separator closing it", () => {
+  expect(only('readdirSync("utils/run/running/")\n')).toHaveLength(1)
+})
+
+test("a listing of a path the index knows a path ending with is refused", () => {
+  expect(only('readdirSync("name-matching/name-matching.module.code.ts")\n')).toHaveLength(1)
+})
+
+test("a listing awaited lists like one that is not", () => {
+  expect(only(`${NAMED}const held = await readdir(AT)\n`)).toHaveLength(1)
+})
+
+test("a glob built over a path is a listing", () => {
+  expect(only(`${NAMED}const held = new Glob(\`\${AT}/*.ts\`)\n`)).toHaveLength(1)
+})
+
+test("a path written to rather than listed passes", () => {
+  expect(only(`${NAMED}writeFileSync(join(root, AT, one), body)\n`)).toEqual([])
+})
+
+test("a path watched rather than listed passes", () => {
+  expect(only(`${NAMED}watch(join(root, AT), () => {})\n`)).toEqual([])
+})
+
+test("a path handed to a command rather than listed passes", () => {
+  expect(only(`${NAMED}ran(["rsync", "-a", AT, there])\n`)).toEqual([])
+})
+
+test("a path tested against rather than listed passes", () => {
+  expect(only(`${NAMED}const held = one.startsWith(AT)\n`)).toEqual([])
+})
+
+test("a listing of a path the index knows nothing at is let through", () => {
+  expect(only('readdirSync("text/event-stream")\n')).toEqual([])
 })
 
 test("a tail that does not begin at a separator is no path", () => {
-  expect(only('const a = "matching/name-matching.module.code.ts"\n')).toEqual([])
+  expect(only('readdirSync("matching/name-matching.module.code.ts")\n')).toEqual([])
 })
 
 test("a name holding no separator is no path", () => {
-  expect(only('const a = "design"\n')).toEqual([])
-})
-
-test("a literal the index knows nothing at is let through", () => {
-  expect(only('const a = "text/event-stream"\n')).toEqual([])
+  expect(only('readdirSync("design")\n')).toEqual([])
 })
 
 test("a specifier is left to the checks that judge a specifier", () => {
   expect(only('import { a } from "utils/run/running/running.module.code.ts"\n')).toEqual([])
 })
 
-test("a literal matched against rather than read is refused all the same", () => {
-  expect(only('const a = path.startsWith("design/colors")\n')).toHaveLength(1)
+test("a template holding a value is no plain string, so nothing is seen", () => {
+  expect(only("readdirSync(`design/${one}`)\n")).toEqual([])
 })
 
-test("the refusal names the line the literal sits on", () => {
-  const said = only('const a = 1\nconst b = 2\nconst c = "design/colors"\n')
-  expect(said[0]).toContain("line 3")
+test("one listing is refused once however many arguments carry a path", () => {
+  const other = 'const OTHER = "utils/run/running"\n'
+  expect(only(`${NAMED}${other}readdirSync(AT, OTHER)\n`)).toHaveLength(1)
 })
 
-test("each literal is named on its own", () => {
-  expect(only('const a = "design/colors"\nconst b = "utils/run/running"\n')).toHaveLength(2)
+test("two listings are refused twice", () => {
+  expect(only(`${NAMED}readdirSync(AT)\nreaddirSync(AT)\n`)).toHaveLength(2)
+})
+
+test("a value a helper returns is not carried to the caller that lists it", () => {
+  expect(only('function at() {\n  return "design/colors"\n}\nreaddirSync(at())\n')).toEqual([])
+})
+
+test("a name a loop binds carries nothing", () => {
+  const held = 'const HELD = ["design/colors"]\n'
+  expect(only(`${held}for (const one of HELD) readdirSync(one)\n`)).toEqual([])
+})
+
+test("a name carries over the whole file rather than within one scope", () => {
+  const helper = "function held(dir) {\n  return readdirSync(dir)\n}\n"
+  expect(only(`${helper}const dir = "design/colors"\n`)).toHaveLength(1)
 })
 
 test("a long literal is shortened where the refusal names that literal", () => {
   const long = `${"pages/name-formats/modules/name-matching/name-matching.module.code.ts"} is here`
-  const said = reasonsIn(askingOver([...HELD, long]), AT, `const a = "${long}"\n`)
+  const said = reasonsIn(askingOver([...HELD, long]), AT, `readdirSync("${long}")\n`)
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("…")
-})
-
-test("a template holding a value is no plain string, so nothing is seen", () => {
-  expect(only("const a = `design/${one}`\n")).toEqual([])
 })
 
 test("every folder above a path is derived from that path", () => {
