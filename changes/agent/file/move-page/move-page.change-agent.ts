@@ -32,5 +32,17 @@ export const movePage = {
       invariantKind: "absence",
       statement: "Nothing here changes the data a page states.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The carry is left to the mechanical change carrying a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That change is reached through the runner rather than by an import.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here works out a body of its own.",
+    },
   ],
 } as const satisfies ChangeAgent
