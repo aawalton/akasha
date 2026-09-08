@@ -5,5 +5,5 @@ export const exerciseProfile = {
   pageTypeSlug: "namespace",
   slug: "exercise-profile",
   definition: "what Alan's body brings to a movement",
-  partSlugs: ["command/exercise-profile-show"],
+  partSlugs: [],
 } as const satisfies Namespace
