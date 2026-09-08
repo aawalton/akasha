@@ -15,13 +15,13 @@ import {
   TITLE,
   toldOf,
   webIn,
-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "../../../../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 import {
   narrowItemAction,
   narrowMoveToDestination,
   narrowStockScope,
   parseConditionsJson,
-} from "../inventory-rule-flags/inventory-rule-flags.module.code.ts"
+} from "../../../../../../temper/temper-commands/inventory-rule-flags/inventory-rule-flags.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-rule-create"
 

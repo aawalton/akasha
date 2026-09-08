@@ -11,7 +11,7 @@ import {
   shapeOf,
   toldOf,
   toldRows,
-} from "../inventory-rule-calling/inventory-rule-calling.module.code.ts"
+} from "../../../../../../temper/temper-commands/inventory-rule-calling/inventory-rule-calling.module.code.ts"
 
 const CALLED_AS = "akasha temper-inventory-rule-list"
 
