@@ -8,6 +8,9 @@ export type Changes = {
   "change-agent/change-file": Parameters<
     typeof import("../../../agent/file-content/change-file/change-file.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/change-page-property-text": Parameters<
+    typeof import("../../../agent/file-content/change-page-property-text/change-page-property-text.change-agent.code.ts")["runChange"]
+  >[1]
   "change-checked/add-property-value": Parameters<
     typeof import("../../../agent/file-content/add-property-value/add-property-value.change-checked.code.ts")["runChange"]
   >[1]
@@ -124,8 +127,5 @@ export type Changes = {
   >[1]
   "change-mechanical-folder/remove-page-type": Parameters<
     typeof import("../../../mechanical/folder/remove/remove-page-type/remove-page-type.change-mechanical-folder.code.ts")["runChange"]
-  >[1]
-  "change-restated/change-page-property-text": Parameters<
-    typeof import("../../../agent/file-content/change-page-property-text/change-page-property-text.change-restated.code.ts")["runChange"]
   >[1]
 }

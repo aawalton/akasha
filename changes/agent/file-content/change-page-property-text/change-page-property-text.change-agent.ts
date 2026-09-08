@@ -1,8 +1,8 @@
-import type { ChangeRestated } from "../../../restated/change-restated.page-type.ts"
+import type { ChangeAgent } from "../../change-agent.page-type.ts"
 
 export const changePagePropertyText = {
   id: "01a07995-6678-72d8-97ab-a78b836b2f8d",
-  pageTypeSlug: "change-restated",
+  pageTypeSlug: "change-agent",
   slug: "change-page-property-text",
   changeModeSlug: "change-mode-change",
   definition: "one text property of one page stated anew in other words",
@@ -42,4 +42,4 @@ export const changePagePropertyText = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-} as const satisfies ChangeRestated
+} as const satisfies ChangeAgent
