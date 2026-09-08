@@ -63,6 +63,10 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
+      statement: "That change carries the paths a carry moves as well as the paths an edit writes.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "That change is answered alongside the edits, so the gate is judged over that same change.",
     },

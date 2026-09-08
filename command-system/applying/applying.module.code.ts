@@ -253,14 +253,14 @@ export async function applied(
   }
   const running = holding.running
   const gate = running.checks ? judging : NO_GATE
-  const prepared = preparing(root, head, editsOf(said.held))
+  const carrying = [...carries, ...(holding.carries ?? [])]
+  const prepared = preparing(root, head, editsOf(said.held), carrying)
   const formatting = prepared.formatting
   const unexportable = unexportableIn(formatting.changes)
   if (unexportable.length > 0) return { refusals: [...unexportable, UNEXPORTABLE] }
   if (running.writerOwesReading && agentId !== null)
     warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
-  const carrying = [...carries, ...(holding.carries ?? [])]
   const done = await landing(
     root,
     prepared.changes,

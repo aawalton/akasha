@@ -190,7 +190,9 @@ async function reporting(
   over: Change | null
 ): Promise<Answer> {
   const paths = pathsOf(asked.changes)
-  const change = over ?? changeOf(root, { base: baseOf(root), edits: asked.changes })
+  const change =
+    over ??
+    changeOf(root, { base: baseOf(root), edits: asked.changes, carries: asked.carries ?? [] })
   const held = { said: await gate.over(change), woke: gate.checksFor(change).length }
   if (held.said.length > 0) {
     return {
@@ -291,7 +293,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
     return { report: [], refusals: [`${NOTHING} — ${whyOf(thrown)}`], code: 3 }
   }
   const base = baseOf(given.root)
-  const prepared = preparing(given.root, base, minted.changes)
+  const prepared = preparing(given.root, base, minted.changes, asked.carries ?? [])
   const formatting = prepared.formatting
   const unexportable = unexportableIn(formatting.changes)
   if (unexportable.length > 0) return mistaking([...unexportable, NOTHING])

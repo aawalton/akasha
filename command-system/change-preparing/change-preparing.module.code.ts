@@ -4,6 +4,7 @@ import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import { changeOf } from "../landing/landing.module.code.ts"
 import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
+import type { FileCarry } from "../path-carrying/path-carrying.module.code.ts"
 import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
 
 export type Formatting = {
@@ -37,10 +38,15 @@ export type Prepared = {
   readonly over: Change | null
 }
 
-export function preparing(root: string, base: string, changes: readonly FileEdit[]): Prepared {
+export function preparing(
+  root: string,
+  base: string,
+  changes: readonly FileEdit[],
+  carries: readonly FileCarry[] = []
+): Prepared {
   const formatting = formattingIn(root, changes)
   const locking = lockingFor(root, base, formatting.changes)
-  const change = changeOf(root, { base, edits: formatting.changes })
+  const change = changeOf(root, { base, edits: formatting.changes, carries })
   const worked = workedFor(change)
   const mapped = mappedFor(change)
   const added = [...locking.edits, ...worked.edits, ...mapped.edits]

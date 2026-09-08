@@ -1,16 +1,20 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { bytesOf } from "@akasha/testing-system/bodying"
 import { put } from "@akasha/testing-system/putting"
 import {
   checking,
   git,
   givenIn,
   landedFrom,
+  repoWith,
   scratch,
   wrote,
   wroteWith,
 } from "../asking/asking.module.test-fixtures.ts"
+import { baseOf } from "../landing/landing.module.code.ts"
+import { preparing } from "./change-preparing.module.code.ts"
 import {
   BROKEN,
   LOOSE,
@@ -21,6 +25,20 @@ import {
 } from "./change-preparing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
+
+test("the change judged carries the paths a carry moves beside the paths an edit writes", () => {
+  const root = repoWith({ "akasha/one.ts": "committed\n", "akasha/two.ts": "second\n" })
+  const said = preparing(
+    root,
+    baseOf(root),
+    [{ path: "akasha/two.ts", body: bytesOf("third\n") }],
+    [{ from: "akasha/one.ts", to: "akasha/three.ts" }]
+  )
+  const change = said.over
+  expect(change?.changed).toEqual(["akasha/one.ts", "akasha/three.ts", "akasha/two.ts"])
+  expect(change?.after("akasha/three.ts")).toEqual(bytesOf("committed\n"))
+  expect(change?.after("akasha/one.ts")).toBe(null)
+})
 
 test("a loose body lands formatted and sorted, and the report says it did", async () => {
   const root = repoWithTheFormatter()
