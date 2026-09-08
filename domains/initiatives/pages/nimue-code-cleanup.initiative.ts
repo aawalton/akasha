@@ -25,7 +25,7 @@ export const nimueCodeCleanup = {
     {
       statement: "The check asking which page claims a file reads the build folder property.",
       workingMemory:
-        "`file-has-its-page` passes over a hardcoded `node_modules` today. Reading the property instead retires that constant and covers every build folder at once.",
+        "`file-has-its-page` reads a hardcoded `node_modules` today, and reading the property instead retires that constant and covers every build folder at once. `folder-matches-a-shape` has the same gap: it refuses the two ios app folders over their `www`, which is declared a build folder already. Both checks want the property rather than one.",
     },
     {
       statement: "A change carrying a folder repoints a path spelled outside a TypeScript body.",
