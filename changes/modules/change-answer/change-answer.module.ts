@@ -64,6 +64,27 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "A splice holds the place a body changes and what that place is to hold.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A splice becomes a replace naming the whole lines that place sits in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A run of lines the body holds twice widens a line each side until it is held once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A splice widens to the whole body where no run of lines around it is held once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A splice leaving its place as the place was answers no edit.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The body such an edit is worked out from is read off the tree.",
     },
     {

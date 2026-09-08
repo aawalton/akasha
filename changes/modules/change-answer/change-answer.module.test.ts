@@ -1,5 +1,12 @@
 import { expect, test } from "bun:test"
-import { type BodyOf, expanded, gathered, NOT_TEXT, replayed } from "./change-answer.module.code.ts"
+import {
+  type BodyOf,
+  expanded,
+  gathered,
+  NOT_TEXT,
+  replayed,
+  spliced,
+} from "./change-answer.module.code.ts"
 import type { Stated } from "./change-answer.module.types.ts"
 
 const AT = "akasha/one/held.ts"
@@ -232,4 +239,34 @@ test("answers gather to the edits each states in the order they were stated", ()
 
 test("an answer already refused refuses the gathering", () => {
   expect(gathered([{ edits: [], refused: "no" }])).toEqual({ edits: [], refused: "no" })
+})
+
+const LINES = "one\ntwo\nthree\n"
+
+test("a splice becomes a replace naming the whole line that place sits in", () => {
+  expect(spliced(AT, LINES, { from: 7, to: 7, put: "!" })).toEqual([
+    { kind: "replace", path: AT, contentFrom: "two", contentTo: "two!" },
+  ])
+})
+
+test("a splice taking a run out names the line that run sits in", () => {
+  expect(spliced(AT, LINES, { from: 4, to: 7, put: "" })).toEqual([
+    { kind: "replace", path: AT, contentFrom: "two", contentTo: "" },
+  ])
+})
+
+test("a line the body holds twice widens until the body holds the passage once", () => {
+  expect(spliced(AT, "a\nsame\nb\nsame\n", { from: 13, to: 13, put: "!" })).toEqual([
+    { kind: "replace", path: AT, contentFrom: "b\nsame\n", contentTo: "b\nsame!\n" },
+  ])
+})
+
+test("a splice leaving its place as the place was answers no edit", () => {
+  expect(spliced(AT, LINES, { from: 4, to: 7, put: "two" })).toEqual([])
+})
+
+test("the passage a splice names is smaller than the body it sits in", () => {
+  const said = spliced(AT, LINES, { from: 7, to: 7, put: "!" })[0]
+
+  expect(said?.kind === "replace" && said.contentFrom.length).toBeLessThan(LINES.length)
 })
