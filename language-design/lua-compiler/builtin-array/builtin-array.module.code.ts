@@ -30,6 +30,7 @@ export function transformArrayConstructorCall(
       return wrapInTable(...params)
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "Array", expressionName))
+      return undefined
   }
 }
 
@@ -233,6 +234,7 @@ export function transformArrayPrototypeCall(
       return transformLuaLibFunction(context, LuaLibFeature.ArrayWith, node, caller, ...params)
     default:
       context.addDiagnostic(unsupportedProperty(calledMethod.name, "array", expressionName))
+      return undefined
   }
 }
 
