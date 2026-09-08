@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { wisdomIn } from "@akasha/readout-system/attribute-wisdom"
+import { wisdomIn } from "../../../attributes/readouts/attribute-wisdom/attribute-wisdom.readout.code.ts"
 import {
   ATTRIBUTES_COUNTED_FROM,
   charismaOf,

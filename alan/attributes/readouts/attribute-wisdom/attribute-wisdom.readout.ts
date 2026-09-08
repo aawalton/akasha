@@ -1,4 +1,4 @@
-import type { Readout } from "../../readout.page-type.ts"
+import type { Readout } from "../../../../readout-system/readouts/readout.page-type.ts"
 
 export const attributeWisdom = {
   id: "01a06838-94ae-75cc-850c-98f366cb8269",
