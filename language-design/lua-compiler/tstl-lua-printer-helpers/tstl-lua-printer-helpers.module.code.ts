@@ -55,9 +55,10 @@ export function isSimpleExpression(expression: luaExpressions.Expression): boole
     case luaCore.SyntaxKind.BinaryExpression: {
       return isSimpleExpression(expression.left) && isSimpleExpression(expression.right)
     }
-  }
 
-  return true
+    default:
+      return true
+  }
 }
 
 export type SourceChunk = string | SourceNode
