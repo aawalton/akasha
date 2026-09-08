@@ -26,8 +26,7 @@ export const completionItemSetProgress = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A category holding several named roots nests its subcategories under those roots.",
+      statement: "A category with several named roots nests its subcategories under those roots.",
     },
   ],
 } as const satisfies Module

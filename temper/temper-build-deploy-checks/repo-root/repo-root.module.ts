@@ -13,7 +13,7 @@ export const repoRoot = {
     },
     {
       invariantKind: "constraint",
-      statement: "A named directory holding no lockfile is no checkout of the code repository.",
+      statement: "A named directory with no lockfile is no checkout of the code repository.",
     },
     {
       invariantKind: "absence",

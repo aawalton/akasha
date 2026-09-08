@@ -4,6 +4,6 @@ export const itemSetCatalog = {
   id: "01a0604d-239f-729e-9cd9-74586deb860c",
   pageTypeSlug: "module",
   slug: "item-set-catalog",
-  definition: "what the game states about one item set and the pieces the set holds",
+  definition: "what the game states about one item set and the pieces the set has",
   code: "ts",
 } as const satisfies Module

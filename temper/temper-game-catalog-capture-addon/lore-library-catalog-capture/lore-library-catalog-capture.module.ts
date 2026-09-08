@@ -22,7 +22,7 @@ export const loreLibraryCatalogCapture = {
     },
     {
       invariantKind: "departure",
-      statement: "A collection holding no named book is left out.",
+      statement: "A collection with no named book is left out.",
     },
   ],
 } as const satisfies Module

@@ -14,7 +14,7 @@ export const completionTributeProgress = {
     },
     {
       invariantKind: "departure",
-      statement: "A patron's total counts the patron beside each card the patron holds.",
+      statement: "A patron's total counts the patron beside each card the patron has.",
     },
     {
       invariantKind: "departure",

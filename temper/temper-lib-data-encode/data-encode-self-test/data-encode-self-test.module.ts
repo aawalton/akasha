@@ -9,7 +9,7 @@ export const dataEncodeSelfTest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The test table holds a value of every kind the encoder handles.",
+      statement: "The test table has a value of every kind the encoder handles.",
     },
     {
       invariantKind: "departure",

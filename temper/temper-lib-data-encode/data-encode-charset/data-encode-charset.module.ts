@@ -9,7 +9,7 @@ export const dataEncodeCharset = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The alphabet holds the characters the game carries through a saved string.",
+      statement: "The alphabet has the characters the game carries through a saved string.",
     },
     {
       invariantKind: "departure",

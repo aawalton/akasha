@@ -14,7 +14,7 @@ export const furnitureCatalogCapture = {
     },
     {
       invariantKind: "departure",
-      statement: "A furniture category holds the subcategories of that category.",
+      statement: "A furniture category has the subcategories of that category.",
     },
     {
       invariantKind: "departure",

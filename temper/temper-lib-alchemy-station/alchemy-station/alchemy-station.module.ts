@@ -9,11 +9,11 @@ export const alchemyStation = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The panel holding every tab is created once.",
+      statement: "The panel with every tab is created once.",
     },
     {
       invariantKind: "departure",
-      statement: "A tab's own control fills the panel holding every tab.",
+      statement: "A tab's own control fills the panel with every tab.",
     },
     {
       invariantKind: "departure",

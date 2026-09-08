@@ -4,7 +4,7 @@ export const installedAddons = {
   id: "01a06069-b78f-7051-8fb2-ebe10b403037",
   pageTypeSlug: "module",
   slug: "installed-addons",
-  definition: "what the game's addons directory holds, each folder with the version it states",
+  definition: "what the game's addons directory has, each folder with the version it states",
   code: "ts",
   test: "ts",
   invariants: [
@@ -18,7 +18,7 @@ export const installedAddons = {
     },
     {
       invariantKind: "departure",
-      statement: "A version is read from the manifest named for the folder holding that manifest.",
+      statement: "A version is read from the manifest named for the folder with that manifest.",
     },
     {
       invariantKind: "departure",

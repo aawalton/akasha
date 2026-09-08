@@ -9,7 +9,7 @@ export const errorsAddonHooks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An error raised before saved variables are ready is held in memory.",
+      statement: "An error raised before saved variables are ready is in memory.",
     },
     {
       invariantKind: "departure",

@@ -4,7 +4,7 @@ export const validateEquipmentMappings = {
   id: "01a06837-d6c9-764c-9c11-c54009827e36",
   pageTypeSlug: "module",
   slug: "validate-equipment-mappings",
-  definition: "whether each committed index table still holds one slot per id temper holds",
+  definition: "whether each committed index table still has one slot per id temper holds",
   code: "ts",
   invariants: [
     {
@@ -27,7 +27,7 @@ export const validateEquipmentMappings = {
     {
       invariantKind: "departure",
       statement:
-        "The number of slots a table holds is compared rather than the ids that table names.",
+        "The number of slots a table has is compared rather than the ids that table names.",
     },
   ],
 } as const satisfies Module

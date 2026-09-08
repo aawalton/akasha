@@ -4,7 +4,7 @@ export const inventoryCurrencyData = {
   id: "01a060d9-498b-782c-aa63-7f9ef5125ebe",
   pageTypeSlug: "module",
   slug: "inventory-currency-data",
-  definition: "every kind of money an account holds an amount of",
+  definition: "every kind of money an account has an amount of",
   code: "ts",
   invariants: [
     {

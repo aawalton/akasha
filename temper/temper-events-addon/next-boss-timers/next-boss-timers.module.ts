@@ -9,7 +9,7 @@ export const nextBossTimers = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A timer holds the second a boss returns rather than the seconds left.",
+      statement: "A timer has the second a boss returns rather than the seconds left.",
     },
     {
       invariantKind: "departure",

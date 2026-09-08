@@ -21,7 +21,7 @@ export const completionAccountCheckers = {
     },
     {
       invariantKind: "gap",
-      statement: "The registry names every account card the category tree holds.",
+      statement: "The registry names every account card the category tree has.",
     },
   ],
 } as const satisfies Module

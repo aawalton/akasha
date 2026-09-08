@@ -9,7 +9,7 @@ export const knowledgeState = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The library hangs its work off the two tables this module holds.",
+      statement: "The library hangs its work off the two tables this module has.",
     },
   ],
 } as const satisfies Module

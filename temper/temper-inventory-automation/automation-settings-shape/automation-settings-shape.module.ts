@@ -18,7 +18,7 @@ export const automationSettingsShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A key no toggle name holds is carried through untouched.",
+      statement: "A key no toggle name has is carried through untouched.",
     },
     {
       invariantKind: "departure",

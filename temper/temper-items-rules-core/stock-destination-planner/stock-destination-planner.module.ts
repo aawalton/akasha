@@ -10,7 +10,7 @@ export const stockDestinationPlanner = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A character already holding the target count takes no part of the stack.",
+      statement: "A character already with the target count takes no part of the stack.",
     },
     {
       invariantKind: "departure",

@@ -11,6 +11,6 @@ export const libSetsDebugDebugIndex = {
       invariantKind: "constraint",
       statement: "The order these modules are loaded in is the order their effects happen.",
     },
-    { invariantKind: "departure", statement: "This file holds imports and nothing else." },
+    { invariantKind: "departure", statement: "This file has imports and nothing else." },
   ],
 } as const satisfies Module

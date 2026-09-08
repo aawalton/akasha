@@ -13,7 +13,7 @@ export const inventoryManagementPlanCapacity = {
     },
     {
       invariantKind: "departure",
-      statement: "A place absent from the captured holdings holds no free slots.",
+      statement: "A place absent from the captured holdings has no free slots.",
     },
   ],
 } as const satisfies Module

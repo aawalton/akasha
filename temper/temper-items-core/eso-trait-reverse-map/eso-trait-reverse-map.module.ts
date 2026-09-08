@@ -19,7 +19,7 @@ export const esoTraitReverseMap = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here answers for an ESO trait number no map holds.",
+      statement: "Nothing here answers for an ESO trait number no map has.",
     },
   ],
 } as const satisfies Module

@@ -9,7 +9,7 @@ export const libSetsTipState = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One shared object holds the state for every tooltip the library touches.",
+      statement: "One shared object has the state for every tooltip the library touches.",
     },
     {
       invariantKind: "departure",

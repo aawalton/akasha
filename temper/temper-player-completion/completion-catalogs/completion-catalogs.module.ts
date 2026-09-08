@@ -17,11 +17,11 @@ export const completionCatalogs = {
     },
     {
       invariantKind: "departure",
-      statement: "A catalog is named for the entries the catalog holds rather than for its reader.",
+      statement: "A catalog is named for the entries the catalog has rather than for its reader.",
     },
     {
       invariantKind: "departure",
-      statement: "A reader that has asked for no catalog yet holds the empty bundle.",
+      statement: "A reader that has asked for no catalog yet has the empty bundle.",
     },
   ],
 } as const satisfies Module

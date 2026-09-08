@@ -4,7 +4,7 @@ export const minedDataParse = {
   id: "01a0611e-913c-74b8-9972-f3bfd84d8cd8",
   pageTypeSlug: "module",
   slug: "mined-data-parse",
-  definition: "the rows a datamining capture holds, read out of the file it was saved as",
+  definition: "the rows a datamining capture has, read out of the file it was saved as",
   code: "ts",
   test: "ts",
   testFixtures: "ts",

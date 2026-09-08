@@ -17,7 +17,7 @@ export const setIds = {
     },
     {
       invariantKind: "constraint",
-      statement: "One module holding all 707 set ids would pass the byte ceiling.",
+      statement: "One module with all 707 set ids would pass the byte ceiling.",
     },
     {
       invariantKind: "gap",

@@ -9,7 +9,7 @@ export const recipeCatalogSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A recipe list holds the recipes in that list.",
+      statement: "A recipe list has the recipes in that list.",
     },
     {
       invariantKind: "departure",

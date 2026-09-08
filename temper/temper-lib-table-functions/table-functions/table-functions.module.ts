@@ -33,7 +33,7 @@ export const tableFunctions = {
     },
     {
       invariantKind: "departure",
-      statement: "A sort hands back a copy where a row holds a nested table.",
+      statement: "A sort hands back a copy where a row has a nested table.",
     },
     {
       invariantKind: "departure",

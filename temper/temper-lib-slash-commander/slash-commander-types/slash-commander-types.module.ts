@@ -13,7 +13,7 @@ export const slashCommanderTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A command holds its subcommands in a set and its aliases in a map.",
+      statement: "A command has its subcommands in a set and its aliases in a map.",
     },
     {
       invariantKind: "departure",

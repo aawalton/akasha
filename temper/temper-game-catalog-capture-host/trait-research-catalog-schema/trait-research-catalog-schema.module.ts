@@ -9,7 +9,7 @@ export const traitResearchCatalogSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A craft type holds research lines that hold traits.",
+      statement: "A craft type has research lines that have traits.",
     },
     {
       invariantKind: "departure",

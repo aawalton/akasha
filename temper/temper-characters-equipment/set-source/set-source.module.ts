@@ -10,7 +10,7 @@ export const setSource = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A source holds the bonuses whose piece count the worn count reaches.",
+      statement: "A source has the bonuses whose piece count the worn count reaches.",
     },
   ],
 } as const satisfies Module

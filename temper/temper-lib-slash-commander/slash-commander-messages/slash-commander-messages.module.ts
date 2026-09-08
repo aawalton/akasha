@@ -17,7 +17,7 @@ export const slashCommanderMessages = {
     },
     {
       invariantKind: "departure",
-      statement: "A kind holds a color of its own.",
+      statement: "A kind has a color of its own.",
     },
     {
       invariantKind: "departure",

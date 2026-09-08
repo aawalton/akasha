@@ -15,7 +15,7 @@ export const companionRotationSlot = {
     {
       invariantKind: "constraint",
       statement:
-        "Slot data is emitted for every id in companionSkillSlots even when the slot holds no skill.",
+        "Slot data is emitted for every id in companionSkillSlots even when the slot has no skill.",
     },
     {
       invariantKind: "gap",

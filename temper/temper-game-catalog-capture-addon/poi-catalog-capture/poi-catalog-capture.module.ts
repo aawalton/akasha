@@ -18,7 +18,7 @@ export const poiCatalogCapture = {
     },
     {
       invariantKind: "departure",
-      statement: "A zone holding no named point of interest is left out.",
+      statement: "A zone with no named point of interest is left out.",
     },
   ],
 } as const satisfies Module

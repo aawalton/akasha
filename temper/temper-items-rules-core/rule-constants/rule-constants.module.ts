@@ -9,7 +9,7 @@ export const ruleConstants = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A threshold named by key resolves to the number this table holds under that key.",
+      statement: "A threshold named by key resolves to the number this table has under that key.",
     },
     {
       invariantKind: "departure",

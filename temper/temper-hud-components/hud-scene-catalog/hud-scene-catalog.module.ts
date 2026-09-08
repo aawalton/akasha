@@ -10,15 +10,15 @@ export const hudSceneCatalog = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The catalog holds every part the game's HUD fragment group names.",
+      statement: "The catalog has every part the game's HUD fragment group names.",
     },
     {
       invariantKind: "departure",
-      statement: "The catalog holds every part a scene adds for itself.",
+      statement: "The catalog has every part a scene adds for itself.",
     },
     {
       invariantKind: "departure",
-      statement: "The catalog holds every part hidden as a control.",
+      statement: "The catalog has every part hidden as a control.",
     },
     {
       invariantKind: "departure",

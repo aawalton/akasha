@@ -9,7 +9,7 @@ export const cadwellCatalogSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A level holds zones that hold points of interest.",
+      statement: "A level has zones that have points of interest.",
     },
     {
       invariantKind: "departure",

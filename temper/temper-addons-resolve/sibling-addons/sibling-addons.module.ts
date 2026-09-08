@@ -18,7 +18,7 @@ export const siblingAddons = {
     },
     {
       invariantKind: "departure",
-      statement: "A sibling holds a manifest and nothing more.",
+      statement: "A sibling has a manifest and nothing more.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const keybinderUiStrings = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key the table does not hold reads as the empty string.",
+      statement: "A key the table does not have reads as the empty string.",
     },
   ],
 } as const satisfies Module

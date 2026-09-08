@@ -14,7 +14,7 @@ export const libSetsTipHeader = {
     },
     {
       invariantKind: "departure",
-      statement: "Which placeholders the pattern holds is remembered as flags in the shared state.",
+      statement: "Which placeholders the pattern has is remembered as flags in the shared state.",
     },
     {
       invariantKind: "constraint",

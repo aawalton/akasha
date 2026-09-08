@@ -4,7 +4,7 @@ export const locationTypeData = {
   id: "01a060d9-4989-7621-819f-d8c567133ec6",
   pageTypeSlug: "module",
   slug: "location-type-data",
-  definition: "the kinds of place an inventory reading holds items in",
+  definition: "the kinds of place an inventory reading has items in",
   code: "ts",
   invariants: [
     {

@@ -4,7 +4,7 @@ export const esoPathsResolve = {
   id: "01a06079-c3b5-7e9b-86a5-dfbfd908990c",
   pageTypeSlug: "module",
   slug: "eso-paths-resolve",
-  definition: "the one live directory picked out of the candidates a workstation could hold",
+  definition: "the one live directory picked out of the candidates a workstation could have",
   code: "ts",
   test: "ts",
   invariants: [

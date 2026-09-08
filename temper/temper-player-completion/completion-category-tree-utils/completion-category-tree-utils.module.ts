@@ -36,15 +36,15 @@ export const completionCategoryTreeUtils = {
     },
     {
       invariantKind: "departure",
-      statement: "A node the named tab does not hold answers no children.",
+      statement: "A node the named tab does not have answers no children.",
     },
     {
       invariantKind: "departure",
-      statement: "Naming no node asks for the cards the tab itself holds.",
+      statement: "Naming no node asks for the cards the tab itself has.",
     },
     {
       invariantKind: "departure",
-      statement: "A node is answered in the order the tree holds that node rather than by name.",
+      statement: "A node is answered in the order the tree has that node rather than by name.",
     },
   ],
 } as const satisfies Module

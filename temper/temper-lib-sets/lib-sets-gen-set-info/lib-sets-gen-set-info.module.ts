@@ -9,7 +9,7 @@ export const libSetsGenSetInfo = {
     {
       invariantKind: "constraint",
       statement:
-        "The parts spread in ascending set id order so the whole holds the ids in source order.",
+        "The parts spread in ascending set id order so the whole has the ids in source order.",
     },
     {
       invariantKind: "gap",

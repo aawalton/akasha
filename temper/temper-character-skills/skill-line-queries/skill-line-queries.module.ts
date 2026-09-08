@@ -9,7 +9,7 @@ export const skillLineQueries = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A class offers the class lines first while no other slot holds a class line.",
+      statement: "A class offers the class lines first while no other slot has a class line.",
     },
     {
       invariantKind: "constraint",

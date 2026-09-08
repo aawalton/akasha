@@ -9,7 +9,7 @@ export const housingSliders = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A list shorter than the frame holding the list hides the slider.",
+      statement: "A list shorter than the frame with the list hides the slider.",
     },
   ],
 } as const satisfies Module

@@ -9,7 +9,7 @@ export const achievementCatalogSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A category holds sub categories that hold achievements.",
+      statement: "A category has sub categories that have achievements.",
     },
     {
       invariantKind: "departure",

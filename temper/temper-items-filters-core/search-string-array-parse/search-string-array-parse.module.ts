@@ -13,7 +13,7 @@ export const searchStringArrayParse = {
     },
     {
       invariantKind: "departure",
-      statement: "An array holding a non-string entry is read as no value.",
+      statement: "An array with a non-string entry is read as no value.",
     },
   ],
 } as const satisfies Module

@@ -5,7 +5,7 @@ export const specializedItemTypeConstants = {
   pageTypeSlug: "module",
   slug: "specialized-item-type-constants",
   definition:
-    "the specialized item type numbers the game client holds, each under the client's own name",
+    "the specialized item type numbers the game client has, each under the client's own name",
   code: "ts",
   invariants: [
     {

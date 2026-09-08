@@ -9,7 +9,7 @@ export const hudAddonHideTargets = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A shape here holds the one method the mechanism names.",
+      statement: "A shape here has the one method the mechanism names.",
     },
     {
       invariantKind: "absence",

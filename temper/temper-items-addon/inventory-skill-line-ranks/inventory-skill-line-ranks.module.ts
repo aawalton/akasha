@@ -5,6 +5,6 @@ export const inventorySkillLineRanks = {
   pageTypeSlug: "module",
   slug: "inventory-skill-line-ranks",
   definition:
-    "the rank a character holds in a skill line, live for this character and synced for others",
+    "the rank a character has in a skill line, live for this character and synced for others",
   code: "ts",
 } as const satisfies Module

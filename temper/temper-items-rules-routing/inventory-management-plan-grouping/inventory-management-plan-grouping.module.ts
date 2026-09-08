@@ -9,7 +9,7 @@ export const inventoryManagementPlanGrouping = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A group's total is the sum of the item values the group holds.",
+      statement: "A group's total is the sum of the item values the group has.",
     },
     {
       invariantKind: "departure",

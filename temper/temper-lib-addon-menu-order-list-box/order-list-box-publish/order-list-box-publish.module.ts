@@ -13,7 +13,7 @@ export const orderListBoxPublish = {
     },
     {
       invariantKind: "departure",
-      statement: "A widget LibAddonMenu-2.0 already holds at a higher version is left alone.",
+      statement: "A widget LibAddonMenu-2.0 already has at a higher version is left alone.",
     },
   ],
 } as const satisfies Module

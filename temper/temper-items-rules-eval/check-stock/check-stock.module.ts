@@ -5,7 +5,7 @@ export const checkStock = {
   pageTypeSlug: "module",
   slug: "check-stock",
   definition:
-    "the condition check over how much of a stock group characters and the bank already hold",
+    "the condition check over how much of a stock group characters and the bank already have",
   code: "ts",
   invariants: [
     {

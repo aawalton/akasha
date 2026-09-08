@@ -10,7 +10,7 @@ export const scrollableMenuApiCore = {
     {
       invariantKind: "constraint",
       statement:
-        "The supplied container must already hold a ZO_ComboBox instance or the call errors.",
+        "The supplied container must already have a ZO_ComboBox instance or the call errors.",
     },
     {
       invariantKind: "departure",

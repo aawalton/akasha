@@ -4,7 +4,7 @@ export const companionsInventoryMatcher = {
   id: "01a0611d-84dd-7692-b051-cdbafe3f791d",
   pageTypeSlug: "module",
   slug: "companions-inventory-matcher",
-  definition: "finding the best item a companion holds for each gear slot a build asks for",
+  definition: "finding the best item a companion has for each gear slot a build asks for",
   code: "ts",
   invariants: [
     {

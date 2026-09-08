@@ -18,7 +18,7 @@ export const zoneCompletionCatalogCapture = {
     },
     {
       invariantKind: "departure",
-      statement: "A completion type holding no named activity is left out.",
+      statement: "A completion type with no named activity is left out.",
     },
   ],
 } as const satisfies Module

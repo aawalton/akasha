@@ -21,7 +21,7 @@ export const collectiblesCatalogCapture = {
     },
     {
       invariantKind: "departure",
-      statement: "A category holding no collectible is dropped before the write.",
+      statement: "A category with no collectible is dropped before the write.",
     },
   ],
 } as const satisfies Module

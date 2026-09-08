@@ -9,7 +9,7 @@ export const addonMenuWidgetHeader = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "The header holds a fixed height of thirty pixels.",
+      statement: "The header has a fixed height of thirty pixels.",
     },
     {
       invariantKind: "absence",

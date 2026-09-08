@@ -19,7 +19,7 @@ export const scrollableMenuCasts4 = {
     {
       invariantKind: "departure",
       statement:
-        "The tail of the file holds plain one-word narrowings such as asString and asNumber.",
+        "The tail of the file has plain one-word narrowings such as asString and asNumber.",
     },
     {
       invariantKind: "constraint",

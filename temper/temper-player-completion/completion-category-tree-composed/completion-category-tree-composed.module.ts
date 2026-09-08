@@ -22,7 +22,7 @@ export const completionCategoryTreeComposed = {
     },
     {
       invariantKind: "departure",
-      statement: "The companions tab holds no achievement card.",
+      statement: "The companions tab has no achievement card.",
     },
     {
       invariantKind: "departure",

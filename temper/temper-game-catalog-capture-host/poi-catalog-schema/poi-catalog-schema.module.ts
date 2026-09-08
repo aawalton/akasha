@@ -9,7 +9,7 @@ export const poiCatalogSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A zone holds the points of interest found in that zone.",
+      statement: "A zone has the points of interest found in that zone.",
     },
     {
       invariantKind: "departure",

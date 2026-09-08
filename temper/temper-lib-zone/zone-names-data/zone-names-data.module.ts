@@ -9,7 +9,7 @@ export const zoneNamesData = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each language holds the zone names of that language alone.",
+      statement: "Each language has the zone names of that language alone.",
     },
     {
       invariantKind: "departure",

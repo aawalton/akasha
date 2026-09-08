@@ -13,11 +13,11 @@ export const affectedItemsTreeBuilder = {
     },
     {
       invariantKind: "departure",
-      statement: "A location type holding one location is drawn without a level for the location.",
+      statement: "A location type with one location is drawn without a level for the location.",
     },
     {
       invariantKind: "departure",
-      statement: "A guild is drawn with its own level even where only one guild holds items.",
+      statement: "A guild is drawn with its own level even where only one guild has items.",
     },
   ],
 } as const satisfies Module

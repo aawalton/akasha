@@ -9,7 +9,7 @@ export const inventoryRuleMapping = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A setting the rules leave unsaid keeps the value the settings already hold.",
+      statement: "A setting the rules leave unsaid keeps the value the settings already have.",
     },
   ],
 } as const satisfies Module

@@ -26,7 +26,7 @@ export const completionCadwellLookup = {
     },
     {
       invariantKind: "constraint",
-      statement: "An item path holding something other than a number answers nothing.",
+      statement: "An item path with something other than a number answers nothing.",
     },
   ],
 } as const satisfies Module

@@ -26,7 +26,7 @@ export const completionAntiquityLoreProgress = {
     },
     {
       invariantKind: "departure",
-      statement: "How many lore entries an antiquity holds is taken from the catalog.",
+      statement: "How many lore entries an antiquity has is taken from the catalog.",
     },
     {
       invariantKind: "constraint",

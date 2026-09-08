@@ -22,7 +22,7 @@ export const completionTransforms = {
     },
     {
       invariantKind: "departure",
-      statement: "A storage pet the account holds raises the bag size a pack upgrade is read from.",
+      statement: "A storage pet the account has raises the bag size a pack upgrade is read from.",
     },
     {
       invariantKind: "departure",

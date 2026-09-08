@@ -9,7 +9,7 @@ export const scrollableMenuUtilMenu = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "The library holds a single context menu object for the whole session.",
+      statement: "The library has a single context menu object for the whole session.",
     },
     {
       invariantKind: "departure",
@@ -18,8 +18,7 @@ export const scrollableMenuUtilMenu = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Mixing tables in skips a key the target already holds unless an override says so.",
+      statement: "Mixing tables in skips a key the target already has unless an override says so.",
     },
     {
       invariantKind: "departure",

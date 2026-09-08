@@ -9,7 +9,7 @@ export const tributeCatalogSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A patron holds the cards that patron gives.",
+      statement: "A patron has the cards that patron gives.",
     },
     {
       invariantKind: "departure",

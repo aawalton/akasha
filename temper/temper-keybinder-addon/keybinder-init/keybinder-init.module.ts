@@ -9,8 +9,7 @@ export const keybinderInit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "An account holding no shared bindings is filled from the defaults on first login.",
+      statement: "An account with no shared bindings is filled from the defaults on first login.",
     },
     {
       invariantKind: "departure",

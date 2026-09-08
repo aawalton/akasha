@@ -9,7 +9,7 @@ export const zoneCompletionCatalogSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A zone holds completion types that hold activities.",
+      statement: "A zone has completion types that have activities.",
     },
     {
       invariantKind: "departure",

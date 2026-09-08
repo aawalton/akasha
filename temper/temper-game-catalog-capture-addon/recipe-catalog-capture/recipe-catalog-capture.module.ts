@@ -17,7 +17,7 @@ export const recipeCatalogCapture = {
     },
     {
       invariantKind: "departure",
-      statement: "A list holding no recipe is left out.",
+      statement: "A list with no recipe is left out.",
     },
   ],
 } as const satisfies Module

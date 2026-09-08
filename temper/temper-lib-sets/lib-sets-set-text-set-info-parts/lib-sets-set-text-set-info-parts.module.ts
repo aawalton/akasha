@@ -9,7 +9,7 @@ export const libSetsSetTextSetInfoParts = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each part carries a flag saying whether the part holds content.",
+      statement: "Each part carries a flag saying whether the part has content.",
     },
   ],
 } as const satisfies Module

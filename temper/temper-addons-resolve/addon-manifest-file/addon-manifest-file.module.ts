@@ -18,15 +18,15 @@ export const addonManifestFile = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding both spellings answers with `addon.json`.",
+      statement: "A folder with both spellings answers with `addon.json`.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding neither spelling answers that no addon is there.",
+      statement: "A folder with neither spelling answers that no addon is there.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding two manifests beside pages is thrown on.",
+      statement: "A folder with two manifests beside pages is thrown on.",
     },
   ],
 } as const satisfies Module

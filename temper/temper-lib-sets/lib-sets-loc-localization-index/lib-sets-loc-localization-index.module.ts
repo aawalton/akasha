@@ -9,7 +9,7 @@ export const libSetsLocLocalizationIndex = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This file holds a single import and declares nothing.",
+      statement: "This file has a single import and declares nothing.",
     },
   ],
 } as const satisfies Module

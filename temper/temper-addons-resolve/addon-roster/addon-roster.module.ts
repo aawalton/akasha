@@ -4,7 +4,7 @@ export const addonRoster = {
   id: "01a06060-ec3e-72ca-8583-d3120bbc8269",
   pageTypeSlug: "module",
   slug: "addon-roster",
-  definition: "every addon the repository holds, each with the packages that addon reaches",
+  definition: "every addon the repository has, each with the packages that addon reaches",
   code: "ts",
   invariants: [
     {
@@ -17,11 +17,11 @@ export const addonRoster = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder holding no addon manifest of either spelling is no addon.",
+      statement: "A folder with no addon manifest of either spelling is no addon.",
     },
     {
       invariantKind: "departure",
-      statement: "An addon stating no name is named for the folder holding that addon.",
+      statement: "An addon stating no name is named for the folder with that addon.",
     },
     {
       invariantKind: "departure",

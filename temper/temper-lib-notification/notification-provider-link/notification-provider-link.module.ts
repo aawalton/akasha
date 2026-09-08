@@ -9,7 +9,7 @@ export const notificationProviderLink = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One link table holds the notifications both panels read.",
+      statement: "One link table has the notifications both panels read.",
     },
     {
       invariantKind: "departure",

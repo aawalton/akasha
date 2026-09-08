@@ -4,7 +4,7 @@ export const addonRosterGuard = {
   id: "01a06287-7841-7049-814e-e0e562320460",
   pageTypeSlug: "module",
   slug: "addon-roster-guard",
-  definition: "whether the add-on roster a scan would run over holds nothing",
+  definition: "whether the add-on roster a scan would run over has nothing",
   code: "ts",
   invariants: [
     {

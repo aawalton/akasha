@@ -5,7 +5,7 @@ export const displayCategoryConstants = {
   pageTypeSlug: "module",
   slug: "display-category-constants",
   definition:
-    "the display category numbers the game client holds, each under the name the client spells it with",
+    "the display category numbers the game client has, each under the name the client spells it with",
   code: "ts",
   invariants: [
     {

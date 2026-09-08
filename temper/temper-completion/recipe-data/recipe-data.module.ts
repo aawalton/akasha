@@ -4,7 +4,7 @@ export const recipeData = {
   id: "01a060c0-4132-7121-b748-a5113359ebd8",
   pageTypeSlug: "module",
   slug: "recipe-data",
-  definition: "every crafting recipe the game knows, under the recipe list that holds it",
+  definition: "every crafting recipe the game knows, under the recipe list that has it",
   code: "ts",
   invariants: [
     {
@@ -17,7 +17,7 @@ export const recipeData = {
     },
     {
       invariantKind: "gap",
-      statement: "A recipe moved to another place drifts from the index the game holds.",
+      statement: "A recipe moved to another place drifts from the index the game has.",
     },
   ],
 } as const satisfies Module

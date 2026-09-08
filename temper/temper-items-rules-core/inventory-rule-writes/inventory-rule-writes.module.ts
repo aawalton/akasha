@@ -4,7 +4,7 @@ export const inventoryRuleWrites = {
   id: "01a072dd-5d04-75d2-8bb2-1d5b8ac04825",
   pageTypeSlug: "module",
   slug: "inventory-rule-writes",
-  definition: "the rule pages a browser writes and takes away to make the pages say what it holds",
+  definition: "the rule pages a browser writes and takes away to make the pages say what it has",
   code: "ts",
   test: "ts",
   invariants: [

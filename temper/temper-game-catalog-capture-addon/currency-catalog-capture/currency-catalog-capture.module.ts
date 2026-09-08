@@ -17,11 +17,11 @@ export const currencyCatalogCapture = {
     },
     {
       invariantKind: "departure",
-      statement: "Each currency carries whether the bank holds that currency.",
+      statement: "Each currency carries whether the bank has that currency.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads how much of a currency the player holds.",
+      statement: "Nothing here reads how much of a currency the player has.",
     },
   ],
 } as const satisfies Module

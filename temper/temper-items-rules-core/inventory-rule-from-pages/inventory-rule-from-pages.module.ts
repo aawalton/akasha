@@ -36,7 +36,7 @@ export const inventoryRuleFromPages = {
     },
     {
       invariantKind: "gap",
-      statement: "Two rules of one account holding one display order are ordered by nothing.",
+      statement: "Two rules of one account with one display order are ordered by nothing.",
     },
   ],
 } as const satisfies Module

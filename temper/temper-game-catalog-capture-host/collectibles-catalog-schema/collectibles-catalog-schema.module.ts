@@ -9,7 +9,7 @@ export const collectiblesCatalogSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A category holds sub categories that hold collectibles.",
+      statement: "A category has sub categories that have collectibles.",
     },
     {
       invariantKind: "departure",

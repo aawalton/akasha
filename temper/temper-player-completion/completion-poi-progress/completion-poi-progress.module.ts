@@ -25,7 +25,7 @@ export const completionPoiProgress = {
     },
     {
       invariantKind: "departure",
-      statement: "A kind left holding no place is left out of its zone.",
+      statement: "A kind left with no place is left out of its zone.",
     },
     {
       invariantKind: "departure",

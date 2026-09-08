@@ -9,7 +9,7 @@ export const nextBossState = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One table holds the state this tracker keeps.",
+      statement: "One table has the state this tracker keeps.",
     },
     {
       invariantKind: "departure",

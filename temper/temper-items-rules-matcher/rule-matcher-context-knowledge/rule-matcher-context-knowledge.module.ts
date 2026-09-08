@@ -4,7 +4,7 @@ export const ruleMatcherContextKnowledge = {
   id: "01a06281-4830-7a5f-998e-b9cc4662de7e",
   pageTypeSlug: "module",
   slug: "rule-matcher-context-knowledge",
-  definition: "what each character knows and what the account holds of what they want",
+  definition: "what each character knows and what the account has of what they want",
   code: "ts",
   invariants: [
     {

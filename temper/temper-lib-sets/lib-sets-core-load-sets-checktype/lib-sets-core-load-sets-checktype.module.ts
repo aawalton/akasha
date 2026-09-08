@@ -10,7 +10,7 @@ export const libSetsCoreLoadSetsChecktype = {
     {
       invariantKind: "constraint",
       statement:
-        "A set whose items no longer exist is erased from every preloaded table holding that set.",
+        "A set whose items no longer exist is erased from every preloaded table with that set.",
     },
     {
       invariantKind: "departure",

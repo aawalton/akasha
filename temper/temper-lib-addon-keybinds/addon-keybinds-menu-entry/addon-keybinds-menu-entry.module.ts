@@ -9,7 +9,7 @@ export const addonKeybindsMenuEntry = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The new panel takes the next free panel id the game menu holds.",
+      statement: "The new panel takes the next free panel id the game menu has.",
     },
     {
       invariantKind: "departure",

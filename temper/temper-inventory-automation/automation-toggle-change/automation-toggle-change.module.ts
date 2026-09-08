@@ -46,7 +46,7 @@ export const automationToggleChange = {
     },
     {
       invariantKind: "departure",
-      statement: "A toggle taken away falls back to the value the global scope holds.",
+      statement: "A toggle taken away falls back to the value the global scope has.",
     },
     {
       invariantKind: "departure",

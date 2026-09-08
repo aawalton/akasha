@@ -9,7 +9,7 @@ export const orderListBoxBuild = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One scroll list holds every row of one order list box.",
+      statement: "One scroll list has every row of one order list box.",
     },
     {
       invariantKind: "departure",

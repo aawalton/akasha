@@ -9,7 +9,7 @@ export const inventoryManagementPlanTypes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A plan is a list of venue stops holding the actions taken at that stop.",
+      statement: "A plan is a list of venue stops with the actions taken at that stop.",
     },
     {
       invariantKind: "departure",

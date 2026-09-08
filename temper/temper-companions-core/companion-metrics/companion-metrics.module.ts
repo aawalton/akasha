@@ -13,7 +13,7 @@ export const companionMetrics = {
     },
     {
       invariantKind: "departure",
-      statement: "A run holds a contiguous stretch of the companion metrics table.",
+      statement: "A run has a contiguous stretch of the companion metrics table.",
     },
     {
       invariantKind: "constraint",

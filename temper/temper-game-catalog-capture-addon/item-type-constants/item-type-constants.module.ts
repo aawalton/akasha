@@ -5,7 +5,7 @@ export const itemTypeConstants = {
   pageTypeSlug: "module",
   slug: "item-type-constants",
   definition:
-    "the item type numbers the game client holds, each under the name the client spells it with",
+    "the item type numbers the game client has, each under the name the client spells it with",
   code: "ts",
   invariants: [
     {

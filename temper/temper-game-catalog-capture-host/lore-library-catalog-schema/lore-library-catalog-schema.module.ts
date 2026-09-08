@@ -9,7 +9,7 @@ export const loreLibraryCatalogSchema = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A category holds collections that hold books.",
+      statement: "A category has collections that have books.",
     },
     {
       invariantKind: "departure",

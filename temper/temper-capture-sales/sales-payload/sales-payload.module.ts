@@ -33,7 +33,7 @@ export const salesPayload = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds code that runs.",
+      statement: "Nothing here has code that runs.",
     },
   ],
 } as const satisfies Module

@@ -5,7 +5,7 @@ export const weaponTypeConstants = {
   pageTypeSlug: "module",
   slug: "weapon-type-constants",
   definition:
-    "the weapon type numbers the game client holds, each under the name the client spells it with",
+    "the weapon type numbers the game client has, each under the name the client spells it with",
   code: "ts",
   invariants: [
     {

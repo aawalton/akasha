@@ -4,7 +4,7 @@ export const esoBaseGameStringIds = {
   id: "01a06372-72ff-7026-81c6-4b3dcc1fde65",
   pageTypeSlug: "module",
   slug: "eso-base-game-string-ids",
-  definition: "every string id the base game provides, gathered from the runs holding them",
+  definition: "every string id the base game provides, gathered from the runs with them",
   code: "ts",
   invariants: [
     {
@@ -21,7 +21,7 @@ export const esoBaseGameStringIds = {
     },
     {
       invariantKind: "departure",
-      statement: "The runs holding the ids are divided only to keep each file under the ceiling.",
+      statement: "The runs with the ids are divided only to keep each file under the ceiling.",
     },
   ],
 } as const satisfies Module

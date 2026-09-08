@@ -5,7 +5,7 @@ export const armorTypeConstants = {
   pageTypeSlug: "module",
   slug: "armor-type-constants",
   definition:
-    "the armor weight numbers the game client holds, each under the name the client spells it with",
+    "the armor weight numbers the game client has, each under the name the client spells it with",
   code: "ts",
   invariants: [
     {
