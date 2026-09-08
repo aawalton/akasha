@@ -6,6 +6,7 @@ export const everyWorkspace = {
   slug: "every-workspace",
   definition: "the root of the ast-unused curation",
   partSlugs: [
+    "ast-unused-config/alanwalton",
     "ast-unused-config/archive-of-worlds",
     "ast-unused-config/audhdalan",
     "ast-unused-config/infra",

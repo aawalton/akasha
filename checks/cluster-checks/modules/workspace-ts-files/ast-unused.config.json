@@ -1,7 +1,7 @@
 {
   "ignoreWorkspaces": [],
   "parts": [
-    "ast-unused.alanwalton.config.json",
+    "alanwalton.ast-unused-config.workspaces.json",
     "archive-of-worlds.ast-unused-config.workspaces.json",
     "audhdalan.ast-unused-config.workspaces.json",
     "infra.ast-unused-config.workspaces.json",
