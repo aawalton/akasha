@@ -30,7 +30,7 @@ export function spaced(slug: string): string {
   return slug.split(UNDER).join(" ")
 }
 
-function widest(said: readonly string[]): number {
+export function widest(said: readonly string[]): number {
   return said.reduce((held, one) => (one.length > held ? one.length : held), 0)
 }
 

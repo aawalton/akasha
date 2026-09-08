@@ -88,6 +88,18 @@ export const calling = {
     },
     {
       invariantKind: "departure",
+      statement: "A command is told the call as that call was written on the command line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A help answer is titled by the call that reached the command.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A namespace listing is titled by the call that reached the namespace.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A name no command and no namespace carries is answered with the commands there are.",
     },

@@ -1,12 +1,10 @@
 import { git } from "@akasha/git/git-capping"
 import { pushBranch, remoteOf } from "@akasha/git/git-pushing"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import { type Answer, type Given, refused } from "../../calling/calling.module.code.ts"
 
 const DRY_RUN = "--dry-run"
 
-function refused(said: string): Answer {
-  return { report: [], refusals: [said], code: 1 }
-}
+const MISTOOK = 1
 
 export function branchIn(root: string): string | null {
   const head = git(root, ["symbolic-ref", "--short", "HEAD"])
@@ -24,17 +22,21 @@ export function push(argv: readonly string[], given: Given): Answer {
   const dry = argv.length === 1 && argv[0] === DRY_RUN
   if (argv.length > 0 && !dry) {
     return refused(
-      `\`${argv.join(" ")}\` is not an argument this takes — this command takes \`${DRY_RUN}\` alone`
+      `\`${argv.join(" ")}\` is not an argument this takes — this command takes \`${DRY_RUN}\` alone`,
+      MISTOOK
     )
   }
   const root = given.root
   const remote = remoteOf(root)
   if (remote === null) {
-    return refused("no remote is named in this checkout, so there is nowhere to carry the branch")
+    return refused(
+      "no remote is named in this checkout, so there is nowhere to carry the branch",
+      MISTOOK
+    )
   }
   const branch = branchIn(root)
   if (branch === null) {
-    return refused("HEAD is on no branch, so there is no branch to carry")
+    return refused("HEAD is on no branch, so there is no branch to carry", MISTOOK)
   }
   if (dry) {
     return {
@@ -44,6 +46,6 @@ export function push(argv: readonly string[], given: Given): Answer {
     }
   }
   const outcome = pushBranch(root)
-  if (outcome.failed) return refused(outcome.line)
+  if (outcome.failed) return refused(outcome.line, MISTOOK)
   return { report: [outcome.line], refusals: [], code: 0 }
 }

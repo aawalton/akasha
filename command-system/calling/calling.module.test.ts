@@ -2,14 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { rmSync } from "node:fs"
 import { join } from "node:path"
 import { idTakenFrom } from "@akasha/indexes/testing"
-import {
-  calling,
-  commandsIn,
-  HELP,
-  HELP_SHORT,
-  type Surface,
-  wordsIn,
-} from "./calling.module.code.ts"
+import { calling, commandsIn, HELP, HELP_SHORT, type Surface } from "./calling.module.code.ts"
 import {
   ANSWERS,
   ANSWERS_LATER,
@@ -83,7 +76,7 @@ test("the walk goes as deep as the words offer, through levels carrying no comma
   const said = await calling(["a", "b", "c", "d", "e", "f"], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("f")
-  expect(said.report[1]).toBe("akasha a-b-c-d-e")
+  expect(said.report[1]).toBe("akasha a b c d e")
 })
 
 test("the deepest level a command is at is read, not a shallower one", async () => {
@@ -94,7 +87,7 @@ test("the deepest level a command is at is read, not a shallower one", async () 
   ])
   const said = await calling(["a", "b", "c", "d"], { ...OUTSIDE, root })
   expect(said.report[0]).toBe("d")
-  expect(said.report[1]).toBe("akasha a-b-c")
+  expect(said.report[1]).toBe("akasha a b c")
 })
 
 test("a shorter name is read where the longer one is carried by no command", async () => {
@@ -113,7 +106,7 @@ test("a level above the deepest is read where nothing deeper is reached", async 
   const said = await calling(["track", "session", "open"], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("open")
-  expect(said.report[1]).toBe("akasha track-session")
+  expect(said.report[1]).toBe("akasha track session")
 })
 
 test("a joined name carried by more than one command is refused rather than shortened", async () => {
@@ -188,18 +181,14 @@ test("a command reached under a namespace is answered rather than the namespace"
   const said = await calling(["track", "session", "open", "one"], { ...OUTSIDE, root })
   expect(said.code).toBe(0)
   expect(said.report[0]).toBe("one")
-  expect(said.report[1]).toBe("akasha track-session-open")
+  expect(said.report[1]).toBe("akasha track session open")
 })
 
-test("the words walked down end at the first word that could be no slug", () => {
-  expect(wordsIn(["music", "now", "playing"])).toEqual(["music", "now", "playing"])
-  expect(wordsIn(["read", "--file-path", "one"])).toEqual(["read"])
-  expect(wordsIn(["read", "-h"])).toEqual(["read"])
-  expect(wordsIn(["read", "one/two.ts"])).toEqual(["read"])
-  expect(wordsIn(["read", "One"])).toEqual(["read"])
-  expect(wordsIn(["Read"])).toEqual([])
-  expect(wordsIn([])).toEqual([])
-  expect(wordsIn(["a", "b", "c", "d", "e"])).toEqual(["a", "b", "c", "d", "e"])
+test("a command reached in one hyphenated word keeps that hyphen in the call", async () => {
+  const root = rootWith([{ slug: "work-tree", body: ANSWERS }])
+  const said = await calling(["work-tree", "one"], { ...OUTSIDE, root })
+  expect(said.code).toBe(0)
+  expect(said.report[1]).toBe("akasha work-tree")
 })
 
 test("a command page whose code answers to nothing callable is refused", async () => {

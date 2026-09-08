@@ -4,6 +4,7 @@ import { indexNamed, indexThere, listedAt, slugsOfType, typeSlugById } from "@ak
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { costRecorded, opening } from "../../checks/modules/check-cost/check-cost.module.code.ts"
+import { type Reached, saidIn, walkingIn } from "../command-walking/command-walking.module.code.ts"
 import type { HelpNotes } from "../commands/properties/help-notes.text-property.ts"
 import type { Taking } from "../commands/properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
@@ -14,6 +15,7 @@ import {
   slugOfPart,
   spaced,
   underOf,
+  widest,
 } from "../namespace-listing/namespace-listing.module.code.ts"
 
 export type Kind = {
@@ -75,10 +77,6 @@ const CODE = "code"
 
 const TS = "ts"
 
-const WORD = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
-
-const UNDER = "-"
-
 const COMMAND = "command"
 
 export const ROOTED = "index"
@@ -128,10 +126,6 @@ function answeringOf(mod: Record<string, unknown>, slug: string): Answering | nu
 
 function listed(every: readonly string[], calledAs: string): string {
   return every.map((one) => `  ${calledAs} ${one}`).join("\n")
-}
-
-function widest(said: readonly string[]): number {
-  return said.reduce((held, one) => (one.length > held ? one.length : held), 0)
 }
 
 function pageAt(root: string, slug: string): string | null {
@@ -263,6 +257,7 @@ export function unreadIn(root: string, calledAs: string): string | null {
 
 async function answeredBy(
   named: string,
+  said: string,
   path: string,
   root: string,
   argv: readonly string[],
@@ -284,7 +279,7 @@ async function answeredBy(
   const surface = surfaceOf(page)
   if (surface !== null && (argv[0] === HELP || argv[0] === HELP_SHORT)) {
     return {
-      report: helpOf(`${outside.calledAs} ${named}`, definitionOf(page), surface),
+      report: helpOf(`${outside.calledAs} ${said}`, definitionOf(page), surface),
       refusals: [],
       code: 0,
     }
@@ -298,7 +293,7 @@ async function answeredBy(
   const kind = outside.changeKind ?? kindOf(root, page)
   return await answers(argv, {
     root,
-    calledAs: `${outside.calledAs} ${named}`,
+    calledAs: `${outside.calledAs} ${said}`,
     from: outside.from,
     writer: outside.writer,
     agentId: outside.agentId,
@@ -317,39 +312,6 @@ function helping(root: string, outside: Outside): Answer {
   }
   if (unread !== null) report.push(unread)
   return { report, refusals: [], code: 0 }
-}
-
-type Reached = {
-  readonly named: string
-  readonly held: number
-  readonly found: readonly { readonly path: string }[]
-}
-
-export function wordsIn(argv: readonly string[]): readonly string[] {
-  const words: string[] = []
-  for (const one of argv) {
-    if (!WORD.test(one)) break
-    words.push(one)
-  }
-  return words
-}
-
-function below(named: string, word: string): string {
-  return named === "" ? word : `${named}${UNDER}${word}`
-}
-
-function walkingIn(root: string, type: string | null, argv: readonly string[]): Reached | null {
-  if (type === null) return null
-  let named = ""
-  let held = 0
-  let reached: Reached | null = null
-  for (const word of wordsIn(argv)) {
-    named = below(named, word)
-    held = held + 1
-    const found = listedAt(root, type, named)
-    if (found.length > 0) reached = { named, held, found }
-  }
-  return reached
 }
 
 function walkedIn(root: string, argv: readonly string[]): Reached | null {
@@ -371,11 +333,16 @@ function saidOfPart(root: string, part: string): string | null {
   return null
 }
 
-function namespaceSaid(root: string, reached: Reached, calledAs: string): readonly string[] | null {
+function namespaceSaid(
+  root: string,
+  reached: Reached,
+  said: string,
+  calledAs: string
+): readonly string[] | null {
   const first = reached.found[0]
   if (reached.found.length !== 1 || first === undefined) return null
   const page = pageIn(root, first.path, reached.named)
-  const under = `${calledAs} ${spaced(reached.named)}`
+  const under = `${calledAs} ${said}`
   const held: Held[] = []
   for (const part of partsOf(page)) {
     const rest = underOf(reached.named, part)
@@ -410,7 +377,8 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   const first = reached === null ? undefined : reached.found[0]
   if (reached === null || first === undefined) {
     const under = walkingIn(root, namespaceSlugIn(root), argv)
-    const listing = under === null ? null : namespaceSaid(root, under, outside.calledAs)
+    const listing =
+      under === null ? null : namespaceSaid(root, under, saidIn(argv, under.held), outside.calledAs)
     if (listing !== null) return { report: listing, refusals: [], code: 0 }
     return carried((unread) =>
       unread === null
@@ -427,6 +395,7 @@ export async function calling(argv: readonly string[], outside: Outside): Promis
   }
   const answer = await answeredBy(
     reached.named,
+    saidIn(argv, reached.held),
     first.path,
     root,
     argv.slice(reached.held),

@@ -73,6 +73,7 @@ export const commandSystem = {
     "module/edits-landing",
     "module/namespace-listing",
     "module/refusals-keeping",
+    "module/command-walking",
   ],
   invariants: [
     {
