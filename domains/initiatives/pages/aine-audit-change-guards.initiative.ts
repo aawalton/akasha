@@ -16,7 +16,7 @@ export const aineAuditChangeGuards = {
       statement:
         "Every mechanical change that can leave an edge hanging names the guard judging that edge.",
       workingMemory:
-        "`rename-file-page` names `claimed-file-not-left-behind`; every other rung landed since is thin over a guarded one. `add-file` and `remove-file` judge nothing on purpose, the caller judging. A page left claiming a file that went is refused by the `page-property-has-its-file` check, which judges any page the index says carries a changed path, so no guard is wanted there. `guardedBy` casts its shadow from `gathered([world.over, said])`, so no guard reads a stale index.\n",
+        "`change-file-content-page` and `change-page-page-property` both name `identity-not-already-held` now, and the content dispatcher is thin over them. `relation-reaches-a-page` is left off both, since it would refuse any edit to a page already holding a name that reaches nothing, and whether such pages exist is unread. `add-file` and `remove-file` judge nothing on purpose, the caller judging. `guardedBy` casts from `gathered([world.over, said])`, so no guard reads a stale index.\n",
     },
     {
       statement:
