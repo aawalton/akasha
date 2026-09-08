@@ -8,9 +8,9 @@ export const auraHarnessDrive = {
   personaSlug: "aura",
   intents: [
     {
-      statement: "Every attribute carries its lifetime points and the level those points reach.",
+      statement: "Every attribute carries its total points and the level those points reach.",
       workingMemory:
-        "lifetimePoints is declared on all seven pages, reads 0, and is written by nothing. attributes-totalling sums wake-days from ATTRIBUTES_COUNTED_FROM 2026-09-06 afresh on every call and keeps nothing, under its own invariant `No total is kept beside a readout`, which contradicts this intent and is Alan's call to settle. attributes-levelling yields the rungs 10, 20, 40, 70, 120, 200, 330, 540, and only `akasha measure attributes` shows a level.",
+        "The attribute page type carries pointUnit, pointsToday and pointsTotal, and level is one computed property over pointsTotal holding the rungs 10, 20, 40, 70, 120, 200, 330, 540. lifetimePoints and attributes-levelling are gone, and `akasha measure attributes` takes levelOf from the level property. Nothing writes pointsToday or pointsTotal yet, so a stored level reads 0; attributes-totalling adds the days up from 2026-09-06 afresh on every call and keeps nothing.",
     },
   ],
   constraints: [
