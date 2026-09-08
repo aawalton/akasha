@@ -6,6 +6,7 @@ import {
   chosenIn,
   costOf,
   costsIn,
+  heldIn,
   latestOf,
   linesOf,
   meanOf,
@@ -371,6 +372,17 @@ test("a run naming a phase this does not read is counted beneath the table", () 
   expect(costs.checks[0]?.cpu).toBe(1)
   expect(costs.other).toEqual(["worktree: 2", "deploy: 1"])
   expect(linesOf(costs)).toContain("these runs name a phase this does not read:")
+})
+
+test("every numbered file of a check's entries is read in order rather than the first alone", () => {
+  const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 2, runId: ONE }] })
+  rowsInto(root, { one: [{ phase: "patch", cpuSeconds: 4, runId: TWO }] }, 2)
+  rowsInto(root, { one: [{ phase: "patch", cpuSeconds: 6, runId: THREE }] }, 3)
+  const cost = costsIn(root, NOW, DAY_BACK).checks[0]
+
+  expect(heldIn(root).held[0]?.runs.map((one) => one.cpu)).toEqual([2, 4, 6])
+  expect(cost?.runs).toBe(3)
+  expect(cost?.cpu).toBe(4)
 })
 
 test("entries that could not be read are named beneath the table", () => {

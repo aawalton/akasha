@@ -1,6 +1,10 @@
 import { put } from "@akasha/testing-system/putting"
 import type { CheckCost, Chosen, Costs } from "./check-measuring.module.code.ts"
 
+const ENTRIES = "entries"
+
+const FIRST_PART = 1
+
 export const NOW = Date.parse("2026-09-05T12:00:00.000Z")
 
 export const HOUR = 3600000
@@ -36,16 +40,18 @@ export function lineOf(one: Record<string, unknown>): string {
   })
 }
 
+export function partAt(check: string, part: number): string {
+  const named = part === FIRST_PART ? ENTRIES : `${ENTRIES}.part${part}`
+  return `checks/code-checks/pages/${check}/${check}.code-check.${named}.uncommitted.jsonl`
+}
+
 export function rowsInto(
   root: string,
-  held: Record<string, readonly Record<string, unknown>[]>
+  held: Record<string, readonly Record<string, unknown>[]>,
+  part = FIRST_PART
 ): string {
   for (const [check, rows] of Object.entries(held)) {
-    put(
-      root,
-      `checks/code-checks/pages/${check}/${check}.code-check.entries.uncommitted.jsonl`,
-      `${rows.map(lineOf).join("\n")}\n`
-    )
+    put(root, partAt(check, part), `${rows.map(lineOf).join("\n")}\n`)
   }
   return root
 }
