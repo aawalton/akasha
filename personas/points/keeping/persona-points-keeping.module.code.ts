@@ -48,3 +48,11 @@ export function keepPointsToday(root: string, persona: Paged, points: number): u
     [POINTS_TOTAL]: before + points,
   })
 }
+
+export function keepPoints(root: string, persona: Paged, before: number, today: number): undefined {
+  mergeUncommitted(root, persona.path, {
+    [POINTS_BEFORE_TODAY]: before,
+    [POINTS_TODAY]: today,
+    [POINTS_TOTAL]: before + today,
+  })
+}

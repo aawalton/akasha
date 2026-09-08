@@ -38,6 +38,10 @@ export const personaPointsKeeping = {
     },
     {
       invariantKind: "departure",
+      statement: "Both halves kept at once read back neither half from before.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A persona whose today is unread totals the points before today alone.",
     },
     {

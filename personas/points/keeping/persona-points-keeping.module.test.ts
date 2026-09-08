@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { existsSync, mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import {
+  keepPoints,
   keepPointsBeforeToday,
   keepPointsToday,
   pointsBeforeTodayKept,
@@ -88,6 +89,25 @@ test("keeping today's points again replaces the total rather than adding to it",
   over((root) => {
     keepPointsToday(root, AURA, 1.5)
     keepPointsToday(root, AURA, 2)
+    expect(pointsTotalKept(root, AURA)).toBe(2)
+    return undefined
+  })
+})
+
+test("both halves kept at once total together", () => {
+  over((root) => {
+    keepPoints(root, AURA, 7, 1.5)
+    expect(pointsBeforeTodayKept(root, AURA)).toBe(7)
+    expect(pointsTodayKept(root, AURA)).toBe(1.5)
+    expect(pointsTotalKept(root, AURA)).toBe(8.5)
+    return undefined
+  })
+})
+
+test("both halves kept at once read back neither half from before", () => {
+  over((root) => {
+    keepPoints(root, AURA, 7, 1.5)
+    keepPoints(root, AURA, 2, 0)
     expect(pointsTotalKept(root, AURA)).toBe(2)
     return undefined
   })
