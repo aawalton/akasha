@@ -25,6 +25,7 @@ const STAT = "/proc/self/stat"
 const STATUS = "/proc/self/status"
 
 export type Cost = {
+  readonly runId: string
   readonly ranAt: string
   readonly phase: string
   readonly check: string
@@ -125,12 +126,14 @@ export function closing(): Taken {
 export function costOf(
   before: Taken,
   after: Taken,
+  runId: string,
   phase: string,
   check: string,
   pathsChanged: number,
   refusals: number
 ): Cost {
   return {
+    runId,
     ranAt: new Date(before.at).toISOString(),
     phase,
     check,

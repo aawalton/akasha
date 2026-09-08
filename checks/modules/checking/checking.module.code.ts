@@ -214,6 +214,7 @@ export function judgingBy(every: readonly Gathered[], phase: Phase): Judging {
         return [{ path: first.page, reason: TAKES_EVERY_CHECK }]
       }
       const shadow = shadowAsked(change)
+      const runId = Bun.randomUUIDv7()
       const said: Judged[] = []
       for (const one of checksFor(left, change, shadow)) {
         const before = opening()
@@ -226,7 +227,7 @@ export function judgingBy(every: readonly Gathered[], phase: Phase): Judging {
         recordCost(
           one.root,
           one.page,
-          costOf(before, closing(), phase, one.slug, change.changed.length, found.length)
+          costOf(before, closing(), runId, phase, one.slug, change.changed.length, found.length)
         )
         said.push(...found)
       }

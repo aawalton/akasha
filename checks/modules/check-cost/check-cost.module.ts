@@ -13,6 +13,10 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
+      statement: "A line states the run the check was judged in.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The paths counted are the change's own rather than the paths the check judged.",
     },
     {

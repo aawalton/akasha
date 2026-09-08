@@ -77,6 +77,18 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "One run id is minted for each change judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every check judged over one change carries one run id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run id is a uuid version 7.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A shadow that could not be worked out refuses the change before any check runs.",
     },
     {
