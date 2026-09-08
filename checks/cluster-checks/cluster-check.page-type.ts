@@ -185,6 +185,7 @@ export const clusterCheck = {
     "module/non-test-population",
     "module/oklch-to-srgb",
     "module/orphan-source",
+    "module/package-cycles",
   ],
   properties: [
     {
