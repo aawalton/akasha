@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../../command-system/commands/command.page-type.ts"
 
 export const temperInventoryRuleUnlock = {
   id: "01a0603c-c1d8-788c-b8ed-bed2e9c842df",

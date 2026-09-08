@@ -1,4 +1,4 @@
-import type { Command } from "@akasha/command-system/command"
+import type { Command } from "../../../../../../command-system/commands/command.page-type.ts"
 
 export const temperInventoryItemRuleDuplicate = {
   id: "01a0603c-c1d3-7aad-9ae3-451fe2454676",
