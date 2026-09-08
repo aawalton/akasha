@@ -9,7 +9,7 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import { uncommittedPartAt } from "@akasha/pages/page-file-parts"
 import { sizeOnDisk } from "@akasha/utils-fs/file-size"
 
-const PUT = "change-mechanical-file/add-file"
+const PUT = "change-mechanical/add-file-of-any-kind"
 
 const LOG_SOURCE_TYPE = "01a0657c-cb14-7c6f-83df-0d533f4f7821"
 
@@ -118,41 +118,35 @@ function lastPartOf(root: string, pagePath: string): { path: string; part: numbe
   return { path: join(root, found), part, bytes: sizeOnDisk(join(root, found)) }
 }
 
-function appenderFor(
-  root: string,
-  source: string,
-  seatName: string,
-  date: string
-): Appender | null {
-  if (
-    !putUp(
-      root,
-      sourcePathOf(source),
-      sourceBodyOf(root, source),
-      `${source}: a log source is the log one program keeps`
-    )
-  ) {
-    return null
-  }
+function appenderFor(root: string, source: string, seatName: string, date: string): Appender {
   const slug = dayNameOf(source, seatName, date)
   const pagePath = dayPathOf(slug)
-  if (
-    !putUp(
-      root,
-      pagePath,
-      dayBodyOf(root, slug, source, seatName, date),
-      `${slug}: one source's lines for one seat on one day`
-    )
-  ) {
-    return null
-  }
   const held = lastPartOf(root, pagePath)
   mkdirSync(dirname(held.path), { recursive: true })
   let path = held.path
   let part = held.part
   let bytes = held.bytes
   let refused: string | null = null
-  let queued: Promise<void> = Promise.resolve()
+  let queued: Promise<void> = (async () => {
+    const sourceAt = sourcePathOf(source)
+    const sourceUp = await putUp(
+      root,
+      sourceAt,
+      sourceBodyOf(root, source),
+      `${source}: a log source is the log one program keeps`
+    )
+    if (!sourceUp) {
+      refused = `no page landed at ${sourceAt}, so no line is written`
+      return
+    }
+    const dayUp = await putUp(
+      root,
+      pagePath,
+      dayBodyOf(root, slug, source, seatName, date),
+      `${slug}: one source's lines for one seat on one day`
+    )
+    if (!dayUp) refused = `no page landed at ${pagePath}, so no line is written`
+  })()
   return {
     append: (line): undefined => {
       if (refused !== null) return
@@ -177,6 +171,7 @@ function appenderFor(
       bytes += size
       const at = path
       queued = queued.then(async () => {
+        if (refused !== null) return
         try {
           await appendFile(at, `${text}\n`, "utf8")
         } catch (error) {
@@ -205,8 +200,6 @@ export function logWriter(
         if (today !== date) {
           date = today
           appender = appenderFor(root, source, seatName, today)
-          if (appender === null)
-            refused = `no log day could be opened for \`${seatName}\` on ${today}`
         }
         appender?.append(line)
         const say = appender?.refused() ?? null

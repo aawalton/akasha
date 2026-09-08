@@ -52,6 +52,14 @@ export const chapterFiling = {
     },
     {
       invariantKind: "departure",
+      statement: "A page goes up through the change that works out the kind of path it is handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's id is worked out by that change rather than by the landing.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Chapters are filed by reaching the pages data directly rather than through the pages system service.",
     },

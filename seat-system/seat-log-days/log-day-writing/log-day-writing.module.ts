@@ -37,7 +37,11 @@ export const logDayWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "The landing makes the id of a page written here.",
+      statement: "A page goes up through the change that works out the kind of path it is handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's id is worked out by that change rather than by the landing.",
     },
     {
       invariantKind: "departure",
@@ -47,6 +51,14 @@ export const logDayWriting = {
     {
       invariantKind: "departure",
       statement: "A landing is believed only after the written file is read off the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line is appended only after the pages that line sits under have landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing that refused leaves every line for that day unwritten.",
     },
     {
       invariantKind: "departure",

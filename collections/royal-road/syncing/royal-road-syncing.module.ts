@@ -108,6 +108,14 @@ export const royalRoadSyncing = {
     },
     {
       invariantKind: "departure",
+      statement: "A page goes up through the change that works out the kind of path it is handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page's id is worked out by that change rather than by the landing.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A restated story whose page already holds that body states no edit rather than refusing the batch.",
     },

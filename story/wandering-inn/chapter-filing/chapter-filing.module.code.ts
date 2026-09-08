@@ -15,7 +15,7 @@ import {
   STORY_SLUG,
 } from "../chapter/chapter.module.code.ts"
 
-const PUT = "change-mechanical-file/add-file"
+const PUT = "change-mechanical/add-file-of-any-kind"
 const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "words"
