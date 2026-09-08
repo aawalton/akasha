@@ -12,6 +12,7 @@ export const audhdalanWeb = {
   routerConfig: "ts",
   compileConfig: "json",
   viteConfig: "ts",
+  server: "ts",
   partSlugs: [
     "manifest/audhdalan-web-manifests",
     "stylesheet/audhdalan-web-look",
