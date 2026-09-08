@@ -19,7 +19,6 @@ export const changeMechanical = {
   partSlugs: [
     "page-type/change-mechanical-file",
     "page-type/change-mechanical-folder",
-    "page-type/change-mechanical-data",
     "page-type/change-mechanical-file-content",
     "relation-property/guard-slugs",
   ],
