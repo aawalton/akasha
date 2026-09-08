@@ -8,7 +8,6 @@
     "./framework": "./framework/framework.module.code.ts",
     "./git-byte-pathspecs": "./git-byte-pathspecs/git-byte-pathspecs.module.code.ts",
     "./green-day-fraction": "./green-day-fraction/green-day-fraction.module.code.ts",
-    "./image-name": "./image-name/image-name.module.code.ts",
     "./last-messaged": "./last-messaged/last-messaged.module.code.ts",
     "./points-source-availability": "./points-source-availability/points-source-availability.module.code.ts",
     "./points-source-declarers": "./points-source-declarers/points-source-declarers.module.code.ts",

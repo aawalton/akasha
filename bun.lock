@@ -1249,6 +1249,7 @@
       "dependencies": {
         "@akasha/pages": "workspace:*",
         "@akasha/pages-core": "workspace:*",
+        "zod": "^4.3.6",
       },
     },
     "personas-core": {

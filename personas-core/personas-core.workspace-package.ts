@@ -12,7 +12,6 @@ export const personasCore = {
     "module/framework",
     "module/git-byte-pathspecs",
     "module/green-day-fraction",
-    "module/image-name",
     "module/last-messaged",
     "module/points-source-availability",
     "module/points-source-declarers",
