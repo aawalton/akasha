@@ -29,6 +29,14 @@ export const testsPass = {
     },
     {
       invariantKind: "departure",
+      statement: "The run reads the change's bodies through an overlay mounted over the checkout.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body the change answers nothing for is a path the overlay takes away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A test stands beside a changed file when the change answers a body for the test.",
     },
     {

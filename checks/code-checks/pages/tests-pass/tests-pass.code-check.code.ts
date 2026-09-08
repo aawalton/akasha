@@ -113,16 +113,23 @@ export function spelledIn(output: string, root: string): string {
   return output.replaceAll(`${SERVED}:${root}/`, "").replaceAll(`${root}/`, "")
 }
 
+export function bodiesOf(change: Change): Readonly<Record<string, Uint8Array | null>> {
+  const held: Record<string, Uint8Array | null> = {}
+  for (const one of change.changed) held[one] = change.after(one)
+  return held
+}
+
 function refusalsIn(change: Change): readonly Judged[] {
   if (alreadyRunning()) return []
   const named = namedIn(change)
   const first = named[0]
   if (first === undefined) return []
+  const bodies = bodiesOf(change)
   const serving = servingOf(change.root, change.changed, change.after, named, change.before)
   try {
     if (measuring())
-      return [{ path: first, reason: spentlyOf(spentOver(change.root, named, serving)) }]
-    const found = ranOver(change.root, named, named.length, null, serving)
+      return [{ path: first, reason: spentlyOf(spentOver(change.root, named, serving, bodies)) }]
+    const found = ranOver(change.root, named, named.length, null, serving, bodies)
     if (found.verdict === "pass") return []
     const said = { ...found, output: spelledIn(found.output, serving.root) }
     const at = said.slow[0]?.path ?? first
