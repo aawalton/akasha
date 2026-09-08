@@ -58,7 +58,6 @@ export const commandSystem = {
     "module/prose-routing",
     "module/commit-author",
     "module/gated-landing",
-    "module/harness-landing",
     "module/commands-served",
     "module/command-server",
     "module/orphaning",
