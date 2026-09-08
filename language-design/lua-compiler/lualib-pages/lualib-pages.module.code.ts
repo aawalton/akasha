@@ -30,7 +30,9 @@ export type LualibSources = {
 function featureNamed(name: string): LuaLibFeature | null {
   if (FEATURES.has(name)) return name as LuaLibFeature
   const bare = name.startsWith(PREFIX) ? name.slice(PREFIX.length) : name
-  return FEATURES.has(bare) ? (bare as LuaLibFeature) : null
+  if (FEATURES.has(bare)) return bare as LuaLibFeature
+  const upper = bare.charAt(0).toUpperCase() + bare.slice(1)
+  return FEATURES.has(upper) ? (upper as LuaLibFeature) : null
 }
 
 function realAt(at: string): string {

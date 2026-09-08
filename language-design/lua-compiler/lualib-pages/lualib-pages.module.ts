@@ -35,6 +35,10 @@ export const lualibPages = {
     },
     {
       invariantKind: "departure",
+      statement: "A Lua export names its feature once the export's first letter is upper-cased.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page naming no lualib feature either way refuses the build.",
     },
     {

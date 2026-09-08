@@ -44,6 +44,17 @@ test("a feature name is reached from the source file's name", () => {
   expect(held.featureBySourceName.get("array-at.lualib.code")).toBe("ArrayAt")
 })
 
+test("a Lua export spelled in lower case names its feature", () => {
+  const named: LualibPage = {
+    pagePath: "/lua-compiler/lualibs/performance/performance.lualib.ts",
+    luaExport: "performance",
+    codePath: "/lua-compiler/lualibs/performance/performance.lualib.code.ts",
+    lua50CodePath: null,
+  }
+  const held = sourcesFrom(SCANNED, [named], false)
+  expect(held.featureBySourceName.get("performance.lualib.code")).toBe("Performance")
+})
+
 test("a build for Lua 5.0 takes a page's Lua 5.0 code where the page holds one", () => {
   const held = sourcesFrom(SCANNED, [UNPACK], true)
   expect(held.rootNames).toContain(UNPACK_LUA50)
