@@ -48,7 +48,7 @@ export const theaChecksSystem = {
     {
       statement: "Every property file has the page whose property that file is.",
       workingMemory:
-        "Eleven files a reading of names calls claimed while the page they belong to is gone, so no count of unclaimed files held them. Eight eso-day health-samples under alan/tracking/daily/eso-days/pages, dated 2026-08-31 through 2026-09-07, running to yesterday, so a writer still lays them down and writes no page. Two more under alan/eso-daily-tracking, which holds nothing else. One is change-running.change-runner.addressed.ts. Either the page returns or the file goes, and only Alan says which.",
+        "Ten of eleven settled. The eight ESO days from 2026-08-31 to 09-07 have pages again and their samples are claimed, Alan taking the writer itself separately. The two eso-daily-tracking strays are gone, every measurement in them already on its ESO day once floats and timestamps are normalised. Left is change-running.change-runner.addressed.ts, which no hand can remove: an apply drops any edit naming a change-runner addressed file, reading only the name. Filed as a finding.",
     },
     {
       statement: "Every file beside a page the page holds is claimed by that page.",
