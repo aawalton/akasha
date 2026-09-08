@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const portHolding = {
   id: "01a0659d-b1ba-7000-ac0a-6643010ea000",

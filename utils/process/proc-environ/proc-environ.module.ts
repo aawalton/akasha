@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const procEnviron = {
   id: "01a0691b-4f63-79be-84d6-4d9546e6c1be",
