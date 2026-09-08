@@ -11,6 +11,7 @@ export const temperEsoTypings = {
     "module/eso-token-scope",
     "module/eso-declaration-text",
     "module/eso-opt-in",
+    "page-type/eso-opt-in-list",
   ],
   invariants: [
     {
