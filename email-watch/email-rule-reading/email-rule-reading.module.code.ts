@@ -1,12 +1,12 @@
 import { readdirSync } from "node:fs"
 import { createRequire } from "node:module"
+import type { Condition } from "@akasha/rules-engine/rule-conditions"
 import {
   type EmailRuleKind,
   ruleFileSuffix,
   ruleFolderIn,
   ruleKinds,
-} from "@akasha/email-watch/email-rule-set"
-import type { Condition } from "@akasha/rules-engine/rule-conditions"
+} from "../email-rule-set/email-rule-set.module.code.ts"
 
 export type Action = "notify" | "unsubscribe"
 

@@ -1,8 +1,8 @@
-import type { Rule } from "@akasha/email-watch/email-rule-reading"
-import { emailRuleSet } from "@akasha/email-watch/email-rule-set"
 import type { Message } from "@akasha/google-email/gmail-mailbox"
 import type { Condition } from "@akasha/rules-engine/rule-conditions"
 import { type Case, matches as matchesIn } from "@akasha/rules-engine/rule-partition"
+import type { Rule } from "../email-rule-reading/email-rule-reading.module.code.ts"
+import { emailRuleSet } from "../email-rule-set/email-rule-set.module.code.ts"
 
 export function caseOf(message: Message): Case {
   return {

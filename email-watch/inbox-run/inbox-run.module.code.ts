@@ -1,10 +1,10 @@
 import { appendFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
-import { decide } from "@akasha/email-watch/email-rule-deciding"
-import type { Rule } from "@akasha/email-watch/email-rule-reading"
-import { rulesOf } from "@akasha/email-watch/email-rule-reading"
 import { forwardOf } from "@akasha/google-email/forwarded-message"
 import type { Mailbox, Message } from "@akasha/google-email/gmail-mailbox"
 import { personOr } from "@akasha/persons/person-reading"
+import { decide } from "../email-rule-deciding/email-rule-deciding.module.code.ts"
+import type { Rule } from "../email-rule-reading/email-rule-reading.module.code.ts"
+import { rulesOf } from "../email-rule-reading/email-rule-reading.module.code.ts"
 
 const STATE_DIR = `${process.env.HOME ?? "/nonexistent"}/.local/state/alan-email`
 const STATE_FILE = `${STATE_DIR}/state.json`
