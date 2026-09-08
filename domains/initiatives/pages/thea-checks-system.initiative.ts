@@ -8,11 +8,6 @@ export const theaChecksSystem = {
   personaSlug: "thea",
   intents: [
     {
-      statement: "The tests beside a changed file judge the change that carries it.",
-      workingMemory:
-        "Measured on Bun 1.3.14: onResolve never fires for a bare specifier, from a served importer or a plain one; an absolute specifier from a served importer does reach it; onLoad fires in the file namespace for whatever the runner itself resolved. So a move is aliased rather than resolution intercepted. The moved body is served at the path the runner still finds, and a specifier the new manifest brings is spelled back to the old. A moved body answers import.meta as the old path.",
-    },
-    {
       statement:
         "A page type narrows an inherited property's reach to the collection it is part of.",
       workingMemory:
