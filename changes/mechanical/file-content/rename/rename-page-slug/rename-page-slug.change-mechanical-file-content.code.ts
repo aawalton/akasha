@@ -181,22 +181,24 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
     restating.push(...splicedIn(path, texts.get(path) ?? "", held))
   }
   const answers: Answer[] = [stating(restating)]
+  const before = gathered(answers)
+  if (before.refused !== null) return before
+  let seen = worldOver(world, before)
   if (given.plural !== undefined) {
-    const before = gathered(answers)
-    if (before.refused !== null) return before
-    const stated = await reach(worldOver(world, before), CHANGE_PAGE_PROPERTY, {
+    const stated = await reach(seen, CHANGE_PAGE_PROPERTY, {
       at: given.at,
       key: PLURAL_SLUG,
       to: given.plural,
     })
     if (stated.said.refused !== null) return stated.said
     answers.push(stated.said)
+    seen = stated.world
   }
   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
   const folded = gathered(answers)
   if (folded.refused !== null) return folded
-  const spelled = await reach(worldOver(world, folded), RENAME_EXPORT, {
+  const spelled = await reach(seen, RENAME_EXPORT, {
     at: given.at,
     over: [given.at, ...reading.importers],
     of: bound,

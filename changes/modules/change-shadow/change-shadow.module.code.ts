@@ -130,9 +130,9 @@ export function worldAt(
 
 export function worldOver(world: World, said: Answer): World {
   const held = bodiesIn(said, world.textOf)
-  const index = shadowAsked(changeOver(world.root, said, world.textOf)).index
   const over = gathered([world.over, said])
   if (over.refused !== null) throw new Error(over.refused)
+  const index = shadowAsked(changeOver(world.root, over, world.base)).index
   return {
     root: world.root,
     index,

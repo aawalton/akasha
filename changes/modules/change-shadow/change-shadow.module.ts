@@ -167,6 +167,11 @@ export const changeShadow = {
     {
       invariantKind: "departure",
       statement:
+        "A world a reach answered is carried on rather than built again over that reach's answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "An answer a change worked out itself is built over as a second world rather than added to a ledger.",
     },
     {

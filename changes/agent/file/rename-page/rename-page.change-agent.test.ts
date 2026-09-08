@@ -22,6 +22,7 @@ import { refusing } from "../../../modules/change-answer/change-answer.module.co
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   bodiesIn,
+  ledgerAt,
   type Reaching,
   type World,
   worldAt,
@@ -343,4 +344,16 @@ test("the const and the type a page exports are spelled anew in one answer", asy
   expect(body).toContain(`export const ${CARRIED} =`)
   expect(body).toContain("export type Carried = string")
   expect(body).not.toContain("TypedOne")
+})
+
+test("a page renamed over a ledger is carried once rather than a second time", async () => {
+  const root = indexedRepo()
+  const was = textIn(root)
+  const said = await renamePage(ledgerAt(root, was, RUNS), { at: HELD_PAGE, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(movesOf(said)).toEqual([
+    [HELD_PAGE, CARRIED_PAGE],
+    [HELD_CODE, CARRIED_CODE],
+  ])
+  expect(bodiesIn(said, was).get(CARRIED_PAGE) ?? "").toContain(`"slug": "${CARRIED}"`)
 })

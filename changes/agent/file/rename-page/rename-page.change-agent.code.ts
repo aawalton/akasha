@@ -20,11 +20,7 @@ import type {
   Splice,
   Stated,
 } from "../../../modules/change-answer/change-answer.module.types.ts"
-import {
-  reach,
-  type World,
-  worldOver,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { statedIn } from "../../../modules/page-literal/page-literal.module.code.ts"
 import { spelledAnew } from "../../file-content/rename-package/rename-package.change-agent.code.ts"
 
@@ -322,7 +318,8 @@ export async function renamePage(world: World, given: RenamePageAsked): Promise<
     answers.push(said.said)
     folded = gathered(answers)
     if (folded.refused !== null) return folded
-    const spelled = await typeAnew(worldOver(world, folded), lands, held.slug, given.to)
+    seen = said.world
+    const spelled = await typeAnew(seen, lands, held.slug, given.to)
     if (spelled !== null) {
       if (spelled.refused !== null) return spelled
       answers.push(spelled)
