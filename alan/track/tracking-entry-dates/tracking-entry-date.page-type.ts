@@ -13,7 +13,7 @@ export const trackingEntryDate = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A date entry counts to the wake day the entry was written in.",
+      statement: "A date entry counts to the day the entry was written in.",
     },
   ],
 } as const satisfies PageType

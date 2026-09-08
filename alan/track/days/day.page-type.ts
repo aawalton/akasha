@@ -250,7 +250,7 @@ export const day = {
     },
     {
       invariantKind: "departure",
-      statement: "A day is slugged `wake-day-` before the day that day is of.",
+      statement: "A day is slugged `day-` before the day that day is of.",
     },
     {
       invariantKind: "departure",
@@ -300,7 +300,7 @@ export const day = {
     },
     {
       invariantKind: "departure",
-      statement: "The wake day is derived in one place.",
+      statement: "The day is derived in one place.",
     },
     {
       invariantKind: "departure",
