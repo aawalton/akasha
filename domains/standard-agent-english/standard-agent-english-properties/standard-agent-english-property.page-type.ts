@@ -13,7 +13,7 @@ export const standardAgentEnglishProperty = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property of this page type holds a value read as English.",
+      statement: "A property of this page type has a value read as English.",
     },
     {
       invariantKind: "departure",
