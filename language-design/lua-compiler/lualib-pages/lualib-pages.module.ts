@@ -27,7 +27,15 @@ export const lualibPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A page naming no lualib feature is passed over.",
+      statement: "A Lua export names its feature once the export's `__TS__` prefix is dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A Lua export naming a feature outright names that feature.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page naming no lualib feature either way is passed over.",
     },
     {
       invariantKind: "departure",

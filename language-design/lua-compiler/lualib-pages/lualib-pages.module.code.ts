@@ -11,6 +11,8 @@ const LUA50_CODE = ".lualib.lua50-code.ts"
 
 const PAGES_FOLDER = "lualibs"
 
+const PREFIX = "__TS__"
+
 const FEATURES: ReadonlySet<string> = new Set<string>(Object.values(LuaLibFeature))
 
 export type LualibPage = {
@@ -25,7 +27,9 @@ export type LualibSources = {
 }
 
 function featureNamed(name: string): LuaLibFeature | null {
-  return FEATURES.has(name) ? (name as LuaLibFeature) : null
+  if (FEATURES.has(name)) return name as LuaLibFeature
+  const bare = name.startsWith(PREFIX) ? name.slice(PREFIX.length) : name
+  return FEATURES.has(bare) ? (bare as LuaLibFeature) : null
 }
 
 function realAt(at: string): string {

@@ -9,7 +9,7 @@ const SCANNED = [
 ]
 
 const ARRAY_AT: LualibPage = {
-  luaExport: "ArrayAt",
+  luaExport: "__TS__ArrayAt",
   codePath: "/lua-compiler/lualibs/array-at/array-at.lualib.code.ts",
   lua50CodePath: null,
 }
@@ -28,7 +28,7 @@ test("no page at all answers with the scanned files themselves", () => {
   expect(held.featureBySourceName.size).toBe(0)
 })
 
-test("a page's code file takes the place of the scanned file named for its Lua export", () => {
+test("a Lua export names its feature once the export's `__TS__` prefix is dropped", () => {
   expect(sourcesFrom(SCANNED, [ARRAY_AT], false).rootNames).toEqual([
     ARRAY_AT.codePath,
     "/lua-compiler/lualib/src/ArrayConcat.ts",
@@ -53,7 +53,7 @@ test("a build for Lua 5.0 of a page holding no Lua 5.0 code takes the page's cod
   expect(held.rootNames).toContain(ARRAY_AT.codePath)
 })
 
-test("a page naming no lualib feature is passed over", () => {
+test("a page naming no lualib feature either way is passed over", () => {
   const named = { luaExport: "NotAFeature", codePath: "/nowhere.ts", lua50CodePath: null }
   const held = sourcesFrom(SCANNED, [named], false)
   expect(held.rootNames).toEqual(SCANNED)
