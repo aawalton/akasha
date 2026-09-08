@@ -51,7 +51,6 @@ export const akasha = {
     "domain/mathematics",
     "domain/technology",
     "domain/all-about-alan",
-    "workspace-package/rule-population",
     "domain/machines",
     "domain/games",
     "domain/rules-engine",
