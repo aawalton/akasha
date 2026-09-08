@@ -128,6 +128,7 @@ export const clusterCheck = {
     "module/app-intent-brand-word-violations",
     "module/bin-mode-violations",
     "module/change-closure",
+    "module/check-boundary-parse",
   ],
   properties: [
     {
