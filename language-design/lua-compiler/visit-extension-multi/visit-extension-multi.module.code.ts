@@ -1,11 +1,11 @@
 import * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as extensions from "../tstl-language-extensions/tstl-language-extensions.module.code.ts"
+import * as extensions from "../language-extension-kinds/language-extension-kinds.module.code.ts"
 import {
   getExtensionKindForNode,
   getIterableExtensionKindForNode,
   IterableExtensionKind,
-} from "../tstl-language-extensions/tstl-language-extensions.module.code.ts"
+} from "../language-extension-kinds/language-extension-kinds.module.code.ts"
 import {
   findFirstNodeAbove,
   findFirstNonOuterParent,

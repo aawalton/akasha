@@ -16,11 +16,11 @@ import {
   createExportedIdentifier,
   getSymbolExportScope,
 } from "../export-scope/export-scope.module.code.ts"
-import { invalidCallExtensionUse } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import {
   getExtensionKindForNode,
   getExtensionKindForSymbol,
-} from "../tstl-language-extensions/tstl-language-extensions.module.code.ts"
+} from "../language-extension-kinds/language-extension-kinds.module.code.ts"
+import { invalidCallExtensionUse } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import { createPromiseIdentifier } from "../tstl-lualib/tstl-lualib.module.code.ts"
 import {

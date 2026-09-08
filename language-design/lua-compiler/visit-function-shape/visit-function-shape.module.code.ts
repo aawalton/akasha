@@ -1,6 +1,6 @@
 import type * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { getExtensionKindForType } from "../tstl-language-extensions/tstl-language-extensions.module.code.ts"
+import { getExtensionKindForType } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"

@@ -1,12 +1,12 @@
 import type * as ts from "typescript"
 import { LuaTarget } from "../compiler-options/compiler-options.module.code.ts"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import { unsupportedForTarget } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import {
   ExtensionKind,
   getBinaryCallExtensionArgs,
   getUnaryCallExtensionArg,
-} from "../tstl-language-extensions/tstl-language-extensions.module.code.ts"
+} from "../language-extension-kinds/language-extension-kinds.module.code.ts"
+import { unsupportedForTarget } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
 import * as luaCore from "../tstl-lua-ast-core/tstl-lua-ast-core.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import { assert } from "../tstl-utils/tstl-utils.module.code.ts"

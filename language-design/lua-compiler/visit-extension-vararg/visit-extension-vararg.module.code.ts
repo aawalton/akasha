@@ -1,7 +1,7 @@
 import type * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
-import * as extensions from "../tstl-language-extensions/tstl-language-extensions.module.code.ts"
-import { getExtensionKindForSymbol } from "../tstl-language-extensions/tstl-language-extensions.module.code.ts"
+import * as extensions from "../language-extension-kinds/language-extension-kinds.module.code.ts"
+import { getExtensionKindForSymbol } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
 import { type Scope, ScopeType } from "../tstl-scope/tstl-scope.module.code.ts"
 
 export function isGlobalVarargConstant(

@@ -5,7 +5,7 @@ import type { FunctionVisitor } from "../context-visitors/context-visitors.modul
 import {
   getIterableExtensionKindForNode,
   IterableExtensionKind,
-} from "../tstl-language-extensions/tstl-language-extensions.module.code.ts"
+} from "../language-extension-kinds/language-extension-kinds.module.code.ts"
 import * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import * as luaStatements from "../tstl-lua-ast-statements/tstl-lua-ast-statements.module.code.ts"
 import { LuaLibFeature } from "../tstl-lua-lib/tstl-lua-lib.module.code.ts"

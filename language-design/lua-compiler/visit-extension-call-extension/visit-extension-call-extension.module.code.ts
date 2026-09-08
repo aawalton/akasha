@@ -3,7 +3,7 @@ import type { TransformationContext } from "../context-transformation-context/co
 import {
   ExtensionKind,
   getExtensionKindForNode,
-} from "../tstl-language-extensions/tstl-language-extensions.module.code.ts"
+} from "../language-extension-kinds/language-extension-kinds.module.code.ts"
 import type * as luaExpressions from "../tstl-lua-ast-expressions/tstl-lua-ast-expressions.module.code.ts"
 import { operatorExtensionTransformers } from "../visit-extension-operators/visit-extension-operators.module.code.ts"
 import {

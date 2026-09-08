@@ -1,11 +1,11 @@
 import type * as ts from "typescript"
 import type { TransformationContext } from "../context-transformation-context/context-transformation-context.module.code.ts"
+import { ExtensionKind } from "../language-extension-kinds/language-extension-kinds.module.code.ts"
 import {
   invalidMultiFunctionUse,
   invalidRangeUse,
   invalidVarargUse,
 } from "../tstl-diagnostics/tstl-diagnostics.module.code.ts"
-import { ExtensionKind } from "../tstl-language-extensions/tstl-language-extensions.module.code.ts"
 
 const extensionKindToValueName: { [T in ExtensionKind]?: string } = {
   [ExtensionKind.MultiFunction]: "$multi",
