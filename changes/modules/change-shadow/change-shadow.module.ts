@@ -157,6 +157,14 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A reach whose edits will not replay comes back refused rather than throwing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reason the replay gave is the reason that reach refuses.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "An edit that will not replay throws rather than being read as an answer holding no edit.",
     },

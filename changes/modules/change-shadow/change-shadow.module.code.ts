@@ -43,7 +43,11 @@ export type Reached = {
 export async function reach(world: World, at: keyof Changes, given: unknown): Promise<Reached> {
   const said = await (world.reaching ?? REACHES_NOTHING)(world, at, given)
   if (said.refused !== null) return { said, world }
-  return { said, world: isLedger(world) ? addedTo(world, said) : worldOver(world, said) }
+  try {
+    return { said, world: isLedger(world) ? addedTo(world, said) : worldOver(world, said) }
+  } catch (cause) {
+    return { said: refusing(cause instanceof Error ? cause.message : String(cause)), world }
+  }
 }
 
 export function bytesOf(body: string | null): Uint8Array | null {
