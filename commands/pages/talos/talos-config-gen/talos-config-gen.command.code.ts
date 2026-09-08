@@ -8,7 +8,7 @@ import { emitDocumentsYaml } from "@akasha/talos/talos-emit-yaml"
 import { getClusterForNode, getNode } from "@akasha/talos/talos-nodes"
 import { readRegistryCa } from "@akasha/talos/talos-registry-ca"
 import type { ClusterIntent, NodeIntent } from "@akasha/talos/talos-schema"
-import { lines } from "../../modules/yaml-lines/yaml-lines.module.code.ts"
+import { lines } from "../../../modules/yaml-lines/yaml-lines.module.code.ts"
 
 export const NODE = "--node"
 
