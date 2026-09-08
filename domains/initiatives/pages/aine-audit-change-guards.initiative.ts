@@ -73,6 +73,5 @@ export const aineAuditChangeGuards = {
     "A guard runs on a mechanical change alone.",
     "A guard is named on the change page rather than reached by an import.",
     "Guards short-circuit, so the first refusal is the whole answer.",
-    "The hole in move-file waits.",
   ],
 } as const satisfies Initiative
