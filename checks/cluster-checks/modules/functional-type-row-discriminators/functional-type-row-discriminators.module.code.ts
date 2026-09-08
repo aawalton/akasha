@@ -41,7 +41,7 @@ function declaresLuaCompiler(configPath: string, depth: number): boolean {
   }
   const config: unknown = ts.parseConfigFileTextToJson(configPath, text).config
   if (config == null || typeof config !== "object") return false
-  if (Object.hasOwn(config, "tstl")) return true
+  if (Object.hasOwn(config, "luaCompiler")) return true
   for (const target of extendsTargets(config)) {
     const next = resolveExtendsPath(dirname(configPath), target)
     if (next === null) continue
