@@ -33,7 +33,7 @@ function property(root: string, slug: string, said: string): undefined {
     at,
     `export const held = { id: "${ID}", pageTypeSlug: "${SHAPE}", slug: "${slug}", propertySlug: "${slug}"${said} }\n`
   )
-  filed(root, `identity/${SHAPE}/slug/${slug}.jsonl`, { path: at, id: ID })
+  filed(root, `identity/page-type/${SHAPE}/slug/${slug}.jsonl`, { path: at, id: ID })
 }
 
 function kind(root: string, slug: string, afterChecks: boolean): undefined {
@@ -43,7 +43,7 @@ function kind(root: string, slug: string, afterChecks: boolean): undefined {
     at,
     `export const held = { id: "${ID}", pageTypeSlug: "${KIND}", slug: "${slug}", afterChecks: ${afterChecks} }\n`
   )
-  filed(root, `identity/${KIND}/slug/${slug}.jsonl`, { path: at, id: ID })
+  filed(root, `identity/page-type/${KIND}/slug/${slug}.jsonl`, { path: at, id: ID })
 }
 
 function typed(root: string, slug: string, declares: readonly string[]): undefined {
@@ -57,7 +57,7 @@ function typed(root: string, slug: string, declares: readonly string[]): undefin
     `export const held = { id: "${ID}", pageTypeSlug: "page-type", slug: "${slug}",` +
       ` extendsSlug: [], properties: [${carried}] }\n`
   )
-  filed(root, `identity/page-type/slug/${slug}.jsonl`, { path: at, id: ID })
+  filed(root, `identity/page-type/page-type/slug/${slug}.jsonl`, { path: at, id: ID })
 }
 
 function named(

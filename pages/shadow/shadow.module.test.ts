@@ -167,7 +167,7 @@ test("an entry file several pages name comes back with every line the landing le
 
 test("a slug two pages carry loses only the line of the page taken away", () => {
   const repo = seeded()
-  const at = "identity/domain/slug/same.jsonl"
+  const at = "identity/page-type/domain/slug/same.jsonl"
   expect(readingIn(repo).lines(at).length).toBe(2)
   expect(shadowOf(shadowFor(changeOver(repo, CHANGES))).lines(at)).toEqual([
     `{"path":"akasha/two/same.domain.ts","id":"${idOf("f")}"}`,
@@ -217,7 +217,7 @@ test("a directory the change empties is not listed, and one it fills is", () => 
   expect(reading.holds("path/akasha/one")).toBe(false)
   expect(reading.holds("path/akasha/two")).toBe(true)
   expect(reading.listing("path/akasha").map((one) => one.name)).not.toContain("deep")
-  expect(reading.listing("identity").map((one) => one.name)).toContain("tag")
+  expect(reading.listing("identity/page-type").map((one) => one.name)).toContain("tag")
 })
 
 test("a relation through a property the same change declares is filed, as a landing files it", () => {
@@ -233,7 +233,7 @@ test("a page of a page type the same change declares is in the shadow as it is i
   const repo = seeded()
   const twin = landedInto(repo, CHANGES)
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
-  const at = "identity/tag/slug/h.jsonl"
+  const at = "identity/page-type/tag/slug/h.jsonl"
   expect(reading.lines(at)).toEqual(readingIn(twin).lines(at))
 })
 
