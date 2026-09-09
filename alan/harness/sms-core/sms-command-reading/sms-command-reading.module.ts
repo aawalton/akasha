@@ -1,4 +1,4 @@
-import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const smsCommandReading = {
   id: "01a0685f-c8ed-7006-a7df-a69c84e56f74",

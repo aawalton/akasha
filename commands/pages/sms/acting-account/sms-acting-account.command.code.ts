@@ -5,7 +5,7 @@ import {
   heldAt,
   type Reading,
   wordsIn,
-} from "../../../../alan/harness/sms-core/commands/sms-command-reading/sms-command-reading.module.code.ts"
+} from "../../../../alan/harness/sms-core/sms-command-reading/sms-command-reading.module.code.ts"
 
 const SURFACE = "--surface-file"
 
