@@ -6,7 +6,7 @@ import type { Indexing } from "@akasha/indexes/indexing"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { rootOf } from "../rooting/rooting.module.code.ts"
 
-const CHECKING_IN = "@akasha/checks/checking"
+const CHECKING_IN = "akasha/checks/modules/checking/checking.module.code.ts"
 
 const INDEXING_IN = "@akasha/indexes/indexing"
 
