@@ -7,7 +7,7 @@ const ROOT = join(import.meta.dir, "..", "..", "..")
 
 const A_WALLPAPER = { pageTypeSlug: "persona", slug: "amy", key: "mobileWallpaper" }
 
-const A_PICTURE_AT = "personas/amy/amy.persona.mobile-wallpaper.png"
+const A_PICTURE_AT = "personas/pages/amy/amy.persona.mobile-wallpaper.png"
 
 const PNG = [0x89, 0x50, 0x4e, 0x47]
 
@@ -15,7 +15,7 @@ test("a page's file property is answered as the bytes beside that page", () => {
   const said = filing(ROOT, A_WALLPAPER)
   expect("bytes" in said).toBe(true)
   if (!("bytes" in said)) return
-  expect(said.path).toBe("personas/amy/amy.persona.ts")
+  expect(said.path).toBe("personas/pages/amy/amy.persona.ts")
   expect(Array.from(said.bytes.slice(0, 4))).toEqual(PNG)
   expect(Array.from(said.bytes)).toEqual(Array.from(readFileSync(join(ROOT, A_PICTURE_AT))))
 })
