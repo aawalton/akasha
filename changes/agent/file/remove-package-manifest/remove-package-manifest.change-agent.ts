@@ -83,6 +83,10 @@ export const removePackageManifest = {
     },
     {
       invariantKind: "departure",
+      statement: "A peer the manifest names optional is stated nowhere.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A dependency named for development is stated by the root among its own.",
     },
     {

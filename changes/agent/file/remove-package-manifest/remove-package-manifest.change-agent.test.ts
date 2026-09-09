@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { bodiesIn, type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
 import {
+  dependingIn,
   objectPut,
   removePackageManifest,
   runChange,
@@ -210,6 +211,14 @@ test("ways in stated as anything but an object of paths answer nothing", () => {
 
 test("a manifest naming no ways in answers a list of none", () => {
   expect(waysIn({ name: INNER }, "inner")).toEqual([])
+})
+
+test("a peer the manifest names optional is stated nowhere", () => {
+  const held = {
+    peerDependencies: { vscode: "^1.85.0", react: "^19" },
+    peerDependenciesMeta: { vscode: { optional: true } },
+  }
+  expect(dependingIn(held)?.runtime).toEqual([["react", "^19"]])
 })
 
 test("an object of no pairs is written as an empty object", () => {

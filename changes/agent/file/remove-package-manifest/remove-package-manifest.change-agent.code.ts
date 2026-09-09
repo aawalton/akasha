@@ -31,7 +31,13 @@ const DEPENDENCIES = "dependencies"
 
 const DEV_DEPENDENCIES = "devDependencies"
 
-const RUNTIME = ["dependencies", "peerDependencies", "optionalDependencies"]
+const PEER_DEPENDENCIES = "peerDependencies"
+
+const PEER_META = "peerDependenciesMeta"
+
+const OPTIONAL = "optional"
+
+const RUNTIME = [DEPENDENCIES, PEER_DEPENDENCIES, "optionalDependencies"]
 
 const OPENING = "./"
 
@@ -142,14 +148,31 @@ function namesIn(text: string): ReadonlySet<string> {
   return found
 }
 
+export function optionalIn(held: Record<string, unknown>): ReadonlySet<string> {
+  const said = held[PEER_META]
+  const found = new Set<string>()
+  if (said === null || typeof said !== "object" || Array.isArray(said)) return found
+  for (const [one, value] of Object.entries(said as Record<string, unknown>)) {
+    if (value === null || typeof value !== "object") continue
+    if ((value as Record<string, unknown>)[OPTIONAL] === true) found.add(one)
+  }
+  return found
+}
+
 export function dependingIn(held: Record<string, unknown>): Asking | null {
   for (const field of HOLDING) {
     const said = held[field]
     if (said === undefined) continue
     if (said === null || typeof said !== "object" || Array.isArray(said)) return null
   }
+  const left = optionalIn(held)
   const runtime: Pair[] = []
-  for (const field of RUNTIME) runtime.push(...pairsIn(held, field))
+  for (const field of RUNTIME) {
+    const dropping = field === PEER_DEPENDENCIES ? left : null
+    for (const one of pairsIn(held, field)) {
+      if (dropping === null || !dropping.has(one[0])) runtime.push(one)
+    }
+  }
   return { runtime, dev: pairsIn(held, DEV_DEPENDENCIES) }
 }
 
