@@ -86,7 +86,7 @@ export function preparing(
     ...worked.edits,
     ...mapped.edits,
     ...bodiedFrom(stepped.edits),
-    ...globbed.edits,
+    ...bodiedFrom(globbed.edits),
   ]
   return {
     formatting,

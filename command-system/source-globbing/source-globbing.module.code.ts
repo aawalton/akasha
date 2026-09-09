@@ -1,7 +1,7 @@
+import type { Replacing } from "@akasha/changes/change-answer/types"
 import { textOf } from "@akasha/code/body-text"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages/change"
-import type { FileEdit } from "../landing/landing.module.code.ts"
 
 const MANIFEST = "package.json"
 
@@ -34,7 +34,7 @@ export type Reached = {
 }
 
 export type Globbed = {
-  readonly edits: readonly FileEdit[]
+  readonly edits: readonly Replacing[]
   readonly said: readonly string[]
 }
 
@@ -176,7 +176,7 @@ export function globbedOver(change: Change): Globbed {
     const owner = ownerOf(path, packages)
     if (owner !== null) drawing.add(owner.name)
   }
-  const edits: FileEdit[] = []
+  const edits: Replacing[] = []
   const said: string[] = []
   for (const at of listedIn(change, STYLES_ENDING, `*${STYLES_ENDING}`)) {
     const css = textOf(change.after(at))
@@ -185,7 +185,7 @@ export function globbedOver(change: Change): Globbed {
     const body = bodyWith(css, block)
     if (body === css) continue
     const many = block === "" ? 0 : block.split("\n").length
-    edits.push({ path: at, body: new TextEncoder().encode(body) })
+    edits.push({ kind: "replace", path: at, contentFrom: css, contentTo: body })
     said.push(`\`${at}\` was written again with the ${many} source glob(s) its packages warrant`)
   }
   return { edits, said }

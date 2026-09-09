@@ -55,6 +55,14 @@ export const sourceGlobbing = {
     },
     {
       invariantKind: "departure",
+      statement: "What is written again is answered as a change rather than as a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stylesheet the change does not carry is written again by nothing here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Nothing here refuses a landing.",
     },
     {
