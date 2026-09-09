@@ -1,4 +1,4 @@
-import type { Performance } from "@akasha/code/performance"
+import type { Performance } from "akasha/code-system/performances/performance.page-type.types.ts"
 
 export const landingThroughput = {
   id: "01a08789-2005-7546-8b63-bcb5f2322cc7",

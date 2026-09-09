@@ -1,7 +1,4 @@
-import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type Performance = Module
 
 export const performance = {
   id: "01a08786-9212-746c-80e0-13134209de62",
@@ -33,4 +30,5 @@ export const performance = {
       statement: "No ceiling on processor time bounds a performance's run.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
