@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
-import type { AddonBundleImage } from "./properties/addon-bundle-image.file-property.ts"
+import type { AddonBundleImage } from "./properties/addon-bundle-image.code-file-property.ts"
 import type { AppLayout } from "./properties/app-layout.code-file-property.ts"
 import type { BundleDirectory } from "./properties/bundle-directory.build-folder-property.ts"
 import type { CompileConfig } from "./properties/compile-config.file-property.ts"
@@ -45,7 +45,7 @@ export const routerApp = {
   definition: "what serves the routes its own table declares",
   pluralSlug: "router-apps",
   partSlugs: [
-    "file-property/addon-bundle-image",
+    "code-file-property/addon-bundle-image",
     "code-file-property/app-layout",
     "file-property/compile-config",
     "file-property/placeholder-image",
@@ -74,7 +74,7 @@ export const routerApp = {
     { pagePropertySlug: "code-file-property/app-layout", required: false, many: false },
     { pagePropertySlug: "code-file-property/vite-config", required: false, many: false },
     { pagePropertySlug: "code-file-property/server", required: false, many: false },
-    { pagePropertySlug: "file-property/addon-bundle-image", required: false, many: false },
+    { pagePropertySlug: "code-file-property/addon-bundle-image", required: false, many: false },
     { pagePropertySlug: "code-file-property/sidebar-boot", required: false, many: false },
     { pagePropertySlug: "file-property/placeholder-image", required: false, many: false },
     { pagePropertySlug: "file-property/site-icon", required: false, many: false },
