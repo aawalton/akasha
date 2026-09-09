@@ -302,15 +302,6 @@ export const seatSystem = {
     "module/supervisor-uncertain-wait-decide",
     "module/supervisor-wait-resume-decide",
     "module/tick-deadline",
-    "module/document-present",
-    "module/terminal-account-launchers",
-    "module/terminal-bash",
-    "module/terminal-ended",
-    "module/terminal-entry-points",
-    "module/terminal-reload",
-    "module/terminal-seat-launchers",
-    "module/terminal-seat-marks",
-    "module/terminal-seat-stating",
     "module/launch-flags",
     "module/tool-access",
     "module/run-supervisor",
@@ -328,6 +319,7 @@ export const seatSystem = {
     "workstation-service/sweep-log-days",
     "workstation-service/sweep-supervisor-logs",
     "domain/messaging",
+    "domain/terminal-shell",
   ],
   invariants: [
     {
