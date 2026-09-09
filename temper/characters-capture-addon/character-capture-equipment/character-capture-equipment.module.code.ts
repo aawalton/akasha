@@ -3,7 +3,10 @@ import "@akasha/temper-eso-types/eso-enums-07"
 import "@akasha/temper-eso-types/eso-enums-11"
 import "@akasha/temper-eso-types/eso-functions-06"
 import "@akasha/temper-eso-types/eso-functions-08"
-import { getArmorWeightIndex, getQualityIndex } from "@akasha/temper-bit-codec/equipment-mappings"
+import {
+  getArmorWeightIndex,
+  getQualityIndex,
+} from "akasha/temper/bit-codec/equipment-mappings/equipment-mappings.module.code.ts"
 import type {
   CharacterArmorSlotData,
   CharacterJewelrySlotData,

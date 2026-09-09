@@ -53,7 +53,6 @@
   "dependencies": {
     "@akasha/temper-addon-init": "workspace:*",
     "@akasha/temper-addon-library-types": "workspace:*",
-    "@akasha/temper-bit-codec": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",
     "@akasha/temper-narrow": "workspace:*",
     "@akasha/temper-settings-panel": "workspace:*",

@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperBitCodec = {
   id: "01a060af-255f-7995-9b3e-b6dcbaae7cd7",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-bit-codec",
   definition:
     "packing a build into as few bits as the game allows, and the characters that have them",
-  manifest: "json",
   parts: [
     "module/bit-writer",
     "module/bit-reader",
@@ -27,4 +26,4 @@ export const temperBitCodec = {
       statement: "The writer and the reader take the bits in the one order.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

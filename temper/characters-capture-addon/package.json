@@ -47,7 +47,6 @@
     "./character-capture-skill-name-05": "./character-capture-skill-name-05/character-capture-skill-name-05.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-bit-codec": "workspace:*",
     "@akasha/temper-capture-shapes": "workspace:*",
     "@akasha/temper-capture-writer": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
