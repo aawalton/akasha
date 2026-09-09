@@ -9,7 +9,7 @@ export const iAmDeeplyConnected = {
   identityStatementLevel: 0,
   notionId: "c16744b3f852475499aa5bac1e0efc5d",
   identityStatementRank: "b-rank",
-  replacesStatementSlugs: ["i-am-socially-isolated"],
+  replacesStatements: ["i-am-socially-isolated"],
   identityStatementStatus: "planned",
   identityStatementValueSlug: "love",
   icon: "file-text",

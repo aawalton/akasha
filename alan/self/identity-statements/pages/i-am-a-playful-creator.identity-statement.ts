@@ -9,7 +9,7 @@ export const iAmAPlayfulCreator = {
   identityStatementLevel: 0.9,
   notionId: "60b99bd334724213af355d01b9e50713",
   identityStatementRank: "a-rank",
-  replacesStatementSlugs: ["i-am-a-nomadic-escapist"],
+  replacesStatements: ["i-am-a-nomadic-escapist"],
   identityStatementStatus: "in-progress",
   identityStatementValueSlug: "fun",
   icon: "file-text",

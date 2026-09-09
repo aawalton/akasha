@@ -9,7 +9,7 @@ export const iAmContentWhenIAm80Full = {
   identityStatementLevel: 0,
   notionId: "2d95cf0bf24a80d18fefcbe742e3372b",
   identityStatementRank: "a-rank",
-  replacesStatementSlugs: ["i-am-almost-never-hungry"],
+  replacesStatements: ["i-am-almost-never-hungry"],
   identityStatementStatus: "planned",
   identityStatementTags: ["eat"],
   identityStatementValueSlug: "health",

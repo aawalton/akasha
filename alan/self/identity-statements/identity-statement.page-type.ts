@@ -11,7 +11,7 @@ import type { IdentityStatementValueSlug } from "./properties/identity-statement
 import type { NotionId } from "./properties/notion-id.text-property.ts"
 import type { ParentStatement } from "./properties/parent-statement.relation-property.ts"
 import type { ReplacedByStatementSlugs } from "./properties/replaced-by-statement-slugs.relation-property.ts"
-import type { ReplacesStatementSlugs } from "./properties/replaces-statement-slugs.relation-property.ts"
+import type { ReplacesStatements } from "./properties/replaces-statements.relation-property.ts"
 import type { SubStatements } from "./properties/sub-statements.relation-property.ts"
 
 export type IdentityStatement = Page & {
@@ -22,7 +22,7 @@ export type IdentityStatement = Page & {
   parentStatement?: ParentStatement
   identityStatementRank: IdentityStatementRank
   replacedByStatementSlugs?: readonly ReplacedByStatementSlugs[]
-  replacesStatementSlugs?: readonly ReplacesStatementSlugs[]
+  replacesStatements?: readonly ReplacesStatements[]
   identityStatementStatus: IdentityStatementStatus
   subStatements?: readonly SubStatements[]
   identityStatementTags?: readonly IdentityStatementTags[]
@@ -42,7 +42,7 @@ export const identityStatement = {
     "relation-property/identity-statement-value-slug",
     "relation-property/parent-statement",
     "relation-property/replaced-by-statement-slugs",
-    "relation-property/replaces-statement-slugs",
+    "relation-property/replaces-statements",
     "relation-property/sub-statements",
     "select-property/about",
     "select-property/identity-statement-rank",
@@ -64,7 +64,7 @@ export const identityStatement = {
       maxCount: null,
     },
     {
-      pagePropertySlug: "relation-property/replaces-statement-slugs",
+      pagePropertySlug: "relation-property/replaces-statements",
       required: false,
       many: true,
       maxCount: null,

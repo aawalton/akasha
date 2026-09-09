@@ -9,7 +9,7 @@ export const iAmWholeFoodPlantBased = {
   identityStatementLevel: 0.6,
   notionId: "2d95cf0bf24a805094dcef901861bae1",
   identityStatementRank: "a-rank",
-  replacesStatementSlugs: ["i-eat-whatever-is-easiest"],
+  replacesStatements: ["i-eat-whatever-is-easiest"],
   identityStatementStatus: "in-progress",
   subStatements: [
     "i-like-plants",
