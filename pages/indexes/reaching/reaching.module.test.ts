@@ -43,7 +43,7 @@ function twoParents(): { readonly root: string; readonly repo: string } {
   const valued: string[] = []
   const typed = (slug: string, above: readonly string[], id: string): undefined => {
     const path = `${slug}.page-type.ts`
-    const value = { id, pageTypeSlug: "page-type", slug, extendsSlug: above }
+    const value = { id, pageTypeSlug: "page-type", slug, extends: above }
     writeFileSync(join(repo, path), `export const it = ${JSON.stringify(value)}\n`)
     mkdirSync(join(root, "identity/page-type/page-type/slug"), { recursive: true })
     writeFileSync(

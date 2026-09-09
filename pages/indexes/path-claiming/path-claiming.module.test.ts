@@ -98,7 +98,7 @@ test("the files beside a page are read from every page type above it", () => {
       id: "3",
       pageTypeSlug: "page-type",
       slug: "both",
-      extendsSlug: ["page-type/one", "page-type/two"],
+      extends: ["page-type/one", "page-type/two"],
     },
   ]
 

@@ -32,10 +32,7 @@ function typed(root: string, slug: string, above: readonly string[] | null): und
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
   const said = above === null ? "[]" : JSON.stringify(namedIn(above))
-  writeFileSync(
-    page,
-    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said} }\n`
-  )
+  writeFileSync(page, `export const held = { slug: ${JSON.stringify(slug)}, extends: ${said} }\n`)
 }
 
 test("a page type stands under itself", () => {

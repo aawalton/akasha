@@ -72,7 +72,7 @@ const NOTE: Held = {
   pageTypeSlug: "relation-property",
   slug: "note",
   propertySlug: "note",
-  targetPageTypeSlug: "domain",
+  targetPageType: "domain",
 }
 
 const CHANGES: readonly Written[] = [
@@ -88,7 +88,7 @@ const CHANGES: readonly Written[] = [
     id: idOf("t"),
     pageTypeSlug: "page-type",
     slug: "tag",
-    extendsSlug: ["page-type/domain"],
+    extends: ["page-type/domain"],
   }),
   aChange("h.tag.ts", { id: idOf("h"), pageTypeSlug: "tag", slug: "h", note: "domain/b" }),
 ]

@@ -24,8 +24,6 @@ const SLUG = "slug"
 
 const EXTENDS = "extends"
 
-const WAS_EXTENDS = "extendsSlug"
-
 const FILED_AS_IDENTITY = new Set(["id", "slug", "pageTypeSlug"])
 
 export type Wanted = string | readonly string[] | null
@@ -118,7 +116,7 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
     const value = pageOf(one.path)
     if (value === null) continue
     const slug = textAt(value, "slug")
-    const named = slugsIn(value[EXTENDS] ?? value[WAS_EXTENDS])
+    const named = slugsIn(value[EXTENDS])
     if (slug !== null && named.length > 0) above.set(slug, named)
     if (slug !== null && value[MORTAL] === true) dies.add(slug)
   }

@@ -50,7 +50,7 @@ export function typed(
   const said = above === null ? "[]" : JSON.stringify([`${PAGE_TYPE}/${above}`])
   writeFileSync(
     join(root, path),
-    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said},` +
+    `export const held = { slug: ${JSON.stringify(slug)}, extends: ${said},` +
       ` properties: [${declared(declares)}] }\n`
   )
   valueAlsoFiled(root, PAGE_TYPE, [
@@ -60,7 +60,7 @@ export function typed(
         id: `id-${slug}`,
         pageTypeSlug: PAGE_TYPE,
         slug,
-        extendsSlug: above === null ? [] : [`${PAGE_TYPE}/${above}`],
+        extends: above === null ? [] : [`${PAGE_TYPE}/${above}`],
         properties: declares.map((one) => ({ pagePropertySlug: one })),
       },
     },
@@ -123,7 +123,7 @@ export function carrying(
         id: `id-${slug}`,
         pageTypeSlug: PAGE_TYPE,
         slug,
-        extendsSlug: above === null ? [] : [`${PAGE_TYPE}/${above}`],
+        extends: above === null ? [] : [`${PAGE_TYPE}/${above}`],
         properties: declares.map((one) => ({ pagePropertySlug: one })),
       },
     },

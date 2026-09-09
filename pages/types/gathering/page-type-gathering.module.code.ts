@@ -6,8 +6,6 @@ const PAGE_TYPE = "page-type"
 
 const EXTENDS = "extends"
 
-const WAS_EXTENDS = "extendsSlug"
-
 const SLUG = "slug"
 
 const TYPE_SLUG = "pageTypeSlug"
@@ -20,7 +18,7 @@ function gatheredIn(reading: Reading): ReadonlySet<string> {
       for (const held of valuesOfType(reading, one)) {
         const slug = textAt(held.value, SLUG)
         if (slug === null || seen.has(slug)) continue
-        const above = held.value[EXTENDS] ?? held.value[WAS_EXTENDS]
+        const above = held.value[EXTENDS]
         if (!slugsIn(above).some((each) => seen.has(each))) continue
         seen.add(slug)
         grew = true

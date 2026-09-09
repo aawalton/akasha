@@ -20,8 +20,6 @@ const SAID = "pagePropertySlug"
 
 const EXTENDS = "extends"
 
-const WAS_EXTENDS = "extendsSlug"
-
 const UNIQUE_PROPERTY = "uniqueProperty"
 
 const TARGET_PAGE_TYPE = "targetPageType"
@@ -54,7 +52,7 @@ export function identityOf(one: Carried): string {
 }
 
 function aboveIn(value: Value): readonly string[] {
-  return slugsIn(value[EXTENDS] ?? value[WAS_EXTENDS])
+  return slugsIn(value[EXTENDS])
 }
 
 export function pageAt(

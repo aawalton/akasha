@@ -167,7 +167,7 @@ const EXTENDING = [
     id: "1",
     pageTypeSlug: "page-type",
     slug: "code-file-property",
-    extendsSlug: ["page-type/file-property"],
+    extends: ["page-type/file-property"],
   },
   { id: "2", pageTypeSlug: "code-file-property", slug: "lua", propertySlug: "lua" },
   {
@@ -200,11 +200,11 @@ test("a page type carries what every page type above it declares", () => {
       id: "2",
       pageTypeSlug: "page-type",
       slug: "module",
-      extendsSlug: ["page-type/domain"],
+      extends: ["page-type/domain"],
       properties: [{ pagePropertySlug: "code" }],
     },
     { id: "3", pageTypeSlug: "page-type", slug: "domain", properties: [] },
-    { id: "4", pageTypeSlug: "page-type", slug: "index", extendsSlug: ["page-type/module"] },
+    { id: "4", pageTypeSlug: "page-type", slug: "index", extends: ["page-type/module"] },
   ]
 
   const said = filePropertiesIn(values)

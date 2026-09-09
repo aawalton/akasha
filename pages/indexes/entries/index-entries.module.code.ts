@@ -23,8 +23,6 @@ const DECLARES = "pagePropertySlug"
 
 const EXTENDS = "extends"
 
-const WAS_EXTENDS = "extendsSlug"
-
 const WITHHELD = "uncommitted"
 
 export type Entry = {
@@ -57,7 +55,7 @@ type Beside = (pageTypeSlug: string | null) => boolean
 function aboveIn(types: ReadonlyMap<string, Value>): ReadonlyMap<string, readonly string[]> {
   const found = new Map<string, readonly string[]>()
   for (const [slug, value] of types) {
-    const up = slugsIn(value[EXTENDS] ?? value[WAS_EXTENDS])
+    const up = slugsIn(value[EXTENDS])
     if (up.length > 0) found.set(slug, up)
   }
   return found

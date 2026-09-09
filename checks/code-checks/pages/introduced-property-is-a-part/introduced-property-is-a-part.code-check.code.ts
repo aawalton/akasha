@@ -21,8 +21,6 @@ const WAS_PARTS = "partSlugs"
 
 const ABOVE = "extends"
 
-const WAS_ABOVE = "extendsSlug"
-
 const SLUG = "slug"
 
 export type PageType = {
@@ -57,9 +55,7 @@ export function introducedIn(one: PageType, shadow: Shadow): readonly string[] {
   const value = one.value
   if (value === null) return []
   const inherited = new Set(
-    slugsIn(value[ABOVE] ?? value[WAS_ABOVE]).flatMap((over) =>
-      shadow.index.propertiesOf(over).map(identityOf)
-    )
+    slugsIn(value[ABOVE]).flatMap((over) => shadow.index.propertiesOf(over).map(identityOf))
   )
   const own = shadow.index.declarationsOf(one.slug).filter((each) => each.declaredBy === one.slug)
   const introduced = new Set(

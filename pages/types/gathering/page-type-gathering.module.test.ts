@@ -15,14 +15,14 @@ function repoIn(): string {
       pageTypeSlug: "page-type",
       slug: "held-kind",
       pluralSlug: "held-kinds",
-      extendsSlug: ["page-type/page-type"],
+      extends: ["page-type/page-type"],
     }),
     [ONE_KIND]: bodyOf({
       id: idOf("f"),
       pageTypeSlug: "held-kind",
       slug: "one",
       pluralSlug: "ones",
-      extendsSlug: ["page-type/module"],
+      extends: ["page-type/module"],
     }),
   })
 }

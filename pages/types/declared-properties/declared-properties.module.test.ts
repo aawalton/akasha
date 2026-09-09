@@ -34,7 +34,7 @@ function typed(
   const said = named(above)
   writeFileSync(
     page,
-    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${said},` +
+    `export const held = { slug: ${JSON.stringify(slug)}, extends: ${said},` +
       ` properties: ${JSON.stringify(declared)} }\n`
   )
 }

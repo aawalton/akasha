@@ -139,7 +139,7 @@ export type Named = readonly [string, Held]
 export function aType(
   id: string,
   slug: string,
-  extendsSlug: readonly string[],
+  above: readonly string[],
   declares: readonly string[] = []
 ): Named {
   const properties = declares.map((one) => ({
@@ -147,7 +147,10 @@ export function aType(
     required: false,
     many: false,
   }))
-  return [`${slug}.page-type.ts`, { id, pageTypeSlug: "page-type", slug, extendsSlug, properties }]
+  return [
+    `${slug}.page-type.ts`,
+    { id, pageTypeSlug: "page-type", slug, extends: above, properties },
+  ]
 }
 
 export function aProperty(id: string, slug: string, shape: string, rest: Held = {}): Named {
@@ -158,7 +161,7 @@ export function thePage(value: Held): Named {
   return [`${String(value.slug)}.${String(value.pageTypeSlug)}.ts`, value]
 }
 
-export const NOTE = aProperty("8", "note", "relation-property", { targetPageTypeSlug: "domain" })
+export const NOTE = aProperty("8", "note", "relation-property", { targetPageType: "domain" })
 
 export const IDENTIFIERS: readonly Named[] = [
   aType("0", "page", [], ["id", "slug"]),
@@ -175,8 +178,8 @@ export const IDENTIFIERS: readonly Named[] = [
 export const VOCABULARY: readonly Named[] = [
   ...IDENTIFIERS,
   aType("11", "file-property", ["page-property"]),
-  aProperty("3", "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
-  aProperty("4", "domain-slug", "relation-property", { targetPageTypeSlug: "domain" }),
+  aProperty("3", "part-slugs", "relation-property", { targetPageType: "domain" }),
+  aProperty("4", "domain-slug", "relation-property", { targetPageType: "domain" }),
   aProperty("6", "code", "file-property"),
   aProperty("7", "test", "file-property"),
 ]
@@ -282,7 +285,7 @@ export function retyped(
 }
 
 export const TYPE_SLUG: Named = aProperty(idOf("e"), "type-slug", "relation-property", {
-  targetPageTypeSlug: "page-type",
+  targetPageType: "page-type",
 })
 
 export const namingAType = (slug: string): Named =>
@@ -345,8 +348,8 @@ const REPO_VOCABULARY: readonly Named[] = [
   aProperty(idOf("7"), "code", "file-property"),
   aProperty("01a04a4a-0002-7000-8000-000000000007", "test", "file-property"),
   aType(idOf("a"), "relation-property", ["page-type/page-property"]),
-  aProperty(idOf("b"), "note", "relation-property", { targetPageTypeSlug: "module" }),
-  aProperty(idOf("c"), "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
+  aProperty(idOf("b"), "note", "relation-property", { targetPageType: "module" }),
+  aProperty(idOf("c"), "part-slugs", "relation-property", { targetPageType: "domain" }),
 ]
 
 const changePage = (reached: Reached, one: number): Held => ({

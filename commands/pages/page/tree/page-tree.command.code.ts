@@ -25,8 +25,6 @@ const TARGET_PAGE_TYPE = "targetPageType"
 
 const EXTENDS = "extends"
 
-const WAS_EXTENDS = "extendsSlug"
-
 export interface Row {
   readonly at: string
   readonly values: Readonly<Record<string, string | readonly string[] | null>>
@@ -86,7 +84,7 @@ function reachesProperty(slug: string, types: ReadonlyMap<string, Value>): boole
     if (walked.has(at)) continue
     walked.add(at)
     const above = types.get(at)
-    if (above !== undefined) ahead.push(...slugsIn(above[EXTENDS] ?? above[WAS_EXTENDS]))
+    if (above !== undefined) ahead.push(...slugsIn(above[EXTENDS]))
   }
 }
 
@@ -172,7 +170,7 @@ export function answersFrom(
     const slug = textAt(one.value, "slug")
     if (slug === null) continue
     const at = atOf(one.path)
-    const above = slugsIn(one.value[EXTENDS] ?? one.value[WAS_EXTENDS])
+    const above = slugsIn(one.value[EXTENDS])
     if (above.length === 0) {
       types.push({ at, values: { slug, "extends-slug": NO_PARENT } })
       continue

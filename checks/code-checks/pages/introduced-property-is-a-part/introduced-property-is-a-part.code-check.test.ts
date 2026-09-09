@@ -44,7 +44,7 @@ function aboveValued(above: string | readonly string[] | null): readonly string[
 
 function abovedIn(above: string | readonly string[] | null): string {
   const named = aboveValued(above)
-  return named === null ? "" : `, extendsSlug: ${JSON.stringify(named)}`
+  return named === null ? "" : `, extends: ${JSON.stringify(named)}`
 }
 
 function stated(
@@ -79,7 +79,7 @@ function typed(
         id: `id-${slug}`,
         pageTypeSlug: PAGE_TYPE,
         slug,
-        ...(named === null ? {} : { extendsSlug: named }),
+        ...(named === null ? {} : { extends: named }),
         properties: declares.map((one) => ({ pagePropertySlug: one })),
         partSlugs: parts,
       },

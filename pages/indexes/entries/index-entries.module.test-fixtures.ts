@@ -71,13 +71,13 @@ export function grounded(): { readonly root: string; readonly repo: string } {
     id: "1",
     pageTypeSlug: "page-type",
     slug: "domain",
-    extendsSlug: ["page"],
+    extends: ["page"],
   })
   page("module.page-type.ts", {
     id: "2",
     pageTypeSlug: "page-type",
     slug: "module",
-    extendsSlug: ["domain"],
+    extends: ["domain"],
   })
   page("parts.record-property.ts", {
     id: "3",
@@ -239,7 +239,7 @@ export const TWO_ABOVE: readonly Value[] = [
     id: "5",
     pageTypeSlug: "page-type",
     slug: "both",
-    extendsSlug: ["page-type/one", "page-type/two"],
+    extends: ["page-type/one", "page-type/two"],
   },
 ]
 
@@ -258,12 +258,12 @@ export const NEARER: readonly Value[] = [
     slug: "near",
     properties: [{ pagePropertySlug: "file-property/near-manifest" }],
   },
-  { id: "c", pageTypeSlug: "page-type", slug: "mid", extendsSlug: ["page-type/far"] },
+  { id: "c", pageTypeSlug: "page-type", slug: "mid", extends: ["page-type/far"] },
   {
     id: "d",
     pageTypeSlug: "page-type",
     slug: "leaf",
-    extendsSlug: ["page-type/near", "page-type/mid"],
+    extends: ["page-type/near", "page-type/mid"],
   },
 ]
 
@@ -286,6 +286,6 @@ export const EQUALLY_NEAR: readonly Value[] = [
     id: "c",
     pageTypeSlug: "page-type",
     slug: "leaf",
-    extendsSlug: ["page-type/first-parent", "page-type/second-parent"],
+    extends: ["page-type/first-parent", "page-type/second-parent"],
   },
 ]

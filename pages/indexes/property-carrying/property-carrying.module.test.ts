@@ -77,7 +77,7 @@ function declares(root: string, named: string, by: string, at: string): undefine
 }
 
 function extending(root: string, above: string, below: string, at: string): undefined {
-  relationFiled(root, above, "extends-slug", below, [{ path: at }])
+  relationFiled(root, above, "extends-type", below, [{ path: at }])
 }
 
 function rooted(): string {
