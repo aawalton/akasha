@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0056Chapter533MonarchOfFlame = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 56,
   ownLength: 2796,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3037525/chapter-533-monarch-of-flame",

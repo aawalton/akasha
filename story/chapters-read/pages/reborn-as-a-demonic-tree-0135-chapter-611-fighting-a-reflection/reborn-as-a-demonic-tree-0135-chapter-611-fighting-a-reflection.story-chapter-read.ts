@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0135Chapter611FightingAReflection = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 135,
   ownLength: 2835,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3892004/chapter-611-fighting-a-reflection",

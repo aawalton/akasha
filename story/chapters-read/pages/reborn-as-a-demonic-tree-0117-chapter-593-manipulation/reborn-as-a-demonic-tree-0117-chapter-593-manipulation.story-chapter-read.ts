@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0117Chapter593Manipulation = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 117,
   ownLength: 2965,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3703376/chapter-593-manipulation",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0028Chapter460CompanyBenefits = {
   story: "story-read/rise-of-the-living-forge",
   position: 28,
   ownLength: 2011,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2459842/chapter-460-company-benefits",

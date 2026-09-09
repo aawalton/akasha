@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0068Chapter501And502TheCrimsonNightAndImportant
   story: "story-read/rise-of-the-living-forge",
   position: 68,
   ownLength: 3954,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2678621/chapter-501-502-the-crimson-night-important-announcement",

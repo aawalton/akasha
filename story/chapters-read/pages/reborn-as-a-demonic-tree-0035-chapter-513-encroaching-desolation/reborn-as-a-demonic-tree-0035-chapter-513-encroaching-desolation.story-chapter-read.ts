@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0035Chapter513EncroachingDesolation = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 35,
   ownLength: 3008,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2851704/chapter-513-encroaching-desolation",

@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0078FacelessHunterOutOnKu = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 78,
   ownLength: 214,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3238849/faceless-hunter-out-on-ku",

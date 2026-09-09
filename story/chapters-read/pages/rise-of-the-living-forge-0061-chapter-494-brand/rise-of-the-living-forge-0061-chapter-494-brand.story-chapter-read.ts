@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0061Chapter494Brand = {
   story: "story-read/rise-of-the-living-forge",
   position: 61,
   ownLength: 1713,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2643522/chapter-494-brand",

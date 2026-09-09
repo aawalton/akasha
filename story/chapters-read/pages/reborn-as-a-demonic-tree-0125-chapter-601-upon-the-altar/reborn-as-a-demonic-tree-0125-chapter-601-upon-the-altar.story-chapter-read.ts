@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0125Chapter601UponTheAltar = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 125,
   ownLength: 3225,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3783762/chapter-601-upon-the-altar",

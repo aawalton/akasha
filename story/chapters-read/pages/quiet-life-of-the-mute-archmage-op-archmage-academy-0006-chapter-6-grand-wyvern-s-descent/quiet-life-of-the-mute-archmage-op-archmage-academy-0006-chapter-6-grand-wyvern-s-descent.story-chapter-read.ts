@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0006Chapter6GrandWyvernS
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 6,
   ownLength: 1781,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3389270/chapter-6-grand-wyverns-descent",

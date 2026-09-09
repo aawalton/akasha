@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0157Chapter157ISurrender = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 157,
   ownLength: 2132,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3759020/chapter-157-i-surrender",

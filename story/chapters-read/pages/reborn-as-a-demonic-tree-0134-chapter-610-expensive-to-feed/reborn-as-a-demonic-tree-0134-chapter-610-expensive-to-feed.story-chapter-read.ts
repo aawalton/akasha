@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0134Chapter610ExpensiveToFeed = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 134,
   ownLength: 2570,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3878417/chapter-610-expensive-to-feed",

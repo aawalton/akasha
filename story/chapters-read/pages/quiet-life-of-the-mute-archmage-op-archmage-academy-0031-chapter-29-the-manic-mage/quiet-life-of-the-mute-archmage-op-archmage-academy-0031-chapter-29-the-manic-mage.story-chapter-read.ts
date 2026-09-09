@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0031Chapter29TheManicMag
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 31,
   ownLength: 2538,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3629029/chapter-29-the-manic-mage",

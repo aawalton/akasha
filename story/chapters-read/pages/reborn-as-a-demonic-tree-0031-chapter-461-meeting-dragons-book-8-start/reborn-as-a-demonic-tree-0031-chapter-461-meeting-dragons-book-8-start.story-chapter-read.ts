@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0031Chapter461MeetingDragonsBook8Start = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 31,
   ownLength: 3328,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2473772/chapter-461-meeting-dragons-book-8-start",

@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0020Chapter18BornDetecti
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 20,
   ownLength: 2092,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3484622/chapter-18-born-detective",

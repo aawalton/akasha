@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0032Chapter30Plan = {
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 32,
   ownLength: 2763,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3650418/chapter-30-plan",

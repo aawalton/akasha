@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0059Chapter536FallingStar = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 59,
   ownLength: 2969,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3068868/chapter-536-falling-star",

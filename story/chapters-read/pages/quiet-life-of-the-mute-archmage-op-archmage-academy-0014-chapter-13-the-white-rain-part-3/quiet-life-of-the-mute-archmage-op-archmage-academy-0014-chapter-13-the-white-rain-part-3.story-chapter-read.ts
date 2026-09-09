@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0014Chapter13TheWhiteRai
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 14,
   ownLength: 2960,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3433995/chapter-13-the-white-rain-part-3",

@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0096Chapter572AnInvitationAndReturn = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 96,
   ownLength: 2759,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3445511/chapter-572-an-invitation-and-return",

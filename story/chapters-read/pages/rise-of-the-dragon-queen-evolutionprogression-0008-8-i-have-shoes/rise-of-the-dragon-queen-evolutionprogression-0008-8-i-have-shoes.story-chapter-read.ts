@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00088IHaveShoes = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 8,
   ownLength: 2318,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2598063/8-i-have-shoes",

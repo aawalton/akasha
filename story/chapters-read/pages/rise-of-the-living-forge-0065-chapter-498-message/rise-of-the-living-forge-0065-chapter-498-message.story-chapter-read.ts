@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0065Chapter498Message = {
   story: "story-read/rise-of-the-living-forge",
   position: 65,
   ownLength: 1546,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2663683/chapter-498-message",

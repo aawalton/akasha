@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0041Chapter474ScarredHand = {
   story: "story-read/rise-of-the-living-forge",
   position: 41,
   ownLength: 2181,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2517956/chapter-474-scarred-hand",

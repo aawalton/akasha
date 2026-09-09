@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0034Chapter512CelestialWarStartOfBook9 = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 34,
   ownLength: 3047,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2842525/chapter-512-celestial-war-start-of-book-9",

@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00044EvolveOrDie = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 4,
   ownLength: 1990,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2561074/4-evolve-or-die",

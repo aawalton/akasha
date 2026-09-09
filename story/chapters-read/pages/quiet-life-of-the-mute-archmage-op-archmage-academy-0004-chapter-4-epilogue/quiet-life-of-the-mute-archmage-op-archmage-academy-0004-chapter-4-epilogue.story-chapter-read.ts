@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0004Chapter4Epilogue = {
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 4,
   ownLength: 2178,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3389106/chapter-4-epilogue",

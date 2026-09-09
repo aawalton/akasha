@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0055Chapter488TheFirstAct = {
   story: "story-read/rise-of-the-living-forge",
   position: 55,
   ownLength: 2495,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2620301/chapter-488-the-first-act",

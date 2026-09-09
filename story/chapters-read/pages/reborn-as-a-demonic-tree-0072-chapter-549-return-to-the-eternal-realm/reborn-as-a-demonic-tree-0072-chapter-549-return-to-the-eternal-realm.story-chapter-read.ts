@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0072Chapter549ReturnToTheEternalRealm = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 72,
   ownLength: 2915,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3185120/chapter-549-return-to-the-eternal-realm",

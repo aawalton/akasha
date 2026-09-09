@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0026Chapter458AuraFarming = {
   story: "story-read/rise-of-the-living-forge",
   position: 26,
   ownLength: 1593,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2454469/chapter-458-aura-farming",

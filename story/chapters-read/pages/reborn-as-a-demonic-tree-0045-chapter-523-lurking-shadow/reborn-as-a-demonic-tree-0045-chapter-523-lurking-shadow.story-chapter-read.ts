@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0045Chapter523LurkingShadow = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 45,
   ownLength: 2390,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2927547/chapter-523-lurking-shadow",

@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0070Chapter547FedToTheAbyss = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 70,
   ownLength: 2631,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3166762/chapter-547-fed-to-the-abyss",

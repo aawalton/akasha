@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0052Chapter485Prepared = {
   story: "story-read/rise-of-the-living-forge",
   position: 52,
   ownLength: 1625,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2605047/chapter-485-prepared",

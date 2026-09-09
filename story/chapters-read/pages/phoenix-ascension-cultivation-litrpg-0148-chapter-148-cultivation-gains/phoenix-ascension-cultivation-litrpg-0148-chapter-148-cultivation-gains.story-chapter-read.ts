@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0148Chapter148CultivationGains = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 148,
   ownLength: 1631,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3649918/chapter-148-cultivation-gains",

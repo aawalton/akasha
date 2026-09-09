@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression00055TheFamiliarHorn = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 5,
   ownLength: 2096,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2569014/5-the-familiar-horn",

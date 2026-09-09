@@ -7,7 +7,7 @@ export const rebornAsADemonicTree0137Chapter613ASingleTree = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 137,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3912698",
   source: "royal-road",
   title: "Chapter 613: A Single Tree",

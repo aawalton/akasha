@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0024Chapter456ClassAct = {
   story: "story-read/rise-of-the-living-forge",
   position: 24,
   ownLength: 2122,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2440154/chapter-456-class-act",

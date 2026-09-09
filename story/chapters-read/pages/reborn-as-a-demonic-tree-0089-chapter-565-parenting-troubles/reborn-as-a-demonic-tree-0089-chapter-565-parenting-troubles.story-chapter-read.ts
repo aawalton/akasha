@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0089Chapter565ParentingTroubles = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 89,
   ownLength: 2817,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3334375/chapter-565-parenting-troubles",

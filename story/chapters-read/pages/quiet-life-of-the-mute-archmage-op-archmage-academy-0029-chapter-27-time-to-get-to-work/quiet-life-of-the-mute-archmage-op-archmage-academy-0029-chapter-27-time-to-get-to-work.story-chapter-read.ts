@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0029Chapter27TimeToGetTo
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 29,
   ownLength: 3044,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3596106/chapter-27-time-to-get-to-work",

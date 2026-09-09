@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0064Chapter541ThousandfoldBloom = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 64,
   ownLength: 2227,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3116714/chapter-541-thousandfold-bloom",

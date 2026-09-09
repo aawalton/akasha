@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0076Chapter510MakingMonsters = {
   story: "story-read/rise-of-the-living-forge",
   position: 76,
   ownLength: 2078,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2717383/chapter-510-making-monsters",

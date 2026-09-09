@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0017Chapter275Solutions = {
   story: "story-read/rise-of-the-living-forge",
   position: 17,
   ownLength: 1753,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1805972/chapter-275-solutions",

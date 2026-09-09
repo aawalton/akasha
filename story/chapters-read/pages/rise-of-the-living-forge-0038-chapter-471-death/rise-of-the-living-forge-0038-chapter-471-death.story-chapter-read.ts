@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0038Chapter471Death = {
   story: "story-read/rise-of-the-living-forge",
   position: 38,
   ownLength: 1986,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2509764/chapter-471-death",

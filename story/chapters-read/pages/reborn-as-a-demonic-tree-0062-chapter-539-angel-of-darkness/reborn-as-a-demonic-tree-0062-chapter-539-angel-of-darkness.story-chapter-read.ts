@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0062Chapter539AngelOfDarkness = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 62,
   ownLength: 2868,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3099349/chapter-539-angel-of-darkness",

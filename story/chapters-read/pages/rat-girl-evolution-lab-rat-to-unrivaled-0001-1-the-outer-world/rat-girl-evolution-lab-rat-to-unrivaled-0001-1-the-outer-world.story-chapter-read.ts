@@ -8,7 +8,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00011TheOuterWorld = {
   story: "rat-girl-evolution-lab-rat-to-unrivaled",
   position: 1,
   ownLength: 2257,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572793/1-the-outer-world",

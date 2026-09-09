@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0022Book5CoverFanArt = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 22,
   ownLength: 166,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1753217/book-5-cover-fan-art",

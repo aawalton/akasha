@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0037Chapter515NestOfRats = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 37,
   ownLength: 2723,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2862698/chapter-515-nest-of-rats",

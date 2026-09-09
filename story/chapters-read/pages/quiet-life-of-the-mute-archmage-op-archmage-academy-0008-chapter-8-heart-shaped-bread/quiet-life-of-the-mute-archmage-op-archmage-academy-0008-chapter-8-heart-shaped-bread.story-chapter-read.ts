@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0008Chapter8HeartShapedB
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 8,
   ownLength: 2244,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3393706/chapter-8-heart-shaped-bread",

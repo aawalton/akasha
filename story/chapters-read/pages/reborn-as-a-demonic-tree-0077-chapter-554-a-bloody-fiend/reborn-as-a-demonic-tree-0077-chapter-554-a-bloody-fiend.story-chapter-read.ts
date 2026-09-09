@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0077Chapter554ABloodyFiend = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 77,
   ownLength: 2817,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3228271/chapter-554-a-bloody-fiend",

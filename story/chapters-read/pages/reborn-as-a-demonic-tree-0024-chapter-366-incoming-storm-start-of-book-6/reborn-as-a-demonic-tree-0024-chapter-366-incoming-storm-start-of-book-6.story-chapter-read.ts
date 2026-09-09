@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0024Chapter366IncomingStormStartOfBook6 = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 24,
   ownLength: 3240,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1888997/chapter-366-incoming-storm-start-of-book-6",

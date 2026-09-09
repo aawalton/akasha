@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0121Chapter597ChaoticBattle = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 121,
   ownLength: 2637,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3743210/chapter-597-chaotic-battle",

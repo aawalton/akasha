@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0130Chapter606AshfallenEmpire = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 130,
   ownLength: 2561,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3835852/chapter-606-ashfallen-empire",

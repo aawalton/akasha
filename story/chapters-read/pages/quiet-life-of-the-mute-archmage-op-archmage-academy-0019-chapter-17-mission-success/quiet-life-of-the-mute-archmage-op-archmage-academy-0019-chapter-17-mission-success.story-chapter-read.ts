@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0019Chapter17MissionSucc
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 19,
   ownLength: 2080,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3474949/chapter-17-mission-success",

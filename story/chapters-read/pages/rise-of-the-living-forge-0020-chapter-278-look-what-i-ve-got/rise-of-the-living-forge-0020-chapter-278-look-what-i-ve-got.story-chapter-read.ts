@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0020Chapter278LookWhatIVeGot = {
   story: "story-read/rise-of-the-living-forge",
   position: 20,
   ownLength: 3158,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/1811987/chapter-278-look-what-ive-got",

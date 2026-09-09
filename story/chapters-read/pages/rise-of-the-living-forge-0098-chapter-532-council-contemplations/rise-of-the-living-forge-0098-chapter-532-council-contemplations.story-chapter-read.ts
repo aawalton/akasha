@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0098Chapter532CouncilContemplations = {
   story: "story-read/rise-of-the-living-forge",
   position: 98,
   ownLength: 1618,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2876530/chapter-532-council-contemplations",

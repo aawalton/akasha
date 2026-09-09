@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0171Chapter171TowardTheFourCornerS
   story: "phoenix-ascension-cultivation-litrpg",
   position: 171,
   ownLength: 2374,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3901460/chapter-171-toward-the-four-corner-sword-realm",

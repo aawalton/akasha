@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0069Chapter503Bargain = {
   story: "story-read/rise-of-the-living-forge",
   position: 69,
   ownLength: 1780,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2681182/chapter-503-bargain",

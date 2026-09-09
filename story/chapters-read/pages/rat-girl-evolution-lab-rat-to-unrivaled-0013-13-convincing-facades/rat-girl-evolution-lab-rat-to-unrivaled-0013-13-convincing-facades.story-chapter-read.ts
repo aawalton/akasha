@@ -8,7 +8,7 @@ export const ratGirlEvolutionLabRatToUnrivaled001313ConvincingFacades = {
   story: "rat-girl-evolution-lab-rat-to-unrivaled",
   position: 13,
   ownLength: 2266,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2634970/13-convincing-facades",

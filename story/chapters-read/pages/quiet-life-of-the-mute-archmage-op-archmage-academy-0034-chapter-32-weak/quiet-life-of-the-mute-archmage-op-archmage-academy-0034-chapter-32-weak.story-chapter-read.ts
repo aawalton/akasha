@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0034Chapter32Weak = {
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 34,
   ownLength: 2643,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3682452/chapter-32-weak",

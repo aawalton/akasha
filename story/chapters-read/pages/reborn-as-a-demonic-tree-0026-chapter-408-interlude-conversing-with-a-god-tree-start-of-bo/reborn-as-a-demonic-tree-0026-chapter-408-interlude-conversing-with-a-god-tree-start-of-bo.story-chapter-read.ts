@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0026Chapter408InterludeConversingWithAGodTreeSt
   story: "story-read/reborn-as-a-demonic-tree",
   position: 26,
   ownLength: 3230,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2087194/chapter-408-interlude-conversing-with-a-god-tree",

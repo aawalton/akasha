@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0116Chapter592ArchdemonSummoning = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 116,
   ownLength: 2525,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3690763/chapter-592-archdemon-summoning",

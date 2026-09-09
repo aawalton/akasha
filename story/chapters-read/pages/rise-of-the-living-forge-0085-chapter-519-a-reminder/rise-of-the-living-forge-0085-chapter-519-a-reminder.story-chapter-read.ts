@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0085Chapter519AReminder = {
   story: "story-read/rise-of-the-living-forge",
   position: 85,
   ownLength: 1506,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2772080/chapter-519-a-reminder",

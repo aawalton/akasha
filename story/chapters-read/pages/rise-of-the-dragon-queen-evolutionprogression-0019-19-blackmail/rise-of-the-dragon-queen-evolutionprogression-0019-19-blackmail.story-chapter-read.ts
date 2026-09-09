@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression001919Blackmail = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 19,
   ownLength: 2242,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2694462/19-blackmail",

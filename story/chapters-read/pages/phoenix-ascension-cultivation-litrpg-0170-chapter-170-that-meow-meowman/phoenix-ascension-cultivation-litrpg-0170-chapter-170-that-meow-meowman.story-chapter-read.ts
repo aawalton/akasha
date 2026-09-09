@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0170Chapter170ThatMeowMeowman = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 170,
   ownLength: 2682,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3892313/chapter-170-that-meow-meowman",

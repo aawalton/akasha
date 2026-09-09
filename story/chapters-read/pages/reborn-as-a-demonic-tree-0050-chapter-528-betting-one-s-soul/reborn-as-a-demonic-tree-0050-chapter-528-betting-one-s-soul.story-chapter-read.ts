@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0050Chapter528BettingOneSSoul = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 50,
   ownLength: 2920,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2965421/chapter-528-betting-ones-soul",

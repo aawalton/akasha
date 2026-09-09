@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0084Chapter560TravelTheStarsEndOfBook9 = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 84,
   ownLength: 3099,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3286686/chapter-560-travel-the-stars-end-of-book-9",

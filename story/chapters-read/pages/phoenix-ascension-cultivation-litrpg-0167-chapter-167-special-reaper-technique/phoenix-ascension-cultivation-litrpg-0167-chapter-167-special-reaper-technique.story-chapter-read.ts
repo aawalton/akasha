@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0167Chapter167SpecialReaperTechniq
   story: "phoenix-ascension-cultivation-litrpg",
   position: 167,
   ownLength: 2179,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3864496/chapter-167-special-reaper-technique",

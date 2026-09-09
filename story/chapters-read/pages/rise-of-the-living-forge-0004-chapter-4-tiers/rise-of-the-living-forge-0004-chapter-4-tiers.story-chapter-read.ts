@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0004Chapter4Tiers = {
   story: "story-read/rise-of-the-living-forge",
   position: 4,
   ownLength: 2267,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1460015/chapter-4-tiers",

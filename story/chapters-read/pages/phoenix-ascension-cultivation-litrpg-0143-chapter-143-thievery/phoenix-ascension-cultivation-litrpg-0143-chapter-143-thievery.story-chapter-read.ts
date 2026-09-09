@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0143Chapter143Thievery = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 143,
   ownLength: 2135,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3581343/chapter-143-thievery",

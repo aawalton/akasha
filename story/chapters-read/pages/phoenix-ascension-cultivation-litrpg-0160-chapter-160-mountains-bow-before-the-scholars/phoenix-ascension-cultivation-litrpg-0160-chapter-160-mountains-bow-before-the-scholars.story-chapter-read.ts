@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0160Chapter160MountainsBowBeforeTh
   story: "phoenix-ascension-cultivation-litrpg",
   position: 160,
   ownLength: 2228,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3790528/chapter-160-mountains-bow-before-the-scholars",

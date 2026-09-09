@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0095Chapter626Rubble = {
   story: "story-read/rise-of-the-living-forge",
   position: 95,
   ownLength: 1868,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3768621/chapter-626-rubble",

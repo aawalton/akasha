@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0033Chapter511InvasionEndOfBook8 = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 33,
   ownLength: 2809,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2836647/chapter-511-invasion-end-of-book-8",

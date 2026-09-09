@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0080Chapter556BlazingSunrise = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 80,
   ownLength: 2738,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3249112/chapter-556-blazing-sunrise",

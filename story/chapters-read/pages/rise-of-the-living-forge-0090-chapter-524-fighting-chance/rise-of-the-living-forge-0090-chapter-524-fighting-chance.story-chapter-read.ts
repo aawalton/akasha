@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0090Chapter524FightingChance = {
   story: "story-read/rise-of-the-living-forge",
   position: 90,
   ownLength: 1740,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2813586/chapter-524-fighting-chance",

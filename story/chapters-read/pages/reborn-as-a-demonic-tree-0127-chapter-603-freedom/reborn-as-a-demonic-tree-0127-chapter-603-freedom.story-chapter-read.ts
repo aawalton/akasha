@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0127Chapter603Freedom = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 127,
   ownLength: 2891,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3805615/chapter-603-freedom",

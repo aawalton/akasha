@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0032Book7IsUpOnAmazonBook8CoverReveal = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 32,
   ownLength: 175,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2626947/book-7-is-up-on-amazon-book-8-cover-reveal",

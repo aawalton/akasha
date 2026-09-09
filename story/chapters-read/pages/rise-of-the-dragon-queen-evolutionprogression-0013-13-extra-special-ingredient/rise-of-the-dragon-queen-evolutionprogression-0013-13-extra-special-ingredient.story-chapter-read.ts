@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression001313ExtraSpecialIngredien
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 13,
   ownLength: 1849,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2641312/13-extra-special-ingredient",

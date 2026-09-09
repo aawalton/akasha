@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0055AnnouncementTreeDeluxeEditionAudiobookNewSe
   story: "story-read/reborn-as-a-demonic-tree",
   position: 55,
   ownLength: 224,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3032714/announcement-tree-deluxe-edition-audiobook-new",

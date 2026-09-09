@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0080Chapter514Productive = {
   story: "story-read/rise-of-the-living-forge",
   position: 80,
   ownLength: 2071,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2748824/chapter-514-productive",

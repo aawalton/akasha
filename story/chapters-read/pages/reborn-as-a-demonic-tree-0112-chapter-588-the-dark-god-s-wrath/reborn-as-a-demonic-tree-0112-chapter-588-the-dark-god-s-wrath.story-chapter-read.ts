@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0112Chapter588TheDarkGodSWrath = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 112,
   ownLength: 2596,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3618605/chapter-588-the-dark-gods-wrath",

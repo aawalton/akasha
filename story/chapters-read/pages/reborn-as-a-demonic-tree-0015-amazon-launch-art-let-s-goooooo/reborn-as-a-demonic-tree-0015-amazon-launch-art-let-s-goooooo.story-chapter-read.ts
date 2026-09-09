@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0015AmazonLaunchArtLetSGoooooo = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 15,
   ownLength: 442,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1408847/amazon-launch-art-lets-goooooo",

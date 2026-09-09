@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0068Chapter545Demise = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 68,
   ownLength: 3103,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3148769/chapter-545-demise",

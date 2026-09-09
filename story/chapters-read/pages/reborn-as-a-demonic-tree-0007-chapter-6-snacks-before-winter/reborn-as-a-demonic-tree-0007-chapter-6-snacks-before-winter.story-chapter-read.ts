@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0007Chapter6SnacksBeforeWinter = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 7,
   ownLength: 1567,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081482/chapter-6-snacks-before-winter",

@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0065Chapter542BlackToken = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 65,
   ownLength: 2730,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3124014/chapter-542-black-token",

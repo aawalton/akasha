@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0030DemonicTreeLightNovelJobOpportunity = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 30,
   ownLength: 588,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2458521/demonic-tree-light-novel-job-opportunity",

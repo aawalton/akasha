@@ -8,7 +8,7 @@ export const ratGirlEvolutionLabRatToUnrivaled001010CleanBreaks = {
   story: "rat-girl-evolution-lab-rat-to-unrivaled",
   position: 10,
   ownLength: 2254,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2586488/10-clean-breaks",

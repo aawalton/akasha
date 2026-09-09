@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0054Chapter532PrimordialForceOfAbsorption = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 54,
   ownLength: 2651,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3029724/chapter-532-primordial-force-of-absorption",

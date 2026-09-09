@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0044Chapter522ActionsSpeakLouderThanWords = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 44,
   ownLength: 2897,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2921131/chapter-522-actions-speak-louder-than-words",

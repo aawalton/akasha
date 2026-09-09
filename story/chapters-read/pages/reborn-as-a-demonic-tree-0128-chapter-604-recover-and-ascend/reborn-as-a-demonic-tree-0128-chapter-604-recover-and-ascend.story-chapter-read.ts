@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0128Chapter604RecoverAndAscend = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 128,
   ownLength: 2709,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3814642/chapter-604-recover-and-ascend",

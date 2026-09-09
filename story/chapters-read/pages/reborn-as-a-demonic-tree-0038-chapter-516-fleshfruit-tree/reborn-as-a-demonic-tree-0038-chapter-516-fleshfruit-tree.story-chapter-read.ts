@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0038Chapter516FleshfruitTree = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 38,
   ownLength: 2934,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2870968/chapter-516-fleshfruit-tree",

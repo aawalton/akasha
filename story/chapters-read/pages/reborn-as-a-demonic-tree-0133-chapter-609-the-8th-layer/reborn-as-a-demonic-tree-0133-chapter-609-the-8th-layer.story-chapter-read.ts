@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0133Chapter609The8thLayer = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 133,
   ownLength: 2395,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3868913/chapter-609-the-8th-layer",

@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0039Chapter517HumbleBeginnings = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 39,
   ownLength: 2780,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2882882/chapter-517-humble-beginnings",

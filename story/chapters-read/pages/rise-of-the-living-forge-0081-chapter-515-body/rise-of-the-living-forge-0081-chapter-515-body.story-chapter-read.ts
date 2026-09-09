@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0081Chapter515Body = {
   story: "story-read/rise-of-the-living-forge",
   position: 81,
   ownLength: 1839,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2751909/chapter-515-body",

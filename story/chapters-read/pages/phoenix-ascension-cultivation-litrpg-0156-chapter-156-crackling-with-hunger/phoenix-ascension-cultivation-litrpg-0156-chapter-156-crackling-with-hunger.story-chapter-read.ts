@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0156Chapter156CracklingWithHunger 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 156,
   ownLength: 2143,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3743451/chapter-156-crackling-with-hunger",

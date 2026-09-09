@@ -8,7 +8,7 @@ export const ratGirlEvolutionLabRatToUnrivaled001111TroubledLivingWaters = {
   story: "rat-girl-evolution-lab-rat-to-unrivaled",
   position: 11,
   ownLength: 2390,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2594183/11-troubled-living-waters",

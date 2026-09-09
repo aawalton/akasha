@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0022Chapter454TradeOfferStartOfBook6 = {
   story: "story-read/rise-of-the-living-forge",
   position: 22,
   ownLength: 2463,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/2427098/chapter-454-trade-offer-start-of-book-6",

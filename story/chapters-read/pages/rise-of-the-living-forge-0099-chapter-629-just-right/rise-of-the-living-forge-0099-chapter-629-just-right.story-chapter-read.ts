@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0099Chapter629JustRight = {
   story: "story-read/rise-of-the-living-forge",
   position: 99,
   ownLength: 1877,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3795095/chapter-629-just-right",

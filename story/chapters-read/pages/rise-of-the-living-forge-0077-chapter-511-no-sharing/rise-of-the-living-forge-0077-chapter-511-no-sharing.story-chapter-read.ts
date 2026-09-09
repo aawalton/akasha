@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0077Chapter511NoSharing = {
   story: "story-read/rise-of-the-living-forge",
   position: 77,
   ownLength: 1551,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2731888/chapter-511-no-sharing",

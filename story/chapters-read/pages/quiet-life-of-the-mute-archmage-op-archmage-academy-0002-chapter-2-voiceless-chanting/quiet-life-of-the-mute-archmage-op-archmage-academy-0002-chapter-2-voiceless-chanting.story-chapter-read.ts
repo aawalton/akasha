@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0002Chapter2VoicelessCha
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 2,
   ownLength: 2405,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3388918/chapter-2-voiceless-chanting",

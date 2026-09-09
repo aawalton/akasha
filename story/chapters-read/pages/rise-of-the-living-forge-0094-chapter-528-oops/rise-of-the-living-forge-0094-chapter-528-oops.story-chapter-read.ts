@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0094Chapter528Oops = {
   story: "story-read/rise-of-the-living-forge",
   position: 94,
   ownLength: 1586,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2833042/chapter-528-oops",

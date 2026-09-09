@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0006Chapter5ATotallyFriendlyTree = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 6,
   ownLength: 2301,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081426/chapter-5-a-totally-friendly-tree",

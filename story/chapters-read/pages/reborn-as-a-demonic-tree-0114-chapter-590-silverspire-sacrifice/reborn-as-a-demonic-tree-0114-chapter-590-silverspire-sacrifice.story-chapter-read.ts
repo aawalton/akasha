@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0114Chapter590SilverspireSacrifice = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 114,
   ownLength: 2654,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3672633/chapter-590-silverspire-sacrifice",

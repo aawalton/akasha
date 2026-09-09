@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0014Chapter169SatisfyingRevengeStartOfBook3 = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 14,
   ownLength: 3059,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1372087/chapter-169-satisfying-revenge-start-of-book-3",

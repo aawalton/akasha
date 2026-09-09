@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0083Chapter517TheGuardian = {
   story: "story-read/rise-of-the-living-forge",
   position: 83,
   ownLength: 2075,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2757737/chapter-517-the-guardian",

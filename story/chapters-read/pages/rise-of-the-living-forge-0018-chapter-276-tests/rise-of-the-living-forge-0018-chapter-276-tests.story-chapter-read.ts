@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0018Chapter276Tests = {
   story: "story-read/rise-of-the-living-forge",
   position: 18,
   ownLength: 1539,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/1807523/chapter-276-tests",

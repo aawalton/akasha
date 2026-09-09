@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0075Chapter552HouseVirelios = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 75,
   ownLength: 2727,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3211826/chapter-552-house-virelios",

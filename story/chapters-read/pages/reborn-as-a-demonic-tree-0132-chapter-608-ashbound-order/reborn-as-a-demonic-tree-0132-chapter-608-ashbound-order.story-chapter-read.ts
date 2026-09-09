@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0132Chapter608AshboundOrder = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 132,
   ownLength: 2820,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3859999/chapter-608-ashbound-order",

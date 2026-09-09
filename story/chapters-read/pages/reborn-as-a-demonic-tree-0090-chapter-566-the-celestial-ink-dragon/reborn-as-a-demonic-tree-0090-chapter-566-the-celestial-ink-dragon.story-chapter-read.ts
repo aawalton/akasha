@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0090Chapter566TheCelestialInkDragon = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 90,
   ownLength: 2725,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3383665/chapter-566-the-celestial-ink-dragon",

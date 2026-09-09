@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0048Chapter526RichGirl = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 48,
   ownLength: 2755,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/2949709/chapter-526-rich-girl",

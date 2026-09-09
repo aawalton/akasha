@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0146Chapter146Coaching = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 146,
   ownLength: 1549,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3619068/chapter-146-coaching",

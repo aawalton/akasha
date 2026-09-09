@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0089Chapter523Eager = {
   story: "story-read/rise-of-the-living-forge",
   position: 89,
   ownLength: 1767,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2797881/chapter-523-eager",

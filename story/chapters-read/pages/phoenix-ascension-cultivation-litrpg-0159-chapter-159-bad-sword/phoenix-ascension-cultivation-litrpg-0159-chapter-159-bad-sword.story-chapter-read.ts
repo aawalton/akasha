@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0159Chapter159BadSword = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 159,
   ownLength: 2141,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3774385/chapter-159-bad-sword",

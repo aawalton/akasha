@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0083Chapter559MarkedForDeath = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 83,
   ownLength: 2213,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3278272/chapter-559-marked-for-death",

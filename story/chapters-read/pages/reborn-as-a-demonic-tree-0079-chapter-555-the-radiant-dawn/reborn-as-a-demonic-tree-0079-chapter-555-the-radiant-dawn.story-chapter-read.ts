@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0079Chapter555TheRadiantDawn = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 79,
   ownLength: 2388,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3240304/chapter-555-the-radiant-dawn",

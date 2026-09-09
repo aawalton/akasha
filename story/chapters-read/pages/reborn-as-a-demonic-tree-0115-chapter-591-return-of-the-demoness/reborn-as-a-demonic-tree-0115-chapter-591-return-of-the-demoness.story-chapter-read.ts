@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0115Chapter591ReturnOfTheDemoness = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 115,
   ownLength: 2868,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3681907/chapter-591-return-of-the-demoness",

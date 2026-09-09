@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0066Chapter499TrulyMonstrous = {
   story: "story-read/rise-of-the-living-forge",
   position: 66,
   ownLength: 1588,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2673411/chapter-499-truly-monstrous",

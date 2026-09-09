@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0019Announcement = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 19,
   ownLength: 565,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1646281/announcement",

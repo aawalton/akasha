@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0005Chapter264ARequestStartOfBook4 = {
   story: "story-read/rise-of-the-living-forge",
   position: 5,
   ownLength: 1748,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1769793/chapter-264-a-request-start-of-book-4",

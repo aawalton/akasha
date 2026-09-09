@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0019Chapter277Proper = {
   story: "story-read/rise-of-the-living-forge",
   position: 19,
   ownLength: 1994,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/1808941/chapter-277-proper",

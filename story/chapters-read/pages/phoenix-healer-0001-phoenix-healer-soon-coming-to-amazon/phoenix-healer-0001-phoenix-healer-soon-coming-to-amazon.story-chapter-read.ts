@@ -8,7 +8,7 @@ export const phoenixHealer0001PhoenixHealerSoonComingToAmazon = {
   story: "phoenix-healer",
   position: 1,
   ownLength: 148,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/96871/phoenix-healer/chapter/3177785/phoenix-healer-soon-coming-to-amazon",

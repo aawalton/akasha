@@ -7,7 +7,7 @@ export const rebornAsADemonicTree0138Chapter614MovingTheRealm = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 138,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3926633",
   source: "royal-road",
   title: "Chapter 614: Moving the Realm",

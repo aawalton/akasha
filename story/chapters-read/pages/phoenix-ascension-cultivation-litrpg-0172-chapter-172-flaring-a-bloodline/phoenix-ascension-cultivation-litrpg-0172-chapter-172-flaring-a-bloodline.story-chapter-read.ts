@@ -7,7 +7,7 @@ export const phoenixAscensionCultivationLitrpg0172Chapter172FlaringABloodline = 
   story: "story-read/phoenix-ascension-cultivation-litrpg",
   position: 172,
   publishedAt: "2026-09-06",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3921621",
   source: "royal-road",
   title: "Chapter 172: Flaring a Bloodline",

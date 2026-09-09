@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0069Chapter546DarkChild = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 69,
   ownLength: 2902,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3159337/chapter-546-dark-child",

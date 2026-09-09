@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0040Chapter473Trash = {
   story: "story-read/rise-of-the-living-forge",
   position: 40,
   ownLength: 2259,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2515276/chapter-473-trash",

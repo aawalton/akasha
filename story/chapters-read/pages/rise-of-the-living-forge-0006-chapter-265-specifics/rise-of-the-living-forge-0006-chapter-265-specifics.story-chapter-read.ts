@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0006Chapter265Specifics = {
   story: "story-read/rise-of-the-living-forge",
   position: 6,
   ownLength: 1822,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1771239/chapter-265-specifics",

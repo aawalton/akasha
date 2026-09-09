@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0016Chapter15AForeignGue
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 16,
   ownLength: 1950,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3457720/chapter-15-a-foreign-guest",

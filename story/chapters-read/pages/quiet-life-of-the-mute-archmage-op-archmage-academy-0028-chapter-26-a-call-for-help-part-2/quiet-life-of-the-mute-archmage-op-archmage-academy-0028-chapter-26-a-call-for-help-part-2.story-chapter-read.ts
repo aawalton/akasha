@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0028Chapter26ACallForHel
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 28,
   ownLength: 2842,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3581422/chapter-26-a-call-for-help-part-2",

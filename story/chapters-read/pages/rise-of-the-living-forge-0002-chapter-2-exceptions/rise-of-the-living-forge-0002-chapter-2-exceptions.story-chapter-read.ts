@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0002Chapter2Exceptions = {
   story: "story-read/rise-of-the-living-forge",
   position: 2,
   ownLength: 2756,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1459956/chapter-2-exceptions",

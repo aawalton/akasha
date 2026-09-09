@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0009Chapter9ThePlagueInT
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 9,
   ownLength: 3001,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3398186/chapter-9-the-plague-in-the-field",

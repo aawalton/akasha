@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0063Chapter540CultistsOfTheEye = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 63,
   ownLength: 2965,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3109283/chapter-540-cultists-of-the-eye",

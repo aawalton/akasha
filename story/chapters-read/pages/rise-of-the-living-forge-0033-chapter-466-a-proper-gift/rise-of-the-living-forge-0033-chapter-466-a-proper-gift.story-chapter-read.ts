@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0033Chapter466AProperGift = {
   story: "story-read/rise-of-the-living-forge",
   position: 33,
   ownLength: 1957,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2491626/chapter-466-a-proper-gift",

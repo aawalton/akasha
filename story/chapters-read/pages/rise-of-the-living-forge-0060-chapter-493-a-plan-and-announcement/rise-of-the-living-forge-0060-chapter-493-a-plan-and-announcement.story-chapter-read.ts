@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0060Chapter493APlanAndAnnouncement = {
   story: "story-read/rise-of-the-living-forge",
   position: 60,
   ownLength: 1516,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2640525/chapter-493-a-plan-announcement",

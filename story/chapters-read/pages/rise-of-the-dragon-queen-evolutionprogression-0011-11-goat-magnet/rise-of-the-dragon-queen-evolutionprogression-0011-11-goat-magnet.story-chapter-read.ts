@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression001111GoatMagnet = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 11,
   ownLength: 3152,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2623404/11-goat-magnet",

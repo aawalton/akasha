@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0023Chapter455ThatSASet = {
   story: "story-read/rise-of-the-living-forge",
   position: 23,
   ownLength: 1549,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2437202/chapter-455-thats-a-set",

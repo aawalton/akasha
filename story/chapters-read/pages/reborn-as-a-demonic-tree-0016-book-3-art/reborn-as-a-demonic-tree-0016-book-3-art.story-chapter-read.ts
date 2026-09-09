@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0016Book3Art = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 16,
   ownLength: 9,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1445125/book-3-art",

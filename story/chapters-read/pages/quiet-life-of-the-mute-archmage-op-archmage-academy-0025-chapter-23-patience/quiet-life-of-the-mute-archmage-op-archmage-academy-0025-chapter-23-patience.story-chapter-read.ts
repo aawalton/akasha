@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0025Chapter23Patience = 
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 25,
   ownLength: 3511,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3544598/chapter-23-patience",

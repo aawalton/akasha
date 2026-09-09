@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0032Chapter465Gifts = {
   story: "story-read/rise-of-the-living-forge",
   position: 32,
   ownLength: 2164,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2484286/chapter-465-gifts",

@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0003Chapter2TheWoodenStickIncident = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 3,
   ownLength: 1446,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1081297/chapter-2-the-wooden-stick-incident",

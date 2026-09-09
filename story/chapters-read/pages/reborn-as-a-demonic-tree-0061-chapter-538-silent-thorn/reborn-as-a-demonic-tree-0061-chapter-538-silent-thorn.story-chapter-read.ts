@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0061Chapter538SilentThorn = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 61,
   ownLength: 2305,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3092096/chapter-538-silent-thorn",

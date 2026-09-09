@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0053Chapter531SpeakingWithHerFather = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 53,
   ownLength: 2777,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3019726/chapter-531-speaking-with-her-father",

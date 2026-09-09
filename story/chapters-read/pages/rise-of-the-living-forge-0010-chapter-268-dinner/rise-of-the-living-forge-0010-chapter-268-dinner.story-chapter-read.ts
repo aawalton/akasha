@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0010Chapter268Dinner = {
   story: "story-read/rise-of-the-living-forge",
   position: 10,
   ownLength: 1986,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1788315/chapter-268-dinner",

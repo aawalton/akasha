@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0168Chapter168AGiantFuckassLightni
   story: "phoenix-ascension-cultivation-litrpg",
   position: 168,
   ownLength: 2513,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3876052/chapter-168-a-giant-fuckass-lightning-dragon",

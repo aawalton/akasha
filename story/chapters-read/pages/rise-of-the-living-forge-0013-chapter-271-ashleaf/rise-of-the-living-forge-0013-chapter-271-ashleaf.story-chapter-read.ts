@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0013Chapter271Ashleaf = {
   story: "story-read/rise-of-the-living-forge",
   position: 13,
   ownLength: 2116,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1795494/chapter-271-ashleaf",

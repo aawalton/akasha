@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0091Chapter567DimensionalPainter = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 91,
   ownLength: 2606,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3391887/chapter-567-dimensional-painter",

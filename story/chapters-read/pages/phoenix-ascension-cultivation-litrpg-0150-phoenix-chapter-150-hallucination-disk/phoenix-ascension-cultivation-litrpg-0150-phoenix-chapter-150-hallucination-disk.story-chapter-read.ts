@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0150PhoenixChapter150Hallucination
   story: "phoenix-ascension-cultivation-litrpg",
   position: 150,
   ownLength: 2141,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3672714/phoenix-chapter-150-hallucination-disk",

@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0021Chapter306ClosedDoorCultivationStartOfBook5
   story: "story-read/reborn-as-a-demonic-tree",
   position: 21,
   ownLength: 2717,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1681028/chapter-306-closed-door-cultivation-start-of-book",

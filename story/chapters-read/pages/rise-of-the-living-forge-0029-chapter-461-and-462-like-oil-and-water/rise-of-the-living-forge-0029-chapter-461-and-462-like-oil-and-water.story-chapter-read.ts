@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0029Chapter461And462LikeOilAndWater = {
   story: "story-read/rise-of-the-living-forge",
   position: 29,
   ownLength: 3641,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2462720/chapter-461-462-like-oil-and-water",

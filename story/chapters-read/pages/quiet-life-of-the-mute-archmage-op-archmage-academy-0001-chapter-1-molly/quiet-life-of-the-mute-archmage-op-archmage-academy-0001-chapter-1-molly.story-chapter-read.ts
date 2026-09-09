@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0001Chapter1Molly = {
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 1,
   ownLength: 3398,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3388901/chapter-1-molly",

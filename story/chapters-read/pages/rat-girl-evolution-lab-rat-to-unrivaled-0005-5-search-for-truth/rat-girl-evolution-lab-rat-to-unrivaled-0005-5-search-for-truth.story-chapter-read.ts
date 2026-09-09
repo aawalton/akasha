@@ -8,7 +8,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00055SearchForTruth = {
   story: "rat-girl-evolution-lab-rat-to-unrivaled",
   position: 5,
   ownLength: 2513,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572842/5-search-for-truth",

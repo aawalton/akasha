@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0094Chapter570TheSwarm = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 94,
   ownLength: 2961,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3424044/chapter-570-the-swarm",

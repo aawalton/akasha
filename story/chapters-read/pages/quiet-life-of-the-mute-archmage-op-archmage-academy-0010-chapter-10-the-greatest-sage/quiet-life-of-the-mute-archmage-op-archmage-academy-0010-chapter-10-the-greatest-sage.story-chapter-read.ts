@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0010Chapter10TheGreatest
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 10,
   ownLength: 2708,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3402548/chapter-10-the-greatest-sage",

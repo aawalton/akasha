@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0025Chapter457OptionsOptions = {
   story: "story-read/rise-of-the-living-forge",
   position: 25,
   ownLength: 1594,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2443060/chapter-457-options-options",

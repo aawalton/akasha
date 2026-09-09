@@ -8,7 +8,7 @@ export const riseOfTheDragonQueenEvolutionprogression001212FortuneFavors = {
   story: "rise-of-the-dragon-queen-evolutionprogression",
   position: 12,
   ownLength: 2662,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression/chapter/2633911/12-fortune-favors",

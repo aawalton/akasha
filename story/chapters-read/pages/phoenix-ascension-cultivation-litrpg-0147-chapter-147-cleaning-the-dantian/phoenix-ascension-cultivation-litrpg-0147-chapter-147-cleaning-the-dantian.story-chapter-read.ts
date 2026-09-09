@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0147Chapter147CleaningTheDantian =
   story: "phoenix-ascension-cultivation-litrpg",
   position: 147,
   ownLength: 2554,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3634978/chapter-147-cleaning-the-dantian",

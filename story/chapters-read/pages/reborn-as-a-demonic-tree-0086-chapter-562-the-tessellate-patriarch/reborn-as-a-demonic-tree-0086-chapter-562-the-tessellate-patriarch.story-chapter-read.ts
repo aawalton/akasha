@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0086Chapter562TheTessellatePatriarch = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 86,
   ownLength: 2723,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3306304/chapter-562-the-tessellate-patriarch",

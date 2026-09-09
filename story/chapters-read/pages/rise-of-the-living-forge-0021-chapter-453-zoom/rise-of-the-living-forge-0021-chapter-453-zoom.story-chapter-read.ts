@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0021Chapter453Zoom = {
   story: "story-read/rise-of-the-living-forge",
   position: 21,
   ownLength: 1801,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-book-6-stubbing-in-3/chapter/2424480/chapter-453-zoom",

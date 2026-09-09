@@ -8,7 +8,7 @@ export const ratGirlEvolutionLabRatToUnrivaled00088AnUnluckyEncounter = {
   story: "rat-girl-evolution-lab-rat-to-unrivaled",
   position: 8,
   ownLength: 2848,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled/chapter/2572865/8-an-unlucky-encounter",

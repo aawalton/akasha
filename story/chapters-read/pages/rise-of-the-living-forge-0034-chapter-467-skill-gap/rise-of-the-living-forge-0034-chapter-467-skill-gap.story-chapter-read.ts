@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0034Chapter467SkillGap = {
   story: "story-read/rise-of-the-living-forge",
   position: 34,
   ownLength: 1828,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2494321/chapter-467-skill-gap",

@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0126Chapter602BlackenedRoots = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 126,
   ownLength: 2250,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3796872/chapter-602-blackened-roots",

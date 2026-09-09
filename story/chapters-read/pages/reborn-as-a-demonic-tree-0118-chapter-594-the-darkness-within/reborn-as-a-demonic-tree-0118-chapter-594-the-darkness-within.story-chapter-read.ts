@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0118Chapter594TheDarknessWithin = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 118,
   ownLength: 4018,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3712267/chapter-594-the-darkness-within",

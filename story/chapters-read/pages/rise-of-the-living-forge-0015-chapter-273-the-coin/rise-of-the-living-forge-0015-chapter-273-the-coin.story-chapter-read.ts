@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0015Chapter273TheCoin = {
   story: "story-read/rise-of-the-living-forge",
   position: 15,
   ownLength: 1745,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1800127/chapter-273-the-coin",

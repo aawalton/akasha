@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0095Chapter571MandateOfTheAllSeeingEye = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 95,
   ownLength: 2585,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3433273/chapter-571-mandate-of-the-all-seeing-eye",

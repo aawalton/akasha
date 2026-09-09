@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0030Chapter463EsmereldaSFavor = {
   story: "story-read/rise-of-the-living-forge",
   position: 30,
   ownLength: 1986,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2473233/chapter-463-esmereldas-favor",

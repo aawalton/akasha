@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0074Chapter551Humility = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 74,
   ownLength: 2945,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/3201074/chapter-551-humility",

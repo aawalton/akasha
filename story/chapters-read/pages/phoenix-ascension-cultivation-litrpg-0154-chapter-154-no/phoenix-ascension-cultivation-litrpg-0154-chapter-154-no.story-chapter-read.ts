@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0154Chapter154No = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 154,
   ownLength: 2721,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3725995/chapter-154-no",

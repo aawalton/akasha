@@ -8,7 +8,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy0036Chapter34Conclusion 
   story: "quiet-life-of-the-mute-archmage-op-archmage-academy",
   position: 36,
   ownLength: 2631,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy/chapter/3730022/chapter-34-conclusion",

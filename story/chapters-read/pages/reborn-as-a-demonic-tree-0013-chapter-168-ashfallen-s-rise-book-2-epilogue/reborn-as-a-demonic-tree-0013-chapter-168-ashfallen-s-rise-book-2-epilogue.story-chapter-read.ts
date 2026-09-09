@@ -8,7 +8,7 @@ export const rebornAsADemonicTree0013Chapter168AshfallenSRiseBook2Epilogue = {
   story: "story-read/reborn-as-a-demonic-tree",
   position: 13,
   ownLength: 2788,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree/chapter/1371055/chapter-168-ashfallens-rise-book-2-epilogue",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0016Chapter274TheWeather = {
   story: "story-read/rise-of-the-living-forge",
   position: 16,
   ownLength: 2180,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge-stubbing-to-ch555-in/chapter/1801500/chapter-274-the-weather",

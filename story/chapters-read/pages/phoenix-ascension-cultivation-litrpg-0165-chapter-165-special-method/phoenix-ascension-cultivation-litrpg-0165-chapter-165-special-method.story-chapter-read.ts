@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0165Chapter165SpecialMethod = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 165,
   ownLength: 2278,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3838163/chapter-165-special-method",
