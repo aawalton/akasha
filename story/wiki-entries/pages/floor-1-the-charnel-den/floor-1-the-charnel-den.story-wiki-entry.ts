@@ -5,7 +5,7 @@ export const floor1TheCharnelDen = {
   pageTypeSlug: "story-wiki-entry",
   slug: "floor-1-the-charnel-den",
   title: "Floor 1 — The Charnel Den",
-  worldSlug: "tower-of-nimue",
+  world: "tower-of-nimue",
   kind: "location",
   chapterNumber: 2,
   prose: "txt",

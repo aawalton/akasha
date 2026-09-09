@@ -5,7 +5,7 @@ export const deepStep = {
   pageTypeSlug: "story-wiki-entry",
   slug: "deep-step",
   title: "Deep-Step",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",

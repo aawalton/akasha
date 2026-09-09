@@ -5,7 +5,7 @@ export const pearl = {
   pageTypeSlug: "story-wiki-entry",
   slug: "pearl",
   title: "Pearl",
-  worldSlug: "the-beholder",
+  world: "the-beholder",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",

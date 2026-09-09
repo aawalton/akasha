@@ -5,7 +5,7 @@ export const theTowerSheetsCompanionAelwyn = {
   pageTypeSlug: "story-design-note",
   slug: "the-tower-sheets-companion-aelwyn",
   title: "companion-aelwyn",
-  worldSlug: "personas",
+  world: "personas",
   subject: "sheets",
   prose: "txt",
 } as const satisfies StoryDesignNote

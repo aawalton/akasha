@@ -5,7 +5,7 @@ export const mrAldous = {
   pageTypeSlug: "story-wiki-entry",
   slug: "mr-aldous",
   title: "Mr. Aldous",
-  worldSlug: "the-beholder",
+  world: "the-beholder",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",
