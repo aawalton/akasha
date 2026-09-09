@@ -181,6 +181,7 @@ export const seatSystem = {
     "domain/recipient-resolving",
     "domain/supervising",
     "domain/self-healing",
+    "domain/oauth-proxy",
   ],
   invariants: [
     {

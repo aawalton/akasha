@@ -1,21 +1,21 @@
 import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import { guardTick } from "@akasha/seat-system/supervisor-guard-tick"
-import type {
-  ProxyLivenessRuleSource,
-  ProxyLivenessState,
-} from "@akasha/seat-system/supervisor-proxy-liveness-rule"
-import {
-  HEALTHZ_TIMEOUT_MS,
-  respawnOAuthProxy,
-  type SupervisorOAuthProxyHandle,
-} from "@akasha/seat-system/supervisor-spawn-oauth-proxy"
 import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
 import {
   type OAuthProxyState,
   readProxyState,
 } from "../../seat-proxy-state/seat-proxy-state.module.code.ts"
+import type {
+  ProxyLivenessRuleSource,
+  ProxyLivenessState,
+} from "../supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
+import {
+  HEALTHZ_TIMEOUT_MS,
+  respawnOAuthProxy,
+  type SupervisorOAuthProxyHandle,
+} from "../supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 
 export const PROXY_LIVENESS_INTERVAL_MS = 30_000
 

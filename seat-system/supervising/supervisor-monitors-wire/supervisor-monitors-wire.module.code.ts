@@ -2,15 +2,15 @@ import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-vers
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import { buildHeartbeatMonitor } from "@akasha/seat-system/supervisor-heartbeat"
 import { pollAgentAction } from "@akasha/seat-system/supervisor-poll-agent-action"
-import type { ProxyLivenessRuleSource } from "@akasha/seat-system/supervisor-proxy-liveness-rule"
-import { handleProxyVersionUpdate } from "@akasha/seat-system/supervisor-proxy-version"
 import { getAgentActionHandler, getOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import { startWaitResumeMonitor } from "@akasha/seat-system/supervisor-wait-resume"
+import { startProxyLivenessMonitor } from "../../oauth-proxy/supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"
+import type { ProxyLivenessRuleSource } from "../../oauth-proxy/supervisor-proxy-liveness-rule/supervisor-proxy-liveness-rule.module.code.ts"
+import { handleProxyVersionUpdate } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { pollSupervisorFileVersion } from "../../self-healing/supervisor-file-version/supervisor-file-version.module.code.ts"
 import { handleVersionUpdate } from "../../self-healing/supervisor-self-heal/supervisor-self-heal.module.code.ts"
 import { SUPERVISOR_SCRIPT } from "../../self-healing/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { startLimitResumeMonitor } from "../supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
-import { startProxyLivenessMonitor } from "../supervisor-proxy-liveness/supervisor-proxy-liveness.module.code.ts"
 
 export type PerAgentMonitors = {
   heartbeatTimer: ReturnType<typeof setInterval>

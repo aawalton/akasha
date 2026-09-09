@@ -2,12 +2,6 @@ import { closeSync, mkdirSync, openSync } from "node:fs"
 import { join } from "node:path"
 import { modelGatewayEntrypoint } from "@akasha/agents/gateway-tree-version"
 import { supervisorSocketPath } from "@akasha/seat-system/supervisor-log-path"
-import type { ProxyAdoptionRuleSource } from "@akasha/seat-system/supervisor-proxy-adoption-rule"
-import { stopByPid, stopProxyIfOwned } from "@akasha/seat-system/supervisor-proxy-ownership"
-import {
-  PORT_READ_BUDGET_MS,
-  readFirstLineAsPort,
-} from "@akasha/seat-system/supervisor-proxy-port-line"
 import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
 import { pidsListeningOn, portIsHeld } from "@akasha/utils/process/port-holding"
 import { readProcEnvVar } from "@akasha/utils/process/proc-environ"
@@ -15,7 +9,16 @@ import {
   type OAuthProxyState,
   readProxyState,
 } from "../../seat-proxy-state/seat-proxy-state.module.code.ts"
-import { readAdoptedClaudeProxyPort } from "../supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
+import { readAdoptedClaudeProxyPort } from "../../supervising/supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
+import type { ProxyAdoptionRuleSource } from "../supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
+import {
+  stopByPid,
+  stopProxyIfOwned,
+} from "../supervisor-proxy-ownership/supervisor-proxy-ownership.module.code.ts"
+import {
+  PORT_READ_BUDGET_MS,
+  readFirstLineAsPort,
+} from "../supervisor-proxy-port-line/supervisor-proxy-port-line.module.code.ts"
 
 const STALE_PROXY_SHUTDOWN_BUDGET_MS = 5_000
 

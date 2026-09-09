@@ -8,7 +8,11 @@ import { DOORS as EFFECT_DOORS, markedOn } from "@akasha/agents/oauth-effects"
 import { readingIn } from "@akasha/indexes"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { valueAt } from "@akasha/pages/page-value"
-import type { ProxyAdoptionRuleSource } from "@akasha/seat-system/supervisor-proxy-adoption-rule"
+import type { ProxyAdoptionRuleSource } from "../../oauth-proxy/supervisor-proxy-adoption-rule/supervisor-proxy-adoption-rule.module.code.ts"
+import {
+  type SupervisorOAuthProxyHandle,
+  spawnOrAdoptOAuthProxy,
+} from "../../oauth-proxy/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import {
   isAccountTerminal,
   markAccountTerminal,
@@ -19,10 +23,6 @@ import {
 } from "../oauth-health-lines/oauth-health-lines.module.code.ts"
 import { configDirForAccount, LOG } from "../supervisor-config/supervisor-config.module.code.ts"
 import { guardTick } from "../supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
-import {
-  type SupervisorOAuthProxyHandle,
-  spawnOrAdoptOAuthProxy,
-} from "../supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import { writePacingSnapshot } from "../supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 
 export async function runCredentialPullTick(args: {

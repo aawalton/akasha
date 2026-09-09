@@ -2,7 +2,6 @@ import type { ChildExitRuleSource } from "@akasha/seat-system/supervisor-child-e
 import { LOG } from "@akasha/seat-system/supervisor-config"
 import { takeSeatPage } from "@akasha/seat-system/supervisor-heartbeat-beat"
 import { shouldWriteTerminalStoppedStatus } from "@akasha/seat-system/supervisor-lifecycle-death-write"
-import { teardownProxyVersionSubscription } from "@akasha/seat-system/supervisor-proxy-version"
 import {
   killProcessesForShutdown,
   recordShutdownEvent,
@@ -15,6 +14,7 @@ import {
   setShuttingDown,
 } from "@akasha/seat-system/supervisor-state"
 import { shape } from "@akasha/utils/narrow/shape"
+import { teardownProxyVersionSubscription } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { attemptInPlaceReExec } from "../../self-healing/supervisor-reexec/supervisor-reexec.module.code.ts"
 import { resolveReExecArgv } from "../../self-healing/supervisor-self-heal/supervisor-self-heal.module.code.ts"
 import {

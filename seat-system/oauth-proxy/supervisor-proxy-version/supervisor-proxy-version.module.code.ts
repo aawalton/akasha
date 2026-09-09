@@ -1,16 +1,16 @@
 import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
-import {
-  respawnOAuthProxy,
-  type SpawnOAuthProxyArgs,
-  type SupervisorOAuthProxyHandle,
-} from "@akasha/seat-system/supervisor-spawn-oauth-proxy"
 import { setOAuthProxyHandle } from "@akasha/seat-system/supervisor-state"
 import { pidAliveOrRefuse } from "@akasha/utils/process/pid-signal"
 import {
   type OAuthProxyState,
   readProxyState,
 } from "../../seat-proxy-state/seat-proxy-state.module.code.ts"
-import { LOG } from "../supervisor-config/supervisor-config.module.code.ts"
+import { LOG } from "../../supervising/supervisor-config/supervisor-config.module.code.ts"
+import {
+  respawnOAuthProxy,
+  type SpawnOAuthProxyArgs,
+  type SupervisorOAuthProxyHandle,
+} from "../supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 
 export interface RespawnProxyDeps {
   respawn: (

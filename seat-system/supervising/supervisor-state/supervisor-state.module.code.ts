@@ -1,5 +1,5 @@
-import type { SupervisorOAuthProxyHandle } from "@akasha/seat-system/supervisor-spawn-oauth-proxy"
 import type { AgentProcess } from "@akasha/seat-system/supervisor-types"
+import type { SupervisorOAuthProxyHandle } from "../../oauth-proxy/supervisor-spawn-oauth-proxy/supervisor-spawn-oauth-proxy.module.code.ts"
 import type { SupervisorHandoff } from "../../self-healing/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import type { AgentActionSubsystem } from "../supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import type { ChildExitClassification } from "../supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"

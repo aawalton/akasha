@@ -11,7 +11,6 @@ import type { buildAgentLogRedirect } from "@akasha/seat-system/supervisor-conso
 import { liveDeferredRestartRule } from "@akasha/seat-system/supervisor-deferred-restart-rule"
 import { startPreCliffRestartMonitor } from "@akasha/seat-system/supervisor-precliff-restart"
 import { askPreCliffRestart } from "@akasha/seat-system/supervisor-precliff-restart-rule"
-import { triggerProxySwap } from "@akasha/seat-system/supervisor-proxy-version"
 import type { ClearRebindHooks } from "@akasha/seat-system/supervisor-rebind"
 import type { ClearRebindDeps } from "@akasha/seat-system/supervisor-rebind-deps"
 import type { AgentIdHandle } from "@akasha/seat-system/supervisor-self-identity"
@@ -21,6 +20,7 @@ import {
   setObservedChildExit,
 } from "@akasha/seat-system/supervisor-state"
 import type { AgentProcess, InheritedProc } from "@akasha/seat-system/supervisor-types"
+import { triggerProxySwap } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import { liveIdleRule } from "../supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import type { InteractiveSessionBoot } from "../supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 

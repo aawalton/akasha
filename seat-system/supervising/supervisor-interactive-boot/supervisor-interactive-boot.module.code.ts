@@ -7,7 +7,6 @@ import { configDirForAccount, LOG } from "@akasha/seat-system/supervisor-config"
 import { buildCredentialSubsystem } from "@akasha/seat-system/supervisor-credentials"
 import { AGENT_LAUNCH_OPENED, AGENT_LAUNCH_SPAWNED } from "@akasha/seat-system/supervisor-env"
 import { startPerAgentMonitors } from "@akasha/seat-system/supervisor-monitors-wire"
-import { installProxyVersionSubsystem } from "@akasha/seat-system/supervisor-proxy-version"
 import {
   AGENT_MODE_HEADLESS,
   AGENT_MODE_INTERACTIVE,
@@ -20,6 +19,7 @@ import {
   setRestoreConsoleHandle,
 } from "@akasha/seat-system/supervisor-state"
 import { shape } from "@akasha/utils/narrow/shape"
+import { installProxyVersionSubsystem } from "../../oauth-proxy/supervisor-proxy-version/supervisor-proxy-version.module.code.ts"
 import {
   parseSupervisorHandoffEnv,
   resolveProxyOwnerAgentId,
