@@ -2,14 +2,14 @@ import { index, layout, type RouteConfig, route } from "@react-router/dev/routes
 
 export default [
   layout("routes/_app-layout.tsx", [
-    index("routes/home.tsx"),
+    index("routes/atlas-home/atlas-home.route.code.tsx"),
     route("search", "routes/search.tsx"),
     route("map", "routes/map.tsx"),
     route("trip/:tripParam", "routes/trip.tsx"),
     route(":pageTypeSlug/:pageHrefParam", "routes/page-detail.tsx"),
     route(":pageTypeSlug", "routes/page-listing.tsx"),
   ]),
-  route("sign-in", "routes/sign-in.tsx"),
+  route("sign-in", "routes/atlas-sign-in/atlas-sign-in.route.code.tsx"),
   route("sign-up", "routes/atlas-sign-up/atlas-sign-up.route.code.tsx"),
   route("sign-out", "routes/atlas-sign-out/atlas-sign-out.route.code.ts"),
   route("api/health", "routes/atlas-api-health/atlas-api-health.route.code.ts"),
