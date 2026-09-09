@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { basename, dirname, join, resolve } from "node:path"
-import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
+import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
 import { addonManifestSchema } from "../addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "../addon-manifest-file/addon-manifest-file.module.code.ts"
 import {

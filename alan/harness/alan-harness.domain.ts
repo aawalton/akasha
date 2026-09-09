@@ -38,7 +38,7 @@ export const alanHarness = {
     "domain/web-static-assets",
     "domain/web-security-headers",
     "workspace-package/web-page-answers",
-    "workspace-package/workspace-paths",
+    "domain/workspace-paths",
     "domain/web-build-version",
     "domain/recurrence",
     "domain/reminder-system",

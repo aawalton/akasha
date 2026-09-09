@@ -3,7 +3,7 @@ import { dirname, join, normalize } from "node:path"
 import type { Naming } from "@akasha/code/code-specifier"
 import { reachesIn, reachingOver } from "@akasha/code/package-manifest"
 import { AGENT_SETTINGS_PATH } from "@akasha/seat-system/supervisor-spawn-settings"
-import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
+import { listWorkspaceDirs } from "akasha/alan/harness/workspace-paths/workspace-dirs/workspace-dirs.module.code.ts"
 
 const SPECIFIER = /from\s+"([^"]*)"/g
 
@@ -74,14 +74,14 @@ export function workspaceNaming(
   return reachingOver(found)
 }
 
-let held: { readonly root: string; readonly said: Naming } | null = null
+let heldNaming: { readonly root: string; readonly said: Naming } | null = null
 
 function namingFrom(entry: string): Naming {
   const root = repoRootOf(entry)
   if (root === null) return NAMING_NONE
-  if (held !== null && held.root === root) return held.said
+  if (heldNaming !== null && heldNaming.root === root) return heldNaming.said
   const said = workspaceNaming(root)
-  held = { root, said }
+  heldNaming = { root, said }
   return said
 }
 
@@ -182,7 +182,7 @@ export function decideVersionDelivery(
 
 let graph: readonly string[] | null = null
 
-let watch: VersionWatch = NOTHING_DELIVERED
+let heldWatch: VersionWatch = NOTHING_DELIVERED
 
 export async function pollSupervisorFileVersion(
   entry: string,
@@ -196,13 +196,13 @@ export async function pollSupervisorFileVersion(
     return
   }
   const seen = await hashFileSet(graph)
-  const verdict = decideVersionDelivery(watch, seen, nowMs)
-  watch = verdict.next
+  const verdict = decideVersionDelivery(heldWatch, seen, nowMs)
+  heldWatch = verdict.next
   if (!verdict.deliver) return
   await deliver({ liveVersion: seen, deployedAt: nowMs })
 }
 
 export function _resetSupervisorFileGraphForTesting(): undefined {
   graph = null
-  watch = NOTHING_DELIVERED
+  heldWatch = NOTHING_DELIVERED
 }

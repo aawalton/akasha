@@ -275,7 +275,6 @@
     "@akasha/pages": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/utils": "workspace:*",
-    "@akasha/workspace-paths": "workspace:*",
     "@modelcontextprotocol/sdk": "^1.30.0",
     "zod": "^4.3.6"
   }

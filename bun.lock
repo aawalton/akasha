@@ -95,7 +95,6 @@
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/temper-upstream-data": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/workspace-paths": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
         "@googleapis/drive": "^20.2.0",
         "@googleapis/gmail": "^17.0.0",
@@ -296,16 +295,6 @@
         "lucide-react": "^0.576.0",
       },
     },
-    "alan/harness/workspace-paths": {
-      "name": "@akasha/workspace-paths",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "typescript": "5.9.3",
-        "zod": "^4.3.6",
-      },
-    },
     "alan/music/choosing": {
       "name": "@akasha/music-choosing",
       "dependencies": {
@@ -460,7 +449,6 @@
         "@akasha/code": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/workspace-paths": "workspace:*",
         "typescript": "5.9.3",
         "typescript-7": "npm:typescript@7.1.0-dev.20260904.1",
       },
@@ -1048,7 +1036,6 @@
         "@akasha/pages": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/workspace-paths": "workspace:*",
         "@modelcontextprotocol/sdk": "^1.30.0",
         "zod": "^4.3.6",
       },
@@ -1141,7 +1128,6 @@
       "dependencies": {
         "@akasha/command-system": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/workspace-paths": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -2476,8 +2462,6 @@
     "@akasha/voice-core": ["@akasha/voice-core@workspace:alan/harness/voice-core"],
 
     "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:alan/harness/web-page-answers"],
-
-    "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:alan/harness/workspace-paths"],
 
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:code-system/ios-apps/pages/atlas"],
 
