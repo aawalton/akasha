@@ -1,10 +1,6 @@
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
-import {
-  type Held,
-  linesOf,
-  type Row,
-} from "../../../../../modules/session-rows/session-rows.module.code.ts"
+import { type Held, linesOf, type Row } from "../../check/session-rows/session-rows.module.code.ts"
 
 export type Landing = { readonly held: Held; readonly rows: Row[] }
 

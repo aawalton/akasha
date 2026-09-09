@@ -7,7 +7,7 @@ import {
   instantIn,
   sayingFor,
   shownOf,
-} from "../../../../modules/session-rows/session-rows.module.code.ts"
+} from "../check/session-rows/session-rows.module.code.ts"
 import {
   endingIn,
   landed,

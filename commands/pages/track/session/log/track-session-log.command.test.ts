@@ -6,11 +6,7 @@ import { MECHANICAL } from "../../../../modules/asking/asking.module.code.ts"
 import type { Given } from "../../../../modules/calling/calling.module.code.ts"
 import { baseOf } from "../../../../modules/landing/landing.module.code.ts"
 import { scratch } from "../../../../modules/landing/landing.module.test-fixtures.ts"
-import {
-  DAY,
-  dayRepo,
-  ROWS_AT,
-} from "../../../../modules/session-rows/session-rows.module.test-fixtures.ts"
+import { DAY, dayRepo, ROWS_AT } from "../check/session-rows/session-rows.module.test-fixtures.ts"
 import { trackSessionLog } from "./track-session-log.command.code.ts"
 
 afterAll(scratch.sweep)

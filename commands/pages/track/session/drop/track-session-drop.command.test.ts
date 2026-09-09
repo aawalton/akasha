@@ -11,7 +11,7 @@ import {
   dayRepo,
   ROWS_AT,
   SLEPT,
-} from "../../../../modules/session-rows/session-rows.module.test-fixtures.ts"
+} from "../check/session-rows/session-rows.module.test-fixtures.ts"
 import { trackSessionDrop } from "./track-session-drop.command.code.ts"
 
 afterAll(scratch.sweep)

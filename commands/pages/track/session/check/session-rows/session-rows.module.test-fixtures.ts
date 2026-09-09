@@ -1,6 +1,6 @@
 import { join } from "node:path"
 import { indexedRepo } from "@akasha/indexes/indexing/testing"
-import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
+import { rootOf } from "../../../../../../command-system/rooting/rooting.module.code.ts"
 import { DAYS_AT } from "./session-rows.module.code.ts"
 
 export const DAY = "2026-09-01"

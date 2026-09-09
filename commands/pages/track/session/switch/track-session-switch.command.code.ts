@@ -1,5 +1,6 @@
 import { mistaking } from "../../../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
+import { sleeping, wokeInto } from "../../../../modules/waking/waking.module.code.ts"
 import {
   AT,
   DRY_RUN,
@@ -13,8 +14,7 @@ import {
   TITLE,
   taggedFor,
   taggingOf,
-} from "../../../../modules/session-rows/session-rows.module.code.ts"
-import { sleeping, wokeInto } from "../../../../modules/waking/waking.module.code.ts"
+} from "../check/session-rows/session-rows.module.code.ts"
 import {
   endingIn,
   landedAcross,

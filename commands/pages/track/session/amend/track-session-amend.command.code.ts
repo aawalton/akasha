@@ -11,7 +11,7 @@ import {
   shownOf,
   TITLE,
   taggedFor,
-} from "../../../../modules/session-rows/session-rows.module.code.ts"
+} from "../check/session-rows/session-rows.module.code.ts"
 import {
   landed,
   standingFor,

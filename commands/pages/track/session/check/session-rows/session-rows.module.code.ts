@@ -10,13 +10,13 @@ import {
 } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
 import { padTwo } from "akasha/digit-padding/pad-two/pad-two.module.code.ts"
 import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
+import { dayBefore } from "../../../../../modules/waking/waking.module.code.ts"
 import {
   type ActivityDifficulty,
   difficultyForTitle,
   readDifficulty,
   readSafety,
-} from "../../pages/track/session/amend/session-leveling/session-leveling.module.code.ts"
-import { dayBefore } from "../waking/waking.module.code.ts"
+} from "../../amend/session-leveling/session-leveling.module.code.ts"
 
 export type RelationshipPage = {
   readonly id: string

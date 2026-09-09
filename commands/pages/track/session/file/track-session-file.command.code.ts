@@ -3,6 +3,11 @@ import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/moun
 import { mistaking } from "../../../../modules/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../modules/calling/calling.module.code.ts"
 import {
+  difficultyForTitle,
+  readDifficulty,
+  readSafety,
+} from "../amend/session-leveling/session-leveling.module.code.ts"
+import {
   anchoredIn,
   DRY_RUN,
   FROM_FILE,
@@ -13,12 +18,7 @@ import {
   shownOf,
   taggedFor,
   taggingOf,
-} from "../../../../modules/session-rows/session-rows.module.code.ts"
-import {
-  difficultyForTitle,
-  readDifficulty,
-  readSafety,
-} from "../amend/session-leveling/session-leveling.module.code.ts"
+} from "../check/session-rows/session-rows.module.code.ts"
 import {
   landed,
   standingFor,
