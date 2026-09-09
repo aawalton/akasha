@@ -4,19 +4,26 @@ import { ViewPageFrame } from "@akasha/pages-ui-components/view-page-frame"
 import { DISPLAY_PARAM, parseDisplayMode } from "@akasha/pages-url/page-display-mode"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { lazy, Suspense } from "react"
-import { type ShouldRevalidateFunctionArgs, useSearchParams } from "react-router"
-import { ReaderNarrationDetail } from "../reader-narration-detail/reader-narration-detail.module.code.tsx"
-import type { Route } from "./+types/page-detail"
+import {
+  type MetaDescriptor,
+  type ShouldRevalidateFunctionArgs,
+  useSearchParams,
+} from "react-router"
+import { loader as pageDetailLoader } from "../../.server/page-detail-loading/page-detail-loading.module.code.ts"
+import { PageDetailErrorBoundary } from "../../page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
+import { ReaderNarrationDetail } from "../../reader-narration-detail/reader-narration-detail.module.code.tsx"
 
-const IdleGame = lazy(() => import("../idle-game/idle-game.module.code.tsx"))
+type PageDetailLoaderData = Awaited<ReturnType<typeof pageDetailLoader>>["data"]
+
+const IdleGame = lazy(() => import("../../idle-game/idle-game.module.code.tsx"))
 
 const ChessBoard = lazy(() => import("@akasha/chess-core/chess-board"))
 
 export function buildPageDetailMeta(
   loaderData: { title: string | null; faviconIdSuffix: string | null } | undefined
-): ReturnType<Route.MetaFunction> {
+): MetaDescriptor[] {
   if (loaderData == null) return [{ title: "Alan Walton" }]
-  const descriptors: ReturnType<Route.MetaFunction> = [
+  const descriptors: MetaDescriptor[] = [
     { title: loaderData.title != null && loaderData.title !== "" ? loaderData.title : "Untitled" },
   ]
   if (loaderData.faviconIdSuffix != null) {
@@ -31,7 +38,7 @@ export function buildPageDetailMeta(
   return descriptors
 }
 
-export function meta({ data: loaderData }: Route.MetaArgs) {
+export function meta({ data: loaderData }: { data: PageDetailLoaderData | undefined }) {
   return buildPageDetailMeta(loaderData)
 }
 
@@ -64,10 +71,10 @@ export function shouldRevalidate(args: ShouldRevalidateFunctionArgs): boolean {
   return shouldRevalidatePageDetail(args)
 }
 
-export { loader } from "../.server/page-detail-loading/page-detail-loading.module.code.ts"
-export { PageDetailErrorBoundary as ErrorBoundary } from "../page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
+export const loader = pageDetailLoader
+export const ErrorBoundary = PageDetailErrorBoundary
 
-export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
+export default function PageDetailRoute({ loaderData }: { loaderData: PageDetailLoaderData }) {
   const [searchParams] = useSearchParams()
   const displayMode = parseDisplayMode(searchParams.get(DISPLAY_PARAM))
 
