@@ -2,11 +2,19 @@ import { afterAll, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { put } from "@akasha/testing-system/putting"
-import { AGENT, repoWith, scratch } from "../asking/asking.module.test-fixtures.ts"
-import type { Kind } from "../calling/calling.module.code.ts"
-import { runningOf } from "../drafting/drafting.module.code.ts"
-import { baseOf } from "../landing/landing.module.code.ts"
-import { blobIdOf, readingIn, sameBody } from "../reading/reading.module.code.ts"
+import {
+  AGENT,
+  repoWith,
+  scratch,
+} from "../../../command-system/asking/asking.module.test-fixtures.ts"
+import type { Kind } from "../../../command-system/calling/calling.module.code.ts"
+import { runningOf } from "../../../command-system/drafting/drafting.module.code.ts"
+import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
+import {
+  blobIdOf,
+  readingIn,
+  sameBody,
+} from "../../../command-system/reading/reading.module.code.ts"
 import { carryLanded, NO_OWING } from "./landing-reading.module.code.ts"
 
 afterAll(scratch.sweep)
