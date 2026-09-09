@@ -1,14 +1,11 @@
-import { basename } from "node:path"
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
-const SERVICES = "workstation-services"
+export const HOLDS = "workstation-services"
 
 const SERVICE = "workstation-service"
 
 export function aWorkstationServiceWithItsParts(standing: Standing): readonly string[] {
-  const named = basename(standing.folder)
-  if (named !== SERVICES) return [`it is named \`${named}\` rather than \`${SERVICES}\``]
   const page = standing.pages[0]
   if (page === undefined) return ["it holds no page of its own"]
   if (standing.pages.length > 1) {

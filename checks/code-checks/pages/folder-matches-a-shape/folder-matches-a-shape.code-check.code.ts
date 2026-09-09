@@ -37,7 +37,11 @@ import {
   namingOver,
   openingWith,
 } from "./modules/folder-naming/folder-naming.module.code.ts"
-import { shapesIn } from "./modules/shape-loading/shape-loading.module.code.ts"
+import {
+  judgedBy,
+  namesHeldBy,
+  shapesIn,
+} from "./modules/shape-loading/shape-loading.module.code.ts"
 
 const TS = "ts"
 
@@ -210,11 +214,12 @@ export function foldersJudgedBy(
   change: Change,
   naming: Naming,
   grouped: Grouped,
-  holds: Holds
+  holds: Holds,
+  heldNames: ReadonlySet<string>
 ): ReadonlySet<string> {
   const found = new Set<string>(foldersTouchedBy(change, naming))
   for (const above of foldersAbove(change)) {
-    for (const under of answeringTo(above, grouped, holds)) found.add(under)
+    for (const under of answeringTo(above, grouped, holds, heldNames)) found.add(under)
   }
   if (change.changed.length > 0) found.add(ROOT)
   return found
@@ -332,7 +337,8 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const segmenting = segmentingOver(stated, grouped)
   const declaring = declaringOver(shadow.index, grouped)
   const holds = holdingOver(shadow.index, grouped, pageTypes, fileProperties)
-  const namedFor = namingOver(holds)
+  const heldNames = namesHeldBy(shapes)
+  const namedFor = namingOver(holds, heldNames)
   const parts = partsOver(
     shadow.index,
     change.root,
@@ -344,12 +350,12 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const partOf = partOfOver(shadow.index)
   const entering = enteringOf(shadow)
   const found: Judged[] = []
-  for (const folder of [...foldersJudgedBy(change, naming, grouped, holds)].sort()) {
+  for (const folder of [...foldersJudgedBy(change, naming, grouped, holds, heldNames)].sort()) {
     if (segmenting(folder)) continue
     const named = basename(folder)
-    const opening = heldFolder(folder, holds)
+    const opening = heldFolder(folder, holds, heldNames)
       ? null
-      : openingWith(named, holds(namingFolderOf(folder, holds)).names)
+      : openingWith(named, holds(namingFolderOf(folder, holds, heldNames)).names)
     if (opening !== null) {
       found.push({
         path: folder,
@@ -365,6 +371,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       folder,
       files: here,
       subfolders: grouped.foldersIn(folder),
+      held: heldNames,
       under: (at) => grouped.at(at),
       pages: held.filter((one) => one.kind === "page"),
       properties: held.filter((one) => one.kind === "property"),
@@ -378,7 +385,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
       parts,
       partOf,
     }
-    const said = shapes.map((one) => ({ slug: one.slug, reasons: one.judge(described) }))
+    const said = shapes.map((one) => ({ slug: one.slug, reasons: judgedBy(one, described) }))
     if (said.some((one) => one.reasons.length === 0)) continue
     const why = said.map((one) => `as ${one.slug}, ${one.reasons.join(" and ")}`).join("; ")
     found.push({ path: folder, reason: `this folder matches no folder shape — ${why}` })

@@ -35,6 +35,10 @@ export const folderNaming = {
       statement: "A folder is asked for no name where taking that opening off leaves nothing.",
     },
     {
+      invariantKind: "departure",
+      statement: "Which names are a part's are handed in rather than written here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges a folder.",
     },

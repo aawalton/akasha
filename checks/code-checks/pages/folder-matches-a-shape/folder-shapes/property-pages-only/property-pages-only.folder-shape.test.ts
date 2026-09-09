@@ -4,8 +4,6 @@ import { propertyPagesOnly } from "./property-pages-only.folder-shape.code.ts"
 
 const FOLDER = "akasha/one/properties"
 
-const OTHER = "akasha/one/props"
-
 const PAGE_TYPES = new Set<string>([
   "text-property",
   "relation-property",
@@ -18,12 +16,6 @@ const EXTENDING = new Set<string>(["text-property", "relation-property", "boolea
 
 const folder = folderFrom({
   folder: FOLDER,
-  pageTypes: PAGE_TYPES,
-  extending: (pageTypeSlug, wanted) => wanted === "page-property" && EXTENDING.has(pageTypeSlug),
-})
-
-const otherwise = folderFrom({
-  folder: OTHER,
   pageTypes: PAGE_TYPES,
   extending: (pageTypeSlug, wanted) => wanted === "page-property" && EXTENDING.has(pageTypeSlug),
 })
@@ -58,18 +50,4 @@ test("a file beside a page is refused, because a property page carries no file",
 test("a file that is neither a page nor sits beside one is refused", () => {
   const said = propertyPagesOnly(folder(["id.text-property.ts", "notes.txt"]))
   expect(said.some((each) => each.includes("notes.txt"))).toBe(true)
-})
-
-test("a folder of property pages under any other name is refused, and the reason names both", () => {
-  const said = propertyPagesOnly(otherwise(["id.text-property.ts"]))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`props`")
-  expect(said[0]).toContain("`properties`")
-})
-
-test("a folder holding no file at all is refused under any other name", () => {
-  const said = propertyPagesOnly(otherwise([]))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`props`")
-  expect(said[0]).toContain("`properties`")
 })

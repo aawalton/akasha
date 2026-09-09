@@ -16,6 +16,7 @@ function judged(
     entered: () => false,
     extending: () => false,
     subfolders,
+    held: new Set<string>(),
     under: () => [],
     declaring: () => null,
     naming: () => null,

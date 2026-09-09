@@ -4,8 +4,6 @@ import { scriptsOnly } from "./scripts-only.folder-shape.code.ts"
 
 const FOLDER = "akasha/code-system/ios-harnesses/scripts"
 
-const OTHER = "akasha/code-system/ios-harnesses/shell-scripts"
-
 const PAGE_TYPES = new Set<string>(["shell-script", "module"])
 
 function holdsAt(at: string): readonly string[] {
@@ -34,19 +32,6 @@ test("a folder holding a file of its own is refused, and the reason names it", (
 test("the refusal counts every file sitting in it", () => {
   const said = judged(ONE_SCRIPT, ["one.shell-script.ts", "two.shell-script.ts", "notes.txt"])
   expect(said.some((each) => each.includes("3 files"))).toBe(true)
-})
-
-test("a folder named otherwise is refused, and the reason names both", () => {
-  const made = folderFrom({
-    folder: OTHER,
-    pageTypes: PAGE_TYPES,
-    holds: holdsAt,
-    deep: ONE_SCRIPT,
-  })
-  const said = scriptsOnly(made([]))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`shell-scripts`")
-  expect(said[0]).toContain("`scripts`")
 })
 
 test("a subfolder holding a page that is no shell script is refused, and the reason names it", () => {

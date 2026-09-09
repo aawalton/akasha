@@ -23,9 +23,9 @@ const DOMAIN: Declaring = {
   propertySlugs: new Set<string>(["definition", "invariants", "invariant-kind", "statement"]),
 }
 
-function over(folder: string, above: Declaring | null): (names: readonly string[]) => Standing {
+function over(where: string, above: Declaring | null): (names: readonly string[]) => Standing {
   return folderFrom({
-    folder,
+    folder: where,
     pageTypes: PAGE_TYPES,
     extending: (pageTypeSlug, wanted) => wanted === "page-property" && EXTENDING.has(pageTypeSlug),
     declaring: (at) => (at === ABOVE ? above : null),
@@ -74,14 +74,6 @@ test("a file beside a page is refused, because a property page carries no file",
 test("a file that is neither a page nor sits beside one is refused", () => {
   const said = propertiesOfTheTypeAbove(folder(["definition.text-property.ts", "notes.txt"]))
   expect(said.some((each) => each.includes("notes.txt"))).toBe(true)
-})
-
-test("a folder named otherwise is refused, and the reason names both", () => {
-  const held = over(`${ABOVE}/props`, DOMAIN)
-  const said = propertiesOfTheTypeAbove(held(["definition.text-property.ts"]))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`props`")
-  expect(said[0]).toContain("`properties`")
 })
 
 test("a folder named properties above which no page type sits is refused", () => {

@@ -44,24 +44,6 @@ test("a section carrying its prose beside the section takes the shape", () => {
   expect(said).toEqual([])
 })
 
-test("a folder named otherwise is refused, and the reason names both", () => {
-  const held = over({})
-  const said = sectionsOfTheBookAbove(
-    folderFrom({
-      folder: `${ABOVE}/parts`,
-      pageTypes: PAGE_TYPES,
-      fileProperties: FILE_PROPERTIES,
-      extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
-      holds: (at) => (at === ABOVE ? [`alan-book/${BOOK}`] : []),
-      partOf: (): readonly string[] => [BOOK],
-    })(["one.book-section.ts"])
-  )
-  expect(held).toBeDefined()
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`parts`")
-  expect(said[0]).toContain("`sections`")
-})
-
 test("a folder above holding no page of its own is refused", () => {
   const held = over({ holds: () => [] })
   const said = sectionsOfTheBookAbove(held(["one.book-section.ts"]))

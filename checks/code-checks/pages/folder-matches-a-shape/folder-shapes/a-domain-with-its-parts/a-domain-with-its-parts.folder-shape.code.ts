@@ -4,8 +4,6 @@ import type { Standing } from "../folder-shape.page-type.ts"
 
 const DOMAIN = "domain"
 
-const HELD = new Set<string>(["modules", "scripts"])
-
 export function aDomainWithItsParts(standing: Standing): readonly string[] {
   const page = standing.pages[0]
   if (page === undefined) return ["it holds no page of its own"]
@@ -38,7 +36,7 @@ export function aDomainWithItsParts(standing: Standing): readonly string[] {
   }
   const declared = standing.declared(standing.folder)
   const stray = standing.subfolders.filter((at) => {
-    if (HELD.has(basename(at))) return false
+    if (standing.held.has(basename(at))) return false
     if ([...parts].some((one) => one.startsWith(`${at}/`))) return false
     const held = standing.holds(at)
     return !held.some((one) => declared.has(one))

@@ -72,19 +72,20 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder named `modules` is a part of the page above that folder.",
+      statement:
+        "A folder named as an enabled shape's own name is a part of the page above that folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder named `pages` is a part of the page above that folder.",
+      statement: "Those names are derived from the enabled shapes rather than named in this check.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder named `properties` is a part of the page above that folder.",
+      statement: "Such a folder is judged of its own by the shape whose name that folder takes.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder named `scripts` is a part of the page above that folder.",
+      statement: "Passing it over as a part loses no judgement.",
     },
     {
       invariantKind: "departure",

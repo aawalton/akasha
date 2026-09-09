@@ -1,9 +1,9 @@
-import { basename, dirname } from "node:path"
+import { dirname } from "node:path"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
-const PAGES = "pages"
+export const HOLDS = "pages"
 
 const TS = "ts"
 
@@ -17,8 +17,6 @@ function ownPagesIn(standing: Standing, at: string, slug: string): number {
 
 export function pagesOfTheTypeAbove(standing: Standing): readonly string[] {
   const said: string[] = []
-  const named = basename(standing.folder)
-  if (named !== PAGES) said.push(`it is named \`${named}\` rather than \`${PAGES}\``)
   const above = standing.declaring(dirname(standing.folder))
   if (above === null) {
     said.push("the folder above holds no page type of its own")

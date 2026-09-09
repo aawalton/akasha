@@ -1,9 +1,9 @@
 import { createRequire } from "node:module"
-import { join } from "node:path"
+import { basename, join } from "node:path"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
-import type { Judging } from "../../folder-shapes/folder-shape.page-type.ts"
+import type { Judging, Standing } from "../../folder-shapes/folder-shape.page-type.ts"
 
 const SHAPE = "folder-shape"
 
@@ -13,11 +13,29 @@ const CODE = "code"
 
 const TS = "ts"
 
+const HOLDS = "HOLDS"
+
 const loadFrom = createRequire(import.meta.url)
 
 export type Shape = {
   readonly slug: string
   readonly judge: Judging
+  readonly holds: string | null
+}
+
+export function namesHeldBy(shapes: readonly Shape[]): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const one of shapes) {
+    if (one.holds !== null) found.add(one.holds)
+  }
+  return found
+}
+
+export function judgedBy(shape: Shape, standing: Standing): readonly string[] {
+  if (shape.holds === null) return shape.judge(standing)
+  const named = basename(standing.folder)
+  if (named === shape.holds) return shape.judge(standing)
+  return [`it is named \`${named}\` rather than \`${shape.holds}\``]
 }
 
 export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
@@ -65,7 +83,12 @@ export function shapesIn(root: string, shadow: Shadow): readonly Shape[] {
         `${one.path} is a folder shape, and ${beside} answers to nothing that can judge`
       )
     }
-    found.push({ slug, judge: named as Judging })
+    const takes = mod[HOLDS]
+    found.push({
+      slug,
+      judge: named as Judging,
+      holds: typeof takes === "string" ? takes : null,
+    })
   }
   if (found.length === 0) {
     throw new Error(

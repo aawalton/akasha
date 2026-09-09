@@ -57,18 +57,6 @@ test("a subfolder holding no page of that type is refused, and the reason names 
   expect(said[0]).toContain("one")
 })
 
-test("a folder named otherwise is refused, and the reason names both", () => {
-  const held = folderFrom({
-    folder: `${ABOVE}/things`,
-    pageTypes: PAGE_TYPES,
-    declaring: (at) => (at === ABOVE ? CODE_CHECK : null),
-  })
-  const said = pagesOfTheTypeAbove(held(["one.code-check.ts"]))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`things`")
-  expect(said[0]).toContain("`pages`")
-})
-
 test("a folder named pages above which no page type sits is refused", () => {
   const held = folderFrom({ folder: "akasha/schema/pages", pageTypes: PAGE_TYPES })
   expect(pagesOfTheTypeAbove(held([]))).toEqual(["the folder above holds no page type of its own"])

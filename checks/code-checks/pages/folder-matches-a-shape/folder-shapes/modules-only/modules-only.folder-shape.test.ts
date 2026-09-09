@@ -5,8 +5,6 @@ import { modulesOnly } from "./modules-only.folder-shape.code.ts"
 
 const FOLDER = "akasha/checks/modules"
 
-const OTHER = "akasha/checks/mods"
-
 const ABOVE = "akasha/checks"
 
 const PAGE_TYPES = new Set<string>(["module", "domain"])
@@ -24,8 +22,6 @@ const extending: Standing["extending"] = (pageTypeSlug, wanted) => pageTypeSlug 
 const DEEP = ["one/one.module.ts", "two/two.module.ts"]
 
 const folder = folderFrom({ folder: FOLDER, pageTypes: PAGE_TYPES })
-
-const otherwise = folderFrom({ folder: OTHER, pageTypes: PAGE_TYPES })
 
 const declared = folderFrom({
   folder: FOLDER,
@@ -80,13 +76,6 @@ test("a folder holding a file that is no page is refused too", () => {
 test("the refusal counts every file sitting in it", () => {
   const said = modulesOnly(folder(["one.module.ts", "two.module.ts", "notes.txt"]))
   expect(said[0]).toContain("3 files")
-})
-
-test("a folder named otherwise is refused, and the reason names both", () => {
-  const said = modulesOnly(otherwise([]))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`mods`")
-  expect(said[0]).toContain("`modules`")
 })
 
 test("modules the page above declares take the shape", () => {

@@ -1,15 +1,13 @@
-import { basename, dirname } from "node:path"
+import { dirname } from "node:path"
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
-const PROPERTY = "page-property"
+export const HOLDS = "properties"
 
-const PROPERTIES = "properties"
+const PROPERTY = "page-property"
 
 export function propertiesOfTheTypeAbove(standing: Standing): readonly string[] {
   const said: string[] = []
-  const named = basename(standing.folder)
-  if (named !== PROPERTIES) said.push(`it is named \`${named}\` rather than \`${PROPERTIES}\``)
   const above = standing.declaring(dirname(standing.folder))
   if (above === null) {
     said.push("the folder above holds no page type of its own")

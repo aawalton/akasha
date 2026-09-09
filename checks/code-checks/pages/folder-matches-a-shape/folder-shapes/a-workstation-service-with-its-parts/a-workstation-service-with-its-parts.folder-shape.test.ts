@@ -4,8 +4,6 @@ import { aWorkstationServiceWithItsParts } from "./a-workstation-service-with-it
 
 const FOLDER = "akasha/pages/service/workstation-services"
 
-const OTHER = "akasha/pages/service/services"
-
 const PAGE_TYPES = new Set<string>(["workstation-service", "module"])
 
 const ONE = ["pages-service.workstation-service.ts"]
@@ -17,14 +15,6 @@ function judged(names: readonly string[], deep: readonly string[] = []): readonl
 
 test("a folder named workstation-services holding one service takes the shape", () => {
   expect(judged(ONE)).toEqual([])
-})
-
-test("a folder named otherwise is refused, and the reason names both names", () => {
-  const made = folderFrom({ folder: OTHER, pageTypes: PAGE_TYPES })
-  const said = aWorkstationServiceWithItsParts(made(ONE))
-  expect(said).toHaveLength(1)
-  expect(said[0]).toContain("`services`")
-  expect(said[0]).toContain("`workstation-services`")
 })
 
 test("a folder holding no page of its own is refused", () => {

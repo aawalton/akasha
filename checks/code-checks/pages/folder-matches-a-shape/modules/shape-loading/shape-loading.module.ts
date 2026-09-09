@@ -7,7 +7,28 @@ export const shapeLoading = {
   slug: "shape-loading",
   definition: "the folder shapes the index names, each loaded from the code beside its page",
   code: "ts",
+  test: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A shape whose subject is a folder of one name publishes that name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder of another name is declined here rather than handed to that shape.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A decline carries a reason, so the folder matches that shape nowhere.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape publishing no name is handed every folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The names the enabled shapes publish are the names a folder may be a part under.",
+    },
     {
       invariantKind: "departure",
       statement: "The shapes are found in the index.",

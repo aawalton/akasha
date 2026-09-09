@@ -7,8 +7,6 @@ const PAGE_TYPE = "page-type"
 
 const PACKAGE = "workspace-package"
 
-const HELD = new Set<string>(["modules", "pages", "properties", "scripts", "workstation-services"])
-
 function packageIn(standing: Standing): Held | null {
   if (standing.pages.length !== 2) return null
   const above = standing.declaring(standing.folder)
@@ -55,7 +53,7 @@ export function aPageTypeWithItsParts(standing: Standing): readonly string[] {
   }
   const declared = standing.declared(standing.folder)
   const stray = standing.subfolders.filter((at) => {
-    if (HELD.has(basename(at))) return false
+    if (standing.held.has(basename(at))) return false
     if ([...parts].some((one) => one.startsWith(`${at}/`))) return false
     const held = standing.holds(at)
     return !held.some((one) => declared.has(one))

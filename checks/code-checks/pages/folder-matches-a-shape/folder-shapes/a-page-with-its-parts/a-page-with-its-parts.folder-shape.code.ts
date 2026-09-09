@@ -2,8 +2,6 @@ import { basename } from "node:path"
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
-const PARTS = new Set<string>(["modules", "pages", "properties", "sections"])
-
 export function aPageWithItsParts(standing: Standing): readonly string[] {
   const page = standing.pages[0]
   if (page === undefined) return ["it holds no page of its own"]
@@ -31,7 +29,7 @@ export function aPageWithItsParts(standing: Standing): readonly string[] {
       `it is named \`${named}\` rather than \`${wants.name}\`, what \`${page.slug}\` calls its folder`
     )
   }
-  const stray = standing.subfolders.filter((at) => !PARTS.has(basename(at)))
+  const stray = standing.subfolders.filter((at) => !standing.held.has(basename(at)))
   if (stray.length > 0) {
     said.push(
       `${stray.length} subfolders are no part of \`${page.slug}\`: ${saidInside(standing.folder, stray)}`

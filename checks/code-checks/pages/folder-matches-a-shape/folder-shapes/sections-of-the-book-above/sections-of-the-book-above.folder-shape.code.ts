@@ -1,8 +1,8 @@
-import { basename, dirname } from "node:path"
+import { dirname } from "node:path"
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
-const SECTIONS = "sections"
+export const HOLDS = "sections"
 
 const BOOK = "alan-book"
 
@@ -20,8 +20,6 @@ function typeIn(held: string): string {
 
 export function sectionsOfTheBookAbove(standing: Standing): readonly string[] {
   const said: string[] = []
-  const named = basename(standing.folder)
-  if (named !== SECTIONS) said.push(`it is named \`${named}\` rather than \`${SECTIONS}\``)
   const above = standing.holds(dirname(standing.folder))
   const first = above[0]
   if (first === undefined) {

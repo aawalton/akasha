@@ -26,6 +26,7 @@ export type Standing = {
   readonly entered: (path: string) => boolean
   readonly extending: (pageTypeSlug: string, wanted: string) => boolean
   readonly subfolders: readonly string[]
+  readonly held: ReadonlySet<string>
   readonly under: (folder: string) => readonly string[]
   readonly declaring: (folder: string) => Declaring | null
   readonly naming: (folder: string) => Wanted | null
@@ -88,6 +89,27 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement: "Every subfolder is a folder of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subfolder named as an enabled shape's own name is a part rather than a stray.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Those names are the ones the enabled shapes publish.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Such a subfolder is judged of its own by the shape whose name that subfolder takes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Passing it over as a part loses no judgement.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shape whose subject is a folder of one name reads no folder of another name.",
     },
     {
       invariantKind: "absence",

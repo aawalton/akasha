@@ -65,8 +65,18 @@ export type Shaping = {
   readonly holds?: Standing["holds"]
   readonly declared?: Standing["declared"]
   readonly partOf?: Standing["partOf"]
+  readonly held?: ReadonlySet<string>
   readonly deep?: readonly string[]
 }
+
+export const HELD_IN_TESTS = new Set<string>([
+  "modules",
+  "pages",
+  "properties",
+  "scripts",
+  "sections",
+  "workstation-services",
+])
 
 export function folderFrom(shaping: Shaping): (names: readonly string[]) => Standing {
   const extending = shaping.extending ?? ((): boolean => false)
@@ -91,6 +101,7 @@ export function folderFrom(shaping: Shaping): (names: readonly string[]) => Stan
       entered: () => false,
       extending,
       subfolders: grouped.foldersIn(shaping.folder),
+      held: shaping.held ?? HELD_IN_TESTS,
       under: (at) => grouped.at(at),
       declaring,
       naming: shaping.naming ?? ((): null => null),

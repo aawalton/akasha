@@ -18,6 +18,7 @@ import {
 import {
   folderFrom,
   grouping,
+  HELD_IN_TESTS,
   holding,
   segmented,
   segmentedLater,
@@ -135,7 +136,8 @@ test("a folder answering to a changed page is judged though no path inside it ch
     change(["akasha/foo/foo.module.ts"], { "akasha/foo/foo.module.ts": "" }, {}),
     NAMING_NONE,
     grouped,
-    holds
+    holds,
+    HELD_IN_TESTS
   )
   expect([...said].sort()).toEqual([
     "",
@@ -154,13 +156,20 @@ test("the workspace root is judged, and no folder answers to it", () => {
     change(["one/one.module.ts"], { "one/one.module.ts": "" }, {}),
     NAMING_NONE,
     grouped,
-    holds
+    holds,
+    HELD_IN_TESTS
   )
   expect([...said].sort()).toEqual(["", "one"])
 })
 
 test("a change carrying no path judges no folder at all", () => {
-  const said = foldersJudgedBy(change([], {}, {}), NAMING_NONE, grouping({}), holding({}))
+  const said = foldersJudgedBy(
+    change([], {}, {}),
+    NAMING_NONE,
+    grouping({}),
+    holding({}),
+    HELD_IN_TESTS
+  )
   expect([...said]).toEqual([])
 })
 

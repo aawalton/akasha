@@ -1,16 +1,12 @@
-import { basename } from "node:path"
 import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
 import type { Standing } from "../folder-shape.page-type.ts"
 
+export const HOLDS = "properties"
+
 const PROPERTY = "page-property"
 
-const PROPERTIES = "properties"
-
 export function propertyPagesOnly(standing: Standing): readonly string[] {
-  const named = basename(standing.folder)
-  const misnamed =
-    named === PROPERTIES ? [] : [`it is named \`${named}\` rather than \`${PROPERTIES}\``]
-  if (standing.files.length === 0) return misnamed
+  if (standing.files.length === 0) return []
   const said: string[] = []
   if (standing.strays.length > 0) {
     said.push(
@@ -31,5 +27,5 @@ export function propertyPagesOnly(standing: Standing): readonly string[] {
     )
   }
   if (standing.pages.length === 0 && said.length === 0) said.push("it holds no page")
-  return [...said, ...misnamed]
+  return said
 }
