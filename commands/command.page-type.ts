@@ -94,6 +94,7 @@ export const command = {
     "module/warrant-owing",
     "module/namespace-listing",
     "module/refusals-keeping",
+    "module/value-minting",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",
