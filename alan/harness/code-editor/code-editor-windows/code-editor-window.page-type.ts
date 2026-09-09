@@ -1,7 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type CodeEditorWindow = Page
 
 export const codeEditorWindow = {
   id: "01a06826-92e5-77ad-ad85-f1aa8cb5d359",
@@ -19,4 +16,5 @@ export const codeEditorWindow = {
         "A closed window's page and its groups' and tabs' pages go in the hourly sweep rather than at once.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
