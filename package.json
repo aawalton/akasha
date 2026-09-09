@@ -93,7 +93,9 @@
     "@akasha/sms-core": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/health-samples-access": "workspace:*",
-    "@akasha/health-samples-day": "workspace:*"
+    "@akasha/health-samples-day": "workspace:*",
+    "@akasha/temper-capture-datamining": "workspace:*",
+    "@akasha/temper-capture-host": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

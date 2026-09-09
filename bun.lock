@@ -42,6 +42,8 @@
         "@akasha/temper-addon-data": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
+        "@akasha/temper-capture-datamining": "workspace:*",
+        "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-catalog-host": "workspace:*",
         "@akasha/temper-catalog-side-file": "workspace:*",
@@ -1362,16 +1364,6 @@
         "@akasha/temper-capture-writer": "workspace:*",
       },
     },
-    "temper/capture-datamining-reader": {
-      "name": "@akasha/temper-capture-datamining-reader",
-      "dependencies": {
-        "@akasha/temper-capture-datamining": "workspace:*",
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-saved-variables": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/capture-descriptor": {
       "name": "@akasha/temper-capture-descriptor",
     },
@@ -2393,7 +2385,6 @@
         "@akasha/temper-addon-generators": "workspace:*",
         "@akasha/temper-build-codec": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-capture-datamining-reader": "workspace:*",
         "@akasha/temper-capture-errors": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
         "@akasha/temper-capture-sales": "workspace:*",
@@ -2788,8 +2779,6 @@
     "@akasha/temper-capture-datamining": ["@akasha/temper-capture-datamining@workspace:temper/capture-datamining"],
 
     "@akasha/temper-capture-datamining-addon": ["@akasha/temper-capture-datamining-addon@workspace:temper/capture-datamining-addon"],
-
-    "@akasha/temper-capture-datamining-reader": ["@akasha/temper-capture-datamining-reader@workspace:temper/capture-datamining-reader"],
 
     "@akasha/temper-capture-descriptor": ["@akasha/temper-capture-descriptor@workspace:temper/capture-descriptor"],
 
