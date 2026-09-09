@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   aProperty,
+  aType,
   bodyOf,
   HELD_CODE,
   HELD_PAGE,
@@ -133,7 +134,7 @@ const CHILD = pageOf({
   id: idOf("d"),
   pageTypeSlug: "module",
   slug: "child",
-  definition: "a page its parent names in part-slugs",
+  definition: "a page its parent names in parts",
 })
 
 function worldIn(root: string, reaching: Reaching = RUNS): World {
@@ -179,13 +180,29 @@ function naming(slug: string, id: string, named: string): string {
     id,
     pageTypeSlug: "module",
     slug,
-    definition: "a page naming the child in part-slugs",
-    partSlugs: [named],
+    definition: "a page naming the child in parts",
+    parts: [named],
   })
 }
 
+const PARTS = aProperty("01a04a4a-0002-7000-8000-000000000008", "parts", "relation-property", {
+  targetPageType: "domain",
+})
+
+const MODULE = aType(
+  idOf("6"),
+  "module",
+  ["page-type/domain"],
+  ["code", "test", "note", "part-slugs", "parts"]
+)
+
+const DECLARING: Readonly<Record<string, string>> = {
+  [`akasha/${MODULE[0]}`]: bodyOf(MODULE[1]),
+  [`akasha/${PARTS[0]}`]: bodyOf(PARTS[1]),
+}
+
 function familyRepo(named: Readonly<Record<string, string>>): string {
-  return indexedRepo({ [CHILD_PAGE]: CHILD, ...named })
+  return indexedRepo({ ...DECLARING, [CHILD_PAGE]: CHILD, ...named })
 }
 
 function bodiesOf(said: Answer, world: World): ReadonlyMap<string, string | null> {
@@ -261,19 +278,19 @@ test("a page an earlier change in the same answer took away is no page here", as
   expect(said.refused).toBe(`\`${NAMER_PAGE}\` names no page, so no page is taken away`)
 })
 
-test("the parent naming the page in part-slugs is answered from the world", () => {
-  const root = indexedRepo()
+test("the parent naming the page in parts is answered from the world", () => {
+  const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
 
-  expect(parentsOf(worldIn(root), HELD_PAGE)).toEqual([
-    { path: NAMER_PAGE, propertySlug: "part-slugs" },
+  expect(parentsOf(worldIn(root), CHILD_PAGE)).toEqual([
+    { path: PARENT_PAGE, propertySlug: "parts" },
   ])
 })
 
 test("a parent an earlier change in the same answer took away is answered no longer", () => {
-  const root = indexedRepo()
-  const world = worldOver(worldIn(root), tookAway(NAMER_PAGE))
+  const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
+  const world = worldOver(worldIn(root), tookAway(PARENT_PAGE))
 
-  expect(parentsOf(world, HELD_PAGE)).toEqual([])
+  expect(parentsOf(world, CHILD_PAGE)).toEqual([])
 })
 
 test("the page and the parent's entry for that page go in one answer", async () => {
@@ -285,7 +302,7 @@ test("the page and the parent's entry for that page go in one answer", async () 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
   expect(bodiesOf(said, world).get(CHILD_PAGE)).toBe(null)
-  expect(bodyIn(said, world, PARENT_PAGE)).toContain('"partSlugs": []')
+  expect(bodyIn(said, world, PARENT_PAGE)).toContain('"parts": []')
   expect(bodyIn(said, world, PARENT_PAGE)).not.toContain("module/child")
 })
 
@@ -297,7 +314,7 @@ test("a parent naming the page bare rather than qualified loses that entry too",
 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
-  expect(bodyIn(said, world, PARENT_PAGE)).toContain('"partSlugs": []')
+  expect(bodyIn(said, world, PARENT_PAGE)).toContain('"parts": []')
   expect(bodyIn(said, world, PARENT_PAGE)).not.toContain('"child"')
 })
 
@@ -313,8 +330,8 @@ test("a page two parents name loses its entry in both", async () => {
 
   expect(said.refused).toBe(null)
   expect([...pathsIn(said)].sort()).toEqual([AUNT_PAGE, CHILD_PAGE, PARENT_PAGE])
-  expect(bodyIn(said, world, PARENT_PAGE)).toContain('"partSlugs": []')
-  expect(bodyIn(said, world, AUNT_PAGE)).toContain('"partSlugs": []')
+  expect(bodyIn(said, world, PARENT_PAGE)).toContain('"parts": []')
+  expect(bodyIn(said, world, AUNT_PAGE)).toContain('"parts": []')
 })
 
 test("a page its parent names is refused by the relation guard no longer", async () => {
@@ -322,7 +339,7 @@ test("a page its parent names is refused by the relation guard no longer", async
   const world = worldIn(root)
   const alone = guardedBy(world, tookAway(CHILD_PAGE), [relationNotLeftHanging])
 
-  expect(parentsOf(world, CHILD_PAGE)).toEqual([{ path: PARENT_PAGE, propertySlug: "part-slugs" }])
+  expect(parentsOf(world, CHILD_PAGE)).toEqual([{ path: PARENT_PAGE, propertySlug: "parts" }])
   expect(alone.refused ?? "").toContain(`\`${CHILD_PAGE}\` is taken away`)
   expect((await runChange(world, { at: CHILD_PAGE })).refused).toBe(null)
 })
@@ -360,7 +377,7 @@ test("a page taken away over a ledger is answered rather than answered twice", a
   expect([...pathsIn(said)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
 })
 
-test("a page a parent names in part-slugs goes through the guarded chain", async () => {
+test("a page a parent names in parts goes through the guarded chain", async () => {
   const root = familyRepo({ [PARENT_PAGE]: naming("parent", idOf("e"), "module/child") })
 
   const said = await runChange(worldIn(root, GUARDED), { at: CHILD_PAGE })
@@ -369,7 +386,7 @@ test("a page a parent names in part-slugs goes through the guarded chain", async
   expect([...pathsIn(said)].sort()).toEqual([CHILD_PAGE, PARENT_PAGE])
 })
 
-test("a page a relation outside part-slugs names is refused through the guarded chain", async () => {
+test("a page a relation outside parts names is refused through the guarded chain", async () => {
   const root = familyRepo({ [CHILD_NOTER_PAGE]: noting("child-noter", idOf("0"), "child") })
   const world = worldIn(root, GUARDED)
 

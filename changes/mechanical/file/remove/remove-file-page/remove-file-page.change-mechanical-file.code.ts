@@ -15,9 +15,7 @@ import {
 import { claimedIn } from "../../../../modules/page-claiming/page-claiming.module.code.ts"
 import { namersIn, pageIn } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
 
-const PART_SLUGS = "part-slugs"
-
-const PART_SLUGS_KEY = "partSlugs"
+const PARTS = "parts"
 
 const REMOVE_FILE = "change-mechanical-file/remove-file"
 
@@ -32,7 +30,7 @@ export type Asked = {
 }
 
 export function parentsOf(world: World, at: string): readonly Named[] {
-  return namersIn(world, at, PART_SLUGS)
+  return namersIn(world, at, PARTS)
 }
 
 function addressFor(at: string): typeof REMOVE_FILE_CODE | typeof REMOVE_FILE {
@@ -69,7 +67,7 @@ async function unnamingIn(world: World, at: string, parents: readonly Named[]): 
   for (const parent of parents) {
     const one = await reach(seen, REMOVE_PROPERTY_VALUE, {
       at: parent.path,
-      key: PART_SLUGS_KEY,
+      key: PARTS,
       value: qualified,
     })
     if (one.said.refused === null) {
@@ -79,7 +77,7 @@ async function unnamingIn(world: World, at: string, parents: readonly Named[]): 
     }
     const bare = await reach(seen, REMOVE_PROPERTY_VALUE, {
       at: parent.path,
-      key: PART_SLUGS_KEY,
+      key: PARTS,
       value: said.slug,
     })
     if (bare.said.refused !== null) return { said: one.said, world: seen }

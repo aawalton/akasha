@@ -35,7 +35,7 @@ export const removeFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The page's entry in the parent's `part-slugs` is dropped before any file goes.",
+      statement: "The page's entry in the parent's `parts` is dropped before any file goes.",
     },
     {
       invariantKind: "departure",
@@ -67,12 +67,11 @@ export const removeFilePage = {
     },
     {
       invariantKind: "departure",
-      statement: "Containment is a relation named in the parent's `part-slugs`.",
+      statement: "Containment is a relation named in the parent's `parts`.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The page's entry in the parent's `part-slugs` is dropped by `remove-property-value`.",
+      statement: "The page's entry in the parent's `parts` is dropped by `remove-property-value`.",
     },
     {
       invariantKind: "departure",
