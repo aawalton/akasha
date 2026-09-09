@@ -4,7 +4,7 @@ export const alexaThymeFormerlyAlexithymia0008PublicationAndStubbing1441752 = {
   id: "01a08391-e074-738d-9ddd-1f5d45b2425c",
   pageTypeSlug: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0008-publication-and-stubbing-1441752",
-  partOfCollectionSlugs: ["story-read/alexa-thyme-formerly-alexithymia"],
+  storySlug: "story-read/alexa-thyme-formerly-alexithymia",
   position: 8,
   publishedAt: "2023-12-13",
   unitSlug: "words",

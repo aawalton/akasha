@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0047Chapter45TheSolari =
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0047-chapter-45-the-solari",
   title: "Chapter 45 - The Solari",
-  partOfCollectionSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
+  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 47,
   ownLength: 3978,
   unitSlug: "words",

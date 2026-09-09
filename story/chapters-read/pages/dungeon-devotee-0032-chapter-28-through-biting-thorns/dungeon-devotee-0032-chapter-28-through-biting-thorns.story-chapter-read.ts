@@ -5,7 +5,7 @@ export const dungeonDevotee0032Chapter28ThroughBitingThorns = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-devotee-0032-chapter-28-through-biting-thorns",
   title: "Chapter 28: Through Biting Thorns",
-  partOfCollectionSlugs: ["dungeon-devotee"],
+  storySlug: "dungeon-devotee",
   position: 32,
   ownLength: 8708,
   ownProgress: 8625,

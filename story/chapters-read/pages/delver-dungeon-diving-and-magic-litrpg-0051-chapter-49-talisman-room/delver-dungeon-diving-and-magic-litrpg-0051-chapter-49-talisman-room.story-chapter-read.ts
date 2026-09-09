@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0051Chapter49TalismanRoom = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0051-chapter-49-talisman-room",
   title: "Chapter 49: Talisman Room",
-  partOfCollectionSlugs: ["delver-dungeon-diving-and-magic-litrpg"],
+  storySlug: "delver-dungeon-diving-and-magic-litrpg",
   position: 51,
   ownLength: 2385,
   unitSlug: "words",

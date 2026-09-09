@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0018Chapter18OpenTicket 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0018-chapter-18-open-ticket",
   title: "Chapter 18 - Open Ticket",
-  partOfCollectionSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
+  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 18,
   ownLength: 3022,
   unitSlug: "words",

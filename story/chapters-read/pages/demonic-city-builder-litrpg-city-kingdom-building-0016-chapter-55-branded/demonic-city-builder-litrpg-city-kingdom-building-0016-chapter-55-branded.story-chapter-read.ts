@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0016Chapter55Branded = {
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0016-chapter-55-branded",
   title: "Chapter 55 - Branded",
-  partOfCollectionSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
+  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 16,
   ownLength: 2686,
   unitSlug: "words",

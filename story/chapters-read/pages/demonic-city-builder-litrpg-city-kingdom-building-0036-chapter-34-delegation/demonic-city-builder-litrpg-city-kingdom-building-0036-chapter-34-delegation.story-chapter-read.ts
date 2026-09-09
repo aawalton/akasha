@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0036Chapter34Delegation 
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0036-chapter-34-delegation",
   title: "Chapter 34 - Delegation",
-  partOfCollectionSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
+  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 36,
   ownLength: 2395,
   unitSlug: "words",

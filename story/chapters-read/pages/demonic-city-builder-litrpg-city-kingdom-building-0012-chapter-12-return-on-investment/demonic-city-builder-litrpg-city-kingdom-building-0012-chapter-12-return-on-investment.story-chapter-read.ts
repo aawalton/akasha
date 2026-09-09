@@ -5,7 +5,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding0012Chapter12ReturnOnInv
   pageTypeSlug: "story-chapter-read",
   slug: "demonic-city-builder-litrpg-city-kingdom-building-0012-chapter-12-return-on-investment",
   title: "Chapter 12 - Return On Investment",
-  partOfCollectionSlugs: ["demonic-city-builder-litrpg-city-kingdom-building"],
+  storySlug: "demonic-city-builder-litrpg-city-kingdom-building",
   position: 12,
   ownLength: 1705,
   unitSlug: "words",
