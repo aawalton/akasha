@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const geoIo = {
   id: "01a05c48-deeb-7000-a8e9-296daa14b0c7",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "geo-io",
   definition: "a point on the earth, found by the name of a place and measured against another",
-  manifest: "json",
   parts: ["module/coord", "module/geoapify"],
   invariants: [
     {
@@ -13,4 +12,4 @@ export const geoIo = {
       statement: "Nothing here has an api key.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

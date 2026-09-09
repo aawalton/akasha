@@ -1,4 +1,4 @@
-import { buildGeoapifyAutocompleteUrl } from "@akasha/geo-io/geoapify"
+import { buildGeoapifyAutocompleteUrl } from "akasha/alan/harness/geo-io/geoapify/geoapify.module.code.ts"
 import { z } from "zod"
 import type { PlaceCandidate } from "../../place-candidate/place-candidate.module.code.ts"
 

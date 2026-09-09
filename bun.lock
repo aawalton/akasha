@@ -97,7 +97,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/geo-io": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/location-traces-access": "workspace:*",
         "@akasha/object-store": "workspace:*",
@@ -188,12 +187,6 @@
     },
     "alan/harness/errors-core": {
       "name": "@akasha/errors-core",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
-    "alan/harness/geo-io": {
-      "name": "@akasha/geo-io",
       "dependencies": {
         "zod": "^4.3.6",
       },
@@ -2907,8 +2900,6 @@
     "@akasha/file-page-identity": ["@akasha/file-page-identity@workspace:file-page-identity"],
 
     "@akasha/file-system": ["@akasha/file-system@workspace:file-system"],
-
-    "@akasha/geo-io": ["@akasha/geo-io@workspace:alan/harness/geo-io"],
 
     "@akasha/git": ["@akasha/git@workspace:git"],
 

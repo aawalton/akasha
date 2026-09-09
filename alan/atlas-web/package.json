@@ -18,7 +18,6 @@
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
     "@akasha/design-primitives": "workspace:*",
-    "@akasha/geo-io": "workspace:*",
     "@akasha/location-traces-access": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",
