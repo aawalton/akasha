@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const trackSessionSwitch = {
   id: "01a07979-7e5f-7249-9356-fdb1cc6b9acc",
   pageTypeSlug: "command",
+  type: "command",
   slug: "track-session-switch",
   definition: "the command ending one stretch and beginning the next at one time",
   code: "ts",

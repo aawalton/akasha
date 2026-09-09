@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const mobileSimScreenshot = {
   id: "01a0685d-ceae-700b-913b-dbf3c509a388",
   pageTypeSlug: "command",
+  type: "command",
   slug: "mobile-sim-screenshot",
   definition: "the command taking a picture of the simulator screen and saying where it was put",
   code: "ts",

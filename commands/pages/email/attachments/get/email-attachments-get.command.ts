@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const emailAttachmentsGet = {
   id: "01a06810-cf11-75ef-84b0-74beeb5d5383",
   pageTypeSlug: "command",
+  type: "command",
   slug: "email-attachments-get",
   definition: "the command fetching one attachment's bytes by id, with its size beside them",
   code: "ts",

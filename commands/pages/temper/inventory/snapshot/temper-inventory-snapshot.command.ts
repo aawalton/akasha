@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperInventorySnapshot = {
   id: "01a0603c-c1d9-7ef8-acb9-f19095076d6e",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-snapshot",
   definition: "the command giving back a stored holdings snapshot as one whole record",
   code: "ts",

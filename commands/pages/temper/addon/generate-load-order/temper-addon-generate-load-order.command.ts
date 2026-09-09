@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperAddonGenerateLoadOrder = {
   id: "01a0603c-c1c9-7ee8-bee7-dc59bf99a048",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-addon-generate-load-order",
   definition:
     "the command writing an addon's load-order manifest and build stamp into its build output",

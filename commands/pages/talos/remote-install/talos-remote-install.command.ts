@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const talosRemoteInstall = {
   id: "01a06810-1f0b-741e-a044-c84fec558b56",
   pageTypeSlug: "command",
+  type: "command",
   slug: "talos-remote-install",
   definition: "the command replacing the Linux running on a remote node with Talos, over SSH",
   code: "ts",

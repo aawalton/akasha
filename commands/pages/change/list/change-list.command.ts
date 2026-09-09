@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const changeList = {
   id: "01a0816b-f0ae-7c9a-88cc-25ed0222c61f",
   pageTypeSlug: "command",
+  type: "command",
   slug: "change-list",
   definition: "the edits an agent keeps, and the edits each subagent handed that agent",
   code: "ts",

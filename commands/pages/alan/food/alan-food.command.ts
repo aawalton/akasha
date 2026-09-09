@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const alanFood = {
   id: "01a06809-250b-7ec1-99ac-2150ec2c5f74",
   pageTypeSlug: "command",
+  type: "command",
   slug: "alan-food",
   definition: "the command acting on what Alan ate",
   code: "ts",

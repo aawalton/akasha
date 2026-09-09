@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const seatMessaged = {
   id: "01a0780e-7f14-71fd-ac09-b12de342c207",
   pageTypeSlug: "command",
+  type: "command",
   slug: "seat-messaged",
   definition: "the command counting a message Alan wrote to the persona at a seat",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperAddonDataGenerate = {
   id: "01a0603c-c1c9-7a51-951e-6b45cf45c084",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-addon-data-generate",
   definition: "the command writing the addon data files from the pages with their source",
   code: "ts",

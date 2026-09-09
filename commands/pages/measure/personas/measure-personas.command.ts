@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const measurePersonas = {
   id: "01a082e9-18fb-7213-bd29-f105c8f9dd20",
   pageTypeSlug: "command",
+  type: "command",
   slug: "measure-personas",
   definition: "the command saying each persona's relationship level and the total behind it",
   code: "ts",

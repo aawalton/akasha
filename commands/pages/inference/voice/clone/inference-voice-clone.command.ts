@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const inferenceVoiceClone = {
   id: "01a0685e-fd50-7b15-b3e5-0d3469cc2a28",
   pageTypeSlug: "command",
+  type: "command",
   slug: "inference-voice-clone",
   definition: "the command speaking text in the voice a reference clip carries",
   code: "ts",

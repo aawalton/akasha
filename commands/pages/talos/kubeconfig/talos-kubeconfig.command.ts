@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const talosKubeconfig = {
   id: "01a06810-1f0b-744f-aff5-3618b540bf6c",
   pageTypeSlug: "command",
+  type: "command",
   slug: "talos-kubeconfig",
   definition: "the command fetching a Talos cluster's kubeconfig onto the workstation",
   code: "ts",

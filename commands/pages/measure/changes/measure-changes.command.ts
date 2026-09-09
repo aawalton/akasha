@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const measureChanges = {
   id: "01a080d8-9c11-7e59-b6c0-92e324e70a10",
   pageTypeSlug: "command",
+  type: "command",
   slug: "measure-changes",
   definition:
     "the command saying what a change run and an apply run cost in processor time and memory",

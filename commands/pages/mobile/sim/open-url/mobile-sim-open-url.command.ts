@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const mobileSimOpenUrl = {
   id: "01a0685d-ceae-7009-892c-425eee9c835b",
   pageTypeSlug: "command",
+  type: "command",
   slug: "mobile-sim-open-url",
   definition: "the command opening a route in the simulator and leaving a session at it",
   code: "ts",

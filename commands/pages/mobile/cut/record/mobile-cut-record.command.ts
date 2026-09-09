@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const mobileCutRecord = {
   id: "01a0685d-ceae-7002-b932-ab750606b438",
   pageTypeSlug: "command",
+  type: "command",
   slug: "mobile-cut-record",
   definition: "the command filing what a TestFlight build already at Apple was cut from",
   code: "ts",

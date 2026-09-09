@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperInventoryItemRuleLock = {
   id: "01a0603c-c1d3-7b21-8e7e-1cbbd4192e8b",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-item-rule-lock",
   definition: "the command locking a per-item rule named by its id",
   code: "ts",

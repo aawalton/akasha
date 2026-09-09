@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperInventoryAutomationSet = {
   id: "01a0603c-c1ce-7042-a37c-880bfd4380f9",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-automation-set",
   definition: "the command setting or clearing one automation toggle",
   code: "ts",

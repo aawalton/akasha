@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperEsoGenerateChatterNames = {
   id: "01a0685d-f8fa-7c84-afa7-42c2af785557",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-eso-generate-chatter-names",
   definition:
     "the command writing the chatter and interaction name registry the quests addon reads",

@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const inferencePlan = {
   id: "01a0685e-fd50-7fd6-9550-aa217e15a4b1",
   pageTypeSlug: "command",
+  type: "command",
   slug: "inference-plan",
   definition: "the command saying what bringing the inference hosts to the registry would do",
   code: "ts",

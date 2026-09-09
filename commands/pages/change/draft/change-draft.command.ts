@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const changeDraft = {
   id: "01a08179-3176-7aa0-8d0b-d07d8da49eb2",
   pageTypeSlug: "command",
+  type: "command",
   slug: "change-draft",
   definition: "the command answering one change and keeping its edits rather than landing them",
   code: "ts",

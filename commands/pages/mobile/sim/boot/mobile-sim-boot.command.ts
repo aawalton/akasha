@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const mobileSimBoot = {
   id: "01a0685d-ceae-7006-9cff-358159094688",
   pageTypeSlug: "command",
+  type: "command",
   slug: "mobile-sim-boot",
   definition: "the command bringing up what the simulator is driven through",
   code: "ts",

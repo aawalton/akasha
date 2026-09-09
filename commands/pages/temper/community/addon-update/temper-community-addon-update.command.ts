@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperCommunityAddonUpdate = {
   id: "01a0603c-c1cd-7290-b641-179d70de4bc2",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-community-addon-update",
   definition:
     "the command installing the published updates for the third-party game addons already here",

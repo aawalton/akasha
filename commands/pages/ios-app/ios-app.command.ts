@@ -3,6 +3,7 @@ import type { Command } from "../../command.page-type.ts"
 export const iosApp = {
   id: "01a059ba-a798-7c72-b37c-b3b3cdfc33a9",
   pageTypeSlug: "command",
+  type: "command",
   slug: "ios-app",
   definition: "the command acting on the iOS apps akasha carries",
   code: "ts",

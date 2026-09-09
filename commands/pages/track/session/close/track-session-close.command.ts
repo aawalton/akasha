@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const trackSessionClose = {
   id: "01a07979-7ead-77a5-955b-3cf604e934c7",
   pageTypeSlug: "command",
+  type: "command",
   slug: "track-session-close",
   definition: "the command ending the open stretch of a day",
   code: "ts",

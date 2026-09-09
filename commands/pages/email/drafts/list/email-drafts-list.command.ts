@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const emailDraftsList = {
   id: "01a06810-cf11-711a-abf5-acd61e55baac",
   pageTypeSlug: "command",
+  type: "command",
   slug: "email-drafts-list",
   definition: "the command naming the id, message and thread of each draft in the mailbox",
   code: "ts",

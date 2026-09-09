@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const pageIconSearchIndexGenerate = {
   id: "01a06862-06c8-7004-83db-2d1d50b06017",
   pageTypeSlug: "command",
+  type: "command",
   slug: "page-icon-search-index-generate",
   definition: "the command building the icon search index from a lucide release, staged as bodies",
   code: "ts",

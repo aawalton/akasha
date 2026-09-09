@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const infrastructureShellInitBash = {
   id: "01a0680a-fa30-7da6-aede-88d6a9a5e49a",
   pageTypeSlug: "command",
+  type: "command",
   slug: "infrastructure-shell-init-bash",
   definition: "the command composing the bash a terminal sources",
   code: "ts",

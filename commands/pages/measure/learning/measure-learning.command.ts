@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const measureLearning = {
   id: "01a077fb-4ca8-7027-80b1-85c446d6786a",
   pageTypeSlug: "command",
+  type: "command",
   slug: "measure-learning",
   definition:
     "how far through the Book of Everything Alan has got, part by part and over the whole",

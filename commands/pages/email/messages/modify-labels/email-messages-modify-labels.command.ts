@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const emailMessagesModifyLabels = {
   id: "01a06810-cf11-753d-aad0-e13c11000ad2",
   pageTypeSlug: "command",
+  type: "command",
   slug: "email-messages-modify-labels",
   definition: "the command putting label ids on one Gmail message and taking label ids off it",
   code: "ts",

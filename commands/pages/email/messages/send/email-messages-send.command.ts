@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const emailMessagesSend = {
   id: "01a06810-cf11-717b-8bb7-cfc22b009ed1",
   pageTypeSlug: "command",
+  type: "command",
   slug: "email-messages-send",
   definition: "the command sending a composed message from the authenticated mailbox",
   code: "ts",

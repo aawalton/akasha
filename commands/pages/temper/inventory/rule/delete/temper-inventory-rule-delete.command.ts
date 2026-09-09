@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperInventoryRuleDelete = {
   id: "01a0603c-c1d7-71ff-becd-5055afe65a24",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-rule-delete",
   definition: "the command taking away a category rule named by its id",
   code: "ts",

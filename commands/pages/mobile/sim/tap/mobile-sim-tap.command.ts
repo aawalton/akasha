@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const mobileSimTap = {
   id: "01a0685d-ceae-700d-a860-a518622e0d4a",
   pageTypeSlug: "command",
+  type: "command",
   slug: "mobile-sim-tap",
   definition: "the command tapping the simulator screen the way a finger would",
   code: "ts",

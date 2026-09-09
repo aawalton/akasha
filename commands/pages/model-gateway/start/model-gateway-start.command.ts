@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const modelGatewayStart = {
   id: "01a069b9-74bd-7486-be0b-a850ee00342c",
   pageTypeSlug: "command",
+  type: "command",
   slug: "model-gateway-start",
   definition: "the command starting one gateway on the akasha entry, apart from the fleet",
   code: "ts",

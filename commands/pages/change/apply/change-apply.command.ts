@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const changeApply = {
   id: "01a08179-6ebf-724c-8698-aa6e02645d0e",
   pageTypeSlug: "command",
+  type: "command",
   slug: "change-apply",
   definition: "the command landing every edit kept, answering one change first where one is named",
   code: "ts",

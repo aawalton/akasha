@@ -3,6 +3,7 @@ import type { Command } from "../../command.page-type.ts"
 export const complexity = {
   id: "01a0680b-94d1-745a-98c7-ad24f22fec92",
   pageTypeSlug: "command",
+  type: "command",
   slug: "complexity",
   definition: "the command saying how complex each function and file of a checkout's TypeScript is",
   code: "ts",

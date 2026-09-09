@@ -3,6 +3,7 @@ import type { Command } from "../../command.page-type.ts"
 export const icloud = {
   id: "01a06809-e6ee-767a-a4ca-40bb4b0c44c0",
   pageTypeSlug: "command",
+  type: "command",
   slug: "icloud",
   definition: "the command acting on the photos an iCloud shared album holds",
   code: "ts",

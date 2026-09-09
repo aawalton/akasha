@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperInventoryParity = {
   id: "01a0603c-c1d6-73fa-8ab1-b6d5deb216e2",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-parity",
   definition: "the command ruling whether the addon's trace of an item matches a fresh evaluation",
   code: "ts",

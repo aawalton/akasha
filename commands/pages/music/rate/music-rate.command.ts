@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const musicRate = {
   id: "01a062fb-d2fb-72a1-8169-279a6baf3d97",
   pageTypeSlug: "command",
+  type: "command",
   slug: "music-rate",
   definition: "the command recording Alan's grade and what he said onto a song or an artist",
   code: "ts",

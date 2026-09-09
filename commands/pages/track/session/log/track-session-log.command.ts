@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const trackSessionLog = {
   id: "01a07979-7efc-7ab9-ab22-d842668005c4",
   pageTypeSlug: "command",
+  type: "command",
   slug: "track-session-log",
   definition: "the command writing a stretch that already began and ended",
   code: "ts",

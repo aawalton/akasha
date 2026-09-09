@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperAddonBundlePublish = {
   id: "01a0603c-c1c8-7f53-b9d9-96714b600427",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-addon-bundle-publish",
   definition:
     "the command putting the addon bundle into the cluster registry under its content hash",

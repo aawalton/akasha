@@ -3,6 +3,7 @@ import type { Command } from "../../command.page-type.ts"
 export const drive = {
   id: "01a06809-e6ee-78ea-b3d7-34282c2848ae",
   pageTypeSlug: "command",
+  type: "command",
   slug: "drive",
   definition: "the command acting on the files in Alan's Google Drive",
   code: "ts",

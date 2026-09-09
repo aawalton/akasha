@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperInventoryMasterWritProbe = {
   id: "01a0603c-c1d5-7ba7-b43c-d88542cae62f",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-master-writ-probe",
   definition: "the command giving back the addon's last master-writ journal capture",
   code: "ts",

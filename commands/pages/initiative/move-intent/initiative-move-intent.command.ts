@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const initiativeMoveIntent = {
   id: "01a081e5-4603-78f0-8295-3ee2947edb01",
   pageTypeSlug: "command",
+  type: "command",
   slug: "initiative-move-intent",
   definition: "the command carrying one intent to another place in the initiative with it",
   code: "ts",

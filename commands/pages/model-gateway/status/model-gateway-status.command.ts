@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const modelGatewayStatus = {
   id: "01a07c0e-59f9-7b4f-be43-11f442d1ea33",
   pageTypeSlug: "command",
+  type: "command",
   slug: "model-gateway-status",
   definition: "the command weighing the gateway each live seat runs against the tree here",
   code: "ts",

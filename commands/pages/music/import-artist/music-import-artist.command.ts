@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const musicImportArtist = {
   id: "01a062fb-d2fd-72f5-b24e-22a9635b5910",
   pageTypeSlug: "command",
+  type: "command",
   slug: "music-import-artist",
   definition: "the command bringing an artist and every song of theirs in from MusicBrainz",
   code: "ts",

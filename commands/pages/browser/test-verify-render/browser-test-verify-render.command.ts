@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const browserTestVerifyRender = {
   id: "01a06862-06c8-7001-8a4c-2018f029da13",
   pageTypeSlug: "command",
+  type: "command",
   slug: "browser-test-verify-render",
   definition:
     "the command telling a rendered page on a deployed site from a failure and from an empty shell",

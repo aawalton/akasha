@@ -3,6 +3,7 @@ import type { Command } from "../../command.page-type.ts"
 export const index = {
   id: "01a04de1-13fa-7331-979e-d443758eefad",
   pageTypeSlug: "command",
+  type: "command",
   slug: "index",
   definition: "the index repaired against the pages of the repository as it is",
   code: "ts",

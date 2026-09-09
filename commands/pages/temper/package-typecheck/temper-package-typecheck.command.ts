@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const temperPackageTypecheck = {
   id: "01a061f6-390b-72a7-97b3-528d057fbbf4",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-package-typecheck",
   definition:
     "the command typechecking a package under `temper/` against its own compiler settings",

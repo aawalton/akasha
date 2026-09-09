@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const talosConfigGen = {
   id: "01a06809-a024-740f-b1cb-f3271877bd51",
   pageTypeSlug: "command",
+  type: "command",
   slug: "talos-config-gen",
   definition: "the command writing one Talos node's machine-config overlay documents",
   code: "ts",

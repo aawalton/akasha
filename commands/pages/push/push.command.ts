@@ -3,6 +3,7 @@ import type { Command } from "../../command.page-type.ts"
 export const push = {
   id: "01a06cce-9280-7c22-afc1-5cfcba8a5ac4",
   pageTypeSlug: "command",
+  type: "command",
   slug: "push",
   definition: "the command with this checkout's commits to the remote its branch tracks",
   code: "ts",

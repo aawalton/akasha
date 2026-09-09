@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const talosImageBuild = {
   id: "01a06810-1f0b-710a-93fa-714723dbf5f9",
   pageTypeSlug: "command",
+  type: "command",
   slug: "talos-image-build",
   definition: "the command registering one node's schematic with the Talos Image Factory",
   code: "ts",

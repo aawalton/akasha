@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const mobileCutStatus = {
   id: "01a0685d-ceae-7003-b691-5ac97b0f647a",
   pageTypeSlug: "command",
+  type: "command",
   slug: "mobile-cut-status",
   definition: "the command saying whether a TestFlight cut is owed or the phones are current",
   code: "ts",

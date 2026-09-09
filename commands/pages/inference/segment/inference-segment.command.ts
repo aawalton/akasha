@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const inferenceSegment = {
   id: "01a0685e-fd50-7faf-a163-46fe4ccb9461",
   pageTypeSlug: "command",
+  type: "command",
   slug: "inference-segment",
   definition: "the command parting an image's foreground from its background as an alpha matte",
   code: "ts",

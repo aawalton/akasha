@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperInventoryCapacityAudit = {
   id: "01a0603c-c1d1-78cf-9174-01514c3d023a",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-capacity-audit",
   definition: "the command naming the destinations whose storage the rules would overflow",
   code: "ts",

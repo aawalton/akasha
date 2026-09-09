@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const measureAttributes = {
   id: "01a07803-0b6a-7fdb-9b43-0d4b23b072ee",
   pageTypeSlug: "command",
+  type: "command",
   slug: "measure-attributes",
   definition: "the command saying each attribute's level and the total behind that level",
   code: "ts",

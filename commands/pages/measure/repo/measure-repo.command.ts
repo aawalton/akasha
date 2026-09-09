@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const measureRepo = {
   id: "01a0796e-60aa-792a-9f56-2593355a10a6",
   pageTypeSlug: "command",
+  type: "command",
   slug: "measure-repo",
   definition: "the command counting the files the checkout has, by file type",
   code: "ts",

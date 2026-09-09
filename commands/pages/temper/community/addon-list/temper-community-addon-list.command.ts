@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperCommunityAddonList = {
   id: "01a0603c-c1cd-7bf8-b51c-c43b2e4bb128",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-community-addon-list",
   definition:
     "the command naming each installed third-party game addon beside its newest published version",

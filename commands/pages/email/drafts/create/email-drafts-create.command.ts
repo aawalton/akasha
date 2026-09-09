@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const emailDraftsCreate = {
   id: "01a06810-cf11-70dc-9875-5c649a88fe59",
   pageTypeSlug: "command",
+  type: "command",
   slug: "email-drafts-create",
   definition: "the command writing one Gmail draft from the flags a send takes, unsent",
   code: "ts",

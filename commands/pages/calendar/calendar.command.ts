@@ -3,6 +3,7 @@ import type { Command } from "../../command.page-type.ts"
 export const calendar = {
   id: "01a06809-e6ee-7c9b-8778-5da992d3080f",
   pageTypeSlug: "command",
+  type: "command",
   slug: "calendar",
   definition: "the command acting on Alan's Google calendar and the events on it",
   code: "ts",

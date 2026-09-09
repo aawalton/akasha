@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const measureClaudeAccountsUsage = {
   id: "01a0796e-6118-7440-9744-e4d725a51a0a",
   pageTypeSlug: "command",
+  type: "command",
   slug: "measure-claude-accounts-usage",
   definition: "the command saying what each account has spent of its two windows",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const imessageUnreadList = {
   id: "01a0685f-c8ed-7005-84fd-d9365b175452",
   pageTypeSlug: "command",
+  type: "command",
   slug: "imessage-unread-list",
   definition: "the command giving back the unread messages that came to Alan",
   code: "ts",

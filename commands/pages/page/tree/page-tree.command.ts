@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const pageTree = {
   id: "01a06936-e303-7910-8ed1-f5ea8e762847",
   pageTypeSlug: "command",
+  type: "command",
   slug: "page-tree",
   definition: "the index answers a page tree is composed from",
   code: "ts",

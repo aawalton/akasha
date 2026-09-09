@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperWatcherStatus = {
   id: "01a0603c-c1da-7d6c-b921-40b273376503",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-watcher-status",
   definition: "the command saying whether the workstation watcher is running",
   code: "ts",

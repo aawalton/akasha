@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperAddonBundleBuild = {
   id: "01a0603c-c1c8-7743-9bce-0b5a120c9b40",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-addon-bundle-build",
   definition: "the command packing every distributable addon's build output into one archive",
   code: "ts",

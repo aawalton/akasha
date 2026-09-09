@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const seatRefreshSettings = {
   id: "01a0685f-5754-74e9-8b40-493ffdcdadda",
   pageTypeSlug: "command",
+  type: "command",
   slug: "seat-refresh-settings",
   definition:
     "the command rewriting each running seat's settings file from the document as it now is",

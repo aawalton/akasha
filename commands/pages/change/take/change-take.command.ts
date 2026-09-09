@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const changeTake = {
   id: "01a08175-af77-75f4-8c7a-8b4315a39deb",
   pageTypeSlug: "command",
+  type: "command",
   slug: "change-take",
   definition: "the command making a subagent's handed edits this agent's own",
   code: "ts",

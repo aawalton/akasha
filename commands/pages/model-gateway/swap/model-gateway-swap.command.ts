@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const modelGatewaySwap = {
   id: "01a07c0e-7ae3-7f8a-935d-ab6589ed46e5",
   pageTypeSlug: "command",
+  type: "command",
   slug: "model-gateway-swap",
   definition: "the command respawning a live seat's gateway on the bytecode here",
   code: "ts",

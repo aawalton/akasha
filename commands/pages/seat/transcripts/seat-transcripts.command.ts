@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const seatTranscripts = {
   id: "01a06934-ff28-7819-ad05-c50a0471362c",
   pageTypeSlug: "command",
+  type: "command",
   slug: "seat-transcripts",
   definition: "the command saying where each seat's transcript file is",
   code: "ts",

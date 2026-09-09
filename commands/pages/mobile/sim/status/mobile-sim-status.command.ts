@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const mobileSimStatus = {
   id: "01a0685d-ceae-700c-9489-e7e3a1062803",
   pageTypeSlug: "command",
+  type: "command",
   slug: "mobile-sim-status",
   definition: "the command saying what simulator session is there",
   code: "ts",

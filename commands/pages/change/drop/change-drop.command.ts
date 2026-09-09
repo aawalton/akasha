@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const changeDrop = {
   id: "01a08175-75cb-75dc-a288-942c054573f9",
   pageTypeSlug: "command",
+  type: "command",
   slug: "change-drop",
   definition: "the command taking kept edits away without landing any of them",
   code: "ts",

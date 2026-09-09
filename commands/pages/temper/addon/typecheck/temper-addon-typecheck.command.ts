@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperAddonTypecheck = {
   id: "01a0603c-c1cb-7d74-ac42-cf9ae26b02f5",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-addon-typecheck",
   definition:
     "the command typechecking each addon against its own compiler settings with nothing emitted",

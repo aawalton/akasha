@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const claudeAccountReEnable = {
   id: "01a06861-b463-71ad-922e-5b006cdebd6f",
   pageTypeSlug: "command",
+  type: "command",
   slug: "claude-account-re-enable",
   definition:
     "the command putting one claude account back in the pool its subscription shut it out of",

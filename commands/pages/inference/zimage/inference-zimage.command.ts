@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const inferenceZimage = {
   id: "01a0680a-9cc0-7f99-8e78-ba4b0f5be1dd",
   pageTypeSlug: "command",
+  type: "command",
   slug: "inference-zimage",
   definition: "the command rendering one image off a registered checkpoint",
   code: "ts",

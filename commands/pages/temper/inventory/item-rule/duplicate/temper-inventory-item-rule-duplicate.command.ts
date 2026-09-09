@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperInventoryItemRuleDuplicate = {
   id: "01a0603c-c1d3-7aad-9ae3-451fe2454676",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-item-rule-duplicate",
   definition: "the command copying a per-item rule named by its id",
   code: "ts",

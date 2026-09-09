@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperEsoGenerateColonMethods = {
   id: "01a0685d-f8fa-7dc8-bf64-5a62864e6dbb",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-eso-generate-colon-methods",
   definition: "the command staging the census of the method names the base game defines on a class",
   code: "ts",

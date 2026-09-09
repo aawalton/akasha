@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperInventoryKnowledge = {
   id: "01a0603c-c1d4-7896-b651-fa71ab764327",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-knowledge",
   definition: "the command giving back what each character knows of recipes, motifs and scripts",
   code: "ts",

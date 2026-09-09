@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperInventoryBuyRuleCreate = {
   id: "01a0603c-c1cf-7f09-859a-70e4e6aaa5e3",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-buy-rule-create",
   definition: "the command adding a buy rule",
   code: "ts",

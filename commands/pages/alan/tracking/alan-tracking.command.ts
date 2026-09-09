@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const alanTracking = {
   id: "01a06057-f714-707b-acab-a560208ffcd3",
   pageTypeSlug: "command",
+  type: "command",
   slug: "alan-tracking",
   definition: "the pages and row files of Alan's tracking, composed by a program and landed",
   code: "ts",

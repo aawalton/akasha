@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const emailMessagesTrash = {
   id: "01a06810-cf11-7809-b382-e88022027eb3",
   pageTypeSlug: "command",
+  type: "command",
   slug: "email-messages-trash",
   definition: "the command moving one Gmail message to Trash",
   code: "ts",

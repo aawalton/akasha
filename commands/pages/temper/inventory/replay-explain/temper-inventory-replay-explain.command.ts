@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperInventoryReplayExplain = {
   id: "01a0603c-c1d6-752a-86f1-3c9eca4b7916",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-replay-explain",
   definition: "the command giving back the addon's last stored explain trace",
   code: "ts",

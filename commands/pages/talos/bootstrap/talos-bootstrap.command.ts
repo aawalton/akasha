@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const talosBootstrap = {
   id: "01a06809-a024-70e5-84a3-155889fe2c3e",
   pageTypeSlug: "command",
+  type: "command",
   slug: "talos-bootstrap",
   definition: "the command starting etcd on one Talos control-plane node",
   code: "ts",

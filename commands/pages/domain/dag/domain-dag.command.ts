@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const domainDag = {
   id: "01a07c03-8a7b-7661-a70a-f3c561dbfe12",
   pageTypeSlug: "command",
+  type: "command",
   slug: "domain-dag",
   definition: "the command drawing the domain tree, each domain under the domain with it",
   code: "ts",

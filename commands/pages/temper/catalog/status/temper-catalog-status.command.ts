@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperCatalogStatus = {
   id: "01a0603c-c1cc-7a60-8387-08c112165535",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-catalog-status",
   definition:
     "the command saying which catalog domains are collected and which are owed a collection",

@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const browserTestStorageState = {
   id: "01a06862-06c8-7002-8a7a-7c207e2c7cd4",
   pageTypeSlug: "command",
+  type: "command",
   slug: "browser-test-storage-state",
   definition:
     "the command signing the browser-test user in and writing the storage state a browser is seeded from",

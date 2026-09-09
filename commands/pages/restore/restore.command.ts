@@ -3,6 +3,7 @@ import type { Command } from "../../command.page-type.ts"
 export const restore = {
   id: "01a07267-f795-738d-90c6-a5e16e277228",
   pageTypeSlug: "command",
+  type: "command",
   slug: "restore",
   definition: "named paths put back as HEAD has them, in the working tree and in the git index",
   code: "ts",

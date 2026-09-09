@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const smsActingAccount = {
   id: "01a0685f-c8ed-7007-a130-cda36891535f",
   pageTypeSlug: "command",
+  type: "command",
   slug: "sms-acting-account",
   definition: "the command reading the write-as account out of a delivered SMS surface's footer",
   code: "ts",

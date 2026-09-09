@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const trackSessionOpen = {
   id: "01a07979-7e12-70a2-94c9-93c43aec2949",
   pageTypeSlug: "command",
+  type: "command",
   slug: "track-session-open",
   definition: "the command beginning a stretch on a day with none open",
   code: "ts",

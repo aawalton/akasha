@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const refreshMessages = {
   id: "01a082fe-341d-7593-8cfd-8216a7e94c2c",
   pageTypeSlug: "command",
+  type: "command",
   slug: "refresh-messages",
   definition: "the command counting again what Alan wrote each persona on each day",
   code: "ts",

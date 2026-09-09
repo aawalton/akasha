@@ -3,6 +3,7 @@ import type { Command } from "../../command.page-type.ts"
 export const performance = {
   id: "01a08788-54c2-76bf-801e-e29fd3f5aa9a",
   pageTypeSlug: "command",
+  type: "command",
   slug: "performance",
   definition: "the command running one performance and saying what that performance measured",
   code: "ts",

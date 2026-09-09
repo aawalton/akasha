@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const domainDeclarations = {
   id: "01a07c03-ab2b-79aa-bfa7-3e62543a4164",
   pageTypeSlug: "command",
+  type: "command",
   slug: "domain-declarations",
   definition: "the command handing over every domain and persona page whole, as JSON",
   code: "ts",

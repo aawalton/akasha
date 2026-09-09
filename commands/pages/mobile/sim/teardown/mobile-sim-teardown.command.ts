@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const mobileSimTeardown = {
   id: "01a0685d-ceae-700e-bb0c-c5b113d526fd",
   pageTypeSlug: "command",
+  type: "command",
   slug: "mobile-sim-teardown",
   definition: "the command ending the simulator session that is there",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const seatResume = {
   id: "01a0797a-9a89-7c74-a460-ae5a33be7b89",
   pageTypeSlug: "command",
+  type: "command",
   slug: "seat-resume",
   definition: "the command putting a seat back on the session that seat was bound to",
   code: "ts",

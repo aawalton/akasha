@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const mobileDeployDevice = {
   id: "01a0685d-ceae-7004-9388-865daf75f565",
   pageTypeSlug: "command",
+  type: "command",
   slug: "mobile-deploy-device",
   definition: "the command building an app on the mac and installing it to a phone plugged into it",
   code: "ts",

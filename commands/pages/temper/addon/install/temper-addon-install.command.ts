@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperAddonInstall = {
   id: "01a0603c-c1ca-72aa-be95-4b73f756de0e",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-addon-install",
   definition: "the command replacing an addon's folder in the game with what the build output has",
   code: "ts",

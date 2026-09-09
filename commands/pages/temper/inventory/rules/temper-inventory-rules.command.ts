@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const temperInventoryRules = {
   id: "01a0603c-c1d9-7bdc-8aab-dcc717f3de9b",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-inventory-rules",
   definition: "the command giving back the compiled rule configuration the addon has",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const musicNext = {
   id: "01a062f8-fe5a-7000-a955-ec84925efd37",
   pageTypeSlug: "command",
+  type: "command",
   slug: "music-next",
   definition: "the command choosing what Alan hears next out of the songs and artists he keeps",
   code: "ts",

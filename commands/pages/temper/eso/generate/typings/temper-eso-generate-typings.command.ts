@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperEsoGenerateTypings = {
   id: "01a0685d-f8fa-7755-9f01-412ee9b28025",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-eso-generate-typings",
   definition: "the command writing the game's API declarations from the game's own documentation",
   code: "ts",

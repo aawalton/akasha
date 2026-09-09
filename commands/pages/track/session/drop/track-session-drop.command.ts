@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const trackSessionDrop = {
   id: "01a07979-7f97-7091-a9d1-44c424ec745c",
   pageTypeSlug: "command",
+  type: "command",
   slug: "track-session-drop",
   definition: "the command taking a stretch away from a day",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const seatSupervisorRestart = {
   id: "01a0797a-9a55-76c0-be3e-c9b1dfbef462",
   pageTypeSlug: "command",
+  type: "command",
   slug: "seat-supervisor-restart",
   definition: "the command restarting every seat's supervisor onto the code standing now",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const musicQueue = {
   id: "01a062f9-5ca9-7196-a782-961170a78313",
   pageTypeSlug: "command",
+  type: "command",
   slug: "music-queue",
   definition: "the command playing the first of a set of tracks and queueing the rest behind it",
   code: "ts",

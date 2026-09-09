@@ -3,6 +3,7 @@ import type { Command } from "../../../../../command.page-type.ts"
 export const temperEsoGenerateBaseGameGlobals = {
   id: "01a0685d-f8fa-7913-8b39-8d1f9f835d34",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-eso-generate-base-game-globals",
   definition: "the command staging the census of the string ids the base game provides",
   code: "ts",

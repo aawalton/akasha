@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const alanElaine = {
   id: "01a06809-250b-7e17-b028-ed7c9e003f14",
   pageTypeSlug: "command",
+  type: "command",
   slug: "alan-elaine",
   definition: "the command reading what Apple Health recorded about Alan's body",
   code: "ts",

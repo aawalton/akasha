@@ -3,6 +3,7 @@ import type { Command } from "../../../../command.page-type.ts"
 export const pageSecretReveal = {
   id: "01a06812-3ce8-7f5f-b3d7-fce6fc2e94e5",
   pageTypeSlug: "command",
+  type: "command",
   slug: "page-secret-reveal",
   definition: "the command answering with one of a page's secrets, decrypted",
   code: "ts",

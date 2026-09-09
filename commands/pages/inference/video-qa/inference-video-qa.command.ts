@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const inferenceVideoQa = {
   id: "01a0685e-fd50-7d17-9486-a30db6114780",
   pageTypeSlug: "command",
+  type: "command",
   slug: "inference-video-qa",
   definition: "the command answering a question about a clip from the frames taken out of it",
   code: "ts",

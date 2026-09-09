@@ -3,6 +3,7 @@ import type { Command } from "../../../command.page-type.ts"
 export const temperAutoQuestTrace = {
   id: "01a0603c-c1cb-7f65-8427-70fc0c00d3cf",
   pageTypeSlug: "command",
+  type: "command",
   slug: "temper-auto-quest-trace",
   definition: "the command reading the auto-quest debug trace the quests addon captured",
   code: "ts",
