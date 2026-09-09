@@ -17,7 +17,7 @@ export const changeMode = {
     "change-mode/change-mode-rename",
     "change-mode/change-mode-add-if-not-present",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

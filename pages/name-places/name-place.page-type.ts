@@ -30,7 +30,7 @@ export const namePlace = {
     "name-place/route-segment",
     "name-place/type-identifier",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [{ pagePropertySlug: "relation-property/name-format", required: true, many: false }],
   invariants: [
     {

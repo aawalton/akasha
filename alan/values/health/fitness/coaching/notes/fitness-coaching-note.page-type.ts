@@ -32,7 +32,7 @@ export const fitnessCoachingNote = {
     "select-property/fitness-coaching-note-kind",
     "select-property/focus-tags",
   ],
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     {

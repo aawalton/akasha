@@ -9,7 +9,7 @@ export const temperJewelryEnchant = {
   slug: "temper-jewelry-enchant",
   definition: "a glyph put on a piece of jewelry",
   pluralSlug: "temper-jewelry-enchants",
-  extendsSlug: ["page-type/temper-gear-thing"],
+  extends: ["page-type/temper-gear-thing"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },

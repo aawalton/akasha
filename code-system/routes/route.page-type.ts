@@ -17,7 +17,7 @@ export const route = {
   definition: "code a router serves under a url path",
   pluralSlug: "routes",
   partSlugs: ["file-property/route-code", "file-property/route-test", "text-property/url-path"],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/route-code", required: true, many: false },
     { pagePropertySlug: "file-property/route-test", required: false, many: false },

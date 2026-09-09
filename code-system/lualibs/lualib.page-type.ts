@@ -26,7 +26,7 @@ export const lualib = {
     "text-property/lua-export",
     "text-property/lua-feature",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/code", required: true, many: false },
     { pagePropertySlug: "file-property/lua50-code", required: false, many: false },

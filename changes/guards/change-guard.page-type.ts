@@ -12,7 +12,7 @@ export const changeGuard = {
   slug: "change-guard",
   definition: "what judges the answer a change gives and says why that answer is refused",
   pluralSlug: "change-guards",
-  extendsSlug: ["page-type/module"],
+  extends: ["page-type/module"],
   partSlugs: [
     "change-guard/claimed-file-not-left-behind",
     "change-guard/import-not-left-hanging",

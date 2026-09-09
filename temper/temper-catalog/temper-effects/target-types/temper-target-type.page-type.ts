@@ -9,6 +9,6 @@ export const temperTargetType = {
   slug: "temper-target-type",
   definition: "who or what an ability is aimed at",
   pluralSlug: "temper-target-types",
-  extendsSlug: ["page-type/temper-catalog-thing"],
+  extends: ["page-type/temper-catalog-thing"],
   properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
 } as const satisfies PageType

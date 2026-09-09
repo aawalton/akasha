@@ -12,7 +12,7 @@ export const temperScribingThing = {
   slug: "temper-scribing-thing",
   definition: "anything a scribed skill is written out of",
   pluralSlug: "temper-scribing-things",
-  extendsSlug: ["page-type/temper-catalog-thing"],
+  extends: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/uesp-id"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },

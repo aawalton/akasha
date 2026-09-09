@@ -64,7 +64,7 @@ export const routerApp = {
     "build-folder-property/declaration-directory",
     "build-folder-property/bundle-directory",
   ],
-  extendsSlug: ["page-type/workspace-package"],
+  extends: ["page-type/workspace-package"],
   properties: [
     { pagePropertySlug: "file-property/root-route", required: true, many: false },
     { pagePropertySlug: "file-property/route-table", required: true, many: false },

@@ -9,7 +9,7 @@ export const calendarDateProperty = {
   slug: "calendar-date-property",
   definition: "a page property with a day",
   pluralSlug: "calendar-date-properties",
-  extendsSlug: ["page-type/page-property"],
+  extends: ["page-type/page-property"],
   invariants: [
     {
       invariantKind: "departure",

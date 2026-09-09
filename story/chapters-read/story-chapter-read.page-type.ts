@@ -28,7 +28,7 @@ export const storyChapterRead = {
   slug: "story-chapter-read",
   definition: "a chapter of a story somebody else wrote",
   pluralSlug: "story-chapters-read",
-  extendsSlug: ["page-type/collection-external"],
+  extends: ["page-type/collection-external"],
   runsTabooCheck: false,
   detailConfig: {
     display: "reader",

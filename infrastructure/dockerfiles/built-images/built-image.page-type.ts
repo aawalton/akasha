@@ -28,7 +28,7 @@ export const builtImage = {
     "text-property/image-folder",
     "text-property/image-kind",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "text-property/image-kind", required: true, many: false },
     { pagePropertySlug: "text-property/image-folder", required: true, many: false },

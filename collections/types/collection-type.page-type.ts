@@ -16,7 +16,7 @@ export const collectionType = {
   slug: "collection-type",
   definition: "a kind of thing collected, and what one of that kind is measured in",
   pluralSlug: "collection-types",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: ["select-property/collection-type-status"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },

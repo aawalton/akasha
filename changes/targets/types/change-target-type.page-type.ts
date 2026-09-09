@@ -17,7 +17,7 @@ export const changeTargetType = {
     "change-target-type/page-property",
     "change-target-type/prose",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

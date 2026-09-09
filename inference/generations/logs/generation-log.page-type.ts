@@ -10,7 +10,7 @@ export const generationLog = {
   slug: "generation-log",
   definition: "the record kept of what one set of model services has made",
   pluralSlug: "generation-logs",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: [
     "file-property/generation-audios",
     "file-property/generation-images",

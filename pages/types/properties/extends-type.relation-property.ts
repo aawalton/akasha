@@ -1,13 +1,13 @@
 import type { Slug } from "../../properties/slug.text-property.ts"
 import type { RelationProperty } from "../../relation-properties/relation-property.page-type.ts"
 
-export type ExtendsSlug = Slug
+export type ExtendsType = Slug
 
-export const extendsSlug = {
+export const extendsType = {
   id: "01a049b9-856c-78f3-ac14-e3f86c75d104",
   pageTypeSlug: "relation-property",
-  slug: "extends-slug",
-  propertySlug: "extends-slug",
+  slug: "extends-type",
+  propertySlug: "extends",
   definition: "a type a type takes its properties from",
   targetPageType: "page-type/page-type",
   invariants: [

@@ -72,7 +72,7 @@ export const game = {
   slug: "game",
   definition: "a story Alan plays through with a persona running the other side",
   pluralSlug: "games",
-  extendsSlug: ["page-type/collection"],
+  extends: ["page-type/collection"],
   detailConfig: {
     display: "game",
   },

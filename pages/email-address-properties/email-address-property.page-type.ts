@@ -9,7 +9,7 @@ export const emailAddressProperty = {
   slug: "email-address-property",
   definition: "a page property with an email address",
   pluralSlug: "email-address-properties",
-  extendsSlug: ["page-type/page-property"],
+  extends: ["page-type/page-property"],
   invariants: [
     {
       invariantKind: "departure",

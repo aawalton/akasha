@@ -34,7 +34,7 @@ export const changeTargetSubtype = {
     "change-target-subtype/prose-pattern",
     "change-target-subtype/file-content-page",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
     {

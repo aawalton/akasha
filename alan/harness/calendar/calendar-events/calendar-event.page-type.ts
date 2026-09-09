@@ -60,7 +60,7 @@ export const calendarEvent = {
     "url-property/calendar-event-image-url",
     "url-property/calendar-event-registration-url",
   ],
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [
     { pagePropertySlug: "text-property/calendar-event-external-id", required: false, many: false },
     { pagePropertySlug: "url-property/calendar-event-external-link", required: false, many: false },

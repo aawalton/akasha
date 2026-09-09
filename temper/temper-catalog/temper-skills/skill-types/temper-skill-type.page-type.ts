@@ -9,7 +9,7 @@ export const temperSkillType = {
   slug: "temper-skill-type",
   definition: "the sort of use a skill is put to",
   pluralSlug: "temper-skill-types",
-  extendsSlug: ["page-type/temper-catalog-thing"],
+  extends: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "text-property/description", required: true, many: false },

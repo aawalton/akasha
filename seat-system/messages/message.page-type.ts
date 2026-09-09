@@ -20,7 +20,7 @@ export const message = {
   slug: "message",
   definition: "text sent to somebody",
   pluralSlug: "messages",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   mortal: true,
   partSlugs: [
     "instant-property/message-claimed-at",

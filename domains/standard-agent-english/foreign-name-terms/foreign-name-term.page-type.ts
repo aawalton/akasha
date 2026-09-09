@@ -9,5 +9,5 @@ export const foreignNameTerm = {
   slug: "foreign-name-term",
   definition: "one name whose sense is set outside akasha",
   pluralSlug: "foreign-name-terms",
-  extendsSlug: ["page-type/allowed-term"],
+  extends: ["page-type/allowed-term"],
 } as const satisfies PageType

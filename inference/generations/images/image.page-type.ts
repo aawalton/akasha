@@ -7,7 +7,7 @@ export const image = {
   slug: "image",
   definition: "one picture the system has",
   pluralSlug: "images",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   detailConfig: {
     display: "default",
   },

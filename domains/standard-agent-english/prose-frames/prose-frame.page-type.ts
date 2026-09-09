@@ -15,7 +15,7 @@ export const proseFrame = {
     "prose-frame/participle",
     "prose-frame/placed",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

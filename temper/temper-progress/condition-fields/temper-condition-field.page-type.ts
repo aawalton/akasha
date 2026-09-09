@@ -9,7 +9,7 @@ export const temperConditionField = {
   slug: "temper-condition-field",
   definition: "one thing about an item that a rule condition tests",
   pluralSlug: "temper-condition-fields",
-  extendsSlug: ["page-type/temper-progress-thing"],
+  extends: ["page-type/temper-progress-thing"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "text-property/description", required: true, many: false },

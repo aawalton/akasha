@@ -26,7 +26,7 @@ export const iosHarness = {
     "ios-harness/render-harness-views",
     "shell-script/render-harness-run",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/swift", required: false, many: false },
     { pagePropertySlug: "file-property/main", required: false, many: false },

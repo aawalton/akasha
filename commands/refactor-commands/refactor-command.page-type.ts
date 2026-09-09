@@ -9,7 +9,7 @@ export const refactorCommand = {
   slug: "refactor-command",
   definition: "a command that runs one refactor change",
   pluralSlug: "refactor-commands",
-  extendsSlug: ["page-type/command"],
+  extends: ["page-type/command"],
   invariants: [
     {
       invariantKind: "departure",

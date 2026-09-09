@@ -21,7 +21,7 @@ export const computedProperty = {
   slug: "computed-property",
   definition: "a page property a function works out from the page",
   pluralSlug: "computed-properties",
-  extendsSlug: ["page-type/module", "page-type/page-property"],
+  extends: ["page-type/module", "page-type/page-property"],
   partSlugs: ["select-property/holds"],
   properties: [{ pagePropertySlug: "select-property/holds", required: true, many: false }],
   invariants: [

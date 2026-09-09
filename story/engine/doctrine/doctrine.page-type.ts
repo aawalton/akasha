@@ -20,7 +20,7 @@ export const doctrine = {
   slug: "doctrine",
   definition: "the rulings a game master runs every game by",
   pluralSlug: "doctrine",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: [
     "file-property/gate-dimensions",

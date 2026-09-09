@@ -45,7 +45,7 @@ export const workspace = {
     "file-property/workspace-manifest",
     "build-folder-property/package-directory",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/workspace-manifest", required: true, many: false },
     { pagePropertySlug: "file-property/lockfile", required: true, many: false },

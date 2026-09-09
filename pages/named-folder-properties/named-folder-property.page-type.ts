@@ -13,7 +13,7 @@ export const namedFolderProperty = {
   definition: "a page property held in a folder whose name is stated",
   pluralSlug: "named-folder-properties",
   partSlugs: ["text-property/folder-name"],
-  extendsSlug: ["page-type/page-property"],
+  extends: ["page-type/page-property"],
   properties: [{ pagePropertySlug: "text-property/folder-name", required: true, many: false }],
   invariants: [
     {

@@ -9,7 +9,7 @@ export const temperWeaponSlot = {
   slug: "temper-weapon-slot",
   definition: "a hand or a bar a weapon is held in",
   pluralSlug: "temper-weapon-slots",
-  extendsSlug: ["page-type/temper-catalog-thing"],
+  extends: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },

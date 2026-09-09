@@ -15,7 +15,7 @@ export const textProperty = {
   definition: "a page property holding text",
   pluralSlug: "text-properties",
   partSlugs: ["relation-property/name-format"],
-  extendsSlug: ["page-type/page-property"],
+  extends: ["page-type/page-property"],
   properties: [
     { pagePropertySlug: "number-property/max-length", required: true, many: false },
     { pagePropertySlug: "relation-property/name-format", required: true, many: false },

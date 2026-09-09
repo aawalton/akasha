@@ -21,7 +21,7 @@ export const changeRunner = {
     "file-property/addressed",
     "relation-property/reached",
   ],
-  extendsSlug: ["page-type/module"],
+  extends: ["page-type/module"],
   properties: [
     { pagePropertySlug: "file-property/addressed", required: true, many: false },
     { pagePropertySlug: "relation-property/reached", required: true, many: false },

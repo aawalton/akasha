@@ -12,7 +12,7 @@ export const standardAgentEnglishNonTermKind = {
   slug: "standard-agent-english-non-term-kind",
   definition: "which sort one non-term is",
   pluralSlug: "standard-agent-english-non-term-kinds",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [
     { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
   ],

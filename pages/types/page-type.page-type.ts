@@ -2,7 +2,7 @@ import type { Domain } from "@akasha/domains/domain"
 import type { PluralSlug } from "../../domains/properties/plural-slug.text-property.ts"
 import type { AllowsTmpPaths } from "./properties/allows-tmp-paths.boolean-property.ts"
 import type { DetailConfig } from "./properties/detail-config.record-property.ts"
-import type { ExtendsSlug } from "./properties/extends-slug.relation-property.ts"
+import type { ExtendsType } from "./properties/extends-type.relation-property.ts"
 import type { LoadedBy } from "./properties/loaded-by.relation-property.ts"
 import type { MediaConfig } from "./properties/media-config.record-property.ts"
 import type { Mortal } from "./properties/mortal.boolean-property.ts"
@@ -14,7 +14,7 @@ import type { Sequence } from "./properties/sequence.record-property.ts"
 import type { Worked } from "./properties/worked.file-property.ts"
 
 export type PageType = Domain & {
-  extendsSlug: readonly ExtendsSlug[]
+  extends: readonly ExtendsType[]
   properties?: Properties
   mortal?: Mortal
   pluralSlug: PluralSlug
@@ -67,7 +67,7 @@ export const pageType = {
     "record-property/properties",
     "record-property/sequence",
     "relation-property/child-type",
-    "relation-property/extends-slug",
+    "relation-property/extends-type",
     "relation-property/loaded-by",
     "relation-property/owner",
     "relation-property/page-property-slug",
@@ -86,10 +86,10 @@ export const pageType = {
     "text-property/sequence-group-by",
     "text-property/sequence-order-by",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     {
-      pagePropertySlug: "relation-property/extends-slug",
+      pagePropertySlug: "relation-property/extends-type",
       required: true,
       many: true,
       maxCount: null,

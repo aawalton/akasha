@@ -22,7 +22,7 @@ export const attribute = {
   slug: "attribute",
   definition: "a capacity Alan builds through a daily habit",
   pluralSlug: "attributes",
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   partSlugs: [
     "module/attribute-points",
     "computed-property/attribute-level",

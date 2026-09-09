@@ -14,7 +14,7 @@ export const allAboutAlanQuestion = {
   slug: "all-about-alan-question",
   definition: "one thing still open about a topic about Alan",
   pluralSlug: "all-about-alan-questions",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   mortal: true,
   partSlugs: ["relation-property/question-topic", "text-property/open-question"],
   properties: [

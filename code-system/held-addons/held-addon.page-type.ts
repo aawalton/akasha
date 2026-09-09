@@ -24,7 +24,7 @@ export const heldAddon = {
   slug: "held-addon",
   definition: "an addon the temper port has taken over",
   pluralSlug: "held-addons",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: [
     "boolean-property/ti-clean",
     "number-property/held-by",

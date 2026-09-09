@@ -37,7 +37,7 @@ export const propertyCarrying = {
     {
       invariantKind: "departure",
       statement:
-        "Descent is read from the reverse of `extends-slug` rather than from a page type's body.",
+        "Descent is read from the reverse of `extends-type` rather than from a page type's body.",
     },
     {
       invariantKind: "departure",

@@ -14,7 +14,7 @@ export const royalRoadAccount = {
   slug: "royal-road-account",
   definition: "the login the Royal Road sync reads Alan's follow list from",
   pluralSlug: "royal-road-accounts",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: ["email-address-property/royal-road-email", "text-property/royal-road-password"],
   properties: [
     { pagePropertySlug: "email-address-property/royal-road-email", required: true, many: false },

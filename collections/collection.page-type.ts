@@ -84,7 +84,7 @@ export const collection = {
     "page-type/recipe",
     "page-type/recipe-collection",
   ],
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [
     { pagePropertySlug: "text-property/collection-author", required: false, many: false },
     { pagePropertySlug: "instant-property/collection-completed-at", required: false, many: false },

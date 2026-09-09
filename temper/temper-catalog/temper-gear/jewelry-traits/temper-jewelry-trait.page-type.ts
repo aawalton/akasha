@@ -9,7 +9,7 @@ export const temperJewelryTrait = {
   slug: "temper-jewelry-trait",
   definition: "a property a piece of jewelry is worked with",
   pluralSlug: "temper-jewelry-traits",
-  extendsSlug: ["page-type/temper-catalog-thing"],
+  extends: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },

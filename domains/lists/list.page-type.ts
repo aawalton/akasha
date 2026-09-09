@@ -12,7 +12,7 @@ export const list = {
   slug: "list",
   definition: "a domain whose subject is a set, its members named and glossed",
   pluralSlug: "lists",
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   partSlugs: ["record-property/members", "text-property/member-name"],
   properties: [
     { pagePropertySlug: "record-property/members", required: true, many: true, maxCount: null },

@@ -16,7 +16,7 @@ export const storyWritten = {
   slug: "story-written",
   definition: "a story written here",
   pluralSlug: "stories-written",
-  extendsSlug: ["page-type/collection"],
+  extends: ["page-type/collection"],
   runsTabooCheck: false,
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },

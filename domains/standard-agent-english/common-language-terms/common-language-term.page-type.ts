@@ -9,5 +9,5 @@ export const commonLanguageTerm = {
   slug: "common-language-term",
   definition: "one word or phrase with its ordinary sense",
   pluralSlug: "common-language-terms",
-  extendsSlug: ["page-type/allowed-term"],
+  extends: ["page-type/allowed-term"],
 } as const satisfies PageType

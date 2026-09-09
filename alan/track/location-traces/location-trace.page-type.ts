@@ -60,7 +60,7 @@ export const locationTrace = {
     "text-property/trace-activity-type",
     "text-property/trace-source",
   ],
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [
     { pagePropertySlug: "number-property/accuracy-m", required: false, many: false },
     { pagePropertySlug: "number-property/altitude-accuracy-m", required: false, many: false },

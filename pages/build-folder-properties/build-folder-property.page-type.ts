@@ -9,7 +9,7 @@ export const buildFolderProperty = {
   slug: "build-folder-property",
   definition: "a page property held in a folder a build writes",
   pluralSlug: "build-folder-properties",
-  extendsSlug: ["page-type/named-folder-property"],
+  extends: ["page-type/named-folder-property"],
   invariants: [
     {
       invariantKind: "departure",

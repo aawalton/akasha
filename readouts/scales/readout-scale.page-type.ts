@@ -46,7 +46,7 @@ export const readoutScale = {
     "number-property/yellow-at",
     "text-property/earned-color-slug",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "number-property/black-at", required: false, many: false },
     { pagePropertySlug: "number-property/red-at", required: false, many: false },

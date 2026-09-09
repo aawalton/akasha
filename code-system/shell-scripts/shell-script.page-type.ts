@@ -22,7 +22,7 @@ export const shellScript = {
     "shell-script/statusline",
     "workstation-service/repos-empty-dir-purge",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/shell", required: true, many: false },
     { pagePropertySlug: "boolean-property/sourced", required: true, many: false },

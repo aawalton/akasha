@@ -16,7 +16,7 @@ export const temperAccountCharacter = {
   slug: "temper-account-character",
   definition: "one character on an account",
   pluralSlug: "temper-account-characters",
-  extendsSlug: ["page-type/temper-character-thing"],
+  extends: ["page-type/temper-character-thing"],
   partSlugs: [
     "relation-property/character-roles",
     "text-property/first-name",

@@ -56,7 +56,7 @@ export const claudeAccount = {
   slug: "claude-account",
   definition: "one Anthropic subscription that calls are made on",
   pluralSlug: "claude-accounts",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: [
     "computed-property/effective-five-hour-usage",
     "computed-property/effective-seven-day-usage",

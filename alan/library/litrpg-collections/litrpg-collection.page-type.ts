@@ -12,6 +12,6 @@ export const litrpgCollection = {
   slug: "litrpg-collection",
   definition: "a shelf of litrpg stories Alan keeps together",
   pluralSlug: "litrpg-collections",
-  extendsSlug: ["page-type/collection"],
+  extends: ["page-type/collection"],
   properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

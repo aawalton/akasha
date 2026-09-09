@@ -84,7 +84,7 @@ export const codeCheck = {
     "code-check/hand-written-global-is-no-method",
     "code-check/repository-is-written-by-a-change",
   ],
-  extendsSlug: ["page-type/module"],
+  extends: ["page-type/module"],
   loadedBy: "module/checking",
   properties: [
     { pagePropertySlug: "file-property/test", required: true, many: false },

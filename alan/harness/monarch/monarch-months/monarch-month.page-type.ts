@@ -14,7 +14,7 @@ export const monarchMonth = {
   slug: "monarch-month",
   definition: "one calendar month of the household's money",
   pluralSlug: "monarch-months",
-  extendsSlug: ["page-type/monarch-record"],
+  extends: ["page-type/monarch-record"],
   partSlugs: [
     "boolean-property/needs-review",
     "boolean-property/pending",

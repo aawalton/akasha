@@ -12,7 +12,7 @@ export const recordProperty = {
   slug: "record-property",
   definition: "a page property holding named fields",
   pluralSlug: "record-properties",
-  extendsSlug: ["page-type/page-property"],
+  extends: ["page-type/page-property"],
   properties: [
     { pagePropertySlug: "record-property/properties", required: true, many: true, maxCount: null },
   ],

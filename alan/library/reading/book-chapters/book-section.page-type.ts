@@ -16,7 +16,7 @@ export const bookSection = {
   slug: "book-section",
   definition: "one instalment of a book",
   pluralSlug: "book-sections",
-  extendsSlug: ["page-type/collection"],
+  extends: ["page-type/collection"],
   partSlugs: ["file-property/chapter-text", "relation-property/section-of"],
   properties: [
     {

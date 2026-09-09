@@ -94,7 +94,7 @@ export const iosApp = {
     "text-property/widget-profile-name",
     "build-folder-property/web-directory",
   ],
-  extendsSlug: ["page-type/workspace-package"],
+  extends: ["page-type/workspace-package"],
   properties: [
     { pagePropertySlug: "text-property/app-profile-name", required: true, many: false },
     {

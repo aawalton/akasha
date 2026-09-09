@@ -18,7 +18,7 @@ export const episode = {
   slug: "episode",
   definition: "one instalment of a season",
   pluralSlug: "episodes",
-  extendsSlug: ["page-type/collection-external"],
+  extends: ["page-type/collection-external"],
   partSlugs: ["select-property/episode-type", "text-property/still-path"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },

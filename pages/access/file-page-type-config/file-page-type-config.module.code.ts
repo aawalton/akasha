@@ -6,7 +6,7 @@ import { askingFor } from "@akasha/pages-service/calling"
 import { z } from "zod"
 
 const PAGE_TYPE_SLUG = "page-type"
-const EXTENDS_SLUG = "extendsSlug"
+const EXTENDS_SLUG = "extends"
 const EXTENDS_CEILING = 20
 
 export const SEQUENCE_CONFIG_KEY = "sequence"

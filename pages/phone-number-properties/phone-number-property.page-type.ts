@@ -9,7 +9,7 @@ export const phoneNumberProperty = {
   slug: "phone-number-property",
   definition: "a page property with a telephone number",
   pluralSlug: "phone-number-properties",
-  extendsSlug: ["page-type/page-property"],
+  extends: ["page-type/page-property"],
   invariants: [
     {
       invariantKind: "departure",

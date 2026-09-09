@@ -20,7 +20,7 @@ export const typeDeclaration = {
     "text-property/written-by",
     "number-property/source-version",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/ambient-types", required: true, many: false },
     { pagePropertySlug: "record-property/generated", required: false, many: false },

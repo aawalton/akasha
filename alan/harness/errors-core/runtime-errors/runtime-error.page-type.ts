@@ -30,7 +30,7 @@ export const runtimeError = {
   slug: "runtime-error",
   definition: "one fault a client met, gathered under the fingerprint the fault hashes to",
   pluralSlug: "runtime-errors",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   mortal: true,
   partSlugs: [
     "instant-property/error-first-seen-at",

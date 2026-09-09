@@ -22,7 +22,7 @@ export const storyRead = {
   slug: "story-read",
   definition: "a story somebody else wrote",
   pluralSlug: "stories-read",
-  extendsSlug: ["page-type/collection-external"],
+  extends: ["page-type/collection-external"],
   runsTabooCheck: false,
   detailConfig: {
     display: "collection",

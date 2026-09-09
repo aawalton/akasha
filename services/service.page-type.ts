@@ -9,7 +9,7 @@ export const service = {
   slug: "service",
   definition: "a program the system runs on its own",
   pluralSlug: "services",
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

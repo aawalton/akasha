@@ -42,7 +42,7 @@ export const syncRun = {
     "select-property/run-status",
     "text-property/run-error-message",
   ],
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [
     { pagePropertySlug: "number-property/run-seq", required: false, many: false },
     { pagePropertySlug: "instant-property/run-started-at", required: true, many: false },

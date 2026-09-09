@@ -15,7 +15,7 @@ export const rustModule = {
   definition: "code a Rust crate is built from",
   pluralSlug: "rust-modules",
   partSlugs: ["file-property/rust", "text-property/rust-module-name"],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/rust", required: true, many: false },
     { pagePropertySlug: "text-property/rust-module-name", required: false, many: false },

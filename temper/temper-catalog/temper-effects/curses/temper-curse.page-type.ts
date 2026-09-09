@@ -12,7 +12,7 @@ export const temperCurse = {
   slug: "temper-curse",
   definition: "a lasting affliction a character takes on",
   pluralSlug: "temper-curses",
-  extendsSlug: ["page-type/temper-catalog-thing"],
+  extends: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/eso-curse-ids"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },

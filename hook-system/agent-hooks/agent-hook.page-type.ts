@@ -33,7 +33,7 @@ export const agentHook = {
     "text-property/runs-at",
     "agent-hook/block-combined-akasha-calls",
   ],
-  extendsSlug: ["page-type/module"],
+  extends: ["page-type/module"],
   properties: [
     { pagePropertySlug: "text-property/runs-at", required: true, many: true, maxCount: null },
     { pagePropertySlug: "text-property/over-tools", required: false, many: true, maxCount: null },

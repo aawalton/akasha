@@ -12,6 +12,6 @@ export const gameAchievement = {
   slug: "game-achievement",
   definition: "a mark a game gives for finishing something in it",
   pluralSlug: "game-achievements",
-  extendsSlug: ["page-type/collection-external"],
+  extends: ["page-type/collection-external"],
   properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

@@ -14,7 +14,7 @@ export const bookSeries = {
   slug: "book-series",
   definition: "a shelf with the books of one work",
   pluralSlug: "book-series",
-  extendsSlug: ["page-type/collection-external"],
+  extends: ["page-type/collection-external"],
   partSlugs: ["select-property/maturity-rating"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },

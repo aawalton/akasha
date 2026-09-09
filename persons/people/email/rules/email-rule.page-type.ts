@@ -14,7 +14,7 @@ export const emailRule = {
   slug: "email-rule",
   definition: "what to do with some of a person's mail",
   pluralSlug: "email-rules",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: [
     "page-type/email-rule-agent",
     "page-type/email-rule-code",

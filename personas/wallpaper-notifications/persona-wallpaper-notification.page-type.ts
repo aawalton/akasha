@@ -16,7 +16,7 @@ export const personaWallpaperNotification = {
   slug: "persona-wallpaper-notification",
   definition: "word to Alan that a persona reached a rung and was hung there",
   pluralSlug: "persona-wallpaper-notifications",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: ["relation-property/notification-persona"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },

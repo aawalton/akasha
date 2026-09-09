@@ -24,7 +24,7 @@ export const fileProperty = {
     "boolean-property/runs-file-length",
     "text-property/file-name",
   ],
-  extendsSlug: ["page-type/page-property"],
+  extends: ["page-type/page-property"],
   properties: [
     { pagePropertySlug: "text-property/file-name", required: false, many: false },
     { pagePropertySlug: "boolean-property/generated", required: false, many: false },

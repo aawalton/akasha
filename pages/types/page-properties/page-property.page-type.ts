@@ -29,7 +29,7 @@ export const pageProperty = {
     "relation-property/unique-property",
     "text-property/property-slug",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "text-property/property-slug", required: true, many: false },
     { pagePropertySlug: "relation-property/generator", required: false, many: false },

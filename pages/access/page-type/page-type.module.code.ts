@@ -118,12 +118,12 @@ export async function getDescendantPageTypeSlugs(
 ): Promise<PageTypeSlug[]> {
   const { rows } = await getPages({
     pageTypeSlug: "page-type",
-    select: ["id", "slug", "extendsSlug"],
+    select: ["id", "slug", "extends"],
   })
 
   const pageTypes = rows.map((r) => ({
     _id: typeof r.id === "string" ? r.id : "",
-    properties: { slug: r.slug, extendsSlug: r.extendsSlug },
+    properties: { slug: r.slug, extendsSlug: r.extends },
   }))
   const parent = rows.find((r) => r.slug === parentSlug)
   if (parent === undefined || typeof parent.id !== "string") return []

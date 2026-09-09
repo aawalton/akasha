@@ -18,7 +18,7 @@ export const seatLogDay = {
   slug: "seat-log-day",
   definition: "what one source wrote for one seat on one day",
   pluralSlug: "seat-log-days",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   mortal: true,
   partSlugs: ["file-property/lines", "relation-property/log-source", "text-property/seat-name"],
   properties: [

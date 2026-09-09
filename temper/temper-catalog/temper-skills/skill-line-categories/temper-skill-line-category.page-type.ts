@@ -9,7 +9,7 @@ export const temperSkillLineCategory = {
   slug: "temper-skill-line-category",
   definition: "a group the skill lines are gathered under",
   pluralSlug: "temper-skill-line-categories",
-  extendsSlug: ["page-type/temper-catalog-thing"],
+  extends: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },

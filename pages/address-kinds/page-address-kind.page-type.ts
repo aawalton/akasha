@@ -14,7 +14,7 @@ export const pageAddressKind = {
     "page-address-kind/in-page-type",
     "page-address-kind/in-page-property",
   ],
-  extendsSlug: ["page-type/module"],
+  extends: ["page-type/module"],
   invariants: [
     {
       invariantKind: "departure",

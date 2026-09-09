@@ -46,7 +46,7 @@ export const seat = {
   slug: "seat",
   definition: "a place an agent works from",
   pluralSlug: "seats",
-  extendsSlug: ["page-type/agent"],
+  extends: ["page-type/agent"],
   mortal: true,
   partSlugs: [
     "boolean-property/active-turn",

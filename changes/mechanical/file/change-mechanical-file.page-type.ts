@@ -13,7 +13,7 @@ export const changeMechanicalFile = {
   slug: "change-mechanical-file",
   definition: "a mechanical change acting on where a file sits rather than on what that file holds",
   pluralSlug: "change-mechanical-file",
-  extendsSlug: ["page-type/change-mechanical"],
+  extends: ["page-type/change-mechanical"],
   partSlugs: [
     "domain/change-mechanical-file-add",
     "domain/change-mechanical-file-remove",

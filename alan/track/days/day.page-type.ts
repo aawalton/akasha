@@ -88,7 +88,7 @@ export const day = {
   slug: "day",
   definition: "what was measured about one of Alan's days",
   pluralSlug: "days",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: [
     "boolean-property/anchored-from-completion",
     "boolean-property/inbox-calendar-cleared-today",

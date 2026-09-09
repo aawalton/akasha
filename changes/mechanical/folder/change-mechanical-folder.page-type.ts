@@ -13,7 +13,7 @@ export const changeMechanicalFolder = {
   slug: "change-mechanical-folder",
   definition: "a mechanical change acting on the files a folder has rather than on one of them",
   pluralSlug: "change-mechanical-folder",
-  extendsSlug: ["page-type/change-mechanical"],
+  extends: ["page-type/change-mechanical"],
   partSlugs: ["domain/change-mechanical-folder-remove", "domain/change-mechanical-folder-move"],
   properties: [
     { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },

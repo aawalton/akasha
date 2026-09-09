@@ -15,7 +15,7 @@ export const manifest = {
   definition: "the Kubernetes resources a thing is applied as",
   pluralSlug: "manifests",
   partSlugs: ["file-property/manifest-code", "build-folder-property/generated-directory"],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   allowsTmpPaths: true,
   properties: [
     { pagePropertySlug: "file-property/manifest-code", required: true, many: false },

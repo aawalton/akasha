@@ -9,5 +9,5 @@ export const allowedTerm = {
   slug: "allowed-term",
   definition: "one term akasha writes",
   pluralSlug: "allowed-terms",
-  extendsSlug: ["page-type/term"],
+  extends: ["page-type/term"],
 } as const satisfies PageType

@@ -9,7 +9,7 @@ export const standardAgentEnglishProperty = {
   slug: "standard-agent-english-property",
   definition: "a text property whose value Standard Agent English judges",
   pluralSlug: "standard-agent-english-properties",
-  extendsSlug: ["page-type/text-property"],
+  extends: ["page-type/text-property"],
   invariants: [
     {
       invariantKind: "departure",

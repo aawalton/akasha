@@ -36,7 +36,7 @@ export const learnEverythingTopic = {
   slug: "learn-everything-topic",
   definition: "one subject in the map of all there is to know",
   pluralSlug: "learn-everything-topics",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: [
     "calendar-date-property/topic-scored-on",
     "computed-property/topic-coverage",

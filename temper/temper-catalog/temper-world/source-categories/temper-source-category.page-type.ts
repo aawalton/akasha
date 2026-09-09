@@ -9,7 +9,7 @@ export const temperSourceCategory = {
   slug: "temper-source-category",
   definition: "a group the sources of a character's numbers fall into",
   pluralSlug: "temper-source-categories",
-  extendsSlug: ["page-type/temper-catalog-thing"],
+  extends: ["page-type/temper-catalog-thing"],
   properties: [
     { pagePropertySlug: "text-property/category-id", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },

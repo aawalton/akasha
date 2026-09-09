@@ -9,7 +9,7 @@ export const temperItemAction = {
   slug: "temper-item-action",
   definition: "one thing an item rule does to an item the rule matches",
   pluralSlug: "temper-item-actions",
-  extendsSlug: ["page-type/temper-progress-thing"],
+  extends: ["page-type/temper-progress-thing"],
   properties: [{ pagePropertySlug: "text-property/description", required: true, many: false }],
   invariants: [
     {

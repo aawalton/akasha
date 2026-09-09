@@ -29,7 +29,7 @@ export const initiative = {
     "standard-agent-english-property/intent-statement",
     "text-property/working-memory",
   ],
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [
     { pagePropertySlug: "relation-property/page-domain", required: true, many: false },
     { pagePropertySlug: "relation-property/initiative-persona", required: true, many: false },

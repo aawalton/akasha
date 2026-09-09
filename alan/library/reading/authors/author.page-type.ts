@@ -12,6 +12,6 @@ export const author = {
   slug: "author",
   definition: "one who wrote what Alan reads",
   pluralSlug: "authors",
-  extendsSlug: ["page-type/collection-external"],
+  extends: ["page-type/collection-external"],
   properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

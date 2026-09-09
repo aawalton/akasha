@@ -24,7 +24,7 @@ export const workspacePackage = {
     "file-property/tunnel-routes",
     "text-property/tool-reached",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/manifest", required: true, many: false },
     { pagePropertySlug: "file-property/tunnel-routes", required: false, many: false },

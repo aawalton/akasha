@@ -20,7 +20,7 @@ export const person = {
   slug: "person",
   definition: "a human this system reaches",
   pluralSlug: "people",
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   partSlugs: [
     "number-property/bodyweight",
     "person/alan",

@@ -10,7 +10,7 @@ export const directiveKind = {
   definition: "which sort one directive is",
   pluralSlug: "directive-kinds",
   partSlugs: ["directive-kind/principle", "directive-kind/rule"],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

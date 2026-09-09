@@ -22,7 +22,7 @@ export const temperRule = {
   slug: "temper-rule",
   definition: "what to do with an item that matches a set of tests",
   pluralSlug: "temper-rules",
-  extendsSlug: ["page-type/temper-progress-thing"],
+  extends: ["page-type/temper-progress-thing"],
   partSlugs: [
     "boolean-property/active",
     "page-property-entry/conditions",

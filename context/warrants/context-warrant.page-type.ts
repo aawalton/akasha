@@ -38,7 +38,7 @@ export const contextWarrant = {
     "context-warrant/agent-akasha",
     "context-warrant/agent-role",
   ],
-  extendsSlug: ["page-type/module"],
+  extends: ["page-type/module"],
   loadedBy: "module/warranting",
   properties: [
     { pagePropertySlug: "file-property/test", required: true, many: false },

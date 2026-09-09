@@ -20,7 +20,7 @@ export const graphEdge = {
     "relation-property/index",
     "relation-property/attributes",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "relation-property/index", required: false, many: false },
     {

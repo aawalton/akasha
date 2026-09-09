@@ -18,7 +18,7 @@ export const changeMechanicalFileContent = {
     "domain/change-mechanical-file-content-remove",
     "domain/change-mechanical-file-content-rename",
   ],
-  extendsSlug: ["page-type/change-mechanical"],
+  extends: ["page-type/change-mechanical"],
   properties: [
     { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
   ],

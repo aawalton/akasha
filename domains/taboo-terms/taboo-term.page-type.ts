@@ -22,7 +22,7 @@ export const tabooTerm = {
     "text-property/pattern",
     "text-property/sense",
   ],
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [
     { pagePropertySlug: "text-property/pattern", required: true, many: false },
     {

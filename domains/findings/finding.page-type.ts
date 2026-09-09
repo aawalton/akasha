@@ -17,7 +17,7 @@ export const finding = {
   definition: "something noticed about a domain, written down before anyone judges what it means",
   pluralSlug: "findings",
   partSlugs: ["text-property/claim", "text-property/evidence"],
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [
     { pagePropertySlug: "relation-property/page-domain", required: true, many: false },
     { pagePropertySlug: "text-property/claim", required: true, many: false },

@@ -20,7 +20,7 @@ export const relationshipTopic = {
   slug: "relationship-topic",
   definition: "one subject Alan and another person have to work through together",
   pluralSlug: "relationship-topics",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: [
     "relation-property/relationship-topic-parent",
     "relation-property/relationship-topic-people",

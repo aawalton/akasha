@@ -20,7 +20,7 @@ export const reviewSession = {
   slug: "review-session",
   definition: "one pass a persona made over the part of Alan's life she watches",
   pluralSlug: "review-sessions",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: ["file-property/review-session-notes", "relation-property/session-persona"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },

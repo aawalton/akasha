@@ -9,6 +9,6 @@ export const temperSkillSlot = {
   slug: "temper-skill-slot",
   definition: "a place on the bar a skill is set into",
   pluralSlug: "temper-skill-slots",
-  extendsSlug: ["page-type/temper-catalog-thing"],
+  extends: ["page-type/temper-catalog-thing"],
   properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
 } as const satisfies PageType

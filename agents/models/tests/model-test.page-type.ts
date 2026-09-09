@@ -26,7 +26,7 @@ export const modelTest = {
     "text-property/case-statement",
     "text-property/prompt",
   ],
-  extendsSlug: ["page-type/module"],
+  extends: ["page-type/module"],
   properties: [
     { pagePropertySlug: "relation-property/model-family", required: true, many: false },
     { pagePropertySlug: "text-property/prompt", required: true, many: false },

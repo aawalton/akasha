@@ -18,7 +18,7 @@ export const personaImage = {
   slug: "persona-image",
   definition: "a picture a persona is drawn as",
   pluralSlug: "persona-images",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: [
     "relation-property/image-persona",
     "text-property/image-path",

@@ -9,7 +9,7 @@ export const computedPropertyModule = {
   slug: "computed-property-module",
   definition: "a module holding the functions calculations share",
   pluralSlug: "computed-property-modules",
-  extendsSlug: ["page-type/module"],
+  extends: ["page-type/module"],
   invariants: [
     {
       invariantKind: "departure",

@@ -9,6 +9,6 @@ export const temperTargetScope = {
   slug: "temper-target-scope",
   definition: "the shape of ground an ability reaches over",
   pluralSlug: "temper-target-scopes",
-  extendsSlug: ["page-type/temper-catalog-thing"],
+  extends: ["page-type/temper-catalog-thing"],
   properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
 } as const satisfies PageType

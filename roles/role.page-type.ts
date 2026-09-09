@@ -12,7 +12,7 @@ export const role = {
   slug: "role",
   definition: "the work an agent is answerable for",
   pluralSlug: "roles",
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   partSlugs: [
     "role/coach",
     "role/companion",

@@ -16,7 +16,7 @@ export const codeEditorDataInterface = {
   slug: "code-editor-data-interface",
   definition: "what one part of the editor draws, held where that part reads it",
   pluralSlug: "code-editor-data-interfaces",
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   partSlugs: [
     "file-property/state",
     "module/data-watching",

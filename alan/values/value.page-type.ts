@@ -41,7 +41,7 @@ export const value = {
     "value/love",
     "value/wealth",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "text-property/label", required: true, many: false },
     { pagePropertySlug: "relation-property/value-color", required: false, many: false },

@@ -21,7 +21,7 @@ export const page = {
   slug: "page",
   definition: "all that is kept about one thing",
   pluralSlug: "pages",
-  extendsSlug: [],
+  extends: [],
   properties: [
     { pagePropertySlug: "text-property/id", required: true, many: false },
     { pagePropertySlug: "relation-property/page-type-slug", required: true, many: false },

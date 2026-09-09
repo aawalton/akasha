@@ -12,7 +12,7 @@ export const franchise = {
   slug: "franchise",
   definition: "the shows and films that share one world",
   pluralSlug: "franchises",
-  extendsSlug: ["page-type/collection-external"],
+  extends: ["page-type/collection-external"],
   properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
   invariants: [
     {

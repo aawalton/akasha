@@ -67,7 +67,7 @@ export const command = {
     "namespace/alan",
     "namespace/infrastructure",
   ],
-  extendsSlug: ["page-type/module"],
+  extends: ["page-type/module"],
   loadedBy: "module/calling",
   properties: [
     { pagePropertySlug: "relation-property/change-kind", required: true, many: false },

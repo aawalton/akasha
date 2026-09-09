@@ -14,7 +14,7 @@ export const color = {
   slug: "color",
   definition: "one color anything can be drawn in",
   pluralSlug: "colors",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: ["text-property/hex"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },

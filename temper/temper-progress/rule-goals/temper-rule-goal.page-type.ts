@@ -9,7 +9,7 @@ export const temperRuleGoal = {
   slug: "temper-rule-goal",
   definition: "what a player is keeping an item for",
   pluralSlug: "temper-rule-goals",
-  extendsSlug: ["page-type/temper-progress-thing"],
+  extends: ["page-type/temper-progress-thing"],
   properties: [
     { pagePropertySlug: "text-property/description", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },

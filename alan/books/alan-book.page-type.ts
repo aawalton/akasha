@@ -12,7 +12,7 @@ export const alanBook = {
   slug: "alan-book",
   definition: "one book Alan writes",
   pluralSlug: "alan-books",
-  extendsSlug: ["page-type/collection"],
+  extends: ["page-type/collection"],
   properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
   invariants: [
     {

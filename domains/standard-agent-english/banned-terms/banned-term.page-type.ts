@@ -21,7 +21,7 @@ export const bannedTerm = {
     "record-property/replacement-patterns",
     "relation-property/prose-frame",
   ],
-  extendsSlug: ["page-type/term"],
+  extends: ["page-type/term"],
   properties: [
     { pagePropertySlug: "text-property/instead", required: true, many: false },
     {

@@ -22,7 +22,7 @@ export const movie = {
   slug: "movie",
   definition: "a story told in one sitting",
   pluralSlug: "movies",
-  extendsSlug: ["page-type/collection-external"],
+  extends: ["page-type/collection-external"],
   partSlugs: [],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },

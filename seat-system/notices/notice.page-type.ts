@@ -14,7 +14,7 @@ export const notice = {
   slug: "notice",
   definition: "message text written ahead of time and asked for by name",
   pluralSlug: "notices",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: ["file-property/notice-text", "text-property/notice-warrant"],
   properties: [
     { pagePropertySlug: "file-property/notice-text", required: true, many: false },

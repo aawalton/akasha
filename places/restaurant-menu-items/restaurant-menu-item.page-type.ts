@@ -12,6 +12,6 @@ export const restaurantMenuItem = {
   slug: "restaurant-menu-item",
   definition: "a dish a restaurant serves",
   pluralSlug: "restaurant-menu-items",
-  extendsSlug: ["page-type/collection"],
+  extends: ["page-type/collection"],
   properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

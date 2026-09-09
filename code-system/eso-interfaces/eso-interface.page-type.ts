@@ -15,7 +15,7 @@ export const esoInterface = {
   definition: "one XML document the game reads",
   pluralSlug: "eso-interfaces",
   partSlugs: ["file-property/markup", "text-property/loaded-as"],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/markup", required: true, many: false },
     { pagePropertySlug: "text-property/loaded-as", required: true, many: false },

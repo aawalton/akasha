@@ -15,7 +15,7 @@ export const astUnusedConfig = {
   definition: "one file of the curation the ast-unused audit reads its globs from",
   pluralSlug: "ast-unused-configs",
   partSlugs: ["file-property/workspaces", "file-property/curation"],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/workspaces", required: false, many: false },
     { pagePropertySlug: "file-property/curation", required: false, many: false },

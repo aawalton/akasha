@@ -59,7 +59,7 @@ export const folderShape = {
     "folder-shape/single-entrance",
     "folder-shape/the-workspace-root",
   ],
-  extendsSlug: ["page-type/module"],
+  extends: ["page-type/module"],
   loadedBy: "code-check/folder-matches-a-shape",
   properties: [
     { pagePropertySlug: "file-property/test", required: true, many: false },

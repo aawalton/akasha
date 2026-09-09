@@ -24,7 +24,7 @@ export const module = {
     "file-property/test",
     "file-property/test-fixtures",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/code", required: true, many: false },
     { pagePropertySlug: "file-property/module-types", required: false, many: false },

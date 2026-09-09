@@ -9,7 +9,7 @@ export const temperCompanionSkillLine = {
   slug: "temper-companion-skill-line",
   definition: "a group of companion abilities learned together",
   pluralSlug: "temper-companion-skill-lines",
-  extendsSlug: ["page-type/temper-companion-thing"],
+  extends: ["page-type/temper-companion-thing"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "text-property/companion-id", required: true, many: false },

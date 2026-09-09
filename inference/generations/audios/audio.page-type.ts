@@ -7,7 +7,7 @@ export const audio = {
   slug: "audio",
   definition: "one sound the system has",
   pluralSlug: "audios",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   invariants: [
     {
       invariantKind: "departure",

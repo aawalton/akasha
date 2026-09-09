@@ -28,7 +28,7 @@ export const chessProgress = {
   slug: "chess-progress",
   definition: "how far one part of Alan's chess has come",
   pluralSlug: "chess-progresses",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   runsTabooCheck: false,
   partSlugs: [
     "boolean-property/active-drill",

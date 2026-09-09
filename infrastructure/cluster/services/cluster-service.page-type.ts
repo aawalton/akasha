@@ -30,7 +30,7 @@ export const clusterService = {
   slug: "cluster-service",
   definition: "a service the cluster runs as a workload",
   pluralSlug: "cluster-services",
-  extendsSlug: ["page-type/service"],
+  extends: ["page-type/service"],
   allowsTmpPaths: true,
   partSlugs: [
     "cluster-service/alanwalton-atlas",

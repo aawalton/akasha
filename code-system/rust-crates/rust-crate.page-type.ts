@@ -24,7 +24,7 @@ export const rustCrate = {
     "file-property/cargo-manifest",
     "relation-property/rust-modules",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/cargo-manifest", required: true, many: false },
     {

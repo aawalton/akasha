@@ -33,7 +33,7 @@ function fakeOver(store: Store): Fake {
 
 function typed(slug: string, above: unknown, said: unknown): Row {
   const row: Record<string, unknown> = { slug }
-  if (above !== null) row.extendsSlug = above
+  if (above !== null) row.extends = above
   if (said !== null) row[SEQUENCE_CONFIG_KEY] = said
   return row
 }
@@ -182,8 +182,8 @@ test("a page type reaches a media config through either of the parents it names"
   const fake = fakeOver({
     plain: { slug: "plain" },
     shown: { slug: "shown", [MEDIA_CONFIG_KEY]: { renderer: "image" } },
-    leaf: { slug: "leaf", extendsSlug: ["plain", "shown"] },
-    only: { slug: "only", extendsSlug: ["plain"] },
+    leaf: { slug: "leaf", extends: ["plain", "shown"] },
+    only: { slug: "only", extends: ["plain"] },
   })
   const kin = await fileMediaPageTypeSlugs(fake.deps)
   expect([...kin].sort()).toEqual(["leaf", "shown"])

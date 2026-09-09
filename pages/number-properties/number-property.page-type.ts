@@ -12,7 +12,7 @@ export const numberProperty = {
   slug: "number-property",
   definition: "a page property with a number",
   pluralSlug: "number-properties",
-  extendsSlug: ["page-type/page-property"],
+  extends: ["page-type/page-property"],
   partSlugs: ["number-property/max"],
   properties: [{ pagePropertySlug: "number-property/max", required: true, many: false }],
 } as const satisfies PageType

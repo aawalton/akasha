@@ -14,7 +14,7 @@ export const temperArmorType = {
   slug: "temper-armor-type",
   definition: "a kind of armor piece, apart from the weight it is made at",
   pluralSlug: "temper-armor-types",
-  extendsSlug: ["page-type/temper-gear-thing"],
+  extends: ["page-type/temper-gear-thing"],
   partSlugs: ["boolean-property/is-large-enchant-slot", "number-property/armor-multiplier"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },

@@ -9,7 +9,7 @@ export const temperCompanionEquipmentQuality = {
   slug: "temper-companion-equipment-quality",
   definition: "a grade a piece of companion equipment comes at",
   pluralSlug: "temper-companion-equipment-qualities",
-  extendsSlug: ["page-type/temper-companion-thing"],
+  extends: ["page-type/temper-companion-thing"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "boolean-property/available", required: true, many: false },

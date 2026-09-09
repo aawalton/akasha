@@ -18,7 +18,7 @@ export const storyChapterWritten = {
   slug: "story-chapter-written",
   definition: "a chapter of a story written here",
   pluralSlug: "story-chapters-written",
-  extendsSlug: ["page-type/collection"],
+  extends: ["page-type/collection"],
   runsTabooCheck: false,
   partSlugs: ["relation-property/written-chapter-story"],
   properties: [

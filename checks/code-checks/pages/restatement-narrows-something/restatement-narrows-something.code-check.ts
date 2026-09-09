@@ -46,7 +46,7 @@ export const restatementNarrowsSomething = {
     },
     {
       invariantKind: "departure",
-      statement: "Which page types stand above a page type is walked through `extends-slug`.",
+      statement: "Which page types stand above a page type is walked through `extends-type`.",
     },
     {
       invariantKind: "departure",

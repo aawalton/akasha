@@ -9,7 +9,7 @@ export const temperRuleTemplate = {
   slug: "temper-rule-template",
   definition: "a ready-made rule for what to do with an item",
   pluralSlug: "temper-rule-templates",
-  extendsSlug: ["page-type/temper-rule"],
+  extends: ["page-type/temper-rule"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "text-property/description", required: true, many: false },

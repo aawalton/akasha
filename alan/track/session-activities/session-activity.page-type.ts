@@ -18,7 +18,7 @@ export const sessionActivity = {
   slug: "session-activity",
   definition: "a kind of thing Alan spends his time on",
   pluralSlug: "session-activities",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   partSlugs: ["number-property/default-difficulty"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },

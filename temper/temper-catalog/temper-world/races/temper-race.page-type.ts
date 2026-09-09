@@ -14,7 +14,7 @@ export const temperRace = {
   slug: "temper-race",
   definition: "a people a character is born into",
   pluralSlug: "temper-races",
-  extendsSlug: ["page-type/temper-catalog-thing"],
+  extends: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/eso-race-id", "text-property/alt-name"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },

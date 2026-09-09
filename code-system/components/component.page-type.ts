@@ -21,7 +21,7 @@ export const component = {
     "file-property/component-test",
     "file-property/component-test-fixtures",
   ],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/component-code", required: true, many: false },
     { pagePropertySlug: "file-property/component-test", required: false, many: false },

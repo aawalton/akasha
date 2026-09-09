@@ -15,7 +15,7 @@ export const luaModule = {
   definition: "Lua the game loads without compiling it",
   pluralSlug: "lua-modules",
   partSlugs: ["file-property/lua"],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/lua", required: true, many: false },
     { pagePropertySlug: "text-property/loaded-as", required: false, many: false },

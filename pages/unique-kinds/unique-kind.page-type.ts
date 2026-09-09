@@ -10,7 +10,7 @@ export const uniqueKind = {
   definition: "which pages a property's value is unique among",
   pluralSlug: "unique-kinds",
   partSlugs: ["unique-kind/page", "unique-kind/page-type", "unique-kind/page-property"],
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   invariants: [
     {
       invariantKind: "departure",

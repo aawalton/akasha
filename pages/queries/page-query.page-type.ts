@@ -50,7 +50,7 @@ export const pageQuery = {
     "text-property/sort-by",
     "text-property/target-key",
   ],
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [
     { pagePropertySlug: "text-property/asks-of-slug", required: true, many: false },
     { pagePropertySlug: "record-property/parameters", required: false, many: true, maxCount: 5 },

@@ -28,7 +28,7 @@ export const temperTask = {
   slug: "temper-task",
   definition: "something Alan means to do in the game, once or again and again",
   pluralSlug: "temper-tasks",
-  extendsSlug: ["page-type/temper-progress-thing"],
+  extends: ["page-type/temper-progress-thing"],
   partSlugs: [
     "boolean-property/pending-sync",
     "calendar-time-property/due-time",

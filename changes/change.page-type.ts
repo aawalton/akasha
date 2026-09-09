@@ -18,7 +18,7 @@ export const change = {
   slug: "change",
   definition: "a mechanical change whose bodies are answered rather than written",
   pluralSlug: "changes",
-  extendsSlug: ["page-type/module"],
+  extends: ["page-type/module"],
   partSlugs: [
     "page-type/change-agent",
     "page-type/change-mechanical",

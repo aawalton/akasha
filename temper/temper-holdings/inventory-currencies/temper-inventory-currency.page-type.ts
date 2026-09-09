@@ -9,7 +9,7 @@ export const temperInventoryCurrency = {
   slug: "temper-inventory-currency",
   definition: "a kind of money an account has an amount of",
   pluralSlug: "temper-inventory-currencies",
-  extendsSlug: ["page-type/temper-thing"],
+  extends: ["page-type/temper-thing"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },
