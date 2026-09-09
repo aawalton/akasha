@@ -8,7 +8,6 @@ import type { TargetArmorId } from "@akasha/temper-character-sources/target-armo
 import type { VampireStageId } from "@akasha/temper-character-sources/vampire-stages"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import type { RaceId } from "@akasha/temper-races/races"
 import type { SkillSlotId } from "@akasha/temper-skill-kinds/skill-slots"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import type { PotionId } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
@@ -16,6 +15,7 @@ import type { ChampionPointId } from "akasha/temper/temper-champion-points/champ
 import type { SkillId } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
 import type { ScribedSkill } from "akasha/temper/temper-character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import type { Loadout } from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
+import type { RaceId } from "../../races/races/races.module.code.ts"
 
 export interface CharacterState {
   id: BuildId

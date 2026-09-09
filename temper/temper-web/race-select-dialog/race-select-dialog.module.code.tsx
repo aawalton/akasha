@@ -1,7 +1,5 @@
 "use client"
 
-import { getRaceIconUrl } from "@akasha/temper-races/race-icon-url"
-import type { RaceId } from "@akasha/temper-races/races"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
   ALL_RACE_SOURCES,
@@ -10,6 +8,8 @@ import {
   sortedRaces,
 } from "akasha/temper/temper-character-build/race-source/race-source.module.code.ts"
 import { useMemo } from "react"
+import { getRaceIconUrl } from "../../races/race-icon-url/race-icon-url.module.code.ts"
+import type { RaceId } from "../../races/races/races.module.code.ts"
 import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,

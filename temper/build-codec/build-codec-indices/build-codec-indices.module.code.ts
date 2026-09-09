@@ -7,7 +7,6 @@ import { vampireStages } from "@akasha/temper-character-sources/vampire-stages"
 import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import { equipmentQualities } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
-import { races } from "@akasha/temper-races/races"
 import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
@@ -31,6 +30,7 @@ import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-ty
 import { armorTraits } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
 import { jewelryTraits } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
+import { races } from "../../races/races/races.module.code.ts"
 
 const classIds = classes.ids
 const raceIds = races.ids

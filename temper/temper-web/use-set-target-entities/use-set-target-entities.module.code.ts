@@ -7,7 +7,6 @@ import {
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { races } from "@akasha/temper-races/races"
 import {
   decodeBuild,
   encodeBuild,
@@ -21,6 +20,7 @@ import {
 } from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { useMemo, useState, useTransition } from "react"
+import { races } from "../../races/races/races.module.code.ts"
 import type { SetTargetEntity } from "../set-target-dialog/set-target-dialog.module.code.tsx"
 
 interface UseSetTargetEntitiesParams {

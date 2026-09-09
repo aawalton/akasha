@@ -3,7 +3,6 @@ import { curses } from "@akasha/temper-character-sources/curses"
 import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
 import { mundus } from "@akasha/temper-character-sources/mundus-source"
 import { vampireStages } from "@akasha/temper-character-sources/vampire-stages"
-import { races } from "@akasha/temper-races/races"
 import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
 import { signatureScripts } from "@akasha/temper-skill-kinds/scribing-signature-scripts"
@@ -23,6 +22,7 @@ import { companions } from "akasha/temper/temper-companions-core/companions/comp
 import { armorTraits } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
 import { jewelryTraits } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
+import { races } from "../../races/races/races.module.code.ts"
 
 export function buildMappingTotals(): Record<string, string> {
   return {

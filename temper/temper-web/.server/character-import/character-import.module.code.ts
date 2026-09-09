@@ -10,9 +10,9 @@ import type {
   EsoCharacterId,
 } from "@akasha/temper-formula-framework/branded-id"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
-import { races } from "@akasha/temper-races/races"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import { races } from "../../../races/races/races.module.code.ts"
 export type ImportCharacterResult =
   | { buildId: BuildId; buildName: string }
   | { error: "not-authenticated" }

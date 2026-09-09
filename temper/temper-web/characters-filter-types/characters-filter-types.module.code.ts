@@ -4,10 +4,10 @@ import {
   characterRoles as roles,
 } from "@akasha/temper-character-sources/character-roles"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { type RaceId, races } from "@akasha/temper-races/races"
 import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import type { ReactNode } from "react"
+import { type RaceId, races } from "../../races/races/races.module.code.ts"
 
 export type TabValue = "plan" | "build" | "browse" | "leaderboard"
 

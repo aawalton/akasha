@@ -10,7 +10,6 @@ import {
 } from "@akasha/temper-character-sources/character-roles"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import type { RaceId } from "@akasha/temper-races/races"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
@@ -18,6 +17,7 @@ import {
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
+import type { RaceId } from "../../races/races/races.module.code.ts"
 
 interface CharacterPlanBuild {
   id: string

@@ -18,10 +18,10 @@ import { characterUrl } from "@akasha/temper-build-support/build-url"
 import { getRoleName } from "@akasha/temper-character-sources/character-roles"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { type RaceId, races } from "@akasha/temper-races/races"
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { FolderOpen } from "lucide-react"
+import { type RaceId, races } from "../../races/races/races.module.code.ts"
 import { NewCharacterButton } from "../new-character-button/new-character-button.module.code.tsx"
 
 interface Build {
