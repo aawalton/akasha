@@ -1,4 +1,4 @@
-import type { MonarchDirection } from "../monarch-direction.page-type.ts"
+import type { MonarchDirection } from "../monarch-direction.page-type.types.ts"
 
 export const moneyMovingInsideTheHousehold = {
   id: "01a06559-5ea9-700e-9643-a72f5f272746",
