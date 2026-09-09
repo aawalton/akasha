@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0240Chapter5758DesertRose = {
   story: "labyrinth-of-the-mad-god",
   position: 240,
   ownLength: 3301,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-24",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2702032/chapter-57-58-desert-rose",

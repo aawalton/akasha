@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0035Chapter8CalmBeforeTheStorm = {
   story: "labyrinth-of-the-mad-god",
   position: 35,
   ownLength: 1815,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-05",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1746060/chapter-8-calm-before-the-storm",

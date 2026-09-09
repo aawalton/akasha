@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0115Chapter74Instruction = {
   story: "labyrinth-of-the-mad-god",
   position: 115,
   ownLength: 1711,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-06",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1995528/chapter-74-instruction",

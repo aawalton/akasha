@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0274Chapter91TeamEarth = {
   story: "labyrinth-of-the-mad-god",
   position: 274,
   ownLength: 2264,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-12",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2936654/chapter-91-team-earth",

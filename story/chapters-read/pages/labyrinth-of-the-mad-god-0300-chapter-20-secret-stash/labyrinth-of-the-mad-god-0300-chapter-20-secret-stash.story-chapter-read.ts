@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0300Chapter20SecretStash = {
   story: "labyrinth-of-the-mad-god",
   position: 300,
   ownLength: 2337,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-06",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3240066/chapter-20-secret-stash",

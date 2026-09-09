@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0212Chapter30CityBoss = {
   story: "labyrinth-of-the-mad-god",
   position: 212,
   ownLength: 1720,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-22",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2539358/chapter-30-city-boss",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0249Chapter67SoilAndStone = {
   story: "labyrinth-of-the-mad-god",
   position: 249,
   ownLength: 2015,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-17",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2769710/chapter-67-soil-and-stone",

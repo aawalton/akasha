@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0332Chapter51EnterTheBlackWind = {
   story: "labyrinth-of-the-mad-god",
   position: 332,
   ownLength: 2088,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3752166/chapter-51-enter-the-black-wind",

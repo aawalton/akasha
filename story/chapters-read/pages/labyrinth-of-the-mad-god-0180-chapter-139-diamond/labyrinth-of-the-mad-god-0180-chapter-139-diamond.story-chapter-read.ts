@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0180Chapter139Diamond = {
   story: "labyrinth-of-the-mad-god",
   position: 180,
   ownLength: 2805,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-06",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2335892/chapter-139-diamond",

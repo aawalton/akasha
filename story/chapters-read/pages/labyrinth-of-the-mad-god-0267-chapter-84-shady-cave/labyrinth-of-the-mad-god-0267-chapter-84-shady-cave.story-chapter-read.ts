@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0267Chapter84ShadyCave = {
   story: "labyrinth-of-the-mad-god",
   position: 267,
   ownLength: 1603,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-26",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2882888/chapter-84-shady-cave",

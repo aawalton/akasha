@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0040Chapter12Construct = {
   story: "labyrinth-of-the-mad-god",
   position: 40,
   ownLength: 1639,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1758404/chapter-12-construct",

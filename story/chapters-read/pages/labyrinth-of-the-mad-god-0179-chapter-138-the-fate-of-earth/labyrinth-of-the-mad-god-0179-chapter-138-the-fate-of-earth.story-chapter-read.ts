@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0179Chapter138TheFateOfEarth = {
   story: "labyrinth-of-the-mad-god",
   position: 179,
   ownLength: 2708,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2330577/chapter-138-the-fate-of-earth",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0157Chapter116TheFloorIsLava = {
   story: "labyrinth-of-the-mad-god",
   position: 157,
   ownLength: 2498,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-14",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2201968/chapter-116-the-floor-is-lava",

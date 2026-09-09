@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0227Chapter44ATurnForTheWorse = {
   story: "labyrinth-of-the-mad-god",
   position: 227,
   ownLength: 2268,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-24",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2626011/chapter-44-a-turn-for-the-worse",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0200Chapter18Voidbear = {
   story: "labyrinth-of-the-mad-god",
   position: 200,
   ownLength: 3151,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-25",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2466050/chapter-18-voidbear",

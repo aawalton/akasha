@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0236Chapter53TestDrive = {
   story: "labyrinth-of-the-mad-god",
   position: 236,
   ownLength: 2489,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-15",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2679060/chapter-53-test-drive",

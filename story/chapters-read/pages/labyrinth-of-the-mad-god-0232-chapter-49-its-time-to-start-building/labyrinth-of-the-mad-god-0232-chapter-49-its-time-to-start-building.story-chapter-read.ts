@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0232Chapter49ItsTimeToStartBuilding = {
   story: "labyrinth-of-the-mad-god",
   position: 232,
   ownLength: 2568,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-06",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2656255/chapter-49-its-time-to-start-building",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0099Chapter60AMomentaryRespite = {
   story: "labyrinth-of-the-mad-god",
   position: 99,
   ownLength: 2556,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-04",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1939949/chapter-60-a-momentary-respite",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0270Chapter87BattleRoyale = {
   story: "labyrinth-of-the-mad-god",
   position: 270,
   ownLength: 1818,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-02",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2906089/chapter-87-battle-royale",

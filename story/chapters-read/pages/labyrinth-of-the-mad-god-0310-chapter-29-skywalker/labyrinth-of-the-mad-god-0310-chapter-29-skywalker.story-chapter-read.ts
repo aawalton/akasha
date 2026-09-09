@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0310Chapter29Skywalker = {
   story: "labyrinth-of-the-mad-god",
   position: 310,
   ownLength: 2054,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3371901/chapter-29-skywalker",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0239Chapter56PredatoryDomain = {
   story: "labyrinth-of-the-mad-god",
   position: 239,
   ownLength: 2145,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-22",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2696951/chapter-56-predatory-domain",

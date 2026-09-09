@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0167Chapter126OneLastSurprise = {
   story: "labyrinth-of-the-mad-god",
   position: 167,
   ownLength: 2647,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2262937/chapter-126-one-last-surprise",

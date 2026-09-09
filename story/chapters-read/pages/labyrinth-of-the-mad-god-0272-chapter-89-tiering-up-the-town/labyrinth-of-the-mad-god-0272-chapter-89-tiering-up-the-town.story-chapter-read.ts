@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0272Chapter89TieringUpTheTown = {
   story: "labyrinth-of-the-mad-god",
   position: 272,
   ownLength: 2083,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-07",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2921134/chapter-89-tiering-up-the-town",

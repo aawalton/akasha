@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0127Chapter86StealthyApproach = {
   story: "labyrinth-of-the-mad-god",
   position: 127,
   ownLength: 1763,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-03",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2046006/chapter-86-stealthy-approach",

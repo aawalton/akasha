@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0276Chapter93Revenge = {
   story: "labyrinth-of-the-mad-god",
   position: 276,
   ownLength: 1854,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-16",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2949726/chapter-93-revenge",

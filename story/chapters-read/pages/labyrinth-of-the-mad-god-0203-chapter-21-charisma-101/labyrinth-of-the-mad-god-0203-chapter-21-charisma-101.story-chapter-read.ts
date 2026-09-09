@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0203Chapter21Charisma101 = {
   story: "labyrinth-of-the-mad-god",
   position: 203,
   ownLength: 2139,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-01",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2484694/chapter-21-charisma-101",

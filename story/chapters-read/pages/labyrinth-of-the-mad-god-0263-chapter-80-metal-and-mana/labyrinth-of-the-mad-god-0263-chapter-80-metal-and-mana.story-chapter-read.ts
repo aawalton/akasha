@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0263Chapter80MetalAndMana = {
   story: "labyrinth-of-the-mad-god",
   position: 263,
   ownLength: 1715,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-17",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2856880/chapter-80-metal-and-mana",

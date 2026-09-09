@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0193Chapter11WellEarnedReward = {
   story: "labyrinth-of-the-mad-god",
   position: 193,
   ownLength: 2061,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-09",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2422172/chapter-11-well-earned-reward",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0282Chapter2TraversingTheLabyrinth = {
   story: "labyrinth-of-the-mad-god",
   position: 282,
   ownLength: 2198,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-06",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3019745/chapter-2-traversing-the-labyrinth",

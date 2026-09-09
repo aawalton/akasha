@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0160Chapter119TheSkyIsFalling = {
   story: "labyrinth-of-the-mad-god",
   position: 160,
   ownLength: 1634,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-21",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2220149/chapter-119-the-sky-is-falling",

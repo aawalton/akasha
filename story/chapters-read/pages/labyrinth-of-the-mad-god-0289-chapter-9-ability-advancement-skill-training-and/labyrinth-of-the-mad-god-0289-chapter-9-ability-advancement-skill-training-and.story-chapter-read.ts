@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0289Chapter9AbilityAdvancementSkillTrainingAnd 
   story: "labyrinth-of-the-mad-god",
   position: 289,
   ownLength: 2174,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-02",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3109294/chapter-9-ability-advancement-skill-training-and",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0323Chapter42DreadLightning = {
   story: "labyrinth-of-the-mad-god",
   position: 323,
   ownLength: 1878,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3608747/chapter-42-dread-lightning",

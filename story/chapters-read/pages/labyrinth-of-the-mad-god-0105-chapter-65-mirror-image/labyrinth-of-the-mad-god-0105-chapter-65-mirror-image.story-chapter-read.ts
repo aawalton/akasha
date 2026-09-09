@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0105Chapter65MirrorImage = {
   story: "labyrinth-of-the-mad-god",
   position: 105,
   ownLength: 1429,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-16",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1959757/chapter-65-mirror-image",

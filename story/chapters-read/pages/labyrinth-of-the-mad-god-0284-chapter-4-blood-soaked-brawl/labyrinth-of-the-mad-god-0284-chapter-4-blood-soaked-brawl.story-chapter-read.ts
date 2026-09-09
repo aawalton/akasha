@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0284Chapter4BloodSoakedBrawl = {
   story: "labyrinth-of-the-mad-god",
   position: 284,
   ownLength: 2608,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-13",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3051316/chapter-4-blood-soaked-brawl",

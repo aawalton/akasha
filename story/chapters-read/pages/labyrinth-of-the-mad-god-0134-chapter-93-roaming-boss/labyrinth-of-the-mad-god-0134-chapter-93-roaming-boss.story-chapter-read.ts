@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0134Chapter93RoamingBoss = {
   story: "labyrinth-of-the-mad-god",
   position: 134,
   ownLength: 1621,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-19",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2077190/chapter-93-roaming-boss",

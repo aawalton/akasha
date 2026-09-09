@@ -7,7 +7,7 @@ export const labyrinthOfTheMadGod0342Chapter62PowerThatSpansTheStars = {
   story: "story-read/labyrinth-of-the-mad-god",
   position: 342,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3926295",
   source: "royal-road",
   title: "Chapter 62: Power that Spans the Stars",

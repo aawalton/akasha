@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0304Chapter23DevinsQuest = {
   story: "labyrinth-of-the-mad-god",
   position: 304,
   ownLength: 3224,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3286479/chapter-23-devins-quest",

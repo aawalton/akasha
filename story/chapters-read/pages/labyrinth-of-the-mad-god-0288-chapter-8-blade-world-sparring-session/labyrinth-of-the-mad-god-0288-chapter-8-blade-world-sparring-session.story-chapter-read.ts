@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0288Chapter8BladeWorldSparringSession = {
   story: "labyrinth-of-the-mad-god",
   position: 288,
   ownLength: 1723,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-27",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3099357/chapter-8-blade-world-sparring-session",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0144Chapter103ALittleFun = {
   story: "labyrinth-of-the-mad-god",
   position: 144,
   ownLength: 2306,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-14",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2126591/chapter-103-a-little-fun",

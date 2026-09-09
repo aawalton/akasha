@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0121Chapter80ReadyToRoll = {
   story: "labyrinth-of-the-mad-god",
   position: 121,
   ownLength: 1723,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-20",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2020740/chapter-80-ready-to-roll",

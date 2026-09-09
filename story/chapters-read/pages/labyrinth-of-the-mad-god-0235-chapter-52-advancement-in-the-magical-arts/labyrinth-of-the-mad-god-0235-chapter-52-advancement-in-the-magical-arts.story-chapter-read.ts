@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0235Chapter52AdvancementInTheMagicalArts = {
   story: "labyrinth-of-the-mad-god",
   position: 235,
   ownLength: 1887,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-13",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2673906/chapter-52-advancement-in-the-magical-arts",

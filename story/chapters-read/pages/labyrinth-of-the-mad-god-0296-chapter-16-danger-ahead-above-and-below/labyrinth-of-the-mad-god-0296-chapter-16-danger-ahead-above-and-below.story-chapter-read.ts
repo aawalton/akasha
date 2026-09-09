@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0296Chapter16DangerAheadAboveAndBelow = {
   story: "labyrinth-of-the-mad-god",
   position: 296,
   ownLength: 2094,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-23",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3184896/chapter-16-danger-ahead-above-and-below",

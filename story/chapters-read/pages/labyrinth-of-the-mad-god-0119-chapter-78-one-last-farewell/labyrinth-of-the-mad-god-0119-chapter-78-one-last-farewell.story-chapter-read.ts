@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0119Chapter78OneLastFarewell = {
   story: "labyrinth-of-the-mad-god",
   position: 119,
   ownLength: 1621,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-15",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2011914/chapter-78-one-last-farewell",

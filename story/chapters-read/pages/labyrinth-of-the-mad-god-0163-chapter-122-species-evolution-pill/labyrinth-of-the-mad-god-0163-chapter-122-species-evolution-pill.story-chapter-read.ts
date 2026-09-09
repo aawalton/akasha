@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0163Chapter122SpeciesEvolutionPill = {
   story: "labyrinth-of-the-mad-god",
   position: 163,
   ownLength: 1974,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-28",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2238714/chapter-122-species-evolution-pill",

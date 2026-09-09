@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0172Chapter131RareAtLast = {
   story: "labyrinth-of-the-mad-god",
   position: 172,
   ownLength: 2904,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-19",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2291191/chapter-131-rare-at-last",

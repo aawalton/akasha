@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0181EpilogueBehindTheScenes = {
   story: "labyrinth-of-the-mad-god",
   position: 181,
   ownLength: 661,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-06",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2335897/epilogue-behind-the-scenes",

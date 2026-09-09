@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0093Chapter54TheBigGuns = {
   story: "labyrinth-of-the-mad-god",
   position: 93,
   ownLength: 1717,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-20",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1915002/chapter-54-the-big-guns",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0305Chapter24AuroraRising = {
   story: "labyrinth-of-the-mad-god",
   position: 305,
   ownLength: 1904,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-20",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3297723/chapter-24-aurora-rising",

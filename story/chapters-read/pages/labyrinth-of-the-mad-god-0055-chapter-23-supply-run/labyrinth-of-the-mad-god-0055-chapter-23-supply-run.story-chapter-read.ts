@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0055Chapter23SupplyRun = {
   story: "labyrinth-of-the-mad-god",
   position: 55,
   ownLength: 2220,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-09",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1795735/chapter-23-supply-run",

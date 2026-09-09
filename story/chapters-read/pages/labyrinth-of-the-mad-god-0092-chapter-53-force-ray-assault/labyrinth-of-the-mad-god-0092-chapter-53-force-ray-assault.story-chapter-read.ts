@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0092Chapter53ForceRayAssault = {
   story: "labyrinth-of-the-mad-god",
   position: 92,
   ownLength: 1576,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-18",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1911325/chapter-53-force-ray-assault",

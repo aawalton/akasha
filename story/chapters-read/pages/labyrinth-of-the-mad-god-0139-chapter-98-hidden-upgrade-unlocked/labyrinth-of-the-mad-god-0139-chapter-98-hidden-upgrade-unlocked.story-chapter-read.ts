@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0139Chapter98HiddenUpgradeUnlocked = {
   story: "labyrinth-of-the-mad-god",
   position: 139,
   ownLength: 1777,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2101616/chapter-98-hidden-upgrade-unlocked",

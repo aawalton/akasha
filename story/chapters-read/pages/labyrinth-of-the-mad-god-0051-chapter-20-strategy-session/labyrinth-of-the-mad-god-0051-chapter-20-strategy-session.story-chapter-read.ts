@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0051Chapter20StrategySession = {
   story: "labyrinth-of-the-mad-god",
   position: 51,
   ownLength: 1643,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-02",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1785455/chapter-20-strategy-session",

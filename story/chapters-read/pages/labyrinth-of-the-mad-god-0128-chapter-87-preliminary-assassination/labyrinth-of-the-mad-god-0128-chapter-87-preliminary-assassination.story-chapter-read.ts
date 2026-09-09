@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0128Chapter87PreliminaryAssassination = {
   story: "labyrinth-of-the-mad-god",
   position: 128,
   ownLength: 1455,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-05",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2049852/chapter-87-preliminary-assassination",

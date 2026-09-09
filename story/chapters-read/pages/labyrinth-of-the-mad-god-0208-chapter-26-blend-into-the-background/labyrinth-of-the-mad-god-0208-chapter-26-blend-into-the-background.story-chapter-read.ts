@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0208Chapter26BlendIntoTheBackground = {
   story: "labyrinth-of-the-mad-god",
   position: 208,
   ownLength: 2391,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-13",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2515643/chapter-26-blend-into-the-background",

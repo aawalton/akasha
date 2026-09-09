@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0063Chapter29Shaun = {
   story: "labyrinth-of-the-mad-god",
   position: 63,
   ownLength: 1751,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-23",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1816693/chapter-29-shaun",

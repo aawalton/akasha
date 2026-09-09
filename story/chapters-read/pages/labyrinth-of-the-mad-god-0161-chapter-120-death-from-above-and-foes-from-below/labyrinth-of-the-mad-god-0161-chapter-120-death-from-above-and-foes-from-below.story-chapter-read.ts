@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0161Chapter120DeathFromAboveAndFoesFromBelow = 
   story: "labyrinth-of-the-mad-god",
   position: 161,
   ownLength: 1570,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-23",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2225458/chapter-120-death-from-above-and-foes-from-below",

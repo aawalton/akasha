@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0168Chapter127BlightStoryI = {
   story: "labyrinth-of-the-mad-god",
   position: 168,
   ownLength: 1745,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2267492/chapter-127-blight-story-i",

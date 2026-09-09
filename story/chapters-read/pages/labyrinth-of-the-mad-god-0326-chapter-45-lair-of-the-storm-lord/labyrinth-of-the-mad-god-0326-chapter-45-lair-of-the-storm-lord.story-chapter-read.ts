@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0326Chapter45LairOfTheStormLord = {
   story: "labyrinth-of-the-mad-god",
   position: 326,
   ownLength: 2797,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3659011/chapter-45-lair-of-the-storm-lord",

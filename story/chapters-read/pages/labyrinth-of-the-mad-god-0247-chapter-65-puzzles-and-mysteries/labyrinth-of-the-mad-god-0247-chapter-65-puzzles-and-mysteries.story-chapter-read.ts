@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0247Chapter65PuzzlesAndMysteries = {
   story: "labyrinth-of-the-mad-god",
   position: 247,
   ownLength: 2053,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-12",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2755559/chapter-65-puzzles-and-mysteries",

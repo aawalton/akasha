@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0221Chapter38TheFirstPhase = {
   story: "labyrinth-of-the-mad-god",
   position: 221,
   ownLength: 2971,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-10",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2590584/chapter-38-the-first-phase",

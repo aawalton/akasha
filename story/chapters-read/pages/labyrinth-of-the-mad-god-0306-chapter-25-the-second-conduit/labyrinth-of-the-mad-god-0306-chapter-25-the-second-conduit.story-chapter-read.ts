@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0306Chapter25TheSecondConduit = {
   story: "labyrinth-of-the-mad-god",
   position: 306,
   ownLength: 2301,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3314264/chapter-25-the-second-conduit",

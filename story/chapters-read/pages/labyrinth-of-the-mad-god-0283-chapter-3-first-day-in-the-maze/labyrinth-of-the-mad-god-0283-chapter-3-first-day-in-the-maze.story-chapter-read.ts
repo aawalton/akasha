@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0283Chapter3FirstDayInTheMaze = {
   story: "labyrinth-of-the-mad-god",
   position: 283,
   ownLength: 2502,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-09",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3029731/chapter-3-first-day-in-the-maze",

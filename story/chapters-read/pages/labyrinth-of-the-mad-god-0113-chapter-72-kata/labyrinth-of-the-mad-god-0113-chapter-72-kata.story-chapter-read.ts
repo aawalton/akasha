@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0113Chapter72Kata = {
   story: "labyrinth-of-the-mad-god",
   position: 113,
   ownLength: 1522,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-01",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1986625/chapter-72-kata",

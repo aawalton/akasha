@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0215Chapter33LoomingShowdown = {
   story: "labyrinth-of-the-mad-god",
   position: 215,
   ownLength: 2450,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-29",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2558510/chapter-33-looming-showdown",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0273Chapter90PlacingThePortal = {
   story: "labyrinth-of-the-mad-god",
   position: 273,
   ownLength: 2092,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-09",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2927564/chapter-90-placing-the-portal",

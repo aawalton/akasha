@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0084Chapter46ItsATrap = {
   story: "labyrinth-of-the-mad-god",
   position: 84,
   ownLength: 1845,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-01",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1879707/chapter-46-its-a-trap",

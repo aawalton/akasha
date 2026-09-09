@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0036Chapter9SterileDevastation = {
   story: "labyrinth-of-the-mad-god",
   position: 36,
   ownLength: 1609,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-07",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1748688/chapter-9-sterile-devastation",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0322Chapter41ForceArmor = {
   story: "labyrinth-of-the-mad-god",
   position: 322,
   ownLength: 2007,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-19",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3562747/chapter-41-force-armor",

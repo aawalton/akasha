@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0334Chapter53GaiasCallAndAThreeWayWar = {
   story: "labyrinth-of-the-mad-god",
   position: 334,
   ownLength: 2503,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-07",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3783552/chapter-53-gaias-call-and-a-three-way-war",

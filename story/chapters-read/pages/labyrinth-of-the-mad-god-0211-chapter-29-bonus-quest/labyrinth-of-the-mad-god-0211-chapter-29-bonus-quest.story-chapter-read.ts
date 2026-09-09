@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0211Chapter29BonusQuest = {
   story: "labyrinth-of-the-mad-god",
   position: 211,
   ownLength: 1584,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-20",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2534055/chapter-29-bonus-quest",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0061Chapter28TheThirdMan = {
   story: "labyrinth-of-the-mad-god",
   position: 61,
   ownLength: 1831,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-20",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1812256/chapter-28-the-third-man",

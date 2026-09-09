@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0138Chapter97CrashCourse = {
   story: "labyrinth-of-the-mad-god",
   position: 138,
   ownLength: 1687,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-28",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2095482/chapter-97-crash-course",

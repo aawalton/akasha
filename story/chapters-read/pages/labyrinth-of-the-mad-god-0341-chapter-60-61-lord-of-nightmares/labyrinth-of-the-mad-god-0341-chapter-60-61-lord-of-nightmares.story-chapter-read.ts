@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0341Chapter6061LordOfNightmares = {
   story: "labyrinth-of-the-mad-god",
   position: 341,
   ownLength: 3714,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3891703/chapter-60-61-lord-of-nightmares",

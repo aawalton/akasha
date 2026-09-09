@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0262Chapter79UnexpectedPublishment = {
   story: "labyrinth-of-the-mad-god",
   position: 262,
   ownLength: 1555,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-15",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2850837/chapter-79-unexpected-publishment",

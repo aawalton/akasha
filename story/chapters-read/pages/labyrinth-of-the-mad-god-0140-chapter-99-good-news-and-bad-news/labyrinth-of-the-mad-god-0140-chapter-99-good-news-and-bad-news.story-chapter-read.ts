@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0140Chapter99GoodNewsAndBadNews = {
   story: "labyrinth-of-the-mad-god",
   position: 140,
   ownLength: 1760,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-05",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2106255/chapter-99-good-news-and-bad-news",

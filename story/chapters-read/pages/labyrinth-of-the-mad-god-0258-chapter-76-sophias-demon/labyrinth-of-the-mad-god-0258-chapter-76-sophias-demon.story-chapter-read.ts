@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0258Chapter76SophiasDemon = {
   story: "labyrinth-of-the-mad-god",
   position: 258,
   ownLength: 1710,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-08",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2830654/chapter-76-sophias-demon",

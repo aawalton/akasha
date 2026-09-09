@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0125Chapter84HardDayLongNight = {
   story: "labyrinth-of-the-mad-god",
   position: 125,
   ownLength: 1554,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-29",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2036761/chapter-84-hard-day-long-night",

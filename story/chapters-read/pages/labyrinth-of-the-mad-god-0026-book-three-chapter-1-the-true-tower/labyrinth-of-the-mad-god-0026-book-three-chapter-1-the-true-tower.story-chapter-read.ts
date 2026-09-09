@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0026BookThreeChapter1TheTrueTower = {
   story: "labyrinth-of-the-mad-god",
   position: 26,
   ownLength: 1606,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1725634/book-three-chapter-1-the-true-tower",

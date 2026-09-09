@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0293Chapter13EnhancedPhysicalSenses = {
   story: "labyrinth-of-the-mad-god",
   position: 293,
   ownLength: 1848,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-16",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3159157/chapter-13-enhanced-physical-senses",

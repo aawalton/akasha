@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0218Chapter36GettingReadyToRumble = {
   story: "labyrinth-of-the-mad-god",
   position: 218,
   ownLength: 1799,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-05",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2577266/chapter-36-getting-ready-to-rumble",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0175Chapter134DarkMoment = {
   story: "labyrinth-of-the-mad-god",
   position: 175,
   ownLength: 3993,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-26",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2307617/chapter-134-dark-moment",

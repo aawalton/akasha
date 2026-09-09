@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0177Chapter136TheFinalAct = {
   story: "labyrinth-of-the-mad-god",
   position: 177,
   ownLength: 1773,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-30",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2317660/chapter-136-the-final-act",

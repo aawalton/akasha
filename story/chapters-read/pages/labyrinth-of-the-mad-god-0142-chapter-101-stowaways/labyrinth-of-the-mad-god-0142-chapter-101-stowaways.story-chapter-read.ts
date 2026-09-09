@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0142Chapter101Stowaways = {
   story: "labyrinth-of-the-mad-god",
   position: 142,
   ownLength: 2008,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-10",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2118011/chapter-101-stowaways",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0188Chapter6StrangersInTheSky = {
   story: "labyrinth-of-the-mad-god",
   position: 188,
   ownLength: 2559,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-27",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2390321/chapter-6-strangers-in-the-sky",

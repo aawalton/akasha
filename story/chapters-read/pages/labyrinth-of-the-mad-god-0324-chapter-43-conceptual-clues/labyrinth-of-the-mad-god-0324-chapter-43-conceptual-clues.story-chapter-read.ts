@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0324Chapter43ConceptualClues = {
   story: "labyrinth-of-the-mad-god",
   position: 324,
   ownLength: 1650,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3628195/chapter-43-conceptual-clues",

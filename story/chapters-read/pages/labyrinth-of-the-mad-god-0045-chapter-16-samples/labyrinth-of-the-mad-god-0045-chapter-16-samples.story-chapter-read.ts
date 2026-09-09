@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0045Chapter16Samples = {
   story: "labyrinth-of-the-mad-god",
   position: 45,
   ownLength: 1770,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1771453/chapter-16-samples",

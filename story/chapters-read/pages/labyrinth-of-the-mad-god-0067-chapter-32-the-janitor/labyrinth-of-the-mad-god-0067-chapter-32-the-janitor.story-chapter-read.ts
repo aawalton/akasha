@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0067Chapter32TheJanitor = {
   story: "labyrinth-of-the-mad-god",
   position: 67,
   ownLength: 1627,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-30",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1828457/chapter-32-the-janitor",

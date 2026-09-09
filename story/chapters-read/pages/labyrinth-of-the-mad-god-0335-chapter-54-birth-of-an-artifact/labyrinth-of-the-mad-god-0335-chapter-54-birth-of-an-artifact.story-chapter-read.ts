@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0335Chapter54BirthOfAnArtifact = {
   story: "labyrinth-of-the-mad-god",
   position: 335,
   ownLength: 1474,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-10",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3796584/chapter-54-birth-of-an-artifact",

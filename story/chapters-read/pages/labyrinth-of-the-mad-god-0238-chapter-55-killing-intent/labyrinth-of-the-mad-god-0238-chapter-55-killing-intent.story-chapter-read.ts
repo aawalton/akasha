@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0238Chapter55KillingIntent = {
   story: "labyrinth-of-the-mad-god",
   position: 238,
   ownLength: 2028,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-20",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2691706/chapter-55-killing-intent",

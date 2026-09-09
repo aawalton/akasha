@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0195Chapter13PointOfInterest = {
   story: "labyrinth-of-the-mad-god",
   position: 195,
   ownLength: 2014,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-14",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2435156/chapter-13-point-of-interest",

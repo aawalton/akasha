@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0281Chapter1AProblemWithTeeth = {
   story: "labyrinth-of-the-mad-god",
   position: 281,
   ownLength: 2396,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-02",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3005998/chapter-1-a-problem-with-teeth",

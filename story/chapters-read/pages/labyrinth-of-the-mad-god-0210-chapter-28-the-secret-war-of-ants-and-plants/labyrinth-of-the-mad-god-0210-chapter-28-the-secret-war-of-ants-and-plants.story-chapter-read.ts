@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0210Chapter28TheSecretWarOfAntsAndPlants = {
   story: "labyrinth-of-the-mad-god",
   position: 210,
   ownLength: 1961,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2528698/chapter-28-the-secret-war-of-ants-and-plants",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0126Chapter85GrimFindings = {
   story: "labyrinth-of-the-mad-god",
   position: 126,
   ownLength: 1489,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-31",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2040662/chapter-85-grim-findings",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0222Chapter39MountainOfMuscle = {
   story: "labyrinth-of-the-mad-god",
   position: 222,
   ownLength: 2252,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-12",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2595644/chapter-39-mountain-of-muscle",

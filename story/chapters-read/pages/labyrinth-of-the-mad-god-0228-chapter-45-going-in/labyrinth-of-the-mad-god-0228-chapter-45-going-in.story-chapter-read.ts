@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0228Chapter45GoingIn = {
   story: "labyrinth-of-the-mad-god",
   position: 228,
   ownLength: 2291,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-26",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2631360/chapter-45-going-in",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0155Chapter114HeavyBlowVsHeavyFoes = {
   story: "labyrinth-of-the-mad-god",
   position: 155,
   ownLength: 1754,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-09",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2188218/chapter-114-heavy-blow-vs-heavy-foes",

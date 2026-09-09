@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0100Chapter61VioletSky = {
   story: "labyrinth-of-the-mad-god",
   position: 100,
   ownLength: 1671,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-06",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1943808/chapter-61-violet-sky",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0136Chapter95CatAndMouse = {
   story: "labyrinth-of-the-mad-god",
   position: 136,
   ownLength: 1320,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-24",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2087198/chapter-95-cat-and-mouse",

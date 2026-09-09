@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0065Chapter31TheGreatGarbageWar = {
   story: "labyrinth-of-the-mad-god",
   position: 65,
   ownLength: 1605,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-27",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1823423/chapter-31-the-great-garbage-war",

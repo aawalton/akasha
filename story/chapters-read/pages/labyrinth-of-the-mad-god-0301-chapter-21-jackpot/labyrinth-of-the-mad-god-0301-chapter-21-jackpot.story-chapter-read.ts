@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0301Chapter21Jackpot = {
   story: "labyrinth-of-the-mad-god",
   position: 301,
   ownLength: 2449,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3257232/chapter-21-jackpot",

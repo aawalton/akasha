@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0050ConceptArt = {
   story: "labyrinth-of-the-mad-god",
   position: 50,
   ownLength: 2,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1781255/concept-art",

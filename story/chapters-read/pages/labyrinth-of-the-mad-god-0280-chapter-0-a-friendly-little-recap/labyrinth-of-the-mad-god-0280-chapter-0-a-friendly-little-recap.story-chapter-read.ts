@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0280Chapter0AFriendlyLittleRecap = {
   story: "labyrinth-of-the-mad-god",
   position: 280,
   ownLength: 4207,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-30",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2995858/chapter-0-a-friendly-little-recap",

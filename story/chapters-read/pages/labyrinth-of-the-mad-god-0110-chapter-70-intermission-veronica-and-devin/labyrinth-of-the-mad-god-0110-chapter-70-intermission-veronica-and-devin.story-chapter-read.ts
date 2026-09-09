@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0110Chapter70IntermissionVeronicaAndDevin = {
   story: "labyrinth-of-the-mad-god",
   position: 110,
   ownLength: 1817,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-27",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1978046/chapter-70-intermission-veronica-and-devin",

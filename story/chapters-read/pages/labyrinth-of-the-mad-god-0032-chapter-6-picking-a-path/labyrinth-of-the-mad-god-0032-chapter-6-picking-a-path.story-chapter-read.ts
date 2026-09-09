@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0032Chapter6PickingAPath = {
   story: "labyrinth-of-the-mad-god",
   position: 32,
   ownLength: 1921,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1739680/chapter-6-picking-a-path",

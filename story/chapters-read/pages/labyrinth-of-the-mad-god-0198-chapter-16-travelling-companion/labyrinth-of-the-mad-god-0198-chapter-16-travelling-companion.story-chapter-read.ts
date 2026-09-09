@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0198Chapter16TravellingCompanion = {
   story: "labyrinth-of-the-mad-god",
   position: 198,
   ownLength: 1786,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-21",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2454840/chapter-16-travelling-companion",

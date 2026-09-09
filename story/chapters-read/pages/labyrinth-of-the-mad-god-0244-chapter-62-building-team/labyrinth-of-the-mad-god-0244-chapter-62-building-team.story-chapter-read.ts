@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0244Chapter62BuildingTeam = {
   story: "labyrinth-of-the-mad-god",
   position: 244,
   ownLength: 2563,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-05",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2735492/chapter-62-building-team",

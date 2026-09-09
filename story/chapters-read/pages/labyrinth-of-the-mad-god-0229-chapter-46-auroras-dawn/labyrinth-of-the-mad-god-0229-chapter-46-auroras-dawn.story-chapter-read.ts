@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0229Chapter46AurorasDawn = {
   story: "labyrinth-of-the-mad-god",
   position: 229,
   ownLength: 2310,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-29",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2638572/chapter-46-auroras-dawn",

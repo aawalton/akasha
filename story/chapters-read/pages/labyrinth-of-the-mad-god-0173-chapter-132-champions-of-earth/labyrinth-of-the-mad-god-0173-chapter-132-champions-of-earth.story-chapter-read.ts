@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0173Chapter132ChampionsOfEarth = {
   story: "labyrinth-of-the-mad-god",
   position: 173,
   ownLength: 3705,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-21",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2295861/chapter-132-champions-of-earth",

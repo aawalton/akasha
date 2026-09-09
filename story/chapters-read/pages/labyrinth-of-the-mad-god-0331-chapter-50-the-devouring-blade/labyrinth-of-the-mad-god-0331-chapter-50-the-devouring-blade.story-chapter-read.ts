@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0331Chapter50TheDevouringBlade = {
   story: "labyrinth-of-the-mad-god",
   position: 331,
   ownLength: 1664,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-27",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3733956/chapter-50-the-devouring-blade",

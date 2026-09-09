@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0312Chapter31JourneysEnd = {
   story: "labyrinth-of-the-mad-god",
   position: 312,
   ownLength: 1466,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3400610/chapter-31-journeys-end",

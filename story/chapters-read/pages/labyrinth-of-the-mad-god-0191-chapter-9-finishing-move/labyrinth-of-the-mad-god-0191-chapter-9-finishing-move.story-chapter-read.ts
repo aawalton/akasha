@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0191Chapter9FinishingMove = {
   story: "labyrinth-of-the-mad-god",
   position: 191,
   ownLength: 2228,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2409307/chapter-9-finishing-move",

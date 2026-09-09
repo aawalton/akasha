@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0255Chapter73BadTimingAndNewFriends = {
   story: "labyrinth-of-the-mad-god",
   position: 255,
   ownLength: 1625,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-01",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2809893/chapter-73-bad-timing-and-new-friends",

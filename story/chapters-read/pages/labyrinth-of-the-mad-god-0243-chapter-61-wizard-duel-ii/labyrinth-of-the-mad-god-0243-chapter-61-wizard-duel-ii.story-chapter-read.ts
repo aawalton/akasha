@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0243Chapter61WizardDuelIi = {
   story: "labyrinth-of-the-mad-god",
   position: 243,
   ownLength: 1502,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-03",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2729505/chapter-61-wizard-duel-ii",

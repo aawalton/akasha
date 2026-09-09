@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0259Chapter77RapidGrowth = {
   story: "labyrinth-of-the-mad-god",
   position: 259,
   ownLength: 2664,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-10",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2836662/chapter-77-rapid-growth",

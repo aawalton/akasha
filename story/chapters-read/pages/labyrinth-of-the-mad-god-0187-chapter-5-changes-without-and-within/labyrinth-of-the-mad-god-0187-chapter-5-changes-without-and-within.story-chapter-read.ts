@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0187Chapter5ChangesWithoutAndWithin = {
   story: "labyrinth-of-the-mad-god",
   position: 187,
   ownLength: 2037,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2384975/chapter-5-changes-without-and-within",

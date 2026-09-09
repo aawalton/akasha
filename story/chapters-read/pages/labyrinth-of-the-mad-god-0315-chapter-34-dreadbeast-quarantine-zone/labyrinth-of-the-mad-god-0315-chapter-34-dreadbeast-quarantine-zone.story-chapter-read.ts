@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0315Chapter34DreadbeastQuarantineZone = {
   story: "labyrinth-of-the-mad-god",
   position: 315,
   ownLength: 1991,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3445241/chapter-34-dreadbeast-quarantine-zone",

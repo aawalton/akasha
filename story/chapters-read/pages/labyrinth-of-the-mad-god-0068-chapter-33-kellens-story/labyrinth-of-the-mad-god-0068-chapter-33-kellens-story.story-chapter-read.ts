@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0068Chapter33KellensStory = {
   story: "labyrinth-of-the-mad-god",
   position: 68,
   ownLength: 1773,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-02",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1831778/chapter-33-kellens-story",

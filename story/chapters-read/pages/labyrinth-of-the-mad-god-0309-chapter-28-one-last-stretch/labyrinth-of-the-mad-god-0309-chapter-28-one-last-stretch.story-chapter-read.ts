@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0309Chapter28OneLastStretch = {
   story: "labyrinth-of-the-mad-god",
   position: 309,
   ownLength: 1836,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-04",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3354732/chapter-28-one-last-stretch",

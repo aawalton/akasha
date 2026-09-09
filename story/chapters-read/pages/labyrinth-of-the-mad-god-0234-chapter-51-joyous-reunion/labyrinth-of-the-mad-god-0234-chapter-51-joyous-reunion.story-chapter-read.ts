@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0234Chapter51JoyousReunion = {
   story: "labyrinth-of-the-mad-god",
   position: 234,
   ownLength: 2274,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-10",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2666561/chapter-51-joyous-reunion",

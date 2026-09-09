@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0049Chapter19BattlefieldReunion = {
   story: "labyrinth-of-the-mad-god",
   position: 49,
   ownLength: 1687,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1781252/chapter-19-battlefield-reunion",

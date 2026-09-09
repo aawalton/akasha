@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0328Chapter47AlphaStrike = {
   story: "labyrinth-of-the-mad-god",
   position: 328,
   ownLength: 2091,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-17",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3690503/chapter-47-alpha-strike",

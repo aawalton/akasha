@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0207Chapter25FreeFromGravitysEmbrace = {
   story: "labyrinth-of-the-mad-god",
   position: 207,
   ownLength: 1774,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2510186/chapter-25-free-from-gravitys-embrace",

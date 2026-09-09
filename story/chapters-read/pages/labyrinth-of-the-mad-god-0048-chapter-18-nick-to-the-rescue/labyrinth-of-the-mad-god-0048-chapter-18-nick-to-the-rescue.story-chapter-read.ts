@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0048Chapter18NickToTheRescue = {
   story: "labyrinth-of-the-mad-god",
   position: 48,
   ownLength: 1601,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-28",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1778413/chapter-18-nick-to-the-rescue",

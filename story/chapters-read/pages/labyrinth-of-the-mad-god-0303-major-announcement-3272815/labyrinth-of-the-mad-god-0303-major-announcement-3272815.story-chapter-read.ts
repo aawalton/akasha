@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0303MajorAnnouncement3272815 = {
   story: "labyrinth-of-the-mad-god",
   position: 303,
   ownLength: 342,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-14",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3272815/major-announcement",

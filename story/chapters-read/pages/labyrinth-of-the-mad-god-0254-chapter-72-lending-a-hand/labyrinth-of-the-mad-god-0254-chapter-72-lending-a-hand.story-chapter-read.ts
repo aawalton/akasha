@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0254Chapter72LendingAHand = {
   story: "labyrinth-of-the-mad-god",
   position: 254,
   ownLength: 1739,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-28",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2801421/chapter-72-lending-a-hand",

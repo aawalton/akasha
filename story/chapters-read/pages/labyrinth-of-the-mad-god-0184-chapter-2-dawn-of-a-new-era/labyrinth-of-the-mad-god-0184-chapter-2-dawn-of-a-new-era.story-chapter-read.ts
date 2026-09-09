@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0184Chapter2DawnOfANewEra = {
   story: "labyrinth-of-the-mad-god",
   position: 184,
   ownLength: 2328,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2372885/chapter-2-dawn-of-a-new-era",

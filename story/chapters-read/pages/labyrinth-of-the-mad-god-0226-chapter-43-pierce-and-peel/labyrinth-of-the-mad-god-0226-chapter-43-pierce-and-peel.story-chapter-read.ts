@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0226Chapter43PierceAndPeel = {
   story: "labyrinth-of-the-mad-god",
   position: 226,
   ownLength: 2012,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-22",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2620695/chapter-43-pierce-and-peel",

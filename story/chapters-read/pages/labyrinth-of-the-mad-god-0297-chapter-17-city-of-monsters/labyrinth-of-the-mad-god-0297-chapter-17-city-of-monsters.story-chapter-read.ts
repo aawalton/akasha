@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0297Chapter17CityOfMonsters = {
   story: "labyrinth-of-the-mad-god",
   position: 297,
   ownLength: 2617,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-27",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3200858/chapter-17-city-of-monsters",

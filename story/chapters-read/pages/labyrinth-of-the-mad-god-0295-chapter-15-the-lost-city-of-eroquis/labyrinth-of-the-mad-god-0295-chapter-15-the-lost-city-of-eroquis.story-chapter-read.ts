@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0295Chapter15TheLostCityOfEroquis = {
   story: "labyrinth-of-the-mad-god",
   position: 295,
   ownLength: 1796,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-23",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3185131/chapter-15-the-lost-city-of-eroquis",

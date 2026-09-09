@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0264Chapter81BladeWorld = {
   story: "labyrinth-of-the-mad-god",
   position: 264,
   ownLength: 2045,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-19",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2862921/chapter-81-blade-world",

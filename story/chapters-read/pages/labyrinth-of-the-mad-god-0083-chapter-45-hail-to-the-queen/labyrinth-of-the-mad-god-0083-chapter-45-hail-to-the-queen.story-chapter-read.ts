@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0083Chapter45HailToTheQueen = {
   story: "labyrinth-of-the-mad-god",
   position: 83,
   ownLength: 1841,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-30",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1876073/chapter-45-hail-to-the-queen",

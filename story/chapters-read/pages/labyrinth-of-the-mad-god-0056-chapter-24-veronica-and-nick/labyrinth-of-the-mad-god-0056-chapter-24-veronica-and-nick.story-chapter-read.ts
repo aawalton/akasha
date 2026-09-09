@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0056Chapter24VeronicaAndNick = {
   story: "labyrinth-of-the-mad-god",
   position: 56,
   ownLength: 2196,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-11",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1798837/chapter-24-veronica-and-nick",

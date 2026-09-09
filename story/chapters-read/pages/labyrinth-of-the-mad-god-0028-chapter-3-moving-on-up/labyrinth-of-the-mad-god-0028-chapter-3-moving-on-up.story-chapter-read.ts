@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0028Chapter3MovingOnUp = {
   story: "labyrinth-of-the-mad-god",
   position: 28,
   ownLength: 1698,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-24",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1730646/chapter-3-moving-on-up",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0269Chapter86EmergencyQuest = {
   story: "labyrinth-of-the-mad-god",
   position: 269,
   ownLength: 1811,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-31",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2896452/chapter-86-emergency-quest",

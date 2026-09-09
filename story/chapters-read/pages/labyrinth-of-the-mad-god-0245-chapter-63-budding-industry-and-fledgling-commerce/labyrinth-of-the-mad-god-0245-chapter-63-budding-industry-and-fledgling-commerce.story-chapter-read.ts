@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0245Chapter63BuddingIndustryAndFledglingCommerc
   story: "labyrinth-of-the-mad-god",
   position: 245,
   ownLength: 2097,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-07",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2741270/chapter-63-budding-industry-and-fledgling-commerce",

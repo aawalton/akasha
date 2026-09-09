@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0202Chapter20MageSight = {
   story: "labyrinth-of-the-mad-god",
   position: 202,
   ownLength: 1869,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-30",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2479261/chapter-20-mage-sight",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0118Chapter77IntermissionSophiaAndShaun = {
   story: "labyrinth-of-the-mad-god",
   position: 118,
   ownLength: 2495,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-13",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2008151/chapter-77-intermission-sophia-and-shaun",

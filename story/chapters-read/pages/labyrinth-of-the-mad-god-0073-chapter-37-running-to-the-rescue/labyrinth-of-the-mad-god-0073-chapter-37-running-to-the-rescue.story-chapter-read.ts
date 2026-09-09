@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0073Chapter37RunningToTheRescue = {
   story: "labyrinth-of-the-mad-god",
   position: 73,
   ownLength: 1538,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-11",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1845676/chapter-37-running-to-the-rescue",

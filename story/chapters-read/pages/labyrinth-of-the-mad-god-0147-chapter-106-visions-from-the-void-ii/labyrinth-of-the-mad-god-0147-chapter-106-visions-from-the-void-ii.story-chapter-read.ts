@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0147Chapter106VisionsFromTheVoidIi = {
   story: "labyrinth-of-the-mad-god",
   position: 147,
   ownLength: 1958,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-21",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2142077/chapter-106-visions-from-the-void-ii",

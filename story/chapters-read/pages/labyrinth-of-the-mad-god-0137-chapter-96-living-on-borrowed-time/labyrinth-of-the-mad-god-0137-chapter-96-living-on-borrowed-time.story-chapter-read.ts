@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0137Chapter96LivingOnBorrowedTime = {
   story: "labyrinth-of-the-mad-god",
   position: 137,
   ownLength: 1773,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-26",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2091430/chapter-96-living-on-borrowed-time",

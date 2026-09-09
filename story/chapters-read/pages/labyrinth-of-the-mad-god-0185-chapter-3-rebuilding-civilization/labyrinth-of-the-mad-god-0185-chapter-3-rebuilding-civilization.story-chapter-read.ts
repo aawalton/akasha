@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0185Chapter3RebuildingCivilization = {
   story: "labyrinth-of-the-mad-god",
   position: 185,
   ownLength: 1805,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2372238/chapter-3-rebuilding-civilization",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0132Chapter91VerticalEscape = {
   story: "labyrinth-of-the-mad-god",
   position: 132,
   ownLength: 1656,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-14",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2067340/chapter-91-vertical-escape",

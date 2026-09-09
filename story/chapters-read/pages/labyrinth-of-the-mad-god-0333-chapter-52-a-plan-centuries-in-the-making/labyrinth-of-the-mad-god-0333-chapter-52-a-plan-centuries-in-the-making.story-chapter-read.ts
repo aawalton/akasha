@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0333Chapter52APlanCenturiesInTheMaking = {
   story: "labyrinth-of-the-mad-god",
   position: 333,
   ownLength: 1478,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3764796/chapter-52-a-plan-centuries-in-the-making",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0154Chapter113ElementalAssault = {
   story: "labyrinth-of-the-mad-god",
   position: 154,
   ownLength: 1793,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-07",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2182589/chapter-113-elemental-assault",

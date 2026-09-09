@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0253Chapter71Refugees = {
   story: "labyrinth-of-the-mad-god",
   position: 253,
   ownLength: 1729,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-26",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2795707/chapter-71-refugees",

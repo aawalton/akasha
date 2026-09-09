@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0162Chapter121MenVersusMachine = {
   story: "labyrinth-of-the-mad-god",
   position: 162,
   ownLength: 1636,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-25",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2230894/chapter-121-men-versus-machine",

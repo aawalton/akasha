@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0124Chapter83Raptor = {
   story: "labyrinth-of-the-mad-god",
   position: 124,
   ownLength: 1598,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-27",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2033180/chapter-83-raptor",

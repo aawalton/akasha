@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0340Chapter59OneSidedBeatdown = {
   story: "labyrinth-of-the-mad-god",
   position: 340,
   ownLength: 1978,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-28",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3878124/chapter-59-one-sided-beatdown",

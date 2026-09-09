@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0338Chapter57TwoMonthNap = {
   story: "labyrinth-of-the-mad-god",
   position: 338,
   ownLength: 2789,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3844644/chapter-57-two-month-nap",

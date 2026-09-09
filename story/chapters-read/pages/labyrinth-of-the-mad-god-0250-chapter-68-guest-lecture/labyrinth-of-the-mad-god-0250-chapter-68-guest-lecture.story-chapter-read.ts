@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0250Chapter68GuestLecture = {
   story: "labyrinth-of-the-mad-god",
   position: 250,
   ownLength: 1759,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-19",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2775560/chapter-68-guest-lecture",

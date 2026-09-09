@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0277Chapter94NoRegretsForWordsUnspoken = {
   story: "labyrinth-of-the-mad-god",
   position: 277,
   ownLength: 2136,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-19",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2958970/chapter-94-no-regrets-for-words-unspoken",

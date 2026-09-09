@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0086Chapter47Checkmate = {
   story: "labyrinth-of-the-mad-god",
   position: 86,
   ownLength: 1563,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-04",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1885125/chapter-47-checkmate",

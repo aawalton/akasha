@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0047Chapter17WarriorRogue = {
   story: "labyrinth-of-the-mad-god",
   position: 47,
   ownLength: 1638,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1775451/chapter-17-warrior-rogue",

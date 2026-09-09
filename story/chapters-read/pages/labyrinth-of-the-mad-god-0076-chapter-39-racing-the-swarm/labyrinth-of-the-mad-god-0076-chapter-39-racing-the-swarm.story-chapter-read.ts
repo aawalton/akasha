@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0076Chapter39RacingTheSwarm = {
   story: "labyrinth-of-the-mad-god",
   position: 76,
   ownLength: 1590,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-16",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1853519/chapter-39-racing-the-swarm",

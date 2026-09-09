@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0246Chapter64ShrineOfTheFacelessGods = {
   story: "labyrinth-of-the-mad-god",
   position: 246,
   ownLength: 2047,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-10",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2749562/chapter-64-shrine-of-the-faceless-gods",

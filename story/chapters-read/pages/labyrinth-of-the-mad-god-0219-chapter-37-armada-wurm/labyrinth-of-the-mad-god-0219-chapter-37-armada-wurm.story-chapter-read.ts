@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0219Chapter37ArmadaWurm = {
   story: "labyrinth-of-the-mad-god",
   position: 219,
   ownLength: 1853,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-08",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2585158/chapter-37-armada-wurm",

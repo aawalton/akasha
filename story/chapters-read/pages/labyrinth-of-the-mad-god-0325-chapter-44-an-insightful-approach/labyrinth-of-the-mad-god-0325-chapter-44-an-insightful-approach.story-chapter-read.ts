@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0325Chapter44AnInsightfulApproach = {
   story: "labyrinth-of-the-mad-god",
   position: 325,
   ownLength: 2139,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-06",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3640917/chapter-44-an-insightful-approach",

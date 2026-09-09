@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0145Chapter104FrozenFlame = {
   story: "labyrinth-of-the-mad-god",
   position: 145,
   ownLength: 2358,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-17",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2132801/chapter-104-frozen-flame",

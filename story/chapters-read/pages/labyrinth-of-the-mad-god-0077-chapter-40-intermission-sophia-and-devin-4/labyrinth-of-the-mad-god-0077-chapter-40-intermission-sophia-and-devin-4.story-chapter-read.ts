@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0077Chapter40IntermissionSophiaAndDevin4 = {
   story: "labyrinth-of-the-mad-god",
   position: 77,
   ownLength: 2201,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-18",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1857046/chapter-40-intermission-sophia-and-devin-4",

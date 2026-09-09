@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0339Chapter58RidingADinosaurIntoBattle = {
   story: "labyrinth-of-the-mad-god",
   position: 339,
   ownLength: 2166,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-24",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3859736/chapter-58-riding-a-dinosaur-into-battle",

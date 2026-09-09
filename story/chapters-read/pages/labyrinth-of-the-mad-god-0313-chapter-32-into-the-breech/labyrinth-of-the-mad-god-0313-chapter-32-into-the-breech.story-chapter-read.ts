@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0313Chapter32IntoTheBreech = {
   story: "labyrinth-of-the-mad-god",
   position: 313,
   ownLength: 2468,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3415052/chapter-32-into-the-breech",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0316Chapter35FrozenInPlace = {
   story: "labyrinth-of-the-mad-god",
   position: 316,
   ownLength: 2062,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-29",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3466165/chapter-35-frozen-in-place",

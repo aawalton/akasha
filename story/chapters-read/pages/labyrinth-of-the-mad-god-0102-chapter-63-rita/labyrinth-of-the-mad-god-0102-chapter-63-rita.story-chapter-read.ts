@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0102Chapter63Rita = {
   story: "labyrinth-of-the-mad-god",
   position: 102,
   ownLength: 1472,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-11",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1951788/chapter-63-rita",

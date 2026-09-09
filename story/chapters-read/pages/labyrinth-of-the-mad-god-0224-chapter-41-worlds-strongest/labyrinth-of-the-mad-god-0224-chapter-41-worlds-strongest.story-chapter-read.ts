@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0224Chapter41WorldsStrongest = {
   story: "labyrinth-of-the-mad-god",
   position: 224,
   ownLength: 1854,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-17",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2608137/chapter-41-worlds-strongest",

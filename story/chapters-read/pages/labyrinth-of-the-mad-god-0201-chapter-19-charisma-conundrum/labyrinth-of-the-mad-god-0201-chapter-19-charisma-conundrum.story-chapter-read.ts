@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0201Chapter19CharismaConundrum = {
   story: "labyrinth-of-the-mad-god",
   position: 201,
   ownLength: 2336,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-28",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2473615/chapter-19-charisma-conundrum",

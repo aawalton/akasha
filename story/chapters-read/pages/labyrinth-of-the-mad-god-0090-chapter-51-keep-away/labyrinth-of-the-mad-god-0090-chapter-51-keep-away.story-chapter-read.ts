@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0090Chapter51KeepAway = {
   story: "labyrinth-of-the-mad-god",
   position: 90,
   ownLength: 1527,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-13",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1901764/chapter-51-keep-away",

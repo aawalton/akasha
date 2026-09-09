@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0031Chapter5DecisionsDecisions = {
   story: "labyrinth-of-the-mad-god",
   position: 31,
   ownLength: 1975,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-29",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1736944/chapter-5-decisions-decisions",

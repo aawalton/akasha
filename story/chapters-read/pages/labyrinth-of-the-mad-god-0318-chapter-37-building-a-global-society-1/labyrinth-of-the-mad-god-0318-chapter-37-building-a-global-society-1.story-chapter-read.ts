@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0318Chapter37BuildingAGlobalSociety1 = {
   story: "labyrinth-of-the-mad-god",
   position: 318,
   ownLength: 2565,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-05",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3497802/chapter-37-building-a-global-society-1",

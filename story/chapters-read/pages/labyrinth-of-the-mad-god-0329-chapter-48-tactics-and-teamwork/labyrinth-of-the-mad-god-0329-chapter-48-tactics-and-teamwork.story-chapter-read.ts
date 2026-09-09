@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0329Chapter48TacticsAndTeamwork = {
   story: "labyrinth-of-the-mad-god",
   position: 329,
   ownLength: 1601,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3703141/chapter-48-tactics-and-teamwork",

@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0294Chapter14DiscerningEye = {
   story: "labyrinth-of-the-mad-god",
   position: 294,
   ownLength: 2858,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-20",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3174340/chapter-14-discerning-eye",

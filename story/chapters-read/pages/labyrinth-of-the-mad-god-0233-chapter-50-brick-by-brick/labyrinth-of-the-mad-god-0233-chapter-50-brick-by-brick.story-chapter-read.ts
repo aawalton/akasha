@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0233Chapter50BrickByBrick = {
   story: "labyrinth-of-the-mad-god",
   position: 233,
   ownLength: 1958,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-08",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2661524/chapter-50-brick-by-brick",

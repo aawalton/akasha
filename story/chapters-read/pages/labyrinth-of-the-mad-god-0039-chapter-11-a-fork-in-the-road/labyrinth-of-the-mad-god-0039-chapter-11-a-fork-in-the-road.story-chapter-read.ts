@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0039Chapter11AForkInTheRoad = {
   story: "labyrinth-of-the-mad-god",
   position: 39,
   ownLength: 1629,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-12",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1755478/chapter-11-a-fork-in-the-road",

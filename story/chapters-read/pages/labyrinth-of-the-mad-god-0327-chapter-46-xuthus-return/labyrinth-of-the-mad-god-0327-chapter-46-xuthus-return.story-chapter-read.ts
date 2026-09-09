@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0327Chapter46XuthusReturn = {
   story: "labyrinth-of-the-mad-god",
   position: 327,
   ownLength: 2134,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-13",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3672386/chapter-46-xuthus-return",

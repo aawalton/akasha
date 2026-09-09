@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0206Chapter24CloserThanMyOwnSkin = {
   story: "labyrinth-of-the-mad-god",
   position: 206,
   ownLength: 2384,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2502785/chapter-24-closer-than-my-own-skin",

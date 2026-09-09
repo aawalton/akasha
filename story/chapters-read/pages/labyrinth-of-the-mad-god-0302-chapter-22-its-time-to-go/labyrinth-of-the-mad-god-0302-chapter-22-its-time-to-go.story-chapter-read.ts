@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0302Chapter22ItsTimeToGo = {
   story: "labyrinth-of-the-mad-god",
   position: 302,
   ownLength: 3032,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-13",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3269253/chapter-22-its-time-to-go",

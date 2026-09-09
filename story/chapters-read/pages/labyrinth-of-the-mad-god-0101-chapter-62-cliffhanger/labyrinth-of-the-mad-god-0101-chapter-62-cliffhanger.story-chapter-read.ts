@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0101Chapter62Cliffhanger = {
   story: "labyrinth-of-the-mad-god",
   position: 101,
   ownLength: 1668,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-09",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1948298/chapter-62-cliffhanger",

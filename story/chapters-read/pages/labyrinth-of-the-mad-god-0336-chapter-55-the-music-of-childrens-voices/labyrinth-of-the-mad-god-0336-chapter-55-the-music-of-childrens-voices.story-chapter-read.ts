@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0336Chapter55TheMusicOfChildrensVoices = {
   story: "labyrinth-of-the-mad-god",
   position: 336,
   ownLength: 1408,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3814374/chapter-55-the-music-of-childrens-voices",

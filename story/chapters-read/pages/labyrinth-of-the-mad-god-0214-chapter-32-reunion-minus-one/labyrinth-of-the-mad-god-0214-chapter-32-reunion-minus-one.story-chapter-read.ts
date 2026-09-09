@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0214Chapter32ReunionMinusOne = {
   story: "labyrinth-of-the-mad-god",
   position: 214,
   ownLength: 2132,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2553139/chapter-32-reunion-minus-one",

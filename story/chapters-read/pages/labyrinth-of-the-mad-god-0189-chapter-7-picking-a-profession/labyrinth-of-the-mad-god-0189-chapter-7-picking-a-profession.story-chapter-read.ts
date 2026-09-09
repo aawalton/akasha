@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0189Chapter7PickingAProfession = {
   story: "labyrinth-of-the-mad-god",
   position: 189,
   ownLength: 1949,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-30",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2398049/chapter-7-picking-a-profession",

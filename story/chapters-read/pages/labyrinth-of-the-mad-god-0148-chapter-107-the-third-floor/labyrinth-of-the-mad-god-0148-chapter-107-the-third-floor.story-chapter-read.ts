@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0148Chapter107TheThirdFloor = {
   story: "labyrinth-of-the-mad-god",
   position: 148,
   ownLength: 1732,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-24",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2148297/chapter-107-the-third-floor",

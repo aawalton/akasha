@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0292Chapter12StaminaControl = {
   story: "labyrinth-of-the-mad-god",
   position: 292,
   ownLength: 2235,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-13",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3148594/chapter-12-stamina-control",

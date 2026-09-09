@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0097Chapter58LivingArtifact = {
   story: "labyrinth-of-the-mad-god",
   position: 97,
   ownLength: 1624,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-29",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1930992/chapter-58-living-artifact",

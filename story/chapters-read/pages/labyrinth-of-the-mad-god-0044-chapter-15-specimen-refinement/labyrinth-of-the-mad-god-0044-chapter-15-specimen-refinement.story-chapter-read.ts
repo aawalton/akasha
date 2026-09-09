@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0044Chapter15SpecimenRefinement = {
   story: "labyrinth-of-the-mad-god",
   position: 44,
   ownLength: 1776,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1768582/chapter-15-specimen-refinement",

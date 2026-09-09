@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0285Chapter5PredatorVersusPredator = {
   story: "labyrinth-of-the-mad-god",
   position: 285,
   ownLength: 2715,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-16",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3060531/chapter-5-predator-versus-predator",

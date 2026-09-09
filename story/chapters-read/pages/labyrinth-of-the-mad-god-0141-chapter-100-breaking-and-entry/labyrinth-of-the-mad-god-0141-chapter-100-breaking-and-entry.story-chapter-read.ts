@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0141Chapter100BreakingAndEntry = {
   story: "labyrinth-of-the-mad-god",
   position: 141,
   ownLength: 1818,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-07",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2111751/chapter-100-breaking-and-entry",

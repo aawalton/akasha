@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0241Chapter59ContemplationsByStarlight = {
   story: "labyrinth-of-the-mad-god",
   position: 241,
   ownLength: 1467,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-29",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2714936/chapter-59-contemplations-by-starlight",

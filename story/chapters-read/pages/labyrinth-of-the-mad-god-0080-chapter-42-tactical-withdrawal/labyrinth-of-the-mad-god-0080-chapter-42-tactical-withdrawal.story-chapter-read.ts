@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0080Chapter42TacticalWithdrawal = {
   story: "labyrinth-of-the-mad-god",
   position: 80,
   ownLength: 1548,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-23",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1864993/chapter-42-tactical-withdrawal",

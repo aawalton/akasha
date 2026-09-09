@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0143Chapter102BloodySurprise = {
   story: "labyrinth-of-the-mad-god",
   position: 143,
   ownLength: 1862,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-12",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2122391/chapter-102-bloody-surprise",

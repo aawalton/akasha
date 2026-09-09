@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0130Chapter89SquadVersusSquad = {
   story: "labyrinth-of-the-mad-god",
   position: 130,
   ownLength: 1789,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-10",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2059519/chapter-89-squad-versus-squad",

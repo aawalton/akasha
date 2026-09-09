@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0109Chapter69InfernalMachine = {
   story: "labyrinth-of-the-mad-god",
   position: 109,
   ownLength: 1441,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-25",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/1974813/chapter-69-infernal-machine",

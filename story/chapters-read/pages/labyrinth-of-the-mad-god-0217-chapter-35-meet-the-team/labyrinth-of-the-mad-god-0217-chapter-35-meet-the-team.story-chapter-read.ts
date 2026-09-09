@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0217Chapter35MeetTheTeam = {
   story: "labyrinth-of-the-mad-god",
   position: 217,
   ownLength: 2657,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-03",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2571712/chapter-35-meet-the-team",

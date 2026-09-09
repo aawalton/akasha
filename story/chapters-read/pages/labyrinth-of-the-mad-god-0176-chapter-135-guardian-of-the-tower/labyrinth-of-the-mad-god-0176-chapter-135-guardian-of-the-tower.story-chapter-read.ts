@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0176Chapter135GuardianOfTheTower = {
   story: "labyrinth-of-the-mad-god",
   position: 176,
   ownLength: 1734,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-28",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2312390/chapter-135-guardian-of-the-tower",

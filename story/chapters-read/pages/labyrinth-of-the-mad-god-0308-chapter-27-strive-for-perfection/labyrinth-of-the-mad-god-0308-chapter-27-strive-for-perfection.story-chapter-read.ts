@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0308Chapter27StriveForPerfection = {
   story: "labyrinth-of-the-mad-god",
   position: 308,
   ownLength: 1524,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-01",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/3342330/chapter-27-strive-for-perfection",

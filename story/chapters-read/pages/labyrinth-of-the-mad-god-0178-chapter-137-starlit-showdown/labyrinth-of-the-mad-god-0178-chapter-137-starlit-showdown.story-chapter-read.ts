@@ -8,7 +8,7 @@ export const labyrinthOfTheMadGod0178Chapter137StarlitShowdown = {
   story: "labyrinth-of-the-mad-god",
   position: 178,
   ownLength: 2916,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-02",
   externalLink:
     "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god-a-litrpg-adventure-book/chapter/2325289/chapter-137-starlit-showdown",
