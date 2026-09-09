@@ -1,10 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import {
-  bodiesIn,
-  type World,
-  worldAt,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { bodiesIn, type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
 import {
   objectPut,
   removePackageManifest,

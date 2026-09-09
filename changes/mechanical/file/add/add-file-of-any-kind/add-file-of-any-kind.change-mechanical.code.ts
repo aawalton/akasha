@@ -3,7 +3,7 @@ import { loadedFrom } from "@akasha/pages/page-value"
 import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { type Kind, kindOf } from "../../../../modules/target-kinding/target-kinding.module.code.ts"
 
 const AUTO = "auto"

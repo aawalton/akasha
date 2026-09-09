@@ -7,8 +7,8 @@ import {
   bodiesIn,
   type Reaching,
   type World,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { worldOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+} from "../../../modules/shadow/change-shadow.module.code.ts"
+import { worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { spelledAs } from "../../../modules/value-carrying/value-carrying.module.code.ts"
 import {
   movePropertyOnEveryPage,

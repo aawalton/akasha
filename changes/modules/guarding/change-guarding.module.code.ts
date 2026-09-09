@@ -1,7 +1,7 @@
 import { NOT_WORKED_OUT } from "../../../pages/shadow/shadow.module.code.ts"
 import { refusing, replayed } from "../answer/change-answer.module.code.ts"
 import type { Answer } from "../answer/change-answer.module.types.ts"
-import { castingOn, type World } from "../change-shadow/change-shadow.module.code.ts"
+import { castingOn, type World } from "../shadow/change-shadow.module.code.ts"
 import type { Guard, Guarding } from "./change-guarding.module.types.ts"
 
 export const NOT_READ = "the index this guard reads could not be read"

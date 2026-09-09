@@ -3,9 +3,9 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import ts from "typescript"
 import { refusing, spliced, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Said, Splice } from "../../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { withProperty } from "../../../../modules/literal-splicing/literal-splicing.module.code.ts"
 import { keyOf, literalIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
+import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const READING = "record.ts"
 

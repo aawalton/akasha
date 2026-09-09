@@ -6,7 +6,7 @@ import {
   type Reaching,
   type World,
   worldAt,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { runChange as changeManifestWays } from "../../../file-content/change/change-manifest-ways/change-manifest-ways.change-mechanical-file-content.code.ts"
 import { runChange as changePageProperty } from "../../../file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"

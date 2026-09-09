@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import { bodyOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   fieldRestated,
   type Named,

@@ -7,11 +7,8 @@ import {
   NOTHING_OVER,
   type Reaching,
   type World,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import {
-  bodyOf,
-  knownOf,
-} from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+} from "../../../modules/shadow/change-shadow.module.code.ts"
+import { bodyOf, knownOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { changePageProperty, runChange } from "./change-page-page-property.change-agent.code.ts"
 
 const RUNS: Reaching = async (world, at, given) => {

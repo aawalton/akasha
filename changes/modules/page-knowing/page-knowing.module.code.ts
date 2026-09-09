@@ -2,7 +2,7 @@ import type { Named } from "@akasha/indexes"
 import { eachTarget, type Shaped } from "@akasha/indexes/reaching"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
-import type { World } from "../change-shadow/change-shadow.module.code.ts"
+import type { World } from "../shadow/change-shadow.module.code.ts"
 
 export type Read = { readonly known: Shaped; readonly value: Value } | { readonly refused: string }
 

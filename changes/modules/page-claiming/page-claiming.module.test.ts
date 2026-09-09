@@ -7,7 +7,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import type { Value } from "@akasha/pages/page-value"
-import { type World, worldAt } from "../change-shadow/change-shadow.module.code.ts"
+import { type World, worldAt } from "../shadow/change-shadow.module.code.ts"
 import { claimedIn } from "./page-claiming.module.code.ts"
 
 afterAll(scratch.sweep)

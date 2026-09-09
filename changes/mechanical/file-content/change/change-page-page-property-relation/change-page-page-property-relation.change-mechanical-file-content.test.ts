@@ -5,11 +5,8 @@ import {
   NOTHING_OVER,
   type Reaching,
   type World,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import {
-  bodyOf,
-  knownOf,
-} from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
+import { bodyOf, knownOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { runChange as changePageProperty } from "../change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
 import { changePagePropertyRelation } from "./change-page-page-property-relation.change-mechanical-file-content.code.ts"
 

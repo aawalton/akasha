@@ -6,11 +6,8 @@ import {
   NOTHING_OVER,
   type Reaching,
   type World,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import {
-  bodyOf,
-  worldFor,
-} from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+} from "../../../modules/shadow/change-shadow.module.code.ts"
+import { bodyOf, worldFor } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { removePropertyRecord, runChange } from "./remove-property-record.change-agent.code.ts"
 
 const ADDRESS = "change-mechanical-file-content/remove-property-record"

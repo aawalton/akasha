@@ -3,7 +3,7 @@ import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import { refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_FILE_CODE = "change-mechanical/add-file-code"
 

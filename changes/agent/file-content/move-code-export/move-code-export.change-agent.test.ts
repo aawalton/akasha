@@ -7,7 +7,7 @@ import {
   NOTHING_OVER,
   type Reaching,
   type World,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../modules/shadow/change-shadow.module.code.ts"
 import { moveCodeExportCommand } from "./move-code-export.change-agent.code.ts"
 
 const MOVED = "change-mechanical/move-code-export"

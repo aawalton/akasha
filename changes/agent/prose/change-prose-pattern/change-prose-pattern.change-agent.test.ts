@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Value } from "@akasha/pages/page-value"
-import {
-  refusalOf,
-  worldOf,
-} from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import { refusalOf, worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   passagesAt,
   patternsIn,

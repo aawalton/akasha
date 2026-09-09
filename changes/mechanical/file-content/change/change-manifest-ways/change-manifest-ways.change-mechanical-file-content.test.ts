@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { gathered, pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import { bodyOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   landingFor,
   renameManifestWays,

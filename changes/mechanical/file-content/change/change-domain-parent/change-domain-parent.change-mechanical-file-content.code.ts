@@ -2,8 +2,8 @@ import { filedById, namesIn, reaches, type Shaped } from "@akasha/indexes/reachi
 import type { Value } from "@akasha/pages/page-value"
 import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { heldIn, readFor } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
+import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
 

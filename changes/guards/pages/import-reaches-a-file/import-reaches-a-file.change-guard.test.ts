@@ -3,8 +3,8 @@ import { dirname, join } from "node:path"
 import { HELD_CODE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
 import { stating } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { guardedBy } from "../../../modules/guarding/change-guarding.module.code.ts"
+import { worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
 import {
   importReachesAFile,
   rerootedIn,

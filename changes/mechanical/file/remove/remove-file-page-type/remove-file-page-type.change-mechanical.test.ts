@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { bodyOf, idOf, indexedRepo, scratch } from "@akasha/indexes/indexing/testing"
-import { worldTaking } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import { worldTaking } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { runChange } from "./remove-file-page-type.change-mechanical.code.ts"
 
 const REACHES = "change-mechanical-file/remove-file-page"

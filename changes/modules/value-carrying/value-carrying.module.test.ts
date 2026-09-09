@@ -2,8 +2,8 @@ import { expect, test } from "bun:test"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import { runChange as addKey } from "../../mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"
 import { refusing } from "../answer/change-answer.module.code.ts"
-import { bodiesIn, type Reaching, type World } from "../change-shadow/change-shadow.module.code.ts"
-import { worldOf } from "../change-shadow/change-shadow.module.test-fixtures.ts"
+import { bodiesIn, type Reaching, type World } from "../shadow/change-shadow.module.code.ts"
+import { worldOf } from "../shadow/change-shadow.module.test-fixtures.ts"
 import {
   askedIn,
   carriedIn,

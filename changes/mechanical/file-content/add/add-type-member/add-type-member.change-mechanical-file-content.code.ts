@@ -6,7 +6,7 @@ import {
   stating,
 } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Said, Splice } from "../../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 export type AddTypeMemberAsked = {
   readonly at: string

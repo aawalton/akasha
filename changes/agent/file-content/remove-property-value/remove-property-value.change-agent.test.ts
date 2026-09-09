@@ -1,10 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Value } from "@akasha/pages/page-value"
-import {
-  NOTHING_OVER,
-  type World,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import { NOTHING_OVER, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
+import { knownOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { removePropertyValue, runChange } from "./remove-property-value.change-agent.code.ts"
 
 const AT = "held/held.domain.ts"

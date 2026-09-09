@@ -8,8 +8,8 @@ import { runChange as moveFile } from "../../../mechanical/file/move/move-file/m
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as moveFolderMechanical } from "../../../mechanical/folder/move/move-folder/move-folder.change-mechanical-folder.code.ts"
 import { pathsIn } from "../../../modules/answer/change-answer.module.code.ts"
-import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { bodyIn } from "../../../modules/edits-keeping/edits-keeping.module.code.ts"
+import { type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
 import { moveFolder, runChange } from "./move-folder.change-agent.code.ts"
 
 afterAll(scratch.sweep)

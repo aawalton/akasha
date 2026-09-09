@@ -13,7 +13,7 @@ import {
   type Reaching,
   type World,
   worldAt,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { runChange as moveFile } from "../../../file/move/move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as moveFileCode } from "../../../file/move/move-file-code/move-file-code.change-mechanical.code.ts"
 import { runChange as renameFilePage } from "../../../file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"

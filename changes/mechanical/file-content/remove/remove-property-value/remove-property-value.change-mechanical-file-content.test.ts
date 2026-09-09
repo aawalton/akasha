@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import { worldAt } from "../../../../modules/shadow/change-shadow.module.code.ts"
+import { bodyOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { removePropertyValue } from "./remove-property-value.change-mechanical-file-content.code.ts"
 
 const ROOT = "/var/tmp/remove-property-value"

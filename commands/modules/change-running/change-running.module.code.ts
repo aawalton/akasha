@@ -1,7 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { type Loaded, ranBy, runAt } from "@akasha/changes/change-loading"
-import { addedTo, ledgerAt, type World, worldAt } from "@akasha/changes/change-shadow"
 import { bodyIn, foldedIn, keptAt, keptEdits } from "@akasha/changes/edits-keeping"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
 import { partedIn } from "@akasha/pages/page-file-name"
@@ -12,6 +11,12 @@ import type {
   FileChange,
   Answer as Said,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
+import {
+  addedTo,
+  ledgerAt,
+  type World,
+  worldAt,
+} from "../../../changes/modules/shadow/change-shadow.module.code.ts"
 import { costRecorded, opening } from "../../../checks/modules/cost/check-cost.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import {

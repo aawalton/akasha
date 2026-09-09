@@ -1,5 +1,5 @@
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { kindOf } from "../../../../modules/target-kinding/target-kinding.module.code.ts"
 
 const PAGE = "change-mechanical-file-content/change-file-content-page"

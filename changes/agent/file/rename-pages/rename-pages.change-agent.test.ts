@@ -1,8 +1,5 @@
 import { expect, test } from "bun:test"
-import {
-  NOTHING_OVER,
-  type World,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
 import { runChange } from "./rename-pages.change-agent.code.ts"
 
 const ONE = "akasha/one/held.module.ts"

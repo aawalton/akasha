@@ -7,13 +7,13 @@ import {
   stating,
 } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
+import { claimedIn } from "../../../../modules/page-claiming/page-claiming.module.code.ts"
+import { namersIn, pageIn } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
 import {
   type Reached,
   reach,
   type World,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { claimedIn } from "../../../../modules/page-claiming/page-claiming.module.code.ts"
-import { namersIn, pageIn } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const PARTS = "parts"
 

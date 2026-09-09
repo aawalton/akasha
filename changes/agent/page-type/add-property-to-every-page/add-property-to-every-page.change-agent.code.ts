@@ -5,7 +5,7 @@ import {
   ledgerAt,
   reach,
   type World,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_PAGE_PROPERTY = "change-mechanical-file-content/add-page-property"
 

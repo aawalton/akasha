@@ -5,7 +5,7 @@ import {
   type Reaching,
   type World,
   worldAt,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { runChange as changeFile } from "../change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { runChange } from "./change-file-content-code.change-mechanical-file-content.code.ts"
 

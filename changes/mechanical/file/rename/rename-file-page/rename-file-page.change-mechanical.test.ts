@@ -16,7 +16,7 @@ import {
   bodiesIn,
   ledgerAt,
   worldAt,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { runChange } from "./rename-file-page.change-mechanical.code.ts"
 import {
   movesOf,

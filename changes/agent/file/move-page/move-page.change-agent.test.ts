@@ -13,11 +13,7 @@ import { runChange as moveFileOfAnyKind } from "../../../mechanical/file/move/mo
 import { runChange as moveFilePage } from "../../../mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
-import {
-  bodiesIn,
-  type World,
-  worldAt,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { bodiesIn, type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
 import { movePage } from "./move-page.change-agent.code.ts"
 
 afterAll(scratch.sweep)

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { NOTHING_OVER, type World } from "../change-shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "../shadow/change-shadow.module.code.ts"
 import { narrows, slugIn } from "./target-narrowing.module.code.ts"
 
 const PARENTS: Readonly<Record<string, string>> = {

@@ -4,7 +4,7 @@ import {
   NOTHING_OVER,
   type World,
   worldAt,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { runChange } from "./remove-folder-package.change-mechanical-folder.code.ts"
 
 afterAll(scratch.sweep)

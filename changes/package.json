@@ -7,7 +7,7 @@
     "./change-answer": "./modules/answer/change-answer.module.code.ts",
     "./change-answer/types": "./modules/answer/change-answer.module.types.ts",
     "./change-loading": "./runners/change-loading/change-loading.module.code.ts",
-    "./change-shadow": "./modules/change-shadow/change-shadow.module.code.ts",
+    "./change-shadow": "./modules/shadow/change-shadow.module.code.ts",
     "./edits-keeping": "./modules/edits-keeping/edits-keeping.module.code.ts",
     "./mechanical-change-running": "./runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts",
     "./subagent-handed": "./modules/subagent-handed/subagent-handed.module.code.ts"

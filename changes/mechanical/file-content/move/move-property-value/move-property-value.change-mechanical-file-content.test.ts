@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Said } from "../../../../modules/answer/change-answer.module.types.ts"
-import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import { bodyOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   type Given,
   movedValue,

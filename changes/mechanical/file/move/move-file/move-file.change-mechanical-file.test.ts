@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import {
   refusalOf,
   worldOf,
-} from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+} from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { type Asked, runChange } from "./move-file.change-mechanical-file.code.ts"
 
 const FROM = "akasha/one.held.ts"

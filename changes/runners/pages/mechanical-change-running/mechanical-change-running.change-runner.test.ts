@@ -1,10 +1,7 @@
 import { expect, test } from "bun:test"
 import { refusing, stating } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer as Said } from "../../../modules/answer/change-answer.module.types.ts"
-import {
-  ledgerAt,
-  type Reaching,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { ledgerAt, type Reaching } from "../../../modules/shadow/change-shadow.module.code.ts"
 import {
   type Asking,
   foldedOver,

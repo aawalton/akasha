@@ -1,6 +1,6 @@
 import { missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
 
 const CHANGE_DOMAIN_PARENT = "change-mechanical-file-content/change-domain-parent"
 

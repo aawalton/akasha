@@ -5,13 +5,13 @@ import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
 import { textAt } from "@akasha/pages/page-value-reading"
 import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
+import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
 import {
   isLedger,
   ledgerAt,
   reach,
   type World,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { pageIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+} from "../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_RECORD = "change-mechanical-file-content/add-property-record"
 

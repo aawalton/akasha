@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { type World, worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
 import {
   folderFor,
   folderUnder,

@@ -15,7 +15,7 @@ import {
   bodiesIn,
   type World,
   worldAt,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as moveFile } from "../move-file/move-file.change-mechanical-file.code.ts"
 import { runChange as moveFileCode } from "../move-file-code/move-file-code.change-mechanical.code.ts"

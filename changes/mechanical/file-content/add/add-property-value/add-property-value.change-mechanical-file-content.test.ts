@@ -1,10 +1,7 @@
 import { expect, test } from "bun:test"
 import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
-import {
-  NOTHING_OVER,
-  type World,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import { NOTHING_OVER, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
+import { bodyOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { addPropertyValue } from "./add-property-value.change-mechanical-file-content.code.ts"
 
 const AT = "akasha/held/kept.page-type.ts"

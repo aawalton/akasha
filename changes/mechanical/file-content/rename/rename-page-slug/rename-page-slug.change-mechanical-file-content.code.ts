@@ -16,19 +16,19 @@ import type {
   Said,
   Splice,
 } from "../../../../modules/answer/change-answer.module.types.ts"
-import {
-  addedTo,
-  isLedger,
-  reach,
-  type World,
-  worldOver,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { readFor } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
 import {
   boundIn,
   keyOf,
   statedIn,
 } from "../../../../modules/page-literal/page-literal.module.code.ts"
+import {
+  addedTo,
+  isLedger,
+  reach,
+  type World,
+  worldOver,
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const CHANGE_PAGE_PROPERTY = "change-mechanical-file-content/change-page-page-property"
 

@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { dirname, join } from "node:path"
 import { HELD_CODE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { type World, worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { type World, worldAt } from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { REACHING } from "../add-file/add-file.change-mechanical-file.test-fixtures.ts"
 import { runChange } from "./add-file-code.change-mechanical.code.ts"
 

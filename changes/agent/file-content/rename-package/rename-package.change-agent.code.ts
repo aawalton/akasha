@@ -19,8 +19,8 @@ import type {
   Said,
   Splice,
 } from "../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { aliasIn, spelledAnew } from "../../../modules/package-naming/package-naming.module.code.ts"
+import type { World } from "../../../modules/shadow/change-shadow.module.code.ts"
 
 const AT = "at"
 

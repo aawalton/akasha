@@ -5,7 +5,7 @@ import {
   NOTHING_OVER,
   type Reaching,
   type World,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../modules/shadow/change-shadow.module.code.ts"
 import { changeFileCommand } from "./change-file.change-agent.code.ts"
 
 const AT = "akasha/one.held.ts"

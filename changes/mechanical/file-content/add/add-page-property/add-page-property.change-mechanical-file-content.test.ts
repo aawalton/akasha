@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
 import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
-import {
-  bodyOf,
-  worldOf,
-} from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import { bodyOf, worldOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { addPageProperty } from "./add-page-property.change-mechanical-file-content.code.ts"
 
 const AT = "akasha/held/kept.book-section.ts"

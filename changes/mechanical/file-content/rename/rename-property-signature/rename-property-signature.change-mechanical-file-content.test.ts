@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratch } from "@akasha/indexes/indexing/testing"
 import ts from "typescript"
-import { worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { worldAt } from "../../../../modules/shadow/change-shadow.module.code.ts"
 import {
   literalsIn,
   renamePropertySignature,

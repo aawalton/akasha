@@ -18,15 +18,15 @@ import { importNotLeftHanging } from "../../../../guards/pages/import-not-left-h
 import { relationNotLeftHanging } from "../../../../guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
 import { pathsIn, refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
+import { guardedBy } from "../../../../modules/guarding/change-guarding.module.code.ts"
+import type { Guard } from "../../../../modules/guarding/change-guarding.module.types.ts"
 import {
   bodiesIn,
   type Reaching,
   type World,
   worldAt,
   worldOver,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { guardedBy } from "../../../../modules/guarding/change-guarding.module.code.ts"
-import type { Guard } from "../../../../modules/guarding/change-guarding.module.types.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
 import { runChange as removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange as removeCodeFile } from "../remove-file-code/remove-file-code.change-mechanical.code.ts"
@@ -362,7 +362,7 @@ test("a page and the file beside that page leave no file behind", async () => {
   expect([...pathsIn(said)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
 })
 
-import { ledgerAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { ledgerAt } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 test("a page taken away over a ledger is answered rather than answered twice", async () => {
   const root = indexedRepo()

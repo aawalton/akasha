@@ -11,7 +11,7 @@ import {
   type Reaching,
   type World,
   worldAt,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../modules/shadow/change-shadow.module.code.ts"
 import { changePagePageType } from "./change-page-page-type.change-agent.code.ts"
 
 afterAll(scratch.sweep)

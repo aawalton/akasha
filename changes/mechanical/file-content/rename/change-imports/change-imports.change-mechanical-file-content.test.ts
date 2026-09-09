@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import { ARRIVES, CODE, HOLDER, TARGET } from "@akasha/testing-system/page-holding"
 import { gathered } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import { bodyOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { changeImports } from "./change-imports.change-mechanical-file-content.code.ts"
 
 const TABLE = "akasha/one/routes.ts"

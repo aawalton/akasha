@@ -17,7 +17,7 @@ import {
   bodiesIn,
   type World,
   worldAt,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { runChange as changePageProperty } from "../../change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
 import { runChange as renameExport } from "../rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { renameSlug } from "./rename-page-slug.change-mechanical-file-content.code.ts"

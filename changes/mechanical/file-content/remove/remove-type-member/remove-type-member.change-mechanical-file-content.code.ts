@@ -6,8 +6,8 @@ import {
   stating,
 } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Said, Splice } from "../../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { without } from "../../../../modules/literal-splicing/literal-splicing.module.code.ts"
+import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { aliasIn } from "../../add/add-type-member/add-type-member.change-mechanical-file-content.code.ts"
 
 const LINE = "\n"

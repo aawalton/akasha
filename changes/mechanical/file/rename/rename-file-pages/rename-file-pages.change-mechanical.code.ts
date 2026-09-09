@@ -1,8 +1,8 @@
 import { parsedAs } from "@akasha/code/code-source"
 import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { statedIn } from "../../../../modules/page-literal/page-literal.module.code.ts"
+import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
 

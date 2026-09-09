@@ -1,7 +1,7 @@
 import { missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { readFor } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+import { reach, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
 
 const ADD_PROPERTY_RECORD = "change-mechanical-file-content/add-property-record"
 

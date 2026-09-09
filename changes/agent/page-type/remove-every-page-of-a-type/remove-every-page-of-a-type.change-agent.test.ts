@@ -19,7 +19,7 @@ import {
   type Reaching,
   type World,
   worldAt,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../modules/shadow/change-shadow.module.code.ts"
 import {
   removeEveryPageOfAType,
   runChange,

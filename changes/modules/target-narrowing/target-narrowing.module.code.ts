@@ -1,4 +1,4 @@
-import type { World } from "../change-shadow/change-shadow.module.code.ts"
+import type { World } from "../shadow/change-shadow.module.code.ts"
 
 const SUBTYPE = "change-target-subtype"
 

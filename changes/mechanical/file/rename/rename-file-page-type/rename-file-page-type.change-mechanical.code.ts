@@ -4,12 +4,12 @@ import { typedAs } from "../../../../../pages/export-name/page-export-name.modul
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
+import { claimedIn } from "../../../../modules/page-claiming/page-claiming.module.code.ts"
 import {
   type Reaches,
   reach,
   type World,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { claimedIn } from "../../../../modules/page-claiming/page-claiming.module.code.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const RENAME_FILE_PAGE = "change-mechanical/rename-file-page"
 

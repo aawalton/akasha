@@ -3,7 +3,7 @@ import { textAt } from "@akasha/pages/page-value"
 import { partedIn } from "../../../../../pages/file-name/page-file-name.module.code.ts"
 import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const PACKAGE = "workspace-package"
 

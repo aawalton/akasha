@@ -1,5 +1,5 @@
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 const MOVE_FILE_PAGE = "change-mechanical-file/move-file-page"
 

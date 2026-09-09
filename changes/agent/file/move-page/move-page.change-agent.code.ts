@@ -1,7 +1,7 @@
 import { basename, dirname, join } from "node:path"
 import { missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Said } from "../../../modules/answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../modules/shadow/change-shadow.module.code.ts"
 
 const MOVE_FILE_PAGE = "change-mechanical/move-file-of-any-kind"
 

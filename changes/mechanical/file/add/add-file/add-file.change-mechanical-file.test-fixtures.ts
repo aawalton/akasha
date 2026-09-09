@@ -1,5 +1,5 @@
 import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
-import type { Reaching } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import type { Reaching } from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { runChange } from "./add-file.change-mechanical-file.code.ts"
 
 export const REACHING: Reaching = (world, at, given) => {

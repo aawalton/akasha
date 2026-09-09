@@ -10,8 +10,8 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import { stating } from "../../../modules/answer/change-answer.module.code.ts"
 import type { Answer, FileChange } from "../../../modules/answer/change-answer.module.types.ts"
-import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { guardedBy, NOT_READ } from "../../../modules/guarding/change-guarding.module.code.ts"
+import { worldAt } from "../../../modules/shadow/change-shadow.module.code.ts"
 import { pageTypeCarriesNoPages } from "./page-type-carries-no-pages.change-guard.code.ts"
 
 afterAll(scratch.sweep)

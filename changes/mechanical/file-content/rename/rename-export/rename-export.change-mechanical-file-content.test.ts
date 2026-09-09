@@ -12,7 +12,7 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import { bodiesIn } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { bodiesIn } from "../../../../modules/shadow/change-shadow.module.code.ts"
 import { renameExport } from "./rename-export.change-mechanical-file-content.code.ts"
 
 afterAll(scratch.sweep)

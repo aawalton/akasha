@@ -7,7 +7,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { type World, worldAt } from "../change-shadow/change-shadow.module.code.ts"
+import { type World, worldAt } from "../shadow/change-shadow.module.code.ts"
 import { namersIn, pageIn, readFor, targetsIn } from "./page-knowing.module.code.ts"
 
 afterAll(scratch.sweep)

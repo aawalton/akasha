@@ -1,9 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
-import {
-  bodyOf,
-  worldOf,
-} from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import { bodyOf, worldOf } from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   respelled,
   runChange,

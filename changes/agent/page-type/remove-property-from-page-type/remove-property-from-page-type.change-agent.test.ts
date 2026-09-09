@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { refusing, stating } from "../../../modules/answer/change-answer.module.code.ts"
-import type { Reaching, World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { worldOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+import type { Reaching, World } from "../../../modules/shadow/change-shadow.module.code.ts"
+import { worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import {
   removePropertyFromPageType,
   runChange,

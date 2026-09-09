@@ -3,7 +3,7 @@ import {
   bodyOf,
   refusalOf,
   worldOf,
-} from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+} from "../../../../modules/shadow/change-shadow.module.test-fixtures.ts"
 import { addTypeMember, runChange } from "./add-type-member.change-mechanical-file-content.code.ts"
 
 const AT = "held/one.page-type.ts"

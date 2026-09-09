@@ -5,7 +5,7 @@ import {
   bodiesIn,
   NOTHING_OVER,
   type World,
-} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+} from "../../../../modules/shadow/change-shadow.module.code.ts"
 import {
   pathsIn,
   renamePageAddress,

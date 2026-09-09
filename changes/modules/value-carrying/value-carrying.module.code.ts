@@ -6,7 +6,7 @@ import {
   type Reaches,
   reach,
   type World,
-} from "../change-shadow/change-shadow.module.code.ts"
+} from "../shadow/change-shadow.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

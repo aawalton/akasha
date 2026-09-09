@@ -2,13 +2,13 @@ import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import { refusing, spliced, stating } from "../../../../modules/answer/change-answer.module.code.ts"
 import type { Said } from "../../../../modules/answer/change-answer.module.types.ts"
-import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import {
   listIn,
   matchingIn,
   recordsIn,
   textsOf,
 } from "../../../../modules/page-literal/page-literal.module.code.ts"
+import type { World } from "../../../../modules/shadow/change-shadow.module.code.ts"
 
 export type Named = {
   readonly key: string
