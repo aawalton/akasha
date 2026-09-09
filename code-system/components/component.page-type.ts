@@ -2,7 +2,7 @@ import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { ComponentCode } from "./properties/component-code.code-file-property.ts"
 import type { ComponentTest } from "./properties/component-test.code-file-property.ts"
-import type { ComponentTestFixtures } from "./properties/component-test-fixtures.file-property.ts"
+import type { ComponentTestFixtures } from "./properties/component-test-fixtures.code-file-property.ts"
 
 export type Component = Domain & {
   code: ComponentCode
@@ -19,13 +19,17 @@ export const component = {
   partSlugs: [
     "code-file-property/component-code",
     "code-file-property/component-test",
-    "file-property/component-test-fixtures",
+    "code-file-property/component-test-fixtures",
   ],
   extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "code-file-property/component-code", required: true, many: false },
     { pagePropertySlug: "code-file-property/component-test", required: false, many: false },
-    { pagePropertySlug: "file-property/component-test-fixtures", required: false, many: false },
+    {
+      pagePropertySlug: "code-file-property/component-test-fixtures",
+      required: false,
+      many: false,
+    },
   ],
   invariants: [
     {
