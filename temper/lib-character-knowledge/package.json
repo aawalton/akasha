@@ -3,7 +3,6 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@akasha/temper-settings-panel": "workspace:*"
   },
   "exports": {
     "./knowledge-string-ids": "./knowledge-string-ids/knowledge-string-ids.type-declaration.d.ts",

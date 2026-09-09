@@ -1,4 +1,4 @@
-import { dropdown } from "@akasha/temper-settings-panel/dropdown"
+import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
 import {
   DEFAULTS,
   getSavedVariables,

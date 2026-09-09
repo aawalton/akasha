@@ -1,4 +1,4 @@
-import { valueDropdown } from "@akasha/temper-settings-panel/dropdown"
+import { valueDropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
 import { compassLayout } from "../lorebooks-compass-pins/lorebooks-compass-pins.module.code.ts"
 import {
   LORE_LIBRARY_EIDETIC,

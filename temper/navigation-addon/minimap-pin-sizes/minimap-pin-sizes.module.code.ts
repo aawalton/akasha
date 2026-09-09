@@ -1,4 +1,4 @@
-import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import {
   asAnyTable,
   asAnyTableMember,

@@ -1,5 +1,5 @@
-import { valueDropdown } from "@akasha/temper-settings-panel/dropdown"
-import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
+import { valueDropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import { ADDON_NAME, ADDON_TITLE } from "../writ-mark-constants/writ-mark-constants.module.code.ts"
 import { initializeInventoryTweaks } from "../writ-mark-inventory-tweaks/writ-mark-inventory-tweaks.module.code.ts"
 import {

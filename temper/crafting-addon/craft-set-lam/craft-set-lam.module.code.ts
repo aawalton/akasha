@@ -1,4 +1,4 @@
-import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import { ACCOUNT_INIT } from "../craft-account-init/craft-account-init.module.code.ts"
 import { optionSet, styleInitialize } from "../craft-options/craft-options.module.code.ts"
 import {

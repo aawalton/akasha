@@ -1,7 +1,7 @@
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
-import type { LamDropdownData } from "@akasha/temper-settings-panel/dropdown"
+import type { LamDropdownData } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
 import type {
   ColorRGBALower,
   ColorRGBAUpper,

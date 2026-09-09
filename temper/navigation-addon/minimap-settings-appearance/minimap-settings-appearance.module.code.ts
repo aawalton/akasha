@@ -1,5 +1,8 @@
-import { dropdown, valueDropdown } from "@akasha/temper-settings-panel/dropdown"
-import { header } from "@akasha/temper-settings-panel/header"
+import {
+  dropdown,
+  valueDropdown,
+} from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import { header } from "akasha/temper/settings-panel/header/header.module.code.ts"
 import {
   asAnyTableMember,
   asBoolean,

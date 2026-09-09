@@ -1,9 +1,9 @@
 import "@akasha/temper-addon-library-types/lib-addon-menu"
 
-import { header } from "@akasha/temper-settings-panel/header"
-import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
 import type { HudComponentRecord } from "akasha/temper/hud-components/hud-component-record/hud-component-record.module.code.ts"
 import { HUD_SCENE_CATALOG } from "akasha/temper/hud-components/hud-scene-catalog/hud-scene-catalog.module.code.ts"
+import { header } from "akasha/temper/settings-panel/header/header.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import {
   defaultComponentVisible,
   isComponentVisible,

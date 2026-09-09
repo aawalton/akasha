@@ -57,7 +57,6 @@
   },
   "dependencies": {
     "@akasha/temper-eso-types": "workspace:*",
-    "@akasha/temper-addon-library-types": "workspace:*",
-    "@akasha/temper-settings-panel": "workspace:*"
+    "@akasha/temper-addon-library-types": "workspace:*"
   }
 }

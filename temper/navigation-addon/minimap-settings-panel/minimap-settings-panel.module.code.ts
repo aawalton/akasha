@@ -1,5 +1,5 @@
-import { header } from "@akasha/temper-settings-panel/header"
-import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
+import { header } from "akasha/temper/settings-panel/header/header.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import { asAnyTable, asBoolean, asNumber } from "../minimap-casts/minimap-casts.module.code.ts"
 import { holder, type VotansMiniMap } from "../minimap-holder/minimap-holder.module.code.ts"
 import { buildAppearanceSettings } from "../minimap-settings-appearance/minimap-settings-appearance.module.code.ts"

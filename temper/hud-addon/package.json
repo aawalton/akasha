@@ -25,7 +25,6 @@
     "@akasha/temper-addon-init": "workspace:*",
     "@akasha/temper-addon-library-types": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",
-    "@akasha/temper-settings-panel": "workspace:*",
     "@akasha/utils": "workspace:*"
   }
 }

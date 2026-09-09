@@ -1,4 +1,7 @@
-import { type LamRegistrar, registerPanel } from "@akasha/temper-settings-panel/register-panel"
+import {
+  type LamRegistrar,
+  registerPanel,
+} from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import { asGlobalTable, asString } from "../knowledge-casts/knowledge-casts.module.code.ts"
 import { LCCC } from "../knowledge-lccc/knowledge-lccc.module.code.ts"
 import { INTERNAL } from "../knowledge-state/knowledge-state.module.code.ts"

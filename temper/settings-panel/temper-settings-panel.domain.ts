@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperSettingsPanel = {
   id: "01a06053-3636-7e00-b329-e1ac77ae851e",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-settings-panel",
   definition: "the settings an add-on shows in the game's own add-on menu",
-  manifest: "json",
   parts: ["module/build-lookup", "module/dropdown", "module/header", "module/register-panel"],
   invariants: [
     {
@@ -25,4 +24,4 @@ export const temperSettingsPanel = {
       statement: "A setting is read back the way the setting was stated.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

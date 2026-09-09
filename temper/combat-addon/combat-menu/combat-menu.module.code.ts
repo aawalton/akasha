@@ -1,4 +1,4 @@
-import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import { ADDON_VERSION } from "../combat-constants/combat-constants.module.code.ts"
 import { updateEvents } from "../combat-core-events/combat-core-events.module.code.ts"
 import { buildMenuOptionsTail } from "../combat-menu-tail/combat-menu-tail.module.code.ts"

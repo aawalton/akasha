@@ -5,7 +5,7 @@ import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
 import "@akasha/temper-eso-types/eso-lua-sandbox"
-import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import { asNumber } from "../companion-qol-casts/companion-qol-casts.module.code.ts"
 import { FCOCO } from "../companion-qol-state/companion-qol-state.module.code.ts"
 

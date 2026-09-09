@@ -1,6 +1,6 @@
 import "@akasha/temper-addon-library-types/lib-addon-menu"
-import { dropdown } from "@akasha/temper-settings-panel/dropdown"
-import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
+import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import { getPtfSavedVars, portToFriend } from "../housing-state/housing-state.module.code.ts"
 import type { LamOption } from "../housing-state-types/housing-state-types.module.code.ts"
 import type { SavedVars } from "../housing-types/housing-types.module.code.ts"

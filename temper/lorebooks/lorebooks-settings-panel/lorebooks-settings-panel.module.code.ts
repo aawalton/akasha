@@ -1,4 +1,4 @@
-import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import { addCompassPinOptions } from "../lorebooks-compass-pins/lorebooks-compass-pins.module.code.ts"
 import {
   ADDON_PANEL,

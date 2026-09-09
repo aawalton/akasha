@@ -1,4 +1,4 @@
-import { registerPanel } from "@akasha/temper-settings-panel/register-panel"
+import { registerPanel } from "akasha/temper/settings-panel/register-panel/register-panel.module.code.ts"
 import { asGlobalTable } from "../histoire-casts/histoire-casts.module.code.ts"
 import { internal } from "../histoire-state/histoire-state.module.code.ts"
 import type { LibHistoireInternal } from "../histoire-types/histoire-types.module.code.ts"

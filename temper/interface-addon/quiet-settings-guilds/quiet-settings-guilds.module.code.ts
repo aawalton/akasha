@@ -1,4 +1,4 @@
-import { dropdown } from "@akasha/temper-settings-panel/dropdown"
+import { dropdown } from "akasha/temper/settings-panel/dropdown/dropdown.module.code.ts"
 import { DEFAULTS } from "../quiet-defaults/quiet-defaults.module.code.ts"
 import { handleLuaErrorEvent } from "../quiet-lua-errors/quiet-lua-errors.module.code.ts"
 import { getSavedVariables } from "../quiet-saved-variables/quiet-saved-variables.module.code.ts"
