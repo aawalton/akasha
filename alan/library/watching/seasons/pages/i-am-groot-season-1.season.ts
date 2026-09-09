@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const iAmGrootSeason1 = {
   id: "01a06802-b8ba-7029-b8a6-906af599bfc8",
   pageTypeSlug: "season",
+  type: "season",
   slug: "i-am-groot-season-1",
   title: "I Am Groot Season 1",
   partOfCollections: ["i-am-groot"],

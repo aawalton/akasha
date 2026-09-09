@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const lokiSeason2 = {
   id: "01a06802-b8ba-7031-89e0-ec5a31ef2508",
   pageTypeSlug: "season",
+  type: "season",
   slug: "loki-season-2",
   title: "Loki Season 2",
   partOfCollections: ["marvel-cinematic-universe"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const downtonAbbeySeason5 = {
   id: "01a06802-b8b9-702c-af8c-fda06c223300",
   pageTypeSlug: "season",
+  type: "season",
   slug: "downton-abbey-season-5",
   title: "Downton Abbey Season 5",
   partOfCollections: ["downton-abbey"],

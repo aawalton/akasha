@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const marvelSRunawaysSeason2 = {
   id: "01a06802-b8ba-704e-9e5e-f49448935872",
   pageTypeSlug: "season",
+  type: "season",
   slug: "marvel-s-runaways-season-2",
   title: "Marvel's Runaways Season 2",
   partOfCollections: ["runaways"],

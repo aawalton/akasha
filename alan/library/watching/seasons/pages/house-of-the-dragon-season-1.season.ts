@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const houseOfTheDragonSeason1 = {
   id: "01a06802-b8ba-7027-9243-5fefc45fc9c3",
   pageTypeSlug: "season",
+  type: "season",
   slug: "house-of-the-dragon-season-1",
   title: "House of the Dragon Season 1",
   partOfCollections: ["house-of-the-dragon"],

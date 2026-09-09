@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const starTrekDeepSpaceNineSeason7 = {
   id: "01a06802-b8bc-704b-81df-a471f145e906",
   pageTypeSlug: "season",
+  type: "season",
   slug: "star-trek-deep-space-nine-season-7",
   title: "Star Trek: Deep Space Nine Season 7",
   partOfCollections: ["star-trek-deep-space-nine"],

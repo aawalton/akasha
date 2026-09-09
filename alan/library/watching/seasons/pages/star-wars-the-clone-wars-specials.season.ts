@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const starWarsTheCloneWarsSpecials = {
   id: "01a06802-b8bd-7043-8a37-b44a2b614c4d",
   pageTypeSlug: "season",
+  type: "season",
   slug: "star-wars-the-clone-wars-specials",
   title: "Star Wars: The Clone Wars Specials",
   partOfCollections: ["star-wars-the-clone-wars"],

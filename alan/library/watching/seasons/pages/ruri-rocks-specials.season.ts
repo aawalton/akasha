@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const ruriRocksSpecials = {
   id: "01a06802-b8bc-701f-962d-be393a321abf",
   pageTypeSlug: "season",
+  type: "season",
   slug: "ruri-rocks-specials",
   title: "Ruri Rocks Specials",
   partOfCollections: ["ruri-rocks"],

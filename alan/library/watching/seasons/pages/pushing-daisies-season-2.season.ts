@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const pushingDaisiesSeason2 = {
   id: "01a06802-b8bc-701c-a6fe-6cdcdb1cd780",
   pageTypeSlug: "season",
+  type: "season",
   slug: "pushing-daisies-season-2",
   title: "Pushing Daisies Season 2",
   partOfCollections: ["pushing-daisies"],

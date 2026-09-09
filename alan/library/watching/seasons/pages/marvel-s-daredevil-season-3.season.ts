@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const marvelSDaredevilSeason3 = {
   id: "01a06802-b8ba-7044-8b66-91822baa909c",
   pageTypeSlug: "season",
+  type: "season",
   slug: "marvel-s-daredevil-season-3",
   title: "Marvel's Daredevil Season 3",
   partOfCollections: ["daredevil"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const manifestSeason1 = {
   id: "01a06802-b8ba-7032-8936-5e93ad088c49",
   pageTypeSlug: "season",
+  type: "season",
   slug: "manifest-season-1",
   title: "Manifest Season 1",
   partOfCollections: ["manifest"],

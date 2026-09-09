@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const eurekaSeason3 = {
   id: "01a06802-b8b9-703e-8745-c23ba79f2085",
   pageTypeSlug: "season",
+  type: "season",
   slug: "eureka-season-3",
   title: "Eureka Season 3",
   partOfCollections: ["eureka"],

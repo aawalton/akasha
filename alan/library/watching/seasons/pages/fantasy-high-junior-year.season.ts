@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const fantasyHighJuniorYear = {
   id: "01a06802-b8b9-7045-bdbc-7ef9514e04a7",
   pageTypeSlug: "season",
+  type: "season",
   slug: "fantasy-high-junior-year",
   title: "Fantasy High: Junior Year",
   partOfCollections: ["dimension-20"],

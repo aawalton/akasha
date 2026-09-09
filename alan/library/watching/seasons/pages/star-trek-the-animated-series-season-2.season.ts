@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const starTrekTheAnimatedSeriesSeason2 = {
   id: "01a06802-b8bd-7019-9b71-e3a7ffaacf4f",
   pageTypeSlug: "season",
+  type: "season",
   slug: "star-trek-the-animated-series-season-2",
   title: "Star Trek: The Animated Series Season 2",
   partOfCollections: ["star-trek-the-animated-series"],

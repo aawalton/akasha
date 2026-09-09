@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const bookFourBalance = {
   id: "01a06802-b8b8-7017-bf93-20549fd44a85",
   pageTypeSlug: "season",
+  type: "season",
   slug: "book-four-balance",
   title: "Book Four: Balance",
   partOfCollections: ["the-legend-of-korra"],

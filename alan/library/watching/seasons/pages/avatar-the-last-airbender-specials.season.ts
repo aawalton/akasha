@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const avatarTheLastAirbenderSpecials = {
   id: "01a06802-b8b7-7013-a4a0-70e00dcd4660",
   pageTypeSlug: "season",
+  type: "season",
   slug: "avatar-the-last-airbender-specials",
   title: "Avatar: The Last Airbender Specials",
   partOfCollections: ["avatar-the-last-airbender"],

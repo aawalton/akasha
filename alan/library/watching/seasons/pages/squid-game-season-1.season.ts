@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const squidGameSeason1 = {
   id: "01a06802-b8bc-7042-b62b-148ce07788d4",
   pageTypeSlug: "season",
+  type: "season",
   slug: "squid-game-season-1",
   title: "Squid Game Season 1",
   partOfCollections: ["squid-game"],

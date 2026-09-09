@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const starWarsRebelsSpecials = {
   id: "01a06802-b8bd-7033-8381-64e432fb05f1",
   pageTypeSlug: "season",
+  type: "season",
   slug: "star-wars-rebels-specials",
   title: "Star Wars Rebels Specials",
   partOfCollections: ["star-wars-rebels"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const starTrekStrangeNewWorldsSeason3 = {
   id: "01a06802-b8bd-7017-8754-0a98f95ac489",
   pageTypeSlug: "season",
+  type: "season",
   slug: "star-trek-strange-new-worlds-season-3",
   title: "Star Trek: Strange New Worlds Season 3",
   partOfCollections: ["star-trek-strange-new-worlds"],

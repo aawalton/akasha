@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const philipKDickSElectricDreamsSeason1 = {
   id: "01a06802-b8bc-7018-8395-c207ac077eb5",
   pageTypeSlug: "season",
+  type: "season",
   slug: "philip-k-dick-s-electric-dreams-season-1",
   title: "Philip K. Dick's Electric Dreams Season 1",
   partOfCollections: ["electric-dreams"],

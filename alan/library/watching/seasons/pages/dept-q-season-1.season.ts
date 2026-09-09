@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const deptQSeason1 = {
   id: "01a06802-b8b9-7000-b68c-d5b022b0064b",
   pageTypeSlug: "season",
+  type: "season",
   slug: "dept-q-season-1",
   title: "Dept. Q Season 1",
   partOfCollections: ["dept-q"],

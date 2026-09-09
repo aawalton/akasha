@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const starTrekLowerDecksSeason2 = {
   id: "01a06802-b8bd-7004-83cc-9170f657ca25",
   pageTypeSlug: "season",
+  type: "season",
   slug: "star-trek-lower-decks-season-2",
   title: "Star Trek: Lower Decks Season 2",
   partOfCollections: ["star-trek-lower-decks"],

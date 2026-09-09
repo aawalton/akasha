@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const starTrekTheNextGenerationSeason2 = {
   id: "01a06802-b8bd-701b-906e-00bdeb12738c",
   pageTypeSlug: "season",
+  type: "season",
   slug: "star-trek-the-next-generation-season-2",
   title: "Star Trek: The Next Generation Season 2",
   partOfCollections: ["star-trek-the-next-generation"],

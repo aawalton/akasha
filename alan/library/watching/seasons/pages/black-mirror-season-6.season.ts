@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const blackMirrorSeason6 = {
   id: "01a06802-b8b8-7008-b02e-4e6a5b855716",
   pageTypeSlug: "season",
+  type: "season",
   slug: "black-mirror-season-6",
   title: "Black Mirror Season 6",
   partOfCollections: ["black-mirror"],

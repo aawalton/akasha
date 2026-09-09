@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const aStarstruckOdyssey = {
   id: "01a06802-b8b7-7009-8242-6b84ea5a9d88",
   pageTypeSlug: "season",
+  type: "season",
   slug: "a-starstruck-odyssey",
   title: "A Starstruck Odyssey",
   partOfCollections: ["dimension-20"],

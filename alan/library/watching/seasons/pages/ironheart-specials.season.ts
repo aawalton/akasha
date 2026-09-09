@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const ironheartSpecials = {
   id: "01a06802-b8ba-702c-89fb-9870f9fee766",
   pageTypeSlug: "season",
+  type: "season",
   slug: "ironheart-specials",
   title: "Ironheart Specials",
   partOfCollections: ["ironheart"],

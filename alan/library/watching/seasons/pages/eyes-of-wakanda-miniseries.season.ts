@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const eyesOfWakandaMiniseries = {
   id: "01a06802-b8b9-7043-af38-dd3fa81cc046",
   pageTypeSlug: "season",
+  type: "season",
   slug: "eyes-of-wakanda-miniseries",
   title: "Eyes of Wakanda Miniseries",
   partOfCollections: ["eyes-of-wakanda"],

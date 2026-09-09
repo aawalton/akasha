@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const babylon5TheComingOfShadows = {
   id: "01a06802-b8b7-7018-982f-e72c29879eae",
   pageTypeSlug: "season",
+  type: "season",
   slug: "babylon-5-the-coming-of-shadows",
   title: "Babylon 5 The Coming of Shadows",
   partOfCollections: ["babylon-5"],

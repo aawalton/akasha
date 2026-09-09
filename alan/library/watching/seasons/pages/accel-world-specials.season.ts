@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const accelWorldSpecials = {
   id: "01a06802-b8b7-700b-931f-8459ce15672d",
   pageTypeSlug: "season",
+  type: "season",
   slug: "accel-world-specials",
   title: "Accel World Specials",
   partOfCollections: ["accel-world-2"],

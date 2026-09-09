@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const cloudwardHo = {
   id: "01a06802-b8b8-702f-896d-c9af684ac7ec",
   pageTypeSlug: "season",
+  type: "season",
   slug: "cloudward-ho",
   title: "Cloudward, Ho!",
   partOfCollections: ["dimension-20"],

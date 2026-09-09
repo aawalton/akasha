@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const fantasyHigh = {
   id: "01a06802-b8b9-7044-ad65-48648f25fa91",
   pageTypeSlug: "season",
+  type: "season",
   slug: "fantasy-high",
   title: "Fantasy High",
   partOfCollections: ["dimension-20"],

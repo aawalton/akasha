@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const arcaneSeason2 = {
   id: "01a06802-b8b7-7010-8f3e-4870890f4f87",
   pageTypeSlug: "season",
+  type: "season",
   slug: "arcane-season-2",
   title: "Arcane Season 2",
   partOfCollections: ["arcane"],

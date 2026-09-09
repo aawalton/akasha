@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const girlsGutsGlorySpecials = {
   id: "01a06802-b8ba-701f-9fba-902265e2e022",
   pageTypeSlug: "season",
+  type: "season",
   slug: "girls-guts-glory-specials",
   title: "Girls Guts Glory Specials",
   partOfCollections: ["girls-guts-glory"],

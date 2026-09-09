@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const frierenBeyondJourneySEndSpecials2 = {
   id: "01a06802-b8ba-7011-931f-f466a95c9cbd",
   pageTypeSlug: "season",
+  type: "season",
   slug: "frieren-beyond-journey-s-end-specials-2",
   title: "Frieren: Beyond Journey's End Specials",
   partOfCollections: ["frieren-beyond-journey-s-end-2"],

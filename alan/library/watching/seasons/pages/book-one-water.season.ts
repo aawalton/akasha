@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const bookOneWater = {
   id: "01a06802-b8b8-7019-99bd-122d30ad6616",
   pageTypeSlug: "season",
+  type: "season",
   slug: "book-one-water",
   title: "Book One: Water",
   partOfCollections: ["avatar-the-last-airbender"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const moonKnightMiniseries = {
   id: "01a06802-b8bb-7005-b0fe-0156ab9ca107",
   pageTypeSlug: "season",
+  type: "season",
   slug: "moon-knight-miniseries",
   title: "Moon Knight Miniseries",
   partOfCollections: ["moon-knight"],

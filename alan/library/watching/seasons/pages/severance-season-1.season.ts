@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const severanceSeason1 = {
   id: "01a06802-b8bc-7033-b104-fd3e2c7e5500",
   pageTypeSlug: "season",
+  type: "season",
   slug: "severance-season-1",
   title: "Severance Season 1",
   partOfCollections: ["severance"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const crusadeSpecials = {
   id: "01a06802-b8b8-7046-8068-e7142b1adfa0",
   pageTypeSlug: "season",
+  type: "season",
   slug: "crusade-specials",
   title: "Crusade Specials",
   partOfCollections: ["crusade"],

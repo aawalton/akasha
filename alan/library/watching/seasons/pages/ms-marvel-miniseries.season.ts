@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const msMarvelMiniseries = {
   id: "01a06802-b8bb-7006-8332-73af46139622",
   pageTypeSlug: "season",
+  type: "season",
   slug: "ms-marvel-miniseries",
   title: "Ms. Marvel Miniseries",
   partOfCollections: ["ms-marvel"],

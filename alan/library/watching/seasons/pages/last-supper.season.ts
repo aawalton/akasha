@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const lastSupper = {
   id: "01a06802-b8ba-702f-9208-6a3891f5bdd1",
   pageTypeSlug: "season",
+  type: "season",
   slug: "last-supper",
   title: "Last Supper",
   partOfCollections: ["the-chosen"],

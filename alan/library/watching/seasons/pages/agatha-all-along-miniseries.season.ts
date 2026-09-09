@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const agathaAllAlongMiniseries = {
   id: "01a06802-b8b7-700c-a9d0-92b7f96bf108",
   pageTypeSlug: "season",
+  type: "season",
   slug: "agatha-all-along-miniseries",
   title: "Agatha All Along Miniseries",
   partOfCollections: ["agatha-all-along"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const sheHulkAttorneyAtLawMiniseries = {
   id: "01a06802-b8bc-7038-89f3-4775d5622458",
   pageTypeSlug: "season",
+  type: "season",
   slug: "she-hulk-attorney-at-law-miniseries",
   title: "She-Hulk: Attorney at Law Miniseries",
   partOfCollections: ["she-hulk-attorney-at-law"],

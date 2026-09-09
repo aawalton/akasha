@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const onePieceSeason9 = {
   id: "01a06802-b8bc-7006-9773-89dcacdeba95",
   pageTypeSlug: "season",
+  type: "season",
   slug: "one-piece-season-9",
   title: "One Piece Season 9",
   partOfCollections: ["one-piece"],

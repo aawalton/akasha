@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const starWarsTalesOfTheJediMiniseries = {
   id: "01a06802-b8bd-7038-a7dd-85b5d90fd128",
   pageTypeSlug: "season",
+  type: "season",
   slug: "star-wars-tales-of-the-jedi-miniseries",
   title: "Star Wars: Tales of the Jedi Miniseries",
   partOfCollections: ["star-wars-tales-of-the-jedi"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const neverStopBlowingUp = {
   id: "01a06802-b8bb-703a-a109-2ff9393da0d5",
   pageTypeSlug: "season",
+  type: "season",
   slug: "never-stop-blowing-up",
   title: "Never Stop Blowing Up",
   partOfCollections: ["dimension-20"],

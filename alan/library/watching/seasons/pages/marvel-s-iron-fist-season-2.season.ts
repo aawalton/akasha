@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const marvelSIronFistSeason2 = {
   id: "01a06802-b8ba-7047-8917-0b996a9d70db",
   pageTypeSlug: "season",
+  type: "season",
   slug: "marvel-s-iron-fist-season-2",
   title: "Marvel's Iron Fist Season 2",
   partOfCollections: ["iron-fist"],

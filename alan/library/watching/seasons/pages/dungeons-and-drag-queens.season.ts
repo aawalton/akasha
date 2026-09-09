@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const dungeonsAndDragQueens = {
   id: "01a06802-b8b9-7030-a07b-1aadfd44964f",
   pageTypeSlug: "season",
+  type: "season",
   slug: "dungeons-and-drag-queens",
   title: "Dungeons and Drag Queens",
   partOfCollections: ["dimension-20"],

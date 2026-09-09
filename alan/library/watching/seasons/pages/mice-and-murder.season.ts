@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const miceAndMurder = {
   id: "01a06802-b8bb-7001-8547-99fab3c4c3d4",
   pageTypeSlug: "season",
+  type: "season",
   slug: "mice-and-murder",
   title: "Mice & Murder",
   partOfCollections: ["dimension-20"],

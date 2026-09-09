@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const marvelSAgentsOfSHIELDSeason4 = {
   id: "01a06802-b8ba-703b-9cb4-fef45f784efb",
   pageTypeSlug: "season",
+  type: "season",
   slug: "marvel-s-agents-of-s-h-i-e-l-d-season-4",
   title: "Marvel's Agents of S.H.I.E.L.D. Season 4",
   partOfCollections: ["agents-of-s-h-i-e-l-d"],

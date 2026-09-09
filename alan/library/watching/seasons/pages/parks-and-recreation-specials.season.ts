@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const parksAndRecreationSpecials = {
   id: "01a06802-b8bc-700e-a444-6d620a63050e",
   pageTypeSlug: "season",
+  type: "season",
   slug: "parks-and-recreation-specials",
   title: "Parks and Recreation Specials",
   partOfCollections: ["parks-and-recreation"],

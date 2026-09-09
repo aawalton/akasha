@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const onePieceSeason7 = {
   id: "01a06802-b8bc-7004-9e8b-97e65b8d87ae",
   pageTypeSlug: "season",
+  type: "season",
   slug: "one-piece-season-7",
   title: "One Piece Season 7",
   partOfCollections: ["one-piece"],

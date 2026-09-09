@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const stargateAtlantisSeason1 = {
   id: "01a06802-b8bd-7044-b4b5-8d835f164fe8",
   pageTypeSlug: "season",
+  type: "season",
   slug: "stargate-atlantis-season-1",
   title: "Stargate Atlantis Season 1",
   partOfCollections: ["stargate-atlantis"],

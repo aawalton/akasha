@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const rwbyVolume4 = {
   id: "01a06802-b8bc-7027-99f3-01d0dc1c6113",
   pageTypeSlug: "season",
+  type: "season",
   slug: "rwby-volume-4",
   title: "RWBY Volume 4",
   partOfCollections: ["rwby-2"],

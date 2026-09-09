@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const gameOfThronesSeason2 = {
   id: "01a06802-b8ba-7014-b424-3b81abcf5ae0",
   pageTypeSlug: "season",
+  type: "season",
   slug: "game-of-thrones-season-2",
   title: "Game of Thrones Season 2",
   partOfCollections: ["game-of-thrones"],

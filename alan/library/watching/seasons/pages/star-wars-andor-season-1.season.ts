@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const starWarsAndorSeason1 = {
   id: "01a06802-b8bd-7028-b618-8f561d605d7f",
   pageTypeSlug: "season",
+  type: "season",
   slug: "star-wars-andor-season-1",
   title: "Star Wars: Andor Season 1",
   partOfCollections: ["andor"],

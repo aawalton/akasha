@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const scorpionSeason1 = {
   id: "01a06802-b8bc-702d-aea2-d0b53bb1dee9",
   pageTypeSlug: "season",
+  type: "season",
   slug: "scorpion-season-1",
   title: "Scorpion Season 1",
   partOfCollections: ["scorpion"],

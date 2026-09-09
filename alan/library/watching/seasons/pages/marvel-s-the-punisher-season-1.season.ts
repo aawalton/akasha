@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const marvelSThePunisherSeason1 = {
   id: "01a06802-b8ba-7051-bdb8-004752c57a88",
   pageTypeSlug: "season",
+  type: "season",
   slug: "marvel-s-the-punisher-season-1",
   title: "Marvel's The Punisher Season 1",
   partOfCollections: ["the-punisher"],

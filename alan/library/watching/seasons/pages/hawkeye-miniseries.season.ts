@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const hawkeyeMiniseries = {
   id: "01a06802-b8ba-7023-ad8c-2bc62d512325",
   pageTypeSlug: "season",
+  type: "season",
   slug: "hawkeye-miniseries",
   title: "Hawkeye Miniseries",
   partOfCollections: ["hawkeye"],

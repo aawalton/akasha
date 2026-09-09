@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const capricaSeason1 = {
   id: "01a06802-b8b8-7023-9131-c1d659071485",
   pageTypeSlug: "season",
+  type: "season",
   slug: "caprica-season-1",
   title: "Caprica Season 1",
   partOfCollections: ["caprica"],

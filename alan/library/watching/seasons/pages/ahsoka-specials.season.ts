@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const ahsokaSpecials = {
   id: "01a06802-b8b7-700e-8a19-a73bd4c5b494",
   pageTypeSlug: "season",
+  type: "season",
   slug: "ahsoka-specials",
   title: "Ahsoka Specials",
   partOfCollections: ["ahsoka"],

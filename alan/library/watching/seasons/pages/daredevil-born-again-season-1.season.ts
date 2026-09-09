@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const daredevilBornAgainSeason1 = {
   id: "01a06802-b8b8-7047-b85d-8f920cec8585",
   pageTypeSlug: "season",
+  type: "season",
   slug: "daredevil-born-again-season-1",
   title: "Daredevil: Born Again Season 1",
   partOfCollections: ["daredevil-born-again"],

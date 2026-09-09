@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const starTrekVoyagerSeason4 = {
   id: "01a06802-b8bd-7024-855c-53b5c2341f42",
   pageTypeSlug: "season",
+  type: "season",
   slug: "star-trek-voyager-season-4",
   title: "Star Trek: Voyager Season 4",
   partOfCollections: ["star-trek-voyager"],

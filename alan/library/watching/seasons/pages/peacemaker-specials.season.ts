@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const peacemakerSpecials = {
   id: "01a06802-b8bc-7011-b867-4518179a3d36",
   pageTypeSlug: "season",
+  type: "season",
   slug: "peacemaker-specials",
   title: "Peacemaker Specials",
   partOfCollections: ["peacemaker"],

@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const doctorWhoSeason25 = {
   id: "01a06802-b8b9-7016-b74a-dca6934984e7",
   pageTypeSlug: "season",
+  type: "season",
   slug: "doctor-who-season-25",
   title: "Doctor Who Season 25",
   partOfCollections: ["doctor-who-1963-1989"],

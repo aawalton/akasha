@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const duneProphecySeason1 = {
   id: "01a06802-b8b9-702f-aed0-1c3f36843b6a",
   pageTypeSlug: "season",
+  type: "season",
   slug: "dune-prophecy-season-1",
   title: "Dune: Prophecy Season 1",
   partOfCollections: ["dune-prophecy"],

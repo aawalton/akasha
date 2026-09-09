@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const soloLevelingSoloLeveling = {
   id: "01a06802-b8bc-703f-849e-1ec6bd8f0454",
   pageTypeSlug: "season",
+  type: "season",
   slug: "solo-leveling-solo-leveling",
   title: "Solo Leveling Solo Leveling",
   partOfCollections: ["solo-leveling"],

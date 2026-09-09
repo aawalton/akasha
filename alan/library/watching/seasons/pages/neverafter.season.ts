@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const neverafter = {
   id: "01a06802-b8bb-703b-9616-86ea86b72fa5",
   pageTypeSlug: "season",
+  type: "season",
   slug: "neverafter",
   title: "Neverafter",
   partOfCollections: ["dimension-20"],

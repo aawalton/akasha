@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const starTrekPicardSeason2 = {
   id: "01a06802-b8bd-700a-a924-837f92350d4b",
   pageTypeSlug: "season",
+  type: "season",
   slug: "star-trek-picard-season-2",
   title: "Star Trek: Picard Season 2",
   partOfCollections: ["star-trek-picard"],

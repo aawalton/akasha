@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const ncisNewOrleansSeason4 = {
   id: "01a06802-b8bb-701c-bc79-e27917e65a67",
   pageTypeSlug: "season",
+  type: "season",
   slug: "ncis-new-orleans-season-4",
   title: "NCIS: New Orleans Season 4",
   partOfCollections: ["ncis-new-orleans"],

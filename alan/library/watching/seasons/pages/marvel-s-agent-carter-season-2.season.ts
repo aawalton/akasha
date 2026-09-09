@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const marvelSAgentCarterSeason2 = {
   id: "01a06802-b8ba-7037-be6f-f85b47cc2668",
   pageTypeSlug: "season",
+  type: "season",
   slug: "marvel-s-agent-carter-season-2",
   title: "Marvel's Agent Carter Season 2",
   partOfCollections: ["agent-carter"],

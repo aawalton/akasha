@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const battlestarGalacticaSeason1 = {
   id: "01a06802-b8b8-7001-a079-85779e8abea3",
   pageTypeSlug: "season",
+  type: "season",
   slug: "battlestar-galactica-season-1",
   title: "Battlestar Galactica Season 1",
   partOfCollections: ["battlestar-galactica-1978"],

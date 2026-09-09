@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const marvelSLukeCageSeason1 = {
   id: "01a06802-b8ba-704b-856e-9dd43dad2442",
   pageTypeSlug: "season",
+  type: "season",
   slug: "marvel-s-luke-cage-season-1",
   title: "Marvel's Luke Cage Season 1",
   partOfCollections: ["luke-cage"],

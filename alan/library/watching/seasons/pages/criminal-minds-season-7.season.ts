@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const criminalMindsSeason7 = {
   id: "01a06802-b8b8-7041-b47e-f76b1de63211",
   pageTypeSlug: "season",
+  type: "season",
   slug: "criminal-minds-season-7",
   title: "Criminal Minds Season 7",
   partOfCollections: ["criminal-minds"],

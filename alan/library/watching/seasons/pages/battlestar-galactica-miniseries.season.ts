@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const battlestarGalacticaMiniseries = {
   id: "01a06802-b8b8-7000-9310-6336d49b1c46",
   pageTypeSlug: "season",
+  type: "season",
   slug: "battlestar-galactica-miniseries",
   title: "Battlestar Galactica Miniseries",
   partOfCollections: ["battlestar-galactica-2004"],

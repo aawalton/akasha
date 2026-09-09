@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const friendsSeason9 = {
   id: "01a06802-b8ba-700c-83b6-a3d03f7be19c",
   pageTypeSlug: "season",
+  type: "season",
   slug: "friends-season-9",
   title: "Friends Season 9",
   partOfCollections: ["friends"],

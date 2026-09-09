@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const book5Ocean = {
   id: "01a06802-b8b8-7014-b398-ac5159b19914",
   pageTypeSlug: "season",
+  type: "season",
   slug: "book-5-ocean",
   title: "Book 5: Ocean",
   partOfCollections: ["the-dragon-prince"],

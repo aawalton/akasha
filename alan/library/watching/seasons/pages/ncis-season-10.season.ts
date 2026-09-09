@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const ncisSeason10 = {
   id: "01a06802-b8bb-7022-a1ab-457268e117b2",
   pageTypeSlug: "season",
+  type: "season",
   slug: "ncis-season-10",
   title: "NCIS Season 10",
   partOfCollections: ["ncis"],

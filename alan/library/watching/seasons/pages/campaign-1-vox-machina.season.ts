@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const campaign1VoxMachina = {
   id: "01a06802-b8b8-701f-b928-c93ee7b5d14b",
   pageTypeSlug: "season",
+  type: "season",
   slug: "campaign-1-vox-machina",
   title: "Campaign 1: Vox Machina",
   partOfCollections: ["critical-role"],

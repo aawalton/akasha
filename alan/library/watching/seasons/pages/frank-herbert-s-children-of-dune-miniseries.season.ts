@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const frankHerbertSChildrenOfDuneMiniseries = {
   id: "01a06802-b8ba-7000-894c-7c110a459db6",
   pageTypeSlug: "season",
+  type: "season",
   slug: "frank-herbert-s-children-of-dune-miniseries",
   title: "Frank Herbert's Children of Dune Miniseries",
   partOfCollections: ["frank-herbert-s-children-of-dune"],

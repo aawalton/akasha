@@ -3,6 +3,7 @@ import type { Season } from "../season.page-type.ts"
 export const campaign4 = {
   id: "01a06802-b8b8-7022-b871-d10ce8fc5003",
   pageTypeSlug: "season",
+  type: "season",
   slug: "campaign-4",
   title: "Campaign 4",
   partOfCollections: ["critical-role"],
