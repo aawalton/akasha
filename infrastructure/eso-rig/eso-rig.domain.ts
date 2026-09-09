@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const esoRig = {
   id: "01a06866-58f8-7e5f-853a-325ce7e59667",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "eso-rig",
   definition: "the substrate a Windows game client runs on with no display, keyboard or human",
-  manifest: "json",
   parts: [
     "container-recipe/eso-rig-image",
     "manifest/eso-rig-manifests",
@@ -113,4 +112,4 @@ export const esoRig = {
       statement: "A driver reading taken under another injection mechanism is no evidence here.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

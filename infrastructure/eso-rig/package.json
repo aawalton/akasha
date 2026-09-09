@@ -1,9 +1,0 @@
-{
-  "name": "@akasha/eso-rig",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-    "@akasha/code": "workspace:*",
-    "@akasha/k8s-types": "workspace:*"
-  }
-}
