@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const doomspeakerPriest = {
   id: "01a0657e-1356-7e2e-b5df-cff8ab9834e7",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "doomspeaker-priest",
   title: "Doomspeaker Priest",
   world: "the-wandering-inn",

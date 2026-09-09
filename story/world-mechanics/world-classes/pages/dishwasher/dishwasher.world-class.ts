@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const dishwasher = {
   id: "01a0657e-1353-7a35-a988-293fb4f2640f",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "dishwasher",
   title: "Dishwasher",
   world: "the-wandering-inn",
