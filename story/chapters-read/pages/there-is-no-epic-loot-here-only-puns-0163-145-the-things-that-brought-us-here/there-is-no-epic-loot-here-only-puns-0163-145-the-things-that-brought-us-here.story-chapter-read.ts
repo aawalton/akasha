@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0163145TheThingsThatBroughtUsHere = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 163,
   ownLength: 3539,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/762749/145-the-things-that-brought-us-here",

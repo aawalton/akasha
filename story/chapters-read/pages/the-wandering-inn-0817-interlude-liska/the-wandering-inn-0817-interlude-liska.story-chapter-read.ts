@@ -8,7 +8,7 @@ export const theWanderingInn0817InterludeLiska = {
   story: "story-read/the-wandering-inn",
   position: 817,
   ownLength: 51808,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-09",
   externalLink: "https://wanderinginn.com/2026/05/09/interlude-liska/",
   prose: "txt",

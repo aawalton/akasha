@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0094InterludeTheImpOfNoImportance = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 94,
   ownLength: 3301,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/347349/interlude-the-imp-of-no-importance",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns010288XanatosGambitNoThisIsADeltaGambl
   story: "there-is-no-epic-loot-here-only-puns",
   position: 102,
   ownLength: 5053,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/353021/88-xanatos-gambit-no-this-is-a-delta-gamble",

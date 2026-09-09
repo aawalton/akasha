@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns004645NuPointOfView = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 46,
   ownLength: 4321,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/196333/45-nu-point-of-view",

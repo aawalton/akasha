@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns005251HappyAccidents = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 52,
   ownLength: 4039,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/200603/51-happy-accidents",

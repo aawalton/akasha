@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0045InterludeCheesecake = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 45,
   ownLength: 1955,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/196297/interlude-cheesecake",

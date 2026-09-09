@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0005Chapter5TheSoldier = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 5,
   ownLength: 2678,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3237181/chapter-5-the-soldier",

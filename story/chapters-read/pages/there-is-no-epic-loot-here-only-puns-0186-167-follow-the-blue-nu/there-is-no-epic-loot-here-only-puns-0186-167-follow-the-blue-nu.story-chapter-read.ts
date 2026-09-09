@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0186167FollowTheBlueNu = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 186,
   ownLength: 3417,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1045214/167-follow-the-blue-nu",

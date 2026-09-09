@@ -8,7 +8,7 @@ export const theWanderingInn0800BewareOfChickenXTheWanderingInnCrossoverComic = 
   story: "story-read/the-wandering-inn",
   position: 800,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-03",
   externalLink:
     "https://wanderinginn.com/2025/12/03/beware-of-chicken-x-the-wandering-inn-crossover-comic/",

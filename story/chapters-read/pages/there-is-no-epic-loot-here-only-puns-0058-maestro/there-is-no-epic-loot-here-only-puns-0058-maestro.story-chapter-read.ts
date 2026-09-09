@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0058Maestro = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 58,
   ownLength: 51,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/211345/maestro",

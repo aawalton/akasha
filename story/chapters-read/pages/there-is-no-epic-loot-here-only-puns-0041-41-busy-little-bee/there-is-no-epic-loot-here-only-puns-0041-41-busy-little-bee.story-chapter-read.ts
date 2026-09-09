@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns004141BusyLittleBee = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 41,
   ownLength: 1988,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/195230/41-busy-little-bee",

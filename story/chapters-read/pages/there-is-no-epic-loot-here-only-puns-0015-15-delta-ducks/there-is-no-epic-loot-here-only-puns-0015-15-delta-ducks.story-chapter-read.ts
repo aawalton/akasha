@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns001515DeltaDucks = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 15,
   ownLength: 2355,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188470/15-delta-ducks",

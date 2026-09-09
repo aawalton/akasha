@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0020Chapter20BellsAndCrystals = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 20,
   ownLength: 3598,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3294079/chapter-20-bells-and-crystals",

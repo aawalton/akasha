@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0242219Pigheaded = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 242,
   ownLength: 3409,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2412447/219-pigheaded",

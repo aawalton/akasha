@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0153135TwinkleTwinkleLittle = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 153,
   ownLength: 3689,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/682501/135-twinkle-twinkle-little",

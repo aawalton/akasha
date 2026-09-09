@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0250227FourOfAFeather = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 250,
   ownLength: 3438,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2802620/227-four-of-a-feather",

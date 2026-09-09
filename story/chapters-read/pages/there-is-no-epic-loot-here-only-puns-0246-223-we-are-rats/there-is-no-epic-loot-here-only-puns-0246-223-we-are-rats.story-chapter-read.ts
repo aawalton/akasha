@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0246223WeAreRats = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 246,
   ownLength: 2663,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2702682/223-we-are-rats",

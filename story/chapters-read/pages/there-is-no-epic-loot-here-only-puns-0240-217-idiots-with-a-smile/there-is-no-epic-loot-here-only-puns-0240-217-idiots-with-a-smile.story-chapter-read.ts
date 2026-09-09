@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0240217IdiotsWithASmile = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 240,
   ownLength: 2463,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2163482/217-idiots-with-a-smile",

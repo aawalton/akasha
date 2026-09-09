@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0127111JackBeNimbleJackBeOhNo = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 127,
   ownLength: 2364,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/425931/111-jack-be-nimble-jack-be-oh-no",

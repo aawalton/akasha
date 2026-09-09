@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns004444MimeTheGap = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 44,
   ownLength: 3322,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/196093/44-mime-the-gap",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns003535RulisAndTermis = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 35,
   ownLength: 2441,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/192398/35-rulis-and-termis",

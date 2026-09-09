@@ -8,7 +8,7 @@ export const theWanderingInn0831AnnouncementAMonthSBreak = {
   story: "story-read/the-wandering-inn",
   position: 831,
   ownLength: 545,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-29",
   externalLink: "https://wanderinginn.com/2026/08/29/announcement-a-months-break/",
   prose: "txt",

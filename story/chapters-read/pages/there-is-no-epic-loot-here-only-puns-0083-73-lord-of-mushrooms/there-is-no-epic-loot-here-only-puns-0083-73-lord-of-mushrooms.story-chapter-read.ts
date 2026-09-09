@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns008373LordOfMushrooms = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 83,
   ownLength: 4114,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/319455/73-lord-of-mushrooms",

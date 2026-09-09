@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0029Chapter29Harpy = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 29,
   ownLength: 2974,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3321604/chapter-29-harpy",

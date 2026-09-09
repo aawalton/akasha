@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0233210ThatsTheGospelTruth = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 233,
   ownLength: 2882,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1729458/210-thats-the-gospel-truth",

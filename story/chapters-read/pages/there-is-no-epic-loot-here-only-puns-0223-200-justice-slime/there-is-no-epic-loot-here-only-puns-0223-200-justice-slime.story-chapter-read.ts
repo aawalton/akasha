@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0223200JusticeSlime = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 223,
   ownLength: 2744,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1531015/200-justice-slime",

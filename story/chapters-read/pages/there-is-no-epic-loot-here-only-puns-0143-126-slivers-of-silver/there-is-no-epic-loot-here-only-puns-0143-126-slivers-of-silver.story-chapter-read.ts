@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0143126SliversOfSilver = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 143,
   ownLength: 1890,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/578723/126-slivers-of-silver",

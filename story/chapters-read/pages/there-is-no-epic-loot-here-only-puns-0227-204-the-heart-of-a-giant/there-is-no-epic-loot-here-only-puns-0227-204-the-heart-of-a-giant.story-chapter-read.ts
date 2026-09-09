@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0227204TheHeartOfAGiant = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 227,
   ownLength: 3065,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1654878/204-the-heart-of-a-giant",

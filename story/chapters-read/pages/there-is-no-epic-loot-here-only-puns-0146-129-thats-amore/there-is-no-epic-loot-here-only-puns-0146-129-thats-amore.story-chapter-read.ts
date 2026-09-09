@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0146129ThatsAmore = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 146,
   ownLength: 2071,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/584063/129-thats-amore",

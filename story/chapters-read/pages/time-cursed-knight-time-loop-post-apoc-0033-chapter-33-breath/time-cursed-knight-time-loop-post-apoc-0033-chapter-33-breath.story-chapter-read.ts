@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0033Chapter33Breath = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 33,
   ownLength: 3325,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3337901/chapter-33-breath",

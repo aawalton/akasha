@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0124108AlFarWillHeGo = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 124,
   ownLength: 5413,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/409944/108-al-far-will-he-go",

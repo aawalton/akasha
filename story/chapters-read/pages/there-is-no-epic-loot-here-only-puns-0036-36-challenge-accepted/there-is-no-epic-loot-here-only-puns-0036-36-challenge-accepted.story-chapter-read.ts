@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns003636ChallengeAccepted = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 36,
   ownLength: 2817,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/192700/36-challenge-accepted",

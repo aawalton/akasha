@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0156138PictureBooksDeltaPrefersPopUp =
   story: "there-is-no-epic-loot-here-only-puns",
   position: 156,
   ownLength: 2526,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/710613/138-picture-books-delta-prefers-pop-up",

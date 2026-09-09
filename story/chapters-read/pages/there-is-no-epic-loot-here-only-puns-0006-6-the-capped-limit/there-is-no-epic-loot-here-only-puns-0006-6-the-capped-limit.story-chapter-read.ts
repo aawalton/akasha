@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns00066TheCappedLimit = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 6,
   ownLength: 2555,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185868/6-the-capped-limit",

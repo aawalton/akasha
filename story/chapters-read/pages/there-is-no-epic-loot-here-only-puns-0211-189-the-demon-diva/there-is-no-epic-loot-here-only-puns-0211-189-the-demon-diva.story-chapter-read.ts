@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0211189TheDemonDiva = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 211,
   ownLength: 3909,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1440421/189-the-demon-diva",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns011196DoorToDoor = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 111,
   ownLength: 3604,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/364488/96-door-to-door",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns001010HoleInTheGround = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 10,
   ownLength: 2281,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/187799/10-hole-in-the-ground",

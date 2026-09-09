@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0040Chapter40TheLastKingdoms = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 40,
   ownLength: 3685,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3383344/chapter-40-the-last-kingdoms",

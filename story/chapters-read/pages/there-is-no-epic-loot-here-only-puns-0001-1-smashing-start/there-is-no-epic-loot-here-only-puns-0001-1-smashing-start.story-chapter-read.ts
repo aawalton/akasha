@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns00011SmashingStart = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 1,
   ownLength: 1348,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185054/1-smashing-start",

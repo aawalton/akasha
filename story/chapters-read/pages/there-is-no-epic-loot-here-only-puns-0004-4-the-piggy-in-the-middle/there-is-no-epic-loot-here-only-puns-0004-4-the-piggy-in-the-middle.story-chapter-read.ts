@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns00044ThePiggyInTheMiddle = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 4,
   ownLength: 2148,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/185601/4-the-piggy-in-the-middle",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0190170TheShattering = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 190,
   ownLength: 3367,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1084822/170-the-shattering",

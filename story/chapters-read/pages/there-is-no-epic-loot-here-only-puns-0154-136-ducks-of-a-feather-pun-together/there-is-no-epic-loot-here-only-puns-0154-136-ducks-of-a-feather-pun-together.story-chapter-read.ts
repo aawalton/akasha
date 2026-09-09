@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0154136DucksOfAFeatherPunTogether = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 154,
   ownLength: 4786,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/694226/136-ducks-of-a-feather-pun-together",

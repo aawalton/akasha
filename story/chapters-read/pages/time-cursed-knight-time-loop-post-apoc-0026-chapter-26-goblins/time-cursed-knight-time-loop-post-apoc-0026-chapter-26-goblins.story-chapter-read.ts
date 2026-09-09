@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0026Chapter26Goblins = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 26,
   ownLength: 2403,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3314223/chapter-26-goblins",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns010994guardGoyles = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 109,
   ownLength: 3389,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/360600/94guard-goyles",

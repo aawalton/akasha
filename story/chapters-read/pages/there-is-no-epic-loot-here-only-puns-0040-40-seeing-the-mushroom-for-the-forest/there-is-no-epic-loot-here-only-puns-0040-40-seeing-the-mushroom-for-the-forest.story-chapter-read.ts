@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns004040SeeingTheMushroomForTheForest = 
   story: "there-is-no-epic-loot-here-only-puns",
   position: 40,
   ownLength: 2762,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/194788/40-seeing-the-mushroom-for-the-forest",

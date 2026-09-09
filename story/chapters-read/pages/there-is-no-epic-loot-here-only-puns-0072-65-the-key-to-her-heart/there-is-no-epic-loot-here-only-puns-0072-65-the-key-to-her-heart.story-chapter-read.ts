@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns007265TheKeyToHerHeart = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 72,
   ownLength: 3710,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/239399/65-the-key-to-her-heart",

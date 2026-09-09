@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns003333TheCuriousContainer = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 33,
   ownLength: 2922,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/191954/33-the-curious-container",

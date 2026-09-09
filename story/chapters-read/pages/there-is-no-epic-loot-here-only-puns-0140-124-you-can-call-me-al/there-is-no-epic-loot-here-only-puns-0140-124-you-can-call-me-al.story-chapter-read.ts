@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0140124YouCanCallMeAl = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 140,
   ownLength: 2803,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/567891/124-you-can-call-me-al",

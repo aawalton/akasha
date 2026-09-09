@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0185166SeaBiscuitsAndSeaHags = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 185,
   ownLength: 4714,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1023171/166-sea-biscuits-and-sea-hags",

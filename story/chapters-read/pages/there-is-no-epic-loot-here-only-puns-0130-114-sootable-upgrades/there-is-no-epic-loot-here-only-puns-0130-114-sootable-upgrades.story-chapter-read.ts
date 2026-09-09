@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0130114SootableUpgrades = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 130,
   ownLength: 1699,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/453503/114-sootable-upgrades",

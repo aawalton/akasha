@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns008877FlowerPower = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 88,
   ownLength: 2763,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/338533/77-flower-power",

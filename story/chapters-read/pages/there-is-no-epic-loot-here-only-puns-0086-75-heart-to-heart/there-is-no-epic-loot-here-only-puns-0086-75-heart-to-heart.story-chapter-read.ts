@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns008675HeartToHeart = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 86,
   ownLength: 4083,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/328319/75-heart-to-heart",

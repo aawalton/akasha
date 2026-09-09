@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0188168ShortcutsCutShort = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 188,
   ownLength: 4890,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1061552/168-shortcuts-cut-short",

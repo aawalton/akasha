@@ -8,7 +8,7 @@ export const theWanderingInn0796InterludeBarelleTheBard = {
   story: "story-read/the-wandering-inn",
   position: 796,
   ownLength: 14242,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-09",
   externalLink: "https://wanderinginn.com/2025/11/09/interlude-barelle-the-bard/",
   prose: "txt",

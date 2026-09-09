@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0219197ASlipperySlope = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 219,
   ownLength: 3270,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1451733/197-a-slippery-slope",

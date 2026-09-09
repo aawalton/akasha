@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0160142Catfished = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 160,
   ownLength: 3190,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/734068/142-catfished",

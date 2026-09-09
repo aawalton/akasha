@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0197176ALittleOverkill = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 197,
   ownLength: 3585,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1211193/176-a-little-overkill",

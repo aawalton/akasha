@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0204182LifeOfATown = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 204,
   ownLength: 2843,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1307552/182-life-of-a-town",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0125109QuickiesAndSquidies = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 125,
   ownLength: 3591,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/410696/109-quickies-and-squidies",

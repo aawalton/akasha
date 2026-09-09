@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0010Chapter10Shattered = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 10,
   ownLength: 2569,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3257199/chapter-10-shattered",

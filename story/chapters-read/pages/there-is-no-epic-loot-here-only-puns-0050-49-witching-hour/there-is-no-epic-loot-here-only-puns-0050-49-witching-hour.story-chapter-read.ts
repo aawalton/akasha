@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns005049WitchingHour = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 50,
   ownLength: 3840,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/198892/49-witching-hour",

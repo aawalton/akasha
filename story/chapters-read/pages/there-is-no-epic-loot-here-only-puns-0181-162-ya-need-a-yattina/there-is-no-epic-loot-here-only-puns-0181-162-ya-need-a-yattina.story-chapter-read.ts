@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0181162YaNeedAYattina = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 181,
   ownLength: 3961,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/974535/162-ya-need-a-yattina",

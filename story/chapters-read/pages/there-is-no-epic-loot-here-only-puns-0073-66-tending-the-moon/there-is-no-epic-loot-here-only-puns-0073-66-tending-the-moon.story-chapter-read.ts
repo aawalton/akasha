@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns007366TendingTheMoon = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 73,
   ownLength: 3747,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/282534/66-tending-the-moon",

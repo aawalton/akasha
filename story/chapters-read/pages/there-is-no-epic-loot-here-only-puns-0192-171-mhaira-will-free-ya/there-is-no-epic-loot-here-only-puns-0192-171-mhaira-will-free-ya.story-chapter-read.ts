@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0192171MhairaWillFreeYa = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 192,
   ownLength: 3570,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1144646/171-mhaira-will-free-ya",

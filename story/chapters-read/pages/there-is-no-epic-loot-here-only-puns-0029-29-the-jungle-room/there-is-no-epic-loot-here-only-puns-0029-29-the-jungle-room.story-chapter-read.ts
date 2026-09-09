@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns002929TheJungleRoom = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 29,
   ownLength: 1924,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/190808/29-the-jungle-room",

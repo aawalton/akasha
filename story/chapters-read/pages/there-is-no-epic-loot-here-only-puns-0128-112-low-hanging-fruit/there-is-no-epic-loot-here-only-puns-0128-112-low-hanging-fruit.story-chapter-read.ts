@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0128112LowHangingFruit = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 128,
   ownLength: 4046,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/436204/112-low-hanging-fruit",

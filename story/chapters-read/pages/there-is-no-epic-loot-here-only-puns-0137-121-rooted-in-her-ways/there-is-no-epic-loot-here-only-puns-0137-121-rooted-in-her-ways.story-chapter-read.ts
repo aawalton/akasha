@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0137121RootedInHerWays = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 137,
   ownLength: 1934,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/525192/121-rooted-in-her-ways",

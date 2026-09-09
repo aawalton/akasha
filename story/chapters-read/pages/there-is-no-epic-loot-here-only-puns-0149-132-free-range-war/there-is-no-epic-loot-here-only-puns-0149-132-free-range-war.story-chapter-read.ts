@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0149132FreeRangeWar = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 149,
   ownLength: 3024,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/593573/132-free-range-war",

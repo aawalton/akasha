@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0253230SweetVsSalt = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 253,
   ownLength: 2949,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2864464/230-sweet-vs-salt",

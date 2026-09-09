@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0180161UppingTheGame = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 180,
   ownLength: 3208,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/973898/161-upping-the-game",

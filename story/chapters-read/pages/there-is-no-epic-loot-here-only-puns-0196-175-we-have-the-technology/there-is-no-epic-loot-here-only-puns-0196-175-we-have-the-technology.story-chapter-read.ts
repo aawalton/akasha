@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0196175WeHaveTheTechnology = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 196,
   ownLength: 3432,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1211187/175-we-have-the-technology",

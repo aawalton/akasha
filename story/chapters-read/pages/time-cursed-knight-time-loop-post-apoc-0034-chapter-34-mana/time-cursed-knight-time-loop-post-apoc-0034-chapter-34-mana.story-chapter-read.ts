@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0034Chapter34Mana = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 34,
   ownLength: 2898,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3342285/chapter-34-mana",

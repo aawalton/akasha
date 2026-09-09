@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0189169ThereBeDragonsAndWorseMushrooms
   story: "there-is-no-epic-loot-here-only-puns",
   position: 189,
   ownLength: 4110,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1084290/169-there-be-dragons-and-worse-mushrooms",

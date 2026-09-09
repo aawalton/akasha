@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0141125BranchingPaths = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 141,
   ownLength: 3839,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/577708/125-branching-paths",

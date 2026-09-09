@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0030Chapter30TrainingSession = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 30,
   ownLength: 2419,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3325834/chapter-30-training-session",

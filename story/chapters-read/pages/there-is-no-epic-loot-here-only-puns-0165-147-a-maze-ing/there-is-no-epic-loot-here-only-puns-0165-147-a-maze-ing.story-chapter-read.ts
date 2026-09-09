@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0165147AMazeIng = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 165,
   ownLength: 3071,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/805227/147-a-maze-ing",

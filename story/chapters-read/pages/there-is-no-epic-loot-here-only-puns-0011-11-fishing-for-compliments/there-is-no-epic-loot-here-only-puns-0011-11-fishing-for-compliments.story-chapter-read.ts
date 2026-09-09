@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns001111FishingForCompliments = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 11,
   ownLength: 3046,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188317/11-fishing-for-compliments",

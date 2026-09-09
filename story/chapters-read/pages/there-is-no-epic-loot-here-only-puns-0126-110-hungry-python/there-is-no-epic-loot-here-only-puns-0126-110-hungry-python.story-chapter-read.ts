@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0126110HungryPython = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 126,
   ownLength: 2890,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/422239/110-hungry-python",

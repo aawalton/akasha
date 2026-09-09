@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0200InterludeAsGoodAsGold = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 200,
   ownLength: 3620,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1242615/interlude-as-good-as-gold",

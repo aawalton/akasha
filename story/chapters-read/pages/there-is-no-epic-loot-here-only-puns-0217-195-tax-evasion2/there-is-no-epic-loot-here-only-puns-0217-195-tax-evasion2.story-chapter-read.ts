@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0217195TaxEvasion2 = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 217,
   ownLength: 2766,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1446876/195-tax-evasion2",

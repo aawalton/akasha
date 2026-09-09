@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns008171TruthSeeker = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 81,
   ownLength: 3883,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/312375/71-truth-seeker",

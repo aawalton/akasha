@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns003434TheFlowerInAPot = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 34,
   ownLength: 3046,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/192055/34-the-flower-in-a-pot",

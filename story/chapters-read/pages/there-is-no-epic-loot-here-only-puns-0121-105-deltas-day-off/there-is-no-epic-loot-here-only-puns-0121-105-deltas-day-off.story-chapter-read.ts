@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0121105DeltasDayOff = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 121,
   ownLength: 3042,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/393874/105-deltas-day-off",

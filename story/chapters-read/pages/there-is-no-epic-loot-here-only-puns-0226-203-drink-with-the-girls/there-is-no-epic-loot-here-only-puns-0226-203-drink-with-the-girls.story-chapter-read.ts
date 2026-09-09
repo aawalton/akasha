@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0226203DrinkWithTheGirls = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 226,
   ownLength: 3505,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1645650/203-drink-with-the-girls",

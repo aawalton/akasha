@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns002020ABoaryEnd = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 20,
   ownLength: 3745,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188762/20-a-boary-end",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns00099QuissingTheDungeon = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 9,
   ownLength: 1758,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/187302/9-quissing-the-dungeon",

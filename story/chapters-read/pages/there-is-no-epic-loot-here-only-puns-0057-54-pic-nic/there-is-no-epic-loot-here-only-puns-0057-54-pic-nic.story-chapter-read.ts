@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns005754PicNic = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 57,
   ownLength: 3788,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/209228/54-pic-nic",

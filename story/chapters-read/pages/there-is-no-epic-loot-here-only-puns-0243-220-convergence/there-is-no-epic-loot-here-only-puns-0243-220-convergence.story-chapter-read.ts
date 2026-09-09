@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0243220Convergence = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 243,
   ownLength: 4595,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2430678/220-convergence",

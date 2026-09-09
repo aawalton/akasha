@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0133117TheBuzzAboutShrooms = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 133,
   ownLength: 2264,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/463969/117-the-buzz-about-shrooms",

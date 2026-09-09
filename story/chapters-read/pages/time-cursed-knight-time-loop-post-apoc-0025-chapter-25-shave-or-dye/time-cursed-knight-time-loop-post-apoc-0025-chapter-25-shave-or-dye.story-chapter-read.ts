@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0025Chapter25ShaveOrDye = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 25,
   ownLength: 2169,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3310149/chapter-25-shave-or-dye",

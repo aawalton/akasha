@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0009Chapter9DragonBlood = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 9,
   ownLength: 3117,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3252885/chapter-9-dragon-blood",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0224201TheEndOfAnEra = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 224,
   ownLength: 2128,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1637181/201-the-end-of-an-era",

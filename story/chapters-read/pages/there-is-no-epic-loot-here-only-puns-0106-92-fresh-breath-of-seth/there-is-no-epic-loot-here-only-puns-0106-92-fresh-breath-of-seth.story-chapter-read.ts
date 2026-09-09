@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns010692FreshBreathOfSeth = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 106,
   ownLength: 4199,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/356820/92-fresh-breath-of-seth",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns007164TheTreeOfWisdom = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 71,
   ownLength: 4554,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/236827/64-the-tree-of-wisdom",

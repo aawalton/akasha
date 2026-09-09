@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0131115VastlyGiantBridge = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 131,
   ownLength: 2212,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/456447/115-vastly-giant-bridge",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0074SideStoryTheVillageOfWoodedly = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 74,
   ownLength: 3762,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/289529/side-story-the-village-of-woodedly",

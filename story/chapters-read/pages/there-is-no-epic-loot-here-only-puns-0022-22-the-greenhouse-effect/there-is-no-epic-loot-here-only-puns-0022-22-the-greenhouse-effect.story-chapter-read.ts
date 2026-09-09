@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns002222TheGreenhouseEffect = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 22,
   ownLength: 2403,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/189010/22-the-greenhouse-effect",

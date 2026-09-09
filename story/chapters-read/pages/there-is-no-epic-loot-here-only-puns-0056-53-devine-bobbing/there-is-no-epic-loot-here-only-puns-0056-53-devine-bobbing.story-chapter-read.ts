@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns005653DevineBobbing = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 56,
   ownLength: 4189,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/207351/53-devine-bobbing",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns005352Griminology = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 53,
   ownLength: 3354,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/201782/52-griminology",

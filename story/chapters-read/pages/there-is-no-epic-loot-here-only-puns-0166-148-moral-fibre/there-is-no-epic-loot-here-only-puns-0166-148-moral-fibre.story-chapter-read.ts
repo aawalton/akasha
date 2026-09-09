@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0166148MoralFibre = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 166,
   ownLength: 2977,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/816471/148-moral-fibre",

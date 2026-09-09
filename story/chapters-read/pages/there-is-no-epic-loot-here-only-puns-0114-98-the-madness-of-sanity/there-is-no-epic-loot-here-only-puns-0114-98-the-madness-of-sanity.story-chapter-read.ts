@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns011498TheMadnessOfSanity = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 114,
   ownLength: 3836,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/373865/98-the-madness-of-sanity",

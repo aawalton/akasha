@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0199178StarsInYouEyes = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 199,
   ownLength: 2016,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1220240/178-stars-in-you-eyes",

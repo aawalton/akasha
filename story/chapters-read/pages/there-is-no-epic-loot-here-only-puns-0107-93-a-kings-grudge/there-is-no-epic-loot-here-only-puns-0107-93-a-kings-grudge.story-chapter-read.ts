@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns010793AKingsGrudge = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 107,
   ownLength: 3921,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/357549/93-a-kings-grudge",

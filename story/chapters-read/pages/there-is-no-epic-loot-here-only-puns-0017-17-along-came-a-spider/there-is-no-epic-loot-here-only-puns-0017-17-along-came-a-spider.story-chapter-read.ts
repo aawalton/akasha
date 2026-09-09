@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns001717AlongCameASpider = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 17,
   ownLength: 2399,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/188567/17-along-came-a-spider",

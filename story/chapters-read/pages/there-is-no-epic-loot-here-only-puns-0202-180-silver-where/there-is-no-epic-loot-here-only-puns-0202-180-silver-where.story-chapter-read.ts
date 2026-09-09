@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0202180SilverWhere = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 202,
   ownLength: 3129,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1242631/180-silver-where",

@@ -8,7 +8,7 @@ export const theWanderingInn0791InterludeHalfseekersPt9 = {
   story: "story-read/the-wandering-inn",
   position: 791,
   ownLength: 15854,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-07",
   externalLink: "https://wanderinginn.com/2025/10/07/interlude-halfseekers-pt-9/",
   prose: "txt",

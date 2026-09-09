@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns005955HeartOfTheJungle = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 59,
   ownLength: 3170,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/211880/55-heart-of-the-jungle",

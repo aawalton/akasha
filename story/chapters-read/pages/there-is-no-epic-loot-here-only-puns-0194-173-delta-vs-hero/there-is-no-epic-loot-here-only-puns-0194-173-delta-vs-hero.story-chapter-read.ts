@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0194173DeltaVsHero = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 194,
   ownLength: 3296,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1151805/173-delta-vs-hero",

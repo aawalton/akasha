@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0238215MerryTimes = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 238,
   ownLength: 2123,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1980990/215-merry-times",

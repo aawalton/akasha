@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0015Chapter15Hexenzeit = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 15,
   ownLength: 1637,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3278016/chapter-15-hexenzeit",

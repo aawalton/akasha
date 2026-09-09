@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0174156FairplayGoesBothWays = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 174,
   ownLength: 3505,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/911112/156-fairplay-goes-both-ways",

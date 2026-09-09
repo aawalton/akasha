@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns009281LongMaySheRain = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 92,
   ownLength: 3235,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/346603/81-long-may-she-rain",

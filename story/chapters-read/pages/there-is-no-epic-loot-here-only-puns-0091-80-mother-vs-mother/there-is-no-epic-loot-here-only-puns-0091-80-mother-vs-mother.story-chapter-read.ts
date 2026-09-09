@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns009180MotherVsMother = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 91,
   ownLength: 4034,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/346026/80-mother-vs-mother",

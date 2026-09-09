@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns002323NatureVsNurture = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 23,
   ownLength: 2053,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/189131/23-nature-vs-nurture",

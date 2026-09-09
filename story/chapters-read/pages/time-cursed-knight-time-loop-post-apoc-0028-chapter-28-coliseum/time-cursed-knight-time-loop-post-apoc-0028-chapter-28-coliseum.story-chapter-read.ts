@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0028Chapter28Coliseum = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 28,
   ownLength: 2259,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3318224/chapter-28-coliseum",

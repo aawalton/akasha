@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0252229PreachingToTheChoir = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 252,
   ownLength: 3002,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/2847053/229-preaching-to-the-choir",

@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0011Chapter11FireIsComing = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 11,
   ownLength: 2332,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3261314/chapter-11-fire-is-coming",

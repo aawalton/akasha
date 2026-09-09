@@ -8,7 +8,7 @@ export const theWanderingInn0792InterludeAcceptableRomance = {
   story: "story-read/the-wandering-inn",
   position: 792,
   ownLength: 8831,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-12",
   externalLink: "https://wanderinginn.com/2025/10/12/interlude-acceptable-romance/",
   prose: "txt",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0216194ItsNotAllDoomAndGloom = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 216,
   ownLength: 3251,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1446108/194-its-not-all-doom-and-gloom",

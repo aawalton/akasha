@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0039Chapter39TheImperialChronicle =
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 39,
   ownLength: 2926,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3371866/chapter-39-the-imperial-chronicle",

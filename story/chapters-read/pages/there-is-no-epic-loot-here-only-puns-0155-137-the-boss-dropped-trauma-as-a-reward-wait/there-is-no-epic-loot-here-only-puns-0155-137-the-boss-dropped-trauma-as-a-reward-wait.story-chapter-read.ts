@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0155137TheBossDroppedTraumaAsARewardWa
   story: "there-is-no-epic-loot-here-only-puns",
   position: 155,
   ownLength: 2708,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/706490/137-the-boss-dropped-trauma-as-a-reward-wait",

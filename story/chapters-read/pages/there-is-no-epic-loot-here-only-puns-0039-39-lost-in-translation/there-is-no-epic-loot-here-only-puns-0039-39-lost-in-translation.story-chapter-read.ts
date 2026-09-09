@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns003939LostInTranslation = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 39,
   ownLength: 2408,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/194617/39-lost-in-translation",

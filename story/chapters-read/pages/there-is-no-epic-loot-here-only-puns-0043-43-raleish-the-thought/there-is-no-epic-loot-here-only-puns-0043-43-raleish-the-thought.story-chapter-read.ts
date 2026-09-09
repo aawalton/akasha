@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns004343RaleishTheThought = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 43,
   ownLength: 3405,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/195372/43-raleish-the-thought",

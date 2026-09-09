@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0183164FoodieBeGoodie = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 183,
   ownLength: 4358,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/997996/164-foodie-be-goodie",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns006258ThornInTheSide = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 62,
   ownLength: 3436,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/220835/58-thorn-in-the-side",

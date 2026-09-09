@@ -8,7 +8,7 @@ export const theWanderingInn08051054UegPt2 = {
   story: "story-read/the-wandering-inn",
   position: 805,
   ownLength: 38794,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-31",
   externalLink: "https://wanderinginn.com/2025/12/31/10-54-ueg-pt-2/",
   prose: "txt",

@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0231208TearsAndImps = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 231,
   ownLength: 2510,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/1692848/208-tears-and-imps",

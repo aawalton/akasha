@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns009382JackAndDeltaGoDownATunnel = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 93,
   ownLength: 3766,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/347066/82-jack-and-delta-go-down-a-tunnel",

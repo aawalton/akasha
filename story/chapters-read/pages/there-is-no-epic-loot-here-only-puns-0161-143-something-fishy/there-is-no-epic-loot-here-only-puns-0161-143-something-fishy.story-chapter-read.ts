@@ -8,7 +8,7 @@ export const thereIsNoEpicLootHereOnlyPuns0161143SomethingFishy = {
   story: "there-is-no-epic-loot-here-only-puns",
   position: 161,
   ownLength: 3020,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/15935/there-is-no-epic-loot-here-only-puns/chapter/751211/143-something-fishy",
