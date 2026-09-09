@@ -7,7 +7,7 @@ export const vorkosiganSagaWinterfairGifts = {
   title: "Vorkosigan Saga: Winterfair Gifts",
   status: "not-started",
   author: "Lois McMaster Bujold",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 22750,
   source: "kindle",
   externalId: "B004I6CZ28",

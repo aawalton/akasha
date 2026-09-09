@@ -7,6 +7,6 @@ export const theMovingFinger = {
   title: "The Moving Finger",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
 } as const satisfies Book

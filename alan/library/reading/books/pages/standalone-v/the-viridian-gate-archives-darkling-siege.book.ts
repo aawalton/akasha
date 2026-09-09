@@ -6,7 +6,7 @@ export const theViridianGateArchivesDarklingSiege = {
   slug: "the-viridian-gate-archives-darkling-siege",
   title: "The Viridian Gate Archives: Darkling Siege",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 131250,
   ownProgress: 131250,

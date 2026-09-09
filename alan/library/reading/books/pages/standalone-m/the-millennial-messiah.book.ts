@@ -7,7 +7,7 @@ export const theMillennialMessiah = {
   title: "The Millennial Messiah",
   status: "not-started",
   author: "Bruce R. McConkie",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 177750,
 } as const satisfies Book

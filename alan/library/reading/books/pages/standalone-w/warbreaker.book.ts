@@ -7,7 +7,7 @@ export const warbreaker = {
   title: "Warbreaker",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 159500,
   source: "kindle",

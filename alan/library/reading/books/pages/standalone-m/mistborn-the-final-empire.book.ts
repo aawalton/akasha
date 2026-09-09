@@ -8,7 +8,7 @@ export const mistbornTheFinalEmpire = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 167250,
   ownProgress: 167250,

@@ -7,6 +7,6 @@ export const theRighteousMind = {
   title: "The Righteous Mind",
   status: "not-started",
   author: "Jonathan Haidt",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 165300,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const warGodTheWarGodsOwn = {
   title: "War God: The War God's Own",
   status: "not-started",
   author: "David Weber, Nick Sullivan",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 129750,
   source: "kindle",

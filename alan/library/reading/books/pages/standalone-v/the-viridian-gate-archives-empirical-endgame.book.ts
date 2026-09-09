@@ -6,7 +6,7 @@ export const theViridianGateArchivesEmpiricalEndgame = {
   slug: "the-viridian-gate-archives-empirical-endgame",
   title: "The Viridian Gate Archives: Empirical Endgame",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 142250,
   publishedAt: "2022-01-04",

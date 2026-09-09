@@ -7,7 +7,7 @@ export const sevenMiraclesThatSavedTheWorld = {
   title: "Seven Miracles that Saved the World",
   status: "not-started",
   author: "Chris Stewart, Ted Stewart",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 71000,
 } as const satisfies Book

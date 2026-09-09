@@ -7,6 +7,6 @@ export const quiet = {
   title: "Quiet",
   status: "not-started",
   author: "Susan Cain",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 159750,
 } as const satisfies Book

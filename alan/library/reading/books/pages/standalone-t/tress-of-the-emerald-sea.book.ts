@@ -7,7 +7,7 @@ export const tressOfTheEmeraldSea = {
   title: "Tress of the Emerald Sea",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 118750,
   source: "kindle",

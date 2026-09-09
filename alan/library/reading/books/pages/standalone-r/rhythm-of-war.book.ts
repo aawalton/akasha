@@ -7,7 +7,7 @@ export const rhythmOfWar = {
   title: "Rhythm of War",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 307500,
   source: "kindle",

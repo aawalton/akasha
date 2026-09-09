@@ -7,7 +7,7 @@ export const safeholdAMightyFortress = {
   title: "Safehold: A Mighty Fortress",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 286750,
   source: "kindle",

@@ -7,7 +7,7 @@ export const theMysteryOfTheBlueTrain = {
   title: "The Mystery of the Blue Train",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 79250,
 } as const satisfies Book

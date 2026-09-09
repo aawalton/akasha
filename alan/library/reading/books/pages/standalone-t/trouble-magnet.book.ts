@@ -7,6 +7,6 @@ export const troubleMagnet = {
   title: "Trouble Magnet",
   status: "not-started",
   author: "Alan Dean Foster",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
 } as const satisfies Book

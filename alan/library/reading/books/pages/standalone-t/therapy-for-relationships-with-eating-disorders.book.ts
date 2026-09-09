@@ -7,7 +7,7 @@ export const therapyForRelationshipsWithEatingDisorders = {
   title: "Therapy for Relationships with Eating Disorders",
   status: "not-started",
   author: "Kim Lampson",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 155500,
   publishedAt: "2024-12-03",
 } as const satisfies Book

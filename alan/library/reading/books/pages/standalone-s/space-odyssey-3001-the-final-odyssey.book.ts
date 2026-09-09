@@ -7,7 +7,7 @@ export const spaceOdyssey3001TheFinalOdyssey = {
   title: "Space Odyssey: 3001: The Final Odyssey",
   status: "not-started",
   author: "Arthur C. Clarke",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 73000,
   source: "kindle",

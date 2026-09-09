@@ -7,7 +7,7 @@ export const ultimateLevel1UltimateTruths = {
   title: "Ultimate Level 1: Ultimate Truths",
   status: "completed",
   author: "Charles Dickens",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 168750,
   ownProgress: 168750,

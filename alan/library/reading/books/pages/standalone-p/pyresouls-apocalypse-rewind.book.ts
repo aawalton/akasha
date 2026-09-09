@@ -6,7 +6,7 @@ export const pyresoulsApocalypseRewind = {
   slug: "pyresouls-apocalypse-rewind",
   title: "Pyresouls Apocalypse: Rewind",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 114500,
   ownProgress: 114500,

@@ -7,6 +7,6 @@ export const noDramaDiscipline = {
   title: "No-Drama Discipline",
   status: "not-started",
   author: "Daniel J. Siegel",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 124500,
 } as const satisfies Book

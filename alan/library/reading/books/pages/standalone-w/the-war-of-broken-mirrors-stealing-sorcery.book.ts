@@ -7,7 +7,7 @@ export const theWarOfBrokenMirrorsStealingSorcery = {
   title: "The War of Broken Mirrors: Stealing Sorcery",
   status: "completed",
   author: "Andrew Rowe",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 155250,
   ownProgress: 155250,

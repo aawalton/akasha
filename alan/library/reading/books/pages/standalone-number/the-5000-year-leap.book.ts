@@ -7,7 +7,7 @@ export const the5000YearLeap = {
   title: "The 5000 Year Leap",
   status: "not-started",
   author: "W. Cleon Skousen",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 77500,
 } as const satisfies Book

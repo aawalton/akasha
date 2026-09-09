@@ -8,7 +8,7 @@ export const teachingsOfJosephSmith = {
   status: "completed",
   rank: "B",
   author: "Joseph Smith, Jr.",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 182500,
   ownProgress: 182500,

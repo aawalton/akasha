@@ -8,7 +8,7 @@ export const thingsAsTheyReallyAre = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 30250,
   ownProgress: 30250,

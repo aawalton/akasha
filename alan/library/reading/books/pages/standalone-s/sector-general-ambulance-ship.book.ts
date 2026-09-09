@@ -7,7 +7,7 @@ export const sectorGeneralAmbulanceShip = {
   title: "Sector General: Ambulance Ship",
   status: "not-started",
   author: "James White",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 46000,
   publishedAt: "1979-09-12",

@@ -6,7 +6,7 @@ export const sermonsAndWritingsOfPresidentEzraTaftBenson = {
   slug: "sermons-and-writings-of-president-ezra-taft-benson",
   title: "Sermons and Writings of President Ezra Taft Benson",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 86000,
 } as const satisfies Book

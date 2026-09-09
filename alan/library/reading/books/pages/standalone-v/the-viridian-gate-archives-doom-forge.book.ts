@@ -6,7 +6,7 @@ export const theViridianGateArchivesDoomForge = {
   slug: "the-viridian-gate-archives-doom-forge",
   title: "The Viridian Gate Archives: Doom Forge",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 82250,
   ownProgress: 82250,

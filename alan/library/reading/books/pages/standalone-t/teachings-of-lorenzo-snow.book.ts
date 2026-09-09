@@ -7,7 +7,7 @@ export const teachingsOfLorenzoSnow = {
   title: "Teachings of Lorenzo Snow",
   status: "not-started",
   author: "Lorenzo Snow",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 49000,
 } as const satisfies Book

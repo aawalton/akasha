@@ -7,7 +7,7 @@ export const theScarlettLetter = {
   title: "The Scarlett Letter",
   status: "not-started",
   author: "Nathaniel Hawthorne",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 72750,
 } as const satisfies Book

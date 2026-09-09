@@ -6,7 +6,7 @@ export const weaponsAndWieldersSixSacredSwords = {
   slug: "weapons-and-wielders-six-sacred-swords",
   title: "Weapons and Wielders: Six Sacred Swords",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 102000,
   ownProgress: 102000,

@@ -7,7 +7,7 @@ export const orientalFairyTales = {
   title: "Oriental Fairy Tales",
   status: "not-started",
   author: "Edwin Arnold",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 156250,
 } as const satisfies Book

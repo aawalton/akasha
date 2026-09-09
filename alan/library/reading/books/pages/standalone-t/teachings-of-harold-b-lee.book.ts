@@ -7,7 +7,7 @@ export const teachingsOfHaroldBLee = {
   title: "Teachings of Harold B. Lee",
   status: "not-started",
   author: "Harold B. Lee",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 160000,
 } as const satisfies Book

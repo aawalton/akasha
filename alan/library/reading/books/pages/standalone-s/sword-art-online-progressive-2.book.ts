@@ -7,7 +7,7 @@ export const swordArtOnlineProgressive2 = {
   title: "Sword Art Online Progressive 2",
   status: "completed",
   author: "Reki Kawahara",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 58500,
   ownProgress: 58500,

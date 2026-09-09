@@ -8,7 +8,7 @@ export const theScrivenersBones = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 89250,
   ownProgress: 89250,

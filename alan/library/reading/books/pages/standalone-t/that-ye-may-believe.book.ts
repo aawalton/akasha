@@ -8,7 +8,7 @@ export const thatYeMayBelieve = {
   status: "completed",
   rank: "C",
   author: "David Keppel",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 28000,
   ownProgress: 28000,

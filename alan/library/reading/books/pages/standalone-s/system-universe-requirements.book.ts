@@ -6,7 +6,7 @@ export const systemUniverseRequirements = {
   slug: "system-universe-requirements",
   title: "System Universe: Requirements",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 168000,
   ownProgress: 168000,

@@ -7,7 +7,7 @@ export const pernAllTheWeyrsOfPern = {
   title: "Pern: All the Weyrs of Pern",
   status: "not-started",
   author: "Anne McCaffrey, Mel Foster",
-  unitSlug: "words",
+  unit: "words",
   position: 22,
   ownLength: 112000,
   source: "kindle",

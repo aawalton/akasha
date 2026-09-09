@@ -7,7 +7,7 @@ export const whatMakesLoveLast = {
   title: "What Makes Love Last?",
   status: "in-progress",
   author: "John Mordechai Gottman",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 107000,
   publishedAt: "2012-09-04",
 } as const satisfies Book

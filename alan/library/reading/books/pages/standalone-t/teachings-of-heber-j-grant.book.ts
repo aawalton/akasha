@@ -7,7 +7,7 @@ export const teachingsOfHeberJGrant = {
   title: "Teachings of Heber J. Grant",
   status: "not-started",
   author: "Staff of Publisher",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 94000,
 } as const satisfies Book

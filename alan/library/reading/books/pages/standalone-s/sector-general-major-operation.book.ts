@@ -7,7 +7,7 @@ export const sectorGeneralMajorOperation = {
   title: "Sector General: Major Operation",
   status: "not-started",
   author: "James White",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 10000,
   publishedAt: "1981-04-12",

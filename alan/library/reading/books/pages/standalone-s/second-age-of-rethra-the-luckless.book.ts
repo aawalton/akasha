@@ -7,7 +7,7 @@ export const secondAgeOfRethraTheLuckless = {
   title: "Second Age of Rethra: The Luckless",
   status: "completed",
   rank: "A",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 67000,
   ownProgress: 67000,

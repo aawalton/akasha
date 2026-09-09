@@ -7,7 +7,7 @@ export const theWayOfKingsPrime = {
   title: "The Way of Kings Prime",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 200500,
 } as const satisfies Book

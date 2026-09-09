@@ -7,7 +7,7 @@ export const warGodWindRidersOath = {
   title: "War God: Wind Rider's Oath",
   status: "not-started",
   author: "Winsor McCay",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 130500,
   source: "kindle",

@@ -7,7 +7,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineSecondSquadJamStart = {
   title: "Sword Art Online Alternative Gun Gale Online: Second Squad Jam: Start",
   status: "not-started",
   author: "Reki Kawahara, Keiichi Sigsawa",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 56250,
   publishedAt: "2018-09-18",

@@ -7,7 +7,7 @@ export const pernTheDolphinsOfPern = {
   title: "Pern: The Dolphins of Pern",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 23,
   ownLength: 96000,
   source: "kindle",

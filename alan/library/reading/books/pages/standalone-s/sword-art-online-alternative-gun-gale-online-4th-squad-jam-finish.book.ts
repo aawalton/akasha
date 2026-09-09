@@ -7,7 +7,7 @@ export const swordArtOnlineAlternativeGunGaleOnline4thSquadJamFinish = {
   title: "Sword Art Online Alternative Gun Gale Online: 4th Squad Jam: Finish",
   status: "not-started",
   author: "Reki Kawahara, Keiichi Sigsawa",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 93250,
   publishedAt: "2021-06-22",

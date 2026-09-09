@@ -7,6 +7,6 @@ export const mindsight = {
   title: "Mindsight",
   status: "not-started",
   author: "Daniel J. Siegel",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 176250,
 } as const satisfies Book

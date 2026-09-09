@@ -8,7 +8,7 @@ export const snapshot = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 26750,
   ownProgress: 26750,

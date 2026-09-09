@@ -7,7 +7,7 @@ export const monsterHuntersInternationalMonsterHunterLegion = {
   title: "Monster Hunters International: Monster Hunter Legion",
   status: "not-started",
   author: "Matt Fox",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 74250,
   source: "kindle",

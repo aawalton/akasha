@@ -7,6 +7,6 @@ export const peak = {
   title: "Peak",
   status: "not-started",
   author: "Roland Smith",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 150000,
 } as const satisfies Book

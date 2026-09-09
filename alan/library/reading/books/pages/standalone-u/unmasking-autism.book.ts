@@ -7,6 +7,6 @@ export const unmaskingAutism = {
   title: "Unmasking Autism",
   status: "not-started",
   author: "Devon Price",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 147750,
 } as const satisfies Book

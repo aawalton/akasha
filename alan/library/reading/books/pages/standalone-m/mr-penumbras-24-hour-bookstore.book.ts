@@ -7,7 +7,7 @@ export const mrPenumbras24HourBookstore = {
   title: "Mr. Penumbra's 24-Hour Bookstore",
   status: "not-started",
   author: "Robin Sloan, Robin Sloan, Ari Fliakos, Robin Sloane",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 72000,
   publishedAt: "2013-09-24",
   source: "kindle",

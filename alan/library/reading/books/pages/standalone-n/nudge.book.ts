@@ -7,6 +7,6 @@ export const nudge = {
   title: "Nudge",
   status: "not-started",
   author: "Richard H. Thaler, Cass R. Sunstein",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 171450,
 } as const satisfies Book

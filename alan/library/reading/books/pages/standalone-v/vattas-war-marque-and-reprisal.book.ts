@@ -6,7 +6,7 @@ export const vattasWarMarqueAndReprisal = {
   slug: "vattas-war-marque-and-reprisal",
   title: "Vatta's War: Marque and Reprisal",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 100000,
   source: "kindle",

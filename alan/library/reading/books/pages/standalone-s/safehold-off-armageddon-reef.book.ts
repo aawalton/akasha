@@ -7,7 +7,7 @@ export const safeholdOffArmageddonReef = {
   title: "Safehold: Off Armageddon Reef",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 200000,
   source: "kindle",
   externalId: "B000Q67KJ2",

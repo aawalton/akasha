@@ -7,6 +7,6 @@ export const aPocketFullOfRye = {
   title: "A Pocket Full of Rye",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
 } as const satisfies Book

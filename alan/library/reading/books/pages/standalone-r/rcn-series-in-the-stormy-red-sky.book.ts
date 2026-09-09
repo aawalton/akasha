@@ -6,7 +6,7 @@ export const rcnSeriesInTheStormyRedSky = {
   slug: "rcn-series-in-the-stormy-red-sky",
   title: "RCN Series: In the Stormy Red Sky",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 120500,
   source: "kindle",

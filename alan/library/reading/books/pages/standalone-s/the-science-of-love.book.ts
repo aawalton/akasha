@@ -7,6 +7,6 @@ export const theScienceOfLove = {
   title: "The Science of Love",
   status: "not-started",
   author: "John Baines",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 76050,
 } as const satisfies Book

@@ -8,7 +8,7 @@ export const wheelOfTimeTheFiresOfHeaven = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 231500,
   ownProgress: 231500,

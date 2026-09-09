@@ -7,7 +7,7 @@ export const rama2 = {
   title: "Rama 2",
   status: "not-started",
   author: "Arthur C. Clarke, Lee Clarke",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 127500,
   source: "kindle",

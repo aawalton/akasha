@@ -8,7 +8,7 @@ export const redawn = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson, Janci Patterson",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 104250,
   ownProgress: 104250,

@@ -7,7 +7,7 @@ export const monsterHuntersInternationalMonsterHunterNemesis = {
   title: "Monster Hunters International: Monster Hunter Nemesis",
   status: "not-started",
   author: "Matt Fox",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 88250,
   source: "kindle",

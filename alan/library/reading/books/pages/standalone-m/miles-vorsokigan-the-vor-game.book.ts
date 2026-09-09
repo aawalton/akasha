@@ -6,7 +6,7 @@ export const milesVorsokiganTheVorGame = {
   slug: "miles-vorsokigan-the-vor-game",
   title: "Miles Vorsokigan: The Vor Game",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 90750,
   source: "kindle",

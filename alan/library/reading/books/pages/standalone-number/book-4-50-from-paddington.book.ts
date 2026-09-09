@@ -7,6 +7,6 @@ export const book450FromPaddington = {
   title: "4.50 from Paddington",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
 } as const satisfies Book

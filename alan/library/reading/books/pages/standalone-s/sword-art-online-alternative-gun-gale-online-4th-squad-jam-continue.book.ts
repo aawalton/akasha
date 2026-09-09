@@ -6,7 +6,7 @@ export const swordArtOnlineAlternativeGunGaleOnline4thSquadJamContinue = {
   slug: "sword-art-online-alternative-gun-gale-online-4th-squad-jam-continue",
   title: "Sword Art Online Alternative Gun Gale Online: 4th Squad Jam: Continue",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 49750,
   publishedAt: "2021-03-02",

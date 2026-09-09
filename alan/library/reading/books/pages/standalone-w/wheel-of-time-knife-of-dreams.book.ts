@@ -8,7 +8,7 @@ export const wheelOfTimeKnifeOfDreams = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 221500,
   ownProgress: 221500,

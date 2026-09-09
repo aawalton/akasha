@@ -6,7 +6,7 @@ export const rwbyNovelSeriesBeforeTheDawnAnAfkBook = {
   slug: "rwby-novel-series-before-the-dawn-an-afk-book",
   title: "RWBY Novel Series: Before the Dawn: An AFK Book",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 75750,
   publishedAt: "2020-07-21",

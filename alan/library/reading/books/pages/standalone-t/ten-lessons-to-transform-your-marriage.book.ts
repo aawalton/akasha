@@ -7,6 +7,6 @@ export const tenLessonsToTransformYourMarriage = {
   title: "Ten Lessons to Transform Your Marriage",
   status: "not-started",
   author: "John Mordechai Gottman, Julie Schwartz Gottman, Joan Declaire",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 74550,
 } as const satisfies Book

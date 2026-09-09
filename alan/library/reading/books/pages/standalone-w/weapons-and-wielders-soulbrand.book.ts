@@ -6,7 +6,7 @@ export const weaponsAndWieldersSoulbrand = {
   slug: "weapons-and-wielders-soulbrand",
   title: "Weapons and Wielders: Soulbrand",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 190500,
   publishedAt: "2021-06-11",

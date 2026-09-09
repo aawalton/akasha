@@ -6,7 +6,7 @@ export const theSpokenMageVoiceOfCommand = {
   slug: "the-spoken-mage-voice-of-command",
   title: "The Spoken Mage: Voice of Command",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 67000,
   source: "kindle",

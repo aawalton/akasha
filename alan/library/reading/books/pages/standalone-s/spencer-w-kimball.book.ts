@@ -7,7 +7,7 @@ export const spencerWKimball = {
   title: "Spencer W. Kimball",
   status: "not-started",
   author: "Spencer W. Kimball",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 106750,
 } as const satisfies Book

@@ -7,6 +7,6 @@ export const play = {
   title: "Play",
   status: "not-started",
   author: "Eric Berne",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 105450,
 } as const satisfies Book

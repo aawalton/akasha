@@ -6,7 +6,7 @@ export const theStubbornSkillGrinderInATimeLoop3 = {
   slug: "the-stubborn-skill-grinder-in-a-time-loop-3",
   title: "The Stubborn Skill-Grinder In A Time Loop 3",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 5500,
   ownProgress: 5500,

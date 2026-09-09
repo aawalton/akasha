@@ -7,7 +7,7 @@ export const monsterHuntersInternationalMonsterHunterInternational = {
   title: "Monster Hunters International: Monster Hunter International",
   status: "not-started",
   author: "Larry Correia",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 162500,
   source: "kindle",
   externalId: "B00XLQ9PF6",

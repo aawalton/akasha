@@ -7,7 +7,7 @@ export const sylOsmosis = {
   title: "Syl: Osmosis",
   status: "completed",
   author: "Lunadea",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 137500,
   ownProgress: 137500,

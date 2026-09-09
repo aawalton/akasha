@@ -7,7 +7,7 @@ export const theMysteriousAffairAtStyles = {
   title: "The Mysterious Affair at Styles",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 74000,
 } as const satisfies Book

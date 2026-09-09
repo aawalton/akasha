@@ -7,7 +7,7 @@ export const spaceOdyssey2001ASpaceOdyssey = {
   title: "Space Odyssey: 2001: A Space Odyssey",
   status: "not-started",
   author: "Arthur C. Clarke",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 63750,
   source: "kindle",
   externalId: "B01A6E8EQ6",

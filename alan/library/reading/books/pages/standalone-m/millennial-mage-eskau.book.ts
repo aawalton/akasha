@@ -6,7 +6,7 @@ export const millennialMageEskau = {
   slug: "millennial-mage-eskau",
   title: "Millennial Mage: Eskau",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 198250,
   ownProgress: 198250,

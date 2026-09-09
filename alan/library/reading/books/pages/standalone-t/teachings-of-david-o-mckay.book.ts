@@ -7,7 +7,7 @@ export const teachingsOfDavidOMckay = {
   title: "Teachings of David O. McKay",
   status: "not-started",
   author: "David Oman McKay",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 146000,
 } as const satisfies Book

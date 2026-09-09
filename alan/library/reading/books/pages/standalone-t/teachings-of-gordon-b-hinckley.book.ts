@@ -7,7 +7,7 @@ export const teachingsOfGordonBHinckley = {
   title: "Teachings of Gordon B. Hinckley",
   status: "not-started",
   author: "Gordon Bitner Hinckley",
-  unitSlug: "words",
+  unit: "words",
   position: 16,
   ownLength: 181750,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const poirotInvestigates = {
   title: "Poirot Investigates",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 77500,
 } as const satisfies Book

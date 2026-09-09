@@ -7,7 +7,7 @@ export const pernTheWhiteDragon = {
   title: "Pern: The White Dragon",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 20,
   ownLength: 117000,
   publishedAt: "2002-02-26",

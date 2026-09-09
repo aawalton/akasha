@@ -6,7 +6,7 @@ export const swordArtOnlineAlternativeGunGaleOnline3rdSquadJamBetrayersChoice = 
   slug: "sword-art-online-alternative-gun-gale-online-3rd-squad-jam-betrayers-choice",
   title: "Sword Art Online Alternative Gun Gale Online: 3rd Squad Jam: Betrayers' Choice",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 47000,
   publishedAt: "2019-07-30",

@@ -7,7 +7,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineOneSummerDay = {
   title: "Sword Art Online Alternative Gun Gale Online: One Summer Day",
   status: "not-started",
   author: "Reki Kawahara, Keiichi Sigsawa",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 56000,
   publishedAt: "2020-02-25",

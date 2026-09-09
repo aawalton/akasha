@@ -7,7 +7,7 @@ export const whiteSand1 = {
   title: "White Sand 1",
   status: "not-started",
   author: "Brandon Sanderson, Rik Hoskin, Julius M. Gopez",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 40000,
 } as const satisfies Book

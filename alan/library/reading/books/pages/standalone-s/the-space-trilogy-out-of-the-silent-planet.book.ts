@@ -7,7 +7,7 @@ export const theSpaceTrilogyOutOfTheSilentPlanet = {
   title: "The Space Trilogy: Out of the Silent Planet",
   status: "not-started",
   author: "C. S. Lewis",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 45000,
   publishedAt: "2012-04-03",
   source: "kindle",

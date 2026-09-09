@@ -7,6 +7,6 @@ export const mistakesWereMadeButNotByMe = {
   title: "Mistakes Were Made (But Not By Me)",
   status: "not-started",
   author: "Carol Tavris, Elliot Aronson",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 136050,
 } as const satisfies Book

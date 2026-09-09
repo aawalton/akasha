@@ -7,7 +7,7 @@ export const robertLangdonTheSecretOfSecrets = {
   title: "Robert Langdon: The Secret of Secrets",
   status: "not-started",
   author: "Dan Brown",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 169500,
   publishedAt: "2025-09-09",

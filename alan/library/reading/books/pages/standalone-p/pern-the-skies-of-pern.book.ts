@@ -7,7 +7,7 @@ export const pernTheSkiesOfPern = {
   title: "Pern: The Skies of Pern",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 24,
   ownLength: 120000,
   source: "kindle",

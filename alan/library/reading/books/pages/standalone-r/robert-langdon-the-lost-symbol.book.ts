@@ -7,7 +7,7 @@ export const robertLangdonTheLostSymbol = {
   title: "Robert Langdon: The Lost Symbol",
   status: "not-started",
   author: "Dan Brown",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 164500,
   source: "kindle",

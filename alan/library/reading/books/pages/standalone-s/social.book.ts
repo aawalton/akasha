@@ -7,6 +7,6 @@ export const social = {
   title: "Social",
   status: "not-started",
   author: "Thelma Lee-Mendoza",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 169050,
 } as const satisfies Book

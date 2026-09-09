@@ -6,7 +6,7 @@ export const sylNucleus = {
   slug: "syl-nucleus",
   title: "Syl: Nucleus",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 165250,
   ownProgress: 165250,

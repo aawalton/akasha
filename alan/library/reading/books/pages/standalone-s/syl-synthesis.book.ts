@@ -6,7 +6,7 @@ export const sylSynthesis = {
   slug: "syl-synthesis",
   title: "Syl: Synthesis",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 161500,
   ownProgress: 161500,

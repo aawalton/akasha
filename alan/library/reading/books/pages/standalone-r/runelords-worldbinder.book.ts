@@ -7,7 +7,7 @@ export const runelordsWorldbinder = {
   title: "Runelords: Worldbinder",
   status: "not-started",
   author: "David Farland",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 96000,
   source: "kindle",

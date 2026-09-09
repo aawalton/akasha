@@ -7,7 +7,7 @@ export const theWideGreenWorldSeriesLegacy = {
   title: "The Wide Green World Series: Legacy",
   status: "not-started",
   author: "Bible",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 92250,
   source: "kindle",

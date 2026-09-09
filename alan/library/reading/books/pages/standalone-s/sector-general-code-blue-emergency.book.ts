@@ -7,7 +7,7 @@ export const sectorGeneralCodeBlueEmergency = {
   title: "Sector General: Code Blue - Emergency",
   status: "not-started",
   author: "James White",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 70000,
   publishedAt: "1987-06-12",

@@ -7,7 +7,7 @@ export const sectorGeneralTheGenocidalHealer = {
   title: "Sector General: The Genocidal Healer",
   status: "not-started",
   author: "James White",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 54750,
   publishedAt: "1992-01-13",

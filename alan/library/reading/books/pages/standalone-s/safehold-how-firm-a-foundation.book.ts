@@ -7,7 +7,7 @@ export const safeholdHowFirmAFoundation = {
   title: "Safehold: How Firm a Foundation",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 152000,
   source: "kindle",

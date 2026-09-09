@@ -7,6 +7,6 @@ export const takenAtTheFlood = {
   title: "Taken at the Flood",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 23,
 } as const satisfies Book

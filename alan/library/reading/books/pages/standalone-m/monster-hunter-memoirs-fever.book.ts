@@ -7,7 +7,7 @@ export const monsterHunterMemoirsFever = {
   title: "Monster Hunter Memoirs: Fever",
   status: "not-started",
   author: "Larry Correia, John Ringo, Oliver Wyman",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 88000,
   source: "kindle",

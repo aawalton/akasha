@@ -7,7 +7,7 @@ export const teachingsOfEzraTaftBenson = {
   title: "Teachings of Ezra Taft Benson",
   status: "not-started",
   author: "Ezra Taft Benson",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 176500,
 } as const satisfies Book

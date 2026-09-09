@@ -7,7 +7,7 @@ export const pernNerilkasStory = {
   title: "Pern: Nerilka's Story",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 52000,
   source: "kindle",

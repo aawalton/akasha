@@ -8,7 +8,7 @@ export const skyward = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 128250,
   ownProgress: 128250,

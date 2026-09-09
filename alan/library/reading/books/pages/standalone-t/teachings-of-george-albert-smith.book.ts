@@ -7,7 +7,7 @@ export const teachingsOfGeorgeAlbertSmith = {
   title: "Teachings of George Albert Smith",
   status: "not-started",
   author: "Smith, George Albert",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 49000,
 } as const satisfies Book

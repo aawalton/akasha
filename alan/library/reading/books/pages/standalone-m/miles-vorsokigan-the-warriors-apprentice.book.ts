@@ -6,7 +6,7 @@ export const milesVorsokiganTheWarriorsApprentice = {
   slug: "miles-vorsokigan-the-warriors-apprentice",
   title: "Miles Vorsokigan: The Warrior's Apprentice",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 93000,
   source: "kindle",

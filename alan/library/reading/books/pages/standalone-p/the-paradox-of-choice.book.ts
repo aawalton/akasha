@@ -7,6 +7,6 @@ export const theParadoxOfChoice = {
   title: "The Paradox of Choice",
   status: "not-started",
   author: "Barry Schwartz, Ken Kliban",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 105450,
 } as const satisfies Book

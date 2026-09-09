@@ -7,7 +7,7 @@ export const book10PrinciplesForDoingEffectiveCouplesTherapy = {
   title: "10 Principles for Doing Effective Couples Therapy",
   status: "not-started",
   author: "Julie Schwartz Gottman, John Mordechai Gottman",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 107750,
   publishedAt: "2018-10-23",
 } as const satisfies Book

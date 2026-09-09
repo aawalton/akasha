@@ -7,7 +7,7 @@ export const monsterHunterMemoirsSinners = {
   title: "Monster Hunter Memoirs: Sinners",
   status: "not-started",
   author: "Larry Correia, John Ringo",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 64500,
   source: "kindle",

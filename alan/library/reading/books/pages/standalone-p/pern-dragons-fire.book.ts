@@ -7,7 +7,7 @@ export const pernDragonsFire = {
   title: "Pern: Dragon's Fire",
   status: "not-started",
   author: "Anne McCaffrey, Todd McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 96000,
   source: "kindle",

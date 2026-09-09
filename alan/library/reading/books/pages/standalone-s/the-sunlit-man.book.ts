@@ -7,7 +7,7 @@ export const theSunlitMan = {
   title: "The Sunlit Man",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 111500,
   source: "kindle",

@@ -7,6 +7,6 @@ export const realityIsBroken = {
   title: "Reality Is Broken",
   status: "not-started",
   author: "Jane McGonigal",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 200700,
 } as const satisfies Book

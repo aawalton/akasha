@@ -7,6 +7,6 @@ export const runningFromTheDeity = {
   title: "Running from the Deity",
   status: "not-started",
   author: "Alan Dean Foster",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
 } as const satisfies Book

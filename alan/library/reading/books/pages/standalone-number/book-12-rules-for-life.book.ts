@@ -7,6 +7,6 @@ export const book12RulesForLife = {
   title: "12 Rules for Life",
   status: "not-started",
   author: "Jordan B. Peterson",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 235050,
 } as const satisfies Book

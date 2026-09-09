@@ -7,6 +7,6 @@ export const range = {
   title: "Range",
   status: "not-started",
   author: "David J. Epstein",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 161550,
 } as const satisfies Book

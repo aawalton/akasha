@@ -7,7 +7,7 @@ export const sylDiffusion = {
   title: "Syl: Diffusion",
   status: "completed",
   author: "Robert Combas",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 155750,
   ownProgress: 155750,

@@ -7,7 +7,7 @@ export const thePoetryOfRobertFrost = {
   title: "The Poetry of Robert Frost",
   status: "paused",
   author: "Robert Frost",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 132000,
   ownProgress: 59500,

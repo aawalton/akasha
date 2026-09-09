@@ -7,7 +7,7 @@ export const safeholdHellsFoundationsQuiver = {
   title: "Safehold: Hell's Foundations Quiver",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 196250,
   source: "kindle",

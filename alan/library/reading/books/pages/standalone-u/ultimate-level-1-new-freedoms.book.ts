@@ -7,7 +7,7 @@ export const ultimateLevel1NewFreedoms = {
   title: "Ultimate Level 1: New Freedoms",
   status: "completed",
   author: "Washington Irving",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 119250,
   ownProgress: 119250,

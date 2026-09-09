@@ -7,7 +7,7 @@ export const outOfTheDark = {
   title: "Out of the Dark",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 132250,
   source: "kindle",
   externalId: "B003P8Q5LM",

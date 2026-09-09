@@ -7,7 +7,7 @@ export const theWayOfKings = {
   title: "The Way of Kings",
   status: "paused",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 301500,
   ownProgress: 83000,

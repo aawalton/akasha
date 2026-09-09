@@ -6,7 +6,7 @@ export const book2024PlayersHandbook = {
   slug: "book-2024-players-handbook",
   title: "2024 Player's Handbook",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 96000,
 } as const satisfies Book

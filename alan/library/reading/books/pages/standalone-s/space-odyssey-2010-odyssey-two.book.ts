@@ -7,7 +7,7 @@ export const spaceOdyssey2010OdysseyTwo = {
   title: "Space Odyssey: 2010: Odyssey Two",
   status: "not-started",
   author: "Arthur C. Clarke",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 80500,
   source: "kindle",

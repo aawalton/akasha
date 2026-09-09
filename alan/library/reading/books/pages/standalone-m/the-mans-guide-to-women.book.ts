@@ -8,7 +8,7 @@ export const theMansGuideToWomen = {
   status: "not-started",
   author:
     "John Mordechai Gottman, Julie Schwartz Gottman, Douglas Abrams, Rachel Carlton Abrams M.D., Eric Michael Summerer",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 82000,
   publishedAt: "2016-02-02",
 } as const satisfies Book

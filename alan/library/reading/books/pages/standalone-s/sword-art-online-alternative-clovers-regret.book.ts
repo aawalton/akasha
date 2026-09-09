@@ -7,7 +7,7 @@ export const swordArtOnlineAlternativeCloversRegret = {
   title: "Sword Art Online Alternative Clover's Regret",
   status: "not-started",
   author: "Soichiro Watase, Ginta, Stephen Paul",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 63000,
   publishedAt: "2025-04-15",

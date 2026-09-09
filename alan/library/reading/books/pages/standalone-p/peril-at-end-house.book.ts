@@ -7,7 +7,7 @@ export const perilAtEndHouse = {
   title: "Peril at End House",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 67500,
 } as const satisfies Book

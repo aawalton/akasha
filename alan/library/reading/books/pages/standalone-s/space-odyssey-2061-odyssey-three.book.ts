@@ -7,7 +7,7 @@ export const spaceOdyssey2061OdysseyThree = {
   title: "Space Odyssey: 2061: Odyssey Three",
   status: "not-started",
   author: "Arthur C. Clarke",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 77000,
   source: "kindle",

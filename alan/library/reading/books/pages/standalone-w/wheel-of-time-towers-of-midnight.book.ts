@@ -8,7 +8,7 @@ export const wheelOfTimeTowersOfMidnight = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan, Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 216250,
   ownProgress: 216250,

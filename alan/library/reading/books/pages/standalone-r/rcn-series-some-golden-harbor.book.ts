@@ -6,7 +6,7 @@ export const rcnSeriesSomeGoldenHarbor = {
   slug: "rcn-series-some-golden-harbor",
   title: "RCN Series: Some Golden Harbor",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 117000,
   source: "kindle",

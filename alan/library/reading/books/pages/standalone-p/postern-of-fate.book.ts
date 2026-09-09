@@ -7,6 +7,6 @@ export const posternOfFate = {
   title: "Postern of Fate",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
 } as const satisfies Book

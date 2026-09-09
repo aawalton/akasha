@@ -7,7 +7,7 @@ export const strayCatStrut3 = {
   title: "Stray Cat Strut 3",
   status: "not-started",
   author: "RavensDagger",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 75750,
   publishedAt: "2023-02-21",

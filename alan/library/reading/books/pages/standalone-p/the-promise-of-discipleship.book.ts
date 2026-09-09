@@ -8,7 +8,7 @@ export const thePromiseOfDiscipleship = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 32250,
   ownProgress: 32250,

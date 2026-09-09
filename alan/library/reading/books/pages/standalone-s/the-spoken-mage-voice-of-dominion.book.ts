@@ -6,7 +6,7 @@ export const theSpokenMageVoiceOfDominion = {
   slug: "the-spoken-mage-voice-of-dominion",
   title: "The Spoken Mage: Voice of Dominion",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 79500,
   source: "kindle",

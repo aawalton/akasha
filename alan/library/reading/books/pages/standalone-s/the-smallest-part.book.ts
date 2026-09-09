@@ -8,7 +8,7 @@ export const theSmallestPart = {
   status: "completed",
   rank: "C",
   author: "Amy Harmon",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 19500,
   ownProgress: 19500,

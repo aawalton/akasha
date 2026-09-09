@@ -7,7 +7,7 @@ export const theRobotTheNakedSun = {
   title: "The Robot: The Naked Sun",
   status: "not-started",
   author: "Isaac Asimov",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 64250,
   source: "kindle",

@@ -7,7 +7,7 @@ export const vattasWarVictoryConditions = {
   title: "Vatta's War: Victory Conditions",
   status: "not-started",
   author: "Elizabeth Moon",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 104500,
   source: "kindle",

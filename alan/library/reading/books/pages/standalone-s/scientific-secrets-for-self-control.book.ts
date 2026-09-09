@@ -7,7 +7,7 @@ export const scientificSecretsForSelfControl = {
   title: "Scientific Secrets for Self-Control",
   status: "completed",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 45300,
   ownProgress: 45300,
 } as const satisfies Book

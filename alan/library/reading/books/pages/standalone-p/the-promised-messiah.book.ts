@@ -7,7 +7,7 @@ export const thePromisedMessiah = {
   title: "The Promised Messiah",
   status: "paused",
   author: "Bruce R. McConkie",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 153750,
   ownProgress: 8500,

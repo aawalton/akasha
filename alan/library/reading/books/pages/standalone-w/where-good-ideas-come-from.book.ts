@@ -7,6 +7,6 @@ export const whereGoodIdeasComeFrom = {
   title: "Where Good Ideas Come From",
   status: "not-started",
   author: "Steven Johnson",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 107550,
 } as const satisfies Book

@@ -6,7 +6,7 @@ export const rcnSeriesWhenTheTideRises = {
   slug: "rcn-series-when-the-tide-rises",
   title: "RCN Series: When the Tide Rises",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 97750,
   source: "kindle",

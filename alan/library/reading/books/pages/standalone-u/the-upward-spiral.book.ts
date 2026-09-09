@@ -7,6 +7,6 @@ export const theUpwardSpiral = {
   title: "The Upward Spiral",
   status: "not-started",
   author: "Alex Korb PhD, Daniel J. Siegel MD",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 83550,
 } as const satisfies Book

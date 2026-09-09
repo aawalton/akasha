@@ -7,7 +7,7 @@ export const theWideGreenWorldSeriesHorizon = {
   title: "The Wide Green World Series: Horizon",
   status: "not-started",
   author: "Oscar Wilde",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 111750,
   source: "kindle",

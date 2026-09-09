@@ -6,7 +6,7 @@ export const oldKingdomClarielTheLostAbhorsen = {
   slug: "old-kingdom-clariel-the-lost-abhorsen",
   title: "Old Kingdom: Clariel: The Lost Abhorsen",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 104750,
   source: "kindle",

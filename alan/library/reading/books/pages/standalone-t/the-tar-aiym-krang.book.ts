@@ -7,6 +7,6 @@ export const theTarAiymKrang = {
   title: "The Tar-Aiym Krang",
   status: "not-started",
   author: "Alan Dean Foster",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
 } as const satisfies Book

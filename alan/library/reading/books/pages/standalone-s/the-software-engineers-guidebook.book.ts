@@ -8,7 +8,7 @@ export const theSoftwareEngineersGuidebook = {
   status: "completed",
   rank: "B",
   author: "Gergely Orosz",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 97750,
   ownProgress: 97750,

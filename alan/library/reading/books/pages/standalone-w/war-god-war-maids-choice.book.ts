@@ -7,7 +7,7 @@ export const warGodWarMaidsChoice = {
   title: "War God: War Maid's Choice",
   status: "not-started",
   author: "A. Norman Jeffares",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 188500,
   source: "kindle",

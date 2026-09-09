@@ -7,6 +7,6 @@ export const revelationsAndTranslationsVolume3 = {
   title: "Revelations and Translations Volume 3",
   status: "not-started",
   author: "Royal Skousen, Robin Scott Jensen, Ronald K. Esplin, Matthew J. Grow",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
 } as const satisfies Book

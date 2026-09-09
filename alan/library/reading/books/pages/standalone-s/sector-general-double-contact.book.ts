@@ -7,7 +7,7 @@ export const sectorGeneralDoubleContact = {
   title: "Sector General: Double Contact",
   status: "not-started",
   author: "James White",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 79750,
   source: "kindle",

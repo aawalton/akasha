@@ -7,7 +7,7 @@ export const pernTheChroniclesOfPernFirstFall = {
   title: "Pern: The Chronicles of Pern: First Fall",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 84000,
   source: "kindle",

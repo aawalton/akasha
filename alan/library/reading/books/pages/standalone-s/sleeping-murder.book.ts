@@ -7,6 +7,6 @@ export const sleepingMurder = {
   title: "Sleeping Murder",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
 } as const satisfies Book

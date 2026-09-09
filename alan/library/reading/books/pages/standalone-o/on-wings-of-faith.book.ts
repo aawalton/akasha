@@ -7,7 +7,7 @@ export const onWingsOfFaith = {
   title: "On Wings of Faith",
   status: "not-started",
   author: "Frederick W. Babbel",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 47500,
 } as const satisfies Book

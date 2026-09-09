@@ -7,7 +7,7 @@ export const teachingsOfJosephFSmith = {
   title: "Teachings of Joseph F. Smith",
   status: "not-started",
   author: "Edwin F. Parry",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 135750,
 } as const satisfies Book

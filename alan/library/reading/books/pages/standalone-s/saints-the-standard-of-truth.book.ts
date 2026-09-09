@@ -7,7 +7,7 @@ export const saintsTheStandardOfTruth = {
   title: "Saints: The Standard of Truth",
   status: "not-started",
   author: "The Church of Jesus Christ of Latter Day Saints",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 174750,
 } as const satisfies Book

@@ -6,7 +6,7 @@ export const rwbyNovelSeriesRomanHolidayAnAfkBook = {
   slug: "rwby-novel-series-roman-holiday-an-afk-book",
   title: "RWBY Novel Series: Roman Holiday: An AFK Book",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 63500,
   publishedAt: "2021-09-07",

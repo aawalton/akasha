@@ -7,7 +7,7 @@ export const ultimateLevel1NewPotential = {
   title: "Ultimate Level 1: New Potential",
   status: "completed",
   author: "Ontario Educational Research Council. Conference",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 120000,
   ownProgress: 120000,

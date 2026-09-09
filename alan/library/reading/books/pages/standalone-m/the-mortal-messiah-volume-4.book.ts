@@ -7,7 +7,7 @@ export const theMortalMessiahVolume4 = {
   title: "The Mortal Messiah Volume 4",
   status: "not-started",
   author: "Silas Farmer",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 109250,
 } as const satisfies Book

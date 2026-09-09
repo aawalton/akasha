@@ -7,7 +7,7 @@ export const theRobotRobotsAndEmpire = {
   title: "The Robot: Robots and Empire",
   status: "not-started",
   author: "Isaac Asimov",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 110250,
   publishedAt: "2023-09-14",

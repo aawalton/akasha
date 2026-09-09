@@ -7,7 +7,7 @@ export const runelordsWizardborn = {
   title: "Runelords: Wizardborn",
   status: "not-started",
   author: "David Farland",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 111000,
   source: "kindle",

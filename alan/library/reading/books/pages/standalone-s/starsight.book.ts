@@ -8,7 +8,7 @@ export const starsight = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 115250,
   ownProgress: 115250,

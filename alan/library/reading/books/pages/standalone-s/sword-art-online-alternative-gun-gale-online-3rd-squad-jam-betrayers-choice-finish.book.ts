@@ -6,7 +6,7 @@ export const swordArtOnlineAlternativeGunGaleOnline3rdSquadJamBetrayersChoiceFin
   slug: "sword-art-online-alternative-gun-gale-online-3rd-squad-jam-betrayers-choice-finish",
   title: "Sword Art Online Alternative Gun Gale Online: 3rd Squad Jam: Betrayers' Choice: Finish",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 68000,
   publishedAt: "2019-11-26",

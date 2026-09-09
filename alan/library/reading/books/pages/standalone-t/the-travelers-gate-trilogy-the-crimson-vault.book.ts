@@ -6,7 +6,7 @@ export const theTravelersGateTrilogyTheCrimsonVault = {
   slug: "the-travelers-gate-trilogy-the-crimson-vault",
   title: "The Traveler's Gate Trilogy: The Crimson Vault",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 126000,
   source: "kindle",

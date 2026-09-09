@@ -6,7 +6,7 @@ export const pyresoulsApocalypseFuturesGrave = {
   slug: "pyresouls-apocalypse-futures-grave",
   title: "Pyresouls Apocalypse: Futures Grave",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 103750,
   ownProgress: 103750,

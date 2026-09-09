@@ -6,7 +6,7 @@ export const shatteredLegacyPhantomChamber = {
   slug: "shattered-legacy-phantom-chamber",
   title: "Shattered Legacy: Phantom Chamber",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 130750,
   publishedAt: "2023-10-17",

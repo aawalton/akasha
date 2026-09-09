@@ -7,6 +7,6 @@ export const understandingTheSecretsOfHumanPerception = {
   title: "Understanding the Secrets of Human Perception",
   status: "not-started",
   author: "Frans Viljoen, Jehoshaphat Njau",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 182250,
 } as const satisfies Book

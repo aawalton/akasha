@@ -7,6 +7,6 @@ export const theoriesOfHumanDevelopment = {
   title: "Theories of Human Development",
   status: "not-started",
   author: "Barbara M. Newman, Philip R. Newman",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 185250,
 } as const satisfies Book

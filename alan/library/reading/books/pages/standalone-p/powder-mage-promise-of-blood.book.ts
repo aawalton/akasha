@@ -7,7 +7,7 @@ export const powderMagePromiseOfBlood = {
   title: "Powder Mage: Promise of Blood",
   status: "not-started",
   author: "Brian McClellan",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 138250,
   source: "kindle",
   externalId: "B0092XHPIG",

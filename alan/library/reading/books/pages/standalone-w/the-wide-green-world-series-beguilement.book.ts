@@ -6,7 +6,7 @@ export const theWideGreenWorldSeriesBeguilement = {
   slug: "the-wide-green-world-series-beguilement",
   title: "The Wide Green World Series: Beguilement",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 97250,
   source: "kindle",
   externalId: "B000QCQ9RU",

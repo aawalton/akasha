@@ -7,7 +7,7 @@ export const systemUniverseSavannah = {
   title: "System Universe: Savannah",
   status: "completed",
   author: "Christopher L. Delgado",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 122500,
   ownProgress: 122500,

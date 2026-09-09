@@ -7,7 +7,7 @@ export const scandinavianFolkAndFairyTales = {
   title: "Scandinavian Folk & Fairy Tales",
   status: "not-started",
   author: "Claire Booss",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 166500,
 } as const satisfies Book

@@ -7,6 +7,6 @@ export const bookSwitch = {
   title: "Switch",
   status: "not-started",
   author: "Robert Lawrence Stine",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 115800,
 } as const satisfies Book

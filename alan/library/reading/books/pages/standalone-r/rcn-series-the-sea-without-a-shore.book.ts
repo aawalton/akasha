@@ -6,7 +6,7 @@ export const rcnSeriesTheSeaWithoutAShore = {
   slug: "rcn-series-the-sea-without-a-shore",
   title: "RCN Series: The Sea Without a Shore",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 115500,
   source: "kindle",

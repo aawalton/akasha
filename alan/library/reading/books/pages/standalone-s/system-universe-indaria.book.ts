@@ -6,7 +6,7 @@ export const systemUniverseIndaria = {
   slug: "system-universe-indaria",
   title: "System Universe: Indaria",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 113000,
   ownProgress: 113000,

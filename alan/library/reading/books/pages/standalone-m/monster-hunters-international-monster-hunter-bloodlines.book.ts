@@ -6,7 +6,7 @@ export const monsterHuntersInternationalMonsterHunterBloodlines = {
   slug: "monster-hunters-international-monster-hunter-bloodlines",
   title: "Monster Hunters International: Monster Hunter Bloodlines",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 74250,
   source: "kindle",

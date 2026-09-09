@@ -7,7 +7,7 @@ export const theWellOfAscension = {
   title: "The Well of Ascension",
   status: "paused",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 199250,
   ownProgress: 31250,

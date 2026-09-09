@@ -7,6 +7,6 @@ export const understandingTheMysteriesOfHumanBehavior = {
   title: "Understanding the Mysteries of Human Behavior",
   status: "not-started",
   author: "Professor Mark Leary Ph.D.",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 182700,
 } as const satisfies Book

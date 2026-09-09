@@ -7,7 +7,7 @@ export const theStoryOfLiberty = {
   title: "The Story of Liberty",
   status: "not-started",
   author: "Charles Carleton Coffin",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 101000,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const throughTheYears = {
   title: "Through The Years",
   status: "paused",
   author: "Linda Howard, Fern Michaels, Debbie Macomber",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 22750,
   ownProgress: 750,

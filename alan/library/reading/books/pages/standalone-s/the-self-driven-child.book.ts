@@ -7,6 +7,6 @@ export const theSelfDrivenChild = {
   title: "The Self-Driven Child",
   status: "not-started",
   author: "William Stixrud PhD, Ned Johnson",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 173700,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const systemUniverseSystemChange = {
   title: "System Universe: System Change",
   status: "completed",
   author: "Adolf Ka Tat Tsang",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 105500,
   ownProgress: 105500,

@@ -7,7 +7,7 @@ export const sectorGeneralFinalDiagnosis = {
   title: "Sector General: Final Diagnosis",
   status: "not-started",
   author: "James White",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 80000,
   publishedAt: "1998-07-15",

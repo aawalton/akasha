@@ -7,7 +7,7 @@ export const theWideGreenWorldSeriesPassage = {
   title: "The Wide Green World Series: Passage",
   status: "not-started",
   author: "William Shakespeare",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 108750,
   source: "kindle",

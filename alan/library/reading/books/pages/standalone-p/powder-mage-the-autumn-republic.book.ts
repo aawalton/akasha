@@ -7,7 +7,7 @@ export const powderMageTheAutumnRepublic = {
   title: "Powder Mage: The Autumn Republic",
   status: "not-started",
   author: "Brian McClellan",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 154750,
   source: "kindle",

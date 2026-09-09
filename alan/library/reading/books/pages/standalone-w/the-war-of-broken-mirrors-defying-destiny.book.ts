@@ -6,7 +6,7 @@ export const theWarOfBrokenMirrorsDefyingDestiny = {
   slug: "the-war-of-broken-mirrors-defying-destiny",
   title: "The War of Broken Mirrors: Defying Destiny",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 134250,
   source: "kindle",

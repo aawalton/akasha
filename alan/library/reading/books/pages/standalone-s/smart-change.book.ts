@@ -7,6 +7,6 @@ export const smartChange = {
   title: "Smart Change",
   status: "not-started",
   author: "Art Markman  PhD",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 112800,
 } as const satisfies Book

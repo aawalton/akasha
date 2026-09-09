@@ -7,7 +7,7 @@ export const saintsNoUnhallowedHand = {
   title: "Saints: No Unhallowed Hand",
   status: "not-started",
   author: "The Church of Jesus Christ of Latter-day Saints",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 208250,
 } as const satisfies Book

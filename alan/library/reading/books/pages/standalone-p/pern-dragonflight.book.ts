@@ -7,7 +7,7 @@ export const pernDragonflight = {
   title: "Pern: Dragonflight",
   status: "paused",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 15,
   ownLength: 80000,
   ownProgress: 1500,

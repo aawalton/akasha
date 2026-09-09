@@ -7,7 +7,7 @@ export const theSecretHistory = {
   title: "The Secret History",
   status: "not-started",
   author: "Donna Tartt",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 42500,
 } as const satisfies Book

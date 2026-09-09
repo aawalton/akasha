@@ -7,7 +7,7 @@ export const skyDragons = {
   title: "Sky Dragons",
   status: "not-started",
   author: "Anne McCaffrey, Todd McCaffrey, Emily Durante",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 86000,
 } as const satisfies Book

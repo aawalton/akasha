@@ -8,7 +8,7 @@ export const plainAndPreciousThings = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 25000,
   ownProgress: 25000,

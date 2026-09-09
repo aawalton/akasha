@@ -8,7 +8,7 @@ export const sermonsNotSpoken = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 24750,
   ownProgress: 24750,

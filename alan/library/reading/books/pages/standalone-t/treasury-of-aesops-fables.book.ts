@@ -7,7 +7,7 @@ export const treasuryOfAesopsFables = {
   title: "Treasury of Aesop's Fables",
   status: "not-started",
   author: "Val Biro",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 34500,
 } as const satisfies Book

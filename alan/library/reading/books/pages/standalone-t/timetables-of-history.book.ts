@@ -7,7 +7,7 @@ export const timetablesOfHistory = {
   title: "Timetables of History",
   status: "not-started",
   author: "Bernard Grun",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 158250,
 } as const satisfies Book

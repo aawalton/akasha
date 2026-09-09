@@ -7,6 +7,6 @@ export const raisingAnEmotionallyIntelligentChild = {
   title: "Raising an Emotionally Intelligent Child",
   status: "not-started",
   author: "John Mordechai Gottman",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 121050,
 } as const satisfies Book

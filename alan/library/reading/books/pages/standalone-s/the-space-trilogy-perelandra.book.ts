@@ -7,7 +7,7 @@ export const theSpaceTrilogyPerelandra = {
   title: "The Space Trilogy: Perelandra",
   status: "not-started",
   author: "C. S. Lewis",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 44750,
   source: "kindle",

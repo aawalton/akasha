@@ -7,6 +7,6 @@ export const rewire = {
   title: "Rewire",
   status: "not-started",
   author: "O'Connor, Richard (Psychotherapist), Richard O'Connor",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 154500,
 } as const satisfies Book

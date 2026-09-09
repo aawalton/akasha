@@ -7,6 +7,6 @@ export const reunion = {
   title: "Reunion",
   status: "not-started",
   author: "Fred Uhlman",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
 } as const satisfies Book

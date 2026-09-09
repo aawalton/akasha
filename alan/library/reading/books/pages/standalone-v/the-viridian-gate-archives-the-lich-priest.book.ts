@@ -6,7 +6,7 @@ export const theViridianGateArchivesTheLichPriest = {
   slug: "the-viridian-gate-archives-the-lich-priest",
   title: "The Viridian Gate Archives: The Lich Priest",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 67250,
   ownProgress: 67250,

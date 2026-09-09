@@ -7,7 +7,7 @@ export const oldKingdomLirael = {
   title: "Old Kingdom: Lirael",
   status: "not-started",
   author: "Garth Nix",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 180000,
   source: "kindle",

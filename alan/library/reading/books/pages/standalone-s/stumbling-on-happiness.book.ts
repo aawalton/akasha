@@ -7,6 +7,6 @@ export const stumblingOnHappiness = {
   title: "Stumbling on Happiness",
   status: "not-started",
   author: "Daniel Todd Gilbert",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 111450,
 } as const satisfies Book

@@ -6,7 +6,7 @@ export const warGodOathOfSwordsAndSwordBrother = {
   slug: "war-god-oath-of-swords-and-sword-brother",
   title: "War God: Oath of Swords and Sword Brother",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 128750,
   source: "kindle",
   externalId: "B00AP91O7Y",

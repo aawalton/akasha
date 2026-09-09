@@ -7,6 +7,6 @@ export const theOptimisticChild = {
   title: "The Optimistic Child",
   status: "not-started",
   author: "Martin Elias Pete Seligman",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 193500,
 } as const satisfies Book

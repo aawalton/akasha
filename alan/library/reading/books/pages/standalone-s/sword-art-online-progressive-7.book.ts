@@ -7,7 +7,7 @@ export const swordArtOnlineProgressive7 = {
   title: "Sword Art Online Progressive 7",
   status: "not-started",
   author: "Reki Kawahara",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 58750,
   publishedAt: "2022-01-18",

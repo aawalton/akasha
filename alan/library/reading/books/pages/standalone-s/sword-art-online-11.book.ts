@@ -7,7 +7,7 @@ export const swordArtOnline11 = {
   title: "Sword Art Online 11",
   status: "not-started",
   author: "Reki Kawahara, Keiichi Sigsawa, Kouhaku Kuroboshi",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 45500,
   publishedAt: "2017-08-22",

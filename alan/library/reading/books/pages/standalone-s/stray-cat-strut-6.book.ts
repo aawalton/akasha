@@ -6,7 +6,7 @@ export const strayCatStrut6 = {
   slug: "stray-cat-strut-6",
   title: "Stray Cat Strut 6",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 83250,
   publishedAt: "2025-07-15",

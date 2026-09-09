@@ -7,7 +7,7 @@ export const sectorGeneral5 = {
   title: "Sector General 5",
   status: "not-started",
   author: "James White",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 49000,
   publishedAt: "1987-06-12",

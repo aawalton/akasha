@@ -7,6 +7,6 @@ export const theMirrorCrackdFromSideToSide = {
   title: "The Mirror Crack'd from Side to Side",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
 } as const satisfies Book

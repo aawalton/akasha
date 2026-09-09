@@ -7,7 +7,7 @@ export const pernTheRenegadesOfPern = {
   title: "Pern: The Renegades of Pern",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 21,
   ownLength: 88000,
   source: "kindle",

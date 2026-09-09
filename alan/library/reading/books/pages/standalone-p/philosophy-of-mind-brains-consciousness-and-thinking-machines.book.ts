@@ -7,6 +7,6 @@ export const philosophyOfMindBrainsConsciousnessAndThinkingMachines = {
   title: "Philosophy of Mind: Brains, Consciousness, and Thinking Machines",
   status: "not-started",
   author: "Patrick Grim",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 187500,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const sectorGeneralMindChanger = {
   title: "Sector General: Mind Changer",
   status: "not-started",
   author: "James White",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 76000,
   source: "kindle",

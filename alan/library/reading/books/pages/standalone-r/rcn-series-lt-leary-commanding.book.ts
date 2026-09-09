@@ -6,7 +6,7 @@ export const rcnSeriesLtLearyCommanding = {
   slug: "rcn-series-lt-leary-commanding",
   title: "RCN Series: Lt. Leary Commanding",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 145000,
   source: "kindle",

@@ -6,7 +6,7 @@ export const strayCatStrutAYoungLadysJourneyToBecomingAPopUpSamurai = {
   slug: "stray-cat-strut-a-young-ladys-journey-to-becoming-a-pop-up-samurai",
   title: "Stray Cat Strut: A Young Lady's Journey to Becoming a Pop-Up Samurai",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 135000,
   publishedAt: "2021-04-12",

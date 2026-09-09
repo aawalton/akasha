@@ -8,7 +8,7 @@ export const wheelOfTimeLordOfChaos = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 262250,
   ownProgress: 262250,

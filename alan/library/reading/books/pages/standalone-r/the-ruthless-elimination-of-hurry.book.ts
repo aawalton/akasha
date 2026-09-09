@@ -8,7 +8,7 @@ export const theRuthlessEliminationOfHurry = {
     "The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World",
   status: "not-started",
   author: "John Mark Comer",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 76250,
   publishedAt: "2019-10-29",
   source: "kindle",

@@ -7,7 +7,7 @@ export const sectorGeneralHospitalStation = {
   title: "Sector General: Hospital Station",
   status: "not-started",
   author: "James White",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 47750,
   publishedAt: "1979-08-12",

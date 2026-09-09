@@ -7,6 +7,6 @@ export const platonic = {
   title: "Platonic",
   status: "not-started",
   author: "Walter Pater",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 164250,
 } as const satisfies Book

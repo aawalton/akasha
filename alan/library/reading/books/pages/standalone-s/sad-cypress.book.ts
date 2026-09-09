@@ -7,6 +7,6 @@ export const sadCypress = {
   title: "Sad Cypress",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 18,
 } as const satisfies Book

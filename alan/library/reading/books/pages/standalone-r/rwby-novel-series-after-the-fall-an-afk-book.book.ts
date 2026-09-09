@@ -6,7 +6,7 @@ export const rwbyNovelSeriesAfterTheFallAnAfkBook = {
   slug: "rwby-novel-series-after-the-fall-an-afk-book",
   title: "RWBY Novel Series: After the Fall: An AFK Book",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 65250,
   publishedAt: "2019-06-25",

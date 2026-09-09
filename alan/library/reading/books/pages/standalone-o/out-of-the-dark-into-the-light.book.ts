@@ -7,7 +7,7 @@ export const outOfTheDarkIntoTheLight = {
   title: "Out of the Dark: Into the Light",
   status: "not-started",
   author: "Alessia Stewart",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 125750,
   source: "kindle",

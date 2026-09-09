@@ -6,7 +6,7 @@ export const scaleAndSeaTrilogyDarkLord = {
   slug: "scale-and-sea-trilogy-dark-lord",
   title: "Scale & Sea Trilogy: Dark Lord",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 119500,
   ownProgress: 119500,

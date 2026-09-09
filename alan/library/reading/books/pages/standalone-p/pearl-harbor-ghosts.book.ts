@@ -7,7 +7,7 @@ export const pearlHarborGhosts = {
   title: "Pearl Harbor Ghosts",
   status: "not-started",
   author: "Thurston Clarke",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 64750,
 } as const satisfies Book

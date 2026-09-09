@@ -7,6 +7,6 @@ export const thePatientWillSeeYouNow = {
   title: "The Patient Will See You Now",
   status: "not-started",
   author: "Eric J. Topol",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 169050,
 } as const satisfies Book

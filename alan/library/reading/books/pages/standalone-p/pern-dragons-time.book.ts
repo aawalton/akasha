@@ -7,7 +7,7 @@ export const pernDragonsTime = {
   title: "Pern: Dragon's Time",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 124500,
   source: "kindle",

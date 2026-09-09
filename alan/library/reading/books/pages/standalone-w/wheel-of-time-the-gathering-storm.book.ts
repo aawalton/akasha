@@ -8,7 +8,7 @@ export const wheelOfTimeTheGatheringStorm = {
   status: "completed",
   rank: "B",
   author: "Robert Jordan, Brandon Sanderson, Robert Jordan",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 215250,
   ownProgress: 215250,

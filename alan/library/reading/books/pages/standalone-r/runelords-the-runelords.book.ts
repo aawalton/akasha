@@ -7,7 +7,7 @@ export const runelordsTheRunelords = {
   title: "Runelords: The Runelords",
   status: "not-started",
   author: "David Farland",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 157000,
   source: "kindle",
   externalId: "B00FO74WIK",

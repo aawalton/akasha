@@ -7,7 +7,7 @@ export const theRobotIRobot = {
   title: "The Robot: I, Robot",
   status: "not-started",
   author: "Isaac Asimov",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 76000,
   publishedAt: "2004-06-01",

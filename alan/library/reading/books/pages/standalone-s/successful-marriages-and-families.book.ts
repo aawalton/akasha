@@ -7,7 +7,7 @@ export const successfulMarriagesAndFamilies = {
   title: "Successful Marriages and Families",
   status: "paused",
   author: "Alan J. Hawkins, David C. Dollahite, Thomas Draper",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 89500,
   ownProgress: 4000,

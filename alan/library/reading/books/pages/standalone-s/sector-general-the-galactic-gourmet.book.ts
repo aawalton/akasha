@@ -7,7 +7,7 @@ export const sectorGeneralTheGalacticGourmet = {
   title: "Sector General: The Galactic Gourmet",
   status: "not-started",
   author: "James White",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 78000,
   publishedAt: "1997-01-01",

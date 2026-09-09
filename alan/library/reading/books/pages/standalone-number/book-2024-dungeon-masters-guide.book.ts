@@ -7,7 +7,7 @@ export const book2024DungeonMastersGuide = {
   title: "2024 Dungeon Master's Guide",
   status: "not-started",
   author: "Christopher Perkins, James Wyatt, Adrian Ng, Judy Bauer, Janica Carter",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 96000,
 } as const satisfies Book

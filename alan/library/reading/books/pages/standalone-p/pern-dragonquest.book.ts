@@ -7,7 +7,7 @@ export const pernDragonquest = {
   title: "Pern: Dragonquest",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 16,
   ownLength: 88000,
   source: "kindle",

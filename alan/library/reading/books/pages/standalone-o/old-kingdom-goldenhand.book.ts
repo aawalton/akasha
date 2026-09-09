@@ -7,7 +7,7 @@ export const oldKingdomGoldenhand = {
   title: "Old Kingdom: Goldenhand",
   status: "not-started",
   author: "Garth Nix",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 90250,
   publishedAt: "2016-10-04",

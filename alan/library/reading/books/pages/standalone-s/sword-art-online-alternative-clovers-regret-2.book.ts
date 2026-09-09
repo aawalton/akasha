@@ -6,7 +6,7 @@ export const swordArtOnlineAlternativeCloversRegret2 = {
   slug: "sword-art-online-alternative-clovers-regret-2",
   title: "Sword Art Online Alternative Clover's Regret 2",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 66250,
   publishedAt: "2024-12-10",

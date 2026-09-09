@@ -8,7 +8,7 @@ export const theScienceOfTrust = {
   status: "completed",
   rank: "C",
   author: "John Mordechai Gottman",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 246300,
   ownProgress: 246300,
   publishedAt: "2012-04-01",

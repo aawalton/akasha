@@ -7,7 +7,7 @@ export const oathbringer = {
   title: "Oathbringer",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 310500,
   source: "kindle",

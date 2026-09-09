@@ -7,7 +7,7 @@ export const theRootsOfAmericanOrder = {
   title: "The Roots of American Order",
   status: "not-started",
   author: "Russell Kirk",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 119000,
 } as const satisfies Book

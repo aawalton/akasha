@@ -7,7 +7,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineFiveOrdeals = {
   title: "Sword Art Online Alternative Gun Gale Online: Five Ordeals",
   status: "not-started",
   author: "Reki Kawahara, Keiichi Sigsawa",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 73500,
   publishedAt: "2021-11-09",

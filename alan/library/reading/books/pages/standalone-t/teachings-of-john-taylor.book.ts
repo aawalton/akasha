@@ -7,7 +7,7 @@ export const teachingsOfJohnTaylor = {
   title: "Teachings of John Taylor",
   status: "not-started",
   author: "Samuel Taylor Coleridge",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 95250,
 } as const satisfies Book

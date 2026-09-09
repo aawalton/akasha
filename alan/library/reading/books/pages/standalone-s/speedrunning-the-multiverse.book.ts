@@ -6,7 +6,7 @@ export const speedrunningTheMultiverse = {
   slug: "speedrunning-the-multiverse",
   title: "Speedrunning the Multiverse",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 139000,
   ownProgress: 139000,

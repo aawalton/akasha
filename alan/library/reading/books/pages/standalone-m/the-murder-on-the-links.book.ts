@@ -7,7 +7,7 @@ export const theMurderOnTheLinks = {
   title: "The Murder on the Links",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 80000,
 } as const satisfies Book

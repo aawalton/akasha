@@ -6,7 +6,7 @@ export const weaponsAndWieldersDiamantine = {
   slug: "weapons-and-wielders-diamantine",
   title: "Weapons and Wielders: Diamantine",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 124500,
   ownProgress: 124500,

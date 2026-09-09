@@ -6,7 +6,7 @@ export const rwbyFairyTalesOfRemnantAnAfkBook = {
   slug: "rwby-fairy-tales-of-remnant-an-afk-book",
   title: "RWBY: Fairy Tales of Remnant: An AFK Book",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 35250,
   publishedAt: "2020-09-15",
   source: "kindle",

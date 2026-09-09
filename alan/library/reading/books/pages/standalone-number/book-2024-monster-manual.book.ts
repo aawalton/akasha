@@ -7,6 +7,6 @@ export const book2024MonsterManual = {
   title: "2024 Monster Manual",
   status: "not-started",
   author: "Robert Louis Stevenson",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
 } as const satisfies Book

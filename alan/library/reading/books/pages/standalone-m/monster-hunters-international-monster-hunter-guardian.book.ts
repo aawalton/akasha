@@ -7,7 +7,7 @@ export const monsterHuntersInternationalMonsterHunterGuardian = {
   title: "Monster Hunters International: Monster Hunter Guardian",
   status: "not-started",
   author: "Nick Roberts, Greg Kramer",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 100750,
   source: "kindle",

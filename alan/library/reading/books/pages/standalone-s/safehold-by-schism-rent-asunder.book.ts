@@ -7,7 +7,7 @@ export const safeholdBySchismRentAsunder = {
   title: "Safehold: By Schism Rent Asunder",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 184250,
   source: "kindle",

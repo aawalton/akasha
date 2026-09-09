@@ -6,7 +6,7 @@ export const outOfTheDarkToChallengeHeaven = {
   slug: "out-of-the-dark-to-challenge-heaven",
   title: "Out of the Dark: To Challenge Heaven",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 69000,
   source: "kindle",

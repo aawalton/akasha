@@ -7,7 +7,7 @@ export const secondAgeOfRethraTheRevived = {
   title: "Second Age of Rethra: The Revived",
   status: "completed",
   rank: "A",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 106500,
   ownProgress: 106500,

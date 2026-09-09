@@ -7,7 +7,7 @@ export const oliverTwist = {
   title: "Oliver Twist",
   status: "not-started",
   author: "Charles Dickens",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 104500,
 } as const satisfies Book

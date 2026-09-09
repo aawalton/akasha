@@ -7,7 +7,7 @@ export const runelordsSonsOfTheOak = {
   title: "Runelords: Sons of the Oak",
   status: "not-started",
   author: "David Farland",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 96000,
   source: "kindle",

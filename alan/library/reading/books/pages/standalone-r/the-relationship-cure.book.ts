@@ -7,7 +7,7 @@ export const theRelationshipCure = {
   title: "The Relationship Cure",
   status: "completed",
   author: "John Mordechai Gottman, Joan Declaire",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 86700,
   ownProgress: 86700,
   publishedAt: "2001-05-22",

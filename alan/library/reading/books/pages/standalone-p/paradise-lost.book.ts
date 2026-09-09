@@ -7,7 +7,7 @@ export const paradiseLost = {
   title: "Paradise Lost",
   status: "not-started",
   author: "John Milton",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 84500,
 } as const satisfies Book

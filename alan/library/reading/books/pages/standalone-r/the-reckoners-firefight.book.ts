@@ -7,7 +7,7 @@ export const theReckonersFirefight = {
   title: "The Reckoners: Firefight",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 106750,
   publishedAt: "2015-01-06",

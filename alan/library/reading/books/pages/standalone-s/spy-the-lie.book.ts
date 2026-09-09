@@ -7,6 +7,6 @@ export const spyTheLie = {
   title: "Spy the Lie",
   status: "not-started",
   author: "Philip Houston",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 73050,
 } as const satisfies Book

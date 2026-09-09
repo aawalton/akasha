@@ -7,6 +7,6 @@ export const trySofter = {
   title: "Try Softer",
   status: "not-started",
   author: "Aundi Kolber",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 89250,
 } as const satisfies Book

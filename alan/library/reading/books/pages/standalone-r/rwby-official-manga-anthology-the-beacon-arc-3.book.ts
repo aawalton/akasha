@@ -6,7 +6,7 @@ export const rwbyOfficialMangaAnthologyTheBeaconArc3 = {
   slug: "rwby-official-manga-anthology-the-beacon-arc-3",
   title: "RWBY: Official Manga Anthology: The Beacon Arc 3",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 66000,
   publishedAt: "2021-06-15",

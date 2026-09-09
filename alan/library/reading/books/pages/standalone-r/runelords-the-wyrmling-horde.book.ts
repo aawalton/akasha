@@ -7,7 +7,7 @@ export const runelordsTheWyrmlingHorde = {
   title: "Runelords: The Wyrmling Horde",
   status: "not-started",
   author: "David Farland",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 93000,
   source: "kindle",

@@ -7,7 +7,7 @@ export const pernMoreta = {
   title: "Pern: Moreta",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 96000,
   source: "kindle",

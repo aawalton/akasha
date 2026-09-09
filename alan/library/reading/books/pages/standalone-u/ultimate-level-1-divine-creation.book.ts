@@ -7,7 +7,7 @@ export const ultimateLevel1DivineCreation = {
   title: "Ultimate Level 1: Divine Creation",
   status: "completed",
   author: "Shawn Wilson",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 164500,
   ownProgress: 164500,

@@ -8,7 +8,7 @@ export const oneMoreStrainOfPraise = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 35250,
   ownProgress: 35250,

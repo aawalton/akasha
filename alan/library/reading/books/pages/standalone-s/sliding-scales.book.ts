@@ -7,6 +7,6 @@ export const slidingScales = {
   title: "Sliding Scales",
   status: "not-started",
   author: "Alan Dean Foster",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
 } as const satisfies Book

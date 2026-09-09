@@ -7,6 +7,6 @@ export const nOrM = {
   title: "N or M?",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
 } as const satisfies Book

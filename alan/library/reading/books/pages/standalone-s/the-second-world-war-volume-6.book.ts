@@ -7,7 +7,7 @@ export const theSecondWorldWarVolume6 = {
   title: "The Second World War Volume 6",
   status: "not-started",
   author: "Winston S. Churchill",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 188750,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const theSevenPrinciplesForMakingMarriageWork = {
   title: "The Seven Principles for Making Marriage Work",
   status: "not-started",
   author: "John Mordechai Gottman, Nan Silver",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 154250,
   publishedAt: "2020-01-14",
 } as const satisfies Book

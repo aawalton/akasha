@@ -8,7 +8,7 @@ export const perfectState = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 230000,
   ownProgress: 230000,

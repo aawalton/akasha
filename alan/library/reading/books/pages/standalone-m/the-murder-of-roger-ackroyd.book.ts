@@ -7,7 +7,7 @@ export const theMurderOfRogerAckroyd = {
   title: "The Murder of Roger Ackroyd",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 72000,
 } as const satisfies Book

@@ -7,6 +7,6 @@ export const thePanicVirus = {
   title: "The Panic Virus",
   status: "not-started",
   author: "Seth Mnookin",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 160950,
 } as const satisfies Book

@@ -7,6 +7,6 @@ export const whatEveryBodyIsSaying = {
   title: "What Every BODY Is Saying",
   status: "not-started",
   author: "Joe Navarro, Marvin Karlins",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 109800,
 } as const satisfies Book

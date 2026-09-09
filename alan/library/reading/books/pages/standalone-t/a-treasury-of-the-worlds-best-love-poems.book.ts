@@ -7,7 +7,7 @@ export const aTreasuryOfTheWorldsBestLovePoems = {
   title: "A Treasury of the World's Best Love Poems",
   status: "completed",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 44250,
   ownProgress: 44250,

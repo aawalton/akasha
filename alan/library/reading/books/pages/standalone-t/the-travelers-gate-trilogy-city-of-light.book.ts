@@ -6,7 +6,7 @@ export const theTravelersGateTrilogyCityOfLight = {
   slug: "the-travelers-gate-trilogy-city-of-light",
   title: "The Traveler's Gate Trilogy: City of Light",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 124500,
   source: "kindle",
