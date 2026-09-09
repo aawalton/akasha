@@ -813,7 +813,7 @@
         "react": "^18 || ^19",
       },
     },
-    "products/archive-of-worlds/archive-of-worlds-web": {
+    "products/archive-of-worlds/web": {
       "name": "@akasha/archive-of-worlds-web",
       "version": "0.1.0",
       "dependencies": {
@@ -1638,7 +1638,7 @@
 
     "@akasha/alanwalton-web-capacitor": ["@akasha/alanwalton-web-capacitor@workspace:alan/web-capacitor"],
 
-    "@akasha/archive-of-worlds-web": ["@akasha/archive-of-worlds-web@workspace:products/archive-of-worlds/archive-of-worlds-web"],
+    "@akasha/archive-of-worlds-web": ["@akasha/archive-of-worlds-web@workspace:products/archive-of-worlds/web"],
 
     "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:products/audhdalan/audhdalan-web"],
 

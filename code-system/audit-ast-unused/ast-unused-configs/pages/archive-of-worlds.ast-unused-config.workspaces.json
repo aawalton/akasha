@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "products/archive-of-worlds/archive-of-worlds-web": {
+    "products/archive-of-worlds/web": {
       "entry": [
         "*.{ts,tsx}",
         "routes/**/*.{ts,tsx}",

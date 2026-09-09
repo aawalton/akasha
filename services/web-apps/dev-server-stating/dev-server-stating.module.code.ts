@@ -63,7 +63,7 @@ const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
   },
   "archive-of-worlds": {
     name: "archive-of-worlds",
-    packagePath: "products/archive-of-worlds/archive-of-worlds-web",
+    packagePath: "products/archive-of-worlds/web",
     basePort: 3500,
     extraDevArgs: [],
     devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
