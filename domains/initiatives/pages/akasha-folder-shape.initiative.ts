@@ -25,7 +25,7 @@ export const akashaFolderShape = {
     {
       statement: "A check determines whether a folder should be a workspace package.",
       workingMemory:
-        "`workspace-package` extends `domain` and adds one required `manifest` file property named `package.json`; that line alone makes the package, since the root names `workspaces` as a pattern and tsconfig carries no paths. 197 page folders, 197 manifests, no drift either way, so a check comparing them finds nothing. `Package Only When Needed` on the page type already answers this intent, and the child initiative `aranya-one-package` folds 265 packages toward one. No `add-folder-package` act exists.\n",
+        "`workspace-package` extends `domain` and adds one required `manifest` file property named `package.json`; that line alone makes the package, since the root names `workspaces` as a pattern and tsconfig carries no paths. 197 page folders, 197 manifests, no drift for a check to find. `Package Only When Needed` allows a folder installed apart, and three are: the `ios-app` pages, rsynced to a Mac without the root manifest and given `npm install`. No `add-folder-package` act exists.\n",
     },
     {
       statement: "No relation value lands that akasha cannot key to one page.",
