@@ -41,7 +41,16 @@ export const addressMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the landing rewrites is read through the shadow rather than off the disk.",
+      statement: "Every body is read through the change rather than off the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is written again is answered as a change rather than as a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file that is not there yet is answered as an addition rather than a replacement.",
     },
     {
       invariantKind: "departure",

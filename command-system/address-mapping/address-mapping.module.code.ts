@@ -1,12 +1,12 @@
-import { dirname, join, relative } from "node:path"
+import { dirname, relative } from "node:path"
+import type { Adding, Replacing } from "@akasha/changes/change-answer/types"
+import { textOf } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
 import { everyOfType } from "@akasha/indexes"
 import type { Change } from "@akasha/pages/change"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
-import { textOnDisk } from "@akasha/utils/fs/text-on-disk"
-import type { FileEdit } from "../landing/landing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -32,7 +32,7 @@ export type Address = {
 }
 
 export type Mapped = {
-  readonly edits: readonly FileEdit[]
+  readonly edits: readonly (Adding | Replacing)[]
   readonly said: readonly string[]
 }
 
@@ -47,13 +47,8 @@ function declaresRun(text: string): boolean {
   return new RegExp(`export (async )?function ${RUN_CHANGE}\\b`).test(text)
 }
 
-export function textOver(root: string, change: Change): (path: string) => string | null {
-  const carried = new Set(change.changed)
-  return (path) => {
-    if (!carried.has(path)) return textOnDisk(join(root, path))
-    const after = change.after(path)
-    return after === null ? null : new TextDecoder().decode(after)
-  }
+export function textOver(change: Change): (path: string) => string | null {
+  return (path) => textOf(change.after(path))
 }
 
 function addressedOf(
@@ -122,7 +117,7 @@ export function mappedOver(
   textAt: (path: string) => string | null,
   answered: ReadonlySet<string>
 ): Mapped {
-  const edits: FileEdit[] = []
+  const edits: (Adding | Replacing)[] = []
   const said: string[] = []
   for (const listed of shadow.index.everyOfType(RUNNER)) {
     const value = shadow.pageOf(listed.path)
@@ -133,10 +128,14 @@ export function mappedOver(
     if (typeof reached !== "string") continue
     const addresses = addressesFor(shadow, kindIn(reached), at, textAt)
     const raw = new TextEncoder().encode(bodyFor(addresses))
-    const body = formattedBody(root, at, raw).body
+    const now = new TextDecoder().decode(formattedBody(root, at, raw).body)
     const was = textAt(at)
-    if (was !== null && was === new TextDecoder().decode(body)) continue
-    edits.push({ path: at, body })
+    if (was === now) continue
+    edits.push(
+      was === null
+        ? { kind: "add", path: at, content: now }
+        : { kind: "replace", path: at, contentFrom: was, contentTo: now }
+    )
     said.push(`\`${at}\` was written again from the ${addresses.length} addresses reached`)
   }
   return edits.length === 0 ? NOTHING_MAPPED : { edits, said }
@@ -147,8 +146,8 @@ function runsIn(text: string | null): boolean {
 }
 
 function couldTurn(change: Change): boolean {
-  const left = textOver(change.root, change)
-  const wasRun = (path: string): boolean => runsIn(textOnDisk(join(change.root, path)))
+  const left = textOver(change)
+  const wasRun = (path: string): boolean => runsIn(textOf(change.before(path)))
   const isRun = (path: string): boolean => runsIn(left(path))
   for (const path of change.changed) {
     const said = partedIn(path)
@@ -173,12 +172,7 @@ export function mappedFor(change: Change): Mapped {
     if ("refused" in cast) {
       return { edits: [], said: [`no address map was written again — ${cast.refused}`] }
     }
-    return mappedOver(
-      change.root,
-      cast.shadow,
-      textOver(change.root, change),
-      new Set(change.changed)
-    )
+    return mappedOver(change.root, cast.shadow, textOver(change), new Set(change.changed))
   } catch (thrown) {
     return {
       edits: [],

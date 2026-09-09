@@ -84,7 +84,7 @@ export function preparing(
   const added = [
     ...locking.edits,
     ...bodiedFrom(worked.edits),
-    ...mapped.edits,
+    ...bodiedFrom(mapped.edits),
     ...bodiedFrom(stepped.edits),
     ...bodiedFrom(globbed.edits),
   ]
