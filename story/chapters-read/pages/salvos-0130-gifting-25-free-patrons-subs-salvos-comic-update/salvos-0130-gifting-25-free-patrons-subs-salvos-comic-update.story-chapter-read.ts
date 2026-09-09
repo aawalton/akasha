@@ -6,7 +6,7 @@ export const salvos0130Gifting25FreePatronsSubsSalvosComicUpdate = {
   slug: "salvos-0130-gifting-25-free-patrons-subs-salvos-comic-update",
   title:
     "Gifting 25 Free Patrons Subs + Salvos Comic Update + Salvos Book 13 is now out on Amazon!",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 130,
   ownLength: 179,
   unitSlug: "words",

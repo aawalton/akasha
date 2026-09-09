@@ -5,7 +5,7 @@ export const salvos0121672PrisonOfIsolation = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0121-672-prison-of-isolation",
   title: "672. Prison Of Isolation",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 121,
   ownLength: 1594,
   unitSlug: "words",

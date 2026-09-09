@@ -5,7 +5,7 @@ export const salvos0132725GrandSkillPoints = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0132-725-grand-skill-points",
   title: "725. Grand Skill Points",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 132,
   ownLength: 1504,
   unitSlug: "words",
