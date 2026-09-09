@@ -24,12 +24,12 @@ import { addonsDir, savedVarsDir } from "@akasha/temper-eso-paths/eso-paths-reso
 import {
   migrateBundleMemberSavedVars,
   readDeclaredSavedVars,
-} from "@akasha/temper-saved-vars-migration/bundle-member-saved-vars"
+} from "akasha/temper/saved-vars-migration/bundle-member-saved-vars/bundle-member-saved-vars.module.code.ts"
 import {
   appendAddonSavedVars,
   type ConsolidationMigration,
   migrateAddonSavedVars,
-} from "@akasha/temper-saved-vars-migration/saved-vars-migration"
+} from "akasha/temper/saved-vars-migration/saved-vars-migration/saved-vars-migration.module.code.ts"
 import {
   saidFor,
   saidShort,

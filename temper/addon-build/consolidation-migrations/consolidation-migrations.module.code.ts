@@ -1,4 +1,4 @@
-import type { ConsolidationMigration } from "@akasha/temper-saved-vars-migration/saved-vars-migration"
+import type { ConsolidationMigration } from "akasha/temper/saved-vars-migration/saved-vars-migration/saved-vars-migration.module.code.ts"
 
 export const CONSOLIDATION_MIGRATIONS = [
   {

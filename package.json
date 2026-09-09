@@ -31,7 +31,6 @@
     "@akasha/temper-lua-runner": "workspace:*",
     "@akasha/temper-quests-trace": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",
-    "@akasha/temper-saved-vars-migration": "workspace:*",
     "@akasha/temper-watcher": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@googleapis/calendar": "^15.0.0",

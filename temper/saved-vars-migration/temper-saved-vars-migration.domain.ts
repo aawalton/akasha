@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperSavedVarsMigration = {
   id: "01a06072-5abb-776e-b9a1-6393d03e042b",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-saved-vars-migration",
   definition: "carrying a player's saved variables over when addons are renamed or folded together",
-  manifest: "json",
   parts: [
     "module/saved-vars-blocks",
     "module/saved-vars-migration",
@@ -41,4 +40,4 @@ export const temperSavedVarsMigration = {
       statement: "Nothing here deletes the file a migration read from.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

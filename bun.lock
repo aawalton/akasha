@@ -87,7 +87,6 @@
         "@akasha/temper-quests-trace": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-saved-variables": "workspace:*",
-        "@akasha/temper-saved-vars-migration": "workspace:*",
         "@akasha/temper-settings-panel": "workspace:*",
         "@akasha/temper-shopping": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
@@ -1134,7 +1133,6 @@
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
-        "@akasha/temper-saved-vars-migration": "workspace:*",
         "@akasha/utils": "workspace:*",
         "typescript": "5.9.3",
       },
@@ -1577,14 +1575,6 @@
     "temper/saved-variables": {
       "name": "@akasha/temper-saved-variables",
       "dependencies": {
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "temper/saved-vars-migration": {
-      "name": "@akasha/temper-saved-vars-migration",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -2566,8 +2556,6 @@
     "@akasha/temper-races": ["@akasha/temper-races@workspace:temper/temper-races"],
 
     "@akasha/temper-saved-variables": ["@akasha/temper-saved-variables@workspace:temper/saved-variables"],
-
-    "@akasha/temper-saved-vars-migration": ["@akasha/temper-saved-vars-migration@workspace:temper/saved-vars-migration"],
 
     "@akasha/temper-selector-addon": ["@akasha/temper-selector-addon@workspace:temper/selector-addon"],
 
