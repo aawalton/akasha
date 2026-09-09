@@ -3,6 +3,7 @@ import type { Seat } from "../seat.page-type.ts"
 export const sophia = {
   id: "01a087b8-6af2-7000-ba28-c17d38bd4394",
   pageTypeSlug: "seat",
+  type: "seat",
   slug: "sophia",
   persona: "sophia",
   assignmentSlug: "domain/persona",
