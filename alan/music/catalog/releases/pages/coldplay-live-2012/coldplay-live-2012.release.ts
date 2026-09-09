@@ -9,7 +9,7 @@ export const coldplayLive2012 = {
   position: 0,
   ownLength: 66.7209,
   ownProgress: 66.7209,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-11-16",
   externalId: "2OkEsqGTfu8PWRrNHzfr0m",

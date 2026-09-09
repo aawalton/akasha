@@ -9,7 +9,7 @@ export const coldplayTrueLove = {
   position: 0,
   ownLength: 4.1,
   ownProgress: 4.1,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-08-14",
   externalId: "5WBIRgdTtnf2cYfoSHSLEb",

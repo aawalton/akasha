@@ -9,7 +9,7 @@ export const elvisPresley2BlueHawaiiOriginalSoundtrack = {
   position: 0,
   ownLength: 31.307283,
   ownProgress: 31.307283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-18",
   externalId: "3NebgTz1kuqklVUruq3xIM",

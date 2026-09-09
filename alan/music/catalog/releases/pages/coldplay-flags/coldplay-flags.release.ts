@@ -9,7 +9,7 @@ export const coldplayFlags = {
   position: 0,
   ownLength: 3.608217,
   ownProgress: 3.608217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-21",
   externalId: "4JYjZh7R8F7Na5x1lVqOl9",

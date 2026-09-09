@@ -9,7 +9,7 @@ export const clairoAfterMidnightFeatClairo = {
   position: 0,
   ownLength: 3.133333,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-03-16",
   externalId: "6xsvkBbeMsrk6HPDBsJEwS",

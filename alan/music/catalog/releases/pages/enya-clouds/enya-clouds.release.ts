@@ -9,7 +9,7 @@ export const enyaClouds = {
   position: 0,
   ownLength: 43.911667,
   ownProgress: 43.911667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1997-01-01",
   externalId: "6wqNj3JTo5EJU3KTklb4N6",

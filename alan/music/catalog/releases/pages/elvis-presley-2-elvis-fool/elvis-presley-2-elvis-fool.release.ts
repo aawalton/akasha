@@ -9,7 +9,7 @@ export const elvisPresley2ElvisFool = {
   position: 0,
   ownLength: 45.4317,
   ownProgress: 45.4317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1973-07-16",
   externalId: "3gpHiNAmT5oXVxe6ewTGuN",

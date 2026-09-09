@@ -9,7 +9,7 @@ export const enyaChristmasSecrets = {
   position: 0,
   ownLength: 46.42545,
   ownProgress: 46.42545,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-06",
   externalId: "2fsLmnHfFDrssEdhLMyaML",

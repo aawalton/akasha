@@ -9,7 +9,7 @@ export const elvisPresley268ComebackSpecial50thAnniversaryEditionLive = {
   position: 0,
   ownLength: 310.416267,
   ownProgress: 310.416267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-30",
   externalId: "62CwfDeiM9t81FaFHebuUm",

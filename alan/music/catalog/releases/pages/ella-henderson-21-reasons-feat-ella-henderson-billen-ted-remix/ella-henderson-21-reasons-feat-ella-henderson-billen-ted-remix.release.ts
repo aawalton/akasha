@@ -9,7 +9,7 @@ export const ellaHenderson21ReasonsFeatEllaHendersonBillenTedRemix = {
   position: 0,
   ownLength: 5.02315,
   ownProgress: 5.02315,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-15",
   externalId: "35ZFK1ox0sKpOmCbPQaaHG",

@@ -9,7 +9,7 @@ export const ellaHendersonLetSGoHomeTogetherMotiRemix = {
   position: 0,
   ownLength: 6.144867,
   ownProgress: 6.144867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-23",
   externalId: "29TEQj74Hb0FObdoPXY5IN",

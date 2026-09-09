@@ -9,7 +9,7 @@ export const emBeiholdPainfulTruth = {
   position: 0,
   ownLength: 3.481117,
   ownProgress: 3.481117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2020-11-20",

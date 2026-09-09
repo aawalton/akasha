@@ -9,7 +9,7 @@ export const coldplayHymnForTheWeekendSeebRemix = {
   position: 0,
   ownLength: 3.544117,
   ownProgress: 3.544117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-03-25",
   externalId: "0ezwRysfWCrR5tDgpBwkIw",

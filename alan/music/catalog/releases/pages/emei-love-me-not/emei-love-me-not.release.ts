@@ -9,7 +9,7 @@ export const emeiLoveMeNot = {
   position: 0,
   ownLength: 2.33925,
   ownProgress: 2.33925,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-02-09",

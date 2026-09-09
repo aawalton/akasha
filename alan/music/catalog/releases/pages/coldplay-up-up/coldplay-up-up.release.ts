@@ -9,7 +9,7 @@ export const coldplayUpUp = {
   position: 0,
   ownLength: 3.968217,
   ownProgress: 3.968217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-04-22",
   externalId: "39CemyWzo6fJbvbAyICDrj",

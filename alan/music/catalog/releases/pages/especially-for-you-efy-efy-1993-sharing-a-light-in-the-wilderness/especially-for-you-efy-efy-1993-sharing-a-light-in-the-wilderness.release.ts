@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy1993SharingALightInTheWilderness = {
   position: 1993,
   ownLength: 47.245483,
   ownProgress: 47.245483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1993-01-01",
   externalId: "50fgJIEvAmvHzCLK7cOo2C",

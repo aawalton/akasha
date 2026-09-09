@@ -9,7 +9,7 @@ export const ellaHendersonGlorious = {
   position: 0,
   ownLength: 12.887183,
   ownProgress: 12.887183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-08",
   externalId: "4vzUW9Ehl9eFz59bvzazJ0",

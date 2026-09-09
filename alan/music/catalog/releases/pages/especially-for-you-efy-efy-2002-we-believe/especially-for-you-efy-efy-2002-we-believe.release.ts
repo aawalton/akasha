@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy2002WeBelieve = {
   position: 2002,
   ownLength: 45.755267,
   ownProgress: 45.755267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2002-01-01",
   externalId: "0tFstiP98fMgag9qu0rhQD",

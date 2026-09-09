@@ -9,7 +9,7 @@ export const emBeiholdHotGoblin = {
   position: 0,
   ownLength: 5.103633,
   ownProgress: 5.103633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-09-05",

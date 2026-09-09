@@ -9,7 +9,7 @@ export const emBeiholdGroundhogDay = {
   position: 0,
   ownLength: 2.89365,
   ownProgress: 2.89365,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2021-05-28",

@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy2014EspeciallyForYouthAnxiouslyEngaged = {
   position: 2014,
   ownLength: 43.996383,
   ownProgress: 43.996383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-11",
   externalId: "2Y13zcsdoUJfWKPthJvH75",

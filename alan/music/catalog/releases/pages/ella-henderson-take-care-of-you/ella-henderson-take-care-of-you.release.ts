@@ -9,7 +9,7 @@ export const ellaHendersonTakeCareOfYou = {
   position: 0,
   ownLength: 3.237233,
   ownProgress: 3.237233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-12",
   externalId: "7oxKeUU3zWGF7NsE92Jjln",

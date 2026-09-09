@@ -9,7 +9,7 @@ export const ellaHendersonDreamOnMeRogerSanchezExtendedRemix = {
   position: 0,
   ownLength: 6.986,
   ownProgress: 6.986,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-30",
   externalId: "7E8Df8PYmUdDLHLDKMdFhY",

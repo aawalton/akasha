@@ -9,7 +9,7 @@ export const especiallyForYouEfyAMoreExcellentWayEfy2005 = {
   position: 2005,
   ownLength: 55.185233,
   ownProgress: 55.185233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2005-01-01",
   externalId: "7oWaAPuzsct2coyEk31sOx",

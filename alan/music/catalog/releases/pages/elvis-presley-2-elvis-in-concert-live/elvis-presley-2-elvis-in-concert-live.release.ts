@@ -9,7 +9,7 @@ export const elvisPresley2ElvisInConcertLive = {
   position: 0,
   ownLength: 71.888683,
   ownProgress: 71.888683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1977-10-03",
   externalId: "7GZErkhcfVoYBzOCjVeo1R",

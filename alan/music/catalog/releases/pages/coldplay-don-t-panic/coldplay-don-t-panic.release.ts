@@ -9,7 +9,7 @@ export const coldplayDonTPanic = {
   position: 0,
   ownLength: 6.3922,
   ownProgress: 6.3922,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2001-03-19",
   externalId: "36Z4YfJRuw3r2VeHgNQbrF",

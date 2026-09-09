@@ -9,7 +9,7 @@ export const ellaHendersonHoldMeCloseFeatEllaHendersonTheRemixes = {
   position: 0,
   ownLength: 15.783283,
   ownProgress: 15.783283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-22",
   externalId: "4X6WuO5w50bPzeRWuwSTms",

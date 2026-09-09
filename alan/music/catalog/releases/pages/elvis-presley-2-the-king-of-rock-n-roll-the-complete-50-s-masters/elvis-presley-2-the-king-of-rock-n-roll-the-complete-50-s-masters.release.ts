@@ -9,7 +9,7 @@ export const elvisPresley2TheKingOfRockNRollTheComplete50SMasters = {
   position: 0,
   ownLength: 336.957583,
   ownProgress: 336.957583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1992-06-23",
   externalId: "7xTRLTNmw8geW9MXaDfyqI",

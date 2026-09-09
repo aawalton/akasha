@@ -9,7 +9,7 @@ export const enyaShoreRyanEnyaRyanMayItBeArrMSheeran = {
   position: 0,
   ownLength: 3.756217,
   ownProgress: 3.756217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-14",
   externalId: "1ufY2qOzMDP5Hw3bmYBuG7",

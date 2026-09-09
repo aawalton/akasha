@@ -9,7 +9,7 @@ export const coldplayLiveInBuenosAires = {
   position: 0,
   ownLength: 114.45455,
   ownProgress: 114.45455,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-07",
   externalId: "19CvkGjYpifkdwgVJSbog2",

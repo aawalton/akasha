@@ -9,7 +9,7 @@ export const ellaHendersonYoursRemixes = {
   position: 0,
   ownLength: 16.432883,
   ownProgress: 16.432883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-12-12",
   externalId: "3sOVKUgtsij1MOnJ2dZezk",

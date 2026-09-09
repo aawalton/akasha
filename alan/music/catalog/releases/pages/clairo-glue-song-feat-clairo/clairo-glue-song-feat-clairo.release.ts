@@ -9,7 +9,7 @@ export const clairoGlueSongFeatClairo = {
   position: 0,
   ownLength: 2.2511,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-17",
   externalId: "6iyBE8qGDt42MyBvtPNuMk",

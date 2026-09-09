@@ -9,7 +9,7 @@ export const ellaHendersonBraveAcoustic = {
   position: 0,
   ownLength: 7.15975,
   ownProgress: 7.15975,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-28",
   externalId: "0moObTfsJiVZCaZsAwP3wK",

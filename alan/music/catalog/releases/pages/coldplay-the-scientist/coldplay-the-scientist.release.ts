@@ -9,7 +9,7 @@ export const coldplayTheScientist = {
   position: 0,
   ownLength: 11.729967,
   ownProgress: 11.729967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2002-08-05",
   externalId: "4FtNaWzjhO9OXCRFEsSmuI",

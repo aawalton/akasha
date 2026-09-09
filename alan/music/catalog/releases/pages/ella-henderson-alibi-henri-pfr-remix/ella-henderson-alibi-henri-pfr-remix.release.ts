@@ -9,7 +9,7 @@ export const ellaHendersonAlibiHenriPfrRemix = {
   position: 0,
   ownLength: 2.3712,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-04-12",
   externalId: "667SyWnWSEJhdIePKT28A4",

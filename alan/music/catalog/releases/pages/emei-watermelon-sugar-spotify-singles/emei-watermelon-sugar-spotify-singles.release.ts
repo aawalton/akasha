@@ -9,7 +9,7 @@ export const emeiWatermelonSugarSpotifySingles = {
   position: 0,
   ownLength: 2.160933,
   ownProgress: 2.160933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-15",

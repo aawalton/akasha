@@ -9,7 +9,7 @@ export const elvisPresley2ThatSTheWayItIsDeluxeEdition = {
   position: 0,
   ownLength: 534.034383,
   ownProgress: 534.034383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1970-11-11",
   externalId: "2J7LSpd6suKj8qd9MkjuGK",

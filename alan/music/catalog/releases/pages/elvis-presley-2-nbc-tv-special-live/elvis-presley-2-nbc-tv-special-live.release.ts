@@ -9,7 +9,7 @@ export const elvisPresley2NbcTvSpecialLive = {
   position: 0,
   ownLength: 44.710967,
   ownProgress: 44.710967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1968-11-22",
   externalId: "4OaxrDxZe97lotUT4cxoRX",

@@ -9,7 +9,7 @@ export const enyaCaribbeanBlue = {
   position: 0,
   ownLength: 10.518217,
   ownProgress: 10.518217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1991-01-01",
   externalId: "0drAXE2TkbZhrj2HBB4bOc",

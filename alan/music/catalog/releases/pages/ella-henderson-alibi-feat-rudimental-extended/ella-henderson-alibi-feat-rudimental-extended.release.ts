@@ -9,7 +9,7 @@ export const ellaHendersonAlibiFeatRudimentalExtended = {
   position: 0,
   ownLength: 10.483883,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-01-26",
   externalId: "7wQiPmZw9wYOWmL5PHWR2V",

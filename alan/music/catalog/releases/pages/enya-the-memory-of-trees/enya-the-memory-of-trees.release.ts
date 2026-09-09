@@ -9,7 +9,7 @@ export const enyaTheMemoryOfTrees = {
   position: 0,
   ownLength: 55.706367,
   ownProgress: 55.706367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1995-11-20",
   externalId: "34NreMWi5xh62VQFWLPm9U",

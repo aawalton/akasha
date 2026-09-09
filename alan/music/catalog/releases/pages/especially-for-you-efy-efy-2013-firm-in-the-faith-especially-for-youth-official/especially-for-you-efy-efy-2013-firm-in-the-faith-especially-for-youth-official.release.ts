@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy2013FirmInTheFaithEspeciallyForYouthOfficial 
   position: 2013,
   ownLength: 47.776367,
   ownProgress: 47.776367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-05-11",
   externalId: "41GteJOSR9ItDaAltqpaGd",

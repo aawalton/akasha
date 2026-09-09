@@ -9,7 +9,7 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriends = {
   position: 0,
   ownLength: 45.917717,
   ownProgress: 45.917717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-06-06",
   externalId: "1CEODgTmTwLyabvwd7HBty",

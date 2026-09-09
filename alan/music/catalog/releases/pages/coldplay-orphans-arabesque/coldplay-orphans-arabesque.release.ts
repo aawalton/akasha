@@ -9,7 +9,7 @@ export const coldplayOrphansArabesque = {
   position: 0,
   ownLength: 8.96355,
   ownProgress: 8.96355,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-24",
   externalId: "1SnoyXTgl1jmhfmPwpKDCI",

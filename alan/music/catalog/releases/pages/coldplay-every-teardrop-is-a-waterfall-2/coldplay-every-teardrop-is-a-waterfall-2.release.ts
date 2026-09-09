@@ -9,7 +9,7 @@ export const coldplayEveryTeardropIsAWaterfall2 = {
   position: 0,
   ownLength: 11.869283,
   ownProgress: 11.869283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-06-26",
   externalId: "1oXauHeoAxhtOFX82nlun7",

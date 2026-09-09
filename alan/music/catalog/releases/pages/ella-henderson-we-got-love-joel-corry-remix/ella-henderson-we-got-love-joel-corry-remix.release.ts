@@ -9,7 +9,7 @@ export const ellaHendersonWeGotLoveJoelCorryRemix = {
   position: 0,
   ownLength: 2.661283,
   ownProgress: 2.661283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-13",
   externalId: "5DT6VaKBkGR2KyQDgXEuom",

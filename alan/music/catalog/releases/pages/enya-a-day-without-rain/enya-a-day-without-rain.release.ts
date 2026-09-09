@@ -9,7 +9,7 @@ export const enyaADayWithoutRain = {
   position: 0,
   ownLength: 37.509233,
   ownProgress: 37.509233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2000-11-11",
   externalId: "2ioso1tqQ5zABQDVYyiUi5",

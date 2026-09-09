@@ -9,7 +9,7 @@ export const coldplayParachutes = {
   position: 0,
   ownLength: 41.927283,
   ownProgress: 41.927283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2000-07-10",
   externalId: "6ZG5lRT77aJ3btmArcykra",

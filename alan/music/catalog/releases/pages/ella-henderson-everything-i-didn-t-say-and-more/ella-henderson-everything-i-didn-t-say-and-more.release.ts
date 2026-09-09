@@ -9,7 +9,7 @@ export const ellaHendersonEverythingIDidnTSayAndMore = {
   position: 0,
   ownLength: 80.8534,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-11-25",
   externalId: "3Le2W5qttl13XfXLvKIfw5",

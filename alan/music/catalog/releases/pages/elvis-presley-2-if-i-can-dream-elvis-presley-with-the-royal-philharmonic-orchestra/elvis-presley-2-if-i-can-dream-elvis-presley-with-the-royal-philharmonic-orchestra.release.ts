@@ -9,7 +9,7 @@ export const elvisPresley2IfICanDreamElvisPresleyWithTheRoyalPhilharmonicOrchest
   position: 0,
   ownLength: 49.676367,
   ownProgress: 49.676367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-10-30",
   externalId: "3BYCjGZjrTkilIY7U25fNt",

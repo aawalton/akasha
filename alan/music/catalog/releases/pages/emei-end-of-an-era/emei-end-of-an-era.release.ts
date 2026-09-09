@@ -9,7 +9,7 @@ export const emeiEndOfAnEra = {
   position: 0,
   ownLength: 13.866,
   ownProgress: 13.866,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-10-26",

@@ -9,7 +9,7 @@ export const elvisPresley2FromTheVaults50s = {
   position: 0,
   ownLength: 44.484333,
   ownProgress: 44.484333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-03-18",
   externalId: "6bl6q2RIVWKMaTLkC3vN2A",

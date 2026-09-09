@@ -9,7 +9,7 @@ export const enyaAndWinterCame = {
   position: 0,
   ownLength: 48.963183,
   ownProgress: 48.963183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-11-10",
   externalId: "2CemN34rnpp6wrCFJo555S",

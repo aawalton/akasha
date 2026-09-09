@@ -9,7 +9,7 @@ export const ellaHendersonAlibiFeatRudimentalTheOtherGirlVersion = {
   position: 0,
   ownLength: 3.08085,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-04-05",
   externalId: "75bEjPHQvYKs10nNjHpTeR",

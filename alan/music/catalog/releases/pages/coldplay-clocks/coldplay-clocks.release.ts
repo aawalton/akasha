@@ -9,7 +9,7 @@ export const coldplayClocks = {
   position: 0,
   ownLength: 14.349517,
   ownProgress: 14.349517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2003-03-24",
   externalId: "1hnFNY7vQA0VipdplCdhPJ",

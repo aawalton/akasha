@@ -9,7 +9,7 @@ export const ejaeTimeAfterTime = {
   position: 0,
   ownLength: 2.804967,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-06",
   externalId: "24KhrK7jpSwwNDWvKr04NO",

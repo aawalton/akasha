@@ -9,7 +9,7 @@ export const ellaHendersonAlibiFeatRudimentalLowFiMix = {
   position: 0,
   ownLength: 3.639333,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-05-03",
   externalId: "6i6HsPYeP1di8n8LNCuuEk",

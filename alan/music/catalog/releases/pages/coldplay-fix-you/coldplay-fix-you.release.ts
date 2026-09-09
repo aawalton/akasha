@@ -9,7 +9,7 @@ export const coldplayFixYou = {
   position: 0,
   ownLength: 20.635467,
   ownProgress: 20.635467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2005-09-13",
   externalId: "1skkhQGSj1VljTbaejos3f",

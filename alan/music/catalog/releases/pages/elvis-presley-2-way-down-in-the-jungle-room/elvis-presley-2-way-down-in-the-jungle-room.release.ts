@@ -9,7 +9,7 @@ export const elvisPresley2WayDownInTheJungleRoom = {
   position: 0,
   ownLength: 130.73555,
   ownProgress: 130.73555,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-05",
   externalId: "0aDuEoOhb33KsJjfkaqaCr",

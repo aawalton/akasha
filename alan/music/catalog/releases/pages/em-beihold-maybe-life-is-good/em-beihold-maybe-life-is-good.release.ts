@@ -9,7 +9,7 @@ export const emBeiholdMaybeLifeIsGood = {
   position: 0,
   ownLength: 3.180883,
   ownProgress: 3.180883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2024-02-09",

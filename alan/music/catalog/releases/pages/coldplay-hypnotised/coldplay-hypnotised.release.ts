@@ -9,7 +9,7 @@ export const coldplayHypnotised = {
   position: 0,
   ownLength: 5.919533,
   ownProgress: 5.919533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-03-02",
   externalId: "165kxlULHc34us8oU420iw",

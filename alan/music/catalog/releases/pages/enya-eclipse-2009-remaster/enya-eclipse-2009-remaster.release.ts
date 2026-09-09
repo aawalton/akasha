@@ -9,7 +9,7 @@ export const enyaEclipse2009Remaster = {
   position: 0,
   ownLength: 13.47745,
   ownProgress: 13.47745,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-12",
   externalId: "2boYA3zd6uqaTWBEPCmcCm",

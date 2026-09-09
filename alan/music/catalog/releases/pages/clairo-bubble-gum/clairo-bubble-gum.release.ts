@@ -9,7 +9,7 @@ export const clairoBubbleGum = {
   position: 0,
   ownLength: 2.932667,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-02-22",
   externalId: "4IlnBRDEsHcr9EWxmbgMC2",

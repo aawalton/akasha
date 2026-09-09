@@ -9,7 +9,7 @@ export const elvisPresley2ElvisCountry = {
   position: 0,
   ownLength: 38.945967,
   ownProgress: 38.945967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1971-01-02",
   externalId: "5nFIESxbIeBxoREzNMzzbN",

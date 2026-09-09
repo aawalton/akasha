@@ -9,7 +9,7 @@ export const coldplayPrincessOfChinaAndreSobotaRemix = {
   position: 0,
   ownLength: 5.0664,
   ownProgress: 5.0664,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-06-03",
   externalId: "5GMAB2CiYfO711PUbJHMp4",

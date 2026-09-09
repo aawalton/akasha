@@ -9,7 +9,7 @@ export const ellaHendersonUnderTheSunWithAlokLucaSchreinerRemix = {
   position: 0,
   ownLength: 2.878783,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-05",
   externalId: "38G5TwwOgw5sTZfNJ1Is59",

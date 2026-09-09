@@ -9,7 +9,7 @@ export const coldplayASkyFullOfStars2 = {
   position: 0,
   ownLength: 13.382083,
   ownProgress: 13.382083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-29",
   externalId: "2jQB4YEh4xWhloG21IueUf",

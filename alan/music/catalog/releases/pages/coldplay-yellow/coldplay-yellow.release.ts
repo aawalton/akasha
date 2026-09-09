@@ -9,7 +9,7 @@ export const coldplayYellow = {
   position: 0,
   ownLength: 11.568433,
   ownProgress: 11.568433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2000-06-26",
   externalId: "3TQANfSeYZtl5rpNjYyR6U",

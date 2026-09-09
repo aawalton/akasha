@@ -9,7 +9,7 @@ export const ellaHendersonUnderTheSunWithAlokSwitchDiscoVipMix = {
   position: 0,
   ownLength: 4.019367,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-26",
   externalId: "1Hdbmv53nrcfnmqPJRKeMJ",

@@ -9,7 +9,7 @@ export const emeiScatterbrain2 = {
   position: 0,
   ownLength: 16.43215,
   ownProgress: 16.43215,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-10-20",

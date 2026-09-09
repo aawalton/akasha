@@ -9,7 +9,7 @@ export const coldplayASkyFullOfStarsRobinSchulzRemix = {
   position: 0,
   ownLength: 6.050333,
   ownProgress: 6.050333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-07-31",
   externalId: "1QpCQWJU6BLupL1LgQoNXW",

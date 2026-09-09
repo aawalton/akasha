@@ -9,7 +9,7 @@ export const emBeiholdTooPrecious = {
   position: 0,
   ownLength: 2.830833,
   ownProgress: 2.830833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-05-20",

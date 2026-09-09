@@ -9,7 +9,7 @@ export const ellaHendersonWeGotLoveAcoustic = {
   position: 0,
   ownLength: 3.522417,
   ownProgress: 3.522417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-04",
   externalId: "7oIfmqAVE90rqoYoxn3HQ7",

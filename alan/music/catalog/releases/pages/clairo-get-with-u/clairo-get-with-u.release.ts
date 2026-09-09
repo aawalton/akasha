@@ -9,7 +9,7 @@ export const clairoGetWithU = {
   position: 0,
   ownLength: 1.981383,
   ownProgress: 1.981383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "D",
   publishedAt: "2017-04-15",

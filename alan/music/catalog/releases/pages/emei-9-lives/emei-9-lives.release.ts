@@ -9,7 +9,7 @@ export const emei9Lives = {
   position: 0,
   ownLength: 7.346483,
   ownProgress: 7.346483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-11-01",

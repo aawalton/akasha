@@ -9,7 +9,7 @@ export const chaislynRhymeOrReason = {
   position: 0,
   ownLength: 4.190217,
   ownProgress: 4.190217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-14",
   externalId: "5sVzWvkKeVITAFcpjs7HOl",

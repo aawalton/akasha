@@ -9,7 +9,7 @@ export const coldplayBiutyful = {
   position: 0,
   ownLength: 3.206567,
   ownProgress: 3.206567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-06",
   externalId: "574iaZA34RiT9rM1F2s2IM",

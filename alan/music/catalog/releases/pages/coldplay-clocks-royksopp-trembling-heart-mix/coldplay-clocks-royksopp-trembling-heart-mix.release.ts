@@ -9,7 +9,7 @@ export const coldplayClocksRoyksoppTremblingHeartMix = {
   position: 0,
   ownLength: 5.742217,
   ownProgress: 5.742217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2003-07-21",
   externalId: "4yGYKNWgAGMJrhxv7OVWia",

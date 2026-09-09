@@ -9,7 +9,7 @@ export const enyaDarkSkyIslandDeluxe = {
   position: 0,
   ownLength: 54.605933,
   ownProgress: 54.605933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-11-20",
   externalId: "4FStw70Tk1spCN8V1o11oW",

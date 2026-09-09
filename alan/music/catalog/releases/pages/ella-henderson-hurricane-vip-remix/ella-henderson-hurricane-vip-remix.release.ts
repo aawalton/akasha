@@ -9,7 +9,7 @@ export const ellaHendersonHurricaneVipRemix = {
   position: 0,
   ownLength: 5.38635,
   ownProgress: 5.38635,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-12",
   externalId: "4KRdCibeyOnVMSPDgX2xjk",

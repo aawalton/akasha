@@ -9,7 +9,7 @@ export const elvisPresley2TheWonderOfYouElvisPresleyWithTheRoyalPhilharmonicOrch
   position: 0,
   ownLength: 51.246583,
   ownProgress: 51.246583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-21",
   externalId: "6oWz2hJ89n9mKarg3SO9ou",

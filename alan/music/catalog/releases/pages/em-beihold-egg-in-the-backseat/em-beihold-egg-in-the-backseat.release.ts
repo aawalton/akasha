@@ -9,7 +9,7 @@ export const emBeiholdEggInTheBackseat = {
   position: 0,
   ownLength: 19.249033,
   ownProgress: 19.249033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-07-22",

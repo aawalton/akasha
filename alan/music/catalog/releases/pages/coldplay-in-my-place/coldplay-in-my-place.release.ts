@@ -9,7 +9,7 @@ export const coldplayInMyPlace = {
   position: 0,
   ownLength: 10.5882,
   ownProgress: 10.5882,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2002-08-05",
   externalId: "2fycwGrq4XpHHWoLR4hOzF",

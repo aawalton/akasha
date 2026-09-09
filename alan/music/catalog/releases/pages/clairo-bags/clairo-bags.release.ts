@@ -9,7 +9,7 @@ export const clairoBags = {
   position: 0,
   ownLength: 4.341983,
   ownProgress: 4.341983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2019-05-24",

@@ -9,7 +9,7 @@ export const coldplayHigherPowerZhuRemix = {
   position: 0,
   ownLength: 4.768217,
   ownProgress: 4.768217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-05-20",
   externalId: "0kqW9S1stTTI6dsC6JztJf",

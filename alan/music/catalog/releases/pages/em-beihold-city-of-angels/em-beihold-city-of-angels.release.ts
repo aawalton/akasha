@@ -9,7 +9,7 @@ export const emBeiholdCityOfAngels = {
   position: 0,
   ownLength: 3.238467,
   ownProgress: 3.238467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2020-08-14",

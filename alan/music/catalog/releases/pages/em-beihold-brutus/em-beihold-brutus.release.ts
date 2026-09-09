@@ -9,7 +9,7 @@ export const emBeiholdBrutus = {
   position: 0,
   ownLength: 2.467517,
   ownProgress: 2.467517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-07-18",

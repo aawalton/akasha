@@ -9,7 +9,7 @@ export const elvisPresley2KissinCousinsOriginalSoundtrack = {
   position: 0,
   ownLength: 26.372267,
   ownProgress: 26.372267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-13",
   externalId: "7nr5E4dvKxkMfZMVG6l8IN",

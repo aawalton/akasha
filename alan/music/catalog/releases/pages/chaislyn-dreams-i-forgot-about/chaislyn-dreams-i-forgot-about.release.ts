@@ -9,7 +9,7 @@ export const chaislynDreamsIForgotAbout = {
   position: 0,
   ownLength: 3.531917,
   ownProgress: 3.531917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-17",
   externalId: "1pOhhl3FhhhcmSdK2SZ3xD",

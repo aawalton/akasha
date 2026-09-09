@@ -9,7 +9,7 @@ export const ellaHendersonLetSGoHomeTogetherCharlieHedgesEddieCraigExtendedRemix
   position: 0,
   ownLength: 5.589733,
   ownProgress: 5.589733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-09",
   externalId: "5efsif0EADLalqRsHLj0Jz",

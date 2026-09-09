@@ -9,7 +9,7 @@ export const ejaeInAnotherWorld = {
   position: 0,
   ownLength: 2.925517,
   ownProgress: 2.925517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-10-24",

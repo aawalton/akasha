@@ -9,7 +9,7 @@ export const ellaHendersonOneDoorClosesFeatBreland = {
   position: 0,
   ownLength: 3.118067,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-03-21",
   externalId: "5AOYmjNyAFYXsceGhAB6Dr",

@@ -9,7 +9,7 @@ export const ellaHendersonBrave = {
   position: 0,
   ownLength: 3.350883,
   ownProgress: 3.350883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-07",
   externalId: "0mPhbDbLpPeCnjm35rSkql",

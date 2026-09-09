@@ -9,7 +9,7 @@ export const elvisPresley2AlohaFromHawaiiViaSatelliteLive = {
   position: 0,
   ownLength: 62.297467,
   ownProgress: 62.297467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1973-02-02",
   externalId: "6AUihdKWdT5evm91G7wirB",

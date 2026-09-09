@@ -9,7 +9,7 @@ export const emBeiholdNumbLittleBug = {
   position: 0,
   ownLength: 2.820617,
   ownProgress: 2.820617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2022-01-28",

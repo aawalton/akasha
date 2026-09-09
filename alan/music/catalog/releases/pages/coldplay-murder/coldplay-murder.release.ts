@@ -9,7 +9,7 @@ export const coldplayMurder = {
   position: 0,
   ownLength: 5.581317,
   ownProgress: 5.581317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2003-01-01",
   externalId: "67eXmDByt2bonypIe2vJsN",

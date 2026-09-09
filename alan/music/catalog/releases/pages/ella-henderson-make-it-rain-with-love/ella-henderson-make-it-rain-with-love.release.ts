@@ -9,7 +9,7 @@ export const ellaHendersonMakeItRainWithLove = {
   position: 0,
   ownLength: 18.961033,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-11-22",
   externalId: "5dxEGl5cQtIxqmsBZI3Cr7",

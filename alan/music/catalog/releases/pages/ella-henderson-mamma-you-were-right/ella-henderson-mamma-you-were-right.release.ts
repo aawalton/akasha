@@ -9,7 +9,7 @@ export const ellaHendersonMammaYouWereRight = {
   position: 0,
   ownLength: 2.797117,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-08",
   externalId: "68M4jklzOpy5sSOtfL7Xxj",

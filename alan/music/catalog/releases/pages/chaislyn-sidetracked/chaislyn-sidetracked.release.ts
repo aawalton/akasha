@@ -9,7 +9,7 @@ export const chaislynSidetracked = {
   position: 0,
   ownLength: 2.9923,
   ownProgress: 2.9923,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-11",
   externalId: "0U59gfuWk7sG0IGRV5vOws",

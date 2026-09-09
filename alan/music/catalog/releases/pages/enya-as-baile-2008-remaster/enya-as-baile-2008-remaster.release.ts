@@ -9,7 +9,7 @@ export const enyaAsBaile2008Remaster = {
   position: 0,
   ownLength: 22.011483,
   ownProgress: 22.011483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-10",
   externalId: "397RZN44xlLjXaqmDwe1Q2",

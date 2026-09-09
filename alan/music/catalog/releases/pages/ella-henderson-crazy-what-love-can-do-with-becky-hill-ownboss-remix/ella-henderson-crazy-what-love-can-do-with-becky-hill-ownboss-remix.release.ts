@@ -9,7 +9,7 @@ export const ellaHendersonCrazyWhatLoveCanDoWithBeckyHillOwnbossRemix = {
   position: 0,
   ownLength: 9.252417,
   ownProgress: 9.252417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-30",
   externalId: "69IqzaBTW4Ok0UzGFOJfhb",

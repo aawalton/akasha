@@ -9,7 +9,7 @@ export const elvisPresley2HowGreatThouArt = {
   position: 0,
   ownLength: 39.500583,
   ownProgress: 39.500583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1967-02-01",
   externalId: "7N1t7WzloZyMj95jk6CSCt",

@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy1999ASeasonForCourage = {
   position: 1999,
   ownLength: 46.270383,
   ownProgress: 46.270383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1999-01-01",
   externalId: "4iTpSNfxeuJcbIBDcM8PrB",

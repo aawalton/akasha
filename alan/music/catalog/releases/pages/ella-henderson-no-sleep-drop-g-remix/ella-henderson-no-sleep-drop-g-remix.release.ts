@@ -9,7 +9,7 @@ export const ellaHendersonNoSleepDropGRemix = {
   position: 0,
   ownLength: 5.482233,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-28",
   externalId: "7cftkTm1F6q3heuheJ8g9i",

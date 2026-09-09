@@ -9,7 +9,7 @@ export const clairoHeaven = {
   position: 0,
   ownLength: 3.89785,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-07",
   externalId: "26tFSM2HfVCB0a4OLVxU4f",

@@ -9,7 +9,7 @@ export const coldplayMyUniverseSugaSRemix = {
   position: 0,
   ownLength: 3.137233,
   ownProgress: 3.137233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-26",
   externalId: "3oWWeH4gpNsJG0KyGaBoEd",

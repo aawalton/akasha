@@ -9,7 +9,7 @@ export const ellaHendersonLifelineFeatEllaHenderson = {
   position: 0,
   ownLength: 2.83755,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-08-04",
   externalId: "6cXVZGm8DdsT8QZpfeUST1",

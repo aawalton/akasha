@@ -9,7 +9,7 @@ export const elvisPresley2Elvis301Hits = {
   position: 0,
   ownLength: 78.291817,
   ownProgress: 78.291817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2002-09-24",
   externalId: "0QVoYzGd1p8Z3ohEaM0lsc",

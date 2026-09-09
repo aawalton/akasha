@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy1994ServingWithStrength = {
   position: 1994,
   ownLength: 56.626567,
   ownProgress: 56.626567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1994-01-01",
   externalId: "6vhbXJq8EI0vApHHPyq2iO",

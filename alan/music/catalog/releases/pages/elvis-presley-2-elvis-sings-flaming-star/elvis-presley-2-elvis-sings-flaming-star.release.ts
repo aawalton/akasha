@@ -9,7 +9,7 @@ export const elvisPresley2ElvisSingsFlamingStar = {
   position: 0,
   ownLength: 20.4133,
   ownProgress: 20.4133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1968-10-01",
   externalId: "3xHHQWEtennMsfZ65t9Brv",

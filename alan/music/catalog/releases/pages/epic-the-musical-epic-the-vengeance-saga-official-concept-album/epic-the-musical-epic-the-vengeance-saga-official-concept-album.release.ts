@@ -9,7 +9,7 @@ export const epicTheMusicalEpicTheVengeanceSagaOfficialConceptAlbum = {
   position: 0,
   ownLength: 15.91915,
   ownProgress: 15.91915,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-31",
   externalId: "5P7YyqqjHuq7mSLqIY06jE",

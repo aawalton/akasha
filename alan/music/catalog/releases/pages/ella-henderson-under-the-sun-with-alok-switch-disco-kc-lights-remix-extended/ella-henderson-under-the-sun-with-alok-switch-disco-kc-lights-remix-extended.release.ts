@@ -9,7 +9,7 @@ export const ellaHendersonUnderTheSunWithAlokSwitchDiscoKcLightsRemixExtended = 
   position: 0,
   ownLength: 6.431167,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-08-02",
   externalId: "1rGQ12SP0h0JWCSkhgGYIN",

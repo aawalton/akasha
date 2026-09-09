@@ -9,7 +9,7 @@ export const chaislynShadesOfPink = {
   position: 0,
   ownLength: 3.564867,
   ownProgress: 3.564867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-11",
   externalId: "0Un5mXCszpRHXq2w3bqNWl",

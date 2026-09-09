@@ -9,7 +9,7 @@ export const elvisPresley2OnStageLive = {
   position: 0,
   ownLength: 31.844183,
   ownProgress: 31.844183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1970-06-01",
   externalId: "1SDYhhFK9vXLI46trPpzYA",

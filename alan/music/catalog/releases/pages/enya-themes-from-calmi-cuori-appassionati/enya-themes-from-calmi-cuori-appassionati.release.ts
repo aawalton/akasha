@@ -9,7 +9,7 @@ export const enyaThemesFromCalmiCuoriAppassionati = {
   position: 0,
   ownLength: 49.238967,
   ownProgress: 49.238967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2001-01-01",
   externalId: "6GWptUmmrWPABTWSed7Ow8",

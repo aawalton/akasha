@@ -9,7 +9,7 @@ export const ellaHendersonThisIsRealAcoustic = {
   position: 0,
   ownLength: 2.814217,
   ownProgress: 2.814217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-15",
   externalId: "7wklaCjvJ3GQWIMYOKJUJo",

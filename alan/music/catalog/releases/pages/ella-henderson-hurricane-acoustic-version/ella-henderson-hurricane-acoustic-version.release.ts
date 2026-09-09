@@ -9,7 +9,7 @@ export const ellaHendersonHurricaneAcousticVersion = {
   position: 0,
   ownLength: 5.30035,
   ownProgress: 5.30035,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-26",
   externalId: "69XUoQgDdcktIwDqCugjPy",

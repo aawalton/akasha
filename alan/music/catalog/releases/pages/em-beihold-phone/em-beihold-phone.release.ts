@@ -9,7 +9,7 @@ export const emBeiholdPhone = {
   position: 0,
   ownLength: 2.5846,
   ownProgress: 2.5846,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-07-07",

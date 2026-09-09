@@ -9,7 +9,7 @@ export const coldplayShiver = {
   position: 0,
   ownLength: 15.5522,
   ownProgress: 15.5522,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2000-03-06",
   externalId: "2rd83EFsdLMTyrgVizvpxX",

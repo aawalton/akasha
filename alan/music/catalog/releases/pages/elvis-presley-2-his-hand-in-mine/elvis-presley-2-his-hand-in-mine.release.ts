@@ -9,7 +9,7 @@ export const elvisPresley2HisHandInMine = {
   position: 0,
   ownLength: 27.925267,
   ownProgress: 27.925267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1960-11-23",
   externalId: "0OflUemnHFws5bKzEbBVV3",

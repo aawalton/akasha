@@ -9,7 +9,7 @@ export const ellaHendersonMirrorManRemixes = {
   position: 0,
   ownLength: 10.77755,
   ownProgress: 10.77755,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-03-08",
   externalId: "0OhwCsLPxOHso0fR56m7pN",

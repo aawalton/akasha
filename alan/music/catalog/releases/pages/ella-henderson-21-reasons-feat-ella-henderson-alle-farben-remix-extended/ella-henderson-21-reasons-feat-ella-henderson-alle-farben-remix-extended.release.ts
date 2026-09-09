@@ -9,7 +9,7 @@ export const ellaHenderson21ReasonsFeatEllaHendersonAlleFarbenRemixExtended = {
   position: 0,
   ownLength: 3.8514,
   ownProgress: 3.8514,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-22",
   externalId: "5RhSMxj5RhvDzQl6vIw3g4",

@@ -9,7 +9,7 @@ export const coldplayGhostStoriesLive2014 = {
   position: 0,
   ownLength: 40.774367,
   ownProgress: 40.774367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-11-21",
   externalId: "1hNS0RsxPTFjmKXCgmjSLS",

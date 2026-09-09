@@ -9,7 +9,7 @@ export const coldplayWePray = {
   position: 0,
   ownLength: 3.8901,
   ownProgress: 3.8901,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-23",
   externalId: "3dZE98f3OlxeQlm9qWYekK",

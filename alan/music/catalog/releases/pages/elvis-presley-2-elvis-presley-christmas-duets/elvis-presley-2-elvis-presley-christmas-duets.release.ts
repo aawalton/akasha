@@ -9,7 +9,7 @@ export const elvisPresley2ElvisPresleyChristmasDuets = {
   position: 0,
   ownLength: 38.734583,
   ownProgress: 38.734583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-10-10",
   externalId: "0dZHOzNT3CYfHmK2yOW7oV",

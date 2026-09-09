@@ -9,7 +9,7 @@ export const enyaOceans = {
   position: 0,
   ownLength: 55.883483,
   ownProgress: 55.883483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1997-01-01",
   externalId: "6k0E2a8DdU8RQUBeLvJ3ss",

@@ -9,7 +9,7 @@ export const clairoAnticipate = {
   position: 0,
   ownLength: 3.154733,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-06-02",
   externalId: "1hy99Geeqk41ERKiyLz0b1",

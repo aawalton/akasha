@@ -9,7 +9,7 @@ export const ellaHendersonCitySessionsLive = {
   position: 0,
   ownLength: 15.839683,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-02-28",
   externalId: "3vnyq72BdxeUA1RotT2yc1",

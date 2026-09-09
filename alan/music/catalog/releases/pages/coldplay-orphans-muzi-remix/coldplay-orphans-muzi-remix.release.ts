@@ -9,7 +9,7 @@ export const coldplayOrphansMuziRemix = {
   position: 0,
   ownLength: 3.686,
   ownProgress: 3.686,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-04",
   externalId: "2BFaHYLKy6IvNfD0zi5EQW",

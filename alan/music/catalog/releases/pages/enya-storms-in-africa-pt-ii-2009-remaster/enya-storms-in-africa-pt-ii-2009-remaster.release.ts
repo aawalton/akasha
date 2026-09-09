@@ -9,7 +9,7 @@ export const enyaStormsInAfricaPtIi2009Remaster = {
   position: 0,
   ownLength: 6.842217,
   ownProgress: 6.842217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1989-06-05",
   externalId: "5z6FEKxtf1VOmfG12B8QqZ",

@@ -9,7 +9,7 @@ export const clairoSofia = {
   position: 0,
   ownLength: 3.139767,
   ownProgress: 3.139767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2019-07-26",

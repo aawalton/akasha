@@ -9,7 +9,7 @@ export const coldplayColoratura = {
   position: 0,
   ownLength: 10.316,
   ownProgress: 10.316,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-23",
   externalId: "0G0WNcM706ASd6n7UxXuKu",

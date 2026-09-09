@@ -9,7 +9,7 @@ export const emBeiholdInfrared = {
   position: 0,
   ownLength: 19.411017,
   ownProgress: 19.411017,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2017-05-11",

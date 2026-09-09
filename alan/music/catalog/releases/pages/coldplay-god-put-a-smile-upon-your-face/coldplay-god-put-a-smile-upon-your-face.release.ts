@@ -9,7 +9,7 @@ export const coldplayGodPutASmileUponYourFace = {
   position: 0,
   ownLength: 10.536417,
   ownProgress: 10.536417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2003-07-07",
   externalId: "5ZHXwTzxonEauEvYWIgBfw",

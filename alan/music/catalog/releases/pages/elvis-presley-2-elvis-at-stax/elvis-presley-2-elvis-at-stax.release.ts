@@ -9,7 +9,7 @@ export const elvisPresley2ElvisAtStax = {
   position: 0,
   ownLength: 172.927233,
   ownProgress: 172.927233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-08-05",
   externalId: "3EHxFLhmgSGEBmJ7tFXwRz",

@@ -9,7 +9,7 @@ export const coldplayUpUpFreedoRemix = {
   position: 0,
   ownLength: 3.5049,
   ownProgress: 3.5049,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-09-16",
   externalId: "46ElgN92j4wktUnUkxUFKR",

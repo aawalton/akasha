@@ -9,7 +9,7 @@ export const elvisPresley2GirlsGirlsGirls = {
   position: 0,
   ownLength: 28.63305,
   ownProgress: 28.63305,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1962-11-12",
   externalId: "6wH0jlf2q1yCprUO5XWSdz",

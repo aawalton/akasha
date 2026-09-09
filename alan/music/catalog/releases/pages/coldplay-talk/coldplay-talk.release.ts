@@ -9,7 +9,7 @@ export const coldplayTalk = {
   position: 0,
   ownLength: 29.789083,
   ownProgress: 29.789083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2005-12-19",
   externalId: "0Pfwiiwar1e7p5N7r8Wdeb",

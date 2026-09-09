@@ -9,7 +9,7 @@ export const clairoFlamingHotCheetos = {
   position: 0,
   ownLength: 2.064733,
   ownProgress: 2.064733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-14",
   externalId: "7r4hiK0374MEgTiD5KRDMS",

@@ -9,7 +9,7 @@ export const elvisPresley2Elvis2ndToNone = {
   position: 0,
   ownLength: 78.5043,
   ownProgress: 78.5043,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2003-10-07",
   externalId: "0p8PgHjOZJ6MrbHUXQ8ENM",

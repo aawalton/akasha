@@ -9,7 +9,7 @@ export const coldplayCharlieBrownDaveAudeRemix = {
   position: 0,
   ownLength: 6.7307,
   ownProgress: 6.7307,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-02-24",
   externalId: "5VeBLqypDgNfRglTd4kGGK",

@@ -9,7 +9,7 @@ export const ellaHendersonBlameItOnTheMistletoe = {
   position: 0,
   ownLength: 3.09565,
   ownProgress: 3.09565,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-12-04",
   externalId: "3MuX8Afd4KC0kGIBOstzxs",

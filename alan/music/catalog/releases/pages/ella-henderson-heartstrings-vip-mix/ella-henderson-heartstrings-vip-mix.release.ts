@@ -9,7 +9,7 @@ export const ellaHendersonHeartstringsVipMix = {
   position: 0,
   ownLength: 6.955783,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-10-28",
   externalId: "7E3SayHsbR7LjOTGXsTVnM",

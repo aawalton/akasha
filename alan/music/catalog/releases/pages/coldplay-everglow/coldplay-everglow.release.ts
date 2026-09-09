@@ -9,7 +9,7 @@ export const coldplayEverglow = {
   position: 0,
   ownLength: 8.821767,
   ownProgress: 8.821767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-10",
   externalId: "6LRAUvjNMdUieHc8RcpHQU",

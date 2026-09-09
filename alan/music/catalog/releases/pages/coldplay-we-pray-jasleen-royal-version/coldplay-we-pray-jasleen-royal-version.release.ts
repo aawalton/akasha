@@ -9,7 +9,7 @@ export const coldplayWePrayJasleenRoyalVersion = {
   position: 0,
   ownLength: 3.8901,
   ownProgress: 3.8901,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-13",
   externalId: "7hvPIynnfNUqcj0QjJ3K1W",

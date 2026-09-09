@@ -9,7 +9,7 @@ export const elvisPresley2RaisedOnRock = {
   position: 0,
   ownLength: 27.474817,
   ownProgress: 27.474817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1973-10-01",
   externalId: "2ZRE01JESBDtXwXckqGZY6",

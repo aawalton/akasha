@@ -9,7 +9,7 @@ export const elvisPresley2ItHappenedAtTheWorldSFair = {
   position: 0,
   ownLength: 21.091067,
   ownProgress: 21.091067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1963-03-15",
   externalId: "13FZKAhL3sU3xOGUmAuSV9",

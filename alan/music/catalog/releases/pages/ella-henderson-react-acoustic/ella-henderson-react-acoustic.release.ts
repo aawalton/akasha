@@ -9,7 +9,7 @@ export const ellaHendersonReactAcoustic = {
   position: 0,
   ownLength: 6.4686,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-03-03",
   externalId: "2ZTNuevIFDNxse1tlUBmSt",

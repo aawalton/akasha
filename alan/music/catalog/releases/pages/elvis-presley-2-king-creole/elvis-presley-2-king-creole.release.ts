@@ -9,7 +9,7 @@ export const elvisPresley2KingCreole = {
   position: 0,
   ownLength: 23.4695,
   ownProgress: 23.4695,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1958-09-19",
   externalId: "7hdMmwpZmRf8efyh7G2pOl",

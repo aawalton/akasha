@@ -9,7 +9,7 @@ export const clairoBrooklynBabySpotifySingles = {
   position: 0,
   ownLength: 5.76,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-11",
   externalId: "3BVT8znNQvlb22E3ZMu6Uc",

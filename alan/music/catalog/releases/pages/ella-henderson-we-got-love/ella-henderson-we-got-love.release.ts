@@ -9,7 +9,7 @@ export const ellaHendersonWeGotLove = {
   position: 0,
   ownLength: 3.550667,
   ownProgress: 3.550667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-01",
   externalId: "4GtslEn7rHERVWRlqrYehy",

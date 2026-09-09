@@ -9,7 +9,7 @@ export const ellaHendersonLetSGoHomeTogetherMadismRemix = {
   position: 0,
   ownLength: 6.888717,
   ownProgress: 6.888717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-16",
   externalId: "6at96u3cLvCGpxP4IVrXef",

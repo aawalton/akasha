@@ -9,7 +9,7 @@ export const emBeiholdTheBirdSongWithEmBeihold = {
   position: 0,
   ownLength: 3.884783,
   ownProgress: 3.884783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-12-13",

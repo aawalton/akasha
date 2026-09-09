@@ -9,7 +9,7 @@ export const elvisPresley2HeTouchedMe = {
   position: 0,
   ownLength: 30.479483,
   ownProgress: 30.479483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1972-04-03",
   externalId: "4BcD1RBud4U2DAqByYFBi2",

@@ -9,7 +9,7 @@ export const coldplayAdventureOfALifetimeMatomaRemix = {
   position: 0,
   ownLength: 4.178567,
   ownProgress: 4.178567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-12-03",
   externalId: "1TbYQD52H9tKtZine3mHHJ",

@@ -9,7 +9,7 @@ export const coldplayTrueLoveDavideRossiRemix = {
   position: 0,
   ownLength: 4.695833,
   ownProgress: 4.695833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-12-01",
   externalId: "5TJzsFUF2RUzrje51UmkhG",

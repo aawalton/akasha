@@ -9,7 +9,7 @@ export const elvisPresley2SomethingForEverybody = {
   position: 0,
   ownLength: 26.742617,
   ownProgress: 26.742617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-20",
   externalId: "2gsQtdVoSpl5cD4rcRDi3y",

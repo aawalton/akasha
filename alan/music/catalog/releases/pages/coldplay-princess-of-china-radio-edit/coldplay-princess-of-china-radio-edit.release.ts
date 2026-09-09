@@ -9,7 +9,7 @@ export const coldplayPrincessOfChinaRadioEdit = {
   position: 0,
   ownLength: 3.62625,
   ownProgress: 3.62625,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-04-13",
   externalId: "5O8q5vQVJIaCuDpC01AtaP",

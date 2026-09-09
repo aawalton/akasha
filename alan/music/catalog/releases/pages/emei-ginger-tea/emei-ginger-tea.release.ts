@@ -9,7 +9,7 @@ export const emeiGingerTea = {
   position: 0,
   ownLength: 3.684867,
   ownProgress: 3.684867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-12-12",
   externalId: "3HD6dMq4zT1yMugmUNNZdN",

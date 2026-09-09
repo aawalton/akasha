@@ -9,7 +9,7 @@ export const coldplayStrawberrySwing = {
   position: 0,
   ownLength: 4.1611,
   ownProgress: 4.1611,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2009-09-13",
   externalId: "5JyRcNcdZ8uf5vGH4b6ljZ",

@@ -9,7 +9,7 @@ export const clairoIDonTThinkICanDoThisAgain = {
   position: 0,
   ownLength: 3.699767,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-08-21",
   externalId: "2PMTYwJd3ui0erw8OJMvC4",

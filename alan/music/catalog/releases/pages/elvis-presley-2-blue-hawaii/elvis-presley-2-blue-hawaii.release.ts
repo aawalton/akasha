@@ -9,7 +9,7 @@ export const elvisPresley2BlueHawaii = {
   position: 0,
   ownLength: 32.14415,
   ownProgress: 32.14415,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1961-10-20",
   externalId: "7xe8VI48TxUpU1IIo0RfGi",

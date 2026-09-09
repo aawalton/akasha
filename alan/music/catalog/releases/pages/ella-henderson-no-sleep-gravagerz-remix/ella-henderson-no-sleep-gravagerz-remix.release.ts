@@ -9,7 +9,7 @@ export const ellaHendersonNoSleepGravagerzRemix = {
   position: 0,
   ownLength: 4.950317,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-05-12",
   externalId: "05JkGTqXB3oxTu5Yjm3GGb",

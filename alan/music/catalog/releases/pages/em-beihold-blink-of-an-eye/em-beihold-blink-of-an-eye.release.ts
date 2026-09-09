@@ -9,7 +9,7 @@ export const emBeiholdBlinkOfAnEye = {
   position: 0,
   ownLength: 3.28255,
   ownProgress: 3.28255,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2019-05-17",

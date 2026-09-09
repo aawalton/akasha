@@ -9,7 +9,7 @@ export const elvisPresley2PotluckWithElvis = {
   position: 0,
   ownLength: 27.930433,
   ownProgress: 27.930433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-23",
   externalId: "0NX8mdPVWy72gnIL8VHvs3",

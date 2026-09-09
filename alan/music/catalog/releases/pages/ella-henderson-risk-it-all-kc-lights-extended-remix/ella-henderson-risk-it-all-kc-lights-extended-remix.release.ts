@@ -9,7 +9,7 @@ export const ellaHendersonRiskItAllKcLightsExtendedRemix = {
   position: 0,
   ownLength: 6.0164,
   ownProgress: 6.0164,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-08",
   externalId: "3rzJtgrFFhyZpaICDZEtaP",

@@ -9,7 +9,7 @@ export const coldplaySomethingJustLikeThis = {
   position: 0,
   ownLength: 4.1271,
   ownProgress: 4.1271,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-02-22",
   externalId: "7IzpJkWQqgz1BTutQvSitX",

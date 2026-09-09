@@ -9,7 +9,7 @@ export const ellaHendersonHoldMeCloseFeatEllaHenderson = {
   position: 0,
   ownLength: 3.095833,
   ownProgress: 3.095833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-03-27",
   externalId: "17S4c0rf1RXLZ0u4ez15E5",

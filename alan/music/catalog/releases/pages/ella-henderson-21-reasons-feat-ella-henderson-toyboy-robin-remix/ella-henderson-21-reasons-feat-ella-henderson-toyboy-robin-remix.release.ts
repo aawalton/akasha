@@ -9,7 +9,7 @@ export const ellaHenderson21ReasonsFeatEllaHendersonToyboyRobinRemix = {
   position: 0,
   ownLength: 5.6857,
   ownProgress: 5.6857,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-17",
   externalId: "6srx0nL3zkToIGE6gMLueY",

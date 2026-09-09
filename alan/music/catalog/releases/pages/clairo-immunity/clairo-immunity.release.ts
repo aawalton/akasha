@@ -9,7 +9,7 @@ export const clairoImmunity = {
   position: 0,
   ownLength: 40.658817,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-08-02",
   externalId: "2DDv7gTOpB3D3kDEHddP9z",

@@ -9,7 +9,7 @@ export const ellaHendersonAlibiFeatRudimentalShapesVipMix = {
   position: 0,
   ownLength: 3.034467,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-02-16",
   externalId: "6ktR6Qucm21hfatJTtQzmJ",

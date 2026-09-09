@@ -9,7 +9,7 @@ export const coldplayTheHardestPart = {
   position: 0,
   ownLength: 8.658433,
   ownProgress: 8.658433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2006-04-06",
   externalId: "2dlacdThpQkKMsjHIomtu8",

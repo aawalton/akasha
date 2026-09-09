@@ -9,7 +9,7 @@ export const elvisPresley2Spinout = {
   position: 0,
   ownLength: 29.287933,
   ownProgress: 29.287933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1966-10-24",
   externalId: "3ZxrkkUoGwgAJHxtsmYi8M",

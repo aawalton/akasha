@@ -9,7 +9,7 @@ export const clairoCharm = {
   position: 0,
   ownLength: 38.1186,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-12",
   externalId: "1KNUCVXgIxKUGiuEB8eG0i",

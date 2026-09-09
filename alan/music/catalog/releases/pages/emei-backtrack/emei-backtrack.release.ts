@@ -9,7 +9,7 @@ export const emeiBacktrack = {
   position: 0,
   ownLength: 2.647333,
   ownProgress: 2.647333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-11-29",

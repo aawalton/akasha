@@ -9,7 +9,7 @@ export const coldplayMyUniverseDavidGuettaRemix = {
   position: 0,
   ownLength: 3.318917,
   ownProgress: 3.318917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-13",
   externalId: "4LcW19D6W1nHpvcJV5s2QI",

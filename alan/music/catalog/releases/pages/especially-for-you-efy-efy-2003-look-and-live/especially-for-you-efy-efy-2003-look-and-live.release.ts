@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy2003LookAndLive = {
   position: 2003,
   ownLength: 42.731283,
   ownProgress: 42.731283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2003-01-01",
   externalId: "45Fd7VUczsrMlmtFbNpeZv",

@@ -9,7 +9,7 @@ export const elvisPresley2Sunrise = {
   position: 0,
   ownLength: 92.1447,
   ownProgress: 92.1447,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1999-02-09",
   externalId: "24fuuMZK67jwheidhRGOQb",

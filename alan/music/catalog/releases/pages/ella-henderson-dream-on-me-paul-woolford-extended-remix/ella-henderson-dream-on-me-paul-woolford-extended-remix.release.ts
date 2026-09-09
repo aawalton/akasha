@@ -9,7 +9,7 @@ export const ellaHendersonDreamOnMePaulWoolfordExtendedRemix = {
   position: 0,
   ownLength: 5.894383,
   ownProgress: 5.894383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-06",
   externalId: "4HLyeotQ9ljJ7oZzWW72Ls",

@@ -9,7 +9,7 @@ export const elvisPresley2FrankieJohnny = {
   position: 0,
   ownLength: 26.479267,
   ownProgress: 26.479267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1966-01-01",
   externalId: "2yyCsy9h9vEepo2nrWSsjw",

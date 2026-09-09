@@ -9,7 +9,7 @@ export const coldplayTrouble = {
   position: 0,
   ownLength: 13.729767,
   ownProgress: 13.729767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2000-10-26",
   externalId: "5lVhDQnJYSknv2vLRX9ifV",

@@ -9,7 +9,7 @@ export const elvisPresley2GoodTimes = {
   position: 0,
   ownLength: 29.70705,
   ownProgress: 29.70705,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1974-05-20",
   externalId: "0bVlE6dhJEsCzCX2CWrOCw",

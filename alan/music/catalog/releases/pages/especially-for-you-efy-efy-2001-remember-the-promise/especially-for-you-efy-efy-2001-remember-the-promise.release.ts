@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy2001RememberThePromise = {
   position: 2001,
   ownLength: 37.8704,
   ownProgress: 37.8704,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2001-01-01",
   externalId: "6clukmPHH3Q1znZQPxAoEV",

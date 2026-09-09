@@ -9,7 +9,7 @@ export const elvisPresley2PrinceFromAnotherPlanetLive = {
   position: 0,
   ownLength: 114.7608,
   ownProgress: 114.7608,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-11-12",
   externalId: "1GX2nOfzF9HpmuikfC7BrQ",

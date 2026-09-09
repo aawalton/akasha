@@ -9,7 +9,7 @@ export const emBeiholdUntilIFoundYouEmBeiholdVersion = {
   position: 0,
   ownLength: 2.940667,
   ownProgress: 2.940667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-04-22",

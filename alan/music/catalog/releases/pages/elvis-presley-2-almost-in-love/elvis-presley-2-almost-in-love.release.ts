@@ -9,7 +9,7 @@ export const elvisPresley2AlmostInLove = {
   position: 0,
   ownLength: 32.083067,
   ownProgress: 32.083067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1970-10-01",
   externalId: "37RnDHLg68pu4owUWJYmMt",

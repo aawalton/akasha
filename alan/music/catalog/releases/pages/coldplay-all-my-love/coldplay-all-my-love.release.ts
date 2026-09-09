@@ -9,7 +9,7 @@ export const coldplayAllMyLove = {
   position: 0,
   ownLength: 11.0588,
   ownProgress: 11.0588,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-08-22",

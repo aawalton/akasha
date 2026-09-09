@@ -9,7 +9,7 @@ export const clairo2HoldU = {
   position: 0,
   ownLength: 1.981283,
   ownProgress: 1.981283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2017-04-13",

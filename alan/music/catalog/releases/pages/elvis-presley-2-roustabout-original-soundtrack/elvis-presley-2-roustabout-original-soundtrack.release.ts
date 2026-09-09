@@ -9,7 +9,7 @@ export const elvisPresley2RoustaboutOriginalSoundtrack = {
   position: 0,
   ownLength: 20.100167,
   ownProgress: 20.100167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-27",
   externalId: "4B6QlvxYaXW4nBNN2OChXI",

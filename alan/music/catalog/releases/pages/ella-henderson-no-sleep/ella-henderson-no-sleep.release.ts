@@ -9,7 +9,7 @@ export const ellaHendersonNoSleep = {
   position: 0,
   ownLength: 2.8364,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-03-17",
   externalId: "6mf8HZ3jitYeIlejz9Lq9p",

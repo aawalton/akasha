@@ -9,7 +9,7 @@ export const coldplayLetSomebodyGo = {
   position: 0,
   ownLength: 7.575733,
   ownProgress: 7.575733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-04",
   externalId: "0vS8EETjc2cnCu5j32uxxq",

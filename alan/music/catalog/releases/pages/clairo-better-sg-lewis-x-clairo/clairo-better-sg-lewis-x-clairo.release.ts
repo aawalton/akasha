@@ -9,7 +9,7 @@ export const clairoBetterSgLewisXClairo = {
   position: 0,
   ownLength: 3.22935,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-07-06",
   externalId: "2lZmVu1fNVLtqPyhRiDdsd",

@@ -9,7 +9,7 @@ export const ellaHendersonRiskItAllAcoustic = {
   position: 0,
   ownLength: 6.267733,
   ownProgress: 6.267733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-10",
   externalId: "3ktN8lAbG1r45q0DqoN8Bl",

@@ -9,7 +9,7 @@ export const emeiCynical = {
   position: 0,
   ownLength: 2.243033,
   ownProgress: 2.243033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-07-14",

@@ -9,7 +9,7 @@ export const elvisPresley2ElvisSingsTheWonderfulWorldOfChristmas = {
   position: 0,
   ownLength: 35.225733,
   ownProgress: 35.225733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1971-10-20",
   externalId: "67WNQsweOZ94qxgAUDGXAk",

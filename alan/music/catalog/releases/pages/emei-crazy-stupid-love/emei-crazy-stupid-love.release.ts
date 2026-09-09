@@ -9,7 +9,7 @@ export const emeiCrazyStupidLove = {
   position: 0,
   ownLength: 2.60555,
   ownProgress: 2.60555,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-02-26",

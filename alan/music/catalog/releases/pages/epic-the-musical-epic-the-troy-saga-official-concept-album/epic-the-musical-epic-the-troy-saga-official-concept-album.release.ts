@@ -9,7 +9,7 @@ export const epicTheMusicalEpicTheTroySagaOfficialConceptAlbum = {
   position: 0,
   ownLength: 16.144583,
   ownProgress: 16.144583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-04",
   externalId: "6SxVoqHzmrFnPno9DWedMj",

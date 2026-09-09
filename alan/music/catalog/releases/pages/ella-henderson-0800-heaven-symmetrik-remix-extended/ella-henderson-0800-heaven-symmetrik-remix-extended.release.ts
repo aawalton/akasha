@@ -9,7 +9,7 @@ export const ellaHenderson0800HeavenSymmetrikRemixExtended = {
   position: 0,
   ownLength: 3.83415,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-06-23",
   externalId: "5D7WfU6ypRsAkb6znVNkm0",

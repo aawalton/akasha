@@ -9,7 +9,7 @@ export const ellaHendersonTakeCareOfYouAcoustic = {
   position: 0,
   ownLength: 6.4557,
   ownProgress: 6.4557,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-03",
   externalId: "3PyP1NAg6qIQQc4z15ZIkz",

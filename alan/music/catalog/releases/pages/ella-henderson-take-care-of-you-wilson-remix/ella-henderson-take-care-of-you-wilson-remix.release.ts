@@ -9,7 +9,7 @@ export const ellaHendersonTakeCareOfYouWilsonRemix = {
   position: 0,
   ownLength: 3.015867,
   ownProgress: 3.015867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-24",
   externalId: "3nzo6crUng1enyTSYHE8wX",

@@ -9,7 +9,7 @@ export const elvisPresley2Roustabout = {
   position: 0,
   ownLength: 20.384833,
   ownProgress: 20.384833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1964-10-19",
   externalId: "7wxRGT2I9DKlMUo62cLuoV",

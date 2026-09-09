@@ -9,7 +9,7 @@ export const elvisPresley2AlohaFromHawaiiViaSatelliteDeluxeEdition = {
   position: 0,
   ownLength: 171.720233,
   ownProgress: 171.720233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-11",
   externalId: "5X3C75j0EXwudyUS6UiEVD",

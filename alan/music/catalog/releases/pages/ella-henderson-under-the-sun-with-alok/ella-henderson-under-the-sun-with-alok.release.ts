@@ -9,7 +9,7 @@ export const ellaHendersonUnderTheSunWithAlok = {
   position: 0,
   ownLength: 2.762383,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-05-31",
   externalId: "4PP92BFZLs8PMzJoKtNn5I",

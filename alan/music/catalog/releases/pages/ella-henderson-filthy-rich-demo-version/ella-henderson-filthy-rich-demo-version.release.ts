@@ -9,7 +9,7 @@ export const ellaHendersonFilthyRichDemoVersion = {
   position: 0,
   ownLength: 2.8489,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-01-03",
   externalId: "4SJ7qCcC1Ej1mY2XJ6nLLc",

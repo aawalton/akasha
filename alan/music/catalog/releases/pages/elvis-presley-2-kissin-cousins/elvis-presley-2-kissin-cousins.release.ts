@@ -9,7 +9,7 @@ export const elvisPresley2KissinCousins = {
   position: 0,
   ownLength: 26.792367,
   ownProgress: 26.792367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1964-04-01",
   externalId: "6pmtghRWm6C8EsD48dKmTi",

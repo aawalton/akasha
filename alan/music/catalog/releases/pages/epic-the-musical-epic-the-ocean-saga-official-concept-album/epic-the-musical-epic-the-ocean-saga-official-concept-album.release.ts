@@ -9,7 +9,7 @@ export const epicTheMusicalEpicTheOceanSagaOfficialConceptAlbum = {
   position: 0,
   ownLength: 14.238283,
   ownProgress: 14.238283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-25",
   externalId: "6q6FBKPiH2waQezdzpxhuz",

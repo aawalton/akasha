@@ -9,7 +9,7 @@ export const coldplayWishIWasHere = {
   position: 0,
   ownLength: 3.18155,
   ownProgress: 3.18155,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-07-11",
   externalId: "3ehc0OQ4fmdsVLhQp5SBTE",

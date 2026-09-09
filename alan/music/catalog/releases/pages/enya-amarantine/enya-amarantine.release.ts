@@ -9,7 +9,7 @@ export const enyaAmarantine = {
   position: 0,
   ownLength: 8.759317,
   ownProgress: 8.759317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2005-11-15",
   externalId: "3GMARsojMQpvAQqmFMR60g",

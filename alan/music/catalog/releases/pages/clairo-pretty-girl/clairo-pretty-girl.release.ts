@@ -9,7 +9,7 @@ export const clairoPrettyGirl = {
   position: 0,
   ownLength: 2.972533,
   ownProgress: 2.972533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2017-08-04",

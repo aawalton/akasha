@@ -9,7 +9,7 @@ export const elvisPresley2ElvisGoldenRecordsVol1 = {
   position: 0,
   ownLength: 33.87775,
   ownProgress: 33.87775,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-13",
   externalId: "4XtWB4D4wnamJTC42zbBSx",

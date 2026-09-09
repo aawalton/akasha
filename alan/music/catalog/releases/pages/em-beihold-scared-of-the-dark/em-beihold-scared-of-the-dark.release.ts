@@ -9,7 +9,7 @@ export const emBeiholdScaredOfTheDark = {
   position: 0,
   ownLength: 8.066767,
   ownProgress: 8.066767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2025-10-24",

@@ -9,7 +9,7 @@ export const emBeiholdNumbLittleBugPianoVersion = {
   position: 0,
   ownLength: 2.755333,
   ownProgress: 2.755333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2022-03-18",

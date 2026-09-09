@@ -9,7 +9,7 @@ export const ellaHendersonUglyAcoustic = {
   position: 0,
   ownLength: 10.738467,
   ownProgress: 10.738467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-25",
   externalId: "7FzKc1HYPRsswwUBLQzF82",

@@ -9,7 +9,7 @@ export const ellaHendersonLetSGoHomeTogetherLucaSchreinerExtendedRemix = {
   position: 0,
   ownLength: 3.233333,
   ownProgress: 3.233333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-26",
   externalId: "2OgiedOysXfiJqZn4PVb85",

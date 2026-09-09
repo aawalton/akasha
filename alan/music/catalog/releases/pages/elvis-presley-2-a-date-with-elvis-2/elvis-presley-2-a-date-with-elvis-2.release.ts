@@ -9,7 +9,7 @@ export const elvisPresley2ADateWithElvis2 = {
   position: 0,
   ownLength: 23.141233,
   ownProgress: 23.141233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-16",
   externalId: "6YbFKatqJ3PYpMv7VXShBO",

@@ -9,7 +9,7 @@ export const epicTheMusicalEpicTheWisdomSagaOfficialConceptAlbum = {
   position: 0,
   ownLength: 18.06675,
   ownProgress: 18.06675,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-08-30",
   externalId: "5IaGIT4jt1J2JAXrOBPPck",

@@ -9,7 +9,7 @@ export const elvisPresley2ElvisOnTour = {
   position: 0,
   ownLength: 391.817817,
   ownProgress: 391.817817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-02",
   externalId: "7GsLjMQBwLaKbXHTV9s11S",

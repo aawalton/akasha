@@ -9,7 +9,7 @@ export const emBeiholdRollerCoastersMakeMeSad = {
   position: 0,
   ownLength: 3.1996,
   ownProgress: 3.1996,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-02-24",

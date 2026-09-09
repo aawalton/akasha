@@ -9,7 +9,7 @@ export const coldplayAdventureOfALifetimeYottoRemix = {
   position: 0,
   ownLength: 3.831117,
   ownProgress: 3.831117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-03-28",
   externalId: "6HtLkpRPDhS1wUcDzE50hd",

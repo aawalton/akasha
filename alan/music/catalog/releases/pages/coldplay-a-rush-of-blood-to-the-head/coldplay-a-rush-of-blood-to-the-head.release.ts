@@ -9,7 +9,7 @@ export const coldplayARushOfBloodToTheHead = {
   position: 0,
   ownLength: 54.18595,
   ownProgress: 54.18595,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2002-08-27",
   externalId: "0RHX9XECH8IVI3LNgWDpmQ",

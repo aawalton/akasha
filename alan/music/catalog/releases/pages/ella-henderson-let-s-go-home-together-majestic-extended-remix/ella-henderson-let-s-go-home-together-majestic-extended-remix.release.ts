@@ -9,7 +9,7 @@ export const ellaHendersonLetSGoHomeTogetherMajesticExtendedRemix = {
   position: 0,
   ownLength: 5.6086,
   ownProgress: 5.6086,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-30",
   externalId: "3QrF1aizOKo0zyYDL2T5wB",

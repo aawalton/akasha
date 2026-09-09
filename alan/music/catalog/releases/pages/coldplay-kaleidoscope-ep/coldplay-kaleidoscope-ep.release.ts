@@ -9,7 +9,7 @@ export const coldplayKaleidoscopeEp = {
   position: 0,
   ownLength: 24.984617,
   ownProgress: 24.984617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-13",
   externalId: "0CE9VXSH70pz4BQzMPm9gO",

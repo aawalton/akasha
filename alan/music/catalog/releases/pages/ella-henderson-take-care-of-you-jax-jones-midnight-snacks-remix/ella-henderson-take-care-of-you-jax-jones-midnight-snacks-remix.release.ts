@@ -9,7 +9,7 @@ export const ellaHendersonTakeCareOfYouJaxJonesMidnightSnacksRemix = {
   position: 0,
   ownLength: 3.654817,
   ownProgress: 3.654817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-17",
   externalId: "1rVVVFTXLoDAINmB3ONgLN",

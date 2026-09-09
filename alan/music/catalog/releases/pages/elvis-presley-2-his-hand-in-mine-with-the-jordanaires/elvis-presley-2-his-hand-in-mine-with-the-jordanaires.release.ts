@@ -9,7 +9,7 @@ export const elvisPresley2HisHandInMineWithTheJordanaires = {
   position: 0,
   ownLength: 27.768533,
   ownProgress: 27.768533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-25",
   externalId: "3O7ecNDzEROwBHI8iLrRBP",

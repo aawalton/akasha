@@ -9,7 +9,7 @@ export const coldplayHurtsLikeHeaven = {
   position: 0,
   ownLength: 4.03755,
   ownProgress: 4.03755,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-10-24",
   externalId: "4mTRjo752lDXWzflHdMJh5",

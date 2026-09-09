@@ -9,7 +9,7 @@ export const elvisPresley2ElvisRecordedLiveOnStageInMemphisLegacyEdition = {
   position: 0,
   ownLength: 143.630383,
   ownProgress: 143.630383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1974-07-07",
   externalId: "0CZg0hwoVNHnr4Qt5ZVko6",

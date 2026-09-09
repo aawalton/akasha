@@ -9,7 +9,7 @@ export const elvisPresley2SunsetBoulevard = {
   position: 0,
   ownLength: 329.050733,
   ownProgress: 329.050733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-01",
   externalId: "4zUZv055gk4daN0VusN3gw",

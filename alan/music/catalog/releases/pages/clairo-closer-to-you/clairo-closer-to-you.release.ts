@@ -9,7 +9,7 @@ export const clairoCloserToYou = {
   position: 0,
   ownLength: 3.07155,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-06-26",
   externalId: "08cNjr1Fd1HqZE4m2ylB2p",

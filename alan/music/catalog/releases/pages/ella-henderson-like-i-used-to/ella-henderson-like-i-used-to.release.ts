@@ -9,7 +9,7 @@ export const ellaHendersonLikeIUsedTo = {
   position: 0,
   ownLength: 3.104383,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-28",
   externalId: "5bRtAP2yHcZ7dW7tqkTmx6",

@@ -9,7 +9,7 @@ export const chaislynMrNiceTry = {
   position: 0,
   ownLength: 3.159467,
   ownProgress: 3.159467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-13",
   externalId: "6kl9UuLfB181aBGBbpqwmB",

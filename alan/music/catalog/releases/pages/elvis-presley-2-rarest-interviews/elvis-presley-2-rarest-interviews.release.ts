@@ -9,7 +9,7 @@ export const elvisPresley2RarestInterviews = {
   position: 0,
   ownLength: 78.349267,
   ownProgress: 78.349267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-06",
   externalId: "4ktodEbLViD57MvJ1a93cE",

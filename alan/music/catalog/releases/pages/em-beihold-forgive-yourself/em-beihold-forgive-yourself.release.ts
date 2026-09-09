@@ -9,7 +9,7 @@ export const emBeiholdForgiveYourself = {
   position: 0,
   ownLength: 3.229033,
   ownProgress: 3.229033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2020-05-15",

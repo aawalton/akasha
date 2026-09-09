@@ -9,7 +9,7 @@ export const emBeiholdFantasyWithGayleEmBeihold = {
   position: 0,
   ownLength: 2.918167,
   ownProgress: 2.918167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-04-14",

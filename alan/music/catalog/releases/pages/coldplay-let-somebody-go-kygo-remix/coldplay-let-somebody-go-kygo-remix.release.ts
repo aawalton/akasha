@@ -9,7 +9,7 @@ export const coldplayLetSomebodyGoKygoRemix = {
   position: 0,
   ownLength: 10.863517,
   ownProgress: 10.863517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-11",
   externalId: "7EZAIhKzfjXbAsL0hrQjGF",

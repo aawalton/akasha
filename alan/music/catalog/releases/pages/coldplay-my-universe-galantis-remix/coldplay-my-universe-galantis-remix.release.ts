@@ -9,7 +9,7 @@ export const coldplayMyUniverseGalantisRemix = {
   position: 0,
   ownLength: 3.748467,
   ownProgress: 3.748467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-11",
   externalId: "7eMHMiz2uvtDDMbvKRJxlP",

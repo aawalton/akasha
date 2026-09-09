@@ -9,7 +9,7 @@ export const coldplayParadise = {
   position: 0,
   ownLength: 4.645317,
   ownProgress: 4.645317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-09-09",
   externalId: "4DvSBRBGE20LBDoMOWjwmj",

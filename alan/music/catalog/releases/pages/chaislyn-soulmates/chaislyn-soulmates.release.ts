@@ -9,7 +9,7 @@ export const chaislynSoulmates = {
   position: 0,
   ownLength: 4.518933,
   ownProgress: 4.518933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-02",
   externalId: "40ObQxWvt56zul3OaUMrQx",

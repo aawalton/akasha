@@ -9,7 +9,7 @@ export const elvisPresley2ElvisIsBack = {
   position: 0,
   ownLength: 31.7788,
   ownProgress: 31.7788,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1960-04-08",
   externalId: "2SBAAtgdyjgfTO1UMHnza1",

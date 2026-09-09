@@ -9,7 +9,7 @@ export const coldplayBrothersSisters = {
   position: 0,
   ownLength: 10.935983,
   ownProgress: 10.935983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1999-04-26",
   externalId: "1As5m9qcOZtuFzdlzCkrzI",

@@ -9,7 +9,7 @@ export const epicTheMusicalEpicTheUnderworldSagaOfficialConceptAlbum = {
   position: 0,
   ownLength: 10.719417,
   ownProgress: 10.719417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-26",
   externalId: "1JjlC7lq1Oq8KCFybHRnIH",

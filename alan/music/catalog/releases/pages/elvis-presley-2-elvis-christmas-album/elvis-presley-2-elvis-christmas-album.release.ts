@@ -9,7 +9,7 @@ export const elvisPresley2ElvisChristmasAlbum = {
   position: 0,
   ownLength: 30.714383,
   ownProgress: 30.714383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1957-10-15",
   externalId: "6zk4RKl6JFlgLCV4Z7DQ7N",

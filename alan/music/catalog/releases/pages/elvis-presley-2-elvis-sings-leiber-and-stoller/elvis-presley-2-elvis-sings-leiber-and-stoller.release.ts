@@ -9,7 +9,7 @@ export const elvisPresley2ElvisSingsLeiberAndStoller = {
   position: 0,
   ownLength: 53.563417,
   ownProgress: 53.563417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1980-06-01",
   externalId: "1nqDrIknqoUl758F8trs8H",

@@ -9,7 +9,7 @@ export const elvisPresley2HarumScarum = {
   position: 0,
   ownLength: 24.441483,
   ownProgress: 24.441483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1965-11-01",
   externalId: "0DDokriMy7L6hseGI6Ju7C",

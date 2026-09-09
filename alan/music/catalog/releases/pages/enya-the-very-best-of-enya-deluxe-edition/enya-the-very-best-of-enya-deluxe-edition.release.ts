@@ -9,7 +9,7 @@ export const enyaTheVeryBestOfEnyaDeluxeEdition = {
   position: 0,
   ownLength: 84.055617,
   ownProgress: 84.055617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2009-12-01",
   externalId: "6nWeQICT2mTRckahG3Wuus",

@@ -9,7 +9,7 @@ export const coldplayPrincessOfChina = {
   position: 0,
   ownLength: 15.620667,
   ownProgress: 15.620667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-06-01",
   externalId: "3yddXawPNWK9qUDqB2UMY7",

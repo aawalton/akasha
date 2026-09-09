@@ -9,7 +9,7 @@ export const ellaHendersonAlibiFeatRudimentalJoelCorryRemix = {
   position: 0,
   ownLength: 2.372783,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-03-01",
   externalId: "5dY7Ol2aeGlG0LdeIkIrdG",

@@ -9,7 +9,7 @@ export const elvisPresley2CMonEverybody = {
   position: 0,
   ownLength: 23.0979,
   ownProgress: 23.0979,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1971-07-01",
   externalId: "1qEWLQtbtSfa051tA3jJQ5",

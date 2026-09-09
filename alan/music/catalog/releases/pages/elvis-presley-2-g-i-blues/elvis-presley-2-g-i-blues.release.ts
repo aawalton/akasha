@@ -9,7 +9,7 @@ export const elvisPresley2GIBlues = {
   position: 0,
   ownLength: 27.92015,
   ownProgress: 27.92015,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1960-09-23",
   externalId: "1TqAYM0PTj6TDdzTcY8VGT",

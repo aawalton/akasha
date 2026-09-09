@@ -9,7 +9,7 @@ export const elvisPresley2Speedway = {
   position: 0,
   ownLength: 27.922833,
   ownProgress: 27.922833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1968-05-20",
   externalId: "27rnGQx6avdqjPq8gtKs7D",

@@ -9,7 +9,7 @@ export const ejaeDinnerMateOriginalTelevisionSoundtrackPt5 = {
   position: 0,
   ownLength: 7.678667,
   ownProgress: 7.678667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2020-06-16",

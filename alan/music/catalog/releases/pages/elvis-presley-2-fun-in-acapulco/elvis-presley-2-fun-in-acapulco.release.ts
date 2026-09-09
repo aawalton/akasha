@@ -9,7 +9,7 @@ export const elvisPresley2FunInAcapulco = {
   position: 0,
   ownLength: 29.6635,
   ownProgress: 29.6635,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1963-11-15",
   externalId: "6HKnyw3DYCaD1wdmzez463",

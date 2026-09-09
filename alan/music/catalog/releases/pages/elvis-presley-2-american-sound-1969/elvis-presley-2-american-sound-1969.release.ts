@@ -9,7 +9,7 @@ export const elvisPresley2AmericanSound1969 = {
   position: 0,
   ownLength: 367.332767,
   ownProgress: 367.332767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-23",
   externalId: "45su93rMPo8auQWHK3JaqF",

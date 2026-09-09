@@ -9,7 +9,7 @@ export const enyaWildChildEdit = {
   position: 0,
   ownLength: 25.57415,
   ownProgress: 25.57415,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-17",
   externalId: "7gLNwTdd0gjpF50rsWztD3",

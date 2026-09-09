@@ -9,7 +9,7 @@ export const coldplayALIENSMarkusDravsRemix = {
   position: 0,
   ownLength: 7.086933,
   ownProgress: 7.086933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-21",
   externalId: "3pg2wMCqJzTksen01JRptU",

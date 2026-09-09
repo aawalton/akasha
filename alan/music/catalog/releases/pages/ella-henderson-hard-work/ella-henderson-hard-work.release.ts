@@ -9,7 +9,7 @@ export const ellaHendersonHardWork = {
   position: 0,
   ownLength: 4.526817,
   ownProgress: 4.526817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-06",
   externalId: "0eN2o7Um2ZoOZxZLCd36X4",

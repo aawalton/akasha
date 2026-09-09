@@ -9,7 +9,7 @@ export const elvisPresley2ChristmasWithElvisAndTheRoyalPhilharmonicOrchestraDelu
   position: 0,
   ownLength: 50.715433,
   ownProgress: 50.715433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-24",
   externalId: "11FCLUM5m9GiuxjGEoTVF5",

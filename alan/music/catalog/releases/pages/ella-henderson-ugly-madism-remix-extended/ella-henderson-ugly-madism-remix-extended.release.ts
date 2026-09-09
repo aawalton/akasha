@@ -9,7 +9,7 @@ export const ellaHendersonUglyMadismRemixExtended = {
   position: 0,
   ownLength: 4.096,
   ownProgress: 4.096,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-01",
   externalId: "78qGqDhgEoKXeckXx89Hwb",

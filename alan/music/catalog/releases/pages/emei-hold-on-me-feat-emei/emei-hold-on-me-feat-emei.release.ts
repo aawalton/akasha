@@ -9,7 +9,7 @@ export const emeiHoldOnMeFeatEmei = {
   position: 0,
   ownLength: 2.492817,
   ownProgress: 2.492817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-10",

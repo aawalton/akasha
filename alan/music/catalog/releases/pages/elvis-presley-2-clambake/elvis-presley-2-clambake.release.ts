@@ -9,7 +9,7 @@ export const elvisPresley2Clambake = {
   position: 0,
   ownLength: 29.593933,
   ownProgress: 29.593933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1967-10-23",
   externalId: "6rgQTKAl5UXrWhPUKuIGFN",

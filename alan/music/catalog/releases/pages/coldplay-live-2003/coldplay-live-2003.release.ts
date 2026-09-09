@@ -9,7 +9,7 @@ export const coldplayLive2003 = {
   position: 0,
   ownLength: 67.443683,
   ownProgress: 67.443683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2003-11-01",
   externalId: "3JMOZD2qixTTLRW9I6JuF4",

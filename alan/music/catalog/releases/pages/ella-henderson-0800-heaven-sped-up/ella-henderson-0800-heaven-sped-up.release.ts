@@ -9,7 +9,7 @@ export const ellaHenderson0800HeavenSpedUp = {
   position: 0,
   ownLength: 4.880117,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-07-07",
   externalId: "16un1nPvMlyOnotAu7Rppv",

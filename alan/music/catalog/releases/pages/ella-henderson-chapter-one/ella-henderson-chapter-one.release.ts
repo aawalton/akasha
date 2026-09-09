@@ -9,7 +9,7 @@ export const ellaHendersonChapterOne = {
   position: 0,
   ownLength: 40.671583,
   ownProgress: 40.671583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-12",
   externalId: "3ndfnISZRohKZGbKh6kv33",

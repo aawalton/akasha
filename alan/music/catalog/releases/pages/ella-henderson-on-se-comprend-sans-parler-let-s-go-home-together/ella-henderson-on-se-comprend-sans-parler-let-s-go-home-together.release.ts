@@ -9,7 +9,7 @@ export const ellaHendersonOnSeComprendSansParlerLetSGoHomeTogether = {
   position: 0,
   ownLength: 3.525633,
   ownProgress: 3.525633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-05-21",
   externalId: "2RxT1X0QkEIzHsxnAZ0VJl",

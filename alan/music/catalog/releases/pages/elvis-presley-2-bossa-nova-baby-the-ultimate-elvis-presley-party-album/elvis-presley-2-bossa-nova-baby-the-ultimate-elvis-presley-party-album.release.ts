@@ -9,7 +9,7 @@ export const elvisPresley2BossaNovaBabyTheUltimateElvisPresleyPartyAlbum = {
   position: 0,
   ownLength: 43.572367,
   ownProgress: 43.572367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-04",
   externalId: "4RaW2vsKwtP8AxXVAgZyZN",

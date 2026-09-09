@@ -9,7 +9,7 @@ export const elvisPresley2FromElvisInMemphis = {
   position: 0,
   ownLength: 49.949017,
   ownProgress: 49.949017,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1969-06-17",
   externalId: "3ekkFrfotMsEAKc5g71GHk",

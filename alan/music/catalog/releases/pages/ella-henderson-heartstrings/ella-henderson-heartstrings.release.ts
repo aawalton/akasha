@@ -9,7 +9,7 @@ export const ellaHendersonHeartstrings = {
   position: 0,
   ownLength: 3.52265,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-09-09",
   externalId: "6Zf2UCQdYaRfR5pFXQAl90",

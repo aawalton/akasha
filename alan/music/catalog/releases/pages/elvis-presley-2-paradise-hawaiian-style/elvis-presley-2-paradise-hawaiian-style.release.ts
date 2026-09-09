@@ -9,7 +9,7 @@ export const elvisPresley2ParadiseHawaiianStyle = {
   position: 0,
   ownLength: 22.175067,
   ownProgress: 22.175067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1966-06-01",
   externalId: "4n4oa8ac6Wyy5zE8iv42Nc",

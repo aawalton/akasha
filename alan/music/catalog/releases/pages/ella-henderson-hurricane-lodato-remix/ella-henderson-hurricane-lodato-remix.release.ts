@@ -9,7 +9,7 @@ export const ellaHendersonHurricaneLodatoRemix = {
   position: 0,
   ownLength: 2.539667,
   ownProgress: 2.539667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-19",
   externalId: "6bW8KetniBLhXMxqzs6T2D",

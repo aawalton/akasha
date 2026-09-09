@@ -9,7 +9,7 @@ export const ellaHendersonLetSGoHomeTogetherStripped = {
   position: 0,
   ownLength: 7.1665,
   ownProgress: 7.1665,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-11",
   externalId: "6hcBHK0n7wQygb6UN3MvKf",

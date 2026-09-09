@@ -9,7 +9,7 @@ export const ellaHendersonGhost = {
   position: 0,
   ownLength: 3.601767,
   ownProgress: 3.601767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-06-08",
   externalId: "6MAEuDumUgxsWaEWA6lddg",
