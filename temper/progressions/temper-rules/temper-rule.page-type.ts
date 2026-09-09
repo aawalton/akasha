@@ -1,20 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.ts"
-import type { Action } from "./properties/action.relation-property.ts"
-import type { Active } from "./properties/active.boolean-property.ts"
-import type { Conditions } from "./properties/conditions.page-property-entry.ts"
-import type { Destination } from "./properties/destination.text-property.ts"
-import type { Goal } from "./properties/goal.relation-property.ts"
-import type { StockScope } from "./properties/stock-scope.select-property.ts"
-
-export type TemperRule = TemperProgressThing & {
-  action?: Action
-  active?: Active
-  goal?: Goal
-  conditions?: Conditions
-  destination?: Destination
-  stockScope?: StockScope
-}
 
 export const temperRule = {
   id: "01a0727a-ee24-78ce-96b2-5cd1e1558110",
@@ -56,4 +40,5 @@ export const temperRule = {
       statement: "A rule's action on an item is done outside these pages.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperRule } from "../temper-rules/temper-rule.page-type.ts"
+import type { TemperRule } from "../temper-rules/temper-rule.page-type.types.ts"
 import type { DestinationChain } from "./properties/destination-chain.page-property-entry.ts"
 import type { FromTemplate } from "./properties/from-template.relation-property.ts"
 import type { RuleLocked } from "./properties/rule-locked.boolean-property.ts"
