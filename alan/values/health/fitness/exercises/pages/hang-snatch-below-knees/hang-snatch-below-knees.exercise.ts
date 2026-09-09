@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const hangSnatchBelowKnees = {
   id: "019ebc77-560a-77b4-80a3-53cb438ecdbe",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "hang-snatch-below-knees",
   title: "Hang Snatch - Below Knees",
   exerciseCategory: "olympic-weightlifting",

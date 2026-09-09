@@ -3,6 +3,7 @@ import type { ToDo } from "../../to-do.page-type.ts"
 export const planPresentForJenForOurAnniversary = {
   id: "019db533-f381-7d37-924b-b3e609f6e90a",
   pageTypeSlug: "to-do",
+  type: "to-do",
   slug: "plan-present-for-jen-for-our-anniversary",
   title: "Plan present for Jen for our anniversary",
   toDoCategory: "love",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const kettlebellArnoldPress = {
   id: "019ebc77-8348-7a0f-ace3-64f3e5a9504c",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "kettlebell-arnold-press",
   title: "Kettlebell Arnold Press",
   exerciseCategory: "strength",

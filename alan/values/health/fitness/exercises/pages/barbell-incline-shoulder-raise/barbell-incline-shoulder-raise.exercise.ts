@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const barbellInclineShoulderRaise = {
   id: "019ebc76-23d4-7343-9478-252afe79f084",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "barbell-incline-shoulder-raise",
   title: "Barbell Incline Shoulder Raise",
   exerciseCategory: "strength",

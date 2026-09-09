@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const chestPushWithRunRelease = {
   id: "019ebc76-cf3f-7dcd-815f-6baf344a6550",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "chest-push-with-run-release",
   title: "Chest Push with Run Release",
   exerciseCategory: "plyometrics",

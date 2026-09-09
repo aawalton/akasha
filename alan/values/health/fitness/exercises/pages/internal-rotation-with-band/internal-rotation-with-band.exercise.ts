@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const internalRotationWithBand = {
   id: "019ebc77-7f25-782a-9007-489893e8639a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "internal-rotation-with-band",
   title: "Internal Rotation with Band",
   exerciseCategory: "strength",

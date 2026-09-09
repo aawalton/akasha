@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const ezBarCurl = {
   id: "019ebc77-2cd5-775c-b093-12babc33556b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "ez-bar-curl",
   title: "EZ-Bar Curl",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const clockPushUp = {
   id: "019ebc76-db8e-7d59-ba86-5d75af66f9d5",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "clock-push-up",
   title: "Clock Push-Up",
   exerciseCategory: "strength",

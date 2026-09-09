@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const fastSkipping = {
   id: "019ebc77-3902-7766-a0f5-4116cab8cd70",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "fast-skipping",
   title: "Fast Skipping",
   exerciseCategory: "plyometrics",

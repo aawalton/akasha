@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const crossBodyCrunch = {
   id: "019ebc76-df69-7cf4-9415-e3fa866a3611",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cross-body-crunch",
   title: "Cross-Body Crunch",
   exerciseCategory: "strength",

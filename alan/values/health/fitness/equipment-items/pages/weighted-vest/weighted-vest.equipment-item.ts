@@ -3,6 +3,7 @@ import type { EquipmentItem } from "../../equipment-item.page-type.ts"
 export const weightedVest = {
   id: "019f01e1-b319-7702-9a89-953151f9dbf5",
   pageTypeSlug: "equipment-item",
+  type: "equipment-item",
   slug: "weighted-vest",
   title: "Weighted Vest",
   category: "vest",

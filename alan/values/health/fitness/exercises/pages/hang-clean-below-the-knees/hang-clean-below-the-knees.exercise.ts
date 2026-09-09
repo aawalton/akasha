@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const hangCleanBelowTheKnees = {
   id: "019ebc77-4c84-7177-829d-daf004540892",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "hang-clean-below-the-knees",
   title: "Hang Clean - Below the Knees",
   exerciseCategory: "olympic-weightlifting",

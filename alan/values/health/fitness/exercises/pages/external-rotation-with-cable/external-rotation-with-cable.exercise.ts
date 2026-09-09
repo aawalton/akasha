@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const externalRotationWithCable = {
   id: "019ebc77-30b8-7e55-8750-4a30425eb5ee",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "external-rotation-with-cable",
   title: "External Rotation with Cable",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const frontInclineDumbbellRaise = {
   id: "019ebc77-4277-74ca-865e-542809d54f96",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "front-incline-dumbbell-raise",
   title: "Front Incline Dumbbell Raise",
   exerciseCategory: "strength",

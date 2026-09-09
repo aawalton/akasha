@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const doubleKettlebellAlternatingHangClean = {
   id: "019ebc76-f245-7879-ad8d-91c1b9e99e3b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "double-kettlebell-alternating-hang-clean",
   title: "Double Kettlebell Alternating Hang Clean",
   exerciseCategory: "strength",

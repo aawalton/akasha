@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const backFlyesWithBands = {
   id: "019ebc76-1b5e-77ef-89d9-6bb70d7ee081",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "back-flyes-with-bands",
   title: "Back Flyes - With Bands",
   exerciseCategory: "strength",

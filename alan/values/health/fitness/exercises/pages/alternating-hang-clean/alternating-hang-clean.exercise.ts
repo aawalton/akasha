@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const alternatingHangClean = {
   id: "019ebc75-c1b1-7714-8260-81f8e756fc6c",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "alternating-hang-clean",
   title: "Alternating Hang Clean",
   exerciseCategory: "strength",

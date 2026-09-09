@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cableSeatedLateralRaise = {
   id: "019ebc76-c440-7184-a78b-34901b6ede23",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cable-seated-lateral-raise",
   title: "Cable Seated Lateral Raise",
   exerciseCategory: "strength",

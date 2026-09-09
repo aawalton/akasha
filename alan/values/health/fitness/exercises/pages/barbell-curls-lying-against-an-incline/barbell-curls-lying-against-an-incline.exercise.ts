@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const barbellCurlsLyingAgainstAnIncline = {
   id: "019ebc76-21b3-7dfb-a953-69d6d1754169",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "barbell-curls-lying-against-an-incline",
   title: "Barbell Curls Lying Against An Incline",
   exerciseCategory: "strength",

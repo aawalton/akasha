@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const declineEzBarTricepsExtension = {
   id: "019ebc76-efa6-78fb-b2ae-5f52b1f5083c",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "decline-ez-bar-triceps-extension",
   title: "Decline EZ Bar Triceps Extension",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dipMachine = {
   id: "019ebc76-f157-75ca-97d7-74f1cedccad7",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dip-machine",
   title: "Dip Machine",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const floorPressWithChains = {
   id: "019ebc77-3e91-7f43-a0cc-8f041488b758",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "floor-press-with-chains",
   title: "Floor Press with Chains",
   exerciseCategory: "powerlifting",

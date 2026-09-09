@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const lyingFaceUpPlateNeckResistance = {
   id: "019ebc77-96b5-724e-a9dd-58733699ca75",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "lying-face-up-plate-neck-resistance",
   title: "Lying Face Up Plate Neck Resistance",
   exerciseCategory: "strength",

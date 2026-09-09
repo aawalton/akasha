@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const linearDepthJump = {
   id: "019ebc77-906f-703a-966f-d1323b34a26d",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "linear-depth-jump",
   title: "Linear Depth Jump",
   exerciseCategory: "plyometrics",

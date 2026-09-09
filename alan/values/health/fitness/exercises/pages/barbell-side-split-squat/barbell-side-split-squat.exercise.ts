@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const barbellSideSplitSquat = {
   id: "019ebc76-9b3d-7e7e-bd0d-d05fef8e8b15",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "barbell-side-split-squat",
   title: "Barbell Side Split Squat",
   exerciseCategory: "strength",

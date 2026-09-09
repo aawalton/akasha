@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const gluteHamRaise = {
   id: "019ebc77-44cd-7b8d-858d-279fff355f7c",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "glute-ham-raise",
   title: "Glute Ham Raise",
   exerciseCategory: "powerlifting",

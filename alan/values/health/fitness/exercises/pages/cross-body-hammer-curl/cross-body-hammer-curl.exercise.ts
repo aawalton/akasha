@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const crossBodyHammerCurl = {
   id: "019ebc76-dfa4-78f3-96e5-6dd3dc701147",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cross-body-hammer-curl",
   title: "Cross Body Hammer Curl",
   exerciseCategory: "strength",

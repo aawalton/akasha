@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const frontSquatCleanGrip = {
   id: "019ebc77-438e-70d5-bbaf-716747519a7d",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "front-squat-clean-grip",
   title: "Front Squat (Clean Grip)",
   exerciseCategory: "strength",

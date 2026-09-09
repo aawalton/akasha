@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dumbbellSideBend = {
   id: "019ebc77-2aa7-720d-9042-3cf17ca725bd",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dumbbell-side-bend",
   title: "Dumbbell Side Bend",
   exerciseCategory: "strength",

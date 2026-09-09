@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const lyingCrossover = {
   id: "019ebc77-95fe-7984-b78a-6775604d5b18",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "lying-crossover",
   title: "Lying Crossover",
   exerciseCategory: "stretching",

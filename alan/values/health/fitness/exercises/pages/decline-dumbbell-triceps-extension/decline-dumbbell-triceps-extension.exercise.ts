@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const declineDumbbellTricepsExtension = {
   id: "019ebc76-ef6b-79fa-b1f6-9fd136d3eaa0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "decline-dumbbell-triceps-extension",
   title: "Decline Dumbbell Triceps Extension",
   exerciseCategory: "strength",

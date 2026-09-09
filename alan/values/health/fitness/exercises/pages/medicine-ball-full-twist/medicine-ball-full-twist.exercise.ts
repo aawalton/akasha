@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const medicineBallFullTwist = {
   id: "019ebc77-9b33-7498-9046-1bd22bcad06e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "medicine-ball-full-twist",
   title: "Medicine Ball Full Twist",
   exerciseCategory: "plyometrics",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const frontRaiseAndPullover = {
   id: "019ebc77-4343-7d85-a17d-c9f279d43be3",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "front-raise-and-pullover",
   title: "Front Raise And Pullover",
   exerciseCategory: "strength",

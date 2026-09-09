@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const lookingAtCeiling = {
   id: "019ebc77-9122-7066-846b-1c30137e538b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "looking-at-ceiling",
   title: "Looking At Ceiling",
   exerciseCategory: "stretching",

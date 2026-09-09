@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const hyperextensionsBackExtensions = {
   id: "019ebc77-77c7-7504-833a-5d82cd7b1228",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "hyperextensions-back-extensions",
   title: "Hyperextensions (Back Extensions)",
   exerciseCategory: "strength",

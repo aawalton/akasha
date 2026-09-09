@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const backwardDrag = {
   id: "019ebc76-1b9f-7039-9684-16652f71b204",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "backward-drag",
   title: "Backward Drag",
   exerciseCategory: "strongman",

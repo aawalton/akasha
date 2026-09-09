@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cableHipAdduction = {
   id: "019ebc76-b7f5-7cd2-8de5-5038052070d3",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cable-hip-adduction",
   title: "Cable Hip Adduction",
   exerciseCategory: "strength",

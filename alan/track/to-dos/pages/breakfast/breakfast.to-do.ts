@@ -3,6 +3,7 @@ import type { ToDo } from "../../to-do.page-type.ts"
 export const breakfast = {
   id: "019db533-f381-7721-93e3-a824e4ba6b9c",
   pageTypeSlug: "to-do",
+  type: "to-do",
   slug: "breakfast",
   title: "Breakfast",
   toDoCategory: "health",

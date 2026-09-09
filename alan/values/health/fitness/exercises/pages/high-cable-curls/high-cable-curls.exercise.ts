@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const highCableCurls = {
   id: "019ebc77-7596-72de-809b-c11871cf9126",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "high-cable-curls",
   title: "High Cable Curls",
   exerciseCategory: "strength",

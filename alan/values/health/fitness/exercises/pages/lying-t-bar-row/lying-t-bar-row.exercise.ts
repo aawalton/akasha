@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const lyingTBarRow = {
   id: "019ebc77-993d-74ef-a184-3a6278959c64",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "lying-t-bar-row",
   title: "Lying T-Bar Row",
   exerciseCategory: "strength",

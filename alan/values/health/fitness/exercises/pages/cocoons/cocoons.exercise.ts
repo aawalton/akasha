@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cocoons = {
   id: "019ebc76-deb6-7c76-89dc-4da942dd3b4b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cocoons",
   title: "Cocoons",
   exerciseCategory: "strength",

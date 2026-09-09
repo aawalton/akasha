@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const barbellRolloutFromBench = {
   id: "019ebc76-972e-7f36-bdec-43cb5efac7a2",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "barbell-rollout-from-bench",
   title: "Barbell Rollout from Bench",
   exerciseCategory: "strength",

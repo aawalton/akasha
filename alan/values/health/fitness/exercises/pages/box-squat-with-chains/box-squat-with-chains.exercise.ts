@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const boxSquatWithChains = {
   id: "019ebc76-ab08-7eb1-951b-611fb08ce5e7",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "box-squat-with-chains",
   title: "Box Squat with Chains",
   exerciseCategory: "strength",

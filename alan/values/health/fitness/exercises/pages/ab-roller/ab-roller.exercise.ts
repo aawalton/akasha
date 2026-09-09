@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const abRoller = {
   id: "019ebc75-7ad7-7001-acf4-cedee6d5d265",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "ab-roller",
   title: "Ab Roller",
   exerciseCategory: "strength",

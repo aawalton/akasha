@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const freehandJumpSquat = {
   id: "019ebc77-4000-7410-ae20-3a32080302bf",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "freehand-jump-squat",
   title: "Freehand Jump Squat",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const chinToChestStretch = {
   id: "019ebc76-d053-7613-9722-0c3b02a92ab1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "chin-to-chest-stretch",
   title: "Chin To Chest Stretch",
   exerciseCategory: "stretching",

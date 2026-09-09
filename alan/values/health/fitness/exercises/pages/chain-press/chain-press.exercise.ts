@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const chainPress = {
   id: "019ebc76-cceb-7bb4-a21d-2b067f68bd83",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "chain-press",
   title: "Chain Press",
   exerciseCategory: "powerlifting",

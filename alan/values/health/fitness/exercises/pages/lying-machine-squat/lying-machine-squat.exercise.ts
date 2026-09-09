@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const lyingMachineSquat = {
   id: "019ebc77-97fc-72a0-b4bf-a81d9b889497",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "lying-machine-squat",
   title: "Lying Machine Squat",
   exerciseCategory: "strength",

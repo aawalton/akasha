@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const alternatingKettlebellRow = {
   id: "019ebc75-c235-7a99-9c31-5153d0998f1d",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "alternating-kettlebell-row",
   title: "Alternating Kettlebell Row",
   exerciseCategory: "strength",

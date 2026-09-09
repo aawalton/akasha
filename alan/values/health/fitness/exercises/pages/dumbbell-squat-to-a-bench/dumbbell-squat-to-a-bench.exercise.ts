@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dumbbellSquatToABench = {
   id: "019ebc77-2b31-7f5c-8c64-0a0d5a63c30f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dumbbell-squat-to-a-bench",
   title: "Dumbbell Squat To A Bench",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dumbbellProneInclineCurl = {
   id: "019ebc77-116b-75d1-8739-0ae37fede615",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dumbbell-prone-incline-curl",
   title: "Dumbbell Prone Incline Curl",
   exerciseCategory: "strength",

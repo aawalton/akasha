@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const machineTricepsExtension = {
   id: "019ebc77-9abc-7bbd-ab9d-698d84dfcdc5",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "machine-triceps-extension",
   title: "Machine Triceps Extension",
   exerciseCategory: "strength",

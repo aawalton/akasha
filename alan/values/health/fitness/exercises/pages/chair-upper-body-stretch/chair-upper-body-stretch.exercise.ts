@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const chairUpperBodyStretch = {
   id: "019ebc76-ce04-7149-b458-5ba5bc8374fa",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "chair-upper-body-stretch",
   title: "Chair Upper Body Stretch",
   exerciseCategory: "stretching",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const ankleCircles = {
   id: "019ebc76-17f9-7603-b412-9bbc84cbc163",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "ankle-circles",
   title: "Ankle Circles",
   exerciseCategory: "stretching",

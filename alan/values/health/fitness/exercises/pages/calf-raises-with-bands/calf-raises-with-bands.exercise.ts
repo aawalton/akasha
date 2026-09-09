@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const calfRaisesWithBands = {
   id: "019ebc76-ca79-729c-a128-8cbe9befe8d7",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "calf-raises-with-bands",
   title: "Calf Raises - With Bands",
   exerciseCategory: "strength",

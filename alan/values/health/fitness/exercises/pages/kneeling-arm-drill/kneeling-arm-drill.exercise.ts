@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const kneelingArmDrill = {
   id: "019ebc77-882a-773e-b217-d34d5999e2db",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "kneeling-arm-drill",
   title: "Kneeling Arm Drill",
   exerciseCategory: "plyometrics",

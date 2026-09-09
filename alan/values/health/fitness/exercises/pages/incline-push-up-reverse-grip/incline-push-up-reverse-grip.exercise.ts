@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const inclinePushUpReverseGrip = {
   id: "019ebc77-7e31-7cfb-ac78-b19e08fa09b5",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "incline-push-up-reverse-grip",
   title: "Incline Push-Up Reverse Grip",
   exerciseCategory: "strength",

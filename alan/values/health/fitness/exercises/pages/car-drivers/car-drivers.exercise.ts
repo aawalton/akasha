@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const carDrivers = {
   id: "019ebc76-cba5-767e-bfc0-ec796f707414",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "car-drivers",
   title: "Car Drivers",
   exerciseCategory: "strength",

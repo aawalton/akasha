@@ -3,6 +3,7 @@ import type { ToDo } from "../../to-do.page-type.ts"
 export const swapBathroomTowels = {
   id: "019db533-f381-7bd0-9260-24933db819eb",
   pageTypeSlug: "to-do",
+  type: "to-do",
   slug: "swap-bathroom-towels",
   title: "Swap bathroom towels",
   toDoCategory: "health",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const leverageShoulderPress = {
   id: "019ebc77-8f7a-7ea8-ba0a-c3aafbf3ba90",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "leverage-shoulder-press",
   title: "Leverage Shoulder Press",
   exerciseCategory: "strength",

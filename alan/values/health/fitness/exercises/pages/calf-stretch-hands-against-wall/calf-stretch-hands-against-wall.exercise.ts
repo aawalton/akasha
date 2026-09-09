@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const calfStretchHandsAgainstWall = {
   id: "019ebc76-caef-75fe-9f01-017c8f6fcfe9",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "calf-stretch-hands-against-wall",
   title: "Calf Stretch Hands Against Wall",
   exerciseCategory: "stretching",

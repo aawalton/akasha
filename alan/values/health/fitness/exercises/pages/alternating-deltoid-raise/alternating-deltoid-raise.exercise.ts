@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const alternatingDeltoidRaise = {
   id: "019ebc75-c12d-73ff-9a37-0f360286ec6f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "alternating-deltoid-raise",
   title: "Alternating Deltoid Raise",
   exerciseCategory: "strength",

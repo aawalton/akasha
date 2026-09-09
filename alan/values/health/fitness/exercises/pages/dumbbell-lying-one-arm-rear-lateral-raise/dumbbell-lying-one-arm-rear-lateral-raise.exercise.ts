@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dumbbellLyingOneArmRearLateralRaise = {
   id: "019ebc77-0f83-7ec6-9240-781090da71c6",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dumbbell-lying-one-arm-rear-lateral-raise",
   title: "Dumbbell Lying One-Arm Rear Lateral Raise",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const depthJumpLeap = {
   id: "019ebc76-f121-77fe-b170-9c19e5e6a146",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "depth-jump-leap",
   title: "Depth Jump Leap",
   exerciseCategory: "plyometrics",

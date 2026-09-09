@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dumbbellSeatedOneLegCalfRaise = {
   id: "019ebc77-1306-768e-9257-8217234e8d9f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dumbbell-seated-one-leg-calf-raise",
   title: "Dumbbell Seated One-Leg Calf Raise",
   exerciseCategory: "strength",

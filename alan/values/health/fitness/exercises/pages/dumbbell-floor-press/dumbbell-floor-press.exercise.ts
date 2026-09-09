@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dumbbellFloorPress = {
   id: "019ebc77-0841-7db4-bc5f-7fa9e19604d5",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dumbbell-floor-press",
   title: "Dumbbell Floor Press",
   exerciseCategory: "powerlifting",

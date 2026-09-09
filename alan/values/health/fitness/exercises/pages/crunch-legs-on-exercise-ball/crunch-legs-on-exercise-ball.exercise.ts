@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const crunchLegsOnExerciseBall = {
   id: "019ebc76-e0ca-7daf-8e97-3d5e5c5e0aa8",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "crunch-legs-on-exercise-ball",
   title: "Crunch - Legs On Exercise Ball",
   exerciseCategory: "strength",

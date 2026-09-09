@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const lyingTricepsPress = {
   id: "019ebc77-997a-7712-9034-67a083cb536a",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "lying-triceps-press",
   title: "Lying Triceps Press",
   exerciseCategory: "strength",

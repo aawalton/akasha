@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const catchAndOverheadThrow = {
   id: "019ebc76-cc6c-7c6e-8ad2-3e3e7b812c05",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "catch-and-overhead-throw",
   title: "Catch and Overhead Throw",
   exerciseCategory: "plyometrics",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const declineCrunch = {
   id: "019ebc76-eead-74e0-90ec-ea7bb4eb624f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "decline-crunch",
   title: "Decline Crunch",
   exerciseCategory: "strength",

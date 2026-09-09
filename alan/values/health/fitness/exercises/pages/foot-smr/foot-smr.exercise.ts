@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const footSmr = {
   id: "019ebc77-3f2a-795c-b36b-0497be3edda3",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "foot-smr",
   title: "Foot-SMR",
   exerciseCategory: "stretching",

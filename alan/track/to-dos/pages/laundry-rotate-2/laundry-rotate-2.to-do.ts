@@ -3,6 +3,7 @@ import type { ToDo } from "../../to-do.page-type.ts"
 export const laundryRotate2 = {
   id: "019db533-f381-7ab0-8921-d82b3b8bb4f8",
   pageTypeSlug: "to-do",
+  type: "to-do",
   slug: "laundry-rotate-2",
   title: "Laundry - Rotate",
   toDoCategory: "health",

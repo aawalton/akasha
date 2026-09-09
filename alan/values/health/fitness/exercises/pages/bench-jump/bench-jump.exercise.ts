@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const benchJump = {
   id: "019ebc76-9ed2-7b84-a5bc-1e232e113ed6",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "bench-jump",
   title: "Bench Jump",
   exerciseCategory: "plyometrics",

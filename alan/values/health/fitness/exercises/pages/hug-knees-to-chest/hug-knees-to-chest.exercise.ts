@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const hugKneesToChest = {
   id: "019ebc77-76ff-7491-b195-1306694016e0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "hug-knees-to-chest",
   title: "Hug Knees To Chest",
   exerciseCategory: "stretching",

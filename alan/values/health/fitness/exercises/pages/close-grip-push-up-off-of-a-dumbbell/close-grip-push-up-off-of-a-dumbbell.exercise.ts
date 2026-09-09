@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const closeGripPushUpOffOfADumbbell = {
   id: "019ebc76-ddc4-7dd8-9043-ba390cd96955",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "close-grip-push-up-off-of-a-dumbbell",
   title: "Close-Grip Push-Up off of a Dumbbell",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const frontTwoDumbbellRaise = {
   id: "019ebc77-4414-71a7-bcba-f3bb72db4db2",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "front-two-dumbbell-raise",
   title: "Front Two-Dumbbell Raise",
   exerciseCategory: "strength",

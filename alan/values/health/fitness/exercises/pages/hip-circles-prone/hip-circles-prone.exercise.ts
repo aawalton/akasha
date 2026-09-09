@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const hipCirclesProne = {
   id: "019ebc77-75d1-7235-a5e1-e948d5130506",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "hip-circles-prone",
   title: "Hip Circles (prone)",
   exerciseCategory: "stretching",

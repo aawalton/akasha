@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cleanAndPress = {
   id: "019ebc76-db15-7809-9014-65dac2ae934e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "clean-and-press",
   title: "Clean and Press",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Day } from "../../day.page-type.ts"
 export const day20260829 = {
   id: "01a04cf6-4bf3-7000-a1e0-dbfb373ce4cc",
   pageTypeSlug: "day",
+  type: "day",
   slug: "day-2026-08-29",
   title: "@date:2026-08-29",
   date: "2026-08-29",

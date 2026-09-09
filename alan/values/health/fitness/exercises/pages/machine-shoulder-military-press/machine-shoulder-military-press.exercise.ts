@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const machineShoulderMilitaryPress = {
   id: "019ebc77-9a83-70cd-b061-d7cdd2f00c2b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "machine-shoulder-military-press",
   title: "Machine Shoulder (Military) Press",
   exerciseCategory: "strength",

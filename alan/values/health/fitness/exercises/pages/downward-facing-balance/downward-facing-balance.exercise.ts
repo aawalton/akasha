@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const downwardFacingBalance = {
   id: "019ebc77-010a-7ba0-9ce5-209f536bd2b6",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "downward-facing-balance",
   title: "Downward Facing Balance",
   exerciseCategory: "strength",

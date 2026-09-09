@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const kettlebellPassBetweenTheLegs = {
   id: "019ebc77-8476-7b9b-9cd6-7fd962fac286",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "kettlebell-pass-between-the-legs",
   title: "Kettlebell Pass Between The Legs",
   exerciseCategory: "strength",

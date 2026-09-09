@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const inclineDumbbellBenchWithPalmsFacingIn = {
   id: "019ebc77-79d8-72ea-b61a-867abc55c8c5",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "incline-dumbbell-bench-with-palms-facing-in",
   title: "Incline Dumbbell Bench With Palms Facing In",
   exerciseCategory: "strength",

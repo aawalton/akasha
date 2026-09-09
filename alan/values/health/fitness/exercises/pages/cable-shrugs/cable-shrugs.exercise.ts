@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cableShrugs = {
   id: "019ebc76-c4c4-7463-b7a5-aa7bcd095f23",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cable-shrugs",
   title: "Cable Shrugs",
   exerciseCategory: "strength",

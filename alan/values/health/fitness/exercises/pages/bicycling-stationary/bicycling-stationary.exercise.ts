@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const bicyclingStationary = {
   id: "019ebc76-a733-73ee-90eb-f29f840e0a06",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "bicycling-stationary",
   title: "Bicycling, Stationary",
   exerciseCategory: "cardio",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const advancedKettlebellWindmill = {
   id: "019ebc75-bf1f-7673-8fd7-60b2720fd8b3",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "advanced-kettlebell-windmill",
   title: "Advanced Kettlebell Windmill",
   exerciseCategory: "strength",

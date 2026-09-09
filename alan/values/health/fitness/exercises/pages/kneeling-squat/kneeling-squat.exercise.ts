@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const kneelingSquat = {
   id: "019ebc77-8a76-7801-910b-e46db627b1f9",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "kneeling-squat",
   title: "Kneeling Squat",
   exerciseCategory: "powerlifting",

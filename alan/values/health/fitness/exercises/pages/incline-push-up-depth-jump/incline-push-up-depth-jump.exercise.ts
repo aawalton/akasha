@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const inclinePushUpDepthJump = {
   id: "019ebc77-7db0-7bbe-b479-601437feba14",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "incline-push-up-depth-jump",
   title: "Incline Push-Up Depth Jump",
   exerciseCategory: "plyometrics",

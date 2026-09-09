@@ -3,6 +3,7 @@ import type { ToDo } from "../../to-do.page-type.ts"
 export const brushFloss = {
   id: "019db533-f381-76ec-81cf-35ca7e59aec8",
   pageTypeSlug: "to-do",
+  type: "to-do",
   slug: "brush-floss",
   title: "Brush + Floss",
   toDoCategory: "health",

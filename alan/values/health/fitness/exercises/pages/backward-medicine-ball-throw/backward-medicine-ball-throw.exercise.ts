@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const backwardMedicineBallThrow = {
   id: "019ebc76-1be6-7acd-8065-dacc834d497e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "backward-medicine-ball-throw",
   title: "Backward Medicine Ball Throw",
   exerciseCategory: "plyometrics",

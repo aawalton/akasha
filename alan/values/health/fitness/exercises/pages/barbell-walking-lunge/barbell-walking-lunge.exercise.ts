@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const barbellWalkingLunge = {
   id: "019ebc76-9d62-78b6-bd85-a5dafbada496",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "barbell-walking-lunge",
   title: "Barbell Walking Lunge",
   exerciseCategory: "strength",

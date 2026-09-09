@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const kneelingSingleArmHighPulleyRow = {
   id: "019ebc77-8a3b-7497-8307-d75df0d808ba",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "kneeling-single-arm-high-pulley-row",
   title: "Kneeling Single-Arm High Pulley Row",
   exerciseCategory: "strength",

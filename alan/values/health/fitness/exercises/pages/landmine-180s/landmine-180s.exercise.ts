@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const landmine180s = {
   id: "019ebc77-8ab4-76b4-8e80-bcfd1db98ad4",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "landmine-180s",
   title: "Landmine 180's",
   exerciseCategory: "strength",

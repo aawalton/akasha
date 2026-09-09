@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const donkeyCalfRaises = {
   id: "019ebc76-f206-7612-ad3b-18b3e97f6c0b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "donkey-calf-raises",
   title: "Donkey Calf Raises",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const kneeHipRaiseOnParallelBars = {
   id: "019ebc77-87b4-764f-9b06-babfe11f195e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "knee-hip-raise-on-parallel-bars",
   title: "Knee/Hip Raise On Parallel Bars",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dumbbellBicepCurl = {
   id: "019ebc77-07c9-779c-8742-7ed0d614f4ba",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dumbbell-bicep-curl",
   title: "Dumbbell Bicep Curl",
   exerciseCategory: "strength",

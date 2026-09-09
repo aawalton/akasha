@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const bentArmBarbellPullover = {
   id: "019ebc76-a024-7c93-8e08-19f75f60dd57",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "bent-arm-barbell-pullover",
   title: "Bent-Arm Barbell Pullover",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const lyingSupineDumbbellCurl = {
   id: "019ebc77-98fe-7293-a1e5-2dd8ff868a28",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "lying-supine-dumbbell-curl",
   title: "Lying Supine Dumbbell Curl",
   exerciseCategory: "strength",

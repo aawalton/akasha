@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const bodyweightReverseLunge = {
   id: "019efbeb-3290-7f24-9fea-5a3c8c91957b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "bodyweight-reverse-lunge",
   title: "Bodyweight Reverse Lunge",
   exerciseCategory: "strength",

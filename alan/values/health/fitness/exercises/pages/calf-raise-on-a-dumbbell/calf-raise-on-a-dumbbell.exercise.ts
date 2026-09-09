@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const calfRaiseOnADumbbell = {
   id: "019ebc76-ca3d-7383-a469-a00e4ee8ac26",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "calf-raise-on-a-dumbbell",
   title: "Calf Raise On A Dumbbell",
   exerciseCategory: "strength",

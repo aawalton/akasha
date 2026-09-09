@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const chestAndFrontOfShoulderStretch = {
   id: "019ebc76-ce47-7569-bf5d-3b8f2bdb2fd1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "chest-and-front-of-shoulder-stretch",
   title: "Chest And Front Of Shoulder Stretch",
   exerciseCategory: "stretching",

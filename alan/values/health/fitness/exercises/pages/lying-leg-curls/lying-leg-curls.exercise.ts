@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const lyingLegCurls = {
   id: "019ebc77-97bb-7da8-9245-bbdee380eafa",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "lying-leg-curls",
   title: "Lying Leg Curls",
   exerciseCategory: "strength",

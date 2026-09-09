@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const legPullIn = {
   id: "019ebc77-8db9-7401-a37e-80ee6c6eb114",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "leg-pull-in",
   title: "Leg Pull-In",
   exerciseCategory: "strength",

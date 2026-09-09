@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cableInclinePushdown = {
   id: "019ebc76-b835-7a6d-a016-38b922a8333f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cable-incline-pushdown",
   title: "Cable Incline Pushdown",
   exerciseCategory: "strength",

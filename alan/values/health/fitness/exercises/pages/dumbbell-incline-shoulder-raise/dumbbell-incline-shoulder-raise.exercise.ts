@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dumbbellInclineShoulderRaise = {
   id: "019ebc77-0f0c-7d5c-8947-0be5dc510603",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dumbbell-incline-shoulder-raise",
   title: "Dumbbell Incline Shoulder Raise",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const hammerGripInclineDbBenchPress = {
   id: "019ebc77-4b66-7fa5-81fb-327e41f9aa37",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "hammer-grip-incline-db-bench-press",
   title: "Hammer Grip Incline DB Bench Press",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const kettlebellDeadClean = {
   id: "019ebc77-8383-7568-a769-0fe321979cc2",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "kettlebell-dead-clean",
   title: "Kettlebell Dead Clean",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const elbowsBack = {
   id: "019ebc77-2e4c-77db-a870-3dd135dc4ddf",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "elbows-back",
   title: "Elbows Back",
   exerciseCategory: "stretching",

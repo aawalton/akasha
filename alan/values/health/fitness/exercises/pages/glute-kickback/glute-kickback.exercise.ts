@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const gluteKickback = {
   id: "019ebc77-450e-7a97-935b-9d93c3729f53",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "glute-kickback",
   title: "Glute Kickback",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dumbbellRearLunge = {
   id: "019ebc77-1211-76d2-b669-a2adf49d200f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dumbbell-rear-lunge",
   title: "Dumbbell Rear Lunge",
   exerciseCategory: "strength",

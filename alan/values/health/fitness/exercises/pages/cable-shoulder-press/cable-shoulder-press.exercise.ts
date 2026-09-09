@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cableShoulderPress = {
   id: "019ebc76-c47a-7a6c-88bf-8182582a63c2",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cable-shoulder-press",
   title: "Cable Shoulder Press",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const chestPushMultipleResponse = {
   id: "019ebc76-cec0-7259-b0fe-06fbdc7ad658",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "chest-push-multiple-response",
   title: "Chest Push (multiple response)",
   exerciseCategory: "plyometrics",

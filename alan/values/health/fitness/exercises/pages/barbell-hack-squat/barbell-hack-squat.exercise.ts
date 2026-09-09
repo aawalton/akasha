@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const barbellHackSquat = {
   id: "019ebc76-2301-7f39-b6cf-27b56e7c7e0c",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "barbell-hack-squat",
   title: "Barbell Hack Squat",
   exerciseCategory: "strength",

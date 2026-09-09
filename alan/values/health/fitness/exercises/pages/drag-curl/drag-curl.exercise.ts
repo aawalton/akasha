@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dragCurl = {
   id: "019ebc77-014a-76ea-bec1-0b3e256ef574",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "drag-curl",
   title: "Drag Curl",
   exerciseCategory: "strength",

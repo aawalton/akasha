@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const machinePreacherCurls = {
   id: "019ebc77-9a48-70ca-9ddd-489e86133f23",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "machine-preacher-curls",
   title: "Machine Preacher Curls",
   exerciseCategory: "strength",

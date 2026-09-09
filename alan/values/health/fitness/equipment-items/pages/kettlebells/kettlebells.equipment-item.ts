@@ -3,6 +3,7 @@ import type { EquipmentItem } from "../../equipment-item.page-type.ts"
 export const kettlebells = {
   id: "019f01e1-b168-7b90-ad55-91681ce407a8",
   pageTypeSlug: "equipment-item",
+  type: "equipment-item",
   slug: "kettlebells",
   title: "Kettlebells",
   category: "kettlebells",

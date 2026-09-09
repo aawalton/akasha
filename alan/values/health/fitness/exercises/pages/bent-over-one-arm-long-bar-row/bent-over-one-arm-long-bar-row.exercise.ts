@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const bentOverOneArmLongBarRow = {
   id: "019ebc76-a305-7c2d-83cc-d48ff5eb8208",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "bent-over-one-arm-long-bar-row",
   title: "Bent Over One-Arm Long Bar Row",
   exerciseCategory: "strength",

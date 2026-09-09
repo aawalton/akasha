@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const kneelingForearmStretch = {
   id: "019ebc77-8946-7536-8fa7-3663e28e2876",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "kneeling-forearm-stretch",
   title: "Kneeling Forearm Stretch",
   exerciseCategory: "stretching",

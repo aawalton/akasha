@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const flutterKicks = {
   id: "019ebc77-3ee3-78b3-aad4-812d206ed81e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "flutter-kicks",
   title: "Flutter Kicks",
   exerciseCategory: "strength",

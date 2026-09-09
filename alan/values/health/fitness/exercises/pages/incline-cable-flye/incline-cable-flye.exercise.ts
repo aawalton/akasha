@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const inclineCableFlye = {
   id: "019ebc77-799c-7b95-af6f-81eff7dd1f2b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "incline-cable-flye",
   title: "Incline Cable Flye",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const iliotibialTractSmr = {
   id: "019ebc77-7875-7cd0-abf5-1d795e89eb68",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "iliotibial-tract-smr",
   title: "Iliotibial Tract-SMR",
   exerciseCategory: "stretching",

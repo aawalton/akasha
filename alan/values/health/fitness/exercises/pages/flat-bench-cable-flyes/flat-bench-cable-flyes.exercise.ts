@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const flatBenchCableFlyes = {
   id: "019ebc77-397f-74ce-9f7e-e0c2c5d9dda4",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "flat-bench-cable-flyes",
   title: "Flat Bench Cable Flyes",
   exerciseCategory: "strength",

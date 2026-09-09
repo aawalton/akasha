@@ -3,6 +3,7 @@ import type { EquipmentItem } from "../../equipment-item.page-type.ts"
 export const dumbbells = {
   id: "019f01e1-b0dc-72f8-9040-f0924d81a528",
   pageTypeSlug: "equipment-item",
+  type: "equipment-item",
   slug: "dumbbells",
   title: "Dumbbells",
   category: "dumbbells",

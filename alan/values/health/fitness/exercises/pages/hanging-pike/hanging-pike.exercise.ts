@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const hangingPike = {
   id: "019ebc77-74d5-7698-a139-4fc63806871e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "hanging-pike",
   title: "Hanging Pike",
   exerciseCategory: "strength",

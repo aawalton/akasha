@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const inclineDumbbellFlyesWithATwist = {
   id: "019ebc77-7a83-72c0-8c82-71ecbab90cc1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "incline-dumbbell-flyes-with-a-twist",
   title: "Incline Dumbbell Flyes - With A Twist",
   exerciseCategory: "strength",

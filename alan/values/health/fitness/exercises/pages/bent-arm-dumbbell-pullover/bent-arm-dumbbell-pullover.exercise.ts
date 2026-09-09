@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const bentArmDumbbellPullover = {
   id: "019ebc76-a1b2-7ade-8ad4-11d370aa6f7c",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "bent-arm-dumbbell-pullover",
   title: "Bent-Arm Dumbbell Pullover",
   exerciseCategory: "strength",

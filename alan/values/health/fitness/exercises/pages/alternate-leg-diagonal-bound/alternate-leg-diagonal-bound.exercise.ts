@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const alternateLegDiagonalBound = {
   id: "019ebc75-c0af-7281-9a4f-3d963c58b313",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "alternate-leg-diagonal-bound",
   title: "Alternate Leg Diagonal Bound",
   exerciseCategory: "plyometrics",

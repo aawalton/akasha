@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const gobletBulgarianSplitSquat = {
   id: "019ee5fc-593c-74a8-b67c-819340c40397",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "goblet-bulgarian-split-squat",
   title: "Goblet Bulgarian Split Squat",
   exerciseCategory: "strength",

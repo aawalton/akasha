@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cableInternalRotation = {
   id: "019ebc76-b8b8-7504-a28d-8357beea76b8",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cable-internal-rotation",
   title: "Cable Internal Rotation",
   exerciseCategory: "strength",

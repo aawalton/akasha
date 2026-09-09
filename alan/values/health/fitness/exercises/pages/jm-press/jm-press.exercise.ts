@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const jmPress = {
   id: "019ebc77-815c-72ea-8c22-b247c30c6abd",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "jm-press",
   title: "JM Press",
   exerciseCategory: "strength",

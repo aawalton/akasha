@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const jerkBalance = {
   id: "019ebc77-8253-74bd-af14-5da2c5147561",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "jerk-balance",
   title: "Jerk Balance",
   exerciseCategory: "olympic-weightlifting",

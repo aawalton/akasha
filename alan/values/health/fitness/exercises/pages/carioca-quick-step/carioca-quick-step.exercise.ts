@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cariocaQuickStep = {
   id: "019ebc76-cbe1-7044-a957-61c8b26aac9f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "carioca-quick-step",
   title: "Carioca Quick Step",
   exerciseCategory: "plyometrics",

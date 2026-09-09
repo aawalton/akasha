@@ -3,6 +3,7 @@ import type { ToDo } from "../../to-do.page-type.ts"
 export const shower = {
   id: "019db533-f381-770f-82fe-2cde8c153ec6",
   pageTypeSlug: "to-do",
+  type: "to-do",
   slug: "shower",
   title: "Shower",
   toDoAnchoredFromCompletion: true,

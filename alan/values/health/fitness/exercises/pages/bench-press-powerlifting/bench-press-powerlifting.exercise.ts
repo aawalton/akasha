@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const benchPressPowerlifting = {
   id: "019ebc76-9f10-7fc4-9d7e-165ca8d93f54",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "bench-press-powerlifting",
   title: "Bench Press - Powerlifting",
   exerciseCategory: "powerlifting",

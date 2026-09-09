@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const barbellInclineBenchPressMediumGrip = {
   id: "019ebc76-2396-7ca1-9a56-b4647dd30c8e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "barbell-incline-bench-press-medium-grip",
   title: "Barbell Incline Bench Press - Medium Grip",
   exerciseCategory: "strength",

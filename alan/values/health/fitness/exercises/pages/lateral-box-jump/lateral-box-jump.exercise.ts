@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const lateralBoxJump = {
   id: "019ebc77-8b71-79fa-a742-5d52735f68bd",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "lateral-box-jump",
   title: "Lateral Box Jump",
   exerciseCategory: "plyometrics",

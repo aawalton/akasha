@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const boardPress = {
   id: "019ebc76-a779-7d2a-948f-ed6da49df5b8",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "board-press",
   title: "Board Press",
   exerciseCategory: "powerlifting",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const hamstringSmr = {
   id: "019ebc77-4ba1-70d6-a3ad-67d032364f73",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "hamstring-smr",
   title: "Hamstring-SMR",
   exerciseCategory: "stretching",

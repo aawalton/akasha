@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const ezBarSkullcrusher = {
   id: "019ebc77-2d2d-70d4-9355-6a5c66bdc131",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "ez-bar-skullcrusher",
   title: "EZ-Bar Skullcrusher",
   exerciseCategory: "strength",

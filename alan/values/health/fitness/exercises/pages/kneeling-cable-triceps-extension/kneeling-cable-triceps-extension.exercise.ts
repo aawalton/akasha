@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const kneelingCableTricepsExtension = {
   id: "019ebc77-88a8-7eda-9ae5-c74a96a1c198",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "kneeling-cable-triceps-extension",
   title: "Kneeling Cable Triceps Extension",
   exerciseCategory: "strength",

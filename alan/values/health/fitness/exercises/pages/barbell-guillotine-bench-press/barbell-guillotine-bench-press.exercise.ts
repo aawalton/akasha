@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const barbellGuillotineBenchPress = {
   id: "019ebc76-22c0-7bab-858f-16c62e37fdd0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "barbell-guillotine-bench-press",
   title: "Barbell Guillotine Bench Press",
   exerciseCategory: "strength",

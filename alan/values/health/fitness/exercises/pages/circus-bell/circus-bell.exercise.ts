@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const circusBell = {
   id: "019ebc76-d995-7e8b-be5b-dc4ccf57e5f1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "circus-bell",
   title: "Circus Bell",
   exerciseCategory: "strongman",

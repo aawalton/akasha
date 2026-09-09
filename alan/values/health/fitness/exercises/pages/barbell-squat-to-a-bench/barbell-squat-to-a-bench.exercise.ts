@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const barbellSquatToABench = {
   id: "019ebc76-9cea-7f4f-9973-f4da8c1f69fb",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "barbell-squat-to-a-bench",
   title: "Barbell Squat To A Bench",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const frontSquatsWithTwoKettlebells = {
   id: "019ebc77-43c9-7f4e-9ed2-50af191a1c1e",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "front-squats-with-two-kettlebells",
   title: "Front Squats With Two Kettlebells",
   exerciseCategory: "strength",

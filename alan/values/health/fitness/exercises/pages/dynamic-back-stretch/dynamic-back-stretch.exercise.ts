@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dynamicBackStretch = {
   id: "019ebc77-2c20-7abe-b2f3-15a770471670",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dynamic-back-stretch",
   title: "Dynamic Back Stretch",
   exerciseCategory: "stretching",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const elevatedBackLunge = {
   id: "019ebc77-2e8d-7595-b9eb-887f5df5ec39",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "elevated-back-lunge",
   title: "Elevated Back Lunge",
   exerciseCategory: "strength",

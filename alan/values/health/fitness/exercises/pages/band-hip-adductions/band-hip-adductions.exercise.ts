@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const bandHipAdductions = {
   id: "019ebc76-1fe0-7232-82e5-83a99c737b45",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "band-hip-adductions",
   title: "Band Hip Adductions",
   exerciseCategory: "strength",

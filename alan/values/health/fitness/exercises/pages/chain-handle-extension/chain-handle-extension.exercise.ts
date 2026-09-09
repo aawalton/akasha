@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const chainHandleExtension = {
   id: "019ebc76-ccab-7227-aad3-771c4e12c211",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "chain-handle-extension",
   title: "Chain Handle Extension",
   exerciseCategory: "powerlifting",

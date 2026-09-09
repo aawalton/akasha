@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const isometricWipers = {
   id: "019ebc77-811b-7f5a-bfa1-e770cf3f0c21",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "isometric-wipers",
   title: "Isometric Wipers",
   exerciseCategory: "strength",

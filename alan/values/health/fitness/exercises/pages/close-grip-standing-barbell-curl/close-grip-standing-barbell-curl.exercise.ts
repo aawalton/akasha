@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const closeGripStandingBarbellCurl = {
   id: "019ebc76-de00-7aae-a22a-2852d077f065",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "close-grip-standing-barbell-curl",
   title: "Close-Grip Standing Barbell Curl",
   exerciseCategory: "strength",

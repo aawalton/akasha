@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const linearAccelerationWallDrill = {
   id: "019ebc77-9034-7271-adf7-fd9e45947402",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "linear-acceleration-wall-drill",
   title: "Linear Acceleration Wall Drill",
   exerciseCategory: "plyometrics",

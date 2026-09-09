@@ -3,6 +3,7 @@ import type { ToDo } from "../../to-do.page-type.ts"
 export const planPresentForJenForMotherSDay = {
   id: "019db533-f381-7d91-bfd0-2a59548a5ccf",
   pageTypeSlug: "to-do",
+  type: "to-do",
   slug: "plan-present-for-jen-for-mother-s-day",
   title: "Plan present for Jen for Mother's day",
   toDoCategory: "love",

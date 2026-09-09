@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cableHammerCurlsRopeAttachment = {
   id: "019ebc76-b7b7-77fa-8451-fe19684fc7a9",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cable-hammer-curls-rope-attachment",
   title: "Cable Hammer Curls - Rope Attachment",
   exerciseCategory: "strength",

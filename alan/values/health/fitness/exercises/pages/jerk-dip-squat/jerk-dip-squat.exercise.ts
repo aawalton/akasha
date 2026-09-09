@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const jerkDipSquat = {
   id: "019ebc77-8291-7cfb-ba66-81477485e9ed",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "jerk-dip-squat",
   title: "Jerk Dip Squat",
   exerciseCategory: "olympic-weightlifting",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const flatBenchLegPullIn = {
   id: "019ebc77-39c6-738a-91f3-c4d4b124c185",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "flat-bench-leg-pull-in",
   title: "Flat Bench Leg Pull-In",
   exerciseCategory: "strength",

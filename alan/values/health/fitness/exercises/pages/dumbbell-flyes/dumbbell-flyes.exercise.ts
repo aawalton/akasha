@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dumbbellFlyes = {
   id: "019ebc77-0e9a-7eaa-9d12-799f87d0e6f3",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dumbbell-flyes",
   title: "Dumbbell Flyes",
   exerciseCategory: "strength",

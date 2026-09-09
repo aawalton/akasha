@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const inclineCableChestPress = {
   id: "019ebc77-7963-77d7-98b0-06471ff02452",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "incline-cable-chest-press",
   title: "Incline Cable Chest Press",
   exerciseCategory: "strength",

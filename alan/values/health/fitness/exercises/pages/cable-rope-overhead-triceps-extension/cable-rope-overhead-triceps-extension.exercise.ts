@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cableRopeOverheadTricepsExtension = {
   id: "019ebc76-c347-7bdb-8f9d-e5119c006e7d",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cable-rope-overhead-triceps-extension",
   title: "Cable Rope Overhead Triceps Extension",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dropPush = {
   id: "019ebc77-018b-7919-ba80-3e515b25bc21",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "drop-push",
   title: "Drop Push",
   exerciseCategory: "plyometrics",

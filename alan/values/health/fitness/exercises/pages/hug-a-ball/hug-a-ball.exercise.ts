@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const hugABall = {
   id: "019ebc77-76c3-74a4-ad4b-d956ff625132",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "hug-a-ball",
   title: "Hug A Ball",
   exerciseCategory: "stretching",

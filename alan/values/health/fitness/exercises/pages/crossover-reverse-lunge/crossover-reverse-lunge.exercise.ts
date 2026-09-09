@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const crossoverReverseLunge = {
   id: "019ebc76-e01b-7b0b-a2e0-30eb935d4bec",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "crossover-reverse-lunge",
   title: "Crossover Reverse Lunge",
   exerciseCategory: "strength",

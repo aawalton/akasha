@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const lyingCloseGripBarbellTricepsExtensionBehindTheHead = {
   id: "019ebc77-93e7-7a5f-b722-79830a8b57b8",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "lying-close-grip-barbell-triceps-extension-behind-the-head",
   title: "Lying Close-Grip Barbell Triceps Extension Behind The Head",
   exerciseCategory: "strength",

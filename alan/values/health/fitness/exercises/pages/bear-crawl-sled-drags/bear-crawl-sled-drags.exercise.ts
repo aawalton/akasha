@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const bearCrawlSledDrags = {
   id: "019ebc76-9ddd-74a4-986f-1efce9935e04",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "bear-crawl-sled-drags",
   title: "Bear Crawl Sled Drags",
   exerciseCategory: "strongman",

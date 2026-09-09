@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const hyperextensionsWithNoHyperextensionBench = {
   id: "019ebc77-7800-7f16-bd62-14262998e3b3",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "hyperextensions-with-no-hyperextension-bench",
   title: "Hyperextensions With No Hyperextension Bench",
   exerciseCategory: "strength",

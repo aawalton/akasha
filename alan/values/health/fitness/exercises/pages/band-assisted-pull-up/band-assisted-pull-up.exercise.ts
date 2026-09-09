@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const bandAssistedPullUp = {
   id: "019ebc76-1f1f-7021-b702-050a2d138709",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "band-assisted-pull-up",
   title: "Band Assisted Pull-Up",
   exerciseCategory: "strength",

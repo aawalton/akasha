@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const barbellShoulderPress = {
   id: "019ebc76-97b3-7a52-acce-278cfb686834",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "barbell-shoulder-press",
   title: "Barbell Shoulder Press",
   exerciseCategory: "strength",

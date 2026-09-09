@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const barbellCurl = {
   id: "019ebc76-2166-7a4f-bd59-8fbf3e0b6d83",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "barbell-curl",
   title: "Barbell Curl",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const gobletReverseLunge = {
   id: "019ee5f7-b4e3-7f64-bd62-3015a2f149bb",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "goblet-reverse-lunge",
   title: "Goblet Reverse Lunge",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const bodyweightMidRow = {
   id: "019ebc76-a87e-75d8-858e-e70c86ba1961",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "bodyweight-mid-row",
   title: "Bodyweight Mid Row",
   exerciseCategory: "strength",

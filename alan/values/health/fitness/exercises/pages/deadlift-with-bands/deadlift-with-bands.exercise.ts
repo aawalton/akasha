@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const deadliftWithBands = {
   id: "019ebc76-e212-781e-8a4e-34bf6da5a5e4",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "deadlift-with-bands",
   title: "Deadlift with Bands",
   exerciseCategory: "powerlifting",

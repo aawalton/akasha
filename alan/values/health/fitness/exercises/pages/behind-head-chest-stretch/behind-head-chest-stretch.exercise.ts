@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const behindHeadChestStretch = {
   id: "019ebc76-9e18-75b9-8d38-53ab9b2b36a0",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "behind-head-chest-stretch",
   title: "Behind Head Chest Stretch",
   exerciseCategory: "stretching",

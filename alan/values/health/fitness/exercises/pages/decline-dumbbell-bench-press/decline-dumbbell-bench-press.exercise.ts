@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const declineDumbbellBenchPress = {
   id: "019ebc76-eeec-77e4-92d3-b77b636ea693",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "decline-dumbbell-bench-press",
   title: "Decline Dumbbell Bench Press",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const closeGripFrontLatPulldown = {
   id: "019ebc76-dd88-788c-919f-61a5eb9deff1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "close-grip-front-lat-pulldown",
   title: "Close-Grip Front Lat Pulldown",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const atlasStones = {
   id: "019ebc76-1ac3-771d-87f5-2bcefbcd00ef",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "atlas-stones",
   title: "Atlas Stones",
   exerciseCategory: "strongman",

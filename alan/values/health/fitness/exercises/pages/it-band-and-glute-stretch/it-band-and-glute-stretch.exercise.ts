@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const itBandAndGluteStretch = {
   id: "019ebc77-783e-71e3-948c-4214d5848ab4",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "it-band-and-glute-stretch",
   title: "IT Band and Glute Stretch",
   exerciseCategory: "stretching",

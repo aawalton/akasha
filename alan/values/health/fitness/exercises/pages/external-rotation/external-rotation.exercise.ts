@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const externalRotation = {
   id: "019ebc77-3031-7ba7-83bc-cff1114c4de8",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "external-rotation",
   title: "External Rotation",
   exerciseCategory: "strength",

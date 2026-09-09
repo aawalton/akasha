@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const hipFlexionWithBand = {
   id: "019ebc77-764d-71d0-8eec-64b6f9341c32",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "hip-flexion-with-band",
   title: "Hip Flexion with Band",
   exerciseCategory: "strength",

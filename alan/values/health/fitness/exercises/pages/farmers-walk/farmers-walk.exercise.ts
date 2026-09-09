@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const farmersWalk = {
   id: "019ebc77-38be-7ad2-9090-8842e93e36bd",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "farmers-walk",
   title: "Farmer's Walk",
   exerciseCategory: "strongman",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const lyingHamstring = {
   id: "019ebc77-973f-701f-9a93-adeeafbcba1f",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "lying-hamstring",
   title: "Lying Hamstring",
   exerciseCategory: "stretching",

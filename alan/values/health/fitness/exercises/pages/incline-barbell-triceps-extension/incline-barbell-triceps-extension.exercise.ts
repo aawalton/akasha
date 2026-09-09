@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const inclineBarbellTricepsExtension = {
   id: "019ebc77-78eb-70bc-9911-aa4c428e71b5",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "incline-barbell-triceps-extension",
   title: "Incline Barbell Triceps Extension",
   exerciseCategory: "strength",

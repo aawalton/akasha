@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const ironCrossesStretch = {
   id: "019ebc77-801f-79f4-8c6f-59e767807dee",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "iron-crosses-stretch",
   title: "Iron Crosses (stretch)",
   exerciseCategory: "stretching",

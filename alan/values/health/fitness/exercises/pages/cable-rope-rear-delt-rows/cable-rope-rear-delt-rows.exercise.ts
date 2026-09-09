@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const cableRopeRearDeltRows = {
   id: "019ebc76-c388-7290-85f3-a873c7d66708",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "cable-rope-rear-delt-rows",
   title: "Cable Rope Rear-Delt Rows",
   exerciseCategory: "strength",

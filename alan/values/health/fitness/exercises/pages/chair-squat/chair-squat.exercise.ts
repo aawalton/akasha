@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const chairSquat = {
   id: "019ebc76-cdc2-7d90-9cfa-f3e457c3c365",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "chair-squat",
   title: "Chair Squat",
   exerciseCategory: "strength",

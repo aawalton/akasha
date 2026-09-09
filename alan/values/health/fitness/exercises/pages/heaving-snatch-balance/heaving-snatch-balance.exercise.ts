@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const heavingSnatchBalance = {
   id: "019ebc77-7511-7fde-a939-c44f533dbaf4",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "heaving-snatch-balance",
   title: "Heaving Snatch Balance",
   exerciseCategory: "olympic-weightlifting",

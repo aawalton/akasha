@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const invertedRow = {
   id: "019ebc77-7f64-7156-a110-41a3f103d540",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "inverted-row",
   title: "Inverted Row",
   exerciseCategory: "strength",

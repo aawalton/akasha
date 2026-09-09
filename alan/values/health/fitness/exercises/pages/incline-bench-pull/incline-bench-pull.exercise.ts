@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const inclineBenchPull = {
   id: "019ebc77-792b-7b5a-8291-44ed22e75c20",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "incline-bench-pull",
   title: "Incline Bench Pull",
   exerciseCategory: "strength",

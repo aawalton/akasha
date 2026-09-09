@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const doubleLegButtKick = {
   id: "019ebc77-00cf-78cc-b505-68933a0d014b",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "double-leg-butt-kick",
   title: "Double Leg Butt Kick",
   exerciseCategory: "plyometrics",

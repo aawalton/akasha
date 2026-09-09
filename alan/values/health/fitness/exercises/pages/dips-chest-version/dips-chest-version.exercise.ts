@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const dipsChestVersion = {
   id: "019ebc76-f18d-76ac-ac9b-ce21a257c945",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "dips-chest-version",
   title: "Dips - Chest Version",
   exerciseCategory: "strength",

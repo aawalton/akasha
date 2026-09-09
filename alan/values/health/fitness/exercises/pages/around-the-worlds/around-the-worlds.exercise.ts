@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const aroundTheWorlds = {
   id: "019ebc76-1a3b-7844-acb1-08a2e1c4fab1",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "around-the-worlds",
   title: "Around The Worlds",
   exerciseCategory: "strength",

@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const buttLiftBridge = {
   id: "019ebc76-b644-7637-bade-cbfe46552834",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "butt-lift-bridge",
   title: "Butt Lift (Bridge)",
   exerciseCategory: "strength",

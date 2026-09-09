@@ -3,6 +3,7 @@ import type { ToDo } from "../../to-do.page-type.ts"
 export const takeTrashToStreet = {
   id: "019db533-f381-7768-a917-b4edeb2c059a",
   pageTypeSlug: "to-do",
+  type: "to-do",
   slug: "take-trash-to-street",
   title: "Take trash to street",
   toDoCategory: "health",

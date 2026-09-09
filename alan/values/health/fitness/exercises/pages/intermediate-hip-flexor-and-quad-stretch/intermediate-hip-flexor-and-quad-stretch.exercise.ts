@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const intermediateHipFlexorAndQuadStretch = {
   id: "019ebc77-7ee6-7704-94fb-536a10aab2bd",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "intermediate-hip-flexor-and-quad-stretch",
   title: "Intermediate Hip Flexor and Quad Stretch",
   exerciseCategory: "stretching",

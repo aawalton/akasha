@@ -3,6 +3,7 @@ import type { ToDo } from "../../to-do.page-type.ts"
 export const restockWater = {
   id: "019db533-f381-7b83-a8a2-902051bf09df",
   pageTypeSlug: "to-do",
+  type: "to-do",
   slug: "restock-water",
   title: "Restock water",
   toDoCategory: "health",

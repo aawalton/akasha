@@ -3,6 +3,7 @@ import type { ToDo } from "../../to-do.page-type.ts"
 export const trimFingernails = {
   id: "019db533-f381-7a47-8724-3eee911fd0d8",
   pageTypeSlug: "to-do",
+  type: "to-do",
   slug: "trim-fingernails",
   title: "Trim Fingernails",
   toDoCategory: "health",

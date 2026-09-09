@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const kettlebellThruster = {
   id: "019ebc77-85de-700e-a3ed-04befb866f86",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "kettlebell-thruster",
   title: "Kettlebell Thruster",
   exerciseCategory: "strength",

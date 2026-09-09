@@ -3,6 +3,7 @@ import type { Exercise } from "../../exercise.page-type.ts"
 export const alternateHeelTouchers = {
   id: "019ebc75-c02d-79bb-9f26-660f3eaeb8c4",
   pageTypeSlug: "exercise",
+  type: "exercise",
   slug: "alternate-heel-touchers",
   title: "Alternate Heel Touchers",
   exerciseCategory: "strength",
