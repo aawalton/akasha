@@ -91,7 +91,7 @@ const VOCABULARY: Readonly<Record<string, string>> = {
     id: idAt("0"),
     pageTypeSlug: "page-type",
     slug: "text-property",
-    extendsSlug: ["page-type/page-property"],
+    extends: ["page-type/page-property"],
   }),
   "akasha/file-name.text-property.ts": bodyOf({
     id: idAt("1"),
@@ -103,7 +103,7 @@ const VOCABULARY: Readonly<Record<string, string>> = {
     id: idAt("2"),
     pageTypeSlug: "page-type",
     slug: "file-property",
-    extendsSlug: ["page-type/page-property"],
+    extends: ["page-type/page-property"],
     properties: [{ pagePropertySlug: "text-property/file-name", required: false, many: false }],
   }),
   "akasha/manifest.file-property.ts": bodyOf({
@@ -117,14 +117,14 @@ const VOCABULARY: Readonly<Record<string, string>> = {
     id: idAt("4"),
     pageTypeSlug: "page-type",
     slug: "workspace-package",
-    extendsSlug: ["page-type/domain"],
+    extends: ["page-type/domain"],
     properties: [{ pagePropertySlug: "file-property/manifest", required: true, many: false }],
   }),
   "akasha/name-format.page-type.ts": bodyOf({
     id: idAt("5"),
     pageTypeSlug: "page-type",
     slug: "name-format",
-    extendsSlug: ["page-type/module"],
+    extends: ["page-type/module"],
   }),
   "akasha/lower-kebab-case.name-format.ts": pageOf({
     id: idAt("6"),
