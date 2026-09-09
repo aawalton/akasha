@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0064Chapter30ViewOfTheCenter = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0064-chapter-30-view-of-the-center",
   title: "Chapter 30: View of the Center",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 64,
   ownLength: 1716,
   unitSlug: "words",

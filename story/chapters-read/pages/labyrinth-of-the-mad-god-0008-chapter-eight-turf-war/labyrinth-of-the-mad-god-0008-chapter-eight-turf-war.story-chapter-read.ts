@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0008ChapterEightTurfWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0008-chapter-eight-turf-war",
   title: "Chapter Eight: Turf War",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 8,
   ownLength: 1798,
   unitSlug: "words",

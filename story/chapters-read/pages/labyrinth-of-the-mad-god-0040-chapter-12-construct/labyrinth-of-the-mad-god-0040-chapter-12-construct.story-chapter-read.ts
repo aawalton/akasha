@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0040Chapter12Construct = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0040-chapter-12-construct",
   title: "Chapter 12: Construct",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 40,
   ownLength: 1639,
   unitSlug: "words",

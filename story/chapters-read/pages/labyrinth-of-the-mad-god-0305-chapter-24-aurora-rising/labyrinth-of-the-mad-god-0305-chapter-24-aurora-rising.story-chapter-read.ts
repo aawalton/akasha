@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0305Chapter24AuroraRising = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0305-chapter-24-aurora-rising",
   title: "Chapter 24: Aurora Rising",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 305,
   ownLength: 1904,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0114Chapter73TheEverSurgingBlade = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0114-chapter-73-the-ever-surging-blade",
   title: "Chapter 73: The Ever-Surging Blade",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 114,
   ownLength: 1518,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0185Chapter3RebuildingCivilization = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0185-chapter-3-rebuilding-civilization",
   title: "Chapter 3: Rebuilding Civilization",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 185,
   ownLength: 1805,
   unitSlug: "words",

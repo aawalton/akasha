@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0108Chapter68Takeaway = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0108-chapter-68-takeaway",
   title: "Chapter 68: Takeaway",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 108,
   ownLength: 1632,
   unitSlug: "words",

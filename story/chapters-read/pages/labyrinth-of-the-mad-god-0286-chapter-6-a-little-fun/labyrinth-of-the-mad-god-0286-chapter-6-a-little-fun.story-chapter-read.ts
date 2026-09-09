@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0286Chapter6ALittleFun = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0286-chapter-6-a-little-fun",
   title: "Chapter 6: A Little Fun",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 286,
   ownLength: 1877,
   unitSlug: "words",

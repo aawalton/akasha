@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0071Chapter35Travel = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0071-chapter-35-travel",
   title: "Chapter 35: Travel",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 71,
   ownLength: 1876,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0047Chapter17WarriorRogue = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0047-chapter-17-warrior-rogue",
   title: "Chapter 17: Warrior Rogue",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 47,
   ownLength: 1638,
   unitSlug: "words",

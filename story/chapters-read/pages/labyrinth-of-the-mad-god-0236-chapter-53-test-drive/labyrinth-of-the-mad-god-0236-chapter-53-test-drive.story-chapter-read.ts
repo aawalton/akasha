@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0236Chapter53TestDrive = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0236-chapter-53-test-drive",
   title: "Chapter 53: Test Drive",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 236,
   ownLength: 2489,
   unitSlug: "words",

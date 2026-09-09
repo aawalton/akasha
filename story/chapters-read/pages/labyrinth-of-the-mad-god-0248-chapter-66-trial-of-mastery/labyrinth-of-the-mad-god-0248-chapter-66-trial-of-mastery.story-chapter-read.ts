@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0248Chapter66TrialOfMastery = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0248-chapter-66-trial-of-mastery",
   title: "Chapter 66: Trial of Mastery",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 248,
   ownLength: 2582,
   unitSlug: "words",

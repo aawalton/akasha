@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0175Chapter134DarkMoment = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0175-chapter-134-dark-moment",
   title: "Chapter 134: Dark Moment",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 175,
   ownLength: 3993,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0123Chapter82DangerAbove = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0123-chapter-82-danger-above",
   title: "Chapter 82: Danger Above",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 123,
   ownLength: 1631,
   unitSlug: "words",

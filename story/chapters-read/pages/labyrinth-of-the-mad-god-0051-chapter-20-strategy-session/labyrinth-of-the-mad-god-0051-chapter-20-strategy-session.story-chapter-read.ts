@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0051Chapter20StrategySession = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0051-chapter-20-strategy-session",
   title: "Chapter 20: Strategy Session",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 51,
   ownLength: 1643,
   unitSlug: "words",

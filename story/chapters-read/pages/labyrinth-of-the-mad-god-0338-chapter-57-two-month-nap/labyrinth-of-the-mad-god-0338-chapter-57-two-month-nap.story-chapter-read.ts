@@ -5,7 +5,7 @@ export const labyrinthOfTheMadGod0338Chapter57TwoMonthNap = {
   pageTypeSlug: "story-chapter-read",
   slug: "labyrinth-of-the-mad-god-0338-chapter-57-two-month-nap",
   title: "Chapter 57: Two-Month Nap",
-  partOfCollectionSlugs: ["labyrinth-of-the-mad-god"],
+  storySlug: "labyrinth-of-the-mad-god",
   position: 338,
   ownLength: 2789,
   unitSlug: "words",
