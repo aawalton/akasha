@@ -1,5 +1,5 @@
-import { randomId } from "@akasha/id-minting"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { randomId } from "akasha/id-minting/random-id/random-id.module.code.ts"
 import {
   healBlockMarker,
   isMarkerType,

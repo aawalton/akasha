@@ -36,7 +36,7 @@ export const akasha = {
     "domain/alan",
     "domain/design",
     "domain/digit-padding",
-    "workspace-package/id-minting",
+    "domain/id-minting",
     "workspace-package/file-page-identity",
     "domain/checkout-version",
     "domain/temper",

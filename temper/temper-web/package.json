@@ -24,7 +24,6 @@
     "@akasha/design-system": "workspace:*",
     "@akasha/errors-client": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/id-minting": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/pages-core": "workspace:*",

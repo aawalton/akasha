@@ -1,6 +1,6 @@
 import { insertedInto } from "@akasha/code/value-inserting"
-import { uuidVersion7 } from "@akasha/id-minting/uuid-version-7"
 import { loadedFrom } from "@akasha/pages/page-value"
+import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"

@@ -18,7 +18,6 @@
     "@akasha/command-system": "workspace:*",
     "@akasha/file-system": "workspace:*",
     "@akasha/git": "workspace:*",
-    "@akasha/id-minting": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/testing-system": "workspace:*",

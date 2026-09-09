@@ -99,7 +99,6 @@
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/geo-io": "workspace:*",
-        "@akasha/id-minting": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/location-traces-access": "workspace:*",
         "@akasha/object-store": "workspace:*",
@@ -461,7 +460,6 @@
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
-        "@akasha/id-minting": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -610,7 +608,6 @@
         "@akasha/command-system": "workspace:*",
         "@akasha/file-system": "workspace:*",
         "@akasha/git": "workspace:*",
-        "@akasha/id-minting": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/testing-system": "workspace:*",
@@ -707,7 +704,6 @@
         "@akasha/checks": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/id-minting": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-runs": "workspace:*",
@@ -960,9 +956,6 @@
     },
     "hook-system": {
       "name": "@akasha/hook-system",
-    },
-    "id-minting": {
-      "name": "@akasha/id-minting",
     },
     "inference/clients": {
       "name": "@akasha/inference-clients",
@@ -1227,7 +1220,6 @@
       "name": "@akasha/pages-core",
       "dependencies": {
         "@akasha/day": "workspace:*",
-        "@akasha/id-minting": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/recurrence": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -1370,7 +1362,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/id-minting": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -1412,7 +1403,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/id-minting": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
@@ -1489,7 +1479,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/id-minting": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/persons": "workspace:*",
@@ -2766,7 +2755,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/id-minting": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -3021,8 +3009,6 @@
     "@akasha/hook-system": ["@akasha/hook-system@workspace:hook-system"],
 
     "@akasha/icloud-photos": ["@akasha/icloud-photos@workspace:alan/harness/icloud-photos"],
-
-    "@akasha/id-minting": ["@akasha/id-minting@workspace:id-minting"],
 
     "@akasha/idle-system": ["@akasha/idle-system@workspace:alan/harness/idle-system"],
 

@@ -51,7 +51,6 @@
     "@akasha/errors-client": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/health-samples-access": "workspace:*",
-    "@akasha/id-minting": "workspace:*",
     "@akasha/object-store": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/pages-access": "workspace:*",

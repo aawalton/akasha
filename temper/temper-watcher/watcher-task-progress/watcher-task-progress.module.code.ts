@@ -1,9 +1,9 @@
-import { uuidVersion7 } from "@akasha/id-minting/uuid-version-7"
 import {
   type CrossCharacterReading,
   materializeCrossCharacterProgress,
 } from "@akasha/temper-player-completion/completion-progress-index"
 import { joinPath } from "@akasha/utils/narrow/join-path"
+import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 
 export type ProgressRow = {
   readonly id: string

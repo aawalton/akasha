@@ -1,11 +1,11 @@
 import { insertedInto } from "@akasha/code/value-inserting"
-import { uuidVersion7 } from "@akasha/id-minting/uuid-version-7"
 import type { Generated } from "@akasha/indexes/generated-properties"
 import { generatedProperties } from "@akasha/indexes/generated-properties"
 import type { Change } from "@akasha/pages/change"
 import { heldIn, pageNamed, partedIn } from "@akasha/pages/page-file-name"
 import { loadedFrom } from "@akasha/pages/page-value"
 import { type Shadow, shadowFor } from "@akasha/pages/shadow"
+import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 

@@ -1,9 +1,0 @@
-{
-  "name": "@akasha/id-minting",
-  "private": true,
-  "type": "module",
-  "exports": {
-    ".": "./random-id/random-id.module.code.ts",
-    "./uuid-version-7": "./uuid-version-7/uuid-version-7.module.code.ts"
-  }
-}

@@ -4,7 +4,7 @@ export const aLandingThatMintsAnIdCannotBeCheckedByComparingDiskAgainstTheBodyHa
   id: "01a081f7-f3c6-734b-866b-772daa0024d2",
   pageTypeSlug: "finding",
   slug: "a-landing-that-mints-an-id-cannot-be-checked-by-comparing-disk-against-the-body-handed-in",
-  domain: "workspace-package/id-minting",
+  domain: "domain/id-minting",
   claim:
     "A module that lands a page body and then checks the file on disk against the body it handed in cannot have its landing work the id out. The minting address inserts the id into the body before writing, so the file on disk is never equal to the body handed over, and the check throws on every page newly created. That check is why such a module writes an id of its own: the hand-written id is not carelessness but the only way to make the two bodies agree. Pointing such a module at the minting address without first changing the check turns a working landing into a failure on the created path alone, which is the path least often exercised.",
   evidence:
