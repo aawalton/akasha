@@ -1143,12 +1143,6 @@
         "zod": "^4.3.6",
       },
     },
-    "infrastructure/loki-service": {
-      "name": "@akasha/loki-service",
-      "dependencies": {
-        "@akasha/k8s-types": "workspace:*",
-      },
-    },
     "infrastructure/postgres-annual-dump": {
       "name": "@akasha/postgres-annual-dump",
       "dependencies": {
@@ -3031,8 +3025,6 @@
     "@akasha/k8s-types": ["@akasha/k8s-types@workspace:infrastructure/cluster/k8s-types"],
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:alan/harness/location-traces-access"],
-
-    "@akasha/loki-service": ["@akasha/loki-service@workspace:infrastructure/loki-service"],
 
     "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:language-design/lua-compiler"],
 
