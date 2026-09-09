@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0133Chapter133BladeOfTheElements =
   story: "phoenix-ascension-cultivation-litrpg",
   position: 133,
   ownLength: 3279,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3470899/chapter-133-blade-of-the-elements",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0533415Machinations = {
   story: "path-of-the-deathless-book-4-completed",
   position: 533,
   ownLength: 5299,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3725208/415-machinations",

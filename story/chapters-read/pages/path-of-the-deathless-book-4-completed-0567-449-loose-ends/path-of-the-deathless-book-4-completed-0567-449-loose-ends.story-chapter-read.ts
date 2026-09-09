@@ -7,7 +7,7 @@ export const pathOfTheDeathlessBook4Completed0567449LooseEnds = {
   story: "story-read/path-of-the-deathless-book-4-completed",
   position: 567,
   publishedAt: "2026-09-03",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3905721",
   source: "royal-road",
   title: "449 Loose Ends",

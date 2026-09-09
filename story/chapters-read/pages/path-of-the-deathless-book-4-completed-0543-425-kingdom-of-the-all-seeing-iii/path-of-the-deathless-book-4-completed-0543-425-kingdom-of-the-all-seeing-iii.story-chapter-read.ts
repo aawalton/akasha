@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0543425KingdomOfTheAllSeeingIii = {
   story: "path-of-the-deathless-book-4-completed",
   position: 543,
   ownLength: 5762,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3778671/425-kingdom-of-the-all-seeing-iii",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0547429HolyWar = {
   story: "path-of-the-deathless-book-4-completed",
   position: 547,
   ownLength: 5940,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3800971/429-holy-war",

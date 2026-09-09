@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0528410AShadowOverPietyI = {
   story: "path-of-the-deathless-book-4-completed",
   position: 528,
   ownLength: 6295,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3703050/410-a-shadow-over-piety-i",

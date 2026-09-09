@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0532414Atonement = {
   story: "path-of-the-deathless-book-4-completed",
   position: 532,
   ownLength: 5518,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3720962/414-atonement",

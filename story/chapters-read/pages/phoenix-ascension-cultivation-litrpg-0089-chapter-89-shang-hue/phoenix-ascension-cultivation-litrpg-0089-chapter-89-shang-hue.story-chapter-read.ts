@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0089Chapter89ShangHue = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 89,
   ownLength: 2324,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3060557/chapter-89-shang-hue",

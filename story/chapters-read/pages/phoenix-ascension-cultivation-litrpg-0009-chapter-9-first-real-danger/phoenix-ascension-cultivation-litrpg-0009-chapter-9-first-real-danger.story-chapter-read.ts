@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0009Chapter9FirstRealDanger = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 9,
   ownLength: 2671,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2528061/chapter-9-first-real-danger",

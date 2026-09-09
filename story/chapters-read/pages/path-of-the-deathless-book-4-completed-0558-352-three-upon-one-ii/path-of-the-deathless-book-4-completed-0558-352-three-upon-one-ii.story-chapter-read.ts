@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0558352ThreeUponOneIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 558,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3367907/352-three-upon-one-ii",

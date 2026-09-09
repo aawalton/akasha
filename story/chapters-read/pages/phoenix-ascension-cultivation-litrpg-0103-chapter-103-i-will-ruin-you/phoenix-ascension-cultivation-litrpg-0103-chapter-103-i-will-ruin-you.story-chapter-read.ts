@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0103Chapter103IWillRuinYou = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 103,
   ownLength: 1880,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3177957/chapter-103-i-will-ruin-you",

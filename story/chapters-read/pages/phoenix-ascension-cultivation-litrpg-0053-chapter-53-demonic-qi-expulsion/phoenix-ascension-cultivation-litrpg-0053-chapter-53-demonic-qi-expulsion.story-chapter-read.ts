@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0053Chapter53DemonicQiExpulsion = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 53,
   ownLength: 2452,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2789980/chapter-53-demonic-qi-expulsion",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0100Chapter100Tribulation = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 100,
   ownLength: 2420,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3152632/chapter-100-tribulation",

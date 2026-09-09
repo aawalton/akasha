@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0600390TheBrokenButUnbreakableIi = 
   story: "path-of-the-deathless-book-4-completed",
   position: 600,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3586079/390-the-broken-but-unbreakable-ii",

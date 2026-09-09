@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0538420HoundhuntIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 538,
   ownLength: 5891,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3752060/420-houndhunt-ii",

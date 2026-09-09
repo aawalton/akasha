@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0522405AsWithinSoWithoutIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 522,
   ownLength: 6055,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3676874/405-as-within-so-without-ii",

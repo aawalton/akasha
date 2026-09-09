@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0514399TheRightToolsIii = {
   story: "path-of-the-deathless-book-4-completed",
   position: 514,
   ownLength: 4411,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3632551/399-the-right-tools-iii",

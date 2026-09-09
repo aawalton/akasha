@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0138Chapter138FLUFFY = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 138,
   ownLength: 2023,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3524252/chapter-138-f-l-u-f-f-y",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0102Chapter102Sneaky = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 102,
   ownLength: 2697,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3166859/chapter-102-sneaky",

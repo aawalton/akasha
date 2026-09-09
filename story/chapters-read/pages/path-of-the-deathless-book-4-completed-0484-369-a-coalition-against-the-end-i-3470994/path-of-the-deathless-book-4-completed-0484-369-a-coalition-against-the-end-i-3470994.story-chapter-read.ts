@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0484369ACoalitionAgainstTheEndI3470
   story: "path-of-the-deathless-book-4-completed",
   position: 484,
   ownLength: 5283,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3470994/369-a-coalition-against-the-end-i",

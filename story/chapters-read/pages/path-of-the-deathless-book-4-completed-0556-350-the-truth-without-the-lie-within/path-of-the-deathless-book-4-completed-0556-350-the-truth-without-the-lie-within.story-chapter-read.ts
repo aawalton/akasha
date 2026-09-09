@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0556350TheTruthWithoutTheLieWithin 
   story: "path-of-the-deathless-book-4-completed",
   position: 556,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3359424/350-the-truth-without-the-lie-within",

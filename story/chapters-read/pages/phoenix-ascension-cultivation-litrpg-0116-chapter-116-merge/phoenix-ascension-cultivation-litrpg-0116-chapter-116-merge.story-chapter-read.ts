@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0116Chapter116Merge = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 116,
   ownLength: 2381,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3298161/chapter-116-merge",

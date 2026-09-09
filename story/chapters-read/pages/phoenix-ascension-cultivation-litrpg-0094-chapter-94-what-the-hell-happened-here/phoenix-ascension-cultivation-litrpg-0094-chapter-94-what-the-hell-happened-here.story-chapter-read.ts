@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0094Chapter94WhatTheHellHappenedHe
   story: "phoenix-ascension-cultivation-litrpg",
   position: 94,
   ownLength: 2805,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3103008/chapter-94-what-the-hell-happened-here",

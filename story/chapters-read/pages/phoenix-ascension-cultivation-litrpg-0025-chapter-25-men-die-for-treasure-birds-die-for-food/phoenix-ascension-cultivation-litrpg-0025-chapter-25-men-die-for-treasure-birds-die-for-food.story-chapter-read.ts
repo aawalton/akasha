@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0025Chapter25MenDieForTreasureBird
   story: "phoenix-ascension-cultivation-litrpg",
   position: 25,
   ownLength: 2323,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2615434/chapter-25-men-die-for-treasure-birds-die-for",

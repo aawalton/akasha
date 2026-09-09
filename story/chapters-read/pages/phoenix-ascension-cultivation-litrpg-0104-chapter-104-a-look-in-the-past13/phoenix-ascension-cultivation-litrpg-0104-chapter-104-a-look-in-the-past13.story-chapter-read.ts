@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0104Chapter104ALookInThePast13 = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 104,
   ownLength: 2231,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3185544/chapter-104-a-look-in-the-past13",

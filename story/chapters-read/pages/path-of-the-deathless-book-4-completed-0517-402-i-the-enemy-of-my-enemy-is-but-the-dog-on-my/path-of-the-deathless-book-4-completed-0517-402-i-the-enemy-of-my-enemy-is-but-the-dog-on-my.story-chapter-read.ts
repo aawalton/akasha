@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0517402ITheEnemyOfMyEnemyIsButTheDo
   story: "path-of-the-deathless-book-4-completed",
   position: 517,
   ownLength: 5987,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3650809/402-i-the-enemy-of-my-enemy-is-but-the-dog-on",

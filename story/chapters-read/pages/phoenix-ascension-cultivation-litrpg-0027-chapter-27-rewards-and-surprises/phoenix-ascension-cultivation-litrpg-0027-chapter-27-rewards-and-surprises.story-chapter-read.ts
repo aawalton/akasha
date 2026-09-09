@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0027Chapter27RewardsAndSurprises =
   story: "phoenix-ascension-cultivation-litrpg",
   position: 27,
   ownLength: 2667,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2626289/chapter-27-rewards-and-surprises",

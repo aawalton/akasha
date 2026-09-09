@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0112Chapter112TheBoarStalksTheCica
   story: "phoenix-ascension-cultivation-litrpg",
   position: 112,
   ownLength: 1595,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3261732/chapter-112-the-boar-stalks-the-cicada-unaware",

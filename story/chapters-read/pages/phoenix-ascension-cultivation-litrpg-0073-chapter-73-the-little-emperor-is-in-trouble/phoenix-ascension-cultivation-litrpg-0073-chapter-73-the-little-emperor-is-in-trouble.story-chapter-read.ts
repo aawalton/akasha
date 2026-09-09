@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0073Chapter73TheLittleEmperorIsInT
   story: "phoenix-ascension-cultivation-litrpg",
   position: 73,
   ownLength: 2214,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2931088/chapter-73-the-little-emperor-is-in-trouble",

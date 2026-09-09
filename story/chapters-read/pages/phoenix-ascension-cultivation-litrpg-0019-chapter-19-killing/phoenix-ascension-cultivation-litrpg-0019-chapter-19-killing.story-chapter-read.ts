@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0019Chapter19Killing = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 19,
   ownLength: 1882,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2579525/chapter-19-killing",

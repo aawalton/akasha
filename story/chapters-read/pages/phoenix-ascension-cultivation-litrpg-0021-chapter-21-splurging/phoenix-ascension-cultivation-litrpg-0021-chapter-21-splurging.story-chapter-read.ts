@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0021Chapter21Splurging = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 21,
   ownLength: 2455,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2590947/chapter-21-splurging",

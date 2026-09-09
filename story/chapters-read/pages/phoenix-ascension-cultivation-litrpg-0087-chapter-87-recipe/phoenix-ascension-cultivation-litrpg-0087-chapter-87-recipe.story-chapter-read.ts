@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0087Chapter87Recipe = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 87,
   ownLength: 1976,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3037897/chapter-87-recipe",

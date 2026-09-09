@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0101Chapter101AngerTheHeavens = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 101,
   ownLength: 2370,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3160045/chapter-101-anger-the-heavens",

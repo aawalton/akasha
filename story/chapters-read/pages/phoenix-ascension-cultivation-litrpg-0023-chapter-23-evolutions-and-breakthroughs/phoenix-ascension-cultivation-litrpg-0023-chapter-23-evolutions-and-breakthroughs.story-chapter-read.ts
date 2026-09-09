@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0023Chapter23EvolutionsAndBreakthr
   story: "phoenix-ascension-cultivation-litrpg",
   position: 23,
   ownLength: 3218,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2603013/chapter-23-evolutions-and-breakthroughs",

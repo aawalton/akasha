@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0502387SparringPartnerI3567546 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 502,
   ownLength: 5535,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3567546/387-sparring-partner-i",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0056Chapter56HeadingIntoTheVillage
   story: "phoenix-ascension-cultivation-litrpg",
   position: 56,
   ownLength: 3819,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2810172/chapter-56-heading-into-the-village",

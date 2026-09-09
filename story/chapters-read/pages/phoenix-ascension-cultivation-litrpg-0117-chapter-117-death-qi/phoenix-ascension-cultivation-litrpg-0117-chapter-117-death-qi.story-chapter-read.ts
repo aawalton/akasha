@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0117Chapter117DeathQi = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 117,
   ownLength: 2154,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3306847/chapter-117-death-qi",

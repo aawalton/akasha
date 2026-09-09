@@ -8,7 +8,7 @@ export const pathToProsperityLitrpgVol12Stubbed0003B1Chapter3Understanding = {
   story: "path-to-prosperity-litrpg-vol-12-stubbed",
   position: 3,
   ownLength: 1419,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1697660/b1-chapter-3-understanding",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0520320Curse3DoubleSubversion = {
   story: "path-of-the-deathless-book-4-completed",
   position: 520,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3201372/320-curse-3-double-subversion",

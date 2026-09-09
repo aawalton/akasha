@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0487372ThievesOfDivinity3489272 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 487,
   ownLength: 3830,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3489272/372-thieves-of-divinity",

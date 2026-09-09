@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0006Chapter6SupraYdelicSuperiorTec
   story: "phoenix-ascension-cultivation-litrpg",
   position: 6,
   ownLength: 2702,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2525658/chapter-6-supra-ydelic-superior-technological",

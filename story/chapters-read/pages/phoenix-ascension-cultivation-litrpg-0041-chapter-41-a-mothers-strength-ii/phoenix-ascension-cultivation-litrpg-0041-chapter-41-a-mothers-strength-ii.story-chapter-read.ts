@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0041Chapter41AMothersStrengthIi = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 41,
   ownLength: 2152,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2709795/chapter-41-a-mothers-strength-ii",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0011Chapter11FortuneFavorsTheBold 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 11,
   ownLength: 2438,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2532250/chapter-11-fortune-favors-the-bold",

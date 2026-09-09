@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0137Chapter137ButlerMo = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 137,
   ownLength: 2277,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3514704/chapter-137-butler-mo",

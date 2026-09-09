@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0546428DivineReciprocity = {
   story: "path-of-the-deathless-book-4-completed",
   position: 546,
   ownLength: 4845,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3796495/428-divine-reciprocity",

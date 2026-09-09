@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0058Chapter58RefiningPills = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 58,
   ownLength: 2203,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2825835/chapter-58-refining-pills",

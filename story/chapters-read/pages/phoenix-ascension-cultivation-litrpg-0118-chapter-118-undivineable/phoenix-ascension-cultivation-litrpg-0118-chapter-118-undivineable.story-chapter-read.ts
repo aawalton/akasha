@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0118Chapter118Undivineable = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 118,
   ownLength: 2128,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3318236/chapter-118-undivineable",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0033Chapter33CopperDemonSkinnyDemo
   story: "phoenix-ascension-cultivation-litrpg",
   position: 33,
   ownLength: 2145,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2661716/chapter-33-copper-demon-skinny-demon",

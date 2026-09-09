@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0124Chapter124Laws = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 124,
   ownLength: 3268,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3376123/chapter-124-laws",

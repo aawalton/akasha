@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0564446Cuckoo = {
   story: "path-of-the-deathless-book-4-completed",
   position: 564,
   ownLength: 4829,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3891551/446-cuckoo",

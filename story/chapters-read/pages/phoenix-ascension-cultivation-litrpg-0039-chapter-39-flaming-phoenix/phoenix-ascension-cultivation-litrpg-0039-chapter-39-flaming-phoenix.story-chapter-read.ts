@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0039Chapter39FlamingPhoenix = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 39,
   ownLength: 2384,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2697285/chapter-39-flaming-phoenix",

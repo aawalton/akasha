@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0494379ThisSharedMomentOfFlavorAndM
   story: "path-of-the-deathless-book-4-completed",
   position: 494,
   ownLength: 5107,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3525837/379-this-shared-moment-of-flavor-and-monologue",

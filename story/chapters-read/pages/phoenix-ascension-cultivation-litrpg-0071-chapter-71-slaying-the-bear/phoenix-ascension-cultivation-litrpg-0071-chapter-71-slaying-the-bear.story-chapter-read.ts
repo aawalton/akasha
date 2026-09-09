@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0071Chapter71SlayingTheBear = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 71,
   ownLength: 2420,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2915056/chapter-71-slaying-the-bear",

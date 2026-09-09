@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0098Chapter98notifications = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 98,
   ownLength: 1977,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3134759/chapter-98notifications",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0139Chapter139SecondMe = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 139,
   ownLength: 2118,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3538964/chapter-139-second-me",

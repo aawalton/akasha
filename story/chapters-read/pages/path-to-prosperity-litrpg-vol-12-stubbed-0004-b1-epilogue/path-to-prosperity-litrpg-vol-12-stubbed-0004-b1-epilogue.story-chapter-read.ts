@@ -8,7 +8,7 @@ export const pathToProsperityLitrpgVol12Stubbed0004B1Epilogue = {
   story: "path-to-prosperity-litrpg-vol-12-stubbed",
   position: 4,
   ownLength: 593,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed/chapter/1753488/b1-epilogue",

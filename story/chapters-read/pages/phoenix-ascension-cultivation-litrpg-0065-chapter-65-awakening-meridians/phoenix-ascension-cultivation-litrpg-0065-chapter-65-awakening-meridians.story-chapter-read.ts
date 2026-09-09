@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0065Chapter65AwakeningMeridians = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 65,
   ownLength: 2249,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2871521/chapter-65-awakening-meridians",

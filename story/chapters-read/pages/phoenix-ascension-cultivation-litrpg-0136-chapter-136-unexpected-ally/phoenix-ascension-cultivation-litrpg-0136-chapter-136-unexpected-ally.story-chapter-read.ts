@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0136Chapter136UnexpectedAlly = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 136,
   ownLength: 2298,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3504188/chapter-136-unexpected-ally",

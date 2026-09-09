@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0064Chapter64Failure = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 64,
   ownLength: 2169,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2865687/chapter-64-failure",

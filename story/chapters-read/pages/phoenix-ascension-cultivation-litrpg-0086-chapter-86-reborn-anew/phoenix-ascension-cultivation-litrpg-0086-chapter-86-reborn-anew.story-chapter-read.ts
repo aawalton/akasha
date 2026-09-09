@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0086Chapter86RebornAnew = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 86,
   ownLength: 2416,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3031267/chapter-86-reborn-anew",

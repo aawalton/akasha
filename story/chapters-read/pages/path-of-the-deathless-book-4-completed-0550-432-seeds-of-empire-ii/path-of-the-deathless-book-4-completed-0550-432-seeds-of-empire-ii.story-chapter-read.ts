@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0550432SeedsOfEmpireIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 550,
   ownLength: 5196,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3814281/432-seeds-of-empire-ii",

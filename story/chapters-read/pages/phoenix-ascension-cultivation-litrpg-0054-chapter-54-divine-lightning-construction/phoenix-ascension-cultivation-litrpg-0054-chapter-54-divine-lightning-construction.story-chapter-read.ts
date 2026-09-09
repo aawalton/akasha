@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0054Chapter54DivineLightningConstr
   story: "phoenix-ascension-cultivation-litrpg",
   position: 54,
   ownLength: 2443,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2795775/chapter-54-divine-lightning-construction",

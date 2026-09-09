@@ -7,7 +7,7 @@ export const pathOfTheDeathlessBook4Completed0568450Intrusion = {
   story: "story-read/path-of-the-deathless-book-4-completed",
   position: 568,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3912342",
   source: "royal-road",
   title: "450 Intrusion",

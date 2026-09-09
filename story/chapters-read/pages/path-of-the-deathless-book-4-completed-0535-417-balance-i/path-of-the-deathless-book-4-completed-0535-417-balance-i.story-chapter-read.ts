@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0535417BalanceI = {
   story: "path-of-the-deathless-book-4-completed",
   position: 535,
   ownLength: 7967,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3738312/417-balance-i",

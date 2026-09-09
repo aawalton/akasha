@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0131Chapter131KillSteal = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 131,
   ownLength: 2446,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3445006/chapter-131-kill-steal",

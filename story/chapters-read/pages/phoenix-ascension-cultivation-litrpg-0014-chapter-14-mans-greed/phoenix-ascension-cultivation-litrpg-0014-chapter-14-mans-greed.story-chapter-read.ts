@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0014Chapter14MansGreed = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 14,
   ownLength: 2097,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2547095/chapter-14-mans-greed",

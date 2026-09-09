@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0091Chapter91GetOffMe = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 91,
   ownLength: 1972,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3078556/chapter-91-get-off-me",

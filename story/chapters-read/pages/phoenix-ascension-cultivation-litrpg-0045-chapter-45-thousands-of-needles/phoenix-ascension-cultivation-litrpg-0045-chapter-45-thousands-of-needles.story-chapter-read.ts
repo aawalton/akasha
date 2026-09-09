@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0045Chapter45ThousandsOfNeedles = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 45,
   ownLength: 2726,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2735636/chapter-45-thousands-of-needles",

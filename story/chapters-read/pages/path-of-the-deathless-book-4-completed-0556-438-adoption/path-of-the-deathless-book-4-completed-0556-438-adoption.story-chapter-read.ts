@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0556438Adoption = {
   story: "path-of-the-deathless-book-4-completed",
   position: 556,
   ownLength: 4677,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3844522/438-adoption",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0099Chapter99ExecutingThePlan = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 99,
   ownLength: 4385,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3141918/chapter-99-executing-the-plan",

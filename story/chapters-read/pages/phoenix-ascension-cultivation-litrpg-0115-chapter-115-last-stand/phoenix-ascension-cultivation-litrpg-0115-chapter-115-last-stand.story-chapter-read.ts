@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0115Chapter115LastStand = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 115,
   ownLength: 2443,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3291037/chapter-115-last-stand",

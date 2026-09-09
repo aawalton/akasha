@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0044Chapter44GoldenCoreFlameDragon
   story: "phoenix-ascension-cultivation-litrpg",
   position: 44,
   ownLength: 1733,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2729851/chapter-44-golden-core-flame-dragontempofc",

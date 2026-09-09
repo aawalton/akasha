@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0488373HospitalityI3493459 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 488,
   ownLength: 5421,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3493459/373-hospitality-i",

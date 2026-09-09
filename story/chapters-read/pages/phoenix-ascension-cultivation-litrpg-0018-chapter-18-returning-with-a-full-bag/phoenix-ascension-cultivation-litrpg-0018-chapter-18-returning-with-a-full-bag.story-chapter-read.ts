@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0018Chapter18ReturningWithAFullBag
   story: "phoenix-ascension-cultivation-litrpg",
   position: 18,
   ownLength: 2564,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2571064/chapter-18-returning-with-a-full-bag",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0067Chapter67LightningDragon = {
   story: "phoenix-ascension-cultivation-litrpg",
   position: 67,
   ownLength: 2011,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2885871/chapter-67-lightning-dragon",

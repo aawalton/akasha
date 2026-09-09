@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0602Vii38TheScarforgedUnbreakableI 
   story: "path-of-the-deathless-book-4-completed",
   position: 602,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3596578/vii-38-the-scarforged-unbreakable-i",

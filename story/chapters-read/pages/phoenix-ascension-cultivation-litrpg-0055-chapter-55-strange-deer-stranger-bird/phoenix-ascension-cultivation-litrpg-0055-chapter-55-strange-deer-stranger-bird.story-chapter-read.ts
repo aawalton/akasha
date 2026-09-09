@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0055Chapter55StrangeDeerStrangerBi
   story: "phoenix-ascension-cultivation-litrpg",
   position: 55,
   ownLength: 4361,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2804074/chapter-55-strange-deer-stranger-bird",

@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0095Chapter95TunicOfTheLonePhoenix
   story: "phoenix-ascension-cultivation-litrpg",
   position: 95,
   ownLength: 2184,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/3109749/chapter-95-tunic-of-the-lone-phoenix",

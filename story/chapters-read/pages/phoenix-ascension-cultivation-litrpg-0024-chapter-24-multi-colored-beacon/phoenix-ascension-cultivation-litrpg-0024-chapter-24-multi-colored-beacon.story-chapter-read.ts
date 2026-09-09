@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0024Chapter24MultiColoredBeacon = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 24,
   ownLength: 4251,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2608302/chapter-24-multi-colored-beacon",

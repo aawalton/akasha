@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0504389TheBrokenButUnbreakableI3581
   story: "path-of-the-deathless-book-4-completed",
   position: 504,
   ownLength: 6759,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3581308/389-the-broken-but-unbreakable-i",

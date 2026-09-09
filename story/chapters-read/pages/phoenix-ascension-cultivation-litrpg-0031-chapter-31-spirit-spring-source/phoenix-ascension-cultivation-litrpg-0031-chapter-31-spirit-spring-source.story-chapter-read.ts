@@ -8,7 +8,7 @@ export const phoenixAscensionCultivationLitrpg0031Chapter31SpiritSpringSource = 
   story: "phoenix-ascension-cultivation-litrpg",
   position: 31,
   ownLength: 2565,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg-book-1-2/chapter/2651651/chapter-31-spirit-spring-source",
