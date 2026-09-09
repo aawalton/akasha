@@ -5,7 +5,7 @@ export const surplus = {
   pageTypeSlug: "domain",
   slug: "surplus",
   definition: "how much of Alan's night the day has left him",
-  partSlugs: [
+  parts: [
     "module/surplus-fall-notifying",
     "module/surplus-fall-readout",
     "module/surplus-fall-ticking",

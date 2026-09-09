@@ -5,7 +5,7 @@ export const telemetry = {
   pageTypeSlug: "domain",
   slug: "telemetry",
   definition: "somewhere a program records what it is doing",
-  partSlugs: [
+  parts: [
     "domain/log",
     "domain/metric",
     "manifest/dcgm-exporter-daemonset",

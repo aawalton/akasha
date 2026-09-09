@@ -5,7 +5,7 @@ export const modelGateway = {
   pageTypeSlug: "domain",
   slug: "model-gateway",
   definition: "what sits between an agent and the model it is asking",
-  partSlugs: [
+  parts: [
     "module/account-picker",
     "module/account-walk",
     "module/anthropic-error-envelope",

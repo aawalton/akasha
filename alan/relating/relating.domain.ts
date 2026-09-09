@@ -5,7 +5,7 @@ export const relating = {
   pageTypeSlug: "domain",
   slug: "relating",
   definition: "the people in Alan's life and what he keeps of them",
-  partSlugs: [
+  parts: [
     "page-type/connection-activity",
     "page-type/relationship",
     "page-type/relationship-deposit",

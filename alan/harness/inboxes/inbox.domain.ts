@@ -6,7 +6,7 @@ export const inbox = {
   slug: "inbox",
   definition: "the inboxes Alan keeps at empty",
   pluralSlug: "inboxes",
-  partSlugs: [
+  parts: [
     "module/email-entry-writing",
     "module/inbox-count-polling",
     "module/inbox-count-tick",

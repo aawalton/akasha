@@ -5,7 +5,7 @@ export const ki = {
   pageTypeSlug: "domain",
   slug: "ki",
   definition: "what belongs to Ki herself",
-  partSlugs: [
+  parts: [
     "page-type/ki-author",
     "page-type/ki-book",
     "page-type/ki-book-series",

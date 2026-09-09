@@ -5,5 +5,5 @@ export const self = {
   pageTypeSlug: "domain",
   slug: "self",
   definition: "who Alan is working to become",
-  partSlugs: ["page-type/identity-statement", "page-type/life-theme"],
+  parts: ["page-type/identity-statement", "page-type/life-theme"],
 } as const satisfies Domain

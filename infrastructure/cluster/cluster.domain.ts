@@ -5,7 +5,7 @@ export const cluster = {
   pageTypeSlug: "domain",
   slug: "cluster",
   definition: "the Kubernetes cluster the system's services run on",
-  partSlugs: [
+  parts: [
     "domain/cluster-operations",
     "workspace-package/cluster-manifests",
     "page-type/cluster-service",

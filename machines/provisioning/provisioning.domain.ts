@@ -5,7 +5,7 @@ export const provisioning = {
   pageTypeSlug: "domain",
   slug: "provisioning",
   definition: "what a machine of Alan's is set up with before it can do work",
-  partSlugs: [
+  parts: [
     "page-type/provisioned-file",
     "python-module/btw5",
     "shell-script/akasha-launcher",

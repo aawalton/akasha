@@ -5,7 +5,7 @@ export const carResearch = {
   pageTypeSlug: "domain",
   slug: "car-research",
   definition: "what Alan read about the cars on sale while deciding what to buy",
-  partSlugs: [
+  parts: [
     "page-type/car",
     "page-type/car-make",
     "page-type/car-model",

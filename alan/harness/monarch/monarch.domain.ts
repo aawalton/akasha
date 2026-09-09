@@ -6,7 +6,7 @@ export const monarch = {
   slug: "monarch",
   definition:
     "the outside service that gathers every account Alan has into one picture of his money",
-  partSlugs: [
+  parts: [
     "module/monarch-syncing",
     "module/transaction-polling",
     "page-type/category-rule",

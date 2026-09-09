@@ -5,7 +5,7 @@ export const storage = {
   pageTypeSlug: "domain",
   slug: "storage",
   definition: "where bytes live",
-  partSlugs: [
+  parts: [
     "domain/disk-store",
     "domain/backup",
     "domain/git-repos",

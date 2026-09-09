@@ -6,7 +6,7 @@ export const generation = {
   slug: "generation",
   definition: "images, video, audio or prose made by a model",
   pluralSlug: "generations",
-  partSlugs: [
+  parts: [
     "page-type/audio",
     "page-type/generation-log",
     "page-type/image",

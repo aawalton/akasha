@@ -5,7 +5,7 @@ export const changeMechanicalFileContentChange = {
   pageTypeSlug: "domain",
   slug: "change-mechanical-file-content-change",
   definition: "a mechanical change restating what a file has",
-  partSlugs: [
+  parts: [
     "change-mechanical-file-content/change-file-content",
     "change-mechanical-file-content/change-file-content-code",
     "change-mechanical-file-content/change-manifest-ways",

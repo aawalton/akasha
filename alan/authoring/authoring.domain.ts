@@ -5,7 +5,7 @@ export const authoring = {
   pageTypeSlug: "domain",
   slug: "authoring",
   definition: "the books Alan writes with a persona",
-  partSlugs: ["page-type/book-record"],
+  parts: ["page-type/book-record"],
   invariants: [
     {
       invariantKind: "departure",

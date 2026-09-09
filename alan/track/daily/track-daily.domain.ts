@@ -5,7 +5,7 @@ export const trackDaily = {
   pageTypeSlug: "domain",
   slug: "track-daily",
   definition: "what is measured about Alan a day at a time",
-  partSlugs: [
+  parts: [
     "page-type/email-entry",
     "page-type/day",
     "module/day-narrow-types",

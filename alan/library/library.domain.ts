@@ -5,7 +5,7 @@ export const library = {
   pageTypeSlug: "domain",
   slug: "library",
   definition: "what Alan works through, and how far through it he has got",
-  partSlugs: [
+  parts: [
     "domain/studying",
     "domain/watching",
     "workspace-package/reading",

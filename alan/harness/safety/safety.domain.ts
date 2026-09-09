@@ -5,7 +5,7 @@ export const safety = {
   pageTypeSlug: "domain",
   slug: "safety",
   definition: "the safety level Alan logs against the block Alan is in",
-  partSlugs: [
+  parts: [
     "module/safety-reading",
     "readout/upkeep-safety",
     "workstation-service/safety-reading-service",

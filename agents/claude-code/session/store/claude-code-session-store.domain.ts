@@ -5,7 +5,7 @@ export const claudeCodeSessionStore = {
   pageTypeSlug: "domain",
   slug: "claude-code-session-store",
   definition: "where session files are kept",
-  partSlugs: ["domain/claude-code-session-store-path"],
+  parts: ["domain/claude-code-session-store-path"],
   invariants: [
     {
       invariantKind: "departure",

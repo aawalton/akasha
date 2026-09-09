@@ -5,7 +5,7 @@ export const alan = {
   pageTypeSlug: "domain",
   slug: "alan",
   definition: "what belongs to Alan himself",
-  partSlugs: [
+  parts: [
     "domain/alan-harness",
     "domain/anime",
     "domain/atlas-app",

@@ -5,7 +5,7 @@ export const rulesEngine = {
   pageTypeSlug: "domain",
   slug: "rules-engine",
   definition: "what every rule set runs on",
-  partSlugs: ["page-type/rules-engine-rule-set", "domain/rules-engine-field"],
+  parts: ["page-type/rules-engine-rule-set", "domain/rules-engine-field"],
   invariants: [
     {
       invariantKind: "departure",

@@ -5,7 +5,7 @@ export const fitness = {
   pageTypeSlug: "domain",
   slug: "fitness",
   definition: "how Alan trains his body and what the training did",
-  partSlugs: [
+  parts: [
     "page-type/equipment-item",
     "page-type/exercise",
     "page-type/mobility-reading",

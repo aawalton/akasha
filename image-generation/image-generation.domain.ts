@@ -5,7 +5,7 @@ export const imageGeneration = {
   pageTypeSlug: "domain",
   slug: "image-generation",
   definition: "making an image from text or from another image",
-  partSlugs: ["domain/z-image-turbo"],
+  parts: ["domain/z-image-turbo"],
   invariants: [
     {
       invariantKind: "departure",

@@ -5,7 +5,7 @@ export const changeMechanicalFileMove = {
   pageTypeSlug: "domain",
   slug: "change-mechanical-file-move",
   definition: "a mechanical change moving a file to another path",
-  partSlugs: [
+  parts: [
     "change-mechanical-file/move-file",
     "change-mechanical/move-file-code",
     "change-mechanical-file/move-file-page",

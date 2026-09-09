@@ -5,7 +5,7 @@ export const changeMechanicalFileAddIfNotPresent = {
   pageTypeSlug: "domain",
   slug: "change-mechanical-file-add-if-not-present",
   definition: "a mechanical change adding a file that is not there already",
-  partSlugs: ["change-mechanical-file/add-if-not-present-file"],
+  parts: ["change-mechanical-file/add-if-not-present-file"],
   invariants: [
     {
       invariantKind: "absence",

@@ -5,7 +5,7 @@ export const studying = {
   pageTypeSlug: "domain",
   slug: "studying",
   definition: "the courses Alan is taught by",
-  partSlugs: [
+  parts: [
     "page-type/great-course",
     "page-type/great-courses-collection",
     "page-type/great-courses-subject",

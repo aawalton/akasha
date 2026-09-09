@@ -5,7 +5,7 @@ export const ring = {
   pageTypeSlug: "domain",
   slug: "ring",
   definition: "a reading drawn as an arc around the figure it reads",
-  partSlugs: ["domain/budget-ring", "domain/completion-ring", "domain/stoplight-ring"],
+  parts: ["domain/budget-ring", "domain/completion-ring", "domain/stoplight-ring"],
   invariants: [
     {
       invariantKind: "departure",

@@ -5,7 +5,7 @@ export const attributes = {
   pageTypeSlug: "domain",
   slug: "attributes",
   definition: "the points Alan's daily upkeep habits earned him on a day",
-  partSlugs: [
+  parts: [
     "module/attributes-reading",
     "workstation-service/attributes-reading-service",
     "workstation-service/attributes-relay-service",

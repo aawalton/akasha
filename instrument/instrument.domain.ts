@@ -6,7 +6,7 @@ export const instrument = {
   slug: "instrument",
   definition: "code kept to be run again, to find out what is true",
   pluralSlug: "instruments",
-  partSlugs: ["domain/run-cost"],
+  parts: ["domain/run-cost"],
   invariants: [
     {
       invariantKind: "departure",

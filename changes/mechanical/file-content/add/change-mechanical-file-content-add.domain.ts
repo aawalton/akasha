@@ -5,7 +5,7 @@ export const changeMechanicalFileContentAdd = {
   pageTypeSlug: "domain",
   slug: "change-mechanical-file-content-add",
   definition: "a mechanical change adding to what a file holds",
-  partSlugs: [
+  parts: [
     "change-mechanical-file-content/add-page-property",
     "change-mechanical-file-content/add-property-value",
     "change-mechanical-file-content/add-property-record",

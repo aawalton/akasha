@@ -5,7 +5,7 @@ export const changeMechanicalFileContentMove = {
   pageTypeSlug: "domain",
   slug: "change-mechanical-file-content-move",
   definition: "a mechanical change moving part of what a file holds to another place",
-  partSlugs: ["change-mechanical-file-content/move-property-value"],
+  parts: ["change-mechanical-file-content/move-property-value"],
   invariants: [
     {
       invariantKind: "absence",

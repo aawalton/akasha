@@ -5,7 +5,7 @@ export const watching = {
   pageTypeSlug: "domain",
   slug: "watching",
   definition: "the shows and films Alan watches",
-  partSlugs: [
+  parts: [
     "number-property/vote-average",
     "page-type/episode",
     "page-type/fandom",

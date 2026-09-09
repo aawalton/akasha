@@ -5,7 +5,7 @@ export const codeEditor = {
   pageTypeSlug: "domain",
   slug: "code-editor",
   definition: "a workbench of files, groups, panels and terminals",
-  partSlugs: [
+  parts: [
     "domain/code-editor-group-layout",
     "page-type/code-editor-data-interface",
     "page-type/code-editor-window",

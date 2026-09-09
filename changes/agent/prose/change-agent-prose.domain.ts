@@ -5,5 +5,5 @@ export const changeAgentProse = {
   pageTypeSlug: "domain",
   slug: "change-agent-prose",
   definition: "a change an agent reaches acting on the English a page states",
-  partSlugs: ["change-agent/change-prose-pattern"],
+  parts: ["change-agent/change-prose-pattern"],
 } as const satisfies Domain

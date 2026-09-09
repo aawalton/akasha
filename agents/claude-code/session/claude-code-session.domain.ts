@@ -5,7 +5,7 @@ export const claudeCodeSession = {
   pageTypeSlug: "domain",
   slug: "claude-code-session",
   definition: "one conversation Claude Code can pick up again",
-  partSlugs: ["domain/claude-code-session-store"],
+  parts: ["domain/claude-code-session-store"],
   invariants: [
     {
       invariantKind: "departure",

@@ -5,7 +5,7 @@ export const node = {
   pageTypeSlug: "domain",
   slug: "node",
   definition: "one machine in a cluster",
-  partSlugs: ["manifest/nvidia-device-plugin"],
+  parts: ["manifest/nvidia-device-plugin"],
   invariants: [
     {
       invariantKind: "departure",

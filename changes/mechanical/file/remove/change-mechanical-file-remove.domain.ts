@@ -5,7 +5,7 @@ export const changeMechanicalFileRemove = {
   pageTypeSlug: "domain",
   slug: "change-mechanical-file-remove",
   definition: "a mechanical change taking a file away",
-  partSlugs: [
+  parts: [
     "change-mechanical-file/remove-file",
     "change-mechanical/remove-file-code",
     "change-mechanical-file/remove-file-page",

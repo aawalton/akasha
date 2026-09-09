@@ -5,7 +5,7 @@ export const track = {
   pageTypeSlug: "domain",
   slug: "track",
   definition: "what is measured about Alan",
-  partSlugs: [
+  parts: [
     "domain/tracking-capture",
     "domain/track-daily",
     "page-type/food-entry",

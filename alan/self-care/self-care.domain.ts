@@ -5,5 +5,5 @@ export const selfCare = {
   pageTypeSlug: "domain",
   slug: "self-care",
   definition: "what Alan feels and how he tends it",
-  partSlugs: ["domain/arousal"],
+  parts: ["domain/arousal"],
 } as const satisfies Domain

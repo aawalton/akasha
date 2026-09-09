@@ -5,7 +5,7 @@ export const infrastructure = {
   pageTypeSlug: "domain",
   slug: "infrastructure",
   definition: "what the system runs on",
-  partSlugs: [
+  parts: [
     "domain/storage",
     "domain/network",
     "domain/secret",

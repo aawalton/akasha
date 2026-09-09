@@ -5,7 +5,7 @@ export const musicCatalog = {
   pageTypeSlug: "domain",
   slug: "music-catalog",
   definition: "the songs and the artists who made them",
-  partSlugs: [
+  parts: [
     "module/lrclib-client",
     "module/lrclib-map",
     "module/lrclib-schema",

@@ -5,7 +5,7 @@ export const clearTheWorld = {
   pageTypeSlug: "domain",
   slug: "clear-the-world",
   definition: "a game about clearing landmines from the ground",
-  partSlugs: ["page-type/ctw-achievement", "page-type/ctw-team"],
+  parts: ["page-type/ctw-achievement", "page-type/ctw-team"],
   invariants: [
     {
       invariantKind: "departure",

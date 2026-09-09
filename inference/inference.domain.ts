@@ -5,7 +5,7 @@ export const inference = {
   pageTypeSlug: "domain",
   slug: "inference",
   definition: "the services that run models and keep a record of every run",
-  partSlugs: [
+  parts: [
     "domain/generation",
     "workspace-package/comfy",
     "workspace-package/inference-clients",

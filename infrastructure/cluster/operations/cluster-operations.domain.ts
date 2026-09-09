@@ -5,7 +5,7 @@ export const clusterOperations = {
   pageTypeSlug: "domain",
   slug: "cluster-operations",
   definition: "the cluster tended by hand from the workstation",
-  partSlugs: [
+  parts: [
     "shell-script/bootstrap-namespace",
     "shell-script/ci-apply-manifests",
     "shell-script/create-tunnel",

@@ -5,7 +5,7 @@ export const activity = {
   pageTypeSlug: "domain",
   slug: "activity",
   definition: "how much Alan moved on a day",
-  partSlugs: [
+  parts: [
     "module/activity-reading",
     "readout/upkeep-activity",
     "workstation-service/activity-reading-service",

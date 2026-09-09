@@ -6,7 +6,7 @@ export const trackingCapture = {
   slug: "tracking-capture",
   definition: "how something Alan did becomes an entry",
   pluralSlug: "tracking-captures",
-  partSlugs: [
+  parts: [
     "domain/tracking-capture-report",
     "domain/tracking-capture-measurement",
     "domain/tracking-capture-trace",

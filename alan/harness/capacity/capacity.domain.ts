@@ -5,7 +5,7 @@ export const capacity = {
   pageTypeSlug: "domain",
   slug: "capacity",
   definition: "how much stress capacity Alan's day has left him in hand",
-  partSlugs: [
+  parts: [
     "module/capacity-reading",
     "readout/upkeep-capacity",
     "workstation-service/capacity-reading-service",

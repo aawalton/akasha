@@ -5,7 +5,7 @@ export const changeAgentFile = {
   pageTypeSlug: "domain",
   slug: "change-agent-file",
   definition: "a change an agent reaches acting on where a file sits",
-  partSlugs: [
+  parts: [
     "change-agent/add-file",
     "change-agent/change-page-page-type",
     "change-agent/move-page",

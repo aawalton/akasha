@@ -5,7 +5,7 @@ export const plants = {
   pageTypeSlug: "domain",
   slug: "plants",
   definition: "the whole plants Alan has eaten since he rose",
-  partSlugs: [
+  parts: [
     "module/plants-reading",
     "readout/upkeep-plants",
     "workstation-service/plants-reading-service",

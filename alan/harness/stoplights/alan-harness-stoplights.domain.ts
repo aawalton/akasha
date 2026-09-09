@@ -5,7 +5,7 @@ export const alanHarnessStoplights = {
   pageTypeSlug: "domain",
   slug: "alan-harness-stoplights",
   definition: "how Alan knows what to do next",
-  partSlugs: ["module/attribute-stoplights"],
+  parts: ["module/attribute-stoplights"],
   invariants: [
     {
       invariantKind: "gap",

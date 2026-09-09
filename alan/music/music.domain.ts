@@ -6,7 +6,7 @@ export const music = {
   slug: "music",
   definition: "music heard and what is kept of it",
   pluralSlug: "music",
-  partSlugs: [
+  parts: [
     "domain/music-catalog",
     "domain/music-listening",
     "workspace-package/music-choosing",

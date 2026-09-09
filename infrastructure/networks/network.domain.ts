@@ -6,7 +6,7 @@ export const network = {
   slug: "network",
   definition: "what a program reaches other machines over",
   pluralSlug: "networks",
-  partSlugs: [
+  parts: [
     "domain/certificate",
     "manifest/cloudflared",
     "manifest/ddns-headscale",

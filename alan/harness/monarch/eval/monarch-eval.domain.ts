@@ -6,7 +6,7 @@ export const monarchEval = {
   slug: "monarch-eval",
   definition:
     "how far an agent can be trusted to settle a transaction's category, and where it cannot",
-  partSlugs: [
+  parts: [
     "module/monarch-eval-agent",
     "module/monarch-eval-population",
     "module/monarch-eval-run",

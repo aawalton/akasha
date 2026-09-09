@@ -6,7 +6,7 @@ export const backup = {
   slug: "backup",
   definition: "a copy of what a store has, kept apart from that store",
   pluralSlug: "backups",
-  partSlugs: ["workspace-package/backup-retention"],
+  parts: ["workspace-package/backup-retention"],
   invariants: [
     {
       invariantKind: "departure",

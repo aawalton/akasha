@@ -5,7 +5,7 @@ export const alanwaltonIosNotification = {
   pageTypeSlug: "domain",
   slug: "alanwalton-ios-notification",
   definition: "a notification delivered to a phone by Apple's push service",
-  partSlugs: [
+  parts: [
     "module/apns-sending",
     "module/push-device-tokens",
     "module/push-notifier-tick",

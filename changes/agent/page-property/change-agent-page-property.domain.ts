@@ -5,5 +5,5 @@ export const changeAgentPageProperty = {
   pageTypeSlug: "domain",
   slug: "change-agent-page-property",
   definition: "a change an agent reaches acting on every page with one property",
-  partSlugs: ["change-agent/rename-page-property-property-slug"],
+  parts: ["change-agent/rename-page-property-property-slug"],
 } as const satisfies Domain

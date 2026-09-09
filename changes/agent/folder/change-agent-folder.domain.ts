@@ -5,7 +5,7 @@ export const changeAgentFolder = {
   pageTypeSlug: "domain",
   slug: "change-agent-folder",
   definition: "a change an agent reaches acting on a folder and everything under it",
-  partSlugs: [
+  parts: [
     "change-agent/move-folder",
     "change-agent/move-folder-package",
     "change-agent/nest-commands",

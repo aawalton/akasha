@@ -5,7 +5,7 @@ export const google = {
   pageTypeSlug: "domain",
   slug: "google",
   definition: "what Alan keeps with Google, reached under one consent",
-  partSlugs: [
+  parts: [
     "workspace-package/google-calendar",
     "workspace-package/google-drive",
     "workspace-package/google-email",

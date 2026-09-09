@@ -5,7 +5,7 @@ export const changeMechanicalFileRename = {
   pageTypeSlug: "domain",
   slug: "change-mechanical-file-rename",
   definition: "a mechanical change restating the slug a page is named by",
-  partSlugs: [
+  parts: [
     "change-mechanical/rename-file-page",
     "change-mechanical/rename-file-page-property",
     "change-mechanical/rename-file-page-type",

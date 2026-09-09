@@ -5,7 +5,7 @@ export const changeAgentPageType = {
   pageTypeSlug: "domain",
   slug: "change-agent-page-type",
   definition: "a change an agent reaches acting on every page of one page type",
-  partSlugs: [
+  parts: [
     "change-agent/add-property-to-every-page",
     "change-agent/move-property-on-every-page",
     "change-agent/remove-every-page-of-a-type",

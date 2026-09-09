@@ -5,7 +5,7 @@ export const allAboutAlan = {
   pageTypeSlug: "domain",
   slug: "all-about-alan",
   definition: "the notes on who Alan is",
-  partSlugs: [
+  parts: [
     "page-type/all-about-alan-experiment",
     "page-type/all-about-alan-model",
     "page-type/all-about-alan-question",

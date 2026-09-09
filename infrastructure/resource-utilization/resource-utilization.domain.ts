@@ -5,7 +5,7 @@ export const resourceUtilization = {
   pageTypeSlug: "domain",
   slug: "resource-utilization",
   definition: "how much of each resource the system runs on is in use rather than idle",
-  partSlugs: ["domain/alan-attention"],
+  parts: ["domain/alan-attention"],
   invariants: [
     {
       invariantKind: "departure",

@@ -5,5 +5,5 @@ export const auth = {
   pageTypeSlug: "domain",
   slug: "auth",
   definition: "who a caller is, and what says so",
-  partSlugs: ["manifest/gotrue"],
+  parts: ["manifest/gotrue"],
 } as const satisfies Domain

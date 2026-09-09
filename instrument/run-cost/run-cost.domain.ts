@@ -6,7 +6,7 @@ export const runCost = {
   slug: "run-cost",
   definition: "how long a run takes, said as one of six named bands",
   pluralSlug: "run-costs",
-  partSlugs: [
+  parts: [
     "domain/run-cost-fast",
     "domain/run-cost-lagging",
     "domain/run-cost-slow",
