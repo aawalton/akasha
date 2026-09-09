@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0077Chapter93UnexpectedVisitor
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0077-chapter-93-unexpected-visitors",
   title: "Chapter 93 - Unexpected Visitors",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 77,
   ownLength: 3415,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const motherOfLearning00033TheBitterTruth = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0003-3-the-bitter-truth",
   title: "3. The Bitter Truth",
-  partOfCollectionSlugs: ["story-read/mother-of-learning"],
+  storySlug: "story-read/mother-of-learning",
   position: 3,
   ownLength: 7180,
   ownProgress: 7180,

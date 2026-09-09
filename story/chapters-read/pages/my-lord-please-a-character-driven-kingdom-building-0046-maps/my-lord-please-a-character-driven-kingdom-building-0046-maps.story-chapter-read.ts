@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0046Maps = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0046-maps",
   title: "Maps",
-  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  storySlug: "my-lord-please-a-character-driven-kingdom-building",
   position: 46,
   ownLength: 101,
   unitSlug: "words",

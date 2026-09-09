@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0064Chapter60Convergence
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0064-chapter-60-convergence",
   title: "Chapter 60 Convergence",
-  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  storySlug: "my-lord-please-a-character-driven-kingdom-building",
   position: 64,
   ownLength: 2391,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const motherOfLearning006767Convergence = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0067-67-convergence",
   title: "67. Convergence",
-  partOfCollectionSlugs: ["story-read/mother-of-learning"],
+  storySlug: "story-read/mother-of-learning",
   position: 67,
   ownLength: 7885,
   ownProgress: 7885,

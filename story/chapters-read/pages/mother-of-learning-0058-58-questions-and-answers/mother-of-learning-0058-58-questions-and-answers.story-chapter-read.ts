@@ -5,7 +5,7 @@ export const motherOfLearning005858QuestionsAndAnswers = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0058-58-questions-and-answers",
   title: "58. Questions and Answers",
-  partOfCollectionSlugs: ["story-read/mother-of-learning"],
+  storySlug: "story-read/mother-of-learning",
   position: 58,
   ownLength: 6678,
   ownProgress: 6678,

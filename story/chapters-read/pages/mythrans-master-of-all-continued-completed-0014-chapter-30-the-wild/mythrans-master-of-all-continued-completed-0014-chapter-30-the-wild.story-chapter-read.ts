@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0014Chapter30TheWild = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0014-chapter-30-the-wild",
   title: "Chapter 30 - The Wild",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 14,
   ownLength: 2302,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0048Chapter44Familiarity
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0048-chapter-44-familiarity",
   title: "Chapter 44 Familiarity",
-  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  storySlug: "my-lord-please-a-character-driven-kingdom-building",
   position: 48,
   ownLength: 2343,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0024Interlude01Alicia = 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0024-interlude-01-alicia",
   title: "Interlude 01 Alicia",
-  partOfCollectionSlugs: ["my-lord-please-a-character-driven-kingdom-building"],
+  storySlug: "my-lord-please-a-character-driven-kingdom-building",
   position: 24,
   ownLength: 2607,
   unitSlug: "words",

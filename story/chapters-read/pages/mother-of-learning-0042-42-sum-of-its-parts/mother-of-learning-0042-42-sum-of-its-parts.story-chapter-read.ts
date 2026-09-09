@@ -5,7 +5,7 @@ export const motherOfLearning004242SumOfItsParts = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0042-42-sum-of-its-parts",
   title: "42. Sum of its Parts",
-  partOfCollectionSlugs: ["story-read/mother-of-learning"],
+  storySlug: "story-read/mother-of-learning",
   position: 42,
   ownLength: 7346,
   ownProgress: 7346,

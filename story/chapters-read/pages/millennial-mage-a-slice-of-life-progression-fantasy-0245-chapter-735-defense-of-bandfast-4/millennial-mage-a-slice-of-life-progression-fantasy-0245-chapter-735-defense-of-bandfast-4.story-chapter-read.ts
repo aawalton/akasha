@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0245Chapter735DefenseOf
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0245-chapter-735-defense-of-bandfast-4",
   title: "Chapter: 735 - Defense of Bandfast (4)",
-  partOfCollectionSlugs: ["millennial-mage-a-slice-of-life-progression-fantasy"],
+  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 245,
   ownLength: 2823,
   unitSlug: "words",
