@@ -294,7 +294,7 @@ function schemaAmong(schemas: ReadonlyMap<string, Schema>, said: string): Schema
 export function sourceAmong(values: readonly Value[], source: Source): Source {
   const types = new Map<string, Value>()
   for (const value of values) {
-    if (textAt(value, "pageTypeSlug") !== PAGE_TYPE) continue
+    if ((textAt(value, "type") ?? textAt(value, "pageTypeSlug")) !== PAGE_TYPE) continue
     const slug = textAt(value, "slug")
     if (slug !== null) types.set(slug, value)
   }
@@ -308,7 +308,7 @@ export function sourceOver(values: readonly Value[]): Source {
   const types = new Map<string, Value>()
   const schemas = new Map<string, Schema>()
   for (const value of values) {
-    const pageTypeSlug = textAt(value, "pageTypeSlug")
+    const pageTypeSlug = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
     const slug = textAt(value, "slug")
     if (pageTypeSlug === null || slug === null) continue
     if (pageTypeSlug === PAGE_TYPE) types.set(slug, value)

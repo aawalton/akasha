@@ -19,6 +19,8 @@ export const MESSAGE = "--message"
 
 export const KEEP_LAST_NEWLINE = "--keep-last-newline"
 
+const PAGE_TYPE = "type"
+
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const INPUT_AT = "/dev/stdin"
@@ -106,7 +108,7 @@ export function targetIn(root: string, path: string): Target | { readonly refuse
   if (value === null) {
     return { refused: `${path} declares no page here, and a secret belongs to a page that stands` }
   }
-  const pageTypeSlug = textAt(value, PAGE_TYPE_SLUG)
+  const pageTypeSlug = textAt(value, PAGE_TYPE) ?? textAt(value, PAGE_TYPE_SLUG)
   if (pageTypeSlug === null) {
     return { refused: `${path} names no page type, so nothing says which of its values are secret` }
   }

@@ -14,6 +14,7 @@ const SYSTEM_KEYS: ReadonlySet<string> = new Set([
   "id",
   "seq",
   "pageTypeId",
+  "type",
   "pageTypeSlug",
   "userId",
   "title",

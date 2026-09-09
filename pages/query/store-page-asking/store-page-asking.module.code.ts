@@ -210,7 +210,10 @@ function declaredFrom(one: Flat, page: Flat | undefined, on: string): Declaratio
   if (slug === null) return null
   return {
     key: page === undefined ? slug : (textAt(page, "propertySlug") ?? slug),
-    type: page === undefined ? "page-property" : (textAt(page, "pageTypeSlug") ?? "page-property"),
+    type:
+      page === undefined
+        ? "page-property"
+        : (textAt(page, "type") ?? textAt(page, "pageTypeSlug") ?? "page-property"),
     title: page === undefined ? slug : (textAt(page, "definition") ?? slug),
     pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
     on,

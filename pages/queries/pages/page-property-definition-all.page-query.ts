@@ -5,5 +5,5 @@ export const pagePropertyDefinitionAll = {
   pageTypeSlug: "page-query",
   slug: "page-property-definition-all",
   asksOfSlug: "page-property",
-  keys: ["slug", "propertySlug", "pageTypeSlug"],
+  keys: ["slug", "propertySlug", "type", "pageTypeSlug"],
 } as const satisfies PageQuery

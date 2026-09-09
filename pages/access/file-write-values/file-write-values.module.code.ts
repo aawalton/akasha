@@ -48,7 +48,12 @@ function fileValue(op: string, pageTypeSlug: string, key: string, value: unknown
   )
 }
 
-const SETTLED_ELSEWHERE: ReadonlySet<string> = new Set(["pageTypeSlug", "pageTypeId", "userId"])
+const SETTLED_ELSEWHERE: ReadonlySet<string> = new Set([
+  "type",
+  "pageTypeSlug",
+  "pageTypeId",
+  "userId",
+])
 
 const PAGE_ID = "id"
 
