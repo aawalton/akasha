@@ -21,7 +21,6 @@ const RESTATE = "change-mechanical-file/add-if-not-present-file"
 const PROSE = "prose"
 const TXT = "txt"
 const WORDS = "words"
-const PART_OF = "partOfCollectionSlugs"
 const STORY_SLUG = "storySlug"
 const REQUEST_DELAY_MS = 1500
 const POSITION_DIGITS = 4
@@ -132,14 +131,9 @@ export function readStories(only: string | undefined): readonly Story[] {
 
 const OPENS_WITH = `${STORY_PAGE_TYPE}/`
 
-export function storySlugsOf(held: unknown): readonly string[] {
-  const listed = Array.isArray(held) ? held : [held]
-  const out: string[] = []
-  for (const one of listed) {
-    if (typeof one !== "string" || one === "") continue
-    out.push(one.startsWith(OPENS_WITH) ? one.slice(OPENS_WITH.length) : one)
-  }
-  return out
+export function storySlugOf(held: unknown): string | null {
+  if (typeof held !== "string" || held === "") return null
+  return held.startsWith(OPENS_WITH) ? held.slice(OPENS_WITH.length) : held
 }
 
 export interface Held {
@@ -157,7 +151,7 @@ export function chapterIdIn(row: Row): string | null {
 export function heldChapters(): Held {
   const asked = asking(ROOT, {
     pageTypeSlug: CHAPTER_PAGE_TYPE,
-    keys: ["slug", "externalId", "externalLink", STORY_SLUG, PART_OF],
+    keys: ["slug", "externalId", "externalLink", STORY_SLUG],
   })
   if ("refused" in asked) {
     throw new SyncRefused(
@@ -178,11 +172,11 @@ export function heldChapters(): Held {
     if (slug !== null) slugs.add(slug)
     const id = chapterIdIn(row)
     if (id === null) continue
-    for (const story of storySlugsOf(row[STORY_SLUG] ?? row[PART_OF])) {
-      const ids = idsByStory.get(story) ?? new Set<string>()
-      ids.add(id)
-      idsByStory.set(story, ids)
-    }
+    const story = storySlugOf(row[STORY_SLUG])
+    if (story === null) continue
+    const ids = idsByStory.get(story) ?? new Set<string>()
+    ids.add(id)
+    idsByStory.set(story, ids)
   }
   return { idsByStory, slugs }
 }
