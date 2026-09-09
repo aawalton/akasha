@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const deployIosShipping = {
   id: "01a060e7-5945-7fc8-aab7-2db66ca0967f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "deploy-ios-shipping",
   definition: "an ios app built on the MacBook and handed to App Store Connect",
   code: "ts",

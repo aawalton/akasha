@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const claudeAccountCosting = {
   id: "01a06a8f-0b3b-76b2-91d8-e3e16a811059",
   pageTypeSlug: "module",
+  type: "module",
   slug: "claude-account-costing",
   definition: "what the transcripts on this machine have, priced at the api's own list price",
   code: "ts",

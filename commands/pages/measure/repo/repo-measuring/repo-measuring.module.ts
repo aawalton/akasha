@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const repoMeasuring = {
   id: "01a05a0e-6376-7000-a013-86be99eb36e0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "repo-measuring",
   definition:
     "how many files of each type the checkout holds, and how many lines those files run to",

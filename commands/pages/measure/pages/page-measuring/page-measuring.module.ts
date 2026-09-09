@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageMeasuring = {
   id: "01a06d1e-b1fe-7d25-9a68-a0176409c125",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-measuring",
   definition:
     "how many pages and property files each page type holds, and how many lines each runs to",

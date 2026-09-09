@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const proxyRun = {
   id: "01a069b9-74bc-7728-868d-54f66ae34d14",
   pageTypeSlug: "module",
+  type: "module",
   slug: "proxy-run",
   definition: "starting one gateway on the akasha entry and saying the port it answered",
   code: "ts",

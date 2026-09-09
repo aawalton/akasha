@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const changeMeasuring = {
   id: "01a080d7-222f-742b-8fbf-b2c8b66828d6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "change-measuring",
   definition: "what the runs of a change and of an apply cost, read back over a window",
   code: "ts",

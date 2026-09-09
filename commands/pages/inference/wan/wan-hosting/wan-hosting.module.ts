@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const wanHosting = {
   id: "01a072fa-322d-77af-bb5a-82b475102492",
   pageTypeSlug: "module",
+  type: "module",
   slug: "wan-hosting",
   definition: "the host a wan call runs on",
   code: "ts",

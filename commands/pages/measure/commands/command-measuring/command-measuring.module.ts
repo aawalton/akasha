@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const commandMeasuring = {
   id: "01a080de-5ff9-7631-b4e9-08d25ce2bf64",
   pageTypeSlug: "module",
+  type: "module",
   slug: "command-measuring",
   definition: "what the runs of every command cost, read back over a window",
   code: "ts",
