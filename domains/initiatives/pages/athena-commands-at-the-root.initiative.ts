@@ -11,7 +11,7 @@ export const athenaCommandsAtTheRoot = {
       statement:
         "Tooling specific to the command domain sits under `commands/`, and no other tooling does.",
       workingMemory:
-        "All 15 commands and the 28 command property pages are in `commands/`, and `command-system/commands/` has only the `command` page type. `entries` now says a machine writes it, and `machineWrittenAt` reads a property naming its files by section, so a sidecar warrants nothing. The page type's move is refused while 22 command pages in `temper` and `browser` reach it as `@akasha/command-system/command` rather than by path.",
+        "At 692aa4c990 all 220 command pages sit under `commands/` and none outside, under 47 namespaces, with the `command` page type at `commands/command.page-type.ts` and no package alias left reaching it. No module under `commands/modules/` is imported from outside the command domain: the only outside mentions are five findings naming paths in prose and `harness-call` naming the dispatcher by path. What is left is the modules still in `command-system/`.",
     },
     {
       statement: "No `command-system` folder is there.",
