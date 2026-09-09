@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0397303ITheSkySwallowingCarpVi3102613 = {
   id: "01a06730-4e73-794d-bc6c-c05f030c1a6a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0397-303-i-the-sky-swallowing-carp-vi-3102613",
   title: "303 (I) The Sky-Swallowing Carp (VI)",
   story: "path-of-the-deathless-book-4-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0331267IFuryAloneIsButImpotence2956095 = {
   id: "01a06730-4e55-7a19-9d60-79901616c237",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0331-267-i-fury-alone-is-but-impotence-2956095",
   title: "267 (I) “Fury Alone is but Impotence”",
   story: "path-of-the-deathless-book-4-completed",

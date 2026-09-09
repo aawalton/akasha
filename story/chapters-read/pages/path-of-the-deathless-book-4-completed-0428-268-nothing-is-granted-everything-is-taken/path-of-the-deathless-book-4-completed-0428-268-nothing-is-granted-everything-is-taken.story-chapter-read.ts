@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const pathOfTheDeathlessBook4Completed0428268NothingIsGrantedEverythingIsTaken = {
   id: "01a06730-4e89-74e1-bb71-275569c6a1cf",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0428-268-nothing-is-granted-everything-is-taken",
   title: "268 “Nothing is Granted, Everything is Taken”",
   story: "path-of-the-deathless-book-4-completed",
