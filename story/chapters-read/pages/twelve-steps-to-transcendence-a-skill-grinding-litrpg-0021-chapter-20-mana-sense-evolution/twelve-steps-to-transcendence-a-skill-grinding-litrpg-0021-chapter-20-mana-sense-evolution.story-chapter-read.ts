@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0021Chapter20ManaSenseEvolution = {
   id: "01a06585-ef10-794f-bc52-257c82effe81",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0021-chapter-20-mana-sense-evolution",
   title: "Chapter 20: [Mana Sense] Evolution",
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",

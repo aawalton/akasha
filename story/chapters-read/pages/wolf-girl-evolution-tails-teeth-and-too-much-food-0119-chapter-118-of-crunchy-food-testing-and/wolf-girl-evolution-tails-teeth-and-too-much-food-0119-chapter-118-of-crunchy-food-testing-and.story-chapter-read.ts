@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0119Chapter118OfCrunchyFoodTestingAnd = {
   id: "01a06730-55f1-7742-a678-22ef5bdfec87",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0119-chapter-118-of-crunchy-food-testing-and",
   title: "Chapter 118: Of Crunchy Food Testing, and Mlemful Moongazing",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

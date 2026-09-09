@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thereIsNoEpicLootHereOnlyPuns0251228TheWoadNotTaken = {
   id: "01a06730-558f-7781-94fa-a8ce067a7401",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0251-228-the-woad-not-taken",
   title: "228: The Woad not Taken",
   story: "there-is-no-epic-loot-here-only-puns",

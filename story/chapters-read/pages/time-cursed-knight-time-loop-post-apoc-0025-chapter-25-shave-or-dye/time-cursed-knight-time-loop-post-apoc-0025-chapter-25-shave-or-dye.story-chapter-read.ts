@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const timeCursedKnightTimeLoopPostApoc0025Chapter25ShaveOrDye = {
   id: "01a06730-55b4-72fb-ab9a-096ca6bc7a17",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0025-chapter-25-shave-or-dye",
   title: "Chapter 25: Shave or dye?",
   story: "time-cursed-knight-time-loop-post-apoc",

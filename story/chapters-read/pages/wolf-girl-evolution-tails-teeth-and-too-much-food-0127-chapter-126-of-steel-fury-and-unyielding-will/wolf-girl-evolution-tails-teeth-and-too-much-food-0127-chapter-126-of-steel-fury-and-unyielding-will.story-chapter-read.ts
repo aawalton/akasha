@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0127Chapter126OfSteelFuryAndUnyieldingWill = {
   id: "01a06730-55fa-726e-ab2a-292a70367176",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0127-chapter-126-of-steel-fury-and-unyielding-will",
   title: "Chapter 126: Of Steel, Fury, and Unyielding Will",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

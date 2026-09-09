@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const underworldBreadMageYuriProgfanSliceOfLife0017Chapter17BeeBread = {
   id: "01a06730-4f13-76fb-97c0-39ad5c86eab3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0017-chapter-17-bee-bread",
   title: "Chapter 17: Bee Bread",
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",

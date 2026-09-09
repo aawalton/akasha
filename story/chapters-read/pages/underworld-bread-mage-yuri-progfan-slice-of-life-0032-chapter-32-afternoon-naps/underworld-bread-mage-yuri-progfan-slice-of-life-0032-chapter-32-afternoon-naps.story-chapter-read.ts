@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const underworldBreadMageYuriProgfanSliceOfLife0032Chapter32AfternoonNaps = {
   id: "01a06730-4f13-77df-804f-b1a6679fc7ff",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0032-chapter-32-afternoon-naps",
   title: "Chapter 32: Afternoon Naps",
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",

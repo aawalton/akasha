@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const timeCursedKnightTimeLoopPostApoc0083Chapter83InsideThePalaceOfQalathar = {
   id: "01a06730-55d6-7416-b179-0ddfc1bd8927",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0083-chapter-83-inside-the-palace-of-qalathar",
   title: "Chapter 83: Inside the Palace of Qalathar",
   story: "time-cursed-knight-time-loop-post-apoc",

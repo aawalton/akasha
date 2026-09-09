@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0054Chapter54FastWolfFallingRocks = {
   id: "01a06730-55e5-793c-879f-8d68d3a9bdb7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0054-chapter-54-fast-wolf-falling-rocks",
   title: "Chapter 54: Fast Wolf, Falling Rocks",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0151Chapter148OfHappyNomsAndExcellent = {
   id: "01a06730-5611-760f-9f48-c8d7648632c1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0151-chapter-148-of-happy-noms-and-excellent",
   title: "Chapter 148: Of Happy Noms and Excellent Rescue Deals!",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

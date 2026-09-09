@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0059Chapter59OfQuestionsShinyTradesAnd = {
   id: "01a06730-55e5-7316-9d7b-9ecaf5de9ff3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0059-chapter-59-of-questions-shiny-trades-and",
   title: "Chapter 59: Of Questions, Shiny Trades, and Secrets of the Deep",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

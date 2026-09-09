@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0150Chapter147LunaSaysNoToNestMother = {
   id: "01a06730-5610-7750-9011-2484ce0eda63",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0150-chapter-147-luna-says-no-to-nest-mother",
   title: "Chapter 147: Luna Says No to Nest Mother!",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

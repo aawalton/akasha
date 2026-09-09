@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const timeCursedKnightTimeLoopPostApoc0110Chapter110AnchorPads = {
   id: "01a06730-55e0-7fd5-b038-fc98528c52b9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0110-chapter-110-anchor-pads",
   title: "Chapter 110: Anchor Pads",
   story: "time-cursed-knight-time-loop-post-apoc",

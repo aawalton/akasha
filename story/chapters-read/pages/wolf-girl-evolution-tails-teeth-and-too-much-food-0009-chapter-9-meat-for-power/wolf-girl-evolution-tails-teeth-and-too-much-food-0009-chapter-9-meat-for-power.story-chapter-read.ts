@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0009Chapter9MeatForPower = {
   id: "01a06730-55e4-713b-a125-4e1e0ad7c8f2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0009-chapter-9-meat-for-power",
   title: "Chapter 9: Meat for Power",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0078Chapter77OfLessonsLeapsAndSeriousFaces = {
   id: "01a06730-55e6-741c-9639-ca9af2689f59",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0078-chapter-77-of-lessons-leaps-and-serious-faces",
   title: "Chapter 77: Of Lessons, Leaps, and Serious Faces",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

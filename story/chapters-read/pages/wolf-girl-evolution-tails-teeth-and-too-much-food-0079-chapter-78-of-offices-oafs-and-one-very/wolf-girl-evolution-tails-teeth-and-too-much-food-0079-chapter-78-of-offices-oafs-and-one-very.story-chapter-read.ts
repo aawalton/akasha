@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0079Chapter78OfOfficesOafsAndOneVery = {
   id: "01a06730-55e7-73f3-9e90-d79712a72479",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0079-chapter-78-of-offices-oafs-and-one-very",
   title: "Chapter 78: Of Offices, Oafs, and One Very Dangerous Pup",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

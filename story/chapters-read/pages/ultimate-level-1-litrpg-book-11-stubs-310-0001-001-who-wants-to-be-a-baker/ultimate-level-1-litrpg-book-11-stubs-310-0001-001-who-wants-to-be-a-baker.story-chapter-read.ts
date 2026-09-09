@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const ultimateLevel1LitrpgBook11Stubs3100001001WhoWantsToBeABaker = {
   id: "01a06730-50ac-7a18-816f-94932e224b42",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310-0001-001-who-wants-to-be-a-baker",
   title: "001 - Who wants to be a [Baker]?",
   story: "ultimate-level-1-litrpg-book-11-stubs-310",

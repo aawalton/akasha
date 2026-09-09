@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0077Chapter76OfSkewersGuildsAndLovelyYoung = {
   id: "01a06730-55e6-76ae-b2ed-5d09a6bf7d62",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0077-chapter-76-of-skewers-guilds-and-lovely-young",
   title: "Chapter 76: Of Skewers, Guilds, and Lovely Young Ladies",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

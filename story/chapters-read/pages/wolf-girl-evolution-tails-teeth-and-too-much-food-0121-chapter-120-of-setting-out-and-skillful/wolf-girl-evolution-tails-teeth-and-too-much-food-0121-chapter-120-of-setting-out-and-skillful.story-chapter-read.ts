@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0121Chapter120OfSettingOutAndSkillful = {
   id: "01a06730-55f2-7560-8e88-cdee551862da",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0121-chapter-120-of-setting-out-and-skillful",
   title: "Chapter 120: Of Setting Out, and Skillful Sandwich Surprises",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

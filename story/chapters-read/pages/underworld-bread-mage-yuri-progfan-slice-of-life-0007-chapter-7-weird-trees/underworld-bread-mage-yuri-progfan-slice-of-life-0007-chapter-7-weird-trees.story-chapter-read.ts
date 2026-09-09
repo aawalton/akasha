@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const underworldBreadMageYuriProgfanSliceOfLife0007Chapter7WeirdTrees = {
   id: "01a06730-4f12-745c-a599-f1fd5df9568e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0007-chapter-7-weird-trees",
   title: "Chapter 7: Weird Trees",
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",

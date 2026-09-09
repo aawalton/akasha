@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const timeCursedKnightTimeLoopPostApoc0042Chapter42FrontLine = {
   id: "01a06730-55c2-78a1-ab91-cccab9e3157a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0042-chapter-42-front-line",
   title: "Chapter 42: Front Line",
   story: "time-cursed-knight-time-loop-post-apoc",

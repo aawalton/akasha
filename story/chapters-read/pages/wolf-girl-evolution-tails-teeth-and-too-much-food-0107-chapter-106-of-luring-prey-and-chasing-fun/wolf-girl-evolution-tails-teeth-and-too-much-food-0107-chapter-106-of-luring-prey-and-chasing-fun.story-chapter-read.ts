@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0107Chapter106OfLuringPreyAndChasingFun = {
   id: "01a06730-55ea-7e94-affd-eed6fa31d6ea",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0107-chapter-106-of-luring-prey-and-chasing-fun",
   title: "Chapter 106: Of Luring Prey, and Chasing Fun!",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

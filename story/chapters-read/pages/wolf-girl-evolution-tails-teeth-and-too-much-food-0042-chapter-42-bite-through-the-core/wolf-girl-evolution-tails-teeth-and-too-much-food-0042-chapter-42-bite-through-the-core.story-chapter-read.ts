@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0042Chapter42BiteThroughTheCore = {
   id: "01a06730-55e5-7c7b-9518-7676c5af3c49",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0042-chapter-42-bite-through-the-core",
   title: "Chapter 42: Bite Through the Core",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

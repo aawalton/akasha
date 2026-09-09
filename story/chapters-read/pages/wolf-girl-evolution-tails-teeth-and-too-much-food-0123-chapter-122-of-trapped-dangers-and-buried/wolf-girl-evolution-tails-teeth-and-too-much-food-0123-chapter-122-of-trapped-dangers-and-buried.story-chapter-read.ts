@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0123Chapter122OfTrappedDangersAndBuried = {
   id: "01a06730-55f4-7e99-b451-e8ee39e313f4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0123-chapter-122-of-trapped-dangers-and-buried",
   title: "Chapter 122: Of Trapped Dangers and Buried Threats",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

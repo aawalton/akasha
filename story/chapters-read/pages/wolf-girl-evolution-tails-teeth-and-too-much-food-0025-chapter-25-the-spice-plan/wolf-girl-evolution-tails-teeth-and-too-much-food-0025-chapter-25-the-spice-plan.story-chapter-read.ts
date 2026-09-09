@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0025Chapter25TheSpicePlan = {
   id: "01a06730-55e4-7fe0-bda2-d2cdee9adc58",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0025-chapter-25-the-spice-plan",
   title: "Chapter 25: The Spice Plan",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

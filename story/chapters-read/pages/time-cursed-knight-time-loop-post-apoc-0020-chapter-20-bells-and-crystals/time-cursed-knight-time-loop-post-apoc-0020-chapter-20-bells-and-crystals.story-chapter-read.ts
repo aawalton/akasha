@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const timeCursedKnightTimeLoopPostApoc0020Chapter20BellsAndCrystals = {
   id: "01a06730-55b1-71e6-86b8-c0a612393f13",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0020-chapter-20-bells-and-crystals",
   title: "Chapter 20: Bells and Crystals",
   story: "time-cursed-knight-time-loop-post-apoc",

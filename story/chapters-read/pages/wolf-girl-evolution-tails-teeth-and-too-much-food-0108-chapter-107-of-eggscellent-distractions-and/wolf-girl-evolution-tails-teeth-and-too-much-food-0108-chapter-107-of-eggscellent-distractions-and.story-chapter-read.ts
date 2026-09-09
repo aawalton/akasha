@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0108Chapter107OfEggscellentDistractionsAnd = {
   id: "01a06730-55ea-7650-867e-3dd4541bdb8a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0108-chapter-107-of-eggscellent-distractions-and",
   title: "Chapter 107: Of Eggscellent Distractions, and Forest Escapades",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

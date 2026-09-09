@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const underworldBreadMageYuriProgfanSliceOfLife0001Chapter1TheDeathOfMarinaVerne = {
   id: "01a06730-4f12-7fb5-9a9f-d2fecf54817e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0001-chapter-1-the-death-of-marina-verne",
   title: "Chapter 1: The Death of Marina Verne",
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",

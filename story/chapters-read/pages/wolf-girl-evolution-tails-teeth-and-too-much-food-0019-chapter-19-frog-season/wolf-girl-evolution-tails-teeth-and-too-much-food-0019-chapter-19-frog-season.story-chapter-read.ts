@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0019Chapter19FrogSeason = {
   id: "01a06730-55e4-73a9-9ec6-869264268d01",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0019-chapter-19-frog-season",
   title: "Chapter 19: Frog Season",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

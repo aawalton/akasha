@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0113Chapter112OfCarefulPlansAndYippy = {
   id: "01a06730-55ec-70d3-92cc-48ff70d6827b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0113-chapter-112-of-careful-plans-and-yippy",
   title: "Chapter 112: Of Careful Plans, and Yippy Shadows",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

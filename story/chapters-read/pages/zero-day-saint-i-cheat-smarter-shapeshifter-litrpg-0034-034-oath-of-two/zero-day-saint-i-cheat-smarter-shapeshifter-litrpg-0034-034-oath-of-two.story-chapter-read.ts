@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0034034OathOfTwo = {
   id: "01a06730-50af-76ca-b642-cf4febeeaa0e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0034-034-oath-of-two",
   title: "034 - Oath of Two",
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

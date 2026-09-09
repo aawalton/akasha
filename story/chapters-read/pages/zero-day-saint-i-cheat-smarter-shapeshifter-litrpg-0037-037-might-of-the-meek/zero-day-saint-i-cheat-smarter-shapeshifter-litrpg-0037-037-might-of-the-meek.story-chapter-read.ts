@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0037037MightOfTheMeek = {
   id: "01a06730-50af-762e-b1ad-1ec605e0b81e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0037-037-might-of-the-meek",
   title: "037 - Might of the Meek",
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0129NotAChapterBook2EndStatusUpdateAndQa = {
   id: "01a06730-55fc-715d-a4ef-a73edeaed37f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0129-not-a-chapter-book-2-end-status-update-and-qa",
   title: "Not a chapter! - Book 2 End, Status Update, and Q&A",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

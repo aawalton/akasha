@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const underworldBreadMageYuriProgfanSliceOfLife0010Chapter10CreditWhereCreditIsDue = {
   id: "01a06730-4f13-7d9b-87c0-e08169961298",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0010-chapter-10-credit-where-credit-is-due",
   title: "Chapter 10: Credit Where Credit is Due",
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0110Chapter109OfGreatFortuneAndLittle = {
   id: "01a06730-55ea-7b81-9ccb-31bd436c26e7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0110-chapter-109-of-great-fortune-and-little",
   title: "Chapter 109: Of Great Fortune, and Little Troubles",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

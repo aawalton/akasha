@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const underworldBreadMageYuriProgfanSliceOfLife0034Chapter34Infiltration = {
   id: "01a06730-4f14-74ba-80d1-2ec46815bbff",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0034-chapter-34-infiltration",
   title: "Chapter 34: Infiltration",
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",

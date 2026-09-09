@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0024Chapter24MlemOfDestiny = {
   id: "01a06730-55e4-72b0-b4fe-538b9e8f5d61",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0024-chapter-24-mlem-of-destiny",
   title: "Chapter 24: Mlem of Destiny",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

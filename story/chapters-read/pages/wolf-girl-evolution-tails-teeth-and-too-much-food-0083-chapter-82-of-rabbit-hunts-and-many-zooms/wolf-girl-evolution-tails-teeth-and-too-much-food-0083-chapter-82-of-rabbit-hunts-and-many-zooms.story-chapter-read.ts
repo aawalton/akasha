@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0083Chapter82OfRabbitHuntsAndManyZooms = {
   id: "01a06730-55e7-7d3b-a223-51c14929f4e3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0083-chapter-82-of-rabbit-hunts-and-many-zooms",
   title: "Chapter 82: Of Rabbit Hunts, and Many Zooms!",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

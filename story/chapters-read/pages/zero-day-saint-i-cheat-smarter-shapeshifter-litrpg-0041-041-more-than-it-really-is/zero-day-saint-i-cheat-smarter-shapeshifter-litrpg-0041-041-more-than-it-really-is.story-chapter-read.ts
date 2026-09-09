@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0041041MoreThanItReallyIs = {
   id: "01a06730-50b0-710f-b2f3-334588353b00",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0041-041-more-than-it-really-is",
   title: "041 - More Than It Really Is",
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

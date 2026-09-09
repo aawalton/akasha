@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0032032RuthlessKindness = {
   id: "01a06730-50af-7149-bbed-04e8d00209d5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0032-032-ruthless-kindness",
   title: "032 - Ruthless Kindness",
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

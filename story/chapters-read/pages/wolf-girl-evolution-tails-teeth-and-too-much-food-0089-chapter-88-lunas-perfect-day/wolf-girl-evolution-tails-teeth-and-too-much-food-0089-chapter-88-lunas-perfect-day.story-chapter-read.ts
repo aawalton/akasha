@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0089Chapter88LunasPerfectDay = {
   id: "01a06730-55e7-7245-b7fc-48082dfabe85",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0089-chapter-88-lunas-perfect-day",
   title: "Chapter 88: Luna’s Perfect Day!",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

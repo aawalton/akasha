@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0039Chapter39PromisePrepAndPackTactics = {
   id: "01a06730-55e5-70c6-91c2-8beb6c5844e5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0039-chapter-39-promise-prep-and-pack-tactics",
   title: "Chapter 39: Promise, Prep, and Pack Tactics",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

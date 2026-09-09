@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0101Chapter100RegicidalAnticide = {
   id: "01a06730-55e8-7cb2-a532-3d5a4bf36f76",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0101-chapter-100-regicidal-anticide",
   title: "Chapter 100: Regicidal Anticide",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0015Chapter15SoftPartsSharpTeeth = {
   id: "01a06730-55e4-7b2f-b599-f77f305daa2d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0015-chapter-15-soft-parts-sharp-teeth",
   title: "Chapter 15: Soft Parts, Sharp Teeth",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

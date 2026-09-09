@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0075075AntFarm = {
   id: "01a06730-50b2-79dc-8949-43a7442454b8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0075-075-ant-farm",
   title: "075 - Ant Farm",
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

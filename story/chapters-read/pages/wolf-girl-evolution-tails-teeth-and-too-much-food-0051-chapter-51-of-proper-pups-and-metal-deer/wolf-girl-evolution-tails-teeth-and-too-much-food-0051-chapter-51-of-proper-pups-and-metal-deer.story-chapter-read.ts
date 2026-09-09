@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0051Chapter51OfProperPupsAndMetalDeer = {
   id: "01a06730-55e5-7e48-9cb9-b12d2eb2ce1d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0051-chapter-51-of-proper-pups-and-metal-deer",
   title: "Chapter 51: Of Proper Pups and Metal-Deer Solid",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

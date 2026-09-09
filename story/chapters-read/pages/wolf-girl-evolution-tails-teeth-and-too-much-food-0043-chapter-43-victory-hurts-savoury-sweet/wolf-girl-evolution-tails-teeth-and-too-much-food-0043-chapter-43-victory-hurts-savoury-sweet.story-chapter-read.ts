@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0043Chapter43VictoryHurtsSavourySweet = {
   id: "01a06730-55e5-7de3-95ff-b95184944f46",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0043-chapter-43-victory-hurts-savoury-sweet",
   title: "Chapter 43: Victory Hurts Savoury-Sweet",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

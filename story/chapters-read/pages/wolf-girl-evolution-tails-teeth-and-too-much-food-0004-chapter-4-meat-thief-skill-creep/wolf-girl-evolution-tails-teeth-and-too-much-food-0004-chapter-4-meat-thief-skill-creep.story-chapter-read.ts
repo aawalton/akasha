@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0004Chapter4MeatThiefSkillCreep = {
   id: "01a06730-55e3-7bfc-9da7-d4f730573021",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0004-chapter-4-meat-thief-skill-creep",
   title: "Chapter 4: Meat Thief, Skill Creep",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

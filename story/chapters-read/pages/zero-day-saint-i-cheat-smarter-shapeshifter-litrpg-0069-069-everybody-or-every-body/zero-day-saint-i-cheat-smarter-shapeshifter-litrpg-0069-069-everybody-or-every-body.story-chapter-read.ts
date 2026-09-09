@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0069069EverybodyOrEveryBody = {
   id: "01a06730-50b2-738d-ace2-19633af8803d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0069-069-everybody-or-every-body",
   title: "069 - Everybody or Every Body",
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

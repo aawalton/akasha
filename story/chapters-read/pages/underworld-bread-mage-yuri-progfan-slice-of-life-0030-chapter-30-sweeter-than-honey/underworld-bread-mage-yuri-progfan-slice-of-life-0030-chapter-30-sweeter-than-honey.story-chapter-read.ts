@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const underworldBreadMageYuriProgfanSliceOfLife0030Chapter30SweeterThanHoney = {
   id: "01a06730-4f13-72f1-a614-5600620a3bc0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0030-chapter-30-sweeter-than-honey",
   title: "Chapter 30: Sweeter Than Honey",
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",

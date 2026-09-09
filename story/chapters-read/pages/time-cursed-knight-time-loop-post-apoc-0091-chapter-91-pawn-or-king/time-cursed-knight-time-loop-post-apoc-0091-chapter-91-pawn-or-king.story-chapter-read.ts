@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const timeCursedKnightTimeLoopPostApoc0091Chapter91PawnOrKing = {
   id: "01a06730-55d9-7092-8f11-8379f8ebd7bd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0091-chapter-91-pawn-or-king",
   title: "Chapter 91: Pawn or King?",
   story: "time-cursed-knight-time-loop-post-apoc",

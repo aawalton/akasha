@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const twelveStepsToTranscendenceASkillGrindingLitrpg0025Chapter24Hobgoblin = {
   id: "01a06585-ef11-7a92-94a4-73b74f70af2f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0025-chapter-24-hobgoblin",
   title: "Chapter 24: Hobgoblin",
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",

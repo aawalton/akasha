@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0115Chapter114OfSecondTaskmastersAndVery = {
   id: "01a06730-55ee-7ccb-99a9-26a91220f982",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0115-chapter-114-of-second-taskmasters-and-very",
   title: "Chapter 114: Of Second Taskmasters and Very Important Training",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

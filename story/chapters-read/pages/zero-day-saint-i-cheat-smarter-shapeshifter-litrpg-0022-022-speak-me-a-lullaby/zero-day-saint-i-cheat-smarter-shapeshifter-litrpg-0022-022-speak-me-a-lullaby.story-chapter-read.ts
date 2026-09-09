@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0022022SpeakMeALullaby = {
   id: "01a06730-50ae-78da-a9bf-52400798e590",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0022-022-speak-me-a-lullaby",
   title: "022 - Speak Me A Lullaby",
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

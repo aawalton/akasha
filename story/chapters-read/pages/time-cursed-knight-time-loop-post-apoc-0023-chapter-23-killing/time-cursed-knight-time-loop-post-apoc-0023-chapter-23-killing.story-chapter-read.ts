@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const timeCursedKnightTimeLoopPostApoc0023Chapter23Killing = {
   id: "01a06730-55b4-775e-a992-90c0eeafe406",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0023-chapter-23-killing",
   title: "Chapter 23: Killing",
   story: "time-cursed-knight-time-loop-post-apoc",

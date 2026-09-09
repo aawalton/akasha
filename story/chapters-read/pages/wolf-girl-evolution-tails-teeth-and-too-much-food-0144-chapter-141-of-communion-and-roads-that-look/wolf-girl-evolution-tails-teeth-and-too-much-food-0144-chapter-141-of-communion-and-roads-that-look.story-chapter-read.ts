@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0144Chapter141OfCommunionAndRoadsThatLook = {
   id: "01a06730-5609-7116-80c1-da46bde20c80",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0144-chapter-141-of-communion-and-roads-that-look",
   title: "Chapter 141: Of Communion and Roads That Look Back",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

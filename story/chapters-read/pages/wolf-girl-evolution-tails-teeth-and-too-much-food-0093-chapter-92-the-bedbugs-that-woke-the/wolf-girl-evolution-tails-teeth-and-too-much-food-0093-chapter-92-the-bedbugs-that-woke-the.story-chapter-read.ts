@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0093Chapter92TheBedbugsThatWokeThe = {
   id: "01a06730-55e7-799c-964a-d5f34f312885",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0093-chapter-92-the-bedbugs-that-woke-the",
   title: "Chapter 92: : The Bedbugs that Woke the Sleeping Wolf",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

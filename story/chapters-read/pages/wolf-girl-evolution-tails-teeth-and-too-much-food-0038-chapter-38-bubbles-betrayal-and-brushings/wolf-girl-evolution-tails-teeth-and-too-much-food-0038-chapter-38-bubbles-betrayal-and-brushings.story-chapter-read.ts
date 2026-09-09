@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0038Chapter38BubblesBetrayalAndBrushings = {
   id: "01a06730-55e5-71a0-85c3-5fb1c31af5eb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0038-chapter-38-bubbles-betrayal-and-brushings",
   title: "Chapter 38: Bubbles, Betrayal, and Brushings",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

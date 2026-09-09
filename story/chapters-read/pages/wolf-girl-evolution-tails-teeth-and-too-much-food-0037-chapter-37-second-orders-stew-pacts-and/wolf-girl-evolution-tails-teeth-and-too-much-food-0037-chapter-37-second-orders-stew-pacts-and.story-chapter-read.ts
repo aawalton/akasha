@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0037Chapter37SecondOrdersStewPactsAnd = {
   id: "01a06730-55e5-72c3-977f-03a0ffd93bcf",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0037-chapter-37-second-orders-stew-pacts-and",
   title: "Chapter 37: Second Orders, Stew Pacts, and Sudden Baths",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

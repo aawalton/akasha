@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const ultimateLevel1LitrpgBook11Stubs3100005LifeUpdateSomeChanges = {
   id: "01a06730-50ac-7289-a1fc-a13402e25eb7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310-0005-life-update-some-changes",
   title: "Life Update - Some changes",
   story: "ultimate-level-1-litrpg-book-11-stubs-310",

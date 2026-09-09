@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0036Chapter36StewAndSuspicion = {
   id: "01a06730-55e4-7381-80dc-ec78095fcf42",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0036-chapter-36-stew-and-suspicion",
   title: "Chapter 36: Stew and Suspicion",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

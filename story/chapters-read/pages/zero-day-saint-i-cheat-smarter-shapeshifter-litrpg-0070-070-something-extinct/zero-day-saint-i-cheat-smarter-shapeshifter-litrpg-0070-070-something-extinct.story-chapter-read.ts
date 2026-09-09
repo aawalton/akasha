@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0070070SomethingExtinct = {
   id: "01a06730-50b2-7adc-8f13-8b56c58ffcf7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0070-070-something-extinct",
   title: "070 - Something Extinct",
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

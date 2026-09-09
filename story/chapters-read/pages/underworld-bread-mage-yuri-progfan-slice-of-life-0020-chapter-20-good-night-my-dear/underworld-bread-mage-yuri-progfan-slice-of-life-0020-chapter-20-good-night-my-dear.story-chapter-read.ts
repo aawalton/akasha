@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const underworldBreadMageYuriProgfanSliceOfLife0020Chapter20GoodNightMyDear = {
   id: "01a06730-4f13-7355-9910-b00462a3833c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0020-chapter-20-good-night-my-dear",
   title: "Chapter 20: Good Night, My Dear.",
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",

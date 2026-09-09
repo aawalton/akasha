@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0132Chapter130OfDeparturesSandwichesAnd = {
   id: "01a06730-55ff-7349-b666-d5bdb85d17f5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0132-chapter-130-of-departures-sandwiches-and",
   title: "Chapter 130: Of Departures, Sandwiches, and Emotional Damage!",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

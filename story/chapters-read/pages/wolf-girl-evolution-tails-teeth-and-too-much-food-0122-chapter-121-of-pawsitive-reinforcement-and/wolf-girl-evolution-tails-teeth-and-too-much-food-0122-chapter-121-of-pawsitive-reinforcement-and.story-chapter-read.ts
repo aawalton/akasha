@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0122Chapter121OfPawsitiveReinforcementAnd = {
   id: "01a06730-55f3-7e06-8062-f7496ef605fa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0122-chapter-121-of-pawsitive-reinforcement-and",
   title: "Chapter 121: Of Pawsitive Reinforcement, and Towerful Secrets",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

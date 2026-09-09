@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0137Chapter135OfAwfulTalksAndStupidPlans = {
   id: "01a06730-5605-7dfc-9e4e-cdac632c2ac7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0137-chapter-135-of-awful-talks-and-stupid-plans",
   title: "Chapter 135: Of Awful Talks and Stupid Plans",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

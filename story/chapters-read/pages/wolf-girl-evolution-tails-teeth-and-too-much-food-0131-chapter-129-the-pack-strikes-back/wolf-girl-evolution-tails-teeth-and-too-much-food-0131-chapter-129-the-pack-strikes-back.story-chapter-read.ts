@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0131Chapter129ThePackStrikesBack = {
   id: "01a06730-55fe-7c92-82ef-b45091e8de1d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0131-chapter-129-the-pack-strikes-back",
   title: "Chapter 129: The Pack Strikes Back!",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

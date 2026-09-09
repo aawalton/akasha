@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0116Chapter115OfNewsNosesAndVeryImportant = {
   id: "01a06730-55ef-7184-ad9c-b256e6bedb47",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0116-chapter-115-of-news-noses-and-very-important",
   title: "Chapter 115: Of News, Noses, and Very Important Pranks",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

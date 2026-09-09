@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const timeCursedKnightTimeLoopPostApoc0077Chapter77SoftUnderneath = {
   id: "01a06730-55d6-7dc0-84cf-54685ac3d37b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0077-chapter-77-soft-underneath",
   title: "Chapter 77: Soft Underneath",
   story: "time-cursed-knight-time-loop-post-apoc",

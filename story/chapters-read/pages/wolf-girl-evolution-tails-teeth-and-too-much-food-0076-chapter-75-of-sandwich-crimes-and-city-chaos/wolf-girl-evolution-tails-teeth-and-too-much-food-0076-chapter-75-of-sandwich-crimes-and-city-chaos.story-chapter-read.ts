@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0076Chapter75OfSandwichCrimesAndCityChaos = {
   id: "01a06730-55e6-717b-95e0-b6f24a8afda5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0076-chapter-75-of-sandwich-crimes-and-city-chaos",
   title: "Chapter 75: Of Sandwich Crimes and City Chaos",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",

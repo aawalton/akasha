@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const zeroDaySaintICheatSmarterShapeshifterLitrpg0058058AdminPrivilegeToTheBody = {
   id: "01a06730-50b1-7ef5-ae96-1064712f4709",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0058-058-admin-privilege-to-the-body",
   title: "058 - Admin Privilege to the Body",
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",

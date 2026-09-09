@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const wolfGirlEvolutionTailsTeethAndTooMuchFood0071Chapter70OfEndlessFieldsSpeedAndProper = {
   id: "01a06730-55e6-79b1-a967-13eb0756f37a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0071-chapter-70-of-endless-fields-speed-and-proper",
   title: "Chapter 70: Of Endless Fields, Speed, and Proper Packs",
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
