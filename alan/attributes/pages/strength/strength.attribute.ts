@@ -1,4 +1,4 @@
-import type { Attribute } from "../attribute.page-type.ts"
+import type { Attribute } from "../../attribute.page-type.ts"
 
 export const strength = {
   id: "01a06841-a1b4-731f-8d52-fe93c3564922",

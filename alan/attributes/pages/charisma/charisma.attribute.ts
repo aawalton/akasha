@@ -1,4 +1,4 @@
-import type { Attribute } from "../attribute.page-type.ts"
+import type { Attribute } from "../../attribute.page-type.ts"
 
 export const charisma = {
   id: "01a06841-a142-7b48-90d6-bb5e2c5138dd",

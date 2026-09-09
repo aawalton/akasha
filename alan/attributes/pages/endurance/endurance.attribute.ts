@@ -1,4 +1,4 @@
-import type { Attribute } from "../attribute.page-type.ts"
+import type { Attribute } from "../../attribute.page-type.ts"
 
 export const endurance = {
   id: "01a06841-a16e-7bcb-a31a-fba64ce8de69",
