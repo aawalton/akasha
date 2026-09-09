@@ -1,4 +1,4 @@
-import { CONFIG } from "../auth-proxy-config/auth-proxy-config.module.code.ts"
+import { CONFIG } from "../config/auth-proxy-config.module.code.ts"
 import { applyCorsHeadersWith, matchesAllowedOrigin } from "../cors-core/cors-core.module.code.ts"
 
 function isAllowedOrigin(origin: string | null): origin is string {

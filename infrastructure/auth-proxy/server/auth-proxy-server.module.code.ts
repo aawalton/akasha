@@ -1,6 +1,6 @@
 import type { Server } from "bun"
 
-import { CONFIG } from "../auth-proxy-config/auth-proxy-config.module.code.ts"
+import { CONFIG } from "../config/auth-proxy-config.module.code.ts"
 import { applyCorsHeaders, buildPreflightResponse } from "../cors/cors.module.code.ts"
 import { passthroughRequest, proxyRequest } from "../proxy/proxy.module.code.ts"
 import { buildStubResponse, fetchOrBadGateway } from "../proxy-core/proxy-core.module.code.ts"

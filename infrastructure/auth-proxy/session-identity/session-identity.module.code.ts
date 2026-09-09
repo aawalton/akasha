@@ -1,6 +1,6 @@
 import { createPublicKey, verify as cryptoVerify } from "node:crypto"
 import { z } from "zod"
-import { CONFIG } from "../auth-proxy-config/auth-proxy-config.module.code.ts"
+import { CONFIG } from "../config/auth-proxy-config.module.code.ts"
 import { parseSupabaseCookieMatch } from "../cookie-match-core/cookie-match-core.module.code.ts"
 import { hashKey, makeTTLCache } from "../ttl-cache/ttl-cache.module.code.ts"
 
