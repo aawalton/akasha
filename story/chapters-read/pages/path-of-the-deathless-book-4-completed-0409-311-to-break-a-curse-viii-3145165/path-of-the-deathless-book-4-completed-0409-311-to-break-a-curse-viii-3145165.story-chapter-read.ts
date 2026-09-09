@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0409311ToBreakACurseViii3145165 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 409,
   ownLength: 5838,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3145165/311-to-break-a-curse-viii",

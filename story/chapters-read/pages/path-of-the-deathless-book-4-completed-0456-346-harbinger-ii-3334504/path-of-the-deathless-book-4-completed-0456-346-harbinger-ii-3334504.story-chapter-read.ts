@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0456346HarbingerIi3334504 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 456,
   ownLength: 5033,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3334504/346-harbinger-ii",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0480295IPathOfTheCheflessIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 480,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3060875/295-i-path-of-the-chefless-ii",

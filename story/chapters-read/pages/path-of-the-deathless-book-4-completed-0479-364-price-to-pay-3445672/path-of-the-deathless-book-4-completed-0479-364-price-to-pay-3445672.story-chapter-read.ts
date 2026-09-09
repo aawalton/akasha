@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0479364PriceToPay3445672 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 479,
   ownLength: 4588,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3445672/364-price-to-pay",

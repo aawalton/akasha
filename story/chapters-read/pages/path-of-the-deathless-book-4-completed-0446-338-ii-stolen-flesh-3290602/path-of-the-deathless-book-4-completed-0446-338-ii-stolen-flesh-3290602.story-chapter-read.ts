@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0446338IiStolenFlesh3290602 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 446,
   ownLength: 2546,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3290602/338-ii-stolen-flesh",

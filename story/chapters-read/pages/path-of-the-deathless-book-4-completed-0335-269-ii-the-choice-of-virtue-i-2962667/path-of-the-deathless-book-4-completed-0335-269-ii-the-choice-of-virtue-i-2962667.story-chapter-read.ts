@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0335269IiTheChoiceOfVirtueI2962667 
   story: "path-of-the-deathless-book-4-completed",
   position: 335,
   ownLength: 2256,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2962667/269-ii-the-choice-of-virtue-i",

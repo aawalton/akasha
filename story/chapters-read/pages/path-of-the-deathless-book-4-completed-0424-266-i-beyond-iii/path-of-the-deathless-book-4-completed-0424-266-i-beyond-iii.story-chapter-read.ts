@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0424266IBeyondIii = {
   story: "path-of-the-deathless-book-4-completed",
   position: 424,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2953397/266-i-beyond-iii",

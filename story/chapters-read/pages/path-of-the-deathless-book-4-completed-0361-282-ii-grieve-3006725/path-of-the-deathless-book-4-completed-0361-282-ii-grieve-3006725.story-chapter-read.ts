@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0361282IiGrieve3006725 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 361,
   ownLength: 2017,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3006725/282-ii-grieve",

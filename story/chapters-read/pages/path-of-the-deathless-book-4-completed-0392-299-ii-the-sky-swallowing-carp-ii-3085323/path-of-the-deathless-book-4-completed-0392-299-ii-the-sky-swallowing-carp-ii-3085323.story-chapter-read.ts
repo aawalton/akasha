@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0392299IiTheSkySwallowingCarpIi3085
   story: "path-of-the-deathless-book-4-completed",
   position: 392,
   ownLength: 3296,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3085323/299-ii-the-sky-swallowing-carp-ii",

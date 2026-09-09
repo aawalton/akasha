@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0356280IChrysalisIi2999408 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 356,
   ownLength: 2475,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2999408/280-i-chrysalis-ii",

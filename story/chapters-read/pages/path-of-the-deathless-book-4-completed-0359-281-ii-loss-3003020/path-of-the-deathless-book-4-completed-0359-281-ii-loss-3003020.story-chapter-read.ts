@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0359281IiLoss3003020 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 359,
   ownLength: 3973,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3003020/281-ii-loss",

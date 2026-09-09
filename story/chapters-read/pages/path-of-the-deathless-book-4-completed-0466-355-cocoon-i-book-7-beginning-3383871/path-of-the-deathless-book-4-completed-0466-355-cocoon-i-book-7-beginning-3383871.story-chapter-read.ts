@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0466355CocoonIBook7Beginning3383871
   story: "path-of-the-deathless-book-4-completed",
   position: 466,
   ownLength: 4900,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3383871/355-cocoon-i-book-7-beginning",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0387296PathOfTheCheflessIii3069254 
   story: "path-of-the-deathless-book-4-completed",
   position: 387,
   ownLength: 5636,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3069254/296-path-of-the-chefless-iii",

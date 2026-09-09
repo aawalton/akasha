@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0457283IReturnI = {
   story: "path-of-the-deathless-book-4-completed",
   position: 457,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/3009454/283-i-return-i",

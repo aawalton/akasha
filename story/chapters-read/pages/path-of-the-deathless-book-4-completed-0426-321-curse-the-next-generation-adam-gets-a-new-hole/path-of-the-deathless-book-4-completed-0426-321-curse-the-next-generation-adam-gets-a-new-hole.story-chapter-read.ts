@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0426321CurseTheNextGenerationAdamGe
   story: "path-of-the-deathless-book-4-completed",
   position: 426,
   ownLength: 6283,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3204793/321-curse-the-next-generation-adam-gets-a-new",

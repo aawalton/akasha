@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0324264IBeyondI2946388 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 324,
   ownLength: 4571,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2946388/264-i-beyond-i",

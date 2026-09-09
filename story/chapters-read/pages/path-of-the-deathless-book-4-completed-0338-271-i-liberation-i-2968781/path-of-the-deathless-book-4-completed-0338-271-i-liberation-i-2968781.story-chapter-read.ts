@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0338271ILiberationI2968781 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 338,
   ownLength: 5236,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2968781/271-i-liberation-i",

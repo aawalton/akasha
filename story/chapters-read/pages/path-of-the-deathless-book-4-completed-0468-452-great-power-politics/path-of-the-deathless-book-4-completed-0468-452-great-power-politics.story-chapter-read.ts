@@ -7,7 +7,7 @@ export const pathOfTheDeathlessBook4Completed0468452GreatPowerPolitics = {
   story: "story-read/path-of-the-deathless-book-4-completed",
   position: 468,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3926192",
   source: "royal-road",
   title: "452 Great Power Politics",

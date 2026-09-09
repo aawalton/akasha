@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0469357IGlimpse3396513 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 469,
   ownLength: 3507,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3396513/357-i-glimpse",

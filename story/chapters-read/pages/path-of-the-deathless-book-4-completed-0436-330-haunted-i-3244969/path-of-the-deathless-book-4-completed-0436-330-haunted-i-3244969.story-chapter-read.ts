@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0436330HauntedI3244969 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 436,
   ownLength: 5101,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3244969/330-haunted-i",

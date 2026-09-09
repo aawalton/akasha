@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0331267IFuryAloneIsButImpotence2956
   story: "path-of-the-deathless-book-4-completed",
   position: 331,
   ownLength: 3589,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2956095/267-i-fury-alone-is-but-impotence",

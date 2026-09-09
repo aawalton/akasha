@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0434328Patience3236099 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 434,
   ownLength: 5462,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3236099/328-patience",

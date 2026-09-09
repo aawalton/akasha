@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0337222IiAcademiaIi = {
   story: "path-of-the-deathless-book-4-completed",
   position: 337,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2825832/222-ii-academia-ii",

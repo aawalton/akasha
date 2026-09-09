@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0465354ExhaustionBook6End3376069 = 
   story: "path-of-the-deathless-book-4-completed",
   position: 465,
   ownLength: 5375,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3376069/354-exhaustion-book-6-end",

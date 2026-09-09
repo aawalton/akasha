@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0424319Curse2Bear3IfYouCurseMeAgain
   story: "path-of-the-deathless-book-4-completed",
   position: 424,
   ownLength: 6077,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3197243/319-curse-2-bear-3-if-you-curse-me-again",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0435329TheGrind3240443 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 435,
   ownLength: 5362,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3240443/329-the-grind",

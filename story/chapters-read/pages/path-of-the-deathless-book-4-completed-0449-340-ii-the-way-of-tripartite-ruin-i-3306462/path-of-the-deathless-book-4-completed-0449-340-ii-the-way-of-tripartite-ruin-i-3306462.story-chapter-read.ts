@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0449340IiTheWayOfTripartiteRuinI330
   story: "path-of-the-deathless-book-4-completed",
   position: 449,
   ownLength: 3010,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3306462/340-ii-the-way-of-tripartite-ruin-i",

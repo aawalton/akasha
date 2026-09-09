@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0443336TheRipple3278390 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 443,
   ownLength: 5537,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3278390/336-the-ripple",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0379291IiDowntimeIii3038232 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 379,
   ownLength: 3915,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3038232/291-ii-downtime-iii",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0446277IiUnseenUnheardUnknownIiBook
   story: "path-of-the-deathless-book-4-completed",
   position: 446,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2989399/277-ii-unseen-unheard-unknown-ii-book-5-end",

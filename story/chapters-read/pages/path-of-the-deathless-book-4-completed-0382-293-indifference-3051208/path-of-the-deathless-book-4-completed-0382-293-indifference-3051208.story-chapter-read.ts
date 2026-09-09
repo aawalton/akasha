@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0382293Indifference3051208 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 382,
   ownLength: 5419,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3051208/293-indifference",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0349276IiUnseenUnheardUnknownI29859
   story: "path-of-the-deathless-book-4-completed",
   position: 349,
   ownLength: 3057,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2985959/276-ii-unseen-unheard-unknown-i",

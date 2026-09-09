@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0353278IiCounterMetamorphosis299273
   story: "path-of-the-deathless-book-4-completed",
   position: 353,
   ownLength: 2427,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2992734/278-ii-counter-metamorphosis",

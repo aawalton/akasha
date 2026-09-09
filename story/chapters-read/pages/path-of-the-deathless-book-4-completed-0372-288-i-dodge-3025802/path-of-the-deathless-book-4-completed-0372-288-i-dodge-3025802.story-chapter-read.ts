@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0372288IDodge3025802 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 372,
   ownLength: 3162,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3025802/288-i-dodge",

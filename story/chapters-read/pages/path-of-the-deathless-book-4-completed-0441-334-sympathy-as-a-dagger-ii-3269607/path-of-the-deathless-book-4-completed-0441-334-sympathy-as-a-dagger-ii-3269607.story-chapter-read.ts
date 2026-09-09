@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0441334SympathyAsADaggerIi3269607 =
   story: "path-of-the-deathless-book-4-completed",
   position: 441,
   ownLength: 5165,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3269607/334-sympathy-as-a-dagger-ii",

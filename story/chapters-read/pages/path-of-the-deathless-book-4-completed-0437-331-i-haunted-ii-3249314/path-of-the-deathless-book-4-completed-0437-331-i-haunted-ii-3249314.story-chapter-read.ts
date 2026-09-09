@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0437331IHauntedIi3249314 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 437,
   ownLength: 3091,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3249314/331-i-haunted-ii",

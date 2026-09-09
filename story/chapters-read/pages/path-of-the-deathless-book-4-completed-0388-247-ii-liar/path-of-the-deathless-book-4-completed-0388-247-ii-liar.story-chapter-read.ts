@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0388247IiLiar = {
   story: "path-of-the-deathless-book-4-completed",
   position: 388,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2894004/247-ii-liar",

@@ -7,7 +7,7 @@ export const pathOfTheDeathlessBook4Completed0467451PowerAndWill = {
   story: "story-read/path-of-the-deathless-book-4-completed",
   position: 467,
   publishedAt: "2026-09-05",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3917058",
   source: "royal-road",
   title: "451 Power and Will",
