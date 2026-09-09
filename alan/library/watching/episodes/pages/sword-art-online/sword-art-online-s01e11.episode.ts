@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e11 = {
   id: "019ea442-7468-7b6b-98db-4ee24fbf99d5",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e11",
   title: "The Girl of Morning Dew",
   description:

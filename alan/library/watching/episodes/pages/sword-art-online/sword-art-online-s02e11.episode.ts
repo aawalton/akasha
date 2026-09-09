@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e11 = {
   id: "019ea442-7eb7-7236-b54b-aed4f529095a",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e11",
   title: "What It Means To Be Strong",
   description:

@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS01e09 = {
   id: "019ea442-95b4-7e62-af11-a5080c88677b",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e09",
   title: "Ten-Minute Massacre",
   description:

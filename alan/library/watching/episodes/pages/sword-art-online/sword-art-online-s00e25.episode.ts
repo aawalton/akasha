@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS00e25 = {
   id: "019ea442-6e5e-751e-80a3-b93fc1d612db",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s00e25",
   title: "Alicization - War of Underworld 12.5: Reminiscence",
   description: "This episode is a recap of Sword Art Online: Alicization - War of Underworld.",

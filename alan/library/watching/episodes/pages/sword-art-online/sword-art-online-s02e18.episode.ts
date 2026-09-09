@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e18 = {
   id: "019ea442-803a-72c8-8d52-ada728e3bc6a",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e18",
   title: "Forest House",
   description:

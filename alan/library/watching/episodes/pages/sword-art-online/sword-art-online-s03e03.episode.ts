@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS03e03 = {
   id: "019ea442-8361-77eb-8aa0-0b29ea47d3e5",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s03e03",
   title: "The End Mountains",
   description:

@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS02e09 = {
   id: "019ea442-999a-78db-b348-68cd10481666",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s02e09",
   title: "An Invite to the Battlefield",
   description:

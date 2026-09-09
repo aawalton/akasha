@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e02 = {
   id: "019ea442-7ced-7e3b-bd82-b9d62ef0929a",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e02",
   title: "Cold-Hearted Sniper",
   description:

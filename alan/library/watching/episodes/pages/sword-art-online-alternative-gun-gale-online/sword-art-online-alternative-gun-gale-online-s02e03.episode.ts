@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS02e03 = {
   id: "019ea442-983f-72d6-b443-f0858dc19a14",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s02e03",
   title: "Clarence and Shirley",
   description:

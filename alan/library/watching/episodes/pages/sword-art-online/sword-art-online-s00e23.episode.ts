@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS00e23 = {
   id: "019ea442-6df6-7cde-ba47-e17bb3b83db6",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s00e23",
   title: "Alicization 18.5: Recollection",
   description: "Recap of the first 18 episodes of Alicization.",

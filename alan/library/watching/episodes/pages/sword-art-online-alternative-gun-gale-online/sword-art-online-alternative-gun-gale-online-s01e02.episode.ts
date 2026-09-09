@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS01e02 = {
   id: "019ea442-9408-784d-a16e-f193904b450a",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e02",
   title: "GGO",
   description:

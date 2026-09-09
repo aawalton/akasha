@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS03e18 = {
   id: "019ea442-86b5-70c3-abdd-882494f2f164",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s03e18",
   title: "The Legendary Hero",
   description:

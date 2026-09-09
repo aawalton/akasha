@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS03e07 = {
   id: "019ea442-8431-7f21-b832-3ca65cd547d5",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s03e07",
   title: "Swordcraft Academy",
   description:

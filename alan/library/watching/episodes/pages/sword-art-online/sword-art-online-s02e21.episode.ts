@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e21 = {
   id: "019ea442-80d2-7098-9d11-9ef5c4747580",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e21",
   title: "The Monument of Swordsmen",
   description:

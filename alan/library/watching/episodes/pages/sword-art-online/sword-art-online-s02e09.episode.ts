@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e09 = {
   id: "019ea442-7e51-707f-9f19-34b15cb530c3",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e09",
   title: "Death Gun",
   description:

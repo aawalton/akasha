@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS04e18 = {
   id: "019ea442-8d22-7745-b9b8-c4ffd58695a5",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s04e18",
   title: "Memories",
   description:

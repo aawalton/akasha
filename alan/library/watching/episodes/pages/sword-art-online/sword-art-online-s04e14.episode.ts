@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS04e14 = {
   id: "019ea442-8c57-7a85-94ad-982b789a8d95",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s04e14",
   title: "End to Eternity",
   description:

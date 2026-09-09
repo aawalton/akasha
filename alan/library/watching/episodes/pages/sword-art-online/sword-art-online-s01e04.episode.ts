@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e04 = {
   id: "019ea442-7303-7ca6-975e-ea9110011957",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e04",
   title: "The Black Swordsman",
   description:

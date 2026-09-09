@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS01e03 = {
   id: "019ea442-9452-7661-bdf4-538a71b9440e",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e03",
   title: "Fan Letter",
   description:

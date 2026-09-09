@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS03e16 = {
   id: "019ea442-8646-7891-8a18-14d937875a7b",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s03e16",
   title: "The Osmanthus Knight",
   description:

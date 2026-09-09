@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS04e13 = {
   id: "019ea442-8c26-700b-ac23-9a67a738cf6c",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s04e13",
   title: "The War of Underworld",
   description:

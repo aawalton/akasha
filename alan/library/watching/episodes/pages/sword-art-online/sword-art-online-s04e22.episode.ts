@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS04e22 = {
   id: "019ea442-8df0-79f7-91a8-3ca2054bcce0",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s04e22",
   title: "Alice",
   description:

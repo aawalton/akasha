@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e18 = {
   id: "019ea442-75e4-79c7-8e37-42c13fe37973",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e18",
   title: "To the World Tree",
   description:

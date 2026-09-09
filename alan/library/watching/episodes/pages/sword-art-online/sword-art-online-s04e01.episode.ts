@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS04e01 = {
   id: "019ea442-89b5-7c91-bc45-5f298bdde70f",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s04e01",
   title: "In the Far North",
   description:

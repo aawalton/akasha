@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS03e10 = {
   id: "019ea442-84eb-74c3-8dc1-cc340f8c8ee7",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s03e10",
   title: "Taboo Index",
   description:

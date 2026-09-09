@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS04e19 = {
   id: "019ea442-8d54-74cb-98df-ad9c2b04f90e",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s04e19",
   title: "Awakening",
   description:

@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS03e02 = {
   id: "019ea442-832f-7014-9ac4-f3f48c26e778",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s03e02",
   title: "The Demon Tree",
   description:

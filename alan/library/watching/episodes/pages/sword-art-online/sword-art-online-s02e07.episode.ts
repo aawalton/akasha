@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e07 = {
   id: "019ea442-7ded-753d-8079-c537f89d65eb",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e07",
   title: "Crimson Memories",
   description:

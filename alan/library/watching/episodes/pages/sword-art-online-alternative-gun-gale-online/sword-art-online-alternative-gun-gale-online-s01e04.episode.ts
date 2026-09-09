@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS01e04 = {
   id: "019ea442-948a-727d-9cf2-650661f38623",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e04",
   title: "Death Game",
   description:

@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS01e06 = {
   id: "019ea442-94f3-7600-a00f-81d038015335",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e06",
   title: "SAO Loser",
   description:

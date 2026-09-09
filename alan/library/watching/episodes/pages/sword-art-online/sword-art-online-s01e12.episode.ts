@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e12 = {
   id: "019ea442-749c-789d-b2b1-304902ece78e",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e12",
   title: "Yui's Heart",
   description:

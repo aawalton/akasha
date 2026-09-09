@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS04e11 = {
   id: "019ea442-8bc0-751a-9f12-13d93b877500",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s04e11",
   title: "Heartless Choice",
   description:

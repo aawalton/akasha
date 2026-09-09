@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e22 = {
   id: "019ea442-76b2-791f-83d8-4e3467bc8c50",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e22",
   title: "Grand Quest",
   description:

@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e24 = {
   id: "019ea442-8168-7ae6-9184-1ef07b447727",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e24",
   title: "Mother's Rosario",
   description:

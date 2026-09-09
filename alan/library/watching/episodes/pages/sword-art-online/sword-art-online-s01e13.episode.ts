@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e13 = {
   id: "019ea442-74cd-77a7-82f2-588500f454fc",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e13",
   title: "Edge of Hell's Abyss",
   description:

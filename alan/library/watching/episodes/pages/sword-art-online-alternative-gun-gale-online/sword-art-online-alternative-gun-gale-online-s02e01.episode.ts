@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS02e01 = {
   id: "019ea442-97d4-71bf-9cbc-2ddb9d64c8a0",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s02e01",
   title: "What Happens Twice Will Happen Thrice",
   description:

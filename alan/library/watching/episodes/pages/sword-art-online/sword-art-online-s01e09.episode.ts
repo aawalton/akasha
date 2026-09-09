@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e09 = {
   id: "019ea442-7403-79d8-9512-3a9d5e4cb702",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e09",
   title: "The Blue-Eyed Demon",
   description:

@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e17 = {
   id: "019ea442-7fea-7e6b-8772-c17670448d7a",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e17",
   title: "Excalibur",
   description:

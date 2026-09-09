@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e25 = {
   id: "019ea442-7b1e-71a9-876b-accb64c15eb7",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e25",
   title: "The World Seed",
   description: "Kirigaya Kazuto has beaten death twice but there is one more thing he must do.",

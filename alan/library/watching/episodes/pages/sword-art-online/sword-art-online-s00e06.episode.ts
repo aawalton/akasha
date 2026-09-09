@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS00e06 = {
   id: "019ea442-6a6f-79bd-8825-547da01aaa38",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s00e06",
   title: "Sword Art Offline 6",
   description:

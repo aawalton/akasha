@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS04e07 = {
   id: "019ea442-8af0-71bb-9572-44a82c8ea3cd",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s04e07",
   title: "Stigma of the Disqualified",
   description:

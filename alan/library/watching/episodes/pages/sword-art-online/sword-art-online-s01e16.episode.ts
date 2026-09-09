@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e16 = {
   id: "019ea442-757c-772f-9981-c66b6c8f998b",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e16",
   title: "Land of the Fairies",
   description:

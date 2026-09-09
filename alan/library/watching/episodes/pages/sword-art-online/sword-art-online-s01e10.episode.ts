@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e10 = {
   id: "019ea442-7435-7eee-a4b5-65344fb6616d",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e10",
   title: "Crimson Killing Intent",
   description:

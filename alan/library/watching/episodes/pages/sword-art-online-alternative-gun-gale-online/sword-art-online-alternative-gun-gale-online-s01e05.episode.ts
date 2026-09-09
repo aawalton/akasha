@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS01e05 = {
   id: "019ea442-94be-776a-afb9-6b8f6eb93348",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s01e05",
   title: "Leave the Last Battle to Me",
   description:

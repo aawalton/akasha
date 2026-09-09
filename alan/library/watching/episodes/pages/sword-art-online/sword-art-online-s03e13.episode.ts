@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS03e13 = {
   id: "019ea442-858a-7204-a606-f366d7a45488",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s03e13",
   title: "Ruler and Mediator",
   description:

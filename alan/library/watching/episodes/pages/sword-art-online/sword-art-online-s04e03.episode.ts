@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS04e03 = {
   id: "019ea442-8a1e-7bad-860b-f68fd4bdc493",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s04e03",
   title: "The Final Load Test",
   description:

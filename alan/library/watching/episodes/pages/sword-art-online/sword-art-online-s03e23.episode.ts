@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS03e23 = {
   id: "019ea442-87d3-7c8c-b3f4-00b6657b17eb",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s03e23",
   title: "Administrator",
   description:

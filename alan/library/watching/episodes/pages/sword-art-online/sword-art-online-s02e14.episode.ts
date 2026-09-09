@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e14 = {
   id: "019ea442-7f52-7400-8fee-f837d51a0184",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e14",
   title: "One Little Step",
   description:

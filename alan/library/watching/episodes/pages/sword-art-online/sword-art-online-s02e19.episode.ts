@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e19 = {
   id: "019ea442-806d-7718-ac16-85441ca1927f",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e19",
   title: "Zekken",
   description:

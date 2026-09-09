@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e07 = {
   id: "019ea442-73a1-78b1-87f3-4a1145d1600c",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e07",
   title: "The Temperature of the Heart",
   description: "A trip to get a new sword leaves Kirito battling a dragon and his fears.",

@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS02e12 = {
   id: "019ea442-9a67-75a0-a144-dc6cbd46de12",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s02e12",
   title: "The Reason to Fight",
   description:

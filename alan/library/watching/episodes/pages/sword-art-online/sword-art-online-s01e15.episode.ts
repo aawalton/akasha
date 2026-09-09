@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS01e15 = {
   id: "019ea442-7549-79f4-ab8d-6bcd893da7d8",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s01e15",
   title: "Return",
   description:

@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e13 = {
   id: "019ea442-7f1f-7318-a320-a4080e19c070",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e13",
   title: "Phantom Bullet",
   description:

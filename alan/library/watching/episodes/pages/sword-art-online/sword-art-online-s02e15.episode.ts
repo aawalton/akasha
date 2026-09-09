@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e15 = {
   id: "019ea442-7f84-7168-ac5f-246a370d2373",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e15",
   title: "The Queen of the Lake",
   description:

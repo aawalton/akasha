@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e16 = {
   id: "019ea442-7fb7-75f3-8d88-f37bc3f1e6c2",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e16",
   title: "The King of the Giants",
   description:

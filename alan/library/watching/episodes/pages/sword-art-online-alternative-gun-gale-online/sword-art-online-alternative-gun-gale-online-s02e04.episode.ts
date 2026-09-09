@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS02e04 = {
   id: "019ea442-9874-783e-87a4-1f72061faa40",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s02e04",
   title: "A Special Rule Launched",
   description:

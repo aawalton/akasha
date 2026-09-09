@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineAlternativeGunGaleOnlineS02e02 = {
   id: "019ea442-980c-7d25-ac6d-c9bacac5bcfd",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-alternative-gun-gale-online-s02e02",
   title: "The Great Freight Car Operation",
   description:

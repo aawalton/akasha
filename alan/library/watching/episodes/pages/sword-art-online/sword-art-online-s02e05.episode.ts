@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS02e05 = {
   id: "019ea442-7d8c-7548-b2d8-941c4f031ef2",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s02e05",
   title: "Guns and Swords",
   description:

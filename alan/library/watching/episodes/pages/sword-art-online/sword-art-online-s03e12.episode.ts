@@ -3,6 +3,7 @@ import type { Episode } from "../../episode.page-type.ts"
 export const swordArtOnlineS03e12 = {
   id: "019ea442-855a-7240-9fc0-693bfffdd387",
   pageTypeSlug: "episode",
+  type: "episode",
   slug: "sword-art-online-s03e12",
   title: "The Sage of the Library",
   description:
