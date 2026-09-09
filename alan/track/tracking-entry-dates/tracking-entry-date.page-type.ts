@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TrackingEntry } from "../tracking-entries/tracking-entry.page-type.types.ts"
-
-export type TrackingEntryDate = TrackingEntry
 
 export const trackingEntryDate = {
   id: "01a06827-ec0c-7939-809f-82468d73e2e6",
@@ -17,4 +14,5 @@ export const trackingEntryDate = {
       statement: "A date entry counts to the day the entry was written in.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
