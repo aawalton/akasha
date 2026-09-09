@@ -5,7 +5,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrack = {
   pageTypeSlug: "release",
   slug: "aurora-wolfwalkers-original-motion-picture-soundtrack",
   title: "WolfWalkers (Original Motion Picture Soundtrack)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 42.977483,
   ownProgress: 42.977483,

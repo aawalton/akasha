@@ -5,7 +5,7 @@ export const girlsGutsGlory = {
   pageTypeSlug: "show",
   slug: "girls-guts-glory",
   title: "Girls Guts Glory",
-  partOfCollectionSlugs: ["dungeons-and-dragons-shows"],
+  partOfCollections: ["dungeons-and-dragons-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

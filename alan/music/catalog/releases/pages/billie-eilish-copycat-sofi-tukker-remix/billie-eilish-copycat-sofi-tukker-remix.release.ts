@@ -5,7 +5,7 @@ export const billieEilishCopycatSofiTukkerRemix = {
   pageTypeSlug: "release",
   slug: "billie-eilish-copycat-sofi-tukker-remix",
   title: "COPYCAT (Sofi Tukker Remix)",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 3.3114,
   ownProgress: 3.3114,

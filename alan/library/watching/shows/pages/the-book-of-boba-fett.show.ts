@@ -5,7 +5,7 @@ export const theBookOfBobaFett = {
   pageTypeSlug: "show",
   slug: "the-book-of-boba-fett",
   title: "The Book of Boba Fett",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 18,
   ownLength: 0,
   ownProgress: 0,

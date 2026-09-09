@@ -5,7 +5,7 @@ export const avatarTheLastAirbender = {
   pageTypeSlug: "show",
   slug: "avatar-the-last-airbender",
   title: "Avatar: The Last Airbender",
-  partOfCollectionSlugs: ["family-friendly-shows"],
+  partOfCollections: ["family-friendly-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

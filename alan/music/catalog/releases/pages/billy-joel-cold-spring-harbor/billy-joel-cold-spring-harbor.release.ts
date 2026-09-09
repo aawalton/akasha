@@ -5,7 +5,7 @@ export const billyJoelColdSpringHarbor = {
   pageTypeSlug: "release",
   slug: "billy-joel-cold-spring-harbor",
   title: "Cold Spring Harbor",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 29.8906,
   ownProgress: 29.8906,

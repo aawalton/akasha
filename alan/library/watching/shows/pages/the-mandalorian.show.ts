@@ -5,7 +5,7 @@ export const theMandalorian = {
   pageTypeSlug: "show",
   slug: "the-mandalorian",
   title: "The Mandalorian",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 16,
   ownLength: 0,
   ownProgress: 0,

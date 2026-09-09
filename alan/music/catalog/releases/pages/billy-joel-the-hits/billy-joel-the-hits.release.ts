@@ -5,7 +5,7 @@ export const billyJoelTheHits = {
   pageTypeSlug: "release",
   slug: "billy-joel-the-hits",
   title: "The Hits",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 79.480783,
   ownProgress: 0,

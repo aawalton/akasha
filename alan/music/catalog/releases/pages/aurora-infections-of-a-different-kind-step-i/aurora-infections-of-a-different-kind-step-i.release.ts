@@ -5,7 +5,7 @@ export const auroraInfectionsOfADifferentKindStepI = {
   pageTypeSlug: "release",
   slug: "aurora-infections-of-a-different-kind-step-i",
   title: "Infections of a Different Kind (Step I)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 33.1823,
   ownProgress: 33.1823,

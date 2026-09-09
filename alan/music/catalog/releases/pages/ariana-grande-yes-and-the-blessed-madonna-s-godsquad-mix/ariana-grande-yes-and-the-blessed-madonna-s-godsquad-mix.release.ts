@@ -5,7 +5,7 @@ export const arianaGrandeYesAndTheBlessedMadonnaSGodsquadMix = {
   pageTypeSlug: "release",
   slug: "ariana-grande-yes-and-the-blessed-madonna-s-godsquad-mix",
   title: "yes, and? (The Blessed Madonna’s Godsquad Mix)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 5.033033,
   ownProgress: 5.033033,

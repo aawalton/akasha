@@ -5,7 +5,7 @@ export const lukeCage = {
   pageTypeSlug: "show",
   slug: "luke-cage",
   title: "Luke Cage",
-  partOfCollectionSlugs: ["marvel-television"],
+  partOfCollections: ["marvel-television"],
   position: 5,
   ownLength: 0,
   ownProgress: 0,

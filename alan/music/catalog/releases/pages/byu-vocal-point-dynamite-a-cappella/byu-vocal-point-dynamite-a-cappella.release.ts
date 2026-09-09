@@ -5,7 +5,7 @@ export const byuVocalPointDynamiteACappella = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-dynamite-a-cappella",
   title: "Dynamite (A Cappella)",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.36485,
   ownProgress: 0,

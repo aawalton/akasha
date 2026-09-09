@@ -5,7 +5,7 @@ export const upload = {
   pageTypeSlug: "show",
   slug: "upload",
   title: "Upload",
-  partOfCollectionSlugs: ["science-fiction-shows"],
+  partOfCollections: ["science-fiction-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

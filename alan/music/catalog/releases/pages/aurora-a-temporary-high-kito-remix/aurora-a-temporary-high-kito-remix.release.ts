@@ -5,7 +5,7 @@ export const auroraATemporaryHighKitoRemix = {
   pageTypeSlug: "release",
   slug: "aurora-a-temporary-high-kito-remix",
   title: "A Temporary High (Kito Remix)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.115333,
   ownProgress: 3.115333,

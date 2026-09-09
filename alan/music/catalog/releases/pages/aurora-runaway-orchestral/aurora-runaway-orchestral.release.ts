@@ -5,7 +5,7 @@ export const auroraRunawayOrchestral = {
   pageTypeSlug: "release",
   slug: "aurora-runaway-orchestral",
   title: "Runaway (Orchestral)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 8.282383,
   ownProgress: 8.282383,

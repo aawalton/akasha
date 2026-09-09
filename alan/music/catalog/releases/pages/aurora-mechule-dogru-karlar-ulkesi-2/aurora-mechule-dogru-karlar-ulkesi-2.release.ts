@@ -5,7 +5,7 @@ export const auroraMechuleDogruKarlarUlkesi2 = {
   pageTypeSlug: "release",
   slug: "aurora-mechule-dogru-karlar-ulkesi-2",
   title: "Meçhule Doğru (Karlar Ülkesi 2)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.247767,
   ownProgress: 3.247767,

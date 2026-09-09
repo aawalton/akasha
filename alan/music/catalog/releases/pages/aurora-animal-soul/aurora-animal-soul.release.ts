@@ -5,7 +5,7 @@ export const auroraAnimalSoul = {
   pageTypeSlug: "release",
   slug: "aurora-animal-soul",
   title: "Animal Soul",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.036667,
   ownProgress: 3.036667,

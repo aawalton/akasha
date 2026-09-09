@@ -5,7 +5,7 @@ export const alexWarrenEternityOrchestralVersion = {
   pageTypeSlug: "release",
   slug: "alex-warren-eternity-orchestral-version",
   title: "Eternity (Orchestral Version)",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 3.41855,
   ownProgress: 3.41855,

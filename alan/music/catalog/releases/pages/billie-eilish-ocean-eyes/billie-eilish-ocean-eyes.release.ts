@@ -5,7 +5,7 @@ export const billieEilishOceanEyes = {
   pageTypeSlug: "release",
   slug: "billie-eilish-ocean-eyes",
   title: "Ocean Eyes",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 3.342667,
   ownProgress: 3.342667,

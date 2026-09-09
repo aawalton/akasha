@@ -5,7 +5,7 @@ export const bluey = {
   pageTypeSlug: "show",
   slug: "bluey",
   title: "Bluey",
-  partOfCollectionSlugs: ["family-friendly-shows"],
+  partOfCollections: ["family-friendly-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

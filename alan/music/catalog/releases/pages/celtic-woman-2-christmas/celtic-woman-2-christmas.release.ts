@@ -5,7 +5,7 @@ export const celticWoman2Christmas = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-christmas",
   title: "Christmas",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 40.876183,
   ownProgress: 40.876183,

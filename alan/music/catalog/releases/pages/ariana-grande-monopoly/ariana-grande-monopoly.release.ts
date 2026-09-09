@@ -5,7 +5,7 @@ export const arianaGrandeMonopoly = {
   pageTypeSlug: "release",
   slug: "ariana-grande-monopoly",
   title: "MONOPOLY",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 2.6431,
   ownProgress: 2.6431,

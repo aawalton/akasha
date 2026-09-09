@@ -5,7 +5,7 @@ export const hawkeye = {
   pageTypeSlug: "show",
   slug: "hawkeye",
   title: "Hawkeye",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 32,
   ownLength: 0,
   ownProgress: 0,

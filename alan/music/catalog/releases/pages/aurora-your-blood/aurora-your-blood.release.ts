@@ -5,7 +5,7 @@ export const auroraYourBlood = {
   pageTypeSlug: "release",
   slug: "aurora-your-blood",
   title: "Your Blood",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 4.137767,
   ownProgress: 4.137767,

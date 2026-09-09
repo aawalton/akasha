@@ -5,7 +5,7 @@ export const helstrom = {
   pageTypeSlug: "show",
   slug: "helstrom",
   title: "Helstrom",
-  partOfCollectionSlugs: ["marvel-television"],
+  partOfCollections: ["marvel-television"],
   position: 12,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const alexWarrenBeforeYouLeaveMeTelykastRemix = {
   pageTypeSlug: "release",
   slug: "alex-warren-before-you-leave-me-telykast-remix",
   title: "Before You Leave Me (TELYKAST Remix)",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 2.79365,
   ownProgress: 2.79365,

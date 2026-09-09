@@ -5,7 +5,7 @@ export const japaneseBreakfast = {
   pageTypeSlug: "artist",
   slug: "japanese-breakfast",
   title: "Japanese Breakfast",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

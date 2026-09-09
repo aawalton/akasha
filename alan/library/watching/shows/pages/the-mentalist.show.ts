@@ -5,7 +5,7 @@ export const theMentalist = {
   pageTypeSlug: "show",
   slug: "the-mentalist",
   title: "The Mentalist",
-  partOfCollectionSlugs: ["crime-investigation-shows", "watch-with-jen"],
+  partOfCollections: ["crime-investigation-shows", "watch-with-jen"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

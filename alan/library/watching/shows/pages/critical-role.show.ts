@@ -5,7 +5,7 @@ export const criticalRole = {
   pageTypeSlug: "show",
   slug: "critical-role",
   title: "Critical Role",
-  partOfCollectionSlugs: ["dungeons-and-dragons-shows"],
+  partOfCollections: ["dungeons-and-dragons-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

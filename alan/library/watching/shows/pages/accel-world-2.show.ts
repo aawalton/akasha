@@ -5,7 +5,7 @@ export const accelWorld2 = {
   pageTypeSlug: "show",
   slug: "accel-world-2",
   title: "Accel World",
-  partOfCollectionSlugs: ["accel-world"],
+  partOfCollections: ["accel-world"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

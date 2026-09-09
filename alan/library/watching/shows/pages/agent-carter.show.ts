@@ -5,7 +5,7 @@ export const agentCarter = {
   pageTypeSlug: "show",
   slug: "agent-carter",
   title: "Agent Carter",
-  partOfCollectionSlugs: ["marvel-television"],
+  partOfCollections: ["marvel-television"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

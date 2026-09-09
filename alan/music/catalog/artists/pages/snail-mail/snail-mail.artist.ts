@@ -5,7 +5,7 @@ export const snailMail = {
   pageTypeSlug: "artist",
   slug: "snail-mail",
   title: "Snail Mail",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

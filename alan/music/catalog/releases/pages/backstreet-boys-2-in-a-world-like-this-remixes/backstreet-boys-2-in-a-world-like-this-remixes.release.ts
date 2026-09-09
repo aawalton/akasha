@@ -5,7 +5,7 @@ export const backstreetBoys2InAWorldLikeThisRemixes = {
   pageTypeSlug: "release",
   slug: "backstreet-boys-2-in-a-world-like-this-remixes",
   title: "In a World Like This (Remixes)",
-  partOfCollectionSlugs: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys-2"],
   position: 0,
   ownLength: 33.985917,
   ownProgress: 33.985917,

@@ -5,7 +5,7 @@ export const sia2 = {
   pageTypeSlug: "artist",
   slug: "sia-2",
   title: "Sia",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const auroraRunawayPianoAcoustic = {
   pageTypeSlug: "release",
   slug: "aurora-runaway-piano-acoustic",
   title: "Runaway (Piano Acoustic)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 13.290183,
   ownProgress: 13.290183,

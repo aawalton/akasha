@@ -5,7 +5,7 @@ export const tomLehrer = {
   pageTypeSlug: "artist",
   slug: "tom-lehrer",
   title: "Tom Lehrer",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const braveSingle = {
   pageTypeSlug: "artist",
   slug: "brave-single",
   title: "Brave - Single",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 847.475,
   ownProgress: 0,

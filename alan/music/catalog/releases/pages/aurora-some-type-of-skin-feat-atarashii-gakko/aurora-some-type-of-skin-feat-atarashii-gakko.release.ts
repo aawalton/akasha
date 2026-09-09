@@ -5,7 +5,7 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakko = {
   pageTypeSlug: "release",
   slug: "aurora-some-type-of-skin-feat-atarashii-gakko",
   title: "Some Type Of Skin (feat. ATARASHII GAKKO!)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.602667,
   ownProgress: 3.602667,

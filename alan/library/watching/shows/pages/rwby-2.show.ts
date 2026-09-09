@@ -5,7 +5,7 @@ export const rwby2 = {
   pageTypeSlug: "show",
   slug: "rwby-2",
   title: "RWBY",
-  partOfCollectionSlugs: ["rwby"],
+  partOfCollections: ["rwby"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const arianaGrandeJasonSSongGaveItAway = {
   pageTypeSlug: "release",
   slug: "ariana-grande-jason-s-song-gave-it-away",
   title: "Jason's Song (Gave It Away)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 4.410217,
   ownProgress: 4.410217,

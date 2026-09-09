@@ -5,7 +5,7 @@ export const arianaGrandeRainOnMeRalphiRosarioRemix = {
   pageTypeSlug: "release",
   slug: "ariana-grande-rain-on-me-ralphi-rosario-remix",
   title: "Rain On Me (Ralphi Rosario Remix)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 11.488,
   ownProgress: 11.488,

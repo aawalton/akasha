@@ -5,7 +5,7 @@ export const billyJoelAMatterOfTrustTheBridgeToRussiaTheMusicLive = {
   pageTypeSlug: "release",
   slug: "billy-joel-a-matter-of-trust-the-bridge-to-russia-the-music-live",
   title: "A Matter of Trust - The Bridge to Russia: The Music (Live)",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 126.577367,
   ownProgress: 0,

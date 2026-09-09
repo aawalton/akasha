@@ -5,7 +5,7 @@ export const alexWarrenYardSale = {
   pageTypeSlug: "release",
   slug: "alex-warren-yard-sale",
   title: "Yard Sale",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 12.159917,
   ownProgress: 12.159917,

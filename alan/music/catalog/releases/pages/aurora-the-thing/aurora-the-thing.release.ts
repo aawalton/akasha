@@ -5,7 +5,7 @@ export const auroraTheThing = {
   pageTypeSlug: "release",
   slug: "aurora-the-thing",
   title: "THE THING",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 5.635333,
   ownProgress: 5.635333,

@@ -5,7 +5,7 @@ export const auroraTheWomanIAm = {
   pageTypeSlug: "release",
   slug: "aurora-the-woman-i-am",
   title: "The Woman I Am",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.220667,
   ownProgress: 3.220667,

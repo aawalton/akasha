@@ -5,7 +5,7 @@ export const castle = {
   pageTypeSlug: "show",
   slug: "castle",
   title: "Castle",
-  partOfCollectionSlugs: ["crime-investigation-shows", "watch-with-jen"],
+  partOfCollections: ["crime-investigation-shows", "watch-with-jen"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

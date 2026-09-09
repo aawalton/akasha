@@ -5,7 +5,7 @@ export const backstreetBoys2ChancesRemixes = {
   pageTypeSlug: "release",
   slug: "backstreet-boys-2-chances-remixes",
   title: "Chances (Remixes)",
-  partOfCollectionSlugs: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys-2"],
   position: 0,
   ownLength: 16.200333,
   ownProgress: 16.200333,

@@ -5,7 +5,7 @@ export const auroraRunningWithTheWolves = {
   pageTypeSlug: "release",
   slug: "aurora-running-with-the-wolves",
   title: "Running with the Wolves",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 15.0622,
   ownProgress: 15.0622,

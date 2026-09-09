@@ -5,7 +5,7 @@ export const celticWoman2Destiny = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-destiny",
   title: "Destiny",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 62.4635,
   ownProgress: 62.4635,

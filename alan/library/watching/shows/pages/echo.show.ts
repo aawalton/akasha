@@ -5,7 +5,7 @@ export const echo = {
   pageTypeSlug: "show",
   slug: "echo",
   title: "Echo",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 48,
   ownLength: 0,
   ownProgress: 0,

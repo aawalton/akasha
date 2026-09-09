@@ -5,7 +5,7 @@ export const auroraQueendomRemixes = {
   pageTypeSlug: "release",
   slug: "aurora-queendom-remixes",
   title: "Queendom (Remixes)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 19.8102,
   ownProgress: 19.8102,

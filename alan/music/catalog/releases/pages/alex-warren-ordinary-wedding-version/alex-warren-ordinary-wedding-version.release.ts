@@ -5,7 +5,7 @@ export const alexWarrenOrdinaryWeddingVersion = {
   pageTypeSlug: "release",
   slug: "alex-warren-ordinary-wedding-version",
   title: "Ordinary (Wedding Version)",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 3.116067,
   ownProgress: 3.116067,

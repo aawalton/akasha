@@ -5,7 +5,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassics = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   title: "Decade. The Songs, The Show, The Traditions, The Classics.",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 230.894967,
   ownProgress: 230.894967,

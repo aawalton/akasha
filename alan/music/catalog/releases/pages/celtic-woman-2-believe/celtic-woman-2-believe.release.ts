@@ -5,7 +5,7 @@ export const celticWoman2Believe = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-believe",
   title: "Believe",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 63.99725,
   ownProgress: 63.99725,

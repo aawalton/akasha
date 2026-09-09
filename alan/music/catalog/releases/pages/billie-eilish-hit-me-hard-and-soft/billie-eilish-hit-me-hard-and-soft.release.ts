@@ -5,7 +5,7 @@ export const billieEilishHitMeHardAndSoft = {
   pageTypeSlug: "release",
   slug: "billie-eilish-hit-me-hard-and-soft",
   title: "HIT ME HARD AND SOFT",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 43.838833,
   ownProgress: 43.838833,

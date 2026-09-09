@@ -5,7 +5,7 @@ export const daredevil = {
   pageTypeSlug: "show",
   slug: "daredevil",
   title: "Daredevil",
-  partOfCollectionSlugs: ["marvel-television"],
+  partOfCollections: ["marvel-television"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

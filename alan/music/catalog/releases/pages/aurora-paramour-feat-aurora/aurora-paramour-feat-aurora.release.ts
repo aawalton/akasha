@@ -5,7 +5,7 @@ export const auroraParamourFeatAurora = {
   pageTypeSlug: "release",
   slug: "aurora-paramour-feat-aurora",
   title: "PARAMOUR (feat. AURORA)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 2.807217,
   ownProgress: 2.807217,

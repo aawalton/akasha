@@ -5,7 +5,7 @@ export const planetOfTheApes1974 = {
   pageTypeSlug: "show",
   slug: "planet-of-the-apes-1974",
   title: "Planet of the Apes (1974)",
-  partOfCollectionSlugs: ["planet-of-the-apes-2"],
+  partOfCollections: ["planet-of-the-apes-2"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const runaways = {
   pageTypeSlug: "show",
   slug: "runaways",
   title: "Runaways",
-  partOfCollectionSlugs: ["marvel-television"],
+  partOfCollections: ["marvel-television"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

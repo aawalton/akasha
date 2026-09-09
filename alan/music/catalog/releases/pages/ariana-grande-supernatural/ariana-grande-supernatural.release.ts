@@ -5,7 +5,7 @@ export const arianaGrandeSupernatural = {
   pageTypeSlug: "release",
   slug: "ariana-grande-supernatural",
   title: "supernatural",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 13.6183,
   ownProgress: 13.6183,

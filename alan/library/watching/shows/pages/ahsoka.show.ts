@@ -5,7 +5,7 @@ export const ahsoka = {
   pageTypeSlug: "show",
   slug: "ahsoka",
   title: "Ahsoka",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 22,
   ownLength: 0,
   ownProgress: 0,

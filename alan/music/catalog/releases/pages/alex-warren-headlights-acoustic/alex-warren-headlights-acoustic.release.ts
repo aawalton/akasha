@@ -5,7 +5,7 @@ export const alexWarrenHeadlightsAcoustic = {
   pageTypeSlug: "release",
   slug: "alex-warren-headlights-acoustic",
   title: "Headlights (Acoustic)",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 5.773767,
   ownProgress: 5.773767,

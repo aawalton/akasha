@@ -5,7 +5,7 @@ export const auroraSofia = {
   pageTypeSlug: "release",
   slug: "aurora-sofia",
   title: "Sofia",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 11.233267,
   ownProgress: 11.233267,

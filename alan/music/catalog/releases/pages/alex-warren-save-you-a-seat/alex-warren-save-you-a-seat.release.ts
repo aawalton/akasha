@@ -5,7 +5,7 @@ export const alexWarrenSaveYouASeat = {
   pageTypeSlug: "release",
   slug: "alex-warren-save-you-a-seat",
   title: "Save You a Seat",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 3.292883,
   ownProgress: 3.292883,

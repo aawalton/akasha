@@ -5,7 +5,7 @@ export const billyJoelSheSGotAWayLoveSongs = {
   pageTypeSlug: "release",
   slug: "billy-joel-she-s-got-a-way-love-songs",
   title: "She's Got A Way: Love Songs",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 79.0721,
   ownProgress: 0,

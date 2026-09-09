@@ -5,7 +5,7 @@ export const adeleRollingInTheDeep = {
   pageTypeSlug: "release",
   slug: "adele-rolling-in-the-deep",
   title: "Rolling in the Deep",
-  partOfCollectionSlugs: ["adele"],
+  partOfCollections: ["adele"],
   position: 0,
   ownLength: 3.80155,
   ownProgress: 3.80155,

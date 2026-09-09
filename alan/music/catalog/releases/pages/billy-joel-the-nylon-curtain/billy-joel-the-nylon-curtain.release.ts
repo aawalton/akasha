@@ -5,7 +5,7 @@ export const billyJoelTheNylonCurtain = {
   pageTypeSlug: "release",
   slug: "billy-joel-the-nylon-curtain",
   title: "The Nylon Curtain",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 41.49285,
   ownProgress: 0,

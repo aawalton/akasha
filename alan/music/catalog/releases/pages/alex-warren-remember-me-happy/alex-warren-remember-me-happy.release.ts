@@ -5,7 +5,7 @@ export const alexWarrenRememberMeHappy = {
   pageTypeSlug: "release",
   slug: "alex-warren-remember-me-happy",
   title: "Remember Me Happy",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 2.3516,
   ownProgress: 2.3516,

@@ -5,7 +5,7 @@ export const arianaGrandeYesAndJonasBlueRemix = {
   pageTypeSlug: "release",
   slug: "ariana-grande-yes-and-jonas-blue-remix",
   title: "yes, and? (Jonas Blue Remix)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 3.548383,
   ownProgress: 3.548383,

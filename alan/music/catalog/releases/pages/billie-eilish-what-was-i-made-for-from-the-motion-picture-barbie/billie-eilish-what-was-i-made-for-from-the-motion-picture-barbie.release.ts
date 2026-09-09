@@ -5,7 +5,7 @@ export const billieEilishWhatWasIMadeForFromTheMotionPictureBarbie = {
   pageTypeSlug: "release",
   slug: "billie-eilish-what-was-i-made-for-from-the-motion-picture-barbie",
   title: 'What Was I Made For? [From The Motion Picture "Barbie"]',
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 3.70615,
   ownProgress: 3.70615,

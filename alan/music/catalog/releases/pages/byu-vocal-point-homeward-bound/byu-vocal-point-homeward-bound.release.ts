@@ -5,7 +5,7 @@ export const byuVocalPointHomewardBound = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-homeward-bound",
   title: "Homeward Bound",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 4.182917,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const celticWoman2AmidTheFallingSnow = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-amid-the-falling-snow",
   title: "Amid The Falling Snow",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 3.7171,
   ownProgress: 3.7171,

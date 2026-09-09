@@ -5,7 +5,7 @@ export const alexWarrenYouLlBeAlrightKidChapter1 = {
   pageTypeSlug: "release",
   slug: "alex-warren-you-ll-be-alright-kid-chapter-1",
   title: "You'll Be Alright, Kid (Chapter 1)",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 33.130033,
   ownProgress: 33.130033,

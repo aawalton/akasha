@@ -5,7 +5,7 @@ export const coldplay = {
   pageTypeSlug: "artist",
   slug: "coldplay",
   title: "Coldplay",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

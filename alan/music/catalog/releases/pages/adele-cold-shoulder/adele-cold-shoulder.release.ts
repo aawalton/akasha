@@ -5,7 +5,7 @@ export const adeleColdShoulder = {
   pageTypeSlug: "release",
   slug: "adele-cold-shoulder",
   title: "Cold Shoulder",
-  partOfCollectionSlugs: ["adele"],
+  partOfCollections: ["adele"],
   position: 0,
   ownLength: 19.1882,
   ownProgress: 19.1882,

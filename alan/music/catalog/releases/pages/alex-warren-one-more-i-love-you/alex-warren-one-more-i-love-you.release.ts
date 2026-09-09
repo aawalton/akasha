@@ -5,7 +5,7 @@ export const alexWarrenOneMoreILoveYou = {
   pageTypeSlug: "release",
   slug: "alex-warren-one-more-i-love-you",
   title: "One More I Love You",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 3.615583,
   ownProgress: 3.615583,

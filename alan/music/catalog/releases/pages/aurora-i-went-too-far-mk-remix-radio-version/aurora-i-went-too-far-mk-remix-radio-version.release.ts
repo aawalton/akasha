@@ -5,7 +5,7 @@ export const auroraIWentTooFarMkRemixRadioVersion = {
   pageTypeSlug: "release",
   slug: "aurora-i-went-too-far-mk-remix-radio-version",
   title: "I Went Too Far (MK Remix) (Radio Version)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.951167,
   ownProgress: 3.951167,

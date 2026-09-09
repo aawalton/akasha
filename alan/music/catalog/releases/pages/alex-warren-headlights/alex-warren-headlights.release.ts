@@ -5,7 +5,7 @@ export const alexWarrenHeadlights = {
   pageTypeSlug: "release",
   slug: "alex-warren-headlights",
   title: "Headlights",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 2.886883,
   ownProgress: 2.886883,

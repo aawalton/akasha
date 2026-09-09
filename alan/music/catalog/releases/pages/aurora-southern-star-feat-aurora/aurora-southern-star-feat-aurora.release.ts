@@ -5,7 +5,7 @@ export const auroraSouthernStarFeatAurora = {
   pageTypeSlug: "release",
   slug: "aurora-southern-star-feat-aurora",
   title: "Southern Star (feat. AURORA)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 5.079333,
   ownProgress: 5.079333,

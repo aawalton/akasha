@@ -5,7 +5,7 @@ export const skeletonCrew = {
   pageTypeSlug: "show",
   slug: "skeleton-crew",
   title: "Skeleton Crew",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 24,
   ownLength: 0,
   ownProgress: 0,

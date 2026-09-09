@@ -5,7 +5,7 @@ export const justinTimberlake = {
   pageTypeSlug: "artist",
   slug: "justin-timberlake",
   title: "Justin Timberlake",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const watchWithLizzy = {
   pageTypeSlug: "show-collection",
   slug: "watch-with-lizzy",
   title: "Watch with Lizzy",
-  partOfCollectionSlugs: ["shows"],
+  partOfCollections: ["shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

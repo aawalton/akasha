@@ -5,7 +5,7 @@ export const byuVocalPointCreameryOnNinth = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-creamery-on-ninth",
   title: "Creamery on Ninth",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 27.71875,
   ownProgress: 0,

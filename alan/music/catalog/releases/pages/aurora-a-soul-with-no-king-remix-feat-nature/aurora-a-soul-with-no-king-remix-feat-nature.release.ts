@@ -5,7 +5,7 @@ export const auroraASoulWithNoKingRemixFeatNature = {
   pageTypeSlug: "release",
   slug: "aurora-a-soul-with-no-king-remix-feat-nature",
   title: "A Soul With No King - Remix (feat. NATURE)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 5.248883,
   ownProgress: 5.248883,

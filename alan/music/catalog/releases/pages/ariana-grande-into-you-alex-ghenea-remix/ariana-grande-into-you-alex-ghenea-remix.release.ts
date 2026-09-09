@@ -5,7 +5,7 @@ export const arianaGrandeIntoYouAlexGheneaRemix = {
   pageTypeSlug: "release",
   slug: "ariana-grande-into-you-alex-ghenea-remix",
   title: "Into You (Alex Ghenea Remix)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 3.636,
   ownProgress: 3.636,

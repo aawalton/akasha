@@ -5,7 +5,7 @@ export const backstreetBoys2Chances = {
   pageTypeSlug: "release",
   slug: "backstreet-boys-2-chances",
   title: "Chances",
-  partOfCollectionSlugs: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys-2"],
   position: 0,
   ownLength: 2.8771,
   ownProgress: 2.8771,

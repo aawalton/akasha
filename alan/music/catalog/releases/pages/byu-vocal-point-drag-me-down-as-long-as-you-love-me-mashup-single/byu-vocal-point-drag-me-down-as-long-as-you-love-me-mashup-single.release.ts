@@ -5,7 +5,7 @@ export const byuVocalPointDragMeDownAsLongAsYouLoveMeMashupSingle = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-drag-me-down-as-long-as-you-love-me-mashup-single",
   title: "Drag Me Down / As Long as You Love Me (Mashup) - Single",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.757633,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theDragonPrince = {
   pageTypeSlug: "show",
   slug: "the-dragon-prince",
   title: "The Dragon Prince",
-  partOfCollectionSlugs: ["family-friendly-shows"],
+  partOfCollections: ["family-friendly-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

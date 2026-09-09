@@ -5,7 +5,7 @@ export const thePianoGuys3 = {
   pageTypeSlug: "artist",
   slug: "the-piano-guys-3",
   title: "The Piano Guys",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

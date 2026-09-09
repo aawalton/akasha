@@ -5,7 +5,7 @@ export const theXFiles19932002 = {
   pageTypeSlug: "show",
   slug: "the-x-files-1993-2002",
   title: "The X-Files (1993-2002)",
-  partOfCollectionSlugs: ["x-files"],
+  partOfCollections: ["x-files"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

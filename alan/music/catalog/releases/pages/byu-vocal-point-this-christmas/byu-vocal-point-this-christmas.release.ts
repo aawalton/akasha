@@ -5,7 +5,7 @@ export const byuVocalPointThisChristmas = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-this-christmas",
   title: "This Christmas",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.2993,
   ownProgress: 0,

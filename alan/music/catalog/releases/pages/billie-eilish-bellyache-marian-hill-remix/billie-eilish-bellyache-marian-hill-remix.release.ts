@@ -5,7 +5,7 @@ export const billieEilishBellyacheMarianHillRemix = {
   pageTypeSlug: "release",
   slug: "billie-eilish-bellyache-marian-hill-remix",
   title: "Bellyache (Marian Hill Remix)",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 3.68,
   ownProgress: 3.68,

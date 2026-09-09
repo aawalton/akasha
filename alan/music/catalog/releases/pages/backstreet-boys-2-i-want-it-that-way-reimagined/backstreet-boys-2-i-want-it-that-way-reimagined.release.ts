@@ -5,7 +5,7 @@ export const backstreetBoys2IWantItThatWayReimagined = {
   pageTypeSlug: "release",
   slug: "backstreet-boys-2-i-want-it-that-way-reimagined",
   title: "I Want It That Way (Reimagined)",
-  partOfCollectionSlugs: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys-2"],
   position: 0,
   ownLength: 3.364883,
   ownProgress: 3.364883,

@@ -5,7 +5,7 @@ export const alexWarrenBurningDownAlexSVersion = {
   pageTypeSlug: "release",
   slug: "alex-warren-burning-down-alex-s-version",
   title: "Burning Down (Alex’s Version)",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 6.042733,
   ownProgress: 6.042733,

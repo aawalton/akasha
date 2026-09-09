@@ -5,7 +5,7 @@ export const gracieAbrams = {
   pageTypeSlug: "artist",
   slug: "gracie-abrams",
   title: "Gracie Abrams",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

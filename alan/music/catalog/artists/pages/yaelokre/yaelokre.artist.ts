@@ -5,7 +5,7 @@ export const yaelokre = {
   pageTypeSlug: "artist",
   slug: "yaelokre",
   title: "Yaelokre",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

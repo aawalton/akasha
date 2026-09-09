@@ -5,7 +5,7 @@ export const theLordOfTheRingsShows = {
   pageTypeSlug: "show-collection",
   slug: "the-lord-of-the-rings-shows",
   title: "The Lord of The Rings Shows",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-2"],
+  partOfCollections: ["the-lord-of-the-rings-2"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

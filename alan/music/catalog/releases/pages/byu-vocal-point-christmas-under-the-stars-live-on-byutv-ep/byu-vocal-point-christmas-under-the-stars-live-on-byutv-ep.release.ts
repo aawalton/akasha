@@ -5,7 +5,7 @@ export const byuVocalPointChristmasUnderTheStarsLiveOnByutvEp = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-christmas-under-the-stars-live-on-byutv-ep",
   title: "Christmas Under the Stars (Live on BYUtv) - EP",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 15.774083,
   ownProgress: 0,

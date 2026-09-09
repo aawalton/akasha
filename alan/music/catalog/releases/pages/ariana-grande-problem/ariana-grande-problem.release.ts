@@ -5,7 +5,7 @@ export const arianaGrandeProblem = {
   pageTypeSlug: "release",
   slug: "ariana-grande-problem",
   title: "Problem",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 9.647167,
   ownProgress: 9.647167,

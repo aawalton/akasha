@@ -5,7 +5,7 @@ export const alexWarrenTroubledWaters = {
   pageTypeSlug: "release",
   slug: "alex-warren-troubled-waters",
   title: "Troubled Waters",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 3.29625,
   ownProgress: 3.29625,

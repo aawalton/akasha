@@ -5,7 +5,7 @@ export const alexandria = {
   pageTypeSlug: "artist",
   slug: "alexandria",
   title: "Alexandria",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

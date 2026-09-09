@@ -5,7 +5,7 @@ export const jamesTaylor2 = {
   pageTypeSlug: "artist",
   slug: "james-taylor-2",
   title: "James Taylor",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

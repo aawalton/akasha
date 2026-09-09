@@ -5,7 +5,7 @@ export const pushingDaisies = {
   pageTypeSlug: "show",
   slug: "pushing-daisies",
   title: "Pushing Daisies",
-  partOfCollectionSlugs: ["crime-investigation-shows", "watch-with-jen"],
+  partOfCollections: ["crime-investigation-shows", "watch-with-jen"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

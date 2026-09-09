@@ -5,7 +5,7 @@ export const backstreetBoys2 = {
   pageTypeSlug: "artist",
   slug: "backstreet-boys-2",
   title: "Backstreet Boys",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

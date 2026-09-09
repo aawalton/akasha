@@ -5,7 +5,7 @@ export const epicTheMusical = {
   pageTypeSlug: "artist",
   slug: "epic-the-musical",
   title: "Epic: The Musical",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const auroraCureForMeAcoustic = {
   pageTypeSlug: "release",
   slug: "aurora-cure-for-me-acoustic",
   title: "Cure for Me (Acoustic)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.556217,
   ownProgress: 3.556217,

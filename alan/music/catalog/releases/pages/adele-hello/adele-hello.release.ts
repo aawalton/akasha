@@ -5,7 +5,7 @@ export const adeleHello = {
   pageTypeSlug: "release",
   slug: "adele-hello",
   title: "Hello",
-  partOfCollectionSlugs: ["adele"],
+  partOfCollections: ["adele"],
   position: 0,
   ownLength: 4.925033,
   ownProgress: 4.925033,

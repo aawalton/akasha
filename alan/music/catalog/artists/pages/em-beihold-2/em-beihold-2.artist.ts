@@ -5,7 +5,7 @@ export const emBeihold2 = {
   pageTypeSlug: "artist",
   slug: "em-beihold-2",
   title: "Em Beihold",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

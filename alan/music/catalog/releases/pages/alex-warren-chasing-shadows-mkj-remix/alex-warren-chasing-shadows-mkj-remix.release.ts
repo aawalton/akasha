@@ -5,7 +5,7 @@ export const alexWarrenChasingShadowsMkjRemix = {
   pageTypeSlug: "release",
   slug: "alex-warren-chasing-shadows-mkj-remix",
   title: "Chasing Shadows (MKJ Remix)",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 5.517117,
   ownProgress: 5.517117,

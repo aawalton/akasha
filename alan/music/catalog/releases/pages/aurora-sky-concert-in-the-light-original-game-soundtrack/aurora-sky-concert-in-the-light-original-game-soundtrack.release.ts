@@ -5,7 +5,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrack = {
   pageTypeSlug: "release",
   slug: "aurora-sky-concert-in-the-light-original-game-soundtrack",
   title: "Sky: Concert in the Light (Original Game Soundtrack)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 48.919633,
   ownProgress: 48.919633,

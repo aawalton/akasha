@@ -5,7 +5,7 @@ export const byuVocalPointCircleOfLife = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-circle-of-life",
   title: "Circle Of Life",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.562217,
   ownProgress: 0,

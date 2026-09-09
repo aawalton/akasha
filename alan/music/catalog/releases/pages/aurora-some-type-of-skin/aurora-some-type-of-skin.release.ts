@@ -5,7 +5,7 @@ export const auroraSomeTypeOfSkin = {
   pageTypeSlug: "release",
   slug: "aurora-some-type-of-skin",
   title: "Some Type Of Skin",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 9.954433,
   ownProgress: 9.954433,

@@ -5,7 +5,7 @@ export const arianaGrandeRainOnMeWithArianaGrande = {
   pageTypeSlug: "release",
   slug: "ariana-grande-rain-on-me-with-ariana-grande",
   title: "Rain On Me (with Ariana Grande)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 3.036667,
   ownProgress: 3.036667,

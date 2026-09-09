@@ -5,7 +5,7 @@ export const theBigBangTheory = {
   pageTypeSlug: "show",
   slug: "the-big-bang-theory",
   title: "The Big Bang Theory",
-  partOfCollectionSlugs: ["sitcoms"],
+  partOfCollections: ["sitcoms"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

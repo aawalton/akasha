@@ -5,7 +5,7 @@ export const arianaGrandeYesAndRemixes = {
   pageTypeSlug: "release",
   slug: "ariana-grande-yes-and-remixes",
   title: "yes, and? (remixes)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 12.504583,
   ownProgress: 12.504583,

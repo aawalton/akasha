@@ -5,7 +5,7 @@ export const auroraTheConflictOfTheMind = {
   pageTypeSlug: "release",
   slug: "aurora-the-conflict-of-the-mind",
   title: "The Conflict of the Mind",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 8.4011,
   ownProgress: 8.4011,

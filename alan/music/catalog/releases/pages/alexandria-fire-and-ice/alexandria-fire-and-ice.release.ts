@@ -5,7 +5,7 @@ export const alexandriaFireAndIce = {
   pageTypeSlug: "release",
   slug: "alexandria-fire-and-ice",
   title: "Fire and Ice",
-  partOfCollectionSlugs: ["alexandria"],
+  partOfCollections: ["alexandria"],
   position: 0,
   ownLength: 2.3349,
   ownProgress: 2.3349,

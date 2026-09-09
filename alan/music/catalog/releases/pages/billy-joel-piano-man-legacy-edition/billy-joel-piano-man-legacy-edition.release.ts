@@ -5,7 +5,7 @@ export const billyJoelPianoManLegacyEdition = {
   pageTypeSlug: "release",
   slug: "billy-joel-piano-man-legacy-edition",
   title: "Piano Man (Legacy Edition)",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 101.814517,
   ownProgress: 0,

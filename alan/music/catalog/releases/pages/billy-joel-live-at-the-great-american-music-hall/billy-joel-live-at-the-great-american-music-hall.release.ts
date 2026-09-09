@@ -5,7 +5,7 @@ export const billyJoelLiveAtTheGreatAmericanMusicHall = {
   pageTypeSlug: "release",
   slug: "billy-joel-live-at-the-great-american-music-hall",
   title: "Live at The Great American Music Hall",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 71.0898,
   ownProgress: 0,

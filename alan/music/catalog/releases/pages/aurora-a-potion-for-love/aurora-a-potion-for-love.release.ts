@@ -5,7 +5,7 @@ export const auroraAPotionForLove = {
   pageTypeSlug: "release",
   slug: "aurora-a-potion-for-love",
   title: "A Potion For Love",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.6071,
   ownProgress: 3.6071,

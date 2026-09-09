@@ -5,7 +5,7 @@ export const arianaGrandeStuckWithU = {
   pageTypeSlug: "release",
   slug: "ariana-grande-stuck-with-u",
   title: "Stuck with U",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 3.808033,
   ownProgress: 3.808033,

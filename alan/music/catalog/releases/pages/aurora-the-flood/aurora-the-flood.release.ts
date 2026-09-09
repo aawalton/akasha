@@ -5,7 +5,7 @@ export const auroraTheFlood = {
   pageTypeSlug: "release",
   slug: "aurora-the-flood",
   title: "The Flood",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 4.495333,
   ownProgress: 4.495333,

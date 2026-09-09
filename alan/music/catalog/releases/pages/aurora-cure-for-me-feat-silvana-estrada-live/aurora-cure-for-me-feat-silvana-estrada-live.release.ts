@@ -5,7 +5,7 @@ export const auroraCureForMeFeatSilvanaEstradaLive = {
   pageTypeSlug: "release",
   slug: "aurora-cure-for-me-feat-silvana-estrada-live",
   title: "Cure For Me (feat. Silvana Estrada) [Live]",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.85475,
   ownProgress: 3.85475,

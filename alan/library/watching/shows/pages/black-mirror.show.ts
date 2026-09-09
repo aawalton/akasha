@@ -5,7 +5,7 @@ export const blackMirror = {
   pageTypeSlug: "show",
   slug: "black-mirror",
   title: "Black Mirror",
-  partOfCollectionSlugs: ["speculative-antholoagies"],
+  partOfCollections: ["speculative-antholoagies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const billyJoelBillyJoelRebels = {
   pageTypeSlug: "release",
   slug: "billy-joel-billy-joel-rebels",
   title: "Billy Joel - Rebels",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 21.015767,
   ownProgress: 0,

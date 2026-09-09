@@ -5,7 +5,7 @@ export const k9 = {
   pageTypeSlug: "show",
   slug: "k-9",
   title: "K-9",
-  partOfCollectionSlugs: ["doctor-who"],
+  partOfCollections: ["doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

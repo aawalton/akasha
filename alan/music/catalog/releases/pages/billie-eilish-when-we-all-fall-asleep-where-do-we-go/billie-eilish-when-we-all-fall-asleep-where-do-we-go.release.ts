@@ -5,7 +5,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGo = {
   pageTypeSlug: "release",
   slug: "billie-eilish-when-we-all-fall-asleep-where-do-we-go",
   title: "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 42.921017,
   ownProgress: 42.921017,

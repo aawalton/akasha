@@ -5,7 +5,7 @@ export const cloakAndDagger = {
   pageTypeSlug: "show",
   slug: "cloak-and-dagger",
   title: "Cloak & Dagger",
-  partOfCollectionSlugs: ["marvel-television"],
+  partOfCollections: ["marvel-television"],
   position: 11,
   ownLength: 0,
   ownProgress: 0,

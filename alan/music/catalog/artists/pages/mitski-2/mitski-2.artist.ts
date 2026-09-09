@@ -5,7 +5,7 @@ export const mitski2 = {
   pageTypeSlug: "artist",
   slug: "mitski-2",
   title: "Mitski",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

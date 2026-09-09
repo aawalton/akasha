@@ -5,7 +5,7 @@ export const torchwood = {
   pageTypeSlug: "show",
   slug: "torchwood",
   title: "Torchwood",
-  partOfCollectionSlugs: ["doctor-who"],
+  partOfCollections: ["doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

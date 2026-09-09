@@ -5,7 +5,7 @@ export const billyJoelBillyJoelMoods = {
   pageTypeSlug: "release",
   slug: "billy-joel-billy-joel-moods",
   title: "Billy Joel - Moods",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 19.2886,
   ownProgress: 0,

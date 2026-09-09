@@ -5,7 +5,7 @@ export const severance = {
   pageTypeSlug: "show",
   slug: "severance",
   title: "Severance",
-  partOfCollectionSlugs: ["science-fiction-shows"],
+  partOfCollections: ["science-fiction-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

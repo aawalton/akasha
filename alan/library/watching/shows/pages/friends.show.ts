@@ -5,7 +5,7 @@ export const friends = {
   pageTypeSlug: "show",
   slug: "friends",
   title: "Friends",
-  partOfCollectionSlugs: ["sitcoms"],
+  partOfCollections: ["sitcoms"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

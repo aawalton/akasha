@@ -5,7 +5,7 @@ export const alexWarrenOrdinaryFeatLukeCombsLiveFromLollapalooza = {
   pageTypeSlug: "release",
   slug: "alex-warren-ordinary-feat-luke-combs-live-from-lollapalooza",
   title: "Ordinary (feat. Luke Combs) - Live from Lollapalooza",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 3.42445,
   ownProgress: 3.42445,

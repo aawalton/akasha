@@ -5,7 +5,7 @@ export const arianaGrandeDangerousWoman = {
   pageTypeSlug: "release",
   slug: "ariana-grande-dangerous-woman",
   title: "Dangerous Woman",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 63.128367,
   ownProgress: 63.128367,

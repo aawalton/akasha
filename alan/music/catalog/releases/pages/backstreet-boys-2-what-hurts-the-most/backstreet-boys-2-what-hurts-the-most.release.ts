@@ -5,7 +5,7 @@ export const backstreetBoys2WhatHurtsTheMost = {
   pageTypeSlug: "release",
   slug: "backstreet-boys-2-what-hurts-the-most",
   title: "What Hurts The Most",
-  partOfCollectionSlugs: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys-2"],
   position: 0,
   ownLength: 3.516667,
   ownProgress: 3.516667,

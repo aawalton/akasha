@@ -5,7 +5,7 @@ export const adeleMakeYouFeelMyLove = {
   pageTypeSlug: "release",
   slug: "adele-make-you-feel-my-love",
   title: "Make You Feel My Love",
-  partOfCollectionSlugs: ["adele"],
+  partOfCollections: ["adele"],
   position: 0,
   ownLength: 3.534,
   ownProgress: 3.534,

@@ -5,7 +5,7 @@ export const byuVocalPointSpectrum = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-spectrum",
   title: "Spectrum",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 51.979767,
   ownProgress: 0,

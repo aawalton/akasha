@@ -5,7 +5,7 @@ export const starTrekEnterprise = {
   pageTypeSlug: "show",
   slug: "star-trek-enterprise",
   title: "Star Trek: Enterprise",
-  partOfCollectionSlugs: ["star-trek-3"],
+  partOfCollections: ["star-trek-3"],
   position: 15,
   ownLength: 0,
   ownProgress: 0,

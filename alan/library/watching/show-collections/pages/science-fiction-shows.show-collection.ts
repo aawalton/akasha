@@ -5,7 +5,7 @@ export const scienceFictionShows = {
   pageTypeSlug: "show-collection",
   slug: "science-fiction-shows",
   title: "Science Fiction Shows",
-  partOfCollectionSlugs: ["shows"],
+  partOfCollections: ["shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

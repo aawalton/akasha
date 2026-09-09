@@ -5,7 +5,7 @@ export const billieEilishThereforeIAm = {
   pageTypeSlug: "release",
   slug: "billie-eilish-therefore-i-am",
   title: "Therefore I Am",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 2.90535,
   ownProgress: 2.90535,

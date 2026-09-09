@@ -5,7 +5,7 @@ export const arianaGrande2 = {
   pageTypeSlug: "artist",
   slug: "ariana-grande-2",
   title: "Ariana Grande",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

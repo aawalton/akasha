@@ -5,7 +5,7 @@ export const arianaGrandeBoyfriend = {
   pageTypeSlug: "release",
   slug: "ariana-grande-boyfriend",
   title: "boyfriend",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 3.101767,
   ownProgress: 3.101767,

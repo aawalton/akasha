@@ -5,7 +5,7 @@ export const auroraTheDevilIsHuman = {
   pageTypeSlug: "release",
   slug: "aurora-the-devil-is-human",
   title: "The Devil is Human",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.010217,
   ownProgress: 3.010217,

@@ -5,7 +5,7 @@ export const alexandriaAlwaysAnAngel = {
   pageTypeSlug: "release",
   slug: "alexandria-always-an-angel",
   title: "Always an Angel",
-  partOfCollectionSlugs: ["alexandria"],
+  partOfCollections: ["alexandria"],
   position: 0,
   ownLength: 1.9375,
   ownProgress: 1.9375,

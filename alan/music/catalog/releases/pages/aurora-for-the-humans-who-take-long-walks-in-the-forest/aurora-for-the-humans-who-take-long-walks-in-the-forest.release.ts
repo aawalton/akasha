@@ -5,7 +5,7 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForest = {
   pageTypeSlug: "release",
   slug: "aurora-for-the-humans-who-take-long-walks-in-the-forest",
   title: "FOR THE HUMANS WHO TAKE LONG WALKS IN THE FOREST",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 23.732567,
   ownProgress: 23.732567,

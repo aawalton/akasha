@@ -5,7 +5,7 @@ export const backstreetBoys2Millennium = {
   pageTypeSlug: "release",
   slug: "backstreet-boys-2-millennium",
   title: "Millennium",
-  partOfCollectionSlugs: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys-2"],
   position: 0,
   ownLength: 46.045483,
   ownProgress: 46.045483,

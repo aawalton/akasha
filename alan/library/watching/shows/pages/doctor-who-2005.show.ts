@@ -5,7 +5,7 @@ export const doctorWho2005 = {
   pageTypeSlug: "show",
   slug: "doctor-who-2005",
   title: "Doctor Who (2005)",
-  partOfCollectionSlugs: ["doctor-who"],
+  partOfCollections: ["doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

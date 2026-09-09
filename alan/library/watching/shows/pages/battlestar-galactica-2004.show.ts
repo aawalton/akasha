@@ -5,7 +5,7 @@ export const battlestarGalactica2004 = {
   pageTypeSlug: "show",
   slug: "battlestar-galactica-2004",
   title: "Battlestar Galactica (2004)",
-  partOfCollectionSlugs: ["battlestar-galactica"],
+  partOfCollections: ["battlestar-galactica"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

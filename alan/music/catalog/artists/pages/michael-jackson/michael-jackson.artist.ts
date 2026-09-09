@@ -5,7 +5,7 @@ export const michaelJackson = {
   pageTypeSlug: "artist",
   slug: "michael-jackson",
   title: "Michael Jackson",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

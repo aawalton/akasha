@@ -5,7 +5,7 @@ export const billyJoelStormFront = {
   pageTypeSlug: "release",
   slug: "billy-joel-storm-front",
   title: "Storm Front",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 44.649283,
   ownProgress: 0,

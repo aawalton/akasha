@@ -5,7 +5,7 @@ export const auroraMidasTouch = {
   pageTypeSlug: "release",
   slug: "aurora-midas-touch",
   title: "Midas Touch",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 2.694433,
   ownProgress: 2.694433,

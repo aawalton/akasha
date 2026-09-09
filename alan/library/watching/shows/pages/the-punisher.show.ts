@@ -5,7 +5,7 @@ export const thePunisher = {
   pageTypeSlug: "show",
   slug: "the-punisher",
   title: "The Punisher",
-  partOfCollectionSlugs: ["marvel-television"],
+  partOfCollections: ["marvel-television"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

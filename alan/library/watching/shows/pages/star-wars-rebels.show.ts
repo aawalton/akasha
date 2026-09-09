@@ -5,7 +5,7 @@ export const starWarsRebels = {
   pageTypeSlug: "show",
   slug: "star-wars-rebels",
   title: "Star Wars Rebels",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 9,
   ownLength: 0,
   ownProgress: 0,

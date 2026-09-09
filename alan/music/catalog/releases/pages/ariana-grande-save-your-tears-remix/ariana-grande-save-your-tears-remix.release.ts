@@ -5,7 +5,7 @@ export const arianaGrandeSaveYourTearsRemix = {
   pageTypeSlug: "release",
   slug: "ariana-grande-save-your-tears-remix",
   title: "Save Your Tears (Remix)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 3.18355,
   ownProgress: 3.18355,

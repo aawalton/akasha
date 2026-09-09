@@ -5,7 +5,7 @@ export const billieEilishMyboiTroyboiRemix = {
   pageTypeSlug: "release",
   slug: "billie-eilish-myboi-troyboi-remix",
   title: "MyBoi (TroyBoi Remix)",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 3.521733,
   ownProgress: 3.521733,

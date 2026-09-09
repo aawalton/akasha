@@ -5,7 +5,7 @@ export const auroraMusicForTheFreeSpirits = {
   pageTypeSlug: "release",
   slug: "aurora-music-for-the-free-spirits",
   title: "MUSIC FOR THE FREE SPIRITS",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 22.6438,
   ownProgress: 22.6438,

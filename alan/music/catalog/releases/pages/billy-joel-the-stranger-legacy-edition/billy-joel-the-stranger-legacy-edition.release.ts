@@ -5,7 +5,7 @@ export const billyJoelTheStrangerLegacyEdition = {
   pageTypeSlug: "release",
   slug: "billy-joel-the-stranger-legacy-edition",
   title: "The Stranger (Legacy Edition)",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 106.631233,
   ownProgress: 0,

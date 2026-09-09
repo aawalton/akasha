@@ -5,7 +5,7 @@ export const billyJoel12GardensLive = {
   pageTypeSlug: "release",
   slug: "billy-joel-12-gardens-live",
   title: "12 Gardens Live",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 157.525167,
   ownProgress: 0,

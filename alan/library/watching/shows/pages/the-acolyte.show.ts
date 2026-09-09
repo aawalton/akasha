@@ -5,7 +5,7 @@ export const theAcolyte = {
   pageTypeSlug: "show",
   slug: "the-acolyte",
   title: "The Acolyte",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 23,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const lindseyStirling2 = {
   pageTypeSlug: "artist",
   slug: "lindsey-stirling-2",
   title: "Lindsey Stirling",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

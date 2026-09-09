@@ -5,7 +5,7 @@ export const strangerThings = {
   pageTypeSlug: "show",
   slug: "stranger-things",
   title: "Stranger Things",
-  partOfCollectionSlugs: ["award-winning-shows"],
+  partOfCollections: ["award-winning-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

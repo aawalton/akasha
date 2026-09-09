@@ -5,7 +5,7 @@ export const starWarsTalesOfTheJedi = {
   pageTypeSlug: "show",
   slug: "star-wars-tales-of-the-jedi",
   title: "Star Wars: Tales of the Jedi",
-  partOfCollectionSlugs: ["star-wars-2"],
+  partOfCollections: ["star-wars-2"],
   position: 21,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const byuVocalPointBackInBlueMaximumACappella = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-back-in-blue-maximum-a-cappella",
   title: "Back in Blue: Maximum A Cappella",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 54.583333,
   ownProgress: 0,

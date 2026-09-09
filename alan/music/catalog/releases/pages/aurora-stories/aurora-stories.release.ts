@@ -5,7 +5,7 @@ export const auroraStories = {
   pageTypeSlug: "release",
   slug: "aurora-stories",
   title: "STORIES",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 25.749717,
   ownProgress: 25.749717,

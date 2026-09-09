@@ -5,7 +5,7 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLive = {
   pageTypeSlug: "release",
   slug: "ariana-grande-eternal-sunshine-slightly-deluxe-and-also-live",
   title: "eternal sunshine (slightly deluxe and also live)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 69.06335,
   ownProgress: 69.06335,

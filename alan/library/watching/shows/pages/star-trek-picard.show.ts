@@ -5,7 +5,7 @@ export const starTrekPicard = {
   pageTypeSlug: "show",
   slug: "star-trek-picard",
   title: "Star Trek: Picard",
-  partOfCollectionSlugs: ["star-trek-3"],
+  partOfCollections: ["star-trek-3"],
   position: 22,
   ownLength: 0,
   ownProgress: 0,

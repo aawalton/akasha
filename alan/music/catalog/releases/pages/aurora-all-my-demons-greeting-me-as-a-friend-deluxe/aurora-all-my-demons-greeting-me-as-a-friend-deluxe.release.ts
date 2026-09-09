@@ -5,7 +5,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxe = {
   pageTypeSlug: "release",
   slug: "aurora-all-my-demons-greeting-me-as-a-friend-deluxe",
   title: "All My Demons Greeting Me as a Friend (Deluxe)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 64.812117,
   ownProgress: 64.812117,

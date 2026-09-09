@@ -5,7 +5,7 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemix = {
   pageTypeSlug: "release",
   slug: "ariana-grande-good-as-hell-feat-ariana-grande-remix",
   title: "Good as Hell (feat. Ariana Grande) [Remix]",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 5.312433,
   ownProgress: 5.312433,

@@ -5,7 +5,7 @@ export const billieEilishBitchesBrokenHearts = {
   pageTypeSlug: "release",
   slug: "billie-eilish-bitches-broken-hearts",
   title: "bitches broken hearts",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 2.941183,
   ownProgress: 2.941183,

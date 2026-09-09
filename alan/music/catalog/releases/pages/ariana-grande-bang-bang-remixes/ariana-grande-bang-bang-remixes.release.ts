@@ -5,7 +5,7 @@ export const arianaGrandeBangBangRemixes = {
   pageTypeSlug: "release",
   slug: "ariana-grande-bang-bang-remixes",
   title: "Bang Bang (Remixes)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 17.945533,
   ownProgress: 17.945533,

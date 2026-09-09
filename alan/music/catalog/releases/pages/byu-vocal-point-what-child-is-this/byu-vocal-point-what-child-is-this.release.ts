@@ -5,7 +5,7 @@ export const byuVocalPointWhatChildIsThis = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-what-child-is-this",
   title: "What Child Is This?",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 3.842217,
   ownProgress: 0,

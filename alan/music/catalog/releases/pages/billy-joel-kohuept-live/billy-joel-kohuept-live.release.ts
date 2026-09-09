@@ -5,7 +5,7 @@ export const billyJoelKohueptLive = {
   pageTypeSlug: "release",
   slug: "billy-joel-kohuept-live",
   title: "Kohuept (Live)",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 72.973683,
   ownProgress: 0,

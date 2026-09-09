@@ -5,7 +5,7 @@ export const billyJoelNewYorkStateOfMindEverybodyLovesYouNowLiveAtTheGreatAmeric
   pageTypeSlug: "release",
   slug: "billy-joel-new-york-state-of-mind-everybody-loves-you-now-live-at-the-great-american-music-hall",
   title: "New York State of Mind / Everybody Loves You Now (Live at The Great American Music Hall)",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 9.128767,
   ownProgress: 0,

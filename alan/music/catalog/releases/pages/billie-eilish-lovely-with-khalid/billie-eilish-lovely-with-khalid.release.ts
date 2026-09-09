@@ -5,7 +5,7 @@ export const billieEilishLovelyWithKhalid = {
   pageTypeSlug: "release",
   slug: "billie-eilish-lovely-with-khalid",
   title: "lovely (with Khalid)",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 3.336417,
   ownProgress: 3.336417,

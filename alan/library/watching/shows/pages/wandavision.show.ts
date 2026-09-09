@@ -5,7 +5,7 @@ export const wandavision = {
   pageTypeSlug: "show",
   slug: "wandavision",
   title: "WandaVision",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 28,
   ownLength: 0,
   ownProgress: 0,

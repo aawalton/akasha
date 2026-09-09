@@ -5,7 +5,7 @@ export const arianaGrandeIntoYou3lauRemix = {
   pageTypeSlug: "release",
   slug: "ariana-grande-into-you-3lau-remix",
   title: "Into You (3LAU Remix)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 3.285767,
   ownProgress: 3.285767,

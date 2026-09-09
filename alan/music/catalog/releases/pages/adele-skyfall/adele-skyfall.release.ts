@@ -5,7 +5,7 @@ export const adeleSkyfall = {
   pageTypeSlug: "release",
   slug: "adele-skyfall",
   title: "Skyfall",
-  partOfCollectionSlugs: ["adele"],
+  partOfCollections: ["adele"],
   position: 0,
   ownLength: 4.768017,
   ownProgress: 4.768017,

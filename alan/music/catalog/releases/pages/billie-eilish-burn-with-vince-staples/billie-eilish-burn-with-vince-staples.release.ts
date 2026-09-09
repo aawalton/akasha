@@ -5,7 +5,7 @@ export const billieEilishBurnWithVinceStaples = {
   pageTypeSlug: "release",
   slug: "billie-eilish-burn-with-vince-staples",
   title: "&burn (with Vince Staples)",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 2.983583,
   ownProgress: 2.983583,

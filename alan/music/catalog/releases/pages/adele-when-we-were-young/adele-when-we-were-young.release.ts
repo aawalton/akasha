@@ -5,7 +5,7 @@ export const adeleWhenWeWereYoung = {
   pageTypeSlug: "release",
   slug: "adele-when-we-were-young",
   title: "When We Were Young",
-  partOfCollectionSlugs: ["adele"],
+  partOfCollections: ["adele"],
   position: 0,
   ownLength: 4.848333,
   ownProgress: 4.848333,

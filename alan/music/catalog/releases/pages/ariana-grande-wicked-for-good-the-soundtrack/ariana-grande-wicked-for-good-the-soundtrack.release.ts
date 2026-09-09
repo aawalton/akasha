@@ -5,7 +5,7 @@ export const arianaGrandeWickedForGoodTheSoundtrack = {
   pageTypeSlug: "release",
   slug: "ariana-grande-wicked-for-good-the-soundtrack",
   title: "Wicked: For Good – The Soundtrack",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 44.88045,
   ownProgress: 44.88045,

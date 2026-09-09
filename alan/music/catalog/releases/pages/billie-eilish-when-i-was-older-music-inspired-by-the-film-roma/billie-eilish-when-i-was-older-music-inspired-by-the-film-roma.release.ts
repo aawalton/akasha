@@ -5,7 +5,7 @@ export const billieEilishWhenIWasOlderMusicInspiredByTheFilmRoma = {
   pageTypeSlug: "release",
   slug: "billie-eilish-when-i-was-older-music-inspired-by-the-film-roma",
   title: "WHEN I WAS OLDER (Music Inspired By The Film ROMA)",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 4.50865,
   ownProgress: 4.50865,

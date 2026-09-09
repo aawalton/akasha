@@ -5,7 +5,7 @@ export const youngSheldon = {
   pageTypeSlug: "show",
   slug: "young-sheldon",
   title: "Young Sheldon",
-  partOfCollectionSlugs: ["sitcoms"],
+  partOfCollections: ["sitcoms"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

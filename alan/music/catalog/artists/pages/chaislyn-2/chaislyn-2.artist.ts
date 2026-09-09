@@ -5,7 +5,7 @@ export const chaislyn2 = {
   pageTypeSlug: "artist",
   slug: "chaislyn-2",
   title: "Chaislyn",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

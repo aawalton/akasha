@@ -5,7 +5,7 @@ export const starTrekDeepSpaceNine = {
   pageTypeSlug: "show",
   slug: "star-trek-deep-space-nine",
   title: "Star Trek: Deep Space Nine",
-  partOfCollectionSlugs: ["star-trek-3"],
+  partOfCollections: ["star-trek-3"],
   position: 10,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const auroraIntoTheUnknown = {
   pageTypeSlug: "release",
   slug: "aurora-into-the-unknown",
   title: "Into the Unknown",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.332667,
   ownProgress: 3.332667,

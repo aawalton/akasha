@@ -5,7 +5,7 @@ export const peacemaker = {
   pageTypeSlug: "show",
   slug: "peacemaker",
   title: "Peacemaker",
-  partOfCollectionSlugs: ["dc-universe"],
+  partOfCollections: ["dc-universe"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

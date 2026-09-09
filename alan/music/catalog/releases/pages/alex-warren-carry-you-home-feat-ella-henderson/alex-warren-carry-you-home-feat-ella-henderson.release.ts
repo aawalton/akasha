@@ -5,7 +5,7 @@ export const alexWarrenCarryYouHomeFeatEllaHenderson = {
   pageTypeSlug: "release",
   slug: "alex-warren-carry-you-home-feat-ella-henderson",
   title: "Carry You Home (feat. Ella Henderson)",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 2.781333,
   ownProgress: 2.781333,

@@ -5,7 +5,7 @@ export const byuVocalPointYouWillBeFoundFromDearEvanHansen = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-you-will-be-found-from-dear-evan-hansen",
   title: 'You Will Be Found (From "Dear Evan Hansen")',
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 5.431667,
   ownProgress: 0,

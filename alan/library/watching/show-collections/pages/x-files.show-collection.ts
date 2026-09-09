@@ -5,7 +5,7 @@ export const xFiles = {
   pageTypeSlug: "show-collection",
   slug: "x-files",
   title: "X-Files",
-  partOfCollectionSlugs: ["science-fiction-fandoms", "speculative-antholoagies"],
+  partOfCollections: ["science-fiction-fandoms", "speculative-antholoagies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

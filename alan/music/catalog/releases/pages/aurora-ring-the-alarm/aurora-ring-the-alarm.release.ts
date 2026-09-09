@@ -5,7 +5,7 @@ export const auroraRingTheAlarm = {
   pageTypeSlug: "release",
   slug: "aurora-ring-the-alarm",
   title: "RING THE ALARM",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 5.52355,
   ownProgress: 5.52355,

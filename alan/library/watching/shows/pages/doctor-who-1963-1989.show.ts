@@ -5,7 +5,7 @@ export const doctorWho19631989 = {
   pageTypeSlug: "show",
   slug: "doctor-who-1963-1989",
   title: "Doctor Who (1963-1989)",
-  partOfCollectionSlugs: ["doctor-who"],
+  partOfCollections: ["doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

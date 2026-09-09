@@ -5,7 +5,7 @@ export const thirdRockFromTheSun = {
   pageTypeSlug: "show",
   slug: "third-rock-from-the-sun",
   title: "3rd Rock from the Sun",
-  partOfCollectionSlugs: ["comedy-shows"],
+  partOfCollections: ["comedy-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theWheelOfTimeOrigins = {
   pageTypeSlug: "show",
   slug: "the-wheel-of-time-origins",
   title: "The Wheel of Time: Origins",
-  partOfCollectionSlugs: ["the-wheel-of-time-2"],
+  partOfCollections: ["the-wheel-of-time-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

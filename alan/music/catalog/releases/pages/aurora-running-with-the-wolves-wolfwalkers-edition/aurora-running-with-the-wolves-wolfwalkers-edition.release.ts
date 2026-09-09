@@ -5,7 +5,7 @@ export const auroraRunningWithTheWolvesWolfwalkersEdition = {
   pageTypeSlug: "release",
   slug: "aurora-running-with-the-wolves-wolfwalkers-edition",
   title: "Running with the Wolves (Wolfwalkers Edition)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 2.775767,
   ownProgress: 2.775767,

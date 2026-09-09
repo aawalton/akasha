@@ -5,7 +5,7 @@ export const frankHerbertSChildrenOfDune = {
   pageTypeSlug: "show",
   slug: "frank-herbert-s-children-of-dune",
   title: "Frank Herbert's Children of Dune",
-  partOfCollectionSlugs: ["dune-2"],
+  partOfCollections: ["dune-2"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

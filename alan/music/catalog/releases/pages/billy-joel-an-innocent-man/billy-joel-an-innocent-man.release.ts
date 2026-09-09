@@ -5,7 +5,7 @@ export const billyJoelAnInnocentMan = {
   pageTypeSlug: "release",
   slug: "billy-joel-an-innocent-man",
   title: "An Innocent Man",
-  partOfCollectionSlugs: ["billy-joel"],
+  partOfCollections: ["billy-joel"],
   position: 0,
   ownLength: 40.301717,
   ownProgress: 0,

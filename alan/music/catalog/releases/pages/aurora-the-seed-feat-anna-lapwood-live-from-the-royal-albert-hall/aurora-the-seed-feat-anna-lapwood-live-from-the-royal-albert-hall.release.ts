@@ -5,7 +5,7 @@ export const auroraTheSeedFeatAnnaLapwoodLiveFromTheRoyalAlbertHall = {
   pageTypeSlug: "release",
   slug: "aurora-the-seed-feat-anna-lapwood-live-from-the-royal-albert-hall",
   title: "The Seed (feat. Anna Lapwood) [Live from the Royal Albert Hall]",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 5.249333,
   ownProgress: 5.249333,

@@ -5,7 +5,7 @@ export const auroraYouCanTRunFromYourselfFromKaijuNo8 = {
   pageTypeSlug: "release",
   slug: "aurora-you-can-t-run-from-yourself-from-kaiju-no-8",
   title: 'You Can’t Run From Yourself (From "Kaiju No. 8")',
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 2.278667,
   ownProgress: 2.278667,

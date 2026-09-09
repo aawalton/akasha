@@ -5,7 +5,7 @@ export const arianaGrandeWickedTheSoundtrackCommentary = {
   pageTypeSlug: "release",
   slug: "ariana-grande-wicked-the-soundtrack-commentary",
   title: "Wicked: The Soundtrack (Commentary)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 72.436883,
   ownProgress: 72.436883,

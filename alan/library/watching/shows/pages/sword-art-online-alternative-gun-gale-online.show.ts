@@ -7,7 +7,7 @@ export const swordArtOnlineAlternativeGunGaleOnline = {
   title: "Sword Art Online Alternative: Gun Gale Online",
   description:
     "College student Karen takes up Gun Gale Online and gets a reputation as the Pink Demon. Then her gaming buddy Pitohui asks her to join the Squad Jam.",
-  partOfCollectionSlugs: ["fandom/sword-art-online"],
+  partOfCollections: ["fandom/sword-art-online"],
   publishedAt: "2018-04-08",
   lastAirDate: "2024-12-21",
   productionStatus: "ended",

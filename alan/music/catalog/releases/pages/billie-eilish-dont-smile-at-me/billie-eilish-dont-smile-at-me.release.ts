@@ -5,7 +5,7 @@ export const billieEilishDontSmileAtMe = {
   pageTypeSlug: "release",
   slug: "billie-eilish-dont-smile-at-me",
   title: "dont smile at me",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 28.990267,
   ownProgress: 28.990267,

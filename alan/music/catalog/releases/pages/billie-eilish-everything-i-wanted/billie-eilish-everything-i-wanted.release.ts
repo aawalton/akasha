@@ -5,7 +5,7 @@ export const billieEilishEverythingIWanted = {
   pageTypeSlug: "release",
   slug: "billie-eilish-everything-i-wanted",
   title: "everything i wanted",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 4.090417,
   ownProgress: 4.090417,

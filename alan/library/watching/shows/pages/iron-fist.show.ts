@@ -5,7 +5,7 @@ export const ironFist = {
   pageTypeSlug: "show",
   slug: "iron-fist",
   title: "Iron Fist",
-  partOfCollectionSlugs: ["marvel-television"],
+  partOfCollections: ["marvel-television"],
   position: 6,
   ownLength: 0,
   ownProgress: 0,

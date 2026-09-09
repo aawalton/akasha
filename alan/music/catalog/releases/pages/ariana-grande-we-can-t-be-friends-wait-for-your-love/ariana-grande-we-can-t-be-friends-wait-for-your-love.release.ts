@@ -5,7 +5,7 @@ export const arianaGrandeWeCanTBeFriendsWaitForYourLove = {
   pageTypeSlug: "release",
   slug: "ariana-grande-we-can-t-be-friends-wait-for-your-love",
   title: "we can't be friends (wait for your love)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 18.573033,
   ownProgress: 18.573033,

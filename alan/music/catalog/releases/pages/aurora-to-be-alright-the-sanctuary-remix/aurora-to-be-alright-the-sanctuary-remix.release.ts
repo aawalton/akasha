@@ -5,7 +5,7 @@ export const auroraToBeAlrightTheSanctuaryRemix = {
   pageTypeSlug: "release",
   slug: "aurora-to-be-alright-the-sanctuary-remix",
   title: "To Be Alright (The Sanctuary Remix)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.77415,
   ownProgress: 3.77415,

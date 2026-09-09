@@ -5,7 +5,7 @@ export const adele30 = {
   pageTypeSlug: "release",
   slug: "adele-30",
   title: "30",
-  partOfCollectionSlugs: ["adele"],
+  partOfCollections: ["adele"],
   position: 0,
   ownLength: 58.300467,
   ownProgress: 58.300467,

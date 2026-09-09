@@ -5,7 +5,7 @@ export const alexWarrenYardSaleFolkVersion = {
   pageTypeSlug: "release",
   slug: "alex-warren-yard-sale-folk-version",
   title: "Yard Sale (Folk Version)",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 2.937,
   ownProgress: 2.937,

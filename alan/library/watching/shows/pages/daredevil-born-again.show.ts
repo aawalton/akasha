@@ -5,7 +5,7 @@ export const daredevilBornAgain = {
   pageTypeSlug: "show",
   slug: "daredevil-born-again",
   title: "Daredevil: Born Again",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 55,
   ownLength: 0,
   ownProgress: 0,

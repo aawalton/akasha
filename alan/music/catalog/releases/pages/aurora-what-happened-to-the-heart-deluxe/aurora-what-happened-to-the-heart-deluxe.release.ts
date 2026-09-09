@@ -5,7 +5,7 @@ export const auroraWhatHappenedToTheHeartDeluxe = {
   pageTypeSlug: "release",
   slug: "aurora-what-happened-to-the-heart-deluxe",
   title: "What Happened To The Heart? (Deluxe)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 84.4479,
   ownProgress: 84.4479,

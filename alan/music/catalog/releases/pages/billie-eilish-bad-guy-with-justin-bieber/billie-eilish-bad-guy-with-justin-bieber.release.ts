@@ -5,7 +5,7 @@ export const billieEilishBadGuyWithJustinBieber = {
   pageTypeSlug: "release",
   slug: "billie-eilish-bad-guy-with-justin-bieber",
   title: "bad guy (with Justin Bieber)",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 3.247317,
   ownProgress: 3.247317,

@@ -5,7 +5,7 @@ export const theDefenders = {
   pageTypeSlug: "show",
   slug: "the-defenders",
   title: "The Defenders",
-  partOfCollectionSlugs: ["marvel-television"],
+  partOfCollections: ["marvel-television"],
   position: 7,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const msMarvel = {
   pageTypeSlug: "show",
   slug: "ms-marvel",
   title: "Ms. Marvel",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 35,
   ownLength: 0,
   ownProgress: 0,

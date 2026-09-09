@@ -5,7 +5,7 @@ export const arianaGrandeYesAndFelixJaehnRemix = {
   pageTypeSlug: "release",
   slug: "ariana-grande-yes-and-felix-jaehn-remix",
   title: "yes, and? (Felix Jaehn Remix)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 3.923167,
   ownProgress: 3.923167,

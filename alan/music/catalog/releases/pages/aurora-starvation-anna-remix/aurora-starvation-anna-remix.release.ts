@@ -5,7 +5,7 @@ export const auroraStarvationAnnaRemix = {
   pageTypeSlug: "release",
   slug: "aurora-starvation-anna-remix",
   title: "Starvation (ANNA Remix)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 3.566433,
   ownProgress: 3.566433,

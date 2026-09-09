@@ -5,7 +5,7 @@ export const gravityFalls = {
   pageTypeSlug: "show",
   slug: "gravity-falls",
   title: "Gravity Falls",
-  partOfCollectionSlugs: ["family-friendly-shows"],
+  partOfCollections: ["family-friendly-shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

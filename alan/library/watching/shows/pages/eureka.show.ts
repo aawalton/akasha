@@ -5,7 +5,7 @@ export const eureka = {
   pageTypeSlug: "show",
   slug: "eureka",
   title: "Eureka",
-  partOfCollectionSlugs: ["speculative-antholoagies"],
+  partOfCollections: ["speculative-antholoagies"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

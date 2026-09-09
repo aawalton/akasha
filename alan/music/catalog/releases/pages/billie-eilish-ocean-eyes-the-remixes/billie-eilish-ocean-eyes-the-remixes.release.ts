@@ -5,7 +5,7 @@ export const billieEilishOceanEyesTheRemixes = {
   pageTypeSlug: "release",
   slug: "billie-eilish-ocean-eyes-the-remixes",
   title: "Ocean Eyes (The Remixes)",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 14.941083,
   ownProgress: 14.941083,

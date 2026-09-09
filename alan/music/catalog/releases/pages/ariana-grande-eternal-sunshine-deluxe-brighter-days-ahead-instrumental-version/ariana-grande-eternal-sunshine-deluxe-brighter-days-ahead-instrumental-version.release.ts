@@ -5,7 +5,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   pageTypeSlug: "release",
   slug: "ariana-grande-eternal-sunshine-deluxe-brighter-days-ahead-instrumental-version",
   title: "eternal sunshine deluxe: brighter days ahead (instrumental version)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 110.89475,
   ownProgress: 110.89475,

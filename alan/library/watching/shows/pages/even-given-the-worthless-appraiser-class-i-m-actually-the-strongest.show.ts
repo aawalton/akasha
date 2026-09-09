@@ -5,7 +5,7 @@ export const evenGivenTheWorthlessAppraiserClassIMActuallyTheStrongest = {
   pageTypeSlug: "show",
   slug: "even-given-the-worthless-appraiser-class-i-m-actually-the-strongest",
   title: 'Even Given the Worthless "Appraiser" Class, I\'m Actually the Strongest',
-  partOfCollectionSlugs: ["anime-shows"],
+  partOfCollections: ["anime-shows"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

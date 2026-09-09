@@ -5,7 +5,7 @@ export const jessicaJones = {
   pageTypeSlug: "show",
   slug: "jessica-jones",
   title: "Jessica Jones",
-  partOfCollectionSlugs: ["marvel-television"],
+  partOfCollections: ["marvel-television"],
   position: 4,
   ownLength: 0,
   ownProgress: 0,

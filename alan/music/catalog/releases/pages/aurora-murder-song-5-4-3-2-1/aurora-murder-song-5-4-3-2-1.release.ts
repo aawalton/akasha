@@ -5,7 +5,7 @@ export const auroraMurderSong54321 = {
   pageTypeSlug: "release",
   slug: "aurora-murder-song-5-4-3-2-1",
   title: "Murder Song (5, 4, 3, 2, 1)",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 6.9842,
   ownProgress: 6.9842,

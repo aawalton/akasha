@@ -5,7 +5,7 @@ export const babylon5 = {
   pageTypeSlug: "show",
   slug: "babylon-5",
   title: "Babylon 5",
-  partOfCollectionSlugs: ["babylon-5-2"],
+  partOfCollections: ["babylon-5-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

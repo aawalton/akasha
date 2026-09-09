@@ -5,7 +5,7 @@ export const alexWarrenEternity2 = {
   pageTypeSlug: "release",
   slug: "alex-warren-eternity-2",
   title: "Eternity",
-  partOfCollectionSlugs: ["alex-warren"],
+  partOfCollections: ["alex-warren"],
   position: 0,
   ownLength: 3.159217,
   ownProgress: 3.159217,

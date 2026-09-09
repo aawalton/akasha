@@ -5,7 +5,7 @@ export const billieEilishHappierThanEverEdit = {
   pageTypeSlug: "release",
   slug: "billie-eilish-happier-than-ever-edit",
   title: "Happier Than Ever (Edit)",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 2.524067,
   ownProgress: 2.524067,

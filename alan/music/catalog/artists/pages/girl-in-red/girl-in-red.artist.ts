@@ -5,7 +5,7 @@ export const girlInRed = {
   pageTypeSlug: "artist",
   slug: "girl-in-red",
   title: "girl in red",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const celticWoman22020thAnniversary = {
   pageTypeSlug: "release",
   slug: "celtic-woman-2-20-20th-anniversary",
   title: "20 (20th Anniversary)",
-  partOfCollectionSlugs: ["celtic-woman-2"],
+  partOfCollections: ["celtic-woman-2"],
   position: 0,
   ownLength: 68.69635,
   ownProgress: 68.69635,

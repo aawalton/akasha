@@ -5,7 +5,7 @@ export const byuVocalPointThePrayer = {
   pageTypeSlug: "release",
   slug: "byu-vocal-point-the-prayer",
   title: "The Prayer",
-  partOfCollectionSlugs: ["byu-vocal-point"],
+  partOfCollections: ["byu-vocal-point"],
   position: 0,
   ownLength: 4.4968,
   ownProgress: 0,

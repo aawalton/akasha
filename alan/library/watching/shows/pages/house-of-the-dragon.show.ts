@@ -5,7 +5,7 @@ export const houseOfTheDragon = {
   pageTypeSlug: "show",
   slug: "house-of-the-dragon",
   title: "House of the Dragon",
-  partOfCollectionSlugs: ["game-of-thrones-2"],
+  partOfCollections: ["game-of-thrones-2"],
   position: 2,
   ownLength: 0,
   ownProgress: 0,

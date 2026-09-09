@@ -5,7 +5,7 @@ export const adele = {
   pageTypeSlug: "artist",
   slug: "adele",
   title: "Adele",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const arianaGrandeTwilightZone = {
   pageTypeSlug: "release",
   slug: "ariana-grande-twilight-zone",
   title: "twilight zone",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 9.638217,
   ownProgress: 9.638217,

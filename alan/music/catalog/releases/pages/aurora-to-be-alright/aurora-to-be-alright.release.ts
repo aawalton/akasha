@@ -5,7 +5,7 @@ export const auroraToBeAlright = {
   pageTypeSlug: "release",
   slug: "aurora-to-be-alright",
   title: "To Be Alright",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 15.651317,
   ownProgress: 15.651317,

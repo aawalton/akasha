@@ -5,7 +5,7 @@ export const nsync2 = {
   pageTypeSlug: "artist",
   slug: "nsync-2",
   title: "*NSYNC",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

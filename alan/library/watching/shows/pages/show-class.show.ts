@@ -5,7 +5,7 @@ export const showClass = {
   pageTypeSlug: "show",
   slug: "show-class",
   title: "Class",
-  partOfCollectionSlugs: ["doctor-who"],
+  partOfCollections: ["doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

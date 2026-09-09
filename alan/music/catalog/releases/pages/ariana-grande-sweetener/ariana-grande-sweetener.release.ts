@@ -5,7 +5,7 @@ export const arianaGrandeSweetener = {
   pageTypeSlug: "release",
   slug: "ariana-grande-sweetener",
   title: "Sweetener",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 47.531017,
   ownProgress: 47.531017,

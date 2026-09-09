@@ -5,7 +5,7 @@ export const florenceTheMachine = {
   pageTypeSlug: "artist",
   slug: "florence-the-machine",
   title: "Florence + The Machine",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const arianaGrandeSideToSideRemixes = {
   pageTypeSlug: "release",
   slug: "ariana-grande-side-to-side-remixes",
   title: "Side To Side (Remixes)",
-  partOfCollectionSlugs: ["ariana-grande"],
+  partOfCollections: ["ariana-grande"],
   position: 0,
   ownLength: 7.65,
   ownProgress: 7.65,

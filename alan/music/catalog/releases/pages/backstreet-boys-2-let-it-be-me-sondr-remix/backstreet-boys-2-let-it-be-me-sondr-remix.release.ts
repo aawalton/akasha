@@ -5,7 +5,7 @@ export const backstreetBoys2LetItBeMeSondrRemix = {
   pageTypeSlug: "release",
   slug: "backstreet-boys-2-let-it-be-me-sondr-remix",
   title: "Let It Be Me (Sondr Remix)",
-  partOfCollectionSlugs: ["backstreet-boys-2"],
+  partOfCollections: ["backstreet-boys-2"],
   position: 0,
   ownLength: 3.089417,
   ownProgress: 3.089417,

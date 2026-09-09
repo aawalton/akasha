@@ -5,7 +5,7 @@ export const auroraCureForMe = {
   pageTypeSlug: "release",
   slug: "aurora-cure-for-me",
   title: "Cure For Me",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 15.900883,
   ownProgress: 15.900883,

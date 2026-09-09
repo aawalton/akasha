@@ -5,7 +5,7 @@ export const auroraThankU = {
   pageTypeSlug: "release",
   slug: "aurora-thank-u",
   title: "Thank U",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 4.046217,
   ownProgress: 4.046217,

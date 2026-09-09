@@ -5,7 +5,7 @@ export const billieEilishGuitarSongs = {
   pageTypeSlug: "release",
   slug: "billie-eilish-guitar-songs",
   title: "Guitar Songs",
-  partOfCollectionSlugs: ["billie-eilish"],
+  partOfCollections: ["billie-eilish"],
   position: 0,
   ownLength: 8.297133,
   ownProgress: 8.297133,

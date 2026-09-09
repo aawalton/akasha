@@ -5,7 +5,7 @@ export const auroraMusicForTheFellowWitchesOutThere = {
   pageTypeSlug: "release",
   slug: "aurora-music-for-the-fellow-witches-out-there",
   title: "MUSIC FOR THE FELLOW WITCHES OUT THERE",
-  partOfCollectionSlugs: ["aurora"],
+  partOfCollections: ["aurora"],
   position: 0,
   ownLength: 26.361183,
   ownProgress: 26.361183,

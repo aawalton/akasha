@@ -5,7 +5,7 @@ export const talesOfTheTardis = {
   pageTypeSlug: "show",
   slug: "tales-of-the-tardis",
   title: "Tales of the TARDIS",
-  partOfCollectionSlugs: ["doctor-who"],
+  partOfCollections: ["doctor-who"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,
