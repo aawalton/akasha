@@ -15,10 +15,6 @@ export const scriptsOnly = {
     },
     {
       invariantKind: "departure",
-      statement: "A script has a file of its own.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Each script has a folder to itself.",
     },
     {
