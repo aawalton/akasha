@@ -1,5 +1,8 @@
 import { put } from "@akasha/testing-system/putting"
-import { agoOf, HOUR } from "../check-measuring/check-measuring.module.test-fixtures.ts"
+import {
+  agoOf,
+  HOUR,
+} from "../../../../modules/check-measuring/check-measuring.module.test-fixtures.ts"
 
 export const ONE = "01a08071-39a4-7000-9c6b-6cee59d30c10"
 
