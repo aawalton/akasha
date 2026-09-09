@@ -7,7 +7,7 @@ export const interestModulator = {
   slug: "interest-modulator",
   title: "Interest modulator",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

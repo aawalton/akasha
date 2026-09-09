@@ -9,7 +9,7 @@ export const timePerception = {
   sectionOf: "all-about-alan",
   description:
     "Time perception — Alan's experience of time, mechanism hypotheses tracing it to aphantasia, and the lived consequence of felt agelessness.",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -9,7 +9,7 @@ export const rankingCriterion = {
   sectionOf: "all-about-alan",
   description:
     "Risk-adjusted exposure as the ranking criterion — criticality × enshittification likelihood × switching cost. High on all three is top priority; low on any one drops the item down the queue.",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

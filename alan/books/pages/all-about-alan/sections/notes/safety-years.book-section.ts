@@ -7,7 +7,7 @@ export const safetyYears = {
   slug: "safety-years",
   title: "Safety Years",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -9,7 +9,7 @@ export const autismComorbidities = {
   sectionOf: "all-about-alan",
   description:
     "Autism comorbidities — mechanism hypothesis (regulatory-NS protein-pathway changes broaden NS-disorder risk) and Alan's triaged profile.",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

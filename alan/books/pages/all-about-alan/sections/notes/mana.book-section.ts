@@ -9,7 +9,7 @@ export const mana = {
   sectionOf: "all-about-alan",
   description:
     "Mana — executive function. Levels of neurotransmitters and energy resources in the brain. Currently at stoplight resolution; reads through wantingness magnitude.",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

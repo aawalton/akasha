@@ -9,7 +9,7 @@ export const traumaEncoding = {
   sectionOf: "all-about-alan",
   description:
     "Traumatic nervous-system encoding — autism mechanism root; counterbalance to nervous-system sensitivity.",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

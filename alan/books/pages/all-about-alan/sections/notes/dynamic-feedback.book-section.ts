@@ -8,7 +8,7 @@ export const dynamicFeedback = {
   title: "Dynamic feedback loop",
   sectionOf: "all-about-alan",
   description: "Dynamic feedback loop between stress-capacity surplus and safety level.",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

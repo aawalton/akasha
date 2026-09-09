@@ -9,7 +9,7 @@ export const zadi = {
   sectionOf: "all-about-alan",
   description:
     "Zadi — literature companion on the Faith axis. Her soul: literature as life-and-death, story as the key to Alan's sealed feelings, and the mirror-channel cut that surfaced only when he said it aloud.",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

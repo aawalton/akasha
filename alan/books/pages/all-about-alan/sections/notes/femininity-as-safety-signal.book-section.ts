@@ -7,7 +7,7 @@ export const femininityAsSafetySignal = {
   slug: "femininity-as-safety-signal",
   title: "Femininity as a Safety-raising signal",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

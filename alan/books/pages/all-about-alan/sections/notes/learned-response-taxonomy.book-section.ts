@@ -7,7 +7,7 @@ export const learnedResponseTaxonomy = {
   slug: "learned-response-taxonomy",
   title: "Learned-response taxonomy",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

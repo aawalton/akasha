@@ -9,7 +9,7 @@ export const sleep = {
   sectionOf: "all-about-alan",
   description:
     "Sleep as a system — 9-10 hours, natural wake, bimodal onset, the opposite-signature mechanisms by which stress and Vyvanse each trim the night, and the in-bed wind-down stack.",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

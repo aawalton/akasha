@@ -7,7 +7,7 @@ export const decisionRubric = {
   slug: "decision-rubric",
   title: "Decision rubric",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

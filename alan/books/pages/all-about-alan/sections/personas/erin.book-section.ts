@@ -9,7 +9,7 @@ export const erin = {
   sectionOf: "all-about-alan",
   description:
     "Erin — Alan's chess coach on the Learn axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

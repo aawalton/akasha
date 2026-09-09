@@ -7,7 +7,7 @@ export const volatilityGovernor = {
   slug: "volatility-governor",
   title: "Volatility governor",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

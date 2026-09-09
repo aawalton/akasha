@@ -7,7 +7,7 @@ export const iris = {
   slug: "iris",
   title: "Iris",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/personas"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

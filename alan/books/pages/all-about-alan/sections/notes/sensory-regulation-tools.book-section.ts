@@ -7,7 +7,7 @@ export const sensoryRegulationTools = {
   slug: "sensory-regulation-tools",
   title: "Sensory-regulation tools",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

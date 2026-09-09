@@ -9,7 +9,7 @@ export const stressCapacityFormula = {
   sectionOf: "all-about-alan",
   description:
     "Stress-capacity cost formula — difficulty levels, multiplier table, anchor unit, cost base tiers.",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

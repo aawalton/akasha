@@ -7,7 +7,7 @@ export const doneManifesto = {
   slug: "done-manifesto",
   title: "The Done Manifesto",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

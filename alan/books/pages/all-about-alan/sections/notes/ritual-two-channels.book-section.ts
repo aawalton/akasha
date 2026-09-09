@@ -7,7 +7,7 @@ export const ritualTwoChannels = {
   slug: "ritual-two-channels",
   title: "Ritual's two power channels",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

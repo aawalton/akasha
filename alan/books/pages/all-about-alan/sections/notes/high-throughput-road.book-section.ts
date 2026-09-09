@@ -7,7 +7,7 @@ export const highThroughputRoad = {
   slug: "high-throughput-road",
   title: "The high-throughput road",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

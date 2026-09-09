@@ -7,7 +7,7 @@ export const operatingModeArchitecture = {
   slug: "operating-mode-architecture",
   title: "Operating-mode architecture",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

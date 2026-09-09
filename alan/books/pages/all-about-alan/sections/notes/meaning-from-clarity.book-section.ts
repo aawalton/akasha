@@ -7,7 +7,7 @@ export const meaningFromClarity = {
   slug: "meaning-from-clarity",
   title: "Meaning from clarity",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

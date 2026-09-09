@@ -9,7 +9,7 @@ export const specialInterests = {
   sectionOf: "all-about-alan",
   description:
     'Special interests — sustained deep interests via "same context, novel content"; the autism × ADHD intersection.',
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection

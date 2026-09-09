@@ -7,7 +7,7 @@ export const bedrock = {
   slug: "bedrock",
   title: "The bedrock — Freedom and Self-Improvement, one welded root",
   sectionOf: "all-about-alan",
-  partOfCollections: ["all-about-alan"],
+  partOfCollections: ["all-about-alan", "book-section/all-about-alan/notes"],
   unit: "words",
   chapterText: "md",
 } as const satisfies BookSection
