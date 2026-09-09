@@ -62,7 +62,6 @@ export const folderShape = {
     "folder-shape/scripts-only",
     "folder-shape/single-entrance",
     "folder-shape/the-workspace-root",
-    "folder-shape/pages-with-their-files-beside-them",
   ],
   extends: ["page-type/module"],
   loadedBy: "code-check/folder-matches-a-shape",
