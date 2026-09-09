@@ -12,6 +12,14 @@ export const renamePageSlug = {
   test: "ts",
   invariants: [
     {
+      invariantKind: "constraint",
+      statement: "A slug past the hundred characters a page's slug holds is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rename composes no page, so that length is bounded here as well.",
+    },
+    {
       invariantKind: "departure",
       statement: "A rung this change reaches reads the splices this change answers.",
     },

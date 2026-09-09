@@ -121,6 +121,20 @@ test("a name that is no slug is refused", async () => {
   )
 })
 
+test("a name past the length a page's slug holds is refused", async () => {
+  const past = `kept-${"a".repeat(96)}`
+  expect(past.length).toBe(101)
+  expect(await whyOf(PAGE, past, holding(WHOLE))).toBe(
+    `\`${past}\` runs to 101 characters, past the 100 a page's slug holds`
+  )
+})
+
+test("a name at that length is refused for nothing to do with its length", async () => {
+  const at = `kept-${"a".repeat(95)}`
+  expect(at.length).toBe(100)
+  expect(await whyOf(PAGE, at, holding(WHOLE))).toContain("so no slug was restated")
+})
+
 test("the slug it already carries is refused", async () => {
   expect(await whyOf(PAGE, HELD_SLUG, holding(WHOLE))).toBe(
     `\`${HELD_SLUG}\` is the slug it already carries`

@@ -1,5 +1,6 @@
 import { parsedAs } from "@akasha/code/code-source"
 import type { Named } from "@akasha/indexes"
+import { STEM_CEILING } from "@akasha/named-for/page-stem"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import ts from "typescript"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
@@ -145,6 +146,11 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
   }
   if (!KEBAB.test(given.to)) {
     return refusing(`\`${given.to}\` is no slug, a slug being lower kebab case`)
+  }
+  if (given.to.length > STEM_CEILING) {
+    return refusing(
+      `\`${given.to}\` runs to ${given.to.length} characters, past the ${STEM_CEILING} a page's slug holds`
+    )
   }
   if (given.to === slug.text) return refusing(`\`${given.to}\` is the slug it already carries`)
   const reached = reachOf(world, id.text, pageType.text)
