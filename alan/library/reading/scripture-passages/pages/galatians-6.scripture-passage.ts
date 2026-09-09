@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../scripture-passage.page-type.ts"
 
 export const galatians6 = {
   id: "01a06804-11ad-700f-983f-5d9fcc425774",
