@@ -1,5 +1,5 @@
 import type { ComfyGraph } from "@akasha/comfy/comfy-graph"
-import type { ModelSpec } from "../zimage-models/zimage-models.module.code.ts"
+import type { ModelSpec } from "../models/zimage-models.module.code.ts"
 
 export const ZIMAGE_DEFAULT_WIDTH = 1024
 export const ZIMAGE_DEFAULT_HEIGHT = 1024

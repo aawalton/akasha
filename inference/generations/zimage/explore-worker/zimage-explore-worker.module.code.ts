@@ -16,10 +16,10 @@ import {
   homeOf,
   renderedIn,
   submitted,
-} from "../zimage-explore-batch/zimage-explore-batch.module.code.ts"
-import { buildModelGraph } from "../zimage-graph/zimage-graph.module.code.ts"
-import type { ModelSpec } from "../zimage-models/zimage-models.module.code.ts"
-import { MODELS, toModelId } from "../zimage-models/zimage-models.module.code.ts"
+} from "../explore-batch/zimage-explore-batch.module.code.ts"
+import { buildModelGraph } from "../graph/zimage-graph.module.code.ts"
+import type { ModelSpec } from "../models/zimage-models.module.code.ts"
+import { MODELS, toModelId } from "../models/zimage-models.module.code.ts"
 
 const IDLE_POLL_MS = 2000
 
