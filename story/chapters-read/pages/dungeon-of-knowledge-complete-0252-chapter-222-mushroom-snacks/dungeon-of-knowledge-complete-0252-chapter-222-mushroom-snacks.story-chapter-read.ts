@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0252Chapter222MushroomSnacks = {
   id: "01a0672c-ebd1-7006-8861-0dfc9bd6c151",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0252-chapter-222-mushroom-snacks",
   title: "Chapter 222: Mushroom Snacks",
   story: "dungeon-of-knowledge-complete",

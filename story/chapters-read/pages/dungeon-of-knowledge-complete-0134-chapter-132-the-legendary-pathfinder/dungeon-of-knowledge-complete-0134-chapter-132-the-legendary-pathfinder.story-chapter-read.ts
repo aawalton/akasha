@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0134Chapter132TheLegendaryPathfinder = {
   id: "01a0672c-eb85-7000-89ba-da1b34ccf2dd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0134-chapter-132-the-legendary-pathfinder",
   title: "Chapter 132: The Legendary Pathfinder",
   story: "dungeon-of-knowledge-complete",

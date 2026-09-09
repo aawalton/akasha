@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0335Chapter299TheMonkSPath = {
   id: "01a0672c-ebe7-7000-948a-e0b61e7bfa0a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0335-chapter-299-the-monk-s-path",
   title: "Chapter 299: The Monk’s Path",
   story: "dungeon-of-knowledge-complete",

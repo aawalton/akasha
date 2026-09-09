@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0107Chapter106ANecromancerSDeception = {
   id: "01a0672c-eb71-7000-99a3-77cf8508987d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0107-chapter-106-a-necromancer-s-deception",
   title: "Chapter 106: A Necromancer’s Deception",
   story: "dungeon-of-knowledge-complete",

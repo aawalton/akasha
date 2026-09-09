@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0265Chapter233InstantaneousStep = {
   id: "01a0672c-ebd8-7000-a267-280e3b21ed0b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0265-chapter-233-instantaneous-step",
   title: "Chapter 233: Instantaneous Step",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0060Chapter60ThuliSDream = {
   id: "01a0672c-eb4a-7000-a68d-b53c95a90159",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0060-chapter-60-thuli-s-dream",
   title: "Chapter 60: Thuli’s Dream",
   story: "dungeon-of-knowledge-complete",

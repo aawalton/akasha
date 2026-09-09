@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0395Chapter358MayorAidenTurner = {
   id: "01a0672c-ebf9-7002-9fcf-4042527cc40b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0395-chapter-358-mayor-aiden-turner",
   title: "Chapter 358: Mayor Aiden Turner",
   story: "dungeon-of-knowledge-complete",

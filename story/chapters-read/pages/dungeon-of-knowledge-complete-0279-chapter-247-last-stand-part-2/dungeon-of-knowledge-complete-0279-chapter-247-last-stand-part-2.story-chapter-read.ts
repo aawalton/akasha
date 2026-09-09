@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0279Chapter247LastStandPart2 = {
   id: "01a0672c-ebdb-7002-a474-6b6c3343850a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0279-chapter-247-last-stand-part-2",
   title: "Chapter 247: Last Stand (Part 2)",
   story: "dungeon-of-knowledge-complete",

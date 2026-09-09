@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0059Chapter59AChatWithVivianRoss = {
   id: "01a0672c-eb49-7000-bab7-6e6a23596fc2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0059-chapter-59-a-chat-with-vivian-ross",
   title: "Chapter 59: A Chat with Vivian Ross",
   story: "dungeon-of-knowledge-complete",

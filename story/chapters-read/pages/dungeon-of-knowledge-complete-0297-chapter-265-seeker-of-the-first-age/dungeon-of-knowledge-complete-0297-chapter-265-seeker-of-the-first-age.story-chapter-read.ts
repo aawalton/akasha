@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0297Chapter265SeekerOfTheFirstAge = {
   id: "01a0672c-ebdf-7000-8dfd-92e4fa8ad778",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0297-chapter-265-seeker-of-the-first-age",
   title: "Chapter 265: Seeker of the First Age",
   story: "dungeon-of-knowledge-complete",

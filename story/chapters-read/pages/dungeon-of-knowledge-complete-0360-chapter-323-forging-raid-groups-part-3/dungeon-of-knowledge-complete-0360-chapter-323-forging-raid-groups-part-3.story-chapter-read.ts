@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0360Chapter323ForgingRaidGroupsPart3 = {
   id: "01a0672c-ebf0-7001-a8f4-1ced7caeb885",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0360-chapter-323-forging-raid-groups-part-3",
   title: "Chapter 323: Forging Raid Groups (Part 3)",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0039Chapter39AccidentsHappen = {
   id: "01a0672c-eb39-7000-8d60-716e21f11827",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0039-chapter-39-accidents-happen",
   title: "Chapter 39: Accidents Happen",
   story: "dungeon-of-knowledge-complete",

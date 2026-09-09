@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0128Chapter126TheTreeSBalance = {
   id: "01a0672c-eb81-7001-b79d-25746b1da83e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0128-chapter-126-the-tree-s-balance",
   title: "Chapter 126: The Tree’s Balance",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0011Chapter11RatRedux = {
   id: "01a0672c-eb1b-7000-be85-3739310ed2e7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0011-chapter-11-rat-redux",
   title: "Chapter 11: Rat Redux",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0291Chapter259TolBrekkAndTheTempleOfBloodPart2 = {
   id: "01a0672c-ebdd-7004-82d9-fba39c485973",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0291-chapter-259-tol-brekk-and-the-temple-of-blood-part-2",
   title: "Chapter 259: Tol’brekk and the Temple of Blood (Part 2)",
   story: "dungeon-of-knowledge-complete",

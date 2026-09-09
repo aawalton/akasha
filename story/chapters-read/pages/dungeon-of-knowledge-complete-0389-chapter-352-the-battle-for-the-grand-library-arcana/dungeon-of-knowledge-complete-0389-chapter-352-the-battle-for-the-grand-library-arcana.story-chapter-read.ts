@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0389Chapter352TheBattleForTheGrandLibraryArcana = {
   id: "01a0672c-ebf7-7005-99ef-57681f2ac181",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0389-chapter-352-the-battle-for-the-grand-library-arcana",
   title: "Chapter 352: The Battle for the Grand Library Arcana",
   story: "dungeon-of-knowledge-complete",

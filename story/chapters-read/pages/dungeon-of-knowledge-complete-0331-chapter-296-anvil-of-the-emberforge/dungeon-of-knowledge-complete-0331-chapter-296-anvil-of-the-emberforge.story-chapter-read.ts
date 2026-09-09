@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0331Chapter296AnvilOfTheEmberforge = {
   id: "01a0672c-ebe6-7002-9e12-095d1acca5ff",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0331-chapter-296-anvil-of-the-emberforge",
   title: "Chapter 296: Anvil of the Emberforge",
   story: "dungeon-of-knowledge-complete",

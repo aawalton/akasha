@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0401Chapter364ReturnToAmanRak = {
   id: "01a0672c-ebff-7000-b528-6c585fea8905",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0401-chapter-364-return-to-aman-rak",
   title: "Chapter 364: Return to Aman Rak",
   story: "dungeon-of-knowledge-complete",

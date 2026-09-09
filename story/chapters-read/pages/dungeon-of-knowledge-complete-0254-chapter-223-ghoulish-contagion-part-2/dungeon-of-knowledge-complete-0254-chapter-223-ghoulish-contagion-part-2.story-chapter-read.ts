@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0254Chapter223GhoulishContagionPart2 = {
   id: "01a0672c-ebd2-7001-b4ab-9c8340600f0c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0254-chapter-223-ghoulish-contagion-part-2",
   title: "Chapter 223: Ghoulish Contagion (Part 2)",
   story: "dungeon-of-knowledge-complete",

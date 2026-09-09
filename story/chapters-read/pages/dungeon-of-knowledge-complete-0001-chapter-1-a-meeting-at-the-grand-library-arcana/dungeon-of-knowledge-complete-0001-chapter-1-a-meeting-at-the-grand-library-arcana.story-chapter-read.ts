@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0001Chapter1AMeetingAtTheGrandLibraryArcana = {
   id: "01a0672c-eb04-7000-8075-7470cf6cb498",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0001-chapter-1-a-meeting-at-the-grand-library-arcana",
   title: "Chapter 1: A Meeting at the Grand Library Arcana",
   story: "dungeon-of-knowledge-complete",

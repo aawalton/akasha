@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0044Chapter44TheGoblinHorde = {
   id: "01a0672c-eb3d-7000-8eaa-dd2f826070f4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0044-chapter-44-the-goblin-horde",
   title: "Chapter 44: The Goblin Horde",
   story: "dungeon-of-knowledge-complete",

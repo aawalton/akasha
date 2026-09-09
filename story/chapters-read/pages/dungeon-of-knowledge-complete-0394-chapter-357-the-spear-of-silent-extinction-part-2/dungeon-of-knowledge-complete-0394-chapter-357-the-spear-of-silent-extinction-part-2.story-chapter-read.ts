@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0394Chapter357TheSpearOfSilentExtinctionPart2 = {
   id: "01a0672c-ebf9-7001-b650-cb41c0953278",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0394-chapter-357-the-spear-of-silent-extinction-part-2",
   title: "Chapter 357: The Spear of Silent Extinction (Part 2)",
   story: "dungeon-of-knowledge-complete",

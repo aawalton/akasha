@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0124Chapter123AMeetingAtTheShrine = {
   id: "01a0672c-eb7d-7000-9bdc-d97d6bfa5145",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0124-chapter-123-a-meeting-at-the-shrine",
   title: "Chapter 123: A Meeting at the Shrine",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0043Chapter43ThePowerOfACrazyIdea = {
   id: "01a0672c-eb3c-7000-b36a-4c201a8d450d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0043-chapter-43-the-power-of-a-crazy-idea",
   title: "Chapter 43: The Power of a Crazy Idea",
   story: "dungeon-of-knowledge-complete",

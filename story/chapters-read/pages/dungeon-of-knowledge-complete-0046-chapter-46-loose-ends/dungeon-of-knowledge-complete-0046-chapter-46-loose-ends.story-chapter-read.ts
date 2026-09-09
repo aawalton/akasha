@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0046Chapter46LooseEnds = {
   id: "01a0672c-eb3f-7000-a82e-547aa6403766",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0046-chapter-46-loose-ends",
   title: "Chapter 46: Loose Ends",
   story: "dungeon-of-knowledge-complete",

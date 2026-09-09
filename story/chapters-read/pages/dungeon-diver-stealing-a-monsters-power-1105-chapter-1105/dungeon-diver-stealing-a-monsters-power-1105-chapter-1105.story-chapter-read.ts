@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonDiverStealingAMonstersPower1105Chapter1105 = {
   id: "01a0672b-4536-7015-a21f-ce4d762a0f4c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-diver-stealing-a-monsters-power-1105-chapter-1105",
   title: "Chapter 1105",
   story: "dungeon-diver-stealing-a-monsters-power",

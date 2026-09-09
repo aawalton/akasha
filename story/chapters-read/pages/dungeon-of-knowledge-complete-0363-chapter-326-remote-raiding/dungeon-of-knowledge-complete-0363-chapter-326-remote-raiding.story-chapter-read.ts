@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0363Chapter326RemoteRaiding = {
   id: "01a0672c-ebf1-7002-96fe-1b28d091785c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0363-chapter-326-remote-raiding",
   title: "Chapter 326: Remote Raiding",
   story: "dungeon-of-knowledge-complete",

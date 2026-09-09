@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0080Chapter80StunBat = {
   id: "01a0672c-eb5c-7001-90a5-fdddc4585883",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0080-chapter-80-stun-bat",
   title: "Chapter 80: Stun Bat",
   story: "dungeon-of-knowledge-complete",

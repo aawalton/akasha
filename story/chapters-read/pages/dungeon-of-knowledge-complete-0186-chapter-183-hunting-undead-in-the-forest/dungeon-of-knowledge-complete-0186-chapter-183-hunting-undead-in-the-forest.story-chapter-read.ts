@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0186Chapter183HuntingUndeadInTheForest = {
   id: "01a0672c-ebb9-7000-953a-020a6ead3e60",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0186-chapter-183-hunting-undead-in-the-forest",
   title: "Chapter 183: Hunting Undead in the Forest",
   story: "dungeon-of-knowledge-complete",

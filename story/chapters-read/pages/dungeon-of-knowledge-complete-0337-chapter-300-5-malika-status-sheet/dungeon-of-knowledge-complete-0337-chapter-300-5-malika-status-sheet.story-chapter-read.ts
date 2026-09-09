@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0337Chapter3005MalikaStatusSheet = {
   id: "01a0672c-ebe7-7002-9009-3fbc906d4dc6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0337-chapter-300-5-malika-status-sheet",
   title: "Chapter 300.5: Malika - Status Sheet ",
   story: "dungeon-of-knowledge-complete",

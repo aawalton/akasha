@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0341Chapter304TheArchmageSChoice = {
   id: "01a0672c-ebe8-7002-8239-b313b51d45e7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0341-chapter-304-the-archmage-s-choice",
   title: "Chapter 304: The Archmage’s Choice",
   story: "dungeon-of-knowledge-complete",

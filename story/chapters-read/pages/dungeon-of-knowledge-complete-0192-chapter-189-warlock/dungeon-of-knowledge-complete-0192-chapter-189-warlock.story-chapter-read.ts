@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0192Chapter189Warlock = {
   id: "01a0672c-ebbe-7000-b861-14fe999281ae",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0192-chapter-189-warlock",
   title: "Chapter 189: Warlock",
   story: "dungeon-of-knowledge-complete",

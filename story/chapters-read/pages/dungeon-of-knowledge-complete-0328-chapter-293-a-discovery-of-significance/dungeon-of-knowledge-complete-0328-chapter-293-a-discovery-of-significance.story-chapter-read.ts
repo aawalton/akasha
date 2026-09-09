@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0328Chapter293ADiscoveryOfSignificance = {
   id: "01a0672c-ebe5-7003-8e08-93d0af9a0231",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0328-chapter-293-a-discovery-of-significance",
   title: "Chapter 293: A Discovery of Significance",
   story: "dungeon-of-knowledge-complete",

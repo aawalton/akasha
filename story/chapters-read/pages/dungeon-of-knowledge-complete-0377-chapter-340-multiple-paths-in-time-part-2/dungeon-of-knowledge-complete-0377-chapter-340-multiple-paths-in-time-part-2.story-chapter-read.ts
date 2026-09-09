@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0377Chapter340MultiplePathsInTimePart2 = {
   id: "01a0672c-ebf5-7000-af00-92f035f5d843",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0377-chapter-340-multiple-paths-in-time-part-2",
   title: "Chapter 340: Multiple Paths in Time (Part 2)",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0372Chapter335CurseProliferation = {
   id: "01a0672c-ebf3-7002-a054-bbf6a8fac306",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0372-chapter-335-curse-proliferation",
   title: "Chapter 335: Curse Proliferation",
   story: "dungeon-of-knowledge-complete",

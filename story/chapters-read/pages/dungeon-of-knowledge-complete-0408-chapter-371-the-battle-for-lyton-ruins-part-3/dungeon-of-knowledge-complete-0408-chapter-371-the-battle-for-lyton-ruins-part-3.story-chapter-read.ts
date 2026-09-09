@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0408Chapter371TheBattleForLytonRuinsPart3 = {
   id: "01a0672c-ec00-7002-a006-29aeeb1bcddc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0408-chapter-371-the-battle-for-lyton-ruins-part-3",
   title: "Chapter 371: The Battle for Lyton Ruins (Part 3)",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0270Chapter238MokFrejaIceQueenPart2 = {
   id: "01a0672c-ebd9-7002-913a-d6d2e34a3a1d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0270-chapter-238-mok-freja-ice-queen-part-2",
   title: "Chapter 238: Mok’freja, Ice Queen (Part 2)",
   story: "dungeon-of-knowledge-complete",

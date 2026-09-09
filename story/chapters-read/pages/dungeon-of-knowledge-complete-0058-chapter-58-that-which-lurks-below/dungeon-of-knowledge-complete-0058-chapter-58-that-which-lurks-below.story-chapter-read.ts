@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0058Chapter58ThatWhichLurksBelow = {
   id: "01a0672c-eb48-7001-a6c6-af92e40ad2d2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0058-chapter-58-that-which-lurks-below",
   title: "Chapter 58: That Which Lurks Below",
   story: "dungeon-of-knowledge-complete",

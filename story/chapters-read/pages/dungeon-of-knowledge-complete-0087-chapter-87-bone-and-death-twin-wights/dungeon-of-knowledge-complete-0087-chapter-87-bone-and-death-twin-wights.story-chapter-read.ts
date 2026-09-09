@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0087Chapter87BoneAndDeathTwinWights = {
   id: "01a0672c-eb61-7000-a26d-99082e909e93",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0087-chapter-87-bone-and-death-twin-wights",
   title: "Chapter 87: Bone and Death: Twin Wights",
   story: "dungeon-of-knowledge-complete",

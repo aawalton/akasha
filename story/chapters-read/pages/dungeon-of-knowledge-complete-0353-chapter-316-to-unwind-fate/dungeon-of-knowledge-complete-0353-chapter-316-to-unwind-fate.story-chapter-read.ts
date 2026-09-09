@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0353Chapter316ToUnwindFate = {
   id: "01a0672c-ebee-7001-b349-8339d1ba9727",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0353-chapter-316-to-unwind-fate",
   title: "Chapter 316: To Unwind Fate",
   story: "dungeon-of-knowledge-complete",

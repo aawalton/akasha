@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0344Chapter307TheAshesOfCiradyl = {
   id: "01a0672c-ebeb-7000-95d1-146eeac1384c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0344-chapter-307-the-ashes-of-ciradyl",
   title: "Chapter 307: The Ashes of Ciradyl",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0410Chapter373AnAbominationOfBone = {
   id: "01a0672c-ec00-7004-ad4e-c8a5fa95be07",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0410-chapter-373-an-abomination-of-bone",
   title: "Chapter 373: An Abomination of Bone",
   story: "dungeon-of-knowledge-complete",

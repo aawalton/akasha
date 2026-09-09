@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0219Chapter207MartialInsightPart1 = {
   id: "01a0672c-ebcb-7006-a883-c6c0870ce179",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0219-chapter-207-martial-insight-part-1",
   title: "Chapter 207: Martial Insight (Part 1)",
   story: "dungeon-of-knowledge-complete",

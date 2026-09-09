@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0405Chapter368ACrazyPlan = {
   id: "01a0672c-ebff-7004-b5a1-cc7c48df2c96",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0405-chapter-368-a-crazy-plan",
   title: "Chapter 368: A Crazy Plan",
   story: "dungeon-of-knowledge-complete",

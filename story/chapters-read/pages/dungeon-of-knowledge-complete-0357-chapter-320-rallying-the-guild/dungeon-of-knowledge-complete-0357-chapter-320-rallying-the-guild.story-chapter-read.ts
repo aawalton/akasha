@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0357Chapter320RallyingTheGuild = {
   id: "01a0672c-ebef-7000-b6d6-4f56e5ec8e65",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0357-chapter-320-rallying-the-guild",
   title: "Chapter 320: Rallying the Guild",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0229Chapter212TheTempleOfAmanRakPart1 = {
   id: "01a0672c-ebcf-7000-bb2a-3e778bece22e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0229-chapter-212-the-temple-of-aman-rak-part-1",
   title: "Chapter 212: The Temple of Aman Rak (Part 1)",
   story: "dungeon-of-knowledge-complete",

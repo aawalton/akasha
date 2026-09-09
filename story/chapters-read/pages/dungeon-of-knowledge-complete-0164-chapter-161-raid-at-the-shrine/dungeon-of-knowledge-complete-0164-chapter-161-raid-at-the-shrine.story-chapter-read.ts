@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0164Chapter161RaidAtTheShrine = {
   id: "01a0672c-eba5-7000-8c54-d0fa763101e8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0164-chapter-161-raid-at-the-shrine",
   title: "Chapter 161: Raid at the Shrine",
   story: "dungeon-of-knowledge-complete",

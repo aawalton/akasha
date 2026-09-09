@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0245Chapter218ALessonInNecromancyPart2 = {
   id: "01a0672c-ebd0-7005-b8d4-da500aeb0012",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0245-chapter-218-a-lesson-in-necromancy-part-2",
   title: "Chapter 218: A Lesson in Necromancy (Part 2)",
   story: "dungeon-of-knowledge-complete",

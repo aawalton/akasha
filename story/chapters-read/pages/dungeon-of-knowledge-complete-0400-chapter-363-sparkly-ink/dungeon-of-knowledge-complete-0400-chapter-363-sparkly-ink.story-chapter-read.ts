@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0400Chapter363SparklyInk = {
   id: "01a0672c-ebfe-7002-a06c-f6cd4f7a7468",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0400-chapter-363-sparkly-ink",
   title: "Chapter 363: Sparkly Ink",
   story: "dungeon-of-knowledge-complete",

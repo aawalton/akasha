@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0240Chapter216KirMoganPart3 = {
   id: "01a0672c-ebd0-7000-ac51-2cef2d63692a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0240-chapter-216-kir-mogan-part-3",
   title: "Chapter 216: Kir’mogan (Part 3)",
   story: "dungeon-of-knowledge-complete",

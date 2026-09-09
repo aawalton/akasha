@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0264Chapter232TheTelimGorDelegation = {
   id: "01a0672c-ebd7-7002-a7ef-5e3df1574ff2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0264-chapter-232-the-telim-gor-delegation",
   title: "Chapter 232: The Telim Gor Delegation",
   story: "dungeon-of-knowledge-complete",

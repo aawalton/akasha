@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0141Chapter139DeathMagic = {
   id: "01a0672c-eb8d-7000-8bc6-505a73ed49d1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0141-chapter-139-death-magic",
   title: "Chapter 139: Death Magic",
   story: "dungeon-of-knowledge-complete",

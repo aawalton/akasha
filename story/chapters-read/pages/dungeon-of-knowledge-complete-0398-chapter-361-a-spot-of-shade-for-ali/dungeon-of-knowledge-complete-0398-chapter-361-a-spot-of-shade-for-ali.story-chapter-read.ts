@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0398Chapter361ASpotOfShadeForAli = {
   id: "01a0672c-ebfe-7000-bfe9-c0dfee0e978e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0398-chapter-361-a-spot-of-shade-for-ali",
   title: "Chapter 361: A Spot of Shade for Ali",
   story: "dungeon-of-knowledge-complete",

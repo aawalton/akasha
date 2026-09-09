@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0336Chapter300EyesOfTheSoul = {
   id: "01a0672c-ebe7-7001-b459-1d3614bbe8ab",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0336-chapter-300-eyes-of-the-soul",
   title: "Chapter 300: Eyes of the Soul",
   story: "dungeon-of-knowledge-complete",

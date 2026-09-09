@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0190Chapter187ABeaconOfLight = {
   id: "01a0672c-ebbc-7001-adc2-8c979a602797",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0190-chapter-187-a-beacon-of-light",
   title: "Chapter 187: A Beacon of Light",
   story: "dungeon-of-knowledge-complete",

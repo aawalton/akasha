@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0024Chapter24LibraryOfBone = {
   id: "01a0672c-eb27-7000-94d9-5540c6ffbe89",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0024-chapter-24-library-of-bone",
   title: "Chapter 24: Library of Bone",
   story: "dungeon-of-knowledge-complete",

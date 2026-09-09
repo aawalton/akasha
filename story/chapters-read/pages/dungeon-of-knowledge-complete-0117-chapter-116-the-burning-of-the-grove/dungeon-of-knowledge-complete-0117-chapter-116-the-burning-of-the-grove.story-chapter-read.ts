@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0117Chapter116TheBurningOfTheGrove = {
   id: "01a0672c-eb78-7000-af58-14f1961614c9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0117-chapter-116-the-burning-of-the-grove",
   title: "Chapter 116: The Burning of the Grove",
   story: "dungeon-of-knowledge-complete",

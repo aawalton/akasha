@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0283Chapter251TheSpecterOfAGuardian = {
   id: "01a0672c-ebdc-7002-bfc5-858f01485ac7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0283-chapter-251-the-specter-of-a-guardian",
   title: "Chapter 251: The Specter of a Guardian",
   story: "dungeon-of-knowledge-complete",

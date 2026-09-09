@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0147Chapter145FromTheBrinkOfDeath = {
   id: "01a0672c-eb92-7000-acbd-93a148ff788e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0147-chapter-145-from-the-brink-of-death",
   title: "Chapter 145: From the Brink of Death",
   story: "dungeon-of-knowledge-complete",

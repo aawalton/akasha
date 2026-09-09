@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0092Chapter91VivianSDecision = {
   id: "01a0672c-eb64-7001-903c-2fca31c4c24d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0092-chapter-91-vivian-s-decision",
   title: "Chapter 91: Vivian’s Decision",
   story: "dungeon-of-knowledge-complete",

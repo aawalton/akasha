@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0285Chapter253BloodBerserkerPart2 = {
   id: "01a0672c-ebdc-7004-87ac-d21f2c128368",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0285-chapter-253-blood-berserker-part-2",
   title: "Chapter 253: Blood Berserker (Part 2)",
   story: "dungeon-of-knowledge-complete",

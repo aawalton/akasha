@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0382Chapter345TheInfiniteMaze = {
   id: "01a0672c-ebf6-7003-bc7c-0e6beb087e0f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0382-chapter-345-the-infinite-maze",
   title: "Chapter 345: The Infinite Maze",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0330Chapter295ADeftTwistOfMana = {
   id: "01a0672c-ebe6-7001-9eb0-3f82e8fbe1ca",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0330-chapter-295-a-deft-twist-of-mana",
   title: "Chapter 295: A Deft Twist of Mana",
   story: "dungeon-of-knowledge-complete",

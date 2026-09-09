@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0298Chapter266AbundantHealing = {
   id: "01a0672c-ebdf-7001-84bf-d6b3b03de840",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0298-chapter-266-abundant-healing",
   title: "Chapter 266: Abundant Healing",
   story: "dungeon-of-knowledge-complete",

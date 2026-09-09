@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0379Chapter342KingsAndEmperorsPart2 = {
   id: "01a0672c-ebf6-7000-a1f1-c1a29daaafd9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0379-chapter-342-kings-and-emperors-part-2",
   title: "Chapter 342: Kings and Emperors (Part 2)",
   story: "dungeon-of-knowledge-complete",

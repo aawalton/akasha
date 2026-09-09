@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0351Chapter314TrainingInTheArena = {
   id: "01a0672c-ebed-7002-a66f-fbb124a60c21",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0351-chapter-314-training-in-the-arena",
   title: "Chapter 314: Training in the Arena",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0386Chapter349LegendaryMagic = {
   id: "01a0672c-ebf7-7002-b864-70c1b4c1a385",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0386-chapter-349-legendary-magic",
   title: "Chapter 349: Legendary Magic",
   story: "dungeon-of-knowledge-complete",

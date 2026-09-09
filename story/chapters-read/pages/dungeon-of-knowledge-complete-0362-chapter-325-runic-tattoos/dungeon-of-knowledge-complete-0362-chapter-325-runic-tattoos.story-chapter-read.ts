@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0362Chapter325RunicTattoos = {
   id: "01a0672c-ebf1-7001-9dc2-443e137a46eb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0362-chapter-325-runic-tattoos",
   title: "Chapter 325: Runic Tattoos",
   story: "dungeon-of-knowledge-complete",

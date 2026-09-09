@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0375Chapter338ArcaneAndSpace = {
   id: "01a0672c-ebf4-7000-8e3a-dce98f0b7f50",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0375-chapter-338-arcane-and-space",
   title: "Chapter 338: Arcane and Space",
   story: "dungeon-of-knowledge-complete",

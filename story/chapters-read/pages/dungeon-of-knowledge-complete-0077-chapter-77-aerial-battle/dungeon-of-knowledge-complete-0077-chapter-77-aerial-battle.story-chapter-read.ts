@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0077Chapter77AerialBattle = {
   id: "01a0672c-eb5a-7001-8883-f8b48dffd907",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0077-chapter-77-aerial-battle",
   title: "Chapter 77: Aerial Battle",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0208Chapter201ThePhoenixAgain = {
   id: "01a0672c-ebc9-7002-b0fd-1ea72f1e7698",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0208-chapter-201-the-phoenix-again",
   title: "Chapter 201: The Phoenix, Again",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0051Chapter51TheRuinsOfDalMohra = {
   id: "01a0672c-eb43-7001-80ea-3e828d3561b2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0051-chapter-51-the-ruins-of-dal-mohra",
   title: "Chapter 51: The Ruins of Dal’mohra",
   story: "dungeon-of-knowledge-complete",

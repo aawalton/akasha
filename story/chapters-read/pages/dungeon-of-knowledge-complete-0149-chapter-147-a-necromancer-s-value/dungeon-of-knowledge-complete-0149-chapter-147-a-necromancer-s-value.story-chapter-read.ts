@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0149Chapter147ANecromancerSValue = {
   id: "01a0672c-eb94-7000-8122-8a743ceb048a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0149-chapter-147-a-necromancer-s-value",
   title: "Chapter 147: A Necromancer’s Value",
   story: "dungeon-of-knowledge-complete",

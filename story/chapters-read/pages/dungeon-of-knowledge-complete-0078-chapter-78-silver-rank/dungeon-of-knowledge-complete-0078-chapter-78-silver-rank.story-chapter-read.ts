@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0078Chapter78SilverRank = {
   id: "01a0672c-eb5b-7000-a917-fdc88ddd1421",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0078-chapter-78-silver-rank",
   title: "Chapter 78: Silver Rank",
   story: "dungeon-of-knowledge-complete",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0273Chapter241TempleOfIcePart2 = {
   id: "01a0672c-ebd9-7005-8379-9d5f249a5b83",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0273-chapter-241-temple-of-ice-part-2",
   title: "Chapter 241: Temple of Ice (Part 2)",
   story: "dungeon-of-knowledge-complete",

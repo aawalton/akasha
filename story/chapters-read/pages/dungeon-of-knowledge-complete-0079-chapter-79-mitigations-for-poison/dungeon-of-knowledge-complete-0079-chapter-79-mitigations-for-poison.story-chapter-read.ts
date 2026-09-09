@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0079Chapter79MitigationsForPoison = {
   id: "01a0672c-eb5c-7000-9b4d-6056709dca55",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0079-chapter-79-mitigations-for-poison",
   title: "Chapter 79: Mitigations for Poison",
   story: "dungeon-of-knowledge-complete",

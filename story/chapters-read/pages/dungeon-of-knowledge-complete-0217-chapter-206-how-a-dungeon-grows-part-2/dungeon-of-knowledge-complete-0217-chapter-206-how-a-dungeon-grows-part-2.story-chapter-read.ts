@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0217Chapter206HowADungeonGrowsPart2 = {
   id: "01a0672c-ebcb-7004-ba0d-422dae019eaa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0217-chapter-206-how-a-dungeon-grows-part-2",
   title: "Chapter 206: How a Dungeon Grows (Part 2)",
   story: "dungeon-of-knowledge-complete",

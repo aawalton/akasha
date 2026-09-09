@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0213Chapter204DungeonsKill2Of2 = {
   id: "01a0672c-ebcb-7000-896a-feb6be738440",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0213-chapter-204-dungeons-kill-2-of-2",
   title: "Chapter 204: Dungeons Kill (2 of 2)",
   story: "dungeon-of-knowledge-complete",

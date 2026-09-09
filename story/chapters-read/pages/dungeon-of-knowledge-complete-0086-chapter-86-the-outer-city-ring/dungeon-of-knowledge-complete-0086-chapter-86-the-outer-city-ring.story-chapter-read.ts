@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0086Chapter86TheOuterCityRing = {
   id: "01a0672c-eb60-7001-ab1b-a82b91d22918",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0086-chapter-86-the-outer-city-ring",
   title: "Chapter 86: The Outer City Ring",
   story: "dungeon-of-knowledge-complete",

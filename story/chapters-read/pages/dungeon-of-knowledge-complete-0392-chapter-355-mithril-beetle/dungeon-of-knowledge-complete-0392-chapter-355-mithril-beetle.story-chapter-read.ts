@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const dungeonOfKnowledgeComplete0392Chapter355MithrilBeetle = {
   id: "01a0672c-ebf8-7002-9525-a8f868300ab9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0392-chapter-355-mithril-beetle",
   title: "Chapter 355: Mithril Beetle",
   story: "dungeon-of-knowledge-complete",
