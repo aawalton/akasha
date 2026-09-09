@@ -42,7 +42,7 @@ const MORTAL_TYPE = bodyOf({
   id: idOf("d"),
   pageTypeSlug: "page-type",
   slug: "spark",
-  extendsSlug: ["page-type/domain"],
+  extends: ["page-type/domain"],
   mortal: true,
 })
 

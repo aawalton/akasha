@@ -24,7 +24,7 @@ function aType(seed: string, slug: string, pluralSlug: string): string {
     pageTypeSlug: "page-type",
     slug,
     definition: "a page type naming many of its own pages",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
     pluralSlug,
   })
 }

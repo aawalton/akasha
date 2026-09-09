@@ -34,7 +34,7 @@ const TYPE = bodyOf({
   id: idOf("e"),
   pageTypeSlug: "page-type",
   slug: "kept",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
 })
 
 const PAGE = pageOf({ id: idOf("f"), pageTypeSlug: "kept", slug: "one" })
