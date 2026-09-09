@@ -7,7 +7,7 @@ export const arkendrithyst0108EricksStatusNotAChapter = {
   story: "story-read/arkendrithyst",
   position: 108,
   publishedAt: "2020-05-28",
-  unitSlug: "words",
+  unit: "words",
   externalId: "502323",
   source: "royal-road",
   title: "Erick's Status (not a chapter)",

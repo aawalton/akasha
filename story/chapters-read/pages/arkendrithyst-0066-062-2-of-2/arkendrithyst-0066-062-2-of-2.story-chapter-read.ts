@@ -9,7 +9,7 @@ export const arkendrithyst00660622Of2 = {
   position: 66,
   ownLength: 6506,
   ownProgress: 6506,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:08:50.849Z",
   publishedAt: "2019-12-26",
   externalLink: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/438454/062-2-of-2",

@@ -7,7 +7,7 @@ export const arkendrithyst017712022EndOfBook4 = {
   story: "story-read/arkendrithyst",
   position: 177,
   publishedAt: "2021-02-03",
-  unitSlug: "words",
+  unit: "words",
   externalId: "625174",
   source: "royal-road",
   title: "120, 2/2, End of Book 4",

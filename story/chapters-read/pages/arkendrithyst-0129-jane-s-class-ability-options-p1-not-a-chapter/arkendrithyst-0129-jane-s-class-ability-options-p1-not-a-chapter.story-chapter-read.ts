@@ -9,7 +9,7 @@ export const arkendrithyst0129JaneSClassAbilityOptionsP1NotAChapter = {
   position: 129,
   ownLength: 1140,
   ownProgress: 1140,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:00.017Z",
   publishedAt: "2020-08-13",
   externalLink:

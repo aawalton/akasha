@@ -9,7 +9,7 @@ export const arkendrithyst0181FanartAndMaps = {
   position: 181,
   ownLength: 137,
   ownProgress: 137,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:13:01.861Z",
   publishedAt: "2021-02-22",
   externalLink:

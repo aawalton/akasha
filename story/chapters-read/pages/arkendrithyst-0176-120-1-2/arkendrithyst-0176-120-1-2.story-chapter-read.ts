@@ -9,7 +9,7 @@ export const arkendrithyst017612012 = {
   position: 176,
   ownLength: 13858,
   ownProgress: 13858,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:12:49.503Z",
   publishedAt: "2021-02-01",
   externalLink: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/623393/120-12",

@@ -7,7 +7,7 @@ export const arkendrithyst015711012MapOfArkendrithyst = {
   story: "story-read/arkendrithyst",
   position: 157,
   publishedAt: "2020-11-23",
-  unitSlug: "words",
+  unit: "words",
   externalId: "589202",
   source: "royal-road",
   title: "110, 1/2 + map of Ar'Kendrithyst",

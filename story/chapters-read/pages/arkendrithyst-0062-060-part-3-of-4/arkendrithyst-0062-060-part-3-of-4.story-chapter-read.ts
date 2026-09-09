@@ -9,7 +9,7 @@ export const arkendrithyst0062060Part3Of4 = {
   position: 62,
   ownLength: 4307,
   ownProgress: 4307,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:08:40.575Z",
   publishedAt: "2019-12-11",
   externalLink:

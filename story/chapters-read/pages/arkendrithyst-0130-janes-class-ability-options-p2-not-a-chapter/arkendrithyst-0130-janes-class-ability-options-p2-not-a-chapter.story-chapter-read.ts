@@ -7,7 +7,7 @@ export const arkendrithyst0130JanesClassAbilityOptionsP2NotAChapter = {
   story: "story-read/arkendrithyst",
   position: 130,
   publishedAt: "2020-08-13",
-  unitSlug: "words",
+  unit: "words",
   externalId: "538305",
   source: "royal-road",
   title: "Jane's Class Ability Options p2 (not a chapter)",

@@ -9,7 +9,7 @@ export const arkendrithyst0098079 = {
   position: 98,
   ownLength: 13143,
   ownProgress: 13143,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:10:04.337Z",
   publishedAt: "2020-04-20",
   externalLink: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/484843/079",

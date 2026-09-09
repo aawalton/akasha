@@ -9,7 +9,7 @@ export const arkendrithyst0273169Jane12 = {
   position: 273,
   ownLength: 11780,
   ownProgress: 11780,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:16:45.940Z",
   publishedAt: "2022-01-09",
   externalLink: "https://www.royalroad.com/fiction/26727/arkendrithyst/chapter/821402/169-jane-12",

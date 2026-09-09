@@ -9,7 +9,7 @@ export const arkendrithyst0108ErickSStatusNotAChapter = {
   position: 108,
   ownLength: 3804,
   ownProgress: 3804,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:10:26.509Z",
   publishedAt: "2020-05-28",
   externalLink:

@@ -9,7 +9,7 @@ export const arkendrithyst015711012MapOfArKendrithyst = {
   position: 157,
   ownLength: 8046,
   ownProgress: 8046,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:12:05.555Z",
   publishedAt: "2020-11-23",
   externalLink:

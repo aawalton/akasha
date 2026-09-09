@@ -7,7 +7,7 @@ export const arkendrithyst024615522EndOfBook5 = {
   story: "story-read/arkendrithyst",
   position: 246,
   publishedAt: "2021-10-06",
-  unitSlug: "words",
+  unit: "words",
   externalId: "762735",
   source: "royal-road",
   title: "155, 2/2, End of Book 5",

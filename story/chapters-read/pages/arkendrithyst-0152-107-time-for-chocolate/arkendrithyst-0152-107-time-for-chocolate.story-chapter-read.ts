@@ -9,7 +9,7 @@ export const arkendrithyst0152107TimeForChocolate = {
   position: 152,
   ownLength: 16218,
   ownProgress: 16218,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:11:54.017Z",
   publishedAt: "2020-11-02",
   externalLink:

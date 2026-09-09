@@ -9,7 +9,7 @@ export const arkendrithyst010008112StartOfBook4 = {
   position: 100,
   ownLength: 9912,
   ownProgress: 9912,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:10:08.971Z",
   publishedAt: "2020-05-04",
   externalLink:
