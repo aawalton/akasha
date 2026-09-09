@@ -21,7 +21,9 @@ const HOLDS = "addonManifest"
 
 const CALLED = "addonName"
 
-const REACHES = "esoAddonSlug"
+const REACHES = "esoAddon"
+
+const REACHES_BEFORE = "esoAddonSlug"
 
 const NOTHING_MANIFESTED =
   "the index files held addon pages and not one addon manifest reads, so nothing here says " +
@@ -68,7 +70,7 @@ export function heldIn(asking: Asking): readonly Held[] {
     const value = asking.valueAt(path)
     if (value === null) continue
     const named = textAt(value, CALLED)
-    const slug = textAt(value, REACHES)
+    const slug = textAt(value, REACHES) ?? textAt(value, REACHES_BEFORE)
     if (named === null || slug === null) continue
     found.push({ path, named, folder: asking.folderOf(ADDON, slug) })
   }
