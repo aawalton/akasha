@@ -73,7 +73,16 @@ export const removePackageManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest naming a dependency outside `dependencies` is refused.",
+      statement:
+        "A dependency named as a peer or as optional is stated by the root among its dependencies.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dependency named for development is stated by the root among its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A fold into a package that is not the root is refused a development dependency.",
     },
     {
       invariantKind: "departure",

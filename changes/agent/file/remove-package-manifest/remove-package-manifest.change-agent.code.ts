@@ -29,6 +29,10 @@ const EXPORTS = "exports"
 
 const DEPENDENCIES = "dependencies"
 
+const DEV_DEPENDENCIES = "devDependencies"
+
+const RUNTIME = ["dependencies", "peerDependencies", "optionalDependencies"]
+
 const OPENING = "./"
 
 const ITSELF = "."
@@ -54,10 +58,15 @@ type Rooted = {
   readonly was: string
   readonly to: string
   readonly under: string
-  readonly asked: readonly Pair[]
+  readonly asked: Asking
 }
 
 export type Pair = readonly [string, string]
+
+export type Asking = {
+  readonly runtime: readonly Pair[]
+  readonly dev: readonly Pair[]
+}
 
 export function aboveIn(world: World, at: string): string | null {
   let folder = dirname(dirname(at))
@@ -132,11 +141,15 @@ function namesIn(text: string): ReadonlySet<string> {
   return found
 }
 
-function dependingIn(held: Record<string, unknown>): readonly Pair[] | null {
+export function dependingIn(held: Record<string, unknown>): Asking | null {
   for (const field of HOLDING) {
-    if (field !== DEPENDENCIES && held[field] !== undefined) return null
+    const said = held[field]
+    if (said === undefined) continue
+    if (said === null || typeof said !== "object" || Array.isArray(said)) return null
   }
-  return pairsIn(held, DEPENDENCIES)
+  const runtime: Pair[] = []
+  for (const field of RUNTIME) runtime.push(...pairsIn(held, field))
+  return { runtime, dev: pairsIn(held, DEV_DEPENDENCIES) }
 }
 
 function objectSplice(source: ts.JsonSourceFile, key: string, put: string): Splice | null {
@@ -238,7 +251,7 @@ function reachEdits(world: World, was: string, spelling: Spelling): readonly Fil
 function rootEdits(
   over: string,
   overText: string,
-  asked: readonly Pair[],
+  asked: Asking,
   was: string
 ): readonly FileChange[] | string {
   const held = objectIn(overText)
@@ -246,14 +259,22 @@ function rootEdits(
     return `\`${over}\` reads as no JSON object, ${UNFOLDED}`
   }
   const named = namesIn(overText)
-  const adding = asked.filter(([one]) => one !== was && !named.has(one))
-  const had = pairsIn(held, DEPENDENCIES)
-  const kept = had.filter(([one]) => one !== was)
-  if (adding.length === 0 && kept.length === had.length) return []
   const source = ts.parseJsonText(over, overText)
-  const at = objectSplice(source, DEPENDENCIES, objectPut([...kept, ...adding]))
-  if (at === null) return `\`${over}\` states no \`${DEPENDENCIES}\` of its own, ${UNFOLDED}`
-  return splicing(over, overText, [at])
+  const spots: Splice[] = []
+  const fields: readonly (readonly [string, readonly Pair[]])[] = [
+    [DEPENDENCIES, asked.runtime],
+    [DEV_DEPENDENCIES, asked.dev],
+  ]
+  for (const [field, pairs] of fields) {
+    const had = pairsIn(held, field)
+    const adding = pairs.filter(([one]) => one !== was && !named.has(one))
+    const kept = had.filter(([one]) => one !== was)
+    if (adding.length === 0 && kept.length === had.length) continue
+    const at = objectSplice(source, field, objectPut([...kept, ...adding]))
+    if (at === null) return `\`${over}\` states no \`${field}\` of its own, ${UNFOLDED}`
+    spots.push(at)
+  }
+  return splicing(over, overText, inOrder(spots))
 }
 
 function rootedFold(world: World, at: string, given: Rooted): Said {
@@ -287,16 +308,19 @@ export function removePackageManifest(world: World, given: RemovePackageManifest
   const under = relative(dirname(over), dirname(given.at))
   const asked = dependingIn(held)
   if (asked === null) {
-    return refusing(`\`${given.at}\` names a dependency outside \`${DEPENDENCIES}\`, ${UNFOLDED}`)
+    return refusing(`\`${given.at}\` states a dependency field that is no object, ${UNFOLDED}`)
   }
   if (over === MANIFEST) {
     return rootedFold(world, given.at, { over, overText, held, was, to, under, asked })
+  }
+  if (asked.dev.length > 0) {
+    return refusing(`\`${given.at}\` names a dependency under \`${DEV_DEPENDENCIES}\`, ${UNFOLDED}`)
   }
   const ways = waysIn(held, under)
   if (ways === null) {
     return refusing(`\`${given.at}\` states its ways in as no object of paths, ${UNFOLDED}`)
   }
-  const first = overEdits(over, overText, ways, asked, was, to)
+  const first = overEdits(over, overText, ways, asked.runtime, was, to)
   if (typeof first === "string") return refusing(first)
   const edits: FileChange[] = [...first, { kind: "remove", path: given.at }]
   edits.push(...aliasEdits(world, given.at, over, was, to))
