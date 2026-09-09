@@ -5,7 +5,7 @@ export const savageDivinity0854Epilogue5LiSong = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0854-epilogue-5-li-song",
   title: "Epilogue 5: Li Song",
-  storySlug: "savage-divinity",
+  story: "savage-divinity",
   position: 854,
   ownLength: 7108,
   unitSlug: "words",

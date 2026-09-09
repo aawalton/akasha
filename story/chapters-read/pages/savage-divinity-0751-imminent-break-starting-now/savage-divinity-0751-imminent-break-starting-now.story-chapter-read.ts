@@ -5,7 +5,7 @@ export const savageDivinity0751ImminentBreakStartingNow = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0751-imminent-break-starting-now",
   title: "Imminent Break starting now.",
-  storySlug: "savage-divinity",
+  story: "savage-divinity",
   position: 751,
   ownLength: 350,
   unitSlug: "words",

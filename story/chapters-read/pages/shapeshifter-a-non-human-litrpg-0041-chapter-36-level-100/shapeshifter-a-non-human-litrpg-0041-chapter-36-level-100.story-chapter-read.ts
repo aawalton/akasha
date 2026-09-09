@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0041Chapter36Level100 = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0041-chapter-36-level-100",
   title: "Chapter 36: Level 100",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 41,
   ownLength: 2155,
   unitSlug: "words",

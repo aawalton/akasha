@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0016Chapter12CanopyStalker = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0016-chapter-12-canopy-stalker",
   title: "Chapter 12: Canopy Stalker",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 16,
   ownLength: 1785,
   unitSlug: "words",

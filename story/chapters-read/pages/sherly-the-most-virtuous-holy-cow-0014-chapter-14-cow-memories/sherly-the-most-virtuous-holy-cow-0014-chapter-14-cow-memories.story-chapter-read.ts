@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0014Chapter14CowMemories = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0014-chapter-14-cow-memories",
   title: "Chapter 14 - Cow Memories",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 14,
   ownLength: 2273,
   unitSlug: "words",

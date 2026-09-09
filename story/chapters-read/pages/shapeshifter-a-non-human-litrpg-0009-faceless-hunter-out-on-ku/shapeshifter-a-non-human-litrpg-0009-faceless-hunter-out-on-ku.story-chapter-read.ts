@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0009FacelessHunterOutOnKu = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0009-faceless-hunter-out-on-ku",
   title: "Faceless Hunter out on KU!",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 9,
   ownLength: 214,
   unitSlug: "words",

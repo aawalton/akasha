@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0020Chapter20CowsArmorAndSword = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0020-chapter-20-cows-armor-and-sword",
   title: "Chapter 20 - Cow’s Armor and Sword",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 20,
   ownLength: 2021,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0029Chapter25LevelingParadise = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0029-chapter-25-leveling-paradise",
   title: "Chapter 25: Leveling Paradise",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 29,
   ownLength: 2194,
   unitSlug: "words",

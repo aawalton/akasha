@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0003Chapter3CowHatesDemonCattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0003-chapter-3-cow-hates-demon-cattle",
   title: "Chapter 3 - Cow Hates Demon-Cattle",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 3,
   ownLength: 2340,
   unitSlug: "words",

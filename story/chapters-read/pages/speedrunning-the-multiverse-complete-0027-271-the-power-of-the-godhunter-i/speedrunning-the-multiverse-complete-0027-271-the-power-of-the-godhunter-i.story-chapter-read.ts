@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0027271ThePowerOfTheGodhunterI = {
   pageTypeSlug: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0027-271-the-power-of-the-godhunter-i",
   title: "271. The Power of the Godhunter (I) ",
-  storySlug: "speedrunning-the-multiverse-complete",
+  story: "speedrunning-the-multiverse-complete",
   position: 27,
   ownLength: 1847,
   unitSlug: "words",

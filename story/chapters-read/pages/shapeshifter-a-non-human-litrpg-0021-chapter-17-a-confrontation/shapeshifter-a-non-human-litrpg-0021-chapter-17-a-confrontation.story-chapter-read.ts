@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0021Chapter17AConfrontation = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0021-chapter-17-a-confrontation",
   title: "Chapter 17: A Confrontation",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 21,
   ownLength: 2098,
   unitSlug: "words",

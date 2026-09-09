@@ -4,7 +4,7 @@ export const shapeshifterANonHumanLitrpg0044Chapter39StatDifference = {
   id: "01a080e7-1bd4-7603-b868-a4b5f3735b84",
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0044-chapter-39-stat-difference",
-  storySlug: "story-read/shapeshifter-a-non-human-litrpg",
+  story: "story-read/shapeshifter-a-non-human-litrpg",
   position: 44,
   publishedAt: "2026-09-08",
   unitSlug: "words",

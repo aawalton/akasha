@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0011Chapter7ElfHealer = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0011-chapter-7-elf-healer",
   title: "Chapter 7: Elf Healer",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 11,
   ownLength: 2267,
   unitSlug: "words",

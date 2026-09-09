@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0018Chapter18CowReadsBetweenTheLines = 
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0018-chapter-18-cow-reads-between-the-lines",
   title: "Chapter 18 - Cow Reads Between The Lines",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 18,
   ownLength: 2037,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete00011TimeStartsNow = {
   pageTypeSlug: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0001-1-time-starts-now",
   title: "1. Time Starts Now",
-  storySlug: "speedrunning-the-multiverse-complete",
+  story: "speedrunning-the-multiverse-complete",
   position: 1,
   ownLength: 2759,
   unitSlug: "words",

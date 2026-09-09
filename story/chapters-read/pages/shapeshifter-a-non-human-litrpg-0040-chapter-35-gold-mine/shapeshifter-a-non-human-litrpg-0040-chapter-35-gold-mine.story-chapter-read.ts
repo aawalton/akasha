@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0040Chapter35GoldMine = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0040-chapter-35-gold-mine",
   title: "Chapter 35: Gold Mine",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 40,
   ownLength: 1909,
   unitSlug: "words",

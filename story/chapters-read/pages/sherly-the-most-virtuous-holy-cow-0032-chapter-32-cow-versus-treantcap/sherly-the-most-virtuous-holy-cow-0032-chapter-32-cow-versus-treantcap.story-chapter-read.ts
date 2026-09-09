@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0032Chapter32CowVersusTreantcap = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0032-chapter-32-cow-versus-treantcap",
   title: "Chapter 32 - Cow Versus Treantcap",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 32,
   ownLength: 1907,
   unitSlug: "words",

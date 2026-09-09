@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0015Chapter11BackIntoTheDungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0015-chapter-11-back-into-the-dungeon",
   title: "Chapter 11: Back into the Dungeon",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 15,
   ownLength: 1997,
   unitSlug: "words",

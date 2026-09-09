@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete00022Plan = {
   pageTypeSlug: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0002-2-plan",
   title: "2. Plan",
-  storySlug: "speedrunning-the-multiverse-complete",
+  story: "speedrunning-the-multiverse-complete",
   position: 2,
   ownLength: 2325,
   unitSlug: "words",

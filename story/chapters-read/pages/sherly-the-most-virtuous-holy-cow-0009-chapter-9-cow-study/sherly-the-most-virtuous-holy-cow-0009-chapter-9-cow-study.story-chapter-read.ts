@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0009Chapter9CowStudy = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0009-chapter-9-cow-study",
   title: "Chapter 9 - Cow Study",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 9,
   ownLength: 2053,
   unitSlug: "words",

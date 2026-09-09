@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0013Chapter13CowMayCry = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0013-chapter-13-cow-may-cry",
   title: "Chapter 13 - Cow May Cry",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 13,
   ownLength: 2122,
   unitSlug: "words",

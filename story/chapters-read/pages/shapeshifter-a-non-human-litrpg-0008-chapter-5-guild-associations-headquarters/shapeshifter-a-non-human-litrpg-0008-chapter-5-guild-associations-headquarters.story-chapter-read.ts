@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0008Chapter5GuildAssociationsHeadquarter
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0008-chapter-5-guild-associations-headquarters",
   title: "Chapter 5: Guild Association's Headquarters",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 8,
   ownLength: 1510,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0023Chapter23CowsNewDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0023-chapter-23-cows-new-day",
   title: "Chapter 23 - Cow’s New Day",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 23,
   ownLength: 2153,
   unitSlug: "words",

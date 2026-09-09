@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0006Chapter3ImAGirlNowSoWhat = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0006-chapter-3-im-a-girl-now-so-what",
   title: "Chapter 3: I'm a girl now, so what?",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 6,
   ownLength: 1951,
   unitSlug: "words",

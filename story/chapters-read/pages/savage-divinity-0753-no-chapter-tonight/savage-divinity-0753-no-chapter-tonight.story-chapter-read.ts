@@ -5,7 +5,7 @@ export const savageDivinity0753NoChapterTonight = {
   pageTypeSlug: "story-chapter-read",
   slug: "savage-divinity-0753-no-chapter-tonight",
   title: "No chapter tonight",
-  storySlug: "savage-divinity",
+  story: "savage-divinity",
   position: 753,
   ownLength: 105,
   unitSlug: "words",

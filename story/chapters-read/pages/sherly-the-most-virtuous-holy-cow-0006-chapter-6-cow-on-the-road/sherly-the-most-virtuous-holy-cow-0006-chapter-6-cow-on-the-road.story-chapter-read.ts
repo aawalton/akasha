@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0006Chapter6CowOnTheRoad = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0006-chapter-6-cow-on-the-road",
   title: "Chapter 6 - Cow on the Road",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 6,
   ownLength: 2813,
   unitSlug: "words",

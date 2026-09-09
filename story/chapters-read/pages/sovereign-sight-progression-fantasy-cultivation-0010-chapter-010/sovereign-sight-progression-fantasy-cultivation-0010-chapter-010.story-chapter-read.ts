@@ -5,7 +5,7 @@ export const sovereignSightProgressionFantasyCultivation0010Chapter010 = {
   pageTypeSlug: "story-chapter-read",
   slug: "sovereign-sight-progression-fantasy-cultivation-0010-chapter-010",
   title: "Chapter 010",
-  storySlug: "sovereign-sight-progression-fantasy-cultivation",
+  story: "sovereign-sight-progression-fantasy-cultivation",
   position: 10,
   ownLength: 2234,
   unitSlug: "words",

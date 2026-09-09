@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0008Chapter8CowInTheNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0008-chapter-8-cow-in-the-night",
   title: "Chapter 8 - Cow in the Night",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 8,
   ownLength: 1930,
   unitSlug: "words",

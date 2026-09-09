@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0007Chapter7CowAndTheFirstTown = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0007-chapter-7-cow-and-the-first-town",
   title: "Chapter 7 - Cow and the First Town",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 7,
   ownLength: 2210,
   unitSlug: "words",

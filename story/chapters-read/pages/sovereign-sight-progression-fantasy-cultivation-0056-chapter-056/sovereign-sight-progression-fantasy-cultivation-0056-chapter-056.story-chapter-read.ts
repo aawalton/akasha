@@ -4,7 +4,7 @@ export const sovereignSightProgressionFantasyCultivation0056Chapter056 = {
   id: "01a07252-32ef-7551-adeb-8e75abd9187f",
   pageTypeSlug: "story-chapter-read",
   slug: "sovereign-sight-progression-fantasy-cultivation-0056-chapter-056",
-  storySlug: "story-read/sovereign-sight-progression-fantasy-cultivation",
+  story: "story-read/sovereign-sight-progression-fantasy-cultivation",
   position: 56,
   publishedAt: "2026-09-04",
   unitSlug: "words",

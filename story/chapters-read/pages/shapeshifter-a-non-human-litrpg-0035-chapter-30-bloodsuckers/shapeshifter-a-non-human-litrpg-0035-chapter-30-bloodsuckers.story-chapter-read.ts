@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0035Chapter30Bloodsuckers = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0035-chapter-30-bloodsuckers",
   title: "Chapter 30: Bloodsuckers",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 35,
   ownLength: 2008,
   unitSlug: "words",

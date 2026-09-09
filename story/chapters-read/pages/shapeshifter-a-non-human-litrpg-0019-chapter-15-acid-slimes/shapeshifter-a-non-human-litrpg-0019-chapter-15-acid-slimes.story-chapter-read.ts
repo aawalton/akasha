@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0019Chapter15AcidSlimes = {
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0019-chapter-15-acid-slimes",
   title: "Chapter 15: Acid Slimes",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 19,
   ownLength: 1971,
   unitSlug: "words",

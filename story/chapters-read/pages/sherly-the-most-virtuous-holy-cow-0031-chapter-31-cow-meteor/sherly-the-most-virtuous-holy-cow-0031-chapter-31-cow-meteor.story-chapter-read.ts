@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0031Chapter31CowMeteor = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0031-chapter-31-cow-meteor",
   title: "Chapter 31 - Cow Meteor",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 31,
   ownLength: 1879,
   unitSlug: "words",

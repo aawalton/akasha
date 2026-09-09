@@ -5,7 +5,7 @@ export const shapeshifterANonHumanLitrpg0004Book2Chapter1OutsideTheWorldDungeon 
   pageTypeSlug: "story-chapter-read",
   slug: "shapeshifter-a-non-human-litrpg-0004-book-2-chapter-1-outside-the-world-dungeon",
   title: "[Book 2] Chapter 1: Outside the World Dungeon",
-  storySlug: "shapeshifter-a-non-human-litrpg",
+  story: "shapeshifter-a-non-human-litrpg",
   position: 4,
   ownLength: 2085,
   unitSlug: "words",

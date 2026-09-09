@@ -5,7 +5,7 @@ export const sherlyTheMostVirtuousHolyCow0029Chapter29CowOnTheGap = {
   pageTypeSlug: "story-chapter-read",
   slug: "sherly-the-most-virtuous-holy-cow-0029-chapter-29-cow-on-the-gap",
   title: "Chapter 29 - Cow on The Gap",
-  storySlug: "sherly-the-most-virtuous-holy-cow",
+  story: "sherly-the-most-virtuous-holy-cow",
   position: 29,
   ownLength: 2178,
   unitSlug: "words",
