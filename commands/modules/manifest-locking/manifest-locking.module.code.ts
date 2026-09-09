@@ -13,8 +13,10 @@ import { dirname, join, relative } from "node:path"
 import { textIn, textOf } from "@akasha/code/body-text"
 import { argvFor } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils/run/running"
+import { pathsOf } from "../../../changes/modules/answer/change-answer.module.code.ts"
 import type {
   Adding,
+  FileChange,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
@@ -304,14 +306,8 @@ export function installedIn(root: string): Installing {
   }
 }
 
-export function installingIn(
-  root: string,
-  changes: readonly FileEdit[],
-  moves: readonly FileMove[] = []
-): Installing {
-  if (manifestsIn(changes).length === 0 && manifestMovesIn(moves).length === 0) {
-    return NOTHING_INSTALLED
-  }
+export function installingIn(root: string, changes: readonly FileChange[]): Installing {
+  if (!changes.flatMap(pathsOf).some(isManifest)) return NOTHING_INSTALLED
   if (!existsSync(join(root, MANIFEST))) return NOTHING_INSTALLED
   try {
     return installedIn(root)

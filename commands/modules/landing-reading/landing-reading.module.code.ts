@@ -1,3 +1,4 @@
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import type { Given } from "../calling/calling.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import type { Running } from "../drafting/drafting.module.code.ts"
@@ -31,18 +32,19 @@ export function carryLanded(
   root: string,
   base: string,
   running: Running,
-  changes: readonly FileEdit[],
+  changes: readonly FileChange[],
   handed: readonly Carry[],
   owed: ReadonlyMap<string, boolean>
 ): undefined {
   const held: Carry[] = running.readersOweReading ? [] : [...handed]
   const dropped: string[] = []
   for (const one of changes) {
+    if (one.kind === "move") continue
     if (owed.get(one.path) ?? running.readersOweReading) {
       dropped.push(one.path)
       continue
     }
-    if (one.body === null) continue
+    if (one.kind === "remove") continue
     const was = bodyAt(root, base, one.path)
     if (was === null) continue
     held.push({ was: one.path, now: one.path, from: blobIdOf(was) })

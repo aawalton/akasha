@@ -13,10 +13,11 @@ import { said as git } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils/run/running"
 import type {
   Adding,
+  FileChange,
   Replacing,
 } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
-import { baseOf } from "../landing/landing.module.code.ts"
+import { baseOf, type FileEdit } from "../landing/landing.module.code.ts"
 import {
   carriesLock,
   installedIn,
@@ -72,6 +73,16 @@ function bytes(text: string): Uint8Array {
 
 function bodyOf(one: Adding | Replacing): string {
   return one.kind === "add" ? one.content : one.contentTo
+}
+
+const TEXT = new TextDecoder()
+
+function rowsOf(changes: readonly FileEdit[]): readonly FileChange[] {
+  return changes.map((one) =>
+    one.body === null
+      ? { kind: "remove", path: one.path }
+      : { kind: "add", path: one.path, content: TEXT.decode(one.body) }
+  )
 }
 
 function world(whole: boolean = false): string {
@@ -165,7 +176,7 @@ test("a manifest arriving takes the lockfile with it, and the tree installs afte
 
 test("a landing carrying no manifest installs nothing", () => {
   const root = world()
-  expect(installingIn(root, [{ path: "held/one/src/held.ts", body: bytes("") }])).toEqual(
+  expect(installingIn(root, rowsOf([{ path: "held/one/src/held.ts", body: bytes("") }]))).toEqual(
     NOTHING_INSTALLED
   )
 })
@@ -194,7 +205,7 @@ test("a landing carrying a manifest points the workspace at the folder that mani
     writeFileSync(at, bodyOf(one))
   }
   expect(existsSync(link)).toBe(false)
-  const put = installingIn(root, moving)
+  const put = installingIn(root, rowsOf(moving))
   expect(put.wrong).toEqual([])
   expect(existsSync(link)).toBe(true)
 })
@@ -251,7 +262,7 @@ test("an install takes away a link reaching a folder whose manifest names anothe
   for (const one of locked.edits) {
     writeFileSync(join(root, one.path), bodyOf(one))
   }
-  const put = installingIn(root, renaming)
+  const put = installingIn(root, rowsOf(renaming))
   expect(put.wrong).toEqual([])
   expect(linkThere(was)).toBe(false)
   expect(existsSync(join(root, MODULES, "@held", "renamed"))).toBe(true)
@@ -330,7 +341,9 @@ test("a landing carrying a manifest to another path points the workspace at that
     writeFileSync(join(root, one.path), bodyOf(one))
   }
   expect(existsSync(link)).toBe(false)
-  const put = installingIn(root, [], MOVED)
+  const put = installingIn(root, [
+    { kind: "move", pathFrom: "held/one/package.json", pathTo: "held/moved/package.json" },
+  ])
   expect(put.wrong).toEqual([])
   expect(existsSync(link)).toBe(true)
 })

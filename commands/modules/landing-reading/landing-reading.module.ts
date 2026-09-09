@@ -79,6 +79,10 @@ export const landingReading = {
     },
     {
       invariantKind: "departure",
+      statement: "A path a rename row names is neither carried nor dropped here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Every other path a landing changed is worked out here from the base commit.",
     },
     {

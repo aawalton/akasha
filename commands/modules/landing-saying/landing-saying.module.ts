@@ -71,6 +71,14 @@ export const landingSaying = {
     },
     {
       invariantKind: "departure",
+      statement: "Both paths a rename row names are paths the landing has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path more than one row names is one path.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A repair a landing ran to put things back answers with what that repair said.",
     },
     {

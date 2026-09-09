@@ -36,7 +36,7 @@ const PLAINLY: Saying = (said) => [
 const OVER: Reported = {
   saying: PLAINLY,
   plainly: PLAINLY,
-  changes: [{ path: "akasha/two.ts", body: null }],
+  changes: [{ kind: "remove", path: "akasha/two.ts" }],
   bypassed: null,
   broken: null,
   checks: 1,
@@ -117,7 +117,16 @@ test("a value worked out as a body landed is named in the report", () => {
 })
 
 test("the paths of a change are read from the change", () => {
-  expect(pathsOf([{ path: "akasha/two.ts", body: null }])).toEqual(["akasha/two.ts"])
+  expect(pathsOf([{ kind: "remove", path: "akasha/two.ts" }])).toEqual(["akasha/two.ts"])
+})
+
+test("both paths a rename row names are paths the landing has, and a repeat is one path", () => {
+  expect(
+    pathsOf([
+      { kind: "move", pathFrom: "akasha/one.ts", pathTo: "akasha/two.ts" },
+      { kind: "add", path: "akasha/two.ts", content: "held\n" },
+    ])
+  ).toEqual(["akasha/one.ts", "akasha/two.ts"])
 })
 
 test("what a draft left is named in the report as what was drafted", () => {

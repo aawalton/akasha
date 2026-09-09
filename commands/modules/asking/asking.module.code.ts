@@ -158,9 +158,10 @@ async function reporting(
   asked: Asked,
   gate: Judging,
   aside: readonly string[],
-  over: Change | null
+  over: Change | null,
+  rows: readonly FileChange[]
 ): Promise<Answer> {
-  const paths = pathsOf(asked.changes)
+  const paths = pathsOf(rows)
   const change =
     over ?? changeOf(root, { base: baseOf(root), edits: asked.changes, moves: asked.moves ?? [] })
   const held = { said: await gate.over(change), woke: gate.checksFor(change).length }
@@ -283,7 +284,8 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   const broken = "broken" in built ? built.broken : null
   const gate = bypass === null && "gate" in built ? built.gate : NO_GATE
   held.reaching?.()
-  if (held.dryRun) return await reporting(given.root, held, gate, aside, prepared.over)
+  if (held.dryRun)
+    return await reporting(given.root, held, gate, aside, prepared.over, prepared.changes)
   const message = messageWith(held, bypass, broken)
   const asRead = asReadIn(given, prepared.authored)
   if (held.draft === true) {
@@ -314,17 +316,17 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
     given.root,
     base,
     runningOf(given.changeKind),
-    held.changes,
+    prepared.changes,
     held.readings ?? [],
     NO_OWING
   )
   recordLanded(given, prepared.authored)
-  const put = installingIn(given.root, held.changes, held.moves ?? [])
+  const put = installingIn(given.root, prepared.changes)
   return {
     report: reported(counted, said, {
       saying: held.saying,
       plainly: wroteAndTook,
-      changes: held.changes,
+      changes: prepared.changes,
       bypassed: bypass === null ? null : bypass.said,
       broken,
       checks: gate.named.length,

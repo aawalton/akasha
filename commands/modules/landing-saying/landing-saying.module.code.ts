@@ -1,9 +1,11 @@
+import { pathsOf as pathsOfRow } from "@akasha/changes/change-answer"
+import type { FileChange } from "@akasha/changes/change-answer/types"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { saidBy, whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT } from "../gate-building/gate-building.module.code.ts"
 import type { Counting } from "../judged-saying/judged-saying.module.code.ts"
 import { judgedBy, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
-import type { Drafted, FileEdit, Landed } from "../landing/landing.module.code.ts"
+import type { Drafted, Landed } from "../landing/landing.module.code.ts"
 import type { Filled } from "../value-minting/value-minting.module.code.ts"
 
 export type Saying = (said: Landed) => readonly string[]
@@ -11,7 +13,7 @@ export type Saying = (said: Landed) => readonly string[]
 export type Reported = {
   readonly saying: Saying
   readonly plainly: Saying
-  readonly changes: readonly FileEdit[]
+  readonly changes: readonly FileChange[]
   readonly bypassed: string | null
   readonly broken: string | null
   readonly checks: number
@@ -37,8 +39,8 @@ export function defaultMessage(what: string, paths: readonly string[]): string {
   return `${what} ${paths.length} files`
 }
 
-export function pathsOf(changes: readonly FileEdit[]): readonly string[] {
-  return changes.map((one) => one.path)
+export function pathsOf(changes: readonly FileChange[]): readonly string[] {
+  return [...new Set(changes.flatMap(pathsOfRow))]
 }
 
 export function committedLine(said: Landed): string {
