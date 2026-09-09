@@ -63,6 +63,11 @@ export const test = {
       invariantKind: "constraint",
       statement: "A `beforeAll` is charged against the same time bound as a test case.",
     },
+    {
+      invariantKind: "constraint",
+      statement:
+        "The DOM shim replaces `Response` with one whose `json()` the runtime refuses to answer.",
+    },
   ],
   directives: [
     {
