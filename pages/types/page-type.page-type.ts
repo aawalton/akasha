@@ -81,6 +81,7 @@ export const pageType = {
     "text-property/child-relation",
     "text-property/default-value",
     "text-property/detail-display",
+    "text-property/fixed-value",
     "text-property/header-fields",
     "text-property/length-property-id",
     "text-property/load-scroll",

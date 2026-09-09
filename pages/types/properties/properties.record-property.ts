@@ -5,6 +5,7 @@ import type { MaxLength } from "../page-properties/properties/max-length.number-
 import type { Unique } from "../page-properties/properties/unique.relation-property.ts"
 import type { UniqueProperty } from "../page-properties/properties/unique-property.relation-property.ts"
 import type { DefaultValue } from "./default-value.text-property.ts"
+import type { FixedValue } from "./fixed-value.text-property.ts"
 import type { PageProperty } from "./page-property.relation-property.ts"
 import type { Required } from "./required.boolean-property.ts"
 import type { Secret } from "./secret.boolean-property.ts"
@@ -16,6 +17,7 @@ export type Declaration =
       required: Required
       many: false
       default?: DefaultValue
+      fixed?: FixedValue
       maxLength?: MaxLength
       uncommitted?: Uncommitted
       secret?: Secret
@@ -47,6 +49,7 @@ export const properties = {
     { pageProperty: "boolean-property/required", required: true, many: false },
     { pageProperty: "boolean-property/many", required: true, many: false },
     { pageProperty: "text-property/default-value", required: false, many: false },
+    { pageProperty: "text-property/fixed-value", required: false, many: false },
     { pageProperty: "number-property/max-count", required: false, many: false },
     { pageProperty: "number-property/max-length", required: false, many: false },
     { pageProperty: "boolean-property/uncommitted", required: false, many: false },
