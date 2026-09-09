@@ -10,7 +10,7 @@ export const akashaFolderShape = {
     {
       statement: "No relation property's name ends in `slug`.",
       workingMemory:
-        "`rename-page-property-property-slug` then `rename-page`. The key turn, the declarations and the window removal are one landing: an orphaned property page is no restable state. A two-key window files every carrying page's edge under the window's own slug, so refresh at both seams and read `relation-resolves` there. Batch 350 long, 500 light; 1000 dies at the ceiling. Grep kebab and camel after every batch — a run reaching no page now refuses rather than reporting done.\n",
+        "`page-page-type` carries key `type` beside `page-type-slug`; step four removes the old page, so no rename act runs. `carriedIn` walks `kindsUnder(pageType)` then `valuesByPath`, so `most` crosses folders: split parallel work by page type, never by path, never name `page`. Batch 500 takes ~78 s; 700 dies, and a killed apply may already have committed — read git log before re-applying or every page draws TS1117. Code composing a page body compared to one on disk goes red as a batch reaches it.\n",
     },
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
