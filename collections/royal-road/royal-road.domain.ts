@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const royalRoad = {
   id: "01a0657f-4492-7000-a3fc-56efd626beaa",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "royal-road",
   definition: "the pages Royal Road serves, read into fictions and chapters",
   parts: [

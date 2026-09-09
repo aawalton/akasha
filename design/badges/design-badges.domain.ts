@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const designBadges = {
   id: "01a05b55-a539-766c-98d3-a4d3e2fc6c4b",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "design-badges",
   definition: "the badges a browser draws a short value in",
   parts: [

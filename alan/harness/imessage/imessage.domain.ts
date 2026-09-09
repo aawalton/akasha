@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const imessage = {
   id: "01a05bc9-4308-7007-a8cc-e8f6c025c81e",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "imessage",
   definition: "how Alan's iMessage history is read and how a message is handed to Messages",
   parts: [

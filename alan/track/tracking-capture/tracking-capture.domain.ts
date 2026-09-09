@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const trackingCapture = {
   id: "01a0682f-644d-7d62-8403-54ae7215ee1b",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "tracking-capture",
   definition: "how something Alan did becomes an entry",
   pluralSlug: "tracking-captures",

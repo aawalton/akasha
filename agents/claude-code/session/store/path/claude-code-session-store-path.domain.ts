@@ -3,6 +3,7 @@ import type { Domain } from "../../../../../domains/domain.page-type.ts"
 export const claudeCodeSessionStorePath = {
   id: "01a065b0-2104-7f7d-be86-1cd42797ac84",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "claude-code-session-store-path",
   definition: "where inside the store a session's file is kept",
   invariants: [

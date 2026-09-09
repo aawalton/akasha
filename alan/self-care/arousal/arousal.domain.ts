@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const arousal = {
   id: "01a06c95-1991-726a-8273-86c28202a2f2",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "arousal",
   definition: "arousal Alan administers to himself",
   invariants: [

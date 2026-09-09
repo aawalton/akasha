@@ -3,6 +3,7 @@ import type { Domain } from "./domains/domain.page-type.ts"
 export const akasha = {
   id: "01a049e9-651c-7000-b6c1-0d4d87c8b4c5",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "akasha",
   definition: "code, data and text in a page with a type in a file",
   parts: [

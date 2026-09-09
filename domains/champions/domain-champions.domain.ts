@@ -3,6 +3,7 @@ import type { Domain } from "../domain.page-type.ts"
 export const domainChampions = {
   id: "01a0675b-16de-790e-8eea-52afc2046700",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "domain-champions",
   definition: "one persona answering for one domain",
   invariants: [

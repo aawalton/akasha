@@ -3,6 +3,7 @@ import type { Domain } from "../domains/domain.page-type.ts"
 export const design = {
   id: "01a05b55-a539-7a1c-9bdc-5a459722f028",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "design",
   definition: "how a thing is drawn on a screen and worked by hand",
   parts: [

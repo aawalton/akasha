@@ -3,6 +3,7 @@ import type { Domain } from "../../../../domains/domain.page-type.ts"
 export const changeMechanicalFileContentChange = {
   id: "01a07cbf-eb60-7d05-bc64-0485666cca0f",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "change-mechanical-file-content-change",
   definition: "a mechanical change restating what a file has",
   parts: [

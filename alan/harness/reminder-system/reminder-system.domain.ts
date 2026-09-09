@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const reminderSystem = {
   id: "01a05f42-d941-7000-8906-8852e706c156",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "reminder-system",
   definition: "what is sent to somebody at the times it names",
   parts: [

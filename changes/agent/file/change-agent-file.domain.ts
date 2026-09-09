@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const changeAgentFile = {
   id: "01a07cc2-47e0-7c08-b48a-bacf9c0f9386",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "change-agent-file",
   definition: "a change an agent reaches acting on where a file sits",
   parts: [

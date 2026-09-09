@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const workspacePaths = {
   id: "01a05c48-deeb-700a-a48e-da9f2becaa1d",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "workspace-paths",
   definition:
     "which folders of a repository the package manager installs, read off the root manifest",

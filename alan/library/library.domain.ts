@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const library = {
   id: "01a06574-0291-7000-bfeb-0932b2156cac",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "library",
   definition: "what Alan works through, and how far through it he has got",
   parts: [

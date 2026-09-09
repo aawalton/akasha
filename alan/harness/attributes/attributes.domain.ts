@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const attributes = {
   id: "01a0687a-f498-76b9-9a54-205509f15f64",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "attributes",
   definition: "the points Alan's daily upkeep habits earned him on a day",
   parts: [

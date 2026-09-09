@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const studying = {
   id: "01a06574-0291-7001-9087-db957190cd32",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "studying",
   definition: "the courses Alan is taught by",
   parts: [

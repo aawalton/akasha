@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const healthSamplesImport = {
   id: "01a05c14-b11a-7006-9c17-e67776ab45af",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "health-samples-import",
   definition: "health readings taken off a machine of Alan's and brought into the store",
   parts: [

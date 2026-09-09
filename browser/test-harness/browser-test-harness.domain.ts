@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const browserTestHarness = {
   id: "01a05ca9-d801-7799-a4a3-de2a41d35502",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "browser-test-harness",
   definition: "a chromium driven against a running app, signed in as a user it never writes",
   parts: [

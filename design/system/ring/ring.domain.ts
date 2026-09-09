@@ -3,6 +3,7 @@ import type { Domain } from "@akasha/domains/domain"
 export const ring = {
   id: "01a0655b-9cdd-73ae-8a72-25ca95f9932b",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "ring",
   definition: "a reading drawn as an arc around the figure it reads",
   parts: ["domain/budget-ring", "domain/completion-ring", "domain/stoplight-ring"],

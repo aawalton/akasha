@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const emailInbound = {
   id: "01a05bcd-25e2-7b0c-aff6-314192c66a72",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "email-inbound",
   definition: "what an arriving email is read into before anything acts on it",
   parts: [

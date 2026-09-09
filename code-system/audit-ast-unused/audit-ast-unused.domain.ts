@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const auditAstUnused = {
   id: "01a0675b-16da-7bfd-8434-ddca9c15459f",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "audit-ast-unused",
   definition:
     "the audit reading the code repository against what the instructions repository reaches into it",

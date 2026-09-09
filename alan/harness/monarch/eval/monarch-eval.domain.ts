@@ -3,6 +3,7 @@ import type { Domain } from "../../../../domains/domain.page-type.ts"
 export const monarchEval = {
   id: "01a07740-d031-7503-a291-ce61a5f353a4",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "monarch-eval",
   definition:
     "how far an agent can be trusted to settle a transaction's category, and where it cannot",

@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const alanHarnessStoplights = {
   id: "01a0655b-9cdd-7169-bede-e916a8a6bd42",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "alan-harness-stoplights",
   definition: "how Alan knows what to do next",
   parts: ["module/attribute-stoplights"],

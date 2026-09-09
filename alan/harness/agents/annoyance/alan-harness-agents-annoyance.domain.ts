@@ -3,6 +3,7 @@ import type { Domain } from "../../../../domains/domain.page-type.ts"
 export const alanHarnessAgentsAnnoyance = {
   id: "01a0658a-e55d-7c76-83d2-3bedf4c9011c",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "alan-harness-agents-annoyance",
   definition: "what an agent does that annoys Alan",
   invariants: [

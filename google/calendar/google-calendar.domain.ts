@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const googleCalendar = {
   id: "01a05c02-c732-7b6e-b180-61f29e1b42e7",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "google-calendar",
   definition: "Alan's Google calendar events read, made, changed and answered",
   parts: [

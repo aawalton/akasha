@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const trackDaily = {
   id: "01a062dc-1b7f-7c99-a886-e67035171fdf",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "track-daily",
   definition: "what is measured about Alan a day at a time",
   parts: [

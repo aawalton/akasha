@@ -3,6 +3,7 @@ import type { Domain } from "../../../../domains/domain.page-type.ts"
 export const claudeCodeSessionStore = {
   id: "01a065b0-2103-7e19-a5cb-8f425124086c",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "claude-code-session-store",
   definition: "where session files are kept",
   parts: ["domain/claude-code-session-store-path"],

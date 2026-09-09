@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const googleEmail = {
   id: "01a05c0e-372c-7620-9bcc-082febbe3f5b",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "google-email",
   definition: "Alan's Gmail mailbox read, written to and kept in order",
   parts: [

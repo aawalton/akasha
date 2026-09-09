@@ -3,6 +3,7 @@ import type { Domain } from "../domains/domain.page-type.ts"
 export const gameDesign = {
   id: "01a06733-914f-7000-a36f-23cf44ee3a25",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "game-design",
   definition: "how progression in games and in gamified life is built",
   parts: ["page-type/game-design-drive"],

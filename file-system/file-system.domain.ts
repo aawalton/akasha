@@ -3,6 +3,7 @@ import type { Domain } from "../domains/domain.page-type.ts"
 export const fileSystem = {
   id: "01a05231-61c5-775c-a479-ffa46b4fe6bc",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "file-system",
   definition: "where akasha keeps what git does not track, and how processes take turns over it",
   parts: [

@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const rulesEngineField = {
   id: "01a06600-0000-7000-8000-000000000002",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "rules-engine-field",
   definition: "one property of what a rule set applies to, that a condition can name",
   invariants: [

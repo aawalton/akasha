@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const rulesEngine = {
   id: "01a06600-0000-7000-8000-000000000001",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "rules-engine",
   definition: "what every rule set runs on",
   parts: ["page-type/rules-engine-rule-set", "domain/rules-engine-field"],
