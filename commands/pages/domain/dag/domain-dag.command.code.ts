@@ -1,10 +1,6 @@
 import { resolve } from "node:path"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
-import {
-  answering,
-  type Drawn,
-  dagLines,
-} from "../../../modules/domain-drawing/domain-drawing.module.code.ts"
+import { answering, type Drawn, dagLines } from "./domain-drawing/domain-drawing.module.code.ts"
 
 export const AT_DOMAIN = "--domain"
 

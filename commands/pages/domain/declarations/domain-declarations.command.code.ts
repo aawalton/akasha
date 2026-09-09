@@ -4,7 +4,7 @@ import {
   answering,
   declarationLines,
   SUBJECTS,
-} from "../../../modules/domain-drawing/domain-drawing.module.code.ts"
+} from "../dag/domain-drawing/domain-drawing.module.code.ts"
 
 export const SUBJECT = "--subject"
 
