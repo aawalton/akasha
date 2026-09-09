@@ -200,7 +200,7 @@ async function propertyPages(
 }
 
 function namedIn(one: Flat): string | null {
-  const said = one.pagePropertySlug
+  const said = one["pageProperty"] ?? one["pagePropertySlug"]
   if (typeof said !== "string" || said === "") return null
   return slugIn(said) ?? said
 }

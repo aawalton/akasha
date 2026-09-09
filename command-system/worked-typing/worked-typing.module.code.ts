@@ -86,7 +86,8 @@ export function keysFor(
   const bareIn = narrowedIn(schema)
   const found: Key[] = []
   for (const one of declared) {
-    const named = (one as Record<string, unknown>).pagePropertySlug
+    const stated = one as Record<string, unknown>
+    const named = stated["pageProperty"] ?? stated["pagePropertySlug"]
     if (typeof named !== "string") continue
     const filed = schema.get(named) ?? bareIn.get(named) ?? undefined
     if (filed === undefined || filed === null) continue

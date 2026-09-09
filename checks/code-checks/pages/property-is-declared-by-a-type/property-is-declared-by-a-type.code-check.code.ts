@@ -14,7 +14,9 @@ const DECLARED = "properties"
 
 const MEMBERS = "members"
 
-const SAID = "pagePropertySlug"
+const SAID = "pageProperty"
+
+const WAS_SAID = "pagePropertySlug"
 
 export function declaredIn(value: Value | null): readonly string[] {
   if (value === null) return []
@@ -22,7 +24,7 @@ export function declaredIn(value: Value | null): readonly string[] {
   const held = value[DECLARED]
   if (held !== null && held !== undefined) {
     for (const one of recordsIn(held)) {
-      const said = textAt(one, SAID)
+      const said = textAt(one, SAID) ?? textAt(one, WAS_SAID)
       if (said !== null) found.push(said)
     }
   }

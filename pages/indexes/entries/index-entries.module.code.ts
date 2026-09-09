@@ -19,7 +19,9 @@ const PAGE_TYPE = "page-type"
 
 const DECLARED = "properties"
 
-const DECLARES = "pagePropertySlug"
+const DECLARES = "pageProperty"
+
+const WAS_DECLARES = "pagePropertySlug"
 
 const EXTENDS = "extends"
 
@@ -209,7 +211,7 @@ function carriedBy(
       for (const one of Array.isArray(declared) ? declared : []) {
         if (one === null || typeof one !== "object" || Array.isArray(one)) continue
         const stated = one as Record<string, unknown>
-        const said = stated[DECLARES]
+        const said = stated[DECLARES] ?? stated[WAS_DECLARES]
         if (typeof said !== "string") continue
         const hit = (said.includes("/") ? properties.get(said) : bare.get(said)) ?? null
         if (hit === null) continue

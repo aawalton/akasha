@@ -13,7 +13,9 @@ const PAGE_TYPE = "page-type"
 
 const DECLARED = "properties"
 
-const SAID = "pagePropertySlug"
+const SAID = "pageProperty"
+
+const WAS_SAID = "pagePropertySlug"
 
 const PARTS = "parts"
 
@@ -41,7 +43,8 @@ export function declaresIn(value: Value | null): readonly string[] {
   const found: string[] = []
   for (const one of held) {
     if (one === null || typeof one !== "object" || Array.isArray(one)) continue
-    const said = textAt(one as Record<string, unknown>, SAID)
+    const stated = one as Record<string, unknown>
+    const said = textAt(stated, SAID) ?? textAt(stated, WAS_SAID)
     if (said !== null) found.push(said)
   }
   return found

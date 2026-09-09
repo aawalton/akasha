@@ -28,7 +28,8 @@ export function entryKeysDeclared(
   }
   const keys = new Set<string>(["id"])
   for (const one of stated) {
-    const slug = (one as { readonly pagePropertySlug?: unknown }).pagePropertySlug
+    const field = one as { readonly pageProperty?: unknown; readonly pagePropertySlug?: unknown }
+    const slug = field.pageProperty ?? field.pagePropertySlug
     if (typeof slug === "string") keys.add(camelizeKey(slugOf(slug)))
   }
   return keys

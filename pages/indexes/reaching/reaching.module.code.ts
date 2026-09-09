@@ -14,7 +14,9 @@ const MEMBERS = "members"
 
 const DECLARED = "properties"
 
-const SAID = "pagePropertySlug"
+const SAID = "pageProperty"
+
+const WAS_SAID = "pagePropertySlug"
 
 const MORTAL = "mortal"
 
@@ -53,7 +55,7 @@ function fieldsIn(value: Value): readonly string[] {
   const found: string[] = []
   for (const one of declared) {
     if (one === null || typeof one !== "object") continue
-    const named = (one as Value)[SAID]
+    const named = (one as Value)[SAID] ?? (one as Value)[WAS_SAID]
     if (typeof named === "string") found.push(slugOf(named))
   }
   return found

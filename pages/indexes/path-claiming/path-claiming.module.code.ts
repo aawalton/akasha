@@ -15,7 +15,9 @@ const PAGE_TYPE = "page-type"
 
 const DECLARED = "properties"
 
-const DECLARES = "pagePropertySlug"
+const DECLARES = "pageProperty"
+
+const WAS_DECLARES = "pagePropertySlug"
 
 const EXTENDS = "extends"
 
@@ -124,7 +126,7 @@ function declaredIn(value: Value): Sidecars {
     const withheld = held[WITHHELD] === true
     if (held["secret"] === true) secret = true
     if (withheld) uncommitted = true
-    const slug = held[DECLARES]
+    const slug = held[DECLARES] ?? held[WAS_DECLARES]
     const fallback = held[FALLBACK]
     if (typeof slug === "string" && typeof fallback === "string") {
       found.set(slugOf(slug), { held: fallback, uncommitted: withheld })

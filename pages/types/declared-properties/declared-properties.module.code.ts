@@ -16,7 +16,9 @@ const PAGE_TYPE = "page-type"
 
 const DECLARED = "properties"
 
-const SAID = "pagePropertySlug"
+const SAID = "pageProperty"
+
+const WAS_SAID = "pagePropertySlug"
 
 const EXTENDS = "extends"
 
@@ -101,7 +103,7 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
   for (const entry of Array.isArray(declared) ? declared : []) {
     if (typeof entry !== "object" || entry === null || Array.isArray(entry)) continue
     const one = entry as Value
-    const said = textAt(one, SAID)
+    const said = textAt(one, SAID) ?? textAt(one, WAS_SAID)
     if (said === null) continue
     const bare = slugIn(said)
     if (bare === null) continue

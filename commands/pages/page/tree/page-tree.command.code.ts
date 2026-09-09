@@ -61,7 +61,7 @@ function declarationsIn(value: Value): readonly Declaration[] {
   for (const one of held) {
     if (one === null || typeof one !== "object" || Array.isArray(one)) continue
     const said = one as Record<string, unknown>
-    const named = said["pagePropertySlug"]
+    const named = said["pageProperty"] ?? said["pagePropertySlug"]
     if (typeof named !== "string") continue
     const bound = said["maxCount"]
     found.push({
