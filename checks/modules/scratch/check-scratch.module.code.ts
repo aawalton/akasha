@@ -50,8 +50,9 @@ export function typed(
   const said = above === null ? "[]" : JSON.stringify([`${PAGE_TYPE}/${above}`])
   writeFileSync(
     join(root, path),
-    `export const held = { slug: ${JSON.stringify(slug)}, extends: ${said},` +
-      ` properties: [${declared(declares)}] }\n`
+    `export const held = { id: ${JSON.stringify(`id-${slug}`)},` +
+      ` pageTypeSlug: ${JSON.stringify(PAGE_TYPE)}, slug: ${JSON.stringify(slug)},` +
+      ` extends: ${said}, properties: [${declared(declares)}] }\n`
   )
   valueAlsoFiled(root, PAGE_TYPE, [
     {

@@ -67,6 +67,11 @@ export const checkScratch = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Typing a page type writes a body stating that page type's `id` and `pageTypeSlug`.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type files the types above that page type as a list.",
     },
     {
