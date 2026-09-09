@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const nothingInAkashaRendersAPageBodyFromItsKeys = {
   id: "01a05b34-b267-7a91-9f6f-c3a8555503d6",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "nothing-in-akasha-renders-a-page-body-from-its-keys",
   domain: "workspace-package/pages-query",
   claim:

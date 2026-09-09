@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const tenCatalogCollectorPackagesLandedAsOne = {
   id: "01a060ec-47c2-7c9d-b02b-696e2d213345",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "ten-catalog-collector-packages-landed-as-one",
   domain: "domain/temper-game-catalog-capture-addon",
   claim:

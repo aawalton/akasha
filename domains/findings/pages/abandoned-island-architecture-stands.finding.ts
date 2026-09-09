@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const abandonedIslandArchitectureStands = {
   id: "01a06555-9f3d-7ff3-840d-0b6853da6726",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "abandoned-island-architecture-stands",
   domain: "domain/all-about-alan",
   claim:

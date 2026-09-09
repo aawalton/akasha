@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const temperTaskProgressNamedCharactersByIdsThatDidNotCarryAcross = {
   id: "01a05fda-025e-7627-be42-eab4c600e312",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "temper-task-progress-named-characters-by-ids-that-did-not-carry-across",
   domain: "domain/temper-progress",
   claim:

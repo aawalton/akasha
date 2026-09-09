@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aCheckReadingTheLiveIndexAtSeveralMomentsSeesATreeNoLandingProduced = {
   id: "01a0880d-209d-785c-85a2-6c82df31278e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-check-reading-the-live-index-at-several-moments-sees-a-tree-no-landing-produced",
   domain: "workspace-package/check",
   claim:

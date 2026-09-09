@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aShapeConstructorSharingItsTypesNameShutsTheCheckedRoadOnUtilsNarrow = {
   id: "01a069d8-6dae-7305-8b15-4502a7e278a7",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-shape-constructor-sharing-its-types-name-shuts-the-checked-road-on-utils-narrow",
   domain: "domain/utils-narrow",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anUploadToTestflightIsADeliveryToAPhone = {
   id: "01a060cc-1999-7000-b3d7-8a03e8260a7c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-upload-to-testflight-is-a-delivery-to-a-phone",
   domain: "workspace-package/mobile-cli",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const threeCatalogUnitTestsFellOutWithTheTaskPages = {
   id: "01a0607c-4750-7938-8ee4-d76f0bb39bdb",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "three-catalog-unit-tests-fell-out-with-the-task-pages",
   domain: "workspace-package/temper-catalog-core",
   claim:

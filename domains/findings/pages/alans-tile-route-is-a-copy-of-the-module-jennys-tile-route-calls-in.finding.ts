@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const alansTileRouteIsACopyOfTheModuleJennysTileRouteCallsIn = {
   id: "01a05c9a-4d11-7000-9e21-3f7c5a2e08b4",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "alans-tile-route-is-a-copy-of-the-module-jennys-tile-route-calls-in",
   domain: "workspace-package/readout",
   claim:

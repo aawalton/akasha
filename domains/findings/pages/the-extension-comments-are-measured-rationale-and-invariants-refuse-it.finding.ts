@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theExtensionCommentsAreMeasuredRationaleAndInvariantsRefuseIt = {
   id: "01a064a8-86d3-757f-b6d6-84d80c95d162",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-extension-comments-are-measured-rationale-and-invariants-refuse-it",
   domain: "workspace-package/editor-extension",
   claim:

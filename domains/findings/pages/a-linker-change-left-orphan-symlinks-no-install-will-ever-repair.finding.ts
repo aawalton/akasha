@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aLinkerChangeLeftOrphanSymlinksNoInstallWillEverRepair = {
   id: "01a05cc3-f730-76f9-85a0-f8929ccf6329",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-linker-change-left-orphan-symlinks-no-install-will-ever-repair",
   domain: "workspace-package/check",
   claim:

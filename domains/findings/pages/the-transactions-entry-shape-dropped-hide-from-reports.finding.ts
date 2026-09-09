@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theTransactionsEntryShapeDroppedHideFromReports = {
   id: "01a0675e-6da8-7001-b504-77a1c9e27440",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-transactions-entry-shape-dropped-hide-from-reports",
   domain: "domain/monarch",
   claim:

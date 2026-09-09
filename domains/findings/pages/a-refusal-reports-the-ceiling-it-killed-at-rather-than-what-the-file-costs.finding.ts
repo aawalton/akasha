@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRefusalReportsTheCeilingItKilledAtRatherThanWhatTheFileCosts = {
   id: "01a081e7-d82d-7b86-947b-4352111dfdf6",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-refusal-reports-the-ceiling-it-killed-at-rather-than-what-the-file-costs",
   domain: "module/code-tests",
   claim:

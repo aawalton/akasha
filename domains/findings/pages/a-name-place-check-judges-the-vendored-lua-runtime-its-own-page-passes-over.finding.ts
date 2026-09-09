@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aNamePlaceCheckJudgesTheVendoredLuaRuntimeItsOwnPagePassesOver = {
   id: "01a07772-7a74-7f62-aa32-acacb074280a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-name-place-check-judges-the-vendored-lua-runtime-its-own-page-passes-over",
   domain: "workspace-package/check",
   claim:

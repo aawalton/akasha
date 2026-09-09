@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const thePageIndexIsTrustedWithoutBeingCheckedAgainstTheTree = {
   id: "01a05cc3-f730-7ee6-b46f-9d273e3dc37c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-page-index-is-trusted-without-being-checked-against-the-tree",
   domain: "domain/data",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPathKeyedRuleFailsOpenWhenThePathMoves = {
   id: "01a05b66-5c35-7fd6-ab2d-789fd7302c3c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-path-keyed-rule-fails-open-when-the-path-moves",
   domain: "workspace-package/check",
 

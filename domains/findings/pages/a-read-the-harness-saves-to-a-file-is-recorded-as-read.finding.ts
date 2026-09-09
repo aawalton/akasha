@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aReadTheHarnessSavesToAFileIsRecordedAsRead = {
   id: "01a060d3-cb3c-73ef-bbc5-b7016cdac78a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-read-the-harness-saves-to-a-file-is-recorded-as-read",
   domain: "domain/required-reading",
 

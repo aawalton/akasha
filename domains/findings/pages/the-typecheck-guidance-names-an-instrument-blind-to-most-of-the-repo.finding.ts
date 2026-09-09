@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theTypecheckGuidanceNamesAnInstrumentBlindToMostOfTheRepo = {
   id: "01a06390-4c22-7a40-bb49-2704ba155297",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-typecheck-guidance-names-an-instrument-blind-to-most-of-the-repo",
   domain: "workspace-package/hook-system",
   claim:

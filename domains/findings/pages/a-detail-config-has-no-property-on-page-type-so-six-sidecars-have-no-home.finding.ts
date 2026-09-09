@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aDetailConfigHasNoPropertyOnPageTypeSoSixSidecarsHaveNoHome = {
   id: "01a06828-1949-79c0-82bb-547d1fe3dff7",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-detail-config-has-no-property-on-page-type-so-six-sidecars-have-no-home",
   domain: "workspace-package/pages-core",
   claim:

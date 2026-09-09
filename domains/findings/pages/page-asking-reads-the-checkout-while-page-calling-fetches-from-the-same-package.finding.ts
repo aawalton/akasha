@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const pageAskingReadsTheCheckoutWhilePageCallingFetchesFromTheSamePackage = {
   id: "01a068c4-ede7-7a57-a838-ec6d85846c7c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "page-asking-reads-the-checkout-while-page-calling-fetches-from-the-same-package",
   domain: "workspace-package/pages-service",
   claim:

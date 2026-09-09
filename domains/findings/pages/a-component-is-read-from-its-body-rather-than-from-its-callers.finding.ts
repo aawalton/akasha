@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aComponentIsReadFromItsBodyRatherThanFromItsCallers = {
   id: "01a0618d-cd66-7000-ae6b-b1311248b068",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-component-is-read-from-its-body-rather-than-from-its-callers",
   domain: "workspace-package/check",
   claim:

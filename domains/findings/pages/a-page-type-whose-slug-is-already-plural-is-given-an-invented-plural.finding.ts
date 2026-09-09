@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPageTypeWhoseSlugIsAlreadyPluralIsGivenAnInventedPlural = {
   id: "01a08808-8108-7597-bda6-c1981d55ad7a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-page-type-whose-slug-is-already-plural-is-given-an-invented-plural",
   domain: "text-property/plural-slug",
   claim:

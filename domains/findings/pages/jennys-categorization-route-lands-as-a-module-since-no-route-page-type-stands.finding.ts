@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const jennysCategorizationRouteLandsAsAModuleSinceNoRoutePageTypeStands = {
   id: "01a05bdc-98ff-7c1d-b142-ecbef0776099",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "jennys-categorization-route-lands-as-a-module-since-no-route-page-type-stands",
   domain: "workspace-package/readout",
   claim:

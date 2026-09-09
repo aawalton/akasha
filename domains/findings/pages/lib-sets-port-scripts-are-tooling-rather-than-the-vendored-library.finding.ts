@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const libSetsPortScriptsAreToolingRatherThanTheVendoredLibrary = {
   id: "01a060d3-cb3a-7eb9-95ea-b36fb9b2963d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "lib-sets-port-scripts-are-tooling-rather-than-the-vendored-library",
   domain: "domain/temper-upstream-data",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const timeWantsItsRuleWhenTimeArrives = {
   id: "01a05024-9e8c-7321-910f-8c9e4b2f4ebf",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "time-wants-its-rule-when-time-arrives",
   domain: "workspace-package/check",
   claim:

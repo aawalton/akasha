@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const thePushGuardRefusesEveryPushAndTheGpAliasWasNeverInItsReach = {
   id: "01a068ff-e61a-7e15-bf0f-d0a22f123bc8",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-push-guard-refuses-every-push-and-the-gp-alias-was-never-in-its-reach",
   domain: "page-type/change",
   claim:

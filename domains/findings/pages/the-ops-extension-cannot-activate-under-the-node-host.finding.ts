@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theOpsExtensionCannotActivateUnderTheNodeHost = {
   id: "01a06882-b069-7994-8961-ec642313ae4e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-ops-extension-cannot-activate-under-the-node-host",
   domain: "workspace-package/ops-extension",
   claim:

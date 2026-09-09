@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRelationTargetReadByBareSlugAnswersForTheOtherPropertyOfThatName = {
   id: "01a0693b-1f13-7065-ace9-f21ed3eb3d48",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-relation-target-read-by-bare-slug-answers-for-the-other-property-of-that-name",
   domain: "workspace-package/index",
   claim:

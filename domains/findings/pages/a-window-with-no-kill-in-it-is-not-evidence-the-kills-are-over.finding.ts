@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aWindowWithNoKillInItIsNotEvidenceTheKillsAreOver = {
   id: "01a05edb-b36b-79ae-95e8-44610e8fa384",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-window-with-no-kill-in-it-is-not-evidence-the-kills-are-over",
   domain: "cluster-service/alanwalton-web",
   claim:

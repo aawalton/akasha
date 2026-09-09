@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theLuaCompilerPackageStillNamesItselfByItsOldPackageName = {
   id: "01a06805-e2b9-74d4-bf3d-84c5da961cbb",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-lua-compiler-package-still-names-itself-by-its-old-package-name",
   domain: "workspace-package/lua-compiler",
   claim:

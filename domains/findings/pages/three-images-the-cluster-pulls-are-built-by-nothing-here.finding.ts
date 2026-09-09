@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const threeImagesTheClusterPullsAreBuiltByNothingHere = {
   id: "01a08267-9e2d-7852-a917-a3800c09d5c8",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "three-images-the-cluster-pulls-are-built-by-nothing-here",
   domain: "domain/dockerfiles",
   claim:

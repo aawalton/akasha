@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theGitHooksGuardOutsideTheRepositoryAndTheOthersDoNot = {
   id: "01a05f45-b27b-74eb-a431-0d00b7b9fb8a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-git-hooks-guard-outside-the-repository-and-the-others-do-not",
   domain: "workspace-package/hook-system",
   claim:

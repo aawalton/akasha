@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theWatcherLooksItsEnrolmentUpByAKeyNoPageTypeDeclares = {
   id: "01a063c4-be37-72b1-bd7d-20d3ba3e8b2b",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-watcher-looks-its-enrolment-up-by-a-key-no-page-type-declares",
   domain: "domain/temper-watcher",
   claim:

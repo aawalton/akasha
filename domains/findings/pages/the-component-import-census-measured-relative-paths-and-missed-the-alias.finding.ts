@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theComponentImportCensusMeasuredRelativePathsAndMissedTheAlias = {
   id: "01a06426-cc4a-7171-8f59-d446c157541f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-component-import-census-measured-relative-paths-and-missed-the-alias",
   domain: "router-app/temper-web",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theClusterPageStoreIsTheWorkstationBehindAProxy = {
   id: "01a05b6b-c39e-7bf4-9cf9-ba5a31e641c7",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-cluster-page-store-is-the-workstation-behind-a-proxy",
   domain: "module/store-reaching",
   claim:

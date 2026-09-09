@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aShellGlobSkipsDottedDirectoriesAndUndercountsACensus = {
   id: "01a0674c-196d-79a3-9ef4-c0d15204d776",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-shell-glob-skips-dotted-directories-and-undercounts-a-census",
   domain: "domain/instrument",
   claim:

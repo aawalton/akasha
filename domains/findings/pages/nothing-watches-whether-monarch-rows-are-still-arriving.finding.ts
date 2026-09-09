@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const nothingWatchesWhetherMonarchRowsAreStillArriving = {
   id: "01a061c8-e06e-7001-8b4b-d768d2339227",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "nothing-watches-whether-monarch-rows-are-still-arriving",
   domain: "domain/monarch",
   claim:

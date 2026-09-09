@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theGatewaySpawnPathIsNotGatedByTheFleetSwapSoAFreshSpawnTakesTheNewEntry = {
   id: "01a069c7-5233-720d-a874-e16a2f71b44f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-gateway-spawn-path-is-not-gated-by-the-fleet-swap-so-a-fresh-spawn-takes-the-new-entry",
   domain: "domain/model-gateway",
   claim:

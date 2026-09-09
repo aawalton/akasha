@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theCredentialPushGivesUpTheFirstTimeItLosesTheLandingLock = {
   id: "01a05beb-a22d-70f2-aa6b-04938e9830d5",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-credential-push-gives-up-the-first-time-it-loses-the-landing-lock",
   domain: "workspace-package/agent",
   claim:

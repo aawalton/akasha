@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const noVoidReturnWasNarrowedToABodyWrittenHere = {
   id: "01a05c69-4d64-7f4d-9619-91e433fc0031",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "no-void-return-was-narrowed-to-a-body-written-here",
   domain: "workspace-package/check",
   claim:

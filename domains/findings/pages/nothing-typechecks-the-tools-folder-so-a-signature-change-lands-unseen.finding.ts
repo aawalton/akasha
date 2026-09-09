@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const nothingTypechecksTheToolsFolderSoASignatureChangeLandsUnseen = {
   id: "01a05be1-6c96-7149-b84f-27ed2e55f180",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "nothing-typechecks-the-tools-folder-so-a-signature-change-lands-unseen",
   domain: "workspace-package/check",
   claim:

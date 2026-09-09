@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const headDocLinksDangleInBooks = {
   id: "01a06555-9f3e-75c2-9f12-59c704b623cd",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "head-doc-links-dangle-in-books",
   domain: "domain/all-about-alan",
   claim:

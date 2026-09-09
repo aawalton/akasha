@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aSweptSubagentLeavesItsKeptEditsOnDiskWhereNothingReachesThem = {
   id: "01a087b7-92f3-7f08-a322-4e6b60b67cbe",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-swept-subagent-leaves-its-kept-edits-on-disk-where-nothing-reaches-them",
   domain: "workspace-package/agent",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const nothingGatedRenamesAFileBesideAPage = {
   id: "01a06741-b245-7433-b6eb-5946a81e1857",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "nothing-gated-renames-a-file-beside-a-page",
   domain: "workspace-package/command-system",
   claim:

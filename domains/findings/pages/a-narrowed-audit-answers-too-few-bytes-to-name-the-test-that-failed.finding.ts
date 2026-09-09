@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aNarrowedAuditAnswersTooFewBytesToNameTheTestThatFailed = {
   id: "01a08312-ec47-7d49-9c3c-be3b8229dc3d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-narrowed-audit-answers-too-few-bytes-to-name-the-test-that-failed",
   domain: "workspace-package/check",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theOldCompilerTsconfigTargetWentAwayRatherThanBeingHonoured = {
   id: "01a06805-e2b9-789c-8671-37316b1ca54c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-old-compiler-tsconfig-target-went-away-rather-than-being-honoured",
   domain: "workspace-package/lua-compiler",
   claim:

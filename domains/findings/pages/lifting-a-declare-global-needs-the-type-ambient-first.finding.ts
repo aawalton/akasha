@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const liftingADeclareGlobalNeedsTheTypeAmbientFirst = {
   id: "01a06226-e590-712b-ba21-b6c391fddbbe",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "lifting-a-declare-global-needs-the-type-ambient-first",
   domain: "workspace-package/check",
   claim:

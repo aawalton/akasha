@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const neitherHookRefusesABoundedCommitOfTheLinterConfig = {
   id: "01a061b8-8b04-731b-ba15-97477cd91554",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "neither-hook-refuses-a-bounded-commit-of-the-linter-config",
   domain: "workspace-package/hook-system",
   claim:

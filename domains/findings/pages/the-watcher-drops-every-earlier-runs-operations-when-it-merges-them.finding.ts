@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theWatcherDropsEveryEarlierRunsOperationsWhenItMergesThem = {
   id: "01a063c4-d269-7560-b66d-486a70656391",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-watcher-drops-every-earlier-runs-operations-when-it-merges-them",
   domain: "domain/temper-watcher",
   claim:

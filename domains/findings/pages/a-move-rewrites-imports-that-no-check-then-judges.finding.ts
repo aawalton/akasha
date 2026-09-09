@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aMoveRewritesImportsThatNoCheckThenJudges = {
   id: "01a06437-706c-73f9-ab72-0cda730db8df",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-move-rewrites-imports-that-no-check-then-judges",
   domain: "router-app/temper-web",
   claim:

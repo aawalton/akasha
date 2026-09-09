@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const devStdinWillNotOpenWhenStdinIsASocketAsBunSpawnWithAPipeMakesIt = {
   id: "01a08210-09bb-72b1-ad4f-d5ac17ee8bb5",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "dev-stdin-will-not-open-when-stdin-is-a-socket-as-bun-spawn-with-a-pipe-makes-it",
   domain: "workspace-package/command-system",
   claim:

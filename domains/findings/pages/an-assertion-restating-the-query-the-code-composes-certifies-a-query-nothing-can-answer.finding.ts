@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anAssertionRestatingTheQueryTheCodeComposesCertifiesAQueryNothingCanAnswer = {
   id: "01a07323-840d-7684-aab5-9ede49a7e3a2",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-assertion-restating-the-query-the-code-composes-certifies-a-query-nothing-can-answer",
   domain: "workspace-package/readout",
   claim:

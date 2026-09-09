@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const sixToTwentysevenUnreconciled = {
   id: "01a06555-9f3e-7635-b835-07356ac27f88",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "six-to-twentyseven-unreconciled",
   domain: "domain/all-about-alan",
   claim:

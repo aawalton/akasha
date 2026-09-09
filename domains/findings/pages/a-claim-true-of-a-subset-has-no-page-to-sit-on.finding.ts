@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aClaimTrueOfASubsetHasNoPageToSitOn = {
   id: "01a073c0-e30f-7181-8107-17836bc0b993",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-claim-true-of-a-subset-has-no-page-to-sit-on",
   domain: "workspace-package/domain",
   claim:

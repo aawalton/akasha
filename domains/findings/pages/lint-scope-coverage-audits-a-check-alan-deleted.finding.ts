@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const lintScopeCoverageAuditsACheckAlanDeleted = {
   id: "01a05ce0-2436-7003-986c-b3741241dee5",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "lint-scope-coverage-audits-a-check-alan-deleted",
   domain: "workspace-package/check",
   claim:

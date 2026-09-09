@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const storyChaptersNameAMediaSourcePropertyTheyDoNotCarry = {
   id: "01a05cf4-03d5-77e6-9a28-a3dd08dfdb01",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "story-chapters-name-a-media-source-property-they-do-not-carry",
   domain: "router-app/alan-web",
   claim:

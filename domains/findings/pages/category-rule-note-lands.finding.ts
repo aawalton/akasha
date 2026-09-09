@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const categoryRuleNoteLands = {
   id: "01a04ff0-af13-7255-89f6-665519093d80",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "category-rule-note-lands",
   domain: "workspace-package/check",
   claim:

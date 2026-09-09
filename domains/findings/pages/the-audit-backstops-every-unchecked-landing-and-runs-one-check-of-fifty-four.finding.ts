@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theAuditBackstopsEveryUncheckedLandingAndRunsOneCheckOfFiftyFour = {
   id: "01a08797-0acb-7000-aab7-fd9b0c692a31",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-audit-backstops-every-unchecked-landing-and-runs-one-check-of-fifty-four",
   domain: "command/audit",
   claim:

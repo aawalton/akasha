@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPackageRepointIsEveryConstantThatJoinsOntoItsRoot = {
   id: "01a06798-4d53-7001-99dc-22205557575d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-package-repoint-is-every-constant-that-joins-onto-its-root",
   domain: "domain/temper-addon-build",
   claim:

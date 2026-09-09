@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const ssdiAssetComplianceUnconfirmed = {
   id: "01a06555-9f3e-7f38-b4ce-3b6ba3f72d9f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "ssdi-asset-compliance-unconfirmed",
   domain: "domain/all-about-alan",
   claim:

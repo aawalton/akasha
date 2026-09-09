@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const gradingScaleRulesImplicit = {
   id: "01a06555-9f3e-72d4-8788-1ae358bfac72",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "grading-scale-rules-implicit",
   domain: "domain/all-about-alan",
   claim:

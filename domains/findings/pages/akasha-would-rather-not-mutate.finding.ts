@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const akashaWouldRatherNotMutate = {
   id: "01a05022-3aa0-7837-ae96-152ad1f294ee",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "akasha-would-rather-not-mutate",
   domain: "workspace-package/check",
   claim:

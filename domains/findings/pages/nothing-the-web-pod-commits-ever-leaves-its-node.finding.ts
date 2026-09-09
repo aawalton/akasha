@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const nothingTheWebPodCommitsEverLeavesItsNode = {
   id: "01a06093-2f10-79ab-bdb0-0dbc798159fa",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "nothing-the-web-pod-commits-ever-leaves-its-node",
   domain: "cluster-service/alanwalton-web",
   claim:

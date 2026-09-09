@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const auraRibMayBePageDerived = {
   id: "01a06555-9f3d-793e-8f3f-04626cb58178",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "aura-rib-may-be-page-derived",
   domain: "domain/all-about-alan",
   claim:

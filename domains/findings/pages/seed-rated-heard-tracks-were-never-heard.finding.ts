@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const seedRatedHeardTracksWereNeverHeard = {
   id: "01a062e2-014b-7832-b97b-168347b91395",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "seed-rated-heard-tracks-were-never-heard",
   domain: "domain/music-listening",
   claim:

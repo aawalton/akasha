@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theCatalogCliIsAliveBehindTwoAkashaCommandsThatRefuse = {
   id: "01a060d3-cb3b-75bc-927e-a6d032494083",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-catalog-cli-is-alive-behind-two-akasha-commands-that-refuse",
   domain: "domain/temper-catalog-side-file",
   claim:

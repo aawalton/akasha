@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aFolderMoveCanBreakARunningServiceWithEveryCheckClean = {
   id: "01a08806-f7ce-78af-b806-f9a880298e72",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-folder-move-can-break-a-running-service-with-every-check-clean",
   domain: "code-check/folder-matches-a-shape",
   claim:

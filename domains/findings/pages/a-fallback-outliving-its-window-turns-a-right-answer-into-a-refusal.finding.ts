@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aFallbackOutlivingItsWindowTurnsARightAnswerIntoARefusal = {
   id: "01a087cd-c6ba-7f34-9739-afdbe088a784",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-fallback-outliving-its-window-turns-a-right-answer-into-a-refusal",
   domain: "domain/change-agent-page-type",
   claim:

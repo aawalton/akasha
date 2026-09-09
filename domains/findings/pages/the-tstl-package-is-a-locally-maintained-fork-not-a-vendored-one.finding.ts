@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theTstlPackageIsALocallyMaintainedForkNotAVendoredOne = {
   id: "01a06798-4d53-7004-b27c-434f9652728f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-tstl-package-is-a-locally-maintained-fork-not-a-vendored-one",
   domain: "workspace-package/lua-compiler",
   claim:

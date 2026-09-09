@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const oneAsJsonNowStandsBehindASoundCastAndAnUncheckedOne = {
   id: "01a05ccc-36f0-7adc-a935-fb95531828b9",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "one-as-json-now-stands-behind-a-sound-cast-and-an-unchecked-one",
   domain: "workspace-package/pages-core",
   claim:

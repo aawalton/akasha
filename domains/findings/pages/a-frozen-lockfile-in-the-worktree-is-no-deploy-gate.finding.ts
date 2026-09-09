@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aFrozenLockfileInTheWorktreeIsNoDeployGate = {
   id: "01a05b85-cb42-72ba-82e1-5d4ae017005d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-frozen-lockfile-in-the-worktree-is-no-deploy-gate",
   domain: "workspace-package/check",
   claim:

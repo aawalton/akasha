@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const jennysSiteIsReachedAtTheMeAndTheComWasNeverWiredUp = {
   id: "01a05b69-fc8a-777e-8ab9-90938516ec71",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "jennys-site-is-reached-at-the-me-and-the-com-was-never-wired-up",
   domain: "page-type/web-app",
   claim:

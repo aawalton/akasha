@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const temperCutItsInventoryToFitALimitAkashaDoesNotShare = {
   id: "01a05fdf-9a2c-77b7-9fa8-7c0771adbc38",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "temper-cut-its-inventory-to-fit-a-limit-akasha-does-not-share",
   domain: "domain/temper-holdings",
   claim:

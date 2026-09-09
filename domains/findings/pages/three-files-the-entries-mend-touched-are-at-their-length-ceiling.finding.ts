@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const threeFilesTheEntriesMendTouchedAreAtTheirLengthCeiling = {
   id: "01a062be-6566-7cb8-a47a-34f33e6b3519",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "three-files-the-entries-mend-touched-are-at-their-length-ceiling",
   domain: "workspace-package/check",
   claim:

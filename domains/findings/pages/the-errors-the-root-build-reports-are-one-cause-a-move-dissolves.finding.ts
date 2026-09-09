@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theErrorsTheRootBuildReportsAreOneCauseAMoveDissolves = {
   id: "01a05c2c-0c9c-7ed1-9ba1-3cd60b2a56bb",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-errors-the-root-build-reports-are-one-cause-a-move-dissolves",
   domain: "workspace-package/check",
   claim:

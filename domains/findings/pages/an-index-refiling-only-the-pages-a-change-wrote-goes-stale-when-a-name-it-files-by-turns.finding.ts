@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anIndexRefilingOnlyThePagesAChangeWroteGoesStaleWhenANameItFilesByTurns = {
   id: "01a087e9-3e94-7c84-8080-ff76f0c6f882",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-index-refiling-only-the-pages-a-change-wrote-goes-stale-when-a-name-it-files-by-turns",
   domain: "workspace-package/index",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anAuditCannotFinishBeforeTheTreeItJudgedIsGone = {
   id: "01a062cd-7242-7780-86ba-1e193ec95ab9",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-audit-cannot-finish-before-the-tree-it-judged-is-gone",
   domain: "workspace-package/check",
   claim:

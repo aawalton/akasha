@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theLastPollToFinishIsNotTheOneThatReadLatest = {
   id: "01a06816-69fa-7003-9357-4cdc4fc7183d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-last-poll-to-finish-is-not-the-one-that-read-latest",
   domain: "workspace-package/editor-extension",
   claim:

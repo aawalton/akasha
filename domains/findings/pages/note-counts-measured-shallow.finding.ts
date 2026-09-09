@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const noteCountsMeasuredShallow = {
   id: "01a06555-9f3e-7ec9-a695-3105490d40cf",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "note-counts-measured-shallow",
   domain: "domain/all-about-alan",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theValuesParentIsNotDanglingAndRepointingItFreesNoDeletion = {
   id: "01a0646d-e131-72ab-8ab7-413ba3059653",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-values-parent-is-not-dangling-and-repointing-it-frees-no-deletion",
   domain: "workspace-package/readout",
   claim:

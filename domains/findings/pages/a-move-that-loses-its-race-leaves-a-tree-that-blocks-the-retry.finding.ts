@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aMoveThatLosesItsRaceLeavesATreeThatBlocksTheRetry = {
   id: "01a06349-4215-781c-a5a3-c1b337e6383c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-move-that-loses-its-race-leaves-a-tree-that-blocks-the-retry",
   domain: "module/move-spreading",
   claim:

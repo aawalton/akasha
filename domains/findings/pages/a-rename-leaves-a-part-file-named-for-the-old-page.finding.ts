@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRenameLeavesAPartFileNamedForTheOldPage = {
   id: "01a082a1-fb72-7bbe-99be-24cced56eb25",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-rename-leaves-a-part-file-named-for-the-old-page",
   domain: "domain/change-mechanical-file-rename",
   claim:

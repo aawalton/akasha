@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theWidgetsLastKnownCacheDefeatsTheStalenessGuard = {
   id: "01a05b7e-984e-7e12-96b8-73d2d9a3127f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-widgets-last-known-cache-defeats-the-staleness-guard",
   domain: "ios-component/alanwalton-widget-feed",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPackageSpecifierInPageProseGoesStaleWhenThatPackageFolds = {
   id: "01a0882f-6b14-7c05-9d38-4e71a2c5f0b3",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-package-specifier-in-page-prose-goes-stale-when-that-package-folds",
   domain: "page-type/workspace-package",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPrivateCastLandingInAkashaRefusesAgainstOneItCannotImport = {
   id: "01a05cc3-34bc-79e3-84aa-461717f2cdd3",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-private-cast-landing-in-akasha-refuses-against-one-it-cannot-import",
   domain: "workspace-package/check",
   claim:

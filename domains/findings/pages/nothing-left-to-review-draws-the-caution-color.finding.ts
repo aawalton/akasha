@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const nothingLeftToReviewDrawsTheCautionColor = {
   id: "01a05b7e-984e-7bdb-9caa-b174b30cefa0",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "nothing-left-to-review-draws-the-caution-color",
   domain: "readout-scale/backlog-count",
   claim:

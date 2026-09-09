@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theMessageRoadsOnlyBlockerIsANameAndThePageTypeAlreadyAnswersIt = {
   id: "01a069b5-5020-70ad-8d90-0dadaef2c49a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-message-roads-only-blocker-is-a-name-and-the-page-type-already-answers-it",
   domain: "workspace-package/seat-system",
   claim:

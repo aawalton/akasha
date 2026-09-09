@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aLandingThatMintsAnIdCannotBeCheckedByComparingDiskAgainstTheBodyHandedIn = {
   id: "01a081f7-f3c6-734b-866b-772daa0024d2",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-landing-that-mints-an-id-cannot-be-checked-by-comparing-disk-against-the-body-handed-in",
   domain: "domain/id-minting",
   claim:

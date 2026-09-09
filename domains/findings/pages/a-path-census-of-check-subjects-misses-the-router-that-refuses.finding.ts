@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPathCensusOfCheckSubjectsMissesTheRouterThatRefuses = {
   id: "01a06184-de0e-7f39-a44c-4dfafa96523c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-path-census-of-check-subjects-misses-the-router-that-refuses",
   domain: "workspace-package/check",
   claim:

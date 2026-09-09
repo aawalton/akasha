@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aNewWorkspacePackageLandsUnlinkedAndEveryImporterBreaks = {
   id: "01a0686c-e937-700a-a93a-c212c99a378e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-new-workspace-package-lands-unlinked-and-every-importer-breaks",
   domain: "workspace-package/command-system",
   claim:

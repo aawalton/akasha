@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theReadRecordSaysABodyWasSentNeverThatABodyArrived = {
   id: "01a061ef-9538-7000-aeee-95f0cd57fa5c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-read-record-says-a-body-was-sent-never-that-a-body-arrived",
   domain: "workspace-package/command-system",
   claim:

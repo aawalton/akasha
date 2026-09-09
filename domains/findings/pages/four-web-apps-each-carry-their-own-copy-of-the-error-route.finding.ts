@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const fourWebAppsEachCarryTheirOwnCopyOfTheErrorRoute = {
   id: "01a05f89-67a1-7da3-a1d3-8828abd8e1e7",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "four-web-apps-each-carry-their-own-copy-of-the-error-route",
   domain: "page-type/router-app",
   claim:

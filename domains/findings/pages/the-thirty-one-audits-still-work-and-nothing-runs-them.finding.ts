@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theThirtyOneAuditsStillWorkAndNothingRunsThem = {
   id: "01a05fdf-af81-7873-b55f-87959a959c20",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-thirty-one-audits-still-work-and-nothing-runs-them",
   domain: "workspace-package/check",
   claim:

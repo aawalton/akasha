@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const sixThousandCollectionsSitInSidecarsTheCollectionPageTypeWasBuiltToHold = {
   id: "01a0657f-0c53-7002-9a9a-88f0ed0cb960",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "six-thousand-collections-sit-in-sidecars-the-collection-page-type-was-built-to-hold",
   domain: "page-type/collection",
   claim:

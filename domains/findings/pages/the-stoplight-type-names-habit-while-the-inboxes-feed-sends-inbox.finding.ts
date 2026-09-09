@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theStoplightTypeNamesHabitWhileTheInboxesFeedSendsInbox = {
   id: "01a0826d-707a-7c4a-a803-99c6bfa00637",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-stoplight-type-names-habit-while-the-inboxes-feed-sends-inbox",
   domain: "workspace-package/readout",
   claim:

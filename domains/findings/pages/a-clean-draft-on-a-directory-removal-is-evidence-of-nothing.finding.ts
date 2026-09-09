@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aCleanDraftOnADirectoryRemovalIsEvidenceOfNothing = {
   id: "01a06433-8ace-7bd8-8800-f49b00510e7a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-clean-draft-on-a-directory-removal-is-evidence-of-nothing",
   domain: "workspace-package/command-system",
   claim:

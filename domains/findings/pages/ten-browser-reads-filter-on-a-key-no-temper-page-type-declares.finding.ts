@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const tenBrowserReadsFilterOnAKeyNoTemperPageTypeDeclares = {
   id: "01a07cde-0890-7947-a187-a63fad3d0e6e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "ten-browser-reads-filter-on-a-key-no-temper-page-type-declares",
   domain: "domain/temper",
   claim:

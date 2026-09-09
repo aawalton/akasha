@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anIgnoredSidecarOutlivesItsPageAndTheRemovalSaysItIsNotThere = {
   id: "01a0644a-d9a5-7000-a30b-957ee209db95",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-ignored-sidecar-outlives-its-page-and-the-removal-says-it-is-not-there",
   domain: "workspace-package/command-system",
   claim:

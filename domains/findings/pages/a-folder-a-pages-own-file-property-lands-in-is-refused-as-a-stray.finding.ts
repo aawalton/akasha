@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aFolderAPagesOwnFilePropertyLandsInIsRefusedAsAStray = {
   id: "01a08801-d3ec-77a0-b8ee-f908ae0b666f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-folder-a-pages-own-file-property-lands-in-is-refused-as-a-stray",
   domain: "code-check/folder-matches-a-shape",
   claim:

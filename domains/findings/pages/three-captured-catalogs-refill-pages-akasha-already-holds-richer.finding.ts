@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const threeCapturedCatalogsRefillPagesAkashaAlreadyHoldsRicher = {
   id: "01a06050-8062-7736-ae0b-e7099dd6f8dc",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "three-captured-catalogs-refill-pages-akasha-already-holds-richer",
   domain: "domain/temper-catalog",
   claim:

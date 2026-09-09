@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRemovalLandedThreeCommitsBeforeTheListsThatNamedIt = {
   id: "01a06224-a9c9-7bb9-82e0-44f1d426aa7c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-removal-landed-three-commits-before-the-lists-that-named-it",
   domain: "page-type/ios-component",
   claim:

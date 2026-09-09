@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theLocalCheckDriverSpawnsAnUnexpandedShellVariable = {
   id: "01a05cc3-f730-772b-bdf7-37427fa7332b",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-local-check-driver-spawns-an-unexpanded-shell-variable",
   domain: "workspace-package/check",
   claim:

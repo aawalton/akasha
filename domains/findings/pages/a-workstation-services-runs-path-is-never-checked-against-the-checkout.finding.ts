@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aWorkstationServicesRunsPathIsNeverCheckedAgainstTheCheckout = {
   id: "01a06358-546d-7476-bdea-920a8b70bea6",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-workstation-services-runs-path-is-never-checked-against-the-checkout",
   domain: "workspace-package/service",
   claim:

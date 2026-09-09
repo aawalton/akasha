@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const nothingCanDeclareMediaConfigSoTheMediaRoutesRefuse = {
   id: "01a062aa-531f-72e9-8d63-155b88de0708",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "nothing-can-declare-media-config-so-the-media-routes-refuse",
   domain: "router-app/alan-web",
   claim:

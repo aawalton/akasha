@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aNumberedFileAddedWithoutItsPageIsClaimedByNobody = {
   id: "01a062bb-0e24-76b0-a8f5-fd7a5bdb0f0c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-numbered-file-added-without-its-page-is-claimed-by-nobody",
   domain: "workspace-package/page",
   claim:

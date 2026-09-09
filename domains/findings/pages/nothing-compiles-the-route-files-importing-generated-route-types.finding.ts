@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const nothingCompilesTheRouteFilesImportingGeneratedRouteTypes = {
   id: "01a07301-4778-798f-98c4-e44654458d4a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "nothing-compiles-the-route-files-importing-generated-route-types",
   domain: "workspace-package/check",
   claim:

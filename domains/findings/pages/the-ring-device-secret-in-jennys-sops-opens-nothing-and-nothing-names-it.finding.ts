@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theRingDeviceSecretInJennysSopsOpensNothingAndNothingNamesIt = {
   id: "01a05bae-093f-71b2-8b01-3379de9a30b8",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-ring-device-secret-in-jennys-sops-opens-nothing-and-nothing-names-it",
   domain: "domain/monarch",
   claim:

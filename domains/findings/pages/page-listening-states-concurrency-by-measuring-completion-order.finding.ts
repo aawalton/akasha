@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const pageListeningStatesConcurrencyByMeasuringCompletionOrder = {
   id: "01a05d97-6c09-7000-b36d-9171fc5f32c2",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "page-listening-states-concurrency-by-measuring-completion-order",
   domain: "workspace-package/pages-service",
   claim:

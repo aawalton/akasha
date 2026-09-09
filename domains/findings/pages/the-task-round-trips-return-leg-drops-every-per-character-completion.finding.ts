@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theTaskRoundTripsReturnLegDropsEveryPerCharacterCompletion = {
   id: "01a076db-bd59-7117-8652-98f15e098967",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-task-round-trips-return-leg-drops-every-per-character-completion",
   domain: "domain/temper-watcher",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theRoutesAreTheLastPlaceCodeNamesAReadout = {
   id: "01a05e65-7b6e-78b7-b83b-35131469d19e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-routes-are-the-last-place-code-names-a-readout",
   domain: "workspace-package/readout",
   claim:

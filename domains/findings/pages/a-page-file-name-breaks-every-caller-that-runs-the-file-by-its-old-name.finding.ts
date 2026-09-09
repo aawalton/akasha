@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPageFileNameBreaksEveryCallerThatRunsTheFileByItsOldName = {
   id: "01a06838-5a67-75b5-a964-08137a2afc7e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-page-file-name-breaks-every-caller-that-runs-the-file-by-its-old-name",
   domain: "domain/inference-pool",
   claim:

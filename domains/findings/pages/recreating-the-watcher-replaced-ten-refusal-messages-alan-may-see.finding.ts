@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const recreatingTheWatcherReplacedTenRefusalMessagesAlanMaySee = {
   id: "01a063c6-848e-7bbb-925d-ab8acb6d7647",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "recreating-the-watcher-replaced-ten-refusal-messages-alan-may-see",
   domain: "domain/temper-watcher",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aCycleThroughAPackageEdgeGoesUnseen = {
   id: "01a05b15-391f-73d0-abbe-6df3583b7d72",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-cycle-through-a-package-edge-goes-unseen",
   domain: "workspace-package/check",
   claim:

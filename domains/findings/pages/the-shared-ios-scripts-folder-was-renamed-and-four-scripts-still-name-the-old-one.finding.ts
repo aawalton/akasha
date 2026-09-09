@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theSharedIosScriptsFolderWasRenamedAndFourScriptsStillNameTheOldOne = {
   id: "01a0657e-994b-72c0-bd83-4bb8c304ed8b",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-shared-ios-scripts-folder-was-renamed-and-four-scripts-still-name-the-old-one",
   domain: "workspace-package/code-system",
   claim:

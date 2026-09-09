@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theWideBadgeVariantUnionIsReadByOneFileAndItsEightMemberSubsetByTen = {
   id: "01a07323-840b-7b3f-90da-9a056795a68d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-wide-badge-variant-union-is-read-by-one-file-and-its-eight-member-subset-by-ten",
   domain: "domain/utils-narrow",
   claim:

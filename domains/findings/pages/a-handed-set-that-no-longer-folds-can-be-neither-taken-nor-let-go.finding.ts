@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aHandedSetThatNoLongerFoldsCanBeNeitherTakenNorLetGo = {
   id: "01a08264-8036-770c-953f-36f911e346ac",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-handed-set-that-no-longer-folds-can-be-neither-taken-nor-let-go",
   domain: "page-type/change",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const mockModuleLeaksIntoEveryLaterTestFile = {
   id: "01a05bbe-127b-7000-b446-759b78e1b2f7",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "mock-module-leaks-into-every-later-test-file",
   domain: "workspace-package/testing-system",
   claim:

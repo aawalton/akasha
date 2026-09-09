@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aWebAppsHostNamesAreStatedOnAPageAndRoutedFromAFile = {
   id: "01a05b26-f8b6-7ffd-b7e7-e2624681524c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-web-apps-host-names-are-stated-on-a-page-and-routed-from-a-file",
   domain: "page-type/web-app",
   claim:

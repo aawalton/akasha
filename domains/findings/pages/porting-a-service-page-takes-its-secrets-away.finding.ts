@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const portingAServicePageTakesItsSecretsAway = {
   id: "01a05a59-38f3-7101-a67a-9df4f6ec9c9e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "porting-a-service-page-takes-its-secrets-away",
   domain: "page-type/workstation-service",
   claim:

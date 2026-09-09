@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aGenericSourceFileNameCannotSurviveTheFlatLayout = {
   id: "01a06436-474c-7e3e-b326-467db9afd270",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-generic-source-file-name-cannot-survive-the-flat-layout",
   domain: "router-app/temper-web",
   claim:

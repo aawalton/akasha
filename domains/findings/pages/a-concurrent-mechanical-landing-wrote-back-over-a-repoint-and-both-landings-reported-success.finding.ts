@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aConcurrentMechanicalLandingWroteBackOverARepointAndBothLandingsReportedSuccess = {
   id: "01a0695a-9ecc-77de-ba27-f9b8488a5a3c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-concurrent-mechanical-landing-wrote-back-over-a-repoint-and-both-landings-reported-success",
   domain: "workspace-package/command-system",
   claim:

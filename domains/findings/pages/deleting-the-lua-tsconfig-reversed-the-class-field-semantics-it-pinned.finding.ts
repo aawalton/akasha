@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const deletingTheLuaTsconfigReversedTheClassFieldSemanticsItPinned = {
   id: "01a06806-7243-7ac0-8ce1-747d89e12c2d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "deleting-the-lua-tsconfig-reversed-the-class-field-semantics-it-pinned",
   domain: "workspace-package/lua-compiler",
   claim:

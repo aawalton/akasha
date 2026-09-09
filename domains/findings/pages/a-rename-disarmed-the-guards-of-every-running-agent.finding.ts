@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRenameDisarmedTheGuardsOfEveryRunningAgent = {
   id: "01a062e1-8244-73a1-881f-51a0c39dc314",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-rename-disarmed-the-guards-of-every-running-agent",
   domain: "workspace-package/hook-system",
   claim:

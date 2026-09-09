@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aCommittedSelfSymlinkMakesTheShapeCheckThrow = {
   id: "01a0735b-88cd-7eee-b4d1-427374818f72",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-committed-self-symlink-makes-the-shape-check-throw",
   domain: "code-check/folder-matches-a-shape",
   claim:

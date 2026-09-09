@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aModuleSlugIsTheOnlyWayIntoItsCode = {
   id: "01a0607c-474e-7189-a859-47e13764e206",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-module-slug-is-the-only-way-into-its-code",
   domain: "workspace-package/temper-catalog-core",
   claim:

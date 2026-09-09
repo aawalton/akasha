@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const threeGrepsInOneSessionAnsweredAboutAPopulationTheyCouldNotSee = {
   id: "01a087dc-c5ea-70d8-bab6-21db75aa5486",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "three-greps-in-one-session-answered-about-a-population-they-could-not-see",
   domain: "domain/instrument",
   claim:

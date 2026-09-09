@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const threeReachersOfTheSameClusterApiServerNowStandInsideAkasha = {
   id: "01a06861-24c9-7018-94ad-01664cdb5226",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "three-reachers-of-the-same-cluster-api-server-now-stand-inside-akasha",
   domain: "domain/infrastructure",
   claim:

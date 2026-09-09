@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const oneRuleIsACheckSwitchedOffAndTheOtherIsJudgedOnlyWhenAValueIsAnswered = {
   id: "01a07323-840d-7cb7-b8b2-7c98cbb3d3ce",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "one-rule-is-a-check-switched-off-and-the-other-is-judged-only-when-a-value-is-answered",
   domain: "workspace-package/check",
   claim:

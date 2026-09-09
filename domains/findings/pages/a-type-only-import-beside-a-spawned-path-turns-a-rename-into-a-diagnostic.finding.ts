@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aTypeOnlyImportBesideASpawnedPathTurnsARenameIntoADiagnostic = {
   id: "01a06933-69c0-71a1-b8c3-859c283aecec",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-type-only-import-beside-a-spawned-path-turns-a-rename-into-a-diagnostic",
   domain: "domain/type-import",
   claim:

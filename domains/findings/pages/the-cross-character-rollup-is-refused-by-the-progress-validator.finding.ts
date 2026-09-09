@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theCrossCharacterRollupIsRefusedByTheProgressValidator = {
   id: "01a06418-219c-736b-ba57-606b34d01ced",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-cross-character-rollup-is-refused-by-the-progress-validator",
   domain: "domain/temper-player-completion",
   claim:

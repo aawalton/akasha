@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const removingAPageTheNewOneIsNamedAfterIsRefused = {
   id: "01a06348-077e-701d-a2c1-dda5893eb0aa",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "removing-a-page-the-new-one-is-named-after-is-refused",
   domain: "workspace-package/command-system",
   claim:

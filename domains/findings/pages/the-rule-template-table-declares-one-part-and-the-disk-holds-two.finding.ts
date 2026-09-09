@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theRuleTemplateTableDeclaresOnePartAndTheDiskHoldsTwo = {
   id: "01a0721e-0864-7398-b603-00a81c658fb4",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-rule-template-table-declares-one-part-and-the-disk-holds-two",
   domain: "domain/temper",
   claim:

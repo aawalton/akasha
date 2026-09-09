@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theHudGlobalConflictIsTheAddOnLocalCopyRatherThanTheCanonicalOne = {
   id: "01a063b0-9dac-7a9c-9bf3-f90c3f49ce0f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-hud-global-conflict-is-the-add-on-local-copy-rather-than-the-canonical-one",
   domain: "workspace-package/temper-addon-library-types",
   claim:

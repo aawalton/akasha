@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aViewStatesItsOwnQuestionWherePageQueryHoldsOne = {
   id: "01a0657f-0c53-7003-ad50-0bc349c83571",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-view-states-its-own-question-where-page-query-holds-one",
   domain: "workspace-package/page",
   claim:

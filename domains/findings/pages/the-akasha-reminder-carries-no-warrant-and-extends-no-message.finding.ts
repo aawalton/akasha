@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theAkashaReminderCarriesNoWarrantAndExtendsNoMessage = {
   id: "01a05f45-8988-7000-89be-e6868f022b9e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-akasha-reminder-carries-no-warrant-and-extends-no-message",
   domain: "domain/reminder-system",
   claim:

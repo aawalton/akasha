@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theInventoryChunkAttachmentsHoldRowsHeldNowhereElseInAkasha = {
   id: "01a0674d-6ced-7b51-9809-88fb5372165f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-inventory-chunk-attachments-hold-rows-held-nowhere-else-in-akasha",
   domain: "domain/temper-holdings",
   claim:

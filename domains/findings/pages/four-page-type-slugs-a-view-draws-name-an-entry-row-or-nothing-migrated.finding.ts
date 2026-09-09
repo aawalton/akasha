@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const fourPageTypeSlugsAViewDrawsNameAnEntryRowOrNothingMigrated = {
   id: "01a0693b-1f13-7fb8-91e3-274e12ad091c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "four-page-type-slugs-a-view-draws-name-an-entry-row-or-nothing-migrated",
   domain: "domain/page-edge",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theWriteGateNamesReadPathsThatAreNotThere = {
   id: "01a06302-83de-78ab-aaad-d2fb56d76965",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-write-gate-names-read-paths-that-are-not-there",
   domain: "workspace-package/command-system",
   claim:

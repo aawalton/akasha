@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const removingTheBareNameSearchEmptiedEveryPageTypeOfItsProperties = {
   id: "01a07353-48b3-79ee-91e0-fc018c3cf453",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "removing-the-bare-name-search-emptied-every-page-type-of-its-properties",
   domain: "workspace-package/page",
   claim:

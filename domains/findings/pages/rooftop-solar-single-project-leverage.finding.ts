@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const rooftopSolarSingleProjectLeverage = {
   id: "01a06555-9f3e-73f1-8cd6-4b1cff541f3c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "rooftop-solar-single-project-leverage",
   domain: "domain/all-about-alan",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anInventoryReadingHoldsMoreThanItsSlots = {
   id: "01a06079-e46e-7439-8bc0-91365d3f28a6",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-inventory-reading-holds-more-than-its-slots",
   domain: "domain/temper-holdings",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const movingTheObservationWriteOffTheHostThreadIsWhatUnfrozeThePanels = {
   id: "01a0680d-8b77-7000-9cef-02b19c09f764",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "moving-the-observation-write-off-the-host-thread-is-what-unfroze-the-panels",
   domain: "workspace-package/editor-extension",
   claim:

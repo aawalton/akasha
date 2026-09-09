@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theTrackedTreeGateIsProvedAtOneCommitAndTheDeployReadsAnother = {
   id: "01a05b91-7ef1-7e2b-923d-34b13b1a6ebd",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-tracked-tree-gate-is-proved-at-one-commit-and-the-deploy-reads-another",
   domain: "page-type/web-app",
   claim:

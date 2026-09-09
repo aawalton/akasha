@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aCodeTokenRenameRefusesAConstantItsOwnPageSaysItRenames = {
   id: "01a08325-f8e0-7000-8fa7-9eb4dd84f78b",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-code-token-rename-refuses-a-constant-its-own-page-says-it-renames",
   domain: "change-agent/rename-code-token",
   claim:

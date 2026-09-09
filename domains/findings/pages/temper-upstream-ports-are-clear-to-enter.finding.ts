@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const temperUpstreamPortsAreClearToEnter = {
   id: "01a0607b-cd7a-79e6-97ce-a69336cd8a0e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "temper-upstream-ports-are-clear-to-enter",
   domain: "domain/temper-upstream-data",
   claim:

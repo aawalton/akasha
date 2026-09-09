@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const pendingLawHasNoWatcher = {
   id: "01a06555-9f3e-7d75-8ad2-221d20c7629f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "pending-law-has-no-watcher",
   domain: "domain/all-about-alan",
   claim:

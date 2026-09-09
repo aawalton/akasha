@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const fourNamesChangedCarryingTheCompanionFamilyIntoAkasha = {
   id: "01a06426-cc4a-7470-8834-af03d5578eca",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "four-names-changed-carrying-the-companion-family-into-akasha",
   domain: "router-app/temper-web",
   claim:

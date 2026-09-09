@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const thePageStoreTakesAWriteFromAnythingOnTheTailnet = {
   id: "01a05aef-b3df-759a-b6d8-394b03016092",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-page-store-takes-a-write-from-anything-on-the-tailnet",
   domain: "workspace-package/page",
   claim:

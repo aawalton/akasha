@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theAkashaToolchainIsCompiledIntoAlansPhone = {
   id: "01a05d44-6b21-7a03-8c5e-4f9d20e17b38",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-akasha-toolchain-is-compiled-into-alans-phone",
   domain: "router-app/alan-web-capacitor",
   claim:

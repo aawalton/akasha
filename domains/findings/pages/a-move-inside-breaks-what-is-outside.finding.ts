@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aMoveInsideBreaksWhatIsOutside = {
   id: "01a05931-1982-731d-9cf8-4c61aac946c2",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-move-inside-breaks-what-is-outside",
   domain: "workspace-package/check",
   claim:

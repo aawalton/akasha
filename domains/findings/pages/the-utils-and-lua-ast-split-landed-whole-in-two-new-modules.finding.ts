@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theUtilsAndLuaAstSplitLandedWholeInTwoNewModules = {
   id: "01a06798-4d53-7003-97b5-1d133729238a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-utils-and-lua-ast-split-landed-whole-in-two-new-modules",
   domain: "workspace-package/lua-compiler",
   claim:

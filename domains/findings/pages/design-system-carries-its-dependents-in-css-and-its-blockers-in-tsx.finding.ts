@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const designSystemCarriesItsDependentsInCssAndItsBlockersInTsx = {
   id: "01a05c50-e3b4-7116-ab2b-5f96eaec8f77",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "design-system-carries-its-dependents-in-css-and-its-blockers-in-tsx",
   domain: "domain/design",
   claim:

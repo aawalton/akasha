@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aCredentialOnThePageStoreWriteBreaksEveryCallerAtOnce = {
   id: "01a05ba6-1855-7000-b73b-7b7fde2810ea",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-credential-on-the-page-store-write-breaks-every-caller-at-once",
   domain: "workspace-package/pages-service",
   claim:

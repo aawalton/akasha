@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const depthCostsAReaderWhatNoShapeAccountsFor = {
   id: "01a05e08-d523-7c39-9c40-5b5be80e7944",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "depth-costs-a-reader-what-no-shape-accounts-for",
   domain: "page-type/sentence-shape",
   claim:

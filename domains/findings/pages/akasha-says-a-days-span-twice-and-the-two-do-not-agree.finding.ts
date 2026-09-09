@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const akashaSaysADaysSpanTwiceAndTheTwoDoNotAgree = {
   id: "01a06433-8ace-70cd-84a6-569f23e88da4",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "akasha-says-a-days-span-twice-and-the-two-do-not-agree",
   domain: "domain/health-samples-day",
   claim:

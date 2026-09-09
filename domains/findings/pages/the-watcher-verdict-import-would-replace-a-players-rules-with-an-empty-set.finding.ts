@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theWatcherVerdictImportWouldReplaceAPlayersRulesWithAnEmptySet = {
   id: "01a07233-6e9d-7640-990d-aa54a760a6d5",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-watcher-verdict-import-would-replace-a-players-rules-with-an-empty-set",
   domain: "domain/temper",
   claim:

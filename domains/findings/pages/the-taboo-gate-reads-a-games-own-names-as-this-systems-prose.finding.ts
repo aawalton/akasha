@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theTabooGateReadsAGamesOwnNamesAsThisSystemsProse = {
   id: "01a06271-8a44-7002-a1f6-83d9e0b4c527",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-taboo-gate-reads-a-games-own-names-as-this-systems-prose",
   domain: "workspace-package/domain",
   claim:

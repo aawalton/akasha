@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const nothingBoundsHowManyProcessesACheckRunStartsAtOnce = {
   id: "01a08385-97f3-72e2-881a-233c6abdd82c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "nothing-bounds-how-many-processes-a-check-run-starts-at-once",
   domain: "workspace-package/check",
   claim:

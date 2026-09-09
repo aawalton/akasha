@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const akashaHasNoPropertyTypeForACalendarDay = {
   id: "01a05fc7-f920-7cdd-b946-5864f6b6665d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "akasha-has-no-property-type-for-a-calendar-day",
   domain: "workspace-package/page",
   claim:

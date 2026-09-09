@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const fiveStoryPageTypesWereMadeForKeysNoPropertyDeclared = {
   id: "01a06584-deb2-7072-8909-802201a4fcc0",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "five-story-page-types-were-made-for-keys-no-property-declared",
   domain: "domain/story-engine",
   claim:

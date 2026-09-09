@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aServiceInstallNamingOneSlugCannotRemoveAUnitItDoesNotOwn = {
   id: "01a0696a-b614-71f7-8f6a-4c0450d9d862",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-service-install-naming-one-slug-cannot-remove-a-unit-it-does-not-own",
   domain: "workspace-package/service",
   claim:

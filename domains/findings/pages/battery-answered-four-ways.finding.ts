@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const batteryAnsweredFourWays = {
   id: "01a06555-9f3d-7793-b4d6-d01dce844a16",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "battery-answered-four-ways",
   domain: "domain/all-about-alan",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aGuardThatReportsFailureOnSuccess = {
   id: "01a06805-e2b9-7003-82f0-00b58b37ce61",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-guard-that-reports-failure-on-success",
   domain: "workspace-package/lua-compiler",
   claim:

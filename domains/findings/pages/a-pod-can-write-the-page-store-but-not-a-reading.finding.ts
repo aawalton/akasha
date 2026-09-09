@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPodCanWriteThePageStoreButNotAReading = {
   id: "01a05b44-9d68-731e-8ba6-22d1817a4656",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-pod-can-write-the-page-store-but-not-a-reading",
   domain: "domain/monarch",
   claim:

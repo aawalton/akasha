@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRefusedPackageMoveTakesTheCliFromEverySeat = {
   id: "01a0735b-f44b-7046-bd29-811b663c568a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-refused-package-move-takes-the-cli-from-every-seat",
   domain: "domain/akasha",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const readingOnePageValueLoadsEveryPageValue = {
   id: "01a062bd-d92d-7c9a-b63b-84835f2307fc",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "reading-one-page-value-loads-every-page-value",
   domain: "workspace-package/page",
   claim:

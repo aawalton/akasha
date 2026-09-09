@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const akashaCannotSpellTheServerMarker = {
   id: "01a063d6-69ce-7000-aea8-93218c31b356",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "akasha-cannot-spell-the-server-marker",
   domain: "domain/naming",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const homeschoolLawLoadBearing = {
   id: "01a06555-9f3e-7489-b4da-a8889e7c6098",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "homeschool-law-load-bearing",
   domain: "domain/all-about-alan",
   claim:

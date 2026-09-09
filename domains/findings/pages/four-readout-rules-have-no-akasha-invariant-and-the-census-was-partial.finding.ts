@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const fourReadoutRulesHaveNoAkashaInvariantAndTheCensusWasPartial = {
   id: "01a0641a-d59b-7394-8389-e04da87758b7",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "four-readout-rules-have-no-akasha-invariant-and-the-census-was-partial",
   domain: "workspace-package/readout",
   claim:

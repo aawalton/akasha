@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aClusterServiceNoWebAppNamesIsReadByNothing = {
   id: "01a06587-c73c-7b40-9f21-6c1a7e0b8d34",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-cluster-service-no-web-app-names-is-read-by-nothing",
   domain: "page-type/cluster-service",
   claim:

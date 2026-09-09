@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aThirdOfCheckConfigSubjectsNamePathsThatDoNotExist = {
   id: "01a06174-64ca-7b69-a316-4a50d52052dd",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-third-of-check-config-subjects-name-paths-that-do-not-exist",
   domain: "workspace-package/check",
   claim:

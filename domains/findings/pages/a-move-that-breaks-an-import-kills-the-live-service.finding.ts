@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aMoveThatBreaksAnImportKillsTheLiveService = {
   id: "01a05f21-9be3-70e7-b011-c79968564395",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-move-that-breaks-an-import-kills-the-live-service",
   domain: "workspace-package/command-system",
   claim:

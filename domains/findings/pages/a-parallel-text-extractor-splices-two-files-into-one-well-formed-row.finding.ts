@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aParallelTextExtractorSplicesTwoFilesIntoOneWellFormedRow = {
   id: "01a06751-3543-75b4-bc0b-6a740270b51d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-parallel-text-extractor-splices-two-files-into-one-well-formed-row",
   domain: "domain/instrument",
 

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aQualifiedAssignmentCanOnlyBeStatedByEditingTheSeatPage = {
   id: "01a06554-71ab-7000-a66c-865ae9e759cf",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-qualified-assignment-can-only-be-stated-by-editing-the-seat-page",
   domain: "workspace-package/seat-system",
   claim:

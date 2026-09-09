@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theAuditAnswersForTheWholeTreeAndTakesNoPath = {
   id: "01a06094-4861-7ad5-826b-91303bbe910b",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-audit-answers-for-the-whole-tree-and-takes-no-path",
   domain: "workspace-package/check",
   claim:

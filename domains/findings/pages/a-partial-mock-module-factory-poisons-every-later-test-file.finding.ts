@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPartialMockModuleFactoryPoisonsEveryLaterTestFile = {
   id: "01a072e5-e1d3-708a-9f42-39b1a599f300",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-partial-mock-module-factory-poisons-every-later-test-file",
   domain: "workspace-package/check",
   claim:

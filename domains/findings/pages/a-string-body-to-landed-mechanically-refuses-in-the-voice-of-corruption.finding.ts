@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aStringBodyToLandedMechanicallyRefusesInTheVoiceOfCorruption = {
   id: "01a06861-8448-7150-b03d-638b88f26948",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-string-body-to-landed-mechanically-refuses-in-the-voice-of-corruption",
   domain: "domain/page-storage",
   claim:

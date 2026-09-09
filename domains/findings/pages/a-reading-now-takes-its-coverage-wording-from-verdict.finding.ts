@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aReadingNowTakesItsCoverageWordingFromVerdict = {
   id: "01a05cb7-586b-7002-873f-79be5916db3c",
   pageTypeSlug: "finding",
+  type: "finding",
   domain: "domain/verdict",
   slug: "a-reading-now-takes-its-coverage-wording-from-verdict",
   claim:

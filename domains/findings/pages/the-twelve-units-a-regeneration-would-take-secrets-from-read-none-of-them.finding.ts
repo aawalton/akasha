@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theTwelveUnitsARegenerationWouldTakeSecretsFromReadNoneOfThem = {
   id: "01a069ba-68fd-717b-9010-c7c47ee5630d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-twelve-units-a-regeneration-would-take-secrets-from-read-none-of-them",
   domain: "workspace-package/service",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aFolderSitsBesideRatherThanUnderThePageDeclaringItAPart = {
   id: "01a08808-c77b-7725-9fff-3f60cc2e9b38",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-folder-sits-beside-rather-than-under-the-page-declaring-it-a-part",
   domain: "relation-property/parts",
   claim:

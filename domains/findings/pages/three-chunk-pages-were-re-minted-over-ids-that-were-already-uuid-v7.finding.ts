@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const threeChunkPagesWereReMintedOverIdsThatWereAlreadyUuidV7 = {
   id: "01a06763-14c8-72e7-8e80-95cbfa10ceff",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "three-chunk-pages-were-re-minted-over-ids-that-were-already-uuid-v7",
   domain: "domain/temper-holdings",
   claim:

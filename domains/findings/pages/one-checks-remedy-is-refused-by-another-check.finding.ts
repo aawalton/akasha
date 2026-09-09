@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const oneChecksRemedyIsRefusedByAnotherCheck = {
   id: "01a0614d-16f2-7ffd-ade3-30e0a20b7691",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "one-checks-remedy-is-refused-by-another-check",
   domain: "workspace-package/check",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aMechanicalLandingRewritesAFunctionExpressionIntoAnArrowThatCannotBeConstructed = {
   id: "01a06959-659e-7e89-9a8b-bce7deaa69d0",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-mechanical-landing-rewrites-a-function-expression-into-an-arrow-that-cannot-be-constructed",
   domain: "workspace-package/code-system",
   claim:

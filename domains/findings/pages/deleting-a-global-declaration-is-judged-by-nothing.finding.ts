@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const deletingAGlobalDeclarationIsJudgedByNothing = {
   id: "01a072f8-4bc2-7bd3-bd17-d44cf3b282e2",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "deleting-a-global-declaration-is-judged-by-nothing",
   domain: "code-check/typecheck",
   claim:

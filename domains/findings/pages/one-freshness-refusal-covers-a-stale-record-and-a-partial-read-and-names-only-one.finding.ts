@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const oneFreshnessRefusalCoversAStaleRecordAndAPartialReadAndNamesOnlyOne = {
   id: "01a068f5-7f47-7ff0-bebd-59b45ef78c63",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "one-freshness-refusal-covers-a-stale-record-and-a-partial-read-and-names-only-one",
   domain: "workspace-package/command-system",
   claim:

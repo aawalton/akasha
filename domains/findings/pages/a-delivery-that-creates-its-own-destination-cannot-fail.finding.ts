@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aDeliveryThatCreatesItsOwnDestinationCannotFail = {
   id: "01a06202-3164-7000-a507-9237ebfc019d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-delivery-that-creates-its-own-destination-cannot-fail",
   domain: "workspace-package/seat-system",
   claim:

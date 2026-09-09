@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const correctingHowACheckReadsIsNotChangingWhatItRefuses = {
   id: "01a063bd-a4ba-7303-877b-a2aa48cb5e3c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "correcting-how-a-check-reads-is-not-changing-what-it-refuses",
   domain: "workspace-package/check",
   claim:

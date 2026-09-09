@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const readLiveFromHasNoAkashaPropertySoTheMonarchSourceCannotBeCarried = {
   id: "01a0641a-d59b-7969-a13f-820e1245001a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "read-live-from-has-no-akasha-property-so-the-monarch-source-cannot-be-carried",
   domain: "workspace-package/readout",
   claim:

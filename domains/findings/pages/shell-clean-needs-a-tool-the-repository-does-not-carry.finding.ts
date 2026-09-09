@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const shellCleanNeedsAToolTheRepositoryDoesNotCarry = {
   id: "01a07c9d-8804-7c13-87d4-6381de9d2251",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "shell-clean-needs-a-tool-the-repository-does-not-carry",
   domain: "workspace-package/check",
   claim:

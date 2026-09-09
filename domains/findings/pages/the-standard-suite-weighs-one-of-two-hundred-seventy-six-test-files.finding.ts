@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theStandardSuiteWeighsOneOfTwoHundredSeventySixTestFiles = {
   id: "01a05cf8-fcf2-7000-9b19-d2bf2b3bc211",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-standard-suite-weighs-one-of-two-hundred-seventy-six-test-files",
   domain: "workspace-package/check",
   claim:

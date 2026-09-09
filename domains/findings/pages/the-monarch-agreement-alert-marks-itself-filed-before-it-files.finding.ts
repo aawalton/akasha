@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theMonarchAgreementAlertMarksItselfFiledBeforeItFiles = {
   id: "01a061cc-ec2e-7000-ad8f-e19e141614fa",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-monarch-agreement-alert-marks-itself-filed-before-it-files",
   domain: "domain/monarch",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theCodeCeilingReachedProseWhoseDivisionAkashaDoesNotDecide = {
   id: "01a0693b-cd0f-7827-bed8-bcf6016e188a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-code-ceiling-reached-prose-whose-division-akasha-does-not-decide",
   domain: "workspace-package/check",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theCheckForStalePathLiteralsWasAblatedHoursBeforeItWasNeeded = {
   id: "01a06973-62d8-78c5-97ec-faa7a699df76",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-check-for-stale-path-literals-was-ablated-hours-before-it-was-needed",
   domain: "workspace-package/check",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const removingAModulePageLeavesItsCodeAndItsTestBehind = {
   id: "01a060be-c946-7004-9123-bd06975b62f1",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "removing-a-module-page-leaves-its-code-and-its-test-behind",
   domain: "workspace-package/page",
   claim:

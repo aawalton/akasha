@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theWorkloadCensusAndTheSecretPlacingLandInsideAkashaWithNoCaller = {
   id: "01a0697d-0dba-7118-b19f-723601a90103",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-workload-census-and-the-secret-placing-land-inside-akasha-with-no-caller",
   domain: "workspace-package/service",
   claim:

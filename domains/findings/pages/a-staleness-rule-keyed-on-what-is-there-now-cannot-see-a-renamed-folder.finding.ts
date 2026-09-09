@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aStalenessRuleKeyedOnWhatIsThereNowCannotSeeARenamedFolder = {
   id: "01a07c93-24f3-75e1-9d8a-2fec0c3580f9",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-staleness-rule-keyed-on-what-is-there-now-cannot-see-a-renamed-folder",
   domain: "workspace-package/check",
   claim:

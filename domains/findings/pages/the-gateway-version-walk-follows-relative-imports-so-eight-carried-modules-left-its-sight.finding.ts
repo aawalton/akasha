@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theGatewayVersionWalkFollowsRelativeImportsSoEightCarriedModulesLeftItsSight = {
   id: "01a0695a-9ecc-7bee-acb5-748712c9d07a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-gateway-version-walk-follows-relative-imports-so-eight-carried-modules-left-its-sight",
   domain: "domain/model-gateway",
   claim:

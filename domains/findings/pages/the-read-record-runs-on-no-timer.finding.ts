@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theReadRecordRunsOnNoTimer = {
   id: "01a0623f-375c-7d09-a6c2-3f730eb3be15",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-read-record-runs-on-no-timer",
   domain: "workspace-package/seat-system",
   claim:

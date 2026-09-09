@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aCspNonceRestsOnRandomIdStayingUnpredictableAndNothingSaysSo = {
   id: "01a05c77-45e6-711b-ac95-370cb69c228f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-csp-nonce-rests-on-random-id-staying-unpredictable-and-nothing-says-so",
   domain: "domain/id-minting",
   claim:

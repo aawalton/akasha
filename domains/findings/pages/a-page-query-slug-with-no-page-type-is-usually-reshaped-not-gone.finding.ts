@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPageQuerySlugWithNoPageTypeIsUsuallyReshapedNotGone = {
   id: "01a06a3c-7100-7000-9f2b-4d1c8e37a501",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-page-query-slug-with-no-page-type-is-usually-reshaped-not-gone",
   domain: "workspace-package/page",
   claim:

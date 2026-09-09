@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const readingASeatTranscriptWholeFrozeTheEditorForLongerThanThePoll = {
   id: "01a06811-01d3-7005-9b69-8da1c638490c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "reading-a-seat-transcript-whole-froze-the-editor-for-longer-than-the-poll",
   domain: "workspace-package/editor-extension",
   claim:

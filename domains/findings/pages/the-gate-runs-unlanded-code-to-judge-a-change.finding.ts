@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theGateRunsUnlandedCodeToJudgeAChange = {
   id: "01a05dde-a390-7000-9785-78fcf54b37fb",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-gate-runs-unlanded-code-to-judge-a-change",
   domain: "workspace-package/check",
   claim:

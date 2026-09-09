@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const titleIsATemperPropertyThatSixPageTypesOutsideTemperNowCarry = {
   id: "01a0657f-0c53-7005-b16b-a77c67c1f12e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "title-is-a-temper-property-that-six-page-types-outside-temper-now-carry",
   domain: "workspace-package/page",
   claim:

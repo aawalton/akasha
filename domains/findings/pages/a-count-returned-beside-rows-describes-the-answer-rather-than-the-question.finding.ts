@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aCountReturnedBesideRowsDescribesTheAnswerRatherThanTheQuestion = {
   id: "01a06761-7580-7000-83cc-8330d9da7223",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-count-returned-beside-rows-describes-the-answer-rather-than-the-question",
   domain: "workspace-package/page",
   claim:

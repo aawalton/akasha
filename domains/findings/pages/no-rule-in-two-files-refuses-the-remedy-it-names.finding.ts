@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const noRuleInTwoFilesRefusesTheRemedyItNames = {
   id: "01a060f3-ad30-7805-a80b-2ef41bc2dcd0",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "no-rule-in-two-files-refuses-the-remedy-it-names",
   domain: "workspace-package/check",
   claim:

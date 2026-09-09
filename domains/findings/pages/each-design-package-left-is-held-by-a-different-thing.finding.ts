@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const eachDesignPackageLeftIsHeldByADifferentThing = {
   id: "01a05c26-3b16-74ea-a002-b5ac33f7ea23",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "each-design-package-left-is-held-by-a-different-thing",
   domain: "domain/design",
   claim:

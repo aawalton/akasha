@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theWebPodsLivenessKillsBlankTheTileEachTime = {
   id: "01a05e55-75bc-73b7-bc21-39060dfec426",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-web-pods-liveness-kills-blank-the-tile-each-time",
   domain: "cluster-service/alanwalton-web",
   claim:

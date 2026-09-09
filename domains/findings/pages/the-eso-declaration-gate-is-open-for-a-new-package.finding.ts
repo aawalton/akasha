@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theEsoDeclarationGateIsOpenForANewPackage = {
   id: "01a060ec-47c0-7551-b7cc-402c01503bca",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-eso-declaration-gate-is-open-for-a-new-package",
   domain: "workspace-package/temper-eso-types",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theActsCanFoldAWorkspacePackageAwayAndCannotMakeOne = {
   id: "01a08806-d4e8-7158-9667-1b84bd89e320",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-acts-can-fold-a-workspace-package-away-and-cannot-make-one",
   domain: "workspace-package/change",
   claim:

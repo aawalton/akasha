@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const healthcareAuditGaps = {
   id: "01a06555-9f3e-736d-aef0-517ea046ebf9",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "healthcare-audit-gaps",
   domain: "domain/all-about-alan",
   claim:

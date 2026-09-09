@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const everyWebAppHoldsItsBuildOnOneNode = {
   id: "01a05b08-26f6-7003-ac30-d9e8f8f02f09",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "every-web-app-holds-its-build-on-one-node",
   domain: "page-type/cluster-service",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anEarnedColorIsCarriedOnThePagesAndReachesNoWire = {
   id: "01a06230-b156-77de-b63d-ecd6de4b9bec",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-earned-color-is-carried-on-the-pages-and-reaches-no-wire",
   domain: "domain/inbox",
   claim:

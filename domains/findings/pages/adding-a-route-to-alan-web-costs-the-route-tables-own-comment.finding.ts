@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const addingARouteToAlanWebCostsTheRouteTablesOwnComment = {
   id: "01a06858-8cfa-7520-8959-a7bb74383314",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "adding-a-route-to-alan-web-costs-the-route-tables-own-comment",
   domain: "router-app/alan-web",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aNameRuleCannotBeWrittenAsAFormulaWhileStemmingStandsOutsideTheLanguage = {
   id: "01a06860-a0ef-7f25-93d7-e6e5da8a4cd7",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-name-rule-cannot-be-written-as-a-formula-while-stemming-stands-outside-the-language",
   domain: "domain/naming",
   claim:

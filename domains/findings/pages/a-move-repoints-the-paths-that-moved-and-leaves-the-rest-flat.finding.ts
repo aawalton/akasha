@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aMoveRepointsThePathsThatMovedAndLeavesTheRestFlat = {
   id: "01a0611a-558a-701f-9a7d-aa2cb0a8447c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-move-repoints-the-paths-that-moved-and-leaves-the-rest-flat",
   domain: "command/move",
   claim:

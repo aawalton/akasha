@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anEntryFilesRowsAreJudgedAtAuditRatherThanAsTheyLand = {
   id: "01a05fcc-89cf-71f7-9240-c4454b6ca686",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-entry-files-rows-are-judged-at-audit-rather-than-as-they-land",
   domain: "workspace-package/check",
   claim:

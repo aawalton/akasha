@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const nothingButTheAgentSurfacesACheckBypassThatAgentTook = {
   id: "01a06488-e217-7263-b6ed-65bd3e959673",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "nothing-but-the-agent-surfaces-a-check-bypass-that-agent-took",
   domain: "workspace-package/command-system",
   claim:

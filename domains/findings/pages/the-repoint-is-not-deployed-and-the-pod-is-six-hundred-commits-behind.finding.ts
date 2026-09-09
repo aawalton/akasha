@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theRepointIsNotDeployedAndThePodIsSixHundredCommitsBehind = {
   id: "01a05e67-cd80-7dd2-b541-c7f2c0a5c426",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-repoint-is-not-deployed-and-the-pod-is-six-hundred-commits-behind",
   domain: "cluster-service/alanwalton-web",
   claim:

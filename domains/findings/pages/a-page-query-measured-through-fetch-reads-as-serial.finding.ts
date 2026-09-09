@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPageQueryMeasuredThroughFetchReadsAsSerial = {
   id: "01a05aef-b3e7-7975-9971-2d8e5926c826",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-page-query-measured-through-fetch-reads-as-serial",
   domain: "workspace-package/page",
   claim:

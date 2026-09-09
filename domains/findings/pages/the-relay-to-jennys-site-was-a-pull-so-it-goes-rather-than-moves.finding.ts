@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theRelayToJennysSiteWasAPullSoItGoesRatherThanMoves = {
   id: "01a05b94-72d3-7b66-adc0-866f685521a5",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-relay-to-jennys-site-was-a-pull-so-it-goes-rather-than-moves",
   domain: "domain/monarch",
   claim:

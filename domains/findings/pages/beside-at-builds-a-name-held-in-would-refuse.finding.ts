@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const besideAtBuildsANameHeldInWouldRefuse = {
   id: "01a06739-87e7-720a-bdd8-5dcb5d41e88a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "beside-at-builds-a-name-held-in-would-refuse",
   domain: "module/page-file-name",
   claim:

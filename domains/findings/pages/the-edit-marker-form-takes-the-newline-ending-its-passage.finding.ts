@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theEditMarkerFormTakesTheNewlineEndingItsPassage = {
   id: "01a06297-3921-795e-a0a9-67cfda397279",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-edit-marker-form-takes-the-newline-ending-its-passage",
   domain: "workspace-package/command-system",
   claim:

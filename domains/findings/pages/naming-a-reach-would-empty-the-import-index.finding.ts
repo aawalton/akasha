@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const namingAReachWouldEmptyTheImportIndex = {
   id: "01a05ad9-3b73-787f-ab20-ed7c86112b62",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "naming-a-reach-would-empty-the-import-index",
   domain: "workspace-package/page",
   claim:

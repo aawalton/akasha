@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aScratchScriptCarriesEveryGuardedCallPastEveryHook = {
   id: "01a076dd-7f97-774a-991d-50a92cd4d22b",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-scratch-script-carries-every-guarded-call-past-every-hook",
   domain: "workspace-package/hook-system",
   claim:

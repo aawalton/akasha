@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const entriesMarksTheDeclarationsKeptBesideThePageRatherThanEveryList = {
   id: "01a05f81-c595-7001-9953-21eae3b70cd9",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "entries-marks-the-declarations-kept-beside-the-page-rather-than-every-list",
   domain: "workspace-package/page",
   claim:

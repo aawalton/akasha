@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theTypecheckThatRunsReachesOneFolderAndTheOneReachingWiderRunsNowhere = {
   id: "01a05c47-3f21-7a04-9e6b-2c8d5f10b47e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-typecheck-that-runs-reaches-one-folder-and-the-one-reaching-wider-runs-nowhere",
   domain: "workspace-package/check",
   claim:

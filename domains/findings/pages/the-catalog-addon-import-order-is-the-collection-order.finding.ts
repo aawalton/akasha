@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theCatalogAddonImportOrderIsTheCollectionOrder = {
   id: "01a060ec-47c3-733d-9424-bfcda1f495ad",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-catalog-addon-import-order-is-the-collection-order",
   domain: "workspace-package/temper-catalog-core",
   claim:

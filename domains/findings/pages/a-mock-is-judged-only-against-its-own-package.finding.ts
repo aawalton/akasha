@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aMockIsJudgedOnlyAgainstItsOwnPackage = {
   id: "01a05b9d-46fd-7000-9af5-74829e1604ae",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-mock-is-judged-only-against-its-own-package",
   domain: "domain/test",
   claim:

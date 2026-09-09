@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPostToAnApiRouteHoldingOnlyALoaderAnswers405NamingNothing = {
   id: "01a06233-591a-7e50-a81b-b072230c7baa",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-post-to-an-api-route-holding-only-a-loader-answers-405-naming-nothing",
   domain: "router-app/alan-web",
   claim:

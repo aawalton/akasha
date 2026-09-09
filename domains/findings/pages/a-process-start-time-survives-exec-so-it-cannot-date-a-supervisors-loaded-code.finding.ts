@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aProcessStartTimeSurvivesExecSoItCannotDateASupervisorsLoadedCode = {
   id: "01a0697b-4542-7d05-ae72-7c2ce432ffe8",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-process-start-time-survives-exec-so-it-cannot-date-a-supervisors-loaded-code",
   domain: "domain/instrument",
 

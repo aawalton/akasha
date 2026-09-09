@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRenamedModuleLeavesItsInstalledUnitOnTheOldPath = {
   id: "01a05e50-ef80-7355-a5e8-5c4165e3cc3e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-renamed-module-leaves-its-installed-unit-on-the-old-path",
   domain: "page-type/workstation-service",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aSubfolderWithNoPageCanNeverBeADeclaredPart = {
   id: "01a08807-e84e-7ead-87b3-71bb759d1df9",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-subfolder-with-no-page-can-never-be-a-declared-part",
   domain: "page-type/folder-shape",
   claim:

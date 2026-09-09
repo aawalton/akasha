@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const noMethodSignatureCostsAnOverloadSetWhereverOneInterfaceSpansTwoFiles = {
   id: "01a060cc-6ac2-705f-bf46-babe6e2cc59f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "no-method-signature-costs-an-overload-set-wherever-one-interface-spans-two-files",
   domain: "workspace-package/temper-eso-types",
   claim:

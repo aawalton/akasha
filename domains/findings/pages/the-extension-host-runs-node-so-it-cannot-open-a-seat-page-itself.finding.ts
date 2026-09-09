@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theExtensionHostRunsNodeSoItCannotOpenASeatPageItself = {
   id: "01a06811-01d3-7006-859a-d62a552760e8",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-extension-host-runs-node-so-it-cannot-open-a-seat-page-itself",
   domain: "workspace-package/editor-extension",
   claim:

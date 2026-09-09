@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aSlugSpelledInCodeOutlivesTheRename = {
   id: "01a08312-3868-7f3e-969b-1fb0632c7dea",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-slug-spelled-in-code-outlives-the-rename",
   domain: "change-mechanical/rename-file-page-type",
   claim:

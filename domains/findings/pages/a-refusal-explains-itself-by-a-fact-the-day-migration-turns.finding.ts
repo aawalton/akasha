@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRefusalExplainsItselfByAFactTheDayMigrationTurns = {
   id: "01a0608f-82c2-7f86-a40d-fc9823ddec7f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-refusal-explains-itself-by-a-fact-the-day-migration-turns",
   domain: "workspace-package/code-system",
 

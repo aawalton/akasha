@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPageKindCarryingNoFileOfItsOwnStillHoldsRows = {
   id: "01a0636b-ea30-7adc-871e-3b747b1486d5",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-page-kind-carrying-no-file-of-its-own-still-holds-rows",
   domain: "domain/story-engine",
   claim:

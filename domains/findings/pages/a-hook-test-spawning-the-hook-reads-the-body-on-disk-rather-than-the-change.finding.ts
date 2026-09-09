@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aHookTestSpawningTheHookReadsTheBodyOnDiskRatherThanTheChange = {
   id: "01a081c6-fcd3-7912-a592-7d178669dfbc",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-hook-test-spawning-the-hook-reads-the-body-on-disk-rather-than-the-change",
   domain: "hook-system",
   claim:

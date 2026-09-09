@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPagesPathspecCommitsWhatAnotherSeatRemoved = {
   id: "01a0673c-4ed9-719f-84dc-ffa781b39428",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-pages-pathspec-commits-what-another-seat-removed",
   domain: "workspace-package/command-system",
   claim:

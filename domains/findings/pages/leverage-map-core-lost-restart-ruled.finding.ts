@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const leverageMapCoreLostRestartRuled = {
   id: "01a06555-9f3e-779b-8465-3e2e773fb45b",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "leverage-map-core-lost-restart-ruled",
   domain: "domain/all-about-alan",
   claim:

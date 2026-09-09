@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aSameSlugCollisionRefusesAnEditWhileTheSchemaIndexAnswersFine = {
   id: "01a068bd-995c-7bea-9427-54436916a6bf",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-same-slug-collision-refuses-an-edit-while-the-schema-index-answers-fine",
   domain: "workspace-package/index",
   claim:

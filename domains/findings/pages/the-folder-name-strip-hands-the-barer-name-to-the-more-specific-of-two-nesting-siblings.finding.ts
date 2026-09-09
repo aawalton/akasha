@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theFolderNameStripHandsTheBarerNameToTheMoreSpecificOfTwoNestingSiblings = {
   id: "01a0881e-8ac2-759c-a0ab-f4eeaa68f2db",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-folder-name-strip-hands-the-barer-name-to-the-more-specific-of-two-nesting-siblings",
   domain: "code-check/folder-matches-a-shape",
   claim:

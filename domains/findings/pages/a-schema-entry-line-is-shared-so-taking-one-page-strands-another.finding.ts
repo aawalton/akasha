@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aSchemaEntryLineIsSharedSoTakingOnePageStrandsAnother = {
   id: "01a068ae-4447-7c82-b77d-6bfbe97069e0",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-schema-entry-line-is-shared-so-taking-one-page-strands-another",
   domain: "workspace-package/index",
   claim:

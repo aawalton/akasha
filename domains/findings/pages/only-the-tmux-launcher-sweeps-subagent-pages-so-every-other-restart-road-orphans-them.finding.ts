@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const onlyTheTmuxLauncherSweepsSubagentPagesSoEveryOtherRestartRoadOrphansThem = {
   id: "01a06978-6159-7286-9b8e-6972a18e89b1",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "only-the-tmux-launcher-sweeps-subagent-pages-so-every-other-restart-road-orphans-them",
   domain: "workspace-package/seat-system",
   claim:

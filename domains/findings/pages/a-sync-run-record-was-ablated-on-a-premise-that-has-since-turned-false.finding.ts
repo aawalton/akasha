@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aSyncRunRecordWasAblatedOnAPremiseThatHasSinceTurnedFalse = {
   id: "01a0687b-de90-7001-a005-4c7dd05a8ea1",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-sync-run-record-was-ablated-on-a-premise-that-has-since-turned-false",
   domain: "page-type/collection",
   claim:

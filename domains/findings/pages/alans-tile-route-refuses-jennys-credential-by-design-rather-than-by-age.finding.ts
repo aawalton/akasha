@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const alansTileRouteRefusesJennysCredentialByDesignRatherThanByAge = {
   id: "01a05ce0-05f3-746e-ad0b-41025105eb09",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "alans-tile-route-refuses-jennys-credential-by-design-rather-than-by-age",
   domain: "router-app/alan-web",
   claim:

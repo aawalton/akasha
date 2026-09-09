@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aReconstructionThatChecksOutIsAMeasurementAtTheReader = {
   id: "01a0646a-b84f-7612-b20b-5c805776126c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-reconstruction-that-checks-out-is-a-measurement-at-the-reader",
   domain: "page-type/role",
   claim:

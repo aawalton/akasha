@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPageQueryHoldsTheLoopWhileItReads = {
   id: "01a05ab8-fce9-7775-97fa-12c758702008",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-page-query-holds-the-loop-while-it-reads",
   domain: "workspace-package/page",
   claim:

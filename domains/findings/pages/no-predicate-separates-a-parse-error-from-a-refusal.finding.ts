@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const noPredicateSeparatesAParseErrorFromARefusal = {
   id: "01a073da-e0e6-7fab-a025-66898b63a03a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "no-predicate-separates-a-parse-error-from-a-refusal",
   domain: "workspace-package/plain-language",
   claim:

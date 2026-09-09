@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theAkashaGatewayEntryWritesNoTransportRowBecauseNoLogPathReachesIt = {
   id: "01a06985-0000-7000-9a01-6d6733e1a002",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-akasha-gateway-entry-writes-no-transport-row-because-no-log-path-reaches-it",
   domain: "domain/model-gateway",
   claim:

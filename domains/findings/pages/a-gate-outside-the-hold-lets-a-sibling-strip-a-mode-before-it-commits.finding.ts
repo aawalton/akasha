@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aGateOutsideTheHoldLetsASiblingStripAModeBeforeItCommits = {
   id: "01a062ed-716f-7863-9623-28767404df5b",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-gate-outside-the-hold-lets-a-sibling-strip-a-mode-before-it-commits",
   domain: "workspace-package/command-system",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theEditorLayoutWriteCommandIsRegisteredAndNeverContributed = {
   id: "01a06816-69fa-7004-b122-c905090f0185",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-editor-layout-write-command-is-registered-and-never-contributed",
   domain: "workspace-package/editor-extension",
   claim:

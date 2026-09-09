@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anAkashaDeployCannotReachTheDeploySystem = {
   id: "01a05b08-26f6-7002-b2b2-70eaaa535aa2",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-akasha-deploy-cannot-reach-the-deploy-system",
   domain: "workspace-package/service",
   claim:

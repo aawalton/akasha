@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aLazyImportShimHasNothingLeftOnceItsTargetIsBarred = {
   id: "01a06039-c825-700d-917b-29f9fbdc32ee",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-lazy-import-shim-has-nothing-left-once-its-target-is-barred",
   domain: "domain/temper-addon-build",
   claim:

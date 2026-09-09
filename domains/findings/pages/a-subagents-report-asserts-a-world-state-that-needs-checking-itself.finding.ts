@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aSubagentsReportAssertsAWorldStateThatNeedsCheckingItself = {
   id: "01a06805-e2b9-725c-9fb1-e58c9b821031",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-subagents-report-asserts-a-world-state-that-needs-checking-itself",
   domain: "workspace-package/seat-system",
   claim:

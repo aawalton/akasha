@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anAnonKeyForSupabaseIsInTheCommit = {
   id: "01a05d1a-87dc-7968-889e-d85c122a224f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-anon-key-for-supabase-is-in-the-commit",
   domain: "page-type/change",
   claim:

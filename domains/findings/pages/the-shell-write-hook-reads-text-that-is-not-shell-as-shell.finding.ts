@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theShellWriteHookReadsTextThatIsNotShellAsShell = {
   id: "01a06cf7-51d4-7000-9125-07804c6337ce",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-shell-write-hook-reads-text-that-is-not-shell-as-shell",
   domain: "workspace-package/hook-system",
   claim:

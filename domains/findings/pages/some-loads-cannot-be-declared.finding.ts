@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const someLoadsCannotBeDeclared = {
   id: "01a0533f-2c7d-7823-85dd-490c3514530f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "some-loads-cannot-be-declared",
   domain: "domain/graph",
   claim:

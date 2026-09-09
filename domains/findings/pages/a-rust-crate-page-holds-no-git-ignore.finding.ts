@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRustCratePageHoldsNoGitIgnore = {
   id: "01a06039-9b93-729a-b7ff-5e970e45c1c7",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-rust-crate-page-holds-no-git-ignore",
   domain: "workspace-package/code-system",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const findingsCarryAnUnsourcedDate = {
   id: "01a06555-9f3e-7e99-b8af-ba7ef9334c58",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "findings-carry-an-unsourced-date",
   domain: "domain/all-about-alan",
   claim:

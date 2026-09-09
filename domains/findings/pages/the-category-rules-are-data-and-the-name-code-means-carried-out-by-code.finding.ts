@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theCategoryRulesAreDataAndTheNameCodeMeansCarriedOutByCode = {
   id: "01a0657f-0c53-7000-aacc-5fbfb4971be1",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-category-rules-are-data-and-the-name-code-means-carried-out-by-code",
   domain: "domain/monarch",
   claim:

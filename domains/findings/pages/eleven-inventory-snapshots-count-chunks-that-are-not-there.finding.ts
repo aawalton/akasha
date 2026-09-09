@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const elevenInventorySnapshotsCountChunksThatAreNotThere = {
   id: "01a05fdf-9a2c-70a0-b16d-dff82335e524",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "eleven-inventory-snapshots-count-chunks-that-are-not-there",
   domain: "domain/temper-holdings",
   claim:

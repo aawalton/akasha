@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const thePageTypeRegistryGapIsDuplicateDeclarationsRatherThanMissingTypes = {
   id: "01a06104-5116-7230-ab56-82f0dc1cd4a9",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-page-type-registry-gap-is-duplicate-declarations-rather-than-missing-types",
   domain: "workspace-package/page",
   claim:

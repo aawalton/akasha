@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const resolvingAMediaPageByIdRereadsEveryChapterFile = {
   id: "01a05cf4-03d5-76f2-b8eb-e70319d85a54",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "resolving-a-media-page-by-id-rereads-every-chapter-file",
   domain: "workspace-package/pages-access",
   claim:

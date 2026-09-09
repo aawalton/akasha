@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const mostWaysIntoPagesUiComponentsAreTakenOnlyFromInside = {
   id: "01a06243-3095-710f-bb2f-2d677b6ae0d8",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "most-ways-into-pages-ui-components-are-taken-only-from-inside",
   domain: "workspace-package/components",
   claim:

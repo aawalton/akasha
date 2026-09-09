@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const amendDeclaresStartAndEndAndReadsNeither = {
   id: "01a06916-18af-76b7-bf1a-f655d5d20fdf",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "amend-declares-start-and-end-and-reads-neither",
   domain: "command/track",
   claim:

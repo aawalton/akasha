@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPathABodyAssemblesAtRuntimeIsInvisibleToEveryTextualNamer = {
   id: "01a06285-94dc-71f1-b8f2-3dc54b8a9601",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-path-a-body-assembles-at-runtime-is-invisible-to-every-textual-namer",
   domain: "workspace-package/command-system",
   claim:

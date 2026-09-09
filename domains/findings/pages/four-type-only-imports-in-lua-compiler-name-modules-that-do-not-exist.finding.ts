@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const fourTypeOnlyImportsInLuaCompilerNameModulesThatDoNotExist = {
   id: "01a06798-4d53-7002-ba7c-dd86c13d92c0",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "four-type-only-imports-in-lua-compiler-name-modules-that-do-not-exist",
   domain: "workspace-package/lua-compiler",
   claim:

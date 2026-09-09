@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theLokiCommandLooksInANamespaceTheClusterNoLongerHolds = {
   id: "01a08232-eeec-7e57-b85e-1d07246e4a8b",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-loki-command-looks-in-a-namespace-the-cluster-no-longer-holds",
   domain: "command/infrastructure-loki",
   claim:

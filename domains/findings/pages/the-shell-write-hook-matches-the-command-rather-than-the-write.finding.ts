@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theShellWriteHookMatchesTheCommandRatherThanTheWrite = {
   id: "01a06418-219d-794a-a10e-14fddb8d73d6",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-shell-write-hook-matches-the-command-rather-than-the-write",
   domain: "workspace-package/hook-system",
   claim:

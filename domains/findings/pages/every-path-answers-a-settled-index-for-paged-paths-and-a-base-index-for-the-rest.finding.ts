@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const everyPathAnswersASettledIndexForPagedPathsAndABaseIndexForTheRest = {
   id: "01a07cd0-4409-7e34-8cd7-97fdb9a93a53",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "every-path-answers-a-settled-index-for-paged-paths-and-a-base-index-for-the-rest",
   domain: "workspace-package/check",
   claim:

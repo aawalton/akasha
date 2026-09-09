@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const fiveOrderListBoxCallsSetTheParameterBesideTheOneTheyMeant = {
   id: "01a062c3-06b5-7b39-9cdd-78c3994658fe",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "five-order-list-box-calls-set-the-parameter-beside-the-one-they-meant",
   domain: "eso-addon/temper-lib-addon-menu-order-list-box",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const fiveMisnamedFolderRefusalsNameAFaultThatIsNotTheFolderName = {
   id: "01a087c2-1440-770d-86fb-d02f969825ca",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "five-misnamed-folder-refusals-name-a-fault-that-is-not-the-folder-name",
   domain: "code-check/folder-matches-a-shape",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aFolderWithTwoPagesMasksTheOpensWithRefusalOnItsSiblings = {
   id: "01a08803-bd6a-7783-92ce-164fe7f3fc0f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-folder-with-two-pages-masks-the-opens-with-refusal-on-its-siblings",
   domain: "code-check/folder-matches-a-shape",
   claim:

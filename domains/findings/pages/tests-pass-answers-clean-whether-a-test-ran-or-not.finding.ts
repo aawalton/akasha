@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const testsPassAnswersCleanWhetherATestRanOrNot = {
   id: "01a087d2-d1ef-7c93-b89d-cc09f815167a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "tests-pass-answers-clean-whether-a-test-ran-or-not",
   domain: "workspace-package/check",
   claim:

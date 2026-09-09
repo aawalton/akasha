@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theRepoTypecheckNumberReadItsOwnHarnessHighAndLow = {
   id: "01a05ff7-cf13-7000-8880-aeb418e56e61",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-repo-typecheck-number-read-its-own-harness-high-and-low",
   domain: "workspace-package/check",
   claim:

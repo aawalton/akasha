@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const mergingTheTwoLandingLocksLetsTheHarnessStealALiveAkashaHold = {
   id: "01a06578-445f-77c8-8f2a-4cdb8a31a9fd",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "merging-the-two-landing-locks-lets-the-harness-steal-a-live-akasha-hold",
   domain: "workspace-package/git",
   claim:

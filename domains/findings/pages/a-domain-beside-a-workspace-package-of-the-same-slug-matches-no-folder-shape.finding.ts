@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aDomainBesideAWorkspacePackageOfTheSameSlugMatchesNoFolderShape = {
   id: "01a08803-21e4-7333-b6fb-e2e60ff5014d",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-domain-beside-a-workspace-package-of-the-same-slug-matches-no-folder-shape",
   domain: "code-check/folder-matches-a-shape",
   claim:

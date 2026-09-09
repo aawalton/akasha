@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anAblationSearchThatReadsImportsMissesADynamicOne = {
   id: "01a0685d-4b35-701a-8ebd-2164b14035a7",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-ablation-search-that-reads-imports-misses-a-dynamic-one",
   domain: "domain/audit-ast-unused",
   claim:

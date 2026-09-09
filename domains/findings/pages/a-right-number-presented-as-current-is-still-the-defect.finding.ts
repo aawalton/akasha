@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRightNumberPresentedAsCurrentIsStillTheDefect = {
   id: "01a068c4-ede7-79fd-88c0-60d908e08694",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-right-number-presented-as-current-is-still-the-defect",
   domain: "domain/inbox",
   claim:

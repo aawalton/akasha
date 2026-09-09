@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aDeepLinkOntoAPageTypeWithNoFilesFailsOnlyOnTheTap = {
   id: "01a06926-5c9f-7158-b7a9-1a1ca87ba06f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-deep-link-onto-a-page-type-with-no-files-fails-only-on-the-tap",
   domain: "router-app/alan-web",
   claim:

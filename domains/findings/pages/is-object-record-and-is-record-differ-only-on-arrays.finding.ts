@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const isObjectRecordAndIsRecordDifferOnlyOnArrays = {
   id: "01a05cb7-586b-7001-9b6e-14779448c85b",
   pageTypeSlug: "finding",
+  type: "finding",
   domain: "domain/utils-narrow",
   slug: "is-object-record-and-is-record-differ-only-on-arrays",
   claim:

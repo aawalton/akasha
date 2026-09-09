@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const notApplicableOverAZeroPopulationIsTheOneVerdictNothingCatches = {
   id: "01a05cf8-fcf2-7002-aef7-c2dadb56ef54",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "not-applicable-over-a-zero-population-is-the-one-verdict-nothing-catches",
   domain: "workspace-package/check",
   claim:

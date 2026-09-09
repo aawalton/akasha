@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theProvisioningScriptsStillCarryTheirOwnTable = {
   id: "01a06866-fd54-7c00-ba6c-111c5fd11895",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-provisioning-scripts-still-carry-their-own-table",
   domain: "domain/provisioning",
   claim:

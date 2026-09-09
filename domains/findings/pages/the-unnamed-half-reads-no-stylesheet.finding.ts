@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theUnnamedHalfReadsNoStylesheet = {
   id: "01a06318-4aaf-7e11-a77f-4f6aa63a59fc",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-unnamed-half-reads-no-stylesheet",
   domain: "workspace-package/check",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const glowforgeVendorKillable = {
   id: "01a06555-9f3e-729c-80f2-e83bc616820f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "glowforge-vendor-killable",
   domain: "domain/all-about-alan",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aCheckedLandingCannotAddAnExportsEntryBecauseItsTestArmResolvesAgainstDisk = {
   id: "01a06974-c192-752c-a279-dabdb5086fd3",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-checked-landing-cannot-add-an-exports-entry-because-its-test-arm-resolves-against-disk",
   domain: "workspace-package/check",
 

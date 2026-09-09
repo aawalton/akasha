@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const audhdProviderDecisionOpen = {
   id: "01a06555-9f3d-70c3-921d-62ef7554d9b7",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "audhd-provider-decision-open",
   domain: "domain/all-about-alan",
   claim:

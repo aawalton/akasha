@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRequiredEntryFieldIsDeclaredAndNeverChecked = {
   id: "01a05ffa-53e0-7008-a557-f6eea422cd18",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-required-entry-field-is-declared-and-never-checked",
   domain: "workspace-package/check",
   claim:

@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const directProducerCandidatesUnidentified = {
   id: "01a06555-9f3d-70dd-9336-c3af6ad4a294",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "direct-producer-candidates-unidentified",
   domain: "domain/all-about-alan",
   claim:

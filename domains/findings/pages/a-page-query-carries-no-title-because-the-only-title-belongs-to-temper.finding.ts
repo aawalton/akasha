@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aPageQueryCarriesNoTitleBecauseTheOnlyTitleBelongsToTemper = {
   id: "01a06423-1b7c-7000-9f2a-4c81d5e0a377",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-page-query-carries-no-title-because-the-only-title-belongs-to-temper",
   domain: "workspace-package/page",
   claim:

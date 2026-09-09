@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aFolderAWebFrameworkRequiresIsRefusedByEveryFolderShape = {
   id: "01a08802-9f3d-7af8-99e9-496d429b18a0",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-folder-a-web-framework-requires-is-refused-by-every-folder-shape",
   domain: "code-check/folder-matches-a-shape",
   claim:

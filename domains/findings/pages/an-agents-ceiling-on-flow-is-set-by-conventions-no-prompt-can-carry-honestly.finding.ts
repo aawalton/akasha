@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const anAgentsCeilingOnFlowIsSetByConventionsNoPromptCanCarryHonestly = {
   id: "01a07740-d031-7bdc-87c4-60aa71d3b15a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "an-agents-ceiling-on-flow-is-set-by-conventions-no-prompt-can-carry-honestly",
   domain: "domain/monarch-eval",
   claim:

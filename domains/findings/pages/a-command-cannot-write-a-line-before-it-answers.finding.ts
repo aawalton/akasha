@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aCommandCannotWriteALineBeforeItAnswers = {
   id: "01a0603f-86ce-7198-9574-af2d5f3ca41e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-command-cannot-write-a-line-before-it-answers",
   domain: "workspace-package/command-system",
   claim:

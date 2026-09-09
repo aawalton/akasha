@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const rulingOnAnUpstreamPortReadsFilesOverTheCeiling = {
   id: "01a06039-c825-7e98-b879-4d308ce709ff",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "ruling-on-an-upstream-port-reads-files-over-the-ceiling",
   domain: "domain/temper-upstream-data",
   claim:

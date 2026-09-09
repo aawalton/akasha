@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aDanglingImportPointedAtASiblingsDestinationIsRefusedByTheGate = {
   id: "01a06426-cc4a-7bb2-91f9-89309307e25a",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-dangling-import-pointed-at-a-siblings-destination-is-refused-by-the-gate",
   domain: "router-app/temper-web",
   claim:

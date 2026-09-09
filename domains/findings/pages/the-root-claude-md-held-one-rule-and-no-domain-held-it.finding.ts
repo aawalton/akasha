@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const theRootClaudeMdHeldOneRuleAndNoDomainHeldIt = {
   id: "01a06551-09dd-7bff-bc49-5c0078ad2496",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "the-root-claude-md-held-one-rule-and-no-domain-held-it",
   domain: "page-type/change",
   claim:
