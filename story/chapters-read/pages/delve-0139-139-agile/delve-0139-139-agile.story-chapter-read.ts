@@ -5,7 +5,7 @@ export const delve0139139Agile = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0139-139-agile",
   title: "139: Agile",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 139,
   ownLength: 6602,
   unitSlug: "words",

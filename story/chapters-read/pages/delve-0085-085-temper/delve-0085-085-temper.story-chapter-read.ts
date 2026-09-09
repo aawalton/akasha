@@ -5,7 +5,7 @@ export const delve0085085Temper = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0085-085-temper",
   title: "085: Temper",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 85,
   ownLength: 5891,
   unitSlug: "words",

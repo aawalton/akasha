@@ -5,7 +5,7 @@ export const delve0246246Inhospitable = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0246-246-inhospitable",
   title: "246: Inhospitable",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 246,
   ownLength: 4479,
   unitSlug: "words",

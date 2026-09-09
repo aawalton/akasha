@@ -5,7 +5,7 @@ export const delve0263263Overwhelming = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0263-263-overwhelming",
   title: "263: Overwhelming",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 263,
   ownLength: 3621,
   unitSlug: "words",

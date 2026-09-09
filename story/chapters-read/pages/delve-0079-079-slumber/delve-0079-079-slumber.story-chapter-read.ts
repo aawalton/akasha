@@ -5,7 +5,7 @@ export const delve0079079Slumber = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0079-079-slumber",
   title: "079: Slumber",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 79,
   ownLength: 4450,
   unitSlug: "words",

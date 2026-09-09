@@ -5,7 +5,7 @@ export const delve0031031Gear = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0031-031-gear",
   title: "031: Gear",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 31,
   ownLength: 3499,
   unitSlug: "words",

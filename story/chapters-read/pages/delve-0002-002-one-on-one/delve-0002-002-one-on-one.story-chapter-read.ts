@@ -5,7 +5,7 @@ export const delve0002002OneOnOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0002-002-one-on-one",
   title: "002: One on One",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 2,
   ownLength: 3452,
   unitSlug: "words",

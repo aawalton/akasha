@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0041Chapter41NatureMage = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0041-chapter-41-nature-mage",
   title: "Chapter 41: Nature Mage",
-  partOfCollectionSlugs: ["delver-dungeon-diving-and-magic-litrpg"],
+  storySlug: "delver-dungeon-diving-and-magic-litrpg",
   position: 41,
   ownLength: 2663,
   unitSlug: "words",

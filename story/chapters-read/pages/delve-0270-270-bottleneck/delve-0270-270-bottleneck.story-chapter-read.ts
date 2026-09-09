@@ -5,7 +5,7 @@ export const delve0270270Bottleneck = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0270-270-bottleneck",
   title: "270: Bottleneck",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 270,
   ownLength: 2748,
   unitSlug: "words",

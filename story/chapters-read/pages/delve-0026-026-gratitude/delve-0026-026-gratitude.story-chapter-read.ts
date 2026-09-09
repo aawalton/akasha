@@ -5,7 +5,7 @@ export const delve0026026Gratitude = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0026-026-gratitude",
   title: "026: Gratitude",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 26,
   ownLength: 3440,
   unitSlug: "words",

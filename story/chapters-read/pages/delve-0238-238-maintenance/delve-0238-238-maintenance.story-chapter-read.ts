@@ -5,7 +5,7 @@ export const delve0238238Maintenance = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0238-238-maintenance",
   title: "238: Maintenance",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 238,
   ownLength: 5391,
   unitSlug: "words",

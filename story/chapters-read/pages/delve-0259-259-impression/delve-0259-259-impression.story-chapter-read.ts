@@ -5,7 +5,7 @@ export const delve0259259Impression = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0259-259-impression",
   title: "259: Impression",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 259,
   ownLength: 3705,
   unitSlug: "words",

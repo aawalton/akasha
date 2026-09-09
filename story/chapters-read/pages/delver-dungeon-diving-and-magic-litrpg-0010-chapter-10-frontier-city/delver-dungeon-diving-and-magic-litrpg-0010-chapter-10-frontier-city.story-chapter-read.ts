@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0010Chapter10FrontierCity = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0010-chapter-10-frontier-city",
   title: "Chapter 10: Frontier City",
-  partOfCollectionSlugs: ["delver-dungeon-diving-and-magic-litrpg"],
+  storySlug: "delver-dungeon-diving-and-magic-litrpg",
   position: 10,
   ownLength: 2281,
   unitSlug: "words",

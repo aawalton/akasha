@@ -5,7 +5,7 @@ export const delverDungeonDivingAndMagicLitrpg0016Chapter16PromisesKept = {
   pageTypeSlug: "story-chapter-read",
   slug: "delver-dungeon-diving-and-magic-litrpg-0016-chapter-16-promises-kept",
   title: "Chapter 16: Promises Kept",
-  partOfCollectionSlugs: ["delver-dungeon-diving-and-magic-litrpg"],
+  storySlug: "delver-dungeon-diving-and-magic-litrpg",
   position: 16,
   ownLength: 2228,
   unitSlug: "words",

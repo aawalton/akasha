@@ -5,7 +5,7 @@ export const defianceOfTheFall0123Chapter1442TimeAndSpace = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0123-chapter-1442-time-and-space",
   title: "Chapter 1,442 - Time and Space",
-  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
+  storySlug: "story-read/defiance-of-the-fall",
   position: 123,
   ownLength: 2806,
   unitSlug: "words",

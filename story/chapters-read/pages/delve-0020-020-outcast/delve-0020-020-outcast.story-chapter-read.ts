@@ -5,7 +5,7 @@ export const delve0020020Outcast = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0020-020-outcast",
   title: "020: Outcast",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 20,
   ownLength: 3812,
   unitSlug: "words",

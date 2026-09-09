@@ -5,7 +5,7 @@ export const delve0082082Intent = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0082-082-intent",
   title: "082: Intent",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 82,
   ownLength: 7216,
   unitSlug: "words",

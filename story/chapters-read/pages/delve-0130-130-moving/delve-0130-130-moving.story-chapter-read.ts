@@ -5,7 +5,7 @@ export const delve0130130Moving = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0130-130-moving",
   title: "130: Moving",
-  partOfCollectionSlugs: ["delve"],
+  storySlug: "delve",
   position: 130,
   ownLength: 5828,
   unitSlug: "words",

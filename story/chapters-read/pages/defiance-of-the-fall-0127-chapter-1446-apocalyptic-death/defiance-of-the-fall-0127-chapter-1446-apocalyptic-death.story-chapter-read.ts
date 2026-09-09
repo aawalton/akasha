@@ -5,7 +5,7 @@ export const defianceOfTheFall0127Chapter1446ApocalypticDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0127-chapter-1446-apocalyptic-death",
   title: "Chapter 1,446 - Apocalyptic Death",
-  partOfCollectionSlugs: ["story-read/defiance-of-the-fall"],
+  storySlug: "story-read/defiance-of-the-fall",
   position: 127,
   ownLength: 3134,
   unitSlug: "words",
