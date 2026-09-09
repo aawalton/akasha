@@ -5,7 +5,7 @@ import type { RelationshipDepositDate } from "./properties/relationship-deposit-
 import type { RelationshipDepositPersona } from "./properties/relationship-deposit-persona.relation-property.ts"
 import type { RelationshipDepositRelationship } from "./properties/relationship-deposit-relationship.relation-property.ts"
 import type { RelationshipDepositSize } from "./properties/relationship-deposit-size.select-property.ts"
-import type { RelationshipDepositValueSlug } from "./properties/relationship-deposit-value-slug.relation-property.ts"
+import type { RelationshipDepositValue } from "./properties/relationship-deposit-value.relation-property.ts"
 
 export type RelationshipDeposit = Page & {
   title: Title
@@ -13,7 +13,7 @@ export type RelationshipDeposit = Page & {
   relationshipDepositPersona: RelationshipDepositPersona
   relationshipDepositRelationship: RelationshipDepositRelationship
   relationshipDepositSize: RelationshipDepositSize
-  relationshipDepositValueSlug: RelationshipDepositValueSlug
+  relationshipDepositValue: RelationshipDepositValue
 }
 
 export const relationshipDeposit = {
@@ -27,7 +27,7 @@ export const relationshipDeposit = {
     "calendar-date-property/relationship-deposit-date",
     "relation-property/relationship-deposit-persona",
     "relation-property/relationship-deposit-relationship",
-    "relation-property/relationship-deposit-value-slug",
+    "relation-property/relationship-deposit-value",
     "select-property/relationship-deposit-size",
   ],
   properties: [
@@ -49,7 +49,7 @@ export const relationshipDeposit = {
     },
     { pagePropertySlug: "select-property/relationship-deposit-size", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/relationship-deposit-value-slug",
+      pagePropertySlug: "relation-property/relationship-deposit-value",
       required: true,
       many: false,
     },
