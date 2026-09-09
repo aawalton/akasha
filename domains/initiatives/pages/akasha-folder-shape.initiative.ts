@@ -25,7 +25,7 @@ export const akashaFolderShape = {
     {
       statement: "A check determines whether a folder should be a workspace package.",
       workingMemory:
-        "`workspace-package` extends `domain` and adds one required `manifest` file property named `package.json`; that line alone makes the package, since the root names `workspaces` as a pattern and tsconfig carries no paths. 197 page folders, 197 manifests, no drift for a check to find. `Package Only When Needed` allows a folder installed apart, and three are: the `ios-app` pages, rsynced to a Mac without the root manifest and given `npm install`. No `add-folder-package` act exists.\n",
+        "`manifest` alone makes the package: `workspace-package` extends `domain` and adds it, and the root names `workspaces` as a pattern. `unnamedIn` waives any reach whose name some manifest states, so `manifest-names-what-is-reached` never guarded a cross-package workspace import. 3525 of the 10958 files spelling an `@akasha/` import sit under no manifest, where `ownerOf` answers null and nothing judges them. The check worth having refuses a specifier no manifest states.\n",
     },
     {
       statement: "No relation value lands that akasha cannot key to one page.",
