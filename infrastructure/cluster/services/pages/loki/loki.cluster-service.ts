@@ -12,6 +12,7 @@ export const loki = {
   replicas: 1,
   containerPort: 3100,
   manifestSlug: "loki",
+  secretSlugs: ["secret/loki-s3-creds-access-key", "secret/loki-s3-creds-secret-key"],
   invariants: [
     {
       invariantKind: "departure",
