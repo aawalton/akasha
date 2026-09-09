@@ -21,6 +21,8 @@ const GENERATED = "+types"
 
 const UNDER = "/"
 
+const CODE = new Set([".ts", ".tsx"])
+
 function stemOf(path: string): string {
   const name = basename(path)
   const tail = extname(name)
@@ -92,6 +94,7 @@ export type Given = {
 }
 
 export function runChange(world: World, given: Given): Said {
+  if (!CODE.has(extname(given.now))) return stating([])
   const held = world.bodyOf(given.now) ?? world.bodyOf(given.was)
   if (notText(held)) return stating([])
   if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)

@@ -46,6 +46,10 @@ export const changeImports = {
       statement: "A body that is not text names no path, so nothing in it is repointed.",
     },
     {
+      invariantKind: "departure",
+      statement: "A body that is not code is passed over before that body is read.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here has a file.",
     },
