@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0132725GrandSkillPoints = {
   id: "01a06730-4de9-78f8-b314-55ce64e80f05",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0132-725-grand-skill-points",
   title: "725. Grand Skill Points",
   story: "story-read/salvos",

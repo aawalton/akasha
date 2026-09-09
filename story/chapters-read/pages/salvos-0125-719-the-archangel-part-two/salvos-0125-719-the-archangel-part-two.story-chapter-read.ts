@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0125719TheArchangelPartTwo = {
   id: "01a06730-4de8-7a43-b78c-5b44892ff521",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0125-719-the-archangel-part-two",
   title: "719. The Archangel Part Two",
   story: "story-read/salvos",

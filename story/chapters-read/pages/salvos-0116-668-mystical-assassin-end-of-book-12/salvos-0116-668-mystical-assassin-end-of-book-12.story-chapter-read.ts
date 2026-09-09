@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0116668MysticalAssassinEndOfBook12 = {
   id: "01a06730-4de8-72a1-9e1b-490778ef7d77",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0116-668-mystical-assassin-end-of-book-12",
   title: "668. Mystical Assassin (End of Book 12)",
   story: "story-read/salvos",

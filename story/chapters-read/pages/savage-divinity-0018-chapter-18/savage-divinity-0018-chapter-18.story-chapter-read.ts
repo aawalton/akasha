@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const savageDivinity0018Chapter18 = {
   id: "01a06730-4dc8-7970-936d-efeebf42682e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "savage-divinity-0018-chapter-18",
   title: "Chapter 18",
   story: "savage-divinity",

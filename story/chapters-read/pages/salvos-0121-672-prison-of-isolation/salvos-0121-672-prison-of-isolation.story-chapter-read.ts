@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0121672PrisonOfIsolation = {
   id: "01a06730-4de8-7b63-8bd1-7a50083a368f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0121-672-prison-of-isolation",
   title: "672. Prison Of Isolation",
   story: "story-read/salvos",

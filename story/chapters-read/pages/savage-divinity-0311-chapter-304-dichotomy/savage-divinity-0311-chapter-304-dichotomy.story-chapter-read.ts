@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const savageDivinity0311Chapter304Dichotomy = {
   id: "01a06730-4e8f-773b-a88d-01df70d4eef9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "savage-divinity-0311-chapter-304-dichotomy",
   title: "Chapter 304 - Dichotomy",
   story: "savage-divinity",

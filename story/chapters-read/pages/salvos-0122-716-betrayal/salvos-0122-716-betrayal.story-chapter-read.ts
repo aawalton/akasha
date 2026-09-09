@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0122716Betrayal = {
   id: "01a06730-4de8-7457-bb07-80edf982198e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0122-716-betrayal",
   title: "716. Betrayal",
   story: "story-read/salvos",

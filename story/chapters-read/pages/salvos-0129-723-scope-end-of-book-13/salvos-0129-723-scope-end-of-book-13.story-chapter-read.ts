@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0129723ScopeEndOfBook13 = {
   id: "01a06730-4de9-732e-9169-aaf2b4a97954",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0129-723-scope-end-of-book-13",
   title: "723. Scope (End Of book 13)",
   story: "story-read/salvos",

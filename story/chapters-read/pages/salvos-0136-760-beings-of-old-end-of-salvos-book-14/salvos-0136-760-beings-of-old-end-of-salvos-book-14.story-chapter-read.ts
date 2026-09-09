@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0136760BeingsOfOldEndOfSalvosBook14 = {
   id: "01a06730-4de9-722c-93f7-f9ebb45c0468",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0136-760-beings-of-old-end-of-salvos-book-14",
   title: "760. Beings Of Old (End Of Salvos Book 14)",
   story: "story-read/salvos",

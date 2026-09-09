@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const savageDivinity0373HateToDoThisToYouAllButItMustBeDone = {
   id: "01a06730-4ea8-701d-878d-d8830eadce13",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "savage-divinity-0373-hate-to-do-this-to-you-all-but-it-must-be-done",
   title: "Hate to do this to you all, but it must be done.",
   story: "savage-divinity",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0114666TheFallOfTheFairiesPartFive = {
   id: "01a06730-4de8-7feb-9dc4-63d4801d161d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0114-666-the-fall-of-the-fairies-part-five",
   title: "666. The Fall Of The Fairies Part Five",
   story: "story-read/salvos",

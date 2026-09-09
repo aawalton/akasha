@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const salvos0107616ColdTrailStartOfVolume7Part1book12 = {
   id: "01a06730-4de8-782c-b2ff-cb1f386ef17b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "salvos-0107-616-cold-trail-start-of-volume-7-part-1book-12",
   title: "616. Cold Trail (Start of Volume 7 Part 1/Book 12)",
   story: "story-read/salvos",
