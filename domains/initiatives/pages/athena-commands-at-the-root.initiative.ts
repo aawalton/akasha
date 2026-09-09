@@ -5,19 +5,14 @@ export const athenaCommandsAtTheRoot = {
   pageTypeSlug: "initiative",
   type: "initiative",
   slug: "athena-commands-at-the-root",
-  domain: "workspace-package/command-system",
+  domain: "page-type/command",
   persona: "athena",
   intents: [
     {
       statement:
         "Tooling specific to the command domain sits under `commands/`, and no other tooling does.",
       workingMemory:
-        "At 7470a0274e all 220 command pages sit under `commands/` and none outside, under 47 namespaces, with the `command` page type at `commands/command.page-type.ts` and no package alias left reaching it. Code outside `commands/` reaches modules under `commands/modules/`, and that breaks nothing: `commands/` is no package, so the root manifest names every file in it. What is left is `scratching`, `rooting` and `fault-saying`, which the constraint on `checks/` holds.",
-    },
-    {
-      statement: "No `command-system` folder is there.",
-      workingMemory:
-        "3 folders sit under `command-system` at 7470a0274e, down from 70: `scratching`, `rooting`, `fault-saying`. Mending `change-imports` to read the manifest (56a514a7a3) let every move carry its alias reachers, and `move-folder` strikes the source manifest's own export lines itself, so no separate edit follows it and no fold cascades. 35 files under `checks/` reach the three, of 228 tree-wide; moving them rewrites those 35, which this initiative forbids.",
+        "At 0a4df504072 no `command-system` folder is there: every module sits under `commands/modules/`, its five dependents dropped the alias, and the akasha domain names `page-type/command` directly. `scratching` sits there too, though at the move only 16 of its 141 reachers were commands, so it is tree-wide test tooling under `commands/`, which this intent bars. Where a tree-wide helper belongs is Alan's.",
     },
     {
       statement: "The `commands/` folder passes `folder-matches-a-shape`.",
