@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0230Chapter1356AJustifiablyAngryHorde = {
   id: "01a06730-4e40-7c94-a84d-4870ff0e4fe4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0230-chapter-1356-a-justifiably-angry-horde",
   title: "Chapter 1356 - A Justifiably Angry Horde",
   story: "story-read/the-primal-hunter",

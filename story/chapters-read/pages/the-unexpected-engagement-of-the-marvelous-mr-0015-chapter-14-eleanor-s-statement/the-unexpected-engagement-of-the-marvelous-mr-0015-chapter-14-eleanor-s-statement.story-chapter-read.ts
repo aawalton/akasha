@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theUnexpectedEngagementOfTheMarvelousMr0015Chapter14EleanorSStatement = {
   id: "01a06730-4e39-7706-b413-d7b3fe4099e1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0015-chapter-14-eleanor-s-statement",
   title: "Chapter 14 - Eleanor's Statement",
   story: "the-unexpected-engagement-of-the-marvelous-mr",

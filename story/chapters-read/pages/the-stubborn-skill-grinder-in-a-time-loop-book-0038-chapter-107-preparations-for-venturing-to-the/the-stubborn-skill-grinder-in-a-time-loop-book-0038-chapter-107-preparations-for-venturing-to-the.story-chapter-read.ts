@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoopBook0038Chapter107PreparationsForVenturingToThe = {
   id: "01a06730-4f3c-7b7c-a5d0-7ebe78af24b5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0038-chapter-107-preparations-for-venturing-to-the",
   title: "Chapter 107 - Preparations For Venturing To The Edge",
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",

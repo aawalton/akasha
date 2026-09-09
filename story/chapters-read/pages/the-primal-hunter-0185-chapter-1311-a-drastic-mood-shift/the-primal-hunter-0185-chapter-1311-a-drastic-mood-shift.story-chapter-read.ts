@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0185Chapter1311ADrasticMoodShift = {
   id: "01a06730-4e28-77b9-b0df-9875005075e9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0185-chapter-1311-a-drastic-mood-shift",
   title: "Chapter 1311 - A Drastic Mood Shift",
   story: "story-read/the-primal-hunter",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theUnexpectedEngagementOfTheMarvelousMr0024Chapter23WhatTheManservantOverhears = {
   id: "01a06730-4e3b-7a5c-98f3-f289d92c670a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0024-chapter-23-what-the-manservant-overhears",
   title: "Chapter 23 - What the Manservant Overhears",
   story: "the-unexpected-engagement-of-the-marvelous-mr",

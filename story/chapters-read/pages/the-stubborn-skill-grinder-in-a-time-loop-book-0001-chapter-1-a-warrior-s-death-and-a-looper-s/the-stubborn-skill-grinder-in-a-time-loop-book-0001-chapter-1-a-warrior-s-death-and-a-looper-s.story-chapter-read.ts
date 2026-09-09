@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoopBook0001Chapter1AWarriorSDeathAndALooperS = {
   id: "01a06730-4ed8-73b3-919f-3ab2235c1ab7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0001-chapter-1-a-warrior-s-death-and-a-looper-s",
   title: "Chapter 1 - A Warrior's Death And A Looper's Beginning",
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",

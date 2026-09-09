@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theUnexpectedEngagementOfTheMarvelousMr0029Chapter28HaleyAndEdward = {
   id: "01a06730-4e3d-768d-bcdd-bcf9f7fedc55",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0029-chapter-28-haley-and-edward",
   title: "Chapter 28 - Haley and Edward",
   story: "the-unexpected-engagement-of-the-marvelous-mr",

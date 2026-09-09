@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoopBook0018Chapter90TheUnintendedConsequencesOfTrue = {
   id: "01a06730-4f0b-7659-8a5d-d40d721b1105",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0018-chapter-90-the-unintended-consequences-of-true",
   title: "Chapter 90 - The Unintended Consequences of True Power",
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",

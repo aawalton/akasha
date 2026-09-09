@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0198Chapter1324TheTrueObjectiveOfSimulations = {
   id: "01a06730-4e30-7401-a81d-47e3a7ea3213",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0198-chapter-1324-the-true-objective-of-simulations",
   title: "Chapter 1324 - The True Objective of Simulations",
   story: "story-read/the-primal-hunter",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0219Chapter1345FireAndFists = {
   id: "01a06730-4e38-7e45-bf9b-6210c71cb062",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0219-chapter-1345-fire-and-fists",
   title: "Chapter 1345 - Fire & Fists",
   story: "story-read/the-primal-hunter",

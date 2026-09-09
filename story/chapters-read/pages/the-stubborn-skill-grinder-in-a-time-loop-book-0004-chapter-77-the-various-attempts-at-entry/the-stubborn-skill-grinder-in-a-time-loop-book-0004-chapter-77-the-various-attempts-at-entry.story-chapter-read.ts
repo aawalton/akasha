@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoopBook0004Chapter77TheVariousAttemptsAtEntry = {
   id: "01a06730-4ede-70c7-b0d5-b5b5c60de6b7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0004-chapter-77-the-various-attempts-at-entry",
   title: "Chapter 77 - The Various Attempts At Entry",
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",

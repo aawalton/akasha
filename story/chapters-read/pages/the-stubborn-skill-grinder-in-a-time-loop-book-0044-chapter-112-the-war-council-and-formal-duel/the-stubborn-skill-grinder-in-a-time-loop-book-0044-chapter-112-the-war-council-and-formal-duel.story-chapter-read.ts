@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoopBook0044Chapter112TheWarCouncilAndFormalDuel = {
   id: "01a06730-4f48-7085-b7bb-a44ba30006e2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0044-chapter-112-the-war-council-and-formal-duel",
   title: "Chapter 112 - The War Council & Formal Duel",
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",

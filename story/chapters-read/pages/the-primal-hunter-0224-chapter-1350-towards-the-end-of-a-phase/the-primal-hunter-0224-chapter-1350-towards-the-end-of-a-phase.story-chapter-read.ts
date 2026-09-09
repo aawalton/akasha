@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0224Chapter1350TowardsTheEndOfAPhase = {
   id: "01a06730-4e3a-7b2b-83da-d349019ba35d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0224-chapter-1350-towards-the-end-of-a-phase",
   title: "Chapter 1350 - Towards the End of a Phase",
   story: "story-read/the-primal-hunter",

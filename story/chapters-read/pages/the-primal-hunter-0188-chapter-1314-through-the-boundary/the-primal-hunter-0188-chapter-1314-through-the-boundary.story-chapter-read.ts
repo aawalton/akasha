@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0188Chapter1314ThroughTheBoundary = {
   id: "01a06730-4e29-7359-9f9c-654e48375eb7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0188-chapter-1314-through-the-boundary",
   title: "Chapter 1314 - Through the Boundary",
   story: "story-read/the-primal-hunter",

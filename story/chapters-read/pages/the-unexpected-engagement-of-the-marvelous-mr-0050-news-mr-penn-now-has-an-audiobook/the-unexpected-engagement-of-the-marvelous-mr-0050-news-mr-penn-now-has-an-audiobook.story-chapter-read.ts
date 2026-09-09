@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theUnexpectedEngagementOfTheMarvelousMr0050NewsMrPennNowHasAnAudiobook = {
   id: "01a06730-4e48-7de7-b124-9609760942ba",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0050-news-mr-penn-now-has-an-audiobook",
   title: "News! - Mr. Penn now has an audiobook!",
   story: "the-unexpected-engagement-of-the-marvelous-mr",

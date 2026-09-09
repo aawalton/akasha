@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0174Chapter1301ShamanisticArts = {
   id: "01a06730-4e24-7718-8341-2a480ac23809",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0174-chapter-1301-shamanistic-arts",
   title: "Chapter 1301 - Shamanistic Arts",
   story: "story-read/the-primal-hunter",

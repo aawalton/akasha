@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0221Chapter1347AnInextinguishableFlame = {
   id: "01a06730-4e39-7388-94de-7393ccef5216",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0221-chapter-1347-an-inextinguishable-flame",
   title: "Chapter 1347 - An Inextinguishable Flame",
   story: "story-read/the-primal-hunter",

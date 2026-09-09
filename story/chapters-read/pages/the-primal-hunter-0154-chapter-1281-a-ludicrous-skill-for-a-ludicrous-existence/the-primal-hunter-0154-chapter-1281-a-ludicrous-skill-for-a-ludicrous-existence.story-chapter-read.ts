@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0154Chapter1281ALudicrousSkillForALudicrousExistence = {
   id: "01a06730-4e16-7c92-b80d-4b5ec85a84c8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0154-chapter-1281-a-ludicrous-skill-for-a-ludicrous-existence",
   title: "Chapter 1281 - A Ludicrous Skill For A Ludicrous Existence",
   story: "story-read/the-primal-hunter",

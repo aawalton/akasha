@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0202Chapter1328ChiefAdministratorSelectionComme = {
   id: "01a06730-4e32-7274-9dd9-aebf8fc6aead",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0202-chapter-1328-chief-administrator-selection-comme",
   title: "Chapter 1328 - Chief Administrator Selection Comme",
   story: "story-read/the-primal-hunter",

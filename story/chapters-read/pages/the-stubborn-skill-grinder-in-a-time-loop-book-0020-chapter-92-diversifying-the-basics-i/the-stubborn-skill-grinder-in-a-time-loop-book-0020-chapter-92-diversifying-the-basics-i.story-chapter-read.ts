@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoopBook0020Chapter92DiversifyingTheBasicsI = {
   id: "01a06730-4f10-7c47-acef-2103e62d5ece",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0020-chapter-92-diversifying-the-basics-i",
   title: "Chapter 92 - Diversifying the Basics I",
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0184Chapter1310StuckInTheMiddle = {
   id: "01a06730-4e28-7259-9546-37b2de8e5e0f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0184-chapter-1310-stuck-in-the-middle",
   title: "Chapter 1310 - Stuck In The Middle",
   story: "story-read/the-primal-hunter",

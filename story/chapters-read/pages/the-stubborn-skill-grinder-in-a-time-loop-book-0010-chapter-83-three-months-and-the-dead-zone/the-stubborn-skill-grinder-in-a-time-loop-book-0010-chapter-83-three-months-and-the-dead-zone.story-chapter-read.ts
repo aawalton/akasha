@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoopBook0010Chapter83ThreeMonthsAndTheDeadZone = {
   id: "01a06730-4ef8-730d-b0f3-cd3fc95aa457",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0010-chapter-83-three-months-and-the-dead-zone",
   title: "Chapter 83 - Three Months & The Dead Zone",
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theUnexpectedEngagementOfTheMarvelousMr0018Chapter17TheNewestWaiter = {
   id: "01a06730-4e3a-73b8-8930-478e5341ee05",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0018-chapter-17-the-newest-waiter",
   title: "Chapter 17 - The Newest Waiter",
   story: "the-unexpected-engagement-of-the-marvelous-mr",

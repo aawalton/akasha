@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0194Chapter1320ManipulationForExpectedBenefits = {
   id: "01a06730-4e2b-72c0-9112-2d7b7374e957",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0194-chapter-1320-manipulation-for-expected-benefits",
   title: "Chapter 1320 - Manipulation For Expected Benefits",
   story: "story-read/the-primal-hunter",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theUnexpectedEngagementOfTheMarvelousMr0033Chapter32WinfieldSOneFolly = {
   id: "01a06730-4e40-7928-b1ec-138a54eab60e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0033-chapter-32-winfield-s-one-folly",
   title: "Chapter 32 - Winfield's One Folly",
   story: "the-unexpected-engagement-of-the-marvelous-mr",

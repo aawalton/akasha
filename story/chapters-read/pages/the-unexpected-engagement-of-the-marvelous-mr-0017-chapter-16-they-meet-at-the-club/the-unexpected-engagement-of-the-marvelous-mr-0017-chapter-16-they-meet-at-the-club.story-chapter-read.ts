@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theUnexpectedEngagementOfTheMarvelousMr0017Chapter16TheyMeetAtTheClub = {
   id: "01a06730-4e39-76f6-a672-6dbb1abde24a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0017-chapter-16-they-meet-at-the-club",
   title: "Chapter 16 - They Meet at the Club",
   story: "the-unexpected-engagement-of-the-marvelous-mr",

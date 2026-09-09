@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theUnexpectedEngagementOfTheMarvelousMr0025Chapter24TheRescue = {
   id: "01a06730-4e3c-7aa4-9cee-d2fb5ddd60ee",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0025-chapter-24-the-rescue",
   title: "Chapter 24 - The Rescue",
   story: "the-unexpected-engagement-of-the-marvelous-mr",

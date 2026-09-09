@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theUnexpectedEngagementOfTheMarvelousMr0003Chapter2ThePoliceman = {
   id: "01a06730-4e34-7943-97d2-001786a2bf84",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0003-chapter-2-the-policeman",
   title: "Chapter 2 - The Policeman",
   story: "the-unexpected-engagement-of-the-marvelous-mr",

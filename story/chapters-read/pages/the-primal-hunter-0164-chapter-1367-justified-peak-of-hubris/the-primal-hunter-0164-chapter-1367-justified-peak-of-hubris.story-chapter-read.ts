@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0164Chapter1367JustifiedPeakOfHubris = {
   id: "01a06730-4e1c-7df9-b85d-cdccc880c1f4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0164-chapter-1367-justified-peak-of-hubris",
   title: "Chapter 1367 - Justified Peak of Hubris",
   story: "story-read/the-primal-hunter",

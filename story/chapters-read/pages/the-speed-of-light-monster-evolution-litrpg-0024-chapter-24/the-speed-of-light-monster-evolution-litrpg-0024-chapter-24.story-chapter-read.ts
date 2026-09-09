@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theSpeedOfLightMonsterEvolutionLitrpg0024Chapter24 = {
   id: "01a06730-4ed6-72d7-b2a9-76d16a2ef59b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-speed-of-light-monster-evolution-litrpg-0024-chapter-24",
   title: "Chapter 24",
   story: "the-speed-of-light-monster-evolution-litrpg",

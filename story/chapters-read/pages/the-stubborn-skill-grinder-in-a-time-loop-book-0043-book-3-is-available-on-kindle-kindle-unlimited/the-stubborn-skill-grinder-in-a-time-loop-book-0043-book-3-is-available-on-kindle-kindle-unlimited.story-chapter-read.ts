@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoopBook0043Book3IsAvailableOnKindleKindleUnlimited = {
   id: "01a06730-4f46-772e-aec7-b1e6de929fe9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0043-book-3-is-available-on-kindle-kindle-unlimited",
   title: "Book 3 is available on Kindle, Kindle Unlimited and Audible!",
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",

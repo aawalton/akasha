@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0168Chapter1295VenusianOracle = {
   id: "01a06730-4e1f-782b-8438-1eedb40307dc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0168-chapter-1295-venusian-oracle",
   title: "Chapter 1295 - Venusian Oracle",
   story: "story-read/the-primal-hunter",

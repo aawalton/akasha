@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0169Chapter1296QuestioningAssumptions = {
   id: "01a06730-4e1f-7e43-9273-4163278a1444",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0169-chapter-1296-questioning-assumptions",
   title: "Chapter 1296 - Questioning Assumptions",
   story: "story-read/the-primal-hunter",

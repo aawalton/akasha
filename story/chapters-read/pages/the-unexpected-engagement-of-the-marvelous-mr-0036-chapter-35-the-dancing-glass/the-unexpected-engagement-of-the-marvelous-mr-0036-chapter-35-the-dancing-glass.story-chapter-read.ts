@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theUnexpectedEngagementOfTheMarvelousMr0036Chapter35TheDancingGlass = {
   id: "01a06730-4e41-7649-9b15-31636dfe3020",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0036-chapter-35-the-dancing-glass",
   title: "Chapter 35 - The Dancing Glass",
   story: "the-unexpected-engagement-of-the-marvelous-mr",

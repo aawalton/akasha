@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoopBook0011Chapter84TurningTheTideOfWar = {
   id: "01a06730-4efb-75e6-8ade-c1275e5fc285",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0011-chapter-84-turning-the-tide-of-war",
   title: "Chapter 84 - Turning The Tide Of War",
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",

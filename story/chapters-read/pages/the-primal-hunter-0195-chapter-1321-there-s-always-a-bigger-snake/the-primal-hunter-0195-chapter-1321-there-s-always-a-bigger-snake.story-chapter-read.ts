@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0195Chapter1321ThereSAlwaysABiggerSnake = {
   id: "01a06730-4e2c-7446-8e0d-09a42203e38f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0195-chapter-1321-there-s-always-a-bigger-snake",
   title: "Chapter 1321 - There's Always A Bigger Snake",
   story: "story-read/the-primal-hunter",

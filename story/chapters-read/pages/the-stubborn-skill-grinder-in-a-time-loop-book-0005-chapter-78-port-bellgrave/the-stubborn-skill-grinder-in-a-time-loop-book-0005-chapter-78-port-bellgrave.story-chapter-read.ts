@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoopBook0005Chapter78PortBellgrave = {
   id: "01a06730-4ee2-79a7-9948-1bcfbc80cec4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0005-chapter-78-port-bellgrave",
   title: "Chapter 78 - Port Bellgrave",
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",

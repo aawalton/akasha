@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const thePrimalHunter0173Chapter1376ThievesOnTheTown = {
   id: "01a07ca0-6b4d-7134-8caf-500a48d09764",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-primal-hunter-0173-chapter-1376-thieves-on-the-town",
   story: "story-read/the-primal-hunter",
   position: 173,

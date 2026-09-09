@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const theStubbornSkillGrinderInATimeLoopBook0002Chapter2UsingDeathAsAWhetstone = {
   id: "01a06730-4ed9-724e-aeda-71b9b42e6ca1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "the-stubborn-skill-grinder-in-a-time-loop-book-0002-chapter-2-using-death-as-a-whetstone",
   title: "Chapter 2 - Using Death As A Whetstone",
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
