@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every page property is in a properties folder for the page type defining it.",
       workingMemory:
-        "Found while making the parts a spanning tree: the folder with a property's file and the page type introducing that property disagree in real cases. `category-slug` sits under `monarch-months` while `category-rule` introduces the property; `effect-type` and `metric-id` sit under `temper-catalog-things` while `temper-companion-trait` introduces both. `introduced-property-is-a-part` judges the declaration and says outright that the folder is not judged. No check judges the folder.",
+        "1763 property files: 1191 sit in the introducing page type's properties folder and 101 do not, while 471 have no one introducing page type — 396 introduced by a record property or a page-property-entry rather than by a page type, 75 by more than one type. 97 of the 101 are temper's, each parked in a shared ancestor's folder while a narrower descendant is the only declarer. folder-matches-a-shape already holds the rule as its properties-of-the-type-above shape, and runs on no phase.",
     },
     {
       statement: "Every check is cheap enough for audit.",
