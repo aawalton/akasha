@@ -7,7 +7,7 @@ export default [
     route("map", "routes/map.tsx"),
     route("trip/:tripParam", "routes/trip.tsx"),
     route(":pageTypeSlug/:pageHrefParam", "routes/page-detail.tsx"),
-    route(":pageTypeSlug", "routes/page-listing.tsx"),
+    route(":pageTypeSlug", "routes/atlas-page-listing/atlas-page-listing.route.code.tsx"),
   ]),
   route("sign-in", "routes/atlas-sign-in/atlas-sign-in.route.code.tsx"),
   route("sign-up", "routes/atlas-sign-up/atlas-sign-up.route.code.tsx"),
