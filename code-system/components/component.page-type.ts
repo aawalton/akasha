@@ -1,14 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { ComponentCode } from "./properties/component-code.code-file-property.ts"
-import type { ComponentTest } from "./properties/component-test.code-file-property.ts"
-import type { ComponentTestFixtures } from "./properties/component-test-fixtures.code-file-property.ts"
-
-export type Component = Domain & {
-  code: ComponentCode
-  test?: ComponentTest
-  testFixtures?: ComponentTestFixtures
-}
 
 export const component = {
   id: "01a071cb-913c-7e3f-9698-f5f4a5019a9c",
@@ -50,4 +40,5 @@ export const component = {
       statement: "A component is reached by importing that component.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
