@@ -4,7 +4,7 @@ import {
   componentLabels,
   IMAGE,
   MASTER_ADDRESS,
-} from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
+} from "../constants/seaweedfs-constants.module.code.ts"
 
 export const MAINTENANCE_NAMESPACE = "seaweedfs-maintenance"
 

@@ -5,7 +5,6 @@ import {
   backupPvcYaml,
   backupPvYaml,
 } from "../backup-manifests/seaweedfs-backup-manifests.module.code.ts"
-import { masterDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
 import {
   COMPONENT_MASTER,
   componentLabels,
@@ -17,7 +16,8 @@ import {
   NAMESPACE_LABELS,
   STORAGE_LABELS,
   selectorLabels,
-} from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
+} from "../constants/seaweedfs-constants.module.code.ts"
+import { masterDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
 
 const SHARED_BACKUP = "seaweedfs-backup"
 

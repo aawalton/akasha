@@ -1,9 +1,6 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { kubernetesLabels } from "akasha/infrastructure/cluster/k8s-types/labels/labels.module.code.ts"
-import {
-  NAMESPACE,
-  S3_GATEWAY_HTTP_PORT,
-} from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
+import { NAMESPACE, S3_GATEWAY_HTTP_PORT } from "../constants/seaweedfs-constants.module.code.ts"
 
 const TALOSCTL_IMAGE = "ghcr.io/siderolabs/talosctl:v1.12.9"
 

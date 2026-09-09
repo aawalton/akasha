@@ -6,7 +6,7 @@ import {
 import {
   componentLabels,
   S3_GATEWAY_ENDPOINT,
-} from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
+} from "../constants/seaweedfs-constants.module.code.ts"
 
 const RCLONE_IMAGE = "rclone/rclone:1.74.3"
 

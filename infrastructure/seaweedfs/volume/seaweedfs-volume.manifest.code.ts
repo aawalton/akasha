@@ -1,5 +1,4 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
-import { volumeDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
 import {
   COMPONENT_VOLUME,
   componentLabels,
@@ -8,7 +7,8 @@ import {
   selectorLabels,
   VOLUME_GRPC_PORT,
   VOLUME_HTTP_PORT,
-} from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
+} from "../constants/seaweedfs-constants.module.code.ts"
+import { volumeDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
 
 function serviceYaml(): string {
   return synthOne(NAMESPACE, "service-volume", {

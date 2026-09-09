@@ -19,7 +19,7 @@ import {
   selectorLabels,
   VOLUME_GRPC_PORT,
   VOLUME_HTTP_PORT,
-} from "../seaweedfs-constants/seaweedfs-constants.module.code.ts"
+} from "../constants/seaweedfs-constants.module.code.ts"
 
 const POD_IP_ENV = {
   name: "POD_IP",
