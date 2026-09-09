@@ -130,7 +130,8 @@
     "@akasha/temper-races": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
-    "@akasha/temper-skill-morphs": "workspace:*"
+    "@akasha/temper-skill-morphs": "workspace:*",
+    "@akasha/temper-player-completion": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

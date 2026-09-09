@@ -2,11 +2,11 @@ import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
 import type { CharacterSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
-import { SkillMorphsProgressPanelCard } from "@akasha/temper-player-completion-skills-morphs-ui/skill-morphs-progress-panel-card"
 import type {
   CompletionFilter,
   CompletionSortMode,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
+import { SkillMorphsProgressPanelCard } from "akasha/temper/player-completion-skills-morphs-ui/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"
 import { AllianceRankPanelCard } from "../alliance-rank-panel-card/alliance-rank-panel-card.module.code.tsx"
 import { CadwellProgressPanelCard } from "../cadwell-progress-panel-card/cadwell-progress-panel-card.module.code.tsx"
 import { CharacterAchievementsPanelCard } from "../character-achievements-panel-card/character-achievements-panel-card.module.code.tsx"
