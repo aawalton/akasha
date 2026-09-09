@@ -1,4 +1,3 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 
 export const inferenceRun = {
@@ -19,6 +18,5 @@ export const inferenceRun = {
       statement: "A run records where its output was written rather than the output itself.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
-
-export type InferenceRun = Page
