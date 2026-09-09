@@ -5,7 +5,7 @@ export const breakerOfHorizons007777FindingCommonGround = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0077-77-finding-common-ground",
   title: "77. Finding Common Ground",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 77,
   ownLength: 2187,
   unitSlug: "words",

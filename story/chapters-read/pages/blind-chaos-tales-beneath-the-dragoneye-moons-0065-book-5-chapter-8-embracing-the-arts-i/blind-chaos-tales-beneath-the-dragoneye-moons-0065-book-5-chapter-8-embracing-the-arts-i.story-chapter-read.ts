@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0065Book5Chapter8EmbracingTh
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0065-book-5-chapter-8-embracing-the-arts-i",
   title: "Book 5 - Chapter 8 - Embracing the Arts I",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 65,
   ownLength: 3923,
   unitSlug: "words",

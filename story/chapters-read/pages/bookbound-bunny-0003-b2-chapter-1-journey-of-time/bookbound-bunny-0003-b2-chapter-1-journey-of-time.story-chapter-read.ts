@@ -5,7 +5,7 @@ export const bookboundBunny0003B2Chapter1JourneyOfTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0003-b2-chapter-1-journey-of-time",
   title: "B2 - Chapter 1 - Journey of Time",
-  storySlug: "bookbound-bunny",
+  story: "bookbound-bunny",
   position: 3,
   ownLength: 2492,
   unitSlug: "words",

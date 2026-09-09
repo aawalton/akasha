@@ -5,7 +5,7 @@ export const bookboundBunny0086B3Chapter82BuriedTreasure = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0086-b3-chapter-82-buried-treasure",
   title: "B3 - Chapter 82 - Buried Treasure",
-  storySlug: "bookbound-bunny",
+  story: "bookbound-bunny",
   position: 86,
   ownLength: 2196,
   unitSlug: "words",

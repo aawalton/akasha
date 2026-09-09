@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0086Book5Chapter29TheProgres
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0086-book-5-chapter-29-the-progress-of-others",
   title: "Book 5 - Chapter 29 - The Progress of Others",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 86,
   ownLength: 4651,
   unitSlug: "words",

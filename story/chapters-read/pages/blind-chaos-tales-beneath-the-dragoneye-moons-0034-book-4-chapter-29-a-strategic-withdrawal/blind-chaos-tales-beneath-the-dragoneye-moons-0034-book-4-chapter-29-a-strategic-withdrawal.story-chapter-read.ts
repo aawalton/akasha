@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0034Book4Chapter29AStrategic
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0034-book-4-chapter-29-a-strategic-withdrawal",
   title: "Book 4 - Chapter 29 - A Strategic Withdrawal",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 34,
   ownLength: 5720,
   unitSlug: "words",

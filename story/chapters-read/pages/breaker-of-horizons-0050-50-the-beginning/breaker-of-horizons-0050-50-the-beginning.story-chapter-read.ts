@@ -5,7 +5,7 @@ export const breakerOfHorizons005050TheBeginning = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0050-50-the-beginning",
   title: "50. The Beginning",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 50,
   ownLength: 2318,
   unitSlug: "words",

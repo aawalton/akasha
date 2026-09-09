@@ -5,7 +5,7 @@ export const breakerOfHorizons006969Delirium = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0069-69-delirium",
   title: "69. Delirium",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 69,
   ownLength: 1990,
   unitSlug: "words",

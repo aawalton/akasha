@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0076Book5Chapter19InterludeA
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0076-book-5-chapter-19-interlude-avyna-ambitions-end",
   title: "Book 5 - Chapter 19 - Interlude – Avyna – Ambition’s End",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 76,
   ownLength: 8292,
   unitSlug: "words",

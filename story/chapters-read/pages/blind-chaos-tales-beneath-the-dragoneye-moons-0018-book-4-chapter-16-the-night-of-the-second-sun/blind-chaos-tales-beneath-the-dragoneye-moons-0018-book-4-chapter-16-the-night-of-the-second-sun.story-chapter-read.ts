@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0018Book4Chapter16TheNightOf
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0018-book-4-chapter-16-the-night-of-the-second-sun",
   title: "Book 4 - Chapter 16 - The Night of the Second Sun",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 18,
   ownLength: 5107,
   unitSlug: "words",

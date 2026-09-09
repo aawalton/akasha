@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0031Book4Chapter28Unfamiliar
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0031-book-4-chapter-28-unfamiliar-world-familiar",
   title: "Book 4 - Chapter 28 - Unfamiliar World, Familiar Strife",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 31,
   ownLength: 3790,
   unitSlug: "words",

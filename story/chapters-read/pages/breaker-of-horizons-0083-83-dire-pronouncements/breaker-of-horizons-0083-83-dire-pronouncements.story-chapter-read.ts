@@ -5,7 +5,7 @@ export const breakerOfHorizons008383DirePronouncements = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0083-83-dire-pronouncements",
   title: "83. Dire Pronouncements",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 83,
   ownLength: 2076,
   unitSlug: "words",

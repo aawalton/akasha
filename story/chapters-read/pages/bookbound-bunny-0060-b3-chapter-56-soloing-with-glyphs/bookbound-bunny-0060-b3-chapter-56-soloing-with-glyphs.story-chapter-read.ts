@@ -5,7 +5,7 @@ export const bookboundBunny0060B3Chapter56SoloingWithGlyphs = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0060-b3-chapter-56-soloing-with-glyphs",
   title: "B3 - Chapter 56 - Soloing with Glyphs",
-  storySlug: "bookbound-bunny",
+  story: "bookbound-bunny",
   position: 60,
   ownLength: 2391,
   unitSlug: "words",

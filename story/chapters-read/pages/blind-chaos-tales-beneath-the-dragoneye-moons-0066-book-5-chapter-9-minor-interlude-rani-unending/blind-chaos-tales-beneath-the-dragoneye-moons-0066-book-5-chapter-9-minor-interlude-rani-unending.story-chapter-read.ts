@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0066Book5Chapter9MinorInterl
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0066-book-5-chapter-9-minor-interlude-rani-unending",
   title: "Book 5 - Chapter 9 - Minor Interlude – Rani – Unending Pursuit",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 66,
   ownLength: 2991,
   unitSlug: "words",

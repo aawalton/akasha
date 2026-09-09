@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0061Book5Chapter4SoftResolve
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0061-book-5-chapter-4-soft-resolve",
   title: "Book 5 - Chapter 4 - Soft Resolve",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 61,
   ownLength: 6372,
   unitSlug: "words",

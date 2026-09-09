@@ -5,7 +5,7 @@ export const breakerOfHorizons0104104LittleSteps = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0104-104-little-steps",
   title: "104. Little Steps",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 104,
   ownLength: 1740,
   unitSlug: "words",

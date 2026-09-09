@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook006060OutnumberedNotOutgu
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0060-60-outnumbered-not-outgunned",
   title: "60: Outnumbered, not outgunned",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 60,
   ownLength: 1907,
   unitSlug: "words",

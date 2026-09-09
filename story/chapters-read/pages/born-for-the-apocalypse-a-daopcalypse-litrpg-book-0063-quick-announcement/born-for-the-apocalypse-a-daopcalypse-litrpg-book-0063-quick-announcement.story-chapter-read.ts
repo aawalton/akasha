@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0063QuickAnnouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0063-quick-announcement",
   title: "Quick Announcement",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 63,
   ownLength: 261,
   unitSlug: "words",

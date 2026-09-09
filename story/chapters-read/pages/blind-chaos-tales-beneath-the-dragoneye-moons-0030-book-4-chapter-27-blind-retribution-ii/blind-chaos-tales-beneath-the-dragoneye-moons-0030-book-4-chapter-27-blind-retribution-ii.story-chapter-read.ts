@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0030Book4Chapter27BlindRetri
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0030-book-4-chapter-27-blind-retribution-ii",
   title: "Book 4 - Chapter 27 - Blind Retribution II",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 30,
   ownLength: 4564,
   unitSlug: "words",

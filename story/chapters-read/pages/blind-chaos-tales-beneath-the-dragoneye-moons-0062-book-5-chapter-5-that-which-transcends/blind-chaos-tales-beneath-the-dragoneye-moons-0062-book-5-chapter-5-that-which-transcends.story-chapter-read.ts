@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0062Book5Chapter5ThatWhichTr
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0062-book-5-chapter-5-that-which-transcends",
   title: "Book 5 - Chapter 5 - That Which Transcends…",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 62,
   ownLength: 3525,
   unitSlug: "words",

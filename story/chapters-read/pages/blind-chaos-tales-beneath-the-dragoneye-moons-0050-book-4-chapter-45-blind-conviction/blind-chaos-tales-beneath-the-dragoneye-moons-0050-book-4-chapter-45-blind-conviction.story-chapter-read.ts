@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0050Book4Chapter45BlindConvi
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0050-book-4-chapter-45-blind-conviction",
   title: "Book 4 - Chapter 45 - Blind Conviction",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 50,
   ownLength: 3029,
   unitSlug: "words",

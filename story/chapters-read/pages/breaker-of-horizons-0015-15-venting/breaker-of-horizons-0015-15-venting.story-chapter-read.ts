@@ -5,7 +5,7 @@ export const breakerOfHorizons001515Venting = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0015-15-venting",
   title: "15. Venting",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 15,
   ownLength: 2456,
   unitSlug: "words",

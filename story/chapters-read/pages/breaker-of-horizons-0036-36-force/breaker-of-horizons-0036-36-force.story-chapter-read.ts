@@ -5,7 +5,7 @@ export const breakerOfHorizons003636Force = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0036-36-force",
   title: "36. Force",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 36,
   ownLength: 2704,
   unitSlug: "words",

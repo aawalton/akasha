@@ -5,7 +5,7 @@ export const breakerOfHorizons003333Defiance = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0033-33-defiance",
   title: "33. Defiance",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 33,
   ownLength: 2344,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001616Crescendo = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0016-16-crescendo",
   title: "16: Crescendo",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 16,
   ownLength: 2971,
   unitSlug: "words",

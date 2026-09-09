@@ -5,7 +5,7 @@ export const breakerOfHorizons002020Ensnared = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0020-20-ensnared",
   title: "20. Ensnared",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 20,
   ownLength: 2134,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00044LaVernica = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0004-4-la-vernica",
   title: "4: La Verónica",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 4,
   ownLength: 3680,
   unitSlug: "words",

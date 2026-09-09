@@ -5,7 +5,7 @@ export const breakerOfHorizons0102102TheTempest = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0102-102-the-tempest",
   title: "102. The Tempest",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 102,
   ownLength: 1948,
   unitSlug: "words",

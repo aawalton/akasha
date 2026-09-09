@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002727SocialPariahDoomsda
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0027-27-social-pariah-doomsday-prepper",
   title: "27: Social Pariah, Doomsday Prepper",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 27,
   ownLength: 1242,
   unitSlug: "words",

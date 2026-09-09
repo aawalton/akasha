@@ -5,7 +5,7 @@ export const breakerOfHorizons001212UnravelingClues = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0012-12-unraveling-clues",
   title: "12. Unraveling Clues",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 12,
   ownLength: 1955,
   unitSlug: "words",

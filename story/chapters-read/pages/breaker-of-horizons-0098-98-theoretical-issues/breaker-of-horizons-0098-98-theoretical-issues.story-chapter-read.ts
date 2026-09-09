@@ -5,7 +5,7 @@ export const breakerOfHorizons009898TheoreticalIssues = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0098-98-theoretical-issues",
   title: "98. Theoretical Issues",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 98,
   ownLength: 1738,
   unitSlug: "words",

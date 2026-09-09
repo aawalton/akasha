@@ -5,7 +5,7 @@ export const breakerOfHorizons00033PrecisionMatters = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0003-3-precision-matters",
   title: "3. Precision Matters",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 3,
   ownLength: 3167,
   unitSlug: "words",

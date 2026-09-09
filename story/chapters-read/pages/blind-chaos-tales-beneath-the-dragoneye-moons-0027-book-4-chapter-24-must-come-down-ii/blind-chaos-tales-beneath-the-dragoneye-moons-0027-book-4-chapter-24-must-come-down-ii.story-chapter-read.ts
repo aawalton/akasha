@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0027Book4Chapter24MustComeDo
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0027-book-4-chapter-24-must-come-down-ii",
   title: "Book 4 - Chapter 24 - Must Come Down II",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 27,
   ownLength: 5663,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0057Book4Chapter52MinorInter
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0057-book-4-chapter-52-minor-interlude-lumornor-the",
   title: "Book 4 - Chapter 52 - Minor Interlude – Lumornor – The Pursuit of Progress",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 57,
   ownLength: 2469,
   unitSlug: "words",

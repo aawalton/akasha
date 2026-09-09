@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0053Book4Chapter48AGraceless
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0053-book-4-chapter-48-a-graceless-act",
   title: "Book 4 - Chapter 48 - A Graceless Act",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 53,
   ownLength: 5839,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005151Oath = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0051-51-oath",
   title: "51: Oath",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 51,
   ownLength: 3375,
   unitSlug: "words",

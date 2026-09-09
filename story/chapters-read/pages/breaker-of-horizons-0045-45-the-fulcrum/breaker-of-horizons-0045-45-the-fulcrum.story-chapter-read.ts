@@ -5,7 +5,7 @@ export const breakerOfHorizons004545TheFulcrum = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0045-45-the-fulcrum",
   title: "45. The Fulcrum",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 45,
   ownLength: 2553,
   unitSlug: "words",

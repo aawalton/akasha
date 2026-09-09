@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0064Book5Chapter7AsCloseAsSh
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0064-book-5-chapter-7-as-close-as-shed-come",
   title: "Book 5 - Chapter 7 - As Close as She’d Come",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 64,
   ownLength: 4354,
   unitSlug: "words",

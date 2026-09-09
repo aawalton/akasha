@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook003838Flow = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0038-38-flow",
   title: "38: Flow",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 38,
   ownLength: 1145,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bookboundBunny0031B3Chapter27ReturnSurprise = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0031-b3-chapter-27-return-surprise",
   title: "B3 - Chapter 27 - Return Surprise",
-  storySlug: "bookbound-bunny",
+  story: "bookbound-bunny",
   position: 31,
   ownLength: 2014,
   unitSlug: "words",

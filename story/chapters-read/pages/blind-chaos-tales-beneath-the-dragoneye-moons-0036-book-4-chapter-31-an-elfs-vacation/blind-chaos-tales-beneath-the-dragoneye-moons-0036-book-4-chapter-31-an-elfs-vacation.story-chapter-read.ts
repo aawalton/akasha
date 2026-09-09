@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0036Book4Chapter31AnElfsVaca
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0036-book-4-chapter-31-an-elfs-vacation",
   title: "Book 4 - Chapter 31 - An Elf's Vacation",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 36,
   ownLength: 3358,
   unitSlug: "words",

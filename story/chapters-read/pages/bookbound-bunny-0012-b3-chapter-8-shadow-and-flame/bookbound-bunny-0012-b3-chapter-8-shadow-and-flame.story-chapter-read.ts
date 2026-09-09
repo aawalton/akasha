@@ -5,7 +5,7 @@ export const bookboundBunny0012B3Chapter8ShadowAndFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0012-b3-chapter-8-shadow-and-flame",
   title: "B3 - Chapter 8 - Shadow and Flame",
-  storySlug: "bookbound-bunny",
+  story: "bookbound-bunny",
   position: 12,
   ownLength: 2137,
   unitSlug: "words",

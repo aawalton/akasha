@@ -5,7 +5,7 @@ export const breakerOfHorizons003737Convergence = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0037-37-convergence",
   title: "37. Convergence",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 37,
   ownLength: 2277,
   unitSlug: "words",

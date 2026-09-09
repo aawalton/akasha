@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001414Kesagiri = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0014-14-kesagiri",
   title: "14: Kesagiri",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 14,
   ownLength: 1065,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0033Book1IsNowOnAmazon = {
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0033-book-1-is-now-on-amazon",
   title: "Book 1 is now on Amazon!",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 33,
   ownLength: 234,
   unitSlug: "words",

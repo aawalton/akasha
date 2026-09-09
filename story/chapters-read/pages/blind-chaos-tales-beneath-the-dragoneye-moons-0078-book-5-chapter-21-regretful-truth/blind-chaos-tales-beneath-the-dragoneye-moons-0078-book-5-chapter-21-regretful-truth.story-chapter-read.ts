@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0078Book5Chapter21RegretfulT
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0078-book-5-chapter-21-regretful-truth",
   title: "Book 5 - Chapter 21 - Regretful Truth",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 78,
   ownLength: 4674,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook002626RiftGoblinCommander
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0026-26-rift-goblin-commander",
   title: "26: Rift Goblin Commander",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 26,
   ownLength: 1197,
   unitSlug: "words",

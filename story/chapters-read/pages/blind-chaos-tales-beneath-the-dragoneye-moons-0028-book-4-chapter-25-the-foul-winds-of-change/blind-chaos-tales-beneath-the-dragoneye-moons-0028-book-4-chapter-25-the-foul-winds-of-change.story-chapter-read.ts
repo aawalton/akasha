@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0028Book4Chapter25TheFoulWin
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0028-book-4-chapter-25-the-foul-winds-of-change",
   title: "Book 4 - Chapter 25 - The Foul Winds of Change",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 28,
   ownLength: 4949,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const breakerOfHorizons0103103ChartingACourse = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0103-103-charting-a-course",
   title: "103. Charting a Course",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 103,
   ownLength: 1882,
   unitSlug: "words",

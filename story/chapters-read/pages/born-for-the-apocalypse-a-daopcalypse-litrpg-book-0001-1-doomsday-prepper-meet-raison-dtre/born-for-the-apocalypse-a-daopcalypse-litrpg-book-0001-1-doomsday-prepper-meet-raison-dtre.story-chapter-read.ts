@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00011DoomsdayPrepperMeetR
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0001-1-doomsday-prepper-meet-raison-dtre",
   title: "1: Doomsday prepper meet Raison d'être",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 1,
   ownLength: 5654,
   unitSlug: "words",

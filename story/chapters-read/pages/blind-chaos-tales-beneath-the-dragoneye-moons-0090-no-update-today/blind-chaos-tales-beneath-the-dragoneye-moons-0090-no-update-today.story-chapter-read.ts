@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0090NoUpdateToday = {
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0090-no-update-today",
   title: "No Update Today",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 90,
   ownLength: 160,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0051Book4Chapter46SeeingI = 
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0051-book-4-chapter-46-seeing-i",
   title: "Book 4 - Chapter 46 - Seeing I",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 51,
   ownLength: 5624,
   unitSlug: "words",

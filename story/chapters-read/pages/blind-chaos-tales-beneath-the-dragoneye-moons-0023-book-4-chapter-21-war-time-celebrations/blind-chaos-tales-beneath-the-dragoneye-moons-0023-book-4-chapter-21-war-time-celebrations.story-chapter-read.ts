@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0023Book4Chapter21WarTimeCel
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0023-book-4-chapter-21-war-time-celebrations",
   title: "Book 4 - Chapter 21 - War-Time Celebrations",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 23,
   ownLength: 5191,
   unitSlug: "words",

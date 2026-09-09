@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0065Book2Chapter2DamnIt =
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0065-book-2-chapter-2-damn-it",
   title: "Book 2: Chapter 2 - Damn it",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 65,
   ownLength: 1097,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const breakerOfHorizons003434AStepIntoDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0034-34-a-step-into-darkness",
   title: "34. A Step into Darkness",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 34,
   ownLength: 2642,
   unitSlug: "words",

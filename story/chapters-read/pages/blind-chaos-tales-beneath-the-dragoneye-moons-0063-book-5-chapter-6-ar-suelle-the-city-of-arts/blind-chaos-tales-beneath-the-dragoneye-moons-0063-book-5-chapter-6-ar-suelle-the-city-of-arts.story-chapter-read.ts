@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0063Book5Chapter6ArSuelleThe
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0063-book-5-chapter-6-ar-suelle-the-city-of-arts",
   title: "Book 5 - Chapter 6 - Ar-Suelle, The City of Arts",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 63,
   ownLength: 4604,
   unitSlug: "words",

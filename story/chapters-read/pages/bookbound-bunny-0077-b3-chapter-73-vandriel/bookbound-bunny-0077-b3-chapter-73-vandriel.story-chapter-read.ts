@@ -5,7 +5,7 @@ export const bookboundBunny0077B3Chapter73Vandriel = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0077-b3-chapter-73-vandriel",
   title: "B3 - Chapter 73 - Vandriel",
-  storySlug: "bookbound-bunny",
+  story: "bookbound-bunny",
   position: 77,
   ownLength: 2282,
   unitSlug: "words",

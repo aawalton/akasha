@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004747TrueSight = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0047-47-true-sight",
   title: "47: True Sight",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 47,
   ownLength: 2214,
   unitSlug: "words",

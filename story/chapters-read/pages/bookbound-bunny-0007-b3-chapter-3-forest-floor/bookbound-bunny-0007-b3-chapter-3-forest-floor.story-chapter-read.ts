@@ -5,7 +5,7 @@ export const bookboundBunny0007B3Chapter3ForestFloor = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0007-b3-chapter-3-forest-floor",
   title: "B3 - Chapter 3 - Forest Floor",
-  storySlug: "bookbound-bunny",
+  story: "bookbound-bunny",
   position: 7,
   ownLength: 2121,
   unitSlug: "words",

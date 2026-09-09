@@ -5,7 +5,7 @@ export const bookboundBunny0089B3Chapter85FestivalsEnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0089-b3-chapter-85-festivals-end",
   title: "B3 - Chapter 85 - Festivals End",
-  storySlug: "bookbound-bunny",
+  story: "bookbound-bunny",
   position: 89,
   ownLength: 2462,
   unitSlug: "words",

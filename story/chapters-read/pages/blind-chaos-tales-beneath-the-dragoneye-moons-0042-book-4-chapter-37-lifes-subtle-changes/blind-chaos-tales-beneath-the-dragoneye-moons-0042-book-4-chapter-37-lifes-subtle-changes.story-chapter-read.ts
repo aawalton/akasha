@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0042Book4Chapter37LifesSubtl
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0042-book-4-chapter-37-lifes-subtle-changes",
   title: "Book 4 - Chapter 37 - Life’s Subtle Changes",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 42,
   ownLength: 5515,
   unitSlug: "words",

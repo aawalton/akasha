@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0081Book5Chapter24ASeriesOfH
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0081-book-5-chapter-24-a-series-of-hunts-i",
   title: "Book 5 - Chapter 24 - A Series of Hunts I",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 81,
   ownLength: 4128,
   unitSlug: "words",

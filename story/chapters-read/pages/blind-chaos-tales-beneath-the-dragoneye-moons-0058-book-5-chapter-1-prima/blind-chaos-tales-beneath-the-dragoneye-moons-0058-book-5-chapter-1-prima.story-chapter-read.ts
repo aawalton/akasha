@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0058Book5Chapter1Prima = {
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0058-book-5-chapter-1-prima",
   title: "Book 5 - Chapter 1 - Prima",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 58,
   ownLength: 3781,
   unitSlug: "words",

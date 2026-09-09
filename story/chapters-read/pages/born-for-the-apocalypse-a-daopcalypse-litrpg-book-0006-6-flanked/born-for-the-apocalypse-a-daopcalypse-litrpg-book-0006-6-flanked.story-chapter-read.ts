@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00066Flanked = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0006-6-flanked",
   title: "6: Flanked",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 6,
   ownLength: 1209,
   unitSlug: "words",

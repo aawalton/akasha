@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001515Scum = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0015-15-scum",
   title: "15: Scum",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 15,
   ownLength: 1664,
   unitSlug: "words",

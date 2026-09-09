@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0055Book4Chapter50Obstrepero
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0055-book-4-chapter-50-obstreperous",
   title: "Book 4 - Chapter 50 - Obstreperous",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 55,
   ownLength: 6143,
   unitSlug: "words",

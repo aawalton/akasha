@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0075Chapter2Chapter12NotV
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0075-chapter-2-chapter-12-not-valuable-enough",
   title: "Chapter 2: Chapter 12: Not valuable enough",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 75,
   ownLength: 1720,
   unitSlug: "words",

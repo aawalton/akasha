@@ -5,7 +5,7 @@ export const bookboundBunny0061B3Chapter57AncillaryFlight = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0061-b3-chapter-57-ancillary-flight",
   title: "B3 - Chapter 57 - Ancillary Flight",
-  storySlug: "bookbound-bunny",
+  story: "bookbound-bunny",
   position: 61,
   ownLength: 2148,
   unitSlug: "words",

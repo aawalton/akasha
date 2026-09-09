@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook006262Perception = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0062-62-perception",
   title: "62: Perception",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 62,
   ownLength: 1986,
   unitSlug: "words",

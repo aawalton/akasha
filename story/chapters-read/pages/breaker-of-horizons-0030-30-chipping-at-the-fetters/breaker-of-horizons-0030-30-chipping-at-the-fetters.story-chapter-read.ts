@@ -5,7 +5,7 @@ export const breakerOfHorizons003030ChippingAtTheFetters = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0030-30-chipping-at-the-fetters",
   title: "30. Chipping at the Fetters",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 30,
   ownLength: 2823,
   unitSlug: "words",

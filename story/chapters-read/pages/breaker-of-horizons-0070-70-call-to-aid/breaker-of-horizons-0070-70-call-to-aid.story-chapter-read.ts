@@ -5,7 +5,7 @@ export const breakerOfHorizons007070CallToAid = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0070-70-call-to-aid",
   title: "70. Call to Aid",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 70,
   ownLength: 2251,
   unitSlug: "words",

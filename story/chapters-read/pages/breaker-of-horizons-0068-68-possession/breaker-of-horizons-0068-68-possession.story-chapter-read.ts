@@ -5,7 +5,7 @@ export const breakerOfHorizons006868Possession = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0068-68-possession",
   title: "68. Possession",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 68,
   ownLength: 2158,
   unitSlug: "words",

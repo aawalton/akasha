@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0039Book4Chapter34StolenTime
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0039-book-4-chapter-34-stolen-time-faded-memories",
   title: "Book 4 - Chapter 34 - Stolen Time, Faded Memories",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 39,
   ownLength: 4842,
   unitSlug: "words",

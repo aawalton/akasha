@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0064Book2Chapter1PointBla
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0064-book-2-chapter-1-point-blank",
   title: "Book 2: Chapter 1-  Point-Blank",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 64,
   ownLength: 1111,
   unitSlug: "words",

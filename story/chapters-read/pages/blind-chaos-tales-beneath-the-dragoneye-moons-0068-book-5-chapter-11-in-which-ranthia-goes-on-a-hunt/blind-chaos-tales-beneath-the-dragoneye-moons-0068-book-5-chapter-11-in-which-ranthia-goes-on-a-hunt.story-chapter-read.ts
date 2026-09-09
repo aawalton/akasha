@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0068Book5Chapter11InWhichRan
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0068-book-5-chapter-11-in-which-ranthia-goes-on-a-hunt",
   title: "Book 5 - Chapter 11 - In Which Ranthia Goes on a Hunt",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 68,
   ownLength: 4118,
   unitSlug: "words",

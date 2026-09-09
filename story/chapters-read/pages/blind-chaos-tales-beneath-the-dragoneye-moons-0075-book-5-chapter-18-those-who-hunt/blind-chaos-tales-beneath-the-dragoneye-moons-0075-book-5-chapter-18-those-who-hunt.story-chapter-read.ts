@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0075Book5Chapter18ThoseWhoHu
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0075-book-5-chapter-18-those-who-hunt",
   title: "Book 5 - Chapter 18 - Those Who Hunt…",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 75,
   ownLength: 5041,
   unitSlug: "words",

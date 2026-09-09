@@ -5,7 +5,7 @@ export const bookboundBunny0001Chapter1Origins = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0001-chapter-1-origins",
   title: "Chapter 1 - Origins",
-  storySlug: "bookbound-bunny",
+  story: "bookbound-bunny",
   position: 1,
   ownLength: 2557,
   unitSlug: "words",

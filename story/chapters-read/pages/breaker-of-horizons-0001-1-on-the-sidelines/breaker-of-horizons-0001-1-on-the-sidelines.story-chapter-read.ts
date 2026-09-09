@@ -5,7 +5,7 @@ export const breakerOfHorizons00011OnTheSidelines = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0001-1-on-the-sidelines",
   title: "1. On the Sidelines",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 1,
   ownLength: 2062,
   unitSlug: "words",

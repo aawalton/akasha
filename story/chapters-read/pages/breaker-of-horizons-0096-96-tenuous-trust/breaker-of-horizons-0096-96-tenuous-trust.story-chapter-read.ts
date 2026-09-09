@@ -5,7 +5,7 @@ export const breakerOfHorizons009696TenuousTrust = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0096-96-tenuous-trust",
   title: "96. Tenuous Trust",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 96,
   ownLength: 1804,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const breakerOfHorizons00099BoltsAndBonds = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0009-9-bolts-and-bonds",
   title: "9. Bolts and Bonds",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 9,
   ownLength: 2631,
   unitSlug: "words",

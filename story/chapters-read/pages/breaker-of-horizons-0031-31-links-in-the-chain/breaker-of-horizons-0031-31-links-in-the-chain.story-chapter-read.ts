@@ -5,7 +5,7 @@ export const breakerOfHorizons003131LinksInTheChain = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0031-31-links-in-the-chain",
   title: "31. Links in the Chain",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 31,
   ownLength: 2990,
   unitSlug: "words",

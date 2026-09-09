@@ -5,7 +5,7 @@ export const breakerOfHorizons004343AShadowOfLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0043-43-a-shadow-of-life",
   title: "43. A Shadow of Life",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 43,
   ownLength: 2508,
   unitSlug: "words",

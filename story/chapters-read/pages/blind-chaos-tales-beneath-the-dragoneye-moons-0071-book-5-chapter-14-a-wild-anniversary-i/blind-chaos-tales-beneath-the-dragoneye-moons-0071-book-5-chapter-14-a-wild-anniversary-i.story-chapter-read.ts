@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0071Book5Chapter14AWildAnniv
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0071-book-5-chapter-14-a-wild-anniversary-i",
   title: "Book 5 - Chapter 14 - A Wild Anniversary I",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 71,
   ownLength: 4782,
   unitSlug: "words",

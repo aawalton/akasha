@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook005555Upgrades = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0055-55-upgrades",
   title: "55: Upgrades",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 55,
   ownLength: 2727,
   unitSlug: "words",

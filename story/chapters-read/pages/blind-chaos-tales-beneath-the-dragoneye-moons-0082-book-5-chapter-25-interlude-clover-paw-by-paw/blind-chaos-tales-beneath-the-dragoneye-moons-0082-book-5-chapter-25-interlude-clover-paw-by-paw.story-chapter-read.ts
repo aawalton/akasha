@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0082Book5Chapter25InterludeC
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0082-book-5-chapter-25-interlude-clover-paw-by-paw",
   title: "Book 5 - Chapter 25 - Interlude – Clover – Paw by Paw",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 82,
   ownLength: 3298,
   unitSlug: "words",

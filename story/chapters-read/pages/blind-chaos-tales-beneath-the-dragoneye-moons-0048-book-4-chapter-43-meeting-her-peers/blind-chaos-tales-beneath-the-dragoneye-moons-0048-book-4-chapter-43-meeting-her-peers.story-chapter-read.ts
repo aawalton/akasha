@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0048Book4Chapter43MeetingHer
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0048-book-4-chapter-43-meeting-her-peers",
   title: "Book 4 - Chapter 43 - Meeting Her Peers",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 48,
   ownLength: 5847,
   unitSlug: "words",

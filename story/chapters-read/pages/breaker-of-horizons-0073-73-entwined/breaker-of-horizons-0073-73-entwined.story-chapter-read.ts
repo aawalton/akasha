@@ -5,7 +5,7 @@ export const breakerOfHorizons007373Entwined = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0073-73-entwined",
   title: "73. Entwined",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 73,
   ownLength: 1945,
   unitSlug: "words",

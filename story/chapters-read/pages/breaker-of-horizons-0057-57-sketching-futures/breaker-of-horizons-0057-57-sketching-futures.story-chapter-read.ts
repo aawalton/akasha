@@ -5,7 +5,7 @@ export const breakerOfHorizons005757SketchingFutures = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0057-57-sketching-futures",
   title: "57. Sketching Futures",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 57,
   ownLength: 2428,
   unitSlug: "words",

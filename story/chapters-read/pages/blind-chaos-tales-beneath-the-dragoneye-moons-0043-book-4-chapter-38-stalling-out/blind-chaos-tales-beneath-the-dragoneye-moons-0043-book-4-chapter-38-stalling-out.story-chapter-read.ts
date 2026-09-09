@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0043Book4Chapter38StallingOu
   pageTypeSlug: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0043-book-4-chapter-38-stalling-out",
   title: "Book 4 - Chapter 38 - Stalling Out",
-  storySlug: "blind-chaos-tales-beneath-the-dragoneye-moons",
+  story: "blind-chaos-tales-beneath-the-dragoneye-moons",
   position: 43,
   ownLength: 7074,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const breakerOfHorizons002222IneffableForces = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0022-22-ineffable-forces",
   title: "22. Ineffable Forces",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 22,
   ownLength: 2462,
   unitSlug: "words",

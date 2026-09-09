@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook0070Book2Chapter7DanceToT
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0070-book-2-chapter-7-dance-to-the-death",
   title: "Book 2: Chapter 7- Dance to the death",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 70,
   ownLength: 1298,
   unitSlug: "words",

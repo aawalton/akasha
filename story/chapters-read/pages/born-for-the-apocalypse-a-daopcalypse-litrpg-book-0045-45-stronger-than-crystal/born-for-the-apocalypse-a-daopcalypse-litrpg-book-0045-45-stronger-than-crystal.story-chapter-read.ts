@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004545StrongerThanCrystal
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0045-45-stronger-than-crystal",
   title: "45: Stronger than crystal",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 45,
   ownLength: 1580,
   unitSlug: "words",

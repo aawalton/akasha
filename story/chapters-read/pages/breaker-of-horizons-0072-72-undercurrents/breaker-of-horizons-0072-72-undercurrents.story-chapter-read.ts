@@ -5,7 +5,7 @@ export const breakerOfHorizons007272Undercurrents = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0072-72-undercurrents",
   title: "72. Undercurrents",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 72,
   ownLength: 2008,
   unitSlug: "words",

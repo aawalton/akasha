@@ -5,7 +5,7 @@ export const breakerOfHorizons009090DeEscalation = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0090-90-de-escalation",
   title: "90. De-escalation",
-  storySlug: "story-read/breaker-of-horizons",
+  story: "story-read/breaker-of-horizons",
   position: 90,
   ownLength: 2081,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook001818CarpeDiem = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0018-18-carpe-diem",
   title: "18: Carpe Diem",
-  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
+  story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 18,
   ownLength: 1947,
   unitSlug: "words",
