@@ -22,7 +22,7 @@ export const alanHarness = {
     "workspace-package/readout",
     "workspace-package/voice-core",
     "workspace-package/idle-system",
-    "workspace-package/sms-access",
+    "domain/sms-access",
     "workspace-package/sms-core",
     "workspace-package/email-inbound",
     "domain/email-watch",

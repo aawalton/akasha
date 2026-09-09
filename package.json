@@ -90,7 +90,8 @@
     "@akasha/temper-items-rules-eval": "workspace:*",
     "@akasha/temper-items-rules-matcher": "workspace:*",
     "@akasha/temper-items-rules-routing": "workspace:*",
-    "@akasha/temper-items-rules-routing-core": "workspace:*"
+    "@akasha/temper-items-rules-routing-core": "workspace:*",
+    "@akasha/sms-core": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

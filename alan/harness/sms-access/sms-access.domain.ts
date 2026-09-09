@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const smsAccess = {
   id: "01a05b73-2ec6-753d-93f8-fc22c4035cad",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "sms-access",
   definition: "the pages an inbound SMS reads and writes",
-  manifest: "json",
   parts: ["module/sms-allowlist", "module/sms-discard", "page-type/sms-discard"],
   invariants: [
     {
@@ -25,4 +24,4 @@ export const smsAccess = {
       statement: "The pages an inbound SMS reads and writes are pages akasha has.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

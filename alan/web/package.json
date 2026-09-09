@@ -62,7 +62,6 @@
     "@akasha/persons": "workspace:*",
     "@akasha/personas": "workspace:*",
     "@akasha/reading": "workspace:*",
-    "@akasha/sms-access": "workspace:*",
     "@akasha/sms-core": "workspace:*",
     "@akasha/status-bar-access": "workspace:*",
     "@akasha/story-engine-core": "workspace:*",
