@@ -5,7 +5,7 @@ export const hvac = {
   pageTypeSlug: "book-section",
   slug: "hvac",
   title: "Space Heating + Cooling (Heat Pump)",
-  sectionOfSlug: "book-section/solar-power/energy-demand",
+  sectionOf: "book-section/solar-power/energy-demand",
   description:
     "Heat pump space heating and cooling demand for a 6000 sq ft Provo home — heat-loss math, COP-vs-outdoor-temp integration, well-insulated vs. existing-house cases.",
   partOfCollectionSlugs: ["book-section/solar-power/energy-demand"],

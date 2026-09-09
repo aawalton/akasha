@@ -5,7 +5,7 @@ export const euResidencyMalta = {
   pageTypeSlug: "book-section",
   slug: "eu-residency-malta",
   title: "Malta",
-  sectionOfSlug: "book-section/second-passport/eu-residency",
+  sectionOf: "book-section/second-passport/eu-residency",
   description:
     "Malta residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/malta.md.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-residency"],

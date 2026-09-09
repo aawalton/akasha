@@ -5,7 +5,7 @@ export const customerGeneration = {
   pageTypeSlug: "book-section",
   slug: "customer-generation",
   title: "Customer Generation — Provo Power",
-  sectionOfSlug: "book-section/my-projects/solar-power",
+  sectionOf: "book-section/my-projects/solar-power",
   description:
     "Provo Power net-metering / customer-generation program — compensation mechanism, system size cap, annual reset, interconnection. Plus federal ITC status check.",
   partOfCollectionSlugs: ["book-section/my-projects/solar-power"],

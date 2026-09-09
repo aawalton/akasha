@@ -5,7 +5,7 @@ export const sensoryExperience = {
   pageTypeSlug: "book-section",
   slug: "sensory-experience",
   title: "Sensory experience",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Sensory experience — sound, light, touch, taste, interoception, proprioception, sensory-seeking.",
   partOfCollectionSlugs: ["all-about-alan"],

@@ -5,7 +5,7 @@ export const swissCheese = {
   pageTypeSlug: "book-section",
   slug: "swiss-cheese",
   title: "The legible integers are Swiss cheese",
-  sectionOfSlug: "my-math",
+  sectionOf: "my-math",
   partOfCollectionSlugs: ["my-math"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const prayer = {
   pageTypeSlug: "book-section",
   slug: "prayer",
   title: "Prayer",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

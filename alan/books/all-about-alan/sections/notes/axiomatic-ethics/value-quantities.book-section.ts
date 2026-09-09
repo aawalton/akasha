@@ -5,7 +5,7 @@ export const valueQuantities = {
   pageTypeSlug: "book-section",
   slug: "value-quantities",
   title: "Value quantities — state value, action value, and Sentience Weight",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const selfPreservationAdapter = {
   pageTypeSlug: "book-section",
   slug: "self-preservation-adapter",
   title: "The self-preservation adapter",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

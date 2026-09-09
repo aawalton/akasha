@@ -5,7 +5,7 @@ export const selfImprovement = {
   pageTypeSlug: "book-section",
   slug: "self-improvement",
   title: "Self-improvement — the atom",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

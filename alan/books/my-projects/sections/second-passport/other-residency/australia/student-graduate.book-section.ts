@@ -5,7 +5,7 @@ export const studentGraduate = {
   pageTypeSlug: "book-section",
   slug: "student-graduate",
   title: "Student Graduate",
-  sectionOfSlug: "book-section/other-residency/other-residency-australia",
+  sectionOf: "book-section/other-residency/other-residency-australia",
   description:
     "Australia student/graduate residency bridges: student visa 500 and Temporary Graduate 485, with the 2024 Genuine-Student and cap changes (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/other-residency/other-residency-australia"],

@@ -5,7 +5,7 @@ export const retrofits = {
   pageTypeSlug: "book-section",
   slug: "retrofits",
   title: "Retrofit Packages — Leverage Ranking",
-  sectionOfSlug: "book-section/solar-power/envelope",
+  sectionOf: "book-section/solar-power/envelope",
   description:
     "Envelope retrofit packages ranked by heating-load-reduction-per-dollar — air sealing dominates, windows lose on energy alone.",
   partOfCollectionSlugs: ["book-section/solar-power/envelope"],

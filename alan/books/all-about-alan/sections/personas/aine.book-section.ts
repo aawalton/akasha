@@ -5,7 +5,7 @@ export const aine = {
   pageTypeSlug: "book-section",
   slug: "aine",
   title: "Aine",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

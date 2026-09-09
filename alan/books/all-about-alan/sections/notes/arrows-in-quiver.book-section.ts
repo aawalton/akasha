@@ -5,7 +5,7 @@ export const arrowsInQuiver = {
   pageTypeSlug: "book-section",
   slug: "arrows-in-quiver",
   title: "Arrows in quiver",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

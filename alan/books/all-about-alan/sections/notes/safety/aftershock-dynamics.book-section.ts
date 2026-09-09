@@ -5,7 +5,7 @@ export const aftershockDynamics = {
   pageTypeSlug: "book-section",
   slug: "aftershock-dynamics",
   title: "Safety — aftershock dynamics after exposure damage",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

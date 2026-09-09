@@ -5,7 +5,7 @@ export const routinesScriptsSystems = {
   pageTypeSlug: "book-section",
   slug: "routines-scripts-systems",
   title: "Routines, scripts, and system-rigidity",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description: "Routines, scripts, and system-rigidity — autism × ADHD intersection.",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",

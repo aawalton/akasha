@@ -5,7 +5,7 @@ export const euResidencyGermany = {
   pageTypeSlug: "book-section",
   slug: "eu-residency-germany",
   title: "Germany",
-  sectionOfSlug: "book-section/second-passport/eu-residency",
+  sectionOf: "book-section/second-passport/eu-residency",
   description:
     "Germany residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/germany.md.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-residency"],

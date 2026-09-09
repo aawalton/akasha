@@ -5,7 +5,7 @@ export const safetyWidget = {
   pageTypeSlug: "book-section",
   slug: "safety-widget",
   title: "The safety widget",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

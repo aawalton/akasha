@@ -5,7 +5,7 @@ export const euCitizenshipSlovenia = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-slovenia",
   title: "Slovenia — Paths to Citizenship (May 2026)",
-  sectionOfSlug: "book-section/second-passport/eu-citizenship",
+  sectionOf: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Slovenian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (restricted), and current backlogs per path.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-citizenship"],

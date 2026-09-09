@@ -5,7 +5,7 @@ export const executiveFunction = {
   pageTypeSlug: "book-section",
   slug: "executive-function",
   title: "Executive function",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

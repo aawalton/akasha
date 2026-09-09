@@ -5,7 +5,7 @@ export const presentTenseModel = {
   pageTypeSlug: "book-section",
   slug: "present-tense-model",
   title: "Present-tense conceptual model",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

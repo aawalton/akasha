@@ -5,7 +5,7 @@ export const iris = {
   pageTypeSlug: "book-section",
   slug: "iris",
   title: "Iris",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

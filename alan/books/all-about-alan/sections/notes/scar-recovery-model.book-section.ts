@@ -5,7 +5,7 @@ export const scarRecoveryModel = {
   pageTypeSlug: "book-section",
   slug: "scar-recovery-model",
   title: "The funded-passage recovery model",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

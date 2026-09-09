@@ -5,7 +5,7 @@ export const criticismAndOstracism = {
   pageTypeSlug: "book-section",
   slug: "criticism-and-ostracism",
   title: "Criticism and ostracism",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

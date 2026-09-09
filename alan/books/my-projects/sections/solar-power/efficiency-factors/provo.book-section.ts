@@ -5,7 +5,7 @@ export const provo = {
   pageTypeSlug: "book-section",
   slug: "provo",
   title: "Provo-Specific Anchor Numbers",
-  sectionOfSlug: "book-section/solar-power/efficiency-factors",
+  sectionOf: "book-section/solar-power/efficiency-factors",
   description:
     "Provo-specific anchor numbers — best-case specific yield, sensitivity ranges for roof orientation, and the inputs to plug into PVWatts.",
   partOfCollectionSlugs: ["book-section/solar-power/efficiency-factors"],

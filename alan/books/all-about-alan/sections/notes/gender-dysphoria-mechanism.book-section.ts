@@ -5,7 +5,7 @@ export const genderDysphoriaMechanism = {
   pageTypeSlug: "book-section",
   slug: "gender-dysphoria-mechanism",
   title: "Alan's model of gender",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const otherCitizenshipCanada = {
   pageTypeSlug: "book-section",
   slug: "other-citizenship-canada",
   title: "Canada",
-  sectionOfSlug: "book-section/second-passport/other-citizenship",
+  sectionOf: "book-section/second-passport/other-citizenship",
   description: "Canada citizenship paths (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/second-passport/other-citizenship"],
   unitSlug: "words",

@@ -2,12 +2,12 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Collection } from "../../../../collections/collection.page-type.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { ChapterText } from "./properties/chapter-text.file-property.ts"
-import type { SectionOfSlug } from "./properties/section-of-slug.relation-property.ts"
+import type { SectionOf } from "./properties/section-of.relation-property.ts"
 
 export type BookSection = Collection & {
   title: Title
   chapterText: ChapterText
-  sectionOfSlug: SectionOfSlug
+  sectionOf: SectionOf
 }
 
 export const bookSection = {
@@ -17,18 +17,18 @@ export const bookSection = {
   definition: "one instalment of a book",
   pluralSlug: "book-sections",
   extendsSlug: ["page-type/collection"],
-  partSlugs: ["file-property/chapter-text", "relation-property/section-of-slug"],
+  partSlugs: ["file-property/chapter-text", "relation-property/section-of"],
   properties: [
     {
       pagePropertySlug: "text-property/slug",
       required: true,
       many: false,
       unique: "page-property",
-      uniquePropertySlug: "relation-property/section-of-slug",
+      uniquePropertySlug: "relation-property/section-of",
     },
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "file-property/chapter-text", required: true, many: false },
-    { pagePropertySlug: "relation-property/section-of-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/section-of", required: true, many: false },
   ],
   invariants: [
     {

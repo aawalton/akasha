@@ -5,7 +5,7 @@ export const otherResidencyJapan = {
   pageTypeSlug: "book-section",
   slug: "other-residency-japan",
   title: "Japan",
-  sectionOfSlug: "book-section/second-passport/other-residency",
+  sectionOf: "book-section/second-passport/other-residency",
   description: "Japan residency paths (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/second-passport/other-residency"],
   unitSlug: "words",

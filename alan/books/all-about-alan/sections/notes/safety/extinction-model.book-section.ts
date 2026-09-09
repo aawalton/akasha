@@ -5,7 +5,7 @@ export const extinctionModel = {
   pageTypeSlug: "book-section",
   slug: "extinction-model",
   title: "Safety — the extinction model",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

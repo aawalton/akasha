@@ -5,7 +5,7 @@ export const arousalAndSafetyModel = {
   pageTypeSlug: "book-section",
   slug: "arousal-and-safety-model",
   title: "Arousal and safety — the refined model",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

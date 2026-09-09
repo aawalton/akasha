@@ -5,7 +5,7 @@ export const visualSensitivityBundle = {
   pageTypeSlug: "book-section",
   slug: "visual-sensitivity-bundle",
   title: "Visual-sensitivity bundle",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

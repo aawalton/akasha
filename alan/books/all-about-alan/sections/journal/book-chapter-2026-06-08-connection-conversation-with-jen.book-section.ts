@@ -5,7 +5,7 @@ export const bookChapter20260608ConnectionConversationWithJen = {
   pageTypeSlug: "book-section",
   slug: "book-chapter-2026-06-08-connection-conversation-with-jen",
   title: "Connection conversation with Jen",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

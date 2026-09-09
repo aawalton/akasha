@@ -5,7 +5,7 @@ export const stamina = {
   pageTypeSlug: "book-section",
   slug: "stamina",
   title: "Stamina",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Stamina — physical energy. Levels of energy resources in the body. Currently at stoplight resolution; reads through signed valence on movement.",
   partOfCollectionSlugs: ["all-about-alan"],

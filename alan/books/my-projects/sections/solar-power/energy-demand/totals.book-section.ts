@@ -5,7 +5,7 @@ export const totals = {
   pageTypeSlug: "book-section",
   slug: "totals",
   title: "Totals",
-  sectionOfSlug: "book-section/solar-power/energy-demand",
+  sectionOf: "book-section/solar-power/energy-demand",
   description:
     "Aggregate annual energy demand, monthly distribution table, peak demand stack, service-panel sizing implications for the all-electric Provo home.",
   partOfCollectionSlugs: ["book-section/solar-power/energy-demand"],

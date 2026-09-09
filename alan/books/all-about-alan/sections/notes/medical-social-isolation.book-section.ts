@@ -5,7 +5,7 @@ export const medicalSocialIsolation = {
   pageTypeSlug: "book-section",
   slug: "medical-social-isolation",
   title: "Medical social isolation",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Medical social isolation — the year-long, framed-as-medical cut to family-minimum-plus-church, the calling as a misclassification, and how it composes with the rest of the recovery stack.",
   partOfCollectionSlugs: ["all-about-alan"],

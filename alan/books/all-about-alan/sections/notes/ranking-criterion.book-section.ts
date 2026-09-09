@@ -5,7 +5,7 @@ export const rankingCriterion = {
   pageTypeSlug: "book-section",
   slug: "ranking-criterion",
   title: "Ranking criterion",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Risk-adjusted exposure as the ranking criterion — criticality × enshittification likelihood × switching cost. High on all three is top priority; low on any one drops the item down the queue.",
   partOfCollectionSlugs: ["all-about-alan"],

@@ -5,7 +5,7 @@ export const jenMarriage = {
   pageTypeSlug: "book-section",
   slug: "jen-marriage",
   title: "The marriage conflict mechanics",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

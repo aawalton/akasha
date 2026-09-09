@@ -5,7 +5,7 @@ export const bookChapter008WhenCodeRunsThroughTheCodeRepo = {
   pageTypeSlug: "book-section",
   slug: "book-chapter-008-when-code-runs-through-the-code-repo",
   title: "When code runs through the code repo",
-  sectionOfSlug: "my-strategy",
+  sectionOf: "my-strategy",
   position: 8,
   partOfCollectionSlugs: ["my-strategy"],
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const governmentServices = {
   pageTypeSlug: "book-section",
   slug: "government-services",
   title: "Government services",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

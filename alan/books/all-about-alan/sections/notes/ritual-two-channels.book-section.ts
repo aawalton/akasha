@@ -5,7 +5,7 @@ export const ritualTwoChannels = {
   pageTypeSlug: "book-section",
   slug: "ritual-two-channels",
   title: "Ritual's two power channels",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

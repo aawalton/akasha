@@ -5,7 +5,7 @@ export const stressCapacityFormula = {
   pageTypeSlug: "book-section",
   slug: "stress-capacity-formula",
   title: "Stress-capacity formula",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Stress-capacity cost formula — difficulty levels, multiplier table, anchor unit, cost base tiers.",
   partOfCollectionSlugs: ["all-about-alan"],

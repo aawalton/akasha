@@ -5,7 +5,7 @@ export const levers = {
   pageTypeSlug: "book-section",
   slug: "levers",
   title: "Levers and Knobs",
-  sectionOfSlug: "book-section/solar-power/pricing",
+  sectionOf: "book-section/solar-power/pricing",
   description: "Levers that move residential solar price up or down for a specific quote.",
   partOfCollectionSlugs: ["book-section/solar-power/pricing"],
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const euCitizenshipLatvia = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-latvia",
   title: "Latvian Citizenship Paths (May 2026)",
-  sectionOfSlug: "book-section/second-passport/eu-citizenship",
+  sectionOf: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Latvian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-citizenship"],

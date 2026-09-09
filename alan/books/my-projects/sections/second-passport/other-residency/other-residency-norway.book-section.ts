@@ -5,7 +5,7 @@ export const otherResidencyNorway = {
   pageTypeSlug: "book-section",
   slug: "other-residency-norway",
   title: "Norway",
-  sectionOfSlug: "book-section/second-passport/other-residency",
+  sectionOf: "book-section/second-passport/other-residency",
   description: "Norway residency paths (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/second-passport/other-residency"],
   unitSlug: "words",

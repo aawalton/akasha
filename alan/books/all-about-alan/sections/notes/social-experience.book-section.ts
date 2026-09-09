@@ -5,7 +5,7 @@ export const socialExperience = {
   pageTypeSlug: "book-section",
   slug: "social-experience",
   title: "Social experience",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Social experience — fatigue, eye contact, masking, conversation depth, expression-reading, communication style, group size, empathy.",
   partOfCollectionSlugs: ["all-about-alan"],

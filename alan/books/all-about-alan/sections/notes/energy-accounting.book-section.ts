@@ -5,7 +5,7 @@ export const energyAccounting = {
   pageTypeSlug: "book-section",
   slug: "energy-accounting",
   title: "Energy accounting practice",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description: "Energy-accounting practice — 10+ years of minute-level resource tracking.",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const losses = {
   pageTypeSlug: "book-section",
   slug: "losses",
   title: "System Losses",
-  sectionOfSlug: "book-section/solar-power/efficiency-factors",
+  sectionOf: "book-section/solar-power/efficiency-factors",
   description:
     "System losses — shading, soiling, snow, temperature, mismatch, wiring, inverter, availability. The PVWatts 14.08% bucket and what's in it.",
   partOfCollectionSlugs: ["book-section/solar-power/efficiency-factors"],

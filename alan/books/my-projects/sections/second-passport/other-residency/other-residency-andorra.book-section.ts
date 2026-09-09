@@ -5,7 +5,7 @@ export const otherResidencyAndorra = {
   pageTypeSlug: "book-section",
   slug: "other-residency-andorra",
   title: "Andorra",
-  sectionOfSlug: "book-section/second-passport/other-residency",
+  sectionOf: "book-section/second-passport/other-residency",
   description: "Andorra residency paths (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/second-passport/other-residency"],
   unitSlug: "words",

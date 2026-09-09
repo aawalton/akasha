@@ -5,7 +5,7 @@ export const nimue = {
   pageTypeSlug: "book-section",
   slug: "nimue",
   title: "Nimue",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Nimue — Aine's technology-scout lieutenant on the Wealth axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
   partOfCollectionSlugs: ["all-about-alan"],

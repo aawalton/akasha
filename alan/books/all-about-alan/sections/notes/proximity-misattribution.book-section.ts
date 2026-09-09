@@ -5,7 +5,7 @@ export const proximityMisattribution = {
   pageTypeSlug: "book-section",
   slug: "proximity-misattribution",
   title: "Proximity misattribution — the pain ratchet",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

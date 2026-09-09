@@ -5,7 +5,7 @@ export const sensoryRegulationTools = {
   pageTypeSlug: "book-section",
   slug: "sensory-regulation-tools",
   title: "Sensory-regulation tools",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

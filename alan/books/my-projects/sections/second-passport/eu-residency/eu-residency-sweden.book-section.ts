@@ -5,7 +5,7 @@ export const euResidencySweden = {
   pageTypeSlug: "book-section",
   slug: "eu-residency-sweden",
   title: "Sweden",
-  sectionOfSlug: "book-section/second-passport/eu-residency",
+  sectionOf: "book-section/second-passport/eu-residency",
   description:
     "Sweden residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/sweden.md.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-residency"],

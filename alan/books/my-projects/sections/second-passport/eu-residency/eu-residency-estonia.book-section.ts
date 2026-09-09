@@ -5,7 +5,7 @@ export const euResidencyEstonia = {
   pageTypeSlug: "book-section",
   slug: "eu-residency-estonia",
   title: "Estonia",
-  sectionOfSlug: "book-section/second-passport/eu-residency",
+  sectionOf: "book-section/second-passport/eu-residency",
   partOfCollectionSlugs: ["book-section/second-passport/eu-residency"],
   unitSlug: "words",
   chapterText: "md",

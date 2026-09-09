@@ -5,7 +5,7 @@ export const foundationsAndSafety = {
   pageTypeSlug: "book-section",
   slug: "foundations-and-safety",
   title: "Foundations and Safety",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

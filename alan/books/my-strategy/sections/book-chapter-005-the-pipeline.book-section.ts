@@ -5,7 +5,7 @@ export const bookChapter005ThePipeline = {
   pageTypeSlug: "book-section",
   slug: "book-chapter-005-the-pipeline",
   title: "The pipeline",
-  sectionOfSlug: "my-strategy",
+  sectionOf: "my-strategy",
   position: 5,
   partOfCollectionSlugs: ["my-strategy"],
   unitSlug: "words",

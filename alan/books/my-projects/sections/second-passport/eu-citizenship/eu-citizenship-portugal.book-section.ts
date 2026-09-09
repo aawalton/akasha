@@ -5,7 +5,7 @@ export const euCitizenshipPortugal = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-portugal",
   title: "Portuguese Citizenship Paths (May 2026)",
-  sectionOfSlug: "book-section/second-passport/eu-citizenship",
+  sectionOf: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Portuguese citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (post-Sephardic-closure, post-2025-reform).",
   partOfCollectionSlugs: ["book-section/second-passport/eu-citizenship"],

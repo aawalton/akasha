@@ -5,7 +5,7 @@ export const creativityScarsArchaeology = {
   pageTypeSlug: "book-section",
   slug: "creativity-scars-archaeology",
   title: "Creativity-scars archaeology",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

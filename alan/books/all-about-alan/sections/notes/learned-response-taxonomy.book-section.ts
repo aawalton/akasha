@@ -5,7 +5,7 @@ export const learnedResponseTaxonomy = {
   pageTypeSlug: "book-section",
   slug: "learned-response-taxonomy",
   title: "Learned-response taxonomy",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

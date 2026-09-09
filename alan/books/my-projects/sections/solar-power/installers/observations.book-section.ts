@@ -5,7 +5,7 @@ export const observations = {
   pageTypeSlug: "book-section",
   slug: "observations",
   title: "Summary Observations",
-  sectionOfSlug: "book-section/solar-power/installers",
+  sectionOf: "book-section/solar-power/installers",
   description: "Summary observations on Provo / Utah solar installer landscape.",
   partOfCollectionSlugs: ["book-section/solar-power/installers"],
   unitSlug: "words",

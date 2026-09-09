@@ -5,7 +5,7 @@ export const euCitizenshipDenmark = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-denmark",
   title: "Denmark",
-  sectionOfSlug: "book-section/second-passport/eu-citizenship",
+  sectionOf: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Danish citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-citizenship"],

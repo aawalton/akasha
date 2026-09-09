@@ -5,7 +5,7 @@ export const cultivatingLocalRelationships = {
   pageTypeSlug: "book-section",
   slug: "cultivating-local-relationships",
   title: "Cultivating local B-tier relationships",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

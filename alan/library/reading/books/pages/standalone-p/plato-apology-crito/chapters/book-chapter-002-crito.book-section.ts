@@ -5,7 +5,7 @@ export const bookChapter002Crito = {
   pageTypeSlug: "book-section",
   slug: "book-chapter-002-crito",
   title: "Crito",
-  sectionOfSlug: "plato-apology-crito",
+  sectionOf: "plato-apology-crito",
   status: "completed",
   ownLength: 5341,
   position: 2,

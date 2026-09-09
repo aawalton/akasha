@@ -5,7 +5,7 @@ export const euResidencyBulgaria = {
   pageTypeSlug: "book-section",
   slug: "eu-residency-bulgaria",
   title: "Bulgaria",
-  sectionOfSlug: "book-section/second-passport/eu-residency",
+  sectionOf: "book-section/second-passport/eu-residency",
   description:
     "Bulgaria residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/bulgaria.md.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-residency"],

@@ -5,7 +5,7 @@ export const bookChapter001LegibleNumbers = {
   pageTypeSlug: "book-section",
   slug: "book-chapter-001-legible-numbers",
   title: "Legible numbers",
-  sectionOfSlug: "my-math",
+  sectionOf: "my-math",
   position: 1,
   partOfCollectionSlugs: ["my-math"],
   unitSlug: "words",

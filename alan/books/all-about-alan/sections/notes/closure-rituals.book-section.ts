@@ -5,7 +5,7 @@ export const closureRituals = {
   pageTypeSlug: "book-section",
   slug: "closure-rituals",
   title: "Closure rituals",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Closure rituals — explicit, repeatable closure actions after an exposure event that give the cognitive system falsifiable evidence the source is contained, accelerating aftershock-tail decay.",
   partOfCollectionSlugs: ["all-about-alan"],

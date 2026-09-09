@@ -5,7 +5,7 @@ export const abstractionMap = {
   pageTypeSlug: "book-section",
   slug: "abstraction-map",
   title: "Domain abstraction map — The Book of Mormon (Layer 1)",
-  sectionOfSlug: "my-faith",
+  sectionOf: "my-faith",
   partOfCollectionSlugs: ["my-faith"],
   unitSlug: "words",
   chapterText: "md",

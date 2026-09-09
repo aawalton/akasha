@@ -5,7 +5,7 @@ export const protocol = {
   pageTypeSlug: "book-section",
   slug: "protocol",
   title: "Exp 4 — voice-reward DOSE test (long-message)",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

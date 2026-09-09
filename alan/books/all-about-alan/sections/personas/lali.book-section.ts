@@ -5,7 +5,7 @@ export const lali = {
   pageTypeSlug: "book-section",
   slug: "lali",
   title: "Lali",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Lali — keeper of the delight of mathematics, on the Learn axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
   partOfCollectionSlugs: ["all-about-alan"],

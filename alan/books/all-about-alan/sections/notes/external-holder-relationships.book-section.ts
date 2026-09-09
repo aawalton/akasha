@@ -5,7 +5,7 @@ export const externalHolderRelationships = {
   pageTypeSlug: "book-section",
   slug: "external-holder-relationships",
   title: "Relationships held from the outside",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

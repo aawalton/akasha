@@ -5,7 +5,7 @@ export const autismAsNeurotype = {
   pageTypeSlug: "book-section",
   slug: "autism-as-neurotype",
   title: "Autism as neurotype (working definition)",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description: "Autism as a neurotype — Alan's working definition in his own terms.",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",

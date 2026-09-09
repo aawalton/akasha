@@ -5,7 +5,7 @@ export const dateNights = {
   pageTypeSlug: "book-section",
   slug: "date-nights",
   title: "The two date nights",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

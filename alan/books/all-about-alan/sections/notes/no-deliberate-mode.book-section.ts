@@ -5,7 +5,7 @@ export const noDeliberateMode = {
   pageTypeSlug: "book-section",
   slug: "no-deliberate-mode",
   title: "No deliberate mode",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

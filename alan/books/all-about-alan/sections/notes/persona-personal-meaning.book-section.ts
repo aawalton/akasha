@@ -5,7 +5,7 @@ export const personaPersonalMeaning = {
   pageTypeSlug: "book-section",
   slug: "persona-personal-meaning",
   title: "Persona personal meaning",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

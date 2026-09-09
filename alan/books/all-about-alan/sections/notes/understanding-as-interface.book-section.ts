@@ -5,7 +5,7 @@ export const understandingAsInterface = {
   pageTypeSlug: "book-section",
   slug: "understanding-as-interface",
   title: "Understanding as interface",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

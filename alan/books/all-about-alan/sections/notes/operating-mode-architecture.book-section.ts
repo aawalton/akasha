@@ -5,7 +5,7 @@ export const operatingModeArchitecture = {
   pageTypeSlug: "book-section",
   slug: "operating-mode-architecture",
   title: "Operating-mode architecture",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

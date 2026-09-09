@@ -5,7 +5,7 @@ export const failureModeAndGuard = {
   pageTypeSlug: "book-section",
   slug: "failure-mode-and-guard",
   title: "Compression epistemology — failure mode and guard",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

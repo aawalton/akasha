@@ -5,7 +5,7 @@ export const perfectKnowledge = {
   pageTypeSlug: "book-section",
   slug: "perfect-knowledge",
   title: "Perfect knowledge — the two oracles, the tick, and scale-freedom",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

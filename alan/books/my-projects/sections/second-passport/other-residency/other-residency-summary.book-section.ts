@@ -5,7 +5,7 @@ export const otherResidencySummary = {
   pageTypeSlug: "book-section",
   slug: "other-residency-summary",
   title: "Summary",
-  sectionOfSlug: "book-section/second-passport/other-residency",
+  sectionOf: "book-section/second-passport/other-residency",
   partOfCollectionSlugs: ["book-section/second-passport/other-residency"],
   unitSlug: "words",
   chapterText: "md",

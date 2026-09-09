@@ -5,7 +5,7 @@ export const baseline = {
   pageTypeSlug: "book-section",
   slug: "baseline",
   title: "1970s Utah House — Envelope Baseline",
-  sectionOfSlug: "book-section/solar-power/envelope",
+  sectionOf: "book-section/solar-power/envelope",
   description:
     "Typical envelope characteristics of a 1970s Utah house — assemblies, R-values, air leakage, ductwork — that set the starting heating load.",
   partOfCollectionSlugs: ["book-section/solar-power/envelope"],

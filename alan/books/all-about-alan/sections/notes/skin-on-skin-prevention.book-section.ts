@@ -5,7 +5,7 @@ export const skinOnSkinPrevention = {
   pageTypeSlug: "book-section",
   slug: "skin-on-skin-prevention",
   title: "Skin-on-skin prevention",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

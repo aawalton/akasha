@@ -5,7 +5,7 @@ export const broadLearning = {
   pageTypeSlug: "book-section",
   slug: "broad-learning",
   title: "Broad learning",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const jenReading = {
   pageTypeSlug: "book-section",
   slug: "jen-reading",
   title: "The Jen reading",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

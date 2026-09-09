@@ -5,7 +5,7 @@ export const tightClothing = {
   pageTypeSlug: "book-section",
   slug: "tight-clothing",
   title: "Tight clothing",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

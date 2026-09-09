@@ -5,7 +5,7 @@ export const familyStream = {
   pageTypeSlug: "book-section",
   slug: "family-stream",
   title: "Family Stream",
-  sectionOfSlug: "book-section/other-residency/other-residency-australia",
+  sectionOf: "book-section/other-residency/other-residency-australia",
   description:
     "Australia family-stream residency paths: partner (309/100, 820/801), parent (103/143/864), and other family visas with current backlogs (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/other-residency/other-residency-australia"],

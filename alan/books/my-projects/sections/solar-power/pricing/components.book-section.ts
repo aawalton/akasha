@@ -5,7 +5,7 @@ export const components = {
   pageTypeSlug: "book-section",
   slug: "components",
   title: "Component Breakdown",
-  sectionOfSlug: "book-section/solar-power/pricing",
+  sectionOf: "book-section/solar-power/pricing",
   description:
     "Component breakdown of residential solar $/W — NREL Q1 2024 benchmark for 8 kW system, plus inverter and battery line items.",
   partOfCollectionSlugs: ["book-section/solar-power/pricing"],

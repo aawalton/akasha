@@ -5,7 +5,7 @@ export const euCitizenshipNetherlands = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-netherlands",
   title: "Netherlands",
-  sectionOfSlug: "book-section/second-passport/eu-citizenship",
+  sectionOf: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Dutch citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (restricted), and current backlogs per path.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-citizenship"],

@@ -5,7 +5,7 @@ export const softwareAndSaas = {
   pageTypeSlug: "book-section",
   slug: "software-and-saas",
   title: "Software and SaaS",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

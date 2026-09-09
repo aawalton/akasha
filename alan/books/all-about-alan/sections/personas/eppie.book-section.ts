@@ -5,7 +5,7 @@ export const eppie = {
   pageTypeSlug: "book-section",
   slug: "eppie",
   title: "Eppie",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Eppie — a Faith-axis persona still in definition. Waiting page: she is not yet sourced; her function and rib await a future /abby session.",
   partOfCollectionSlugs: ["all-about-alan"],

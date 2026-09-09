@@ -5,7 +5,7 @@ export const selfSufficiency = {
   pageTypeSlug: "book-section",
   slug: "self-sufficiency",
   title: "Self-Sufficiency Implications",
-  sectionOfSlug: "book-section/solar-power/energy-demand",
+  sectionOf: "book-section/solar-power/energy-demand",
   description:
     "Self-sufficiency analysis — battery autonomy math, winter shortfall problem, generator vs oversize-PV tradeoff, load-shedding hierarchy for the Provo all-electric home.",
   partOfCollectionSlugs: ["book-section/solar-power/energy-demand"],

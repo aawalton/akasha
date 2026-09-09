@@ -5,7 +5,7 @@ export const otherResidencySouthKorea = {
   pageTypeSlug: "book-section",
   slug: "other-residency-south-korea",
   title: "South Korea",
-  sectionOfSlug: "book-section/second-passport/other-residency",
+  sectionOf: "book-section/second-passport/other-residency",
   description: "South Korea residency paths (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/second-passport/other-residency"],
   unitSlug: "words",

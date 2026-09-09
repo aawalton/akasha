@@ -5,7 +5,7 @@ export const commitmentNotAttachment = {
   pageTypeSlug: "book-section",
   slug: "commitment-not-attachment",
   title: "Commitment, not attachment",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

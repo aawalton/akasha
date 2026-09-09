@@ -5,7 +5,7 @@ export const efficiencyFactors = {
   pageTypeSlug: "book-section",
   slug: "efficiency-factors",
   title: "Rooftop Solar Efficiency Factors (Provo, UT)",
-  sectionOfSlug: "book-section/my-projects/solar-power",
+  sectionOf: "book-section/my-projects/solar-power",
   description:
     "Mechanical decomposition of rooftop solar efficiency factors — from atmospheric irradiance to AC power at the meter — calibrated for Provo, UT.",
   partOfCollectionSlugs: ["book-section/my-projects/solar-power"],

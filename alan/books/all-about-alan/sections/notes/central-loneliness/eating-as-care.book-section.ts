@@ -5,7 +5,7 @@ export const eatingAsCare = {
   pageTypeSlug: "book-section",
   slug: "eating-as-care",
   title: "Eating as care",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

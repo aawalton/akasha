@@ -5,7 +5,7 @@ export const otherCitizenshipMexico = {
   pageTypeSlug: "book-section",
   slug: "other-citizenship-mexico",
   title: "Mexico",
-  sectionOfSlug: "book-section/second-passport/other-citizenship",
+  sectionOf: "book-section/second-passport/other-citizenship",
   description: "Mexico citizenship paths (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/second-passport/other-citizenship"],
   unitSlug: "words",

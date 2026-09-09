@@ -5,7 +5,7 @@ export const euResidencyHungary = {
   pageTypeSlug: "book-section",
   slug: "eu-residency-hungary",
   title: "Hungary",
-  sectionOfSlug: "book-section/second-passport/eu-residency",
+  sectionOf: "book-section/second-passport/eu-residency",
   description:
     "Hungary residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/hungary.md.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-residency"],

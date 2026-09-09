@@ -5,7 +5,7 @@ export const conversationAsExposure = {
   pageTypeSlug: "book-section",
   slug: "conversation-as-exposure",
   title: "Conversation as exposure",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const anthropicRemediation = {
   pageTypeSlug: "book-section",
   slug: "anthropic-remediation",
   title: "Anthropic remediation",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

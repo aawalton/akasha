@@ -5,7 +5,7 @@ export const beginnings = {
   pageTypeSlug: "book-section",
   slug: "beginnings",
   title: "My Math",
-  sectionOfSlug: "my-math",
+  sectionOf: "my-math",
   position: 0,
   partOfCollectionSlugs: ["my-math"],
   unitSlug: "words",

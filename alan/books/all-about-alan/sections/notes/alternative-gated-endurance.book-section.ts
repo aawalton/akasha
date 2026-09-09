@@ -5,7 +5,7 @@ export const alternativeGatedEndurance = {
   pageTypeSlug: "book-section",
   slug: "alternative-gated-endurance",
   title: "Alternative-gated endurance",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

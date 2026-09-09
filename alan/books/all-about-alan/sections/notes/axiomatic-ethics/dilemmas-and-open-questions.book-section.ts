@@ -5,7 +5,7 @@ export const dilemmasAndOpenQuestions = {
   pageTypeSlug: "book-section",
   slug: "dilemmas-and-open-questions",
   title: "Dilemmas, settled dials, and open questions",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

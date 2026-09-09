@@ -5,7 +5,7 @@ export const pricing = {
   pageTypeSlug: "book-section",
   slug: "pricing",
   title: "Rooftop Solar Pricing",
-  sectionOfSlug: "book-section/my-projects/solar-power",
+  sectionOf: "book-section/my-projects/solar-power",
   description:
     "Rooftop solar pricing — component breakdown, levers, and cost-curve history for residential US (with Utah context).",
   partOfCollectionSlugs: ["book-section/my-projects/solar-power"],

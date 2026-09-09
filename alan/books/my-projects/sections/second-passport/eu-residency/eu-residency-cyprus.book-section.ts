@@ -5,7 +5,7 @@ export const euResidencyCyprus = {
   pageTypeSlug: "book-section",
   slug: "eu-residency-cyprus",
   title: "Cyprus",
-  sectionOfSlug: "book-section/second-passport/eu-residency",
+  sectionOf: "book-section/second-passport/eu-residency",
   description:
     "Cyprus residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/cyprus.md.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-residency"],

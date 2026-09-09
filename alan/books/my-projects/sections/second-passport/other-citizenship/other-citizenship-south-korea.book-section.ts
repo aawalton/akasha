@@ -5,7 +5,7 @@ export const otherCitizenshipSouthKorea = {
   pageTypeSlug: "book-section",
   slug: "other-citizenship-south-korea",
   title: "South Korea",
-  sectionOfSlug: "book-section/second-passport/other-citizenship",
+  sectionOf: "book-section/second-passport/other-citizenship",
   description: "South Korea citizenship paths (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/second-passport/other-citizenship"],
   unitSlug: "words",

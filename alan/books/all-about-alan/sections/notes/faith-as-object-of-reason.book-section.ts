@@ -5,7 +5,7 @@ export const faithAsObjectOfReason = {
   pageTypeSlug: "book-section",
   slug: "faith-as-object-of-reason",
   title: "Faith as an object of reason",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

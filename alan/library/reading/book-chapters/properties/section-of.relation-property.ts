@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type SectionOfSlug = Slug
+export type SectionOf = Slug
 
-export const sectionOfSlug = {
+export const sectionOf = {
   id: "01a08189-6150-743e-b860-1baeba37171d",
   pageTypeSlug: "relation-property",
-  slug: "section-of-slug",
-  propertySlug: "section-of-slug",
+  slug: "section-of",
+  propertySlug: "section-of",
   definition: "the collection a section is an instalment of",
   targetPageTypeSlug: "page-type/collection",
   invariants: [

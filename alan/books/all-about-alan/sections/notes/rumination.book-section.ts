@@ -5,7 +5,7 @@ export const rumination = {
   pageTypeSlug: "book-section",
   slug: "rumination",
   title: "Rumination",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

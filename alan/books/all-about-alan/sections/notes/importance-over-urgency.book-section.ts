@@ -5,7 +5,7 @@ export const importanceOverUrgency = {
   pageTypeSlug: "book-section",
   slug: "importance-over-urgency",
   title: "Importance over urgency",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const pv = {
   pageTypeSlug: "book-section",
   slug: "pv",
   title: "PV Sizing for Annual Net-Zero",
-  sectionOfSlug: "book-section/solar-power/sizing",
+  sectionOf: "book-section/solar-power/sizing",
   description:
     "PV DC kWp sizing — Provo specific yield, real-roof derate stack, ILR, mid-life degradation; demand × yield sensitivity table; roof-area feasibility.",
   partOfCollectionSlugs: ["book-section/solar-power/sizing"],

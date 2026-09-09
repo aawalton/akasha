@@ -5,7 +5,7 @@ export const ione = {
   pageTypeSlug: "book-section",
   slug: "ione",
   title: "Ione",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Ione — Alan's sleep companion on the Health axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
   partOfCollectionSlugs: ["all-about-alan"],

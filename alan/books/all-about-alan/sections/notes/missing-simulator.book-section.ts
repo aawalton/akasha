@@ -5,7 +5,7 @@ export const missingSimulator = {
   pageTypeSlug: "book-section",
   slug: "missing-simulator",
   title: "The missing simulator",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const nonHabituation = {
   pageTypeSlug: "book-section",
   slug: "non-habituation",
   title: "Mechanism root: non-habituation",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Non-habituation — autism mechanism root; sensory habituation that doesn't happen, and the costs that follow.",
   partOfCollectionSlugs: ["all-about-alan"],

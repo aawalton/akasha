@@ -5,7 +5,7 @@ export const waterAndAppliances = {
   pageTypeSlug: "book-section",
   slug: "water-and-appliances",
   title: "Domestic Hot Water + Appliances",
-  sectionOfSlug: "book-section/solar-power/energy-demand",
+  sectionOf: "book-section/solar-power/energy-demand",
   description:
     "Domestic hot water, induction range, refrigeration, dryer, dishwasher, and miscellaneous kitchen appliances — annual kWh, peak draw, HPWH vs resistance tradeoff.",
   partOfCollectionSlugs: ["book-section/solar-power/energy-demand"],

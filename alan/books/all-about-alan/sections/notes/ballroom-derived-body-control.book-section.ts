@@ -5,7 +5,7 @@ export const ballroomDerivedBodyControl = {
   pageTypeSlug: "book-section",
   slug: "ballroom-derived-body-control",
   title: "Ballroom-derived body control",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

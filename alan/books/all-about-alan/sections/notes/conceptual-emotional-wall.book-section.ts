@@ -5,7 +5,7 @@ export const conceptualEmotionalWall = {
   pageTypeSlug: "book-section",
   slug: "conceptual-emotional-wall",
   title: "The conceptual-emotional wall",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const ephemeralSelf = {
   pageTypeSlug: "book-section",
   slug: "ephemeral-self",
   title: "The ephemeral self",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const meditativeBreathing = {
   pageTypeSlug: "book-section",
   slug: "meditative-breathing",
   title: "Meditative breathing",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

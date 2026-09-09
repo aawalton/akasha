@@ -5,7 +5,7 @@ export const regulationNotDesire = {
   pageTypeSlug: "book-section",
   slug: "regulation-not-desire",
   title: "Regulation, not desire",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

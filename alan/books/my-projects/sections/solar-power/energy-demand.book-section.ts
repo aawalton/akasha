@@ -5,7 +5,7 @@ export const energyDemand = {
   pageTypeSlug: "book-section",
   slug: "energy-demand",
   title: "Annual Energy Demand (1350 Apple Ave, Provo, UT)",
-  sectionOfSlug: "book-section/my-projects/solar-power",
+  sectionOf: "book-section/my-projects/solar-power",
   description:
     "Annual energy demand plan for all-electric 6000 sq ft Provo home with heat pumps, 12 gaming PCs, two EVs — sized for self-sufficiency.",
   partOfCollectionSlugs: ["book-section/my-projects/solar-power"],

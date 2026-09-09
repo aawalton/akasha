@@ -5,7 +5,7 @@ export const faithFeltChannel = {
   pageTypeSlug: "book-section",
   slug: "faith-felt-channel",
   title: "The felt channel of faith",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

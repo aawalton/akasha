@@ -5,7 +5,7 @@ export const euCitizenshipEstonia = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-estonia",
   title: "Estonian Citizenship Paths (May 2026)",
-  sectionOfSlug: "book-section/second-passport/eu-citizenship",
+  sectionOf: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Estonian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (with the birthright-by-blood nuance), and current backlogs per path.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-citizenship"],

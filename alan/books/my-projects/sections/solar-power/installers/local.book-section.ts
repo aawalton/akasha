@@ -5,7 +5,7 @@ export const local = {
   pageTypeSlug: "book-section",
   slug: "local",
   title: "Local Utah Installers",
-  sectionOfSlug: "book-section/solar-power/installers",
+  sectionOf: "book-section/solar-power/installers",
   description: "Utah-based local solar installers serving Provo / Utah County.",
   partOfCollectionSlugs: ["book-section/solar-power/installers"],
   unitSlug: "words",

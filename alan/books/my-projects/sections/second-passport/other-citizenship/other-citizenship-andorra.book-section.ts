@@ -5,7 +5,7 @@ export const otherCitizenshipAndorra = {
   pageTypeSlug: "book-section",
   slug: "other-citizenship-andorra",
   title: "Andorra",
-  sectionOfSlug: "book-section/second-passport/other-citizenship",
+  sectionOf: "book-section/second-passport/other-citizenship",
   description: "Andorra citizenship paths (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/second-passport/other-citizenship"],
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const faithAndClarifiedEpistemology = {
   pageTypeSlug: "book-section",
   slug: "faith-and-clarified-epistemology",
   title: "Faith and the clarified epistemology",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

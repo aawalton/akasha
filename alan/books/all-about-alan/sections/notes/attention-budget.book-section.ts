@@ -5,7 +5,7 @@ export const attentionBudget = {
   pageTypeSlug: "book-section",
   slug: "attention-budget",
   title: "The attention budget",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

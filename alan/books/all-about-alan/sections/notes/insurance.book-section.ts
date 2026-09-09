@@ -5,7 +5,7 @@ export const insurance = {
   pageTypeSlug: "book-section",
   slug: "insurance",
   title: "Insurance",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const costCurve = {
   pageTypeSlug: "book-section",
   slug: "cost-curve",
   title: "Cost Curve — Past 15 Years",
-  sectionOfSlug: "book-section/solar-power/pricing",
+  sectionOf: "book-section/solar-power/pricing",
   description:
     "Cost-curve history for residential solar — total retail, modules, inverters, batteries, soft costs.",
   partOfCollectionSlugs: ["book-section/solar-power/pricing"],

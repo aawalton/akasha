@@ -5,7 +5,7 @@ export const hotBath = {
   pageTypeSlug: "book-section",
   slug: "hot-bath",
   title: "Hot bath",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

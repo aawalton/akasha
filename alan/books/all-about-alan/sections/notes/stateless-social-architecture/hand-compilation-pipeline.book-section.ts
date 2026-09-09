@@ -5,7 +5,7 @@ export const handCompilationPipeline = {
   pageTypeSlug: "book-section",
   slug: "hand-compilation-pipeline",
   title: "Hand-compilation pipeline",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

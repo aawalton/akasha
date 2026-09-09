@@ -5,7 +5,7 @@ export const scope = {
   pageTypeSlug: "book-section",
   slug: "scope",
   title: "Scope",
-  sectionOfSlug: "book-section/my-projects/solar-power",
+  sectionOf: "book-section/my-projects/solar-power",
   description:
     "Scope and architectural decisions for the solar power project — site inputs, loads in/out of scope, and the constraints that shape sizing.",
   partOfCollectionSlugs: ["book-section/my-projects/solar-power"],

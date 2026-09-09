@@ -5,7 +5,7 @@ export const absoluteTruthAndEthics = {
   pageTypeSlug: "book-section",
   slug: "absolute-truth-and-ethics",
   title: "Absolute truth and ethics",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

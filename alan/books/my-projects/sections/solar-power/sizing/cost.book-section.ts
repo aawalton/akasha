@@ -5,7 +5,7 @@ export const cost = {
   pageTypeSlug: "book-section",
   slug: "cost",
   title: "Total Cost Stack",
-  sectionOfSlug: "book-section/solar-power/sizing",
+  sectionOf: "book-section/solar-power/sizing",
   description:
     "Total cost stack — PV + battery + service panel + EV chargers, pre-ITC and post-ITC, three demand scenarios. ITC status uncertainty called out.",
   partOfCollectionSlugs: ["book-section/solar-power/sizing"],

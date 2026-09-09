@@ -5,7 +5,7 @@ export const sizing = {
   pageTypeSlug: "book-section",
   slug: "sizing",
   title: "Sizing",
-  sectionOfSlug: "book-section/my-projects/solar-power",
+  sectionOf: "book-section/my-projects/solar-power",
   description:
     "Annual net-zero sizing math for the solar power project — PV, battery, inverter, service panel, roof area, and cost stack with one planning-case recommendation.",
   partOfCollectionSlugs: ["book-section/my-projects/solar-power"],

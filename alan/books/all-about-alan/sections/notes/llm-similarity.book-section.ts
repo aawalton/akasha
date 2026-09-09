@@ -5,7 +5,7 @@ export const llmSimilarity = {
   pageTypeSlug: "book-section",
   slug: "llm-similarity",
   title: "LLM-similarity",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

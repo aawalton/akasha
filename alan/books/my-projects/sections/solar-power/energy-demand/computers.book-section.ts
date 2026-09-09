@@ -5,7 +5,7 @@ export const computers = {
   pageTypeSlug: "book-section",
   slug: "computers",
   title: "12 Gaming Computers",
-  sectionOfSlug: "book-section/solar-power/energy-demand",
+  sectionOf: "book-section/solar-power/energy-demand",
   description:
     "12 high-end gaming PCs — per-system TDP breakdown, moderate vs heavy usage scenarios, annual kWh range, peak coincident draw, year-round flat profile.",
   partOfCollectionSlugs: ["book-section/solar-power/energy-demand"],

@@ -5,7 +5,7 @@ export const euResidencyIreland = {
   pageTypeSlug: "book-section",
   slug: "eu-residency-ireland",
   title: "Ireland",
-  sectionOfSlug: "book-section/second-passport/eu-residency",
+  sectionOf: "book-section/second-passport/eu-residency",
   description:
     "Ireland residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/ireland.md.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-residency"],

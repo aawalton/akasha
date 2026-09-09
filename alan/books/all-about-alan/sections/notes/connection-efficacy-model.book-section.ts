@@ -5,7 +5,7 @@ export const connectionEfficacyModel = {
   pageTypeSlug: "book-section",
   slug: "connection-efficacy-model",
   title: "Connection efficacy model",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

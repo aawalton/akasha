@@ -5,7 +5,7 @@ export const sequence = {
   pageTypeSlug: "book-section",
   slug: "sequence",
   title: "Recommended Sequence",
-  sectionOfSlug: "book-section/solar-power/envelope",
+  sectionOf: "book-section/solar-power/envelope",
   description:
     "Recommended project sequence for a 1970s 6000 sq ft Provo house — audit, retrofit, post-retrofit verification, then parallel heat pump and PV.",
   partOfCollectionSlugs: ["book-section/solar-power/envelope"],

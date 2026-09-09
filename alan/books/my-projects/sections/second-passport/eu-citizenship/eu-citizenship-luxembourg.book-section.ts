@@ -5,7 +5,7 @@ export const euCitizenshipLuxembourg = {
   pageTypeSlug: "book-section",
   slug: "eu-citizenship-luxembourg",
   title: "Luxembourgish Citizenship Paths (May 2026)",
-  sectionOfSlug: "book-section/second-passport/eu-citizenship",
+  sectionOf: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Luxembourgish citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (allowed since 2009), and current backlogs per path.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-citizenship"],

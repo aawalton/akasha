@@ -5,7 +5,7 @@ export const safetyEstimator = {
   pageTypeSlug: "book-section",
   slug: "safety-estimator",
   title: "The safety estimator",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

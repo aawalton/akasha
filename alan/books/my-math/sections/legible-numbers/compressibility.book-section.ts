@@ -5,7 +5,7 @@ export const compressibility = {
   pageTypeSlug: "book-section",
   slug: "compressibility",
   title: "Compressibility is intrinsic",
-  sectionOfSlug: "my-math",
+  sectionOf: "my-math",
   partOfCollectionSlugs: ["my-math"],
   unitSlug: "words",
   chapterText: "md",

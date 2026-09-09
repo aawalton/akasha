@@ -5,7 +5,7 @@ export const otherCitizenshipJapan = {
   pageTypeSlug: "book-section",
   slug: "other-citizenship-japan",
   title: "Japan",
-  sectionOfSlug: "book-section/second-passport/other-citizenship",
+  sectionOf: "book-section/second-passport/other-citizenship",
   description: "Japan citizenship paths (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/second-passport/other-citizenship"],
   unitSlug: "words",

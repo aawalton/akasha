@@ -5,7 +5,7 @@ export const sexAsHygieneFactor = {
   pageTypeSlug: "book-section",
   slug: "sex-as-hygiene-factor",
   title: "Sex as a hygiene factor, not a core support",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

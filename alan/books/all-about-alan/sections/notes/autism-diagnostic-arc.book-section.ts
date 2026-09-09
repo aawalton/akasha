@@ -5,7 +5,7 @@ export const autismDiagnosticArc = {
   pageTypeSlug: "book-section",
   slug: "autism-diagnostic-arc",
   title: "Diagnostic arc",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     'Autism diagnostic arc — late realization at 38, the prior "stress disorder" framing, the breaking event, and the catastrophic phase.',
   partOfCollectionSlugs: ["all-about-alan"],

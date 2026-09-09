@@ -5,7 +5,7 @@ export const selfAsStrangers = {
   pageTypeSlug: "book-section",
   slug: "self-as-strangers",
   title: "The self as strangers",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

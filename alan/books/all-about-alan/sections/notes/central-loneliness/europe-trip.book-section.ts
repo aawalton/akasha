@@ -5,7 +5,7 @@ export const europeTrip = {
   pageTypeSlug: "book-section",
   slug: "europe-trip",
   title: "The Europe trip",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const sexualityKnot = {
   pageTypeSlug: "book-section",
   slug: "sexuality-knot",
   title: "The sexuality knot",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

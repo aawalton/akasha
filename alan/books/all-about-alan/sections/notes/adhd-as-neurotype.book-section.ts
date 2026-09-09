@@ -5,7 +5,7 @@ export const adhdAsNeurotype = {
   pageTypeSlug: "book-section",
   slug: "adhd-as-neurotype",
   title: "ADHD as neurotype (working definition)",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description: "ADHD as a neurotype — Alan's working definition in his own terms.",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",

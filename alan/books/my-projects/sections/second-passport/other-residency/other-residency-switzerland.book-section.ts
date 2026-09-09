@@ -5,7 +5,7 @@ export const otherResidencySwitzerland = {
   pageTypeSlug: "book-section",
   slug: "other-residency-switzerland",
   title: "Switzerland",
-  sectionOfSlug: "book-section/second-passport/other-residency",
+  sectionOf: "book-section/second-passport/other-residency",
   description: "Switzerland residency paths (May 2026 snapshot).",
   partOfCollectionSlugs: ["book-section/second-passport/other-residency"],
   unitSlug: "words",

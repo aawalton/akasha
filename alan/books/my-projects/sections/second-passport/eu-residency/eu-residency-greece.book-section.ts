@@ -5,7 +5,7 @@ export const euResidencyGreece = {
   pageTypeSlug: "book-section",
   slug: "eu-residency-greece",
   title: "Greece",
-  sectionOfSlug: "book-section/second-passport/eu-residency",
+  sectionOf: "book-section/second-passport/eu-residency",
   description:
     "Greece residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/greece.md.",
   partOfCollectionSlugs: ["book-section/second-passport/eu-residency"],

@@ -5,7 +5,7 @@ export const consentWeighting = {
   pageTypeSlug: "book-section",
   slug: "consent-weighting",
   title: "Consent-weighting — the keystone",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

@@ -5,7 +5,7 @@ export const stoplightMechanic = {
   pageTypeSlug: "book-section",
   slug: "stoplight-mechanic",
   title: "The stoplight mechanic",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

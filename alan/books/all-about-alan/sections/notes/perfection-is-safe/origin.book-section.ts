@@ -5,7 +5,7 @@ export const origin = {
   pageTypeSlug: "book-section",
   slug: "origin",
   title: "Origin — the dig site",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

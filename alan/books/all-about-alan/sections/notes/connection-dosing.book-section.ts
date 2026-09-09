@@ -5,7 +5,7 @@ export const connectionDosing = {
   pageTypeSlug: "book-section",
   slug: "connection-dosing",
   title: "Connection dosing",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

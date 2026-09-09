@@ -5,7 +5,7 @@ export const threeSelves = {
   pageTypeSlug: "book-section",
   slug: "three-selves",
   title: "The three selves",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   partOfCollectionSlugs: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",

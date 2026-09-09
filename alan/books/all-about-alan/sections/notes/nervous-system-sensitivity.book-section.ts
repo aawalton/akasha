@@ -5,7 +5,7 @@ export const nervousSystemSensitivity = {
   pageTypeSlug: "book-section",
   slug: "nervous-system-sensitivity",
   title: "Mechanism root: nervous-system sensitivity",
-  sectionOfSlug: "all-about-alan",
+  sectionOf: "all-about-alan",
   description:
     "Nervous-system sensitivity — autism mechanism root. Includes the input-doubling mechanism for skin-on-skin contact.",
   partOfCollectionSlugs: ["all-about-alan"],
