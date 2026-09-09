@@ -1137,6 +1137,9 @@
     "temper/lib-shifter-box": {
       "name": "@akasha/temper-lib-shifter-box",
     },
+    "temper/lib-slash-commander": {
+      "name": "@akasha/temper-lib-slash-commander",
+    },
     "temper/lib-table-functions": {
       "name": "@akasha/temper-lib-table-functions",
     },
@@ -1337,9 +1340,6 @@
       "dependencies": {
         "@akasha/temper-eso-types": "workspace:*",
       },
-    },
-    "temper/temper-lib-slash-commander": {
-      "name": "@akasha/temper-lib-slash-commander",
     },
     "temper/temper-skill-kinds": {
       "name": "@akasha/temper-skill-kinds",
@@ -1681,7 +1681,7 @@
 
     "@akasha/temper-lib-shifter-box": ["@akasha/temper-lib-shifter-box@workspace:temper/lib-shifter-box"],
 
-    "@akasha/temper-lib-slash-commander": ["@akasha/temper-lib-slash-commander@workspace:temper/temper-lib-slash-commander"],
+    "@akasha/temper-lib-slash-commander": ["@akasha/temper-lib-slash-commander@workspace:temper/lib-slash-commander"],
 
     "@akasha/temper-lib-table-functions": ["@akasha/temper-lib-table-functions@workspace:temper/lib-table-functions"],
 
