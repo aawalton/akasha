@@ -9,7 +9,7 @@ export const FLEX = /^flex-(?:0|[1-9]\d*)$/
 
 const FLEX_HELD = /(?:^|-)(flex-(?:0|[1-9]\d*))(?:-|$)/
 
-const PERSONA_SLUG_PROPERTY = "seat-persona-slug"
+const PERSONA_SLUG_PROPERTY = "seat-persona"
 
 const NAMED_BY_PERSONA: readonly string[] = ["alan"]
 

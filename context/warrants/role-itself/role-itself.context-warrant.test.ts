@@ -36,7 +36,7 @@ test("a role is named by its slug where the seat states it under a page type", (
 test("a seat stating no role warrants none", () => {
   const root = scratch.rootFor("akasha-role-itself-")
   roleListed(root, "definer")
-  const at = seatListed(root, "one", `personaSlug: "akasha"`)
+  const at = seatListed(root, "one", `persona: "akasha"`)
   expect(pathsOf(roleItself(root, at))).toEqual([])
 })
 

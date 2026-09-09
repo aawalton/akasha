@@ -4,7 +4,7 @@ export const amy = {
   id: "01a07e83-7b6c-7000-a876-5c2d08753493",
   pageTypeSlug: "seat",
   slug: "amy",
-  personaSlug: "amy",
+  persona: "amy",
   assignmentSlug: "initiative/amy-day-model",
   role: "definer",
   person: "alan",

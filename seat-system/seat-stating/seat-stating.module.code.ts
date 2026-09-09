@@ -95,7 +95,7 @@ export function seatBody(
     `  id: ${said(stated.agentId)},`,
     `  pageTypeSlug: ${said(typeSlugOf(root, SEAT_TYPE))},`,
     `  slug: ${said(seatName)},`,
-    `  personaSlug: ${said(persona)},`,
+    `  persona: ${said(persona)},`,
     `  assignmentSlug: ${said(addressed ?? assignmentAddressOf(domain, root))},`,
     `  role: ${said(role)},`,
     person ? `  person: ${said(principal)},` : `  principalSeatName: ${said(above as string)},`,

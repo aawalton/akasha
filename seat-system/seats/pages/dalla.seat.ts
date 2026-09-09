@@ -4,7 +4,7 @@ export const dalla = {
   id: "01a07eb0-c517-7000-9ee4-cfc39576ac24",
   pageTypeSlug: "seat",
   slug: "dalla",
-  personaSlug: "dalla",
+  persona: "dalla",
   assignmentSlug: "initiative/dalla-draft-into-a-patch",
   role: "definer",
   person: "alan",

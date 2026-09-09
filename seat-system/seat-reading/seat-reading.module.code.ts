@@ -19,7 +19,7 @@ const UNKNOWN = "-"
 const STATED: Readonly<Record<string, string>> = {
   id: "id",
   slug: "slug",
-  "persona-slug": "personaSlug",
+  "persona-slug": "persona",
   "domain-slug": "assignmentSlug",
   "role-slug": "role",
   "person-slug": "person",

@@ -4,7 +4,7 @@ export const nimue = {
   id: "01a081bf-5e17-7000-9dd9-4e001f01ce37",
   pageTypeSlug: "seat",
   slug: "nimue",
-  personaSlug: "nimue",
+  persona: "nimue",
   assignmentSlug: "initiative/nimue-code-cleanup",
   role: "definer",
   person: "alan",

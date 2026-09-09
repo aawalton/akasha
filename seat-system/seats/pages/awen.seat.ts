@@ -4,7 +4,7 @@ export const awen = {
   id: "01a0819a-d5a3-7000-9f2b-fd1de46589a2",
   pageTypeSlug: "seat",
   slug: "awen",
-  personaSlug: "awen",
+  persona: "awen",
   assignmentSlug: "initiative/awen-page-folders-by-index",
   role: "definer",
   person: "alan",

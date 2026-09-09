@@ -7,7 +7,7 @@ export const PERSONA =
 
 const PERSONA_TYPE = "persona"
 
-const KEY = "personaSlug"
+const KEY = "persona"
 
 export function personaItself(root: string, path: string): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)

@@ -10,8 +10,8 @@ afterAll(scratch.sweep)
 
 test("a seat states the slug it carries under the key it is asked for", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  const at = seatListed(root, "one", `personaSlug: "akasha", role: "definer"`)
-  expect(slugStated(root, at, "personaSlug")).toBe("akasha")
+  const at = seatListed(root, "one", `persona: "akasha", role: "definer"`)
+  expect(slugStated(root, at, "persona")).toBe("akasha")
   expect(slugStated(root, at, "role")).toBe("definer")
 })
 
@@ -36,13 +36,13 @@ test("a slug stated under no page type names none", () => {
 
 test("a key the seat does not state names no page type", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  const at = seatListed(root, "one", `personaSlug: "akasha"`)
+  const at = seatListed(root, "one", `persona: "akasha"`)
   expect(typeStated(root, at, "assignmentSlug")).toBe(null)
 })
 
 test("a key the seat does not state answers nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  const at = seatListed(root, "one", `personaSlug: "akasha"`)
+  const at = seatListed(root, "one", `persona: "akasha"`)
   expect(slugStated(root, at, "role")).toBe(null)
 })
 
@@ -54,16 +54,16 @@ test("a key stated as anything but text answers nothing", () => {
 
 test("a key stated empty answers nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  const at = seatListed(root, "one", `personaSlug: ""`)
-  expect(slugStated(root, at, "personaSlug")).toBe(null)
+  const at = seatListed(root, "one", `persona: ""`)
+  expect(slugStated(root, at, "persona")).toBe(null)
 })
 
 test("a path that is no agent's page states nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
   const path = "akasha/persona-system/personas/akasha/akasha.persona.ts"
-  writing(root, path, `export const akasha = { personaSlug: "akasha" }\n`)
-  expect(slugStated(root, path, "personaSlug")).toBe(null)
-  expect(typeStated(root, path, "personaSlug")).toBe(null)
+  writing(root, path, `export const akasha = { persona: "akasha" }\n`)
+  expect(slugStated(root, path, "persona")).toBe(null)
+  expect(typeStated(root, path, "persona")).toBe(null)
 })
 
 test("a subagent states the slug it carries under the key it is asked for", () => {
@@ -78,17 +78,17 @@ test("a seat whose body cannot be loaded states nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
   const path = "akasha/seat-system/seat/seats/one.seat.ts"
   writing(root, path, "this is no module {\n")
-  expect(slugStated(root, path, "personaSlug")).toBe(null)
+  expect(slugStated(root, path, "persona")).toBe(null)
 })
 
 test("a seat that is nowhere states nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  expect(slugStated(root, "akasha/seat-system/seat/seats/gone.seat.ts", "personaSlug")).toBe(null)
+  expect(slugStated(root, "akasha/seat-system/seat/seats/gone.seat.ts", "persona")).toBe(null)
 })
 
 test("a seat whose exported value is not named for its slug states nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
   const path = "akasha/seat-system/seat/seats/one.seat.ts"
-  writing(root, path, `export const other = { personaSlug: "akasha" }\n`)
-  expect(slugStated(root, path, "personaSlug")).toBe(null)
+  writing(root, path, `export const other = { persona: "akasha" }\n`)
+  expect(slugStated(root, path, "persona")).toBe(null)
 })

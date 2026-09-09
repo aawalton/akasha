@@ -12,7 +12,7 @@ import type { RegistrationAccount } from "./properties/registration-account.text
 import type { Request } from "./properties/request.record-property.ts"
 import type { Role } from "./properties/role.relation-property.ts"
 import type { RotatedSessionUuid } from "./properties/rotated-session-uuid.text-property.ts"
-import type { SeatPersonaSlug } from "./properties/seat-persona-slug.relation-property.ts"
+import type { SeatPersona } from "./properties/seat-persona.relation-property.ts"
 import type { StartMode } from "./properties/start-mode.text-property.ts"
 import type { SupervisorProcess } from "./properties/supervisor-process.process-property.ts"
 import type { TranscriptPath } from "./properties/transcript-path.text-property.ts"
@@ -20,7 +20,7 @@ import type { TurnPending } from "./properties/turn-pending.record-property.ts"
 import type { TurnWorking } from "./properties/turn-working.record-property.ts"
 
 export type Seat = Agent & {
-  personaSlug: SeatPersonaSlug
+  persona: SeatPersona
   role: Role
   person?: Person
   startMode: StartMode
@@ -68,7 +68,7 @@ export const seat = {
     "relation-property/person",
     "relation-property/requested-action",
     "relation-property/role",
-    "relation-property/seat-persona-slug",
+    "relation-property/seat-persona",
     "text-property/claude-code-session-uuid",
     "text-property/interrupt-message",
     "text-property/mode",
@@ -84,7 +84,7 @@ export const seat = {
   ],
   properties: [
     {
-      pagePropertySlug: "relation-property/seat-persona-slug",
+      pagePropertySlug: "relation-property/seat-persona",
       required: true,
       many: false,
       default: "claude",

@@ -4,7 +4,7 @@ export const aelwyn = {
   id: "01a07ceb-63ec-7000-9477-5a923beff3be",
   pageTypeSlug: "seat",
   slug: "aelwyn",
-  personaSlug: "aelwyn",
+  persona: "aelwyn",
   assignmentSlug: "initiative/aelwyn-strength-training",
   role: "definer",
   person: "alan",
