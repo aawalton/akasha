@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const windshearBarrierOfAir = {
   id: "01a06572-95ea-7472-a883-aff9fb4e8838",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "windshear-barrier-of-air",
   title: "Windshear Barrier of Air",
   world: "the-wandering-inn",

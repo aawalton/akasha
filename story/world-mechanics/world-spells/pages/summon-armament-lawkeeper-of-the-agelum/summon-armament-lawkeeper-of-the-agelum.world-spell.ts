@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const summonArmamentLawkeeperOfTheAgelum = {
   id: "01a06572-95e4-75e1-a439-a5b93795f36a",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "summon-armament-lawkeeper-of-the-agelum",
   title: "Summon Armament: Lawkeeper of the Agelum",
   world: "the-wandering-inn",

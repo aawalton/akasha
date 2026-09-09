@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const timeStop = {
   id: "01a06572-95e7-737b-9dea-d85e85eef74d",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "time-stop",
   title: "TIME STOP",
   world: "the-wandering-inn",

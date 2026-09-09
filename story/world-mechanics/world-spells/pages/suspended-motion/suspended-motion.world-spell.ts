@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const suspendedMotion = {
   id: "01a06572-95e4-740b-a1bb-5cee442b675c",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "suspended-motion",
   title: "Suspended Motion",
   world: "the-wandering-inn",

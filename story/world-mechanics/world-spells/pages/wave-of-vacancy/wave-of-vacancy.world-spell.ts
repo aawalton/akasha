@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const waveOfVacancy = {
   id: "01a06572-95e9-7b09-b372-4ecaeb5c155e",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "wave-of-vacancy",
   title: "Wave of Vacan—",
   world: "the-wandering-inn",
