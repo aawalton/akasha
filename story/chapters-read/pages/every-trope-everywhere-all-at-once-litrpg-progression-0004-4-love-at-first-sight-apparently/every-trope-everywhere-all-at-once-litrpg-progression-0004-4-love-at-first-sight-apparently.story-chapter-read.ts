@@ -5,7 +5,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression00044LoveAtFirstSight
   pageTypeSlug: "story-chapter-read",
   slug: "every-trope-everywhere-all-at-once-litrpg-progression-0004-4-love-at-first-sight-apparently",
   title: "4 - Love at First Sight (Apparently)",
-  partOfCollectionSlugs: ["every-trope-everywhere-all-at-once-litrpg-progression"],
+  storySlug: "every-trope-everywhere-all-at-once-litrpg-progression",
   position: 4,
   ownLength: 1815,
   unitSlug: "words",

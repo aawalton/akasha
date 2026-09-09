@@ -5,7 +5,7 @@ export const emieAscended0045Interlude2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "emie-ascended-0045-interlude-2",
   title: "Interlude 2",
-  partOfCollectionSlugs: ["emie-ascended"],
+  storySlug: "emie-ascended",
   position: 45,
   ownLength: 2580,
   unitSlug: "words",

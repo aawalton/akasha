@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0515Chapter4775AliandraStatusSheet = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0515-chapter-477-5-aliandra-status-sheet",
   title: "Chapter 477.5: Aliandra - Status Sheet",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 515,
   ownLength: 1680,
   ownProgress: 1680,

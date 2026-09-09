@@ -5,7 +5,7 @@ export const endsOfMagic0074Chapter59DawnSConcord = {
   pageTypeSlug: "story-chapter-read",
   slug: "ends-of-magic-0074-chapter-59-dawn-s-concord",
   title: "Chapter 59: Dawn’s Concord",
-  partOfCollectionSlugs: ["story-read/ends-of-magic"],
+  storySlug: "story-read/ends-of-magic",
   position: 74,
   ownLength: 2800,
   ownProgress: 2800,
