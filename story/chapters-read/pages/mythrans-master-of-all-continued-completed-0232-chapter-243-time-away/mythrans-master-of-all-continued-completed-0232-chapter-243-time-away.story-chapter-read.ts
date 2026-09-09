@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0232Chapter243TimeAway = {
   id: "01a0672c-ebec-7000-969d-ddfebf0b83ec",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0232-chapter-243-time-away",
   title: "Chapter 243 - Time Away",
   story: "mythrans-master-of-all-continued-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0178Chapter190LoveAndUnderstanding = {
   id: "01a0672c-ebb2-7000-bc12-49e1cf62a8ef",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0178-chapter-190-love-and-understanding",
   title: "Chapter 190 - Love And Understanding",
   story: "mythrans-master-of-all-continued-completed",

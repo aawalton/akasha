@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0055Chapter71ANightInJail = {
   id: "01a06591-3f85-7368-bff2-fede280ca64e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0055-chapter-71-a-night-in-jail",
   title: "Chapter 71 - A Night In Jail",
   story: "mythrans-master-of-all-continued-completed",

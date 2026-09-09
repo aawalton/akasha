@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const myLordPleaseACharacterDrivenKingdomBuilding0052Chapter48Mercy = {
   id: "01a06591-3f76-7700-9458-e2336d56fc10",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0052-chapter-48-mercy",
   title: "Chapter 48 Mercy",
   story: "my-lord-please-a-character-driven-kingdom-building",

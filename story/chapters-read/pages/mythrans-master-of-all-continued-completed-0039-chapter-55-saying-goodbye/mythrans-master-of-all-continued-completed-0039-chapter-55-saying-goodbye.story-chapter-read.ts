@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0039Chapter55SayingGoodbye = {
   id: "01a06591-3f83-7d9c-904d-ddedfde08c4f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0039-chapter-55-saying-goodbye",
   title: "Chapter 55 - Saying Goodbye",
   story: "mythrans-master-of-all-continued-completed",

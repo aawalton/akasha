@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0073Chapter89HouseNeram = {
   id: "01a0672c-eb23-7000-8d21-a4bbd9e70b2b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0073-chapter-89-house-neram",
   title: "Chapter 89 - House Neram",
   story: "mythrans-master-of-all-continued-completed",

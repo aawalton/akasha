@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0165Chapter177BraceletOfEnforcement = {
   id: "01a0672c-eba1-7000-8c86-7742a72c8731",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0165-chapter-177-bracelet-of-enforcement",
   title: "Chapter 177 - Bracelet Of Enforcement",
   story: "mythrans-master-of-all-continued-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0215Chapter227EpisodeTwo = {
   id: "01a0672c-ebdb-7001-99fc-010714a4a060",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0215-chapter-227-episode-two",
   title: "Chapter 227 - Episode Two",
   story: "mythrans-master-of-all-continued-completed",

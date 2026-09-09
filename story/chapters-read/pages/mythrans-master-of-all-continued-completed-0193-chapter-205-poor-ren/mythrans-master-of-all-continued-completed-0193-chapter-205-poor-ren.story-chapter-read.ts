@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0193Chapter205PoorRen = {
   id: "01a0672c-ebc4-7000-a3f4-5b1534a412dc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0193-chapter-205-poor-ren",
   title: "Chapter 205 - Poor Ren",
   story: "mythrans-master-of-all-continued-completed",

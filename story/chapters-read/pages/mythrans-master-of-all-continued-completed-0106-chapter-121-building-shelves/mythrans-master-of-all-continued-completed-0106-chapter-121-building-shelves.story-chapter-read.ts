@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0106Chapter121BuildingShelves = {
   id: "01a0672c-eb4f-7000-9d15-3199d55072ba",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0106-chapter-121-building-shelves",
   title: "Chapter 121 - Building Shelves",
   story: "mythrans-master-of-all-continued-completed",

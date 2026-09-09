@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0056Chapter72SweetFreedom = {
   id: "01a06591-3f85-7f9c-98a4-9e0dd2317f9f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0056-chapter-72-sweet-freedom",
   title: "Chapter 72 - Sweet Freedom",
   story: "mythrans-master-of-all-continued-completed",

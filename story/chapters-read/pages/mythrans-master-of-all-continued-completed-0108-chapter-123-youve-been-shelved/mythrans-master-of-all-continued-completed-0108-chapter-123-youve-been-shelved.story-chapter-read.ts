@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0108Chapter123YouveBeenShelved = {
   id: "01a0672c-eb52-7000-92e5-de4852149fea",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0108-chapter-123-youve-been-shelved",
   title: "Chapter 123 - You've Been Shelved",
   story: "mythrans-master-of-all-continued-completed",

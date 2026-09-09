@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const myLordPleaseACharacterDrivenKingdomBuilding0121Chapter115Confluence = {
   id: "01a06591-3f7e-7d23-91b9-808259682d57",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0121-chapter-115-confluence",
   title: "Chapter 115 Confluence",
   story: "my-lord-please-a-character-driven-kingdom-building",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0168Chapter180Oathbreaker = {
   id: "01a0672c-eba6-7000-95a3-db2a6b3b379b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0168-chapter-180-oathbreaker",
   title: "Chapter 180 - Oathbreaker",
   story: "mythrans-master-of-all-continued-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0009Chapter25TheParty = {
   id: "01a06591-3f80-7386-bf39-012ecf86f501",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0009-chapter-25-the-party",
   title: "Chapter 25 - The Party",
   story: "mythrans-master-of-all-continued-completed",

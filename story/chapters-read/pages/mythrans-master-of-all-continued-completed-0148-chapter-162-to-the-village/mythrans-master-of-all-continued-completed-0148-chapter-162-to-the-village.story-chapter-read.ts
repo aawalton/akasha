@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0148Chapter162ToTheVillage = {
   id: "01a0672c-eb8e-7001-96f3-1bd8e34009b7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0148-chapter-162-to-the-village",
   title: "Chapter 162 - To The Village",
   story: "mythrans-master-of-all-continued-completed",

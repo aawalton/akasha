@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0052Chapter68AnotherDayAnotherTool = {
   id: "01a06591-3f84-733f-bbac-c38df796c7e7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0052-chapter-68-another-day-another-tool",
   title: "Chapter 68 - Another Day, Another Tool",
   story: "mythrans-master-of-all-continued-completed",

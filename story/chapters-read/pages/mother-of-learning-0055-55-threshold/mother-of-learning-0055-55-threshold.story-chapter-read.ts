@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const motherOfLearning005555Threshold = {
   id: "01a06731-b073-7000-8643-bd6643f5a080",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mother-of-learning-0055-55-threshold",
   title: "55. Threshold",
   story: "story-read/mother-of-learning",

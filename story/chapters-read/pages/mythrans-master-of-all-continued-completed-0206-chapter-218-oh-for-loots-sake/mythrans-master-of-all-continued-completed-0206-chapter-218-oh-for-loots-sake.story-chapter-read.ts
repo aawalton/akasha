@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0206Chapter218OhForLootsSake = {
   id: "01a0672c-ebd3-7000-ba06-75ecd0e818fd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0206-chapter-218-oh-for-loots-sake",
   title: "Chapter 218 - Oh, For Loot's Sake!",
   story: "mythrans-master-of-all-continued-completed",

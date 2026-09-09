@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0177Chapter189TunedIn = {
   id: "01a0672c-ebb1-7000-b997-c2914c3e8f7d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0177-chapter-189-tuned-in",
   title: "Chapter 189 - Tuned In",
   story: "mythrans-master-of-all-continued-completed",

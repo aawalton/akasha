@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0233Chapter244StellaSaysPlay = {
   id: "01a0672c-ebed-7000-886c-0f3d12132f76",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0233-chapter-244-stella-says-play",
   title: "Chapter 244 - Stella Says Play",
   story: "mythrans-master-of-all-continued-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0192Chapter204PoorBonnie = {
   id: "01a0672c-ebc3-7000-86ea-e7828f482f9a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0192-chapter-204-poor-bonnie",
   title: "Chapter 204 - Poor Bonnie",
   story: "mythrans-master-of-all-continued-completed",

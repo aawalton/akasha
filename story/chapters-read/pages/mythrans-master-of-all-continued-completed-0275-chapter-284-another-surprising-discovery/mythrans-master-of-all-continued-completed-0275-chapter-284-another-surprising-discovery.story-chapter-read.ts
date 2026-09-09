@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0275Chapter284AnotherSurprisingDiscovery = {
   id: "01a0672c-ec17-7000-92ec-2ea5f95ebf9b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0275-chapter-284-another-surprising-discovery",
   title: "Chapter 284 - Another Surprising Discovery",
   story: "mythrans-master-of-all-continued-completed",

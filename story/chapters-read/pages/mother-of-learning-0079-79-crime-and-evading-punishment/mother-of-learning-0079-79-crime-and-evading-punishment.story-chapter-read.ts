@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const motherOfLearning007979CrimeAndEvadingPunishment = {
   id: "01a06731-b098-7000-a2be-0c7996f177b1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mother-of-learning-0079-79-crime-and-evading-punishment",
   title: "79. Crime and Evading Punishment",
   story: "story-read/mother-of-learning",
