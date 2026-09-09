@@ -9,6 +9,7 @@ import {
   formattedSaid,
 } from "../../commands/modules/landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "../../commands/modules/manifest-locking/manifest-locking.module.code.ts"
+import { refusalsKept } from "../../commands/modules/refusals-keeping/refusals-keeping.module.code.ts"
 import type { Given as Arguments } from "../argument-reading/argument-reading.module.code.ts"
 import { bypassedIn, glassSaid, mistaking, unloadableIn } from "../asking/asking.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
@@ -19,7 +20,6 @@ import { editsOf, type FileEdit, landing, type Refused } from "../landing/landin
 import { carryLanded } from "../landing-reading/landing-reading.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
-import { refusalsKept } from "../refusals-keeping/refusals-keeping.module.code.ts"
 
 const NOTHING_HELD = "no bodies were handed in, so nothing is there to apply"
 

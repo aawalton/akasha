@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { ANSWER_CEILING } from "../../commands/pages/read/long-body/long-body.module.code.ts"
+import { ANSWER_CEILING } from "../../pages/read/long-body/long-body.module.code.ts"
 import { bodyOf, fits, pointedAt, refusalsAt } from "./refusals-keeping.module.code.ts"
 
 test("a seat's refusals are named beside that seat's page, outside the commit", () => {
