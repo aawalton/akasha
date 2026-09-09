@@ -910,7 +910,7 @@
         "yaml": "^2.8.1",
       },
     },
-    "smilingjenny/smilingjenny-web": {
+    "smilingjenny/web": {
       "name": "@akasha/smilingjenny-web",
       "version": "0.1.0",
       "dependencies": {
@@ -1619,7 +1619,7 @@
 
     "@akasha/service": ["@akasha/service@workspace:services"],
 
-    "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/smilingjenny-web"],
+    "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
 
     "@akasha/story-engine-core": ["@akasha/story-engine-core@workspace:story/engine/core"],
 
