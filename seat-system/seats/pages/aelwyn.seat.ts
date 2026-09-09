@@ -7,7 +7,7 @@ export const aelwyn = {
   personaSlug: "aelwyn",
   assignmentSlug: "initiative/aelwyn-strength-training",
   role: "definer",
-  person: "alan",
+  personSlug: "alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
