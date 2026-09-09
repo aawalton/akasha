@@ -1025,6 +1025,16 @@
         "@akasha/utils": "workspace:*",
       },
     },
+    "temper/characters-addon": {
+      "name": "@akasha/temper-characters-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-companions-addon": "workspace:*",
+        "@akasha/temper-completion": "workspace:*",
+        "@akasha/temper-player-completion-state": "workspace:*",
+        "@akasha/utils": "workspace:*",
+      },
+    },
     "temper/collections-addon": {
       "name": "@akasha/temper-collections-addon",
       "dependencies": {
@@ -1274,16 +1284,6 @@
     },
     "temper/temper-catalog-core": {
       "name": "@akasha/temper-catalog-core",
-    },
-    "temper/temper-characters-addon": {
-      "name": "@akasha/temper-characters-addon",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-companions-addon": "workspace:*",
-        "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-player-completion-state": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
     },
     "temper/temper-combat-addon": {
       "name": "@akasha/temper-combat-addon",
@@ -1595,7 +1595,7 @@
 
     "@akasha/temper-character-sources": ["@akasha/temper-character-sources@workspace:temper/character-sources"],
 
-    "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:temper/temper-characters-addon"],
+    "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:temper/characters-addon"],
 
     "@akasha/temper-collections-addon": ["@akasha/temper-collections-addon@workspace:temper/collections-addon"],
 
