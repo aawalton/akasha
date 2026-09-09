@@ -9,7 +9,7 @@ export const chrysalis0169Chapter1521FortressInterior = {
   position: 169,
   ownLength: 993,
   ownProgress: 993,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:15.025Z",
   publishedAt: "2025-03-04",
   externalLink:

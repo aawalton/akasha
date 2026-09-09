@@ -9,7 +9,7 @@ export const chrysalis0233Chapter1585ForwardFacingColony = {
   position: 233,
   ownLength: 1181,
   ownProgress: 1181,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:16.157Z",
   publishedAt: "2025-06-16",
   externalLink:

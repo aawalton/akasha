@@ -9,7 +9,7 @@ export const chrysalis0193Chapter1545VisionsOfSickness = {
   position: 193,
   ownLength: 945,
   ownProgress: 945,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:59.840Z",
   publishedAt: "2025-04-07",
   externalLink:

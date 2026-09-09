@@ -9,7 +9,7 @@ export const chrysalis0130Chapter1482BearInThere = {
   position: 130,
   ownLength: 991,
   ownProgress: 991,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:33.642Z",
   publishedAt: "2025-01-08",
   externalLink:

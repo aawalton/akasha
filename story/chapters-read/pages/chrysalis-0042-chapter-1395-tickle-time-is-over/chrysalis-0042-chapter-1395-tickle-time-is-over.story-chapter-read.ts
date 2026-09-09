@@ -9,7 +9,7 @@ export const chrysalis0042Chapter1395TickleTimeIsOver = {
   position: 42,
   ownLength: 1114,
   ownProgress: 1114,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:58.906Z",
   publishedAt: "2024-08-27",
   externalLink:

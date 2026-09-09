@@ -9,7 +9,7 @@ export const chrysalis0266Chapter1617BustingOut = {
   position: 266,
   ownLength: 1031,
   ownProgress: 1031,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:19.631Z",
   publishedAt: "2025-08-06",
   externalLink:

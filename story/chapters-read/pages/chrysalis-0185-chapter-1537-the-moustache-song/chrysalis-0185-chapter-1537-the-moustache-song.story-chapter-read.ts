@@ -9,7 +9,7 @@ export const chrysalis0185Chapter1537TheMoustacheSong = {
   position: 185,
   ownLength: 1102,
   ownProgress: 1102,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:45.116Z",
   publishedAt: "2025-03-26",
   externalLink:

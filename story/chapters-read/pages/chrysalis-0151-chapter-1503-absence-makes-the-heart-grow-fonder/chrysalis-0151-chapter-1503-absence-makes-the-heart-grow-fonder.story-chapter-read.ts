@@ -9,7 +9,7 @@ export const chrysalis0151Chapter1503AbsenceMakesTheHeartGrowFonder = {
   position: 151,
   ownLength: 1126,
   ownProgress: 1126,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:40.711Z",
   publishedAt: "2025-02-06",
   externalLink:

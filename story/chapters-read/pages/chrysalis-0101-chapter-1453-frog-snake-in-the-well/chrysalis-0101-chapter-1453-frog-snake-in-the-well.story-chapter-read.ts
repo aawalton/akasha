@@ -9,7 +9,7 @@ export const chrysalis0101Chapter1453FrogSnakeInTheWell = {
   position: 101,
   ownLength: 1104,
   ownProgress: 1104,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:18.658Z",
   publishedAt: "2024-11-14",
   externalLink:

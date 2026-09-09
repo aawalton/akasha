@@ -9,7 +9,7 @@ export const chrysalis0252Chapter1603ThatTerribleSound = {
   position: 252,
   ownLength: 887,
   ownProgress: 887,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:52.702Z",
   publishedAt: "2025-07-10",
   externalLink:

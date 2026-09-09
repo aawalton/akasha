@@ -9,7 +9,7 @@ export const chrysalis0149Chapter1501TheTemplarOfTheEldest = {
   position: 149,
   ownLength: 965,
   ownProgress: 965,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:37.049Z",
   publishedAt: "2025-02-05",
   externalLink:

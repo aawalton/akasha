@@ -9,7 +9,7 @@ export const chrysalis0002Chapter1355SetbackWhatSetback = {
   position: 2,
   ownLength: 1131,
   ownProgress: 1131,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:43:43.088Z",
   publishedAt: "2024-06-17",
   externalLink:

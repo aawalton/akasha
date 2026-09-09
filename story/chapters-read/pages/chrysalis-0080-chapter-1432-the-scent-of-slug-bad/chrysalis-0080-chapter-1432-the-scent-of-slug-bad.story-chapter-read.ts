@@ -9,7 +9,7 @@ export const chrysalis0080Chapter1432TheScentOfSlugBad = {
   position: 80,
   ownLength: 1119,
   ownProgress: 1119,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:22.372Z",
   publishedAt: "2024-10-16",
   externalLink:

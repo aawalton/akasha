@@ -9,7 +9,7 @@ export const chrysalis0041Chapter1394WhatSAnEldestToDo = {
   position: 41,
   ownLength: 1199,
   ownProgress: 1199,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:57.108Z",
   publishedAt: "2024-08-16",
   externalLink:

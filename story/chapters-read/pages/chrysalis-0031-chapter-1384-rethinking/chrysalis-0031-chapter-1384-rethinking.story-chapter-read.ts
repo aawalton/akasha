@@ -9,7 +9,7 @@ export const chrysalis0031Chapter1384Rethinking = {
   position: 31,
   ownLength: 1067,
   ownProgress: 1067,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:38.599Z",
   publishedAt: "2024-08-02",
   externalLink:

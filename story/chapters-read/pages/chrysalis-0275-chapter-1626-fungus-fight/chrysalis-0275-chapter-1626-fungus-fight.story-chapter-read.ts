@@ -9,7 +9,7 @@ export const chrysalis0275Chapter1626FungusFight = {
   position: 275,
   ownLength: 956,
   ownProgress: 956,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:36.676Z",
   publishedAt: "2025-08-19",
   externalLink:

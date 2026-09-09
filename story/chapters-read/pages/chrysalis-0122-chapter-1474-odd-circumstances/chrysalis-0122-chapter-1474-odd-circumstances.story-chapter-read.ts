@@ -9,7 +9,7 @@ export const chrysalis0122Chapter1474OddCircumstances = {
   position: 122,
   ownLength: 1107,
   ownProgress: 1107,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:58.561Z",
   publishedAt: "2024-12-13",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0026Chapter1379SlugStrife = {
   position: 26,
   ownLength: 900,
   ownProgress: 900,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:29.010Z",
   publishedAt: "2024-07-26",
   externalLink:

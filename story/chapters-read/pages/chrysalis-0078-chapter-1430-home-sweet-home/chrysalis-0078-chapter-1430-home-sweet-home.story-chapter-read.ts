@@ -9,7 +9,7 @@ export const chrysalis0078Chapter1430HomeSweetHome = {
   position: 78,
   ownLength: 979,
   ownProgress: 979,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:18.631Z",
   publishedAt: "2024-10-15",
   externalLink:

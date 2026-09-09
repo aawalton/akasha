@@ -9,7 +9,7 @@ export const chrysalis0085Chapter1437TellHimHeSDreaming = {
   position: 85,
   ownLength: 1090,
   ownProgress: 1090,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:37.128Z",
   publishedAt: "2024-10-23",
   externalLink:

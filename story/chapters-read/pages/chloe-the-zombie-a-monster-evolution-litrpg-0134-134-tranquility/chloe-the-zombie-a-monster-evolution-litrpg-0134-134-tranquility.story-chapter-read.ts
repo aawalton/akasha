@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0134134Tranquility = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 134,
   ownLength: 1851,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-03",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3227132/134-tranquility",

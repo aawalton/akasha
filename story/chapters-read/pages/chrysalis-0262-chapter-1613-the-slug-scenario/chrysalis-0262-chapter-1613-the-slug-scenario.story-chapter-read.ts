@@ -9,7 +9,7 @@ export const chrysalis0262Chapter1613TheSlugScenario = {
   position: 262,
   ownLength: 997,
   ownProgress: 997,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:11.916Z",
   publishedAt: "2025-07-31",
   externalLink:

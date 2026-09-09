@@ -9,7 +9,7 @@ export const chrysalis0023Chapter1376SomethingSheNeverImagined = {
   position: 23,
   ownLength: 1037,
   ownProgress: 1037,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:23.260Z",
   publishedAt: "2024-07-23",
   externalLink:

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0158158SuperDuperZombie = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 158,
   ownLength: 1916,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-29",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3465213/158-super-duper-zombie",

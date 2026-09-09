@@ -9,7 +9,7 @@ export const chrysalis0018Chapter1371GuessWho = {
   position: 18,
   ownLength: 1191,
   ownProgress: 1191,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:13.699Z",
   publishedAt: "2024-07-17",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0258Chapter1609ADifficultJourney = {
   position: 258,
   ownLength: 920,
   ownProgress: 920,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:04.250Z",
   publishedAt: "2025-07-18",
   externalLink:

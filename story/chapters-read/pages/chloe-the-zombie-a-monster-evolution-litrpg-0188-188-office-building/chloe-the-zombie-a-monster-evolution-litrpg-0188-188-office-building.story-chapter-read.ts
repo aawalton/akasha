@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0188188OfficeBuilding = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 188,
   ownLength: 1882,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3813366/188-office-building",

@@ -9,7 +9,7 @@ export const chrysalis0271Chapter1622TheTemplarStand = {
   position: 271,
   ownLength: 891,
   ownProgress: 891,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:29.175Z",
   publishedAt: "2025-08-13",
   externalLink:

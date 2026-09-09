@@ -9,7 +9,7 @@ export const chrysalis0072Chapter1424GatherTheTribes = {
   position: 72,
   ownLength: 1051,
   ownProgress: 1051,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:00.336Z",
   publishedAt: "2024-10-04",
   externalLink:

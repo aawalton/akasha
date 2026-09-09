@@ -9,7 +9,7 @@ export const chrysalis0106Chapter1458KrathAttack = {
   position: 106,
   ownLength: 1053,
   ownProgress: 1053,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:28.318Z",
   publishedAt: "2024-11-21",
   externalLink:

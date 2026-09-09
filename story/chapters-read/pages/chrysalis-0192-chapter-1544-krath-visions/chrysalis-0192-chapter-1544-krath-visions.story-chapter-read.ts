@@ -9,7 +9,7 @@ export const chrysalis0192Chapter1544KrathVisions = {
   position: 192,
   ownLength: 1034,
   ownProgress: 1034,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:57.923Z",
   publishedAt: "2025-04-04",
   externalLink:

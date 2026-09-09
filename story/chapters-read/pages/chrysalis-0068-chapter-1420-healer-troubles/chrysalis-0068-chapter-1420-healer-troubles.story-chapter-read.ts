@@ -9,7 +9,7 @@ export const chrysalis0068Chapter1420HealerTroubles = {
   position: 68,
   ownLength: 1082,
   ownProgress: 1082,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:48.524Z",
   publishedAt: "2024-09-30",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0222Chapter1574AnUnexpectedReunion = {
   position: 222,
   ownLength: 858,
   ownProgress: 858,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:55.076Z",
   publishedAt: "2025-05-30",
   externalLink:

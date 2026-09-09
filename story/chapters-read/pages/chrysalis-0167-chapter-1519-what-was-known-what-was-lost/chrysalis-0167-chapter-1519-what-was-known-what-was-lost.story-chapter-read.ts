@@ -9,7 +9,7 @@ export const chrysalis0167Chapter1519WhatWasKnownWhatWasLost = {
   position: 167,
   ownLength: 966,
   ownProgress: 966,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:11.247Z",
   publishedAt: "2025-02-28",
   externalLink:

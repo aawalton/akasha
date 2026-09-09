@@ -9,7 +9,7 @@ export const chrysalis0147Chapter1499Sprint = {
   position: 147,
   ownLength: 1104,
   ownProgress: 1104,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:33.189Z",
   publishedAt: "2025-01-31",
   externalLink:

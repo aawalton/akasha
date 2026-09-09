@@ -9,7 +9,7 @@ export const chrysalis0237Chapter1589TheHeatIsOn = {
   position: 237,
   ownLength: 969,
   ownProgress: 969,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:23.605Z",
   publishedAt: "2025-06-20",
   externalLink:

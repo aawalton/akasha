@@ -9,7 +9,7 @@ export const chrysalis0176Chapter1528TheLegionDeploys = {
   position: 176,
   ownLength: 965,
   ownProgress: 965,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:28.362Z",
   publishedAt: "2025-03-13",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0070Chapter1422ZluthAscendant = {
   position: 70,
   ownLength: 971,
   ownProgress: 971,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:54.253Z",
   publishedAt: "2024-10-02",
   externalLink:

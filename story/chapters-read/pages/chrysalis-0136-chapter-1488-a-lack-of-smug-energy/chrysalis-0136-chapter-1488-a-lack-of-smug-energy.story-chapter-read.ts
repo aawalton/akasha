@@ -9,7 +9,7 @@ export const chrysalis0136Chapter1488ALackOfSmugEnergy = {
   position: 136,
   ownLength: 943,
   ownProgress: 943,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:44.837Z",
   publishedAt: "2025-01-21",
   externalLink:

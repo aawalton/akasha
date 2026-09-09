@@ -9,7 +9,7 @@ export const chrysalis0137Chapter1489SlipOfTheMandibles = {
   position: 137,
   ownLength: 1193,
   ownProgress: 1193,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:13.828Z",
   publishedAt: "2025-01-21",
   externalLink:

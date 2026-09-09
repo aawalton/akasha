@@ -9,7 +9,7 @@ export const chrysalis0121Chapter1473WellWellWell = {
   position: 121,
   ownLength: 972,
   ownProgress: 972,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:56.638Z",
   publishedAt: "2024-12-12",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0221Chapter1573TheCascade = {
   position: 221,
   ownLength: 1031,
   ownProgress: 1031,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:53.171Z",
   publishedAt: "2025-05-29",
   externalLink:

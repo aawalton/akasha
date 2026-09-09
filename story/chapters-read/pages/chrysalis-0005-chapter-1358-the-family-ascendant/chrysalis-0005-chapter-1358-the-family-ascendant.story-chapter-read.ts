@@ -9,7 +9,7 @@ export const chrysalis0005Chapter1358TheFamilyAscendant = {
   position: 5,
   ownLength: 1080,
   ownProgress: 1080,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:43:48.803Z",
   publishedAt: "2024-06-20",
   externalLink:

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0140140SmashingTime = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 140,
   ownLength: 2031,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3285572/140-smashing-time",

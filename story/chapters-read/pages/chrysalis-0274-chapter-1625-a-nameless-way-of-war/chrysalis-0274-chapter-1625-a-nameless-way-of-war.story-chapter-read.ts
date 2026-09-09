@@ -9,7 +9,7 @@ export const chrysalis0274Chapter1625ANamelessWayOfWar = {
   position: 274,
   ownLength: 971,
   ownProgress: 971,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:34.888Z",
   publishedAt: "2025-08-18",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0217Chapter1569BalancedOnAKnife = {
   position: 217,
   ownLength: 1210,
   ownProgress: 1210,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:45.452Z",
   publishedAt: "2025-05-23",
   externalLink:

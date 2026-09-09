@@ -9,7 +9,7 @@ export const chrysalis0158Chapter1510TheWallsSlamShut = {
   position: 158,
   ownLength: 928,
   ownProgress: 928,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:54.001Z",
   publishedAt: "2025-02-18",
   externalLink:

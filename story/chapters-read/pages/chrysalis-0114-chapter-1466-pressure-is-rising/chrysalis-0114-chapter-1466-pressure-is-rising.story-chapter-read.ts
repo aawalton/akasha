@@ -9,7 +9,7 @@ export const chrysalis0114Chapter1466PressureIsRising = {
   position: 114,
   ownLength: 1022,
   ownProgress: 1022,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:43.520Z",
   publishedAt: "2024-12-04",
   externalLink:

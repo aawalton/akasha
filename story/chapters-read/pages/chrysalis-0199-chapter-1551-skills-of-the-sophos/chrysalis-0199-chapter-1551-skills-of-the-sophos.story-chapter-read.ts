@@ -9,7 +9,7 @@ export const chrysalis0199Chapter1551SkillsOfTheSophos = {
   position: 199,
   ownLength: 1025,
   ownProgress: 1025,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:11.243Z",
   publishedAt: "2025-04-15",
   externalLink:

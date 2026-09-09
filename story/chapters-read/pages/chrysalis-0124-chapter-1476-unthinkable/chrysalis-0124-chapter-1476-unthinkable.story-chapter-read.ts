@@ -9,7 +9,7 @@ export const chrysalis0124Chapter1476Unthinkable = {
   position: 124,
   ownLength: 994,
   ownProgress: 994,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:02.119Z",
   publishedAt: "2024-12-17",
   externalLink:

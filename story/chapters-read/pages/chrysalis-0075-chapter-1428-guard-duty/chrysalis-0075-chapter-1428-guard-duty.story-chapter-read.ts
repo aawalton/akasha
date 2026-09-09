@@ -9,7 +9,7 @@ export const chrysalis0075Chapter1428GuardDuty = {
   position: 75,
   ownLength: 986,
   ownProgress: 986,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:08.415Z",
   publishedAt: "2024-10-10",
   externalLink:

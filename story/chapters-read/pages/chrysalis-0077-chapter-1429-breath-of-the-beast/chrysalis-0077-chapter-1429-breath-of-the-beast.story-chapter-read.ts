@@ -9,7 +9,7 @@ export const chrysalis0077Chapter1429BreathOfTheBeast = {
   position: 77,
   ownLength: 975,
   ownProgress: 975,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:14.468Z",
   publishedAt: "2024-10-11",
   externalLink:

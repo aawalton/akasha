@@ -9,7 +9,7 @@ export const chrysalis0123Chapter1475SlimeMind = {
   position: 123,
   ownLength: 1099,
   ownProgress: 1099,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:00.348Z",
   publishedAt: "2024-12-17",
   externalLink:

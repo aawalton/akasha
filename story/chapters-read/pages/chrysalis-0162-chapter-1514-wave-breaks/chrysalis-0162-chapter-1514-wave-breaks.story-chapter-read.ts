@@ -9,7 +9,7 @@ export const chrysalis0162Chapter1514WaveBreaks = {
   position: 162,
   ownLength: 1012,
   ownProgress: 1012,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:01.664Z",
   publishedAt: "2025-02-21",
   externalLink:

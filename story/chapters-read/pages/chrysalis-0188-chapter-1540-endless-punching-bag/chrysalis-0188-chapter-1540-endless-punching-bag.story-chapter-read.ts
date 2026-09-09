@@ -9,7 +9,7 @@ export const chrysalis0188Chapter1540EndlessPunchingBag = {
   position: 188,
   ownLength: 908,
   ownProgress: 908,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:50.633Z",
   publishedAt: "2025-03-31",
   externalLink:

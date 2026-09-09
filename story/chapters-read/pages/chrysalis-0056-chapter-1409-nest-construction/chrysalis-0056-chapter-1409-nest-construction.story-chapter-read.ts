@@ -9,7 +9,7 @@ export const chrysalis0056Chapter1409NestConstruction = {
   position: 56,
   ownLength: 1084,
   ownProgress: 1084,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:25.450Z",
   publishedAt: "2024-09-13",
   externalLink:

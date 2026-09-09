@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0133133HandToHand = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 133,
   ownLength: 1902,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3218537/133-hand-to-hand",

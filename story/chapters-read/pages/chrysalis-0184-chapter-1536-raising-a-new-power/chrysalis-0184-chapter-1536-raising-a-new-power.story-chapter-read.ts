@@ -9,7 +9,7 @@ export const chrysalis0184Chapter1536RaisingANewPower = {
   position: 184,
   ownLength: 1121,
   ownProgress: 1121,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:43.177Z",
   publishedAt: "2025-03-25",
   externalLink:

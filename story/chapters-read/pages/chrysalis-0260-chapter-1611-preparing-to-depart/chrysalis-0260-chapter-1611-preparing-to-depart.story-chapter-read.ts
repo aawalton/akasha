@@ -9,7 +9,7 @@ export const chrysalis0260Chapter1611PreparingToDepart = {
   position: 260,
   ownLength: 944,
   ownProgress: 944,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:08.106Z",
   publishedAt: "2025-07-29",
   externalLink:

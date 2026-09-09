@@ -9,7 +9,7 @@ export const chrysalis0088Chapter1440TurtleSoup = {
   position: 88,
   ownLength: 1151,
   ownProgress: 1151,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:44.868Z",
   publishedAt: "2024-10-28",
   externalLink:

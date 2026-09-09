@@ -9,7 +9,7 @@ export const chrysalis0156Chapter1508Boom = {
   position: 156,
   ownLength: 928,
   ownProgress: 928,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:50.277Z",
   publishedAt: "2025-02-13",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0037Chapter1390TheNewInitiates = {
   position: 37,
   ownLength: 1101,
   ownProgress: 1101,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:49.728Z",
   publishedAt: "2024-08-12",
   externalLink:

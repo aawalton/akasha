@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0149149TechnicallyThatIsABrain
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 149,
   ownLength: 2019,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3371024/149-technically-that-is-a-brain",

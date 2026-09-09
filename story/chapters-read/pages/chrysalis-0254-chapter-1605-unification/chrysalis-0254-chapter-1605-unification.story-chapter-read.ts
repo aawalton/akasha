@@ -9,7 +9,7 @@ export const chrysalis0254Chapter1605Unification = {
   position: 254,
   ownLength: 1592,
   ownProgress: 1592,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:56.568Z",
   publishedAt: "2025-07-14",
   externalLink:

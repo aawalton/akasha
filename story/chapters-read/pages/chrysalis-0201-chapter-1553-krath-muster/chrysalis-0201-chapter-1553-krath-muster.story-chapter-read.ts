@@ -9,7 +9,7 @@ export const chrysalis0201Chapter1553KrathMuster = {
   position: 201,
   ownLength: 1190,
   ownProgress: 1190,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:15.073Z",
   publishedAt: "2025-04-17",
   externalLink:

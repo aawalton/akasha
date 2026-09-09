@@ -9,7 +9,7 @@ export const chrysalis0148Chapter1500HomeIsWhereTheHeartIs = {
   position: 148,
   ownLength: 998,
   ownProgress: 998,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:35.112Z",
   publishedAt: "2025-02-05",
   externalLink:

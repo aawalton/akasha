@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0127127BigNight = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 127,
   ownLength: 1818,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-18",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3165806/127-big-night",

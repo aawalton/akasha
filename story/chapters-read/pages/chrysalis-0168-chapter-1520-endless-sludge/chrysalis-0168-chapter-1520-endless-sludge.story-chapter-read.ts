@@ -9,7 +9,7 @@ export const chrysalis0168Chapter1520EndlessSludge = {
   position: 168,
   ownLength: 1138,
   ownProgress: 1138,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:13.147Z",
   publishedAt: "2025-03-03",
   externalLink:

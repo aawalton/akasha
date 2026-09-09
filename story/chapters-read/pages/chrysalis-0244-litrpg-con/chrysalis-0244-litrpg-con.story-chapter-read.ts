@@ -9,7 +9,7 @@ export const chrysalis0244LitrpgCon = {
   position: 244,
   ownLength: 125,
   ownProgress: 125,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:37.273Z",
   publishedAt: "2025-06-30",
   externalLink: "https://www.royalroad.com/fiction/22518/chrysalis/chapter/2396878/litrpg-con",

@@ -9,7 +9,7 @@ export const chrysalis0205Chapter1557NewArmour = {
   position: 205,
   ownLength: 1035,
   ownProgress: 1035,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:22.740Z",
   publishedAt: "2025-04-23",
   externalLink:

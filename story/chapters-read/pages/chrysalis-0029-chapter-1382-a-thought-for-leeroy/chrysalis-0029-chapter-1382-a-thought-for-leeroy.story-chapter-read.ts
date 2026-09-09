@@ -9,7 +9,7 @@ export const chrysalis0029Chapter1382AThoughtForLeeroy = {
   position: 29,
   ownLength: 1037,
   ownProgress: 1037,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:34.779Z",
   publishedAt: "2024-07-31",
   externalLink:

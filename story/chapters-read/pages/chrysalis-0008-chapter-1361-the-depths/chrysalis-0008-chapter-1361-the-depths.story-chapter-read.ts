@@ -9,7 +9,7 @@ export const chrysalis0008Chapter1361TheDepths = {
   position: 8,
   ownLength: 1085,
   ownProgress: 1085,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:43:54.537Z",
   publishedAt: "2024-06-25",
   externalLink:

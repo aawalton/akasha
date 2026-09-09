@@ -9,7 +9,7 @@ export const chrysalis0177Chapter1529TheLegionTakesTheStage = {
   position: 177,
   ownLength: 1246,
   ownProgress: 1246,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:30.167Z",
   publishedAt: "2025-03-14",
   externalLink:

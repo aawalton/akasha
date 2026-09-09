@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0181181TheWitch = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 181,
   ownLength: 1822,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-22",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3711209/181-the-witch",

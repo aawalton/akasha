@@ -9,7 +9,7 @@ export const chrysalis0242Chapter1594SenseOfDanger = {
   position: 242,
   ownLength: 1045,
   ownProgress: 1045,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:33.257Z",
   publishedAt: "2025-06-27",
   externalLink:

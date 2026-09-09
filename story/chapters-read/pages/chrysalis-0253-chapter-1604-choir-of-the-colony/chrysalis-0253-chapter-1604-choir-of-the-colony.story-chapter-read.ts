@@ -9,7 +9,7 @@ export const chrysalis0253Chapter1604ChoirOfTheColony = {
   position: 253,
   ownLength: 1219,
   ownProgress: 1219,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:54.648Z",
   publishedAt: "2025-07-11",
   externalLink:

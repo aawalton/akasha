@@ -9,7 +9,7 @@ export const chrysalis0161Chapter1513ConversationsWithMages = {
   position: 161,
   ownLength: 857,
   ownProgress: 857,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:59.744Z",
   publishedAt: "2025-02-20",
   externalLink:

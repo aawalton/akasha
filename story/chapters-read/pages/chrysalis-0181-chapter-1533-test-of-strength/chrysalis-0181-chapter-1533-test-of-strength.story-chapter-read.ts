@@ -9,7 +9,7 @@ export const chrysalis0181Chapter1533TestOfStrength = {
   position: 181,
   ownLength: 884,
   ownProgress: 884,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:37.562Z",
   publishedAt: "2025-03-20",
   externalLink:

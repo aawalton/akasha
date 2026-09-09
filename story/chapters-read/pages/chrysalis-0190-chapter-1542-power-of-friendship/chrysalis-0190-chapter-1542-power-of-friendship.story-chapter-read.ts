@@ -9,7 +9,7 @@ export const chrysalis0190Chapter1542PowerOfFriendship = {
   position: 190,
   ownLength: 1038,
   ownProgress: 1038,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:54.189Z",
   publishedAt: "2025-04-02",
   externalLink:

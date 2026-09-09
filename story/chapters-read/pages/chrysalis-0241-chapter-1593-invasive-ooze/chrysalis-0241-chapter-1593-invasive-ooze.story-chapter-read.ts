@@ -9,7 +9,7 @@ export const chrysalis0241Chapter1593InvasiveOoze = {
   position: 241,
   ownLength: 955,
   ownProgress: 955,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:31.154Z",
   publishedAt: "2025-06-26",
   externalLink:

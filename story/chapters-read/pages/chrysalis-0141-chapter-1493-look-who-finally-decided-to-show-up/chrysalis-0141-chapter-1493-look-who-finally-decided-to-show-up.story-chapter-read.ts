@@ -9,7 +9,7 @@ export const chrysalis0141Chapter1493LookWhoFinallyDecidedToShowUp = {
   position: 141,
   ownLength: 880,
   ownProgress: 880,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:21.585Z",
   publishedAt: "2025-01-23",
   externalLink:

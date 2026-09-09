@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0170170DarkAndDarker = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 170,
   ownLength: 2025,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3594468/170-dark-and-darker",

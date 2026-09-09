@@ -9,7 +9,7 @@ export const chrysalis0096Chapter1448RisingOnceAgain = {
   position: 96,
   ownLength: 919,
   ownProgress: 919,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:09.055Z",
   publishedAt: "2024-11-07",
   externalLink:

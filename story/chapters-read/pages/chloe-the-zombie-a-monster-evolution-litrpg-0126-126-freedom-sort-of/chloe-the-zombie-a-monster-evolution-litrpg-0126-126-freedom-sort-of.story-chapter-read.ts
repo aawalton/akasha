@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0126126FreedomSortOf = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 126,
   ownLength: 1795,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-16",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3158300/126-freedom-sort-of",

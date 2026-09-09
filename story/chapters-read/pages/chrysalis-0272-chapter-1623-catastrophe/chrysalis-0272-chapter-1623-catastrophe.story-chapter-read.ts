@@ -9,7 +9,7 @@ export const chrysalis0272Chapter1623Catastrophe = {
   position: 272,
   ownLength: 957,
   ownProgress: 957,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:31.174Z",
   publishedAt: "2025-08-14",
   externalLink:

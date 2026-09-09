@@ -9,7 +9,7 @@ export const chrysalis0109Chapter1461SlitheringInTheTunnels = {
   position: 109,
   ownLength: 1056,
   ownProgress: 1056,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:33.950Z",
   publishedAt: "2024-11-27",
   externalLink:

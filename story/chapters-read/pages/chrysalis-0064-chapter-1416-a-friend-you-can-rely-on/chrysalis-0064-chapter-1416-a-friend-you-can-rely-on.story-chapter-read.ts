@@ -9,7 +9,7 @@ export const chrysalis0064Chapter1416AFriendYouCanRelyOn = {
   position: 64,
   ownLength: 897,
   ownProgress: 897,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:40.814Z",
   publishedAt: "2024-09-24",
   externalLink:

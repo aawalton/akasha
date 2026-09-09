@@ -9,7 +9,7 @@ export const chrysalis0245Chapter1596TheCollapsingStar = {
   position: 245,
   ownLength: 1098,
   ownProgress: 1098,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:39.154Z",
   publishedAt: "2025-07-01",
   externalLink:

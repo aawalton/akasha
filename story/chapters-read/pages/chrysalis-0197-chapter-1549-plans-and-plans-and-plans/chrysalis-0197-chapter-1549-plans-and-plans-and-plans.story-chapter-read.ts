@@ -9,7 +9,7 @@ export const chrysalis0197Chapter1549PlansAndPlansAndPlans = {
   position: 197,
   ownLength: 1351,
   ownProgress: 1351,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:07.383Z",
   publishedAt: "2025-04-11",
   externalLink:

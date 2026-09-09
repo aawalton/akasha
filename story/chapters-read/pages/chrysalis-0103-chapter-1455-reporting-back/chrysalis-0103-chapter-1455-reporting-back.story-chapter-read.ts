@@ -9,7 +9,7 @@ export const chrysalis0103Chapter1455ReportingBack = {
   position: 103,
   ownLength: 1052,
   ownProgress: 1052,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:22.545Z",
   publishedAt: "2024-11-18",
   externalLink:

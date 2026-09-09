@@ -9,7 +9,7 @@ export const chrysalis0021Chapter1374ItSALittleWeird = {
   position: 21,
   ownLength: 1004,
   ownProgress: 1004,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:19.556Z",
   publishedAt: "2024-07-19",
   externalLink:

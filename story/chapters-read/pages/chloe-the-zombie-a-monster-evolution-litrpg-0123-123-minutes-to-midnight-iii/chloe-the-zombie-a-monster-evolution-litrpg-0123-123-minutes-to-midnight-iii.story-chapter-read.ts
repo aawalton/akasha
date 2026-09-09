@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0123123MinutesToMidnightIii = 
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 123,
   ownLength: 1866,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-09",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3133318/123-minutes-to-midnight-iii",

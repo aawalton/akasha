@@ -9,7 +9,7 @@ export const chrysalis0034Chapter1387BrilliantDeductions = {
   position: 34,
   ownLength: 1131,
   ownProgress: 1131,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:44.081Z",
   publishedAt: "2024-08-07",
   externalLink:

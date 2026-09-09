@@ -9,7 +9,7 @@ export const chrysalis0257Chapter1608TooSmartToBeCalledCunning = {
   position: 257,
   ownLength: 884,
   ownProgress: 884,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:02.378Z",
   publishedAt: "2025-07-17",
   externalLink:

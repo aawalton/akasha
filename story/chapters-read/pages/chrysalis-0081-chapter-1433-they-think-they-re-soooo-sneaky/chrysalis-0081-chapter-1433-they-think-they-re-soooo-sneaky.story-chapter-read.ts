@@ -9,7 +9,7 @@ export const chrysalis0081Chapter1433TheyThinkTheyReSooooSneaky = {
   position: 81,
   ownLength: 1036,
   ownProgress: 1036,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:24.291Z",
   publishedAt: "2024-10-17",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0218Chapter1570TheWall = {
   position: 218,
   ownLength: 1232,
   ownProgress: 1232,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:47.358Z",
   publishedAt: "2025-05-26",
   externalLink:

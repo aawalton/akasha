@@ -9,7 +9,7 @@ export const chrysalis0203Chapter1555ReceptionOfTheBulg = {
   position: 203,
   ownLength: 989,
   ownProgress: 989,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:18.916Z",
   publishedAt: "2025-04-21",
   externalLink:

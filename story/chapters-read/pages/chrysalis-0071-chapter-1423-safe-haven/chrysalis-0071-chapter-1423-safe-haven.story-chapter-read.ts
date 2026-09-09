@@ -9,7 +9,7 @@ export const chrysalis0071Chapter1423SafeHaven = {
   position: 71,
   ownLength: 882,
   ownProgress: 882,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:56.204Z",
   publishedAt: "2024-10-03",
   externalLink:

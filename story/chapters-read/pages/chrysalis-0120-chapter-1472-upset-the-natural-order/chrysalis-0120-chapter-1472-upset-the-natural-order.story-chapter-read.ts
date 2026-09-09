@@ -9,7 +9,7 @@ export const chrysalis0120Chapter1472UpsetTheNaturalOrder = {
   position: 120,
   ownLength: 1099,
   ownProgress: 1099,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:54.790Z",
   publishedAt: "2024-12-11",
   externalLink:

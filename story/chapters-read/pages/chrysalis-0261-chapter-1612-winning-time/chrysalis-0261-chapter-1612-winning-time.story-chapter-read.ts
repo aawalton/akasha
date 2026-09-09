@@ -9,7 +9,7 @@ export const chrysalis0261Chapter1612WinningTime = {
   position: 261,
   ownLength: 1136,
   ownProgress: 1136,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:09.997Z",
   publishedAt: "2025-07-30",
   externalLink:

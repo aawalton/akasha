@@ -9,7 +9,7 @@ export const chrysalis0082Chapter1434EvenHereTheyHauntMe = {
   position: 82,
   ownLength: 1011,
   ownProgress: 1011,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:26.074Z",
   publishedAt: "2024-10-18",
   externalLink:

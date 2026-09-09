@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0136136GoingBack = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 136,
   ownLength: 1888,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3248063/136-going-back",

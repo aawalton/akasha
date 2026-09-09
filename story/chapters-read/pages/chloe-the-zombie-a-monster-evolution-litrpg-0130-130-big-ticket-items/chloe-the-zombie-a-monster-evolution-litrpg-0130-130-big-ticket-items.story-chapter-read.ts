@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0130130BigTicketItems = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 130,
   ownLength: 2019,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3192364/130-big-ticket-items",

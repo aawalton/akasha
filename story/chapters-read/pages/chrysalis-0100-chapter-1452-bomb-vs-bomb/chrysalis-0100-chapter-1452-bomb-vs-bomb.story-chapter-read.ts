@@ -9,7 +9,7 @@ export const chrysalis0100Chapter1452BombVsBomb = {
   position: 100,
   ownLength: 962,
   ownProgress: 962,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:16.751Z",
   publishedAt: "2024-11-13",
   externalLink:

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0156156NewNormalStartOfBook3 =
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 156,
   ownLength: 1952,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3444243/156-new-normal-start-of-book-3",

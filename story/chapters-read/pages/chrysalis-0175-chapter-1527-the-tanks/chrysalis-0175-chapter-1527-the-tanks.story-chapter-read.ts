@@ -9,7 +9,7 @@ export const chrysalis0175Chapter1527TheTanks = {
   position: 175,
   ownLength: 863,
   ownProgress: 863,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:26.457Z",
   publishedAt: "2025-03-12",
   externalLink:

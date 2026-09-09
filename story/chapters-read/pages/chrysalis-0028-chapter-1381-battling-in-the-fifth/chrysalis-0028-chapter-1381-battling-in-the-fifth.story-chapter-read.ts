@@ -9,7 +9,7 @@ export const chrysalis0028Chapter1381BattlingInTheFifth = {
   position: 28,
   ownLength: 994,
   ownProgress: 994,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:32.851Z",
   publishedAt: "2024-07-30",
   externalLink:

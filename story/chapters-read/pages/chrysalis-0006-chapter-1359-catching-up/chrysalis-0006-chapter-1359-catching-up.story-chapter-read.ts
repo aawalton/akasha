@@ -9,7 +9,7 @@ export const chrysalis0006Chapter1359CatchingUp = {
   position: 6,
   ownLength: 1003,
   ownProgress: 1003,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:43:50.854Z",
   publishedAt: "2024-06-21",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0172Chapter1524NeverEndingStupidity = {
   position: 172,
   ownLength: 1212,
   ownProgress: 1212,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:20.764Z",
   publishedAt: "2025-03-10",
   externalLink:

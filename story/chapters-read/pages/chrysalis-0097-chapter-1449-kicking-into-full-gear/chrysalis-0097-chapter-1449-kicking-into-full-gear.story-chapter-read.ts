@@ -9,7 +9,7 @@ export const chrysalis0097Chapter1449KickingIntoFullGear = {
   position: 97,
   ownLength: 936,
   ownProgress: 936,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:11.000Z",
   publishedAt: "2024-11-08",
   externalLink:

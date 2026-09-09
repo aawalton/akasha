@@ -9,7 +9,7 @@ export const chrysalis0084Chapter1436QuiteTheFeat = {
   position: 84,
   ownLength: 957,
   ownProgress: 957,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:32.730Z",
   publishedAt: "2024-10-22",
   externalLink:

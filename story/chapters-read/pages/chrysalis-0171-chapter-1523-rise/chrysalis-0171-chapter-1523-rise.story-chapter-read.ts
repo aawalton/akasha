@@ -9,7 +9,7 @@ export const chrysalis0171Chapter1523Rise = {
   position: 171,
   ownLength: 984,
   ownProgress: 984,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:18.854Z",
   publishedAt: "2025-03-06",
   externalLink:

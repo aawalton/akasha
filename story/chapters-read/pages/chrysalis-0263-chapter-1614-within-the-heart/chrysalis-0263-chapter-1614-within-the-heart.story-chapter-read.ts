@@ -9,7 +9,7 @@ export const chrysalis0263Chapter1614WithinTheHeart = {
   position: 263,
   ownLength: 1281,
   ownProgress: 1281,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:13.840Z",
   publishedAt: "2025-08-01",
   externalLink:

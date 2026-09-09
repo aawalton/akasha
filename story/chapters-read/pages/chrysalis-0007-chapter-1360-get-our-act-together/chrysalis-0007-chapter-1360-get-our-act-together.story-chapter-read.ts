@@ -9,7 +9,7 @@ export const chrysalis0007Chapter1360GetOurActTogether = {
   position: 7,
   ownLength: 1055,
   ownProgress: 1055,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:43:52.644Z",
   publishedAt: "2024-06-24",
   externalLink:

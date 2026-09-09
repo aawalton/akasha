@@ -9,7 +9,7 @@ export const chrysalis0009Chapter1362OnTheEdgeOfTheFifth = {
   position: 9,
   ownLength: 1050,
   ownProgress: 1050,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:43:56.458Z",
   publishedAt: "2024-06-26",
   externalLink:

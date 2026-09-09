@@ -9,7 +9,7 @@ export const chrysalis0010Chapter1363OnTheVerge = {
   position: 10,
   ownLength: 1080,
   ownProgress: 1080,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:43:58.368Z",
   publishedAt: "2024-06-27",
   externalLink:

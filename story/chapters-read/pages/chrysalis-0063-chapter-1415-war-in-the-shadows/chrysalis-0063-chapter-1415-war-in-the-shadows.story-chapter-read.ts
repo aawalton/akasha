@@ -9,7 +9,7 @@ export const chrysalis0063Chapter1415WarInTheShadows = {
   position: 63,
   ownLength: 927,
   ownProgress: 927,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:38.890Z",
   publishedAt: "2024-09-23",
   externalLink:

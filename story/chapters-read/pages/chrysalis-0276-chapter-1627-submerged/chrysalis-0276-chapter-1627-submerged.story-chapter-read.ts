@@ -9,7 +9,7 @@ export const chrysalis0276Chapter1627Submerged = {
   position: 276,
   ownLength: 986,
   ownProgress: 986,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:38.595Z",
   publishedAt: "2025-08-20",
   externalLink:

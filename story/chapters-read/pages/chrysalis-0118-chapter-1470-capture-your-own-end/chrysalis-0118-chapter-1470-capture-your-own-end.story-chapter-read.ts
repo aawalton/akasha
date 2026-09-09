@@ -9,7 +9,7 @@ export const chrysalis0118Chapter1470CaptureYourOwnEnd = {
   position: 118,
   ownLength: 1014,
   ownProgress: 1014,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:51.012Z",
   publishedAt: "2024-12-10",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0150Chapter1502ADifferentSortOfTemplar = {
   position: 150,
   ownLength: 1079,
   ownProgress: 1079,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:38.933Z",
   publishedAt: "2025-02-05",
   externalLink:

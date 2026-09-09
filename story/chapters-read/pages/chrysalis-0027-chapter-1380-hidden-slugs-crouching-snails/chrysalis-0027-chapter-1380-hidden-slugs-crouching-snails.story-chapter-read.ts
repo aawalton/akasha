@@ -9,7 +9,7 @@ export const chrysalis0027Chapter1380HiddenSlugsCrouchingSnails = {
   position: 27,
   ownLength: 1022,
   ownProgress: 1022,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:30.927Z",
   publishedAt: "2024-07-30",
   externalLink:

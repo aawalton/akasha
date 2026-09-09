@@ -9,7 +9,7 @@ export const chrysalis0129Chapter1481ABreather = {
   position: 129,
   ownLength: 1015,
   ownProgress: 1015,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:11.915Z",
   publishedAt: "2025-01-07",
   externalLink:

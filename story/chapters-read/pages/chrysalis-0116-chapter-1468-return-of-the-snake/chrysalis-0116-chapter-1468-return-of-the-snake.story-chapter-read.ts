@@ -9,7 +9,7 @@ export const chrysalis0116Chapter1468ReturnOfTheSnake = {
   position: 116,
   ownLength: 1009,
   ownProgress: 1009,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:47.320Z",
   publishedAt: "2024-12-05",
   externalLink:

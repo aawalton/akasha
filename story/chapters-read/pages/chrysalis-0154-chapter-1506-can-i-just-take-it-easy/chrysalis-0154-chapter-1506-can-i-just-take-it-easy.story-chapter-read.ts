@@ -9,7 +9,7 @@ export const chrysalis0154Chapter1506CanIJustTakeItEasy = {
   position: 154,
   ownLength: 999,
   ownProgress: 999,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:46.467Z",
   publishedAt: "2025-02-12",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0273Chapter1624SludgeArtillery = {
   position: 273,
   ownLength: 950,
   ownProgress: 950,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:32.964Z",
   publishedAt: "2025-08-15",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0057ChrysalisSixIsOut = {
   position: 57,
   ownLength: 92,
   ownProgress: 92,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:27.362Z",
   publishedAt: "2024-09-14",
   externalLink:

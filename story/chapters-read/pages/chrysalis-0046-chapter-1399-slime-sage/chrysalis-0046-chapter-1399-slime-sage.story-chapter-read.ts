@@ -9,7 +9,7 @@ export const chrysalis0046Chapter1399SlimeSage = {
   position: 46,
   ownLength: 1004,
   ownProgress: 1004,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:06.422Z",
   publishedAt: "2024-08-30",
   externalLink:

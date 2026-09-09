@@ -9,7 +9,7 @@ export const chrysalis0062Chapter1414SneakySpirit = {
   position: 62,
   ownLength: 1030,
   ownProgress: 1030,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:36.979Z",
   publishedAt: "2024-09-20",
   externalLink:

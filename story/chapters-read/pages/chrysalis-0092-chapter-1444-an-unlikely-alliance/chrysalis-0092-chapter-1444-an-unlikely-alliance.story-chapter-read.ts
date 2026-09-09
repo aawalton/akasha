@@ -9,7 +9,7 @@ export const chrysalis0092Chapter1444AnUnlikelyAlliance = {
   position: 92,
   ownLength: 936,
   ownProgress: 936,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:57.020Z",
   publishedAt: "2024-11-01",
   externalLink:

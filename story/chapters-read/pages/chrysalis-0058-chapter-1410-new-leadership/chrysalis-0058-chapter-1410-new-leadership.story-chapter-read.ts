@@ -9,7 +9,7 @@ export const chrysalis0058Chapter1410NewLeadership = {
   position: 58,
   ownLength: 1228,
   ownProgress: 1228,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:29.272Z",
   publishedAt: "2024-09-17",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0198Chapter1550OldMasters = {
   position: 198,
   ownLength: 1005,
   ownProgress: 1005,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:09.325Z",
   publishedAt: "2025-04-14",
   externalLink:

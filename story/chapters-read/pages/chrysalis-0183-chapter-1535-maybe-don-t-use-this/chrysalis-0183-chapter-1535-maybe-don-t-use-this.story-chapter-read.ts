@@ -9,7 +9,7 @@ export const chrysalis0183Chapter1535MaybeDonTUseThis = {
   position: 183,
   ownLength: 880,
   ownProgress: 880,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:41.254Z",
   publishedAt: "2025-03-24",
   externalLink:

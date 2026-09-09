@@ -9,7 +9,7 @@ export const chrysalis0196Chapter1548ThePainOfKnowledge = {
   position: 196,
   ownLength: 1205,
   ownProgress: 1205,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:05.601Z",
   publishedAt: "2025-04-10",
   externalLink:

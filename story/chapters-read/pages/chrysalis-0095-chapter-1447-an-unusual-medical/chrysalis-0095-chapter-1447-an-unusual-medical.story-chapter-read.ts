@@ -9,7 +9,7 @@ export const chrysalis0095Chapter1447AnUnusualMedical = {
   position: 95,
   ownLength: 1065,
   ownProgress: 1065,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:07.271Z",
   publishedAt: "2024-11-06",
   externalLink:

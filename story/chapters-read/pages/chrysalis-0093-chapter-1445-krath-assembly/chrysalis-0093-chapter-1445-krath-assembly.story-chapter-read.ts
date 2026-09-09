@@ -9,7 +9,7 @@ export const chrysalis0093Chapter1445KrathAssembly = {
   position: 93,
   ownLength: 1008,
   ownProgress: 1008,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:01.231Z",
   publishedAt: "2024-11-04",
   externalLink:

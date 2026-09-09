@@ -9,7 +9,7 @@ export const chrysalis0003Chapter1356MotherIsnTImpressed = {
   position: 3,
   ownLength: 1035,
   ownProgress: 1035,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:43:44.915Z",
   publishedAt: "2024-06-18",
   externalLink:

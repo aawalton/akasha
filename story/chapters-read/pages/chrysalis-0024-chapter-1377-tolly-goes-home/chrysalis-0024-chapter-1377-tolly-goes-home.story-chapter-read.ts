@@ -9,7 +9,7 @@ export const chrysalis0024Chapter1377TollyGoesHome = {
   position: 24,
   ownLength: 1002,
   ownProgress: 1002,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:25.180Z",
   publishedAt: "2024-07-24",
   externalLink:

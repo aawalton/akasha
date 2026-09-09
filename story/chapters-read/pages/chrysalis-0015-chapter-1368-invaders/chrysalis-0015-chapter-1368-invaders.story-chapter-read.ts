@@ -9,7 +9,7 @@ export const chrysalis0015Chapter1368Invaders = {
   position: 15,
   ownLength: 1093,
   ownProgress: 1093,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:07.917Z",
   publishedAt: "2024-07-04",
   externalLink:

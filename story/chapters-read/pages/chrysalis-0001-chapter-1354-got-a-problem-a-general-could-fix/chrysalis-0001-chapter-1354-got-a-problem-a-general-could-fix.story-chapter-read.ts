@@ -9,7 +9,7 @@ export const chrysalis0001Chapter1354GotAProblemAGeneralCouldFix = {
   position: 1,
   ownLength: 1055,
   ownProgress: 1055,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:43:41.167Z",
   publishedAt: "2024-06-14",
   externalLink:

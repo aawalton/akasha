@@ -9,7 +9,7 @@ export const chrysalis0264Chapter1615PrimordialSoup = {
   position: 264,
   ownLength: 1233,
   ownProgress: 1233,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:15.772Z",
   publishedAt: "2025-08-04",
   externalLink:

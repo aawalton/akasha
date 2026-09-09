@@ -9,7 +9,7 @@ export const chrysalis0011Chapter1364TheToxicWorld = {
   position: 11,
   ownLength: 1078,
   ownProgress: 1078,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:00.292Z",
   publishedAt: "2024-06-28",
   externalLink:

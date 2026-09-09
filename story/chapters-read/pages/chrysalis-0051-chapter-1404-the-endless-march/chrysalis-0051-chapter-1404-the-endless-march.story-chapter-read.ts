@@ -9,7 +9,7 @@ export const chrysalis0051Chapter1404TheEndlessMarch = {
   position: 51,
   ownLength: 1089,
   ownProgress: 1089,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:15.906Z",
   publishedAt: "2024-09-06",
   externalLink:

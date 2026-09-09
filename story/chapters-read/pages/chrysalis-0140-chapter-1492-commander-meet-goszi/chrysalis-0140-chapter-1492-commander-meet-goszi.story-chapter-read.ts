@@ -9,7 +9,7 @@ export const chrysalis0140Chapter1492CommanderMeetGoszi = {
   position: 140,
   ownLength: 1083,
   ownProgress: 1083,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:19.672Z",
   publishedAt: "2025-01-22",
   externalLink:

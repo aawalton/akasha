@@ -9,7 +9,7 @@ export const chrysalis0138Chapter1490UnexpectedTwist = {
   position: 138,
   ownLength: 1051,
   ownProgress: 1051,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:15.749Z",
   publishedAt: "2025-01-21",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0145Chapter1497WellNow = {
   position: 145,
   ownLength: 1114,
   ownProgress: 1114,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:29.475Z",
   publishedAt: "2025-01-29",
   externalLink:

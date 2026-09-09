@@ -9,7 +9,7 @@ export const chrysalis0105Chapter1457SlipperySlugs = {
   position: 105,
   ownLength: 990,
   ownProgress: 990,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:26.400Z",
   publishedAt: "2024-11-20",
   externalLink:

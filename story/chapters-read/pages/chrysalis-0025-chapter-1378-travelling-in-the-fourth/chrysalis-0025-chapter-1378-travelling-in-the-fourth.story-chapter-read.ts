@@ -9,7 +9,7 @@ export const chrysalis0025Chapter1378TravellingInTheFourth = {
   position: 25,
   ownLength: 1022,
   ownProgress: 1022,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:27.087Z",
   publishedAt: "2024-07-25",
   externalLink:

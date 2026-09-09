@@ -9,7 +9,7 @@ export const chrysalis0016Chapter1369ASuccessfulTest = {
   position: 16,
   ownLength: 1108,
   ownProgress: 1108,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:09.831Z",
   publishedAt: "2024-07-05",
   externalLink:

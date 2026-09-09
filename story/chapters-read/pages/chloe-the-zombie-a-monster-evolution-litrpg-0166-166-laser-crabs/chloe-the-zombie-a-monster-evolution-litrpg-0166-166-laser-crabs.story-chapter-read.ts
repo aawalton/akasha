@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0166166LaserCrabs = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 166,
   ownLength: 2062,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-17",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3552501/166-laser-crabs",

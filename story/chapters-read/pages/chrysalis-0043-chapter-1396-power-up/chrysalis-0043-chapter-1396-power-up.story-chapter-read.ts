@@ -9,7 +9,7 @@ export const chrysalis0043Chapter1396PowerUp = {
   position: 43,
   ownLength: 983,
   ownProgress: 983,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:00.675Z",
   publishedAt: "2024-08-27",
   externalLink:

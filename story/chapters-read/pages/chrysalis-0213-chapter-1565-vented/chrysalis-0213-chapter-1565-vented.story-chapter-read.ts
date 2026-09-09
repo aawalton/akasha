@@ -9,7 +9,7 @@ export const chrysalis0213Chapter1565Vented = {
   position: 213,
   ownLength: 959,
   ownProgress: 959,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:37.952Z",
   publishedAt: "2025-05-19",
   externalLink:

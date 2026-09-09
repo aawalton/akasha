@@ -9,7 +9,7 @@ export const chrysalis0194Chapter1546EyesOfTheEnder = {
   position: 194,
   ownLength: 982,
   ownProgress: 982,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:01.758Z",
   publishedAt: "2025-04-08",
   externalLink:

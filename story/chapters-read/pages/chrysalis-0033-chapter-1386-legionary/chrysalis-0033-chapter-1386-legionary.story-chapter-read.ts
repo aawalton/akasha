@@ -9,7 +9,7 @@ export const chrysalis0033Chapter1386Legionary = {
   position: 33,
   ownLength: 1221,
   ownProgress: 1221,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:42.239Z",
   publishedAt: "2024-08-06",
   externalLink:

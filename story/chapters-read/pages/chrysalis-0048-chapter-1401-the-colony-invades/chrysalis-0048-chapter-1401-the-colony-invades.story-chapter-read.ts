@@ -9,7 +9,7 @@ export const chrysalis0048Chapter1401TheColonyInvades = {
   position: 48,
   ownLength: 1003,
   ownProgress: 1003,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:10.133Z",
   publishedAt: "2024-09-03",
   externalLink:

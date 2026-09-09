@@ -9,7 +9,7 @@ export const chrysalis0047Chapter1400TheMassingMasses = {
   position: 47,
   ownLength: 1232,
   ownProgress: 1232,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:08.347Z",
   publishedAt: "2024-09-02",
   externalLink:

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0189189TimeLimit = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 189,
   ownLength: 1947,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3825948/189-time-limit",

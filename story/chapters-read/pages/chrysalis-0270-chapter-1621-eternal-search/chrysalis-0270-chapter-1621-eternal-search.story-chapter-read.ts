@@ -9,7 +9,7 @@ export const chrysalis0270Chapter1621EternalSearch = {
   position: 270,
   ownLength: 1022,
   ownProgress: 1022,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:27.250Z",
   publishedAt: "2025-08-12",
   externalLink:

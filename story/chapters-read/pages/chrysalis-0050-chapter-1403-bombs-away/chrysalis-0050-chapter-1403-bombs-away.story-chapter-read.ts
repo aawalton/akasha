@@ -9,7 +9,7 @@ export const chrysalis0050Chapter1403BombsAway = {
   position: 50,
   ownLength: 1363,
   ownProgress: 1363,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:13.967Z",
   publishedAt: "2024-09-05",
   externalLink:

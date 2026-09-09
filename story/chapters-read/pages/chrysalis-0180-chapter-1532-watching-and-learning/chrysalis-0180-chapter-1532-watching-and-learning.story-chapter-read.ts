@@ -9,7 +9,7 @@ export const chrysalis0180Chapter1532WatchingAndLearning = {
   position: 180,
   ownLength: 1013,
   ownProgress: 1013,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:35.781Z",
   publishedAt: "2025-03-19",
   externalLink:

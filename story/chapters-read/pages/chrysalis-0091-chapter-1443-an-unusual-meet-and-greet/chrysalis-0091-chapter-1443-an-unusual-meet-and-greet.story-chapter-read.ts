@@ -9,7 +9,7 @@ export const chrysalis0091Chapter1443AnUnusualMeetAndGreet = {
   position: 91,
   ownLength: 1063,
   ownProgress: 1063,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:55.110Z",
   publishedAt: "2024-10-31",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0187Chapter1539PlatformWar = {
   position: 187,
   ownLength: 879,
   ownProgress: 879,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:48.860Z",
   publishedAt: "2025-03-28",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0067Chapter1419Heartbeat = {
   position: 67,
   ownLength: 1160,
   ownProgress: 1160,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:46.547Z",
   publishedAt: "2024-09-27",
   externalLink:

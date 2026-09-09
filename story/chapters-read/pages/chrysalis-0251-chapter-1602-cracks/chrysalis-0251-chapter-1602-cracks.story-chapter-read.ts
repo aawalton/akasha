@@ -9,7 +9,7 @@ export const chrysalis0251Chapter1602Cracks = {
   position: 251,
   ownLength: 964,
   ownProgress: 964,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:50.773Z",
   publishedAt: "2025-07-09",
   externalLink:

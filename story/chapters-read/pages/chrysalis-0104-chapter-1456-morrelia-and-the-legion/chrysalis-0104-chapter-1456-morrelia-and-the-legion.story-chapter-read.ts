@@ -9,7 +9,7 @@ export const chrysalis0104Chapter1456MorreliaAndTheLegion = {
   position: 104,
   ownLength: 1115,
   ownProgress: 1115,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:24.467Z",
   publishedAt: "2024-11-19",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0212Chapter1564WorkingDangerously = {
   position: 212,
   ownLength: 976,
   ownProgress: 976,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:36.030Z",
   publishedAt: "2025-05-02",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0090Chapter1442UnderPressure = {
   position: 90,
   ownLength: 968,
   ownProgress: 968,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:51.131Z",
   publishedAt: "2024-10-30",
   externalLink:

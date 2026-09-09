@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0179179SerpentStrike = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 179,
   ownLength: 1916,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-17",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3689587/179-serpent-strike",

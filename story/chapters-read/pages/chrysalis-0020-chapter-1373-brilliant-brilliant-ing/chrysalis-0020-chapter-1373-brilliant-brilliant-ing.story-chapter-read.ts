@@ -9,7 +9,7 @@ export const chrysalis0020Chapter1373BrilliantBrilliantIng = {
   position: 20,
   ownLength: 1011,
   ownProgress: 1011,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:17.539Z",
   publishedAt: "2024-07-18",
   externalLink:

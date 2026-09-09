@@ -9,7 +9,7 @@ export const chrysalis0163Chapter1515CorruptionWakes = {
   position: 163,
   ownLength: 976,
   ownProgress: 976,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:03.535Z",
   publishedAt: "2025-02-25",
   externalLink:

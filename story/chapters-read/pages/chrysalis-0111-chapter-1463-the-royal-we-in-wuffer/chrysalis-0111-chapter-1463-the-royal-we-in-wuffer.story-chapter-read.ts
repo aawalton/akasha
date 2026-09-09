@@ -9,7 +9,7 @@ export const chrysalis0111Chapter1463TheRoyalWeInWuffer = {
   position: 111,
   ownLength: 1056,
   ownProgress: 1056,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:37.810Z",
   publishedAt: "2024-11-28",
   externalLink:

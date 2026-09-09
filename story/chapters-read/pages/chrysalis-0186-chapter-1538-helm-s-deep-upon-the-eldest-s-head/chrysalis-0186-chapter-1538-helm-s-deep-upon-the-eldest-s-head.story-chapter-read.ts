@@ -9,7 +9,7 @@ export const chrysalis0186Chapter1538HelmSDeepUponTheEldestSHead = {
   position: 186,
   ownLength: 994,
   ownProgress: 994,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:47.041Z",
   publishedAt: "2025-03-27",
   externalLink:

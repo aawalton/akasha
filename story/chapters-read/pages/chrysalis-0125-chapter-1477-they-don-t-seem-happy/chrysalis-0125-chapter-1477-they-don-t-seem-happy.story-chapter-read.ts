@@ -9,7 +9,7 @@ export const chrysalis0125Chapter1477TheyDonTSeemHappy = {
   position: 125,
   ownLength: 962,
   ownProgress: 962,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:04.068Z",
   publishedAt: "2024-12-18",
   externalLink:

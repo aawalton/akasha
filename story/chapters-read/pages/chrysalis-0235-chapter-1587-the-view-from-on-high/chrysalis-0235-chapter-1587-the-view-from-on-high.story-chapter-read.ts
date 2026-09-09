@@ -9,7 +9,7 @@ export const chrysalis0235Chapter1587TheViewFromOnHigh = {
   position: 235,
   ownLength: 1002,
   ownProgress: 1002,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:19.942Z",
   publishedAt: "2025-06-18",
   externalLink:

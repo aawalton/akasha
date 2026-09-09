@@ -9,7 +9,7 @@ export const chrysalis0195Chapter1547SpiritualInvasion = {
   position: 195,
   ownLength: 1094,
   ownProgress: 1094,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:03.684Z",
   publishedAt: "2025-04-09",
   externalLink:

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0159159TwoHeadedDragon = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 159,
   ownLength: 2067,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3473938/159-two-headed-dragon",

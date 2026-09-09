@@ -9,7 +9,7 @@ export const chrysalis0019Chapter1372TheTribuneAmongstTheColony = {
   position: 19,
   ownLength: 1017,
   ownProgress: 1017,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:15.619Z",
   publishedAt: "2024-07-17",
   externalLink:

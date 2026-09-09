@@ -9,7 +9,7 @@ export const chrysalis0099Chapter1451SnakeAssault = {
   position: 99,
   ownLength: 1050,
   ownProgress: 1050,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:14.849Z",
   publishedAt: "2024-11-12",
   externalLink:

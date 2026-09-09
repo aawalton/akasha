@@ -9,7 +9,7 @@ export const chrysalis0115Chapter1467WheatHasLessFun = {
   position: 115,
   ownLength: 950,
   ownProgress: 950,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:45.419Z",
   publishedAt: "2024-12-04",
   externalLink:

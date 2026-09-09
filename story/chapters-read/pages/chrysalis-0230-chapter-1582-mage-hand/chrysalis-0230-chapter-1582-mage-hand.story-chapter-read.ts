@@ -9,7 +9,7 @@ export const chrysalis0230Chapter1582MageHand = {
   position: 230,
   ownLength: 762,
   ownProgress: 762,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:10.395Z",
   publishedAt: "2025-06-11",
   externalLink:

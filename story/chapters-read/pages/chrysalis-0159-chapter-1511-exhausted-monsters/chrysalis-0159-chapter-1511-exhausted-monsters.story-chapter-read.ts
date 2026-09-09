@@ -9,7 +9,7 @@ export const chrysalis0159Chapter1511ExhaustedMonsters = {
   position: 159,
   ownLength: 913,
   ownProgress: 913,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:55.908Z",
   publishedAt: "2025-02-18",
   externalLink:

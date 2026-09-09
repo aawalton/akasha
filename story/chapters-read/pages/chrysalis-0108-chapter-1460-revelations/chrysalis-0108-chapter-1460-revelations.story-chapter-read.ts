@@ -9,7 +9,7 @@ export const chrysalis0108Chapter1460Revelations = {
   position: 108,
   ownLength: 1019,
   ownProgress: 1019,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:32.021Z",
   publishedAt: "2024-11-27",
   externalLink:

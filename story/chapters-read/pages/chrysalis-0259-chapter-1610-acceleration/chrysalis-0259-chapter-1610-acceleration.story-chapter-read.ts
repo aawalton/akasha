@@ -9,7 +9,7 @@ export const chrysalis0259Chapter1610Acceleration = {
   position: 259,
   ownLength: 1022,
   ownProgress: 1022,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:06.185Z",
   publishedAt: "2025-07-28",
   externalLink:

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0131131SmokeCloak = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 131,
   ownLength: 2170,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-27",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3200003/131-smoke-cloak",

@@ -9,7 +9,7 @@ export const chrysalis0170Chapter1522ZombieSoldier = {
   position: 170,
   ownLength: 1054,
   ownProgress: 1054,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:16.926Z",
   publishedAt: "2025-03-05",
   externalLink:

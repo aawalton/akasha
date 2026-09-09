@@ -9,7 +9,7 @@ export const chrysalis0012Chapter1365AMoreOrganisedApproach = {
   position: 12,
   ownLength: 1064,
   ownProgress: 1064,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:02.206Z",
   publishedAt: "2024-07-02",
   externalLink:

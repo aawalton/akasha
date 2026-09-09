@@ -9,7 +9,7 @@ export const chrysalis0139Chapter1491UnexpectedScene = {
   position: 139,
   ownLength: 1121,
   ownProgress: 1121,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:17.707Z",
   publishedAt: "2025-01-21",
   externalLink:

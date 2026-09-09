@@ -9,7 +9,7 @@ export const chrysalis0153Chapter1505IAlmostDonTWantToLook = {
   position: 153,
   ownLength: 931,
   ownProgress: 931,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:44.556Z",
   publishedAt: "2025-02-12",
   externalLink:

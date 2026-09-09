@@ -9,7 +9,7 @@ export const chrysalis0017Chapter1370AreTheyReally = {
   position: 17,
   ownLength: 1080,
   ownProgress: 1080,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:11.771Z",
   publishedAt: "2024-07-15",
   externalLink:

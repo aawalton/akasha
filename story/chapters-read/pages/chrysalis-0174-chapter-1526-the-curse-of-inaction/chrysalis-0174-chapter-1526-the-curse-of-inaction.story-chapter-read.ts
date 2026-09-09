@@ -9,7 +9,7 @@ export const chrysalis0174Chapter1526TheCurseOfInaction = {
   position: 174,
   ownLength: 1005,
   ownProgress: 1005,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:24.631Z",
   publishedAt: "2025-03-11",
   externalLink:

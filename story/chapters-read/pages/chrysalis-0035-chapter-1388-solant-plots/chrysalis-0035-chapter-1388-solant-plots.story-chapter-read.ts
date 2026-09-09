@@ -9,7 +9,7 @@ export const chrysalis0035Chapter1388SolantPlots = {
   position: 35,
   ownLength: 1357,
   ownProgress: 1357,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:45.989Z",
   publishedAt: "2024-08-08",
   externalLink:

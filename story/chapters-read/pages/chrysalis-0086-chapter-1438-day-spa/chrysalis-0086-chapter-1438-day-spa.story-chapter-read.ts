@@ -9,7 +9,7 @@ export const chrysalis0086Chapter1438DaySpa = {
   position: 86,
   ownLength: 927,
   ownProgress: 927,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:38.940Z",
   publishedAt: "2024-10-24",
   externalLink:

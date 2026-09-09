@@ -9,7 +9,7 @@ export const chrysalis0059Chapter1411AcidLake = {
   position: 59,
   ownLength: 1211,
   ownProgress: 1211,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:31.208Z",
   publishedAt: "2024-09-17",
   externalLink:

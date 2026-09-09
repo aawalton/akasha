@@ -9,7 +9,7 @@ export const chrysalis0157Chapter1509FinalSweetRelease = {
   position: 157,
   ownLength: 1073,
   ownProgress: 1073,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:52.060Z",
   publishedAt: "2025-02-14",
   externalLink:

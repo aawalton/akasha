@@ -9,7 +9,7 @@ export const chrysalis0065Chapter1417SolantSPlotting = {
   position: 65,
   ownLength: 1093,
   ownProgress: 1093,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:42.741Z",
   publishedAt: "2024-09-25",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0211Chapter1563ZissthOfTheCorruptedHeart = {
   position: 211,
   ownLength: 1090,
   ownProgress: 1090,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:34.084Z",
   publishedAt: "2025-05-01",
   externalLink:

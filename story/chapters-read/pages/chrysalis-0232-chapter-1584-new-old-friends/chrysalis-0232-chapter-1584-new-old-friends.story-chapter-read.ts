@@ -9,7 +9,7 @@ export const chrysalis0232Chapter1584NewOldFriends = {
   position: 232,
   ownLength: 1258,
   ownProgress: 1258,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:14.231Z",
   publishedAt: "2025-06-13",
   externalLink:

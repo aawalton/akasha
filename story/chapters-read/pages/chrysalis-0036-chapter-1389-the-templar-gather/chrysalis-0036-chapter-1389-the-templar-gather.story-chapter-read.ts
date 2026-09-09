@@ -9,7 +9,7 @@ export const chrysalis0036Chapter1389TheTemplarGather = {
   position: 36,
   ownLength: 1058,
   ownProgress: 1058,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:47.951Z",
   publishedAt: "2024-08-09",
   externalLink:

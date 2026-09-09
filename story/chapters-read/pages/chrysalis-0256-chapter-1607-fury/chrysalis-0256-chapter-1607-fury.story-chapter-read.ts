@@ -9,7 +9,7 @@ export const chrysalis0256Chapter1607Fury = {
   position: 256,
   ownLength: 914,
   ownProgress: 914,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:00.436Z",
   publishedAt: "2025-07-16",
   externalLink:

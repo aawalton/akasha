@@ -9,7 +9,7 @@ export const chrysalis0054Chapter1407SmashTheSlugs = {
   position: 54,
   ownLength: 1201,
   ownProgress: 1201,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:21.612Z",
   publishedAt: "2024-09-11",
   externalLink:

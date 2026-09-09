@@ -9,7 +9,7 @@ export const chrysalis0152Chapter1504TheTemplarFight = {
   position: 152,
   ownLength: 1085,
   ownProgress: 1085,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:42.619Z",
   publishedAt: "2025-02-07",
   externalLink:

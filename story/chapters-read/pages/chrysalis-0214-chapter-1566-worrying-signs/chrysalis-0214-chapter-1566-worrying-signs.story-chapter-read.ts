@@ -9,7 +9,7 @@ export const chrysalis0214Chapter1566WorryingSigns = {
   position: 214,
   ownLength: 1337,
   ownProgress: 1337,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:39.862Z",
   publishedAt: "2025-05-20",
   externalLink:

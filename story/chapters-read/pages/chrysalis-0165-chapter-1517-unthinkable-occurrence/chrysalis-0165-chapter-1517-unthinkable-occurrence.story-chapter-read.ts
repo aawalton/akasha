@@ -9,7 +9,7 @@ export const chrysalis0165Chapter1517UnthinkableOccurrence = {
   position: 165,
   ownLength: 1045,
   ownProgress: 1045,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:07.360Z",
   publishedAt: "2025-02-26",
   externalLink:

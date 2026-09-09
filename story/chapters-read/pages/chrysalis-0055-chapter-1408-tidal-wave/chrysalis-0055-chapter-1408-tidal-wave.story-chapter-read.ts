@@ -9,7 +9,7 @@ export const chrysalis0055Chapter1408TidalWave = {
   position: 55,
   ownLength: 1124,
   ownProgress: 1124,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:23.529Z",
   publishedAt: "2024-09-12",
   externalLink:

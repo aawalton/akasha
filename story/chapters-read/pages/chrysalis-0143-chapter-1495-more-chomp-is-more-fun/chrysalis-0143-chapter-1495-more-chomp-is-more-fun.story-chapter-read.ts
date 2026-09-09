@@ -9,7 +9,7 @@ export const chrysalis0143Chapter1495MoreChompIsMoreFun = {
   position: 143,
   ownLength: 1079,
   ownProgress: 1079,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:25.489Z",
   publishedAt: "2025-01-28",
   externalLink:

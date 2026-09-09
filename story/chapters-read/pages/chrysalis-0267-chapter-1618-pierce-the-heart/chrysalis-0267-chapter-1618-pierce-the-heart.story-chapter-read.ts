@@ -9,7 +9,7 @@ export const chrysalis0267Chapter1618PierceTheHeart = {
   position: 267,
   ownLength: 950,
   ownProgress: 950,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:21.582Z",
   publishedAt: "2025-08-07",
   externalLink:

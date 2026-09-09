@@ -9,7 +9,7 @@ export const chrysalis0128Chapter1480Backup = {
   position: 128,
   ownLength: 1040,
   ownProgress: 1040,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:09.996Z",
   publishedAt: "2025-01-06",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0238Chapter1590TugOfWar = {
   position: 238,
   ownLength: 1032,
   ownProgress: 1032,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:25.521Z",
   publishedAt: "2025-06-24",
   externalLink:

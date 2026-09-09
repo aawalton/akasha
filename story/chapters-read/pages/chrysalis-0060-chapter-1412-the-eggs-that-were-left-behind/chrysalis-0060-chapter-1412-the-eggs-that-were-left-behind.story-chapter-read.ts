@@ -9,7 +9,7 @@ export const chrysalis0060Chapter1412TheEggsThatWereLeftBehind = {
   position: 60,
   ownLength: 1189,
   ownProgress: 1189,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:33.127Z",
   publishedAt: "2024-09-18",
   externalLink:

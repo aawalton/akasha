@@ -9,7 +9,7 @@ export const chrysalis0112Chapter1464PressureBuildsInTheTunnels = {
   position: 112,
   ownLength: 1023,
   ownProgress: 1023,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:39.708Z",
   publishedAt: "2024-11-29",
   externalLink:

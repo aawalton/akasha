@@ -9,7 +9,7 @@ export const chrysalis0250Chapter1601Templar = {
   position: 250,
   ownLength: 1003,
   ownProgress: 1003,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:48.845Z",
   publishedAt: "2025-07-08",
   externalLink:

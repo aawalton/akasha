@@ -9,7 +9,7 @@ export const chrysalis0134Chapter1486TheBreachPt4 = {
   position: 134,
   ownLength: 933,
   ownProgress: 933,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:56:40.979Z",
   publishedAt: "2025-01-15",
   externalLink:

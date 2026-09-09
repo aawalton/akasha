@@ -9,7 +9,7 @@ export const chrysalis0083Chapter1435WhenItRainsItSMucus = {
   position: 83,
   ownLength: 1182,
   ownProgress: 1182,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:30.810Z",
   publishedAt: "2024-10-22",
   externalLink:

@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0180180Standoff = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 180,
   ownLength: 2011,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3702177/180-standoff",

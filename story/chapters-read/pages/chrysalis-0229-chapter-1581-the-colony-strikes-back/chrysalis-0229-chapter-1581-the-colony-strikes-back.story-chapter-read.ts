@@ -9,7 +9,7 @@ export const chrysalis0229Chapter1581TheColonyStrikesBack = {
   position: 229,
   ownLength: 1053,
   ownProgress: 1053,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:08.420Z",
   publishedAt: "2025-06-10",
   externalLink:

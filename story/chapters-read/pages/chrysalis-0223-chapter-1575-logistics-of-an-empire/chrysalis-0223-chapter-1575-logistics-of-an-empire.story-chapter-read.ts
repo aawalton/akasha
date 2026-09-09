@@ -9,7 +9,7 @@ export const chrysalis0223Chapter1575LogisticsOfAnEmpire = {
   position: 223,
   ownLength: 1016,
   ownProgress: 1016,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:56.852Z",
   publishedAt: "2025-06-03",
   externalLink:

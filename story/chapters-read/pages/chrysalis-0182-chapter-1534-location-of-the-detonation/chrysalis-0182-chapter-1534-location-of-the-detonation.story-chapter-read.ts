@@ -9,7 +9,7 @@ export const chrysalis0182Chapter1534LocationOfTheDetonation = {
   position: 182,
   ownLength: 1021,
   ownProgress: 1021,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:39.345Z",
   publishedAt: "2025-03-21",
   externalLink:

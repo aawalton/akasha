@@ -9,7 +9,7 @@ export const chrysalis0013Chapter1366Descent = {
   position: 13,
   ownLength: 1109,
   ownProgress: 1109,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:04.109Z",
   publishedAt: "2024-07-02",
   externalLink:

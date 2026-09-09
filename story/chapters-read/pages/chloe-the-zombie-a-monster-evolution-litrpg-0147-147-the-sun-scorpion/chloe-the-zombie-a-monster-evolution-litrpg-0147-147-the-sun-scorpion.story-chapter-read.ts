@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0147147TheSunScorpion = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 147,
   ownLength: 2010,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-04",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3353895/147-the-sun-scorpion",

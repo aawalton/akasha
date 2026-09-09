@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0137137AFamiliarFace = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 137,
   ownLength: 1817,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3256304/137-a-familiar-face",

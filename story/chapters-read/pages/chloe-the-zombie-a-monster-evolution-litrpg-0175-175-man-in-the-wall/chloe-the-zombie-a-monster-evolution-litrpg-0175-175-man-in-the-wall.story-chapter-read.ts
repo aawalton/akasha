@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0175175ManInTheWall = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 175,
   ownLength: 2067,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-08",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3649096/175-man-in-the-wall",

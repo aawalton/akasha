@@ -9,7 +9,7 @@ export const chrysalis0227Chapter1579Abduction = {
   position: 227,
   ownLength: 969,
   ownProgress: 969,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:04.592Z",
   publishedAt: "2025-06-06",
   externalLink:

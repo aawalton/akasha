@@ -9,7 +9,7 @@ export const chrysalis0239Chapter1591RainOfSlugs = {
   position: 239,
   ownLength: 928,
   ownProgress: 928,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:27.295Z",
   publishedAt: "2025-06-24",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0210Chapter1562DeepTribes = {
   position: 210,
   ownLength: 985,
   ownProgress: 985,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:32.136Z",
   publishedAt: "2025-04-30",
   externalLink:

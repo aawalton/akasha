@@ -9,7 +9,7 @@ export const chrysalis0224Chapter1576DealsStruckInTheDark = {
   position: 224,
   ownLength: 1223,
   ownProgress: 1223,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:58.798Z",
   publishedAt: "2025-06-03",
   externalLink:

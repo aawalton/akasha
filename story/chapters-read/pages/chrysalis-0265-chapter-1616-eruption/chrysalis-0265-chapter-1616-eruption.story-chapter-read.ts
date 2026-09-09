@@ -9,7 +9,7 @@ export const chrysalis0265Chapter1616Eruption = {
   position: 265,
   ownLength: 1124,
   ownProgress: 1124,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:52:17.701Z",
   publishedAt: "2025-08-05",
   externalLink:

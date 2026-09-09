@@ -9,7 +9,7 @@ export const chrysalis0142Chapter1494GravityOnlyGetsDeeper = {
   position: 142,
   ownLength: 973,
   ownProgress: 973,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:48:23.520Z",
   publishedAt: "2025-01-24",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0030Chapter1383UniqueProblemsUniqueSolutions = {
   position: 30,
   ownLength: 1090,
   ownProgress: 1090,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:36.686Z",
   publishedAt: "2024-08-01",
   externalLink:

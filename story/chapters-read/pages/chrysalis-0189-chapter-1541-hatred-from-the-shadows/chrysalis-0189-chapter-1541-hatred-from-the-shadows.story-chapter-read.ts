@@ -9,7 +9,7 @@ export const chrysalis0189Chapter1541HatredFromTheShadows = {
   position: 189,
   ownLength: 940,
   ownProgress: 940,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:52.415Z",
   publishedAt: "2025-04-01",
   externalLink:

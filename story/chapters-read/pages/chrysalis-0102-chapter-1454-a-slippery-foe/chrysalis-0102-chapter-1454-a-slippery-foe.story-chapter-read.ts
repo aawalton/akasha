@@ -9,7 +9,7 @@ export const chrysalis0102Chapter1454ASlipperyFoe = {
   position: 102,
   ownLength: 1048,
   ownProgress: 1048,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:47:20.618Z",
   publishedAt: "2024-11-15",
   externalLink:

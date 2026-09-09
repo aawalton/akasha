@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0172172ImpulseBuying = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 172,
   ownLength: 1853,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-01",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3617520/172-impulse-buying",

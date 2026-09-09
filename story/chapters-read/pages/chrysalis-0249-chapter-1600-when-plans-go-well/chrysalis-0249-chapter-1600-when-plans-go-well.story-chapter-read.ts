@@ -9,7 +9,7 @@ export const chrysalis0249Chapter1600WhenPlansGoWell = {
   position: 249,
   ownLength: 1027,
   ownProgress: 1027,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:46.923Z",
   publishedAt: "2025-07-07",
   externalLink:

@@ -9,7 +9,7 @@ export const chrysalis0178Chapter1530StrongestUnderTheEarth = {
   position: 178,
   ownLength: 1058,
   ownProgress: 1058,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:32.068Z",
   publishedAt: "2025-03-17",
   externalLink:

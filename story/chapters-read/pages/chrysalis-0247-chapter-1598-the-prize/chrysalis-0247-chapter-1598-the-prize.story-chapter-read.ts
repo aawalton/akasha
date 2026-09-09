@@ -9,7 +9,7 @@ export const chrysalis0247Chapter1598ThePrize = {
   position: 247,
   ownLength: 1265,
   ownProgress: 1265,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:43.018Z",
   publishedAt: "2025-07-03",
   externalLink:

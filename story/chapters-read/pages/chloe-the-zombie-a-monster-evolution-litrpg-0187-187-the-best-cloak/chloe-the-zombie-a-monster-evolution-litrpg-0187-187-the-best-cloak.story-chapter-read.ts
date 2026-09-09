@@ -8,7 +8,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0187187TheBestCloak = {
   story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 187,
   ownLength: 2157,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-10",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg-book/chapter/3795646/187-the-best-cloak",

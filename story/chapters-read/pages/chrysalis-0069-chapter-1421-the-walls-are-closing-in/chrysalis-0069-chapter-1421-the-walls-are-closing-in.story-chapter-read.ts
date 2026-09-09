@@ -9,7 +9,7 @@ export const chrysalis0069Chapter1421TheWallsAreClosingIn = {
   position: 69,
   ownLength: 1011,
   ownProgress: 1011,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:50.505Z",
   publishedAt: "2024-10-01",
   externalLink:

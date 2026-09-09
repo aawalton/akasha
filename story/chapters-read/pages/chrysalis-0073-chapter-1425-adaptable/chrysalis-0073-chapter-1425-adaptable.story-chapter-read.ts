@@ -9,7 +9,7 @@ export const chrysalis0073Chapter1425Adaptable = {
   position: 73,
   ownLength: 1003,
   ownProgress: 1003,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:02.120Z",
   publishedAt: "2024-10-07",
   externalLink:

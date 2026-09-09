@@ -9,7 +9,7 @@ export const chrysalis0255Chapter1606GoWithTheFlow = {
   position: 255,
   ownLength: 836,
   ownProgress: 836,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:58.511Z",
   publishedAt: "2025-07-14",
   externalLink:

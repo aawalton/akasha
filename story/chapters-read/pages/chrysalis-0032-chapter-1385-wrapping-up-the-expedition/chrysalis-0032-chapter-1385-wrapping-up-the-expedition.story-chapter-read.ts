@@ -9,7 +9,7 @@ export const chrysalis0032Chapter1385WrappingUpTheExpedition = {
   position: 32,
   ownLength: 916,
   ownProgress: 916,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:44:40.392Z",
   publishedAt: "2024-08-05",
   externalLink:

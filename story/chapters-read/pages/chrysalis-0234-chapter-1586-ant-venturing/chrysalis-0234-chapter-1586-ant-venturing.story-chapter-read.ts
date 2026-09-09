@@ -9,7 +9,7 @@ export const chrysalis0234Chapter1586AntVenturing = {
   position: 234,
   ownLength: 1032,
   ownProgress: 1032,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:18.100Z",
   publishedAt: "2025-06-17",
   externalLink:

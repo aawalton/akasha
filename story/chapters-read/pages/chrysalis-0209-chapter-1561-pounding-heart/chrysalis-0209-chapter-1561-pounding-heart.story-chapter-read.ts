@@ -9,7 +9,7 @@ export const chrysalis0209Chapter1561PoundingHeart = {
   position: 209,
   ownLength: 1059,
   ownProgress: 1059,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:30.350Z",
   publishedAt: "2025-04-29",
   externalLink:

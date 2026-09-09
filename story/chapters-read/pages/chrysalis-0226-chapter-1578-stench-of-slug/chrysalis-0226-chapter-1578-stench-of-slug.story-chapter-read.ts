@@ -9,7 +9,7 @@ export const chrysalis0226Chapter1578StenchOfSlug = {
   position: 226,
   ownLength: 997,
   ownProgress: 997,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:51:02.645Z",
   publishedAt: "2025-06-05",
   externalLink:

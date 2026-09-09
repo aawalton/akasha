@@ -9,7 +9,7 @@ export const chrysalis0179Chapter1531UnbreakableAbyssalSteel = {
   position: 179,
   ownLength: 1053,
   ownProgress: 1053,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:49:33.985Z",
   publishedAt: "2025-03-18",
   externalLink:

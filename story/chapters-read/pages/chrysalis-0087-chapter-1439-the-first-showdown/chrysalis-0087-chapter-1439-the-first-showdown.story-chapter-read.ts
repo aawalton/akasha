@@ -9,7 +9,7 @@ export const chrysalis0087Chapter1439TheFirstShowdown = {
   position: 87,
   ownLength: 1045,
   ownProgress: 1045,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:46:42.951Z",
   publishedAt: "2024-10-25",
   externalLink:

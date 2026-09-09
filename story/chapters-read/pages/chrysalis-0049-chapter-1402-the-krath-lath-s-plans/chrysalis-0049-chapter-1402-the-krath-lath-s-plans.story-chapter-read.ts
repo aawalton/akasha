@@ -9,7 +9,7 @@ export const chrysalis0049Chapter1402TheKrathLathSPlans = {
   position: 49,
   ownLength: 1088,
   ownProgress: 1088,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:45:12.058Z",
   publishedAt: "2024-09-03",
   externalLink:

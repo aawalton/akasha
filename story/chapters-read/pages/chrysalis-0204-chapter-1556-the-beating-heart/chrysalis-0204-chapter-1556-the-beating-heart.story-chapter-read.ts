@@ -9,7 +9,7 @@ export const chrysalis0204Chapter1556TheBeatingHeart = {
   position: 204,
   ownLength: 1222,
   ownProgress: 1222,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T19:50:20.815Z",
   publishedAt: "2025-04-22",
   externalLink:
