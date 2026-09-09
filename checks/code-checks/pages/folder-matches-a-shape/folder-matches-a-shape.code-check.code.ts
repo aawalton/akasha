@@ -1,7 +1,7 @@
 import { basename } from "node:path"
 import { NAMING_NONE, type Naming } from "@akasha/code/code-specifier"
 import type { Answering } from "@akasha/indexes/answering"
-import type { FilePropertiesBy } from "@akasha/indexes/entries"
+import type { FilePropertiesBy, FoldersBy } from "@akasha/indexes/entries"
 import { edgesIn } from "@akasha/indexes/import"
 import { reachingOf } from "@akasha/indexes/package-reaching"
 import { claimsOf, type SidecarsBy } from "@akasha/indexes/path-claiming"
@@ -335,13 +335,14 @@ export function partsOver(
   index: Answering,
   root: string,
   stated: FilePropertiesBy,
-  sidecars: SidecarsBy
+  sidecars: SidecarsBy,
+  folders: FoldersBy
 ): (page: Held) => readonly string[] {
   return (page) => {
     if (page.slug === null || page.pageTypeSlug === null) return [page.path]
     const value = index.pageAt(page.pageTypeSlug, page.slug)
     if (value === null) return [page.path]
-    return claimsOf(value, page.path, root, stated, sidecars)
+    return claimsOf(value, page.path, root, stated, sidecars, undefined, folders)
   }
 }
 
@@ -380,7 +381,8 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     shadow.index,
     change.root,
     shadow.index.filePropertiesAt(),
-    shadow.index.sidecarsAt()
+    shadow.index.sidecarsAt(),
+    shadow.index.folderPropertiesAt()
   )
   const partOf = partOfOver(shadow.index)
   const entering = enteringOf(shadow)

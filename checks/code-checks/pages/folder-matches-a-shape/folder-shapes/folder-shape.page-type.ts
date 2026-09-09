@@ -192,6 +192,10 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
+      statement: "A page answers with the build folders that page's own folder properties name.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page answers with the collections that page names as holding that page.",
     },
     {
