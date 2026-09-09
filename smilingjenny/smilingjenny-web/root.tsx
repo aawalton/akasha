@@ -13,7 +13,7 @@ import {
 } from "react-router"
 import type { Route } from "./+types/root"
 import { PushRegistrationSync } from "./jenny-push-registration-sync/jenny-push-registration-sync.module.code.tsx"
-import "./smilingjenny-web-look/smilingjenny-web-look.stylesheet.styles.css"
+import "./look/smilingjenny-web-look.stylesheet.styles.css"
 
 export const meta: Route.MetaFunction = () => [
   { title: "Smiling Jenny" },
