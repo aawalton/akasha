@@ -3,6 +3,7 @@ import type { World } from "../../world.page-type.ts"
 export const towerOfNimue = {
   id: "01a063d8-61f2-7f24-949f-56d04d575715",
   pageTypeSlug: "world",
+  type: "world",
   slug: "tower-of-nimue",
   title: "The Tower of Nimue",
   description:

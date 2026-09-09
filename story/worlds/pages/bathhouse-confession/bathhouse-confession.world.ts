@@ -3,6 +3,7 @@ import type { World } from "../../world.page-type.ts"
 export const bathhouseConfession = {
   id: "01a063d8-61f2-7604-b462-259638d56b62",
   pageTypeSlug: "world",
+  type: "world",
   slug: "bathhouse-confession",
   title: "Bathhouse Confession",
   description:

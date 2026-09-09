@@ -3,6 +3,7 @@ import type { WorldCondition } from "../../world-condition.page-type.ts"
 export const classLockMaleTorenRequired = {
   id: "01a0655a-7b7a-71cf-8a7b-4414e5d3cdac",
   pageTypeSlug: "world-condition",
+  type: "world-condition",
   slug: "class-lock-male-toren-required",
   title: "Class Lock: Male Toren required.",
   world: "the-wandering-inn",

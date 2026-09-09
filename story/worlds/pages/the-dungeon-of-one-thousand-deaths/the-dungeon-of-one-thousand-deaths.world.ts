@@ -3,6 +3,7 @@ import type { World } from "../../world.page-type.ts"
 export const theDungeonOfOneThousandDeaths = {
   id: "01a063d8-61f2-7d68-8d3d-b967ea06c44f",
   pageTypeSlug: "world",
+  type: "world",
   slug: "the-dungeon-of-one-thousand-deaths",
   title: "The Dungeon of One Thousand Deaths",
   description:

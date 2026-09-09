@@ -3,6 +3,7 @@ import type { World } from "../../world.page-type.ts"
 export const comeHere = {
   id: "01a06586-d429-72fb-bc22-eacba4079eb5",
   pageTypeSlug: "world",
+  type: "world",
   slug: "come-here",
   title: "Come Here",
   description:

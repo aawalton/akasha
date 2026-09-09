@@ -3,6 +3,7 @@ import type { WorldTitle } from "../../world-title.page-type.ts"
 export const localLandmark = {
   id: "01a0655a-7b7e-7a00-bbeb-8a65b57906ad",
   pageTypeSlug: "world-title",
+  type: "world-title",
   slug: "local-landmark",
   title: "Local Landmark",
   world: "the-wandering-inn",

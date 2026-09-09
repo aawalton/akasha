@@ -3,6 +3,7 @@ import type { WorldReligion } from "../world-religion.page-type.ts"
 export const thePaintedFolk = {
   id: "01a0655a-0688-72a6-abbf-c328ed10706b",
   pageTypeSlug: "world-religion",
+  type: "world-religion",
   slug: "the-painted-folk",
   title: "The Painted Folk",
   world: "the-wandering-inn",

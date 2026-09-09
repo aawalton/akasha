@@ -3,6 +3,7 @@ import type { WorldItem } from "../../world-item.page-type.ts"
 export const potionOfHaste = {
   id: "01a0655a-7b7f-732a-b3d7-b47e8bced464",
   pageTypeSlug: "world-item",
+  type: "world-item",
   slug: "potion-of-haste",
   title: "Potion of Haste",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { WorldSpecies } from "../../world-species.page-type.ts"
 export const drake = {
   id: "01a0655a-0687-7fd4-b572-3f6bec7bcbf1",
   pageTypeSlug: "world-species",
+  type: "world-species",
   slug: "drake",
   title: "Drake",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { World } from "../../world.page-type.ts"
 export const theIdleEpoch = {
   id: "01a063d8-61f2-79ae-9295-e20dbdd58b6f",
   pageTypeSlug: "world",
+  type: "world",
   slug: "the-idle-epoch",
   title: "The Idle Epoch",
   description:

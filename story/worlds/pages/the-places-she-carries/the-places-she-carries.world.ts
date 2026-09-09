@@ -3,6 +3,7 @@ import type { World } from "../../world.page-type.ts"
 export const thePlacesSheCarries = {
   id: "01a063d8-61f2-7124-9eae-0ab2e56663fd",
   pageTypeSlug: "world",
+  type: "world",
   slug: "the-places-she-carries",
   title: "The Places She Carries",
   description:

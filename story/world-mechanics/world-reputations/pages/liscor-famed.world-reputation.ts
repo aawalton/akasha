@@ -3,6 +3,7 @@ import type { WorldReputation } from "../world-reputation.page-type.ts"
 export const liscorFamed = {
   id: "01a0655a-0688-7e69-a792-e635d5a4067b",
   pageTypeSlug: "world-reputation",
+  type: "world-reputation",
   slug: "liscor-famed",
   title: "Liscor (Famed)",
   world: "the-wandering-inn",
