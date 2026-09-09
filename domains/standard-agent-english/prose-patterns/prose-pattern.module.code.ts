@@ -129,6 +129,8 @@ const BEING: ReadonlySet<string> = new Set([
 
 const THINGS: ReadonlySet<string> = new Set(["NOUN", "PROPN"])
 
+const NAMED: ReadonlySet<string> = new Set(["NOUN", "PROPN", "PRON"])
+
 const RELATIVIZERS: ReadonlySet<string> = new Set(["that", "which", "who", "whom"])
 
 const PERSONS: ReadonlySet<string> = new Set([
@@ -331,8 +333,14 @@ function relativizerHeld(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, SUBJECT).length === 0
 }
 
+function objectUnnamed(sentence: DepSentence, token: DepToken): boolean {
+  const object = child(sentence, token.id, OBJECT)
+  return object !== undefined && !NAMED.has(object.upos)
+}
+
 function leftAlone(sentence: DepSentence, token: DepToken): boolean {
   if (objectsDoubled(sentence, token)) return true
+  if (objectUnnamed(sentence, token)) return true
   if (relativizerHeld(sentence, token)) return true
   if (particled(sentence, token)) return true
   if (personHeld(sentence, token)) return true

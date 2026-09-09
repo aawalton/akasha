@@ -46,6 +46,7 @@ import {
   THE_DAY_HOLDS_TURNED_INTO_POINTS,
   THE_FORWARDER_HOLDS_A_REQUEST_TO,
   THE_HOLD_SITS,
+  THE_PAGES_HELD_LIVE,
   THE_PAGES_IT_HELD_TAKEN,
   THE_PROXY_HOLDS_TRAFFIC_OUT,
   THE_PUSH_HOLDS_THE_BRANCH_ON,
@@ -218,6 +219,10 @@ test("a word whose object is a question is left alone", () => {
 
 test("a fronted word joined to another word is left alone", () => {
   expect(foundIn(sentenceOf(IT_HELD_OR_WOULD_HOLD), HELD)).toEqual([])
+})
+
+test("a word whose object is read as neither a thing nor a pronoun is left alone", () => {
+  expect(foundIn(sentenceOf(THE_PAGES_HELD_LIVE), HELD)).toEqual([])
 })
 
 test("a word the parser gave two objects is left alone", () => {

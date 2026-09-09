@@ -170,6 +170,11 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A word whose object is read as neither a thing nor a pronoun is misread, so it is left alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A fronted word joined to another word is left alone.",
     },
     {

@@ -64,6 +64,14 @@ export const THE_BOOK_HOLDS_THROUGH_A_STRING: readonly Row[] = [
   ["string", "NOUN", 5, "obl"],
 ]
 
+export const THE_PAGES_HELD_LIVE: readonly Row[] = [
+  ["pages", "NOUN", 0, "root"],
+  ["listing", "NOUN", 3, "nsubj"],
+  ["asks", "VERB", 1, "acl:relcl"],
+  ["held", "VERB", 3, "advcl"],
+  ["live", "ADJ", 4, "obj"],
+]
+
 export const THE_PAGES_IT_HELD_TAKEN: readonly Row[] = [
   ["the", "DET", 2, "det"],
   ["pages", "NOUN", 0, "root"],
