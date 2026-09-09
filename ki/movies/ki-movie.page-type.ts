@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { KiCollectionTemplate } from "../ki-collection-templates/ki-collection-template.page-type.ts"
+import type { KiCollectionTemplate } from "../collection-templates/ki-collection-template.page-type.ts"
 
 export type KiMovie = KiCollectionTemplate
 
