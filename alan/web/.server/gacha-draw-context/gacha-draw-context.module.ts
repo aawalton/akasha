@@ -6,4 +6,18 @@ export const gachaDrawContext = {
   slug: "gacha-draw-context",
   definition: "the personas and rates one draw is settled against",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "gap",
+      statement: "`persona-cover-image` is no page type the pages system holds.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A draw reads an empty pool as a persona with nothing to show.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draw context whose images went unread is refused rather than answered empty.",
+    },
+  ],
 } as const satisfies Module

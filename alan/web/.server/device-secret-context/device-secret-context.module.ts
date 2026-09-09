@@ -6,4 +6,15 @@ export const deviceSecretContext = {
   slug: "device-secret-context",
   definition: "the account a presented device secret represents, and the refusals short of one",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A secret refused and a store that did not answer are two outcomes rather than one.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The route answers each of the three outcomes with a status of its own.",
+    },
+  ],
 } as const satisfies Module
