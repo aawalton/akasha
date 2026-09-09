@@ -5,6 +5,6 @@ export const relation = {
   pageTypeSlug: "graph-edge",
   slug: "relation",
   definition: "one page naming another through a property",
-  indexSlug: "index/index-relation",
+  index: "index/index-relation",
   attributeSlugs: ["graph-attribute/property"],
 } as const satisfies GraphEdge

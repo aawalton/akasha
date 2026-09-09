@@ -1,10 +1,10 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { AttributeSlugs } from "./properties/attribute-slugs.relation-property.ts"
-import type { IndexSlug } from "./properties/index-slug.relation-property.ts"
+import type { Index } from "./properties/index.relation-property.ts"
 
 export type GraphEdge = Domain & {
-  indexSlug?: IndexSlug
+  index?: Index
   attributeSlugs?: AttributeSlugs
 }
 
@@ -17,12 +17,12 @@ export const graphEdge = {
   partSlugs: [
     "graph-edge/import-edge",
     "graph-edge/relation",
-    "relation-property/index-slug",
+    "relation-property/index",
     "relation-property/attribute-slugs",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "relation-property/index-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/index", required: false, many: false },
     {
       pagePropertySlug: "relation-property/attribute-slugs",
       required: false,

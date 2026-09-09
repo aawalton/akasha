@@ -138,7 +138,7 @@ function edged(
     pageTypeSlug: GRAPH_EDGE,
     slug: kind,
     definition: "an edge kind a test invented",
-    indexSlug: `${INDEX}/${HELD_INDEX}`,
+    index: `${INDEX}/${HELD_INDEX}`,
     ...held,
   })
   if (exists) filed(root, edgeFiledAt(kind), { path: EDGE_AT, id: EDGE_ID })
