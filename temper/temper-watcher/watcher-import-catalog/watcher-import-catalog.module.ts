@@ -11,7 +11,7 @@ export const watcherImportCatalog = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The account-wide table is read by `@akasha/temper-catalog-host`.",
+      statement: "The account-wide table is read by the `temper-catalog-host` domain.",
     },
     {
       invariantKind: "departure",
