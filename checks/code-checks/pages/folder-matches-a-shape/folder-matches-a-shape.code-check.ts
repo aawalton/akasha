@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const folderMatchesAShape = {
   id: "01a04e33-f281-7900-a29d-0b79e444ca98",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "folder-matches-a-shape",
   definition: "the check refusing a folder matching none of the folder shapes",
   parts: [

@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const noSecondSpellingOfANameFormat = {
   id: "01a05941-9823-7000-aff4-004b3f68b23c",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "no-second-spelling-of-a-name-format",
   definition: "the check refusing a regex spelling the shape a name format states",
   code: "ts",

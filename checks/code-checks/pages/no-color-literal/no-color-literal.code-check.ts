@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const noColorLiteral = {
   id: "01a08227-08ad-7b40-b746-98282c6ab4de",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "no-color-literal",
   definition: "the check refusing a color written out rather than taken from a design token",
   code: "ts",

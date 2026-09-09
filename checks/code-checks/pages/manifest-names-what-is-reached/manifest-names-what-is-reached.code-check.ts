@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const manifestNamesWhatIsReached = {
   id: "01a0597b-d723-72c8-ab64-118c9e5eb650",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "manifest-names-what-is-reached",
   definition:
     "the check judging a package's dependencies and the packages its own code reaches to be one set",

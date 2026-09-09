@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const domainIsNamedByAParent = {
   id: "01a04d5f-c731-7000-9066-3abf317a1d58",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "domain-is-named-by-a-parent",
   definition: "the check refusing a domain the whole does not reach by exactly one chain of parts",
   code: "ts",

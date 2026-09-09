@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const fileHasItsPage = {
   id: "01a04d86-434f-75ff-aaab-96b4ba9468ee",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "file-has-its-page",
   definition: "the check refusing a file in the akasha folder that no page claims",
   code: "ts",

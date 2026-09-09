@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const noCodeComments = {
   id: "01a04bc8-6c45-741c-8dfd-0665538af7c4",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "no-code-comments",
   definition: "the check refusing a comment that is none of the code comment forms",
   code: "ts",

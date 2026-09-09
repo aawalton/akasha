@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const shellClean = {
   id: "01a05991-d997-76f5-a619-6ddb7444c34f",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "shell-clean",
   definition: "the check refusing a change shellcheck finds fault in",
   code: "ts",

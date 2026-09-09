@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const popoverKeepsItsViewportCap = {
   id: "01a082e9-5908-74cf-8d6f-521d3e9c7a79",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "popover-keeps-its-viewport-cap",
   definition:
     "the check refusing a popover whose class or prop undoes the viewport cap its wrapper sets",

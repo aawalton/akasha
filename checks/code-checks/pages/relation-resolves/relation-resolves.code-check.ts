@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const relationResolves = {
   id: "01a04d99-71ca-7e06-9f74-3a462cb7d4fb",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "relation-resolves",
   definition:
     "the check refusing a name that reaches no page, and a non-mortal page that names a mortal one",

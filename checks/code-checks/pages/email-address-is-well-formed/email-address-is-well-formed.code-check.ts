@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const emailAddressIsWellFormed = {
   id: "01a058ff-b65d-7ee3-a34f-8bb41d52b52d",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "email-address-is-well-formed",
   definition: "the check refusing a stated email address that is not well formed",
   code: "ts",

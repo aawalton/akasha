@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const noRawNulBytes = {
   id: "01a04bc8-6c71-7973-85d5-6d17ea5fea65",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "no-raw-nul-bytes",
   definition: "the check refusing a file with a raw NUL byte",
   code: "ts",

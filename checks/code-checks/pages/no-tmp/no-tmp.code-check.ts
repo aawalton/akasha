@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const noTmp = {
   id: "01a04ecb-5cd1-7000-8159-83b7e93d72b9",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "no-tmp",
   definition: "the check refusing a reach for /tmp, where no scratch of ours sits",
   code: "ts",

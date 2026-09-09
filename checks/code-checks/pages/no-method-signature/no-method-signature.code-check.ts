@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const noMethodSignature = {
   id: "01a04bc8-6c64-7482-a9b8-f0d6e14e546d",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "no-method-signature",
   definition: "the check refusing a method signature in an interface or a type literal",
   code: "ts",

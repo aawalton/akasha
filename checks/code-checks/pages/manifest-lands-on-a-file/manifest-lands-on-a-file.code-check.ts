@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const manifestLandsOnAFile = {
   id: "01a05d75-de6d-726c-b07d-520ab5bfd098",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "manifest-lands-on-a-file",
   definition: "the check refusing a way into a package that lands where no file is",
   code: "ts",

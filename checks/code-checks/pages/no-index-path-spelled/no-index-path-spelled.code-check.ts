@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const noIndexPathSpelled = {
   id: "01a05350-50b5-76df-9760-b09c77c2ee7c",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "no-index-path-spelled",
   definition:
     "the check refusing code outside the indexes folder that spells a path into the index",

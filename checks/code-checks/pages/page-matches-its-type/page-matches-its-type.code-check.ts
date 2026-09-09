@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const pageMatchesItsType = {
   id: "01a04e92-bfba-7ca8-b12b-37b6a6a4c408",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "page-matches-its-type",
   definition: "the check refusing a page that does not carry what its page type declares",
   parts: ["module/entry-reasons"],

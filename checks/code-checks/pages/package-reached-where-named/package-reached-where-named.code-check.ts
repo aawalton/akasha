@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const packageReachedWhereNamed = {
   id: "01a058be-804e-72e0-934d-f1f913e197a6",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "package-reached-where-named",
   definition:
     "the check holding a package to the name its manifest states and the ways in it names",

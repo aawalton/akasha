@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const typesFileRunsNothing = {
   id: "01a07724-a8ae-7f5e-93f2-c483420afe89",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "types-file-runs-nothing",
   definition: "the check refusing anything but a declaration in a module's types file",
   code: "ts",

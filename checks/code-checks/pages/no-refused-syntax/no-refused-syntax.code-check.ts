@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const noRefusedSyntax = {
   id: "01a0500d-738b-7831-b8d7-66fe5737a5c8",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "no-refused-syntax",
   definition: "the check refusing a source file with a pattern a syntax rule names",
   parts: ["page-type/syntax-rule"],

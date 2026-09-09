@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const clientReachesPagesThroughItsHooks = {
   id: "01a0820f-3f92-7000-bc58-d6e15f27ad99",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "client-reaches-pages-through-its-hooks",
   definition: "the check refusing a browser file reaching the pages table outside the pages hooks",
   code: "ts",

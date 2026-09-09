@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const typecheck = {
   id: "01a04bcb-dff4-761a-856e-407fb6934b44",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "typecheck",
   definition: "the check refusing TypeScript that does not compile",
   code: "ts",

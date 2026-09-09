@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const clientReachesAServerModuleThroughARoute = {
   id: "01a0826b-f1ac-77a7-8379-299804f515d2",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "client-reaches-a-server-module-through-a-route",
   definition:
     "the check refusing a router app module the browser bundle holds that reaches a server module",

@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const noReExport = {
   id: "01a04eea-b718-7687-bb51-e4efaeaf429e",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "no-re-export",
   definition: "the check refusing a file that exports a name it did not declare itself",
   code: "ts",

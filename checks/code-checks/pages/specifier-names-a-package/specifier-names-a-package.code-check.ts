@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const specifierNamesAPackage = {
   id: "01a0882d-745e-766d-9fde-17b088d08fbf",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "specifier-names-a-package",
   definition: "the check refusing a specifier that reaches by a package name no manifest states",
   code: "ts",

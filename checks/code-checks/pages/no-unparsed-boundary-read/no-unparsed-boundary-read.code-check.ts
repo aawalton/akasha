@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const noUnparsedBoundaryRead = {
   id: "01a0827e-df53-7d03-80a4-b3305001f92e",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "no-unparsed-boundary-read",
   definition: "the check refusing a read across a boundary that no parse follows",
   code: "ts",

@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const repositoryIsWrittenByAChange = {
   id: "01a08299-65c2-7c83-9d05-8a3e841dfe48",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "repository-is-written-by-a-change",
   definition:
     "the check refusing code outside the changes that writes TypeScript into the repository",

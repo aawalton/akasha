@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const noGlobalInAModule = {
   id: "01a061f4-5ea3-75e0-bcb9-903223ba2331",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "no-global-in-a-module",
   definition: "the check refusing a module body that declares a global",
   code: "ts",

@@ -3,6 +3,7 @@ import type { CodeCheck } from "../../code-check.page-type.ts"
 export const checkReachesAPathThroughTheIndex = {
   id: "01a0824b-5ca1-7150-a799-fd2189f44fe4",
   pageTypeSlug: "code-check",
+  type: "code-check",
   slug: "check-reaches-a-path-through-the-index",
   definition: "the check refusing a page's code that lists a path the index answers for",
   code: "ts",
