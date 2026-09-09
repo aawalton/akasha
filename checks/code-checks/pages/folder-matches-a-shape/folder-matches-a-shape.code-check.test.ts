@@ -22,7 +22,11 @@ import {
   partsOver,
   strippedOf,
 } from "./folder-matches-a-shape.code-check.code.ts"
-import { folderFrom } from "./folder-matches-a-shape.code-check.test-fixtures.ts"
+import {
+  folderFrom,
+  segmented,
+  segmentedLater,
+} from "./folder-matches-a-shape.code-check.test-fixtures.ts"
 import { sectionsOfTheBookAbove } from "./folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts"
 import {
   ancestorsOf,
@@ -61,6 +65,16 @@ function grouping(under: Readonly<Record<string, readonly string[]>>): Grouped {
     foldersIn: (folder) => under[folder] ?? [],
   }
 }
+
+test("a folder a file property declares a path through is passed over", () => {
+  expect(segmented("one/deploy")).toBe(true)
+  expect(segmented("two/deploy")).toBe(false)
+})
+
+test("a segment comes from the properties, so a property stated later is reached", () => {
+  expect(segmented("three/public")).toBe(false)
+  expect(segmentedLater("three/public")).toBe(true)
+})
 
 test("a folder is every part of a path but its last", () => {
   expect(folderOf("akasha/a/b/one.ts")).toBe("akasha/a/b")

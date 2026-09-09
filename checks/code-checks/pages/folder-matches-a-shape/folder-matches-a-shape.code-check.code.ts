@@ -26,6 +26,7 @@ import {
   type Grouped,
   groupedOver,
   reachedFolders,
+  segmentingOver,
 } from "./modules/folder-grouping/folder-grouping.module.code.ts"
 import { shapesIn } from "./modules/shape-loading/shape-loading.module.code.ts"
 
@@ -384,6 +385,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     return held.has(pageTypeSlug)
   }
   const grouped = groupedOver(shadow.index, change)
+  const segmenting = segmentingOver(stated, grouped)
   const declaring = declaringOver(shadow.index, grouped)
   const holds = holdingOver(shadow.index, grouped, pageTypes, fileProperties)
   const namedFor = namingOver(holds)
@@ -399,6 +401,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const entering = enteringOf(shadow)
   const found: Judged[] = []
   for (const folder of [...foldersJudgedBy(change, naming, grouped, holds)].sort()) {
+    if (segmenting(folder)) continue
     const named = basename(folder)
     const opening = heldFolder(folder, holds)
       ? null

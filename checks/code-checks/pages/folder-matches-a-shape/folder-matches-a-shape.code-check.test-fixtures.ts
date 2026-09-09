@@ -1,6 +1,10 @@
 import { heldIn } from "@akasha/pages/page-file-name"
 import type { Standing } from "./folder-shapes/folder-shape.page-type.ts"
-import { folderOf, type Grouped } from "./modules/folder-grouping/folder-grouping.module.code.ts"
+import {
+  folderOf,
+  type Grouped,
+  segmentingOver,
+} from "./modules/folder-grouping/folder-grouping.module.code.ts"
 
 function groupedBy(files: readonly string[]): Grouped {
   const sitting = new Map<string, string[]>()
@@ -81,3 +85,17 @@ export function folderFrom(shaping: Shaping): (names: readonly string[]) => Stan
     }
   }
 }
+
+const DECLARING = new Map([["dockerfile-extensions", "deploy/dockerfile-extensions.json"]])
+
+const LATER = new Map(DECLARING).set("site-icon", "public/favicon.svg")
+
+const DEPLOYING = groupedBy([
+  "one/deploy/dockerfile-extensions.json",
+  "two/deploy/other.ts",
+  "three/public/favicon.svg",
+])
+
+export const segmented = segmentingOver(DECLARING, DEPLOYING)
+
+export const segmentedLater = segmentingOver(LATER, DEPLOYING)

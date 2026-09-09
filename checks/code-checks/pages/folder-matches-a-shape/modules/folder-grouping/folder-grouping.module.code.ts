@@ -72,3 +72,22 @@ export function groupedOver(index: Answering, change: Change): Grouped {
     },
   }
 }
+
+export function segmentingOver(
+  declaring: ReadonlyMap<string, string | null>,
+  grouped: Grouped
+): (folder: string) => boolean {
+  const segments: (readonly [string, string])[] = []
+  for (const fileName of declaring.values()) {
+    const named = fileName === null ? [] : fileName.split("/")
+    for (let at = 1; at < named.length; at += 1) {
+      segments.push([named.slice(0, at).join("/"), named.slice(at).join("/")])
+    }
+  }
+  return (folder) =>
+    segments.some(([under, rest]) => {
+      if (folder !== under && !folder.endsWith(`/${under}`)) return false
+      const path = `${folder}/${rest}`
+      return grouped.at(folderOf(path)).includes(path)
+    })
+}

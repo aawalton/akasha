@@ -172,5 +172,23 @@ export const folderMatchesAShape = {
       invariantKind: "departure",
       statement: "A page this check has in hand is read from the index by that page's path.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder that is a segment of a path a file property declares is no folder of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That folder is passed over before any shape is asked.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Those segments are derived from the file properties rather than named in this check.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder looked through to find the page above is judged all the same.",
+    },
   ],
 } as const satisfies CodeCheck
