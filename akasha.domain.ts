@@ -38,7 +38,7 @@ export const akasha = {
     "domain/digit-padding",
     "workspace-package/id-minting",
     "workspace-package/file-page-identity",
-    "workspace-package/checkout-version",
+    "domain/checkout-version",
     "domain/temper",
     "domain/story",
     "domain/browser",

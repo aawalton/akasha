@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const checkoutVersion = {
   id: "01a05c9d-dccd-7864-8e73-f8fd81e86a9c",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "checkout-version",
   definition: "which commit of which checkout the code now running was taken from",
-  manifest: "json",
   parts: ["module/provenance"],
   invariants: [
     {
@@ -21,4 +20,4 @@ export const checkoutVersion = {
       statement: "A worktree holding uncommitted work is said to be dirty.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

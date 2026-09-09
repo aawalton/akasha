@@ -9,12 +9,12 @@
         "@akasha/browser-launch-env": "workspace:*",
         "@akasha/browser-test-harness": "workspace:*",
         "@akasha/changes": "workspace:*",
-        "@akasha/checkout-version": "workspace:*",
         "@akasha/ci-benchmark": "workspace:*",
         "@akasha/comfy": "workspace:*",
         "@akasha/day": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/file-page-identity": "workspace:*",
+        "@akasha/git": "workspace:*",
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/icloud-photos": "workspace:*",
         "@akasha/imessage": "workspace:*",
@@ -616,13 +616,6 @@
         "@akasha/testing-system": "workspace:*",
         "@akasha/utils": "workspace:*",
         "typescript": "5.9.3",
-      },
-    },
-    "checkout-version": {
-      "name": "@akasha/checkout-version",
-      "dependencies": {
-        "@akasha/git": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "checks": {
@@ -2944,8 +2937,6 @@
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:alan/harness/calendar-sync"],
 
     "@akasha/changes": ["@akasha/changes@workspace:changes"],
-
-    "@akasha/checkout-version": ["@akasha/checkout-version@workspace:checkout-version"],
 
     "@akasha/checks": ["@akasha/checks@workspace:checks"],
 
