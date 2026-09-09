@@ -4,14 +4,12 @@ import type { Definition } from "./properties/definition.standard-agent-english-
 import type { Directives } from "./properties/directives.record-property.ts"
 import type { Expands } from "./properties/expands.boolean-property.ts"
 import type { Invariants } from "./properties/invariants.record-property.ts"
-import type { PartSlugs } from "./properties/part-slugs.relation-property.ts"
 import type { Parts } from "./properties/parts.relation-property.ts"
 import type { PluralSlug } from "./properties/plural-slug.text-property.ts"
 
 export type Domain = Page & {
   definition: Definition
   pluralSlug?: PluralSlug
-  partSlugs?: PartSlugs
   invariants?: Invariants
   directives?: Directives
   expands?: Expands
@@ -27,7 +25,6 @@ export const domain = {
     "relation-property/directive-kind",
     "relation-property/page-domain",
     "relation-property/invariant-kind",
-    "relation-property/part-slugs",
     "standard-agent-english-property/act",
     "standard-agent-english-property/aids",
     "standard-agent-english-property/definition",
@@ -45,12 +42,6 @@ export const domain = {
   properties: [
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },
     { pageProperty: "text-property/plural-slug", required: false, many: false },
-    {
-      pageProperty: "relation-property/part-slugs",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
     { pageProperty: "record-property/invariants", required: false, many: true, maxCount: null },
     { pageProperty: "record-property/directives", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/expands", required: false, many: false },
