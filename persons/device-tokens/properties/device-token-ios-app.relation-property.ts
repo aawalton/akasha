@@ -3,11 +3,11 @@ import type { RelationProperty } from "@akasha/pages/relation-property"
 
 export type IosAppSlug = Slug
 
-export const deviceTokenIosAppSlug = {
+export const deviceTokenIosApp = {
   id: "01a05dc7-77db-7e0b-a9c2-97d83c1cd9fd",
   pageTypeSlug: "relation-property",
-  slug: "device-token-ios-app-slug",
-  propertySlug: "ios-app-slug",
+  slug: "device-token-ios-app",
+  propertySlug: "ios-app",
   definition: "the app a push reaches on the device with a token",
   targetPageTypeSlug: "page-type/ios-app",
   invariants: [

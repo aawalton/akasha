@@ -23,7 +23,7 @@ const A_DEVICE_TOKEN = {
     pageTypeSlug: "device-token",
     slug: "held-one",
     personSlug: "alan",
-    iosAppSlug: "alanwalton",
+    iosApp: "alanwalton",
     lastSeenAt: AN_INSTANT,
   },
 }

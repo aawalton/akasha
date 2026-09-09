@@ -1,13 +1,13 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { IosAppSlug } from "./properties/device-token-ios-app-slug.relation-property.ts"
+import type { IosAppSlug } from "./properties/device-token-ios-app.relation-property.ts"
 import type { LastSeenAt } from "./properties/device-token-last-seen-at.instant-property.ts"
 import type { PersonSlug } from "./properties/device-token-person-slug.relation-property.ts"
 import type { Token } from "./properties/device-token-token.text-property.ts"
 
 export type DeviceToken = Page & {
   personSlug: PersonSlug
-  iosAppSlug: IosAppSlug
+  iosApp: IosAppSlug
   token: Token
   lastSeenAt?: LastSeenAt
 }
@@ -22,14 +22,14 @@ export const deviceToken = {
   mortal: true,
   partSlugs: [
     "instant-property/device-token-last-seen-at",
-    "relation-property/device-token-ios-app-slug",
+    "relation-property/device-token-ios-app",
     "relation-property/device-token-person-slug",
     "text-property/device-token-token",
   ],
   properties: [
     { pagePropertySlug: "relation-property/device-token-person-slug", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/device-token-ios-app-slug",
+      pagePropertySlug: "relation-property/device-token-ios-app",
       required: true,
       many: false,
     },
