@@ -3,8 +3,6 @@ import {
   readProxyState,
 } from "../../seat-proxy-state/seat-proxy-state.module.code.ts"
 
-export type { OAuthProxyState }
-
 export type ProxyStopDecision = { stop: boolean; reason: string }
 
 export function decideProxyStop(input: {

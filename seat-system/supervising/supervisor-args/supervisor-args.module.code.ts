@@ -1,8 +1,6 @@
 import type { SeatResumeDriver } from "@akasha/seat-system/seat-resume-driver"
 import { HEADLESS_FLAG } from "../../seat-modes/seat-modes.module.code.ts"
 
-export type { SeatResumeDriver }
-
 export type ParsedArgs = {
   prompt: string
   resume: boolean
