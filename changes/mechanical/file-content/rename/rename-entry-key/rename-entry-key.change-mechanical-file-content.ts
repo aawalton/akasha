@@ -41,7 +41,7 @@ export const renameEntryKey = {
     },
     {
       invariantKind: "departure",
-      statement: "A body stating that key in no entry is refused.",
+      statement: "A body stating that key in no entry answers no edit rather than being refused.",
     },
     {
       invariantKind: "departure",

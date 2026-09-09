@@ -71,11 +71,11 @@ test("a key held by one entry alone is respelled on its own line", () => {
   )
 })
 
-test("a body stating that key in no entry is refused", () => {
+test("a body stating that key in no entry answers no edit rather than being refused", () => {
   const said = ranOn("categorySlug", "category")
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${AT}\` states no \`categorySlug\``)
+  expect(said.refused).toBeNull()
 })
 
 test("a body whose entry already states the key asked for is refused", () => {

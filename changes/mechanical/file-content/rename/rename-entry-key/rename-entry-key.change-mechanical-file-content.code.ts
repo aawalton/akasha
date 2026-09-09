@@ -108,8 +108,7 @@ export function respelled(path: string, text: string, was: string, now: string):
   if (held === null) return refusing(`\`${path}\` ${NO_ENTRIES}`)
   if (held.holding) return refusing(`\`${path}\` states \`${now}\` already`)
   const over = overAll(text, held.spots)
-  if (over === null) return refusing(`\`${path}\` states no \`${was}\``)
-  return stating(spliced(path, text, over))
+  return over === null ? stating([]) : stating(spliced(path, text, over))
 }
 
 export type Given = {
