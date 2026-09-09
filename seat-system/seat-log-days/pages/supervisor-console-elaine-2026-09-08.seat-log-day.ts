@@ -4,7 +4,7 @@ export const supervisorConsoleElaine20260908 = {
   id: "01a08064-5cbf-7ecf-aae2-aa8ab65af1bf",
   pageTypeSlug: "seat-log-day",
   slug: "supervisor-console-elaine-2026-09-08",
-  sourceSlug: "supervisor-console",
+  source: "supervisor-console",
   seatName: "elaine",
   date: "2026-09-08",
 } as const satisfies SeatLogDay

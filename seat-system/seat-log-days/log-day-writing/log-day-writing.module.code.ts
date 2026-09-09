@@ -87,7 +87,7 @@ export function dayBodyOf(
     `export const ${exportedAs(slug)} = {`,
     `  pageTypeSlug: ${said(typeSlugOf(root, SEAT_LOG_DAY_TYPE))},`,
     `  slug: ${said(slug)},`,
-    `  sourceSlug: ${said(source)},`,
+    `  source: ${said(source)},`,
     `  seatName: ${said(seatName)},`,
     `  date: ${said(date)},`,
     "} as const satisfies SeatLogDay",
