@@ -1,4 +1,7 @@
-import type { DepSentence, DepToken } from "@akasha/plain-language/dependency-graph"
+import type {
+  DepSentence,
+  DepToken,
+} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 import {
   byId,
   child,
@@ -6,7 +9,7 @@ import {
   hasChild,
   lower,
   subtree,
-} from "@akasha/plain-language/dependency-graph"
+} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 import type { Frame } from "../terms/banned-terms/properties/prose-frame.relation-property.ts"
 
 export type Found = {

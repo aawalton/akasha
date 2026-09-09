@@ -5,7 +5,7 @@ export const noPredicateSeparatesAParseErrorFromARefusal = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "no-predicate-separates-a-parse-error-from-a-refusal",
-  domain: "workspace-package/plain-language",
+  domain: "domain/plain-language",
   claim:
     "The false refusals left in lone-quantifier and lone-determiner are parser mistakes rather than shape design, and no predicate over the parse separates them. Every discriminator that would separate them is the very thing the parser gets wrong: whether the word after the quantifier is a noun or a verb. Four candidate rules were measured over the whole population before landing and all four were rejected, two for cutting true refusals at the same rate as the artifacts and two for cutting almost nothing. So a shape narrowed as far as a predicate can narrow it still refuses about a fifth to a quarter of what it names, and turning the check on at patch enforces that share.",
   evidence:

@@ -1,4 +1,7 @@
-import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predicate"
+import type {
+  Match,
+  ShapePredicate,
+} from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
 import {
   fillsNounSlot,
   fillsNounSlotAsFreeRelative,
@@ -10,7 +13,7 @@ import {
   isQuantifier,
   isReflexive,
   isRelative,
-} from "@akasha/plain-language/shape-predicate"
+} from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
 
 export const lonePronoun: ShapePredicate = (sentence) => {
   const found: Match[] = []

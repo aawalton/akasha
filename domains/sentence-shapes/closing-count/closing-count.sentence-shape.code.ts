@@ -1,7 +1,16 @@
-import type { DepSentence, DepToken } from "@akasha/plain-language/dependency-graph"
-import { childrenOf, lower } from "@akasha/plain-language/dependency-graph"
-import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predicate"
-import { isSummingCount } from "@akasha/plain-language/shape-predicate"
+import type {
+  DepSentence,
+  DepToken,
+} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import {
+  childrenOf,
+  lower,
+} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import type {
+  Match,
+  ShapePredicate,
+} from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
+import { isSummingCount } from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
 
 const MARKERS = ["case", "cc", "advmod", "det", "punct"]
 

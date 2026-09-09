@@ -482,12 +482,6 @@
         "tailwindcss": "^4.0",
       },
     },
-    "domains/plain-language": {
-      "name": "@akasha/plain-language",
-      "dependencies": {
-        "onnxruntime-node": "1.29.0",
-      },
-    },
     "editor-extension": {
       "name": "@akasha/editor-extension",
       "dependencies": {
@@ -1150,8 +1144,6 @@
     "@akasha/pages-url": ["@akasha/pages-url@workspace:pages/url"],
 
     "@akasha/persons": ["@akasha/persons@workspace:persons"],
-
-    "@akasha/plain-language": ["@akasha/plain-language@workspace:domains/plain-language"],
 
     "@akasha/rules-engine": ["@akasha/rules-engine@workspace:alan/harness/rules-engine"],
 

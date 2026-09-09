@@ -5,7 +5,7 @@ export const rynStandardAgentEnglish = {
   pageTypeSlug: "initiative",
   type: "initiative",
   slug: "ryn-standard-agent-english",
-  domain: "workspace-package/plain-language",
+  domain: "domain/plain-language",
   persona: "ryn",
   intents: [
     {

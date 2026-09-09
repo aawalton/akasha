@@ -1,5 +1,5 @@
-import type { DepSentence } from "@akasha/plain-language/dependency-graph"
-import { makeSentence } from "@akasha/plain-language/dependency-graph"
+import type { DepSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import { makeSentence } from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
 
 export type Row = readonly [string, string, number, string]
 

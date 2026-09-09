@@ -1,6 +1,15 @@
-import type { DepSentence, DepToken } from "@akasha/plain-language/dependency-graph"
-import { childrenByRel, lower } from "@akasha/plain-language/dependency-graph"
-import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predicate"
+import type {
+  DepSentence,
+  DepToken,
+} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import {
+  childrenByRel,
+  lower,
+} from "akasha/domains/plain-language/dependency-graph/dependency-graph.module.code.ts"
+import type {
+  Match,
+  ShapePredicate,
+} from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
 import {
   determinesABacktickedName,
   fillsNounSlot,
@@ -10,7 +19,7 @@ import {
   isReciprocal,
   marksADegree,
   partsOf,
-} from "@akasha/plain-language/shape-predicate"
+} from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
 
 function marksBy(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, "case").some((one) => lower(one) === "by")

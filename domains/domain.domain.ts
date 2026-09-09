@@ -18,7 +18,7 @@ export const domain = {
     "page-type/directive-kind",
     "page-type/taboo-term",
     "page-type/sentence-shape",
-    "workspace-package/plain-language",
+    "domain/plain-language",
     "domain/standard-agent-english",
     "domain/domain-purpose",
     "domain/domain-champions",

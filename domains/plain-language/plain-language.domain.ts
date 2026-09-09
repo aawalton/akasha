@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domain.page-type.ts"
 
 export const plainLanguage = {
   id: "01a05d93-dbec-79d5-a299-9264b3de7464",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "plain-language",
   definition: "whether a sentence is written in plain language",
-  manifest: "json",
   parts: [
     "module/parse-doubt",
     "module/shape-reading",
@@ -40,4 +39,4 @@ export const plainLanguage = {
       statement: "A statement is read alone rather than beside the statements sharing its file.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

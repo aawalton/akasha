@@ -1,11 +1,14 @@
-import type { Match, ShapePredicate } from "@akasha/plain-language/shape-predicate"
+import type {
+  Match,
+  ShapePredicate,
+} from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
 import {
   countsItsParts,
   fillsNounSlot,
   isQuantifier,
   marksAProportion,
   partsOf,
-} from "@akasha/plain-language/shape-predicate"
+} from "akasha/domains/plain-language/shape-predicate/shape-predicate.module.code.ts"
 
 export const partitiveQuantifier: ShapePredicate = (sentence) => {
   const found: Match[] = []
