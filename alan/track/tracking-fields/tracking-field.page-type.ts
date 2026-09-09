@@ -1,7 +1,4 @@
-import type { PageProperty } from "@akasha/pages/page-property"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type TrackingField = PageProperty
 
 export const trackingField = {
   id: "01a06827-ec0c-79f7-864d-da0cf491975e",
@@ -29,4 +26,5 @@ export const trackingField = {
       statement: "No property here declares the capture a field names.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
