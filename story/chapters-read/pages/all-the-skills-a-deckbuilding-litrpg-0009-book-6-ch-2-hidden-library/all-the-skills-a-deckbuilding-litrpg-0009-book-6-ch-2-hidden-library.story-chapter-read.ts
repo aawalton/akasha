@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0009Book6Ch2HiddenLibrary = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0009-book-6-ch-2-hidden-library",
   title: "Book 6 Ch 2: Hidden Library",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 9,
   ownLength: 1836,
   ownProgress: 1836,

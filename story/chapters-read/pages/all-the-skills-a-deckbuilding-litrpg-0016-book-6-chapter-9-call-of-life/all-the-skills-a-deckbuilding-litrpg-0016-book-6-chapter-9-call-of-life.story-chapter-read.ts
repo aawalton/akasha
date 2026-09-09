@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0016Book6Chapter9CallOfLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0016-book-6-chapter-9-call-of-life",
   title: "Book 6 Chapter 9: Call of Life",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 16,
   ownLength: 2072,
   ownProgress: 2072,

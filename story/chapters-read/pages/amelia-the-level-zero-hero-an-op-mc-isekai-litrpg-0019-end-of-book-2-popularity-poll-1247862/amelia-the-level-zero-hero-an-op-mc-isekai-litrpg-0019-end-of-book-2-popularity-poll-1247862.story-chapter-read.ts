@@ -4,7 +4,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0019EndOfBook2PopularityPol
   id: "01a08391-fa55-7649-a1df-1c1b39299058",
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0019-end-of-book-2-popularity-poll-1247862",
-  storySlug: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 19,
   publishedAt: "2023-06-16",
   unitSlug: "words",

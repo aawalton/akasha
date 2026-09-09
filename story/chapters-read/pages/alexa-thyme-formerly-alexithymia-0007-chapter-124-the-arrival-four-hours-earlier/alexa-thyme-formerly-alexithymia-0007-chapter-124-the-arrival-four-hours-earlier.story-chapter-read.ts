@@ -5,7 +5,7 @@ export const alexaThymeFormerlyAlexithymia0007Chapter124TheArrivalFourHoursEarli
   pageTypeSlug: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0007-chapter-124-the-arrival-four-hours-earlier",
   title: "Chapter 124  The Arrival (Four Hours Earlier)",
-  storySlug: "alexa-thyme-formerly-alexithymia",
+  story: "alexa-thyme-formerly-alexithymia",
   position: 7,
   ownLength: 3037,
   unitSlug: "words",

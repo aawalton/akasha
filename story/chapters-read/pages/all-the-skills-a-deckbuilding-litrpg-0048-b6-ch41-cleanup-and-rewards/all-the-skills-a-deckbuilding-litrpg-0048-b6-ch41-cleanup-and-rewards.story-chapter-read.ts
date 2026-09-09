@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0048B6Ch41CleanupAndRewards = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0048-b6-ch41-cleanup-and-rewards",
   title: "B6 Ch41: Cleanup and Rewards",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 48,
   ownLength: 2468,
   unitSlug: "words",

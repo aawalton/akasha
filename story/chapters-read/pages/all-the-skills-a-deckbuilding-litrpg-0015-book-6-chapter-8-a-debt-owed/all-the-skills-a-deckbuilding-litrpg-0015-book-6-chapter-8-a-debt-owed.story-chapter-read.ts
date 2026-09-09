@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0015Book6Chapter8ADebtOwed = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0015-book-6-chapter-8-a-debt-owed",
   title: "Book 6 Chapter 8: A Debt Owed",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 15,
   ownLength: 2520,
   ownProgress: 2520,

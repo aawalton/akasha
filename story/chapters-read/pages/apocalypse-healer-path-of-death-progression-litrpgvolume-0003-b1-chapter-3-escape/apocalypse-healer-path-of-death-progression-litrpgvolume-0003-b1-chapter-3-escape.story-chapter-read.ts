@@ -5,7 +5,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0003B1Chapter3Esc
   pageTypeSlug: "story-chapter-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume-0003-b1-chapter-3-escape",
   title: "B1 Chapter 3 - Escape",
-  storySlug: "apocalypse-healer-path-of-death-progression-litrpgvolume",
+  story: "apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 3,
   ownLength: 1967,
   unitSlug: "words",

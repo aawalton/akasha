@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0039B6Ch32Leadership = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0039-b6-ch32-leadership",
   title: "B6 Ch32: Leadership",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 39,
   ownLength: 2055,
   unitSlug: "words",

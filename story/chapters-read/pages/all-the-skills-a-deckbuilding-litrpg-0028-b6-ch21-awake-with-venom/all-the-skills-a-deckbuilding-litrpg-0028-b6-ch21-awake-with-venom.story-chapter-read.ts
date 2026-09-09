@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0028B6Ch21AwakeWithVenom = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0028-b6-ch21-awake-with-venom",
   title: "B6 Ch21: Awake With Venom",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 28,
   ownLength: 1538,
   ownProgress: 1538,

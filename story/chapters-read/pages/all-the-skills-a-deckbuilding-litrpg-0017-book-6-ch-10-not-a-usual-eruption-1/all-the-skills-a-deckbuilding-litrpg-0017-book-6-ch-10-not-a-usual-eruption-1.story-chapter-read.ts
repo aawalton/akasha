@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0017Book6Ch10NotAUsualEruption1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0017-book-6-ch-10-not-a-usual-eruption-1",
   title: "Book 6 Ch 10: Not A Usual Eruption (1)",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 17,
   ownLength: 1999,
   ownProgress: 1999,

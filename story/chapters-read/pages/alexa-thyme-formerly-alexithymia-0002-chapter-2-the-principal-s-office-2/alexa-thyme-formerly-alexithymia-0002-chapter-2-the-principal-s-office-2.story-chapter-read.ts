@@ -5,7 +5,7 @@ export const alexaThymeFormerlyAlexithymia0002Chapter2ThePrincipalSOffice2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0002-chapter-2-the-principal-s-office-2",
   title: "Chapter 2  The Principal’s Office (2)",
-  storySlug: "alexa-thyme-formerly-alexithymia",
+  story: "alexa-thyme-formerly-alexithymia",
   position: 2,
   ownLength: 2837,
   unitSlug: "words",

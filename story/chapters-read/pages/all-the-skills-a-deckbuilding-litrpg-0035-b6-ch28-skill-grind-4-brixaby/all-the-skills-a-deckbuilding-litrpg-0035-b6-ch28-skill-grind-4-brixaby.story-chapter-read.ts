@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0035B6Ch28SkillGrind4Brixaby = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0035-b6-ch28-skill-grind-4-brixaby",
   title: "B6 Ch28: Skill Grind (4) (Brixaby)",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 35,
   ownLength: 2561,
   ownProgress: 2561,

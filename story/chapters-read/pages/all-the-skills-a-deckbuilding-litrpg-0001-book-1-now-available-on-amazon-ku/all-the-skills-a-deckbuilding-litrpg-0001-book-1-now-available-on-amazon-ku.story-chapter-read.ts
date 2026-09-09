@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0001Book1NowAvailableOnAmazonKu = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0001-book-1-now-available-on-amazon-ku",
   title: "Book 1 - Now Available on Amazon KU",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 1,
   ownLength: 70,
   ownProgress: 70,

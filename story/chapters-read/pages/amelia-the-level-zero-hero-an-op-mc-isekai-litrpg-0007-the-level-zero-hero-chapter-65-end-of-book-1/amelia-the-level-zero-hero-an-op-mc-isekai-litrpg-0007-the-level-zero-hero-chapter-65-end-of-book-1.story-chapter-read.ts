@@ -5,7 +5,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0007TheLevelZeroHeroChapter
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0007-the-level-zero-hero-chapter-65-end-of-book-1",
   title: "The Level Zero [Hero] Chapter 65 (End of Book 1)",
-  storySlug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 7,
   ownLength: 2817,
   unitSlug: "words",

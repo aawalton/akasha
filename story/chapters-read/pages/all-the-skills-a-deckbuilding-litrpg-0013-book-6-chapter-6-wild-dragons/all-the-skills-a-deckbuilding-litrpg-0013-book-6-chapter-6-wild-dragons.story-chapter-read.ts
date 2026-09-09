@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0013Book6Chapter6WildDragons = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0013-book-6-chapter-6-wild-dragons",
   title: "Book 6 Chapter 6: Wild Dragons",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 13,
   ownLength: 1997,
   ownProgress: 1997,

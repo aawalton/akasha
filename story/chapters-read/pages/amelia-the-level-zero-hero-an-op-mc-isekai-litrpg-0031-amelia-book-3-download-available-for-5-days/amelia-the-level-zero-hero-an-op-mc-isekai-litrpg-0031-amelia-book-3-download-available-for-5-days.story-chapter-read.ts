@@ -5,7 +5,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0031AmeliaBook3DownloadAvai
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0031-amelia-book-3-download-available-for-5-days",
   title: "Amelia Book 3 Download (Available for 5 days)",
-  storySlug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 31,
   ownLength: 73,
   unitSlug: "words",

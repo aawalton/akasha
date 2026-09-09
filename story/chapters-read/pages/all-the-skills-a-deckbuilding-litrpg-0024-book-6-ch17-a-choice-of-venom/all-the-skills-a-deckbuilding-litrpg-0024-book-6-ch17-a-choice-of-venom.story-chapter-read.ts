@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0024Book6Ch17AChoiceOfVenom = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0024-book-6-ch17-a-choice-of-venom",
   title: "Book 6 Ch17: A Choice of Venom",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 24,
   ownLength: 2591,
   ownProgress: 2591,

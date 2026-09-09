@@ -4,7 +4,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0031AmeliaBook3DownloadAvai
   id: "01a08392-0571-7c8b-bfda-93d34703000b",
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0031-amelia-book-3-download-available-for-1403176",
-  storySlug: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 31,
   publishedAt: "2023-11-09",
   unitSlug: "words",

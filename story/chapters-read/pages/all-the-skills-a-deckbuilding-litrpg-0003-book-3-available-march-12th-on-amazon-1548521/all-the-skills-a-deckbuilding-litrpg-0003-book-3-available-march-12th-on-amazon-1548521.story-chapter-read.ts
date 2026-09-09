@@ -4,7 +4,7 @@ export const allTheSkillsADeckbuildingLitrpg0003Book3AvailableMarch12thOnAmazon1
   id: "01a08391-e5ba-7f24-93cc-bf58fe6c6d74",
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0003-book-3-available-march-12th-on-amazon-1548521",
-  storySlug: "story-read/all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 3,
   publishedAt: "2024-03-10",
   unitSlug: "words",

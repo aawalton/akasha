@@ -4,7 +4,7 @@ export const alexaThymeFormerlyAlexithymia0004Chapter42SundayIntoMondayReunion10
   id: "01a08391-dd08-7e33-85d9-8c3733e499d8",
   pageTypeSlug: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0004-chapter-42-sunday-into-monday-reunion-1048956",
-  storySlug: "story-read/alexa-thyme-formerly-alexithymia",
+  story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 4,
   publishedAt: "2022-11-25",
   unitSlug: "words",

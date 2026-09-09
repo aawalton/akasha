@@ -4,7 +4,7 @@ export const alexaThymeFormerlyAlexithymia0003PrologueIi1048234 = {
   id: "01a08391-dc20-7f76-86ad-ae773331e393",
   pageTypeSlug: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0003-prologue-ii-1048234",
-  storySlug: "story-read/alexa-thyme-formerly-alexithymia",
+  story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 3,
   publishedAt: "2022-11-24",
   unitSlug: "words",

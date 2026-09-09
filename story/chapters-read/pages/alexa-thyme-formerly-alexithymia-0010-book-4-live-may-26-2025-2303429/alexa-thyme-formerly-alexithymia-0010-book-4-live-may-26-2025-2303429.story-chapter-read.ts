@@ -4,7 +4,7 @@ export const alexaThymeFormerlyAlexithymia0010Book4LiveMay2620252303429 = {
   id: "01a08391-e22e-7282-b87f-f90459c5fb1e",
   pageTypeSlug: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0010-book-4-live-may-26-2025-2303429",
-  storySlug: "story-read/alexa-thyme-formerly-alexithymia",
+  story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 10,
   publishedAt: "2025-05-24",
   unitSlug: "words",

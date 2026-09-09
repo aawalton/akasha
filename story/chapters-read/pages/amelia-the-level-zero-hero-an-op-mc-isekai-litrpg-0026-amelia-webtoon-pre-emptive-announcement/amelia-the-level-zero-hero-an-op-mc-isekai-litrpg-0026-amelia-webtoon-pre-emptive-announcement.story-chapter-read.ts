@@ -5,7 +5,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0026AmeliaWebtoonPreEmptive
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0026-amelia-webtoon-pre-emptive-announcement",
   title: "AMELIA WEBTOON (pre-emptive) ANNOUNCEMENT + Patreon tier updates",
-  storySlug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 26,
   ownLength: 489,
   unitSlug: "words",

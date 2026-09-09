@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0014Book6Chapter7RetinueMeeting = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0014-book-6-chapter-7-retinue-meeting",
   title: "Book 6 Chapter 7 - Retinue Meeting",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 14,
   ownLength: 1097,
   ownProgress: 1097,

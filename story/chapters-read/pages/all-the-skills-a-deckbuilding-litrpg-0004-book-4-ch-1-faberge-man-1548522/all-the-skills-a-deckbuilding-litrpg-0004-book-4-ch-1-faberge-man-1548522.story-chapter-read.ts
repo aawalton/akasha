@@ -4,7 +4,7 @@ export const allTheSkillsADeckbuildingLitrpg0004Book4Ch1FabergeMan1548522 = {
   id: "01a08391-e693-76b9-bc87-4d0fcf0de286",
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0004-book-4-ch-1-faberge-man-1548522",
-  storySlug: "story-read/all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 4,
   publishedAt: "2024-03-10",
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0004Book4Ch1FabergeMan = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0004-book-4-ch-1-faberge-man",
   title: "Book 4 Ch 1: Faberge Man",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 4,
   ownLength: 2017,
   ownProgress: 2017,

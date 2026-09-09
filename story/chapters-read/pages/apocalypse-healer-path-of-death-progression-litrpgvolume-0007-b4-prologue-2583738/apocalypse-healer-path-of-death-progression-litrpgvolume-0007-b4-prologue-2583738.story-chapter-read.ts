@@ -4,7 +4,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0007B4Prologue258
   id: "01a08392-482c-7f5a-a239-e64f5919cc76",
   pageTypeSlug: "story-chapter-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume-0007-b4-prologue-2583738",
-  storySlug: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
+  story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 7,
   publishedAt: "2025-09-08",
   unitSlug: "words",

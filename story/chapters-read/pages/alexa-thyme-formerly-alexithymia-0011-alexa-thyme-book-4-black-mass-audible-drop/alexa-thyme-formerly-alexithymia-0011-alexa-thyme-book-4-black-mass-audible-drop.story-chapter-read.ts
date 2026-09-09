@@ -5,7 +5,7 @@ export const alexaThymeFormerlyAlexithymia0011AlexaThymeBook4BlackMassAudibleDro
   pageTypeSlug: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0011-alexa-thyme-book-4-black-mass-audible-drop",
   title: "Alexa Thyme Book 4  Black Mass Audible Drop",
-  storySlug: "alexa-thyme-formerly-alexithymia",
+  story: "alexa-thyme-formerly-alexithymia",
   position: 11,
   ownLength: 91,
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume0004B2Chapter1Ego
   id: "01a08392-4584-7ba7-9d48-9bfe74076cbc",
   pageTypeSlug: "story-chapter-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume-0004-b2-chapter-1-egoist-2041779",
-  storySlug: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
+  story: "story-read/apocalypse-healer-path-of-death-progression-litrpgvolume",
   position: 4,
   publishedAt: "2025-02-01",
   unitSlug: "words",

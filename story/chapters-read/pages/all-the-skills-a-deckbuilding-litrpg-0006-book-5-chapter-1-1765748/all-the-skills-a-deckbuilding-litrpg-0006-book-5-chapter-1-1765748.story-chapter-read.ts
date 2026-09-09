@@ -4,7 +4,7 @@ export const allTheSkillsADeckbuildingLitrpg0006Book5Chapter11765748 = {
   id: "01a08391-e855-7244-98e0-8a8b789228e3",
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0006-book-5-chapter-1-1765748",
-  storySlug: "story-read/all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 6,
   publishedAt: "2024-08-19",
   unitSlug: "words",

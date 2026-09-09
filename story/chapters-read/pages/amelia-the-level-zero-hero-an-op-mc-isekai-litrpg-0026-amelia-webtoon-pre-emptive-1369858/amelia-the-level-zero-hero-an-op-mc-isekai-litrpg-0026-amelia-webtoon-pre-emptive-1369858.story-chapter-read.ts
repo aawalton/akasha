@@ -4,7 +4,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0026AmeliaWebtoonPreEmptive
   id: "01a08392-00cc-7082-9c76-11135bd829fb",
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0026-amelia-webtoon-pre-emptive-1369858",
-  storySlug: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 26,
   publishedAt: "2023-10-10",
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0024Book2ChaptersHaveBeenRe
   id: "01a08391-feec-7883-89ba-6f18b9be95cd",
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0024-book-2-chapters-have-been-removed-1273183",
-  storySlug: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 24,
   publishedAt: "2023-07-10",
   unitSlug: "words",

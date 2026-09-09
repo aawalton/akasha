@@ -6,7 +6,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0045AfterNearlyTwoYearsTheA
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0045-after-nearly-two-years-the-amelia-the-level",
   title:
     "After nearly two years, the Amelia the Level Zero Hero Webtoon Original is finally out! Check it out",
-  storySlug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 45,
   ownLength: 120,
   unitSlug: "words",

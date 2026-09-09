@@ -4,7 +4,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0039TheLevelZeroHeroChapter
   id: "01a08392-3c7b-7201-8af5-a49e06583cf3",
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0039-the-level-zero-hero-chapter-251-1772338",
-  storySlug: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 39,
   publishedAt: "2024-08-24",
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0044B6Ch37TheEarthFellAway = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0044-b6-ch37-the-earth-fell-away",
   title: "B6 Ch37: The Earth Fell Away",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 44,
   ownLength: 2080,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0029AtsB6Ch22TheTrustedFew = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0029-ats-b6-ch22-the-trusted-few",
   title: "ATS B6 Ch22: The Trusted Few",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 29,
   ownLength: 3031,
   ownProgress: 3031,

@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0020Book6Chapter13LotsAndLotsAndLots
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0020-book-6-chapter-13-lots-and-lots-and-lots-of-grubs",
   title: "Book 6 Chapter 13: Lots and Lots and Lots of Grubs",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 20,
   ownLength: 2696,
   ownProgress: 2696,

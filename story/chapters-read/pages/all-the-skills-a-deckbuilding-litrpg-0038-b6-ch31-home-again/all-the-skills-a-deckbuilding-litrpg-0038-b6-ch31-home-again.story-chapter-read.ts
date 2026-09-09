@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0038B6Ch31HomeAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0038-b6-ch31-home-again",
   title: "B6 Ch31: Home Again",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 38,
   ownLength: 1728,
   ownProgress: 209,

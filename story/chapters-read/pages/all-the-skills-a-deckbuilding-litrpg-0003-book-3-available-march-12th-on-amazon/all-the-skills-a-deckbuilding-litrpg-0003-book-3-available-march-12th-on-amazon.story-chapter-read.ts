@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0003Book3AvailableMarch12thOnAmazon 
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0003-book-3-available-march-12th-on-amazon",
   title: "Book 3: Available March 12th on Amazon!",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 3,
   ownLength: 66,
   ownProgress: 66,

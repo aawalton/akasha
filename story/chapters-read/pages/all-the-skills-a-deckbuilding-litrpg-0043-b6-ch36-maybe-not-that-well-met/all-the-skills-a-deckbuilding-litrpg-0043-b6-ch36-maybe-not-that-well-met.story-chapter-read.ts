@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0043B6Ch36MaybeNotThatWellMet = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0043-b6-ch36-maybe-not-that-well-met",
   title: "B6 Ch36: Maybe Not That Well Met",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 43,
   ownLength: 1735,
   unitSlug: "words",

@@ -4,7 +4,7 @@ export const allTheSkillsADeckbuildingLitrpg0005AnnouncementBook3OutNowAlso15517
   id: "01a08391-e780-749d-b520-6e38c216b5dc",
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0005-announcement-book-3-out-now-also-1551720",
-  storySlug: "story-read/all-the-skills-a-deckbuilding-litrpg",
+  story: "story-read/all-the-skills-a-deckbuilding-litrpg",
   position: 5,
   publishedAt: "2024-03-12",
   unitSlug: "words",

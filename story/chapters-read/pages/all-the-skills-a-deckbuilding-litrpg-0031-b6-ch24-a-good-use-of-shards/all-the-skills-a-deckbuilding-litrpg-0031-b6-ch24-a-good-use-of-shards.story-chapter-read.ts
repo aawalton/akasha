@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0031B6Ch24AGoodUseOfShards = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0031-b6-ch24-a-good-use-of-shards",
   title: "B6 Ch24: A Good (?) Use of Shards",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 31,
   ownLength: 1858,
   ownProgress: 1858,

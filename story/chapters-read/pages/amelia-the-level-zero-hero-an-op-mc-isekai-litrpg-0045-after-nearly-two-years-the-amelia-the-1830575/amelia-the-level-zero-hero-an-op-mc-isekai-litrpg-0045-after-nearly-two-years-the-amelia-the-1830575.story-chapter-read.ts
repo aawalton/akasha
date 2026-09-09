@@ -4,7 +4,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0045AfterNearlyTwoYearsTheA
   id: "01a08392-41ec-78ef-a363-077f7b6d41b6",
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0045-after-nearly-two-years-the-amelia-the-1830575",
-  storySlug: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 45,
   publishedAt: "2024-10-02",
   unitSlug: "words",

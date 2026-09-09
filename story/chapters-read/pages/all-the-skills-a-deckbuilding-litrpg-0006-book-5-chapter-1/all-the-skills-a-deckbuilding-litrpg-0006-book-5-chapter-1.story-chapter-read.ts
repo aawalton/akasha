@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0006Book5Chapter1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0006-book-5-chapter-1",
   title: "Book 5: Chapter 1",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 6,
   ownLength: 2037,
   ownProgress: 2037,

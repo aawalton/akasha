@@ -5,7 +5,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0025AmeliaBook2IsNowAvailab
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0025-amelia-book-2-is-now-available-on-amazon-ku",
   title: "Amelia Book 2 is now available on Amazon KU!",
-  storySlug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 25,
   ownLength: 112,
   unitSlug: "words",

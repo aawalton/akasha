@@ -5,7 +5,7 @@ export const alexaThymeFormerlyAlexithymia0009Book13Live = {
   pageTypeSlug: "story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0009-book-1-3-live",
   title: "Book 1 - 3 Live.",
-  storySlug: "alexa-thyme-formerly-alexithymia",
+  story: "alexa-thyme-formerly-alexithymia",
   position: 9,
   ownLength: 110,
   unitSlug: "words",

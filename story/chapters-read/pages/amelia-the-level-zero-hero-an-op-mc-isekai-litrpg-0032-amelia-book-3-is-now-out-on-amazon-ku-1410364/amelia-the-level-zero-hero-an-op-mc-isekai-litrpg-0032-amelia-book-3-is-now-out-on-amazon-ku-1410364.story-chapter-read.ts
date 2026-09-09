@@ -4,7 +4,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg0032AmeliaBook3IsNowOutOnAm
   id: "01a08392-0656-709c-bcb6-668e5845f7e8",
   pageTypeSlug: "story-chapter-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg-0032-amelia-book-3-is-now-out-on-amazon-ku-1410364",
-  storySlug: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
+  story: "story-read/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   position: 32,
   publishedAt: "2023-11-15",
   unitSlug: "words",

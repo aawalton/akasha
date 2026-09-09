@@ -5,7 +5,7 @@ export const allTheSkillsADeckbuildingLitrpg0026Book6Chapter19ReturnToStart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "all-the-skills-a-deckbuilding-litrpg-0026-book-6-chapter-19-return-to-start-2",
   title: "Book 6 Chapter 19: Return To Start (2)",
-  storySlug: "all-the-skills-a-deckbuilding-litrpg",
+  story: "all-the-skills-a-deckbuilding-litrpg",
   position: 26,
   ownLength: 2436,
   ownProgress: 2436,
