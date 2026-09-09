@@ -1686,6 +1686,14 @@
         "@akasha/utils": "workspace:*",
       },
     },
+    "temper/completion": {
+      "name": "@akasha/temper-completion",
+      "dependencies": {
+        "@akasha/temper-capture-host": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
     "temper/completion-import": {
       "name": "@akasha/temper-completion-import",
       "dependencies": {
@@ -2294,14 +2302,6 @@
       },
       "peerDependencies": {
         "react": "^18 || ^19",
-      },
-    },
-    "temper/temper-completion": {
-      "name": "@akasha/temper-completion",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "temper/temper-crafting-addon": {
@@ -3136,7 +3136,7 @@
 
     "@akasha/temper-companions-ui": ["@akasha/temper-companions-ui@workspace:temper/temper-companions-ui"],
 
-    "@akasha/temper-completion": ["@akasha/temper-completion@workspace:temper/temper-completion"],
+    "@akasha/temper-completion": ["@akasha/temper-completion@workspace:temper/completion"],
 
     "@akasha/temper-completion-import": ["@akasha/temper-completion-import@workspace:temper/completion-import"],
 
