@@ -58,6 +58,13 @@ export const codeSystem = {
     "page-type/lualib",
     "page-type/performance",
   ],
+  invariants: [
+    {
+      invariantKind: "constraint",
+      statement:
+        "A spawned child has the environment its parent started with unless the spawn states `env`.",
+    },
+  ],
   directives: [
     {
       directiveKind: "rule",
