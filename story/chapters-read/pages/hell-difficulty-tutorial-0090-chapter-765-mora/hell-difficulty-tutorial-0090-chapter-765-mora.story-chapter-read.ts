@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0090Chapter765Mora = {
   story: "story-read/hell-difficulty-tutorial",
   position: 90,
   ownLength: 2472,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-05",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3120581/chapter-765-mora",

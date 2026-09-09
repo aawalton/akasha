@@ -8,7 +8,7 @@ export const hellHorizonHealer0018Chapter18LifeAndDeath = {
   story: "hell-horizon-healer",
   position: 18,
   ownLength: 1996,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-16",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3548737/chapter-18-life-and-death",

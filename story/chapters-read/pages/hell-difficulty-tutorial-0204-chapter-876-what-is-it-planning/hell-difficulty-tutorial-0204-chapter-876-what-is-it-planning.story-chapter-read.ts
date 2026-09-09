@@ -7,7 +7,7 @@ export const hellDifficultyTutorial0204Chapter876WhatIsItPlanning = {
   story: "story-read/hell-difficulty-tutorial",
   position: 204,
   publishedAt: "2026-09-06",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3922110",
   source: "royal-road",
   title: "Chapter 876 - What is it planning?",

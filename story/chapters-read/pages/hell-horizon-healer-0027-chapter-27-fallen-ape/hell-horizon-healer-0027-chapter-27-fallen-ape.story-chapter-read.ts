@@ -8,7 +8,7 @@ export const hellHorizonHealer0027Chapter27FallenApe = {
   story: "hell-horizon-healer",
   position: 27,
   ownLength: 1526,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-30",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3613641/chapter-27-fallen-ape",

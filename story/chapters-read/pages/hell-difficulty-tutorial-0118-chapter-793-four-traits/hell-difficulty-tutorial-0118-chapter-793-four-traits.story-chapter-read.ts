@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0118Chapter793FourTraits = {
   story: "story-read/hell-difficulty-tutorial",
   position: 118,
   ownLength: 2415,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-14",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3274393/chapter-793-four-traits",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0165Chapter838TheDealIsMade = {
   story: "story-read/hell-difficulty-tutorial",
   position: 165,
   ownLength: 3085,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-14",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3677601/chapter-838-the-deal-is-made",

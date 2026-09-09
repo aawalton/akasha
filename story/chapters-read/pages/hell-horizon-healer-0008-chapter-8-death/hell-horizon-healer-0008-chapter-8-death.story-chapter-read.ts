@@ -8,7 +8,7 @@ export const hellHorizonHealer0008Chapter8Death = {
   story: "hell-horizon-healer",
   position: 8,
   ownLength: 1441,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521176/chapter-8-death",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0152Chapter825CutiePatootie = {
   story: "story-read/hell-difficulty-tutorial",
   position: 152,
   ownLength: 2400,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3526138/chapter-825-cutie-patootie",

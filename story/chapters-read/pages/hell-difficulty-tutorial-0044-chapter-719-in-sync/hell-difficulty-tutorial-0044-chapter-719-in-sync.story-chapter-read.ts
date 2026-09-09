@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0044Chapter719InSync = {
   story: "story-read/hell-difficulty-tutorial",
   position: 44,
   ownLength: 2084,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-24",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2877652/chapter-719-in-sync",

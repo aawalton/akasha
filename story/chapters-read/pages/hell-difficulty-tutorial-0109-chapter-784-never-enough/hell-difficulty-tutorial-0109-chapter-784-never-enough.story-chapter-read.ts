@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0109Chapter784NeverEnough = {
   story: "story-read/hell-difficulty-tutorial",
   position: 109,
   ownLength: 2668,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3220136/chapter-784-never-enough",

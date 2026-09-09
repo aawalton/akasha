@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0193Chapter865BeforeTheThirdGame = {
   story: "story-read/hell-difficulty-tutorial",
   position: 193,
   ownLength: 2358,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-20",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3840536/chapter-865-before-the-third-game",

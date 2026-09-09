@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0125Chapter799VaultNumber2 = {
   story: "story-read/hell-difficulty-tutorial",
   position: 125,
   ownLength: 2173,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3364086/chapter-799-vault-number-2",

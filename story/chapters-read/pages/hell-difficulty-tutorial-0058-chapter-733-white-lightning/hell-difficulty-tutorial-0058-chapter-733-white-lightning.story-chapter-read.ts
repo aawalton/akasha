@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0058Chapter733WhiteLightning = {
   story: "story-read/hell-difficulty-tutorial",
   position: 58,
   ownLength: 2186,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-20",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2962670/chapter-733-white-lightning",

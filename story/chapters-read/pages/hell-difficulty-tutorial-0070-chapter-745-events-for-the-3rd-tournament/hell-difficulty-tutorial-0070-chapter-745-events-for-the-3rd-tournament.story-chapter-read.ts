@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0070Chapter745EventsForThe3rdTournament = {
   story: "story-read/hell-difficulty-tutorial",
   position: 70,
   ownLength: 2634,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-05",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3016629/chapter-745-events-for-the-3rd-tournament",

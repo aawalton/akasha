@@ -8,7 +8,7 @@ export const hellHorizonHealer0022Chapter22PromiseIsAPromise = {
   story: "hell-horizon-healer",
   position: 22,
   ownLength: 2058,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-23",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3580872/chapter-22-promise-is-a-promise",

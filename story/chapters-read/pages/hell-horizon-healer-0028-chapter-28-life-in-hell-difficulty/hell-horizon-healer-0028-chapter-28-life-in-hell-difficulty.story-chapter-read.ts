@@ -8,7 +8,7 @@ export const hellHorizonHealer0028Chapter28LifeInHellDifficulty = {
   story: "hell-horizon-healer",
   position: 28,
   ownLength: 1636,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-01",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3618342/chapter-28-life-in-hell-difficulty",

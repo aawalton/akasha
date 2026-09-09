@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0020Chapter20CreaturesOfTheAbyss = 
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 20,
   ownLength: 1777,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3716518/chapter-20-creatures-of-the-abyss",

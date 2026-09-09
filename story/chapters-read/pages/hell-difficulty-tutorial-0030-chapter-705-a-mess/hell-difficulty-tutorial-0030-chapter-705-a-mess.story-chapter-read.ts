@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0030Chapter705AMess = {
   story: "story-read/hell-difficulty-tutorial",
   position: 30,
   ownLength: 2227,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-04",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2819463/chapter-705-a-mess",

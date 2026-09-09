@@ -8,7 +8,7 @@ export const hellHorizonHealer0020Chapter20RentIsDue = {
   story: "hell-horizon-healer",
   position: 20,
   ownLength: 1495,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-18",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3557788/chapter-20-rent-is-due",

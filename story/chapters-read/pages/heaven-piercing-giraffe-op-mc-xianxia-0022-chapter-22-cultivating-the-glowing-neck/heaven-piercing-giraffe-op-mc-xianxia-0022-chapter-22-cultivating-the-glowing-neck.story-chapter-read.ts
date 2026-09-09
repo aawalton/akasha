@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0022Chapter22CultivatingTheGlowingN
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 22,
   ownLength: 1923,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-01",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3753344/chapter-22-cultivating-the-glowing-neck",

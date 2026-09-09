@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0163Chapter836LetsCheckOutTheSurface = {
   story: "story-read/hell-difficulty-tutorial",
   position: 163,
   ownLength: 2597,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-28",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3604634/chapter-836-lets-check-out-the-surface",

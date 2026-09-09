@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0157Chapter830WerewolfAndLeviathanFish = {
   story: "story-read/hell-difficulty-tutorial",
   position: 157,
   ownLength: 2489,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-18",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3558572/chapter-830-werewolf-and-leviathan-fish",

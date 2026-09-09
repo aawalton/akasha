@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0021Chapter21TheHeavensDivinePunish
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 21,
   ownLength: 1865,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-27",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3730757/chapter-21-the-heavens-divine-punishment-god-of",

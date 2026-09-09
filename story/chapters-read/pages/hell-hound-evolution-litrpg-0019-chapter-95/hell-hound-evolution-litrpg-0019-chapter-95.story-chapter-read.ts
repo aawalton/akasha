@@ -8,7 +8,7 @@ export const hellHoundEvolutionLitrpg0019Chapter95 = {
   story: "hell-hound-evolution-litrpg",
   position: 19,
   ownLength: 2879,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-09",
   externalLink:
     "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/3133391/chapter-95",

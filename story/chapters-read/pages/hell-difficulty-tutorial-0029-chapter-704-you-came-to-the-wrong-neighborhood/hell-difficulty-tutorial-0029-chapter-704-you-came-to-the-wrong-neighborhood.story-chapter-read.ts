@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0029Chapter704YouCameToTheWrongNeighborhood =
   story: "story-read/hell-difficulty-tutorial",
   position: 29,
   ownLength: 2624,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-03",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2816527/chapter-704-you-came-to-the-wrong-neighborhood",

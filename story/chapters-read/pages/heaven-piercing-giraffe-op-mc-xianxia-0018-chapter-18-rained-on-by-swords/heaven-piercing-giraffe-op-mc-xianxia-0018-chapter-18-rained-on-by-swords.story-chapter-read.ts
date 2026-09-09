@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0018Chapter18RainedOnBySwords = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 18,
   ownLength: 1739,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-18",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3691679/chapter-18-rained-on-by-swords",

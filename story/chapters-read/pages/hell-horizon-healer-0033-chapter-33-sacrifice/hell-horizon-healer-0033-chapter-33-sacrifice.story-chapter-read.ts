@@ -8,7 +8,7 @@ export const hellHorizonHealer0033Chapter33Sacrifice = {
   story: "hell-horizon-healer",
   position: 33,
   ownLength: 1634,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-29",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3742909/chapter-33-sacrifice",

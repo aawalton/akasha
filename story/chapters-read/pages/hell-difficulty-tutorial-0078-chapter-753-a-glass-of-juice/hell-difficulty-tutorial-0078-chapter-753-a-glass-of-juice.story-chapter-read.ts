@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0078Chapter753AGlassOfJuice = {
   story: "story-read/hell-difficulty-tutorial",
   position: 78,
   ownLength: 3059,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-17",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3066076/chapter-753-a-glass-of-juice",

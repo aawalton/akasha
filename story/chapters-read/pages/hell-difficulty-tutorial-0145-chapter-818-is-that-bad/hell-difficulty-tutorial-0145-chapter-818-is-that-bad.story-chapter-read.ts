@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0145Chapter818IsThatBad = {
   story: "story-read/hell-difficulty-tutorial",
   position: 145,
   ownLength: 2199,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-02",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3484788/chapter-818-is-that-bad",

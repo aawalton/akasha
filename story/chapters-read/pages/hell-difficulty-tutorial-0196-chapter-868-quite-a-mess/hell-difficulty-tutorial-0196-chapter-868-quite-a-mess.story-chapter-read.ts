@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0196Chapter868QuiteAMess = {
   story: "story-read/hell-difficulty-tutorial",
   position: 196,
   ownLength: 2255,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3864934/chapter-868-quite-a-mess",

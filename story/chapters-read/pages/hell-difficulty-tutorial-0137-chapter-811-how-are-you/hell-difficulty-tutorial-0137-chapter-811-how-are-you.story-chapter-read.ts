@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0137Chapter811HowAreYou = {
   story: "story-read/hell-difficulty-tutorial",
   position: 137,
   ownLength: 2171,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-24",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3441244/chapter-811-how-are-you",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0159Chapter832LurkerAfterLurker = {
   story: "story-read/hell-difficulty-tutorial",
   position: 159,
   ownLength: 2169,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-22",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3577047/chapter-832-lurker-after-lurker",

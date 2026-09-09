@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0150Chapter823RecordOfAConfrontation = {
   story: "story-read/hell-difficulty-tutorial",
   position: 150,
   ownLength: 2381,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-09",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3516372/chapter-823-record-of-a-confrontation",

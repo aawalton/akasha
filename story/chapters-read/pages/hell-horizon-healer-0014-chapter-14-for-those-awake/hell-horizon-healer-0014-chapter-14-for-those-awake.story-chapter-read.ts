@@ -8,7 +8,7 @@ export const hellHorizonHealer0014Chapter14ForThoseAwake = {
   story: "hell-horizon-healer",
   position: 14,
   ownLength: 1808,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-12",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3530489/chapter-14-for-those-awake",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0120Chapter794NewTrait = {
   story: "story-read/hell-difficulty-tutorial",
   position: 120,
   ownLength: 2279,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-15",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3278740/chapter-794-new-trait",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0168Chapter841KeepYourselfTogether = {
   story: "story-read/hell-difficulty-tutorial",
   position: 168,
   ownLength: 2530,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-19",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3699020/chapter-841-keep-yourself-together",

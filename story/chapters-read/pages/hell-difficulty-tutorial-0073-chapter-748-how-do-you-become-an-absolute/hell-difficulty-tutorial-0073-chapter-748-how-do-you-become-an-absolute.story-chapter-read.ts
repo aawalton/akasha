@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0073Chapter748HowDoYouBecomeAnAbsolute = {
   story: "story-read/hell-difficulty-tutorial",
   position: 73,
   ownLength: 2272,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-10",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3034506/chapter-748-how-do-you-become-an-absolute",

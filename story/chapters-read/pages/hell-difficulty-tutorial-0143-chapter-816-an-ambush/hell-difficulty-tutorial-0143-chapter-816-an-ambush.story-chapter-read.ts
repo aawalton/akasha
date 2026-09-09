@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0143Chapter816AnAmbush = {
   story: "story-read/hell-difficulty-tutorial",
   position: 143,
   ownLength: 2087,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-31",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3475306/chapter-816-an-ambush",

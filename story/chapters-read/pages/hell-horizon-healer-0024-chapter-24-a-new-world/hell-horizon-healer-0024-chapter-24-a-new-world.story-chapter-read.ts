@@ -8,7 +8,7 @@ export const hellHorizonHealer0024Chapter24ANewWorld = {
   story: "hell-horizon-healer",
   position: 24,
   ownLength: 1750,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3590208/chapter-24-a-new-world",

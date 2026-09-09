@@ -8,7 +8,7 @@ export const hellHorizonHealer0035Chapter35OldSoldierVsNew = {
   story: "hell-horizon-healer",
   position: 35,
   ownLength: 1672,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3764737/chapter-35-old-soldier-vs-new",

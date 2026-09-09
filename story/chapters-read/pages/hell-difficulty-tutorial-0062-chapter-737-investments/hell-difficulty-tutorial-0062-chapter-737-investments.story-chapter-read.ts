@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0062Chapter737Investments = {
   story: "story-read/hell-difficulty-tutorial",
   position: 62,
   ownLength: 2038,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-26",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2982623/chapter-737-investments",

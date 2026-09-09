@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0182Chapter855BlessYou = {
   story: "story-read/hell-difficulty-tutorial",
   position: 182,
   ownLength: 2704,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-06",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3779487/chapter-855-bless-you",

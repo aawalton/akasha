@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0018NotAChapterAnnouncementBook4LiveOnAmazon 
   story: "story-read/hell-difficulty-tutorial",
   position: 18,
   ownLength: 374,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-12",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2122306/not-a-chapter-announcement-book-4-live-on-amazon",

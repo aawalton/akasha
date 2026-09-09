@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0034Chapter709HighGradeResidence = {
   story: "story-read/hell-difficulty-tutorial",
   position: 34,
   ownLength: 2519,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-10",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2837184/chapter-709-high-grade-residence",

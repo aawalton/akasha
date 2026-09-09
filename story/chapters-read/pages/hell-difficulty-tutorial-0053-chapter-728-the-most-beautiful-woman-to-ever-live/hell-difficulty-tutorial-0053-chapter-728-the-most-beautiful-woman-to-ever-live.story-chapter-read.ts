@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0053Chapter728TheMostBeautifulWomanToEverLive
   story: "story-read/hell-difficulty-tutorial",
   position: 53,
   ownLength: 2190,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-13",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2940428/chapter-728-the-most-beautiful-woman-to-ever-live",

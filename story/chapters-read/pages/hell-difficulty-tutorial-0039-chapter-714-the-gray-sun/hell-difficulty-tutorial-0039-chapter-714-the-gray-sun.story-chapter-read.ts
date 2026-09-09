@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0039Chapter714TheGraySun = {
   story: "story-read/hell-difficulty-tutorial",
   position: 39,
   ownLength: 2204,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-17",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2857360/chapter-714-the-gray-sun",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0117Chapter792AdjustingTheObjective = {
   story: "story-read/hell-difficulty-tutorial",
   position: 117,
   ownLength: 2280,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-13",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3270096/chapter-792-adjusting-the-objective",

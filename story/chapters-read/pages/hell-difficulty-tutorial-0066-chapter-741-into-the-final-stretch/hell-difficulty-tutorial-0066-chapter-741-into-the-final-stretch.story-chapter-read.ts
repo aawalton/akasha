@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0066Chapter741IntoTheFinalStretch = {
   story: "story-read/hell-difficulty-tutorial",
   position: 66,
   ownLength: 2254,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-01",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3002932/chapter-741-into-the-final-stretch",

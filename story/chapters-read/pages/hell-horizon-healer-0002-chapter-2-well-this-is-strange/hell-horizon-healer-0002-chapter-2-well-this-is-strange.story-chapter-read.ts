@@ -8,7 +8,7 @@ export const hellHorizonHealer0002Chapter2WellThisIsStrange = {
   story: "hell-horizon-healer",
   position: 2,
   ownLength: 1574,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3519453/chapter-2-well-this-is-strange",

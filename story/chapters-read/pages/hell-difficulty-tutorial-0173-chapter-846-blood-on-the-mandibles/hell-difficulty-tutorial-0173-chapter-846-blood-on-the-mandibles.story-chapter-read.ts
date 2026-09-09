@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0173Chapter846BloodOnTheMandibles = {
   story: "story-read/hell-difficulty-tutorial",
   position: 173,
   ownLength: 2528,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-26",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3729965/chapter-846-blood-on-the-mandibles",

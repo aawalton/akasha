@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0045Chapter720GuessWhosBackIdiot = {
   story: "story-read/hell-difficulty-tutorial",
   position: 45,
   ownLength: 2159,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-01",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2899747/chapter-720-guess-whos-back-idiot",

@@ -8,7 +8,7 @@ export const hellHorizonHealer0043Chapter43PowerfulWords = {
   story: "hell-horizon-healer",
   position: 43,
   ownLength: 1353,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3869000/chapter-43-powerful-words",

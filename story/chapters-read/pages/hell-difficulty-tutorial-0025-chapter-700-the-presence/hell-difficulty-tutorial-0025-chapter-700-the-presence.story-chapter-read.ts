@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0025Chapter700ThePresence = {
   story: "story-read/hell-difficulty-tutorial",
   position: 25,
   ownLength: 2966,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-27",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2798911/chapter-700-the-presence",

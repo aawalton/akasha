@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0130Chapter804TwoWyverns = {
   story: "story-read/hell-difficulty-tutorial",
   position: 130,
   ownLength: 2565,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-13",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3392422/chapter-804-two-wyverns",

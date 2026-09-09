@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0055Chapter730FeralAnimal = {
   story: "story-read/hell-difficulty-tutorial",
   position: 55,
   ownLength: 2364,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-15",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2946914/chapter-730-feral-animal",

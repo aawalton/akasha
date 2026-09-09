@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0144Chapter817BoysVsAWeirdSpider = {
   story: "story-read/hell-difficulty-tutorial",
   position: 144,
   ownLength: 2315,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-01",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3480337/chapter-817-boys-vs-a-weird-spider",

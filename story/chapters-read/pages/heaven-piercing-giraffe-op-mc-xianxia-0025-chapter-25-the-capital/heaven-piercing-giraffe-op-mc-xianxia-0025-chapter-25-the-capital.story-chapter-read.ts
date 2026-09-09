@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0025Chapter25TheCapital = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 25,
   ownLength: 1756,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3798585/chapter-25-the-capital",

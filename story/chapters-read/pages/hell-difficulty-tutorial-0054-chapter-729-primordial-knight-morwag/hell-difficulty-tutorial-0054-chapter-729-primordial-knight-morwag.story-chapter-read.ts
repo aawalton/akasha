@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0054Chapter729PrimordialKnightMorwag = {
   story: "story-read/hell-difficulty-tutorial",
   position: 54,
   ownLength: 2220,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-14",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2943838/chapter-729-primordial-knight-morwag",

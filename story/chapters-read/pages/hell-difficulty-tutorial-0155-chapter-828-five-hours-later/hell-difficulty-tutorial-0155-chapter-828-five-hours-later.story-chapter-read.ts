@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0155Chapter828FiveHoursLater = {
   story: "story-read/hell-difficulty-tutorial",
   position: 155,
   ownLength: 2546,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-16",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3549521/chapter-828-five-hours-later",

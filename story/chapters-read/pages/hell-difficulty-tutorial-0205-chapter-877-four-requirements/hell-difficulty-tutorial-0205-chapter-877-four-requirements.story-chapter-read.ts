@@ -7,7 +7,7 @@ export const hellDifficultyTutorial0205Chapter877FourRequirements = {
   story: "story-read/hell-difficulty-tutorial",
   position: 205,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3927234",
   source: "royal-road",
   title: "Chapter 877 - Four requirements",

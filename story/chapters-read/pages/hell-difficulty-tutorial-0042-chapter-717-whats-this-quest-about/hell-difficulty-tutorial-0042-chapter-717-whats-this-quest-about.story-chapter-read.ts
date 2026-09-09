@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0042Chapter717WhatsThisQuestAbout = {
   story: "story-read/hell-difficulty-tutorial",
   position: 42,
   ownLength: 2152,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-22",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2871582/chapter-717-whats-this-quest-about",

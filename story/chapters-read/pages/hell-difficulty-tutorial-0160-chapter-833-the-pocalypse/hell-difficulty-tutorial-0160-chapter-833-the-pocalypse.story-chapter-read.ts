@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0160Chapter833ThePocalypse = {
   story: "story-read/hell-difficulty-tutorial",
   position: 160,
   ownLength: 2960,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-23",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3581563/chapter-833-the-pocalypse",

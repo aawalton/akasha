@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0134Chapter808AndWhoMightYouBe = {
   story: "story-read/hell-difficulty-tutorial",
   position: 134,
   ownLength: 2247,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3420370/chapter-808-and-who-might-you-be",

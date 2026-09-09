@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0142Chapter815PrecautionaryMeasure = {
   story: "story-read/hell-difficulty-tutorial",
   position: 142,
   ownLength: 2228,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-28",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3462181/chapter-815-precautionary-measure",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0195Chapter867ItCouldHaveBeenMuchWorse = {
   story: "story-read/hell-difficulty-tutorial",
   position: 195,
   ownLength: 3091,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-24",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3860523/chapter-867-it-could-have-been-much-worse",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0092Chapter767Alone = {
   story: "story-read/hell-difficulty-tutorial",
   position: 92,
   ownLength: 2591,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-09",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3134823/chapter-767-alone",

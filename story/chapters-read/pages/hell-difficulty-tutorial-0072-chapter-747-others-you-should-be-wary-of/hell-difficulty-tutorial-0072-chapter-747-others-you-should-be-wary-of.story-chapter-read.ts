@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0072Chapter747OthersYouShouldBeWaryOf = {
   story: "story-read/hell-difficulty-tutorial",
   position: 72,
   ownLength: 2484,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-09",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3030384/chapter-747-others-you-should-be-wary-of",

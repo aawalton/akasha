@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0172Chapter845OverlyDiligent = {
   story: "story-read/hell-difficulty-tutorial",
   position: 172,
   ownLength: 2962,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3716663/chapter-845-overly-diligent",

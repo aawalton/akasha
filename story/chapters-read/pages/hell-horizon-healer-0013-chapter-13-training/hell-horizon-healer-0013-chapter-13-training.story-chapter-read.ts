@@ -8,7 +8,7 @@ export const hellHorizonHealer0013Chapter13Training = {
   story: "hell-horizon-healer",
   position: 13,
   ownLength: 2121,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3525247/chapter-13-training",

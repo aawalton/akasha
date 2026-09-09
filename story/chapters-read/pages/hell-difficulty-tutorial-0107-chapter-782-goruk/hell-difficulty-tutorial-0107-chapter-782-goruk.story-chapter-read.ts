@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0107Chapter782Goruk = {
   story: "story-read/hell-difficulty-tutorial",
   position: 107,
   ownLength: 2408,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-30",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3212276/chapter-782-goruk",

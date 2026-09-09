@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0014NotAChapterAnnouncementAprilFoolsDay = {
   story: "story-read/hell-difficulty-tutorial",
   position: 14,
   ownLength: 381,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/1576092/not-a-chapter-announcement-april-fools-day",

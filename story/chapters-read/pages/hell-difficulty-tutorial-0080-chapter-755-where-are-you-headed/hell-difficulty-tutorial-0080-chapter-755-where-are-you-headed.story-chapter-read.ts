@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0080Chapter755WhereAreYouHeaded = {
   story: "story-read/hell-difficulty-tutorial",
   position: 80,
   ownLength: 4049,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-19",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3072472/chapter-755-where-are-you-headed",

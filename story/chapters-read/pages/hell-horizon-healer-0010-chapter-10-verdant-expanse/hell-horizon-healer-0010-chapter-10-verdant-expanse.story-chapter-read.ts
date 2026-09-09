@@ -8,7 +8,7 @@ export const hellHorizonHealer0010Chapter10VerdantExpanse = {
   story: "hell-horizon-healer",
   position: 10,
   ownLength: 1644,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3521610/chapter-10-verdant-expanse",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0112Chapter787TheNest = {
   story: "story-read/hell-difficulty-tutorial",
   position: 112,
   ownLength: 2125,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-06",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3240873/chapter-787-the-nest",

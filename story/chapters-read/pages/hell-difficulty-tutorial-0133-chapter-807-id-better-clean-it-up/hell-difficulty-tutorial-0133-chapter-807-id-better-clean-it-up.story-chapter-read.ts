@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0133Chapter807IdBetterCleanItUp = {
   story: "story-read/hell-difficulty-tutorial",
   position: 133,
   ownLength: 2563,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3415849/chapter-807-id-better-clean-it-up",

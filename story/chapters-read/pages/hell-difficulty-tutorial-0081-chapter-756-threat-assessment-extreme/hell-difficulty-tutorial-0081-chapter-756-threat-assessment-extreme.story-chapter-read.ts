@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0081Chapter756ThreatAssessmentExtreme = {
   story: "story-read/hell-difficulty-tutorial",
   position: 81,
   ownLength: 2229,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-22",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3081956/chapter-756-threat-assessment-extreme",

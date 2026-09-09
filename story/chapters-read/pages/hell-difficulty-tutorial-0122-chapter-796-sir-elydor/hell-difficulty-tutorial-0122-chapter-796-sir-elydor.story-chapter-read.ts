@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0122Chapter796SirElydor = {
   story: "story-read/hell-difficulty-tutorial",
   position: 122,
   ownLength: 2337,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-03",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3350855/chapter-796-sir-elydor",

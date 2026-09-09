@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0113Chapter788Contraband = {
   story: "story-read/hell-difficulty-tutorial",
   position: 113,
   ownLength: 2939,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-07",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3245393/chapter-788-contraband",

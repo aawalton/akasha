@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0111Chapter786TheLycan = {
   story: "story-read/hell-difficulty-tutorial",
   position: 111,
   ownLength: 2489,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-05",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3236389/chapter-786-the-lycan",

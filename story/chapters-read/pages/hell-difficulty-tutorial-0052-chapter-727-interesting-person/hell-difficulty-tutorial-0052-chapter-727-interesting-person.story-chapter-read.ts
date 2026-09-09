@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0052Chapter727InterestingPerson = {
   story: "story-read/hell-difficulty-tutorial",
   position: 52,
   ownLength: 2177,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-12",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2937257/chapter-727-interesting-person",

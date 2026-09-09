@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0146Chapter819InAGoodMood = {
   story: "story-read/hell-difficulty-tutorial",
   position: 146,
   ownLength: 2158,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3489467/chapter-819-in-a-good-mood",

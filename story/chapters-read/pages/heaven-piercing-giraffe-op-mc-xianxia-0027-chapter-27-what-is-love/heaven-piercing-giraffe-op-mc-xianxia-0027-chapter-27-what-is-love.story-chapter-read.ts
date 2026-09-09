@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0027Chapter27WhatIsLove = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 27,
   ownLength: 1581,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3828856/chapter-27-what-is-love",

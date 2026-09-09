@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0075Chapter750EveryoneKnewItWasComing = {
   story: "story-read/hell-difficulty-tutorial",
   position: 75,
   ownLength: 2308,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-12",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3041361/chapter-750-everyone-knew-it-was-coming",

@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0028Chapter28BreakOutRaidersBossPov
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 28,
   ownLength: 1687,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3853988/chapter-28-break-out-raiders-boss-pov",

@@ -8,7 +8,7 @@ export const hellHorizonHealer0001Chapter1Hell = {
   story: "hell-horizon-healer",
   position: 1,
   ownLength: 2255,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3517570/chapter-1-hell",

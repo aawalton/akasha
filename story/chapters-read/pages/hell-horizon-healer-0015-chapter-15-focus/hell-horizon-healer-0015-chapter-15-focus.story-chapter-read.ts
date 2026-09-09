@@ -8,7 +8,7 @@ export const hellHorizonHealer0015Chapter15Focus = {
   story: "hell-horizon-healer",
   position: 15,
   ownLength: 1667,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-13",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3535048/chapter-15-focus",

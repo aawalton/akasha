@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0064Chapter739ItHadToHappenOneDay = {
   story: "story-read/hell-difficulty-tutorial",
   position: 64,
   ownLength: 2599,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-28",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2989386/chapter-739-it-had-to-happen-one-day",

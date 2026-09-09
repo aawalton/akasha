@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0131Chapter805ForAFewMoreMinutes = {
   story: "story-read/hell-difficulty-tutorial",
   position: 131,
   ownLength: 2050,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-14",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3396872/chapter-805-for-a-few-more-minutes",

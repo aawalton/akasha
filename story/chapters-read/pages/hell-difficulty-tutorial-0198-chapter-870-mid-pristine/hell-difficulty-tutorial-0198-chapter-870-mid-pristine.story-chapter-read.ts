@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0198Chapter870MidPristine = {
   story: "story-read/hell-difficulty-tutorial",
   position: 198,
   ownLength: 2316,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-27",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3874051/chapter-870-mid-pristine",

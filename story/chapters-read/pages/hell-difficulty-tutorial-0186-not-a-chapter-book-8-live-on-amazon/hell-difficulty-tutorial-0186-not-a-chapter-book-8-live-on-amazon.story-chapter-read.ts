@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0186NotAChapterBook8LiveOnAmazon = {
   story: "story-read/hell-difficulty-tutorial",
   position: 186,
   ownLength: 222,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-12",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3805182/not-a-chapter-book-8-live-on-amazon",

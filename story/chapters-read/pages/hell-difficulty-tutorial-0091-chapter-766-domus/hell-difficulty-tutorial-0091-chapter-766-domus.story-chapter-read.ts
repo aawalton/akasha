@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0091Chapter766Domus = {
   story: "story-read/hell-difficulty-tutorial",
   position: 91,
   ownLength: 2581,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-08",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3131097/chapter-766-domus",

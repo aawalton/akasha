@@ -8,7 +8,7 @@ export const hellHorizonHealer0039Chapter39Monster = {
   story: "hell-horizon-healer",
   position: 39,
   ownLength: 1670,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-12",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3805419/chapter-39-monster",

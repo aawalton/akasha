@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0171Chapter844Figurines = {
   story: "story-read/hell-difficulty-tutorial",
   position: 171,
   ownLength: 2155,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-22",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3712711/chapter-844-figurines",

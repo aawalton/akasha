@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0176Chapter849AgainstNyssaVolare = {
   story: "story-read/hell-difficulty-tutorial",
   position: 176,
   ownLength: 1938,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-29",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3743721/chapter-849-against-nyssa-volare",

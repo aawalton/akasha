@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0132Chapter80611thFloor = {
   story: "story-read/hell-difficulty-tutorial",
   position: 132,
   ownLength: 2098,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-17",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3411175/chapter-806-11th-floor",

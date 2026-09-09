@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0106Chapter781TheTower = {
   story: "story-read/hell-difficulty-tutorial",
   position: 106,
   ownLength: 2318,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-29",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3208163/chapter-781-the-tower",

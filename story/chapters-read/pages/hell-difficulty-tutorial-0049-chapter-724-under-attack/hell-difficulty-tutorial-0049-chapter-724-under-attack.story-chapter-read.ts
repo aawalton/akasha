@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0049Chapter724UnderAttack = {
   story: "story-read/hell-difficulty-tutorial",
   position: 49,
   ownLength: 2346,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-07",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2921676/chapter-724-under-attack",

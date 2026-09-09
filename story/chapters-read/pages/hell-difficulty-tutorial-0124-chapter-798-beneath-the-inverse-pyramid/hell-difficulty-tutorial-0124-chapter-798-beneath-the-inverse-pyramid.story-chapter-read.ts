@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0124Chapter798BeneathTheInversePyramid = {
   story: "story-read/hell-difficulty-tutorial",
   position: 124,
   ownLength: 2629,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-05",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3359760/chapter-798-beneath-the-inverse-pyramid",

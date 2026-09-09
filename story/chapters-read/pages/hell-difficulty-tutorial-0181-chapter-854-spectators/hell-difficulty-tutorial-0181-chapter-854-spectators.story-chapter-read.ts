@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0181Chapter854Spectators = {
   story: "story-read/hell-difficulty-tutorial",
   position: 181,
   ownLength: 2434,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-05",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3775175/chapter-854-spectators",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0083Chapter758Pancakes = {
   story: "story-read/hell-difficulty-tutorial",
   position: 83,
   ownLength: 2327,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-24",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3089320/chapter-758-pancakes",

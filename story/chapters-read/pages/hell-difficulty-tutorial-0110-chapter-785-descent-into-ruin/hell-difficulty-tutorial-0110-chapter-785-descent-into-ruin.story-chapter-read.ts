@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0110Chapter785DescentIntoRuin = {
   story: "story-read/hell-difficulty-tutorial",
   position: 110,
   ownLength: 2192,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-02",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3224112/chapter-785-descent-into-ruin",

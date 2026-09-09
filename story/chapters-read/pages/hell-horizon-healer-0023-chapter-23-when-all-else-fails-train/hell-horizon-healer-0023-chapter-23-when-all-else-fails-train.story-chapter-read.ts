@@ -8,7 +8,7 @@ export const hellHorizonHealer0023Chapter23WhenAllElseFailsTrain = {
   story: "hell-horizon-healer",
   position: 23,
   ownLength: 1770,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3585617/chapter-23-when-all-else-fails-train",

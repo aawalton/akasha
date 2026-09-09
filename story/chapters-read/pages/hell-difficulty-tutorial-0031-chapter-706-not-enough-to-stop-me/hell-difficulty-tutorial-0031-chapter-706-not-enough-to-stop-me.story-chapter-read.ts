@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0031Chapter706NotEnoughToStopMe = {
   story: "story-read/hell-difficulty-tutorial",
   position: 31,
   ownLength: 3145,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-07",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2828164/chapter-706-not-enough-to-stop-me",

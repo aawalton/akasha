@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0024Chapter24InhalerTypePills = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 24,
   ownLength: 1636,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3786780/chapter-24-inhaler-type-pills",

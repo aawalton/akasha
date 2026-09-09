@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0038Chapter713PathfinderThane = {
   story: "story-read/hell-difficulty-tutorial",
   position: 38,
   ownLength: 2353,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-16",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2854432/chapter-713-pathfinder-thane",

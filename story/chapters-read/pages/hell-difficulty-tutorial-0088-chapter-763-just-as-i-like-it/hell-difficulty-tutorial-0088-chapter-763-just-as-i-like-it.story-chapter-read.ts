@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0088Chapter763JustAsILikeIt = {
   story: "story-read/hell-difficulty-tutorial",
   position: 88,
   ownLength: 2483,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3113609/chapter-763-just-as-i-like-it",

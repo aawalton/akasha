@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0161Chapter834Negotiations = {
   story: "story-read/hell-difficulty-tutorial",
   position: 161,
   ownLength: 2484,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3586487/chapter-834-negotiations",

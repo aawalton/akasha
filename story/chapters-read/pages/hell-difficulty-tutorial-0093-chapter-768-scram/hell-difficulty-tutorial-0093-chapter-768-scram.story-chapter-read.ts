@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0093Chapter768Scram = {
   story: "story-read/hell-difficulty-tutorial",
   position: 93,
   ownLength: 2234,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-10",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3138286/chapter-768-scram",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0074Chapter749ShouldHaveExpectedThat = {
   story: "story-read/hell-difficulty-tutorial",
   position: 74,
   ownLength: 2294,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-11",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3038239/chapter-749-should-have-expected-that",

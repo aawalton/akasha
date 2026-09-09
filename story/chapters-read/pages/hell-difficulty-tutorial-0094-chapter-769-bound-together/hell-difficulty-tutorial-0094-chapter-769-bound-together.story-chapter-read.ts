@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0094Chapter769BoundTogether = {
   story: "story-read/hell-difficulty-tutorial",
   position: 94,
   ownLength: 2163,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-11",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3141857/chapter-769-bound-together",

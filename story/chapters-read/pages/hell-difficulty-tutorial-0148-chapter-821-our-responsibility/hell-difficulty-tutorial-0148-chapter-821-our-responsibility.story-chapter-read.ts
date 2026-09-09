@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0148Chapter821OurResponsibility = {
   story: "story-read/hell-difficulty-tutorial",
   position: 148,
   ownLength: 1918,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-07",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3507058/chapter-821-our-responsibility",

@@ -8,7 +8,7 @@ export const hellHorizonHealer0026Chapter26ApesTogetherStrong = {
   story: "hell-horizon-healer",
   position: 26,
   ownLength: 1550,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3608676/chapter-26-apes-together-strong",

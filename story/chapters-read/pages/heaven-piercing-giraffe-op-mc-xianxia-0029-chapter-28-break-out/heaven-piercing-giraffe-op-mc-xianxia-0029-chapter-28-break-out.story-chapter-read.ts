@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0029Chapter28BreakOut = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 29,
   ownLength: 1587,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-25",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3861038/chapter-28-break-out",

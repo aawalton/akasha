@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0185Chapter858WhyWouldThatCrazyAssholeDoThat 
   story: "story-read/hell-difficulty-tutorial",
   position: 185,
   ownLength: 2253,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3801639/chapter-858-why-would-that-crazy-asshole-do-that",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0101Chapter776ImportantThings = {
   story: "story-read/hell-difficulty-tutorial",
   position: 101,
   ownLength: 2409,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-22",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3181575/chapter-776-important-things",

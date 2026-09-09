@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0175Chapter848TheBoysVsTheWeirdAlbinoDemon = 
   story: "story-read/hell-difficulty-tutorial",
   position: 175,
   ownLength: 2661,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-28",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3739090/chapter-848-the-boys-vs-the-weird-albino-demon",

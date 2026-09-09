@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0079Chapter754Vessel = {
   story: "story-read/hell-difficulty-tutorial",
   position: 79,
   ownLength: 2373,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-18",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3069591/chapter-754-vessel",

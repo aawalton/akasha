@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0164Chapter837TheBoysRemainUndefeated = {
   story: "story-read/hell-difficulty-tutorial",
   position: 164,
   ownLength: 2471,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3609561/chapter-837-the-boys-remain-undefeated",

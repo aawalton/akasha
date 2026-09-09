@@ -9,7 +9,7 @@ export const hellHorizonHealer0029Chapter29Ptsd = {
   position: 29,
   ownLength: 1782,
   ownProgress: 181,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-02",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3623016/chapter-29-ptsd",

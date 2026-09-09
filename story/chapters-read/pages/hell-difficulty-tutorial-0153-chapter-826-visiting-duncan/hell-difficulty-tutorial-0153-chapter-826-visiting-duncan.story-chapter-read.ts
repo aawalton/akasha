@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0153Chapter826VisitingDuncan = {
   story: "story-read/hell-difficulty-tutorial",
   position: 153,
   ownLength: 2068,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-14",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3539717/chapter-826-visiting-duncan",

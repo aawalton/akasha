@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0065Chapter740SticksAndStones = {
   story: "story-read/hell-difficulty-tutorial",
   position: 65,
   ownLength: 2115,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-29",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2992742/chapter-740-sticks-and-stones",

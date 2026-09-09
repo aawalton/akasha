@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0147Chapter820RunningAway = {
   story: "story-read/hell-difficulty-tutorial",
   position: 147,
   ownLength: 2483,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-04",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3493862/chapter-820-running-away",

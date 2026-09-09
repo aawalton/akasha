@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0177Chapter850Today = {
   story: "story-read/hell-difficulty-tutorial",
   position: 177,
   ownLength: 2565,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-30",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3748196/chapter-850-today",

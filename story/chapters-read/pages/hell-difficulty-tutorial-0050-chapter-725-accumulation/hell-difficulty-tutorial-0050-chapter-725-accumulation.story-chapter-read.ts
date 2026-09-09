@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0050Chapter725Accumulation = {
   story: "story-read/hell-difficulty-tutorial",
   position: 50,
   ownLength: 2158,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-08",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2924790/chapter-725-accumulation",

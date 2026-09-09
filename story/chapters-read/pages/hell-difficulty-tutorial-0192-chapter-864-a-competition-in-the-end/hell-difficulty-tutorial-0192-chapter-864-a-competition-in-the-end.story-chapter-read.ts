@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0192Chapter864ACompetitionInTheEnd = {
   story: "story-read/hell-difficulty-tutorial",
   position: 192,
   ownLength: 2425,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-19",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3836395/chapter-864-a-competition-in-the-end",

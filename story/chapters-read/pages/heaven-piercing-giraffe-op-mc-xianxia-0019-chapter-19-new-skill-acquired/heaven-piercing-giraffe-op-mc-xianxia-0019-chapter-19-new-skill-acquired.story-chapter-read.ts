@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0019Chapter19NewSkillAcquired = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 19,
   ownLength: 2379,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3713539/chapter-19-new-skill-acquired",

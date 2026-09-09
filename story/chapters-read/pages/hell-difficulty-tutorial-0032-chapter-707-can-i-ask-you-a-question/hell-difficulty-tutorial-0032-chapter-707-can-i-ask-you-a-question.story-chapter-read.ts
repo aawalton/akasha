@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0032Chapter707CanIAskYouAQuestion = {
   story: "story-read/hell-difficulty-tutorial",
   position: 32,
   ownLength: 2075,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-08",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2831163/chapter-707-can-i-ask-you-a-question",

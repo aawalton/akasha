@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0188Chapter860GrandPrize = {
   story: "story-read/hell-difficulty-tutorial",
   position: 188,
   ownLength: 2234,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-13",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3810559/chapter-860-grand-prize",

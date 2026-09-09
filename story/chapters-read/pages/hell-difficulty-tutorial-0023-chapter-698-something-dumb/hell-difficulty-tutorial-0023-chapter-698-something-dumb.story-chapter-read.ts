@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0023Chapter698SomethingDumb = {
   story: "story-read/hell-difficulty-tutorial",
   position: 23,
   ownLength: 2202,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-25",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2793153/chapter-698-something-dumb",

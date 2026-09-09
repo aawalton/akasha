@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0029Chapter29DeathsBride = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 29,
   ownLength: 1571,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3886969/chapter-29-deaths-bride",

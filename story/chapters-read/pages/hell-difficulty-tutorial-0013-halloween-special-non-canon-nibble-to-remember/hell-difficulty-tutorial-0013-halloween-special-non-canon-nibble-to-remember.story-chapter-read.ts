@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0013HalloweenSpecialNonCanonNibbleToRemember 
   story: "story-read/hell-difficulty-tutorial",
   position: 13,
   ownLength: 1449,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/1391375/halloween-special-non-canon-nibble-to-remember",

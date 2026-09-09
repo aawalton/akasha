@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0061Chapter736WhenTheTimeComes = {
   story: "story-read/hell-difficulty-tutorial",
   position: 61,
   ownLength: 2379,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-25",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2978963/chapter-736-when-the-time-comes",

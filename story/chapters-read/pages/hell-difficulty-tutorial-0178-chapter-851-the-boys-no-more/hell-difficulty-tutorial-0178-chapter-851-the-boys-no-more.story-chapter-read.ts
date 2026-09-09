@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0178Chapter851TheBoysNoMore = {
   story: "story-read/hell-difficulty-tutorial",
   position: 178,
   ownLength: 2390,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-02",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3760764/chapter-851-the-boys-no-more",

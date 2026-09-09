@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0127Chapter801YouWillBeMine = {
   story: "story-read/hell-difficulty-tutorial",
   position: 127,
   ownLength: 2374,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-10",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3379967/chapter-801-you-will-be-mine",

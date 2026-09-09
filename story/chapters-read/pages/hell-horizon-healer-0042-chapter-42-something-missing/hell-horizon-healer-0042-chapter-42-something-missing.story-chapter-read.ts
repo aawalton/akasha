@@ -8,7 +8,7 @@ export const hellHorizonHealer0042Chapter42SomethingMissing = {
   story: "hell-horizon-healer",
   position: 42,
   ownLength: 1377,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-24",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3860178/chapter-42-something-missing",

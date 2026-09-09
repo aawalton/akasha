@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0026Chapter701HeaveHo = {
   story: "story-read/hell-difficulty-tutorial",
   position: 26,
   ownLength: 2227,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-11-30",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2807202/chapter-701-heave-ho",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0138SideStoryNonCanonANyaToRemember = {
   story: "story-read/hell-difficulty-tutorial",
   position: 138,
   ownLength: 2474,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-25",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3444325/side-story-non-canon-a-nya-to-remember",

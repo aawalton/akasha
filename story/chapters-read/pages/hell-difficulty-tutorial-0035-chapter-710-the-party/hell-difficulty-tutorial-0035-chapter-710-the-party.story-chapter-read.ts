@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0035Chapter710TheParty = {
   story: "story-read/hell-difficulty-tutorial",
   position: 35,
   ownLength: 2253,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-11",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2839974/chapter-710-the-party",

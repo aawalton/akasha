@@ -8,7 +8,7 @@ export const hellHorizonHealer0025Chapter25WhatUseIsAShieldThatCanTDefend = {
   story: "hell-horizon-healer",
   position: 25,
   ownLength: 1877,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3595445/chapter-25-what-use-is-a-shield-that-cant-defend",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0098Chapter773NameForTheNamelessTree = {
   story: "story-read/hell-difficulty-tutorial",
   position: 98,
   ownLength: 2382,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-17",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3163649/chapter-773-name-for-the-nameless-tree",

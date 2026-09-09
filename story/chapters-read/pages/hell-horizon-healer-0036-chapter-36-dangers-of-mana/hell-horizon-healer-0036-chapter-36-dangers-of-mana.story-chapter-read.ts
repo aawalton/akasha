@@ -8,7 +8,7 @@ export const hellHorizonHealer0036Chapter36DangersOfMana = {
   story: "hell-horizon-healer",
   position: 36,
   ownLength: 1145,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-05",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3774274/chapter-36-dangers-of-mana",

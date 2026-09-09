@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0056Chapter731FineGentlemen = {
   story: "story-read/hell-difficulty-tutorial",
   position: 56,
   ownLength: 2195,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-18",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2956085/chapter-731-fine-gentlemen",

@@ -8,7 +8,7 @@ export const hellHoundEvolutionLitrpg0001Chapter1WakingUp = {
   story: "hell-hound-evolution-litrpg",
   position: 1,
   ownLength: 2160,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/129179/hell-hound-evolution-vol-1-stubbed/chapter/2525423/chapter-1-waking-up",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0095Chapter770FightBetweenTwoSRanks = {
   story: "story-read/hell-difficulty-tutorial",
   position: 95,
   ownLength: 2481,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-12",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3145354/chapter-770-fight-between-two-s-ranks",

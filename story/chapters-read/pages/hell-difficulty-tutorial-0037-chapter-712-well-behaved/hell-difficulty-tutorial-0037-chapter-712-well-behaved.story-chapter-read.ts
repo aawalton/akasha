@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0037Chapter712WellBehaved = {
   story: "story-read/hell-difficulty-tutorial",
   position: 37,
   ownLength: 2099,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-15",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2851393/chapter-712-well-behaved",

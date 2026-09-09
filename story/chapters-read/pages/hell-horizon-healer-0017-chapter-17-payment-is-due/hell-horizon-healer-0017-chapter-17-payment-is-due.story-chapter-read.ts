@@ -8,7 +8,7 @@ export const hellHorizonHealer0017Chapter17PaymentIsDue = {
   story: "hell-horizon-healer",
   position: 17,
   ownLength: 1513,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/173331/hell-horizon-healer/chapter/3543917/chapter-17-payment-is-due",

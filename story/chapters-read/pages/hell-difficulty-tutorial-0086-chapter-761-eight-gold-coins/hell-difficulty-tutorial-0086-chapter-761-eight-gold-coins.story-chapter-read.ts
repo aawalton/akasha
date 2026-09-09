@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0086Chapter761EightGoldCoins = {
   story: "story-read/hell-difficulty-tutorial",
   position: 86,
   ownLength: 3028,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-01",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3106228/chapter-761-eight-gold-coins",

@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0179Chapter852IveGotYourBack = {
   story: "story-read/hell-difficulty-tutorial",
   position: 179,
   ownLength: 2946,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3765605/chapter-852-ive-got-your-back",

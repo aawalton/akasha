@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0180Chapter853WhoDoYouTakeMeFor = {
   story: "story-read/hell-difficulty-tutorial",
   position: 180,
   ownLength: 2438,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-04",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3770440/chapter-853-who-do-you-take-me-for",

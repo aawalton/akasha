@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0051Chapter726HornlessDemon = {
   story: "story-read/hell-difficulty-tutorial",
   position: 51,
   ownLength: 2159,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-11",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2933796/chapter-726-hornless-demon",

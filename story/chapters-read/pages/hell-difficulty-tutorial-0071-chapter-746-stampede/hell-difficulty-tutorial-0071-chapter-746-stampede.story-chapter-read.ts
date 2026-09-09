@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0071Chapter746Stampede = {
   story: "story-read/hell-difficulty-tutorial",
   position: 71,
   ownLength: 3124,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-08",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3026401/chapter-746-stampede",

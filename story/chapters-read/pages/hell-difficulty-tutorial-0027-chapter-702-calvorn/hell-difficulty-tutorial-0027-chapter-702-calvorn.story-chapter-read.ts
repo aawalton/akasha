@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0027Chapter702Calvorn = {
   story: "story-read/hell-difficulty-tutorial",
   position: 27,
   ownLength: 2248,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-01",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/2810457/chapter-702-calvorn",

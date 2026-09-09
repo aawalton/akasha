@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0183Chapter856StartOfTheGame = {
   story: "story-read/hell-difficulty-tutorial",
   position: 183,
   ownLength: 2397,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-09",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3792764/chapter-856-start-of-the-game",

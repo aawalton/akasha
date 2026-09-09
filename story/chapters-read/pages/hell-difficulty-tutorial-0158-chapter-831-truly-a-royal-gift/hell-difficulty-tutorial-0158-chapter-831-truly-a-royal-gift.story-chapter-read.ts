@@ -8,7 +8,7 @@ export const hellDifficultyTutorial0158Chapter831TrulyARoyalGift = {
   story: "story-read/hell-difficulty-tutorial",
   position: 158,
   ownLength: 2489,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-21",
   externalLink:
     "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial/chapter/3571971/chapter-831-truly-a-royal-gift",

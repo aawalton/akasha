@@ -8,7 +8,7 @@ export const heavenPiercingGiraffeOpMcXianxia0026Chapter26Name = {
   story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 26,
   ownLength: 1602,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-15",
   externalLink:
     "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe/chapter/3817279/chapter-26-name",
