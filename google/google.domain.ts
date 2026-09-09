@@ -6,7 +6,7 @@ export const google = {
   slug: "google",
   definition: "what Alan keeps with Google, reached under one consent",
   parts: [
-    "workspace-package/google-calendar",
+    "domain/google-calendar",
     "domain/google-drive",
     "workspace-package/google-email",
     "workspace-package/google-oauth",

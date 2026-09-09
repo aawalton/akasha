@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const googleCalendar = {
   id: "01a05c02-c732-7b6e-b180-61f29e1b42e7",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "google-calendar",
   definition: "Alan's Google calendar events read, made, changed and answered",
-  manifest: "json",
   parts: [
     "module/calendar-credentials",
     "module/calendar-auth",
@@ -25,4 +24,4 @@ export const googleCalendar = {
       statement: "Attendees are emailed unless the caller says otherwise.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

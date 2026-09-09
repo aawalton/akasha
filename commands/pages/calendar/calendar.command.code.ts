@@ -1,9 +1,16 @@
 import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
-import { CALENDAR_OAUTH_SCOPE } from "@akasha/google-calendar/env"
-import { narrowSendUpdates, SEND_UPDATES } from "@akasha/google-calendar/send-updates-narrowing"
-import type { EventInput, EventPatch, RsvpStatus } from "@akasha/google-calendar/types"
 import { readGoogleOauthAppCredentials } from "@akasha/google-oauth/oauth-app-credentials"
 import { googleOauthConsent } from "@akasha/google-oauth/oauth-consent"
+import { CALENDAR_OAUTH_SCOPE } from "akasha/google/calendar/calendar-credentials/calendar-credentials.module.code.ts"
+import type {
+  EventInput,
+  EventPatch,
+  RsvpStatus,
+} from "akasha/google/calendar/calendar-event-shapes/calendar-event-shapes.module.code.ts"
+import {
+  narrowSendUpdates,
+  SEND_UPDATES,
+} from "akasha/google/calendar/send-updates-narrowing/send-updates-narrowing.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { quoted } from "../../../command-system/seat-act-calling/seat-act-calling.module.code.ts"
@@ -314,11 +321,15 @@ function patchOf(said: ReadonlyMap<string, string>, recurrence: readonly string[
 }
 
 async function asAlan() {
-  return await (await import("@akasha/google-calendar/client")).makeOAuthCalendarClient()
+  return await (
+    await import("akasha/google/calendar/calendar-client/calendar-client.module.code.ts")
+  ).makeOAuthCalendarClient()
 }
 
 async function asAkasha() {
-  return await (await import("@akasha/google-calendar/client")).makeCalendarClient()
+  return await (
+    await import("akasha/google/calendar/calendar-client/calendar-client.module.code.ts")
+  ).makeCalendarClient()
 }
 
 async function acting(read: {
@@ -328,7 +339,9 @@ async function acting(read: {
 }): Promise<Answer> {
   const { act, said, recurrence } = read
   if (act === `${AUTH} ${LOGIN}`) return await loggingIn(said)
-  const events = await import("@akasha/google-calendar/events")
+  const events = await import(
+    "akasha/google/calendar/calendar-events/calendar-events.module.code.ts"
+  )
   const answered = (value: unknown): Answer => ({ report: jsonSaid(value), refusals: [], code: 0 })
   if (act === `${EVENTS} ${LIST}`) {
     const max = said.get(MAX)

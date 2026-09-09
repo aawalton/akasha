@@ -756,16 +756,6 @@
         "zod": "^4.3.6",
       },
     },
-    "google/calendar": {
-      "name": "@akasha/google-calendar",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/google-oauth": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "@googleapis/calendar": "^15.0.0",
-        "zod": "^4.3.6",
-      },
-    },
     "google/email": {
       "name": "@akasha/google-email",
       "dependencies": {
@@ -2429,8 +2419,6 @@
     "@akasha/file-system": ["@akasha/file-system@workspace:file-system"],
 
     "@akasha/git": ["@akasha/git@workspace:git"],
-
-    "@akasha/google-calendar": ["@akasha/google-calendar@workspace:google/calendar"],
 
     "@akasha/google-email": ["@akasha/google-email@workspace:google/email"],
 
