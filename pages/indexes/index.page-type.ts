@@ -18,7 +18,7 @@ export const index = {
   extends: ["page-type/module"],
   properties: [
     { pagePropertySlug: "text-property/index-name", required: true, many: false },
-    { pagePropertySlug: "file-property/test", required: true, many: false },
+    { pagePropertySlug: "code-file-property/test", required: true, many: false },
   ],
   invariants: [
     {

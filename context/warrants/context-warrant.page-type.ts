@@ -41,7 +41,7 @@ export const contextWarrant = {
   extends: ["page-type/module"],
   loadedBy: "module/warranting",
   properties: [
-    { pagePropertySlug: "file-property/test", required: true, many: false },
+    { pagePropertySlug: "code-file-property/test", required: true, many: false },
     { pagePropertySlug: "boolean-property/runs-on-read", required: true, many: false },
     { pagePropertySlug: "boolean-property/runs-on-write", required: true, many: false },
     { pagePropertySlug: "boolean-property/transitive", required: true, many: false },

@@ -1,5 +1,5 @@
 import type { Code } from "../../code-system/modules/properties/code.code-file-property.ts"
-import type { Test } from "../../code-system/modules/properties/test.file-property.ts"
+import type { Test } from "../../code-system/modules/properties/test.code-file-property.ts"
 import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { PointUnit } from "./properties/point-unit.text-property.ts"
@@ -40,7 +40,7 @@ export const attribute = {
   ],
   properties: [
     { pagePropertySlug: "code-file-property/code", required: false, many: false },
-    { pagePropertySlug: "file-property/test", required: false, many: false },
+    { pagePropertySlug: "code-file-property/test", required: false, many: false },
     { pagePropertySlug: "text-property/point-unit", required: true, many: false },
     {
       pagePropertySlug: "number-property/points-before-today",

@@ -62,7 +62,7 @@ export const folderShape = {
   extends: ["page-type/module"],
   loadedBy: "code-check/folder-matches-a-shape",
   properties: [
-    { pagePropertySlug: "file-property/test", required: true, many: false },
+    { pagePropertySlug: "code-file-property/test", required: true, many: false },
     { pagePropertySlug: "boolean-property/folder-shape-enabled", required: true, many: false },
   ],
   invariants: [

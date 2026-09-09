@@ -87,7 +87,7 @@ export const codeCheck = {
   extends: ["page-type/module"],
   loadedBy: "module/checking",
   properties: [
-    { pagePropertySlug: "file-property/test", required: true, many: false },
+    { pagePropertySlug: "code-file-property/test", required: true, many: false },
     { pagePropertySlug: "boolean-property/runs-on-patch", required: true, many: false },
     { pagePropertySlug: "boolean-property/runs-on-worktree", required: true, many: false },
     { pagePropertySlug: "boolean-property/runs-on-deploy", required: true, many: false },

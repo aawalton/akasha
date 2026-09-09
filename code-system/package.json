@@ -36,7 +36,7 @@
     "./lualib": "./lualibs/lualib.page-type.ts",
     "./module": "./modules/module.page-type.ts",
     "./name-series": "./name-series/name-series.module.code.ts",
-    "./module/test": "./modules/properties/test.file-property.ts",
+    "./module/test": "./modules/properties/test.code-file-property.ts",
     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
     "./python-module": "./python-modules/python-module.page-type.ts",
     "./route": "./routes/route.page-type.ts",
