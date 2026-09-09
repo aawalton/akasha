@@ -14,8 +14,6 @@ const LOADED_BY = "loaded-by-slug"
 
 const INDEX = "index"
 
-const INDEX_SLUG = "indexSlug"
-
 const INDEX_NAME = "name"
 
 const ATTRIBUTE_SLUGS = "attributeSlugs"
@@ -83,17 +81,11 @@ function attributesIn(held: Value): readonly string[] {
   return said.filter((one): one is string => typeof one === "string").map(slugOf)
 }
 
-function namedIn(found: Held, asked: string): string {
-  const said = textAt(found.value, INDEX)
-  if (said !== null) return said
-  return textFor(found.value, INDEX_SLUG, found.path, asked)
-}
-
 function askingFor(index: Answering, kind: string, asked: string): Asking {
   const found = heldFor(index, GRAPH_EDGE, kind, asked)
   return {
     kind,
-    indexName: indexNameFor(index, namedIn(found, asked), asked),
+    indexName: indexNameFor(index, textFor(found.value, INDEX, found.path, asked), asked),
     attributeSlugs: attributesIn(found.value),
   }
 }
