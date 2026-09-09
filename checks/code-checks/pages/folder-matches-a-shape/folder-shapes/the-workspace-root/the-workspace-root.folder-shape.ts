@@ -19,7 +19,7 @@ export const theWorkspaceRoot = {
     },
     {
       invariantKind: "departure",
-      statement: "Each pattern the root is allowed is added on its own.",
+      statement: "Each folder the root is allowed is added on its own.",
     },
     {
       invariantKind: "stopgap",
