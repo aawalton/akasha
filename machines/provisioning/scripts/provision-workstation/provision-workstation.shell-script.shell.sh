@@ -6,6 +6,7 @@ HERE="$(cd -- "$(dirname -- "$(readlink -f -- "$0")")" && pwd -P)"
 . "$HERE/../repo-roots/repo-roots.shell-script.shell.sh"
 AKASHA="$AKASHA_ROOT"
 FILES="$AKASHA_ROOT/machines/provisioning/provisioned-files/pages"
+DISPATCHER="$AKASHA/commands/modules/cli/cli.module.code.ts"
 SUDOERS_FILE="/etc/sudoers.d/walton-nopasswd"
 SUDOERS_LINE="$(whoami) ALL=(ALL) NOPASSWD: ALL"
 
@@ -101,15 +102,15 @@ fi
 
 echo "==> Installing the vendored upstream TamrielTradeCentre addon (ESOUI, via community-addon install command)..."
 if [ "$(uname)" != "Darwin" ]; then
-  if ! (cd "$AKASHA" && bun command-system/cli/cli.module.code.ts temper-community-addon-install TamrielTradeCentre); then
+  if ! (cd "$AKASHA" && bun "$DISPATCHER" temper-community-addon-install TamrielTradeCentre); then
     echo "WARN: TamrielTradeCentre install via community-addon command failed — continuing." >&2
   fi
 fi
 
 
 echo "==> Projecting the workstation-service pages into systemd units..."
-if [ -f "$AKASHA/command-system/cli/cli.module.code.ts" ]; then
-  if ! (cd "$AKASHA" && bun command-system/cli/cli.module.code.ts infrastructure service install --all); then
+if [ -f "$DISPATCHER" ]; then
+  if ! (cd "$AKASHA" && bun "$DISPATCHER" infrastructure service install --all); then
     echo "WARN: 'akasha infrastructure service install --all' failed — every service that a" >&2
     echo "      workstation-service page describes is uninstalled on this box." >&2
     echo "      Re-run it once the cause is cleared." >&2
