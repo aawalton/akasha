@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2WillowLonelyWitchVersion = {
   id: "01a0676a-d731-7022-9b68-4bf037818eda",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-willow-lonely-witch-version",
   title: "willow (lonely witch version)",
   partOfCollections: ["taylor-swift-2"],

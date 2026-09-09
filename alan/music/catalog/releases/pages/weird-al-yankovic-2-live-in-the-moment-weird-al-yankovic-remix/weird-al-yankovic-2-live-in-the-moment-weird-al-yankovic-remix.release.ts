@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const weirdAlYankovic2LiveInTheMomentWeirdAlYankovicRemix = {
   id: "01a0676a-d723-7053-a457-175db5ffc094",
   pageTypeSlug: "release",
+  type: "release",
   slug: "weird-al-yankovic-2-live-in-the-moment-weird-al-yankovic-remix",
   title: "Live in the Moment ('Weird Al' Yankovic Remix)",
   partOfCollections: ["weird-al-yankovic-2"],

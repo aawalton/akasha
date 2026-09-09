@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquare20GreatBachHandelChoruses = {
   id: "01a0676a-d714-701d-85b2-62cd90893da6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-20-great-bach-handel-choruses",
   title: "20 Great Bach & Handel Choruses",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

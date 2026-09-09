@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareSilentNight = {
   id: "01a0676a-d729-7008-b8cc-ec87215e6014",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-silent-night",
   title: "Silent Night",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

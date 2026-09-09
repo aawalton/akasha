@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareLoveIsSpokenHere = {
   id: "01a0676a-d723-706c-a23d-a670c75d51b5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-love-is-spoken-here",
   title: "Love Is Spoken Here",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

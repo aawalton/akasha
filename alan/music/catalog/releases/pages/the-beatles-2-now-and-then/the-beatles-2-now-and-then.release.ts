@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2NowAndThen = {
   id: "01a0676a-d726-7001-a99f-74b2b670f644",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-now-and-then",
   title: "Now And Then",
   partOfCollections: ["the-beatles-2"],

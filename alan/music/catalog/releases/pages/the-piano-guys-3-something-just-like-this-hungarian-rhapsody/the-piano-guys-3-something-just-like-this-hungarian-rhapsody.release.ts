@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const thePianoGuys3SomethingJustLikeThisHungarianRhapsody = {
   id: "01a0676a-d729-705c-9651-796c9f685e28",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-piano-guys-3-something-just-like-this-hungarian-rhapsody",
   title: "Something Just Like This / Hungarian Rhapsody",
   partOfCollections: ["the-piano-guys-3"],

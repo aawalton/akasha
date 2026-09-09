@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareTheEssentialMormonTabernacleChoir = {
   id: "01a0676a-d72d-700b-a016-d37511a68c35",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-essential-mormon-tabernacle-choir",
   title: "The Essential Mormon Tabernacle Choir",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

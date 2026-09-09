@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theHoldernessFamilyHotDadSummer = {
   id: "01a0676a-d720-705f-a761-df0f309088c0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-holderness-family-hot-dad-summer",
   title: "Hot Dad Summer",
   partOfCollections: ["the-holderness-family"],

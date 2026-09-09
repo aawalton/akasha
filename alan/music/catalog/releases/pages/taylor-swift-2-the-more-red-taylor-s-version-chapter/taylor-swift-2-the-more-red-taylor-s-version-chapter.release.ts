@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2TheMoreRedTaylorSVersionChapter = {
   id: "01a0676a-d72d-7046-a01b-03d323e4d326",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-the-more-red-taylor-s-version-chapter",
   title: "The More Red (Taylor’s Version) Chapter",
   partOfCollections: ["taylor-swift-2"],

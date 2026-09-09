@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const weirdAlYankovic2UhfWeirdAlYankovic = {
   id: "01a0676a-d72f-702d-b21b-f9f7d3d8ae14",
   pageTypeSlug: "release",
+  type: "release",
   slug: "weird-al-yankovic-2-uhf-weird-al-yankovic",
   title: 'UHF: "Weird Al" Yankovic',
   partOfCollections: ["weird-al-yankovic-2"],

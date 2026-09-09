@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const thePianoGuys3WhatWasIMadeFor = {
   id: "01a0676a-d730-704b-b10d-864c54f7a3af",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-piano-guys-3-what-was-i-made-for",
   title: "What Was I Made For?",
   partOfCollections: ["the-piano-guys-3"],

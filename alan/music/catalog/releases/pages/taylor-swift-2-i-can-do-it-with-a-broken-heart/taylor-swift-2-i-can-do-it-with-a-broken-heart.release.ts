@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2ICanDoItWithABrokenHeart = {
   id: "01a0676a-d721-7004-a18e-3ff1a710f9ca",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-i-can-do-it-with-a-broken-heart",
   title: "I Can Do It With a Broken Heart",
   partOfCollections: ["taylor-swift-2"],

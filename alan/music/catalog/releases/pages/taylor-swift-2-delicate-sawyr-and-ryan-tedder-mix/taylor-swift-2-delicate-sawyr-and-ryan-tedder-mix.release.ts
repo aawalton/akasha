@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2DelicateSawyrAndRyanTedderMix = {
   id: "01a0676a-d71c-7004-965c-6b3db5cdb8b4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-delicate-sawyr-and-ryan-tedder-mix",
   title: "Delicate (Sawyr And Ryan Tedder Mix)",
   partOfCollections: ["taylor-swift-2"],

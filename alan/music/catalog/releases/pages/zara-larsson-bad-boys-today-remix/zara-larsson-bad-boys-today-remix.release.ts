@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonBadBoysTodayRemix = {
   id: "01a0676a-d718-7006-87ad-e8012eaa096d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-bad-boys-today-remix",
   title: "Bad Boys (Today Remix)",
   partOfCollections: ["zara-larsson"],

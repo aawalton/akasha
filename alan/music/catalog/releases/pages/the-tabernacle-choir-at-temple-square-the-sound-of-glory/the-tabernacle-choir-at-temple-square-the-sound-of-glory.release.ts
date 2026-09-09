@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareTheSoundOfGlory = {
   id: "01a0676a-d72e-700e-839b-b2f033c5074b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-sound-of-glory",
   title: "The Sound of Glory",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareLetUsAllPressOnHymnsOfPraiseAndInspiration = {
   id: "01a0676a-d723-7026-a330-7d21dd97e806",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-let-us-all-press-on-hymns-of-praise-and-inspiration",
   title: "Let Us All Press On: Hymns of Praise and Inspiration",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

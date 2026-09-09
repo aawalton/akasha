@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareGreatestHits22BestLovedFavorites = {
   id: "01a0676a-d72d-7047-aaca-579600bd6a1d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-greatest-hits-22-best-loved-favorites",
   title: "The Mormon Tabernacle Choir's Greatest Hits - 22 Best-Loved Favorites",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

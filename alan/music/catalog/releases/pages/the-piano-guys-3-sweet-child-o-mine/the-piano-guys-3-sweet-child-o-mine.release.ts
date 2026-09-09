@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const thePianoGuys3SweetChildOMine = {
   id: "01a0676a-d72b-7001-a242-6eba569b2d72",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-piano-guys-3-sweet-child-o-mine",
   title: "Sweet Child o' Mine",
   partOfCollections: ["the-piano-guys-3"],

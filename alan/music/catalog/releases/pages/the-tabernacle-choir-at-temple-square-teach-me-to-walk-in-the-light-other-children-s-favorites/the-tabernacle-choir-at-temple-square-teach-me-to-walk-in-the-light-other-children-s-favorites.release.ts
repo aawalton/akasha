@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareTeachMeToWalkInTheLightOtherChildrenSFavorites = {
   id: "01a0676a-d72c-7006-acfc-fcc464e9a898",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-teach-me-to-walk-in-the-light-other-children-s-favorites",
   title: "Teach Me to Walk in the Light & Other Children's Favorites",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

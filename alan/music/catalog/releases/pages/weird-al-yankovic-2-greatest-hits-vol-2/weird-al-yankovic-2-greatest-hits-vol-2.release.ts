@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const weirdAlYankovic2GreatestHitsVol2 = {
   id: "01a0676a-d71f-702e-8d4e-5c7257d1ffcd",
   pageTypeSlug: "release",
+  type: "release",
   slug: "weird-al-yankovic-2-greatest-hits-vol-2",
   title: "Greatest Hits, Vol. 2",
   partOfCollections: ["weird-al-yankovic-2"],

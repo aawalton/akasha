@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const tomLehrerTomfooleryOriginalLondonCast = {
   id: "01a0676a-d72f-7010-b282-2441b3722c3c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "tom-lehrer-tomfoolery-original-london-cast",
   title: "Tomfoolery (Original London Cast)",
   partOfCollections: ["tom-lehrer"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2Beatles64MusicFromTheDisneyDocumentary = {
   id: "01a0676a-d718-7025-882b-be9b66cafad4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-beatles-64-music-from-the-disney-documentary",
   title: "Beatles '64 (Music from the Disney+ Documentary)",
   partOfCollections: ["the-beatles-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const thePianoGuys3TestDriveFromHowToTrainYourDragon = {
   id: "01a0676a-d72c-700d-86cc-bb3ae7b7f11d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-piano-guys-3-test-drive-from-how-to-train-your-dragon",
   title: 'Test Drive (From "How To Train Your Dragon")',
   partOfCollections: ["the-piano-guys-3"],

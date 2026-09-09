@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2LiveAtTheBbcRemastered = {
   id: "01a0676a-d723-7045-a1b7-8f2be6853051",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-live-at-the-bbc-remastered",
   title: "Live At The BBC (Remastered)",
   partOfCollections: ["the-beatles-2"],

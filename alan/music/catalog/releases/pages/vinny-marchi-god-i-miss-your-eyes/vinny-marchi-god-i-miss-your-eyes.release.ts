@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const vinnyMarchiGodIMissYourEyes = {
   id: "01a0676a-d71f-700b-90ff-74b893bc519b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "vinny-marchi-god-i-miss-your-eyes",
   title: "god i miss your eyes",
   partOfCollections: ["vinny-marchi"],

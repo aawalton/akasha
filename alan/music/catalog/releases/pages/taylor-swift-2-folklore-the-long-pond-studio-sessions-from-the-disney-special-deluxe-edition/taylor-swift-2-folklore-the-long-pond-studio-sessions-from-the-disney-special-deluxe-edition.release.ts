@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDeluxeEdition = {
   id: "01a0676a-d71e-701d-9d87-6976a1a11a46",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-folklore-the-long-pond-studio-sessions-from-the-disney-special-deluxe-edition",
   title: "folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]",
   partOfCollections: ["taylor-swift-2"],

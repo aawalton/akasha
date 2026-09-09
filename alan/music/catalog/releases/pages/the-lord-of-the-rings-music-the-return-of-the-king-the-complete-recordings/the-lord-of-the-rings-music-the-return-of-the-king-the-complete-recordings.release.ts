@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theLordOfTheRingsMusicTheReturnOfTheKingTheCompleteRecordings = {
   id: "01a0676a-d72d-7037-a411-de5fb2945ac6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-lord-of-the-rings-music-the-return-of-the-king-the-complete-recordings",
   title:
     "The Lord of the Rings - The Return of the King - The Complete Recordings (Limited Edition)",

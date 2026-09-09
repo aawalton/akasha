@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theHoldernessFamilyBestOf2023 = {
   id: "01a0676a-d718-7045-bb92-057ad721ca0f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-holderness-family-best-of-2023",
   title: "Best of 2023",
   partOfCollections: ["the-holderness-family"],

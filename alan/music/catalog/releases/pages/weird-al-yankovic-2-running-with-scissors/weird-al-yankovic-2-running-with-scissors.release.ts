@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const weirdAlYankovic2RunningWithScissors = {
   id: "01a0676a-d728-7030-b3f2-4134bb6b7353",
   pageTypeSlug: "release",
+  type: "release",
   slug: "weird-al-yankovic-2-running-with-scissors",
   title: "Running With Scissors",
   partOfCollections: ["weird-al-yankovic-2"],

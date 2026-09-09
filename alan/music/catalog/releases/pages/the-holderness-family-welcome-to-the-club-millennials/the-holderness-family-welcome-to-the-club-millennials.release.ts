@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theHoldernessFamilyWelcomeToTheClubMillennials = {
   id: "01a0676a-d730-703d-a6b7-38669d64ebc2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-holderness-family-welcome-to-the-club-millennials",
   title: "Welcome to the Club, Millennials",
   partOfCollections: ["the-holderness-family"],

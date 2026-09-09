@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareSibeliusSymphoniesNos127 = {
   id: "01a0676a-d729-7000-9949-03e4f89e7458",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-sibelius-symphonies-nos-1-2-7",
   title: "Sibelius: Symphonies Nos. 1,2,7 & Orchestral Works by Eugene Ormandy",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

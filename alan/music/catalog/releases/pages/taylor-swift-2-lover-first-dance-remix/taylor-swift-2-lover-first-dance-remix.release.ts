@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2LoverFirstDanceRemix = {
   id: "01a0676a-d724-700a-96ff-313a2b774cbd",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-lover-first-dance-remix",
   title: "Lover (First Dance Remix)",
   partOfCollections: ["taylor-swift-2"],

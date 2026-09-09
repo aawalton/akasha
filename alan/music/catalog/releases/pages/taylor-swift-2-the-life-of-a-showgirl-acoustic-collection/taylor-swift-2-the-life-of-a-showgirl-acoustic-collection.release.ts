@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2TheLifeOfAShowgirlAcousticCollection = {
   id: "01a0676a-d72d-7033-b6d6-640d89348a3c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-the-life-of-a-showgirl-acoustic-collection",
   title: "The Life of a Showgirl + Acoustic Collection",
   partOfCollections: ["taylor-swift-2"],

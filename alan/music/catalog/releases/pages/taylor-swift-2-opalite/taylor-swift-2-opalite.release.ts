@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2Opalite = {
   id: "01a0676a-d726-703d-a07a-845e951cc266",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-opalite",
   title: "Opalite",
   partOfCollections: ["taylor-swift-2"],

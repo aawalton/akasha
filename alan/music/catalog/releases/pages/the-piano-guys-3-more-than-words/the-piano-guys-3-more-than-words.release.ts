@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const thePianoGuys3MoreThanWords = {
   id: "01a0676a-d725-7004-a465-a49f4d62adaf",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-piano-guys-3-more-than-words",
   title: "More Than Words",
   partOfCollections: ["the-piano-guys-3"],

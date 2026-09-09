@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const tomLehrerMoreOfTomLehrer = {
   id: "01a0676a-d725-7003-a2e8-c600eab167b5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "tom-lehrer-more-of-tom-lehrer",
   title: "More of Tom Lehrer",
   partOfCollections: ["tom-lehrer"],

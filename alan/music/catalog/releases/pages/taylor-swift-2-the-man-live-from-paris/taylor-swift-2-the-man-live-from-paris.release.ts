@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2TheManLiveFromParis = {
   id: "01a0676a-d72d-703f-8cc3-43ab960cc5ff",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-the-man-live-from-paris",
   title: "The Man (Live From Paris)",
   partOfCollections: ["taylor-swift-2"],

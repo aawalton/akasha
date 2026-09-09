@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareHandelSMessiah = {
   id: "01a0676a-d71f-7044-9eab-9f7d8bbc99b3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-handel-s-messiah",
   title: "Handel's Messiah",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

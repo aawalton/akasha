@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const vinnyMarchiMyMotherToldMe = {
   id: "01a0676a-d725-7033-a6f2-bc73b979b80c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "vinny-marchi-my-mother-told-me",
   title: "My Mother Told Me",
   partOfCollections: ["vinny-marchi"],

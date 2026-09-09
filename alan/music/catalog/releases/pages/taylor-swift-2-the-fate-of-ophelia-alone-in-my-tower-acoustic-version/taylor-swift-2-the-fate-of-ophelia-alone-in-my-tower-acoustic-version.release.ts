@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2TheFateOfOpheliaAloneInMyTowerAcousticVersion = {
   id: "01a0676a-d72d-700e-981e-a79102407121",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-the-fate-of-ophelia-alone-in-my-tower-acoustic-version",
   title: "The Fate of Ophelia (Alone In My Tower Acoustic Version)",
   partOfCollections: ["taylor-swift-2"],

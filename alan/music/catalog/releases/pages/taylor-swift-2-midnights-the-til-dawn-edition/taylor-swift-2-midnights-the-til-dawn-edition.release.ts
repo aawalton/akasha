@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2MidnightsTheTilDawnEdition = {
   id: "01a0676a-d724-7067-a84b-9876c6c50e05",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-midnights-the-til-dawn-edition",
   title: "Midnights (The Til Dawn Edition)",
   partOfCollections: ["taylor-swift-2"],

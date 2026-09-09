@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonCanTTameHerDjSmallz732JerseyClubRemix = {
   id: "01a0676a-d719-705b-8c23-e1e0ff14c824",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-can-t-tame-her-dj-smallz-732-jersey-club-remix",
   title: "Can't Tame Her (DJ Smallz 732 Jersey Club Remix)",
   partOfCollections: ["zara-larsson"],

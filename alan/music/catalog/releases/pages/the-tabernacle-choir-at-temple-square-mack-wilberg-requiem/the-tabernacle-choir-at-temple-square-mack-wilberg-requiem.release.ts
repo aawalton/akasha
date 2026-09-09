@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareMackWilbergRequiem = {
   id: "01a0676a-d724-7021-90ab-ca5ae563a6e3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-mack-wilberg-requiem",
   title: "Mack Wilberg: Requiem",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theLordOfTheRingsMusicTheHobbitTheBattleOfTheFiveArmies = {
   id: "01a0676a-d72d-7025-98af-9285ee3fb8e3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-lord-of-the-rings-music-the-hobbit-the-battle-of-the-five-armies",
   title:
     "The Hobbit: The Battle of the Five Armies (Original Motion Picture Soundtrack) [Special Edition]",

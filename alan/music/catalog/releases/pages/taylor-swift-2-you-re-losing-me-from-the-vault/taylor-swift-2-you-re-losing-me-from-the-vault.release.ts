@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2YouReLosingMeFromTheVault = {
   id: "01a0676a-d732-7014-95fd-349204c54484",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-you-re-losing-me-from-the-vault",
   title: "You're Losing Me (From The Vault)",
   partOfCollections: ["taylor-swift-2"],

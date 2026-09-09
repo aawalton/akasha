@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonCanTTameHerTheRemixes = {
   id: "01a0676a-d719-705c-b3f2-8a6fc217928c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-can-t-tame-her-the-remixes",
   title: "Can't Tame Her (The Remixes)",
   partOfCollections: ["zara-larsson"],

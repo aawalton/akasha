@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const yaelokreHartebeest = {
   id: "01a0676a-d71f-7057-a778-73bbac487470",
   pageTypeSlug: "release",
+  type: "release",
   slug: "yaelokre-hartebeest",
   title: "Hartebeest",
   partOfCollections: ["yaelokre"],

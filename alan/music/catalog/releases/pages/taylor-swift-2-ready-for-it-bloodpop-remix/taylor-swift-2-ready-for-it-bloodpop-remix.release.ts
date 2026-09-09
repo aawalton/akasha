@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2ReadyForItBloodpopRemix = {
   id: "01a0676a-d727-704f-9f9c-1f95636bc95f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-ready-for-it-bloodpop-remix",
   title: "...Ready For It? (BloodPop® Remix)",
   partOfCollections: ["taylor-swift-2"],

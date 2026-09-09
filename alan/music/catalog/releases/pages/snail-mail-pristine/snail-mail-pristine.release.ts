@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const snailMailPristine = {
   id: "01a0676a-d727-7023-aca6-499950037cd1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "snail-mail-pristine",
   title: "Pristine",
   partOfCollections: ["snail-mail"],

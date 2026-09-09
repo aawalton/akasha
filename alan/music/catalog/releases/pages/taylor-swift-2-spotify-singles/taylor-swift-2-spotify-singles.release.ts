@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2SpotifySingles = {
   id: "01a0676a-d72a-7004-a0b9-eafe6dd80b54",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-spotify-singles",
   title: "Spotify Singles",
   partOfCollections: ["taylor-swift-2"],

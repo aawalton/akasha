@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2YellowSubmarineSongtrack = {
   id: "01a0676a-d731-704a-a1b9-eea3cb63aab8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-yellow-submarine-songtrack",
   title: "Yellow Submarine Songtrack",
   partOfCollections: ["the-beatles-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2ChristmasTreeFarm = {
   id: "01a0676a-d71a-7044-9b3c-e111be33f877",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-christmas-tree-farm",
   title: "Christmas Tree Farm",
   partOfCollections: ["taylor-swift-2"],

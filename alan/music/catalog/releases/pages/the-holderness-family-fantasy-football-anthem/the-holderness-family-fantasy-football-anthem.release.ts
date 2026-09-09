@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theHoldernessFamilyFantasyFootballAnthem = {
   id: "01a0676a-d71d-7061-b824-108a69cd65bb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-holderness-family-fantasy-football-anthem",
   title: "Fantasy Football Anthem",
   partOfCollections: ["the-holderness-family"],

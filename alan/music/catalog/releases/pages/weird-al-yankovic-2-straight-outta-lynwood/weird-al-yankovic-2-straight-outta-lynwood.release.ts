@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const weirdAlYankovic2StraightOuttaLynwood = {
   id: "01a0676a-d72a-7028-920f-24d97e949441",
   pageTypeSlug: "release",
+  type: "release",
   slug: "weird-al-yankovic-2-straight-outta-lynwood",
   title: "Straight Outta Lynwood",
   partOfCollections: ["weird-al-yankovic-2"],

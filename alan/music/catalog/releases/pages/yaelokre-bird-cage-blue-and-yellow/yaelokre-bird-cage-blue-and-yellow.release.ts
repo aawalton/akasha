@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const yaelokreBirdCageBlueAndYellow = {
   id: "01a0676a-d719-7008-a982-361dd3fa133f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "yaelokre-bird-cage-blue-and-yellow",
   title: "Bird cage blue and yellow",
   partOfCollections: ["yaelokre"],

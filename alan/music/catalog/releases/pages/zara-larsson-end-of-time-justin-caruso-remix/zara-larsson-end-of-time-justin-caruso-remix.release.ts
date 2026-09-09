@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const zaraLarssonEndOfTimeJustinCarusoRemix = {
   id: "01a0676a-d71d-7010-a59a-2bb580e283ca",
   pageTypeSlug: "release",
+  type: "release",
   slug: "zara-larsson-end-of-time-justin-caruso-remix",
   title: "End Of Time (Justin Caruso Remix)",
   partOfCollections: ["zara-larsson"],

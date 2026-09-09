@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2LavenderHazeAcousticVersion = {
   id: "01a0676a-d722-7062-94d5-4442380a40ad",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-lavender-haze-acoustic-version",
   title: "Lavender Haze (Acoustic Version)",
   partOfCollections: ["taylor-swift-2"],

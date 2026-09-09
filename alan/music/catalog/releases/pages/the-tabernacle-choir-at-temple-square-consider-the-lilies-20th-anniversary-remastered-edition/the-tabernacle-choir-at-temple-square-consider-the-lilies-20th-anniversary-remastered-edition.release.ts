@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareConsiderTheLilies20thAnniversaryRemasteredEdition = {
   id: "01a0676a-d71b-7025-b987-802661b9e79f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-consider-the-lilies-20th-anniversary-remastered-edition",
   title: "Consider the Lilies (20th Anniversary Remastered Edition)",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

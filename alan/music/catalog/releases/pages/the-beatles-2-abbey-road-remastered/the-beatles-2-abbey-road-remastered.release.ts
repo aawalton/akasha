@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2AbbeyRoadRemastered = {
   id: "01a0676a-d715-704b-8aad-dca52a494f3b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-abbey-road-remastered",
   title: "Abbey Road (Remastered)",
   partOfCollections: ["the-beatles-2"],

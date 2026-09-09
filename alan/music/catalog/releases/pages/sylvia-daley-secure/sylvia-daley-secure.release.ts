@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sylviaDaleySecure = {
   id: "01a0676a-d728-705c-94f7-938b5dbc3ba5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sylvia-daley-secure",
   title: "Secure",
   partOfCollections: ["sylvia-daley"],

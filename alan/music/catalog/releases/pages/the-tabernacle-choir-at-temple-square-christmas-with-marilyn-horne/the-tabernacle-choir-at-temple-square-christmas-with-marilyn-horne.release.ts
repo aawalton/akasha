@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareChristmasWithMarilynHorne = {
   id: "01a0676a-d71a-7049-bdc8-1625e95983b2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-christmas-with-marilyn-horne",
   title: "Christmas with Marilyn Horne",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

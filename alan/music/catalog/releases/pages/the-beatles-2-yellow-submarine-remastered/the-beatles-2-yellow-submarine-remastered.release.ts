@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2YellowSubmarineRemastered = {
   id: "01a0676a-d731-7049-aa87-f7db1e8e06b9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-yellow-submarine-remastered",
   title: "Yellow Submarine (Remastered)",
   partOfCollections: ["the-beatles-2"],

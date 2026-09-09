@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareSeasonOfLight = {
   id: "01a0676a-d728-705b-b4c9-a14350f7c1a0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-season-of-light",
   title: "Season of Light: Christmas with the Tabernacle Choir and Orchestra at Temple Square",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

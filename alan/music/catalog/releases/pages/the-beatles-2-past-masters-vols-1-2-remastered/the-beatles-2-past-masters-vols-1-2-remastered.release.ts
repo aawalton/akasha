@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2PastMastersVols12Remastered = {
   id: "01a0676a-d726-7064-a490-4635ba691468",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-past-masters-vols-1-2-remastered",
   title: "Past Masters (Vols. 1 & 2 / Remastered)",
   partOfCollections: ["the-beatles-2"],

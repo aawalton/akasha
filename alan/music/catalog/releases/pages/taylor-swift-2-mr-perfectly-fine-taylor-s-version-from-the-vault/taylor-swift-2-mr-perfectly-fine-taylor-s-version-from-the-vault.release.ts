@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2MrPerfectlyFineTaylorSVersionFromTheVault = {
   id: "01a0676a-d725-7012-9460-8bbb2dfca2c7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-mr-perfectly-fine-taylor-s-version-from-the-vault",
   title: "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
   partOfCollections: ["taylor-swift-2"],

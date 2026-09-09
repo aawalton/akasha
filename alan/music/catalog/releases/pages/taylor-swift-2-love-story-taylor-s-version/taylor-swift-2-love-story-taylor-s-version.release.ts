@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2LoveStoryTaylorSVersion = {
   id: "01a0676a-d724-7002-85ab-c9a017545411",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-love-story-taylor-s-version",
   title: "Love Story (Taylor’s Version)",
   partOfCollections: ["taylor-swift-2"],

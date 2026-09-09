@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const vinnyMarchiTheHighSong = {
   id: "01a0676a-d72d-7020-ba40-fac65fc22d4a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "vinny-marchi-the-high-song",
   title: "The High Song",
   partOfCollections: ["vinny-marchi"],

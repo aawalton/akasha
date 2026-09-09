@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2EvermoreDeluxeVersion = {
   id: "01a0676a-d71d-7031-a901-84f461aa5045",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-evermore-deluxe-version",
   title: "evermore (deluxe version)",
   partOfCollections: ["taylor-swift-2"],

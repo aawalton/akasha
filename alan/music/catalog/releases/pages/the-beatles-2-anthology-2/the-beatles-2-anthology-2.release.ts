@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2Anthology2 = {
   id: "01a0676a-d717-7022-857c-c9c32176e378",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-anthology-2",
   title: "Anthology 2",
   partOfCollections: ["the-beatles-2"],

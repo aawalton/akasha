@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2ICanDoItWithABrokenHeartDombreskyRemix = {
   id: "01a0676a-d721-7005-a26a-e402c35b37ed",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-i-can-do-it-with-a-broken-heart-dombresky-remix",
   title: "I Can Do It With a Broken Heart (Dombresky Remix)",
   partOfCollections: ["taylor-swift-2"],

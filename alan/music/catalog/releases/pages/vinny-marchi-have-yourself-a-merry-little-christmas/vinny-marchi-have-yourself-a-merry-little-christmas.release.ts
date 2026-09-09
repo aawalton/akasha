@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const vinnyMarchiHaveYourselfAMerryLittleChristmas = {
   id: "01a0676a-d71f-705e-8645-b221dd41da75",
   pageTypeSlug: "release",
+  type: "release",
   slug: "vinny-marchi-have-yourself-a-merry-little-christmas",
   title: "Have Yourself A Merry Little Christmas",
   partOfCollections: ["vinny-marchi"],

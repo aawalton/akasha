@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const vinnyMarchiJonnyRifePulledAKnife = {
   id: "01a0676a-d722-7026-8926-0268ecd1d7df",
   pageTypeSlug: "release",
+  type: "release",
   slug: "vinny-marchi-jonny-rife-pulled-a-knife",
   title: "Jonny Rife Pulled a Knife",
   partOfCollections: ["vinny-marchi"],

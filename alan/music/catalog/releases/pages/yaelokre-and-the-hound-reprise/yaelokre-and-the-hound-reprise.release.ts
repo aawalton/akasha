@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const yaelokreAndTheHoundReprise = {
   id: "01a0676a-d717-701a-be3d-bbfa375e2fe7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "yaelokre-and-the-hound-reprise",
   title: "And the Hound (Reprise)",
   partOfCollections: ["yaelokre"],

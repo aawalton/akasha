@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2YouReNotSorryCsiRemix = {
   id: "01a0676a-d732-7016-a636-b3dd49673635",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-you-re-not-sorry-csi-remix",
   title: "You're Not Sorry (CSI Remix)",
   partOfCollections: ["taylor-swift-2"],

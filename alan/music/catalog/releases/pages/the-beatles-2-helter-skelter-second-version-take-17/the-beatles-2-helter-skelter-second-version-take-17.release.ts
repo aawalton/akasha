@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2HelterSkelterSecondVersionTake17 = {
   id: "01a0676a-d720-702d-be95-4cc9fe454cc1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-helter-skelter-second-version-take-17",
   title: "Helter Skelter (Second Version - Take 17)",
   partOfCollections: ["the-beatles-2"],

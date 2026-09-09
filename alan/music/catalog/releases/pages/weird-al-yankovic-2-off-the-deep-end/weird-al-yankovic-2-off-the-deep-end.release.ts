@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const weirdAlYankovic2OffTheDeepEnd = {
   id: "01a0676a-d726-7018-b748-966611882d8f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "weird-al-yankovic-2-off-the-deep-end",
   title: "Off The Deep End",
   partOfCollections: ["weird-al-yankovic-2"],

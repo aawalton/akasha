@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const thePianoGuys3MainTitleFromJurassicPark = {
   id: "01a0676a-d724-702b-845e-b8c6c71965cd",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-piano-guys-3-main-title-from-jurassic-park",
   title: 'Main Title (From "Jurassic Park")',
   partOfCollections: ["the-piano-guys-3"],

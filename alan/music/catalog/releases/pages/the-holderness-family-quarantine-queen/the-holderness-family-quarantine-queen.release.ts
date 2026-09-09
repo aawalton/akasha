@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theHoldernessFamilyQuarantineQueen = {
   id: "01a0676a-d727-7036-a9ed-116cdc8cb9f9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-holderness-family-quarantine-queen",
   title: "Quarantine Queen",
   partOfCollections: ["the-holderness-family"],

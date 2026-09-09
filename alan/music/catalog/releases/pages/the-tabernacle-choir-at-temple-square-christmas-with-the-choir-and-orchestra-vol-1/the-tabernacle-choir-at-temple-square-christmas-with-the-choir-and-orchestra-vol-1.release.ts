@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareChristmasWithTheChoirAndOrchestraVol1 = {
   id: "01a0676a-d71a-704c-ad4b-fd54e7553b36",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-christmas-with-the-choir-and-orchestra-vol-1",
   title: "Christmas With The Mormon Tabernacle Choir And Orchestra At Temple Square vol. 1",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

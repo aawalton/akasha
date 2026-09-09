@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theLordOfTheRingsMusicTheHobbitTheDesolationOfSmaug = {
   id: "01a0676a-d72d-7026-b3dc-a2f90acc7121",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-lord-of-the-rings-music-the-hobbit-the-desolation-of-smaug",
   title:
     "The Hobbit: The Desolation of Smaug (Original Motion Picture Soundtrack) [Special Edition]",

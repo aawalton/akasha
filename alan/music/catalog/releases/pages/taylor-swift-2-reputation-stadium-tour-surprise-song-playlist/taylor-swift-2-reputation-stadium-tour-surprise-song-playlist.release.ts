@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylist = {
   id: "01a0676a-d727-706b-b222-78097f438275",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-reputation-stadium-tour-surprise-song-playlist",
   title: "reputation Stadium Tour Surprise Song Playlist",
   partOfCollections: ["taylor-swift-2"],

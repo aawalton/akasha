@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const thePianoGuys3WalkingTheWireLargo = {
   id: "01a0676a-d730-7016-9066-1b203cf983e6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-piano-guys-3-walking-the-wire-largo",
   title: "Walking the Wire / Largo",
   partOfCollections: ["the-piano-guys-3"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2DeathByAThousandCutsLiveFromParis = {
   id: "01a0676a-d71b-7071-a635-8693081bd08a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-death-by-a-thousand-cuts-live-from-paris",
   title: "Death By A Thousand Cuts (Live From Paris)",
   partOfCollections: ["taylor-swift-2"],

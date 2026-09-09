@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2ChristmasTreeFarmRecordedLiveAtThe2019IheartradioJingleBall = {
   id: "01a0676a-d71a-7046-baa5-1eb7e1f2d0fe",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-christmas-tree-farm-recorded-live-at-the-2019-iheartradio-jingle-ball",
   title: "Christmas Tree Farm (Recorded Live at the 2019 iHeartRadio Jingle Ball)",
   partOfCollections: ["taylor-swift-2"],

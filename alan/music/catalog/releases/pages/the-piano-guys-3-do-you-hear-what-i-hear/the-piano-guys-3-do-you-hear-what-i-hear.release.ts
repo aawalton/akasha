@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const thePianoGuys3DoYouHearWhatIHear = {
   id: "01a0676a-d71c-701d-8019-fb7a693c2f31",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-piano-guys-3-do-you-hear-what-i-hear",
   title: "Do You Hear What I Hear?",
   partOfCollections: ["the-piano-guys-3"],

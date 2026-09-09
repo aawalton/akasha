@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const vinnyMarchiLovelessAndModernLanguage = {
   id: "01a0676a-d724-7006-9941-fb8e85350834",
   pageTypeSlug: "release",
+  type: "release",
   slug: "vinny-marchi-loveless-and-modern-language",
   title: "Loveless and Modern Language",
   partOfCollections: ["vinny-marchi"],

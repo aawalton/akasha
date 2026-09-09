@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquare100YearsCelebratingACenturyOfRecordingExcellence = {
   id: "01a0676a-d714-700f-82e6-958dd04c1e79",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-100-years-celebrating-a-century-of-recording-excellence",
   title: "100 Years: Celebrating a Century of Recording Excellence",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

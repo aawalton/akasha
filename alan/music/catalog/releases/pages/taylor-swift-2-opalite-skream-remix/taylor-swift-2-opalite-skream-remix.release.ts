@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2OpaliteSkreamRemix = {
   id: "01a0676a-d726-7042-999b-177605488acf",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-opalite-skream-remix",
   title: "Opalite (Skream Remix)",
   partOfCollections: ["taylor-swift-2"],

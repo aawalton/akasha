@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareAMerryLittleChristmas = {
   id: "01a0676a-d715-7031-9297-bbb8f713bdee",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-a-merry-little-christmas",
   title: "A Merry Little Christmas",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

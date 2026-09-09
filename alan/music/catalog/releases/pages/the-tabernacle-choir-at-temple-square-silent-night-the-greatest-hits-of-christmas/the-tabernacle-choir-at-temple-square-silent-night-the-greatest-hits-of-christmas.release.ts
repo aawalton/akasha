@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareSilentNightTheGreatestHitsOfChristmas = {
   id: "01a0676a-d729-7009-9009-dddd49fd8c30",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-silent-night-the-greatest-hits-of-christmas",
   title: "Silent Night: The Greatest Hits of Christmas",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

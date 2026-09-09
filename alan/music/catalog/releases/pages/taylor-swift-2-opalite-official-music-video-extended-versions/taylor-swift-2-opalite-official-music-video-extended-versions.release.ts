@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2OpaliteOfficialMusicVideoExtendedVersions = {
   id: "01a0676a-d726-7041-9637-c7da36f5eeea",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-opalite-official-music-video-extended-versions",
   title: "Opalite [Official Music Video (Extended Versions)]",
   partOfCollections: ["taylor-swift-2"],

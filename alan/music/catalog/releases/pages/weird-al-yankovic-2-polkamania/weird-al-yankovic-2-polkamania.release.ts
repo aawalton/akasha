@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const weirdAlYankovic2Polkamania = {
   id: "01a0676a-d727-7002-84c7-6b62db4fc59b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "weird-al-yankovic-2-polkamania",
   title: "Polkamania!",
   partOfCollections: ["weird-al-yankovic-2"],

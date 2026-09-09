@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2CarolinaFromTheMotionPictureWhereTheCrawdadsSing = {
   id: "01a0676a-d71a-7001-9896-da950bd67b4b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-carolina-from-the-motion-picture-where-the-crawdads-sing",
   title: "Carolina (From The Motion Picture “Where The Crawdads Sing”)",
   partOfCollections: ["taylor-swift-2"],

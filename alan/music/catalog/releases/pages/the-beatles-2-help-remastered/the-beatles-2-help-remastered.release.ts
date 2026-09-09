@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2HelpRemastered = {
   id: "01a0676a-d720-702b-8b79-0216fa42badd",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-help-remastered",
   title: "Help! (Remastered)",
   partOfCollections: ["the-beatles-2"],

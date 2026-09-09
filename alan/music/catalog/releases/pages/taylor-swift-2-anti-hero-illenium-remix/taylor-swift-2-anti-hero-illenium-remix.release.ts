@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2AntiHeroIlleniumRemix = {
   id: "01a0676a-d717-7028-bfaa-dbc7d4f177f0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-anti-hero-illenium-remix",
   title: "Anti-Hero (ILLENIUM Remix)",
   partOfCollections: ["taylor-swift-2"],

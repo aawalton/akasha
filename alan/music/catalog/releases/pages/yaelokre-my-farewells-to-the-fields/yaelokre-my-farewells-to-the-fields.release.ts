@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const yaelokreMyFarewellsToTheFields = {
   id: "01a0676a-d725-7028-9119-0ba002cd0eda",
   pageTypeSlug: "release",
+  type: "release",
   slug: "yaelokre-my-farewells-to-the-fields",
   title: "My farewells to the fields",
   partOfCollections: ["yaelokre"],

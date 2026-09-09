@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareHeavensongMusicOfContemplationAndLight = {
   id: "01a0676a-d720-7023-bdf7-2bf937da5243",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-heavensong-music-of-contemplation-and-light",
   title: "Heavensong: Music of Contemplation and Light",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2SweeterThanFiction = {
   id: "01a0676a-d72b-7004-9054-14df53084c5a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-sweeter-than-fiction",
   title: "Sweeter Than Fiction",
   partOfCollections: ["taylor-swift-2"],

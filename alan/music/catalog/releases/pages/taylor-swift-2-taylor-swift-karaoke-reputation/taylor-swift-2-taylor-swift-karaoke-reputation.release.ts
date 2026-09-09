@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2TaylorSwiftKaraokeReputation = {
   id: "01a0676a-d72c-7005-a874-49897296c1ba",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-taylor-swift-karaoke-reputation",
   title: "Taylor Swift Karaoke: reputation",
   partOfCollections: ["taylor-swift-2"],

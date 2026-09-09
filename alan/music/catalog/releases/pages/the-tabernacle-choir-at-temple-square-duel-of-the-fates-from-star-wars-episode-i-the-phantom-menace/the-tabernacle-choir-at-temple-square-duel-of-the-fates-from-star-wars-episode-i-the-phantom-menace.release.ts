@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareDuelOfTheFatesFromStarWarsEpisodeIThePhantomMenace = {
   id: "01a0676a-d71c-7041-a9a4-29cda1d8453b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-duel-of-the-fates-from-star-wars-episode-i-the-phantom-menace",
   title: 'Duel of the Fates (From "Star Wars Episode I: The Phantom Menace")',
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

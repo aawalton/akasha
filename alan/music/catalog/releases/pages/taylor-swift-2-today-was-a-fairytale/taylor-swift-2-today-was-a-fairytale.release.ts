@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2TodayWasAFairytale = {
   id: "01a0676a-d72f-700b-9a64-086da5664c5f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-today-was-a-fairytale",
   title: "Today Was A Fairytale",
   partOfCollections: ["taylor-swift-2"],

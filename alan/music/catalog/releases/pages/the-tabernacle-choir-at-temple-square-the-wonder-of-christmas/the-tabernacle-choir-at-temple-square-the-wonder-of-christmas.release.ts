@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareTheWonderOfChristmas = {
   id: "01a0676a-d72e-7020-b338-1f8a20f9ac43",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-wonder-of-christmas",
   title: "The Wonder of Christmas",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

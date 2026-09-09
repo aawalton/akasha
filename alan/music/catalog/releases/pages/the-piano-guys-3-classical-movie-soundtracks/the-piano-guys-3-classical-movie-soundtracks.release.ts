@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const thePianoGuys3ClassicalMovieSoundtracks = {
   id: "01a0676a-d71b-7000-9fcb-ea4bdf1b54eb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-piano-guys-3-classical-movie-soundtracks",
   title: "Classical Movie Soundtracks",
   partOfCollections: ["the-piano-guys-3"],

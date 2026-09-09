@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2LoverRemixFeatShawnMendes = {
   id: "01a0676a-d724-700c-a07d-6f3c352e954b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-lover-remix-feat-shawn-mendes",
   title: "Lover (Remix) [feat. Shawn Mendes]",
   partOfCollections: ["taylor-swift-2"],

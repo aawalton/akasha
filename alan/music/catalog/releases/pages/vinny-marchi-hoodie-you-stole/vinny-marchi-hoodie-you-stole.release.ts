@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const vinnyMarchiHoodieYouStole = {
   id: "01a0676a-d720-705b-978a-d5734eb72b82",
   pageTypeSlug: "release",
+  type: "release",
   slug: "vinny-marchi-hoodie-you-stole",
   title: "Hoodie You Stole",
   partOfCollections: ["vinny-marchi"],

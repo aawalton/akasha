@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const thePianoGuys3UnsungHero = {
   id: "01a0676a-d72f-7052-9284-073ca6e60e36",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-piano-guys-3-unsung-hero",
   title: "Unsung Hero",
   partOfCollections: ["the-piano-guys-3"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2RedTaylorSVersion = {
   id: "01a0676a-d727-705f-9a63-c90c8ea35350",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-red-taylor-s-version",
   title: "Red (Taylor's Version)",
   partOfCollections: ["taylor-swift-2"],

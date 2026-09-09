@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const thePianoGuys3EyeOfTheTiger = {
   id: "01a0676a-d71d-7052-b924-ba4c37c72a31",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-piano-guys-3-eye-of-the-tiger",
   title: "Eye of the Tiger",
   partOfCollections: ["the-piano-guys-3"],

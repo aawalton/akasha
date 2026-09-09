@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theHoldernessFamilyInflatablesAnthemOriginalSong = {
   id: "01a0676a-d721-7072-8139-a548f999fc58",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-holderness-family-inflatables-anthem-original-song",
   title: "Inflatables Anthem (Original Song)",
   partOfCollections: ["the-holderness-family"],

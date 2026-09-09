@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareNoelAWorldwideChristmasCelebrationLegacySeries = {
   id: "01a0676a-d725-7070-b856-a04b1051a1ec",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-noel-a-worldwide-christmas-celebration-legacy-series",
   title: "Noel: a Worldwide Christmas Celebration (Legacy Series)",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

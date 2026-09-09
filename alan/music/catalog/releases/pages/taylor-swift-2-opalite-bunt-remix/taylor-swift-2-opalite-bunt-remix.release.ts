@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2OpaliteBuntRemix = {
   id: "01a0676a-d726-703e-9f34-4cf548dd6bf4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-opalite-bunt-remix",
   title: "Opalite (BUNT. Remix)",
   partOfCollections: ["taylor-swift-2"],

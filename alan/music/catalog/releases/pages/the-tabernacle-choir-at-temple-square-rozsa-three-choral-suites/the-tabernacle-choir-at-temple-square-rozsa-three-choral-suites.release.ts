@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareRozsaThreeChoralSuites = {
   id: "01a0676a-d728-7025-96ad-7872e67f490a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-rozsa-three-choral-suites",
   title: "Rózsa: Three Choral Suites",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2LiveAtTheHollywoodBowl = {
   id: "01a0676a-d723-7047-a0a7-8f316785edc2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-live-at-the-hollywood-bowl",
   title: "Live At The Hollywood Bowl",
   partOfCollections: ["the-beatles-2"],

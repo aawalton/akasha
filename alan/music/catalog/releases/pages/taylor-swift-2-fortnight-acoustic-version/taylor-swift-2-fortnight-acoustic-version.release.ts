@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2FortnightAcousticVersion = {
   id: "01a0676a-d71e-7030-b356-8b19ff8e3e3f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-fortnight-acoustic-version",
   title: "Fortnight (Acoustic Version)",
   partOfCollections: ["taylor-swift-2"],

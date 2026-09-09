@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const tomLehrerPoisoningPigeons = {
   id: "01a0676a-d726-7087-b20a-d9ee569a0a18",
   pageTypeSlug: "release",
+  type: "release",
   slug: "tom-lehrer-poisoning-pigeons",
   title: "Poisoning Pigeons",
   partOfCollections: ["tom-lehrer"],

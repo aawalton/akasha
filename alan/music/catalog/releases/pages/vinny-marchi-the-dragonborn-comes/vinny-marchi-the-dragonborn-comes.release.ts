@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const vinnyMarchiTheDragonbornComes = {
   id: "01a0676a-d72d-7002-8c2d-23d6efb74d62",
   pageTypeSlug: "release",
+  type: "release",
   slug: "vinny-marchi-the-dragonborn-comes",
   title: "The Dragonborn Comes",
   partOfCollections: ["vinny-marchi"],

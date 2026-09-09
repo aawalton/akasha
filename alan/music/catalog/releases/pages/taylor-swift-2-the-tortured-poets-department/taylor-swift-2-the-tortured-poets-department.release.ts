@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2TheTorturedPoetsDepartment = {
   id: "01a0676a-d72e-7016-aa48-f99ebd7f5903",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-the-tortured-poets-department",
   title: "THE TORTURED POETS DEPARTMENT",
   partOfCollections: ["taylor-swift-2"],

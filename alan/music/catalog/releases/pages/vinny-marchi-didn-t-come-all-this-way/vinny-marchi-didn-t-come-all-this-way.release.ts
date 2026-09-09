@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const vinnyMarchiDidnTComeAllThisWay = {
   id: "01a0676a-d71c-7011-bf86-bdf0ea52eea3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "vinny-marchi-didn-t-come-all-this-way",
   title: "Didn't Come All This Way",
   partOfCollections: ["vinny-marchi"],

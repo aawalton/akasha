@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2TheBeatles19621966Remastered = {
   id: "01a0676a-d72c-702c-baa9-125d02ed3751",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-the-beatles-1962-1966-remastered",
   title: "The Beatles 1962 - 1966 (Remastered)",
   partOfCollections: ["the-beatles-2"],

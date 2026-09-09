@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const yaelokreComposingColentine = {
   id: "01a0676a-d71b-701f-9ad2-227cef220466",
   pageTypeSlug: "release",
+  type: "release",
   slug: "yaelokre-composing-colentine",
   title: "Composing Colentine",
   partOfCollections: ["yaelokre"],

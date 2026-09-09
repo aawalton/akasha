@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theBeatles2SgtPepperSLonelyHeartsClubBandDeluxeEdition = {
   id: "01a0676a-d728-7066-88a8-0cf82199ff96",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-beatles-2-sgt-pepper-s-lonely-hearts-club-band-deluxe-edition",
   title: "Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)",
   partOfCollections: ["the-beatles-2"],

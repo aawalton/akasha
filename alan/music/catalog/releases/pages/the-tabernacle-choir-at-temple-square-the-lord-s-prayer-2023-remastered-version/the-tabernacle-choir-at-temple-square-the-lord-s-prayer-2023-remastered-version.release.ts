@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareTheLordSPrayer2023RemasteredVersion = {
   id: "01a0676a-d72d-7039-80ba-34a3d2e38b36",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-lord-s-prayer-2023-remastered-version",
   title: "The Lord's Prayer (2023 Remastered Version)",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

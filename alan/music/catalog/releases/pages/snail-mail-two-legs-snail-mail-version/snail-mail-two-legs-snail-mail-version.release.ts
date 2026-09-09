@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const snailMailTwoLegsSnailMailVersion = {
   id: "01a0676a-d72f-7028-8c94-f8873eb34563",
   pageTypeSlug: "release",
+  type: "release",
   slug: "snail-mail-two-legs-snail-mail-version",
   title: "Two Legs (Snail Mail Version)",
   partOfCollections: ["snail-mail"],

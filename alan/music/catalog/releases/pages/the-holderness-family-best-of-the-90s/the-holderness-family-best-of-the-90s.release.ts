@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theHoldernessFamilyBestOfThe90s = {
   id: "01a0676a-d718-7049-ad42-7ecf1b4c35ec",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-holderness-family-best-of-the-90s",
   title: "Best of the 90s",
   partOfCollections: ["the-holderness-family"],

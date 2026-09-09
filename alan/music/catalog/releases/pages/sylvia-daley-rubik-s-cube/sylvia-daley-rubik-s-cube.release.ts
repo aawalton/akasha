@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const sylviaDaleyRubikSCube = {
   id: "01a0676a-d728-7027-a461-4c697de427cb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "sylvia-daley-rubik-s-cube",
   title: "Rubik's Cube",
   partOfCollections: ["sylvia-daley"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const vinnyMarchiHeroInYourStory = {
   id: "01a0676a-d720-7032-b8bc-5a1f93fdb981",
   pageTypeSlug: "release",
+  type: "release",
   slug: "vinny-marchi-hero-in-your-story",
   title: "Hero In Your Story",
   partOfCollections: ["vinny-marchi"],

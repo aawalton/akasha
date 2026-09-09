@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareSongsFromAmericaSHeartland = {
   id: "01a0676a-d729-7063-ad8d-1bfb5a3eaca9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-songs-from-america-s-heartland",
   title: "Songs from America's Heartland",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

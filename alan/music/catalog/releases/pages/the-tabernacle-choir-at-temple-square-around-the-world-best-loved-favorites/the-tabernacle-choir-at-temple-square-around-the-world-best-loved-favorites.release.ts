@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareAroundTheWorldBestLovedFavorites = {
   id: "01a0676a-d717-7030-851b-c2743b80e326",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-around-the-world-best-loved-favorites",
   title: "Around the World - Best Loved Favorites",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

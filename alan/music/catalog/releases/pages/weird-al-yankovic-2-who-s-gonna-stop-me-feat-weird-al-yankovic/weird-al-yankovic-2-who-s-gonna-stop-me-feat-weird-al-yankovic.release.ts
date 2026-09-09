@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const weirdAlYankovic2WhoSGonnaStopMeFeatWeirdAlYankovic = {
   id: "01a0676a-d731-7012-8dfc-2ae4b6dff82e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "weird-al-yankovic-2-who-s-gonna-stop-me-feat-weird-al-yankovic",
   title: 'Who’s Gonna Stop Me (feat. "Weird Al" Yankovic)',
   partOfCollections: ["weird-al-yankovic-2"],

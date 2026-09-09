@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const vinnyMarchiTheTaleOfTheLesbianHunter = {
   id: "01a0676a-d72e-7013-b953-74ec14e4a90c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "vinny-marchi-the-tale-of-the-lesbian-hunter",
   title: "The Tale of the Lesbian Hunter",
   partOfCollections: ["vinny-marchi"],

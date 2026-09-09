@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareBrahmsAGermanRequiemOp45 = {
   id: "01a0676a-d719-702c-8ae6-8cebb20b5c2a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-brahms-a-german-requiem-op-45",
   title: "Brahms: A German Requiem, Op. 45 (New English Adaptation by Robert Shaw)",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

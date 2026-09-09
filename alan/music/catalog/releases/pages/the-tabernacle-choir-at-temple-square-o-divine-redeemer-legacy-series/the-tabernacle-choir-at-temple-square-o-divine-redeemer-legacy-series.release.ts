@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareODivineRedeemerLegacySeries = {
   id: "01a0676a-d726-700e-8a3a-3e48ed07aadb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-o-divine-redeemer-legacy-series",
   title: "O Divine Redeemer (Legacy Series)",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

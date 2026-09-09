@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2BadBlood = {
   id: "01a0676a-d718-7004-bdae-65f5596e4804",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-bad-blood",
   title: "Bad Blood",
   partOfCollections: ["taylor-swift-2"],

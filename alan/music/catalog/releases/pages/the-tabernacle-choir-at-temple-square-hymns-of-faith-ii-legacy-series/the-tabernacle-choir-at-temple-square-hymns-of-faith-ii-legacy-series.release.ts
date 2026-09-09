@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const theTabernacleChoirAtTempleSquareHymnsOfFaithIiLegacySeries = {
   id: "01a0676a-d720-7081-98ab-3a7c17192412",
   pageTypeSlug: "release",
+  type: "release",
   slug: "the-tabernacle-choir-at-temple-square-hymns-of-faith-ii-legacy-series",
   title: "Hymns of Faith II (Legacy Series)",
   partOfCollections: ["the-tabernacle-choir-at-temple-square"],

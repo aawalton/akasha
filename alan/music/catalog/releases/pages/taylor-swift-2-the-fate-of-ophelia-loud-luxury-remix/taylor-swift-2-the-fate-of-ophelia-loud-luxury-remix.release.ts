@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const taylorSwift2TheFateOfOpheliaLoudLuxuryRemix = {
   id: "01a0676a-d72d-700f-b6c9-3e892396447f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "taylor-swift-2-the-fate-of-ophelia-loud-luxury-remix",
   title: "The Fate of Ophelia (Loud Luxury Remix)",
   partOfCollections: ["taylor-swift-2"],
