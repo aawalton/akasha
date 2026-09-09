@@ -10,6 +10,7 @@ export const infrastructureDeploy = {
   test: "ts",
   testFixtures: "ts",
   changeKind: "change-none",
+  timeout: 300,
   parts: [
     "module/deploy-ios-shipping",
     "module/deploy-kind-reading",
@@ -40,6 +41,7 @@ export const infrastructureDeploy = {
     "`--dry-run` belongs to a web app, `--no-upload` and `--ref` to an ios app, and one named on the other kind is refused rather than ignored.",
     "`--measured` lifts the ceiling the call runs under, so a deploy longer than that ceiling finishes rather than being stopped part way.",
     "`--measured` belongs to a deploy of either kind, since either kind can run past the ceiling.",
+    "an ios deploy that archived, exported and uploaded measured 228 seconds on 2026-09-09, which is what the seconds this page states leave room over.",
     "what the deploy is made of is not on the call: the page names a cluster service, that page names a workload, and the code beside it emits the manifests.",
     "the namespace comes first, then what is placed in it, then the workload that reads it.",
     "a manifest the cluster already holds is applied again by nothing, so a second call does nothing.",
@@ -94,8 +96,7 @@ export const infrastructureDeploy = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A deploy runs under the ceiling a command runs under unless the call says otherwise.",
+      statement: "A deploy runs under the ceiling its page states unless the call says otherwise.",
     },
     {
       invariantKind: "departure",
