@@ -11,7 +11,7 @@ export const nova = {
   portrait: "md",
   appearance: "md",
   championedDomain: "litrpg-books",
-  roleSlug: "companion",
+  role: "companion",
   valueSlug: "fun",
   origin: "invented",
   email: "nova@alanwalton.com",

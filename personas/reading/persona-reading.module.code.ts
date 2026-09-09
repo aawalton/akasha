@@ -67,7 +67,7 @@ function personaFrom(root: string, listed: Listed): Persona {
     definition: textAt(value, "definition"),
     purpose: textAt(value, "purpose"),
     portraitPath: portraitIn(listed.path, value),
-    roleSlug: textAt(value, "roleSlug"),
+    roleSlug: textAt(value, "role"),
     valueSlug: textAt(value, "valueSlug"),
     origin: textAt(value, "origin"),
     email: textAt(value, "email"),

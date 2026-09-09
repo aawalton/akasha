@@ -73,7 +73,7 @@ test("a seat stating no initiative warrants none", () => {
 test("a seat stating nothing at all warrants none", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   initiativeListed(root, "one-work")
-  const at = seatListed(root, "one", `roleSlug: "definer"`)
+  const at = seatListed(root, "one", `role: "definer"`)
   expect(pathsOf(initiativeAncestors(root, at))).toEqual([])
 })
 

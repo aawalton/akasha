@@ -10,9 +10,9 @@ afterAll(scratch.sweep)
 
 test("a seat states the slug it carries under the key it is asked for", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
-  const at = seatListed(root, "one", `personaSlug: "akasha", roleSlug: "definer"`)
+  const at = seatListed(root, "one", `personaSlug: "akasha", role: "definer"`)
   expect(slugStated(root, at, "personaSlug")).toBe("akasha")
-  expect(slugStated(root, at, "roleSlug")).toBe("definer")
+  expect(slugStated(root, at, "role")).toBe("definer")
 })
 
 test("a slug stated under a page type is answered by its last part alone", () => {
@@ -43,7 +43,7 @@ test("a key the seat does not state names no page type", () => {
 test("a key the seat does not state answers nothing", () => {
   const root = scratch.rootFor("akasha-agent-stated-")
   const at = seatListed(root, "one", `personaSlug: "akasha"`)
-  expect(slugStated(root, at, "roleSlug")).toBe(null)
+  expect(slugStated(root, at, "role")).toBe(null)
 })
 
 test("a key stated as anything but text answers nothing", () => {

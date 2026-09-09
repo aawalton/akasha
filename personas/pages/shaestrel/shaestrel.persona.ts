@@ -10,7 +10,7 @@ export const shaestrel = {
   portrait: "md",
   appearance: "md",
   championedDomain: "style",
-  roleSlug: "coach",
+  role: "coach",
   valueSlug: "health",
   origin: "canon",
   voiceInstruction:

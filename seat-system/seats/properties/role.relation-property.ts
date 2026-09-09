@@ -1,13 +1,13 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type RoleSlug = Slug
+export type Role = Slug
 
-export const roleSlug = {
+export const role = {
   id: "01a05035-2609-769e-8bce-5f13a7ed3df4",
   pageTypeSlug: "relation-property",
-  slug: "role-slug",
-  propertySlug: "role-slug",
+  slug: "role",
+  propertySlug: "role",
   definition: "the role a persona works in, or a seat is answerable for",
   targetPageTypeSlug: "page-type/role",
 } as const satisfies RelationProperty

@@ -10,7 +10,7 @@ export const natalie = {
   portrait: "md",
   appearance: "md",
   championedDomain: "food-entry",
-  roleSlug: "coach",
+  role: "coach",
   valueSlug: "health",
   origin: "canon",
   email: "natalie@alanwalton.com",

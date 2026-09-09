@@ -36,7 +36,7 @@ test("a persona is named by its slug where the seat states it under a page type"
 test("a seat stating no persona warrants none", () => {
   const root = scratch.rootFor("akasha-persona-itself-")
   personaListed(root, "akasha")
-  const at = seatListed(root, "one", `roleSlug: "definer"`)
+  const at = seatListed(root, "one", `role: "definer"`)
   expect(pathsOf(personaItself(root, at))).toEqual([])
 })
 

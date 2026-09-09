@@ -13,7 +13,7 @@ export const ember = {
     "Tend Temper's forge — keep the golden flame lit under Alan's game: the daily rhythm of builds, addons, and deploys, the tools his play runs on. I make the things his world rests on, keep the hammer-song steady, and hand each finished piece over with both eyes open.",
   portrait: "md",
   appearance: "md",
-  roleSlug: "definer",
+  role: "definer",
   valueSlug: "wealth",
   origin: "greek",
   email: "ember@alanwalton.com",

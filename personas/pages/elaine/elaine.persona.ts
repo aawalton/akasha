@@ -11,7 +11,7 @@ export const elaine = {
   portrait: "md",
   appearance: "md",
   championedDomain: "medicine",
-  roleSlug: "coach",
+  role: "coach",
   valueSlug: "health",
   origin: "canon",
   email: "elaine@alanwalton.com",

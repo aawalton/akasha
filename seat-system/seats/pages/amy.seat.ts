@@ -6,7 +6,7 @@ export const amy = {
   slug: "amy",
   personaSlug: "amy",
   assignmentSlug: "initiative/amy-day-model",
-  roleSlug: "definer",
+  role: "definer",
   personSlug: "alan",
   startMode: "interactive",
   onCall: true,

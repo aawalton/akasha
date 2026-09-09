@@ -6,7 +6,7 @@ export const alan = {
   slug: "alan",
   personaSlug: "amy",
   assignmentSlug: "domain/alan",
-  roleSlug: "handler",
+  role: "handler",
   personSlug: "alan",
   startMode: "interactive",
   onCall: true,

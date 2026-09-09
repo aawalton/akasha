@@ -10,7 +10,7 @@ export const sophia = {
   portrait: "md",
   appearance: "md",
   championedDomain: "workspace-package/persona",
-  roleSlug: "persona-craft",
+  role: "persona-craft",
   valueSlug: "love",
   origin: "invented",
   email: "sophia@alanwalton.com",

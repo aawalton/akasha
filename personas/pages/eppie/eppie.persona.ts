@@ -11,7 +11,7 @@ export const eppie = {
   portrait: "md",
   appearance: "md",
   championedDomain: "domain/music",
-  roleSlug: "companion",
+  role: "companion",
   valueSlug: "learn",
   origin: "canon",
   email: "eppie@alanwalton.com",

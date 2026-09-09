@@ -6,7 +6,7 @@ export const thea = {
   slug: "thea",
   personaSlug: "thea",
   assignmentSlug: "initiative/thea-checks-system",
-  roleSlug: "definer",
+  role: "definer",
   personSlug: "alan",
   startMode: "interactive",
   onCall: true,

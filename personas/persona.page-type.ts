@@ -1,7 +1,7 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Phone } from "@akasha/persons/phone"
-import type { RoleSlug } from "@akasha/seat-system/role-slug"
+import type { Role } from "@akasha/seat-system/role"
 import type { PointsBeforeToday } from "../alan/attributes/properties/points-before-today.number-property.ts"
 import type { PointsToday } from "../alan/attributes/properties/points-today.number-property.ts"
 import type { PointsTotal } from "../alan/attributes/properties/points-total.number-property.ts"
@@ -24,7 +24,7 @@ export type Persona = Domain & {
   purpose?: Purpose
   portrait?: Portrait
   appearance?: Appearance
-  roleSlug?: RoleSlug
+  role?: Role
   valueSlug?: ValueSlug
   origin?: Origin
   email?: EmailAddress
@@ -76,7 +76,7 @@ export const persona = {
     { pagePropertySlug: "text-property/purpose", required: false, many: false },
     { pagePropertySlug: "file-property/portrait", required: false, many: false },
     { pagePropertySlug: "file-property/appearance", required: false, many: false },
-    { pagePropertySlug: "relation-property/role-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/role", required: false, many: false },
     { pagePropertySlug: "text-property/value-slug", required: false, many: false },
     { pagePropertySlug: "relation-property/origin", required: false, many: false },
     { pagePropertySlug: "email-address-property/email-address", required: false, many: false },

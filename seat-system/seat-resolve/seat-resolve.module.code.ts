@@ -17,9 +17,6 @@ export interface Found {
 
 export function scan(root: string): Found {
   const slugs = new Map<string, string>()
-  // A page that has moved is read where it now lives, so the new system takes the
-  // address. A bare slug is left as it is, because it names whatever claimed it
-  // first and a seat already resolves some of those to something else entirely.
   for (const one of domainsRead(root)) {
     slugs.set(one.address, one.relPath)
     if (!slugs.has(one.slug)) slugs.set(one.slug, one.relPath)
@@ -27,20 +24,10 @@ export function scan(root: string): Found {
   return { slugs }
 }
 
-// WHAT A SEAT STARTS AS IS READ FROM ITS PAGE TYPE IN AKASHA. It used to be read from
-// `pages/page-property-definition/seat-*-slug.md`, which stated a default per page type because
-// the old system gave every page type properties of its own. Akasha shares a property across page
-// types instead — `role-slug` is carried by a seat and by a persona, `persona-slug` by a seat and
-// by an initiative — so the default stands on the declaration rather than on the property, and it
-// is read from the declaration here.
-//
-// The slot names are this file's, not akasha's: akasha calls a seat's assignment what it is, and
-// the three slots here are the words the seat commands have always taken. The mapping is one of
-// the last places the old key namespace survives, and it goes when those commands are renamed.
 const SLOT_OF: Readonly<Record<string, AttributeKey>> = {
   "persona-slug": "persona",
   "assignment-slug": "domain",
-  "role-slug": "role",
+  role: "role",
 }
 
 const defaults = new Map<string, ReadonlyMap<string, string>>()
@@ -87,9 +74,6 @@ export function resolveSlot(
         `never be read for. Declared here: ${known.length === 0 ? "none" : known.join(", ")}`,
     }
   }
-  // The personas moved into the akasha system, where each is a `.persona.ts` page read
-  // through the index rather than a document under `pages/persona/`. She is read where she
-  // now lives; the old folder holds none of them.
   const held = personaAt(root, slug)
   if (held !== null) return { relPath: held.path }
   const known = personasStanding(root).map((one) => one.slug)
@@ -115,7 +99,7 @@ export function resolveAttributes(
   const claimed = new Map<Declaration, Claimed>()
   const refusals: string[] = []
 
-  const claim = (slot: Declaration, slug: string, relPath: string | null): void => {
+  const claim = (slot: Declaration, slug: string, relPath: string | null): undefined => {
     const standing = claimed.get(slot)
     if (standing !== undefined) {
       refusals.push(

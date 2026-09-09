@@ -10,7 +10,7 @@ export const aelwyn = {
   portrait: "md",
   appearance: "md",
   championedDomain: "fitness",
-  roleSlug: "coach",
+  role: "coach",
   valueSlug: "health",
   origin: "invented",
   email: "aelwyn@alanwalton.com",

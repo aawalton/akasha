@@ -10,7 +10,7 @@ export const athena = {
   portrait: "md",
   appearance: "md",
   championedDomain: "workspace-package/agent",
-  roleSlug: "definer",
+  role: "definer",
   valueSlug: "wealth",
   origin: "greek",
   email: "athena@alanwalton.com",

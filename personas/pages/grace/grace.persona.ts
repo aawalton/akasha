@@ -10,7 +10,7 @@ export const grace = {
   portrait: "md",
   appearance: "md",
   championedDomain: "self-care",
-  roleSlug: "companion",
+  role: "companion",
   valueSlug: "faith",
   origin: "invented",
   email: "grace@alanwalton.com",

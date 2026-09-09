@@ -21,7 +21,7 @@ const STATED: Readonly<Record<string, string>> = {
   slug: "slug",
   "persona-slug": "personaSlug",
   "domain-slug": "assignmentSlug",
-  "role-slug": "roleSlug",
+  "role-slug": "role",
   "person-slug": "personSlug",
   "principal-seat-name": "principalSeatName",
   "start-mode": "startMode",
@@ -43,12 +43,12 @@ export function seatPathForName(name: string): string {
   return `${SEAT_DIR}${name}${SEAT_TAIL}`
 }
 
-export function holderIn(said: unknown): Holder | null {
-  if (typeof said !== "string" || said === "") return null
-  const at = said.lastIndexOf("-")
+export function holderIn(told: unknown): Holder | null {
+  if (typeof told !== "string" || told === "") return null
+  const at = told.lastIndexOf("-")
   if (at < 1) return null
-  const pid = Number.parseInt(said.slice(0, at), 10)
-  const started = said.slice(at + 1)
+  const pid = Number.parseInt(told.slice(0, at), 10)
+  const started = told.slice(at + 1)
   if (Number.isNaN(pid) || pid < 1) return null
   if (started === "" || started === UNKNOWN) return null
   return { pid, started }
@@ -96,12 +96,12 @@ export function seatStating(
   if (page === null) return null
   const held: Value | null = valueAt(page, root)
   if (held === null) return null
-  const said: Record<string, unknown> = {}
+  const values: Record<string, unknown> = {}
   for (const [key, from] of Object.entries(STATED)) {
     const one = (held as Record<string, unknown>)[from]
-    if (one !== undefined && one !== null && one !== "") said[key] = one
+    if (one !== undefined && one !== null && one !== "") values[key] = one
   }
-  return said
+  return values
 }
 
 export function seatSaying(handle: string, key: string, root: string = seatRoot()): string {

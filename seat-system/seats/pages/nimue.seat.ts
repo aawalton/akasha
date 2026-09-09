@@ -6,7 +6,7 @@ export const nimue = {
   slug: "nimue",
   personaSlug: "nimue",
   assignmentSlug: "initiative/nimue-code-cleanup",
-  roleSlug: "definer",
+  role: "definer",
   personSlug: "alan",
   startMode: "interactive",
   onCall: true,

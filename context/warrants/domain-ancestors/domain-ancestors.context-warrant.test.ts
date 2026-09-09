@@ -82,7 +82,7 @@ test("a seat stating no domain warrants none", () => {
   const top = domainListed(root, "akasha-system")
   const mid = domainListed(root, "context-system")
   namesPart(root, top, mid)
-  const at = seatListed(root, "one", `roleSlug: "definer"`)
+  const at = seatListed(root, "one", `role: "definer"`)
   expect(pathsOf(domainAncestors(root, at))).toEqual([])
 })
 

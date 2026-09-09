@@ -11,7 +11,7 @@ export const ione = {
   portrait: "md",
   appearance: "md",
   championedDomain: "sleep",
-  roleSlug: "coach",
+  role: "coach",
   valueSlug: "health",
   origin: "greek",
   email: "ione@alanwalton.com",

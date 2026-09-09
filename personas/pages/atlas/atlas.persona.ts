@@ -10,7 +10,7 @@ export const atlas = {
   portrait: "md",
   appearance: "md",
   championedDomain: "atlas-app",
-  roleSlug: "definer",
+  role: "definer",
   valueSlug: "wealth",
   origin: "greek",
   email: "atlas@alanwalton.com",

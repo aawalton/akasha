@@ -6,7 +6,7 @@ export const aura = {
   slug: "aura",
   personaSlug: "aura",
   assignmentSlug: "initiative/aura-harness-drive",
-  roleSlug: "definer",
+  role: "definer",
   personSlug: "alan",
   startMode: "interactive",
   onCall: true,

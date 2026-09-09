@@ -36,7 +36,7 @@ test("a seat stating everything is written as a page naming its person", () => {
   const body = seatBody(WHOLE, "athena", ROOT)
   expect(body).toContain("export const athena = {")
   expect(body).toContain('personSlug: "alan"')
-  expect(body).toContain('roleSlug: "definer"')
+  expect(body).toContain('role: "definer"')
   expect(body).toContain("onCall: true,")
   expect(body).toContain("} as const satisfies Seat")
   expect(body).not.toContain("principalSeatName")

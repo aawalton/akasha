@@ -7,7 +7,7 @@ export const ROLE =
 
 const ROLE_TYPE = "role"
 
-const KEY = "roleSlug"
+const KEY = "role"
 
 export function roleItself(root: string, path: string): readonly Warrant[] {
   const slug = slugStated(root, path, KEY)

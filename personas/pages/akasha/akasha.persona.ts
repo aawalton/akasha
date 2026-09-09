@@ -7,7 +7,7 @@ export const akasha = {
   definition: "the aether that keeps every word, in whom code, data and text are one substance",
   appearance: "md",
   championedDomain: "domain/akasha",
-  roleSlug: "definer",
+  role: "definer",
   valueSlug: "wealth",
   origin: "sanskrit",
   email: "akasha@alanwalton.com",

@@ -11,7 +11,7 @@ export const olwen = {
   portrait: "md",
   appearance: "md",
   championedDomain: "workspace-package/design-system",
-  roleSlug: "definer",
+  role: "definer",
   valueSlug: "wealth",
   origin: "welsh",
   voiceInstruction:

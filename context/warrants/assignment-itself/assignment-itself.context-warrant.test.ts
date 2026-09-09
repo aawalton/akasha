@@ -45,7 +45,7 @@ test("a domain stated by a bare slug is warranted too", () => {
 test("a seat stating no assignment warrants none", () => {
   const root = scratch.rootFor("akasha-assignment-itself-")
   domainListed(root, "akasha-system")
-  const at = seatListed(root, "one", `roleSlug: "definer"`)
+  const at = seatListed(root, "one", `role: "definer"`)
   expect(pathsOf(assignmentItself(root, at))).toEqual([])
 })
 

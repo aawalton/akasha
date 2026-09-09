@@ -10,7 +10,7 @@ import type { Proxy as SeatProxy } from "./properties/proxy.record-property.ts"
 import type { ReExecAsk } from "./properties/re-exec-ask.text-property.ts"
 import type { RegistrationAccount } from "./properties/registration-account.text-property.ts"
 import type { Request } from "./properties/request.record-property.ts"
-import type { RoleSlug } from "./properties/role-slug.relation-property.ts"
+import type { Role } from "./properties/role.relation-property.ts"
 import type { RotatedSessionUuid } from "./properties/rotated-session-uuid.text-property.ts"
 import type { SeatPersonaSlug } from "./properties/seat-persona-slug.relation-property.ts"
 import type { StartMode } from "./properties/start-mode.text-property.ts"
@@ -21,7 +21,7 @@ import type { TurnWorking } from "./properties/turn-working.record-property.ts"
 
 export type Seat = Agent & {
   personaSlug: SeatPersonaSlug
-  roleSlug: RoleSlug
+  role: Role
   personSlug?: PersonSlug
   startMode: StartMode
   onCall: OnCall
@@ -67,7 +67,7 @@ export const seat = {
     "record-property/turn-working",
     "relation-property/person-slug",
     "relation-property/requested-action",
-    "relation-property/role-slug",
+    "relation-property/role",
     "relation-property/seat-persona-slug",
     "text-property/claude-code-session-uuid",
     "text-property/interrupt-message",
@@ -90,7 +90,7 @@ export const seat = {
       default: "claude",
     },
     {
-      pagePropertySlug: "relation-property/role-slug",
+      pagePropertySlug: "relation-property/role",
       required: true,
       many: false,
       default: "worker",

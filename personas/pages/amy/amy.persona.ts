@@ -10,7 +10,7 @@ export const amy = {
   portrait: "md",
   appearance: "md",
   championedDomain: "alan-harness",
-  roleSlug: "definer",
+  role: "definer",
   valueSlug: "health",
   origin: "human",
   email: "amy@alanwalton.com",

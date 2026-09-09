@@ -10,7 +10,7 @@ export const vera = {
   portrait: "md",
   appearance: "md",
   championedDomain: "graph",
-  roleSlug: "definer",
+  role: "definer",
   valueSlug: "wealth",
   origin: "norse",
   email: "vera@alanwalton.com",
