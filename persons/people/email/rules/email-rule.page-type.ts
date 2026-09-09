@@ -1,12 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { EmailRuleMatches } from "./properties/email-rule-matches.record-property.ts"
-
-export type EmailRule = Page & {
-  title: Title
-  matches: EmailRuleMatches
-}
 
 export const emailRule = {
   id: "01a06828-59d3-7486-8463-b59a1768c717",
@@ -47,4 +39,5 @@ export const emailRule = {
       statement: "A rule's kind is the folder the rule is in rather than a key on the rule.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
