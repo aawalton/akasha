@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation005656Fugue = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 56,
   ownLength: 2544,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-17",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/2443675/56-fugue",

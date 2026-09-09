@@ -8,7 +8,7 @@ export const lightCleric0001Prologue = {
   story: "light-cleric",
   position: 1,
   ownLength: 5067,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-11",
   externalLink: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/598618/prologue",
   externalId: "598618",

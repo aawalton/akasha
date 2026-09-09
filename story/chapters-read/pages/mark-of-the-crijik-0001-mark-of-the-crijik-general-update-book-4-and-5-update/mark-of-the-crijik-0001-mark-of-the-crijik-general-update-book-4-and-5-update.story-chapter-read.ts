@@ -8,7 +8,7 @@ export const markOfTheCrijik0001MarkOfTheCrijikGeneralUpdateBook4And5Update = {
   story: "story-read/mark-of-the-crijik",
   position: 1,
   ownLength: 3038,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-02-22",
   externalLink:
     "https://www.royalroad.com/fiction/50243/mark-of-the-crijik/chapter/1528438/mark-of-the-crijik-general-update-book-4-and-5",

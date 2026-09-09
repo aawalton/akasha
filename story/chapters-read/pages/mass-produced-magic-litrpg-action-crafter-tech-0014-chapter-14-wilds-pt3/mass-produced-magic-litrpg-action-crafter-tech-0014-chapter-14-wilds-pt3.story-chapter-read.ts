@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0014Chapter14WildsPt3 = {
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 14,
   ownLength: 1977,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-19",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1913500/chapter-14-wilds-pt3",

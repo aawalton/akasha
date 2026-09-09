@@ -9,7 +9,7 @@ export const melodyOfMana0030Chapter25BorderCrossings = {
   position: 30,
   ownLength: 2028,
   ownProgress: 2028,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:16.744Z",
   publishedAt: "2021-07-15",
   externalLink:

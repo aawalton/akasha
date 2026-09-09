@@ -9,7 +9,7 @@ export const levelingUpTheWorld0035746LeaderlessNerosal = {
   position: 35,
   ownLength: 2028,
   ownProgress: 2028,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:22.287Z",
   publishedAt: "2023-05-17",
   externalLink:

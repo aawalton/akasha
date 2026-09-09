@@ -9,7 +9,7 @@ export const melodyOfMana0014Chapter12LockdownAndTheOrderOfTheShield = {
   position: 14,
   ownLength: 3305,
   ownProgress: 3305,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:44.270Z",
   publishedAt: "2021-06-27",
   externalLink:

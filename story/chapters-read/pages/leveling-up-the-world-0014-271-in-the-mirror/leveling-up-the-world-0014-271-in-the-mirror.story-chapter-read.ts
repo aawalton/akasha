@@ -9,7 +9,7 @@ export const levelingUpTheWorld0014271InTheMirror = {
   position: 14,
   ownLength: 2696,
   ownProgress: 2696,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:37.670Z",
   publishedAt: "2021-09-29",
   externalLink:

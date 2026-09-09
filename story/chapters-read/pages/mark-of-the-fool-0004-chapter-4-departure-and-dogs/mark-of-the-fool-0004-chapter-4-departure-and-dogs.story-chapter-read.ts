@@ -9,7 +9,7 @@ export const markOfTheFool0004Chapter4DepartureAndDogs = {
   position: 4,
   ownLength: 2046,
   ownProgress: 2046,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:10:55.347Z",
   publishedAt: "2021-04-03",
   externalLink:

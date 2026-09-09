@@ -9,7 +9,7 @@ export const levelingUpTheWorld0041849LackOfInhabitants = {
   position: 41,
   ownLength: 2025,
   ownProgress: 2025,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:35.167Z",
   publishedAt: "2023-12-21",
   externalLink:

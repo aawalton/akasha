@@ -8,7 +8,7 @@ export const lightCleric0005Chapter04 = {
   story: "light-cleric",
   position: 5,
   ownLength: 5935,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-23",
   externalLink: "https://www.royalroad.com/fiction/38443/light-cleric/chapter/619088/chapter-04",
   externalId: "619088",

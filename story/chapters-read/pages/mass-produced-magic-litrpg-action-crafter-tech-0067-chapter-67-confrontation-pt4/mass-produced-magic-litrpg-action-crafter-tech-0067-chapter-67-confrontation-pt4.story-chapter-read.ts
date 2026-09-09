@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0067Chapter67ConfrontationP
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 67,
   ownLength: 1555,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-06",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2108559/chapter-67-confrontation-pt4",

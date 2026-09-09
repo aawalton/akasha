@@ -9,7 +9,7 @@ export const levelingUpTheWorld0032654ImposedRestrictions = {
   position: 32,
   ownLength: 2122,
   ownProgress: 2122,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:16.084Z",
   publishedAt: "2022-12-11",
   externalLink:

@@ -9,7 +9,7 @@ export const levelingUpTheWorld0029651VillageMaster = {
   position: 29,
   ownLength: 1999,
   ownProgress: 1999,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:09.784Z",
   publishedAt: "2022-12-07",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0045Chapter38WinterCelebrationAndBasicIllusion = {
   position: 45,
   ownLength: 2018,
   ownProgress: 2018,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:45.379Z",
   publishedAt: "2021-08-24",
   externalLink:

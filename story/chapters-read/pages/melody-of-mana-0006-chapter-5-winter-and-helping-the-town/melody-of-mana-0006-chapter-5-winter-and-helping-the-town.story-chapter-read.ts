@@ -9,7 +9,7 @@ export const melodyOfMana0006Chapter5WinterAndHelpingTheTown = {
   position: 6,
   ownLength: 3797,
   ownProgress: 3797,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:26.675Z",
   publishedAt: "2021-06-20",
   externalLink:

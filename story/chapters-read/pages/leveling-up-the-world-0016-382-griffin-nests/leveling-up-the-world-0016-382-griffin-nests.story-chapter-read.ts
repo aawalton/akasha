@@ -9,7 +9,7 @@ export const levelingUpTheWorld0016382GriffinNests = {
   position: 16,
   ownLength: 2484,
   ownProgress: 2484,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:41.804Z",
   publishedAt: "2022-01-21",
   externalLink:

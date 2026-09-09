@@ -8,7 +8,7 @@ export const librarySystemResetOverdueBookFourStubbed0011Chapter332OddlySilent =
   story: "library-system-reset-overdue-book-four-stubbed",
   position: 11,
   ownLength: 2045,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-24",
   externalLink:
     "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/2701252/chapter-332-oddly-silent",

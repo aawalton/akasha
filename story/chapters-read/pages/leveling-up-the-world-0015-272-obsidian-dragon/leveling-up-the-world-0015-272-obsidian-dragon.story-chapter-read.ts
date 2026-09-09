@@ -9,7 +9,7 @@ export const levelingUpTheWorld0015272ObsidianDragon = {
   position: 15,
   ownLength: 2067,
   ownProgress: 2067,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:39.712Z",
   publishedAt: "2021-09-30",
   externalLink:

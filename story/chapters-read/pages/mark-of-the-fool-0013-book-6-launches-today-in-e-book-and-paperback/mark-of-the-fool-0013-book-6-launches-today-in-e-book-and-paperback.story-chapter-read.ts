@@ -8,7 +8,7 @@ export const markOfTheFool0013Book6LaunchesTodayInEBookAndPaperback = {
   story: "story-read/mark-of-the-fool",
   position: 13,
   ownLength: 183,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-02-07",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1509759/book-6-launches-today-in-e-book-and-paperback",

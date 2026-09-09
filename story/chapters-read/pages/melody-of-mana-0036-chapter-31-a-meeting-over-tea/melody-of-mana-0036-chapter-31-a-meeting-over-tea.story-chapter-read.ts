@@ -9,7 +9,7 @@ export const melodyOfMana0036Chapter31AMeetingOverTea = {
   position: 36,
   ownLength: 2204,
   ownProgress: 2204,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:28.209Z",
   publishedAt: "2021-07-25",
   externalLink:

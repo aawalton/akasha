@@ -9,7 +9,7 @@ export const levelingUpTheWorld0031653TripInABox = {
   position: 31,
   ownLength: 2070,
   ownProgress: 2070,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:14.063Z",
   publishedAt: "2022-12-10",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0029Chapter24TheCaravan = {
   position: 29,
   ownLength: 2469,
   ownProgress: 2469,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:14.828Z",
   publishedAt: "2021-07-13",
   externalLink:

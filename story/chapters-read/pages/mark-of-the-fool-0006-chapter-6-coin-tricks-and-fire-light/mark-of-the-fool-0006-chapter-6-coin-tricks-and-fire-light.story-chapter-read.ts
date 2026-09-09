@@ -9,7 +9,7 @@ export const markOfTheFool0006Chapter6CoinTricksAndFireLight = {
   position: 6,
   ownLength: 2999,
   ownProgress: 2999,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:10:59.188Z",
   publishedAt: "2021-04-05",
   externalLink:

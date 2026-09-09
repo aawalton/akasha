@@ -9,7 +9,7 @@ export const melodyOfMana0040Chapter35TheAscent = {
   position: 40,
   ownLength: 1721,
   ownProgress: 1721,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:35.651Z",
   publishedAt: "2021-08-03",
   externalLink:

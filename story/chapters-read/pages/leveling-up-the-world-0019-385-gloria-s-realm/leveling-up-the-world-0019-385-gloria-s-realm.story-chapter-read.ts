@@ -9,7 +9,7 @@ export const levelingUpTheWorld0019385GloriaSRealm = {
   position: 19,
   ownLength: 2018,
   ownProgress: 2018,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:47.906Z",
   publishedAt: "2022-01-25",
   externalLink:

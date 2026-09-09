@@ -9,7 +9,7 @@ export const levelingUpTheWorld0030652TasteOfMagic = {
   position: 30,
   ownLength: 2060,
   ownProgress: 2060,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:11.907Z",
   publishedAt: "2022-12-09",
   externalLink:

@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation005959Faith = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 59,
   ownLength: 3011,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/2502964/59-faith",

@@ -9,7 +9,7 @@ export const melodyOfMana0003Chapter3TheBasicsOfMagic = {
   position: 3,
   ownLength: 3670,
   ownProgress: 3670,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:20.314Z",
   publishedAt: "2021-06-16",
   externalLink:

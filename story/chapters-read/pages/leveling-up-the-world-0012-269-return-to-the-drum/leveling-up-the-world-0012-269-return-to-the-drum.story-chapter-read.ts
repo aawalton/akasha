@@ -9,7 +9,7 @@ export const levelingUpTheWorld0012269ReturnToTheDrum = {
   position: 12,
   ownLength: 2213,
   ownProgress: 2213,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:32.866Z",
   publishedAt: "2021-09-27",
   externalLink:

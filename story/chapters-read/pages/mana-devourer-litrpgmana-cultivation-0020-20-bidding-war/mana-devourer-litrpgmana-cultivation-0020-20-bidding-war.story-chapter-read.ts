@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation002020BiddingWar = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 20,
   ownLength: 2603,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1712493/20-bidding-war",

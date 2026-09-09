@@ -9,7 +9,7 @@ export const melodyOfMana0046Chapter39AnAngryMother = {
   position: 46,
   ownLength: 1989,
   ownProgress: 1989,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:47.316Z",
   publishedAt: "2021-08-27",
   externalLink:

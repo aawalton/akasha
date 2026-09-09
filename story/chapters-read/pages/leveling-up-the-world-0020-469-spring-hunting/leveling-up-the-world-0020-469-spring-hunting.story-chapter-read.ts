@@ -9,7 +9,7 @@ export const levelingUpTheWorld0020469SpringHunting = {
   position: 20,
   ownLength: 2083,
   ownProgress: 2083,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:50.190Z",
   publishedAt: "2022-04-22",
   externalLink:

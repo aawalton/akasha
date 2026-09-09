@@ -9,7 +9,7 @@ export const melodyOfMana0020SideStory4JohnTheFuryOfTheDowntrodden = {
   position: 20,
   ownLength: 3034,
   ownProgress: 3034,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:56.672Z",
   publishedAt: "2021-07-01",
   externalLink:

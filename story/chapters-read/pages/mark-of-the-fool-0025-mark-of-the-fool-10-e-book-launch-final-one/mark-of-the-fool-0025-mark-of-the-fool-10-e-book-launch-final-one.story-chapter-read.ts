@@ -8,7 +8,7 @@ export const markOfTheFool0025MarkOfTheFool10EBookLaunchFinalOne = {
   story: "story-read/mark-of-the-fool",
   position: 25,
   ownLength: 82,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-30",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2478790/mark-of-the-fool-10-e-book-launch-final-one",

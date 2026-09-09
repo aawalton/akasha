@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation003636Calm = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 36,
   ownLength: 3265,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-26",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1733138/36-calm",

@@ -9,7 +9,7 @@ export const melodyOfMana0013Chapter11BackToHazelwood = {
   position: 13,
   ownLength: 3247,
   ownProgress: 3247,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:41.766Z",
   publishedAt: "2021-06-26",
   externalLink:

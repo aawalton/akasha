@@ -8,7 +8,7 @@ export const markOfTheFool0024MarkOfTheFoolBook9LaunchesTodayAlsoHappyCanadaDay 
   story: "story-read/mark-of-the-fool",
   position: 24,
   ownLength: 74,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-01",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2401045/mark-of-the-fool-book-9-launches-today-also-happy",

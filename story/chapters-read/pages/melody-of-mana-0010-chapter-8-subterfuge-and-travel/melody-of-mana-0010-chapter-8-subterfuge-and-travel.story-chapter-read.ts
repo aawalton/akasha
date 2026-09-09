@@ -9,7 +9,7 @@ export const melodyOfMana0010Chapter8SubterfugeAndTravel = {
   position: 10,
   ownLength: 3658,
   ownProgress: 3658,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:35.471Z",
   publishedAt: "2021-06-24",
   externalLink:

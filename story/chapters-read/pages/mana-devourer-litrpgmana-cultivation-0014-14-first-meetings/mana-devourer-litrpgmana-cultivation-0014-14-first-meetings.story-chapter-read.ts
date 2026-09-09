@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation001414FirstMeetings = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 14,
   ownLength: 3236,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1704479/14-first-meetings",

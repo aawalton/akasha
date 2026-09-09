@@ -9,7 +9,7 @@ export const markOfTheFool0002Chapter2UldarSLegacy = {
   position: 2,
   ownLength: 2277,
   ownProgress: 2277,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:10:51.504Z",
   publishedAt: "2021-04-01",
   externalLink:

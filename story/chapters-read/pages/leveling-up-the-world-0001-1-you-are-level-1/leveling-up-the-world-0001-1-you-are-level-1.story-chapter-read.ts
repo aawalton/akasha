@@ -9,7 +9,7 @@ export const levelingUpTheWorld00011YouAreLevel1 = {
   position: 1,
   ownLength: 1150,
   ownProgress: 1150,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:09.771Z",
   publishedAt: "2021-01-02",
   externalLink:

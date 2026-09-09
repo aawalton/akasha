@@ -9,7 +9,7 @@ export const levelingUpTheWorld0040848AgentsOfTheOrder = {
   position: 40,
   ownLength: 2053,
   ownProgress: 2053,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:33.305Z",
   publishedAt: "2023-12-19",
   externalLink:

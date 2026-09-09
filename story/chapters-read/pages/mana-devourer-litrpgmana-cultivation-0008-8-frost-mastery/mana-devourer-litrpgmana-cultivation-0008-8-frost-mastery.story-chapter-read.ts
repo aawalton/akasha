@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation00088FrostMastery = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 8,
   ownLength: 3872,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697801/8-frost-mastery",

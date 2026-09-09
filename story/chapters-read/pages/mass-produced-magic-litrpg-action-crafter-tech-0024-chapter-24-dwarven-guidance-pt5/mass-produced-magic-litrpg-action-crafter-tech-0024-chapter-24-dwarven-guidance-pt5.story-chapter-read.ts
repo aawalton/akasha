@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0024Chapter24DwarvenGuidanc
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 24,
   ownLength: 2265,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-07",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1945625/chapter-24-dwarven-guidance-pt5",

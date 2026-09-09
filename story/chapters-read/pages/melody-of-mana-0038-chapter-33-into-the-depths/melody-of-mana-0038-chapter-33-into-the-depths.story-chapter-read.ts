@@ -9,7 +9,7 @@ export const melodyOfMana0038Chapter33IntoTheDepths = {
   position: 38,
   ownLength: 2755,
   ownProgress: 2755,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:31.902Z",
   publishedAt: "2021-07-30",
   externalLink:

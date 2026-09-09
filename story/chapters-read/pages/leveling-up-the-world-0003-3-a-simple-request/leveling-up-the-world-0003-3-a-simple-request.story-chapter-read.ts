@@ -9,7 +9,7 @@ export const levelingUpTheWorld00033ASimpleRequest = {
   position: 3,
   ownLength: 1022,
   ownProgress: 1022,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:13.653Z",
   publishedAt: "2021-01-04",
   externalLink:

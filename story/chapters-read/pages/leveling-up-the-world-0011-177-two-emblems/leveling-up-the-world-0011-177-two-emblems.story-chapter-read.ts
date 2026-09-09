@@ -9,7 +9,7 @@ export const levelingUpTheWorld0011177TwoEmblems = {
   position: 11,
   ownLength: 2400,
   ownProgress: 2400,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:30.757Z",
   publishedAt: "2021-06-27",
   externalLink:

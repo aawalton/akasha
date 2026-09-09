@@ -9,7 +9,7 @@ export const markOfTheFool0029FebruaryIAmNotBecomeDeadUpdateTakingCareOfMyselfP 
   story: "story-read/mark-of-the-fool",
   position: 29,
   ownLength: 806,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-01",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/3103279/february-i-am-not-become-dead-update-taking-care",

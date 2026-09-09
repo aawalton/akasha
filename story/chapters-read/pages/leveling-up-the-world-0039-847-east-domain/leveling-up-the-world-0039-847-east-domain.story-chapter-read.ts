@@ -9,7 +9,7 @@ export const levelingUpTheWorld0039847EastDomain = {
   position: 39,
   ownLength: 2049,
   ownProgress: 2049,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:31.235Z",
   publishedAt: "2023-12-17",
   externalLink:

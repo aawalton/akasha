@@ -9,7 +9,7 @@ export const markOfTheFool0015MarkOfTheFool7LaunchesInEbookAndPaperback = {
   position: 15,
   ownLength: 154,
   ownProgress: 6,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1637393/mark-of-the-fool-7-launches-in-ebook-and-paperback",

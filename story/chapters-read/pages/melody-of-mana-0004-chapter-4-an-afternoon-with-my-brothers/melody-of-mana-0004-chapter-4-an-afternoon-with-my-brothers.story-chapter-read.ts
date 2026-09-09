@@ -9,7 +9,7 @@ export const melodyOfMana0004Chapter4AnAfternoonWithMyBrothers = {
   position: 4,
   ownLength: 3322,
   ownProgress: 3322,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:22.465Z",
   publishedAt: "2021-06-17",
   externalLink:

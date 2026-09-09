@@ -9,7 +9,7 @@ export const melodyOfMana0034Chapter29CitySecrets = {
   position: 34,
   ownLength: 2086,
   ownProgress: 2086,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:24.340Z",
   publishedAt: "2021-07-21",
   externalLink:

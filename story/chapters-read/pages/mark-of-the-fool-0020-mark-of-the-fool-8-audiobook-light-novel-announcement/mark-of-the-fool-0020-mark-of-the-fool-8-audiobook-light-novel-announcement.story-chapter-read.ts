@@ -8,7 +8,7 @@ export const markOfTheFool0020MarkOfTheFool8AudiobookLightNovelAnnouncement = {
   story: "story-read/mark-of-the-fool",
   position: 20,
   ownLength: 355,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-19",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2137425/mark-of-the-fool-8-audiobook-light-novel-announcement",

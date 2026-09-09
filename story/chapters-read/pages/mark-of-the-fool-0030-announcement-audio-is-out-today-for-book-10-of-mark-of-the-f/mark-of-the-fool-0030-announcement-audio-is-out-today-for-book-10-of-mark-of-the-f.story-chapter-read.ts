@@ -8,7 +8,7 @@ export const markOfTheFool0030AnnouncementAudioIsOutTodayForBook10OfMarkOfTheF =
   story: "story-read/mark-of-the-fool",
   position: 30,
   ownLength: 130,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-03-18",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/3166643/announcement-audio-is-out-today-for-book-10-of",

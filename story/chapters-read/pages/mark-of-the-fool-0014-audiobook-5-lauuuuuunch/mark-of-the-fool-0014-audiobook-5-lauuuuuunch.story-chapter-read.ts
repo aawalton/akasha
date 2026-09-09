@@ -8,7 +8,7 @@ export const markOfTheFool0014Audiobook5Lauuuuuunch = {
   story: "story-read/mark-of-the-fool",
   position: 14,
   ownLength: 78,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-27",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1570156/audiobook-5-lauuuuuunch",

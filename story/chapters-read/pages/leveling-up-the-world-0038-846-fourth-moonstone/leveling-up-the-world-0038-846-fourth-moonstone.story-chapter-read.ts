@@ -9,7 +9,7 @@ export const levelingUpTheWorld0038846FourthMoonstone = {
   position: 38,
   ownLength: 2070,
   ownProgress: 2070,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:29.322Z",
   publishedAt: "2023-12-17",
   externalLink:

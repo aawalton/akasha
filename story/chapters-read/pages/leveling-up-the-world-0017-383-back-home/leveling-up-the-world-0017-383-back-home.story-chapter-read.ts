@@ -9,7 +9,7 @@ export const levelingUpTheWorld0017383BackHome = {
   position: 17,
   ownLength: 2085,
   ownProgress: 2085,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:43.941Z",
   publishedAt: "2022-01-22",
   externalLink:

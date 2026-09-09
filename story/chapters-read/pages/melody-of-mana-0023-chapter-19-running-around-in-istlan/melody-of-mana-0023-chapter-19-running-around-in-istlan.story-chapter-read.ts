@@ -9,7 +9,7 @@ export const melodyOfMana0023Chapter19RunningAroundInIstlan = {
   position: 23,
   ownLength: 2435,
   ownProgress: 2435,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:02.893Z",
   publishedAt: "2021-07-04",
   externalLink:

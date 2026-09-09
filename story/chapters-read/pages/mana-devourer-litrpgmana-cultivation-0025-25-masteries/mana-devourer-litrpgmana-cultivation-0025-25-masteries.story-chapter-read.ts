@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation002525Masteries = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 25,
   ownLength: 3433,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1718668/25-masteries",

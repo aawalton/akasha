@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation001717AuctionHouse = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 17,
   ownLength: 3123,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-07",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1708643/17-auction-house",

@@ -9,7 +9,7 @@ export const melodyOfMana0022Chapter18TheOrphanage = {
   position: 22,
   ownLength: 1987,
   ownProgress: 1987,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:00.664Z",
   publishedAt: "2021-07-03",
   externalLink:

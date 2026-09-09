@@ -9,7 +9,7 @@ export const melodyOfMana0047Chapter40AWagerAndSilence = {
   position: 47,
   ownLength: 2092,
   ownProgress: 2092,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:49.238Z",
   publishedAt: "2021-08-31",
   externalLink:

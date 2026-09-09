@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0021Chapter21DwarvenGuidanc
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 21,
   ownLength: 2585,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-01",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1934675/chapter-21-dwarven-guidance-pt2-aika",

@@ -9,7 +9,7 @@ export const markOfTheFool0005Chapter5TheCoinsAndThePriests = {
   position: 5,
   ownLength: 1955,
   ownProgress: 1955,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:10:57.266Z",
   publishedAt: "2021-04-05",
   externalLink:

@@ -8,7 +8,7 @@ export const markOfTheFool0022MarkOfTheFoolAnnouncementLightNovelsDelayedToDuePa
   story: "story-read/mark-of-the-fool",
   position: 22,
   ownLength: 85,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-03",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2172448/mark-of-the-fool-announcement-light-novels-delayed",

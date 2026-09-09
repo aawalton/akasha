@@ -9,7 +9,7 @@ export const melodyOfMana0017Chapter14DroughtAndOncomingFamine = {
   position: 17,
   ownLength: 2759,
   ownProgress: 2759,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:50.562Z",
   publishedAt: "2021-06-29",
   externalLink:

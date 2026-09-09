@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0028Chapter28TheGardensPt4 
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 28,
   ownLength: 2397,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-14",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1956945/chapter-28-the-gardens-pt-4",

@@ -9,7 +9,7 @@ export const melodyOfMana0001Chapter1IAmAnIdiot = {
   position: 1,
   ownLength: 1927,
   ownProgress: 1927,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:15.854Z",
   publishedAt: "2021-06-12",
   externalLink:

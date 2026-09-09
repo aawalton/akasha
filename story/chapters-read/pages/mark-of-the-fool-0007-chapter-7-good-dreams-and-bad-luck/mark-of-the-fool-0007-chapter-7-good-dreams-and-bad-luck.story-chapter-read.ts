@@ -9,7 +9,7 @@ export const markOfTheFool0007Chapter7GoodDreamsAndBadLuck = {
   position: 7,
   ownLength: 2514,
   ownProgress: 2514,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:01.060Z",
   publishedAt: "2021-04-06",
   externalLink:

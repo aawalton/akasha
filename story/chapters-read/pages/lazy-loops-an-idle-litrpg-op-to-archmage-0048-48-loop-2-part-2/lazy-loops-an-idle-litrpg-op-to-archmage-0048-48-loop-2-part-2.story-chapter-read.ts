@@ -8,7 +8,7 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage004848Loop2Part2 = {
   story: "lazy-loops-an-idle-litrpg-op-to-archmage",
   position: 48,
   ownLength: 2183,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage/chapter/3680924/48-loop-2-part-2",

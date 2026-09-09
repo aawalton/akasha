@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0043Chapter43CityDepartureP
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 43,
   ownLength: 2358,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-09",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2001533/chapter-43-city-departure-pt-3",

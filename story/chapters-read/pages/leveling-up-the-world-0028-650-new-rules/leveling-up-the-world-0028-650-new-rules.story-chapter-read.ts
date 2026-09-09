@@ -9,7 +9,7 @@ export const levelingUpTheWorld0028650NewRules = {
   position: 28,
   ownLength: 2221,
   ownProgress: 2221,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:07.697Z",
   publishedAt: "2022-12-07",
   externalLink:

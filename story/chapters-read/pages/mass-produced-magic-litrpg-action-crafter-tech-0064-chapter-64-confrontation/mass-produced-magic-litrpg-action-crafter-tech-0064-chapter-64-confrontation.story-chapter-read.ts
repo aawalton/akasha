@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0064Chapter64Confrontation 
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 64,
   ownLength: 1707,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-27",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2093575/chapter-64-confrontation",

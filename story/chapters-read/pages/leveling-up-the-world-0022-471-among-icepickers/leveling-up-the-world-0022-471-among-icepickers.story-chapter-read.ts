@@ -9,7 +9,7 @@ export const levelingUpTheWorld0022471AmongIcepickers = {
   position: 22,
   ownLength: 2010,
   ownProgress: 2010,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:54.565Z",
   publishedAt: "2022-04-24",
   externalLink:

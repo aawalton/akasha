@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0052Chapter52InterludeDiana
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 52,
   ownLength: 1894,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-28",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2035186/chapter-52-interlude-diana",

@@ -9,7 +9,7 @@ export const melodyOfMana0002Chapter2Reborn = {
   position: 2,
   ownLength: 4935,
   ownProgress: 4935,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:17.987Z",
   publishedAt: "2021-06-14",
   externalLink:

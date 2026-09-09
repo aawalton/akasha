@@ -9,7 +9,7 @@ export const melodyOfMana0043SideStory6MeanwhileInTheEmpire = {
   position: 43,
   ownLength: 1588,
   ownProgress: 1588,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:41.432Z",
   publishedAt: "2021-08-12",
   externalLink:

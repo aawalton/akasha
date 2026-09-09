@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation001919BloodyFrenzy = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 19,
   ownLength: 3037,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-09",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1711241/19-bloody-frenzy",

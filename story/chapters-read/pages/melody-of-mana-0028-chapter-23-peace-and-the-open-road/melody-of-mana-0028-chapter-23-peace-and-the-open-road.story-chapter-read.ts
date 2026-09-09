@@ -9,7 +9,7 @@ export const melodyOfMana0028Chapter23PeaceAndTheOpenRoad = {
   position: 28,
   ownLength: 2372,
   ownProgress: 2372,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:12.916Z",
   publishedAt: "2021-07-12",
   externalLink:

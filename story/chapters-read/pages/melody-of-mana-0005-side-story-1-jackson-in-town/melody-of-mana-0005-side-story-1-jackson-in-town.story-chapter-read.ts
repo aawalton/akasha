@@ -9,7 +9,7 @@ export const melodyOfMana0005SideStory1JacksonInTown = {
   position: 5,
   ownLength: 948,
   ownProgress: 948,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:24.650Z",
   publishedAt: "2021-06-17",
   externalLink:

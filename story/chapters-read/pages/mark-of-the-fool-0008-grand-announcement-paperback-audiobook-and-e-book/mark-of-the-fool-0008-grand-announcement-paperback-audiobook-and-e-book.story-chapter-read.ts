@@ -9,7 +9,7 @@ export const markOfTheFool0008GrandAnnouncementPaperbackAudiobookAndEBook = {
   position: 8,
   ownLength: 287,
   ownProgress: 206,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-23",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/934176/grand-announcement-paperback-audiobook-and-e-book",

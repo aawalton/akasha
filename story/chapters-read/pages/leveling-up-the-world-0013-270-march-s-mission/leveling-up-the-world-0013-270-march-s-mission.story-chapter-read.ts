@@ -9,7 +9,7 @@ export const levelingUpTheWorld0013270MarchSMission = {
   position: 13,
   ownLength: 2109,
   ownProgress: 2109,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:34.876Z",
   publishedAt: "2021-09-28",
   externalLink:

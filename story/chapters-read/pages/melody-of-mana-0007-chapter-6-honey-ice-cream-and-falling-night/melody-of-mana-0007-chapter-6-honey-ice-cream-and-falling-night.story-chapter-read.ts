@@ -9,7 +9,7 @@ export const melodyOfMana0007Chapter6HoneyIceCreamAndFallingNight = {
   position: 7,
   ownLength: 3780,
   ownProgress: 3780,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:29.009Z",
   publishedAt: "2021-06-22",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0012Chapter10Desperation = {
   position: 12,
   ownLength: 2498,
   ownProgress: 2498,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:39.644Z",
   publishedAt: "2021-06-26",
   externalLink:

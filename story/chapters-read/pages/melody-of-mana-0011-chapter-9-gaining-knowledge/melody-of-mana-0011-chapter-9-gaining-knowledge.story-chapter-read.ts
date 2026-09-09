@@ -9,7 +9,7 @@ export const melodyOfMana0011Chapter9GainingKnowledge = {
   position: 11,
   ownLength: 4022,
   ownProgress: 4022,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:37.569Z",
   publishedAt: "2021-06-25",
   externalLink:

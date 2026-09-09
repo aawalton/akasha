@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0018Chapter18Language = {
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 18,
   ownLength: 2058,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-26",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1926080/chapter-18-language",

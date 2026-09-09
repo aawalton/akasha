@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0065Chapter65ConfrontationI
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 65,
   ownLength: 1620,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-01",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2097722/chapter-65-confrontation-interlude",

@@ -9,7 +9,7 @@ export const melodyOfMana0032Chapter27TrainingWithLucien = {
   position: 32,
   ownLength: 2290,
   ownProgress: 2290,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:20.438Z",
   publishedAt: "2021-07-18",
   externalLink:

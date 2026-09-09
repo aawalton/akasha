@@ -9,7 +9,7 @@ export const melodyOfMana0027SideStory5VeskaEmergencyMeeting = {
   position: 27,
   ownLength: 1518,
   ownProgress: 1518,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:11.139Z",
   publishedAt: "2021-07-10",
   externalLink:

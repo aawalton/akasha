@@ -9,7 +9,7 @@ export const melodyOfMana0044SideStory7GoingsOnInTheRoyalPalace = {
   position: 44,
   ownLength: 1832,
   ownProgress: 1832,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:43.353Z",
   publishedAt: "2021-08-18",
   externalLink:

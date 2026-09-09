@@ -9,7 +9,7 @@ export const levelingUpTheWorld0027561TheArchdukeSGame = {
   position: 27,
   ownLength: 2155,
   ownProgress: 2155,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:05.568Z",
   publishedAt: "2022-08-04",
   externalLink:

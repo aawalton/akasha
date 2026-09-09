@@ -9,7 +9,7 @@ export const melodyOfMana0049Chapter42TheTempleOfLovers = {
   position: 49,
   ownLength: 2013,
   ownProgress: 2013,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:53.361Z",
   publishedAt: "2021-09-07",
   externalLink:

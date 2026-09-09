@@ -9,7 +9,7 @@ export const melodyOfMana0026Chapter22WorkAndTraining = {
   position: 26,
   ownLength: 2361,
   ownProgress: 2361,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:09.202Z",
   publishedAt: "2021-07-08",
   externalLink:

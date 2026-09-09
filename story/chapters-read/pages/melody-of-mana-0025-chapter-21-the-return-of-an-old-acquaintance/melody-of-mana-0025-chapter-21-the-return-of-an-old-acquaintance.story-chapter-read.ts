@@ -9,7 +9,7 @@ export const melodyOfMana0025Chapter21TheReturnOfAnOldAcquaintance = {
   position: 25,
   ownLength: 2169,
   ownProgress: 2169,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:06.633Z",
   publishedAt: "2021-07-07",
   externalLink:

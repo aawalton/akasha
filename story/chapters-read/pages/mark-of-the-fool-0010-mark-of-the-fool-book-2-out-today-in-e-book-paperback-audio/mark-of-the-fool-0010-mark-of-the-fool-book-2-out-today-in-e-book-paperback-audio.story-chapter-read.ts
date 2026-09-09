@@ -9,7 +9,7 @@ export const markOfTheFool0010MarkOfTheFoolBook2OutTodayInEBookPaperbackAudio = 
   story: "story-read/mark-of-the-fool",
   position: 10,
   ownLength: 150,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-01-10",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1084047/mark-of-the-fool-book-2-out-today-in-e-book-paperback",

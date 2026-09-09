@@ -9,7 +9,7 @@ export const markOfTheFool0001Chapter1FoolsAndInheritance = {
   position: 1,
   ownLength: 2240,
   ownProgress: 2240,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:10:49.536Z",
   publishedAt: "2021-03-26",
   externalLink:

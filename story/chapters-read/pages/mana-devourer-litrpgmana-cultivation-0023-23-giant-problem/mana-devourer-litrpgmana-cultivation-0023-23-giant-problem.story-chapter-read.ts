@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation002323GiantProblem = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 23,
   ownLength: 3104,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-13",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1716338/23-giant-problem",

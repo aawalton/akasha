@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0003Chapter3WheresTheTutori
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 3,
   ownLength: 1852,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-16",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1908013/chapter-3-wheres-the-tutorial",

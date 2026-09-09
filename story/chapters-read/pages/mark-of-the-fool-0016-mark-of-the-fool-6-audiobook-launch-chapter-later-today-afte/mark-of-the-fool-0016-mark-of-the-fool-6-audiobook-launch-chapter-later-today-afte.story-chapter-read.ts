@@ -9,7 +9,7 @@ export const markOfTheFool0016MarkOfTheFool6AudiobookLaunchChapterLaterTodayAfte
   position: 16,
   ownLength: 118,
   ownProgress: 118,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-07-14T12:47:27.515Z",
   publishedAt: "2024-07-31",
   externalLink:

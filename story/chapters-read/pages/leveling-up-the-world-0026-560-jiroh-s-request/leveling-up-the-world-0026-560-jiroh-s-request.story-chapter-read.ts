@@ -9,7 +9,7 @@ export const levelingUpTheWorld0026560JirohSRequest = {
   position: 26,
   ownLength: 2030,
   ownProgress: 2030,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:03.473Z",
   publishedAt: "2022-08-02",
   externalLink:

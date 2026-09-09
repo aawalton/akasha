@@ -9,7 +9,7 @@ export const melodyOfMana0016SideStory3MystienGoingToTheWaystation = {
   position: 16,
   ownLength: 1471,
   ownProgress: 1471,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:48.560Z",
   publishedAt: "2021-06-28",
   externalLink:

@@ -9,7 +9,7 @@ export const levelingUpTheWorld0036747OldAdviceAndNew = {
   position: 36,
   ownLength: 2149,
   ownProgress: 2149,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:24.366Z",
   publishedAt: "2023-05-18",
   externalLink:

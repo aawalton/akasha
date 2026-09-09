@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation001010Cornered = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 10,
   ownLength: 3483,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-01",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1700174/10-cornered",

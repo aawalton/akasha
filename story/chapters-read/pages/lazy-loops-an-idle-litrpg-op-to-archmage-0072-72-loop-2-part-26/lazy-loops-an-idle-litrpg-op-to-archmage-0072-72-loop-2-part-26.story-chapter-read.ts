@@ -7,7 +7,7 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage007272Loop2Part26 = {
   story: "story-read/lazy-loops-an-idle-litrpg-op-to-archmage",
   position: 72,
   publishedAt: "2026-09-05",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3914194",
   source: "royal-road",
   title: "72 Loop 2, Part 26",

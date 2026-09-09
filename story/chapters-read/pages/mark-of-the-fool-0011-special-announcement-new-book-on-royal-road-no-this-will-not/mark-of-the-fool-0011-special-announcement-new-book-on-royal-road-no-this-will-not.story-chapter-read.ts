@@ -8,7 +8,7 @@ export const markOfTheFool0011SpecialAnnouncementNewBookOnRoyalRoadNoThisWillNot
   story: "story-read/mark-of-the-fool",
   position: 11,
   ownLength: 180,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1319037/special-announcement-new-book-on-royal-road-no",

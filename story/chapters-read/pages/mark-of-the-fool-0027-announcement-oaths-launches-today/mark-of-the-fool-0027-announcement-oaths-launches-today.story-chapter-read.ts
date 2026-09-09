@@ -8,7 +8,7 @@ export const markOfTheFool0027AnnouncementOathsLaunchesToday = {
   story: "story-read/mark-of-the-fool",
   position: 27,
   ownLength: 297,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-23",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2622628/announcement-oaths-launches-today",

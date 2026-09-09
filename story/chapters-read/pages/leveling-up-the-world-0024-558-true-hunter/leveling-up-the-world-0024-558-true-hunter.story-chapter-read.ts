@@ -9,7 +9,7 @@ export const levelingUpTheWorld0024558TrueHunter = {
   position: 24,
   ownLength: 2060,
   ownProgress: 2060,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:59.543Z",
   publishedAt: "2022-07-31",
   externalLink:

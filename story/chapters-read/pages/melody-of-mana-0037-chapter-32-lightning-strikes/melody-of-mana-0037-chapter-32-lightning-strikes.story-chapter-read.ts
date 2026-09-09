@@ -9,7 +9,7 @@ export const melodyOfMana0037Chapter32LightningStrikes = {
   position: 37,
   ownLength: 2418,
   ownProgress: 2418,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:29.993Z",
   publishedAt: "2021-07-27",
   externalLink:

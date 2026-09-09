@@ -9,7 +9,7 @@ export const levelingUpTheWorld000586InnWithAnElf = {
   position: 5,
   ownLength: 2074,
   ownProgress: 2074,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:17.610Z",
   publishedAt: "2021-03-28",
   externalLink:

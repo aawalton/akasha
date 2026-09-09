@@ -9,7 +9,7 @@ export const levelingUpTheWorld00022Awakened = {
   position: 2,
   ownLength: 1031,
   ownProgress: 1031,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:11.819Z",
   publishedAt: "2021-01-03",
   externalLink:

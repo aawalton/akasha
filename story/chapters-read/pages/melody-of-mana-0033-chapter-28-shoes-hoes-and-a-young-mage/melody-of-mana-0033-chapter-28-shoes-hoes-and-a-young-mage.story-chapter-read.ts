@@ -9,7 +9,7 @@ export const melodyOfMana0033Chapter28ShoesHoesAndAYoungMage = {
   position: 33,
   ownLength: 2077,
   ownProgress: 2077,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:22.451Z",
   publishedAt: "2021-07-20",
   externalLink:

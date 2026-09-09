@@ -9,7 +9,7 @@ export const levelingUpTheWorld0034745EffectsOfTheCurse = {
   position: 34,
   ownLength: 2015,
   ownProgress: 2015,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:20.411Z",
   publishedAt: "2023-05-16",
   externalLink:

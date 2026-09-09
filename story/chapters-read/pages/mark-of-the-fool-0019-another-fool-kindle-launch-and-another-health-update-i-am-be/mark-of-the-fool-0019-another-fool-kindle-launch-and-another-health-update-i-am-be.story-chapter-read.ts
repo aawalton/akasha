@@ -9,7 +9,7 @@ export const markOfTheFool0019AnotherFoolKindleLaunchAndAnotherHealthUpdateIAmBe
   story: "story-read/mark-of-the-fool",
   position: 19,
   ownLength: 398,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-12",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2062709/another-fool-kindle-launch-and-another-health",

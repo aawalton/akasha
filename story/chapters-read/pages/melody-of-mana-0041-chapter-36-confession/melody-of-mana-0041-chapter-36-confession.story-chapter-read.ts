@@ -9,7 +9,7 @@ export const melodyOfMana0041Chapter36Confession = {
   position: 41,
   ownLength: 2019,
   ownProgress: 2019,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:37.570Z",
   publishedAt: "2021-08-04",
   externalLink:

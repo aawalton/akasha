@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation00022FightOrDie = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 2,
   ownLength: 2378,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1697777/2-fight-or-die",

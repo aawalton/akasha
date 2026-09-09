@@ -8,7 +8,7 @@ export const markOfTheFool0018AnUpdateAudioAnnouncement = {
   story: "story-read/mark-of-the-fool",
   position: 18,
   ownLength: 322,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-11",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1951195/an-update-audio-announcement",

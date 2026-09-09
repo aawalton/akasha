@@ -9,7 +9,7 @@ export const melodyOfMana0019Chapter16TheDamBreaks = {
   position: 19,
   ownLength: 2204,
   ownProgress: 2204,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:54.562Z",
   publishedAt: "2021-06-30",
   externalLink:

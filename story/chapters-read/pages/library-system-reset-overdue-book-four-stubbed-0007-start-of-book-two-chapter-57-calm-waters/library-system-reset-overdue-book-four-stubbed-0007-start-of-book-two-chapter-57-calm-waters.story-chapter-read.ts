@@ -8,7 +8,7 @@ export const librarySystemResetOverdueBookFourStubbed0007StartOfBookTwoChapter57
   story: "library-system-reset-overdue-book-four-stubbed",
   position: 7,
   ownLength: 2830,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-01-04",
   externalLink:
     "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-complete-series-stubbed/chapter/1465526/start-of-book-two-chapter-57-calm-waters",

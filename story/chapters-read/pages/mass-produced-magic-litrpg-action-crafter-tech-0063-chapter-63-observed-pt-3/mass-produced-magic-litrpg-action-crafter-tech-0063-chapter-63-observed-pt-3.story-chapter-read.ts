@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0063Chapter63ObservedPt3 = 
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 63,
   ownLength: 1707,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-25",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2089622/chapter-63-observed-pt-3",

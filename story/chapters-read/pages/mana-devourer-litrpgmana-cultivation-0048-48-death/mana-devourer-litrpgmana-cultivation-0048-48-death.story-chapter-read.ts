@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation004848Death = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 48,
   ownLength: 2980,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-09",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1751369/48-death",

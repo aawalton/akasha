@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation002828Locked = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 28,
   ownLength: 2747,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-18",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1722689/28-locked",

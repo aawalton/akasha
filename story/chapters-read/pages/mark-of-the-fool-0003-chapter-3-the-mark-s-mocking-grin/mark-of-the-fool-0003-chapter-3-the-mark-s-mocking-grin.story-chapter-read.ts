@@ -9,7 +9,7 @@ export const markOfTheFool0003Chapter3TheMarkSMockingGrin = {
   position: 3,
   ownLength: 3032,
   ownProgress: 3032,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:10:53.435Z",
   publishedAt: "2021-04-02",
   externalLink:

@@ -9,7 +9,7 @@ export const levelingUpTheWorld0018384MusicResonnance = {
   position: 18,
   ownLength: 2014,
   ownProgress: 2014,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:45.902Z",
   publishedAt: "2022-01-23",
   externalLink:

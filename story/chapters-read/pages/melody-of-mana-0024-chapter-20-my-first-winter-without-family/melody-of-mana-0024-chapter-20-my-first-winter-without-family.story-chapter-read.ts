@@ -9,7 +9,7 @@ export const melodyOfMana0024Chapter20MyFirstWinterWithoutFamily = {
   position: 24,
   ownLength: 2008,
   ownProgress: 2008,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:04.840Z",
   publishedAt: "2021-07-06",
   externalLink:

@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0045Chapter45RebelCampPt2 =
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 45,
   ownLength: 1996,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-12",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2006500/chapter-45-rebel-camp-pt-2",

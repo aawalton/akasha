@@ -8,7 +8,7 @@ export const markOfTheFool0017FoolRelatedAnnouncementMarkOfTheFool8OutInEbookAn 
   story: "story-read/mark-of-the-fool",
   position: 17,
   ownLength: 173,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-18",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/1808687/fool-related-announcement-mark-of-the-fool-8-out",

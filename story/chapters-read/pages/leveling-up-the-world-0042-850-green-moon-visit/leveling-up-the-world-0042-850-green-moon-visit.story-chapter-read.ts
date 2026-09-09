@@ -9,7 +9,7 @@ export const levelingUpTheWorld0042850GreenMoonVisit = {
   position: 42,
   ownLength: 2044,
   ownProgress: 2044,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:41:36.952Z",
   publishedAt: "2023-12-23",
   externalLink:

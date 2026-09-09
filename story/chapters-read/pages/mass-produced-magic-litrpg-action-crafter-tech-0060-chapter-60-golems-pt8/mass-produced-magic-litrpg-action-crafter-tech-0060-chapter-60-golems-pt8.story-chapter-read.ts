@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0060Chapter60GolemsPt8 = {
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 60,
   ownLength: 1809,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-18",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2075178/chapter-60-golems-pt8",

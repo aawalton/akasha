@@ -8,7 +8,7 @@ export const markOfTheFool0021SpecialAnnouncementIAmBecomeDeathJustLaunched = {
   story: "story-read/mark-of-the-fool",
   position: 21,
   ownLength: 308,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-20",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2139414/special-announcement-i-am-become-death-just-launched",

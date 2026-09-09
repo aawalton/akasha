@@ -9,7 +9,7 @@ export const melodyOfMana0031Chapter26IntoCapitalAndOnwardTowardLucien = {
   position: 31,
   ownLength: 2237,
   ownProgress: 2237,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:27:18.668Z",
   publishedAt: "2021-07-17",
   externalLink:

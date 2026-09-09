@@ -9,7 +9,7 @@ export const levelingUpTheWorld0023472NewAwakeningTrial = {
   position: 23,
   ownLength: 2112,
   ownProgress: 2112,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:56.493Z",
   publishedAt: "2022-04-25",
   externalLink:

@@ -9,7 +9,7 @@ export const melodyOfMana0008Chapter7BirthDeathAndGatheringShadows = {
   position: 8,
   ownLength: 3447,
   ownProgress: 3447,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:31.173Z",
   publishedAt: "2021-06-22",
   externalLink:

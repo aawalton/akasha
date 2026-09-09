@@ -9,7 +9,7 @@ export const melodyOfMana0009SideStory2VerrenSLateNightMeeting = {
   position: 9,
   ownLength: 896,
   ownProgress: 896,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:33.363Z",
   publishedAt: "2021-06-22",
   externalLink:

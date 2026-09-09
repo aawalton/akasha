@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation003030Fear = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 30,
   ownLength: 4074,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1725372/30-fear",

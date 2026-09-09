@@ -9,7 +9,7 @@ export const levelingUpTheWorld0021470ProfessionalHunter = {
   position: 21,
   ownLength: 2043,
   ownProgress: 2043,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:52.457Z",
   publishedAt: "2022-04-23",
   externalLink:

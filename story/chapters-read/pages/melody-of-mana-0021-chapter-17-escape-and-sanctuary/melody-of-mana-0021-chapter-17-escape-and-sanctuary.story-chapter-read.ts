@@ -9,7 +9,7 @@ export const melodyOfMana0021Chapter17EscapeAndSanctuary = {
   position: 21,
   ownLength: 2289,
   ownProgress: 2289,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:58.764Z",
   publishedAt: "2021-07-01",
   externalLink:

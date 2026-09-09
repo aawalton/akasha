@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0036Chapter36CityTensionsPt
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 36,
   ownLength: 2142,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-28",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/1979809/chapter-36-city-tensions-pt-3",

@@ -8,7 +8,7 @@ export const markOfTheFool0023MarkOfTheFoolLightNovelOutToday = {
   story: "story-read/mark-of-the-fool",
   position: 23,
   ownLength: 103,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-21",
   externalLink:
     "https://www.royalroad.com/fiction/41618/mark-of-the-fool/chapter/2294304/mark-of-the-fool-light-novel-out-today",

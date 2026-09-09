@@ -8,7 +8,7 @@ export const massProducedMagicLitrpgActionCrafterTech0050Chapter50RuinsPt5 = {
   story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 50,
   ownLength: 1941,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-23",
   externalLink:
     "https://www.royalroad.com/fiction/98671/mass-produced-magic-litrpg-action-crafter-tech/chapter/2026506/chapter-50-ruins-pt-5",

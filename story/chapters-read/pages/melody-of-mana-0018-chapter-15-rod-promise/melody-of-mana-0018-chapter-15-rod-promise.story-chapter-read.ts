@@ -9,7 +9,7 @@ export const melodyOfMana0018Chapter15RodPromise = {
   position: 18,
   ownLength: 1140,
   ownProgress: 1140,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:26:52.552Z",
   publishedAt: "2021-06-30",
   externalLink:

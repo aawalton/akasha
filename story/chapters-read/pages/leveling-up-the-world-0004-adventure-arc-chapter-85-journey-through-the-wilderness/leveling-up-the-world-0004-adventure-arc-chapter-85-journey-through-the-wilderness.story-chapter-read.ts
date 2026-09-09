@@ -9,7 +9,7 @@ export const levelingUpTheWorld0004AdventureArcChapter85JourneyThroughTheWildern
   position: 4,
   ownLength: 2093,
   ownProgress: 2093,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:15.527Z",
   publishedAt: "2021-03-27",
   externalLink:

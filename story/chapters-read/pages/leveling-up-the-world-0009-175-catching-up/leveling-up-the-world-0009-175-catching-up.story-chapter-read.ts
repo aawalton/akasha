@@ -9,7 +9,7 @@ export const levelingUpTheWorld0009175CatchingUp = {
   position: 9,
   ownLength: 2535,
   ownProgress: 2535,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:26.306Z",
   publishedAt: "2021-06-25",
   externalLink:

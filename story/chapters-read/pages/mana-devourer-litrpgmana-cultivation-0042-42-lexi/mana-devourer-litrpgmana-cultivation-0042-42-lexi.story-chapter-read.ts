@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation004242Lexi = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 42,
   ownLength: 3671,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-01",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1740728/42-lexi",

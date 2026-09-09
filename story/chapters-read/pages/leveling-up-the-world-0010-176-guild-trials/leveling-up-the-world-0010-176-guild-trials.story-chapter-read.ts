@@ -9,7 +9,7 @@ export const levelingUpTheWorld0010176GuildTrials = {
   position: 10,
   ownLength: 2236,
   ownProgress: 2236,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:28.544Z",
   publishedAt: "2021-06-26",
   externalLink:

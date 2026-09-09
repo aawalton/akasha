@@ -9,7 +9,7 @@ export const levelingUpTheWorld000687TheIcepickerGuild = {
   position: 6,
   ownLength: 2124,
   ownProgress: 2124,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T22:40:19.658Z",
   publishedAt: "2021-03-29",
   externalLink:

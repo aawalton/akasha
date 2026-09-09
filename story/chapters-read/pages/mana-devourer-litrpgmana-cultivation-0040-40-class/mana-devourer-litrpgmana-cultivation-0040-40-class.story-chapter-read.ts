@@ -8,7 +8,7 @@ export const manaDevourerLitrpgmanaCultivation004040Class = {
   story: "mana-devourer-litrpgmana-cultivation",
   position: 40,
   ownLength: 4149,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-30",
   externalLink:
     "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation/chapter/1738195/40-class",
