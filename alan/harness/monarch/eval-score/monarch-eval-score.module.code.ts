@@ -251,7 +251,8 @@ if (import.meta.main) {
   const flags = readFlags(process.argv.slice(2))
   const path = flags.get("file")?.[0]
   if (path === undefined) throw new Error("--file <run.json> is wanted, as run.ts wrote it")
-  const parsed = object(JSON.parse(await Bun.file(path).text()), "run file")
+  const body: unknown = JSON.parse(await Bun.file(path).text())
+  const parsed = object(body, "run file")
   void array(parsed.drawn, "run file.drawn")
-  console.log(report(parsed as unknown as RunFile))
+  console.log(report(body as RunFile))
 }
