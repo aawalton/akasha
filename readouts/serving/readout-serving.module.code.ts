@@ -84,7 +84,7 @@ export async function answerReadoutAdmittedBy(
   const wireKey = stated(row.wireKey)
   if (wireKey === undefined) return noReading()
 
-  const scaleSlug = stated(row.scale) ?? stated(row.scaleSlug)
+  const scaleSlug = stated(row.scale)
   const noneLeft = noneLeftIn(row)
   const scale = scaleSlug === undefined ? undefined : await readScale(scaleSlug)
 

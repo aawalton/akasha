@@ -87,7 +87,7 @@ function stoplightsByGroup(root: string, now: Date): ReadonlyMap<string, readonl
     const found: Stoplight[] = []
     for (const row of inPlaceOrder(rows.filter((one) => namesGroup(one, groupSlug)))) {
       if (stilled(row)) continue
-      const scaleSlug = textIn(row, "scale") ?? textIn(row, "scaleSlug")
+      const scaleSlug = textIn(row, "scale")
       const rungs = scaleSlug === null ? [] : (rungsBy.get(scaleSlug) ?? [])
       const one = stoplightWith(row, rungs, HABIT, (values) => readingHeldOn(values, now))
       if (one !== null) found.push(figureOffScale ? { ...one, figureOffScale } : one)

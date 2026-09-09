@@ -82,7 +82,7 @@ export async function resolveOneReadout(groupSlug: string): Promise<Readout> {
   }
   const slug = stated(row.slug)
   const label = stated(row.label)
-  const scaleSlug = stated(row.scale) ?? stated(row.scaleSlug)
+  const scaleSlug = stated(row.scale)
   if (slug === undefined || label === undefined || scaleSlug === undefined) {
     throw new Error(
       `resolveOneReadout: the one readout of the group \`${groupSlug}\` states no slug, no label or no scale-slug, and a fall names the readout it fell on and the rung it reached`
