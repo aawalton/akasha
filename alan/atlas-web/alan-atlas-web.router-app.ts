@@ -57,5 +57,7 @@ export const alanAtlasWeb = {
     "route/atlas-home",
     "route/atlas-api-places-search",
     "route/atlas-basemap-na-eu",
+    "route/atlas-api-places-add",
+    "route/atlas-api-locations-ingest",
   ],
 } as const satisfies RouterApp

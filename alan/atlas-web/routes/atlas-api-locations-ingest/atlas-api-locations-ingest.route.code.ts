@@ -1,10 +1,9 @@
 import { insertLocationTraces } from "@akasha/location-traces-access/trace-insert"
 import type { LocationTraceInsert } from "@akasha/location-traces-access/trace-shape"
-import { resolveLocationIngestContext } from "../.server/location-ingest-context/location-ingest-context.module.code.ts"
-import { locationBatchSchema } from "../location-batch/location-batch.module.code.ts"
-import type { Route } from "./+types/api.locations.ingest"
+import { resolveLocationIngestContext } from "../../.server/location-ingest-context/location-ingest-context.module.code.ts"
+import { locationBatchSchema } from "../../location-batch/location-batch.module.code.ts"
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   if (request.method !== "POST") {
     return Response.json({ error: "method-not-allowed" }, { status: 405 })
   }

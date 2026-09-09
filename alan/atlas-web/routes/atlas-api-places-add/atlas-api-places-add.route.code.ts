@@ -3,12 +3,11 @@ import { buildPageHref, slugStem } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
-import { placeCandidateSchema } from "../place-candidate/place-candidate.module.code.ts"
-import type { Route } from "./+types/api.places.add"
+import { placeCandidateSchema } from "../../place-candidate/place-candidate.module.code.ts"
 
 const LOCATION_PAGE_TYPE_SLUG = "location"
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   if (request.method !== "POST") {
     return Response.json({ error: "method-not-allowed" }, { status: 405 })
   }
@@ -33,8 +32,6 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
   const { headers: sbHeaders } = createServerClient(request)
   for (const [key, value] of sbHeaders) headers.append(key, value)
 
-  // A location stands in a file named for its slug, so the write has to state
-  // one: `createPage` refuses a file page that names no path to stand at.
   const slug = slugStem(candidate.name)
   if (slug === "") {
     return Response.json({ error: "unnameable-place" }, { status: 400, headers })

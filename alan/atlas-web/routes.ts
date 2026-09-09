@@ -24,6 +24,9 @@ export default [
     "api/places/search",
     "routes/atlas-api-places-search/atlas-api-places-search.route.code.ts"
   ),
-  route("api/places/add", "routes/api.places.add.ts"),
-  route("api/locations/ingest", "routes/api.locations.ingest.ts"),
+  route("api/places/add", "routes/atlas-api-places-add/atlas-api-places-add.route.code.ts"),
+  route(
+    "api/locations/ingest",
+    "routes/atlas-api-locations-ingest/atlas-api-locations-ingest.route.code.ts"
+  ),
 ] satisfies RouteConfig
