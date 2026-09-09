@@ -6,6 +6,7 @@ import { listedFiled, pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { shadowFor } from "@akasha/pages/shadow"
 import { bytesOf } from "@akasha/testing-system/bodying"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   claiming,
   declaring,
@@ -15,8 +16,7 @@ import {
   pathFor,
   put,
   typed,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import { identifierNamesOnePage } from "./identifier-names-one-page.code-check.code.ts"
 
 const TEXT = "text-property"

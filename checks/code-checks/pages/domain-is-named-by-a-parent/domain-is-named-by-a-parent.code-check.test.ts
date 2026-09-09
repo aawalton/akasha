@@ -4,6 +4,7 @@ import { pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { namedUnder } from "@akasha/pages/page-file-name"
 import { shadowAt, shadowFor } from "@akasha/pages/shadow"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   claiming,
   declaring,
@@ -15,8 +16,7 @@ import {
   pathFor,
   put,
   typed,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import { domainIsNamedByAParent } from "./domain-is-named-by-a-parent.code-check.code.ts"
 
 const ONE = "01a04d5f-c731-7001-8000-000000000001"

@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { shadowFor } from "@akasha/pages/shadow"
 import { bytesOf } from "@akasha/testing-system/bodying"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   declaring,
   filing,
@@ -10,8 +11,7 @@ import {
   pathFor,
   put,
   typed,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import { emailAddressIsWellFormed } from "./email-address-is-well-formed.code-check.code.ts"
 
 const ADDRESS = "email-address-property"

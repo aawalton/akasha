@@ -4,6 +4,7 @@ import { pageFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { namedUnder } from "@akasha/pages/page-file-name"
 import { shadowAt, shadowFor } from "@akasha/pages/shadow"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   claiming,
   declaring,
@@ -15,8 +16,7 @@ import {
   pathFor,
   put,
   typed,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import { propertyIsDeclaredByAType } from "./property-is-declared-by-a-type.code-check.code.ts"
 
 const ONE = "01a04ef8-1a07-7001-8000-000000000001"

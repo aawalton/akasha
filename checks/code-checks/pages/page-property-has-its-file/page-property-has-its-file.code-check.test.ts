@@ -3,13 +3,13 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { noPathsFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { shadowFor } from "@akasha/pages/shadow"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   carrying,
   claiming,
   declaring,
   filing,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   pagePropertyHasItsFile,
   pagesTouchedBy,

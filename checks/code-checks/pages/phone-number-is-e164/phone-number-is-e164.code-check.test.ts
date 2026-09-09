@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { shadowFor } from "@akasha/pages/shadow"
 import { bytesOf } from "@akasha/testing-system/bodying"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   declaring,
   founded,
@@ -9,8 +10,7 @@ import {
   NO_BYTES,
   pathFor,
   typed,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import { phoneNumberIsE164, reasonFor, reasonsIn } from "./phone-number-is-e164.code-check.code.ts"
 
 const scratch = scratchWorld()

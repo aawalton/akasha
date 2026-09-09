@@ -8,7 +8,7 @@ import {
   claiming,
   declaring,
   filing,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import type { Said } from "./no-rule-in-two-files.code-check.code.ts"
 import {
   everySpeltIn,

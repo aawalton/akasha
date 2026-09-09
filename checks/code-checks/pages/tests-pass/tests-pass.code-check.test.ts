@@ -13,7 +13,7 @@ import {
   gone,
   landing,
   proposing,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   linksIn,
   namedIn,

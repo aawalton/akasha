@@ -7,7 +7,7 @@ import {
   claiming,
   declaring,
   filing,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   everyShapeIn,
   noSecondSpellingOfANameFormat,

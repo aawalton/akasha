@@ -1,13 +1,13 @@
 import type { Change } from "@akasha/pages/change"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import { bytesOf } from "@akasha/testing-system/bodying"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   filing,
   landing,
   pathFor,
   put,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 
 export const PAGE_TYPE = "page-type"
 

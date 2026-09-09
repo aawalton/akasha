@@ -5,12 +5,8 @@ import type { Change } from "@akasha/pages/change"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { shadowAsked, shadowFor } from "@akasha/pages/shadow"
 import { bodiesIn, bytesOf } from "@akasha/testing-system/bodying"
-import {
-  change,
-  declaring,
-  landing,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { change, declaring, landing } from "../../../modules/scratch/check-scratch.module.code.ts"
 import {
   pageIn,
   pageNamedAsStated,

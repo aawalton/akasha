@@ -3,6 +3,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { pageFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { shadowFor } from "@akasha/pages/shadow"
+import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   declaring,
   edging,
@@ -10,8 +11,7 @@ import {
   landing,
   pathFor,
   typed,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import { keyNamesOneProperty, looseningIn } from "./key-names-one-property.code-check.code.ts"
 import {
   holding,

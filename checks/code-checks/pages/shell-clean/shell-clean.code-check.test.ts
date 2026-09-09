@@ -10,7 +10,7 @@ import {
   gone,
   landing,
   proposing,
-} from "../../../modules/check-scratch/check-scratch.module.code.ts"
+} from "../../../modules/scratch/check-scratch.module.code.ts"
 import type { Found } from "./shell-clean.code-check.code.ts"
 import {
   besideIn,
