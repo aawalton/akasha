@@ -50,8 +50,6 @@ const WRITER_OWES_READING = "writerOwesReading"
 
 const CHANGE_KIND = "changeKind"
 
-const CHANGE_KIND_SLUG = "changeKindSlug"
-
 const KIND_TYPE = "change-kind"
 
 const NO_ARGUMENTS =
@@ -204,8 +202,7 @@ export function owingBy(value: Value | null): boolean {
 }
 
 export function kindOf(world: World, value: Value | null): Value | null {
-  if (value === null) return null
-  const slug = textAt(value, CHANGE_KIND) ?? textAt(value, CHANGE_KIND_SLUG)
+  const slug = value === null ? null : textAt(value, CHANGE_KIND)
   return slug === null ? null : world.index.pageAt(KIND_TYPE, slug)
 }
 
