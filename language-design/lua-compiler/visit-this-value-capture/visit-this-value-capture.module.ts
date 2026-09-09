@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const visitThisValueCapture = {
   id: "01a06758-8ec6-7001-a766-cc4d5e6c0328",
   pageTypeSlug: "module",
+  type: "module",
   slug: "visit-this-value-capture",
   definition: "the temporary with the this value of a method access",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const codeRoot = {
   id: "01a0616e-00e1-7000-83c1-f6c571f34b8f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "code-root",
   definition: "the checkout a run walks",
   code: "ts",

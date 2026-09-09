@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageBody = {
   id: "01a05de5-1c90-7834-a245-bb7748f6f1ea",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-body",
   definition: "the TypeScript a page is, written from the values it has",
   code: "ts",

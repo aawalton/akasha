@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageAnswerSweeping = {
   id: "01a06560-1a2b-7c04-9d31-5f8e2a7b6c11",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-answer-sweeping",
   definition: "every page answer kept longer than a day taken away",
   code: "ts",

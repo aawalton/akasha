@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageAddress = {
   id: "01a04b14-4355-7352-9c98-ad67e309f5f6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-address",
   definition: "what form a relation value takes when it names a page",
   code: "ts",

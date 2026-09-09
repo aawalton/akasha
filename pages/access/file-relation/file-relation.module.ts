@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const fileRelation = {
   id: "01a05bd6-c530-7b54-851f-32241308d945",
   pageTypeSlug: "module",
+  type: "module",
   slug: "file-relation",
   definition: "the relations a file-backed page is in",
   code: "ts",

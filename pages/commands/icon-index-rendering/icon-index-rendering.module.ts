@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const iconIndexRendering = {
   id: "01a06869-1dd9-7000-9568-50cc17d96243",
   pageTypeSlug: "module",
+  type: "module",
   slug: "icon-index-rendering",
   definition: "a folder of lucide icon metadata read and rendered as the pages a search runs over",
   code: "ts",

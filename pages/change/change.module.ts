@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const change = {
   id: "01a0542d-94cd-7695-b0dc-ad22cad9bdc4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "change",
   definition: "a change to files, and the bodies before and after it",
   code: "ts",
