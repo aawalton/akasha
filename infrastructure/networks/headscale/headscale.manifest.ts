@@ -9,4 +9,20 @@ export const headscale = {
   parts: ["module/headscale-configmaps", "module/headscale-network-policies"],
   code: "ts",
   generatedDirectory: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The server reads its certificate once, as the server starts.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A renewed certificate reaches the server in a new pod rather than in the running one.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pod template carries the hash of the certificate secret, so a renewal rolls the pod.",
+    },
+  ],
 } as const satisfies Manifest

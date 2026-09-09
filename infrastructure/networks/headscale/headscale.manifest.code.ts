@@ -1,6 +1,7 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-namespace/k8s-namespace.module.code.ts"
+import { secretChecksum } from "akasha/infrastructure/cluster/k8s-types/secret-checksum/secret-checksum.module.code.ts"
 import { ApiObject, App, Chart } from "cdk8s"
 import {
   CONTROL_PLANE_LABELS,
@@ -17,6 +18,8 @@ import {
   policyConfigmapYaml,
 } from "./modules/configmaps/headscale-configmaps.module.code.ts"
 import { networkPolicyYaml } from "./modules/network-policies/headscale-network-policies.module.code.ts"
+
+const TLS_SECRET_NAME = "headscale-tls"
 
 const LITESTREAM_S3_ENV = [
   {
@@ -66,7 +69,10 @@ function statefulsetYaml(): string {
       template: {
         metadata: {
           labels: CONTROL_PLANE_LABELS,
-          annotations: { "checksum/s3-creds": "placeholder" },
+          annotations: {
+            "checksum/tls": secretChecksum(NAMESPACE, TLS_SECRET_NAME, ["tls.crt", "tls.key"]),
+            "checksum/s3-creds": "placeholder",
+          },
         },
         spec: {
           terminationGracePeriodSeconds: 30,
@@ -178,7 +184,7 @@ function statefulsetYaml(): string {
             },
             {
               name: "tls",
-              secret: { secretName: "headscale-tls", defaultMode: 0o400 },
+              secret: { secretName: TLS_SECRET_NAME, defaultMode: 0o400 },
             },
             { name: "run", emptyDir: {} },
             { name: "tmp", emptyDir: {} },
@@ -202,7 +208,7 @@ function certificateYaml(): string {
       labels: TLS_LABELS,
     },
     spec: {
-      secretName: "headscale-tls",
+      secretName: TLS_SECRET_NAME,
       secretTemplate: {
         labels: TLS_LABELS,
       },
