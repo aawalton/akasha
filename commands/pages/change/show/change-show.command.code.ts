@@ -13,10 +13,7 @@ import {
 import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { inputIn } from "../../../../command-system/piping/piping.module.code.ts"
 import { blobIdOf, recordRead } from "../../../../command-system/reading/reading.module.code.ts"
-import {
-  offRepo,
-  pathAt,
-} from "../../../../command-system/said-pathing/said-pathing.module.code.ts"
+import { offRepo, pathAt } from "../../../modules/said-pathing/said-pathing.module.code.ts"
 import { ANSWER_CEILING, countLines, numbered } from "../../read/long-body/long-body.module.code.ts"
 
 const AT = "at"

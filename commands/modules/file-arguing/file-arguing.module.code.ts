@@ -18,11 +18,6 @@ import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
 import { markingIn, pipedIn, RUNS_SAID } from "../../../command-system/piping/piping.module.code.ts"
 import {
-  barredIn,
-  offRepo,
-  pathAt,
-} from "../../../command-system/said-pathing/said-pathing.module.code.ts"
-import {
   CONTENT_FILE,
   FILE_PATH,
   glassIn,
@@ -35,6 +30,7 @@ import {
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import { defaultMessage } from "../landing-saying/landing-saying.module.code.ts"
 import { unrestatedIn } from "../restating/restating.module.code.ts"
+import { barredIn, offRepo, pathAt } from "../said-pathing/said-pathing.module.code.ts"
 import { unwarrantedIn } from "../warrant-owing/warrant-owing.module.code.ts"
 
 export const RESTATED = "--restated"

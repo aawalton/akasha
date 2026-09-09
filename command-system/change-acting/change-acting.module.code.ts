@@ -2,10 +2,10 @@ import { replayed } from "@akasha/changes/change-answer"
 import type { FileChange } from "@akasha/changes/change-answer/types"
 import { bodyIn, droppedAll, editsIn, keptEdits } from "@akasha/changes/edits-keeping"
 import { handedPageOf, handedUnder } from "@akasha/changes/subagent-handed"
+import { offRepo, pathAt } from "../../commands/modules/said-pathing/said-pathing.module.code.ts"
 import { mistaking } from "../asking/asking.module.code.ts"
 import type { Answer } from "../calling/calling.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
-import { offRepo, pathAt } from "../said-pathing/said-pathing.module.code.ts"
 
 export const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
 
