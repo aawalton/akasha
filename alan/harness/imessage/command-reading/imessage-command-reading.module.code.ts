@@ -5,16 +5,16 @@ import { asJson, told } from "@akasha/command-system/command-answering"
 import type { Filing } from "@akasha/command-system/command-filling"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { inputIn, type Piping } from "@akasha/command-system/piping"
-import type { ImessageMessage } from "../../chat-db/chat-db.module.code.ts"
-import type { Contact } from "../../contacts-db/contacts-db.module.code.ts"
-import { buildNameIndex, handleKey } from "../../contacts-db/contacts-db.module.code.ts"
+import type { ImessageMessage } from "../chat-db/chat-db.module.code.ts"
+import type { Contact } from "../contacts-db/contacts-db.module.code.ts"
+import { buildNameIndex, handleKey } from "../contacts-db/contacts-db.module.code.ts"
 import {
   formatLocalMinute,
   messageLabel,
   type NameFor,
   nameFor,
   singleLine,
-} from "../../message-lines/message-lines.module.code.ts"
+} from "../message-lines/message-lines.module.code.ts"
 
 export const JSON_SAID = "--json"
 

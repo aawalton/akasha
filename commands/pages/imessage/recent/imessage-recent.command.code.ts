@@ -11,7 +11,7 @@ import {
   namingIn,
   type Reading,
   wordsIn,
-} from "../../../../alan/harness/imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
+} from "../../../../alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
 import {
   fetchContacts,
   fetchMessages,

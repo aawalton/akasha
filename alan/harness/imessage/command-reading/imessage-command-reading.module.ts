@@ -1,4 +1,4 @@
-import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const imessageCommandReading = {
   id: "01a0685f-c8ed-7000-adfa-6dd4db0e10c3",

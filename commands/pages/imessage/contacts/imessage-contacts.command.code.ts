@@ -5,7 +5,7 @@ import {
   JSON_SAID,
   type Reading,
   wordsIn,
-} from "../../../../alan/harness/imessage/commands/imessage-command-reading/imessage-command-reading.module.code.ts"
+} from "../../../../alan/harness/imessage/command-reading/imessage-command-reading.module.code.ts"
 import { searchContacts } from "../../../../alan/harness/imessage/contacts-db/contacts-db.module.code.ts"
 import { fetchContacts } from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
 

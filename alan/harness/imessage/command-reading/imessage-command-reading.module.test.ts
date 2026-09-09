@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { message } from "../../message-lines/message-lines.module.test-fixtures.ts"
+import { message } from "../message-lines/message-lines.module.test-fixtures.ts"
 import {
   countOf,
   JSON_SAID,
