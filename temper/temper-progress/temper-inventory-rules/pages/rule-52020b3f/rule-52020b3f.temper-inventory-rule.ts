@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const rule52020b3f = {
   id: "01a0728a-f56c-72a8-b208-019bf4973519",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-52020b3f",
   title: "Verses → Erin Solstice",
   conditions: "jsonl",

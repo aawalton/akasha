@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleFoodNormalSell = {
   id: "01a0728b-2e7d-7562-9c53-0b79515d7535",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-food-normal-sell",
   title: "Sell basic food",
   description:

@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleUnlockByPriority = {
   id: "01a0728b-8ec1-746f-bd66-65142a6da18b",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-unlock-by-priority",
   title: "Use unlockables",
   description:

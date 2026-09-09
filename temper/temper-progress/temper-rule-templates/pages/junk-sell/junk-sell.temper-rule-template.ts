@@ -3,6 +3,7 @@ import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts
 export const junkSell = {
   id: "019e3104-2625-71f1-b471-1e111e52165c",
   pageTypeSlug: "temper-rule-template",
+  type: "temper-rule-template",
   slug: "junk-sell",
   title: "Sell junk",
   key: "junk-sell",

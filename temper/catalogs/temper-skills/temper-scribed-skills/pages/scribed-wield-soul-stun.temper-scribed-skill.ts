@@ -3,6 +3,7 @@ import type { TemperScribedSkill } from "../temper-scribed-skill.page-type.ts"
 export const scribedWieldSoulStun = {
   id: "019e6471-15fc-7ca6-8de4-666e0c1cd00f",
   pageTypeSlug: "temper-scribed-skill",
+  type: "temper-scribed-skill",
   slug: "scribed-wield-soul-stun",
   title: "Dazing Soul",
   key: "scribed-wield-soul-stun",

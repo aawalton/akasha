@@ -3,6 +3,7 @@ import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts
 export const researchByPriority = {
   id: "019e3104-2612-7978-b397-84d0e1644a40",
   pageTypeSlug: "temper-rule-template",
+  type: "temper-rule-template",
   slug: "research-by-priority",
   title: "Research traits",
   key: "research-by-priority",

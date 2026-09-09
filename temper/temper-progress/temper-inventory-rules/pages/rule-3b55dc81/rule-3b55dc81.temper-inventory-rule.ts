@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const rule3b55dc81 = {
   id: "01a0728a-d6fe-7dbb-9828-69865270334a",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-3b55dc81",
   description:
     "Destroys known containers (reward already owned) with guild-store value < 5000g. Raised from 1000 to match the uniform 5000g line.",

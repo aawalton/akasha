@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleResearchByPriority = {
   id: "01a0728b-6d6e-7d08-943c-060decea6265",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-research-by-priority",
   title: "Research traits",
   description:

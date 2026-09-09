@@ -3,6 +3,7 @@ import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts
 export const unlockByPriority = {
   id: "019e3104-2610-72db-8869-9f0539544306",
   pageTypeSlug: "temper-rule-template",
+  type: "temper-rule-template",
   slug: "unlock-by-priority",
   title: "Use unlockables",
   key: "unlock-by-priority",

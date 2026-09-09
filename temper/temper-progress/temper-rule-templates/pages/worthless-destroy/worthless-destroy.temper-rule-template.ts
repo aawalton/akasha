@@ -3,6 +3,7 @@ import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts
 export const worthlessDestroy = {
   id: "019e3104-262e-7641-92a5-c6fd26067689",
   pageTypeSlug: "temper-rule-template",
+  type: "temper-rule-template",
   slug: "worthless-destroy",
   title: "Destroy worthless items",
   key: "worthless-destroy",

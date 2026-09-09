@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleTrophiesBank = {
   id: "01a0728b-8ec1-75fa-80ed-81a19e273ed8",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-trophies-bank",
   title: "Bank trophies",
   description:

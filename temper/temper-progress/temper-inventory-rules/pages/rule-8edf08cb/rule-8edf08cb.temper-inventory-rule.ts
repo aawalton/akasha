@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const rule8edf08cb = {
   id: "01a0728a-f56e-7636-b9da-b21d99e345f5",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-8edf08cb",
   title: "Sell learned style pages",
   description: "Disposal spine step 5: learned + sellable + sub-list-line. Closes gap A3.",

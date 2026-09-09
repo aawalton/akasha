@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleEquipmentDeconstruct = {
   id: "01a0728b-2e7d-7daa-bb9a-488382afbb59",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-equipment-deconstruct",
   title: "Deconstruct leftover equipment",
   description:

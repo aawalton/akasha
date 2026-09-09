@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleTreasuresEpicBank = {
   id: "01a0728b-8ec0-751b-8b72-78d2913de4d2",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-treasures-epic-bank",
   title: "Bank epic+ treasures",
   description: "Banks epic quality or higher treasures for safekeeping or later sale.",

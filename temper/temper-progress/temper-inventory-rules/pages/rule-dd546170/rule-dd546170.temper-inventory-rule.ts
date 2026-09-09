@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleDd546170 = {
   id: "01a0728b-2e7c-7157-b63e-c4943089e6b1",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-dd546170",
   title: "Destroy learned style pages below the 5000g list line",
   description:

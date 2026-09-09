@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleLowQualitySell = {
   id: "01a0728b-4fbd-73c3-94ce-4ab4d817fb29",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-low-quality-sell",
   title: "Vendor-sell sub-5000g non-legendary items",
   description:

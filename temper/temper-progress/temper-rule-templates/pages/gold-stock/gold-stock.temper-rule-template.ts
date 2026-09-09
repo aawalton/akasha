@@ -3,6 +3,7 @@ import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts
 export const goldStock = {
   id: "019e3104-2604-7bfa-b202-1d8e5fce47aa",
   pageTypeSlug: "temper-rule-template",
+  type: "temper-rule-template",
   slug: "gold-stock",
   title: "Stock gold",
   key: "gold-stock",

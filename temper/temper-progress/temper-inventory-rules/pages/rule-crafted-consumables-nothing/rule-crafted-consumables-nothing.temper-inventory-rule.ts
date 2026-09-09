@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleCraftedConsumablesNothing = {
   id: "01a0728b-10d1-7ba5-a83a-c81be228c4b8",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-crafted-consumables-nothing",
   title: "Protect crafted consumables",
   description:

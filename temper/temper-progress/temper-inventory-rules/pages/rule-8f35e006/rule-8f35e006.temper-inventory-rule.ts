@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const rule8f35e006 = {
   id: "01a0728a-f56e-7d26-a297-78f312730d8e",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-8f35e006",
   title: "Crown tri-pots stay banked",
   description:

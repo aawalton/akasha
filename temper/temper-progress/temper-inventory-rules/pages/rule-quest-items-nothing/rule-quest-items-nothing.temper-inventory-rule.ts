@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleQuestItemsNothing = {
   id: "01a0728b-6d6e-7c82-a363-ba9229c0e24f",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-quest-items-nothing",
   title: "Protect quest items",
   description:

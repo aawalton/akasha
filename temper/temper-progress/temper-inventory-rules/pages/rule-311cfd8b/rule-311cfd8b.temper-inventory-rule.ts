@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const rule311cfd8b = {
   id: "01a0728a-d6fe-766d-b105-5e1fd0a0333d",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-311cfd8b",
   title: "Skill scrolls to Trophies",
   description:

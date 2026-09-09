@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleFc1c9638 = {
   id: "01a0728b-2e7d-7b22-add5-e5717834cb9f",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-fc1c9638",
   title: "List known valuable recipes on guild store",
   description:

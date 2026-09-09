@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const rule3acee2c7 = {
   id: "01a0728a-d6fe-779d-9a67-78895194f7f3",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-3acee2c7",
   title: "Sell known recipes",
   description:

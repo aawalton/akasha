@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleInspireStolen = {
   id: "01a0728b-4fbd-795a-8639-2dab20ad7664",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-inspire-stolen",
   title: "Launder stolen inspiration",
   description:

@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleF48e4c64 = {
   id: "01a0728b-2e7d-7785-8700-5b97ccef538d",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-f48e4c64",
   title: "Store quality poisons",
   description:

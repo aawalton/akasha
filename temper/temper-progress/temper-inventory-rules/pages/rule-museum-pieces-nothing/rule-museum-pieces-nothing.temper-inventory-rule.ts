@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleMuseumPiecesNothing = {
   id: "01a0728b-4fbd-7048-8c55-e0eb6494b565",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-museum-pieces-nothing",
   title: "Protect museum pieces",
   description:

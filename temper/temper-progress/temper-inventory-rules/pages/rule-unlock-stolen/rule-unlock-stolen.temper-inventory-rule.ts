@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleUnlockStolen = {
   id: "01a0728b-8ec2-7808-9e1b-362739c2b586",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-unlock-stolen",
   title: "Launder stolen unlockables",
   description:

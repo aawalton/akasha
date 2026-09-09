@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleGlyphsDeconstruct = {
   id: "01a0728b-4fbc-77ff-8a3c-78b19009ed0e",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-glyphs-deconstruct",
   title: "Deconstruct glyphs",
   description:

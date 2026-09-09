@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleAllianceWarBank = {
   id: "01a0728b-10d0-7dba-bd15-daddc405eed9",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-alliance-war-bank",
   title: "Bank Alliance War items",
   description:

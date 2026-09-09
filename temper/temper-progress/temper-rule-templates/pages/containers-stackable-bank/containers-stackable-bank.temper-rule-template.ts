@@ -3,6 +3,7 @@ import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts
 export const containersStackableBank = {
   id: "019e3104-2607-7321-96e1-fb18f062084e",
   pageTypeSlug: "temper-rule-template",
+  type: "temper-rule-template",
   slug: "containers-stackable-bank",
   title: "Bank stackable containers",
   key: "containers-stackable-bank",

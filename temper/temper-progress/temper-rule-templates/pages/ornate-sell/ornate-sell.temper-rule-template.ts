@@ -3,6 +3,7 @@ import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts
 export const ornateSell = {
   id: "019e3104-2613-7620-a301-5c9e506a7b7a",
   pageTypeSlug: "temper-rule-template",
+  type: "temper-rule-template",
   slug: "ornate-sell",
   title: "Sell ornate gear",
   key: "ornate-sell",

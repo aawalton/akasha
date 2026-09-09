@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleTrashSell = {
   id: "01a0728b-6d6f-7ad9-99e1-27e4b6415eed",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-trash-sell",
   title: "Sell trash",
   description: "Sells items categorized as trash. These have no crafting or collectible value.",

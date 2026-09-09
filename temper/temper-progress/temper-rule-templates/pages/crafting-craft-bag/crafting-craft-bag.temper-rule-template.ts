@@ -3,6 +3,7 @@ import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts
 export const craftingCraftBag = {
   id: "019e3104-261e-7926-9502-ce21cea7fc4b",
   pageTypeSlug: "temper-rule-template",
+  type: "temper-rule-template",
   slug: "crafting-craft-bag",
   title: "Stow crafting materials",
   key: "crafting-craft-bag",

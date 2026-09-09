@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleSoulGemsEmptyBank = {
   id: "01a0728b-6d6f-7226-88d1-5d7267781a0e",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-soul-gems-empty-bank",
   title: "Bank empty soul gems",
   description:

@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleCompanionEpicNothing = {
   id: "01a0728b-10d1-750f-b02c-48d90d221ac4",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-companion-epic-nothing",
   title: "Protect epic+ companion gear",
   description:

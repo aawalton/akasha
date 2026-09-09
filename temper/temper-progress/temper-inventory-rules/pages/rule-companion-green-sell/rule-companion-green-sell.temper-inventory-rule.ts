@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleCompanionGreenSell = {
   id: "01a0728b-10d1-72a5-b4a8-e21e1d27654a",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-companion-green-sell",
   title: "Sell low-quality companion gear",
   description:

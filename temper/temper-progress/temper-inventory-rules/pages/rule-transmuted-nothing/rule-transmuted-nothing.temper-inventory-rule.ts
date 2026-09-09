@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleTransmutedNothing = {
   id: "01a0728b-6d6f-78a2-8c9b-4d79e20601a6",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-transmuted-nothing",
   title: "Protect transmuted gear",
   description:

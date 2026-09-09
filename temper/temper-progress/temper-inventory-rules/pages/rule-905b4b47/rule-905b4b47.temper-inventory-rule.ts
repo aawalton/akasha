@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const rule905b4b47 = {
   id: "01a0728a-f56e-7a62-b457-c78c5ce41801",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-905b4b47",
   title: "Stock stamina-restoration potions (white)",
   conditions: "jsonl",

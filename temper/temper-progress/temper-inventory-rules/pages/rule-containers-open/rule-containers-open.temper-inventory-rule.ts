@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleContainersOpen = {
   id: "01a0728b-10d1-7698-84e8-76571fa43054",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-containers-open",
   title: "Open containers",
   description:

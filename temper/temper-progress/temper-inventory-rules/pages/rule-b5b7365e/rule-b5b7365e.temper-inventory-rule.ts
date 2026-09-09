@@ -3,6 +3,7 @@ import type { TemperInventoryRule } from "../../temper-inventory-rule.page-type.
 export const ruleB5b7365e = {
   id: "01a0728b-10d0-7097-8b5d-be99c850cbd4",
   pageTypeSlug: "temper-inventory-rule",
+  type: "temper-inventory-rule",
   slug: "rule-b5b7365e",
   title: "Store quality food",
   description:

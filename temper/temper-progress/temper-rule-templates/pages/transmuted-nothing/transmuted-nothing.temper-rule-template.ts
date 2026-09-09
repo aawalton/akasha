@@ -3,6 +3,7 @@ import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts
 export const transmutedNothing = {
   id: "019e3104-260e-71a0-aa4a-5d2e9e076fca",
   pageTypeSlug: "temper-rule-template",
+  type: "temper-rule-template",
   slug: "transmuted-nothing",
   title: "Protect transmuted gear",
   key: "transmuted-nothing",

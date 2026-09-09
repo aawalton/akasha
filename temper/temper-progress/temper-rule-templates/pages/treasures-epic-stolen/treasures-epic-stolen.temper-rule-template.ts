@@ -3,6 +3,7 @@ import type { TemperRuleTemplate } from "../../temper-rule-template.page-type.ts
 export const treasuresEpicStolen = {
   id: "019e3104-261f-7668-98d5-65fc2dc8d58a",
   pageTypeSlug: "temper-rule-template",
+  type: "temper-rule-template",
   slug: "treasures-epic-stolen",
   title: "Launder epic+ treasures",
   key: "treasures-epic-stolen",
