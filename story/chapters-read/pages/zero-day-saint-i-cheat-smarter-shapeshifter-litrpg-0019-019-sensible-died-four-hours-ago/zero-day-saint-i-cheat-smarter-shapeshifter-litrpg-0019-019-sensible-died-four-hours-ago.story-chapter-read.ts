@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0019019SensibleDiedFourH
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0019-019-sensible-died-four-hours-ago",
   title: "019 - Sensible Died Four Hours Ago",
-  partOfCollectionSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
+  storySlug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 19,
   ownLength: 1680,
   unitSlug: "words",

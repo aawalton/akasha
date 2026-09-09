@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0012012MammonInc = {
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0012-012-mammon-inc",
   title: "012 - Mammon Inc.",
-  partOfCollectionSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
+  storySlug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 12,
   ownLength: 1518,
   unitSlug: "words",

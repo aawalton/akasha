@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0031031Unworthy = {
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0031-031-unworthy",
   title: "031 - Unworthy",
-  partOfCollectionSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
+  storySlug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 31,
   ownLength: 2436,
   unitSlug: "words",

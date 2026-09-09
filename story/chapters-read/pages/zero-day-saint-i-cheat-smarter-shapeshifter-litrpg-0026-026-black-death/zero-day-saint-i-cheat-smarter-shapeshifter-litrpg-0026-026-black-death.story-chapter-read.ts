@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0026026BlackDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0026-026-black-death",
   title: "026 - Black Death",
-  partOfCollectionSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
+  storySlug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 26,
   ownLength: 2506,
   unitSlug: "words",

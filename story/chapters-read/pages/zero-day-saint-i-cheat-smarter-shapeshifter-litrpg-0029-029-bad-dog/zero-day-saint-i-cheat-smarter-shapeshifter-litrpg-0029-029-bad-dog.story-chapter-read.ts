@@ -5,7 +5,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0029029BadDog = {
   pageTypeSlug: "story-chapter-read",
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0029-029-bad-dog",
   title: "029 - Bad Dog",
-  partOfCollectionSlugs: ["zero-day-saint-i-cheat-smarter-shapeshifter-litrpg"],
+  storySlug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 29,
   ownLength: 2619,
   unitSlug: "words",
