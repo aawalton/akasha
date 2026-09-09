@@ -22,6 +22,10 @@ const EXTENDS = "extendsSlug"
 
 const UNIQUE_PROPERTY = "uniqueProperty"
 
+const TARGET_PAGE_TYPE = "targetPageType"
+
+const WAS_TARGET_PAGE_TYPE = "targetPageTypeSlug"
+
 export type Carried = {
   readonly pagePropertySlug: string
   readonly pageTypeSlug: string
@@ -310,7 +314,7 @@ export function sourceOver(values: readonly Value[]): Source {
     if (propertySlug === null) continue
     schemas.set(`${pageTypeSlug}/${slug}`, {
       pageTypeSlug,
-      targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
+      targetPageTypeSlug: slugAt(value, TARGET_PAGE_TYPE) ?? slugAt(value, WAS_TARGET_PAGE_TYPE),
       unique: slugAt(value, "unique"),
       uniquePropertySlug: slugAt(value, UNIQUE_PROPERTY),
       slug,

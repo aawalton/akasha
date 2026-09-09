@@ -14,6 +14,10 @@ const SLUG = "slug"
 
 const UNIQUE_PROPERTY = "uniqueProperty"
 
+const TARGET_PAGE_TYPE = "targetPageType"
+
+const WAS_TARGET_PAGE_TYPE = "targetPageTypeSlug"
+
 export function schemaIn(value: Value): readonly Entry[] {
   const pageTypeSlug = textAt(value, "pageTypeSlug")
   if (pageTypeSlug === null) return []
@@ -23,7 +27,7 @@ export function schemaIn(value: Value): readonly Entry[] {
   if (propertySlug === null) return []
   const held: Schema = {
     pageTypeSlug,
-    targetPageTypeSlug: slugAt(value, "targetPageTypeSlug"),
+    targetPageTypeSlug: slugAt(value, TARGET_PAGE_TYPE) ?? slugAt(value, WAS_TARGET_PAGE_TYPE),
     unique: slugAt(value, "unique"),
     uniquePropertySlug: slugAt(value, UNIQUE_PROPERTY),
     slug,
