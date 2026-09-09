@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0043Chapter43ThePowerOfACrazyIdea = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0043-chapter-43-the-power-of-a-crazy-idea",
   title: "Chapter 43: The Power of a Crazy Idea",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 43,
   ownLength: 4147,
   ownProgress: 4147,

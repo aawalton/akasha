@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0028Chapter28AWalkThroughTheForest = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0028-chapter-28-a-walk-through-the-forest",
   title: "Chapter 28: A Walk Through the Forest",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 28,
   ownLength: 4977,
   ownProgress: 4977,

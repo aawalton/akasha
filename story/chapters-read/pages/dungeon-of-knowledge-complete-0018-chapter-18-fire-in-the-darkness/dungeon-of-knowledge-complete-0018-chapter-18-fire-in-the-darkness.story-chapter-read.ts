@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0018Chapter18FireInTheDarkness = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0018-chapter-18-fire-in-the-darkness",
   title: "Chapter 18: Fire in the Darkness",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 18,
   ownLength: 5015,
   ownProgress: 5015,

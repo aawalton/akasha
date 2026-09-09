@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0062Chapter62SkeletalWyvern = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0062-chapter-62-skeletal-wyvern",
   title: "Chapter 62: Skeletal Wyvern",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 62,
   ownLength: 3980,
   ownProgress: 3980,

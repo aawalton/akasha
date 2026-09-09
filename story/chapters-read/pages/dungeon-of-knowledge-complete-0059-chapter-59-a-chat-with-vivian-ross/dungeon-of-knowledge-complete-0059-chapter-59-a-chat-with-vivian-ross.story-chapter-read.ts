@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0059Chapter59AChatWithVivianRoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0059-chapter-59-a-chat-with-vivian-ross",
   title: "Chapter 59: A Chat with Vivian Ross",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 59,
   ownLength: 4746,
   ownProgress: 4746,

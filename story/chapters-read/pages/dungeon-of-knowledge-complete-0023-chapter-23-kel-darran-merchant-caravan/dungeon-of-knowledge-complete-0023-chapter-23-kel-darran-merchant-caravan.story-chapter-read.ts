@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0023Chapter23KelDarranMerchantCaravan = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0023-chapter-23-kel-darran-merchant-caravan",
   title: "Chapter 23: Kel’darran Merchant Caravan",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 23,
   ownLength: 6334,
   ownProgress: 6334,

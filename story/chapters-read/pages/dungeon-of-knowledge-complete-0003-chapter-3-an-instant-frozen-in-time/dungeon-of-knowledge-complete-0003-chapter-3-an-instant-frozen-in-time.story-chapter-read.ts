@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0003Chapter3AnInstantFrozenInTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0003-chapter-3-an-instant-frozen-in-time",
   title: "Chapter 3: An Instant, Frozen in Time",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 3,
   ownLength: 3348,
   ownProgress: 3348,

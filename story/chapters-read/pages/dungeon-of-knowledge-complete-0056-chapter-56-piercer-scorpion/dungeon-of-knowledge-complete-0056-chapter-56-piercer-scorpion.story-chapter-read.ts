@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0056Chapter56PiercerScorpion = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0056-chapter-56-piercer-scorpion",
   title: "Chapter 56: Piercer Scorpion",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 56,
   ownLength: 3953,
   ownProgress: 3953,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0041Chapter41AnUnexpectedRescue = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0041-chapter-41-an-unexpected-rescue",
   title: "Chapter 41: An Unexpected Rescue",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 41,
   ownLength: 5469,
   ownProgress: 5469,

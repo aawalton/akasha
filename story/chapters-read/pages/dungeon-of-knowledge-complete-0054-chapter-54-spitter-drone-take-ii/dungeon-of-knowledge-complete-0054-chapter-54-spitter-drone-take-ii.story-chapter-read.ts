@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0054Chapter54SpitterDroneTakeIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0054-chapter-54-spitter-drone-take-ii",
   title: "Chapter 54: Spitter Drone, Take II",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 54,
   ownLength: 4835,
   ownProgress: 4835,

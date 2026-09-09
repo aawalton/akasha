@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0009Chapter9GroveWarden = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0009-chapter-9-grove-warden",
   title: "Chapter 9: Grove Warden",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 9,
   ownLength: 4168,
   ownProgress: 4168,

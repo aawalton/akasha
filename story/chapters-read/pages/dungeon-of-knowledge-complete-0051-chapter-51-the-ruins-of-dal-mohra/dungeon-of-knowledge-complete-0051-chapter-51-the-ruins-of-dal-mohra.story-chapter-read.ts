@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0051Chapter51TheRuinsOfDalMohra = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0051-chapter-51-the-ruins-of-dal-mohra",
   title: "Chapter 51: The Ruins of Dal’mohra",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 51,
   ownLength: 6090,
   ownProgress: 6090,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0013Chapter13Grimoire = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0013-chapter-13-grimoire",
   title: "Chapter 13: Grimoire",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 13,
   ownLength: 5390,
   ownProgress: 5390,

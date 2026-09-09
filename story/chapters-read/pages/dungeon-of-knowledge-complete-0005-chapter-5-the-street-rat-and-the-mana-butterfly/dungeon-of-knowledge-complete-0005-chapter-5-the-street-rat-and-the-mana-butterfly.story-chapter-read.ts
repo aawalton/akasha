@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0005Chapter5TheStreetRatAndTheManaButterf
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0005-chapter-5-the-street-rat-and-the-mana-butterfly",
   title: "Chapter 5: The Street Rat and the Mana Butterfly",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 5,
   ownLength: 6043,
   ownProgress: 6043,

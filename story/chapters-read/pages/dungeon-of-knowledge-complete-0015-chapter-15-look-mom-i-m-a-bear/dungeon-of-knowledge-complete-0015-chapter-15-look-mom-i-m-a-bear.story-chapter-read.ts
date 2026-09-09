@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0015Chapter15LookMomIMABear = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0015-chapter-15-look-mom-i-m-a-bear",
   title: "Chapter 15: Look Mom, I’m a Bear",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 15,
   ownLength: 5979,
   ownProgress: 5979,

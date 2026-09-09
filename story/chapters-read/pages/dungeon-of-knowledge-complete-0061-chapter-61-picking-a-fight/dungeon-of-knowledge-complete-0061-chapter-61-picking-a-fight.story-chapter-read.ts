@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0061Chapter61PickingAFight = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0061-chapter-61-picking-a-fight",
   title: "Chapter 61: Picking a Fight",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 61,
   ownLength: 5405,
   ownProgress: 5405,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0034Chapter34LunchAtLaurelSCafe = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0034-chapter-34-lunch-at-laurel-s-cafe",
   title: "Chapter 34: Lunch at Laurel’s Café",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 34,
   ownLength: 3315,
   ownProgress: 3315,

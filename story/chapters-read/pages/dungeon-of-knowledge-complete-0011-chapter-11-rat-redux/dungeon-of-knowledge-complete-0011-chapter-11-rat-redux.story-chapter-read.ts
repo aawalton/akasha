@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0011Chapter11RatRedux = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0011-chapter-11-rat-redux",
   title: "Chapter 11: Rat Redux",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 11,
   ownLength: 6252,
   ownProgress: 6252,

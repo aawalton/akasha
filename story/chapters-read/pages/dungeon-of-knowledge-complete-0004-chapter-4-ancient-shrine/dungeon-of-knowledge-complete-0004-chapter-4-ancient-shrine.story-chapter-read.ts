@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0004Chapter4AncientShrine = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0004-chapter-4-ancient-shrine",
   title: "Chapter 4: Ancient Shrine",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 4,
   ownLength: 4061,
   ownProgress: 4061,

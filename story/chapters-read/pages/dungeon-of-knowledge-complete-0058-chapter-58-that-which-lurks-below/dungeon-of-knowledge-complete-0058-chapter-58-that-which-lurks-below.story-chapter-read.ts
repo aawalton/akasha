@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0058Chapter58ThatWhichLurksBelow = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0058-chapter-58-that-which-lurks-below",
   title: "Chapter 58: That Which Lurks Below",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 58,
   ownLength: 4733,
   ownProgress: 4733,

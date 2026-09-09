@@ -5,7 +5,7 @@ export const dungeonDiverStealingAMonstersPower0961Chapter961 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-diver-stealing-a-monsters-power-0961-chapter-961",
   title: "Chapter 961",
-  storySlug: "dungeon-diver-stealing-a-monsters-power",
+  story: "dungeon-diver-stealing-a-monsters-power",
   position: 961,
   ownLength: 1509,
   ownProgress: 1509,

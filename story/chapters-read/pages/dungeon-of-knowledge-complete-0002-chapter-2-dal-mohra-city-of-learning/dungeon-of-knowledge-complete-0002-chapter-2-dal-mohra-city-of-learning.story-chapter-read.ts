@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0002Chapter2DalMohraCityOfLearning = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0002-chapter-2-dal-mohra-city-of-learning",
   title: "Chapter 2: Dal’mohra, City of Learning",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 2,
   ownLength: 4367,
   ownProgress: 4367,

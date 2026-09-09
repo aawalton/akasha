@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0050Chapter50SneakySmash = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0050-chapter-50-sneaky-smash",
   title: "Chapter 50: Sneaky Smash",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 50,
   ownLength: 4409,
   ownProgress: 4409,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0032Chapter32TheNovasparkAcademyOfMagic =
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0032-chapter-32-the-novaspark-academy-of-magic",
   title: "Chapter 32: The Novaspark Academy of Magic",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 32,
   ownLength: 3383,
   ownProgress: 3383,

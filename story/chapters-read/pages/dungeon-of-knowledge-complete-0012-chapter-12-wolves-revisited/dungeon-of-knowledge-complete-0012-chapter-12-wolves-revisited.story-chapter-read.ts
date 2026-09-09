@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0012Chapter12WolvesRevisited = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0012-chapter-12-wolves-revisited",
   title: "Chapter 12: Wolves Revisited",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 12,
   ownLength: 4420,
   ownProgress: 4420,

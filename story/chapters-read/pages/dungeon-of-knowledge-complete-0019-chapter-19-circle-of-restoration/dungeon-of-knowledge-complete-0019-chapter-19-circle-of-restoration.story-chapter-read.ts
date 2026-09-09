@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0019Chapter19CircleOfRestoration = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0019-chapter-19-circle-of-restoration",
   title: "Chapter 19: Circle of Restoration",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 19,
   ownLength: 3450,
   ownProgress: 3450,

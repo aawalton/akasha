@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0038Chapter38MushroomsAndMana = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0038-chapter-38-mushrooms-and-mana",
   title: "Chapter 38: Mushrooms and Mana",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 38,
   ownLength: 3353,
   ownProgress: 3353,

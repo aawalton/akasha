@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0016Chapter16FirstHunt = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0016-chapter-16-first-hunt",
   title: "Chapter 16: First Hunt",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 16,
   ownLength: 6283,
   ownProgress: 6283,
