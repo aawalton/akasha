@@ -5,7 +5,7 @@ export const mitskiCrackBaby = {
   pageTypeSlug: "song",
   slug: "mitski-crack-baby",
   title: "Crack Baby",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "0acff653-5352-4264-b53f-35755d47c160",
   externalLink: "https://musicbrainz.org/work/0acff653-5352-4264-b53f-35755d47c160",
   source: "musicbrainz",

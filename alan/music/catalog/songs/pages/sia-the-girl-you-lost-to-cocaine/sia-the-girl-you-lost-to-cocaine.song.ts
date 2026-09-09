@@ -5,7 +5,7 @@ export const siaTheGirlYouLostToCocaine = {
   pageTypeSlug: "song",
   slug: "sia-the-girl-you-lost-to-cocaine",
   title: "The Girl You Lost to Cocaine",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "1a90bcfc-0513-4b2b-b6c3-979f2988bdf6",
   externalLink: "https://musicbrainz.org/work/1a90bcfc-0513-4b2b-b6c3-979f2988bdf6",
   source: "musicbrainz",

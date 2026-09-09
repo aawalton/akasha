@@ -5,7 +5,7 @@ export const mitskiFirstLoveLateSpring = {
   pageTypeSlug: "song",
   slug: "mitski-first-love-late-spring",
   title: "First Love / Late Spring",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "8871bc41-a1ef-4682-bab4-b4637931b665",
   externalLink: "https://musicbrainz.org/work/8871bc41-a1ef-4682-bab4-b4637931b665",
   source: "musicbrainz",

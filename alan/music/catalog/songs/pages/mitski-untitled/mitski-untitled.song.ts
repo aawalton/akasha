@@ -5,7 +5,7 @@ export const mitskiUntitled = {
   pageTypeSlug: "song",
   slug: "mitski-untitled",
   title: "グライド",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "202029e0-8dd3-3ddd-8366-dd29dbb2ebef",
   externalLink: "https://musicbrainz.org/work/202029e0-8dd3-3ddd-8366-dd29dbb2ebef",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftBetteDavisEyes = {
   pageTypeSlug: "song",
   slug: "taylor-swift-bette-davis-eyes",
   title: "Bette Davis Eyes",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "b3b83946-e8f6-38e4-acdf-2da1e4b528b5",
   externalLink: "https://musicbrainz.org/work/b3b83946-e8f6-38e4-acdf-2da1e4b528b5",
   source: "musicbrainz",

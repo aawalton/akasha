@@ -5,7 +5,7 @@ export const taylorSwiftLastKiss = {
   pageTypeSlug: "song",
   slug: "taylor-swift-last-kiss",
   title: "Last Kiss",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "c6bb2fc1-b7b2-3431-93cb-45fff525c007",
   externalLink: "https://musicbrainz.org/work/c6bb2fc1-b7b2-3431-93cb-45fff525c007",
   source: "musicbrainz",

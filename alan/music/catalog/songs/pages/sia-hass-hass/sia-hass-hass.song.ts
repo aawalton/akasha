@@ -5,7 +5,7 @@ export const siaHassHass = {
   pageTypeSlug: "song",
   slug: "sia-hass-hass",
   title: "Hass Hass",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "36b040c7-290a-4c93-aa82-5829399eff7c",
   externalLink: "https://musicbrainz.org/work/36b040c7-290a-4c93-aa82-5829399eff7c",
   source: "musicbrainz",

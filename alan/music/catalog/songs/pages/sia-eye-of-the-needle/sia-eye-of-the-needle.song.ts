@@ -5,7 +5,7 @@ export const siaEyeOfTheNeedle = {
   pageTypeSlug: "song",
   slug: "sia-eye-of-the-needle",
   title: "Eye of the Needle",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "ce3a5aa4-11a2-4fa6-b084-268af0d52e97",
   externalLink: "https://musicbrainz.org/work/ce3a5aa4-11a2-4fa6-b084-268af0d52e97",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaDeathByChocolate = {
   pageTypeSlug: "song",
   slug: "sia-death-by-chocolate",
   title: "Death by Chocolate",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "f616bca6-7d4e-4ca2-83d8-ac226745f03d",
   externalLink: "https://musicbrainz.org/work/f616bca6-7d4e-4ca2-83d8-ac226745f03d",
   source: "musicbrainz",

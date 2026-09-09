@@ -5,7 +5,7 @@ export const siaAngelInYourEyes = {
   pageTypeSlug: "song",
   slug: "sia-angel-in-your-eyes",
   title: "Angel in Your Eyes",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "719ffe01-22cf-403a-99e1-bcd90aad0b40",
   externalLink: "https://musicbrainz.org/work/719ffe01-22cf-403a-99e1-bcd90aad0b40",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaStandingOnTheSunRemix = {
   pageTypeSlug: "song",
   slug: "sia-standing-on-the-sun-remix",
   title: "Standing on the Sun Remix",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "f07d0ed6-fc49-4b9f-be64-86335433427b",
   externalLink: "https://musicbrainz.org/work/f07d0ed6-fc49-4b9f-be64-86335433427b",
   source: "musicbrainz",

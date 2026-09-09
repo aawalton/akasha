@@ -5,7 +5,7 @@ export const taylorSwiftAugust = {
   pageTypeSlug: "song",
   slug: "taylor-swift-august",
   title: "august",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "6ce75487-483b-48a7-a988-9b16f0912e51",
   externalLink: "https://musicbrainz.org/work/6ce75487-483b-48a7-a988-9b16f0912e51",
   source: "musicbrainz",

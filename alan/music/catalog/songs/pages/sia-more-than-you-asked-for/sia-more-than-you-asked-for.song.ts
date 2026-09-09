@@ -5,7 +5,7 @@ export const siaMoreThanYouAskedFor = {
   pageTypeSlug: "song",
   slug: "sia-more-than-you-asked-for",
   title: "More Than You Asked For",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "00ccda45-aa3c-47ff-8f68-971b969b7da1",
   externalLink: "https://musicbrainz.org/work/00ccda45-aa3c-47ff-8f68-971b969b7da1",
   source: "musicbrainz",

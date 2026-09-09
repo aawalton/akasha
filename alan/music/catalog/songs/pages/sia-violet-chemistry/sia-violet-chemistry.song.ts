@@ -5,7 +5,7 @@ export const siaVioletChemistry = {
   pageTypeSlug: "song",
   slug: "sia-violet-chemistry",
   title: "Violet Chemistry",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "80e8b3bc-6aca-448e-a108-ba086d5518e2",
   externalLink: "https://musicbrainz.org/work/80e8b3bc-6aca-448e-a108-ba086d5518e2",
   source: "musicbrainz",

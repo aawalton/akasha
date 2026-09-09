@@ -5,7 +5,7 @@ export const siaLieToMe = {
   pageTypeSlug: "song",
   slug: "sia-lie-to-me",
   title: "Lie to Me",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "7010ab99-bcb0-48a6-b5c1-54c875a45ae3",
   externalLink: "https://musicbrainz.org/work/7010ab99-bcb0-48a6-b5c1-54c875a45ae3",
   source: "musicbrainz",

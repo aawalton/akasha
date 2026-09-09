@@ -5,7 +5,7 @@ export const siaSchneemann = {
   pageTypeSlug: "song",
   slug: "sia-schneemann",
   title: "Schneemann",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "01f58a94-41b9-4b51-bd55-50214fbbb566",
   externalLink: "https://musicbrainz.org/work/01f58a94-41b9-4b51-bd55-50214fbbb566",
   source: "musicbrainz",

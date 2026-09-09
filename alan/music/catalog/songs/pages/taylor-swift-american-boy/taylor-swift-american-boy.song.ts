@@ -5,7 +5,7 @@ export const taylorSwiftAmericanBoy = {
   pageTypeSlug: "song",
   slug: "taylor-swift-american-boy",
   title: "American Boy",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "accac83f-0e23-44fa-b43c-31b6f4b8ce40",
   externalLink: "https://musicbrainz.org/work/accac83f-0e23-44fa-b43c-31b6f4b8ce40",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaWaterfall = {
   pageTypeSlug: "song",
   slug: "sia-waterfall",
   title: "Waterfall",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "b83dcb70-fbd8-4bb9-aefe-a6b25ebf0897",
   externalLink: "https://musicbrainz.org/work/b83dcb70-fbd8-4bb9-aefe-a6b25ebf0897",
   source: "musicbrainz",

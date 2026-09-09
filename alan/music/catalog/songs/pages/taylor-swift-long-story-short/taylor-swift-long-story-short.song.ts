@@ -5,7 +5,7 @@ export const taylorSwiftLongStoryShort = {
   pageTypeSlug: "song",
   slug: "taylor-swift-long-story-short",
   title: "long story short",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "27f7d619-abfd-4455-925c-82ff8d00c3f2",
   externalLink: "https://musicbrainz.org/work/27f7d619-abfd-4455-925c-82ff8d00c3f2",
   source: "musicbrainz",

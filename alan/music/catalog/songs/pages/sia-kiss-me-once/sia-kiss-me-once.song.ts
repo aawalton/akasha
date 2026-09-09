@@ -5,7 +5,7 @@ export const siaKissMeOnce = {
   pageTypeSlug: "song",
   slug: "sia-kiss-me-once",
   title: "Kiss Me Once",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "fba09554-f656-4706-a0b4-441622a819c1",
   externalLink: "https://musicbrainz.org/work/fba09554-f656-4706-a0b4-441622a819c1",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaSunday = {
   pageTypeSlug: "song",
   slug: "sia-sunday",
   title: "Sunday",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "db97b949-0b2a-4811-881c-f70ef71363c6",
   externalLink: "https://musicbrainz.org/work/db97b949-0b2a-4811-881c-f70ef71363c6",
   source: "musicbrainz",

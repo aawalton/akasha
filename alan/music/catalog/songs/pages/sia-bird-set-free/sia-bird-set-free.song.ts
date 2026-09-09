@@ -5,7 +5,7 @@ export const siaBirdSetFree = {
   pageTypeSlug: "song",
   slug: "sia-bird-set-free",
   title: "Bird Set Free",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "481211aa-62a4-47c9-bb50-aaf0f607c8d0",
   externalLink: "https://musicbrainz.org/work/481211aa-62a4-47c9-bb50-aaf0f607c8d0",
   source: "musicbrainz",

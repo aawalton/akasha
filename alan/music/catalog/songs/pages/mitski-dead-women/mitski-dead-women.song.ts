@@ -5,7 +5,7 @@ export const mitskiDeadWomen = {
   pageTypeSlug: "song",
   slug: "mitski-dead-women",
   title: "Dead Women",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "af80f7b8-0368-4fa9-a6f7-3091b486ec1d",
   externalLink: "https://musicbrainz.org/work/af80f7b8-0368-4fa9-a6f7-3091b486ec1d",
   source: "musicbrainz",

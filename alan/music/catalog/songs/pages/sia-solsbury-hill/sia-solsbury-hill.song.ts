@@ -5,7 +5,7 @@ export const siaSolsburyHill = {
   pageTypeSlug: "song",
   slug: "sia-solsbury-hill",
   title: "Solsbury Hill",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "17921999-272a-389b-a2f3-0e9f98924767",
   externalLink: "https://musicbrainz.org/work/17921999-272a-389b-a2f3-0e9f98924767",
   source: "musicbrainz",

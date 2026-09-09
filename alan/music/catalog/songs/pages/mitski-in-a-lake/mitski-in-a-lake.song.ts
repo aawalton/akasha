@@ -5,7 +5,7 @@ export const mitskiInALake = {
   pageTypeSlug: "song",
   slug: "mitski-in-a-lake",
   title: "In a Lake",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "fe2c057d-a5f0-4abc-8fd0-e8796e38e41c",
   externalLink: "https://musicbrainz.org/work/fe2c057d-a5f0-4abc-8fd0-e8796e38e41c",
   source: "musicbrainz",

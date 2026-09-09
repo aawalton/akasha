@@ -5,7 +5,7 @@ export const lilithMaxMaidenSNight = {
   pageTypeSlug: "song",
   slug: "lilith-max-maiden-s-night",
   title: "Maiden's Night",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "bfed276a-b12f-49fa-8e37-e745ed0d9dcb",
   externalLink: "https://musicbrainz.org/recording/bfed276a-b12f-49fa-8e37-e745ed0d9dcb",
   source: "musicbrainz",

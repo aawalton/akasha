@@ -5,7 +5,7 @@ export const siaBeautifulReality = {
   pageTypeSlug: "song",
   slug: "sia-beautiful-reality",
   title: "Beautiful Reality",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "bd97d3bc-a360-49cb-a665-14ea20e5cfbe",
   externalLink: "https://musicbrainz.org/work/bd97d3bc-a360-49cb-a665-14ea20e5cfbe",
   source: "musicbrainz",

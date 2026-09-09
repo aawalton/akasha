@@ -5,7 +5,7 @@ export const siaHelium = {
   pageTypeSlug: "song",
   slug: "sia-helium",
   title: "Helium",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "409a4e77-d377-4b6c-acf8-0c29fcd6e8dc",
   externalLink: "https://musicbrainz.org/work/409a4e77-d377-4b6c-acf8-0c29fcd6e8dc",
   source: "musicbrainz",

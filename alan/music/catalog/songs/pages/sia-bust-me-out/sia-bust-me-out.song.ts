@@ -5,7 +5,7 @@ export const siaBustMeOut = {
   pageTypeSlug: "song",
   slug: "sia-bust-me-out",
   title: "Bust Me Out",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "afe64e0a-03fe-4df0-b83b-eda053050d9d",
   externalLink: "https://musicbrainz.org/work/afe64e0a-03fe-4df0-b83b-eda053050d9d",
   source: "musicbrainz",

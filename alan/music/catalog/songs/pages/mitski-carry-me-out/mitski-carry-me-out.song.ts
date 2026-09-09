@@ -5,7 +5,7 @@ export const mitskiCarryMeOut = {
   pageTypeSlug: "song",
   slug: "mitski-carry-me-out",
   title: "Carry Me Out",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "76699502-13ed-42ea-b604-018ce4092431",
   externalLink: "https://musicbrainz.org/work/76699502-13ed-42ea-b604-018ce4092431",
   source: "musicbrainz",

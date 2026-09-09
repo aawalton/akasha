@@ -5,7 +5,7 @@ export const taylorSwiftCassandra = {
   pageTypeSlug: "song",
   slug: "taylor-swift-cassandra",
   title: "Cassandra",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "2b82c0fb-4cd0-441f-8619-0684f12031fd",
   externalLink: "https://musicbrainz.org/work/2b82c0fb-4cd0-441f-8619-0684f12031fd",
   source: "musicbrainz",

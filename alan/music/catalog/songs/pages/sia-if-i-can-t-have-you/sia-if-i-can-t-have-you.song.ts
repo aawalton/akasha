@@ -5,7 +5,7 @@ export const siaIfICanTHaveYou = {
   pageTypeSlug: "song",
   slug: "sia-if-i-can-t-have-you",
   title: "If I Can’t Have You",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "73724f79-a686-4bea-ac69-5e6028b18d97",
   externalLink: "https://musicbrainz.org/work/73724f79-a686-4bea-ac69-5e6028b18d97",
   source: "musicbrainz",

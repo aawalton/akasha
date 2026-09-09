@@ -5,7 +5,7 @@ export const siaFootprints = {
   pageTypeSlug: "song",
   slug: "sia-footprints",
   title: "Footprints",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "23cf5d48-e097-4c48-91b7-ba7e927df11c",
   externalLink: "https://musicbrainz.org/work/23cf5d48-e097-4c48-91b7-ba7e927df11c",
   source: "musicbrainz",

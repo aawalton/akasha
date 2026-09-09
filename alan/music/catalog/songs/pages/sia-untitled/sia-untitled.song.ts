@@ -5,7 +5,7 @@ export const siaUntitled = {
   pageTypeSlug: "song",
   slug: "sia-untitled",
   title: "不要不要的",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "4c347449-57d8-4c8d-bae2-8052f6cdcd27",
   externalLink: "https://musicbrainz.org/work/4c347449-57d8-4c8d-bae2-8052f6cdcd27",
   source: "musicbrainz",

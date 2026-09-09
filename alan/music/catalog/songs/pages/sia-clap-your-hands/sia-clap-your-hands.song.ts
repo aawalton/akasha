@@ -5,7 +5,7 @@ export const siaClapYourHands = {
   pageTypeSlug: "song",
   slug: "sia-clap-your-hands",
   title: "Clap Your Hands",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "5b1d992b-0ddd-41cf-adb0-355046a12086",
   externalLink: "https://musicbrainz.org/work/5b1d992b-0ddd-41cf-adb0-355046a12086",
   source: "musicbrainz",

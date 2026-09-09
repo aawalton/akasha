@@ -5,7 +5,7 @@ export const siaWannaBeKnown = {
   pageTypeSlug: "song",
   slug: "sia-wanna-be-known",
   title: "Wanna Be Known",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "272780a0-72e0-4ba5-a5cd-6df68477e1af",
   externalLink: "https://musicbrainz.org/work/272780a0-72e0-4ba5-a5cd-6df68477e1af",
   source: "musicbrainz",

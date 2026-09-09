@@ -5,7 +5,7 @@ export const mitskiEveryone = {
   pageTypeSlug: "song",
   slug: "mitski-everyone",
   title: "Everyone",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "440f7d3e-8304-4a8c-acf9-4d97fbb52328",
   externalLink: "https://musicbrainz.org/work/440f7d3e-8304-4a8c-acf9-4d97fbb52328",
   source: "musicbrainz",

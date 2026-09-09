@@ -5,7 +5,7 @@ export const siaRockAndBalloon = {
   pageTypeSlug: "song",
   slug: "sia-rock-and-balloon",
   title: "Rock and Balloon",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "37e2162c-dd44-4c6f-b944-e9d94098081e",
   externalLink: "https://musicbrainz.org/work/37e2162c-dd44-4c6f-b944-e9d94098081e",
   source: "musicbrainz",

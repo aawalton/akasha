@@ -5,7 +5,7 @@ export const mitskiBend = {
   pageTypeSlug: "song",
   slug: "mitski-bend",
   title: "Bend",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "b1cc5a54-f449-419b-8bb9-6097b3f7a777",
   externalLink: "https://musicbrainz.org/work/b1cc5a54-f449-419b-8bb9-6097b3f7a777",
   source: "musicbrainz",

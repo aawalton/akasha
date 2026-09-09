@@ -5,7 +5,7 @@ export const mitskiOldFriend = {
   pageTypeSlug: "song",
   slug: "mitski-old-friend",
   title: "Old Friend",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "4795e634-8335-4978-948f-ea4dd8f0e520",
   externalLink: "https://musicbrainz.org/work/4795e634-8335-4978-948f-ea4dd8f0e520",
   source: "musicbrainz",

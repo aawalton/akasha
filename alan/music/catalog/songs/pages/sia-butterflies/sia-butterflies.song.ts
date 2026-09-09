@@ -5,7 +5,7 @@ export const siaButterflies = {
   pageTypeSlug: "song",
   slug: "sia-butterflies",
   title: "Butterflies",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "04c0d176-6fe4-4c5c-ae7f-34c41c9499c0",
   externalLink: "https://musicbrainz.org/work/04c0d176-6fe4-4c5c-ae7f-34c41c9499c0",
   source: "musicbrainz",

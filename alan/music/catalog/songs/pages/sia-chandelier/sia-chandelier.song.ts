@@ -5,7 +5,7 @@ export const siaChandelier = {
   pageTypeSlug: "song",
   slug: "sia-chandelier",
   title: "Chandelier",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "9ad070d4-83e9-4404-9444-64ad5de092fa",
   externalLink: "https://musicbrainz.org/work/9ad070d4-83e9-4404-9444-64ad5de092fa",
   source: "musicbrainz",

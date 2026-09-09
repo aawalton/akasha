@@ -5,7 +5,7 @@ export const siaSweetDesign = {
   pageTypeSlug: "song",
   slug: "sia-sweet-design",
   title: "Sweet Design",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "01e91964-98e8-4550-825e-97c9b7598832",
   externalLink: "https://musicbrainz.org/work/01e91964-98e8-4550-825e-97c9b7598832",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaLentil = {
   pageTypeSlug: "song",
   slug: "sia-lentil",
   title: "Lentil",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "743cd5b5-57b4-418e-b886-163ba9dd36b7",
   externalLink: "https://musicbrainz.org/work/743cd5b5-57b4-418e-b886-163ba9dd36b7",
   source: "musicbrainz",

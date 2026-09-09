@@ -5,7 +5,7 @@ export const siaThunderclouds = {
   pageTypeSlug: "song",
   slug: "sia-thunderclouds",
   title: "Thunderclouds",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "b3111c24-2758-4f41-ba39-65a8e32c25a1",
   externalLink: "https://musicbrainz.org/work/b3111c24-2758-4f41-ba39-65a8e32c25a1",
   source: "musicbrainz",

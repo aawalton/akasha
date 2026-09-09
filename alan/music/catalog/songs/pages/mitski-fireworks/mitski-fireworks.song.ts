@@ -5,7 +5,7 @@ export const mitskiFireworks = {
   pageTypeSlug: "song",
   slug: "mitski-fireworks",
   title: "Fireworks",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "ae0adb27-8f05-4bbc-b10c-0aa993c7e70d",
   externalLink: "https://musicbrainz.org/work/ae0adb27-8f05-4bbc-b10c-0aa993c7e70d",
   source: "musicbrainz",

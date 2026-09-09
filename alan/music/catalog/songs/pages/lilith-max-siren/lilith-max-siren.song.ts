@@ -5,7 +5,7 @@ export const lilithMaxSiren = {
   pageTypeSlug: "song",
   slug: "lilith-max-siren",
   title: "Siren",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "fc19063e-070a-4c36-83d8-a4c83e76e827",
   externalLink: "https://musicbrainz.org/recording/fc19063e-070a-4c36-83d8-a4c83e76e827",
   source: "musicbrainz",

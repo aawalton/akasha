@@ -5,7 +5,7 @@ export const siaBlackbird = {
   pageTypeSlug: "song",
   slug: "sia-blackbird",
   title: "Blackbird",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "8a9cc43c-2958-36a1-b9e9-0afd8a346285",
   externalLink: "https://musicbrainz.org/work/8a9cc43c-2958-36a1-b9e9-0afd8a346285",
   source: "musicbrainz",

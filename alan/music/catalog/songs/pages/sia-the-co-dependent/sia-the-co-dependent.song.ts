@@ -5,7 +5,7 @@ export const siaTheCoDependent = {
   pageTypeSlug: "song",
   slug: "sia-the-co-dependent",
   title: "The Co-Dependent",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "816d761b-413b-4211-ab02-03f8d579781c",
   externalLink: "https://musicbrainz.org/work/816d761b-413b-4211-ab02-03f8d579781c",
   source: "musicbrainz",

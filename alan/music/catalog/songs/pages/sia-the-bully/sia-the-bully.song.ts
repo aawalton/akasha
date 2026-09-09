@@ -5,7 +5,7 @@ export const siaTheBully = {
   pageTypeSlug: "song",
   slug: "sia-the-bully",
   title: "The Bully",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "05c6307f-e6b2-389b-968e-526777a7fbae",
   externalLink: "https://musicbrainz.org/work/05c6307f-e6b2-389b-968e-526777a7fbae",
   source: "musicbrainz",

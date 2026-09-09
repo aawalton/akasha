@@ -5,7 +5,7 @@ export const taylorSwiftDress = {
   pageTypeSlug: "song",
   slug: "taylor-swift-dress",
   title: "Dress",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "93f308df-6621-4166-9318-0078f9182d47",
   externalLink: "https://musicbrainz.org/work/93f308df-6621-4166-9318-0078f9182d47",
   source: "musicbrainz",

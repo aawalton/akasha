@@ -5,7 +5,7 @@ export const taylorSwiftDejaVu = {
   pageTypeSlug: "song",
   slug: "taylor-swift-deja-vu",
   title: "deja vu",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "9364b685-ec38-4744-83f5-514f5a01d532",
   externalLink: "https://musicbrainz.org/work/9364b685-ec38-4744-83f5-514f5a01d532",
   source: "musicbrainz",

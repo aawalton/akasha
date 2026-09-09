@@ -5,7 +5,7 @@ export const siaIMInHere = {
   pageTypeSlug: "song",
   slug: "sia-i-m-in-here",
   title: "I’m in Here",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "b79acfb1-22ce-4e8a-ab88-6b864cdbecae",
   externalLink: "https://musicbrainz.org/work/b79acfb1-22ce-4e8a-ab88-6b864cdbecae",
   source: "musicbrainz",

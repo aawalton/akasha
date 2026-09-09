@@ -5,7 +5,7 @@ export const siaPlayDumb = {
   pageTypeSlug: "song",
   slug: "sia-play-dumb",
   title: "Play Dumb",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "c67ac09c-2e93-4c5c-a599-9edb105a7857",
   externalLink: "https://musicbrainz.org/work/c67ac09c-2e93-4c5c-a599-9edb105a7857",
   source: "musicbrainz",

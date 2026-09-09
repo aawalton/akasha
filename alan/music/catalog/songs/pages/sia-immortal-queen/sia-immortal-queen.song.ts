@@ -5,7 +5,7 @@ export const siaImmortalQueen = {
   pageTypeSlug: "song",
   slug: "sia-immortal-queen",
   title: "Immortal Queen",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "b6777bf4-b8fc-40ad-9cc8-63fcf9bad78b",
   externalLink: "https://musicbrainz.org/work/b6777bf4-b8fc-40ad-9cc8-63fcf9bad78b",
   source: "musicbrainz",

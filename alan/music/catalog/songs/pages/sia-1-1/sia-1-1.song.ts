@@ -5,7 +5,7 @@ export const sia11 = {
   pageTypeSlug: "song",
   slug: "sia-1-1",
   title: "1+1",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "448c69ca-3dd4-460c-be68-82f4af316f1a",
   externalLink: "https://musicbrainz.org/work/448c69ca-3dd4-460c-be68-82f4af316f1a",
   source: "musicbrainz",

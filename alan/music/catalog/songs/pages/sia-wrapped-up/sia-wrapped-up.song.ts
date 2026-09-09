@@ -5,7 +5,7 @@ export const siaWrappedUp = {
   pageTypeSlug: "song",
   slug: "sia-wrapped-up",
   title: "Wrapped Up",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "1290c605-2b58-470a-bcdc-508ba765d28d",
   externalLink: "https://musicbrainz.org/work/1290c605-2b58-470a-bcdc-508ba765d28d",
   source: "musicbrainz",

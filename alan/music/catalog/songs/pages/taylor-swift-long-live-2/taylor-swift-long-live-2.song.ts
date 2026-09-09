@@ -5,7 +5,7 @@ export const taylorSwiftLongLive2 = {
   pageTypeSlug: "song",
   slug: "taylor-swift-long-live-2",
   title: "Long Live",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "b21b4b0c-6f64-39ed-83f3-f4b218780780",
   externalLink: "https://musicbrainz.org/work/b21b4b0c-6f64-39ed-83f3-f4b218780780",
   source: "musicbrainz",

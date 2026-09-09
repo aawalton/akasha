@@ -5,7 +5,7 @@ export const siaBringYourArms = {
   pageTypeSlug: "song",
   slug: "sia-bring-your-arms",
   title: "Bring Your Arms",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "51147f90-9fd9-4367-bd70-48838361bcb6",
   externalLink: "https://musicbrainz.org/work/51147f90-9fd9-4367-bd70-48838361bcb6",
   source: "musicbrainz",

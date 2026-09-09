@@ -5,7 +5,7 @@ export const siaJudgeMe = {
   pageTypeSlug: "song",
   slug: "sia-judge-me",
   title: "Judge Me",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "566fa28c-02c6-4c9e-8295-94cba28a9fae",
   externalLink: "https://musicbrainz.org/work/566fa28c-02c6-4c9e-8295-94cba28a9fae",
   source: "musicbrainz",

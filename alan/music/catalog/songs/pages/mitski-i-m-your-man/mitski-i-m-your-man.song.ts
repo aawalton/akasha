@@ -5,7 +5,7 @@ export const mitskiIMYourMan = {
   pageTypeSlug: "song",
   slug: "mitski-i-m-your-man",
   title: "I’m Your Man",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "364b4b62-b815-443f-8ab3-fd72a5c38227",
   externalLink: "https://musicbrainz.org/work/364b4b62-b815-443f-8ab3-fd72a5c38227",
   source: "musicbrainz",

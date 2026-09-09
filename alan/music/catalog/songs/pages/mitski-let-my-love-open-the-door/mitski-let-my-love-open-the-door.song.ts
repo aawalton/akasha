@@ -5,7 +5,7 @@ export const mitskiLetMyLoveOpenTheDoor = {
   pageTypeSlug: "song",
   slug: "mitski-let-my-love-open-the-door",
   title: "Let My Love Open the Door",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "f1a6e60e-1189-40de-9d92-729d19f66cc3",
   externalLink: "https://musicbrainz.org/work/f1a6e60e-1189-40de-9d92-729d19f66cc3",
   source: "musicbrainz",

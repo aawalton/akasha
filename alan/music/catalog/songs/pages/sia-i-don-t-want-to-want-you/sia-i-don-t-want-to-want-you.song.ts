@@ -5,7 +5,7 @@ export const siaIDonTWantToWantYou = {
   pageTypeSlug: "song",
   slug: "sia-i-don-t-want-to-want-you",
   title: "I Don’t Want to Want You",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "2b0800de-6bf1-4461-a5fc-c035d463a341",
   externalLink: "https://musicbrainz.org/work/2b0800de-6bf1-4461-a5fc-c035d463a341",
   source: "musicbrainz",

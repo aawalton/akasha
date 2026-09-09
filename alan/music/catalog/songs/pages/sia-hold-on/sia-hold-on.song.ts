@@ -5,7 +5,7 @@ export const siaHoldOn = {
   pageTypeSlug: "song",
   slug: "sia-hold-on",
   title: "Hold On",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "f6f7accf-4460-4247-b0ee-f4aaa6deef1f",
   externalLink: "https://musicbrainz.org/work/f6f7accf-4460-4247-b0ee-f4aaa6deef1f",
   source: "musicbrainz",

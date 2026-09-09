@@ -5,7 +5,7 @@ export const taylorSwiftInnocent = {
   pageTypeSlug: "song",
   slug: "taylor-swift-innocent",
   title: "Innocent",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "3129cee4-2054-3e52-a5ae-50e00584f2f6",
   externalLink: "https://musicbrainz.org/work/3129cee4-2054-3e52-a5ae-50e00584f2f6",
   source: "musicbrainz",

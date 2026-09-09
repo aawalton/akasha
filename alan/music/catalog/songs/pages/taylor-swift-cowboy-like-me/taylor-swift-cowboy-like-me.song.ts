@@ -5,7 +5,7 @@ export const taylorSwiftCowboyLikeMe = {
   pageTypeSlug: "song",
   slug: "taylor-swift-cowboy-like-me",
   title: "cowboy like me",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "4533b239-8893-42c9-8d01-70eea8d298c6",
   externalLink: "https://musicbrainz.org/work/4533b239-8893-42c9-8d01-70eea8d298c6",
   source: "musicbrainz",

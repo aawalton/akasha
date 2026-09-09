@@ -5,7 +5,7 @@ export const siaFameWonTLoveYou = {
   pageTypeSlug: "song",
   slug: "sia-fame-won-t-love-you",
   title: "Fame Won’t Love You",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "2a9c6108-239a-4467-851d-d32258110591",
   externalLink: "https://musicbrainz.org/work/2a9c6108-239a-4467-851d-d32258110591",
   source: "musicbrainz",

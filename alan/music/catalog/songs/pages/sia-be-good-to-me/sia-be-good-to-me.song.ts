@@ -5,7 +5,7 @@ export const siaBeGoodToMe = {
   pageTypeSlug: "song",
   slug: "sia-be-good-to-me",
   title: "Be Good to Me",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "bc3d1f6c-97f7-48dc-a39a-3483ab55b020",
   externalLink: "https://musicbrainz.org/work/bc3d1f6c-97f7-48dc-a39a-3483ab55b020",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaAsrepOnosim = {
   pageTypeSlug: "song",
   slug: "sia-asrep-onosim",
   title: "Asrep onosim",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "80e1d06d-8cd7-44fd-b47a-8a74fc8ec58a",
   externalLink: "https://musicbrainz.org/work/80e1d06d-8cd7-44fd-b47a-8a74fc8ec58a",
   source: "musicbrainz",

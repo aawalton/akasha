@@ -5,7 +5,7 @@ export const lilithMaxLeaveTheArmor = {
   pageTypeSlug: "song",
   slug: "lilith-max-leave-the-armor",
   title: "Leave the Armor",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "3a45fbf6-4e31-4d85-8392-18a864647739",
   externalLink: "https://musicbrainz.org/recording/3a45fbf6-4e31-4d85-8392-18a864647739",
   source: "musicbrainz",

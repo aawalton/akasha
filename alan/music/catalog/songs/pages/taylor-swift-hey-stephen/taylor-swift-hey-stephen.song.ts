@@ -5,7 +5,7 @@ export const taylorSwiftHeyStephen = {
   pageTypeSlug: "song",
   slug: "taylor-swift-hey-stephen",
   title: "Hey Stephen",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "7d7c1db7-b29f-34fd-be71-37f18021307c",
   externalLink: "https://musicbrainz.org/work/7d7c1db7-b29f-34fd-be71-37f18021307c",
   source: "musicbrainz",

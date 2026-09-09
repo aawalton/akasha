@@ -5,7 +5,7 @@ export const siaSoonWeLlBeFound = {
   pageTypeSlug: "song",
   slug: "sia-soon-we-ll-be-found",
   title: "Soon We’ll Be Found",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "61b7c2be-3708-4ac9-a744-124f9d89fa56",
   externalLink: "https://musicbrainz.org/work/61b7c2be-3708-4ac9-a744-124f9d89fa56",
   source: "musicbrainz",

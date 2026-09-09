@@ -5,7 +5,7 @@ export const taylorSwiftFifteen = {
   pageTypeSlug: "song",
   slug: "taylor-swift-fifteen",
   title: "Fifteen",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "6cad3efd-e9f4-3dcd-9b71-fc25b630382b",
   externalLink: "https://musicbrainz.org/work/6cad3efd-e9f4-3dcd-9b71-fc25b630382b",
   source: "musicbrainz",

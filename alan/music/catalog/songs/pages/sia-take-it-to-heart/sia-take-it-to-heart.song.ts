@@ -5,7 +5,7 @@ export const siaTakeItToHeart = {
   pageTypeSlug: "song",
   slug: "sia-take-it-to-heart",
   title: "Take It to Heart",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "1f44aae0-e66b-468f-a1fd-a2916c585d7e",
   externalLink: "https://musicbrainz.org/work/1f44aae0-e66b-468f-a1fd-a2916c585d7e",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaRoundAndRound = {
   pageTypeSlug: "song",
   slug: "sia-round-and-round",
   title: "Round and Round",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "9be3e5b4-6c1e-4b93-889d-c89039ac50e9",
   externalLink: "https://musicbrainz.org/work/9be3e5b4-6c1e-4b93-889d-c89039ac50e9",
   source: "musicbrainz",

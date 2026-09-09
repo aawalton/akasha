@@ -5,7 +5,7 @@ export const siaTowardsTheSun = {
   pageTypeSlug: "song",
   slug: "sia-towards-the-sun",
   title: "Towards the Sun",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "2e886392-6968-4c66-9aca-a2b921f54698",
   externalLink: "https://musicbrainz.org/work/2e886392-6968-4c66-9aca-a2b921f54698",
   source: "musicbrainz",

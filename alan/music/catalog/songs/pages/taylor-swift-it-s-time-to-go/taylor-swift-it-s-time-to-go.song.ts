@@ -5,7 +5,7 @@ export const taylorSwiftItSTimeToGo = {
   pageTypeSlug: "song",
   slug: "taylor-swift-it-s-time-to-go",
   title: "it’s time to go",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "e7359c65-074a-4cc2-bfe1-83fbf72a72d9",
   externalLink: "https://musicbrainz.org/work/e7359c65-074a-4cc2-bfe1-83fbf72a72d9",
   source: "musicbrainz",

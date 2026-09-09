@@ -5,7 +5,7 @@ export const siaNoNewFriends = {
   pageTypeSlug: "song",
   slug: "sia-no-new-friends",
   title: "No New Friends",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "0af416fe-6ed4-4779-9b4a-4ac69a222506",
   externalLink: "https://musicbrainz.org/work/0af416fe-6ed4-4779-9b4a-4ac69a222506",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const mitskiBetweenTheBreaths = {
   pageTypeSlug: "song",
   slug: "mitski-between-the-breaths",
   title: "Between the Breaths",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "318e44e6-3f6c-4e58-a674-ebedc3edd831",
   externalLink: "https://musicbrainz.org/work/318e44e6-3f6c-4e58-a674-ebedc3edd831",
   source: "musicbrainz",

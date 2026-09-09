@@ -5,7 +5,7 @@ export const siaEverydayIsChristmas = {
   pageTypeSlug: "song",
   slug: "sia-everyday-is-christmas",
   title: "Everyday Is Christmas",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "b83189f3-20f9-44a1-b87c-24dc658506fb",
   externalLink: "https://musicbrainz.org/work/b83189f3-20f9-44a1-b87c-24dc658506fb",
   source: "musicbrainz",

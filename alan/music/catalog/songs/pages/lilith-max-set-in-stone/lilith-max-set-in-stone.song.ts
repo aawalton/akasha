@@ -5,7 +5,7 @@ export const lilithMaxSetInStone = {
   pageTypeSlug: "song",
   slug: "lilith-max-set-in-stone",
   title: "Set in Stone",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "f3e3bfaa-8350-47af-8cb7-328e431346f3",
   externalLink: "https://musicbrainz.org/recording/f3e3bfaa-8350-47af-8cb7-328e431346f3",
   source: "musicbrainz",

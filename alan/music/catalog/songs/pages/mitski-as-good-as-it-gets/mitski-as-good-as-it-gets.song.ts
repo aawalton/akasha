@@ -5,7 +5,7 @@ export const mitskiAsGoodAsItGets = {
   pageTypeSlug: "song",
   slug: "mitski-as-good-as-it-gets",
   title: "As Good as It Gets",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "f94c791a-5f6b-4a81-8a0f-970a318d2f3f",
   externalLink: "https://musicbrainz.org/work/f94c791a-5f6b-4a81-8a0f-970a318d2f3f",
   source: "musicbrainz",

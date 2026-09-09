@@ -5,7 +5,7 @@ export const taylorSwiftForeverAlways = {
   pageTypeSlug: "song",
   slug: "taylor-swift-forever-always",
   title: "Forever & Always",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "440c59c7-e41d-3fc8-9877-c814cb5d876a",
   externalLink: "https://musicbrainz.org/work/440c59c7-e41d-3fc8-9877-c814cb5d876a",
   source: "musicbrainz",

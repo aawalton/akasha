@@ -5,7 +5,7 @@ export const siaBrokenGlass = {
   pageTypeSlug: "song",
   slug: "sia-broken-glass",
   title: "Broken Glass",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "4511fdae-90af-4baf-88ef-00cf102b4a3f",
   externalLink: "https://musicbrainz.org/work/4511fdae-90af-4baf-88ef-00cf102b4a3f",
   source: "musicbrainz",

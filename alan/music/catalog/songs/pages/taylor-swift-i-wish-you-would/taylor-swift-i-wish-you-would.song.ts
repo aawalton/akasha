@@ -5,7 +5,7 @@ export const taylorSwiftIWishYouWould = {
   pageTypeSlug: "song",
   slug: "taylor-swift-i-wish-you-would",
   title: "I Wish You Would",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "698a8b54-c881-4f70-a7a7-599c8a85523b",
   externalLink: "https://musicbrainz.org/work/698a8b54-c881-4f70-a7a7-599c8a85523b",
   source: "musicbrainz",

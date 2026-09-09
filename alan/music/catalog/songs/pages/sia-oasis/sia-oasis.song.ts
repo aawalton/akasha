@@ -5,7 +5,7 @@ export const siaOasis = {
   pageTypeSlug: "song",
   slug: "sia-oasis",
   title: "Oasis",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "8e6e3b46-6ce4-4d3d-b47e-f75fd2b9cf8e",
   externalLink: "https://musicbrainz.org/work/8e6e3b46-6ce4-4d3d-b47e-f75fd2b9cf8e",
   source: "musicbrainz",

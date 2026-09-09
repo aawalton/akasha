@@ -5,7 +5,7 @@ export const taylorSwiftFearless = {
   pageTypeSlug: "song",
   slug: "taylor-swift-fearless",
   title: "Fearless",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "49ad745e-cb41-327a-8544-dba449a766eb",
   externalLink: "https://musicbrainz.org/work/49ad745e-cb41-327a-8544-dba449a766eb",
   source: "musicbrainz",

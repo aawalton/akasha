@@ -5,7 +5,7 @@ export const taylorSwiftLabyrinth = {
   pageTypeSlug: "song",
   slug: "taylor-swift-labyrinth",
   title: "Labyrinth",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "d264e431-cb95-4751-9931-9eefadf4c1ee",
   externalLink: "https://musicbrainz.org/work/d264e431-cb95-4751-9931-9eefadf4c1ee",
   source: "musicbrainz",

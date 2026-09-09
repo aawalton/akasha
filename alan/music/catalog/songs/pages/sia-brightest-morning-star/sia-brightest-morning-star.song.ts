@@ -5,7 +5,7 @@ export const siaBrightestMorningStar = {
   pageTypeSlug: "song",
   slug: "sia-brightest-morning-star",
   title: "Brightest Morning Star",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "54a3ccf7-e7d6-4742-ac7f-7d9b53d328a4",
   externalLink: "https://musicbrainz.org/work/54a3ccf7-e7d6-4742-ac7f-7d9b53d328a4",
   source: "musicbrainz",

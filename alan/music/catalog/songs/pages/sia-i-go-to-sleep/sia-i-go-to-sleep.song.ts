@@ -5,7 +5,7 @@ export const siaIGoToSleep = {
   pageTypeSlug: "song",
   slug: "sia-i-go-to-sleep",
   title: "I Go to Sleep",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "2f843faf-5071-3e80-8d09-9ea38c1c2f39",
   externalLink: "https://musicbrainz.org/work/2f843faf-5071-3e80-8d09-9ea38c1c2f39",
   source: "musicbrainz",

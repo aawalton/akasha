@@ -5,7 +5,7 @@ export const siaSledgehammer = {
   pageTypeSlug: "song",
   slug: "sia-sledgehammer",
   title: "Sledgehammer",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "95da91c5-332f-4e2a-881f-51980ba7354d",
   externalLink: "https://musicbrainz.org/work/95da91c5-332f-4e2a-881f-51980ba7354d",
   source: "musicbrainz",

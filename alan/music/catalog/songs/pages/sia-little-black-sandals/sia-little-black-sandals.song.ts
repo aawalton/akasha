@@ -5,7 +5,7 @@ export const siaLittleBlackSandals = {
   pageTypeSlug: "song",
   slug: "sia-little-black-sandals",
   title: "Little Black Sandals",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "0edd89ff-11ab-4960-965c-08af576d7673",
   externalLink: "https://musicbrainz.org/work/0edd89ff-11ab-4960-965c-08af576d7673",
   source: "musicbrainz",

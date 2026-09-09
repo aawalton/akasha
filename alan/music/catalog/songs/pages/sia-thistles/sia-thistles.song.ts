@@ -5,7 +5,7 @@ export const siaThistles = {
   pageTypeSlug: "song",
   slug: "sia-thistles",
   title: "Thistles",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "ef2d042c-622b-4cd2-8751-e7abbacc0ac5",
   externalLink: "https://musicbrainz.org/work/ef2d042c-622b-4cd2-8751-e7abbacc0ac5",
   source: "musicbrainz",

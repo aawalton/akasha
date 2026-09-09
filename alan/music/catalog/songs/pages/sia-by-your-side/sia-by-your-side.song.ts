@@ -5,7 +5,7 @@ export const siaByYourSide = {
   pageTypeSlug: "song",
   slug: "sia-by-your-side",
   title: "By Your Side",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "47ed8879-f008-41f4-9b43-9d0699f9801a",
   externalLink: "https://musicbrainz.org/work/47ed8879-f008-41f4-9b43-9d0699f9801a",
   source: "musicbrainz",

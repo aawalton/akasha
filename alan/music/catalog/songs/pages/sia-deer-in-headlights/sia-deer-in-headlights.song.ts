@@ -5,7 +5,7 @@ export const siaDeerInHeadlights = {
   pageTypeSlug: "song",
   slug: "sia-deer-in-headlights",
   title: "Deer in Headlights",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "80153345-960f-4d66-8775-75abc0cd112c",
   externalLink: "https://musicbrainz.org/work/80153345-960f-4d66-8775-75abc0cd112c",
   source: "musicbrainz",

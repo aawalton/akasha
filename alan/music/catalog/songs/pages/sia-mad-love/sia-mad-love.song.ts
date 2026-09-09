@@ -5,7 +5,7 @@ export const siaMadLove = {
   pageTypeSlug: "song",
   slug: "sia-mad-love",
   title: "Mad Love",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "85cd7e4e-b1da-4e2c-921e-71c0d26912d5",
   externalLink: "https://musicbrainz.org/work/85cd7e4e-b1da-4e2c-921e-71c0d26912d5",
   source: "musicbrainz",

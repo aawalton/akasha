@@ -5,7 +5,7 @@ export const siaTheGame = {
   pageTypeSlug: "song",
   slug: "sia-the-game",
   title: "The Game",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "3d38c09d-3c7c-435a-a5bb-35c027145c23",
   externalLink: "https://musicbrainz.org/work/3d38c09d-3c7c-435a-a5bb-35c027145c23",
   source: "musicbrainz",

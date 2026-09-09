@@ -5,7 +5,7 @@ export const siaNowhereToBe = {
   pageTypeSlug: "song",
   slug: "sia-nowhere-to-be",
   title: "Nowhere to Be",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "b614601d-16e6-4a36-ad74-5f074da0b8af",
   externalLink: "https://musicbrainz.org/work/b614601d-16e6-4a36-ad74-5f074da0b8af",
   source: "musicbrainz",

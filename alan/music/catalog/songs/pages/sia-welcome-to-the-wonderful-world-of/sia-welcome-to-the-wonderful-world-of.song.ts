@@ -5,7 +5,7 @@ export const siaWelcomeToTheWonderfulWorldOf = {
   pageTypeSlug: "song",
   slug: "sia-welcome-to-the-wonderful-world-of",
   title: "Welcome to the Wonderful World Of",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "a30d7ec0-6fe0-4a4b-a3d2-496626530075",
   externalLink: "https://musicbrainz.org/work/a30d7ec0-6fe0-4a4b-a3d2-496626530075",
   source: "musicbrainz",

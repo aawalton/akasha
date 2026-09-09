@@ -5,7 +5,7 @@ export const taylorSwiftDarkBlueTennessee = {
   pageTypeSlug: "song",
   slug: "taylor-swift-dark-blue-tennessee",
   title: "Dark Blue Tennessee",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "c14fe825-4ba4-42ea-9620-81f09ba42d19",
   externalLink: "https://musicbrainz.org/work/c14fe825-4ba4-42ea-9620-81f09ba42d19",
   source: "musicbrainz",

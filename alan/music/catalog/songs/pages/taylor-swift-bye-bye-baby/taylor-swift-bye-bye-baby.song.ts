@@ -5,7 +5,7 @@ export const taylorSwiftByeByeBaby = {
   pageTypeSlug: "song",
   slug: "taylor-swift-bye-bye-baby",
   title: "Bye Bye Baby",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ddc5b9da-a921-41f6-bd8e-26f5b0f28dc3",
   externalLink: "https://musicbrainz.org/work/ddc5b9da-a921-41f6-bd8e-26f5b0f28dc3",
   source: "musicbrainz",

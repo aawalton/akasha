@@ -5,7 +5,7 @@ export const siaTheWhisperer = {
   pageTypeSlug: "song",
   slug: "sia-the-whisperer",
   title: "The Whisperer",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "374ab399-004a-41e1-8d00-502b1f60fab9",
   externalLink: "https://musicbrainz.org/work/374ab399-004a-41e1-8d00-502b1f60fab9",
   source: "musicbrainz",

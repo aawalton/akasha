@@ -5,7 +5,7 @@ export const mitskiRememberMyName = {
   pageTypeSlug: "song",
   slug: "mitski-remember-my-name",
   title: "Remember My Name",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "cc77f879-2c1f-450e-ab95-a7c1726de303",
   externalLink: "https://musicbrainz.org/work/cc77f879-2c1f-450e-ab95-a7c1726de303",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const mitskiFrancisForever = {
   pageTypeSlug: "song",
   slug: "mitski-francis-forever",
   title: "Francis Forever",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "17e2835b-67e8-41a9-a118-5968268fa04d",
   externalLink: "https://musicbrainz.org/work/17e2835b-67e8-41a9-a118-5968268fa04d",
   source: "musicbrainz",

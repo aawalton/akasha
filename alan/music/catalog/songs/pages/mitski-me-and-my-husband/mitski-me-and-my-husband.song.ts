@@ -5,7 +5,7 @@ export const mitskiMeAndMyHusband = {
   pageTypeSlug: "song",
   slug: "mitski-me-and-my-husband",
   title: "Me and My Husband",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "b4dd6bd5-c2d6-45c1-ad96-86942897745e",
   externalLink: "https://musicbrainz.org/work/b4dd6bd5-c2d6-45c1-ad96-86942897745e",
   source: "musicbrainz",

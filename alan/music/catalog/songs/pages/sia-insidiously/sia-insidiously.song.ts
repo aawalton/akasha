@@ -5,7 +5,7 @@ export const siaInsidiously = {
   pageTypeSlug: "song",
   slug: "sia-insidiously",
   title: "Insidiously",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "53d0fe2f-de06-4854-b53c-e50bc54164c8",
   externalLink: "https://musicbrainz.org/work/53d0fe2f-de06-4854-b53c-e50bc54164c8",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaBlowItAllAway = {
   pageTypeSlug: "song",
   slug: "sia-blow-it-all-away",
   title: "Blow It All Away",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "0ed081f0-e051-40ac-8bde-03fac2a86d07",
   externalLink: "https://musicbrainz.org/work/0ed081f0-e051-40ac-8bde-03fac2a86d07",
   source: "musicbrainz",

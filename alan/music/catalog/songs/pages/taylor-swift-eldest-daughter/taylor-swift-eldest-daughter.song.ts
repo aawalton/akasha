@@ -5,7 +5,7 @@ export const taylorSwiftEldestDaughter = {
   pageTypeSlug: "song",
   slug: "taylor-swift-eldest-daughter",
   title: "Eldest Daughter",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "98422fdb-1856-43e3-b9be-3abe94a04435",
   externalLink: "https://musicbrainz.org/work/98422fdb-1856-43e3-b9be-3abe94a04435",
   source: "musicbrainz",

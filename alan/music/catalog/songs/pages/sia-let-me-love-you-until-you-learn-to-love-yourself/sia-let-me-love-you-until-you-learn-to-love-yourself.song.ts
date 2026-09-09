@@ -5,7 +5,7 @@ export const siaLetMeLoveYouUntilYouLearnToLoveYourself = {
   pageTypeSlug: "song",
   slug: "sia-let-me-love-you-until-you-learn-to-love-yourself",
   title: "Let Me Love You (Until You Learn to Love Yourself)",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "a93e6cca-40e6-4a09-aef6-8aae3c2b00b0",
   externalLink: "https://musicbrainz.org/work/a93e6cca-40e6-4a09-aef6-8aae3c2b00b0",
   source: "musicbrainz",

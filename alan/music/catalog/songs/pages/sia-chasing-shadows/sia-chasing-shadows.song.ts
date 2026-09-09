@@ -5,7 +5,7 @@ export const siaChasingShadows = {
   pageTypeSlug: "song",
   slug: "sia-chasing-shadows",
   title: "Chasing Shadows",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "7425a023-3dbf-4a62-852e-8ceddd2c9422",
   externalLink: "https://musicbrainz.org/work/7425a023-3dbf-4a62-852e-8ceddd2c9422",
   source: "musicbrainz",

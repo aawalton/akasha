@@ -5,7 +5,7 @@ export const taylorSwiftLoverRemix = {
   pageTypeSlug: "song",
   slug: "taylor-swift-lover-remix",
   title: "Lover (remix)",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "03955189-25c7-4763-b2e6-fa0a4abf1e70",
   externalLink: "https://musicbrainz.org/work/03955189-25c7-4763-b2e6-fa0a4abf1e70",
   source: "musicbrainz",

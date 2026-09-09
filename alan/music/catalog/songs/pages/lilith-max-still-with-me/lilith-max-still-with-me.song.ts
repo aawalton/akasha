@@ -5,7 +5,7 @@ export const lilithMaxStillWithMe = {
   pageTypeSlug: "song",
   slug: "lilith-max-still-with-me",
   title: "Still with Me",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "1a3f08ab-8bef-458b-a378-40819649afda",
   externalLink: "https://musicbrainz.org/recording/1a3f08ab-8bef-458b-a378-40819649afda",
   source: "musicbrainz",

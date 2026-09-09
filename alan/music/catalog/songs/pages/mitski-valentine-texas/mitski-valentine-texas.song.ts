@@ -5,7 +5,7 @@ export const mitskiValentineTexas = {
   pageTypeSlug: "song",
   slug: "mitski-valentine-texas",
   title: "Valentine, Texas",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "f945b463-a88f-420d-be4a-3e387e61aa2b",
   externalLink: "https://musicbrainz.org/work/f945b463-a88f-420d-be4a-3e387e61aa2b",
   source: "musicbrainz",

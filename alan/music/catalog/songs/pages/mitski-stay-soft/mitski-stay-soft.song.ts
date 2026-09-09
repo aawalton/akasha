@@ -5,7 +5,7 @@ export const mitskiStaySoft = {
   pageTypeSlug: "song",
   slug: "mitski-stay-soft",
   title: "Stay Soft",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "341751bd-93fd-4d60-a8be-0587a2c5c232",
   externalLink: "https://musicbrainz.org/work/341751bd-93fd-4d60-a8be-0587a2c5c232",
   source: "musicbrainz",

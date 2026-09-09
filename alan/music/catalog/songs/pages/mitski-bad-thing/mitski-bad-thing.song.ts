@@ -5,7 +5,7 @@ export const mitskiBadThing = {
   pageTypeSlug: "song",
   slug: "mitski-bad-thing",
   title: "Bad Thing",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "d9c1e89a-2374-47eb-9b1c-8f1b3b57bc54",
   externalLink: "https://musicbrainz.org/work/d9c1e89a-2374-47eb-9b1c-8f1b3b57bc54",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const mitskiLoveMeMore = {
   pageTypeSlug: "song",
   slug: "mitski-love-me-more",
   title: "Love Me More",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "5e6fa672-9149-40a3-ad80-9995db2f960f",
   externalLink: "https://musicbrainz.org/work/5e6fa672-9149-40a3-ad80-9995db2f960f",
   source: "musicbrainz",

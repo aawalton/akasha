@@ -5,7 +5,7 @@ export const lilithMaxStrangerSEyes = {
   pageTypeSlug: "song",
   slug: "lilith-max-stranger-s-eyes",
   title: "Stranger's Eyes",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "cc515c35-cfff-492e-ac58-060a02b7307a",
   externalLink: "https://musicbrainz.org/recording/cc515c35-cfff-492e-ac58-060a02b7307a",
   source: "musicbrainz",

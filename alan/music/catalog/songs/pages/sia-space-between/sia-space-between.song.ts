@@ -5,7 +5,7 @@ export const siaSpaceBetween = {
   pageTypeSlug: "song",
   slug: "sia-space-between",
   title: "Space Between",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "337b4984-5f07-45ee-a940-1974281ad8e0",
   externalLink: "https://musicbrainz.org/work/337b4984-5f07-45ee-a940-1974281ad8e0",
   source: "musicbrainz",

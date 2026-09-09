@@ -5,7 +5,7 @@ export const siaBiggerBetterDeal = {
   pageTypeSlug: "song",
   slug: "sia-bigger-better-deal",
   title: "Bigger Better Deal",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "016b653c-228e-4104-800a-a07b6d932cf8",
   externalLink: "https://musicbrainz.org/work/016b653c-228e-4104-800a-a07b6d932cf8",
   source: "musicbrainz",

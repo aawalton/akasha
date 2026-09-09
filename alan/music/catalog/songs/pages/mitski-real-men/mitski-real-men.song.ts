@@ -5,7 +5,7 @@ export const mitskiRealMen = {
   pageTypeSlug: "song",
   slug: "mitski-real-men",
   title: "Real Men",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "cb97ea92-9e06-45dd-90c2-47979a0fa049",
   externalLink: "https://musicbrainz.org/work/cb97ea92-9e06-45dd-90c2-47979a0fa049",
   source: "musicbrainz",

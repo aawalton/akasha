@@ -5,7 +5,7 @@ export const taylorSwiftFlorida = {
   pageTypeSlug: "song",
   slug: "taylor-swift-florida",
   title: "Florida!!!",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "c6d65b3c-9481-451a-8797-d3dc6d32e871",
   externalLink: "https://musicbrainz.org/work/c6d65b3c-9481-451a-8797-d3dc6d32e871",
   source: "musicbrainz",

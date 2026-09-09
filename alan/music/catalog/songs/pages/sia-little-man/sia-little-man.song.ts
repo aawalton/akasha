@@ -5,7 +5,7 @@ export const siaLittleMan = {
   pageTypeSlug: "song",
   slug: "sia-little-man",
   title: "Little Man",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "6069c651-99e0-411b-85f1-368e51567daa",
   externalLink: "https://musicbrainz.org/work/6069c651-99e0-411b-85f1-368e51567daa",
   source: "musicbrainz",

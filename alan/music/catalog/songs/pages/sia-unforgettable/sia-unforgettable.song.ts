@@ -5,7 +5,7 @@ export const siaUnforgettable = {
   pageTypeSlug: "song",
   slug: "sia-unforgettable",
   title: "Unforgettable",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "3ee29e3d-b17e-38dc-b5ed-47b1a039c1be",
   externalLink: "https://musicbrainz.org/work/3ee29e3d-b17e-38dc-b5ed-47b1a039c1be",
   source: "musicbrainz",

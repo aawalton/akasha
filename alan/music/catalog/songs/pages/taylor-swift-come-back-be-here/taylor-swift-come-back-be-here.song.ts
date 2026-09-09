@@ -5,7 +5,7 @@ export const taylorSwiftComeBackBeHere = {
   pageTypeSlug: "song",
   slug: "taylor-swift-come-back-be-here",
   title: "Come Back… Be Here",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "fe4c649c-751f-4261-a009-9dd6944d986e",
   externalLink: "https://musicbrainz.org/work/fe4c649c-751f-4261-a009-9dd6944d986e",
   source: "musicbrainz",

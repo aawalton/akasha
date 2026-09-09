@@ -5,7 +5,7 @@ export const taylorSwiftDramaQueen = {
   pageTypeSlug: "song",
   slug: "taylor-swift-drama-queen",
   title: "Drama Queen",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "9749c2f9-52b8-4fa4-ad4e-37d599abb9f1",
   externalLink: "https://musicbrainz.org/work/9749c2f9-52b8-4fa4-ad4e-37d599abb9f1",
   source: "musicbrainz",

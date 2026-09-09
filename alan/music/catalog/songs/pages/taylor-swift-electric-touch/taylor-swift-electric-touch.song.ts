@@ -5,7 +5,7 @@ export const taylorSwiftElectricTouch = {
   pageTypeSlug: "song",
   slug: "taylor-swift-electric-touch",
   title: "Electric Touch",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "3d7f6e77-f875-4238-a633-2b8d89b497d7",
   externalLink: "https://musicbrainz.org/work/3d7f6e77-f875-4238-a633-2b8d89b497d7",
   source: "musicbrainz",

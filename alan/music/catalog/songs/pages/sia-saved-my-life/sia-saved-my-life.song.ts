@@ -5,7 +5,7 @@ export const siaSavedMyLife = {
   pageTypeSlug: "song",
   slug: "sia-saved-my-life",
   title: "Saved My Life",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "c986fab3-d026-4613-8765-62e0fb143065",
   externalLink: "https://musicbrainz.org/work/c986fab3-d026-4613-8765-62e0fb143065",
   source: "musicbrainz",

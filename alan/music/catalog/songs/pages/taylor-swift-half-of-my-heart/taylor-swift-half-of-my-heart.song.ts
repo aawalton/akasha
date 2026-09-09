@@ -5,7 +5,7 @@ export const taylorSwiftHalfOfMyHeart = {
   pageTypeSlug: "song",
   slug: "taylor-swift-half-of-my-heart",
   title: "Half of My Heart",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "b6a979c1-3f28-340c-93bb-95baf8dfdc27",
   externalLink: "https://musicbrainz.org/work/b6a979c1-3f28-340c-93bb-95baf8dfdc27",
   source: "musicbrainz",

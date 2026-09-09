@@ -5,7 +5,7 @@ export const siaBlameItOnTheRadio = {
   pageTypeSlug: "song",
   slug: "sia-blame-it-on-the-radio",
   title: "Blame It on the Radio",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "4e1e4f1a-8e5f-41fa-b912-74d289912586",
   externalLink: "https://musicbrainz.org/work/4e1e4f1a-8e5f-41fa-b912-74d289912586",
   source: "musicbrainz",

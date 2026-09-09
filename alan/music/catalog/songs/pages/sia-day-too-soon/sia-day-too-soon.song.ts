@@ -5,7 +5,7 @@ export const siaDayTooSoon = {
   pageTypeSlug: "song",
   slug: "sia-day-too-soon",
   title: "Day Too Soon",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "195e5f3f-02ba-4ebb-ad3d-aa4de92cb25e",
   externalLink: "https://musicbrainz.org/work/195e5f3f-02ba-4ebb-ad3d-aa4de92cb25e",
   source: "musicbrainz",

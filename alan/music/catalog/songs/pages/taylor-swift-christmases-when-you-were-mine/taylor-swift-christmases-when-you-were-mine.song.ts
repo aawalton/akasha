@@ -5,7 +5,7 @@ export const taylorSwiftChristmasesWhenYouWereMine = {
   pageTypeSlug: "song",
   slug: "taylor-swift-christmases-when-you-were-mine",
   title: "Christmases When You Were Mine",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "45ddf97b-03f1-42fa-8fdd-699e6fd5b131",
   externalLink: "https://musicbrainz.org/work/45ddf97b-03f1-42fa-8fdd-699e6fd5b131",
   source: "musicbrainz",

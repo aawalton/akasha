@@ -5,7 +5,7 @@ export const siaElectricBird = {
   pageTypeSlug: "song",
   slug: "sia-electric-bird",
   title: "Electric Bird",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "db2f8b36-b3d4-4d0b-a2e8-97ba1510fa32",
   externalLink: "https://musicbrainz.org/work/db2f8b36-b3d4-4d0b-a2e8-97ba1510fa32",
   source: "musicbrainz",

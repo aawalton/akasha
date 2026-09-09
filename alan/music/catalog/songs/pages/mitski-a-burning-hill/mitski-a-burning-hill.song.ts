@@ -5,7 +5,7 @@ export const mitskiABurningHill = {
   pageTypeSlug: "song",
   slug: "mitski-a-burning-hill",
   title: "A Burning Hill",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "70aa45fb-3024-42d7-ba46-031a7778d435",
   externalLink: "https://musicbrainz.org/work/70aa45fb-3024-42d7-ba46-031a7778d435",
   source: "musicbrainz",

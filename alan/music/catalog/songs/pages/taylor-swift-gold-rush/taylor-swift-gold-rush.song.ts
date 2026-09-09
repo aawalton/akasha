@@ -5,7 +5,7 @@ export const taylorSwiftGoldRush = {
   pageTypeSlug: "song",
   slug: "taylor-swift-gold-rush",
   title: "gold rush",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "16f2770d-e18e-4911-9920-437994ea807e",
   externalLink: "https://musicbrainz.org/work/16f2770d-e18e-4911-9920-437994ea807e",
   source: "musicbrainz",

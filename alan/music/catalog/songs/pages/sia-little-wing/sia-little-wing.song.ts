@@ -5,7 +5,7 @@ export const siaLittleWing = {
   pageTypeSlug: "song",
   slug: "sia-little-wing",
   title: "Little Wing",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "361cae0a-6a36-48ad-8052-f36729f188c5",
   externalLink: "https://musicbrainz.org/work/361cae0a-6a36-48ad-8052-f36729f188c5",
   source: "musicbrainz",

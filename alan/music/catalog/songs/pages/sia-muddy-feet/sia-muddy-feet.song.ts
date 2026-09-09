@@ -5,7 +5,7 @@ export const siaMuddyFeet = {
   pageTypeSlug: "song",
   slug: "sia-muddy-feet",
   title: "Muddy Feet",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "40166857-10a4-4b9b-954e-94a727c5336b",
   externalLink: "https://musicbrainz.org/work/40166857-10a4-4b9b-954e-94a727c5336b",
   source: "musicbrainz",

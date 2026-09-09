@@ -5,7 +5,7 @@ export const siaSnowflake = {
   pageTypeSlug: "song",
   slug: "sia-snowflake",
   title: "Snowflake",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "e2bf6c43-a9f0-4c39-a01e-16835edf0c32",
   externalLink: "https://musicbrainz.org/work/e2bf6c43-a9f0-4c39-a01e-16835edf0c32",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftIKnewItIKnewYou = {
   pageTypeSlug: "song",
   slug: "taylor-swift-i-knew-it-i-knew-you",
   title: "I Knew It, I Knew You",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ad6442df-6b84-48ab-b53a-4b7adf62d147",
   externalLink: "https://musicbrainz.org/work/ad6442df-6b84-48ab-b53a-4b7adf62d147",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const mitskiWhereSMyPhone = {
   pageTypeSlug: "song",
   slug: "mitski-where-s-my-phone",
   title: "Where’s My Phone?",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "23aa02c5-714a-498f-98df-1b720ecae65c",
   externalLink: "https://musicbrainz.org/work/23aa02c5-714a-498f-98df-1b720ecae65c",
   source: "musicbrainz",

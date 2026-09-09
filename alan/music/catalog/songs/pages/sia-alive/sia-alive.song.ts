@@ -5,7 +5,7 @@ export const siaAlive = {
   pageTypeSlug: "song",
   slug: "sia-alive",
   title: "Alive",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "1f23fb30-74b0-4d87-b3e4-0e580c6eb140",
   externalLink: "https://musicbrainz.org/work/1f23fb30-74b0-4d87-b3e4-0e580c6eb140",
   source: "musicbrainz",

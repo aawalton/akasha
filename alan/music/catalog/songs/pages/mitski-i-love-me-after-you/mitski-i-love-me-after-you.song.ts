@@ -5,7 +5,7 @@ export const mitskiILoveMeAfterYou = {
   pageTypeSlug: "song",
   slug: "mitski-i-love-me-after-you",
   title: "I Love Me After You",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "4e355d15-fb61-4a77-b5b1-7cf691cafda9",
   externalLink: "https://musicbrainz.org/work/4e355d15-fb61-4a77-b5b1-7cf691cafda9",
   source: "musicbrainz",

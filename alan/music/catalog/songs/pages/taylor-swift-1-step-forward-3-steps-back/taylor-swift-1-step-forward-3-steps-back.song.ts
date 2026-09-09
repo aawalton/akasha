@@ -5,7 +5,7 @@ export const taylorSwift1StepForward3StepsBack = {
   pageTypeSlug: "song",
   slug: "taylor-swift-1-step-forward-3-steps-back",
   title: "1 step forward, 3 steps back",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "c5c83faa-c316-411e-b8a3-fb4ae0ff55af",
   externalLink: "https://musicbrainz.org/work/c5c83faa-c316-411e-b8a3-fb4ae0ff55af",
   source: "musicbrainz",

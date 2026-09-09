@@ -5,7 +5,7 @@ export const siaEyeToEye = {
   pageTypeSlug: "song",
   slug: "sia-eye-to-eye",
   title: "Eye to Eye",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "c40bc854-6c67-4a75-8ade-e12e35a2aebb",
   externalLink: "https://musicbrainz.org/work/c40bc854-6c67-4a75-8ade-e12e35a2aebb",
   source: "musicbrainz",

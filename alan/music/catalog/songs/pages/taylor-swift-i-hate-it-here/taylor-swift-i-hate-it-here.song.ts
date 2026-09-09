@@ -5,7 +5,7 @@ export const taylorSwiftIHateItHere = {
   pageTypeSlug: "song",
   slug: "taylor-swift-i-hate-it-here",
   title: "I Hate It Here",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ec98e655-0495-458d-8081-7fc2162a51cc",
   externalLink: "https://musicbrainz.org/work/ec98e655-0495-458d-8081-7fc2162a51cc",
   source: "musicbrainz",

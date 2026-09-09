@@ -5,7 +5,7 @@ export const siaAngelByTheWings = {
   pageTypeSlug: "song",
   slug: "sia-angel-by-the-wings",
   title: "Angel by the Wings",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "bd735f3b-94cc-45c6-b124-791b293f1f14",
   externalLink: "https://musicbrainz.org/work/bd735f3b-94cc-45c6-b124-791b293f1f14",
   source: "musicbrainz",

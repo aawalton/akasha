@@ -5,7 +5,7 @@ export const siaSweatAndTears = {
   pageTypeSlug: "song",
   slug: "sia-sweat-and-tears",
   title: "Sweat and Tears",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "e62b8ceb-e3d9-4913-ac0d-80b6632139d2",
   externalLink: "https://musicbrainz.org/work/e62b8ceb-e3d9-4913-ac0d-80b6632139d2",
   source: "musicbrainz",

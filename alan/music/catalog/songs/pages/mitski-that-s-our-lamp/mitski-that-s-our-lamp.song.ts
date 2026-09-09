@@ -5,7 +5,7 @@ export const mitskiThatSOurLamp = {
   pageTypeSlug: "song",
   slug: "mitski-that-s-our-lamp",
   title: "That’s Our Lamp",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "1a4fe9b1-e91d-4ca4-888a-3dea2aede925",
   externalLink: "https://musicbrainz.org/work/1a4fe9b1-e91d-4ca4-888a-3dea2aede925",
   source: "musicbrainz",

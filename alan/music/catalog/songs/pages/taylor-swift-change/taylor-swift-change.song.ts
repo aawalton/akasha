@@ -5,7 +5,7 @@ export const taylorSwiftChange = {
   pageTypeSlug: "song",
   slug: "taylor-swift-change",
   title: "Change",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "f5685ce3-3bb9-3e02-ab1f-c3042697f8cc",
   externalLink: "https://musicbrainz.org/work/f5685ce3-3bb9-3e02-ab1f-c3042697f8cc",
   source: "musicbrainz",

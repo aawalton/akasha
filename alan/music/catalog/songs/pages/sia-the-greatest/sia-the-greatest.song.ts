@@ -5,7 +5,7 @@ export const siaTheGreatest = {
   pageTypeSlug: "song",
   slug: "sia-the-greatest",
   title: "The Greatest",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "620f7a88-b003-4492-9028-89d742fa5d2e",
   externalLink: "https://musicbrainz.org/work/620f7a88-b003-4492-9028-89d742fa5d2e",
   source: "musicbrainz",

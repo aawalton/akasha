@@ -5,7 +5,7 @@ export const siaLyingDown = {
   pageTypeSlug: "song",
   slug: "sia-lying-down",
   title: "Lying Down",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "57ee6cbc-2847-4b6c-af15-49c569c12534",
   externalLink: "https://musicbrainz.org/work/57ee6cbc-2847-4b6c-af15-49c569c12534",
   source: "musicbrainz",

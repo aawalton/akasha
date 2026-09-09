@@ -5,7 +5,7 @@ export const taylorSwiftAfterglow = {
   pageTypeSlug: "song",
   slug: "taylor-swift-afterglow",
   title: "Afterglow",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ab84673d-bcef-454d-8294-9585d7b7f942",
   externalLink: "https://musicbrainz.org/work/ab84673d-bcef-454d-8294-9585d7b7f942",
   source: "musicbrainz",

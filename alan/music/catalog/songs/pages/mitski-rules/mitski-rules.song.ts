@@ -5,7 +5,7 @@ export const mitskiRules = {
   pageTypeSlug: "song",
   slug: "mitski-rules",
   title: "Rules",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "50d50df4-9f89-41bf-857f-3cbc4c178aed",
   externalLink: "https://musicbrainz.org/work/50d50df4-9f89-41bf-857f-3cbc4c178aed",
   source: "musicbrainz",

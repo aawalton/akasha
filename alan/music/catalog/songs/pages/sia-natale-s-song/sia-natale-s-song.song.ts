@@ -5,7 +5,7 @@ export const siaNataleSSong = {
   pageTypeSlug: "song",
   slug: "sia-natale-s-song",
   title: "Natale’s Song",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "9d006c43-0ce7-4f87-b35c-0df870ccc950",
   externalLink: "https://musicbrainz.org/work/9d006c43-0ce7-4f87-b35c-0df870ccc950",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaHologramSmokeAndMirrors = {
   pageTypeSlug: "song",
   slug: "sia-hologram-smoke-and-mirrors",
   title: "Hologram (Smoke and Mirrors)",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "c40c7165-1d98-4e82-8df0-cdb9cddefc10",
   externalLink: "https://musicbrainz.org/work/c40c7165-1d98-4e82-8df0-cdb9cddefc10",
   source: "musicbrainz",

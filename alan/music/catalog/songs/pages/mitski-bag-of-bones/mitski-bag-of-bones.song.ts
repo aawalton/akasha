@@ -5,7 +5,7 @@ export const mitskiBagOfBones = {
   pageTypeSlug: "song",
   slug: "mitski-bag-of-bones",
   title: "Bag of Bones",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "587bc1b8-5d9e-4c83-973f-781791198394",
   externalLink: "https://musicbrainz.org/work/587bc1b8-5d9e-4c83-973f-781791198394",
   source: "musicbrainz",

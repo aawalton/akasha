@@ -5,7 +5,7 @@ export const taylorSwiftIllicitAffairs = {
   pageTypeSlug: "song",
   slug: "taylor-swift-illicit-affairs",
   title: "illicit affairs",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "9ed14afd-649f-4094-8106-8bd0984cadd7",
   externalLink: "https://musicbrainz.org/work/9ed14afd-649f-4094-8106-8bd0984cadd7",
   source: "musicbrainz",

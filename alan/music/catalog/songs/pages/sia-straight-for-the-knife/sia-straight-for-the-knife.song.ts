@@ -5,7 +5,7 @@ export const siaStraightForTheKnife = {
   pageTypeSlug: "song",
   slug: "sia-straight-for-the-knife",
   title: "Straight for the Knife",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "434e6c08-3809-4c9b-ab53-745726f140a4",
   externalLink: "https://musicbrainz.org/work/434e6c08-3809-4c9b-ab53-745726f140a4",
   source: "musicbrainz",

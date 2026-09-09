@@ -5,7 +5,7 @@ export const siaParanoidAndroid = {
   pageTypeSlug: "song",
   slug: "sia-paranoid-android",
   title: "Paranoid Android",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "1b4ff597-f43f-3dac-9f76-0e7b7f38d0d2",
   externalLink: "https://musicbrainz.org/work/1b4ff597-f43f-3dac-9f76-0e7b7f38d0d2",
   source: "musicbrainz",

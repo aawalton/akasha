@@ -5,7 +5,7 @@ export const taylorSwiftDorothea = {
   pageTypeSlug: "song",
   slug: "taylor-swift-dorothea",
   title: "dorothea",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "37b4775d-f529-4a37-addf-208b1c1d2952",
   externalLink: "https://musicbrainz.org/work/37b4775d-f529-4a37-addf-208b1c1d2952",
   source: "musicbrainz",

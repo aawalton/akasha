@@ -5,7 +5,7 @@ export const taylorSwiftForeverWinter = {
   pageTypeSlug: "song",
   slug: "taylor-swift-forever-winter",
   title: "Forever Winter",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ad4b79c1-2a95-4387-a7cd-a7dbbdbe037a",
   externalLink: "https://musicbrainz.org/work/ad4b79c1-2a95-4387-a7cd-a7dbbdbe037a",
   source: "musicbrainz",

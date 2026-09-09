@@ -5,7 +5,7 @@ export const taylorSwiftDancingWithOurHandsTied = {
   pageTypeSlug: "song",
   slug: "taylor-swift-dancing-with-our-hands-tied",
   title: "Dancing With Our Hands Tied",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "b0dcd90d-817f-4798-a120-3d14fac465a7",
   externalLink: "https://musicbrainz.org/work/b0dcd90d-817f-4798-a120-3d14fac465a7",
   source: "musicbrainz",

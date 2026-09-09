@@ -5,7 +5,7 @@ export const siaWaitingToDie = {
   pageTypeSlug: "song",
   slug: "sia-waiting-to-die",
   title: "Waiting to Die",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "5035301b-c7fd-4259-9ed9-c2c481012407",
   externalLink: "https://musicbrainz.org/work/5035301b-c7fd-4259-9ed9-c2c481012407",
   source: "musicbrainz",

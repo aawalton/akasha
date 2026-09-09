@@ -5,7 +5,7 @@ export const taylorSwiftDropsOfJupiter = {
   pageTypeSlug: "song",
   slug: "taylor-swift-drops-of-jupiter",
   title: "Drops of Jupiter",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "c6373387-f4f4-4a0a-b025-2afcb8d2daab",
   externalLink: "https://musicbrainz.org/work/c6373387-f4f4-4a0a-b025-2afcb8d2daab",
   source: "musicbrainz",

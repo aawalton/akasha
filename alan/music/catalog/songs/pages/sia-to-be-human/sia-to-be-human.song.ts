@@ -5,7 +5,7 @@ export const siaToBeHuman = {
   pageTypeSlug: "song",
   slug: "sia-to-be-human",
   title: "To Be Human",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "65027280-f313-4c78-9064-74183f5eb5fb",
   externalLink: "https://musicbrainz.org/work/65027280-f313-4c78-9064-74183f5eb5fb",
   source: "musicbrainz",

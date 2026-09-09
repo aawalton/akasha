@@ -5,7 +5,7 @@ export const siaPrivateGirl = {
   pageTypeSlug: "song",
   slug: "sia-private-girl",
   title: "Private Girl",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "71dd087b-0d04-4288-aed1-d49b823ad4d1",
   externalLink: "https://musicbrainz.org/work/71dd087b-0d04-4288-aed1-d49b823ad4d1",
   source: "musicbrainz",

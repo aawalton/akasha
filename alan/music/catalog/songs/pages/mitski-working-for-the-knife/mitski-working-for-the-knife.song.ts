@@ -5,7 +5,7 @@ export const mitskiWorkingForTheKnife = {
   pageTypeSlug: "song",
   slug: "mitski-working-for-the-knife",
   title: "Working for the Knife",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "b5d844af-452f-408a-94ac-e824d7ca45c2",
   externalLink: "https://musicbrainz.org/work/b5d844af-452f-408a-94ac-e824d7ca45c2",
   source: "musicbrainz",

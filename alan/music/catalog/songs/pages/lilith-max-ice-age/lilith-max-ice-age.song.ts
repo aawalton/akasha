@@ -5,7 +5,7 @@ export const lilithMaxIceAge = {
   pageTypeSlug: "song",
   slug: "lilith-max-ice-age",
   title: "Ice Age",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "d8597c2c-147a-481d-83af-df75fb70b8bc",
   externalLink: "https://musicbrainz.org/recording/d8597c2c-147a-481d-83af-df75fb70b8bc",
   source: "musicbrainz",

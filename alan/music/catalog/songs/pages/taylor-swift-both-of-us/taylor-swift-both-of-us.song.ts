@@ -5,7 +5,7 @@ export const taylorSwiftBothOfUs = {
   pageTypeSlug: "song",
   slug: "taylor-swift-both-of-us",
   title: "Both of Us",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "a9a4be86-8135-4b65-8193-2e56f08a4e6d",
   externalLink: "https://musicbrainz.org/work/a9a4be86-8135-4b65-8193-2e56f08a4e6d",
   source: "musicbrainz",

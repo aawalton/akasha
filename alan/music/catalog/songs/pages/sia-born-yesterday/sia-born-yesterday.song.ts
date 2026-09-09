@@ -5,7 +5,7 @@ export const siaBornYesterday = {
   pageTypeSlug: "song",
   slug: "sia-born-yesterday",
   title: "Born Yesterday",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "171a4b01-e71b-41a7-be86-c966bff6e40c",
   externalLink: "https://musicbrainz.org/work/171a4b01-e71b-41a7-be86-c966bff6e40c",
   source: "musicbrainz",

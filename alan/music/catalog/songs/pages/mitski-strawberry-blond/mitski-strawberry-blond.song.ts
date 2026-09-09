@@ -5,7 +5,7 @@ export const mitskiStrawberryBlond = {
   pageTypeSlug: "song",
   slug: "mitski-strawberry-blond",
   title: "Strawberry Blond",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "3f4f96c3-4523-4313-8749-f461f802c3cb",
   externalLink: "https://musicbrainz.org/work/3f4f96c3-4523-4313-8749-f461f802c3cb",
   source: "musicbrainz",

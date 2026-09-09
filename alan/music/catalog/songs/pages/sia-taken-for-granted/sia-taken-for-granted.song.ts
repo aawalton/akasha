@@ -5,7 +5,7 @@ export const siaTakenForGranted = {
   pageTypeSlug: "song",
   slug: "sia-taken-for-granted",
   title: "Taken for Granted",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "40cf66d0-8217-4c67-ba9c-8d2d4d7ea92d",
   externalLink: "https://musicbrainz.org/work/40cf66d0-8217-4c67-ba9c-8d2d4d7ea92d",
   source: "musicbrainz",

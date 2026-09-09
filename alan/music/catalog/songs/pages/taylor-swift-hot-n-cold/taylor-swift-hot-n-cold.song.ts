@@ -5,7 +5,7 @@ export const taylorSwiftHotNCold = {
   pageTypeSlug: "song",
   slug: "taylor-swift-hot-n-cold",
   title: "Hot n Cold",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "3ab64b07-4760-3b29-83e1-9f63cd39963f",
   externalLink: "https://musicbrainz.org/work/3ab64b07-4760-3b29-83e1-9f63cd39963f",
   source: "musicbrainz",

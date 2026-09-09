@@ -5,7 +5,7 @@ export const siaTripoutro = {
   pageTypeSlug: "song",
   slug: "sia-tripoutro",
   title: "Tripoutro",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "0c8a4339-b759-4319-8d3f-0faae7580253",
   externalLink: "https://musicbrainz.org/work/0c8a4339-b759-4319-8d3f-0faae7580253",
   source: "musicbrainz",

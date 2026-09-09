@@ -5,7 +5,7 @@ export const siaYouHaveBeenLoved = {
   pageTypeSlug: "song",
   slug: "sia-you-have-been-loved",
   title: "You Have Been Loved",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "bd234fcf-1013-45a9-a61b-f00b12a48214",
   externalLink: "https://musicbrainz.org/work/bd234fcf-1013-45a9-a61b-f00b12a48214",
   source: "musicbrainz",

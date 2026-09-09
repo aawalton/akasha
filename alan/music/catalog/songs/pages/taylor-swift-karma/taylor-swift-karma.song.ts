@@ -5,7 +5,7 @@ export const taylorSwiftKarma = {
   pageTypeSlug: "song",
   slug: "taylor-swift-karma",
   title: "Karma",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "6e2a34d7-b4b5-41e3-a7e8-e307dca8c90b",
   externalLink: "https://musicbrainz.org/work/6e2a34d7-b4b5-41e3-a7e8-e307dca8c90b",
   source: "musicbrainz",

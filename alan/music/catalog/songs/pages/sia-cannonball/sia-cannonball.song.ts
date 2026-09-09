@@ -5,7 +5,7 @@ export const siaCannonball = {
   pageTypeSlug: "song",
   slug: "sia-cannonball",
   title: "Cannonball",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "45c69e18-695d-41fd-ade9-fd1bfd24bed5",
   externalLink: "https://musicbrainz.org/work/45c69e18-695d-41fd-ade9-fd1bfd24bed5",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftEnchanted = {
   pageTypeSlug: "song",
   slug: "taylor-swift-enchanted",
   title: "Enchanted",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "5569eb48-0821-3d57-ab3b-80f63d3d37e4",
   externalLink: "https://musicbrainz.org/work/5569eb48-0821-3d57-ab3b-80f63d3d37e4",
   source: "musicbrainz",

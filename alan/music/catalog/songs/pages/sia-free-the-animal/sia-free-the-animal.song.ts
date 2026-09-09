@@ -5,7 +5,7 @@ export const siaFreeTheAnimal = {
   pageTypeSlug: "song",
   slug: "sia-free-the-animal",
   title: "Free the Animal",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "0178adc5-8239-415f-92ba-66eafef78199",
   externalLink: "https://musicbrainz.org/work/0178adc5-8239-415f-92ba-66eafef78199",
   source: "musicbrainz",

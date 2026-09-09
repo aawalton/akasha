@@ -5,7 +5,7 @@ export const taylorSwiftEndGame = {
   pageTypeSlug: "song",
   slug: "taylor-swift-end-game",
   title: "End Game",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "e449c947-9f26-4580-b8da-4ca64d7bfd3e",
   externalLink: "https://musicbrainz.org/work/e449c947-9f26-4580-b8da-4ca64d7bfd3e",
   source: "musicbrainz",

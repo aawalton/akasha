@@ -5,7 +5,7 @@ export const lilithMaxSacrifice = {
   pageTypeSlug: "song",
   slug: "lilith-max-sacrifice",
   title: "Sacrifice",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "0f83b330-5e1a-436e-a70a-30464cd28f7c",
   externalLink: "https://musicbrainz.org/recording/0f83b330-5e1a-436e-a70a-30464cd28f7c",
   source: "musicbrainz",

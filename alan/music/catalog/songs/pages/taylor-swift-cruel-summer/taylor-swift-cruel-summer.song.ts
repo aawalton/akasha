@@ -5,7 +5,7 @@ export const taylorSwiftCruelSummer = {
   pageTypeSlug: "song",
   slug: "taylor-swift-cruel-summer",
   title: "Cruel Summer",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "0e3ae332-8ba1-4040-894f-bb1f4ef925d6",
   externalLink: "https://musicbrainz.org/work/0e3ae332-8ba1-4040-894f-bb1f4ef925d6",
   source: "musicbrainz",

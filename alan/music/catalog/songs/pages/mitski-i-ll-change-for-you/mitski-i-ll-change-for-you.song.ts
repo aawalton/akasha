@@ -5,7 +5,7 @@ export const mitskiILlChangeForYou = {
   pageTypeSlug: "song",
   slug: "mitski-i-ll-change-for-you",
   title: "I’ll Change for You",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "ca5b97d5-0921-443b-9ab8-9ca01124b685",
   externalLink: "https://musicbrainz.org/work/ca5b97d5-0921-443b-9ab8-9ca01124b685",
   source: "musicbrainz",

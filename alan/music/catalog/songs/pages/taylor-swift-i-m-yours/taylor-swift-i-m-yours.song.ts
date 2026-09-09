@@ -5,7 +5,7 @@ export const taylorSwiftIMYours = {
   pageTypeSlug: "song",
   slug: "taylor-swift-i-m-yours",
   title: "I’m Yours",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ba157f6a-d81c-38f8-8a62-a578426bfdad",
   externalLink: "https://musicbrainz.org/work/ba157f6a-d81c-38f8-8a62-a578426bfdad",
   source: "musicbrainz",

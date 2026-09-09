@@ -5,7 +5,7 @@ export const siaStopTrying = {
   pageTypeSlug: "song",
   slug: "sia-stop-trying",
   title: "Stop Trying",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "8f2364cd-a9ef-4045-a936-5aaa763ba29e",
   externalLink: "https://musicbrainz.org/work/8f2364cd-a9ef-4045-a936-5aaa763ba29e",
   source: "musicbrainz",

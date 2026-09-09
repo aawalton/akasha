@@ -5,7 +5,7 @@ export const taylorSwiftCoolKids = {
   pageTypeSlug: "song",
   slug: "taylor-swift-cool-kids",
   title: "Cool Kids",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "3813cffb-067f-4627-9ef9-8eb0716c9bef",
   externalLink: "https://musicbrainz.org/work/3813cffb-067f-4627-9ef9-8eb0716c9bef",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaCrushMeWithYourLove = {
   pageTypeSlug: "song",
   slug: "sia-crush-me-with-your-love",
   title: "Crush Me With Your Love",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "8bb4f4c5-cec2-4317-b373-b756408d8266",
   externalLink: "https://musicbrainz.org/work/8bb4f4c5-cec2-4317-b373-b756408d8266",
   source: "musicbrainz",

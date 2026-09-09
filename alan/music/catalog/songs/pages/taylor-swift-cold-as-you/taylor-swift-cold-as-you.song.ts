@@ -5,7 +5,7 @@ export const taylorSwiftColdAsYou = {
   pageTypeSlug: "song",
   slug: "taylor-swift-cold-as-you",
   title: "Cold as You",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "4fa4e07c-89a3-49da-92de-a4a82fef5ad1",
   externalLink: "https://musicbrainz.org/work/4fa4e07c-89a3-49da-92de-a4a82fef5ad1",
   source: "musicbrainz",

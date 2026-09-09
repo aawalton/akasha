@@ -5,7 +5,7 @@ export const siaUnderneathTheChristmasLights = {
   pageTypeSlug: "song",
   slug: "sia-underneath-the-christmas-lights",
   title: "Underneath the Christmas Lights",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "b2622c6f-3c04-40df-984d-b07531f00783",
   externalLink: "https://musicbrainz.org/work/b2622c6f-3c04-40df-984d-b07531f00783",
   source: "musicbrainz",

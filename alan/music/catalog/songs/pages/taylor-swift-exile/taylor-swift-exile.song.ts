@@ -5,7 +5,7 @@ export const taylorSwiftExile = {
   pageTypeSlug: "song",
   slug: "taylor-swift-exile",
   title: "exile",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "965c0731-790f-4a8b-b8cf-0ef0f7f7d0c1",
   externalLink: "https://musicbrainz.org/work/965c0731-790f-4a8b-b8cf-0ef0f7f7d0c1",
   source: "musicbrainz",

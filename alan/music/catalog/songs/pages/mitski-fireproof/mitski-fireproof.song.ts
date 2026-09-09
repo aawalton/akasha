@@ -5,7 +5,7 @@ export const mitskiFireproof = {
   pageTypeSlug: "song",
   slug: "mitski-fireproof",
   title: "Fireproof",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "f336153d-776e-4277-8409-90869d1791d1",
   externalLink: "https://musicbrainz.org/work/f336153d-776e-4277-8409-90869d1791d1",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftIForgotThatYouExisted = {
   pageTypeSlug: "song",
   slug: "taylor-swift-i-forgot-that-you-existed",
   title: "I Forgot That You Existed",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "f7c9675a-121c-4ebf-88c8-a07535177caf",
   externalLink: "https://musicbrainz.org/work/f7c9675a-121c-4ebf-88c8-a07535177caf",
   source: "musicbrainz",

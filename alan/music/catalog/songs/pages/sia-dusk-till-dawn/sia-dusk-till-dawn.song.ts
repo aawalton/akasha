@@ -5,7 +5,7 @@ export const siaDuskTillDawn = {
   pageTypeSlug: "song",
   slug: "sia-dusk-till-dawn",
   title: "Dusk Till Dawn",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "63fe5390-3bb0-4754-940b-40a78571ec6f",
   externalLink: "https://musicbrainz.org/work/63fe5390-3bb0-4754-940b-40a78571ec6f",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaEyeOfTheNeedleBounceRemix = {
   pageTypeSlug: "song",
   slug: "sia-eye-of-the-needle-bounce-remix",
   title: "Eye of the Needle (Bounce remix)",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "28a95125-142f-48ed-ae34-3ef81f14cceb",
   externalLink: "https://musicbrainz.org/work/28a95125-142f-48ed-ae34-3ef81f14cceb",
   source: "musicbrainz",

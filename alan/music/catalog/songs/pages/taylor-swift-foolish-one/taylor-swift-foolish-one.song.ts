@@ -5,7 +5,7 @@ export const taylorSwiftFoolishOne = {
   pageTypeSlug: "song",
   slug: "taylor-swift-foolish-one",
   title: "Foolish One",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "5c8c4f39-ace8-4079-b9d4-555df1e2e546",
   externalLink: "https://musicbrainz.org/work/5c8c4f39-ace8-4079-b9d4-555df1e2e546",
   source: "musicbrainz",

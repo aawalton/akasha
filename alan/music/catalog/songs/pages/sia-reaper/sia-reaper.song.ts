@@ -5,7 +5,7 @@ export const siaReaper = {
   pageTypeSlug: "song",
   slug: "sia-reaper",
   title: "Reaper",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "26a2e610-11e2-4afc-9d82-c6ba55cdcaa4",
   externalLink: "https://musicbrainz.org/work/26a2e610-11e2-4afc-9d82-c6ba55cdcaa4",
   source: "musicbrainz",

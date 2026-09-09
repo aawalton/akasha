@@ -5,7 +5,7 @@ export const taylorSwift10DollarsAndA6Pack = {
   pageTypeSlug: "song",
   slug: "taylor-swift-10-dollars-and-a-6-pack",
   title: "10 Dollars and a 6 Pack",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "735aa6f0-2e93-431b-9255-436c7e8dc996",
   externalLink: "https://musicbrainz.org/work/735aa6f0-2e93-431b-9255-436c7e8dc996",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaRewrite = {
   pageTypeSlug: "song",
   slug: "sia-rewrite",
   title: "Rewrite",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "2b819c8b-01f5-43de-87a4-b4109b62c304",
   externalLink: "https://musicbrainz.org/work/2b819c8b-01f5-43de-87a4-b4109b62c304",
   source: "musicbrainz",

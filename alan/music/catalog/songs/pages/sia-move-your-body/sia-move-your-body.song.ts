@@ -5,7 +5,7 @@ export const siaMoveYourBody = {
   pageTypeSlug: "song",
   slug: "sia-move-your-body",
   title: "Move Your Body",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "90278a27-9ba8-46d9-8657-a9dcc49cb241",
   externalLink: "https://musicbrainz.org/work/90278a27-9ba8-46d9-8657-a9dcc49cb241",
   source: "musicbrainz",

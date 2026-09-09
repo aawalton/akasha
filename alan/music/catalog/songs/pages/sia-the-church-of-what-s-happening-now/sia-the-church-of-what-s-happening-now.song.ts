@@ -5,7 +5,7 @@ export const siaTheChurchOfWhatSHappeningNow = {
   pageTypeSlug: "song",
   slug: "sia-the-church-of-what-s-happening-now",
   title: "The Church of What’s Happening Now",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "62ae0c0b-f047-4bec-ab05-ce19254a4635",
   externalLink: "https://musicbrainz.org/work/62ae0c0b-f047-4bec-ab05-ce19254a4635",
   source: "musicbrainz",

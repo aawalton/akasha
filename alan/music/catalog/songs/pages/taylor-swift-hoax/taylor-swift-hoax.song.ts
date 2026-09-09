@@ -5,7 +5,7 @@ export const taylorSwiftHoax = {
   pageTypeSlug: "song",
   slug: "taylor-swift-hoax",
   title: "hoax",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "899bb16d-7894-4234-bb4b-b21982bee084",
   externalLink: "https://musicbrainz.org/work/899bb16d-7894-4234-bb4b-b21982bee084",
   source: "musicbrainz",

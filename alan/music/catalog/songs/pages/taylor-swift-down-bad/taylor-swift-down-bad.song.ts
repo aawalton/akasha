@@ -5,7 +5,7 @@ export const taylorSwiftDownBad = {
   pageTypeSlug: "song",
   slug: "taylor-swift-down-bad",
   title: "Down Bad",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "5aa09a7a-931a-49d1-904b-cccded07c524",
   externalLink: "https://musicbrainz.org/work/5aa09a7a-931a-49d1-904b-cccded07c524",
   source: "musicbrainz",

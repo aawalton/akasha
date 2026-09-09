@@ -5,7 +5,7 @@ export const mitskiPinkInTheNight = {
   pageTypeSlug: "song",
   slug: "mitski-pink-in-the-night",
   title: "Pink in the Night",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "41e141d0-7d35-42f1-b844-7bb45c0948ba",
   externalLink: "https://musicbrainz.org/work/41e141d0-7d35-42f1-b844-7bb45c0948ba",
   source: "musicbrainz",

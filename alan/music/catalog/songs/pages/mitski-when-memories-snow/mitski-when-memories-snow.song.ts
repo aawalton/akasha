@@ -5,7 +5,7 @@ export const mitskiWhenMemoriesSnow = {
   pageTypeSlug: "song",
   slug: "mitski-when-memories-snow",
   title: "When Memories Snow",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "49bda7f1-52af-47fd-9236-09d16fad6574",
   externalLink: "https://musicbrainz.org/work/49bda7f1-52af-47fd-9236-09d16fad6574",
   source: "musicbrainz",

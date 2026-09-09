@@ -5,7 +5,7 @@ export const siaIHadAHeart = {
   pageTypeSlug: "song",
   slug: "sia-i-had-a-heart",
   title: "I Had a Heart",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "9c89a7a3-a762-4edf-9d21-eba348ee5632",
   externalLink: "https://musicbrainz.org/work/9c89a7a3-a762-4edf-9d21-eba348ee5632",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftDelicate = {
   pageTypeSlug: "song",
   slug: "taylor-swift-delicate",
   title: "Delicate",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "441d26a3-c413-49b5-8cd6-18afd921eb41",
   externalLink: "https://musicbrainz.org/work/441d26a3-c413-49b5-8cd6-18afd921eb41",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftICanDoItWithABrokenHeart = {
   pageTypeSlug: "song",
   slug: "taylor-swift-i-can-do-it-with-a-broken-heart",
   title: "I Can Do It With a Broken Heart",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "9f2009b4-a116-45a5-87c9-f8c9ebc1c946",
   externalLink: "https://musicbrainz.org/work/9f2009b4-a116-45a5-87c9-f8c9ebc1c946",
   source: "musicbrainz",

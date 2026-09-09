@@ -5,7 +5,7 @@ export const siaUnderneathTheMistletoe = {
   pageTypeSlug: "song",
   slug: "sia-underneath-the-mistletoe",
   title: "Underneath the Mistletoe",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "10558dea-0b23-439b-9a30-5ce7a87c585b",
   externalLink: "https://musicbrainz.org/work/10558dea-0b23-439b-9a30-5ce7a87c585b",
   source: "musicbrainz",

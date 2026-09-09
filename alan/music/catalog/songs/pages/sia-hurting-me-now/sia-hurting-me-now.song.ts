@@ -5,7 +5,7 @@ export const siaHurtingMeNow = {
   pageTypeSlug: "song",
   slug: "sia-hurting-me-now",
   title: "Hurting Me Now",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "8a3b24f0-8eac-49e7-96e3-c519cb1a3acd",
   externalLink: "https://musicbrainz.org/work/8a3b24f0-8eac-49e7-96e3-c519cb1a3acd",
   source: "musicbrainz",

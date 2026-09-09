@@ -5,7 +5,7 @@ export const taylorSwiftClothesFromMissMabel = {
   pageTypeSlug: "song",
   slug: "taylor-swift-clothes-from-miss-mabel",
   title: "Clothes From Miss Mabel",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "7cb2cf5c-2cac-4d96-8d36-611c72347196",
   externalLink: "https://musicbrainz.org/work/7cb2cf5c-2cac-4d96-8d36-611c72347196",
   source: "musicbrainz",

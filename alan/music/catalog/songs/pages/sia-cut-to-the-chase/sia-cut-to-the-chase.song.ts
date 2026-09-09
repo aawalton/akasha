@@ -5,7 +5,7 @@ export const siaCutToTheChase = {
   pageTypeSlug: "song",
   slug: "sia-cut-to-the-chase",
   title: "Cut to the Chase",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "cbfb9f7f-9fd0-4468-a404-53c24e030373",
   externalLink: "https://musicbrainz.org/work/cbfb9f7f-9fd0-4468-a404-53c24e030373",
   source: "musicbrainz",

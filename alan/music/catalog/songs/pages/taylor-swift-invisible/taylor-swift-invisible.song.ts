@@ -5,7 +5,7 @@ export const taylorSwiftInvisible = {
   pageTypeSlug: "song",
   slug: "taylor-swift-invisible",
   title: "Invisible",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "f94238cb-8ca5-4e9d-a240-bb4df4b89a7f",
   externalLink: "https://musicbrainz.org/work/f94238cb-8ca5-4e9d-a240-bb4df4b89a7f",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaKillAndRun = {
   pageTypeSlug: "song",
   slug: "sia-kill-and-run",
   title: "Kill and Run",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "8d095a0d-d32a-4e81-bcec-58525d389428",
   externalLink: "https://musicbrainz.org/work/8d095a0d-d32a-4e81-bcec-58525d389428",
   source: "musicbrainz",

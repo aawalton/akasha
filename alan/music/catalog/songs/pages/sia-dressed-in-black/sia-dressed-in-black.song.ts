@@ -5,7 +5,7 @@ export const siaDressedInBlack = {
   pageTypeSlug: "song",
   slug: "sia-dressed-in-black",
   title: "Dressed in Black",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "5614edd6-52f8-4dfc-ae6b-7a4276c6a1eb",
   externalLink: "https://musicbrainz.org/work/5614edd6-52f8-4dfc-ae6b-7a4276c6a1eb",
   source: "musicbrainz",

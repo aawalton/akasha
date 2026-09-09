@@ -5,7 +5,7 @@ export const taylorSwiftGlitch = {
   pageTypeSlug: "song",
   slug: "taylor-swift-glitch",
   title: "Glitch",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "be72a7cb-67b8-4551-8ed5-d8f0c9752e9e",
   externalLink: "https://musicbrainz.org/work/be72a7cb-67b8-4551-8ed5-d8f0c9752e9e",
   source: "musicbrainz",

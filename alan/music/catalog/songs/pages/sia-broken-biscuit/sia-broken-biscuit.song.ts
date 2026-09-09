@@ -5,7 +5,7 @@ export const siaBrokenBiscuit = {
   pageTypeSlug: "song",
   slug: "sia-broken-biscuit",
   title: "Broken Biscuit",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "a2d5df7c-eb6a-4df3-ab52-6ad3c47adf64",
   externalLink: "https://musicbrainz.org/work/a2d5df7c-eb6a-4df3-ab52-6ad3c47adf64",
   source: "musicbrainz",

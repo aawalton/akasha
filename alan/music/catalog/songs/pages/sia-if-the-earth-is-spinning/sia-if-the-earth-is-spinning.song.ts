@@ -5,7 +5,7 @@ export const siaIfTheEarthIsSpinning = {
   pageTypeSlug: "song",
   slug: "sia-if-the-earth-is-spinning",
   title: "If the Earth Is Spinning",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "6e000f3d-3100-4dd2-89b5-59988467cf67",
   externalLink: "https://musicbrainz.org/work/6e000f3d-3100-4dd2-89b5-59988467cf67",
   source: "musicbrainz",

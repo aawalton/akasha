@@ -5,7 +5,7 @@ export const siaBangMyHead = {
   pageTypeSlug: "song",
   slug: "sia-bang-my-head",
   title: "Bang My Head",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "86337cb8-0fc7-49d9-930a-cc119ce76b88",
   externalLink: "https://musicbrainz.org/work/86337cb8-0fc7-49d9-930a-cc119ce76b88",
   source: "musicbrainz",

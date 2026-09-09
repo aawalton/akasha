@@ -5,7 +5,7 @@ export const siaFirecracker2 = {
   pageTypeSlug: "song",
   slug: "sia-firecracker-2",
   title: "Firecracker",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "6cf85669-d02f-4823-99a5-0c6dd61ca743",
   externalLink: "https://musicbrainz.org/work/6cf85669-d02f-4823-99a5-0c6dd61ca743",
   source: "musicbrainz",

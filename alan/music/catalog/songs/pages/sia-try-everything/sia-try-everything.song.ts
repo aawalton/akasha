@@ -5,7 +5,7 @@ export const siaTryEverything = {
   pageTypeSlug: "song",
   slug: "sia-try-everything",
   title: "Try Everything",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "fd98ce8b-a512-45ce-b710-e1dbfce39e91",
   externalLink: "https://musicbrainz.org/work/fd98ce8b-a512-45ce-b710-e1dbfce39e91",
   source: "musicbrainz",

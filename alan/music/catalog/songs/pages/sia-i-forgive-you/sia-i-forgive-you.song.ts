@@ -5,7 +5,7 @@ export const siaIForgiveYou = {
   pageTypeSlug: "song",
   slug: "sia-i-forgive-you",
   title: "I Forgive You",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "ae3405a2-8dcb-4fb5-b7f8-2be993ac32e9",
   externalLink: "https://musicbrainz.org/work/ae3405a2-8dcb-4fb5-b7f8-2be993ac32e9",
   source: "musicbrainz",

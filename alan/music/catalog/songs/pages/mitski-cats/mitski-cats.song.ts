@@ -5,7 +5,7 @@ export const mitskiCats = {
   pageTypeSlug: "song",
   slug: "mitski-cats",
   title: "Cats",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "7b7dbb7b-9f39-44c9-ae6a-d5aee7b28f99",
   externalLink: "https://musicbrainz.org/work/7b7dbb7b-9f39-44c9-ae6a-d5aee7b28f99",
   source: "musicbrainz",

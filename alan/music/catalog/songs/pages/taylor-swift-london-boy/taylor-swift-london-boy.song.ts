@@ -5,7 +5,7 @@ export const taylorSwiftLondonBoy = {
   pageTypeSlug: "song",
   slug: "taylor-swift-london-boy",
   title: "London Boy",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "2c161280-b221-4cad-9cce-a4fabf498200",
   externalLink: "https://musicbrainz.org/work/2c161280-b221-4cad-9cce-a4fabf498200",
   source: "musicbrainz",

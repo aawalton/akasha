@@ -5,7 +5,7 @@ export const taylorSwiftIDidSomethingBad = {
   pageTypeSlug: "song",
   slug: "taylor-swift-i-did-something-bad",
   title: "I Did Something Bad",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "d878513a-c694-4d5c-8771-f3bf55f836ae",
   externalLink: "https://musicbrainz.org/work/d878513a-c694-4d5c-8771-f3bf55f836ae",
   source: "musicbrainz",

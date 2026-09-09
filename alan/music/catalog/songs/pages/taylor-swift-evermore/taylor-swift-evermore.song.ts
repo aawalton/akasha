@@ -5,7 +5,7 @@ export const taylorSwiftEvermore = {
   pageTypeSlug: "song",
   slug: "taylor-swift-evermore",
   title: "evermore",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "33d0bc78-0ee7-4d6a-ae12-7747e45caa54",
   externalLink: "https://musicbrainz.org/work/33d0bc78-0ee7-4d6a-ae12-7747e45caa54",
   source: "musicbrainz",

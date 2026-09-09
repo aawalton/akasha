@@ -5,7 +5,7 @@ export const taylorSwiftConeyIsland = {
   pageTypeSlug: "song",
   slug: "taylor-swift-coney-island",
   title: "coney island",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "100b0575-337a-443d-8845-9283eeda056a",
   externalLink: "https://musicbrainz.org/work/100b0575-337a-443d-8845-9283eeda056a",
   source: "musicbrainz",

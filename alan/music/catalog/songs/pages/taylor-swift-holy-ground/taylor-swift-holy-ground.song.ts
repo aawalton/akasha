@@ -5,7 +5,7 @@ export const taylorSwiftHolyGround = {
   pageTypeSlug: "song",
   slug: "taylor-swift-holy-ground",
   title: "Holy Ground",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "a23f5639-eb02-4912-b8f1-9a7f4d2be641",
   externalLink: "https://musicbrainz.org/work/a23f5639-eb02-4912-b8f1-9a7f4d2be641",
   source: "musicbrainz",

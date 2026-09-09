@@ -5,7 +5,7 @@ export const siaYouLostMe = {
   pageTypeSlug: "song",
   slug: "sia-you-lost-me",
   title: "You Lost Me",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "1f58f9b8-1c41-31a4-9707-4d6eaaf5b38d",
   externalLink: "https://musicbrainz.org/work/1f58f9b8-1c41-31a4-9707-4d6eaaf5b38d",
   source: "musicbrainz",

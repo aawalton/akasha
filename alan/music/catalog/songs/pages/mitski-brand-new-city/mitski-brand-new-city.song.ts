@@ -5,7 +5,7 @@ export const mitskiBrandNewCity = {
   pageTypeSlug: "song",
   slug: "mitski-brand-new-city",
   title: "Brand New City",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "3e0483f2-fe06-47d0-b526-8618d17e83c5",
   externalLink: "https://musicbrainz.org/work/3e0483f2-fe06-47d0-b526-8618d17e83c5",
   source: "musicbrainz",

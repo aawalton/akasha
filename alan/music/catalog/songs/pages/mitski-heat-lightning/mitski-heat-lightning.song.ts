@@ -5,7 +5,7 @@ export const mitskiHeatLightning = {
   pageTypeSlug: "song",
   slug: "mitski-heat-lightning",
   title: "Heat Lightning",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "ba674b24-940d-4674-8eba-3cd1ca645562",
   externalLink: "https://musicbrainz.org/work/ba674b24-940d-4674-8eba-3cd1ca645562",
   source: "musicbrainz",

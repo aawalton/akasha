@@ -5,7 +5,7 @@ export const taylorSwiftIMEveryWoman = {
   pageTypeSlug: "song",
   slug: "taylor-swift-i-m-every-woman",
   title: "I’m Every Woman",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "27c14c92-43f0-43a6-87d5-6a4ca3f94499",
   externalLink: "https://musicbrainz.org/work/27c14c92-43f0-43a6-87d5-6a4ca3f94499",
   source: "musicbrainz",

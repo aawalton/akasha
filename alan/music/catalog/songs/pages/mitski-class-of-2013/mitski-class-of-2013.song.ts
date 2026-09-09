@@ -5,7 +5,7 @@ export const mitskiClassOf2013 = {
   pageTypeSlug: "song",
   slug: "mitski-class-of-2013",
   title: "Class of 2013",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "18354fdb-e29f-47cc-becc-d15cd703dac5",
   externalLink: "https://musicbrainz.org/work/18354fdb-e29f-47cc-becc-d15cd703dac5",
   source: "musicbrainz",

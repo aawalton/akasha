@@ -5,7 +5,7 @@ export const mitskiGeyser = {
   pageTypeSlug: "song",
   slug: "mitski-geyser",
   title: "Geyser",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "83913eb5-6889-4d8a-85d8-19dc71f6a0c9",
   externalLink: "https://musicbrainz.org/work/83913eb5-6889-4d8a-85d8-19dc71f6a0c9",
   source: "musicbrainz",

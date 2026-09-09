@@ -5,7 +5,7 @@ export const siaHeavenCanWait = {
   pageTypeSlug: "song",
   slug: "sia-heaven-can-wait",
   title: "Heaven Can Wait",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "f0af317d-937f-4619-b647-a135c6748c98",
   externalLink: "https://musicbrainz.org/work/f0af317d-937f-4619-b647-a135c6748c98",
   source: "musicbrainz",

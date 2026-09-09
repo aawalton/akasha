@@ -5,7 +5,7 @@ export const siaNotInAComaInterestIsInAFullStop = {
   pageTypeSlug: "song",
   slug: "sia-not-in-a-coma-interest-is-in-a-full-stop",
   title: "Not In A Coma Interest Is In A Full-stop",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "f6a56d72-8bb7-4d1d-9c27-af23d5eea1a9",
   externalLink: "https://musicbrainz.org/work/f6a56d72-8bb7-4d1d-9c27-af23d5eea1a9",
   source: "musicbrainz",

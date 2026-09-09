@@ -5,7 +5,7 @@ export const siaFlashlight = {
   pageTypeSlug: "song",
   slug: "sia-flashlight",
   title: "Flashlight",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "6131bd2d-aca6-44fc-bd63-3e73a6ecfcdd",
   externalLink: "https://musicbrainz.org/work/6131bd2d-aca6-44fc-bd63-3e73a6ecfcdd",
   source: "musicbrainz",

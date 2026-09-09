@@ -5,7 +5,7 @@ export const lilithMaxPeasantSThrone = {
   pageTypeSlug: "song",
   slug: "lilith-max-peasant-s-throne",
   title: "Peasant's Throne",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "2fd2fca5-c875-479e-91a3-30ca71ccf7c9",
   externalLink: "https://musicbrainz.org/recording/2fd2fca5-c875-479e-91a3-30ca71ccf7c9",
   source: "musicbrainz",

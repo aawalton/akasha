@@ -5,7 +5,7 @@ export const taylorSwiftFreshOutTheSlammer = {
   pageTypeSlug: "song",
   slug: "taylor-swift-fresh-out-the-slammer",
   title: "Fresh Out the Slammer",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "2c27d345-26d5-47d2-8628-152e36cf483d",
   externalLink: "https://musicbrainz.org/work/2c27d345-26d5-47d2-8628-152e36cf483d",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaYouReMyFlame = {
   pageTypeSlug: "song",
   slug: "sia-you-re-my-flame",
   title: "You’re My Flame",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "f51d7d32-fd1b-4296-8fa6-996d75bd0022",
   externalLink: "https://musicbrainz.org/work/f51d7d32-fd1b-4296-8fa6-996d75bd0022",
   source: "musicbrainz",

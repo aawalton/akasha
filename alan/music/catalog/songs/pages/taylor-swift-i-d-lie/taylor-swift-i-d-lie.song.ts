@@ -5,7 +5,7 @@ export const taylorSwiftIDLie = {
   pageTypeSlug: "song",
   slug: "taylor-swift-i-d-lie",
   title: "I’d Lie",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "be23209d-34fe-4532-bb38-8f9cbdf829d6",
   externalLink: "https://musicbrainz.org/work/be23209d-34fe-4532-bb38-8f9cbdf829d6",
   source: "musicbrainz",

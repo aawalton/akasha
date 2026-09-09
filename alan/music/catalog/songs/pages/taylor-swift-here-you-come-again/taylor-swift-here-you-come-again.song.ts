@@ -5,7 +5,7 @@ export const taylorSwiftHereYouComeAgain = {
   pageTypeSlug: "song",
   slug: "taylor-swift-here-you-come-again",
   title: "Here You Come Again",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "077d295d-b664-4eda-8283-fbbfd24609a6",
   externalLink: "https://musicbrainz.org/work/077d295d-b664-4eda-8283-fbbfd24609a6",
   source: "musicbrainz",

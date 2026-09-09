@@ -5,7 +5,7 @@ export const taylorSwiftClosure = {
   pageTypeSlug: "song",
   slug: "taylor-swift-closure",
   title: "closure",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "b3b693f8-7db7-4852-bc68-4e965083e0c5",
   externalLink: "https://musicbrainz.org/work/b3b693f8-7db7-4852-bc68-4e965083e0c5",
   source: "musicbrainz",

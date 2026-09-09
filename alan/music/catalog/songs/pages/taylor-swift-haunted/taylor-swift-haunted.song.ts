@@ -5,7 +5,7 @@ export const taylorSwiftHaunted = {
   pageTypeSlug: "song",
   slug: "taylor-swift-haunted",
   title: "Haunted",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "642e67bb-1e6f-3275-93fb-02d99f55ac85",
   externalLink: "https://musicbrainz.org/work/642e67bb-1e6f-3275-93fb-02d99f55ac85",
   source: "musicbrainz",

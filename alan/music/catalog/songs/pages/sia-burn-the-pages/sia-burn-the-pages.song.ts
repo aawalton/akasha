@@ -5,7 +5,7 @@ export const siaBurnThePages = {
   pageTypeSlug: "song",
   slug: "sia-burn-the-pages",
   title: "Burn the Pages",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "b7da8e9e-b9ee-4391-8063-808a76699aa3",
   externalLink: "https://musicbrainz.org/work/b7da8e9e-b9ee-4391-8063-808a76699aa3",
   source: "musicbrainz",

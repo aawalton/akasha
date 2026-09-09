@@ -5,7 +5,7 @@ export const mitskiTheDeal = {
   pageTypeSlug: "song",
   slug: "mitski-the-deal",
   title: "The Deal",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "12b1bf0f-2e7d-4d73-98e1-bc042a4f51d0",
   externalLink: "https://musicbrainz.org/work/12b1bf0f-2e7d-4d73-98e1-bc042a4f51d0",
   source: "musicbrainz",

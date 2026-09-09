@@ -5,7 +5,7 @@ export const mitskiJoblessMonday = {
   pageTypeSlug: "song",
   slug: "mitski-jobless-monday",
   title: "Jobless Monday",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "399ab392-2409-4628-89ef-fa6bb16e4682",
   externalLink: "https://musicbrainz.org/work/399ab392-2409-4628-89ef-fa6bb16e4682",
   source: "musicbrainz",

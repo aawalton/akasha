@@ -5,7 +5,7 @@ export const siaWhatTheFutureHolds = {
   pageTypeSlug: "song",
   slug: "sia-what-the-future-holds",
   title: "What the Future Holds",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "443f6d04-3f6f-4430-83aa-59bfaaff8e7a",
   externalLink: "https://musicbrainz.org/work/443f6d04-3f6f-4430-83aa-59bfaaff8e7a",
   source: "musicbrainz",

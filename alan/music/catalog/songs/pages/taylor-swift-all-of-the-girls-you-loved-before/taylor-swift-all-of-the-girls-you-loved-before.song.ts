@@ -5,7 +5,7 @@ export const taylorSwiftAllOfTheGirlsYouLovedBefore = {
   pageTypeSlug: "song",
   slug: "taylor-swift-all-of-the-girls-you-loved-before",
   title: "All of the Girls You Loved Before",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "2164ddf9-66cd-43f4-a5fc-1d541b3992fe",
   externalLink: "https://musicbrainz.org/work/2164ddf9-66cd-43f4-a5fc-1d541b3992fe",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaElasticHeart = {
   pageTypeSlug: "song",
   slug: "sia-elastic-heart",
   title: "Elastic Heart",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "19d264df-da69-4a70-8778-2f55ff5a9f4c",
   externalLink: "https://musicbrainz.org/work/19d264df-da69-4a70-8778-2f55ff5a9f4c",
   source: "musicbrainz",

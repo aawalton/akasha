@@ -5,7 +5,7 @@ export const taylorSwiftHowYouGetTheGirl = {
   pageTypeSlug: "song",
   slug: "taylor-swift-how-you-get-the-girl",
   title: "How You Get the Girl",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "0d79d824-d6ae-4961-ad52-cf81b611e2d6",
   externalLink: "https://musicbrainz.org/work/0d79d824-d6ae-4961-ad52-cf81b611e2d6",
   source: "musicbrainz",

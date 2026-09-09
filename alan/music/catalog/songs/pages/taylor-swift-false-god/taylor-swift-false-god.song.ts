@@ -5,7 +5,7 @@ export const taylorSwiftFalseGod = {
   pageTypeSlug: "song",
   slug: "taylor-swift-false-god",
   title: "False God",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "9c8e847b-ef1e-4b7e-a028-8c6db7802ac6",
   externalLink: "https://musicbrainz.org/work/9c8e847b-ef1e-4b7e-a028-8c6db7802ac6",
   source: "musicbrainz",

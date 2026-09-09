@@ -5,7 +5,7 @@ export const siaOneMillionBullets = {
   pageTypeSlug: "song",
   slug: "sia-one-million-bullets",
   title: "One Million Bullets",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "60552962-4585-4a7c-8f50-e5ebf03e7db1",
   externalLink: "https://musicbrainz.org/work/60552962-4585-4a7c-8f50-e5ebf03e7db1",
   source: "musicbrainz",

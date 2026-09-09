@@ -5,7 +5,7 @@ export const taylorSwiftIsItOverNow = {
   pageTypeSlug: "song",
   slug: "taylor-swift-is-it-over-now",
   title: "Is It Over Now?",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "33df29b6-ffd0-4572-881b-f2232af7ae25",
   externalLink: "https://musicbrainz.org/work/33df29b6-ffd0-4572-881b-f2232af7ae25",
   source: "musicbrainz",

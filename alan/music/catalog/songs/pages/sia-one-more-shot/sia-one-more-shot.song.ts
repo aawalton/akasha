@@ -5,7 +5,7 @@ export const siaOneMoreShot = {
   pageTypeSlug: "song",
   slug: "sia-one-more-shot",
   title: "One More Shot",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "3c5146fb-307d-4877-958a-d15ee9f56270",
   externalLink: "https://musicbrainz.org/work/3c5146fb-307d-4877-958a-d15ee9f56270",
   source: "musicbrainz",

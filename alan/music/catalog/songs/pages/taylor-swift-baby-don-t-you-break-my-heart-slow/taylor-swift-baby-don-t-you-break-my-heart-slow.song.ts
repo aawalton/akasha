@@ -5,7 +5,7 @@ export const taylorSwiftBabyDonTYouBreakMyHeartSlow = {
   pageTypeSlug: "song",
   slug: "taylor-swift-baby-don-t-you-break-my-heart-slow",
   title: "Baby, Don’t You Break My Heart Slow",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "9a2f7d24-e836-3c19-be20-fb92a468bacb",
   externalLink: "https://musicbrainz.org/work/9a2f7d24-e836-3c19-be20-fb92a468bacb",
   source: "musicbrainz",

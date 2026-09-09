@@ -5,7 +5,7 @@ export const siaMyOldSantaClaus = {
   pageTypeSlug: "song",
   slug: "sia-my-old-santa-claus",
   title: "My Old Santa Claus",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "8afebdd0-cb7d-495b-af49-54f0cabd09ac",
   externalLink: "https://musicbrainz.org/work/8afebdd0-cb7d-495b-af49-54f0cabd09ac",
   source: "musicbrainz",

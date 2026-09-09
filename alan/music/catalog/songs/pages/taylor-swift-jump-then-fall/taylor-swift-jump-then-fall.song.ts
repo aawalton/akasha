@@ -5,7 +5,7 @@ export const taylorSwiftJumpThenFall = {
   pageTypeSlug: "song",
   slug: "taylor-swift-jump-then-fall",
   title: "Jump Then Fall",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "6fb37e3c-023b-49b8-9050-4a18c049d1d1",
   externalLink: "https://musicbrainz.org/work/6fb37e3c-023b-49b8-9050-4a18c049d1d1",
   source: "musicbrainz",

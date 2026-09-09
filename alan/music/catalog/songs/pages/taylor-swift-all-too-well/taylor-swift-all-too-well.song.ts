@@ -5,7 +5,7 @@ export const taylorSwiftAllTooWell = {
   pageTypeSlug: "song",
   slug: "taylor-swift-all-too-well",
   title: "All Too Well",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "2a7ec633-1bdc-4d08-b75b-e462c3ee4a20",
   externalLink: "https://musicbrainz.org/work/2a7ec633-1bdc-4d08-b75b-e462c3ee4a20",
   source: "musicbrainz",

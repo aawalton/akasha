@@ -5,7 +5,7 @@ export const taylorSwiftBiggerThanTheWholeSky = {
   pageTypeSlug: "song",
   slug: "taylor-swift-bigger-than-the-whole-sky",
   title: "Bigger Than the Whole Sky",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "25e67d46-02f7-4a24-b27e-48d5048fd20d",
   externalLink: "https://musicbrainz.org/work/25e67d46-02f7-4a24-b27e-48d5048fd20d",
   source: "musicbrainz",

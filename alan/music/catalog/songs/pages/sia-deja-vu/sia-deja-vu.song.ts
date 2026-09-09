@@ -5,7 +5,7 @@ export const siaDejaVu = {
   pageTypeSlug: "song",
   slug: "sia-deja-vu",
   title: "Déjà Vu",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "104d2ce5-d9b6-465b-84e9-83b885be71d3",
   externalLink: "https://musicbrainz.org/work/104d2ce5-d9b6-465b-84e9-83b885be71d3",
   source: "musicbrainz",

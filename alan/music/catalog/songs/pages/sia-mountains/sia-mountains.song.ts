@@ -5,7 +5,7 @@ export const siaMountains = {
   pageTypeSlug: "song",
   slug: "sia-mountains",
   title: "Mountains",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "e843b885-43f4-43e7-beae-10aa281ec25e",
   externalLink: "https://musicbrainz.org/work/e843b885-43f4-43e7-beae-10aa281ec25e",
   source: "musicbrainz",

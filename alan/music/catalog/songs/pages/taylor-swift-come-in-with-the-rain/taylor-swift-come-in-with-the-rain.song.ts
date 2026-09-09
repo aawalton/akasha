@@ -5,7 +5,7 @@ export const taylorSwiftComeInWithTheRain = {
   pageTypeSlug: "song",
   slug: "taylor-swift-come-in-with-the-rain",
   title: "Come In With the Rain",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "72de71b9-1173-4880-874f-817a9d046cd4",
   externalLink: "https://musicbrainz.org/work/72de71b9-1173-4880-874f-817a9d046cd4",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const mitskiCopCar = {
   pageTypeSlug: "song",
   slug: "mitski-cop-car",
   title: "Cop Car",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "e3ad9a52-ec65-403d-89ce-f92066a91cb9",
   externalLink: "https://musicbrainz.org/work/e3ad9a52-ec65-403d-89ce-f92066a91cb9",
   source: "musicbrainz",

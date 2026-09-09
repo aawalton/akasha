@@ -5,7 +5,7 @@ export const siaCandyCaneLane = {
   pageTypeSlug: "song",
   slug: "sia-candy-cane-lane",
   title: "Candy Cane Lane",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "b26b9781-72e2-43c5-bddd-c9bd142f7281",
   externalLink: "https://musicbrainz.org/work/b26b9781-72e2-43c5-bddd-c9bd142f7281",
   source: "musicbrainz",

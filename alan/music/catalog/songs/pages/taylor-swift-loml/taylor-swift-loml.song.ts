@@ -5,7 +5,7 @@ export const taylorSwiftLoml = {
   pageTypeSlug: "song",
   slug: "taylor-swift-loml",
   title: "loml",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "3ebe6704-cd95-40de-b171-73c2e82d8ad7",
   externalLink: "https://musicbrainz.org/work/3ebe6704-cd95-40de-b171-73c2e82d8ad7",
   source: "musicbrainz",

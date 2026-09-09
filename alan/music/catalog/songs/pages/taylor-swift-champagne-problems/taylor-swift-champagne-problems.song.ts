@@ -5,7 +5,7 @@ export const taylorSwiftChampagneProblems = {
   pageTypeSlug: "song",
   slug: "taylor-swift-champagne-problems",
   title: "champagne problems",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "a6503d19-0752-408b-9934-1ae426cf9a45",
   externalLink: "https://musicbrainz.org/work/a6503d19-0752-408b-9934-1ae426cf9a45",
   source: "musicbrainz",

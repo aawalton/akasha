@@ -5,7 +5,7 @@ export const mitskiComeIntoTheWater = {
   pageTypeSlug: "song",
   slug: "mitski-come-into-the-water",
   title: "Come Into the Water",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "b1f83feb-5404-4f93-a8ca-6bef3dc7e64d",
   externalLink: "https://musicbrainz.org/work/b1f83feb-5404-4f93-a8ca-6bef3dc7e64d",
   source: "musicbrainz",

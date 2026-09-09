@@ -5,7 +5,7 @@ export const mitskiMyBodySMadeOfCrushedLittleStars = {
   pageTypeSlug: "song",
   slug: "mitski-my-body-s-made-of-crushed-little-stars",
   title: "My Body’s Made of Crushed Little Stars",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "8ed4dedf-e075-4e14-80f7-5f45f9ad86e8",
   externalLink: "https://musicbrainz.org/work/8ed4dedf-e075-4e14-80f7-5f45f9ad86e8",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaWildOnes = {
   pageTypeSlug: "song",
   slug: "sia-wild-ones",
   title: "Wild Ones",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "2900b809-c5c4-4f99-884f-a60bd14c6cda",
   externalLink: "https://musicbrainz.org/work/2900b809-c5c4-4f99-884f-a60bd14c6cda",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaDoubleRainbow = {
   pageTypeSlug: "song",
   slug: "sia-double-rainbow",
   title: "Double Rainbow",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "8549b012-b041-48b8-9e91-1323def803fa",
   externalLink: "https://musicbrainz.org/work/8549b012-b041-48b8-9e91-1323def803fa",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftApologize = {
   pageTypeSlug: "song",
   slug: "taylor-swift-apologize",
   title: "Apologize",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "8583154f-e5a5-4247-879e-52937d2d3238",
   externalLink: "https://musicbrainz.org/work/8583154f-e5a5-4247-879e-52937d2d3238",
   source: "musicbrainz",

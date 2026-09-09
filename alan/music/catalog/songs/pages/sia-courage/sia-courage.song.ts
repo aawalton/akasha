@@ -5,7 +5,7 @@ export const siaCourage = {
   pageTypeSlug: "song",
   slug: "sia-courage",
   title: "Courage",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "188179ca-00b1-4714-a42b-23e0dbcec1bd",
   externalLink: "https://musicbrainz.org/work/188179ca-00b1-4714-a42b-23e0dbcec1bd",
   source: "musicbrainz",

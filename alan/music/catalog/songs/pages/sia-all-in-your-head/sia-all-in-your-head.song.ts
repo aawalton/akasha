@@ -5,7 +5,7 @@ export const siaAllInYourHead = {
   pageTypeSlug: "song",
   slug: "sia-all-in-your-head",
   title: "All in Your Head",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "7974fdb3-4954-4018-8e62-89c8e3368f04",
   externalLink: "https://musicbrainz.org/work/7974fdb3-4954-4018-8e62-89c8e3368f04",
   source: "musicbrainz",

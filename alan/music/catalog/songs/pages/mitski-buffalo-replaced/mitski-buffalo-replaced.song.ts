@@ -5,7 +5,7 @@ export const mitskiBuffaloReplaced = {
   pageTypeSlug: "song",
   slug: "mitski-buffalo-replaced",
   title: "Buffalo Replaced",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "253d0143-d90d-4531-9ab8-570df1005d1e",
   externalLink: "https://musicbrainz.org/work/253d0143-d90d-4531-9ab8-570df1005d1e",
   source: "musicbrainz",

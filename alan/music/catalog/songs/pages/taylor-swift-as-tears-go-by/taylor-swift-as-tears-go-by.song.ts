@@ -5,7 +5,7 @@ export const taylorSwiftAsTearsGoBy = {
   pageTypeSlug: "song",
   slug: "taylor-swift-as-tears-go-by",
   title: "As Tears Go By",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "e04355f6-8117-3cf0-bf03-0ec22384f4c0",
   externalLink: "https://musicbrainz.org/work/e04355f6-8117-3cf0-bf03-0ec22384f4c0",
   source: "musicbrainz",

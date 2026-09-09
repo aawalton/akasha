@@ -5,7 +5,7 @@ export const siaLovedMeBackToLife = {
   pageTypeSlug: "song",
   slug: "sia-loved-me-back-to-life",
   title: "Loved Me Back to Life",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "a9fb8a68-3fb1-4a95-bff5-618ab9a5ca46",
   externalLink: "https://musicbrainz.org/work/a9fb8a68-3fb1-4a95-bff5-618ab9a5ca46",
   source: "musicbrainz",

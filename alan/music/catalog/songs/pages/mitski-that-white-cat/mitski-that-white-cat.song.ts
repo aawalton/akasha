@@ -5,7 +5,7 @@ export const mitskiThatWhiteCat = {
   pageTypeSlug: "song",
   slug: "mitski-that-white-cat",
   title: "That White Cat",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "e02269e0-55fa-4591-9006-231155443fa1",
   externalLink: "https://musicbrainz.org/work/e02269e0-55fa-4591-9006-231155443fa1",
   source: "musicbrainz",

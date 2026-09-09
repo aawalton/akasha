@@ -5,7 +5,7 @@ export const taylorSwiftClean = {
   pageTypeSlug: "song",
   slug: "taylor-swift-clean",
   title: "Clean",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "3e70b356-83a0-4fbf-8df4-3e5755c6d9fe",
   externalLink: "https://musicbrainz.org/work/3e70b356-83a0-4fbf-8df4-3e5755c6d9fe",
   source: "musicbrainz",

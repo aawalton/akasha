@@ -5,7 +5,7 @@ export const siaLikeWater = {
   pageTypeSlug: "song",
   slug: "sia-like-water",
   title: "Like Water",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "cad88818-826b-4cc2-952e-de2d2bba084e",
   externalLink: "https://musicbrainz.org/work/cad88818-826b-4cc2-952e-de2d2bba084e",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const lilithMaxSeraph = {
   pageTypeSlug: "song",
   slug: "lilith-max-seraph",
   title: "Seraph",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "53a923bf-e6c4-4ea0-9663-b5ab29311c97",
   externalLink: "https://musicbrainz.org/recording/53a923bf-e6c4-4ea0-9663-b5ab29311c97",
   source: "musicbrainz",

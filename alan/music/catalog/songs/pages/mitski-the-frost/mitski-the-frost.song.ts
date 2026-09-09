@@ -5,7 +5,7 @@ export const mitskiTheFrost = {
   pageTypeSlug: "song",
   slug: "mitski-the-frost",
   title: "The Frost",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "7343df08-4abb-49ac-91ab-f9302a34233c",
   externalLink: "https://musicbrainz.org/work/7343df08-4abb-49ac-91ab-f9302a34233c",
   source: "musicbrainz",

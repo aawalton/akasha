@@ -5,7 +5,7 @@ export const lilithMaxTheCautionaryTale = {
   pageTypeSlug: "song",
   slug: "lilith-max-the-cautionary-tale",
   title: "The Cautionary Tale",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "657f8a0b-ff1b-4af7-96d7-60014f6bf7d6",
   externalLink: "https://musicbrainz.org/recording/657f8a0b-ff1b-4af7-96d7-60014f6bf7d6",
   source: "musicbrainz",

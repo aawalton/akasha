@@ -5,7 +5,7 @@ export const taylorSwiftCallItWhatYouWant = {
   pageTypeSlug: "song",
   slug: "taylor-swift-call-it-what-you-want",
   title: "Call It What You Want",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "c5cadac2-a2fd-4fda-b5db-064e21180efb",
   externalLink: "https://musicbrainz.org/work/c5cadac2-a2fd-4fda-b5db-064e21180efb",
   source: "musicbrainz",

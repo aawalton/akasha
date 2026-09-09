@@ -5,7 +5,7 @@ export const siaDevilInMe = {
   pageTypeSlug: "song",
   slug: "sia-devil-in-me",
   title: "Devil in Me",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "b2b00522-62c4-43ba-a815-3c443b5d8bce",
   externalLink: "https://musicbrainz.org/work/b2b00522-62c4-43ba-a815-3c443b5d8bce",
   source: "musicbrainz",

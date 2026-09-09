@@ -5,7 +5,7 @@ export const siaHeyBoy2 = {
   pageTypeSlug: "song",
   slug: "sia-hey-boy-2",
   title: "Hey Boy",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "7712874f-7886-4a8a-b84b-9475a41e8351",
   externalLink: "https://musicbrainz.org/work/7712874f-7886-4a8a-b84b-9475a41e8351",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftBreathless = {
   pageTypeSlug: "song",
   slug: "taylor-swift-breathless",
   title: "Breathless",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "196407bb-1746-4660-a3f0-37d986f96580",
   externalLink: "https://musicbrainz.org/work/196407bb-1746-4660-a3f0-37d986f96580",
   source: "musicbrainz",

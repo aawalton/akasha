@@ -5,7 +5,7 @@ export const mitskiLiquidSmooth = {
   pageTypeSlug: "song",
   slug: "mitski-liquid-smooth",
   title: "Liquid Smooth",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "6321829c-17b8-440c-90d2-0b0dc37afcc0",
   externalLink: "https://musicbrainz.org/work/6321829c-17b8-440c-90d2-0b0dc37afcc0",
   source: "musicbrainz",

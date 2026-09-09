@@ -5,7 +5,7 @@ export const mitskiMyLoveMineAllMine = {
   pageTypeSlug: "song",
   slug: "mitski-my-love-mine-all-mine",
   title: "My Love Mine All Mine",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "bf93b578-a3cd-4ec0-8900-01f637749d6c",
   externalLink: "https://musicbrainz.org/work/bf93b578-a3cd-4ec0-8900-01f637749d6c",
   source: "musicbrainz",

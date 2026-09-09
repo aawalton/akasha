@@ -5,7 +5,7 @@ export const taylorSwiftDearJohn = {
   pageTypeSlug: "song",
   slug: "taylor-swift-dear-john",
   title: "Dear John",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "c70e6295-12ed-39ca-b069-cd485920ac11",
   externalLink: "https://musicbrainz.org/work/c70e6295-12ed-39ca-b069-cd485920ac11",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaDimTheLights = {
   pageTypeSlug: "song",
   slug: "sia-dim-the-lights",
   title: "Dim the Lights",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "85e67ee4-a08c-4d8f-acf1-2daa5426c246",
   externalLink: "https://musicbrainz.org/work/85e67ee4-a08c-4d8f-acf1-2daa5426c246",
   source: "musicbrainz",

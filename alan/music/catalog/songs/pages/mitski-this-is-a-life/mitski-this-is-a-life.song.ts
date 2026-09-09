@@ -5,7 +5,7 @@ export const mitskiThisIsALife = {
   pageTypeSlug: "song",
   slug: "mitski-this-is-a-life",
   title: "This Is a Life",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "c292148d-3381-4a01-a32d-b061397877da",
   externalLink: "https://musicbrainz.org/work/c292148d-3381-4a01-a32d-b061397877da",
   source: "musicbrainz",

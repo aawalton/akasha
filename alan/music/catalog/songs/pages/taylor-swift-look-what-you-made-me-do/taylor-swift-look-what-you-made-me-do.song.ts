@@ -5,7 +5,7 @@ export const taylorSwiftLookWhatYouMadeMeDo = {
   pageTypeSlug: "song",
   slug: "taylor-swift-look-what-you-made-me-do",
   title: "Look What You Made Me Do",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "812506f3-b3fc-4c2f-b621-e50b336b1665",
   externalLink: "https://musicbrainz.org/work/812506f3-b3fc-4c2f-b621-e50b336b1665",
   source: "musicbrainz",

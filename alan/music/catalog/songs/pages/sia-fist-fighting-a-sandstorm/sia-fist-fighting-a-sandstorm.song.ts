@@ -5,7 +5,7 @@ export const siaFistFightingASandstorm = {
   pageTypeSlug: "song",
   slug: "sia-fist-fighting-a-sandstorm",
   title: "Fist Fighting a Sandstorm",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "ee9b80e4-65ad-486c-9917-7cdaec26b661",
   externalLink: "https://musicbrainz.org/work/ee9b80e4-65ad-486c-9917-7cdaec26b661",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const taylorSwiftEverythingHasChanged = {
   pageTypeSlug: "song",
   slug: "taylor-swift-everything-has-changed",
   title: "Everything Has Changed",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "8c58a94d-989a-4264-9941-6a792bf871b4",
   externalLink: "https://musicbrainz.org/work/8c58a94d-989a-4264-9941-6a792bf871b4",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const lilithMaxInMemory = {
   pageTypeSlug: "song",
   slug: "lilith-max-in-memory",
   title: "In Memory",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "c4106824-68ba-4110-9405-de01e2a87ccb",
   externalLink: "https://musicbrainz.org/recording/c4106824-68ba-4110-9405-de01e2a87ccb",
   source: "musicbrainz",

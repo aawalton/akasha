@@ -5,7 +5,7 @@ export const taylorSwiftIHeart = {
   pageTypeSlug: "song",
   slug: "taylor-swift-i-heart",
   title: "I Heart ?",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "6e896a62-9676-4c13-97b7-9f792fb4cb86",
   externalLink: "https://musicbrainz.org/work/6e896a62-9676-4c13-97b7-9f792fb4cb86",
   source: "musicbrainz",

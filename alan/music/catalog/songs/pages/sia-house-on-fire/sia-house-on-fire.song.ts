@@ -5,7 +5,7 @@ export const siaHouseOnFire = {
   pageTypeSlug: "song",
   slug: "sia-house-on-fire",
   title: "House on Fire",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "026518e8-2a05-48ed-9eb4-41b3019763e8",
   externalLink: "https://musicbrainz.org/work/026518e8-2a05-48ed-9eb4-41b3019763e8",
   source: "musicbrainz",

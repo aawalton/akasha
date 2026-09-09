@@ -5,7 +5,7 @@ export const siaInvincible = {
   pageTypeSlug: "song",
   slug: "sia-invincible",
   title: "Invincible",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "a5ca49c1-1b32-43e2-9e32-b304550b2961",
   externalLink: "https://musicbrainz.org/work/a5ca49c1-1b32-43e2-9e32-b304550b2961",
   source: "musicbrainz",

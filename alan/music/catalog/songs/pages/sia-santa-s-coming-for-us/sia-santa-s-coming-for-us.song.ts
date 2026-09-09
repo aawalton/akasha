@@ -5,7 +5,7 @@ export const siaSantaSComingForUs = {
   pageTypeSlug: "song",
   slug: "sia-santa-s-coming-for-us",
   title: "Santa’s Coming for Us",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "478e0bce-252c-4bc7-8c97-1857c505d155",
   externalLink: "https://musicbrainz.org/work/478e0bce-252c-4bc7-8c97-1857c505d155",
   source: "musicbrainz",

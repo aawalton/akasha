@@ -5,7 +5,7 @@ export const siaAudio = {
   pageTypeSlug: "song",
   slug: "sia-audio",
   title: "Audio",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "e45305da-9439-4eec-9445-398dceb84848",
   externalLink: "https://musicbrainz.org/work/e45305da-9439-4eec-9445-398dceb84848",
   source: "musicbrainz",

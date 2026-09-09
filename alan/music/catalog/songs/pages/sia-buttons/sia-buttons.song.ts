@@ -5,7 +5,7 @@ export const siaButtons = {
   pageTypeSlug: "song",
   slug: "sia-buttons",
   title: "Buttons",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "57f3ced5-cb40-4a92-9bca-39b2c1fce206",
   externalLink: "https://musicbrainz.org/work/57f3ced5-cb40-4a92-9bca-39b2c1fce206",
   source: "musicbrainz",

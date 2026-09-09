@@ -5,7 +5,7 @@ export const mitskiTexasReznikoff = {
   pageTypeSlug: "song",
   slug: "mitski-texas-reznikoff",
   title: "Texas Reznikoff",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "38582220-7eba-48dd-b7ad-6f82b19ae3dd",
   externalLink: "https://musicbrainz.org/work/38582220-7eba-48dd-b7ad-6f82b19ae3dd",
   source: "musicbrainz",

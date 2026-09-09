@@ -5,7 +5,7 @@ export const mitskiBlueLight = {
   pageTypeSlug: "song",
   slug: "mitski-blue-light",
   title: "Blue Light",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "1990a898-c332-485a-a45d-541b54e42f3e",
   externalLink: "https://musicbrainz.org/work/1990a898-c332-485a-a45d-541b54e42f3e",
   source: "musicbrainz",

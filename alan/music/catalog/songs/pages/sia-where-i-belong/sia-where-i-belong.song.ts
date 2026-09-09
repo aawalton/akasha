@@ -5,7 +5,7 @@ export const siaWhereIBelong = {
   pageTypeSlug: "song",
   slug: "sia-where-i-belong",
   title: "Where I Belong",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "890b8894-41e9-4552-9ede-349a5c00347a",
   externalLink: "https://musicbrainz.org/work/890b8894-41e9-4552-9ede-349a5c00347a",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const siaHeartOfGlass = {
   pageTypeSlug: "song",
   slug: "sia-heart-of-glass",
   title: "Heart of Glass",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "57906be4-d4a4-4d17-a44d-e1dd081daafd",
   externalLink: "https://musicbrainz.org/work/57906be4-d4a4-4d17-a44d-e1dd081daafd",
   source: "musicbrainz",

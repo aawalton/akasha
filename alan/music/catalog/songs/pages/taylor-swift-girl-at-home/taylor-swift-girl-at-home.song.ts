@@ -5,7 +5,7 @@ export const taylorSwiftGirlAtHome = {
   pageTypeSlug: "song",
   slug: "taylor-swift-girl-at-home",
   title: "Girl at Home",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "65175925-04ed-4d9b-a690-cd606195a7c1",
   externalLink: "https://musicbrainz.org/work/65175925-04ed-4d9b-a690-cd606195a7c1",
   source: "musicbrainz",

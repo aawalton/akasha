@@ -5,7 +5,7 @@ export const siaStrongerThanEver = {
   pageTypeSlug: "song",
   slug: "sia-stronger-than-ever",
   title: "Stronger Than Ever",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "9a632bab-d935-4c57-8a7d-66e7fd50158a",
   externalLink: "https://musicbrainz.org/work/9a632bab-d935-4c57-8a7d-66e7fd50158a",
   source: "musicbrainz",

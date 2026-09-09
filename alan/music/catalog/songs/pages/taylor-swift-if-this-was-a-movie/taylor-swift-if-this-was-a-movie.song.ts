@@ -5,7 +5,7 @@ export const taylorSwiftIfThisWasAMovie = {
   pageTypeSlug: "song",
   slug: "taylor-swift-if-this-was-a-movie",
   title: "If This Was a Movie",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "a3e8fdf9-29d0-4fda-9732-6f59839959c8",
   externalLink: "https://musicbrainz.org/work/a3e8fdf9-29d0-4fda-9732-6f59839959c8",
   source: "musicbrainz",

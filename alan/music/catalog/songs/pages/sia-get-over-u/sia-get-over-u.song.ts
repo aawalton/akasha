@@ -5,7 +5,7 @@ export const siaGetOverU = {
   pageTypeSlug: "song",
   slug: "sia-get-over-u",
   title: "Get Over U",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "6a5dfbdd-e449-3830-bb32-5ad97e9fe777",
   externalLink: "https://musicbrainz.org/work/6a5dfbdd-e449-3830-bb32-5ad97e9fe777",
   source: "musicbrainz",

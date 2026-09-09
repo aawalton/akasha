@@ -5,7 +5,7 @@ export const lilithMaxOrion = {
   pageTypeSlug: "song",
   slug: "lilith-max-orion",
   title: "Orion",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "d978df48-1c8b-47ad-8e78-b81a4c3ef916",
   externalLink: "https://musicbrainz.org/recording/d978df48-1c8b-47ad-8e78-b81a4c3ef916",
   source: "musicbrainz",

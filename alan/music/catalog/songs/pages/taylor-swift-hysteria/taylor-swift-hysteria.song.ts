@@ -5,7 +5,7 @@ export const taylorSwiftHysteria = {
   pageTypeSlug: "song",
   slug: "taylor-swift-hysteria",
   title: "Hysteria",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "f31e9cdd-1c05-39a8-a694-66e3d54dce46",
   externalLink: "https://musicbrainz.org/work/f31e9cdd-1c05-39a8-a694-66e3d54dce46",
   source: "musicbrainz",

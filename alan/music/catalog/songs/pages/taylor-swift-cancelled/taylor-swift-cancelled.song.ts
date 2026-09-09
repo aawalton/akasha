@@ -5,7 +5,7 @@ export const taylorSwiftCancelled = {
   pageTypeSlug: "song",
   slug: "taylor-swift-cancelled",
   title: "CANCELLED!",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "ac69f6dd-06b9-43db-ae1e-ed9847c2b44c",
   externalLink: "https://musicbrainz.org/work/ac69f6dd-06b9-43db-ae1e-ed9847c2b44c",
   source: "musicbrainz",

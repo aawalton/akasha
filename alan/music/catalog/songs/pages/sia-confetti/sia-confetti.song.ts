@@ -5,7 +5,7 @@ export const siaConfetti = {
   pageTypeSlug: "song",
   slug: "sia-confetti",
   title: "Confetti",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "e264dee0-00a7-4adc-b9ec-76f3659dc91a",
   externalLink: "https://musicbrainz.org/work/e264dee0-00a7-4adc-b9ec-76f3659dc91a",
   source: "musicbrainz",

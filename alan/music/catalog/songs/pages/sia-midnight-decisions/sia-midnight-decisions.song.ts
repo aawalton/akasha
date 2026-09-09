@@ -5,7 +5,7 @@ export const siaMidnightDecisions = {
   pageTypeSlug: "song",
   slug: "sia-midnight-decisions",
   title: "Midnight Decisions",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "8a387078-18da-4379-a562-270696e83e40",
   externalLink: "https://musicbrainz.org/work/8a387078-18da-4379-a562-270696e83e40",
   source: "musicbrainz",

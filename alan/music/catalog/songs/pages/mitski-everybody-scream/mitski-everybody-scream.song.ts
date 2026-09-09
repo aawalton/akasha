@@ -5,7 +5,7 @@ export const mitskiEverybodyScream = {
   pageTypeSlug: "song",
   slug: "mitski-everybody-scream",
   title: "Everybody Scream",
-  artistSlug: "mitski",
+  artist: "mitski",
   externalId: "e04d7dbe-ebe2-4893-adbb-b80a71bc8018",
   externalLink: "https://musicbrainz.org/work/e04d7dbe-ebe2-4893-adbb-b80a71bc8018",
   source: "musicbrainz",

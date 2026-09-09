@@ -5,7 +5,7 @@ export const taylorSwiftDriveForDaddyGene = {
   pageTypeSlug: "song",
   slug: "taylor-swift-drive-for-daddy-gene",
   title: "Drive (For Daddy Gene)",
-  artistSlug: "taylor-swift",
+  artist: "taylor-swift",
   externalId: "7cb324a6-9844-45a6-b9f4-c34cc8117a20",
   externalLink: "https://musicbrainz.org/work/7cb324a6-9844-45a6-b9f4-c34cc8117a20",
   source: "musicbrainz",

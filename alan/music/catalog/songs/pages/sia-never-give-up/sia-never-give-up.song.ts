@@ -5,7 +5,7 @@ export const siaNeverGiveUp = {
   pageTypeSlug: "song",
   slug: "sia-never-give-up",
   title: "Never Give Up",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "79745379-e997-43a0-b649-e81c19b86478",
   externalLink: "https://musicbrainz.org/work/79745379-e997-43a0-b649-e81c19b86478",
   source: "musicbrainz",

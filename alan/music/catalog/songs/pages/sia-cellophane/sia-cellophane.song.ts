@@ -5,7 +5,7 @@ export const siaCellophane = {
   pageTypeSlug: "song",
   slug: "sia-cellophane",
   title: "Cellophane",
-  artistSlug: "sia",
+  artist: "sia",
   externalId: "6a15767c-fb23-4710-adb3-806796f2f42d",
   externalLink: "https://musicbrainz.org/work/6a15767c-fb23-4710-adb3-806796f2f42d",
   source: "musicbrainz",
