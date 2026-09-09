@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperCaptureShapes = {
   id: "01a0604d-23a0-70d4-9f11-7c21f7a7d1bc",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-capture-shapes",
   definition: "the shape of every catalog the addon captures out of the running game",
   parts: [

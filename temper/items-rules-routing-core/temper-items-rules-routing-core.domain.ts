@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperItemsRulesRoutingCore = {
   id: "01a06151-370b-7fa6-ad43-f200b0ae0fb9",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-items-rules-routing-core",
   definition: "the route a plan takes through the game world, and the shape of the plan itself",
   parts: [

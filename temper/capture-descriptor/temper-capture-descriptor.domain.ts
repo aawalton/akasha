@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperCaptureDescriptor = {
   id: "01a06053-3638-7139-bd21-390fdc77e0f0",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-capture-descriptor",
   definition: "the shape an add-on's captured state takes where the game saves it",
   parts: ["module/descriptor"],

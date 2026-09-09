@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperBuildHash = {
   id: "01a062c4-7811-7457-9a0e-87d4906e32a4",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-build-hash",
   definition:
     "the bits a character build is packed into away from the game, and the text carrying them",

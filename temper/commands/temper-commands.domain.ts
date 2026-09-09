@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperCommands = {
   id: "01a06034-110a-750a-9400-ded12725f5e1",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-commands",
   definition: "what an agent runs by name over temper",
   parts: [

@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperGameCatalogCaptureAddon = {
   id: "01a060e2-3185-7405-a79e-40fe38c8220f",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-game-catalog-capture-addon",
   definition:
     "the collectors reading the game's reference catalogs into an add-on's saved variables",

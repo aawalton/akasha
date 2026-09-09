@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperItemsRulesMatcher = {
   id: "01a06151-370e-7f21-be1d-3df9be256684",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-items-rules-matcher",
   definition: "every item the rules affect, found over the captured holdings",
   parts: [

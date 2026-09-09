@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperDungeonChampions = {
   id: "01a060f9-bab9-7763-8ceb-8977b0b205de",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-dungeon-champions",
   definition: "the group bosses of the public dungeons and delves of Tamriel, drawn on the map",
   parts: [

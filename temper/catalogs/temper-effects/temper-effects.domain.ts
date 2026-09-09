@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const temperEffects = {
   id: "01a05fba-ce3c-73cc-87ea-23462f201563",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-effects",
   definition: "what is put on a character for a while, for good or ill",
   pluralSlug: "temper-effects",

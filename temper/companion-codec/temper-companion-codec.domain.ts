@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperCompanionCodec = {
   id: "01a062e7-4dda-7f1d-8fd9-fe2d9062ea42",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-companion-codec",
   definition:
     "packing a companion build into text and reading one back at whichever update wrote it",

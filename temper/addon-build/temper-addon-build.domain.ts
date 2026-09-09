@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperAddonBuild = {
   id: "01a06038-2cc1-7116-80a1-184fa5a8f3f6",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-addon-build",
   definition: "what building temper's ESO addons out of TypeScript needs to know",
   parts: [

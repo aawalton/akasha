@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const temperCompanions = {
   id: "01a05fba-ce3c-7e66-903a-166903fcf181",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-companions",
   definition: "the companions who travel with a character",
   pluralSlug: "temper-companions",

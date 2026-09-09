@@ -3,6 +3,7 @@ import type { Domain } from "../../../domains/domain.page-type.ts"
 export const temperPursuits = {
   id: "01a06153-0ea9-7000-8bea-a58f74ace441",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-pursuits",
   definition: "what the game keeps a tally of a player having sought out",
   pluralSlug: "temper-pursuits",

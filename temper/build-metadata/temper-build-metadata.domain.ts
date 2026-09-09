@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperBuildMetadata = {
   id: "01a061c0-88d8-71f3-9d1b-7474ad4a82e1",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-build-metadata",
   definition: "the name, description and roles a saved build carries beside its state",
   parts: ["module/build-metadata"],

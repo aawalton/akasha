@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperCaptureDataminingReader = {
   id: "01a0609d-90dd-75fe-af4b-e55cf72da4b3",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-capture-datamining-reader",
   definition: "what the datamining addon wrote out, read back and checked",
   parts: ["module/mined-data-parse", "module/saved-variables-schema"],

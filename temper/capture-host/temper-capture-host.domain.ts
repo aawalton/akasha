@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperCaptureHost = {
   id: "01a06075-b051-757f-99fd-44c2240d028a",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-capture-host",
   definition: "the check every capture host makes that its zod schema and payload type agree",
   parts: ["module/assert-schema-matches-payload"],

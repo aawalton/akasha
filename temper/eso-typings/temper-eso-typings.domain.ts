@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperEsoTypings = {
   id: "01a0673e-3ddf-7000-a6f4-66fa0861fb9d",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-eso-typings",
   definition: "the game's own API documentation dump read as TypeScript declarations",
   parts: [

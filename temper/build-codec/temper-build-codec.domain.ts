@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperBuildCodec = {
   id: "01a062e7-4dd4-7379-91b1-47690a52822a",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-build-codec",
   definition:
     "packing a character build into text and reading one back at whichever update wrote it",

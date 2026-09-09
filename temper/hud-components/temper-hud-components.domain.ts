@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperHudComponents = {
   id: "01a060a4-fa38-742d-9517-977730401b38",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-hud-components",
   definition: "the parts of the game's HUD, each with the way the game hides that part",
   parts: [

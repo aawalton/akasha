@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperCompletion = {
   id: "01a0607a-9cbb-77f0-9ede-8b04b4408831",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-completion",
   definition: "what a player has finished across an account, a character and a companion",
   parts: [

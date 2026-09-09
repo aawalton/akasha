@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperDungeons = {
   id: "01a06031-70e4-7e81-a058-c2574ec503a7",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-dungeons",
   definition: "the group dungeons of Tamriel and the pledges quest givers hand out each day",
   parts: [
