@@ -206,7 +206,7 @@ test("the artist page and a song page are composed from the works", async () => 
   expect(artistBody).not.toContain("\n  id:")
 
   const songBody = bodyAt(found, firstAt)
-  expect(songBody).toContain(`artistSlug: "${ARTIST_SLUG}"`)
+  expect(songBody).toMatch(new RegExp(`(?:artist|artistSlug): "${ARTIST_SLUG}"`))
   expect(songBody).toContain("performed: true")
   expect(songBody).toContain(`written: "solo"`)
   expect(songBody).toContain(`lyricsSource: "lrclib"`)

@@ -5,7 +5,8 @@ import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
 import { valuesOfType } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
-import type { Value } from "@akasha/pages/page-value"
+import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
+import { type Value, valueAt } from "@akasha/pages/page-value"
 import { textIn } from "@akasha/pages/page-value-reading"
 import { composedFor, type Put } from "@akasha/pages-service/composing"
 import { todayYYYYMMDD } from "@akasha/utils/sync/today"
@@ -247,6 +248,22 @@ async function wordsFor(reach: Reach, title: string, artistName: string): Promis
 
 type Songed = { readonly edits: readonly Asking[]; readonly worded: Worded }
 
+const ARTIST_KEY = "artist"
+
+const ARTIST_SLUG_KEY = "artistSlug"
+
+function artistKeyIn(root: string): string {
+  const declared = propertiesIfNamedOf(SONG, root, (path) => valueAt(path, root))
+  const named = declared === null ? [] : declared.map((one) => one.key)
+  return named.includes(ARTIST_KEY) ? ARTIST_KEY : ARTIST_SLUG_KEY
+}
+
+function underArtistKey(values: Value, key: string): Value {
+  const { artist, artistSlug, ...rest } = values
+  const said = key === ARTIST_KEY ? (artist ?? artistSlug) : (artistSlug ?? artist)
+  return said === undefined ? rest : { ...rest, [key]: said }
+}
+
 async function songLanded(
   root: string,
   catalogue: Catalogue,
@@ -256,12 +273,15 @@ async function songLanded(
   reach: Reach
 ): Promise<Songed | { readonly refused: string }> {
   const worded = await wordsFor(reach, fields.title, artistName)
-  const values: Value = {
-    ...(catalogue.held.get(slug) ?? {}),
-    ...fields,
-    pageTypeSlug: SONG,
-    slug,
-  }
+  const values: Value = underArtistKey(
+    {
+      ...(catalogue.held.get(slug) ?? {}),
+      ...fields,
+      pageTypeSlug: SONG,
+      slug,
+    },
+    artistKeyIn(root)
+  )
   if (worded.words !== null) {
     values["lyricsSource"] = worded.words.lyricsSource
     if (worded.words.lyrics !== null) values["lyrics"] = TXT
