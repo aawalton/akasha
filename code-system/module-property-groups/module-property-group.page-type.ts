@@ -11,9 +11,14 @@ export const modulePropertyGroup = {
   pluralSlug: "module-property-groups",
   extends: ["page-type/file-property-group"],
   properties: [
-    { pageProperty: "code-file-property/code", required: true, many: false },
-    { pageProperty: "code-file-property/test", required: true, many: false },
-    { pageProperty: "code-file-property/test-fixtures", required: false, many: false },
+    { pageProperty: "code-file-property/code", required: true, many: false, fixed: "ts" },
+    { pageProperty: "code-file-property/test", required: true, many: false, fixed: "ts" },
+    {
+      pageProperty: "code-file-property/test-fixtures",
+      required: false,
+      many: false,
+      fixed: "ts",
+    },
   ],
   invariants: [
     {
@@ -27,6 +32,14 @@ export const modulePropertyGroup = {
     {
       invariantKind: "departure",
       statement: "A group of this page type states no members, having these three.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The three files are TypeScript, and no page carrying the group says otherwise.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page carrying the group states nothing about these files at all.",
     },
   ],
 } as const satisfies PageType
