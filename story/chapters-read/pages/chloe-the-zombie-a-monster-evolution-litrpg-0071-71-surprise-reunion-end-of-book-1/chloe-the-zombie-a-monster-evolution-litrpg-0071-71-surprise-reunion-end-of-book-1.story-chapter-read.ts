@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007171SurpriseReunionEndOfBook
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0071-71-surprise-reunion-end-of-book-1",
   title: "71: Surprise Reunion (End of Book 1)",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 71,
   ownLength: 2011,
   unitSlug: "words",

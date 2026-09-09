@@ -5,7 +5,7 @@ export const chrysalis0148Chapter1500HomeIsWhereTheHeartIs = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0148-chapter-1500-home-is-where-the-heart-is",
   title: "Chapter 1500 - Home Is Where The Heart Is",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 148,
   ownLength: 998,
   ownProgress: 998,

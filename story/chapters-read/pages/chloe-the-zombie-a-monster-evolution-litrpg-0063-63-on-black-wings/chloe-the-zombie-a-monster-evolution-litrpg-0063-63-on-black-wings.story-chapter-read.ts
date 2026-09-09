@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg006363OnBlackWings = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0063-63-on-black-wings",
   title: "63: On Black Wings",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 63,
   ownLength: 1568,
   unitSlug: "words",

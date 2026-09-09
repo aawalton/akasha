@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0173173MissingMan = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0173-173-missing-man",
   title: "173: Missing Man",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 173,
   ownLength: 2125,
   unitSlug: "words",

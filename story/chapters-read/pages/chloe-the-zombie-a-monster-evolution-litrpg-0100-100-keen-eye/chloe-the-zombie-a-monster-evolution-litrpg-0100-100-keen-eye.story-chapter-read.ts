@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0100100KeenEye = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0100-100-keen-eye",
   title: "100: Keen Eye",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 100,
   ownLength: 1849,
   unitSlug: "words",

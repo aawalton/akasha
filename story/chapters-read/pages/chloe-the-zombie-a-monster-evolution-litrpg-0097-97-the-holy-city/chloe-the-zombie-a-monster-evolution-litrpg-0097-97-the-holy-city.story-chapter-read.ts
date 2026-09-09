@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009797TheHolyCity = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0097-97-the-holy-city",
   title: "97: The Holy City",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 97,
   ownLength: 2007,
   unitSlug: "words",

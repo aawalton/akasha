@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0149149TechnicallyThatIsABrain
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0149-149-technically-that-is-a-brain",
   title: "149: Technically, that is a Brain",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 149,
   ownLength: 2019,
   unitSlug: "words",

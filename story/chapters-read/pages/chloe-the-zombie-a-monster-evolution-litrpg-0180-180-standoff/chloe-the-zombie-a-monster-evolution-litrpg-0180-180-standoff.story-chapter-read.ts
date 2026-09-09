@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0180180Standoff = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0180-180-standoff",
   title: "180: Standoff",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 180,
   ownLength: 2011,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0115115NotPlaying = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0115-115-not-playing",
   title: "115: Not Playing",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 115,
   ownLength: 1857,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0017Chapter1370AreTheyReally = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0017-chapter-1370-are-they-really",
   title: "Chapter 1370 - Are They Really?",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 17,
   ownLength: 1080,
   ownProgress: 1080,

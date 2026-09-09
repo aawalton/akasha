@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0147147TheSunScorpion = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0147-147-the-sun-scorpion",
   title: "147: The Sun Scorpion",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 147,
   ownLength: 2010,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0170170DarkAndDarker = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0170-170-dark-and-darker",
   title: "170: Dark and Darker",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 170,
   ownLength: 2025,
   unitSlug: "words",

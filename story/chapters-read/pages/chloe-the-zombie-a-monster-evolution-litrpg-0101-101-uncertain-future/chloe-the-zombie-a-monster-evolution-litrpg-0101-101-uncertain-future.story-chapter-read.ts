@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0101101UncertainFuture = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0101-101-uncertain-future",
   title: "101: Uncertain Future",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 101,
   ownLength: 2010,
   unitSlug: "words",

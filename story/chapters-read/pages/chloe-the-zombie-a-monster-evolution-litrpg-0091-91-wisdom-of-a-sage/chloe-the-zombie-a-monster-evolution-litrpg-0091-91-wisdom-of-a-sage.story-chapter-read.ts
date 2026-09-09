@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009191WisdomOfASage = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0091-91-wisdom-of-a-sage",
   title: "91: Wisdom of a Sage",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 91,
   ownLength: 2077,
   unitSlug: "words",

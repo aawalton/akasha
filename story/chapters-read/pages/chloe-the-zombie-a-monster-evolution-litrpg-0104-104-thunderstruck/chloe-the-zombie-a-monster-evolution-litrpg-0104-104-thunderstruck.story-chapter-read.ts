@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0104104Thunderstruck = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0104-104-thunderstruck",
   title: "104: Thunderstruck",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 104,
   ownLength: 1899,
   unitSlug: "words",

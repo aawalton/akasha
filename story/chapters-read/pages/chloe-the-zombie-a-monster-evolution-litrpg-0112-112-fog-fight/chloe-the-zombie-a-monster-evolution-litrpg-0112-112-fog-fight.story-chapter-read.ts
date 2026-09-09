@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0112112FogFight = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0112-112-fog-fight",
   title: "112: Fog Fight",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 112,
   ownLength: 1902,
   unitSlug: "words",

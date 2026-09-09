@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0187187TheBestCloak = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0187-187-the-best-cloak",
   title: "187: The Best Cloak",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 187,
   ownLength: 2157,
   unitSlug: "words",

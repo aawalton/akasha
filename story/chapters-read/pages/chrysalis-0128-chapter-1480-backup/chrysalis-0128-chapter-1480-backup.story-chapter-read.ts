@@ -5,7 +5,7 @@ export const chrysalis0128Chapter1480Backup = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0128-chapter-1480-backup",
   title: "Chapter 1480 - Backup",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 128,
   ownLength: 1040,
   ownProgress: 1040,

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004848Tartarus = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0048-48-tartarus",
   title: "48: Tartarus",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 48,
   ownLength: 2180,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004141PrettyLady = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0041-41-pretty-lady",
   title: "41: Pretty Lady",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 41,
   ownLength: 2212,
   unitSlug: "words",

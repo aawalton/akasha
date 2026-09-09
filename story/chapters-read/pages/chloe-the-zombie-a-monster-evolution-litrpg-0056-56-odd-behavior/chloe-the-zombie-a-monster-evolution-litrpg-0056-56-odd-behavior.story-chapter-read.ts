@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005656OddBehavior = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0056-56-odd-behavior",
   title: "56: Odd Behavior",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 56,
   ownLength: 1969,
   unitSlug: "words",

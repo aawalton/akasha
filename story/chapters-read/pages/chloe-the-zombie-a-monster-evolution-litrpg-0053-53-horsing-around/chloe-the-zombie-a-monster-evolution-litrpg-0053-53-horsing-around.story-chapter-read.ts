@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg005353HorsingAround = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0053-53-horsing-around",
   title: "53: Horsing Around",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 53,
   ownLength: 3109,
   unitSlug: "words",

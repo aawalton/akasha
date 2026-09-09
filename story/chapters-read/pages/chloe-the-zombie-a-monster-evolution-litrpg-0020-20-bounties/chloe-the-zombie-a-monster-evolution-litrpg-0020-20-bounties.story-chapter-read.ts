@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002020Bounties = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0020-20-bounties",
   title: "20: Bounties",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 20,
   ownLength: 2650,
   unitSlug: "words",

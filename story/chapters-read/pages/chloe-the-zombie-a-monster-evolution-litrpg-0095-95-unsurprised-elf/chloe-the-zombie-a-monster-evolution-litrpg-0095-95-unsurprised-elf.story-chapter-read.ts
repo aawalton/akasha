@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009595UnsurprisedElf = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0095-95-unsurprised-elf",
   title: "95: Unsurprised Elf",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 95,
   ownLength: 1986,
   unitSlug: "words",

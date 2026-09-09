@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002424CaveTerror = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0024-24-cave-terror",
   title: "24: Cave Terror",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 24,
   ownLength: 1944,
   unitSlug: "words",

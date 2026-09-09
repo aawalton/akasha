@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0182182ToTheElevator = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0182-182-to-the-elevator",
   title: "182: To the Elevator",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 182,
   ownLength: 1872,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0172172ImpulseBuying = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0172-172-impulse-buying",
   title: "172: Impulse Buying",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 172,
   ownLength: 1853,
   unitSlug: "words",

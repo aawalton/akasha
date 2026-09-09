@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007575RestaurantBrawl = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0075-75-restaurant-brawl",
   title: "75: Restaurant Brawl",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 75,
   ownLength: 1916,
   unitSlug: "words",

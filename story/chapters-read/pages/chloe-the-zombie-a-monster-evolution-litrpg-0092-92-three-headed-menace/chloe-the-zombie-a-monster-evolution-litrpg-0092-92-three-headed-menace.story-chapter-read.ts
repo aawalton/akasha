@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg009292ThreeHeadedMenace = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0092-92-three-headed-menace",
   title: "92: Three Headed Menace",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 92,
   ownLength: 1949,
   unitSlug: "words",

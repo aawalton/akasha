@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0140140SmashingTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0140-140-smashing-time",
   title: "140: Smashing Time",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 140,
   ownLength: 2031,
   unitSlug: "words",

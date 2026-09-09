@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0144144UnderTheMoon = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0144-144-under-the-moon",
   title: "144: Under the Moon",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 144,
   ownLength: 1956,
   unitSlug: "words",

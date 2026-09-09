@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007373SecretOrganization = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0073-73-secret-organization",
   title: "73: Secret Organization",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 73,
   ownLength: 1733,
   unitSlug: "words",

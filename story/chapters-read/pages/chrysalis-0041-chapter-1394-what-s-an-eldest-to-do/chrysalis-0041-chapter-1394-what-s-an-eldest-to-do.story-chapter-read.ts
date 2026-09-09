@@ -5,7 +5,7 @@ export const chrysalis0041Chapter1394WhatSAnEldestToDo = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0041-chapter-1394-what-s-an-eldest-to-do",
   title: "Chapter 1394 - What’s An Eldest to Do?",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 41,
   ownLength: 1199,
   ownProgress: 1199,

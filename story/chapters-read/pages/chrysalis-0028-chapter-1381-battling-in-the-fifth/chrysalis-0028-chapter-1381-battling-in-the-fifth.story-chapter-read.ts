@@ -5,7 +5,7 @@ export const chrysalis0028Chapter1381BattlingInTheFifth = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0028-chapter-1381-battling-in-the-fifth",
   title: "Chapter 1381 - Battling in the Fifth",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 28,
   ownLength: 994,
   ownProgress: 994,

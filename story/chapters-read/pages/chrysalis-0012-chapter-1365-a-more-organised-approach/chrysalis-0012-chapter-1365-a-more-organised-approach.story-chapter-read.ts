@@ -5,7 +5,7 @@ export const chrysalis0012Chapter1365AMoreOrganisedApproach = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0012-chapter-1365-a-more-organised-approach",
   title: "Chapter 1365 - A More Organised Approach",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 12,
   ownLength: 1064,
   ownProgress: 1064,

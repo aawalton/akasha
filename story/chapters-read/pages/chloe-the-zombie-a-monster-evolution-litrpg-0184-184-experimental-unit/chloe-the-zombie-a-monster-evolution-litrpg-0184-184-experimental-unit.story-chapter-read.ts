@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0184184ExperimentalUnit = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0184-184-experimental-unit",
   title: "184: Experimental Unit",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 184,
   ownLength: 1971,
   unitSlug: "words",

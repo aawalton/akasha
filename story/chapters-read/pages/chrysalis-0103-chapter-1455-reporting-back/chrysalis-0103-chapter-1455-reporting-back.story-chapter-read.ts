@@ -5,7 +5,7 @@ export const chrysalis0103Chapter1455ReportingBack = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0103-chapter-1455-reporting-back",
   title: "Chapter 1455 - Reporting Back",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 103,
   ownLength: 1052,
   ownProgress: 1052,

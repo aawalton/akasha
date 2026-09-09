@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0175175ManInTheWall = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0175-175-man-in-the-wall",
   title: "175: Man in the Wall",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 175,
   ownLength: 2067,
   unitSlug: "words",

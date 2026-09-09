@@ -5,7 +5,7 @@ export const chrysalis0060Chapter1412TheEggsThatWereLeftBehind = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0060-chapter-1412-the-eggs-that-were-left-behind",
   title: "Chapter 1412 - The Eggs that Were Left Behind",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 60,
   ownLength: 1189,
   ownProgress: 1189,

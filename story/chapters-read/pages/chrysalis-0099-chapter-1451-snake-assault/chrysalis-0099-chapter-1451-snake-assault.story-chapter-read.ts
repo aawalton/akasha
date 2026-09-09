@@ -5,7 +5,7 @@ export const chrysalis0099Chapter1451SnakeAssault = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0099-chapter-1451-snake-assault",
   title: "Chapter 1451 - Snake Assault",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 99,
   ownLength: 1050,
   ownProgress: 1050,

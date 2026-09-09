@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0137137AFamiliarFace = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0137-137-a-familiar-face",
   title: "137: A Familiar Face",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 137,
   ownLength: 1817,
   unitSlug: "words",

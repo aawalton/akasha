@@ -5,7 +5,7 @@ export const chrysalis0048Chapter1401TheColonyInvades = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0048-chapter-1401-the-colony-invades",
   title: "Chapter 1401 - The Colony Invades!",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 48,
   ownLength: 1003,
   ownProgress: 1003,

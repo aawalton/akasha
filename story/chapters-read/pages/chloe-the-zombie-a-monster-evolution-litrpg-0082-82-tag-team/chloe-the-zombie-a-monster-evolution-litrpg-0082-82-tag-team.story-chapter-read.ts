@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008282TagTeam = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0082-82-tag-team",
   title: "82: Tag Team",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 82,
   ownLength: 2311,
   unitSlug: "words",

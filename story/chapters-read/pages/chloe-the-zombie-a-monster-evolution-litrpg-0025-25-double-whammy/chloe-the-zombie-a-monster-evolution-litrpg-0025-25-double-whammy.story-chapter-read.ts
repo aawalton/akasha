@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg002525DoubleWhammy = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0025-25-double-whammy",
   title: "25: Double Whammy",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 25,
   ownLength: 2006,
   unitSlug: "words",

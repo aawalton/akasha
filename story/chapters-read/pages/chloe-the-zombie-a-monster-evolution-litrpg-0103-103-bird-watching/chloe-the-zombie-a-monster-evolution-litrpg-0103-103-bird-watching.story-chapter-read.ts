@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0103103BirdWatching = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0103-103-bird-watching",
   title: "103: Bird Watching",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 103,
   ownLength: 1998,
   unitSlug: "words",

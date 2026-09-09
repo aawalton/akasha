@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg007979LeftieTheBrave = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0079-79-leftie-the-brave",
   title: "79: Leftie the Brave",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 79,
   ownLength: 2061,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0155155VeryCoolEvolutionsEndOf
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0155-155-very-cool-evolutions-end-of-book-2",
   title: "155. Very Cool Evolutions (End of Book 2)",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 155,
   ownLength: 1938,
   unitSlug: "words",

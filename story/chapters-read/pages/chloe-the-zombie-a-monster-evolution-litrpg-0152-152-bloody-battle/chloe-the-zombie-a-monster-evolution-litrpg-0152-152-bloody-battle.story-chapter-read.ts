@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0152152BloodyBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0152-152-bloody-battle",
   title: "152: Bloody Battle",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 152,
   ownLength: 2124,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg008383DivineEnergy = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0083-83-divine-energy",
   title: "83: Divine Energy",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 83,
   ownLength: 1878,
   unitSlug: "words",

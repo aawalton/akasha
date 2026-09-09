@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0131131SmokeCloak = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0131-131-smoke-cloak",
   title: "131: Smoke & Cloak",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 131,
   ownLength: 2170,
   unitSlug: "words",

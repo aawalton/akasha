@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004242IceBreaker = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0042-42-ice-breaker",
   title: "42: Ice Breaker",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 42,
   ownLength: 2478,
   unitSlug: "words",

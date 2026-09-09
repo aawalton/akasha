@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0110110PathOfPetals = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0110-110-path-of-petals",
   title: "110: Path of Petals",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 110,
   ownLength: 2000,
   unitSlug: "words",

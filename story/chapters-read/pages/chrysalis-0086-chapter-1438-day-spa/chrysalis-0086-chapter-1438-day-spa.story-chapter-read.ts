@@ -5,7 +5,7 @@ export const chrysalis0086Chapter1438DaySpa = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0086-chapter-1438-day-spa",
   title: "Chapter 1438 - Day Spa",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 86,
   ownLength: 927,
   ownProgress: 927,

@@ -5,7 +5,7 @@ export const chrysalis0137Chapter1489SlipOfTheMandibles = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0137-chapter-1489-slip-of-the-mandibles",
   title: "Chapter 1489 - Slip of the Mandibles",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 137,
   ownLength: 1193,
   ownProgress: 1193,

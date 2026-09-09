@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg004343YnettTheWhiteWitch = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0043-43-ynett-the-white-witch",
   title: "43: Ynett, the White Witch",
-  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
+  story: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 43,
   ownLength: 2242,
   unitSlug: "words",
