@@ -5,7 +5,7 @@ export const pekona = {
   pageTypeSlug: "world-character",
   slug: "pekona",
   title: "Pekona",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 2,
   eventCount: 4,
   firstChapter: 768,

@@ -5,7 +5,7 @@ export const calidusReinhart = {
   pageTypeSlug: "world-character",
   slug: "calidus-reinhart",
   title: "Calidus",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 28,
   eventCount: 5,
   firstChapter: 823,

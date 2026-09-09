@@ -5,7 +5,7 @@ export const lakenGodart = {
   pageTypeSlug: "world-character",
   slug: "laken-godart",
   title: "Laken",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 37,
   eventCount: 11,
   firstChapter: 124,

@@ -5,7 +5,7 @@ export const relc = {
   pageTypeSlug: "world-character",
   slug: "relc",
   title: "Relc",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 40,
   eventCount: 9,
   firstChapter: 430,

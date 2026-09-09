@@ -5,7 +5,7 @@ export const zevara = {
   pageTypeSlug: "world-character",
   slug: "zevara",
   title: "Watch Captain Zevara",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 38,
   eventCount: 12,
   firstChapter: 779,

@@ -5,7 +5,7 @@ export const amerys = {
   pageTypeSlug: "world-character",
   slug: "amerys",
   title: "Amerys",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 58,
   eventCount: 2,
   firstChapter: 790,

@@ -5,7 +5,7 @@ export const belgrade = {
   pageTypeSlug: "world-character",
   slug: "belgrade",
   title: "Belgrade",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 33,
   eventCount: 5,
   firstChapter: 561,

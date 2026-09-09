@@ -5,7 +5,7 @@ export const maviolaEl = {
   pageTypeSlug: "world-character",
   slug: "maviola-el",
   title: "Lady Maviola El",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 49,
   eventCount: 2,
   firstChapter: 424,

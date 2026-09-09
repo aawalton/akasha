@@ -5,7 +5,7 @@ export const theIdleEpoch = {
   pageTypeSlug: "story-design",
   slug: "the-idle-epoch",
   title: "The Idle Epoch — story design",
-  worldSlug: "the-idle-epoch",
+  world: "the-idle-epoch",
   premise: "md",
   genre: "litrpg, progression fantasy, system apocalypse, automation",
   visualStyle:

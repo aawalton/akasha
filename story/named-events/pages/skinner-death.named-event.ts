@@ -12,5 +12,5 @@ export const skinnerDeath = {
     "ruled from sweep evidence 'the day after Skinner died' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "global-event",
   seq: 18,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent

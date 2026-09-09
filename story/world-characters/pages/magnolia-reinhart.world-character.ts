@@ -5,7 +5,7 @@ export const magnoliaReinhart = {
   pageTypeSlug: "world-character",
   slug: "magnolia-reinhart",
   title: "Lady Magnolia Reinhart",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 57,
   eventCount: 3,
   firstChapter: 669,

@@ -5,7 +5,7 @@ export const gothica = {
   pageTypeSlug: "world-character",
   slug: "gothica",
   title: "Gothica",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 8,
   eventCount: 7,
   firstChapter: 532,

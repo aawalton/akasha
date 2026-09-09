@@ -5,7 +5,7 @@ export const zailGemscale = {
   pageTypeSlug: "world-character",
   slug: "zail-gemscale",
   title: "Wall Lord Zail Gemscale",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 44,
   eventCount: 2,
   firstChapter: 662,

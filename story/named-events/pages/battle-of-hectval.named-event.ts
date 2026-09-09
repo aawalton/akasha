@@ -12,5 +12,5 @@ export const battleOfHectval = {
     "ruled from sweep evidence 'after one big battle' — hectval-war-start + crusader-51-last-stand left unregistered - separably-dated moments of the same war (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
   seq: 33,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent

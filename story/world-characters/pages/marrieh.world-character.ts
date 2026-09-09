@@ -5,7 +5,7 @@ export const marrieh = {
   pageTypeSlug: "world-character",
   slug: "marrieh",
   title: "Marrieh",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 43,
   eventCount: 4,
   firstChapter: 809,

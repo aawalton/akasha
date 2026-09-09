@@ -5,7 +5,7 @@ export const yvlonByres = {
   pageTypeSlug: "world-character",
   slug: "yvlon-byres",
   title: "Yvlon",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 37,
   eventCount: 8,
   firstChapter: 506,

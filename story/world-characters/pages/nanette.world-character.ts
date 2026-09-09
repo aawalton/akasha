@@ -5,7 +5,7 @@ export const nanette = {
   pageTypeSlug: "world-character",
   slug: "nanette",
   title: "Nanette",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 4,
   eventCount: 14,
   firstChapter: 672,

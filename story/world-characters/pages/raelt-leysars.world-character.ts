@@ -5,7 +5,7 @@ export const raeltLeysars = {
   pageTypeSlug: "world-character",
   slug: "raelt-leysars",
   title: "Raelt Leysars",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 35,
   eventCount: 10,
   firstChapter: 410,

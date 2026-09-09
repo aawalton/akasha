@@ -5,7 +5,7 @@ export const tyrion = {
   pageTypeSlug: "world-character",
   slug: "tyrion",
   title: "Lord Tyrion",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 34,
   eventCount: 11,
   firstChapter: 574,

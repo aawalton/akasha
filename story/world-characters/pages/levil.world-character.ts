@@ -5,7 +5,7 @@ export const levil = {
   pageTypeSlug: "world-character",
   slug: "levil",
   title: "Levil",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 25,
   eventCount: 2,
   firstChapter: 506,

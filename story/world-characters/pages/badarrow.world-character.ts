@@ -5,7 +5,7 @@ export const badarrow = {
   pageTypeSlug: "world-character",
   slug: "badarrow",
   title: "Badarrow",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 25,
   eventCount: 3,
   firstChapter: 283,

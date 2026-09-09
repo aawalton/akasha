@@ -5,7 +5,7 @@ export const theSmallOneTheChild = {
   pageTypeSlug: "story-wiki-entry",
   slug: "the-small-one-the-child",
   title: "The Small One (the child)",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",

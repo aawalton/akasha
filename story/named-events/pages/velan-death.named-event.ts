@@ -12,5 +12,5 @@ export const velanDeath = {
     "asserted 'That had been just a decade ago' + beat 1008 'From that day on, she had become legend. … Velan had hesitated' — unique historical moment; ch650's before+after pair is extractor direction-noise, both mean chapter-after-event (rhia-ruled 2026-07-15)",
   namedEventKind: "global-event",
   seq: 3,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent

@@ -5,7 +5,7 @@ export const theBeholder = {
   pageTypeSlug: "story-design",
   slug: "the-beholder",
   title: "The Beholder — story design",
-  worldSlug: "the-beholder",
+  world: "the-beholder",
   premise: "md",
   genre: "LitRPG, Superhero, Anti-Hero, Dark, Progression",
   tone: "Morally grey and intense; sensual but dark; a character study of\nobsession wrapped in an escalating power fantasy with real cost. Visceral\nwithout being gratuitous; seductive prose for a seductive descent. PROTAGONIST\nVOICE (anchor): she is cheerful, bubbly, and energetic — bright and upbeat in\nnarration and dialogue — in deliberate contrast to her total lack of care for\nothers and her explicit, casual brutality. The horror comes from the gap: she\nkills and mutilates with the sunny enthusiasm of a girl picking out an outfit.\nNever brooding or angsty; her darkness is gleeful, not tormented.",

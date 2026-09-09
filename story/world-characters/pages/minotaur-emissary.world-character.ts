@@ -5,7 +5,7 @@ export const minotaurEmissary = {
   pageTypeSlug: "world-character",
   slug: "minotaur-emissary",
   title: "the Minotaur",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 37,
   eventCount: 2,
   firstChapter: 506,

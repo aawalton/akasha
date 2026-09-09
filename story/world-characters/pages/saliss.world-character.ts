@@ -5,7 +5,7 @@ export const saliss = {
   pageTypeSlug: "world-character",
   slug: "saliss",
   title: "Saliss",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 56,
   eventCount: 2,
   firstChapter: 697,

@@ -5,7 +5,7 @@ export const pawn = {
   pageTypeSlug: "world-character",
   slug: "pawn",
   title: "Pawn",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 44,
   eventCount: 11,
   firstChapter: 103,

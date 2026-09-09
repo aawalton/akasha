@@ -5,7 +5,7 @@ export const towerAndTheStar = {
   pageTypeSlug: "story-design",
   slug: "tower-and-the-star",
   title: "Tower And The Star — story design",
-  worldSlug: "tower-and-the-star",
+  world: "tower-and-the-star",
   premise: "md",
   tone: "Warm but not saccharine. Not grimdark — darkness does not win. Humorous (Nadia as valve). Serious stakes without constant suffering. POV warmth through Solenne's Trueweave perception.",
   themes:

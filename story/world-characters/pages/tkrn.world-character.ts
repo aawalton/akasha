@@ -5,7 +5,7 @@ export const tkrn = {
   pageTypeSlug: "world-character",
   slug: "tkrn",
   title: "Tkrn",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 21,
   eventCount: 6,
   firstChapter: 566,

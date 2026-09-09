@@ -5,7 +5,7 @@ export const adetrSteelfur = {
   pageTypeSlug: "world-character",
   slug: "adetr-steelfur",
   title: "Adetr",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 27,
   eventCount: 2,
   firstChapter: 520,

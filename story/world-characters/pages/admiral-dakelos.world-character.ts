@@ -5,7 +5,7 @@ export const admiralDakelos = {
   pageTypeSlug: "world-character",
   slug: "admiral-dakelos",
   title: "Admiral Dakelos",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 40,
   eventCount: 7,
   firstChapter: 646,

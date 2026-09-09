@@ -5,7 +5,7 @@ export const jasi = {
   pageTypeSlug: "world-character",
   slug: "jasi",
   title: "Jasi",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 25,
   eventCount: 4,
   firstChapter: 382,

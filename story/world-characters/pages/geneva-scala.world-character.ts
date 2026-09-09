@@ -5,7 +5,7 @@ export const genevaScala = {
   pageTypeSlug: "world-character",
   slug: "geneva-scala",
   title: "Geneva Scala",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 37,
   eventCount: 18,
   firstChapter: 130,

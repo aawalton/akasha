@@ -5,7 +5,7 @@ export const venaz = {
   pageTypeSlug: "world-character",
   slug: "venaz",
   title: "Venaz",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   eventCount: 1,
   firstChapter: 635,
   lastChapter: 635,

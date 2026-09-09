@@ -5,7 +5,7 @@ export const dragonsAndDungeons = {
   pageTypeSlug: "story-design",
   slug: "dragons-and-dungeons",
   title: "Dragons & Dungeons — story design",
-  worldSlug: "personas",
+  world: "personas",
   premise: "md",
   genre: "Fantasy, Romance, Tabletop",
   tone: "Warm, mischievous, sensual.",

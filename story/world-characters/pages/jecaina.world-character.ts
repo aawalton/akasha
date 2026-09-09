@@ -5,7 +5,7 @@ export const jecaina = {
   pageTypeSlug: "world-character",
   slug: "jecaina",
   title: "Jecaina",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 29,
   eventCount: 8,
   firstChapter: 492,

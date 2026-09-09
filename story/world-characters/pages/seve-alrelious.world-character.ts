@@ -5,7 +5,7 @@ export const seveAlrelious = {
   pageTypeSlug: "world-character",
   slug: "seve-alrelious",
   title: "Seve-Alrelious",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 46,
   eventCount: 3,
   firstChapter: 652,

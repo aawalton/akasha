@@ -11,5 +11,5 @@ export const palaceOfFates = {
     "ruled from sweep evidence 'around two weeks after the Palace of Fates incident' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "global-event",
   seq: 36,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent

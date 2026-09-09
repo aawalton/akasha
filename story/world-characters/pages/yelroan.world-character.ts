@@ -5,7 +5,7 @@ export const yelroan = {
   pageTypeSlug: "world-character",
   slug: "yelroan",
   title: "Yelroan",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 46,
   eventCount: 3,
   firstChapter: 707,

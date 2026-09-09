@@ -5,7 +5,7 @@ export const drassi = {
   pageTypeSlug: "world-character",
   slug: "drassi",
   title: "Drassi",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   eventCount: 2,
   firstChapter: 435,
   lastChapter: 435,

@@ -5,7 +5,7 @@ export const horrorGirl = {
   pageTypeSlug: "world-character",
   slug: "horror-girl",
   title: "survivor of Esthelm",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   eventCount: 3,
   firstChapter: 143,
   lastChapter: 143,

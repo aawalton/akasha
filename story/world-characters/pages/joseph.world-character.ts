@@ -5,7 +5,7 @@ export const joseph = {
   pageTypeSlug: "world-character",
   slug: "joseph",
   title: "Joseph",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 16,
   eventCount: 13,
   firstChapter: 427,

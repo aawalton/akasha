@@ -5,7 +5,7 @@ export const theophilus = {
   pageTypeSlug: "world-character",
   slug: "theophilus",
   title: "Theophilus",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 20,
   eventCount: 9,
   firstChapter: 562,

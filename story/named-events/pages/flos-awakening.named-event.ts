@@ -12,5 +12,5 @@ export const flosAwakening = {
     "ruled from sweep evidence 'The King of Destruction has awakened. Flos has returned.' — flos-return NOT aliased: its ch326 ref is the Tiqr campaign - one lost good ref (ch92) beats one false join (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "global-event",
   seq: 17,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent

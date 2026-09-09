@@ -14,5 +14,5 @@ export const christmasY2 = {
   namedEventKind: "festival",
   lastChapter: 750,
   seq: 8,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent

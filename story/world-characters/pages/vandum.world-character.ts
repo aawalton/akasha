@@ -5,7 +5,7 @@ export const vandum = {
   pageTypeSlug: "world-character",
   slug: "vandum",
   title: "Vandum",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 50,
   eventCount: 4,
   firstChapter: 636,

@@ -5,7 +5,7 @@ export const breathOfTheWild = {
   pageTypeSlug: "story-design",
   slug: "breath-of-the-wild",
   title: "Breath of the Wild: The Chronicle of Hyrule — story design",
-  worldSlug: "hyrule",
+  world: "hyrule",
   premise: "md",
   genre: "LitRPG / Fantasy Novelization",
   tone: "Elegiac but hopeful. Third-person close on Link (silence as rich interiority) with multi-POV for Champions-era chapters. Adaptive LitRPG integration — system fades during emotional scenes, comes alive during combat and puzzles.",

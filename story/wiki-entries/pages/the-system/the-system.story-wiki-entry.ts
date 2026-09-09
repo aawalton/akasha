@@ -5,7 +5,7 @@ export const theSystem = {
   pageTypeSlug: "story-wiki-entry",
   slug: "the-system",
   title: "The System",
-  worldSlug: "tower-of-nimue",
+  world: "tower-of-nimue",
   kind: "system",
   chapterNumber: 2,
   prose: "txt",

@@ -5,7 +5,7 @@ export const embria = {
   pageTypeSlug: "world-character",
   slug: "embria",
   title: "Embria",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 29,
   eventCount: 5,
   firstChapter: 563,

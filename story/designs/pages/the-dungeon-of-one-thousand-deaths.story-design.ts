@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths = {
   pageTypeSlug: "story-design",
   slug: "the-dungeon-of-one-thousand-deaths",
   title: "The Dungeon of One Thousand Deaths — story design",
-  worldSlug: "the-dungeon-of-one-thousand-deaths",
+  world: "the-dungeon-of-one-thousand-deaths",
   premise: "md",
   genre: "LitRPG / Dark Fantasy",
   tone: "Dark and serious. Each death is tragic, meaningful. The dungeon is genuinely horrific. Readers feel the weight of every life lost.",

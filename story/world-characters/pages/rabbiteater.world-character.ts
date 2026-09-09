@@ -5,7 +5,7 @@ export const rabbiteater = {
   pageTypeSlug: "world-character",
   slug: "rabbiteater",
   title: "Rabbiteater",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 40,
   eventCount: 38,
   firstChapter: 283,

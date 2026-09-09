@@ -5,7 +5,7 @@ export const shorthilt = {
   pageTypeSlug: "world-character",
   slug: "shorthilt",
   title: "Shorthilt",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 24,
   eventCount: 2,
   firstChapter: 283,

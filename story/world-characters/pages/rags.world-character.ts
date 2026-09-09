@@ -5,7 +5,7 @@ export const rags = {
   pageTypeSlug: "world-character",
   slug: "rags",
   title: "Chieftain Rags",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 35,
   eventCount: 27,
   firstChapter: 83,

@@ -12,5 +12,5 @@ export const bloodfeastRaid = {
     "ruled from sweep evidence 'After the Bloodfeast Raiders attack' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
   seq: 31,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent

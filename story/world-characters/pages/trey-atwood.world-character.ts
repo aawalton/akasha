@@ -5,7 +5,7 @@ export const treyAtwood = {
   pageTypeSlug: "world-character",
   slug: "trey-atwood",
   title: "Trey",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 20,
   eventCount: 15,
   firstChapter: 399,

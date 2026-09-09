@@ -5,7 +5,7 @@ export const azKerash = {
   pageTypeSlug: "world-character",
   slug: "az-kerash",
   title: "Az'kerash",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 78,
   eventCount: 6,
   firstChapter: 614,

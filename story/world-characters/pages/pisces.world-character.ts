@@ -5,7 +5,7 @@ export const pisces = {
   pageTypeSlug: "world-character",
   slug: "pisces",
   title: "Pisces",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   eventCount: 1,
   firstChapter: 522,
   lastChapter: 522,

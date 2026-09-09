@@ -5,7 +5,7 @@ export const apista = {
   pageTypeSlug: "world-character",
   slug: "apista",
   title: "Apista",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   eventCount: 2,
   firstChapter: 319,
   lastChapter: 319,

@@ -5,7 +5,7 @@ export const selysShivertail = {
   pageTypeSlug: "world-character",
   slug: "selys-shivertail",
   title: "Selys",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 28,
   eventCount: 26,
   firstChapter: 258,

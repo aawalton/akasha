@@ -5,7 +5,7 @@ export const briganda = {
   pageTypeSlug: "world-character",
   slug: "briganda",
   title: "Briganda",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 34,
   eventCount: 3,
   firstChapter: 506,

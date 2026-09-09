@@ -12,5 +12,5 @@ export const summoning = {
     "asserted 'Those first few days when we were all summoned to this world' — unique global moment (rhia-ruled 2026-07-15)",
   namedEventKind: "global-event",
   seq: 1,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent

@@ -5,7 +5,7 @@ export const ulvama = {
   pageTypeSlug: "world-character",
   slug: "ulvama",
   title: "Ulvama",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 39,
   eventCount: 10,
   firstChapter: 532,

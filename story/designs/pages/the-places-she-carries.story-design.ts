@@ -5,7 +5,7 @@ export const thePlacesSheCarries = {
   pageTypeSlug: "story-design",
   slug: "the-places-she-carries",
   title: "The Places She Carries — story design",
-  worldSlug: "the-places-she-carries",
+  world: "the-places-she-carries",
   premise: "md",
   genre: "litrpg, progression fantasy, cozy fantasy, slice-of-life",
   tone: "genre: Cozy progression fantasy with an explorer protagonist\ncombatRole: Minimal and non-central. Wren is not a fighter.\ndescription: Warm and grounded without being saccharine. Wren is sincere, not naive — she knows the Thornwild is dangerous and the corruption is real. But she approaches the world with a fundamental belief that paying attention is never wasted.\nvoiceDescription: Like sitting with a friend who takes you on a walk through a place they love and shows you things you would have walked right past.\nemotionalRegister: Joy of noticing, warmth of connection, gentle ache of letting go, satisfaction of building something from nothing\nprogressionDensity: High — readers want to see numbers, tiers, discoveries, and system interactions frequently",

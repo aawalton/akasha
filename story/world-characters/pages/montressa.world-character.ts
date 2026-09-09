@@ -5,7 +5,7 @@ export const montressa = {
   pageTypeSlug: "world-character",
   slug: "montressa",
   title: "Montressa",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 16,
   eventCount: 3,
   firstChapter: 640,

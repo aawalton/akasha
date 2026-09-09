@@ -5,7 +5,7 @@ export const olesm = {
   pageTypeSlug: "world-character",
   slug: "olesm",
   title: "Olesm",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 35,
   eventCount: 18,
   firstChapter: 223,

@@ -5,7 +5,7 @@ export const moltin = {
   pageTypeSlug: "world-character",
   slug: "moltin",
   title: "Lord Moltin",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 50,
   eventCount: 2,
   firstChapter: 732,

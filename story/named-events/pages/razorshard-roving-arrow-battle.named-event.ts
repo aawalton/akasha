@@ -11,5 +11,5 @@ export const razorshardRovingArrowBattle = {
     "ruled from sweep evidence 'a day before reaching the battleground' (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
   seq: 40,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent

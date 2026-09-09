@@ -5,7 +5,7 @@ export const snapjaw = {
   pageTypeSlug: "world-character",
   slug: "snapjaw",
   title: "Snapjaw",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 31,
   eventCount: 7,
   firstChapter: 532,

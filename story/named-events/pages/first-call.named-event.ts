@@ -12,5 +12,5 @@ export const firstCall = {
     "asserted 'nearly two weeks since we got the call where we realized we weren't the only people in this world' — unique moment (rhia-ruled 2026-07-15)",
   namedEventKind: "global-event",
   seq: 2,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent

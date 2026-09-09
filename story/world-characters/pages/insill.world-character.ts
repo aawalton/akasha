@@ -5,7 +5,7 @@ export const insill = {
   pageTypeSlug: "world-character",
   slug: "insill",
   title: "Insill",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 28,
   eventCount: 2,
   firstChapter: 622,

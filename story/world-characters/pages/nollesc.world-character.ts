@@ -5,7 +5,7 @@ export const nollesc = {
   pageTypeSlug: "world-character",
   slug: "nollesc",
   title: "Nollesc",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 31,
   eventCount: 1,
   firstChapter: 655,

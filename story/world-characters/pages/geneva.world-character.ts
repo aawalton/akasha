@@ -5,7 +5,7 @@ export const geneva = {
   pageTypeSlug: "world-character",
   slug: "geneva",
   title: "Geneva",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 34,
   eventCount: 5,
   firstChapter: 131,

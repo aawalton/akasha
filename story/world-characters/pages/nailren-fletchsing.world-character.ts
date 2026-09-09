@@ -5,7 +5,7 @@ export const nailrenFletchsing = {
   pageTypeSlug: "world-character",
   slug: "nailren-fletchsing",
   title: "Nailren Fletchsing",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   maxLevel: 7,
   eventCount: 6,
   firstChapter: 768,

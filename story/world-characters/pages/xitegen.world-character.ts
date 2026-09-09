@@ -5,7 +5,7 @@ export const xitegen = {
   pageTypeSlug: "world-character",
   slug: "xitegen",
   title: "Lord Xitegen",
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
   eventCount: 1,
   firstChapter: 749,
   lastChapter: 749,

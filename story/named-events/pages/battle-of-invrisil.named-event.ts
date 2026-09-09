@@ -12,5 +12,5 @@ export const battleOfInvrisil = {
     "ruled from sweep evidence 'It had been three days since the battle at Invrisil' — Zel died at this battle - same-day merge is evidence-backed (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
   seq: 12,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent

@@ -5,7 +5,7 @@ export const cornerstone = {
   pageTypeSlug: "story-design",
   slug: "cornerstone",
   title: "Cornerstone — story design",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   premise: "md",
   tone: "Cozy-but-consequential frontier fantasy. Warm, grounded, hopeful; stakes\nare real (scarcity, threats to the people who arrive) but the dominant feeling\nis building something that lasts. Wonder over grimdark.",
   themes:

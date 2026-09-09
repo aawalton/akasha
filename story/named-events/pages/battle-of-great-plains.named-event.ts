@@ -12,5 +12,5 @@ export const battleOfGreatPlains = {
     "ruled from sweep evidence 'Nine days after the events at the Great Plains of Izril' — climax of the Meeting of Tribes (rhia-ruled 2026-07-15 drain-end batch)",
   namedEventKind: "battle",
   seq: 29,
-  worldSlug: "the-wandering-inn",
+  world: "the-wandering-inn",
 } as const satisfies NamedEvent
