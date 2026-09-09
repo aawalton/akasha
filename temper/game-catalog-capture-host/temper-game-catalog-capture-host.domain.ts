@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperGameCatalogCaptureHost = {
   id: "01a06084-d418-72e5-b162-3bb5b84f91b3",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-game-catalog-capture-host",
   definition: "the zod schemas reading every game catalog a capture addon saved",
-  manifest: "json",
   parts: [
     "module/achievement-catalog-schema",
     "module/antiquity-lore-catalog-schema",
@@ -32,4 +31,4 @@ export const temperGameCatalogCaptureHost = {
       statement: "The inferred type is checked against the shape in `temper-capture-shapes`.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

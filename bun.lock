@@ -53,6 +53,7 @@
         "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-capture-datamining": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
+        "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-catalog-host": "workspace:*",
         "@akasha/temper-catalog-side-file": "workspace:*",
@@ -74,7 +75,6 @@
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-eso-typings": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/temper-game-catalog-capture-host": "workspace:*",
         "@akasha/temper-hud-components": "workspace:*",
         "@akasha/temper-inventory-automation": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
@@ -1540,14 +1540,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/game-catalog-capture-host": {
-      "name": "@akasha/temper-game-catalog-capture-host",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-capture-shapes": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/housing-addon": {
       "name": "@akasha/temper-housing-addon",
       "dependencies": {
@@ -2704,8 +2696,6 @@
     "@akasha/temper-formula-framework": ["@akasha/temper-formula-framework@workspace:temper/temper-formula-framework"],
 
     "@akasha/temper-game-catalog-capture-addon": ["@akasha/temper-game-catalog-capture-addon@workspace:temper/game-catalog-capture-addon"],
-
-    "@akasha/temper-game-catalog-capture-host": ["@akasha/temper-game-catalog-capture-host@workspace:temper/game-catalog-capture-host"],
 
     "@akasha/temper-housing-addon": ["@akasha/temper-housing-addon@workspace:temper/housing-addon"],
 
