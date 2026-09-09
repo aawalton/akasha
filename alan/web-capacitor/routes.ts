@@ -7,7 +7,10 @@ export default [
       ":pageTypeSlug/:pageHrefParam",
       "routes/alan-web-capacitor-page-detail/alan-web-capacitor-page-detail.route.code.tsx"
     ),
-    route(":pageTypeSlug", "routes/page-listing.tsx"),
+    route(
+      ":pageTypeSlug",
+      "routes/alan-web-capacitor-page-listing/alan-web-capacitor-page-listing.route.code.tsx"
+    ),
   ]),
-  route("sign-in", "routes/sign-in.tsx"),
+  route("sign-in", "routes/alan-web-capacitor-sign-in/alan-web-capacitor-sign-in.route.code.tsx"),
 ] satisfies RouteConfig

@@ -21,6 +21,8 @@ export const alanWebCapacitor = {
     "route/alan-web-capacitor-home",
     "stylesheet/alan-web-capacitor-look",
     "route/alan-web-capacitor-page-detail",
+    "route/alan-web-capacitor-page-listing",
+    "route/alan-web-capacitor-sign-in",
   ],
   invariants: [
     {
