@@ -7,5 +7,5 @@ export const authProxy = {
   slug: "auth-proxy",
   definition: "the image the authenticating proxy runs in",
   kind: "bun-service",
-  folder: "infrastructure/auth-proxy",
+  folder: "infrastructure/networks/auth-proxy",
 } as const satisfies BuiltImage
