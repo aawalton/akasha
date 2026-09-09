@@ -1,8 +1,8 @@
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
-import { calculateBuildStatsByBar } from "@akasha/temper-characters-stats/metric-calculator"
-import type { MetricValue } from "@akasha/temper-characters-stats/metric-value"
 import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
 import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
+import { calculateBuildStatsByBar } from "akasha/temper/temper-characters-stats/metric-calculator/metric-calculator.module.code.ts"
+import type { MetricValue } from "akasha/temper/temper-characters-stats/metric-value/metric-value.module.code.ts"
 import { useEffect, useState } from "react"
 
 export function useStatsCalculation(build: CharacterState) {

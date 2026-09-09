@@ -14,14 +14,14 @@ import {
   EmptyTitle,
 } from "@akasha/design-patterns/empty"
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
-import { METRIC_TREE } from "@akasha/temper-characters-stats/metric-tree-data"
+import { isNamedSource } from "@akasha/temper-formula-framework/effect-source"
+import { METRIC_TREE } from "akasha/temper/temper-characters-stats/metric-tree-data/metric-tree-data.module.code.ts"
 import {
   isMetricNode,
   isSubcategoryNode,
   type MetricTreeNode,
-} from "@akasha/temper-characters-stats/metric-tree-types"
-import { getMetricDisplayName } from "@akasha/temper-characters-stats/metrics"
-import { isNamedSource } from "@akasha/temper-formula-framework/effect-source"
+} from "akasha/temper/temper-characters-stats/metric-tree-types/metric-tree-types.module.code.ts"
+import { getMetricDisplayName } from "akasha/temper/temper-characters-stats/metrics/metrics.module.code.ts"
 import { Search } from "lucide-react"
 import { useCallback, useState } from "react"
 import { BuffOrDebuffExplanationDialog } from "../buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx"

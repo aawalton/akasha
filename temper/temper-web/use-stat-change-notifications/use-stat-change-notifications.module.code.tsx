@@ -1,19 +1,19 @@
 "use client"
 
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
-import { buildStateToEffectSources } from "@akasha/temper-characters-stats/build-state-adapter"
+import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
+import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
+import { buildStateToEffectSources } from "akasha/temper/temper-characters-stats/build-state-adapter/build-state-adapter.module.code.ts"
 import {
   compareMetricValuesUnfiltered,
   filterByAffectedMetrics,
-} from "@akasha/temper-characters-stats/compare-stats"
+} from "akasha/temper/temper-characters-stats/compare-stats/compare-stats.module.code.ts"
 import {
   diffEffectSources,
   summarizeEffectChanges,
-} from "@akasha/temper-characters-stats/diff-effect-sources"
-import { calculateBuildStatsByBar } from "@akasha/temper-characters-stats/metric-calculator"
-import type { MetricValue } from "@akasha/temper-characters-stats/metric-value"
-import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
-import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
+} from "akasha/temper/temper-characters-stats/diff-effect-sources/diff-effect-sources.module.code.ts"
+import { calculateBuildStatsByBar } from "akasha/temper/temper-characters-stats/metric-calculator/metric-calculator.module.code.ts"
+import type { MetricValue } from "akasha/temper/temper-characters-stats/metric-value/metric-value.module.code.ts"
 import { useEffect, useRef } from "react"
 import { toast } from "sonner"
 import {

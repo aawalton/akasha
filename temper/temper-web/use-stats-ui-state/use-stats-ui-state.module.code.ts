@@ -1,5 +1,5 @@
-import type { MetricValue } from "@akasha/temper-characters-stats/metric-value"
 import type { BuffOrDebuffSource } from "@akasha/temper-formula-framework/buff-or-debuff-source"
+import type { MetricValue } from "akasha/temper/temper-characters-stats/metric-value/metric-value.module.code.ts"
 import { useState } from "react"
 
 export function useStatsUIState() {

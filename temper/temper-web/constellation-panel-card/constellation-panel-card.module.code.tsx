@@ -3,11 +3,11 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import { Button } from "@akasha/design-primitives/button"
+import type { ChampionPointId } from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
 import {
   getCPSkillDescription,
   getCPSkillDisplayName,
-} from "@akasha/temper-characters-stats/extract-champion-points"
-import type { ChampionPointId } from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
+} from "akasha/temper/temper-characters-stats/extract-champion-points/extract-champion-points.module.code.ts"
 import { Hammer, Plus, Shield, Swords } from "lucide-react"
 import { useState } from "react"
 import { StarSelectionDialog } from "../star-selection-dialog/star-selection-dialog.module.code.tsx"

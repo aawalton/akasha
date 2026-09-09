@@ -12,7 +12,7 @@ export const temper = {
     "domain/temper-lorebooks",
     "domain/temper-characters-equipment",
     "domain/temper-characters-equipment-ui",
-    "workspace-package/temper-characters-stats",
+    "domain/temper-characters-stats",
     "eso-addon/temper-companions-addon",
     "eso-addon/temper-housing-addon",
     "domain/temper-characters-capture-addon",

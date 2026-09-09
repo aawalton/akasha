@@ -11,13 +11,13 @@ import {
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Text } from "@akasha/design-primitives/text-body"
-import { metricToDisplayFormula } from "@akasha/temper-characters-stats/metric-display-formula"
-import type { MetricValue } from "@akasha/temper-characters-stats/metric-value"
-import { getMetricDisplayName } from "@akasha/temper-characters-stats/metrics"
 import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
 import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
 import { formatStatValue } from "@akasha/temper-formula-framework/number-format"
 import { typedPartialRecordKeys } from "@akasha/temper-formula-framework/record-parts"
+import { metricToDisplayFormula } from "akasha/temper/temper-characters-stats/metric-display-formula/metric-display-formula.module.code.ts"
+import type { MetricValue } from "akasha/temper/temper-characters-stats/metric-value/metric-value.module.code.ts"
+import { getMetricDisplayName } from "akasha/temper/temper-characters-stats/metrics/metrics.module.code.ts"
 import { FormulaDisplay } from "../formula-display/formula-display.module.code.tsx"
 
 interface StatExplanationDialogProps {

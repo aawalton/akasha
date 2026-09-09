@@ -1,10 +1,10 @@
-import type { MetricChange } from "@akasha/temper-characters-stats/compare-stats"
-import { getMetricDisplayName } from "@akasha/temper-characters-stats/metrics"
 import {
   type BuffOrDebuffId,
   buffOrDebuff,
 } from "@akasha/temper-formula-framework/buff-or-debuff-source"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import type { MetricChange } from "akasha/temper/temper-characters-stats/compare-stats/compare-stats.module.code.ts"
+import { getMetricDisplayName } from "akasha/temper/temper-characters-stats/metrics/metrics.module.code.ts"
 import { Minus, Plus, TrendingDown, TrendingUp } from "lucide-react"
 
 export interface StatChangeNotification {
