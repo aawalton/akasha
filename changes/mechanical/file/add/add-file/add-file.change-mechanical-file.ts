@@ -5,7 +5,7 @@ export const addFile = {
   pageTypeSlug: "change-mechanical-file",
   slug: "add-file",
   changeMode: "change-mode-add",
-  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetType: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file",
   definition: "one body written at one path, with nothing else judged",
   code: "ts",

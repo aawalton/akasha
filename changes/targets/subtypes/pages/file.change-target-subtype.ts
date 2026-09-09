@@ -5,5 +5,5 @@ export const file = {
   pageTypeSlug: "change-target-subtype",
   slug: "file",
   definition: "any file, whatever that file has",
-  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetType: "change-target-type/file",
 } as const satisfies ChangeTargetSubtype

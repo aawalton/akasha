@@ -5,7 +5,7 @@ export const renamePropertySignature = {
   pageTypeSlug: "change-mechanical-file-content",
   slug: "rename-property-signature",
   changeMode: "change-mode-rename",
-  changeTargetTypeSlug: "change-target-type/file-content",
+  changeTargetType: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-code",
   definition: "one property a type declares spelled anew wherever the checker resolves to it",
   code: "ts",

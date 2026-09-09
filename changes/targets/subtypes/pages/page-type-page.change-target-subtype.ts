@@ -5,5 +5,5 @@ export const pageTypePage = {
   pageTypeSlug: "change-target-subtype",
   slug: "page-type-page",
   definition: "every page of one page type, taken as a whole page",
-  changeTargetTypeSlug: "change-target-type/page-type",
+  changeTargetType: "change-target-type/page-type",
 } as const satisfies ChangeTargetSubtype

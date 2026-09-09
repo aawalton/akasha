@@ -5,5 +5,5 @@ export const prosePattern = {
   pageTypeSlug: "change-target-subtype",
   slug: "prose-pattern",
   definition: "the prose one pattern matches",
-  changeTargetTypeSlug: "change-target-type/prose",
+  changeTargetType: "change-target-type/prose",
 } as const satisfies ChangeTargetSubtype

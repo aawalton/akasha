@@ -4,7 +4,7 @@ export const folderNotLeftNamed = {
   id: "01a08238-9081-766f-acab-30c5d8f612ee",
   pageTypeSlug: "change-guard",
   slug: "folder-not-left-named",
-  changeTargetTypeSlug: "change-target-type/file-content",
+  changeTargetType: "change-target-type/file-content",
   definition: "the guard refusing an answer writing a body that spells a folder the answer empties",
   code: "ts",
   test: "ts",

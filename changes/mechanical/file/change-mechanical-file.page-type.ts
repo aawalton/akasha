@@ -3,7 +3,7 @@ import type { ChangeTargetSubtypeSlug } from "../../properties/change-target-sub
 import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
 
 export type ChangeMechanicalFile = ChangeMechanical & {
-  changeTargetTypeSlug: "change-target-type/file"
+  changeTargetType: "change-target-type/file"
   changeTargetSubtypeSlug: ChangeTargetSubtypeSlug
 }
 
@@ -22,7 +22,7 @@ export const changeMechanicalFile = {
     "domain/change-mechanical-file-rename",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
     {
       pagePropertySlug: "relation-property/change-target-subtype-slug",
       required: true,

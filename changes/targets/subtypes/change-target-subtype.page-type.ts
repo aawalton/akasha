@@ -1,10 +1,10 @@
 import type { Domain } from "../../../domains/domain.page-type.ts"
 import type { PageType } from "../../../pages/types/page-type.page-type.ts"
-import type { ChangeTargetTypeSlug } from "../../properties/change-target-type-slug.relation-property.ts"
+import type { ChangeTargetType } from "../../properties/change-target-type.relation-property.ts"
 import type { ChangeTargetSubtypeParentSlug } from "./properties/change-target-subtype-parent-slug.relation-property.ts"
 
 export type ChangeTargetSubtype = Domain & {
-  changeTargetTypeSlug: ChangeTargetTypeSlug
+  changeTargetType: ChangeTargetType
   parentSlug?: ChangeTargetSubtypeParentSlug
 }
 
@@ -36,7 +36,7 @@ export const changeTargetSubtype = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
     {
       pagePropertySlug: "relation-property/change-target-subtype-parent-slug",
       required: false,

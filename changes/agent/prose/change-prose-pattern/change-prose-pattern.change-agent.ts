@@ -5,7 +5,7 @@ export const changeProsePattern = {
   pageTypeSlug: "change-agent",
   slug: "change-prose-pattern",
   changeMode: "change-mode-change",
-  changeTargetTypeSlug: "change-target-type/prose",
+  changeTargetType: "change-target-type/prose",
   changeTargetSubtypeSlug: "change-target-subtype/prose-pattern",
   definition: "every passage a banned term is written in restated in the words written instead",
   code: "ts",

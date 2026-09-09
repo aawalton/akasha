@@ -5,7 +5,7 @@ export const removeTypeMember = {
   pageTypeSlug: "change-mechanical-file-content",
   slug: "remove-type-member",
   changeMode: "change-mode-remove",
-  changeTargetTypeSlug: "change-target-type/file-content",
+  changeTargetType: "change-target-type/file-content",
   definition: "one member taken out of an exported object type",
   code: "ts",
   test: "ts",

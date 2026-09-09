@@ -5,7 +5,7 @@ export const addPageProperty = {
   pageTypeSlug: "change-mechanical-file-content",
   slug: "add-page-property",
   changeMode: "change-mode-add",
-  changeTargetTypeSlug: "change-target-type/file-content",
+  changeTargetType: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value",
   definition: "one key put into a page's body under one value rather than under a list",
   code: "ts",

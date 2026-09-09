@@ -5,7 +5,7 @@ export const renameFilePageProperty = {
   pageTypeSlug: "change-mechanical",
   slug: "rename-file-page-property",
   changeMode: "change-mode-rename",
-  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetType: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-page-property",
   definition: "one page property renamed and carried to where its slug says",
   code: "ts",

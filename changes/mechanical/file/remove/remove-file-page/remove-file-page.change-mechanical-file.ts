@@ -5,7 +5,7 @@ export const removeFilePage = {
   pageTypeSlug: "change-mechanical-file",
   slug: "remove-file-page",
   changeMode: "change-mode-remove",
-  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetType: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-page",
   definition: "one page taken away with every file that page keeps beside the page",
   code: "ts",

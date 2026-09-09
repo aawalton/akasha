@@ -5,7 +5,7 @@ export const removeFileCode = {
   pageTypeSlug: "change-mechanical",
   slug: "remove-file-code",
   changeMode: "change-mode-remove",
-  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetType: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-code",
   definition: "one code file taken away, with the imports naming that file judged",
   code: "ts",

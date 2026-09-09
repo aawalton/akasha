@@ -5,6 +5,6 @@ export const filePageProperty = {
   pageTypeSlug: "change-target-subtype",
   slug: "file-page-property",
   definition: "a file with a page property",
-  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetType: "change-target-type/file",
   parentSlug: "change-target-subtype/file-page",
 } as const satisfies ChangeTargetSubtype

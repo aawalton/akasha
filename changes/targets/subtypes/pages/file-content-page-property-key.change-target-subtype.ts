@@ -5,5 +5,5 @@ export const fileContentPagePropertyKey = {
   pageTypeSlug: "change-target-subtype",
   slug: "file-content-page-property-key",
   definition: "a body read as the keys a page states its values under",
-  changeTargetTypeSlug: "change-target-type/file-content",
+  changeTargetType: "change-target-type/file-content",
 } as const satisfies ChangeTargetSubtype

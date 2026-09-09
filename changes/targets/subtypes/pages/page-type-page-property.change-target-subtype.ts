@@ -5,5 +5,5 @@ export const pageTypePageProperty = {
   pageTypeSlug: "change-target-subtype",
   slug: "page-type-page-property",
   definition: "one property a page type declares, on every page of that page type",
-  changeTargetTypeSlug: "change-target-type/page-type",
+  changeTargetType: "change-target-type/page-type",
 } as const satisfies ChangeTargetSubtype

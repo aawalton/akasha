@@ -5,7 +5,7 @@ export const removeFileOfAnyKind = {
   pageTypeSlug: "change-mechanical",
   slug: "remove-file-of-any-kind",
   changeMode: "change-mode-remove",
-  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetType: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file",
   definition: "one file taken away, through the change taking that kind of path away",
   code: "ts",

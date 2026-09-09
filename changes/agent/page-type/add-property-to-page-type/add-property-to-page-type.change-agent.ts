@@ -5,7 +5,7 @@ export const addPropertyToPageType = {
   pageTypeSlug: "change-agent",
   slug: "add-property-to-page-type",
   changeMode: "change-mode-add",
-  changeTargetTypeSlug: "change-target-type/page-type",
+  changeTargetType: "change-target-type/page-type",
   changeTargetSubtypeSlug: "change-target-subtype/page-type-page-property",
   definition: "one page property declared on one page type",
   code: "ts",

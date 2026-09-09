@@ -5,7 +5,7 @@ export const changeFileContentOfAnyKind = {
   pageTypeSlug: "change-mechanical-file-content",
   slug: "change-file-content-of-any-kind",
   changeMode: "change-mode-change",
-  changeTargetTypeSlug: "change-target-type/file-content",
+  changeTargetType: "change-target-type/file-content",
   definition: "one passage of one body replaced, through the change working that kind of body",
   code: "ts",
   test: "ts",

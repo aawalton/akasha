@@ -5,7 +5,7 @@ export const renamePageAddress = {
   pageTypeSlug: "change-mechanical-file-content",
   slug: "rename-page-address",
   changeMode: "change-mode-rename",
-  changeTargetTypeSlug: "change-target-type/file-content",
+  changeTargetType: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value",
   definition: "one page's address restated wherever a body spells that address",
   code: "ts",

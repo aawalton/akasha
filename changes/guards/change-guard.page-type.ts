@@ -1,9 +1,9 @@
 import type { Module } from "../../code-system/modules/module.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
-import type { ChangeTargetTypeSlug } from "../properties/change-target-type-slug.relation-property.ts"
+import type { ChangeTargetType } from "../properties/change-target-type.relation-property.ts"
 
 export type ChangeGuard = Module & {
-  changeTargetTypeSlug: ChangeTargetTypeSlug
+  changeTargetType: ChangeTargetType
 }
 
 export const changeGuard = {
@@ -26,7 +26,7 @@ export const changeGuard = {
     "change-guard/folder-not-left-named",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
   ],
   invariants: [
     {

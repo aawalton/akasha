@@ -3,7 +3,7 @@ import type { ChangeTargetSubtypeSlug } from "../../properties/change-target-sub
 import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
 
 export type ChangeMechanicalFolder = ChangeMechanical & {
-  changeTargetTypeSlug: "change-target-type/folder"
+  changeTargetType: "change-target-type/folder"
   changeTargetSubtypeSlug: ChangeTargetSubtypeSlug
 }
 
@@ -16,7 +16,7 @@ export const changeMechanicalFolder = {
   extendsSlug: ["page-type/change-mechanical"],
   partSlugs: ["domain/change-mechanical-folder-remove", "domain/change-mechanical-folder-move"],
   properties: [
-    { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
     {
       pagePropertySlug: "relation-property/change-target-subtype-slug",
       required: true,

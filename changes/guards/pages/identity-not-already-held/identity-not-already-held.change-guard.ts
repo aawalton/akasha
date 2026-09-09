@@ -4,7 +4,7 @@ export const identityNotAlreadyHeld = {
   id: "01a0797f-d415-717a-919e-cc0760a816fd",
   pageTypeSlug: "change-guard",
   slug: "identity-not-already-held",
-  changeTargetTypeSlug: "change-target-type/file-content",
+  changeTargetType: "change-target-type/file-content",
   definition: "the guard refusing an answer whose written page takes an identity another page has",
   code: "ts",
   test: "ts",

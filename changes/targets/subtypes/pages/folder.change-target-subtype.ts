@@ -5,5 +5,5 @@ export const folder = {
   pageTypeSlug: "change-target-subtype",
   slug: "folder",
   definition: "any folder, whatever that folder has",
-  changeTargetTypeSlug: "change-target-type/folder",
+  changeTargetType: "change-target-type/folder",
 } as const satisfies ChangeTargetSubtype

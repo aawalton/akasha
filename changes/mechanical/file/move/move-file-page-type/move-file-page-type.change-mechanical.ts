@@ -5,7 +5,7 @@ export const moveFilePageType = {
   pageTypeSlug: "change-mechanical",
   slug: "move-file-page-type",
   changeMode: "change-mode-move",
-  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetType: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-page-type",
   definition: "one page type's own file moved to another path with the files beside it",
   code: "ts",

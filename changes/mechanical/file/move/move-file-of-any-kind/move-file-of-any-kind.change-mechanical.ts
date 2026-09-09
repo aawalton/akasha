@@ -5,7 +5,7 @@ export const moveFileOfAnyKind = {
   pageTypeSlug: "change-mechanical",
   slug: "move-file-of-any-kind",
   changeMode: "change-mode-move",
-  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetType: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file",
   definition: "one file moved to another path, through the change moving that kind of path",
   code: "ts",

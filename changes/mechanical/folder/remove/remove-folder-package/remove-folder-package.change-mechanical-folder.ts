@@ -5,7 +5,7 @@ export const removeFolderPackage = {
   pageTypeSlug: "change-mechanical-folder",
   slug: "remove-folder-package",
   changeMode: "change-mode-remove",
-  changeTargetTypeSlug: "change-target-type/folder",
+  changeTargetType: "change-target-type/folder",
   changeTargetSubtypeSlug: "change-target-subtype/folder-package",
   definition: "one workspace package taken away with the folder that package sits in",
   code: "ts",

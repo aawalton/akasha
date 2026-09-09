@@ -5,6 +5,6 @@ export const folderPackage = {
   pageTypeSlug: "change-target-subtype",
   slug: "folder-package",
   definition: "a folder with a workspace package",
-  changeTargetTypeSlug: "change-target-type/folder",
+  changeTargetType: "change-target-type/folder",
   parentSlug: "change-target-subtype/folder",
 } as const satisfies ChangeTargetSubtype

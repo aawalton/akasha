@@ -5,7 +5,7 @@ export const moveFileCode = {
   pageTypeSlug: "change-mechanical",
   slug: "move-file-code",
   changeMode: "change-mode-move",
-  changeTargetTypeSlug: "change-target-type/file",
+  changeTargetType: "change-target-type/file",
   changeTargetSubtypeSlug: "change-target-subtype/file-code",
   definition: "one code file moved to another path, with every body importing it repointed",
   code: "ts",

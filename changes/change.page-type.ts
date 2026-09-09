@@ -3,12 +3,12 @@ import type { ChangeKindSlug } from "../commands/properties/change-kind-slug.rel
 import type { PageType } from "../pages/types/page-type.page-type.ts"
 import type { ChangeMode } from "./properties/change-mode.relation-property.ts"
 import type { ChangeTargetSubtypeSlug } from "./properties/change-target-subtype-slug.relation-property.ts"
-import type { ChangeTargetTypeSlug } from "./properties/change-target-type-slug.relation-property.ts"
+import type { ChangeTargetType } from "./properties/change-target-type.relation-property.ts"
 
 export type Change = Module & {
   changeKindSlug: ChangeKindSlug
   changeMode: ChangeMode
-  changeTargetTypeSlug?: ChangeTargetTypeSlug
+  changeTargetType?: ChangeTargetType
   changeTargetSubtypeSlug?: ChangeTargetSubtypeSlug
 }
 
@@ -38,7 +38,7 @@ export const change = {
     "module/subagent-handed",
     "page-type/change-mode",
     "relation-property/change-mode",
-    "relation-property/change-target-type-slug",
+    "relation-property/change-target-type",
     "relation-property/change-target-subtype-slug",
     "domain/change-target",
     "module/target-kinding",
@@ -49,7 +49,7 @@ export const change = {
     { pagePropertySlug: "relation-property/change-kind-slug", required: true, many: false },
     { pagePropertySlug: "relation-property/change-mode", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/change-target-type-slug",
+      pagePropertySlug: "relation-property/change-target-type",
       required: false,
       many: false,
     },

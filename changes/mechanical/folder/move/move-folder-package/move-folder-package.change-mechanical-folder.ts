@@ -5,7 +5,7 @@ export const moveFolderPackage = {
   pageTypeSlug: "change-mechanical-folder",
   slug: "move-folder-package",
   changeMode: "change-mode-move",
-  changeTargetTypeSlug: "change-target-type/folder",
+  changeTargetType: "change-target-type/folder",
   changeTargetSubtypeSlug: "change-target-subtype/folder-package",
   definition: "a workspace package moved to another folder, taking the slug that folder names",
   code: "ts",

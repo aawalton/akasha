@@ -2,7 +2,7 @@ import type { PageType } from "../../../pages/types/page-type.page-type.ts"
 import type { ChangeMechanical } from "../change-mechanical.page-type.ts"
 
 export type ChangeMechanicalFileContent = ChangeMechanical & {
-  changeTargetTypeSlug: "change-target-type/file-content"
+  changeTargetType: "change-target-type/file-content"
 }
 
 export const changeMechanicalFileContent = {
@@ -20,6 +20,6 @@ export const changeMechanicalFileContent = {
   ],
   extendsSlug: ["page-type/change-mechanical"],
   properties: [
-    { pagePropertySlug: "relation-property/change-target-type-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/change-target-type", required: true, many: false },
   ],
 } as const satisfies PageType
