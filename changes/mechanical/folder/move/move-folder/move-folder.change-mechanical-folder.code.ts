@@ -1,4 +1,6 @@
-import { join, relative } from "node:path"
+import { dirname, join, relative } from "node:path"
+import { reachesIn } from "@akasha/code/package-manifest"
+import { manifestsIn } from "@akasha/indexes/package-reaching"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type {
@@ -8,6 +10,8 @@ import type {
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const CHANGE_IMPORTS = "change-mechanical-file-content/change-imports"
+
+const CHANGE_MANIFEST_WAYS = "change-mechanical-file-content/change-manifest-ways"
 
 const MOVE_FILE = "change-mechanical-file/move-file"
 
@@ -35,6 +39,15 @@ function movedInto(world: World, at: string, to: string, under: readonly string[
   return { moved: said }
 }
 
+function waysNaming(world: World, at: string, moved: ReadonlyMap<string, string>): boolean {
+  const held = world.textOf(at)
+  if (held === null) return false
+  for (const one of reachesIn(dirname(at), held).values()) {
+    if (moved.has(one)) return true
+  }
+  return false
+}
+
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (given.from === given.to) {
     return refusing(`\`${given.to}\` is the folder those files sit under`)
@@ -52,6 +65,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   const reading = importingOf(world.index, moved)
   if ("unread" in reading) return refusing(reading.unread)
   const carried = Object.fromEntries(moved)
+  const manifests = manifestsIn(world.index.everyPath(), world.index.fileKeysAt())
   const edits: FileChange[] = []
   let seen = world
   for (const [one, next] of moved) {
@@ -70,6 +84,13 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
       return refusing(`\`${path}\` names a path that moved and could not be read`)
     }
     const answer = await reach(seen, CHANGE_IMPORTS, { was: path, now: path, moved: carried })
+    if (answer.said.refused !== null) return answer.said
+    edits.push(...answer.said.edits)
+    seen = answer.world
+  }
+  for (const at of manifests) {
+    if (moved.has(at) || !waysNaming(seen, at, moved)) continue
+    const answer = await reach(seen, CHANGE_MANIFEST_WAYS, { at, moved: carried })
     if (answer.said.refused !== null) return answer.said
     edits.push(...answer.said.edits)
     seen = answer.world
