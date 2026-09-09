@@ -3,6 +3,7 @@ import type { ContextWarrant } from "../context-warrant.page-type.ts"
 export const fileDomain = {
   id: "01a04f58-a7ee-7000-94ad-769aa16fc838",
   pageTypeSlug: "context-warrant",
+  type: "context-warrant",
   slug: "file-domain",
   definition: "what a seat must read for where the file's page sits",
   code: "ts",

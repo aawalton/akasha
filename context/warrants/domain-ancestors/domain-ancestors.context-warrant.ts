@@ -3,6 +3,7 @@ import type { ContextWarrant } from "../context-warrant.page-type.ts"
 export const domainAncestors = {
   id: "01a0582e-282a-7ac8-89a0-dbb5b57e1616",
   pageTypeSlug: "context-warrant",
+  type: "context-warrant",
   slug: "domain-ancestors",
   definition: "what a seat must read for the domains above the one it states",
   code: "ts",

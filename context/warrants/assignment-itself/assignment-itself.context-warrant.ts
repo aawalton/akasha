@@ -3,6 +3,7 @@ import type { ContextWarrant } from "../context-warrant.page-type.ts"
 export const assignmentItself = {
   id: "01a0582e-2829-77ab-9ea6-760d61d23933",
   pageTypeSlug: "context-warrant",
+  type: "context-warrant",
   slug: "assignment-itself",
   definition: "what a seat must read for the assignment it states",
   code: "ts",

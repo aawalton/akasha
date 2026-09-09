@@ -3,6 +3,7 @@ import type { ContextWarrant } from "../context-warrant.page-type.ts"
 export const personaItself = {
   id: "01a05829-80ea-715a-a36e-e239ce488324",
   pageTypeSlug: "context-warrant",
+  type: "context-warrant",
   slug: "persona-itself",
   definition: "what a seat must read for the persona it states",
   code: "ts",

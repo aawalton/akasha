@@ -3,6 +3,7 @@ import type { ContextWarrant } from "../context-warrant.page-type.ts"
 export const roleItself = {
   id: "01a0582e-2828-7d47-9e80-3f63af1f7b41",
   pageTypeSlug: "context-warrant",
+  type: "context-warrant",
   slug: "role-itself",
   definition: "what a seat must read for the role it states",
   code: "ts",
