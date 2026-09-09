@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const listenerSet = {
   id: "01a07cd7-ff21-7b3f-a03a-2ca0fd18a8b8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "listener-set",
   definition: "the callbacks a store tells when the value that store has changes",
   code: "ts",
