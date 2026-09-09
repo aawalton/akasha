@@ -15,8 +15,8 @@ import {
   configmapYaml,
   litestreamConfigmapYaml,
   policyConfigmapYaml,
-} from "./modules/headscale-configmaps/headscale-configmaps.module.code.ts"
-import { networkPolicyYaml } from "./modules/headscale-network-policies/headscale-network-policies.module.code.ts"
+} from "./modules/configmaps/headscale-configmaps.module.code.ts"
+import { networkPolicyYaml } from "./modules/network-policies/headscale-network-policies.module.code.ts"
 
 const LITESTREAM_S3_ENV = [
   {
