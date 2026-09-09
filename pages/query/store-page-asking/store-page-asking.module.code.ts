@@ -3,9 +3,7 @@ import {
   type Asked,
   type ComposedQuery,
   askComposed as composedAnswer,
-  type QueryAnswer,
   type QueryRow,
-  type Value,
 } from "../store-questioning/store-questioning.module.code.ts"
 import {
   type Fetcher,
@@ -13,8 +11,6 @@ import {
   type Sleeper,
   sleep,
 } from "../store-reaching/store-reaching.module.code.ts"
-
-export type { Asked, ComposedQuery, QueryAnswer, QueryRow, Value }
 
 export async function askComposed(
   query: ComposedQuery,
@@ -219,7 +215,7 @@ function declaredFrom(one: Flat, page: Flat | undefined, on: string): Declaratio
     pageId: page === undefined ? "" : (textAt(page, "id") ?? ""),
     on,
     values: one.many === true ? [] : null,
-    targetSlug: page === undefined ? null : textAt(page, "targetPageTypeSlug"),
+    targetSlug: page === undefined ? null : textAt(page, "targetPageType"),
     slugProperty: page === undefined ? null : textAt(page, "propertySlug"),
     mayBeGone: one.required !== true,
   }
