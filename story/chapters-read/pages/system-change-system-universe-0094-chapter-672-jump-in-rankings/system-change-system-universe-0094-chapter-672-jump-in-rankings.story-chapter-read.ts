@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0094Chapter672JumpInRankings = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0094-chapter-672-jump-in-rankings",
   title: "Chapter 672: Jump in Rankings",
-  partOfCollectionSlugs: ["system-change-system-universe"],
+  storySlug: "system-change-system-universe",
   position: 94,
   ownLength: 2146,
   unitSlug: "words",

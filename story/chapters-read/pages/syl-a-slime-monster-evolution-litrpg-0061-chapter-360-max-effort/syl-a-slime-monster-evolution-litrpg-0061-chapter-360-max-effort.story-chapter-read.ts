@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0061Chapter360MaxEffort = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0061-chapter-360-max-effort",
   title: "Chapter 360 : Max Effort",
-  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  storySlug: "syl-a-slime-monster-evolution-litrpg",
   position: 61,
   ownLength: 2116,
   unitSlug: "words",

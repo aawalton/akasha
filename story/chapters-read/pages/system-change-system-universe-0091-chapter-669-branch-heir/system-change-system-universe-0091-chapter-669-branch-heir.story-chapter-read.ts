@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0091Chapter669BranchHeir = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0091-chapter-669-branch-heir",
   title: "Chapter 669: Branch Heir",
-  partOfCollectionSlugs: ["system-change-system-universe"],
+  storySlug: "system-change-system-universe",
   position: 91,
   ownLength: 2038,
   unitSlug: "words",

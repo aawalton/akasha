@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0115Chapter413RemoteWork = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0115-chapter-413-remote-work",
   title: "Chapter 413 : Remote Work",
-  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  storySlug: "syl-a-slime-monster-evolution-litrpg",
   position: 115,
   ownLength: 2579,
   unitSlug: "words",

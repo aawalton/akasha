@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0063Chapter362Deduction = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0063-chapter-362-deduction",
   title: "Chapter 362 : Deduction",
-  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  storySlug: "syl-a-slime-monster-evolution-litrpg",
   position: 63,
   ownLength: 2400,
   unitSlug: "words",

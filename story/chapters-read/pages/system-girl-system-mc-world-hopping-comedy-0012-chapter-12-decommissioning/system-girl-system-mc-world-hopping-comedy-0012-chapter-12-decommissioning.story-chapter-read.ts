@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0012Chapter12Decommissioning = 
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0012-chapter-12-decommissioning",
   title: "Chapter 12: Decommissioning",
-  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  storySlug: "system-girl-system-mc-world-hopping-comedy",
   position: 12,
   ownLength: 1766,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0056Chapter634Loomis = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0056-chapter-634-loomis",
   title: "Chapter 634: Loomis",
-  partOfCollectionSlugs: ["system-change-system-universe"],
+  storySlug: "system-change-system-universe",
   position: 56,
   ownLength: 2093,
   unitSlug: "words",

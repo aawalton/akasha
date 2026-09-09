@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0060Chapter638PerksOfBattleInstinct = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0060-chapter-638-perks-of-battle-instinct",
   title: "Chapter 638: Perks of Battle Instinct",
-  partOfCollectionSlugs: ["system-change-system-universe"],
+  storySlug: "system-change-system-universe",
   position: 60,
   ownLength: 2096,
   unitSlug: "words",

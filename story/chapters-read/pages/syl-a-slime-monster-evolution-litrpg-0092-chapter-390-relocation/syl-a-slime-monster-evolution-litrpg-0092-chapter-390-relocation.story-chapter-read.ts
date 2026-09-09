@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0092Chapter390Relocation = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0092-chapter-390-relocation",
   title: "Chapter 390 : Relocation",
-  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  storySlug: "syl-a-slime-monster-evolution-litrpg",
   position: 92,
   ownLength: 2317,
   unitSlug: "words",

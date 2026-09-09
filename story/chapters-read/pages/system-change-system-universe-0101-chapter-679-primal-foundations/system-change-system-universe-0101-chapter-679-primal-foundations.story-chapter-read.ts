@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0101Chapter679PrimalFoundations = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0101-chapter-679-primal-foundations",
   title: "Chapter 679: Primal Foundations",
-  partOfCollectionSlugs: ["system-change-system-universe"],
+  storySlug: "system-change-system-universe",
   position: 101,
   ownLength: 2162,
   unitSlug: "words",

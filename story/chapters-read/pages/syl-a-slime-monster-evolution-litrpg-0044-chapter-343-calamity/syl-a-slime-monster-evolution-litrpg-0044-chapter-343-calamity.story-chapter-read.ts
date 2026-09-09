@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0044Chapter343Calamity = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0044-chapter-343-calamity",
   title: "Chapter 343 : Calamity",
-  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  storySlug: "syl-a-slime-monster-evolution-litrpg",
   position: 44,
   ownLength: 2271,
   unitSlug: "words",

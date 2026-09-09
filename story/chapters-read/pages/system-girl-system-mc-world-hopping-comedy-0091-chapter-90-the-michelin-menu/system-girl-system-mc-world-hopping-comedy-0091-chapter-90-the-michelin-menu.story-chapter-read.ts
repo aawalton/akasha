@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0091Chapter90TheMichelinMenu = 
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0091-chapter-90-the-michelin-menu",
   title: "Chapter 90: The Michelin Menu",
-  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  storySlug: "system-girl-system-mc-world-hopping-comedy",
   position: 91,
   ownLength: 2212,
   unitSlug: "words",

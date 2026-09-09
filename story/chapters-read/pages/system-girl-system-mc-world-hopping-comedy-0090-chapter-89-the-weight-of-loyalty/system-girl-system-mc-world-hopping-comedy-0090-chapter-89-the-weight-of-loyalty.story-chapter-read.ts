@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0090Chapter89TheWeightOfLoyalty
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0090-chapter-89-the-weight-of-loyalty",
   title: "Chapter 89: The Weight of Loyalty",
-  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  storySlug: "system-girl-system-mc-world-hopping-comedy",
   position: 90,
   ownLength: 2029,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0076Chapter374CuttingFolds = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0076-chapter-374-cutting-folds",
   title: "Chapter 374 : Cutting Folds",
-  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  storySlug: "syl-a-slime-monster-evolution-litrpg",
   position: 76,
   ownLength: 2178,
   unitSlug: "words",

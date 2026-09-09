@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0019Chapter318ADifferentPerspective 
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0019-chapter-318-a-different-perspective",
   title: "Chapter 318 : A Different Perspective",
-  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  storySlug: "syl-a-slime-monster-evolution-litrpg",
   position: 19,
   ownLength: 2324,
   unitSlug: "words",

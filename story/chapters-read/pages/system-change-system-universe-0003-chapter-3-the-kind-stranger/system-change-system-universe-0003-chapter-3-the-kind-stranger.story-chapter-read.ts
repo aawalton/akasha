@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0003Chapter3TheKindStranger = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0003-chapter-3-the-kind-stranger",
   title: "Chapter 3: The Kind Stranger",
-  partOfCollectionSlugs: ["system-change-system-universe"],
+  storySlug: "system-change-system-universe",
   position: 3,
   ownLength: 2047,
   unitSlug: "words",

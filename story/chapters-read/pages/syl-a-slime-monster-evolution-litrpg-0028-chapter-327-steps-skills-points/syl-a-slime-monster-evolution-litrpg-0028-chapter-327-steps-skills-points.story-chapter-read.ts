@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0028Chapter327StepsSkillsPoints = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0028-chapter-327-steps-skills-points",
   title: "Chapter 327 : Steps, Skills, Points",
-  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  storySlug: "syl-a-slime-monster-evolution-litrpg",
   position: 28,
   ownLength: 2167,
   unitSlug: "words",

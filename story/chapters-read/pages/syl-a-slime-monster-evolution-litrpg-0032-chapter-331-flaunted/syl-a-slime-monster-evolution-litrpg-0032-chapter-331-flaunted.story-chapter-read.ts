@@ -5,7 +5,7 @@ export const sylASlimeMonsterEvolutionLitrpg0032Chapter331Flaunted = {
   pageTypeSlug: "story-chapter-read",
   slug: "syl-a-slime-monster-evolution-litrpg-0032-chapter-331-flaunted",
   title: "Chapter 331 : Flaunted",
-  partOfCollectionSlugs: ["syl-a-slime-monster-evolution-litrpg"],
+  storySlug: "syl-a-slime-monster-evolution-litrpg",
   position: 32,
   ownLength: 2162,
   unitSlug: "words",

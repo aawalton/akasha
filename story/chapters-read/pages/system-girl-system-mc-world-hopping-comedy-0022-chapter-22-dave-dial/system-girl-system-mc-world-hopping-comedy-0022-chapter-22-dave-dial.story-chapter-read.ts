@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0022Chapter22DaveDial = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0022-chapter-22-dave-dial",
   title: "Chapter 22: DAVE Dial",
-  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  storySlug: "system-girl-system-mc-world-hopping-comedy",
   position: 22,
   ownLength: 2356,
   unitSlug: "words",

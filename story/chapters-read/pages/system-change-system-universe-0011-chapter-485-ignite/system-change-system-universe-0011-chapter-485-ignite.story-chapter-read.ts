@@ -5,7 +5,7 @@ export const systemChangeSystemUniverse0011Chapter485Ignite = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-change-system-universe-0011-chapter-485-ignite",
   title: "Chapter 485: Ignite",
-  partOfCollectionSlugs: ["system-change-system-universe"],
+  storySlug: "system-change-system-universe",
   position: 11,
   ownLength: 2913,
   unitSlug: "words",

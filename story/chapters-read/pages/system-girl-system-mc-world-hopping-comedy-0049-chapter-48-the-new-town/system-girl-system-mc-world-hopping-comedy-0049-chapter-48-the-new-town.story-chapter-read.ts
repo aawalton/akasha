@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0049Chapter48TheNewTown = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0049-chapter-48-the-new-town",
   title: "Chapter 48: The New Town",
-  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  storySlug: "system-girl-system-mc-world-hopping-comedy",
   position: 49,
   ownLength: 1699,
   unitSlug: "words",

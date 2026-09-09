@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0068Chapter67TheSeaSpiderChroni
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0068-chapter-67-the-sea-spider-chronicles",
   title: "Chapter 67: The Sea Spider Chronicles",
-  partOfCollectionSlugs: ["system-girl-system-mc-world-hopping-comedy"],
+  storySlug: "system-girl-system-mc-world-hopping-comedy",
   position: 68,
   ownLength: 2399,
   unitSlug: "words",
