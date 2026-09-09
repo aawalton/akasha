@@ -81,6 +81,7 @@ export function pageTextFor(
     `export const ${exportedAs(account)} = {`,
     `  id: "${id}",`,
     `  pageTypeSlug: "${pageTypeSlug}",`,
+    `  type: "${pageTypeSlug}",`,
     `  slug: "${account}",`,
     `  email: "${email}",`,
     `  aliasIndex: ${aliasIndex},`,
