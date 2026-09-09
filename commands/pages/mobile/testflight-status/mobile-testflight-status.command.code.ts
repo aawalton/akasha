@@ -1,11 +1,4 @@
 import type { Answer } from "@akasha/command-system/calling"
-import {
-  answering,
-  flagsAloneIn,
-  OPERATIONAL,
-  refusedBy,
-  told,
-} from "@akasha/command-system/command-answering"
 import { createAscJwtSource, fetchLatestBuild, resolveAppId } from "@akasha/mobile-cli/asc-client"
 import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
 import {
@@ -22,6 +15,13 @@ import {
   type Reading,
   wordsIn,
 } from "../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import {
+  answering,
+  flagsAloneIn,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "../../../modules/command-answering/command-answering.module.code.ts"
 
 const WAIT = "--wait"
 

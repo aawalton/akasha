@@ -1,11 +1,4 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
-import {
-  answering,
-  asJson,
-  OPERATIONAL,
-  refusedBy,
-  told,
-} from "@akasha/command-system/command-answering"
 import { requireEnv } from "@akasha/utils/narrow/require-env"
 import {
   JSON_SAID,
@@ -18,6 +11,13 @@ import {
   buildTelnyxSendRequest,
   parseTelnyxSendResponse,
 } from "../../../../alan/harness/sms-core/telnyx-send/telnyx-send.module.code.ts"
+import {
+  answering,
+  asJson,
+  OPERATIONAL,
+  refusedBy,
+  told,
+} from "../../../modules/command-answering/command-answering.module.code.ts"
 import { wordFilling } from "../../../modules/command-filling/command-filling.module.code.ts"
 
 const TO = "--to"

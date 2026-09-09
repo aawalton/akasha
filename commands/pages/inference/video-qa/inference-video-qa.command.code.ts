@@ -1,7 +1,6 @@
 import { mkdtemp, readdir, readFile, rm } from "node:fs/promises"
 import { join } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
-import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { SCRATCH_AT } from "@akasha/command-system/scratching"
 import { OperationalError } from "@akasha/errors-core/exit-code"
 import {
@@ -30,6 +29,11 @@ import {
   wasRefused,
   wordsIn,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+import {
+  answering,
+  refusedBy,
+  told,
+} from "../../../modules/command-answering/command-answering.module.code.ts"
 
 const VIDEO = "--video"
 

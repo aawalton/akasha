@@ -1,6 +1,5 @@
 import { setTimeout as sleep } from "node:timers/promises"
 import type { Answer } from "@akasha/command-system/calling"
-import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { runMusic } from "@akasha/inference-clients/ace-step-client"
 import { resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
 import { drawSeed, resolveSeed } from "@akasha/inference-clients/inference-seed"
@@ -16,6 +15,11 @@ import {
   wasRefused,
   wordsIn,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+import {
+  answering,
+  refusedBy,
+  told,
+} from "../../../modules/command-answering/command-answering.module.code.ts"
 
 const PROMPT = "--prompt"
 

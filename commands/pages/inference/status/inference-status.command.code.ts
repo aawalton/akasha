@@ -1,5 +1,4 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { HOSTS } from "akasha/inference/pool/inference-hosts/inference-hosts.module.code.ts"
 import { parseActualState } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
 import { runSshCapture } from "akasha/inference/pool/inference-ssh/inference-ssh.module.code.ts"
@@ -9,6 +8,11 @@ import {
   wasRefused,
   wordsIn,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+import {
+  answering,
+  refusedBy,
+  told,
+} from "../../../modules/command-answering/command-answering.module.code.ts"
 
 export async function inferenceStatus(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])

@@ -1,5 +1,4 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { executeScript } from "@akasha/mobile-cli/appium-client"
 import {
   bareWordAs,
@@ -7,6 +6,11 @@ import {
   type Reading,
   wordsIn,
 } from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import {
+  answering,
+  refusedBy,
+  told,
+} from "../../../../modules/command-answering/command-answering.module.code.ts"
 import { inputIn } from "../../../../modules/piping/piping.module.code.ts"
 
 const SCRIPT = "--script"

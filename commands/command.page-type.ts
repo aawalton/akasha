@@ -111,6 +111,7 @@ export const command = {
     "module/during-call",
     "module/reading",
     "module/command-declaring",
+    "module/command-answering",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

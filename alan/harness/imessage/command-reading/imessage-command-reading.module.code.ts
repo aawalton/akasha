@@ -1,8 +1,11 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
-import { asJson, told } from "@akasha/command-system/command-answering"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import {
+  asJson,
+  told,
+} from "../../../../commands/modules/command-answering/command-answering.module.code.ts"
 import type { Filing } from "../../../../commands/modules/command-filling/command-filling.module.code.ts"
 import { inputIn, type Piping } from "../../../../commands/modules/piping/piping.module.code.ts"
 import type { ImessageMessage } from "../chat-db/chat-db.module.code.ts"

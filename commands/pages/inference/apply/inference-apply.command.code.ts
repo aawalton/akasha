@@ -1,5 +1,4 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { codeRoot } from "@akasha/pages/code-root"
 import { reconcile } from "akasha/inference/pool/inference-reconcile/inference-reconcile.module.code.ts"
 import {
@@ -7,6 +6,11 @@ import {
   wasRefused,
   wordsIn,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+import {
+  answering,
+  refusedBy,
+  told,
+} from "../../../modules/command-answering/command-answering.module.code.ts"
 
 export async function inferenceApply(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])

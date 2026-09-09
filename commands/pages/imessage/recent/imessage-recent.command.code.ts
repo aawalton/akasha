@@ -1,5 +1,4 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { answering, flagsAloneIn, refusedBy } from "@akasha/command-system/command-answering"
 import { buildRecentSql } from "../../../../alan/harness/imessage/chat-db/chat-db.module.code.ts"
 import {
   CONTACT_SAID,
@@ -17,6 +16,11 @@ import {
   fetchMessages,
   resolveContactHandleRowids,
 } from "../../../../alan/harness/imessage/remote/imessage-remote.module.code.ts"
+import {
+  answering,
+  flagsAloneIn,
+  refusedBy,
+} from "../../../modules/command-answering/command-answering.module.code.ts"
 
 const VALUED = [LIMIT_SAID, CONTACT_SAID]
 

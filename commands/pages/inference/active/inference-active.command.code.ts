@@ -1,10 +1,14 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import { copActive, findCop } from "akasha/inference/pool/cop-admin/cop-admin.module.code.ts"
 import {
   wasRefused,
   wordsIn,
 } from "../../../../inference/commands/inference-answering/inference-answering.module.code.ts"
+import {
+  answering,
+  refusedBy,
+  told,
+} from "../../../modules/command-answering/command-answering.module.code.ts"
 
 export async function inferenceActive(argv: readonly string[]): Promise<Answer> {
   const said = wordsIn(argv, [], [])

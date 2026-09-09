@@ -1,5 +1,4 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { answering, refusedBy, told } from "@akasha/command-system/command-answering"
 import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
 import { openSession } from "@akasha/mobile-cli/sim-driver"
 import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
@@ -13,6 +12,11 @@ import {
   UDID_SAID,
   wordsIn,
 } from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import {
+  answering,
+  refusedBy,
+  told,
+} from "../../../../modules/command-answering/command-answering.module.code.ts"
 
 const ROUTE = "--route"
 

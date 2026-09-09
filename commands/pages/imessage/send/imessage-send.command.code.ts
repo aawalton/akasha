@@ -1,7 +1,6 @@
 import { readFileSync, statSync } from "node:fs"
 import { basename, resolve } from "node:path"
 import type { Answer, Given } from "@akasha/command-system/calling"
-import { answering, asJson, refusedBy, told } from "@akasha/command-system/command-answering"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { InputError } from "@akasha/errors-core/exit-code"
 import { runSshCapture } from "akasha/alan/harness/ssh-access/ssh-reach/ssh-reach.module.code.ts"
@@ -22,6 +21,12 @@ import {
   buildSendScript,
   type SendAttachment,
 } from "../../../../alan/harness/imessage/send/imessage-send.module.code.ts"
+import {
+  answering,
+  asJson,
+  refusedBy,
+  told,
+} from "../../../modules/command-answering/command-answering.module.code.ts"
 import {
   filing,
   wordFilling,

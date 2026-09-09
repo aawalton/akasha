@@ -1,5 +1,4 @@
 import type { Answer } from "@akasha/command-system/calling"
-import { answering, flagsAloneIn, refusedBy, told } from "@akasha/command-system/command-answering"
 import type { CutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
 import { readLatestCutFingerprint, recordCutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
 import {
@@ -9,6 +8,12 @@ import {
   type Reading,
   wordsIn,
 } from "../../../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
+import {
+  answering,
+  flagsAloneIn,
+  refusedBy,
+  told,
+} from "../../../../modules/command-answering/command-answering.module.code.ts"
 
 const BUILD_NUMBER = "--build-number"
 
