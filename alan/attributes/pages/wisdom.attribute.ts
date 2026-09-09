@@ -3,6 +3,7 @@ import type { Attribute } from "../attribute.page-type.ts"
 export const wisdom = {
   id: "01a06841-a1cb-7072-8aa0-eb11c0a4258b",
   pageTypeSlug: "attribute",
+  type: "attribute",
   slug: "wisdom",
   definition: "what Alan has built by learning about himself",
   pointUnit: "10,000 words added to an all-about-alan topic",

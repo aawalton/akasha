@@ -3,6 +3,7 @@ import type { GameDesignDrive } from "../game-design-drive.page-type.ts"
 export const gameDesignDriveCollection = {
   id: "01a06756-f6ce-7919-bc70-37a49f9ecba3",
   pageTypeSlug: "game-design-drive",
+  type: "game-design-drive",
   slug: "game-design-drive-collection",
   definition: "owning a set of things",
   octalysis: {

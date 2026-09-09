@@ -3,6 +3,7 @@ import type { ReadoutWidget } from "../readout-widget.page-type.ts"
 export const alanwaltonClaudeUsage = {
   id: "01a06420-b259-76b1-aba4-b26ab965fb5b",
   pageTypeSlug: "readout-widget",
+  type: "readout-widget",
   slug: "alanwalton-claude-usage",
   definition: "the tile on Alan's phone showing how much of the weekly Claude allowance is spent",
   app: "alanwalton",

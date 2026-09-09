@@ -3,6 +3,7 @@ import type { MobilityReading } from "../mobility-reading.page-type.ts"
 export const wallSlideOverhead20260622 = {
   id: "019f01e1-c1ee-7409-a4e1-38b095c7fd9a",
   pageTypeSlug: "mobility-reading",
+  type: "mobility-reading",
   slug: "wall-slide-overhead-2026-06-22",
   title: "wall-slide-overhead 2026-06-22",
   context: "standalone",

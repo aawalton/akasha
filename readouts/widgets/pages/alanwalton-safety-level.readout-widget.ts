@@ -3,6 +3,7 @@ import type { ReadoutWidget } from "../readout-widget.page-type.ts"
 export const alanwaltonSafetyLevel = {
   id: "01a06420-b259-7d0c-85e8-0e67ee23e107",
   pageTypeSlug: "readout-widget",
+  type: "readout-widget",
   slug: "alanwalton-safety-level",
   definition: "the tile on Alan's phone showing how safe things are where he is",
   app: "alanwalton",

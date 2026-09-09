@@ -3,6 +3,7 @@ import type { ReadoutWidget } from "../readout-widget.page-type.ts"
 export const smilingjennyCategorize = {
   id: "01a05bc7-0b84-7700-8d53-60de383bacaa",
   pageTypeSlug: "readout-widget",
+  type: "readout-widget",
   slug: "smilingjenny-categorize",
   definition: "the tile on Jenny's phone showing how many transactions are unreviewed",
   app: "smilingjenny",

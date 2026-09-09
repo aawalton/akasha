@@ -3,6 +3,7 @@ import type { MobilityReading } from "../mobility-reading.page-type.ts"
 export const hamstringLrGap20260619 = {
   id: "019f01e1-c2b6-79a2-8cb4-6e84310a8ab1",
   pageTypeSlug: "mobility-reading",
+  type: "mobility-reading",
   slug: "hamstring-lr-gap-2026-06-19",
   title: "hamstring-lr-gap 2026-06-19",
   context: "standalone",

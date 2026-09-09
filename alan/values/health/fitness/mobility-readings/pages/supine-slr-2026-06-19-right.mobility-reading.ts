@@ -3,6 +3,7 @@ import type { MobilityReading } from "../mobility-reading.page-type.ts"
 export const supineSlr20260619Right = {
   id: "019f01e1-c123-7cf4-bb30-b96b4d3bf88b",
   pageTypeSlug: "mobility-reading",
+  type: "mobility-reading",
   slug: "supine-slr-2026-06-19-right",
   title: "supine-slr 2026-06-19 (right)",
   context: "standalone",

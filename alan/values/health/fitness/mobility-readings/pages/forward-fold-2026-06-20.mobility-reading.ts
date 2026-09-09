@@ -3,6 +3,7 @@ import type { MobilityReading } from "../mobility-reading.page-type.ts"
 export const forwardFold20260620 = {
   id: "019f01e1-be09-7e2c-b14d-bb134eaa9662",
   pageTypeSlug: "mobility-reading",
+  type: "mobility-reading",
   slug: "forward-fold-2026-06-20",
   title: "forward-fold 2026-06-20",
   context: "warmup",

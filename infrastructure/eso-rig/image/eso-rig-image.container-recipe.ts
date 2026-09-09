@@ -3,6 +3,7 @@ import type { ContainerRecipe } from "@akasha/code/container-recipe"
 export const esoRigImage = {
   id: "01a06866-58f8-7e1d-aa92-5be1e93a86f2",
   pageTypeSlug: "container-recipe",
+  type: "container-recipe",
   slug: "eso-rig-image",
   definition: "the image an X server, a virtual keyboard and Wine run from on a cluster card",
   recipe: "dockerfile",
