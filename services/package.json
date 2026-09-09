@@ -21,7 +21,6 @@
     "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/git": "workspace:*",
-    "@akasha/k8s-types": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/utils": "workspace:*",
     "yaml": "^2.8.1"

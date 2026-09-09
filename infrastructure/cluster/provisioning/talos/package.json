@@ -20,7 +20,6 @@
   "dependencies": {
     "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/k8s-types": "workspace:*",
     "@akasha/pages": "workspace:*",
     "yaml": "^2.8.0",
     "zod": "^4.3.6"

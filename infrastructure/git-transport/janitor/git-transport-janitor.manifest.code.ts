@@ -1,6 +1,6 @@
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
-import { BUN_RUNTIME_IMAGE } from "@akasha/k8s-types/orchestrator-cache-locations"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { BUN_RUNTIME_IMAGE } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { NAMESPACE, RESOURCE_LABELS } from "../transport-naming/transport-naming.module.code.ts"
 
 const JANITOR_NAME = "git-transport-janitor"

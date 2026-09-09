@@ -1,4 +1,4 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
 
 export const nvidiaDevicePlugin = {
   id: "01a0738e-7f15-71c0-905e-3746cbb4535e",

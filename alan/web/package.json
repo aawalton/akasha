@@ -73,7 +73,6 @@
     "@akasha/voice-core": "workspace:*",
     "@fontsource-variable/geist": "^5.2.9",
     "@fontsource-variable/literata": "^5.2.5",
-    "@akasha/k8s-types": "workspace:*",
     "@supabase/supabase-js": "^2.104.0",
     "isbot": "^5.1.36",
     "lucide-react": "^0.576.0",

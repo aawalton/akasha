@@ -1,6 +1,6 @@
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import { HOSTNAME_KEY } from "@akasha/k8s-types/hostnames"
-import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { HOSTNAME_KEY } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-namespace/k8s-namespace.module.code.ts"
 import { masterDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
 import {
   backupPvcYaml,

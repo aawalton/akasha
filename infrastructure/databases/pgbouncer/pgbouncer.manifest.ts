@@ -1,4 +1,4 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
 
 export const pgbouncer = {
   id: "01a0738b-94aa-753a-a80d-7381626f3577",

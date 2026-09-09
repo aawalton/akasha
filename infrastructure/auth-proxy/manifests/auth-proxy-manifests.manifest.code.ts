@@ -1,6 +1,9 @@
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import { HOSTNAME_KEY, workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
-import { synthNamespaceDeploymentService } from "@akasha/k8s-types/manifest-composing"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import {
+  HOSTNAME_KEY,
+  workloadClassMemberSelector,
+} from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
 
 const NAMESPACE = "auth-proxy"
 const APP_NAME = "auth-proxy"

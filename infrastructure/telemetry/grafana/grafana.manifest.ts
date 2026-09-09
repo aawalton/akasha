@@ -1,4 +1,4 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
 
 export const grafana = {
   id: "01a0739d-9053-797b-9562-07aff48ee592",

@@ -1,4 +1,4 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
 
 export const buildkit = {
   id: "01a07383-de17-7590-8580-ccd38e33ccd8",

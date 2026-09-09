@@ -1,4 +1,4 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
 
 export const gitTransportJanitor = {
   id: "01a07c78-54fc-794e-becc-d1343a783c8d",

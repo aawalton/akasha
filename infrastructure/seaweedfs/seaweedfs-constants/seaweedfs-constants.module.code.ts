@@ -1,4 +1,8 @@
-import { type KubernetesLabels, kubernetesLabels, selectorOf } from "@akasha/k8s-types/labels"
+import {
+  type KubernetesLabels,
+  kubernetesLabels,
+  selectorOf,
+} from "akasha/infrastructure/cluster/k8s-types/labels/labels.module.code.ts"
 
 export const NAMESPACE = "seaweedfs"
 const APP_NAME = "seaweedfs"

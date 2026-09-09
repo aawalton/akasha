@@ -1,19 +1,19 @@
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import {
   orchestratorCacheInitContainer,
   orchestratorCacheSyncSidecar,
-} from "@akasha/k8s-types/orchestrator-cache"
+} from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache/orchestrator-cache.module.code.ts"
 import {
   orchestratorCacheVolumeMounts,
   orchestratorCacheVolumes,
-} from "@akasha/k8s-types/orchestrator-cache-helpers"
+} from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
 import {
   BUN_RUNTIME_IMAGE,
   CONTAINER_TMP_PATH,
   GIT_TRANSPORT_CACHE,
   ORCHESTRATOR_CACHE_REPO_PATH,
-} from "@akasha/k8s-types/orchestrator-cache-locations"
+} from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { INIT_BARE_REPO_SCRIPT } from "../bare-repo-init/bare-repo-init.module.code.ts"
 import {
   APP_NAME,

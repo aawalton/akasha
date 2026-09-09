@@ -1,6 +1,12 @@
-import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import { kubernetesLabels, selectorOf } from "@akasha/k8s-types/labels"
-import { synthNamespaceNetworkPolicyDeploymentService } from "@akasha/k8s-types/manifest-composing"
+import {
+  synthMulti,
+  synthOne,
+} from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import {
+  kubernetesLabels,
+  selectorOf,
+} from "akasha/infrastructure/cluster/k8s-types/labels/labels.module.code.ts"
+import { synthNamespaceNetworkPolicyDeploymentService } from "akasha/infrastructure/cluster/k8s-types/manifest-composing/manifest-composing.module.code.ts"
 
 const NAMESPACE = "tailnet-egress"
 const APP_NAME = "tailnet-egress"

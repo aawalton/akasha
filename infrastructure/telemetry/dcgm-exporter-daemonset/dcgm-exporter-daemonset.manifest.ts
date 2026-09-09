@@ -1,4 +1,4 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
 
 export const dcgmExporterDaemonset = {
   id: "01a0738e-e66c-74e0-ad63-f39417a8e9dd",

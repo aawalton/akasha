@@ -1,4 +1,4 @@
-import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
+import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-namespace/k8s-namespace.module.code.ts"
 import {
   NAMESPACE,
   NAMESPACE_LABELS,

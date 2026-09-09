@@ -17,7 +17,6 @@
         "@akasha/icloud-photos": "workspace:*",
         "@akasha/imessage": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/spotify": "workspace:*",
@@ -95,7 +94,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/location-traces-access": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -431,7 +429,6 @@
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -953,7 +950,6 @@
         "@akasha/cluster-api": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
         "zod": "^4.3.6",
@@ -999,14 +995,10 @@
     },
     "inference/voice-inference": {
       "name": "@akasha/voice-inference",
-      "dependencies": {
-        "@akasha/k8s-types": "workspace:*",
-      },
     },
     "infrastructure/auth-proxy": {
       "name": "@akasha/auth-proxy",
       "dependencies": {
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -1014,7 +1006,6 @@
     "infrastructure/backup-retention": {
       "name": "@akasha/backup-retention",
       "dependencies": {
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -1035,20 +1026,11 @@
         "zod": "^4.3.6",
       },
     },
-    "infrastructure/cluster/k8s-types": {
-      "name": "@akasha/k8s-types",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-        "cdk8s": "^2.70.60",
-        "zod": "^4.3.6",
-      },
-    },
     "infrastructure/cluster/manifests": {
       "name": "@akasha/cluster-manifests",
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/seat-system": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -1060,7 +1042,6 @@
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/pages": "workspace:*",
         "yaml": "^2.8.0",
         "zod": "^4.3.6",
@@ -1176,7 +1157,6 @@
         "@akasha/command-system": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/service": "workspace:*",
       },
@@ -1286,7 +1266,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
@@ -1324,7 +1303,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "isbot": "^5.1.36",
@@ -1379,7 +1357,6 @@
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/git": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/utils": "workspace:*",
         "yaml": "^2.8.1",
@@ -1397,7 +1374,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/persons": "workspace:*",
         "@akasha/status-bar-access": "workspace:*",
@@ -2644,7 +2620,6 @@
         "@akasha/design-system": "workspace:*",
         "@akasha/errors-client": "workspace:*",
         "@akasha/errors-core": "workspace:*",
-        "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-query": "workspace:*",
@@ -2925,8 +2900,6 @@
     "@akasha/infrastructure-commands": ["@akasha/infrastructure-commands@workspace:infrastructure/commands"],
 
     "@akasha/k8s-synth": ["@akasha/k8s-synth@workspace:infrastructure/cluster/k8s-synth"],
-
-    "@akasha/k8s-types": ["@akasha/k8s-types@workspace:infrastructure/cluster/k8s-types"],
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:alan/harness/location-traces-access"],
 

@@ -1,5 +1,5 @@
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 
 function cronjobYaml(): string {
   return synthOne("alanwalton", "calendar-sync", {

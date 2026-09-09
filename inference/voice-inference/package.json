@@ -3,6 +3,5 @@
   "private": true,
   "type": "module",
   "dependencies": {
-    "@akasha/k8s-types": "workspace:*"
   }
 }

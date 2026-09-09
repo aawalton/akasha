@@ -11,7 +11,6 @@
     "@akasha/cluster-api": "workspace:*",
     "@akasha/code": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/k8s-types": "workspace:*",
     "@akasha/object-store": "workspace:*",
     "@akasha/pages": "workspace:*",
     "zod": "^4.3.6"

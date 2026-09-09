@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "@fontsource-variable/geist": "^5.2.9",
-    "@akasha/k8s-types": "workspace:*",
     "@akasha/design-badges": "workspace:*",
     "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",

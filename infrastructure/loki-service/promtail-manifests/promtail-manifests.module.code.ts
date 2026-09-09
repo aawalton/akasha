@@ -1,4 +1,7 @@
-import { synthMulti, synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import {
+  synthMulti,
+  synthOne,
+} from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { PROMTAIL_CONFIG } from "../loki-configs/loki-configs.module.code.ts"
 import {
   NAMESPACE,

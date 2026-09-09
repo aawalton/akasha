@@ -1,4 +1,4 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
 
 export const supabaseStudio = {
   id: "01a0738f-1b7c-7c03-9968-ae02ee8a654f",

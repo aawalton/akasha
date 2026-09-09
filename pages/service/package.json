@@ -18,7 +18,6 @@
     "@akasha/command-system": "workspace:*",
     "@akasha/git": "workspace:*",
     "@akasha/indexes": "workspace:*",
-    "@akasha/k8s-types": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/service": "workspace:*"
   }

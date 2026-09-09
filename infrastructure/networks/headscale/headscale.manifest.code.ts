@@ -1,6 +1,6 @@
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
-import { workloadClassMemberSelector } from "@akasha/k8s-types/hostnames"
-import { namespaceYaml } from "@akasha/k8s-types/k8s-namespace"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
+import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-namespace/k8s-namespace.module.code.ts"
 import { ApiObject, App, Chart } from "cdk8s"
 import {
   CONTROL_PLANE_LABELS,

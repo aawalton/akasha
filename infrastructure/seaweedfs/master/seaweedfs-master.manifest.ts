@@ -1,4 +1,4 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
 
 export const seaweedfsMaster = {
   id: "01a07379-39d2-7fb0-901a-69abcc99cc08",

@@ -1,4 +1,4 @@
-import { ORCHESTRATOR_CACHE_REPO_PATH } from "@akasha/k8s-types/orchestrator-cache-locations"
+import { ORCHESTRATOR_CACHE_REPO_PATH } from "akasha/infrastructure/cluster/k8s-types/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { transportRepo } from "../transport-repos/transport-repos.module.code.ts"
 
 const CODE_BARE_REPO_PATH = transportRepo("code").bareRepoPath

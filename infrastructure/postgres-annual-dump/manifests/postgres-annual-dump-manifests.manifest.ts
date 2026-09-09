@@ -1,4 +1,4 @@
-import type { Manifest } from "@akasha/k8s-types/manifest"
+import type { Manifest } from "akasha/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts"
 
 export const postgresAnnualDumpManifests = {
   id: "01a07386-9539-7f1f-a7a2-0792f83dbd40",

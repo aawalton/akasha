@@ -1,4 +1,4 @@
-import { synthOne } from "@akasha/k8s-types/cdk8s-synth"
+import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import {
   NAMESPACE,
   PGBOUNCER_EXPORTER_IMAGE,
