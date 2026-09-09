@@ -10,7 +10,7 @@ export const generation = {
     "page-type/audio",
     "page-type/generation-log",
     "page-type/image",
-    "workspace-package/upscale",
+    "domain/upscale",
     "workspace-package/wan",
     "workspace-package/zimage",
   ],

@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const upscale = {
   id: "01a06815-9efd-7040-a13c-1048a109ba86",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "upscale",
   definition: "an image remade at a higher resolution than the one it came in at",
-  manifest: "json",
   parts: [
     "container-recipe/upscale-cluster-image",
     "container-recipe/upscale-image",
@@ -45,4 +44,4 @@ export const upscale = {
       statement: "A run goes either to a cluster GPU or to the workstation's own.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

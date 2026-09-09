@@ -6,8 +6,8 @@ import { answering, refusedBy, told } from "@akasha/command-system/command-answe
 import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
 import { buildInferenceRunRecord, sha256Hex } from "@akasha/inference-runs/inference-run-record"
 import { recordInferenceRun } from "@akasha/inference-runs/inference-run-store"
-import { runClusterUpscale } from "@akasha/upscale/upscale-cluster"
-import { runWorkstationUpscale } from "@akasha/upscale/upscale-workstation"
+import { runClusterUpscale } from "akasha/inference/generations/upscale/cluster/upscale-cluster.module.code.ts"
+import { runWorkstationUpscale } from "akasha/inference/generations/upscale/workstation/upscale-workstation.module.code.ts"
 import {
   aloneIn,
   calledAs,

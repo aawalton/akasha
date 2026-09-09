@@ -28,6 +28,7 @@
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/mobile-cli": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
+        "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
@@ -98,7 +99,6 @@
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/temper-upstream-data": "workspace:*",
         "@akasha/temper-watcher": "workspace:*",
-        "@akasha/upscale": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/wan": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
@@ -757,16 +757,6 @@
     },
     "inference/comfy": {
       "name": "@akasha/comfy",
-    },
-    "inference/generations/upscale": {
-      "name": "@akasha/upscale",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/object-store": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "zod": "^4.3.6",
-      },
     },
     "inference/generations/wan": {
       "name": "@akasha/wan",
@@ -2682,8 +2672,6 @@
     "@akasha/temper-web": ["@akasha/temper-web@workspace:temper/temper-web"],
 
     "@akasha/testing-system": ["@akasha/testing-system@workspace:testing-system"],
-
-    "@akasha/upscale": ["@akasha/upscale@workspace:inference/generations/upscale"],
 
     "@akasha/utils": ["@akasha/utils@workspace:utils"],
 
