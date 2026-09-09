@@ -4,7 +4,7 @@ import type { FileEdit } from "../landing/landing.module.code.ts"
 
 const SLUG_AT = /^ {2}slug: "([^"]*)",$/m
 
-const PAGE_TYPE_AT = /^ {2}pageTypeSlug: "([^"]*)",$/m
+const PAGE_TYPE_AT = /^ {2}(type|pageTypeSlug): "([^"]*)",$/m
 
 const PAGE_FILE = ".ts"
 
