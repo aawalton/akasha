@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const tabards = {
   id: "01a05fcf-f843-76c7-9753-908fcecd0e06",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "tabards",
   title: "Tabards",
   parent: "appearance",

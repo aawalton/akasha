@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const tributeClues = {
   id: "01a05fcf-f845-77da-bf92-6758186b7f63",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "tribute-clues",
   title: "Tribute Clues",
   parent: "knowledge-collectibles",

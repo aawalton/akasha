@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const wwResins = {
   id: "01a05fcf-f84a-7b62-bbd9-f7527c97d9c6",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "ww-resins",
   title: "Resins",
   parent: "woodworking",

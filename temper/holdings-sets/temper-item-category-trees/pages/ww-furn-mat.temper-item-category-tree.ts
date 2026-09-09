@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const wwFurnMat = {
   id: "01a05fcf-f849-7409-9d6e-885afb8ccc03",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "ww-furn-mat",
   title: "Furnishing Materials",
   parent: "woodworking",

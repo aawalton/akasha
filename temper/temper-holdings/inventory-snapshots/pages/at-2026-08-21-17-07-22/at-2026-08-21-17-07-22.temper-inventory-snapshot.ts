@@ -3,6 +3,7 @@ import type { TemperInventorySnapshot } from "../../temper-inventory-snapshot.pa
 export const at20260821170722 = {
   id: "01a0254e-93bc-7000-bd50-634bcec6befe",
   pageTypeSlug: "temper-inventory-snapshot",
+  type: "temper-inventory-snapshot",
   slug: "at-2026-08-21-17-07-22",
   title: "2026-08-21T17:07:22.000Z",
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",

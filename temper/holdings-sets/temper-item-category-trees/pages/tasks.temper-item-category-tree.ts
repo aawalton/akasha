@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const tasks = {
   id: "01a05fcf-f843-7379-84c1-941e01878caf",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "tasks",
   title: "Tasks",
   displayOrder: 3,

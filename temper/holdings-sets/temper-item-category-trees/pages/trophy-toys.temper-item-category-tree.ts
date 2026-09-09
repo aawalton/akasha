@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const trophyToys = {
   id: "01a05fcf-f847-71f1-8e85-5c9f29a495ff",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "trophy-toys",
   title: "Toys",
   parent: "trophies",

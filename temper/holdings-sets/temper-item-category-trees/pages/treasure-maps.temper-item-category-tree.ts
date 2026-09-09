@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const treasureMaps = {
   id: "01a05fcf-f845-75c6-9f8b-532f7618f8cc",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "treasure-maps",
   title: "Treasure Maps",
   parent: "tasks",
