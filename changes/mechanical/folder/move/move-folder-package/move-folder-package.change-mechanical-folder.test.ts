@@ -7,7 +7,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { pathsIn, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type Reaching,

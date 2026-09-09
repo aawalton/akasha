@@ -2,8 +2,8 @@ import { extname } from "node:path"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import { typedAs } from "../../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { gathered, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import {
   type Reaches,
   reach,

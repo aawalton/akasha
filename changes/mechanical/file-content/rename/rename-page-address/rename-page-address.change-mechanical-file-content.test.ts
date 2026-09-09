@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { pathsOf } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { pathsOf } from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import {
   bodiesIn,
   NOTHING_OVER,

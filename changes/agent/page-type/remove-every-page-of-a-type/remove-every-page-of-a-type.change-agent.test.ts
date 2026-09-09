@@ -12,7 +12,7 @@ import { runChange as removeFile } from "../../../mechanical/file/remove/remove-
 import { runChange as removeCodeFile } from "../../../mechanical/file/remove/remove-file-code/remove-file-code.change-mechanical.code.ts"
 import { runChange as removePage } from "../../../mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"
 import { removePropertyValue } from "../../../mechanical/file-content/remove/remove-property-value/remove-property-value.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   ledgerAt,

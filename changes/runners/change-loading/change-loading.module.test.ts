@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { HELD_PAGE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { refusing, stating } from "../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import { refusing, stating } from "../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../modules/answer/change-answer.module.types.ts"
 import {
   addedTo,
   isLedger,

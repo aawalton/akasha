@@ -1,4 +1,4 @@
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const ADD_FILE_PAGE = "change-mechanical/add-file-page"

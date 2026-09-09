@@ -9,7 +9,7 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-file-content.code.ts"
 import { runChange as renameLocalVariable } from "../../../mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type World,

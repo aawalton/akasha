@@ -1,6 +1,6 @@
 import { placingOver, readingOf, typingOver } from "@akasha/code/code-typing"
 import ts from "typescript"
-import { pathsIn } from "../change-answer/change-answer.module.code.ts"
+import { pathsIn } from "../answer/change-answer.module.code.ts"
 import type { World } from "../change-shadow/change-shadow.module.code.ts"
 import { literalIn } from "../page-literal/page-literal.module.code.ts"
 

@@ -10,10 +10,13 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join, relative } from "node:path"
-import type { Adding, Replacing } from "@akasha/changes/change-answer/types"
 import { textIn, textOf } from "@akasha/code/body-text"
 import { argvFor } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils/run/running"
+import type {
+  Adding,
+  Replacing,
+} from "../../../changes/modules/answer/change-answer.module.types.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 

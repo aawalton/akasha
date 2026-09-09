@@ -4,8 +4,8 @@ import {
   refusing,
   splicing,
   stating,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Said, Splice } from "../../../../modules/change-answer/change-answer.module.types.ts"
+} from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Said, Splice } from "../../../../modules/answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/

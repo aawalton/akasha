@@ -1,5 +1,5 @@
-import { gathered, missing } from "../change-answer/change-answer.module.code.ts"
-import type { Answer } from "../change-answer/change-answer.module.types.ts"
+import { gathered, missing } from "../answer/change-answer.module.code.ts"
+import type { Answer } from "../answer/change-answer.module.types.ts"
 import {
   isLedger,
   ledgerAt,

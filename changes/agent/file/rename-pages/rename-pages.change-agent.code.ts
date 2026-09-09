@@ -1,6 +1,6 @@
 import { partedIn } from "@akasha/pages/page-file-name"
-import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const RENAME_FILE_PAGES = "change-mechanical/rename-file-pages"

@@ -1,4 +1,3 @@
-import type { Replacing } from "@akasha/changes/change-answer/types"
 import { textIn } from "@akasha/code/body-text"
 import { insertedInto } from "@akasha/code/value-inserting"
 import type { Generated } from "@akasha/indexes/generated-properties"
@@ -8,6 +7,7 @@ import { heldIn, pageNamed, partedIn } from "@akasha/pages/page-file-name"
 import { loadedFrom } from "@akasha/pages/page-value"
 import { type Shadow, shadowFor } from "@akasha/pages/shadow"
 import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
+import type { Replacing } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 

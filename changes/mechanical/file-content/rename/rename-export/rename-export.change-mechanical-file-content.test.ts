@@ -10,8 +10,8 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { pathsIn } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { bodiesIn } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { renameExport } from "./rename-export.change-mechanical-file-content.code.ts"
 

@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { indexedRepo, pageOf, put, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { pathsIn } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type World,

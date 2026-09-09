@@ -10,11 +10,8 @@ import {
   type BodyOf,
   gathered,
   refusing,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type {
-  Answer,
-  Moving,
-} from "../../../../modules/change-answer/change-answer.module.types.ts"
+} from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Answer, Moving } from "../../../../modules/answer/change-answer.module.types.ts"
 import {
   bodiesIn,
   type World,

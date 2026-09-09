@@ -1,10 +1,15 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { NOT_TEXT, notText, pathsOf, replayed } from "@akasha/changes/change-answer"
-import type { Answer as Said } from "@akasha/changes/change-answer/types"
 import { bytesOf } from "@akasha/changes/change-shadow"
 import { bodyIn } from "@akasha/changes/edits-keeping"
 import { formattedBody } from "@akasha/code/code-format"
+import {
+  NOT_TEXT,
+  notText,
+  pathsOf,
+  replayed,
+} from "../../../changes/modules/answer/change-answer.module.code.ts"
+import type { Answer as Said } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import type { Bodies, Body } from "../drafting/drafting.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 

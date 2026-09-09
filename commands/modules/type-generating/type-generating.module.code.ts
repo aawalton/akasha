@@ -1,12 +1,15 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import type { Adding, Replacing } from "@akasha/changes/change-answer/types"
 import { textOf } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
 import type { Change } from "@akasha/pages/change"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
+import type {
+  Adding,
+  Replacing,
+} from "../../../changes/modules/answer/change-answer.module.types.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 
 const PAGE_TYPE = "page-type"

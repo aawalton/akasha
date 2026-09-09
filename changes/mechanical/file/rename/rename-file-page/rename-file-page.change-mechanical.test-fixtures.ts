@@ -1,6 +1,6 @@
 import { idOf, indexedRepo, pageOf } from "@akasha/indexes/indexing/testing"
-import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import {
   type Reaching,
   type World,

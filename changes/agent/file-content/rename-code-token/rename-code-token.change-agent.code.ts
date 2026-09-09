@@ -16,8 +16,8 @@ import {
   missing,
   pathsIn,
   refusing,
-} from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+} from "../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
 export const LINE = "--line"

@@ -3,12 +3,8 @@ import { manifestsIn, reachingOf } from "@akasha/indexes/package-reaching"
 import { importedFrom } from "@akasha/pages/page-body"
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
 import { textAt } from "@akasha/pages/page-value-reading"
-import {
-  gathered,
-  missing,
-  refusing,
-} from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import {
   isLedger,
   ledgerAt,

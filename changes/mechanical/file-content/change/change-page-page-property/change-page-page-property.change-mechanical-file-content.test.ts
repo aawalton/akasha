@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { restated } from "./change-page-page-property.change-mechanical-file-content.code.ts"
 

@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { reading } from "@akasha/pages/page-value/testing"
-import { pathsIn } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import {
   landsOn,

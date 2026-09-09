@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { pathsIn } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type World,

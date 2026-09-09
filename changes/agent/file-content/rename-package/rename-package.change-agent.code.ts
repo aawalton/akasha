@@ -13,12 +13,12 @@ import {
   refusing,
   splicing,
   stating,
-} from "../../../modules/change-answer/change-answer.module.code.ts"
+} from "../../../modules/answer/change-answer.module.code.ts"
 import type {
   FileChange,
   Said,
   Splice,
-} from "../../../modules/change-answer/change-answer.module.types.ts"
+} from "../../../modules/answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { aliasIn, spelledAnew } from "../../../modules/package-naming/package-naming.module.code.ts"
 

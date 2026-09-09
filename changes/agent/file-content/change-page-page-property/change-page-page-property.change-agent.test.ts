@@ -2,7 +2,7 @@ import { expect, test } from "bun:test"
 import type { Value } from "@akasha/pages/page-value"
 import { runChange as changeValue } from "../../../mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
 import { runChange as changeRelation } from "../../../mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,

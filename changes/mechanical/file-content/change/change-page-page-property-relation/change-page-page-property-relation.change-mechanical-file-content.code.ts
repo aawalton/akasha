@@ -1,6 +1,6 @@
 import { reaches } from "@akasha/indexes/reaching"
-import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { readFor, targetsIn } from "../../../../modules/page-knowing/page-knowing.module.code.ts"
 

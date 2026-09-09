@@ -7,7 +7,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { importNotLeftHanging } from "../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
-import { refusing, stating } from "../change-answer/change-answer.module.code.ts"
+import { refusing, stating } from "../answer/change-answer.module.code.ts"
 import { type World, worldAt, worldOver } from "../change-shadow/change-shadow.module.code.ts"
 import { guardedBy, takingIn, textAfter } from "./change-guarding.module.code.ts"
 import type { Guard } from "./change-guarding.module.types.ts"

@@ -17,12 +17,12 @@ import {
   splicedIn,
   splicing,
   stating,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
+} from "../../../../modules/answer/change-answer.module.code.ts"
 import type {
   Answer,
   FileChange,
   Splice,
-} from "../../../../modules/change-answer/change-answer.module.types.ts"
+} from "../../../../modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { spelledAnew } from "../../../../modules/package-naming/package-naming.module.code.ts"
 import { statedIn } from "../../../../modules/page-literal/page-literal.module.code.ts"

@@ -1,10 +1,6 @@
 import { basename, dirname, join } from "node:path"
-import {
-  gathered,
-  missing,
-  refusing,
-} from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const CHANGE_DOMAIN_PARENT = "change-mechanical-file-content/change-domain-parent"

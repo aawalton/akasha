@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { Replacing } from "@akasha/changes/change-answer/types"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
+import type { Replacing } from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import {

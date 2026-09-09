@@ -1,6 +1,6 @@
 import { extname } from "node:path"
-import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const CHANGE_FILE = "change-mechanical-file-content/change-file-content"

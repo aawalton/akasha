@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Splice } from "../change-answer/change-answer.module.types.ts"
+import type { Splice } from "../answer/change-answer.module.types.ts"
 import { aliasIn, nameFor, spelledAnew, spelledByNaming } from "./package-naming.module.code.ts"
 
 const NAMING = new Map([

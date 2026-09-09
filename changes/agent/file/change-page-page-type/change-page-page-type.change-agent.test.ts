@@ -5,7 +5,7 @@ import { runChange as changeFile } from "../../../mechanical/file-content/change
 import { runChange as restatePageType } from "../../../mechanical/file-content/change/change-page-page-type/change-page-page-type.change-mechanical-file-content.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
 import { runChange as renamePageAddress } from "../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type Reaching,

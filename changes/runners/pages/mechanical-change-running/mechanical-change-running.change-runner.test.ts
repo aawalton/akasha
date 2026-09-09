@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { refusing, stating } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer as Said } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { refusing, stating } from "../../../modules/answer/change-answer.module.code.ts"
+import type { Answer as Said } from "../../../modules/answer/change-answer.module.types.ts"
 import {
   ledgerAt,
   type Reaching,

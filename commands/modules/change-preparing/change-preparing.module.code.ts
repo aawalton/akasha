@@ -1,7 +1,10 @@
-import type { Adding, Replacing } from "@akasha/changes/change-answer/types"
 import { textIn } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
 import type { Change } from "@akasha/pages/change"
+import type {
+  Adding,
+  Replacing,
+} from "../../../changes/modules/answer/change-answer.module.types.ts"
 import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
 import { unexportableIn } from "../export-naming/export-naming.module.code.ts"
 import type { FileEdit, Refused } from "../landing/landing.module.code.ts"

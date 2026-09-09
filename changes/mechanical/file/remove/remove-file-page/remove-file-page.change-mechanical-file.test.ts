@@ -16,12 +16,8 @@ import {
 import { claimedFileNotLeftBehind } from "../../../../guards/pages/claimed-file-not-left-behind/claimed-file-not-left-behind.change-guard.code.ts"
 import { importNotLeftHanging } from "../../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
 import { relationNotLeftHanging } from "../../../../guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
-import {
-  pathsIn,
-  refusing,
-  stating,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { pathsIn, refusing, stating } from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import {
   bodiesIn,
   type Reaching,

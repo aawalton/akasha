@@ -8,12 +8,8 @@ import {
 } from "@akasha/domains/prose-restating"
 import type { Pattern } from "@akasha/domains/prose-rewrite"
 import { textAt, type Value } from "@akasha/pages/page-value"
-import {
-  gathered,
-  missing,
-  refusing,
-} from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { gathered, missing, refusing } from "../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import {
   isLedger,
   ledgerAt,

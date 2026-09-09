@@ -9,13 +9,13 @@ import {
   refusing,
   splicedIn,
   stating,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
+} from "../../../../modules/answer/change-answer.module.code.ts"
 import type {
   Answer,
   FileChange,
   Said,
   Splice,
-} from "../../../../modules/change-answer/change-answer.module.types.ts"
+} from "../../../../modules/answer/change-answer.module.types.ts"
 import {
   addedTo,
   isLedger,

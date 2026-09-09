@@ -7,8 +7,8 @@ import { bodiesFrom } from "../../../../commands/modules/edits-landing/edits-lan
 import { NO_GATE } from "../../../../commands/modules/gate-building/gate-building.module.code.ts"
 import { baseOf, type Refused } from "../../../../commands/modules/landing/landing.module.code.ts"
 import { generatedFileNotWritten } from "../../../guards/pages/generated-file-not-written/generated-file-not-written.change-guard.code.ts"
-import { gathered } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { gathered } from "../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../modules/answer/change-answer.module.types.ts"
 import {
   ledgerAt,
   reach,

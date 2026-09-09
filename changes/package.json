@@ -4,8 +4,8 @@
   "type": "module",
   "exports": {
     "./change-agent/remove-page": "./agent/file/remove-page/remove-page.change-agent.code.ts",
-    "./change-answer": "./modules/change-answer/change-answer.module.code.ts",
-    "./change-answer/types": "./modules/change-answer/change-answer.module.types.ts",
+    "./change-answer": "./modules/answer/change-answer.module.code.ts",
+    "./change-answer/types": "./modules/answer/change-answer.module.types.ts",
     "./change-loading": "./runners/change-loading/change-loading.module.code.ts",
     "./change-shadow": "./modules/change-shadow/change-shadow.module.code.ts",
     "./edits-keeping": "./modules/edits-keeping/edits-keeping.module.code.ts",

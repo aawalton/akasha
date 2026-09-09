@@ -1,6 +1,6 @@
 import { textIn } from "@akasha/indexes/indexing/testing"
-import { stating } from "../change-answer/change-answer.module.code.ts"
-import type { Answer } from "../change-answer/change-answer.module.types.ts"
+import { stating } from "../answer/change-answer.module.code.ts"
+import type { Answer } from "../answer/change-answer.module.types.ts"
 import { worldAt } from "../change-shadow/change-shadow.module.code.ts"
 import { guardedBy } from "./change-guarding.module.code.ts"
 import type { Guard } from "./change-guarding.module.types.ts"

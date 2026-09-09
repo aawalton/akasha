@@ -1,6 +1,6 @@
 import { basename, dirname, extname, join } from "node:path"
-import { gathered, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { gathered, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../../modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "../../../../modules/page-knowing/page-knowing.module.code.ts"

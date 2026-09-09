@@ -2,13 +2,8 @@ import { expect } from "bun:test"
 import { textIn } from "@akasha/indexes/indexing/testing"
 import type { Shaped } from "@akasha/indexes/reaching"
 import type { Value } from "@akasha/pages/page-value"
-import {
-  type BodyOf,
-  refusing,
-  replayed,
-  stating,
-} from "../change-answer/change-answer.module.code.ts"
-import type { Answer } from "../change-answer/change-answer.module.types.ts"
+import { type BodyOf, refusing, replayed, stating } from "../answer/change-answer.module.code.ts"
+import type { Answer } from "../answer/change-answer.module.types.ts"
 import { NOTHING_OVER, type Reaching, type World, worldAt } from "./change-shadow.module.code.ts"
 
 type Adding = {

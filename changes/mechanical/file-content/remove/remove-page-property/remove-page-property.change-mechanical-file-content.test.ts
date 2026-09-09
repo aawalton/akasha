@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { pathsIn } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { pathsIn } from "../../../../modules/answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/answer/change-answer.module.types.ts"
 import { worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { bodyOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { removePageProperty } from "./remove-page-property.change-mechanical-file-content.code.ts"

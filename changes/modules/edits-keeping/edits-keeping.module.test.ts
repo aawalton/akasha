@@ -4,8 +4,8 @@ import { dirname, join } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
 import { scratch } from "@akasha/indexes/indexing/testing"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
-import { pathsOf } from "../change-answer/change-answer.module.code.ts"
-import type { FileChange } from "../change-answer/change-answer.module.types.ts"
+import { pathsOf } from "../answer/change-answer.module.code.ts"
+import type { FileChange } from "../answer/change-answer.module.types.ts"
 import {
   appendEdits,
   editsAt,

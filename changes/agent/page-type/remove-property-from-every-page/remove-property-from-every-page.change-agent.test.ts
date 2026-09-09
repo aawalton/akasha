@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import { runChange as dropKey } from "../../../mechanical/file-content/remove/remove-page-property/remove-page-property.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type Reaching,

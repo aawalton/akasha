@@ -6,13 +6,8 @@ import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
 import { sizeOnDisk } from "@akasha/utils/fs/file-size"
 import { exclusively } from "akasha/file-system/exclusive/exclusive.module.code.ts"
-import { type BodyOf, gathered, NOT_TEXT } from "../change-answer/change-answer.module.code.ts"
-import type {
-  Answer,
-  FileChange,
-  Held,
-  Reading,
-} from "../change-answer/change-answer.module.types.ts"
+import { type BodyOf, gathered, NOT_TEXT } from "../answer/change-answer.module.code.ts"
+import type { Answer, FileChange, Held, Reading } from "../answer/change-answer.module.types.ts"
 
 const SLUG = "edits"
 

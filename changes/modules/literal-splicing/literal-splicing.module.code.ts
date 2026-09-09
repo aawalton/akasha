@@ -1,5 +1,5 @@
 import ts from "typescript"
-import type { Splice } from "../change-answer/change-answer.module.types.ts"
+import type { Splice } from "../answer/change-answer.module.types.ts"
 import { keyOf } from "../page-literal/page-literal.module.code.ts"
 
 function commaAfter(text: string, from: number, limit: number): number {

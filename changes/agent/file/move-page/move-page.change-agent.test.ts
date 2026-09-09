@@ -12,7 +12,7 @@ import { runChange as moveFileCode } from "../../../mechanical/file/move/move-fi
 import { runChange as moveFileOfAnyKind } from "../../../mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts"
 import { runChange as moveFilePage } from "../../../mechanical/file/move/move-file-page/move-file-page.change-mechanical-file.code.ts"
 import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-file-content.code.ts"
-import { pathsIn, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn, refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {
   bodiesIn,
   type World,

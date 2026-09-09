@@ -27,14 +27,14 @@ import {
   pathsIn,
   refusing,
   replayed,
-} from "../change-answer/change-answer.module.code.ts"
+} from "../answer/change-answer.module.code.ts"
 import type {
   Answer,
   Bodies,
   FileChange,
   Held,
   Replayed,
-} from "../change-answer/change-answer.module.types.ts"
+} from "../answer/change-answer.module.types.ts"
 
 const BYTES = new TextEncoder()
 

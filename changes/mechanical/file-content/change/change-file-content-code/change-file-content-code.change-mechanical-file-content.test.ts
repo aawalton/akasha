@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { HELD_CODE, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import {
   type Reaching,
   type World,

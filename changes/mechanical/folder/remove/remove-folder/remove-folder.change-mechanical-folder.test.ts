@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { indexedRepo, pageOf, put, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { pathsIn, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import { pathsIn, refusing } from "../../../../modules/answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as removeFile } from "../../../file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange } from "./remove-folder.change-mechanical-folder.code.ts"

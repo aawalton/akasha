@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Value } from "@akasha/pages/page-value"
 import { runChange as addRecord } from "../../../mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing } from "../../../modules/answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
   type Reaching,
