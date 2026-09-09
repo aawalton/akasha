@@ -1,8 +1,8 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { whyOf } from "@akasha/command-system/fault-saying"
+import type { AutomationSettings } from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
 import {
-  type AutomationSettings,
   inventorySettings,
   type Toggles,
 } from "../../../../../../temper/temper-commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"

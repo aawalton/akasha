@@ -7,11 +7,9 @@ import {
   parseScope,
   parseValue,
   type ToggleValue,
-} from "@akasha/temper-inventory-automation/automation-toggle-change"
-import {
-  type AutomationSettings,
-  inventorySettings,
-} from "../../../../../../temper/temper-commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
+} from "akasha/temper/inventory-automation/automation-toggle-change/automation-toggle-change.module.code.ts"
+import type { AutomationSettings } from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
+import { inventorySettings } from "../../../../../../temper/temper-commands/inventory-settings-handle/inventory-settings-handle.module.code.ts"
 
 const INPUT = 1
 

@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperInventoryAutomation = {
   id: "01a06038-b7a2-7d0b-bbd4-68460f00c22e",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-inventory-automation",
   definition: "what temper keeps up for a character or a companion without being asked",
-  manifest: "json",
   parts: [
     "module/automation-toggles",
     "module/automation-settings-shape",
@@ -37,4 +36,4 @@ export const temperInventoryAutomation = {
       statement: "Nothing here talks to the game.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

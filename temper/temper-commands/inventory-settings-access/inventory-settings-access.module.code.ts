@@ -2,8 +2,6 @@ import { deletePages } from "@akasha/pages-access/delete"
 import { getPages } from "@akasha/pages-access/get"
 import { upsertPage, upsertPages } from "@akasha/pages-access/upsert"
 import { askComposed } from "@akasha/pages-query/store-spelled-asking"
-import { AutomationSettingsShape } from "@akasha/temper-inventory-automation/automation-settings-shape"
-import type { AutomationSettings } from "@akasha/temper-inventory-automation/automation-toggles"
 import type { HeldRule } from "@akasha/temper-items-rules-core/inventory-rule-from-pages"
 import {
   heldFromRows,
@@ -14,6 +12,8 @@ import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inve
 import { writesFor } from "@akasha/temper-items-rules-core/inventory-rule-writes"
 import { isJson } from "@akasha/utils/narrow/is-json"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import { AutomationSettingsShape } from "akasha/temper/inventory-automation/automation-settings-shape/automation-settings-shape.module.code.ts"
+import type { AutomationSettings } from "akasha/temper/inventory-automation/automation-toggles/automation-toggles.module.code.ts"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 

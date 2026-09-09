@@ -81,7 +81,6 @@
     "@akasha/temper-upstream-data": "workspace:*",
     "@akasha/pages-query": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
-    "@akasha/temper-inventory-automation": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*",
     "@akasha/temper-items-rules-eval": "workspace:*",
     "@akasha/temper-items-rules-matcher": "workspace:*",

@@ -75,7 +75,6 @@
         "@akasha/temper-eso-typings": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-hud-components": "workspace:*",
-        "@akasha/temper-inventory-automation": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-items-rules-eval": "workspace:*",
@@ -1552,13 +1551,6 @@
     "temper/hud-window": {
       "name": "@akasha/temper-hud-window",
     },
-    "temper/inventory-automation": {
-      "name": "@akasha/temper-inventory-automation",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/items-filters-addon": {
       "name": "@akasha/temper-items-filters-addon",
       "dependencies": {
@@ -2669,8 +2661,6 @@
     "@akasha/temper-hud-window": ["@akasha/temper-hud-window@workspace:temper/hud-window"],
 
     "@akasha/temper-interface-addon": ["@akasha/temper-interface-addon@workspace:temper/temper-interface-addon"],
-
-    "@akasha/temper-inventory-automation": ["@akasha/temper-inventory-automation@workspace:temper/inventory-automation"],
 
     "@akasha/temper-items-addon": ["@akasha/temper-items-addon@workspace:temper/temper-items-addon"],
 
