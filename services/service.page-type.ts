@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-
-export type Service = Domain
 
 export const service = {
   id: "01a05a3c-caff-7656-b00d-cbde9f3cf324",
@@ -33,4 +30,5 @@ export const service = {
       statement: "This page type adds no property of its own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

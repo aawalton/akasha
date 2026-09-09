@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Service } from "../../../services/service.page-type.ts"
+import type { Service } from "../../../services/service.page-type.types.ts"
 import type { ClusterServiceConfig } from "./properties/cluster-service-config.file-property.ts"
 import type { ClusterServiceManifest } from "./properties/cluster-service-manifest.relation-property.ts"
 import type { ClusterServiceSchedule } from "./properties/cluster-service-schedule.text-property.ts"
