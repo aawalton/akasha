@@ -7,7 +7,7 @@ export const alanFood = {
   definition: "the command acting on what Alan ate",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "log", takes: "the act, which is to write one food entry" },
     { said: "<title>", takes: "the food's short name, said here or with `--title`" },

@@ -96,5 +96,5 @@ export const removePackageManifest = {
       statement: "No folder is carried here.",
     },
   ],
-  changeKindSlug: "change-checked",
+  changeKind: "change-checked",
 } as const satisfies ChangeAgent

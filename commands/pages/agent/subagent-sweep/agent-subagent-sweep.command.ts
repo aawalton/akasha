@@ -8,7 +8,7 @@ export const agentSubagentSweep = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [{ said: "--remove", takes: "take away the pages this run judged stale" }],
   helpNotes: [
     "a run naming nothing reports and writes nothing, which is how a person reads the census first.",

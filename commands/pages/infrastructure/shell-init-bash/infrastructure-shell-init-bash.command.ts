@@ -7,7 +7,7 @@ export const infrastructureShellInitBash = {
   definition: "the command composing the bash a terminal sources",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [],
   helpNotes: [
     "this takes no word and no flag: it composes one set, for bash, and every terminal sources the same one.",

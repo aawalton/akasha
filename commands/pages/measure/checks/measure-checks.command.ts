@@ -6,7 +6,7 @@ export const measureChecks = {
   slug: "measure-checks",
   definition: "the command saying what a check's run cost in processor time and memory",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   partSlugs: ["module/check-measuring"],
   taking: [
     { said: "--last <count>", takes: "how many of the most recent runs the numbers cover" },

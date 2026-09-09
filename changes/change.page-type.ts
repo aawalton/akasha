@@ -1,12 +1,12 @@
 import type { Module } from "../code-system/modules/module.page-type.ts"
-import type { ChangeKindSlug } from "../commands/properties/change-kind-slug.relation-property.ts"
+import type { ChangeKind } from "../commands/properties/change-kind.relation-property.ts"
 import type { PageType } from "../pages/types/page-type.page-type.ts"
 import type { ChangeMode } from "./properties/change-mode.relation-property.ts"
 import type { ChangeTargetSubtype } from "./properties/change-target-subtype.relation-property.ts"
 import type { ChangeTargetType } from "./properties/change-target-type.relation-property.ts"
 
 export type Change = Module & {
-  changeKindSlug: ChangeKindSlug
+  changeKind: ChangeKind
   changeMode: ChangeMode
   changeTargetType?: ChangeTargetType
   changeTargetSubtype?: ChangeTargetSubtype
@@ -46,7 +46,7 @@ export const change = {
     "module/key-requiring",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/change-kind-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/change-kind", required: true, many: false },
     { pagePropertySlug: "relation-property/change-mode", required: true, many: false },
     {
       pagePropertySlug: "relation-property/change-target-type",

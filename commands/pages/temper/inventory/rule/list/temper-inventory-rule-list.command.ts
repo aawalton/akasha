@@ -6,7 +6,7 @@ export const temperInventoryRuleList = {
   slug: "temper-inventory-rule-list",
   definition: "the command naming every category rule in the priority order the addon reads them",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [{ said: "--json", takes: "give the rules as JSON rather than as tab-separated rows" }],
   helpNotes: [
     "the controlled rules come first, which is the order the addon compiles them into.",

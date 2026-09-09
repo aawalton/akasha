@@ -7,7 +7,7 @@ export const inferenceZimage = {
   definition: "the command rendering one image off a registered checkpoint",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "generate", takes: "the act, which is one image written to a named path" },
     { said: "--prompt <text>", takes: "what the image is of" },

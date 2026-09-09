@@ -7,7 +7,7 @@ export const seatComposeNotices = {
   definition: "what a seat is told when it is put back to work, as one JSON object",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [{ said: "--out <path>", takes: "a file to write into, rather than saying it" }],
   helpNotes: [
     "it prints one JSON object of notice slug to composed text, and nothing else.",

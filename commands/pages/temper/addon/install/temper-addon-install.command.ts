@@ -7,7 +7,7 @@ export const temperAddonInstall = {
   definition: "the command replacing an addon's folder in the game with what the build output has",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--addon <name>", takes: "the addon installed" },
     { said: "--code-root <path>", takes: "the checkout installed from" },

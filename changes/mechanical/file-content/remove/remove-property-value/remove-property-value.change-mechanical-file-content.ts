@@ -53,5 +53,5 @@ export const removePropertyValue = {
       statement: "Nothing here reads the index.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

@@ -6,7 +6,7 @@ export const temperCatalogInvalidate = {
   slug: "temper-catalog-invalidate",
   definition: "the command telling the catalog addon to collect the named domains again",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--domain <name>", takes: "a catalog domain to collect again, said once per domain" },
     { said: "--all", takes: "collect every catalog domain again" },

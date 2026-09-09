@@ -7,7 +7,7 @@ export const refreshAttributes = {
   definition: "the command working out again what each attribute earned before today",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   helpNotes: [
     "the days from 2026-09-06 up to today are added up afresh and kept as each attribute's points before today.",
     "today's points and the total are taken again straight after, so the three figures agree when the run ends.",

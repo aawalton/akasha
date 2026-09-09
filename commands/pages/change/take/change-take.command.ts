@@ -7,7 +7,7 @@ export const changeTake = {
   definition: "the command making a subagent's handed edits this agent's own",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-authored",
+  changeKind: "change-authored",
   helpNotes: [
     "a take names the subagent whose handed edits are taken.",
     "the subagent is named as a bare word, so no shell reads a quote or a backslash.",

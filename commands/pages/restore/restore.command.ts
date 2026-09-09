@@ -7,7 +7,7 @@ export const restore = {
   definition: "named paths put back as HEAD has them, in the working tree and in the git index",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--file-path <path>", takes: "a path HEAD holds, to put back as HEAD holds it" },
   ],

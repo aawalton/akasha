@@ -6,7 +6,7 @@ export const talosConfigGen = {
   slug: "talos-config-gen",
   definition: "the command writing one Talos node's machine-config overlay documents",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "<node>", takes: "the node to write for, said as a word rather than after `--node`" },
     { said: "--node <id>", takes: "the node to write for, as the node table names it" },

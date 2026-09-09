@@ -6,7 +6,7 @@ export const talosApply = {
   slug: "talos-apply",
   definition: "the command taking one Talos node from maintenance mode into its cluster",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "<node>", takes: "the node to apply, said as a word rather than after `--node`" },
     { said: "--node <id>", takes: "the node to apply, as the node table names it" },

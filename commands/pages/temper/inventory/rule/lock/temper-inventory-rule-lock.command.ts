@@ -6,7 +6,7 @@ export const temperInventoryRuleLock = {
   slug: "temper-inventory-rule-lock",
   definition: "the command locking a category rule named by its id",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [{ said: "<id>", takes: "the id of the category rule locked" }],
   helpNotes: [
     "a locked rule is refused an update or a deletion until it is unlocked or the call forces it.",

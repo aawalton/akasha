@@ -9,7 +9,7 @@ export const read = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   partSlugs: ["module/long-body"],
   taking: [
     {

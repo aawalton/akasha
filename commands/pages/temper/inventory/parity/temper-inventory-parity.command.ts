@@ -6,7 +6,7 @@ export const temperInventoryParity = {
   slug: "temper-inventory-parity",
   definition: "the command ruling whether the addon's trace of an item matches a fresh evaluation",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<item-id>", takes: "the item whose stored trace is compared" },
     { said: "--char <id>", takes: "the character the stored trace was captured from" },

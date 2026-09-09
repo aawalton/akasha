@@ -41,5 +41,5 @@ test("a version is shortened, and a version that will not read is shown as a das
 })
 
 test("the page says it writes nothing", () => {
-  expect(modelGatewayStatus.changeKindSlug).toBe("change-none")
+  expect(modelGatewayStatus.changeKind).toBe("change-none")
 })

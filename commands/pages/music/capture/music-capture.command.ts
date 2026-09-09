@@ -8,7 +8,7 @@ export const musicCapture = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--dry-run", takes: "say what would land and write nothing" },
     { said: "--json", takes: "give what was filed as JSON rather than as rows" },

@@ -56,5 +56,5 @@ export const renamePageAddresses = {
       statement: "A slug naming a page without its page type is left as that slug is.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

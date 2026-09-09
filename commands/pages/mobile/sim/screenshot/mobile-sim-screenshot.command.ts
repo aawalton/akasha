@@ -6,7 +6,7 @@ export const mobileSimScreenshot = {
   slug: "mobile-sim-screenshot",
   definition: "the command taking a picture of the simulator screen and saying where it was put",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--out <path>",

@@ -6,7 +6,7 @@ export const temperAddonBuild = {
   slug: "temper-addon-build",
   definition: "the command compiling an addon to Lua and installing it into the game folder",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "<name>",

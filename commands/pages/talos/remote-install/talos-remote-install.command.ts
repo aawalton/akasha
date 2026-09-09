@@ -6,7 +6,7 @@ export const talosRemoteInstall = {
   slug: "talos-remote-install",
   definition: "the command replacing the Linux running on a remote node with Talos, over SSH",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "<node>", takes: "the node to install, said as a word rather than after `--node`" },
     {

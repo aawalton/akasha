@@ -89,5 +89,5 @@ export const addPropertyRecord = {
       statement: "A record spelling a key with quotes that key does not need is refused.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

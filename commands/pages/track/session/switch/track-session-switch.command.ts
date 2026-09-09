@@ -6,7 +6,7 @@ export const trackSessionSwitch = {
   slug: "track-session-switch",
   definition: "the command ending one stretch and beginning the next at one time",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   partSlugs: ["module/waking"],
   taking: [
     { said: "--title <text>", takes: "what the next stretch is called" },

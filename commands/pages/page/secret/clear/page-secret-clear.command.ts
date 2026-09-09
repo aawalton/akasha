@@ -6,7 +6,7 @@ export const pageSecretClear = {
   slug: "page-secret-clear",
   definition: "the command dropping one secret from the sops file beside a page",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     {
       said: "--file-path <path>",

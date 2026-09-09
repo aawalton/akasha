@@ -7,7 +7,7 @@ export const push = {
   definition: "the command with this checkout's commits to the remote its branch tracks",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [{ said: "--dry-run", takes: "say how many commits would be carried, and carry none" }],
   helpNotes: [
     "a push carries the branch this checkout is on, so it names no branch and no remote.",

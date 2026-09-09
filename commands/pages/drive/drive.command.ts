@@ -7,7 +7,7 @@ export const drive = {
   definition: "the command acting on the files in Alan's Google Drive",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "auth", takes: "what to act on, which is the consent Drive is reached as Alan on" },
     {

@@ -53,5 +53,5 @@ export const removePropertyRecord = {
       statement: "Nothing here reads what the record means.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

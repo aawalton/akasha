@@ -6,7 +6,7 @@ export const emailAuthLogin = {
   slug: "email-auth-login",
   definition: "the command minting the Gmail refresh token at a browser consent",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--callback-url <url>",

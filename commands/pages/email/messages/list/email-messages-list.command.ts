@@ -6,7 +6,7 @@ export const emailMessagesList = {
   slug: "email-messages-list",
   definition: "the command summarising each Gmail message a search matches, the search optional",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--query <text>", takes: "Gmail search syntax a listing is matched against" },
     { said: "--query-file <path>", takes: "a file the search is read from, or `-` for the input" },

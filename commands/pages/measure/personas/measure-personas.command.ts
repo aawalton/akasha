@@ -7,7 +7,7 @@ export const measurePersonas = {
   definition: "the command saying each persona's relationship level and the total behind it",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   helpNotes: [
     "the total is the one kept beside the persona's own page rather than added up again here.",
     "`akasha refresh personas` rebuilds a total that has fallen behind the days.",

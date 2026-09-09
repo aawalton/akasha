@@ -6,7 +6,7 @@ export const mobileSimType = {
   slug: "mobile-sim-type",
   definition: "the command typing text into the simulator's webview",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--text <text>", takes: "the text to type" },
     { said: "--text -", takes: "the text to type, read from what is piped in" },

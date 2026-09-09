@@ -7,7 +7,7 @@ export const trackSessionLog = {
   definition: "the command writing a stretch that already began and ended",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--title <text>", takes: "what the stretch is called" },
     { said: "--start <time>", takes: "the wall time the stretch began" },

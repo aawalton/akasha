@@ -39,5 +39,5 @@ export const changeFileContentPage = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

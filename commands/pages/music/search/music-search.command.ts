@@ -7,7 +7,7 @@ export const musicSearch = {
   definition: "the command naming the Spotify tracks a query matches, each with its artists",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "query", takes: "the track query the search is made with" },
     { said: "--artist <name>", takes: "keep only candidates whose artist contains this name" },

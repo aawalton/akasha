@@ -6,7 +6,7 @@ export const temperInventoryItemRuleDelete = {
   slug: "temper-inventory-item-rule-delete",
   definition: "the command taking away a per-item rule named by its id",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the id of the per-item rule taken away" },
     { said: "--force", takes: "take it away even where it is locked" },

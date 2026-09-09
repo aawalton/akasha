@@ -26,5 +26,5 @@ export const changeFile = {
       statement: "The checks judge the tree the edits leave.",
     },
   ],
-  changeKindSlug: "change-authored",
+  changeKind: "change-authored",
 } as const satisfies ChangeAgent

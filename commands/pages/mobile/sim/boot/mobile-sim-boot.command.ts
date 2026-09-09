@@ -6,7 +6,7 @@ export const mobileSimBoot = {
   slug: "mobile-sim-boot",
   definition: "the command bringing up what the simulator is driven through",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--udid <udid>",

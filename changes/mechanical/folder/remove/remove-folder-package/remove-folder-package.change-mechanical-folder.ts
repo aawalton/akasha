@@ -57,5 +57,5 @@ export const removeFolderPackage = {
         "Nothing here drops the package's name from a workspace, folders being named by a pattern.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFolder

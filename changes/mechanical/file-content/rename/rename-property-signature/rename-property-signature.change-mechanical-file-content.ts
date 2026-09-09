@@ -10,5 +10,5 @@ export const renamePropertySignature = {
   definition: "one property a type declares spelled anew wherever the checker resolves to it",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

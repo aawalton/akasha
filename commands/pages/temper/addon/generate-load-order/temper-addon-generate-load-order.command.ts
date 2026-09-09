@@ -7,7 +7,7 @@ export const temperAddonGenerateLoadOrder = {
   definition:
     "the command writing an addon's load-order manifest and build stamp into its build output",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--addon <name>", takes: "the addon a load order is written for" },
     { said: "--code-root <path>", takes: "the checkout read and written" },

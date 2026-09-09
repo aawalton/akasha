@@ -84,5 +84,5 @@ export const addPageProperty = {
       statement: "The whitespace around a value is dropped before that value is read or written.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

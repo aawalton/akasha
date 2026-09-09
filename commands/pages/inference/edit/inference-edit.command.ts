@@ -6,7 +6,7 @@ export const inferenceEdit = {
   slug: "inference-edit",
   definition: "the command remaking one image under an instruction, keeping what it is of",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--image <path>", takes: "the image edited, which carries the identity kept" },
     { said: "--refs <csv>", takes: "further images the edit refers to, named as one comma list" },

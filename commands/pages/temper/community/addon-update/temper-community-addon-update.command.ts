@@ -7,7 +7,7 @@ export const temperCommunityAddonUpdate = {
   definition:
     "the command installing the published updates for the third-party game addons already here",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--only <dir>", takes: "restrict the run to one addon folder, said once per folder" },
     {

@@ -7,7 +7,7 @@ export const mobileSimEval = {
   definition:
     "the command running JavaScript inside the simulator's webview and giving back what it returned",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<js>", takes: "the script to run, representing `--script`" },
     { said: "--script <js>", takes: "the script to run, which returns what is to come back" },

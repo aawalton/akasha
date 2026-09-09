@@ -6,7 +6,7 @@ export const emailMessagesSend = {
   slug: "email-messages-send",
   definition: "the command sending a composed message from the authenticated mailbox",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--to <addr,..>", takes: "who the mail goes to, said again or parted by commas" },
     { said: "--cc <addr,..>", takes: "who is copied, said again or parted by commas" },

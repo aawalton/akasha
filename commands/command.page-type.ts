@@ -1,13 +1,13 @@
 import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Entries } from "../checks/code-checks/properties/entries.file-property.ts"
-import type { ChangeKindSlug } from "./properties/change-kind-slug.relation-property.ts"
+import type { ChangeKind } from "./properties/change-kind.relation-property.ts"
 import type { HelpNotes } from "./properties/help-notes.text-property.ts"
 import type { Taking } from "./properties/taking.record-property.ts"
 import type { Timeout } from "./properties/timeout.number-property.ts"
 
 export type Command = Module & {
-  changeKindSlug: ChangeKindSlug
+  changeKind: ChangeKind
   timeout?: Timeout
   taking?: Taking
   helpNotes?: readonly HelpNotes[]
@@ -33,7 +33,7 @@ export const command = {
     "command/read",
     "command/restore",
     "record-property/taking",
-    "relation-property/change-kind-slug",
+    "relation-property/change-kind",
     "text-property/help-notes",
     "text-property/said",
     "text-property/takes",
@@ -70,7 +70,7 @@ export const command = {
   extendsSlug: ["page-type/module"],
   loadedBy: "module/calling",
   properties: [
-    { pagePropertySlug: "relation-property/change-kind-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/change-kind", required: true, many: false },
     { pagePropertySlug: "record-property/taking", required: false, many: true, maxCount: null },
     { pagePropertySlug: "text-property/help-notes", required: false, many: true, maxCount: null },
     { pagePropertySlug: "number-property/timeout", required: false, many: false },

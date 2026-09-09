@@ -7,7 +7,7 @@ export const domainTree = {
   definition: "the domain tree, composed from the domain pages at the moment of asking",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [],
   helpNotes: [
     "it prints one JSON object on stdout and nothing else.",

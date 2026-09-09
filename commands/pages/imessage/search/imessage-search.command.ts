@@ -6,7 +6,7 @@ export const imessageSearch = {
   slug: "imessage-search",
   definition: "the command giving back the messages whose text has a run of characters",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--query <text>", takes: "the run of characters a message's text must hold" },
     { said: "<text>", takes: "the same run, said as a word rather than at its flag" },

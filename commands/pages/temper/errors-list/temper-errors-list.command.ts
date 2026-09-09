@@ -6,7 +6,7 @@ export const temperErrorsList = {
   slug: "temper-errors-list",
   definition: "the command naming the game's Lua errors the errors addon captured",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--errors-path <path>", takes: "the saved-variables file the errors are read from" },
     { said: "--json", takes: "give each error as JSON rather than as tab-separated rows" },

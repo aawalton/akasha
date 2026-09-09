@@ -6,7 +6,7 @@ export const temperInventorySnapshot = {
   slug: "temper-inventory-snapshot",
   definition: "the command giving back a stored holdings snapshot as one whole record",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<snapshot>", takes: "the snapshot read, by its page id or by its slug" },
     { said: "--latest", takes: "take the newest snapshot on the account rather than one named" },

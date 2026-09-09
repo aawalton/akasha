@@ -6,7 +6,7 @@ export const temperInventoryMasterWritProbe = {
   slug: "temper-inventory-master-writ-probe",
   definition: "the command giving back the addon's last master-writ journal capture",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--inventory-path <path>", takes: "the saved-variables file the capture is read from" },
     { said: "--json", takes: "give the whole capture as JSON rather than as text" },

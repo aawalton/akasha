@@ -6,7 +6,7 @@ export const mobileDeployDevice = {
   slug: "mobile-deploy-device",
   definition: "the command building an app on the mac and installing it to a phone plugged into it",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--app <slug>", takes: "the app to build, the default app where none is said" },
     {

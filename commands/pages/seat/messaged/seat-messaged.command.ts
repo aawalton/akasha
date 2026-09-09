@@ -7,7 +7,7 @@ export const seatMessaged = {
   definition: "the command counting a message Alan wrote to the persona at a seat",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [{ said: "<name>", takes: "the seat Alan wrote to" }],
   helpNotes: [
     "the moment kept is the moment of the run rather than a moment the caller states.",

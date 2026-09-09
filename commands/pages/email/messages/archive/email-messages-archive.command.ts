@@ -6,7 +6,7 @@ export const emailMessagesArchive = {
   slug: "email-messages-archive",
   definition: "the command taking the INBOX label off one Gmail message",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
     { said: "--message <id>", takes: "the message acted on, where no id follows the command" },

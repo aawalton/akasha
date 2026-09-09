@@ -7,7 +7,7 @@ export const initiativeWorkTree = {
   definition: "the command drawing each initiative under the one above it, and the intents it has",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--json", takes: "the tree as one JSON object, for a caller rather than a reader" },
     { said: "--counts", takes: "how many initiatives and how many intents the tree holds" },

@@ -7,7 +7,7 @@ export const complexity = {
   definition: "the command saying how complex each function and file of a checkout's TypeScript is",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "cyclomatic", takes: "the act, which is the McCabe complexity of each function" },
     { said: "halstead", takes: "the act, which is each function's token counts and what follows" },

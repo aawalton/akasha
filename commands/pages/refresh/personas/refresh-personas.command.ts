@@ -6,7 +6,7 @@ export const refreshPersonas = {
   slug: "refresh-personas",
   definition: "the command working out again what each persona has earned",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   helpNotes: [
     "the days from 2026-08-08 up to today are added up afresh and kept as each persona's points before today.",
     "a hundred messages Alan wrote is one point.",

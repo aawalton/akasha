@@ -6,7 +6,7 @@ export const mobileSimOpenUrl = {
   slug: "mobile-sim-open-url",
   definition: "the command opening a route in the simulator and leaving a session at it",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<path>", takes: "the route to open, representing `--route`" },
     { said: "--route <path>", takes: "the route to open, such as `/home` or a page's own path" },

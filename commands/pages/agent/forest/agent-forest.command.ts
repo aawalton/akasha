@@ -7,7 +7,7 @@ export const agentForest = {
   definition: "the seats a seat tree is drawn from, as one JSON object",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   partSlugs: ["module/no-word-reading"],
   taking: [],
   helpNotes: [

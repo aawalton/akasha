@@ -6,7 +6,7 @@ export const temperUpstreamDataVerify = {
   slug: "temper-upstream-data-verify",
   definition: "the command ruling whether a ported upstream library's data still matches upstream",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [{ said: "<library>", takes: "which upstream library's port is ruled on" }],
   helpNotes: [
     "the libraries it carries are housing, lib-map-data, lib-treasure and lib-zone.",

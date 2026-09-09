@@ -7,7 +7,7 @@ export const temperCommunityAddonList = {
   definition:
     "the command naming each installed third-party game addon beside its newest published version",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--outdated", takes: "name only the addons an update is published for" },
     { said: "--addons-dir <path>", takes: "the game's addon directory read" },

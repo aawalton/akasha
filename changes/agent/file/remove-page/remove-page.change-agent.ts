@@ -39,5 +39,5 @@ export const removePage = {
       statement: "A page property is handed to the partial change taking a page property away.",
     },
   ],
-  changeKindSlug: "change-checked",
+  changeKind: "change-checked",
 } as const satisfies ChangeAgent

@@ -7,7 +7,7 @@ export const modelGatewaySwap = {
   definition: "the command respawning a live seat's gateway on the bytecode here",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "<target>", takes: "the seat to swap, named as its page is named or by its id" },
     { said: "--fleet", takes: "every live seat in turn rather than one named" },

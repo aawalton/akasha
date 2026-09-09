@@ -7,7 +7,7 @@ export const inferenceWan = {
   definition: "the command acting on Wan video clips and the frames taken out of them",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   partSlugs: [
     "module/flag-arguing",
     "module/wan-arguing",

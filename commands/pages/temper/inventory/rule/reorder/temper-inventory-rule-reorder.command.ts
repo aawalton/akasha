@@ -6,7 +6,7 @@ export const temperInventoryRuleReorder = {
   slug: "temper-inventory-rule-reorder",
   definition: "the command moving a category rule to another place in the priority order",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the id of the category rule moved" },
     { said: "--to <index>", takes: "the position the rule moves to" },

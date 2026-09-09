@@ -7,7 +7,7 @@ export const index = {
   definition: "the index repaired against the pages of the repository as it is",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "refresh",

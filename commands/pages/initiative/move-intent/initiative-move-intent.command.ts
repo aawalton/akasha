@@ -7,7 +7,7 @@ export const initiativeMoveIntent = {
   definition: "the command carrying one intent to another place in the initiative with it",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "<initiative>", takes: "the initiative whose intents are being ordered" },
     { said: "<from>", takes: "the place the intent sits at now" },

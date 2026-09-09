@@ -6,7 +6,7 @@ export const inferencePlan = {
   slug: "inference-plan",
   definition: "the command saying what bringing the inference hosts to the registry would do",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [],
   helpNotes: [
     "this reads each host and works the reconcile out, and changes nothing on any of them.",

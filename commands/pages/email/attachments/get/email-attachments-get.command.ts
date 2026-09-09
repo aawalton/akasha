@@ -6,7 +6,7 @@ export const emailAttachmentsGet = {
   slug: "email-attachments-get",
   definition: "the command fetching one attachment's bytes by id, with its size beside them",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the message the attachment hangs off, said as Gmail's own id" },
     { said: "--message <id>", takes: "that message, where no id follows the command" },

@@ -6,7 +6,7 @@ export const temperCatalogList = {
   slug: "temper-catalog-list",
   definition: "the command naming every catalog domain the game's reference data is collected in",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [{ said: "--json", takes: "give the domains as JSON rather than as tab-separated rows" }],
   helpNotes: [
     "the domains are the ones the catalog addon collects under, and the addon's registry is what settles them.",

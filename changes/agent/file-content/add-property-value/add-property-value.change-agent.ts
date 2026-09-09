@@ -54,5 +54,5 @@ export const addPropertyValue = {
       statement: "A key the type names under no property is handed on as carrying many values.",
     },
   ],
-  changeKindSlug: "change-checked",
+  changeKind: "change-checked",
 } as const satisfies ChangeAgent

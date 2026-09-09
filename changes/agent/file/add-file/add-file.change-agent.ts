@@ -30,5 +30,5 @@ export const addFile = {
       statement: "A later act in the same change names a page this change wrote.",
     },
   ],
-  changeKindSlug: "change-authored",
+  changeKind: "change-authored",
 } as const satisfies ChangeAgent

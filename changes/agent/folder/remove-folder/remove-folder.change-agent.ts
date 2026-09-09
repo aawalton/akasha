@@ -22,5 +22,5 @@ export const removeFolder = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-  changeKindSlug: "change-checked",
+  changeKind: "change-checked",
 } as const satisfies ChangeAgent

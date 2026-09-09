@@ -6,7 +6,7 @@ export const temperEsoGenerateColonMethods = {
   slug: "temper-eso-generate-colon-methods",
   definition: "the command staging the census of the method names the base game defines on a class",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--eso-root <path>",

@@ -6,7 +6,7 @@ export const temperEsoGenerateHudSceneCatalog = {
   slug: "temper-eso-generate-hud-scene-catalog",
   definition: "the command writing the catalog of HUD parts out of the game's own scene source",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     {
       said: "--code-root <path>",

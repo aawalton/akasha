@@ -6,7 +6,7 @@ export const imessageSend = {
   slug: "imessage-send",
   definition: "the command handing one message to the Messages app on the mac",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--to <name-or-handle>",

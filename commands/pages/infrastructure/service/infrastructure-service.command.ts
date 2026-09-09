@@ -7,7 +7,7 @@ export const infrastructureService = {
   definition: "the command acting on the services akasha carries",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   partSlugs: ["module/name-drawing"],
   taking: [
     {

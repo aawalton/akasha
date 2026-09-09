@@ -61,7 +61,7 @@ const OWING_NO_READING: Readonly<Record<string, string>> = {
     slug: "remove-page",
     definition: "a mechanical change an indexed repository carries",
     code: "ts",
-    changeKindSlug: "change-mechanical",
+    changeKind: "change-mechanical",
   }),
 }
 

@@ -7,7 +7,7 @@ export const temperPackageTypecheck = {
   definition:
     "the command typechecking a package under `temper/` against its own compiler settings",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--package <name>",

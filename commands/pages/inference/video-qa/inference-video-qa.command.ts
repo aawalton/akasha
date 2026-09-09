@@ -6,7 +6,7 @@ export const inferenceVideoQa = {
   slug: "inference-video-qa",
   definition: "the command answering a question about a clip from the frames taken out of it",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--video <path>", takes: "the clip read, whose frames are taken here" },
     { said: "--frames-dir <dir>", takes: "frames already taken out, read instead of a clip" },

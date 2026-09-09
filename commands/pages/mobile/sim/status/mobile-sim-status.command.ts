@@ -6,7 +6,7 @@ export const mobileSimStatus = {
   slug: "mobile-sim-status",
   definition: "the command saying what simulator session is there",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [],
   helpNotes: [
     "no session there is an answer rather than a refusal, and it says which calls would start one.",

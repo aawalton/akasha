@@ -49,5 +49,5 @@ export const moveFolderPackage = {
       statement: "No address is repointed beyond the ones the folder move repoints.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFolder

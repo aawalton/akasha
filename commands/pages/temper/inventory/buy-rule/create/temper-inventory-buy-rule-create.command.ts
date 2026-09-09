@@ -6,7 +6,7 @@ export const temperInventoryBuyRuleCreate = {
   slug: "temper-inventory-buy-rule-create",
   definition: "the command adding a buy rule",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--item-id <n>", takes: "the game item id the rule matches on" },
     {

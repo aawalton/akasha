@@ -7,7 +7,7 @@ export const changeDraft = {
   definition: "the command answering one change and keeping its edits rather than landing them",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   helpNotes: [
     "the change to answer is the first word, and the arguments that change takes are piped in.",
     "a call naming no change is refused with every change a draft runs.",

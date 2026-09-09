@@ -6,7 +6,7 @@ export const refreshMessages = {
   slug: "refresh-messages",
   definition: "the command counting again what Alan wrote each persona on each day",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   helpNotes: [
     "every transcript on this machine is read, which takes a minute.",
     "a message counted is one Alan typed or queued, and nothing an agent or the harness sent.",

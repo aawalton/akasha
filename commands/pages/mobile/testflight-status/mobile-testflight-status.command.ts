@@ -6,7 +6,7 @@ export const mobileTestflightStatus = {
   slug: "mobile-testflight-status",
   definition: "the command saying how far App Store Connect has got with the newest build",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--app <slug>", takes: "the app to ask about, the default app where none is said" },
     {

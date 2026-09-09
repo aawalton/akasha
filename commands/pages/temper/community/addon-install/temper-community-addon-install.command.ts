@@ -6,7 +6,7 @@ export const temperCommunityAddonInstall = {
   slug: "temper-community-addon-install",
   definition: "the command installing a third-party game addon from the community site by name",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<name>", takes: "the community addon's name, or one of the folder names it installs" },
     { said: "--force", takes: "install again even where the target folders are already present" },

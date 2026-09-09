@@ -7,7 +7,7 @@ export const seatReset = {
   definition: "the command sitting a new agent down under everything a seat already states",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [{ said: "<name>", takes: "the seat to reset, named as that seat's page is named" }],
   helpNotes: [
     "a reset names one seat, spelled as that seat's page is spelled rather than as an id.",

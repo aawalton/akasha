@@ -7,7 +7,7 @@ export const icloud = {
   definition: "the command acting on the photos an iCloud shared album holds",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "fetch", takes: "the act, which is to write every photo in an album to disk" },
     { said: "<share-url>", takes: "the album to fetch, said in place as its share URL" },

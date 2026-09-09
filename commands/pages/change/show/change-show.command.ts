@@ -7,7 +7,7 @@ export const changeShow = {
   definition: "the body a path would have once the edits kept for this agent land",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-authored",
+  changeKind: "change-authored",
   helpNotes: [
     "the arguments a show takes are piped in, as the arguments a change takes are.",
     "nothing on the command line carries a value, so no shell reads a quote or a backslash.",

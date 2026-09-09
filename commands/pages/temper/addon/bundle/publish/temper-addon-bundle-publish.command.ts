@@ -7,7 +7,7 @@ export const temperAddonBundlePublish = {
   definition:
     "the command putting the addon bundle into the cluster registry under its content hash",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--code-root <path>", takes: "the checkout built from and written into" },
     { said: "--registry <host:port>", takes: "where the image is pushed" },

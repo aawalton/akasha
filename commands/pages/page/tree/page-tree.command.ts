@@ -7,7 +7,7 @@ export const pageTree = {
   definition: "the index answers a page tree is composed from",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [],
   helpNotes: [
     "one JSON object is printed and nothing else, carrying `types`, `properties` and `propertyTypes`.",

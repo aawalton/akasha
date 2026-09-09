@@ -7,7 +7,7 @@ export const claudeAccountReEnable = {
   definition:
     "the command putting one claude account back in the pool its subscription shut it out of",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [{ said: "<account>", takes: "the account to put back, named as its page is named" }],
   helpNotes: [
     "an account is shut out when the gateway finds its subscription inactive, and the reason it found is kept beside the account's page.",

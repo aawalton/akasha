@@ -7,7 +7,7 @@ export const claudeAccountUsage = {
   definition: "what the Claude fleet has spent of its two windows, as one JSON object",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [],
   helpNotes: [
     "it prints one JSON object and nothing else, carrying a session mean and a weekly mean.",

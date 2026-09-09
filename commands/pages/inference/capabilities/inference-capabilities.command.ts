@@ -6,7 +6,7 @@ export const inferenceCapabilities = {
   slug: "inference-capabilities",
   definition: "the command naming the image pool services and the mflux batch tools beside them",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [],
   helpNotes: [
     "an image pool service is one the registry declares as a pool member whose name opens with `image-`.",

@@ -7,7 +7,7 @@ export const calendar = {
   definition: "the command acting on Alan's Google calendar and the events on it",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     {
       said: "auth",

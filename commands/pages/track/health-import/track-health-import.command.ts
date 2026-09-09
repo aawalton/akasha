@@ -7,7 +7,7 @@ export const trackHealthImport = {
   definition: "the command bringing an Apple Health export into the sample store",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--path <file>",

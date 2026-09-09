@@ -29,5 +29,5 @@ export const addFilePageProperty = {
       statement: "The pages the body names are judged by the change this change reaches.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical

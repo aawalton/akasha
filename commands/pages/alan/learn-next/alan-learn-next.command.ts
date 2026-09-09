@@ -6,7 +6,7 @@ export const alanLearnNext = {
   slug: "alan-learn-next",
   definition: "the first unopened leaf of the Book of Everything along a sweep fixed in advance",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--json",

@@ -6,7 +6,7 @@ export const mobileCutStatus = {
   slug: "mobile-cut-status",
   definition: "the command saying whether a TestFlight cut is owed or the phones are current",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--app <slug>", takes: "the app to answer about, the default app where none is said" },
     { said: "--json", takes: "give the answer as JSON rather than as tab-separated rows" },

@@ -7,7 +7,7 @@ export const seatSupervisorRestart = {
   definition: "the command restarting every seat's supervisor onto the code standing now",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--all", takes: "every seat akasha carries, which is the only reach a restart has" },
   ],

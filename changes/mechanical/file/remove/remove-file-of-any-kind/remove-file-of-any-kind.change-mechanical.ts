@@ -41,5 +41,5 @@ export const removeFileOfAnyKind = {
         "A path under a page property name goes by the change taking a page property away.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical

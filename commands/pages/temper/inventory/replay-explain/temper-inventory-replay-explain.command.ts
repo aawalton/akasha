@@ -6,7 +6,7 @@ export const temperInventoryReplayExplain = {
   slug: "temper-inventory-replay-explain",
   definition: "the command giving back the addon's last stored explain trace",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--inventory-path <path>", takes: "the saved-variables file the trace is read from" },
     {

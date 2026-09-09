@@ -6,7 +6,7 @@ export const temperInventoryItemRuleUpdate = {
   slug: "temper-inventory-item-rule-update",
   definition: "the command changing the fields of a per-item rule named by its id",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the id of the per-item rule changed" },
     { said: "--action <name>", takes: "what is done with the item when the rule fires" },

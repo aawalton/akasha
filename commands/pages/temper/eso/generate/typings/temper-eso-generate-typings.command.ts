@@ -6,7 +6,7 @@ export const temperEsoGenerateTypings = {
   slug: "temper-eso-generate-typings",
   definition: "the command writing the game's API declarations from the game's own documentation",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     {
       said: "--code-root <path>",

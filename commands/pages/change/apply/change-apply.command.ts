@@ -7,7 +7,7 @@ export const changeApply = {
   definition: "the command landing every edit kept, answering one change first where one is named",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   helpNotes: [
     "an apply naming no change lands the edits already kept beside this agent's page.",
     "an apply naming a change answers that change first, then lands every edit kept, and `measure` measures that landing rather than landing it.",

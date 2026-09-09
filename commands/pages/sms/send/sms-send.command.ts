@@ -6,7 +6,7 @@ export const smsSend = {
   slug: "sms-send",
   definition: "the command putting one text message out over the toll-free number",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--to <e164>", takes: "the number the text goes to, written in E.164" },
     { said: "<e164>", takes: "the same number, said as a word rather than at its flag" },

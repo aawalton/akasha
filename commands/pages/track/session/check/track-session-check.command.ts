@@ -6,7 +6,7 @@ export const trackSessionCheck = {
   slug: "track-session-check",
   definition: "the command judging the rows a day carries",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   partSlugs: ["module/session-rows"],
   taking: [{ said: "--day <date>", takes: "which day to act on, written as that day's own date" }],
   helpNotes: [

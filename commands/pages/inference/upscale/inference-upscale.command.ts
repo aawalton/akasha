@@ -6,7 +6,7 @@ export const inferenceUpscale = {
   slug: "inference-upscale",
   definition: "the command remaking one image at a higher resolution on a GPU",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "<image>", takes: "the image remade, said without a flag" },
     { said: "--image <path>", takes: "that image said as a flag instead" },

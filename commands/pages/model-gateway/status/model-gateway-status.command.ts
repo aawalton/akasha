@@ -7,7 +7,7 @@ export const modelGatewayStatus = {
   definition: "the command weighing the gateway each live seat runs against the tree here",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   partSlugs: ["module/live-gateway-seats"],
   taking: [{ said: "--json", takes: "the answer as one JSON object rather than as rows" }],
   helpNotes: [

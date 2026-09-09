@@ -28,5 +28,5 @@ export const moveFilePageType = {
       statement: "A manifest naming the moved file as a way in is restated by the change reached.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical

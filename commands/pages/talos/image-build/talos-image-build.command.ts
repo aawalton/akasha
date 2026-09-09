@@ -6,7 +6,7 @@ export const talosImageBuild = {
   slug: "talos-image-build",
   definition: "the command registering one node's schematic with the Talos Image Factory",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     {
       said: "<node>",

@@ -6,7 +6,7 @@ export const imessageContacts = {
   slug: "imessage-contacts",
   definition: "the command naming the address book contacts whose name has a run of letters",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--query <name>", takes: "the run of letters a contact's name must hold" },
     { said: "<name>", takes: "the same run of letters, said as a word rather than at its flag" },

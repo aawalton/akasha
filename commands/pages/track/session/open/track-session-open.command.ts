@@ -6,7 +6,7 @@ export const trackSessionOpen = {
   slug: "track-session-open",
   definition: "the command beginning a stretch on a day with none open",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   partSlugs: ["module/session-acting"],
   taking: [
     { said: "--title <text>", takes: "what the stretch is called" },

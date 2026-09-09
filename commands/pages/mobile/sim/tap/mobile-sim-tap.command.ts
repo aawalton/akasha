@@ -6,7 +6,7 @@ export const mobileSimTap = {
   slug: "mobile-sim-tap",
   definition: "the command tapping the simulator screen the way a finger would",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--selector <css>", takes: "the element to tap, found by CSS in the webview" },
     { said: "--x <px>", takes: "how far across the viewport to tap, with `--y`" },

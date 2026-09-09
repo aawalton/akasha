@@ -6,7 +6,7 @@ export const inferenceSegment = {
   slug: "inference-segment",
   definition: "the command parting an image's foreground from its background as an alpha matte",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "<image>", takes: "the image matted, said without a flag" },
     { said: "--image <path>", takes: "that image said as a flag instead" },

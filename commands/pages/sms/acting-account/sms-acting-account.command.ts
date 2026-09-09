@@ -6,7 +6,7 @@ export const smsActingAccount = {
   slug: "sms-acting-account",
   definition: "the command reading the write-as account out of a delivered SMS surface's footer",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--surface-file <path|->",

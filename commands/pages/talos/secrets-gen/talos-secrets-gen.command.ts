@@ -6,7 +6,7 @@ export const talosSecretsGen = {
   slug: "talos-secrets-gen",
   definition: "the command writing a Talos cluster's PKI bundle SOPS-encrypted",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--cluster <name>", takes: "the cluster to write for, `main` where none is said" },
     { said: "--force", takes: "write over a bundle already there, which is a deliberate rotation" },

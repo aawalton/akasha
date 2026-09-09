@@ -6,7 +6,7 @@ export const temperInventoryRules = {
   slug: "temper-inventory-rules",
   definition: "the command giving back the compiled rule configuration the addon has",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--inventory-path <path>",

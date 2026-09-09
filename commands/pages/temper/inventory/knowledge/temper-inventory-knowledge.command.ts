@@ -6,7 +6,7 @@ export const temperInventoryKnowledge = {
   slug: "temper-inventory-knowledge",
   definition: "the command giving back what each character knows of recipes, motifs and scripts",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--char <id>", takes: "the one character reported" },
     {

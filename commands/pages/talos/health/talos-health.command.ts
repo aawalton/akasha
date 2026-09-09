@@ -6,7 +6,7 @@ export const talosHealth = {
   slug: "talos-health",
   definition: "the command running the talosctl health check over a Talos cluster",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--ip <ip>", takes: "the node the health check is asked of" },
     {

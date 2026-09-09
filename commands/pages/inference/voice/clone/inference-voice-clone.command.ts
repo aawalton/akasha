@@ -6,7 +6,7 @@ export const inferenceVoiceClone = {
   slug: "inference-voice-clone",
   definition: "the command speaking text in the voice a reference clip carries",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--text <utterance>", takes: "what is spoken in the cloned voice" },
     { said: "--text-file <path>", takes: "that text read from a path, or `-` for standard input" },

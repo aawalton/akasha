@@ -20,5 +20,5 @@ export const renamePageSlug = {
       statement: "Those splices are settled onto the ledger rather than onto a world made here.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

@@ -7,7 +7,7 @@ export const musicNext = {
   definition: "the command choosing what Alan hears next out of the songs and artists he keeps",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [{ said: "--json", takes: "give the selection as JSON rather than as human text" }],
   helpNotes: [
     "the songs and the artists are read from the pages akasha carries rather than from Spotify.",

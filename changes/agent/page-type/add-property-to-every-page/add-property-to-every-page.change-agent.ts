@@ -60,5 +60,5 @@ export const addPropertyToEveryPage = {
       statement: "The value is handed on as the body spells it rather than as text to quote.",
     },
   ],
-  changeKindSlug: "change-checked",
+  changeKind: "change-checked",
 } as const satisfies ChangeAgent

@@ -125,5 +125,5 @@ export const renameFilePage = {
       statement: "A call wrongly saying so leaves the addresses left out as those addresses are.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical

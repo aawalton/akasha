@@ -8,7 +8,7 @@ export const temperAddonTypecheck = {
     "the command typechecking each addon against its own compiler settings with nothing emitted",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [{ said: "--code-root <path>", takes: "the checkout whose addons are typechecked" }],
   helpNotes: [
     "an addon's own compiler settings are the only statement of what it compiles and which game globals it may name.",

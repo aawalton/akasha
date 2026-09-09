@@ -26,5 +26,5 @@ export const addFilePageType = {
       statement: "The plural slug the body states is judged by the guard this change names.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical

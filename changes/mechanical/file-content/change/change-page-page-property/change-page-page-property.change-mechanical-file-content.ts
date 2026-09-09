@@ -27,5 +27,5 @@ export const changePagePageProperty = {
         "A newline ending the value asked for is dropped, because a page states a value rather than a body.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

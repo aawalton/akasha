@@ -35,5 +35,5 @@ test("the fleet flag and the json flag are read together", () => {
 })
 
 test("the page says the swap is mechanical", () => {
-  expect(modelGatewaySwap.changeKindSlug).toBe("change-mechanical")
+  expect(modelGatewaySwap.changeKind).toBe("change-mechanical")
 })

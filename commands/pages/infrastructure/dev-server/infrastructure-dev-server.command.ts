@@ -7,7 +7,7 @@ export const infrastructureDevServer = {
   definition: "a React Router dev server run detached for one app in a branch's worktree",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   partSlugs: ["module/last-lines"],
   taking: [
     {

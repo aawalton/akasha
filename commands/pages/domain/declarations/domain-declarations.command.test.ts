@@ -30,6 +30,6 @@ test("a flag wanting a word and given none is refused", () => {
 })
 
 test("the page says it writes nothing and takes one flag", () => {
-  expect(domainDeclarations.changeKindSlug).toBe("change-none")
+  expect(domainDeclarations.changeKind).toBe("change-none")
   expect(domainDeclarations.taking.map((one) => one.said)).toEqual([`${SUBJECT} <subject>`])
 })

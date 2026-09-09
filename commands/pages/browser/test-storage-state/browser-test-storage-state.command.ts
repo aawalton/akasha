@@ -7,7 +7,7 @@ export const browserTestStorageState = {
   definition:
     "the command signing the browser-test user in and writing the storage state a browser is seeded from",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--url <origin>", takes: "the origin signed in to, the env's where none is said" },
     {

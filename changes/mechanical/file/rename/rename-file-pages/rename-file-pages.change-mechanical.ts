@@ -48,5 +48,5 @@ export const renameFilePages = {
       statement: "The first refusal answers for the whole call.",
     },
   ],
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
 } as const satisfies ChangeMechanical

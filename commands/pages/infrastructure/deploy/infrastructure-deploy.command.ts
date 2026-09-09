@@ -8,7 +8,7 @@ export const infrastructureDeploy = {
   code: "ts",
   test: "ts",
   testFixtures: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   partSlugs: [
     "module/deploy-ios-shipping",
     "module/deploy-kind-reading",

@@ -43,5 +43,5 @@ export const changePagePagePropertyText = {
       statement: "Nothing here works out a body of its own.",
     },
   ],
-  changeKindSlug: "change-restated",
+  changeKind: "change-restated",
 } as const satisfies ChangeAgent

@@ -7,7 +7,7 @@ export const trackWeight = {
   definition: "the command recording what Alan's body weighed on a day",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--bodyweight <lb>", takes: "what Alan's body weighed, in pounds" },
     { said: "--day <date>", takes: "which day to act on, written as that day's own date" },

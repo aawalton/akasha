@@ -6,7 +6,7 @@ export const temperEsoGenerateBaseGameGlobals = {
   slug: "temper-eso-generate-base-game-globals",
   definition: "the command staging the census of the string ids the base game provides",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--eso-root <path>",

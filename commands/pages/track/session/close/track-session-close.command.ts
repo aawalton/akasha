@@ -6,7 +6,7 @@ export const trackSessionClose = {
   slug: "track-session-close",
   definition: "the command ending the open stretch of a day",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--at <time>", takes: "the wall time the stretch ends" },
     { said: "--day <date>", takes: "which day to act on, written as that day's own date" },

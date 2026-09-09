@@ -6,7 +6,7 @@ export const inferenceActivate = {
   slug: "inference-activate",
   definition: "the command making one pool service the resident the traffic cop serves",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [{ said: "<name>", takes: "the pool service made resident" }],
   helpNotes: [
     "the pool holds one resident at a time, so making one resident evicts the one that was.",

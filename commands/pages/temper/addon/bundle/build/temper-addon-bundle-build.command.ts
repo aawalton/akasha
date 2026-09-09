@@ -6,7 +6,7 @@ export const temperAddonBundleBuild = {
   slug: "temper-addon-bundle-build",
   definition: "the command packing every distributable addon's build output into one archive",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--sha <commit-sha>",

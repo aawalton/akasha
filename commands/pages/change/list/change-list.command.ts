@@ -7,7 +7,7 @@ export const changeList = {
   definition: "the edits an agent keeps, and the edits each subagent handed that agent",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-authored",
+  changeKind: "change-authored",
   helpNotes: [
     "a list naming nothing names the edits kept beside this agent's own page.",
     "a list names each subagent holding edits for this agent, and how many each one holds.",

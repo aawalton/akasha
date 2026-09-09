@@ -7,7 +7,7 @@ export const musicQueue = {
   definition: "the command playing the first of a set of tracks and queueing the rest behind it",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<query>...", takes: "one or more track queries, in the order they are played" },
     {

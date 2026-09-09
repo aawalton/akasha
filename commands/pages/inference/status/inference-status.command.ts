@@ -6,7 +6,7 @@ export const inferenceStatus = {
   slug: "inference-status",
   definition: "the command reading what managed inference services each host is actually holding",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [],
   helpNotes: [
     "each host is asked in turn, and what it says is reported under its name and address.",

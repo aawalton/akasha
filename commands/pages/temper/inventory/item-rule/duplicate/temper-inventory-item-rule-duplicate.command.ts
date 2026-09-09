@@ -6,7 +6,7 @@ export const temperInventoryItemRuleDuplicate = {
   slug: "temper-inventory-item-rule-duplicate",
   definition: "the command copying a per-item rule named by its id",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [{ said: "<id>", takes: "the id of the per-item rule copied" }],
   helpNotes: [
     "the copy is unlocked and inactive whatever the original was.",

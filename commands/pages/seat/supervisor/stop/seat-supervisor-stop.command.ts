@@ -7,7 +7,7 @@ export const seatSupervisorStop = {
   definition: "the command ending a seat's supervisor and taking the page that seat held",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "<name>", takes: "the seat to stop, named as that seat's page is named" },
     { said: "--force", takes: "stop it though subagents are working, ending them with it" },

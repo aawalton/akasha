@@ -6,7 +6,7 @@ export const trackSessionSplit = {
   slug: "track-session-split",
   definition: "the command parting one stretch into two at a time said",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--at <time>", takes: "the wall time the stretch is parted at" },
     { said: "--id <uuid>", takes: "the stretch to act on, named by the id that stretch carries" },

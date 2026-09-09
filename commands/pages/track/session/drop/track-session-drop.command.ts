@@ -7,7 +7,7 @@ export const trackSessionDrop = {
   definition: "the command taking a stretch away from a day",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [
     { said: "--id <uuid>", takes: "the stretch to act on, named by the id that stretch carries" },
     { said: "--at <time>", takes: "a wall time the stretch dropped covers" },

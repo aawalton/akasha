@@ -6,7 +6,7 @@ export const emailDraftsCreate = {
   slug: "email-drafts-create",
   definition: "the command writing one Gmail draft from the flags a send takes, unsent",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "--to <addr,..>", takes: "who the mail goes to, said again or parted by commas" },
     { said: "--cc <addr,..>", takes: "who is copied, said again or parted by commas" },

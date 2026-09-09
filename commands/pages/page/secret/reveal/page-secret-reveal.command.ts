@@ -6,7 +6,7 @@ export const pageSecretReveal = {
   slug: "page-secret-reveal",
   definition: "the command answering with one of a page's secrets, decrypted",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     {
       said: "--file-path <path>",

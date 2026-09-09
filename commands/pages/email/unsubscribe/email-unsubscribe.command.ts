@@ -6,7 +6,7 @@ export const emailUnsubscribe = {
   slug: "email-unsubscribe",
   definition: "the command getting off the list one message came from, by the headers it has",
   code: "ts",
-  changeKindSlug: "change-none",
+  changeKind: "change-none",
   taking: [
     { said: "<id>", takes: "the message acted on, said as the id Gmail gives it" },
     { said: "--message <id>", takes: "the message acted on, where no id follows the command" },

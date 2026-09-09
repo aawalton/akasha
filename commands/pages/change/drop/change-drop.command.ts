@@ -7,7 +7,7 @@ export const changeDrop = {
   definition: "the command taking kept edits away without landing any of them",
   code: "ts",
   test: "ts",
-  changeKindSlug: "change-authored",
+  changeKind: "change-authored",
   helpNotes: [
     "a drop naming nothing reaches the edits kept beside this agent's own page.",
     "a drop naming a subagent reaches the edits that subagent handed over.",

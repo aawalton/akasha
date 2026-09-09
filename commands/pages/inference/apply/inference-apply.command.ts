@@ -6,7 +6,7 @@ export const inferenceApply = {
   slug: "inference-apply",
   definition: "the command bringing each host's inference services to what the registry declares",
   code: "ts",
-  changeKindSlug: "change-mechanical",
+  changeKind: "change-mechanical",
   taking: [],
   helpNotes: [
     "the services are the ones the registry declares, grouped by the host each names.",
