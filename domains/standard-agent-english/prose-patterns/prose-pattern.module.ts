@@ -152,5 +152,9 @@ export const prosePattern = {
       invariantKind: "departure",
       statement: "A word the parser gave two objects is misread, so it is left alone.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A fronted word joined to another word is left alone.",
+    },
   ],
 } as const satisfies Module

@@ -314,6 +314,7 @@ function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (placedSomewhere(sentence, token)) return null
   if (!thingFronted(sentence, token)) return null
   if (pastAfter(sentence, token)) return null
+  if (verbConjoined(sentence, token)) return null
   return subjectOfItsOwn(sentence, token) ? FRONTED_FRAME : null
 }
 
