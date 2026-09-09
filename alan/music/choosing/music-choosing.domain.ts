@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const musicChoosing = {
   id: "01a06281-4d9d-7000-8324-01f8e3c762a1",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "music-choosing",
   definition: "the choice of what Alan hears next",
-  manifest: "json",
   parts: [
     "module/rating-ladder",
     "module/music-exploration",
@@ -26,4 +25,4 @@ export const musicChoosing = {
       statement: "Nothing here commands the player.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

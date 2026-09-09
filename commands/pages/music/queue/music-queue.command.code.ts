@@ -1,9 +1,12 @@
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { InputError, isCliError } from "@akasha/errors-core/exit-code"
-import type { ResolvedTrack } from "@akasha/music-choosing/track-resolving"
-import { resolveDeviceId, resolveQueryToTrack } from "@akasha/music-choosing/track-resolving"
 import { addToQueue, startResumePlayback } from "@akasha/spotify/player"
+import type { ResolvedTrack } from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
+import {
+  resolveDeviceId,
+  resolveQueryToTrack,
+} from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 import type { Read, Starting } from "../play/music-play.command.code.ts"
 import {
   ARTIST,

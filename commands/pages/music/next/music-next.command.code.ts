@@ -1,17 +1,17 @@
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { valuesOfType } from "@akasha/indexes"
+import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
+import { valueAt } from "@akasha/pages/page-value"
 import type {
   Catalog,
   CatalogArtist,
   CatalogSong,
   Exploration,
-} from "@akasha/music-choosing/music-exploration"
-import { selectNextExploration } from "@akasha/music-choosing/music-exploration"
-import type { MusicRating } from "@akasha/music-choosing/rating-ladder"
-import { MUSIC_RATINGS } from "@akasha/music-choosing/rating-ladder"
-import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
-import { valueAt } from "@akasha/pages/page-value"
+} from "akasha/alan/music/choosing/music-exploration/music-exploration.module.code.ts"
+import { selectNextExploration } from "akasha/alan/music/choosing/music-exploration/music-exploration.module.code.ts"
+import type { MusicRating } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
+import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 
 const INPUT = 1
 

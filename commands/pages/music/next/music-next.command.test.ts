@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
 import type { Given } from "@akasha/command-system/calling"
 import { indexThere } from "@akasha/indexes"
-import type { Catalog } from "@akasha/music-choosing/music-exploration"
-import { selectNextExploration } from "@akasha/music-choosing/music-exploration"
-import { MUSIC_RATINGS } from "@akasha/music-choosing/rating-ladder"
 import { codeRoot } from "@akasha/pages/code-root"
+import type { Catalog } from "akasha/alan/music/choosing/music-exploration/music-exploration.module.code.ts"
+import { selectNextExploration } from "akasha/alan/music/choosing/music-exploration/music-exploration.module.code.ts"
+import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 import {
   catalogIn,
   gradeAmiss,

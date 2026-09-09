@@ -21,7 +21,6 @@
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-runs": "workspace:*",
         "@akasha/mobile-cli": "workspace:*",
-        "@akasha/music-choosing": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -266,15 +265,6 @@
     "alan/harness/voice-core": {
       "name": "@akasha/voice-core",
       "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
-    "alan/music/choosing": {
-      "name": "@akasha/music-choosing",
-      "dependencies": {
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/spotify": "workspace:*",
-        "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1926,8 +1916,6 @@
     "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:language-design/lua-compiler"],
 
     "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:alan/harness/mobile-cli"],
-
-    "@akasha/music-choosing": ["@akasha/music-choosing@workspace:alan/music/choosing"],
 
     "@akasha/object-store": ["@akasha/object-store@workspace:infrastructure/storage/object-store"],
 

@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
 import { DataError, OperationalError } from "@akasha/errors-core/exit-code"
-import type { ResolvableTrack, ResolvedTrack } from "@akasha/music-choosing/track-resolving"
+import type {
+  ResolvableTrack,
+  ResolvedTrack,
+} from "akasha/alan/music/choosing/track-resolving/track-resolving.module.code.ts"
 import type { Playing, StartResumeOptions } from "./music-play.command.code.ts"
 import { playing, readingArgv } from "./music-play.command.code.ts"
 

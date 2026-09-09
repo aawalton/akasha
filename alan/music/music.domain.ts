@@ -9,7 +9,7 @@ export const music = {
   parts: [
     "domain/music-catalog",
     "domain/music-listening",
-    "workspace-package/music-choosing",
+    "domain/music-choosing",
     "domain/music-commands",
     "workspace-package/spotify",
   ],

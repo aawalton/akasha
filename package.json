@@ -11,7 +11,6 @@
   "dependencies": {
     "@akasha/changes": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/music-choosing": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/spotify": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",

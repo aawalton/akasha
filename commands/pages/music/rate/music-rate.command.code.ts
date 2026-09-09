@@ -4,11 +4,11 @@ import { mistaking, textAt } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { listedAt } from "@akasha/indexes"
-import { MUSIC_RATINGS } from "@akasha/music-choosing/rating-ladder"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { type Value, valueAt } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-service/composing"
+import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
 
 const INPUT = 1
 
