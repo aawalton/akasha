@@ -1,7 +1,7 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { EnchantmentMultiplier } from "../../../catalogs/temper-gear/properties/enchantment-multiplier.number-property.ts"
-import type { EsoWeaponType } from "../../../catalogs/temper-gear/properties/eso-weapon-type.text-property.ts"
-import type { WeaponTypePower } from "../../../catalogs/temper-gear/properties/weapon-type-power.number-property.ts"
+import type { EnchantmentMultiplier } from "../properties/enchantment-multiplier.number-property.ts"
+import type { EsoWeaponType } from "../properties/eso-weapon-type.text-property.ts"
+import type { WeaponTypePower } from "../properties/weapon-type-power.number-property.ts"
 import type { TemperGearThing } from "../things/temper-gear-thing.page-type.ts"
 
 export type TemperWeaponType = TemperGearThing & {

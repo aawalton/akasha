@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { JewelryTypeId } from "../../../catalogs/temper-gear/properties/jewelry-type-id.text-property.ts"
-import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.ts"
+import type { JewelryTypeId } from "../properties/jewelry-type-id.text-property.ts"
 
 export type TemperJewelrySlot = TemperCatalogThing & {
   typeId: JewelryTypeId

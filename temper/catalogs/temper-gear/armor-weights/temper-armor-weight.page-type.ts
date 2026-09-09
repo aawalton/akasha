@@ -1,7 +1,7 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { ArmorBaseValue } from "../../../catalogs/temper-gear/properties/armor-base-value.number-property.ts"
-import type { IsStandard } from "../../../catalogs/temper-gear/properties/is-standard.boolean-property.ts"
-import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.ts"
+import type { ArmorBaseValue } from "../properties/armor-base-value.number-property.ts"
+import type { IsStandard } from "../properties/is-standard.boolean-property.ts"
 
 export type TemperArmorWeight = TemperCatalogThing & {
   baseValue: ArmorBaseValue

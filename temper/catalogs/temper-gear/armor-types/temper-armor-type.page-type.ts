@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { ArmorMultiplier } from "../../../catalogs/temper-gear/properties/armor-multiplier.number-property.ts"
-import type { IsLargeEnchantSlot } from "../../../catalogs/temper-gear/properties/is-large-enchant-slot.boolean-property.ts"
+import type { ArmorMultiplier } from "../properties/armor-multiplier.number-property.ts"
+import type { IsLargeEnchantSlot } from "../properties/is-large-enchant-slot.boolean-property.ts"
 import type { TemperGearThing } from "../things/temper-gear-thing.page-type.ts"
 
 export type TemperArmorType = TemperGearThing & {
