@@ -8,7 +8,7 @@ export const thePrimalHunter0161Chapter1364AnUnforgettableFoe = {
   story: "story-read/the-primal-hunter",
   position: 161,
   ownLength: 2791,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3742101/chapter-1364-an-unforgettable-foe",

@@ -8,7 +8,7 @@ export const thePrimalHunter0042Chapter1170ItSADate = {
   story: "story-read/the-primal-hunter",
   position: 42,
   ownLength: 2762,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2643406/chapter-1170-its-a-date",

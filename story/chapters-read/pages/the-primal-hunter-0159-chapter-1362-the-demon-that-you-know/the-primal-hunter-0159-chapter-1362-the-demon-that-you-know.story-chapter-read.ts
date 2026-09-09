@@ -8,7 +8,7 @@ export const thePrimalHunter0159Chapter1362TheDemonThatYouKnow = {
   story: "story-read/the-primal-hunter",
   position: 159,
   ownLength: 2826,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3733054/chapter-1362-the-demon-that-you-know",

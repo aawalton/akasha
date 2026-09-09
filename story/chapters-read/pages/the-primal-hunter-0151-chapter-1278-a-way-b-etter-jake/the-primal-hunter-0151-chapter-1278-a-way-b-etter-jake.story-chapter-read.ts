@@ -8,7 +8,7 @@ export const thePrimalHunter0151Chapter1278AWayBEtterJake = {
   story: "story-read/the-primal-hunter",
   position: 151,
   ownLength: 2890,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3188372/chapter-1278-a-way-better-jake",

@@ -8,7 +8,7 @@ export const thePrimalHunter0008Chapter8AWonderfulNight = {
   story: "story-read/the-primal-hunter",
   position: 8,
   ownLength: 2338,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/559926/chapter-8-a-wonderful-night",

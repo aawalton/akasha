@@ -8,7 +8,7 @@ export const thePrimalHunter0156Chapter1283MoteOfProgress = {
   story: "story-read/the-primal-hunter",
   position: 156,
   ownLength: 3199,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3214677/chapter-1283-mote-of-progress",

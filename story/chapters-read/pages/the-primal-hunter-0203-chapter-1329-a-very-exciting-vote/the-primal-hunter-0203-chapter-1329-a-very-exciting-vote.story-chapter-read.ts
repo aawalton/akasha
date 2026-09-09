@@ -8,7 +8,7 @@ export const thePrimalHunter0203Chapter1329AVeryExcitingVote = {
   story: "story-read/the-primal-hunter",
   position: 203,
   ownLength: 2591,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3509827/chapter-1329-a-very-exciting-vote",

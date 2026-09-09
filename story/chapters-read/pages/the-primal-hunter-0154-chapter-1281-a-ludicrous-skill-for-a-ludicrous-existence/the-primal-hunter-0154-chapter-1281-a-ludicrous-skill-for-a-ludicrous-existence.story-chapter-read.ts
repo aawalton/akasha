@@ -8,7 +8,7 @@ export const thePrimalHunter0154Chapter1281ALudicrousSkillForALudicrousExistence
   story: "story-read/the-primal-hunter",
   position: 154,
   ownLength: 2912,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3200419/chapter-1281-a-ludicrous-skill-for-a-ludicrous",

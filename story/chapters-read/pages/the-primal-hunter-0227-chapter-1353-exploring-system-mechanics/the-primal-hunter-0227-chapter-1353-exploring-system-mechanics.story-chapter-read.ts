@@ -8,7 +8,7 @@ export const thePrimalHunter0227Chapter1353ExploringSystemMechanics = {
   story: "story-read/the-primal-hunter",
   position: 227,
   ownLength: 2736,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3676175/chapter-1353-exploring-system-mechanics",

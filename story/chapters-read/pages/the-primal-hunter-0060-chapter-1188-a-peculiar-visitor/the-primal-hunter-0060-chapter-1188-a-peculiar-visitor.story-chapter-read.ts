@@ -8,7 +8,7 @@ export const thePrimalHunter0060Chapter1188APeculiarVisitor = {
   story: "story-read/the-primal-hunter",
   position: 60,
   ownLength: 2848,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2709174/chapter-1188-a-peculiar-visitor",

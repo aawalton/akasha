@@ -8,7 +8,7 @@ export const thePrimalHunter0186Chapter1312HopeAmidstDoubt = {
   story: "story-read/the-primal-hunter",
   position: 186,
   ownLength: 2772,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3395174/chapter-1312-hope-amidst-doubt",

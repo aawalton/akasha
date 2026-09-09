@@ -8,7 +8,7 @@ export const thePrimalHunter0062Chapter1190VortexLance = {
   story: "story-read/the-primal-hunter",
   position: 62,
   ownLength: 2861,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2714541/chapter-1190-vortex-lance",

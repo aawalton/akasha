@@ -8,7 +8,7 @@ export const thePrimalHunter0081Chapter1209HealthyForYou = {
   story: "story-read/the-primal-hunter",
   position: 81,
   ownLength: 2706,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2792194/chapter-1209-healthy-for-you",

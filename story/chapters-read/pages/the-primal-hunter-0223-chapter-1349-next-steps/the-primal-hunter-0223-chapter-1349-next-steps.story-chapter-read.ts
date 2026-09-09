@@ -8,7 +8,7 @@ export const thePrimalHunter0223Chapter1349NextSteps = {
   story: "story-read/the-primal-hunter",
   position: 223,
   ownLength: 2578,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3649138/chapter-1349-next-steps",

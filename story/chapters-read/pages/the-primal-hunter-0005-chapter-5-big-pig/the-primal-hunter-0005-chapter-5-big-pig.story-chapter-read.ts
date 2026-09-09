@@ -8,7 +8,7 @@ export const thePrimalHunter0005Chapter5BigPig = {
   story: "story-read/the-primal-hunter",
   position: 5,
   ownLength: 2805,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/558385/chapter-5-big-pig",

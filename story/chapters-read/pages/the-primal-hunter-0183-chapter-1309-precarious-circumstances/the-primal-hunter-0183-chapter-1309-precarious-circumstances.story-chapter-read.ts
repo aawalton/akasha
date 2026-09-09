@@ -8,7 +8,7 @@ export const thePrimalHunter0183Chapter1309PrecariousCircumstances = {
   story: "story-read/the-primal-hunter",
   position: 183,
   ownLength: 2898,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3382553/chapter-1309-precarious-circumstances",

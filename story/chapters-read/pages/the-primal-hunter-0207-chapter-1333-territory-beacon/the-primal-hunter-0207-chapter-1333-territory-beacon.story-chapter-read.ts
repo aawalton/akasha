@@ -8,7 +8,7 @@ export const thePrimalHunter0207Chapter1333TerritoryBeacon = {
   story: "story-read/the-primal-hunter",
   position: 207,
   ownLength: 2760,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3529701/chapter-1333-territory-beacon",

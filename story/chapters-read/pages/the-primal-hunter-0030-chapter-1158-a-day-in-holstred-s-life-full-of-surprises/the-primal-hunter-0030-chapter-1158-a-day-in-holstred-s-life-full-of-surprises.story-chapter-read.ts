@@ -8,7 +8,7 @@ export const thePrimalHunter0030Chapter1158ADayInHolstredSLifeFullOfSurprises = 
   story: "story-read/the-primal-hunter",
   position: 30,
   ownLength: 3650,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2602332/chapter-1158-a-day-in-holstreds-life-full-of-surprises",

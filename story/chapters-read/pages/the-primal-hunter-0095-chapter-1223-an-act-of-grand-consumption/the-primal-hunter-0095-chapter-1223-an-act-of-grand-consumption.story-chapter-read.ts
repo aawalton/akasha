@@ -8,7 +8,7 @@ export const thePrimalHunter0095Chapter1223AnActOfGrandConsumption = {
   story: "story-read/the-primal-hunter",
   position: 95,
   ownLength: 2942,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2859104/chapter-1223-an-act-of-grand-consumption",

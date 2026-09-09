@@ -8,7 +8,7 @@ export const thePrimalHunter0023Chapter1151ALifeOfTwoMasks = {
   story: "story-read/the-primal-hunter",
   position: 23,
   ownLength: 2813,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2517869/chapter-1151-a-life-of-two-masks",

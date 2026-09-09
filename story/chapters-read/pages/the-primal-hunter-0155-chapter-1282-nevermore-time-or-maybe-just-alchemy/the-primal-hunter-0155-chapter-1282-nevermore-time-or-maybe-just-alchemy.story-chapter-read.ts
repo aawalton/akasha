@@ -8,7 +8,7 @@ export const thePrimalHunter0155Chapter1282NevermoreTimeOrMaybeJustAlchemy = {
   story: "story-read/the-primal-hunter",
   position: 155,
   ownLength: 2844,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3210829/chapter-1282-nevermore-time-or-maybe-just-alchemy",

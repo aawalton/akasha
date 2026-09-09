@@ -8,7 +8,7 @@ export const thePrimalHunter0021Chapter1149ABurstOfVenom = {
   story: "story-read/the-primal-hunter",
   position: 21,
   ownLength: 2922,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2512400/chapter-1149-a-burst-of-venom",

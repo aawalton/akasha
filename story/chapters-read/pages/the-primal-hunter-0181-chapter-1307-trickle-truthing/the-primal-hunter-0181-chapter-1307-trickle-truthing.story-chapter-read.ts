@@ -8,7 +8,7 @@ export const thePrimalHunter0181Chapter1307TrickleTruthing = {
   story: "story-read/the-primal-hunter",
   position: 181,
   ownLength: 2607,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3353967/chapter-1307-trickle-truthing",

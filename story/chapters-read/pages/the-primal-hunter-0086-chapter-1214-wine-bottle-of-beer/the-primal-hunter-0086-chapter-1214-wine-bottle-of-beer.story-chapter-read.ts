@@ -8,7 +8,7 @@ export const thePrimalHunter0086Chapter1214WineBottleOfBeer = {
   story: "story-read/the-primal-hunter",
   position: 86,
   ownLength: 2675,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2821592/chapter-1214-wine-bottle-of-beer",

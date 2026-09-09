@@ -8,7 +8,7 @@ export const thePrimalHunter0001Chapter1AnotherMondayMorning = {
   story: "story-read/the-primal-hunter",
   position: 1,
   ownLength: 1630,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557051/chapter-1-another-monday-morning",

@@ -8,7 +8,7 @@ export const thePrimalHunter0169Chapter1372Blasphemers = {
   story: "story-read/the-primal-hunter",
   position: 169,
   ownLength: 2766,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3896136/chapter-1372-blasphemers",

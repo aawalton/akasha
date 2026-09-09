@@ -8,7 +8,7 @@ export const thePrimalHunter0006Chapter6Questioning = {
   story: "story-read/the-primal-hunter",
   position: 6,
   ownLength: 2514,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/558881/chapter-6-questioning",

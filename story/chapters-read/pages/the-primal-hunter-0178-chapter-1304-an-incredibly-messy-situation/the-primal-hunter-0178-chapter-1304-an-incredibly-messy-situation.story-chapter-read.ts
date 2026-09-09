@@ -8,7 +8,7 @@ export const thePrimalHunter0178Chapter1304AnIncrediblyMessySituation = {
   story: "story-read/the-primal-hunter",
   position: 178,
   ownLength: 2751,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3333394/chapter-1304-an-incredibly-messy-situation",

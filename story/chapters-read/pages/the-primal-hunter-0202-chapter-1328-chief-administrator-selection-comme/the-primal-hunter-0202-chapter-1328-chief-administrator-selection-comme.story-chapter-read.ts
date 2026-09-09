@@ -8,7 +8,7 @@ export const thePrimalHunter0202Chapter1328ChiefAdministratorSelectionComme = {
   story: "story-read/the-primal-hunter",
   position: 202,
   ownLength: 2885,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3497002/chapter-1328-chief-administrator-selection-comme",

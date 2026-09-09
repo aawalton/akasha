@@ -8,7 +8,7 @@ export const thePrimalHunter0115Chapter1243TooEasilyDistracted = {
   story: "story-read/the-primal-hunter",
   position: 115,
   ownLength: 2791,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2988147/chapter-1243-too-easily-distracted",

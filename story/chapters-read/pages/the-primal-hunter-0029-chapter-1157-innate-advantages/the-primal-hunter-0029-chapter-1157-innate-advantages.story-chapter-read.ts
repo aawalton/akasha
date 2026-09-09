@@ -8,7 +8,7 @@ export const thePrimalHunter0029Chapter1157InnateAdvantages = {
   story: "story-read/the-primal-hunter",
   position: 29,
   ownLength: 2687,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2538858/chapter-1157-innate-advantages",

@@ -8,7 +8,7 @@ export const thePrimalHunter0167Chapter1294VenusianVillage = {
   story: "story-read/the-primal-hunter",
   position: 167,
   ownLength: 3138,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3277199/chapter-1294-venusian-village",

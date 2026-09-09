@@ -8,7 +8,7 @@ export const thePrimalHunter0148Chapter1275ASuddenWindfallAndNewOptions = {
   story: "story-read/the-primal-hunter",
   position: 148,
   ownLength: 3288,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3148110/chapter-1275-a-sudden-windfall-new-options",

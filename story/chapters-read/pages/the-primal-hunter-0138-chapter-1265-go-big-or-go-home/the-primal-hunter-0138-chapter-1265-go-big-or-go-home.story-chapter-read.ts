@@ -8,7 +8,7 @@ export const thePrimalHunter0138Chapter1265GoBigOrGoHome = {
   story: "story-read/the-primal-hunter",
   position: 138,
   ownLength: 2872,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3098664/chapter-1265-go-big-or-go-home",

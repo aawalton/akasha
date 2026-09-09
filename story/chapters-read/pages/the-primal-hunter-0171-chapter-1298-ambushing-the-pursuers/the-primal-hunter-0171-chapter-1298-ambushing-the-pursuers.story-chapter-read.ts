@@ -8,7 +8,7 @@ export const thePrimalHunter0171Chapter1298AmbushingThePursuers = {
   story: "story-read/the-primal-hunter",
   position: 171,
   ownLength: 2977,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3301089/chapter-1298-ambushing-the-pursuers",

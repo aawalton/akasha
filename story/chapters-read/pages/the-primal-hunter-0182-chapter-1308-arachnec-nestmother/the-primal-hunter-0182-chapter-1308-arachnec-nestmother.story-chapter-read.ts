@@ -8,7 +8,7 @@ export const thePrimalHunter0182Chapter1308ArachnecNestmother = {
   story: "story-read/the-primal-hunter",
   position: 182,
   ownLength: 2716,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3358386/chapter-1308-arachnec-nestmother",

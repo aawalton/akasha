@@ -8,7 +8,7 @@ export const thePrimalHunter0216Chapter1342AFrostyEncounter = {
   story: "story-read/the-primal-hunter",
   position: 216,
   ownLength: 3095,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3607908/chapter-1342-a-frosty-encounter",

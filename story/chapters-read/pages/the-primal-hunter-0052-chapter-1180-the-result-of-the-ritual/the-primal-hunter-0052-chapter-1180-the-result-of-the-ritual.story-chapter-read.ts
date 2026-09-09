@@ -8,7 +8,7 @@ export const thePrimalHunter0052Chapter1180TheResultOfTheRitual = {
   story: "story-read/the-primal-hunter",
   position: 52,
   ownLength: 2877,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2678518/chapter-1180-the-result-of-the-ritual",

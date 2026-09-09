@@ -8,7 +8,7 @@ export const thePrimalHunter0046Chapter1174SomethingWorthCelebrating = {
   story: "story-read/the-primal-hunter",
   position: 46,
   ownLength: 3012,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2658437/chapter-1174-something-worth-celebrating",

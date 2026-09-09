@@ -8,7 +8,7 @@ export const thePrimalHunter0225Chapter1351FortunateEncounters = {
   story: "story-read/the-primal-hunter",
   position: 225,
   ownLength: 2732,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3658087/chapter-1351-fortunate-encounters",

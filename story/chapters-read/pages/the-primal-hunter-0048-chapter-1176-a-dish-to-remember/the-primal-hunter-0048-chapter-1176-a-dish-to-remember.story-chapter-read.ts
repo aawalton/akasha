@@ -8,7 +8,7 @@ export const thePrimalHunter0048Chapter1176ADishToRemember = {
   story: "story-read/the-primal-hunter",
   position: 48,
   ownLength: 2877,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2663608/chapter-1176-a-dish-to-remember",

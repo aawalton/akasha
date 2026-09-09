@@ -8,7 +8,7 @@ export const thePrimalHunter0140Chapter1267TheoriesAndVisitors = {
   story: "story-read/the-primal-hunter",
   position: 140,
   ownLength: 2953,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3112172/chapter-1267-theories-visitors",

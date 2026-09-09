@@ -8,7 +8,7 @@ export const thePrimalHunter0210Chapter1336SimulatedExperimentation = {
   story: "story-read/the-primal-hunter",
   position: 210,
   ownLength: 3002,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3552557/chapter-1336-simulated-experimentation",

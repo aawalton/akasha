@@ -8,7 +8,7 @@ export const thePrimalHunter0037Chapter1165ASuccessfulDiplomaticMission = {
   story: "story-read/the-primal-hunter",
   position: 37,
   ownLength: 2898,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2625487/chapter-1165-a-successful-diplomatic-mission",

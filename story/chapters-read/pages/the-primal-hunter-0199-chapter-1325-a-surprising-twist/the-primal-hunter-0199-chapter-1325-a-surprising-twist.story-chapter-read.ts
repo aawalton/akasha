@@ -8,7 +8,7 @@ export const thePrimalHunter0199Chapter1325ASurprisingTwist = {
   story: "story-read/the-primal-hunter",
   position: 199,
   ownLength: 2872,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3483385/chapter-1325-a-surprising-twist",

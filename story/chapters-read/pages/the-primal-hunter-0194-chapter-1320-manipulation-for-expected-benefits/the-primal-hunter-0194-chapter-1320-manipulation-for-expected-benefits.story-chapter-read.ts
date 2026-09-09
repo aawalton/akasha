@@ -8,7 +8,7 @@ export const thePrimalHunter0194Chapter1320ManipulationForExpectedBenefits = {
   story: "story-read/the-primal-hunter",
   position: 194,
   ownLength: 2808,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3448934/chapter-1320-manipulation-for-expected-benefits",

@@ -8,7 +8,7 @@ export const thePrimalHunter0229Chapter1355UnderwaterLake = {
   story: "story-read/the-primal-hunter",
   position: 229,
   ownLength: 2912,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3685132/chapter-1355-underwater-lake",

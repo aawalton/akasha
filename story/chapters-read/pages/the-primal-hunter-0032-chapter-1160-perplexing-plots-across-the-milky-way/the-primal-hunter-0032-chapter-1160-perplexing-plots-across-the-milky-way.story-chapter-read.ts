@@ -8,7 +8,7 @@ export const thePrimalHunter0032Chapter1160PerplexingPlotsAcrossTheMilkyWay = {
   story: "story-read/the-primal-hunter",
   position: 32,
   ownLength: 2630,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2607664/chapter-1160-perplexing-plots-across-the-milky",

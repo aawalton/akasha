@@ -8,7 +8,7 @@ export const thePrimalHunter0112Chapter1240ANegligentPioneer = {
   story: "story-read/the-primal-hunter",
   position: 112,
   ownLength: 2727,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2971649/chapter-1240-a-negligent-pioneer",

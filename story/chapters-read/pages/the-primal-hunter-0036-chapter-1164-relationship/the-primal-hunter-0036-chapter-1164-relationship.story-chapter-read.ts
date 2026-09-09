@@ -8,7 +8,7 @@ export const thePrimalHunter0036Chapter1164Relationship = {
   story: "story-read/the-primal-hunter",
   position: 36,
   ownLength: 3052,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2622837/chapter-1164-relationship",

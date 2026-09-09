@@ -8,7 +8,7 @@ export const thePrimalHunter0034Chapter1162Change = {
   story: "story-read/the-primal-hunter",
   position: 34,
   ownLength: 2634,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2612920/chapter-1162-change",

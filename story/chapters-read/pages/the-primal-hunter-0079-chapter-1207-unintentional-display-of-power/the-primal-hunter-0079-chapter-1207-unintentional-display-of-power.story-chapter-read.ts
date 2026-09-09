@@ -8,7 +8,7 @@ export const thePrimalHunter0079Chapter1207UnintentionalDisplayOfPower = {
   story: "story-read/the-primal-hunter",
   position: 79,
   ownLength: 2812,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2780746/chapter-1207-unintentional-display-of-power",

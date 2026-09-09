@@ -8,7 +8,7 @@ export const thePrimalHunter0128Chapter1256ImportantRuleForProperDungeonBosses =
   story: "story-read/the-primal-hunter",
   position: 128,
   ownLength: 2773,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3059892/chapter-1256-important-rule-for-proper-dungeon",

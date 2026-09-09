@@ -8,7 +8,7 @@ export const thePrimalHunter0050Chapter1178NotOneCalmDay = {
   story: "story-read/the-primal-hunter",
   position: 50,
   ownLength: 2799,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2673276/chapter-1178-not-one-calm-day",

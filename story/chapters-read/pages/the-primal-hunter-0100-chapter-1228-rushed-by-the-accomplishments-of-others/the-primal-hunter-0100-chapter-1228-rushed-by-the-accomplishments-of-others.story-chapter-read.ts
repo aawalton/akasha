@@ -8,7 +8,7 @@ export const thePrimalHunter0100Chapter1228RushedByTheAccomplishmentsOfOthers = 
   story: "story-read/the-primal-hunter",
   position: 100,
   ownLength: 2871,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2920550/chapter-1228-rushed-by-the-accomplishments-of",

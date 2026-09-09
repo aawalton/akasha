@@ -8,7 +8,7 @@ export const thePrimalHunter0038Chapter1166Level320ProfessionSkillSelection = {
   story: "story-read/the-primal-hunter",
   position: 38,
   ownLength: 3068,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2628187/chapter-1166-level-320-profession-skill-selection",

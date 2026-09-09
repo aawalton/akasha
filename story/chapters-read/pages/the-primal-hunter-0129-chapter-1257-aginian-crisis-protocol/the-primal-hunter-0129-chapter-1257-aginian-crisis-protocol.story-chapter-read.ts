@@ -8,7 +8,7 @@ export const thePrimalHunter0129Chapter1257AginianCrisisProtocol = {
   story: "story-read/the-primal-hunter",
   position: 129,
   ownLength: 2877,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3063309/chapter-1257-aginian-crisis-protocol",

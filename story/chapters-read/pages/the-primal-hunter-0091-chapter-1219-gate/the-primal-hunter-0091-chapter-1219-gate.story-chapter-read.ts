@@ -8,7 +8,7 @@ export const thePrimalHunter0091Chapter1219Gate = {
   story: "story-read/the-primal-hunter",
   position: 91,
   ownLength: 3086,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2841961/chapter-1219-gate",

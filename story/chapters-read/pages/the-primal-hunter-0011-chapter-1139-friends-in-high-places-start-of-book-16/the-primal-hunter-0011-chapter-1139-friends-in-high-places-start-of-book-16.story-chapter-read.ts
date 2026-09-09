@@ -8,7 +8,7 @@ export const thePrimalHunter0011Chapter1139FriendsInHighPlacesStartOfBook16 = {
   story: "story-read/the-primal-hunter",
   position: 11,
   ownLength: 2684,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2476024/chapter-1139-friends-in-high-places-start-of-book",

@@ -8,7 +8,7 @@ export const thePrimalHunter0066Chapter1194JobTransfer = {
   story: "story-read/the-primal-hunter",
   position: 66,
   ownLength: 2665,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2731997/chapter-1194-job-transfer",

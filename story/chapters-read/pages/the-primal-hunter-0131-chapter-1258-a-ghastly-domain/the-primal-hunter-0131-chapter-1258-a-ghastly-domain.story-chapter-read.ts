@@ -8,7 +8,7 @@ export const thePrimalHunter0131Chapter1258AGhastlyDomain = {
   story: "story-read/the-primal-hunter",
   position: 131,
   ownLength: 3005,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3068278/chapter-1258-a-ghastly-domain",

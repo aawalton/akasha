@@ -8,7 +8,7 @@ export const thePrimalHunter0004Chapter4FirstBattle = {
   story: "story-read/the-primal-hunter",
   position: 4,
   ownLength: 2312,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557914/chapter-4-first-battle",

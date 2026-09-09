@@ -8,7 +8,7 @@ export const thePrimalHunter0047Chapter1175GoodStartSoFar = {
   story: "story-read/the-primal-hunter",
   position: 47,
   ownLength: 2777,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2660996/chapter-1175-good-start-so-far",

@@ -8,7 +8,7 @@ export const thePrimalHunter0218Chapter1344NotHisPeers = {
   story: "story-read/the-primal-hunter",
   position: 218,
   ownLength: 2613,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3617572/chapter-1344-not-his-peers",

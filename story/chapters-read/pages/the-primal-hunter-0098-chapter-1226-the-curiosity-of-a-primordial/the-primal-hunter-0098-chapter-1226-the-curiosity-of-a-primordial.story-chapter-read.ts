@@ -8,7 +8,7 @@ export const thePrimalHunter0098Chapter1226TheCuriosityOfAPrimordial = {
   story: "story-read/the-primal-hunter",
   position: 98,
   ownLength: 3065,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2914132/chapter-1226-the-curiosity-of-a-primordial",

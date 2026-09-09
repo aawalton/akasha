@@ -8,7 +8,7 @@ export const thePrimalHunter0137Chapter1264JakeSNewFlame = {
   story: "story-read/the-primal-hunter",
   position: 137,
   ownLength: 2854,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3095138/chapter-1264-jakes-new-flame",

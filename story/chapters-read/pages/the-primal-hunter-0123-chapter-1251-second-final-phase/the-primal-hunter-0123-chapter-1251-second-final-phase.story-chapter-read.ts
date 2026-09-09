@@ -8,7 +8,7 @@ export const thePrimalHunter0123Chapter1251SecondFinalPhase = {
   story: "story-read/the-primal-hunter",
   position: 123,
   ownLength: 3029,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3029123/chapter-1251-second-final-phase",

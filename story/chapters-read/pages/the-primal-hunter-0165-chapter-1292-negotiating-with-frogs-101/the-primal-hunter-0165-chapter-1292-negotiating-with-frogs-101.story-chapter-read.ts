@@ -8,7 +8,7 @@ export const thePrimalHunter0165Chapter1292NegotiatingWithFrogs101 = {
   story: "story-read/the-primal-hunter",
   position: 165,
   ownLength: 2790,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3268417/chapter-1292-negotiating-with-frogs-101",

@@ -8,7 +8,7 @@ export const thePrimalHunter0116Chapter1244InvasivePersonalQuestions = {
   story: "story-read/the-primal-hunter",
   position: 116,
   ownLength: 2622,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2991436/chapter-1244-invasive-personal-questions",

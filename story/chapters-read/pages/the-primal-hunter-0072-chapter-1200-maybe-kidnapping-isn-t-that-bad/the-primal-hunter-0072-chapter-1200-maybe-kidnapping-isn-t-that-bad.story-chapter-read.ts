@@ -8,7 +8,7 @@ export const thePrimalHunter0072Chapter1200MaybeKidnappingIsnTThatBad = {
   story: "story-read/the-primal-hunter",
   position: 72,
   ownLength: 2568,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2754958/chapter-1200-maybe-kidnapping-isnt-that-bad",

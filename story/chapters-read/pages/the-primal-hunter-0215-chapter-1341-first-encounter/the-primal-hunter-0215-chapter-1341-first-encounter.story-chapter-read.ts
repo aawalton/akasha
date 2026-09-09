@@ -8,7 +8,7 @@ export const thePrimalHunter0215Chapter1341FirstEncounter = {
   story: "story-read/the-primal-hunter",
   position: 215,
   ownLength: 2726,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3594587/chapter-1341-first-encounter",

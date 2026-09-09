@@ -8,7 +8,7 @@ export const thePrimalHunter0226Chapter1352CentralDomain = {
   story: "story-read/the-primal-hunter",
   position: 226,
   ownLength: 3003,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3671563/chapter-1352-central-domain",

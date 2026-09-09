@@ -8,7 +8,7 @@ export const thePathOfAscension0195ThePathOfAscensionChapter495 = {
   story: "story-read/the-path-of-ascension",
   position: 195,
   ownLength: 6687,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3479679/the-path-of-ascension-chapter-495",

@@ -8,7 +8,7 @@ export const thePrimalHunter0230Chapter1356AJustifiablyAngryHorde = {
   story: "story-read/the-primal-hunter",
   position: 230,
   ownLength: 2736,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3689644/chapter-1356-a-justifiably-angry-horde",

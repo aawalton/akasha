@@ -8,7 +8,7 @@ export const thePrimalHunter0170Chapter1297HowOneWouldExpect = {
   story: "story-read/the-primal-hunter",
   position: 170,
   ownLength: 2757,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3296843/chapter-1297-how-one-would-expect",

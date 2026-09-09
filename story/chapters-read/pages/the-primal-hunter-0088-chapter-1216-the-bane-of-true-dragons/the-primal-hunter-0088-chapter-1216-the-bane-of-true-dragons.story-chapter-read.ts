@@ -8,7 +8,7 @@ export const thePrimalHunter0088Chapter1216TheBaneOfTrueDragons = {
   story: "story-read/the-primal-hunter",
   position: 88,
   ownLength: 2889,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2833145/chapter-1216-the-bane-of-true-dragons",

@@ -8,7 +8,7 @@ export const thePrimalHunter0139Chapter1266PeakCGrade = {
   story: "story-read/the-primal-hunter",
   position: 139,
   ownLength: 2787,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3108568/chapter-1266-peak-c-grade",

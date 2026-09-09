@@ -8,7 +8,7 @@ export const thePrimalHunter0113Chapter1241RunesOfGoldenLife = {
   story: "story-read/the-primal-hunter",
   position: 113,
   ownLength: 2807,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2981257/chapter-1241-runes-of-golden-life",

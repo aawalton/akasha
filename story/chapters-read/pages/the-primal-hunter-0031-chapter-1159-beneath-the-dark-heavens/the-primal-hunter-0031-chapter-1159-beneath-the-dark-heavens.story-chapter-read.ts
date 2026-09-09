@@ -8,7 +8,7 @@ export const thePrimalHunter0031Chapter1159BeneathTheDarkHeavens = {
   story: "story-read/the-primal-hunter",
   position: 31,
   ownLength: 2759,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2604969/chapter-1159-beneath-the-dark-heavens",

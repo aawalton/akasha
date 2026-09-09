@@ -8,7 +8,7 @@ export const thePrimalHunter0051Chapter1179ARitualPerformedInHaste = {
   story: "story-read/the-primal-hunter",
   position: 51,
   ownLength: 2948,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2676083/chapter-1179-a-ritual-performed-in-haste",

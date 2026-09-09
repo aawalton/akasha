@@ -8,7 +8,7 @@ export const thePrimalHunter0118Chapter1246TheConceptOfDeath = {
   story: "story-read/the-primal-hunter",
   position: 118,
   ownLength: 2685,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3005291/chapter-1246-the-concept-of-death",

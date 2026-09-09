@@ -8,7 +8,7 @@ export const thePrimalHunter0075Chapter1203ALongAwaitedConversation = {
   story: "story-read/the-primal-hunter",
   position: 75,
   ownLength: 2757,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2769097/chapter-1203-a-long-awaited-conversation",

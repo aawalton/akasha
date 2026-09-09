@@ -8,7 +8,7 @@ export const thePrimalHunter0056Chapter1184CaughtAGoodOne = {
   story: "story-read/the-primal-hunter",
   position: 56,
   ownLength: 2788,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2693915/chapter-1184-caught-a-good-one",

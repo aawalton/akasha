@@ -8,7 +8,7 @@ export const thePrimalHunter0101Chapter1229HuntingProfileTrueDragon = {
   story: "story-read/the-primal-hunter",
   position: 101,
   ownLength: 2791,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2923731/chapter-1229-hunting-profile-true-dragon",

@@ -8,7 +8,7 @@ export const thePrimalHunter0058Chapter1186AMomentToBeHumbled = {
   story: "story-read/the-primal-hunter",
   position: 58,
   ownLength: 2879,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2698991/chapter-1186-a-moment-to-be-humbled",

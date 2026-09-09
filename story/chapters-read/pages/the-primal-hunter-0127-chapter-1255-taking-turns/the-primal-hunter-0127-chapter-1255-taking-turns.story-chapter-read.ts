@@ -8,7 +8,7 @@ export const thePrimalHunter0127Chapter1255TakingTurns = {
   story: "story-read/the-primal-hunter",
   position: 127,
   ownLength: 2534,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3050554/chapter-1255-taking-turns",

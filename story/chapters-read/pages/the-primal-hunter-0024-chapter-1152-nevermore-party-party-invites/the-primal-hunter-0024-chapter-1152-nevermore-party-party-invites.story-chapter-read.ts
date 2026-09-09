@@ -8,7 +8,7 @@ export const thePrimalHunter0024Chapter1152NevermorePartyPartyInvites = {
   story: "story-read/the-primal-hunter",
   position: 24,
   ownLength: 2781,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2520470/chapter-1152-nevermore-party-party-invites",

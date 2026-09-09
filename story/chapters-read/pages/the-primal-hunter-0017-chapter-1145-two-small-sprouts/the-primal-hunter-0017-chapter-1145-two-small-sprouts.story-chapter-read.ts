@@ -8,7 +8,7 @@ export const thePrimalHunter0017Chapter1145TwoSmallSprouts = {
   story: "story-read/the-primal-hunter",
   position: 17,
   ownLength: 3183,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2496970/chapter-1145-two-small-sprouts",

@@ -8,7 +8,7 @@ export const thePrimalHunter0025Chapter1153AQuiteUniqueParty = {
   story: "story-read/the-primal-hunter",
   position: 25,
   ownLength: 2784,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2528138/chapter-1153-a-quite-unique-party",

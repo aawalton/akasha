@@ -8,7 +8,7 @@ export const thePrimalHunter0045Chapter1173ABowForABrightFuture = {
   story: "story-read/the-primal-hunter",
   position: 45,
   ownLength: 2969,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2655690/chapter-1173-a-bow-for-a-bright-future",

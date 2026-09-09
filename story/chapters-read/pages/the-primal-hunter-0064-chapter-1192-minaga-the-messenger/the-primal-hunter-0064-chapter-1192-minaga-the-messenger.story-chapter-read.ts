@@ -8,7 +8,7 @@ export const thePrimalHunter0064Chapter1192MinagaTheMessenger = {
   story: "story-read/the-primal-hunter",
   position: 64,
   ownLength: 2854,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2720197/chapter-1192-minaga-the-messenger",

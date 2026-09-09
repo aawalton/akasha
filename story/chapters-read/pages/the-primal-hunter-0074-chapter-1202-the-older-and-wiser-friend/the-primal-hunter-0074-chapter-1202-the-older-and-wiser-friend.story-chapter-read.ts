@@ -8,7 +8,7 @@ export const thePrimalHunter0074Chapter1202TheOlderAndWiserFriend = {
   story: "story-read/the-primal-hunter",
   position: 74,
   ownLength: 2761,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2760725/chapter-1202-the-older-wiser-friend",

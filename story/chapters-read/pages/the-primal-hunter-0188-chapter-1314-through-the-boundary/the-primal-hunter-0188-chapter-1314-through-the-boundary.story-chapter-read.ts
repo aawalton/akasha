@@ -8,7 +8,7 @@ export const thePrimalHunter0188Chapter1314ThroughTheBoundary = {
   story: "story-read/the-primal-hunter",
   position: 188,
   ownLength: 2742,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3414090/chapter-1314-through-the-boundary",

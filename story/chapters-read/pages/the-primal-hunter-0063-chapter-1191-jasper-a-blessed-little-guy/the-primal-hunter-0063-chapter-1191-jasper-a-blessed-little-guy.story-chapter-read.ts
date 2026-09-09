@@ -8,7 +8,7 @@ export const thePrimalHunter0063Chapter1191JasperABlessedLittleGuy = {
   story: "story-read/the-primal-hunter",
   position: 63,
   ownLength: 2613,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2717217/chapter-1191-jasper-a-blessed-little-guy",

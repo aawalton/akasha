@@ -8,7 +8,7 @@ export const thePrimalHunter0133Chapter1260CGradeClassEvolutionQuest = {
   story: "story-read/the-primal-hunter",
   position: 133,
   ownLength: 2736,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3074701/chapter-1260-c-grade-class-evolution-quest",

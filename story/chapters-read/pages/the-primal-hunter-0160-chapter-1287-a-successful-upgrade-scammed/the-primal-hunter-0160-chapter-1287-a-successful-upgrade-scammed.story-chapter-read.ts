@@ -8,7 +8,7 @@ export const thePrimalHunter0160Chapter1287ASuccessfulUpgradeScammed = {
   story: "story-read/the-primal-hunter",
   position: 160,
   ownLength: 2841,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3239186/chapter-1287-a-successful-upgrade-scammed",

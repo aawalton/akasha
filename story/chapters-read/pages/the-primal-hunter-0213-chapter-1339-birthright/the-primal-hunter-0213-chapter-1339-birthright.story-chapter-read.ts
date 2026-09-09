@@ -8,7 +8,7 @@ export const thePrimalHunter0213Chapter1339Birthright = {
   story: "story-read/the-primal-hunter",
   position: 213,
   ownLength: 3145,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3584799/chapter-1339-birthright",

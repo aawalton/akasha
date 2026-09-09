@@ -8,7 +8,7 @@ export const thePrimalHunter0175AShamefulMarketingMessage = {
   story: "story-read/the-primal-hunter",
   position: 175,
   ownLength: 280,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3313504/a-shameful-marketing-message",

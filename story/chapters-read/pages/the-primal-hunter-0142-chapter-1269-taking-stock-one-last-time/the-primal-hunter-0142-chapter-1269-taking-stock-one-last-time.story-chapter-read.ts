@@ -8,7 +8,7 @@ export const thePrimalHunter0142Chapter1269TakingStockOneLastTime = {
   story: "story-read/the-primal-hunter",
   position: 142,
   ownLength: 2667,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3119433/chapter-1269-taking-stock-one-last-time",

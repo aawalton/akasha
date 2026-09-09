@@ -8,7 +8,7 @@ export const thePrimalHunter0132Chapter1259AnUnpleasantPath = {
   story: "story-read/the-primal-hunter",
   position: 132,
   ownLength: 2707,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3071467/chapter-1259-an-unpleasant-path",

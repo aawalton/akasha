@@ -8,7 +8,7 @@ export const thePrimalHunter0002Chapter2Introduction = {
   story: "story-read/the-primal-hunter",
   position: 2,
   ownLength: 3303,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/557071/chapter-2-introduction",

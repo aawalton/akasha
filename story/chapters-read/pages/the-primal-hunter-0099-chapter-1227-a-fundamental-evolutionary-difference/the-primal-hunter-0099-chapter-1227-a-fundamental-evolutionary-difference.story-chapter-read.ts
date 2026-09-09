@@ -8,7 +8,7 @@ export const thePrimalHunter0099Chapter1227AFundamentalEvolutionaryDifference = 
   story: "story-read/the-primal-hunter",
   position: 99,
   ownLength: 2691,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2917574/chapter-1227-a-fundamental-evolutionary-difference",

@@ -8,7 +8,7 @@ export const thePrimalHunter0147Chapter1274TwoAwesomeOptions = {
   story: "story-read/the-primal-hunter",
   position: 147,
   ownLength: 3201,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3144163/chapter-1274-two-awesome-options",

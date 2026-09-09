@@ -8,7 +8,7 @@ export const thePrimalHunter0136Chapter1263HowToTrainAGeneration = {
   story: "story-read/the-primal-hunter",
   position: 136,
   ownLength: 3075,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3091513/chapter-1263-how-to-train-a-generation",

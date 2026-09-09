@@ -8,7 +8,7 @@ export const thePrimalHunter0158Chapter1285ASeasonedSwordsman = {
   story: "story-read/the-primal-hunter",
   position: 158,
   ownLength: 2634,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3222697/chapter-1285-a-seasoned-swordsman",

@@ -8,7 +8,7 @@ export const thePrimalHunter0027Chapter1155NewAttackAndTwoMattersToAddress = {
   story: "story-read/the-primal-hunter",
   position: 27,
   ownLength: 2840,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2533603/chapter-1155-new-attack-two-matters-to-address",

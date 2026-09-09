@@ -8,7 +8,7 @@ export const thePrimalHunter0071Chapter1199UnexplainableMotivesAndCulprits = {
   story: "story-read/the-primal-hunter",
   position: 71,
   ownLength: 2842,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2752049/chapter-1199-unexplainable-motives-culprits",

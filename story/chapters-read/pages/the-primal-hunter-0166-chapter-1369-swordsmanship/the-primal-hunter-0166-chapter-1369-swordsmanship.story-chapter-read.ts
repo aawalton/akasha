@@ -8,7 +8,7 @@ export const thePrimalHunter0166Chapter1369Swordsmanship = {
   story: "story-read/the-primal-hunter",
   position: 166,
   ownLength: 2816,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3773546/chapter-1369-swordsmanship",

@@ -7,7 +7,7 @@ export const thePrimalHunter0171Chapter1374LocalResidents = {
   story: "story-read/the-primal-hunter",
   position: 171,
   publishedAt: "2026-09-03",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3905096",
   source: "royal-road",
   title: "Chapter 1374 - Local Residents",

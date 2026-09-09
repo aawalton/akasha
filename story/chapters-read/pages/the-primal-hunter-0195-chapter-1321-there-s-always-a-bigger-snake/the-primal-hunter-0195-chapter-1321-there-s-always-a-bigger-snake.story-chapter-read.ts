@@ -8,7 +8,7 @@ export const thePrimalHunter0195Chapter1321ThereSAlwaysABiggerSnake = {
   story: "story-read/the-primal-hunter",
   position: 195,
   ownLength: 2614,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3453694/chapter-1321-theres-always-a-bigger-snake",

@@ -8,7 +8,7 @@ export const thePrimalHunter0096Chapter1224DistractionConsolidationAndEnlightenm
   story: "story-read/the-primal-hunter",
   position: 96,
   ownLength: 2717,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2862024/chapter-1224-distraction-consolidation-enlightenment",

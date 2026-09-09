@@ -8,7 +8,7 @@ export const thePrimalHunter0125Chapter1253RisingTide = {
   story: "story-read/the-primal-hunter",
   position: 125,
   ownLength: 2947,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3036844/chapter-1253-rising-tide",

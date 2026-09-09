@@ -8,7 +8,7 @@ export const thePrimalHunter0090Chapter1218AMarchThroughNothingness = {
   story: "story-read/the-primal-hunter",
   position: 90,
   ownLength: 3206,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2838357/chapter-1218-a-march-through-nothingness",

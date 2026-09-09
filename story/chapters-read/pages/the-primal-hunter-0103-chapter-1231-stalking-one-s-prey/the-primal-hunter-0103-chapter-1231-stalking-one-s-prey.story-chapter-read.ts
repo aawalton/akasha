@@ -8,7 +8,7 @@ export const thePrimalHunter0103Chapter1231StalkingOneSPrey = {
   story: "story-read/the-primal-hunter",
   position: 103,
   ownLength: 3002,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2935877/chapter-1231-stalking-ones-prey",

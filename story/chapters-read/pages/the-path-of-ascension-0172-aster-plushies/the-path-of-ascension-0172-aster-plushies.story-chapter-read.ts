@@ -8,7 +8,7 @@ export const thePathOfAscension0172AsterPlushies = {
   story: "story-read/the-path-of-ascension",
   position: 172,
   ownLength: 100,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/40920/the-path-of-ascension/chapter/3052315/aster-plushies",

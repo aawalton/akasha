@@ -8,7 +8,7 @@ export const thePrimalHunter0073Chapter1201KnowledgeGap = {
   story: "story-read/the-primal-hunter",
   position: 73,
   ownLength: 2992,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2757817/chapter-1201-knowledge-gap",

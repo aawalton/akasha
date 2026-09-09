@@ -8,7 +8,7 @@ export const thePrimalHunter0026Chapter1154AProperReunionParty = {
   story: "story-read/the-primal-hunter",
   position: 26,
   ownLength: 2787,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2530846/chapter-1154-a-proper-reunion-party",

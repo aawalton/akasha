@@ -8,7 +8,7 @@ export const thePrimalHunter0028Chapter1156ActuallyPrettyDecent = {
   story: "story-read/the-primal-hunter",
   position: 28,
   ownLength: 2629,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2536165/chapter-1156-actually-pretty-decent",

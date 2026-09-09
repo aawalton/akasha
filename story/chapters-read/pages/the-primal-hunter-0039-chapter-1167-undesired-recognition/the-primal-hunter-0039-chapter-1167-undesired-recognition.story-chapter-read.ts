@@ -8,7 +8,7 @@ export const thePrimalHunter0039Chapter1167UndesiredRecognition = {
   story: "story-read/the-primal-hunter",
   position: 39,
   ownLength: 2839,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2630785/chapter-1167-undesired-recognition",

@@ -8,7 +8,7 @@ export const thePrimalHunter0169Chapter1296QuestioningAssumptions = {
   story: "story-read/the-primal-hunter",
   position: 169,
   ownLength: 2850,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3285622/chapter-1296-questioning-assumptions",

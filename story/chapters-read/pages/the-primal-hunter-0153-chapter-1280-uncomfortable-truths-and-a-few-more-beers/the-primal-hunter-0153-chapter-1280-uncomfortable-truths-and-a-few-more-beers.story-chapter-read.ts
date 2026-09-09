@@ -8,7 +8,7 @@ export const thePrimalHunter0153Chapter1280UncomfortableTruthsAndAFewMoreBeers =
   story: "story-read/the-primal-hunter",
   position: 153,
   ownLength: 2821,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3196344/chapter-1280-uncomfortable-truths-a-few-more-beers",

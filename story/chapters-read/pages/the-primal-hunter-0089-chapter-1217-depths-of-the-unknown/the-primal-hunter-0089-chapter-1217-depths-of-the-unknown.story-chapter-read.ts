@@ -8,7 +8,7 @@ export const thePrimalHunter0089Chapter1217DepthsOfTheUnknown = {
   story: "story-read/the-primal-hunter",
   position: 89,
   ownLength: 2903,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2836145/chapter-1217-depths-of-the-unknown",

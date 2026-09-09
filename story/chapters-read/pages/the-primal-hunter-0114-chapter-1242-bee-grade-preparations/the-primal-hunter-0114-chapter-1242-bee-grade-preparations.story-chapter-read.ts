@@ -8,7 +8,7 @@ export const thePrimalHunter0114Chapter1242BeeGradePreparations = {
   story: "story-read/the-primal-hunter",
   position: 114,
   ownLength: 2913,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2984757/chapter-1242-bee-grade-preparations",

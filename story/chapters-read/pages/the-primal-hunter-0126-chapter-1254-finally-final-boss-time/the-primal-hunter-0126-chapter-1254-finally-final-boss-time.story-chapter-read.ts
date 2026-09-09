@@ -8,7 +8,7 @@ export const thePrimalHunter0126Chapter1254FinallyFinalBossTime = {
   story: "story-read/the-primal-hunter",
   position: 126,
   ownLength: 2742,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3040185/chapter-1254-finally-final-boss-time",

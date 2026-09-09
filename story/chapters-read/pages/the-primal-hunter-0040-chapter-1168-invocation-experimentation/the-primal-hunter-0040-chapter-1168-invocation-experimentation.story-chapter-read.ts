@@ -8,7 +8,7 @@ export const thePrimalHunter0040Chapter1168InvocationExperimentation = {
   story: "story-read/the-primal-hunter",
   position: 40,
   ownLength: 2862,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2638063/chapter-1168-invocation-experimentation",

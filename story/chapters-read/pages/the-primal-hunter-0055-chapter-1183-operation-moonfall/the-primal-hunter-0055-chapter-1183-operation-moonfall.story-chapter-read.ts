@@ -8,7 +8,7 @@ export const thePrimalHunter0055Chapter1183OperationMoonfall = {
   story: "story-read/the-primal-hunter",
   position: 55,
   ownLength: 3208,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2691172/chapter-1183-operation-moonfall",

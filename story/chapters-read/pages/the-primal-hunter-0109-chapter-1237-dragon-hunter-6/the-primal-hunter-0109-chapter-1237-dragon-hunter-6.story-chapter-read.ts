@@ -8,7 +8,7 @@ export const thePrimalHunter0109Chapter1237DragonHunter6 = {
   story: "story-read/the-primal-hunter",
   position: 109,
   ownLength: 3439,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2961506/chapter-1237-dragon-hunter-6",

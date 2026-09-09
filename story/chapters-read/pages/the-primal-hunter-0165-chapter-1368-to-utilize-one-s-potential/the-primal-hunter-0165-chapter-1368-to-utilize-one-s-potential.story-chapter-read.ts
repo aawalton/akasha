@@ -8,7 +8,7 @@ export const thePrimalHunter0165Chapter1368ToUtilizeOneSPotential = {
   story: "story-read/the-primal-hunter",
   position: 165,
   ownLength: 2813,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3768799/chapter-1368-to-utilize-ones-potential",

@@ -8,7 +8,7 @@ export const thePrimalHunter0160Chapter1363AForgettableTrial = {
   story: "story-read/the-primal-hunter",
   position: 160,
   ownLength: 2860,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3737679/chapter-1363-a-forgettable-trial",

@@ -8,7 +8,7 @@ export const thePrimalHunter0174Chapter1301ShamanisticArts = {
   story: "story-read/the-primal-hunter",
   position: 174,
   ownLength: 2786,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3313498/chapter-1301-shamanistic-arts",

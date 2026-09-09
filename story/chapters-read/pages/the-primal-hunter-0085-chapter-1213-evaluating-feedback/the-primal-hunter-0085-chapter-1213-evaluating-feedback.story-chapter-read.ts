@@ -8,7 +8,7 @@ export const thePrimalHunter0085Chapter1213EvaluatingFeedback = {
   story: "story-read/the-primal-hunter",
   position: 85,
   ownLength: 2649,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2818491/chapter-1213-evaluating-feedback",

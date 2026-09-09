@@ -8,7 +8,7 @@ export const thePrimalHunter0162Chapter1289MeetingAndManyMachinations = {
   story: "story-read/the-primal-hunter",
   position: 162,
   ownLength: 2939,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3248107/chapter-1289-meeting-many-machinations",

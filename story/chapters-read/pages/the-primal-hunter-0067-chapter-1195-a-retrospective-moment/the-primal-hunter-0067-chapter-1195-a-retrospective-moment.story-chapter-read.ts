@@ -8,7 +8,7 @@ export const thePrimalHunter0067Chapter1195ARetrospectiveMoment = {
   story: "story-read/the-primal-hunter",
   position: 67,
   ownLength: 2890,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2734898/chapter-1195-a-retrospective-moment",

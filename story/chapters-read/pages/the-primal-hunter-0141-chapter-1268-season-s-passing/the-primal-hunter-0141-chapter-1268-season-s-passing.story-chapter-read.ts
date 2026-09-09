@@ -8,7 +8,7 @@ export const thePrimalHunter0141Chapter1268SeasonSPassing = {
   story: "story-read/the-primal-hunter",
   position: 141,
   ownLength: 2802,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3116100/chapter-1268-seasons-passing",

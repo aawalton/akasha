@@ -8,7 +8,7 @@ export const thePrimalHunter0012Chapter1140LittleFella = {
   story: "story-read/the-primal-hunter",
   position: 12,
   ownLength: 2794,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2478783/chapter-1140-little-fella",

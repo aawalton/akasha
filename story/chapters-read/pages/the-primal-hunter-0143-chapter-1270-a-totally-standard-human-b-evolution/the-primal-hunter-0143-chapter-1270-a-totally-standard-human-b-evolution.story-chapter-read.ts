@@ -8,7 +8,7 @@ export const thePrimalHunter0143Chapter1270ATotallyStandardHumanBEvolution = {
   story: "story-read/the-primal-hunter",
   position: 143,
   ownLength: 2830,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3123386/chapter-1270-a-totally-standard-humanb-evolution",

@@ -8,7 +8,7 @@ export const thePrimalHunter0035Chapter1163RoyalDecree = {
   story: "story-read/the-primal-hunter",
   position: 35,
   ownLength: 2823,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2620180/chapter-1163-royal-decree",

@@ -8,7 +8,7 @@ export const thePrimalHunter0150Chapter1277ClassChosenSightExpanded = {
   story: "story-read/the-primal-hunter",
   position: 150,
   ownLength: 2920,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3184374/chapter-1277-class-chosen-sight-expanded",

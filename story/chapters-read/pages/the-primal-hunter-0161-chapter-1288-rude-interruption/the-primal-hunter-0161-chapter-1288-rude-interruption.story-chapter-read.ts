@@ -8,7 +8,7 @@ export const thePrimalHunter0161Chapter1288RudeInterruption = {
   story: "story-read/the-primal-hunter",
   position: 161,
   ownLength: 2583,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3243736/chapter-1288-rude-interruption",

@@ -8,7 +8,7 @@ export const thePrimalHunter0168Chapter1371WeirdStatues = {
   story: "story-read/the-primal-hunter",
   position: 168,
   ownLength: 2687,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3890670/chapter-1371-weird-statues",

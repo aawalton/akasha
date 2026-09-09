@@ -8,7 +8,7 @@ export const thePrimalHunter0124Chapter1252QuestionableDungeonDesign = {
   story: "story-read/the-primal-hunter",
   position: 124,
   ownLength: 2789,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3033376/chapter-1252-questionable-dungeon-design",

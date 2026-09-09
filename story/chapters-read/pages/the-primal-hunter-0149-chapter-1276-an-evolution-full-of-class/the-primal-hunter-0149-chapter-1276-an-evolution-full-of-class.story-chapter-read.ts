@@ -8,7 +8,7 @@ export const thePrimalHunter0149Chapter1276AnEvolutionFullOfClass = {
   story: "story-read/the-primal-hunter",
   position: 149,
   ownLength: 2884,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3158666/chapter-1276-an-evolution-full-of-class",

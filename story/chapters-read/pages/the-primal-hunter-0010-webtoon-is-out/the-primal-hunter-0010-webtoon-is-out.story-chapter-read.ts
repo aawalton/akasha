@@ -8,7 +8,7 @@ export const thePrimalHunter0010WebtoonIsOut = {
   story: "story-read/the-primal-hunter",
   position: 10,
   ownLength: 428,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/1446981/webtoon-is-out",

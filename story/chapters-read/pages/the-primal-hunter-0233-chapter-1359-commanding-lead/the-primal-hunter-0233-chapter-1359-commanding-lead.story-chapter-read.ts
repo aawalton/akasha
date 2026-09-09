@@ -8,7 +8,7 @@ export const thePrimalHunter0233Chapter1359CommandingLead = {
   story: "story-read/the-primal-hunter",
   position: 233,
   ownLength: 2751,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3711248/chapter-1359-commanding-lead",

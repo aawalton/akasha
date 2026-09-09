@@ -8,7 +8,7 @@ export const thePrimalHunter0191Chapter1317TermsOfEquality = {
   story: "story-read/the-primal-hunter",
   position: 191,
   ownLength: 2986,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3427915/chapter-1317-terms-of-equality",

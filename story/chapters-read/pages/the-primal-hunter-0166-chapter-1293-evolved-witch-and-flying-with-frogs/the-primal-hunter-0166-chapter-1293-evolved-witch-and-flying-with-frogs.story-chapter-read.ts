@@ -8,7 +8,7 @@ export const thePrimalHunter0166Chapter1293EvolvedWitchAndFlyingWithFrogs = {
   story: "story-read/the-primal-hunter",
   position: 166,
   ownLength: 2724,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3272941/chapter-1293-evolved-witch-flying-with-frogs",

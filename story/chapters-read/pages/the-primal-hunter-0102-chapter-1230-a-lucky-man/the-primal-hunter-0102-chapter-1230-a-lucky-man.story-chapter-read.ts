@@ -8,7 +8,7 @@ export const thePrimalHunter0102Chapter1230ALuckyMan = {
   story: "story-read/the-primal-hunter",
   position: 102,
   ownLength: 2599,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2926811/chapter-1230-a-lucky-man",

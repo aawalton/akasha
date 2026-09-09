@@ -8,7 +8,7 @@ export const thePrimalHunter0057Chapter1185IdealLearningEnvironment = {
   story: "story-read/the-primal-hunter",
   position: 57,
   ownLength: 2778,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2696448/chapter-1185-ideal-learning-environment",

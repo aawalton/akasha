@@ -8,7 +8,7 @@ export const thePrimalHunter0187Chapter1313OneImportantFinalQuestion = {
   story: "story-read/the-primal-hunter",
   position: 187,
   ownLength: 2674,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3399770/chapter-1313-one-important-final-question",

@@ -8,7 +8,7 @@ export const thePrimalHunter0068Chapter1196TroubleInTheVoid = {
   story: "story-read/the-primal-hunter",
   position: 68,
   ownLength: 2840,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2737890/chapter-1196-trouble-in-the-void",

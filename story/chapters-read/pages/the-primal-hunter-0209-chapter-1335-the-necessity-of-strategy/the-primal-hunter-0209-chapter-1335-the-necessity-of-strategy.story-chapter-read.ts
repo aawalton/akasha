@@ -8,7 +8,7 @@ export const thePrimalHunter0209Chapter1335TheNecessityOfStrategy = {
   story: "story-read/the-primal-hunter",
   position: 209,
   ownLength: 2836,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3548071/chapter-1335-the-necessity-of-strategy",

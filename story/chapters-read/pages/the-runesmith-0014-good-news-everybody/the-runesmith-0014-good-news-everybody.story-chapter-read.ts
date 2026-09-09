@@ -8,7 +8,7 @@ export const theRunesmith0014GoodNewsEverybody = {
   story: "the-runesmith",
   position: 14,
   ownLength: 456,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/31474/magic-smithing/chapter/485332/good-news-everybody",

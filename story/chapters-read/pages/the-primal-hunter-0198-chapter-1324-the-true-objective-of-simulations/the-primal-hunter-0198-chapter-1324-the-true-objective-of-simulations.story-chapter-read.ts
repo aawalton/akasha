@@ -8,7 +8,7 @@ export const thePrimalHunter0198Chapter1324TheTrueObjectiveOfSimulations = {
   story: "story-read/the-primal-hunter",
   position: 198,
   ownLength: 2710,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/3478549/chapter-1324-the-true-objective-of-simulations",

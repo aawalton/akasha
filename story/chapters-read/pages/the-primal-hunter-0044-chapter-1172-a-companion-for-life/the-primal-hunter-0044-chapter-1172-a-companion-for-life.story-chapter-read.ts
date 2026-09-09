@@ -8,7 +8,7 @@ export const thePrimalHunter0044Chapter1172ACompanionForLife = {
   story: "story-read/the-primal-hunter",
   position: 44,
   ownLength: 3064,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/36049/the-primal-hunter/chapter/2648791/chapter-1172-a-companion-for-life",
