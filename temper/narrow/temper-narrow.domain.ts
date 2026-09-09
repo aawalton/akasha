@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperNarrow = {
   id: "01a060b6-99a1-7f39-a4b3-1a7f8d33b445",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-narrow",
   definition: "the narrowings add-on code needs that only the game's own Lua can do",
-  manifest: "json",
   parts: ["module/require-numeric-key"],
   invariants: [
     {
@@ -21,4 +20,4 @@ export const temperNarrow = {
       statement: "A refusal here throws the plain error the game's Lua understands.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

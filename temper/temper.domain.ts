@@ -95,7 +95,7 @@ export const temper = {
     "workspace-package/temper-addon-init",
     "domain/temper-bit-codec",
     "workspace-package/temper-capture-writer",
-    "workspace-package/temper-narrow",
+    "domain/temper-narrow",
     "workspace-package/temper-items-core",
     "workspace-package/temper-equipment-kinds",
     "workspace-package/temper-equipment",

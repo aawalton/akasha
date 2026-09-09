@@ -1,4 +1,4 @@
-import { requireNumericKey } from "@akasha/temper-narrow/require-numeric-key"
+import { requireNumericKey } from "akasha/temper/narrow/require-numeric-key/require-numeric-key.module.code.ts"
 import {
   DROPDOWN_DATA,
   DROPDOWN_MAJOR_ACTIONABLE,
