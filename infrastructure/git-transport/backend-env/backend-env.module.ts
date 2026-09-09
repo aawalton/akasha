@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const backendEnv = {
   id: "01a06816-2f11-7757-88ad-94ef5cc38f0f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "backend-env",
   definition: "what the git http backend is told about a request",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const paths = {
   id: "01a06813-7b0f-7d70-b1b8-8c7051dcac51",
   pageTypeSlug: "module",
+  type: "module",
   slug: "paths",
   definition: "the places a cluster's secrets, talosconfig and kubeconfig sit on disk",
   code: "ts",

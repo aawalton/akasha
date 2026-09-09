@@ -3,6 +3,7 @@ import type { Module } from "../../../../../code-system/modules/module.page-type
 export const barmanOutput = {
   id: "01a06863-74e7-786f-8c4a-33d1de1b872b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "barman-output",
   definition: "what barman's own output states, read into the shapes this package has",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const corsCore = {
   id: "01a06863-8e7c-7a4c-808c-4834fedcab58",
   pageTypeSlug: "module",
+  type: "module",
   slug: "cors-core",
   definition: "an origin weighed against what is allowed, and the headers saying so",
   code: "ts",

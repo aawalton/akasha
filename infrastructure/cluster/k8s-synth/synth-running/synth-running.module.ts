@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const synthRunning = {
   id: "01a06810-0b68-7038-a682-a9d1287b3622",
   pageTypeSlug: "module",
+  type: "module",
   slug: "synth-running",
   definition: "the synth pass a command line asks for",
   code: "ts",

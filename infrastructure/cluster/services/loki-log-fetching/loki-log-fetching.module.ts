@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const lokiLogFetching = {
   id: "01a06583-0030-7001-9589-276fd2944160",
   pageTypeSlug: "module",
+  type: "module",
   slug: "loki-log-fetching",
   definition: "the log lines Loki has for a pod, read newest first a page at a time",
   code: "ts",

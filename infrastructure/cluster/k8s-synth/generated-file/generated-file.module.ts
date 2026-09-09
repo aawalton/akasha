@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const generatedFile = {
   id: "01a06810-0b68-7fc5-b1b3-8bd0a620be5a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "generated-file",
   definition: "the generated file a synth's output is in",
   code: "ts",

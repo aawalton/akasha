@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const orphanResourceAudit = {
   id: "01a0686c-fd2c-7005-95f0-9e6b3cfb16bd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "orphan-resource-audit",
   definition: "the live resources a deploy manages that no synth source accounts for",
   code: "ts",

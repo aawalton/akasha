@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const authProxyConfig = {
   id: "01a06863-8e7c-7047-9da8-7b7f8e0ac120",
   pageTypeSlug: "module",
+  type: "module",
   slug: "auth-proxy-config",
   definition: "the settings the proxy reads out of its environment",
   code: "ts",

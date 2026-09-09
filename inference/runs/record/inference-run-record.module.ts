@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const inferenceRunRecord = {
   id: "01a0685d-4b35-700f-9344-dd7d49bdb87d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inference-run-record",
   definition: "what is written down when a run starts and what is added when it ends",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../../code-system/modules/module.page-type
 export const backupInfo = {
   id: "01a06863-74e6-7d17-b5ef-a299f78c9080",
   pageTypeSlug: "module",
+  type: "module",
   slug: "backup-info",
   definition: "what a backup's own info file states about that backup",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const workloadDeploying = {
   id: "01a05af7-5996-7001-8793-177eb8ddfa66",
   pageTypeSlug: "module",
+  type: "module",
   slug: "workload-deploying",
   definition: "the manifests a cluster service's code emits, put into the cluster",
   code: "ts",

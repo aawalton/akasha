@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const transportAuth = {
   id: "01a06816-2f11-7992-90a6-8cecd8ef0699",
   pageTypeSlug: "module",
+  type: "module",
   slug: "transport-auth",
   definition: "who a request reaching the repositories is from",
   code: "ts",

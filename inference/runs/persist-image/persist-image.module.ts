@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const persistImage = {
   id: "01a0685d-4b35-7013-8853-9ed4e36a99e3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "persist-image",
   definition: "the image page a generate, edit or upscale run lands, and the cover it is given",
   code: "ts",

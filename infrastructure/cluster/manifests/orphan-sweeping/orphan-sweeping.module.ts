@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const orphanSweeping = {
   id: "01a0686a-7a57-75d7-a420-ed74ca10393d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "orphan-sweeping",
   definition:
     "live cluster resources no source manifest accounts for, found and put to the handler",

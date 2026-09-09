@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const emitYaml = {
   id: "01a06813-7b0f-7775-b901-70f0a06199e3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "emit-yaml",
   definition: "the YAML text a patch, a document set and a schematic serialize to",
   code: "ts",

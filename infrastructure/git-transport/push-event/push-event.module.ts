@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pushEvent = {
   id: "01a06816-2f11-7261-bb1b-dbb58f9c4476",
   pageTypeSlug: "module",
+  type: "module",
   slug: "push-event",
   definition: "what a repository says it took, answered to whoever hooked the repository",
   code: "ts",
