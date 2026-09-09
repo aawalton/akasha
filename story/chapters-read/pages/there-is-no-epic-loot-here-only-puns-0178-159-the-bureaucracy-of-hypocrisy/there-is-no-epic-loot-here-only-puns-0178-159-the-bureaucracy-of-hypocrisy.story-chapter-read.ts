@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0178159TheBureaucracyOfHypocrisy = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0178-159-the-bureaucracy-of-hypocrisy",
   title: "159: The Bureaucracy of Hypocrisy",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 178,
   ownLength: 2827,
   unitSlug: "words",

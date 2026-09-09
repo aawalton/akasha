@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0016Chapter16BiteChewThink
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0016-chapter-16-bite-chew-think",
   title: "Chapter 16: Bite, Chew, Think",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 16,
   ownLength: 1456,
   unitSlug: "words",

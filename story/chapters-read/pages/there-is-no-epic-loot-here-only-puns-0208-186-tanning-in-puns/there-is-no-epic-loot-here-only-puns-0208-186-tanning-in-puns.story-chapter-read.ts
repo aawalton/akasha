@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0208186TanningInPuns = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0208-186-tanning-in-puns",
   title: "186: Tanning in Puns",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 208,
   ownLength: 3285,
   unitSlug: "words",

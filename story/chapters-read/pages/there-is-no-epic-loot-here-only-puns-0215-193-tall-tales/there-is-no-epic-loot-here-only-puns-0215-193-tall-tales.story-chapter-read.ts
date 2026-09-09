@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0215193TallTales = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0215-193-tall-tales",
   title: "193: Tall Tales",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 215,
   ownLength: 3037,
   unitSlug: "words",

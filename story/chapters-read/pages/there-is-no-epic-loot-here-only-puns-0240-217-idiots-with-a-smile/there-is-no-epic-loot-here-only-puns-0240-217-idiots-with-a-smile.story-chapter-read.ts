@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0240217IdiotsWithASmile = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0240-217-idiots-with-a-smile",
   title: "217: Idiots with a Smile",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 240,
   ownLength: 2463,
   unitSlug: "words",

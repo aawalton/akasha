@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0032Chapter31StrangeG
   pageTypeSlug: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0032-chapter-31-strange-guy",
   title: "Chapter 31: Strange Guy",
-  storySlug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 32,
   ownLength: 2151,
   unitSlug: "words",

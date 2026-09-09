@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0041Chapter40Adapting
   pageTypeSlug: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0041-chapter-40-adapting",
   title: "Chapter 40: Adapting",
-  storySlug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 41,
   ownLength: 1747,
   unitSlug: "words",

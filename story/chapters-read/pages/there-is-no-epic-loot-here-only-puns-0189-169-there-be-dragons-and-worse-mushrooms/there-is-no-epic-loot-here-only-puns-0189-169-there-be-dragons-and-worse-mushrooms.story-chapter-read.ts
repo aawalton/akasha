@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0189169ThereBeDragonsAndWorseMushrooms
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0189-169-there-be-dragons-and-worse-mushrooms",
   title: "169: There be Dragons and, worse, Mushrooms",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 189,
   ownLength: 4110,
   unitSlug: "words",

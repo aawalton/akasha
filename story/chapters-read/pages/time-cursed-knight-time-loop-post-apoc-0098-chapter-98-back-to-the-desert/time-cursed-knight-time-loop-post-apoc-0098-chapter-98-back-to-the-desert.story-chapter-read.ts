@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0098Chapter98BackToTheDesert = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0098-chapter-98-back-to-the-desert",
   title: "Chapter 98: Back to the Desert",
-  storySlug: "time-cursed-knight-time-loop-post-apoc",
+  story: "time-cursed-knight-time-loop-post-apoc",
   position: 98,
   ownLength: 2512,
   unitSlug: "words",

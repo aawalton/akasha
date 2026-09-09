@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0167149TheCostOfMagic = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0167-149-the-cost-of-magic",
   title: "149: The Cost of Magic",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 167,
   ownLength: 3923,
   unitSlug: "words",

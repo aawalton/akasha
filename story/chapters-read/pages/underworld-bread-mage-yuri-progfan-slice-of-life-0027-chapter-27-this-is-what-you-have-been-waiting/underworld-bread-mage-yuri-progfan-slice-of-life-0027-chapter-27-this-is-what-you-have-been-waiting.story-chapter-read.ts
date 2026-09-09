@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0027Chapter27ThisIsWhatYou
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0027-chapter-27-this-is-what-you-have-been-waiting",
   title: "Chapter 27: This is What You Have Been Waiting For",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 27,
   ownLength: 1548,
   unitSlug: "words",

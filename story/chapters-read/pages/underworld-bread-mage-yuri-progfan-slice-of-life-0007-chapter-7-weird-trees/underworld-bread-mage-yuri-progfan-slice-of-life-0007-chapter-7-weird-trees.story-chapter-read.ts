@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0007Chapter7WeirdTrees = {
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0007-chapter-7-weird-trees",
   title: "Chapter 7: Weird Trees",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 7,
   ownLength: 1303,
   unitSlug: "words",

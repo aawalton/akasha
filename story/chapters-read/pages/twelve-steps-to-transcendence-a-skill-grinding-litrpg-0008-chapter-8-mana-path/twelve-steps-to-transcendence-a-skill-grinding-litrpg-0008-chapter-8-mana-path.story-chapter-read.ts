@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0008Chapter8ManaPath 
   pageTypeSlug: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0008-chapter-8-mana-path",
   title: "Chapter 8: Mana Path",
-  storySlug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 8,
   ownLength: 2632,
   unitSlug: "words",

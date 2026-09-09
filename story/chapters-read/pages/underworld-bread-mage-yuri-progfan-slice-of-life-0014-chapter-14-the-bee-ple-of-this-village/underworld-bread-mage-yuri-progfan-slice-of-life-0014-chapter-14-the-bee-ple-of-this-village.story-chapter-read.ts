@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0014Chapter14TheBeePleOfTh
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0014-chapter-14-the-bee-ple-of-this-village",
   title: "Chapter 14: The Bee-ple of this Village",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 14,
   ownLength: 1378,
   unitSlug: "words",

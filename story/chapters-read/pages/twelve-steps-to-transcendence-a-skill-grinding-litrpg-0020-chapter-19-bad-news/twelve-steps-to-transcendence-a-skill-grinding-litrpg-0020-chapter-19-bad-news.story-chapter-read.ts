@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0020Chapter19BadNews 
   pageTypeSlug: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0020-chapter-19-bad-news",
   title: "Chapter 19: Bad News",
-  storySlug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 20,
   ownLength: 2140,
   unitSlug: "words",

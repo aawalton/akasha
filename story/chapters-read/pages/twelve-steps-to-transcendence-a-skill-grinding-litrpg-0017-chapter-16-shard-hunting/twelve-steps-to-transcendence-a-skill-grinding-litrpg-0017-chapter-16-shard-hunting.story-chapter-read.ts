@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0017Chapter16ShardHun
   pageTypeSlug: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0017-chapter-16-shard-hunting",
   title: "Chapter 16: Shard Hunting",
-  storySlug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+  story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 17,
   ownLength: 2680,
   unitSlug: "words",

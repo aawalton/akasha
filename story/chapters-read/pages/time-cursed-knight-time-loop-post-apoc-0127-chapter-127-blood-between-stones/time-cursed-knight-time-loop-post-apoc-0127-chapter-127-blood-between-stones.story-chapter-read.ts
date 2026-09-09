@@ -10,7 +10,7 @@ export const timeCursedKnightTimeLoopPostApoc0127Chapter127BloodBetweenStones = 
   externalId: "3935206",
   source: "royal-road",
   title: "Chapter 127: Blood Between Stones",
-  storySlug: "story-read/time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   ownLength: 3104,
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3935206/chapter-127-blood-between-stones",

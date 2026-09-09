@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0006Chapter6Authority = {
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0006-chapter-6-authority",
   title: "Chapter 6: Authority",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 6,
   ownLength: 1613,
   unitSlug: "words",

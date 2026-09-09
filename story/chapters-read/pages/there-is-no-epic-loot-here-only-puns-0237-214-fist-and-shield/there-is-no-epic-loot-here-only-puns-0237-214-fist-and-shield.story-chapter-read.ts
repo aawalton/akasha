@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0237214FistAndShield = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0237-214-fist-and-shield",
   title: "214: Fist and Shield",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 237,
   ownLength: 2309,
   unitSlug: "words",

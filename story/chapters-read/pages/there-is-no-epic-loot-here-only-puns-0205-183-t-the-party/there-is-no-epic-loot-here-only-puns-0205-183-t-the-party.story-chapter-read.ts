@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0205183TTheParty = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0205-183-t-the-party",
   title: "183: T-The Party",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 205,
   ownLength: 3101,
   unitSlug: "words",

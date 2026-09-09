@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0001Chapter1TheDeathOfMari
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0001-chapter-1-the-death-of-marina-verne",
   title: "Chapter 1: The Death of Marina Verne",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 1,
   ownLength: 1813,
   unitSlug: "words",

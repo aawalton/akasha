@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0091Chapter91PawnOrKing = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0091-chapter-91-pawn-or-king",
   title: "Chapter 91: Pawn or King?",
-  storySlug: "time-cursed-knight-time-loop-post-apoc",
+  story: "time-cursed-knight-time-loop-post-apoc",
   position: 91,
   ownLength: 3285,
   unitSlug: "words",

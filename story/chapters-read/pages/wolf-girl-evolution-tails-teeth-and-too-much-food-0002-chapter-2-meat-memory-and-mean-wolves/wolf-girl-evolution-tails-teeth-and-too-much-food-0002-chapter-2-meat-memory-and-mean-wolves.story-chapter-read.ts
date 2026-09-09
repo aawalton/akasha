@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0002Chapter2MeatMemoryAndM
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0002-chapter-2-meat-memory-and-mean-wolves",
   title: "Chapter 2: Meat, Memory, and Mean Wolves",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 2,
   ownLength: 1590,
   unitSlug: "words",

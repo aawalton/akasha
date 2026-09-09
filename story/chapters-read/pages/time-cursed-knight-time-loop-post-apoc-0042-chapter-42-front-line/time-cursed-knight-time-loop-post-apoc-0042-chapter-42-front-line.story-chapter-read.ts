@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0042Chapter42FrontLine = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0042-chapter-42-front-line",
   title: "Chapter 42: Front Line",
-  storySlug: "time-cursed-knight-time-loop-post-apoc",
+  story: "time-cursed-knight-time-loop-post-apoc",
   position: 42,
   ownLength: 3166,
   unitSlug: "words",

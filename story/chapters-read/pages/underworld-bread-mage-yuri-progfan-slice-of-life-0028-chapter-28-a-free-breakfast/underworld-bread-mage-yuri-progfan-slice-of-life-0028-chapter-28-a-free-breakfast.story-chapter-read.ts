@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0028Chapter28AFreeBreakfas
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0028-chapter-28-a-free-breakfast",
   title: 'Chapter 28: A "Free" Breakfast',
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 28,
   ownLength: 1430,
   unitSlug: "words",

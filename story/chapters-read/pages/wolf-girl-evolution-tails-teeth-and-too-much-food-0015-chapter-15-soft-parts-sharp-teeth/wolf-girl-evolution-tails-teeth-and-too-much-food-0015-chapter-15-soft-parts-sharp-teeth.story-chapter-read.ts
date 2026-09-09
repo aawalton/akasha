@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0015Chapter15SoftPartsShar
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0015-chapter-15-soft-parts-sharp-teeth",
   title: "Chapter 15: Soft Parts, Sharp Teeth",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 15,
   ownLength: 1294,
   unitSlug: "words",

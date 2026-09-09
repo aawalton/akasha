@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0097Chapter97Coexistence = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0097-chapter-97-coexistence",
   title: "Chapter 97: Coexistence",
-  storySlug: "time-cursed-knight-time-loop-post-apoc",
+  story: "time-cursed-knight-time-loop-post-apoc",
   position: 97,
   ownLength: 3000,
   unitSlug: "words",

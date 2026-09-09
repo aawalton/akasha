@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0239216DownAndDirty = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0239-216-down-and-dirty",
   title: "216: Down and Dirty",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 239,
   ownLength: 2208,
   unitSlug: "words",

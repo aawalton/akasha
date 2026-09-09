@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0020Chapter20TheBiteBeyond
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0020-chapter-20-the-bite-beyond",
   title: "Chapter 20: The Bite Beyond",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 20,
   ownLength: 1461,
   unitSlug: "words",

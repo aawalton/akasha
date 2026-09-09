@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0020Chapter20BellsAndCrystals = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0020-chapter-20-bells-and-crystals",
   title: "Chapter 20: Bells and Crystals",
-  storySlug: "time-cursed-knight-time-loop-post-apoc",
+  story: "time-cursed-knight-time-loop-post-apoc",
   position: 20,
   ownLength: 3598,
   unitSlug: "words",

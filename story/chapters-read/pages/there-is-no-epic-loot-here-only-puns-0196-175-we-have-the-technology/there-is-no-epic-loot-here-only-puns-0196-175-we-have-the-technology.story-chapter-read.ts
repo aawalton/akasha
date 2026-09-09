@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0196175WeHaveTheTechnology = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0196-175-we-have-the-technology",
   title: "175: We have the Technology.",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 196,
   ownLength: 3432,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0202180SilverWhere = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0202-180-silver-where",
   title: "180: Silver Where?",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 202,
   ownLength: 3129,
   unitSlug: "words",

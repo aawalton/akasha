@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0021Chapter21MoonBitten = 
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0021-chapter-21-moon-bitten",
   title: "Chapter 21: Moon-Bitten",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 21,
   ownLength: 1456,
   unitSlug: "words",

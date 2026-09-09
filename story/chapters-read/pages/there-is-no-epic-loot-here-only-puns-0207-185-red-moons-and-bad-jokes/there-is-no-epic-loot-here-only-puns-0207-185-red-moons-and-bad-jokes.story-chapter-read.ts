@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0207185RedMoonsAndBadJokes = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0207-185-red-moons-and-bad-jokes",
   title: "185: Red Moons and Bad Jokes",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 207,
   ownLength: 3597,
   unitSlug: "words",

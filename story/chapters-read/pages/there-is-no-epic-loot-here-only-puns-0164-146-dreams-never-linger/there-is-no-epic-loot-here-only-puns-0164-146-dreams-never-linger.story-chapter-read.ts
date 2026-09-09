@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0164146DreamsNeverLinger = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0164-146-dreams-never-linger",
   title: "146: Dreams never linger",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 164,
   ownLength: 3070,
   unitSlug: "words",

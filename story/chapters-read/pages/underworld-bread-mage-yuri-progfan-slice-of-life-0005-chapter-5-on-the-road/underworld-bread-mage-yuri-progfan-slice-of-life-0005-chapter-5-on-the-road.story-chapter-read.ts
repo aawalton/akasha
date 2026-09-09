@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0005Chapter5OnTheRoad = {
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0005-chapter-5-on-the-road",
   title: "Chapter 5: On the Road",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 5,
   ownLength: 1475,
   unitSlug: "words",

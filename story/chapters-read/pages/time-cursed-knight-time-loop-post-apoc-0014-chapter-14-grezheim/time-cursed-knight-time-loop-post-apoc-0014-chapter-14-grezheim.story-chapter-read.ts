@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0014Chapter14Grezheim = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0014-chapter-14-grezheim",
   title: "Chapter 14: Grezheim",
-  storySlug: "time-cursed-knight-time-loop-post-apoc",
+  story: "time-cursed-knight-time-loop-post-apoc",
   position: 14,
   ownLength: 2156,
   unitSlug: "words",

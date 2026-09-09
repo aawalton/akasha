@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0013Chapter13EchoesAndRabb
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0013-chapter-13-echoes-and-rabbit-legs",
   title: "Chapter 13: Echoes and Rabbit Legs",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 13,
   ownLength: 1541,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0002Chapter2ANightAtTheBak
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0002-chapter-2-a-night-at-the-bakery",
   title: "Chapter 2: A Night at the Bakery",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 2,
   ownLength: 1733,
   unitSlug: "words",

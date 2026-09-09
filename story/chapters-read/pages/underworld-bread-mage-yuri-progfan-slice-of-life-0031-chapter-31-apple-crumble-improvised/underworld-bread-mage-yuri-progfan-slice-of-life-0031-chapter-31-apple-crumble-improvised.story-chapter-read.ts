@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0031Chapter31AppleCrumbleI
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0031-chapter-31-apple-crumble-improvised",
   title: "Chapter 31: Apple Crumble Improvised",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 31,
   ownLength: 1628,
   unitSlug: "words",

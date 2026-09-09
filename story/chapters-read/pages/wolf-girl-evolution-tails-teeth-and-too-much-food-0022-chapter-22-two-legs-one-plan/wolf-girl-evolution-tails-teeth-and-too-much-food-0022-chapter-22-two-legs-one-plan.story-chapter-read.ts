@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0022Chapter22TwoLegsOnePla
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0022-chapter-22-two-legs-one-plan",
   title: "Chapter 22: Two Legs, One Plan",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 22,
   ownLength: 1698,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0191InterludeBurdenOfTheThrone = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0191-interlude-burden-of-the-throne",
   title: "Interlude: Burden of the Throne.",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 191,
   ownLength: 3627,
   unitSlug: "words",

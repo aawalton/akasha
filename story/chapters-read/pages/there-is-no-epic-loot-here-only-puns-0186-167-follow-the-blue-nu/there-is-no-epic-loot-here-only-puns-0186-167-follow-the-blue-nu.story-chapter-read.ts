@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0186167FollowTheBlueNu = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0186-167-follow-the-blue-nu",
   title: "167: Follow the Blue Nu",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 186,
   ownLength: 3417,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0008Chapter8IWishToLive = 
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0008-chapter-8-i-wish-to-live",
   title: "Chapter 8: I Wish to Live",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 8,
   ownLength: 1453,
   unitSlug: "words",

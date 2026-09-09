@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0023Chapter23Milk = {
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0023-chapter-23-milk",
   title: "Chapter 23: Milk",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 23,
   ownLength: 1317,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0059Chapter59EffectiveImmediately =
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0059-chapter-59-effective-immediately",
   title: "Chapter 59: Effective immediately",
-  storySlug: "time-cursed-knight-time-loop-post-apoc",
+  story: "time-cursed-knight-time-loop-post-apoc",
   position: 59,
   ownLength: 3725,
   unitSlug: "words",

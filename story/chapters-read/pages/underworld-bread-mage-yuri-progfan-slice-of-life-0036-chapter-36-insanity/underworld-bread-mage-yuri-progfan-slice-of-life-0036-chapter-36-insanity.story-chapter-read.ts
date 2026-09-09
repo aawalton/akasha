@@ -4,7 +4,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0036Chapter36Insanity = {
   id: "01a07252-4cd6-78c3-a0a9-9212f0c0e6f3",
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0036-chapter-36-insanity",
-  storySlug: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "story-read/underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 36,
   publishedAt: "2026-09-03",
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0018Chapter18OnlyShadowBit
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0018-chapter-18-only-shadow-bites",
   title: "Chapter 18: Only Shadow Bites",
-  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
+  story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 18,
   ownLength: 1833,
   unitSlug: "words",

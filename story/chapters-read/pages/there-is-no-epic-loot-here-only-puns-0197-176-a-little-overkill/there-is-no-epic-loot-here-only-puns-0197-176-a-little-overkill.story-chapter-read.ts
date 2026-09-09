@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0197176ALittleOverkill = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0197-176-a-little-overkill",
   title: "176: A Little Overkill",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 197,
   ownLength: 3585,
   unitSlug: "words",

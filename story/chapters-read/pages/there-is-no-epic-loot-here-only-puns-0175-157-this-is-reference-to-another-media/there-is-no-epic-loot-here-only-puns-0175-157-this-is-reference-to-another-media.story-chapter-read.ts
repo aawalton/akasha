@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0175157ThisIsReferenceToAnotherMedia =
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0175-157-this-is-reference-to-another-media",
   title: "157: This is reference to another media",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 175,
   ownLength: 3275,
   unitSlug: "words",

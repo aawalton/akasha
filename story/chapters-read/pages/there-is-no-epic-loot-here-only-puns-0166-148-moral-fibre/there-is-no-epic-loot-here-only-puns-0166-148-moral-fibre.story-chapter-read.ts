@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0166148MoralFibre = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0166-148-moral-fibre",
   title: "148: Moral Fibre",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 166,
   ownLength: 2977,
   unitSlug: "words",

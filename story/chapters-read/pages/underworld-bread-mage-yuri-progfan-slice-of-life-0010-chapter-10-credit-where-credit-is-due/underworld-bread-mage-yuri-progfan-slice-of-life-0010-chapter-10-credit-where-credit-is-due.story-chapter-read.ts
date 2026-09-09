@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0010Chapter10CreditWhereCr
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0010-chapter-10-credit-where-credit-is-due",
   title: "Chapter 10: Credit Where Credit is Due",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 10,
   ownLength: 1519,
   unitSlug: "words",

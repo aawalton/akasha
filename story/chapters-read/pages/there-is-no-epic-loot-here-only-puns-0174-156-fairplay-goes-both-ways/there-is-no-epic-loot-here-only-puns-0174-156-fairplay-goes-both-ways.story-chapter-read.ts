@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0174156FairplayGoesBothWays = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0174-156-fairplay-goes-both-ways",
   title: "156: Fairplay goes Both  Ways",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 174,
   ownLength: 3505,
   unitSlug: "words",

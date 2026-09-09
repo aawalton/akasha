@@ -6,7 +6,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0010PatreonScheduleTi
     pageTypeSlug: "story-chapter-read",
     slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0010-patreon-schedule-timezones-and-another",
     title: "Patreon, Schedule, Timezones, and another note.",
-    storySlug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
+    story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
     position: 10,
     ownLength: 277,
     unitSlug: "words",

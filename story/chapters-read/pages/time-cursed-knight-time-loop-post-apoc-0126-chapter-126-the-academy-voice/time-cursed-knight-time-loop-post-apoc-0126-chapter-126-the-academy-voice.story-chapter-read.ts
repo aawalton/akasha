@@ -4,7 +4,7 @@ export const timeCursedKnightTimeLoopPostApoc0126Chapter126TheAcademyVoice = {
   id: "01a08268-fb99-78d9-8313-09aed4f64f0d",
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0126-chapter-126-the-academy-voice",
-  storySlug: "story-read/time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 126,
   publishedAt: "2026-09-08",
   unitSlug: "words",

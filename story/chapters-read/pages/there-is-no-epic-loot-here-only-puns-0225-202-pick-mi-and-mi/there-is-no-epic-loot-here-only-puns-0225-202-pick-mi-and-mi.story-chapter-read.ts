@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0225202PickMiAndMi = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0225-202-pick-mi-and-mi",
   title: "202: Pick Mi and Mi",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 225,
   ownLength: 5938,
   unitSlug: "words",

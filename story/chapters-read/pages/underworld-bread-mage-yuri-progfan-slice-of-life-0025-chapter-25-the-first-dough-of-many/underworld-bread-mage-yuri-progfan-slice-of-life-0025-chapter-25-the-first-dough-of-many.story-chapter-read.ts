@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0025Chapter25TheFirstDough
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0025-chapter-25-the-first-dough-of-many",
   title: "Chapter 25: The First Dough of Many",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 25,
   ownLength: 1717,
   unitSlug: "words",

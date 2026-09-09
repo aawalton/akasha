@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0261238DimeADozen = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0261-238-dime-a-dozen",
   title: "238: Dime a Dozen",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 261,
   ownLength: 3817,
   unitSlug: "words",

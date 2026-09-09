@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0188168ShortcutsCutShort = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0188-168-shortcuts-cut-short",
   title: "168: Shortcuts cut Short",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 188,
   ownLength: 4890,
   unitSlug: "words",

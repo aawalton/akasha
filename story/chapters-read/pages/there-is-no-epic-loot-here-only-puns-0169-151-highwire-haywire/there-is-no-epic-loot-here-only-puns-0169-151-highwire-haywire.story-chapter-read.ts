@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0169151HighwireHaywire = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0169-151-highwire-haywire",
   title: "151: Highwire, Haywire",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 169,
   ownLength: 2717,
   unitSlug: "words",

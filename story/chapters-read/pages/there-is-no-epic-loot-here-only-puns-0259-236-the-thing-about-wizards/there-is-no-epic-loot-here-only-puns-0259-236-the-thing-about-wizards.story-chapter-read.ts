@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0259236TheThingAboutWizards = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0259-236-the-thing-about-wizards",
   title: "236: The Thing about Wizards",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 259,
   ownLength: 3146,
   unitSlug: "words",

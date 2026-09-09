@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0156138PictureBooksDeltaPrefersPopUp =
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0156-138-picture-books-delta-prefers-pop-up",
   title: "138: Picture Books? Delta prefers Pop-Up!",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 156,
   ownLength: 2526,
   unitSlug: "words",

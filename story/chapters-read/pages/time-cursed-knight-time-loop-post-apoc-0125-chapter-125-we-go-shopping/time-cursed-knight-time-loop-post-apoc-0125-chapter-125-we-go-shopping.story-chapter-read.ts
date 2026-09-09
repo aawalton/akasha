@@ -4,7 +4,7 @@ export const timeCursedKnightTimeLoopPostApoc0125Chapter125WeGoShopping = {
   id: "01a07cd4-04d0-7886-9d5e-564d0399617b",
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0125-chapter-125-we-go-shopping",
-  storySlug: "story-read/time-cursed-knight-time-loop-post-apoc",
+  story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 125,
   publishedAt: "2026-09-07",
   unitSlug: "words",

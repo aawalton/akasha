@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0257234PlayerVersusPlayer = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0257-234-player-versus-player",
   title: "234: Player versus Player",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 257,
   ownLength: 3435,
   unitSlug: "words",

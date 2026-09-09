@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0021Chapter21BreakfastWith
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0021-chapter-21-breakfast-with-the-bee",
   title: "Chapter 21: Breakfast with the Bee",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 21,
   ownLength: 1480,
   unitSlug: "words",

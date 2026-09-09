@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0155137TheBossDroppedTraumaAsARewardWa
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0155-137-the-boss-dropped-trauma-as-a-reward-wait",
   title: "137: The Boss dropped 'Trauma' as a reward! Wait...",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 155,
   ownLength: 2708,
   unitSlug: "words",

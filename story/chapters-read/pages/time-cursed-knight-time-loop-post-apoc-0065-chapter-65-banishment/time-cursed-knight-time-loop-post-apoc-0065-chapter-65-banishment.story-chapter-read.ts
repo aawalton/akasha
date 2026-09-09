@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0065Chapter65Banishment = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0065-chapter-65-banishment",
   title: "Chapter 65: Banishment",
-  storySlug: "time-cursed-knight-time-loop-post-apoc",
+  story: "time-cursed-knight-time-loop-post-apoc",
   position: 65,
   ownLength: 2745,
   unitSlug: "words",

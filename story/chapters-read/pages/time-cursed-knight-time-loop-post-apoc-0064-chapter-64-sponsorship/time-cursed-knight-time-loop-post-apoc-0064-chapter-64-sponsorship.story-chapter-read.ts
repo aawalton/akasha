@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0064Chapter64Sponsorship = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0064-chapter-64-sponsorship",
   title: "Chapter 64: Sponsorship",
-  storySlug: "time-cursed-knight-time-loop-post-apoc",
+  story: "time-cursed-knight-time-loop-post-apoc",
   position: 64,
   ownLength: 3405,
   unitSlug: "words",

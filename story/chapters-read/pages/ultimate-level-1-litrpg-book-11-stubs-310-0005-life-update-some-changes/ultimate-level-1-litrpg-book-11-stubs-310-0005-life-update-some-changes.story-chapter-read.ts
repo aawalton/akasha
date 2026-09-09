@@ -5,7 +5,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100005LifeUpdateSomeChanges = {
   pageTypeSlug: "story-chapter-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310-0005-life-update-some-changes",
   title: "Life Update - Some changes",
-  storySlug: "ultimate-level-1-litrpg-book-11-stubs-310",
+  story: "ultimate-level-1-litrpg-book-11-stubs-310",
   position: 5,
   ownLength: 544,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0204182LifeOfATown = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0204-182-life-of-a-town",
   title: "182: Life of a Town",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 204,
   ownLength: 2843,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0245222ConsoleGodModActivated = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0245-222-console-god-mod-activated",
   title: "222: Console: God Mod Activated",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 245,
   ownLength: 3242,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0253230SweetVsSalt = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0253-230-sweet-vs-salt",
   title: "230: Sweet vs Salt",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 253,
   ownLength: 2949,
   unitSlug: "words",

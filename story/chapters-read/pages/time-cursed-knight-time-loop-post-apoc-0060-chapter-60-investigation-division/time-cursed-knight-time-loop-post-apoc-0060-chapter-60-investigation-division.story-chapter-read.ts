@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0060Chapter60InvestigationDivision 
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0060-chapter-60-investigation-division",
   title: "Chapter 60: Investigation Division",
-  storySlug: "time-cursed-knight-time-loop-post-apoc",
+  story: "time-cursed-knight-time-loop-post-apoc",
   position: 60,
   ownLength: 2793,
   unitSlug: "words",

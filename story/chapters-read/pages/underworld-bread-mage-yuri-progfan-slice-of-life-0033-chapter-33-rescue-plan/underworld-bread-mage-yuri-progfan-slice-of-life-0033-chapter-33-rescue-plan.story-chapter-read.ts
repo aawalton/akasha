@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0033Chapter33RescuePlan = 
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0033-chapter-33-rescue-plan",
   title: "Chapter 33: Rescue Plan",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 33,
   ownLength: 1560,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0231208TearsAndImps = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0231-208-tears-and-imps",
   title: "208: Tears and Imps",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 231,
   ownLength: 2510,
   unitSlug: "words",

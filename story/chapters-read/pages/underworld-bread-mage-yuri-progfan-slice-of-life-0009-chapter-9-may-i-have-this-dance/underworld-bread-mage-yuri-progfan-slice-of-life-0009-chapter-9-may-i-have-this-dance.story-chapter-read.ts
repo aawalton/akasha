@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0009Chapter9MayIHaveThisDa
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0009-chapter-9-may-i-have-this-dance",
   title: "Chapter 9: May I Have This Dance?",
-  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
+  story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 9,
   ownLength: 1837,
   unitSlug: "words",

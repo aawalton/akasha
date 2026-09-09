@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0160142Catfished = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0160-142-catfished",
   title: "142: Catfished",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 160,
   ownLength: 3190,
   unitSlug: "words",

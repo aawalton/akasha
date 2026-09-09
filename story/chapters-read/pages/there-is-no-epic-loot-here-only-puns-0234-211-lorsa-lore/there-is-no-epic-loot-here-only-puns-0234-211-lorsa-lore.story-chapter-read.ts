@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0234211LorsaLore = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0234-211-lorsa-lore",
   title: "211: Lorsa Lore",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 234,
   ownLength: 2322,
   unitSlug: "words",

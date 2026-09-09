@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0182163DivineInterpretation = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0182-163-divine-interpretation",
   title: "163: Divine Interpretation",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 182,
   ownLength: 3339,
   unitSlug: "words",

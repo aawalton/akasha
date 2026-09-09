@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0028Chapter28Coliseum = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0028-chapter-28-coliseum",
   title: "Chapter 28: Coliseum",
-  storySlug: "time-cursed-knight-time-loop-post-apoc",
+  story: "time-cursed-knight-time-loop-post-apoc",
   position: 28,
   ownLength: 2259,
   unitSlug: "words",

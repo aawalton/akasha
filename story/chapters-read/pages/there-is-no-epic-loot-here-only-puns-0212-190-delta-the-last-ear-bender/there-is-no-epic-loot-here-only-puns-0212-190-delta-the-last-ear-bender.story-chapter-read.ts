@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0212190DeltaTheLastEarBender = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0212-190-delta-the-last-ear-bender",
   title: "190: Delta: The last Ear Bender",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 212,
   ownLength: 4026,
   unitSlug: "words",

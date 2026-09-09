@@ -5,7 +5,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100001001WhoWantsToBeABaker = {
   pageTypeSlug: "story-chapter-read",
   slug: "ultimate-level-1-litrpg-book-11-stubs-310-0001-001-who-wants-to-be-a-baker",
   title: "001 - Who wants to be a [Baker]?",
-  storySlug: "ultimate-level-1-litrpg-book-11-stubs-310",
+  story: "ultimate-level-1-litrpg-book-11-stubs-310",
   position: 1,
   ownLength: 3004,
   unitSlug: "words",

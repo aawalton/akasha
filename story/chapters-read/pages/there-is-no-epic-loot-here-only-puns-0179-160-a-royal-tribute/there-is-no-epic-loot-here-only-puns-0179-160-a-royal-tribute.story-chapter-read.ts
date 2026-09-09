@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0179160ARoyalTribute = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0179-160-a-royal-tribute",
   title: "160: A Royal Tribute",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 179,
   ownLength: 3893,
   unitSlug: "words",

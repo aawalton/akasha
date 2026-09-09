@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0233210ThatsTheGospelTruth = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0233-210-thats-the-gospel-truth",
   title: "210: That's the Gospel Truth",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 233,
   ownLength: 2882,
   unitSlug: "words",

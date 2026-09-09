@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0170152ComingStorm = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0170-152-coming-storm",
   title: "152: Coming Storm",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 170,
   ownLength: 3379,
   unitSlug: "words",
