@@ -23,9 +23,9 @@ import { parseSizeOrNull } from "@akasha/wan/wan-size"
 import type { Answer, Given } from "../../../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../../../command-system/fault-saying/fault-saying.module.code.ts"
-import { framesIn, homeIn, portIn, sizeIn } from "../hosting/wan-hosting.module.code.ts"
 import type { Act, Taken } from "../wan-arguing/wan-arguing.module.code.ts"
 import { at, EXTEND, GENERATE, numberIn } from "../wan-arguing/wan-arguing.module.code.ts"
+import { framesIn, homeIn, portIn, sizeIn } from "../wan-hosting/wan-hosting.module.code.ts"
 
 const SERVICE = "wan-i2v"
 
