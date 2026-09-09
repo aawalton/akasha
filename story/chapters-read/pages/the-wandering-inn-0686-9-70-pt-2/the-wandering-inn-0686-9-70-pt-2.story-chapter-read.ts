@@ -9,7 +9,7 @@ export const theWanderingInn0686970Pt2 = {
   position: 686,
   ownLength: 39381,
   ownProgress: 39413,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-12-23",
   externalLink: "https://wanderinginn.com/2023/12/23/9-70-pt-2/",
   prose: "txt",

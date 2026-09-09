@@ -9,7 +9,7 @@ export const theWanderingInn0644InterludeInnovationAndInvention = {
   position: 644,
   ownLength: 36542,
   ownProgress: 36790,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-15",
   externalLink: "https://wanderinginn.com/2023/03/15/interlude-innovation-and-invention/",
   prose: "txt",

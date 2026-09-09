@@ -9,7 +9,7 @@ export const theWanderingInn0564InterludeSatar = {
   position: 564,
   ownLength: 44801,
   ownProgress: 45023,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-20",
   externalLink: "https://wanderinginn.com/2022/02/20/interlude-satar/",
   prose: "txt",

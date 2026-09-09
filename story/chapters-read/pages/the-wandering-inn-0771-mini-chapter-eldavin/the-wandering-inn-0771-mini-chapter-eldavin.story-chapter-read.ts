@@ -9,7 +9,7 @@ export const theWanderingInn0771MiniChapterEldavin = {
   position: 771,
   ownLength: 2730,
   ownProgress: 2730,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-07",
   externalLink: "https://wanderinginn.com/2025/06/07/mini-chapter-eldavin/",
   prose: "txt",

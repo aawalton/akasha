@@ -9,7 +9,7 @@ export const theWanderingInn0672InterludeTheLibrary = {
   position: 672,
   ownLength: 1868,
   ownProgress: 1943,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-10-03",
   externalLink: "https://wanderinginn.com/2023/10/03/interlude-the-library/",
   prose: "txt",

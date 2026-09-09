@@ -9,7 +9,7 @@ export const theWanderingInn0497InterludeTheRowerAndTheBartender = {
   position: 497,
   ownLength: 10811,
   ownProgress: 11004,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-14",
   externalLink: "https://wanderinginn.com/2021/03/14/interlude-the-rower-and-the-bartender/",
   prose: "txt",

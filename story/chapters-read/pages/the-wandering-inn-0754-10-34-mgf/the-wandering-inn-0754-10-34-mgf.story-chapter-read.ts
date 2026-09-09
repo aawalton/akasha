@@ -9,7 +9,7 @@ export const theWanderingInn07541034Mgf = {
   position: 754,
   ownLength: 54347,
   ownProgress: 55059,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-16",
   externalLink: "https://wanderinginn.com/2025/02/16/10-34-mgf/",
   prose: "txt",

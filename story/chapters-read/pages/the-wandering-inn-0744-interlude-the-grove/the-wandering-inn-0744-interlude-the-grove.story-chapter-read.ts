@@ -9,7 +9,7 @@ export const theWanderingInn0744InterludeTheGrove = {
   position: 744,
   ownLength: 26539,
   ownProgress: 26980,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-01",
   externalLink: "https://wanderinginn.com/2024/12/01/interlude-the-grove/",
   prose: "txt",

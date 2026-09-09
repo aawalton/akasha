@@ -9,7 +9,7 @@ export const theWanderingInn0595905Npr = {
   position: 595,
   ownLength: 40040,
   ownProgress: 40219,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-10",
   externalLink: "https://wanderinginn.com/2022/07/10/9-05-npr/",
   prose: "txt",

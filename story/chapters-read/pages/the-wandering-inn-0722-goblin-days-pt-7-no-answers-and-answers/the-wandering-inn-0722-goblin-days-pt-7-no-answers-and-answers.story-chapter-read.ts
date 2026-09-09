@@ -9,7 +9,7 @@ export const theWanderingInn0722GoblinDaysPt7NoAnswersAndAnswers = {
   position: 722,
   ownLength: 16667,
   ownProgress: 17122,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-02",
   externalLink: "https://wanderinginn.com/2024/08/02/goblin-days-pt-7-no-answers-and-answers/",
   prose: "txt",

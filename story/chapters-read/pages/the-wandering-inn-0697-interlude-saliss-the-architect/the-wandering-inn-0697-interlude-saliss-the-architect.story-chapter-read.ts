@@ -9,7 +9,7 @@ export const theWanderingInn0697InterludeSalissTheArchitect = {
   position: 697,
   ownLength: 24141,
   ownProgress: 24534,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-13",
   externalLink: "https://wanderinginn.com/2024/03/13/interlude-saliss-the-architect/",
   prose: "txt",

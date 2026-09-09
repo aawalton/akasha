@@ -9,7 +9,7 @@ export const theWanderingInn0501InterludeParadigmShiftPt1 = {
   position: 501,
   ownLength: 20282,
   ownProgress: 20426,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-04",
   externalLink: "https://wanderinginn.com/2021/04/04/interlude-paradigm-shift-pt-1/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0536843 = {
   position: 536,
   ownLength: 22846,
   ownProgress: 23197,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-22",
   externalLink: "https://wanderinginn.com/2021/09/22/8-43/",
   prose: "txt",

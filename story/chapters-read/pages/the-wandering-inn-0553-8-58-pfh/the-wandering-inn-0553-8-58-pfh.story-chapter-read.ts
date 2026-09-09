@@ -9,7 +9,7 @@ export const theWanderingInn0553858Pfh = {
   position: 553,
   ownLength: 23478,
   ownProgress: 23742,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-15",
   externalLink: "https://wanderinginn.com/2021/12/15/8-58-pfh/",
   prose: "txt",

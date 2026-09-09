@@ -9,7 +9,7 @@ export const theWanderingInn0728TheRootsPt3 = {
   position: 728,
   ownLength: 8669,
   ownProgress: 8979,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-14",
   externalLink: "https://wanderinginn.com/2024/08/14/the-roots-pt-3/",
   prose: "txt",

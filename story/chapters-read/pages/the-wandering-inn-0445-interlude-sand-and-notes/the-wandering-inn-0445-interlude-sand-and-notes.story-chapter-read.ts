@@ -9,7 +9,7 @@ export const theWanderingInn0445InterludeSandAndNotes = {
   position: 445,
   ownLength: 9062,
   ownProgress: 9217,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-10",
   externalLink: "https://wanderinginn.com/2020/08/10/interlude-sand-and-notes/",
   prose: "txt",

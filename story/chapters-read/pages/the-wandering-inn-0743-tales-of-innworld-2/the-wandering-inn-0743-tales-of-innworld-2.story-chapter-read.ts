@@ -9,7 +9,7 @@ export const theWanderingInn0743TalesOfInnworld2 = {
   position: 743,
   ownLength: 0,
   ownProgress: 283,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-11-23",
   externalLink: "https://wanderinginn.com/2024/11/23/tales-of-innworld-2/",
   prose: "txt",

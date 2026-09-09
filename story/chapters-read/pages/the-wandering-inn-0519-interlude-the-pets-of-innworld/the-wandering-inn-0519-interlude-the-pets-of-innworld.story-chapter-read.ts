@@ -9,7 +9,7 @@ export const theWanderingInn0519InterludeThePetsOfInnworld = {
   position: 519,
   ownLength: 16480,
   ownProgress: 16727,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-26",
   externalLink: "https://wanderinginn.com/2021/06/26/interlude-the-pets-of-innworld/",
   prose: "txt",

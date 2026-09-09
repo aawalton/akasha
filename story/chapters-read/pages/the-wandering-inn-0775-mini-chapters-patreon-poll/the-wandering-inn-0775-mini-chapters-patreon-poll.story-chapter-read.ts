@@ -9,7 +9,7 @@ export const theWanderingInn0775MiniChaptersPatreonPoll = {
   position: 775,
   ownLength: 66937,
   ownProgress: 66937,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-05",
   externalLink: "https://wanderinginn.com/2025/07/05/mini-chapters-patreon-poll/",
   prose: "txt",

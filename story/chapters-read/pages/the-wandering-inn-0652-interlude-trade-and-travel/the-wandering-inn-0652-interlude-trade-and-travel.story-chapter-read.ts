@@ -9,7 +9,7 @@ export const theWanderingInn0652InterludeTradeAndTravel = {
   position: 652,
   ownLength: 39169,
   ownProgress: 39943,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-06-04",
   externalLink: "https://wanderinginn.com/2023/06/04/interlude-trade-and-travel/",
   prose: "txt",

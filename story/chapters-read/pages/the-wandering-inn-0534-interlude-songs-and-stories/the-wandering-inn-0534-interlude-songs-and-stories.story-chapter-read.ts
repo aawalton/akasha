@@ -9,7 +9,7 @@ export const theWanderingInn0534InterludeSongsAndStories = {
   position: 534,
   ownLength: 29544,
   ownProgress: 29720,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-15",
   externalLink: "https://wanderinginn.com/2021/09/15/interlude-songs-and-stories/",
   prose: "txt",

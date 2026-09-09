@@ -9,7 +9,7 @@ export const theWanderingInn0563InterludeHectvalPt3 = {
   position: 563,
   ownLength: 29940,
   ownProgress: 30212,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-16",
   externalLink: "https://wanderinginn.com/2022/02/16/interlude-hectval-pt-3/",
   prose: "txt",

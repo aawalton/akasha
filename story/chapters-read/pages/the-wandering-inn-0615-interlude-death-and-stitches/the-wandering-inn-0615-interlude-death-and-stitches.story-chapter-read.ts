@@ -9,7 +9,7 @@ export const theWanderingInn0615InterludeDeathAndStitches = {
   position: 615,
   ownLength: 15687,
   ownProgress: 15998,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-16",
   externalLink: "https://wanderinginn.com/2022/10/16/interlude-death-and-stitches/",
   prose: "txt",

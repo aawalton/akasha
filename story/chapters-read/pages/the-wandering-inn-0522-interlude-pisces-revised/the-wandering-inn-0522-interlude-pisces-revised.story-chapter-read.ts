@@ -9,7 +9,7 @@ export const theWanderingInn0522InterludePiscesRevised = {
   position: 522,
   ownLength: 45183,
   ownProgress: 45640,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-20",
   externalLink: "https://wanderinginn.com/2021/07/20/interlude-pisces-revised/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0641InterludeBeginnings = {
   position: 641,
   ownLength: 8636,
   ownProgress: 9438,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-05",
   externalLink: "https://wanderinginn.com/2023/03/05/interlude-beginnings/",
   prose: "txt",

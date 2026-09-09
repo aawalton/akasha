@@ -9,7 +9,7 @@ export const theWanderingInn0540InterludePerspectiveAndPast = {
   position: 540,
   ownLength: 21912,
   ownProgress: 22217,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-06",
   externalLink: "https://wanderinginn.com/2021/10/06/interlude-perspective-and-past/",
   prose: "txt",

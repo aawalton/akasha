@@ -9,7 +9,7 @@ export const theWanderingInn0646InterludeTheSpitoon = {
   position: 646,
   ownLength: 22580,
   ownProgress: 23127,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-29",
   externalLink: "https://wanderinginn.com/2023/03/29/interlude-the-spitoon/",
   prose: "txt",

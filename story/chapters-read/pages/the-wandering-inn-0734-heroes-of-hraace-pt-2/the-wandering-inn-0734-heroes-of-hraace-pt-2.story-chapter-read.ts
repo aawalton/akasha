@@ -9,7 +9,7 @@ export const theWanderingInn0734HeroesOfHraacePt2 = {
   position: 734,
   ownLength: 24456,
   ownProgress: 24605,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-10-06",
   externalLink: "https://wanderinginn.com/2024/10/06/heroes-of-hraace-pt-2/",
   prose: "txt",

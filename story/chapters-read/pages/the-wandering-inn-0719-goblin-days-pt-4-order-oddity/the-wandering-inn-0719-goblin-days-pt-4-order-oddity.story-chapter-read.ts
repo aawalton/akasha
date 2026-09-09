@@ -9,7 +9,7 @@ export const theWanderingInn0719GoblinDaysPt4OrderOddity = {
   position: 719,
   ownLength: 4659,
   ownProgress: 4749,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-31",
   externalLink: "https://wanderinginn.com/2024/07/31/goblin-days-pt-4-order-oddity/",
   prose: "txt",

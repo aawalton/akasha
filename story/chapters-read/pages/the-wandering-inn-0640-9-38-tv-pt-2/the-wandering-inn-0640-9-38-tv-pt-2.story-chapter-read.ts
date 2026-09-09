@@ -9,7 +9,7 @@ export const theWanderingInn0640938TvPt2 = {
   position: 640,
   ownLength: 36728,
   ownProgress: 37244,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-01",
   externalLink: "https://wanderinginn.com/2023/03/01/9-38-tv-pt-2/",
   prose: "txt",

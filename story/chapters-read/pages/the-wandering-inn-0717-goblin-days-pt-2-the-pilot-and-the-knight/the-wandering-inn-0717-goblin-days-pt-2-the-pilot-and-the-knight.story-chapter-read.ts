@@ -9,7 +9,7 @@ export const theWanderingInn0717GoblinDaysPt2ThePilotAndTheKnight = {
   position: 717,
   ownLength: 12799,
   ownProgress: 13319,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-28",
   externalLink: "https://wanderinginn.com/2024/07/28/goblin-days-pt-2-the-pilot-and-the-knight/",
   prose: "txt",

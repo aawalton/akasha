@@ -9,7 +9,7 @@ export const theWanderingInn0716GoblinDaysPt1TheWedding = {
   position: 716,
   ownLength: 12781,
   ownProgress: 13285,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-28",
   externalLink: "https://wanderinginn.com/2024/07/28/goblin-days-pt-1-the-wedding/",
   prose: "txt",

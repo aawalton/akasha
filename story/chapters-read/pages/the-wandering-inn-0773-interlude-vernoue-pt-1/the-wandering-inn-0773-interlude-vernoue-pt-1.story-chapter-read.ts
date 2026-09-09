@@ -9,7 +9,7 @@ export const theWanderingInn0773InterludeVernouePt1 = {
   position: 773,
   ownLength: 38397,
   ownProgress: 38397,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-21",
   externalLink: "https://wanderinginn.com/2025/06/21/interlude-vernoue-pt-1/",
   prose: "txt",

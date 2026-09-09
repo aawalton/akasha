@@ -9,7 +9,7 @@ export const theWanderingInn0599InterludeMundanityAndMemorials = {
   position: 599,
   ownLength: 28648,
   ownProgress: 28904,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-30",
   externalLink: "https://wanderinginn.com/2022/07/30/interlude-mundanity-and-memorials/",
   prose: "txt",

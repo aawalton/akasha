@@ -9,7 +9,7 @@ export const theWanderingInn0495811ERevised = {
   position: 495,
   ownLength: 31248,
   ownProgress: 31467,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-07",
   externalLink: "https://wanderinginn.com/2021/03/07/8-11-e-revised/",
   prose: "txt",

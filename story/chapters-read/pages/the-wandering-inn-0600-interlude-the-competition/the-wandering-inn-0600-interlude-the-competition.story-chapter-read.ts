@@ -9,7 +9,7 @@ export const theWanderingInn0600InterludeTheCompetition = {
   position: 600,
   ownLength: 20739,
   ownProgress: 20958,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-08-06",
   externalLink: "https://wanderinginn.com/2022/08/06/interlude-the-competition/",
   prose: "txt",

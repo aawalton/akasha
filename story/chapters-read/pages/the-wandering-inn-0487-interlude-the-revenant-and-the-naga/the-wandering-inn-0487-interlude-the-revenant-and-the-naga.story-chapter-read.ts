@@ -9,7 +9,7 @@ export const theWanderingInn0487InterludeTheRevenantAndTheNaga = {
   position: 487,
   ownLength: 19128,
   ownProgress: 19298,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-01-24",
   externalLink: "https://wanderinginn.com/2021/01/24/interlude-the-revenant-and-the-naga/",
   prose: "txt",

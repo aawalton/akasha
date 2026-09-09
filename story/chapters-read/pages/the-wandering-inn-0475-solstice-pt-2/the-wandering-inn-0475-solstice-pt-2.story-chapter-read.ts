@@ -9,7 +9,7 @@ export const theWanderingInn0475SolsticePt2 = {
   position: 475,
   ownLength: 29965,
   ownProgress: 30144,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-12-20",
   externalLink: "https://wanderinginn.com/2020/12/20/solstice-pt-2/",
   prose: "txt",

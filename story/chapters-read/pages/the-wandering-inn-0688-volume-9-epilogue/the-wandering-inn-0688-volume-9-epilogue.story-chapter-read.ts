@@ -9,7 +9,7 @@ export const theWanderingInn0688Volume9Epilogue = {
   position: 688,
   ownLength: 33781,
   ownProgress: 34954,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-12-23",
   externalLink: "https://wanderinginn.com/2023/12/23/volume-9-epilogue/",
   prose: "txt",

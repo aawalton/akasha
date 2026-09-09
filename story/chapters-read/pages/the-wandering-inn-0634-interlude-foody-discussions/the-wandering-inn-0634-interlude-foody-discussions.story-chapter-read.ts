@@ -9,7 +9,7 @@ export const theWanderingInn0634InterludeFoodyDiscussions = {
   position: 634,
   ownLength: 24644,
   ownProgress: 24963,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-01-24",
   externalLink: "https://wanderinginn.com/2023/01/24/interlude-foody-discussions/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0464InterludeSalissTheAdventurer = {
   position: 464,
   ownLength: 31933,
   ownProgress: 32272,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-04",
   externalLink: "https://wanderinginn.com/2020/11/04/interlude-saliss-the-adventurer/",
   prose: "txt",

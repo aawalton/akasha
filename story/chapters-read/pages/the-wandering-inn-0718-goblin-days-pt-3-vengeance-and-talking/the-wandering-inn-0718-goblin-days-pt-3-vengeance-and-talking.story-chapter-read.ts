@@ -9,7 +9,7 @@ export const theWanderingInn0718GoblinDaysPt3VengeanceAndTalking = {
   position: 718,
   ownLength: 14796,
   ownProgress: 14981,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-30",
   externalLink: "https://wanderinginn.com/2024/07/30/goblin-days-pt-3-vengeance-and-talking/",
   prose: "txt",

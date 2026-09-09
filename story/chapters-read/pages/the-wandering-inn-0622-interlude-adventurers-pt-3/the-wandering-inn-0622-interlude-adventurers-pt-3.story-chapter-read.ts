@@ -9,7 +9,7 @@ export const theWanderingInn0622InterludeAdventurersPt3 = {
   position: 622,
   ownLength: 43411,
   ownProgress: 43719,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-11-16",
   externalLink: "https://wanderinginn.com/2022/11/16/interlude-adventurers-pt-3/",
   prose: "txt",

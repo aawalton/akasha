@@ -9,7 +9,7 @@ export const theWanderingInn07471030Ggmg = {
   position: 747,
   ownLength: 54516,
   ownProgress: 55122,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-12-22",
   externalLink: "https://wanderinginn.com/2024/12/22/10-30-ggmg/",
   prose: "txt",

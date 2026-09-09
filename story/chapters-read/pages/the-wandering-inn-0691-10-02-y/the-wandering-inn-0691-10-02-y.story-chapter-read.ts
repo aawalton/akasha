@@ -9,7 +9,7 @@ export const theWanderingInn06911002Y = {
   position: 691,
   ownLength: 20345,
   ownProgress: 20681,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-02-11",
   externalLink: "https://wanderinginn.com/2024/02/11/10-02-y/",
   prose: "txt",

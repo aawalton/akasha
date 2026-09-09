@@ -9,7 +9,7 @@ export const theWanderingInn0532InterludeOfVampiresAndFraerlings = {
   position: 532,
   ownLength: 19734,
   ownProgress: 19874,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-31",
   externalLink: "https://wanderinginn.com/2021/08/31/interlude-of-vampires-and-fraerlings/",
   prose: "txt",

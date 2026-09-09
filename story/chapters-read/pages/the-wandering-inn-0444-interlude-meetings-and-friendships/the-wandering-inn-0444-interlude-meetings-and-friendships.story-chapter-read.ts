@@ -9,7 +9,7 @@ export const theWanderingInn0444InterludeMeetingsAndFriendships = {
   position: 444,
   ownLength: 12855,
   ownProgress: 12987,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-08-09",
   externalLink: "https://wanderinginn.com/2020/08/09/interlude-meetings-and-friendships/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0645InterludeBrewingSariants = {
   position: 645,
   ownLength: 16894,
   ownProgress: 17233,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-19",
   externalLink: "https://wanderinginn.com/2023/03/19/interlude-brewing-sariants/",
   prose: "txt",

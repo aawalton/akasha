@@ -9,7 +9,7 @@ export const theWanderingInn07531033Mnk = {
   position: 753,
   ownLength: 40450,
   ownProgress: 40972,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-08",
   externalLink: "https://wanderinginn.com/2025/02/08/10-33-mnk/",
   prose: "txt",

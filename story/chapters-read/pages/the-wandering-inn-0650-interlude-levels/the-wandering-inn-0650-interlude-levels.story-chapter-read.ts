@@ -9,7 +9,7 @@ export const theWanderingInn0650InterludeLevels = {
   position: 650,
   ownLength: 23251,
   ownProgress: 23566,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-04-16",
   externalLink: "https://wanderinginn.com/2023/04/16/interlude-levels/",
   prose: "txt",

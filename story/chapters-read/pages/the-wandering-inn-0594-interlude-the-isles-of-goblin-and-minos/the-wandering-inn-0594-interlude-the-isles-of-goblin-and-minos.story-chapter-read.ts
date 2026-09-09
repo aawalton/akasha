@@ -9,7 +9,7 @@ export const theWanderingInn0594InterludeTheIslesOfGoblinAndMinos = {
   position: 594,
   ownLength: 29442,
   ownProgress: 29583,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-05",
   externalLink: "https://wanderinginn.com/2022/07/05/interlude-the-isles-of-goblin-and-minos/",
   prose: "txt",

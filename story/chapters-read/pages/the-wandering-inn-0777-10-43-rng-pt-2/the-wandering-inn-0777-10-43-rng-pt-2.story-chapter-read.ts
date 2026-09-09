@@ -9,7 +9,7 @@ export const theWanderingInn07771043RngPt2 = {
   position: 777,
   ownLength: 17915,
   ownProgress: 1934,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-20",
   externalLink: "https://wanderinginn.com/2025/07/20/10-43-rng-pt-2/",
   prose: "txt",

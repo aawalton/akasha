@@ -9,7 +9,7 @@ export const theWanderingInn0470InterludeTheTribesOfIzril = {
   position: 470,
   ownLength: 15364,
   ownProgress: 15572,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-11-25",
   externalLink: "https://wanderinginn.com/2020/11/25/interlude-the-tribes-of-izril/",
   prose: "txt",

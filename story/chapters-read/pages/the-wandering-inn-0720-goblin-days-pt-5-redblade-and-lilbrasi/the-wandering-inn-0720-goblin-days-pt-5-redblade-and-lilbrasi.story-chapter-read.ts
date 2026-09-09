@@ -9,7 +9,7 @@ export const theWanderingInn0720GoblinDaysPt5RedbladeAndLilbrasi = {
   position: 720,
   ownLength: 10518,
   ownProgress: 10790,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-01",
   externalLink: "https://wanderinginn.com/2024/08/01/goblin-days-pt-5-redblade-and-lilbrasi/",
   prose: "txt",

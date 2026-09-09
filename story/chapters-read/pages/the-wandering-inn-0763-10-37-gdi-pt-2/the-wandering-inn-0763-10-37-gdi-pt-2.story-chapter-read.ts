@@ -9,7 +9,7 @@ export const theWanderingInn07631037GdiPt2 = {
   position: 763,
   ownLength: 34790,
   ownProgress: 34844,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-06",
   externalLink: "https://wanderinginn.com/2025/04/06/10-37-gdi-pt-2/",
   prose: "txt",

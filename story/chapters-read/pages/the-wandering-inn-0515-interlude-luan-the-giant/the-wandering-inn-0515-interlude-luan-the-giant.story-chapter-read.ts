@@ -9,7 +9,7 @@ export const theWanderingInn0515InterludeLuanTheGiant = {
   position: 515,
   ownLength: 19768,
   ownProgress: 19917,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-08",
   externalLink: "https://wanderinginn.com/2021/06/08/interlude-luan-the-giant/",
   prose: "txt",

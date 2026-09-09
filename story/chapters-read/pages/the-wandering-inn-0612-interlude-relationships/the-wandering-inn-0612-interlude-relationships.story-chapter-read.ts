@@ -9,7 +9,7 @@ export const theWanderingInn0612InterludeRelationships = {
   position: 612,
   ownLength: 23757,
   ownProgress: 24086,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-05",
   externalLink: "https://wanderinginn.com/2022/10/05/interlude-relationships/",
   prose: "txt",

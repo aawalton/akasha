@@ -9,7 +9,7 @@ export const theWanderingInn0723GoblinDaysPt8Downwards = {
   position: 723,
   ownLength: 2255,
   ownProgress: 3092,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-08-04",
   externalLink: "https://wanderinginn.com/2024/08/04/goblin-days-pt-8-downwards/",
   prose: "txt",

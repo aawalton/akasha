@@ -9,7 +9,7 @@ export const theWanderingInn0710InterludeAnotherTime = {
   position: 710,
   ownLength: 10863,
   ownProgress: 11150,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-07",
   externalLink: "https://wanderinginn.com/2024/06/07/interlude-another-time/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0457InterludeExperimentsInGolems = {
   position: 457,
   ownLength: 29714,
   ownProgress: 29993,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-10-04",
   externalLink: "https://wanderinginn.com/2020/10/04/interlude-experiments-in-golems/",
   prose: "txt",

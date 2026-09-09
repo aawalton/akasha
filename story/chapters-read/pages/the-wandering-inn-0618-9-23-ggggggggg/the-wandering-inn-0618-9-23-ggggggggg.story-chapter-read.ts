@@ -9,7 +9,7 @@ export const theWanderingInn0618923Ggggggggg = {
   position: 618,
   ownLength: 32252,
   ownProgress: 32498,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-11-02",
   externalLink: "https://wanderinginn.com/2022/11/02/9-23-ggggggggg/",
   prose: "txt",
