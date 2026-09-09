@@ -58,8 +58,15 @@
     "@akasha/pages-ui": "workspace:*",
     "@akasha/design-forms": "workspace:*",
     "sonner": "^2.0.7",
-    "@akasha/testing-system": "workspace:*",
+    "@akasha/testing-system": "workspace:*"
+  },
+  "peerDependencies": {
     "vscode": "^1.85.0"
+  },
+  "peerDependenciesMeta": {
+    "vscode": {
+      "optional": true
+    }
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",
