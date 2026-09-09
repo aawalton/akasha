@@ -1,12 +1,12 @@
 import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
-import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import {
   type PlannedAddon,
   planUpdates,
 } from "akasha/temper/community-addons/addon-update-plan/addon-update-plan.module.code.ts"
 import { fetchCatalog } from "akasha/temper/community-addons/esoui-catalog/esoui-catalog.module.code.ts"
 import { readInstalledAddons } from "akasha/temper/community-addons/installed-addons/installed-addons.module.code.ts"
+import { addonsDir } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import { valuesOf } from "../../../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"

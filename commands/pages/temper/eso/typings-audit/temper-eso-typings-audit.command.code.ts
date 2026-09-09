@@ -7,8 +7,8 @@ import {
   WALK_ROOT,
 } from "@akasha/temper-build-deploy-checks/eso-clone-artifacts"
 import type { StampedArtifact } from "@akasha/temper-build-deploy-checks/eso-doc-api-version"
-import { parseEsoDocApiVersion } from "@akasha/temper-eso-paths/eso-clone-stamp"
-import { esouiDocPath } from "@akasha/temper-eso-paths/eso-paths"
+import { parseEsoDocApiVersion } from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import {
   saidFor,
   saidShort,

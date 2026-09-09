@@ -1,6 +1,6 @@
 import { resolve } from "node:path"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   formatExplainWalk,
   type JsonOutput,

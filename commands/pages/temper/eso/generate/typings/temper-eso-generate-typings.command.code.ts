@@ -6,8 +6,8 @@ import { codeRoot } from "@akasha/pages/code-root"
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,
-} from "@akasha/temper-eso-paths/eso-clone-stamp"
-import { esouiDocPath } from "@akasha/temper-eso-paths/eso-paths"
+} from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiDocPath } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import {
   generateEnumsFile,
   generateEventsFile,

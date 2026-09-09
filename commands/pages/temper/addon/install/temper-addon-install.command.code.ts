@@ -17,8 +17,11 @@ import {
   OWNERSHIP_MARKER_FILE,
 } from "@akasha/temper-addons-resolve/folder-ownership"
 import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
-import { addonsDir, savedVarsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import { CONSOLIDATION_MIGRATIONS } from "akasha/temper/addon-build/consolidation-migrations/consolidation-migrations.module.code.ts"
+import {
+  addonsDir,
+  savedVarsDir,
+} from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import {
   migrateBundleMemberSavedVars,
   readDeclaredSavedVars,

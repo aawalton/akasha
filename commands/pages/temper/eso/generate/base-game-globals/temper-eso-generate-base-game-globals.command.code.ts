@@ -7,9 +7,9 @@ import { esoDocPathForLuaRoot } from "@akasha/temper-build-deploy-checks/eso-doc
 import {
   esoCloneHeaderLines,
   parseEsoDocApiVersion,
-} from "@akasha/temper-eso-paths/eso-clone-stamp"
-import { esouiSourceDir } from "@akasha/temper-eso-paths/eso-paths"
-import { collectLuaFiles } from "@akasha/temper-eso-paths/lua-files"
+} from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
+import { esouiSourceDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
+import { collectLuaFiles } from "akasha/temper/eso-paths/lua-files/lua-files.module.code.ts"
 import {
   extractGlobalNames,
   extractStringIdNames,

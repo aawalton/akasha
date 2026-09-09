@@ -2,7 +2,7 @@ import { join } from "node:path"
 import {
   addonsDir as resolveAddonsDir,
   savedVarsDir as resolveSavedVarsDir,
-} from "@akasha/temper-eso-paths/eso-paths-resolve"
+} from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type { FileType } from "../watcher-file-type/watcher-file-type.module.code.ts"
 
 export interface WatcherConfig {

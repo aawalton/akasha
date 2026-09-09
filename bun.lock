@@ -42,7 +42,6 @@
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
-        "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
@@ -1052,12 +1051,6 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "temper/eso-paths": {
-      "name": "@akasha/temper-eso-paths",
-      "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
     "temper/events-addon": {
       "name": "@akasha/temper-events-addon",
       "dependencies": {
@@ -1260,7 +1253,6 @@
       "name": "@akasha/temper-build-deploy-checks",
       "dependencies": {
         "@akasha/temper-addons-resolve": "workspace:*",
-        "@akasha/temper-eso-paths": "workspace:*",
         "@akasha/utils": "workspace:*",
         "typescript": "^5.8.3",
         "zod": "^4.3.6",
@@ -1527,8 +1519,6 @@
     "@akasha/temper-equipment-kinds": ["@akasha/temper-equipment-kinds@workspace:temper/equipment-kinds"],
 
     "@akasha/temper-errors-addon": ["@akasha/temper-errors-addon@workspace:temper/errors-addon"],
-
-    "@akasha/temper-eso-paths": ["@akasha/temper-eso-paths@workspace:temper/eso-paths"],
 
     "@akasha/temper-eso-types": ["@akasha/temper-eso-types@workspace:temper/temper-eso-types"],
 

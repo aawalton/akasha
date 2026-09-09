@@ -3,7 +3,7 @@ import { join, relative } from "node:path"
 import {
   parseEsoCloneProvenance,
   parseStampedApiVersion,
-} from "@akasha/temper-eso-paths/eso-clone-stamp"
+} from "akasha/temper/eso-paths/eso-clone-stamp/eso-clone-stamp.module.code.ts"
 import type { StampedArtifact } from "../eso-doc-api-version/eso-doc-api-version.module.code.ts"
 
 export const WALK_ROOT = "temper"

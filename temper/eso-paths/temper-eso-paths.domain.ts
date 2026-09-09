@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperEsoPaths = {
   id: "01a06050-639d-78c1-a9ff-c6579f3deebd",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-eso-paths",
   definition: "what a workstation has of the game and of the game's own sources",
-  manifest: "json",
   parts: [
     "module/eso-paths",
     "module/eso-paths-resolve",
@@ -23,4 +22,4 @@ export const temperEsoPaths = {
       statement: "Asking the disk settles which candidate the live directory is.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -1,9 +1,9 @@
 import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { whyOf } from "@akasha/command-system/fault-saying"
-import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { savedVarsFile } from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 import type {
   RuleEvalResult,
   WalkTrace,

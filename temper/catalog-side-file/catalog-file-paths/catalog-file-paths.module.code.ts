@@ -1,4 +1,7 @@
-import { addonsFile, savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import {
+  addonsFile,
+  savedVarsFile,
+} from "akasha/temper/eso-paths/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
 export const DEFAULT_SAVED_VARIABLES_PATH = savedVarsFile("TemperCatalog.lua")
 

@@ -1,8 +1,8 @@
 import { mkdir } from "node:fs/promises"
 import { join } from "node:path"
 import { PORCELAIN_STATUS_ARGS, parsePorcelainStatusZ } from "@akasha/git/porcelain-status"
-import { addonUpstreamDir } from "@akasha/temper-eso-paths/eso-paths"
 import { ran } from "@akasha/utils/run/running"
+import { addonUpstreamDir } from "akasha/temper/eso-paths/eso-paths/eso-paths.module.code.ts"
 import {
   LIBSETS_UPSTREAM,
   type UpstreamPin,
