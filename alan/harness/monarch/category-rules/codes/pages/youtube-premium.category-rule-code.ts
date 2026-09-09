@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const youtubePremium = {
   id: "01a0655b-fcdb-700a-88e6-78785704a69c",

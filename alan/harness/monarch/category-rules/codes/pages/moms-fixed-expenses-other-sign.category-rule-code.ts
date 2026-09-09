@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const momsFixedExpensesOtherSign = {
   id: "01a0655b-fcd0-7025-9a01-569a778d72f4",

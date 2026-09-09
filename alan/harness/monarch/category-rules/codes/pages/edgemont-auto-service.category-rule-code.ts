@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const edgemontAutoService = {
   id: "01a0655b-fcd0-7010-81cb-5ba1dd5c5529",

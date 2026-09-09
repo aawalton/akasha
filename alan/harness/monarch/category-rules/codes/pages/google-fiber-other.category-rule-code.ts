@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const googleFiberOther = {
   id: "01a0655b-fcd0-7015-82b0-ade5f9790629",

@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const ecoshieldPestControl = {
   id: "01a0655b-fcd0-700e-a536-7335d0b91eac",

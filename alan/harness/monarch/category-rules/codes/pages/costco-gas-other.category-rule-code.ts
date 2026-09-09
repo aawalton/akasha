@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const costcoGasOther = {
   id: "01a0655b-fcd0-7005-9de7-63c3f6746f91",

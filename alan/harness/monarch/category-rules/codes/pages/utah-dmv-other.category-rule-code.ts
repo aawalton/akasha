@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const utahDmvOther = {
   id: "01a0655b-fcdb-7002-a63a-53b4259f1e3f",

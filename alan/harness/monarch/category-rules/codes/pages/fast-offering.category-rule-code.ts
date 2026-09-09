@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const fastOffering = {
   id: "01a0655b-fcd0-7012-9c65-786d859f539d",

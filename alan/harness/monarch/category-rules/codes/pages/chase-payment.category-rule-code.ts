@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const chasePayment = {
   id: "01a0655b-fccf-7017-bd88-57a8b4fffb6b",

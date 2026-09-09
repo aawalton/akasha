@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const citiOtherSign = {
   id: "01a0655b-fcd0-7001-bb00-0b2a174dbf38",

@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const questarGas = {
   id: "01a0655b-fcd1-7007-afd0-00c18223dfa3",

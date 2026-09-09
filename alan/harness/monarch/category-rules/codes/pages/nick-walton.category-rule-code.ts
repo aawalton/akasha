@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const nickWalton = {
   id: "01a0655b-fcd0-7029-ad52-29d5f4752285",

@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const paramountPlusOther = {
   id: "01a0655b-fcd1-7000-a523-8d664f524671",

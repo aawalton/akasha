@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const royalRoadAlan = {
   id: "01a0655b-fcd1-7008-a59f-dadeb90f0a9b",

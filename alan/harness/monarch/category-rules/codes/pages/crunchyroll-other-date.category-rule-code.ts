@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const crunchyrollOtherDate = {
   id: "01a0655b-fcd0-7008-9360-1784a7e7e444",

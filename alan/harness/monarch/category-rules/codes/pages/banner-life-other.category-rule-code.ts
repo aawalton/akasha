@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const bannerLifeOther = {
   id: "01a0655b-fccf-700a-bfb8-3a6b2ca766f3",

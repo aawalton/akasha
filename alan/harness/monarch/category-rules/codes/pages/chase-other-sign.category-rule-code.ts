@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const chaseOtherSign = {
   id: "01a0655b-fccf-7016-9bf1-c3715968b450",

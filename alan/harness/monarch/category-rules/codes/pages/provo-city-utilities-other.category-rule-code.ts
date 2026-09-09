@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const provoCityUtilitiesOther = {
   id: "01a0655b-fcd1-7003-974b-2ec616e52600",

@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const standardTransferOtherAccount = {
   id: "01a0655b-fcda-7002-99e3-28713b21e7ce",

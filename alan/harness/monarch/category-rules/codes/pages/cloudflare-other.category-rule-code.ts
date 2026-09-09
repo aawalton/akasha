@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const cloudflareOther = {
   id: "01a0655b-fcd0-7002-b222-f46ccbbe3452",

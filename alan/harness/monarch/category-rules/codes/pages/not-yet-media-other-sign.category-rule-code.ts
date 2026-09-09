@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const notYetMediaOtherSign = {
   id: "01a0655b-fcd0-702d-92f5-0bca45000569",

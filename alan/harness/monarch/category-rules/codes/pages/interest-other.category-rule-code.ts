@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const interestOther = {
   id: "01a0655b-fcd0-7019-b63f-f09c40357e8e",

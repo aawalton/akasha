@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const crunchyrollOtherSign = {
   id: "01a0655b-fcd0-7009-9da9-88d8ecb19b35",

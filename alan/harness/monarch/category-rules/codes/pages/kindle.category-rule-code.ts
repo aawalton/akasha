@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const kindle = {
   id: "01a0655b-fcd0-701f-a95d-dbdce01bbfed",

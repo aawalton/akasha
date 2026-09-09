@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CategoryRule } from "../category-rule.page-type.types.ts"
-
-export type CategoryRuleCode = CategoryRule
 
 export const categoryRuleCode = {
   id: "01a0680c-3c00-7008-9c73-6a2e5d8b3109",
@@ -21,4 +18,5 @@ export const categoryRuleCode = {
       statement: "A rule of this kind naming no category catches a row for a person to settle.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

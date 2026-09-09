@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const brightPediatricDentistryOther = {
   id: "01a0655b-fccf-700c-9700-31f4a3f22e47",

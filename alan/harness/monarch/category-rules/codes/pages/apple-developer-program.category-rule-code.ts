@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const appleDeveloperProgram = {
   id: "01a0655b-fccf-7008-ab16-645cc6b24302",

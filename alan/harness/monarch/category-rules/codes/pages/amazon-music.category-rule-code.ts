@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const amazonMusic = {
   id: "01a0655b-fccf-7001-8bf8-3789babaeee5",

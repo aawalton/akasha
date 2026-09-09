@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const stateFarmOther = {
   id: "01a0655b-fcda-7004-ba32-0cda134ea51c",

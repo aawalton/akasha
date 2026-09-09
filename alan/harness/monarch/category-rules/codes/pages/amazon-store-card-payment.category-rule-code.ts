@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const amazonStoreCardPayment = {
   id: "01a0655b-fccf-7004-9bc4-26a5a5aab421",

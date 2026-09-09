@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const costcoCitiPayment = {
   id: "01a0655b-fcd0-7004-a1f9-f1e4c9971491",

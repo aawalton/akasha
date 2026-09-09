@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const venmoOtherSign = {
   id: "01a0655b-fcdb-7006-bb68-0673fa1a2d33",

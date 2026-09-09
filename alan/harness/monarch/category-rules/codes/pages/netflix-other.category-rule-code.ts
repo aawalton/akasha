@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const netflixOther = {
   id: "01a0655b-fcd0-7027-8cda-6c4e878677fd",

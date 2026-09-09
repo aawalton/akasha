@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const telnyxOther = {
   id: "01a0655b-fcda-7007-b5cd-8856c88b19e6",

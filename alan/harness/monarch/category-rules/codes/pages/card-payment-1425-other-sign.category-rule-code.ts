@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const cardPayment1425OtherSign = {
   id: "01a0655b-fccf-700e-9c49-04a0eb092d17",

@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const ninthEastDental = {
   id: "01a0655b-fcd0-702b-95f8-e828c5c4168e",

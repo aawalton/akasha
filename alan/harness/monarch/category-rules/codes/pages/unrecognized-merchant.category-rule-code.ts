@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const unrecognizedMerchant = {
   id: "01a0655b-fcda-7009-bc2a-26e3f6789b20",

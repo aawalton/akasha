@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const midlandNationalOther = {
   id: "01a0655b-fcd0-7022-9594-d9fc6ce0cf13",

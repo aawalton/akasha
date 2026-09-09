@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const venmoOtherAccount = {
   id: "01a0655b-fcdb-7005-a285-e4482329b9e9",

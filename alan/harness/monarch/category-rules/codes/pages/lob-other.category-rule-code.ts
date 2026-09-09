@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const lobOther = {
   id: "01a0655b-fcd0-7020-bce5-8bf5f718facf",

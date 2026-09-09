@@ -1,4 +1,4 @@
-import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
+import type { CategoryRuleCode } from "../category-rule-code.page-type.types.ts"
 
 export const spotifyOtherSign = {
   id: "01a0655b-fcda-7000-ac9b-9f92a57f99c1",
