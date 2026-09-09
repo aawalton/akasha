@@ -264,8 +264,14 @@ async function serve(ask: Ask): Promise<undefined> {
 
 let idleTimer: ReturnType<typeof setTimeout> | undefined
 
-function idling(): undefined {
+function working(): undefined {
   if (idleTimer !== undefined) clearTimeout(idleTimer)
+  idleTimer = undefined
+  return undefined
+}
+
+function idling(): undefined {
+  working()
   idleTimer = setTimeout(() => {
     note(`nothing has been asked for ${LEASE * IDLE_OVER_LEASE}ms, so this server is finished`)
     finish()
@@ -274,8 +280,7 @@ function idling(): undefined {
 }
 
 function finish(): undefined {
-  if (idleTimer !== undefined) clearTimeout(idleTimer)
-  idleTimer = undefined
+  working()
   process.exitCode = 0
   try {
     process.stdin.destroy()
@@ -297,8 +302,12 @@ async function pump(): Promise<undefined> {
     }
   } finally {
     running = false
+    if (leaseOver) {
+      finish()
+    } else {
+      idling()
+    }
   }
-  if (leaseOver) finish()
   return undefined
 }
 
@@ -340,7 +349,7 @@ function listen(): undefined {
         continue
       }
       WAITING.push(ask)
-      idling()
+      working()
       void pump()
     }
   })

@@ -182,13 +182,15 @@ export function servingFrom(at: CommandServerAt): Serving {
         }
       })
       child.on("exit", (code, signal) => {
-        fresh.went = `the command server exited (code ${String(code)}, signal ${String(signal)})`
+        const went = `the command server exited (code ${String(code)}, signal ${String(signal)})`
+        fresh.went = went
         dropped(fresh)
         if (!settled) {
           settled = true
           clearTimeout(timer)
           refuse(refusalOf(REFUSAL_START, `it exited before saying hello (code ${String(code)})`))
         }
+        setImmediate(() => lose(fresh, went))
       })
 
       let held = ""

@@ -249,5 +249,9 @@ export const commandServer = {
       invariantKind: "departure",
       statement: "A lease once spent stays spent for every ask after it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An idle bound counts from the last answer rather than from the last ask.",
+    },
   ],
 } as const satisfies Module

@@ -54,7 +54,8 @@ export const commandServerClient = {
     },
     {
       invariantKind: "departure",
-      statement: "A server's exit refuses no ask until the answer pipe has ended.",
+      statement:
+        "A server's exit refuses no ask before what the server already said has been taken.",
     },
   ],
 } as const satisfies Module
