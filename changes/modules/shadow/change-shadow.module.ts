@@ -299,5 +299,13 @@ export const changeShadow = {
       invariantKind: "departure",
       statement: "Those folders are read from the tree rather than from the answers gathered.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A world answers which files git tracks under a folder and holds on disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A repository git will not answer for answers nothing rather than no file.",
+    },
   ],
 } as const satisfies Module

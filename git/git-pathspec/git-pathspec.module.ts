@@ -38,5 +38,13 @@ export const gitPathspec = {
       invariantKind: "departure",
       statement: "A path already removed from disk is still named.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The paths git tracks under a folder are asked for by that folder alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A repository git will not answer for answers nothing rather than no path.",
+    },
   ],
 } as const satisfies Module

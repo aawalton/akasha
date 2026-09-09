@@ -75,6 +75,12 @@ export function gitIgnoring(root: string, paths: readonly string[]): ReadonlySet
   )
 }
 
+export function trackedUnder(root: string, folder: string): readonly string[] | null {
+  const got = git(root, ["ls-files", "--cached", "-z", "--", folder])
+  if (got.code !== 0) return null
+  return got.stdout.split("\0").filter((one) => one !== "")
+}
+
 export function heldByRepo(root: string, paths: readonly string[]): ReadonlySet<string> {
   const held = new Set(paths.filter((one) => existsSync(join(root, one))))
   const missing = paths.filter((one) => !held.has(one))

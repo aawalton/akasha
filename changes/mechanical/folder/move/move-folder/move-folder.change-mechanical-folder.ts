@@ -101,6 +101,26 @@ export const moveFolder = {
     },
     {
       invariantKind: "departure",
+      statement: "The listing carried is judged against the files git tracks under the folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file git tracks that the listing leaves out refuses the move and is named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the listing names that git tracks nowhere is carried rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file git tracks that is off the disk already is judged by nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A repository git will not answer for refuses nothing here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder moved under itself is refused.",
     },
     {

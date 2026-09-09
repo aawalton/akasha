@@ -205,6 +205,28 @@ test("a folder the index claims nothing of is carried rather than refused", asyn
   expect(pathsIn(said)).toContain(`${INTO}/.react-router/types/routes.ts`)
 })
 
+test("a listing short of a file git tracks is refused rather than carried short", async () => {
+  const root = indexedRepo(HELD)
+  const world = worldIn(root)
+  const short = UNDER.filter((one) => one !== BETA_CODE)
+  const said = await runChange(
+    { ...world, under: (folder: string) => (folder === FROM ? short : world.under(folder)) },
+    { from: FROM, to: INTO }
+  )
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain(BETA_CODE)
+})
+
+test("a file git tracks nowhere is left out of that comparison", async () => {
+  const root = indexedRepo(HELD)
+  put(root, `${FROM}/deep/notes.txt`, "one\ntwo\n")
+  const said = await runChange(worldIn(root), { from: FROM, to: INTO })
+
+  expect(said.refused).toBeNull()
+  expect(pathsIn(said)).toContain(`${INTO}/deep/notes.txt`)
+})
+
 test("the folder the files already sit under is refused", async () => {
   const said = await runChange(worldIn(indexedRepo(HELD)), { from: FROM, to: FROM })
 

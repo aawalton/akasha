@@ -25,6 +25,13 @@ function underneath(world: World, at: string): readonly string[] {
   return [...world.under(at)].sort()
 }
 
+function missing(world: World, at: string, under: readonly string[]): readonly string[] {
+  const tracked = world.tracked?.(at) ?? null
+  if (tracked === null) return []
+  const listed = new Set(under)
+  return [...tracked].filter((one) => !listed.has(one)).sort()
+}
+
 function movedInto(world: World, at: string, to: string, under: readonly string[]): Moved {
   const held = new Set(world.under(to))
   const said = new Map<string, string>()
@@ -64,6 +71,15 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   }
   if (!relative(given.from, given.to).startsWith(OUTSIDE)) {
     return refusing(`\`${given.to}\` sits under \`${given.from}\`, so the folder is not carried`)
+  }
+  const missed = missing(world, given.from, under)
+  if (missed.length > 0) {
+    const named = missed.map((one) => `\`${one}\``).join(", ")
+    const names = missed.length === 1 ? "names a file" : "names files"
+    return refusing(
+      `git ${names} under \`${given.from}\` the listing does not, so the move would leave` +
+        ` ${missed.length === 1 ? "it" : "them"} behind: ${named}`
+    )
   }
   const said = movedInto(world, given.from, given.to, under)
   if ("refused" in said) return refusing(said.refused)

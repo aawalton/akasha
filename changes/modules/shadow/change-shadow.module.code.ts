@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
 import { join, relative } from "node:path"
+import { trackedUnder } from "@akasha/git/git-pathspec"
 import type { Change } from "../../../pages/change/change.module.code.ts"
 import type { Answering } from "../../../pages/indexes/answering/index-answering.module.code.ts"
 import type { Reading } from "../../../pages/indexes/shape/index-shape.module.code.ts"
@@ -49,6 +50,7 @@ export type World = {
   readonly bodyOf: BodyOf
   readonly under: (folder: string) => readonly string[]
   readonly unentered?: (folder: string) => readonly string[]
+  readonly tracked?: (folder: string) => readonly string[] | null
   readonly base: BodyOf
   readonly over: Answer
   readonly reaching?: Reaching
@@ -74,6 +76,12 @@ export function treeUnentered(root: string, folder: string, index: Answering): r
   }
   walkedUnder(at, () => false, entering)
   return [...found].sort()
+}
+
+function treeTracked(root: string, folder: string): readonly string[] | null {
+  const held = trackedUnder(root, folder)
+  if (held === null) return null
+  return held.filter((one) => existsSync(join(root, one)))
 }
 
 function beneath(folder: string, path: string): boolean {
@@ -168,6 +176,7 @@ export function worldAt(
     bodyOf,
     under: (folder) => treeUnder(root, folder, index),
     unentered: (folder) => treeUnentered(root, folder, index),
+    tracked: (folder) => treeTracked(root, folder),
     base: bodyOf,
     over: NOTHING_OVER,
     reaching,
@@ -189,6 +198,7 @@ export function worldOver(world: World, said: Answer): World {
     bodyOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.bodyOf(path)),
     under: (folder) => underOver(world.under(folder), said, folder),
     unentered: world.unentered,
+    tracked: world.tracked,
     base: world.base,
     over,
     reaching: world.reaching,
@@ -236,6 +246,7 @@ export function worldBefore(world: World): World {
     bodyOf,
     under: world.under,
     unentered: world.unentered,
+    tracked: world.tracked,
     base: kept.base,
     over: kept.over,
     reaching: world.reaching,
@@ -318,6 +329,7 @@ export function ledgerAt(
     },
     under: (folder) => underOver(treeUnder(root, folder, asked()), kept.over, folder),
     unentered: (folder) => treeUnentered(root, folder, asked()),
+    tracked: (folder) => treeTracked(root, folder),
   }
 }
 
