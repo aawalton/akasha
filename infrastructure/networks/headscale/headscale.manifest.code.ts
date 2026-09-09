@@ -20,15 +20,17 @@ import {
 import { networkPolicyYaml } from "./modules/network-policies/headscale-network-policies.module.code.ts"
 
 const TLS_SECRET_NAME = "headscale-tls"
+const S3_CREDS_SECRET_NAME = "headscale-s3-creds"
+const S3_CREDS_KEYS = ["access_key", "secret_key"]
 
 const LITESTREAM_S3_ENV = [
   {
     name: "LITESTREAM_ACCESS_KEY_ID",
-    valueFrom: { secretKeyRef: { name: "headscale-s3-creds", key: "access_key" } },
+    valueFrom: { secretKeyRef: { name: S3_CREDS_SECRET_NAME, key: "access_key" } },
   },
   {
     name: "LITESTREAM_SECRET_ACCESS_KEY",
-    valueFrom: { secretKeyRef: { name: "headscale-s3-creds", key: "secret_key" } },
+    valueFrom: { secretKeyRef: { name: S3_CREDS_SECRET_NAME, key: "secret_key" } },
   },
 ]
 
@@ -71,7 +73,7 @@ function statefulsetYaml(): string {
           labels: CONTROL_PLANE_LABELS,
           annotations: {
             "checksum/tls": secretChecksum(NAMESPACE, TLS_SECRET_NAME, ["tls.crt", "tls.key"]),
-            "checksum/s3-creds": "placeholder",
+            "checksum/s3-creds": secretChecksum(NAMESPACE, S3_CREDS_SECRET_NAME, S3_CREDS_KEYS),
           },
         },
         spec: {
