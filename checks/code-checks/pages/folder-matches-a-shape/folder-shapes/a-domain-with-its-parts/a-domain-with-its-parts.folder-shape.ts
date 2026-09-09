@@ -47,5 +47,10 @@ export const aDomainWithItsParts = {
       statement:
         "A subfolder with a second page that is no workspace package of the first is the folder of no part.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subfolder a file this page's own property names sits under is a part of that page.",
+    },
   ],
 } as const satisfies FolderShape

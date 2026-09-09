@@ -84,5 +84,10 @@ export const aPageTypeWithItsParts = {
       invariantKind: "departure",
       statement: "A subfolder named `workstation-services` is a part of that page.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A subfolder a file this page's own property names sits under is a part of that page.",
+    },
   ],
 } as const satisfies FolderShape

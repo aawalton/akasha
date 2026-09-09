@@ -62,6 +62,23 @@ test("a subfolder named scripts is a part", () => {
   expect(judged(["scripts/build-sim/build-sim.shell-script.ts"], ["models.domain.ts"])).toEqual([])
 })
 
+const DEEP = "deploy/dockerfile-extensions.json"
+
+test("a subfolder a file the page's own property names sits under is a part", () => {
+  const claimed = `${FOLDER}/${DEEP}`
+  const made = folderFrom({
+    folder: FOLDER,
+    pageTypes: PAGE_TYPES,
+    extending: (pageTypeSlug, wanted) => wanted === "domain" && DOMAINS.has(pageTypeSlug),
+    declared: () => DECLARED,
+    holds: holdsAt,
+    deep: [DEEP],
+    parts: (page) => [page.path, claimed],
+  })
+  expect(aDomainWithItsParts(made(["models.domain.ts"]))).toEqual([])
+  expect(judged([DEEP], ["models.domain.ts"])).toHaveLength(1)
+})
+
 test("a folder holding two pages is refused", () => {
   const said = judged([], ["models.domain.ts", "other.domain.ts"])
   expect(said).toHaveLength(1)

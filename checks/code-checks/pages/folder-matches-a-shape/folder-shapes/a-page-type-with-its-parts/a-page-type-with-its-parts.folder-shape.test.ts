@@ -118,6 +118,23 @@ test("a workspace package slugged the page type's plural slug is a second page a
   expect(said[0]).toContain("2 pages rather than one")
 })
 
+const DEEP = "deploy/dockerfile-extensions.json"
+
+test("a subfolder a file the page's own property names sits under is a part", () => {
+  const claimed = `${FOLDER}/${DEEP}`
+  const made = folderFrom({
+    folder: FOLDER,
+    pageTypes: PAGE_TYPES,
+    extending: (pageTypeSlug, wanted) => wanted === "page-type" && TYPES.has(pageTypeSlug),
+    declared: () => DECLARED,
+    holds: holdsAt,
+    deep: [DEEP],
+    parts: (page) => [page.path, claimed],
+  })
+  expect(aPageTypeWithItsParts(made(["model.page-type.ts"]))).toEqual([])
+  expect(judged([DEEP], ["model.page-type.ts"])).toHaveLength(1)
+})
+
 test("a subfolder declared by the workspace package beside its page type takes the shape", () => {
   const paired = ["page-type/index", "workspace-package/index"]
   const made = folderFrom({
