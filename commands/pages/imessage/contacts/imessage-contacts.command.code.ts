@@ -12,7 +12,7 @@ import {
   told,
 } from "../../../modules/answering/command-answering.module.code.ts"
 import type { Answer } from "../../../modules/calling/calling.module.code.ts"
-import { wordFilling } from "../../../modules/command-filling/command-filling.module.code.ts"
+import { wordFilling } from "../../../modules/filling/command-filling.module.code.ts"
 
 const QUERY = "--query"
 
