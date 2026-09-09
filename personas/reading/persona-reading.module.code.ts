@@ -71,7 +71,8 @@ function personaFrom(root: string, listed: Listed): Persona {
     valueSlug: textAt(value, "valueSlug"),
     origin: textAt(value, "origin"),
     email: textAt(value, "email"),
-    championedDomainSlug: textAt(value, "championedDomainSlug"),
+    championedDomainSlug:
+      textAt(value, "championedDomain") ?? textAt(value, "championedDomainSlug"),
     greenDayPoints: numberAt(value, "greenDayPoints"),
     history: textAt(value, "history"),
     voiceInstruction: textAt(value, "voiceInstruction"),

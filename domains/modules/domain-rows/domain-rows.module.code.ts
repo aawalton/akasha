@@ -14,9 +14,13 @@ const PARTS = "partSlugs"
 
 const PERSONA = "persona"
 
-const CHAMPIONED = "championed-domain-slug"
+const CHAMPIONED = "championed-domain"
 
-const CHAMPIONS = "championedDomainSlug"
+const CHAMPIONED_WAS = "championed-domain-slug"
+
+const CHAMPIONS = "championedDomain"
+
+const CHAMPIONS_WAS = "championedDomainSlug"
 
 const ID = "id"
 
@@ -28,10 +32,6 @@ export type DomainRow = {
   readonly sequence: readonly string[]
 }
 
-// A PAGE THE INDEX NAMED, CARRYING THE VALUE THE INDEX FILED FOR IT. The value index holds one line
-// for each page, and that line carries the whole value the page declares. Listing the pages of a
-// page type already reads and parses every one of those lines, so the parts a page names and the
-// domain a persona champions cost nothing past the read that found the page.
 type Held = {
   readonly path: string
   readonly id: string
@@ -47,10 +47,6 @@ function heldOfType(reading: Reading, pageTypeSlug: string): readonly Held[] {
   return found
 }
 
-// EVERY PERSONA BY THE ID THE INDEX KNOWS HER BY. A persona names the domain she champions, so the
-// edge runs from her to it; this is the half needed to read that edge backwards, from a domain to
-// whoever answers for it. Her slug is taken off her file name rather than out of her page, which
-// keeps this to the index and opens no body.
 function personaSlugById(personas: readonly Held[]): ReadonlyMap<string, string> {
   const byId = new Map<string, string>()
   for (const one of personas) {
@@ -77,12 +73,6 @@ export function kindsUnderDomain(root: string): ReadonlySet<string> {
   return kindsUnder(DOMAIN, readingIn(root), (path) => valueAt(path, root))
 }
 
-// THE PAGES SOME PERSONA COULD BE NAMING. A persona states her domain as an address or as a bare
-// slug, and a bare slug names pages of many types, so the index stays the one that says which page
-// an edge reaches. What goes is asking it about pages no persona named at all: the answer was
-// sought once for each of eleven thousand pages to find thirty-nine of them. A slug two page types
-// each hold widens this set rather than narrowing it, so the index still decides and the cost is
-// one more listing.
 function couldBeChampioned(
   personas: readonly Held[],
   addresses: ReadonlySet<string>
@@ -96,7 +86,7 @@ function couldBeChampioned(
   }
   const wanted = new Set<string>()
   for (const one of personas) {
-    const named = textAt(one.value, CHAMPIONS)
+    const named = textAt(one.value, CHAMPIONS) ?? textAt(one.value, CHAMPIONS_WAS)
     if (named === null) continue
     if (named.includes("/")) {
       if (addresses.has(named)) wanted.add(named)
@@ -121,10 +111,6 @@ export function domainsDrawn(root: string): readonly DomainRow[] {
     if (address !== null) addressById.set(one.id, address)
   }
   const addresses = new Set(addressById.values())
-  // THE PART EDGE READ OFF THE PAGE THAT NAMES THE PART. The relation index answers the same edge
-  // from the other end, at one directory listing for each page it is asked about. The parts a page
-  // names came in on the line that listed the page, so the whole tree is built from what has
-  // already been read. A part naming no page listed here makes no edge either way.
   const edges = listed.flatMap((one) => {
     const parent = addressById.get(one.id)
     if (parent === undefined) return []
@@ -146,10 +132,8 @@ export function domainsDrawn(root: string): readonly DomainRow[] {
     const address = addressById.get(one.id)
     if (address === undefined) continue
     const above = parentsOf.get(address) ?? []
-    // A DOMAIN TWO PERSONAS CHAMPION NAMES THE FIRST BY NAME, so which one is drawn does not turn
-    // on what order the index answered in.
     const champions = championed.has(address)
-      ? [...idsNaming(reading, one.id, CHAMPIONED)]
+      ? [...idsNaming(reading, one.id, CHAMPIONED), ...idsNaming(reading, one.id, CHAMPIONED_WAS)]
           .map((id) => personaBy.get(id))
           .filter((slug): slug is string => slug !== undefined)
           .sort()
