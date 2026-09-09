@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../scripture-passage.page-type.ts"
 
 export const enos1 = {
   id: "019f0976-db3c-79aa-9232-5bd07d0d9d72",
