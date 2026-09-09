@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const luckyGlimmer = {
   id: "01a06572-95d0-7763-8006-abf1d2c6f0d6",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "lucky-glimmer",
   title: "Lucky Glimmer",
   world: "the-wandering-inn",

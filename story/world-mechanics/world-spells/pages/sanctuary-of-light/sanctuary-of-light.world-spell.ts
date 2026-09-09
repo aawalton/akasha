@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const sanctuaryOfLight = {
   id: "01a06572-95de-7588-9007-5d0f7659aec5",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "sanctuary-of-light",
   title: "Sanctuary of Light",
   world: "the-wandering-inn",

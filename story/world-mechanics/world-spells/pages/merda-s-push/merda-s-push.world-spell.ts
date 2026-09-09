@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const merdaSPush = {
   id: "01a06572-95d2-7776-b782-cb2f14ce0add",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "merda-s-push",
   title: "Merda’s Push",
   world: "the-wandering-inn",

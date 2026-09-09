@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const massSpellTransmuteAirToWater = {
   id: "01a06572-95d2-75b6-9967-16997cfd67c9",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "mass-spell-transmute-air-to-water",
   title: "Mass Spell: Transmute Air to Water",
   world: "the-wandering-inn",

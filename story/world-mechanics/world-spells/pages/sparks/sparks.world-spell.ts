@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const sparks = {
   id: "01a06572-95e1-7cb5-8666-47c37f2fee84",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "sparks",
   title: "Sparks",
   world: "the-wandering-inn",

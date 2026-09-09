@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const magicNull = {
   id: "01a06572-95d1-7941-aa36-f32dbbb8ef83",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "magic-null",
   title: "Magic Null",
   world: "the-wandering-inn",

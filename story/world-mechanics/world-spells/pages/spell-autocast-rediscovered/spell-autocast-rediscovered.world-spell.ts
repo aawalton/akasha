@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const spellAutocastRediscovered = {
   id: "01a06572-95e2-768f-a488-4dff3fd0813f",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "spell-autocast-rediscovered",
   title: "Spell – Autocast Rediscovered!",
   world: "the-wandering-inn",

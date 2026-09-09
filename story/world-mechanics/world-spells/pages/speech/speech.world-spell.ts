@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const speech = {
   id: "01a06572-95e2-7bdd-a65f-f435a354cf02",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "speech",
   title: "Speech",
   world: "the-wandering-inn",

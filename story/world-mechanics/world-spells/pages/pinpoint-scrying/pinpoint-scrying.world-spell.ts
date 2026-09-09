@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const pinpointScrying = {
   id: "01a06572-95db-76ca-86be-e891e50f8925",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "pinpoint-scrying",
   title: "Pinpoint Scrying",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const plagueOfFilth = {
   id: "01a06572-95db-75bb-bee3-0b2624208659",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "plague-of-filth",
   title: "Plague of Filth",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const ritualOfTheVerdantBloom = {
   id: "01a06572-95de-7798-aa6f-d3e98fd05fd2",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "ritual-of-the-verdant-bloom",
   title: "Ritual of the Verdant Bloom",
   world: "the-wandering-inn",

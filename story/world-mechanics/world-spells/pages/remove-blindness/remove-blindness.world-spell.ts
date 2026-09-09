@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const removeBlindness = {
   id: "01a06572-95dc-7bb8-a51c-cf847351d055",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "remove-blindness",
   title: "Remove Blindness",
   world: "the-wandering-inn",

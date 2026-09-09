@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const magnesisAttractionPolarity = {
   id: "01a06572-95d1-7c9e-ba6c-626741cf6184",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "magnesis-attraction-polarity",
   title: "Magnesis: Attraction Polarity",
   world: "the-wandering-inn",
