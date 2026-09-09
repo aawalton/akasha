@@ -5,7 +5,7 @@ export const prophets = {
   pageTypeSlug: "author-collection",
   slug: "prophets",
   title: "Prophets",
-  partOfCollectionSlugs: ["faith-authors"],
+  partOfCollections: ["faith-authors"],
   position: 1,
   ownLength: 0,
   ownProgress: 0,

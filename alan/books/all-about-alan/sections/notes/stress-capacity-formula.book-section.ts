@@ -8,7 +8,7 @@ export const stressCapacityFormula = {
   sectionOf: "all-about-alan",
   description:
     "Stress-capacity cost formula — difficulty levels, multiplier table, anchor unit, cost base tiers.",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

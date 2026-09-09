@@ -5,7 +5,7 @@ export const problems1100 = {
   pageTypeSlug: "game-achievement",
   slug: "problems-1-100",
   title: "Problems 1-100",
-  partOfCollectionSlugs: ["project-euler"],
+  partOfCollections: ["project-euler"],
   position: 1,
   ownLength: 625000,
   ownProgress: 625000,

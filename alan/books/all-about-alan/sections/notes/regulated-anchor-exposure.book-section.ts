@@ -6,7 +6,7 @@ export const regulatedAnchorExposure = {
   slug: "regulated-anchor-exposure",
   title: "Regulated-anchor exposure",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

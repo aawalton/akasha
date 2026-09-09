@@ -6,7 +6,7 @@ export const dilemmasAndOpenQuestions = {
   slug: "dilemmas-and-open-questions",
   title: "Dilemmas, settled dials, and open questions",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

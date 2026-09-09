@@ -5,7 +5,7 @@ export const fantasyAuthors = {
   pageTypeSlug: "author-collection",
   slug: "fantasy-authors",
   title: "Fantasy Authors",
-  partOfCollectionSlugs: ["authors"],
+  partOfCollections: ["authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -8,7 +8,7 @@ export const scope = {
   sectionOf: "book-section/my-projects/solar-power",
   description:
     "Scope and architectural decisions for the solar power project — site inputs, loads in/out of scope, and the constraints that shape sizing.",
-  partOfCollectionSlugs: ["book-section/my-projects/solar-power"],
+  partOfCollections: ["book-section/my-projects/solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -6,7 +6,7 @@ export const fawnCollapse = {
   slug: "fawn-collapse",
   title: "The fawn collapse — Upholder to Rebel at ~age 20",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

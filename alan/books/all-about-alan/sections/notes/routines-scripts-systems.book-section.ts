@@ -7,7 +7,7 @@ export const routinesScriptsSystems = {
   title: "Routines, scripts, and system-rigidity",
   sectionOf: "all-about-alan",
   description: "Routines, scripts, and system-rigidity — autism × ADHD intersection.",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

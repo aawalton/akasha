@@ -8,7 +8,7 @@ export const socialExperience = {
   sectionOf: "all-about-alan",
   description:
     "Social experience — fatigue, eye contact, masking, conversation depth, expression-reading, communication style, group size, empathy.",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

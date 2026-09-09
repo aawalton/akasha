@@ -8,7 +8,7 @@ export const recommendation = {
   sectionOf: "book-section/solar-power/sizing",
   description:
     "Sensitivity levers ranked by leverage, the envelope-retrofit bracket called out, and the single planning case for the next iteration to evaluate bids against.",
-  partOfCollectionSlugs: ["book-section/solar-power/sizing"],
+  partOfCollections: ["book-section/solar-power/sizing"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

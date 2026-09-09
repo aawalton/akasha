@@ -6,7 +6,7 @@ export const focusDiffuseAlternation = {
   slug: "focus-diffuse-alternation",
   title: "Focus/diffuse alternation",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -8,7 +8,7 @@ export const selah = {
   sectionOf: "all-about-alan",
   description:
     "Selah — Alan's companion in prayer on the Faith axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

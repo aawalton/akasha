@@ -6,7 +6,7 @@ export const presentTenseModel = {
   slug: "present-tense-model",
   title: "Present-tense conceptual model",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

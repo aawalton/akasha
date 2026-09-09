@@ -6,7 +6,7 @@ export const conceptualEmotionalWall = {
   slug: "conceptual-emotional-wall",
   title: "The conceptual-emotional wall",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

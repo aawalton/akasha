@@ -7,7 +7,7 @@ export const bookChapter005ThePipeline = {
   title: "The pipeline",
   sectionOf: "my-strategy",
   position: 5,
-  partOfCollectionSlugs: ["my-strategy"],
+  partOfCollections: ["my-strategy"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

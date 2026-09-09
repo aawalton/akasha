@@ -7,7 +7,7 @@ export const observations = {
   title: "Summary Observations",
   sectionOf: "book-section/solar-power/installers",
   description: "Summary observations on Provo / Utah solar installer landscape.",
-  partOfCollectionSlugs: ["book-section/solar-power/installers"],
+  partOfCollections: ["book-section/solar-power/installers"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

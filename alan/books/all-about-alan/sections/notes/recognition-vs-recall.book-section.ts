@@ -8,7 +8,7 @@ export const recognitionVsRecall = {
   sectionOf: "all-about-alan",
   description:
     "Recognition vs. recall — distinction that refines the aphantasia mechanism (recognition intact, recall broken).",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

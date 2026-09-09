@@ -6,7 +6,7 @@ export const visualSensitivityBundle = {
   slug: "visual-sensitivity-bundle",
   title: "Visual-sensitivity bundle",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

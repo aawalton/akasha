@@ -5,7 +5,7 @@ export const oneBowlHealthyOatmealChocolateChipCookies = {
   pageTypeSlug: "recipe",
   slug: "one-bowl-healthy-oatmeal-chocolate-chip-cookies",
   title: "One-Bowl Healthy Oatmeal Chocolate Chip Cookies",
-  partOfCollectionSlugs: ["cookies"],
+  partOfCollections: ["cookies"],
   position: 0,
   ownLength: 6250,
   ownProgress: 0,

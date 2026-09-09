@@ -6,7 +6,7 @@ export const selfOptimizationInBurnout = {
   slug: "self-optimization-in-burnout",
   title: "Self-optimization in burnout",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

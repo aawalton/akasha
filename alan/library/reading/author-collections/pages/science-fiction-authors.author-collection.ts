@@ -5,7 +5,7 @@ export const scienceFictionAuthors = {
   pageTypeSlug: "author-collection",
   slug: "science-fiction-authors",
   title: "Science Fiction Authors",
-  partOfCollectionSlugs: ["authors"],
+  partOfCollections: ["authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

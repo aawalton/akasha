@@ -8,7 +8,7 @@ export const recoveryRates = {
   sectionOf: "all-about-alan",
   description:
     "Stress-capacity recovery rates — deep meditative breathing, rest, sleep, hot baths, the Nuropod.",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

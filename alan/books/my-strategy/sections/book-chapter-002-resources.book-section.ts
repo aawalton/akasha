@@ -7,7 +7,7 @@ export const bookChapter002Resources = {
   title: "What I spend",
   sectionOf: "my-strategy",
   position: 2,
-  partOfCollectionSlugs: ["my-strategy"],
+  partOfCollections: ["my-strategy"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

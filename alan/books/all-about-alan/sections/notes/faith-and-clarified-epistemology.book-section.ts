@@ -6,7 +6,7 @@ export const faithAndClarifiedEpistemology = {
   slug: "faith-and-clarified-epistemology",
   title: "Faith and the clarified epistemology",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -6,7 +6,7 @@ export const beingUnderstood = {
   slug: "being-understood",
   title: "Being understood — the alignment ladder and the accepted gap",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

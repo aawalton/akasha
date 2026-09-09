@@ -8,7 +8,7 @@ export const euCitizenshipSlovenia = {
   sectionOf: "book-section/second-passport/eu-citizenship",
   description:
     "All paths to Slovenian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (restricted), and current backlogs per path.",
-  partOfCollectionSlugs: ["book-section/second-passport/eu-citizenship"],
+  partOfCollections: ["book-section/second-passport/eu-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

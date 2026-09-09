@@ -8,7 +8,7 @@ export const efficiencyFactors = {
   sectionOf: "book-section/my-projects/solar-power",
   description:
     "Mechanical decomposition of rooftop solar efficiency factors — from atmospheric irradiance to AC power at the meter — calibrated for Provo, UT.",
-  partOfCollectionSlugs: ["book-section/my-projects/solar-power"],
+  partOfCollections: ["book-section/my-projects/solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

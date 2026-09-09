@@ -8,7 +8,7 @@ export const employmentCessation = {
   sectionOf: "all-about-alan",
   description:
     "Employment cessation as a system — the 80% cost cut, the cost-vs-capacity ratchet that forced it, and the financial bridge that made the cut implementable.",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

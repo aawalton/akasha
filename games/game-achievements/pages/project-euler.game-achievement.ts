@@ -5,7 +5,7 @@ export const projectEuler = {
   pageTypeSlug: "game-achievement",
   slug: "project-euler",
   title: "Project Euler",
-  partOfCollectionSlugs: ["game-achievements"],
+  partOfCollections: ["game-achievements"],
   position: 3,
   ownLength: 0,
   ownProgress: 0,

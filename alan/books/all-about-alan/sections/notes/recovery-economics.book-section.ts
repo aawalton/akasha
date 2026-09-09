@@ -6,7 +6,7 @@ export const recoveryEconomics = {
   slug: "recovery-economics",
   title: "The economics of recovery",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

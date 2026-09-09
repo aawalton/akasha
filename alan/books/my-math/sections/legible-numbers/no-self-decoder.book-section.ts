@@ -6,7 +6,7 @@ export const noSelfDecoder = {
   slug: "no-self-decoder",
   title: "No universe decodes itself",
   sectionOf: "my-math",
-  partOfCollectionSlugs: ["my-math"],
+  partOfCollections: ["my-math"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

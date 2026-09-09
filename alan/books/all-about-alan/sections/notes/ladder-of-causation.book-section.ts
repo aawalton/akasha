@@ -6,7 +6,7 @@ export const ladderOfCausation = {
   slug: "ladder-of-causation",
   title: "The persona system as a ladder of causation",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

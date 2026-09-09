@@ -6,7 +6,7 @@ export const faithFeltChannel = {
   slug: "faith-felt-channel",
   title: "The felt channel of faith",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -6,7 +6,7 @@ export const skinOnSkinPrevention = {
   slug: "skin-on-skin-prevention",
   title: "Skin-on-skin prevention",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

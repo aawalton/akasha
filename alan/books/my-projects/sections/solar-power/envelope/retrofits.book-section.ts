@@ -8,7 +8,7 @@ export const retrofits = {
   sectionOf: "book-section/solar-power/envelope",
   description:
     "Envelope retrofit packages ranked by heating-load-reduction-per-dollar — air sealing dominates, windows lose on energy alone.",
-  partOfCollectionSlugs: ["book-section/solar-power/envelope"],
+  partOfCollections: ["book-section/solar-power/envelope"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

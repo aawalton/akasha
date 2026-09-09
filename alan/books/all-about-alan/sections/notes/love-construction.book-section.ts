@@ -6,7 +6,7 @@ export const loveConstruction = {
   slug: "love-construction",
   title: "Love construction",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

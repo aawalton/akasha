@@ -8,7 +8,7 @@ export const incentives = {
   sectionOf: "book-section/solar-power/envelope",
   description:
     "Current envelope-retrofit incentives in Utah (May 2026) — federal 25C dead, Utah HOMES/HEAR pending, Rocky Mountain Power Wattsmart live — plus local contractor leads.",
-  partOfCollectionSlugs: ["book-section/solar-power/envelope"],
+  partOfCollections: ["book-section/solar-power/envelope"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

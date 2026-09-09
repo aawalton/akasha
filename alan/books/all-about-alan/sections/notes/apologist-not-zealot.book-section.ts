@@ -6,7 +6,7 @@ export const apologistNotZealot = {
   slug: "apologist-not-zealot",
   title: "Apologist, not zealot",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

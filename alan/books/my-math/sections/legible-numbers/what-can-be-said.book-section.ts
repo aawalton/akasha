@@ -6,7 +6,7 @@ export const whatCanBeSaid = {
   slug: "what-can-be-said",
   title: "What can be said about an illegible number",
   sectionOf: "my-math",
-  partOfCollectionSlugs: ["my-math"],
+  partOfCollections: ["my-math"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

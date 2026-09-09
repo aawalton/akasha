@@ -7,7 +7,7 @@ export const otherResidencySouthKorea = {
   title: "South Korea",
   sectionOf: "book-section/second-passport/other-residency",
   description: "South Korea residency paths (May 2026 snapshot).",
-  partOfCollectionSlugs: ["book-section/second-passport/other-residency"],
+  partOfCollections: ["book-section/second-passport/other-residency"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

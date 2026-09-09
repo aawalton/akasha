@@ -5,7 +5,7 @@ export const musicalTheater = {
   pageTypeSlug: "release-collection",
   slug: "musical-theater",
   title: "Musical Theater",
-  partOfCollectionSlugs: ["artists"],
+  partOfCollections: ["artists"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -6,7 +6,7 @@ export const failureModeAndGuard = {
   slug: "failure-mode-and-guard",
   title: "Compression epistemology — failure mode and guard",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -8,7 +8,7 @@ export const specialInterests = {
   sectionOf: "all-about-alan",
   description:
     'Special interests — sustained deep interests via "same context, novel content"; the autism × ADHD intersection.',
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

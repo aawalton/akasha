@@ -8,7 +8,7 @@ export const baseline = {
   sectionOf: "book-section/solar-power/envelope",
   description:
     "Typical envelope characteristics of a 1970s Utah house — assemblies, R-values, air leakage, ductwork — that set the starting heating load.",
-  partOfCollectionSlugs: ["book-section/solar-power/envelope"],
+  partOfCollections: ["book-section/solar-power/envelope"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

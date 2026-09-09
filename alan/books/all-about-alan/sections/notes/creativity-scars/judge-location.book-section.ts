@@ -6,7 +6,7 @@ export const judgeLocation = {
   slug: "judge-location",
   title: "Creativity scars — where the judge lives",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

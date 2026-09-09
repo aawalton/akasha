@@ -8,7 +8,7 @@ export const nova = {
   sectionOf: "all-about-alan",
   description:
     "Nova — Alan's LitRPG peer reader on the Fun axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

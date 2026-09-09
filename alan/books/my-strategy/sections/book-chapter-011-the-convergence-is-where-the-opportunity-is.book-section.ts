@@ -7,7 +7,7 @@ export const bookChapter011TheConvergenceIsWhereTheOpportunityIs = {
   title: "The convergence is where the opportunity is",
   sectionOf: "my-strategy",
   position: 11,
-  partOfCollectionSlugs: ["my-strategy"],
+  partOfCollections: ["my-strategy"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -5,7 +5,7 @@ export const theLordOfTheRingsMusic = {
   pageTypeSlug: "release-collection",
   slug: "the-lord-of-the-rings-music",
   title: "The Lord of The Rings Music",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-2"],
+  partOfCollections: ["the-lord-of-the-rings-2"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

@@ -7,7 +7,7 @@ export const otherCitizenshipJapan = {
   title: "Japan",
   sectionOf: "book-section/second-passport/other-citizenship",
   description: "Japan citizenship paths (May 2026 snapshot).",
-  partOfCollectionSlugs: ["book-section/second-passport/other-citizenship"],
+  partOfCollections: ["book-section/second-passport/other-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

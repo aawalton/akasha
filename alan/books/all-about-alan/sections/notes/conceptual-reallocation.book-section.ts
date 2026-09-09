@@ -8,7 +8,7 @@ export const conceptualReallocation = {
   sectionOf: "all-about-alan",
   description:
     "Conceptual reallocation — advantage of aphantasia where mental process is repurposed from sensory / emotional to conceptual.",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

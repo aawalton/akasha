@@ -6,7 +6,7 @@ export const progression = {
   slug: "progression",
   title: "Safety — progression and the two pillars",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

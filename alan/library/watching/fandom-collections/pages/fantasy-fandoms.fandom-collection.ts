@@ -5,7 +5,7 @@ export const fantasyFandoms = {
   pageTypeSlug: "fandom-collection",
   slug: "fantasy-fandoms",
   title: "Fantasy Fandoms",
-  partOfCollectionSlugs: ["fandoms"],
+  partOfCollections: ["fandoms"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

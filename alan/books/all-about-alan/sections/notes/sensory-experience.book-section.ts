@@ -8,7 +8,7 @@ export const sensoryExperience = {
   sectionOf: "all-about-alan",
   description:
     "Sensory experience — sound, light, touch, taste, interoception, proprioception, sensory-seeking.",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -6,7 +6,7 @@ export const churchAuthorityAndTheBigSmallLine = {
   slug: "church-authority-and-the-big-small-line",
   title: "Church authority and the big/small line",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

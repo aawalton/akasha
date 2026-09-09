@@ -8,7 +8,7 @@ export const medicalSocialIsolation = {
   sectionOf: "all-about-alan",
   description:
     "Medical social isolation — the year-long, framed-as-medical cut to family-minimum-plus-church, the calling as a misclassification, and how it composes with the rest of the recovery stack.",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

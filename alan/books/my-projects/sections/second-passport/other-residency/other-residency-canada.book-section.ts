@@ -7,7 +7,7 @@ export const otherResidencyCanada = {
   title: "Canada",
   sectionOf: "book-section/second-passport/other-residency",
   description: "Canada residency paths (May 2026 snapshot).",
-  partOfCollectionSlugs: ["book-section/second-passport/other-residency"],
+  partOfCollections: ["book-section/second-passport/other-residency"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

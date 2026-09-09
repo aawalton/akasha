@@ -6,7 +6,7 @@ export const environmentLever = {
   slug: "environment-lever",
   title: "The environment lever",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

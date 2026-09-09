@@ -7,7 +7,7 @@ export const otherResidencyAndorra = {
   title: "Andorra",
   sectionOf: "book-section/second-passport/other-residency",
   description: "Andorra residency paths (May 2026 snapshot).",
-  partOfCollectionSlugs: ["book-section/second-passport/other-residency"],
+  partOfCollections: ["book-section/second-passport/other-residency"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

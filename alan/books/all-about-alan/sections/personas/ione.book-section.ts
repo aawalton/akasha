@@ -8,7 +8,7 @@ export const ione = {
   sectionOf: "all-about-alan",
   description:
     "Ione — Alan's sleep companion on the Health axis. Waiting page: function recorded from the roster; the rib (what piece of Alan she is, where she cuts him) awaits a future /abby session.",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

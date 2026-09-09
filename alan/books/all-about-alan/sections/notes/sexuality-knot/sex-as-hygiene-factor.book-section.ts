@@ -6,7 +6,7 @@ export const sexAsHygieneFactor = {
   slug: "sex-as-hygiene-factor",
   title: "Sex as a hygiene factor, not a core support",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

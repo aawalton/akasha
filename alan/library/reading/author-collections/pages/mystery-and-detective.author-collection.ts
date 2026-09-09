@@ -5,7 +5,7 @@ export const mysteryAndDetective = {
   pageTypeSlug: "author-collection",
   slug: "mystery-and-detective",
   title: "Mystery and Detective",
-  partOfCollectionSlugs: ["authors"],
+  partOfCollections: ["authors"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

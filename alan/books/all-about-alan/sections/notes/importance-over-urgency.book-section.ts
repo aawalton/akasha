@@ -6,7 +6,7 @@ export const importanceOverUrgency = {
   slug: "importance-over-urgency",
   title: "Importance over urgency",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

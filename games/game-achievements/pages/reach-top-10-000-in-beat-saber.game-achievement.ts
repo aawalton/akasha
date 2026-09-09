@@ -5,7 +5,7 @@ export const reachTop10000InBeatSaber = {
   pageTypeSlug: "game-achievement",
   slug: "reach-top-10-000-in-beat-saber",
   title: "Reach Top 10,000 in Beat Saber",
-  partOfCollectionSlugs: ["beat-saber"],
+  partOfCollections: ["beat-saber"],
   position: -10000,
   ownLength: 1325175,
   ownProgress: 1325175,

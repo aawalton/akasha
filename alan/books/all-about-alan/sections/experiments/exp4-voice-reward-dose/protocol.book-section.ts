@@ -6,7 +6,7 @@ export const protocol = {
   slug: "protocol",
   title: "Exp 4 — voice-reward DOSE test (long-message)",
   sectionOf: "all-about-alan",
-  partOfCollectionSlugs: ["all-about-alan"],
+  partOfCollections: ["all-about-alan"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection
