@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.ts"
+import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.types.ts"
 import type { CompanionRoles } from "./properties/companion-roles.relation-property.ts"
 
 export type TemperCompanionProgress = TemperCharacterThing & {

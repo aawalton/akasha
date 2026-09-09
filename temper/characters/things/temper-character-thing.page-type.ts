@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperThing } from "../../things/temper-thing.page-type.ts"
-import type { Completion } from "./properties/completion.file-property.ts"
-import type { TargetBuildId } from "./properties/target-build-id.text-property.ts"
-
-export type TemperCharacterThing = TemperThing & {
-  completion?: Completion
-  targetBuildId?: TargetBuildId
-}
 
 export const temperCharacterThing = {
   id: "01a05fc7-2438-772b-b909-71a3ac0f3bc7",
@@ -27,4 +19,5 @@ export const temperCharacterThing = {
       statement: "A completion file is kept word for word as the game handed the file over.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
