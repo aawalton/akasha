@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const dresdenFilesPeaceTalks = {
   id: "019db533-f39a-7c03-9ca9-678443f151c1",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dresden-files-peace-talks",
   title: "Dresden Files: Peace Talks",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const expeditionaryForceGateway = {
   id: "019db533-f39b-70de-a43a-b709e528e325",
   pageTypeSlug: "book",
+  type: "book",
   slug: "expeditionary-force-gateway",
   title: "Expeditionary Force: Gateway",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldMakingMoney = {
   id: "019db533-f388-7d67-a16f-ae9e9aa87c93",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-making-money",
   title: "Discworld: Making Money",
   status: "not-started",

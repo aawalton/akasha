@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldTheLightFantastic = {
   id: "019db533-f39a-78f7-bae1-f15581d95c39",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-the-light-fantastic",
   title: "Discworld: The Light Fantastic",
   status: "not-started",

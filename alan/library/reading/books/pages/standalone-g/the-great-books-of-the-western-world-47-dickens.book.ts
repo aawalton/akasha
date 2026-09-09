@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theGreatBooksOfTheWesternWorld47Dickens = {
   id: "019db533-f39d-76f7-b3f2-8c2ff4fe2269",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-great-books-of-the-western-world-47-dickens",
   title: "The Great Books of the Western World 47: Dickens",
   status: "not-started",

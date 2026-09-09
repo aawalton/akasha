@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theGoodGuysBadToTheThrone = {
   id: "019db533-f391-7915-9403-f6ffef6b3e03",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-good-guys-bad-to-the-throne",
   title: "The Good Guys: Bad to the Throne",
   status: "not-started",

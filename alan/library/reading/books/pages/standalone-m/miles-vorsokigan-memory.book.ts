@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const milesVorsokiganMemory = {
   id: "019db533-f39a-7f34-aac7-2e2bfa21aecc",
   pageTypeSlug: "book",
+  type: "book",
   slug: "miles-vorsokigan-memory",
   title: "Miles Vorsokigan: Memory",
   status: "not-started",

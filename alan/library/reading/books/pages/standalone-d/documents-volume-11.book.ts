@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const documentsVolume11 = {
   id: "019db533-f39d-74e2-a621-8d15b46b5d0b",
   pageTypeSlug: "book",
+  type: "book",
   slug: "documents-volume-11",
   title: "Documents Volume 11",
   status: "not-started",

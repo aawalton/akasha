@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldUnseenAcademicals = {
   id: "019db533-f388-7da2-b4e2-191d688d8feb",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-unseen-academicals",
   title: "Discworld: Unseen Academicals",
   status: "not-started",

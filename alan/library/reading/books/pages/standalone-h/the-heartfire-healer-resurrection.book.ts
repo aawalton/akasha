@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theHeartfireHealerResurrection = {
   id: "019db533-f38a-730e-bf63-49e2953eec70",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-heartfire-healer-resurrection",
   title: "The Heartfire Healer: Resurrection",
   status: "not-started",

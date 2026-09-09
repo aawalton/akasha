@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theLastHorizonTheCaptain = {
   id: "019db533-f39a-7b3d-9ce3-fa2fbbe2ae41",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-last-horizon-the-captain",
   title: "The Last Horizon: The Captain",
   status: "not-started",

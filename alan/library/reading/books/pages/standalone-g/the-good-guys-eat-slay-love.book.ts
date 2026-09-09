@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theGoodGuysEatSlayLove = {
   id: "019db533-f391-793b-97c4-b3d805f077ea",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-good-guys-eat-slay-love",
   title: "The Good Guys: Eat, Slay, Love",
   status: "completed",

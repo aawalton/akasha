@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const dresdenFilesProvenGuilty = {
   id: "019db533-f39a-7d33-8ce8-68cca84f6301",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dresden-files-proven-guilty",
   title: "Dresden Files: Proven Guilty",
   status: "not-started",

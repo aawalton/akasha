@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const dresdenFilesDeathMasks = {
   id: "019db533-f39b-7131-855a-bbf01e71eb29",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dresden-files-death-masks",
   title: "Dresden Files: Death Masks",
   status: "not-started",

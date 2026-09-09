@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldThud = {
   id: "019db533-f388-7e9c-b552-36f45b25e6a4",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-thud",
   title: "Discworld: Thud!",
   status: "not-started",

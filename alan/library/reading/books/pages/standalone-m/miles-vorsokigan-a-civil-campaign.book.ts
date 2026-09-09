@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const milesVorsokiganACivilCampaign = {
   id: "019db533-f39b-743d-9bca-8b1efc617794",
   pageTypeSlug: "book",
+  type: "book",
   slug: "miles-vorsokigan-a-civil-campaign",
   title: "Miles Vorsokigan: A Civil Campaign",
   status: "not-started",

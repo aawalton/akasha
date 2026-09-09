@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const excessionCultureBook4 = {
   id: "019db533-f39b-7024-a0bc-0216922a00ed",
   pageTypeSlug: "book",
+  type: "book",
   slug: "excession-culture-book-4",
   title: "Excession (Culture Book 4)",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const honorHarringtonCrownOfSlavesTorchOfFreedom = {
   id: "019db533-f39a-78c4-b3ea-a071fc3d339a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "honor-harrington-crown-of-slaves-torch-of-freedom",
   title: "Honor Harrington - Crown of Slaves: Torch of Freedom",
   status: "not-started",

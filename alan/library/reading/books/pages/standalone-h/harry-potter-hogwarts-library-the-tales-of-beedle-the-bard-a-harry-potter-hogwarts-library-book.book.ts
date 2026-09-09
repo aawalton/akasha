@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const harryPotterHogwartsLibraryTheTalesOfBeedleTheBardAHarryPotterHogwartsLibraryBook = {
   id: "019db533-f38b-707e-af18-ac73e95d97a8",
   pageTypeSlug: "book",
+  type: "book",
   slug: "harry-potter-hogwarts-library-the-tales-of-beedle-the-bard-a-harry-potter-hogwarts-library-book",
   title:
     "Harry Potter: Hogwarts Library: The Tales of Beedle the Bard: A Harry Potter Hogwarts Library Book",

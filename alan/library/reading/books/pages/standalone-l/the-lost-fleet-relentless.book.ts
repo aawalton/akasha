@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theLostFleetRelentless = {
   id: "019db533-f39a-78f0-b041-caa5fefd323f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-lost-fleet-relentless",
   title: "The Lost Fleet: Relentless",
   status: "not-started",

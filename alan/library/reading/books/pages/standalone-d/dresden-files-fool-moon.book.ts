@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const dresdenFilesFoolMoon = {
   id: "019db533-f39b-70f9-8592-a5f8828151df",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dresden-files-fool-moon",
   title: "Dresden Files: Fool Moon",
   status: "not-started",

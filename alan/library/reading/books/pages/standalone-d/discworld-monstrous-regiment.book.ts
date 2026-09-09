@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldMonstrousRegiment = {
   id: "019db533-f388-7db9-b03e-57be736bae2c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-monstrous-regiment",
   title: "Discworld: Monstrous Regiment",
   status: "not-started",

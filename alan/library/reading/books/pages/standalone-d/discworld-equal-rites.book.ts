@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldEqualRites = {
   id: "019db533-f39b-7080-9393-7bdca0681d95",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-equal-rites",
   title: "Discworld: Equal Rites",
   status: "not-started",

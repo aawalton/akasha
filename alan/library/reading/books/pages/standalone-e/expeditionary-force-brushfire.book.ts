@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const expeditionaryForceBrushfire = {
   id: "019db533-f39b-72ea-b8fe-2a765823b760",
   pageTypeSlug: "book",
+  type: "book",
   slug: "expeditionary-force-brushfire",
   title: "Expeditionary Force: Brushfire",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldLordsAndLadies = {
   id: "019db533-f39a-7ec9-9e9e-eeb5bb13c6e0",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-lords-and-ladies",
   title: "Discworld: Lords and Ladies",
   status: "not-started",

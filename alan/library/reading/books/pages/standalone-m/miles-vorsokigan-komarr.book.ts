@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const milesVorsokiganKomarr = {
   id: "019db533-f39a-7f05-b2f3-f77919a502fe",
   pageTypeSlug: "book",
+  type: "book",
   slug: "miles-vorsokigan-komarr",
   title: "Miles Vorsokigan: Komarr",
   status: "not-started",

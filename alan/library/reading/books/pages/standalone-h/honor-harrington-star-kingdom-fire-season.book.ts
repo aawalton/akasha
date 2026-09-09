@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const honorHarringtonStarKingdomFireSeason = {
   id: "019db533-f39b-709c-a617-5d54c97fe62d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "honor-harrington-star-kingdom-fire-season",
   title: "Honor Harrington - Star Kingdom: Fire Season",
   status: "not-started",

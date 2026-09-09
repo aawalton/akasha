@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const marchUpcountry = {
   id: "019db533-f39a-7f99-9bd4-579f74a99422",
   pageTypeSlug: "book",
+  type: "book",
   slug: "march-upcountry",
   title: "March Upcountry",
   status: "not-started",

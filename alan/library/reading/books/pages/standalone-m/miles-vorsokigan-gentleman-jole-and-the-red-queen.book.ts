@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const milesVorsokiganGentlemanJoleAndTheRedQueen = {
   id: "019db533-f39b-711b-84ba-fece2c41d58c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "miles-vorsokigan-gentleman-jole-and-the-red-queen",
   title: "Miles Vorsokigan: Gentleman Jole and the Red Queen",
   status: "not-started",

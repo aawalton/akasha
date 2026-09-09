@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const milesVorsokiganCetaganda = {
   id: "019db533-f39b-7219-a7a3-7717adb3f2ec",
   pageTypeSlug: "book",
+  type: "book",
   slug: "miles-vorsokigan-cetaganda",
   title: "Miles Vorsokigan: Cetaganda",
   status: "not-started",

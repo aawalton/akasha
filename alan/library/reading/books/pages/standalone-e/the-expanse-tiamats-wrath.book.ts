@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theExpanseTiamatsWrath = {
   id: "019db533-f39a-7a44-b1a4-51586e1438ae",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-expanse-tiamats-wrath",
   title: "The Expanse: Tiamat's Wrath",
   status: "not-started",

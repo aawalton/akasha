@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const faithRewarded = {
   id: "019db533-f39d-7968-923f-eab655cc7d21",
   pageTypeSlug: "book",
+  type: "book",
   slug: "faith-rewarded",
   title: "Faith Rewarded",
   status: "not-started",

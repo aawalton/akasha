@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldFeetOfClay = {
   id: "019db533-f39b-708e-a859-ec9ef22812b2",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-feet-of-clay",
   title: "Discworld: Feet of Clay",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theElderEmpireShadowOfShadowAndSea = {
   id: "019db533-f39a-7da9-b436-8921e4a4e8df",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-elder-empire-shadow-of-shadow-and-sea",
   title: "The Elder Empire - Shadow: Of Shadow and Sea",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const journeyToTheWestTheJourneyToTheWest4 = {
   id: "019db533-f388-7d1c-85f1-dcad7ecf7822",
   pageTypeSlug: "book",
+  type: "book",
   slug: "journey-to-the-west-the-journey-to-the-west-4",
   title: "Journey to The West: The Journey to the West",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theLastTide = {
   id: "019db533-f39d-7670-8508-7f01de4d4bfe",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-last-tide",
   title: "The Last Tide",
   status: "completed",

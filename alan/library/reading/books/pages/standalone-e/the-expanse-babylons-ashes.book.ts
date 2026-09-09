@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theExpanseBabylonsAshes = {
   id: "019db533-f39b-7246-918b-22d792696315",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-expanse-babylons-ashes",
   title: "The Expanse: Babylon's Ashes",
   status: "not-started",

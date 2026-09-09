@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldMaskerade = {
   id: "019db533-f39a-7f90-a39e-c8672a21e137",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-maskerade",
   title: "Discworld: Maskerade",
   status: "not-started",

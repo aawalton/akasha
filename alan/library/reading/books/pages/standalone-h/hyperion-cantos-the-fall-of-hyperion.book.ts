@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const hyperionCantosTheFallOfHyperion = {
   id: "019db533-f39a-7a5e-9947-3508b47cbe5d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "hyperion-cantos-the-fall-of-hyperion",
   title: "Hyperion Cantos: The Fall of Hyperion",
   status: "not-started",

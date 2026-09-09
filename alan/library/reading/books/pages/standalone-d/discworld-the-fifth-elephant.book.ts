@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldTheFifthElephant = {
   id: "019db533-f388-7e69-bf74-99838491500b",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-the-fifth-elephant",
   title: "Discworld: The Fifth Elephant",
   status: "not-started",

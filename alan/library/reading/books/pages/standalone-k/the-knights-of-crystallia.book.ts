@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theKnightsOfCrystallia = {
   id: "019db533-f39d-7206-a727-51eca1aae853",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-knights-of-crystallia",
   title: "The Knights of Crystallia",
   status: "completed",

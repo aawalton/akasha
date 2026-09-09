@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theGoodGuysFourBeheadingsAndAFuneral = {
   id: "019db533-f391-792f-bbc5-a78c00e5c91c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-good-guys-four-beheadings-and-a-funeral",
   title: "The Good Guys: Four Beheadings and a Funeral",
   status: "completed",

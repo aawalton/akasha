@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const joshuaChamberlain = {
   id: "019db533-f39d-79c4-9f2f-cf9f4fd16e93",
   pageTypeSlug: "book",
+  type: "book",
   slug: "joshua-chamberlain",
   title: "Joshua Chamberlain",
   status: "completed",

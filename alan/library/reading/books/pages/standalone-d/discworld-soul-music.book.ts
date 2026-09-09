@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldSoulMusic = {
   id: "019db533-f39a-7b11-ae36-5390de8f7987",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-soul-music",
   title: "Discworld: Soul Music",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const dresdenFilesWhiteNight = {
   id: "019db533-f39a-77db-af62-984dee1e1aed",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dresden-files-white-night",
   title: "Dresden Files: White Night",
   status: "not-started",

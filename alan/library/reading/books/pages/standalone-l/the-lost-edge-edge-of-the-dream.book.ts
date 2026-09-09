@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theLostEdgeEdgeOfTheDream = {
   id: "019db533-f388-7674-baa0-ea9668492555",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-lost-edge-edge-of-the-dream",
   title: "The Lost Edge: Edge of the Dream",
   status: "not-started",

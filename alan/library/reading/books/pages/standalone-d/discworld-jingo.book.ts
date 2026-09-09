@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldJingo = {
   id: "019db533-f388-7e02-a3ec-b142705dafa9",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-jingo",
   title: "Discworld: Jingo",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const earthenContendersUndisguisedHealer = {
   id: "019db533-f390-7f4a-8bb5-92aba4f6a5c4",
   pageTypeSlug: "book",
+  type: "book",
   slug: "earthen-contenders-undisguised-healer",
   title: "Earthen Contenders: Undisguised Healer",
   status: "completed",

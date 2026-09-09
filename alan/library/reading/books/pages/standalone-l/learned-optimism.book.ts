@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const learnedOptimism = {
   id: "019db533-f39d-7fb6-9763-19cb443d0b1e",
   pageTypeSlug: "book",
+  type: "book",
   slug: "learned-optimism",
   title: "Learned Optimism",
   status: "completed",

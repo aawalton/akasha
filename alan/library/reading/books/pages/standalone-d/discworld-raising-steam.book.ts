@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldRaisingSteam = {
   id: "019db533-f388-7e2e-ac65-ed3454bad032",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-raising-steam",
   title: "Discworld: Raising Steam",
   status: "not-started",

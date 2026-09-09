@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldTheLastContinent = {
   id: "019db533-f388-7df6-acb3-62098780eaec",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-the-last-continent",
   title: "Discworld: The Last Continent",
   status: "not-started",

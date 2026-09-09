@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const dresdenFilesBattleGround = {
   id: "019db533-f39b-7326-9ddc-b0674a7b4579",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dresden-files-battle-ground",
   title: "Dresden Files: Battle Ground",
   status: "not-started",

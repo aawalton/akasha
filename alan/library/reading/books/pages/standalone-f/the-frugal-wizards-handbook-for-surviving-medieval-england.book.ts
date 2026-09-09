@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theFrugalWizardsHandbookForSurvivingMedievalEngland = {
   id: "019db533-f39d-727a-8930-c085885d6434",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-frugal-wizards-handbook-for-surviving-medieval-england",
   title: "The Frugal Wizard's Handbook for Surviving Medieval England",
   status: "not-started",

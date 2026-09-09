@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theHeartfireHealerSchism = {
   id: "019db533-f38a-734a-bf2b-029d75177a6e",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-heartfire-healer-schism",
   title: "The Heartfire Healer: Schism",
   status: "not-started",

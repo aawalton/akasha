@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theExpanseCibolaBurn = {
   id: "019db533-f39b-7274-9a50-71fc68e2077c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-expanse-cibola-burn",
   title: "The Expanse: Cibola Burn",
   status: "not-started",

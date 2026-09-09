@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldNightWatch = {
   id: "019db533-f388-7e54-9921-489f4c02ea14",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-night-watch",
   title: "Discworld: Night Watch",
   status: "not-started",

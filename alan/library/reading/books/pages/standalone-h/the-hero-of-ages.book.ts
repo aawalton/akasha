@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theHeroOfAges = {
   id: "019db533-f39d-7023-a9e2-1ba3b61f850f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-hero-of-ages",
   title: "The Hero of Ages",
   status: "not-started",

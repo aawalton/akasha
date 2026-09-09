@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theExpanseAbaddonsGate = {
   id: "019db533-f39b-7193-9973-6081877c6ab6",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-expanse-abaddons-gate",
   title: "The Expanse: Abaddon's Gate",
   status: "not-started",

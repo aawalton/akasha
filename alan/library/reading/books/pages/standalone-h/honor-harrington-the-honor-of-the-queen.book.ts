@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const honorHarringtonTheHonorOfTheQueen = {
   id: "019db533-f39a-798e-bcda-6153f60bae1c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "honor-harrington-the-honor-of-the-queen",
   title: "Honor Harrington: The Honor of the Queen",
   status: "not-started",

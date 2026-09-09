@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldHogfather = {
   id: "019db533-f39b-70ed-9b28-45c4d66aacdf",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-hogfather",
   title: "Discworld: Hogfather",
   status: "not-started",

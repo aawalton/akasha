@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldTheColorOfMagic = {
   id: "019db533-f39a-7abb-b707-d29d16f17145",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-the-color-of-magic",
   title: "Discworld: The Color of Magic",
   status: "not-started",

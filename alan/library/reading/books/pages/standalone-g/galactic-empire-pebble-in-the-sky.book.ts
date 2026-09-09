@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const galacticEmpirePebbleInTheSky = {
   id: "019db533-f39a-7c5d-9396-0c15a1961f04",
   pageTypeSlug: "book",
+  type: "book",
   slug: "galactic-empire-pebble-in-the-sky",
   title: "Galactic Empire: Pebble in the Sky",
   status: "not-started",

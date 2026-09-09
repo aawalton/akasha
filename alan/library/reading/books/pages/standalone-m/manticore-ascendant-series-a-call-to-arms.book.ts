@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const manticoreAscendantSeriesACallToArms = {
   id: "019db533-f39b-74c0-a21c-bd84043baef8",
   pageTypeSlug: "book",
+  type: "book",
   slug: "manticore-ascendant-series-a-call-to-arms",
   title: "Manticore Ascendant Series: A Call to Arms",
   status: "not-started",

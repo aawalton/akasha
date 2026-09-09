@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const hyperionCantosRiseOfEndymion = {
   id: "019db533-f39a-7c27-8b65-fac0e1a74581",
   pageTypeSlug: "book",
+  type: "book",
   slug: "hyperion-cantos-rise-of-endymion",
   title: "Hyperion Cantos: Rise of Endymion",
   status: "not-started",

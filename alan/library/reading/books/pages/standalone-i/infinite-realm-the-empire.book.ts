@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const infiniteRealmTheEmpire = {
   id: "019db533-f391-7b3f-9c28-16cf6dbd15d6",
   pageTypeSlug: "book",
+  type: "book",
   slug: "infinite-realm-the-empire",
   title: "Infinite Realm: The Empire",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const aMoreExcellentWay = {
   id: "019db533-f39d-737e-97ba-6b4dfd78d5db",
   pageTypeSlug: "book",
+  type: "book",
   slug: "a-more-excellent-way",
   title: '"...A More Excellent Way"',
   status: "completed",

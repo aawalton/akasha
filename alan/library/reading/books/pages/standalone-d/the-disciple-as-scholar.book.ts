@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theDiscipleAsScholar = {
   id: "019db533-f39d-7856-8b54-384e23c56fb8",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-disciple-as-scholar",
   title: "The Disciple as Scholar",
   status: "paused",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theExpanseNemesisGames = {
   id: "019db533-f39a-7d73-b713-f31bc04d0d82",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-expanse-nemesis-games",
   title: "The Expanse: Nemesis Games",
   status: "not-started",

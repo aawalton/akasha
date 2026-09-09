@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const marchUpcountryMarchToTheStars = {
   id: "019db533-f39a-7e74-aa8c-118c313cd913",
   pageTypeSlug: "book",
+  type: "book",
   slug: "march-upcountry-march-to-the-stars",
   title: "March Upcountry: March to the Stars",
   status: "not-started",

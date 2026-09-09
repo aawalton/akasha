@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const fantasticBeastsFantasticBeastsAndWhereToFindThemTheOriginalScreenplay = {
   id: "019db533-f38b-7055-9271-63e81a79e3e7",
   pageTypeSlug: "book",
+  type: "book",
   slug: "fantastic-beasts-fantastic-beasts-and-where-to-find-them-the-original-screenplay",
   title: "Fantastic Beasts: Fantastic Beasts and Where to Find Them: The Original Screenplay",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theDivineDungeonDungeonMadness = {
   id: "019db533-f391-78b9-876a-0c233429183c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-divine-dungeon-dungeon-madness",
   title: "The Divine Dungeon: Dungeon Madness",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theFourthTurning = {
   id: "019db533-f39d-78be-b97f-1d72f49d6cd9",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-fourth-turning",
   title: "The Fourth Turning",
   status: "not-started",

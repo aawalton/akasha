@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const millennialMageCitybound = {
   id: "019db533-f391-72bb-81e5-a0421d645817",
   pageTypeSlug: "book",
+  type: "book",
   slug: "millennial-mage-citybound",
   title: "Millennial Mage: Citybound",
   status: "completed",

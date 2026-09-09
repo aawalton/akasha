@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theGoodGuysHeirTodayPawnTomorrow = {
   id: "019db533-f391-7974-8924-c050a2883e34",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-good-guys-heir-today-pawn-tomorrow",
   title: "The Good Guys: Heir Today, Pawn Tomorrow",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const doctrinalNewTestamentCommentaryVolume1 = {
   id: "019db533-f39d-71d6-a08f-0b6647e4b46d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "doctrinal-new-testament-commentary-volume-1",
   title: "Doctrinal New Testament Commentary Volume 1",
   status: "paused",

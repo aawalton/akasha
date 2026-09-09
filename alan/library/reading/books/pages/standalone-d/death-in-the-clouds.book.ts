@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const deathInTheClouds = {
   id: "019db533-f399-7c8a-864c-bf61a4d21755",
   pageTypeSlug: "book",
+  type: "book",
   slug: "death-in-the-clouds",
   title: "Death in the Clouds",
   status: "not-started",

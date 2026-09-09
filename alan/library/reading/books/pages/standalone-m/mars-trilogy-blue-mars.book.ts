@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const marsTrilogyBlueMars = {
   id: "019db533-f39b-72d4-94e6-40e3ae9938f9",
   pageTypeSlug: "book",
+  type: "book",
   slug: "mars-trilogy-blue-mars",
   title: "Mars Trilogy: Blue Mars",
   status: "not-started",

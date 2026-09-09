@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const millennialMageVoidbound = {
   id: "019db533-f391-72c6-862a-fad012b680f8",
   pageTypeSlug: "book",
+  type: "book",
   slug: "millennial-mage-voidbound",
   title: "Millennial Mage: Voidbound",
   status: "completed",

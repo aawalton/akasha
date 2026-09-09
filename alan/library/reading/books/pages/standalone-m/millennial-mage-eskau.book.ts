@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const millennialMageEskau = {
   id: "019db533-f391-72f4-95f7-40c3a7c3abe0",
   pageTypeSlug: "book",
+  type: "book",
   slug: "millennial-mage-eskau",
   title: "Millennial Mage: Eskau",
   status: "completed",

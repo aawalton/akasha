@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const honorHarringtonTheShortVictoriousWar = {
   id: "019db533-f39a-78d8-9b61-5db9a54c985a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "honor-harrington-the-short-victorious-war",
   title: "Honor Harrington: The Short Victorious War",
   status: "not-started",

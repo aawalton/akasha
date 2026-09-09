@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const grimGuys = {
   id: "019db533-f38a-7391-aed4-d98f82114120",
   pageTypeSlug: "book",
+  type: "book",
   slug: "grim-guys",
   title: "Grim Guys",
   status: "not-started",

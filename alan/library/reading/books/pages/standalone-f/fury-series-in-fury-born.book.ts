@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const furySeriesInFuryBorn = {
   id: "019db533-f39b-7108-baef-65ef3aff35fe",
   pageTypeSlug: "book",
+  type: "book",
   slug: "fury-series-in-fury-born",
   title: "Fury Series: In Fury Born",
   status: "not-started",

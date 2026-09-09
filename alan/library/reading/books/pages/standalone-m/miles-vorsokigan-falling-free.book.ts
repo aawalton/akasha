@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const milesVorsokiganFallingFree = {
   id: "019db533-f39a-7fbf-affb-fdc9ffe827aa",
   pageTypeSlug: "book",
+  type: "book",
   slug: "miles-vorsokigan-falling-free",
   title: "Miles Vorsokigan: Falling Free",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const howWeLearn = {
   id: "019db533-f39e-718e-a8a0-70ef884c1ea5",
   pageTypeSlug: "book",
+  type: "book",
   slug: "how-we-learn",
   title: "How We Learn",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theIllusionistViridianGateOnlineInquisitorsFoil = {
   id: "019db533-f38a-731a-8cf5-e442845f4d22",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-illusionist-viridian-gate-online-inquisitors-foil",
   title: "The Illusionist: Viridian Gate Online: Inquisitor's Foil",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldPyramids = {
   id: "019db533-f39a-7c4f-8d80-2776c43e135f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-pyramids",
   title: "Discworld: Pyramids",
   status: "not-started",

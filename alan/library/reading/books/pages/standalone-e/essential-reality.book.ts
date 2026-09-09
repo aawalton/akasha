@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const essentialReality = {
   id: "019db533-f39e-71bd-9710-3a75d7814fc6",
   pageTypeSlug: "book",
+  type: "book",
   slug: "essential-reality",
   title: "Essential Reality",
   status: "completed",

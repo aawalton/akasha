@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldTheAmazingMauriceAndHisEducatedRodents = {
   id: "019db533-f388-7e3d-b1df-28c2558beb2b",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-the-amazing-maurice-and-his-educated-rodents",
   title: "Discworld: The Amazing Maurice and His Educated Rodents",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const hyperthief = {
   id: "019db533-f39c-7f5c-8432-ae3745fe8782",
   pageTypeSlug: "book",
+  type: "book",
   slug: "hyperthief",
   title: "Hyperthief",
   status: "completed",

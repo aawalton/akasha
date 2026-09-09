@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const godelEscherBachAnEternalGoldenBraid = {
   id: "019db533-f39d-79fc-bcb1-58193fb074aa",
   pageTypeSlug: "book",
+  type: "book",
   slug: "godel-escher-bach-an-eternal-golden-braid",
   title: "Godel, Escher, Bach: an Eternal Golden Braid",
   status: "paused",

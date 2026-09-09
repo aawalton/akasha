@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theGoodGuysOneMoreLastTime = {
   id: "019db533-f391-796c-9de0-437457d86a7d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-good-guys-one-more-last-time",
   title: "The Good Guys: One More Last Time",
   status: "completed",

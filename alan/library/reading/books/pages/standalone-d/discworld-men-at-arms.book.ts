@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldMenAtArms = {
   id: "019db533-f39a-7e1e-be0f-69bc653b4c14",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-men-at-arms",
   title: "Discworld: Men at Arms",
   status: "not-started",

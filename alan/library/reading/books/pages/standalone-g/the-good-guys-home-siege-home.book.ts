@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theGoodGuysHomeSiegeHome = {
   id: "019db533-f391-7963-9e41-e685be88dad5",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-good-guys-home-siege-home",
   title: "The Good Guys: Home, Siege Home",
   status: "completed",

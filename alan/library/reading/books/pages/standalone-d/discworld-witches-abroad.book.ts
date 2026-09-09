@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldWitchesAbroad = {
   id: "019db533-f39a-7822-af09-e51294304f06",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-witches-abroad",
   title: "Discworld: Witches Abroad",
   status: "not-started",

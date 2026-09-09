@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const milesVorsokiganBrothersInArms = {
   id: "019db533-f39b-71f1-b3eb-971c7224818a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "miles-vorsokigan-brothers-in-arms",
   title: "Miles Vorsokigan: Brothers in Arms",
   status: "not-started",

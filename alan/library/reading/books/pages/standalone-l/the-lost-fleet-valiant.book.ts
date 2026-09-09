@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theLostFleetValiant = {
   id: "019db533-f39a-7974-a525-b216044eeaee",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-lost-fleet-valiant",
   title: "The Lost Fleet: Valiant",
   status: "not-started",

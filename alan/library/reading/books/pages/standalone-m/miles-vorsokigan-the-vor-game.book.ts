@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const milesVorsokiganTheVorGame = {
   id: "019db533-f39a-7876-911b-590b6244e8c7",
   pageTypeSlug: "book",
+  type: "book",
   slug: "miles-vorsokigan-the-vor-game",
   title: "Miles Vorsokigan: The Vor Game",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theExpanseLeviathanWakes = {
   id: "019db533-f39a-7eaa-a049-b1289cefda5a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-expanse-leviathan-wakes",
   title: "The Expanse: Leviathan Wakes",
   status: "not-started",

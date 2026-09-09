@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const dresdenFilesBloodRites = {
   id: "019db533-f39b-7220-b0fe-c8bcff766174",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dresden-files-blood-rites",
   title: "Dresden Files: Blood Rites",
   status: "not-started",

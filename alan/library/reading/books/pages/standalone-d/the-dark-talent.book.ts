@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theDarkTalent = {
   id: "019db533-f39d-7047-9a45-946d39cb63d7",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-dark-talent",
   title: "The Dark Talent",
   status: "completed",

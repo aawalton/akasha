@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const howNotToDie = {
   id: "019db533-f39e-710a-8db9-627ed3254a36",
   pageTypeSlug: "book",
+  type: "book",
   slug: "how-not-to-die",
   title: "How Not to Die",
   status: "not-started",

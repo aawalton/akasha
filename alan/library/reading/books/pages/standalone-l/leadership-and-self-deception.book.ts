@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const leadershipAndSelfDeception = {
   id: "019db533-f39d-7ade-b003-743385a2fc5f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "leadership-and-self-deception",
   title: "Leadership and Self-Deception",
   status: "completed",

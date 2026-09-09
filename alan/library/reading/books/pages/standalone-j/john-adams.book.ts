@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const johnAdams = {
   id: "019db533-f39d-79a3-bdf0-73b549eb462c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "john-adams",
   title: "John Adams",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const discworldTheTruth = {
   id: "019db533-f388-7e84-9149-9f287177dd6a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "discworld-the-truth",
   title: "Discworld: The Truth",
   status: "not-started",

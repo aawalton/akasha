@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theFirebrandEmbersOfRebellion = {
   id: "019db533-f38a-7335-a9b2-d04771e0d06c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-firebrand-embers-of-rebellion",
   title: "The Firebrand: Embers of Rebellion",
   status: "completed",
