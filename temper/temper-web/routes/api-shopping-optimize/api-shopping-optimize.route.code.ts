@@ -1,7 +1,7 @@
 import { optimizeShopping } from "@akasha/temper-shopping/ttc-shopping-optimizer"
 import type { ShoppingItem } from "@akasha/temper-shopping/ttc-shopping-types"
 import { TTC_AGO } from "@akasha/temper-trading-pricing/ttc-listing-types"
-import { createTTCListingClient } from "@akasha/temper-trading-pricing-client/ttc-listing-client"
+import { createTTCListingClient } from "akasha/temper/temper-trading-pricing-client/ttc-listing-client/ttc-listing-client.module.code.ts"
 
 const ttcClient = createTTCListingClient()
 
