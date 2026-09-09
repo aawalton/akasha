@@ -131,5 +131,10 @@ export const changeApply = {
       statement:
         "An apply's time tracks the test files beside the batch rather than the pages in it.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A landing may wrap a line the change wrote, so what lands is not always the text handed in.",
+    },
   ],
 } as const satisfies Command
