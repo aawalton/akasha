@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../scripture-passage.page-type.ts"
 
 export const moroni4 = {
   id: "019f0977-60b3-7df9-959e-0c10caddf527",
