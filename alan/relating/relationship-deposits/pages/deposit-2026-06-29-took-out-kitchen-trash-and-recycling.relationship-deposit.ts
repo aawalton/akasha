@@ -6,7 +6,7 @@ export const deposit20260629TookOutKitchenTrashAndRecycling = {
   slug: "deposit-2026-06-29-took-out-kitchen-trash-and-recycling",
   title: "Deposit — 2026-06-29 — took out kitchen trash and recycling",
   relationshipDepositDate: "2026-06-29",
-  relationshipDepositPersonaSlug: "ruby",
+  relationshipDepositPersona: "ruby",
   relationshipDepositRelationshipSlug: "jennifer-walton",
   relationshipDepositSize: "small",
   relationshipDepositValueSlug: "love",

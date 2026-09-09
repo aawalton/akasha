@@ -6,7 +6,7 @@ export const deposit20260701CheckedOnJosephForJen = {
   slug: "deposit-2026-07-01-checked-on-joseph-for-jen",
   title: "Deposit — 2026-07-01 — Checked on Joseph for Jen",
   relationshipDepositDate: "2026-07-01",
-  relationshipDepositPersonaSlug: "ruby",
+  relationshipDepositPersona: "ruby",
   relationshipDepositRelationshipSlug: "jennifer-walton",
   relationshipDepositSize: "small",
   relationshipDepositValueSlug: "love",
