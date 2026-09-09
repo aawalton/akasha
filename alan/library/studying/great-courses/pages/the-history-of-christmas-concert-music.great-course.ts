@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theHistoryOfChristmasConcertMusic = {
   id: "019db533-f3a0-71d1-80f1-fadeb0d07d8e",

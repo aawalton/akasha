@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theSymphony = {
   id: "019db533-f3a0-71df-9182-8af58b7b656d",

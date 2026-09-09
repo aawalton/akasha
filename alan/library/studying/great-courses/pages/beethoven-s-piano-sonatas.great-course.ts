@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const beethovenSPianoSonatas = {
   id: "019db533-f3a0-75b4-906c-ce25e8c0d85d",

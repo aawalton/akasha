@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const greatMastersBrahmsHisLifeAndMusic = {
   id: "019db533-f3a0-75d4-88c1-d7d737b78eaa",

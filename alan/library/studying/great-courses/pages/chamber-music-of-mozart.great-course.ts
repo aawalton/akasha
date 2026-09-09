@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const chamberMusicOfMozart = {
   id: "019db533-f3a0-757f-979d-f90dfcd8832a",

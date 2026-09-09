@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const greatPianoWorksExplained = {
   id: "019db533-f3a0-7366-afba-83b0af530edb",

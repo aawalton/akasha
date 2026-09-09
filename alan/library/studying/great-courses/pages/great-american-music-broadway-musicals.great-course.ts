@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const greatAmericanMusicBroadwayMusicals = {
   id: "01a06578-671b-7002-8e90-6d3ab7028abf",

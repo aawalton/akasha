@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const symphoniesOfBeethoven = {
   id: "019db533-f3a0-72a4-9c55-038625a36112",
