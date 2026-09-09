@@ -3,7 +3,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
-import { baseOf as headOf } from "../landing/landing.module.code.ts"
+import { baseOf as headOf } from "../../../command-system/landing/landing.module.code.ts"
 import { landingAsked } from "./asking.module.code.ts"
 import {
   applied,

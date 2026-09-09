@@ -4,9 +4,9 @@ import type { Gathered } from "@akasha/checks/checking"
 import { checksAt, checksIn, judgingBy } from "@akasha/checks/checking"
 import type { Judged, Judging } from "@akasha/checks/judging"
 import type { Change } from "@akasha/pages/change"
-import { counted } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { oneLine, whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import { counted } from "../../modules/asking/asking.module.code.ts"
 
 export const ANSWER_CEILING = 28000
 

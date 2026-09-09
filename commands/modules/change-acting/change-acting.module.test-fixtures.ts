@@ -3,8 +3,8 @@ import type { FileChange } from "@akasha/changes/change-answer/types"
 import { appendEdits, editsIn } from "@akasha/changes/edits-keeping"
 import { handedPageOf } from "@akasha/changes/subagent-handed"
 import { indexedRepo } from "@akasha/indexes/indexing/testing"
-import { mistaking } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
+import { mistaking } from "../asking/asking.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
 import {
   DROP_WORDS,

@@ -2,7 +2,6 @@ import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { akashaSeatPathForCaller } from "@akasha/seat-system/seat-akasha-beside"
 import { warrantedIn } from "akasha/context/modules/warranting/warranting.module.code.ts"
-import { bytesAt, textOf } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import {
   blobIdOf,
@@ -14,6 +13,7 @@ import {
   readingIn,
   recordRead,
 } from "../../../command-system/reading/reading.module.code.ts"
+import { bytesAt, textOf } from "../../modules/asking/asking.module.code.ts"
 import { bodyRead, differenceOf } from "../../modules/differing/differing.module.code.ts"
 import type { Run } from "./long-body/long-body.module.code.ts"
 import {

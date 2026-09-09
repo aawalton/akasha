@@ -5,26 +5,30 @@ import type { Judging } from "@akasha/checks/judging"
 import type { Change } from "@akasha/pages/change"
 import { isMissing } from "@akasha/utils/fs/missing"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
+import type { Answer, Given, Kind } from "../../../command-system/calling/calling.module.code.ts"
+import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import type {
+  Drafted,
+  FileEdit,
+  Landed,
+  Refused,
+} from "../../../command-system/landing/landing.module.code.ts"
+import { baseOf, changeOf, landing } from "../../../command-system/landing/landing.module.code.ts"
 import {
-  preparing,
-  sequenced,
-} from "../../commands/modules/change-preparing/change-preparing.module.code.ts"
-import { runningOf } from "../../commands/modules/drafting/drafting.module.code.ts"
-import {
-  CHECKING_AT,
-  gateBuilt,
-  NO_GATE,
-} from "../../commands/modules/gate-building/gate-building.module.code.ts"
-import {
-  passedOver,
-  reachedIn,
-} from "../../commands/modules/judged-saying/judged-saying.module.code.ts"
+  type Carry,
+  type Reading,
+  SUBAGENT_MARK,
+} from "../../../command-system/reading/reading.module.code.ts"
+import { preparing, sequenced } from "../change-preparing/change-preparing.module.code.ts"
+import { runningOf } from "../drafting/drafting.module.code.ts"
+import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
+import { passedOver, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
 import {
   asReadIn,
   carryLanded,
   NO_OWING,
   recordLanded,
-} from "../../commands/modules/landing-reading/landing-reading.module.code.ts"
+} from "../landing-reading/landing-reading.module.code.ts"
 import {
   draftedSaid,
   filledSaid,
@@ -32,17 +36,12 @@ import {
   pathsOf,
   reported,
   type Saying,
-} from "../../commands/modules/landing-saying/landing-saying.module.code.ts"
-import { installingIn } from "../../commands/modules/manifest-locking/manifest-locking.module.code.ts"
-import type { FileMove } from "../../commands/modules/path-moving/path-moving.module.code.ts"
-import type { Minted } from "../../commands/modules/value-minting/value-minting.module.code.ts"
-import { mintingOnto } from "../../commands/modules/value-minting/value-minting.module.code.ts"
-import { unwarrantedIn } from "../../commands/modules/warrant-owing/warrant-owing.module.code.ts"
-import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
-import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
-import type { Drafted, FileEdit, Landed, Refused } from "../landing/landing.module.code.ts"
-import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
-import { type Carry, type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
+} from "../landing-saying/landing-saying.module.code.ts"
+import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
+import type { FileMove } from "../path-moving/path-moving.module.code.ts"
+import type { Minted } from "../value-minting/value-minting.module.code.ts"
+import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
+import { unwarrantedIn } from "../warrant-owing/warrant-owing.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
 

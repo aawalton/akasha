@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { readMountainWallTime } from "akasha/alan/harness/day/mountain-wall/mountain-wall.module.code.ts"
-import { mistaking } from "../../../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../../command-system/calling/calling.module.code.ts"
+import { mistaking } from "../../../../modules/asking/asking.module.code.ts"
 import {
   landed,
   standingFor,

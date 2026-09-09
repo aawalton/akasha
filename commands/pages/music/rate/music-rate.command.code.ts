@@ -1,6 +1,5 @@
 import type { Asking } from "@akasha/changes/mechanical-change-running"
 import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
-import { mistaking, textAt } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { listedAt } from "@akasha/indexes"
@@ -9,6 +8,7 @@ import { besideAt } from "@akasha/pages/page-file-name"
 import { type Value, valueAt } from "@akasha/pages/page-value"
 import { composedFor } from "@akasha/pages-service/composing"
 import { MUSIC_RATINGS } from "akasha/alan/music/choosing/rating-ladder/rating-ladder.module.code.ts"
+import { mistaking, textAt } from "../../../modules/asking/asking.module.code.ts"
 
 const INPUT = 1
 

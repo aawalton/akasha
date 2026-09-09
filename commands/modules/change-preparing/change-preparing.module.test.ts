@@ -4,6 +4,7 @@ import { join } from "node:path"
 import { bytesOf } from "@akasha/testing-system/bodying"
 import { put } from "@akasha/testing-system/putting"
 import { applied } from "../../../command-system/applying/applying.module.code.ts"
+import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import {
   AGENT,
   checking,
@@ -14,8 +15,7 @@ import {
   scratch,
   wrote,
   wroteWith,
-} from "../../../command-system/asking/asking.module.test-fixtures.ts"
-import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
+} from "../asking/asking.module.test-fixtures.ts"
 import type { Running } from "../drafting/drafting.module.code.ts"
 import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { preparing } from "./change-preparing.module.code.ts"

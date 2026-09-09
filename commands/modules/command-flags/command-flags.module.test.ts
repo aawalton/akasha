@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { BREAK_GLASS } from "../../../command-system/asking/asking.module.code.ts"
+import { BREAK_GLASS } from "../asking/asking.module.code.ts"
 import {
   CONTENT_FILE,
   FILE_PATH,

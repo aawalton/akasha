@@ -1,7 +1,6 @@
 import { join } from "node:path"
 import type { Asking as Asked } from "@akasha/changes/mechanical-change-running"
 import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
-import { textAt } from "@akasha/command-system/asking"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
@@ -12,6 +11,7 @@ import type { Value } from "@akasha/pages/page-value"
 import { textIn } from "@akasha/pages/page-value-reading"
 import { composedFor } from "@akasha/pages-service/composing"
 import { getRecentlyPlayed } from "@akasha/spotify/player"
+import { textAt } from "../../../modules/asking/asking.module.code.ts"
 import {
   buildPlayRow,
   esoDayOfPlay,

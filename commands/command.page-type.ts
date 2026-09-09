@@ -105,6 +105,7 @@ export const command = {
     "module/answer-bytes",
     "module/piping",
     "module/command-filling",
+    "module/asking",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

@@ -2,7 +2,7 @@ import { basename } from "node:path"
 import { typed } from "@akasha/code/code-typing"
 import type { Listed } from "@akasha/indexes"
 import { everyPath, importersOf, listedByPath, readingIn } from "@akasha/indexes"
-import { textOf } from "../../../command-system/asking/asking.module.code.ts"
+import { textOf } from "../../../commands/modules/asking/asking.module.code.ts"
 import { bodyAt } from "../../../commands/modules/commit-reading/commit-reading.module.code.ts"
 import type { Answering } from "../answering/index-answering.module.code.ts"
 

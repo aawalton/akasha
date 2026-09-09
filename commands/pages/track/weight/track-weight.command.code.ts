@@ -1,6 +1,6 @@
 import { writeDailyReading } from "../../../../alan/track/daily/write-daily-points/write-daily-points.module.code.ts"
-import { mistaking } from "../../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
+import { mistaking } from "../../../modules/asking/asking.module.code.ts"
 import { DAY, dayNow, saidFor } from "../../../modules/session-rows/session-rows.module.code.ts"
 
 export const BODYWEIGHT = "--bodyweight"
