@@ -1,0 +1,144 @@
+import { expect, test } from "bun:test"
+import { refusing, stating } from "../../../modules/answer/change-answer.module.code.ts"
+import type { Reaching, World } from "../../../modules/shadow/change-shadow.module.code.ts"
+import { worldOf } from "../../../modules/shadow/change-shadow.module.test-fixtures.ts"
+import { addPageTypeTypes, runChange } from "./add-page-type-types.change-agent.code.ts"
+
+const AT = "held/ones/one.page-type.ts"
+
+const TO = "held/ones/one.page-type.types.ts"
+
+const STATED = "change-mechanical-file-content/add-page-property"
+
+const MOVED = "change-mechanical/move-code-export"
+
+type Reached = { readonly at: string; readonly given: Record<string, unknown> }
+
+function catching(seen: Reached[]): Reaching {
+  return (_world, at, given) => {
+    seen.push({ at, given: given as Record<string, unknown> })
+    return Promise.resolve(stating([]))
+  }
+}
+
+function refusingAt(seen: Reached[], address: string): Reaching {
+  return (_world, at, given) => {
+    seen.push({ at, given: given as Record<string, unknown> })
+    if (at === address) return Promise.resolve(refusing(`\`${at}\` would not`))
+    return Promise.resolve(stating([]))
+  }
+}
+
+function worldFor(reaching: Reaching, page: Record<string, string> | null): World {
+  return {
+    ...worldOf({}),
+    index: { pageByPath: () => page } as never,
+    reaching,
+  }
+}
+
+test("the page type gains the key and hands its type on, in that order", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPageTypeTypes(
+    worldFor(catching(seen), { pageTypeSlug: "page-type", slug: "one" }),
+    {
+      at: AT,
+    }
+  )
+
+  expect(said.refused).toBeNull()
+  expect(seen.map((one) => one.at)).toEqual([STATED, MOVED])
+})
+
+test("the key stated names the file beside the page type under the extension it holds", async () => {
+  const seen: Reached[] = []
+
+  await addPageTypeTypes(worldFor(catching(seen), { pageTypeSlug: "page-type", slug: "one" }), {
+    at: AT,
+  })
+
+  expect(seen[0]?.given).toEqual({ at: AT, key: "types", value: '"ts"' })
+})
+
+test("the type handed on is the one named for the page type's slug, landing beside the page", async () => {
+  const seen: Reached[] = []
+
+  await addPageTypeTypes(worldFor(catching(seen), { pageTypeSlug: "page-type", slug: "one" }), {
+    at: AT,
+  })
+
+  expect(seen[1]?.given).toEqual({ from: AT, to: TO, of: "One" })
+})
+
+test("a slug of more than one word names the type that spelling makes", async () => {
+  const seen: Reached[] = []
+
+  await addPageTypeTypes(
+    worldFor(catching(seen), { pageTypeSlug: "page-type", slug: "page-property-entry" }),
+    { at: "held/ones/page-property-entry.page-type.ts" }
+  )
+
+  expect(seen[1]?.given).toMatchObject({ of: "PagePropertyEntry" })
+})
+
+test("a path naming no page is refused, and nothing is reached", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPageTypeTypes(worldFor(catching(seen), null), { at: AT })
+
+  expect(said.refused ?? "").toMatch(/names no page/)
+  expect(seen).toEqual([])
+})
+
+test("a page that is no page type is refused, and nothing is reached", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPageTypeTypes(
+    worldFor(catching(seen), { pageTypeSlug: "record-property", slug: "one" }),
+    { at: "held/ones/one.record-property.ts" }
+  )
+
+  expect(said.refused ?? "").toMatch(/is no page type/)
+  expect(seen).toEqual([])
+})
+
+test("a page type stating no slug is refused, and nothing is reached", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPageTypeTypes(worldFor(catching(seen), { pageTypeSlug: "page-type" }), {
+    at: AT,
+  })
+
+  expect(said.refused ?? "").toMatch(/states no slug/)
+  expect(seen).toEqual([])
+})
+
+test("a refusal from the change stating the key leaves the type where it is", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPageTypeTypes(
+    worldFor(refusingAt(seen, STATED), { pageTypeSlug: "page-type", slug: "one" }),
+    { at: AT }
+  )
+
+  expect(said.refused ?? "").toMatch(/add-page-property/)
+  expect(seen.map((one) => one.at)).toEqual([STATED])
+})
+
+test("a refusal from the change moving the type is answered rather than the key alone", async () => {
+  const seen: Reached[] = []
+
+  const said = await addPageTypeTypes(
+    worldFor(refusingAt(seen, MOVED), { pageTypeSlug: "page-type", slug: "one" }),
+    { at: AT }
+  )
+
+  expect(said.refused ?? "").toMatch(/move-code-export/)
+})
+
+test("arguments holding no path are refused by the name of the argument", async () => {
+  const said = await runChange(worldFor(catching([]), null), {})
+
+  expect(said.refused ?? "").toMatch(/`at`/)
+})
