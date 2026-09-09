@@ -12,5 +12,17 @@ export const judging = {
       invariantKind: "departure",
       statement: "Nothing here imports a check or a command.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A check is handed a change and what that change reads through.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit is handed the root alone, there being no change at audit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two answer the same refusals.",
+    },
   ],
 } as const satisfies Module

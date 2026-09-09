@@ -78,6 +78,18 @@ export const checking = {
     },
     {
       invariantKind: "departure",
+      statement: "A check whose audit code file is there is gathered with that audit beside it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check without one is gathered with no audit rather than refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audit file answering to nothing that can be run refuses the whole run.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A check stating no input runs for every change.",
     },
     {

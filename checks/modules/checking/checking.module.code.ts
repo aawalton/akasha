@@ -12,7 +12,7 @@ import {
 } from "../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import type { Input } from "../change-walking/change-walking.module.code.ts"
 import { closing, costOf, opening, recordCost } from "../cost/check-cost.module.code.ts"
-import type { AnyRunning, Judged, Judging } from "../judging/judging.module.code.ts"
+import type { AnyAuditing, AnyRunning, Judged, Judging } from "../judging/judging.module.code.ts"
 import { modelChecksIn } from "../model-running/model-running.module.code.ts"
 
 export type Phase = "patch" | "worktree" | "deploy" | "audit"
@@ -25,6 +25,7 @@ export type Gathered = {
   readonly runsOn: readonly Phase[]
   readonly isInput: Input | null
   readonly run: AnyRunning
+  readonly audit?: AnyAuditing | null
 }
 
 const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
@@ -32,6 +33,8 @@ const CHECK_TYPE = "01a04bc4-7e86-7beb-8dfb-3666785dd3d5"
 const CODE = "code"
 
 const CHECK_CODE = "check.code"
+
+const AUDIT_CODE = "audit.code"
 
 const TS = "ts"
 
@@ -84,7 +87,7 @@ function statedIn(at: string, slug: string, page: string): Record<string, unknow
   return named as Record<string, unknown>
 }
 
-function runningIn(at: string, slug: string, beside: string): AnyRunning | null {
+function runningIn<T>(at: string, slug: string, beside: string): T | null {
   let mod: Record<string, unknown>
   try {
     mod = loadFrom(at) as Record<string, unknown>
@@ -92,15 +95,30 @@ function runningIn(at: string, slug: string, beside: string): AnyRunning | null 
     throw new Error(`${beside} is a check's code, and would not load — ${saidBy(thrown)}`)
   }
   const named = mod[exportedAs(slug)]
-  if (typeof named === "function") return named as AnyRunning
+  if (typeof named === "function") return named as T
   const every = Object.values(mod).filter((one) => typeof one === "function")
-  return every.length === 1 && every[0] !== undefined ? (every[0] as AnyRunning) : null
+  return every.length === 1 && every[0] !== undefined ? (every[0] as T) : null
 }
 
 export function codeOf(root: string, page: string): string | null {
   const held = besideAt(page, CHECK_CODE, TS)
   if (held !== null && existsSync(join(root, held))) return held
   return besideAt(page, CODE, TS)
+}
+
+export function auditCodeOf(root: string, page: string): string | null {
+  const held = besideAt(page, AUDIT_CODE, TS)
+  return held !== null && existsSync(join(root, held)) ? held : null
+}
+
+function auditingIfThere(root: string, page: string, slug: string): AnyAuditing | null {
+  const beside = auditCodeOf(root, page)
+  if (beside === null) return null
+  const found = runningIn<AnyAuditing>(join(root, beside), slug, beside)
+  if (found === null) {
+    throw new Error(`${page} is a check page, and ${beside} answers to nothing that can be run`)
+  }
+  return found
 }
 
 export function checksIn(root: string): readonly Gathered[] {
@@ -126,11 +144,20 @@ export function checksIn(root: string): readonly Gathered[] {
     if (beside === null) {
       throw new Error(`${path} is a check page, and no code file can sit beside a name like it`)
     }
-    const run = runningIn(join(root, beside), slug, beside)
+    const run = runningIn<AnyRunning>(join(root, beside), slug, beside)
     if (run === null) {
       throw new Error(`${path} is a check page, and ${beside} answers to nothing that can be run`)
     }
-    found.push({ slug, page: path, root, code: beside, runsOn, isInput: inputIn(run), run })
+    found.push({
+      slug,
+      page: path,
+      root,
+      code: beside,
+      runsOn,
+      isInput: inputIn(run),
+      run,
+      audit: auditingIfThere(root, path, slug),
+    })
   }
   for (const one of modelChecksIn(root)) {
     const runsOn: Phase[] = []

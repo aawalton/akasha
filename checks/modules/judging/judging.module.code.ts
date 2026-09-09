@@ -13,6 +13,12 @@ export type RunningAsync = (change: Change, shadow: Shadow) => Promise<readonly 
 
 export type AnyRunning = Running | RunningAsync
 
+export type Auditing = (root: string) => readonly Judged[]
+
+export type AuditingAsync = (root: string) => Promise<readonly Judged[]>
+
+export type AnyAuditing = Auditing | AuditingAsync
+
 export type Judging = {
   readonly named: readonly string[]
   readonly checksFor: (change: Change) => readonly string[]
