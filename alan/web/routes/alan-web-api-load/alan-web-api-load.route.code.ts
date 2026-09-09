@@ -1,11 +1,10 @@
-import { resolveIdleSaveContext } from "../.server/idle-save-context/idle-save-context.module.code.ts"
-import { loadSave } from "../.server/idle-saves/idle-saves.module.code.ts"
-import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
-import type { Route } from "./+types/api.load"
+import { resolveIdleSaveContext } from "../../.server/idle-save-context/idle-save-context.module.code.ts"
+import { loadSave } from "../../.server/idle-saves/idle-saves.module.code.ts"
+import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
 
 const CORS_METHODS = "GET, OPTIONS"
 
-export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   if (request.method === "OPTIONS") {
     return new Response(null, { status: 204, headers: cors })

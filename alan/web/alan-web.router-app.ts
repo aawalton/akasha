@@ -196,5 +196,7 @@ export const alanWeb = {
     "route/alan-web-idle",
     "route/alan-web-design",
     "route/alan-web-api-errors",
+    "route/alan-web-api-load",
+    "route/alan-web-api-media-token",
   ],
 } as const satisfies RouterApp

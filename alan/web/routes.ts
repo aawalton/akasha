@@ -51,7 +51,10 @@ export default [
     "api/property-option",
     "routes/alan-web-api-property-option/alan-web-api-property-option.route.code.ts"
   ),
-  route("api/media/token", "routes/api.media.token.ts"),
+  route(
+    "api/media/token",
+    "routes/alan-web-api-media-token/alan-web-api-media-token.route.code.ts"
+  ),
   route(
     "api/media/:pageId/variants",
     "routes/alan-web-api-media-variants/alan-web-api-media-variants.route.code.ts"
@@ -77,7 +80,7 @@ export default [
     "routes/alan-web-api-media-hls-segment/alan-web-api-media-hls-segment.route.code.ts"
   ),
   route("api/media/:pageId/:medium", "routes/alan-web-api-media/alan-web-api-media.route.code.ts"),
-  route("api/load", "routes/api.load.ts"),
+  route("api/load", "routes/alan-web-api-load/alan-web-api-load.route.code.ts"),
   route("api/save", "routes/api.save.ts"),
   route("api/catalog", "routes/alan-web-api-catalog/alan-web-api-catalog.route.code.ts"),
   route(

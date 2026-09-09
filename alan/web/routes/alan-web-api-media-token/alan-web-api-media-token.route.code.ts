@@ -2,9 +2,8 @@ import { isMedium } from "@akasha/pages-core/media-formats"
 import { mediaTokenSecret, mintMediaToken } from "@akasha/pages-ui/media/media-token"
 import { MEDIA_VARIANT_PATTERN, mediaPageExists } from "@akasha/pages-ui/media/serve-media"
 import { resolveRequestUser } from "@akasha/supabase-rr/auth-server"
-import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
-import { MEDIA_UUID_PATTERN } from "../media-page/media-page.module.code.ts"
-import type { Route } from "./+types/api.media.token"
+import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
+import { MEDIA_UUID_PATTERN } from "../../media-page/media-page.module.code.ts"
 
 const TOKEN_TTL_MS = 60 * 60 * 1000
 
@@ -37,7 +36,7 @@ export function buildMediaTokenResponse(input: {
   return new Response(JSON.stringify({ token }), { status: 200, headers })
 }
 
-export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, "GET, OPTIONS")
 
   if (request.method === "OPTIONS") {
