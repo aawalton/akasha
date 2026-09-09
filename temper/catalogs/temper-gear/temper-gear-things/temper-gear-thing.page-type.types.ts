@@ -1,4 +1,4 @@
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
 import type { EsoEnchantConstantName } from "../properties/eso-enchant-constant-name.text-property.ts"
 import type { EssenceRune } from "../properties/essence-rune.text-property.ts"
 import type { GlyphName } from "../properties/glyph-name.text-property.ts"

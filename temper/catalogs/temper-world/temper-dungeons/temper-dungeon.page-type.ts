@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.types.ts"
 import type { QuestGiver } from "../properties/quest-giver.relation-property.ts"
 import type { RotationPosition } from "../properties/rotation-position.number-property.ts"
 import type { SoloDifficulty } from "../properties/solo-difficulty.text-property.ts"

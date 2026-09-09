@@ -7,7 +7,7 @@ import type { LineRankNeeded } from "../../../catalogs/temper-skills/properties/
 import type { MorphIndex } from "../../../catalogs/temper-skills/properties/morph-index.number-property.ts"
 import type { SkillRank } from "../../../catalogs/temper-skills/properties/skill-rank.number-property.ts"
 import type { SkillStatus } from "../../../catalogs/temper-skills/properties/skill-status.text-property.ts"
-import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.ts"
+import type { TemperCatalogThing } from "../../things/temper-catalog-thing.page-type.types.ts"
 
 export type TemperSkill = TemperCatalogThing & {
   baseName: BaseName
