@@ -35,5 +35,6 @@ export const smilingjennyWeb = {
     "route/jenny-api-live-version",
     "route/jenny-api-errors",
     "route/jenny-api-push-register",
+    "route/jenny-sign-out",
   ],
 } as const satisfies RouterApp

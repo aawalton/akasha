@@ -3,7 +3,7 @@ import { index, type RouteConfig, route } from "@react-router/dev/routes"
 export default [
   index("routes/home.tsx"),
   route("sign-in", "routes/sign-in.tsx"),
-  route("sign-out", "routes/sign-out.ts"),
+  route("sign-out", "routes/jenny-sign-out/jenny-sign-out.route.code.ts"),
   route("api/health", "routes/jenny-api-health/jenny-api-health.route.code.ts"),
   route("api/live-version", "routes/jenny-api-live-version/jenny-api-live-version.route.code.ts"),
   route("api/categorization", "routes/jenny-categorization/jenny-categorization.route.code.ts"),
