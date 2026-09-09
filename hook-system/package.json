@@ -1,9 +1,0 @@
-{
-  "name": "@akasha/hook-system",
-  "private": true,
-  "type": "module",
-  "exports": {
-    "./hook-answer": "./hook-answer/hook-answer.module.code.ts",
-    "./shell-calls": "./shell-calls/shell-calls.module.code.ts"
-  }
-}

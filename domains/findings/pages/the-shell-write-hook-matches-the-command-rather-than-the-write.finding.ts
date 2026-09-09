@@ -5,7 +5,7 @@ export const theShellWriteHookMatchesTheCommandRatherThanTheWrite = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-shell-write-hook-matches-the-command-rather-than-the-write",
-  domain: "workspace-package/hook-system",
+  domain: "domain/hook-system",
   claim:
     "The hook refusing shell writes under `akasha/` matches on the command word rather than on the write itself. `cp` onto a path under `akasha/` is refused, and a `bun -e` script calling `fs.writeFileSync` on that same path is not. An agent seeding a fault therefore edits the tree by a route the gate does not see, which is also a route the restore hook races.",
   evidence:

@@ -5,7 +5,7 @@ export const theTypecheckGuidanceNamesAnInstrumentBlindToMostOfTheRepo = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-typecheck-guidance-names-an-instrument-blind-to-most-of-the-repo",
-  domain: "workspace-package/hook-system",
+  domain: "domain/hook-system",
   claim:
     "The hook refusing `bun run typecheck` tells every agent that `akasha audit --check typecheck` is what says what the compiler finds. That check is bounded to `akasha/` by design, and judges none of the six web apps, `shared/`, `infra/` or `tools/`. A canary seeded under `temper/` was caught by the compiler as TS2322 while the check still answered none refused. The same hook permits `bunx @typescript/native-preview -b`, which is the one call covering the whole repository.",
   evidence:

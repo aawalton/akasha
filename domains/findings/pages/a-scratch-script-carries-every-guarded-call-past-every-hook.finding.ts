@@ -5,7 +5,7 @@ export const aScratchScriptCarriesEveryGuardedCallPastEveryHook = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "a-scratch-script-carries-every-guarded-call-past-every-hook",
-  domain: "workspace-package/hook-system",
+  domain: "domain/hook-system",
   claim:
     "A hook reads the command line the harness hands it, so a call written into a file under /var/tmp and run as `bash /var/tmp/x.sh` is not a call any hook sees. Each hook says so of itself. What is not written anywhere is that an agent is led to that route by a refusal: `block-akasha-shell-writes` refuses a program whose line names an akasha path and points at writing outside the checkout, and the shortest way to obey is a scratch script — which then carries `bun test`, `git`, `sops` and the rest past every other hook as well. I did that all session and stepped around `block-bun-test` without noticing.",
   evidence:

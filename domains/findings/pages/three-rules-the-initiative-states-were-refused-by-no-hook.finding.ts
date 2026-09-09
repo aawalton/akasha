@@ -5,7 +5,7 @@ export const threeRulesTheInitiativeStatesWereRefusedByNoHook = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "three-rules-the-initiative-states-were-refused-by-no-hook",
-  domain: "workspace-package/hook-system",
+  domain: "domain/hook-system",
   claim:
     "Three rules the akasha-migration initiative states were refused by no mechanism, each found by a lane reporting itself rather than by a guard firing. A shell write through an interpreter reached inside `akasha/`, as did a write behind `sudo`, `env` or `timeout`, and `rm`, `touch`, `mkdir`, `ln`, `install` and `truncate` were judged nowhere. `akasha audit` was barred by instruction alone, and a subagent ran it after reading `--help`, which says the command writes nothing and says nothing of the 17 GB it holds. A push to the remote was refused by no hook. The first two are refusals now; the third is another lane's.",
   evidence:

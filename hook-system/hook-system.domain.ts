@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const hookSystem = {
   id: "01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "hook-system",
   definition: "how a tool call is judged",
-  manifest: "json",
   parts: [
     "page-type/agent-hook",
     "module/bun-calls",
@@ -50,4 +49,4 @@ export const hookSystem = {
         "A hook over the ways a shell writes a file samples an open world that is too many ways to name.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

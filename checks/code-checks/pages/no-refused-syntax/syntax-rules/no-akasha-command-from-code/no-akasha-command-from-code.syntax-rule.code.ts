@@ -1,5 +1,5 @@
 import { lineOf } from "@akasha/code/code-source"
-import { basenameOf } from "@akasha/hook-system/shell-calls"
+import { basenameOf } from "akasha/hook-system/shell-calls/shell-calls.module.code.ts"
 import ts from "typescript"
 import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 

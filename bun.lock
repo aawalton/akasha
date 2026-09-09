@@ -576,9 +576,6 @@
         "zod": "^4.3.6",
       },
     },
-    "hook-system": {
-      "name": "@akasha/hook-system",
-    },
     "inference/clients": {
       "name": "@akasha/inference-clients",
       "dependencies": {
@@ -1224,8 +1221,6 @@
     "@akasha/git": ["@akasha/git@workspace:git"],
 
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:alan/harness/health-samples-access"],
-
-    "@akasha/hook-system": ["@akasha/hook-system@workspace:hook-system"],
 
     "@akasha/idle-system": ["@akasha/idle-system@workspace:alan/harness/idle-system"],
 
