@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0496Chapter496HoldYourHorses = {
   id: "01a0672c-ecdf-7001-8443-f9493011fc56",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0496-chapter-496-hold-your-horses",
   title: "Chapter 496 - Hold Your Horses",
   story: "mythrans-master-of-all-continued-completed",

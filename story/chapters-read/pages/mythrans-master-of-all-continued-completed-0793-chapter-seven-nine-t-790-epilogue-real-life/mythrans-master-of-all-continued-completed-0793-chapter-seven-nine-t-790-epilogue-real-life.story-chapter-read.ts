@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0793ChapterSevenNineT790EpilogueRealLife = {
   id: "01a0672c-edab-7001-b554-8bb9c9180231",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0793-chapter-seven-nine-t-790-epilogue-real-life",
   title: "Chapter Seven Nine T (790) - Epilogue (Real Life)",
   story: "mythrans-master-of-all-continued-completed",

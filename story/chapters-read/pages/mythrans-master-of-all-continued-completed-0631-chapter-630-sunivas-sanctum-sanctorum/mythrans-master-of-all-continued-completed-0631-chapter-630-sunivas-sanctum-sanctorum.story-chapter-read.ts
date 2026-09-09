@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0631Chapter630SunivasSanctumSanctorum = {
   id: "01a0672c-ed31-7000-be2b-de1452017223",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0631-chapter-630-sunivas-sanctum-sanctorum",
   title: "Chapter 630 - Suniva's Sanctum Sanctorum",
   story: "mythrans-master-of-all-continued-completed",

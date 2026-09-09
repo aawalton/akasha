@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0515Chapter515OneSoulForTheRoad = {
   id: "01a0672c-ecf0-7000-a194-e82d97d7e1a2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0515-chapter-515-one-soul-for-the-road",
   title: "Chapter 515 - One Soul For The Road",
   story: "mythrans-master-of-all-continued-completed",

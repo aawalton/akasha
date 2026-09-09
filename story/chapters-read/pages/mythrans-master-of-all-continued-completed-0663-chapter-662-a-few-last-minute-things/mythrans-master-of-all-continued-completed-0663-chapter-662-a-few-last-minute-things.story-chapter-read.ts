@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0663Chapter662AFewLastMinuteThings = {
   id: "01a0672c-ed48-7000-abad-33fdc9775691",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0663-chapter-662-a-few-last-minute-things",
   title: "Chapter 662 - A Few Last Minute Things",
   story: "mythrans-master-of-all-continued-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0641Chapter640AllThatSheWants = {
   id: "01a0672c-ed36-7000-8ecd-3f38e0232c0b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0641-chapter-640-all-that-she-wants",
   title: "Chapter 640 - All That She Wants",
   story: "mythrans-master-of-all-continued-completed",

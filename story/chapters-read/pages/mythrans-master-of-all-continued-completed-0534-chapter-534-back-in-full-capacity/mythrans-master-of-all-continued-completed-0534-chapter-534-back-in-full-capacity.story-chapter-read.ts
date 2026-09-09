@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0534Chapter534BackInFullCapacity = {
   id: "01a0672c-ecf7-7002-920f-45b8a0950659",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0534-chapter-534-back-in-full-capacity",
   title: "Chapter 534 - Back in Full Capacity",
   story: "mythrans-master-of-all-continued-completed",

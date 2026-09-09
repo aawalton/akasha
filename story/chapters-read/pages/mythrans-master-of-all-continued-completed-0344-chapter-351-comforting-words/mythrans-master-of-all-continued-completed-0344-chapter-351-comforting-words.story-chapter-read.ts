@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0344Chapter351ComfortingWords = {
   id: "01a0672c-ec59-7000-9824-2626e4812c2d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0344-chapter-351-comforting-words",
   title: "Chapter 351 - Comforting Words",
   story: "mythrans-master-of-all-continued-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0785Chapter782RealStuffHappens = {
   id: "01a0672c-eda5-7001-b3d2-65e8a526b3ef",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0785-chapter-782-real-stuff-happens",
   title: "Chapter 782 - Real Stuff Happens",
   story: "mythrans-master-of-all-continued-completed",

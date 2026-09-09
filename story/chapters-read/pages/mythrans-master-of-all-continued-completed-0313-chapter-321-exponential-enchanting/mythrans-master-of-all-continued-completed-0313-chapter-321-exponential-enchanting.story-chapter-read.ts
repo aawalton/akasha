@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0313Chapter321ExponentialEnchanting = {
   id: "01a0672c-ec3d-7000-92db-5e6207e02453",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0313-chapter-321-exponential-enchanting",
   title: "Chapter 321 - Exponential Enchanting",
   story: "mythrans-master-of-all-continued-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0388Chapter392BSexyButNotTooSexy = {
   id: "01a0672c-ec84-7000-8a28-24a8c42eea49",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0388-chapter-392-b-sexy-but-not-too-sexy",
   title: "Chapter 392-B - Sexy But Not Too Sexy",
   story: "mythrans-master-of-all-continued-completed",

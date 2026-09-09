@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0668Chapter667HellHathNoFuryLikeAWomanScorned = {
   id: "01a0672c-ed4b-7000-b757-c9cac8345df8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0668-chapter-667-hell-hath-no-fury-like-a-woman-scorned",
   title: "Chapter 667 - Hell Hath No Fury Like A Woman Scorned",
   story: "mythrans-master-of-all-continued-completed",

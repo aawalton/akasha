@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0433Chapter436MomentsLikeThese = {
   id: "01a0672c-ecaa-7000-a33b-9e4fadcffbca",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0433-chapter-436-moments-like-these",
   title: "Chapter 436 - Moments Like These",
   story: "mythrans-master-of-all-continued-completed",

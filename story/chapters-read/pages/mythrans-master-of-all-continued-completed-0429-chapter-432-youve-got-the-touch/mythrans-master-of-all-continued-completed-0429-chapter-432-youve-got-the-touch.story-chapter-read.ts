@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0429Chapter432YouveGotTheTouch = {
   id: "01a0672c-eca7-7000-b43f-1b5fe9a88dbb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0429-chapter-432-youve-got-the-touch",
   title: "Chapter 432 - You've Got The Touch",
   story: "mythrans-master-of-all-continued-completed",

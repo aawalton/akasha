@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0327Chapter334aAnabellesFulfillment = {
   id: "01a0672c-ec49-7001-bb88-7af258d4da3d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0327-chapter-334a-anabelles-fulfillment",
   title: "Chapter 334A - Anabelle's Fulfillment",
   story: "mythrans-master-of-all-continued-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0605Chapter605ToFeedTheHungry = {
   id: "01a0672c-ed21-7000-9abb-a7ca308298b5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0605-chapter-605-to-feed-the-hungry",
   title: "Chapter 605 - To Feed The Hungry",
   story: "mythrans-master-of-all-continued-completed",

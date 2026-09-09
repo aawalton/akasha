@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0656Chapter655GhoulCity = {
   id: "01a0672c-ed41-7000-914d-3f96a3b9ed1a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0656-chapter-655-ghoul-city",
   title: "Chapter 655 - Ghoul City",
   story: "mythrans-master-of-all-continued-completed",

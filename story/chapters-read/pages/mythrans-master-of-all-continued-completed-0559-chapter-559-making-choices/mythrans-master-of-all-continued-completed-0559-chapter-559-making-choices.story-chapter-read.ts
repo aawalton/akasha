@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0559Chapter559MakingChoices = {
   id: "01a0672c-ed08-7000-855d-ef003ae1be0e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0559-chapter-559-making-choices",
   title: "Chapter 559 - Making Choices",
   story: "mythrans-master-of-all-continued-completed",

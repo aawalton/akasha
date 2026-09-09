@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0714Chapter713ConflictOfInterest = {
   id: "01a0672c-ed70-7000-8d1c-76bb179a39ae",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0714-chapter-713-conflict-of-interest",
   title: "Chapter 713 - Conflict Of Interest",
   story: "mythrans-master-of-all-continued-completed",

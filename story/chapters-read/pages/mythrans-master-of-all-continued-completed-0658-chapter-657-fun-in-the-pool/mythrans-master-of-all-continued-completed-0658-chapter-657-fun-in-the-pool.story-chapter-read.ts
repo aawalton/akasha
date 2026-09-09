@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0658Chapter657FunInThePool = {
   id: "01a0672c-ed43-7000-b5da-ced1cdfb5761",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0658-chapter-657-fun-in-the-pool",
   title: "Chapter 657 - Fun In The Pool",
   story: "mythrans-master-of-all-continued-completed",

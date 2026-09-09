@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0437Chapter439WorthAKiss = {
   id: "01a0672c-ecaf-7000-8cca-7598cc9ab7ac",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0437-chapter-439-worth-a-kiss",
   title: "Chapter 439 - Worth A Kiss",
   story: "mythrans-master-of-all-continued-completed",

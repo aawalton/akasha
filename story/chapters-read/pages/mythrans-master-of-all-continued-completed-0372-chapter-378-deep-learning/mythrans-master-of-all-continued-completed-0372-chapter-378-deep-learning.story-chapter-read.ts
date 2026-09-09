@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0372Chapter378DeepLearning = {
   id: "01a0672c-ec76-7000-a9ce-137ecb709e2e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0372-chapter-378-deep-learning",
   title: "Chapter 378 - Deep Learning",
   story: "mythrans-master-of-all-continued-completed",

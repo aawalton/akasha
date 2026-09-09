@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0485Chapter485IntoTheUnderworld = {
   id: "01a0672c-ecd6-7001-854f-97a55b754853",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0485-chapter-485-into-the-underworld",
   title: "Chapter 485 - Into The Underworld",
   story: "mythrans-master-of-all-continued-completed",

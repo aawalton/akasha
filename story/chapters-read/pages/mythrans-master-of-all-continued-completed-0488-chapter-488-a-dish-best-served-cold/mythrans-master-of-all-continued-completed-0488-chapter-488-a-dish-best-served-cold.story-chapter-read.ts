@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0488Chapter488ADishBestServedCold = {
   id: "01a0672c-ecd9-7001-b0ce-ad5fe1b79238",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0488-chapter-488-a-dish-best-served-cold",
   title: "Chapter 488 - A Dish Best Served Cold",
   story: "mythrans-master-of-all-continued-completed",

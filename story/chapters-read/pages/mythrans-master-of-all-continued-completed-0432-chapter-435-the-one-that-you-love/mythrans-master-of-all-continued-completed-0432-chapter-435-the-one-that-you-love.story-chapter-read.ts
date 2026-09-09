@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0432Chapter435TheOneThatYouLove = {
   id: "01a0672c-eca9-7000-a9e7-00ff49fa7dd6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0432-chapter-435-the-one-that-you-love",
   title: "Chapter 435 - The One That You Love",
   story: "mythrans-master-of-all-continued-completed",

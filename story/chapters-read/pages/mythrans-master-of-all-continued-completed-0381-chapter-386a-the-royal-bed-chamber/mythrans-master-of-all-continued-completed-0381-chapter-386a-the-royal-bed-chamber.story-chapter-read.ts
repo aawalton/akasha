@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0381Chapter386aTheRoyalBedChamber = {
   id: "01a0672c-ec7f-7000-ba9b-15904900695c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0381-chapter-386a-the-royal-bed-chamber",
   title: "Chapter 386A - The Royal Bed Chamber",
   story: "mythrans-master-of-all-continued-completed",

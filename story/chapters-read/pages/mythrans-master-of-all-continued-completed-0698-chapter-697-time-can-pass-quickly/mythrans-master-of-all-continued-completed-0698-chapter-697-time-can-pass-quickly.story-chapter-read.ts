@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0698Chapter697TimeCanPassQuickly = {
   id: "01a0672c-ed62-7000-a49e-ebc98ef14f97",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0698-chapter-697-time-can-pass-quickly",
   title: "Chapter 697 - Time Can Pass Quickly",
   story: "mythrans-master-of-all-continued-completed",

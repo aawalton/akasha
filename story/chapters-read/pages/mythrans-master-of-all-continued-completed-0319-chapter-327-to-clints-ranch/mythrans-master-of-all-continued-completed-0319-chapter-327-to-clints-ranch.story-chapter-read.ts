@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0319Chapter327ToClintsRanch = {
   id: "01a0672c-ec42-7000-bade-60d249993c08",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0319-chapter-327-to-clints-ranch",
   title: "Chapter 327 - To Clint's Ranch",
   story: "mythrans-master-of-all-continued-completed",

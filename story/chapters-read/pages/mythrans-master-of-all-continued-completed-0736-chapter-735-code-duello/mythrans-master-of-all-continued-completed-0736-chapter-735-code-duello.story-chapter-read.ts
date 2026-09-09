@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0736Chapter735CodeDuello = {
   id: "01a0672c-ed7d-7000-af54-352d9dcc3a45",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0736-chapter-735-code-duello",
   title: "Chapter 735 - Code Duello",
   story: "mythrans-master-of-all-continued-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0556Chapter556PickingThemUpPart3 = {
   id: "01a0672c-ed07-7000-a0aa-18fe1c3dc5e8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0556-chapter-556-picking-them-up-part-3",
   title: "Chapter 556 - Picking Them Up: Part 3",
   story: "mythrans-master-of-all-continued-completed",

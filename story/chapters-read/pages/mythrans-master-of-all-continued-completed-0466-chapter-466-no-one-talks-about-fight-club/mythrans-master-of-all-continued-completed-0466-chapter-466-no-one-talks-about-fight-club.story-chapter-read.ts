@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0466Chapter466NoOneTalksAboutFightClub = {
   id: "01a0672c-ecc7-7000-a2fe-1da59c620b6e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0466-chapter-466-no-one-talks-about-fight-club",
   title: "Chapter 466 - No One Talks About Fight Club",
   story: "mythrans-master-of-all-continued-completed",

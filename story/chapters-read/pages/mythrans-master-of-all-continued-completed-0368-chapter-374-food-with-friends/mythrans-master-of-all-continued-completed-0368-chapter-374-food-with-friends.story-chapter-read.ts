@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0368Chapter374FoodWithFriends = {
   id: "01a0672c-ec72-7000-8abf-698b238b7808",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0368-chapter-374-food-with-friends",
   title: "Chapter 374 - Food With Friends",
   story: "mythrans-master-of-all-continued-completed",

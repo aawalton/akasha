@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0686Chapter685TimeWaitsForNoOne = {
   id: "01a0672c-ed59-7000-8e64-a98aa603caaa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0686-chapter-685-time-waits-for-no-one",
   title: "Chapter 685 - Time Waits For No One",
   story: "mythrans-master-of-all-continued-completed",

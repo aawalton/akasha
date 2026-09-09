@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0434Chapter436aIFoundYouExplicitContent = {
   id: "01a0672c-ecaa-7001-98e7-86d1803494ac",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0434-chapter-436a-i-found-you-explicit-content",
   title: "Chapter 436A - I Found You (EXPLICIT CONTENT)",
   story: "mythrans-master-of-all-continued-completed",

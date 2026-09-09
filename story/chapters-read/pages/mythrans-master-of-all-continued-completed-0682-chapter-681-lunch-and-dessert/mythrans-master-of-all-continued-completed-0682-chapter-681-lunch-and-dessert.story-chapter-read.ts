@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0682Chapter681LunchAndDessert = {
   id: "01a0672c-ed55-7000-989b-c719390b52dc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0682-chapter-681-lunch-and-dessert",
   title: "Chapter 681 - Lunch And Dessert",
   story: "mythrans-master-of-all-continued-completed",

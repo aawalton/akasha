@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0615Chapter615CallingItQuits = {
   id: "01a0672c-ed27-7000-8120-b35ce538ac6a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0615-chapter-615-calling-it-quits",
   title: "Chapter 615 - Calling It Quits",
   story: "mythrans-master-of-all-continued-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0439Chapter440aMerryGoRoundExplicit = {
   id: "01a0672c-ecb0-7001-a0b6-88dca5ac9851",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0439-chapter-440a-merry-go-round-explicit",
   title: "Chapter 440A - Merry-Go-Round - EXPLICIT",
   story: "mythrans-master-of-all-continued-completed",

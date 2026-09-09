@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0734Chapter733DuelDilemma = {
   id: "01a0672c-ed7b-7001-8ed6-c47c9ba83278",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0734-chapter-733-duel-dilemma",
   title: "Chapter 733 - Duel Dilemma",
   story: "mythrans-master-of-all-continued-completed",

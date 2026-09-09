@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0462Chapter462SayHiToTheHighElves = {
   id: "01a0672c-ecc3-7000-98f7-e7a3a2f7ccc5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0462-chapter-462-say-hi-to-the-high-elves",
   title: "Chapter 462 - Say Hi To The High Elves",
   story: "mythrans-master-of-all-continued-completed",

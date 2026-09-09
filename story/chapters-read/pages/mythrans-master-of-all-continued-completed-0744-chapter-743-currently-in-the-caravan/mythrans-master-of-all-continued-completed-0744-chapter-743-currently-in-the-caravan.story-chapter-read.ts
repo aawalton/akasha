@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0744Chapter743CurrentlyInTheCaravan = {
   id: "01a0672c-ed82-7001-a3d5-eb7f478b3594",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0744-chapter-743-currently-in-the-caravan",
   title: "Chapter 743 - Currently In The Caravan",
   story: "mythrans-master-of-all-continued-completed",

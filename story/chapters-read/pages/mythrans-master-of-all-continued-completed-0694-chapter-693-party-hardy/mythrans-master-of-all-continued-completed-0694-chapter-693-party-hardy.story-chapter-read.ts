@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0694Chapter693PartyHardy = {
   id: "01a0672c-ed5f-7000-b21c-a07ba4d3ee73",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0694-chapter-693-party-hardy",
   title: "Chapter 693 - Party Hardy",
   story: "mythrans-master-of-all-continued-completed",

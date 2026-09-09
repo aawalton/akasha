@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0396Chapter400PleasurePalace = {
   id: "01a0672c-ec8c-7000-8c1e-9d8d35c56deb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0396-chapter-400-pleasure-palace",
   title: "Chapter 400 - Pleasure Palace",
   story: "mythrans-master-of-all-continued-completed",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0464Chapter464HonorDuel = {
   id: "01a0672c-ecc4-7001-8147-503d44bc7aba",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0464-chapter-464-honor-duel",
   title: "Chapter 464 - Honor Duel",
   story: "mythrans-master-of-all-continued-completed",

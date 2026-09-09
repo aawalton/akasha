@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0751Chapter750PervarianProblem = {
   id: "01a0672c-ed87-7001-af82-1c9c789185d9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0751-chapter-750-pervarian-problem",
   title: "Chapter 750 - Pervarian Problem",
   story: "mythrans-master-of-all-continued-completed",

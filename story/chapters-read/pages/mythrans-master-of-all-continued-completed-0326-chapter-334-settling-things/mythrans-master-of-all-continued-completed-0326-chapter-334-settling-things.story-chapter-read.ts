@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const mythransMasterOfAllContinuedCompleted0326Chapter334SettlingThings = {
   id: "01a0672c-ec49-7000-88b1-9e9df53423bc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0326-chapter-334-settling-things",
   title: "Chapter 334 - Settling Things",
   story: "mythrans-master-of-all-continued-completed",
