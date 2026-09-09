@@ -16,6 +16,15 @@ export const testFixture = {
     },
     {
       invariantKind: "departure",
+      statement: "A page a fixture invents has a slug no page in the tree has.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "A fixture stating the values of a page it does not import has nothing keeping the two alike.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A fixture sits in a world the system could have built.",
     },
     {
