@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../scripture-passage.page-type.ts"
 
 export const deuteronomy645 = {
   id: "019ffda3-1c8e-734a-b61f-c20e61ecb5bf",
