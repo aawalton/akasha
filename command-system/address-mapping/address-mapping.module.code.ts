@@ -12,6 +12,8 @@ const PAGE_TYPE = "page-type"
 
 const RUNNER = "change-runner"
 
+const REACHED = "reached"
+
 const REACHED_SLUG = "reachedSlug"
 
 const ADDRESSED = "addressed"
@@ -129,7 +131,8 @@ export function mappedOver(
     if (value === null || value[ADDRESSED] !== HOLDS) continue
     const at = besideAt(listed.path, ADDRESSED, TS)
     if (at === null || answered.has(at)) continue
-    const reached = value[REACHED_SLUG]
+    const named = value[REACHED]
+    const reached = typeof named === "string" ? named : value[REACHED_SLUG]
     if (typeof reached !== "string") continue
     const addresses = addressesFor(shadow, kindIn(reached), at, textAt)
     const raw = new TextEncoder().encode(bodyFor(addresses))
