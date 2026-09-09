@@ -7,7 +7,7 @@ export const awen = {
   personaSlug: "awen",
   assignmentSlug: "initiative/awen-page-folders-by-index",
   role: "definer",
-  person: "alan",
+  personSlug: "alan",
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
