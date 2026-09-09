@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperTradingListings = {
   id: "01a060a7-02f1-7930-8d6d-b218c9feb9ff",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-trading-listings",
   definition: "guild store listings gathered one store at a time",
-  manifest: "json",
   parts: [
     "module/browse-listings",
     "module/browse-state",
@@ -27,4 +26,4 @@ export const temperTradingListings = {
       statement: "No code here reaches the game.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

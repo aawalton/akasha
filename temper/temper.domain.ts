@@ -89,7 +89,7 @@ export const temper = {
     "workspace-package/temper-build-support",
     "domain/temper-trading-pricing-client",
     "workspace-package/temper-hud-components",
-    "workspace-package/temper-trading-listings",
+    "domain/temper-trading-listings",
     "workspace-package/temper-capture-perf",
     "domain/temper-trading-post",
     "workspace-package/temper-addon-init",

@@ -18,14 +18,14 @@ import {
   type BrowseListing,
   mergeListings,
   sortByUnitPriceDesc,
-} from "@akasha/temper-trading-listings/browse-listings"
+} from "akasha/temper/trading-listings/browse-listings/browse-listings.module.code.ts"
 import {
   type BrowseAction,
   type BrowseEvent,
   type BrowseState,
   decideBrowseNext,
   INITIAL_BROWSE_STATE,
-} from "@akasha/temper-trading-listings/browse-state"
+} from "akasha/temper/trading-listings/browse-state/browse-state.module.code.ts"
 import { readResultListing } from "../trading-listing-facts/trading-listing-facts.module.code.ts"
 import { applyCollectorToNativeSearch } from "../trading-search-request-native/trading-search-request-native.module.code.ts"
 

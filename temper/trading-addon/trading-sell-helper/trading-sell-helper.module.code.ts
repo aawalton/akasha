@@ -21,7 +21,10 @@ import {
   PADDING_X,
   PADDING_Y,
 } from "@akasha/temper-items-filters-addon/filter-bar-controls"
-import { getItemPriceKey, suggestSellPrice } from "@akasha/temper-trading-listings/sell-pricing"
+import {
+  getItemPriceKey,
+  suggestSellPrice,
+} from "akasha/temper/trading-listings/sell-pricing/sell-pricing.module.code.ts"
 import {
   createSellFlow,
   type SellFlow,

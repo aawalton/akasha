@@ -2253,16 +2253,6 @@
         "@akasha/temper-items-filters-addon": "workspace:*",
         "@akasha/temper-items-filters-core": "workspace:*",
         "@akasha/temper-items-rules-eval": "workspace:*",
-        "@akasha/temper-trading-listings": "workspace:*",
-      },
-    },
-    "temper/trading-listings": {
-      "name": "@akasha/temper-trading-listings",
-      "dependencies": {
-        "@akasha/temper-capture-host": "workspace:*",
-        "@akasha/temper-items-core": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
       },
     },
     "temper/trading-pricing": {
@@ -2693,8 +2683,6 @@
     "@akasha/temper-skill-morphs-access": ["@akasha/temper-skill-morphs-access@workspace:temper/skill-morphs-access"],
 
     "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
-
-    "@akasha/temper-trading-listings": ["@akasha/temper-trading-listings@workspace:temper/trading-listings"],
 
     "@akasha/temper-trading-pricing": ["@akasha/temper-trading-pricing@workspace:temper/trading-pricing"],
 

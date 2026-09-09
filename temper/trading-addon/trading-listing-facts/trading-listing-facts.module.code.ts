@@ -12,7 +12,7 @@ import {
   resolveStaticItemKey,
 } from "@akasha/temper-items-rules-eval/build-item-facts-from-inventory-item"
 import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
-import type { BrowseListing } from "@akasha/temper-trading-listings/browse-listings"
+import type { BrowseListing } from "akasha/temper/trading-listings/browse-listings/browse-listings.module.code.ts"
 
 function asNumber(value: unknown): number | undefined {
   return typeof value === "number" ? value : undefined
