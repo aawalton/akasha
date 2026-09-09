@@ -6,6 +6,10 @@ export const astraGeneratedTypes = {
   slug: "astra-generated-types",
   domain: "workspace-package/page",
   persona: "astra",
+  constraints: [
+    "A type moving out of a page's file is followed by every importer rather than by an alias.",
+    "A mechanical change moves it, and that change is built before the types are moved.",
+  ],
   intents: [
     {
       statement: "No change to a file's content lands on a file a generated property has.",
