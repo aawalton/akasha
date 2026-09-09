@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { AuthorityCertificate } from "./properties/authority-certificate.named-file-property.ts"
+import type { AuthorityCertificate } from "./properties/authority-certificate.file-property.ts"
 
 export type CertificateAuthority = Domain & {
   authorityCertificate: AuthorityCertificate
@@ -12,10 +12,10 @@ export const certificateAuthority = {
   slug: "certificate-authority",
   definition: "who signs the certificates a set of names is trusted on",
   pluralSlug: "certificate-authorities",
-  partSlugs: ["named-file-property/authority-certificate"],
+  partSlugs: ["file-property/authority-certificate"],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "named-file-property/authority-certificate", required: true, many: false },
+    { pagePropertySlug: "file-property/authority-certificate", required: true, many: false },
   ],
   invariants: [
     {

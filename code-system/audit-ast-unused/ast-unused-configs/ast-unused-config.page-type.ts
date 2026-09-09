@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Curation } from "./properties/curation.named-file-property.ts"
+import type { Curation } from "./properties/curation.file-property.ts"
 import type { Workspaces } from "./properties/workspaces.file-property.ts"
 
 export type AstUnusedConfig = Domain & {
@@ -14,11 +14,11 @@ export const astUnusedConfig = {
   slug: "ast-unused-config",
   definition: "one file of the curation the ast-unused audit reads its globs from",
   pluralSlug: "ast-unused-configs",
-  partSlugs: ["file-property/workspaces", "named-file-property/curation"],
+  partSlugs: ["file-property/workspaces", "file-property/curation"],
   extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/workspaces", required: false, many: false },
-    { pagePropertySlug: "named-file-property/curation", required: false, many: false },
+    { pagePropertySlug: "file-property/curation", required: false, many: false },
   ],
   invariants: [
     {

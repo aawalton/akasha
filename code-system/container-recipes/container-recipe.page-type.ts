@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Recipe } from "./properties/recipe.named-file-property.ts"
+import type { Recipe } from "./properties/recipe.file-property.ts"
 
 export type ContainerRecipe = Domain & {
   recipe: Recipe
@@ -12,9 +12,9 @@ export const containerRecipe = {
   slug: "container-recipe",
   definition: "the steps a container image is built from",
   pluralSlug: "container-recipes",
-  partSlugs: ["named-file-property/recipe"],
+  partSlugs: ["file-property/recipe"],
   extendsSlug: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "named-file-property/recipe", required: true, many: false }],
+  properties: [{ pagePropertySlug: "file-property/recipe", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

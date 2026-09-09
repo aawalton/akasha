@@ -9,7 +9,7 @@ import type { CapacitorConfig } from "./properties/capacitor-config.file-propert
 import type { DefaultDeviceUdid } from "./properties/default-device-udid.text-property.ts"
 import type { DevelopmentTeam } from "./properties/development-team.text-property.ts"
 import type { DisplayName } from "./properties/display-name.text-property.ts"
-import type { GitIgnore } from "./properties/git-ignore.named-file-property.ts"
+import type { GitIgnore } from "./properties/git-ignore.file-property.ts"
 import type { IconDrawing } from "./properties/icon-drawing.file-property.ts"
 import type { MacBuildLockDir } from "./properties/mac-build-lock-dir.text-property.ts"
 import type { MacBuildNumberFile } from "./properties/mac-build-number-file.text-property.ts"
@@ -67,7 +67,7 @@ export const iosApp = {
     "ios-app/atlas",
     "ios-app/smilingjenny",
     "module/app-building",
-    "named-file-property/git-ignore",
+    "file-property/git-ignore",
     "relation-property/build-script",
     "relation-property/programs",
     "relation-property/stage-script",
@@ -109,7 +109,7 @@ export const iosApp = {
     { pagePropertySlug: "text-property/default-device-udid", required: false, many: false },
     { pagePropertySlug: "text-property/development-team", required: true, many: false },
     { pagePropertySlug: "text-property/display-name", required: true, many: false },
-    { pagePropertySlug: "named-file-property/git-ignore", required: true, many: false },
+    { pagePropertySlug: "file-property/git-ignore", required: true, many: false },
     { pagePropertySlug: "file-property/app-icon", required: false, many: false },
     { pagePropertySlug: "file-property/icon-drawing", required: false, many: false },
     { pagePropertySlug: "text-property/mac-build-lock-dir", required: false, many: false },

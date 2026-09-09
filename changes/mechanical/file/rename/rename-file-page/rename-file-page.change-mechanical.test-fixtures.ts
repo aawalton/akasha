@@ -95,16 +95,16 @@ const WAY_BODY = `{
 `
 
 export const wayAt: string = indexedRepo({
-  "akasha/named-file-property.page-type.ts": pageOf({
+  "akasha/file-property.page-type.ts": pageOf({
     id: wayId("0"),
     pageTypeSlug: "page-type",
-    slug: "named-file-property",
-    pluralSlug: "named-file-properties",
+    slug: "file-property",
+    pluralSlug: "file-properties",
     extendsSlug: ["page-type/page-property"],
   }),
-  "akasha/manifest.named-file-property.ts": pageOf({
+  "akasha/manifest.file-property.ts": pageOf({
     id: wayId("1"),
-    pageTypeSlug: "named-file-property",
+    pageTypeSlug: "file-property",
     slug: "manifest",
     propertySlug: "manifest",
     fileName: "package.json",
@@ -115,7 +115,7 @@ export const wayAt: string = indexedRepo({
     slug: "workspace-package",
     pluralSlug: "workspace-packages",
     extendsSlug: ["page-type/domain"],
-    properties: [{ pagePropertySlug: "named-file-property/manifest", required: true, many: false }],
+    properties: [{ pagePropertySlug: "file-property/manifest", required: true, many: false }],
   }),
   "akasha/nine/nine.workspace-package.ts": pageOf({
     id: wayId("3"),

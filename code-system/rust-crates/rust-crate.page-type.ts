@@ -1,7 +1,7 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { CargoBuildScript } from "./properties/cargo-build-script.named-file-property.ts"
-import type { CargoManifest } from "./properties/cargo-manifest.named-file-property.ts"
+import type { CargoBuildScript } from "./properties/cargo-build-script.file-property.ts"
+import type { CargoManifest } from "./properties/cargo-manifest.file-property.ts"
 import type { CrateIcon } from "./properties/crate-icon.file-property.ts"
 import type { RustModules } from "./properties/rust-modules.relation-property.ts"
 
@@ -20,20 +20,20 @@ export const rustCrate = {
   pluralSlug: "rust-crates",
   partSlugs: [
     "file-property/crate-icon",
-    "named-file-property/cargo-build-script",
-    "named-file-property/cargo-manifest",
+    "file-property/cargo-build-script",
+    "file-property/cargo-manifest",
     "relation-property/rust-modules",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "named-file-property/cargo-manifest", required: true, many: false },
+    { pagePropertySlug: "file-property/cargo-manifest", required: true, many: false },
     {
       pagePropertySlug: "relation-property/rust-modules",
       required: false,
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "named-file-property/cargo-build-script", required: false, many: false },
+    { pagePropertySlug: "file-property/cargo-build-script", required: false, many: false },
     { pagePropertySlug: "file-property/crate-icon", required: false, many: false },
   ],
   invariants: [

@@ -1,8 +1,8 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
-import type { AddonGitIgnore } from "./properties/addon-git-ignore.named-file-property.ts"
+import type { AddonGitIgnore } from "./properties/addon-git-ignore.file-property.ts"
 import type { AddonManifest } from "./properties/addon-manifest.file-property.ts"
-import type { Bindings } from "./properties/bindings.named-file-property.ts"
+import type { Bindings } from "./properties/bindings.file-property.ts"
 import type { BundleEntry } from "./properties/bundle-entry.relation-property.ts"
 import type { EsoInterfaces } from "./properties/eso-interfaces.relation-property.ts"
 import type { LuaModules } from "./properties/lua-modules.relation-property.ts"
@@ -27,8 +27,8 @@ export const esoAddon = {
   partSlugs: [
     "file-property/addon-manifest",
     "file-property/sibling-manifest",
-    "named-file-property/addon-git-ignore",
-    "named-file-property/bindings",
+    "file-property/addon-git-ignore",
+    "file-property/bindings",
     "relation-property/bundle-entry",
     "relation-property/eso-interfaces",
     "relation-property/lua-modules",
@@ -37,7 +37,7 @@ export const esoAddon = {
   properties: [
     { pagePropertySlug: "file-property/addon-manifest", required: true, many: false },
     { pagePropertySlug: "relation-property/bundle-entry", required: false, many: false },
-    { pagePropertySlug: "named-file-property/bindings", required: false, many: false },
+    { pagePropertySlug: "file-property/bindings", required: false, many: false },
     {
       pagePropertySlug: "relation-property/eso-interfaces",
       required: false,
@@ -50,7 +50,7 @@ export const esoAddon = {
       many: true,
       maxCount: null,
     },
-    { pagePropertySlug: "named-file-property/addon-git-ignore", required: false, many: false },
+    { pagePropertySlug: "file-property/addon-git-ignore", required: false, many: false },
     { pagePropertySlug: "file-property/sibling-manifest", required: false, many: false },
   ],
   invariants: [

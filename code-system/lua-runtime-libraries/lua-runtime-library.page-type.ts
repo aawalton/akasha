@@ -1,7 +1,7 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Lua50Config } from "./properties/lua50-config.named-file-property.ts"
-import type { UniversalConfig } from "./properties/universal-config.named-file-property.ts"
+import type { Lua50Config } from "./properties/lua50-config.file-property.ts"
+import type { UniversalConfig } from "./properties/universal-config.file-property.ts"
 
 export type LuaRuntimeLibrary = Domain & {
   universalConfig: UniversalConfig
@@ -14,11 +14,11 @@ export const luaRuntimeLibrary = {
   slug: "lua-runtime-library",
   definition: "TypeScript a compiler turns into the Lua a game loads",
   pluralSlug: "lua-runtime-libraries",
-  partSlugs: ["named-file-property/lua50-config", "named-file-property/universal-config"],
+  partSlugs: ["file-property/lua50-config", "file-property/universal-config"],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "named-file-property/universal-config", required: true, many: false },
-    { pagePropertySlug: "named-file-property/lua50-config", required: true, many: false },
+    { pagePropertySlug: "file-property/universal-config", required: true, many: false },
+    { pagePropertySlug: "file-property/lua50-config", required: true, many: false },
   ],
   invariants: [
     {

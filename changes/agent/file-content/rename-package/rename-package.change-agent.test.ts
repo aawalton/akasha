@@ -99,16 +99,16 @@ const VOCABULARY: Readonly<Record<string, string>> = {
     slug: "file-name",
     propertySlug: "file-name",
   }),
-  "akasha/named-file-property.page-type.ts": bodyOf({
+  "akasha/file-property.page-type.ts": bodyOf({
     id: idAt("2"),
     pageTypeSlug: "page-type",
-    slug: "named-file-property",
+    slug: "file-property",
     extendsSlug: ["page-type/page-property"],
-    properties: [{ pagePropertySlug: "text-property/file-name", required: true, many: false }],
+    properties: [{ pagePropertySlug: "text-property/file-name", required: false, many: false }],
   }),
-  "akasha/manifest.named-file-property.ts": bodyOf({
+  "akasha/manifest.file-property.ts": bodyOf({
     id: idAt("3"),
-    pageTypeSlug: "named-file-property",
+    pageTypeSlug: "file-property",
     slug: "manifest",
     propertySlug: "manifest",
     fileName: "package.json",
@@ -118,7 +118,7 @@ const VOCABULARY: Readonly<Record<string, string>> = {
     pageTypeSlug: "page-type",
     slug: "workspace-package",
     extendsSlug: ["page-type/domain"],
-    properties: [{ pagePropertySlug: "named-file-property/manifest", required: true, many: false }],
+    properties: [{ pagePropertySlug: "file-property/manifest", required: true, many: false }],
   }),
   "akasha/name-format.page-type.ts": bodyOf({
     id: idAt("5"),

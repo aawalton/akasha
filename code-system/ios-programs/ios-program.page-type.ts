@@ -4,7 +4,7 @@ import type { BundleId } from "../ios-apps/properties/bundle-id.text-property.ts
 import type { Components } from "./properties/components.relation-property.ts"
 import type { Entitlements } from "./properties/entitlements.file-property.ts"
 import type { InfoPlist } from "./properties/info-plist.file-property.ts"
-import type { Main } from "./properties/main.named-file-property.ts"
+import type { Main } from "./properties/main.file-property.ts"
 import type { ProfileName } from "./properties/profile-name.text-property.ts"
 import type { TargetName } from "./properties/target-name.text-property.ts"
 
@@ -33,7 +33,7 @@ export const iosProgram = {
     "ios-program/smilingjenny-app",
     "ios-program/smilingjenny-decode-harness",
     "ios-program/smilingjenny-widget",
-    "named-file-property/main",
+    "file-property/main",
     "relation-property/components",
     "text-property/profile-name",
     "text-property/target-name",
@@ -49,7 +49,7 @@ export const iosProgram = {
     },
     { pagePropertySlug: "text-property/profile-name", required: false, many: false },
     { pagePropertySlug: "text-property/target-name", required: false, many: false },
-    { pagePropertySlug: "named-file-property/main", required: false, many: false },
+    { pagePropertySlug: "file-property/main", required: false, many: false },
     { pagePropertySlug: "file-property/info-plist", required: false, many: false },
     { pagePropertySlug: "file-property/entitlements", required: false, many: false },
   ],
