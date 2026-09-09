@@ -7,7 +7,7 @@ export const harryPotterOriginalSeriesHarryPotterAndTheSorcerersStone = {
   title: "Harry Potter Original Series: Harry Potter and the Sorcerer's Stone",
   status: "completed",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 78500,
   ownProgress: 78500,

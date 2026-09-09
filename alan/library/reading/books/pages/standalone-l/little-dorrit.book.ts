@@ -7,7 +7,7 @@ export const littleDorrit = {
   title: "Little Dorrit",
   status: "not-started",
   author: "Charles Dickens, Mary Sebag-Montefiore, Adam Leverton",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 213000,
 } as const satisfies Book

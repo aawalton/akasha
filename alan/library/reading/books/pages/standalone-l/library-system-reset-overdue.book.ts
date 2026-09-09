@@ -7,7 +7,7 @@ export const librarySystemResetOverdue = {
   title: "Library System Reset: Overdue",
   status: "not-started",
   author: "K. T. Hanna",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 147750,
   publishedAt: "2024-07-02",

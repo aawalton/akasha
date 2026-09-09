@@ -6,7 +6,7 @@ export const theHeartfireHealerPerdition = {
   slug: "the-heartfire-healer-perdition",
   title: "The Heartfire Healer: Perdition",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 104250,
   publishedAt: "2022-04-26",

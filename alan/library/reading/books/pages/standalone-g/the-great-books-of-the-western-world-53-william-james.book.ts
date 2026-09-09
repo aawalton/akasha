@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld53WilliamJames = {
   title: "The Great Books of the Western World 53: William James",
   status: "not-started",
   author: "Όμηρος",
-  unitSlug: "words",
+  unit: "words",
   position: 53,
   ownLength: 224250,
 } as const satisfies Book

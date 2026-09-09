@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld11LucretiusEpictetusMarcusAureliusPlo
   slug: "the-great-books-of-the-western-world-11-lucretius-epictetus-marcus-aurelius-plotinus",
   title: "The Great Books of the Western World 11: Lucretius, Epictetus, Marcus Aurelius, Plotinus",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 169500,
 } as const satisfies Book

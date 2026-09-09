@@ -7,7 +7,7 @@ export const theDiscipleAsWitness = {
   title: "The Disciple as Witness",
   status: "not-started",
   author: "Richard Lloyd Anderson, Stephen David Ricks, Donald W. Parry, Andrew H. Hedges",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 134500,
 } as const satisfies Book

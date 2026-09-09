@@ -8,7 +8,7 @@ export const howTheMindWorks = {
   status: "completed",
   rank: "C",
   author: "Steven Pinker, Mel Foster, 3",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 391200,
   ownProgress: 391200,
 } as const satisfies Book

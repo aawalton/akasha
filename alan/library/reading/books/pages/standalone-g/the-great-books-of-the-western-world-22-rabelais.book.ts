@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld22Rabelais = {
   slug: "the-great-books-of-the-western-world-22-rabelais",
   title: "The Great Books of the Western World 22: Rabelais",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 22,
   ownLength: 79500,
 } as const satisfies Book

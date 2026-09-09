@@ -7,6 +7,6 @@ export const howToWinFriendsAndInfluencePeople = {
   title: "How to Win Friends & Influence People",
   status: "not-started",
   author: "Dale Carnegie",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 108750,
 } as const satisfies Book

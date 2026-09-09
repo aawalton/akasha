@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld12Virgil = {
   title: "The Great Books of the Western World 12: Virgil",
   status: "not-started",
   author: "Όμηρος",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 80250,
 } as const satisfies Book

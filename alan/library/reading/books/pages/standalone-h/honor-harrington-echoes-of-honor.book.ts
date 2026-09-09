@@ -7,7 +7,7 @@ export const honorHarringtonEchoesOfHonor = {
   title: "Honor Harrington: Echoes of Honor",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 185000,
   source: "kindle",

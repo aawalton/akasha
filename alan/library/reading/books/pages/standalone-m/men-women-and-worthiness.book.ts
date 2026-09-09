@@ -8,7 +8,7 @@ export const menWomenAndWorthiness = {
   status: "completed",
   rank: "B",
   author: "Brené Brown",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 33450,
   ownProgress: 33450,
 } as const satisfies Book

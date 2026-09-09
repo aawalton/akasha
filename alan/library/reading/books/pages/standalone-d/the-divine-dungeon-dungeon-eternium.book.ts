@@ -6,7 +6,7 @@ export const theDivineDungeonDungeonEternium = {
   slug: "the-divine-dungeon-dungeon-eternium",
   title: "The Divine Dungeon: Dungeon Eternium",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 82000,
   ownProgress: 82000,

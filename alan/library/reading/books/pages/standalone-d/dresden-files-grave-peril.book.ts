@@ -7,7 +7,7 @@ export const dresdenFilesGravePeril = {
   title: "Dresden Files: Grave Peril",
   status: "not-started",
   author: "Jim Butcher, James Marsters",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 116250,
   source: "kindle",

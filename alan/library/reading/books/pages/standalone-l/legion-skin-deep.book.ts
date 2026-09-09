@@ -7,7 +7,7 @@ export const legionSkinDeep = {
   title: "Legion: Skin Deep",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 38750,
   publishedAt: "2014-11-24",

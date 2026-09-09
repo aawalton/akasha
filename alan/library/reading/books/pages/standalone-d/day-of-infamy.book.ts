@@ -7,7 +7,7 @@ export const dayOfInfamy = {
   title: "Day of Infamy",
   status: "not-started",
   author: "Walter Lord",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 53000,
 } as const satisfies Book

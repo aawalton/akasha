@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld32NewtonHuygens = {
   slug: "the-great-books-of-the-western-world-32-newton-huygens",
   title: "The Great Books of the Western World 32: Newton, Huygens",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 32,
   ownLength: 154750,
 } as const satisfies Book

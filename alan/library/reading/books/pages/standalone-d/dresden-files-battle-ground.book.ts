@@ -7,7 +7,7 @@ export const dresdenFilesBattleGround = {
   title: "Dresden Files: Battle Ground",
   status: "not-started",
   author: "Jim Butcher",
-  unitSlug: "words",
+  unit: "words",
   position: 16,
   ownLength: 106000,
   source: "kindle",

@@ -6,7 +6,7 @@ export const theCompletionistChroniclesTenacity = {
   slug: "the-completionist-chronicles-tenacity",
   title: "The Completionist Chronicles: Tenacity",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 92000,
   publishedAt: "2023-10-03",

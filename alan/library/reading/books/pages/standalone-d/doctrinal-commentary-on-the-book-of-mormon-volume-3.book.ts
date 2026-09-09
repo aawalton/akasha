@@ -7,7 +7,7 @@ export const doctrinalCommentaryOnTheBookOfMormonVolume3 = {
   title: "Doctrinal Commentary on the Book of Mormon Volume 3",
   status: "paused",
   author: "Bible",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 106000,
   ownProgress: 9500,

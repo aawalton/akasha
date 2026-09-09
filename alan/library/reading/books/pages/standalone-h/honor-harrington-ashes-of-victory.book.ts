@@ -7,7 +7,7 @@ export const honorHarringtonAshesOfVictory = {
   title: "Honor Harrington: Ashes of Victory",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 169000,
   source: "kindle",

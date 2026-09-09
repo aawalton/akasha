@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld25ShakespeareIi = {
   title: "The Great Books of the Western World 25: Shakespeare II",
   status: "not-started",
   author: "William Shakespeare",
-  unitSlug: "words",
+  unit: "words",
   position: 25,
   ownLength: 152250,
 } as const satisfies Book

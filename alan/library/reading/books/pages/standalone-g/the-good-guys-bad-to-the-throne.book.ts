@@ -7,7 +7,7 @@ export const theGoodGuysBadToTheThrone = {
   title: "The Good Guys: Bad to the Throne",
   status: "not-started",
   author: "SuperSummary",
-  unitSlug: "words",
+  unit: "words",
   position: 15,
   ownLength: 145000,
   publishedAt: "2024-06-08",

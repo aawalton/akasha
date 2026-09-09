@@ -8,7 +8,7 @@ export const theFabricOfReality2 = {
   status: "completed",
   rank: "S",
   author: "David Deutsch",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 216450,
   ownProgress: 216450,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const expeditionaryForceValkyrie = {
   title: "Expeditionary Force: Valkyrie",
   status: "not-started",
   author: "Craig Alanson",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 99500,
   source: "kindle",

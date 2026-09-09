@@ -7,7 +7,7 @@ export const discworldMaskerade = {
   title: "Discworld: Maskerade",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 18,
   ownLength: 87750,
   source: "kindle",

@@ -7,7 +7,7 @@ export const honorHarringtonMissionOfHonor = {
   title: "Honor Harrington: Mission of Honor",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 142750,
   source: "kindle",

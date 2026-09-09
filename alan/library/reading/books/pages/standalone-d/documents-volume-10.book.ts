@@ -7,6 +7,6 @@ export const documentsVolume10 = {
   title: "Documents Volume 10",
   status: "not-started",
   author: "Saint 1581-1660 Vincent De Paul",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
 } as const satisfies Book

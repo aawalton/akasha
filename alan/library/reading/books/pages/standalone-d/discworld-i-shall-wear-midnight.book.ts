@@ -7,7 +7,7 @@ export const discworldIShallWearMidnight = {
   title: "Discworld: I Shall Wear Midnight",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 38,
   ownLength: 84250,
   publishedAt: "2010-09-28",

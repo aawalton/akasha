@@ -6,7 +6,7 @@ export const honorHarringtonTollOfHonor = {
   slug: "honor-harrington-toll-of-honor",
   title: "Honor Harrington: Toll of Honor",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 154250,
   source: "kindle",

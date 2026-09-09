@@ -7,7 +7,7 @@ export const josephSmithRoughStoneRolling = {
   title: "Joseph Smith Rough Stone Rolling",
   status: "not-started",
   author: "Richard Lyman Bushman",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 140250,
 } as const satisfies Book

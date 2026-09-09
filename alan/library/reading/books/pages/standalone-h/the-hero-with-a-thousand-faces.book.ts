@@ -7,6 +7,6 @@ export const theHeroWithAThousandFaces = {
   title: "The Hero with a Thousand Faces",
   status: "not-started",
   author: "Joseph Campbell",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 219300,
 } as const satisfies Book

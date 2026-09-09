@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld31MoliereRacine = {
   slug: "the-great-books-of-the-western-world-31-moliere-racine",
   title: "The Great Books of the Western World 31: Moliere, Racine",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 31,
   ownLength: 91750,
 } as const satisfies Book

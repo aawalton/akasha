@@ -7,7 +7,7 @@ export const discworldUnseenAcademicals = {
   title: "Discworld: Unseen Academicals",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 37,
   ownLength: 119750,
   publishedAt: "2009-09-22",

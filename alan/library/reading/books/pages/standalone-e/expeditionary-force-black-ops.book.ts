@@ -7,7 +7,7 @@ export const expeditionaryForceBlackOps = {
   title: "Expeditionary Force: Black Ops",
   status: "not-started",
   author: "Craig Alanson",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 69500,
   source: "kindle",

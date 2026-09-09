@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld47Dickens = {
   title: "The Great Books of the Western World 47: Dickens",
   status: "not-started",
   author: "Daniel Defoe, J. J. Grandville, Petrus Borel, Les éditions du Rey, N. C. Wyeth",
-  unitSlug: "words",
+  unit: "words",
   position: 47,
   ownLength: 106250,
 } as const satisfies Book

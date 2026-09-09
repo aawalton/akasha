@@ -7,6 +7,6 @@ export const dumbWitness = {
   title: "Dumb Witness",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
 } as const satisfies Book

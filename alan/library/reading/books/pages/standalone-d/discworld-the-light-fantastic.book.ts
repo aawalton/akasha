@@ -7,7 +7,7 @@ export const discworldTheLightFantastic = {
   title: "Discworld: The Light Fantastic",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 68000,
   source: "kindle",

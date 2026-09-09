@@ -8,7 +8,7 @@ export const theHobbit = {
   status: "completed",
   rank: "A",
   author: "J.R.R. Tolkien",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   publishedAt: "1937-09-21",
 } as const satisfies Book

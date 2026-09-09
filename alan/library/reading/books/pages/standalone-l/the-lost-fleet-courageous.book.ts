@@ -7,7 +7,7 @@ export const theLostFleetCourageous = {
   title: "The Lost Fleet: Courageous",
   status: "not-started",
   author: "Jack Campbell",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 80500,
   source: "kindle",

@@ -7,7 +7,7 @@ export const harryPotterOriginalSeriesHarryPotterAndTheGobletOfFire = {
   title: "Harry Potter Original Series: Harry Potter and the Goblet of Fire",
   status: "completed",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 185000,
   ownProgress: 185000,

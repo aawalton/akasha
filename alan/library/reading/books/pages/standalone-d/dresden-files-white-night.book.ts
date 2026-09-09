@@ -7,7 +7,7 @@ export const dresdenFilesWhiteNight = {
   title: "Dresden Files: White Night",
   status: "not-started",
   author: "Jim Butcher",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 132000,
   source: "kindle",

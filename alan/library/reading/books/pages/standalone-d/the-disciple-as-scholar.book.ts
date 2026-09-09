@@ -7,7 +7,7 @@ export const theDiscipleAsScholar = {
   title: "The Disciple as Scholar",
   status: "paused",
   author: "Richard Lloyd Anderson, Stephen David Ricks, Donald W. Parry, Andrew H. Hedges",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 151500,
   ownProgress: 250,

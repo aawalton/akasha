@@ -7,6 +7,6 @@ export const giveAndTake = {
   title: "Give and Take",
   status: "not-started",
   author: "Adam Grant, Adam M. Grant",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 177450,
 } as const satisfies Book

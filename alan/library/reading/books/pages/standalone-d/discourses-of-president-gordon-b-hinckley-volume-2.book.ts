@@ -6,7 +6,7 @@ export const discoursesOfPresidentGordonBHinckleyVolume2 = {
   slug: "discourses-of-president-gordon-b-hinckley-volume-2",
   title: "Discourses of President Gordon B. Hinckley Volume 2",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 173000,
 } as const satisfies Book

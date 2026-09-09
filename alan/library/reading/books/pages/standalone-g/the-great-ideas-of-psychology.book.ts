@@ -7,7 +7,7 @@ export const theGreatIdeasOfPsychology = {
   title: "The Great Ideas of Psychology",
   status: "completed",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 351750,
   ownProgress: 351750,
 } as const satisfies Book

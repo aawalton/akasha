@@ -6,7 +6,7 @@ export const milesVorsokiganCaptainVorpatrilsAlliance = {
   slug: "miles-vorsokigan-captain-vorpatrils-alliance",
   title: "Miles Vorsokigan: Captain Vorpatril's Alliance",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 133500,
   source: "kindle",

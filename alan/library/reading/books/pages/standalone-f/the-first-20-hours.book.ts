@@ -7,6 +7,6 @@ export const theFirst20Hours = {
   title: "The First 20 Hours",
   status: "not-started",
   author: "Josh Kaufman",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 109200,
 } as const satisfies Book

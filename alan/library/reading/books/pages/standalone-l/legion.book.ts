@@ -7,7 +7,7 @@ export const legion = {
   title: "Legion",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 23750,
   source: "kindle",

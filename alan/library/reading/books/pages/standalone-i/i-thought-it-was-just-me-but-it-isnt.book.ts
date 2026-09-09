@@ -7,6 +7,6 @@ export const iThoughtItWasJustMeButItIsnt = {
   title: "I Thought It Was Just Me (but it isn't)",
   status: "not-started",
   author: "Brené Brown, Lauren Fortgang",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 160950,
 } as const satisfies Book

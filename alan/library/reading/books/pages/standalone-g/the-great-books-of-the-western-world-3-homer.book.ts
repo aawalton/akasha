@@ -8,7 +8,7 @@ export const theGreatBooksOfTheWesternWorld3Homer = {
   status: "completed",
   rank: "B",
   author: "Όμηρος",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 135250,
   ownProgress: 135250,

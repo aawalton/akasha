@@ -7,7 +7,7 @@ export const theLastHorizonTheCaptain = {
   title: "The Last Horizon: The Captain",
   status: "not-started",
   author: "Will Wight",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 105000,
   source: "kindle",
   externalId: "B0BXPYQD4D",

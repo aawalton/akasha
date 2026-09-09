@@ -7,6 +7,6 @@ export const howWeLearn = {
   title: "How We Learn",
   status: "not-started",
   author: "Benedict Carey",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 175500,
 } as const satisfies Book

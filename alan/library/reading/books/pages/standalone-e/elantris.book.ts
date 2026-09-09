@@ -8,7 +8,7 @@ export const elantris = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 145250,
   ownProgress: 145250,

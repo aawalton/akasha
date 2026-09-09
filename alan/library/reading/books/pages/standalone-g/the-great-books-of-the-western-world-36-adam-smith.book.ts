@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld36AdamSmith = {
   title: "The Great Books of the Western World 36: Adam Smith",
   status: "not-started",
   author: "William Shakespeare",
-  unitSlug: "words",
+  unit: "words",
   position: 36,
   ownLength: 128750,
 } as const satisfies Book

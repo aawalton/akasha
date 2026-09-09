@@ -7,7 +7,7 @@ export const theExpanseCibolaBurn = {
   title: "The Expanse: Cibola Burn",
   status: "not-started",
   author: "James S. A. Corey",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 147750,
   source: "kindle",

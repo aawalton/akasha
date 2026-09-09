@@ -7,6 +7,6 @@ export const decisive = {
   title: "Decisive",
   status: "not-started",
   author: "Janet Dailey",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 137250,
 } as const satisfies Book

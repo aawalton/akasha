@@ -6,7 +6,7 @@ export const milesVorsokiganEthanOfAthos = {
   slug: "miles-vorsokigan-ethan-of-athos",
   title: "Miles Vorsokigan: Ethan of Athos",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 59500,
   source: "kindle",

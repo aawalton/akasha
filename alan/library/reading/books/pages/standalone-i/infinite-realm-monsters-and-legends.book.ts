@@ -6,7 +6,7 @@ export const infiniteRealmMonstersAndLegends = {
   slug: "infinite-realm-monsters-and-legends",
   title: "Infinite Realm: Monsters and Legends",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 275500,
   publishedAt: "2021-01-12",

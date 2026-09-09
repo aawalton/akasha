@@ -6,7 +6,7 @@ export const theGoodGuysDungeonMauling = {
   slug: "the-good-guys-dungeon-mauling",
   title: "The Good Guys: Dungeon Mauling",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 83500,
   ownProgress: 83500,

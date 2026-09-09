@@ -7,7 +7,7 @@ export const discworldAHatFullOfSky = {
   title: "Discworld: A Hat Full of Sky",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 32,
   ownLength: 106500,
   publishedAt: "2009-10-06",

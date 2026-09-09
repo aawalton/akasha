@@ -8,7 +8,7 @@ export const joshuaChamberlain = {
   status: "completed",
   rank: "C",
   author: "John J. Pullen",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 47250,
   ownProgress: 47250,

@@ -7,7 +7,7 @@ export const fantasticBeastsTheOriginalScreenplay = {
   title: "Fantastic Beasts: The Original Screenplay",
   status: "not-started",
   author: "J. K. Rowling",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 75000,
   publishedAt: "2018-11-16",

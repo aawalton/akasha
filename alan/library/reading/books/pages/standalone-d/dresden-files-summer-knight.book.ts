@@ -7,7 +7,7 @@ export const dresdenFilesSummerKnight = {
   title: "Dresden Files: Summer Knight",
   status: "not-started",
   author: "Jim Butcher",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 94750,
   source: "kindle",

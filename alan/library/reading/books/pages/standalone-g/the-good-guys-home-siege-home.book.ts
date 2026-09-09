@@ -7,7 +7,7 @@ export const theGoodGuysHomeSiegeHome = {
   title: "The Good Guys: Home, Siege Home",
   status: "completed",
   author: "Rodolfo Acuña, Rodolfo Acuna",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 92500,
   ownProgress: 92500,

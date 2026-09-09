@@ -6,7 +6,7 @@ export const theGoodGuysKillingThemAwfully = {
   slug: "the-good-guys-killing-them-awfully",
   title: "The Good Guys: Killing Them Awfully",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 84250,
   publishedAt: "2021-04-29",

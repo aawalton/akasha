@@ -7,6 +7,6 @@ export const journalsVolume2 = {
   title: "Journals Volume 2",
   status: "not-started",
   author: "WrightGroup/McGraw-Hill",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
 } as const satisfies Book

@@ -6,7 +6,7 @@ export const librarySystemResetRebound = {
   slug: "library-system-reset-rebound",
   title: "Library System Reset: Rebound",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 183750,
   publishedAt: "2024-11-18",

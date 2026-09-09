@@ -7,7 +7,7 @@ export const dawnshard = {
   title: "Dawnshard",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 69250,
 } as const satisfies Book

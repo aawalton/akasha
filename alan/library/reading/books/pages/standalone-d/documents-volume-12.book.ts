@@ -7,6 +7,6 @@ export const documentsVolume12 = {
   title: "Documents Volume 12",
   status: "not-started",
   author: "Matthew C. Godfrey, R. Eric Smith, Mathew J. Grow, Ronald K. Esplin",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
 } as const satisfies Book

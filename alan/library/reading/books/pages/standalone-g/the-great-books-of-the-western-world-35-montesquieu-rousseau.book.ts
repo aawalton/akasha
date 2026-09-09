@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld35MontesquieuRousseau = {
   slug: "the-great-books-of-the-western-world-35-montesquieu-rousseau",
   title: "The Great Books of the Western World 35: Montesquieu, Rousseau",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 35,
   ownLength: 109750,
 } as const satisfies Book

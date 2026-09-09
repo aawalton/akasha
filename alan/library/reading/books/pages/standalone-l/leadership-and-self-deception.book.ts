@@ -8,7 +8,7 @@ export const leadershipAndSelfDeception = {
   status: "completed",
   rank: "B",
   author: "Ivan Scott",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 42750,
   ownProgress: 42750,

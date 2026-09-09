@@ -7,7 +7,7 @@ export const expeditionaryForceBrushfire = {
   title: "Expeditionary Force: Brushfire",
   status: "not-started",
   author: "Craig Alanson",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 98500,
   source: "kindle",

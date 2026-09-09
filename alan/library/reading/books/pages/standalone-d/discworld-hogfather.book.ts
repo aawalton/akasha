@@ -7,7 +7,7 @@ export const discworldHogfather = {
   title: "Discworld: Hogfather",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 20,
   ownLength: 88750,
   source: "kindle",

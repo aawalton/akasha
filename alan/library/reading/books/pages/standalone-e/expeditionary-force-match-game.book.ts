@@ -7,7 +7,7 @@ export const expeditionaryForceMatchGame = {
   title: "Expeditionary Force: Match Game",
   status: "not-started",
   author: "Craig Alanson",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 174500,
   source: "kindle",

@@ -6,7 +6,7 @@ export const milesVorsokiganShardsOfHonor = {
   slug: "miles-vorsokigan-shards-of-honor",
   title: "Miles Vorsokigan: Shards of Honor",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 73750,
   source: "kindle",
   externalId: "B005BH9T86",

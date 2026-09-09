@@ -7,6 +7,6 @@ export const dare = {
   title: "Dare",
   status: "not-started",
   author: "Robert Lawrence Stine",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 94800,
 } as const satisfies Book

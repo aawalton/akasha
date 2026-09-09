@@ -6,7 +6,7 @@ export const earthenContendersUnexpectedHealer = {
   slug: "earthen-contenders-unexpected-healer",
   title: "Earthen Contenders: Unexpected Healer",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 95250,
   ownProgress: 95250,

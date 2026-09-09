@@ -7,7 +7,7 @@ export const dresdenFilesStormFront = {
   title: "Dresden Files: Storm Front",
   status: "not-started",
   author: "Jim Butcher",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 83000,
   source: "kindle",
   externalId: "B000WH7PLS",

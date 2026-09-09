@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld9HippocratesGalen = {
   title: "The Great Books of the Western World 9: Hippocrates, Galen",
   status: "completed",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 112250,
   ownProgress: 112250,

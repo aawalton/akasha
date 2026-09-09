@@ -6,7 +6,7 @@ export const theIllusionistNomadSoul = {
   slug: "the-illusionist-nomad-soul",
   title: "The Illusionist: Nomad Soul",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 96000,
   ownProgress: 96000,

@@ -7,7 +7,7 @@ export const theLastHorizonTheEngineer = {
   title: "The Last Horizon: The Engineer",
   status: "not-started",
   author: "William Shakespeare",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 104750,
   publishedAt: "2023-12-05",

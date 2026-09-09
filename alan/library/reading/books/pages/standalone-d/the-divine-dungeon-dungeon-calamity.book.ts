@@ -7,7 +7,7 @@ export const theDivineDungeonDungeonCalamity = {
   title: "The Divine Dungeon: Dungeon Calamity",
   status: "completed",
   author: "Dakota Krout",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 100500,
   ownProgress: 100500,

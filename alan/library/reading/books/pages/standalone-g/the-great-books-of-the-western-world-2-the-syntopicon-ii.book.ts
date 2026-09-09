@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld2TheSyntopiconIi = {
   slug: "the-great-books-of-the-western-world-2-the-syntopicon-ii",
   title: "The Great Books of the Western World 2: The Syntopicon II",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 226250,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const discworldTheAmazingMauriceAndHisEducatedRodents = {
   title: "Discworld: The Amazing Maurice and His Educated Rodents",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 28,
   ownLength: 91250,
   publishedAt: "2009-10-06",

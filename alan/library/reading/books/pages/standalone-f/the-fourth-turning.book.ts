@@ -7,7 +7,7 @@ export const theFourthTurning = {
   title: "The Fourth Turning",
   status: "not-started",
   author: "William Strauss, Neil Howe",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 83500,
 } as const satisfies Book

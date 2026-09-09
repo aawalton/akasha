@@ -7,6 +7,6 @@ export const elephantsCanRemember = {
   title: "Elephants Can Remember",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 32,
 } as const satisfies Book

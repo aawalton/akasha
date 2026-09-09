@@ -7,7 +7,7 @@ export const infiniteRealmTheAspects = {
   title: "Infinite Realm: The Aspects",
   status: "not-started",
   author: "James P. Carse, James Carse",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 299000,
   publishedAt: "2023-03-31",

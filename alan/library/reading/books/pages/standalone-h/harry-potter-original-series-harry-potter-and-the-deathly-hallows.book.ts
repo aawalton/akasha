@@ -7,7 +7,7 @@ export const harryPotterOriginalSeriesHarryPotterAndTheDeathlyHallows = {
   title: "Harry Potter Original Series: Harry Potter and the Deathly Hallows",
   status: "completed",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 191500,
   ownProgress: 191500,

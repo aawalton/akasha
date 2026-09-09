@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld8AristotleIi = {
   title: "The Great Books of the Western World 8: Aristotle II",
   status: "not-started",
   author: "Aristotle",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 174750,
 } as const satisfies Book

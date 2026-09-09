@@ -7,7 +7,7 @@ export const discworldTheWeeFreeMen = {
   title: "Discworld: The Wee Free Men",
   status: "not-started",
   author: "Terry Pratchett, Paul Kidby",
-  unitSlug: "words",
+  unit: "words",
   position: 30,
   ownLength: 99750,
   publishedAt: "2009-10-06",

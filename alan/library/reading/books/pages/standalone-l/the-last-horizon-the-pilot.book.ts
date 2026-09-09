@@ -7,7 +7,7 @@ export const theLastHorizonThePilot = {
   title: "The Last Horizon: The Pilot",
   status: "not-started",
   author: "Will Wight",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 105250,
   publishedAt: "2025-07-01",

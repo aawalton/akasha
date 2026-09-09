@@ -6,7 +6,7 @@ export const theCompletionistChroniclesUnmapped = {
   slug: "the-completionist-chronicles-unmapped",
   title: "The Completionist Chronicles: Unmapped",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 500000,
   publishedAt: "2026-01-28",

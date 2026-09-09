@@ -7,7 +7,7 @@ export const theFederalist = {
   title: "The Federalist",
   status: "not-started",
   author: "Alexander Hamilton, James Madison, John Jay",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 147750,
 } as const satisfies Book

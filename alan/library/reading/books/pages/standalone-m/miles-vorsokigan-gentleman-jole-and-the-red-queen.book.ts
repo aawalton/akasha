@@ -6,7 +6,7 @@ export const milesVorsokiganGentlemanJoleAndTheRedQueen = {
   slug: "miles-vorsokigan-gentleman-jole-and-the-red-queen",
   title: "Miles Vorsokigan: Gentleman Jole and the Red Queen",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 15,
   ownLength: 95500,
   source: "kindle",

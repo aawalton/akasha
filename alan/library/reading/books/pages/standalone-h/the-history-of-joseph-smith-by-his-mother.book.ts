@@ -7,7 +7,7 @@ export const theHistoryOfJosephSmithByHisMother = {
   title: "The History of Joseph Smith by His Mother",
   status: "not-started",
   author: "Lucy Mack Smith",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 70750,
 } as const satisfies Book

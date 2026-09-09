@@ -7,7 +7,7 @@ export const discworldMort = {
   title: "Discworld: Mort",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 77250,
   source: "kindle",

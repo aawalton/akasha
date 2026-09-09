@@ -6,7 +6,7 @@ export const theGoodGuysFlexInTheCity = {
   slug: "the-good-guys-flex-in-the-city",
   title: "The Good Guys: Flex in the City",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 101750,
   publishedAt: "2022-04-08",

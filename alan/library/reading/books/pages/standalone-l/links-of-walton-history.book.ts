@@ -6,7 +6,7 @@ export const linksOfWaltonHistory = {
   slug: "links-of-walton-history",
   title: "Links of Walton History",
   status: "paused",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 96500,
   ownProgress: 3250,

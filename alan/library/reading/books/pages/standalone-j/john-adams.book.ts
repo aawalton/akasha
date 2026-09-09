@@ -8,7 +8,7 @@ export const johnAdams = {
   status: "completed",
   rank: "B",
   author: "David McCullough",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 162250,
   ownProgress: 162250,

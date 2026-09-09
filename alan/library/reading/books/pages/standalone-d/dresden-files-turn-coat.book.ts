@@ -7,7 +7,7 @@ export const dresdenFilesTurnCoat = {
   title: "Dresden Files: Turn Coat",
   status: "not-started",
   author: "Jim Butcher",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 136250,
   source: "kindle",

@@ -7,7 +7,7 @@ export const honorHarringtonAtAllCosts = {
   title: "Honor Harrington: At All Costs",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 272500,
   source: "kindle",

@@ -7,7 +7,7 @@ export const discworldGuardsGuards = {
   title: "Discworld: Guards! Guards!",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 95750,
   source: "kindle",

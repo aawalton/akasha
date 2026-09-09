@@ -7,7 +7,7 @@ export const harryPotterOriginalSeriesHarryPotterAndTheHalfBloodPrince = {
   title: "Harry Potter Original Series: Harry Potter and the Half-Blood Prince",
   status: "completed",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 163000,
   ownProgress: 163000,

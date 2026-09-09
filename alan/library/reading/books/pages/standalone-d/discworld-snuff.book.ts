@@ -7,7 +7,7 @@ export const discworldSnuff = {
   title: "Discworld: Snuff",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 39,
   ownLength: 103750,
   publishedAt: "2011-10-11",

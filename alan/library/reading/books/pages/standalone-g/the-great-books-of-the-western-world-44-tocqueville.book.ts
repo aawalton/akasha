@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld44Tocqueville = {
   title: "The Great Books of the Western World 44: Tocqueville",
   status: "not-started",
   author: "Silas Farmer",
-  unitSlug: "words",
+  unit: "words",
   position: 44,
   ownLength: 106000,
 } as const satisfies Book

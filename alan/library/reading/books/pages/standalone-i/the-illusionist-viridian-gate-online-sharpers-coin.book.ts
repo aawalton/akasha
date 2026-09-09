@@ -6,7 +6,7 @@ export const theIllusionistViridianGateOnlineSharpersCoin = {
   slug: "the-illusionist-viridian-gate-online-sharpers-coin",
   title: "The Illusionist: Viridian Gate Online: Sharper's Coin",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 94250,
   publishedAt: "2022-03-15",

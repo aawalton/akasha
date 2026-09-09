@@ -6,7 +6,7 @@ export const theGoodGuysTheBareHunt = {
   slug: "the-good-guys-the-bare-hunt",
   title: "The Good Guys: The Bare Hunt",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 96500,
   ownProgress: 96500,

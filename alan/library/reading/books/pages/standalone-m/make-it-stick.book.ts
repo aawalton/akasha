@@ -7,6 +7,6 @@ export const makeItStick = {
   title: "Make It Stick",
   status: "not-started",
   author: "Peter C. Brown, Henry L. Roediger, Mark A. McDaniel",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 128550,
 } as const satisfies Book

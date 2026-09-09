@@ -7,7 +7,7 @@ export const discworldEric = {
   title: "Discworld: Eric",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 37250,
   publishedAt: "2012-12-20",

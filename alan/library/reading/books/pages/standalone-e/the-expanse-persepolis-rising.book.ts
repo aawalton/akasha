@@ -7,7 +7,7 @@ export const theExpansePersepolisRising = {
   title: "The Expanse: Persepolis Rising",
   status: "not-started",
   author: "James S. A. Corey",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 155500,
   source: "kindle",

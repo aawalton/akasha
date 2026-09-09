@@ -8,7 +8,7 @@ export const everythingIsTuberculosis = {
   status: "completed",
   rank: "B",
   author: "John Green",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 83700,
   ownProgress: 83700,
 } as const satisfies Book

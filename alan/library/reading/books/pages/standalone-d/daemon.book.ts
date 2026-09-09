@@ -7,7 +7,7 @@ export const daemon = {
   title: "Daemon",
   status: "not-started",
   author: "Daniel Suarez",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 122250,
   source: "kindle",
   externalId: "B003QP4NPE",

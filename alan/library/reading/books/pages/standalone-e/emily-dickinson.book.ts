@@ -7,7 +7,7 @@ export const emilyDickinson = {
   title: "Emily Dickinson",
   status: "paused",
   author: "Thomas Herbert Johnson",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 79000,
   ownProgress: 2250,

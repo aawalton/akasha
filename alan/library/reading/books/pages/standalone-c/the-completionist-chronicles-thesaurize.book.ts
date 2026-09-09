@@ -6,7 +6,7 @@ export const theCompletionistChroniclesThesaurize = {
   slug: "the-completionist-chronicles-thesaurize",
   title: "The Completionist Chronicles: Thesaurize",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 90500,
   publishedAt: "2023-11-07",

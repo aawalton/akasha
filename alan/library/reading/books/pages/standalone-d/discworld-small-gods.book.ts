@@ -7,7 +7,7 @@ export const discworldSmallGods = {
   title: "Discworld: Small Gods",
   status: "not-started",
   author: "Terry Pratchett, Ray Friesen",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 100000,
   source: "kindle",

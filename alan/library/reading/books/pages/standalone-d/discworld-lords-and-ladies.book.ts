@@ -7,7 +7,7 @@ export const discworldLordsAndLadies = {
   title: "Discworld: Lords and Ladies",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 91750,
   source: "kindle",

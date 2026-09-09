@@ -7,7 +7,7 @@ export const dresdenFilesBloodRites = {
   title: "Dresden Files: Blood Rites",
   status: "not-started",
   author: "Jim Butcher",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 93000,
   source: "kindle",

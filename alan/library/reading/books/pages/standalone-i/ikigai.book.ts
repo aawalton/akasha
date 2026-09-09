@@ -7,6 +7,6 @@ export const ikigai = {
   title: "Ikigai",
   status: "not-started",
   author: "Héctor García, Francesc Miralles",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 49500,
 } as const satisfies Book

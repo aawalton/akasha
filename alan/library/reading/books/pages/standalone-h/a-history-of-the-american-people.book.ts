@@ -7,7 +7,7 @@ export const aHistoryOfTheAmericanPeople = {
   title: "A History of the American People",
   status: "not-started",
   author: "Paul S. Boyer",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 244000,
 } as const satisfies Book

@@ -8,7 +8,7 @@ export const learnedOptimism = {
   status: "completed",
   rank: "B",
   author: "Martin Elias Pete Seligman",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 21000,
   ownProgress: 21000,
 } as const satisfies Book

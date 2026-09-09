@@ -7,7 +7,7 @@ export const eightDates = {
   title: "Eight Dates",
   status: "not-started",
   author: "John Mordechai Gottman, Julie Schwartz Gottman, Doug Abrams, Rachel Carlton Abrams M.D.",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 77250,
   publishedAt: "2019-12-03",
 } as const satisfies Book

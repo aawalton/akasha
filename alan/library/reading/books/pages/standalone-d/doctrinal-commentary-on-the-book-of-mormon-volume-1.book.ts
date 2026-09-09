@@ -8,7 +8,7 @@ export const doctrinalCommentaryOnTheBookOfMormonVolume1 = {
   status: "completed",
   rank: "C",
   author: "Bible",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 94000,
   ownProgress: 94000,

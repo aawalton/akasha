@@ -7,6 +7,6 @@ export const deathInTheClouds = {
   title: "Death in the Clouds",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
 } as const satisfies Book

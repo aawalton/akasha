@@ -7,7 +7,7 @@ export const discworldTheColorOfMagic = {
   title: "Discworld: The Color of Magic",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 66750,
   source: "kindle",

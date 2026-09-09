@@ -7,7 +7,7 @@ export const dresdenFilesGhostStory = {
   title: "Dresden Files: Ghost Story",
   status: "not-started",
   author: "Jim Butcher",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 151750,
   source: "kindle",

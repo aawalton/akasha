@@ -7,7 +7,7 @@ export const discworldWintersmith = {
   title: "Discworld: Wintersmith",
   status: "not-started",
   author: "Terry Pratchett, Paul Kidby",
-  unitSlug: "words",
+  unit: "words",
   position: 35,
   ownLength: 84000,
   publishedAt: "2009-10-06",

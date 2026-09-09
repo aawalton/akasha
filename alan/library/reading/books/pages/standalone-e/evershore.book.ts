@@ -8,7 +8,7 @@ export const evershore = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson, Janci Patterson",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 103500,
   ownProgress: 103500,

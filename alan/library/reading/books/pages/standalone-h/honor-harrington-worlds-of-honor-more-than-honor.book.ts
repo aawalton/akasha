@@ -6,7 +6,7 @@ export const honorHarringtonWorldsOfHonorMoreThanHonor = {
   slug: "honor-harrington-worlds-of-honor-more-than-honor",
   title: "Honor Harrington - Worlds of Honor: More Than Honor",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 97000,
   source: "kindle",
   externalId: "B00APACV0C",

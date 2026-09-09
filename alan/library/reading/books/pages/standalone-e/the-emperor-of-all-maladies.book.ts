@@ -8,7 +8,7 @@ export const theEmperorOfAllMaladies = {
   status: "completed",
   rank: "B",
   author: "Siddhartha Mukherjee, Nessa Carey",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 311250,
   ownProgress: 311250,
 } as const satisfies Book

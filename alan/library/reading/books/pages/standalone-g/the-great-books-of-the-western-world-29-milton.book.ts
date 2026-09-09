@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld29Milton = {
   title: "The Great Books of the Western World 29: Milton",
   status: "not-started",
   author: "Miguel de Cervantes Saavedra",
-  unitSlug: "words",
+  unit: "words",
   position: 29,
   ownLength: 103000,
 } as const satisfies Book

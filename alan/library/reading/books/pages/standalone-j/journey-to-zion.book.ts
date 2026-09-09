@@ -7,6 +7,6 @@ export const journeyToZion = {
   title: "Journey to Zion",
   status: "not-started",
   author: "Carol Cornwall Madsen",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
 } as const satisfies Book

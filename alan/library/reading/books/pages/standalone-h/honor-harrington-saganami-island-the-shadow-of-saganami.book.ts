@@ -6,7 +6,7 @@ export const honorHarringtonSaganamiIslandTheShadowOfSaganami = {
   slug: "honor-harrington-saganami-island-the-shadow-of-saganami",
   title: "Honor Harrington: Saganami Island: The Shadow of Saganami",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 194000,
   source: "kindle",
   externalId: "B00BEQZU4A",

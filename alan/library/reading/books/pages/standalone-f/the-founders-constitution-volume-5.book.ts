@@ -7,7 +7,7 @@ export const theFoundersConstitutionVolume5 = {
   title: "The Founders Constitution Volume 5",
   status: "not-started",
   author: "Philip B. Kurland, Ralph Lerner",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 120250,
 } as const satisfies Book

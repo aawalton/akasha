@@ -7,7 +7,7 @@ export const fantasticBeastsFantasticBeastsAndWhereToFindThemTheOriginalScreenpl
   title: "Fantastic Beasts: Fantastic Beasts and Where to Find Them: The Original Screenplay",
   status: "not-started",
   author: "J. K. Rowling",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 75500,
   publishedAt: "2016-11-18",

@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld16Augustine = {
   title: "The Great Books of the Western World 16: Augustine",
   status: "not-started",
   author: "Blaise Pascal, Mortimer J. Adler",
-  unitSlug: "words",
+  unit: "words",
   position: 16,
   ownLength: 191000,
 } as const satisfies Book

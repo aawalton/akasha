@@ -8,7 +8,7 @@ export const firstborn = {
   status: "completed",
   rank: "B",
   author: "Karen Kingsbury",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 19250,
   ownProgress: 19250,

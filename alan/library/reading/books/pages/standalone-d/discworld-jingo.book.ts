@@ -7,7 +7,7 @@ export const discworldJingo = {
   title: "Discworld: Jingo",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 21,
   ownLength: 103500,
   publishedAt: "2009-10-13",

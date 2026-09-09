@@ -7,7 +7,7 @@ export const galacticEmpireTheStarsLikeDust = {
   title: "Galactic Empire: The Stars, Like Dust",
   status: "not-started",
   author: "Isaac Asimov",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 60750,
   source: "kindle",
   externalId: "B08GJZSFP6",

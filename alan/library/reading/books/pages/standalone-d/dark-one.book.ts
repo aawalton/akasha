@@ -7,6 +7,6 @@ export const darkOne = {
   title: "Dark One",
   status: "not-started",
   author: "Michelle McNamara",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
 } as const satisfies Book

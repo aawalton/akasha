@@ -8,7 +8,7 @@ export const hyperthief = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson, Janci Patterson",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 5500,
   ownProgress: 5500,

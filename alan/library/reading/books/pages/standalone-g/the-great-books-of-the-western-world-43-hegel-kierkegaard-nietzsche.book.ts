@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld43HegelKierkegaardNietzsche = {
   slug: "the-great-books-of-the-western-world-43-hegel-kierkegaard-nietzsche",
   title: "The Great Books of the Western World 43: Hegel, Kierkegaard, Nietzsche",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 43,
   ownLength: 136250,
 } as const satisfies Book

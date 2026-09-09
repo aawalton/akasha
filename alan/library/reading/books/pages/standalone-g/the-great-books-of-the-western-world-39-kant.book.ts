@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld39Kant = {
   slug: "the-great-books-of-the-western-world-39-kant",
   title: "The Great Books of the Western World 39: Kant",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 39,
   ownLength: 153250,
 } as const satisfies Book

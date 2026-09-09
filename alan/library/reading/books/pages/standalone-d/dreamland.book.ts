@@ -7,7 +7,7 @@ export const dreamland = {
   title: "Dreamland",
   status: "completed",
   author: "Sarah Dessen",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 208800,
   ownProgress: 208800,
 } as const satisfies Book

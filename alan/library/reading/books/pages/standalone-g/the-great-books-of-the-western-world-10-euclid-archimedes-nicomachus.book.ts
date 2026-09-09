@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld10EuclidArchimedesNicomachus = {
   slug: "the-great-books-of-the-western-world-10-euclid-archimedes-nicomachus",
   title: "The Great Books of the Western World 10: Euclid, Archimedes, Nicomachus",
   status: "paused",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 159000,
   ownProgress: 4500,

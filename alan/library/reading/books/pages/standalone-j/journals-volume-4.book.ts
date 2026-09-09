@@ -7,6 +7,6 @@ export const journalsVolume4 = {
   title: "Journals Volume 4",
   status: "not-started",
   author: "Charles Ammi Cutter, Library Association",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
 } as const satisfies Book

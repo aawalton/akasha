@@ -7,7 +7,7 @@ export const fireflight = {
   title: "Fireflight",
   status: "not-started",
   author: "Gregory Grayson",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 105250,
 } as const satisfies Book

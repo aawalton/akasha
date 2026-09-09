@@ -7,7 +7,7 @@ export const discworldTheLastHeroADiscworldFable = {
   title: "Discworld: The Last Hero: A Discworld Fable",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 27,
   ownLength: 44000,
   publishedAt: "2002-08-20",

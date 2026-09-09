@@ -6,7 +6,7 @@ export const theHeartfireHealerResurrection = {
   slug: "the-heartfire-healer-resurrection",
   title: "The Heartfire Healer: Resurrection",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 97000,
   publishedAt: "2021-06-15",

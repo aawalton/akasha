@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld52DostoevskyIbsen = {
   slug: "the-great-books-of-the-western-world-52-dostoevsky-ibsen",
   title: "The Great Books of the Western World 52: Dostoevsky, Ibsen",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 52,
   ownLength: 149250,
 } as const satisfies Book

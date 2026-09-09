@@ -7,7 +7,7 @@ export const harryPotterOriginalSeriesHarryPotterAndThePrisonerOfAzkaban = {
   title: "Harry Potter Original Series: Harry Potter and the Prisoner of Azkaban",
   status: "completed",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 109250,
   ownProgress: 109250,

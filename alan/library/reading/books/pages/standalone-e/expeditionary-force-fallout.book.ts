@@ -7,7 +7,7 @@ export const expeditionaryForceFallout = {
   title: "Expeditionary Force: Fallout",
   status: "not-started",
   author: "Craig Alanson",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 139500,
   source: "kindle",

@@ -7,7 +7,7 @@ export const theFrugalWizardsHandbookForSurvivingMedievalEngland = {
   title: "The Frugal Wizard's Handbook for Surviving Medieval England",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 99750,
   source: "kindle",

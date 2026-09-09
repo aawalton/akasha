@@ -8,7 +8,7 @@ export const defiant = {
   status: "completed",
   rank: "B",
   author: "Lynne Graham",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 105000,
   ownProgress: 105000,

@@ -8,7 +8,7 @@ export const dreamer = {
   status: "completed",
   rank: "B",
   author: "Laini Taylor",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 6500,
   ownProgress: 6500,

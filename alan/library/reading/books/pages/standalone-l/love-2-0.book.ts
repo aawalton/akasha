@@ -7,6 +7,6 @@ export const love20 = {
   title: "Love 2.0",
   status: "not-started",
   author: "Barbara Fredrickson",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 116700,
 } as const satisfies Book

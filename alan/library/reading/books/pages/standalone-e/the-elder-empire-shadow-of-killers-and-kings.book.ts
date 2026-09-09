@@ -6,7 +6,7 @@ export const theElderEmpireShadowOfKillersAndKings = {
   slug: "the-elder-empire-shadow-of-killers-and-kings",
   title: "The Elder Empire - Shadow: Of Killers and Kings",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 98000,
   source: "kindle",

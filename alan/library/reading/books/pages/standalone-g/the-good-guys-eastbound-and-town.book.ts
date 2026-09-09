@@ -6,7 +6,7 @@ export const theGoodGuysEastboundAndTown = {
   slug: "the-good-guys-eastbound-and-town",
   title: "The Good Guys: Eastbound and Town",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 91000,
   ownProgress: 91000,

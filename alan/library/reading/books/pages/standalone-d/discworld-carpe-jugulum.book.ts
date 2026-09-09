@@ -7,7 +7,7 @@ export const discworldCarpeJugulum = {
   title: "Discworld: Carpe Jugulum",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 22,
   ownLength: 96000,
   publishedAt: "2009-10-13",

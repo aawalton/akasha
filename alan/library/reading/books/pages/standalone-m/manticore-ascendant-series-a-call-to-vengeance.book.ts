@@ -6,7 +6,7 @@ export const manticoreAscendantSeriesACallToVengeance = {
   slug: "manticore-ascendant-series-a-call-to-vengeance",
   title: "Manticore Ascendant Series: A Call to Vengeance",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 151750,
   source: "kindle",

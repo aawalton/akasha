@@ -7,7 +7,7 @@ export const journeyToTheWestTheJourneyToTheWest = {
   title: "Journey to The West: The Journey to the West",
   status: "not-started",
   author: "Wu Cheng'en, Eleanor Hazard, Chʻeng-en Wu, Darwin L. Teilhet, Anthony C. Yu",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 110000,
   publishedAt: "2013-04-05",

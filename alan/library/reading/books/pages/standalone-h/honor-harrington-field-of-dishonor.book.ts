@@ -7,7 +7,7 @@ export const honorHarringtonFieldOfDishonor = {
   title: "Honor Harrington: Field of Dishonor",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 75500,
   source: "kindle",

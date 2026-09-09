@@ -6,6 +6,6 @@ export const memoryAndTheHumanLifespan = {
   slug: "memory-and-the-human-lifespan",
   title: "Memory and the Human Lifespan",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 180450,
 } as const satisfies Book

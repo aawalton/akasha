@@ -7,7 +7,7 @@ export const discworldReaperMan = {
   title: "Discworld: Reaper Man",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 76250,
   source: "kindle",

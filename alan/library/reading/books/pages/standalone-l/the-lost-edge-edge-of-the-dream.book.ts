@@ -7,7 +7,7 @@ export const theLostEdgeEdgeOfTheDream = {
   title: "The Lost Edge: Edge of the Dream",
   status: "not-started",
   author: "William Shakespeare",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 112500,
   publishedAt: "2025-11-25",

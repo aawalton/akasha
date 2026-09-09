@@ -6,7 +6,7 @@ export const theCompletionistChroniclesRitualist = {
   slug: "the-completionist-chronicles-ritualist",
   title: "The Completionist Chronicles: Ritualist",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 87500,
   ownProgress: 87500,

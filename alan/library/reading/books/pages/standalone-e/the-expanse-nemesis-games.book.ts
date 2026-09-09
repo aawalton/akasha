@@ -7,7 +7,7 @@ export const theExpanseNemesisGames = {
   title: "The Expanse: Nemesis Games",
   status: "not-started",
   author: "James S. A. Corey",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 134000,
   source: "kindle",

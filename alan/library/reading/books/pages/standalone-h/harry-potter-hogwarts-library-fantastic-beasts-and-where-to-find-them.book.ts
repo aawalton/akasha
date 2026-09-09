@@ -8,7 +8,7 @@ export const harryPotterHogwartsLibraryFantasticBeastsAndWhereToFindThem = {
     "Harry Potter: Hogwarts Library: Fantastic Beasts and Where to Find Them: A Harry Potter Hogwarts Library Book",
   status: "not-started",
   author: "J. K. Rowling, Olivia Lomenech Gill, Emily Gravett, Lisbeth Zwerger",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 15500,
   publishedAt: "2017-03-14",

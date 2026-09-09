@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld30Pascal = {
   title: "The Great Books of the Western World 30: Pascal",
   status: "not-started",
   author: "Blaise Pascal, Mortimer J. Adler",
-  unitSlug: "words",
+  unit: "words",
   position: 30,
   ownLength: 121750,
 } as const satisfies Book

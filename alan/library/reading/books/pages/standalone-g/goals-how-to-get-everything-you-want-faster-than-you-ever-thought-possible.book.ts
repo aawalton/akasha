@@ -7,6 +7,6 @@ export const goalsHowToGetEverythingYouWantFasterThanYouEverThoughtPossible = {
   title: "Goals! How to Get Everything You Want Faster Than You Ever Thought Possible",
   status: "not-started",
   author: "Brian Tracy",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 49950,
 } as const satisfies Book

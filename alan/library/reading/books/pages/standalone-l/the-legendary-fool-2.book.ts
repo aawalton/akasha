@@ -7,7 +7,7 @@ export const theLegendaryFool2 = {
   title: "The Legendary Fool 2",
   status: "not-started",
   author: "Ali Jamnia",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 110500,
   publishedAt: "2025-07-02",

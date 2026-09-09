@@ -7,7 +7,7 @@ export const expeditionaryForceGateway = {
   title: "Expeditionary Force: Gateway",
   status: "not-started",
   author: "Stefano Fusi",
-  unitSlug: "words",
+  unit: "words",
   position: 17,
   ownLength: 111000,
   source: "kindle",

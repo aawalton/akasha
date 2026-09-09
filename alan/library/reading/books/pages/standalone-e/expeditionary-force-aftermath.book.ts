@@ -7,7 +7,7 @@ export const expeditionaryForceAftermath = {
   title: "Expeditionary Force: Aftermath",
   status: "not-started",
   author: "David Bonk",
-  unitSlug: "words",
+  unit: "words",
   position: 15,
   ownLength: 117250,
   source: "kindle",

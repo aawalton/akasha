@@ -7,7 +7,7 @@ export const hyperionCantosHyperion = {
   title: "Hyperion Cantos: Hyperion",
   status: "not-started",
   author: "Dan Simmons",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 120750,
   source: "kindle",
   externalId: "B004G60EHS",

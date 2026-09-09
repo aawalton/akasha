@@ -7,7 +7,7 @@ export const aGiftOfDragons = {
   title: "A Gift of Dragons",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 25,
   ownLength: 76000,
 } as const satisfies Book

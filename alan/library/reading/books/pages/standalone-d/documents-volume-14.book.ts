@@ -7,6 +7,6 @@ export const documentsVolume14 = {
   title: "Documents Volume 14",
   status: "not-started",
   author: "Alex D. Smith, Adam H. Petty, Jessica M. Nelson, Spencer W. McBride",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
 } as const satisfies Book

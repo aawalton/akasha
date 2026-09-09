@@ -6,7 +6,7 @@ export const theDivineDungeonDungeonDesolation = {
   slug: "the-divine-dungeon-dungeon-desolation",
   title: "The Divine Dungeon: Dungeon Desolation",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 94000,
   ownProgress: 94000,

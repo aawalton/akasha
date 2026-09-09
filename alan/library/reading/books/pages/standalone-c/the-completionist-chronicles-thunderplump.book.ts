@@ -6,7 +6,7 @@ export const theCompletionistChroniclesThunderplump = {
   slug: "the-completionist-chronicles-thunderplump",
   title: "The Completionist Chronicles: Thunderplump",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 94000,
   publishedAt: "2023-12-05",

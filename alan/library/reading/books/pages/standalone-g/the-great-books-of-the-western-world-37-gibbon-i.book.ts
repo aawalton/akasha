@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld37GibbonI = {
   slug: "the-great-books-of-the-western-world-37-gibbon-i",
   title: "The Great Books of the Western World 37: Gibbon I",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 37,
   ownLength: 225000,
 } as const satisfies Book

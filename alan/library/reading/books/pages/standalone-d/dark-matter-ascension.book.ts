@@ -7,7 +7,7 @@ export const darkMatterAscension = {
   title: "Dark Matter Ascension",
   status: "not-started",
   author: "James M. MacDonald",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 175250,
   publishedAt: "2025-03-31",

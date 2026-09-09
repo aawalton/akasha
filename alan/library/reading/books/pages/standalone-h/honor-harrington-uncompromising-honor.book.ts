@@ -7,7 +7,7 @@ export const honorHarringtonUncompromisingHonor = {
   title: "Honor Harrington: Uncompromising Honor",
   status: "not-started",
   author: "David Weber, Allyson Johnson",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 273250,
   source: "kindle",

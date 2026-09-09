@@ -7,7 +7,7 @@ export const doctrinalNewTestamentCommentaryVolume1 = {
   title: "Doctrinal New Testament Commentary Volume 1",
   status: "paused",
   author: "Bruce R. McConkie",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 219000,
   ownProgress: 97500,

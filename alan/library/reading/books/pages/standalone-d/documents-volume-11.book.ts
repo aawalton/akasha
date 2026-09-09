@@ -7,6 +7,6 @@ export const documentsVolume11 = {
   title: "Documents Volume 11",
   status: "not-started",
   author: "Martin Gilbert, Winston Churchill - undifferentiated",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
 } as const satisfies Book

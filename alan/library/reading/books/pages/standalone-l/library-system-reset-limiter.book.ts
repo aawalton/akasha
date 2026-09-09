@@ -7,7 +7,7 @@ export const librarySystemResetLimiter = {
   title: "Library System Reset: Limiter",
   status: "not-started",
   author: "Paul J. Deitel, Harvey M. Deitel",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 155250,
   publishedAt: "2025-04-18",

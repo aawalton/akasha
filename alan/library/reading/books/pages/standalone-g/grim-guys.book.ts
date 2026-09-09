@@ -7,7 +7,7 @@ export const grimGuys = {
   title: "Grim Guys",
   status: "not-started",
   author: "Darynda Jones",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 105500,
   publishedAt: "2024-12-01",

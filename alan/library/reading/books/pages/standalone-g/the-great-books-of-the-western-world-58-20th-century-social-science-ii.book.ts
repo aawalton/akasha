@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld5820thCenturySocialScienceIi = {
   slug: "the-great-books-of-the-western-world-58-20th-century-social-science-ii",
   title: "The Great Books of the Western World 58: 20th Century Social Science II",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 58,
   ownLength: 133250,
 } as const satisfies Book

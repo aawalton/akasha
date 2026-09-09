@@ -7,6 +7,6 @@ export const hickoryDickoryDock = {
   title: "Hickory Dickory Dock",
   status: "not-started",
   author: "Kelly Caswell",
-  unitSlug: "words",
+  unit: "words",
   position: 26,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const discworldSoulMusic = {
   title: "Discworld: Soul Music",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 16,
   ownLength: 96750,
   source: "kindle",

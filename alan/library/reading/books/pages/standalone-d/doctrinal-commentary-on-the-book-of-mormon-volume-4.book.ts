@@ -7,7 +7,7 @@ export const doctrinalCommentaryOnTheBookOfMormonVolume4 = {
   title: "Doctrinal Commentary on the Book of Mormon Volume 4",
   status: "not-started",
   author: "Bible",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 97500,
 } as const satisfies Book

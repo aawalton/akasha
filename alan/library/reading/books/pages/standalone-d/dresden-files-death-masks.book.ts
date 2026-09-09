@@ -7,7 +7,7 @@ export const dresdenFilesDeathMasks = {
   title: "Dresden Files: Death Masks",
   status: "not-started",
   author: "Jim Butcher",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 116000,
   source: "kindle",

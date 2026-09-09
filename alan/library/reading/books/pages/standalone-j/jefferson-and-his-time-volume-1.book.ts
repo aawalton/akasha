@@ -7,7 +7,7 @@ export const jeffersonAndHisTimeVolume1 = {
   title: "Jefferson & His Time Volume 1",
   status: "not-started",
   author: "Dumas Malone",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 112750,
 } as const satisfies Book

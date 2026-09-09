@@ -6,7 +6,7 @@ export const theCompletionistChroniclesRaze = {
   slug: "the-completionist-chronicles-raze",
   title: "The Completionist Chronicles: Raze",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 91250,
   ownProgress: 91250,

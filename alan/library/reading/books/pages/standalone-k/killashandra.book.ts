@@ -6,5 +6,5 @@ export const killashandra = {
   slug: "killashandra",
   title: "Killashandra",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies Book

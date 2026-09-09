@@ -7,6 +7,6 @@ export const midFlinx = {
   title: "Mid-Flinx",
   status: "not-started",
   author: "Alan Dean Foster",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
 } as const satisfies Book

@@ -8,7 +8,7 @@ export const theLastTide = {
   status: "completed",
   rank: "A",
   author: "Pirateaba, Drew Gilmour, Jade McGilvray, Shane Sandulak, Matias Zanetti",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 41250,
   ownProgress: 41250,

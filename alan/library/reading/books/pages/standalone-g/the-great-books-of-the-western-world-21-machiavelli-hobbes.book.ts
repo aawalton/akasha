@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld21MachiavelliHobbes = {
   title: "The Great Books of the Western World 21: Machiavelli, Hobbes",
   status: "not-started",
   author: "Ed Mortimer J. Adler",
-  unitSlug: "words",
+  unit: "words",
   position: 21,
   ownLength: 70750,
 } as const satisfies Book

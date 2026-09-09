@@ -7,7 +7,7 @@ export const discworldMakingMoney = {
   title: "Discworld: Making Money",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 36,
   ownLength: 107000,
   publishedAt: "2009-10-13",

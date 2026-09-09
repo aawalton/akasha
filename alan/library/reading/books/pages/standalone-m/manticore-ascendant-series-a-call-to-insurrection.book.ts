@@ -6,7 +6,7 @@ export const manticoreAscendantSeriesACallToInsurrection = {
   slug: "manticore-ascendant-series-a-call-to-insurrection",
   title: "Manticore Ascendant Series: A Call to Insurrection",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 120000,
   source: "kindle",

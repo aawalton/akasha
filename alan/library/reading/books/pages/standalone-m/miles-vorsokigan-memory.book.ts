@@ -6,7 +6,7 @@ export const milesVorsokiganMemory = {
   slug: "miles-vorsokigan-memory",
   title: "Miles Vorsokigan: Memory",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 121000,
   source: "kindle",

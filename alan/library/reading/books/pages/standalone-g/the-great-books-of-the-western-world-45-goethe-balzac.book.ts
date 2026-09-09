@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld45GoetheBalzac = {
   slug: "the-great-books-of-the-western-world-45-goethe-balzac",
   title: "The Great Books of the Western World 45: Goethe, Balzac",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 45,
   ownLength: 92500,
 } as const satisfies Book

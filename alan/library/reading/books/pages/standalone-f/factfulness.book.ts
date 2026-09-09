@@ -7,6 +7,6 @@ export const factfulness = {
   title: "Factfulness",
   status: "not-started",
   author: "Hans Rosling, Ola Rosling, Anna Rosling Rönnlund",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 132750,
 } as const satisfies Book

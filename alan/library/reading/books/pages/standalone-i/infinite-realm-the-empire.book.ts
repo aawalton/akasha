@@ -7,7 +7,7 @@ export const infiniteRealmTheEmpire = {
   title: "Infinite Realm: The Empire",
   status: "not-started",
   author: "Edmund Husserl, Dorion Cairns",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 275750,
   publishedAt: "2022-07-13",

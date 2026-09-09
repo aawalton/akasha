@@ -7,7 +7,7 @@ export const discworldEqualRites = {
   title: "Discworld: Equal Rites",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 64000,
   source: "kindle",

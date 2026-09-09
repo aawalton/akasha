@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld33LockeBerkeleyHume = {
   slug: "the-great-books-of-the-western-world-33-locke-berkeley-hume",
   title: "The Great Books of the Western World 33: Locke, Berkeley, Hume",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 33,
   ownLength: 127250,
 } as const satisfies Book

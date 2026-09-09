@@ -6,7 +6,7 @@ export const theIllusionistViridianGateOnlineDeadMansTide = {
   slug: "the-illusionist-viridian-gate-online-dead-mans-tide",
   title: "The Illusionist: Viridian Gate Online: Dead Man's Tide",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 100750,
   ownProgress: 100750,

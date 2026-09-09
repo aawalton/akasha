@@ -7,7 +7,7 @@ export const margaretHerFirst75Years = {
   title: "Margaret: Her First 75 Years",
   status: "not-started",
   author: "William Shakespeare",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 63500,
 } as const satisfies Book

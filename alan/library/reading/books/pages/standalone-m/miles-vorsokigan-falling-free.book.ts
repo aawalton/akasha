@@ -6,7 +6,7 @@ export const milesVorsokiganFallingFree = {
   slug: "miles-vorsokigan-falling-free",
   title: "Miles Vorsokigan: Falling Free",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 75000,
   source: "kindle",

@@ -8,7 +8,7 @@ export const theDarkTalent = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 71000,
   ownProgress: 71000,

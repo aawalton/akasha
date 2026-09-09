@@ -7,7 +7,7 @@ export const dresdenFilesPeaceTalks = {
   title: "Dresden Files: Peace Talks",
   status: "not-started",
   author: "Jim Butcher",
-  unitSlug: "words",
+  unit: "words",
   position: 15,
   ownLength: 87000,
   source: "kindle",

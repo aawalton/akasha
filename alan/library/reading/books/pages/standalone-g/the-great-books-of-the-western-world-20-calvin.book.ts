@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld20Calvin = {
   title: "The Great Books of the Western World 20: Calvin",
   status: "not-started",
   author: "Silas Farmer",
-  unitSlug: "words",
+  unit: "words",
   position: 20,
   ownLength: 113750,
 } as const satisfies Book

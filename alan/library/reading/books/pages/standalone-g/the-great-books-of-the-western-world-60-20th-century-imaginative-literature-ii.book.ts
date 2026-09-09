@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld6020thCenturyImaginativeLiteratureIi 
   slug: "the-great-books-of-the-western-world-60-20th-century-imaginative-literature-ii",
   title: "The Great Books of the Western World 60: 20th Century Imaginative Literature II",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 60,
   ownLength: 145500,
 } as const satisfies Book

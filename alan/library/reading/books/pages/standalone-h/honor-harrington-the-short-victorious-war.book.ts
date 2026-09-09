@@ -7,7 +7,7 @@ export const honorHarringtonTheShortVictoriousWar = {
   title: "Honor Harrington: The Short Victorious War",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 90000,
   source: "kindle",

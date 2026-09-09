@@ -7,6 +7,6 @@ export const howSuperfoodsWork = {
   title: "How Superfoods Work",
   status: "not-started",
   author: "Julie Neville",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 48450,
 } as const satisfies Book

@@ -7,6 +7,6 @@ export const journalOfDiscourses = {
   title: "Journal of Discourses",
   status: "not-started",
   author: "Brigham Young",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
 } as const satisfies Book

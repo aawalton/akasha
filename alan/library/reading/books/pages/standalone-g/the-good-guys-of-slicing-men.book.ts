@@ -6,7 +6,7 @@ export const theGoodGuysOfSlicingMen = {
   slug: "the-good-guys-of-slicing-men",
   title: "The Good Guys: Of Slicing Men",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 109500,
   publishedAt: "2023-04-30",

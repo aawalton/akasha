@@ -6,7 +6,7 @@ export const milesVorsokiganMirrorDance = {
   slug: "miles-vorsokigan-mirror-dance",
   title: "Miles Vorsokigan: Mirror Dance",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 146500,
   source: "kindle",

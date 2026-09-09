@@ -7,6 +7,6 @@ export const hiddenPotential = {
   title: "Hidden Potential",
   status: "not-started",
   author: "Adam Grant",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 110250,
 } as const satisfies Book

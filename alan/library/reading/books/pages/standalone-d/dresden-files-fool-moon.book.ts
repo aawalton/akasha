@@ -7,7 +7,7 @@ export const dresdenFilesFoolMoon = {
   title: "Dresden Files: Fool Moon",
   status: "not-started",
   author: "Jim Butcher, Mark Powers, Chase Conley, Tyler Walpole, James Marsters",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 108000,
   publishedAt: "2001-01-01",

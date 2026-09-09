@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld5520thCenturyPhilosophyAndReligion = 
   slug: "the-great-books-of-the-western-world-55-20th-century-philosophy-and-religion",
   title: "The Great Books of the Western World 55: 20th Century Philosophy and Religion",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 55,
   ownLength: 138000,
 } as const satisfies Book

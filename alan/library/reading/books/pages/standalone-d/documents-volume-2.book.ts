@@ -7,6 +7,6 @@ export const documentsVolume2 = {
   title: "Documents Volume 2",
   status: "not-started",
   author: "Michael P. Johnson",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
 } as const satisfies Book

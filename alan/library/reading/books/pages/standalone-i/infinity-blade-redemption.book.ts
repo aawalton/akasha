@@ -8,7 +8,7 @@ export const infinityBladeRedemption = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 43500,
   ownProgress: 43500,

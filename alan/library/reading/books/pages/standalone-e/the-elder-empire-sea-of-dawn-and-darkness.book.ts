@@ -6,7 +6,7 @@ export const theElderEmpireSeaOfDawnAndDarkness = {
   slug: "the-elder-empire-sea-of-dawn-and-darkness",
   title: "The Elder Empire - Sea: Of Dawn and Darkness",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 97000,
   source: "kindle",

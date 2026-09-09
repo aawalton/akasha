@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld54Freud = {
   title: "The Great Books of the Western World 54: Freud",
   status: "not-started",
   author: "Sigmund; Hutchins, Robert Maynard, Series Editor Freud",
-  unitSlug: "words",
+  unit: "words",
   position: 54,
   ownLength: 221000,
 } as const satisfies Book

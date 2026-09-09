@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld1TheSyntopiconI = {
   title: "The Great Books of the Western World 1: The Syntopicon I",
   status: "completed",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 208000,
   ownProgress: 208000,

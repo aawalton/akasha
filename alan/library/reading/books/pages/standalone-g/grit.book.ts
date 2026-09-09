@@ -7,6 +7,6 @@ export const grit = {
   title: "Grit",
   status: "not-started",
   author: "Angela Duckworth",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 140550,
 } as const satisfies Book

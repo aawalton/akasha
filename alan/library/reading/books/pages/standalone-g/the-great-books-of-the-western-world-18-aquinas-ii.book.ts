@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld18AquinasIi = {
   slug: "the-great-books-of-the-western-world-18-aquinas-ii",
   title: "The Great Books of the Western World 18: Aquinas II",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 18,
   ownLength: 271250,
 } as const satisfies Book

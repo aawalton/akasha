@@ -7,6 +7,6 @@ export const deadMansFolly = {
   title: "Dead Man's Folly",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 27,
 } as const satisfies Book

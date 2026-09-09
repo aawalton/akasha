@@ -6,7 +6,7 @@ export const theGoodGuysFourBeheadingsAndAFuneral = {
   slug: "the-good-guys-four-beheadings-and-a-funeral",
   title: "The Good Guys: Four Beheadings and a Funeral",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 105000,
   ownProgress: 105000,

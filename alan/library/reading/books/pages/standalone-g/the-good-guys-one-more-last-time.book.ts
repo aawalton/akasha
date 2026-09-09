@@ -7,7 +7,7 @@ export const theGoodGuysOneMoreLastTime = {
   title: "The Good Guys: One More Last Time",
   status: "completed",
   author: "Bible",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 81500,
   ownProgress: 81500,

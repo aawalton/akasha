@@ -7,6 +7,6 @@ export const forLoveOfMotherNot = {
   title: "For Love of Mother-Not",
   status: "not-started",
   author: "Alan Dean Foster",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
 } as const satisfies Book

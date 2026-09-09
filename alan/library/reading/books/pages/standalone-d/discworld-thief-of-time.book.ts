@@ -7,7 +7,7 @@ export const discworldThiefOfTime = {
   title: "Discworld: Thief of Time",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 26,
   ownLength: 99750,
   publishedAt: "2009-10-13",

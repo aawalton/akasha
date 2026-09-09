@@ -7,7 +7,7 @@ export const discworldTheFifthElephant = {
   title: "Discworld: The Fifth Elephant",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 24,
   ownLength: 104500,
   publishedAt: "2009-10-13",

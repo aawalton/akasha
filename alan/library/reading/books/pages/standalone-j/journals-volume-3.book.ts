@@ -7,6 +7,6 @@ export const journalsVolume3 = {
   title: "Journals Volume 3",
   status: "not-started",
   author: "Abraham John Valpy, Edmund Henry Barker",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
 } as const satisfies Book

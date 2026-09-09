@@ -6,7 +6,7 @@ export const milesVorsokiganCetaganda = {
   slug: "miles-vorsokigan-cetaganda",
   title: "Miles Vorsokigan: Cetaganda",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 77500,
   source: "kindle",

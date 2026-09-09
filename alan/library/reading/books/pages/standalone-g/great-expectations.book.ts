@@ -7,7 +7,7 @@ export const greatExpectations = {
   title: "Great Expectations",
   status: "not-started",
   author: "Charles Dickens",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 131500,
 } as const satisfies Book

@@ -7,6 +7,6 @@ export const aMoreBeautifulQuestion = {
   title: "A More Beautiful Question",
   status: "not-started",
   author: "Warren Berger",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 131250,
 } as const satisfies Book

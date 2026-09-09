@@ -7,7 +7,7 @@ export const harryPotterOriginalSeriesHarryPotterAndTheOrderOfThePhoenix = {
   title: "Harry Potter Original Series: Harry Potter and the Order of the Phoenix",
   status: "completed",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 219250,
   ownProgress: 219250,

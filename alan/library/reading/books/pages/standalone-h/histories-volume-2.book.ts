@@ -7,6 +7,6 @@ export const historiesVolume2 = {
   title: "Histories Volume 2",
   status: "not-started",
   author: "Yuval Noah Harari",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
 } as const satisfies Book

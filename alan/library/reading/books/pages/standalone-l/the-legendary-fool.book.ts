@@ -7,7 +7,7 @@ export const theLegendaryFool = {
   title: "The Legendary Fool",
   status: "not-started",
   author: "Daisy Meadows",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 106000,
   publishedAt: "2025-04-01",

@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld50Marx = {
   title: "The Great Books of the Western World 50: Marx",
   status: "not-started",
   author: "Mark Twain",
-  unitSlug: "words",
+  unit: "words",
   position: 50,
   ownLength: 108500,
 } as const satisfies Book

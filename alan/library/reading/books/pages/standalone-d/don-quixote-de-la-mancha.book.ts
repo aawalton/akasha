@@ -7,7 +7,7 @@ export const donQuixoteDeLaMancha = {
   title: "Don Quixote de la Mancha",
   status: "not-started",
   author: "Miguel de Cervantes Saavedra",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 156250,
 } as const satisfies Book

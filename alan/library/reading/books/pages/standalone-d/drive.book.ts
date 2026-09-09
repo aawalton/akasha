@@ -7,6 +7,6 @@ export const drive = {
   title: "Drive",
   status: "not-started",
   author: "Daniel H. Pink",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 88200,
 } as const satisfies Book

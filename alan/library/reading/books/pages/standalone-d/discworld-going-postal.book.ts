@@ -7,7 +7,7 @@ export const discworldGoingPostal = {
   title: "Discworld: Going Postal",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 33,
   ownLength: 112000,
   publishedAt: "2009-10-13",

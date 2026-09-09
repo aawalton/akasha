@@ -7,7 +7,7 @@ export const discworldMonstrousRegiment = {
   title: "Discworld: Monstrous Regiment",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 31,
   ownLength: 108000,
   publishedAt: "2009-10-13",

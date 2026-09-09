@@ -7,7 +7,7 @@ export const edgedancer = {
   title: "Edgedancer",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 33500,
 } as const satisfies Book

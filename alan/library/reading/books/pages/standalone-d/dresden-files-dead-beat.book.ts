@@ -7,7 +7,7 @@ export const dresdenFilesDeadBeat = {
   title: "Dresden Files: Dead Beat",
   status: "not-started",
   author: "Jim Butcher",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 102000,
   source: "kindle",

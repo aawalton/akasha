@@ -7,7 +7,7 @@ export const theExpanseTiamatsWrath = {
   title: "The Expanse: Tiamat's Wrath",
   status: "not-started",
   author: "James S. A. Corey",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 136250,
   source: "kindle",

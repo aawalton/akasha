@@ -7,7 +7,7 @@ export const dresdenFilesProvenGuilty = {
   title: "Dresden Files: Proven Guilty",
   status: "not-started",
   author: "Jim Butcher",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 107000,
   source: "kindle",

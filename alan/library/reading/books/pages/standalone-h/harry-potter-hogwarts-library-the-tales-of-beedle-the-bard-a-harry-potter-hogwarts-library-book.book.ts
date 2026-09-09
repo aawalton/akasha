@@ -8,7 +8,7 @@ export const harryPotterHogwartsLibraryTheTalesOfBeedleTheBardAHarryPotterHogwar
     "Harry Potter: Hogwarts Library: The Tales of Beedle the Bard: A Harry Potter Hogwarts Library Book",
   status: "not-started",
   author: "J. K. Rowling",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 36000,
   publishedAt: "2016-05-09",

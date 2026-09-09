@@ -7,7 +7,7 @@ export const theExpanseLeviathanWakes = {
   title: "The Expanse: Leviathan Wakes",
   status: "not-started",
   author: "James S. A. Corey",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 144250,
   source: "kindle",
   externalId: "B0047Y171G",

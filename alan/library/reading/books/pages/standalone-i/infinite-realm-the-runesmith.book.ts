@@ -6,7 +6,7 @@ export const infiniteRealmTheRunesmith = {
   slug: "infinite-realm-the-runesmith",
   title: "Infinite Realm: The Runesmith",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 328250,
   publishedAt: "2024-06-24",

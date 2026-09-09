@@ -7,7 +7,7 @@ export const honorHarringtonTheHonorOfTheQueen = {
   title: "Honor Harrington: The Honor of the Queen",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 122000,
   source: "kindle",

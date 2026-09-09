@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld48MelvilleTwain = {
   slug: "the-great-books-of-the-western-world-48-melville-twain",
   title: "The Great Books of the Western World 48: Melville, Twain",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 48,
   ownLength: 98750,
 } as const satisfies Book

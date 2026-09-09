@@ -6,7 +6,7 @@ export const theGoodGuysHeirTodayPawnTomorrow = {
   slug: "the-good-guys-heir-today-pawn-tomorrow",
   title: "The Good Guys: Heir Today, Pawn Tomorrow",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 66500,
   ownProgress: 66500,

@@ -7,7 +7,7 @@ export const janeEyre = {
   title: "Jane Eyre",
   status: "not-started",
   author: "Charlotte Brontë",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 107750,
 } as const satisfies Book

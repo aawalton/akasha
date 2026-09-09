@@ -7,6 +7,6 @@ export const hardwiringExcellencePurposeWorthwhileWorkMakingADifference = {
   title: "Hardwiring Excellence: Purpose, Worthwhile Work, Making a Difference",
   status: "not-started",
   author: "Quint Studer",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 112800,
 } as const satisfies Book

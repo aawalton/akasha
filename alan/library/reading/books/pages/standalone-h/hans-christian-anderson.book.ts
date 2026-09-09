@@ -7,7 +7,7 @@ export const hansChristianAnderson = {
   title: "Hans Christian Anderson",
   status: "paused",
   author: "Hans Christian Andersen",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 274000,
   ownProgress: 56250,

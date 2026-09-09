@@ -7,6 +7,6 @@ export const emotionalFirstAid = {
   title: "Emotional First Aid",
   status: "not-started",
   author: "Guy Winch",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 136200,
 } as const satisfies Book

@@ -7,7 +7,7 @@ export const marchUpcountryMarchToTheSea = {
   title: "March Upcountry: March to the Sea",
   status: "not-started",
   author: "John Ringo, David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 139000,
   publishedAt: "2001-05-01",

@@ -6,7 +6,7 @@ export const theIllusionistViridianGateOnlineInquisitorsFoil = {
   slug: "the-illusionist-viridian-gate-online-inquisitors-foil",
   title: "The Illusionist: Viridian Gate Online: Inquisitor's Foil",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 102250,
   ownProgress: 102250,

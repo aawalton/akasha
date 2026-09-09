@@ -8,7 +8,7 @@ export const ifThoughEndureItWell = {
   status: "completed",
   rank: "C",
   author: "Edmund Husserl, Dorion Cairns",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 53000,
   ownProgress: 53000,

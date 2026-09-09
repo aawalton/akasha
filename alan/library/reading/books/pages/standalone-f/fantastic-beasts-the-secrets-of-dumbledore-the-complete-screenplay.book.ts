@@ -7,7 +7,7 @@ export const fantasticBeastsTheSecretsOfDumbledoreTheCompleteScreenplay = {
   title: "Fantastic Beasts: The Secrets of Dumbledore – The Complete Screenplay",
   status: "not-started",
   author: "J. K. Rowling, Steve Kloves",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 64750,
   publishedAt: "2022-07-19",

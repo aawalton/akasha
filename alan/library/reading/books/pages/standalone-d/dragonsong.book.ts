@@ -7,7 +7,7 @@ export const dragonsong = {
   title: "Dragonsong",
   status: "not-started",
   author: "Anne McCaffrey",
-  unitSlug: "words",
+  unit: "words",
   position: 17,
   ownLength: 50500,
 } as const satisfies Book

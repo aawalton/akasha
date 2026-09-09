@@ -6,7 +6,7 @@ export const infiniteRealmThePriceOfPower = {
   slug: "infinite-realm-the-price-of-power",
   title: "Infinite Realm: The Price of Power",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 287750,
   publishedAt: "2021-05-24",

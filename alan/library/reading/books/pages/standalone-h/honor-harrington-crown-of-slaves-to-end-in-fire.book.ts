@@ -6,7 +6,7 @@ export const honorHarringtonCrownOfSlavesToEndInFire = {
   slug: "honor-harrington-crown-of-slaves-to-end-in-fire",
   title: "Honor Harrington - Crown of Slaves: To End in Fire",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 214000,
   source: "kindle",

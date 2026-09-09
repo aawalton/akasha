@@ -7,7 +7,7 @@ export const expeditionaryForceArmageddon = {
   title: "Expeditionary Force: Armageddon",
   status: "not-started",
   author: "Craig Alanson",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 149500,
   source: "kindle",

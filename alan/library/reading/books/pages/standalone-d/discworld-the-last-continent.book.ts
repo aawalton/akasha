@@ -7,7 +7,7 @@ export const discworldTheLastContinent = {
   title: "Discworld: The Last Continent",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 23,
   ownLength: 96000,
   publishedAt: "2009-10-13",

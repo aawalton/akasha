@@ -8,7 +8,7 @@ export const enlightenmentNow = {
   status: "completed",
   rank: "A",
   author: "Steven Pinker, Pablo Hermida Lazcano",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 297300,
   ownProgress: 297300,
 } as const satisfies Book

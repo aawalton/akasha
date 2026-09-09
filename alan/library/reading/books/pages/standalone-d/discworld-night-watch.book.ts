@@ -7,7 +7,7 @@ export const discworldNightWatch = {
   title: "Discworld: Night Watch",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 29,
   ownLength: 107750,
   publishedAt: "2009-10-13",

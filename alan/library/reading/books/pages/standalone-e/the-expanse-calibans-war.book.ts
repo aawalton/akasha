@@ -7,7 +7,7 @@ export const theExpanseCalibansWar = {
   title: "The Expanse: Caliban's War",
   status: "not-started",
   author: "James S. A. Corey",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 151250,
   source: "kindle",

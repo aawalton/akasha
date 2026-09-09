@@ -8,7 +8,7 @@ export const defendingElysium = {
   status: "completed",
   rank: "B",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 20750,
   ownProgress: 20750,

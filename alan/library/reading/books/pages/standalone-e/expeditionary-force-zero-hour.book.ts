@@ -7,7 +7,7 @@ export const expeditionaryForceZeroHour = {
   title: "Expeditionary Force: Zero Hour",
   status: "not-started",
   author: "Craig Alanson",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 75250,
   source: "kindle",

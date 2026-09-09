@@ -7,7 +7,7 @@ export const discworldTheTruth = {
   title: "Discworld: The Truth",
   status: "not-started",
   author: "Terry Pratchett, Stephen Briggs",
-  unitSlug: "words",
+  unit: "words",
   position: 25,
   ownLength: 104000,
   publishedAt: "2009-10-13",

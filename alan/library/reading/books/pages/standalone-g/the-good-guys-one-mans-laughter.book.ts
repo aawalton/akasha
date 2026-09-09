@@ -7,7 +7,7 @@ export const theGoodGuysOneMansLaughter = {
   title: "The Good Guys: One Man's Laughter",
   status: "not-started",
   author: "Winsor McCay",
-  unitSlug: "words",
+  unit: "words",
   position: 16,
   ownLength: 144250,
   publishedAt: "2025-07-07",

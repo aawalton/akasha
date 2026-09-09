@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld51Tolstoy = {
   title: "The Great Books of the Western World 51: Tolstoy",
   status: "not-started",
   author: "Лев Толстой",
-  unitSlug: "words",
+  unit: "words",
   position: 51,
   ownLength: 174000,
 } as const satisfies Book

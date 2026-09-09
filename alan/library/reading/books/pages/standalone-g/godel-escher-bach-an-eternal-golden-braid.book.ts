@@ -7,7 +7,7 @@ export const godelEscherBachAnEternalGoldenBraid = {
   title: "Godel, Escher, Bach: an Eternal Golden Braid",
   status: "paused",
   author: "Douglas R. Hofstadter",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 185500,
   ownProgress: 7250,

@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld41Boswell = {
   slug: "the-great-books-of-the-western-world-41-boswell",
   title: "The Great Books of the Western World 41: Boswell",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 41,
   ownLength: 154500,
 } as const satisfies Book

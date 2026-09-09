@@ -6,7 +6,7 @@ export const theGreatBooksOfTheWesternWorld40AmericanStatePapersFederalistJSMill
   slug: "the-great-books-of-the-western-world-40-american-state-papers-federalist-j-s-mill",
   title: "The Great Books of the Western World 40: American State Papers, Federalist, J.S. Mill",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 40,
   ownLength: 119000,
 } as const satisfies Book

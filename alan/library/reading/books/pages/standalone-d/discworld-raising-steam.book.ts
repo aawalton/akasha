@@ -7,7 +7,7 @@ export const discworldRaisingSteam = {
   title: "Discworld: Raising Steam",
   status: "not-started",
   author: "Terry Pratchett",
-  unitSlug: "words",
+  unit: "words",
   position: 40,
   ownLength: 96500,
   publishedAt: "2014-03-18",

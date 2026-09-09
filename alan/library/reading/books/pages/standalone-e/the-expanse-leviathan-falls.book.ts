@@ -7,7 +7,7 @@ export const theExpanseLeviathanFalls = {
   title: "The Expanse: Leviathan Falls",
   status: "not-started",
   author: "James S. A. Corey",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 132250,
   source: "kindle",

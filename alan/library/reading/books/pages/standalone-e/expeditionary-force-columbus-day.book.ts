@@ -7,7 +7,7 @@ export const expeditionaryForceColumbusDay = {
   title: "Expeditionary Force: Columbus Day",
   status: "not-started",
   author: "Craig Alanson",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 76250,
   source: "kindle",
   externalId: "B01AIGC31E",

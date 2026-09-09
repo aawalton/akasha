@@ -7,7 +7,7 @@ export const josephExploringTheLifeAndMinistryOfTheProphet = {
   title: "Joseph: Exploring the Life and Ministry of the Prophet",
   status: "not-started",
   author: "Susan Easton Black",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 102000,
 } as const satisfies Book

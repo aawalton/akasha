@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld13Plutarch = {
   title: "The Great Books of the Western World 13: Plutarch",
   status: "not-started",
   author: "Όμηρος",
-  unitSlug: "words",
+  unit: "words",
   position: 13,
   ownLength: 219000,
 } as const satisfies Book

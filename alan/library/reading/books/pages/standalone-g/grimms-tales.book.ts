@@ -7,7 +7,7 @@ export const grimmsTales = {
   title: "Grimm's Tales",
   status: "paused",
   author: "Gebrüder Grimm [Brothers Grimm]",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 156750,
   ownProgress: 7250,

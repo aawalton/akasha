@@ -8,7 +8,7 @@ export const meekAndLowly = {
   status: "completed",
   rank: "C",
   author: "Neal A. Maxwell",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 30000,
   ownProgress: 30000,

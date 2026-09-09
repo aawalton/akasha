@@ -7,7 +7,7 @@ export const inspiringExperiencesThatBuildFaith = {
   title: "Inspiring Experiences That Build Faith",
   status: "not-started",
   author: "Monson, Thomas S.",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 66750,
 } as const satisfies Book

@@ -7,6 +7,6 @@ export const hardwiringHappiness = {
   title: "Hardwiring Happiness",
   status: "not-started",
   author: "Hanson, Rick (Psychologist)",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 115050,
 } as const satisfies Book

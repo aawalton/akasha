@@ -7,7 +7,7 @@ export const galacticEmpireTheCurrentsOfSpace = {
   title: "Galactic Empire: The Currents of Space",
   status: "not-started",
   author: "Isaac Asimov",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 60500,
   source: "kindle",

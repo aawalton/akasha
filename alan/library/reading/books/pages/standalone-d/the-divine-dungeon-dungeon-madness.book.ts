@@ -7,7 +7,7 @@ export const theDivineDungeonDungeonMadness = {
   title: "The Divine Dungeon: Dungeon Madness",
   status: "completed",
   author: "Dakota Krout",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 97000,
   ownProgress: 97000,

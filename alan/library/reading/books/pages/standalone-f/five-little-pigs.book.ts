@@ -7,6 +7,6 @@ export const fiveLittlePigs = {
   title: "Five Little Pigs",
   status: "not-started",
   author: "Agatha Christie",
-  unitSlug: "words",
+  unit: "words",
   position: 21,
 } as const satisfies Book

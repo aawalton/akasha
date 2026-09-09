@@ -7,7 +7,7 @@ export const theGreatBooksOfTheWesternWorld14Tacitus = {
   title: "The Great Books of the Western World 14: Tacitus",
   status: "not-started",
   author: "P. Cornelius Tacitus",
-  unitSlug: "words",
+  unit: "words",
   position: 14,
   ownLength: 75500,
 } as const satisfies Book

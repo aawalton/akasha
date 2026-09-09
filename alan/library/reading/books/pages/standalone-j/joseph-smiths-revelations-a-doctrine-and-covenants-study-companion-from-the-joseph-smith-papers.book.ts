@@ -8,6 +8,6 @@ export const josephSmithsRevelationsADoctrineAndCovenantsStudyCompanionFromTheJo
     "Joseph Smith’s Revelations: A Doctrine and Covenants Study Companion from the Joseph Smith Papers",
   status: "not-started",
   author: "Bible",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
 } as const satisfies Book

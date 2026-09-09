@@ -7,7 +7,7 @@ export const honorHarringtonFlagInExile = {
   title: "Honor Harrington: Flag in Exile",
   status: "not-started",
   author: "David Weber",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 106000,
   source: "kindle",

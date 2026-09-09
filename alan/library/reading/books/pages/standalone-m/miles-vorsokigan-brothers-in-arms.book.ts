@@ -6,7 +6,7 @@ export const milesVorsokiganBrothersInArms = {
   slug: "miles-vorsokigan-brothers-in-arms",
   title: "Miles Vorsokigan: Brothers in Arms",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 83000,
   source: "kindle",

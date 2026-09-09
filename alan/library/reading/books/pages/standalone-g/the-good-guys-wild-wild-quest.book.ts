@@ -6,7 +6,7 @@ export const theGoodGuysWildWildQuest = {
   slug: "the-good-guys-wild-wild-quest",
   title: "The Good Guys: Wild Wild Quest",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 12,
   ownLength: 125750,
   publishedAt: "2021-07-30",

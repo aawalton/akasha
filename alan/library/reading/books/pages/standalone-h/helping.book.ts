@@ -7,6 +7,6 @@ export const helping = {
   title: "Helping",
   status: "not-started",
   author: "Kathryn Stockett, Álvaro Abella Villar, Alvaro Abella",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 76200,
 } as const satisfies Book
