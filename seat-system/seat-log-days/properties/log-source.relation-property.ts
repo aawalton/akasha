@@ -1,12 +1,12 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type Source = Slug
+export type LogSource = Slug
 
-export const source = {
+export const logSource = {
   id: "01a0657c-cb14-750f-8488-9fcedbe02a80",
   pageTypeSlug: "relation-property",
-  slug: "source",
+  slug: "log-source",
   propertySlug: "source",
   definition: "the stream a day of lines was written by",
   targetPageTypeSlug: "page-type/log-source",

@@ -2,11 +2,11 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Date as TrackedDate } from "../../alan/track/days/properties/date.text-property.ts"
 import type { Lines } from "./properties/lines.file-property.ts"
+import type { LogSource } from "./properties/log-source.relation-property.ts"
 import type { SeatName } from "./properties/seat-name.text-property.ts"
-import type { Source } from "./properties/source.relation-property.ts"
 
 export type SeatLogDay = Page & {
-  source: Source
+  source: LogSource
   seatName: SeatName
   date: TrackedDate
   lines?: Lines
@@ -20,9 +20,9 @@ export const seatLogDay = {
   pluralSlug: "seat-log-days",
   extendsSlug: ["page-type/page"],
   mortal: true,
-  partSlugs: ["file-property/lines", "relation-property/source", "text-property/seat-name"],
+  partSlugs: ["file-property/lines", "relation-property/log-source", "text-property/seat-name"],
   properties: [
-    { pagePropertySlug: "relation-property/source", required: true, many: false },
+    { pagePropertySlug: "relation-property/log-source", required: true, many: false },
     { pagePropertySlug: "text-property/seat-name", required: true, many: false },
     { pagePropertySlug: "text-property/date", required: true, many: false },
     {
