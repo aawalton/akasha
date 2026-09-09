@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jessicaBaioRadioFeatTrippieReddJessicaBaioKabuExtendedMix = {
   id: "01a0676a-d727-7040-9b5a-9005e042cfdd",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jessica-baio-radio-feat-trippie-redd-jessica-baio-kabu-extended-mix",
   title: "Radio (feat. Trippie Redd, Jessica Baio & KABU) [Extended Mix]",
   partOfCollections: ["jessica-baio"],

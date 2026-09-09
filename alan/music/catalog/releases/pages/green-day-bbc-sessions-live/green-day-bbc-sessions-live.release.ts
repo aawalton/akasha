@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayBbcSessionsLive = {
   id: "01a0676a-d718-7018-a572-f8e3373d38cd",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-bbc-sessions-live",
   title: "BBC Sessions (Live)",
   partOfCollections: ["green-day"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerSadForever = {
   id: "01a0676a-d728-7039-8dd9-f52f74b40189",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-sad-forever",
   title: "Sad Forever",
   partOfCollections: ["jada-facer"],

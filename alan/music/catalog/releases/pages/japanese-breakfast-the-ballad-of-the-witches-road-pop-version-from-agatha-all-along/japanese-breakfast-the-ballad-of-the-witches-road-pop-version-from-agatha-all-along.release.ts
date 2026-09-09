@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const japaneseBreakfastTheBalladOfTheWitchesRoadPopVersionFromAgathaAllAlong = {
   id: "01a0676a-d72c-7028-b1cc-ed223b39b4e6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "japanese-breakfast-the-ballad-of-the-witches-road-pop-version-from-agatha-all-along",
   title: 'The Ballad of the Witches\' Road (Pop Version) [From "Agatha All Along"]',
   partOfCollections: ["japanese-breakfast"],

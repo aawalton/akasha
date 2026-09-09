@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerYouEveryTime = {
   id: "01a0676a-d732-7008-8b90-89a9257c52d4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-you-every-time",
   title: "you, every time",
   partOfCollections: ["jada-facer"],

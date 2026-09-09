@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerIDonTWannaLiveForever = {
   id: "01a0676a-d721-7017-a32a-131c4b32779a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-i-don-t-wanna-live-forever",
   title: "I Don't Wanna Live Forever",
   partOfCollections: ["jada-facer"],

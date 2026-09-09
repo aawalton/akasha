@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const japaneseBreakfastJubilee = {
   id: "01a0676a-d722-702d-b4da-b9358fb61ead",
   pageTypeSlug: "release",
+  type: "release",
   slug: "japanese-breakfast-jubilee",
   title: "Jubilee",
   partOfCollections: ["japanese-breakfast"],

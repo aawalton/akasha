@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jessicaBaioBestFriendsWithYourGirlfriend = {
   id: "01a0676a-d718-7042-ab3f-611642ef45e3",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jessica-baio-best-friends-with-your-girlfriend",
   title: "best friends with your girlfriend",
   partOfCollections: ["jessica-baio"],

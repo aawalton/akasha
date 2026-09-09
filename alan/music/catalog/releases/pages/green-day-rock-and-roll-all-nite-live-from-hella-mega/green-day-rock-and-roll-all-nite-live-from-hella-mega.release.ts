@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayRockAndRollAllNiteLiveFromHellaMega = {
   id: "01a0676a-d728-7016-aeee-3d6eb424b2d5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-rock-and-roll-all-nite-live-from-hella-mega",
   title: "Rock and Roll All Nite (Live from Hella Mega)",
   partOfCollections: ["green-day"],

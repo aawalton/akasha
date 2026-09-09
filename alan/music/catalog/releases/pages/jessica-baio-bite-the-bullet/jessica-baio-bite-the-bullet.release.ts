@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jessicaBaioBiteTheBullet = {
   id: "01a0676a-d719-7010-8928-bb71b7ef9d76",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jessica-baio-bite-the-bullet",
   title: "bite the bullet",
   partOfCollections: ["jessica-baio"],

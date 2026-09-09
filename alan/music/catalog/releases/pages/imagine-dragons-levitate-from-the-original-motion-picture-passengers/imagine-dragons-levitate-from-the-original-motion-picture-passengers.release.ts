@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsLevitateFromTheOriginalMotionPicturePassengers = {
   id: "01a0676a-d723-7029-8fda-0bc97df47773",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-levitate-from-the-original-motion-picture-passengers",
   title: "Levitate (From The Original Motion Picture “Passengers”)",
   partOfCollections: ["imagine-dragons"],

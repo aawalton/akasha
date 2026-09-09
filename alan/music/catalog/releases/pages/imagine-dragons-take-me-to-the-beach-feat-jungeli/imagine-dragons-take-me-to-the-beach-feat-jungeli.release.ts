@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsTakeMeToTheBeachFeatJungeli = {
   id: "01a0676a-d72b-7017-a379-785fe37fe401",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-take-me-to-the-beach-feat-jungeli",
   title: "Take Me to the Beach (feat. Jungeli)",
   partOfCollections: ["imagine-dragons"],

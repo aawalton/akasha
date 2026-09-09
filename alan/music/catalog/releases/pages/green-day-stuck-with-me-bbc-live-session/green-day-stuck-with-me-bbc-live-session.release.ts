@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayStuckWithMeBbcLiveSession = {
   id: "01a0676a-d72a-7034-931e-c034e0f0ea31",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-stuck-with-me-bbc-live-session",
   title: "Stuck with Me (BBC Live Session)",
   partOfCollections: ["green-day"],

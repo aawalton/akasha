@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerGodSPlan = {
   id: "01a0676a-d71f-700f-8e5f-6711496ea43f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-god-s-plan",
   title: "God's Plan",
   partOfCollections: ["jada-facer"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jamesTaylor2ThatSWhyIMHere = {
   id: "01a0676a-d72c-701e-b1fb-569fc0bce200",
   pageTypeSlug: "release",
+  type: "release",
   slug: "james-taylor-2-that-s-why-i-m-here",
   title: "That's Why I'm Here",
   partOfCollections: ["james-taylor-2"],

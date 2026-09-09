@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsBelieverFeatLilWayne = {
   id: "01a0676a-d718-703a-8793-774340c04749",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-believer-feat-lil-wayne",
   title: "Believer (feat. Lil Wayne)",
   partOfCollections: ["imagine-dragons"],

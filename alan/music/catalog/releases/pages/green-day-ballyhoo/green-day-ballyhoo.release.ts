@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayBallyhoo = {
   id: "01a0676a-d718-7013-85fc-33bf15704dd5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-ballyhoo",
   title: "Ballyhoo",
   partOfCollections: ["green-day"],

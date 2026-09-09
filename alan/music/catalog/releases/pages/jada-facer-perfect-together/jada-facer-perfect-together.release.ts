@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerPerfectTogether = {
   id: "01a0676a-d726-7070-9a3a-e12d8fff1436",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-perfect-together",
   title: "Perfect Together",
   partOfCollections: ["jada-facer"],

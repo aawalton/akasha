@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayBasketCaseBbcLiveSession = {
   id: "01a0676a-d718-7017-8304-e2597fe784c0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-basket-case-bbc-live-session",
   title: "Basket Case (BBC Live Session)",
   partOfCollections: ["green-day"],

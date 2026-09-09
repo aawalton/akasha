@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayCastawayDemo = {
   id: "01a0676a-d71a-7004-b188-eede52945fe9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-castaway-demo",
   title: "Castaway (Demo)",
   partOfCollections: ["green-day"],

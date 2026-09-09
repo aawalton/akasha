@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jisooAmortage = {
   id: "01a0676a-d717-700e-97e1-25c52ba10744",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jisoo-amortage",
   title: "AMORTAGE",
   partOfCollections: ["jisoo"],

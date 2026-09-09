@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsStarsWillAlignZerbRemix = {
   id: "01a0676a-d72a-7016-8ee0-72015fd66a26",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-stars-will-align-zerb-remix",
   title: "Stars Will Align (Zerb Remix)",
   partOfCollections: ["imagine-dragons"],

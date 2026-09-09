@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jennaRaineSeeYouLaterTenYears = {
   id: "01a0676a-d728-705e-947e-b313712d807a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jenna-raine-see-you-later-ten-years",
   title: "see you later (ten years)",
   partOfCollections: ["jenna-raine"],

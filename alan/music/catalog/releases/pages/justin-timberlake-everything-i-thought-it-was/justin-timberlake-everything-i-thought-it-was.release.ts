@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const justinTimberlakeEverythingIThoughtItWas = {
   id: "01a0676a-d71d-7040-b292-1508b1ead3dd",
   pageTypeSlug: "release",
+  type: "release",
   slug: "justin-timberlake-everything-i-thought-it-was",
   title: "Everything I Thought It Was",
   partOfCollections: ["justin-timberlake"],

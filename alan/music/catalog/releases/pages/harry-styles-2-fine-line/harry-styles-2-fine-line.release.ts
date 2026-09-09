@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const harryStyles2FineLine = {
   id: "01a0676a-d71d-7079-962f-5e669314a839",
   pageTypeSlug: "release",
+  type: "release",
   slug: "harry-styles-2-fine-line",
   title: "Fine Line",
   partOfCollections: ["harry-styles-2"],

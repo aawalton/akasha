@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jisooEyesClosedWithZaynBareUnveiled = {
   id: "01a0676a-d71d-7059-9daf-0123447d2f2e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jisoo-eyes-closed-with-zayn-bare-unveiled",
   title: "EYES CLOSED (with ZAYN) [BARE/UNVEILED]",
   partOfCollections: ["jisoo"],

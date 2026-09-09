@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadors = {
   id: "01a0676a-d72a-703b-9d12-4a19e6ebcbb8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-sucker-for-pain-with-logic-ty-dolla-ign-feat-x-ambassadors",
   title: "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
   partOfCollections: ["imagine-dragons"],

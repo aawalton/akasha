@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerWhereverYouWillGoAcoustic = {
   id: "01a0676a-d731-7010-b9b7-b9b69f00bc7f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-wherever-you-will-go-acoustic",
   title: "Wherever You Will Go (Acoustic)",
   partOfCollections: ["jada-facer"],

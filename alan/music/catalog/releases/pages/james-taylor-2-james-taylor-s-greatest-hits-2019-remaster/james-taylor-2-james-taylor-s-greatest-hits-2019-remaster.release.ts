@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jamesTaylor2JamesTaylorSGreatestHits2019Remaster = {
   id: "01a0676a-d722-701d-b246-71aaae190c29",
   pageTypeSlug: "release",
+  type: "release",
   slug: "james-taylor-2-james-taylor-s-greatest-hits-2019-remaster",
   title: "James Taylor's Greatest Hits (2019 Remaster)",
   partOfCollections: ["james-taylor-2"],

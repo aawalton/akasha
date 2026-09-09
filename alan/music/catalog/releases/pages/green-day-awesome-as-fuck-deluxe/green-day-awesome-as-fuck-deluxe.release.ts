@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayAwesomeAsFuckDeluxe = {
   id: "01a0676a-d717-7047-85b2-309534b6dd70",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-awesome-as-fuck-deluxe",
   title: "Awesome as Fuck (Deluxe)",
   partOfCollections: ["green-day"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerLetItSnow = {
   id: "01a0676a-d723-700a-b7af-aca45cd9de21",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-let-it-snow",
   title: "Let It Snow",
   partOfCollections: ["jada-facer"],

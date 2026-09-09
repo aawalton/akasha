@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jennaRaineMyEscapeIfIHadTheSummer = {
   id: "01a0676a-d725-7025-ae81-669962af88e7",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jenna-raine-my-escape-if-i-had-the-summer",
   title: "My Escape / If I Had the Summer",
   partOfCollections: ["jenna-raine"],

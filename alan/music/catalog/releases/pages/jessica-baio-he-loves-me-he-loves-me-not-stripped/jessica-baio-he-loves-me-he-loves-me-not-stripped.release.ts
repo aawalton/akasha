@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jessicaBaioHeLovesMeHeLovesMeNotStripped = {
   id: "01a0676a-d720-7005-a728-eaa8b2201732",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jessica-baio-he-loves-me-he-loves-me-not-stripped",
   title: "he loves me, he loves me not (stripped)",
   partOfCollections: ["jessica-baio"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const gracieAbramsStay = {
   id: "01a0676a-d72a-701b-be80-050f218977cc",
   pageTypeSlug: "release",
+  type: "release",
   slug: "gracie-abrams-stay",
   title: "Stay",
   partOfCollections: ["gracie-abrams"],

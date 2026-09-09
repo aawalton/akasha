@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerKissAndMakeUp = {
   id: "01a0676a-d722-7047-8e1d-47d5b9456f27",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-kiss-and-make-up",
   title: "Kiss and Make Up",
   partOfCollections: ["jada-facer"],

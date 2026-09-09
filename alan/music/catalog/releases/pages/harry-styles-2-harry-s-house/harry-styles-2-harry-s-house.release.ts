@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const harryStyles2HarrySHouse = {
   id: "01a0676a-d71f-7055-8a67-409a6461b98b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "harry-styles-2-harry-s-house",
   title: "Harry's House",
   partOfCollections: ["harry-styles-2"],

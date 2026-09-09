@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jisooEyesClosedWithZayn = {
   id: "01a0676a-d71d-7057-b7b3-885c3a918af1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jisoo-eyes-closed-with-zayn",
   title: "EYES CLOSED (with ZAYN)",
   partOfCollections: ["jisoo"],

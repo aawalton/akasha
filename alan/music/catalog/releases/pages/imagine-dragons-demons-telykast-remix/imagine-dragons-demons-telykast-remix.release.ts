@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsDemonsTelykastRemix = {
   id: "01a0676a-d71c-700b-8144-d428c2b2c6c2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-demons-telykast-remix",
   title: "Demons (TELYKast Remix)",
   partOfCollections: ["imagine-dragons"],

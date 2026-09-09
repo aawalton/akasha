@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const justinTimberlakeBelieveFeatJustinTimberlake = {
   id: "01a0676a-d718-7039-ab6f-f2fa79259a19",
   pageTypeSlug: "release",
+  type: "release",
   slug: "justin-timberlake-believe-feat-justin-timberlake",
   title: "Believe (feat. Justin Timberlake)",
   partOfCollections: ["justin-timberlake"],

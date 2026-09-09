@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jessicaBaioBadTattoo = {
   id: "01a0676a-d718-700e-bcdc-618058cf8088",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jessica-baio-bad-tattoo",
   title: "bad tattoo",
   partOfCollections: ["jessica-baio"],

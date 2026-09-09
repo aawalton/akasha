@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsEnemyWithJidOpeningTitleVersionFromTheSeriesArcaneLeagueOfLegends = {
   id: "01a0676a-d71d-7017-894d-f0a81e79e342",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-enemy-with-jid-opening-title-version-from-the-series-arcane-league-of-legends",
   title: "Enemy with JID (Opening Title Version) (from the series Arcane League of Legends)",
   partOfCollections: ["imagine-dragons"],

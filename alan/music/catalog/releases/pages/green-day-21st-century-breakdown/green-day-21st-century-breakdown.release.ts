@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDay21stCenturyBreakdown = {
   id: "01a0676a-d715-7004-be20-299f07d6c38d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-21st-century-breakdown",
   title: "21st Century Breakdown",
   partOfCollections: ["green-day"],

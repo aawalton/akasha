@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerSweetChildOMineAcoustic = {
   id: "01a0676a-d72b-7002-bb6d-2560eff70a0d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-sweet-child-o-mine-acoustic",
   title: "Sweet Child O' Mine (Acoustic)",
   partOfCollections: ["jada-facer"],

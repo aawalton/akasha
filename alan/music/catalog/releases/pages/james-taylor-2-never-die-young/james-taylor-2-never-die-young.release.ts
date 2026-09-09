@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jamesTaylor2NeverDieYoung = {
   id: "01a0676a-d725-7046-b833-b1edb4fe19b5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "james-taylor-2-never-die-young",
   title: "Never Die Young",
   partOfCollections: ["james-taylor-2"],

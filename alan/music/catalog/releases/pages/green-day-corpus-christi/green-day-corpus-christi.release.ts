@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayCorpusChristi = {
   id: "01a0676a-d71b-702b-adfc-4be41ac04a98",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-corpus-christi",
   title: "Corpus Christi",
   partOfCollections: ["green-day"],

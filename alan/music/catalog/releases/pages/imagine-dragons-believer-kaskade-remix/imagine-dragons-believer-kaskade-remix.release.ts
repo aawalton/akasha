@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsBelieverKaskadeRemix = {
   id: "01a0676a-d718-703b-9ac6-5117b7febf9f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-believer-kaskade-remix",
   title: "Believer (Kaskade Remix)",
   partOfCollections: ["imagine-dragons"],

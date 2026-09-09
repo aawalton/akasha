@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jamesTaylor2Flag = {
   id: "01a0676a-d71e-700a-862e-2fe1a9c9d79f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "james-taylor-2-flag",
   title: "Flag",
   partOfCollections: ["james-taylor-2"],

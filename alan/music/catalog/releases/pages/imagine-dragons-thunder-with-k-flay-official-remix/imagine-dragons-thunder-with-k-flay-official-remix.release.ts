@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsThunderWithKFlayOfficialRemix = {
   id: "01a0676a-d72e-703d-90d0-a2525c8ed08f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-thunder-with-k-flay-official-remix",
   title: "Thunder (With K.Flay) [Official Remix]",
   partOfCollections: ["imagine-dragons"],

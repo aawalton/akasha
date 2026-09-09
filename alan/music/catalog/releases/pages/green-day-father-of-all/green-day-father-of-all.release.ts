@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayFatherOfAll = {
   id: "01a0676a-d71d-7066-88d1-7df309dabd05",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-father-of-all",
   title: "Father of All...",
   partOfCollections: ["green-day"],

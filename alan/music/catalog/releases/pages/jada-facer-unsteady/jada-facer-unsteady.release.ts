@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerUnsteady = {
   id: "01a0676a-d72f-7048-99f7-c91fcf4a1b9b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-unsteady",
   title: "Unsteady",
   partOfCollections: ["jada-facer"],

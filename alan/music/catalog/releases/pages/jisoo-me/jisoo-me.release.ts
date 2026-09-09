@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jisooMe = {
   id: "01a0676a-d724-703f-a8d0-76c47bdca58f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jisoo-me",
   title: "ME",
   partOfCollections: ["jisoo"],

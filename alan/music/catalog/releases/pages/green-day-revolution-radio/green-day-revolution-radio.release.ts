@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayRevolutionRadio = {
   id: "01a0676a-d727-7073-aafe-71ad14e48863",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-revolution-radio",
   title: "Revolution Radio",
   partOfCollections: ["green-day"],

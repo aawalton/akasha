@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsEvolve = {
   id: "01a0676a-d71d-7049-a779-804375c15aae",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-evolve",
   title: "Evolve",
   partOfCollections: ["imagine-dragons"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerLookWhatYouMadeMeDo = {
   id: "01a0676a-d723-7061-b042-137c47758c1c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-look-what-you-made-me-do",
   title: "Look What You Made Me Do",
   partOfCollections: ["jada-facer"],

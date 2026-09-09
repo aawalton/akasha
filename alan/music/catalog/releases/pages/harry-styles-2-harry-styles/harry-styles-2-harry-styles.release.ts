@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const harryStyles2HarryStyles = {
   id: "01a0676a-d71f-7056-b3b5-b70286899700",
   pageTypeSlug: "release",
+  type: "release",
   slug: "harry-styles-2-harry-styles",
   title: "Harry Styles",
   partOfCollections: ["harry-styles-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsIBetMyLifeRiotGamesRemix = {
   id: "01a0676a-d721-7003-a894-784ee5939511",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-i-bet-my-life-riot-games-remix",
   title: "I Bet My Life (Riot Games Remix)",
   partOfCollections: ["imagine-dragons"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsWhateverItTakesJorgenOdegardRemix = {
   id: "01a0676a-d730-704e-8995-168874e907c8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-whatever-it-takes-jorgen-odegard-remix",
   title: "Whatever It Takes (Jorgen Odegard Remix)",
   partOfCollections: ["imagine-dragons"],

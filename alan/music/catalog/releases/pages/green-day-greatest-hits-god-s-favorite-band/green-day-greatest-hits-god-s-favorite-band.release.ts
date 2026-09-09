@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayGreatestHitsGodSFavoriteBand = {
   id: "01a0676a-d71f-702d-876d-907fa066fd64",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-greatest-hits-god-s-favorite-band",
   title: "Greatest Hits: God's Favorite Band",
   partOfCollections: ["green-day"],

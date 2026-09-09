@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jamesTaylor2TodayTodayToday = {
   id: "01a0676a-d72f-7009-857b-ba4a7060fe02",
   pageTypeSlug: "release",
+  type: "release",
   slug: "james-taylor-2-today-today-today",
   title: "Today Today Today",
   partOfCollections: ["james-taylor-2"],

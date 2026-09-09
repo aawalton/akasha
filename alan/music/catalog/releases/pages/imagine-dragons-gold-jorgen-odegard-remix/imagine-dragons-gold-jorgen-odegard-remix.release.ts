@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsGoldJorgenOdegardRemix = {
   id: "01a0676a-d71f-7011-9907-866ab38701e4",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-gold-jorgen-odegard-remix",
   title: "Gold (Jorgen Odegard Remix)",
   partOfCollections: ["imagine-dragons"],

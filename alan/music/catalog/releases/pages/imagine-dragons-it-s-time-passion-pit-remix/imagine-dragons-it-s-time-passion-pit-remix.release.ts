@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsItSTimePassionPitRemix = {
   id: "01a0676a-d722-7015-a8c7-79bfdb3af8d5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-it-s-time-passion-pit-remix",
   title: "It's Time (Passion Pit Remix)",
   partOfCollections: ["imagine-dragons"],

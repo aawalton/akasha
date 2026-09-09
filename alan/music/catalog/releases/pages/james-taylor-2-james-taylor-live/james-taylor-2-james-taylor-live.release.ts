@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jamesTaylor2JamesTaylorLive = {
   id: "01a0676a-d722-701c-bc4b-647c865f71ef",
   pageTypeSlug: "release",
+  type: "release",
   slug: "james-taylor-2-james-taylor-live",
   title: "James Taylor Live",
   partOfCollections: ["james-taylor-2"],

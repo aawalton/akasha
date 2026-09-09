@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerMustHaveBeenTheWind = {
   id: "01a0676a-d725-7021-a832-4b39bfb2abe6",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-must-have-been-the-wind",
   title: "Must Have Been The Wind",
   partOfCollections: ["jada-facer"],

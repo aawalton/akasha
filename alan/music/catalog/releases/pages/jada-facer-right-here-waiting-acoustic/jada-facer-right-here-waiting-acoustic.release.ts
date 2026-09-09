@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerRightHereWaitingAcoustic = {
   id: "01a0676a-d728-7009-b98c-928df58bff8c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-right-here-waiting-acoustic",
   title: "Right Here Waiting (Acoustic)",
   partOfCollections: ["jada-facer"],

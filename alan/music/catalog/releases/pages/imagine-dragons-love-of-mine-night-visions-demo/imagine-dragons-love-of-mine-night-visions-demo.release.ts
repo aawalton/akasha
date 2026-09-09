@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsLoveOfMineNightVisionsDemo = {
   id: "01a0676a-d723-7078-94a6-31bd13f051b9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-love-of-mine-night-visions-demo",
   title: "Love Of Mine (Night Visions Demo)",
   partOfCollections: ["imagine-dragons"],

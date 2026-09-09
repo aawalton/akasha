@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayBulletInABible = {
   id: "01a0676a-d719-7042-80f2-416277fb75ff",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-bullet-in-a-bible",
   title: "Bullet in a Bible",
   partOfCollections: ["green-day"],

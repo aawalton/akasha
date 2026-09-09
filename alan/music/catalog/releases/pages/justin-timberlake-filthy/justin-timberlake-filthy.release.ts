@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const justinTimberlakeFilthy = {
   id: "01a0676a-d71d-7074-a75b-fc1e49855fe9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "justin-timberlake-filthy",
   title: "Filthy",
   partOfCollections: ["justin-timberlake"],

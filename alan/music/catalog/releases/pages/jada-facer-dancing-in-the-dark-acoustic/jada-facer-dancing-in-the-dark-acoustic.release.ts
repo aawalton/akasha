@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerDancingInTheDarkAcoustic = {
   id: "01a0676a-d71b-705f-b94a-a9881e253a58",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-dancing-in-the-dark-acoustic",
   title: "Dancing In the Dark (Acoustic)",
   partOfCollections: ["jada-facer"],

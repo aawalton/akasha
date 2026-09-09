@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersion = {
   id: "01a0676a-d72b-700b-9f2c-4874d373216b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-symphony-inner-city-youth-orchestra-of-los-angeles-version",
   title: "Symphony (Inner City Youth Orchestra of Los Angeles Version)",
   partOfCollections: ["imagine-dragons"],

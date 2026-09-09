@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerOceansWhereFeetMayFailAcoustic = {
   id: "01a0676a-d726-7015-9385-908565bad1c2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-oceans-where-feet-may-fail-acoustic",
   title: "Oceans (Where Feet May Fail) [Acoustic]",
   partOfCollections: ["jada-facer"],

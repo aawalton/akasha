@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayLetYourselfGo = {
   id: "01a0676a-d723-7027-874f-0f937032fb00",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-let-yourself-go",
   title: "Let Yourself Go",
   partOfCollections: ["green-day"],

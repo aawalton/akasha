@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerSouthOfTheBorder = {
   id: "01a0676a-d729-706f-85da-7a559725e869",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-south-of-the-border",
   title: "South of The Border",
   partOfCollections: ["jada-facer"],

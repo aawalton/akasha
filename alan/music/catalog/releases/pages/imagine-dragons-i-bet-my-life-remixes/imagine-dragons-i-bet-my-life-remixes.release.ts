@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsIBetMyLifeRemixes = {
   id: "01a0676a-d721-7002-8ee7-895ee1ccda29",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-i-bet-my-life-remixes",
   title: "I Bet My Life (Remixes)",
   partOfCollections: ["imagine-dragons"],

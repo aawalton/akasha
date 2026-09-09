@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jamesTaylor2InThePocket2019Remaster = {
   id: "01a0676a-d721-706b-a3a3-f366f346dff8",
   pageTypeSlug: "release",
+  type: "release",
   slug: "james-taylor-2-in-the-pocket-2019-remaster",
   title: "In the Pocket (2019 Remaster)",
   partOfCollections: ["james-taylor-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayDreaming = {
   id: "01a0676a-d71c-7037-bc87-6368960cba16",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-dreaming",
   title: "Dreaming",
   partOfCollections: ["green-day"],

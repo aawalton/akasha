@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const gracieAbramsUnlearnWithGracieAbrams = {
   id: "01a0676a-d72f-7040-a46f-69a9a0f3b862",
   pageTypeSlug: "release",
+  type: "release",
   slug: "gracie-abrams-unlearn-with-gracie-abrams",
   title: "Unlearn (with Gracie Abrams)",
   partOfCollections: ["gracie-abrams"],

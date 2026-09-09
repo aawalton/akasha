@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerAllINeedIsYou = {
   id: "01a0676a-d716-701b-8478-3c021db56f2b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-all-i-need-is-you",
   title: "All I Need Is You",
   partOfCollections: ["jada-facer"],

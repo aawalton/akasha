@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerSomewhereOnlyWeKnowAcoustic = {
   id: "01a0676a-d729-705f-8d2d-887ad56ca1db",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-somewhere-only-we-know-acoustic",
   title: "Somewhere Only We Know (Acoustic)",
   partOfCollections: ["jada-facer"],

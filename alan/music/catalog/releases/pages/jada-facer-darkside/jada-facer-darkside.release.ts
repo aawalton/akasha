@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerDarkside = {
   id: "01a0676a-d71b-706b-a3bd-989130f6b81a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-darkside",
   title: "Darkside",
   partOfCollections: ["jada-facer"],

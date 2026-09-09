@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerSuchGreatHeightsAcoustic = {
   id: "01a0676a-d72a-7039-9aa4-ba16571f982b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-such-great-heights-acoustic",
   title: "Such Great Heights (Acoustic)",
   partOfCollections: ["jada-facer"],

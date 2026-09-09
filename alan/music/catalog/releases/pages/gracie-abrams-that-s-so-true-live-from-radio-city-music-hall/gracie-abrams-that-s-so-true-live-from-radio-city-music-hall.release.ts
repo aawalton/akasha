@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const gracieAbramsThatSSoTrueLiveFromRadioCityMusicHall = {
   id: "01a0676a-d72c-701b-83d3-fcd90e47d562",
   pageTypeSlug: "release",
+  type: "release",
   slug: "gracie-abrams-that-s-so-true-live-from-radio-city-music-hall",
   title: "That’s So True (Live From Radio City Music Hall)",
   partOfCollections: ["gracie-abrams"],

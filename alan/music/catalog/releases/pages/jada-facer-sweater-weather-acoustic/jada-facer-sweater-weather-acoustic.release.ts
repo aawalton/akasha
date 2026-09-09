@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerSweaterWeatherAcoustic = {
   id: "01a0676a-d72a-704b-9b1f-c30c9b9de2ce",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-sweater-weather-acoustic",
   title: "Sweater Weather (Acoustic)",
   partOfCollections: ["jada-facer"],

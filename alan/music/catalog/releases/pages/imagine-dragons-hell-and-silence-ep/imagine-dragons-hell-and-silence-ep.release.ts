@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsHellAndSilenceEp = {
   id: "01a0676a-d720-7028-9735-88d6bf4d3444",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-hell-and-silence-ep",
   title: "Hell And Silence EP",
   partOfCollections: ["imagine-dragons"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jessicaBaioSkin = {
   id: "01a0676a-d729-7016-a18c-a84b06e950fd",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jessica-baio-skin",
   title: "skin",
   partOfCollections: ["jessica-baio"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerSidelines = {
   id: "01a0676a-d729-7003-b65a-6370b7433637",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-sidelines",
   title: "Sidelines",
   partOfCollections: ["jada-facer"],

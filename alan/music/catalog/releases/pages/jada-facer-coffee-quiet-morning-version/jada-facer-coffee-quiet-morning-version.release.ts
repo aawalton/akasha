@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerCoffeeQuietMorningVersion = {
   id: "01a0676a-d71b-7008-bd47-e265403b33ee",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-coffee-quiet-morning-version",
   title: "Coffee (quiet morning version)",
   partOfCollections: ["jada-facer"],

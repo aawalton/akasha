@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jennaRaineBigDumbHeartChapter1 = {
   id: "01a0676a-d718-7058-96bf-3b3a784def43",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jenna-raine-big-dumb-heart-chapter-1",
   title: "Big Dumb Heart, Chapter 1",
   partOfCollections: ["jenna-raine"],

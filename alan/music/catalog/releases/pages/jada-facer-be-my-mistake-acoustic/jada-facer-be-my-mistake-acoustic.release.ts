@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerBeMyMistakeAcoustic = {
   id: "01a0676a-d718-701f-8fb8-e968e87f792f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-be-my-mistake-acoustic",
   title: "Be My Mistake (Acoustic)",
   partOfCollections: ["jada-facer"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayAmericanIdiot20thAnniversaryOnHoliday = {
   id: "01a0676a-d717-7006-a26a-31aefaca83b9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-american-idiot-20th-anniversary-on-holiday",
   title: "American Idiot (20th Anniversary - On Holiday)",
   partOfCollections: ["green-day"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerLathi = {
   id: "01a0676a-d722-7060-a6af-78144a91fceb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-lathi",
   title: "LATHI",
   partOfCollections: ["jada-facer"],

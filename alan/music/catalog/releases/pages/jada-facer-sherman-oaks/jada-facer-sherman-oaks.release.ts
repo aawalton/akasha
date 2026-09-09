@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerShermanOaks = {
   id: "01a0676a-d728-7073-aebf-1e272f52073f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-sherman-oaks",
   title: "Sherman Oaks",
   partOfCollections: ["jada-facer"],

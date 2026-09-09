@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const justinTimberlakeDonTSlackFromTrollsWorldTour = {
   id: "01a0676a-d71c-7024-a96a-66bac9b87955",
   pageTypeSlug: "release",
+  type: "release",
   slug: "justin-timberlake-don-t-slack-from-trolls-world-tour",
   title: "Don't Slack (from Trolls World Tour)",
   partOfCollections: ["justin-timberlake"],

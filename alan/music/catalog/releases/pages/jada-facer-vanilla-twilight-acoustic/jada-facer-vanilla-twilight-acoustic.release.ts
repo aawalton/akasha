@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerVanillaTwilightAcoustic = {
   id: "01a0676a-d72f-705e-87d3-217e469bf498",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-vanilla-twilight-acoustic",
   title: "Vanilla Twilight (Acoustic)",
   partOfCollections: ["jada-facer"],

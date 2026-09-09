@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerIris = {
   id: "01a0676a-d722-7002-984d-aa160db19ac0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-iris",
   title: "Iris",
   partOfCollections: ["jada-facer"],

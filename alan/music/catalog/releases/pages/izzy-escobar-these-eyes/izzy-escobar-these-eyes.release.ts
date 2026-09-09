@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const izzyEscobarTheseEyes = {
   id: "01a0676a-d72e-7025-b287-f00169bd9aeb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "izzy-escobar-these-eyes",
   title: "These Eyes",
   partOfCollections: ["izzy-escobar"],

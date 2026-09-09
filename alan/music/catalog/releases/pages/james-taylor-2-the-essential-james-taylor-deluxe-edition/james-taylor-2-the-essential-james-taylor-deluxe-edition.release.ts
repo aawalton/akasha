@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jamesTaylor2TheEssentialJamesTaylorDeluxeEdition = {
   id: "01a0676a-d72d-7008-b0ae-b6975921a864",
   pageTypeSlug: "release",
+  type: "release",
   slug: "james-taylor-2-the-essential-james-taylor-deluxe-edition",
   title: "The Essential James Taylor (Deluxe Edition)",
   partOfCollections: ["james-taylor-2"],

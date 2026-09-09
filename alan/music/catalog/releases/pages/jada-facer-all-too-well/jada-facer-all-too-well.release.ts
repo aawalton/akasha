@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerAllTooWell = {
   id: "01a0676a-d716-7028-9aee-43ec3bb1befc",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-all-too-well",
   title: "All Too Well",
   partOfCollections: ["jada-facer"],

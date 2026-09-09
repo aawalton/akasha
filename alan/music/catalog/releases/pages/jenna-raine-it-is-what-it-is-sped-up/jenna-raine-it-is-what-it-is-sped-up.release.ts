@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jennaRaineItIsWhatItIsSpedUp = {
   id: "01a0676a-d722-7008-8bf9-bf1f94b7a77d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jenna-raine-it-is-what-it-is-sped-up",
   title: "It Is What It Is (Sped Up)",
   partOfCollections: ["jenna-raine"],

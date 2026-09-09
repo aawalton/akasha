@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerYouBrokeMeFirstAcoustic = {
   id: "01a0676a-d732-7003-a508-b36dd9023556",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-you-broke-me-first-acoustic",
   title: "you broke me first (Acoustic)",
   partOfCollections: ["jada-facer"],

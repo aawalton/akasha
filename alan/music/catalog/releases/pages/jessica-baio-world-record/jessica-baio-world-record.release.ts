@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jessicaBaioWorldRecord = {
   id: "01a0676a-d731-7038-b2fb-a3e32166d11d",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jessica-baio-world-record",
   title: "world record",
   partOfCollections: ["jessica-baio"],

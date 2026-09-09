@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerTimeAfterTimeAcoustic = {
   id: "01a0676a-d72e-7044-8701-51f9d5914025",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-time-after-time-acoustic",
   title: "Time After Time (Acoustic)",
   partOfCollections: ["jada-facer"],

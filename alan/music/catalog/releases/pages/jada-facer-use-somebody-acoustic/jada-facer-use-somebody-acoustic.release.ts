@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerUseSomebodyAcoustic = {
   id: "01a0676a-d72f-705a-a91d-0a423c295a89",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-use-somebody-acoustic",
   title: "Use Somebody (Acoustic)",
   partOfCollections: ["jada-facer"],

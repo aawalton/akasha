@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayAmericanIdiot20thAnniversaryBecomingWhoWeAre = {
   id: "01a0676a-d717-7003-a0d3-71cf72985841",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-american-idiot-20th-anniversary-becoming-who-we-are",
   title: "American Idiot (20th Anniversary - Becoming Who We Are)",
   partOfCollections: ["green-day"],

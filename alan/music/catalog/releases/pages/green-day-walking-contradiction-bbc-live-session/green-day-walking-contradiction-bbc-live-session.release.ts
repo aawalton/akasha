@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayWalkingContradictionBbcLiveSession = {
   id: "01a0676a-d730-7012-b725-3a83222d1d26",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-walking-contradiction-bbc-live-session",
   title: "Walking Contradiction (BBC Live Session)",
   partOfCollections: ["green-day"],

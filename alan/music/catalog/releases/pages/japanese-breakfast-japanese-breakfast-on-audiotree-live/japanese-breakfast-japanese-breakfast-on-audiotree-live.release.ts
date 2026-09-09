@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const japaneseBreakfastJapaneseBreakfastOnAudiotreeLive = {
   id: "01a0676a-d722-7020-a3bd-cddc7ab08915",
   pageTypeSlug: "release",
+  type: "release",
   slug: "japanese-breakfast-japanese-breakfast-on-audiotree-live",
   title: "Japanese Breakfast on Audiotree Live",
   partOfCollections: ["japanese-breakfast"],

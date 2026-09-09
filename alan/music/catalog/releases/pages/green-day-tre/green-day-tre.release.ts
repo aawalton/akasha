@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayTre = {
   id: "01a0676a-d72f-7018-b373-3300fd8e7feb",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-tre",
   title: "¡TRÉ!",
   partOfCollections: ["green-day"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayInternationalSuperhits = {
   id: "01a0676a-d721-7078-afbe-a59ef61fb942",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-international-superhits",
   title: "International Superhits!",
   partOfCollections: ["green-day"],

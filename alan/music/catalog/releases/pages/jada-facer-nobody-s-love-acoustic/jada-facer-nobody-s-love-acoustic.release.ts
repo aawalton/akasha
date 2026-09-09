@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerNobodySLoveAcoustic = {
   id: "01a0676a-d725-706e-aafb-6e5aa455bc8a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-nobody-s-love-acoustic",
   title: "Nobody's Love (Acoustic)",
   partOfCollections: ["jada-facer"],

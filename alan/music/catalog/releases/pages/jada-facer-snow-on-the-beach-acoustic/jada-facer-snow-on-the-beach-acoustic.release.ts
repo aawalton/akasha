@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerSnowOnTheBeachAcoustic = {
   id: "01a0676a-d729-703b-9588-74be9702b513",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-snow-on-the-beach-acoustic",
   title: "Snow On The Beach (Acoustic)",
   partOfCollections: ["jada-facer"],

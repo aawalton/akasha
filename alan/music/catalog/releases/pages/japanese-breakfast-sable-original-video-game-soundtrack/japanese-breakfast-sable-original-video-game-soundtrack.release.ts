@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const japaneseBreakfastSableOriginalVideoGameSoundtrack = {
   id: "01a0676a-d728-7036-a881-e8231ea7f273",
   pageTypeSlug: "release",
+  type: "release",
   slug: "japanese-breakfast-sable-original-video-game-soundtrack",
   title: "Sable (Original Video Game Soundtrack)",
   partOfCollections: ["japanese-breakfast"],

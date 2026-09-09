@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDaySaviorsEditionDeLuxe = {
   id: "01a0676a-d728-7048-82bf-04a6acf92fe2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-saviors-edition-de-luxe",
   title: "Saviors (édition de luxe)",
   partOfCollections: ["green-day"],

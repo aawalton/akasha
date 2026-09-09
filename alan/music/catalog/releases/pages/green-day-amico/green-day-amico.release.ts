@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayAmico = {
   id: "01a0676a-d717-700b-bc52-5e9be04c01e2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-amico",
   title: "Amico",
   partOfCollections: ["green-day"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jessicaBaioAllISawWasYouFeatJessicaBaio = {
   id: "01a0676a-d716-701c-baec-3a876d0a9eda",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jessica-baio-all-i-saw-was-you-feat-jessica-baio",
   title: "ALL I SAW WAS YOU (feat. Jessica Baio)",
   partOfCollections: ["jessica-baio"],

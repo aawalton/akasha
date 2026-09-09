@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsBonesTwocolorsRemix = {
   id: "01a0676a-d719-7021-84dc-1456fd572628",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-bones-twocolors-remix",
   title: "Bones (twocolors Remix)",
   partOfCollections: ["imagine-dragons"],

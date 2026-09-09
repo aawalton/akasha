@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayNimrod25thAnniversaryEdition = {
   id: "01a0676a-d725-7060-aad5-68f96a336c3c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-nimrod-25th-anniversary-edition",
   title: "Nimrod (25th Anniversary Edition)",
   partOfCollections: ["green-day"],

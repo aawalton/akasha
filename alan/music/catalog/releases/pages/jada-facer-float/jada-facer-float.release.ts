@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerFloat = {
   id: "01a0676a-d71e-7012-ac04-561ce03eec42",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-float",
   title: "Float",
   partOfCollections: ["jada-facer"],

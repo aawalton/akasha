@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerSummerSolstice = {
   id: "01a0676a-d72a-7042-bc32-62dafb9783ae",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-summer-solstice",
   title: "Summer Solstice",
   partOfCollections: ["jada-facer"],

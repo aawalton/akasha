@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const justinTimberlakeFollowMyLeadFeatEsmeeDenters = {
   id: "01a0676a-d71e-701e-8ba1-ef60f318aa6b",
   pageTypeSlug: "release",
+  type: "release",
   slug: "justin-timberlake-follow-my-lead-feat-esmee-denters",
   title: "Follow My Lead (feat. Esmee Denters)",
   partOfCollections: ["justin-timberlake"],

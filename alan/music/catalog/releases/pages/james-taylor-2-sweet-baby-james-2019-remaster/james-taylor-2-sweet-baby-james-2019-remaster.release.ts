@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jamesTaylor2SweetBabyJames2019Remaster = {
   id: "01a0676a-d72a-704d-8e54-99517925d313",
   pageTypeSlug: "release",
+  type: "release",
   slug: "james-taylor-2-sweet-baby-james-2019-remaster",
   title: "Sweet Baby James (2019 Remaster)",
   partOfCollections: ["james-taylor-2"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const gracieAbramsEverywhereEverythingWithGracieAbrams = {
   id: "01a0676a-d71d-7044-a45a-5afdc3103864",
   pageTypeSlug: "release",
+  type: "release",
   slug: "gracie-abrams-everywhere-everything-with-gracie-abrams",
   title: "Everywhere, Everything (with Gracie Abrams)",
   partOfCollections: ["gracie-abrams"],

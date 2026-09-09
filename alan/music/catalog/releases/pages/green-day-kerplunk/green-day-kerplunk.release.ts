@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayKerplunk = {
   id: "01a0676a-d722-703c-80fb-884acfd5259f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-kerplunk",
   title: "Kerplunk!",
   partOfCollections: ["green-day"],

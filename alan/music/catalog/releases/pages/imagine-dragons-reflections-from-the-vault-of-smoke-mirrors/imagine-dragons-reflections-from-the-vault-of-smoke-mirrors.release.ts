@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrors = {
   id: "01a0676a-d727-7060-a5c2-9e464a84cddd",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-reflections-from-the-vault-of-smoke-mirrors",
   title: "Reflections (From The Vault Of Smoke + Mirrors)",
   partOfCollections: ["imagine-dragons"],

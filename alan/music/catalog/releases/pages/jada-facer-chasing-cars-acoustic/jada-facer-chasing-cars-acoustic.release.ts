@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerChasingCarsAcoustic = {
   id: "01a0676a-d71a-701d-8a19-282ef403e645",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-chasing-cars-acoustic",
   title: "Chasing Cars (Acoustic)",
   partOfCollections: ["jada-facer"],

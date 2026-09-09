@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayAmericanIdiotTheOriginalBroadwayCastRecording = {
   id: "01a0676a-d717-7008-9052-12bf42948e2e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-american-idiot-the-original-broadway-cast-recording",
   title: "American Idiot - The Original Broadway Cast Recording",
   partOfCollections: ["green-day"],

@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerWithoutMeSpedUpVersion = {
   id: "01a0676a-d731-702f-b178-1e27e9c96c1e",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-without-me-sped-up-version",
   title: "Without Me (Sped Up Version)",
   partOfCollections: ["jada-facer"],

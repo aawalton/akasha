@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerLittleThingsAcoustic = {
   id: "01a0676a-d723-703a-aedf-c1c34f93af04",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-little-things-acoustic",
   title: "Little Things (Acoustic)",
   partOfCollections: ["jada-facer"],

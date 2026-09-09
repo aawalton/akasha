@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const japaneseBreakfastMaterialistsOriginalSoundtrack = {
   id: "01a0676a-d724-703c-94b9-c47fdc6303a2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "japanese-breakfast-materialists-original-soundtrack",
   title: "Materialists (Original Soundtrack)",
   partOfCollections: ["japanese-breakfast"],

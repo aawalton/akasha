@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayJesusOfSuburbia = {
   id: "01a0676a-d722-7024-ba54-ab0b9b13dd6a",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-jesus-of-suburbia",
   title: "Jesus of Suburbia",
   partOfCollections: ["green-day"],

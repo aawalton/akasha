@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const gracieAbramsTheSecretOfUs = {
   id: "01a0676a-d72e-7006-80b2-8b9e15c2efd0",
   pageTypeSlug: "release",
+  type: "release",
   slug: "gracie-abrams-the-secret-of-us",
   title: "The Secret of Us",
   partOfCollections: ["gracie-abrams"],

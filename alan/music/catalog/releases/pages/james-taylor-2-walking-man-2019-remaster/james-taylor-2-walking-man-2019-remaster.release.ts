@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jamesTaylor2WalkingMan2019Remaster = {
   id: "01a0676a-d730-7014-a46b-922f9960def9",
   pageTypeSlug: "release",
+  type: "release",
   slug: "james-taylor-2-walking-man-2019-remaster",
   title: "Walking Man (2019 Remaster)",
   partOfCollections: ["james-taylor-2"],

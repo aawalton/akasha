@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayLastOfTheAmericanGirls = {
   id: "01a0676a-d722-705e-9c16-093f5fd6bbaf",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-last-of-the-american-girls",
   title: "Last of the American Girls",
   partOfCollections: ["green-day"],

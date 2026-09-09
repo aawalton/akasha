@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerSayYouWonTLetGoAcoustic = {
   id: "01a0676a-d728-7050-a104-5967a6c75d15",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-say-you-won-t-let-go-acoustic",
   title: "Say You Won't Let Go (Acoustic)",
   partOfCollections: ["jada-facer"],

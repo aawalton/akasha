@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const justinTimberlakeIcuWithJustinTimberlakeRemix = {
   id: "01a0676a-d721-704e-b484-3ab3ff93e9a1",
   pageTypeSlug: "release",
+  type: "release",
   slug: "justin-timberlake-icu-with-justin-timberlake-remix",
   title: "ICU (with Justin Timberlake) [Remix]",
   partOfCollections: ["justin-timberlake"],

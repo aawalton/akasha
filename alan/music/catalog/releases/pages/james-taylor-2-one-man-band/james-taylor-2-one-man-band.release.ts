@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jamesTaylor2OneManBand = {
   id: "01a0676a-d726-702c-8faa-4c9c2123096c",
   pageTypeSlug: "release",
+  type: "release",
   slug: "james-taylor-2-one-man-band",
   title: "One Man Band",
   partOfCollections: ["james-taylor-2"],

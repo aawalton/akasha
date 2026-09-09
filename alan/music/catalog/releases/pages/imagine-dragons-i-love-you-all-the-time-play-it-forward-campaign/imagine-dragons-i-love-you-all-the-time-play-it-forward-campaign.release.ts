@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const imagineDragonsILoveYouAllTheTimePlayItForwardCampaign = {
   id: "01a0676a-d721-702c-b6ca-88d60295aeb2",
   pageTypeSlug: "release",
+  type: "release",
   slug: "imagine-dragons-i-love-you-all-the-time-play-it-forward-campaign",
   title: "I Love You All the Time (Play It Forward Campaign)",
   partOfCollections: ["imagine-dragons"],

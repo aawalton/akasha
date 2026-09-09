@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const greenDayOtisBigGuitarMix = {
   id: "01a0676a-d726-7051-994b-d3e0600c864f",
   pageTypeSlug: "release",
+  type: "release",
   slug: "green-day-otis-big-guitar-mix",
   title: "Otis Big Guitar Mix",
   partOfCollections: ["green-day"],

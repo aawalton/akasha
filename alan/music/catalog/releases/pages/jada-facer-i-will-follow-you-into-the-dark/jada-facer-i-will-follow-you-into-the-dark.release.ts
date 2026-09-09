@@ -3,6 +3,7 @@ import type { Release } from "../../release.page-type.ts"
 export const jadaFacerIWillFollowYouIntoTheDark = {
   id: "01a0676a-d721-7048-a855-e64397466be5",
   pageTypeSlug: "release",
+  type: "release",
   slug: "jada-facer-i-will-follow-you-into-the-dark",
   title: "I Will Follow You Into The Dark",
   partOfCollections: ["jada-facer"],
