@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const speedrunningTheMultiverseComplete0021Book1KindleAudibleLaunch = {
   id: "01a06730-4de0-73f2-9673-4b9afa33f911",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0021-book-1-kindle-audible-launch",
   title: "Book 1 Kindle + Audible Launch!",
   story: "speedrunning-the-multiverse-complete",

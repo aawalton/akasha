@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const speedrunningTheMultiverseComplete0047291TheGodOfAlchemyIii = {
   id: "01a06730-4de3-73e9-923c-432fc1680edf",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0047-291-the-god-of-alchemy-iii",
   title: "291. The God of Alchemy (III) ",
   story: "speedrunning-the-multiverse-complete",

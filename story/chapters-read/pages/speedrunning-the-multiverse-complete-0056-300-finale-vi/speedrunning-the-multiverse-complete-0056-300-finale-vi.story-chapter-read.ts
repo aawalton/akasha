@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const speedrunningTheMultiverseComplete0056300FinaleVi = {
   id: "01a06730-4de4-74bf-8de6-b771390bee17",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0056-300-finale-vi",
   title: "300. Finale (VI) ",
   story: "speedrunning-the-multiverse-complete",

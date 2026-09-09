@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const speedrunningTheMultiverseComplete0014259TheGodhunterXi = {
   id: "01a06730-4de0-7b93-a62c-0c60b284c9c7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0014-259-the-godhunter-xi",
   title: "259. The Godhunter (XI)",
   story: "speedrunning-the-multiverse-complete",

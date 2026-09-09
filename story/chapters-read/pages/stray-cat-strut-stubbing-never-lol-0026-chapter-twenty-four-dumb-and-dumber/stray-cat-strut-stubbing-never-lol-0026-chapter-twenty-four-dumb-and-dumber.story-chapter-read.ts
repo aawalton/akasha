@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0026ChapterTwentyFourDumbAndDumber = {
   id: "01a06730-4e0c-7a9c-bc54-31f88e5c1b8e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0026-chapter-twenty-four-dumb-and-dumber",
   title: "Chapter Twenty-Four - Dumb and Dumber",
   story: "stray-cat-strut-stubbing-never-lol",

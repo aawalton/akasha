@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0401ChapterSevenTheKindOfWorkThatMakesYou = {
   id: "01a06730-4e4c-7caf-9fd8-0eeb20d7e680",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0401-chapter-seven-the-kind-of-work-that-makes-you",
   title: "Chapter Seven - The Kind of Work That Makes You Happy",
   story: "stray-cat-strut-stubbing-never-lol",

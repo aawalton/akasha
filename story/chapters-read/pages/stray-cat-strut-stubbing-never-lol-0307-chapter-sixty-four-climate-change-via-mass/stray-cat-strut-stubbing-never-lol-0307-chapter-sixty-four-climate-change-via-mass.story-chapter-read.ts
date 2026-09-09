@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0307ChapterSixtyFourClimateChangeViaMass = {
   id: "01a06730-4e16-7107-bac8-ca922e24536d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0307-chapter-sixty-four-climate-change-via-mass",
   title: "Chapter Sixty-Four - Climate Change Via Mass Destruction",
   story: "stray-cat-strut-stubbing-never-lol",

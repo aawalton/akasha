@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0007BackToAlpheratz = {
   id: "01a06730-4fb7-7665-b372-e578c32053df",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg-0007-back-to-alpheratz",
   title: "Back to Alpheratz",
   story: "squid-girl-evolution-monster-girl-evolution-litrpg",

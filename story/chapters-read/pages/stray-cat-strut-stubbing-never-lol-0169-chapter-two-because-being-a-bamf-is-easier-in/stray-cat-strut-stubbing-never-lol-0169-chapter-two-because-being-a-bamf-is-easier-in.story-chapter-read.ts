@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0169ChapterTwoBecauseBeingABamfIsEasierIn = {
   id: "01a06730-4e11-79b6-b144-181e7cc4cd89",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0169-chapter-two-because-being-a-bamf-is-easier-in",
   title: "Chapter Two - Because being a BAMF is Easier in Power Armour",
   story: "stray-cat-strut-stubbing-never-lol",

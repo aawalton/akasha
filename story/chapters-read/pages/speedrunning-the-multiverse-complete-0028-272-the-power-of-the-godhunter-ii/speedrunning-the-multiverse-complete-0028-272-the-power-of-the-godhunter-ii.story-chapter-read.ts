@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const speedrunningTheMultiverseComplete0028272ThePowerOfTheGodhunterIi = {
   id: "01a06730-4de1-7373-ad16-893592976b7d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0028-272-the-power-of-the-godhunter-ii",
   title: "272. The Power of the Godhunter (II) ",
   story: "speedrunning-the-multiverse-complete",

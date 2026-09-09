@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0293AiPocryphaTwoAiWrittenChapterSegments = {
   id: "01a06730-4e15-7e86-a719-92f0e20bbe3e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0293-ai-pocrypha-two-ai-written-chapter-segments",
   title: "Ai-pocrypha Two - AI Written Chapter Segments",
   story: "stray-cat-strut-stubbing-never-lol",

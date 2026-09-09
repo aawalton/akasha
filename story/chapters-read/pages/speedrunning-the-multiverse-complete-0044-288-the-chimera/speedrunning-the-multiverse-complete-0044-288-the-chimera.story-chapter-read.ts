@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const speedrunningTheMultiverseComplete0044288TheChimera = {
   id: "01a06730-4de3-77b0-bd61-2cb52b47d727",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0044-288-the-chimera",
   title: "288. The Chimera",
   story: "speedrunning-the-multiverse-complete",

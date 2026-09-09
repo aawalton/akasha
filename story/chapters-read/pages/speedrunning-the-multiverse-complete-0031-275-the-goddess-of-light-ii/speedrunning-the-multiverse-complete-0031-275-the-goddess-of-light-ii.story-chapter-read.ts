@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const speedrunningTheMultiverseComplete0031275TheGoddessOfLightIi = {
   id: "01a06730-4de2-76e0-972c-ff31fa5cdfa8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0031-275-the-goddess-of-light-ii",
   title: "275. The Goddess of Light (II) ",
   story: "speedrunning-the-multiverse-complete",

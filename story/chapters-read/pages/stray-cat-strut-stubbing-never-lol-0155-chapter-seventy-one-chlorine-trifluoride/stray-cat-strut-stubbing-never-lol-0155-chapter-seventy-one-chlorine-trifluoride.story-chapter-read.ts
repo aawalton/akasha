@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0155ChapterSeventyOneChlorineTrifluoride = {
   id: "01a06730-4e10-76b8-8627-0ef56652f0c8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0155-chapter-seventy-one-chlorine-trifluoride",
   title: "Chapter Seventy-One - Chlorine Trifluoride",
   story: "stray-cat-strut-stubbing-never-lol",

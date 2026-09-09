@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0267ChapterTwentySixBreachLoadCharge = {
   id: "01a06730-4e15-7fa0-b24e-f4f3decb6f37",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0267-chapter-twenty-six-breach-load-charge",
   title: "Chapter Twenty-Six - Breach, Load, Charge",
   story: "stray-cat-strut-stubbing-never-lol",

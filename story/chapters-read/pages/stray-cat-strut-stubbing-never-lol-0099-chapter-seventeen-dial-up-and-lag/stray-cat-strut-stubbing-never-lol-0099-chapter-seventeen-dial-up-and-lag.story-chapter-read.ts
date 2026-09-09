@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0099ChapterSeventeenDialUpAndLag = {
   id: "01a06730-4e0e-7a7f-a3f7-73a70eaaf93e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0099-chapter-seventeen-dial-up-and-lag",
   title: "Chapter Seventeen - Dial-Up and Lag",
   story: "stray-cat-strut-stubbing-never-lol",

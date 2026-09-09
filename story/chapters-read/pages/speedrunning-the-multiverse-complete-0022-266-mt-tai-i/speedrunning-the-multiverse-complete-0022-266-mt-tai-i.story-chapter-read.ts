@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const speedrunningTheMultiverseComplete0022266MtTaiI = {
   id: "01a06730-4de0-7bb7-9718-a83c5d10f518",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0022-266-mt-tai-i",
   title: "266. Mt. Tai (I) ",
   story: "speedrunning-the-multiverse-complete",

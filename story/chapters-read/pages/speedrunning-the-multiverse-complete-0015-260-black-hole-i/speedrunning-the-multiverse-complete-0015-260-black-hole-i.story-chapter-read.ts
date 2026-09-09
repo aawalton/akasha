@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const speedrunningTheMultiverseComplete0015260BlackHoleI = {
   id: "01a06730-4de0-7aff-8a7a-3c39bf61f84d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0015-260-black-hole-i",
   title: "260. Black Hole (I) ",
   story: "speedrunning-the-multiverse-complete",
