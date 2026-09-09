@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const zimage = {
   id: "01a06815-9efd-7032-89aa-a2f0ea5e1881",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "zimage",
   definition: "images made from a prompt by the Z-Image diffusion model",
-  manifest: "json",
   parts: [
     "container-recipe/zimage-image",
     "module/zimage-explore-batch",
@@ -28,4 +27,4 @@ export const zimage = {
       statement: "A prompt file may pin the seed the render is drawn with.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

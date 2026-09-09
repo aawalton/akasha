@@ -12,7 +12,7 @@ export const generation = {
     "page-type/image",
     "domain/upscale",
     "workspace-package/wan",
-    "workspace-package/zimage",
+    "domain/zimage",
   ],
   invariants: [
     {

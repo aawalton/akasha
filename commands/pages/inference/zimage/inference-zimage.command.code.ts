@@ -4,8 +4,12 @@ import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
 import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
 import { drawSeed } from "@akasha/inference-clients/inference-seed"
-import { buildModelGraph } from "@akasha/zimage/zimage-graph"
-import { MODEL_IDS, MODELS, toModelId } from "@akasha/zimage/zimage-models"
+import { buildModelGraph } from "akasha/inference/generations/zimage/graph/zimage-graph.module.code.ts"
+import {
+  MODEL_IDS,
+  MODELS,
+  toModelId,
+} from "akasha/inference/generations/zimage/models/zimage-models.module.code.ts"
 import type { Answer, Given } from "../../../../command-system/calling/calling.module.code.ts"
 import { refused } from "../../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../../command-system/fault-saying/fault-saying.module.code.ts"

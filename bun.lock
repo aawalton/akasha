@@ -102,7 +102,6 @@
         "@akasha/utils": "workspace:*",
         "@akasha/wan": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
-        "@akasha/zimage": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
         "@googleapis/drive": "^20.2.0",
         "@googleapis/gmail": "^17.0.0",
@@ -546,7 +545,6 @@
         "@akasha/seat-system": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/wan": "workspace:*",
-        "@akasha/zimage": "workspace:*",
       },
     },
     "context": {
@@ -765,13 +763,6 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "inference/generations/zimage": {
-      "name": "@akasha/zimage",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/comfy": "workspace:*",
       },
     },
     "inference/pool": {
@@ -2682,8 +2673,6 @@
     "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:alan/harness/web-page-answers"],
 
     "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:alan/harness/workspace-paths"],
-
-    "@akasha/zimage": ["@akasha/zimage@workspace:inference/generations/zimage"],
 
     "@alanwalton/atlas-native-shell": ["@alanwalton/atlas-native-shell@workspace:code-system/ios-apps/pages/atlas"],
 
