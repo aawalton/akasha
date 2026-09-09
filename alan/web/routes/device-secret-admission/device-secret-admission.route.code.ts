@@ -1,4 +1,7 @@
-import { buildReadoutRefusal, READOUT_CACHE_CONTROL } from "@akasha/readouts/readout-credential"
+import {
+  buildReadoutRefusal,
+  READOUT_CACHE_CONTROL,
+} from "akasha/readouts/credential/readout-credential.module.code.ts"
 import { readDeviceSecretAdmission } from "../../.server/device-secret-context/device-secret-context.module.code.ts"
 import type { Route } from "./+types/device-secret-admission.route.code"
 

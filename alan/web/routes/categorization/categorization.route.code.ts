@@ -1,4 +1,4 @@
-import { answerReadoutAdmittedBy } from "@akasha/readouts/readout-serving"
+import { answerReadoutAdmittedBy } from "akasha/readouts/serving/readout-serving.module.code.ts"
 import { guardReadout } from "../../.server/readout-guarding/readout-guarding.module.code.ts"
 import type { Route } from "./+types/categorization.route.code"
 

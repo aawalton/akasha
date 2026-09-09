@@ -2,15 +2,15 @@ import { join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
 import { indexValue } from "@akasha/indexes/value/page"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { keepReading } from "@akasha/readouts/readout-reading"
+import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
 import {
   NO_SECRET_TO_CARRY_ON,
   RELAY_SECRET_NAME,
   readoutNamedBy,
   relayReading,
   statedIn,
-} from "@akasha/readouts/readout-relay"
-import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+} from "akasha/readouts/relay/readout-relay.module.code.ts"
 import { followFolders } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
 import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {

@@ -1,4 +1,4 @@
-import { statedAt } from "@akasha/readouts/readout-tier"
+import { statedAt } from "akasha/readouts/tier/readout-tier.module.code.ts"
 
 const ACTIVE_CALORIES = "active-calories"
 

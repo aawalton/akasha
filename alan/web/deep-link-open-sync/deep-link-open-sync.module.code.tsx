@@ -1,7 +1,7 @@
 "use client"
 
 import { decideOpenUrlRoute } from "@akasha/persons/push-routing"
-import { widgetTapped } from "@akasha/readouts/widget-tap-link"
+import { widgetTapped } from "akasha/readouts/widget-tap-link/widget-tap-link.module.code.ts"
 import { useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
 import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"

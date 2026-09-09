@@ -1,5 +1,5 @@
 import { resolveRoots } from "@akasha/pages/checkout-roots"
-import { statedAt } from "@akasha/readouts/readout-tier"
+import { statedAt } from "akasha/readouts/tier/readout-tier.module.code.ts"
 import { openedDayOf } from "../../../track/daily/day-opening/day-opening.module.code.ts"
 import {
   DAILY_TRACKING,

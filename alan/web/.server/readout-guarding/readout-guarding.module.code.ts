@@ -1,4 +1,4 @@
-import { buildReadoutRefusal } from "@akasha/readouts/readout-credential"
+import { buildReadoutRefusal } from "akasha/readouts/credential/readout-credential.module.code.ts"
 import {
   type DeviceSecretContext,
   resolveDeviceSecretContext,

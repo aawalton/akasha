@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const readout = {
   id: "01a05446-e75c-73a6-9442-0919b16723c0",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "readout",
   definition: "how a reading reaches the person it is for",
-  manifest: "json",
   parts: [
     "page-type/readout",
     "page-type/readout-group",
@@ -136,4 +135,4 @@ export const readout = {
       ],
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

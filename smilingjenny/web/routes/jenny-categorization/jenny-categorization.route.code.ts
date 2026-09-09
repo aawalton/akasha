@@ -1,4 +1,4 @@
-import { answerReadout } from "@akasha/readouts/readout-serving"
+import { answerReadout } from "akasha/readouts/serving/readout-serving.module.code.ts"
 import { ringCredential } from "../../.server/jenny-ring-credential/jenny-ring-credential.module.code.ts"
 import type { Route } from "./+types/jenny-categorization.route.code"
 

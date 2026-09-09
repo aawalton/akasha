@@ -5,7 +5,7 @@ export const theStoplightTypeNamesHabitWhileTheInboxesFeedSendsInbox = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-stoplight-type-names-habit-while-the-inboxes-feed-sends-inbox",
-  domain: "workspace-package/readout",
+  domain: "domain/readout",
   claim:
     "`Stoplight` in `readouts/group-serving/readout-group-serving.module.code.ts` declares `habit?: string`, but the key a stoplight carries is a parameter each caller hands in. The inboxes feed hands in `inbox`, so what reaches the wire is `inbox` while the type names `habit`. Nothing refuses it, because a computed key widens to an index signature the declared type admits.",
   evidence:

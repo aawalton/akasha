@@ -5,7 +5,7 @@ export const fourReadoutRulesHaveNoAkashaInvariantAndTheCensusWasPartial = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "four-readout-rules-have-no-akasha-invariant-and-the-census-was-partial",
-  domain: "workspace-package/readout",
+  domain: "domain/readout",
   claim:
     "Four rules stated in markdown design prose have no akasha invariant: the surplus whole-cost rule, the unreviewed reading being able to exceed one, the categorization month-intake denominator, and the values multiplier ladder. Each is a decision made once that nobody will re-derive. The census that found them was partial, and what it did not examine is named here.",
   evidence:

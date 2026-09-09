@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { answering, refusing } from "@akasha/readouts/readout-asking/testing"
+import { answering, refusing } from "akasha/readouts/asking/readout-asking.module.test-fixtures.ts"
 import { fetchTemperTasks, tasksIn, trackingOn } from "./inboxes-temper-tasks.readout.code.ts"
 
 test("the day asked for is the tracking day named", () => {

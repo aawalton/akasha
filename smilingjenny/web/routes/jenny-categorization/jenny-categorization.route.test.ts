@@ -1,5 +1,9 @@
 import { afterAll, beforeAll, expect, test } from "bun:test"
-import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readouts/readout-relay"
+import {
+  dropRelayed,
+  RELAY_PATH,
+  relayReading,
+} from "akasha/readouts/relay/readout-relay.module.code.ts"
 import { action } from "../jenny-readout-relay/jenny-readout-relay.route.code.ts"
 import { loader } from "./jenny-categorization.route.code.ts"
 

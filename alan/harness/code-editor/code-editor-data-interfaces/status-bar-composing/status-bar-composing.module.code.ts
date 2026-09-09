@@ -9,9 +9,9 @@ import {
   stilled,
   stoplightWith,
   type Values,
-} from "@akasha/readouts/readout-group-serving"
-import { readingHeldOn } from "@akasha/readouts/readout-serving"
-import { type Rung, rungsIn } from "@akasha/readouts/readout-tier"
+} from "akasha/readouts/group-serving/readout-group-serving.module.code.ts"
+import { readingHeldOn } from "akasha/readouts/serving/readout-serving.module.code.ts"
+import { type Rung, rungsIn } from "akasha/readouts/tier/readout-tier.module.code.ts"
 import {
   readingOf,
   type UsageReading,

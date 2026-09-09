@@ -59,7 +59,8 @@
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/design-forms": "workspace:*",
-    "sonner": "^2.0.7"
+    "sonner": "^2.0.7",
+    "@akasha/domains": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

@@ -14,6 +14,7 @@
         "@akasha/design-patterns": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
         "@akasha/design-system": "workspace:*",
+        "@akasha/domains": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/git": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
@@ -523,7 +524,6 @@
     "editor-extension": {
       "name": "@akasha/editor-extension",
       "dependencies": {
-        "@akasha/readouts": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
       },
@@ -814,17 +814,6 @@
         "@types/react-dom": "^19",
         "typescript": "^5.8.3",
         "vite": "^8.0.3",
-      },
-    },
-    "readouts": {
-      "name": "@akasha/readouts",
-      "dependencies": {
-        "@akasha/domains": "workspace:*",
-        "@akasha/pages-service": "workspace:*",
-        "zod": "^4.3.6",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
       },
     },
     "seat-system": {
@@ -1209,8 +1198,6 @@
     "@akasha/persons": ["@akasha/persons@workspace:persons"],
 
     "@akasha/plain-language": ["@akasha/plain-language@workspace:domains/plain-language"],
-
-    "@akasha/readouts": ["@akasha/readouts@workspace:readouts"],
 
     "@akasha/rules-engine": ["@akasha/rules-engine@workspace:alan/harness/rules-engine"],
 

@@ -5,7 +5,7 @@ export const theQueryLinkDiesWhileEveryQueryPageItNamesIsThere = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-query-link-dies-while-every-query-page-it-names-is-there",
-  domain: "workspace-package/readout",
+  domain: "domain/readout",
   claim:
     "No akasha `upkeep-*` readout carries a `querySlug`, and five of the six values readouts carry none, though every query page they would name is already there in akasha. The markdown readouts declare the link. Deleting the markdown destroys the only record of which query answers which reading, leaving every query page there and unreachable.",
   evidence:

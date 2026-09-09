@@ -1,6 +1,6 @@
-import { keepReading } from "@akasha/readouts/readout-reading"
-import { surplusIn } from "@akasha/readouts/upkeep-surplus"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { surplusIn } from "akasha/readouts/pages/upkeep-surplus/upkeep-surplus.readout.code.ts"
+import { keepReading } from "akasha/readouts/reading/readout-reading.module.code.ts"
 import { askDayByDate } from "../../../track/daily/day-reading/day-reading.module.code.ts"
 
 export const READOUT_PAGE = "readouts/pages/upkeep-surplus/upkeep-surplus.readout.ts"

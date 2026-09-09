@@ -5,7 +5,7 @@ export const theGroupSortOrderIsUnreadInAkashaAndItsDefaultContradictsTheReader 
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-group-sort-order-is-unread-in-akasha-and-its-default-contradicts-the-reader",
-  domain: "workspace-package/readout",
+  domain: "domain/readout",
   claim:
     "akasha's only group reader sorts by place unconditionally, so `sortOrder` is declared and unread there. The page type defaults it to `label`. For the three groups declaring no sort order, safety, surplus and categorization, that default contradicts what the reader does, so anyone making `sortOrder` live flips those three from place order to label order without meaning to.",
   evidence:

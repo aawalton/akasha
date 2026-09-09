@@ -5,7 +5,7 @@ export const anAssertionRestatingTheQueryTheCodeComposesCertifiesAQueryNothingCa
   pageTypeSlug: "finding",
   type: "finding",
   slug: "an-assertion-restating-the-query-the-code-composes-certifies-a-query-nothing-can-answer",
-  domain: "workspace-package/readout",
+  domain: "domain/readout",
   claim:
     'Seven readout code files compose a query keyed `page-type`, and `asking`\'s `Query` has no such field — it takes `pageTypeSlug`. Four assertions across three test files certify that spelling by reading the same key back off the query the readout itself composed, so the test restates the code rather than judging it. Run against the live index, such a query refuses with "`undefined` names no page type the index holds", and two further faults sit behind it: the page-type name is not a page type, and the keys are kebab where pages carry camel. Nothing typed the seam — `Asking` takes `Readonly<Record<string, unknown>>`, so any object satisfies it. The suite passed 300 of 300 over the `upkeep-surplus` case before it was repaired and passes 255 of 255 at HEAD with the same defect left in `upkeep-capacity`, `upkeep-safety` and `attribute-charisma`.',
   evidence:

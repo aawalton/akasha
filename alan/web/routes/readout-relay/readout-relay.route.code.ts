@@ -3,8 +3,12 @@ import {
   presentsSecret,
   READOUT_CACHE_CONTROL,
   RELAY_SECRET_HEADER,
-} from "@akasha/readouts/readout-credential"
-import { holdRelayed, RELAY_SECRET_NAME, relayedIn } from "@akasha/readouts/readout-relay"
+} from "akasha/readouts/credential/readout-credential.module.code.ts"
+import {
+  holdRelayed,
+  RELAY_SECRET_NAME,
+  relayedIn,
+} from "akasha/readouts/relay/readout-relay.module.code.ts"
 import type { Route } from "./+types/readout-relay.route.code"
 
 const NO_READING_IN_THE_BODY = {
