@@ -1,11 +1,11 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { Car } from "../cars/car.page-type.ts"
-import type { CarYearSlug } from "./properties/car-year-slug.relation-property.ts"
+import type { CarYear } from "./properties/car-year.relation-property.ts"
 
 export type CarTrim = Car & {
   title: Title
-  carYearSlug: CarYearSlug
+  carYear: CarYear
 }
 
 export const carTrim = {
@@ -15,10 +15,8 @@ export const carTrim = {
   definition: "one specification a model year is sold in",
   pluralSlug: "car-trims",
   extendsSlug: ["page-type/car"],
-  partSlugs: ["relation-property/car-year-slug"],
-  properties: [
-    { pagePropertySlug: "relation-property/car-year-slug", required: true, many: false },
-  ],
+  partSlugs: ["relation-property/car-year"],
+  properties: [{ pagePropertySlug: "relation-property/car-year", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
