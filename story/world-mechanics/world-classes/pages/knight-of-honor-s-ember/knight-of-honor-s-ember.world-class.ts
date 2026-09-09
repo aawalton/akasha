@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const knightOfHonorSEmber = {
   id: "01a0657e-137d-70f8-a27c-9ffe2647646f",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "knight-of-honor-s-ember",
   title: "Knight of Honor’s Ember",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { WorldClass } from "../../world-class.page-type.ts"
 export const knightOfRedemptionSFlame = {
   id: "01a0657e-020d-73ca-bdd0-36b03136d400",
   pageTypeSlug: "world-class",
+  type: "world-class",
   slug: "knight-of-redemption-s-flame",
   title: "Knight of Redemption’s Flame",
   world: "the-wandering-inn",
