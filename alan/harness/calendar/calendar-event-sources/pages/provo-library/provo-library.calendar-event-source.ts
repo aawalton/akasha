@@ -1,4 +1,4 @@
-import type { CalendarEventSource } from "../../calendar-event-source.page-type.ts"
+import type { CalendarEventSource } from "../../calendar-event-source.page-type.types.ts"
 
 export const provoLibrary = {
   id: "019e9cde-8e04-7e8e-8ffa-b8ca40f2a0d8",
