@@ -170,7 +170,8 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A word the parser gave two objects is misread, so it is left alone.",
+      statement:
+        "A word the parser gave two objects a name could fill is misread, so it is left alone.",
     },
     {
       invariantKind: "departure",

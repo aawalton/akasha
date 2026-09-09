@@ -379,6 +379,16 @@ export const A_WIDGET_HOLDS_HOW_MANY_TAPS: readonly Row[] = [
   ["taps", "NOUN", 3, "obj"],
 ]
 
+export const A_WORKSTATION_HOLDING_NO_EXPORT: readonly Row[] = [
+  ["A", "DET", 2, "det"],
+  ["workstation", "NOUN", 3, "nsubj"],
+  ["holding", "VERB", 0, "root"],
+  ["no", "DET", 5, "det"],
+  ["export", "NOUN", 3, "obj"],
+  ["falls", "VERB", 3, "obj"],
+  ["through", "ADP", 6, "obl"],
+]
+
 export const A_WRITE_BACK_THAT_HELD: readonly Row[] = [
   ["a", "DET", 3, "det"],
   ["write", "NOUN", 3, "compound"],

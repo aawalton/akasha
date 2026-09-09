@@ -15,6 +15,7 @@ import {
   A_TIMER_HOLDS_THE_PROCESS_UP,
   A_TREE_IS_HELD_TO_RELEASE,
   A_WIDGET_HOLDS_HOW_MANY_TAPS,
+  A_WORKSTATION_HOLDING_NO_EXPORT,
   A_WRITE_BACK_THAT_HELD,
   ALAN_HAS_HOLDS_THAT_READING,
   AN_UNKNOWN_HOLDS,
@@ -234,6 +235,12 @@ test("a word whose object is read as neither a thing nor a pronoun is left alone
 
 test("a word the parser gave two objects is left alone", () => {
   expect(foundIn(sentenceOf(ROW_HELD_DROPS_THE_ID), HELD)).toEqual([])
+})
+
+test("a word whose second object no name could fill is found", () => {
+  expect(
+    foundIn(sentenceOf(A_WORKSTATION_HOLDING_NO_EXPORT), HOLD).map((one) => one.frame)
+  ).toEqual(["participle"])
 })
 
 test("a participle read as a clause's own subject is left alone", () => {

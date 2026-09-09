@@ -326,7 +326,8 @@ function acting(sentence: DepSentence, token: DepToken): boolean {
 }
 
 function objectsDoubled(sentence: DepSentence, token: DepToken): boolean {
-  return childrenByRel(sentence, token.id, OBJECT).length > 1
+  const named = childrenByRel(sentence, token.id, OBJECT).filter((one) => NAMED.has(one.upos))
+  return named.length > 1
 }
 
 function relativizerHeld(sentence: DepSentence, token: DepToken): boolean {
