@@ -7,7 +7,7 @@ import {
   lower,
   subtree,
 } from "@akasha/plain-language/dependency-graph"
-import type { Frame } from "../banned-terms/properties/prose-frame.relation-property.ts"
+import type { Frame } from "../terms/banned-terms/properties/prose-frame.relation-property.ts"
 
 export type Found = {
   readonly at: number

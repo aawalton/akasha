@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Instead } from "../../taboo-terms/properties/instead.text-property.ts"
-import type { Term } from "../terms/term.page-type.ts"
+import type { Instead } from "../../../taboo-terms/properties/instead.text-property.ts"
+import type { Term } from "../term.page-type.ts"
 import type { ReplacementPatterns } from "./properties/replacement-patterns.record-property.ts"
 
 export type BannedTerm = Term & {
