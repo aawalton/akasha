@@ -1,7 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type TrackingEntry = Page
 
 export const trackingEntry = {
   id: "01a06827-ec0c-7c96-bc4a-ca5b59f6b38f",
@@ -26,4 +23,5 @@ export const trackingEntry = {
       statement: "No page is an entry of this type without standing as one of the three shapes.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

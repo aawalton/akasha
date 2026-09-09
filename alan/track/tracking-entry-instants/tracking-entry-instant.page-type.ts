@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TrackingEntry } from "../tracking-entries/tracking-entry.page-type.ts"
+import type { TrackingEntry } from "../tracking-entries/tracking-entry.page-type.types.ts"
 
 export type TrackingEntryInstant = TrackingEntry
 
