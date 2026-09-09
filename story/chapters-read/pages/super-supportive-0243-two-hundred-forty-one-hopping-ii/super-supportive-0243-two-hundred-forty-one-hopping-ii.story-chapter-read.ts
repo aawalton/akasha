@@ -5,7 +5,7 @@ export const superSupportive0243TwoHundredFortyOneHoppingIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0243-two-hundred-forty-one-hopping-ii",
   title: "TWO HUNDRED FORTY-ONE: Hopping II",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 243,
   ownLength: 4424,
   unitSlug: "words",

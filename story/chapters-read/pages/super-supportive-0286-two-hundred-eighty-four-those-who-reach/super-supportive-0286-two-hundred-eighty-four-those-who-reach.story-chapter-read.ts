@@ -5,7 +5,7 @@ export const superSupportive0286TwoHundredEightyFourThoseWhoReach = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0286-two-hundred-eighty-four-those-who-reach",
   title: "TWO HUNDRED EIGHTY-FOUR: Those Who Reach",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 286,
   ownLength: 8549,
   unitSlug: "words",

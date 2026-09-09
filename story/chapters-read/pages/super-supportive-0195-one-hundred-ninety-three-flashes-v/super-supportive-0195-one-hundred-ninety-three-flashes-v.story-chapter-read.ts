@@ -5,7 +5,7 @@ export const superSupportive0195OneHundredNinetyThreeFlashesV = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0195-one-hundred-ninety-three-flashes-v",
   title: "ONE HUNDRED NINETY-THREE: Flashes V",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 195,
   ownLength: 5093,
   unitSlug: "words",

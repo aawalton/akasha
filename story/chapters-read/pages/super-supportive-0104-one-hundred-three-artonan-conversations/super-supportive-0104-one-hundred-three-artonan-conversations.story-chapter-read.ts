@@ -5,7 +5,7 @@ export const superSupportive0104OneHundredThreeArtonanConversations = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0104-one-hundred-three-artonan-conversations",
   title: "ONE HUNDRED THREE: Artonan Conversations",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 104,
   ownLength: 9571,
   unitSlug: "words",

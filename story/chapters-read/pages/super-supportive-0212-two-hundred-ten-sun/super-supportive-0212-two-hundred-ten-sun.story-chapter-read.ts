@@ -5,7 +5,7 @@ export const superSupportive0212TwoHundredTenSun = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0212-two-hundred-ten-sun",
   title: "TWO HUNDRED TEN:  Sun",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 212,
   ownLength: 3834,
   unitSlug: "words",

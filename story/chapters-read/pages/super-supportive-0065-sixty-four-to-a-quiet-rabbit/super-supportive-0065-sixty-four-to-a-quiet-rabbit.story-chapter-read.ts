@@ -5,7 +5,7 @@ export const superSupportive0065SixtyFourToAQuietRabbit = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0065-sixty-four-to-a-quiet-rabbit",
   title: "SIXTY-FOUR: To a Quiet Rabbit",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 65,
   ownLength: 7130,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0180OneHundredSeventyEightTheElderSCroak = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0180-one-hundred-seventy-eight-the-elder-s-croak",
   title: "ONE HUNDRED SEVENTY-EIGHT: The Elder's Croak",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 180,
   ownLength: 5293,
   unitSlug: "words",

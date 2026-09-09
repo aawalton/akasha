@@ -5,7 +5,7 @@ export const superSupportive0077SeventySixTheRescueGame = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0077-seventy-six-the-rescue-game",
   title: "SEVENTY-SIX: The Rescue Game",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 77,
   ownLength: 7091,
   unitSlug: "words",

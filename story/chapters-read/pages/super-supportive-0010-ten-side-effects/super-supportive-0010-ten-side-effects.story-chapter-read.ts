@@ -5,7 +5,7 @@ export const superSupportive0010TenSideEffects = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0010-ten-side-effects",
   title: "TEN: Side Effects",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 10,
   ownLength: 2669,
   unitSlug: "words",

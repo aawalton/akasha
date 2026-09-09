@@ -5,7 +5,7 @@ export const superSupportive0012TwelveOneOClockOnAThursday = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0012-twelve-one-o-clock-on-a-thursday",
   title: "TWELVE: One O'clock on a Thursday",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 12,
   ownLength: 2225,
   unitSlug: "words",

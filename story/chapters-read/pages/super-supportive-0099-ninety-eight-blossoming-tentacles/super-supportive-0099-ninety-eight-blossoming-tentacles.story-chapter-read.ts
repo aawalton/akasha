@@ -5,7 +5,7 @@ export const superSupportive0099NinetyEightBlossomingTentacles = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0099-ninety-eight-blossoming-tentacles",
   title: "NINETY-EIGHT: Blossoming Tentacles",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 99,
   ownLength: 5989,
   unitSlug: "words",

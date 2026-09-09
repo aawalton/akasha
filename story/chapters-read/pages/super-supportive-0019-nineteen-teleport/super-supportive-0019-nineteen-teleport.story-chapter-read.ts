@@ -5,7 +5,7 @@ export const superSupportive0019NineteenTeleport = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0019-nineteen-teleport",
   title: "NINETEEN: Teleport",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 19,
   ownLength: 3965,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0041FortyOneChaos = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0041-forty-one-chaos",
   title: "FORTY-ONE: Chaos",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 41,
   ownLength: 3536,
   unitSlug: "words",

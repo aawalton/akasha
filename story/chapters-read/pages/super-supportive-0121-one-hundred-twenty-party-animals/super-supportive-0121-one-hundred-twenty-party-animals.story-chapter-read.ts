@@ -5,7 +5,7 @@ export const superSupportive0121OneHundredTwentyPartyAnimals = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0121-one-hundred-twenty-party-animals",
   title: "ONE HUNDRED TWENTY: Party Animals",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 121,
   ownLength: 2,
   unitSlug: "words",

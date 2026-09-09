@@ -5,7 +5,7 @@ export const superSupportive0089EightyEightDiving = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0089-eighty-eight-diving",
   title: "EIGHTY-EIGHT: Diving",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 89,
   ownLength: 5795,
   unitSlug: "words",

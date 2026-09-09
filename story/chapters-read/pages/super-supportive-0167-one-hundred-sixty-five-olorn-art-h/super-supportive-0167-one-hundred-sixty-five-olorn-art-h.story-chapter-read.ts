@@ -5,7 +5,7 @@ export const superSupportive0167OneHundredSixtyFiveOlornArtH = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0167-one-hundred-sixty-five-olorn-art-h",
   title: "ONE HUNDRED SIXTY-FIVE: Olorn-art'h",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 167,
   ownLength: 4185,
   unitSlug: "words",

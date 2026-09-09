@@ -5,7 +5,7 @@ export const superSupportive0003Three90Seconds = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0003-three-90-seconds",
   title: "THREE: 90 seconds",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 3,
   ownLength: 2752,
   unitSlug: "words",

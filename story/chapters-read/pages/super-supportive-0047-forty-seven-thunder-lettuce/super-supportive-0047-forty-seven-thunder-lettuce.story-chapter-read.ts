@@ -5,7 +5,7 @@ export const superSupportive0047FortySevenThunderLettuce = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0047-forty-seven-thunder-lettuce",
   title: "FORTY-SEVEN: Thunder Lettuce",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 47,
   ownLength: 2866,
   unitSlug: "words",

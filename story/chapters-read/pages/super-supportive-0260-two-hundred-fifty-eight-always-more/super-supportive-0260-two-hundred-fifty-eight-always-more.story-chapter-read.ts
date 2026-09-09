@@ -5,7 +5,7 @@ export const superSupportive0260TwoHundredFiftyEightAlwaysMore = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0260-two-hundred-fifty-eight-always-more",
   title: "TWO HUNDRED FIFTY-EIGHT: Always More",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 260,
   ownLength: 1812,
   unitSlug: "words",

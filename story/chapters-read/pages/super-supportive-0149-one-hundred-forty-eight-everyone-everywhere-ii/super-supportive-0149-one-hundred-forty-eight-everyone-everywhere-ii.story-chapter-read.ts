@@ -5,7 +5,7 @@ export const superSupportive0149OneHundredFortyEightEveryoneEverywhereIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0149-one-hundred-forty-eight-everyone-everywhere-ii",
   title: "ONE HUNDRED FORTY-EIGHT: Everyone, Everywhere II",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 149,
   ownLength: 7298,
   unitSlug: "words",

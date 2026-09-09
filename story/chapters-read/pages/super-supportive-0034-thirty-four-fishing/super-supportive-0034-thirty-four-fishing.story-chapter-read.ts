@@ -5,7 +5,7 @@ export const superSupportive0034ThirtyFourFishing = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0034-thirty-four-fishing",
   title: "THIRTY-FOUR: Fishing",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 34,
   ownLength: 4296,
   unitSlug: "words",

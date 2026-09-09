@@ -5,7 +5,7 @@ export const superSupportive0126OneHundredTwentyFiveItSPepperFlavored = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0126-one-hundred-twenty-five-it-s-pepper-flavored",
   title: "ONE HUNDRED TWENTY-FIVE: It's Pepper Flavored",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 126,
   ownLength: 9551,
   unitSlug: "words",

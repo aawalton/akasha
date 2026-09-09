@@ -5,7 +5,7 @@ export const superSupportive0098NinetySevenFireworks = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0098-ninety-seven-fireworks",
   title: "NINETY-SEVEN: Fireworks",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 98,
   ownLength: 6437,
   unitSlug: "words",

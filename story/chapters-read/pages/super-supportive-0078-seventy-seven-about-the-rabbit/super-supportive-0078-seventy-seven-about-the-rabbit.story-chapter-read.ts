@@ -5,7 +5,7 @@ export const superSupportive0078SeventySevenAboutTheRabbit = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0078-seventy-seven-about-the-rabbit",
   title: "SEVENTY-SEVEN: About the Rabbit",
-  partOfCollectionSlugs: ["super-supportive"],
+  storySlug: "super-supportive",
   position: 78,
   ownLength: 6086,
   unitSlug: "words",
