@@ -48,5 +48,5 @@ test("--domain and --up are each repeatable", () => {
 
 test("the page says it writes nothing and names the module it draws with", () => {
   expect(domainDag.changeKind).toBe("change-none")
-  expect(domainDag.partSlugs).toContain("module/domain-drawing")
+  expect(domainDag.parts).toContain("module/domain-drawing")
 })

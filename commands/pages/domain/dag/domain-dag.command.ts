@@ -8,7 +8,7 @@ export const domainDag = {
   code: "ts",
   test: "ts",
   changeKind: "change-none",
-  partSlugs: ["module/domain-drawing"],
+  parts: ["module/domain-drawing"],
   taking: [
     { said: "--domain <slug>", takes: "the domain to root the tree at instead of at its roots" },
     { said: "--up <slug>", takes: "the domain to draw ABOVE instead of below, up to the roots" },
@@ -16,7 +16,7 @@ export const domainDag = {
     { said: "--descent", takes: "every page type extending `domain` as well as `domain` itself" },
   ],
   helpNotes: [
-    "a domain names the domains it holds in `partSlugs`, as `domain/<slug>`, so an edge is read off the domain holding it rather than off the domain held.",
+    "a domain names the domains it holds in `parts`, as `domain/<slug>`, so an edge is read off the domain holding it rather than off the domain held.",
     "`--domain` and `--up` are each repeatable, and a slug carrying no domain page refuses the call by name.",
     "a domain held by several domains is drawn beneath each of them, that being what the edges say; the repeats are the graph rather than a fault in the drawing.",
     "a domain already open further up its own branch is drawn once and marked, so a cycle terminates rather than running away.",
