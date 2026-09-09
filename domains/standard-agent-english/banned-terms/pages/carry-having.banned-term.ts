@@ -11,8 +11,10 @@ export const carryHaving = {
   replacementPatterns: [
     { frame: "object", fromPattern: "carries [object]", toPattern: "has [object]" },
     { frame: "object", fromPattern: "carry [object]", toPattern: "have [object]" },
+    { frame: "object", fromPattern: "carried [object]", toPattern: "had [object]" },
     { frame: "fronted", fromPattern: "carries", toPattern: "has" },
     { frame: "fronted", fromPattern: "carry", toPattern: "have" },
+    { frame: "fronted", fromPattern: "carried", toPattern: "had" },
     { frame: "participle", fromPattern: "carrying [object]", toPattern: "with [object]" },
     { frame: "placed", fromPattern: "is carried in [place]", toPattern: "is in [place]" },
   ],
