@@ -135,23 +135,17 @@ async function spelling(
 }
 
 async function exported(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
-  const why = whyNot(given)
-  if (why !== null) return refusing(why)
   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
   return await spelling(world, given, [given.at, ...reading.importers])
-}
-
-async function overFile(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
-  const why = whyNot(given)
-  if (why !== null) return refusing(why)
-  return await spelling(world, given, [given.at])
 }
 
 export async function renameCodeToken(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
   if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
+  const why = whyNot(given)
+  if (why !== null) return refusing(why)
   const placed = placingOver(pathsIn(world.over), world.textOf)
   const read = readingOf(world.root, world.textOf, placed)
   const typing = typingOver(world.root, [given.at], read, placed)
@@ -160,7 +154,7 @@ export async function renameCodeToken(world: World, given: RenameCodeTokenAsked)
   if (declared.length === 0) return refusing(`\`${given.at}\` declares no \`${given.of}\``)
   const found = pickedIn(typing, given, declared)
   if ("refused" in found) return refusing(found.refused)
-  if (fileScoped(found.node)) return await overFile(world, given)
+  if (fileScoped(found.node)) return await spelling(world, given, [given.at])
   const source = typing.sourceAt(given.at)
   if (source === null) return refusing(`\`${given.at}\` could not be read`)
   const named = namedOf(found.node)
