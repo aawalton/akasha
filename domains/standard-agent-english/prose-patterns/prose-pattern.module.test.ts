@@ -4,6 +4,7 @@ import {
   A_BODY_IS_HOLDING_A_CONFLICT,
   A_DAY_HOLDING_ROWS_AND_DECLARING,
   A_FLAG_HOLDING,
+  A_MERGE_THAT_HELD_A_FIELD_BACK,
   A_NAME_ALREADY_HOLDING_TEXT,
   A_PERSON_HOLDS,
   A_READ_ASKS_RATHER_THAN_HOLDING,
@@ -84,6 +85,10 @@ test("a particle right after a word is a particle the parser called a prepositio
 
 test("a particle the parser hung on a word's object is that word's particle", () => {
   expect(foundIn(sentenceOf(THE_PROXY_HOLDS_TRAFFIC_OUT), HOLD)).toEqual([])
+})
+
+test("a particle the parser hung on a word's object as a compound is that word's particle", () => {
+  expect(foundIn(sentenceOf(A_MERGE_THAT_HELD_A_FIELD_BACK), HELD)).toEqual([])
 })
 
 test("a particle right after a word's object is that word's particle", () => {

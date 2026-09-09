@@ -187,7 +187,8 @@ function placedSomewhere(sentence: DepSentence, token: DepToken): boolean {
 }
 
 function particleUnder(sentence: DepSentence, id: number): boolean {
-  return childrenByRel(sentence, id, ADVERB).some((one) => PARTICLES.has(lower(one)))
+  if (childrenByRel(sentence, id, ADVERB).some((one) => PARTICLES.has(lower(one)))) return true
+  return childrenByRel(sentence, id, COMPOUND).some((one) => PARTICLES.has(lower(one)))
 }
 
 function particled(sentence: DepSentence, token: DepToken): boolean {
