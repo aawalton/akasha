@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { KiCollectionTemplate } from "../collection-templates/ki-collection-template.page-type.ts"
-
-export type KiAuthor = KiCollectionTemplate
 
 export const kiAuthor = {
   id: "01a06825-d0ec-792e-8a52-144c147087f5",
@@ -11,4 +8,5 @@ export const kiAuthor = {
   definition: "someone who wrote a book Ki keeps",
   pluralSlug: "ki-authors",
   extends: ["page-type/ki-collection-template"],
+  types: "ts",
 } as const satisfies PageType
