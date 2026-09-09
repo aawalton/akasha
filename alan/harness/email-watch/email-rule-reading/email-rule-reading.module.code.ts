@@ -18,7 +18,7 @@ export interface Rule {
   readonly kind: string
   readonly filing: Filing | null
   readonly actions: readonly Action[]
-  readonly forwardToSlug: string | null
+  readonly forwardTo: string | null
   readonly delayMinutes: number
   readonly judgment: string
   readonly conditions: readonly Condition[]
@@ -106,8 +106,8 @@ function ruleOf(page: Record<string, unknown>, relPath: string, kind: EmailRuleK
   const actions = page.actions
   if (actions !== undefined && !Array.isArray(actions))
     throw new Error(`\`${relPath}\` states actions that are no list`)
-  const forwardToSlug = page.forwardTo ?? page.forwardToSlug
-  if (forwardToSlug !== undefined && typeof forwardToSlug !== "string")
+  const forwardTo = page.forwardTo
+  if (forwardTo !== undefined && typeof forwardTo !== "string")
     throw new Error(`\`${relPath}\` forwards to something that is no slug`)
   return {
     slug,
@@ -115,7 +115,7 @@ function ruleOf(page: Record<string, unknown>, relPath: string, kind: EmailRuleK
     kind,
     filing: filing === undefined ? null : filing,
     actions: (actions ?? []).map((one: unknown) => String(one) as Action),
-    forwardToSlug: forwardToSlug === undefined ? null : forwardToSlug,
+    forwardTo: forwardTo === undefined ? null : forwardTo,
     delayMinutes: delayOf(page.delay, relPath),
     judgment: textOr(page.judgement, ""),
     conditions: conditionsOf(page, relPath),

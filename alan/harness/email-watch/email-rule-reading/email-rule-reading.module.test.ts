@@ -59,8 +59,8 @@ describe("rulesOf", () => {
 
   test("carries the delay and the forwarding a rule states", () => {
     expect(rules.find((one) => one.slug === "anthropic-login-links")?.delayMinutes).toBe(15)
-    expect(rules.find((one) => one.slug === "apple-receipt")?.forwardToSlug).toBe("jenny")
-    expect(rules.filter((one) => one.forwardToSlug !== null)).toHaveLength(6)
+    expect(rules.find((one) => one.slug === "apple-receipt")?.forwardTo).toBe("jenny")
+    expect(rules.filter((one) => one.forwardTo !== null)).toHaveLength(6)
   })
 
   test("carries an agent rule's judgment and files nothing", () => {

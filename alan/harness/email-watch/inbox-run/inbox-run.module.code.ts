@@ -79,7 +79,7 @@ export interface RunReport {
 }
 
 function spelt(rule: Rule): string {
-  const forward = rule.forwardToSlug === null ? [] : ["forward"]
+  const forward = rule.forwardTo === null ? [] : ["forward"]
   return [...(rule.filing === null ? [] : [rule.filing]), ...forward, ...rule.actions].join("+")
 }
 
@@ -89,8 +89,8 @@ export async function carry(
   box: Mailbox,
   root: string
 ): Promise<void> {
-  if (rule.forwardToSlug !== null) {
-    const to = addressOfPerson(rule.forwardToSlug, root)
+  if (rule.forwardTo !== null) {
+    const to = addressOfPerson(rule.forwardTo, root)
     await box.send(forwardOf(await box.rawOf(message.id), to, message))
     record({ message: message.id, rule: rule.slug, action: "forward", to })
   }
