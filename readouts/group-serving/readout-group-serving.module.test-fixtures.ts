@@ -117,12 +117,11 @@ export async function readoutsNaming(root: string, group: string): Promise<reado
     if (relative.includes("node_modules")) continue
     const loaded = (await import(join(root, relative))) as Record<
       string,
-      { slug?: string; groups?: readonly string[]; groupSlugs?: readonly string[] } | undefined
+      { slug?: string; groups?: readonly string[] } | undefined
     >
     for (const one of Object.values(loaded)) {
       if (one?.slug === undefined) continue
-      const naming = one.groups ?? one.groupSlugs
-      if (naming?.includes(group) === true) named.push(one.slug)
+      if (one.groups?.includes(group) === true) named.push(one.slug)
     }
   }
   return named.sort()

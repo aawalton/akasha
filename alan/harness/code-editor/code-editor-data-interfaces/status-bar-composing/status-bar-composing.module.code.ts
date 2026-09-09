@@ -53,7 +53,7 @@ function textIn(values: Values, key: string): string | null {
 }
 
 function namesGroup(values: Values, groupSlug: string): boolean {
-  const named = values.groups ?? values.groupSlugs
+  const named = values.groups
   return Array.isArray(named) && named.includes(groupSlug)
 }
 
