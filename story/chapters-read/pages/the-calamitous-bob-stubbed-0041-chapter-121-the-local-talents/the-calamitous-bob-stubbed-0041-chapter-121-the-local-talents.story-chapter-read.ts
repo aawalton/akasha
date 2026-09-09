@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0041Chapter121TheLocalTalents = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0041-chapter-121-the-local-talents",
   title: "Chapter 121: The local talents",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 41,
   ownLength: 5786,
   unitSlug: "words",

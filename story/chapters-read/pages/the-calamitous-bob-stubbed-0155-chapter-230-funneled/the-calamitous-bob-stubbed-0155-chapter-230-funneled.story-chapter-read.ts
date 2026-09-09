@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0155Chapter230Funneled = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0155-chapter-230-funneled",
   title: "Chapter 230: Funneled",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 155,
   ownLength: 5262,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0114BobMassRelease = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0114-bob-mass-release",
   title: "Bob Mass Release.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 114,
   ownLength: 210,
   unitSlug: "words",

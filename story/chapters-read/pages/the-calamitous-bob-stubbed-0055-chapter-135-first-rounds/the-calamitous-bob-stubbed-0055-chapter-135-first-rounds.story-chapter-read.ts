@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0055Chapter135FirstRounds = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0055-chapter-135-first-rounds",
   title: "Chapter 135: First rounds",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 55,
   ownLength: 5535,
   unitSlug: "words",

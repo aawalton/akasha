@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0031Chapter112TheGirlWithTheDragon = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0031-chapter-112-the-girl-with-the-dragon",
   title: "Chapter 112: The girl with the Dragon",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 31,
   ownLength: 4904,
   unitSlug: "words",

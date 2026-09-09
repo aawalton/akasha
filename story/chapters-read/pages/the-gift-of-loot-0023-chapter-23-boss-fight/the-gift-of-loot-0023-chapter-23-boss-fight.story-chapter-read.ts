@@ -5,7 +5,7 @@ export const theGiftOfLoot0023Chapter23BossFight = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0023-chapter-23-boss-fight",
   title: "Chapter 23: Boss Fight!",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 23,
   ownLength: 3554,
   unitSlug: "words",

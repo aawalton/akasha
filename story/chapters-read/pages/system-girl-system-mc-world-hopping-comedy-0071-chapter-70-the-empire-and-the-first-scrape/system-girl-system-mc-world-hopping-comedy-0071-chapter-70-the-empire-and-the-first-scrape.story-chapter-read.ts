@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0071Chapter70TheEmpireAndTheFir
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0071-chapter-70-the-empire-and-the-first-scrape",
   title: "Chapter 70: The Empire, and the First Scrape",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 71,
   ownLength: 2245,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0090Chapter168StrangersOnATrail = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0090-chapter-168-strangers-on-a-trail",
   title: "Chapter 168: Strangers on a Trail",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 90,
   ownLength: 5623,
   unitSlug: "words",

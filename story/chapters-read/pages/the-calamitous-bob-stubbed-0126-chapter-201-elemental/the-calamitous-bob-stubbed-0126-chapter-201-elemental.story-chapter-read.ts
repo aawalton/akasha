@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0126Chapter201Elemental = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0126-chapter-201-elemental",
   title: "Chapter 201: Elemental",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 126,
   ownLength: 5558,
   unitSlug: "words",

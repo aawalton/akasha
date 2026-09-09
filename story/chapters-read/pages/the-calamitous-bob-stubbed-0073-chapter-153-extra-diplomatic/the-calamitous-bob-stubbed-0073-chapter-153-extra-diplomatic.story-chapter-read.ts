@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0073Chapter153ExtraDiplomatic = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0073-chapter-153-extra-diplomatic",
   title: "Chapter 153. Extra Diplomatic",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 73,
   ownLength: 6083,
   unitSlug: "words",

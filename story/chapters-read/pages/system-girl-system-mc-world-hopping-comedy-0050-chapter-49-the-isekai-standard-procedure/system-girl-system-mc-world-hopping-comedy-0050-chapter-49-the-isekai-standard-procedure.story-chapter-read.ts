@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0050Chapter49TheIsekaiStandardP
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0050-chapter-49-the-isekai-standard-procedure",
   title: "Chapter 49: The Isekai Standard Procedure",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 50,
   ownLength: 1952,
   unitSlug: "words",

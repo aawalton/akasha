@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0092Chapter91TheRoyalTaster = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0092-chapter-91-the-royal-taster",
   title: "Chapter 91: The Royal Taster",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 92,
   ownLength: 2514,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0016Chapter16TheBurningBoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0016-chapter-16-the-burning-boss",
   title: "Chapter 16: The Burning Boss",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 16,
   ownLength: 2942,
   unitSlug: "words",

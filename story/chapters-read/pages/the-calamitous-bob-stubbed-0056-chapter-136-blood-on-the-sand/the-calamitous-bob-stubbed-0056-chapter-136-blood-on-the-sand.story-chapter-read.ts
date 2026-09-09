@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0056Chapter136BloodOnTheSand = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0056-chapter-136-blood-on-the-sand",
   title: "Chapter 136: Blood on the Sand",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 56,
   ownLength: 7170,
   unitSlug: "words",

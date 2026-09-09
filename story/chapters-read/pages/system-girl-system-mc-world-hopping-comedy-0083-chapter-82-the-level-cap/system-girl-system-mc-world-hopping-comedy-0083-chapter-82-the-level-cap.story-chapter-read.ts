@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0083Chapter82TheLevelCap = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0083-chapter-82-the-level-cap",
   title: "Chapter 82: The Level Cap",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 83,
   ownLength: 2559,
   unitSlug: "words",

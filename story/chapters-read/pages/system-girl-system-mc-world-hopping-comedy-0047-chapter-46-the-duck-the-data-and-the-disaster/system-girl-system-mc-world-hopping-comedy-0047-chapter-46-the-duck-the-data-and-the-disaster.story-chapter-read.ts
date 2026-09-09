@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0047Chapter46TheDuckTheDataAndT
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0047-chapter-46-the-duck-the-data-and-the-disaster",
   title: "Chapter 46: The Duck, The Data, and The Disaster",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 47,
   ownLength: 3651,
   unitSlug: "words",

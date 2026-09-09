@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0014Chapter95TheFateOfEnoria = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0014-chapter-95-the-fate-of-enoria",
   title: "Chapter 95: The Fate of Enoria.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 14,
   ownLength: 6770,
   unitSlug: "words",

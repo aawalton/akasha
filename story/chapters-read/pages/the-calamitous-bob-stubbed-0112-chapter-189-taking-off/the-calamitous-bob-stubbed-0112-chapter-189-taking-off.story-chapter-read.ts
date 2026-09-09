@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0112Chapter189TakingOff = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0112-chapter-189-taking-off",
   title: "Chapter 189: Taking Off",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 112,
   ownLength: 5948,
   unitSlug: "words",

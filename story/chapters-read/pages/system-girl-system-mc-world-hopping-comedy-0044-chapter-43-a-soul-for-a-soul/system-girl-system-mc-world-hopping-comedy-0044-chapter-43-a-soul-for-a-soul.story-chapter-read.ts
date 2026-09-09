@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0044Chapter43ASoulForASoul = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0044-chapter-43-a-soul-for-a-soul",
   title: "Chapter 43: A Soul for a Soul",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 44,
   ownLength: 1936,
   unitSlug: "words",

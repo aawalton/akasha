@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0124ChapterNonCanonCannonVampire = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0124-chapter-non-canon-cannon-vampire",
   title: "Chapter ??? Non canon cannon vampire",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 124,
   ownLength: 1347,
   unitSlug: "words",

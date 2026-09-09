@@ -5,7 +5,7 @@ export const theGiftOfLoot0025Chapter25NotEvenAThankYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0025-chapter-25-not-even-a-thank-you",
   title: "Chapter 25: Not Even A Thank You",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 25,
   ownLength: 2465,
   unitSlug: "words",

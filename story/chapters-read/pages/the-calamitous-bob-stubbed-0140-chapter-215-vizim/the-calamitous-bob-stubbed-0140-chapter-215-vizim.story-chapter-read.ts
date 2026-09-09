@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0140Chapter215Vizim = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0140-chapter-215-vizim",
   title: "Chapter 215: Vizim.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 140,
   ownLength: 6461,
   unitSlug: "words",

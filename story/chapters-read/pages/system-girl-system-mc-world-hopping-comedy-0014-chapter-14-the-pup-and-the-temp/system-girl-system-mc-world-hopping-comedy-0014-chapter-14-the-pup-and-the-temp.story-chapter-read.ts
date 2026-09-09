@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0014Chapter14ThePupAndTheTemp =
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0014-chapter-14-the-pup-and-the-temp",
   title: "Chapter 14: The Pup and the Temp",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 14,
   ownLength: 1409,
   unitSlug: "words",

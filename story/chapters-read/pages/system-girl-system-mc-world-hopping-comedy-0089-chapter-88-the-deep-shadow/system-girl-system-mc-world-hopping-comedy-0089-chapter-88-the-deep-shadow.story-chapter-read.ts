@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0089Chapter88TheDeepShadow = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0089-chapter-88-the-deep-shadow",
   title: "Chapter 88: The Deep Shadow",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 89,
   ownLength: 2250,
   unitSlug: "words",

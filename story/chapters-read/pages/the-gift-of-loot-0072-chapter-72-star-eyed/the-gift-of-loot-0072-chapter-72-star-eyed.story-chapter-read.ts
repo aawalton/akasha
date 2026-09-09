@@ -5,7 +5,7 @@ export const theGiftOfLoot0072Chapter72StarEyed = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0072-chapter-72-star-eyed",
   title: "Chapter 72: Star-Eyed",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 72,
   ownLength: 3957,
   unitSlug: "words",

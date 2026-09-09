@@ -5,7 +5,7 @@ export const theGiftOfLoot0054Chapter54Denouement = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0054-chapter-54-denouement",
   title: "Chapter 54: Denouement",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 54,
   ownLength: 480,
   unitSlug: "words",

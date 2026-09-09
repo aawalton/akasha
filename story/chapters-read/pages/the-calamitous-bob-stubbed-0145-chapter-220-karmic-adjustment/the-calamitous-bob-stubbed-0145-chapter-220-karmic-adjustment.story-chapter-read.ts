@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0145Chapter220KarmicAdjustment = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0145-chapter-220-karmic-adjustment",
   title: "Chapter 220: Karmic adjustment.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 145,
   ownLength: 4133,
   unitSlug: "words",

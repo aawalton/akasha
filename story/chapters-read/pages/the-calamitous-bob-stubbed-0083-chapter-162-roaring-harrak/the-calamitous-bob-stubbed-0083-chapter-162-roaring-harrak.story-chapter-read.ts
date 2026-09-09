@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0083Chapter162RoaringHarrak = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0083-chapter-162-roaring-harrak",
   title: "Chapter 162: Roaring Harrak",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 83,
   ownLength: 5149,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0094Chapter172Methodical = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0094-chapter-172-methodical",
   title: "Chapter 172: Methodical",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 94,
   ownLength: 5765,
   unitSlug: "words",

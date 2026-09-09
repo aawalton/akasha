@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0135Chapter210TheFirstOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0135-chapter-210-the-first-one",
   title: "Chapter 210: The First One",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 135,
   ownLength: 5199,
   unitSlug: "words",

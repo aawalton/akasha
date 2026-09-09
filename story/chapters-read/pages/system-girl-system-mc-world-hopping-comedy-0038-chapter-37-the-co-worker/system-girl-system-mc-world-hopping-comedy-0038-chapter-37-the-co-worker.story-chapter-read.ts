@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0038Chapter37TheCoWorker = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0038-chapter-37-the-co-worker",
   title: "Chapter 37: The Co-worker",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 38,
   ownLength: 2532,
   unitSlug: "words",

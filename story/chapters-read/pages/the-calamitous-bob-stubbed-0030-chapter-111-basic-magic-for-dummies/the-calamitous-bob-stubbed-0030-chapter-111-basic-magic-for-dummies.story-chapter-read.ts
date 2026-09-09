@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0030Chapter111BasicMagicForDummies = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0030-chapter-111-basic-magic-for-dummies",
   title: "Chapter 111. Basic magic for dummies",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 30,
   ownLength: 4704,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0065Chapter65FreeGiftMarketplace = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0065-chapter-65-free-gift-marketplace",
   title: "Chapter 65: Free Gift Marketplace",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 65,
   ownLength: 3391,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0073Chapter72TheVoidWalker = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0073-chapter-72-the-void-walker",
   title: "Chapter 72: The Void Walker",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 73,
   ownLength: 2544,
   unitSlug: "words",

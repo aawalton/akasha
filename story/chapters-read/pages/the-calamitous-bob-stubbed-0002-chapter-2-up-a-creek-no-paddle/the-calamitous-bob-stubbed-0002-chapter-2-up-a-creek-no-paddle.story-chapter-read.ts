@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0002Chapter2UpACreekNoPaddle = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0002-chapter-2-up-a-creek-no-paddle",
   title: "Chapter 2: Up a Creek, No Paddle",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 2,
   ownLength: 4958,
   unitSlug: "words",

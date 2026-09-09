@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0013Chapter13TheServiceLevelAgr
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0013-chapter-13-the-service-level-agreement",
   title: "Chapter 13: The Service Level Agreement",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 13,
   ownLength: 1510,
   unitSlug: "words",

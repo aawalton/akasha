@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0157Chapter232PlainOfTheGods = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0157-chapter-232-plain-of-the-gods",
   title: "Chapter 232: Plain of the Gods.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 157,
   ownLength: 5389,
   unitSlug: "words",

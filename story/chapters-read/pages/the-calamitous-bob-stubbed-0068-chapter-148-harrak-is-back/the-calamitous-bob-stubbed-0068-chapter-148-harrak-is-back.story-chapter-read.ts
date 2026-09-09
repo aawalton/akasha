@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0068Chapter148HarrakIsBack = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0068-chapter-148-harrak-is-back",
   title: "Chapter 148: Harrak is back.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 68,
   ownLength: 7144,
   unitSlug: "words",

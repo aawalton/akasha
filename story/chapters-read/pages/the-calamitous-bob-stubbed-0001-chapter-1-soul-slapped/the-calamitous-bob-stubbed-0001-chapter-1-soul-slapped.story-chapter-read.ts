@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0001Chapter1SoulSlapped = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0001-chapter-1-soul-slapped",
   title: "Chapter 1: Soul-Slapped",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 1,
   ownLength: 1834,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0031Chapter31BearMarketBehavior = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0031-chapter-31-bear-market-behavior",
   title: "Chapter 31: Bear Market Behavior",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 31,
   ownLength: 2212,
   unitSlug: "words",

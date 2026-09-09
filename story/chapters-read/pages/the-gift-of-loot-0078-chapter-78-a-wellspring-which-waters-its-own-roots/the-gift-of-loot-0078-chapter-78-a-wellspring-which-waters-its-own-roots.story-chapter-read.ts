@@ -4,7 +4,7 @@ export const theGiftOfLoot0078Chapter78AWellspringWhichWatersItsOwnRoots = {
   id: "01a07d0c-912c-7932-a978-8ebc2c89db17",
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0078-chapter-78-a-wellspring-which-waters-its-own-roots",
-  storySlug: "story-read/the-gift-of-loot",
+  story: "story-read/the-gift-of-loot",
   position: 78,
   publishedAt: "2026-09-07",
   unitSlug: "words",

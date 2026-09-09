@@ -5,7 +5,7 @@ export const theGiftOfLoot0022Chapter22FindingBalanceAndLoot = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0022-chapter-22-finding-balance-and-loot",
   title: "Chapter 22: Finding Balance (And Loot)",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 22,
   ownLength: 3098,
   unitSlug: "words",

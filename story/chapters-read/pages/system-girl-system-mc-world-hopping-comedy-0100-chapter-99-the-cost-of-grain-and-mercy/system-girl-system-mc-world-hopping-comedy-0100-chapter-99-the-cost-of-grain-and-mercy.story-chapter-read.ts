@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0100Chapter99TheCostOfGrainAndM
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0100-chapter-99-the-cost-of-grain-and-mercy",
   title: "Chapter 99: The Cost of Grain and Mercy",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 100,
   ownLength: 1947,
   unitSlug: "words",

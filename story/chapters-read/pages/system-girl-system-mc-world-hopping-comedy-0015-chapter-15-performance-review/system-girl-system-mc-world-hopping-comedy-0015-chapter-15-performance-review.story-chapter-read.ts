@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0015Chapter15PerformanceReview 
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0015-chapter-15-performance-review",
   title: "Chapter 15: Performance Review",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 15,
   ownLength: 2980,
   unitSlug: "words",

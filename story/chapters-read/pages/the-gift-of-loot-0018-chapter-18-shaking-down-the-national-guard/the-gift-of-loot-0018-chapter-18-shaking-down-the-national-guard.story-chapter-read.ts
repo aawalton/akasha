@@ -5,7 +5,7 @@ export const theGiftOfLoot0018Chapter18ShakingDownTheNationalGuard = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0018-chapter-18-shaking-down-the-national-guard",
   title: "Chapter 18: Shaking Down The National Guard ",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 18,
   ownLength: 3792,
   unitSlug: "words",

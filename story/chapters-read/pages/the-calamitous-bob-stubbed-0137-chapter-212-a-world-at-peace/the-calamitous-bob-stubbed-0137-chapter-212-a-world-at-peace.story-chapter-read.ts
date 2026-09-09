@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0137Chapter212AWorldAtPeace = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0137-chapter-212-a-world-at-peace",
   title: "Chapter 212: A World At Peace",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 137,
   ownLength: 4866,
   unitSlug: "words",

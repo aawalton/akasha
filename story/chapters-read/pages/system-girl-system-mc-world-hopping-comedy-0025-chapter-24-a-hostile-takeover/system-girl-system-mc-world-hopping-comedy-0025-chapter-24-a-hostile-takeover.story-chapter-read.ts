@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0025Chapter24AHostileTakeover =
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0025-chapter-24-a-hostile-takeover",
   title: "Chapter 24: A Hostile Takeover",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 25,
   ownLength: 2348,
   unitSlug: "words",

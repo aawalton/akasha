@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0041Chapter40TheRitual = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0041-chapter-40-the-ritual",
   title: "Chapter 40: The Ritual",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 41,
   ownLength: 1896,
   unitSlug: "words",

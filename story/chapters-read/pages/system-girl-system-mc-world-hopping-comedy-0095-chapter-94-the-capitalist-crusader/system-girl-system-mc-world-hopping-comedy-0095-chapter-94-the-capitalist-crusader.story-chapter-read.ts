@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0095Chapter94TheCapitalistCrusa
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0095-chapter-94-the-capitalist-crusader",
   title: "Chapter 94: The Capitalist Crusader",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 95,
   ownLength: 1990,
   unitSlug: "words",

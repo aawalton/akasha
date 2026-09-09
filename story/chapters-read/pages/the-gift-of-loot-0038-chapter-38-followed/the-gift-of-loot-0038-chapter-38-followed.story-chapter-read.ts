@@ -5,7 +5,7 @@ export const theGiftOfLoot0038Chapter38Followed = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0038-chapter-38-followed",
   title: "Chapter 38: Followed",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 38,
   ownLength: 3387,
   unitSlug: "words",

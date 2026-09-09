@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0105Chapter183Crumbling = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0105-chapter-183-crumbling",
   title: "Chapter 183: Crumbling",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 105,
   ownLength: 8041,
   unitSlug: "words",

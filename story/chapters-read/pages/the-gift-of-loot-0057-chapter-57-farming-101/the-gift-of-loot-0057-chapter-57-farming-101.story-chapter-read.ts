@@ -5,7 +5,7 @@ export const theGiftOfLoot0057Chapter57Farming101 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0057-chapter-57-farming-101",
   title: "Chapter 57: Farming 101",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 57,
   ownLength: 3766,
   unitSlug: "words",

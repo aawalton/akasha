@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0106Chapter184TheTwoEmpires = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0106-chapter-184-the-two-empires",
   title: "Chapter 184: The Two Empires",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 106,
   ownLength: 5790,
   unitSlug: "words",

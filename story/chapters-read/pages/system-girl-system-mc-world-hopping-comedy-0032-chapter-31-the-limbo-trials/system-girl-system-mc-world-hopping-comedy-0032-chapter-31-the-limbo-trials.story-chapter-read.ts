@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0032Chapter31TheLimboTrials = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0032-chapter-31-the-limbo-trials",
   title: "Chapter 31: The Limbo Trials",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 32,
   ownLength: 2240,
   unitSlug: "words",

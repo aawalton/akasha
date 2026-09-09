@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0076Chapter75TheHalfElfMage = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0076-chapter-75-the-half-elf-mage",
   title: "Chapter 75: The Half-Elf Mage",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 76,
   ownLength: 2030,
   unitSlug: "words",

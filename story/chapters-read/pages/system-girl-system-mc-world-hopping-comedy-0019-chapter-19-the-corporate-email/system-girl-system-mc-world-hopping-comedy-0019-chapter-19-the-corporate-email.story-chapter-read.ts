@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0019Chapter19TheCorporateEmail 
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0019-chapter-19-the-corporate-email",
   title: "Chapter 19: The Corporate Email",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 19,
   ownLength: 2608,
   unitSlug: "words",

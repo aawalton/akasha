@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0030Chapter29TheUserEnvironment
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0030-chapter-29-the-user-environment",
   title: "Chapter 29: The User Environment",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 30,
   ownLength: 1967,
   unitSlug: "words",

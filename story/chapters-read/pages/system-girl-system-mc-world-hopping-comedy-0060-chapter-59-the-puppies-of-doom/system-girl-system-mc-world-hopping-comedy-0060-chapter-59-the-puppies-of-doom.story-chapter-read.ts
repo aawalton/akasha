@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0060Chapter59ThePuppiesOfDoom =
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0060-chapter-59-the-puppies-of-doom",
   title: "Chapter 59: The Puppies of Doom",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 60,
   ownLength: 2224,
   unitSlug: "words",

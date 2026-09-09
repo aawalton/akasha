@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0017Chapter98TheHollowMountain = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0017-chapter-98-the-hollow-mountain",
   title: "Chapter 98: The Hollow Mountain",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 17,
   ownLength: 5771,
   unitSlug: "words",

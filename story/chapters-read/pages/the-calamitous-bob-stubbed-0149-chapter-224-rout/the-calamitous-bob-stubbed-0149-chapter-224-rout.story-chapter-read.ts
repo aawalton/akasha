@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0149Chapter224Rout = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0149-chapter-224-rout",
   title: "Chapter 224: Rout",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 149,
   ownLength: 5374,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0068Chapter68OneShotTheSubBoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0068-chapter-68-one-shot-the-sub-boss",
   title: "Chapter 68: One Shot The Sub-Boss",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 68,
   ownLength: 2716,
   unitSlug: "words",

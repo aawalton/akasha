@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0048Chapter128FourthStepCaster = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0048-chapter-128-fourth-step-caster",
   title: "Chapter 128: Fourth Step Caster",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 48,
   ownLength: 6137,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0039Chapter39LetSStartARiot = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0039-chapter-39-let-s-start-a-riot",
   title: "Chapter 39: Let's Start A Riot",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 39,
   ownLength: 3595,
   unitSlug: "words",

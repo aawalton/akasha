@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0100Chapter178WeightOfThePast = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0100-chapter-178-weight-of-the-past",
   title: "Chapter 178: Weight of the Past",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 100,
   ownLength: 6713,
   unitSlug: "words",

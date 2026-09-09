@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0037Chapter36ThePathOfNoMind = 
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0037-chapter-36-the-path-of-no-mind",
   title: "Chapter 36: The Path of No-Mind",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 37,
   ownLength: 1825,
   unitSlug: "words",

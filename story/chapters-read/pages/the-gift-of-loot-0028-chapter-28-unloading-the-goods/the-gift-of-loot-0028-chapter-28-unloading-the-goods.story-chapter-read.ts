@@ -5,7 +5,7 @@ export const theGiftOfLoot0028Chapter28UnloadingTheGoods = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0028-chapter-28-unloading-the-goods",
   title: "Chapter 28: Unloading The Goods",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 28,
   ownLength: 2640,
   unitSlug: "words",

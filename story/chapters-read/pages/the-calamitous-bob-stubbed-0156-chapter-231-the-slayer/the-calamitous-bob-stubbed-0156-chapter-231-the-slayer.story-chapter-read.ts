@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0156Chapter231TheSlayer = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0156-chapter-231-the-slayer",
   title: "Chapter 231: The Slayer",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 156,
   ownLength: 4158,
   unitSlug: "words",

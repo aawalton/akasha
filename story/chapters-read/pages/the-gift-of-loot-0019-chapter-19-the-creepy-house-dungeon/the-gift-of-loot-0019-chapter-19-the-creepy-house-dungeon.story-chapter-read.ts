@@ -5,7 +5,7 @@ export const theGiftOfLoot0019Chapter19TheCreepyHouseDungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0019-chapter-19-the-creepy-house-dungeon",
   title: "Chapter 19: The Creepy House Dungeon",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 19,
   ownLength: 2926,
   unitSlug: "words",

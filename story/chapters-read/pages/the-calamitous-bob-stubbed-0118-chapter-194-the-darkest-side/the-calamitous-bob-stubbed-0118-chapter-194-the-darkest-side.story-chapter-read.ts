@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0118Chapter194TheDarkestSide = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0118-chapter-194-the-darkest-side",
   title: "Chapter 194: The Darkest Side",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 118,
   ownLength: 6758,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0063Chapter62TheLordAndTacoTues
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0063-chapter-62-the-lord-and-taco-tuesday",
   title: "Chapter 62: The Lord and Taco Tuesday",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 63,
   ownLength: 2115,
   unitSlug: "words",

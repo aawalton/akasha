@@ -5,7 +5,7 @@ export const theGiftOfLoot0051Chapter51ShoppingSpree = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0051-chapter-51-shopping-spree",
   title: "Chapter 51: Shopping Spree!",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 51,
   ownLength: 3926,
   unitSlug: "words",

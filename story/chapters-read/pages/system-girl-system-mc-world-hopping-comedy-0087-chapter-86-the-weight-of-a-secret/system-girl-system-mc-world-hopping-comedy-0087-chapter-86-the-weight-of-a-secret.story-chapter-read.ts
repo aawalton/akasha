@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0087Chapter86TheWeightOfASecret
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0087-chapter-86-the-weight-of-a-secret",
   title: "Chapter 86: The Weight of a Secret",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 87,
   ownLength: 2631,
   unitSlug: "words",

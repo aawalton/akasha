@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0045Chapter44TheBirthOfASystem 
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0045-chapter-44-the-birth-of-a-system",
   title: "Chapter 44: The Birth of a System",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 45,
   ownLength: 1776,
   unitSlug: "words",

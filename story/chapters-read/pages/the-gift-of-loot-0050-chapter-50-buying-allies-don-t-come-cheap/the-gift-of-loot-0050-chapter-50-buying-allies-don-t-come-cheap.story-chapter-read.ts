@@ -5,7 +5,7 @@ export const theGiftOfLoot0050Chapter50BuyingAlliesDonTComeCheap = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0050-chapter-50-buying-allies-don-t-come-cheap",
   title: "Chapter 50: Buying Allies Don't Come Cheap",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 50,
   ownLength: 2330,
   unitSlug: "words",

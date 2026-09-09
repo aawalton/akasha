@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0033Chapter113FindingHerMarks = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0033-chapter-113-finding-her-marks",
   title: "Chapter 113: Finding her marks",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 33,
   ownLength: 5673,
   unitSlug: "words",

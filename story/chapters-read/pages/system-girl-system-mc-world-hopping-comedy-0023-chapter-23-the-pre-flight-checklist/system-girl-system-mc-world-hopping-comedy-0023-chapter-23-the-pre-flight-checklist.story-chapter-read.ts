@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0023Chapter23ThePreFlightCheckl
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0023-chapter-23-the-pre-flight-checklist",
   title: "Chapter 23: The Pre-Flight Checklist",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 23,
   ownLength: 2324,
   unitSlug: "words",

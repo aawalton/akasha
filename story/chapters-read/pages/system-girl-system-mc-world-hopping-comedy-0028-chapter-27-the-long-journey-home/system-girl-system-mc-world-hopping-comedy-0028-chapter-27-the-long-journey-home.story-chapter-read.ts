@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0028Chapter27TheLongJourneyHome
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0028-chapter-27-the-long-journey-home",
   title: "Chapter 27: The Long Journey Home",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 28,
   ownLength: 2215,
   unitSlug: "words",

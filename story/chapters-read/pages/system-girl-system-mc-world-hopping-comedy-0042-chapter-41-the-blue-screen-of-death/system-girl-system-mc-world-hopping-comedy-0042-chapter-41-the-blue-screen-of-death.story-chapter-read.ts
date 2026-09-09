@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0042Chapter41TheBlueScreenOfDea
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0042-chapter-41-the-blue-screen-of-death",
   title: "Chapter 41: The Blue Screen of Death",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 42,
   ownLength: 1819,
   unitSlug: "words",

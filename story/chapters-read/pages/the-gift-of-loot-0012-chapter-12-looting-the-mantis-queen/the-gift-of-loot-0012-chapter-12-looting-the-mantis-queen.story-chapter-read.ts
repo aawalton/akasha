@@ -5,7 +5,7 @@ export const theGiftOfLoot0012Chapter12LootingTheMantisQueen = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0012-chapter-12-looting-the-mantis-queen",
   title: "Chapter 12: Looting The Mantis Queen",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 12,
   ownLength: 3070,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0033Chapter33BearSerkerPotion = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0033-chapter-33-bear-serker-potion",
   title: "Chapter 33: Bear-Serker Potion",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 33,
   ownLength: 2793,
   unitSlug: "words",

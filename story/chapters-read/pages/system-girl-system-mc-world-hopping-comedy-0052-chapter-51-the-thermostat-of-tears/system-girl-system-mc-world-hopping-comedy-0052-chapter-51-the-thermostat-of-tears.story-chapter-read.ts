@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0052Chapter51TheThermostatOfTea
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0052-chapter-51-the-thermostat-of-tears",
   title: "Chapter 51: The Thermostat of Tears",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 52,
   ownLength: 2624,
   unitSlug: "words",

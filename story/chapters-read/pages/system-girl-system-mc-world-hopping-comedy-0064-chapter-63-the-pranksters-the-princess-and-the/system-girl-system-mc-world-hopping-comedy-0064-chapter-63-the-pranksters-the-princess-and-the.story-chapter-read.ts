@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0064Chapter63ThePrankstersThePr
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0064-chapter-63-the-pranksters-the-princess-and-the",
   title: "Chapter 63: The Pranksters, The Princess, and The Primal",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 64,
   ownLength: 2255,
   unitSlug: "words",

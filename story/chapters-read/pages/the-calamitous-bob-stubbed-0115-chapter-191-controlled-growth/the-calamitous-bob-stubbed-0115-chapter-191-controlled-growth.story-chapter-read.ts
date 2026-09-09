@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0115Chapter191ControlledGrowth = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0115-chapter-191-controlled-growth",
   title: "Chapter 191: Controlled growth",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 115,
   ownLength: 5301,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0123Chapter199SpeedDemon = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0123-chapter-199-speed-demon",
   title: "Chapter 199: Speed Demon",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 123,
   ownLength: 6057,
   unitSlug: "words",

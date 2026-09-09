@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0088Chapter166TheVote = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0088-chapter-166-the-vote",
   title: "Chapter 166: The Vote",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 88,
   ownLength: 6600,
   unitSlug: "words",

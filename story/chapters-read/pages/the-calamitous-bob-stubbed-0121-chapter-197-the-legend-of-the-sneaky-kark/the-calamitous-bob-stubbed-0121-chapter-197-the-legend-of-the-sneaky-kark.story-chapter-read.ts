@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0121Chapter197TheLegendOfTheSneakyKark = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0121-chapter-197-the-legend-of-the-sneaky-kark",
   title: "Chapter 197: The Legend of the Sneaky Kark",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 121,
   ownLength: 3415,
   unitSlug: "words",

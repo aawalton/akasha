@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0102Chapter101TheTickingClock =
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0102-chapter-101-the-ticking-clock",
   title: "Chapter 101: The Ticking Clock",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 102,
   ownLength: 2293,
   unitSlug: "words",

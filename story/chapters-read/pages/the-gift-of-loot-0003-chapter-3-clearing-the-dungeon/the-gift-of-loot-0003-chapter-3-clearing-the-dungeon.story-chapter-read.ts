@@ -5,7 +5,7 @@ export const theGiftOfLoot0003Chapter3ClearingTheDungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0003-chapter-3-clearing-the-dungeon",
   title: "Chapter 3: Clearing The Dungeon",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 3,
   ownLength: 2602,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0004Chapter4FireJuggler = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0004-chapter-4-fire-juggler",
   title: "Chapter 4: Fire Juggler",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 4,
   ownLength: 2016,
   unitSlug: "words",

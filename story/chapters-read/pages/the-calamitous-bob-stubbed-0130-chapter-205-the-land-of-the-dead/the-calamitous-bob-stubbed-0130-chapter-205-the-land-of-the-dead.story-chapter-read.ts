@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0130Chapter205TheLandOfTheDead = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0130-chapter-205-the-land-of-the-dead",
   title: "Chapter 205: The Land of the Dead.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 130,
   ownLength: 5849,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0053Chapter52TheMerchantOfFlavo
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0053-chapter-52-the-merchant-of-flavor",
   title: "Chapter 52: The Merchant of Flavor",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 53,
   ownLength: 3062,
   unitSlug: "words",

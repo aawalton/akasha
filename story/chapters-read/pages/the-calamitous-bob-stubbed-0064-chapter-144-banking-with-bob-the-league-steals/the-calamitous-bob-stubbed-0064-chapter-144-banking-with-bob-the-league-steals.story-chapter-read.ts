@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0064Chapter144BankingWithBobTheLeagueSteals 
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0064-chapter-144-banking-with-bob-the-league-steals",
   title: "Chapter 144: Banking with Bob (The League Steals)",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 64,
   ownLength: 4517,
   unitSlug: "words",

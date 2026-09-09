@@ -5,7 +5,7 @@ export const theGiftOfLoot0062Chapter62DerekSSecondDungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0062-chapter-62-derek-s-second-dungeon",
   title: "Chapter 62: Derek's Second Dungeon",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 62,
   ownLength: 3161,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0043Chapter42Ctrlaltdelete = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0043-chapter-42-ctrlaltdelete",
   title: "Chapter 42: Ctrl+Alt+Delete",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 43,
   ownLength: 1719,
   unitSlug: "words",

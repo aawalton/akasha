@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0039Chapter119TheFetchQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0039-chapter-119-the-fetch-quest",
   title: "Chapter 119: The Fetch Quest.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 39,
   ownLength: 5789,
   unitSlug: "words",

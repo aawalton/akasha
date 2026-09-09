@@ -5,7 +5,7 @@ export const theGiftOfLoot0009Chapter9FirstStepToLevel2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0009-chapter-9-first-step-to-level-2",
   title: "Chapter 9: First Step to Level 2",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 9,
   ownLength: 2172,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theGiftOfLoot0047Chapter47HealThyself = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0047-chapter-47-heal-thyself",
   title: "Chapter 47: Heal Thyself",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 47,
   ownLength: 3684,
   unitSlug: "words",

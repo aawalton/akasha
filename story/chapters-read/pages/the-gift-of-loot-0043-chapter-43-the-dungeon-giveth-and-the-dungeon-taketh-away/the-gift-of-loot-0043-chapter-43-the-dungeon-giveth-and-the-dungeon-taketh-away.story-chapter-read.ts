@@ -5,7 +5,7 @@ export const theGiftOfLoot0043Chapter43TheDungeonGivethAndTheDungeonTakethAway =
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0043-chapter-43-the-dungeon-giveth-and-the-dungeon-taketh-away",
   title: "Chapter 43: The Dungeon Giveth and The Dungeon Taketh Away",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 43,
   ownLength: 3127,
   unitSlug: "words",

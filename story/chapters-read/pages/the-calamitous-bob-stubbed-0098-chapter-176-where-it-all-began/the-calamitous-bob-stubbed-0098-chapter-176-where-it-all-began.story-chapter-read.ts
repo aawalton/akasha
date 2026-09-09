@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0098Chapter176WhereItAllBegan = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0098-chapter-176-where-it-all-began",
   title: "Chapter 176: Where it all Began",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 98,
   ownLength: 5025,
   unitSlug: "words",

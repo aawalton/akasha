@@ -5,7 +5,7 @@ export const theGiftOfLoot0045Chapter45Level3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0045-chapter-45-level-3",
   title: "Chapter 45: Level 3",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 45,
   ownLength: 2947,
   unitSlug: "words",

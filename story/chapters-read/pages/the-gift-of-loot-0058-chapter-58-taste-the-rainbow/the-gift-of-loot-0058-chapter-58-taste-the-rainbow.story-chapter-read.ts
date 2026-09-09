@@ -5,7 +5,7 @@ export const theGiftOfLoot0058Chapter58TasteTheRainbow = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0058-chapter-58-taste-the-rainbow",
   title: "Chapter 58: Taste The Rainbow",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 58,
   ownLength: 6266,
   unitSlug: "words",

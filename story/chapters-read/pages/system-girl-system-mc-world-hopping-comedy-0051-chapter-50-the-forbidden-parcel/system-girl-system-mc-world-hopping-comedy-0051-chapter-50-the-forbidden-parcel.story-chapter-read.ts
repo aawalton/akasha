@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0051Chapter50TheForbiddenParcel
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0051-chapter-50-the-forbidden-parcel",
   title: "Chapter 50: The Forbidden Parcel",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 51,
   ownLength: 2477,
   unitSlug: "words",

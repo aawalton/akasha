@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0139Chapter214LastPreparations = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0139-chapter-214-last-preparations",
   title: "Chapter 214: Last Preparations",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 139,
   ownLength: 5313,
   unitSlug: "words",

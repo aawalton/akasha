@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0076Chapter156TheWeaversOfFate = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0076-chapter-156-the-weavers-of-fate",
   title: "Chapter 156: The Weavers of Fate",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 76,
   ownLength: 7063,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0151Chapter226TheNightOfFire = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0151-chapter-226-the-night-of-fire",
   title: "Chapter 226: The Night of Fire",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 151,
   ownLength: 4282,
   unitSlug: "words",

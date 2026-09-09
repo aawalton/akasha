@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0046Chapter126Montage = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0046-chapter-126-montage",
   title: "Chapter 126: Montage",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 46,
   ownLength: 4955,
   unitSlug: "words",

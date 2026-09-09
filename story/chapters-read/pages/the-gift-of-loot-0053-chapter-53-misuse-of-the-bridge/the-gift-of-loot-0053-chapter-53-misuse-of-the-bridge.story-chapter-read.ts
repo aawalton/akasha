@@ -5,7 +5,7 @@ export const theGiftOfLoot0053Chapter53MisuseOfTheBridge = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0053-chapter-53-misuse-of-the-bridge",
   title: "Chapter 53: Misuse of The Bridge",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 53,
   ownLength: 3556,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0097Chapter96TheCarpetAndThePig
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0097-chapter-96-the-carpet-and-the-pig",
   title: "Chapter 96: The Carpet and The Pig",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 97,
   ownLength: 2327,
   unitSlug: "words",

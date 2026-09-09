@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0069Chapter68TheMythOfTheMichel
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0069-chapter-68-the-myth-of-the-michelin-duck",
   title: "Chapter 68: The Myth of the Michelin Duck",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 69,
   ownLength: 2228,
   unitSlug: "words",

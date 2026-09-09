@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0129Chapter204ThroughTheWaves = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0129-chapter-204-through-the-waves",
   title: "Chapter 204: Through the waves",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 129,
   ownLength: 4403,
   unitSlug: "words",

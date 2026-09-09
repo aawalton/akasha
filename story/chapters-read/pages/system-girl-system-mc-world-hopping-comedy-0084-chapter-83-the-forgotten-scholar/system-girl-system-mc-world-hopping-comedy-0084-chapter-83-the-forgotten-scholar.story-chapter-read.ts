@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0084Chapter83TheForgottenSchola
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0084-chapter-83-the-forgotten-scholar",
   title: "Chapter 83: The Forgotten Scholar",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 84,
   ownLength: 2093,
   unitSlug: "words",

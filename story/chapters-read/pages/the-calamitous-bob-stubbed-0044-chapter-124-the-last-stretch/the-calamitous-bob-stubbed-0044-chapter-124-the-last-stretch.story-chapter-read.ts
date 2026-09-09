@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0044Chapter124TheLastStretch = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0044-chapter-124-the-last-stretch",
   title: "Chapter 124: The last stretch.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 44,
   ownLength: 5923,
   unitSlug: "words",

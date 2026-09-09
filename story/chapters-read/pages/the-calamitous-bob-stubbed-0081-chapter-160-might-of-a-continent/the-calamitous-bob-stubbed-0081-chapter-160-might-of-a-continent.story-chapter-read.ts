@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0081Chapter160MightOfAContinent = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0081-chapter-160-might-of-a-continent",
   title: "Chapter 160: Might of a Continent",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 81,
   ownLength: 7438,
   unitSlug: "words",

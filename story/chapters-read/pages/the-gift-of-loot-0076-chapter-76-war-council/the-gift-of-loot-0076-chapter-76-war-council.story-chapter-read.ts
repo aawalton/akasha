@@ -5,7 +5,7 @@ export const theGiftOfLoot0076Chapter76WarCouncil = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0076-chapter-76-war-council",
   title: "Chapter 76: War Council",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 76,
   ownLength: 2563,
   unitSlug: "words",

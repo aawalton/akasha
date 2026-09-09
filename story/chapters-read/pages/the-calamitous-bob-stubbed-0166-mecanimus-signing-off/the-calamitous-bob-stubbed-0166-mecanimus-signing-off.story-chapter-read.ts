@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0166MecanimusSigningOff = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0166-mecanimus-signing-off",
   title: "Mecanimus, signing off.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 166,
   ownLength: 369,
   unitSlug: "words",

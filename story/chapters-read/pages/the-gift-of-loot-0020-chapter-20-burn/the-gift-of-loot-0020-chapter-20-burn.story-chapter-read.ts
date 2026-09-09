@@ -5,7 +5,7 @@ export const theGiftOfLoot0020Chapter20Burn = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0020-chapter-20-burn",
   title: "Chapter 20: Burn",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 20,
   ownLength: 1510,
   unitSlug: "words",

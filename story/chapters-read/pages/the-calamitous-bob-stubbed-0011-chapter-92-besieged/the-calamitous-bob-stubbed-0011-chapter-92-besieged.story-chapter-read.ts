@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0011Chapter92Besieged = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0011-chapter-92-besieged",
   title: "Chapter 92: Besieged",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 11,
   ownLength: 6344,
   unitSlug: "words",

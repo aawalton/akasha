@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0146Chapter221DiplomaticBbq = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0146-chapter-221-diplomatic-bbq",
   title: "Chapter 221: Diplomatic BBQ",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 146,
   ownLength: 4558,
   unitSlug: "words",

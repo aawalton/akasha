@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0143Chapter218ItSAliens = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0143-chapter-218-it-s-aliens",
   title: "Chapter 218: It’s Aliens",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 143,
   ownLength: 5321,
   unitSlug: "words",

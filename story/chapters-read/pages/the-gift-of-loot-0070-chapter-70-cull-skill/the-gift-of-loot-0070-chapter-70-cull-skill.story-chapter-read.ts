@@ -5,7 +5,7 @@ export const theGiftOfLoot0070Chapter70CullSkill = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0070-chapter-70-cull-skill",
   title: "Chapter 70: Cull Skill",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 70,
   ownLength: 2670,
   unitSlug: "words",

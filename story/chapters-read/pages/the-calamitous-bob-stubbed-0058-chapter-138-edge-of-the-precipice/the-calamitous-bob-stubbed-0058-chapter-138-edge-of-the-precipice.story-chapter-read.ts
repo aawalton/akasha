@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0058Chapter138EdgeOfThePrecipice = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0058-chapter-138-edge-of-the-precipice",
   title: "Chapter 138. Edge of the precipice.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 58,
   ownLength: 6247,
   unitSlug: "words",

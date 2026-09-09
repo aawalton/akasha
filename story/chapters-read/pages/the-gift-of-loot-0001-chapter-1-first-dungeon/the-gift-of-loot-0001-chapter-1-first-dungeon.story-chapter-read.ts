@@ -5,7 +5,7 @@ export const theGiftOfLoot0001Chapter1FirstDungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0001-chapter-1-first-dungeon",
   title: "Chapter 1: First Dungeon",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 1,
   ownLength: 2149,
   unitSlug: "words",

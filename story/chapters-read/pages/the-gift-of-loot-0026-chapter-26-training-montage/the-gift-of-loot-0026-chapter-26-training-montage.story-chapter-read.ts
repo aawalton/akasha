@@ -5,7 +5,7 @@ export const theGiftOfLoot0026Chapter26TrainingMontage = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0026-chapter-26-training-montage",
   title: "Chapter 26: Training Montage",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 26,
   ownLength: 3492,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0116Chapter192IsWimdy = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0116-chapter-192-is-wimdy",
   title: "Chapter 192: Is Wimdy",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 116,
   ownLength: 5254,
   unitSlug: "words",

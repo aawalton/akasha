@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0016Chapter97Merls = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0016-chapter-97-merls",
   title: "Chapter 97: Merls",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 16,
   ownLength: 5894,
   unitSlug: "words",

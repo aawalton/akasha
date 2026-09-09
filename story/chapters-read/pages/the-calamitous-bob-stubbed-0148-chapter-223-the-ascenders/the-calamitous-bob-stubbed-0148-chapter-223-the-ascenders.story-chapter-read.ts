@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0148Chapter223TheAscenders = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0148-chapter-223-the-ascenders",
   title: "Chapter 223: The Ascenders",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 148,
   ownLength: 5202,
   unitSlug: "words",

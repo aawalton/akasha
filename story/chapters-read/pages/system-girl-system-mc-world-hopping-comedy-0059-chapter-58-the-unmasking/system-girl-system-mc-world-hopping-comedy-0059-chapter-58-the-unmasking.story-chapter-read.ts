@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0059Chapter58TheUnmasking = {
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0059-chapter-58-the-unmasking",
   title: "Chapter 58: The Unmasking",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 59,
   ownLength: 2566,
   unitSlug: "words",

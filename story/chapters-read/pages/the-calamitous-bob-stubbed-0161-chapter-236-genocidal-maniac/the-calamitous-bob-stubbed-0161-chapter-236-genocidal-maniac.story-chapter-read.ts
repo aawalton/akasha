@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0161Chapter236GenocidalManiac = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0161-chapter-236-genocidal-maniac",
   title: "Chapter 236: GenoCidAL MaNiAc",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 161,
   ownLength: 7412,
   unitSlug: "words",

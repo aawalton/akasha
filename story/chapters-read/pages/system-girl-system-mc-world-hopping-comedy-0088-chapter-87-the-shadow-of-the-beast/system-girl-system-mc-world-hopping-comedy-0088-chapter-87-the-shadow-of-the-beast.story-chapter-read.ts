@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0088Chapter87TheShadowOfTheBeas
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0088-chapter-87-the-shadow-of-the-beast",
   title: "Chapter 87: The Shadow of the Beast",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 88,
   ownLength: 2230,
   unitSlug: "words",

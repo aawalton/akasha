@@ -5,7 +5,7 @@ export const theGiftOfLoot0071Chapter71WhoeverSaidOrangeIsTheNewPinkWas = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-gift-of-loot-0071-chapter-71-whoever-said-orange-is-the-new-pink-was",
   title: "Chapter 71: Whoever Said Orange Is The New Pink Was Seriously Disturbed",
-  storySlug: "the-gift-of-loot",
+  story: "the-gift-of-loot",
   position: 71,
   ownLength: 3847,
   unitSlug: "words",

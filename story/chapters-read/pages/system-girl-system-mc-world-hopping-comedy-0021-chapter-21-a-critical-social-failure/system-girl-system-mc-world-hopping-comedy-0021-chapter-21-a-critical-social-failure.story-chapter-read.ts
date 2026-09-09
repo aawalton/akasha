@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy0021Chapter21ACriticalSocialFai
   pageTypeSlug: "story-chapter-read",
   slug: "system-girl-system-mc-world-hopping-comedy-0021-chapter-21-a-critical-social-failure",
   title: "Chapter 21: A Critical Social Failure",
-  storySlug: "system-girl-system-mc-world-hopping-comedy",
+  story: "system-girl-system-mc-world-hopping-comedy",
   position: 21,
   ownLength: 2205,
   unitSlug: "words",

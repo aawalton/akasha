@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0065Chapter145TheLeagueEngagesInCasualTerror
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0065-chapter-145-the-league-engages-in-casual-terrorism",
   title: "Chapter 145: The League Engages in Casual Terrorism",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 65,
   ownLength: 6039,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0095Chapter173Arachnomachia = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0095-chapter-173-arachnomachia",
   title: "Chapter 173: Arachnomachia",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 95,
   ownLength: 5174,
   unitSlug: "words",

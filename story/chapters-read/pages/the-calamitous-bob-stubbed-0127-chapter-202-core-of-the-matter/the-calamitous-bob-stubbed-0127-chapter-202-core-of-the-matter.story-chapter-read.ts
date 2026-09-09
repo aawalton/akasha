@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0127Chapter202CoreOfTheMatter = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0127-chapter-202-core-of-the-matter",
   title: "Chapter 202: Core of the Matter.",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 127,
   ownLength: 5807,
   unitSlug: "words",

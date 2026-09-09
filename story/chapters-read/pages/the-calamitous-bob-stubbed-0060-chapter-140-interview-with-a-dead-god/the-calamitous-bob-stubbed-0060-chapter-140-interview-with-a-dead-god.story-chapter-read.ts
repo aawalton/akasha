@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0060Chapter140InterviewWithADeadGod = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0060-chapter-140-interview-with-a-dead-god",
   title: "Chapter 140: Interview with a dead god",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 60,
   ownLength: 5610,
   unitSlug: "words",

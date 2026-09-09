@@ -5,7 +5,7 @@ export const theCalamitousBobStubbed0023Chapter104Judgment = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-calamitous-bob-stubbed-0023-chapter-104-judgment",
   title: "Chapter 104: Judgment",
-  storySlug: "the-calamitous-bob-stubbed",
+  story: "the-calamitous-bob-stubbed",
   position: 23,
   ownLength: 5130,
   unitSlug: "words",
