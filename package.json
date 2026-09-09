@@ -87,7 +87,6 @@
     "@akasha/talos": "workspace:*",
     "@akasha/temper-addon-generators": "workspace:*",
     "@akasha/temper-alchemy": "workspace:*",
-    "@akasha/temper-build-codec": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",
     "@akasha/temper-character-skills": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
@@ -109,7 +108,8 @@
     "@akasha/temper-items-filters-core": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
-    "@akasha/temper-addon-init": "workspace:*"
+    "@akasha/temper-addon-init": "workspace:*",
+    "@akasha/temper-build-hash": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

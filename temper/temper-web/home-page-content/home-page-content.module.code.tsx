@@ -17,7 +17,6 @@ import { QueryErrorBoundary } from "@akasha/design-patterns/query-error-boundary
 import { Button } from "@akasha/design-primitives/button"
 import { PagesUILink as Link, usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { decodeBuild } from "@akasha/temper-build-codec/build-codec"
 import {
   applyCharacterMetadata,
   applyCompanionMetadata,
@@ -32,6 +31,7 @@ import { useInventory } from "@akasha/temper-player-inventory-management-ui/hook
 import { useManagedGuildBanks } from "@akasha/temper-player-inventory-management-ui/hooks-inventory-settings"
 import { InventoryScopeNote } from "@akasha/temper-player-inventory-management-ui/inventory-scope-note"
 import { InventoryTypeSummaryPanelCard } from "@akasha/temper-player-inventory-management-ui/inventory-summary-panel-card"
+import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { useCharacterList } from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
 import { Gamepad2 } from "lucide-react"
 import { Suspense, useMemo } from "react"

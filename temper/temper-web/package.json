@@ -33,7 +33,6 @@
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/temper-alchemy": "workspace:*",
-    "@akasha/temper-build-codec": "workspace:*",
     "@akasha/temper-build-metadata": "workspace:*",
     "@akasha/temper-build-support": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",

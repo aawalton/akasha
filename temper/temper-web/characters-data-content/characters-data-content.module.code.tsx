@@ -14,11 +14,11 @@ import { useScrollRestoration } from "@akasha/design-patterns/use-scroll-restora
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
-import { decodeBuild } from "@akasha/temper-build-codec/build-codec"
 import { applyCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useCompletionCharactersByUser } from "@akasha/temper-player-completion-ui/use-completion"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import {
   useAllCharacterList,
   useCharacterLifecycle,

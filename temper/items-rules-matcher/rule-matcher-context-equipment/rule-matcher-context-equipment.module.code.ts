@@ -1,4 +1,3 @@
-import { decodeBuild } from "@akasha/temper-build-codec/build-codec"
 import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import {
   resolveCharacterToggles,
@@ -20,6 +19,7 @@ import type {
   CompletionCharacterInput,
   CompletionCompanionInput,
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
+import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 
 export function compileWantedEquipment(
   characters: readonly CompletionCharacterInput[],

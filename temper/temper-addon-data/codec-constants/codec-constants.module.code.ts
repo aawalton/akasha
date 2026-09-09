@@ -1,4 +1,22 @@
 import {
+  COMPANION_ARMOR_WEIGHT_BITS,
+  COMPANION_ARMOR_WEIGHT_IDS,
+  COMPANION_BITS,
+  COMPANION_QUALITY_BITS,
+  COMPANION_SKILL_BITS,
+  COMPANION_TRAIT_BITS,
+  COMPANION_WEAPON_TYPE_BITS,
+  companionIds,
+  companionQualityIds,
+  companionSkillIds,
+  companionTraitIds,
+  companionWeaponTypeIds,
+} from "@akasha/temper-companion-codec/companion-codec-indices"
+import {
+  COMPANION_BUILD_TYPE,
+  ESO_VERSION_48,
+} from "@akasha/temper-companion-codec/companion-codec-v48"
+import {
   AFFIX_SCRIPT_BITS,
   ALLIANCE_BITS,
   ARMOR_ENCHANT_BITS,
@@ -28,26 +46,8 @@ import {
   WEAPON_ENCHANT_BITS,
   WEAPON_TRAIT_BITS,
   WEAPON_TYPE_BITS,
-} from "@akasha/temper-build-codec/build-codec-indices"
-import { CHARACTER_BUILD_TYPE } from "@akasha/temper-build-codec/build-codec-v48"
-import {
-  COMPANION_ARMOR_WEIGHT_BITS,
-  COMPANION_ARMOR_WEIGHT_IDS,
-  COMPANION_BITS,
-  COMPANION_QUALITY_BITS,
-  COMPANION_SKILL_BITS,
-  COMPANION_TRAIT_BITS,
-  COMPANION_WEAPON_TYPE_BITS,
-  companionIds,
-  companionQualityIds,
-  companionSkillIds,
-  companionTraitIds,
-  companionWeaponTypeIds,
-} from "@akasha/temper-companion-codec/companion-codec-indices"
-import {
-  COMPANION_BUILD_TYPE,
-  ESO_VERSION_48,
-} from "@akasha/temper-companion-codec/companion-codec-v48"
+} from "akasha/temper/build-codec/build-codec-indices/build-codec-indices.module.code.ts"
+import { CHARACTER_BUILD_TYPE } from "akasha/temper/build-codec/build-codec-v48/build-codec-v48.module.code.ts"
 import {
   CHARACTER_CODEC_MINOR_VERSION,
   COMPANION_CODEC_MINOR_VERSION,

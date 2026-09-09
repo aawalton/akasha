@@ -1,5 +1,4 @@
 import { upsertPage } from "@akasha/pages-access/upsert"
-import { decodeBuild, encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import type { ChampionPointId } from "@akasha/temper-champion-points/champion-point-source"
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
@@ -7,6 +6,10 @@ import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wid
 import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
 import { asRecord } from "@akasha/utils/narrow/as-record"
+import {
+  decodeBuild,
+  encodeBuild,
+} from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { resolveAccountPageId } from "../watcher-account-page/watcher-account-page.module.code.ts"
 import {
   type SignedInReader,

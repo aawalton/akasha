@@ -1,6 +1,5 @@
 "use client"
 
-import { decodeBuild, encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import {
   applyCharacterMetadata,
   extractCharacterMetadata,
@@ -12,6 +11,10 @@ import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/brand
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { useCompletionCharacters } from "@akasha/temper-player-completion-ui/use-completion"
 import { races } from "@akasha/temper-races/races"
+import {
+  decodeBuild,
+  encodeBuild,
+} from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import {
   useCharacterLifecycle,

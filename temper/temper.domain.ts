@@ -145,7 +145,7 @@ export const temper = {
     "workspace-package/temper-build-deploy-checks",
     "eso-addon/temper-lib-addon-menu",
     "workspace-package/temper-build-hash",
-    "workspace-package/temper-build-codec",
+    "domain/temper-build-codec",
     "workspace-package/temper-companion-codec",
     "eso-addon/temper-characters-addon",
     "eso-addon/temper-capture-datamining-addon",

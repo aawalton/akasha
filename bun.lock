@@ -42,8 +42,8 @@
         "@akasha/temper-addon-library-types": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-alchemy": "workspace:*",
-        "@akasha/temper-build-codec": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
+        "@akasha/temper-build-hash": "workspace:*",
         "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-capture-host": "workspace:*",
@@ -1058,26 +1058,6 @@
         "@akasha/temper-eso-types": "workspace:*",
       },
     },
-    "temper/build-codec": {
-      "name": "@akasha/temper-build-codec",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/temper-alchemy": "workspace:*",
-        "@akasha/temper-build-hash": "workspace:*",
-        "@akasha/temper-champion-points": "workspace:*",
-        "@akasha/temper-character-build": "workspace:*",
-        "@akasha/temper-character-skills": "workspace:*",
-        "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-characters-equipment": "workspace:*",
-        "@akasha/temper-classes": "workspace:*",
-        "@akasha/temper-equipment": "workspace:*",
-        "@akasha/temper-equipment-kinds": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/temper-races": "workspace:*",
-        "@akasha/temper-skill-kinds": "workspace:*",
-        "@akasha/temper-skill-lines": "workspace:*",
-      },
-    },
     "temper/build-hash": {
       "name": "@akasha/temper-build-hash",
     },
@@ -1769,7 +1749,6 @@
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/temper-alchemy": "workspace:*",
-        "@akasha/temper-build-codec": "workspace:*",
         "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-champion-points": "workspace:*",
@@ -2005,8 +1984,6 @@
     "@akasha/temper-alchemy": ["@akasha/temper-alchemy@workspace:temper/temper-alchemy"],
 
     "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/antiquities-addon"],
-
-    "@akasha/temper-build-codec": ["@akasha/temper-build-codec@workspace:temper/build-codec"],
 
     "@akasha/temper-build-deploy-checks": ["@akasha/temper-build-deploy-checks@workspace:temper/temper-build-deploy-checks"],
 

@@ -5,7 +5,6 @@ import { parsePageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
-import { decodeBuild, encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import type {
   CharacterBuildMetadata,
   CompanionBuildMetadata,
@@ -26,6 +25,10 @@ import {
   buildHash as toBuildHash,
   buildId as toBuildId,
 } from "@akasha/temper-formula-framework/branded-id"
+import {
+  decodeBuild,
+  encodeBuild,
+} from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"

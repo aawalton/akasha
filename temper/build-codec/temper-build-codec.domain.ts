@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperBuildCodec = {
   id: "01a062e7-4dd4-7379-91b1-47690a52822a",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-build-codec",
   definition:
     "packing a character build into text and reading one back at whichever update wrote it",
-  manifest: "json",
   parts: [
     "module/build-codec",
     "module/build-codec-indices",
@@ -54,4 +53,4 @@ export const temperBuildCodec = {
       statement: "The writer and the reader of one update take the bits in the one order.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -11,12 +11,12 @@ import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { Tabs } from "@akasha/design-patterns/tabs"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import { encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import { extractCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { characterUrl } from "@akasha/temper-build-support/build-url"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useCompletionCharacters } from "@akasha/temper-player-completion-ui/use-completion"
 import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { encodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import {
   useCharacterLifecycle,

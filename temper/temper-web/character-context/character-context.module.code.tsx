@@ -1,6 +1,5 @@
 "use client"
 
-import { decodeBuild, encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import {
   applyCharacterMetadata,
   type CharacterBuildMetadata,
@@ -14,6 +13,10 @@ import type { Skill } from "@akasha/temper-character-skills/character-skills"
 import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
+import {
+  decodeBuild,
+  encodeBuild,
+} from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { useCharacter as useCharacterZero } from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
 import { createContext, type ReactNode, useCallback, useReducer } from "react"
 import type { CharacterAction } from "../character-actions/character-actions.module.code.ts"
