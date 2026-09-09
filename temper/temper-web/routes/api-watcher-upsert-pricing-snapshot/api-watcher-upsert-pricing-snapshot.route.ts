@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const apiWatcherUpsertPricingSnapshot = {
   id: "01a082fe-7dee-72e6-89a1-b20f7230159b",
   pageTypeSlug: "route",
+  type: "route",
   slug: "api-watcher-upsert-pricing-snapshot",
   definition: "the pricing snapshot the watcher posts",
   code: "ts",

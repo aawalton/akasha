@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const alanWebApiDeviceSecretMint = {
   id: "01a08836-2978-7ffe-acee-194c3ed73a89",
   pageTypeSlug: "route",
+  type: "route",
   slug: "alan-web-api-device-secret-mint",
   definition: "the secret one device carries afterwards",
   code: "ts",

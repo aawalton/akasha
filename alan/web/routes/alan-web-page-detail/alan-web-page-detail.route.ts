@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const alanWebPageDetail = {
   id: "01a08833-1672-716a-8f04-9183f3106bcc",
   pageTypeSlug: "route",
+  type: "route",
   slug: "alan-web-page-detail",
   definition: "one page, drawn as the kind of page it is",
   code: "tsx",

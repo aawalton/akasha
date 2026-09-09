@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const audhdalanApiSubscribe = {
   id: "01a08289-7b12-7814-8155-5442b3a1236b",
   pageTypeSlug: "route",
+  type: "route",
   slug: "audhdalan-api-subscribe",
   definition: "where a reader gives an address to hear more",
   code: "ts",

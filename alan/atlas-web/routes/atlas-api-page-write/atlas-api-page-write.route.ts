@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const atlasApiPageWrite = {
   id: "01a08838-c84b-70c9-ae34-60620a677571",
   pageTypeSlug: "route",
+  type: "route",
   slug: "atlas-api-page-write",
   definition: "the page a reader's browser asks to have written",
   code: "ts",

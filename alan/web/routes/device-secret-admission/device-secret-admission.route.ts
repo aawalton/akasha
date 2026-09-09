@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const deviceSecretAdmission = {
   id: "01a08243-801c-7c22-aeb9-ab9b8c8261dc",
   pageTypeSlug: "route",
+  type: "route",
   slug: "device-secret-admission",
   definition: "whether the secret a phone has is still one the store admits",
   code: "ts",

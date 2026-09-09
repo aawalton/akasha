@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const alanWebIdle = {
   id: "01a0882d-7607-7b89-969a-79fa6a1c4168",
   pageTypeSlug: "route",
+  type: "route",
   slug: "alan-web-idle",
   definition: "the permanent redirect onto the page carrying the idle game",
   code: "ts",

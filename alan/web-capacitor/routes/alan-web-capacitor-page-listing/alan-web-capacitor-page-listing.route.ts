@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const alanWebCapacitorPageListing = {
   id: "01a08840-980e-747f-9497-1ed8fa4d51f0",
   pageTypeSlug: "route",
+  type: "route",
   slug: "alan-web-capacitor-page-listing",
   definition: "the pages of one page type, drawn as a list",
   code: "tsx",

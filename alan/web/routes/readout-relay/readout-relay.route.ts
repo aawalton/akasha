@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const readoutRelay = {
   id: "01a08260-1dd1-790e-88fa-55c606f58578",
   pageTypeSlug: "route",
+  type: "route",
   slug: "readout-relay",
   definition: "the reading a workstation carries in for a readout",
   code: "ts",

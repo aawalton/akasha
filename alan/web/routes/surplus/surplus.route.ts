@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const surplus = {
   id: "01a07c5c-cffc-7e06-993e-f7b533204f65",
   pageTypeSlug: "route",
+  type: "route",
   slug: "surplus",
   definition: "Alan's surplus as the color the hours left in his night reach",
   code: "ts",

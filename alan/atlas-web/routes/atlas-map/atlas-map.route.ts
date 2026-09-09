@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const atlasMap = {
   id: "01a0883d-3b05-7404-bc35-cbb827588fe9",
   pageTypeSlug: "route",
+  type: "route",
   slug: "atlas-map",
   definition: "every location a reader has saved, drawn as pins",
   code: "tsx",

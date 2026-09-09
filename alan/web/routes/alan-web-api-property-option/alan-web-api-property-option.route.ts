@@ -3,6 +3,7 @@ import type { Route } from "@akasha/code/route"
 export const alanWebApiPropertyOption = {
   id: "01a08826-71e0-7bcf-9928-e420b5a8cf1f",
   pageTypeSlug: "route",
+  type: "route",
   slug: "alan-web-api-property-option",
   definition: "the refusal an ask to add a select option is answered with",
   code: "ts",
