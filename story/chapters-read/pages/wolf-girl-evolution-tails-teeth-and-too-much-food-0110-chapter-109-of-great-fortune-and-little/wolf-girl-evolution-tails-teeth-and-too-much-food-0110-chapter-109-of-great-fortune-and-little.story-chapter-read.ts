@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0110Chapter109OfGreatFortu
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0110-chapter-109-of-great-fortune-and-little",
   title: "Chapter 109: Of Great Fortune, and Little Troubles",
-  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 110,
   ownLength: 2342,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0001Chapter1NewWorld 
   pageTypeSlug: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0001-chapter-1-new-world",
   title: "Chapter 1: New World",
-  partOfCollectionSlugs: ["twelve-steps-to-transcendence-a-skill-grinding-litrpg"],
+  storySlug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 1,
   ownLength: 2624,
   unitSlug: "words",

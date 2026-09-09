@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0089Chapter89UpperGallery = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0089-chapter-89-upper-gallery",
   title: "Chapter 89: Upper Gallery",
-  partOfCollectionSlugs: ["time-cursed-knight-time-loop-post-apoc"],
+  storySlug: "time-cursed-knight-time-loop-post-apoc",
   position: 89,
   ownLength: 2392,
   unitSlug: "words",

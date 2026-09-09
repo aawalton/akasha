@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0087Chapter87BodyReforging = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0087-chapter-87-body-reforging",
   title: "Chapter 87: Body Reforging",
-  partOfCollectionSlugs: ["time-cursed-knight-time-loop-post-apoc"],
+  storySlug: "time-cursed-knight-time-loop-post-apoc",
   position: 87,
   ownLength: 3388,
   unitSlug: "words",

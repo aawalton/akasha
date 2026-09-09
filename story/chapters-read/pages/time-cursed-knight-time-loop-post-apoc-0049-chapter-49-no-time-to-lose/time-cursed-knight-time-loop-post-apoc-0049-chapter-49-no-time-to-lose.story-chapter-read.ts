@@ -5,7 +5,7 @@ export const timeCursedKnightTimeLoopPostApoc0049Chapter49NoTimeToLose = {
   pageTypeSlug: "story-chapter-read",
   slug: "time-cursed-knight-time-loop-post-apoc-0049-chapter-49-no-time-to-lose",
   title: "Chapter 49: No Time To Lose",
-  partOfCollectionSlugs: ["time-cursed-knight-time-loop-post-apoc"],
+  storySlug: "time-cursed-knight-time-loop-post-apoc",
   position: 49,
   ownLength: 3973,
   unitSlug: "words",

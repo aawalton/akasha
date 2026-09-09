@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0120Chapter119OfWarmWaking
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0120-chapter-119-of-warm-waking-and-earned-praise",
   title: "Chapter 119: Of Warm Waking and Earned Praise",
-  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 120,
   ownLength: 2652,
   unitSlug: "words",

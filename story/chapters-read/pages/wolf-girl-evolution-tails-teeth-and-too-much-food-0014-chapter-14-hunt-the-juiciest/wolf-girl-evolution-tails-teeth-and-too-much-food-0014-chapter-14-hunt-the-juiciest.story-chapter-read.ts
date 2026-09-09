@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0014Chapter14HuntTheJuicie
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0014-chapter-14-hunt-the-juiciest",
   title: "Chapter 14: Hunt the Juiciest",
-  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 14,
   ownLength: 1475,
   unitSlug: "words",

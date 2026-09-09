@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0015Chapter15HerFirstVanil
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0015-chapter-15-her-first-vanilla-experience",
   title: "Chapter 15: Her First Vanilla Experience",
-  partOfCollectionSlugs: ["underworld-bread-mage-yuri-progfan-slice-of-life"],
+  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 15,
   ownLength: 1725,
   unitSlug: "words",

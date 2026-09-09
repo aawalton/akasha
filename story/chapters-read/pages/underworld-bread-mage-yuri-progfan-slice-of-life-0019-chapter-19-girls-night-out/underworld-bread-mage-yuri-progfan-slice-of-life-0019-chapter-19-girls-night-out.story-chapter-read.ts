@@ -5,7 +5,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0019Chapter19GirlsNightOut
   pageTypeSlug: "story-chapter-read",
   slug: "underworld-bread-mage-yuri-progfan-slice-of-life-0019-chapter-19-girls-night-out",
   title: "Chapter 19: Girls Night Out",
-  partOfCollectionSlugs: ["underworld-bread-mage-yuri-progfan-slice-of-life"],
+  storySlug: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 19,
   ownLength: 1686,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0003Chapter3SpiceDreamsAnd
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0003-chapter-3-spice-dreams-and-dirt-fights",
   title: "Chapter 3: Spice Dreams and Dirt Fights",
-  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 3,
   ownLength: 1522,
   unitSlug: "words",

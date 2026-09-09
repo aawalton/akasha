@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0150Chapter147LunaSaysNoTo
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0150-chapter-147-luna-says-no-to-nest-mother",
   title: "Chapter 147: Luna Says No to Nest Mother!",
-  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 150,
   ownLength: 3968,
   unitSlug: "words",

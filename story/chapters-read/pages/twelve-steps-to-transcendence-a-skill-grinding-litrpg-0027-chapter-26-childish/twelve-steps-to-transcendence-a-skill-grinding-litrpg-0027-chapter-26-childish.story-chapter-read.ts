@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0027Chapter26Childish
   pageTypeSlug: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0027-chapter-26-childish",
   title: "Chapter 26: Childish",
-  partOfCollectionSlugs: ["twelve-steps-to-transcendence-a-skill-grinding-litrpg"],
+  storySlug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 27,
   ownLength: 3661,
   unitSlug: "words",

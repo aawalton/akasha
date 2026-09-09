@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0127Chapter126OfSteelFuryA
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0127-chapter-126-of-steel-fury-and-unyielding-will",
   title: "Chapter 126: Of Steel, Fury, and Unyielding Will",
-  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 127,
   ownLength: 3353,
   unitSlug: "words",

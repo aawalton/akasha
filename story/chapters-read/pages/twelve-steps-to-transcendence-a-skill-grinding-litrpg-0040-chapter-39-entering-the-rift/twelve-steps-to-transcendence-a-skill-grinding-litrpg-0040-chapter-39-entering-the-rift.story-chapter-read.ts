@@ -5,7 +5,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0040Chapter39Entering
   pageTypeSlug: "story-chapter-read",
   slug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg-0040-chapter-39-entering-the-rift",
   title: "Chapter 39: Entering The Rift",
-  partOfCollectionSlugs: ["twelve-steps-to-transcendence-a-skill-grinding-litrpg"],
+  storySlug: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 40,
   ownLength: 1700,
   unitSlug: "words",

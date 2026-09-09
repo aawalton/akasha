@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0085Chapter84OfLunaTrainin
   pageTypeSlug: "story-chapter-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food-0085-chapter-84-of-luna-training-and-pack-groaning",
   title: "Chapter 84: Of Luna Training, and Pack Groaning!",
-  partOfCollectionSlugs: ["wolf-girl-evolution-tails-teeth-and-too-much-food"],
+  storySlug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 85,
   ownLength: 2147,
   unitSlug: "words",
