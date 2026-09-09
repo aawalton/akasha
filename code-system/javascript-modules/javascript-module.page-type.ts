@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Javascript } from "./properties/javascript.file-property.ts"
+import type { Javascript } from "./properties/javascript.code-file-property.ts"
 
 export type JavascriptModule = Domain & {
   javascript: Javascript
@@ -12,9 +12,9 @@ export const javascriptModule = {
   slug: "javascript-module",
   definition: "code in the JavaScript language",
   pluralSlug: "javascript-modules",
-  partSlugs: ["file-property/javascript"],
+  partSlugs: ["code-file-property/javascript"],
   extends: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "file-property/javascript", required: true, many: false }],
+  properties: [{ pagePropertySlug: "code-file-property/javascript", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
