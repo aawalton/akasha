@@ -5,7 +5,7 @@ export const theFirstHarvest = {
   pageTypeSlug: "story-wiki-entry",
   slug: "the-first-harvest",
   title: "The First Harvest",
-  worldSlug: "the-beholder",
+  world: "the-beholder",
   kind: "seed",
   chapterNumber: 1,
   prose: "txt",

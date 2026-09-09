@@ -5,7 +5,7 @@ export const theFourLaborsTheFoundingFork = {
   pageTypeSlug: "story-wiki-entry",
   slug: "the-four-labors-the-founding-fork",
   title: "The Four Labors (the founding fork)",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   kind: "seed",
   chapterNumber: 1,
   prose: "txt",

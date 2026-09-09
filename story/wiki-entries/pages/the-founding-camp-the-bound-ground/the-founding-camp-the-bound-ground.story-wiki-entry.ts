@@ -5,7 +5,7 @@ export const theFoundingCampTheBoundGround = {
   pageTypeSlug: "story-wiki-entry",
   slug: "the-founding-camp-the-bound-ground",
   title: "The Founding Camp (the bound ground)",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   kind: "location",
   chapterNumber: 1,
   prose: "txt",

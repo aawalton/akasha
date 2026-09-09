@@ -5,7 +5,7 @@ export const theAshGlutton = {
   pageTypeSlug: "story-wiki-entry",
   slug: "the-ash-glutton",
   title: "The Ash-Glutton",
-  worldSlug: "tower-of-nimue",
+  world: "tower-of-nimue",
   kind: "character",
   chapterNumber: 2,
   prose: "txt",

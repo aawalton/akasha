@@ -5,7 +5,7 @@ export const theCoreAndTheSmallOne = {
   pageTypeSlug: "story-wiki-entry",
   slug: "the-core-and-the-small-one",
   title: "The Core and The Small One",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   kind: "relationship",
   chapterNumber: 1,
   prose: "txt",

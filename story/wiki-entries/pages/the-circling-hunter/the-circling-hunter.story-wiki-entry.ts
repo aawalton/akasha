@@ -5,7 +5,7 @@ export const theCirclingHunter = {
   pageTypeSlug: "story-wiki-entry",
   slug: "the-circling-hunter",
   title: "The Circling Hunter",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",

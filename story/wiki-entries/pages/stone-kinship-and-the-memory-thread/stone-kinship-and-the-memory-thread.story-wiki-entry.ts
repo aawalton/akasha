@@ -5,7 +5,7 @@ export const stoneKinshipAndTheMemoryThread = {
   pageTypeSlug: "story-wiki-entry",
   slug: "stone-kinship-and-the-memory-thread",
   title: "Stone-Kinship and the Memory-Thread",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   kind: "system",
   chapterNumber: 1,
   prose: "txt",

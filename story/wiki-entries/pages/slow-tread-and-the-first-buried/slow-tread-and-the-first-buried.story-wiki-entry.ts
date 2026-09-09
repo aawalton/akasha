@@ -5,7 +5,7 @@ export const slowTreadAndTheFirstBuried = {
   pageTypeSlug: "story-wiki-entry",
   slug: "slow-tread-and-the-first-buried",
   title: "Slow-Tread and the First Buried",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   kind: "relationship",
   chapterNumber: 1,
   prose: "txt",

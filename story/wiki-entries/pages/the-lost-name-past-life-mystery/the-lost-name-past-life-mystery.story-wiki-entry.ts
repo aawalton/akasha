@@ -5,7 +5,7 @@ export const theLostNamePastLifeMystery = {
   pageTypeSlug: "story-wiki-entry",
   slug: "the-lost-name-past-life-mystery",
   title: "The Lost Name (past-life mystery)",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   kind: "seed",
   chapterNumber: 1,
   prose: "txt",

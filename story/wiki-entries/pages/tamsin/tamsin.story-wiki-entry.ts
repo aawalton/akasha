@@ -5,7 +5,7 @@ export const tamsin = {
   pageTypeSlug: "story-wiki-entry",
   slug: "tamsin",
   title: "Tamsin",
-  worldSlug: "the-beholder",
+  world: "the-beholder",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",

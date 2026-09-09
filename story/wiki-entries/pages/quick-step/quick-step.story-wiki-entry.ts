@@ -5,7 +5,7 @@ export const quickStep = {
   pageTypeSlug: "story-wiki-entry",
   slug: "quick-step",
   title: "Quick-Step",
-  worldSlug: "cornerstone",
+  world: "cornerstone",
   kind: "character",
   chapterNumber: 1,
   prose: "txt",

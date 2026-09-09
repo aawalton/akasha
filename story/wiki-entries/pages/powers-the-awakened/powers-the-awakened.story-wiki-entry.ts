@@ -5,7 +5,7 @@ export const powersTheAwakened = {
   pageTypeSlug: "story-wiki-entry",
   slug: "powers-the-awakened",
   title: "Powers & the Awakened",
-  worldSlug: "the-beholder",
+  world: "the-beholder",
   kind: "system",
   chapterNumber: 0,
   prose: "txt",
