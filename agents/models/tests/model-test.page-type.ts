@@ -1,14 +1,4 @@
-import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Cases } from "./properties/cases.page-property-entry.ts"
-import type { ModelFamily } from "./properties/model-family.relation-property.ts"
-import type { Prompt } from "./properties/prompt.text-property.ts"
-
-export type ModelTest = Module & {
-  modelFamily: ModelFamily
-  prompt: Prompt
-  cases: Cases
-}
 
 export const modelTest = {
   id: "01a053eb-6b23-7825-ab5f-2b95d3bd1e95",
@@ -57,4 +47,5 @@ export const modelTest = {
         "A run that could not reach a model is a failure of its own rather than a case that passed.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
