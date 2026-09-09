@@ -2,12 +2,12 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { Date as TrackedDate } from "../../days/properties/date.text-property.ts"
-import type { LowestInboxCount } from "../../days/properties/lowest-inbox-count.number-property.ts"
+import type { LowestEmailInboxCount } from "../../days/properties/lowest-email-inbox-count.number-property.ts"
 
 export type EmailEntry = Page & {
   title: Title
   date: TrackedDate
-  lowestInboxCount?: LowestInboxCount
+  lowestEmailInboxCount?: LowestEmailInboxCount
 }
 
 export const emailEntry = {
@@ -17,11 +17,11 @@ export const emailEntry = {
   definition: "how Alan's mail stood over one day",
   pluralSlug: "email-entries",
   extends: ["page-type/page"],
-  partSlugs: ["number-property/lowest-inbox-count"],
+  partSlugs: ["number-property/lowest-email-inbox-count"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "text-property/date", required: true, many: false },
-    { pagePropertySlug: "number-property/lowest-inbox-count", required: false, many: false },
+    { pagePropertySlug: "number-property/lowest-email-inbox-count", required: false, many: false },
   ],
   invariants: [
     {

@@ -17,7 +17,7 @@ const PAGE_TYPE = "page-type"
 
 const PAGES_UNDER = "pages"
 
-const LOWEST_INBOX_COUNT = "lowestInboxCount"
+const LOWEST_EMAIL_INBOX_COUNT = "lowestEmailInboxCount"
 
 export const INBOX_WRITER = "inbox-tracking"
 
@@ -64,7 +64,7 @@ const PAGE_KEYS: readonly string[] = [
   "slug",
   "title",
   "date",
-  LOWEST_INBOX_COUNT,
+  LOWEST_EMAIL_INBOX_COUNT,
 ]
 
 function pageTypeAt(root: string): string {
@@ -117,7 +117,7 @@ async function landPage(
   })
   const message =
     `Alan's mail on ${String(values.date)} reached ` +
-    `${String(values[LOWEST_INBOX_COUNT])} at its lowest`
+    `${String(values[LOWEST_EMAIL_INBOX_COUNT])} at its lowest`
   const answer = await runMechanicalChange(root, [{ at: PUT, given: { at, body } }], message)
   const wrong = "refusals" in answer ? answer.refusals : answer.wrong
   if (wrong.length > 0) {
@@ -160,11 +160,11 @@ export async function persistEmailEntry(count: number, now: Date): Promise<Persi
       slug,
       title: `Email ${day}`,
       date: day,
-      [LOWEST_INBOX_COUNT]: count,
+      [LOWEST_EMAIL_INBOX_COUNT]: count,
     })
     return "created"
   }
-  const lower = keptLow(row[LOWEST_INBOX_COUNT], count)
-  if (lower !== null) landPage(root, slug, { ...row, [LOWEST_INBOX_COUNT]: lower })
+  const lower = keptLow(row[LOWEST_EMAIL_INBOX_COUNT], count)
+  if (lower !== null) landPage(root, slug, { ...row, [LOWEST_EMAIL_INBOX_COUNT]: lower })
   return "patched"
 }

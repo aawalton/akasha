@@ -6,5 +6,5 @@ export const emailEntry20260829 = {
   slug: "email-entry-2026-08-29",
   title: "Email 2026-08-29",
   date: "2026-08-29",
-  lowestInboxCount: 0,
+  lowestEmailInboxCount: 0,
 } as const satisfies EmailEntry

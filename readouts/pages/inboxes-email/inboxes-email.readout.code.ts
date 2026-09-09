@@ -3,7 +3,7 @@ import { statedAt } from "../../tier/readout-tier.module.code.ts"
 
 const MAIL = "email-entry"
 
-const LOWEST = "lowestInboxCount"
+const LOWEST = "lowestEmailInboxCount"
 
 const DATE = "date"
 

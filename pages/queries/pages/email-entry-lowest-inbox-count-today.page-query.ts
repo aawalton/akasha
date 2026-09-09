@@ -6,6 +6,6 @@ export const emailEntryLowestInboxCountToday = {
   slug: "email-entry-lowest-inbox-count-today",
   asksOfSlug: "email-entry",
   narrows: [{ key: "date", comparison: "is", values: ["day"] }],
-  keys: ["date", "lowestInboxCount"],
+  keys: ["date", "lowestEmailInboxCount"],
   limit: 1,
 } as const satisfies PageQuery
