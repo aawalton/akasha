@@ -5,7 +5,7 @@ export const justAddMana0046Chapter46Yeast = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0046-chapter-46-yeast",
   title: "Chapter 46 — Yeast",
-  partOfCollectionSlugs: ["just-add-mana"],
+  storySlug: "just-add-mana",
   position: 46,
   ownLength: 3368,
   ownProgress: 3368,

@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0060060AbsolutelyPerfect
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0060-060-absolutely-perfect",
   title: "060: Absolutely Perfect",
-  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  storySlug: "incremental-torture-an-idle-system-tower-climbing",
   position: 60,
   ownLength: 2085,
   unitSlug: "words",

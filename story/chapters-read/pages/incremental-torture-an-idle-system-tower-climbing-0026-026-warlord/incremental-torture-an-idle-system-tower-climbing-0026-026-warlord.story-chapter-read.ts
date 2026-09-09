@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0026026Warlord = {
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0026-026-warlord",
   title: "026: Warlord",
-  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  storySlug: "incremental-torture-an-idle-system-tower-climbing",
   position: 26,
   ownLength: 2198,
   unitSlug: "words",

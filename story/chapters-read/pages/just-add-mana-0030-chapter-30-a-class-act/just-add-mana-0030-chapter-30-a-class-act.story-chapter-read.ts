@@ -5,7 +5,7 @@ export const justAddMana0030Chapter30AClassAct = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0030-chapter-30-a-class-act",
   title: "Chapter 30 — A Class Act",
-  partOfCollectionSlugs: ["just-add-mana"],
+  storySlug: "just-add-mana",
   position: 30,
   ownLength: 4450,
   ownProgress: 4450,

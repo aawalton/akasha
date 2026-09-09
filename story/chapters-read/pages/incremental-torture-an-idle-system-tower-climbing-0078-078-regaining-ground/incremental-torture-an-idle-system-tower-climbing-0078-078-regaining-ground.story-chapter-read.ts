@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0078078RegainingGround =
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0078-078-regaining-ground",
   title: "078: Regaining Ground",
-  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  storySlug: "incremental-torture-an-idle-system-tower-climbing",
   position: 78,
   ownLength: 2066,
   unitSlug: "words",

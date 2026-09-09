@@ -5,7 +5,7 @@ export const justAddMana0144141Book3Chapter40BloodOfExtinction = {
   pageTypeSlug: "story-chapter-read",
   slug: "just-add-mana-0144-141-book-3-chapter-40-blood-of-extinction",
   title: "141 — Book 3, Chapter 40 — Blood of Extinction",
-  partOfCollectionSlugs: ["just-add-mana"],
+  storySlug: "just-add-mana",
   position: 144,
   ownLength: 3141,
   unitSlug: "words",

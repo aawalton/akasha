@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0067067OathsAndOffices =
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0067-067-oaths-and-offices",
   title: "067: Oaths and Offices",
-  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  storySlug: "incremental-torture-an-idle-system-tower-climbing",
   position: 67,
   ownLength: 1961,
   unitSlug: "words",

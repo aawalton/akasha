@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0044044AnImpossibleTrial
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0044-044-an-impossible-trial",
   title: "044: An Impossible Trial?",
-  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  storySlug: "incremental-torture-an-idle-system-tower-climbing",
   position: 44,
   ownLength: 2139,
   unitSlug: "words",

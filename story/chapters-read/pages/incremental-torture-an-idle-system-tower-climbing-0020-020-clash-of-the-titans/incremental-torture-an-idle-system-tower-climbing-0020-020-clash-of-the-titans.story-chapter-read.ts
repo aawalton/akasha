@@ -5,7 +5,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing0020020ClashOfTheTitans 
   pageTypeSlug: "story-chapter-read",
   slug: "incremental-torture-an-idle-system-tower-climbing-0020-020-clash-of-the-titans",
   title: "020: Clash of the Titans",
-  partOfCollectionSlugs: ["incremental-torture-an-idle-system-tower-climbing"],
+  storySlug: "incremental-torture-an-idle-system-tower-climbing",
   position: 20,
   ownLength: 2217,
   unitSlug: "words",
