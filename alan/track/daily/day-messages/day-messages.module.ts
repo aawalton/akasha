@@ -30,10 +30,6 @@ export const dayMessages = {
     },
     {
       invariantKind: "departure",
-      statement: "A row naming its persona under either spelling of the key is read all the same.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A day with no page filed under it is no day to count against.",
     },
     {

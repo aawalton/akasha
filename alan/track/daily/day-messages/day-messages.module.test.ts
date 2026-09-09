@@ -26,17 +26,13 @@ test("a value that is no list is no count at all", () => {
 })
 
 test("a row missing a name is passed over", () => {
-  expect(countedIn([{ sent: 3 }, { personaSlug: "aura", sent: 4 }])).toEqual([
+  expect(countedIn([{ sent: 3 }, { persona: "aura", sent: 4 }])).toEqual([
     { persona: "aura", sent: 4 },
   ])
 })
 
 test("a row missing a count is passed over", () => {
-  expect(countedIn([{ personaSlug: "amy" }])).toEqual([])
-})
-
-test("a row naming its persona under either spelling of the key is read all the same", () => {
-  expect(countedIn([{ personaSlug: "aura", sent: 4 }])).toEqual([{ persona: "aura", sent: 4 }])
+  expect(countedIn([{ persona: "amy" }])).toEqual([])
 })
 
 test("a persona counted that day reads back her count", () => {
