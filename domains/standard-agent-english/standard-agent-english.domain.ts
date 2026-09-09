@@ -7,7 +7,7 @@ export const standardAgentEnglish = {
   slug: "standard-agent-english",
   definition: "the language akasha is allowed to write in",
   parts: [
-    "domain/standard-agent-english-term",
+    "domain/term",
     "domain/standard-agent-english-non-term",
     "page-type/standard-agent-english-property",
     "module/term-census",
