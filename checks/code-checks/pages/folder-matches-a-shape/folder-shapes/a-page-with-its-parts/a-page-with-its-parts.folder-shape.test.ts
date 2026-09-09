@@ -25,11 +25,12 @@ test("one page with the parts it is allowed takes the shape", () => {
     "pages/one.code-check.ts",
     "properties/two.text-property.ts",
     "modules/m/m.module.ts",
+    "sections/one.book-section.ts",
   ])
   expect(aPageWithItsParts(held(["code-check.page-type.ts"]))).toEqual([])
 })
 
-test("a subfolder other than modules, pages or properties is refused, however it is named", () => {
+test("a subfolder other than modules, pages, properties or sections is refused, however named", () => {
   const forItsPage = over(["model-checks/model-check.page-type.ts"])
   const said = aPageWithItsParts(forItsPage(["code-check.page-type.ts"]))
   expect(said).toHaveLength(1)
