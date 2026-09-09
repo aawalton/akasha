@@ -46,7 +46,7 @@ function disambiguated(base: string, monarchId: string, taken: ReadonlySet<strin
   return `${stem}-${monarchId.slice(-6)}`
 }
 
-const AHEAD = ["id", "pageTypeSlug", "slug", "title", "definition", "monarchId"]
+const AHEAD = ["id", "pageTypeSlug", "type", "slug", "title", "definition", "monarchId"]
 
 function ordered(value: Readonly<Record<string, unknown>>): readonly string[] {
   const rest = Object.keys(value).filter((key) => !AHEAD.includes(key))
@@ -86,6 +86,7 @@ function minted(pageTypeSlug: string, slug: string, wanted: Wanted, defined: boo
   return pageText(pageTypeSlug, {
     id: Bun.randomUUIDv7(),
     pageTypeSlug,
+    type: pageTypeSlug,
     slug,
     title: wanted.title,
     ...(defined ? { definition: wanted.definition } : {}),

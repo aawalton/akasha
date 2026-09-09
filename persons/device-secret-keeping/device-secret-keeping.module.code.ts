@@ -134,6 +134,7 @@ export function deviceSecretBody(page: DeviceSecretPage): string {
     `export const ${exportedAs(page.slug)} = {`,
     `  id: ${JSON.stringify(page.id)},`,
     `  pageTypeSlug: ${JSON.stringify(DEVICE_SECRET_PAGE_TYPE)},`,
+    `  type: ${JSON.stringify(DEVICE_SECRET_PAGE_TYPE)},`,
     `  slug: ${JSON.stringify(page.slug)},`,
     `  userId: ${JSON.stringify(page.userId)},`,
     `  deviceId: ${JSON.stringify(page.deviceId)},`,

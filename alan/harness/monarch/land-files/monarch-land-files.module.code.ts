@@ -137,6 +137,7 @@ function monthPage(slug: string): string {
     `export const ${exportedAs(slug)} = {`,
     `  id: "${Bun.randomUUIDv7()}",`,
     `  pageTypeSlug: "${typeSlugOf(AKASHA, MONARCH_MONTH_TYPE)}",`,
+    `  type: "${typeSlugOf(AKASHA, MONARCH_MONTH_TYPE)}",`,
     `  slug: "${slug}",`,
     `  title: ${JSON.stringify(name)},`,
     `  startsOn: "${covered}-01",`,

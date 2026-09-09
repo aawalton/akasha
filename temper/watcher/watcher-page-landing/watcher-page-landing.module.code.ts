@@ -160,6 +160,7 @@ export function pageBodyFor(
     `export const ${exportNameFor(slug)} = {`,
     `  id: ${JSON.stringify(id)},`,
     `  pageTypeSlug: ${JSON.stringify(pageTypeSlug)},`,
+    `  type: ${JSON.stringify(pageTypeSlug)},`,
     `  slug: ${JSON.stringify(slug)},`,
   ]
   for (const [key, value] of keys) lines.push(`  ${key}: ${JSON.stringify(value)},`)
