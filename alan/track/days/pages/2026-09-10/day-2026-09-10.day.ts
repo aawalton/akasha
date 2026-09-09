@@ -8,6 +8,6 @@ export const day20260910 = {
   title: "@date:2026-09-10",
   date: "2026-09-10",
   version: "3.0",
-  wisdomWords: 2149,
+  wisdomWords: 34893,
   intelligenceTopics: 0,
 } as const satisfies Day
