@@ -1178,12 +1178,6 @@
         "@akasha/k8s-types": "workspace:*",
       },
     },
-    "infrastructure/seaweedfs": {
-      "name": "@akasha/seaweedfs",
-      "dependencies": {
-        "@akasha/k8s-types": "workspace:*",
-      },
-    },
     "infrastructure/storage/object-store": {
       "name": "@akasha/object-store",
       "dependencies": {
@@ -3130,8 +3124,6 @@
     "@akasha/rules-engine": ["@akasha/rules-engine@workspace:alan/harness/rules-engine"],
 
     "@akasha/seat-system": ["@akasha/seat-system@workspace:seat-system"],
-
-    "@akasha/seaweedfs": ["@akasha/seaweedfs@workspace:infrastructure/seaweedfs"],
 
     "@akasha/service": ["@akasha/service@workspace:services"],
 

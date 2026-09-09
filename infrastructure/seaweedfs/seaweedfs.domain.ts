@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const seaweedfs = {
   id: "01a06816-68b1-73dc-970e-be70fec533a1",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "seaweedfs",
   definition: "the manifests the cluster's own object store is applied as",
-  manifest: "json",
   parts: [
     "manifest/seaweedfs-backup-assets",
     "manifest/seaweedfs-backup-bulk",
@@ -26,4 +25,4 @@ export const seaweedfs = {
     "module/seaweedfs-maintenance-manifests",
     "module/seaweedfs-prune-manifests",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

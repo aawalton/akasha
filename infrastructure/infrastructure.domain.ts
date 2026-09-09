@@ -24,7 +24,7 @@ export const infrastructure = {
     "workspace-package/postgres-annual-dump",
     "workspace-package/infrastructure-commands",
     "workspace-package/loki-service",
-    "workspace-package/seaweedfs",
+    "domain/seaweedfs",
   ],
   invariants: [
     {
