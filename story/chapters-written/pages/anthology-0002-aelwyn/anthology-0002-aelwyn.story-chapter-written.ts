@@ -5,7 +5,7 @@ export const anthology0002Aelwyn = {
   pageTypeSlug: "story-chapter-written",
   slug: "anthology-0002-aelwyn",
   title: "Aelwyn",
-  storySlug: "anthology",
+  story: "anthology",
   position: 2,
   ownLength: 4633,
   unitSlug: "words",

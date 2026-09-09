@@ -5,7 +5,7 @@ export const theBeholder001SomethingBorrowed = {
   pageTypeSlug: "story-chapter-written",
   slug: "the-beholder-001-something-borrowed",
   title: "Something Borrowed",
-  storySlug: "the-beholder",
+  story: "the-beholder",
   position: 1,
   ownLength: 2726,
   unitSlug: "words",

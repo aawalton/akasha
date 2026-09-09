@@ -5,7 +5,7 @@ export const cornerstone001BlindGround = {
   pageTypeSlug: "story-chapter-written",
   slug: "cornerstone-001-blind-ground",
   title: "Blind Ground",
-  storySlug: "cornerstone",
+  story: "cornerstone",
   position: 1,
   ownLength: 4805,
   unitSlug: "words",

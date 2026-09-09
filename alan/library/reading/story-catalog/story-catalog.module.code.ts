@@ -20,7 +20,7 @@ const STORY_TYPES = Object.keys(CHAPTER_TYPE_BY_STORY_TYPE)
 const STORY_KEY_BY_CHAPTER_TYPE: Readonly<Record<string, string>> = {
   "story-chapter-read": "storySlug",
   "story-chapter-played": "story",
-  "story-chapter-written": "storySlug",
+  "story-chapter-written": "story",
 }
 
 function storyKeyOf(chapterType: string): string {
