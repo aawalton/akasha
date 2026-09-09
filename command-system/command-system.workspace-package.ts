@@ -37,7 +37,6 @@ export const commandSystem = {
     "module/manifest-locking",
     "module/worked-typing",
     "module/address-mapping",
-    "module/source-globbing",
     "module/type-generating",
     "module/argument-reading",
     "module/body-merging",
