@@ -1,11 +1,11 @@
 import type { Module } from "../../code-system/modules/module.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { Addressed } from "./properties/addressed.file-property.ts"
-import type { ReachedSlug } from "./properties/reached-slug.relation-property.ts"
+import type { Reached } from "./properties/reached.relation-property.ts"
 
 export type ChangeRunner = Module & {
   addressed: Addressed
-  reachedSlug: ReachedSlug
+  reached: Reached
 }
 
 export const changeRunner = {
@@ -19,12 +19,12 @@ export const changeRunner = {
     "change-runner/mechanical-change-running",
     "module/change-loading",
     "file-property/addressed",
-    "relation-property/reached-slug",
+    "relation-property/reached",
   ],
   extendsSlug: ["page-type/module"],
   properties: [
     { pagePropertySlug: "file-property/addressed", required: true, many: false },
-    { pagePropertySlug: "relation-property/reached-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/reached", required: true, many: false },
   ],
   invariants: [
     {

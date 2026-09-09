@@ -7,7 +7,7 @@ export const agentChangeRunning = {
   definition: "the runner holding an agent change to the arguments that change takes",
   code: "ts",
   addressed: "ts",
-  reachedSlug: "page-type/change-agent",
+  reached: "page-type/change-agent",
   invariants: [
     {
       invariantKind: "departure",

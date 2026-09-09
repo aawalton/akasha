@@ -8,7 +8,7 @@ export const mechanicalChangeRunning = {
   code: "ts",
   test: "ts",
   addressed: "ts",
-  reachedSlug: "page-type/change-mechanical",
+  reached: "page-type/change-mechanical",
   invariants: [
     {
       invariantKind: "departure",
