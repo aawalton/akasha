@@ -21,7 +21,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "The `commands/` folder passes `folder-matches-a-shape`.",
       workingMemory:
-        "196 refusals over `commands/` at 440b43ad0a, of 1121 tree-wide. 194 say a folder opens with what the page above it is named, which is what fully qualified slugs make; the constraint on those and the shape rule disagree, and `folder-matches-a-shape` is a check Alan has. 2 say a folder has no page of its own, `commands` and `commands/pages`, and the `command` page type moving to `commands/` answers both.",
+        "3 refusals over `commands/` at 7616364866, of 630 tree-wide at dd6201f754, down from 196 of 1121 at 440b43ad0a. One of the 3 is the repository root, which the path filter also catches. The other 2 are `commands/pages` and `commands/modules`, each holding no page of its own — the refusal every `pages/` folder in the tree draws, so it is `folder-matches-a-shape`'s to answer, and that check is Alan's.",
     },
     {
       statement: "A command's folder sits inside its namespace's folder under `commands/pages/`.",
