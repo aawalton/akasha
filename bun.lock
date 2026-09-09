@@ -6,6 +6,7 @@
       "name": "akasha",
       "dependencies": {
         "@akasha/changes": "workspace:*",
+        "@akasha/cluster-manifests": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/comfy": "workspace:*",
         "@akasha/command-system": "workspace:*",
@@ -42,6 +43,7 @@
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
+        "@akasha/talos": "workspace:*",
         "@akasha/temper-addon-build": "workspace:*",
         "@akasha/temper-addon-data": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
@@ -923,14 +925,6 @@
         "@akasha/pages": "workspace:*",
         "yaml": "^2.8.0",
         "zod": "^4.3.6",
-      },
-    },
-    "infrastructure/commands": {
-      "name": "@akasha/infrastructure-commands",
-      "dependencies": {
-        "@akasha/cluster-manifests": "workspace:*",
-        "@akasha/command-system": "workspace:*",
-        "@akasha/talos": "workspace:*",
       },
     },
     "infrastructure/storage/object-store": {
@@ -2598,8 +2592,6 @@
     "@akasha/inference-pool": ["@akasha/inference-pool@workspace:inference/pool"],
 
     "@akasha/inference-runs": ["@akasha/inference-runs@workspace:inference/runs"],
-
-    "@akasha/infrastructure-commands": ["@akasha/infrastructure-commands@workspace:infrastructure/commands"],
 
     "@akasha/k8s-synth": ["@akasha/k8s-synth@workspace:infrastructure/cluster/k8s-synth"],
 

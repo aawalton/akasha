@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const infrastructureCommands = {
   id: "01a06809-a024-78cb-a37f-ff53624d76bd",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "infrastructure-commands",
   definition: "what an agent runs by name over what the system runs on",
-  manifest: "json",
   parts: [],
   invariants: [
     {
@@ -21,4 +20,4 @@ export const infrastructureCommands = {
       statement: "The RBAC rules a command here reads are in akasha.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

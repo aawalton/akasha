@@ -22,7 +22,7 @@ export const infrastructure = {
     "domain/resource-utilization",
     "domain/eso-rig",
     "domain/postgres-annual-dump",
-    "workspace-package/infrastructure-commands",
+    "domain/infrastructure-commands",
     "domain/loki-service",
     "domain/seaweedfs",
   ],
