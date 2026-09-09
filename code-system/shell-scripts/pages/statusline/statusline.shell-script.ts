@@ -3,6 +3,7 @@ import type { ShellScript } from "../../shell-script.page-type.ts"
 export const statusline = {
   id: "01a05849-ff1d-7137-9c84-ed12b05bd07c",
   pageTypeSlug: "shell-script",
+  type: "shell-script",
   slug: "statusline",
   definition: "the line under an agent's prompt saying what it is and what it has",
   shell: "sh",

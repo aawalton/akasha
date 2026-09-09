@@ -3,6 +3,7 @@ import type { ShellScript } from "@akasha/code/shell-script"
 export const preReceiveMainAppendOnly = {
   id: "01a06816-2f11-729c-b258-50cbded51bb9",
   pageTypeSlug: "shell-script",
+  type: "shell-script",
   slug: "pre-receive-main-append-only",
   definition: "a push to main refused unless main only goes forward",
   shell: "sh",

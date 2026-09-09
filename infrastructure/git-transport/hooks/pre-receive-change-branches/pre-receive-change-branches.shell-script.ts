@@ -3,6 +3,7 @@ import type { ShellScript } from "@akasha/code/shell-script"
 export const preReceiveChangeBranches = {
   id: "01a06816-2f11-7f55-8c92-79bf5163f688",
   pageTypeSlug: "shell-script",
+  type: "shell-script",
   slug: "pre-receive-change-branches",
   definition: "a push refused unless it names a change branch or moves main onto one",
   shell: "sh",

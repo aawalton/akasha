@@ -3,6 +3,7 @@ import type { ShellScript } from "../../shell-script.page-type.ts"
 export const reposEmptyDirPurge = {
   id: "01a06561-3c4d-7a18-b072-9e4c1d8f2a35",
   pageTypeSlug: "shell-script",
+  type: "shell-script",
   slug: "repos-empty-dir-purge",
   definition: "the empty directories under the repos folder taken away",
   shell: "sh",

@@ -3,6 +3,7 @@ import type { ShellScript } from "@akasha/code/shell-script"
 export const esoRigClusterPublish = {
   id: "01a06866-58f8-7b2d-a395-8fde2d4bc9ab",
   pageTypeSlug: "shell-script",
+  type: "shell-script",
   slug: "eso-rig-cluster-publish",
   definition: "the rig image built in the cluster and pushed to the cluster registry",
   shell: "sh",

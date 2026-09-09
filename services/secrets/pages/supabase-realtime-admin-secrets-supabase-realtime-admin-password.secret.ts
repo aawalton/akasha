@@ -3,6 +3,7 @@ import type { Secret } from "../secret.page-type.ts"
 export const supabaseRealtimeAdminSecretsSupabaseRealtimeAdminPassword = {
   id: "01a07699-fcc8-7fa7-b472-7fc397441e81",
   pageTypeSlug: "secret",
+  type: "secret",
   slug: "supabase-realtime-admin-secrets-supabase-realtime-admin-password",
   placements: [
     {

@@ -3,6 +3,7 @@ import type { Lualib } from "@akasha/code/lualib"
 export const arraySlice = {
   id: "01a081ed-ab46-73dd-ae99-208996ea044b",
   pageTypeSlug: "lualib",
+  type: "lualib",
   slug: "array-slice",
   definition: "the array of an array's elements between two indexes",
   code: "ts",

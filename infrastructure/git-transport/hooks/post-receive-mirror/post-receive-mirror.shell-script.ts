@@ -3,6 +3,7 @@ import type { ShellScript } from "@akasha/code/shell-script"
 export const postReceiveMirror = {
   id: "01a06816-2f11-7d8b-bc04-3b874435b755",
   pageTypeSlug: "shell-script",
+  type: "shell-script",
   slug: "post-receive-mirror",
   definition: "the repository copied out to the destination the repository declares",
   shell: "sh",

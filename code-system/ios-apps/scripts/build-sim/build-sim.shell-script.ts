@@ -3,6 +3,7 @@ import type { ShellScript } from "../../../shell-scripts/shell-script.page-type.
 export const buildSim = {
   id: "01a059c3-3841-7618-b81d-ab1c53725140",
   pageTypeSlug: "shell-script",
+  type: "shell-script",
   slug: "build-sim",
   definition: "what builds one app for a simulator and installs it there",
   shell: "sh",
