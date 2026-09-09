@@ -193,7 +193,7 @@ export const temperCraftingAddon = {
     "eso-interface/craft-store-style-layout",
     "eso-interface/potion-maker-layout",
   ],
-  interfaceSlugs: [
+  interfaces: [
     "craft-store-blueprint-layout",
     "craft-store-cook-layout",
     "craft-store-fonts",

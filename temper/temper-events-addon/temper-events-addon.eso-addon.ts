@@ -31,7 +31,7 @@ export const temperEventsAddon = {
     "type-declaration/next-boss-declarations",
     "type-declaration/next-boss-global-declarations",
   ],
-  interfaceSlugs: ["next-boss-layout"],
+  interfaces: ["next-boss-layout"],
   invariants: [
     {
       invariantKind: "departure",

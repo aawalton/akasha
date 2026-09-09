@@ -30,7 +30,7 @@ export const temperLibShifterBox = {
     "module/shifter-main",
     "eso-interface/shifter-box-template",
   ],
-  interfaceSlugs: ["shifter-box-template"],
+  interfaces: ["shifter-box-template"],
   invariants: [
     {
       invariantKind: "departure",

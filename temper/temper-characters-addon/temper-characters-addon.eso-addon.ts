@@ -84,7 +84,7 @@ export const temperCharactersAddon = {
     "module/characters-zone-completion",
     "type-declaration/characters-config-declarations",
   ],
-  interfaceSlugs: ["skill-point-finder-layout"],
+  interfaces: ["skill-point-finder-layout"],
   invariants: [
     {
       invariantKind: "departure",

@@ -249,7 +249,7 @@ export const temperLibSets = {
     "module/lib-sets-public-api",
     "module/lib-sets-main",
   ],
-  interfaceSlugs: [
+  interfaces: [
     "lib-sets-copy-text-dialog",
     "lib-sets-search-ui-shared-xml",
     "lib-sets-search-ui-keyboard-xml",

@@ -30,7 +30,7 @@ export const temperLibAddonMenuOrderListBox = {
     "type-declaration/order-list-box-published",
     "type-declaration/order-list-box-shape",
   ],
-  interfaceSlugs: ["eso-interface/lam-order-list-box-markup"],
+  interfaces: ["eso-interface/lam-order-list-box-markup"],
   invariants: [
     {
       invariantKind: "constraint",

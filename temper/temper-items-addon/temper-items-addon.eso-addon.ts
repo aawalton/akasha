@@ -10,7 +10,7 @@ export const temperItemsAddon = {
   addonManifest: "json",
   bindings: "xml",
   bundleEntry: "inventory-entry",
-  interfaceSlugs: ["inventory-browser-layout"],
+  interfaces: ["inventory-browser-layout"],
   luaModuleSlugs: ["lua-module/inventory-config-file"],
   partSlugs: [
     "eso-interface/inventory-browser-layout",

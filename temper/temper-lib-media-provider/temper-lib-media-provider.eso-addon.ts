@@ -30,7 +30,7 @@ export const temperLibMediaProvider = {
     "module/media-types",
     "type-declaration/media-declarations",
   ],
-  interfaceSlugs: [
+  interfaces: [
     "media-pc-fontpath",
     "media-console-fontpath",
     "media-fontstrings-shared",

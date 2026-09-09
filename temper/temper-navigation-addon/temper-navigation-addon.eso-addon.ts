@@ -334,7 +334,7 @@ export const temperNavigationAddon = {
     "type-declaration/minimap-string-ids",
     "type-declaration/navigation-declarations",
   ],
-  interfaceSlugs: ["minimap-animations"],
+  interfaces: ["minimap-animations"],
   invariants: [
     {
       invariantKind: "departure",

@@ -20,7 +20,7 @@ export const temperCollectionsAddon = {
     "module/collections-addon-names",
     "type-declaration/collections-addon-declarations",
   ],
-  interfaceSlugs: ["lorebooks-report-layout", "lost-treasure-map-layout", "item-browser-layout"],
+  interfaces: ["lorebooks-report-layout", "lost-treasure-map-layout", "item-browser-layout"],
   invariants: [
     {
       invariantKind: "departure",

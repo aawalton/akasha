@@ -34,7 +34,7 @@ export const temperLibExtendedJournal = {
     "type-declaration/journal-string-ids",
     "type-declaration/journal-saved-variables",
   ],
-  interfaceSlugs: ["journal-controls"],
+  interfaces: ["journal-controls"],
   invariants: [
     {
       invariantKind: "departure",
