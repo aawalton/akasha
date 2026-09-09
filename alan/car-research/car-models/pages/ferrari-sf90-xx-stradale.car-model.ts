@@ -16,5 +16,5 @@ export const ferrariSf90XxStradale = {
   sources:
     "- https://carbuzz.com/cars/ferrari/sf90-xx-stradale/\n- https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale\n- https://rossoautomobili.com/blogs/ferrari-models/2023-ferrari-sf90-xx-stradale",
   exclusionReason: "All years excluded",
-  carMakeSlug: "ferrari",
+  carMake: "ferrari",
 } as const satisfies CarModel

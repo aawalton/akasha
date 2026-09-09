@@ -16,5 +16,5 @@ export const maseratiGrecale = {
   sources:
     "- [Maserati US — Grecale](https://www.maserati.com/us/en/models/grecale)\n- [US News — 2025 Grecale](https://cars.usnews.com/cars-trucks/maserati/grecale)\n- [Bishop Maserati — 2025 Grecale specs](https://www.bishopmaserati.com/model-research/2025-maserati-grecale/)\n- [autoevolution — 2026 Grecale Modena V6](https://www.autoevolution.com/news/maserati-sends-2026-grecale-modena-v6-to-north-america-with-nettuno-singing-a-385-hp-opera-265153.html)\n- [duPont Registry — MY2025 Grecale updates](https://news.dupontregistry.com/blogs/maserati-news/maserati-reveals-my2025-grecale-updates)",
   exclusionReason: "All years excluded",
-  carMakeSlug: "maserati",
+  carMake: "maserati",
 } as const satisfies CarModel

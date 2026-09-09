@@ -16,5 +16,5 @@ export const karmaGyesera = {
   sources:
     "- https://carbuzz.com/2026-karma-gyesera-price-release-date/\n- https://www.motor1.com/news/710942/karma-gyesera-debut-specs/\n- https://www.topspeed.com/karma-gyesera-erev-debut/\n- https://greencarjournal.com/electric-cars/karma-gyesera-beauty-meets-efficiency/\n- https://www.netcarshow.com/karma/2026-gyesera/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "karma",
+  carMake: "karma",
 } as const satisfies CarModel

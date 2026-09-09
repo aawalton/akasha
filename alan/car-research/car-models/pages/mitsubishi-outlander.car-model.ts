@@ -16,5 +16,5 @@ export const mitsubishiOutlander = {
   sources:
     "- [Mitsubishi 2026 Outlander pricing release](https://media.mitsubishicars.com/en-US/releases/2026-outlander-full-pricing-and-packaging)\n- [Mitsubishi Outlander trims page](https://www.mitsubishicars.com/cars-and-suvs/outlander/trims)\n- [Autoblog 2026 Outlander MHEV coverage](https://www.autoblog.com/news/2026-mitsubishi-outlander-adds-mild-hybrid-power-while-staying-under-30k)\n- [Carscoops 2026 Outlander hybrid](https://www.carscoops.com/2026/04/2026-mitsubishi-outlander-hybrid/)\n- [CarBuzz 2026 Outlander pricing](https://carbuzz.com/2026-mitsubishi-outlander-pricing-packaging/)",
   exclusionReason: "All years excluded",
-  carMakeSlug: "mitsubishi",
+  carMake: "mitsubishi",
 } as const satisfies CarModel

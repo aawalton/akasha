@@ -16,5 +16,5 @@ export const acuraZdx = {
   sources:
     "1. https://www.acura.com/suvs/zdx/pricing-and-specs\n2. https://en.wikipedia.org/wiki/Acura_ZDX\n3. https://cars.usnews.com/cars-trucks/acura/zdx\n4. https://www.edmunds.com/acura/zdx/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "acura",
+  carMake: "acura",
 } as const satisfies CarModel

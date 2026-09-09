@@ -16,5 +16,5 @@ export const lucidGravity = {
   sources:
     "- https://lucidmotors.com/gravity\n- https://www.kbb.com/lucid/gravity/2026/specs/\n- https://cars.usnews.com/cars-trucks/lucid/gravity\n- https://www.truecar.com/overview/lucid/gravity/2026/\n- https://theweeklydriver.com/2026/04/lucid-gravity-touring-2026-preview/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "lucid",
+  carMake: "lucid",
 } as const satisfies CarModel

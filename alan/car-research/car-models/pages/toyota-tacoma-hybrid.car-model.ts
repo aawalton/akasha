@@ -16,5 +16,5 @@ export const toyotaTacomaHybrid = {
   sources:
     "- https://www.toyota.com/tacoma/\n- https://www.fueleconomy.gov/feg/bymodel/2025_Toyota_Tacoma_2WD.shtml",
   exclusionReason: "All years excluded",
-  carMakeSlug: "toyota",
+  carMake: "toyota",
 } as const satisfies CarModel

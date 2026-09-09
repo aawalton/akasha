@@ -15,5 +15,5 @@ export const hyundaiKonaElectric = {
   shortList: true,
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/kona-electric\n- https://www.hyundaiusa.com/us/en/vehicles/kona-electric/compare-specs\n- https://www.edmunds.com/hyundai/kona-electric/",
-  carMakeSlug: "hyundai",
+  carMake: "hyundai",
 } as const satisfies CarModel

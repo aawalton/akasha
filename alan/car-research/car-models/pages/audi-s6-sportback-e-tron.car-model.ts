@@ -16,5 +16,5 @@ export const audiS6SportbackETron = {
   sources:
     "- https://media.audiusa.com/models/s6-sportback-e-tron\n- https://insideevs.com/news/753393/2025-audi-a6-etron-us-price-range-specs/\n- https://media.audiusa.com/releases/643",
   exclusionReason: "All years excluded",
-  carMakeSlug: "audi",
+  carMake: "audi",
 } as const satisfies CarModel

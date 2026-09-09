@@ -16,5 +16,5 @@ export const cadillacOptiq = {
   sources:
     "- [Cadillac Optiq Official](https://www.cadillac.com/electric/optiq)\n- [Edmunds 2025 Optiq](https://www.edmunds.com/cadillac/optiq/2025/)\n- [Edmunds 2026 Optiq](https://www.edmunds.com/cadillac/optiq/)\n- [Recharged Optiq pricing](https://recharged.com/articles/cadillac-optiq-price)",
   exclusionReason: "All years excluded",
-  carMakeSlug: "cadillac",
+  carMake: "cadillac",
 } as const satisfies CarModel

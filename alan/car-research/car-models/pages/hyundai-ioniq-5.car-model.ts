@@ -15,5 +15,5 @@ export const hyundaiIoniq5 = {
   shortList: true,
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/ioniq-5\n- https://www.hyundaiusa.com/us/en/vehicles/ioniq-5/compare-specs\n- https://insideevs.com/news/758478/2025-hyundai-ioniq-5-tax-credit/\n- https://electrek.co/2025/05/04/its-back-hyundai-ioniq-5-qualifies-for-7500-tax-credit-again/",
-  carMakeSlug: "hyundai",
+  carMake: "hyundai",
 } as const satisfies CarModel

@@ -16,5 +16,5 @@ export const maseratiGranturismoFolgore = {
   sources:
     "- [Maserati US — GranTurismo Folgore](https://www.maserati.com/us/en/models/granturismo/granturismo-folgore)\n- [Cars.com — 2025 GranTurismo Folgore](https://www.cars.com/research/maserati-granturismo_folgore-2025/)\n- [InsideEVs — EPA range](https://insideevs.com/news/724923/maserati-granturismo-folgore-epa-range/)\n- [EV Database — GranTurismo Folgore](https://ev-database.org/car/1803/Maserati-GranTurismo-Folgore)\n- [TrueCar — 2026 GranTurismo Folgore](https://www.truecar.com/overview/maserati/granturismo-folgore/2026/)",
   exclusionReason: "All years excluded",
-  carMakeSlug: "maserati",
+  carMake: "maserati",
 } as const satisfies CarModel

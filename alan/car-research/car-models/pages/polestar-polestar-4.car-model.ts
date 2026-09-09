@@ -16,5 +16,5 @@ export const polestarPolestar4 = {
   sources:
     "- https://www.polestar.com/us/polestar-4/\n- https://www.polestar.com/us/polestar-4/specifications/\n- https://electrek.co/2025/06/03/2026-polestar-4-officially-on-sale-us-priced-slightly-higher/\n- https://media.polestar.com/us/en/media/pressreleases/691453/2026-polestar-4-electric-performance-suv-coupe-now-on-sale-in-the-united-states\n- https://en.wikipedia.org/wiki/Polestar_4\n- https://www.edmunds.com/polestar/4/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "polestar",
+  carMake: "polestar",
 } as const satisfies CarModel

@@ -16,5 +16,5 @@ export const bmwXm = {
   sources:
     "- BMW USA XM — https://www.bmwusa.com/vehicles/m-series/xm/bmw-xm.html\n- BMW Blog XM 2026 update — https://www.bmwblog.com/2026/01/14/2026-bmw-xm-price-cut-charging-updates/\n- Edmunds 2026 XM Label — https://www.edmunds.com/bmw/xm-label/\n- Edmunds 2025 XM — https://www.edmunds.com/bmw/xm/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "bmw",
+  carMake: "bmw",
 } as const satisfies CarModel

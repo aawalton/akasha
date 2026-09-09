@@ -16,5 +16,5 @@ export const astonMartinValhalla = {
   sources:
     "- Aston Martin USA: https://www.astonmartin.com/en-us/models/valhalla\n- Wikipedia: https://en.wikipedia.org/wiki/Aston_Martin_Valhalla\n- Motor1 first drive: https://www.motor1.com/reviews/791442/aston-martin-valhalla-first-drive-review/\n- WardsAuto technical data: https://www.wardsauto.com/news/aston-martin-releases-tech-data-on-1-000-hp-valhalla-hypercar/778308/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "aston-martin",
+  carMake: "aston-martin",
 } as const satisfies CarModel

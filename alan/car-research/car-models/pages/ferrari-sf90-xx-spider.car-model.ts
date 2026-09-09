@@ -16,5 +16,5 @@ export const ferrariSf90XxSpider = {
   sources:
     "- https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale\n- https://www.hagerty.com/valuation-tools/ferrari/sf90_xx_spider/2025/2025-ferrari-sf90_xx_spider",
   exclusionReason: "All years excluded",
-  carMakeSlug: "ferrari",
+  carMake: "ferrari",
 } as const satisfies CarModel

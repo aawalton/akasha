@@ -16,5 +16,5 @@ export const mercedesBenzAmgE53Hybrid = {
   sources:
     "- https://www.mbusa.com/en/vehicles/class/e-class/sedan\n- https://www.thecarconnection.com/cars/mercedes-benz_e-class\n- https://cars.usnews.com/cars-trucks/mercedes-benz/e-class",
   exclusionReason: "All years excluded",
-  carMakeSlug: "mercedes-benz",
+  carMake: "mercedes-benz",
 } as const satisfies CarModel

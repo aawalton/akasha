@@ -16,5 +16,5 @@ export const bmwM5 = {
   sources:
     "- BMW USA M5 Touring — https://www.bmwusa.com/vehicles/m-series/m5-series/bmw-m5-touring.html\n- BMW Blog M5 2026 specs — https://www.bmwblog.com/2025/10/04/bmw-m5-2026-specs-pricing/\n- Autoblog 2025 M5 Touring review — https://www.autoblog.com/reviews/2025-bmw-m5-touring-wagon-phev-review\n- Edmunds 2026 M5 — https://www.edmunds.com/bmw/m5/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "bmw",
+  carMake: "bmw",
 } as const satisfies CarModel

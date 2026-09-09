@@ -16,5 +16,5 @@ export const cadillacLyriq = {
   sources:
     "- [Cadillac Lyriq Official](https://www.cadillac.com/electric/lyriq)\n- [Edmunds 2025 Lyriq](https://www.edmunds.com/cadillac/lyriq/2025/)\n- [Edmunds 2026 Lyriq](https://www.edmunds.com/cadillac/lyriq/)\n- [KBB 2025 Lyriq](https://www.kbb.com/cadillac/lyriq/2025/)",
   exclusionReason: "All years excluded",
-  carMakeSlug: "cadillac",
+  carMake: "cadillac",
 } as const satisfies CarModel

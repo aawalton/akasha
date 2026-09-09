@@ -15,5 +15,5 @@ export const subaruSolterra = {
   shortList: true,
   sources:
     "- https://www.subaru.com/vehicles/solterra/2026.html\n- https://media.subaru.com/newsrelease.do?id=2376\n- https://media.subaru.com/pressrelease/2264/1/2025-subaru-solterra-press-kit&searchresult\n- https://www.edmunds.com/subaru/solterra/2026/features-specs/\n- https://www.iihs.org/ratings/vehicle/subaru/solterra-4-door-suv/2025",
-  carMakeSlug: "subaru",
+  carMake: "subaru",
 } as const satisfies CarModel

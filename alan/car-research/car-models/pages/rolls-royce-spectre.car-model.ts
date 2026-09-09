@@ -16,5 +16,5 @@ export const rollsRoyceSpectre = {
   sources:
     "- https://www.rolls-roycemotorcars.com/en_US/showroom/spectre.html\n- https://www.kbb.com/rolls-royce/spectre/\n- https://www.edmunds.com/rolls-royce/spectre/2025/\n- https://www.cars.com/research/rolls_royce-spectre-2025/specs/\n- https://insideevs.com/news/701477/2024-rolls-royce-spectre-epa-range/\n- https://insideevs.com/news/751063/rolls-royce-spectre-black-badge/\n- https://ev-database.org/car/1765/Rolls-Royce-Spectre",
   exclusionReason: "All years excluded",
-  carMakeSlug: "rolls-royce",
+  carMake: "rolls-royce",
 } as const satisfies CarModel

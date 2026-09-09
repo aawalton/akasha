@@ -16,5 +16,5 @@ export const lucidAir = {
   sources:
     "- https://lucidmotors.com/air\n- https://www.cars.com/research/lucid-air-2025/\n- https://cars.usnews.com/cars-trucks/lucid/air\n- https://www.kbb.com/lucid/air/2025/specs/\n- https://insideevs.com/news/708712/lucid-air-pure-price-cut/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "lucid",
+  carMake: "lucid",
 } as const satisfies CarModel

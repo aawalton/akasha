@@ -16,5 +16,5 @@ export const chevroletEquinoxEv = {
   sources:
     "- [Chevrolet Equinox EV product page](https://www.chevrolet.com/electric/equinox-ev)\n- [Edmunds 2025](https://www.edmunds.com/chevrolet/equinox-ev/2025/)\n- [Edmunds 2026](https://www.edmunds.com/chevrolet/equinox-ev/)\n- [Wikipedia Chevrolet Equinox EV](https://en.wikipedia.org/wiki/Chevrolet_Equinox_EV)",
   exclusionReason: "American car manufacturer — personal exclusion",
-  carMakeSlug: "chevrolet",
+  carMake: "chevrolet",
 } as const satisfies CarModel

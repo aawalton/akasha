@@ -16,5 +16,5 @@ export const ferrari296Speciale = {
   sources:
     "- https://www.ferrari.com/en-EN/auto/296-speciale\n- https://www.topgear.com/car-reviews/ferrari/296-speciale\n- https://en.wikipedia.org/wiki/Ferrari_296",
   exclusionReason: "All years excluded",
-  carMakeSlug: "ferrari",
+  carMake: "ferrari",
 } as const satisfies CarModel

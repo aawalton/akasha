@@ -16,5 +16,5 @@ export const mclarenW1 = {
   sources:
     "- https://cars.mclaren.com/us_en/W1\n- https://en.wikipedia.org/wiki/McLaren_W1\n- https://www.mclarenhouston.com/2026-mclaren-w1\n- https://hiconsumption.com/motors/2026-mclaren-w1-supercar/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "mclaren",
+  carMake: "mclaren",
 } as const satisfies CarModel

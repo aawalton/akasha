@@ -16,5 +16,5 @@ export const jeepWagoneerS = {
   sources:
     "- https://www.jeep.com/wagoneer/wagoneer-s.html\n- https://www.jeep.com/wagoneer/wagoneer-s/specs.html\n- https://www.edmunds.com/jeep/wagoneer-s/\n- https://www.kbb.com/jeep/wagoneer-s/2025/specs/\n- https://electrek.co/2026/04/21/jeep-shelves-ev-us-2026-promises-improvements/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "jeep",
+  carMake: "jeep",
 } as const satisfies CarModel

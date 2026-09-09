@@ -16,5 +16,5 @@ export const maseratiGrancabrioFolgore = {
   sources:
     "- [Maserati US — GranCabrio Folgore](https://www.maserati.com/us/en/models/grancabrio/grancabrio-folgore)\n- [Cars.com — 2025 GranCabrio Folgore](https://www.cars.com/research/maserati-grancabrio_folgore-2025/)\n- [Edmunds — GranCabrio Folgore](https://www.edmunds.com/maserati/grancabrio-folgore/)\n- [EV Database — GranCabrio Folgore](https://ev-database.org/uk/car/2187/Maserati-GranCabrio-Folgore)\n- [Autocar — 2026 GranCabrio Folgore review](https://www.autocar.co.uk/car-review/maserati/grancabrio-folgore)",
   exclusionReason: "All years excluded",
-  carMakeSlug: "maserati",
+  carMake: "maserati",
 } as const satisfies CarModel

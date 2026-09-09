@@ -16,5 +16,5 @@ export const fiat500e = {
   sources:
     "- https://www.fiatusa.com/models/500e\n- https://www.cars.com/research/fiat-500e-2025/\n- https://www.cars.com/research/fiat-500e-2026/\n- https://www.kbb.com/fiat/500e/2025/\n- https://www.carsdirect.com/automotive-news/2025-fiat-500e-price-cut-by-2-000",
   exclusionReason: "All years excluded",
-  carMakeSlug: "fiat",
+  carMake: "fiat",
 } as const satisfies CarModel

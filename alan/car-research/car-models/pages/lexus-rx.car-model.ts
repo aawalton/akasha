@@ -15,5 +15,5 @@ export const lexusRx = {
   shortList: false,
   sources: "- Lexus RX: https://www.lexus.com/models/RX\n- EPA",
   exclusionReason: "All years excluded",
-  carMakeSlug: "lexus",
+  carMake: "lexus",
 } as const satisfies CarModel

@@ -16,5 +16,5 @@ export const hyundaiTucsonPlugInHybrid = {
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/tucson-plug-in-hybrid\n- https://www.hyundaiusa.com/us/en/vehicles/tucson-plug-in-hybrid/compare-specs\n- https://www.kbb.com/hyundai/tucson-plug-in-hybrid/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "hyundai",
+  carMake: "hyundai",
 } as const satisfies CarModel

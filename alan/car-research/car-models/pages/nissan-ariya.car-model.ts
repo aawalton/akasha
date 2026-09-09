@@ -15,5 +15,5 @@ export const nissanAriya = {
   shortList: true,
   sources:
     "- Nissan USA Ariya: https://www.nissanusa.com/vehicles/electric-cars/ariya/specs-trims.html\n- Edmunds 2025 Ariya: https://www.edmunds.com/nissan/ariya/2025/trims/\n- IIHS: https://www.iihs.org/ratings/vehicle/nissan/ariya-4-door-suv/2025\n- Wikipedia: https://en.wikipedia.org/wiki/Nissan_Ariya\n- U.S. News 2025 review: https://cars.usnews.com/cars-trucks/nissan/ariya",
-  carMakeSlug: "nissan",
+  carMake: "nissan",
 } as const satisfies CarModel

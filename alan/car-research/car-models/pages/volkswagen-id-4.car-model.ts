@@ -16,5 +16,5 @@ export const volkswagenId4 = {
   sources:
     "- https://www.vw.com/en/models/id-4.html\n- https://www.edmunds.com/volkswagen/id4/\n- https://cars.usnews.com/cars-trucks/volkswagen/id-4\n- https://www.kbb.com/volkswagen/id4/\n- https://www.cars.com/articles/how-much-is-the-2026-volkswagen-id-4-519597/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "volkswagen",
+  carMake: "volkswagen",
 } as const satisfies CarModel

@@ -16,5 +16,5 @@ export const teslaCybertruck = {
   sources:
     "- https://en.wikipedia.org/wiki/Tesla_Cybertruck\n- https://www.edmunds.com/tesla/cybertruck/\n- https://www.kbb.com/tesla/cybertruck/2025/specs/\n- https://electrek.co/2025/03/20/tesla-recalls-all-cybertrucks-ever-made-over-trim-falling-off/\n- https://evchargingstations.com/chargingnews/2026-tesla-cybertruck/\n- https://recharged.com/articles/2025-tesla-cybertruck-recalls-list",
   exclusionReason: "All years excluded",
-  carMakeSlug: "tesla",
+  carMake: "tesla",
 } as const satisfies CarModel

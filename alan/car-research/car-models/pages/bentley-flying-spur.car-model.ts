@@ -16,5 +16,5 @@ export const bentleyFlyingSpur = {
   sources:
     "- https://www.bentleymotors.com/en/models/flying-spur.html\n- https://carbuzz.com/cars/bentley/flying-spur-speed/2025/\n- https://www.edmunds.com/bentley/flying-spur/\n- https://www.bentleymotors.com/en/models/flying-spur/flying-spur-mulliner.html",
   exclusionReason: "All years excluded",
-  carMakeSlug: "bentley",
+  carMake: "bentley",
 } as const satisfies CarModel

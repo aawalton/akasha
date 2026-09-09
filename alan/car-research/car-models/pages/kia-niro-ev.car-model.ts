@@ -15,5 +15,5 @@ export const kiaNiroEv = {
   shortList: true,
   sources:
     "https://www.kia.com/us/en/niro-ev\nhttps://www.kiamedia.com/us/en/models/niro-ev/2025/pricing\nhttps://cars.usnews.com/cars-trucks/kia/niro-ev\nhttps://www.edmunds.com/kia/niro-ev/2025/",
-  carMakeSlug: "kia",
+  carMake: "kia",
 } as const satisfies CarModel

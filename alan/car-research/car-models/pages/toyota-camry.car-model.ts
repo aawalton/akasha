@@ -16,5 +16,5 @@ export const toyotaCamry = {
   sources:
     "- https://www.toyota.com/camry/\n- https://pressroom.toyota.com/2025-toyota-camry/\n- https://www.fueleconomy.gov/feg/bymodel/2025_Toyota_Camry.shtml",
   exclusionReason: "All years excluded",
-  carMakeSlug: "toyota",
+  carMake: "toyota",
 } as const satisfies CarModel

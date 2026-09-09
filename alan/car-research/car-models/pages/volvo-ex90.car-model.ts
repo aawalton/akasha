@@ -17,5 +17,5 @@ export const volvoEx90 = {
     "- https://www.volvocars.com/us/cars/ex90-electric/specifications/\n- https://www.volvocars.com/us/media/press-releases/A2ED18400A01D55B/\n- https://www.edmunds.com/volvo/ex90/2026/\n- https://recharged.com/articles/volvo-ex90-software-update-history",
   exclusionReason:
     "All trims excluded for kill switch (interior-sensing impairment-detection system)",
-  carMakeSlug: "volvo",
+  carMake: "volvo",
 } as const satisfies CarModel

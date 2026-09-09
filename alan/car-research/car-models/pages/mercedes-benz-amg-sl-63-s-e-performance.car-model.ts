@@ -16,5 +16,5 @@ export const mercedesBenzAmgSl63SEPerformance = {
   sources:
     "- https://www.mbusa.com/en/vehicles/model/sl/roadster/sl63er4\n- https://www.cars.com/articles/the-2026-mercedes-amg-sl63-s-e-performance-is-a-stunningly-powerful-droptop-review-518315/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "mercedes-benz",
+  carMake: "mercedes-benz",
 } as const satisfies CarModel

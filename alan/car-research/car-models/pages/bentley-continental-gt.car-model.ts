@@ -16,5 +16,5 @@ export const bentleyContinentalGt = {
   sources:
     "- https://www.bentleymotors.com/en/models/continental-gt.html\n- https://carbuzz.com/cars/bentley/continental-gt-speed/2025/\n- https://carbuzz.com/cars/bentley/continental-gt/2026/\n- https://www.edmunds.com/bentley/continental/2025/st-402064470/features-specs/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "bentley",
+  carMake: "bentley",
 } as const satisfies CarModel

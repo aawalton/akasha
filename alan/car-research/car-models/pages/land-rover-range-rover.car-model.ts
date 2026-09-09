@@ -16,5 +16,5 @@ export const landRoverRangeRover = {
   sources:
     "- https://www.rangerover.com/en-us/range-rover/index.html\n- https://www.edmunds.com/land-rover/range-rover/2025/plug-in-hybrid/\n- https://www.edmunds.com/land-rover/range-rover/2026/\n- https://www.landroverofrichmond.com/tools-resources/range-rover-phev-the-powerful-p550e-and-p460e-powertrains\n- https://en.wikipedia.org/wiki/Range_Rover_(L460)",
   exclusionReason: "All years excluded",
-  carMakeSlug: "land-rover",
+  carMake: "land-rover",
 } as const satisfies CarModel

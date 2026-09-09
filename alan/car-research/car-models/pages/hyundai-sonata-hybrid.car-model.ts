@@ -16,5 +16,5 @@ export const hyundaiSonataHybrid = {
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/sonata\n- https://www.kbb.com/hyundai/sonata-hybrid/\n- https://cars.usnews.com/cars-trucks/hyundai/sonata-hybrid",
   exclusionReason: "All years excluded",
-  carMakeSlug: "hyundai",
+  carMake: "hyundai",
 } as const satisfies CarModel

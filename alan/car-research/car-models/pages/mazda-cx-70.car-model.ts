@@ -16,5 +16,5 @@ export const mazdaCx70 = {
   sources:
     "- Mazda USA CX-70: https://www.mazdausa.com/vehicles/cx-70\n- Edmunds 2025: https://www.edmunds.com/mazda/cx-70/\n- J.C. Lewis Mazda trim explainer: https://www.jclewismazda.com/mazda-cx-70/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "mazda",
+  carMake: "mazda",
 } as const satisfies CarModel

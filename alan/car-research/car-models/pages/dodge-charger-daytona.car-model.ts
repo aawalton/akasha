@@ -16,5 +16,5 @@ export const dodgeChargerDaytona = {
   sources:
     "- https://www.dodge.com/charger.html\n- https://www.cars.com/research/dodge-charger_daytona-2025/specs/\n- https://moparinsiders.com/2026-dodge-charger-daytona-buyers-guide-trims-pricing-specs-options-and-what-to-buy/\n- https://carbuzz.com/cars/dodge/charger-daytona/2025/specs-and-trims/\n- https://www.greencars.com/expert-insights/2026-dodge-charger-daytona-muscles-up-the-ev",
   exclusionReason: "All years excluded",
-  carMakeSlug: "dodge",
+  carMake: "dodge",
 } as const satisfies CarModel

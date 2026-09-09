@@ -16,5 +16,5 @@ export const lincolnNautilusHybrid = {
   sources:
     "- Lincoln Nautilus: https://www.lincoln.com/luxury-suvs/nautilus/\n- US News 2025: https://cars.usnews.com/cars-trucks/lincoln/nautilus-hybrid/2025\n- KBB 2025: https://www.kbb.com/lincoln/nautilus/2025/\n- The Drive review: https://www.thedrive.com/car-reviews/2025-lincoln-nautilus-hybrid-review",
   exclusionReason: "All years excluded",
-  carMakeSlug: "lincoln",
+  carMake: "lincoln",
 } as const satisfies CarModel

@@ -16,5 +16,5 @@ export const hondaPrologue = {
   sources:
     "- https://automobiles.honda.com/prologue\n- https://hondanews.com/en-US/honda-automobiles/releases/release-8fa536ee8b843d5cf766c58616009076-2026-honda-prologue-pricing-and-epa-ratings\n- https://www.edmunds.com/honda/prologue/\n- https://en.wikipedia.org/wiki/Honda_Prologue",
   exclusionReason: "All years excluded",
-  carMakeSlug: "honda",
+  carMake: "honda",
 } as const satisfies CarModel

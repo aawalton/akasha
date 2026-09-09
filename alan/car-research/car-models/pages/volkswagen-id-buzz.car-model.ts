@@ -16,5 +16,5 @@ export const volkswagenIdBuzz = {
   sources:
     "- https://www.vw.com/en/models/id-buzz.html\n- https://www.edmunds.com/volkswagen/id-buzz/\n- https://www.cars.com/articles/volkswagen-id-buzz-skips-u-s-market-for-2026-519884/\n- https://media.vw.com/releases/1894\n- https://www.vw.com/idhub/content/dam/onehub_pkw/importers/us/en/showrooms/id-buzz/2025/tech-specs/ID_Buzz_Pro_S_Technical_Data.pdf",
   exclusionReason: "All years excluded",
-  carMakeSlug: "volkswagen",
+  carMake: "volkswagen",
 } as const satisfies CarModel

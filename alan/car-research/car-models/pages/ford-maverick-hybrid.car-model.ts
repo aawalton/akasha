@@ -16,5 +16,5 @@ export const fordMaverickHybrid = {
   sources:
     "- [Ford.com Maverick 2026](https://www.ford.com/trucks/maverick/)\n- [Ford.com Maverick 2025](https://www.ford.com/trucks/maverick/2025/)\n- [Edmunds Maverick Hybrid](https://www.edmunds.com/ford/maverick/2026/hybrid/)\n- [SlashGear 2025 Maverick Hybrid review](https://www.slashgear.com/1927680/2025-ford-maverick-hybrid-review-price-performance-mpg/)",
   exclusionReason: "All years excluded",
-  carMakeSlug: "ford",
+  carMake: "ford",
 } as const satisfies CarModel

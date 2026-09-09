@@ -16,5 +16,5 @@ export const porscheMacanElectric = {
   sources:
     "- https://www.porsche.com/usa/models/macan/macan-electric-models/\n- https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2025&year2=2025&make=Porsche&baseModel=Macan%20Electric\n- https://www.caranddriver.com/porsche/macan-electric/specs",
   exclusionReason: "All years excluded",
-  carMakeSlug: "porsche",
+  carMake: "porsche",
 } as const satisfies CarModel

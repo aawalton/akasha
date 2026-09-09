@@ -16,5 +16,5 @@ export const mercedesBenzClaWithEqTechnology = {
   sources:
     "- https://www.mbusa.com/en/future-vehicles\n- https://carbuzz.com/mercedes-benz-ev-models-you-can-buy-in-2026/\n- https://www.topspeed.com/mercedes-benz-ambitious-lineup/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "mercedes-benz",
+  carMake: "mercedes-benz",
 } as const satisfies CarModel

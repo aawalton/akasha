@@ -16,5 +16,5 @@ export const teslaModelY = {
   sources:
     "- https://www.edmunds.com/tesla/model-y/\n- https://cars.usnews.com/cars-trucks/tesla/model-y\n- https://www.basenor.com/blogs/news/tesla-2026-model-3-model-y-lineup-revamped-full-pricing-what-to-do\n- https://xcarspace.com/tesla-model-y-juniper-2025-facelift-range-specs-pricing-expert-analysis/\n- https://en.wikipedia.org/wiki/Tesla_Model_Y\n- https://carbuzz.com/2025-tesla-model-y-iihs-top-safety-pick-plus/",
   exclusionReason: "Tesla / Elon Musk association — personal exclusion",
-  carMakeSlug: "tesla",
+  carMake: "tesla",
 } as const satisfies CarModel

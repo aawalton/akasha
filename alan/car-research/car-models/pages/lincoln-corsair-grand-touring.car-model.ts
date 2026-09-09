@@ -16,5 +16,5 @@ export const lincolnCorsairGrandTouring = {
   sources:
     "- Lincoln Corsair landing: https://www.lincoln.com/luxury-suvs/corsair/\n- 2026 Corsair Grand Touring spec page: https://www.lincoln.com/luxury-suvs/corsair/models/grand-touring-pzev/\n- Edmunds 2025 Corsair PHEV: https://www.edmunds.com/lincoln/corsair/2025/plug-in-hybrid/\n- Edmunds 2026 Corsair PHEV: https://www.edmunds.com/lincoln/corsair/2026/plug-in-hybrid/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "lincoln",
+  carMake: "lincoln",
 } as const satisfies CarModel

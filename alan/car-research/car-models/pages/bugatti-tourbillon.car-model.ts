@@ -16,5 +16,5 @@ export const bugattiTourbillon = {
   sources:
     "- Bugatti official Tourbillon page: https://www.bugatti.com/en/models/tourbillon\n- Wikipedia Bugatti Tourbillon: https://en.wikipedia.org/wiki/Bugatti_Tourbillon\n- Motor Authority Tourbillon reveal: https://www.motorauthority.com/news/1143588_bugatti-tourbillon-price-hp-photos-specs\n- Rimac Technology powertrain release: https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-powers-the-bugatti-tourbillon-with-cutting-edge-battery-and-powe\n- duPont Registry pricing/specs: https://news.dupontregistry.com/blogs/bugatti-news/bugatti-tourbillon-price-specs-photos",
   exclusionReason: "All years excluded",
-  carMakeSlug: "bugatti",
+  carMake: "bugatti",
 } as const satisfies CarModel

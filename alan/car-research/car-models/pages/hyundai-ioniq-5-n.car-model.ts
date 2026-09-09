@@ -16,5 +16,5 @@ export const hyundaiIoniq5N = {
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n\n- https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n/compare-specs\n- https://www.caranddriver.com/hyundai/ioniq-5-n",
   exclusionReason: "All years excluded",
-  carMakeSlug: "hyundai",
+  carMake: "hyundai",
 } as const satisfies CarModel

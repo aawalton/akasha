@@ -16,5 +16,5 @@ export const toyotaCrown = {
   sources:
     "- https://www.toyota.com/crown/\n- https://www.fueleconomy.gov/feg/bymodel/2025_Toyota_Crown.shtml",
   exclusionReason: "All years excluded",
-  carMakeSlug: "toyota",
+  carMake: "toyota",
 } as const satisfies CarModel

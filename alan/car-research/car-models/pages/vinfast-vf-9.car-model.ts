@@ -16,5 +16,5 @@ export const vinfastVf9 = {
   sources:
     "https://vinfastauto.us/vehicles/vf-9 https://insideevs.com/news/682806/vinfast-vf9-epa-rated-330-miles-range-starts-830000-usd/ https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2025&year2=2026&make=Vinfast https://www.consumerreports.org/cars/vinfast/vf-9/2025/reliability/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "vinfast",
+  carMake: "vinfast",
 } as const satisfies CarModel

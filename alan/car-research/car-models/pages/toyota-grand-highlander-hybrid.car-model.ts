@@ -16,5 +16,5 @@ export const toyotaGrandHighlanderHybrid = {
   sources:
     "- https://www.toyota.com/grandhighlanderhybrid/\n- https://www.fueleconomy.gov/feg/bymodel/2025_Toyota_Grand_Highlander_Hybrid.shtml",
   exclusionReason: "All years excluded",
-  carMakeSlug: "toyota",
+  carMake: "toyota",
 } as const satisfies CarModel

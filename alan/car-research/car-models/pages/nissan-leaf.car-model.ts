@@ -15,5 +15,5 @@ export const nissanLeaf = {
   shortList: true,
   sources:
     "- Nissan USA LEAF: https://www.nissanusa.com/vehicles/electric-cars/leaf/specs-trims.html\n- 2026 LEAF press kit: https://usa.nissannews.com/en-US/releases/2026-nissan-leaf-press-kit\n- Edmunds 2026 LEAF: https://www.edmunds.com/nissan/leaf/\n- Autoblog 2026 LEAF: https://www.autoblog.com/cars/nissan/leaf/2026\n- IIHS LEAF 2026: https://www.iihs.org/ratings/vehicle/nissan/leaf-4-door-hatchback/2026",
-  carMakeSlug: "nissan",
+  carMake: "nissan",
 } as const satisfies CarModel

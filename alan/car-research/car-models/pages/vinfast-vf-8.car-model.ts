@@ -16,5 +16,5 @@ export const vinfastVf8 = {
   sources:
     "https://vinfastauto.us/vehicles/vf-8 https://www.fueleconomy.gov/feg/PowerSearch.do?action=noform&path=1&year1=2025&year2=2026&make=Vinfast https://www.kbb.com/vinfast/vf-8/ https://www.edmunds.com/vinfast/vf-8/2025/ https://www.nhtsa.gov/vehicle/2023/VINFAST/VF8 https://www.consumerreports.org/cars/vinfast/vf-8/2025/reliability/",
   exclusionReason: "No US dealer/service network — no Utah presence",
-  carMakeSlug: "vinfast",
+  carMake: "vinfast",
 } as const satisfies CarModel

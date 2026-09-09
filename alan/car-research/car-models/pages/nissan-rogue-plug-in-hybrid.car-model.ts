@@ -16,5 +16,5 @@ export const nissanRoguePlugInHybrid = {
   sources:
     "- Nissan USA Rogue PHEV: https://www.nissanusa.com/vehicles/crossovers-suvs/rogue-plug-in-hybrid/specs-trims.html\n- 2026 Rogue PHEV press kit: https://usa.nissannews.com/en-US/releases/2026-nissan-rogue-plug-in-hybrid-press-kit\n- 2026 Rogue PHEV pricing: https://usa.nissannews.com/en-US/releases/2026-nissan-rogue-plug-in-hybrid-pricing-starts-at-45990\n- Edmunds 2026 Rogue PHEV: https://www.edmunds.com/nissan/rogue-plug-in-hybrid/\n- U.S. News first drive: https://cars.usnews.com/cars-trucks/advice/2026-nissan-rogue-phev-first-drive\n- Cars.com specs: https://www.cars.com/research/nissan-rogue_plug_in_hybrid-2026/specs/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "nissan",
+  carMake: "nissan",
 } as const satisfies CarModel

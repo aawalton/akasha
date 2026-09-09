@@ -16,5 +16,5 @@ export const gmcSierraEv = {
   sources:
     "- https://www.gmc.com/electric/sierra-ev\n- https://news.gm.com/home.detail.html/Pages/news/us/en/2025/mar/0327-2026-gmc-sierra-ev.html\n- https://news.gmc.com/newsroom.detail.html/Pages/news/us/en/2024/oct/1014-sierraev.html\n- https://www.edmunds.com/gmc/sierra-ev/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "gmc",
+  carMake: "gmc",
 } as const satisfies CarModel

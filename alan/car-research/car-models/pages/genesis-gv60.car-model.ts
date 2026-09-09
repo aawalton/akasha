@@ -16,5 +16,5 @@ export const genesisGv60 = {
   sources:
     "- [Genesis USA — GV60](https://www.genesis.com/us/en/gv60)\n- [Edmunds 2025 GV60 specs](https://www.edmunds.com/genesis/gv60/2025/features-specs/)\n- [Edmunds 2026 GV60 specs](https://www.edmunds.com/genesis/gv60/2026/features-specs/)\n- [KBB 2025 GV60](https://www.kbb.com/genesis/gv60/2025/specs/)\n- [CarBuzz 2026 GV60](https://carbuzz.com/cars/genesis/gv60/2026/specs-and-trims/)",
   exclusionReason: "All years excluded",
-  carMakeSlug: "genesis",
+  carMake: "genesis",
 } as const satisfies CarModel

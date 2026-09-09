@@ -16,5 +16,5 @@ export const jeepGrandCherokee4xe = {
   sources:
     "- https://www.jeep.com/grand-cherokee-4xe.html\n- https://cars.usnews.com/cars-trucks/jeep/grand-cherokee-4xe\n- https://www.edmunds.com/jeep/grand-cherokee-4xe/\n- https://www.cars.com/research/jeep-grand_cherokee_4xe-2025/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "jeep",
+  carMake: "jeep",
 } as const satisfies CarModel

@@ -16,5 +16,5 @@ export const ram1500 = {
   sources:
     "- https://www.ramtrucks.com/ram-1500.html\n- https://www.ramtrucks.com/2025/ram-1500.html\n- https://www.edmunds.com/ram/1500/\n- https://cars.usnews.com/cars-trucks/ram/1500\n- https://en.wikipedia.org/wiki/Ram_pickup",
   exclusionReason: "All years excluded",
-  carMakeSlug: "ram",
+  carMake: "ram",
 } as const satisfies CarModel

@@ -17,5 +17,5 @@ export const kiaEv6 = {
   sources:
     "https://www.kia.com/us/en/ev6\nhttps://www.kiamedia.com/us/en/models/ev6\nhttps://www.kia.com/us/en/ev6/specs-compare\nhttps://cars.usnews.com/cars-trucks/kia/ev6\nhttps://www.kiamedia.com/us/en/media/pressreleases/23210/kia-ev6-ev9-and-niro-owners-gain-access-to-over-21500-tesla-superchargers",
   exclusionReason: "All years excluded",
-  carMakeSlug: "kia",
+  carMake: "kia",
 } as const satisfies CarModel

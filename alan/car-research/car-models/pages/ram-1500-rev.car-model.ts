@@ -16,5 +16,5 @@ export const ram1500Rev = {
   sources:
     "- https://www.ramtrucks.com/electric/1500-rev.html\n- https://www.ramtrucks.com/electric/ram-1500-ramcharger.html\n- https://insideevs.com/news/751663/ramcharger-ev-and-ice-mpg/\n- https://en.wikipedia.org/wiki/Ram_1500_REV\n- https://www.cars.com/articles/2026-ram-1500-ramcharger-will-have-145-miles-of-electric-range-690-miles-of-hybrid-range-and-get-20-mpg-505597/\n- https://www.media.stellantis.com/em-en/ram/press/range-extended-ram-1500-ramcharger-to-lead-brand-s-electrification-push",
   exclusionReason: "All years excluded",
-  carMakeSlug: "ram",
+  carMake: "ram",
 } as const satisfies CarModel

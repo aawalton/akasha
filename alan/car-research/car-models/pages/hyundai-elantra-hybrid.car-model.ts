@@ -16,5 +16,5 @@ export const hyundaiElantraHybrid = {
   sources:
     "- https://www.hyundaiusa.com/us/en/vehicles/elantra-hybrid\n- https://www.hyundaiusa.com/us/en/vehicles/elantra-hybrid/compare-specs\n- https://www.edmunds.com/hyundai/elantra-hybrid/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "hyundai",
+  carMake: "hyundai",
 } as const satisfies CarModel

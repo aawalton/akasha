@@ -15,5 +15,5 @@ export const subaruTrailseeker = {
   shortList: true,
   sources:
     "- https://www.subaru.com/vehicles/trailseeker/2026.html\n- https://media.subaru.com/pressrelease/2397/1/all-new-2026-subaru-trailseeker-combines-375-horsepower\n- https://www.subaru.com/vehicles/trailseeker/2026/specs-trim.html\n- https://www.cargurus.com/research/articles/2026-subaru-trailseeker-pricing-specs-release-date",
-  carMakeSlug: "subaru",
+  carMake: "subaru",
 } as const satisfies CarModel

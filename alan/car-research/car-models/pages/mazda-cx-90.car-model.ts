@@ -16,5 +16,5 @@ export const mazdaCx90 = {
   sources:
     "- Mazda USA CX-90: https://www.mazdausa.com/vehicles/cx-90\n- Mazda USA news (2026 pricing): https://news.mazdausa.com/2025-09-04-2026-Mazda-CX-90-Pricing-and-Packaging\n- Edmunds: https://www.edmunds.com/mazda/cx-90/\n- CarGurus 2026 specs: https://www.cargurus.com/research/articles/2026-mazda-cx-90-pricing-specs-release-date",
   exclusionReason: "All years excluded",
-  carMakeSlug: "mazda",
+  carMake: "mazda",
 } as const satisfies CarModel

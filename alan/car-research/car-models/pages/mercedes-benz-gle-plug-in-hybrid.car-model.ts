@@ -16,5 +16,5 @@ export const mercedesBenzGlePlugInHybrid = {
   sources:
     "- https://www.mbusa.com/en/vehicles/model/gle/suv/gle450e4\n- https://www.edmunds.com/mercedes-benz/gle/2026/plug-in-hybrid/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "mercedes-benz",
+  carMake: "mercedes-benz",
 } as const satisfies CarModel

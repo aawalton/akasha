@@ -16,5 +16,5 @@ export const mercedesBenzEqsSedan = {
   sources:
     "- https://www.mbusa.com/en/vehicles/class/eqs/sedan\n- https://www.kbb.com/mercedes-benz/mercedes-eq-eqs/\n- https://cars.usnews.com/cars-trucks/mercedes-benz/eqs-sedan",
   exclusionReason: "All years excluded",
-  carMakeSlug: "mercedes-benz",
+  carMake: "mercedes-benz",
 } as const satisfies CarModel

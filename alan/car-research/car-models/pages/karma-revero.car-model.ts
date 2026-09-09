@@ -16,5 +16,5 @@ export const karmaRevero = {
   sources:
     "- https://karmaautomotive.com/revero/\n- https://karmaautomotive.com/news/karma-automotives-new-era-dawns/\n- https://en.wikipedia.org/wiki/Karma_Revero\n- https://www.kbb.com/karma/revero/2025/specs/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "karma",
+  carMake: "karma",
 } as const satisfies CarModel

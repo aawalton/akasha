@@ -16,5 +16,5 @@ export const mazdaCx50Hybrid = {
   sources:
     "- Mazda USA CX-50 Hybrid: https://www.mazdausa.com/vehicles/cx-50-hybrid\n- Mazda USA news (2026 pricing): https://news.mazdausa.com/2025-09-16-2026-Mazda-CX-50-Pricing-and-Packaging\n- Edmunds 2026 Hybrid: https://www.edmunds.com/mazda/cx-50/2026/hybrid/\n- Green Car Reports drive review: https://www.greencarreports.com/news/1144995_2025-mazda-cx-50-hybrid-test-drive-review",
   exclusionReason: "All years excluded",
-  carMakeSlug: "mazda",
+  carMake: "mazda",
 } as const satisfies CarModel

@@ -16,5 +16,5 @@ export const ferrari296SpecialeA = {
   sources:
     "- https://en.wikipedia.org/wiki/Ferrari_296\n- https://www.encycarpedia.com/us/ferrari/25-296-speciale-aperta-convertible\n- https://www.autoevolution.com/cars/ferrari-296-speciale-a-2025.html",
   exclusionReason: "All years excluded",
-  carMakeSlug: "ferrari",
+  carMake: "ferrari",
 } as const satisfies CarModel

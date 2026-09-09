@@ -2,7 +2,7 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { Car } from "../cars/car.page-type.ts"
 import type { BodyStyle } from "./properties/body-style.text-property.ts"
-import type { CarMakeSlug } from "./properties/car-make-slug.relation-property.ts"
+import type { CarMake } from "./properties/car-make.relation-property.ts"
 import type { Generation } from "./properties/generation.text-property.ts"
 import type { ModelYearsAvailable } from "./properties/model-years-available.text-property.ts"
 import type { Overview } from "./properties/overview.text-property.ts"
@@ -17,7 +17,7 @@ export type CarModel = Car & {
   overview: Overview
   powertrainOptions: readonly PowertrainOptions[]
   segment: Segment
-  carMakeSlug: CarMakeSlug
+  carMake: CarMake
 }
 
 export const carModel = {
@@ -28,7 +28,7 @@ export const carModel = {
   pluralSlug: "car-models",
   extendsSlug: ["page-type/car"],
   partSlugs: [
-    "relation-property/car-make-slug",
+    "relation-property/car-make",
     "text-property/body-style",
     "text-property/generation",
     "text-property/model-years-available",
@@ -48,7 +48,7 @@ export const carModel = {
       maxCount: null,
     },
     { pagePropertySlug: "text-property/segment", required: true, many: false },
-    { pagePropertySlug: "relation-property/car-make-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/car-make", required: true, many: false },
   ],
   invariants: [
     {

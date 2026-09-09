@@ -16,5 +16,5 @@ export const toyotaRav4Prime = {
   sources:
     "- https://www.toyota.com/rav4prime/\n- https://pressroom.toyota.com/2025-toyota-rav4-prime/\n- https://www.fueleconomy.gov/feg/bymodel/2025_Toyota_RAV4_Prime.shtml",
   exclusionReason: "All years excluded",
-  carMakeSlug: "toyota",
+  carMake: "toyota",
 } as const satisfies CarModel

@@ -16,5 +16,5 @@ export const bmwX5 = {
   sources:
     "- BMW USA — https://www.bmwusa.com/vehicles/x-series/x5/bmw-x5.html\n- BMW Blog X5 xDrive50e review — https://www.bmwblog.com/2025/12/07/bmw-x5-xdrive50e-review-range-charging-performance/\n- Edmunds 2026 X5 PHEV — https://www.edmunds.com/bmw/x5/2026/plug-in-hybrid/\n- KBB 2026 X5 xDrive50e — https://www.kbb.com/bmw/x5/2026/xdrive50e/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "bmw",
+  carMake: "bmw",
 } as const satisfies CarModel

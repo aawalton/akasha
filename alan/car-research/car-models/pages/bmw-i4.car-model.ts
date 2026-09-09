@@ -16,5 +16,5 @@ export const bmwI4 = {
   sources:
     "- BMW USA — https://www.bmwusa.com/vehicles/bmw-i-series/i4/bmw-i4-gran-coupe.html\n- BMW press 2026 i4 — https://www.press.bmwgroup.com/usa/article/detail/T0453773EN_US/\n- BMW Blog 2026 i4 update — https://www.bmwblog.com/2025/12/11/2026-bmw-i4-power-range-updates/\n- Edmunds 2026 BMW i4 — https://www.edmunds.com/bmw/i4/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "bmw",
+  carMake: "bmw",
 } as const satisfies CarModel

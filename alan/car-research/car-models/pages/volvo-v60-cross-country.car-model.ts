@@ -16,5 +16,5 @@ export const volvoV60CrossCountry = {
   sources:
     "- https://www.volvocars.com/us/cars/v60-cross-country/\n- https://www.edmunds.com/volvo/v60-cross-country/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "volvo",
+  carMake: "volvo",
 } as const satisfies CarModel

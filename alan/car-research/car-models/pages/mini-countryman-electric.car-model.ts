@@ -15,5 +15,5 @@ export const miniCountrymanElectric = {
   shortList: true,
   sources:
     "- MINI USA Countryman Electric: https://www.miniusa.com/model/electric-vehicles/countryman.html\n- BMW Group press (MY2026 MINI lineup, SE ALL4 carryover note): https://www.press.bmwgroup.com/usa/article/detail/T0450606EN_US/model-year-2026-mini-lineup-pricing-and-equipment-updates\n- InsideEVs (MY2025 pricing/specs): https://insideevs.com/news/729369/2025-mini-countryman-se-all4-pricing-specs-overview/\n- Consumer Reports first drive: https://www.consumerreports.org/cars/hybrids-evs/2025-mini-countryman-se-review-a1124603539/\n- IIHS 2025 Countryman: https://www.iihs.org/ratings/vehicle/mini/countryman-4-door-suv/2025",
-  carMakeSlug: "mini",
+  carMake: "mini",
 } as const satisfies CarModel

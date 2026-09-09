@@ -16,5 +16,5 @@ export const toyotaCrownSignia = {
   sources:
     "- https://www.toyota.com/crownsignia/\n- https://pressroom.toyota.com/2025-toyota-crown-signia/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "toyota",
+  carMake: "toyota",
 } as const satisfies CarModel

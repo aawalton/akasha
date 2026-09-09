@@ -16,5 +16,5 @@ export const bmwI7 = {
   sources:
     "- BMW USA — https://www.bmwusa.com/vehicles/bmw-i-series/i7/bmw-i7.html\n- Edmunds — https://www.edmunds.com/bmw/i7/\n- US News — https://cars.usnews.com/cars-trucks/bmw/i7/2026\n- Autoblog — https://www.autoblog.com/cars/bmw/i7/2026",
   exclusionReason: "All years excluded",
-  carMakeSlug: "bmw",
+  carMake: "bmw",
 } as const satisfies CarModel

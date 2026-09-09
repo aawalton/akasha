@@ -16,5 +16,5 @@ export const lotusEmeya = {
   sources:
     "- [Lotus Cars US — Emeya](https://www.lotuscars.com/en-US/emeya)\n- [Electrek — 2026 trim revamp](https://electrek.co/2025/04/02/lotus-revamps-2026-emeya-eletre-evs-dozen-new-trims-standard-features/)\n- [InsideEVs — 2025 Emeya first drive](https://insideevs.com/reviews/725170/lotus-emeya-first-drive-review/)\n- [Top Gear — Emeya 2026 review](https://www.topgear.com/car-reviews/lotus/emeya)\n- [EV Database — Emeya R](https://ev-database.org/car/2143/Lotus-Emeya-R)",
   exclusionReason: "All years excluded",
-  carMakeSlug: "lotus",
+  carMake: "lotus",
 } as const satisfies CarModel

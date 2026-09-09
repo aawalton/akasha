@@ -16,5 +16,5 @@ export const chryslerPacificaHybrid = {
   sources:
     "- https://www.chrysler.com/pacifica/hybrid/specs.plugin-hybrid-select.html\n- https://www.chrysler.com/pacifica/hybrid/specs.plugin-hybrid-pinnacle.html\n- https://www.edmunds.com/chrysler/pacifica/2026/plug-in-hybrid/\n- https://www.edmunds.com/chrysler/pacifica/2025/plug-in-hybrid/\n- https://www.kbb.com/chrysler/pacifica-hybrid/\n- https://cars.usnews.com/cars-trucks/chrysler/pacifica-hybrid\n- https://www.iihs.org/ratings/vehicle/chrysler/pacifica-hybrid-minivan/2026\n- https://www.cars.com/articles/stellantis-discontinues-chrysler-and-jeep-plug-in-hybrid-vehicles-520181/",
   exclusionReason: "All years excluded",
-  carMakeSlug: "chrysler",
+  carMake: "chrysler",
 } as const satisfies CarModel
