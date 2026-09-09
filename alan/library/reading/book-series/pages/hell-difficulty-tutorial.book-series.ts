@@ -6,7 +6,7 @@ export const hellDifficultyTutorial = {
   slug: "hell-difficulty-tutorial",
   title: "Hell Difficulty Tutorial",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0CRT37F6S",
   externalLink: "https://www.amazon.com/dp/B0CRT37F6S",

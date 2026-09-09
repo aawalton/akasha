@@ -6,7 +6,7 @@ export const anOutcastInAnotherWorld = {
   slug: "an-outcast-in-another-world",
   title: "An Outcast In Another World",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B09FZ1P41X",
   externalLink: "https://www.amazon.com/dp/B09FZ1P41X",

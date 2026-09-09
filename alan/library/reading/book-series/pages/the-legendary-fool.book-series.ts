@@ -6,7 +6,7 @@ export const theLegendaryFool = {
   slug: "the-legendary-fool",
   title: "The Legendary Fool",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0DB23X26X",
   externalLink: "https://www.amazon.com/dp/B0DB23X26X",

@@ -6,7 +6,7 @@ export const honorHarringtonWorldsOfHonor = {
   slug: "honor-harrington-worlds-of-honor",
   title: "Honor Harrington - Worlds of Honor",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0DBVS4JMV",
   externalLink: "https://www.amazon.com/dp/B0DBVS4JMV",

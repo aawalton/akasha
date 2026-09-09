@@ -6,7 +6,7 @@ export const honorHarringtonSaganamiIsland = {
   slug: "honor-harrington-saganami-island",
   title: "Honor Harrington: Saganami Island",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0C3ZWGVHG",
   externalLink: "https://www.amazon.com/dp/B0C3ZWGVHG",

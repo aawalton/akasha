@@ -6,7 +6,7 @@ export const rama = {
   slug: "rama",
   title: "Rama",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B074CFVLTD",
   externalLink: "https://www.amazon.com/dp/B074CFVLTD",

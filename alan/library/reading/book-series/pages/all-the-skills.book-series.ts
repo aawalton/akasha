@@ -6,7 +6,7 @@ export const allTheSkills = {
   slug: "all-the-skills",
   title: "All The Skills",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0CHXGPPG4",
   externalLink: "https://www.amazon.com/dp/B0CHXGPPG4",

@@ -6,7 +6,7 @@ export const cinnamonBun = {
   slug: "cinnamon-bun",
   title: "Cinnamon Bun",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0BPTDKDS4",
   externalLink: "https://www.amazon.com/dp/B0BPTDKDS4",

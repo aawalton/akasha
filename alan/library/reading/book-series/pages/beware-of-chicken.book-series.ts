@@ -6,7 +6,7 @@ export const bewareOfChicken = {
   slug: "beware-of-chicken",
   title: "Beware of Chicken",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0BPX1DX87",
   externalLink: "https://www.amazon.com/dp/B0BPX1DX87",

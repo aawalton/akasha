@@ -6,7 +6,7 @@ export const robertLangdon = {
   slug: "robert-langdon",
   title: "Robert Langdon",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B075V6WJ9X",
   externalLink: "https://www.amazon.com/dp/B075V6WJ9X",

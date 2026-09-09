@@ -6,7 +6,7 @@ export const destinyCycleForgeOfDestiny = {
   slug: "destiny-cycle-forge-of-destiny",
   title: "Destiny Cycle: Forge of Destiny",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0FR5DYKSX",
   externalLink: "https://www.amazon.com/dp/B0FR5DYKSX",

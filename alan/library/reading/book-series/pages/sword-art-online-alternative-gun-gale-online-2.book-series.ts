@@ -6,7 +6,7 @@ export const swordArtOnlineAlternativeGunGaleOnline2 = {
   slug: "sword-art-online-alternative-gun-gale-online-2",
   title: "Sword Art Online Alternative Gun Gale Online",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0896XDLSC",
   externalLink: "https://www.amazon.com/dp/B0896XDLSC",

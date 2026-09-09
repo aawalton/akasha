@@ -7,7 +7,7 @@ export const awakenOnline = {
   title: "Awaken Online",
   status: "following",
   rank: "A",
-  unitSlug: "words",
+  unit: "words",
   maturityRating: "R",
   source: "kindle",
   externalId: "B074CC5NDX",

@@ -7,7 +7,7 @@ export const theTower00058 = {
   partOfCollections: ["story-played/the-tower"],
   position: 58,
   ownLength: 391,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-17T06:00:34.838Z",
   prose: "txt",
 } as const satisfies StoryTurnPlayed

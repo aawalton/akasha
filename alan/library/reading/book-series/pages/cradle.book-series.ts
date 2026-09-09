@@ -6,7 +6,7 @@ export const cradle = {
   slug: "cradle",
   title: "Cradle",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0753FP6SP",
   externalLink: "https://www.amazon.com/dp/B0753FP6SP",

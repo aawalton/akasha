@@ -6,7 +6,7 @@ export const aThousandLi = {
   slug: "a-thousand-li",
   title: "A Thousand Li",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B07VXJFRFV",
   externalLink: "https://www.amazon.com/dp/B07VXJFRFV",

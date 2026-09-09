@@ -6,7 +6,7 @@ export const rwby3 = {
   slug: "rwby-3",
   title: "RWBY",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0856X7L67",
   externalLink: "https://www.amazon.com/dp/B0856X7L67",

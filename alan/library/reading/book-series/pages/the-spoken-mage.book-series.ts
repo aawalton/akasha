@@ -6,7 +6,7 @@ export const theSpokenMage = {
   slug: "the-spoken-mage",
   title: "The Spoken Mage",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B07MB9K2GY",
   externalLink: "https://www.amazon.com/dp/B07MB9K2GY",

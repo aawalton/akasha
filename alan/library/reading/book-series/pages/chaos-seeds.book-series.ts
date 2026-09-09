@@ -7,7 +7,7 @@ export const chaosSeeds = {
   title: "Chaos Seeds",
   status: "completed",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B074C4RFZN",
   externalLink: "https://www.amazon.com/dp/B074C4RFZN",

@@ -6,7 +6,7 @@ export const riseOfTheDevourer = {
   slug: "rise-of-the-devourer",
   title: "Rise of the Devourer",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0CKZJHF29",
   externalLink: "https://www.amazon.com/dp/B0CKZJHF29",

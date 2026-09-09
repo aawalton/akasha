@@ -6,7 +6,7 @@ export const marsTrilogy = {
   slug: "mars-trilogy",
   title: "Mars Trilogy",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B075V8LBPP",
   externalLink: "https://www.amazon.com/dp/B075V8LBPP",

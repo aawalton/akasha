@@ -6,7 +6,7 @@ export const fantasticBeasts = {
   slug: "fantastic-beasts",
   title: "Fantastic Beasts",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   source: "kindle",
   externalId: "B09D7RDCHY",

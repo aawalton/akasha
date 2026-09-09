@@ -6,7 +6,7 @@ export const beneathTheDragoneyeMoons = {
   slug: "beneath-the-dragoneye-moons",
   title: "Beneath the Dragoneye Moons",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0DT7G27HH",
   externalLink: "https://www.amazon.com/B0DT7G27HH",

@@ -9,6 +9,6 @@ export const scienceClassics = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "paused",
 } as const satisfies BookCollection

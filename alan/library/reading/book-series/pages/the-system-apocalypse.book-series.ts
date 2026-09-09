@@ -6,7 +6,7 @@ export const theSystemApocalypse = {
   slug: "the-system-apocalypse",
   title: "The System Apocalypse",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B077LNLSZ7",
   externalLink: "https://www.amazon.com/dp/B077LNLSZ7",

@@ -6,7 +6,7 @@ export const dragonHeart = {
   slug: "dragon-heart",
   title: "Dragon Heart",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B07TXD7F8V",
   externalLink: "https://www.amazon.com/dp/B07TXD7F8V",

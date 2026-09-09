@@ -6,7 +6,7 @@ export const theCompletionistChronicles = {
   slug: "the-completionist-chronicles",
   title: "The Completionist Chronicles",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0BFM8RBTM",
   externalLink: "https://www.amazon.com/dp/B0BFM8RBTM",

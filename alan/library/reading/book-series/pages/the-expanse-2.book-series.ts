@@ -6,7 +6,7 @@ export const theExpanse2 = {
   slug: "the-expanse-2",
   title: "The Expanse",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B09DD17H3N",
   externalLink: "https://www.amazon.com/dp/B09DD17H3N",

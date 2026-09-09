@@ -9,7 +9,7 @@ export const swordArtOnlineBooks = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "following",
   rank: "B",
 } as const satisfies BookCollection

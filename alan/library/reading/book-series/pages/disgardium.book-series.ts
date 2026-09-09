@@ -6,7 +6,7 @@ export const disgardium = {
   slug: "disgardium",
   title: "Disgardium",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B07Q6M246J",
   externalLink: "https://www.amazon.com/dp/B07Q6M246J",

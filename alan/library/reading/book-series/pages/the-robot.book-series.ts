@@ -6,7 +6,7 @@ export const theRobot = {
   slug: "the-robot",
   title: "The Robot",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B088NK26KX",
   externalLink: "https://www.amazon.com/dp/B088NK26KX",

@@ -6,7 +6,7 @@ export const markOfTheFool = {
   slug: "mark-of-the-fool",
   title: "Mark of the Fool",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0BD696T86",
   externalLink: "https://www.amazon.com/dp/B0BD696T86",

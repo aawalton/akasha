@@ -9,6 +9,6 @@ export const wilfordWoodruff = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
 } as const satisfies Author

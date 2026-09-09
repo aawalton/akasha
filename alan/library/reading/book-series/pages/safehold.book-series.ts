@@ -6,7 +6,7 @@ export const safehold = {
   slug: "safehold",
   title: "Safehold",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B074C72647",
   externalLink: "https://www.amazon.com/dp/B074C72647",

@@ -9,7 +9,7 @@ export const theLostRoadAndOtherWritings = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   publishedAt: "1987-01-01",
 } as const satisfies BookCollection

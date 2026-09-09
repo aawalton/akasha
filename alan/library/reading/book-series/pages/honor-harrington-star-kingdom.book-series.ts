@@ -6,7 +6,7 @@ export const honorHarringtonStarKingdom = {
   slug: "honor-harrington-star-kingdom",
   title: "Honor Harrington - Star Kingdom",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0C3ZXFN8C",
   externalLink: "https://www.amazon.com/dp/B0C3ZXFN8C",

@@ -6,7 +6,7 @@ export const alteredRealms = {
   slug: "altered-realms",
   title: "Altered Realms",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0881H29XP",
   externalLink: "https://www.amazon.com/dp/B0881H29XP",

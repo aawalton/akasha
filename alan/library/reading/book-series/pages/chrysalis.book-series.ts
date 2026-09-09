@@ -6,7 +6,7 @@ export const chrysalis = {
   slug: "chrysalis",
   title: "Chrysalis",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0B2CM6GXM",
   externalLink: "https://www.amazon.com/dp/B0B2CM6GXM",

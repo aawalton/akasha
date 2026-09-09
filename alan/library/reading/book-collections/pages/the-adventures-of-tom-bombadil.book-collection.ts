@@ -9,7 +9,7 @@ export const theAdventuresOfTomBombadil = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   publishedAt: "1962-11-22",
 } as const satisfies BookCollection

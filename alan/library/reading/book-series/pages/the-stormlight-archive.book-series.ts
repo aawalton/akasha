@@ -6,7 +6,7 @@ export const theStormlightArchive = {
   slug: "the-stormlight-archive",
   title: "The Stormlight Archive",
   status: "paused",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   source: "kindle",
   externalId: "B074CBP9DY",

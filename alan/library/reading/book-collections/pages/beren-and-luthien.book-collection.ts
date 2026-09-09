@@ -9,7 +9,7 @@ export const berenAndLuthien = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   publishedAt: "2017-05-04",
 } as const satisfies BookCollection

@@ -6,7 +6,7 @@ export const theReckoners = {
   slug: "the-reckoners",
   title: "The Reckoners",
   status: "paused",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   source: "kindle",
   externalId: "B09C1YZTSV",

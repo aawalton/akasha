@@ -6,7 +6,7 @@ export const somniaOnline = {
   slug: "somnia-online",
   title: "Somnia Online",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B07GVDX3G8",
   externalLink: "https://www.amazon.com/dp/B07GVDX3G8",

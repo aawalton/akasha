@@ -6,7 +6,7 @@ export const theVioletHour00003 = {
   slug: "the-violet-hour-00-003",
   partOfCollections: ["story-played/the-violet-hour"],
   position: 3,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-17T22:50:29.991Z",
   prose: "txt",
 } as const satisfies StoryTurnPlayed

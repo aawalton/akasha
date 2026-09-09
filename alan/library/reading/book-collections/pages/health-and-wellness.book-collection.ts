@@ -9,6 +9,6 @@ export const healthAndWellness = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "in-progress",
 } as const satisfies BookCollection

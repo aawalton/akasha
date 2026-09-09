@@ -6,7 +6,7 @@ export const honorHarrington = {
   slug: "honor-harrington",
   title: "Honor Harrington",
   status: "paused",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B074C161MH",
   externalLink: "https://www.amazon.com/dp/B074C161MH",

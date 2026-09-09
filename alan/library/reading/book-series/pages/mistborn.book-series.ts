@@ -6,7 +6,7 @@ export const mistborn = {
   slug: "mistborn",
   title: "Mistborn",
   status: "paused",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   source: "kindle",
   externalId: "B0B4N71QWS",

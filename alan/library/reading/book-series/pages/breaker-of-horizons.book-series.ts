@@ -6,7 +6,7 @@ export const breakerOfHorizons = {
   slug: "breaker-of-horizons",
   title: "Breaker of Horizons",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0BJ4CR8XH",
   externalLink: "https://www.amazon.com/dp/B0BJ4CR8XH",

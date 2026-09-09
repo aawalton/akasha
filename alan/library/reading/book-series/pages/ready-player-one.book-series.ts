@@ -6,7 +6,7 @@ export const readyPlayerOne = {
   slug: "ready-player-one",
   title: "Ready Player One",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B083977FTN",
   externalLink: "https://www.amazon.com/dp/B083977FTN",

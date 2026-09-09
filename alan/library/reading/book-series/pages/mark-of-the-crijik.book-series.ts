@@ -6,7 +6,7 @@ export const markOfTheCrijik = {
   slug: "mark-of-the-crijik",
   title: "Mark of the Crijik",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0BKND7R7M",
   externalLink: "https://www.amazon.com/dp/B0BKND7R7M",

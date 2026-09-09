@@ -7,7 +7,7 @@ export const pyresoulsApocalypse = {
   title: "Pyresouls Apocalypse",
   status: "following",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   maturityRating: "R",
   source: "kindle",
   externalId: "B08GPPNPCG",

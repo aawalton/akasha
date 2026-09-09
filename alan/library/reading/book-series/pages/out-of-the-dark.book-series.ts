@@ -6,7 +6,7 @@ export const outOfTheDark = {
   slug: "out-of-the-dark",
   title: "Out of the Dark",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B08BTJBGQ4",
   externalLink: "https://www.amazon.com/dp/B08BTJBGQ4",

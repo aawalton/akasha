@@ -6,7 +6,7 @@ export const monsterHuntersInternational = {
   slug: "monster-hunters-international",
   title: "Monster Hunters International",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B07F7NGF35",
   externalLink: "https://www.amazon.com/dp/B07F7NGF35",

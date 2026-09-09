@@ -6,7 +6,7 @@ export const motherOfLearning = {
   slug: "mother-of-learning",
   title: "Mother of Learning",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0CHSJ19J9",
   externalLink: "https://www.amazon.com/dp/B0CHSJ19J9",

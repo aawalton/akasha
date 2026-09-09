@@ -6,7 +6,7 @@ export const heWhoFightsWithMonsters = {
   slug: "he-who-fights-with-monsters",
   title: "He Who Fights with Monsters",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B08WF8SB71",
   externalLink: "https://www.amazon.com/dp/B08WF8SB71",

@@ -9,7 +9,7 @@ export const theLaysOfBeleriand = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   publishedAt: "1985-01-01",
 } as const satisfies BookCollection

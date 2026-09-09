@@ -6,7 +6,7 @@ export const melodyOfMana = {
   slug: "melody-of-mana",
   title: "Melody of Mana",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0B4X17PLH",
   externalLink: "https://www.amazon.com/dp/B0B4X17PLH",

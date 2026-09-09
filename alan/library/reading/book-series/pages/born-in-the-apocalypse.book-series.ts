@@ -6,7 +6,7 @@ export const bornInTheApocalypse = {
   slug: "born-in-the-apocalypse",
   title: "Born in the Apocalypse",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B075VHSR7V",
   externalLink: "https://www.amazon.com/dp/B075VHSR7V",

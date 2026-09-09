@@ -6,7 +6,7 @@ export const scaleAndSea = {
   slug: "scale-and-sea",
   title: "Scale & Sea",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0BYMQSCGC",
   externalLink: "https://www.amazon.com/dp/B0BYMQSCGC",

@@ -6,7 +6,7 @@ export const discworld = {
   slug: "discworld",
   title: "Discworld",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B07TYGGG76",
   externalLink: "https://www.amazon.com/dp/B07TYGGG76",

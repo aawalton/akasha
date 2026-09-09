@@ -6,5 +6,5 @@ export const bookboundBunnyBooks = {
   slug: "bookbound-bunny-books",
   title: "Bookbound Bunny Books",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies BookSeries

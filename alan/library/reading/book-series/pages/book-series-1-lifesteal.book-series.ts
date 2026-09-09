@@ -6,7 +6,7 @@ export const bookSeries1Lifesteal = {
   slug: "book-series-1-lifesteal",
   title: "1% Lifesteal",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0DGWCJ6JP",
   externalLink: "https://www.amazon.com/dp/B0DGWCJ6JP",

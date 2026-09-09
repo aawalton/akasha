@@ -6,7 +6,7 @@ export const librarySystemReset = {
   slug: "library-system-reset",
   title: "Library System Reset",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0D4RD1LC1",
   externalLink: "https://www.amazon.com/dp/B0D4RD1LC1",

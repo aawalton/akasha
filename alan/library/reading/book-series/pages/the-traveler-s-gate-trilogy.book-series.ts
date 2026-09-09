@@ -6,7 +6,7 @@ export const theTravelerSGateTrilogy = {
   slug: "the-traveler-s-gate-trilogy",
   title: "The Traveler's Gate Trilogy",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B074CCBXYZ",
   externalLink: "https://www.amazon.com/dp/B074CCBXYZ",

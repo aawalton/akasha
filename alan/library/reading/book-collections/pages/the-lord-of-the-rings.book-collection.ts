@@ -9,7 +9,7 @@ export const theLordOfTheRings = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "completed",
   rank: "A",
   publishedAt: "1954-07-29",

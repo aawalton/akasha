@@ -6,7 +6,7 @@ export const defianceOfTheFall = {
   slug: "defiance-of-the-fall",
   title: "Defiance of the Fall",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0916H6FBX",
   externalLink: "https://www.amazon.com/dp/B0916H6FBX",

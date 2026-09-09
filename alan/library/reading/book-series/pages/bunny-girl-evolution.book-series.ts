@@ -6,7 +6,7 @@ export const bunnyGirlEvolution = {
   slug: "bunny-girl-evolution",
   title: "Bunny Girl Evolution",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0FJ6TCNWN",
   externalLink: "https://www.amazon.com/dp/B0FJ6TCNWN",

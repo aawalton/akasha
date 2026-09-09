@@ -7,7 +7,7 @@ export const beastborne = {
   title: "Beastborne",
   status: "following",
   rank: "B",
-  unitSlug: "words",
+  unit: "words",
   maturityRating: "R",
   source: "kindle",
   externalId: "B0CHR81MLP",

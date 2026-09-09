@@ -6,7 +6,7 @@ export const culture = {
   slug: "culture",
   title: "Culture",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B07WLZZ9WV",
   externalLink: "https://www.amazon.com/dp/B07WLZZ9WV",

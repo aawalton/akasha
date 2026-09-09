@@ -6,7 +6,7 @@ export const manticoreAscendantSeries = {
   slug: "manticore-ascendant-series",
   title: "Manticore Ascendant series",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0C3ZWH6W5",
   externalLink: "https://www.amazon.com/dp/B0C3ZWH6W5",

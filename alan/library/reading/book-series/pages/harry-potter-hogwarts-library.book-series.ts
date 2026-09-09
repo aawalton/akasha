@@ -6,7 +6,7 @@ export const harryPotterHogwartsLibrary = {
   slug: "harry-potter-hogwarts-library",
   title: "Harry Potter: Hogwarts Library",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   source: "kindle",
   externalId: "B09DCNLCJJ",

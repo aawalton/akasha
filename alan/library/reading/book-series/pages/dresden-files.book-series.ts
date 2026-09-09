@@ -6,7 +6,7 @@ export const dresdenFiles = {
   slug: "dresden-files",
   title: "Dresden Files",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B074CF4JMZ",
   externalLink: "https://www.amazon.com/dp/B074CF4JMZ",

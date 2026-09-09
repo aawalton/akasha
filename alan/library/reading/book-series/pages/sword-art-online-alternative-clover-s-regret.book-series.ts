@@ -6,7 +6,7 @@ export const swordArtOnlineAlternativeCloverSRegret = {
   slug: "sword-art-online-alternative-clover-s-regret",
   title: "Sword Art Online Alternative Clover's Regret",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0DCMN7GWF",
   externalLink: "https://www.amazon.com/dp/B0DCMN7GWF",

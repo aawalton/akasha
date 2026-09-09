@@ -6,7 +6,7 @@ export const guardianOfAsterFall = {
   slug: "guardian-of-aster-fall",
   title: "Guardian of Aster Fall",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B09HJCYHT3",
   externalLink: "https://www.amazon.com/dp/B09HJCYHT3",

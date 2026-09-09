@@ -9,7 +9,7 @@ export const theReturnOfTheKing = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "completed",
   rank: "A",
   publishedAt: "1955-10-20",

@@ -6,7 +6,7 @@ export const riseOfTheLivingForge = {
   slug: "rise-of-the-living-forge",
   title: "Rise of the Living Forge",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0D8XWFGDG",
   externalLink: "https://www.amazon.com/dp/B0D8XWFGDG",

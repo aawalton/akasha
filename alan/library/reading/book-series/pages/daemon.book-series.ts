@@ -6,7 +6,7 @@ export const daemon = {
   slug: "daemon",
   title: "Daemon",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B074CDHK46",
   externalLink: "https://www.amazon.com/dp/B074CDHK46",

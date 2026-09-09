@@ -9,7 +9,7 @@ export const theCollectedWordsOfNealAMaxwellVolume3 = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "completed",
   rank: "C",
 } as const satisfies BookCollection

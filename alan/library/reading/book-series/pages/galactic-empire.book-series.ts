@@ -6,7 +6,7 @@ export const galacticEmpire = {
   slug: "galactic-empire",
   title: "Galactic Empire",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B08972D26X",
   externalLink: "https://www.amazon.com/dp/B08972D26X",

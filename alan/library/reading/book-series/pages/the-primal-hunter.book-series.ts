@@ -6,7 +6,7 @@ export const thePrimalHunter = {
   slug: "the-primal-hunter",
   title: "The Primal Hunter",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B09MV5TTSM",
   externalLink: "https://www.amazon.com/dp/B09MV5TTSM",

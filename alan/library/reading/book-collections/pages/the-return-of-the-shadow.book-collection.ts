@@ -9,7 +9,7 @@ export const theReturnOfTheShadow = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   publishedAt: "1988-01-01",
 } as const satisfies BookCollection

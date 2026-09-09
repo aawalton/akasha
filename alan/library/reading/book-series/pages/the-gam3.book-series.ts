@@ -6,7 +6,7 @@ export const theGam3 = {
   slug: "the-gam3",
   title: "The Gam3",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B075V2GXKP",
   externalLink: "https://www.amazon.com/dp/B075V2GXKP",

@@ -9,7 +9,7 @@ export const sauronDefeated = {
   position: 9,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   publishedAt: "1992-01-01",
 } as const satisfies BookCollection

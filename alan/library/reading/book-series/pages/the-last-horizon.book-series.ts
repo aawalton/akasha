@@ -6,7 +6,7 @@ export const theLastHorizon = {
   slug: "the-last-horizon",
   title: "The Last Horizon",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0C11YDHB8",
   externalLink: "https://www.amazon.com/dp/B0C11YDHB8",

@@ -6,7 +6,7 @@ export const amelia = {
   slug: "amelia",
   title: "Amelia",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0C6YLNM8J",
   externalLink: "https://www.amazon.com/dp/B0C6YLNM8J",

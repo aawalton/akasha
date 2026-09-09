@@ -6,7 +6,7 @@ export const bobiverse = {
   slug: "bobiverse",
   title: "Bobiverse",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0753LBFQ7",
   externalLink: "https://www.amazon.com/dp/B0753LBFQ7",

@@ -6,7 +6,7 @@ export const aTouchOfPower = {
   slug: "a-touch-of-power",
   title: "A Touch of Power",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0FFT68QFH",
   externalLink: "https://www.amazon.com/dp/B0FFT68QFH",

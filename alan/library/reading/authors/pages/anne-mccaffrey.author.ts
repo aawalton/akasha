@@ -9,7 +9,7 @@ export const anneMccaffrey = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "paused",
   externalLink: "https://en.wikipedia.org/wiki/Anne_McCaffrey",
 } as const satisfies Author

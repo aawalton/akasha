@@ -6,7 +6,7 @@ export const theElderEmpireShadow = {
   slug: "the-elder-empire-shadow",
   title: "The Elder Empire - Shadow",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B074CCVM2J",
   externalLink: "https://www.amazon.com/dp/B074CCVM2J",

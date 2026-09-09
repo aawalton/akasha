@@ -6,7 +6,7 @@ export const spaceOdyssey = {
   slug: "space-odyssey",
   title: "Space Odyssey",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B08437B8LM",
   externalLink: "https://www.amazon.com/dp/B08437B8LM",

@@ -6,7 +6,7 @@ export const marchUpcountry = {
   slug: "march-upcountry",
   title: "March Upcountry",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0CDCNP369",
   externalLink: "https://www.amazon.com/dp/B0CDCNP369",

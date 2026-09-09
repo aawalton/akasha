@@ -6,7 +6,7 @@ export const thePathOfAscension = {
   slug: "the-path-of-ascension",
   title: "The Path of Ascension",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0BG68Y746",
   externalLink: "https://www.amazon.com/dp/B0BG68Y746",

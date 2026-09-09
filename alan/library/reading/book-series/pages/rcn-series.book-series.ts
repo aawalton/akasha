@@ -6,7 +6,7 @@ export const rcnSeries = {
   slug: "rcn-series",
   title: "RCN Series",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B074C723QN",
   externalLink: "https://www.amazon.com/dp/B074C723QN",

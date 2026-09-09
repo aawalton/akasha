@@ -6,7 +6,7 @@ export const sectorGeneral = {
   slug: "sector-general",
   title: "Sector General",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B09N9DMYFB",
   externalLink: "https://www.amazon.com/dp/B09N9DMYFB",

@@ -9,6 +9,6 @@ export const jamesSACorey = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
 } as const satisfies Author

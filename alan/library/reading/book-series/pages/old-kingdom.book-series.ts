@@ -6,7 +6,7 @@ export const oldKingdom = {
   slug: "old-kingdom",
   title: "Old Kingdom",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0841YQ8MP",
   externalLink: "https://www.amazon.com/dp/B0841YQ8MP",

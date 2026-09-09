@@ -6,7 +6,7 @@ export const systemUniverse = {
   slug: "system-universe",
   title: "System Universe",
   status: "following",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0B6215Z5F",
   externalLink: "https://www.amazon.com/dp/B0B6215Z5F",

@@ -6,7 +6,7 @@ export const theStubbornSkillGrinderInATimeLoop = {
   slug: "the-stubborn-skill-grinder-in-a-time-loop",
   title: "The Stubborn Skill-Grinder In A Time Loop",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0D9KGGQRZ",
   externalLink: "https://www.amazon.com/dp/B0D9KGGQRZ",

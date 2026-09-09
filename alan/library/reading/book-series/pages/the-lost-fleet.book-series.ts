@@ -6,7 +6,7 @@ export const theLostFleet = {
   slug: "the-lost-fleet",
   title: "The Lost Fleet",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B074C49BPW",
   externalLink: "https://www.amazon.com/dp/B074C49BPW",

@@ -9,7 +9,7 @@ export const jKRowlingOriginals = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalLink: "https://www.harrypotter.com/writing-by-jk-rowling",
 } as const satisfies BookCollection

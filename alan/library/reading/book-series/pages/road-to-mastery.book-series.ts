@@ -6,7 +6,7 @@ export const roadToMastery = {
   slug: "road-to-mastery",
   title: "Road to Mastery",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B0C6CLGDWP",
   externalLink: "https://www.amazon.com/dp/B0C6CLGDWP",

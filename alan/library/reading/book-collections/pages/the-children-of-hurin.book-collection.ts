@@ -9,7 +9,7 @@ export const theChildrenOfHurin = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   publishedAt: "2007-04-17",
 } as const satisfies BookCollection

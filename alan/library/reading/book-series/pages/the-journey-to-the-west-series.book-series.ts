@@ -6,7 +6,7 @@ export const theJourneyToTheWestSeries = {
   slug: "the-journey-to-the-west-series",
   title: "The Journey to the West Series",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B087G3G8GT",
   externalLink: "https://www.amazon.com/dp/B087G3G8GT",

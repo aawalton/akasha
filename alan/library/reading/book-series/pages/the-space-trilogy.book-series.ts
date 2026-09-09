@@ -6,7 +6,7 @@ export const theSpaceTrilogy = {
   slug: "the-space-trilogy",
   title: "The Space Trilogy",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   source: "kindle",
   externalId: "B09RFD1VBZ",
   externalLink: "https://www.amazon.com/dp/B09RFD1VBZ",

@@ -6,7 +6,7 @@ export const theTower00088 = {
   slug: "the-tower-00-088",
   partOfCollections: ["story-played/the-tower"],
   position: 88,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-18T09:30:19.638Z",
   prose: "txt",
 } as const satisfies StoryTurnPlayed
