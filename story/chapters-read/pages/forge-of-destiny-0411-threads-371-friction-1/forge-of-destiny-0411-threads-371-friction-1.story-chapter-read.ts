@@ -8,7 +8,7 @@ export const forgeOfDestiny0411Threads371Friction1 = {
   story: "forge-of-destiny",
   position: 411,
   ownLength: 2063,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1568397/threads-371-friction-1",

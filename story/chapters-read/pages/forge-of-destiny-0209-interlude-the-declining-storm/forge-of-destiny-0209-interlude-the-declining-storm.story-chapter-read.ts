@@ -8,7 +8,7 @@ export const forgeOfDestiny0209InterludeTheDecliningStorm = {
   story: "forge-of-destiny",
   position: 209,
   ownLength: 2595,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-25",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/831333/interlude-the-declining-storm",

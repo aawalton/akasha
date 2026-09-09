@@ -8,7 +8,7 @@ export const forgeOfDestiny0307Threads269Perception6 = {
   story: "forge-of-destiny",
   position: 307,
   ownLength: 2501,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-12-13",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1062146/threads-269-perception-6",

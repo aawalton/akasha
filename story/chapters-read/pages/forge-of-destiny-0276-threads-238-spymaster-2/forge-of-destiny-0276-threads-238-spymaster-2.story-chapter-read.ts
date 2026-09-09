@@ -8,7 +8,7 @@ export const forgeOfDestiny0276Threads238Spymaster2 = {
   story: "forge-of-destiny",
   position: 276,
   ownLength: 1829,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-08-16",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/972553/threads-238-spymaster-2",

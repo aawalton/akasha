@@ -8,7 +8,7 @@ export const forgeOfDestiny0099Chapter79Muse1 = {
   story: "forge-of-destiny",
   position: 99,
   ownLength: 1642,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-29",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/673445/chapter-79-muse-1",

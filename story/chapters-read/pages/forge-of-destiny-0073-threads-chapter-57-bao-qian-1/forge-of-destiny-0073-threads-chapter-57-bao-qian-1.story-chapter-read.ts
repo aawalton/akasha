@@ -8,7 +8,7 @@ export const forgeOfDestiny0073ThreadsChapter57BaoQian1 = {
   story: "forge-of-destiny",
   position: 73,
   ownLength: 2238,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-04",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/641489/threads-chapter-57-bao-qian-1",

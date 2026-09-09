@@ -8,7 +8,7 @@ export const forgeOfDestiny0225Threads193Liminal2 = {
   story: "forge-of-destiny",
   position: 225,
   ownLength: 2220,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-05",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/858850/threads-193-liminal-2",

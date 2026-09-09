@@ -8,7 +8,7 @@ export const forgeOfDestiny0346Threads306Heron2 = {
   story: "forge-of-destiny",
   position: 346,
   ownLength: 2488,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-05-16",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1214476/threads-306-heron-2",

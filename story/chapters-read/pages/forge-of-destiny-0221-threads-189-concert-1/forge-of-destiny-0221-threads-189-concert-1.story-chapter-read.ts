@@ -8,7 +8,7 @@ export const forgeOfDestiny0221Threads189Concert1 = {
   story: "forge-of-destiny",
   position: 221,
   ownLength: 2573,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-02-24",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/852515/threads-189-concert-1",

@@ -8,7 +8,7 @@ export const forgeOfDestiny0148InterludeWelcomeToTheJungle = {
   story: "forge-of-destiny",
   position: 148,
   ownLength: 3352,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/738801/interlude-welcome-to-the-jungle",

@@ -8,7 +8,7 @@ export const forgeOfDestiny0384Threads344BeginningsEnd1 = {
   story: "forge-of-destiny",
   position: 384,
   ownLength: 1932,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-10-26",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1386690/threads-344-beginnings-end-1",

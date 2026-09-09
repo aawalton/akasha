@@ -8,7 +8,7 @@ export const forgeOfDestiny0145Threads120WindThief2 = {
   story: "forge-of-destiny",
   position: 145,
   ownLength: 2294,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-16",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/735004/threads-120-wind-thief-2",

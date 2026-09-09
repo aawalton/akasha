@@ -8,7 +8,7 @@ export const forgeOfDestiny0101InterludeDance = {
   story: "forge-of-destiny",
   position: 101,
   ownLength: 1188,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-03",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/675884/interlude-dance",

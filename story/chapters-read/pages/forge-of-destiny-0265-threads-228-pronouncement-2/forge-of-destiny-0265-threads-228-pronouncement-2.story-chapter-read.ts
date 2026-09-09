@@ -8,7 +8,7 @@ export const forgeOfDestiny0265Threads228Pronouncement2 = {
   story: "forge-of-destiny",
   position: 265,
   ownLength: 3028,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/941741/threads-228-pronouncement-2",

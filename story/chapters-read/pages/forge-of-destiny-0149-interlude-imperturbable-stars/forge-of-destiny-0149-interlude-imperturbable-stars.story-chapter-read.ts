@@ -8,7 +8,7 @@ export const forgeOfDestiny0149InterludeImperturbableStars = {
   story: "forge-of-destiny",
   position: 149,
   ownLength: 2274,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/740407/interlude-imperturbable-stars",

@@ -8,7 +8,7 @@ export const forgeOfDestiny0408Threads368Depths3 = {
   story: "forge-of-destiny",
   position: 408,
   ownLength: 2272,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-03-15",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1554851/threads-368-depths-3",

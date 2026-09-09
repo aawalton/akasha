@@ -8,7 +8,7 @@ export const forgeOfDestiny0248Threads214FriendAndFoe3 = {
   story: "forge-of-destiny",
   position: 248,
   ownLength: 2136,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/905843/threads-214-friend-and-foe-3",

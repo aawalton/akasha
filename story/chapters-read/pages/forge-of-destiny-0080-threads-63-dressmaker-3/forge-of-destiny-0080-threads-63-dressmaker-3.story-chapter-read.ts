@@ -8,7 +8,7 @@ export const forgeOfDestiny0080Threads63Dressmaker3 = {
   story: "forge-of-destiny",
   position: 80,
   ownLength: 4297,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-20",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/650066/threads-63-dressmaker-3",

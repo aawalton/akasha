@@ -8,7 +8,7 @@ export const forgeOfDestiny0316Threads278SeaOfDreams2 = {
   story: "forge-of-destiny",
   position: 316,
   ownLength: 1784,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-01-23",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1095083/threads-278-sea-of-dreams-2",

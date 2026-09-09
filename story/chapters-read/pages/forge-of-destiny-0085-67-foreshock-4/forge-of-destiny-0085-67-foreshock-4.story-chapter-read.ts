@@ -8,7 +8,7 @@ export const forgeOfDestiny008567Foreshock4 = {
   story: "forge-of-destiny",
   position: 85,
   ownLength: 3413,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-29",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/654823/67-foreshock-4",

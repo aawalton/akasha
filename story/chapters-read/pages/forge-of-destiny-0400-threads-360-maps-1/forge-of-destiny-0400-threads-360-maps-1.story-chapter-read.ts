@@ -8,7 +8,7 @@ export const forgeOfDestiny0400Threads360Maps1 = {
   story: "forge-of-destiny",
   position: 400,
   ownLength: 2068,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-02-01",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1503183/threads-360-maps-1",

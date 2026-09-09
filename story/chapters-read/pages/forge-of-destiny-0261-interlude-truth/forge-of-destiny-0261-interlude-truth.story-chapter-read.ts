@@ -8,7 +8,7 @@ export const forgeOfDestiny0261InterludeTruth = {
   story: "forge-of-destiny",
   position: 261,
   ownLength: 1805,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-06-27",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/936879/interlude-truth",

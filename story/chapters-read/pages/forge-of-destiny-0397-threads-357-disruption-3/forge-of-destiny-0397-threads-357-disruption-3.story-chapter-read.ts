@@ -8,7 +8,7 @@ export const forgeOfDestiny0397Threads357Disruption3 = {
   story: "forge-of-destiny",
   position: 397,
   ownLength: 2676,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-01-23",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1491401/threads-357-disruption-3",

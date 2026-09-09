@@ -8,7 +8,7 @@ export const forgeOfDestiny0079Threads62Dressmaker2 = {
   story: "forge-of-destiny",
   position: 79,
   ownLength: 2047,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-18",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/649038/threads-62-dressmaker-2",

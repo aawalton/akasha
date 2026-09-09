@@ -8,7 +8,7 @@ export const forgeOfDestiny0146Threads121Reverb1 = {
   story: "forge-of-destiny",
   position: 146,
   ownLength: 1680,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-19",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/736626/threads-121-reverb-1",

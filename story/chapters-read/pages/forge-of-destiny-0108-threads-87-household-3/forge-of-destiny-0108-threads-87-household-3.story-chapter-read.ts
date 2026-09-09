@@ -8,7 +8,7 @@ export const forgeOfDestiny0108Threads87Household3 = {
   story: "forge-of-destiny",
   position: 108,
   ownLength: 1166,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/685747/threads-87-household-3",

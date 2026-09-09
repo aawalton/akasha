@@ -8,7 +8,7 @@ export const forgeOfDestiny0094Threads74Normalcy2 = {
   story: "forge-of-destiny",
   position: 94,
   ownLength: 3644,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/666489/threads-74-normalcy-2",

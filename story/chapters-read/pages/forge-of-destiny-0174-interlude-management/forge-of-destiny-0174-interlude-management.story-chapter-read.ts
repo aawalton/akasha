@@ -8,7 +8,7 @@ export const forgeOfDestiny0174InterludeManagement = {
   story: "forge-of-destiny",
   position: 174,
   ownLength: 1778,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-10-23",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/771812/interlude-management",

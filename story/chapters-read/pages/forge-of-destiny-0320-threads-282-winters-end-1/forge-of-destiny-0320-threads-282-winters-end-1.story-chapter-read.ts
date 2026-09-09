@@ -8,7 +8,7 @@ export const forgeOfDestiny0320Threads282WintersEnd1 = {
   story: "forge-of-destiny",
   position: 320,
   ownLength: 2097,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-02-07",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1107556/threads-282-winters-end-1",

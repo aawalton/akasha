@@ -8,7 +8,7 @@ export const forgeOfDestiny0359Threads319Parting5 = {
   story: "forge-of-destiny",
   position: 359,
   ownLength: 2089,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1273293/threads-319-parting-5",

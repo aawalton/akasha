@@ -8,7 +8,7 @@ export const forgeOfDestiny0240Threads207OpeningDay5 = {
   story: "forge-of-destiny",
   position: 240,
   ownLength: 2037,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-04-09",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/881790/threads-207-opening-day-5",

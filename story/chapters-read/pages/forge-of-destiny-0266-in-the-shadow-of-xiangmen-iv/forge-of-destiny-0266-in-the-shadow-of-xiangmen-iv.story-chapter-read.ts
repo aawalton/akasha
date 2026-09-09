@@ -8,7 +8,7 @@ export const forgeOfDestiny0266InTheShadowOfXiangmenIv = {
   story: "forge-of-destiny",
   position: 266,
   ownLength: 841,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-07-07",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/944027/in-the-shadow-of-xiangmen-iv",

@@ -8,7 +8,7 @@ export const forgeOfDestiny0372Threads332Springs2 = {
   story: "forge-of-destiny",
   position: 372,
   ownLength: 1593,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-01",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1328708/threads-332-springs-2",

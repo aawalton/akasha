@@ -8,7 +8,7 @@ export const forgeOfDestiny0274Threads236Expanse2 = {
   story: "forge-of-destiny",
   position: 274,
   ownLength: 2174,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/966689/threads-236-expanse-2",

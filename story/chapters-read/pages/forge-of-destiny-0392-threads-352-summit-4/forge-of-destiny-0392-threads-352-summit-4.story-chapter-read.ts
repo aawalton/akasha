@@ -8,7 +8,7 @@ export const forgeOfDestiny0392Threads352Summit4 = {
   story: "forge-of-destiny",
   position: 392,
   ownLength: 1996,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-12-14",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1443397/threads-352-summit-4",

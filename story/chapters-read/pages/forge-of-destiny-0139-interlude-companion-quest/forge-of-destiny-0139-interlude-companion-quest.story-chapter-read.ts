@@ -8,7 +8,7 @@ export const forgeOfDestiny0139InterludeCompanionQuest = {
   story: "forge-of-destiny",
   position: 139,
   ownLength: 1029,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-08-02",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/727416/interlude-companion-quest",

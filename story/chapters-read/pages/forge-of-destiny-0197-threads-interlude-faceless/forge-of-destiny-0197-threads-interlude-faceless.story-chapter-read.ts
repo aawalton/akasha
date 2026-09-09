@@ -8,7 +8,7 @@ export const forgeOfDestiny0197ThreadsInterludeFaceless = {
   story: "forge-of-destiny",
   position: 197,
   ownLength: 1131,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-28",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/814175/threads-interlude-faceless",

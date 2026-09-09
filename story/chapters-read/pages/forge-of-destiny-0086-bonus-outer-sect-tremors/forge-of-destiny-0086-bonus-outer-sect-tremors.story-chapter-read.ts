@@ -8,7 +8,7 @@ export const forgeOfDestiny0086BonusOuterSectTremors = {
   story: "forge-of-destiny",
   position: 86,
   ownLength: 1601,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-31",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/655819/bonus-outer-sect-tremors",

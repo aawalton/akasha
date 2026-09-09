@@ -8,7 +8,7 @@ export const forgeOfDestiny0137Threads113Intermission3 = {
   story: "forge-of-destiny",
   position: 137,
   ownLength: 2052,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-29",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/725139/threads-113-intermission-3",

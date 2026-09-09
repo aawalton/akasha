@@ -8,7 +8,7 @@ export const forgeOfDestiny0112Threads91Dinner2 = {
   story: "forge-of-destiny",
   position: 112,
   ownLength: 1799,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-05-29",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/690388/threads-91-dinner-2",

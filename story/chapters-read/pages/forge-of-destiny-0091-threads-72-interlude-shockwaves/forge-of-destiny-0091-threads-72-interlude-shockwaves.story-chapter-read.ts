@@ -8,7 +8,7 @@ export const forgeOfDestiny0091Threads72InterludeShockwaves = {
   story: "forge-of-destiny",
   position: 91,
   ownLength: 3970,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/662238/threads-72-interlude-shockwaves",

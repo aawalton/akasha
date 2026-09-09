@@ -8,7 +8,7 @@ export const forgeOfDestiny0077InterludeOuterSect = {
   story: "forge-of-destiny",
   position: 77,
   ownLength: 1307,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-03-14",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/646473/interlude-outer-sect",

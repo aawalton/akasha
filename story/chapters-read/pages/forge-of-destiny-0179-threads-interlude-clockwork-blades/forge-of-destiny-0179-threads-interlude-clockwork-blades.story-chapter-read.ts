@@ -8,7 +8,7 @@ export const forgeOfDestiny0179ThreadsInterludeClockworkBlades = {
   story: "forge-of-destiny",
   position: 179,
   ownLength: 1484,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-04",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/779475/threads-interlude-clockwork-blades",

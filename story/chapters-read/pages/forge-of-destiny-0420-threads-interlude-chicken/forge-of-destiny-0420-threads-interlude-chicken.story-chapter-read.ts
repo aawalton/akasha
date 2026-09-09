@@ -8,7 +8,7 @@ export const forgeOfDestiny0420ThreadsInterludeChicken = {
   story: "forge-of-destiny",
   position: 420,
   ownLength: 1236,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-16",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1639228/threads-interlude-chicken",

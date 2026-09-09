@@ -8,7 +8,7 @@ export const forgeOfDestiny0097Chapter77Normalcy5 = {
   story: "forge-of-destiny",
   position: 97,
   ownLength: 3069,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/670343/chapter-77-normalcy-5",

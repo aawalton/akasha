@@ -8,7 +8,7 @@ export const forgeOfDestiny0187Threads157Past3 = {
   story: "forge-of-destiny",
   position: 187,
   ownLength: 2248,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-11-22",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/792579/threads-157-past-3",

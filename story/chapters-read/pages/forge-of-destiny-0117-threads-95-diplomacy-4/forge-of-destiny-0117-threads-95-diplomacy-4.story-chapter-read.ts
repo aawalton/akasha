@@ -8,7 +8,7 @@ export const forgeOfDestiny0117Threads95Diplomacy4 = {
   story: "forge-of-destiny",
   position: 117,
   ownLength: 1960,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-14",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/699461/threads-95-diplomacy-4",

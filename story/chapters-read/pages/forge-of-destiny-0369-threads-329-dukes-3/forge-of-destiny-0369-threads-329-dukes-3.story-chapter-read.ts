@@ -8,7 +8,7 @@ export const forgeOfDestiny0369Threads329Dukes3 = {
   story: "forge-of-destiny",
   position: 369,
   ownLength: 1860,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-08-21",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1317881/threads-329-dukes-3",

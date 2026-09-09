@@ -8,7 +8,7 @@ export const forgeOfDestiny0133InterludePreciousDreams = {
   story: "forge-of-destiny",
   position: 133,
   ownLength: 2716,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-07-19",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/719333/interlude-precious-dreams",

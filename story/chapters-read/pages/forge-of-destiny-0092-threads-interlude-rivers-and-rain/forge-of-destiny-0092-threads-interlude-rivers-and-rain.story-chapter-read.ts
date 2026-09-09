@@ -8,7 +8,7 @@ export const forgeOfDestiny0092ThreadsInterludeRiversAndRain = {
   story: "forge-of-destiny",
   position: 92,
   ownLength: 989,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-04-12",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/663540/threads-interlude-rivers-and-rain",

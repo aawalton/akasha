@@ -8,7 +8,7 @@ export const forgeOfDestiny0191Threads161AlwaysWinter2 = {
   story: "forge-of-destiny",
   position: 191,
   ownLength: 1902,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-12-04",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/800365/threads-161-always-winter-2",

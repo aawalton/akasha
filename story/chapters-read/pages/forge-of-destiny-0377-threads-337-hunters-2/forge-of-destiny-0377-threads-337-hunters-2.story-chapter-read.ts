@@ -8,7 +8,7 @@ export const forgeOfDestiny0377Threads337Hunters2 = {
   story: "forge-of-destiny",
   position: 377,
   ownLength: 1942,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-09-25",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1354492/threads-337-hunters-2",

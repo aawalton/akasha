@@ -8,7 +8,7 @@ export const forgeOfDestiny0201Threads170Emissary5 = {
   story: "forge-of-destiny",
   position: 201,
   ownLength: 2081,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-01-07",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/819744/threads-170-emissary-5",

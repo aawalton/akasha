@@ -8,7 +8,7 @@ export const forgeOfDestiny0235ThreadsInterludeTheWhiteBladeDevil = {
   story: "forge-of-destiny",
   position: 235,
   ownLength: 1849,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-03-29",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/873238/threads-interlude-the-white-blade-devil",

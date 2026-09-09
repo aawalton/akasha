@@ -8,7 +8,7 @@ export const forgeOfDestiny0153Threads126Convergeance4 = {
   story: "forge-of-destiny",
   position: 153,
   ownLength: 3074,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-09-04",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/745307/threads-126-convergeance-4",

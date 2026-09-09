@@ -8,7 +8,7 @@ export const forgeOfDestiny0416Threads376Finishing4 = {
   story: "forge-of-destiny",
   position: 416,
   ownLength: 2056,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-04-19",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1601697/threads-376-finishing-4",

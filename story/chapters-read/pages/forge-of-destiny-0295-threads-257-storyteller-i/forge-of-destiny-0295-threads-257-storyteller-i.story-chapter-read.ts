@@ -8,7 +8,7 @@ export const forgeOfDestiny0295Threads257StorytellerI = {
   story: "forge-of-destiny",
   position: 295,
   ownLength: 2266,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2022-10-27",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1025365/threads-257-storyteller-i",

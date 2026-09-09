@@ -8,7 +8,7 @@ export const forgeOfDestiny0332InterludeWintersEndTourPart2 = {
   story: "forge-of-destiny",
   position: 332,
   ownLength: 1691,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-03-28",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1150427/interlude-winters-end-tour-part-2",

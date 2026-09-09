@@ -8,7 +8,7 @@ export const forgeOfDestiny0353Threads313Frost2 = {
   story: "forge-of-destiny",
   position: 353,
   ownLength: 1839,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-06-12",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1243825/threads-313-frost-2",

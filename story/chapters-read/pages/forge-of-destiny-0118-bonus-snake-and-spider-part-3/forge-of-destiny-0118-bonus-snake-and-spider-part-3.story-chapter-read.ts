@@ -8,7 +8,7 @@ export const forgeOfDestiny0118BonusSnakeAndSpiderPart3 = {
   story: "forge-of-destiny",
   position: 118,
   ownLength: 1743,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2021-06-17",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/700718/bonus-snake-and-spider-part-3",

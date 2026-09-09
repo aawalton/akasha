@@ -8,7 +8,7 @@ export const forgeOfDestiny0365Threads325SummitApproach1 = {
   story: "forge-of-destiny",
   position: 365,
   ownLength: 2164,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2023-08-01",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1295548/threads-325-summit-approach-1",
