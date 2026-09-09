@@ -1,10 +1,10 @@
 import type { Module } from "@akasha/code/module"
 
-export const memoryReaping = {
+export const memoryReaperRunning = {
   id: "01a0686a-7a57-73d2-a05d-06bd52f76154",
   pageTypeSlug: "module",
-  slug: "memory-reaping",
-  definition: "the largest agent supervisor tree killed under host memory pressure",
+  slug: "memory-reaper-running",
+  definition: "the reaper's loop, ticking until it is stopped",
   code: "ts",
   invariants: [
     {

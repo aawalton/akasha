@@ -18,7 +18,7 @@ export const supervising = {
     "module/memory-reaper-proc-scan",
     "module/memory-reaper-read",
     "module/memory-reaper-tick",
-    "module/memory-reaping",
+    "module/memory-reaper-running",
     "module/seat-supervisor-claim",
     "module/supervisor",
     "module/supervisor-account-config",
