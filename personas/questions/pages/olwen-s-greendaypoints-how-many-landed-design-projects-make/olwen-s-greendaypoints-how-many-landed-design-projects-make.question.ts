@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const olwenSGreendaypointsHowManyLandedDesignProjectsMake = {
   id: "019f6e5f-81dc-7d58-9f46-defd38f1aafb",
   pageTypeSlug: "question",
+  type: "question",
   slug: "olwen-s-greendaypoints-how-many-landed-design-projects-make",
   ask: "Olwen's greenDayPoints — how many landed design projects make a green day?",
   askedBy: "sophia",

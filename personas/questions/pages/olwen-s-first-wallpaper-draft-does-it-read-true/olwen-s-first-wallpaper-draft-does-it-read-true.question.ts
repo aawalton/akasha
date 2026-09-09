@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const olwenSFirstWallpaperDraftDoesItReadTrue = {
   id: "019f6e4f-abab-7cdc-80d9-c2eb9e2923d1",
   pageTypeSlug: "question",
+  type: "question",
   slug: "olwen-s-first-wallpaper-draft-does-it-read-true",
   ask: "Olwen's first wallpaper draft — does it read true?",
   askedBy: "sophia",

@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const shouldIDisableTheAutonomousHeartbeatTimerWhileIdleA = {
   id: "019f52db-6bb8-7296-95b4-94561c8bac2d",
   pageTypeSlug: "question",
+  type: "question",
   slug: "should-i-disable-the-autonomous-heartbeat-timer-while-idle-a",
   ask: "Should I disable the autonomous heartbeat timer while idle and re-enable it only when workers are in flight?",
   askedBy: "dalla",

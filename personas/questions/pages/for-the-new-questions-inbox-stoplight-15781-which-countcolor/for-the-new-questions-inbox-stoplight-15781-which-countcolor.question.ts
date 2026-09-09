@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const forTheNewQuestionsInboxStoplight15781WhichCountcolor = {
   id: "019f93e1-e1c2-73be-aaa8-c5d21fce21f9",
   pageTypeSlug: "question",
+  type: "question",
   slug: "for-the-new-questions-inbox-stoplight-15781-which-countcolor",
   ask: "For the new 'Questions' inbox stoplight (#15781), which count→color ladder do you want? Open questions rarely exceed single digits, so it needs its own thresholds rather than the inbox default.",
   askedBy: "athena",

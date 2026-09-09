@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const onceYouHavePlacedThePipelineHealthTileDoTheTwoRow = {
   id: "019fe8c1-e7a8-7208-8556-57d407ef4617",
   pageTypeSlug: "question",
+  type: "question",
   slug: "once-you-have-placed-the-pipeline-health-tile-do-the-two-row",
   ask: "Once you have placed the Pipeline Health tile, do the two rows tell you at a glance what the harness is doing?",
   askedBy: "amy",

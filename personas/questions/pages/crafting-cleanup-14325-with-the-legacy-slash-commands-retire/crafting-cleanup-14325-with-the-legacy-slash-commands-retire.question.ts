@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const craftingCleanup14325WithTheLegacySlashCommandsRetire = {
   id: "019f71df-f864-74db-8aae-3dfecb5ff024",
   pageTypeSlug: "question",
+  type: "question",
   slug: "crafting-cleanup-14325-with-the-legacy-slash-commands-retire",
   ask: "Crafting cleanup (#14325): with the legacy slash commands retired (your earlier call — Temper-native names only), how should players DISCOVER the new crafting commands in-game?",
   askedBy: "ember",

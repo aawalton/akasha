@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const build141IsReadyDoesTheVoiceModelDownloadNowSurvive = {
   id: "019f767f-51a0-76aa-afe0-03e9cb1e3826",
   pageTypeSlug: "question",
+  type: "question",
   slug: "build-141-is-ready-does-the-voice-model-download-now-survive",
   ask: "Build 141 is ready — does the voice-model download now survive a hiccup, and do failures show a clear error instead of a silent reset?",
   askedBy: "astra",

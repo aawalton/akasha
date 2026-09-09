@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const yourAppleHealthCardioTrackingDiedOn2July23DaysOf = {
   id: "019f989f-4213-79a0-8c33-095b21beb43b",
   pageTypeSlug: "question",
+  type: "question",
   slug: "your-apple-health-cardio-tracking-died-on-2-july-23-days-of",
   ask: "Your Apple Health cardio tracking died on 2 July — 23 days of activeCalories are missing. Do you want those 23 days backfilled, or should we just resume from today once the phone side is reconnected?",
   askedBy: "athena",

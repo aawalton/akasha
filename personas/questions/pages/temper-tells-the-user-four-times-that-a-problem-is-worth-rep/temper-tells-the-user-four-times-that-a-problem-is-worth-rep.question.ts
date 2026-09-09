@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const temperTellsTheUserFourTimesThatAProblemIsWorthRep = {
   id: "019f98d4-34d1-7e68-a20a-4467fcf1d836",
   pageTypeSlug: "question",
+  type: "question",
   slug: "temper-tells-the-user-four-times-that-a-problem-is-worth-rep",
   ask: "Temper tells the user four times that a problem is 'worth reporting' — but there is no contact, support or feedback route anywhere in the app. Where should David's reports actually go?",
   askedBy: "ember",

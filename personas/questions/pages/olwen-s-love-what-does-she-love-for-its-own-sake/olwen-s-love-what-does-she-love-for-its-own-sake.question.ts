@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const olwenSLoveWhatDoesSheLoveForItsOwnSake = {
   id: "019f6e3f-d6f4-7216-bbae-49c730f7d641",
   pageTypeSlug: "question",
+  type: "question",
   slug: "olwen-s-love-what-does-she-love-for-its-own-sake",
   ask: "Olwen's Love — what does she love for its own sake?",
   askedBy: "sophia",

@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const temperStructurallyCannotWorkForConsoleNoSavedvariable = {
   id: "019f9841-8d44-7220-b9b8-f08643b5a5bf",
   pageTypeSlug: "question",
+  type: "question",
   slug: "temper-structurally-cannot-work-for-console-no-savedvariable",
   ask: "Temper structurally cannot work for console — no SavedVariables file exists on Xbox or PlayStation, so there is no inventory and no net worth at all — and the watcher is Windows-only. Is David on PC, and on Windows?",
   askedBy: "ember",

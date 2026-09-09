@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const branchCiConvoysOnNode05Two30mFleetStallsIn24hWhi = {
   id: "019f6e92-0990-763b-9e00-b782ed3993df",
   pageTypeSlug: "question",
+  type: "question",
   slug: "branch-ci-convoys-on-node-05-two-30m-fleet-stalls-in-24h-whi",
   ask: "Branch CI convoys on node-05 (two 30m+ fleet stalls in 24h): which lever do you want for making a second node fit branch pipelines?",
   askedBy: "dalla",

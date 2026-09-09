@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const apologyIsReServedWithTheEchoFixDoesTheTrueSaying = {
   id: "019f7b21-dd61-7d7d-b042-d3f975ff2d23",
   pageTypeSlug: "question",
+  type: "question",
   slug: "apology-is-re-served-with-the-echo-fix-does-the-true-saying",
   ask: "Apology is re-served with the echo fix — does the 'true saying' passage (and anything else you spot-check) sound clean now?",
   askedBy: "echo",

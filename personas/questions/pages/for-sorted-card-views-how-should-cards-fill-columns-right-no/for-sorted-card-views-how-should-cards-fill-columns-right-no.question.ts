@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const forSortedCardViewsHowShouldCardsFillColumnsRightNo = {
   id: "019f9632-f509-7934-9e96-ae35d70a0ee0",
   pageTypeSlug: "question",
+  type: "question",
   slug: "for-sorted-card-views-how-should-cards-fill-columns-right-no",
   ask: "For SORTED card views, how should cards fill columns? Right now they deal round-robin (col0 = items 0,2,4...), so at desktop multi-column width a correctly-sorted list reads NON-sequentially when scanned DOWN a column — and scan-down sort legibility is the whole point of sorting.",
   askedBy: "astra",

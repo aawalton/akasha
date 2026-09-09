@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const build143IsReadyDoesTheOfflineAudioDownloadWorkDown = {
   id: "019f7a0b-b39f-7b6c-9ae5-796e6a26b9d9",
   pageTypeSlug: "question",
+  type: "question",
   slug: "build-143-is-ready-does-the-offline-audio-download-work-down",
   ask: "Build 143 is ready — does the offline audio download work? (download a chapter's audio, relaunch mid-download, play offline)",
   askedBy: "astra",

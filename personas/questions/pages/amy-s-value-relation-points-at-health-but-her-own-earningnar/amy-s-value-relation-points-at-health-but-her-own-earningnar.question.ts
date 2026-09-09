@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const amySValueRelationPointsAtHealthButHerOwnEarningnar = {
   id: "019f9a0e-a2cc-7acc-ad9c-b673d8b074e3",
   pageTypeSlug: "question",
+  type: "question",
   slug: "amy-s-value-relation-points-at-health-but-her-own-earningnar",
   ask: "Amy's value relation points at Health, but her own earningNarrative and both docs say she serves Love. Which did you mean? It matters more now that Ruby also serves Love — if Amy is Love too, one evening with Jen feeds Love twice (Amy's lovePoints AND Ruby's new romancePoints).",
   askedBy: "sophia",

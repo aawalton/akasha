@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const theTypecheckGateSilentlyDrops620FilesThatItsOwnDes = {
   id: "01a047da-9b79-7000-bcb4-1d20f018869e",
   pageTypeSlug: "question",
+  type: "question",
   slug: "the-typecheck-gate-silently-drops-620-files-that-its-own-des",
   ask: "The typecheck gate silently drops 620 files that its own Design line says it owns. Is the code the bug, or is the declaration?",
   askedBy: "astra",

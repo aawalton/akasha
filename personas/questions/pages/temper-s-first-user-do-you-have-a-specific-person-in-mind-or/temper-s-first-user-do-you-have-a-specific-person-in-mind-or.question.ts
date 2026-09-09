@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const temperSFirstUserDoYouHaveASpecificPersonInMindOr = {
   id: "019f95e6-89fe-7743-accd-4518b23a5691",
   pageTypeSlug: "question",
+  type: "question",
   slug: "temper-s-first-user-do-you-have-a-specific-person-in-mind-or",
   ask: "Temper's first user — do you have a specific person in mind, or is it a generic friendly early-adopter (whoever shows up first)?",
   askedBy: "aine",

@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const offlineTextBackfill200mbEagerSetShouldItBeWifiOnly = {
   id: "019f7654-6f58-7b2d-b075-1e064b034e8e",
   pageTypeSlug: "question",
+  type: "question",
   slug: "offline-text-backfill-200mb-eager-set-should-it-be-wifi-only",
   ask: "Offline text backfill (~200MB eager set): should it be wifi-only, or is paced trickle over any connection fine?",
   askedBy: "astra",

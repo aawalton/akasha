@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const build129IsUpWithTheBarPinningFixTheGeometrychange = {
   id: "019f6b00-8b39-7f52-8eb1-b069e5d20074",
   pageTypeSlug: "question",
+  type: "question",
   slug: "build-129-is-up-with-the-bar-pinning-fix-the-geometrychange",
   ask: "Build 129 is up with the bar pinning fix — the geometrychange trigger was the missing piece. How do the checks look?",
   askedBy: "astra",

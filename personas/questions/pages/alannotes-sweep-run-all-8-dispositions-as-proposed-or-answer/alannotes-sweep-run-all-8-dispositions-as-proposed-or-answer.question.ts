@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const alannotesSweepRunAll8DispositionsAsProposedOrAnswer = {
   id: "019f6918-a340-7022-964e-8478b71da213",
   pageTypeSlug: "question",
+  type: "question",
   slug: "alannotes-sweep-run-all-8-dispositions-as-proposed-or-answer",
   ask: "alanNotes sweep — run all 8 dispositions as proposed, or answer the 3 terse ones (Ember/Athena/Abby) directly first?",
   askedBy: "aine",

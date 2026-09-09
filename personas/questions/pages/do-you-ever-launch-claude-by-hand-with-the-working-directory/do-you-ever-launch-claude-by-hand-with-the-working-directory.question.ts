@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const doYouEverLaunchClaudeByHandWithTheWorkingDirectory = {
   id: "019fc29c-5084-7870-a6fc-cea1277433b7",
   pageTypeSlug: "question",
+  type: "question",
   slug: "do-you-ever-launch-claude-by-hand-with-the-working-directory",
   ask: "Do you ever launch `claude` by hand with the working directory `~/code`?",
   askedBy: "athena",

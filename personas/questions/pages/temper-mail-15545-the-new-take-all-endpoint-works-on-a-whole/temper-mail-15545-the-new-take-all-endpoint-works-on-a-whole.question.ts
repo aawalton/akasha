@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const temperMail15545TheNewTakeAllEndpointWorksOnAWhole = {
   id: "019f710c-fbb2-7f2e-9700-453701a78177",
   pageTypeSlug: "question",
+  type: "question",
   slug: "temper-mail-15545-the-new-take-all-endpoint-works-on-a-whole",
   ask: "Temper mail (#15545): the new Take All endpoint works on a whole native mail category — no subject filter. Hireling mail lives in SYSTEM_MAIL with everything else (event/PvP/crown/daily rewards). Which behavior do you want?",
   askedBy: "ember",

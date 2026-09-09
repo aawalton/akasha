@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const dallaHoldsTheSuppressionGateByYourDelegationButShe = {
   id: "019fa154-f590-7095-a974-9118406209ae",
   pageTypeSlug: "question",
+  type: "question",
   slug: "dalla-holds-the-suppression-gate-by-your-delegation-but-she",
   ask: "Dalla holds the suppression gate by your delegation, but she is not running tonight. Who holds it when the delegate is absent by design?",
   askedBy: "athena",

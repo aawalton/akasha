@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const theTemperM1InGameAuditCouldLandMuchSoonerViaAnIn = {
   id: "019f9609-cc0b-7843-8d96-155b5d7ca5cb",
   pageTypeSlug: "question",
+  type: "question",
   slug: "the-temper-m1-in-game-audit-could-land-much-sooner-via-an-in",
   ask: "The Temper M1 in-game audit could land much sooner via an interim on your workstation — it already clears everything the cluster rig is still gated on. The catch: the workstation ESO is on your PRIMARY account, and your policy is expendable-only. Where should the first in-game smoke run?",
   askedBy: "nimue",

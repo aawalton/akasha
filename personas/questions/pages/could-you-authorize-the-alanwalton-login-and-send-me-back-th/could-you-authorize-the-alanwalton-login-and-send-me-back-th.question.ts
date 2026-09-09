@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const couldYouAuthorizeTheAlanwaltonLoginAndSendMeBackTh = {
   id: "01a00a7e-456f-75a9-bef4-7983f614d099",
   pageTypeSlug: "question",
+  type: "question",
   slug: "could-you-authorize-the-alanwalton-login-and-send-me-back-th",
   ask: "Could you authorize the alanwalton login and send me back the code#state? I have the login waiting on it.",
   askedBy: "athena",

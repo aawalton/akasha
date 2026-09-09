@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const josephSDailyMedsReminderShortcutBuildItAsALiveFet = {
   id: "019f952a-f79b-7383-9497-d993774f9276",
   pageTypeSlug: "question",
+  type: "question",
   slug: "joseph-s-daily-meds-reminder-shortcut-build-it-as-a-live-fet",
   ask: "Joseph's daily meds-reminder shortcut — build it as a live-fetch App Intent in the native app, or keep it a plain hardcoded Shortcut (no app build)?",
   askedBy: "amy",

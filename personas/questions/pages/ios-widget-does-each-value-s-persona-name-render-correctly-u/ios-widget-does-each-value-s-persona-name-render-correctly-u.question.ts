@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const iosWidgetDoesEachValueSPersonaNameRenderCorrectlyU = {
   id: "019f94cc-c228-777b-a7a5-26d2c2c268a4",
   pageTypeSlug: "question",
+  type: "question",
   slug: "ios-widget-does-each-value-s-persona-name-render-correctly-u",
   ask: "iOS widget: does each value's persona name render correctly under its stoplight circle on your phone?",
   askedBy: "aura",

@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const doesApprovalsBelongOnTheGlobalInstructionSurfaceRath = {
   id: "019fb427-61e6-7fab-a9a2-8b8a5236d94f",
   pageTypeSlug: "question",
+  type: "question",
   slug: "does-approvals-belong-on-the-global-instruction-surface-rath",
   ask: "Does `# Approvals` belong on the global instruction surface rather than in the code repo's root `CLAUDE.md`?",
   askedBy: "aine",

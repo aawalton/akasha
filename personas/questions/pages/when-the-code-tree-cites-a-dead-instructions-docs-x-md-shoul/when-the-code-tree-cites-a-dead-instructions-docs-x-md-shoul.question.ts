@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const whenTheCodeTreeCitesADeadInstructionsDocsXMdShoul = {
   id: "019fbb34-9acb-7271-a883-af3d788b3cf4",
   pageTypeSlug: "question",
+  type: "question",
   slug: "when-the-code-tree-cites-a-dead-instructions-docs-x-md-shoul",
   ask: "When the code tree cites a dead `~/instructions/docs/<x>.md`, should the repair repoint at the rebuilt surface in the instructions repo, or move the document into the code tree? Branch 17353 has done the second, once, and it would invert the estate's premise if it becomes the pattern.",
   askedBy: "athena",

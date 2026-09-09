@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const exp4IsReRenderedTheWayYouAskedStraightContinuousM = {
   id: "019f771b-2bba-77c7-9001-e66cbe5a24c3",
   pageTypeSlug: "question",
+  type: "question",
   slug: "exp-4-is-re-rendered-the-way-you-asked-straight-continuous-m",
   ask: "Exp-4 is re-rendered the way you asked — straight continuous MOSS, splice machinery fully removed. Does the pacing sound right now?",
   askedBy: "echo",

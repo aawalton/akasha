@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const completionCleanup14317TheFoldedSkillPointFinderStill = {
   id: "019f7140-ac8f-7807-8e08-39cd04305e39",
   pageTypeSlug: "question",
+  type: "question",
   slug: "completion-cleanup-14317-the-folded-skill-point-finder-still",
   ask: "Completion cleanup (#14317): the folded Skill Point Finder still has its own separate window (USPF_GUI — cross-character skill-point sources view with its own SavedVariables). The native task-HUD also tracks skill points. Retire the separate window, or keep it as a distinct cross-char view?",
   askedBy: "ember",

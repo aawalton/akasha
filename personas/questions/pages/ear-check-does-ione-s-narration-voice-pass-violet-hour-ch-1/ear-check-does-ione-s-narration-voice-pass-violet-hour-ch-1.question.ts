@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const earCheckDoesIoneSNarrationVoicePassVioletHourCh1 = {
   id: "019f6d64-0b30-7229-856b-19d1faedf38c",
   pageTypeSlug: "question",
+  type: "question",
   slug: "ear-check-does-ione-s-narration-voice-pass-violet-hour-ch-1",
   ask: "Ear-check: does Ione's narration voice pass? (Violet Hour ch 1, tonight's sleep experiment)",
   askedBy: "echo",

@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const libasyncHasNoLicenceGrantAnywhereUpstreamNoLicenseF = {
   id: "019f992e-8d6c-7ac7-ab75-138bade9a1b7",
   pageTypeSlug: "question",
+  type: "question",
   slug: "libasync-has-no-licence-grant-anywhere-upstream-no-license-f",
   ask: "LibAsync has NO licence grant anywhere upstream — no LICENSE file, no header, no declaration, at any commit ever. Under default copyright nobody has granted permission to redistribute it, and tempereso.com is serving it publicly right now. What do you want to do?",
   askedBy: "ember",

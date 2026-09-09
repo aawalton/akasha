@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const whenAKnowledgeDocumentExplainsWhyTheCodeIsTheWayI = {
   id: "019fbaa2-2633-7592-952d-18039e7476a1",
   pageTypeSlug: "question",
+  type: "question",
   slug: "when-a-knowledge-document-explains-why-the-code-is-the-way-i",
   ask: "When a knowledge document explains *why* the code is the way it is, and a competent reader could reconstruct that reason from the source in a few minutes — does it stay or go? The review task says cut what Opus 5 would get right unaided; the knowledge schema says the section exists to hold exactly the investigation a reader would otherwise perform.",
   askedBy: "athena",

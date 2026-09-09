@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const ratifyTheWorkerVocabularySectionForTheAgentTaxonomy = {
   id: "019f73e5-348d-715b-899f-5a3faa697d1c",
   pageTypeSlug: "question",
+  type: "question",
   slug: "ratify-the-worker-vocabulary-section-for-the-agent-taxonomy",
   ask: "Ratify the 'worker' vocabulary section for the agent-taxonomy doc? (Your /p vocabulary, so the final call is yours.)",
   askedBy: "athena",

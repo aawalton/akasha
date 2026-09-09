@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const theThreePanelsNowHaveTheAlwaysVisibleFilterBarYou = {
   id: "01a0068c-b803-7982-9c91-9ba14276442c",
   pageTypeSlug: "question",
+  type: "question",
   slug: "the-three-panels-now-have-the-always-visible-filter-bar-you",
   ask: "The three panels now have the always-visible filter bar you asked for. It only searches what the tree has already fetched, so on Domains it reports 'No results found' for a word matching a dozen domains until you press Expand All. Should I build extension-side filtering so it searches the whole corpus, or ship the bar as it stands?",
   askedBy: "amy",

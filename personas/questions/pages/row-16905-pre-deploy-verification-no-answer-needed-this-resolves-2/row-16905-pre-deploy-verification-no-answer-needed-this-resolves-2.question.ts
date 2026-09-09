@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const row16905PreDeployVerificationNoAnswerNeededThisResolves2 = {
   id: "019fa89b-2517-786f-a70c-4a49cc21cd52",
   pageTypeSlug: "question",
+  type: "question",
   slug: "row-16905-pre-deploy-verification-no-answer-needed-this-resolves-2",
   ask: "[#16905 pre-deploy verification — no answer needed, this resolves itself] Second of two asks. Under the old rule this one was silently dropped and never reached you.",
   askedBy: "athena",

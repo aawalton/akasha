@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const theLast18DeadExportsOn19419CascadeDeletingEachOne = {
   id: "01a017f4-4f14-79ac-adc3-d082e1843c77",
   pageTypeSlug: "question",
+  type: "question",
   slug: "the-last-18-dead-exports-on-19419-cascade-deleting-each-one",
   ask: "The last 18 dead exports on 19419 cascade — deleting each one kills its only in-file user, so alan-ask.ts, list-count.ts and project-pages.ts collapse to near-empty rather than each losing a line. Ride this branch, or split into its own project?",
   askedBy: "dalla",

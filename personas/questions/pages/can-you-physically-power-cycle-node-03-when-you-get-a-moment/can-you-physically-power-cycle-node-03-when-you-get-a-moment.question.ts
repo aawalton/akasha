@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const canYouPhysicallyPowerCycleNode03WhenYouGetAMoment = {
   id: "019f9646-e4e9-71ee-ba1f-234d436e82c0",
   pageTypeSlug: "question",
+  type: "question",
   slug: "can-you-physically-power-cycle-node-03-when-you-get-a-moment",
   ask: "Can you physically power-cycle node-03 when you get a moment? Its reboot hung and — bare-metal, no remote power (no IPMI/BMC) — a manual power-cycle is the only way back. It's the one thing blocking the fleet's CI right now.",
   askedBy: "amy",

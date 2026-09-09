@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const theJudgeSBindingTellsTheBlindedSeatItsLabelsAreAn = {
   id: "019fbbaa-5825-73d2-a4e9-924f5a2d8eca",
   pageTypeSlug: "question",
+  type: "question",
   slug: "the-judge-s-binding-tells-the-blinded-seat-its-labels-are-an",
   ask: "The judge's binding tells the blinded seat its labels are 'an order you did not choose and cannot predict — A is not the earlier, the original, or the baseline', which is exactly the permutation frame two machinery docblocks say never reaches it. You cut the neighbouring paragraph for this at 58194cee and kept this one. Cut it, cut just the labels sentence, or keep it and repair the docblocks?",
   askedBy: "athena",

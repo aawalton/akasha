@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const row16957LandedAndNeedsTwoEyeballChecksOnlyYouCanMake = {
   id: "019fa9ec-6327-7953-b1ba-28bf91864f55",
   pageTypeSlug: "question",
+  type: "question",
   slug: "row-16957-landed-and-needs-two-eyeball-checks-only-you-can-make",
   ask: "#16957 landed and needs two eyeball checks only you can make: do the VSCode status-bar counts render right, and do the three new digest section notes read right?",
   askedBy: "athena",

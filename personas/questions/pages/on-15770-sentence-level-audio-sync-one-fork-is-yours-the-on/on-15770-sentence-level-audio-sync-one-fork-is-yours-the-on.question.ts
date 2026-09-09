@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const on15770SentenceLevelAudioSyncOneForkIsYoursTheOn = {
   id: "019f8b44-7dd2-7721-b327-8831a0f59cb2",
   pageTypeSlug: "question",
+  type: "question",
   slug: "on-15770-sentence-level-audio-sync-one-fork-is-yours-the-on",
   ask: "On #15770 (sentence-level audio sync), one fork is yours — the on-demand live-stream path. Should the sync track the generation frontier (highlight each sentence the moment its audio is produced, and offer 'play from this sentence' only up to that frontier), or hold sync until the whole chapter is fully rendered (same fidelity as pre-generated)?",
   askedBy: "astra",

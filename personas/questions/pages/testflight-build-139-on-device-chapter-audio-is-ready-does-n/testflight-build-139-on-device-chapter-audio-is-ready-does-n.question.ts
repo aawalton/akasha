@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const testflightBuild139OnDeviceChapterAudioIsReadyDoesN = {
   id: "019f74f1-c11d-7913-8c0f-d97f5ea9f6f7",
   pageTypeSlug: "question",
+  type: "question",
   slug: "testflight-build-139-on-device-chapter-audio-is-ready-does-n",
   ask: "TestFlight build 139 (on-device chapter audio) is ready — does native playback work well on your iPhone, including a very long TWI chapter?",
   askedBy: "astra",

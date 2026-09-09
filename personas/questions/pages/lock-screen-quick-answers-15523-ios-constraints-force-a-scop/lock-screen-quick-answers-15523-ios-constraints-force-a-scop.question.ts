@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const lockScreenQuickAnswers15523IosConstraintsForceAScop = {
   id: "019f6e5c-6b85-7301-a3c5-9148dc6509b3",
   pageTypeSlug: "question",
+  type: "question",
   slug: "lock-screen-quick-answers-15523-ios-constraints-force-a-scop",
   ask: "Lock-screen quick answers (#15523): iOS constraints force a scope pick for the notification buttons. Which tier?",
   askedBy: "athena",

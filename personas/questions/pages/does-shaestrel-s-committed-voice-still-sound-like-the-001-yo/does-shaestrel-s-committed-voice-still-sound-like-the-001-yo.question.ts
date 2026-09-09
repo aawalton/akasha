@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const doesShaestrelSCommittedVoiceStillSoundLikeThe001Yo = {
   id: "019f95f6-7094-7d0c-8236-4d6811c79a95",
   pageTypeSlug: "question",
+  type: "question",
   slug: "does-shaestrel-s-committed-voice-still-sound-like-the-001-yo",
   ask: "Does Shaestrel's committed voice still sound like the 001 you picked? I sent 3 clips of her runtime (cloned) voice — just checking the clone didn't drift before I lock Bar 6.",
   askedBy: "sophia",

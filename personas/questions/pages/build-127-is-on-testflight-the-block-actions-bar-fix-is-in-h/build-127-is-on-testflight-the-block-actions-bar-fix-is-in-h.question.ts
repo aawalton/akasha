@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const build127IsOnTestflightTheBlockActionsBarFixIsInH = {
   id: "019f6a99-6ba9-7ad7-b1eb-8b8e5bfe0f7a",
   pageTypeSlug: "question",
+  type: "question",
   slug: "build-127-is-on-testflight-the-block-actions-bar-fix-is-in-h",
   ask: "Build 127 is on TestFlight — the block-actions bar fix is in. How do the checks look?",
   askedBy: "astra",

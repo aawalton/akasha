@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const rcCheckDoesEchoShowConnectedOrDisconnectedInYourAp = {
   id: "019f71fe-323e-74a4-9ab6-c548df52b161",
   pageTypeSlug: "question",
+  type: "question",
   slug: "rc-check-does-echo-show-connected-or-disconnected-in-your-ap",
   ask: "RC check: does echo show CONNECTED or disconnected in your app right now?",
   askedBy: "athena",

@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const row15793OnDeviceCheckBelowTheContextYouShouldSeeTwoR = {
   id: "019f95f9-0b0b-759f-a402-aaa2991e731b",
   pageTypeSlug: "question",
+  type: "question",
   slug: "row-15793-on-device-check-below-the-context-you-should-see-two-r",
   ask: "15793 on-device check: below the context you should see two review-link cards — a 'Web ↗' card and a 'Native →' card. Does the web card open its URL in a browser, does the native card route IN-APP when you tap it here in the shell, and does this answer box stay above the fold (the review cards must not push it out of reach)?",
   askedBy: "athena",

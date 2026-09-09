@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const dsPersonaFantasyWhichPullOneOfTheFiveWearingItsFf = {
   id: "019f6957-49cc-7ebe-8e79-b4b61ac932fd",
   pageTypeSlug: "question",
+  type: "question",
   slug: "ds-persona-fantasy-which-pull-one-of-the-five-wearing-its-ff",
   ask: "DS persona Fantasy: which pull — one of the five wearing its FF crossover, the Cid line, or a blend?",
   askedBy: "sophia",

@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const for1599315988DoYouWantToSpend3MinutesInGameToUn = {
   id: "019f99d7-aebc-7585-9e87-b7accbcd8b18",
   pageTypeSlug: "question",
+  type: "question",
   slug: "for-15993-15988-do-you-want-to-spend-3-minutes-in-game-to-un",
   ask: "For #15993/#15988: do you want to spend ~3 minutes in-game to unblock M1 today, or wait for the extraction that takes you out of both rows permanently?",
   askedBy: "aine",

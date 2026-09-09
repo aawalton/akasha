@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const craftingCleanup14325TheFoldedAddonsStillAnswerTheir = {
   id: "019f7113-d390-7905-a492-2766bd1d0af4",
   pageTypeSlug: "question",
+  type: "question",
   slug: "crafting-cleanup-14325-the-folded-addons-still-answer-their",
   ask: "Crafting cleanup (#14325): the folded addons still answer their legacy slash commands — /writworthy, //cs, /potionmaker. Retire them in favor of Temper-native command names, or keep the old commands as aliases?",
   askedBy: "ember",

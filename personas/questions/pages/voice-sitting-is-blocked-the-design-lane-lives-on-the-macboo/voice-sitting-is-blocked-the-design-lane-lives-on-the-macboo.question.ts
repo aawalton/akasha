@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const voiceSittingIsBlockedTheDesignLaneLivesOnTheMacboo = {
   id: "019f6e6b-094b-7a70-99fd-eb606c76e687",
   pageTypeSlug: "question",
+  type: "question",
   slug: "voice-sitting-is-blocked-the-design-lane-lives-on-the-macboo",
   ask: "Voice sitting is blocked — the design lane lives on the macbook. Which way?",
   askedBy: "sophia",

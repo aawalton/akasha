@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const intakeQuestionOneOfFiveNotifyPunchByTextMessageWha = {
   id: "019f6923-fca9-72ab-9e55-bec8aca9c731",
   pageTypeSlug: "question",
+  type: "question",
   slug: "intake-question-one-of-five-notify-punch-by-text-message-wha",
   ask: "Intake, question one of five: 'notify/punch by text message' — what did you mean? Which direction does the text go?",
   askedBy: "atlas",

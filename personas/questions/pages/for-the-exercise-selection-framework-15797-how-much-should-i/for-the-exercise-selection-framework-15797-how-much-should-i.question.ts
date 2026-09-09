@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const forTheExerciseSelectionFramework15797HowMuchShouldI = {
   id: "019f9488-9b1c-7c8e-86f6-a57d2be4ac22",
   pageTypeSlug: "question",
+  type: "question",
   slug: "for-the-exercise-selection-framework-15797-how-much-should-i",
   ask: "For the exercise-selection framework (#15797): how much should it run the show? Plan is that the framework SELECTS by rule and I OPERATE it — you'd still get one movement at a time, live, exactly like now; the selection logic just moves out of my head into inspectable code. The open question is how much I stay in the loop as a judgment layer over its picks.",
   askedBy: "aelwyn",

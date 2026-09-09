@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const mayIRunBunOpsZimageDownToFree113GbOfGpuSoThe = {
   id: "019f98e8-1af4-7ce1-9298-159bff220895",
   pageTypeSlug: "question",
+  type: "question",
   slug: "may-i-run-bun-ops-zimage-down-to-free-11-3-gb-of-gpu-so-the",
   ask: "May I run 'bun ops zimage down' to free 11.3 GB of GPU so the workstation upscaler works again?",
   askedBy: "sophia",

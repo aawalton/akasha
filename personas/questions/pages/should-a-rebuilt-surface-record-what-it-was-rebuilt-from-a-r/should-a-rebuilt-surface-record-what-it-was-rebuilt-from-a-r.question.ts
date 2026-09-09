@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const shouldARebuiltSurfaceRecordWhatItWasRebuiltFromAR = {
   id: "019fbaba-0062-76ca-ba4a-a8d2a52bfcdf",
   pageTypeSlug: "question",
+  type: "question",
   slug: "should-a-rebuilt-surface-record-what-it-was-rebuilt-from-a-r",
   ask: "Should a rebuilt surface record what it was rebuilt from — a `rebuilt-from:` key the door could refuse a review stamp without? Three seats reached this independently tonight, and without it a stamp on a rebuilt surface cannot be told from one made blind.",
   askedBy: "athena",

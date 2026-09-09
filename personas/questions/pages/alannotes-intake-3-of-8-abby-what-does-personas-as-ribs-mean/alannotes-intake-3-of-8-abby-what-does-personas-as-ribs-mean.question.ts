@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const alannotesIntake3Of8AbbyWhatDoesPersonasAsRibsMean = {
   id: "019f691e-e63d-78ca-a18c-ecb99a9f78af",
   pageTypeSlug: "question",
+  type: "question",
   slug: "alannotes-intake-3-of-8-abby-what-does-personas-as-ribs-mean",
   ask: "alanNotes intake, 3 of 8 (Abby): what does 'personas as ribs' mean?",
   askedBy: "aine",

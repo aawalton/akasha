@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const alanWhereIsYourSafetyRightNowOnYourScale = {
   id: "019f5541-1ec0-780c-a76f-fa4355f062c7",
   pageTypeSlug: "question",
+  type: "question",
   slug: "alan-where-is-your-safety-right-now-on-your-scale",
   ask: "Alan, where is your safety right now, on your scale?",
   askedBy: "grace",

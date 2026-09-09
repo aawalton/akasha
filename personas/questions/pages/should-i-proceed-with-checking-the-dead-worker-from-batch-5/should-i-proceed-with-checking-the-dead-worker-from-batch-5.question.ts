@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const shouldIProceedWithCheckingTheDeadWorkerFromBatch5 = {
   id: "019f5bb1-2513-7164-b984-ff2d6f3bbf35",
   pageTypeSlug: "question",
+  type: "question",
   slug: "should-i-proceed-with-checking-the-dead-worker-from-batch-5",
   ask: "Should I proceed with checking the dead worker from Batch 5 and reviving or re-dispatching it?",
   askedBy: "rhia",

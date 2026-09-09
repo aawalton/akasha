@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const build126IsOnTestflightFrameFixesGapFixesToCheckPl = {
   id: "019f6a75-4823-774f-9261-0d8d847fbe1e",
   pageTypeSlug: "question",
+  type: "question",
   slug: "build-126-is-on-testflight-frame-fixes-gap-fixes-to-check-pl",
   ask: "Build 126 is on TestFlight. Frame fixes + gap fixes to check, plus ONE diagnostic observation that pinpoints the missing block-actions bar — how did it go?",
   askedBy: "astra",

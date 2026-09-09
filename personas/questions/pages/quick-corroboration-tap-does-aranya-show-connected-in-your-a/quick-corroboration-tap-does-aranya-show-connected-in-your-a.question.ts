@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const quickCorroborationTapDoesAranyaShowConnectedInYourA = {
   id: "019f6fb2-9833-7a7c-ade7-5f2851c0e72a",
   pageTypeSlug: "question",
+  type: "question",
   slug: "quick-corroboration-tap-does-aranya-show-connected-in-your-a",
   ask: "Quick corroboration tap: does aranya show CONNECTED in your app right now?",
   askedBy: "athena",

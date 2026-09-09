@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const theMacbookSInferenceFleetDiesOnEveryRebootAndOnly = {
   id: "019f9851-a75a-7806-8489-0120e7323030",
   pageTypeSlug: "question",
+  type: "question",
   slug: "the-macbook-s-inference-fleet-dies-on-every-reboot-and-only",
   ask: "The macbook's inference fleet dies on every reboot and only YOUR physical console login can revive it — want me to fix that permanently? (Not an outage: fleet is healthy now.)",
   askedBy: "aranya",

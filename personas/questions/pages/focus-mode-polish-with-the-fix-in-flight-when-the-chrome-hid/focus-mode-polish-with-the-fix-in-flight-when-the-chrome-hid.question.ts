@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const focusModePolishWithTheFixInFlightWhenTheChromeHid = {
   id: "019f6a49-0329-7efe-933a-e53cdb762836",
   pageTypeSlug: "question",
+  type: "question",
   slug: "focus-mode-polish-with-the-fix-in-flight-when-the-chrome-hid",
   ask: "Focus mode polish (with the fix in flight): when the chrome hides, should the centered title stay as a minimal breadcrumb, or is focus mode fully chrome-free — nothing but content?",
   askedBy: "astra",

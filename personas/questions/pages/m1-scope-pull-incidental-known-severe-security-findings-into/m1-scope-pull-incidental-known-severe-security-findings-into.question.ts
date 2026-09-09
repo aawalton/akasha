@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const m1ScopePullIncidentalKnownSevereSecurityFindingsInto = {
   id: "019f95fb-889a-7261-ac38-9599f17c8dae",
   pageTypeSlug: "question",
+  type: "question",
   slug: "m1-scope-pull-incidental-known-severe-security-findings-into",
   ask: "M1 scope: pull incidental known-severe security findings into M1, or firm-wall them to M2?",
   askedBy: "aine",

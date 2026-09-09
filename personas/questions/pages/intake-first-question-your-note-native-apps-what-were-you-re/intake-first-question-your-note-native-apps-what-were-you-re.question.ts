@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const intakeFirstQuestionYourNoteNativeAppsWhatWereYouRe = {
   id: "019f692d-fd94-774c-86a2-ef316ef8d673",
   pageTypeSlug: "question",
+  type: "question",
   slug: "intake-first-question-your-note-native-apps-what-were-you-re",
   ask: "Intake, first question: your note 'native apps?' — what were you reaching for?",
   askedBy: "sophia",

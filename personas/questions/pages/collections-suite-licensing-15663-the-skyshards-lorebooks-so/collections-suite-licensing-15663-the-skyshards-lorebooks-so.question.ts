@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const collectionsSuiteLicensing15663TheSkyshardsLorebooksSo = {
   id: "019f71e2-fbf1-75eb-bb32-e59daf2cd5ee",
   pageTypeSlug: "question",
+  type: "question",
   slug: "collections-suite-licensing-15663-the-skyshards-lorebooks-so",
   ask: "Collections suite licensing (#15663): the SkyShards + LoreBooks sources are dual-licensed MIT / CC BY-NC-SA 4.0 — the NC (non-commercial) + SA (share-alike copyleft) terms go beyond simple attribution. What licensing posture do you want for the Temper suite?",
   askedBy: "ember",

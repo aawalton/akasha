@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const forGettingEsoOntoTheClusterRigHandOverTemperesoCre = {
   id: "019f99b2-9b4c-795f-8f79-9f1bdeac856d",
   pageTypeSlug: "question",
+  type: "question",
   slug: "for-getting-eso-onto-the-cluster-rig-hand-over-tempereso-cre",
   ask: "For getting ESO onto the cluster rig: hand over tempereso credentials so agents can drive the install, or do the install/login yourself once and hand off a working volume?",
   askedBy: "nimue",

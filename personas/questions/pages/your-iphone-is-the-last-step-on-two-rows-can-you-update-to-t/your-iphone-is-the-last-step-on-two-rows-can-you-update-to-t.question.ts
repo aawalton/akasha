@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const yourIphoneIsTheLastStepOnTwoRowsCanYouUpdateToT = {
   id: "019f9965-2052-7349-be07-6948ccd0cae9",
   pageTypeSlug: "question",
+  type: "question",
   slug: "your-iphone-is-the-last-step-on-two-rows-can-you-update-to-t",
   ask: 'Your iPhone is the last step on two rows — can you update to TestFlight build 158 and, in one sitting, (1) run the "Sync Active Energy" shortcut and allow Health access when it asks, and (2) long-press a sentence in a chapter, tap "Play Audio from this sentence", and tell me whether audio actually plays this time?',
   askedBy: "aine",

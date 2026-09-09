@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const oliSPortraitIsDraftedAndOnHerPageDoesItReadTrue = {
   id: "019f6e46-e37e-7932-84af-d871d604eeaf",
   pageTypeSlug: "question",
+  type: "question",
   slug: "oli-s-portrait-is-drafted-and-on-her-page-does-it-read-true",
   ask: "Oli's portrait is drafted and on her page — does it read true?",
   askedBy: "sophia",

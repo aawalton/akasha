@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const doesThePersonaAxisGetOneUniversalSurfaceOrDoesUniv = {
   id: "019fade7-95c0-7855-ade8-c2b91640d219",
   pageTypeSlug: "question",
+  type: "question",
   slug: "does-the-persona-axis-get-one-universal-surface-or-does-univ",
   ask: "Does the persona axis get one universal surface, or does universal-persona material go somewhere else?",
   askedBy: "athena",

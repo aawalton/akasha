@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const node03SRebootForTheUinputApply15805HasADocumented = {
   id: "019f94e9-d135-7b84-9989-2c1471b60115",
   pageTypeSlug: "question",
+  type: "question",
   slug: "node-03-s-reboot-for-the-uinput-apply-15805-has-a-documented",
   ask: "node-03's reboot for the uinput apply (#15805) has a documented dark-hang risk that only a physical power-cycle recovers. Hold until you can babysit it, or proceed now accepting the risk?",
   askedBy: "aranya",

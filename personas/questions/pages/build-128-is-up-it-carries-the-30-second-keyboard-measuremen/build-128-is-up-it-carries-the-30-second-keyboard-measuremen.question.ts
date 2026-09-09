@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const build128IsUpItCarriesThe30SecondKeyboardMeasuremen = {
   id: "019f6ad4-cbd1-73b2-8622-11aaab895cba",
   pageTypeSlug: "question",
+  type: "question",
   slug: "build-128-is-up-it-carries-the-30-second-keyboard-measuremen",
   ask: "Build 128 is up — it carries the 30-second keyboard measurement that decides the bar fix. What do the numbers say?",
   askedBy: "astra",

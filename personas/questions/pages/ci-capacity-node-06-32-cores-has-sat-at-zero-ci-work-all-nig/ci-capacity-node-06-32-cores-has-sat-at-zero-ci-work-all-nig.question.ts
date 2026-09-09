@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const ciCapacityNode0632CoresHasSatAtZeroCiWorkAllNig = {
   id: "019f9ad7-0248-7f0d-a09a-dc3e406729fe",
   pageTypeSlug: "question",
+  type: "question",
   slug: "ci-capacity-node-06-32-cores-has-sat-at-zero-ci-work-all-nig",
   ask: "CI capacity: node-06 (32 cores) has sat at ZERO CI work all night while node-05 runs the control plane, the whole worker fleet AND branch CI at 99% CPU with its kube-scheduler failing liveness probes. Throughput is degraded, not blocked. What do you want tonight?",
   askedBy: "dalla",

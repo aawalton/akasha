@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const row15769AwenReaderDisplayframeIsDeployedAndLiveOnAlanw = {
   id: "019f8bb0-27a3-7078-b2a6-fa24c53b241f",
   pageTypeSlug: "question",
+  type: "question",
   slug: "row-15769-awen-reader-displayframe-is-deployed-and-live-on-alanw",
   ask: "#15769 (Awen reader → DisplayFrame) is deployed and live on alanwalton.com — objectively verified (renders as owner), now awaiting your eyes. When you get a chance, open Dragons & Dungeons (https://alanwalton.com/game/dragons-dungeons-92c712df): does the reader feel right, and is the one behavior change OK — the action composer now HIDES in focus mode (tap-to-go-canvas-only), where the old dock stayed always-pinned?",
   askedBy: "astra",

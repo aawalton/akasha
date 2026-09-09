@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const widgetviewLastInchShouldTheWidgetDropUmbrellaProject = {
   id: "019f7216-ff1d-7804-ae9e-6a2151ac9140",
   pageTypeSlug: "question",
+  type: "question",
   slug: "widgetview-last-inch-should-the-widget-drop-umbrella-project",
   ask: "Widget↔view last inch: should the widget drop umbrella projects in ALL buckets (permanent exact match with the view), or stay as-is (umbrellas in later statuses occasionally make it read a few higher than the view)?",
   askedBy: "astra",

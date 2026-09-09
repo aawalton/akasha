@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const theSecondSortFixIsDeployedOnYourTodayUpNextTemper = {
   id: "019f9439-3457-73aa-b7ec-eea7a2d1f40a",
   pageTypeSlug: "question",
+  type: "question",
   slug: "the-second-sort-fix-is-deployed-on-your-today-up-next-temper",
   ask: "The second sort fix is deployed — on your Today/Up Next (temper-tasks view), are rows now ordered by character sort-order WITHIN each priority group (i.e. the second sort visibly applies)?",
   askedBy: "astra",

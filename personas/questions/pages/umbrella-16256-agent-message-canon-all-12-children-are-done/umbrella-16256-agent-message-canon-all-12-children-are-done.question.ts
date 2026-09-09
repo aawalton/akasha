@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const umbrella16256AgentMessageCanonAll12ChildrenAreDone = {
   id: "019f9c70-3cfd-7f93-8fb3-e8bd09f8df44",
   pageTypeSlug: "question",
+  type: "question",
   slug: "umbrella-16256-agent-message-canon-all-12-children-are-done",
   ask: "Umbrella #16256 (agent message canon): all 12 children are done and the thrash mechanism is structurally dead. Does the fleet-restart bar you set mean I can close it now, or does wave 2 — scoring and converting the ~15 remaining announce-class senders — have to land first?",
   askedBy: "athena",

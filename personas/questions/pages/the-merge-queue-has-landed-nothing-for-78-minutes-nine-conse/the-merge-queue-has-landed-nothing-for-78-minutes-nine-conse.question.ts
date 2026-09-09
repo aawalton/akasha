@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const theMergeQueueHasLandedNothingFor78MinutesNineConse = {
   id: "019f9afb-f987-7926-a6e3-39d33806d55a",
   pageTypeSlug: "question",
+  type: "question",
   slug: "the-merge-queue-has-landed-nothing-for-78-minutes-nine-conse",
   ask: "The merge queue has landed NOTHING for 78 minutes — nine consecutive failed batches. The fixes for it are queued behind it, and dispatching the root-cause row needs your capacity gate lifted. How do you want me to break it?",
   askedBy: "dalla",

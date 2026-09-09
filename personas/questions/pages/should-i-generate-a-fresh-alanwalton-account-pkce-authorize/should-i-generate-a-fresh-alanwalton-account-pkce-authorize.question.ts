@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const shouldIGenerateAFreshAlanwaltonAccountPkceAuthorize = {
   id: "019f82b5-e0b4-7bb8-8ef5-055215e3f99e",
   pageTypeSlug: "question",
+  type: "question",
   slug: "should-i-generate-a-fresh-alanwalton-account-pkce-authorize",
   ask: "Should I generate a fresh alanwalton-account PKCE authorize link so you can retry the exact same re-auth recipe on a known-good account?",
   askedBy: "athena",

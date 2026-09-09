@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const beforeWeRenameLibaddonmenu20AndLibcustommenuToTempe = {
   id: "019f999c-5316-73bc-a560-256c5f3681ee",
   pageTypeSlug: "question",
+  type: "question",
   slug: "before-we-rename-libaddonmenu-2-0-and-libcustommenu-to-tempe",
   ask: "Before we rename LibAddonMenu-2.0 and LibCustomMenu to Temper identity, TamrielTradeCentre will lose both dependencies and stop loading in your game. Do you want to install the real ones from Minion first so TTC keeps working, or should we go ahead and let TTC break?",
   askedBy: "ember",

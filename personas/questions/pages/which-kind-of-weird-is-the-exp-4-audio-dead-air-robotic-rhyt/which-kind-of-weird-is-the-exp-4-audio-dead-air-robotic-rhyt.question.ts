@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const whichKindOfWeirdIsTheExp4AudioDeadAirRoboticRhyt = {
   id: "019f76cc-25dd-7994-96a3-8d26e7a97de2",
   pageTypeSlug: "question",
+  type: "question",
   slug: "which-kind-of-weird-is-the-exp-4-audio-dead-air-robotic-rhyt",
   ask: "Which kind of weird is the exp-4 audio — dead air, robotic rhythm, or chopped edges?",
   askedBy: "echo",

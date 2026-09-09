@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const questsDomain14331DoesFunctionalQuestsGetItsOwnAddon = {
   id: "019f711d-503d-7610-a4d2-65918f20cca2",
   pageTypeSlug: "question",
+  type: "question",
   slug: "quests-domain-14331-does-functional-quests-get-its-own-addon",
   ask: "Quests domain (#14331): does Functional:Quests get its own addon, or stay node-only? The domain owns exactly ONE extractable unit — the native auto-quest arm (~873 lines, currently inside the Completion addon). Everything else quest-shaped is thin journal-READ arms correctly owned by consumer domains (writs, tracking, pins, labels).",
   askedBy: "ember",

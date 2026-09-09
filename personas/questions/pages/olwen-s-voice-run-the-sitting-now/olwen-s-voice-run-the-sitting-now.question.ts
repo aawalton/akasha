@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const olwenSVoiceRunTheSittingNow = {
   id: "019f6e68-4875-736e-a3c9-0f1fc624ceb8",
   pageTypeSlug: "question",
+  type: "question",
   slug: "olwen-s-voice-run-the-sitting-now",
   ask: "Olwen's voice — run the sitting now?",
   askedBy: "sophia",

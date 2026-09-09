@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const dsAnchorHuntRealismRestoredRoundDeliveredWhichFaceI = {
   id: "019f6a06-8f0a-7549-bc47-6dc641afdf3a",
   pageTypeSlug: "question",
+  type: "question",
   slug: "ds-anchor-hunt-realism-restored-round-delivered-which-face-i",
   ask: "DS anchor hunt: realism-restored round delivered — which face is closest to her (grading the woman, not the paint — coverage regressed and next round fixes it)?",
   askedBy: "sophia",

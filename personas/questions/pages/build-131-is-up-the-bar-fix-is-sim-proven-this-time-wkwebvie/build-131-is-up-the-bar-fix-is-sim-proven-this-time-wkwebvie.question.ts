@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const build131IsUpTheBarFixIsSimProvenThisTimeWkwebvie = {
   id: "019f6bd5-389f-7245-b5a7-476e62103b3d",
   pageTypeSlug: "question",
+  type: "question",
   slug: "build-131-is-up-the-bar-fix-is-sim-proven-this-time-wkwebvie",
   ask: "Build 131 is up — the bar fix is sim-proven this time (WKWebView corrupts innerHeight in pan mode; the input swap fixed every case in the simulator before landing). How does it look on the real device?",
   askedBy: "astra",

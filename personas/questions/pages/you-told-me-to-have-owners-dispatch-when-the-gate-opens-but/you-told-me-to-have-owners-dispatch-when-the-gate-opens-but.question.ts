@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const youToldMeToHaveOwnersDispatchWhenTheGateOpensBut = {
   id: "019f9b89-26a7-7c3e-8b22-204cae9b064b",
   pageTypeSlug: "question",
+  type: "question",
   slug: "you-told-me-to-have-owners-dispatch-when-the-gate-opens-but",
   ask: "You told me to have owners dispatch when the gate opens — but aranya says you told her 'capture the gaps but don't dispatch them'. Which stands?",
   askedBy: "aine",

@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const postRestartCheckDoRhiaAndAuraShowConnectedInYourA = {
   id: "019f6e40-a792-7468-8c8f-0ac328634a4a",
   pageTypeSlug: "question",
+  type: "question",
   slug: "post-restart-check-do-rhia-and-aura-show-connected-in-your-a",
   ask: "Post-restart check: do rhia and aura show connected in your app now?",
   askedBy: "athena",

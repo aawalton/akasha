@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const intakeOnYourAlannotesCapturesAreItems48StickHeader = {
   id: "019f6929-496a-707b-a219-c16b4168098a",
   pageTypeSlug: "question",
+  type: "question",
   slug: "intake-on-your-alannotes-captures-are-items-4-8-stick-header",
   ask: "Intake on your alanNotes captures: are items 4-8 (stick header, start at rank zero, +10 button, max button, auto-rank toggle) all UI tweaks to the Idle game's ranks surface?",
   askedBy: "aura",

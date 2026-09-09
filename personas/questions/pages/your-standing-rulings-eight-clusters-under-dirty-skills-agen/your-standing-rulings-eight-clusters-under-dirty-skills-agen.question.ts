@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const yourStandingRulingsEightClustersUnderDirtySkillsAgen = {
   id: "019fbb5f-ea6f-7b19-a00c-0d9b1d1514c9",
   pageTypeSlug: "question",
+  type: "question",
   slug: "your-standing-rulings-eight-clusters-under-dirty-skills-agen",
   ask: "Your standing rulings — eight clusters under `dirty/skills/agent-harness/rulings/`, each entry carrying your words, the date and the specimen — are all in quarantine, so nothing on the clean perimeter delivers any of them. Should that corpus be ingested, and if so what ranks it?",
   askedBy: "athena",

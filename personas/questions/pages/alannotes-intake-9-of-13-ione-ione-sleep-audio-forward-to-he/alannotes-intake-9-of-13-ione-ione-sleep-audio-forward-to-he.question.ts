@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const alannotesIntake9Of13IoneIoneSleepAudioForwardToHe = {
   id: "019f6984-dc21-777e-83af-cf667e25b20a",
   pageTypeSlug: "question",
+  type: "question",
   slug: "alannotes-intake-9-of-13-ione-ione-sleep-audio-forward-to-he",
   ask: "alanNotes intake, 9 of 13 (Ione): 'Ione sleep audio' — forward to her seat for intake, or do you have a sharper shape in mind?",
   askedBy: "aine",

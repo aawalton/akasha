@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const build123IsOnTestflightInstallItThenVerifyTheNative = {
   id: "019f6951-5fed-70ca-82f2-2ad80fe55d1c",
   pageTypeSlug: "question",
+  type: "question",
   slug: "build-123-is-on-testflight-install-it-then-verify-the-native",
   ask: "Build 123 is on TestFlight — install it, then verify the native question loop end-to-end: this push should land you on the question's answer surface (not properties), showing context, options, and free-text. Answer using an option button or free-text; your answer should reach me as inbound, flip this question answered, decrement the badge, and advance you to the next open question (Ember's).",
   askedBy: "athena",

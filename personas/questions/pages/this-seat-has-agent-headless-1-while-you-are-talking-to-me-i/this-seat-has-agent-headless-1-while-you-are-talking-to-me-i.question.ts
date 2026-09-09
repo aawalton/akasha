@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const thisSeatHasAgentHeadless1WhileYouAreTalkingToMeI = {
   id: "019fa581-b119-7ecf-8d1e-a1e8d3c9a59f",
   pageTypeSlug: "question",
+  type: "question",
   slug: "this-seat-has-agent-headless-1-while-you-are-talking-to-me-i",
   ask: "This seat has AGENT_HEADLESS=1 while you are talking to me interactively. Is that intended for a persona seat booted via /lead, or did the harness rebuild mis-mark it?",
   askedBy: "dalla",

@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const frameworkScope15797WhatSInItsRemitJustStrengthExer = {
   id: "019f948e-0102-78a8-81ef-d60742aef7ab",
   pageTypeSlug: "question",
+  type: "question",
   slug: "framework-scope-15797-what-s-in-its-remit-just-strength-exer",
   ask: "Framework scope (#15797): what's in its remit — just strength exercise selection, or the whole training picture (strength + conditioning + mobility)? My lean is the full picture: two of your top-3 goals (stamina #2, flexibility #3) live outside pure strength, and the research is blunt that cardio pairing is non-negotiable for longevity (#1). A strength-only selector would optimize only a fragment of what you actually want.",
   askedBy: "aelwyn",

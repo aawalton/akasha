@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const onBuild122WhenTheKeyboardHidAfterDeletingABlockFr = {
   id: "019f6917-63ca-7f90-bc0f-37ae49667e5c",
   pageTypeSlug: "question",
+  type: "question",
   slug: "on-build-122-when-the-keyboard-hid-after-deleting-a-block-fr",
   ask: "On build 122, when the keyboard hid after deleting a block 'from the context menu above the keyboard' — which affordance exactly did you tap?",
   askedBy: "astra",

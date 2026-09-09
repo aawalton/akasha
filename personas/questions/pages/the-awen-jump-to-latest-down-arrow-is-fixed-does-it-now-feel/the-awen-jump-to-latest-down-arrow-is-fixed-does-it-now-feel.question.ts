@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const theAwenJumpToLatestDownArrowIsFixedDoesItNowFeel = {
   id: "019f93ec-402d-7931-be4a-947dc722b7fc",
   pageTypeSlug: "question",
+  type: "question",
   slug: "the-awen-jump-to-latest-down-arrow-is-fixed-does-it-now-feel",
   ask: "The Awen jump-to-latest down-arrow is fixed — does it now feel centered relative to the text on your screen?",
   askedBy: "astra",

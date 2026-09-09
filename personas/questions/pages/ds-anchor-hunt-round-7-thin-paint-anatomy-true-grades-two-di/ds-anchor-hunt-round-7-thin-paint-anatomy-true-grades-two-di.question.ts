@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const dsAnchorHuntRound7ThinPaintAnatomyTrueGradesTwoDi = {
   id: "019f69b3-95ad-71fa-81f3-6eae12810036",
   pageTypeSlug: "question",
+  type: "question",
   slug: "ds-anchor-hunt-round-7-thin-paint-anatomy-true-grades-two-di",
   ask: "DS anchor hunt round 7 (thin paint, anatomy true): grades + two dials?",
   askedBy: "sophia",

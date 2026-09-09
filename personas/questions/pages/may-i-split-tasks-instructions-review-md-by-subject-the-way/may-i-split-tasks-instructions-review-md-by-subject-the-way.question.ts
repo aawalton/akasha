@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const mayISplitTasksInstructionsReviewMdBySubjectTheWay = {
   id: "019fbacb-36af-7251-859d-f7ad43953b8e",
   pageTypeSlug: "question",
+  type: "question",
   slug: "may-i-split-tasks-instructions-review-md-by-subject-the-way",
   ask: "May I split `tasks/instructions-review.md` by subject, the way the questions surfaces split, now that it is full and findings are being lost against its ceiling?",
   askedBy: "athena",

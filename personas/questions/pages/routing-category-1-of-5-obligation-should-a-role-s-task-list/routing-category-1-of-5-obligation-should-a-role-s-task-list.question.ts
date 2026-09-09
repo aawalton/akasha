@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const routingCategory1Of5ObligationShouldARoleSTaskList = {
   id: "019fc383-7526-7b00-8100-6317b6ceea52",
   pageTypeSlug: "question",
+  type: "question",
   slug: "routing-category-1-of-5-obligation-should-a-role-s-task-list",
   ask: "Routing category 1 of 5 — Obligation: should a role's task list stay authored prose, or become a typed `tasks:` manifest composed like `principles:`?",
   askedBy: "vera",

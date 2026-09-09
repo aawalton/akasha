@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const doesThe19104CommentSweepBranchMergeToMain = {
   id: "01a00105-5fa7-7f62-b035-330ab840b022",
   pageTypeSlug: "question",
+  type: "question",
   slug: "does-the-19104-comment-sweep-branch-merge-to-main",
   ask: "Does the #19104 comment-sweep branch merge to main?",
   askedBy: "thea",

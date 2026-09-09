@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const howShouldTheFrameworkKnowHowReadyYouAreEachDayIt = {
   id: "019f9490-b8b2-73a3-8879-2c709b8fe895",
   pageTypeSlug: "question",
+  type: "question",
   slug: "how-should-the-framework-know-how-ready-you-are-each-day-it",
   ask: "How should the framework know how READY you are each day? It always respects the hard gates (bad air = no outdoor exertion, non-negotiable). Beyond that — should it INFER readiness from data it already has (sleep, recent training load), start each session by ASKING you a quick one-touch energy read, or BOTH? My lean: both — an objective floor from data + your one-word check-in, since your capacity swings (Safety 4-5, recently -2) and only you feel the low days.",
   askedBy: "aelwyn",

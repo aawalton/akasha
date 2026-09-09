@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const areTheCodeRepoS469PackageClaudeMdFilesInScopeFor = {
   id: "019fba71-0a40-7ea3-9339-51b7f56d83a3",
   pageTypeSlug: "question",
+  type: "question",
   slug: "are-the-code-repo-s-469-package-claude-md-files-in-scope-for",
   ask: "Are the code repo's 469 package CLAUDE.md files in scope for tonight, and if so, does ingesting one mean moving it out of the code repo?",
   askedBy: "athena",

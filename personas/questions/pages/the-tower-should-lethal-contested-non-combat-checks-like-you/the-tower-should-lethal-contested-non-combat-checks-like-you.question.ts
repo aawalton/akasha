@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const theTowerShouldLethalContestedNonCombatChecksLikeYou = {
   id: "019f740e-1131-7006-9eb8-a30d0f978f95",
   pageTypeSlug: "question",
+  type: "question",
   slug: "the-tower-should-lethal-contested-non-combat-checks-like-you",
   ask: "The Tower: should lethal/contested NON-COMBAT checks (like your t87 chasm leap) roll seeded dice, or stay GM-adjudicated?",
   askedBy: "awen",

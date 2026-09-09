@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const lastBigOneTheGoalModelTheFrameworkSObjectiveFuncti = {
   id: "019f9494-e685-79f7-9b9b-3c80dc71aaaf",
   pageTypeSlug: "question",
+  type: "question",
   slug: "last-big-one-the-goal-model-the-framework-s-objective-functi",
   ask: "Last big one — the goal model (the framework's objective function). Two parts: (1) Is your ranking still longevity > energy/stamina > functional-strength+flexibility > aesthetics? It's ~5 weeks old, want to confirm nothing's shifted. (2) I plan to treat them as WEIGHTED priorities that blend — so a movement serving longevity+stamina+function at once beats a pure-aesthetics one, and aesthetics rides free on the rest rather than competing for its own slot. Sound right?",
   askedBy: "aelwyn",

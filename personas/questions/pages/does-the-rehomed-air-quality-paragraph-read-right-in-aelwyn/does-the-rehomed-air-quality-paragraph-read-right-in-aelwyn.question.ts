@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const doesTheRehomedAirQualityParagraphReadRightInAelwyn = {
   id: "019faa77-a663-740c-8812-19d37c15ae5b",
   pageTypeSlug: "question",
+  type: "question",
   slug: "does-the-rehomed-air-quality-paragraph-read-right-in-aelwyn",
   ask: "Does the rehomed air-quality paragraph read right in Aelwyn's voice?",
   askedBy: "athena",

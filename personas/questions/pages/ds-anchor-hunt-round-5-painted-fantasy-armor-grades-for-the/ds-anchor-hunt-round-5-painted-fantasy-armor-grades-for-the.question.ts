@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const dsAnchorHuntRound5PaintedFantasyArmorGradesForThe = {
   id: "019f69a1-924f-7a74-8714-adaf985af316",
   pageTypeSlug: "question",
+  type: "question",
   slug: "ds-anchor-hunt-round-5-painted-fantasy-armor-grades-for-the",
   ask: "DS anchor hunt, round 5 (painted fantasy armor): grades for the six?",
   askedBy: "sophia",

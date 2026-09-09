@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const callTheAskalanPatternProvenAndRetireThe4HourBackst = {
   id: "019f6c43-b369-7ea4-af73-1fbbe7af7d09",
   pageTypeSlug: "question",
+  type: "question",
   slug: "call-the-askalan-pattern-proven-and-retire-the-4-hour-backst",
   ask: "Call the askAlan pattern proven and retire the 4-hour backstop sweep?",
   askedBy: "athena",

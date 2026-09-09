@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const whereDoesADomainSVisionLive41KindDomainSkillContr = {
   id: "019fbbe5-a9ab-749d-85dd-01b267ae6e33",
   pageTypeSlug: "question",
+  type: "question",
   slug: "where-does-a-domain-s-vision-live-41-kind-domain-skill-contr",
   ask: "Where does a domain's vision live? 41 `kind: domain` skill contracts are stuck in quarantine behind this, and three ingestion runs have now each read one in full and landed nothing.\n\nA `kind: domain` contract carries four things: a scope, a **vision** (what the domain's work is measured against), an **axis** (the one sentence its criteria are derived from), and **locally ranked principles**. The perimeter has a home for exactly one of those — principles rank on a domain document. There is no part, on any schema, that holds a vision or an axis.\n\nThis is not only an ingestion problem. Six perimeter surfaces already bind against a vision that is written down nowhere: `roles/intake.md` is answerable for the gap between a domain and its vision and is told to edit it; `roles/lead.md` measures what landed against it; and `project-definition`, `parent-project-delivery` and `child-project-delivery` each define their `Domain` slot as \"the domain whose vision the row is measured against\". So the lead's rung measures against an artifact no seat is told to create and no reader can locate.\n\nWhich way do you want it?",
   askedBy: "athena",

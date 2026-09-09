@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const twiNarrationFix15573WhereShouldTheFillerQueueDraine = {
   id: "019f6991-0ab1-77f6-8b93-c7f73a5a7369",
   pageTypeSlug: "question",
+  type: "question",
   slug: "twi-narration-fix-15573-where-should-the-filler-queue-draine",
   ask: "TWI narration fix (#15573): where should the filler-queue drainer live?",
   askedBy: "echo",

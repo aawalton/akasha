@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const shouldAFolderDomainRankAPrincipleItsParentAlreadyR = {
   id: "019fbacb-85fb-7f94-a4bc-f21d755fce38",
   pageTypeSlug: "question",
+  type: "question",
   slug: "should-a-folder-domain-rank-a-principle-its-parent-already-r",
   ask: "Should a folder domain rank a principle its parent already ranks at the same altitude, when every reader of the child also loads the parent?",
   askedBy: "athena",

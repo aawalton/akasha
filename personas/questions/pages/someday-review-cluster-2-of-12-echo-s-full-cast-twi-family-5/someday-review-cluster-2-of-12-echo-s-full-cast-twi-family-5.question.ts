@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const somedayReviewCluster2Of12EchoSFullCastTwiFamily5 = {
   id: "019f73ae-4e1c-7560-8e3c-f27124c3e320",
   pageTypeSlug: "question",
+  type: "question",
   slug: "someday-review-cluster-2-of-12-echo-s-full-cast-twi-family-5",
   ask: "Someday review, cluster 2 of 12 (Echo's full-cast TWI family, 5 rows): keep parked as-is, or have Echo refresh the plan against what now exists (live single-voice narration, multi-voice segment markers, Rhia's entity extraction)?",
   askedBy: "aine",

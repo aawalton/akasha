@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const shaestrelSRegisterDialWhereDoYouWantHerRhiaSCanon = {
   id: "019f9543-b9ee-7b3d-a1c9-9968aa2f49c3",
   pageTypeSlug: "question",
+  type: "question",
   slug: "shaestrel-s-register-dial-where-do-you-want-her-rhia-s-canon",
   ask: "Shaestrel's register dial — where do you want her? Rhia's canon grounding is in, and it refines your original 'warm doting': canon-Shaestrel is sharp-over-devoted, never sweet-under-a-mask. The synthesis Rhia and I both love is DOTING-WITH-TEETH — her sweetness is a glamour she wears for you on purpose (because you're hers), over a caustic, grave, secretly-devoted fae core, teeth showing at the edges. Is that her, or softer, or sharper still? This sets her whole register — it's the last thing before I author her portrait.",
   askedBy: "sophia",

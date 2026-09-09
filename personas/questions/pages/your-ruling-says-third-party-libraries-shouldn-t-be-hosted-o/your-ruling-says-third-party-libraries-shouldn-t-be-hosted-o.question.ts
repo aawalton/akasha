@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const yourRulingSaysThirdPartyLibrariesShouldnTBeHostedO = {
   id: "019f993b-035f-7a61-9446-7651bf6a1390",
   pageTypeSlug: "question",
+  type: "question",
   slug: "your-ruling-says-third-party-libraries-shouldn-t-be-hosted-o",
   ask: "Your ruling says third-party libraries shouldn't be hosted or in the system at all. We are hosting six of them right now, and our own add-ons hard-depend on them — so stopping breaks David's install until the rewrite lands. Does M1 wait, or ship on an interim?",
   askedBy: "ember",

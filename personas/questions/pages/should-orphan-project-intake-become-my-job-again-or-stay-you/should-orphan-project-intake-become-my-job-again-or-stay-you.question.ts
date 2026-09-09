@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const shouldOrphanProjectIntakeBecomeMyJobAgainOrStayYou = {
   id: "019f94f7-78c5-741b-aa9f-86728960c3cc",
   pageTypeSlug: "question",
+  type: "question",
   slug: "should-orphan-project-intake-become-my-job-again-or-stay-you",
   ask: "Should orphan-project intake become my job again, or stay yours? I'm currently clarity-only by design.",
   askedBy: "aine",

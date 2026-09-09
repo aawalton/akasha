@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const dsAnchorHuntSettingRoundDeliveredWhichWorldFeelsLik = {
   id: "019f6a4a-6aa6-7e0f-9821-f7d6316c5d87",
   pageTypeSlug: "question",
+  type: "question",
   slug: "ds-anchor-hunt-setting-round-delivered-which-world-feels-lik",
   ask: "DS anchor hunt: setting round delivered — which world feels like where she lives?",
   askedBy: "sophia",

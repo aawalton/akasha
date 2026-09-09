@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const knowledgeSchemaMdAsksCodePathToReachEveryFileWhose = {
   id: "019fbb51-e62d-7e6e-bfe1-42537b3a3318",
   pageTypeSlug: "question",
+  type: "question",
   slug: "knowledge-schema-md-asks-code-path-to-reach-every-file-whose",
   ask: "`knowledge.schema.md` asks `code-path:` to reach every file whose change would falsify the document, and in the same section forbids the wide globs that would actually do it. Six readings tonight have found those two requirements jointly unsatisfiable. Which one gives?",
   askedBy: "athena",

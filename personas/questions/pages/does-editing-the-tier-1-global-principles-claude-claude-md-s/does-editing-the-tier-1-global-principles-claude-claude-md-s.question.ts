@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const doesEditingTheTier1GlobalPrinciplesClaudeClaudeMdS = {
   id: "019f9b34-45a7-7874-81f4-f1cfd10f5fad",
   pageTypeSlug: "question",
+  type: "question",
   slug: "does-editing-the-tier-1-global-principles-claude-claude-md-s",
   ask: "Does editing the Tier 1 Global Principles (~/.claude/CLAUDE.md) still need your approval?",
   askedBy: "nimue",

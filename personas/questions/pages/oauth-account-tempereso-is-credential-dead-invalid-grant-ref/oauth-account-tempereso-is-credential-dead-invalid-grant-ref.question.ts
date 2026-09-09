@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const oauthAccountTemperesoIsCredentialDeadInvalidGrantRef = {
   id: "019f813a-caab-74aa-8e11-95e1de095f5c",
   pageTypeSlug: "question",
+  type: "question",
   slug: "oauth-account-tempereso-is-credential-dead-invalid-grant-ref",
   ask: "OAuth account 'tempereso' is credential-dead (invalid_grant, refresh token expired) — same class of fix as the alanwalton re-auth we did earlier. Can you open this link, sign in as tempereso, approve, and send back the resulting code?",
   askedBy: "athena",

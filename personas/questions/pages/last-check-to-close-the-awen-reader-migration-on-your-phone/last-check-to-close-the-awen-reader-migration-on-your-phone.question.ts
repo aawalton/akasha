@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const lastCheckToCloseTheAwenReaderMigrationOnYourPhone = {
   id: "019f93f6-b506-7c17-a00c-dc0989936d40",
   pageTypeSlug: "question",
+  type: "question",
   slug: "last-check-to-close-the-awen-reader-migration-on-your-phone",
   ask: "Last check to close the Awen reader migration: on your PHONE, open a game and type a turn with the soft keyboard up — does the composer ride ABOVE the keyboard (text box visible while typing), not hidden behind it?",
   askedBy: "astra",

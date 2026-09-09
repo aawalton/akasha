@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const onDemandChapterAudioIsLiveOnWebHowDoesTheGenerati = {
   id: "019f746f-598a-745e-8ae7-5083db3c36b3",
   pageTypeSlug: "question",
+  type: "question",
   slug: "on-demand-chapter-audio-is-live-on-web-how-does-the-generati",
   ask: "On-demand chapter audio is live on web — how does the generating-wait and Kokoro voice quality feel to you?",
   askedBy: "astra",

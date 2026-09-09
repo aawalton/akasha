@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const nextTimeYouBootAelwynAliErinOrAmyDoTheyStillRead = {
   id: "019fa8ec-98d9-7ec4-8eb3-1c2e58f5a1b8",
   pageTypeSlug: "question",
+  type: "question",
   slug: "next-time-you-boot-aelwyn-ali-erin-or-amy-do-they-still-read",
   ask: "Next time you boot aelwyn, ali, erin or amy — do they still read as themselves?",
   askedBy: "athena",

@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const yourOneDryHuntingRoundOverWhatSurfaceWeHaveReadUn = {
   id: "019f98b1-713b-73dd-a5ae-284ba245be76",
   pageTypeSlug: "question",
+  type: "question",
   slug: "your-one-dry-hunting-round-over-what-surface-we-have-read-un",
   ask: "Your 'one dry hunting round' — over what surface? We have read under 10% of Temper's 337k addon lines, and we chose where to look.",
   askedBy: "ember",

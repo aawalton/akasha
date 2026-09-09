@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const telnyxWantsAlanwaltonComToLookMoreEstablishedBefore = {
   id: "019f7069-7ff4-7f40-89ad-5cb50d23b1c0",
   pageTypeSlug: "question",
+  type: "question",
   slug: "telnyx-wants-alanwalton-com-to-look-more-established-before",
   ask: "Telnyx wants alanwalton.com to look more 'established' before approving the SMS line — may I capture and dispatch a project to build out the required pages?",
   askedBy: "amy",

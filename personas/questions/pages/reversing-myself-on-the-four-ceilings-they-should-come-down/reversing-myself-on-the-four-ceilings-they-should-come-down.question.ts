@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const reversingMyselfOnTheFourCeilingsTheyShouldComeDown = {
   id: "019fc3a6-3a9d-798f-ba9c-248384c1dad2",
   pageTypeSlug: "question",
+  type: "question",
   slug: "reversing-myself-on-the-four-ceilings-they-should-come-down",
   ask: "Reversing myself on the four ceilings: they should come down to Record 2000 after all. Confirm?",
   askedBy: "vera",

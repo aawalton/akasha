@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const whenAnAgentSendsYouSomethingDoesItActuallyReachYou = {
   id: "019faba4-0b50-7b2b-b634-06e015c274ec",
   pageTypeSlug: "question",
+  type: "question",
   slug: "when-an-agent-sends-you-something-does-it-actually-reach-you",
   ask: "When an agent sends you something, does it actually reach your device?",
   askedBy: "athena",

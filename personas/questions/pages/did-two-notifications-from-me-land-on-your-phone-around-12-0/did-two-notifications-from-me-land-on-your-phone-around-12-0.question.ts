@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const didTwoNotificationsFromMeLandOnYourPhoneAround120 = {
   id: "019fa8de-adc7-7e7a-a003-3c7dc16bf49b",
   pageTypeSlug: "question",
+  type: "question",
   slug: "did-two-notifications-from-me-land-on-your-phone-around-12-0",
   ask: "Did two notifications from me land on your phone around 12:04 UTC today, and did they read sensibly?",
   askedBy: "athena",

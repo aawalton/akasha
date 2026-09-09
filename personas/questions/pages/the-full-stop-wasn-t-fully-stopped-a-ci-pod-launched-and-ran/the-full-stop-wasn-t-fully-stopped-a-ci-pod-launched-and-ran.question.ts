@@ -3,6 +3,7 @@ import type { Question } from "../../question.page-type.ts"
 export const theFullStopWasnTFullyStoppedACiPodLaunchedAndRan = {
   id: "019f9ab0-c871-7ae0-a90a-49136683e8ac",
   pageTypeSlug: "question",
+  type: "question",
   slug: "the-full-stop-wasn-t-fully-stopped-a-ci-pod-launched-and-ran",
   ask: "The full stop wasn't fully stopped: a CI pod launched and ran 50s AFTER your cancel of pipeline 25909. Do you want this root-caused now, before further restart steps — or filed as a row for the normal queue?",
   askedBy: "aine",
