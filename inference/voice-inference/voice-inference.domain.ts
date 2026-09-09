@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const voiceInference = {
   id: "01a06815-9efd-701e-a4d4-a26f49e97554",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "voice-inference",
   definition: "speech turned into text and text turned into speech on one card",
-  manifest: "json",
   parts: [
     "container-recipe/voice-infer-image",
     "manifest/voice-infer",
@@ -30,4 +29,4 @@ export const voiceInference = {
       statement: "The card this package runs on takes int8 weights and not float16 ones.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

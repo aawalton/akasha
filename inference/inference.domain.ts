@@ -12,7 +12,7 @@ export const inference = {
     "domain/inference-commands",
     "workspace-package/inference-pool",
     "workspace-package/inference-run",
-    "workspace-package/voice-inference",
+    "domain/voice-inference",
   ],
   invariants: [
     {

@@ -908,9 +908,6 @@
         "zod": "^4.3.6",
       },
     },
-    "inference/voice-inference": {
-      "name": "@akasha/voice-inference",
-    },
     "infrastructure/auth-proxy": {
       "name": "@akasha/auth-proxy",
       "dependencies": {
@@ -3103,8 +3100,6 @@
     "@akasha/verdict": ["@akasha/verdict@workspace:verdict"],
 
     "@akasha/voice-core": ["@akasha/voice-core@workspace:alan/harness/voice-core"],
-
-    "@akasha/voice-inference": ["@akasha/voice-inference@workspace:inference/voice-inference"],
 
     "@akasha/wan": ["@akasha/wan@workspace:inference/generations/wan"],
 

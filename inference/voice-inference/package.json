@@ -1,7 +1,0 @@
-{
-  "name": "@akasha/voice-inference",
-  "private": true,
-  "type": "module",
-  "dependencies": {
-  }
-}
