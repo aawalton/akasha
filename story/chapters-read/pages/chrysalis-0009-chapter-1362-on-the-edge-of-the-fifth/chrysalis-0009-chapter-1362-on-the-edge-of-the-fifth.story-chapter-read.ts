@@ -5,7 +5,7 @@ export const chrysalis0009Chapter1362OnTheEdgeOfTheFifth = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0009-chapter-1362-on-the-edge-of-the-fifth",
   title: "Chapter 1362 - On the Edge of the Fifth",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 9,
   ownLength: 1050,
   ownProgress: 1050,

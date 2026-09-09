@@ -5,7 +5,7 @@ export const chrysalis0227Chapter1579Abduction = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0227-chapter-1579-abduction",
   title: "Chapter 1579 - Abduction",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 227,
   ownLength: 969,
   ownProgress: 969,

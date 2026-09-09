@@ -5,7 +5,7 @@ export const chrysalis0163Chapter1515CorruptionWakes = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0163-chapter-1515-corruption-wakes",
   title: "Chapter 1515 - Corruption Wakes",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 163,
   ownLength: 976,
   ownProgress: 976,

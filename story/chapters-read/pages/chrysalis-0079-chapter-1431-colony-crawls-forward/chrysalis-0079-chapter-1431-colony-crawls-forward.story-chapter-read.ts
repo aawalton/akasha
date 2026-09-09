@@ -5,7 +5,7 @@ export const chrysalis0079Chapter1431ColonyCrawlsForward = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0079-chapter-1431-colony-crawls-forward",
   title: "Chapter 1431 - Colony Crawls Forward",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 79,
   ownLength: 1018,
   ownProgress: 1018,

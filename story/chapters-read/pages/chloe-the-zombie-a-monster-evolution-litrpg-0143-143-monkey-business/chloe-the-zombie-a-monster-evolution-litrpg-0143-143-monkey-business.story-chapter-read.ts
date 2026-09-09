@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0143143MonkeyBusiness = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0143-143-monkey-business",
   title: "143: Monkey Business",
-  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 143,
   ownLength: 1811,
   unitSlug: "words",

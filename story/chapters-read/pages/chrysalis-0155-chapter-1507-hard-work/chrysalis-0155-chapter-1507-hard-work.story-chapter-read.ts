@@ -5,7 +5,7 @@ export const chrysalis0155Chapter1507HardWork = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0155-chapter-1507-hard-work",
   title: "Chapter 1507 - Hard Work",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 155,
   ownLength: 1080,
   ownProgress: 1080,

@@ -5,7 +5,7 @@ export const chrysalis0191Chapter1543Choir = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0191-chapter-1543-choir",
   title: "Chapter 1543 - Choir",
-  partOfCollectionSlugs: ["story-read/chrysalis"],
+  storySlug: "story-read/chrysalis",
   position: 191,
   ownLength: 1093,
   ownProgress: 1093,

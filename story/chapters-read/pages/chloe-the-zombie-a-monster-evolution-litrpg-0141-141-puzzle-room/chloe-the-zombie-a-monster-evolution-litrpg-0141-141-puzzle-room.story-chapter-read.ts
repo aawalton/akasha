@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg0141141PuzzleRoom = {
   pageTypeSlug: "story-chapter-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg-0141-141-puzzle-room",
   title: "141: Puzzle Room",
-  partOfCollectionSlugs: ["chloe-the-zombie-a-monster-evolution-litrpg"],
+  storySlug: "chloe-the-zombie-a-monster-evolution-litrpg",
   position: 141,
   ownLength: 2034,
   unitSlug: "words",
