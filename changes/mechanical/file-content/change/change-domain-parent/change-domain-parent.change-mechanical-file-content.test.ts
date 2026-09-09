@@ -32,7 +32,7 @@ const PATHS: Readonly<Record<string, string>> = {
 const LISTED: Readonly<Record<string, string>> = {
   "command/imessage-contacts": COMMAND,
   "namespace/imessage": NAMESPACE,
-  "workspace-package/imessage": PACKAGE,
+  "domain/imessage": PACKAGE,
 }
 
 const PARENT: Value = {

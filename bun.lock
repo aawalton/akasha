@@ -22,7 +22,6 @@
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/icloud-photos": "workspace:*",
-        "@akasha/imessage": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-pool": "workspace:*",
@@ -39,6 +38,7 @@
         "@akasha/seat-system": "workspace:*",
         "@akasha/sms-core": "workspace:*",
         "@akasha/spotify": "workspace:*",
+        "@akasha/ssh-access": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-server": "workspace:*",
@@ -259,15 +259,6 @@
     "alan/harness/idle-system": {
       "name": "@akasha/idle-system",
       "dependencies": {
-        "zod": "^4.3.6",
-      },
-    },
-    "alan/harness/imessage": {
-      "name": "@akasha/imessage",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/ssh-access": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -2528,8 +2519,6 @@
     "@akasha/icloud-photos": ["@akasha/icloud-photos@workspace:alan/harness/icloud-photos"],
 
     "@akasha/idle-system": ["@akasha/idle-system@workspace:alan/harness/idle-system"],
-
-    "@akasha/imessage": ["@akasha/imessage@workspace:alan/harness/imessage"],
 
     "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
 

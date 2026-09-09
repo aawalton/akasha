@@ -15,7 +15,6 @@
     "@akasha/file-page-identity": "workspace:*",
     "@akasha/health-samples-import": "workspace:*",
     "@akasha/icloud-photos": "workspace:*",
-    "@akasha/imessage": "workspace:*",
     "@akasha/k8s-synth": "workspace:*",
     "@akasha/music-choosing": "workspace:*",
     "@akasha/pages-url": "workspace:*",
@@ -130,7 +129,8 @@
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-skill-morphs": "workspace:*",
-    "@akasha/temper-player-completion": "workspace:*"
+    "@akasha/temper-player-completion": "workspace:*",
+    "@akasha/ssh-access": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",
