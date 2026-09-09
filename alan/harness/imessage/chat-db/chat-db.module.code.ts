@@ -1,4 +1,4 @@
-import { padTwo } from "@akasha/digit-padding"
+import { padTwo } from "akasha/digit-padding/pad-two/pad-two.module.code.ts"
 import { z } from "zod"
 import { handleKey } from "../contacts-db/contacts-db.module.code.ts"
 import { decodeAttributedBody } from "../typedstream/typedstream.module.code.ts"

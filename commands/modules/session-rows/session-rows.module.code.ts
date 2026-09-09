@@ -1,11 +1,11 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { mountainWallAt, readMountainWallTime } from "@akasha/day/mountain-wall"
-import { padTwo } from "@akasha/digit-padding"
 import { uuidVersion7 } from "@akasha/id-minting/uuid-version-7"
 import { valuesByPath } from "@akasha/indexes"
 import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import { numberAt, textIn, textsAt, type Value } from "@akasha/pages/page-value-reading"
+import { padTwo } from "akasha/digit-padding/pad-two/pad-two.module.code.ts"
 import {
   type ActivityDifficulty,
   difficultyForTitle,

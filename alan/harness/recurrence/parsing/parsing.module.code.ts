@@ -1,4 +1,4 @@
-import { padTwo } from "@akasha/digit-padding"
+import { padTwo } from "akasha/digit-padding/pad-two/pad-two.module.code.ts"
 import { RRule } from "rrule"
 import { z } from "zod"
 

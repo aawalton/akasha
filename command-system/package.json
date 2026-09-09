@@ -52,7 +52,6 @@
     "@akasha/seat-system": "workspace:*",
     "@akasha/agents": "workspace:*",
     "@akasha/analysis-complexity": "workspace:*",
-    "@akasha/digit-padding": "workspace:*",
     "@akasha/id-minting": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/errors-core": "workspace:*",

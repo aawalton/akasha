@@ -11,6 +11,6 @@
     "./us-zone-offset": "./us-zone-offset/us-zone-offset.module.code.ts"
   },
   "dependencies": {
-    "@akasha/digit-padding": "workspace:*"
+    "akasha": "workspace:*"
   }
 }

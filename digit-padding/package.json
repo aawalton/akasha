@@ -1,8 +1,0 @@
-{
-  "name": "@akasha/digit-padding",
-  "private": true,
-  "type": "module",
-  "exports": {
-    ".": "./pad-two/pad-two.module.code.ts"
-  }
-}
