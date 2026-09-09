@@ -1,6 +1,6 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { StatRow } from "@akasha/design-patterns/stat-row"
-import type { MetricValue } from "akasha/temper/temper-characters-stats/metric-value/metric-value.module.code.ts"
+import type { MetricValue } from "akasha/temper/characters-stats/metric-value/metric-value.module.code.ts"
 import type { StatsRecord } from "../stats-types/stats-types.module.code.ts"
 
 interface OptimizationPanelCardProps {

@@ -13,14 +13,14 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "@akasha/design-patterns/empty"
-import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
-import { METRIC_TREE } from "akasha/temper/temper-characters-stats/metric-tree-data/metric-tree-data.module.code.ts"
+import { METRIC_TREE } from "akasha/temper/characters-stats/metric-tree-data/metric-tree-data.module.code.ts"
 import {
   isMetricNode,
   isSubcategoryNode,
   type MetricTreeNode,
-} from "akasha/temper/temper-characters-stats/metric-tree-types/metric-tree-types.module.code.ts"
-import { getMetricDisplayName } from "akasha/temper/temper-characters-stats/metrics/metrics.module.code.ts"
+} from "akasha/temper/characters-stats/metric-tree-types/metric-tree-types.module.code.ts"
+import { getMetricDisplayName } from "akasha/temper/characters-stats/metrics/metrics.module.code.ts"
+import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { Search } from "lucide-react"
 import { useCallback, useState } from "react"
 import { isNamedSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"

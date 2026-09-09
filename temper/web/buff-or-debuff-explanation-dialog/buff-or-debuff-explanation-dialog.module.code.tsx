@@ -11,7 +11,7 @@ import {
 import { Heading } from "@akasha/design-primitives/heading"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { explainBuff } from "akasha/temper/temper-characters-stats/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts"
+import { explainBuff } from "akasha/temper/characters-stats/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts"
 import type { BuffOrDebuffSource } from "../../formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
 

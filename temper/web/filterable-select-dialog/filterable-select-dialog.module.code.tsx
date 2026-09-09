@@ -30,7 +30,7 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
-import { formatEffects } from "akasha/temper/temper-characters-stats/format-effects/format-effects.module.code.ts"
+import { formatEffects } from "akasha/temper/characters-stats/format-effects/format-effects.module.code.ts"
 import { Check, ChevronDown, ChevronRight, X } from "lucide-react"
 import type * as React from "react"
 import type { ReactNode } from "react"
