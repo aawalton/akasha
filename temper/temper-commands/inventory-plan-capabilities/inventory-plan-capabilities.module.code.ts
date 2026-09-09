@@ -1,13 +1,13 @@
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { computeAllRuleAffectedItems } from "akasha/temper/items-rules-matcher/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
-import { classifyItemToNodeIds } from "akasha/temper/temper-items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
-import { parseInventoryContent } from "akasha/temper/temper-items-core/inventory-parser/inventory-parser.module.code.ts"
-import { buildManagementPlan } from "akasha/temper/temper-items-rules-routing/inventory-management-plan/inventory-management-plan.module.code.ts"
+import { buildManagementPlan } from "akasha/temper/items-rules-routing/inventory-management-plan/inventory-management-plan.module.code.ts"
 import {
   applyDestinationCapacityFilter,
   applyDestinationCapacityFilterWithAudit,
-} from "akasha/temper/temper-items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
-import { formatPlanChecklist } from "akasha/temper/temper-items-rules-routing/inventory-plan-checklist/inventory-plan-checklist.module.code.ts"
+} from "akasha/temper/items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
+import { formatPlanChecklist } from "akasha/temper/items-rules-routing/inventory-plan-checklist/inventory-plan-checklist.module.code.ts"
+import { classifyItemToNodeIds } from "akasha/temper/temper-items-core/classify-item-node-ids/classify-item-node-ids.module.code.ts"
+import { parseInventoryContent } from "akasha/temper/temper-items-core/inventory-parser/inventory-parser.module.code.ts"
 import { loadTemperCharactersFromPath } from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   loadTemperInventoryConfigFromPath,

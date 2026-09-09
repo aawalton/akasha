@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import type { CapacityAudit } from "akasha/temper/temper-items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
+import type { CapacityAudit } from "akasha/temper/items-rules-routing/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 import {
   capacityFilter,
   planInputs,
