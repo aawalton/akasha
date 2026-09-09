@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0106Chapter604Oblivion 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0106-chapter-604-oblivion",
   title: "Chapter: 604 - Oblivion?",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 106,
   ownLength: 3088,
   ownProgress: 3088,

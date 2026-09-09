@@ -5,7 +5,7 @@ export const metaworldHopecore0162Chapter94AHardRainsAGonnaFall = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0162-chapter-94-a-hard-rains-a-gonna-fall",
   title: "CHAPTER 94 — A Hard Rain's A-Gonna Fall",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 162,
   ownLength: 3174,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const metaworldHopecore0049Chapter26TheManComesAround = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0049-chapter-26-the-man-comes-around",
   title: "Chapter 26 - The Man Comes Around",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 49,
   ownLength: 2343,
   unitSlug: "words",

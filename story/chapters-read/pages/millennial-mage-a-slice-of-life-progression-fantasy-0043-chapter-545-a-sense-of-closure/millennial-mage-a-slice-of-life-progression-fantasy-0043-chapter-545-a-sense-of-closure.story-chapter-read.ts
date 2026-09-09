@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0043Chapter545ASenseOfC
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0043-chapter-545-a-sense-of-closure",
   title: "Chapter: 545 - A Sense of Closure",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 43,
   ownLength: 2969,
   ownProgress: 2969,

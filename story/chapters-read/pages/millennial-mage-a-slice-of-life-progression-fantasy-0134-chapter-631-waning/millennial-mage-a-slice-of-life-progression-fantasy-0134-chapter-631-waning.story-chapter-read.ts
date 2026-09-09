@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0134Chapter631Waning = 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0134-chapter-631-waning",
   title: "Chapter: 631 - Waning",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 134,
   ownLength: 2784,
   ownProgress: 2784,

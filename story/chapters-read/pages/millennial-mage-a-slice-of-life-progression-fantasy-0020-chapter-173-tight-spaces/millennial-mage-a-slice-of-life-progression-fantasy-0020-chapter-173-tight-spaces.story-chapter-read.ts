@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0020Chapter173TightSpac
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0020-chapter-173-tight-spaces",
   title: "Chapter: 173 - Tight Spaces",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 20,
   ownLength: 3374,
   ownProgress: 3374,

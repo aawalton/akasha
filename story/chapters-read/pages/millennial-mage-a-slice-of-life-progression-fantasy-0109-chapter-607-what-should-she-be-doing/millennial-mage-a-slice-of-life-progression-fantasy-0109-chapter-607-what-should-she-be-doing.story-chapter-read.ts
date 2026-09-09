@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0109Chapter607WhatShoul
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0109-chapter-607-what-should-she-be-doing",
   title: "Chapter: 607 - What Should She Be Doing?",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 109,
   ownLength: 2622,
   ownProgress: 2622,

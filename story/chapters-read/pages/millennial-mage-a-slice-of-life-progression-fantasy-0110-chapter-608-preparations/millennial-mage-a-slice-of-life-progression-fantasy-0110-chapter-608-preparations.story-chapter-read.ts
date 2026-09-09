@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0110Chapter608Preparati
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0110-chapter-608-preparations",
   title: "Chapter: 608 - Preparations",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 110,
   ownLength: 2991,
   ownProgress: 2991,

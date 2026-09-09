@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0116Chapter614ReturnToT
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0116-chapter-614-return-to-the-doman-imithe",
   title: "Chapter: 614 - Return to the Doman-Imithe",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 116,
   ownLength: 2786,
   ownProgress: 2786,

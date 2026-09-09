@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0154Chapter650CityLord 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0154-chapter-650-city-lord",
   title: "Chapter: 650 - City Lord?",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 154,
   ownLength: 3202,
   ownProgress: 3202,

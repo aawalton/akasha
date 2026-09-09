@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0087Chapter587StressAnd
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0087-chapter-587-stress-and-joy",
   title: "Chapter: 587 - Stress and Joy",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 87,
   ownLength: 2911,
   ownProgress: 2911,

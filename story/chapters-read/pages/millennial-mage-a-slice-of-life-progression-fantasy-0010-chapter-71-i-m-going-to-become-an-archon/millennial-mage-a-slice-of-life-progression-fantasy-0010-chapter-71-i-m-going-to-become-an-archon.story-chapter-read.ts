@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0010Chapter71IMGoingToB
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0010-chapter-71-i-m-going-to-become-an-archon",
   title: "Chapter: 71 - I’m Going to Become an Archon",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 10,
   ownLength: 4031,
   ownProgress: 4031,

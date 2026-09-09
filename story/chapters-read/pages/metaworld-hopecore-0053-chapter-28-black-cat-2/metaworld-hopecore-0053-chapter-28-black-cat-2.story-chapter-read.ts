@@ -5,7 +5,7 @@ export const metaworldHopecore0053Chapter28BlackCat2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0053-chapter-28-black-cat-2",
   title: "Chapter 28 - Black Cat (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 53,
   ownLength: 2256,
   unitSlug: "words",

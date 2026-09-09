@@ -5,7 +5,7 @@ export const metaworldHopecore0121Chapter73Apologize = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0121-chapter-73-apologize",
   title: "CHAPTER 73 - Apologize",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 121,
   ownLength: 3475,
   unitSlug: "words",

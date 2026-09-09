@@ -5,7 +5,7 @@ export const metaworldHopecore0158Chapter91QueSeraSera = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0158-chapter-91-que-sera-sera",
   title: "CHAPTER 91 - Que Sera Sera",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 158,
   ownLength: 6501,
   unitSlug: "words",

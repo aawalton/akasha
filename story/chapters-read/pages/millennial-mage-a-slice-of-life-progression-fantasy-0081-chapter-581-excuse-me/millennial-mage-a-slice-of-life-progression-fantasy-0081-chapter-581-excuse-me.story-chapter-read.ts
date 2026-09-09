@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0081Chapter581ExcuseMe 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0081-chapter-581-excuse-me",
   title: "Chapter: 581 - Excuse Me",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 81,
   ownLength: 2934,
   ownProgress: 2934,

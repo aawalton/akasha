@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0126Chapter624LeaSFirst
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0126-chapter-624-lea-s-first-schema",
   title: "Chapter: 624 - Lea's First Schema",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 126,
   ownLength: 2518,
   ownProgress: 2518,

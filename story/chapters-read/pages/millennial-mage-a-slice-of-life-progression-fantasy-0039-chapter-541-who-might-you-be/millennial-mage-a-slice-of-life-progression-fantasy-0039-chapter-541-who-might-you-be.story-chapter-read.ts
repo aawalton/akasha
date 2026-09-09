@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0039Chapter541WhoMightY
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0039-chapter-541-who-might-you-be",
   title: "Chapter: 541 - Who Might You Be?",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 39,
   ownLength: 3358,
   ownProgress: 3358,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0095FreeGiveawayBook1Au
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0095-free-giveaway-book-1-audio-in-celebration",
   title: "<FREE Giveaway> Book 1 Audio in Celebration of Book 10's Upcoming Release",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 95,
   ownLength: 192,
   ownProgress: 192,

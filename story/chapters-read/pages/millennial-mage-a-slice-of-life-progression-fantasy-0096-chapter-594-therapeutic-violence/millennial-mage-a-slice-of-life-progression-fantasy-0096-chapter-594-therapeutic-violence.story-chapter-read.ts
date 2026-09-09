@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0096Chapter594Therapeut
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0096-chapter-594-therapeutic-violence",
   title: "Chapter: 594 - Therapeutic  Violence",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 96,
   ownLength: 3026,
   ownProgress: 3026,

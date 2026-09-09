@@ -5,7 +5,7 @@ export const metaworldHopecore0114Chapter66Tanabatasama2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0114-chapter-66-tanabatasama-2",
   title: "CHAPTER 66 — Tanabatasama (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 114,
   ownLength: 1977,
   unitSlug: "words",

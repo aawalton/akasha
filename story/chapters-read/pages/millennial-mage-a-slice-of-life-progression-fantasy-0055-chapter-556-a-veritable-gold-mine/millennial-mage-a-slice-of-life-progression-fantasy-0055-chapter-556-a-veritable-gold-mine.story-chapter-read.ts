@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0055Chapter556AVeritabl
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0055-chapter-556-a-veritable-gold-mine",
   title: "Chapter: 556 - A Veritable Gold-Mine",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 55,
   ownLength: 3065,
   ownProgress: 3065,

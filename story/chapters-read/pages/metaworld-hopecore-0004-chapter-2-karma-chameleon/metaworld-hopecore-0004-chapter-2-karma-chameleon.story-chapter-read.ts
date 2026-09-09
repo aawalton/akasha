@@ -5,7 +5,7 @@ export const metaworldHopecore0004Chapter2KarmaChameleon = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0004-chapter-2-karma-chameleon",
   title: "Chapter 2 - Karma Chameleon",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 4,
   ownLength: 2636,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0045Chapter546Surprisin
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0045-chapter-546-surprising-yet-inevitable",
   title: "Chapter: 546 - Surprising yet Inevitable",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 45,
   ownLength: 3183,
   ownProgress: 3183,

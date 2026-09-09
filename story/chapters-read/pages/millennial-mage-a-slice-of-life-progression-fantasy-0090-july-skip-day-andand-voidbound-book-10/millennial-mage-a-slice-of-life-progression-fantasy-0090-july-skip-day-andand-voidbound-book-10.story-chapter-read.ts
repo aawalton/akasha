@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0090JulySkipDayAndandVo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0090-july-skip-day-andand-voidbound-book-10",
   title: "July Skip Day && Voidbound - Book 10 Cover Reveal!",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 90,
   ownLength: 20,
   ownProgress: 20,

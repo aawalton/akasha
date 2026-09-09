@@ -5,7 +5,7 @@ export const metaworldHopecore0109Chapter62TheCatCameBack2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0109-chapter-62-the-cat-came-back-2",
   title: "CHAPTER 62 - The Cat Came Back (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 109,
   ownLength: 2097,
   unitSlug: "words",

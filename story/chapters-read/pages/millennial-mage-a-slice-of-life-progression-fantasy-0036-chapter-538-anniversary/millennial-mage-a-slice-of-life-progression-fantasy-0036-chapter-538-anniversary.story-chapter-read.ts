@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0036Chapter538Anniversa
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0036-chapter-538-anniversary",
   title: "Chapter: 538 - Anniversary",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 36,
   ownLength: 3017,
   ownProgress: 3017,

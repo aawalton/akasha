@@ -5,7 +5,7 @@ export const metaworldHopecore0079Chapter43TheWholeOfTheMoon2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0079-chapter-43-the-whole-of-the-moon-2",
   title: "Chapter 43 - The Whole of the Moon (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 79,
   ownLength: 2411,
   unitSlug: "words",

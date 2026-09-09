@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0024Chapter267Entrance 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0024-chapter-267-entrance",
   title: "Chapter: 267 - Entrance",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 24,
   ownLength: 3805,
   ownProgress: 3805,

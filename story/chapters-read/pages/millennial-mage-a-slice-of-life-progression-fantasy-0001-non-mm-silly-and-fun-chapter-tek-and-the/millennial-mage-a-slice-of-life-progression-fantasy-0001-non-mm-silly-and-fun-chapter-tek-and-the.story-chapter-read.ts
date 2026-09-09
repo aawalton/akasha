@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0001NonMmSillyAndFunCha
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0001-non-mm-silly-and-fun-chapter-tek-and-the",
   title: "Non-MM, Silly and Fun Chapter - Tek and the Wizard's Cat",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 1,
   ownLength: 2175,
   ownProgress: 2175,

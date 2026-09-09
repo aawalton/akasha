@@ -5,7 +5,7 @@ export const metaworldHopecore0099Chapter56Sukiyaki = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0099-chapter-56-sukiyaki",
   title: "CHAPTER 56 - Sukiyaki",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 99,
   ownLength: 3918,
   unitSlug: "words",

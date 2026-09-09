@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0092Chapter591TheEndOfT
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0092-chapter-591-the-end-of-their-visit",
   title: "Chapter: 591 - The End of Their Visit",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 92,
   ownLength: 2895,
   ownProgress: 2895,

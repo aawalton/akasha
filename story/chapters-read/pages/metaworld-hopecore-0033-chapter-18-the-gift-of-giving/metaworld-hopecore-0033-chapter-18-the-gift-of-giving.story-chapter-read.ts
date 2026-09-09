@@ -5,7 +5,7 @@ export const metaworldHopecore0033Chapter18TheGiftOfGiving = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0033-chapter-18-the-gift-of-giving",
   title: "CHAPTER 18 - The Gift of Giving",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 33,
   ownLength: 2789,
   unitSlug: "words",

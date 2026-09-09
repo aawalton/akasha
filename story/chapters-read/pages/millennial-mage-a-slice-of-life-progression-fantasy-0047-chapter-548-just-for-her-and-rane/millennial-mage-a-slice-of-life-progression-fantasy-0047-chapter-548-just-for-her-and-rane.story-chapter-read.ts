@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0047Chapter548JustForHe
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0047-chapter-548-just-for-her-and-rane",
   title: "Chapter: 548 - Just for Her and Rane",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 47,
   ownLength: 2955,
   ownProgress: 2955,

@@ -6,7 +6,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0061Chapter561Metaphysi
     pageTypeSlug: "story-chapter-read",
     slug: "millennial-mage-a-slice-of-life-progression-fantasy-0061-chapter-561-metaphysical-rusting-nonsense",
     title: "Chapter: 561 - Metaphysical Rusting Nonsense",
-    storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+    story: "millennial-mage-a-slice-of-life-progression-fantasy",
     position: 61,
     ownLength: 3041,
     ownProgress: 3041,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0005Chapter3Dinner = {
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0005-chapter-3-dinner",
   title: "Chapter: 3 - Dinner",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 5,
   ownLength: 3974,
   ownProgress: 3974,

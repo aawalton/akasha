@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0153Chapter649ReturnInF
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0153-chapter-649-return-in-full",
   title: "Chapter: 649 - Return in Full",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 153,
   ownLength: 2862,
   ownProgress: 2862,

@@ -5,7 +5,7 @@ export const metaworldHopecore0125Chapter75YouCanTAlwaysGetWhatYouWant = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0125-chapter-75-you-can-t-always-get-what-you-want",
   title: "CHAPTER 75 - You Can’t Always Get What You Want",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 125,
   ownLength: 2405,
   unitSlug: "words",

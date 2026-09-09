@@ -5,7 +5,7 @@ export const metaworldHopecore0091Chapter51Vienna2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0091-chapter-51-vienna-2",
   title: "CHAPTER 51 - Vienna (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 91,
   ownLength: 2619,
   unitSlug: "words",

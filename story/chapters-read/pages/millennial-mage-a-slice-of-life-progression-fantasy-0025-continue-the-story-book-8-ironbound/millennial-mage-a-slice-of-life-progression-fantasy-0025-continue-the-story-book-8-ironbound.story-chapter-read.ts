@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0025ContinueTheStoryBoo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0025-continue-the-story-book-8-ironbound",
   title: "Continue the Story [Book 8 - Ironbound]",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 25,
   ownLength: 198,
   ownProgress: 198,

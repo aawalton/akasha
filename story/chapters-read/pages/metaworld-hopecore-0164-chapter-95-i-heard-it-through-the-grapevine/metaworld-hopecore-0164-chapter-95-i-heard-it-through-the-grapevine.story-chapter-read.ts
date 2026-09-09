@@ -5,7 +5,7 @@ export const metaworldHopecore0164Chapter95IHeardItThroughTheGrapevine = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0164-chapter-95-i-heard-it-through-the-grapevine",
   title: "CHAPTER 95 - I Heard It Through the Grapevine",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 164,
   ownLength: 3151,
   unitSlug: "words",

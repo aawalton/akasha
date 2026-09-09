@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0062Chapter562LynTime =
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0062-chapter-562-lyn-time",
   title: "Chapter: 562 - Lyn Time",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 62,
   ownLength: 3165,
   ownProgress: 3165,

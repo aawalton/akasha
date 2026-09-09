@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0148Chapter644Heralding
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0148-chapter-644-heralding",
   title: "Chapter: 644 - Heralding",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 148,
   ownLength: 2796,
   ownProgress: 2796,

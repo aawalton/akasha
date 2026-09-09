@@ -5,7 +5,7 @@ export const metaworldHopecore0130Chapter77FatherAndSon2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0130-chapter-77-father-and-son-2",
   title: "CHAPTER 77 - Father and Son (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 130,
   ownLength: 2168,
   unitSlug: "words",

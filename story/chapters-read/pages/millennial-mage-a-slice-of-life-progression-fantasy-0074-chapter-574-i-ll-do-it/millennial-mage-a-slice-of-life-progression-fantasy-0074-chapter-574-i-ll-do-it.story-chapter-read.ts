@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0074Chapter574ILlDoIt =
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0074-chapter-574-i-ll-do-it",
   title: "Chapter: 574 - I’ll do it",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 74,
   ownLength: 2906,
   ownProgress: 2906,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0053Chapter554APlannedM
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0053-chapter-554-a-planned-meeting",
   title: "Chapter: 554 - A Planned Meeting",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 53,
   ownLength: 2924,
   ownProgress: 2924,

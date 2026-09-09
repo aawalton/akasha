@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0137Chapter634ADaughter
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0137-chapter-634-a-daughter-binds",
   title: "Chapter: 634 - A Daughter Binds",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 137,
   ownLength: 2891,
   ownProgress: 2891,

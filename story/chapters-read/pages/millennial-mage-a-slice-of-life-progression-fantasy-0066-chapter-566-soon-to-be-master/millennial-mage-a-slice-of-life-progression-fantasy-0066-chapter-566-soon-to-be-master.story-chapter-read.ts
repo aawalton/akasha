@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0066Chapter566SoonToBeM
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0066-chapter-566-soon-to-be-master",
   title: "Chapter: 566 - Soon-to-Be Master",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 66,
   ownLength: 2960,
   ownProgress: 2960,

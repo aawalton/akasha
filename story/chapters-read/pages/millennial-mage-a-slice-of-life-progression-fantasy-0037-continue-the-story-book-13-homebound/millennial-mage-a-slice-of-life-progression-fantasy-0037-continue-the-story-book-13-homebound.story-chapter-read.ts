@@ -10,7 +10,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0037ContinueTheStoryBoo
   externalId: "3932559",
   source: "royal-road",
   title: "Continue the Story [Book 13 - Homebound]",
-  storySlug: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   ownLength: 148,
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3932559/continue-the-story-book-13-homebound",

@@ -5,7 +5,7 @@ export const metaworldHopecore0051Chapter27Torn = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0051-chapter-27-torn",
   title: "Chapter 27 - Torn",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 51,
   ownLength: 3639,
   unitSlug: "words",

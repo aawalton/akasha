@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0122Chapter620ArchonCom
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0122-chapter-620-archon-compound",
   title: "Chapter: 620 - Archon Compound",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 122,
   ownLength: 2571,
   ownProgress: 2571,

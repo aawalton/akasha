@@ -5,7 +5,7 @@ export const melodyOfMana0319Epilogue4 = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0319-epilogue-4",
   title: "Epilogue 4",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 319,
   ownLength: 1360,
   unitSlug: "words",

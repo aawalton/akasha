@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0140Chapter637Reforging
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0140-chapter-637-reforging",
   title: "Chapter: 637 - Reforging?",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 140,
   ownLength: 2948,
   ownProgress: 2948,

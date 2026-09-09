@@ -5,7 +5,7 @@ export const metaworldHopecore0023Chapter12ADayInTheLife2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0023-chapter-12-a-day-in-the-life-2",
   title: "CHAPTER 12 - A Day in the Life (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 23,
   ownLength: 2058,
   unitSlug: "words",

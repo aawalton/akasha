@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0104Chapter602FullDays 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0104-chapter-602-full-days",
   title: "Chapter: 602 - Full Days",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 104,
   ownLength: 3185,
   ownProgress: 3185,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0064Chapter564AWonderou
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0064-chapter-564-a-wonderous-milieu",
   title: "Chapter: 564 - A Wonderous Milieu",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 64,
   ownLength: 3072,
   ownProgress: 3072,

@@ -5,7 +5,7 @@ export const metaworldHopecore0089Chapter50TheWeight = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0089-chapter-50-the-weight",
   title: "CHAPTER 50 — The Weight",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 89,
   ownLength: 4326,
   unitSlug: "words",

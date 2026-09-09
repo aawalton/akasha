@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0056UpdateBook9Cityboun
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0056-update-book-9-citybound-is-fully-live",
   title: "<Update> Book 9 - Citybound is fully live!!!",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 56,
   ownLength: 73,
   ownProgress: 73,

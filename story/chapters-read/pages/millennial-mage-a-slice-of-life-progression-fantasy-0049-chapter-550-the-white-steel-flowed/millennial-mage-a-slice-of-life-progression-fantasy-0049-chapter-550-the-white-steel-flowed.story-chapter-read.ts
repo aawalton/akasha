@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0049Chapter550TheWhiteS
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0049-chapter-550-the-white-steel-flowed",
   title: "Chapter: 550 - The White Steel Flowed",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 49,
   ownLength: 2634,
   ownProgress: 2634,

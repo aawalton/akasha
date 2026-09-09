@@ -5,7 +5,7 @@ export const metaworldHopecore0009Chapter5ThreeWoodenCrosses2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0009-chapter-5-three-wooden-crosses-2",
   title: "CHAPTER 5 - Three Wooden Crosses (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 9,
   ownLength: 3170,
   unitSlug: "words",

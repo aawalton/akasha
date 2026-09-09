@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0018Chapter137Humanity 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0018-chapter-137-humanity",
   title: "Chapter: 137 - Humanity",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 18,
   ownLength: 3014,
   ownProgress: 3014,

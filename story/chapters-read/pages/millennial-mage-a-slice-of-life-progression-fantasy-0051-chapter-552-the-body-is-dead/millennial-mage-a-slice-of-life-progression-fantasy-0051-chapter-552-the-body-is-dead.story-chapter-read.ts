@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0051Chapter552TheBodyIs
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0051-chapter-552-the-body-is-dead",
   title: "Chapter: 552 - The Body is Dead",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 51,
   ownLength: 2927,
   ownProgress: 2927,

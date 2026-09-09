@@ -10,7 +10,7 @@ export const metaworldHopecore0175Chapter100PeopleGetReady2 = {
   externalId: "3932558",
   source: "royal-road",
   title: "CHAPTER 100 - People Get Ready (2)",
-  storySlug: "story-read/metaworld-hopecore",
+  story: "story-read/metaworld-hopecore",
   ownLength: 3025,
   externalLink:
     "https://www.royalroad.com/fiction/166359/metaworld-hopecore/chapter/3932558/chapter-100-people-get-ready-2",

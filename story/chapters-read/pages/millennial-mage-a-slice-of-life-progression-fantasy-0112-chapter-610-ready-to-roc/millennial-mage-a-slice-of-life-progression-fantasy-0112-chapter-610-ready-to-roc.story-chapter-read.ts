@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0112Chapter610ReadyToRo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0112-chapter-610-ready-to-roc",
   title: "Chapter: 610 - Ready to Roc",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 112,
   ownLength: 2550,
   ownProgress: 2550,

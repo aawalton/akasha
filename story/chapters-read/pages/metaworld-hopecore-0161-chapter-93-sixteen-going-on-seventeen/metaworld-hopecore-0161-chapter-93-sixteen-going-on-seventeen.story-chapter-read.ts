@@ -5,7 +5,7 @@ export const metaworldHopecore0161Chapter93SixteenGoingOnSeventeen = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0161-chapter-93-sixteen-going-on-seventeen",
   title: "CHAPTER 93 - Sixteen Going on Seventeen",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 161,
   ownLength: 4360,
   unitSlug: "words",

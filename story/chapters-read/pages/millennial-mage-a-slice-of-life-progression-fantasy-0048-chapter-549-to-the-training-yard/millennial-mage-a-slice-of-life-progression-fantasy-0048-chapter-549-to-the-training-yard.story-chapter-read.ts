@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0048Chapter549ToTheTrai
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0048-chapter-549-to-the-training-yard",
   title: "Chapter: 549 -  To the Training Yard ",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 48,
   ownLength: 3321,
   ownProgress: 3321,

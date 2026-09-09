@@ -5,7 +5,7 @@ export const metaworldHopecore0171Chapter98LittleGirlBlue2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0171-chapter-98-little-girl-blue-2",
   title: "CHAPTER 98 - Little Girl Blue (2)",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 171,
   ownLength: 2710,
   unitSlug: "words",

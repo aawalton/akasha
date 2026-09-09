@@ -5,7 +5,7 @@ export const metaworldHopecore0131Chapter78TheLongAndWindingRoad = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0131-chapter-78-the-long-and-winding-road",
   title: "CHAPTER 78 - The Long and Winding Road",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 131,
   ownLength: 3359,
   unitSlug: "words",

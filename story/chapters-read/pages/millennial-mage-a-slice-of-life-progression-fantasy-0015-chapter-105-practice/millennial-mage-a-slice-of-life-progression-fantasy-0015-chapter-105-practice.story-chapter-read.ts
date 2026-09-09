@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0015Chapter105Practice 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0015-chapter-105-practice",
   title: "Chapter: 105 - Practice",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 15,
   ownLength: 3136,
   ownProgress: 3136,

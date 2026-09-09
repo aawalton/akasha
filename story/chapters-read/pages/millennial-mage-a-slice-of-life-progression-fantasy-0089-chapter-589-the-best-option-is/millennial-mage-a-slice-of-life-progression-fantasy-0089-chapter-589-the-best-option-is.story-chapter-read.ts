@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0089Chapter589TheBestOp
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0089-chapter-589-the-best-option-is",
   title: "Chapter: 589 - The Best Option is...",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 89,
   ownLength: 2710,
   ownProgress: 2710,

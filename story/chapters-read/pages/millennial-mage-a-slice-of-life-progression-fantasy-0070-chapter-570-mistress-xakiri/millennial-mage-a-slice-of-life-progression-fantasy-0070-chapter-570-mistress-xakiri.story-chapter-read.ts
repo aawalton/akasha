@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0070Chapter570MistressX
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0070-chapter-570-mistress-xakiri",
   title: "Chapter: 570 - Mistress Xakiri",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 70,
   ownLength: 2886,
   ownProgress: 2886,

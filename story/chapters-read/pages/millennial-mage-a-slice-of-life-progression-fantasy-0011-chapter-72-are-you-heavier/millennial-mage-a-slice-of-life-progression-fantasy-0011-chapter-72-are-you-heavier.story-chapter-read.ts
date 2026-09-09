@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0011Chapter72AreYouHeav
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0011-chapter-72-are-you-heavier",
   title: "Chapter: 72 - Are You Heavier?",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 11,
   ownLength: 3905,
   ownProgress: 3905,

@@ -5,7 +5,7 @@ export const metaworldHopecore0040Chapter21FakePlasticTrees2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0040-chapter-21-fake-plastic-trees-2",
   title: "CHAPTER 21 - Fake Plastic Trees (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 40,
   ownLength: 2236,
   unitSlug: "words",

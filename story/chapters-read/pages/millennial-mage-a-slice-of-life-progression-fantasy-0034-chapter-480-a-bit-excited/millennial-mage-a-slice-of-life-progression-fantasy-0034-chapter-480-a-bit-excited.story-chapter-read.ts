@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0034Chapter480ABitExcit
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0034-chapter-480-a-bit-excited",
   title: "Chapter: 480 - A Bit Excited",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 34,
   ownLength: 3390,
   ownProgress: 3390,

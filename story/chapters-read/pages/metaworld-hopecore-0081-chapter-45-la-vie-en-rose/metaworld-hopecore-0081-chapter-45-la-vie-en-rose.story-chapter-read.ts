@@ -5,7 +5,7 @@ export const metaworldHopecore0081Chapter45LaVieEnRose = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0081-chapter-45-la-vie-en-rose",
   title: "CHAPTER 45 - La Vie en Rose",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 81,
   ownLength: 3737,
   unitSlug: "words",

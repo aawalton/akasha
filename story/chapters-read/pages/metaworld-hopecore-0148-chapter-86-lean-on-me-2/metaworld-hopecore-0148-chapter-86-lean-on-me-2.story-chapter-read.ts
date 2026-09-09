@@ -5,7 +5,7 @@ export const metaworldHopecore0148Chapter86LeanOnMe2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0148-chapter-86-lean-on-me-2",
   title: "CHAPTER 86 — Lean on Me (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 148,
   ownLength: 2797,
   unitSlug: "words",

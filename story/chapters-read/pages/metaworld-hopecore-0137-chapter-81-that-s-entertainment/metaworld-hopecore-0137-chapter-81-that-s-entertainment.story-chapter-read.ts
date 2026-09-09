@@ -5,7 +5,7 @@ export const metaworldHopecore0137Chapter81ThatSEntertainment = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0137-chapter-81-that-s-entertainment",
   title: "CHAPTER 81 — That's Entertainment!",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 137,
   ownLength: 3056,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0091Chapter590ADozenBak
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0091-chapter-590-a-dozen-baker-s-dozen",
   title: "Chapter: 590 - A Dozen Baker's Dozen",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 91,
   ownLength: 2890,
   ownProgress: 2890,

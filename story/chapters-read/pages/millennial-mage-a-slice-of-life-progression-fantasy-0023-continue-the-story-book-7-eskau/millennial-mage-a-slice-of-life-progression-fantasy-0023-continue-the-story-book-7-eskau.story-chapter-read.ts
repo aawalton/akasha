@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0023ContinueTheStoryBoo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0023-continue-the-story-book-7-eskau",
   title: "Continue the Story [Book 7 - Eskau]",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 23,
   ownLength: 131,
   ownProgress: 131,

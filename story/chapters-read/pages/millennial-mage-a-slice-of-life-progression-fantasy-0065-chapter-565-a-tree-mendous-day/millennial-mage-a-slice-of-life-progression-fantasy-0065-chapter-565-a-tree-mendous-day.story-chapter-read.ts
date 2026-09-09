@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0065Chapter565ATreeMend
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0065-chapter-565-a-tree-mendous-day",
   title: "Chapter: 565 - A Tree-mendous Day",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 65,
   ownLength: 2570,
   ownProgress: 2570,

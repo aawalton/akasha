@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0050Chapter551ItSActual
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0050-chapter-551-it-s-actually-reality-iron",
   title: "Chapter: 551 - It’s Actually Reality Iron",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 50,
   ownLength: 2896,
   ownProgress: 2896,

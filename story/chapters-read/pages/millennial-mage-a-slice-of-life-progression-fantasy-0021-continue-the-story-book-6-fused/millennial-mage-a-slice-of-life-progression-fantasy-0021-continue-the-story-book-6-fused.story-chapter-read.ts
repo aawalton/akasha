@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0021ContinueTheStoryBoo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0021-continue-the-story-book-6-fused",
   title: "Continue the Story [Book 6 - Fused]",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 21,
   ownLength: 187,
   ownProgress: 187,

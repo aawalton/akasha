@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0058Chapter558TheirRema
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0058-chapter-558-their-remaining-time",
   title: "Chapter: 558 - Their Remaining Time",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 58,
   ownLength: 3010,
   ownProgress: 3010,

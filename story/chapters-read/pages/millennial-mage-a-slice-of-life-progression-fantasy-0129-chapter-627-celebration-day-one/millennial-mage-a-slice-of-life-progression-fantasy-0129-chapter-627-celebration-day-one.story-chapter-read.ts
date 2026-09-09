@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0129Chapter627Celebrati
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0129-chapter-627-celebration-day-one",
   title: "Chapter: 627 - Celebration: Day One",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 129,
   ownLength: 3037,
   ownProgress: 3037,

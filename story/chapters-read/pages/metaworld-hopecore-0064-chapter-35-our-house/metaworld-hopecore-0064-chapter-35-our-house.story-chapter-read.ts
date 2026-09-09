@@ -5,7 +5,7 @@ export const metaworldHopecore0064Chapter35OurHouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0064-chapter-35-our-house",
   title: "Chapter 35 — Our House",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 64,
   ownLength: 2059,
   unitSlug: "words",

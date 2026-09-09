@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0117Chapter615RightToBu
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0117-chapter-615-right-to-business",
   title: "Chapter: 615 - Right to Business",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 117,
   ownLength: 2622,
   ownProgress: 2622,

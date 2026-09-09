@@ -5,7 +5,7 @@ export const metaworldHopecore0057Chapter31IKnowThingsNow = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0057-chapter-31-i-know-things-now",
   title: "Chapter 31 - I Know Things Now",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 57,
   ownLength: 3194,
   unitSlug: "words",

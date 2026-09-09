@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0068Chapter568TheSparkO
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0068-chapter-568-the-spark-of-hope",
   title: "Chapter: 568 - The Spark of Hope",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 68,
   ownLength: 2925,
   ownProgress: 2925,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0141Chapter638EndureOrB
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0141-chapter-638-endure-or-be-devoured",
   title: "Chapter: 638 - Endure or be Devoured",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 141,
   ownLength: 2283,
   ownProgress: 2283,

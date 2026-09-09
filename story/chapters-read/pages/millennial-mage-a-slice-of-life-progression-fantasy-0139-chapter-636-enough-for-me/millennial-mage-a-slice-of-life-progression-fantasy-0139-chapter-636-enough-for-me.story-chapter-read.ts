@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0139Chapter636EnoughFor
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0139-chapter-636-enough-for-me",
   title: "Chapter: 636 - Enough for Me",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 139,
   ownLength: 3684,
   ownProgress: 3684,

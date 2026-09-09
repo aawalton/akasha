@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0147Chapter643MoreVisit
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0147-chapter-643-more-visits",
   title: "Chapter: 643 - More Visits",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 147,
   ownLength: 2858,
   ownProgress: 2858,

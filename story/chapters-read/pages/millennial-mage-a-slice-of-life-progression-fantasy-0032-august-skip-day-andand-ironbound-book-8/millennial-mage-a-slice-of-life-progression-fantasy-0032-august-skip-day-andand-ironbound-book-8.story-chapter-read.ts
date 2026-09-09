@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0032AugustSkipDayAndand
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0032-august-skip-day-andand-ironbound-book-8",
   title: "August Skip Day && Ironbound - Book 8 Cover Reveal!",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 32,
   ownLength: 44,
   ownProgress: 44,

@@ -5,7 +5,7 @@ export const metaworldHopecore0020Chapter11LifeOnMars = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0020-chapter-11-life-on-mars",
   title: "CHAPTER 11 - Life on Mars",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 20,
   ownLength: 2292,
   unitSlug: "words",

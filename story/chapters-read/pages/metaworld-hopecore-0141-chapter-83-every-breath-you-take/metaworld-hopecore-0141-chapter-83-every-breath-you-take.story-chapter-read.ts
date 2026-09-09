@@ -5,7 +5,7 @@ export const metaworldHopecore0141Chapter83EveryBreathYouTake = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0141-chapter-83-every-breath-you-take",
   title: "CHAPTER 83 — Every Breath You Take ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 141,
   ownLength: 2646,
   unitSlug: "words",

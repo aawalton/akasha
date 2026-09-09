@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0124Chapter622Ignition 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0124-chapter-622-ignition",
   title: "Chapter: 622 - Ignition",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 124,
   ownLength: 3418,
   ownProgress: 3418,

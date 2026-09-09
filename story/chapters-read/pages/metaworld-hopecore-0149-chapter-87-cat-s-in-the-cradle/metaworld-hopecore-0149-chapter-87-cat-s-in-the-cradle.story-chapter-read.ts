@@ -5,7 +5,7 @@ export const metaworldHopecore0149Chapter87CatSInTheCradle = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0149-chapter-87-cat-s-in-the-cradle",
   title: "CHAPTER 87 — Cat's in the Cradle",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 149,
   ownLength: 5559,
   unitSlug: "words",

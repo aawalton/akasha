@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0002ImageGallery = {
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0002-image-gallery",
   title: "Image Gallery",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 2,
   ownLength: 37,
   ownProgress: 37,

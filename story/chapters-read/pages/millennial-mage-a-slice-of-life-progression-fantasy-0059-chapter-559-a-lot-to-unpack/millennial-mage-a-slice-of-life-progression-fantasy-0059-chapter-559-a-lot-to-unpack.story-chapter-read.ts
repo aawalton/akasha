@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0059Chapter559ALotToUnp
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0059-chapter-559-a-lot-to-unpack",
   title: "Chapter: 559 - A Lot to Unpack",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 59,
   ownLength: 3031,
   ownProgress: 3031,

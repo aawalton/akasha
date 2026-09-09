@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0044MarchSkipDayAndandC
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0044-march-skip-day-andand-citybound-book-9",
   title: "March Skip Day && Citybound - Book 9 Cover Reveal!",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 44,
   ownLength: 43,
   ownProgress: 43,

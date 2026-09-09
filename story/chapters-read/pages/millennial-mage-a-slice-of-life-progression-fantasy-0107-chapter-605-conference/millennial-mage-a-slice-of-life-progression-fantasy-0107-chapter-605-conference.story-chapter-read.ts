@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0107Chapter605Conferenc
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0107-chapter-605-conference",
   title: "Chapter: 605 - Conference",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 107,
   ownLength: 2978,
   ownProgress: 2978,

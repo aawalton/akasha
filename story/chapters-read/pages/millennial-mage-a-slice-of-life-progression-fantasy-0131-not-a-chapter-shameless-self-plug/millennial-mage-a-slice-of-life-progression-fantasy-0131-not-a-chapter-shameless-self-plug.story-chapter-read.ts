@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0131NotAChapterShameles
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0131-not-a-chapter-shameless-self-plug",
   title: "<Not a Chapter> Shameless Self-Plug",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 131,
   ownLength: 69,
   ownProgress: 69,

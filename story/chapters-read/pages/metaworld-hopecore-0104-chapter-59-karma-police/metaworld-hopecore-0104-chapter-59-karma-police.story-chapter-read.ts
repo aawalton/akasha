@@ -5,7 +5,7 @@ export const metaworldHopecore0104Chapter59KarmaPolice = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0104-chapter-59-karma-police",
   title: "CHAPTER 59 - Karma Police",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 104,
   ownLength: 4317,
   unitSlug: "words",

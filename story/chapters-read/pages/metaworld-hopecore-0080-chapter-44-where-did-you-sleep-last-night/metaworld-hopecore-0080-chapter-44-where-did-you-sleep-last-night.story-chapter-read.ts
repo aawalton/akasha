@@ -5,7 +5,7 @@ export const metaworldHopecore0080Chapter44WhereDidYouSleepLastNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0080-chapter-44-where-did-you-sleep-last-night",
   title: "Chapter 44 - Where Did You Sleep Last Night? ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 80,
   ownLength: 3825,
   unitSlug: "words",

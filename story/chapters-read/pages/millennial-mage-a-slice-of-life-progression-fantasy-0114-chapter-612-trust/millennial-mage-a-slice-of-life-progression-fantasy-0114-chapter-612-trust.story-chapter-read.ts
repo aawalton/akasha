@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0114Chapter612Trust = {
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0114-chapter-612-trust",
   title: "Chapter: 612 - Trust",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 114,
   ownLength: 2917,
   ownProgress: 2917,

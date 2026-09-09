@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0111Chapter609InTheWild
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0111-chapter-609-in-the-wilds-again",
   title: "Chapter: 609 - In the Wilds Again",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 111,
   ownLength: 2689,
   ownProgress: 2689,

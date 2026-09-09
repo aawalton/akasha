@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0030Chapter420LetSGetTo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0030-chapter-420-let-s-get-to-it",
   title: "Chapter: 420 - Let’s Get to It",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 30,
   ownLength: 3089,
   ownProgress: 3089,

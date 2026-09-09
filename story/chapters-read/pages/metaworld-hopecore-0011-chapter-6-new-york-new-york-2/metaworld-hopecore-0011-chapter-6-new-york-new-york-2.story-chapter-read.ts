@@ -5,7 +5,7 @@ export const metaworldHopecore0011Chapter6NewYorkNewYork2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0011-chapter-6-new-york-new-york-2",
   title: "CHAPTER 6 - New York, New York (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 11,
   ownLength: 2102,
   unitSlug: "words",

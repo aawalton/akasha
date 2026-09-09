@@ -5,7 +5,7 @@ export const metaworldHopecore0047Chapter25NotReadyToMakeNice = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0047-chapter-25-not-ready-to-make-nice",
   title: "Chapter 25 - Not Ready to Make Nice",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 47,
   ownLength: 2028,
   unitSlug: "words",

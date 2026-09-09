@@ -5,7 +5,7 @@ export const metaworldHopecore0083Chapter47RedEnvelope = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0083-chapter-47-red-envelope",
   title: "CHAPTER 47 - Red Envelope ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 83,
   ownLength: 2313,
   unitSlug: "words",

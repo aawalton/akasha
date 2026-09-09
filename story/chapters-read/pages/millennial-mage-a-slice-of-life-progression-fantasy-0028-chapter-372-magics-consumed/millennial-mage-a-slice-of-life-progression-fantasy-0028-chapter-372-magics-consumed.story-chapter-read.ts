@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0028Chapter372MagicsCon
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0028-chapter-372-magics-consumed",
   title: "Chapter: 372 - Magics Consumed",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 28,
   ownLength: 3300,
   ownProgress: 3300,

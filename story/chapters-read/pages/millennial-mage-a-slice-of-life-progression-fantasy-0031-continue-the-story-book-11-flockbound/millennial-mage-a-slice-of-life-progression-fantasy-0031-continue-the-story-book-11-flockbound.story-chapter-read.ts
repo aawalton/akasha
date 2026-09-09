@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0031ContinueTheStoryBoo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0031-continue-the-story-book-11-flockbound",
   title: "Continue the Story [Book 11 - Flockbound]",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 31,
   ownLength: 192,
   ownProgress: 192,

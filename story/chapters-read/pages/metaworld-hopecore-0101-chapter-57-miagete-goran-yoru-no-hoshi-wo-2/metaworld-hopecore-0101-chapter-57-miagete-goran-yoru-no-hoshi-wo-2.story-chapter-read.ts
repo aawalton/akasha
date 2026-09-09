@@ -5,7 +5,7 @@ export const metaworldHopecore0101Chapter57MiageteGoranYoruNoHoshiWo2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0101-chapter-57-miagete-goran-yoru-no-hoshi-wo-2",
   title: "CHAPTER 57 - Miagete Goran Yoru no Hoshi wo (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 101,
   ownLength: 2805,
   unitSlug: "words",

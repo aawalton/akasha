@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0054Chapter555AnExcelle
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0054-chapter-555-an-excellent-pillar",
   title: "Chapter: 555 - An Excellent Pillar",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 54,
   ownLength: 2761,
   ownProgress: 2761,

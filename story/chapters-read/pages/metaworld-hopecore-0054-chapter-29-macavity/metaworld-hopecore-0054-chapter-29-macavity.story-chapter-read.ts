@@ -5,7 +5,7 @@ export const metaworldHopecore0054Chapter29Macavity = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0054-chapter-29-macavity",
   title: "Chapter 29 - Macavity",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 54,
   ownLength: 2912,
   unitSlug: "words",

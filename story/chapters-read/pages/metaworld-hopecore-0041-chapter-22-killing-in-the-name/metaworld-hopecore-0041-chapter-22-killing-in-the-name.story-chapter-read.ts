@@ -5,7 +5,7 @@ export const metaworldHopecore0041Chapter22KillingInTheName = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0041-chapter-22-killing-in-the-name",
   title: "CHAPTER 22 - Killing in the Name",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 41,
   ownLength: 2349,
   unitSlug: "words",

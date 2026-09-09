@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0069Chapter569WhatICanD
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0069-chapter-569-what-i-can-do",
   title: "Chapter: 569 - What I Can Do",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 69,
   ownLength: 2985,
   ownProgress: 2985,

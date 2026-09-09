@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0125Chapter623AlwaysOne
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0125-chapter-623-always-one-more-secret",
   title: "Chapter: 623 - Always One More Secret",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 125,
   ownLength: 2854,
   ownProgress: 2854,

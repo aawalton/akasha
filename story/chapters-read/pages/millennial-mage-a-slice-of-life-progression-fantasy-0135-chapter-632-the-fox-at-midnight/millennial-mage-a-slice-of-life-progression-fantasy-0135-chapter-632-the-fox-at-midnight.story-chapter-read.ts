@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0135Chapter632TheFoxAtM
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0135-chapter-632-the-fox-at-midnight",
   title: "Chapter: 632 - The Fox at Midnight",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 135,
   ownLength: 3119,
   ownProgress: 3119,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0118Chapter616Abrasion 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0118-chapter-616-abrasion",
   title: "Chapter: 616 - Abrasion",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 118,
   ownLength: 2894,
   ownProgress: 2894,

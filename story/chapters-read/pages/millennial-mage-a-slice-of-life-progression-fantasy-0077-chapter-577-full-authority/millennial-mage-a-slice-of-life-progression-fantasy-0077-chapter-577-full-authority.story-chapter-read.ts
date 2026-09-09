@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0077Chapter577FullAutho
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0077-chapter-577-full-authority",
   title: "Chapter: 577 - Full Authority",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 77,
   ownLength: 3199,
   ownProgress: 3199,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0003Chapter1NewBeginnin
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0003-chapter-1-new-beginnings",
   title: "Chapter: 1 - New Beginnings",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 3,
   ownLength: 4000,
   ownProgress: 4000,

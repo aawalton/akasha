@@ -5,7 +5,7 @@ export const metaworldHopecore0024Chapter13StarryStarryNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0024-chapter-13-starry-starry-night",
   title: "CHAPTER 13 - Starry Starry Night",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 24,
   ownLength: 2975,
   unitSlug: "words",

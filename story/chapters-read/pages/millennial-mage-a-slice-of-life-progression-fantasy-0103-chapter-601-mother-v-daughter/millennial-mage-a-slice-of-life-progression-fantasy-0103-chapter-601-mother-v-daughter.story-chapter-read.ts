@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0103Chapter601MotherVDa
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0103-chapter-601-mother-v-daughter",
   title: "Chapter: 601 - Mother v. Daughter",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 103,
   ownLength: 3203,
   ownProgress: 3203,

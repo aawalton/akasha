@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0144Chapter641WeeksSinc
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0144-chapter-641-weeks-since",
   title: "Chapter: 641 - Weeks Since",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 144,
   ownLength: 2699,
   ownProgress: 2699,

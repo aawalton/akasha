@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0108Chapter606SpecificA
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0108-chapter-606-specific-advice",
   title: "Chapter: 606 - Specific Advice",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 108,
   ownLength: 2887,
   ownProgress: 2887,

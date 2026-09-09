@@ -5,7 +5,7 @@ export const metaworldHopecore0036Chapter19LadyStardust2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "metaworld-hopecore-0036-chapter-19-lady-stardust-2",
   title: "CHAPTER 19 — Lady Stardust (2) ",
-  storySlug: "metaworld-hopecore",
+  story: "metaworld-hopecore",
   position: 36,
   ownLength: 3636,
   unitSlug: "words",

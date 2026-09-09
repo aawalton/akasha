@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0029ContinueTheStoryBoo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0029-continue-the-story-book-10-voidbound",
   title: "Continue the Story [Book 10 - Voidbound]",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 29,
   ownLength: 185,
   ownProgress: 185,

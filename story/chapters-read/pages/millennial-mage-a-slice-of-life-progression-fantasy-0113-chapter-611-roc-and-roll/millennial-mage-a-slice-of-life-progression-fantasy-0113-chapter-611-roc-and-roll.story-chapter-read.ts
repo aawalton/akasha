@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0113Chapter611RocAndRol
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0113-chapter-611-roc-and-roll",
   title: "Chapter: 611 - Roc and Roll",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 113,
   ownLength: 2676,
   ownProgress: 2676,
