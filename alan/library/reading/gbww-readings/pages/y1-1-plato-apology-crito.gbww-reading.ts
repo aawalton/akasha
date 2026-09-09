@@ -12,5 +12,5 @@ export const y11PlatoApologyCrito = {
   planYear: 1,
   readingNumber: 1,
   editionMarker: "common",
-  storySlug: "plato-apology-crito",
+  story: "plato-apology-crito",
 } as const satisfies GbwwReading

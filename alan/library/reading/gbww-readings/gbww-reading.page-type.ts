@@ -6,7 +6,7 @@ import type { GbwwPlanKey } from "./properties/gbww-plan-key.text-property.ts"
 import type { GbwwPlanYear } from "./properties/gbww-plan-year.number-property.ts"
 import type { GbwwReadingNumber } from "./properties/gbww-reading-number.number-property.ts"
 import type { GbwwSection } from "./properties/gbww-section.text-property.ts"
-import type { GbwwStorySlug } from "./properties/gbww-story-slug.relation-property.ts"
+import type { GbwwStory } from "./properties/gbww-story.relation-property.ts"
 import type { GbwwWork } from "./properties/gbww-work.text-property.ts"
 
 export type GbwwReading = Collection & {
@@ -17,7 +17,7 @@ export type GbwwReading = Collection & {
   planYear: GbwwPlanYear
   readingNumber: GbwwReadingNumber
   editionMarker: GbwwEditionMarker
-  storySlug?: GbwwStorySlug
+  story?: GbwwStory
 }
 
 export const gbwwReading = {
@@ -30,7 +30,7 @@ export const gbwwReading = {
   partSlugs: [
     "number-property/gbww-plan-year",
     "number-property/gbww-reading-number",
-    "relation-property/gbww-story-slug",
+    "relation-property/gbww-story",
     "select-property/gbww-edition-marker",
     "text-property/gbww-plan-key",
     "text-property/gbww-section",
@@ -45,7 +45,7 @@ export const gbwwReading = {
     { pagePropertySlug: "number-property/gbww-plan-year", required: true, many: false },
     { pagePropertySlug: "number-property/gbww-reading-number", required: true, many: false },
     { pagePropertySlug: "select-property/gbww-edition-marker", required: true, many: false },
-    { pagePropertySlug: "relation-property/gbww-story-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/gbww-story", required: false, many: false },
   ],
   invariants: [
     {
