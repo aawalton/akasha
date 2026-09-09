@@ -1,7 +1,7 @@
-import { expect, test } from "bun:test"
-import { mkdtempSync, readFileSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, expect, test } from "bun:test"
+import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   fileSink,
   LOG_MAX_BYTES,
@@ -11,7 +11,9 @@ import {
   shouldRotate,
 } from "./supervisor-console.module.code.ts"
 
-const scratch = () => mkdtempSync(join(tmpdir(), "supervisor-console-"))
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 test("a log at or past its ceiling rotates and one under it does not", () => {
   expect(shouldRotate(LOG_MAX_BYTES, LOG_MAX_BYTES)).toBe(true)
@@ -20,13 +22,13 @@ test("a log at or past its ceiling rotates and one under it does not", () => {
 })
 
 test("a sink writes the level and the text into its file", () => {
-  const path = join(scratch(), "supervisor.log")
+  const path = join(scratch.rootFor("supervisor-console-"), "supervisor.log")
   fileSink(path)("LOG", "a line")
   expect(readFileSync(path, "utf8")).toContain("[LOG] a line")
 })
 
 test("a file at its ceiling is renamed aside rather than grown", () => {
-  const dir = scratch()
+  const dir = scratch.rootFor("supervisor-console-")
   const path = join(dir, "supervisor.log")
   writeFileSync(path, "x".repeat(100))
   const sink = fileSink(path, { maxBytes: 10 })
