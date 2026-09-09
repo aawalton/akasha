@@ -1119,6 +1119,9 @@
     "temper/lib-alchemy-station": {
       "name": "@akasha/temper-lib-alchemy-station",
     },
+    "temper/lib-async": {
+      "name": "@akasha/temper-lib-async",
+    },
     "temper/lib-character-knowledge": {
       "name": "@akasha/temper-lib-character-knowledge",
       "dependencies": {
@@ -1270,9 +1273,6 @@
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
-    },
-    "temper/temper-lib-async": {
-      "name": "@akasha/temper-lib-async",
     },
     "temper/temper-web": {
       "name": "@akasha/temper-web",
@@ -1544,7 +1544,7 @@
 
     "@akasha/temper-lib-alchemy-station": ["@akasha/temper-lib-alchemy-station@workspace:temper/lib-alchemy-station"],
 
-    "@akasha/temper-lib-async": ["@akasha/temper-lib-async@workspace:temper/temper-lib-async"],
+    "@akasha/temper-lib-async": ["@akasha/temper-lib-async@workspace:temper/lib-async"],
 
     "@akasha/temper-lib-character-knowledge": ["@akasha/temper-lib-character-knowledge@workspace:temper/lib-character-knowledge"],
 
