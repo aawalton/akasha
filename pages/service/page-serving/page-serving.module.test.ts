@@ -350,7 +350,7 @@ test("a write may carry pages rather than bodies", async () => {
   const answered = await answering(GIVEN, writing({ pages: [A_DEVICE_TOKEN] }))
   expect(answered.status).toBe(200)
   const told = TOLD[TOLD.length - 1]
-  expect(told?.puts?.[0]?.path).toBe("person-system/device-tokens/pages/held-one.device-token.ts")
+  expect(told?.puts?.[0]?.path).toBe("persons/device-tokens/pages/held-one.device-token.ts")
 })
 
 test("which values a page carried commit is read from its page type", async () => {
