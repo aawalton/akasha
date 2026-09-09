@@ -5,7 +5,7 @@ export const audhdalanWeb = {
   pageTypeSlug: "web-app",
   slug: "audhdalan-web",
   definition: "the site Alan's neurodiversity writing is published on",
-  sourceDirectory: "products/audhdalan/audhdalan-web",
+  sourceDirectory: "products/audhdalan/web",
   buildCommand: "bun run build",
   clusterServices: ["audhdalan-web"],
   hostnames: ["audhdalan.com"],

@@ -848,7 +848,7 @@
         "vite": "^8.0.3",
       },
     },
-    "products/audhdalan/audhdalan-web": {
+    "products/audhdalan/web": {
       "name": "@akasha/audhdalan-web",
       "version": "0.1.0",
       "dependencies": {
@@ -1640,7 +1640,7 @@
 
     "@akasha/archive-of-worlds-web": ["@akasha/archive-of-worlds-web@workspace:products/archive-of-worlds/web"],
 
-    "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:products/audhdalan/audhdalan-web"],
+    "@akasha/audhdalan-web": ["@akasha/audhdalan-web@workspace:products/audhdalan/web"],
 
     "@akasha/auth-proxy": ["@akasha/auth-proxy@workspace:infrastructure/auth-proxy"],
 

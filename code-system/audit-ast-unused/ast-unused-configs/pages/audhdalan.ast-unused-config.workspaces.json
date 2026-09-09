@@ -1,6 +1,6 @@
 {
   "workspaces": {
-    "products/audhdalan/audhdalan-web": {
+    "products/audhdalan/web": {
       "entry": [
         "*.{ts,tsx}",
         "routes/**/*.{ts,tsx}",

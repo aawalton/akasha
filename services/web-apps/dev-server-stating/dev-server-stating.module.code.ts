@@ -47,7 +47,7 @@ const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
   },
   audhdalan: {
     name: "audhdalan",
-    packagePath: "products/audhdalan/audhdalan-web",
+    packagePath: "products/audhdalan/web",
     basePort: 3100,
     extraDevArgs: [],
     devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
