@@ -29,6 +29,8 @@ export const categoryRule = {
     "select-property/match-key",
     "text-property/match-values",
     "text-property/rule-note",
+    "page-type/category-rule-agent",
+    "page-type/category-rule-code",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

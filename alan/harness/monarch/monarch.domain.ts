@@ -10,8 +10,6 @@ export const monarch = {
     "module/monarch-syncing",
     "module/transaction-polling",
     "page-type/category-rule",
-    "page-type/category-rule-agent",
-    "page-type/category-rule-code",
     "page-type/monarch-account",
     "page-type/monarch-category",
     "page-type/monarch-direction",
