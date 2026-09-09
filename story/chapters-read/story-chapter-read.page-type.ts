@@ -11,7 +11,7 @@ import type { StorySlug } from "./properties/story-slug.relation-property.ts"
 
 export type StoryChapterRead = CollectionExternal & {
   title: Title
-  storySlug?: StorySlug
+  storySlug: StorySlug
   ownLength: OwnLength
   externalLink: ExternalLink
   prose: Prose
@@ -55,7 +55,7 @@ export const storyChapterRead = {
     },
   },
   sequence: {
-    groupBy: "partOfCollectionSlugs",
+    groupBy: "storySlug",
     orderBy: "position",
     direction: "asc",
   },
@@ -77,7 +77,7 @@ export const storyChapterRead = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/story-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/story-slug", required: true, many: false },
     { pagePropertySlug: "number-property/own-length", required: true, many: false },
     { pagePropertySlug: "url-property/external-link", required: true, many: false },
     { pagePropertySlug: "file-property/prose", required: true, many: false },
