@@ -1,0 +1,12 @@
+import type { Finding } from "../finding.page-type.ts"
+
+export const takingAFilePropertyValueOffAPageLeavesItsFileBehind = {
+  id: "01a08775-2220-76c0-a026-1efb9b2e4895",
+  pageTypeSlug: "finding",
+  slug: "taking-a-file-property-value-off-a-page-leaves-its-file-behind",
+  domain: "workspace-package/change",
+  claim:
+    "`remove-property-value` edits a page's body and nothing else. Where the property named is a file property, the file that value named is left in the folder, claimed by no page. Taking the `test` value off the media page module left `media-page.module.test.ts` beside the page, and a second landing with `remove-file` was needed to take it away. No check refused the first landing: `file-has-its-page` judges only what a change has, and the change had the page rather than the file left behind.",
+  evidence:
+    "MEASURED on 2026-09-09 while dropping the media page module's test.\n\n`akasha change draft remove-property-value` with `at: alan/web/media-page/media-page.module.ts`, `key: test`, `value: ts` landed as 2dfaed30d5. `ls alan/web/media-page/` after that landing still answered media-page.module.test.ts. A second landing, da79815e28, ran `remove-file` at that path.\n\nWHY. changes/agent/file-content/remove-property-value/remove-property-value.change-agent.code.ts reaches one rung, `change-mechanical-file-content/remove-property-value`, and nothing in it reads whether the property named is held in a file. Its own page says as much: `Taking the value out is left to the mechanical change of the same name`, and that mechanical change acts on file content. The word `file` occurs nowhere else in the change's code.\n\nWHAT THE PAGES SAY TODAY. pages/file-properties/file-property.page-type.ts says `A file property's value is beside its page rather than in the page's own file` and `A file property's value goes when its page goes`. Neither says what becomes of the file when the value goes and the page remains, which is the case here.\n\nWHERE IT COULD BE ANSWERED. The change could read the property page and, where that property is a file property, compose the file removal beside the body edit. Or a landing check could refuse a change taking a file property's value while leaving its file. The first makes one act do what an author asking for a value to go means by it; the second is a smaller change and leaves the author to compose both. Neither is done.",
+} as const satisfies Finding
