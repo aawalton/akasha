@@ -12,7 +12,7 @@ import type { RouteTypesDirectory } from "./properties/route-types-directory.bui
 import type { RouterAppGitIgnore } from "./properties/router-app-git-ignore.file-property.ts"
 import type { RouterConfig } from "./properties/router-config.file-property.ts"
 import type { Server } from "./properties/server.code-file-property.ts"
-import type { ServerEntry } from "./properties/server-entry.file-property.ts"
+import type { ServerEntry } from "./properties/server-entry.code-file-property.ts"
 import type { SidebarBoot } from "./properties/sidebar-boot.file-property.ts"
 import type { SiteIcon } from "./properties/site-icon.file-property.ts"
 import type { TestPreload } from "./properties/test-preload.file-property.ts"
@@ -54,7 +54,7 @@ export const routerApp = {
     "file-property/router-app-git-ignore",
     "file-property/router-config",
     "code-file-property/server",
-    "file-property/server-entry",
+    "code-file-property/server-entry",
     "file-property/sidebar-boot",
     "file-property/site-icon",
     "file-property/test-preload",
@@ -68,7 +68,7 @@ export const routerApp = {
   properties: [
     { pagePropertySlug: "file-property/root-route", required: true, many: false },
     { pagePropertySlug: "file-property/route-table", required: true, many: false },
-    { pagePropertySlug: "file-property/server-entry", required: true, many: false },
+    { pagePropertySlug: "code-file-property/server-entry", required: true, many: false },
     { pagePropertySlug: "file-property/router-config", required: true, many: false },
     { pagePropertySlug: "file-property/compile-config", required: false, many: false },
     { pagePropertySlug: "file-property/app-layout", required: false, many: false },
