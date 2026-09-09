@@ -1,8 +1,0 @@
-{
-  "name": "@akasha/web-static-assets",
-  "private": true,
-  "type": "module",
-  "exports": {
-    "./serve-static": "./serve-static/serve-static.module.code.ts"
-  }
-}

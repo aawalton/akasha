@@ -109,7 +109,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/web-static-assets": "workspace:*",
         "@capacitor/core": "^8.4.1",
         "@capacitor/preferences": "^8.0.1",
         "@capgo/background-geolocation": "^8.3.1",
@@ -366,9 +365,6 @@
         "lucide-react": "^0.576.0",
       },
     },
-    "alan/harness/web-static-assets": {
-      "name": "@akasha/web-static-assets",
-    },
     "alan/harness/workspace-paths": {
       "name": "@akasha/workspace-paths",
       "dependencies": {
@@ -473,7 +469,6 @@
         "@akasha/supabase-server": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/voice-core": "workspace:*",
-        "@akasha/web-static-assets": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "@fontsource-variable/literata": "^5.2.5",
         "@supabase/supabase-js": "^2.104.0",
@@ -1319,7 +1314,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/web-page-answers": "workspace:*",
-        "@akasha/web-static-assets": "workspace:*",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
         "react": "19.2.0",
@@ -1351,7 +1345,6 @@
         "@akasha/errors-core": "workspace:*",
         "@akasha/k8s-types": "workspace:*",
         "@akasha/pages-access": "workspace:*",
-        "@akasha/web-static-assets": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "isbot": "^5.1.36",
         "lucide-react": "^0.576.0",
@@ -1430,7 +1423,6 @@
         "@akasha/status-bar-access": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/web-static-assets": "workspace:*",
         "isbot": "^5.1.36",
         "react": "19.2.0",
         "react-dom": "19.2.0",
@@ -2724,7 +2716,6 @@
         "@akasha/temper-trading-pricing-client": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/web-page-answers": "workspace:*",
-        "@akasha/web-static-assets": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
         "class-variance-authority": "^0.7.1",
         "isbot": "^5.1.36",
@@ -3352,8 +3343,6 @@
     "@akasha/wan": ["@akasha/wan@workspace:inference/generations/wan"],
 
     "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:alan/harness/web-page-answers"],
-
-    "@akasha/web-static-assets": ["@akasha/web-static-assets@workspace:alan/harness/web-static-assets"],
 
     "@akasha/workspace-paths": ["@akasha/workspace-paths@workspace:alan/harness/workspace-paths"],
 

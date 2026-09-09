@@ -29,7 +29,6 @@
     "@akasha/pages-url": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/web-page-answers": "workspace:*",
-    "@akasha/web-static-assets": "workspace:*",
     "@akasha/k8s-types": "workspace:*",
     "isbot": "^5.1.36",
     "lucide-react": "^0.576.0",
