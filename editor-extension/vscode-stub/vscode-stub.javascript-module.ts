@@ -1,4 +1,4 @@
-import type { JavascriptModule } from "@akasha/code/javascript-module"
+import type { JavascriptModule } from "akasha/code-system/javascript-modules/javascript-module.page-type.types.ts"
 
 export const vscodeStub = {
   id: "01a06957-955c-7cf6-9b2b-b7ef62ac9c75",

@@ -1,10 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Domain } from "akasha/domains/domain.page-type.ts"
-import type { Javascript } from "./properties/javascript.code-file-property.ts"
-
-export type JavascriptModule = Domain & {
-  javascript: Javascript
-}
 
 export const javascriptModule = {
   id: "01a06954-f7db-7006-ba1c-605a60e17fab",
@@ -50,4 +44,5 @@ export const javascriptModule = {
       statement: "No check reading TypeScript reads a JavaScript module.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
