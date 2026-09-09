@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
 
 export const barman = {
   id: "01a06863-74e9-7ccb-a06f-b9cdaa0c77cb",

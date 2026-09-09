@@ -1,4 +1,4 @@
-import type { Module } from "../../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
 
 export const keepDecision = {
   id: "01a06863-74e2-7c1b-b23b-96d87eca0184",
