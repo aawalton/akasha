@@ -4,7 +4,7 @@ export const temperUpstreamPortsAreClearToEnter = {
   id: "01a0607b-cd7a-79e6-97ce-a69336cd8a0e",
   pageTypeSlug: "finding",
   slug: "temper-upstream-ports-are-clear-to-enter",
-  domain: "workspace-package/temper-upstream-data",
+  domain: "domain/temper-upstream-data",
   claim:
     "The four `port.ts` files and `leaf-dump.ts` under `tools/lib/temper-upstream-data/` now reach nothing outside akasha, because the Lua runner and the live-directory resolver both landed tonight. The four matching `verify.ts` each still wait on the generated data of the addon package it checks. Nothing about the runner holds any of the ten back any more.",
   evidence:

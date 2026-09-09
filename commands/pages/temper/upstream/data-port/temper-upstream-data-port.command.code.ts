@@ -3,12 +3,15 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
-import { port as portHousing } from "@akasha/temper-upstream-data/housing-upstream-port"
-import { port as portMapData } from "@akasha/temper-upstream-data/map-data-upstream-port"
-import { port as portTreasure } from "@akasha/temper-upstream-data/treasure-upstream-port"
-import type { UpstreamLibrary } from "@akasha/temper-upstream-data/upstream-libraries"
-import { libraryNamed, UPSTREAM_LIBRARIES } from "@akasha/temper-upstream-data/upstream-libraries"
-import { port as portZone } from "@akasha/temper-upstream-data/zone-upstream-port"
+import { port as portHousing } from "akasha/temper/upstream-data/housing-upstream-port/housing-upstream-port.module.code.ts"
+import { port as portMapData } from "akasha/temper/upstream-data/map-data-upstream-port/map-data-upstream-port.module.code.ts"
+import { port as portTreasure } from "akasha/temper/upstream-data/treasure-upstream-port/treasure-upstream-port.module.code.ts"
+import type { UpstreamLibrary } from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
+import {
+  libraryNamed,
+  UPSTREAM_LIBRARIES,
+} from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
+import { port as portZone } from "akasha/temper/upstream-data/zone-upstream-port/zone-upstream-port.module.code.ts"
 import {
   namesIn,
   valuesOf,

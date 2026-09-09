@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperUpstreamData = {
   id: "01a06038-2cbe-79d6-9497-4ef8b26650e5",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-upstream-data",
   definition: "the data temper copies out of community ESO libraries and rules on afterwards",
-  manifest: "json",
   parts: [
     "module/upstream-libraries",
     "module/ts-lua-serializer",
@@ -56,4 +55,4 @@ export const temperUpstreamData = {
       statement: "The checkout the ported file lands in is named by the caller.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

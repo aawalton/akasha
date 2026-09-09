@@ -61,7 +61,6 @@
     "@akasha/pages-service": "workspace:*",
     "@akasha/pages-access": "workspace:*",
     "@akasha/temper-build-deploy-checks": "workspace:*",
-    "@akasha/temper-upstream-data": "workspace:*",
     "@akasha/pages-query": "workspace:*",
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*",

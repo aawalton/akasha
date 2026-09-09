@@ -4,7 +4,7 @@ export const libSetsPortScriptsAreToolingRatherThanTheVendoredLibrary = {
   id: "01a060d3-cb3a-7eb9-95ea-b36fb9b2963d",
   pageTypeSlug: "finding",
   slug: "lib-sets-port-scripts-are-tooling-rather-than-the-vendored-library",
-  domain: "workspace-package/temper-upstream-data",
+  domain: "domain/temper-upstream-data",
   claim:
     "`temper/shared-addon-libraries-lib-sets-scripts` is temper's own porting tooling around LibSets rather than part of the library itself, so it migrates as tooling rather than beside the library's modules. It holds no LibSets code: it fetches genuine upstream at a named commit, refuses a tree that is this port's own build output, and copies upstream's Lua tables out as TypeScript. Akasha already owns that job as `temper-upstream-data`.",
   evidence:

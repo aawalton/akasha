@@ -4,16 +4,19 @@ import type { Answer } from "@akasha/command-system/calling"
 import { answering, refused } from "@akasha/command-system/calling"
 import { saidBy } from "@akasha/command-system/fault-saying"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
-import { verifyHousing } from "@akasha/temper-upstream-data/housing-upstream-verify"
-import { verifyMapData } from "@akasha/temper-upstream-data/map-data-upstream-verify"
-import { verifyTreasure } from "@akasha/temper-upstream-data/treasure-upstream-verify"
-import type { Ruling, UpstreamLibrary } from "@akasha/temper-upstream-data/upstream-libraries"
+import { verifyHousing } from "akasha/temper/upstream-data/housing-upstream-verify/housing-upstream-verify.module.code.ts"
+import { verifyMapData } from "akasha/temper/upstream-data/map-data-upstream-verify/map-data-upstream-verify.module.code.ts"
+import { verifyTreasure } from "akasha/temper/upstream-data/treasure-upstream-verify/treasure-upstream-verify.module.code.ts"
+import type {
+  Ruling,
+  UpstreamLibrary,
+} from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
 import {
   libraryNamed,
   SOURCES_OF,
   UPSTREAM_LIBRARIES,
-} from "@akasha/temper-upstream-data/upstream-libraries"
-import { verifyZone } from "@akasha/temper-upstream-data/zone-upstream-verify"
+} from "akasha/temper/upstream-data/upstream-libraries/upstream-libraries.module.code.ts"
+import { verifyZone } from "akasha/temper/upstream-data/zone-upstream-verify/zone-upstream-verify.module.code.ts"
 
 const DATA = 2
 const FAILED = 3

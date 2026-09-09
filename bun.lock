@@ -90,7 +90,6 @@
         "@akasha/temper-skill-morphs": "workspace:*",
         "@akasha/temper-skill-morphs-access": "workspace:*",
         "@akasha/temper-trading-pricing": "workspace:*",
-        "@akasha/temper-upstream-data": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@googleapis/calendar": "^15.0.0",
         "@googleapis/drive": "^20.2.0",
@@ -1937,15 +1936,6 @@
         "zod": "^4.3.6",
       },
     },
-    "temper/upstream-data": {
-      "name": "@akasha/temper-upstream-data",
-      "dependencies": {
-        "@akasha/git": "workspace:*",
-        "@akasha/temper-eso-paths": "workspace:*",
-        "@akasha/temper-lua-runner": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "testing-system": {
       "name": "@akasha/testing-system",
       "dependencies": {
@@ -2312,8 +2302,6 @@
     "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
 
     "@akasha/temper-trading-pricing": ["@akasha/temper-trading-pricing@workspace:temper/trading-pricing"],
-
-    "@akasha/temper-upstream-data": ["@akasha/temper-upstream-data@workspace:temper/upstream-data"],
 
     "@akasha/temper-web": ["@akasha/temper-web@workspace:temper/temper-web"],
 
