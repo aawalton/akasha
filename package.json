@@ -107,7 +107,6 @@
     "@akasha/object-store": "workspace:*",
     "@akasha/temper-player-completion-state": "workspace:*",
     "@akasha/temper-build-support": "workspace:*",
-    "@akasha/temper-skill-morphs-access": "workspace:*",
     "@akasha/temper-character-build": "workspace:*",
     "@akasha/temper-items-filters-core": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",

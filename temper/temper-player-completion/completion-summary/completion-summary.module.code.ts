@@ -13,7 +13,7 @@ import {
 import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,
-} from "@akasha/temper-skill-morphs-access/eso-id-helpers"
+} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { CharacterAchievementProgressResult } from "../completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { CharacterSummaryData } from "../completion-card-registry/completion-card-registry.module.code.ts"
 import type {

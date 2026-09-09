@@ -128,7 +128,7 @@ export const temper = {
     "eso-addon/temper-hud-addon",
     "eso-addon/temper-lib-treasure",
     "eso-addon/temper-lib-map-data",
-    "workspace-package/temper-skill-morphs-access",
+    "domain/temper-skill-morphs-access",
     "eso-addon/temper-lib-zone",
     "eso-addon/temper-selector-addon",
     "eso-addon/temper-lib-character-knowledge",

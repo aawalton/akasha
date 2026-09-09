@@ -8,9 +8,9 @@ import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,
   getApplicableSkillLineIds,
-} from "@akasha/temper-skill-morphs-access/eso-id-helpers"
-import type { MorphCharacterRow } from "@akasha/temper-skill-morphs-access/morph-completion-shapes"
-import { resolveSkillMorphs } from "@akasha/temper-skill-morphs-access/skill-morphs-resolver"
+} from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
+import type { MorphCharacterRow } from "akasha/temper/skill-morphs-access/morph-completion-shapes/morph-completion-shapes.module.code.ts"
+import { resolveSkillMorphs } from "akasha/temper/skill-morphs-access/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
 import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,

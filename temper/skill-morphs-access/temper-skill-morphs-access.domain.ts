@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperSkillMorphsAccess = {
   id: "01a061e2-5e38-795d-b1f0-b50d142c48d5",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-skill-morphs-access",
   definition: "the morph progress a saved completion row carries",
-  manifest: "json",
   parts: [
     "module/morph-completion-shapes",
     "module/eso-id-helpers",
@@ -27,4 +26,4 @@ export const temperSkillMorphsAccess = {
       statement: "A skill line the game numbers zero is left out of the maps here.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
