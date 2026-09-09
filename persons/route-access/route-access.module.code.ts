@@ -28,7 +28,8 @@ export async function routeTargetsFor(
   const asked = await askingFor(
     {
       pageTypeSlug: PERSON_ACCESS_PAGE_TYPE,
-      where: { accessKind: { is: ROUTE_ACCESS_KIND } },
+      where: { person: { is: personSlug }, accessKind: { is: ROUTE_ACCESS_KIND } },
+      keys: ["target"],
     },
     fetcher,
     naps
@@ -41,7 +42,6 @@ export async function routeTargetsFor(
   }
   const targets: string[] = []
   for (const row of asked.rows) {
-    if ((row["person"] ?? row["personSlug"]) !== personSlug) continue
     const target = row["target"]
     if (typeof target === "string" && target !== "") targets.push(target)
   }

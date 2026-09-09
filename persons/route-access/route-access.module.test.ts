@@ -76,7 +76,10 @@ test("only an access of the route kind is asked for", async () => {
   const recording = recordingFetcher()
   await routeTargetsFor("alan", recording.fetcher, noNap)
   expect(recording.sent().pageTypeSlug).toBe("person-access")
-  expect(recording.sent().where).toEqual({ accessKind: { is: "route" } })
+  expect(recording.sent().where).toEqual({
+    person: { is: "alan" },
+    accessKind: { is: "route" },
+  })
 })
 
 test("an account read to a person takes that person's grants", async () => {
@@ -85,7 +88,7 @@ test("an account read to a person takes that person's grants", async () => {
     "readout-feed",
     answeringByType({
       person: [{ slug: "jenny" }],
-      "person-access": [{ target: "readout-feed", personSlug: "jenny" }],
+      "person-access": [{ target: "readout-feed" }],
     }),
     noNap
   )
