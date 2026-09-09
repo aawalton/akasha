@@ -2,16 +2,15 @@ import { readFile } from "node:fs/promises"
 import { resolve } from "node:path"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { savedVarsFile } from "@akasha/temper-eso-paths/eso-paths-resolve"
+import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
+import type { RuleEvalResult, WalkTrace } from "@akasha/temper-items-rules-eval/eval-result"
+import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import type { CharacterKnowledge } from "../../../../../temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   allBagItems,
-  type CharacterKnowledge,
-  type CompiledOrderedRule,
   explainCapabilities,
-  type ItemFacts,
-  type RuleEvalResult,
   resolveItemFromInventory,
-  type WalkTrace,
 } from "../../../../../temper/temper-commands/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import {
   type MatchedRoute,

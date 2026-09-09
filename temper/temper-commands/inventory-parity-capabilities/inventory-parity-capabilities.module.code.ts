@@ -1,5 +1,5 @@
+import type { InventoryItemData } from "@akasha/temper-items-core/inventory-types"
 import * as utilsNarrow from "@akasha/utils/narrow/assert-never"
-import type { InventoryItemData } from "../inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import * as parityRoutingModule from "../inventory-parity-routing/inventory-parity-routing.module.code.ts"
 import * as parityAddonTraceModule from "../inventory-parity-trace/inventory-parity-trace.module.code.ts"
 

@@ -7,46 +7,12 @@ import type {
 } from "@akasha/temper-items-core/inventory-types"
 import { parseItemLink } from "@akasha/temper-items-core/item-link-parser"
 import { locationConditionFromKeyAndBag } from "@akasha/temper-items-core/location-condition"
-import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import { computeStockGroups } from "@akasha/temper-items-rules-eval/compute-stock-groups"
-import type { EvalEnv } from "@akasha/temper-items-rules-eval/eval-env"
-import type {
-  IndeterminateReason,
-  RejectionReason,
-  RuleEvalResult,
-  RuleVerdict,
-  WalkOutcome,
-  WalkTrace,
-} from "@akasha/temper-items-rules-eval/eval-result"
 import { walkRules } from "@akasha/temper-items-rules-eval/evaluator"
-import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
-import {
-  type CharacterKnowledge,
-  loadTemperCharactersFromPath,
-} from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
-import {
-  type CompiledInventoryConfig,
-  loadTemperInventoryConfigFromPath,
-} from "../inventory-config-reading/inventory-config-reading.module.code.ts"
+import { loadTemperCharactersFromPath } from "../inventory-characters-reading/inventory-characters-reading.module.code.ts"
+import { loadTemperInventoryConfigFromPath } from "../inventory-config-reading/inventory-config-reading.module.code.ts"
 import { buildCliEvalEnv } from "../inventory-eval-env/inventory-eval-env.module.code.ts"
 import { cliItemFactsFromInventoryItem } from "../inventory-item-facts/inventory-item-facts.module.code.ts"
-
-export type {
-  CharacterKnowledge,
-  CompiledInventoryConfig,
-  CompiledOrderedRule,
-  EvalEnv,
-  IndeterminateReason,
-  InventoryDatabase,
-  InventoryItemData,
-  InventoryLocationData,
-  ItemFacts,
-  RejectionReason,
-  RuleEvalResult,
-  RuleVerdict,
-  WalkOutcome,
-  WalkTrace,
-}
 
 export type LocationConditionId = ReturnType<typeof locationConditionFromKeyAndBag>
 

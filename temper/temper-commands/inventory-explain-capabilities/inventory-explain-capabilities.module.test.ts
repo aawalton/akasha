@@ -1,39 +1,57 @@
 import { beforeAll, describe, expect, test } from "bun:test"
+import type {
+  InventoryDatabase,
+  InventoryItemData,
+} from "@akasha/temper-items-core/inventory-types"
 import {
   allBagItems,
   type ExplainCapabilities,
   explainCapabilities,
-  type InventoryDatabase,
   resolveItemFromInventory,
 } from "./inventory-explain-capabilities.module.code.ts"
 
-function itemAt(itemId: number, itemName: string): Record<string, unknown> {
-  return { itemId, itemName, stackCount: 1 }
+function itemAt(itemId: number, itemName: string): InventoryItemData {
+  return {
+    itemId,
+    itemName,
+    itemLink: "",
+    quality: 1,
+    filterType: 1,
+    itemType: 1,
+    traitType: 0,
+    requiredLevel: 1,
+    requiredCP: 0,
+    stackCount: 1,
+  }
 }
 
-const DB = {
+const DB: InventoryDatabase = {
   locations: {
     "1000": {
+      displayName: "1000",
       lastScanned: 100,
       bags: {
-        "0": { "1": itemAt(45336, "worn ore") },
-        "1": { "2": itemAt(45337, "packed ore") },
+        0: { 1: itemAt(45336, "worn ore") },
+        1: { 2: itemAt(45337, "packed ore") },
       },
     },
     "2000": {
+      displayName: "2000",
       lastScanned: 900,
       bags: {
-        "1": { "3": itemAt(45336, "newer ore") },
+        1: { 3: itemAt(45336, "newer ore") },
       },
     },
     Bank: {
+      displayName: "Bank",
       lastScanned: 50,
       bags: {
-        "1": { "4": itemAt(45338, "banked ore") },
+        1: { 4: itemAt(45338, "banked ore") },
       },
     },
   },
-} as unknown as InventoryDatabase
+  meta: { displayName: "tester", worldName: "NA Megaserver", lastFullScan: 900 },
+}
 
 let caps: ExplainCapabilities
 
