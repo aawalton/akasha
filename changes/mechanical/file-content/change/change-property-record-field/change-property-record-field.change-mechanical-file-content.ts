@@ -10,10 +10,15 @@ export const changePropertyRecordField = {
   definition: "one field of one record a page's many-valued property has, stated anew",
   code: "ts",
   test: "ts",
+  guards: ["change-guard/relation-reaches-a-page"],
   invariants: [
     {
       invariantKind: "departure",
       statement: "The record worked is the one whose named field states the text handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field stated anew to name a page that is not there refuses the answer.",
     },
     {
       invariantKind: "departure",
