@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fiveElementOverlordICanUpgradeEverything0134Ch134Playtime = {
   id: "01a07252-32ed-77f1-b3df-371b0578dac8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0134-ch134-playtime",
   story: "story-read/five-element-overlord-i-can-upgrade-everything",
   position: 134,

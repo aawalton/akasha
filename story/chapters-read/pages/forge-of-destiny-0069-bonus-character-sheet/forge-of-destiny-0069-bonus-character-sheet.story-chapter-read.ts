@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const forgeOfDestiny0069BonusCharacterSheet = {
   id: "01a0672c-eb23-7001-aec8-e66f3226da66",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "forge-of-destiny-0069-bonus-character-sheet",
   title: "Bonus: Character Sheet",
   story: "forge-of-destiny",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fleshEaterDemonEvolutionLitrpg0112ChapterOneHundredNineStillWaters = {
   id: "01a06731-af67-7003-9aac-2ce1e97bb158",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0112-chapter-one-hundred-nine-still-waters",
   title: "Chapter One Hundred Nine: Still Waters",
   story: "flesh-eater-demon-evolution-litrpg",

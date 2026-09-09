@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const forgeOfDestiny0065BonusTheSkyThatFell = {
   id: "01a0672c-eb22-7002-8d2f-bd6afca3d1d5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "forge-of-destiny-0065-bonus-the-sky-that-fell",
   title: "Bonus: The Sky that Fell",
   story: "forge-of-destiny",

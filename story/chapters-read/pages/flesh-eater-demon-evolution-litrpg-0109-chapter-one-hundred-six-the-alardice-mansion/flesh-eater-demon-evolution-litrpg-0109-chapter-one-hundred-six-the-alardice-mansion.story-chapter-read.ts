@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fleshEaterDemonEvolutionLitrpg0109ChapterOneHundredSixTheAlardiceMansion = {
   id: "01a06731-af67-7000-8172-e8b17cfe63f8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0109-chapter-one-hundred-six-the-alardice-mansion",
   title: "Chapter One Hundred Six: The Alardice Mansion",
   story: "flesh-eater-demon-evolution-litrpg",

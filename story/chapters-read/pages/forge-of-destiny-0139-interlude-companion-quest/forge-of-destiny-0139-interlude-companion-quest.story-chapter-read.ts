@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const forgeOfDestiny0139InterludeCompanionQuest = {
   id: "01a0672c-eb33-7003-8ada-6d2b5caa6562",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "forge-of-destiny-0139-interlude-companion-quest",
   title: "Interlude: Companion Quest",
   story: "forge-of-destiny",

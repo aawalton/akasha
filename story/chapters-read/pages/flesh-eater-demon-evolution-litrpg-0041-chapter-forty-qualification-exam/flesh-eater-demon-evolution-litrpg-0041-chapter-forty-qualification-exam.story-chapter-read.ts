@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fleshEaterDemonEvolutionLitrpg0041ChapterFortyQualificationExam = {
   id: "01a06731-af50-7001-8fa4-f9bafb356916",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0041-chapter-forty-qualification-exam",
   title: "Chapter Forty: Qualification Exam",
   story: "flesh-eater-demon-evolution-litrpg",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const forgeOfDestiny0018ThreadsChapter10 = {
   id: "01a0672c-eb0e-7003-85ec-8f591682d08f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "forge-of-destiny-0018-threads-chapter-10",
   title: "Threads Chapter 10",
   story: "forge-of-destiny",

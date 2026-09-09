@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const forgeOfDestiny0266InTheShadowOfXiangmenIv = {
   id: "01a06591-3dfe-7005-ae81-5b5873b89e51",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "forge-of-destiny-0266-in-the-shadow-of-xiangmen-iv",
   title: "In the Shadow of Xiangmen IV",
   story: "forge-of-destiny",

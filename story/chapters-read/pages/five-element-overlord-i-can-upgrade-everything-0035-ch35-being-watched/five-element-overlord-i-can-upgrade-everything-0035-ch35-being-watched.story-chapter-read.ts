@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fiveElementOverlordICanUpgradeEverything0035Ch35BeingWatched = {
   id: "01a06731-adb5-7000-aeda-ca878f41964c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0035-ch35-being-watched",
   title: "Ch35 Being Watched",
   story: "five-element-overlord-i-can-upgrade-everything",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fiveElementOverlordICanUpgradeEverything0118Ch11812thLevelQiRefiner = {
   id: "01a06731-adb9-7005-8c3b-4fa12ed3c54a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0118-ch118-12th-level-qi-refiner",
   title: "Ch118 12th Level Qi Refiner",
   story: "five-element-overlord-i-can-upgrade-everything",

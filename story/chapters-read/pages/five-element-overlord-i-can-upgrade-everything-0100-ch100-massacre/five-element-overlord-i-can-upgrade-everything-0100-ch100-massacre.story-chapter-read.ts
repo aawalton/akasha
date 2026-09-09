@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fiveElementOverlordICanUpgradeEverything0100Ch100Massacre = {
   id: "01a06731-adb7-7010-9b09-60b931f5859a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0100-ch100-massacre",
   title: "Ch100 Massacre",
   story: "five-element-overlord-i-can-upgrade-everything",

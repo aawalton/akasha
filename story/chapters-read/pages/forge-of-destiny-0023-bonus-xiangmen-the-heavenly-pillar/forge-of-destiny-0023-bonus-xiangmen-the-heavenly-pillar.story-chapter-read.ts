@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const forgeOfDestiny0023BonusXiangmenTheHeavenlyPillar = {
   id: "01a0672c-eb0f-7001-b0bb-8320dc41ff7f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "forge-of-destiny-0023-bonus-xiangmen-the-heavenly-pillar",
   title: "Bonus: Xiangmen, the Heavenly Pillar",
   story: "forge-of-destiny",

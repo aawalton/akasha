@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fiveElementOverlordICanUpgradeEverything0062Ch62StoneValleyStronghold = {
   id: "01a06731-adb6-7002-abf3-ed01e81bc08b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0062-ch62-stone-valley-stronghold",
   title: "Ch62 Stone Valley Stronghold",
   story: "five-element-overlord-i-can-upgrade-everything",

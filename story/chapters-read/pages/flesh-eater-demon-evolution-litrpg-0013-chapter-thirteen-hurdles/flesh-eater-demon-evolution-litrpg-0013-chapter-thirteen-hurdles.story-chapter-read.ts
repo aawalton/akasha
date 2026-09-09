@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fleshEaterDemonEvolutionLitrpg0013ChapterThirteenHurdles = {
   id: "01a06731-af3e-7000-a0ec-6ea54248ce6d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0013-chapter-thirteen-hurdles",
   title: "Chapter Thirteen: Hurdles",
   story: "flesh-eater-demon-evolution-litrpg",

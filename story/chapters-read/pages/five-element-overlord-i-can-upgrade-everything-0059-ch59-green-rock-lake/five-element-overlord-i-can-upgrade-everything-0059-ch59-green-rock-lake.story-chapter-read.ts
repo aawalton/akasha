@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fiveElementOverlordICanUpgradeEverything0059Ch59GreenRockLake = {
   id: "01a06731-adb5-7018-b96a-c7beb18671fc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0059-ch59-green-rock-lake",
   title: "Ch59 Green Rock Lake",
   story: "five-element-overlord-i-can-upgrade-everything",

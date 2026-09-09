@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fiveElementOverlordICanUpgradeEverything0074Ch74YinMoonRises = {
   id: "01a06731-adb6-700e-9a5e-5ca90bd07199",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "five-element-overlord-i-can-upgrade-everything-0074-ch74-yin-moon-rises",
   title: "Ch74 Yin Moon Rises",
   story: "five-element-overlord-i-can-upgrade-everything",

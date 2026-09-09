@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const fleshEaterDemonEvolutionLitrpg0004ChapterFourVoice = {
   id: "01a06731-af39-7001-92b6-dcc1900580ac",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "flesh-eater-demon-evolution-litrpg-0004-chapter-four-voice",
   title: "Chapter Four: Voice",
   story: "flesh-eater-demon-evolution-litrpg",
