@@ -1,11 +1,10 @@
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { z } from "zod"
-import { searchPlaces } from "../.server/geoapify-search/geoapify-search.module.code.ts"
-import type { Route } from "./+types/api.places.search"
+import { searchPlaces } from "../../.server/geoapify-search/geoapify-search.module.code.ts"
 
 const querySchema = z.object({ q: z.string().min(1).max(200) }).strict()
 
-export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({ request }: { request: Request }): Promise<Response> {
   const { user, headers } = await getUser(request)
   if (!user) {
     return Response.json({ error: "Not authenticated" }, { status: 401, headers })

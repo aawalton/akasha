@@ -1,12 +1,14 @@
 import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
-import { checkBasemapRange, MAX_RANGE_BYTES } from "../basemap-range/basemap-range.module.code.ts"
-import type { Route } from "./+types/basemap.na-eu.pmtiles"
+import {
+  checkBasemapRange,
+  MAX_RANGE_BYTES,
+} from "../../basemap-range/basemap-range.module.code.ts"
 
 const OBJECT_KEY = "na-eu.pmtiles"
 
 const REFUSAL_HEADERS = { "Accept-Ranges": "bytes", "Cache-Control": "no-store" }
 
-export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({ request }: { request: Request }): Promise<Response> {
   const store = seaweedFSObjectStoreFromEnv()
   if (!store) return new Response("basemap object store unavailable", { status: 503 })
 
