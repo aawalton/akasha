@@ -288,3 +288,34 @@ test("a property two page types equally near declare is taken from the last one 
     ["manifest", "second.json"],
   ])
 })
+
+const GROUPED = [
+  { id: "1", pageTypeSlug: "file-property", slug: "code", propertySlug: "code" },
+  { id: "2", pageTypeSlug: "file-property", slug: "test", propertySlug: "test" },
+  { id: "3", pageTypeSlug: "page-type", slug: "file-property-group", properties: [] },
+  {
+    id: "4",
+    pageTypeSlug: "page-type",
+    slug: "module-property-group",
+    extends: ["page-type/file-property-group"],
+    properties: [{ pageProperty: "file-property/code" }, { pageProperty: "file-property/test" }],
+  },
+  { id: "5", pageTypeSlug: "module-property-group", slug: "audit", propertySlug: "audit" },
+  {
+    id: "6",
+    pageTypeSlug: "page-type",
+    slug: "code-check",
+    properties: [{ pageProperty: "module-property-group/audit" }],
+  },
+]
+
+test("a page type declaring a file property group holds every member of that group in a file", () => {
+  expect([...(filePropertiesIn(GROUPED).get("code-check") ?? [])]).toEqual([
+    ["audit.code", null],
+    ["audit.test", null],
+  ])
+})
+
+test("a page type that is a file property group holds nothing of its own in a file", () => {
+  expect([...(filePropertiesIn(GROUPED).get("module-property-group") ?? [])]).toEqual([])
+})

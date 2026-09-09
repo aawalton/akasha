@@ -73,5 +73,18 @@ export const indexEntries = {
       statement:
         "The first line a property is filed under answers for it, as the schema index reads.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A declaration naming a file property group holds every member of that group in a file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A member is filed under the group's slug and then the member's slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type that is a file property group holds nothing of its own in a file.",
+    },
   ],
 } as const satisfies Module

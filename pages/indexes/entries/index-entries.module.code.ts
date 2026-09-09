@@ -52,7 +52,13 @@ export const FILE_PROPERTY = "file-property"
 
 export const ENTRY_PROPERTY = "page-property-entry"
 
-type Beside = (pageTypeSlug: string | null) => boolean
+export const FILE_PROPERTY_GROUP = "file-property-group"
+
+const BESIDE = [FILE_PROPERTY, ENTRY_PROPERTY]
+
+const GROUP = [FILE_PROPERTY_GROUP]
+
+type Reaching = (pageTypeSlug: string | null) => boolean
 
 function aboveIn(types: ReadonlyMap<string, Value>): ReadonlyMap<string, readonly string[]> {
   const found = new Map<string, readonly string[]>()
@@ -63,10 +69,13 @@ function aboveIn(types: ReadonlyMap<string, Value>): ReadonlyMap<string, readonl
   return found
 }
 
-function besidesIn(above: ReadonlyMap<string, readonly string[]>): Beside {
+function reachingIn(
+  above: ReadonlyMap<string, readonly string[]>,
+  top: readonly string[]
+): Reaching {
   const held = new Map<string, boolean>()
   const reaches = (slug: string, walked: Set<string>): boolean => {
-    if (slug === FILE_PROPERTY || slug === ENTRY_PROPERTY) return true
+    if (top.includes(slug)) return true
     if (walked.has(slug)) return false
     walked.add(slug)
     return (above.get(slug) ?? []).some((one) => reaches(one, walked))
@@ -79,6 +88,10 @@ function besidesIn(above: ReadonlyMap<string, readonly string[]>): Beside {
     held.set(pageTypeSlug, said)
     return said
   }
+}
+
+function besidesIn(above: ReadonlyMap<string, readonly string[]>): Reaching {
+  return reachingIn(above, BESIDE)
 }
 
 function typesIn(given: string | Reading): ReadonlyMap<string, Value> {
@@ -187,6 +200,40 @@ type Carrying = {
   readonly foldered: FoldersBy
 }
 
+type Stated = {
+  readonly hit: Held
+  readonly withheld: boolean
+}
+
+function statedIn(
+  slug: string,
+  types: ReadonlyMap<string, Value>,
+  properties: ReadonlyMap<string, Held>,
+  bare: ReadonlyMap<string, Held | null>,
+  above: ReadonlyMap<string, readonly string[]>
+): readonly Stated[] {
+  const found: Stated[] = []
+  const walked = new Set<string>()
+  const waiting: string[] = [slug]
+  for (let at = 0; at < waiting.length; at += 1) {
+    const here = waiting[at]
+    if (here === undefined || walked.has(here)) continue
+    walked.add(here)
+    const declared = types.get(here)?.[DECLARED]
+    for (const one of Array.isArray(declared) ? declared : []) {
+      if (one === null || typeof one !== "object" || Array.isArray(one)) continue
+      const stated = one as Record<string, unknown>
+      const said = stated[DECLARES] ?? stated[WAS_DECLARES]
+      if (typeof said !== "string") continue
+      const hit = (said.includes("/") ? properties.get(said) : bare.get(said)) ?? null
+      if (hit === null) continue
+      found.push({ hit, withheld: stated[WITHHELD] === true })
+    }
+    for (const up of [...(above.get(here) ?? [])].reverse()) waiting.push(up)
+  }
+  return found
+}
+
 function carriedBy(
   properties: ReadonlyMap<string, Held>,
   types: ReadonlyMap<string, Value>
@@ -194,36 +241,45 @@ function carriedBy(
   const bare = bareAmong(properties)
   const above = aboveIn(types)
   const beside = besidesIn(above)
+  const grouped = reachingIn(above, GROUP)
   const filed = new Map<string, ReadonlyMap<string, string | null>>()
   const withheld = new Map<string, ReadonlySet<string>>()
   const foldered = new Map<string, ReadonlyMap<string, string>>()
+  const membered = new Map<string, ReadonlyMap<string, string | null>>()
+  const membersOf = (named: string): ReadonlyMap<string, string | null> => {
+    const done = membered.get(named)
+    if (done !== undefined) return done
+    const made = new Map<string, string | null>()
+    membered.set(named, made)
+    for (const { hit } of statedIn(named, types, properties, bare, above)) {
+      if (hit.fileName === null && !beside(hit.pageTypeSlug)) continue
+      if (made.has(hit.propertySlug)) continue
+      made.set(hit.propertySlug, hit.fileName)
+    }
+    return made
+  }
   for (const slug of types.keys()) {
     const held = new Map<string, string | null>()
     const outside = new Set<string>()
     const folders = new Map<string, string>()
-    const walked = new Set<string>()
-    const waiting: string[] = [slug]
-    for (let at = 0; at < waiting.length; at += 1) {
-      const here = waiting[at]
-      if (here === undefined || walked.has(here)) continue
-      walked.add(here)
-      const declared = types.get(here)?.[DECLARED]
-      for (const one of Array.isArray(declared) ? declared : []) {
-        if (one === null || typeof one !== "object" || Array.isArray(one)) continue
-        const stated = one as Record<string, unknown>
-        const said = stated[DECLARES] ?? stated[WAS_DECLARES]
-        if (typeof said !== "string") continue
-        const hit = (said.includes("/") ? properties.get(said) : bare.get(said)) ?? null
-        if (hit === null) continue
-        if (hit.folderName !== null && !folders.has(hit.propertySlug)) {
-          folders.set(hit.propertySlug, hit.folderName)
-        }
-        if (hit.fileName === null && !beside(hit.pageTypeSlug)) continue
-        if (held.has(hit.propertySlug)) continue
-        held.set(hit.propertySlug, hit.fileName)
-        if (stated[WITHHELD] === true) outside.add(hit.propertySlug)
+    for (const one of grouped(slug) ? [] : statedIn(slug, types, properties, bare, above)) {
+      const hit = one.hit
+      if (hit.folderName !== null && !folders.has(hit.propertySlug)) {
+        folders.set(hit.propertySlug, hit.folderName)
       }
-      for (const up of [...(above.get(here) ?? [])].reverse()) waiting.push(up)
+      if (grouped(hit.pageTypeSlug)) {
+        for (const [member, fileName] of membersOf(hit.pageTypeSlug)) {
+          const key = `${hit.propertySlug}.${member}`
+          if (held.has(key)) continue
+          held.set(key, fileName)
+          if (one.withheld) outside.add(key)
+        }
+        continue
+      }
+      if (hit.fileName === null && !beside(hit.pageTypeSlug)) continue
+      if (held.has(hit.propertySlug)) continue
+      held.set(hit.propertySlug, hit.fileName)
+      if (one.withheld) outside.add(hit.propertySlug)
     }
     filed.set(slug, held)
     withheld.set(slug, outside)
