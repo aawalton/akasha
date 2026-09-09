@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0673Chapter672GettingComfortab
   story: "mythrans-master-of-all-continued-completed",
   position: 673,
   ownLength: 2966,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/282493/chapter-672-getting-comfortable",

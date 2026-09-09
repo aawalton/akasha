@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0718Chapter717AGiantSizedFanta
   story: "mythrans-master-of-all-continued-completed",
   position: 718,
   ownLength: 3502,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-01",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294886/chapter-717-a-giant-sized-fantasy",

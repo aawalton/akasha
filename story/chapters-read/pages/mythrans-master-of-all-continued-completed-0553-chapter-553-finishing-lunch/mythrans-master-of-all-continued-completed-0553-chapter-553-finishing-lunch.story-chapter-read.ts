@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0553Chapter553FinishingLunch =
   story: "mythrans-master-of-all-continued-completed",
   position: 553,
   ownLength: 2547,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/207426/chapter-553-finishing-lunch",

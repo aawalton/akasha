@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0526Chapter526UnderSiege = {
   story: "mythrans-master-of-all-continued-completed",
   position: 526,
   ownLength: 3228,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-03-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/198878/chapter-526-under-siege",

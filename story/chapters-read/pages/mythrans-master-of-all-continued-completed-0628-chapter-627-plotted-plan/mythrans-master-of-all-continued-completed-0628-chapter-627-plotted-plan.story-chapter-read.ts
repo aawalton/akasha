@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0628Chapter627PlottedPlan = {
   story: "mythrans-master-of-all-continued-completed",
   position: 628,
   ownLength: 2677,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/230198/chapter-627-plotted-plan",

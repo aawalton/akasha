@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0530Chapter530FixingTheWall = 
   story: "mythrans-master-of-all-continued-completed",
   position: 530,
   ownLength: 2360,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-03-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199691/chapter-530-fixing-the-wall",

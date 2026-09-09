@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0586Chapter586ExchangingStorie
   story: "mythrans-master-of-all-continued-completed",
   position: 586,
   ownLength: 2879,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215546/chapter-586-exchanging-stories",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0540Chapter540WhatSheWanted = 
   story: "mythrans-master-of-all-continued-completed",
   position: 540,
   ownLength: 3061,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-03-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204313/chapter-540-what-she-wanted",

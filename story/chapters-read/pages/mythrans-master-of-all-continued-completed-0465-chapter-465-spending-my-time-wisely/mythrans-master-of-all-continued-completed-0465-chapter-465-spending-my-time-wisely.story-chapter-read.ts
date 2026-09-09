@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0465Chapter465SpendingMyTimeWi
   story: "mythrans-master-of-all-continued-completed",
   position: 465,
   ownLength: 3288,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183031/chapter-465-spending-my-time-wisely",

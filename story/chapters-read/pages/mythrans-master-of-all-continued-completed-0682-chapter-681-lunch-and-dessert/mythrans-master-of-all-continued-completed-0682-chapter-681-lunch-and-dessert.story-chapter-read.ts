@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0682Chapter681LunchAndDessert 
   story: "mythrans-master-of-all-continued-completed",
   position: 682,
   ownLength: 3451,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285140/chapter-681-lunch-and-dessert",

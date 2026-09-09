@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0551Chapter551RescueMe = {
   story: "mythrans-master-of-all-continued-completed",
   position: 551,
   ownLength: 2467,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206919/chapter-551-rescue-me",

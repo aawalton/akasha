@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0686Chapter685TimeWaitsForNoOn
   story: "mythrans-master-of-all-continued-completed",
   position: 686,
   ownLength: 3234,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/286149/chapter-685-time-waits-for-no-one",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0550Chapter550AReturningGuest 
   story: "mythrans-master-of-all-continued-completed",
   position: 550,
   ownLength: 2680,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206686/chapter-550-a-returning-guest",

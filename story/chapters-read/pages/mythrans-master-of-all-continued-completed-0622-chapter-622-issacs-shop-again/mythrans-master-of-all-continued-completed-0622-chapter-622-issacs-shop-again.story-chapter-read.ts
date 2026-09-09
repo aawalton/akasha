@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0622Chapter622IssacsShopAgain 
   story: "mythrans-master-of-all-continued-completed",
   position: 622,
   ownLength: 2683,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/228567/chapter-622-issacs-shop-again",

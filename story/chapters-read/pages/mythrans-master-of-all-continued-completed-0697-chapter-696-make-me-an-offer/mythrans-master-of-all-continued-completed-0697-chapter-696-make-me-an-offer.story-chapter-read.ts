@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0697Chapter696MakeMeAnOffer = 
   story: "mythrans-master-of-all-continued-completed",
   position: 697,
   ownLength: 3554,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289052/chapter-696-make-me-an-offer",

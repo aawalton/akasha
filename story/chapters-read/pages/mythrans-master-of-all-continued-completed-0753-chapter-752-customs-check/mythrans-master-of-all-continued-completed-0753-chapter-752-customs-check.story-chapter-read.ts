@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0753Chapter752CustomsCheck = {
   story: "mythrans-master-of-all-continued-completed",
   position: 753,
   ownLength: 3606,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/303970/chapter-752-customs-check",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0632Chapter631WakeUpCall = {
   story: "mythrans-master-of-all-continued-completed",
   position: 632,
   ownLength: 2844,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/231671/chapter-631-wake-up-call",

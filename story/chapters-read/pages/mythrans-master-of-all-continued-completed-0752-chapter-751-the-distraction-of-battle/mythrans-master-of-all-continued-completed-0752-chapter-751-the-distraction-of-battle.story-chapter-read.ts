@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0752Chapter751TheDistractionOf
   story: "mythrans-master-of-all-continued-completed",
   position: 752,
   ownLength: 3013,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/303680/chapter-751-the-distraction-of-battle",

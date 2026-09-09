@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0701Chapter700ThatsGoodNews = 
   story: "mythrans-master-of-all-continued-completed",
   position: 701,
   ownLength: 3991,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/290196/chapter-700-thats-good-news",

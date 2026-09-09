@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0695Chapter694GardenPartyWindi
   story: "mythrans-master-of-all-continued-completed",
   position: 695,
   ownLength: 2967,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/288573/chapter-694-garden-party-winding-down",

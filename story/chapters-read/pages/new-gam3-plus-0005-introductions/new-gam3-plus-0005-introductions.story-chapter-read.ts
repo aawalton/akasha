@@ -8,7 +8,7 @@ export const newGam3Plus0005Introductions = {
   story: "new-gam3-plus",
   position: 5,
   ownLength: 3378,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/958343/introductions",

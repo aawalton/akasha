@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0764Chapter763TowerTime = {
   story: "mythrans-master-of-all-continued-completed",
   position: 764,
   ownLength: 3268,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/307241/chapter-763-tower-time",

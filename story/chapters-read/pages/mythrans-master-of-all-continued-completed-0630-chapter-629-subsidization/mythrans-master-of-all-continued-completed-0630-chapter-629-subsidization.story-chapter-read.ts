@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0630Chapter629Subsidization = 
   story: "mythrans-master-of-all-continued-completed",
   position: 630,
   ownLength: 2732,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/230915/chapter-629-subsidization",

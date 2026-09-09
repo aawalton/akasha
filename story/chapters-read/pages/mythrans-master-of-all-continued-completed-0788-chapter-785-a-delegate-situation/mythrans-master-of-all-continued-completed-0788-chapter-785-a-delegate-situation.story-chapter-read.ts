@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0788Chapter785ADelegateSituati
   story: "mythrans-master-of-all-continued-completed",
   position: 788,
   ownLength: 2942,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-12-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312672/chapter-785-a-delegate-situation",

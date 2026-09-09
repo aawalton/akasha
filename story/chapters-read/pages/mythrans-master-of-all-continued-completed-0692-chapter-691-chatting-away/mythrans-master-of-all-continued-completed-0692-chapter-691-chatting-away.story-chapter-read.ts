@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0692Chapter691ChattingAway = {
   story: "mythrans-master-of-all-continued-completed",
   position: 692,
   ownLength: 3429,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/287681/chapter-691-chatting-away",

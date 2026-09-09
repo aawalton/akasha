@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0719Chapter718TheLastOne = {
   story: "mythrans-master-of-all-continued-completed",
   position: 719,
   ownLength: 2618,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-02",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295149/chapter-718-the-last-one",

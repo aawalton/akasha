@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0696Chapter695AfterPartyPoolTi
   story: "mythrans-master-of-all-continued-completed",
   position: 696,
   ownLength: 3004,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/288804/chapter-695-after-party-pool-time",

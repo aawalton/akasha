@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0463Chapter463AllInADaysWork =
   story: "mythrans-master-of-all-continued-completed",
   position: 463,
   ownLength: 3247,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/182556/chapter-463-all-in-a-days-work",

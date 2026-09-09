@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0606Chapter606EndingTheDay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 606,
   ownLength: 2801,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/223621/chapter-606-ending-the-day",

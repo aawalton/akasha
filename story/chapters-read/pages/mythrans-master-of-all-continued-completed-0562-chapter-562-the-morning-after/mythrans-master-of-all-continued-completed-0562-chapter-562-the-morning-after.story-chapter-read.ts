@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0562Chapter562TheMorningAfter 
   story: "mythrans-master-of-all-continued-completed",
   position: 562,
   ownLength: 2520,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/209508/chapter-562-the-morning-after",

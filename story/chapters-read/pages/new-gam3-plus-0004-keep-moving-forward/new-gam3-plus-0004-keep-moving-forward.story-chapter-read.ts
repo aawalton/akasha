@@ -8,7 +8,7 @@ export const newGam3Plus0004KeepMovingForward = {
   story: "new-gam3-plus",
   position: 4,
   ownLength: 2486,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/870523/keep-moving-forward",

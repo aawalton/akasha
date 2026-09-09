@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0569Chapter569WantsAndNeeds = 
   story: "mythrans-master-of-all-continued-completed",
   position: 569,
   ownLength: 2530,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211400/chapter-569-wants-and-needs",

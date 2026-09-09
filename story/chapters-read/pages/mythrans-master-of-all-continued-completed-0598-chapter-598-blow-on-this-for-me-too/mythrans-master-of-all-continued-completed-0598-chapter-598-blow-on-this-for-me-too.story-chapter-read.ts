@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0598Chapter598BlowOnThisForMeT
   story: "mythrans-master-of-all-continued-completed",
   position: 598,
   ownLength: 2413,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/218773/chapter-598-blow-on-this-for-me-too",

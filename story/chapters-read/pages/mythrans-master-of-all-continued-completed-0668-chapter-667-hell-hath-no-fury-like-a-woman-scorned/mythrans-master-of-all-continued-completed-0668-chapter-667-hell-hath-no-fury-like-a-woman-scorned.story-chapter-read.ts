@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0668Chapter667HellHathNoFuryLi
   story: "mythrans-master-of-all-continued-completed",
   position: 668,
   ownLength: 3281,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/243243/chapter-667-hell-hath-no-fury-like-a-woman-scorned",

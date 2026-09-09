@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0549Chapter549MoreMeetings = {
   story: "mythrans-master-of-all-continued-completed",
   position: 549,
   ownLength: 2612,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/206432/chapter-549-more-meetings",

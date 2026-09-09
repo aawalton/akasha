@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0670Chapter669GoingSeparateWay
   story: "mythrans-master-of-all-continued-completed",
   position: 670,
   ownLength: 3077,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/243874/chapter-669-going-separate-ways",

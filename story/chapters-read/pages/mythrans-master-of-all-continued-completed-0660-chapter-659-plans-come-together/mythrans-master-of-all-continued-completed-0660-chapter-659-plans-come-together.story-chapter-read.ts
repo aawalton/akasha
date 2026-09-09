@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0660Chapter659PlansComeTogethe
   story: "mythrans-master-of-all-continued-completed",
   position: 660,
   ownLength: 3199,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/241015/chapter-659-plans-come-together",

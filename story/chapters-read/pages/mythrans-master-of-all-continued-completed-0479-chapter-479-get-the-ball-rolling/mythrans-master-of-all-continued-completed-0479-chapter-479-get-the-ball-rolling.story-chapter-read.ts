@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0479Chapter479GetTheBallRollin
   story: "mythrans-master-of-all-continued-completed",
   position: 479,
   ownLength: 3116,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185975/chapter-479-get-the-ball-rolling",

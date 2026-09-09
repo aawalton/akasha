@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0714Chapter713ConflictOfIntere
   story: "mythrans-master-of-all-continued-completed",
   position: 714,
   ownLength: 2559,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293944/chapter-713-conflict-of-interest",

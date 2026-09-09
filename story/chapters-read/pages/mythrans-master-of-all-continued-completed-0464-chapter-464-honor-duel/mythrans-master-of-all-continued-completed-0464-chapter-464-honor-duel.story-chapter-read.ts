@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0464Chapter464HonorDuel = {
   story: "mythrans-master-of-all-continued-completed",
   position: 464,
   ownLength: 3223,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/182786/chapter-464-honor-duel",

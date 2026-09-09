@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0574Chapter574IfYouAskedMeTo =
   story: "mythrans-master-of-all-continued-completed",
   position: 574,
   ownLength: 2622,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-02",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212722/chapter-574-if-you-asked-me-to",

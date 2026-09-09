@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0587Chapter587ToEachTheirOwn =
   story: "mythrans-master-of-all-continued-completed",
   position: 587,
   ownLength: 2735,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215884/chapter-587-to-each-their-own",

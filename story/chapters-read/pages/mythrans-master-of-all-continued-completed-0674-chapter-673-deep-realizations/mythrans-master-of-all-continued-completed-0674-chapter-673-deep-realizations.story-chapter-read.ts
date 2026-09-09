@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0674Chapter673DeepRealizations
   story: "mythrans-master-of-all-continued-completed",
   position: 674,
   ownLength: 2962,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/282764/chapter-673-deep-realizations",

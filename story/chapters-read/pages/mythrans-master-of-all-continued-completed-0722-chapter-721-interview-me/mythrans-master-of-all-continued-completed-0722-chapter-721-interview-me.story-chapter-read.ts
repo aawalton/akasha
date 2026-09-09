@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0722Chapter721InterviewMe = {
   story: "mythrans-master-of-all-continued-completed",
   position: 722,
   ownLength: 3122,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295913/chapter-721-interview-me",

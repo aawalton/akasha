@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0776Chapter773AQuickMorning = 
   story: "mythrans-master-of-all-continued-completed",
   position: 776,
   ownLength: 3173,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-25",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309570/chapter-773-a-quick-morning",

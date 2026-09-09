@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0755Chapter754ThatLooksTasty =
   story: "mythrans-master-of-all-continued-completed",
   position: 755,
   ownLength: 2900,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/304595/chapter-754-that-looks-tasty",

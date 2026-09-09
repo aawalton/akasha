@@ -8,7 +8,7 @@ export const newGam3Plus0001StartReEnterTheGame = {
   story: "new-gam3-plus",
   position: 1,
   ownLength: 1806,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/726594/start-re-enter-the-game",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0603Chapter603MeetingWithThePr
   story: "mythrans-master-of-all-continued-completed",
   position: 603,
   ownLength: 2851,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/222746/chapter-603-meeting-with-the-princess",

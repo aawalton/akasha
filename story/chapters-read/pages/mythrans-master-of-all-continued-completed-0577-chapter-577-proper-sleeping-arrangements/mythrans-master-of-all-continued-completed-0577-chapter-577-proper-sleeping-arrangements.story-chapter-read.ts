@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0577Chapter577ProperSleepingAr
   story: "mythrans-master-of-all-continued-completed",
   position: 577,
   ownLength: 2540,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/213420/chapter-577-proper-sleeping-arrangements",

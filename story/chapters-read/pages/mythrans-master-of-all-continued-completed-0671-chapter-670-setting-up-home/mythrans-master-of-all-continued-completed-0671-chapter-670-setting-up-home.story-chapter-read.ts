@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0671Chapter670SettingUpHome = 
   story: "mythrans-master-of-all-continued-completed",
   position: 671,
   ownLength: 2705,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/244248/chapter-670-setting-up-home",

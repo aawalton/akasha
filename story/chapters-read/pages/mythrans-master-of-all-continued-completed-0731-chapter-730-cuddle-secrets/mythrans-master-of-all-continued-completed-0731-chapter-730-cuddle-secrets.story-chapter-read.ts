@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0731Chapter730CuddleSecrets = 
   story: "mythrans-master-of-all-continued-completed",
   position: 731,
   ownLength: 2923,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298124/chapter-730-cuddle-secrets",

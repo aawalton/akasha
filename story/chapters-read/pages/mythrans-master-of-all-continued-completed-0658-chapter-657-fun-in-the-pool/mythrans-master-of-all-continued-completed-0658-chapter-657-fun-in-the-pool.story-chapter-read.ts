@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0658Chapter657FunInThePool = {
   story: "mythrans-master-of-all-continued-completed",
   position: 658,
   ownLength: 2777,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/240418/chapter-657-fun-in-the-pool",

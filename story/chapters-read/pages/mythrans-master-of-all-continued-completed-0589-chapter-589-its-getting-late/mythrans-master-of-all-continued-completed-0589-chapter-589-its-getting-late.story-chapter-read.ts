@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0589Chapter589ItsGettingLate =
   story: "mythrans-master-of-all-continued-completed",
   position: 589,
   ownLength: 3135,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/216452/chapter-589-its-getting-late",

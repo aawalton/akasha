@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0790Chapter787DelegateSensibil
   story: "mythrans-master-of-all-continued-completed",
   position: 790,
   ownLength: 3077,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-12-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312912/chapter-787-delegate-sensibilities",

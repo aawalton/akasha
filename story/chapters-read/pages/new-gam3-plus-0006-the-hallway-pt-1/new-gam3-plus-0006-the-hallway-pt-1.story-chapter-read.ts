@@ -8,7 +8,7 @@ export const newGam3Plus0006TheHallwayPt1 = {
   story: "new-gam3-plus",
   position: 6,
   ownLength: 2421,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1023637/the-hallway-pt-1",

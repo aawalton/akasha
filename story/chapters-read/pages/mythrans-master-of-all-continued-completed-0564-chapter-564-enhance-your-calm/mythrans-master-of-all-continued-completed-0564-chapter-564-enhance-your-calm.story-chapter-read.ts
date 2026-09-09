@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0564Chapter564EnhanceYourCalm 
   story: "mythrans-master-of-all-continued-completed",
   position: 564,
   ownLength: 2747,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/210049/chapter-564-enhance-your-calm",

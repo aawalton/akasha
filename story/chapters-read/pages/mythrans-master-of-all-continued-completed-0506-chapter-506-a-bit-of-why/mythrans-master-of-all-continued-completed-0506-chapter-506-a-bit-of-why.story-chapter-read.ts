@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0506Chapter506ABitOfWhy = {
   story: "mythrans-master-of-all-continued-completed",
   position: 506,
   ownLength: 3123,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/193192/chapter-506-a-bit-of-why",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0667Chapter666IsThisTheSecretC
   story: "mythrans-master-of-all-continued-completed",
   position: 667,
   ownLength: 5524,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242957/chapter-666-is-this-the-secret-cow-level",

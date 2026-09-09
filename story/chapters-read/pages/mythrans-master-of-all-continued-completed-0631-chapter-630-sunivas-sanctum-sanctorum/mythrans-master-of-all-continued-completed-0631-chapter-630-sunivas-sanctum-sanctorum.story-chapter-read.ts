@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0631Chapter630SunivasSanctumSa
   story: "mythrans-master-of-all-continued-completed",
   position: 631,
   ownLength: 3135,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/231257/chapter-630-sunivas-sanctum-sanctorum",

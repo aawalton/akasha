@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0635Chapter634Bedtime = {
   story: "mythrans-master-of-all-continued-completed",
   position: 635,
   ownLength: 2830,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/232595/chapter-634-bedtime",

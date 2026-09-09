@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0736Chapter735CodeDuello = {
   story: "mythrans-master-of-all-continued-completed",
   position: 736,
   ownLength: 3950,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-19",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299445/chapter-735-code-duello",

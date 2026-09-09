@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0582Chapter582Spawned = {
   story: "mythrans-master-of-all-continued-completed",
   position: 582,
   ownLength: 2603,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214625/chapter-582-spawned",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0690Chapter689PrepForTheGarden
   story: "mythrans-master-of-all-continued-completed",
   position: 690,
   ownLength: 2852,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/287262/chapter-689-prep-for-the-garden-party",

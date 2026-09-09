@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0478Chapter478Voyeurs = {
   story: "mythrans-master-of-all-continued-completed",
   position: 478,
   ownLength: 3245,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-10",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185746/chapter-478-voyeurs",

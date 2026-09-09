@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0614Chapter614ComingToAHead = 
   story: "mythrans-master-of-all-continued-completed",
   position: 614,
   ownLength: 2726,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226059/chapter-614-coming-to-a-head",

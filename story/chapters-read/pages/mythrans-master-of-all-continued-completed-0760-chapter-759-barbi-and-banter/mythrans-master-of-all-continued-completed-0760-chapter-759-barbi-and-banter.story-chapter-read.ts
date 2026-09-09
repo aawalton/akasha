@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0760Chapter759BarbiAndBanter =
   story: "mythrans-master-of-all-continued-completed",
   position: 760,
   ownLength: 2955,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/306132/chapter-759-barbi-and-banter",

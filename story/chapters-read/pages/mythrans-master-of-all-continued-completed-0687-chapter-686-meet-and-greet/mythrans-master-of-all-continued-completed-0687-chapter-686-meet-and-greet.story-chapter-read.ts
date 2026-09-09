@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0687Chapter686MeetAndGreet = {
   story: "mythrans-master-of-all-continued-completed",
   position: 687,
   ownLength: 2982,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-31",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/286424/chapter-686-meet-and-greet",

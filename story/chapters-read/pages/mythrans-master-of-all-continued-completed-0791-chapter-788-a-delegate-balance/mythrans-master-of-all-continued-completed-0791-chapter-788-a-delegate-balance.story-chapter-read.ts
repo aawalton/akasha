@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0791Chapter788ADelegateBalance
   story: "mythrans-master-of-all-continued-completed",
   position: 791,
   ownLength: 3657,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-12-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312918/chapter-788-a-delegate-balance",

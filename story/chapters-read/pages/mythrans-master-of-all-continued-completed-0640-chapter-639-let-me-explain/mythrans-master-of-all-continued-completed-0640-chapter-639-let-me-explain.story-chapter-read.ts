@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0640Chapter639LetMeExplain = {
   story: "mythrans-master-of-all-continued-completed",
   position: 640,
   ownLength: 2773,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234259/chapter-639-let-me-explain",

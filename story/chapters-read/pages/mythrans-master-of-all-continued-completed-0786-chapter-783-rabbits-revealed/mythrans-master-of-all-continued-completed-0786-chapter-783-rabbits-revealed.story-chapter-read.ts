@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0786Chapter783RabbitsRevealed 
   story: "mythrans-master-of-all-continued-completed",
   position: 786,
   ownLength: 3187,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-12-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312192/chapter-783-rabbits-revealed",

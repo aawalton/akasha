@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0466Chapter466NoOneTalksAboutF
   story: "mythrans-master-of-all-continued-completed",
   position: 466,
   ownLength: 3195,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183269/chapter-466-no-one-talks-about-fight-club",

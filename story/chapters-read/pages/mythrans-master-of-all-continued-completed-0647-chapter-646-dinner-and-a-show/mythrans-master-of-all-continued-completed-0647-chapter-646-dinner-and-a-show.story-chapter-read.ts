@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0647Chapter646DinnerAndAShow =
   story: "mythrans-master-of-all-continued-completed",
   position: 647,
   ownLength: 3222,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236687/chapter-646-dinner-and-a-show",

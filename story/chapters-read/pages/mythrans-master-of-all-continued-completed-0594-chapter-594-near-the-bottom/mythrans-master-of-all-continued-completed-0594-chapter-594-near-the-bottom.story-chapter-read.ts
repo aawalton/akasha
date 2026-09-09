@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0594Chapter594NearTheBottom = 
   story: "mythrans-master-of-all-continued-completed",
   position: 594,
   ownLength: 2487,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/217739/chapter-594-near-the-bottom",

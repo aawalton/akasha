@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0704Chapter703MakingImportantC
   story: "mythrans-master-of-all-continued-completed",
   position: 704,
   ownLength: 3190,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/291109/chapter-703-making-important-connections",

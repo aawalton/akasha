@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0741Chapter740LastMinuteVisit 
   story: "mythrans-master-of-all-continued-completed",
   position: 741,
   ownLength: 3378,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300619/chapter-740-last-minute-visit",

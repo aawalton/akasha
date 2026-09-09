@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0639Chapter638DarkPlans = {
   story: "mythrans-master-of-all-continued-completed",
   position: 639,
   ownLength: 2642,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/233910/chapter-638-dark-plans",

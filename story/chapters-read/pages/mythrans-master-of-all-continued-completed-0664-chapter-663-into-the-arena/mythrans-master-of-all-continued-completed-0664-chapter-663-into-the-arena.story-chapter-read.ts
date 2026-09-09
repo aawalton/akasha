@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0664Chapter663IntoTheArena = {
   story: "mythrans-master-of-all-continued-completed",
   position: 664,
   ownLength: 3125,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242094/chapter-663-into-the-arena",

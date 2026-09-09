@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0637Chapter636FireDancingAroun
   story: "mythrans-master-of-all-continued-completed",
   position: 637,
   ownLength: 2624,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/233245/chapter-636-fire-dancing-around-the-subject",

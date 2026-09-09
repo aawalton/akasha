@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0685Chapter684StokeTheFire = {
   story: "mythrans-master-of-all-continued-completed",
   position: 685,
   ownLength: 2998,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285908/chapter-684-stoke-the-fire",

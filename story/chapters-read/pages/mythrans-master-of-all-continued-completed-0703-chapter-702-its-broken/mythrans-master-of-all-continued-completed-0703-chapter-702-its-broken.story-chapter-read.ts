@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0703Chapter702ItsBroken = {
   story: "mythrans-master-of-all-continued-completed",
   position: 703,
   ownLength: 3433,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/290831/chapter-702-its-broken",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0580Chapter580TheFinalEvent = 
   story: "mythrans-master-of-all-continued-completed",
   position: 580,
   ownLength: 3548,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214110/chapter-580-the-final-event",

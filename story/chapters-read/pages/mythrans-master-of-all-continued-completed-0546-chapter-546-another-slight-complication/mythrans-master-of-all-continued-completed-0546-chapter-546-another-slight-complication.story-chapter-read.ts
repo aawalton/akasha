@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0546Chapter546AnotherSlightCom
   story: "mythrans-master-of-all-continued-completed",
   position: 546,
   ownLength: 2893,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205743/chapter-546-another-slight-complication",

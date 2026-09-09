@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0590Chapter590FightBecauseYour
   story: "mythrans-master-of-all-continued-completed",
   position: 590,
   ownLength: 2680,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/216694/chapter-590-fight-because-youre-right",

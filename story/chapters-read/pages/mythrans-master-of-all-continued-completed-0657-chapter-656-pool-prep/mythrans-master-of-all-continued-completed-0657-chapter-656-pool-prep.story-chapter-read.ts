@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0657Chapter656PoolPrep = {
   story: "mythrans-master-of-all-continued-completed",
   position: 657,
   ownLength: 3030,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-02",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/240081/chapter-656-pool-prep",

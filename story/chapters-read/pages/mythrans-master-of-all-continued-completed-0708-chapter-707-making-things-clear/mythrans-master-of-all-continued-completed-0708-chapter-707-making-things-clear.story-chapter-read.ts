@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0708Chapter707MakingThingsClea
   story: "mythrans-master-of-all-continued-completed",
   position: 708,
   ownLength: 3038,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292401/chapter-707-making-things-clear",

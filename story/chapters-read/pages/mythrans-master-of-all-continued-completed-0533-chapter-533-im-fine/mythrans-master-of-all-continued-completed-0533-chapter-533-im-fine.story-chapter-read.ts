@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0533Chapter533ImFine = {
   story: "mythrans-master-of-all-continued-completed",
   position: 533,
   ownLength: 2841,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-03-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/202755/chapter-533-im-fine",

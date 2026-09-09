@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0539Chapter539DinnerAndADate =
   story: "mythrans-master-of-all-continued-completed",
   position: 539,
   ownLength: 2729,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-03-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/204054/chapter-539-dinner-and-a-date",

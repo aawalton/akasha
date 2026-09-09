@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0730Chapter729PleasureInterlud
   story: "mythrans-master-of-all-continued-completed",
   position: 730,
   ownLength: 2841,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-13",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/297906/chapter-729-pleasure-interlude",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0706Chapter705ItsThatTimeAlrea
   story: "mythrans-master-of-all-continued-completed",
   position: 706,
   ownLength: 3062,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-19",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/291880/chapter-705-its-that-time-already",

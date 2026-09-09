@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0747Chapter746CaravanCleanUp =
   story: "mythrans-master-of-all-continued-completed",
   position: 747,
   ownLength: 2841,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-30",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/302132/chapter-746-caravan-clean-up",

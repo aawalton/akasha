@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0528Chapter528YoureKidding = {
   story: "mythrans-master-of-all-continued-completed",
   position: 528,
   ownLength: 2572,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-03-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/199216/chapter-528-youre-kidding",

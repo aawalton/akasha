@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0774Chapter771ABriefForay = {
   story: "mythrans-master-of-all-continued-completed",
   position: 774,
   ownLength: 2738,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309040/chapter-771-a-brief-foray",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0691Chapter690GardenParty = {
   story: "mythrans-master-of-all-continued-completed",
   position: 691,
   ownLength: 3459,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/287553/chapter-690-garden-party",

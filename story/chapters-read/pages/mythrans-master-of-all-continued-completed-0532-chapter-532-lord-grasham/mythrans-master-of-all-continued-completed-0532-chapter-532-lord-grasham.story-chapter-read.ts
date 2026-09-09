@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0532Chapter532LordGrasham = {
   story: "mythrans-master-of-all-continued-completed",
   position: 532,
   ownLength: 2580,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-03-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/202525/chapter-532-lord-grasham",

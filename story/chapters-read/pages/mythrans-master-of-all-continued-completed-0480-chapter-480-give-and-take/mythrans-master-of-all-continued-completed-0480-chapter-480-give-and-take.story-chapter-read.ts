@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0480Chapter480GiveAndTake = {
   story: "mythrans-master-of-all-continued-completed",
   position: 480,
   ownLength: 3356,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/186177/chapter-480-give-and-take",

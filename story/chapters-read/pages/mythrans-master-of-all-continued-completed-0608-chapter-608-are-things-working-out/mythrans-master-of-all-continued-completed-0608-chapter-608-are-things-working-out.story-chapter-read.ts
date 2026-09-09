@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0608Chapter608AreThingsWorking
   story: "mythrans-master-of-all-continued-completed",
   position: 608,
   ownLength: 2745,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/224214/chapter-608-are-things-working-out",

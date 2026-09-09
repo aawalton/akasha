@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0502Chapter502CleanUpThisMess 
   story: "mythrans-master-of-all-continued-completed",
   position: 502,
   ownLength: 3290,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192285/chapter-502-clean-up-this-mess",

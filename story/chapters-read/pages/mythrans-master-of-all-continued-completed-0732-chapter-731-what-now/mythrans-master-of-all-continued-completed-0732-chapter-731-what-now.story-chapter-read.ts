@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0732Chapter731WhatNow = {
   story: "mythrans-master-of-all-continued-completed",
   position: 732,
   ownLength: 2924,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298433/chapter-731-what-now",

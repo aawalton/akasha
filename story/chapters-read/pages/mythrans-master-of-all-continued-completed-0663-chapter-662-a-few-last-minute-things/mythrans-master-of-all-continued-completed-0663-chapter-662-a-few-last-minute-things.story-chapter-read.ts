@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0663Chapter662AFewLastMinuteTh
   story: "mythrans-master-of-all-continued-completed",
   position: 663,
   ownLength: 3073,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/241746/chapter-662-a-few-last-minute-things",

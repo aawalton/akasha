@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0475Chapter475GiftsGalore = {
   story: "mythrans-master-of-all-continued-completed",
   position: 475,
   ownLength: 3568,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185088/chapter-475-gifts-galore",

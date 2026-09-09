@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0472Chapter472EpisodeFive = {
   story: "mythrans-master-of-all-continued-completed",
   position: 472,
   ownLength: 3280,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184475/chapter-472-episode-five",

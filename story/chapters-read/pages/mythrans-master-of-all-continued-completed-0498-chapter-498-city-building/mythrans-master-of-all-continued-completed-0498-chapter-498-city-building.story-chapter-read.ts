@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0498Chapter498CityBuilding = {
   story: "mythrans-master-of-all-continued-completed",
   position: 498,
   ownLength: 2961,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-01",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/191207/chapter-498-city-building",

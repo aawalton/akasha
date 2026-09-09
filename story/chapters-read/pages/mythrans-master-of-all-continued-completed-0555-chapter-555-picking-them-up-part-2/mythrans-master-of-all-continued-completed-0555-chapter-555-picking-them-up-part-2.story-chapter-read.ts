@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0555Chapter555PickingThemUpPar
   story: "mythrans-master-of-all-continued-completed",
   position: 555,
   ownLength: 2711,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-13",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/207888/chapter-555-picking-them-up-part-2",

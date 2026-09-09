@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0707Chapter706SomeReactions = 
   story: "mythrans-master-of-all-continued-completed",
   position: 707,
   ownLength: 3109,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292179/chapter-706-some-reactions",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0489Chapter489TheLightShines =
   story: "mythrans-master-of-all-continued-completed",
   position: 489,
   ownLength: 3765,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/188917/chapter-489-the-light-shines",

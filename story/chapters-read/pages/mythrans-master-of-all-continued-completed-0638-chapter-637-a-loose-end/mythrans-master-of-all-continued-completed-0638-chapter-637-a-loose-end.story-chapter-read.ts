@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0638Chapter637ALooseEnd = {
   story: "mythrans-master-of-all-continued-completed",
   position: 638,
   ownLength: 2972,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-13",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/233551/chapter-637-a-loose-end",

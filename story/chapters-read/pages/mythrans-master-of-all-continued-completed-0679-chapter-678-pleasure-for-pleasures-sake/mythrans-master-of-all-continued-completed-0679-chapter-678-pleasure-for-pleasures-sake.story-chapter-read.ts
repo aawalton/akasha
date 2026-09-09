@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0679Chapter678PleasureForPleas
   story: "mythrans-master-of-all-continued-completed",
   position: 679,
   ownLength: 3167,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/284310/chapter-678-pleasure-for-pleasures-sake",

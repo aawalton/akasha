@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0520Chapter520NextPlease = {
   story: "mythrans-master-of-all-continued-completed",
   position: 520,
   ownLength: 2716,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196600/chapter-520-next-please",

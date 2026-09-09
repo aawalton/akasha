@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0515Chapter515OneSoulForTheRoa
   story: "mythrans-master-of-all-continued-completed",
   position: 515,
   ownLength: 3078,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195274/chapter-515-one-soul-for-the-road",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0492Chapter492YouUnderstand = 
   story: "mythrans-master-of-all-continued-completed",
   position: 492,
   ownLength: 3272,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/189676/chapter-492-you-understand",

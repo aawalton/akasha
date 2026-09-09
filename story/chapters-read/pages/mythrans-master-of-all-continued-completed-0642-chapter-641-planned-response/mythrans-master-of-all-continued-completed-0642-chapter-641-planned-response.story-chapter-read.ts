@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0642Chapter641PlannedResponse 
   story: "mythrans-master-of-all-continued-completed",
   position: 642,
   ownLength: 2772,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234993/chapter-641-planned-response",

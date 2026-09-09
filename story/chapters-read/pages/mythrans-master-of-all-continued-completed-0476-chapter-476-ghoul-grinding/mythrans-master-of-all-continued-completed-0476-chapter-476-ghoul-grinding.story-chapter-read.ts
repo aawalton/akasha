@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0476Chapter476GhoulGrinding = 
   story: "mythrans-master-of-all-continued-completed",
   position: 476,
   ownLength: 3096,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/185284/chapter-476-ghoul-grinding",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0777Chapter774LonelyHeartsClub
   story: "mythrans-master-of-all-continued-completed",
   position: 777,
   ownLength: 3111,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309862/chapter-774-lonely-hearts-club",

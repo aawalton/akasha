@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0536Chapter536ImHereForYou = {
   story: "mythrans-master-of-all-continued-completed",
   position: 536,
   ownLength: 2874,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-03-25",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/203388/chapter-536-im-here-for-you",

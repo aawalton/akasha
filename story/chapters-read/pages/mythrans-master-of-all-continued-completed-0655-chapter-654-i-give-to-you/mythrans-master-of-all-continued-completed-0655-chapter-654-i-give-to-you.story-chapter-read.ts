@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0655Chapter654IGiveToYou = {
   story: "mythrans-master-of-all-continued-completed",
   position: 655,
   ownLength: 3224,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-31",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/239533/chapter-654-i-give-to-you",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0646Chapter645DinnerPlans = {
   story: "mythrans-master-of-all-continued-completed",
   position: 646,
   ownLength: 2670,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236351/chapter-645-dinner-plans",

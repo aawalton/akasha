@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0659Chapter658CatchAndRelease 
   story: "mythrans-master-of-all-continued-completed",
   position: 659,
   ownLength: 2732,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/240729/chapter-658-catch-and-release",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0768Chapter767Blowback = {
   story: "mythrans-master-of-all-continued-completed",
   position: 768,
   ownLength: 2994,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-19",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/308023/chapter-767-blowback",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0505Chapter505DramaUnleashed =
   story: "mythrans-master-of-all-continued-completed",
   position: 505,
   ownLength: 3082,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/192990/chapter-505-drama-unleashed",

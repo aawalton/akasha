@@ -8,7 +8,7 @@ export const newGam3Plus0002NewFriendsAndOldBeginnings = {
   story: "new-gam3-plus",
   position: 2,
   ownLength: 4778,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/730100/new-friends-and-old-beginnings",

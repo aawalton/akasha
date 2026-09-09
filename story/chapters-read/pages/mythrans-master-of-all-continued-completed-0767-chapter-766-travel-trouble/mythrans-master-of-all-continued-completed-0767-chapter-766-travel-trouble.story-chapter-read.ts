@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0767Chapter766TravelTrouble = 
   story: "mythrans-master-of-all-continued-completed",
   position: 767,
   ownLength: 2823,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-19",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/308017/chapter-766-travel-trouble",

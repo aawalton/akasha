@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0744Chapter743CurrentlyInTheCa
   story: "mythrans-master-of-all-continued-completed",
   position: 744,
   ownLength: 3260,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-27",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/301385/chapter-743-currently-in-the-caravan",

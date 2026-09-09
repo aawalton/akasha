@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0781Chapter778RabbitRigmarole 
   story: "mythrans-master-of-all-continued-completed",
   position: 781,
   ownLength: 3149,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310759/chapter-778-rabbit-rigmarole",

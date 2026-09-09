@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0723Chapter722ThatCantBeRight 
   story: "mythrans-master-of-all-continued-completed",
   position: 723,
   ownLength: 3252,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/296131/chapter-722-that-cant-be-right",

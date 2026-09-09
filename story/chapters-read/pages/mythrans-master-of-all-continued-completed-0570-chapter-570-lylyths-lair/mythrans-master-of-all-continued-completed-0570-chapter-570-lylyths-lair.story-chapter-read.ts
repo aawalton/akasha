@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0570Chapter570LylythsLair = {
   story: "mythrans-master-of-all-continued-completed",
   position: 570,
   ownLength: 3300,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-28",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/211637/chapter-570-lylyths-lair",

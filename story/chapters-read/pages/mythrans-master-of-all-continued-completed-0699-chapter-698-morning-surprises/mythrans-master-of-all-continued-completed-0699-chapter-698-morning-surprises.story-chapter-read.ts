@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0699Chapter698MorningSurprises
   story: "mythrans-master-of-all-continued-completed",
   position: 699,
   ownLength: 2922,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289607/chapter-698-morning-surprises",

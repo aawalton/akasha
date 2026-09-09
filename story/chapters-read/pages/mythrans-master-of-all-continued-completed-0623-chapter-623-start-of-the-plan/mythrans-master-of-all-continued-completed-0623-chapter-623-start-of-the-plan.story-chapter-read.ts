@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0623Chapter623StartOfThePlan =
   story: "mythrans-master-of-all-continued-completed",
   position: 623,
   ownLength: 2861,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-29",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/228901/chapter-623-start-of-the-plan",

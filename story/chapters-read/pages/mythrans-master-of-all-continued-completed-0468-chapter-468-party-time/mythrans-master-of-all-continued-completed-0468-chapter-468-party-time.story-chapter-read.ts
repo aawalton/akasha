@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0468Chapter468PartyTime = {
   story: "mythrans-master-of-all-continued-completed",
   position: 468,
   ownLength: 3322,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-31",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/183632/chapter-468-party-time",

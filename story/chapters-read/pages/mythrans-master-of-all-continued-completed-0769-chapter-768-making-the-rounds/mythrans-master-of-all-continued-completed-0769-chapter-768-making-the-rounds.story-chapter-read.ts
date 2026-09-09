@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0769Chapter768MakingTheRounds 
   story: "mythrans-master-of-all-continued-completed",
   position: 769,
   ownLength: 3404,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/308285/chapter-768-making-the-rounds",

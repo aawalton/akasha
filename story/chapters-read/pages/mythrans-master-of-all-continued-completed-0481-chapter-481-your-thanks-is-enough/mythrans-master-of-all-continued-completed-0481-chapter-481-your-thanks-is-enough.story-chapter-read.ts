@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0481Chapter481YourThanksIsEnou
   story: "mythrans-master-of-all-continued-completed",
   position: 481,
   ownLength: 3778,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-13",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/186409/chapter-481-your-thanks-is-enough",

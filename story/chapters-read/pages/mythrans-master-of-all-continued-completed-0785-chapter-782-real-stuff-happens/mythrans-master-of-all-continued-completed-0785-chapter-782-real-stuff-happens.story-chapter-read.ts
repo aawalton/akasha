@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0785Chapter782RealStuffHappens
   story: "mythrans-master-of-all-continued-completed",
   position: 785,
   ownLength: 3159,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-12-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/311865/chapter-782-real-stuff-happens",

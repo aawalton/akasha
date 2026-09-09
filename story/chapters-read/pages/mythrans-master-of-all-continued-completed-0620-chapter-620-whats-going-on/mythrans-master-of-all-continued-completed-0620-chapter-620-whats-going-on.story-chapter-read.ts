@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0620Chapter620WhatsGoingOn = {
   story: "mythrans-master-of-all-continued-completed",
   position: 620,
   ownLength: 2799,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/227966/chapter-620-whats-going-on",

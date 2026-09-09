@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0518Chapter518OutWeGo = {
   story: "mythrans-master-of-all-continued-completed",
   position: 518,
   ownLength: 2370,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196158/chapter-518-out-we-go",

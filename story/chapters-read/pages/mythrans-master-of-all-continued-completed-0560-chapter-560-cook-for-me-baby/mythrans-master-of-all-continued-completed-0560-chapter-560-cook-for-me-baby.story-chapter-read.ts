@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0560Chapter560CookForMeBaby = 
   story: "mythrans-master-of-all-continued-completed",
   position: 560,
   ownLength: 2594,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/209034/chapter-560-cook-for-me-baby",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0680Chapter679NothingToDoExcep
   story: "mythrans-master-of-all-continued-completed",
   position: 680,
   ownLength: 2849,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/284555/chapter-679-nothing-to-do-except-cuddle",

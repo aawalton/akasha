@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0605Chapter605ToFeedTheHungry 
   story: "mythrans-master-of-all-continued-completed",
   position: 605,
   ownLength: 2763,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/223285/chapter-605-to-feed-the-hungry",

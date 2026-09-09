@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0575Chapter575YouCantEatThat =
   story: "mythrans-master-of-all-continued-completed",
   position: 575,
   ownLength: 2710,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/212934/chapter-575-you-cant-eat-that",

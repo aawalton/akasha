@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0705Chapter704ItsHappening = {
   story: "mythrans-master-of-all-continued-completed",
   position: 705,
   ownLength: 3357,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/291384/chapter-704-its-happening",

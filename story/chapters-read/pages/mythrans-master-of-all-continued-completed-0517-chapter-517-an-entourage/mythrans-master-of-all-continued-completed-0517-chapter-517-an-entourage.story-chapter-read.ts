@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0517Chapter517AnEntourage = {
   story: "mythrans-master-of-all-continued-completed",
   position: 517,
   ownLength: 2023,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195942/chapter-517-an-entourage",

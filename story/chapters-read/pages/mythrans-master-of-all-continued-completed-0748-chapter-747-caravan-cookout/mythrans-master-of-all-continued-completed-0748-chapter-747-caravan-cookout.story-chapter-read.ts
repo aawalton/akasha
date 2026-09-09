@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0748Chapter747CaravanCookout =
   story: "mythrans-master-of-all-continued-completed",
   position: 748,
   ownLength: 3696,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/302385/chapter-747-caravan-cookout",

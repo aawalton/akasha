@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0511Chapter511FeedMeSeeMore = 
   story: "mythrans-master-of-all-continued-completed",
   position: 511,
   ownLength: 3376,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-14",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/194407/chapter-511-feed-me-see-more",

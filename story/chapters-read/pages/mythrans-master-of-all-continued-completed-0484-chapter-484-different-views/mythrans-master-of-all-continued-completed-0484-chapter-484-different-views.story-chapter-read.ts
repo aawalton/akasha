@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0484Chapter484DifferentViews =
   story: "mythrans-master-of-all-continued-completed",
   position: 484,
   ownLength: 3299,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187217/chapter-484-different-views",

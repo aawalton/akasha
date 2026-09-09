@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0710Chapter709TheNewSanctuary 
   story: "mythrans-master-of-all-continued-completed",
   position: 710,
   ownLength: 3506,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292959/chapter-709-the-new-sanctuary",

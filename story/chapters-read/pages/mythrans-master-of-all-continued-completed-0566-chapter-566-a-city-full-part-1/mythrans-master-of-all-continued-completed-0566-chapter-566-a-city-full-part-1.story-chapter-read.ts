@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0566Chapter566ACityFullPart1 =
   story: "mythrans-master-of-all-continued-completed",
   position: 566,
   ownLength: 2994,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/210600/chapter-566-a-city-full-part-1",

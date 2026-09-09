@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0793ChapterSevenNineT790Epilog
   story: "mythrans-master-of-all-continued-completed",
   position: 793,
   ownLength: 409,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-12-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/313307/chapter-seven-nine-t-790-epilogue-real-life",

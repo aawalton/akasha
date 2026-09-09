@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0544Chapter544WattDidYouSay = 
   story: "mythrans-master-of-all-continued-completed",
   position: 544,
   ownLength: 3359,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-02",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/205247/chapter-544-watt-did-you-say",

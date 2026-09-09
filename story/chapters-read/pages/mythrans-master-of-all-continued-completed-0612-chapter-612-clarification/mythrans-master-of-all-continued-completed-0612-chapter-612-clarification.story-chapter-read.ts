@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0612Chapter612Clarification = 
   story: "mythrans-master-of-all-continued-completed",
   position: 612,
   ownLength: 2672,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/225485/chapter-612-clarification",

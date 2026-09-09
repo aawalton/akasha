@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0459Chapter459FullyArmored = {
   story: "mythrans-master-of-all-continued-completed",
   position: 459,
   ownLength: 3267,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181733/chapter-459-fully-armored",

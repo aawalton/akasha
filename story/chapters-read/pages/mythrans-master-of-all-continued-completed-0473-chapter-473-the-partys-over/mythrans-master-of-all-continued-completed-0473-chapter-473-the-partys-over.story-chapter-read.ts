@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0473Chapter473ThePartysOver = 
   story: "mythrans-master-of-all-continued-completed",
   position: 473,
   ownLength: 3810,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-05",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184667/chapter-473-the-partys-over",

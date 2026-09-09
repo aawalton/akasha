@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0749Chapter748ContrivingCarava
   story: "mythrans-master-of-all-continued-completed",
   position: 749,
   ownLength: 2861,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-01",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/302701/chapter-748-contriving-caravan",

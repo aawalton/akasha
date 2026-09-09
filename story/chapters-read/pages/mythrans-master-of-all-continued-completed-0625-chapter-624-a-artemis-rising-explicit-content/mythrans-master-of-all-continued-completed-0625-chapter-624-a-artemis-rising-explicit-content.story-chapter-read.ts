@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0625Chapter624AArtemisRisingEx
   story: "mythrans-master-of-all-continued-completed",
   position: 625,
   ownLength: 2938,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-02",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/229882/chapter-624-a-artemis-rising-explicit-content",

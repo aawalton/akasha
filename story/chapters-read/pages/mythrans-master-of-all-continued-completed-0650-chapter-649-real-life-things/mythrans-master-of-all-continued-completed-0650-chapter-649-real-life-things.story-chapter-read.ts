@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0650Chapter649RealLifeThings =
   story: "mythrans-master-of-all-continued-completed",
   position: 650,
   ownLength: 3270,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-25",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/237600/chapter-649-real-life-things",

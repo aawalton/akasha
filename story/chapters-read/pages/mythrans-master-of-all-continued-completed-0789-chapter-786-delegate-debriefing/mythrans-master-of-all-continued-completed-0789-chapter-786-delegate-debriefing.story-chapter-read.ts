@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0789Chapter786DelegateDebriefi
   story: "mythrans-master-of-all-continued-completed",
   position: 789,
   ownLength: 3665,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-12-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312675/chapter-786-delegate-debriefing",

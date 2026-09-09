@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0514Chapter514IDidntExpectThat
   story: "mythrans-master-of-all-continued-completed",
   position: 514,
   ownLength: 3031,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/195080/chapter-514-i-didnt-expect-that",

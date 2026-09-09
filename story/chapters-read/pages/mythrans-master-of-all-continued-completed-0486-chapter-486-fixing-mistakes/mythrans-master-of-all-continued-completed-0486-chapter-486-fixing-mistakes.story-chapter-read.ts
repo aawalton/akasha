@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0486Chapter486FixingMistakes =
   story: "mythrans-master-of-all-continued-completed",
   position: 486,
   ownLength: 3677,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/187650/chapter-486-fixing-mistakes",

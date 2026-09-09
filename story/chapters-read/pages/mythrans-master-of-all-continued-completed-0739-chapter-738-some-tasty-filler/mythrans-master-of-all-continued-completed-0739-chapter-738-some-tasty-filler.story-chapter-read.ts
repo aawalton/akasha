@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0739Chapter738SomeTastyFiller 
   story: "mythrans-master-of-all-continued-completed",
   position: 739,
   ownLength: 2966,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300110/chapter-738-some-tasty-filler",

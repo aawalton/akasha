@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0613Chapter613DamageControl = 
   story: "mythrans-master-of-all-continued-completed",
   position: 613,
   ownLength: 2668,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-19",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/225744/chapter-613-damage-control",

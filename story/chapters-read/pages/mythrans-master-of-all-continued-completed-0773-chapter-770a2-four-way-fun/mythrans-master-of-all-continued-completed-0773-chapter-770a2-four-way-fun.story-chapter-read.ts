@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0773Chapter770a2FourWayFun = {
   story: "mythrans-master-of-all-continued-completed",
   position: 773,
   ownLength: 3541,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309039/chapter-770a2-four-way-fun",

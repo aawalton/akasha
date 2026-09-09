@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0610Chapter610CouldThisBeIt = 
   story: "mythrans-master-of-all-continued-completed",
   position: 610,
   ownLength: 2744,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/224883/chapter-610-could-this-be-it",

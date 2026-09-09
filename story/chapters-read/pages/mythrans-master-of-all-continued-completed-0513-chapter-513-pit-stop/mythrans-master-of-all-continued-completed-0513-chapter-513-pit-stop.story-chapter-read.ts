@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0513Chapter513PitStop = {
   story: "mythrans-master-of-all-continued-completed",
   position: 513,
   ownLength: 2997,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/194854/chapter-513-pit-stop",

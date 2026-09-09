@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0584Chapter584WinnerWinnerChic
   story: "mythrans-master-of-all-continued-completed",
   position: 584,
   ownLength: 2772,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-12",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/215085/chapter-584-winner-winner-chicken-dinner",

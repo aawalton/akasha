@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0772Chapter770a1FourWayLearnin
   story: "mythrans-master-of-all-continued-completed",
   position: 772,
   ownLength: 3448,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309038/chapter-770a1-four-way-learning",

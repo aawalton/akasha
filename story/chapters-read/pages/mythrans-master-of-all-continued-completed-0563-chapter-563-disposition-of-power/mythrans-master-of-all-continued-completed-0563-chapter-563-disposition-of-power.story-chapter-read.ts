@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0563Chapter563DispositionOfPow
   story: "mythrans-master-of-all-continued-completed",
   position: 563,
   ownLength: 3126,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/209777/chapter-563-disposition-of-power",

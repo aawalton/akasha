@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0578Chapter578APrimeExample = 
   story: "mythrans-master-of-all-continued-completed",
   position: 578,
   ownLength: 2676,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-06",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/213668/chapter-578-a-prime-example",

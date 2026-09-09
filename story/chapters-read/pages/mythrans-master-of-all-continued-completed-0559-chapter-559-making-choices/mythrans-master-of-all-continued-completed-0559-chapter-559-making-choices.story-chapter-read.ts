@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0559Chapter559MakingChoices = 
   story: "mythrans-master-of-all-continued-completed",
   position: 559,
   ownLength: 2442,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-17",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/208818/chapter-559-making-choices",

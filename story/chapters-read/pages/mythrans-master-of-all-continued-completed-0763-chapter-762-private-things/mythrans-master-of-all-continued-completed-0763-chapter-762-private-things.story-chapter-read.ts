@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0763Chapter762PrivateThings = 
   story: "mythrans-master-of-all-continued-completed",
   position: 763,
   ownLength: 2993,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/306941/chapter-762-private-things",

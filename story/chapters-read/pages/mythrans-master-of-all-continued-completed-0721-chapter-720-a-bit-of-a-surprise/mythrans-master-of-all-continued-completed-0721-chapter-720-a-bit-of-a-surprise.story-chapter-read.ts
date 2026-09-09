@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0721Chapter720ABitOfASurprise 
   story: "mythrans-master-of-all-continued-completed",
   position: 721,
   ownLength: 2846,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295625/chapter-720-a-bit-of-a-surprise",

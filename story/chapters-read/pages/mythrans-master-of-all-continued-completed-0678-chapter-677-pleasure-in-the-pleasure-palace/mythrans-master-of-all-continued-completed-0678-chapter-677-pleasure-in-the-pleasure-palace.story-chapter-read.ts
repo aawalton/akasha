@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0678Chapter677PleasureInThePle
   story: "mythrans-master-of-all-continued-completed",
   position: 678,
   ownLength: 2947,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/283973/chapter-677-pleasure-in-the-pleasure-palace",

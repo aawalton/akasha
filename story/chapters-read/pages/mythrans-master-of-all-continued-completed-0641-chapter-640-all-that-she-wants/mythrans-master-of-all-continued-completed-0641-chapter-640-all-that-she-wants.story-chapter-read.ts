@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0641Chapter640AllThatSheWants 
   story: "mythrans-master-of-all-continued-completed",
   position: 641,
   ownLength: 2734,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234599/chapter-640-all-that-she-wants",

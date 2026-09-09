@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0615Chapter615CallingItQuits =
   story: "mythrans-master-of-all-continued-completed",
   position: 615,
   ownLength: 2849,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226368/chapter-615-calling-it-quits",

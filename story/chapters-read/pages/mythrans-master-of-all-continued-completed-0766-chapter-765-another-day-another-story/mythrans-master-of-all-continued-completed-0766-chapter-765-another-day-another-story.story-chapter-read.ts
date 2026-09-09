@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0766Chapter765AnotherDayAnothe
   story: "mythrans-master-of-all-continued-completed",
   position: 766,
   ownLength: 3356,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-18",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/307759/chapter-765-another-day-another-story",

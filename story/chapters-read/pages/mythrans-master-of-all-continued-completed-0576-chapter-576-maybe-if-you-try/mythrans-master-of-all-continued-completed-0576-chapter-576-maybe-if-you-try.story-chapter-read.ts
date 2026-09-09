@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0576Chapter576MaybeIfYouTry = 
   story: "mythrans-master-of-all-continued-completed",
   position: 576,
   ownLength: 2832,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-04",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/213170/chapter-576-maybe-if-you-try",

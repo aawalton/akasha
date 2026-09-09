@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0665Chapter664ArenaFightPart1 
   story: "mythrans-master-of-all-continued-completed",
   position: 665,
   ownLength: 3144,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242407/chapter-664-arena-fight-part-1",

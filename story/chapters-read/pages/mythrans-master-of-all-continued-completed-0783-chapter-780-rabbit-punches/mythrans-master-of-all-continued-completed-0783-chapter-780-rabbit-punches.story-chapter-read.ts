@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0783Chapter780RabbitPunches = 
   story: "mythrans-master-of-all-continued-completed",
   position: 783,
   ownLength: 3177,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-12-01",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/311311/chapter-780-rabbit-punches",

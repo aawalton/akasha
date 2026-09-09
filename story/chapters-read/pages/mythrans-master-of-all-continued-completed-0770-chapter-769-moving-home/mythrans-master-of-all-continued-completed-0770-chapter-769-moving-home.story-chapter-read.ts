@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0770Chapter769MovingHome = {
   story: "mythrans-master-of-all-continued-completed",
   position: 770,
   ownLength: 3216,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-21",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/308525/chapter-769-moving-home",

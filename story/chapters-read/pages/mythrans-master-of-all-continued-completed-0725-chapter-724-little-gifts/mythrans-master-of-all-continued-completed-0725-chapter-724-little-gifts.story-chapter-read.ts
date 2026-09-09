@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0725Chapter724LittleGifts = {
   story: "mythrans-master-of-all-continued-completed",
   position: 725,
   ownLength: 2629,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-10-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/296638/chapter-724-little-gifts",

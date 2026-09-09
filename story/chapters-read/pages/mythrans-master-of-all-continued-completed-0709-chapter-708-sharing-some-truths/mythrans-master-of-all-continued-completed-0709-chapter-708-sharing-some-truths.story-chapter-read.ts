@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0709Chapter708SharingSomeTruth
   story: "mythrans-master-of-all-continued-completed",
   position: 709,
   ownLength: 2928,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-22",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292718/chapter-708-sharing-some-truths",

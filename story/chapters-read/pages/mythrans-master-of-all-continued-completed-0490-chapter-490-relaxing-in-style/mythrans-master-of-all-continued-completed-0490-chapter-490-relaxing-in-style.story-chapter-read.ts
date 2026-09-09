@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0490Chapter490RelaxingInStyle 
   story: "mythrans-master-of-all-continued-completed",
   position: 490,
   ownLength: 3421,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-24",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/189179/chapter-490-relaxing-in-style",

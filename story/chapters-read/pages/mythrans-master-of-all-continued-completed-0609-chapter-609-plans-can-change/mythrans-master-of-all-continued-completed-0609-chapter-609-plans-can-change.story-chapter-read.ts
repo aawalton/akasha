@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0609Chapter609PlansCanChange =
   story: "mythrans-master-of-all-continued-completed",
   position: 609,
   ownLength: 2225,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-15",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/224577/chapter-609-plans-can-change",

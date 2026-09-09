@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0581Chapter581IllTakeCareOfIt 
   story: "mythrans-master-of-all-continued-completed",
   position: 581,
   ownLength: 2857,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/214361/chapter-581-ill-take-care-of-it",

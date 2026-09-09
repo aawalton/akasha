@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0784Chapter781HareCare = {
   story: "mythrans-master-of-all-continued-completed",
   position: 784,
   ownLength: 3148,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-12-02",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/311576/chapter-781--hare-care",

@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0519Chapter519IsThatEnough = {
   story: "mythrans-master-of-all-continued-completed",
   position: 519,
   ownLength: 2912,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-02-23",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/196382/chapter-519-is-that-enough",

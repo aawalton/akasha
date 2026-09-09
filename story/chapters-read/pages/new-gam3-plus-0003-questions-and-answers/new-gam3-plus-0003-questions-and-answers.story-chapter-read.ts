@@ -8,7 +8,7 @@ export const newGam3Plus0003QuestionsAndAnswers = {
   story: "new-gam3-plus",
   position: 3,
   ownLength: 2616,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/741703/questions-and-answers",

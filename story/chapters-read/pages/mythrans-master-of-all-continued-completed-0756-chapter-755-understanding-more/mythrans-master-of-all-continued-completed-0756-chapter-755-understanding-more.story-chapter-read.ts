@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0756Chapter755UnderstandingMor
   story: "mythrans-master-of-all-continued-completed",
   position: 756,
   ownLength: 3029,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-08",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/304908/chapter-755-understanding-more",

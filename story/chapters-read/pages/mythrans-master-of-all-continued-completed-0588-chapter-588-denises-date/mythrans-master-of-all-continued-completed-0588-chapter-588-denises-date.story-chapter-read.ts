@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0588Chapter588DenisesDate = {
   story: "mythrans-master-of-all-continued-completed",
   position: 588,
   ownLength: 2764,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-05-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/216176/chapter-588-denises-date",

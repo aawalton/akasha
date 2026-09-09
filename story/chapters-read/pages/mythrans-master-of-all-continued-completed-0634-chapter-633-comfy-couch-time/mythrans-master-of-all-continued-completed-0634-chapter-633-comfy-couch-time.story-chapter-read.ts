@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0634Chapter633ComfyCouchTime =
   story: "mythrans-master-of-all-continued-completed",
   position: 634,
   ownLength: 2622,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-09",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/232291/chapter-633-comfy-couch-time",

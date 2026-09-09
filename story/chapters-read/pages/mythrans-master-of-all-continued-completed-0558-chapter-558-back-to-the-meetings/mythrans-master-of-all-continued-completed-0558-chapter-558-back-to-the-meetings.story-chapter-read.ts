@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0558Chapter558BackToTheMeeting
   story: "mythrans-master-of-all-continued-completed",
   position: 558,
   ownLength: 2718,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-04-16",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/208600/chapter-558-back-to-the-meetings",

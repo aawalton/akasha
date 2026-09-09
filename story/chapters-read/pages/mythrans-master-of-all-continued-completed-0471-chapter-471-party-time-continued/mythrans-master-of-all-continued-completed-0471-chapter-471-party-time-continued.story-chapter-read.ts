@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0471Chapter471PartyTimeContinu
   story: "mythrans-master-of-all-continued-completed",
   position: 471,
   ownLength: 3234,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-03",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/184259/chapter-471-party-time-continued",

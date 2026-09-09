@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0457Chapter457WhatsInTheBox = 
   story: "mythrans-master-of-all-continued-completed",
   position: 457,
   ownLength: 3201,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-12-20",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/181343/chapter-457-whats-in-the-box",

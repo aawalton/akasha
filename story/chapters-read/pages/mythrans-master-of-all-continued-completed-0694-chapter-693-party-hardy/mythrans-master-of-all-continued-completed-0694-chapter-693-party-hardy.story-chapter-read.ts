@@ -8,7 +8,7 @@ export const mythransMasterOfAllContinuedCompleted0694Chapter693PartyHardy = {
   story: "mythrans-master-of-all-continued-completed",
   position: 694,
   ownLength: 3124,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-09-07",
   externalLink:
     "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/288262/chapter-693-party-hardy",
