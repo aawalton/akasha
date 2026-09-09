@@ -11,5 +11,4 @@ export const day20260609 = {
   healthPoints: 0,
   taskPoints: 0,
   wealthPoints: 1.125,
-  spannedFromDayBoundary: true,
 } as const satisfies Day

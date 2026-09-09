@@ -8,5 +8,4 @@ export const day20260601 = {
   date: "2026-06-01",
   version: "3.0",
   wealthPoints: 5.625,
-  spannedFromDayBoundary: true,
 } as const satisfies Day

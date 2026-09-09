@@ -29,7 +29,6 @@ import type { PersonaMessages } from "./properties/persona-messages.record-prope
 import type { SafetyLevel } from "./properties/safety-level.text-property.ts"
 import type { Sessions } from "./properties/sessions.page-property-entry.ts"
 import type { SleepPoints } from "./properties/sleep-points.number-property.ts"
-import type { SpannedFromDayBoundary } from "./properties/spanned-from-day-boundary.boolean-property.ts"
 import type { StrengthPoints } from "./properties/strength-points.number-property.ts"
 import type { StrengthVolume } from "./properties/strength-volume.computed-property.ts"
 import type { TaskPoints } from "./properties/task-points.number-property.ts"
@@ -63,7 +62,6 @@ export type Day = Page & {
   bodyweight?: Bodyweight
   wisdomWords?: WisdomWords
   intelligenceTopics?: IntelligenceTopics
-  spannedFromDayBoundary?: SpannedFromDayBoundary
   completionSnapshot?: CompletionSnapshot
   wordsReadPoints?: WordsReadPoints
   wordsReadSnapshot?: WordsReadSnapshot
@@ -93,7 +91,6 @@ export const day = {
     "boolean-property/inbox-tasks-cleared-today",
     "boolean-property/inbox-temper-tasks-cleared-today",
     "boolean-property/inbox-texts-cleared-today",
-    "boolean-property/spanned-from-day-boundary",
     "computed-property/activity-calories",
     "computed-property/faith-level",
     "computed-property/faith-stoplight",
@@ -175,11 +172,6 @@ export const day = {
     { pagePropertySlug: "number-property/bodyweight", required: false, many: false },
     { pagePropertySlug: "number-property/wisdom-words", required: false, many: false },
     { pagePropertySlug: "number-property/intelligence-topics", required: false, many: false },
-    {
-      pagePropertySlug: "boolean-property/spanned-from-day-boundary",
-      required: false,
-      many: false,
-    },
     { pagePropertySlug: "number-property/completion-snapshot", required: false, many: false },
     { pagePropertySlug: "number-property/words-read-points", required: false, many: false },
     { pagePropertySlug: "number-property/words-read-snapshot", required: false, many: false },

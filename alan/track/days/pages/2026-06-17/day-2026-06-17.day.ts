@@ -13,6 +13,5 @@ export const day20260617 = {
   wealthPoints: 1.875,
   faithPoints: 0,
   lovePoints: 0.8611,
-  spannedFromDayBoundary: true,
   completedTasks: "jsonl",
 } as const satisfies Day

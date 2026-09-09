@@ -204,7 +204,7 @@ test("a merge keeps every key the caller does not name", () => {
   const content = "puts" in said ? said.puts[0]?.content : ""
   expect(content).toContain('title: "a new title"')
   expect(content).toContain('date: "2026-03-06"')
-  expect(content).toContain("spannedFromDayBoundary: true")
+  expect(content).toContain('completedTasks: "jsonl"')
   expect(content).toContain('slug: "day-2026-03-06"')
   expect(content).toContain('pageTypeSlug: "day"')
   expect(content).toContain("01a060ba-f203-7ab9-b6f4-796574aad5cd")
@@ -343,7 +343,7 @@ test("a write that does not merge keeps only the keys the caller names", () => {
   ])
   const content = "puts" in said ? said.puts[0]?.content : ""
   expect(content).toContain('title: "a new title"')
-  expect(content).not.toContain("spannedFromDayBoundary")
+  expect(content).not.toContain("date:")
   expect(content).not.toContain("completedTasks")
 })
 

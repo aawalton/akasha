@@ -11,7 +11,6 @@ export const day20260902 = {
   sleepPoints: 420,
   nutritionPoints: 0,
   breathingPoints: 0,
-  spannedFromDayBoundary: true,
   inboxTasks: 24,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 22,

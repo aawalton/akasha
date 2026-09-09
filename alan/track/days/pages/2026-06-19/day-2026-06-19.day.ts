@@ -20,7 +20,6 @@ export const day20260619 = {
   nutritionPoints: 200,
   breathingPoints: 0,
   activeCalories: 120,
-  spannedFromDayBoundary: false,
   completionSnapshot: 428282,
   sessions: "jsonl",
   completedTasks: "jsonl",

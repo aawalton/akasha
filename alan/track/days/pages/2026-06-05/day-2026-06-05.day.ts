@@ -9,6 +9,5 @@ export const day20260605 = {
   version: "3.0",
   safetyLevel: "2",
   wealthPoints: 5.25,
-  spannedFromDayBoundary: true,
   completedTasks: "jsonl",
 } as const satisfies Day

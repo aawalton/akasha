@@ -13,5 +13,4 @@ export const day20260613 = {
   wealthPoints: 0.5,
   faithPoints: 0,
   lovePoints: 0.8333,
-  spannedFromDayBoundary: true,
 } as const satisfies Day

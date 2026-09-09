@@ -9,5 +9,4 @@ export const day20260604 = {
   version: "3.0",
   safetyLevel: "2",
   wealthPoints: 4,
-  spannedFromDayBoundary: true,
 } as const satisfies Day

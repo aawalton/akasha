@@ -16,6 +16,5 @@ export const day20260618 = {
   sleepPoints: 0,
   strengthPoints: 0,
   nutritionPoints: 0,
-  spannedFromDayBoundary: true,
   completedTasks: "jsonl",
 } as const satisfies Day

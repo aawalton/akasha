@@ -7,5 +7,4 @@ export const day20260511 = {
   title: "@date:2026-05-11",
   date: "2026-05-11",
   version: "3.0",
-  spannedFromDayBoundary: true,
 } as const satisfies Day
