@@ -1,12 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Person } from "../../../../seat-system/seats/properties/person.relation-property.ts"
-import type { Tracks } from "./tracks/tracks.page-property-entry.ts"
-
-export type HeardMusic = Page & {
-  person: Person
-  tracks: Tracks
-}
 
 export const heardMusic = {
   id: "01a06240-340f-700a-be22-823bb6c905f7",
@@ -31,4 +23,5 @@ export const heardMusic = {
       statement: "A track entered into a heard music page is never taken out.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

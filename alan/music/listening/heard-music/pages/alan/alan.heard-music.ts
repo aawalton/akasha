@@ -1,4 +1,4 @@
-import type { HeardMusic } from "../../heard-music.page-type.ts"
+import type { HeardMusic } from "../../heard-music.page-type.types.ts"
 
 export const alan = {
   id: "01a01d3e-45ba-76ff-9d84-5bef96f9f1b8",
