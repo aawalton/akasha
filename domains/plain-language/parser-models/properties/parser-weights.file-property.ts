@@ -10,6 +10,7 @@ export const parserWeights = {
   definition: "the trained graph saying which word a word hangs off",
   generated: true,
   runsFileLength: false,
+  holdsBytes: true,
   invariants: [
     {
       invariantKind: "departure",
