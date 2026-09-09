@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0013TheRoute = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0013-the-route",
   title: "The Route",
-  partOfCollectionSlugs: ["the-dungeon-of-one-thousand-deaths"],
+  storySlug: "the-dungeon-of-one-thousand-deaths",
   position: 13,
   ownLength: 4119,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const towerOfNimue001TheFirstHour = {
   pageTypeSlug: "story-chapter-written",
   slug: "tower-of-nimue-001-the-first-hour",
   title: "The First Hour",
-  partOfCollectionSlugs: ["tower-of-nimue"],
+  storySlug: "tower-of-nimue",
   position: 1,
   ownLength: 3487,
   unitSlug: "words",

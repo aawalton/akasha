@@ -5,7 +5,7 @@ export const towerAndTheStar0016RelationalGrowthPattern = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0016-relational-growth-pattern",
   title: "Relational Growth Pattern",
-  partOfCollectionSlugs: ["tower-and-the-star"],
+  storySlug: "tower-and-the-star",
   position: 16,
   ownLength: 4252,
   unitSlug: "words",

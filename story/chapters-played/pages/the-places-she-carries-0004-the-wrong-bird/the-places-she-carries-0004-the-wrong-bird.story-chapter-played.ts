@@ -5,7 +5,7 @@ export const thePlacesSheCarries0004TheWrongBird = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0004-the-wrong-bird",
   title: "The Wrong Bird",
-  partOfCollectionSlugs: ["the-places-she-carries"],
+  storySlug: "the-places-she-carries",
   position: 4,
   ownLength: 6126,
   unitSlug: "words",

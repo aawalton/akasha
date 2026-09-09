@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0014TheSurvey = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0014-the-survey",
   title: "The Survey",
-  partOfCollectionSlugs: ["the-dungeon-of-one-thousand-deaths"],
+  storySlug: "the-dungeon-of-one-thousand-deaths",
   position: 14,
   ownLength: 7407,
   unitSlug: "words",

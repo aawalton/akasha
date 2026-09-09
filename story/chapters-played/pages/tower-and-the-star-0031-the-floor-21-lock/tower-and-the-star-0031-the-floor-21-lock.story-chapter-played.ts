@@ -5,7 +5,7 @@ export const towerAndTheStar0031TheFloor21Lock = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0031-the-floor-21-lock",
   title: "The Floor 21 Lock",
-  partOfCollectionSlugs: ["tower-and-the-star"],
+  storySlug: "tower-and-the-star",
   position: 31,
   ownLength: 3026,
   unitSlug: "words",

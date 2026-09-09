@@ -5,7 +5,7 @@ export const theBeholder002Prettier = {
   pageTypeSlug: "story-chapter-written",
   slug: "the-beholder-002-prettier",
   title: "Prettier",
-  partOfCollectionSlugs: ["the-beholder"],
+  storySlug: "the-beholder",
   position: 2,
   ownLength: 2637,
   unitSlug: "words",

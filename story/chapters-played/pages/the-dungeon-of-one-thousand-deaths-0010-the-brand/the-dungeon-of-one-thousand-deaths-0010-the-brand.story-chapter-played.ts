@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0010TheBrand = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0010-the-brand",
   title: "The Brand",
-  partOfCollectionSlugs: ["the-dungeon-of-one-thousand-deaths"],
+  storySlug: "the-dungeon-of-one-thousand-deaths",
   position: 10,
   ownLength: 5923,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const dragonsAndDungeons0009TheHonestStone = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0009-the-honest-stone",
   title: "The Honest Stone",
-  partOfCollectionSlugs: ["story-played/dragons-and-dungeons"],
+  storySlug: "story-played/dragons-and-dungeons",
   position: 9,
   ownLength: 2492,
   unitSlug: "words",

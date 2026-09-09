@@ -5,7 +5,7 @@ export const bathhouseConfession0001WhereTheSteamSettles = {
   pageTypeSlug: "story-chapter-written",
   slug: "bathhouse-confession-0001-where-the-steam-settles",
   title: "Where the Steam Settles",
-  partOfCollectionSlugs: ["bathhouse-confession"],
+  storySlug: "bathhouse-confession",
   position: 1,
   ownLength: 4408,
   unitSlug: "words",

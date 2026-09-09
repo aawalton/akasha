@@ -5,7 +5,7 @@ export const breathOfTheWild0002TheOldManOnTheHill = {
   pageTypeSlug: "story-chapter-played",
   slug: "breath-of-the-wild-0002-the-old-man-on-the-hill",
   title: "The Old Man on the Hill",
-  partOfCollectionSlugs: ["breath-of-the-wild"],
+  storySlug: "breath-of-the-wild",
   position: 2,
   ownLength: 4569,
   unitSlug: "words",

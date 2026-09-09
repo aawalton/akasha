@@ -5,7 +5,7 @@ export const comeHere0001FirelitKnit = {
   pageTypeSlug: "story-chapter-written",
   slug: "come-here-0001-firelit-knit",
   title: "Firelit Knit",
-  partOfCollectionSlugs: ["come-here"],
+  storySlug: "come-here",
   position: 1,
   ownLength: 998,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const towerAndTheStar0023TheProvingGatePartOne = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0023-the-proving-gate-part-one",
   title: "The Proving Gate (Part One)",
-  partOfCollectionSlugs: ["tower-and-the-star"],
+  storySlug: "tower-and-the-star",
   position: 23,
   ownLength: 2950,
   unitSlug: "words",

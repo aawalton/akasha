@@ -5,7 +5,7 @@ export const towerAndTheStar0003SixKillsToTheBonus = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0003-six-kills-to-the-bonus",
   title: "Six Kills to the Bonus",
-  partOfCollectionSlugs: ["tower-and-the-star"],
+  storySlug: "tower-and-the-star",
   position: 3,
   ownLength: 3815,
   unitSlug: "words",

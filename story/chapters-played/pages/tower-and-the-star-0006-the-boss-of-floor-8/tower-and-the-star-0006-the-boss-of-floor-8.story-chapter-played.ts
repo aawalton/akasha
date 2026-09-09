@@ -5,7 +5,7 @@ export const towerAndTheStar0006TheBossOfFloor8 = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0006-the-boss-of-floor-8",
   title: "The Boss of Floor 8",
-  partOfCollectionSlugs: ["tower-and-the-star"],
+  storySlug: "tower-and-the-star",
   position: 6,
   ownLength: 6544,
   unitSlug: "words",

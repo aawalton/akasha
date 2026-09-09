@@ -5,7 +5,7 @@ export const theIdleEpoch0009IronGrip = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-idle-epoch-0009-iron-grip",
   title: "Iron Grip",
-  partOfCollectionSlugs: ["the-idle-epoch"],
+  storySlug: "the-idle-epoch",
   position: 9,
   ownLength: 6292,
   unitSlug: "words",

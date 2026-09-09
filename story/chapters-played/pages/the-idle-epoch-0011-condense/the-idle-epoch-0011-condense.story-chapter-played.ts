@@ -5,7 +5,7 @@ export const theIdleEpoch0011Condense = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-idle-epoch-0011-condense",
   title: "Condense",
-  partOfCollectionSlugs: ["the-idle-epoch"],
+  storySlug: "the-idle-epoch",
   position: 11,
   ownLength: 6253,
   unitSlug: "words",

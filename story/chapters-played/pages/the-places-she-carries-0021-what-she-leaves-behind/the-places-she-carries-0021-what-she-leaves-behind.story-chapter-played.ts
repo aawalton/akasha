@@ -5,7 +5,7 @@ export const thePlacesSheCarries0021WhatSheLeavesBehind = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0021-what-she-leaves-behind",
   title: "What She Leaves Behind",
-  partOfCollectionSlugs: ["the-places-she-carries"],
+  storySlug: "the-places-she-carries",
   position: 21,
   ownLength: 3097,
   unitSlug: "words",

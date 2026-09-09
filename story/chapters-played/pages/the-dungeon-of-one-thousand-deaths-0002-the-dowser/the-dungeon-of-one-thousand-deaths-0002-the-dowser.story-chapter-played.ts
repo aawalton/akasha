@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0002TheDowser = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0002-the-dowser",
   title: "The Dowser",
-  partOfCollectionSlugs: ["the-dungeon-of-one-thousand-deaths"],
+  storySlug: "the-dungeon-of-one-thousand-deaths",
   position: 2,
   ownLength: 5154,
   unitSlug: "words",

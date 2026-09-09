@@ -5,7 +5,7 @@ export const towerAndTheStar0019RunningOnEmpty = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0019-running-on-empty",
   title: "Running on Empty",
-  partOfCollectionSlugs: ["tower-and-the-star"],
+  storySlug: "tower-and-the-star",
   position: 19,
   ownLength: 3949,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thePlacesSheCarries0007WhatTheNumbersSaid = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0007-what-the-numbers-said",
   title: "What the Numbers Said",
-  partOfCollectionSlugs: ["the-places-she-carries"],
+  storySlug: "the-places-she-carries",
   position: 7,
   ownLength: 4927,
   unitSlug: "words",

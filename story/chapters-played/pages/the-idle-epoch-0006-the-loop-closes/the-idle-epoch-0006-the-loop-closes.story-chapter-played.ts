@@ -5,7 +5,7 @@ export const theIdleEpoch0006TheLoopCloses = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-idle-epoch-0006-the-loop-closes",
   title: "The Loop Closes",
-  partOfCollectionSlugs: ["the-idle-epoch"],
+  storySlug: "the-idle-epoch",
   position: 6,
   ownLength: 6623,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0009TheMirror = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0009-the-mirror",
   title: "The Mirror",
-  partOfCollectionSlugs: ["the-dungeon-of-one-thousand-deaths"],
+  storySlug: "the-dungeon-of-one-thousand-deaths",
   position: 9,
   ownLength: 3066,
   unitSlug: "words",

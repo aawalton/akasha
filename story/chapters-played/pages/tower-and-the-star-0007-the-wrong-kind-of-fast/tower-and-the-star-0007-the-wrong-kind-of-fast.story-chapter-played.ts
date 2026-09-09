@@ -5,7 +5,7 @@ export const towerAndTheStar0007TheWrongKindOfFast = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0007-the-wrong-kind-of-fast",
   title: "The Wrong Kind of Fast",
-  partOfCollectionSlugs: ["tower-and-the-star"],
+  storySlug: "tower-and-the-star",
   position: 7,
   ownLength: 6453,
   unitSlug: "words",

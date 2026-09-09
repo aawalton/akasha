@@ -5,7 +5,7 @@ export const towerAndTheStar0002WhatTheRestNodeKnows = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0002-what-the-rest-node-knows",
   title: "What the Rest Node Knows",
-  partOfCollectionSlugs: ["tower-and-the-star"],
+  storySlug: "tower-and-the-star",
   position: 2,
   ownLength: 3923,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const towerAndTheStar0026TheLongWayAround = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0026-the-long-way-around",
   title: "The Long Way Around",
-  partOfCollectionSlugs: ["tower-and-the-star"],
+  storySlug: "tower-and-the-star",
   position: 26,
   ownLength: 3424,
   unitSlug: "words",

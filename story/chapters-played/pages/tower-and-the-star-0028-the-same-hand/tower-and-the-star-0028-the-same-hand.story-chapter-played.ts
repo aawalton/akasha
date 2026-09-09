@@ -5,7 +5,7 @@ export const towerAndTheStar0028TheSameHand = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0028-the-same-hand",
   title: "The Same Hand",
-  partOfCollectionSlugs: ["tower-and-the-star"],
+  storySlug: "tower-and-the-star",
   position: 28,
   ownLength: 3637,
   unitSlug: "words",

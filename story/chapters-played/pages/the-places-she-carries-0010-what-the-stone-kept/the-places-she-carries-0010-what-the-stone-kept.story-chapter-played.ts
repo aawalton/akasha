@@ -5,7 +5,7 @@ export const thePlacesSheCarries0010WhatTheStoneKept = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0010-what-the-stone-kept",
   title: "What the Stone Kept",
-  partOfCollectionSlugs: ["the-places-she-carries"],
+  storySlug: "the-places-she-carries",
   position: 10,
   ownLength: 5185,
   unitSlug: "words",

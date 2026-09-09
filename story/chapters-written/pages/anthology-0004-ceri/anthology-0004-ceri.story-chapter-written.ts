@@ -5,7 +5,7 @@ export const anthology0004Ceri = {
   pageTypeSlug: "story-chapter-written",
   slug: "anthology-0004-ceri",
   title: "Ceri",
-  partOfCollectionSlugs: ["anthology"],
+  storySlug: "anthology",
   position: 4,
   ownLength: 3198,
   unitSlug: "words",

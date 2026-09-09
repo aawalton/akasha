@@ -5,7 +5,7 @@ export const theIdleEpoch0007Exponential = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-idle-epoch-0007-exponential",
   title: "Exponential",
-  partOfCollectionSlugs: ["the-idle-epoch"],
+  storySlug: "the-idle-epoch",
   position: 7,
   ownLength: 6346,
   unitSlug: "words",

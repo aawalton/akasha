@@ -5,7 +5,7 @@ export const thePlacesSheCarries0022ThePlaceThatSings = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0022-the-place-that-sings",
   title: "The Place That Sings",
-  partOfCollectionSlugs: ["the-places-she-carries"],
+  storySlug: "the-places-she-carries",
   position: 22,
   ownLength: 2633,
   unitSlug: "words",
