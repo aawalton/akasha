@@ -5,7 +5,7 @@ export const breakerOfHorizons00055ChallengingFate = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0005-5-challenging-fate",
   title: "5. Challenging Fate",
-  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
+  storySlug: "story-read/breaker-of-horizons",
   position: 5,
   ownLength: 1944,
   unitSlug: "words",

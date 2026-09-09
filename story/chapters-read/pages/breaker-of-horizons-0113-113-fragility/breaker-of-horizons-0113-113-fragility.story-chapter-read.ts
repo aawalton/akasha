@@ -5,7 +5,7 @@ export const breakerOfHorizons0113113Fragility = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0113-113-fragility",
   title: "113. Fragility",
-  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
+  storySlug: "story-read/breaker-of-horizons",
   position: 113,
   ownLength: 1874,
   unitSlug: "words",

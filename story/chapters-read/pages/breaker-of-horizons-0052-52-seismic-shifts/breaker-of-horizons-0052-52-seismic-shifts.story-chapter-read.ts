@@ -5,7 +5,7 @@ export const breakerOfHorizons005252SeismicShifts = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0052-52-seismic-shifts",
   title: "52. Seismic Shifts",
-  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
+  storySlug: "story-read/breaker-of-horizons",
   position: 52,
   ownLength: 2539,
   unitSlug: "words",

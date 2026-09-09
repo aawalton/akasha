@@ -5,7 +5,7 @@ export const bookboundBunny0083B3Chapter79PreludeToTheHunt = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0083-b3-chapter-79-prelude-to-the-hunt",
   title: "B3 - Chapter 79 - Prelude to the Hunt",
-  partOfCollectionSlugs: ["bookbound-bunny"],
+  storySlug: "bookbound-bunny",
   position: 83,
   ownLength: 2054,
   unitSlug: "words",

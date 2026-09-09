@@ -5,7 +5,7 @@ export const breakerOfHorizons001717ABreathOfRelief = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0017-17-a-breath-of-relief",
   title: "17. A Breath of Relief",
-  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
+  storySlug: "story-read/breaker-of-horizons",
   position: 17,
   ownLength: 2329,
   unitSlug: "words",

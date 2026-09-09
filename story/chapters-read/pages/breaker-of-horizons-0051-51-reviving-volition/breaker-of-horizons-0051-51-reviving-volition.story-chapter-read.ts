@@ -5,7 +5,7 @@ export const breakerOfHorizons005151RevivingVolition = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0051-51-reviving-volition",
   title: "51. Reviving Volition",
-  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
+  storySlug: "story-read/breaker-of-horizons",
   position: 51,
   ownLength: 2981,
   unitSlug: "words",

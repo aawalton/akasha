@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004949RipAndTear = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0049-49-rip-and-tear",
   title: "49: Rip and Tear",
-  partOfCollectionSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
+  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 49,
   ownLength: 1993,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook004242Potential = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0042-42-potential",
   title: "42: Potential",
-  partOfCollectionSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
+  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 42,
   ownLength: 1401,
   unitSlug: "words",

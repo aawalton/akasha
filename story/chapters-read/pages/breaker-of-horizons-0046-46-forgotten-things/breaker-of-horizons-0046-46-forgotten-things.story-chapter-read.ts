@@ -5,7 +5,7 @@ export const breakerOfHorizons004646ForgottenThings = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0046-46-forgotten-things",
   title: "46. Forgotten Things",
-  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
+  storySlug: "story-read/breaker-of-horizons",
   position: 46,
   ownLength: 2409,
   unitSlug: "words",

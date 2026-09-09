@@ -5,7 +5,7 @@ export const breakerOfHorizons0105105DoubleAct = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0105-105-double-act",
   title: "105. Double Act",
-  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
+  storySlug: "story-read/breaker-of-horizons",
   position: 105,
   ownLength: 2358,
   unitSlug: "words",

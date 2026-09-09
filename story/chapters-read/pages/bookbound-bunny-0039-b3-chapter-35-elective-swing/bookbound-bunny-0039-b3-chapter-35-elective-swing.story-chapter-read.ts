@@ -5,7 +5,7 @@ export const bookboundBunny0039B3Chapter35ElectiveSwing = {
   pageTypeSlug: "story-chapter-read",
   slug: "bookbound-bunny-0039-b3-chapter-35-elective-swing",
   title: "B3 - Chapter 35 - Elective Swing",
-  partOfCollectionSlugs: ["bookbound-bunny"],
+  storySlug: "bookbound-bunny",
   position: 39,
   ownLength: 2477,
   unitSlug: "words",

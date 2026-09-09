@@ -5,7 +5,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook00077Zornhau = {
   pageTypeSlug: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0007-7-zornhau",
   title: "7: Zornhau",
-  partOfCollectionSlugs: ["born-for-the-apocalypse-a-daopcalypse-litrpg-book"],
+  storySlug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   position: 7,
   ownLength: 1014,
   unitSlug: "words",

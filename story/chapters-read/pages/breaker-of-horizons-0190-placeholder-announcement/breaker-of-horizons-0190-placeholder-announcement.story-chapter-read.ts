@@ -5,7 +5,7 @@ export const breakerOfHorizons0190PlaceholderAnnouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0190-placeholder-announcement",
   title: "Placeholder / Announcement",
-  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
+  storySlug: "story-read/breaker-of-horizons",
   position: 190,
   ownLength: 85,
   unitSlug: "words",

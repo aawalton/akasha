@@ -5,7 +5,7 @@ export const breakerOfHorizons0120120MysteryAtDawn = {
   pageTypeSlug: "story-chapter-read",
   slug: "breaker-of-horizons-0120-120-mystery-at-dawn",
   title: "120. Mystery at Dawn",
-  partOfCollectionSlugs: ["story-read/breaker-of-horizons"],
+  storySlug: "story-read/breaker-of-horizons",
   position: 120,
   ownLength: 2298,
   unitSlug: "words",
