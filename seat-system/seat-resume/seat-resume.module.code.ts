@@ -1,4 +1,3 @@
-import { parseArgs } from "@akasha/command-system/parse-args"
 import {
   dataError,
   exitCodeForThrowable,
@@ -40,6 +39,7 @@ import {
 } from "@akasha/seat-system/takeover-seat"
 import { readStdinOrFile } from "@akasha/utils/fs/read-stdin-or-file"
 import { shape } from "@akasha/utils/narrow/shape"
+import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
 import { parseWindowDuration } from "../window-duration/window-duration.module.code.ts"
 
 const DEFAULT_VERIFY_GRACE_MS = 30_000

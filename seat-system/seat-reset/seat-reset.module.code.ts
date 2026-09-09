@@ -1,4 +1,3 @@
-import { parseArgs } from "@akasha/command-system/parse-args"
 import { dataError, inputError } from "@akasha/errors-core/exit-code"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { killSeatSession, launchSeatUnderTmux } from "@akasha/seat-system/launch-seat-tmux"
@@ -9,6 +8,7 @@ import { mintNamedAgent } from "@akasha/seat-system/seat-name-bind"
 import { HELP } from "@akasha/seat-system/seat-reset-help"
 import { stateSpawnedSeat } from "@akasha/seat-system/state-spawned-seat"
 import { A_RESET, stopSeat } from "@akasha/seat-system/stop-seat"
+import { parseArgs } from "../../commands/modules/parse-args/parse-args.module.code.ts"
 import { composeSeatName } from "../compose-seat-name/compose-seat-name.module.code.ts"
 import { flexInName } from "../seat-flex/seat-flex.module.code.ts"
 import {
