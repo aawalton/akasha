@@ -18,9 +18,9 @@ export const amyDayModel = {
     },
     {
       statement:
-        "Points and calories on a day page are counted over the window the day model derives.",
+        "Every points figure stored on a day page was counted over the window the day model derives.",
       workingMemory:
-        "45 of 250 days hold different session-row counts under `getEsoDayWindow` than under `spannedWindow`, so points and calories on one day page are counted over different days. `session-points-compute.module.code.ts:103,107`, `task-completions.module.code.ts:120` and `topic-words.module.code.ts:64` take the first; `active-calories.module.code.ts:30` takes the second. Held back because mending it recomputes points already stored on day pages, which Alan watches.",
+        "The live readers take it now: `session-points-compute.module.code.ts:103,107`, `task-completions.module.code.ts:120` and `topic-words.module.code.ts:64,202` call `openedWindowOn`. What is left is history: 87 day pages carry `taskPoints`, 86 `healthPoints`, 77 `sleepPoints`, 78 `nutritionPoints`, 75 `breathingPoints`, each counted over the ESO window and each feeding a level the day page shows. Only `topic-words` and `active-calories` still run, so recomputing the rest needs a driver first.",
     },
   ],
 } as const satisfies Initiative
