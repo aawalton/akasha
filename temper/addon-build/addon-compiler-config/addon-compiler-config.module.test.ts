@@ -6,6 +6,7 @@ import {
   bundleEntryPathIn,
   compilerConfigBody,
   compilerConfigPathFor,
+  declaringDirs,
   esoAddonPagePathIn,
   reachedPackageDirs,
 } from "./addon-compiler-config.module.code.ts"
@@ -50,6 +51,7 @@ test("the written settings name the entry, the bundle and the repository root", 
       canonicalName: "TemperTableFunctions",
       entryPath: "/repo/temper/temper-lib-table-functions/e/e.module.code.ts",
       reachedDirs: [],
+      declaringDirs: ["/repo/temper/temper-eso-types", "/repo/temper/temper-addon-library-types"],
     })
   )
   expect(body).toMatchObject({
@@ -66,8 +68,8 @@ test("the written settings name the entry, the bundle and the repository root", 
     include: [
       "/repo/temper/temper-lib-table-functions/**/*.module.code.ts",
       "/repo/temper/temper-lib-table-functions/**/*.d.ts",
-      "/repo/temper/temper-eso-types/**/*.d.ts",
-      "/repo/temper/temper-addon-library-types/**/*.d.ts",
+      "/repo/temper/temper-eso-types/**/*.type-declaration.d.ts",
+      "/repo/temper/temper-addon-library-types/**/*.type-declaration.d.ts",
     ],
   })
 })
@@ -140,6 +142,7 @@ test("the written settings reach every declaration a package the addon reaches h
       canonicalName: "TemperCollections",
       entryPath: "/repo/temper/temper-collections-addon/e/e.module.code.ts",
       reachedDirs: ["/repo/temper/temper-lorebooks"],
+      declaringDirs: ["/repo/temper/temper-eso-types"],
     })
   )
   expect(body).toMatchObject({
@@ -147,8 +150,28 @@ test("the written settings reach every declaration a package the addon reaches h
       "/repo/temper/temper-collections-addon/**/*.module.code.ts",
       "/repo/temper/temper-collections-addon/**/*.d.ts",
       "/repo/temper/temper-lorebooks/**/*.d.ts",
-      "/repo/temper/temper-eso-types/**/*.d.ts",
-      "/repo/temper/temper-addon-library-types/**/*.d.ts",
+      "/repo/temper/temper-eso-types/**/*.type-declaration.d.ts",
     ],
   })
+})
+
+test("a temper folder holding declarations and no addon page is read by every addon", () => {
+  const root = SCRATCH.rootFor("temper-addon-declaring-")
+  const found = join(root, "temper/skill-point-finder/skill-point-finder-controls")
+  const addon = join(root, "temper/temper-characters-addon/characters-entry")
+  mkdirSync(found, { recursive: true })
+  mkdirSync(addon, { recursive: true })
+  writeFileSync(
+    join(found, "skill-point-finder-controls.type-declaration.d.ts"),
+    "declare const USPF_GUI: number\n"
+  )
+  writeFileSync(
+    join(root, "temper/temper-characters-addon/temper-characters-addon.eso-addon.ts"),
+    'export const temperCharactersAddon = { pageTypeSlug: "eso-addon" }\n'
+  )
+  writeFileSync(
+    join(addon, "characters-entry.type-declaration.d.ts"),
+    "declare const TEMPER_CHARACTERS: number\n"
+  )
+  expect(declaringDirs(root)).toEqual([join(root, "temper/skill-point-finder")])
 })

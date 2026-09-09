@@ -24,10 +24,11 @@ const CODE_UNDER = `**/*${CODE_SUFFIX}`
 
 const OWN_DECLARATIONS_UNDER = "**/*.d.ts"
 
-const DECLARATIONS_UNDER = [
-  "temper/temper-eso-types/**/*.d.ts",
-  "temper/temper-addon-library-types/**/*.d.ts",
-] as const
+const DECLARATIONS_UNDER = "**/*.type-declaration.d.ts"
+
+const DECLARATION_SUFFIX = ".type-declaration.d.ts"
+
+const TEMPER_UNDER = "temper"
 
 const WORKSPACE_MARK = "workspace:"
 
@@ -68,6 +69,39 @@ export function reachedPackageDirs(repoRoot: string, addonDir: string): readonly
     owed.push(...workspaceDependenciesIn(join(dir, MANIFEST_NAME)))
   }
   return [...found].sort()
+}
+
+function holdsDeclarations(dir: string): boolean {
+  for (const one of readdirSync(dir, { withFileTypes: true })) {
+    if (one.name === LINKED_UNDER) continue
+    if (one.isDirectory()) {
+      if (holdsDeclarations(join(dir, one.name))) return true
+      continue
+    }
+    if (one.name.endsWith(DECLARATION_SUFFIX)) return true
+  }
+  return false
+}
+
+function addonFolder(dir: string): boolean {
+  return readdirSync(dir).some((one) => one.endsWith(ESO_ADDON_PAGE_SUFFIX))
+}
+
+const declaringHeld = new Map<string, readonly string[]>()
+
+export function declaringDirs(repoRoot: string): readonly string[] {
+  const held = declaringHeld.get(repoRoot)
+  if (held !== undefined) return held
+  const under = join(repoRoot, TEMPER_UNDER)
+  const found = existsSync(under)
+    ? readdirSync(under, { withFileTypes: true })
+        .filter((one) => one.isDirectory() && !one.name.startsWith("."))
+        .map((one) => join(under, one.name))
+        .filter((dir) => !addonFolder(dir) && holdsDeclarations(dir))
+        .sort()
+    : []
+  declaringHeld.set(repoRoot, found)
+  return found
 }
 
 export type EsoAddonPage = {
@@ -133,6 +167,7 @@ export type CompilerConfigAsked = {
   readonly canonicalName: string
   readonly entryPath: string
   readonly reachedDirs: readonly string[]
+  readonly declaringDirs: readonly string[]
 }
 
 export function compilerConfigBody(asked: CompilerConfigAsked): string {
@@ -165,7 +200,7 @@ export function compilerConfigBody(asked: CompilerConfigAsked): string {
       join(asked.addonDir, CODE_UNDER),
       join(asked.addonDir, OWN_DECLARATIONS_UNDER),
       ...asked.reachedDirs.map((one) => join(one, OWN_DECLARATIONS_UNDER)),
-      ...DECLARATIONS_UNDER.map((one) => join(asked.repoRoot, one)),
+      ...asked.declaringDirs.map((one) => join(one, DECLARATIONS_UNDER)),
     ],
   }
   return `${JSON.stringify(body, null, 2)}\n`
@@ -192,7 +227,14 @@ export async function compilerConfigPathFor(
   const reachedDirs = reachedPackageDirs(repoRoot, addonDir)
   writeFileSync(
     path,
-    compilerConfigBody({ repoRoot, addonDir, canonicalName, entryPath, reachedDirs })
+    compilerConfigBody({
+      repoRoot,
+      addonDir,
+      canonicalName,
+      entryPath,
+      reachedDirs,
+      declaringDirs: declaringDirs(repoRoot),
+    })
   )
   return path
 }

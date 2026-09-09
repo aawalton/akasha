@@ -49,7 +49,16 @@ export const addonCompilerConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "The game's own names are described by the akasha packages of declarations.",
+      statement:
+        "The written settings reach every declaration a temper folder that is no addon holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding an addon page keeps its declarations to that addon.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The game's own names are described by the akasha folders of declarations.",
     },
     {
       invariantKind: "departure",
