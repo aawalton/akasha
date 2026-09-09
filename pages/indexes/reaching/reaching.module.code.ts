@@ -10,7 +10,9 @@ const RECORD = "record-property"
 
 const ONE_OF = "one-of-property"
 
-const MEMBERS = "memberSlugs"
+const MEMBERS = "members"
+
+const WAS_MEMBERS = "memberSlugs"
 
 const DECLARED = "properties"
 
@@ -58,7 +60,7 @@ function fieldsIn(value: Value): readonly string[] {
 }
 
 function membersIn(value: Value): readonly string[] {
-  const named = value[MEMBERS]
+  const named = value[MEMBERS] ?? value[WAS_MEMBERS]
   if (!Array.isArray(named)) return []
   const found: string[] = []
   for (const one of named) {

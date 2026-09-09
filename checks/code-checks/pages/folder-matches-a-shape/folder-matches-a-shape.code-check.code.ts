@@ -41,6 +41,8 @@ const RECORD_PROPERTY = "record-property"
 
 const ONE_OF_PROPERTY = "one-of-property"
 
+const MEMBERS = "members"
+
 const MEMBER_SLUGS = "memberSlugs"
 
 const PROPERTIES = "properties"
@@ -157,7 +159,7 @@ export function declaredBesideIn(
     if (said.pageType === ONE_OF_PROPERTY) {
       const held = index.pageAt(ONE_OF_PROPERTY, said.slug)
       if (held === null) continue
-      for (const member of textsAt(held, MEMBER_SLUGS) ?? []) {
+      for (const member of textsAt(held, MEMBERS) ?? textsAt(held, MEMBER_SLUGS) ?? []) {
         const bare = slugIn(member)
         if (bare !== null) found.push(bare)
       }
