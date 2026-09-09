@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const twoStalenessGuardsCompoundToNinetyMinutes = {
   id: "01a05b92-9071-7001-8686-5b7af6823de7",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "two-staleness-guards-compound-to-ninety-minutes",
   domain: "ios-component/alanwalton-widget-feed",
   claim:

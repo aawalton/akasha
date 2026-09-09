@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const twelveCaptureCorePackagesLandedAsOne = {
   id: "01a0604f-0f83-7b33-98a4-801da3e3995f",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "twelve-capture-core-packages-landed-as-one",
   domain: "workspace-package/temper-capture-shapes",
   claim:

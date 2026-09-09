@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const wiringTheReservedColonMethodsUpWouldCollideWithSixLiveDeclarations = {
   id: "01a062d0-a0c5-7bde-8c4f-c364b87f4585",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "wiring-the-reserved-colon-methods-up-would-collide-with-six-live-declarations",
   domain: "workspace-package/temper-eso-types",
   claim:

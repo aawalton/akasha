@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const twoSiblingCurrencyFieldsLookAlikeAndOnlyOneIsRedundant = {
   id: "01a0675a-8cc6-776f-8141-3057b25a27d8",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "two-sibling-currency-fields-look-alike-and-only-one-is-redundant",
   domain: "domain/temper-holdings",
   claim:

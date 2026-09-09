@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const vanguardTripleConcentration = {
   id: "01a06555-9f3f-71c7-bb01-c7a527c7937e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "vanguard-triple-concentration",
   domain: "domain/all-about-alan",
   claim:

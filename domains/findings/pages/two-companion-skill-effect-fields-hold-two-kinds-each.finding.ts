@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const twoCompanionSkillEffectFieldsHoldTwoKindsEach = {
   id: "01a061b0-5cb9-7560-805b-a2e35d869331",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "two-companion-skill-effect-fields-hold-two-kinds-each",
   domain: "domain/temper-catalog",
   claim:

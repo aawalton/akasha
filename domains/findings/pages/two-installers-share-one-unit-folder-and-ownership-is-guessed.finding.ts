@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const twoInstallersShareOneUnitFolderAndOwnershipIsGuessed = {
   id: "01a05b48-7d50-7503-bdd4-ecd7acaab780",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "two-installers-share-one-unit-folder-and-ownership-is-guessed",
   domain: "module/service-installing",
   claim:

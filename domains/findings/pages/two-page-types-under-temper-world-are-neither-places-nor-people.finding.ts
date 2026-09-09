@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const twoPageTypesUnderTemperWorldAreNeitherPlacesNorPeople = {
   id: "01a05fc7-f922-77b0-8297-c8401ce4691e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "two-page-types-under-temper-world-are-neither-places-nor-people",
   domain: "domain/temper-world",
   claim:

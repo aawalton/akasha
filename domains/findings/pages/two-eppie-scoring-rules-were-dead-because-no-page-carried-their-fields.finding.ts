@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const twoEppieScoringRulesWereDeadBecauseNoPageCarriedTheirFields = {
   id: "01a06281-4d9d-7005-97ec-d604d1b436f5",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "two-eppie-scoring-rules-were-dead-because-no-page-carried-their-fields",
   domain: "domain/music",
   claim:

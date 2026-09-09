@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const twoReadingsOfTheSameMomentDisagreeOnWhatAnAccountIsWorth = {
   id: "01a05fdf-9a2d-73e8-bfbf-00fd2252447e",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "two-readings-of-the-same-moment-disagree-on-what-an-account-is-worth",
   domain: "domain/temper-holdings",
   claim:

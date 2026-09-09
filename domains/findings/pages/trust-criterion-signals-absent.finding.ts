@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const trustCriterionSignalsAbsent = {
   id: "01a06555-9f3f-7b76-91ab-9a44b88c9009",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "trust-criterion-signals-absent",
   domain: "domain/all-about-alan",
   claim:

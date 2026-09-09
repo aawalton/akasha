@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const zeroPlantGramsIsAReadingWhereZeroSurplusHoursIsNot = {
   id: "01a06221-d65f-7977-ac71-6d13572ef6b3",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "zero-plant-grams-is-a-reading-where-zero-surplus-hours-is-not",
   domain: "domain/plants",
   claim:

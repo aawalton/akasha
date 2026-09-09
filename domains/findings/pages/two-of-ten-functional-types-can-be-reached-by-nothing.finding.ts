@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const twoOfTenFunctionalTypesCanBeReachedByNothing = {
   id: "01a061e1-9757-7c70-9914-57bf8006a57c",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "two-of-ten-functional-types-can-be-reached-by-nothing",
   domain: "workspace-package/check",
   claim:
