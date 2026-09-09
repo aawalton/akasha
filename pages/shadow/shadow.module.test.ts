@@ -27,7 +27,7 @@ const AKASHA = "akasha"
 
 const TEXT = new TextEncoder()
 
-type FileEdit = {
+type Written = {
   readonly path: string
   readonly body: string | null
 }
@@ -63,7 +63,7 @@ function inside(at: string): string {
   return join(AKASHA, at)
 }
 
-function aChange(at: string, value: Held | null): FileEdit {
+function aChange(at: string, value: Held | null): Written {
   return { path: inside(at), body: value === null ? null : bodyOf(value) }
 }
 
@@ -75,7 +75,7 @@ const NOTE: Held = {
   targetPageTypeSlug: "domain",
 }
 
-const CHANGES: readonly FileEdit[] = [
+const CHANGES: readonly Written[] = [
   aChange("one/same.domain.ts", null),
   aChange("deep/d.module.ts", null),
   { path: inside("deep/d.module.code.ts"), body: null },
@@ -97,7 +97,7 @@ function onDisk(root: string): (path: string) => Uint8Array | null {
   return (path) => (there(root, path) ? readFileSync(join(root, path)) : null)
 }
 
-function changeOver(root: string, changes: readonly FileEdit[]): Change {
+function changeOver(root: string, changes: readonly Written[]): Change {
   const held = new Map<string, string | null>()
   for (const one of changes) held.set(one.path, one.body)
   const was = onDisk(root)
@@ -113,7 +113,7 @@ function changeOver(root: string, changes: readonly FileEdit[]): Change {
   }
 }
 
-function landedInto(root: string, changes: readonly FileEdit[]): string {
+function landedInto(root: string, changes: readonly Written[]): string {
   const twin = scratch.rootFor("akasha-landed-")
   rmSync(twin, { recursive: true, force: true })
   cpSync(root, twin, { recursive: true })
@@ -376,7 +376,7 @@ function basedAside(root: string): (path: string) => Uint8Array | null {
 function changeOnto(
   root: string,
   base: (path: string) => Uint8Array | null,
-  changes: readonly FileEdit[]
+  changes: readonly Written[]
 ): Change {
   const held = new Map<string, string | null>()
   for (const one of changes) held.set(one.path, one.body)
