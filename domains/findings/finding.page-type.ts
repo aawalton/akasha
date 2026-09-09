@@ -24,6 +24,7 @@ export const finding = {
     { pageProperty: "text-property/evidence", required: true, many: false },
   ],
   mortal: true,
+  types: "ts",
   invariants: [
     {
       invariantKind: "departure",
