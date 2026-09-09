@@ -5,7 +5,7 @@ export const nimueCodeCleanup = {
   pageTypeSlug: "initiative",
   slug: "nimue-code-cleanup",
   domainSlug: "workspace-package/code-system",
-  personaSlug: "nimue",
+  persona: "nimue",
   intents: [
     {
       statement: "All code-system files are in the code/ folder.",

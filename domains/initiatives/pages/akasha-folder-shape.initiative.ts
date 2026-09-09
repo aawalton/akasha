@@ -5,7 +5,7 @@ export const akashaFolderShape = {
   pageTypeSlug: "initiative",
   slug: "akasha-folder-shape",
   domainSlug: "domain/akasha",
-  personaSlug: "akasha",
+  persona: "akasha",
   intents: [
     {
       statement: "No relation property's name ends in `slug`.",

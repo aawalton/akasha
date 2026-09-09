@@ -2,13 +2,13 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { DomainSlug } from "../properties/domain-slug.relation-property.ts"
 import type { Constraints } from "./properties/constraints.standard-agent-english-property.ts"
-import type { InitiativePersonaSlug } from "./properties/initiative-persona-slug.relation-property.ts"
+import type { InitiativePersona } from "./properties/initiative-persona.relation-property.ts"
 import type { Intents } from "./properties/intents.record-property.ts"
 import type { ParentSlug } from "./properties/parent-slug.relation-property.ts"
 
 export type Initiative = Page & {
   domainSlug: DomainSlug
-  personaSlug: InitiativePersonaSlug
+  persona: InitiativePersona
   parent?: ParentSlug
   intents?: Intents
   constraints?: readonly Constraints[]
@@ -22,7 +22,7 @@ export const initiative = {
   pluralSlug: "initiatives",
   partSlugs: [
     "record-property/intents",
-    "relation-property/initiative-persona-slug",
+    "relation-property/initiative-persona",
     "relation-property/initiative",
     "relation-property/parent-slug",
     "standard-agent-english-property/constraints",
@@ -32,7 +32,7 @@ export const initiative = {
   extendsSlug: ["page-type/page"],
   properties: [
     { pagePropertySlug: "relation-property/domain-slug", required: true, many: false },
-    { pagePropertySlug: "relation-property/initiative-persona-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/initiative-persona", required: true, many: false },
     { pagePropertySlug: "relation-property/parent-slug", required: false, many: false },
     { pagePropertySlug: "record-property/intents", required: false, many: true, maxCount: null },
     {

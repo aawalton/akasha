@@ -5,7 +5,7 @@ export const dallaDraftIntoAPatch = {
   pageTypeSlug: "initiative",
   slug: "dalla-draft-into-a-patch",
   domainSlug: "page-type/change",
-  personaSlug: "dalla",
+  persona: "dalla",
   intents: [
     {
       statement: "The wide Edit type no longer exists.",

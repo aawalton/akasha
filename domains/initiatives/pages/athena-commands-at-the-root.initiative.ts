@@ -5,7 +5,7 @@ export const athenaCommandsAtTheRoot = {
   pageTypeSlug: "initiative",
   slug: "athena-commands-at-the-root",
   domainSlug: "workspace-package/command-system",
-  personaSlug: "athena",
+  persona: "athena",
   intents: [
     {
       statement:

@@ -5,7 +5,7 @@ export const amyDayModel = {
   pageTypeSlug: "initiative",
   slug: "amy-day-model",
   domainSlug: "domain/track",
-  personaSlug: "amy",
+  persona: "amy",
   constraints: [
     "Stop and talk to Alan where a change to the day model is not easy, fast and safe.",
   ],

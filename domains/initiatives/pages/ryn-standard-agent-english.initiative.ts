@@ -5,7 +5,7 @@ export const rynStandardAgentEnglish = {
   pageTypeSlug: "initiative",
   slug: "ryn-standard-agent-english",
   domainSlug: "workspace-package/plain-language",
-  personaSlug: "ryn",
+  persona: "ryn",
   intents: [
     {
       statement: "The load a construction puts on a reading agent is measured.",

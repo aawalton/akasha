@@ -10,7 +10,7 @@ const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 
 const PARENT = "parent"
 
-const PERSONA = "personaSlug"
+const PERSONA = "persona"
 
 const INTENTS = "intents"
 

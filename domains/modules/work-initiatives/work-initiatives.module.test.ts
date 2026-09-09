@@ -134,7 +134,7 @@ test("a persona is read out of the page the index named", () => {
   pageAt(
     root,
     "amy-one",
-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", personaSlug: "amy" }\n'
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", persona: "amy" }\n'
   )
   expect(initiativesDrawn(root)[0]?.persona).toBe("amy")
 })

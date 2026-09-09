@@ -5,5 +5,5 @@ export const astraGeneratedTypes = {
   pageTypeSlug: "initiative",
   slug: "astra-generated-types",
   domainSlug: "workspace-package/page",
-  personaSlug: "astra",
+  persona: "astra",
 } as const satisfies Initiative

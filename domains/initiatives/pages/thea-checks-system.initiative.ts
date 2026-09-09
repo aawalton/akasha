@@ -5,7 +5,7 @@ export const theaChecksSystem = {
   pageTypeSlug: "initiative",
   slug: "thea-checks-system",
   domainSlug: "workspace-package/check",
-  personaSlug: "thea",
+  persona: "thea",
   intents: [
     {
       statement: "Every check is cheap enough for audit.",
