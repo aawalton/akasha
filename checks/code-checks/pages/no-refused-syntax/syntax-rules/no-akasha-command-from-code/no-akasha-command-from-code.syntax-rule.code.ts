@@ -1,11 +1,15 @@
+import { dirname, relative } from "node:path"
 import { lineOf } from "@akasha/code/code-source"
+import { rootOf } from "@akasha/command-system/rooting"
 import { basenameOf } from "@akasha/hook-system/shell-calls"
 import ts from "typescript"
 import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 
-const DISPATCHER = "command-system/cli/cli.module.code.ts"
+const RESOLVED = require.resolve("@akasha/command-system/cli")
 
-const DISPATCHER_AT = "command-system/cli/"
+export const DISPATCHER = relative(rootOf(RESOLVED), RESOLVED)
+
+export const DISPATCHER_AT = `${dirname(DISPATCHER)}/`
 
 const COMMAND = "akasha"
 
