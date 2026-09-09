@@ -112,6 +112,7 @@ export const command = {
     "module/reading",
     "module/command-declaring",
     "module/command-answering",
+    "module/calling",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

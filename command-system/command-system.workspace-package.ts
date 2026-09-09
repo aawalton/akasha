@@ -8,7 +8,6 @@ export const commandSystem = {
   manifest: "json",
   parts: [
     "page-type/command",
-    "module/calling",
     "module/fault-saying",
     "module/rooting",
     "module/scratching",
