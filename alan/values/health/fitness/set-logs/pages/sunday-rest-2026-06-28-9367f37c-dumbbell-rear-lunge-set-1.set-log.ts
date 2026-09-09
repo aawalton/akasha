@@ -5,7 +5,7 @@ export const sundayRest202606289367f37cDumbbellRearLungeSet1 = {
   pageTypeSlug: "set-log",
   slug: "sunday-rest-2026-06-28-9367f37c-dumbbell-rear-lunge-set-1",
   title: "Dumbbell Rear Lunge set 1",
-  exerciseSlug: "dumbbell-rear-lunge",
+  exercise: "dumbbell-rear-lunge",
   isWarmup: false,
   note: "20 total (10/leg), 20lb pair — bumped from 15lb pair @ same RPE5 on 6/24. Progression stuck cleanly; load landed, still room. Side-DB hold keeps arms out → legs are the limiter.",
   reps: 20,

@@ -5,7 +5,7 @@ export const wednesdayLegs20260624789253e9RomanianDeadliftSet1 = {
   pageTypeSlug: "set-log",
   slug: "wednesday-legs-2026-06-24-789253e9-romanian-deadlift-set-1",
   title: "Romanian Deadlift set 1",
-  exerciseSlug: "romanian-deadlift",
+  exercise: "romanian-deadlift",
   isWarmup: false,
   reps: 10,
   rpe: 6,

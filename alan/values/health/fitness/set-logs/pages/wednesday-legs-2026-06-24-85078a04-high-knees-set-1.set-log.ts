@@ -7,7 +7,7 @@ export const wednesdayLegs2026062485078a04HighKneesSet1 = {
   title: "High Knees cardio 1",
   activityType: "cardio",
   durationSeconds: 45,
-  exerciseSlug: "high-knees",
+  exercise: "high-knees",
   note: "60 reps, elbow height (movement snack 7)",
   sessionSlug: "wednesday-legs-2026-06-24-85078a04",
   setLogDate: "2026-06-24",

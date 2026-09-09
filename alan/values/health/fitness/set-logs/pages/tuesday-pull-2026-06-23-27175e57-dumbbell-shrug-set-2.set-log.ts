@@ -5,7 +5,7 @@ export const tuesdayPull2026062327175e57DumbbellShrugSet2 = {
   pageTypeSlug: "set-log",
   slug: "tuesday-pull-2026-06-23-27175e57-dumbbell-shrug-set-2",
   title: "Dumbbell Shrug set 2",
-  exerciseSlug: "dumbbell-shrug",
+  exercise: "dumbbell-shrug",
   isWarmup: false,
   note: "20lb DB, 12 reps @ 8/10; stopped on clean-squeeze cutoff",
   reps: 12,

@@ -12,7 +12,7 @@ type Weighed = { readonly bodyweight?: number }
 export const work: Work<WorkedSetLog, number> = (page, reach) => {
   if (page.isWarmup === true) return 0
   if (page.activityType !== undefined) return 0
-  const slug = page.exerciseSlug
+  const slug = page.exercise
   const movement = slug === undefined ? null : reach.target<Loaded>(`${MOVEMENT}${slug}`)
   const lifter = reach.target<Weighed>(LIFTER)
   const own = lifter === null ? 0 : (lifter.bodyweight ?? 0)

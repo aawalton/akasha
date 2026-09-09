@@ -5,7 +5,7 @@ export const mondayPush20260810D0622a4dStandingDumbbellTricepsExtensionSet1 = {
   pageTypeSlug: "set-log",
   slug: "monday-push-2026-08-10-d0622a4d-standing-dumbbell-triceps-extension-set-1",
   title: "Standing Dumbbell Triceps Extension set 1",
-  exerciseSlug: "standing-dumbbell-triceps-extension",
+  exercise: "standing-dumbbell-triceps-extension",
   isWarmup: false,
   reps: 12,
   rpe: 7,

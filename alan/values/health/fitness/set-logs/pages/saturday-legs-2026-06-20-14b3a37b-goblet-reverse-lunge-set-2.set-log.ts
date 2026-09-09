@@ -5,7 +5,7 @@ export const saturdayLegs2026062014b3a37bGobletReverseLungeSet2 = {
   pageTypeSlug: "set-log",
   slug: "saturday-legs-2026-06-20-14b3a37b-goblet-reverse-lunge-set-2",
   title: "Goblet Reverse Lunge set 2",
-  exerciseSlug: "goblet-reverse-lunge",
+  exercise: "goblet-reverse-lunge",
   isWarmup: false,
   note: "Goblet reverse lunge (catalog lacks exact name): 16 total (8/side), consistent pace, knee gently touched carpet each rep — good depth",
   reps: 16,

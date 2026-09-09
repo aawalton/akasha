@@ -5,7 +5,7 @@ export const mondayPush20260810D0622a4dDumbbellBenchPressSet3 = {
   pageTypeSlug: "set-log",
   slug: "monday-push-2026-08-10-d0622a4d-dumbbell-bench-press-set-3",
   title: "Dumbbell Bench Press set 3",
-  exerciseSlug: "dumbbell-bench-press",
+  exercise: "dumbbell-bench-press",
   isWarmup: false,
   reps: 16,
   rpe: 8,

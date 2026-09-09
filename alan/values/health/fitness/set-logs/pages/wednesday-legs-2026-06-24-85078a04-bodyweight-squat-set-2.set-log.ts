@@ -5,7 +5,7 @@ export const wednesdayLegs2026062485078a04BodyweightSquatSet2 = {
   pageTypeSlug: "set-log",
   slug: "wednesday-legs-2026-06-24-85078a04-bodyweight-squat-set-2",
   title: "Bodyweight Squat set 2",
-  exerciseSlug: "bodyweight-squat",
+  exercise: "bodyweight-squat",
   isWarmup: false,
   note: "movement snack 4",
   reps: 20,

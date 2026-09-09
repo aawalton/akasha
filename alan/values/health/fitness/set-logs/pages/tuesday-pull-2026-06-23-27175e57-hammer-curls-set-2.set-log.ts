@@ -5,7 +5,7 @@ export const tuesdayPull2026062327175e57HammerCurlsSet2 = {
   pageTypeSlug: "set-log",
   slug: "tuesday-pull-2026-06-23-27175e57-hammer-curls-set-2",
   title: "Hammer Curls set 2",
-  exerciseSlug: "hammer-curls",
+  exercise: "hammer-curls",
   isWarmup: false,
   note: "8/10, each arm — elbow held clean at higher volume",
   reps: 15,

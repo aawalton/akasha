@@ -5,7 +5,7 @@ export const saturdayLegs2026062014b3a37bRomanianDeadliftSet1 = {
   pageTypeSlug: "set-log",
   slug: "saturday-legs-2026-06-20-14b3a37b-romanian-deadlift-set-1",
   title: "Romanian Deadlift set 1",
-  exerciseSlug: "romanian-deadlift",
+  exercise: "romanian-deadlift",
   isWarmup: false,
   note: "limiter felt like low-back strength, not hamstrings",
   reps: 12,

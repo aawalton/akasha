@@ -7,7 +7,7 @@ export const fridayPull2026070350a5aaeaCatStretchSet1 = {
   title: "Cat Stretch mobility 1",
   activityType: "mobility",
   durationSeconds: 120,
-  exerciseSlug: "cat-stretch",
+  exercise: "cat-stretch",
   note: "10 slow cat-cows, felt good — sore low/upper back moving well",
   sessionSlug: "friday-pull-2026-07-03-50a5aaea",
   setLogDate: "2026-07-03",

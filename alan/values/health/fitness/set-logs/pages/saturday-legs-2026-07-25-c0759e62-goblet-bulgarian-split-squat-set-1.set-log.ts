@@ -5,7 +5,7 @@ export const saturdayLegs20260725C0759e62GobletBulgarianSplitSquatSet1 = {
   pageTypeSlug: "set-log",
   slug: "saturday-legs-2026-07-25-c0759e62-goblet-bulgarian-split-squat-set-1",
   title: "Goblet Bulgarian Split Squat set 1",
-  exerciseSlug: "goblet-bulgarian-split-squat",
+  exercise: "goblet-bulgarian-split-squat",
   isWarmup: false,
   note: "12 total (6/side), held at 20 rather than the prescribed 20->25 jump: 22 days without loading (see #16062). Longer front-foot stance to reduce ankle dorsiflexion demand.",
   reps: 12,

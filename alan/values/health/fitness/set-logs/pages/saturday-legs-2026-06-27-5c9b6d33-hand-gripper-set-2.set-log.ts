@@ -5,7 +5,7 @@ export const saturdayLegs202606275c9b6d33HandGripperSet2 = {
   pageTypeSlug: "set-log",
   slug: "saturday-legs-2026-06-27-5c9b6d33-hand-gripper-set-2",
   title: "Hand Gripper set 2",
-  exerciseSlug: "hand-gripper",
+  exercise: "hand-gripper",
   isWarmup: false,
   note: "20 each hand, set 2",
   reps: 40,

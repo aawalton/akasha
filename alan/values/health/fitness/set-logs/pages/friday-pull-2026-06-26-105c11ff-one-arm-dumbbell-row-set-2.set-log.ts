@@ -5,7 +5,7 @@ export const fridayPull20260626105c11ffOneArmDumbbellRowSet2 = {
   pageTypeSlug: "set-log",
   slug: "friday-pull-2026-06-26-105c11ff-one-arm-dumbbell-row-set-2",
   title: "One-Arm Dumbbell Row set 2",
-  exerciseSlug: "one-arm-dumbbell-row",
+  exercise: "one-arm-dumbbell-row",
   isWarmup: false,
   note: "MAX-REP SET, 30 each arm, bench-braced. HUGE rep PR (was 12/arm). Back-supported = no low-back cost. He read 'push' as a max-rep green light (same pattern as the 30x20 bench)",
   reps: 30,

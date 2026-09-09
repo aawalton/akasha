@@ -5,7 +5,7 @@ export const fridayPull20260626105c11ffBentOverTwoDumbbellRowSet2 = {
   pageTypeSlug: "set-log",
   slug: "friday-pull-2026-06-26-105c11ff-bent-over-two-dumbbell-row-set-2",
   title: "Bent Over Two-Dumbbell Row set 2",
-  exerciseSlug: "bent-over-two-dumbbell-row",
+  exercise: "bent-over-two-dumbbell-row",
   isWarmup: true,
   note: "bridge warmup, still easy 4/10 (asked 8, did 12)",
   reps: 12,

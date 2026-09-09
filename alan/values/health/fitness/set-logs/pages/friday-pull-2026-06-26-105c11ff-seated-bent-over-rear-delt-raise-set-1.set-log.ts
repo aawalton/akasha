@@ -5,7 +5,7 @@ export const fridayPull20260626105c11ffSeatedBentOverRearDeltRaiseSet1 = {
   pageTypeSlug: "set-log",
   slug: "friday-pull-2026-06-26-105c11ff-seated-bent-over-rear-delt-raise-set-1",
   title: "Seated Bent-Over Rear Delt Raise set 1",
-  exerciseSlug: "seated-bent-over-rear-delt-raise",
+  exercise: "seated-bent-over-rear-delt-raise",
   isWarmup: false,
   note: "pinky-lead, strict. RPE8 (harder than 6/23's RPE7 — rear delts pre-fatigued from heavy rows). Solid working set",
   reps: 15,

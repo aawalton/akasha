@@ -5,7 +5,7 @@ export const thursdayPush20260625Bc9bc790InclineDumbbellPressSet1 = {
   pageTypeSlug: "set-log",
   slug: "thursday-push-2026-06-25-bc9bc790-incline-dumbbell-press-set-1",
   title: "Incline Dumbbell Press set 1",
-  exerciseSlug: "incline-dumbbell-press",
+  exercise: "incline-dumbbell-press",
   isWarmup: false,
   note: "45deg, ribs down/braced; muscle fatigue triceps to elbow, no joint pain. Target hit (was 8).",
   reps: 12,

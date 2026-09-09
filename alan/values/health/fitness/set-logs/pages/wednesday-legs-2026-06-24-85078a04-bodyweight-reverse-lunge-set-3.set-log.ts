@@ -5,7 +5,7 @@ export const wednesdayLegs2026062485078a04BodyweightReverseLungeSet3 = {
   pageTypeSlug: "set-log",
   slug: "wednesday-legs-2026-06-24-85078a04-bodyweight-reverse-lunge-set-3",
   title: "Bodyweight Reverse Lunge set 3",
-  exerciseSlug: "bodyweight-reverse-lunge",
+  exercise: "bodyweight-reverse-lunge",
   isWarmup: false,
   note: "movement snack 11",
   reps: 20,

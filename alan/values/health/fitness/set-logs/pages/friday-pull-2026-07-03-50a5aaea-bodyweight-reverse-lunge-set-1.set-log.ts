@@ -5,7 +5,7 @@ export const fridayPull2026070350a5aaeaBodyweightReverseLungeSet1 = {
   pageTypeSlug: "set-log",
   slug: "friday-pull-2026-07-03-50a5aaea-bodyweight-reverse-lunge-set-1",
   title: "Bodyweight Reverse Lunge set 1",
-  exerciseSlug: "bodyweight-reverse-lunge",
+  exercise: "bodyweight-reverse-lunge",
   isWarmup: false,
   note: "20 total alternating. Limiting factor lungs/heart, legs easy — conditioning work as designed.",
   reps: 20,

@@ -5,7 +5,7 @@ export const fridayPull2026070350a5aaeaPushupsSet1 = {
   pageTypeSlug: "set-log",
   slug: "friday-pull-2026-07-03-50a5aaea-pushups-set-1",
   title: "Pushups set 1",
-  exerciseSlug: "pushups",
+  exercise: "pushups",
   isWarmup: false,
   note: "Hands FLAT — best pushup form ever (normally on fists, wrists too stiff). 1 more good rep in tank, not 2.",
   reps: 10,

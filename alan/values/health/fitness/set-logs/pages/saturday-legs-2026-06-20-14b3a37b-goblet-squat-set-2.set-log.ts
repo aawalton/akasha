@@ -5,7 +5,7 @@ export const saturdayLegs2026062014b3a37bGobletSquatSet2 = {
   pageTypeSlug: "set-log",
   slug: "saturday-legs-2026-06-20-14b3a37b-goblet-squat-set-2",
   title: "Goblet Squat set 2",
-  exerciseSlug: "goblet-squat",
+  exercise: "goblet-squat",
   isWarmup: false,
   note: "legs strong from hiking; easy strength-wise — limiter is energy/conditioning, not load",
   reps: 10,

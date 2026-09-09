@@ -5,7 +5,7 @@ export const sundayRest202606289367f37cGobletSquatSet1 = {
   pageTypeSlug: "set-log",
   slug: "sunday-rest-2026-06-28-9367f37c-goblet-squat-set-1",
   title: "Goblet Squat set 1",
-  exerciseSlug: "goblet-squat",
+  exercise: "goblet-squat",
   isWarmup: false,
   note: "Primer, controlled, full depth — easy/trivial bilateral (matches the 30lb=trivial pattern; legs never the cap).",
   reps: 15,

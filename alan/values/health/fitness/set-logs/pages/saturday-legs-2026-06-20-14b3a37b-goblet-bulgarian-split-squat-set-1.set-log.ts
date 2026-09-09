@@ -5,7 +5,7 @@ export const saturdayLegs2026062014b3a37bGobletBulgarianSplitSquatSet1 = {
   pageTypeSlug: "set-log",
   slug: "saturday-legs-2026-06-20-14b3a37b-goblet-bulgarian-split-squat-set-1",
   title: "Goblet Bulgarian Split Squat set 1",
-  exerciseSlug: "goblet-bulgarian-split-squat",
+  exercise: "goblet-bulgarian-split-squat",
   isWarmup: false,
   note: "16 total (8/leg), rear foot elevated; shaking through most reps but held good form, paused a few times for balance",
   reps: 16,

@@ -5,7 +5,7 @@ export const wednesdayLegs20260624789253e9GobletBulgarianSplitSquatSet1 = {
   pageTypeSlug: "set-log",
   slug: "wednesday-legs-2026-06-24-789253e9-goblet-bulgarian-split-squat-set-1",
   title: "Goblet Bulgarian Split Squat set 1",
-  exerciseSlug: "goblet-bulgarian-split-squat",
+  exercise: "goblet-bulgarian-split-squat",
   isWarmup: false,
   reps: 16,
   rpe: 8,

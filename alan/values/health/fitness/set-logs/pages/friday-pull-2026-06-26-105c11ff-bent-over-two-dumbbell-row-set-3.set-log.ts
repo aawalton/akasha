@@ -5,7 +5,7 @@ export const fridayPull20260626105c11ffBentOverTwoDumbbellRowSet3 = {
   pageTypeSlug: "set-log",
   slug: "friday-pull-2026-06-26-105c11ff-bent-over-two-dumbbell-row-set-3",
   title: "Bent Over Two-Dumbbell Row set 3",
-  exerciseSlug: "bent-over-two-dumbbell-row",
+  exercise: "bent-over-two-dumbbell-row",
   isWarmup: false,
   note: "REP PR (was 30x12 @RPE8 on 6/23). Felt it a bit in lower back + neck — stabilizer/position fatigue at high reps, not lat failure",
   reps: 17,

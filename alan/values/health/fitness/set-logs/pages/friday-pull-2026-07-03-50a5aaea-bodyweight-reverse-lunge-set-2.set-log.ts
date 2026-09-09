@@ -5,7 +5,7 @@ export const fridayPull2026070350a5aaeaBodyweightReverseLungeSet2 = {
   pageTypeSlug: "set-log",
   slug: "friday-pull-2026-07-03-50a5aaea-bodyweight-reverse-lunge-set-2",
   title: "Bodyweight Reverse Lunge set 2",
-  exerciseSlug: "bodyweight-reverse-lunge",
+  exercise: "bodyweight-reverse-lunge",
   isWarmup: false,
   note: "Round 2, 20 total. Same difficulty as round 1 — engine held, no fade.",
   reps: 20,

@@ -5,7 +5,7 @@ export const tuesdayPull2026062327175e57SeatedBentOverRearDeltRaiseSet2 = {
   pageTypeSlug: "set-log",
   slug: "tuesday-pull-2026-06-23-27175e57-seated-bent-over-rear-delt-raise-set-2",
   title: "Seated Bent-Over Rear Delt Raise set 2",
-  exerciseSlug: "seated-bent-over-rear-delt-raise",
+  exercise: "seated-bent-over-rear-delt-raise",
   isWarmup: false,
   note: "jumped to 10lb DB; 7/10, strong rear-delt squeeze",
   reps: 15,

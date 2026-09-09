@@ -5,7 +5,7 @@ export const wednesdayLegs20260624789253e9DumbbellRearLungeSet1 = {
   pageTypeSlug: "set-log",
   slug: "wednesday-legs-2026-06-24-789253e9-dumbbell-rear-lunge-set-1",
   title: "Dumbbell Rear Lunge set 1",
-  exerciseSlug: "dumbbell-rear-lunge",
+  exercise: "dumbbell-rear-lunge",
   isWarmup: false,
   reps: 20,
   rpe: 5,

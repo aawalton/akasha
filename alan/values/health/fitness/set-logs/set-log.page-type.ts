@@ -5,7 +5,7 @@ import type { ActivityType } from "./properties/activity-type.select-property.ts
 import type { Day } from "./properties/day.relation-property.ts"
 import type { Distance } from "./properties/distance.number-property.ts"
 import type { DurationSeconds } from "./properties/duration-seconds.number-property.ts"
-import type { ExerciseSlug } from "./properties/exercise-slug.relation-property.ts"
+import type { Exercise } from "./properties/exercise.relation-property.ts"
 import type { IsWarmup } from "./properties/is-warmup.boolean-property.ts"
 import type { Note } from "./properties/note.text-property.ts"
 import type { Reps } from "./properties/reps.number-property.ts"
@@ -20,7 +20,7 @@ export type SetLog = Page & {
   activityType?: ActivityType
   distance?: Distance
   durationSeconds?: DurationSeconds
-  exerciseSlug: ExerciseSlug
+  exercise: Exercise
   isWarmup?: IsWarmup
   note?: Note
   reps?: Reps
@@ -48,7 +48,7 @@ export const setLog = {
     "number-property/rpe",
     "number-property/set-number",
     "number-property/weight",
-    "relation-property/exercise-slug",
+    "relation-property/exercise",
     "text-property/session-slug",
     "relation-property/day",
     "computed-property/set-volume",
@@ -60,7 +60,7 @@ export const setLog = {
     { pagePropertySlug: "select-property/activity-type", required: false, many: false },
     { pagePropertySlug: "number-property/distance", required: false, many: false },
     { pagePropertySlug: "number-property/duration-seconds", required: false, many: false },
-    { pagePropertySlug: "relation-property/exercise-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/exercise", required: true, many: false },
     { pagePropertySlug: "boolean-property/is-warmup", required: false, many: false },
     { pagePropertySlug: "text-property/note", required: false, many: false },
     { pagePropertySlug: "number-property/reps", required: false, many: false },

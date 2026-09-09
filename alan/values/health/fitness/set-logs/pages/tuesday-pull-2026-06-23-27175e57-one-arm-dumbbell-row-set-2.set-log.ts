@@ -5,7 +5,7 @@ export const tuesdayPull2026062327175e57OneArmDumbbellRowSet2 = {
   pageTypeSlug: "set-log",
   slug: "tuesday-pull-2026-06-23-27175e57-one-arm-dumbbell-row-set-2",
   title: "One-Arm Dumbbell Row set 2",
-  exerciseSlug: "one-arm-dumbbell-row",
+  exercise: "one-arm-dumbbell-row",
   isWarmup: false,
   note: "right arm, 7/10, bench-braced",
   reps: 12,
