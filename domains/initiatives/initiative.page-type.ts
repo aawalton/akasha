@@ -9,7 +9,7 @@ import type { ParentSlug } from "./properties/parent-slug.relation-property.ts"
 export type Initiative = Page & {
   domainSlug: DomainSlug
   personaSlug: InitiativePersonaSlug
-  parentSlug?: ParentSlug
+  parent?: ParentSlug
   intents?: Intents
   constraints?: readonly Constraints[]
 }

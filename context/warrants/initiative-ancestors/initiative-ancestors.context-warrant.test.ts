@@ -23,7 +23,7 @@ const AGENT = "01a0596c-0000-7000-8000-000000000009"
 test("a seat warrants the initiative the one it states is under", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   const top = initiativeListed(root, "one-work")
-  initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
+  initiativeListed(root, "one-step", `parent: "initiative/one-work"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)
   expect(pathsOf(initiativeAncestors(root, at))).toEqual([top.path])
 })
@@ -31,8 +31,8 @@ test("a seat warrants the initiative the one it states is under", () => {
 test("the chain is walked to the top rather than one step", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   const top = initiativeListed(root, "one-work")
-  const mid = initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
-  initiativeListed(root, "one-move", `parentSlug: "initiative/one-step"`)
+  const mid = initiativeListed(root, "one-step", `parent: "initiative/one-work"`)
+  initiativeListed(root, "one-move", `parent: "initiative/one-step"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-move"`)
   expect(pathsOf(initiativeAncestors(root, at))).toEqual([mid.path, top.path])
 })
@@ -40,15 +40,15 @@ test("the chain is walked to the top rather than one step", () => {
 test("the initiative the seat states is no ancestor of itself", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   initiativeListed(root, "one-work")
-  const mid = initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
+  const mid = initiativeListed(root, "one-step", `parent: "initiative/one-work"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)
   expect(pathsOf(initiativeAncestors(root, at))).not.toContain(mid.path)
 })
 
 test("a chain that turns back on itself is walked once", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
-  const one = initiativeListed(root, "one-work", `parentSlug: "initiative/two-work"`)
-  const two = initiativeListed(root, "two-work", `parentSlug: "initiative/one-work"`)
+  const one = initiativeListed(root, "one-work", `parent: "initiative/two-work"`)
+  const two = initiativeListed(root, "two-work", `parent: "initiative/one-work"`)
   const at = seatListed(root, "alpha", `assignmentSlug: "initiative/one-work"`)
   expect(pathsOf(initiativeAncestors(root, at))).toEqual([two.path])
   expect(pathsOf(initiativeAncestors(root, at))).not.toContain(one.path)
@@ -65,7 +65,7 @@ test("a seat stating no initiative warrants none", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   domainListed(root, "akasha-system")
   initiativeListed(root, "one-work")
-  initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
+  initiativeListed(root, "one-step", `parent: "initiative/one-work"`)
   const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)
   expect(pathsOf(initiativeAncestors(root, at))).toEqual([])
 })
@@ -86,7 +86,7 @@ test("an initiative whose page cannot be found warrants none", () => {
 
 test("a parent naming no initiative warrants none", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
-  initiativeListed(root, "one-step", `parentSlug: "initiative/ghost"`)
+  initiativeListed(root, "one-step", `parent: "initiative/ghost"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)
   expect(pathsOf(initiativeAncestors(root, at))).toEqual([])
 })
@@ -94,14 +94,14 @@ test("a parent naming no initiative warrants none", () => {
 test("only a seat warrants the initiatives above what it states", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   initiativeListed(root, "one-work")
-  const mid = initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
+  const mid = initiativeListed(root, "one-step", `parent: "initiative/one-work"`)
   expect(pathsOf(initiativeAncestors(root, mid.path))).toEqual([])
 })
 
 test("a warrant carries the body above, and why it is owed", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   const top = initiativeListed(root, "one-work")
-  initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
+  initiativeListed(root, "one-step", `parent: "initiative/one-work"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)
   const held = initiativeAncestors(root, at)[0]
   expect(held?.path).toBe(top.path)
@@ -114,7 +114,7 @@ test("a warrant carries the body above, and why it is owed", () => {
 test("an initiative above whose body is gone warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   const top = initiativeListed(root, "one-work")
-  initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
+  initiativeListed(root, "one-step", `parent: "initiative/one-work"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)
   rmSync(join(root, top.path))
   expect(pathsOf(initiativeAncestors(root, at))).toEqual([])
@@ -124,7 +124,7 @@ test("an initiative above not read is refused, and the refusal says why it is ow
   const root = scratch.rootFor("akasha-initiative-ancestors-")
   warrantsSeeded(root, ["initiative-ancestors"])
   const top = initiativeListed(root, "one-work")
-  initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
+  initiativeListed(root, "one-step", `parent: "initiative/one-work"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)
   const oid = writing(root, at, `export const one = { assignmentSlug: "initiative/one-step" }\n`)
   recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })

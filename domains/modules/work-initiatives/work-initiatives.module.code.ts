@@ -8,7 +8,7 @@ import { valueAt } from "../../../pages/value/page-value.module.code.ts"
 
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 
-const PARENT = "parent-slug"
+const PARENT = "parent"
 
 const PERSONA = "personaSlug"
 
@@ -48,10 +48,6 @@ function textIn(held: unknown): string | null {
   return typeof held === "string" && held !== "" ? held : null
 }
 
-// AN INTENT WITH NO STATEMENT IS NO INTENT, and is passed over rather than drawn as a row with an
-// empty label. The statement is required of an intent where the page type declares one, so a page
-// short of it is a page the write gate would have refused — this reads what is on disk, which is
-// not always what the gate last judged.
 function intentsIn(held: unknown): readonly InitiativeIntent[] {
   if (!Array.isArray(held)) return []
   const drawn: InitiativeIntent[] = []
@@ -65,10 +61,6 @@ function intentsIn(held: unknown): readonly InitiativeIntent[] {
   return drawn
 }
 
-// WHAT THE PAGE ITSELF CARRIES, TAKEN IN ONE OPENING RATHER THAN ONE FOR EACH KEY. The index files
-// identities and edges and no text, so both the persona and the intents have to come out of the
-// page body — and transpiling a body to read it is the dearest thing this module does, so it is
-// done once for each initiative however many keys are wanted off it.
 function heldAt(root: string, path: string): Held {
   const value = valueAt(path, root)
   if (value === null) return NOTHING_HELD

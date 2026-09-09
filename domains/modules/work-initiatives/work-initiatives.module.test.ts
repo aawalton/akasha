@@ -19,7 +19,7 @@ const INITIATIVE = "initiative"
 
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
 
-const PARENT_SLUG = "parent-slug"
+const PARENT = "parent"
 
 const scratch = scratchWorld()
 
@@ -37,15 +37,12 @@ function worldFor(typeSlug: string = INITIATIVE): string {
   return root
 }
 
-// The pages of a page type are read out of the value index, one line for each page, so that is
-// where a test puts them. The identity index answers which page carries one slug, which is a
-// narrower question than this panel asks.
 function filing(root: string, slug: string, id: string, typeSlug: string = INITIATIVE): undefined {
   valueAlsoFiled(root, typeSlug, [{ path: pathFor(slug, typeSlug), value: { id, slug } }])
 }
 
 function under(root: string, child: string, parent: string): undefined {
-  relationFiled(root, parent, PARENT_SLUG, child, [{ path: pathFor("naming"), id: child }])
+  relationFiled(root, parent, PARENT, child, [{ path: pathFor("naming"), id: child }])
 }
 
 test("every initiative the index files is drawn", () => {

@@ -11,7 +11,7 @@ const INITIATIVE_TYPE = "initiative"
 
 const KEY = "assignmentSlug"
 
-const PARENT_KEY = "parentSlug"
+const PARENT_KEY = "parent"
 
 function aboveOf(root: string, listed: Listed): Listed | undefined {
   const value = valueAt(listed.path, root)
