@@ -34,13 +34,6 @@ export interface ModeRecord {
 
 const START_MODE_KEY = "start-mode"
 
-function attributeOf(value: unknown): Attribute | null {
-  if (value === null || typeof value !== "object" || Array.isArray(value)) return null
-  const { slug } = value as { slug?: unknown }
-  if (typeof slug !== "string" || slug === "") return null
-  return { slug }
-}
-
 function onThePage(agent: string): Attributes {
   const values = pageValuesOf(agent)
   if (values === null) return {}
