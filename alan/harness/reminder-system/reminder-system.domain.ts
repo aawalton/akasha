@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const reminderSystem = {
   id: "01a05f42-d941-7000-8906-8852e706c156",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "reminder-system",
   definition: "what is sent to somebody at the times it names",
-  manifest: "json",
   parts: [
     "module/due-reminder-sending",
     "module/reminder-sending",
@@ -26,4 +25,4 @@ export const reminderSystem = {
       statement: "The service sending a reminder reads that reminder off the index.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -253,17 +253,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/harness/reminder-system": {
-      "name": "@akasha/reminder-system",
-      "dependencies": {
-        "@akasha/changes": "workspace:*",
-        "@akasha/command-system": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/seat-system": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "alan/harness/rules-engine": {
       "name": "@akasha/rules-engine",
     },
@@ -2803,8 +2792,6 @@
     "@akasha/readouts": ["@akasha/readouts@workspace:readouts"],
 
     "@akasha/recurrence": ["@akasha/recurrence@workspace:alan/harness/recurrence"],
-
-    "@akasha/reminder-system": ["@akasha/reminder-system@workspace:alan/harness/reminder-system"],
 
     "@akasha/royal-road": ["@akasha/royal-road@workspace:collections/royal-road"],
 
