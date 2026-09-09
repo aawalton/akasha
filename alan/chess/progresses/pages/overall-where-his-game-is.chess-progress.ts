@@ -1,4 +1,4 @@
-import type { ChessProgress } from "../chess-progress.page-type.ts"
+import type { ChessProgress } from "../chess-progress.page-type.types.ts"
 
 export const overallWhereHisGameIs = {
   id: "019f06ba-f589-719b-b29d-f2e1cc8efcd0",

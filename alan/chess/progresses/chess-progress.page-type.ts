@@ -1,26 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Description } from "../../../pages/properties/description.text-property.ts"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Category } from "../../../temper/things/properties/category.text-property.ts"
-import type { Icon } from "../../../temper/things/properties/icon.text-property.ts"
-import type { ActiveDrill } from "./properties/active-drill.boolean-property.ts"
-import type { ChessProgressStatus } from "./properties/chess-progress-status.select-property.ts"
-import type { LastReviewed } from "./properties/last-reviewed.calendar-date-property.ts"
-import type { MasteryLevel } from "./properties/mastery-level.select-property.ts"
-import type { MotifId } from "./properties/motif-id.text-property.ts"
-
-export type ChessProgress = Page & {
-  title: Title
-  category: Category
-  status: ChessProgressStatus
-  description: Description
-  motifId?: MotifId
-  masteryLevel?: MasteryLevel
-  lastReviewed?: LastReviewed
-  activeDrill?: ActiveDrill
-  icon?: Icon
-}
 
 export const chessProgress = {
   id: "01a06582-bd62-702f-92a4-3fd313251ee2",
@@ -67,4 +45,5 @@ export const chessProgress = {
       statement: "The prose here is Alan's coach writing about Alan rather than akasha's own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

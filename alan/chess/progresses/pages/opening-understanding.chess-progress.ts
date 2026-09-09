@@ -1,4 +1,4 @@
-import type { ChessProgress } from "../chess-progress.page-type.ts"
+import type { ChessProgress } from "../chess-progress.page-type.types.ts"
 
 export const openingUnderstanding = {
   id: "019f06ba-f888-74c4-bb8a-c02e6cef7203",

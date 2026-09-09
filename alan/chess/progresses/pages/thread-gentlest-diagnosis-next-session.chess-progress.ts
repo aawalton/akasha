@@ -1,4 +1,4 @@
-import type { ChessProgress } from "../chess-progress.page-type.ts"
+import type { ChessProgress } from "../chess-progress.page-type.types.ts"
 
 export const threadGentlestDiagnosisNextSession = {
   id: "019f06ba-fb5a-7ae1-8cd5-86494259dbfe",
