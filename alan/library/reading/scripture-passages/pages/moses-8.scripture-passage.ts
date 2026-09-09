@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../scripture-passage.page-type.ts"
 
 export const moses8 = {
   id: "01a06804-11af-7052-bd3f-56f4c11a9825",
