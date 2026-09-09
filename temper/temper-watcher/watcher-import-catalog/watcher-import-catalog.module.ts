@@ -31,7 +31,7 @@ export const watcherImportCatalog = {
     },
     {
       invariantKind: "constraint",
-      statement: "A capture holding no catalog domain changes no page.",
+      statement: "A capture with no catalog domain changes no page.",
     },
     {
       invariantKind: "departure",

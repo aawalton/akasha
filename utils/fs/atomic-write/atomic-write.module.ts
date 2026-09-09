@@ -33,7 +33,7 @@ export const atomicWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "A runtime holding no `Bun` read this module as working until a write was busy.",
+      statement: "A runtime with no `Bun` read this module as working until a write was busy.",
     },
     {
       invariantKind: "departure",

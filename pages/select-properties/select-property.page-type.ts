@@ -10,7 +10,7 @@ export const selectProperty = {
   id: "01a063de-2c60-7003-a9bc-92d52325a70d",
   pageTypeSlug: "page-type",
   slug: "select-property",
-  definition: "a page property holding one of a set of values the property states",
+  definition: "a page property with one of a set of values the property states",
   pluralSlug: "select-properties",
   partSlugs: ["text-property/select-values"],
   extendsSlug: ["page-type/page-property"],

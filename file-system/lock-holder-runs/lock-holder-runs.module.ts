@@ -14,7 +14,7 @@ export const lockHolderRuns = {
     },
     {
       invariantKind: "departure",
-      statement: "A lock file holding anything but one positive whole number names no live holder.",
+      statement: "A lock file with anything but one positive whole number names no live holder.",
     },
     {
       invariantKind: "departure",

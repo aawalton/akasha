@@ -30,7 +30,7 @@ export const namedFolderProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A page claims a folder by stating the property holding that folder.",
+      statement: "A page claims a folder by stating the property with that folder.",
     },
     {
       invariantKind: "departure",

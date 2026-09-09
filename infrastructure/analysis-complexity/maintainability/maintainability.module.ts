@@ -9,7 +9,7 @@ export const maintainability = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file holding no function measures one hundred.",
+      statement: "A file with no function measures one hundred.",
     },
     {
       invariantKind: "departure",

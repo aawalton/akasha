@@ -23,8 +23,7 @@ export const pageTypeDescent = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A caller holding the index as its change leaves that index is answered from that.",
+      statement: "A caller with the index as its change leaves that index is answered from that.",
     },
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const libSetsLocInstallLocalization = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The localization table is created here holding German and English alone.",
+      statement: "The localization table is created here with German and English alone.",
     },
     {
       invariantKind: "departure",

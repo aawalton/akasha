@@ -105,7 +105,7 @@ export const indexing = {
     {
       invariantKind: "departure",
       statement:
-        "The paths a change withdraws are read against the files the page types held before the change.",
+        "The paths a change withdraws are read against the files the page types had before the change.",
     },
     {
       invariantKind: "departure",

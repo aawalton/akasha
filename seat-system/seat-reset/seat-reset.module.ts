@@ -4,7 +4,7 @@ export const seatReset = {
   id: "01a069cb-0380-715a-9d83-e8177fb074e2",
   pageTypeSlug: "module",
   slug: "seat-reset",
-  definition: "a new agent sat down in a named seat, holding every declaration the seat states",
+  definition: "a new agent sat down in a named seat, with every declaration the seat states",
   code: "ts",
   invariants: [
     {

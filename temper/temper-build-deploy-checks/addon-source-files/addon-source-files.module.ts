@@ -41,7 +41,7 @@ export const addonSourceFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "Five checks each held a reading of their own before this module.",
+      statement: "Five checks each had a reading of their own before this module.",
     },
   ],
 } as const satisfies Module

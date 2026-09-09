@@ -5,6 +5,6 @@ export const seatNameStands = {
   pageTypeSlug: "module",
   slug: "seat-name-stands",
   definition:
-    "the name a seat carries next, holding the old one where it does not move with attributes",
+    "the name a seat carries next, with the old one where it does not move with attributes",
   code: "ts",
 } as const satisfies Module

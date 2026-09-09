@@ -73,7 +73,7 @@ export const nav = {
     },
     {
       invariantKind: "departure",
-      statement: "A nav item is found by slug rather than by a marker key holding a constant.",
+      statement: "A nav item is found by slug rather than by a marker key with a constant.",
     },
   ],
 } as const satisfies PageType

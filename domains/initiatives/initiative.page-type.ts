@@ -51,7 +51,7 @@ export const initiative = {
     {
       invariantKind: "departure",
       statement:
-        "An initiative takes each intent off the domain that held the intent and has the intent as its own.",
+        "An initiative takes each intent off the domain that had the intent and has the intent as its own.",
     },
     {
       invariantKind: "departure",

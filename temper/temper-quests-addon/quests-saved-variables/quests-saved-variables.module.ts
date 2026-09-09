@@ -14,7 +14,7 @@ export const questsSavedVariables = {
     },
     {
       invariantKind: "departure",
-      statement: "Settings the character addon held are carried over once.",
+      statement: "Settings the character addon had are carried over once.",
     },
     {
       invariantKind: "departure",

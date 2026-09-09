@@ -14,7 +14,7 @@ export const dungeonChampionPlaces = {
     },
     {
       invariantKind: "constraint",
-      statement: "The groups are spread in the order the source table held the zones.",
+      statement: "The groups are spread in the order the source table had the zones.",
     },
     {
       invariantKind: "upkeep",
