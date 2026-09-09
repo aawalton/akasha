@@ -3,6 +3,7 @@ import type { ChangeMechanicalFolder } from "../../change-mechanical-folder.page
 export const removeFolder = {
   id: "01a08231-44a2-7e00-bd04-119872f58319",
   pageTypeSlug: "change-mechanical-folder",
+  type: "change-mechanical-folder",
   slug: "remove-folder",
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/folder",

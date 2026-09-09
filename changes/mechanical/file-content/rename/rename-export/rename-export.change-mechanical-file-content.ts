@@ -3,6 +3,7 @@ import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-c
 export const renameExport = {
   id: "01a07718-c9b7-70da-a720-619f59483340",
   pageTypeSlug: "change-mechanical-file-content",
+  type: "change-mechanical-file-content",
   slug: "rename-export",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file-content",

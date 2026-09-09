@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const renamePagePropertyPropertySlug = {
   id: "01a0819e-9047-7f45-850f-d66e47cf03e4",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "rename-page-property-property-slug",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/page-property",

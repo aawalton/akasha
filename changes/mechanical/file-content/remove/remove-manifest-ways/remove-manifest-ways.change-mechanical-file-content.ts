@@ -3,6 +3,7 @@ import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-c
 export const removeManifestWays = {
   id: "01a0798b-3398-72f0-8d29-c5c8301326de",
   pageTypeSlug: "change-mechanical-file-content",
+  type: "change-mechanical-file-content",
   slug: "remove-manifest-ways",
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/file-content",

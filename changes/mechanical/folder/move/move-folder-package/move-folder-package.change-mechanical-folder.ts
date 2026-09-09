@@ -3,6 +3,7 @@ import type { ChangeMechanicalFolder } from "../../change-mechanical-folder.page
 export const moveFolderPackage = {
   id: "01a08240-de06-760d-bf8c-d82a5881e24b",
   pageTypeSlug: "change-mechanical-folder",
+  type: "change-mechanical-folder",
   slug: "move-folder-package",
   changeMode: "change-mode-move",
   changeTargetType: "change-target-type/folder",

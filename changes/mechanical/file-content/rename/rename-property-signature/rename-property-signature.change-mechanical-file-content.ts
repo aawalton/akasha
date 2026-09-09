@@ -3,6 +3,7 @@ import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-c
 export const renamePropertySignature = {
   id: "01a07718-c9b6-74eb-b71b-e0d52b81f5b7",
   pageTypeSlug: "change-mechanical-file-content",
+  type: "change-mechanical-file-content",
   slug: "rename-property-signature",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file-content",

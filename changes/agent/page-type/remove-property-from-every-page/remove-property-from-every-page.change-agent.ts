@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const removePropertyFromEveryPage = {
   id: "01a081b9-ad8c-70a8-ab31-382461b45312",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "remove-property-from-every-page",
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/page-type",

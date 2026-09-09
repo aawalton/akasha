@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const changePropertyRecordField = {
   id: "01a081db-f317-7907-8d05-07fbaed64a3d",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "change-property-record-field",
   changeMode: "change-mode-change",
   definition: "one field of one record a page's many-valued property has, stated anew",

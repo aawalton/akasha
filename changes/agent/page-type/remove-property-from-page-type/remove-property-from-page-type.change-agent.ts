@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const removePropertyFromPageType = {
   id: "01a08287-d90b-7f07-9a9e-bf6209c40126",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "remove-property-from-page-type",
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/page-type",

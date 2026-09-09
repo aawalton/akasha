@@ -3,6 +3,7 @@ import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
 export const moveCodeExport = {
   id: "01a08799-4f75-7fb6-bcf9-3392494a57da",
   pageTypeSlug: "change-mechanical",
+  type: "change-mechanical",
   slug: "move-code-export",
   changeMode: "change-mode-move",
   changeTargetType: "change-target-type/file-content",

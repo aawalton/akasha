@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const addPropertyToPageType = {
   id: "01a081e1-00ca-7879-a25f-c734368cb78a",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "add-property-to-page-type",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/page-type",

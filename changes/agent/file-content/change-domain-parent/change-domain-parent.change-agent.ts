@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const changeDomainParent = {
   id: "01a0795e-9c4f-7299-9238-117baca6b57e",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "change-domain-parent",
   changeMode: "change-mode-change",
   definition: "one page made a part of another page rather than of the page naming it now",

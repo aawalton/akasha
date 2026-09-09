@@ -3,6 +3,7 @@ import type { ChangeMechanicalFile } from "../../change-mechanical-file.page-typ
 export const addIfNotPresentFile = {
   id: "01a08188-1037-7ddd-b5cb-c727ac6ef590",
   pageTypeSlug: "change-mechanical-file",
+  type: "change-mechanical-file",
   slug: "add-if-not-present-file",
   changeMode: "change-mode-add-if-not-present",
   changeTargetType: "change-target-type/file",

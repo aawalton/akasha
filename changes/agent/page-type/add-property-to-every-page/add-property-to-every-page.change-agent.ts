@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const addPropertyToEveryPage = {
   id: "01a08177-a04c-7a4b-9516-1d7be9d3f724",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "add-property-to-every-page",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/page-type",

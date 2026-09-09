@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const changeProsePattern = {
   id: "01a0824b-a376-7b9f-a01a-c3a1e81c3286",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "change-prose-pattern",
   changeMode: "change-mode-change",
   changeTargetType: "change-target-type/prose",

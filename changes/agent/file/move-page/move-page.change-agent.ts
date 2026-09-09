@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const movePage = {
   id: "01a07883-67ee-7249-9045-121a02fac4bf",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "move-page",
   changeMode: "change-mode-move",
   definition: "one page and the files beside that page moved into another folder",

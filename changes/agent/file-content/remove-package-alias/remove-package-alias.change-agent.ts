@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const removePackageAlias = {
   id: "01a07c16-3e5f-7641-95c5-a6e485991ad1",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "remove-package-alias",
   changeMode: "change-mode-remove",
   definition: "the alias a renamed package was reached under taken out of every manifest",

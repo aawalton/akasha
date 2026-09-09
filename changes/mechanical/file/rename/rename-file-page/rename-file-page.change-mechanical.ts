@@ -3,6 +3,7 @@ import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
 export const renameFilePage = {
   id: "01a08239-8d1d-7b49-a5c2-fc039de37378",
   pageTypeSlug: "change-mechanical",
+  type: "change-mechanical",
   slug: "rename-file-page",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file",

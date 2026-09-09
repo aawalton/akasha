@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const renamePages = {
   id: "01a08337-0d7c-7cd3-bad9-c30420f68ccf",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "rename-pages",
   changeMode: "change-mode-rename",
   definition: "many pages renamed and carried to where their slugs say, in one call",

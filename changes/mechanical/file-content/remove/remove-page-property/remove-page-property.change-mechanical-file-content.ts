@@ -3,6 +3,7 @@ import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-c
 export const removePageProperty = {
   id: "01a081b6-70d4-7587-bf68-8de27965382c",
   pageTypeSlug: "change-mechanical-file-content",
+  type: "change-mechanical-file-content",
   slug: "remove-page-property",
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/file-content",

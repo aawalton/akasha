@@ -3,6 +3,7 @@ import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-c
 export const changePropertyRecordField = {
   id: "01a081da-03ff-76a3-b753-0344b352daa3",
   pageTypeSlug: "change-mechanical-file-content",
+  type: "change-mechanical-file-content",
   slug: "change-property-record-field",
   changeMode: "change-mode-change",
   changeTargetType: "change-target-type/file-content",

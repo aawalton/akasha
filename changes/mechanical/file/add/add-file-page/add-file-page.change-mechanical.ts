@@ -3,6 +3,7 @@ import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
 export const addFilePage = {
   id: "01a07976-d290-7a2a-b91c-bc7a0bc36dca",
   pageTypeSlug: "change-mechanical",
+  type: "change-mechanical",
   slug: "add-file-page",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/file",

@@ -3,6 +3,7 @@ import type { ChangeMechanical } from "../../../change-mechanical.page-type.ts"
 export const removeFilePageType = {
   id: "01a0821c-f3eb-7546-bbf0-34de118159a5",
   pageTypeSlug: "change-mechanical",
+  type: "change-mechanical",
   slug: "remove-file-page-type",
   changeMode: "change-mode-remove",
   changeTargetType: "change-target-type/file",

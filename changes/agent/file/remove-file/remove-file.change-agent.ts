@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const removeFile = {
   id: "01a07991-8989-7000-8e13-06e6791ebefb",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "remove-file",
   changeMode: "change-mode-remove",
   definition: "one file taken away, judged by the checks a landing runs",

@@ -3,6 +3,7 @@ import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-c
 export const addPageProperty = {
   id: "01a08174-b09a-7bbd-acf1-6892ecfb3575",
   pageTypeSlug: "change-mechanical-file-content",
+  type: "change-mechanical-file-content",
   slug: "add-page-property",
   changeMode: "change-mode-add",
   changeTargetType: "change-target-type/file-content",

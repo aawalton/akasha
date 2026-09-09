@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const moveFolderPackage = {
   id: "01a07c5e-055f-7000-a6d5-243a29d1858a",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "move-folder-package",
   changeMode: "change-mode-move",
   definition: "a workspace package moved to another folder, taking the slug that folder names",

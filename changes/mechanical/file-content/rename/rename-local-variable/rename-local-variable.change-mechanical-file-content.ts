@@ -3,6 +3,7 @@ import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-c
 export const renameLocalVariable = {
   id: "01a07718-c9b5-7a1b-822f-308aef9ac22a",
   pageTypeSlug: "change-mechanical-file-content",
+  type: "change-mechanical-file-content",
   slug: "rename-local-variable",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file-content",

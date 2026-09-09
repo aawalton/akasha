@@ -3,6 +3,7 @@ import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-c
 export const renameEntryKey = {
   id: "01a08763-9f88-79a2-8f08-e50cbca9c517",
   pageTypeSlug: "change-mechanical-file-content",
+  type: "change-mechanical-file-content",
   slug: "rename-entry-key",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file-content",

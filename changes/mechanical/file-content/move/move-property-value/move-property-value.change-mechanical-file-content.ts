@@ -3,6 +3,7 @@ import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-c
 export const movePropertyValue = {
   id: "01a081e2-edda-7fdd-bb18-0b5905ce5680",
   pageTypeSlug: "change-mechanical-file-content",
+  type: "change-mechanical-file-content",
   slug: "move-property-value",
   changeMode: "change-mode-move",
   changeTargetType: "change-target-type/file-content",

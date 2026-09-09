@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const nestCommands = {
   id: "01a081b3-c5cb-70ec-b343-6e3500108eae",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "nest-commands",
   changeMode: "change-mode-move",
   definition: "one namespace's commands made its parts and moved into its folder",

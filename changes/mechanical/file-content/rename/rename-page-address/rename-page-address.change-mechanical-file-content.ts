@@ -3,6 +3,7 @@ import type { ChangeMechanicalFileContent } from "../../change-mechanical-file-c
 export const renamePageAddress = {
   id: "01a07bd5-a749-7789-bfa6-a2a288d8f0c7",
   pageTypeSlug: "change-mechanical-file-content",
+  type: "change-mechanical-file-content",
   slug: "rename-page-address",
   changeMode: "change-mode-rename",
   changeTargetType: "change-target-type/file-content",

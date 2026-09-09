@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const removePackageManifest = {
   id: "01a08294-60d3-7068-afff-2fa2afcd468a",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "remove-package-manifest",
   changeMode: "change-mode-remove",
   definition:

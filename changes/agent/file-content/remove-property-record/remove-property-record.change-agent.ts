@@ -3,6 +3,7 @@ import type { ChangeAgent } from "../../change-agent.page-type.ts"
 export const removePropertyRecord = {
   id: "01a081ee-d2ea-7846-af0b-049ae0500371",
   pageTypeSlug: "change-agent",
+  type: "change-agent",
   slug: "remove-property-record",
   changeMode: "change-mode-remove",
   definition: "one record taken out of one page property, judged by the checks a landing runs",
