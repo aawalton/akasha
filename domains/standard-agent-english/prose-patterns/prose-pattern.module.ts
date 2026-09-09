@@ -7,6 +7,7 @@ export const prosePattern = {
   definition: "where a construction is in a sentence, read off that sentence's tree",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
