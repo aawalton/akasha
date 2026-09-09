@@ -4,7 +4,7 @@ export const aura = {
   id: "01a06736-77e0-7000-aa7d-696e94d6de89",
   pageTypeSlug: "seat",
   slug: "aura",
-  persona: "aura",
+  personaSlug: "aura",
   assignmentSlug: "initiative/aura-harness-drive",
   role: "definer",
   person: "alan",
