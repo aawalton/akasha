@@ -217,6 +217,8 @@ export function costRecorded(
   )
 }
 
+const NAMES_NO_PAGE = "names no page, so what a run cost is recorded nowhere"
+
 export function recordCost(root: string, page: string, cost: Cost): string | null {
   const line = lineFor(cost)
   const at = fillingAt(root, page, Buffer.byteLength(line, "utf8"))
@@ -225,6 +227,7 @@ export function recordCost(root: string, page: string, cost: Cost): string | nul
     appendFileSync(join(root, at), line)
     return at
   } catch {
+    if (!existsSync(join(root, page))) throw new Error(`\`${page}\` ${NAMES_NO_PAGE}`)
     return null
   }
 }

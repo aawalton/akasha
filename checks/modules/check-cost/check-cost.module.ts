@@ -92,7 +92,16 @@ export const checkCost = {
     },
     {
       invariantKind: "absence",
-      statement: "A disk that refuses a line leaves the run's answer alone.",
+      statement:
+        "A disk that refuses a line for a page that is there leaves the run's answer alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A line for a path naming no page refuses the run rather than being dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two are told apart by whether the page named is there.",
     },
     {
       invariantKind: "gap",

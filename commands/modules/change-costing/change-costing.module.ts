@@ -27,9 +27,5 @@ export const changeCosting = {
       invariantKind: "absence",
       statement: "Nothing here measures or appends, as one module does both for every run.",
     },
-    {
-      invariantKind: "absence",
-      statement: "A disk that refuses a line leaves the run's answer alone.",
-    },
   ],
 } as const satisfies Module
