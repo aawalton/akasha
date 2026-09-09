@@ -3,19 +3,19 @@
 import { cn } from "@akasha/design-primitives/cn"
 import { Heading } from "@akasha/design-primitives/heading"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { sortEffectsByCategory } from "@akasha/temper-companions-core/companion-effect-category"
-import type { CompanionSkillTemplate } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
-import { extractSkillTiming } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
-import { isResourceCostEffect } from "@akasha/temper-companions-core/companion-skill-effect-components"
-import type { CompanionFormulaStats } from "@akasha/temper-companions-core/companion-skill-formula"
-import {
-  extractPrimaryTargeting,
-  updateDescriptionWithCalculatedValues,
-} from "@akasha/temper-companions-core/companion-skill-tooltip"
 import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { formatAbbreviated } from "@akasha/temper-formula-framework/number-format"
 import { capitalize } from "@akasha/utils/narrow/capitalize"
 import { BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { sortEffectsByCategory } from "akasha/temper/temper-companions-core/companion-effect-category/companion-effect-category.module.code.ts"
+import type { CompanionSkillTemplate } from "akasha/temper/temper-companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import { extractSkillTiming } from "akasha/temper/temper-companions-core/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import { isResourceCostEffect } from "akasha/temper/temper-companions-core/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/temper-companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
+import {
+  extractPrimaryTargeting,
+  updateDescriptionWithCalculatedValues,
+} from "akasha/temper/temper-companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
 import type { ReactNode } from "react"
 import { CollapsibleSkillCard } from "../collapsible-skill-card/collapsible-skill-card.module.code.tsx"
 import { ConstraintBadges } from "../constraint-badges/constraint-badges.module.code.tsx"

@@ -9,7 +9,7 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { type TargetArmorId, targetArmor } from "@akasha/temper-character-sources/target-armors"
-import type { CompanionTargetHealthId } from "@akasha/temper-companions-core/companion-types"
+import type { CompanionTargetHealthId } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import { useCompanionMetadata } from "../use-companion/use-companion.module.code.ts"
 
 interface CompanionTargetPanelCardProps {

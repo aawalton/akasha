@@ -11,23 +11,23 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import { getCompanionWeaponIcon } from "@akasha/temper-companions-core/companion-equipment-icons"
-import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { AVAILABLE_QUALITY_OPTIONS } from "@akasha/temper-companions-core/companion-equipment-quality-rules"
-import {
-  type CompanionTraitId,
-  companionTraits,
-} from "@akasha/temper-companions-core/companion-traits"
-import type { CompanionWeaponSlotItem } from "@akasha/temper-companions-core/companion-types"
-import {
-  type CompanionWeaponSlotId,
-  companionWeaponSlots,
-} from "@akasha/temper-companions-core/companion-weapon-slots"
-import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
 import { weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
+import { getCompanionWeaponIcon } from "akasha/temper/temper-companions-core/companion-equipment-icons/companion-equipment-icons.module.code.ts"
+import type { CompanionEquipmentQualityId } from "akasha/temper/temper-companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { companionEquipmentQualities } from "akasha/temper/temper-companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { AVAILABLE_QUALITY_OPTIONS } from "akasha/temper/temper-companions-core/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
+import {
+  type CompanionTraitId,
+  companionTraits,
+} from "akasha/temper/temper-companions-core/companion-traits/companion-traits.module.code.ts"
+import type { CompanionWeaponSlotItem } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import {
+  type CompanionWeaponSlotId,
+  companionWeaponSlots,
+} from "akasha/temper/temper-companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
+import { companionWeaponTypes } from "akasha/temper/temper-companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
 import {
   getQualityClassName,
   getQualityVariant,

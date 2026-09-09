@@ -1,13 +1,3 @@
-import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
-import {
-  ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
-  ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT,
-  ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
-} from "@akasha/temper-companions-core/companion-eso-trait-map"
-import { companionJewelrySlots } from "@akasha/temper-companions-core/companion-jewelry-slots"
-import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
-import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
-import { companions as companionsData } from "@akasha/temper-companions-core/companions"
 import {
   PLAYER_ARMOR_TRAIT_TO_ESO,
   PLAYER_JEWELRY_TRAIT_TO_ESO,
@@ -27,6 +17,16 @@ import {
 } from "@akasha/temper-items-core/eso-player-equipment-constants-data"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import { companionArmorSlots } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
+import {
+  ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT,
+  ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT,
+  ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT,
+} from "akasha/temper/temper-companions-core/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
+import { companionJewelrySlots } from "akasha/temper/temper-companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
+import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import { companionWeaponTypes } from "akasha/temper/temper-companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { companions as companionsData } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,

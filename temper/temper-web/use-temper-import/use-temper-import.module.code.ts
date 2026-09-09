@@ -4,13 +4,13 @@ import { upsertPage } from "@akasha/pages-access/upsert"
 import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import { getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
 import type {
   AccountCompletion,
   CharacterCompletion,
   CompanionCompletion,
 } from "@akasha/temper-completion/completion-progress"
 import { parseSavedVariablesContent } from "akasha/temper/completion-import/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
+import { getCompanionIdByDefId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import { classifyCompletionImport } from "akasha/temper/temper-player-completion/completion-import-outcome/completion-import-outcome.module.code.ts"
 import {
   mergeAccountCompletionForward,

@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { asPage } from "@akasha/pages-core/page-types"
-import { createNewCompanion } from "@akasha/temper-companions-core/companion-factory"
 import { asRecord } from "@akasha/utils/narrow/as-record"
+import { createNewCompanion } from "akasha/temper/temper-companions-core/companion-factory/companion-factory.module.code.ts"
 import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
   COMPANION_IDS_WITH_DEF_ID,

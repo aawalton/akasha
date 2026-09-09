@@ -3,20 +3,6 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
-import {
-  type CompanionBaseRoleId,
-  companionBaseRoles,
-  getBaseRoleName,
-} from "@akasha/temper-companions-core/companion-base-roles"
-import {
-  type ComboRankingsMap,
-  displayRoleComboKey,
-  mapBaseRolesToDisplayRoles,
-} from "@akasha/temper-companions-core/companion-leaderboard"
-import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
-import { getWeaponRole } from "@akasha/temper-companions-core/companion-weapon-role-match"
-import { companionWeaponRoles } from "@akasha/temper-companions-core/companion-weapon-roles"
-import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { Badge, IconBadge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
@@ -24,6 +10,20 @@ import {
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
+import {
+  type CompanionBaseRoleId,
+  companionBaseRoles,
+  getBaseRoleName,
+} from "akasha/temper/temper-companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+import {
+  type ComboRankingsMap,
+  displayRoleComboKey,
+  mapBaseRolesToDisplayRoles,
+} from "akasha/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
+import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import { getWeaponRole } from "akasha/temper/temper-companions-core/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
+import { companionWeaponRoles } from "akasha/temper/temper-companions-core/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import { Search, Trophy } from "lucide-react"
 
 interface CompanionPlanBuild {

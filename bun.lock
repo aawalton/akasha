@@ -45,7 +45,6 @@
         "@akasha/temper-capture-shapes": "workspace:*",
         "@akasha/temper-catalog-core": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
@@ -952,7 +951,6 @@
       "name": "@akasha/temper-addon-generators",
       "dependencies": {
         "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
@@ -989,7 +987,6 @@
       "name": "@akasha/temper-build-metadata",
       "dependencies": {
         "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-companions-core": "workspace:*",
       },
     },
     "temper/build-support": {
@@ -1226,17 +1223,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/temper-companions-core": {
-      "name": "@akasha/temper-companions-core",
-      "dependencies": {
-        "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-equipment-kinds": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/temper-skill-kinds": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/temper-crafting-addon": {
       "name": "@akasha/temper-crafting-addon",
       "dependencies": {
@@ -1296,7 +1282,6 @@
       "name": "@akasha/temper-items-core",
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
@@ -1310,7 +1295,6 @@
       "name": "@akasha/temper-items-rules-core",
       "dependencies": {
         "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
@@ -1416,7 +1400,6 @@
         "@akasha/temper-build-metadata": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
@@ -1650,8 +1633,6 @@
     "@akasha/temper-combat-addon": ["@akasha/temper-combat-addon@workspace:temper/temper-combat-addon"],
 
     "@akasha/temper-companions-addon": ["@akasha/temper-companions-addon@workspace:temper/temper-companions-addon"],
-
-    "@akasha/temper-companions-core": ["@akasha/temper-companions-core@workspace:temper/temper-companions-core"],
 
     "@akasha/temper-completion": ["@akasha/temper-completion@workspace:temper/completion"],
 

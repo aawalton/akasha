@@ -17,15 +17,15 @@ import {
 } from "@akasha/design-primitives/table"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
+import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import {
   type ComboRankingsMap,
   displayRoleComboKey,
   displayRolesToAbbreviation,
   type RankedEntry,
-} from "@akasha/temper-companions-core/companion-leaderboard"
-import type { CompanionId } from "@akasha/temper-companions-core/companions"
-import { companions } from "@akasha/temper-companions-core/companions"
-import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
+} from "akasha/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
+import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import { useMemo } from "react"
 import { LEADERBOARD_COLUMNS } from "../leaderboard-columns/leaderboard-columns.module.code.ts"
 

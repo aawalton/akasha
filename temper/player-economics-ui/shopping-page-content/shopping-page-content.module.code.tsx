@@ -9,7 +9,7 @@ import { useFilterPersistence } from "@akasha/design-patterns/use-filter-persist
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
-} from "@akasha/temper-companions-core/companion-equipment-qualities"
+} from "akasha/temper/temper-companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { Handshake, ShoppingCart } from "lucide-react"
 import { Suspense } from "react"
 import { CompanionShoppingDataContent } from "../companion-shopping-data-content/companion-shopping-data-content.module.code.tsx"

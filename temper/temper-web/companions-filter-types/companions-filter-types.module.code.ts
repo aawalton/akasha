@@ -1,12 +1,15 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { type TargetArmorId, targetArmor } from "@akasha/temper-character-sources/target-armors"
-import { companionBaseRoles } from "@akasha/temper-companions-core/companion-base-roles"
+import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { companionBaseRoles } from "akasha/temper/temper-companions-core/companion-base-roles/companion-base-roles.module.code.ts"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
-} from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { type CompanionId, companions } from "@akasha/temper-companions-core/companions"
-import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+} from "akasha/temper/temper-companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import {
+  type CompanionId,
+  companions,
+} from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import type { SortField } from "../companions-filter-bar/companions-filter-bar.module.code.tsx"
 
 export type TabValue = "plan" | "build" | "browse" | "leaderboard"

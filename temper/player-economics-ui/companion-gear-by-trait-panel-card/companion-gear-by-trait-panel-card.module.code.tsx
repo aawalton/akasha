@@ -3,8 +3,6 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ItemRow } from "@akasha/design-patterns/item-row"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
-import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
 import {
   aggregateUnfulfilledByTraitQuality,
   type CompanionGearNeed,
@@ -14,6 +12,8 @@ import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/co
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { companionEquipmentQualities } from "akasha/temper/temper-companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { companionTraits } from "akasha/temper/temper-companions-core/companion-traits/companion-traits.module.code.ts"
 import {
   getQualityClassName,
   getQualityVariant,

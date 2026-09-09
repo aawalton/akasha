@@ -11,26 +11,26 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import { getCompanionJewelryIcon } from "@akasha/temper-companions-core/companion-equipment-icons"
-import type { CompanionEquipmentQualityId } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
+import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
+import { getCompanionJewelryIcon } from "akasha/temper/temper-companions-core/companion-equipment-icons/companion-equipment-icons.module.code.ts"
+import type { CompanionEquipmentQualityId } from "akasha/temper/temper-companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { companionEquipmentQualities } from "akasha/temper/temper-companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import {
   capQualityForSlot,
   getAvailableQualityOptions,
   LEGENDARY_QUALITY_OPTIONS,
-} from "@akasha/temper-companions-core/companion-equipment-quality-rules"
+} from "akasha/temper/temper-companions-core/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
 import {
   type CompanionJewelrySlotId,
   companionJewelrySlots,
-} from "@akasha/temper-companions-core/companion-jewelry-slots"
+} from "akasha/temper/temper-companions-core/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import {
   type CompanionTraitId,
   companionTraits,
-} from "@akasha/temper-companions-core/companion-traits"
-import type { CompanionJewelrySlotItem } from "@akasha/temper-companions-core/companion-types"
-import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
-import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
+} from "akasha/temper/temper-companions-core/companion-traits/companion-traits.module.code.ts"
+import type { CompanionJewelrySlotItem } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import {
   getQualityClassName,
   getQualityVariant,

@@ -7,11 +7,14 @@ import { FilterButton } from "@akasha/design-patterns/filter-button"
 import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { TabsContent } from "@akasha/design-patterns/tabs"
-import type { Build, ComboRankingsMap } from "@akasha/temper-companions-core/companion-leaderboard"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type {
+  Build,
+  ComboRankingsMap,
+} from "akasha/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import { useCallback, useState } from "react"
 import { CompanionLeaderboardContent } from "../companion-leaderboard-content/companion-leaderboard-content.module.code.tsx"
 import {

@@ -1,10 +1,10 @@
-import type { CompanionArmorWeight } from "@akasha/temper-companions-core/companion-armor-weights"
-import { companionEquipmentQualities } from "@akasha/temper-companions-core/companion-equipment-qualities"
-import { companionSkills } from "@akasha/temper-companions-core/companion-skills"
-import { companionTraits } from "@akasha/temper-companions-core/companion-traits"
-import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
-import { companions } from "@akasha/temper-companions-core/companions"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
+import type { CompanionArmorWeight } from "akasha/temper/temper-companions-core/companion-armor-weights/companion-armor-weights.module.code.ts"
+import { companionEquipmentQualities } from "akasha/temper/temper-companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { companionSkills } from "akasha/temper/temper-companions-core/companion-skills/companion-skills.module.code.ts"
+import { companionTraits } from "akasha/temper/temper-companions-core/companion-traits/companion-traits.module.code.ts"
+import { companionWeaponTypes } from "akasha/temper/temper-companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 
 export const companionIds = companions.ids
 

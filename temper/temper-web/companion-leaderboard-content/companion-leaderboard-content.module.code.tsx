@@ -7,9 +7,9 @@ import {
   type ComboRankingsMap,
   compareDisplayRoleCombos,
   displayRoleComboKey,
-} from "@akasha/temper-companions-core/companion-leaderboard"
-import type { CompanionId } from "@akasha/temper-companions-core/companions"
-import { companions } from "@akasha/temper-companions-core/companions"
+} from "akasha/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
+import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import { useCallback, useMemo } from "react"
 import { CompanionIdentityLeaderboardPanelCard } from "../companion-identity-leaderboard-panel-card/companion-identity-leaderboard-panel-card.module.code.tsx"
 import { CompanionOverallLeaderboardPanelCard } from "../companion-overall-leaderboard-panel-card/companion-overall-leaderboard-panel-card.module.code.tsx"

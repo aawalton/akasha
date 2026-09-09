@@ -1,4 +1,4 @@
-import type { CompanionFormulaStats } from "@akasha/temper-companions-core/companion-skill-formula"
+import type { CompanionFormulaStats } from "akasha/temper/temper-companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { useContext } from "react"
 import {
   CompanionStatsContext,

@@ -3,18 +3,18 @@ import { CardContent, CardHeader, CardTitle, CardTitleBadges } from "@akasha/des
 import { Text } from "@akasha/design-primitives/text-body"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
+import { buildId } from "@akasha/temper-formula-framework/branded-id"
+import { Badge, BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   type CompanionBaseRoleId,
   getBaseRoleName,
-} from "@akasha/temper-companions-core/companion-base-roles"
-import { calculateCompanionStats } from "@akasha/temper-companions-core/companion-stats-calculator"
-import type { CompanionStatsResult } from "@akasha/temper-companions-core/companion-stats-result"
-import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
-import { getWeaponRole } from "@akasha/temper-companions-core/companion-weapon-role-match"
-import { companionWeaponRoles } from "@akasha/temper-companions-core/companion-weapon-roles"
-import type { CompanionId } from "@akasha/temper-companions-core/companions"
-import { buildId } from "@akasha/temper-formula-framework/branded-id"
-import { Badge, BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
+} from "akasha/temper/temper-companions-core/companion-base-roles/companion-base-roles.module.code.ts"
+import { calculateCompanionStats } from "akasha/temper/temper-companions-core/companion-stats-calculator/companion-stats-calculator.module.code.ts"
+import type { CompanionStatsResult } from "akasha/temper/temper-companions-core/companion-stats-result/companion-stats-result.module.code.ts"
+import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import { getWeaponRole } from "akasha/temper/temper-companions-core/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
+import { companionWeaponRoles } from "akasha/temper/temper-companions-core/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 
 function getRolePrimaryStats(roles: readonly CompanionBaseRoleId[]): ReadonlySet<string> {
   const stats = new Set<string>()

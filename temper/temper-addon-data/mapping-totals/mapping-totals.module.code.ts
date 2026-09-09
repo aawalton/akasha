@@ -3,8 +3,6 @@ import { curses } from "@akasha/temper-character-sources/curses"
 import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
 import { mundus } from "@akasha/temper-character-sources/mundus-source"
 import { vampireStages } from "@akasha/temper-character-sources/vampire-stages"
-import { companionSkills } from "@akasha/temper-companions-core/companion-skills"
-import { companions } from "@akasha/temper-companions-core/companions"
 import { armorTraits } from "@akasha/temper-equipment/armor-traits"
 import { jewelryTraits } from "@akasha/temper-equipment/jewelry-traits"
 import { weaponTraits } from "@akasha/temper-equipment/weapon-traits"
@@ -23,6 +21,8 @@ import { jewelryEnchants } from "akasha/temper/temper-characters-equipment/jewel
 import { setsAll } from "akasha/temper/temper-characters-equipment/sets-all/sets-all.module.code.ts"
 import { weaponEnchantments } from "akasha/temper/temper-characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import { companionSkills } from "akasha/temper/temper-companions-core/companion-skills/companion-skills.module.code.ts"
+import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 
 export function buildMappingTotals(): Record<string, string> {
   return {

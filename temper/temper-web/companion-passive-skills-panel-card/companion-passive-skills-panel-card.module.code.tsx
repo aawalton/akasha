@@ -1,14 +1,14 @@
 "use client"
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
-import { companionArmorSlots } from "@akasha/temper-companions-core/companion-armor-slots"
-import type { CompanionFormulaStats } from "@akasha/temper-companions-core/companion-skill-formula"
+import { companionArmorSlots } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
+import type { CompanionFormulaStats } from "akasha/temper/temper-companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
 import {
   type CompanionSkillId,
   companionSkills,
-} from "@akasha/temper-companions-core/companion-skills"
-import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
-import { companions } from "@akasha/temper-companions-core/companions"
+} from "akasha/temper/temper-companions-core/companion-skills/companion-skills.module.code.ts"
+import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import { CompanionSkillCard } from "../companion-skill-card/companion-skill-card.module.code.tsx"
 import type { ArmorPieceCounts } from "../effect-badge-types/effect-badge-types.module.code.ts"
 

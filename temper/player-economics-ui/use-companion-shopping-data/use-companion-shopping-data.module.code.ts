@@ -1,9 +1,6 @@
 "use client"
 
 import { applyCompanionMetadata } from "@akasha/temper-build-metadata/build-metadata"
-import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
-import type { CompanionId } from "@akasha/temper-companions-core/companions"
-import { companions, getCompanionName } from "@akasha/temper-companions-core/companions"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import {
   type CompanionGearNeed,
@@ -13,6 +10,12 @@ import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/co
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
+import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import {
+  companions,
+  getCompanionName,
+} from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import { useAllCompanionList } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import {

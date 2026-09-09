@@ -1,15 +1,15 @@
 "use client"
 
-import type { CompanionEffectSource } from "@akasha/temper-companions-core/companion-effect-sources"
-import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
-import type { CompanionMetricValue } from "@akasha/temper-companions-core/companion-metrics"
+import type { CompanionEffectSource } from "akasha/temper/temper-companions-core/companion-effect-sources/companion-effect-sources.module.code.ts"
+import type { CompanionMetricId } from "akasha/temper/temper-companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionMetricValue } from "akasha/temper/temper-companions-core/companion-metrics/companion-metrics.module.code.ts"
 import {
   type CompanionFormulaStats,
   extractNonSoothingHealingDoneSources,
-} from "@akasha/temper-companions-core/companion-skill-formula"
-import { computeSoothingHealingDone } from "@akasha/temper-companions-core/companion-soothing-healing"
-import type { CompanionScalingMetricId } from "@akasha/temper-companions-core/companion-value-formula"
-import type { RotationResult } from "@akasha/temper-companions-core/rotation-types"
+} from "akasha/temper/temper-companions-core/companion-skill-formula/companion-skill-formula.module.code.ts"
+import { computeSoothingHealingDone } from "akasha/temper/temper-companions-core/companion-soothing-healing/companion-soothing-healing.module.code.ts"
+import type { CompanionScalingMetricId } from "akasha/temper/temper-companions-core/companion-value-formula/companion-value-formula.module.code.ts"
+import type { RotationResult } from "akasha/temper/temper-companions-core/rotation-types/rotation-types.module.code.ts"
 import { createContext, type ReactNode, useMemo } from "react"
 import { useCompanion } from "../use-companion/use-companion.module.code.ts"
 import { useCompanionStatsCalculation } from "../use-companion-stats-calculation/use-companion-stats-calculation.module.code.ts"

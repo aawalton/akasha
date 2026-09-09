@@ -1,7 +1,7 @@
 "use client"
 
-import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
-import type { CompanionId } from "@akasha/temper-companions-core/companions"
+import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import { useCallback, useContext } from "react"
 import type { CompanionAction } from "../companion-actions/companion-actions.module.code.ts"
 import {

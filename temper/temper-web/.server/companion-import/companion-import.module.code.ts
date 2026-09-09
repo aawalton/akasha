@@ -4,12 +4,12 @@ import { patchPage } from "@akasha/pages-access/patch"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { extractCompanionMetadata } from "@akasha/temper-build-metadata/build-metadata"
-import { companionWeaponTypes } from "@akasha/temper-companions-core/companion-weapon-types"
-import { companions } from "@akasha/temper-companions-core/companions"
 import type { BuildHash, BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import { companionWeaponTypes } from "akasha/temper/temper-companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
+import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 
 export type ImportCompanionResult =
   | { buildId: BuildId; buildName: string }

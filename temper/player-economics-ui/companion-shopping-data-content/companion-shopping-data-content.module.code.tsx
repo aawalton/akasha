@@ -16,13 +16,13 @@ import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import {
-  type CompanionEquipmentQualityId,
-  companionEquipmentQualities,
-} from "@akasha/temper-companions-core/companion-equipment-qualities"
-import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import {
+  type CompanionEquipmentQualityId,
+  companionEquipmentQualities,
+} from "akasha/temper/temper-companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { PricingRegionNote } from "akasha/temper/temper-player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
 import { Gamepad2, PackageCheck } from "lucide-react"
 import { type ReactNode, useMemo, useState } from "react"

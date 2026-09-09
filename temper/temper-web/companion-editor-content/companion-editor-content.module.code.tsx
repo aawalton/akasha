@@ -12,10 +12,10 @@ import { cn } from "@akasha/design-primitives/cn"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { extractCompanionMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
-import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
+import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import {
   useCompanionLifecycle,
   useCompanionList,

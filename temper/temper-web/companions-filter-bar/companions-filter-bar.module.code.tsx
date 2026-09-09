@@ -8,12 +8,12 @@ import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-
 import { SortButton } from "@akasha/design-patterns/sort-button"
 import type { SortDirection, SortOption } from "@akasha/design-patterns/sort-types"
 import { targetArmor } from "@akasha/temper-character-sources/target-armors"
-import { companions } from "@akasha/temper-companions-core/companions"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import { useEffect, useState } from "react"
 
 export type SortField = "updated" | "name" | "score"

@@ -1,10 +1,13 @@
-import type { CompanionId } from "@akasha/temper-companions-core/companions"
-import { companions, getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
 import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "@akasha/temper-completion/completion-progress"
 import { type SkillLineId, skillLines } from "@akasha/temper-skill-lines/skill-lines"
+import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import {
+  companions,
+  getCompanionIdByDefId,
+} from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,

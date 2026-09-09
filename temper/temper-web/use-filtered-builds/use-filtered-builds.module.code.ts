@@ -1,8 +1,8 @@
 import {
   type DecodedBuild,
   getBuildScoreAndStats,
-} from "@akasha/temper-companions-core/companion-leaderboard"
-import type { CompanionStatsResult } from "@akasha/temper-companions-core/companion-stats-result"
+} from "akasha/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
+import type { CompanionStatsResult } from "akasha/temper/temper-companions-core/companion-stats-result/companion-stats-result.module.code.ts"
 import { useMemo } from "react"
 import type { FilterValues } from "../companions-filter-types/companions-filter-types.module.code.ts"
 

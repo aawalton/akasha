@@ -106,7 +106,7 @@ export const temper = {
     "eso-addon/temper-interface-addon",
     "workspace-package/temper-character-sources",
     "domain/temper-player-completion",
-    "workspace-package/temper-companions-core",
+    "domain/temper-companions-core",
     "workspace-package/temper-items-rules-eval",
     "domain/temper-items-filters-core",
     "domain/temper-items-filters-addon",

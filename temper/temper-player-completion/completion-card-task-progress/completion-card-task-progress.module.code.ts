@@ -1,4 +1,3 @@
-import { companions } from "@akasha/temper-companions-core/companions"
 import type {
   AccountCompletion,
   CharacterCompletion,
@@ -11,6 +10,7 @@ import {
 } from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { MorphCharacterRow } from "akasha/temper/skill-morphs-access/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { resolveSkillMorphs } from "akasha/temper/skill-morphs-access/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
+import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,

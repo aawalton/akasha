@@ -1,12 +1,12 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { StatRow } from "@akasha/design-patterns/stat-row"
 import { Skeleton } from "@akasha/design-primitives/skeleton"
-import type { CompanionMetricId } from "@akasha/temper-companions-core/companion-metric-ids"
-import type { CompanionMetricGroup } from "@akasha/temper-companions-core/companion-metric-tree"
+import type { CompanionMetricId } from "akasha/temper/temper-companions-core/companion-metric-ids/companion-metric-ids.module.code.ts"
+import type { CompanionMetricGroup } from "akasha/temper/temper-companions-core/companion-metric-tree/companion-metric-tree.module.code.ts"
 import {
   type CompanionMetricValue,
   companionMetrics,
-} from "@akasha/temper-companions-core/companion-metrics"
+} from "akasha/temper/temper-companions-core/companion-metrics/companion-metrics.module.code.ts"
 import { CompanionStatValue } from "../companion-stat-value/companion-stat-value.module.code.tsx"
 
 interface CompanionStatGroupPanelCardProps {

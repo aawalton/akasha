@@ -6,7 +6,6 @@
     "./build-metadata": "./build-metadata/build-metadata.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-character-sources": "workspace:*",
-    "@akasha/temper-companions-core": "workspace:*"
+    "@akasha/temper-character-sources": "workspace:*"
   }
 }

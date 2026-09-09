@@ -1,6 +1,6 @@
-import type { CompanionState } from "@akasha/temper-companions-core/companion-types"
-import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
+import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import {
   COMPANION_ACTIONS,
   type CompanionAction,
