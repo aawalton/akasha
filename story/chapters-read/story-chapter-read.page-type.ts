@@ -6,20 +6,18 @@ import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
 import type { ChronologyAnchors } from "./properties/chronology-anchors.page-property-entry.ts"
 import type { MarkedReadAt } from "./properties/marked-read-at.instant-property.ts"
-import type { ReadStory } from "./properties/read-story.relation-property.ts"
+import type { ReadChapterStory } from "./properties/read-chapter-story.relation-property.ts"
 import type { RemovedAt } from "./properties/removed-at.instant-property.ts"
-import type { StorySlug } from "./properties/story-slug.relation-property.ts"
 
 export type StoryChapterRead = CollectionExternal & {
   title: Title
-  storySlug?: StorySlug
+  story?: ReadChapterStory
   ownLength: OwnLength
   externalLink: ExternalLink
   prose: Prose
   removedAt?: RemovedAt
   markedReadAt?: MarkedReadAt
   chronologyAnchors?: ChronologyAnchors
-  story?: ReadStory
 }
 
 export const storyChapterRead = {
@@ -67,7 +65,7 @@ export const storyChapterRead = {
     "number-property/anchor-beat",
     "number-property/anchor-volume",
     "page-property-entry/chronology-anchors",
-    "relation-property/story-slug",
+    "relation-property/read-chapter-story",
     "select-property/anchor-direction",
     "select-property/anchor-kind",
     "select-property/anchor-standing",
@@ -76,18 +74,16 @@ export const storyChapterRead = {
     "text-property/anchor-claimed-by",
     "text-property/anchor-lexeme",
     "text-property/anchor-reference",
-    "relation-property/read-story",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "relation-property/story-slug", required: false, many: false },
+    { pageProperty: "relation-property/read-chapter-story", required: false, many: false },
     { pageProperty: "number-property/own-length", required: true, many: false },
     { pageProperty: "url-property/external-link", required: true, many: false },
     { pageProperty: "file-property/prose", required: true, many: false },
     { pageProperty: "instant-property/removed-at", required: false, many: false },
     { pageProperty: "instant-property/marked-read-at", required: false, many: false },
     { pageProperty: "page-property-entry/chronology-anchors", required: false, many: false },
-    { pageProperty: "relation-property/read-story", required: false, many: false },
   ],
   invariants: [
     {
