@@ -1,10 +1,4 @@
-import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { ModelName } from "./properties/model-name.text-property.ts"
-
-export type ModelFamily = Domain & {
-  name: ModelName
-}
 
 export const modelFamily = {
   id: "01a0535c-f2cf-7d57-8803-2dbb722ac8bc",
@@ -22,4 +16,5 @@ export const modelFamily = {
   ],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "text-property/model-name", required: true, many: false }],
+  types: "ts",
 } as const satisfies PageType

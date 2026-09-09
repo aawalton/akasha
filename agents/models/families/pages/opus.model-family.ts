@@ -1,4 +1,4 @@
-import type { ModelFamily } from "../model-family.page-type.ts"
+import type { ModelFamily } from "../model-family.page-type.types.ts"
 
 export const opus = {
   id: "01a0535c-f2cf-71e9-80b5-6f202d28b05e",

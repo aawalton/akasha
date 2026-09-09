@@ -1,4 +1,4 @@
-import type { ModelFamily } from "../model-family.page-type.ts"
+import type { ModelFamily } from "../model-family.page-type.types.ts"
 
 export const haiku = {
   id: "01a0535c-f2cf-7a81-8244-06707c1520b8",

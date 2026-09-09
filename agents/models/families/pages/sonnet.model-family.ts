@@ -1,4 +1,4 @@
-import type { ModelFamily } from "../model-family.page-type.ts"
+import type { ModelFamily } from "../model-family.page-type.types.ts"
 
 export const sonnet = {
   id: "01a0535c-f2cf-7f23-8d73-f45bff4448f4",
