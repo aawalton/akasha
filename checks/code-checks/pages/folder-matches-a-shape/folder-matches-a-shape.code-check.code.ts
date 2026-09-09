@@ -159,7 +159,7 @@ export function declaredBesideIn(
     const said = partedIn(one)
     if (said === null || said.sections.length > 0 || said.held !== TS) continue
     if (said.pageType === ONE_OF_PROPERTY) {
-      const held = index.pageAt(ONE_OF_PROPERTY, said.slug)
+      const held = index.pageByPath(one)
       if (held === null) continue
       for (const member of textsAt(held, MEMBERS) ?? []) {
         const bare = slugIn(member)
@@ -168,7 +168,7 @@ export function declaredBesideIn(
       continue
     }
     if (said.pageType !== RECORD_PROPERTY) continue
-    const value = index.pageAt(RECORD_PROPERTY, said.slug)
+    const value = index.pageByPath(one)
     if (value === null) continue
     for (const carried of index.carriedIn(value, said.slug)) found.push(carried.pagePropertySlug)
   }
