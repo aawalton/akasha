@@ -3,6 +3,7 @@ import type { CategoryRuleAgent } from "../category-rule-agent.page-type.ts"
 export const roadTripFuel = {
   id: "01a0655b-fcdc-7000-b2fd-46328aa7c667",
   pageTypeSlug: "category-rule-agent",
+  type: "category-rule-agent",
   slug: "road-trip-fuel",
   title: "Road trip fuel",
   matches: [{ key: "merchant", comparison: "is", values: ["chevron", "maverik"] }],

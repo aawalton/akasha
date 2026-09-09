@@ -3,6 +3,7 @@ import type { JavascriptModule } from "@akasha/code/javascript-module"
 export const vscodeStub = {
   id: "01a06957-955c-7cf6-9b2b-b7ef62ac9c75",
   pageTypeSlug: "javascript-module",
+  type: "javascript-module",
   slug: "vscode-stub",
   definition: "a `vscode` keeping what an extension draws into it, so a panel can be read back",
   javascript: "mjs",

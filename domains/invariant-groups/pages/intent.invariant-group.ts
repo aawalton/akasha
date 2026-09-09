@@ -3,6 +3,7 @@ import type { InvariantGroup } from "../invariant-group.page-type.ts"
 export const intent = {
   id: "01a04e11-9f98-71e8-b821-77545c6be68e",
   pageTypeSlug: "invariant-group",
+  type: "invariant-group",
   slug: "intent",
   definition: "an invariant that does not hold yet",
   directives: [

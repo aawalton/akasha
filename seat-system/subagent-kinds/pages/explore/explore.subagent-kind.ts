@@ -3,6 +3,7 @@ import type { SubagentKind } from "../../subagent-kind.page-type.ts"
 export const explore = {
   id: "01a06861-f664-7abd-b503-d89b310876ae",
   pageTypeSlug: "subagent-kind",
+  type: "subagent-kind",
   slug: "explore",
   definition: "a subagent that searches a tree and reports what is in it",
   dispatchedAs: "Explore",

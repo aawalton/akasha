@@ -3,6 +3,7 @@ import type { List } from "../../../domains/lists/list.page-type.ts"
 export const idleLiveSeat = {
   id: "01a06862-a02e-7ce3-acaa-c4e902ab9c81",
   pageTypeSlug: "list",
+  type: "list",
   slug: "idle-live-seat",
   definition: "a seat whose process is live and whose work has stopped",
   members: [

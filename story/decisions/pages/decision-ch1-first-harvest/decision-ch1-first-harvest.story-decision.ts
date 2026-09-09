@@ -3,6 +3,7 @@ import type { StoryDecision } from "../../story-decision.page-type.ts"
 export const decisionCh1FirstHarvest = {
   id: "01a0657d-bb96-70d2-8ff0-62287fefc2ec",
   pageTypeSlug: "story-decision",
+  type: "story-decision",
   slug: "decision-ch1-first-harvest",
   title: "First Harvest — Colette Vane (ch1)",
   world: "the-beholder",

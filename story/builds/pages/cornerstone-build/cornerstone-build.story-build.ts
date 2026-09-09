@@ -3,6 +3,7 @@ import type { StoryBuild } from "../../story-build.page-type.ts"
 export const cornerstoneBuild = {
   id: "01a0657d-bb95-73af-a144-74c52923eaa7",
   pageTypeSlug: "story-build",
+  type: "story-build",
   slug: "cornerstone-build",
   title: "Cornerstone — Build",
   world: "cornerstone",

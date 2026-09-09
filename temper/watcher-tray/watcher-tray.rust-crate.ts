@@ -3,6 +3,7 @@ import type { RustCrate } from "../../code-system/rust-crates/rust-crate.page-ty
 export const watcherTray = {
   id: "01a06034-87f1-70ce-9bb8-126ea33109ad",
   pageTypeSlug: "rust-crate",
+  type: "rust-crate",
   slug: "watcher-tray",
   definition: "the Windows tray program keeping Temper's SavedVariables worker running",
   cargoManifest: "toml",

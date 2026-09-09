@@ -3,6 +3,7 @@ import type { UniqueKind } from "../unique-kind.page-type.ts"
 export const pageProperty = {
   id: "01a0814f-68bb-7000-878e-605b3d7dec8b",
   pageTypeSlug: "unique-kind",
+  type: "unique-kind",
   slug: "page-property",
   definition: "the value is unique among the pages with one value of a property",
   invariants: [

@@ -3,6 +3,7 @@ import type { FilePurpose } from "../file-purpose.page-type.ts"
 export const testTsx = {
   id: "01a06860-a0ef-7699-bc5d-c45850b551d2",
   pageTypeSlug: "file-purpose",
+  type: "file-purpose",
   slug: "test-tsx",
   definition: "a file of TypeScript source with markup, with tests",
   invariants: [

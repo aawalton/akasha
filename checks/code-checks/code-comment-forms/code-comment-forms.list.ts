@@ -3,6 +3,7 @@ import type { List } from "../../../domains/lists/list.page-type.ts"
 export const codeCommentForms = {
   id: "01a06862-a02e-7a14-ace4-e8e871253c5c",
   pageTypeSlug: "list",
+  type: "list",
   slug: "code-comment-forms",
   definition: "the shapes of comment a program parses",
   members: [

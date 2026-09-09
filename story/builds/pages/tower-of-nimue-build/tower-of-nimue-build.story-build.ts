@@ -3,6 +3,7 @@ import type { StoryBuild } from "../../story-build.page-type.ts"
 export const towerOfNimueBuild = {
   id: "01a0657d-bb97-767c-b1d8-0ccc25878fec",
   pageTypeSlug: "story-build",
+  type: "story-build",
   slug: "tower-of-nimue-build",
   title: "Nimue — Build",
   world: "tower-of-nimue",

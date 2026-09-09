@@ -3,6 +3,7 @@ import type { StoryBuild } from "../../story-build.page-type.ts"
 export const theBeholderBuild = {
   id: "01a0657d-bb96-7523-bb95-78170e8e6bd6",
   pageTypeSlug: "story-build",
+  type: "story-build",
   slug: "the-beholder-build",
   title: "The Beholder — Build",
   world: "the-beholder",

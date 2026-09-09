@@ -3,6 +3,7 @@ import type { Repo } from "../repo.page-type.ts"
 export const akashaRepo = {
   id: "01a06975-df76-7185-a7d4-ff026aece45c",
   pageTypeSlug: "repo",
+  type: "repo",
   slug: "akasha-repo",
   definition: "the repository nothing tracked is outside",
   invariants: [

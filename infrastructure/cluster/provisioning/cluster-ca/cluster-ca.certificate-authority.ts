@@ -3,6 +3,7 @@ import type { CertificateAuthority } from "../../../networks/certificates/author
 export const clusterCa = {
   id: "01a0685e-1c21-7b95-8c04-9d5a6e2f31b7",
   pageTypeSlug: "certificate-authority",
+  type: "certificate-authority",
   slug: "cluster-ca",
   definition: "the authority the cluster's own certificates are signed by",
   authorityCertificate: "pem",

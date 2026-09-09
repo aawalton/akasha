@@ -3,6 +3,7 @@ import type { StoryElementPlayed } from "../../story-element-played.page-type.ts
 export const coffeeShopDateCoffeeShop = {
   id: "01a0682a-d9b6-740b-aafd-f024df0bfe74",
   pageTypeSlug: "story-element-played",
+  type: "story-element-played",
   slug: "coffee-shop-date-coffee-shop",
   playedStory: "coffee-shop-date",
   elementKind: "setting",
