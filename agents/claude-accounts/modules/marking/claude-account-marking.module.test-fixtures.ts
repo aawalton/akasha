@@ -191,7 +191,7 @@ export function typeWritten(
       slug,
       definition: `a ${slug}`,
       pluralSlug: `${slug}s`,
-      extendsSlug: above,
+      extends: above,
       properties: declared.map((one) => ({
         pagePropertySlug: one.slug,
         required: false,
