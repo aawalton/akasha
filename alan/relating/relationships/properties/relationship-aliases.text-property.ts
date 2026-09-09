@@ -9,5 +9,5 @@ export const relationshipAliases = {
   propertySlug: "relationship-aliases",
   definition: "the other names this person is called by",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

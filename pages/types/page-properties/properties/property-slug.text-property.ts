@@ -9,7 +9,7 @@ export const propertySlug = {
   propertySlug: "property-slug",
   definition: "the key a page has this property's value under",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const macWwwStagingRel = {
   propertySlug: "mac-www-staging-rel",
   definition: "where an app's site is staged on the mac, read against the home directory",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

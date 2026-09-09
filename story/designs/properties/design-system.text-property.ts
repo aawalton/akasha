@@ -9,5 +9,5 @@ export const designSystem = {
   propertySlug: "system",
   definition: "the rules a story's world runs on",
   maxLength: 6000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

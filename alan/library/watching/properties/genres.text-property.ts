@@ -9,7 +9,7 @@ export const genres = {
   propertySlug: "genres",
   definition: "a kind the provider files a collection under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

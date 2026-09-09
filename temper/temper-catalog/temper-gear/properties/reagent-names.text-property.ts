@@ -11,7 +11,7 @@ export const reagentNames = {
   propertySlug: "names",
   definition: "the reagents one recipe is brewed from",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a reagent." },
     { invariantKind: "departure", statement: "One list holds every reagent one recipe takes." },

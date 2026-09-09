@@ -9,7 +9,7 @@ export const transactionNote = {
   propertySlug: "transaction-note",
   definition: "what somebody wrote on a transaction",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const key = {
   propertySlug: "key",
   definition: "the string The Elder Scrolls Online names a thing by",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

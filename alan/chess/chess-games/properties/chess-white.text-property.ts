@@ -9,5 +9,5 @@ export const chessWhite = {
   propertySlug: "white",
   definition: "who played the white pieces",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

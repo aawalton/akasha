@@ -9,5 +9,5 @@ export const written = {
   propertySlug: "written",
   definition: "whether the artist wrote the song alone or with others",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

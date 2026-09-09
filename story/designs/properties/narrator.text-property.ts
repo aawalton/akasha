@@ -9,5 +9,5 @@ export const narrator = {
   propertySlug: "narrator",
   definition: "who tells a story, and from where",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

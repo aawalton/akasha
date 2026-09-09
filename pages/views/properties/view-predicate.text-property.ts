@@ -9,7 +9,7 @@ export const viewPredicate = {
   propertySlug: "view-predicate",
   definition: "the named test a cross-type view draws by",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

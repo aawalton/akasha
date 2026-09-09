@@ -9,5 +9,5 @@ export const zoneName = {
   propertySlug: "zone-name",
   definition: "what a zone is called",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,7 +9,7 @@ export const progressPropertyId = {
   propertySlug: "progress-property-id",
   definition: "the key of the property holding how far into a page the reader has come",
   maxLength: 64,
-  nameFormatSlug: "name-format/lower-camel-case",
+  nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
       invariantKind: "departure",

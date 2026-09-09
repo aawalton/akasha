@@ -9,5 +9,5 @@ export const storyPremise = {
   propertySlug: "premise",
   definition: "what a story is about, in the shape the story is told in",
   maxLength: 8000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

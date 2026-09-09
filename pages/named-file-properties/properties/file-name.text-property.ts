@@ -9,7 +9,7 @@ export const fileName = {
   propertySlug: "file-name",
   definition: "the name a property's file is under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

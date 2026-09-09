@@ -9,5 +9,5 @@ export const sourceGameId = {
   propertySlug: "source-game-id",
   definition: "the id a source gives a game",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

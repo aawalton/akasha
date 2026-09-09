@@ -9,5 +9,5 @@ export const pointsSourceAggregate = {
   propertySlug: "aggregate",
   definition: "how the things a persona counts are added into one number",
   maxLength: 8,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const completionTypeLabel = {
   propertySlug: "completion-type-label",
   definition: "the name a kind of completion activity is shown under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

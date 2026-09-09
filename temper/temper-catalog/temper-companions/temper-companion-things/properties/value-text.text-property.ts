@@ -9,5 +9,5 @@ export const valueText = {
   propertySlug: "value-text",
   definition: "the text a constant holds",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

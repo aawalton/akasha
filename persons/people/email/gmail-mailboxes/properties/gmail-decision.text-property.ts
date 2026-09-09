@@ -9,5 +9,5 @@ export const gmailDecision = {
   propertySlug: "decision",
   definition: "what was settled about a message the mailbox went through",
   maxLength: 40,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

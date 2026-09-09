@@ -9,5 +9,5 @@ export const galleryDescription = {
   propertySlug: "gallery-description",
   definition: "the sentence the gallery prints under a widget's name",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

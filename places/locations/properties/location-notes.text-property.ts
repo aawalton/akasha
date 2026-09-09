@@ -9,5 +9,5 @@ export const locationNotes = {
   propertySlug: "notes",
   definition: "what the person kept the place for",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

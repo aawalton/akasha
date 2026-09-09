@@ -9,7 +9,7 @@ export const rruleRule = {
   propertySlug: "rrule-rule",
   definition: "how often a task comes round again",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

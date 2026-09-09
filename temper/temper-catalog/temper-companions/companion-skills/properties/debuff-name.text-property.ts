@@ -9,5 +9,5 @@ export const debuffName = {
   propertySlug: "debuff",
   definition: "the harmful effect an effect puts on whoever it lands on",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

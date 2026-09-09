@@ -9,5 +9,5 @@ export const fromPattern = {
   propertySlug: "from-pattern",
   definition: "a construction a banned term is written in",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

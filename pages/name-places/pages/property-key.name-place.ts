@@ -5,7 +5,7 @@ export const propertyKey = {
   pageTypeSlug: "name-place",
   slug: "property-key",
   definition: "the key a page has one of its values under",
-  nameFormatSlug: "name-format/lower-camel-case",
+  nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
       invariantKind: "departure",

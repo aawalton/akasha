@@ -9,7 +9,7 @@ export const hostnames = {
   propertySlug: "hostnames",
   definition: "a host name a web app is reached at",
   maxLength: 253,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

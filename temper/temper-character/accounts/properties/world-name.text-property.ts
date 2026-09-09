@@ -9,5 +9,5 @@ export const worldName = {
   propertySlug: "world-name",
   definition: "the megaserver a reading was taken on",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,7 +9,7 @@ export const subscriptionDisabledReason = {
   propertySlug: "subscription-disabled-reason",
   definition: "what stopped the account's subscription being usable",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

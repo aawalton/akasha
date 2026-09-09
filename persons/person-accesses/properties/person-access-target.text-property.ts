@@ -9,7 +9,7 @@ export const personAccessTarget = {
   propertySlug: "target",
   definition: "the one thing of that kind the access reaches, or `all`",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const titleKey = {
   propertySlug: "title-key",
   definition: "the text a track title and an artist name are matched by",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

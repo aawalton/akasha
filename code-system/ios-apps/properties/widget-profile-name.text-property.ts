@@ -9,5 +9,5 @@ export const widgetProfileName = {
   propertySlug: "widget-profile-name",
   definition: "the App Store profile an app's widgets are signed with",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

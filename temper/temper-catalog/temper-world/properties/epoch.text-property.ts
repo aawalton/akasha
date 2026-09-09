@@ -9,7 +9,7 @@ export const epoch = {
   propertySlug: "epoch",
   definition: "the day a rotation is counted from",
   maxLength: 10,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "gap",

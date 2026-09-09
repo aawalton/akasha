@@ -9,5 +9,5 @@ export const invariantStatement = {
   propertySlug: "statement",
   definition: "one sentence an invariant has a page to",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies StandardAgentEnglishProperty

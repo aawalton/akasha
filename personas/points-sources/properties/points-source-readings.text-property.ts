@@ -12,5 +12,5 @@ export const pointsSourceReadings = {
   definition:
     "which readings of Alan's day count towards a persona's points, and how many make one",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

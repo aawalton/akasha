@@ -9,5 +9,5 @@ export const calendarEventTypes = {
   propertySlug: "event-types",
   definition: "the sorts a source files an event under",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

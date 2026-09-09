@@ -11,23 +11,23 @@ import { type Places, refusedIn } from "./identifier-matches-its-place.code-chec
 
 const PLACES: Places = {
   typeIdentifier: {
-    nameFormatSlug: typeIdentifier.nameFormatSlug,
+    nameFormat: typeIdentifier.nameFormat,
     matching: upperCamelCase,
   },
   functionIdentifier: {
-    nameFormatSlug: functionIdentifier.nameFormatSlug,
+    nameFormat: functionIdentifier.nameFormat,
     matching: lowerCamelCase,
   },
   componentIdentifier: {
-    nameFormatSlug: componentIdentifier.nameFormatSlug,
+    nameFormat: componentIdentifier.nameFormat,
     matching: upperCamelCase,
   },
   constantIdentifier: {
-    nameFormatSlug: constantIdentifier.nameFormatSlug,
+    nameFormat: constantIdentifier.nameFormat,
     matching: upperSnakeCase,
   },
   derivedIdentifier: {
-    nameFormatSlug: derivedIdentifier.nameFormatSlug,
+    nameFormat: derivedIdentifier.nameFormat,
     matching: lowerCamelCase,
   },
 }
@@ -334,9 +334,9 @@ test("a list, a call and a condition each carry what a function answers with", (
 })
 
 test("the formats judged are the ones the place pages state", () => {
-  expect(typeIdentifier.nameFormatSlug).toBe("name-format/upper-camel-case")
-  expect(functionIdentifier.nameFormatSlug).toBe("name-format/lower-camel-case")
-  expect(componentIdentifier.nameFormatSlug).toBe("name-format/upper-camel-case")
-  expect(constantIdentifier.nameFormatSlug).toBe("name-format/upper-snake-case")
-  expect(derivedIdentifier.nameFormatSlug).toBe("name-format/lower-camel-case")
+  expect(typeIdentifier.nameFormat).toBe("name-format/upper-camel-case")
+  expect(functionIdentifier.nameFormat).toBe("name-format/lower-camel-case")
+  expect(componentIdentifier.nameFormat).toBe("name-format/upper-camel-case")
+  expect(constantIdentifier.nameFormat).toBe("name-format/upper-snake-case")
+  expect(derivedIdentifier.nameFormat).toBe("name-format/lower-camel-case")
 })

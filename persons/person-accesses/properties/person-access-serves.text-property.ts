@@ -9,7 +9,7 @@ export const personAccessServes = {
   propertySlug: "serves",
   definition: "the shared page type the target represents",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

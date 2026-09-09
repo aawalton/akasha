@@ -9,6 +9,6 @@ export const bundleId = {
   propertySlug: "bundle-id",
   definition: "the name a phone knows an app by",
   maxLength: 155,
-  nameFormatSlug: null,
+  nameFormat: null,
   unique: "page-type",
 } as const satisfies TextProperty

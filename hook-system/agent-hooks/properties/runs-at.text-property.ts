@@ -25,7 +25,7 @@ export const runsAt = {
   propertySlug: "runs-at",
   definition: "the harness events at which a hook is called",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const image = {
   propertySlug: "image",
   definition: "the container image a workload's pods run",
   maxLength: 253,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const dueTime = {
   propertySlug: "due-time",
   definition: "the time of day a to-do comes due",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

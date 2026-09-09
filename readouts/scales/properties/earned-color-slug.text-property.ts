@@ -9,7 +9,7 @@ export const earnedColorSlug = {
   propertySlug: "earned-color-slug",
   definition: "the color a reading takes when the reading is earned rather than measured",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

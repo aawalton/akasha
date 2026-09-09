@@ -9,5 +9,5 @@ export const fallbackModel = {
   propertySlug: "fallback-model",
   definition: "the model a seat answers on where the model it asked for will not serve",
   maxLength: 40,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

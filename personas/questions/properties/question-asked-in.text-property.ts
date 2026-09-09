@@ -9,7 +9,7 @@ export const questionAskedIn = {
   propertySlug: "asked-in",
   definition: "the stretch of work a question came out of, named by its id",
   maxLength: 36,
-  nameFormatSlug: "name-format/lower-uuid",
+  nameFormat: "name-format/lower-uuid",
   invariants: [
     {
       invariantKind: "departure",

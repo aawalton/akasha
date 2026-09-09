@@ -9,5 +9,5 @@ export const exclusionReason = {
   propertySlug: "exclusion-reason",
   definition: "why this fell off the list of what Alan would buy",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

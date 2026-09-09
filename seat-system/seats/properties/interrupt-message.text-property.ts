@@ -9,5 +9,5 @@ export const interruptMessage = {
   propertySlug: "message",
   definition: "what a seat is told when a request interrupts it",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

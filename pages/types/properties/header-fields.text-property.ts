@@ -9,7 +9,7 @@ export const headerFields = {
   propertySlug: "fields",
   definition: "the keys of the properties standing above the pages a page gathers",
   maxLength: 64,
-  nameFormatSlug: "name-format/lower-camel-case",
+  nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
       invariantKind: "departure",

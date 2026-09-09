@@ -9,5 +9,5 @@ export const calendarEventLocation = {
   propertySlug: "location",
   definition: "where an event is held",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

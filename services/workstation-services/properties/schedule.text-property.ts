@@ -9,7 +9,7 @@ export const schedule = {
   propertySlug: "schedule",
   definition: "the times a unit is started at",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

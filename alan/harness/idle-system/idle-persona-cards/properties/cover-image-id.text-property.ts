@@ -9,5 +9,5 @@ export const coverImageId = {
   propertySlug: "cover-image-id",
   definition: "the picture a card is shown by",
   maxLength: 36,
-  nameFormatSlug: "name-format/lower-uuid",
+  nameFormat: "name-format/lower-uuid",
 } as const satisfies TextProperty

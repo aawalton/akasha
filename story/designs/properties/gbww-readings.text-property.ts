@@ -9,5 +9,5 @@ export const gbwwReadings = {
   propertySlug: "gbww-readings",
   definition: "the Great Books readings a story is set against",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

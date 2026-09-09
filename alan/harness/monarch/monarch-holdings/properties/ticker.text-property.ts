@@ -9,5 +9,5 @@ export const ticker = {
   propertySlug: "ticker",
   definition: "the short name a security trades under",
   maxLength: 12,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

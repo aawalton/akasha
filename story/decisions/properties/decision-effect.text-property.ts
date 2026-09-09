@@ -9,5 +9,5 @@ export const decisionEffect = {
   propertySlug: "effect",
   definition: "what a decision changed",
   maxLength: 6000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

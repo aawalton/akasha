@@ -9,5 +9,5 @@ export const label = {
   propertySlug: "label",
   definition: "the name a reading is shown under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

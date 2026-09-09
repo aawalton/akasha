@@ -9,5 +9,5 @@ export const gbwwPlanKey = {
   propertySlug: "plan-key",
   definition: "the name the plan gives a reading",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

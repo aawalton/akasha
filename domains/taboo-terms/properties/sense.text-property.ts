@@ -9,5 +9,5 @@ export const sense = {
   propertySlug: "sense",
   definition: "the meaning a word is never written in",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

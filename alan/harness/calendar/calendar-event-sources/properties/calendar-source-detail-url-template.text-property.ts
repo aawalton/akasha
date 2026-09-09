@@ -9,5 +9,5 @@ export const calendarSourceDetailUrlTemplate = {
   propertySlug: "detail-url-template",
   definition: "the address of one event, with the event's id left open",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

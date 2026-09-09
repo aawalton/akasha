@@ -9,7 +9,7 @@ export const narrowKey = {
   propertySlug: "key",
   definition: "the key one narrow reads off a page",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const material = {
   propertySlug: "material",
   definition: "what a trait is worked into a piece with",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

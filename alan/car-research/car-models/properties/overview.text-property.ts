@@ -9,5 +9,5 @@ export const overview = {
   propertySlug: "overview",
   definition: "what the model is, in a paragraph",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

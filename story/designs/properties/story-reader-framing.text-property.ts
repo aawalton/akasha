@@ -9,5 +9,5 @@ export const storyReaderFraming = {
   propertySlug: "reader-framing",
   definition: "what the reader is taken to be while reading",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

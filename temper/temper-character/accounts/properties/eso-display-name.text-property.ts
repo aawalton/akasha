@@ -9,5 +9,5 @@ export const esoDisplayName = {
   propertySlug: "display-name",
   definition: "the name The Elder Scrolls Online shows a thing under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

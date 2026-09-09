@@ -9,7 +9,7 @@ export const anchorLexeme = {
   propertySlug: "lexeme",
   definition: "the words in the chapter that do the dating",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const enchantDescription = {
   propertySlug: "enchant-description",
   definition: "what the enchantment on an item does",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

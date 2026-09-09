@@ -5,7 +5,7 @@ export const folderName = {
   pageTypeSlug: "name-place",
   slug: "folder-name",
   definition: "the name a folder carries",
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

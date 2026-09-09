@@ -9,7 +9,7 @@ export const completionCardId = {
   propertySlug: "completion-card-id",
   definition: "the completion card a page counts toward",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a completion card." },
   ],

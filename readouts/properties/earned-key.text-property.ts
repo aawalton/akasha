@@ -9,7 +9,7 @@ export const earnedKey = {
   propertySlug: "earned-key",
   definition: "the fact a reading's source has that earns the scale's earned color",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const skillLineId = {
   propertySlug: "skill-line-id",
   definition: "the line a skill belongs to",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to  a skill line." },
   ],

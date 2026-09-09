@@ -9,5 +9,5 @@ export const lyricsSource = {
   propertySlug: "lyrics-source",
   definition: "the provider the words of a song were fetched from",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

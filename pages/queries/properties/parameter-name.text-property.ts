@@ -9,7 +9,7 @@ export const parameterName = {
   propertySlug: "name",
   definition: "what one value a query is given is called",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

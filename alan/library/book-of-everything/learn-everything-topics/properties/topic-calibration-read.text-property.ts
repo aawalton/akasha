@@ -9,5 +9,5 @@ export const topicCalibrationRead = {
   propertySlug: "calibration-read",
   definition: "how well Alan read his own grasp of a topic, written out",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

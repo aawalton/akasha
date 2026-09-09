@@ -9,5 +9,5 @@ export const baseCardName = {
   propertySlug: "base-card-name",
   definition: "the name a card is shown under before it is upgraded",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

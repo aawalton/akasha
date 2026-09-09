@@ -9,7 +9,7 @@ export const directs = {
   propertySlug: "directs",
   definition: "what an agent settling a transaction is told to weigh",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

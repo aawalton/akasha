@@ -5,7 +5,7 @@ export const typeIdentifier = {
   pageTypeSlug: "name-place",
   slug: "type-identifier",
   definition: "the name a type carries in code",
-  nameFormatSlug: "name-format/upper-camel-case",
+  nameFormat: "name-format/upper-camel-case",
   invariants: [
     {
       invariantKind: "departure",

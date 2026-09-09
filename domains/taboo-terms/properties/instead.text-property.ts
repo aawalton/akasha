@@ -9,5 +9,5 @@ export const instead = {
   propertySlug: "instead",
   definition: "what is written in place of the term that was meant",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,7 +9,7 @@ export const noticeWarrant = {
   propertySlug: "warrant",
   definition: "which seat a notice goes to and what editing its words costs",
   maxLength: 600,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

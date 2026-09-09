@@ -9,7 +9,7 @@ export const questionAnswer = {
   propertySlug: "answer",
   definition: "what closed a question: Alan's answer, or the note saying why it was let go",
   maxLength: 4000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const queryKey = {
   propertySlug: "query-key",
   definition: "the number a reading takes where its query answers more than one",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

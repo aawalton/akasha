@@ -5,7 +5,7 @@ export const routeSegment = {
   pageTypeSlug: "name-place",
   slug: "route-segment",
   definition: "a fixed part of a route's path",
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

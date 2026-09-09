@@ -9,5 +9,5 @@ export const telnyxAccountApiKey = {
   propertySlug: "api-key",
   definition: "what authorises a send",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

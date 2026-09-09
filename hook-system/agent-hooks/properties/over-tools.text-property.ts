@@ -12,7 +12,7 @@ export const overTools = {
   propertySlug: "over-tools",
   definition: "the tools whose calls a hook judges",
   maxLength: 60,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

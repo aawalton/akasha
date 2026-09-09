@@ -5,7 +5,7 @@ export const fileRole = {
   pageTypeSlug: "name-place",
   slug: "file-role",
   definition: "the part of a file's name saying what the file is to its page",
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

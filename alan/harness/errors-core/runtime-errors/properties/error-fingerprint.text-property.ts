@@ -9,7 +9,7 @@ export const errorFingerprint = {
   propertySlug: "fingerprint",
   definition: "the hash telling one error apart from another",
   maxLength: 16,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

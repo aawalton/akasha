@@ -9,5 +9,5 @@ export const redemptionCode = {
   propertySlug: "redemption-code",
   definition: "what to give to claim the offer",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

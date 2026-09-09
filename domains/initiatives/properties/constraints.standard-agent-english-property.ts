@@ -9,7 +9,7 @@ export const constraints = {
   propertySlug: "constraints",
   definition: "a bound the work is done within",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

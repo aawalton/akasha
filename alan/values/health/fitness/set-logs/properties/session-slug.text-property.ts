@@ -9,7 +9,7 @@ export const sessionSlug = {
   propertySlug: "session-slug",
   definition: "the bout of training the set belonged to",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

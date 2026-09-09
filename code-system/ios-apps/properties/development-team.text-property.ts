@@ -9,5 +9,5 @@ export const developmentTeam = {
   propertySlug: "development-team",
   definition: "the Apple team an app is built for",
   maxLength: 10,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

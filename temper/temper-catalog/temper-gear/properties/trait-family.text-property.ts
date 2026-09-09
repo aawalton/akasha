@@ -9,5 +9,5 @@ export const traitFamily = {
   propertySlug: "trait-family",
   definition: "the kind of piece a trait is worked into",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

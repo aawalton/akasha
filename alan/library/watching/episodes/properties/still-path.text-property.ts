@@ -9,7 +9,7 @@ export const stillPath = {
   propertySlug: "still-path",
   definition: "the path to a frame taken from an episode",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

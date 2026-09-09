@@ -9,7 +9,7 @@ export const shellSha = {
   propertySlug: "shell-sha",
   definition: "the commit of the app shell a cut was built from",
   maxLength: 40,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const refreshToken = {
   propertySlug: "refresh-token",
   definition: "the token a fresh access token is asked for with",
   maxLength: 4000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

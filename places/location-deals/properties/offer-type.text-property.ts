@@ -9,5 +9,5 @@ export const offerType = {
   propertySlug: "offer-type",
   definition: "the shape of what the offer gives",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

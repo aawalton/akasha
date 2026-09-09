@@ -9,7 +9,7 @@ export const sortBy = {
   propertySlug: "sort-by",
   definition: "the key a query orders its answer by",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

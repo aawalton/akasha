@@ -9,5 +9,5 @@ export const lesson = {
   propertySlug: "lesson",
   definition: "what one game teaches",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

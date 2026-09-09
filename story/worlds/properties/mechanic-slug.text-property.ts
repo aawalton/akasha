@@ -9,7 +9,7 @@ export const mechanicSlug = {
   propertySlug: "mechanic-slug",
   definition: "the mechanic a reading reaches",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "stopgap",

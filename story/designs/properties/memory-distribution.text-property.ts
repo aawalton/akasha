@@ -9,5 +9,5 @@ export const memoryDistribution = {
   propertySlug: "memory-distribution",
   definition: "how what a story remembers is spread across it",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

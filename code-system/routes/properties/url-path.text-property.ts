@@ -9,7 +9,7 @@ export const urlPath = {
   propertySlug: "url-path",
   definition: "the path a router serves a route under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

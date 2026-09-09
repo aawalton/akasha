@@ -9,5 +9,5 @@ export const captureSource = {
   propertySlug: "capture-source",
   definition: "the transcript a topic's score was read out of",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

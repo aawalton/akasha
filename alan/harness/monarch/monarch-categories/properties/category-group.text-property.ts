@@ -9,5 +9,5 @@ export const categoryGroup = {
   propertySlug: "category-group",
   definition: "the heading Monarch files a category under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

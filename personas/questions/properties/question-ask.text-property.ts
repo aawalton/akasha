@@ -9,7 +9,7 @@ export const questionAsk = {
   propertySlug: "ask",
   definition: "the question as it was put to Alan",
   maxLength: 4000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

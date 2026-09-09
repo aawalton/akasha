@@ -9,5 +9,5 @@ export const puzzleId = {
   propertySlug: "puzzle-id",
   definition: "the id Lichess gives a puzzle",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

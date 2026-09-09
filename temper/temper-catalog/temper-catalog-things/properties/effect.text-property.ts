@@ -9,5 +9,5 @@ export const effect = {
   propertySlug: "effect",
   definition: "what a thing does, said as the game says it",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

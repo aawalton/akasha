@@ -9,5 +9,5 @@ export const gameSystem = {
   propertySlug: "game-system",
   definition: "the rules a build is read against, said in full",
   maxLength: 20000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

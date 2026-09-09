@@ -9,7 +9,7 @@ export const messageBody = {
   propertySlug: "body",
   definition: "the words a message carries",
   maxLength: 20000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

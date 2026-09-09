@@ -9,5 +9,5 @@ export const scalingStat = {
   propertySlug: "scaling-stat",
   definition: "the character number an effect is worked out from",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

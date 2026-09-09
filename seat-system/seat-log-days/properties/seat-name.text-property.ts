@@ -9,7 +9,7 @@ export const seatName = {
   propertySlug: "seat-name",
   definition: "the name of the seat whose processes wrote a day of lines",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const skillStatus = {
   propertySlug: "status",
   definition: "how far temper works out what a skill does",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

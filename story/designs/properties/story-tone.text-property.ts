@@ -9,5 +9,5 @@ export const storyTone = {
   propertySlug: "tone",
   definition: "how a story is meant to feel as it is read",
   maxLength: 4000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

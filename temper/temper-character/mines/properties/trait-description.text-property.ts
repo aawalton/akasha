@@ -9,5 +9,5 @@ export const traitDescription = {
   propertySlug: "trait-description",
   definition: "what the trait worked into an item does",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

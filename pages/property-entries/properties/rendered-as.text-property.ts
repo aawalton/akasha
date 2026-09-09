@@ -9,7 +9,7 @@ export const renderedAs = {
   propertySlug: "rendered-as",
   definition: "the type a screen draws this property's value as",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

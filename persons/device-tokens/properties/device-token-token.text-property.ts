@@ -9,7 +9,7 @@ export const deviceTokenToken = {
   propertySlug: "token",
   definition: "the value Apple delivers a push to",
   maxLength: 64,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -10,7 +10,7 @@ export const aliases = {
   propertySlug: "aliases",
   definition: "another name the text writes a thing under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const knowing = {
   propertySlug: "knowing",
   definition: "what an element has as so",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

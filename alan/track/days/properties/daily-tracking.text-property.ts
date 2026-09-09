@@ -9,7 +9,7 @@ export const dailyTracking = {
   propertySlug: "daily-tracking",
   definition: "the day a stretch of time was part of",
   maxLength: 36,
-  nameFormatSlug: "name-format/lower-uuid",
+  nameFormat: "name-format/lower-uuid",
   invariants: [
     {
       invariantKind: "gap",

@@ -9,7 +9,7 @@ export const focusScriptId = {
   propertySlug: "focus-script-id",
   definition: "the focus script a scribed skill is written with",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "gap",

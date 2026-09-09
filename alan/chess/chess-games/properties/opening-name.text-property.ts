@@ -9,5 +9,5 @@ export const openingName = {
   propertySlug: "opening-name",
   definition: "the opening a game was played into",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

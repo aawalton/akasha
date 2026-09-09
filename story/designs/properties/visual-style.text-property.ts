@@ -9,5 +9,5 @@ export const visualStyle = {
   propertySlug: "visual-style",
   definition: "how a story's pictures are meant to look",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

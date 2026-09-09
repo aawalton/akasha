@@ -9,7 +9,7 @@ export const questionOffered = {
   propertySlug: "offered",
   definition: "an answer a question holds out for Alan to pick",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

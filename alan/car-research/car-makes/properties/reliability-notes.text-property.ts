@@ -9,5 +9,5 @@ export const reliabilityNotes = {
   propertySlug: "reliability-notes",
   definition: "how the make's cars hold up",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

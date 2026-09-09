@@ -9,7 +9,7 @@ export const colorSlug = {
   propertySlug: "color-slug",
   definition: "the color a reading is always drawn in",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

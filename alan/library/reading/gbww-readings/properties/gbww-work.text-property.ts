@@ -9,5 +9,5 @@ export const gbwwWork = {
   propertySlug: "work",
   definition: "the work a reading is taken from",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

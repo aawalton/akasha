@@ -9,5 +9,5 @@ export const reviewText = {
   propertySlug: "review-text",
   definition: "what the person wrote about the place",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

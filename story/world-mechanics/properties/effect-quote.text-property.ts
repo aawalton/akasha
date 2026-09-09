@@ -9,5 +9,5 @@ export const effectQuote = {
   propertySlug: "effect-quote",
   definition: "the sentence what the mechanic did is read out of",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

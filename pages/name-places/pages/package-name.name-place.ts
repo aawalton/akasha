@@ -5,7 +5,7 @@ export const packageName = {
   pageTypeSlug: "name-place",
   slug: "package-name",
   definition: "the name a package is required by",
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

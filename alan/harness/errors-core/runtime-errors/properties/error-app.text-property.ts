@@ -9,7 +9,7 @@ export const errorApp = {
   propertySlug: "app",
   definition: "the web app whose client met an error",
   maxLength: 32,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

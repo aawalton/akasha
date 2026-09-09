@@ -9,5 +9,5 @@ export const itemNameContains = {
   propertySlug: "item-name-contains",
   definition: "the words an item's name has for the branch to take it",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

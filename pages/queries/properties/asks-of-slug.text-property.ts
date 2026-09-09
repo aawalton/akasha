@@ -9,7 +9,7 @@ export const asksOfSlug = {
   propertySlug: "asks-of-slug",
   definition: "the page type a query asks of",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

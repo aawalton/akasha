@@ -9,7 +9,7 @@ export const skillType = {
   propertySlug: "skill-type",
   definition: "the sort of skill a page is about",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to  a skill type." },
   ],

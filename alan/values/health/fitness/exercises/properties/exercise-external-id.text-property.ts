@@ -9,5 +9,5 @@ export const exerciseExternalId = {
   propertySlug: "exercise-external-id",
   definition: "what the catalogue it was imported from calls this movement",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

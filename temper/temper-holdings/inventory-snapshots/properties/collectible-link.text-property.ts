@@ -9,5 +9,5 @@ export const collectibleLink = {
   propertySlug: "collectible-link",
   definition: "the string the game writes a collectible's whole state as",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

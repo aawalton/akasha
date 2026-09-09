@@ -9,7 +9,7 @@ export const writtenBy = {
   propertySlug: "written-by",
   definition: "the command a generated declaration is written again by",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

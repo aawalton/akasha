@@ -9,5 +9,5 @@ export const scriptType = {
   propertySlug: "script-type",
   definition: "which of the three scripts a scribing source yields",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

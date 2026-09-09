@@ -9,5 +9,5 @@ export const chosen = {
   propertySlug: "chosen",
   definition: "the option a decision settled on",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

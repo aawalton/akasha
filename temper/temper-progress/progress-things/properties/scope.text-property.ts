@@ -9,5 +9,5 @@ export const scope = {
   propertySlug: "scope",
   definition: "how widely a task reaches across an account",
   maxLength: 20,
-  nameFormatSlug: "name-format/lower-snake-case",
+  nameFormat: "name-format/lower-snake-case",
 } as const satisfies TextProperty

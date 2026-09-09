@@ -9,5 +9,5 @@ export const structure = {
   propertySlug: "structure",
   definition: "how a story's parts are arranged",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

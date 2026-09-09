@@ -9,5 +9,5 @@ export const continuity = {
   propertySlug: "continuity",
   definition: "what a story has constant between its chapters",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

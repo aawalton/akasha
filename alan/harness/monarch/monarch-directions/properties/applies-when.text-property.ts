@@ -9,7 +9,7 @@ export const appliesWhen = {
   propertySlug: "applies-when",
   definition: "the shape of transaction a direction reaches",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

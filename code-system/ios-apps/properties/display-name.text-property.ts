@@ -9,5 +9,5 @@ export const displayName = {
   propertySlug: "display-name",
   definition: "the name under an app's icon",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

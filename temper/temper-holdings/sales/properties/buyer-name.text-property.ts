@@ -9,5 +9,5 @@ export const buyerName = {
   propertySlug: "buyer-name",
   definition: "the account an item was bought by",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

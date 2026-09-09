@@ -9,5 +9,5 @@ export const hostAddress = {
   propertySlug: "address",
   definition: "where on the house network the host answers",
   maxLength: 45,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

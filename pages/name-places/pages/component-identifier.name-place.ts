@@ -5,7 +5,7 @@ export const componentIdentifier = {
   pageTypeSlug: "name-place",
   slug: "component-identifier",
   definition: "the name a view component carries in code",
-  nameFormatSlug: "name-format/upper-camel-case",
+  nameFormat: "name-format/upper-camel-case",
   invariants: [
     {
       invariantKind: "departure",

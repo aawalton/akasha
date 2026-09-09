@@ -10,7 +10,7 @@ export const images = {
   propertySlug: "images",
   definition: "every picture a card has been drawn as",
   maxLength: 36,
-  nameFormatSlug: "name-format/lower-uuid",
+  nameFormat: "name-format/lower-uuid",
   invariants: [
     {
       invariantKind: "departure",

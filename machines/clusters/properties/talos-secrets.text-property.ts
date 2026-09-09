@@ -9,7 +9,7 @@ export const talosSecrets = {
   propertySlug: "talos-secrets",
   definition: "the secret bundle a cluster's machines are provisioned from",
   maxLength: 20000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

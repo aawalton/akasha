@@ -9,5 +9,5 @@ export const checkpointName = {
   propertySlug: "checkpoint-name",
   definition: "what a version kept on purpose is called",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

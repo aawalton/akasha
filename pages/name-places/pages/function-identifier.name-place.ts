@@ -5,7 +5,7 @@ export const functionIdentifier = {
   pageTypeSlug: "name-place",
   slug: "function-identifier",
   definition: "the name a function carries in code",
-  nameFormatSlug: "name-format/lower-camel-case",
+  nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
       invariantKind: "departure",

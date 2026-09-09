@@ -9,5 +9,5 @@ export const evidence = {
   propertySlug: "evidence",
   definition: "the observations a claim rests on",
   maxLength: 6000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

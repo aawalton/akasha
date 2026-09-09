@@ -9,5 +9,5 @@ export const tokenHash = {
   propertySlug: "token-hash",
   definition: "the digest a token is recognised by without the token being held",
   maxLength: 64,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

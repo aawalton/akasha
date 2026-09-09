@@ -9,6 +9,6 @@ export const companionId = {
   propertySlug: "companion-id",
   definition: "the companion a page is about",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to  a companion." }],
 } as const satisfies TextProperty

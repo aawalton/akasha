@@ -9,5 +9,5 @@ export const calendarSourceKind = {
   propertySlug: "kind",
   definition: "the sort of calendar a source publishes",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

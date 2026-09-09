@@ -9,5 +9,5 @@ export const description = {
   propertySlug: "description",
   definition: "what a thing is, said for a reader",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

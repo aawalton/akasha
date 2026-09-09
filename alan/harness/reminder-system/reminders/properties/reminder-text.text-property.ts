@@ -9,7 +9,7 @@ export const reminderText = {
   propertySlug: "text",
   definition: "the words a reminder sends",
   maxLength: 6000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

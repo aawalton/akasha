@@ -9,7 +9,7 @@ export const addonKind = {
   propertySlug: "addon-kind",
   definition: "where an addon's source came from",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

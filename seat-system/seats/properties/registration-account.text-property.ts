@@ -9,7 +9,7 @@ export const registrationAccount = {
   propertySlug: "registration-account",
   definition: "the account an agent in a seat signs in as",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "stopgap",

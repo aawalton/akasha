@@ -9,5 +9,5 @@ export const chessBlack = {
   propertySlug: "black",
   definition: "who played the black pieces",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

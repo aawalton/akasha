@@ -9,7 +9,7 @@ export const partOf = {
   propertySlug: "part-of",
   definition: "the unit this unit stops and restarts along with",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

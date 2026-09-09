@@ -9,7 +9,7 @@ export const refusalText = {
   propertySlug: "text",
   definition: "the words a refusal prints, with holes to fill",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

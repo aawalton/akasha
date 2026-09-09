@@ -9,7 +9,7 @@ export const statementLine = {
   propertySlug: "statement-line",
   definition: "the words the bank put on a row",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

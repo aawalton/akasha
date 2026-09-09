@@ -9,7 +9,7 @@ export const pointsSourceMarker = {
   propertySlug: "marker",
   definition: "the name of the thing a persona's points are counted from",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

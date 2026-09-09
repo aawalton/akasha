@@ -9,5 +9,5 @@ export const coordinatorAgent = {
   propertySlug: "coordinator-agent",
   definition: "the agent running the game master's side",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const hiddenPropertiesOrder = {
   propertySlug: "hidden-properties-order",
   definition: "the properties a view hides, in the order a person would reach them",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

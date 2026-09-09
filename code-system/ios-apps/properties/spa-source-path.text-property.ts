@@ -9,7 +9,7 @@ export const spaSourcePath = {
   propertySlug: "spa-source-path",
   definition: "where the site an app serves is built from",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

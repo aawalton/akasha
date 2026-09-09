@@ -9,7 +9,7 @@ export const nativeShellRepoPath = {
   propertySlug: "native-shell-repo-path",
   definition: "where the native shell an app is compiled from is kept",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

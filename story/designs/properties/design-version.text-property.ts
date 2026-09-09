@@ -9,5 +9,5 @@ export const designVersion = {
   propertySlug: "version",
   definition: "which revision of a design this is",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

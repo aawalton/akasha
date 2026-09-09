@@ -9,5 +9,5 @@ export const perceiving = {
   propertySlug: "perceiving",
   definition: "what an element takes in",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

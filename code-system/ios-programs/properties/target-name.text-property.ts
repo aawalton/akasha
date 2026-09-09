@@ -9,7 +9,7 @@ export const targetName = {
   propertySlug: "target-name",
   definition: "the name Xcode builds a program under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   unique: "page-type",
   invariants: [
     {

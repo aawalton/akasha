@@ -9,5 +9,5 @@ export const abilityDescription = {
   propertySlug: "ability-description",
   definition: "what an item's own ability does",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const calendarSourceExternalId = {
   propertySlug: "external-id",
   definition: "the id a calendar source gives itself",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

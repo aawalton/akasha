@@ -9,7 +9,7 @@ export const resourceKey = {
   propertySlug: "resource-key",
   definition: "the key a value sits under inside the resource it belongs to",
   maxLength: 253,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

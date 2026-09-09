@@ -9,5 +9,5 @@ export const storyGenre = {
   propertySlug: "genre",
   definition: "a kind of story a design is written as",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

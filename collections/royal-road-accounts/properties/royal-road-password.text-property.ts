@@ -9,7 +9,7 @@ export const royalRoadPassword = {
   propertySlug: "password",
   definition: "what authorises a Royal Road account's sign-in",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

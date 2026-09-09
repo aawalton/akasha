@@ -9,7 +9,7 @@ export const grimoireId = {
   propertySlug: "grimoire-id",
   definition: "the grimoire a scribed skill is scribed from",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "gap",

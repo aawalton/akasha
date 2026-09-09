@@ -9,7 +9,7 @@ export const luaFeature = {
   propertySlug: "lua-feature",
   definition: "the lualib feature a helper is emitted as",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const errorReleaseSha = {
   propertySlug: "release-sha",
   definition: "the build a client was running when a client met an error",
   maxLength: 64,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

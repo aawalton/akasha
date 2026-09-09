@@ -5,7 +5,7 @@ export const environmentVariable = {
   pageTypeSlug: "name-place",
   slug: "environment-variable",
   definition: "the name a value handed to a process from outside is read under",
-  nameFormatSlug: "name-format/upper-snake-case",
+  nameFormat: "name-format/upper-snake-case",
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const storyThemes = {
   propertySlug: "themes",
   definition: "what a story keeps returning to",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

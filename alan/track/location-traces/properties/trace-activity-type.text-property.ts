@@ -9,5 +9,5 @@ export const traceActivityType = {
   propertySlug: "activity-type",
   definition: "what the device judged Alan to be doing",
   maxLength: 32,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

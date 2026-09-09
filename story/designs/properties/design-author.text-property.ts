@@ -9,5 +9,5 @@ export const designAuthor = {
   propertySlug: "author",
   definition: "who a story is written as being by",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

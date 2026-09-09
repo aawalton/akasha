@@ -9,5 +9,5 @@ export const dealKey = {
   propertySlug: "deal-key",
   definition: "what the source calls the offer",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,7 +9,7 @@ export const wireKey = {
   propertySlug: "wire-key",
   definition: "the key a reading travels under on the wire",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

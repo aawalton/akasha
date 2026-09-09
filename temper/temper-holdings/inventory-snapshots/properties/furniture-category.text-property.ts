@@ -9,5 +9,5 @@ export const furnitureCategory = {
   propertySlug: "furniture-category",
   definition: "the room a furnishing is filed under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

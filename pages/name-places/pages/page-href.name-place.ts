@@ -5,7 +5,7 @@ export const pageHref = {
   pageTypeSlug: "name-place",
   slug: "page-href",
   definition: "the address a page is reached by from outside",
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

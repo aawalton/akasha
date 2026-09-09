@@ -9,7 +9,7 @@ export const errorKind = {
   propertySlug: "kind",
   definition: "the way a client came to meet an error",
   maxLength: 32,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

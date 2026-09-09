@@ -9,7 +9,7 @@ export const externalTags = {
   propertySlug: "external-tags",
   definition: "a word the source files a collection under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const themes = {
   propertySlug: "themes",
   definition: "what a game keeps returning to, said in a line",
   maxLength: 300,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const spelling = {
   propertySlug: "spelling",
   definition: "how a term is written, in its plainest form",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const securityName = {
   propertySlug: "security-name",
   definition: "what the fund or share a holding is of is called",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

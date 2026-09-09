@@ -9,6 +9,6 @@ export const buffId = {
   propertySlug: "buff-id",
   definition: "the helpful effect a thing puts on whoever uses it",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a buff." }],
 } as const satisfies TextProperty

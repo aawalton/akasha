@@ -9,5 +9,5 @@ export const resource = {
   propertySlug: "resource",
   definition: "the pool a companion spends to cast",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

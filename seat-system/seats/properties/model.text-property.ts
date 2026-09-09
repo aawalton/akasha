@@ -9,5 +9,5 @@ export const model = {
   propertySlug: "model",
   definition: "the model answering in a seat",
   maxLength: 40,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

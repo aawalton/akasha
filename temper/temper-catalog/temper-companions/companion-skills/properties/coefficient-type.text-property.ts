@@ -9,5 +9,5 @@ export const coefficientType = {
   propertySlug: "coefficient-type",
   definition: "how often a coefficient counts against the metric it reads",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

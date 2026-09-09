@@ -9,5 +9,5 @@ export const calendarEventSourceDescription = {
   propertySlug: "source-description",
   definition: "what a source says an event is",
   maxLength: 6000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

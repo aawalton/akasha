@@ -9,5 +9,5 @@ export const openingEco = {
   propertySlug: "opening-eco",
   definition: "the ECO code of an opening",
   maxLength: 3,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -11,7 +11,7 @@ export const keys = {
   propertySlug: "keys",
   definition: "the keys a query answers with, in the order it answers them",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

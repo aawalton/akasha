@@ -9,5 +9,5 @@ export const parentCorporation = {
   propertySlug: "parent-corporation",
   definition: "the group the make belongs to",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,7 +9,7 @@ export const spotifyTrackId = {
   propertySlug: "spotify-track-id",
   definition: "the id Spotify keeps a track under",
   maxLength: 22,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

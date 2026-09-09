@@ -10,7 +10,7 @@ export const grade = {
   propertySlug: "grade",
   definition: "Alan's mark for how well a picture caught the persona",
   maxLength: 2,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

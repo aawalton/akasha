@@ -9,5 +9,5 @@ export const abilityHeader = {
   propertySlug: "ability-header",
   definition: "the line an item's ability is shown under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

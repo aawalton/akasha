@@ -9,5 +9,5 @@ export const constantFamily = {
   propertySlug: "constant-family",
   definition: "the group of gear values a constant belongs to",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

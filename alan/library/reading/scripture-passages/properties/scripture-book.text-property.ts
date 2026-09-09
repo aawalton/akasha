@@ -9,7 +9,7 @@ export const scriptureBook = {
   propertySlug: "book",
   definition: "the book of scripture a passage is in",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

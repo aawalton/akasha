@@ -9,5 +9,5 @@ export const powertrainOptions = {
   propertySlug: "powertrain-options",
   definition: "the kinds of powertrain the model is sold with",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

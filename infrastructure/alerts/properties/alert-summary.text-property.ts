@@ -9,7 +9,7 @@ export const alertSummary = {
   propertySlug: "summary",
   definition: "the line shown when an alert is raised",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

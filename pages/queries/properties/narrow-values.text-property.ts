@@ -11,7 +11,7 @@ export const narrowValues = {
   propertySlug: "values",
   definition: "what one narrow weighs a page's value against",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const bodyPropertyId = {
   propertySlug: "body-property-id",
   definition: "the key of the property a page's body is read from",
   maxLength: 64,
-  nameFormatSlug: "name-format/lower-camel-case",
+  nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
       invariantKind: "departure",

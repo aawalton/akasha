@@ -9,5 +9,5 @@ export const statusName = {
   propertySlug: "status",
   definition: "the status an effect applies",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

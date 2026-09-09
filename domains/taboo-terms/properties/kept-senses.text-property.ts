@@ -11,7 +11,7 @@ export const keptSenses = {
   propertySlug: "kept-senses",
   definition: "the meanings a word is written in",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

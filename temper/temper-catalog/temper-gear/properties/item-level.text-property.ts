@@ -9,7 +9,7 @@ export const itemLevel = {
   propertySlug: "level",
   definition: "the character level an item is made for",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

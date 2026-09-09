@@ -9,5 +9,5 @@ export const refreshNotes = {
   propertySlug: "refresh-notes",
   definition: "what changed from the model year before",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

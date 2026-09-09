@@ -9,5 +9,5 @@ export const tokenName = {
   propertySlug: "token-name",
   definition: "the name a token is shown under where tokens are listed",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

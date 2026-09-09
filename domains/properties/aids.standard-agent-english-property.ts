@@ -11,7 +11,7 @@ export const aids = {
   propertySlug: "aids",
   definition: "the rulings on acts a reader is about to take, each for or against",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

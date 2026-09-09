@@ -9,5 +9,5 @@ export const wantedBy = {
   propertySlug: "wanted-by",
   definition: "the target a unit is pulled in by",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

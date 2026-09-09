@@ -9,5 +9,5 @@ export const recipeName = {
   propertySlug: "recipe-name",
   definition: "the name a craftable recipe is shown under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

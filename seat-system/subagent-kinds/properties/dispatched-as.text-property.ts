@@ -9,7 +9,7 @@ export const dispatchedAs = {
   propertySlug: "dispatched-as",
   definition: "the kind of agent a subagent was run as",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

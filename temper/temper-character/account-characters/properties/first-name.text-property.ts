@@ -9,5 +9,5 @@ export const firstName = {
   propertySlug: "first-name",
   definition: "what a character is called for short",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const memberName = {
   propertySlug: "member-name",
   definition: "what one member of a list is called",
   maxLength: 60,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

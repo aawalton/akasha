@@ -9,7 +9,7 @@ export const errorUrl = {
   propertySlug: "url",
   definition: "where a client was when a client met an error",
   maxLength: 2048,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

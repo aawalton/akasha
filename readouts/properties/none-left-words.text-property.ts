@@ -9,5 +9,5 @@ export const noneLeftWords = {
   propertySlug: "none-left-words",
   definition: "what is shown in place of a reading of nothing",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

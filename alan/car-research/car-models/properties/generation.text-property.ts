@@ -9,5 +9,5 @@ export const generation = {
   propertySlug: "generation",
   definition: "which generation of the nameplate this is",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const address = {
   propertySlug: "address",
   definition: "the street address of the place",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

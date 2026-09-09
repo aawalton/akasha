@@ -9,5 +9,5 @@ export const caseAnswer = {
   propertySlug: "answer",
   definition: "the answer a case is labelled with",
   maxLength: 3,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

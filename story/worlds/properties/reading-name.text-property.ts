@@ -9,5 +9,5 @@ export const readingName = {
   propertySlug: "reading-name",
   definition: "the name as a world's text writes it",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

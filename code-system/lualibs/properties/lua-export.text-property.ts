@@ -9,7 +9,7 @@ export const luaExport = {
   propertySlug: "lua-export",
   definition: "the name a compiled helper is reached by in Lua",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "constraint",

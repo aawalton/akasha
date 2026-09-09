@@ -9,5 +9,5 @@ export const prompt = {
   propertySlug: "prompt",
   definition: "what a model is asked, before the text judged is appended",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,7 +9,7 @@ export const recordBookSlug = {
   propertySlug: "book-slug",
   definition: "the book a record is kept about",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "stopgap",

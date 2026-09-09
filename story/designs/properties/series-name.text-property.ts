@@ -9,5 +9,5 @@ export const seriesName = {
   propertySlug: "series-name",
   definition: "the series a story is one of",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

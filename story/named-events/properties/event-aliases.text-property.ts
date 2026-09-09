@@ -9,5 +9,5 @@ export const eventAliases = {
   propertySlug: "aliases",
   definition: "the other names the story calls it by",
   maxLength: 50,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

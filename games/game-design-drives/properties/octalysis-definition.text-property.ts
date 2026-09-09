@@ -9,5 +9,5 @@ export const octalysisDefinition = {
   propertySlug: "definition",
   definition: "how Chou defines a drive",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

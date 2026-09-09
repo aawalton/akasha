@@ -9,5 +9,5 @@ export const mainSha = {
   propertySlug: "main-sha",
   definition: "the commit of the main repo a cut was built from",
   maxLength: 40,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

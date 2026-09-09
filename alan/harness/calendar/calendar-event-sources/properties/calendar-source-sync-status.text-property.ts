@@ -9,5 +9,5 @@ export const calendarSourceSyncStatus = {
   propertySlug: "sync-status",
   definition: "whether a source is still read on a pass",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

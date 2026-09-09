@@ -34,7 +34,7 @@ const JOINING = new Set<ts.SyntaxKind>([
 ])
 
 export type Placing = {
-  readonly nameFormatSlug: string
+  readonly nameFormat: string
   readonly matching: Matching
 }
 
@@ -60,7 +60,7 @@ function refusalAt(
   if (placing.matching(name.text)) return null
   const line = lineOf(source, name)
   const said = `line ${line} declares the ${kind} \`${name.text}\``
-  return `${said}, which is not written in \`${placing.nameFormatSlug}\``
+  return `${said}, which is not written in \`${placing.nameFormat}\``
 }
 
 function boundToAFunction(node: ts.VariableDeclaration): boolean {
@@ -272,16 +272,16 @@ export function placesIn(
   codeAt: (path: string) => string | null = (path) => path
 ): Places {
   const formatting = matchingIn(root, index, codeAt)
-  const held = (nameFormatSlug: string): Placing => ({
-    nameFormatSlug,
-    matching: formatting(nameFormatSlug),
+  const held = (nameFormat: string): Placing => ({
+    nameFormat,
+    matching: formatting(nameFormat),
   })
   return {
-    typeIdentifier: held(typeIdentifier.nameFormatSlug),
-    functionIdentifier: held(functionIdentifier.nameFormatSlug),
-    componentIdentifier: held(componentIdentifier.nameFormatSlug),
-    constantIdentifier: held(constantIdentifier.nameFormatSlug),
-    derivedIdentifier: held(derivedIdentifier.nameFormatSlug),
+    typeIdentifier: held(typeIdentifier.nameFormat),
+    functionIdentifier: held(functionIdentifier.nameFormat),
+    componentIdentifier: held(componentIdentifier.nameFormat),
+    constantIdentifier: held(constantIdentifier.nameFormat),
+    derivedIdentifier: held(derivedIdentifier.nameFormat),
   }
 }
 

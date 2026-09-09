@@ -9,7 +9,7 @@ export const toDoSlug = {
   propertySlug: "to-do-slug",
   definition: "the to-do a round finished",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "gap",

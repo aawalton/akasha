@@ -9,7 +9,7 @@ export const workingMemory = {
   propertySlug: "working-memory",
   definition: "the state of the work on one intent",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const writingPhilosophy = {
   propertySlug: "writing-philosophy",
   definition: "the rules the writing of a story has itself to",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

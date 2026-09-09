@@ -9,5 +9,5 @@ export const destination = {
   propertySlug: "destination",
   definition: "where a rule moving an item puts the item",
   maxLength: 50,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

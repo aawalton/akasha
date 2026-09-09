@@ -9,5 +9,5 @@ export const history = {
   propertySlug: "history",
   definition: "how a persona came to be, told in her own voice",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

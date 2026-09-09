@@ -9,5 +9,5 @@ export const slotCategory = {
   propertySlug: "slot-category",
   definition: "the group a jewelry place falls in",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

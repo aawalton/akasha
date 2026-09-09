@@ -9,5 +9,5 @@ export const sourcePlaceId = {
   propertySlug: "source-place-id",
   definition: "what the source calls the place",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

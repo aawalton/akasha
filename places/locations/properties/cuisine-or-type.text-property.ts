@@ -9,5 +9,5 @@ export const cuisineOrType = {
   propertySlug: "cuisine-or-type",
   definition: "what the place serves",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

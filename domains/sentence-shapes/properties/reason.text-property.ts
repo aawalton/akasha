@@ -9,5 +9,5 @@ export const reason = {
   propertySlug: "reason",
   definition: "the fact a sentence shape is refused on",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

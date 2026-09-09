@@ -9,7 +9,7 @@ export const collectionTags = {
   propertySlug: "tags",
   definition: "a word a person files a collection under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

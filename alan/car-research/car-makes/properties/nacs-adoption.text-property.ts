@@ -9,5 +9,5 @@ export const nacsAdoption = {
   propertySlug: "nacs-adoption",
   definition: "how far the make has taken up the North American Charging Standard",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

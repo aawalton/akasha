@@ -9,7 +9,7 @@ export const tagColour = {
   propertySlug: "tag-colour",
   definition: "the colour Monarch draws a tag in",
   maxLength: 7,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

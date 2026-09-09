@@ -9,5 +9,5 @@ export const identityStatementTags = {
   propertySlug: "identity-statement-tags",
   definition: "the parts of life the statement touches",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

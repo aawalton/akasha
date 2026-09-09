@@ -9,5 +9,5 @@ export const damageType = {
   propertySlug: "damage-type",
   definition: "the flavour of damage an effect deals",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

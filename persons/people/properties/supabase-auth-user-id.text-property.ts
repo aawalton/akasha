@@ -9,7 +9,7 @@ export const supabaseAuthUserId = {
   propertySlug: "supabase-auth-user-id",
   definition: "the account a person signs in with",
   maxLength: 36,
-  nameFormatSlug: "name-format/lower-uuid",
+  nameFormat: "name-format/lower-uuid",
   invariants: [
     {
       invariantKind: "departure",

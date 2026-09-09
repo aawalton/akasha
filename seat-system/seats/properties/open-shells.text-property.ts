@@ -10,7 +10,7 @@ export const openShells = {
   propertySlug: "open-shells",
   definition: "every background command a seat started that is still live",
   maxLength: 64,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

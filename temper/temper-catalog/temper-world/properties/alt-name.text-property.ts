@@ -9,5 +9,5 @@ export const altName = {
   propertySlug: "alt-name",
   definition: "the second name a people is known by",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

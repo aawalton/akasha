@@ -9,6 +9,6 @@ export const quality = {
   propertySlug: "quality",
   definition: "the grade a thing is made at",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a quality." }],
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const equipmentNotes = {
   propertySlug: "notes",
   definition: "what is worth knowing about a piece of kit beyond its numbers",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

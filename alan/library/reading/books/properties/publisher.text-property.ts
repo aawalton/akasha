@@ -9,5 +9,5 @@ export const publisher = {
   propertySlug: "publisher",
   definition: "who put an edition out",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

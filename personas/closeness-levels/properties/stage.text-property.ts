@@ -9,5 +9,5 @@ export const stage = {
   propertySlug: "stage",
   definition: "the phase of closeness a rung belongs to",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

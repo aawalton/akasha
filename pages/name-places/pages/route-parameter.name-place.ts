@@ -5,7 +5,7 @@ export const routeParameter = {
   pageTypeSlug: "name-place",
   slug: "route-parameter",
   definition: "the name of a part of a route's path that is filled in",
-  nameFormatSlug: "name-format/lower-camel-case",
+  nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
       invariantKind: "departure",

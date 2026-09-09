@@ -9,7 +9,7 @@ export const variants = {
   propertySlug: "variants",
   definition: "another spelling of a term, differing from the plainest only by grammar",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -5,7 +5,7 @@ export const derivedIdentifier = {
   pageTypeSlug: "name-place",
   slug: "derived-identifier",
   definition: "the name a value carries inside the function working it out",
-  nameFormatSlug: "name-format/lower-camel-case",
+  nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
       invariantKind: "departure",

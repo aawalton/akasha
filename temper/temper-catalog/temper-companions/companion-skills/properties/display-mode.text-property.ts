@@ -9,5 +9,5 @@ export const displayMode = {
   propertySlug: "display-mode",
   definition: "whether a value is said as a whole or as one tick",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const purpose = {
   propertySlug: "purpose",
   definition: "what a persona is for",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

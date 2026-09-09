@@ -9,7 +9,7 @@ export const definition = {
   propertySlug: "definition",
   definition: "the sentence naming what a page's subject is",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "absence",

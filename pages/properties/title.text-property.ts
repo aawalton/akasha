@@ -9,7 +9,7 @@ export const title = {
   propertySlug: "title",
   definition: "the name a thing is shown under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

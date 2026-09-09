@@ -9,5 +9,5 @@ export const antiquityName = {
   propertySlug: "antiquity-name",
   definition: "the name an antiquity is shown under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

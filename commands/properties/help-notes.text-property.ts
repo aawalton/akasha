@@ -9,7 +9,7 @@ export const helpNotes = {
   propertySlug: "help-notes",
   definition: "one line a command's help says past the list of what it takes",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const amazonOrderNumber = {
   propertySlug: "amazon-order-number",
   definition: "the Amazon order a transaction paid for",
   maxLength: 40,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

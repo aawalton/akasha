@@ -9,7 +9,7 @@ export const resourceKind = {
   propertySlug: "resource-kind",
   definition: "the kind of cluster resource a service is",
   maxLength: 50,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

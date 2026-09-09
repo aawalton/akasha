@@ -9,7 +9,7 @@ export const loadedAs = {
   propertySlug: "loaded-as",
   definition: "the name an addon's manifest loads this file by",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "constraint",

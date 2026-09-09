@@ -9,7 +9,7 @@ export const reminderSchedule = {
   propertySlug: "schedule",
   definition: "the times a reminder is sent at, written as systemd states a calendar",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

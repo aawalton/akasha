@@ -9,5 +9,5 @@ export const chessSource = {
   propertySlug: "source",
   definition: "where a game came from",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

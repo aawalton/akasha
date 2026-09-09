@@ -9,5 +9,5 @@ export const installPath = {
   propertySlug: "install-path",
   definition: "where outside akasha the body is put so the thing reading it finds it",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

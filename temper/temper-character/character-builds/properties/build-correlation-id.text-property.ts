@@ -9,7 +9,7 @@ export const buildCorrelationId = {
   propertySlug: "correlation-id",
   definition: "the identity the client minted for a build before the build was kept",
   maxLength: 36,
-  nameFormatSlug: "name-format/lower-uuid",
+  nameFormat: "name-format/lower-uuid",
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const referenceEvent = {
   propertySlug: "event",
   definition: "what happened to the mechanic where the text named it",
   maxLength: 36,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

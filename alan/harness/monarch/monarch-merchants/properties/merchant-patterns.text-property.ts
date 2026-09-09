@@ -9,7 +9,7 @@ export const merchantPatterns = {
   propertySlug: "merchant-patterns",
   definition: "a run of the bank's own words that names a merchant",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

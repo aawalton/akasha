@@ -9,5 +9,5 @@ export const trackName = {
   propertySlug: "track-name",
   definition: "the name Spotify gives a track",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

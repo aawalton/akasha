@@ -5,7 +5,7 @@ export const constantIdentifier = {
   pageTypeSlug: "name-place",
   slug: "constant-identifier",
   definition: "the name data carries at the top of a file, outside any function",
-  nameFormatSlug: "name-format/upper-snake-case",
+  nameFormat: "name-format/upper-snake-case",
   invariants: [
     {
       invariantKind: "departure",

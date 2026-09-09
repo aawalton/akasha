@@ -11,7 +11,7 @@ export const scopes = {
   propertySlug: "scopes",
   definition: "one permission the account's token was granted",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

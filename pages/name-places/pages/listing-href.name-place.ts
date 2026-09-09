@@ -5,7 +5,7 @@ export const listingHref = {
   pageTypeSlug: "name-place",
   slug: "listing-href",
   definition: "the address the pages of one type are reached by from outside",
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,6 +9,6 @@ export const profileName = {
   propertySlug: "profile-name",
   definition: "the profile Apple signs a program against",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   unique: "page-type",
 } as const satisfies TextProperty

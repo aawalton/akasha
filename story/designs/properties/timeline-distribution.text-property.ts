@@ -9,5 +9,5 @@ export const timelineDistribution = {
   propertySlug: "timeline-distribution",
   definition: "how a story's events are spread across its time",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

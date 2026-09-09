@@ -9,5 +9,5 @@ export const achievementName = {
   propertySlug: "name",
   definition: "the name an achievement is shown under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

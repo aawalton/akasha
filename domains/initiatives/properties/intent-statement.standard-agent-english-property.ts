@@ -9,5 +9,5 @@ export const intentStatement = {
   propertySlug: "statement",
   definition: "one sentence saying what an initiative is to make so",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies StandardAgentEnglishProperty

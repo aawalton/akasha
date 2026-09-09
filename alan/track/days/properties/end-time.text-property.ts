@@ -9,7 +9,7 @@ export const endTime = {
   propertySlug: "end-time",
   definition: "when a stretch of time ended",
   maxLength: 24,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "gap",

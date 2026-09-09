@@ -9,7 +9,7 @@ export const takes = {
   propertySlug: "takes",
   definition: "what one thing a command takes is for",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

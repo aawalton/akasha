@@ -9,7 +9,7 @@ export const iconSlot = {
   propertySlug: "slot",
   definition: "the piece an icon is shown for",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

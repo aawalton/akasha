@@ -9,7 +9,7 @@ export const parent = {
   propertySlug: "parent",
   definition: "the page a page hangs beneath",
   maxLength: 200,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to  the page above." },
   ],

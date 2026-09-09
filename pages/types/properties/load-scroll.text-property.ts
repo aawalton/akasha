@@ -9,7 +9,7 @@ export const loadScroll = {
   propertySlug: "load-scroll",
   definition: "the place in a page the reader is put at as the page opens",
   maxLength: 8,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

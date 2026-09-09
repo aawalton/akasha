@@ -9,7 +9,7 @@ export const agentId = {
   propertySlug: "agent-id",
   definition: "the id an agent acts under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

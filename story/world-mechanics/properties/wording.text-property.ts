@@ -9,5 +9,5 @@ export const wording = {
   propertySlug: "wording",
   definition: "the name as that one place in the text wrote it",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

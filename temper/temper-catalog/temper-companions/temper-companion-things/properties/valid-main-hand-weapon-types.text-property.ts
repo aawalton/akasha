@@ -9,5 +9,5 @@ export const validMainHandWeaponTypes = {
   propertySlug: "valid-main-hand-weapon-types",
   definition: "a weapon a pairing takes in the main hand",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

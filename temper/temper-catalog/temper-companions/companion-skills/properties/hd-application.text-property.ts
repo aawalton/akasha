@@ -9,5 +9,5 @@ export const hdApplication = {
   propertySlug: "hd-application",
   definition: "how healing done is read against a heal over time",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const seriesStatus = {
   propertySlug: "series-status",
   definition: "how far along the series a story is one of has got",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const smsDiscardSender = {
   propertySlug: "sender",
   definition: "the number a thrown-away message came from",
   maxLength: 40,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

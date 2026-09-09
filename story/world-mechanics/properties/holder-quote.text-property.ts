@@ -9,5 +9,5 @@ export const holderQuote = {
   propertySlug: "holder-quote",
   definition: "the sentence a holder is read out of",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,7 +9,7 @@ export const lastMessagedAt = {
   propertySlug: "last-messaged-at",
   definition: "when Alan last wrote to a persona",
   maxLength: 24,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "stopgap",

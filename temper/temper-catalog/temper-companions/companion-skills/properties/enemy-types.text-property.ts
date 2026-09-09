@@ -9,5 +9,5 @@ export const enemyTypes = {
   propertySlug: "enemy-types",
   definition: "the sort of enemy a test holds for",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

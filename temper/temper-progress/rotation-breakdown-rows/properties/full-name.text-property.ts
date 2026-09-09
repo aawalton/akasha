@@ -9,5 +9,5 @@ export const fullName = {
   propertySlug: "full-name",
   definition: "the name a row is shown under where there is room for it",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

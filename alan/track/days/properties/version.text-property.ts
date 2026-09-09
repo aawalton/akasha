@@ -9,7 +9,7 @@ export const version = {
   propertySlug: "version",
   definition: "which shape of a record was written",
   maxLength: 10,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

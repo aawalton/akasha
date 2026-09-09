@@ -9,5 +9,5 @@ export const puzzleMoves = {
   propertySlug: "moves",
   definition: "a puzzle's answer as moves in long algebraic",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

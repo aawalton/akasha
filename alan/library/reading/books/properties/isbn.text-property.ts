@@ -9,5 +9,5 @@ export const isbn = {
   propertySlug: "isbn",
   definition: "the ten-character number an edition was catalogued under",
   maxLength: 10,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

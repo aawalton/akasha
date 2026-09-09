@@ -9,5 +9,5 @@ export const act = {
   propertySlug: "act",
   definition: "what a directive tells its reader to do",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies StandardAgentEnglishProperty

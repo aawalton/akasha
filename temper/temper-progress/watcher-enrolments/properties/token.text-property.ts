@@ -9,5 +9,5 @@ export const token = {
   propertySlug: "token",
   definition: "the secret a watcher signs its calls with",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

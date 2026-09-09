@@ -9,5 +9,5 @@ export const relationshipAccountUserId = {
   propertySlug: "relationship-account-user-id",
   definition: "the account this person signs in with",
   maxLength: 50,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

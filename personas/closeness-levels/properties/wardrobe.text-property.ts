@@ -9,5 +9,5 @@ export const wardrobe = {
   propertySlug: "wardrobe",
   definition: "what a persona wears at a rung",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

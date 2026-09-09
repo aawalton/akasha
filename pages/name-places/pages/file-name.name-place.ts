@@ -5,7 +5,7 @@ export const fileName = {
   pageTypeSlug: "name-place",
   slug: "file-name",
   definition: "the name a file carries",
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

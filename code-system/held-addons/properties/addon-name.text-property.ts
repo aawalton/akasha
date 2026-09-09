@@ -9,7 +9,7 @@ export const addonName = {
   propertySlug: "addon-name",
   definition: "the name the game loads an addon under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

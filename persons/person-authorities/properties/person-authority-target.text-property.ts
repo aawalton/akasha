@@ -9,7 +9,7 @@ export const personAuthorityTarget = {
   propertySlug: "target",
   definition: "the area the authority covers",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

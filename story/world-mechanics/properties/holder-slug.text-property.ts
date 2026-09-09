@@ -9,5 +9,5 @@ export const holderSlug = {
   propertySlug: "holder-slug",
   definition: "the character a naming gives the mechanic to",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

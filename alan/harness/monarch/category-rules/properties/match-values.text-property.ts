@@ -9,7 +9,7 @@ export const matchValues = {
   propertySlug: "values",
   definition: "what a clause holds to weigh a transaction against",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

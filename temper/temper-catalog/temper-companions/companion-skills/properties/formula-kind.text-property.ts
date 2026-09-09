@@ -9,5 +9,5 @@ export const formulaKind = {
   propertySlug: "type",
   definition: "how an effect works out the number it has",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

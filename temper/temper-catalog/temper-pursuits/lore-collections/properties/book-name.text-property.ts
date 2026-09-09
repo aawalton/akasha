@@ -9,5 +9,5 @@ export const bookName = {
   propertySlug: "book-name",
   definition: "the name a lore book is shown under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

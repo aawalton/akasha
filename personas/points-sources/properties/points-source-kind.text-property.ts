@@ -16,7 +16,7 @@ export const pointsSourceKind = {
   propertySlug: "kind",
   definition: "how a persona's points are worked out from what she counts",
   maxLength: 11,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

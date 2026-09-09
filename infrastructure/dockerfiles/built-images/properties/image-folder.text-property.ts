@@ -9,5 +9,5 @@ export const imageFolder = {
   propertySlug: "folder",
   definition: "the folder an image is built in",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

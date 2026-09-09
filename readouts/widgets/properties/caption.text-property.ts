@@ -9,5 +9,5 @@ export const caption = {
   propertySlug: "caption",
   definition: "the words a widget draws beside its reading",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

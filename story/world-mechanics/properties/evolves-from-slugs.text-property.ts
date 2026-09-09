@@ -10,7 +10,7 @@ export const evolvesFromSlugs = {
   propertySlug: "evolves-from-slugs",
   definition: "every mechanic this one is reached from",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "gap",

@@ -5,7 +5,7 @@ export const foreignName = {
   pageTypeSlug: "name-place",
   slug: "foreign-name",
   definition: "a name whose owner is outside akasha",
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

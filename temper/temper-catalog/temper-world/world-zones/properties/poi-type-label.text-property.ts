@@ -9,5 +9,5 @@ export const poiTypeLabel = {
   propertySlug: "poi-type-label",
   definition: "the name a kind of point of interest is shown under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

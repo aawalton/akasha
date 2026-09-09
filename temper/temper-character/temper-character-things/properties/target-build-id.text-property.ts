@@ -9,5 +9,5 @@ export const targetBuildId = {
   propertySlug: "target-build-id",
   definition: "the build a character is working towards",
   maxLength: 36,
-  nameFormatSlug: "name-format/lower-uuid",
+  nameFormat: "name-format/lower-uuid",
 } as const satisfies TextProperty

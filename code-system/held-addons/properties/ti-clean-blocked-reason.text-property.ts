@@ -9,7 +9,7 @@ export const tiCleanBlockedReason = {
   propertySlug: "ti-clean-blocked-reason",
   definition: "what keeps an addon from reaching ti-clean",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

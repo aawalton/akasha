@@ -9,5 +9,5 @@ export const bookTitle = {
   propertySlug: "book-title",
   definition: "the title of the book a story is published as",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

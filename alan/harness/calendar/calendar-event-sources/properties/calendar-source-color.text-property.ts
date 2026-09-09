@@ -9,5 +9,5 @@ export const calendarSourceColor = {
   propertySlug: "color",
   definition: "the color a source's events are shown in",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const unit = {
   propertySlug: "unit",
   definition: "what a reading counts",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

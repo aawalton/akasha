@@ -9,7 +9,7 @@ export const clusterServiceSchedule = {
   propertySlug: "schedule",
   definition: "the times the cluster starts a workload",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

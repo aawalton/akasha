@@ -9,5 +9,5 @@ export const calendarSourceTimezone = {
   propertySlug: "timezone",
   definition: "the zone a source states its times in",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

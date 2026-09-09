@@ -9,5 +9,5 @@ export const drmPolicy = {
   propertySlug: "drm-policy",
   definition: "what the make locks behind its own software",
   maxLength: 5000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

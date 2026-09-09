@@ -9,7 +9,7 @@ export const recordBrief = {
   propertySlug: "brief",
   definition: "the summary a record carries apart from its text",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

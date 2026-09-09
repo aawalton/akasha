@@ -9,7 +9,7 @@ export const characterSlug = {
   propertySlug: "character-slug",
   definition: "the character a reading reaches",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "stopgap",

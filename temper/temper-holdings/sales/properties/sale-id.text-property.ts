@@ -9,7 +9,7 @@ export const saleId = {
   propertySlug: "sale-id",
   definition: "what the game calls one sale",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     { invariantKind: "departure", statement: "A sale carrying no sale id is not kept." },
   ],

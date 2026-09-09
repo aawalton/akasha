@@ -9,5 +9,5 @@ export const killSwitchPolicy = {
   propertySlug: "kill-switch-policy",
   definition: "what the make can stop the car doing from outside it",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

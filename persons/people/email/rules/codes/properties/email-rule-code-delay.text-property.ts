@@ -9,7 +9,7 @@ export const emailRuleCodeDelay = {
   propertySlug: "delay",
   definition: "how long after mail arrives before the rule acts on it",
   maxLength: 10,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

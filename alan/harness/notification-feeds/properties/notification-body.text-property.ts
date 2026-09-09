@@ -9,5 +9,5 @@ export const notificationBody = {
   propertySlug: "body",
   definition: "the words under a notification's title",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,7 +9,7 @@ export const sequenceOrderBy = {
   propertySlug: "order-by",
   definition: "the key a run of pages is sorted by",
   maxLength: 64,
-  nameFormatSlug: "name-format/lower-camel-case",
+  nameFormat: "name-format/lower-camel-case",
   invariants: [
     {
       invariantKind: "departure",

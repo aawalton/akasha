@@ -9,5 +9,5 @@ export const armorWeight = {
   propertySlug: "armor-weight",
   definition: "how heavy a piece of armor is",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

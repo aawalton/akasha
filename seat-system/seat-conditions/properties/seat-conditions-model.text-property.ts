@@ -9,7 +9,7 @@ export const seatConditionsModel = {
   propertySlug: "model",
   definition: "the model a seat's agent answers on",
   maxLength: 40,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

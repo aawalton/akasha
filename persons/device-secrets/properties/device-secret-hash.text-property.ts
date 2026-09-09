@@ -9,7 +9,7 @@ export const deviceSecretHash = {
   propertySlug: "secret-hash",
   definition: "the sha-256 of the secret a device presents, written as lower hex",
   maxLength: 64,
-  nameFormatSlug: null,
+  nameFormat: null,
   unique: "page-type",
   invariants: [
     {

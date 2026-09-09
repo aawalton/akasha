@@ -9,5 +9,5 @@ export const fen = {
   propertySlug: "fen",
   definition: "a position in Forsyth-Edwards notation",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

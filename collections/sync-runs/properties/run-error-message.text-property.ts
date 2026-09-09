@@ -9,5 +9,5 @@ export const runErrorMessage = {
   propertySlug: "run-error-message",
   definition: "what a pull said as it failed",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

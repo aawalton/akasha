@@ -9,5 +9,5 @@ export const valueType = {
   propertySlug: "value-type",
   definition: "whether an effect's value counts as a whole number or as a fraction",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

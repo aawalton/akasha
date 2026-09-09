@@ -9,7 +9,7 @@ export const judgement = {
   propertySlug: "judgement",
   definition: "what an agent catching a transaction is told to do with it",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

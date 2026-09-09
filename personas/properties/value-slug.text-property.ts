@@ -9,7 +9,7 @@ export const valueSlug = {
   propertySlug: "value-slug",
   definition: "the value a persona represents",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "stopgap",

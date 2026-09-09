@@ -9,7 +9,7 @@ export const rescuedRefreshToken = {
   propertySlug: "refresh-token",
   definition: "the refresh token a rescued credential carries",
   maxLength: 4000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

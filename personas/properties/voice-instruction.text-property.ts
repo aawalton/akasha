@@ -9,5 +9,5 @@ export const voiceInstruction = {
   propertySlug: "voice-instruction",
   definition: "the description a persona's voice was built from",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

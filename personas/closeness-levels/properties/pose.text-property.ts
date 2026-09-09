@@ -9,5 +9,5 @@ export const pose = {
   propertySlug: "pose",
   definition: "how a persona is posed and framed at a rung",
   maxLength: 300,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

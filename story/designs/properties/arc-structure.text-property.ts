@@ -9,5 +9,5 @@ export const arcStructure = {
   propertySlug: "arc-structure",
   definition: "the arcs a story is planned to run through",
   maxLength: 12000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

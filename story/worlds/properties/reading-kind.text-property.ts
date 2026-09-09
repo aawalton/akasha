@@ -31,7 +31,7 @@ export const readingKind = {
   propertySlug: "reading-kind",
   definition: "what sort of thing a name in a world's text names",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

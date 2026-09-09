@@ -9,7 +9,7 @@ export const deviceSecretUserId = {
   propertySlug: "user-id",
   definition: "the account a device secret was minted for",
   maxLength: 36,
-  nameFormatSlug: "name-format/lower-uuid",
+  nameFormat: "name-format/lower-uuid",
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const sequenceDirection = {
   propertySlug: "direction",
   definition: "whether a run of pages is sorted upward or downward",
   maxLength: 4,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

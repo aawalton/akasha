@@ -9,5 +9,5 @@ export const finePrint = {
   propertySlug: "fine-print",
   definition: "what the offer does not cover",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

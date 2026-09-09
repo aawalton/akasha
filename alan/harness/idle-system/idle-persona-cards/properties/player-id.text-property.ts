@@ -9,7 +9,7 @@ export const playerId = {
   propertySlug: "player-id",
   definition: "the player whose card it is",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "stopgap",

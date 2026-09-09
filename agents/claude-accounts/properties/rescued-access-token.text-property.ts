@@ -9,7 +9,7 @@ export const rescuedAccessToken = {
   propertySlug: "access-token",
   definition: "the access token a rescued credential has",
   maxLength: 4000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

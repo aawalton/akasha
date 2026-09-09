@@ -9,7 +9,7 @@ export const detailDisplay = {
   propertySlug: "display",
   definition: "the layout a page type's pages are drawn in",
   maxLength: 64,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

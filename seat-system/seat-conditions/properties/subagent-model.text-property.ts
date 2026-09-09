@@ -9,7 +9,7 @@ export const subagentModel = {
   propertySlug: "subagent-model",
   definition: "the model a seat's subagents answer on rather than the seat's own",
   maxLength: 40,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

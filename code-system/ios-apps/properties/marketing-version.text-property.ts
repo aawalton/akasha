@@ -9,7 +9,7 @@ export const marketingVersion = {
   propertySlug: "marketing-version",
   definition: "the version of an app a person reads on the App Store",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "constraint",

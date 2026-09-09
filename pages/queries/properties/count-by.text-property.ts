@@ -11,7 +11,7 @@ export const countBy = {
   propertySlug: "count-by",
   definition: "the keys a query gathers its pages under to count them",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

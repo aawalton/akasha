@@ -9,7 +9,7 @@ export const merchant = {
   propertySlug: "merchant",
   definition: "who or what a transaction was with",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

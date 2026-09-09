@@ -9,7 +9,7 @@ export const masteryBehaviour = {
   propertySlug: "behaviour",
   definition: "what Alan does in an interview at a rung",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

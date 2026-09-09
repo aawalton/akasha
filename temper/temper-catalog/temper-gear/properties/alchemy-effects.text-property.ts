@@ -11,7 +11,7 @@ export const alchemyEffects = {
   propertySlug: "alchemy-effects",
   definition: "the four effects a reagent can lend what it is brewed into",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a poison effect." },
     { invariantKind: "departure", statement: "One list has every effect a reagent carries." },

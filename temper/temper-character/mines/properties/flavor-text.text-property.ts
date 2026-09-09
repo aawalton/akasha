@@ -9,5 +9,5 @@ export const flavorText = {
   propertySlug: "flavor-text",
   definition: "the lore line printed on an item",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

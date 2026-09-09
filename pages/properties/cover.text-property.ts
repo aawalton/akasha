@@ -9,7 +9,7 @@ export const cover = {
   propertySlug: "cover",
   definition: "the image that represents a page",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "stopgap",

@@ -11,7 +11,7 @@ export const dropSources = {
   propertySlug: "drop-sources",
   definition: "the daily errands a style's motif pages drop from",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a scribing source." },
     { invariantKind: "departure", statement: "One list has every errand a style drops from." },

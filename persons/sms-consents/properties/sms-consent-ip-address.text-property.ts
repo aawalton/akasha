@@ -9,5 +9,5 @@ export const smsConsentIpAddress = {
   propertySlug: "ip-address",
   definition: "the address the agreement was sent from",
   maxLength: 45,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

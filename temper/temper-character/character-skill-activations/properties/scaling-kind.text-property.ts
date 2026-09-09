@@ -9,5 +9,5 @@ export const scalingKind = {
   propertySlug: "scaling-kind",
   definition: "how an effect is worked out from the number it reads",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

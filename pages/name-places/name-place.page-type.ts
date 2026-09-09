@@ -1,9 +1,9 @@
 import type { Domain } from "@akasha/domains/domain"
-import type { NameFormatSlug } from "../text-properties/properties/name-format-slug.relation-property.ts"
+import type { NameFormat } from "../text-properties/properties/name-format.relation-property.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 
 export type NamePlace = Domain & {
-  nameFormatSlug: NameFormatSlug | null
+  nameFormat: NameFormat | null
 }
 
 export const namePlace = {
@@ -31,9 +31,7 @@ export const namePlace = {
     "name-place/type-identifier",
   ],
   extendsSlug: ["page-type/domain"],
-  properties: [
-    { pagePropertySlug: "relation-property/name-format-slug", required: true, many: false },
-  ],
+  properties: [{ pagePropertySlug: "relation-property/name-format", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

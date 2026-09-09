@@ -9,7 +9,7 @@ export const difficultyLevel = {
   propertySlug: "difficulty-level",
   definition: "how hard what Alan was doing was on him",
   maxLength: 3,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

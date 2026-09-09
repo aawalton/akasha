@@ -9,7 +9,7 @@ export const openQuestion = {
   propertySlug: "ask",
   definition: "what is still open about a topic, put as one question",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

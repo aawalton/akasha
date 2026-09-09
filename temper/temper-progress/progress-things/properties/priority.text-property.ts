@@ -9,7 +9,7 @@ export const priority = {
   propertySlug: "priority",
   definition: "how soon a task is wanted against its siblings",
   maxLength: 4,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "departure", statement: "A priority is written `p` before its number." },
     { invariantKind: "departure", statement: "A lower number is wanted sooner." },

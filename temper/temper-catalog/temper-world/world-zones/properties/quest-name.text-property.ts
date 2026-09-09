@@ -9,5 +9,5 @@ export const questName = {
   propertySlug: "quest-name",
   definition: "the name a quest is shown under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

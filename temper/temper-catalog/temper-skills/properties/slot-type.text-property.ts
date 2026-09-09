@@ -9,5 +9,5 @@ export const slotType = {
   propertySlug: "slot-type",
   definition: "the slot in a grimoire a script is set into",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

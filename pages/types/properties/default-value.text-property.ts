@@ -9,7 +9,7 @@ export const defaultValue = {
   propertySlug: "default",
   definition: "the value a writer states for a property when it is told none",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

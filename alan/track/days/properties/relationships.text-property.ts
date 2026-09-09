@@ -10,7 +10,7 @@ export const relationships = {
   propertySlug: "relationships",
   definition: "the people a stretch of time was spent with",
   maxLength: 36,
-  nameFormatSlug: "name-format/lower-uuid",
+  nameFormat: "name-format/lower-uuid",
   invariants: [
     {
       invariantKind: "gap",

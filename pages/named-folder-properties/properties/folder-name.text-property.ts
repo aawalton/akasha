@@ -9,7 +9,7 @@ export const folderName = {
   propertySlug: "folder-name",
   definition: "the name a property's folder is under",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

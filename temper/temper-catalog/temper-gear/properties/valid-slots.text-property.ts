@@ -11,7 +11,7 @@ export const validSlots = {
   propertySlug: "valid-slots",
   definition: "the slots a piece of this kind goes into",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a slot." },
     { invariantKind: "departure", statement: "One list has every slot a kind fits." },

@@ -9,5 +9,5 @@ export const sources = {
   propertySlug: "sources",
   definition: "where what is written here was read from",
   maxLength: 20000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

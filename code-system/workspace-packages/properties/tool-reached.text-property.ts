@@ -12,7 +12,7 @@ export const toolReached = {
   propertySlug: "tool-reached",
   definition: "a dependency a tool reaches rather than a body importing it",
   maxLength: 214,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

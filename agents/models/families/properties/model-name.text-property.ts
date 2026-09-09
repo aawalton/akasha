@@ -9,7 +9,7 @@ export const modelName = {
   propertySlug: "name",
   definition: "the name a call carries to reach this family's model",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

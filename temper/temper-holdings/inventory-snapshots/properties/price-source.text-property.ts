@@ -9,5 +9,5 @@ export const priceSource = {
   propertySlug: "price-source",
   definition: "the addon the gold figures on a reading came from",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

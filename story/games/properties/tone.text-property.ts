@@ -9,5 +9,5 @@ export const tone = {
   propertySlug: "tone",
   definition: "how a game is meant to feel to play",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

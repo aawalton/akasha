@@ -9,5 +9,5 @@ export const timeControl = {
   propertySlug: "time-control",
   definition: "the clock a game was played on",
   maxLength: 50,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

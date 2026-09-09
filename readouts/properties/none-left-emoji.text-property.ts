@@ -9,5 +9,5 @@ export const noneLeftEmoji = {
   propertySlug: "none-left-emoji",
   definition: "the emoji drawn in place of a reading of nothing",
   maxLength: 8,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

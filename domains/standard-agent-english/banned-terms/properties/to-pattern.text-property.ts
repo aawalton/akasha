@@ -9,5 +9,5 @@ export const toPattern = {
   propertySlug: "to-pattern",
   definition: "the construction akasha writes in that one's place",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

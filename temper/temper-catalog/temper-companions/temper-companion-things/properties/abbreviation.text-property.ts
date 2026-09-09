@@ -9,5 +9,5 @@ export const abbreviation = {
   propertySlug: "abbreviation",
   definition: "the short form a name is written by",
   maxLength: 10,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

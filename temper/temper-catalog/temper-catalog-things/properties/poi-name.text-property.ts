@@ -9,5 +9,5 @@ export const poiName = {
   propertySlug: "poi-name",
   definition: "the name a point of interest is shown under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

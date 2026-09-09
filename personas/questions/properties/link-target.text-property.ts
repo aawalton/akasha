@@ -9,7 +9,7 @@ export const linkTarget = {
   propertySlug: "target",
   definition: "where a link goes: a web address, or a path inside the app",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

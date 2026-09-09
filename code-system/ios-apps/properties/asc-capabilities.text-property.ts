@@ -12,7 +12,7 @@ export const ascCapabilities = {
   propertySlug: "asc-capabilities",
   definition: "the capabilities Apple enables on an app's identifier",
   maxLength: 60,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

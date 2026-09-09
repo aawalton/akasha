@@ -9,7 +9,7 @@ export const conditionValue = {
   propertySlug: "condition-value",
   definition: "what one condition of a rule tests against",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "stopgap",

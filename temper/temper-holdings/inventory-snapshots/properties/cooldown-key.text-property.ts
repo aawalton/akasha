@@ -9,5 +9,5 @@ export const cooldownKey = {
   propertySlug: "cooldown-key",
   definition: "the string the game names a timed activity by",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const bodyStyle = {
   propertySlug: "body-style",
   definition: "the shape of the body",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

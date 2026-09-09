@@ -9,5 +9,5 @@ export const smsDiscardReason = {
   propertySlug: "reason",
   definition: "why the message was thrown away",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

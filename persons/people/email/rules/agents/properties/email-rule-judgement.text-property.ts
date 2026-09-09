@@ -9,7 +9,7 @@ export const emailRuleJudgement = {
   propertySlug: "judgement",
   definition: "what an agent reaching a rule's mail is told to do with it",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

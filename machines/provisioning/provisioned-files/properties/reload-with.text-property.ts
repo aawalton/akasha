@@ -9,5 +9,5 @@ export const reloadWith = {
   propertySlug: "reload-with",
   definition: "what is run after the body is placed so the placing takes effect",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

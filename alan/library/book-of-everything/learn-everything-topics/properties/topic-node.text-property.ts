@@ -9,5 +9,5 @@ export const topicNode = {
   propertySlug: "node",
   definition: "the names of a topic and of every topic above it",
   maxLength: 300,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

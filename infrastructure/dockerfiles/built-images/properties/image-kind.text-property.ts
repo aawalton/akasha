@@ -9,5 +9,5 @@ export const imageKind = {
   propertySlug: "kind",
   definition: "the sort of Dockerfile written for an image",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

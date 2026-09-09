@@ -9,7 +9,7 @@ export const esoDay = {
   propertySlug: "eso-day",
   definition: "the ESO day a record is of",
   maxLength: 10,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

@@ -9,5 +9,5 @@ export const completionVisibility = {
   propertySlug: "completion-visibility",
   definition: "who a player lets read what that player has finished",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

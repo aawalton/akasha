@@ -9,7 +9,7 @@ export const errorUserAgent = {
   propertySlug: "user-agent",
   definition: "the browser or shell that reported an error",
   maxLength: 1024,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

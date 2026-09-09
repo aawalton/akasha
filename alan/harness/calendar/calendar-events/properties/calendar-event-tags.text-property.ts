@@ -9,5 +9,5 @@ export const calendarEventTags = {
   propertySlug: "tags",
   definition: "what a source tags an event with",
   maxLength: 400,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

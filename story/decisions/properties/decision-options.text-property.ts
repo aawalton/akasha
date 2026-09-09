@@ -9,5 +9,5 @@ export const decisionOptions = {
   propertySlug: "options",
   definition: "what a decision could have settled on",
   maxLength: 20000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

@@ -9,7 +9,7 @@ export const sortOrder = {
   propertySlug: "sort-order",
   definition: "whether a group draws its readings in label order or in place order",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

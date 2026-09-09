@@ -10,7 +10,7 @@ export const meals = {
   propertySlug: "meals",
   definition: "every meal recorded against a day",
   maxLength: 36,
-  nameFormatSlug: "name-format/lower-uuid",
+  nameFormat: "name-format/lower-uuid",
   invariants: [
     {
       invariantKind: "gap",

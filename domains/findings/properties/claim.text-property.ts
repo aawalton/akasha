@@ -9,5 +9,5 @@ export const claim = {
   propertySlug: "claim",
   definition: "what a finding says is so",
   maxLength: 1000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

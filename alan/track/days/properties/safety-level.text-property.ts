@@ -9,7 +9,7 @@ export const safetyLevel = {
   propertySlug: "safety-level",
   definition: "how safe Alan was over a stretch of time",
   maxLength: 3,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

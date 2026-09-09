@@ -9,7 +9,7 @@ export const imdbId = {
   propertySlug: "imdb-id",
   definition: "the id IMDb gives a show or a film",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

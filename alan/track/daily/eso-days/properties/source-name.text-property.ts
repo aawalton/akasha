@@ -9,5 +9,5 @@ export const sourceName = {
   propertySlug: "source-name",
   definition: "what recorded a reading",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

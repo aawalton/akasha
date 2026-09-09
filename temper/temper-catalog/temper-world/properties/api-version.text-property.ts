@@ -9,5 +9,5 @@ export const apiVersion = {
   propertySlug: "api-version",
   definition: "the game build a capture was taken from",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

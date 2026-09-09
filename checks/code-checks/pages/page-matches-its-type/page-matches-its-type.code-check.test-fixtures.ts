@@ -144,7 +144,7 @@ const PROPERTIES: Record<string, Value> = {
     slug: "slug",
     propertySlug: "slug",
     maxLength: 8,
-    nameFormatSlug: FORMAT,
+    nameFormat: FORMAT,
     unique: "page-type",
   },
   test: {
@@ -167,7 +167,7 @@ const PROPERTIES: Record<string, Value> = {
     slug: "name",
     propertySlug: "name",
     maxLength: 8,
-    nameFormatSlug: FORMAT,
+    nameFormat: FORMAT,
   },
   tag: {
     id: "01a0540d-0000-7000-8000-000000000014",

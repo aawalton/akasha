@@ -9,5 +9,5 @@ export const wanting = {
   propertySlug: "wanting",
   definition: "what an element is after",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

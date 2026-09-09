@@ -9,5 +9,5 @@ export const galleryCoverSource = {
   propertySlug: "gallery-cover-source",
   definition: "the property a gallery takes its picture from",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

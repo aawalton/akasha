@@ -9,7 +9,7 @@ export const pluralSlug = {
   propertySlug: "plural-slug",
   definition: "the slug for many of what a domain is about",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

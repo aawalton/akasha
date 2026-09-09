@@ -9,5 +9,5 @@ export const validTraitIds = {
   propertySlug: "valid-trait-ids",
   definition: "a trait a role is built around",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

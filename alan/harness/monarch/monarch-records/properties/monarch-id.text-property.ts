@@ -9,7 +9,7 @@ export const monarchId = {
   propertySlug: "monarch-id",
   definition: "the identity Monarch gives one of its records",
   maxLength: 40,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

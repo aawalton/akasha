@@ -9,7 +9,7 @@ export const charEligibility = {
   propertySlug: "char-eligibility",
   definition: "which characters one leg of a destination chain will send an item to",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

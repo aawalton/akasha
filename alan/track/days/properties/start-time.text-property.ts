@@ -9,7 +9,7 @@ export const startTime = {
   propertySlug: "start-time",
   definition: "when a stretch of time began",
   maxLength: 24,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "gap",

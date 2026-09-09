@@ -9,5 +9,5 @@ export const section = {
   propertySlug: "section",
   definition: "the heading the source lists the offer under",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

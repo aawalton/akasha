@@ -9,7 +9,7 @@ export const reExecAsk = {
   propertySlug: "re-exec-ask",
   definition: "the standing of a seat's request to re-exec its supervisor",
   maxLength: 20,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

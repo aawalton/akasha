@@ -9,7 +9,7 @@ export const runs = {
   propertySlug: "runs",
   definition: "a command line a service starts",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

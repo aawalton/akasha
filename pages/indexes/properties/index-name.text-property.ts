@@ -9,7 +9,7 @@ export const indexName = {
   propertySlug: "name",
   definition: "the name an index's answers are filed under",
   maxLength: 30,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   unique: "page-type",
   invariants: [
     {

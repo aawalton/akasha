@@ -9,7 +9,7 @@ export const emailRuleMatchValues = {
   propertySlug: "values",
   definition: "what a clause has to weigh a piece of mail against",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

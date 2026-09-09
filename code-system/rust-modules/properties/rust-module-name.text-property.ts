@@ -9,7 +9,7 @@ export const rustModuleName = {
   propertySlug: "module-name",
   definition: "the name Cargo reads a module's file by",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-snake-case",
+  nameFormat: "name-format/lower-snake-case",
   invariants: [
     {
       invariantKind: "departure",

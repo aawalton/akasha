@@ -9,5 +9,5 @@ export const pointsSourcePathPrefix = {
   propertySlug: "path-prefix",
   definition: "which part of the tree a persona's counted work sits under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

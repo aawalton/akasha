@@ -9,5 +9,5 @@ export const baseName = {
   propertySlug: "base-name",
   definition: "the name a skill's morphs are gathered under",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

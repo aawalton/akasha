@@ -9,7 +9,7 @@ export const wants = {
   propertySlug: "wants",
   definition: "a unit this unit asks for without depending on",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

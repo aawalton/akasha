@@ -11,7 +11,7 @@ export const validPieces = {
   propertySlug: "valid",
   definition: "the pieces a set is made in",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     { invariantKind: "departure", statement: "One list has every piece a set is made in." },
     { invariantKind: "departure", statement: "A star covers every piece the game offers." },

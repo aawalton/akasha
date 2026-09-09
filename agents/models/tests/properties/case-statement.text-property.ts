@@ -9,5 +9,5 @@ export const caseStatement = {
   propertySlug: "statement",
   definition: "what a case puts to a model about the page the case names",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

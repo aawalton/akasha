@@ -9,7 +9,7 @@ export const linkLabel = {
   propertySlug: "label",
   definition: "what a link is called where it is offered",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

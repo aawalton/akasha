@@ -9,5 +9,5 @@ export const targetScope = {
   propertySlug: "scope",
   definition: "how many the thing an effect lands on covers",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

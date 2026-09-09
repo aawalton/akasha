@@ -9,5 +9,5 @@ export const relationshipCompany = {
   propertySlug: "relationship-company",
   definition: "where this person does that work",
   maxLength: 20,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

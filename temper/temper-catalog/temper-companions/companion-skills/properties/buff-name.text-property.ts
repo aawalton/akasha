@@ -9,5 +9,5 @@ export const buffName = {
   propertySlug: "buff",
   definition: "the helpful effect an effect puts on whoever it lands on",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -9,5 +9,5 @@ export const smsConsentUserAgent = {
   propertySlug: "user-agent",
   definition: "the browser the agreement was sent from",
   maxLength: 500,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

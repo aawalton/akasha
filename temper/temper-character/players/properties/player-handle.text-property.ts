@@ -9,5 +9,5 @@ export const playerHandle = {
   propertySlug: "handle",
   definition: "the name a player is shown under to other players",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

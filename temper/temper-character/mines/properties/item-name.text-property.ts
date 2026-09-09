@@ -9,7 +9,7 @@ export const itemName = {
   propertySlug: "name",
   definition: "what a sweep read an item's name as",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

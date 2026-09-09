@@ -9,5 +9,5 @@ export const icon = {
   propertySlug: "icon",
   definition: "the icon a thing is shown with",
   maxLength: 200,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

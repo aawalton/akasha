@@ -9,7 +9,7 @@ export const lastRunOutcome = {
   propertySlug: "last-run-outcome",
   definition: "what a watcher reported of the run it made last",
   maxLength: 20000,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "gap",

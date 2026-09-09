@@ -9,7 +9,7 @@ export const keptBy = {
   propertySlug: "kept-by",
   definition: "what keeps a record current",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
   invariants: [
     {
       invariantKind: "departure",

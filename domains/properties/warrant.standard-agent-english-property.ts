@@ -9,5 +9,5 @@ export const warrant = {
   propertySlug: "warrant",
   definition: "the general fact an act follows from",
   maxLength: 100,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies StandardAgentEnglishProperty

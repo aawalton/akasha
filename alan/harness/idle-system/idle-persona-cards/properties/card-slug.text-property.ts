@@ -9,7 +9,7 @@ export const cardSlug = {
   propertySlug: "card-slug",
   definition: "which of the cards this one is, the same name in every player's deck",
   maxLength: 100,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",

@@ -9,6 +9,6 @@ export const metricId = {
   propertySlug: "metric-id",
   definition: "the number an effect moves",
   maxLength: 200,
-  nameFormatSlug: "name-format/lower-kebab-case",
+  nameFormat: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a metric." }],
 } as const satisfies TextProperty

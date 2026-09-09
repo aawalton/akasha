@@ -9,5 +9,5 @@ export const doing = {
   propertySlug: "doing",
   definition: "how an element acts",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

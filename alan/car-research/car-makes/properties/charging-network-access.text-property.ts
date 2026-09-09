@@ -9,5 +9,5 @@ export const chargingNetworkAccess = {
   propertySlug: "charging-network-access",
   definition: "which charging networks the make's cars can use",
   maxLength: 2000,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty

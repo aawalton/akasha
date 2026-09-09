@@ -9,5 +9,5 @@ export const loginUser = {
   propertySlug: "login-user",
   definition: "the account a script signs in to the host as",
   maxLength: 32,
-  nameFormatSlug: null,
+  nameFormat: null,
 } as const satisfies TextProperty
