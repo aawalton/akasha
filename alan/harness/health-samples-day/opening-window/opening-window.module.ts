@@ -27,6 +27,11 @@ export const openingWindow = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A stretch titled rest is sleep not yet known to be sleep and is titled sleep in the morning.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A block ending at or before that hour opens no day.",
     },
     {

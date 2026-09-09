@@ -274,30 +274,11 @@ export const day = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A day begins when the first sleep block starting or running past six the evening before began.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A stretch titled rest is sleep not yet known to be sleep and is titled sleep in the morning.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A boundary is worked out from the sleep sessions when the boundary is read.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A boundary is stored nowhere.",
     },
     {
       invariantKind: "departure",
       statement: "The day is derived in one place.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A day whose opening sleep cannot be found starts at six the previous evening in New York.",
     },
   ],
 } as const satisfies PageType
