@@ -20,7 +20,7 @@ import {
 } from "react-router"
 import type { Route } from "./+types/root"
 import { NavCommands } from "./atlas-nav-commands/atlas-nav-commands.module.code.tsx"
-import "./alan-atlas-web-look/alan-atlas-web-look.stylesheet.styles.css"
+import "./look/alan-atlas-web-look.stylesheet.styles.css"
 
 const AUTH_CONFIG: AuthRouteConfig = {
   signInPath: "/sign-in",
