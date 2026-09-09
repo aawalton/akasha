@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const changeShadow = {
   id: "01a07744-1311-740c-acbf-9e0092840193",
   pageTypeSlug: "module",
+  type: "module",
   slug: "change-shadow",
   definition: "the files and index as the answer a change gives would leave both",
   code: "ts",

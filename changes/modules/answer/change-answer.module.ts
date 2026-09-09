@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const changeAnswer = {
   id: "01a07721-531c-732a-a072-2842893f0584",
   pageTypeSlug: "module",
+  type: "module",
   slug: "change-answer",
   definition: "the edits a change answers rather than writes",
   code: "ts",

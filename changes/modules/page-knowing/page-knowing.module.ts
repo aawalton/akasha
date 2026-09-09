@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pageKnowing = {
   id: "01a0795c-c0d5-7580-afd1-7b86083ef2dd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-knowing",
   definition:
     "the page a world's index answers at a path, and the pages on either side of that page's edges",

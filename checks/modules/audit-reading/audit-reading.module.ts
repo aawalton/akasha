@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const auditReading = {
   id: "01a06875-ed3a-7000-ba9e-391ea2f95c40",
   pageTypeSlug: "module",
+  type: "module",
   slug: "audit-reading",
   definition: "what an audit measured, and the lines saying so where a zero is not a result",
   code: "ts",

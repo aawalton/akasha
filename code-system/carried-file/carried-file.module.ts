@@ -3,6 +3,7 @@ import type { Module } from "../modules/module.page-type.ts"
 export const carriedFile = {
   id: "01a0693a-5bbe-7eb7-8820-1fde5da86eb5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "carried-file",
   definition: "how a file that is not text is in akasha as text beside its page",
   code: "ts",

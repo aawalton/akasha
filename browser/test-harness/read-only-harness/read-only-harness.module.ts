@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const readOnlyHarness = {
   id: "01a05ca9-d803-7362-b933-e54ad04b2b64",
   pageTypeSlug: "module",
+  type: "module",
   slug: "read-only-harness",
   definition: "a browser session opened over a user who is only ever read",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const editsKeeping = {
   id: "01a0777c-12c6-7383-a773-c4a635e8720f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "edits-keeping",
   definition: "the edits an agent has answered and not landed, appended beside the agent's page",
   code: "ts",

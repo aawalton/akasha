@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const folderGrouping = {
   id: "01a076d1-2008-7e68-acfc-f5b939d07cc3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "folder-grouping",
   definition: "the folders a path sits under, and what a change leaves sitting in a folder",
   code: "ts",

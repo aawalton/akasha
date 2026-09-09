@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const runCost = {
   id: "01a06949-b281-78a7-a70c-701001269801",
   pageTypeSlug: "module",
+  type: "module",
   slug: "run-cost",
   definition: "how long a check may take, and the cpu time it really took",
   code: "ts",

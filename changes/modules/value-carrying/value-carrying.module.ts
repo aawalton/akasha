@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const valueCarrying = {
   id: "01a087bd-aa76-78f4-b3d4-1c9d3e6e3a8d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "value-carrying",
   definition: "carrying one key's value under a second key on the pages of one page type",
   code: "ts",

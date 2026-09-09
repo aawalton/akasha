@@ -3,6 +3,7 @@ import type { Module } from "../modules/module.page-type.ts"
 export const codeLint = {
   id: "01a04edb-5f2c-7000-b8b5-430c5419cbda",
   pageTypeSlug: "module",
+  type: "module",
   slug: "code-lint",
   definition:
     "running the linter over what is there and reading back what it found, changing nothing",

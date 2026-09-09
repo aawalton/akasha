@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const verifyRenderPlan = {
   id: "01a0691b-4f64-7cae-bd86-446992c33c41",
   pageTypeSlug: "module",
+  type: "module",
   slug: "verify-render-plan",
   definition:
     "what a render check decides before it drives the browser, from the flags it was given",

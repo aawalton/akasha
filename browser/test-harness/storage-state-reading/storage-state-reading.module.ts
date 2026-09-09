@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const storageStateReading = {
   id: "01a0659d-b1ba-7002-af95-6de723e71593",
   pageTypeSlug: "module",
+  type: "module",
   slug: "storage-state-reading",
   definition: "the sign-in a Playwright storage state carries, and how fresh that sign-in is",
   code: "ts",

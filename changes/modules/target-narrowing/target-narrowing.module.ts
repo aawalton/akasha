@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const targetNarrowing = {
   id: "01a0825b-c6ad-78e4-9391-698b96bafb0c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "target-narrowing",
   definition: "whether one change target subtype narrows another",
   code: "ts",

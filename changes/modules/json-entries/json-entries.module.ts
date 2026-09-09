@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const jsonEntries = {
   id: "01a08239-7cf2-7f52-8f52-49c5a92d21c1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "json-entries",
   definition: "an entry a JSON body holds under one of its keys",
   code: "ts",

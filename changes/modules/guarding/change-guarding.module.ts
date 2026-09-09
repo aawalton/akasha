@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const changeGuarding = {
   id: "01a07744-1311-7679-acd5-cea149b8e44a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "change-guarding",
   definition: "the guards a change names, run over the answer that change gives",
   code: "ts",

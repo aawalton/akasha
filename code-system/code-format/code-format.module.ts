@@ -3,6 +3,7 @@ import type { Module } from "../modules/module.page-type.ts"
 export const codeFormat = {
   id: "01a04edc-5281-769c-8ba8-522d8f569095",
   pageTypeSlug: "module",
+  type: "module",
   slug: "code-format",
   definition:
     "putting a body through the formatter this repo stands on, and taking back only what can be trusted",

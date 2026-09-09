@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const packageNaming = {
   id: "01a08236-274a-7266-ab52-6e34c361587e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "package-naming",
   definition: "a package's name where a string has it",
   code: "ts",

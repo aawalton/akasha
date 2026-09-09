@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const checkScratch = {
   id: "01a04fd0-8a9a-7915-a355-32d5432a7f11",
   pageTypeSlug: "module",
+  type: "module",
   slug: "check-scratch",
   definition:
     "what a check's test judges: an index set up in a scratch root, and the change read against it",

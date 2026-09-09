@@ -3,6 +3,7 @@ import type { Module } from "../../../code-system/modules/module.page-type.ts"
 export const subagentHanded = {
   id: "01a080c8-f2a7-7f65-bd12-7fb53d580426",
   pageTypeSlug: "module",
+  type: "module",
   slug: "subagent-handed",
   definition: "the edits a subagent left for the seat that dispatched it",
   code: "ts",
