@@ -98,7 +98,7 @@ export function readStories(only: string | undefined): readonly Story[] {
   const asked = asking(ROOT, {
     pageTypeSlug: STORY_PAGE_TYPE,
     where: { source: { is: SOURCE } },
-    keys: ["slug", "externalId", "world", "worldSlug", "publicationStatus", "externalTags"],
+    keys: ["slug", "externalId", "world", "publicationStatus", "externalTags"],
   })
   if ("refused" in asked)
     throw new SyncRefused(`the stories to follow went unread: ${asked.refused}`)
@@ -121,7 +121,7 @@ export function readStories(only: string | undefined): readonly Story[] {
     out.push({
       slug,
       externalId,
-      world: textIn(row, "world") ?? textIn(row, "worldSlug"),
+      world: textIn(row, "world"),
       status: textIn(row, "publicationStatus"),
       tags: listIn(row, "externalTags"),
     })
