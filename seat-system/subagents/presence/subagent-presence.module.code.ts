@@ -84,6 +84,7 @@ export function bodyOf(
     `export const ${exportedAs(slug)} = {`,
     ...(id === null ? [] : [`  id: ${said(id)},`]),
     '  pageTypeSlug: "subagent",',
+    '  type: "subagent",',
     `  slug: ${said(slug)},`,
     `  principalSeatName: ${said(seatName)},`,
     `  assignmentSlug: ${said(assignmentSlug)},`,

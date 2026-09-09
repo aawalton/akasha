@@ -97,6 +97,7 @@ test("a body states the type and slug and seat and assignment and kind and agent
   const body = bodyOf("akasha-abc", "akasha", "domain/akasha-system", "Explore", "seat--own")
   expect(body).toContain("export const akashaAbc = {")
   expect(body).toContain('pageTypeSlug: "subagent"')
+  expect(body).toContain('type: "subagent"')
   expect(body).toContain('slug: "akasha-abc"')
   expect(body).toContain('principalSeatName: "akasha"')
   expect(body).toContain('assignmentSlug: "domain/akasha-system"')
