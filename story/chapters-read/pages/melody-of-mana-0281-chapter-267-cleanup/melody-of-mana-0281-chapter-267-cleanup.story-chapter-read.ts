@@ -5,7 +5,7 @@ export const melodyOfMana0281Chapter267Cleanup = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0281-chapter-267-cleanup",
   title: "Chapter 267 Cleanup",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 281,
   ownLength: 1169,
   ownProgress: 1169,

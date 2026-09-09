@@ -5,7 +5,7 @@ export const melodyOfMana0064Chapter55LightSpyingAndTheWalk = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0064-chapter-55-light-spying-and-the-walk",
   title: "Chapter 55 Light spying and the walk",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 64,
   ownLength: 2505,
   ownProgress: 2505,

@@ -5,7 +5,7 @@ export const melodyOfMana0263Chapter249MorningTalks = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0263-chapter-249-morning-talks",
   title: "Chapter 249 Morning Talks",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 263,
   ownLength: 1411,
   ownProgress: 1411,

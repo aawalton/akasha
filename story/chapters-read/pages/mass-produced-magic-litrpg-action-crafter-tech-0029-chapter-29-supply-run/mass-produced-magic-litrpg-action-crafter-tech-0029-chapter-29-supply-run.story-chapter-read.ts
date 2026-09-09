@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0029Chapter29SupplyRun = {
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0029-chapter-29-supply-run",
   title: "Chapter 29 – Supply Run",
-  storySlug: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 29,
   ownLength: 3123,
   unitSlug: "words",

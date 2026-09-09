@@ -5,7 +5,7 @@ export const melodyOfMana0051Chapter44Stalker = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0051-chapter-44-stalker",
   title: "Chapter 44 Stalker",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 51,
   ownLength: 1996,
   ownProgress: 1996,

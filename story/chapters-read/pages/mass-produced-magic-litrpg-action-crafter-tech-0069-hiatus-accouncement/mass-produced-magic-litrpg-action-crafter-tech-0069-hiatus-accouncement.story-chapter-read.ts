@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0069HiatusAccouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0069-hiatus-accouncement",
   title: "Hiatus Accouncement",
-  storySlug: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 69,
   ownLength: 134,
   unitSlug: "words",

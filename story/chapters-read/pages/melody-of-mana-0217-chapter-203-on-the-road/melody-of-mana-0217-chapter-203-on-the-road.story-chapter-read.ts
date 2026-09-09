@@ -5,7 +5,7 @@ export const melodyOfMana0217Chapter203OnTheRoad = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0217-chapter-203-on-the-road",
   title: "Chapter 203 On the Road",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 217,
   ownLength: 1724,
   ownProgress: 1724,

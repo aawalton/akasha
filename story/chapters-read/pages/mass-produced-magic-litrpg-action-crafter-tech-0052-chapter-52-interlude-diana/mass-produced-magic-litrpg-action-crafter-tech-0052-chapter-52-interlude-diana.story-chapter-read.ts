@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0052Chapter52InterludeDiana
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0052-chapter-52-interlude-diana",
   title: "Chapter 52 – Interlude – Diana",
-  storySlug: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 52,
   ownLength: 1894,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const melodyOfMana0176Chapter162ObviousHints = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0176-chapter-162-obvious-hints",
   title: "Chapter 162 Obvious Hints",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 176,
   ownLength: 2023,
   ownProgress: 2023,

@@ -5,7 +5,7 @@ export const melodyOfMana0055SideStory8FoolSFolly = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0055-side-story-8-fool-s-folly",
   title: "Side Story 8 Fool's Folly",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 55,
   ownLength: 1008,
   ownProgress: 1008,

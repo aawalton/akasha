@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0034Chapter34CityTensions =
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0034-chapter-34-city-tensions",
   title: "Chapter 34 – City Tensions",
-  storySlug: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 34,
   ownLength: 1919,
   unitSlug: "words",

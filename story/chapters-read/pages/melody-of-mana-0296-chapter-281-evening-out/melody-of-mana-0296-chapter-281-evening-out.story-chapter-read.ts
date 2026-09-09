@@ -5,7 +5,7 @@ export const melodyOfMana0296Chapter281EveningOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0296-chapter-281-evening-out",
   title: "Chapter 281 Evening Out",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 296,
   ownLength: 1271,
   ownProgress: 1271,

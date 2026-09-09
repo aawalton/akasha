@@ -5,7 +5,7 @@ export const melodyOfMana0193Chapter179ReunitedCompanions = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0193-chapter-179-reunited-companions",
   title: "Chapter 179 Reunited Companions",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 193,
   ownLength: 1720,
   ownProgress: 1720,

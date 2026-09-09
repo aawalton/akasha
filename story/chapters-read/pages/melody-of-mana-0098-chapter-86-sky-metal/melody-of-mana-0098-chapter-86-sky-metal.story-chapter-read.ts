@@ -5,7 +5,7 @@ export const melodyOfMana0098Chapter86SkyMetal = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0098-chapter-86-sky-metal",
   title: "Chapter 86 Sky-metal",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 98,
   ownLength: 2039,
   ownProgress: 2039,

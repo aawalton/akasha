@@ -5,7 +5,7 @@ export const melodyOfMana0025Chapter21TheReturnOfAnOldAcquaintance = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0025-chapter-21-the-return-of-an-old-acquaintance",
   title: "Chapter 21 The return of an old acquaintance",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 25,
   ownLength: 2169,
   ownProgress: 2169,

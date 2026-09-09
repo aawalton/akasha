@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0068Chapter68ConfrontationP
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0068-chapter-68-confrontation-pt5",
   title: "Chapter 68 – Confrontation Pt5",
-  storySlug: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 68,
   ownLength: 2242,
   unitSlug: "words",

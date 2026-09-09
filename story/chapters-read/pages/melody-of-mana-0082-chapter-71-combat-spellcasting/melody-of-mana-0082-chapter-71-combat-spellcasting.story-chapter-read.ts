@@ -5,7 +5,7 @@ export const melodyOfMana0082Chapter71CombatSpellcasting = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0082-chapter-71-combat-spellcasting",
   title: "Chapter 71 Combat Spellcasting",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 82,
   ownLength: 2114,
   ownProgress: 2114,

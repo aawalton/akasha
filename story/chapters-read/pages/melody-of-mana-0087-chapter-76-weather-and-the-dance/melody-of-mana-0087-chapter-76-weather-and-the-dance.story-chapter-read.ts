@@ -5,7 +5,7 @@ export const melodyOfMana0087Chapter76WeatherAndTheDance = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0087-chapter-76-weather-and-the-dance",
   title: "Chapter 76 Weather, and the dance",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 87,
   ownLength: 2421,
   ownProgress: 2421,

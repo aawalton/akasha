@@ -5,7 +5,7 @@ export const melodyOfMana0095Chapter83PainAndInsanity = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0095-chapter-83-pain-and-insanity",
   title: "Chapter 83 Pain and insanity",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 95,
   ownLength: 2147,
   ownProgress: 2147,

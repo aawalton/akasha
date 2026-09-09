@@ -5,7 +5,7 @@ export const melodyOfMana0101Chapter89Thunder = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0101-chapter-89-thunder",
   title: "Chapter 89 Thunder",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 101,
   ownLength: 2306,
   ownProgress: 2306,

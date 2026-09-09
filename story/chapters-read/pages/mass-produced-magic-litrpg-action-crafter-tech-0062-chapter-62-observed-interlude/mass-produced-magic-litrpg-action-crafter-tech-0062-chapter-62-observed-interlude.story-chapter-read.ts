@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0062Chapter62ObservedInterl
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0062-chapter-62-observed-interlude",
   title: "Chapter 62 – Observed – Interlude",
-  storySlug: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 62,
   ownLength: 1453,
   unitSlug: "words",

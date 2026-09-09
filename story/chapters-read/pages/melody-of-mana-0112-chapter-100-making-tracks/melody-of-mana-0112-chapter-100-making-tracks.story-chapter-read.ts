@@ -5,7 +5,7 @@ export const melodyOfMana0112Chapter100MakingTracks = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0112-chapter-100-making-tracks",
   title: "Chapter 100 Making Tracks",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 112,
   ownLength: 2068,
   ownProgress: 2068,

@@ -5,7 +5,7 @@ export const melodyOfMana0076DailySchedule = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0076-daily-schedule",
   title: "Daily Schedule",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 76,
   ownLength: 303,
   ownProgress: 303,

@@ -5,7 +5,7 @@ export const melodyOfMana0245Chapter231Aid = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0245-chapter-231-aid",
   title: "Chapter 231 Aid",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 245,
   ownLength: 1674,
   ownProgress: 1674,

@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0053Chapter53Golems = {
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0053-chapter-53-golems",
   title: "Chapter 53 – Golems",
-  storySlug: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 53,
   ownLength: 1837,
   unitSlug: "words",

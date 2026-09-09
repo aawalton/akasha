@@ -5,7 +5,7 @@ export const massProducedMagicLitrpgActionCrafterTech0025Chapter25TheGardens = {
   pageTypeSlug: "story-chapter-read",
   slug: "mass-produced-magic-litrpg-action-crafter-tech-0025-chapter-25-the-gardens",
   title: "Chapter 25 – The Gardens",
-  storySlug: "mass-produced-magic-litrpg-action-crafter-tech",
+  story: "mass-produced-magic-litrpg-action-crafter-tech",
   position: 25,
   ownLength: 2032,
   unitSlug: "words",

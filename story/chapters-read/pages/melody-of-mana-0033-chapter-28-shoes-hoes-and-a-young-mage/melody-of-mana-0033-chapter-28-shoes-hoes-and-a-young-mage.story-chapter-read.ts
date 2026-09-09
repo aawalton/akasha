@@ -5,7 +5,7 @@ export const melodyOfMana0033Chapter28ShoesHoesAndAYoungMage = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0033-chapter-28-shoes-hoes-and-a-young-mage",
   title: "Chapter 28 Shoes, hoes, and a young mage",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 33,
   ownLength: 2077,
   ownProgress: 2077,

@@ -5,7 +5,7 @@ export const melodyOfMana0181Chapter167ReArming = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0181-chapter-167-re-arming",
   title: "Chapter 167 Re-arming",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 181,
   ownLength: 1651,
   ownProgress: 1651,

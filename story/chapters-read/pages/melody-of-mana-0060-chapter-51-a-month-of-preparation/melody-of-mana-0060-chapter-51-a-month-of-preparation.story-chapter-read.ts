@@ -5,7 +5,7 @@ export const melodyOfMana0060Chapter51AMonthOfPreparation = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0060-chapter-51-a-month-of-preparation",
   title: "Chapter 51 A month of preparation",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 60,
   ownLength: 2079,
   ownProgress: 2079,

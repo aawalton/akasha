@@ -5,7 +5,7 @@ export const melodyOfMana0168Chapter154AfterTheBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0168-chapter-154-after-the-battle",
   title: "Chapter 154 After the Battle",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 168,
   ownLength: 2079,
   ownProgress: 2079,

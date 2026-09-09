@@ -5,7 +5,7 @@ export const melodyOfMana0238Chapter224TestingSite = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0238-chapter-224-testing-site",
   title: "Chapter 224 Testing Site",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 238,
   ownLength: 2022,
   ownProgress: 2022,

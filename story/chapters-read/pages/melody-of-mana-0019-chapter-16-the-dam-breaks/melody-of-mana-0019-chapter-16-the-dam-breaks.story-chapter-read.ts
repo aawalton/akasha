@@ -5,7 +5,7 @@ export const melodyOfMana0019Chapter16TheDamBreaks = {
   pageTypeSlug: "story-chapter-read",
   slug: "melody-of-mana-0019-chapter-16-the-dam-breaks",
   title: "Chapter 16 The dam breaks",
-  storySlug: "story-read/melody-of-mana",
+  story: "story-read/melody-of-mana",
   position: 19,
   ownLength: 2204,
   ownProgress: 2204,
