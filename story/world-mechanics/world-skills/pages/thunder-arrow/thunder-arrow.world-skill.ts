@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const thunderArrow = {
   id: "01a0657d-0315-7cdb-a6f3-8610ff5fae9b",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "thunder-arrow",
   title: "Thunder Arrow",
   world: "the-wandering-inn",

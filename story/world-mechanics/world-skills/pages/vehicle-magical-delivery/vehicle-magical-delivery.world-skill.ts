@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const vehicleMagicalDelivery = {
   id: "01a0657d-0320-7844-ab2c-39311287302a",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "vehicle-magical-delivery",
   title: "Vehicle: Magical Delivery",
   world: "the-wandering-inn",
