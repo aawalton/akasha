@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { MonarchRecord } from "../records/monarch-record.page-type.ts"
+import type { MonarchRecord } from "../records/monarch-record.page-type.types.ts"
 import type { TagColour } from "./properties/tag-colour.text-property.ts"
 import type { TagPlace } from "./properties/tag-place.number-property.ts"
 

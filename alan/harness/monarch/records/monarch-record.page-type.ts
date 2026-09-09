@@ -1,14 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../../../domains/properties/definition.standard-agent-english-property.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { MonarchId } from "./properties/monarch-id.text-property.ts"
-
-export type MonarchRecord = Page & {
-  title: Title
-  monarchId?: MonarchId
-  definition?: Definition
-}
 
 export const monarchRecord = {
   id: "01a0680a-1a00-7001-b8f4-2c9e5a7b1102",
@@ -47,4 +37,5 @@ export const monarchRecord = {
       statement: "A title is written as Monarch writes the title.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
