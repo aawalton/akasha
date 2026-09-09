@@ -10,4 +10,14 @@ export const authorityCertificate = {
   definition: "the certificate an authority signs with, and is recognised by",
   fileName: "ca.crt",
   generated: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The certificate is written in PEM rather than in DER.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "PEM carries a certificate as base64 text.",
+    },
+  ],
 } as const satisfies FileProperty
