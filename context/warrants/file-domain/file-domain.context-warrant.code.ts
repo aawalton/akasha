@@ -4,7 +4,7 @@ import { blobAt, type Warrant } from "../../modules/warranting/warranting.module
 export const WHOLE =
   "A page names its parts, and the whole a part belongs to is read before the part is changed."
 
-const PARTS = "part-slugs"
+const PARTS = "parts"
 
 export function fileDomain(root: string, path: string): readonly Warrant[] {
   const held = listedByPath(root, path)[0]

@@ -15,7 +15,7 @@ const KEY = "assignmentSlug"
 
 const DOMAIN_KEY = "domain"
 
-const PARTS = "part-slugs"
+const PARTS = "parts"
 
 function domainOf(root: string, path: string): Listed | undefined {
   const value = valueAt(path, root)

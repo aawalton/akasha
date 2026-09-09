@@ -269,5 +269,5 @@ export function seatListed(root: string, slug: string, stated: string): string {
 }
 
 export function namesPart(root: string, whole: Listed, part: Listed): undefined {
-  relationFiled(root, part.id, "part-slugs", whole.id, [{ path: whole.path }])
+  relationFiled(root, part.id, "parts", whole.id, [{ path: whole.path }])
 }
