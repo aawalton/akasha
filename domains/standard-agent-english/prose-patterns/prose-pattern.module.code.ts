@@ -319,8 +319,10 @@ function objectAsked(sentence: DepSentence, token: DepToken): boolean {
   return subtree(sentence, object.id).some((one) => one.id < object.id && ASKING.has(lower(one)))
 }
 
-function acting(token: DepToken): boolean {
-  return token.upos === VERB || (token.upos === NOUN && token.deprel === RELATIVE)
+function acting(sentence: DepSentence, token: DepToken): boolean {
+  if (token.upos === VERB) return true
+  if (token.upos !== NOUN) return false
+  return token.deprel === RELATIVE || hasChild(sentence, token.id, OBJECT)
 }
 
 function objectsDoubled(sentence: DepSentence, token: DepToken): boolean {
@@ -354,7 +356,7 @@ function leftAlone(sentence: DepSentence, token: DepToken): boolean {
 }
 
 function frameOf(sentence: DepSentence, token: DepToken): Frame | null {
-  if (!acting(token)) return null
+  if (!acting(sentence, token)) return null
   if (leftAlone(sentence, token)) return null
   if (hasChild(sentence, token.id, PASSIVE)) {
     return placedSomewhere(sentence, token) ? PLACED_FRAME : null

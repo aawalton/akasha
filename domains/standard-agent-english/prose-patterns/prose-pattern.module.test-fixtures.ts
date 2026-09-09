@@ -286,6 +286,16 @@ export const HOLDING_A_MODULE_TO_RUNTIME_STATES: readonly Row[] = [
   ["states", "NOUN", 2, "nmod"],
 ]
 
+export const A_KEY_HOLDING_MANY_VALUES: readonly Row[] = [
+  ["A", "DET", 3, "det"],
+  ["key", "ADJ", 3, "compound"],
+  ["holding", "NOUN", 7, "nsubj:pass"],
+  ["many", "ADJ", 5, "amod"],
+  ["values", "NOUN", 3, "obj"],
+  ["is", "AUX", 7, "aux:pass"],
+  ["refused", "VERB", 0, "root"],
+]
+
 export const A_MERGE_THAT_HELD_A_FIELD_BACK: readonly Row[] = [
   ["A", "DET", 2, "det"],
   ["merge", "NOUN", 0, "root"],

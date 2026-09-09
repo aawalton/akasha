@@ -4,6 +4,7 @@ import {
   A_BODY_IS_HOLDING_A_CONFLICT,
   A_DAY_HOLDING_ROWS_AND_DECLARING,
   A_FLAG_HOLDING,
+  A_KEY_HOLDING_MANY_VALUES,
   A_MERGE_THAT_HELD_A_FIELD_BACK,
   A_NAME_ALREADY_HOLDING_TEXT,
   A_PERSON_HOLDS,
@@ -107,6 +108,12 @@ test("a word whose object comes before it is found", () => {
 
 test("a word with no object at all is left alone", () => {
   expect(foundIn(sentenceOf(EVERY_GROUP_HOLD), HOLD)).toEqual([])
+})
+
+test("a word read as a noun that has an object of its own is found", () => {
+  expect(foundIn(sentenceOf(A_KEY_HOLDING_MANY_VALUES), HOLD).map((one) => one.frame)).toEqual([
+    "participle",
+  ])
 })
 
 test("a word read as a noun is left alone", () => {

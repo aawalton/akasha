@@ -16,7 +16,11 @@ export const prosePattern = {
     {
       invariantKind: "departure",
       statement:
-        "A word read as a noun heading no clause is no construction of that word as an action.",
+        "A word read as a noun with neither a clause nor an object names no action of that word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word read as a noun that has an object of its own is read as an action.",
     },
     {
       invariantKind: "departure",
