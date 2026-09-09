@@ -91,21 +91,18 @@ test("an apply given a message commits that message rather than a composed one",
   expect(messageFor("held", new Map([["akasha/one.ts", HELD]]))).toBe("held")
 })
 
-test("an apply lands the bodies it was handed, names them, and records them as read", async () => {
+test("an apply lands the bodies handed in, names and records them, and moves a path", async () => {
   const root = await indexed()
-  const said = await applied(root, AGENT, "applied", ADMITS, null, [], carrying(MORE))
+  writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
+  const moves = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
+  const said = await applied(root, AGENT, "applied", ADMITS, null, moves, carrying(MORE))
   if ("refusals" in said) throw new Error(said.refusals.join("; "))
   expect(readFileSync(join(root, PAGE), "utf8")).toBe(MORE)
   expect(said.formatted).toEqual([])
   expect(said.landed).toEqual([PAGE])
   expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
-})
-
-test("an apply the gate refused leaves the body as the body was", async () => {
-  const root = pagesRepo()
-  const said = await applied(root, AGENT, "applied", REFUSES, null, [], carrying(MORE))
-  expect("refusals" in said).toBe(true)
-  expect(readFileSync(join(root, PAGE), "utf8")).toBe(A)
+  expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
+  expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)
 })
 
 test("an apply handed no bodies is nothing to apply", async () => {
@@ -113,10 +110,12 @@ test("an apply handed no bodies is nothing to apply", async () => {
   expect("refusals" in said).toBe(true)
 })
 
-test("a reading wiped away is recorded again for a path that did not move", async () => {
+test("an apply the gate refused leaves the body as it was and records the reading", async () => {
   const root = pagesRepo()
   expect(readingIn(root, AGENT, PAGE)).toBeNull()
-  await applied(root, AGENT, "applied", REFUSES, null, [], carrying(MORE))
+  const said = await applied(root, AGENT, "applied", REFUSES, null, [], carrying(MORE))
+  expect("refusals" in said).toBe(true)
+  expect(readFileSync(join(root, PAGE), "utf8")).toBe(A)
   expect(readingIn(root, AGENT, PAGE)?.oid).toBe(headOid(root, PAGE))
 })
 
@@ -157,14 +156,4 @@ test("an apply refuses a page whose slug names no export", async () => {
   if (!("refusals" in said)) throw new Error("the apply landed a page naming no export")
   expect(said.refusals.join("\n")).toContain("which no `export const` may be declared under")
   expect(existsSync(join(root, UNEXPORTABLE_AT))).toBe(false)
-})
-
-test("a path an apply is handed as a move moves on disk", async () => {
-  const root = await indexed()
-  writeFileSync(join(root, "held.uncommitted.ts"), "unsaid")
-  const moves = [{ from: "held.uncommitted.ts", to: "deep/held.uncommitted.ts" }]
-  const said = await applied(root, AGENT, "applied", ADMITS, null, moves, carrying(MORE))
-  if ("refusals" in said) throw new Error(said.refusals.join("; "))
-  expect(readFileSync(join(root, "deep/held.uncommitted.ts"), "utf8")).toBe("unsaid")
-  expect(existsSync(join(root, "held.uncommitted.ts"))).toBe(false)
 })
