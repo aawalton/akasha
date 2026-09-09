@@ -18,7 +18,7 @@ const ENTRIES: Held = { pageTypeSlug: "file-property", slug: "entries", property
 const aType = (slug: string, above: readonly string[], properties: readonly Held[]): Held => ({
   pageTypeSlug: "page-type",
   slug,
-  extendsSlug: above,
+  extends: above,
   properties,
 })
 

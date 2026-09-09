@@ -14,7 +14,7 @@ const TYPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000001",
     pageTypeSlug: "page-type",
     slug: "page",
-    extendsSlug: [],
+    extends: [],
     properties: [
       { pagePropertySlug: "id", required: true, many: false },
       { pagePropertySlug: "slug", required: true, many: false },
@@ -24,14 +24,14 @@ const TYPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000002",
     pageTypeSlug: "page-type",
     slug: "module",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
     properties: [{ pagePropertySlug: "test", required: false, many: false }],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000003",
     pageTypeSlug: "page-type",
     slug: "check",
-    extendsSlug: ["page-type/module"],
+    extends: ["page-type/module"],
     properties: [
       { pagePropertySlug: "test", required: true, many: false },
       { pagePropertySlug: "aids", required: false, many: true, maxCount: 2, maxLength: 3 },
@@ -41,7 +41,7 @@ const TYPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000004",
     pageTypeSlug: "page-type",
     slug: "told",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
     properties: [
       { pagePropertySlug: "directives", required: false, many: true, maxCount: null },
       { pagePropertySlug: "aids", required: false, many: true, maxCount: null },
@@ -52,14 +52,14 @@ const TYPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000005",
     pageTypeSlug: "page-type",
     slug: "looping",
-    extendsSlug: ["page-type/looping"],
+    extends: ["page-type/looping"],
     properties: [{ pagePropertySlug: "id", required: false, many: false }],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000010",
     pageTypeSlug: "page-type",
     slug: "held",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
     properties: [
       { pagePropertySlug: "page-type-slug", required: true, many: false },
       { pagePropertySlug: "test", required: true, many: false },
@@ -72,9 +72,9 @@ const SHAPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000017",
     pageTypeSlug: "page-type",
     slug: "page-type",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
     properties: [
-      { pagePropertySlug: "extends-slug", required: false, many: true, maxCount: null },
+      { pagePropertySlug: "extends-type", required: false, many: true, maxCount: null },
       { pagePropertySlug: "page-type-slug", required: false, many: false },
       { pagePropertySlug: "properties", required: false, many: true, maxCount: null },
     ],
@@ -83,43 +83,43 @@ const SHAPES: readonly Value[] = [
     id: "01a0540d-0000-7000-8000-000000000018",
     pageTypeSlug: "page-type",
     slug: "boolean-property",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000006",
     pageTypeSlug: "page-type",
     slug: "text-property",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000007",
     pageTypeSlug: "page-type",
     slug: "record-property",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000008",
     pageTypeSlug: "page-type",
     slug: "number-property",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
   },
   {
     id: "01a0540d-0000-7000-8000-00000000000f",
     pageTypeSlug: "page-type",
     slug: "relation-property",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000012",
     pageTypeSlug: "page-type",
     slug: "name-format",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000015",
     pageTypeSlug: "page-type",
     slug: "worded-property",
-    extendsSlug: ["page-type/page"],
+    extends: ["page-type/page"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000013",
@@ -183,11 +183,11 @@ const PROPERTIES: Record<string, Value> = {
     propertySlug: "tally",
     maxLength: 4,
   },
-  "extends-slug": {
+  "extends-type": {
     id: "01a0540d-0000-7000-8000-000000000019",
     pageTypeSlug: "relation-property",
-    slug: "extends-slug",
-    propertySlug: "extends-slug",
+    slug: "extends-type",
+    propertySlug: "extends",
   },
   "page-property-slug": {
     id: "01a0540d-0000-7000-8000-00000000001a",
@@ -298,7 +298,7 @@ function schemaFiledFor(root: string, pageTypeSlug: string, slug: string): undef
 export function typing(id: string, slug: string, above: string, declares: string): string {
   return (
     `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}",` +
-    ` extendsSlug: ${above}, properties: [${declares}] }\n`
+    ` extends: ${above}, properties: [${declares}] }\n`
   )
 }
 
@@ -371,11 +371,11 @@ function grounding(root: string): undefined {
   listedFiled(root, "page-type", "page", [{ path: pageAt, id: ROOT_ID }])
   const typeAt = "akasha/page-type.page-type.ts"
   const declares =
-    '{ pagePropertySlug: "extends-slug", many: true, maxCount: null }, { pagePropertySlug: "page-type-slug" }' +
+    '{ pagePropertySlug: "extends", many: true, maxCount: null }, { pagePropertySlug: "page-type-slug" }' +
     ', { pagePropertySlug: "properties", many: true, maxCount: null }'
   put(root, typeAt, typing(PAGE_TYPE_ID, "page-type", '["page-type/page"]', declares))
   listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
-  schemaFiledFor(root, "relation-property", "extends-slug")
+  schemaFiledFor(root, "relation-property", "extends")
   schemaFiledFor(root, "relation-property", "page-type-slug")
   schemaFiledFor(root, "record-property", "properties")
 }

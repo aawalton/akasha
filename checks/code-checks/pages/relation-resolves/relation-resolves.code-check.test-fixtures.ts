@@ -124,7 +124,7 @@ export function naming(
 const PAGE_ID = "01a04d99-71ca-7e06-9000-000000000000"
 
 const PAGE_DECLARES = {
-  extendsSlug: [],
+  extends: [],
   properties: [
     { pagePropertySlug: "id", required: true, many: false },
     { pagePropertySlug: "slug", required: true, many: false },
@@ -135,13 +135,13 @@ export function rooted(carrying: boolean = true): string {
   const root = scratch.rootFor("akasha-relation-resolves-")
   filing(root, "akasha/t/page.page-type.ts", PAGE_ID, "page-type", "page", PAGE_DECLARES)
   let count = 0
-  for (const [slug, extendsSlug, mortal] of TYPES) {
+  for (const [slug, above, mortal] of TYPES) {
     count += 1
     const path = `akasha/t/${slug}.page-type.ts`
     const id = `01a04d99-71ca-7e06-9000-00000000000${count}`
-    const said = extendsSlug === null ? [] : [extendsSlug]
+    const said = above === null ? [] : [above]
     const dies = mortal ? { mortal: true } : {}
-    filing(root, path, id, "page-type", slug, { extendsSlug: said, ...dies })
+    filing(root, path, id, "page-type", slug, { extends: said, ...dies })
   }
   for (const [slug, shape] of Object.entries(SCHEMA)) {
     schemaFiled(root, String(shape.pageTypeSlug), slug, [{ ...shape, slug, propertySlug: slug }])

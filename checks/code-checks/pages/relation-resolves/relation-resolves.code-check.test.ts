@@ -373,7 +373,7 @@ const R_ID = "01a04d99-71ca-7e06-8000-00000000000d"
 test("a page type the change introduces admits a page named through it", () => {
   const root = rooted()
   const bodies = {
-    [P]: stating(P_ID, "probe", "page-type", ', extendsSlug: ["page-type/domain"]'),
+    [P]: stating(P_ID, "probe", "page-type", ', extends: ["page-type/domain"]'),
     [X]: stating(X_ID, "x", "probe"),
     [A]: stating(A_ID, "a", "note", ', domainSlug: "probe/x"'),
   }
@@ -383,7 +383,7 @@ test("a page type the change introduces admits a page named through it", () => {
 test("a relation property the change introduces is judged rather than passed over", () => {
   const root = rooted()
   const bodies = {
-    [R]: stating(R_ID, "held", "relation-property", ', targetPageTypeSlug: "page-type/domain"'),
+    [R]: stating(R_ID, "held", "relation-property", ', targetPageType: "page-type/domain"'),
     [A]: stating(A_ID, "a", "note", ', held: "domain/gone"'),
   }
   expect(judged(over(root, [R, A], bodies))).toEqual([

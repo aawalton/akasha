@@ -260,7 +260,7 @@ const KEYED_PROPERTY_PAGE = {
   slug: KEYED_PROPERTY,
   propertySlug: "held-note",
   definition: "a name a page writes under a key this slug does not spell",
-  targetPageTypeSlug: "module",
+  targetPageType: "module",
 }
 
 const KEYED_NAMER_PAGE = {

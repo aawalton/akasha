@@ -91,7 +91,7 @@ const PAGE_TYPE: Value = {
   id: B,
   pageTypeSlug: "page-type",
   slug: "page",
-  extendsSlug: [],
+  extends: [],
   properties: [{ pagePropertySlug: "slug", required: true, many: false }],
 }
 
@@ -113,14 +113,14 @@ const SECTION_TYPE: Value = {
   id: A,
   pageTypeSlug: "page-type",
   slug: "section",
-  extendsSlug: ["page-type/page"],
+  extends: ["page-type/page"],
   properties: [
     {
       pagePropertySlug: "slug",
       required: true,
       many: false,
       unique: "page-property",
-      uniquePropertySlug: "section-of-slug",
+      uniqueProperty: "section-of-slug",
     },
     { pagePropertySlug: "section-of-slug", required: true, many: false },
   ],
