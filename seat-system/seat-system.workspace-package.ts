@@ -303,6 +303,7 @@ export const seatSystem = {
     "workstation-service/sweep-supervisor-logs",
     "domain/messaging",
     "domain/terminal-shell",
+    "domain/recipient-resolving",
   ],
   invariants: [
     {
