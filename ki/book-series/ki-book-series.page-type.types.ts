@@ -1,3 +1,3 @@
-import type { KiCollectionTemplate } from "../collection-templates/ki-collection-template.page-type.ts"
+import type { KiCollectionTemplate } from "../collection-templates/ki-collection-template.page-type.types.ts"
 
 export type KiBookSeries = KiCollectionTemplate & {}
