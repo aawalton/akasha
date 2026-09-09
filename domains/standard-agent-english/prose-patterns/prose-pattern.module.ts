@@ -49,6 +49,11 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A word whose object is the relativizer and that has no subject of its own is left alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A bare adverb after a word is a particle, whatever the parser calls it.",
     },
     {

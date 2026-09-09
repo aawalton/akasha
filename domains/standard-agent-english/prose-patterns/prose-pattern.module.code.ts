@@ -318,8 +318,15 @@ function objectsDoubled(sentence: DepSentence, token: DepToken): boolean {
   return childrenByRel(sentence, token.id, OBJECT).length > 1
 }
 
+function relativizerHeld(sentence: DepSentence, token: DepToken): boolean {
+  const object = child(sentence, token.id, OBJECT)
+  if (object === undefined || !RELATIVIZERS.has(lower(object))) return false
+  return childrenByRel(sentence, token.id, SUBJECT).length === 0
+}
+
 function leftAlone(sentence: DepSentence, token: DepToken): boolean {
   if (objectsDoubled(sentence, token)) return true
+  if (relativizerHeld(sentence, token)) return true
   if (particled(sentence, token)) return true
   if (personHeld(sentence, token)) return true
   if (boundTo(sentence, token)) return true

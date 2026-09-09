@@ -343,6 +343,14 @@ export const A_WIDGET_HOLDS_HOW_MANY_TAPS: readonly Row[] = [
   ["taps", "NOUN", 3, "obj"],
 ]
 
+export const A_WRITE_BACK_THAT_HELD: readonly Row[] = [
+  ["a", "DET", 3, "det"],
+  ["write", "NOUN", 3, "compound"],
+  ["back", "NOUN", 0, "root"],
+  ["that", "PRON", 5, "obj"],
+  ["held", "VERB", 3, "acl:relcl"],
+]
+
 export const IT_HELD_OR_WOULD_HOLD: readonly Row[] = [
   ["a", "DET", 2, "det"],
   ["message", "NOUN", 0, "root"],

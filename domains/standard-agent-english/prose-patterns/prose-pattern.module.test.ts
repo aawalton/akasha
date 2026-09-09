@@ -12,6 +12,7 @@ import {
   A_TIMER_HOLDS_THE_PROCESS_UP,
   A_TREE_IS_HELD_TO_RELEASE,
   A_WIDGET_HOLDS_HOW_MANY_TAPS,
+  A_WRITE_BACK_THAT_HELD,
   ALAN_HAS_HOLDS_THAT_READING,
   AN_UNKNOWN_HOLDS,
   CALL_HOLDS_JUDGED,
@@ -65,6 +66,10 @@ test("a word a thing is the holder of is found", () => {
 
 test("a word whose only subject is the relativizer has no object anywhere", () => {
   expect(foundIn(sentenceOf(THE_SET_THAT_HOLDS), HOLD)).toEqual([])
+})
+
+test("a word whose object is the relativizer and that has no subject is left alone", () => {
+  expect(foundIn(sentenceOf(A_WRITE_BACK_THAT_HELD), HELD)).toEqual([])
 })
 
 test("a word taking a bare adverb for a particle is left alone", () => {
