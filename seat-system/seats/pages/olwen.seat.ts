@@ -4,7 +4,7 @@ export const olwen = {
   id: "01a0819a-fa12-7000-9c6e-51368756ed87",
   pageTypeSlug: "seat",
   slug: "olwen",
-  persona: "olwen",
+  personaSlug: "olwen",
   assignmentSlug: "initiative/olwen-persona-cleanup",
   role: "worker",
   person: "alan",
