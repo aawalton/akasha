@@ -6,5 +6,5 @@ export const partners = {
   slug: "partners",
   title: "Partners",
   world: "personas",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryPlayed

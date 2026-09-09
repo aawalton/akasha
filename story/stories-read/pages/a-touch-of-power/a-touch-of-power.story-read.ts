@@ -10,5 +10,5 @@ export const aTouchOfPower = {
   rank: "A",
   following: true,
   tags: ["System World"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

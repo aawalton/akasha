@@ -22,7 +22,7 @@ export const heavenPiercingGiraffeOpMcXianxia = {
     "Lesbian Romance",
     "Strong Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/172357/heaven-piercing-giraffe",
   externalId: "172357",
   prose: "txt",

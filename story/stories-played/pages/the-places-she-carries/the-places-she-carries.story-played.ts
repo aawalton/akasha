@@ -6,6 +6,6 @@ export const thePlacesSheCarries = {
   slug: "the-places-she-carries",
   title: "The Places She Carries",
   world: "the-places-she-carries",
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryPlayed

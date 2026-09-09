@@ -21,7 +21,7 @@ export const manaDevourerLitrpgmanaCultivation = {
     "Mythos",
   ],
   ownProgress: 180090,
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/89231/mana-devourer-litrpgmana-cultivation",
   externalId: "89231",
 } as const satisfies StoryRead

@@ -5,7 +5,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg = {
   pageTypeSlug: "story-read",
   slug: "chloe-the-zombie-a-monster-evolution-litrpg",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "129189",
   externalLink:
     "https://www.royalroad.com/fiction/129189/chloe-the-zombie-a-monster-evolution-litrpg",

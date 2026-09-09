@@ -11,7 +11,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr = {
   following: true,
   publicationStatus: "completed",
   externalTags: ["Adventure", "Historical", "Mystery", "Romance Subplot"],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr",
   externalId: "54508",

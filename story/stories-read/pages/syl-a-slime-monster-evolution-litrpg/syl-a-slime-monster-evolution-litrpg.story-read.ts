@@ -25,7 +25,7 @@ export const sylASlimeMonsterEvolutionLitrpg = {
     "Secret Identity",
     "Strong Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg",
   externalId: "77972",
   prose: "txt",

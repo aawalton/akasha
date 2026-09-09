@@ -24,7 +24,7 @@ export const roadToMasteryALitrpgApocalypse = {
     "Mythos",
     "Supernatural",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse",
   externalId: "61041",
   prose: "txt",

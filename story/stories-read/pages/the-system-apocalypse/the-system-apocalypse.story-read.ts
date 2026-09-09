@@ -9,5 +9,5 @@ export const theSystemApocalypse = {
   source: "kindle",
   rank: "B",
   tags: ["System Apocalypse"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

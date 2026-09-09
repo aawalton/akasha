@@ -25,7 +25,7 @@ export const ratGirlEvolutionLabRatToUnrivaled = {
     "Secret Identity",
     "Technologically Engineered",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/131412/rat-girl-evolution-lab-rat-to-unrivaled",
   externalId: "131412",
 } as const satisfies StoryRead

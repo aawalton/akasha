@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0040040HowBadCouldItBe =
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 40,
   ownLength: 2381,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3522785/040-how-bad-could-it-be",

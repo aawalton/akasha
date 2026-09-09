@@ -9,5 +9,5 @@ export const cradle = {
   source: "kindle",
   rank: "A",
   tags: ["Cultivation", "System World"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

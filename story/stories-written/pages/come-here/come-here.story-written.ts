@@ -6,6 +6,6 @@ export const comeHere = {
   slug: "come-here",
   title: "Come Here",
   world: "personas",
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryWritten

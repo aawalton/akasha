@@ -11,7 +11,7 @@ export const phoenixHealer = {
   following: true,
   publicationStatus: "hiatus",
   externalTags: ["LitRPG", "Female Lead", "Action", "Adventure", "Fantasy", "Magic"],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/96871/phoenix-healer",
   externalId: "96871",
   prose: "txt",

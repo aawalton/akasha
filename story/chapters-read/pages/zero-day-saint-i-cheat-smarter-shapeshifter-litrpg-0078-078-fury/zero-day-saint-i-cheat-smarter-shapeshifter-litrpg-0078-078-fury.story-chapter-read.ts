@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0078078Fury = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 78,
   ownLength: 2144,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-litrpgvol-1-complete/chapter/3898913/078-fury",

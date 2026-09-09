@@ -6,6 +6,6 @@ export const anthology = {
   slug: "anthology",
   title: "Anthology",
   world: "personas",
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryWritten

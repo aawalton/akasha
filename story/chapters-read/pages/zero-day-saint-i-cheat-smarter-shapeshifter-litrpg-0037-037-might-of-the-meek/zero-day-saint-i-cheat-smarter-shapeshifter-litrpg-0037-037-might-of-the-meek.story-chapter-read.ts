@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0037037MightOfTheMeek = 
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 37,
   ownLength: 2516,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3508247/037-might-of-the-meek",

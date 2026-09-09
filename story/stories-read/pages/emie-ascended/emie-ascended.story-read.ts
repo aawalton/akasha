@@ -25,7 +25,7 @@ export const emieAscended = {
     "Magic",
     "Romance Subplot",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/170179/emie-ascended",
   externalId: "170179",
   prose: "txt",

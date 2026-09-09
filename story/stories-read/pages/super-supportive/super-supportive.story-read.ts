@@ -23,7 +23,7 @@ export const superSupportive = {
     "School Life",
     "Soft Sci-fi",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/63759/super-supportive",
   externalId: "63759",
   prose: "txt",

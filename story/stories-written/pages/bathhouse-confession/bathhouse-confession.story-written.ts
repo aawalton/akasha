@@ -6,5 +6,5 @@ export const bathhouseConfession = {
   slug: "bathhouse-confession",
   title: "Bathhouse Confession",
   world: "bathhouse-confession",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryWritten

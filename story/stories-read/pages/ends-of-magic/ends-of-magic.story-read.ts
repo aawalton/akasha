@@ -23,7 +23,7 @@ export const endsOfMagic = {
     "Magic",
     "Technologically Engineered",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/57697/ends-of-magic",
   externalId: "57697",
   prose: "txt",

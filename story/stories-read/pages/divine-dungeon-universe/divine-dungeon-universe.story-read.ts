@@ -7,5 +7,5 @@ export const divineDungeonUniverse = {
   title: "Divine Dungeon Universe",
   world: "divine-dungeon-universe",
   source: "kindle",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

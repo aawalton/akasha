@@ -22,7 +22,7 @@ export const riseOfTheDragonQueenEvolutionprogression = {
     "Slice of Life",
     "Strong Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/129546/rise-of-the-dragon-queen-evolutionprogression",
   externalId: "129546",

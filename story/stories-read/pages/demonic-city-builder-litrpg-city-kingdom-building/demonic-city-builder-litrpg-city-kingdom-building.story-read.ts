@@ -28,7 +28,7 @@ export const demonicCityBuilderLitrpgCityKingdomBuilding = {
     "Supernatural",
     "Survival",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/168862/demonic-city-builder-litrpg-city-kingdom-building",
   externalId: "168862",

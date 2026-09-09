@@ -20,7 +20,7 @@ export const lightCleric = {
     "High Fantasy",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/38443/light-cleric",
   externalId: "38443",
   prose: "txt",

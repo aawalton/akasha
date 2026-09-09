@@ -6,5 +6,5 @@ export const dateNightTheReadingRoom = {
   slug: "date-night-the-reading-room",
   title: "Date Night The Reading Room",
   world: "personas",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryPlayed

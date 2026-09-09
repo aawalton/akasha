@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0073073BreakfastInterven
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 73,
   ownLength: 2226,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3841872/073-breakfast-intervention",

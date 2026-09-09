@@ -5,7 +5,7 @@ export const dateNightTheReadingRoom = {
   pageTypeSlug: "game",
   slug: "date-night-the-reading-room",
   title: "Date Night — The Reading Room",
-  unitSlug: "words",
+  unit: "words",
   externalId: "playtest-date-night-10",
   gameEngine: "awen",
   coordinatorAgent: "awen-gm--playtest-date-night-10",

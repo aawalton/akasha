@@ -22,7 +22,7 @@ export const bornForTheApocalypseADaopcalypseLitrpgBook = {
     "Male Lead",
   ],
   ownProgress: 124025,
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/64122/born-for-the-apocalypse-a-daopcalypse-litrpg-book",
   externalId: "64122",

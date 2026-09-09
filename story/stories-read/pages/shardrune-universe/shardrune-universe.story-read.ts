@@ -9,5 +9,5 @@ export const shardruneUniverse = {
   source: "kindle",
   rank: "B",
   following: true,
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

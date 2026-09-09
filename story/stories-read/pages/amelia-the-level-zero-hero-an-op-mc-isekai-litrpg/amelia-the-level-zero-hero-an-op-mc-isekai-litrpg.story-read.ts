@@ -5,7 +5,7 @@ export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg = {
   pageTypeSlug: "story-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "61480",
   externalLink:
     "https://www.royalroad.com/fiction/61480/amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",

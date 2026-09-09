@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0042042IMissedGravity = 
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 42,
   ownLength: 1873,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3540843/042-i-missed-gravity",

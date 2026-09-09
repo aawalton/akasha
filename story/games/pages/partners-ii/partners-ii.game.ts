@@ -5,7 +5,7 @@ export const partnersIi = {
   pageTypeSlug: "game",
   slug: "partners-ii",
   title: "Partners II",
-  unitSlug: "words",
+  unit: "words",
   externalId: "partners-ii",
   gameEngine: "awen",
   coordinatorAgent: "awen-gm--partners-ii",

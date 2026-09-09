@@ -10,5 +10,5 @@ export const awakenOnline = {
   rank: "A",
   following: true,
   tags: ["VRMMO"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

@@ -10,5 +10,5 @@ export const soulGuardian = {
   rank: "B",
   following: true,
   tags: ["Slice-Of-Life"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

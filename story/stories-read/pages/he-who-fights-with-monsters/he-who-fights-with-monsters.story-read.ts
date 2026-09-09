@@ -22,7 +22,7 @@ export const heWhoFightsWithMonsters = {
     "High Fantasy",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/26294/he-who-fights-with-monsters",
   externalId: "26294",
   prose: "txt",

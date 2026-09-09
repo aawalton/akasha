@@ -10,7 +10,7 @@ export const pathToProsperityLitrpgVol12Stubbed = {
   author: "HideousGrain",
   rank: "C",
   externalTags: ["LitRPG", "Male Lead", "Action", "Adventure", "Fantasy"],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/89323/path-to-prosperity-litrpg-vol-12-stubbed",
   externalId: "89323",
   prose: "txt",

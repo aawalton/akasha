@@ -21,7 +21,7 @@ export const defianceOfTheFall = {
     "Strong Lead",
     "Supernatural",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/24709/defiance-of-the-fall",
   externalId: "24709",
 } as const satisfies StoryRead

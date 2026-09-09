@@ -25,7 +25,7 @@ export const hellHorizonHealer = {
     "Strong Lead",
     "Tower",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/173331/hell-horizon-healer",
   externalId: "173331",
   prose: "txt",

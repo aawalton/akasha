@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0064064DeathOfTheHiveQue
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 64,
   ownLength: 1941,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3749386/064-death-of-the-hive-queen",

@@ -27,7 +27,7 @@ export const thePrimalHunter = {
     "Strong Lead",
     "Supernatural",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/36049/the-primal-hunter",
   externalId: "36049",
   prose: "txt",

@@ -7,5 +7,5 @@ export const kerasSelyrianUniverse = {
   title: "Keras Selyrian Universe",
   world: "keras-selyrian-universe",
   source: "kindle",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

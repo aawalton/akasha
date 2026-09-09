@@ -19,7 +19,7 @@ export const journeyToVeresavirFantasyLitrpg = {
     "Fantasy",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/137228/journey-to-veresavir-fantasy-litrpg",
   externalId: "137228",
   prose: "txt",

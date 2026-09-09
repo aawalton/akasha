@@ -22,7 +22,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg = {
     "Lesbian Romance",
     "System Invasion",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol",
   externalId: "164273",

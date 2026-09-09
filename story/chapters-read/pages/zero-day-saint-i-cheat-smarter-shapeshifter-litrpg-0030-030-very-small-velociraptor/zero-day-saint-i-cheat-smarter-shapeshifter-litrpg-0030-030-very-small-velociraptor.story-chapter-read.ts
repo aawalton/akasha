@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0030030VerySmallVelocira
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 30,
   ownLength: 2557,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3459054/030-very-small-velociraptor",

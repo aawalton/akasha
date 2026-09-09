@@ -29,7 +29,7 @@ export const gamerGirlEvolution = {
     "Secret Identity",
     "Strong Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/130828/gamer-girl-evolution",
   externalId: "130828",
   prose: "txt",

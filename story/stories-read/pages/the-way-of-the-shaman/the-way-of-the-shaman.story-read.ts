@@ -9,5 +9,5 @@ export const theWayOfTheShaman = {
   source: "kindle",
   rank: "C",
   tags: ["VRMMO"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

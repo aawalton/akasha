@@ -25,7 +25,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg = {
     "Strong Lead",
     "System Invasion",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/79141/crimson-eternal-an-immortal-death-mage-litrpg",
   externalId: "79141",

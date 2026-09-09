@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0050050TheMinMaxerSChoic
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 50,
   ownLength: 1595,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3615515/050-the-min-maxers-choice",

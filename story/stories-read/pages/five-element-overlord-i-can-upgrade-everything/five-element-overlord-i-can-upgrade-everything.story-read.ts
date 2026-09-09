@@ -25,7 +25,7 @@ export const fiveElementOverlordICanUpgradeEverything = {
     "Martial Arts",
     "Secret Identity",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/159989/five-element-overlord-i-can-upgrade-everything",
   externalId: "159989",

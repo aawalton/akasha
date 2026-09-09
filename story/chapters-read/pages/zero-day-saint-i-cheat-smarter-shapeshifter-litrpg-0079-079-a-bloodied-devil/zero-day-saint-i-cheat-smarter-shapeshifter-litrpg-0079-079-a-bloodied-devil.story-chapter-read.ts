@@ -7,7 +7,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0079079ABloodiedDevil = 
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 79,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3909914",
   source: "royal-road",
   title: "079 - A Bloodied Devil",

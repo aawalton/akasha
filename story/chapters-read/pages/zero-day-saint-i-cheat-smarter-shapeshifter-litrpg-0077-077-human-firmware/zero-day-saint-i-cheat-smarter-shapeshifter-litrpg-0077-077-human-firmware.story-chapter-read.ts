@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0077077HumanFirmware = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 77,
   ownLength: 2078,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3888616/077-human-firmware",

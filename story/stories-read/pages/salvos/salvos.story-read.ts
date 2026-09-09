@@ -22,7 +22,7 @@ export const salvos = {
     "High Fantasy",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/37438/salvos",
   externalId: "37438",
 } as const satisfies StoryRead

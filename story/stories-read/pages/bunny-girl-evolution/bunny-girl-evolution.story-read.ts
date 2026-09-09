@@ -34,7 +34,7 @@ export const bunnyGirlEvolution = {
     "Strong Lead",
     "Supernatural",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/90435/bunny-girl-evolution",
   externalId: "90435",
   prose: "txt",

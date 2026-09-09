@@ -24,7 +24,7 @@ export const timeCursedKnightTimeLoopPostApoc = {
     "Magic",
     "Magitech",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc",
   externalId: "160012",
   prose: "txt",

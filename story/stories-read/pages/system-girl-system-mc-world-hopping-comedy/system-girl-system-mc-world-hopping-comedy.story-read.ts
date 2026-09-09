@@ -5,7 +5,7 @@ export const systemGirlSystemMcWorldHoppingComedy = {
   pageTypeSlug: "story-read",
   slug: "system-girl-system-mc-world-hopping-comedy",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "131265",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy",

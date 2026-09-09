@@ -5,7 +5,7 @@ export const catGirlEvolution = {
   pageTypeSlug: "story-read",
   slug: "cat-girl-evolution",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "129180",
   externalLink: "https://www.royalroad.com/fiction/129180/cat-girl-evolution",
   title: "Cat Girl Evolution",

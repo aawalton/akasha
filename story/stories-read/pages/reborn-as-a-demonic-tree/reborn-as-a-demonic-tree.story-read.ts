@@ -30,7 +30,7 @@ export const rebornAsADemonicTree = {
     "Strong Lead",
     "Villainous Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/62881/reborn-as-a-demonic-tree",
   externalId: "62881",
   prose: "txt",

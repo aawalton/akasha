@@ -19,7 +19,7 @@ export const chrysalis = {
     "Fantasy",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/22518/chrysalis",
   externalId: "22518",
   prose: "txt",

@@ -8,5 +8,5 @@ export const somniaOnline = {
   world: "somnia-online",
   source: "kindle",
   tags: ["VRMMO"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

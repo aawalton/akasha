@@ -6,6 +6,6 @@ export const dragonsAndDungeons = {
   slug: "dragons-and-dungeons",
   title: "Dragons & Dungeons",
   world: "personas",
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryPlayed

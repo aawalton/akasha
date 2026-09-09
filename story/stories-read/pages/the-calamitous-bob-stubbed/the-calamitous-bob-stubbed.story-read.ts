@@ -20,7 +20,7 @@ export const theCalamitousBobStubbed = {
     "Fantasy",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed",
   externalId: "44132",
   prose: "txt",

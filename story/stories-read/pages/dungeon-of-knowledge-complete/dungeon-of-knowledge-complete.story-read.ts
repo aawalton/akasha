@@ -26,7 +26,7 @@ export const dungeonOfKnowledgeComplete = {
     "Magic",
     "Non-Human Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/80744/dungeon-of-knowledge-complete",
   externalId: "80744",
   prose: "txt",

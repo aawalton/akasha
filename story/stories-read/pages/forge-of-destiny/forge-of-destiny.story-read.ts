@@ -20,7 +20,7 @@ export const forgeOfDestiny = {
     "Martial Arts",
   ],
   ownProgress: 1264154,
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/21188/forge-of-destiny",
   externalId: "21188",
 } as const satisfies StoryRead

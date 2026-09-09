@@ -25,7 +25,7 @@ export const riseOfTheLivingForge = {
     "Secret Identity",
     "Strong Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge",
   externalId: "79094",
   prose: "txt",

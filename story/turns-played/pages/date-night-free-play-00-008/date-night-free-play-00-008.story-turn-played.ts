@@ -7,7 +7,7 @@ export const dateNightFreePlay00008 = {
   partOfCollections: ["story-played/date-night-free-play"],
   position: 8,
   ownLength: 272,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-11T06:06:30.400Z",
   prose: "txt",
 } as const satisfies StoryTurnPlayed

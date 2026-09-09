@@ -7,7 +7,7 @@ export const haremHotel00012 = {
   partOfCollections: ["story-played/harem-hotel"],
   position: 12,
   ownLength: 648,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-13T12:13:46.808Z",
   prose: "txt",
 } as const satisfies StoryTurnPlayed

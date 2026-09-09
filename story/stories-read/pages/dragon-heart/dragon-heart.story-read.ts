@@ -9,5 +9,5 @@ export const dragonHeart = {
   source: "kindle",
   rank: "C",
   tags: ["Cultivation", "Dark"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

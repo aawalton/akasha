@@ -8,6 +8,6 @@ export const comeHere0001FirelitKnit = {
   story: "come-here",
   position: 1,
   ownLength: 998,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

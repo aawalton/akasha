@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0036036Manifold = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 36,
   ownLength: 2314,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3495081/036-manifold",

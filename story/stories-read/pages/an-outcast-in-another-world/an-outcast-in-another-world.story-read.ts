@@ -8,5 +8,5 @@ export const anOutcastInAnotherWorld = {
   world: "an-outcast-in-another-world",
   source: "kindle",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

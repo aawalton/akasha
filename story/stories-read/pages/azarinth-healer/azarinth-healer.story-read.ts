@@ -10,7 +10,7 @@ export const azarinthHealer = {
   author: "Rhaegar",
   rank: "B",
   externalTags: ["LitRPG", "Female Lead", "Action", "Adventure", "Fantasy", "Magic"],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/16946/azarinth-healer",
   externalId: "16946",
   prose: "txt",

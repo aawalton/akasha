@@ -19,7 +19,7 @@ export const speedrunningTheMultiverseComplete = {
     "Fantasy",
     "Martial Arts",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete",
   externalId: "46319",
   prose: "txt",

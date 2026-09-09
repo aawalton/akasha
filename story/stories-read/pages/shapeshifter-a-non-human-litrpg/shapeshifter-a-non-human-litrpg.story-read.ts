@@ -29,7 +29,7 @@ export const shapeshifterANonHumanLitrpg = {
     "Strong Lead",
     "Survival",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/123277/shapeshifter-a-non-human-litrpg",
   externalId: "123277",
 } as const satisfies StoryRead

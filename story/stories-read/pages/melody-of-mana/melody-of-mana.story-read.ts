@@ -19,7 +19,7 @@ export const melodyOfMana = {
     "Magic",
     "Reincarnation",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/43974/melody-of-mana",
   externalId: "43974",
   prose: "txt",

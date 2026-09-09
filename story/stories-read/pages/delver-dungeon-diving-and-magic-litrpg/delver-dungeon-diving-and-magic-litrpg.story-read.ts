@@ -22,7 +22,7 @@ export const delverDungeonDivingAndMagicLitrpg = {
     "Local Protagonist",
     "Mythos",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/169341/delver-dungeon-diving-and-magic-litrpg",
   externalId: "169341",
   prose: "txt",

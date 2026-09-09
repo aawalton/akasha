@@ -7,7 +7,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0081081Inadequate = {
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 81,
   publishedAt: "2026-09-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3928648",
   source: "royal-road",
   title: "081 - (In)adequate",

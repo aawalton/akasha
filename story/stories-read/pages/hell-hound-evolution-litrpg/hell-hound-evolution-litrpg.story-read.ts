@@ -35,7 +35,7 @@ export const hellHoundEvolutionLitrpg = {
     "Survival",
     "Villainous Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/129179/hell-hound-evolution-litrpg",
   externalId: "129179",
 } as const satisfies StoryRead

@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0014014APartOfAPartOfTha
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 14,
   ownLength: 2292,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3356757/014-a-part-of-a-part-of-that-power",

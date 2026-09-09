@@ -20,7 +20,7 @@ export const theNewWorld = {
     "Mystery",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/12024/the-new-world",
   externalId: "12024",
   prose: "txt",

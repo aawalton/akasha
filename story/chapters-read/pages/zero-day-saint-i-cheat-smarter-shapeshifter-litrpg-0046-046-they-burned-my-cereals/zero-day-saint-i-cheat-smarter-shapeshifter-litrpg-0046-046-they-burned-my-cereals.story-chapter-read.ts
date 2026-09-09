@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0046046TheyBurnedMyCerea
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 46,
   ownLength: 1912,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3578246/046-they-burned-my-cereals",

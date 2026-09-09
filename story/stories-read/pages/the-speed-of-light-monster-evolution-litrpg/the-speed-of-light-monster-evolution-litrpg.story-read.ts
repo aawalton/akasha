@@ -24,7 +24,7 @@ export const theSpeedOfLightMonsterEvolutionLitrpg = {
     "Magic",
     "Strong Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/129181/the-speed-of-light-monster-evolution-litrpg",
   externalId: "129181",

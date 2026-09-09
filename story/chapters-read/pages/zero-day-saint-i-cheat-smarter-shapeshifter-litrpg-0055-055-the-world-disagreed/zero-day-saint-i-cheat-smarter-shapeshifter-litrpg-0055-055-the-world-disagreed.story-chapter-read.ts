@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0055055TheWorldDisagreed
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 55,
   ownLength: 1904,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3656106/055-the-world-disagreed",

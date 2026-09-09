@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0068068StillYou = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 68,
   ownLength: 1949,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3793903/068-still-you",

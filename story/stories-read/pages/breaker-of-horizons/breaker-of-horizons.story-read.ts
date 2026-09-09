@@ -20,7 +20,7 @@ export const breakerOfHorizons = {
     "Magic",
     "School Life",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/32123/breaker-of-horizons",
   externalId: "32123",
 } as const satisfies StoryRead

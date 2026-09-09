@@ -9,5 +9,5 @@ export const disgardium = {
   source: "kindle",
   rank: "B",
   tags: ["VRMMO"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

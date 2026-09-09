@@ -9,5 +9,5 @@ export const stonehavenLeague = {
   source: "kindle",
   following: true,
   tags: ["VRMMO"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

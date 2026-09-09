@@ -24,7 +24,7 @@ export const hellDifficultyTutorial = {
     "Survival",
     "System Invasion",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/64916/hell-difficulty-tutorial",
   externalId: "64916",
 } as const satisfies StoryRead

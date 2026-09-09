@@ -23,7 +23,7 @@ export const allTheSkillsADeckbuildingLitrpg = {
     "GameLit",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/55687/all-the-skills-a-deckbuilding-litrpg",
   externalId: "55687",
   prose: "txt",

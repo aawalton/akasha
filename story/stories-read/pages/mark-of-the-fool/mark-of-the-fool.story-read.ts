@@ -23,7 +23,7 @@ export const markOfTheFool = {
     "School Life",
     "Strong Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/41618/mark-of-the-fool",
   externalId: "41618",
   prose: "txt",

@@ -22,7 +22,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding = {
     "Ruling Class",
     "Strategy",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/159068/my-lord-please-a-character-driven-kingdom-building",
   externalId: "159068",

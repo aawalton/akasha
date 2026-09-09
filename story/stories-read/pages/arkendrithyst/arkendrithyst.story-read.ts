@@ -19,7 +19,7 @@ export const arkendrithyst = {
     "High Fantasy",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/26727/arkendrithyst",
   externalId: "26727",
   prose: "txt",

@@ -10,5 +10,5 @@ export const alexaThyme = {
   rank: "B",
   following: true,
   tags: ["System World"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

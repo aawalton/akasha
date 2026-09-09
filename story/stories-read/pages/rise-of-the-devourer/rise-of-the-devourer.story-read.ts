@@ -8,5 +8,5 @@ export const riseOfTheDevourer = {
   world: "rise-of-the-devourer",
   source: "kindle",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

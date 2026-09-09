@@ -25,7 +25,7 @@ export const theGiftOfLoot = {
     "Survival",
     "System Invasion",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/160377/the-gift-of-loot",
   externalId: "160377",
   prose: "txt",

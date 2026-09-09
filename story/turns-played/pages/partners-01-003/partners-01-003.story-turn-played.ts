@@ -7,7 +7,7 @@ export const partners01003 = {
   partOfCollections: ["story-played/partners"],
   position: 3,
   ownLength: 390,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-08T23:44:12.627Z",
   prose: "txt",
 } as const satisfies StoryTurnPlayed

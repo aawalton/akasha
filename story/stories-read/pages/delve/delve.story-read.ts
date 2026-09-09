@@ -5,7 +5,7 @@ export const delve = {
   pageTypeSlug: "story-read",
   slug: "delve",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "25225",
   externalLink: "https://www.royalroad.com/fiction/25225/delve",
   title: "Delve",

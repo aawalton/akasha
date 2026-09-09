@@ -9,5 +9,5 @@ export const chaosSeeds = {
   source: "kindle",
   rank: "C",
   tags: ["Civilization Building", "Isekai"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

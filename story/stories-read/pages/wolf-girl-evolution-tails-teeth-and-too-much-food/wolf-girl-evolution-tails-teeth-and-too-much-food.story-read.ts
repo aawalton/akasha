@@ -5,7 +5,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood = {
   pageTypeSlug: "story-read",
   slug: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "129699",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food",

@@ -5,7 +5,7 @@ export const fleshEaterDemonEvolutionLitrpg = {
   pageTypeSlug: "story-read",
   slug: "flesh-eater-demon-evolution-litrpg",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "129187",
   externalLink: "https://www.royalroad.com/fiction/129187/flesh-eater-demon-evolution-litrpg",
   title: "Flesh Eater",

@@ -5,7 +5,7 @@ export const haremHotel = {
   pageTypeSlug: "game",
   slug: "harem-hotel",
   title: "Harem Hotel",
-  unitSlug: "words",
+  unit: "words",
   externalId: "harem-hotel",
   gameEngine: "awen",
   coordinatorAgent: "awen-gm--harem-hotel",

@@ -27,7 +27,7 @@ export const thePathOfAscension = {
     "Martial Arts",
     "Soft Sci-fi",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/40920/the-path-of-ascension",
   externalId: "40920",
   prose: "txt",

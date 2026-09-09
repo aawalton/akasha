@@ -10,7 +10,7 @@ export const lazyLoopsAnIdleLitrpgOpToArchmage = {
   author: "Fiddlesoup",
   publicationStatus: "ongoing",
   externalTags: ["LitRPG", "Time Loop", "Action", "Adventure", "Fantasy", "School Life"],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/168961/lazy-loops-an-idle-litrpg-op-to-archmage",
   externalId: "168961",
   prose: "txt",

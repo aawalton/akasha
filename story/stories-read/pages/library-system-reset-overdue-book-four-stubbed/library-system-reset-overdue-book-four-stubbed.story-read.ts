@@ -20,7 +20,7 @@ export const librarySystemResetOverdueBookFourStubbed = {
     "High Fantasy",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/75802/library-system-reset-overdue-book-four-stubbed",
   externalId: "75802",

@@ -26,7 +26,7 @@ export const labyrinthOfTheMadGod = {
     "Supernatural",
   ],
   ownProgress: 103604,
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/73673/labyrinth-of-the-mad-god",
   externalId: "73673",
 } as const satisfies StoryRead

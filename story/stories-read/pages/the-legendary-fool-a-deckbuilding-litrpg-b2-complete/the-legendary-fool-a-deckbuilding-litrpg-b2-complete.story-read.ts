@@ -19,7 +19,7 @@ export const theLegendaryFoolADeckbuildingLitrpgB2Complete = {
     "Fantasy",
     "Secret Identity",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/60890/the-legendary-fool-a-deckbuilding-litrpg-b2-complete",
   externalId: "60890",

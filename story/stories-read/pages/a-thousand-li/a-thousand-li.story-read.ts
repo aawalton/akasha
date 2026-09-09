@@ -9,5 +9,5 @@ export const aThousandLi = {
   source: "kindle",
   rank: "B",
   tags: ["Cultivation"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

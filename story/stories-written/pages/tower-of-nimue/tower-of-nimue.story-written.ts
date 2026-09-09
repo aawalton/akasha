@@ -6,6 +6,6 @@ export const towerOfNimue = {
   slug: "tower-of-nimue",
   title: "The Tower of Nimue",
   world: "tower-of-nimue",
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryWritten

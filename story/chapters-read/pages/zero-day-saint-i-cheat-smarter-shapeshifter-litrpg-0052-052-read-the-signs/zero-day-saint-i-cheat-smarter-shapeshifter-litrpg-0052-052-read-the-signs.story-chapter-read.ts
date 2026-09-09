@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0052052ReadTheSigns = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 52,
   ownLength: 2020,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3625152/052-read-the-signs",

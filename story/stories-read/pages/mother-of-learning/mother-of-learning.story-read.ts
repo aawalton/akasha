@@ -11,7 +11,7 @@ export const motherOfLearning = {
   rank: "B",
   publicationStatus: "completed",
   externalTags: ["Time Loop", "Adventure", "Fantasy", "Mystery", "Magic"],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/21220/mother-of-learning",
   externalId: "21220",
   prose: "txt",

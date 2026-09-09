@@ -9,5 +9,5 @@ export const onePercentLifesteal = {
   source: "kindle",
   rank: "C",
   tags: ["Dark"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

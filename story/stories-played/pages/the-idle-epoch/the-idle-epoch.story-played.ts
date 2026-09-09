@@ -6,6 +6,6 @@ export const theIdleEpoch = {
   slug: "the-idle-epoch",
   title: "The Idle Epoch",
   world: "the-idle-epoch",
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryPlayed

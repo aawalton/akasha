@@ -6,7 +6,7 @@ export const strayCatStrutStubbingNeverLol = {
   slug: "stray-cat-strut-stubbing-never-lol",
   ownProgress: 10375,
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "33600",
   externalLink: "https://www.royalroad.com/fiction/33600/stray-cat-strut-stubbing-never-lol",
   title: "Stray Cat Strut",

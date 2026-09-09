@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0058058AdminPrivilegeToT
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 58,
   ownLength: 1519,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3687615/058-admin-privilege-to-the-body",

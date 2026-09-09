@@ -23,7 +23,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg = {
     "Magic",
     "Survival",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg",
   externalId: "170563",

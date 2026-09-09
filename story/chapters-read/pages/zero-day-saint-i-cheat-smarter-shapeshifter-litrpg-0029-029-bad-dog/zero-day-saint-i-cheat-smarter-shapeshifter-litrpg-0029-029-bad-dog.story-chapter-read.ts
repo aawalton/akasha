@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0029029BadDog = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 29,
   ownLength: 2619,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3452049/029-bad-dog",

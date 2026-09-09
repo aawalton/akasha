@@ -5,7 +5,7 @@ export const theMagpieAndTheArchmageMonsterEvoLitrpg = {
   pageTypeSlug: "story-read",
   slug: "the-magpie-and-the-archmage-monster-evo-litrpg",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "129182",
   externalLink:
     "https://www.royalroad.com/fiction/129182/the-magpie-and-the-archmage-monster-evo-litrpg",

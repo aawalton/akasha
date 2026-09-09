@@ -8,6 +8,6 @@ export const anthology0003Iris = {
   story: "anthology",
   position: 3,
   ownLength: 4157,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

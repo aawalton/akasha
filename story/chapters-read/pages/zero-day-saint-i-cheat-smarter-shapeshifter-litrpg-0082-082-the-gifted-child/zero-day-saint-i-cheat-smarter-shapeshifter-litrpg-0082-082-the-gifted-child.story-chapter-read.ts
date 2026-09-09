@@ -6,7 +6,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0082082TheGiftedChild = 
   slug: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg-0082-082-the-gifted-child",
   position: 82,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3933137",
   source: "royal-road",
   title: "082 - The Gifted Child",

@@ -6,6 +6,6 @@ export const theVioletHour = {
   slug: "the-violet-hour",
   title: "The Violet Hour",
   world: "personas",
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryPlayed

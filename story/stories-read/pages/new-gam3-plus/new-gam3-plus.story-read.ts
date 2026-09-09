@@ -22,7 +22,7 @@ export const newGam3Plus = {
     "LitRPG",
     "Technologically Engineered",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/45382/new-gam3-plus",
   externalId: "45382",
   prose: "txt",

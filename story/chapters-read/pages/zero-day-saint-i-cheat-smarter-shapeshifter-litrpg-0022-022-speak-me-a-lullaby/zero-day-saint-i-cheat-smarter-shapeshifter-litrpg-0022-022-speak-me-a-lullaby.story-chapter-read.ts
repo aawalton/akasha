@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0022022SpeakMeALullaby =
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 22,
   ownLength: 1868,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3421262/022-speak-me-a-lullaby",

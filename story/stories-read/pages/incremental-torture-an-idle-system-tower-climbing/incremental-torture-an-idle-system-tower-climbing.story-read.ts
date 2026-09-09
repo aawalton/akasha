@@ -19,7 +19,7 @@ export const incrementalTortureAnIdleSystemTowerClimbing = {
     "High Fantasy",
   ],
   ownProgress: 136760,
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/83133/incremental-torture-an-idle-system-tower-climbing",
   externalId: "83133",

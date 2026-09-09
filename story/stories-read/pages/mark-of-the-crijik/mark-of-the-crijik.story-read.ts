@@ -21,7 +21,7 @@ export const markOfTheCrijik = {
     "Reincarnation",
     "School Life",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/50243/mark-of-the-crijik",
   externalId: "50243",
   prose: "txt",

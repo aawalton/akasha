@@ -24,7 +24,7 @@ export const dungeonDevotee = {
     "High Fantasy",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/51358/dungeon-devotee",
   externalId: "51358",
   prose: "txt",

@@ -7,6 +7,6 @@ export const coffeeShopDate00009 = {
   partOfCollections: ["coffee-shop-date"],
   position: 9,
   ownLength: 135,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryTurnPlayed

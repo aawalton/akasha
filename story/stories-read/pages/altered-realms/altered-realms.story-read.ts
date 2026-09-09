@@ -9,5 +9,5 @@ export const alteredRealms = {
   source: "kindle",
   rank: "D",
   tags: ["VRMMO"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

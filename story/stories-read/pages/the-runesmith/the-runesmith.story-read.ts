@@ -5,7 +5,7 @@ export const theRunesmith = {
   pageTypeSlug: "story-read",
   slug: "the-runesmith",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "31474",
   externalLink: "https://www.royalroad.com/fiction/31474/the-runesmith",
   title: "The Runesmith",

@@ -27,7 +27,7 @@ export const dungeonDiverStealingAMonstersPower = {
     "Slice of Life",
     "Strong Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/64223/dungeon-diver-stealing-a-monsters-power",
   externalId: "64223",
   prose: "txt",

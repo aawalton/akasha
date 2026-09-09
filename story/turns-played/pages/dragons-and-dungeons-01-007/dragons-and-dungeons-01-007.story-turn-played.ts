@@ -7,6 +7,6 @@ export const dragonsAndDungeons01007 = {
   partOfCollections: ["story-played/dragons-and-dungeons"],
   position: 7,
   ownLength: 2881,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryTurnPlayed

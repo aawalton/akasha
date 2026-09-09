@@ -23,7 +23,7 @@ export const everyTropeEverywhereAllAtOnceLitrpgProgression = {
     "Magic",
     "Strong Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/166757/every-trope-everywhere-all-at-once-litrpg-progression",
   externalId: "166757",

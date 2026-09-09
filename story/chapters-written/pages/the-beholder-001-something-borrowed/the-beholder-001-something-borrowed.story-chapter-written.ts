@@ -8,6 +8,6 @@ export const theBeholder001SomethingBorrowed = {
   story: "the-beholder",
   position: 1,
   ownLength: 2726,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

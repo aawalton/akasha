@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0070070SomethingExtinct 
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 70,
   ownLength: 1812,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3811755/070-something-extinct",

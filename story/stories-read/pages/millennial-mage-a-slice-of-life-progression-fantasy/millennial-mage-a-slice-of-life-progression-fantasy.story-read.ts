@@ -22,7 +22,7 @@ export const millennialMageASliceOfLifeProgressionFantasy = {
     "Magic",
     "Supernatural",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy",
   externalId: "47826",

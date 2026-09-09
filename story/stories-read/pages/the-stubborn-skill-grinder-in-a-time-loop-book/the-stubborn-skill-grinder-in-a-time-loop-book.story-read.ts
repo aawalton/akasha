@@ -22,7 +22,7 @@ export const theStubbornSkillGrinderInATimeLoopBook = {
     "High Fantasy",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book",
   externalId: "83294",

@@ -19,7 +19,7 @@ export const alexaThymeFormerlyAlexithymia = {
     "Attractive Lead",
     "Dungeon Crawler",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/60450/alexa-thyme-formerly-alexithymia",
   externalId: "60450",
   prose: "txt",

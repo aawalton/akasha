@@ -22,7 +22,7 @@ export const deathHealer = {
     "Magic",
   ],
   ownProgress: 151064,
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/115399/death-healer",
   externalId: "115399",
 } as const satisfies StoryRead

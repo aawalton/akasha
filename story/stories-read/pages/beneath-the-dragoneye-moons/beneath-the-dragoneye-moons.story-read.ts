@@ -25,7 +25,7 @@ export const beneathTheDragoneyeMoons = {
     "Reincarnation",
     "Supernatural",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/36299/beneath-the-dragoneye-moons",
   externalId: "36299",
   prose: "txt",

@@ -36,7 +36,7 @@ export const quietLifeOfTheMuteArchmageOpArchmageAcademy = {
     "Supernatural",
     "Tower",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/167476/quiet-life-of-the-mute-archmage-op-archmage-academy",
   externalId: "167476",

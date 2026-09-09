@@ -23,7 +23,7 @@ export const metaworldHopecore = {
     "Modern Knowledge",
     "Slice of Life",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/166359/metaworld-hopecore",
   externalId: "166359",
   prose: "txt",

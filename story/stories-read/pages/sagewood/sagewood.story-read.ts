@@ -9,5 +9,5 @@ export const sagewood = {
   source: "kindle",
   rank: "C",
   tags: ["Slice-Of-Life"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

@@ -10,7 +10,7 @@ export const apocalypseHealerPathOfDeathProgressionLitrpgvolume = {
   rank: "C",
   externalTags: ["LitRPG", "Action", "Adventure", "Fantasy", "Magic"],
   ownProgress: 32355,
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/96526/apocalypse-healer-path-of-death-progression-litrpgvolume",
   externalId: "96526",

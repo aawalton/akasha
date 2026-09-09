@@ -6,7 +6,7 @@ export const godOfTrash = {
   slug: "god-of-trash",
   ownProgress: 23215,
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "107252",
   externalLink: "https://www.royalroad.com/fiction/107252/god-of-trash",
   title: "God of Trash",

@@ -8,6 +8,6 @@ export const towerOfNimue002TheOpenEye = {
   story: "tower-of-nimue",
   position: 2,
   ownLength: 4504,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

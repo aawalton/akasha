@@ -7,7 +7,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0080080Amygdala = {
   story: "story-read/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 80,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3923475",
   source: "royal-road",
   title: "080 - Amygdala",

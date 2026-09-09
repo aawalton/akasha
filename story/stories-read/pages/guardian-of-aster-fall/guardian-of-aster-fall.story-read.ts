@@ -9,5 +9,5 @@ export const guardianOfAsterFall = {
   source: "kindle",
   rank: "C",
   tags: ["Crafting", "Dungeon Delver"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

@@ -27,7 +27,7 @@ export const justAddMana = {
     "Slice of Life",
     "Strong Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/125163/just-add-mana",
   externalId: "125163",
   prose: "txt",

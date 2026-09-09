@@ -25,7 +25,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg = {
     "Slice of Life",
     "Survival",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg",
   externalId: "181591",

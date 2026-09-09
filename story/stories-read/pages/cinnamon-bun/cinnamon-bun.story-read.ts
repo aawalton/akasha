@@ -6,7 +6,7 @@ export const cinnamonBun = {
   slug: "cinnamon-bun",
   ownProgress: 746879,
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "31429",
   externalLink: "https://www.royalroad.com/fiction/31429/cinnamon-bun",
   title: "Cinnamon Bun",

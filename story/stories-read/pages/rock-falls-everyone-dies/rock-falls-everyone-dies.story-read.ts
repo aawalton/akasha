@@ -24,7 +24,7 @@ export const rockFallsEveryoneDies = {
     "Strong Lead",
     "Villainous Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies",
   externalId: "55418",
   prose: "txt",

@@ -9,6 +9,6 @@ export const theWanderingInn = {
   source: "the-wandering-inn",
   rank: "S",
   tags: ["litrpg", "fantasy", "slice-of-life"],
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryRead

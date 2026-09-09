@@ -8,6 +8,6 @@ export const bathhouseConfession0001WhereTheSteamSettles = {
   story: "bathhouse-confession",
   position: 1,
   ownLength: 4408,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

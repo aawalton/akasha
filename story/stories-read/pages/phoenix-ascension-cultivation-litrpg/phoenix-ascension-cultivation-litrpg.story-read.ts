@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg = {
   pageTypeSlug: "story-read",
   slug: "phoenix-ascension-cultivation-litrpg",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "129188",
   externalLink: "https://www.royalroad.com/fiction/129188/phoenix-ascension-cultivation-litrpg",
   title: "Phoenix Ascension",

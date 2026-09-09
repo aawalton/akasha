@@ -8,5 +8,5 @@ export const secondAgeOfRetha = {
   world: "second-age-of-retha",
   source: "kindle",
   following: true,
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

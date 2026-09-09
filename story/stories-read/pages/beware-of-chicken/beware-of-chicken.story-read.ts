@@ -21,7 +21,7 @@ export const bewareOfChicken = {
     "Reincarnation",
     "Romance Subplot",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/39408/beware-of-chicken",
   externalId: "39408",
   prose: "txt",

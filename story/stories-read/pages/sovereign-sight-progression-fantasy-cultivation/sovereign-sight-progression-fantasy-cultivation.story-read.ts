@@ -19,7 +19,7 @@ export const sovereignSightProgressionFantasyCultivation = {
     "Adventure",
     "Fantasy",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/171595/sovereign-sight-progression-fantasy-cultivation",
   externalId: "171595",

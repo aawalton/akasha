@@ -6,5 +6,5 @@ export const breathOfTheWild = {
   slug: "breath-of-the-wild",
   title: "Breath of the Wild: The Chronicle of Hyrule",
   world: "hyrule",
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryPlayed

@@ -11,7 +11,7 @@ export const theLegendOfRandidlyGhosthound = {
   rank: "C",
   following: true,
   externalTags: ["LitRPG", "Action", "Fantasy"],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/11209/the-legend-of-randidly-ghosthound",
   externalId: "11209",
   prose: "txt",

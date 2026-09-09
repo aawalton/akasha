@@ -9,5 +9,5 @@ export const theWhisperingCrystals = {
   source: "kindle",
   rank: "C",
   tags: ["System Apocalypse"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

@@ -24,7 +24,7 @@ export const systemChangeSystemUniverse = {
     "Magic",
     "Slice of Life",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/35372/system-change-system-universe",
   externalId: "35372",
   prose: "txt",

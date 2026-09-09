@@ -9,5 +9,5 @@ export const theGam3 = {
   source: "kindle",
   rank: "B",
   tags: ["VRMMO"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

@@ -4,7 +4,7 @@ export const bookboundBunny = {
   id: "01a0657d-ada1-7a0f-9ae2-92b48e2e440b",
   pageTypeSlug: "story-read",
   slug: "bookbound-bunny",
-  unitSlug: "words",
+  unit: "words",
   externalId: "104261",
   externalLink: "https://www.royalroad.com/fiction/104261/bookbound-bunny",
   title: "Bookbound Bunny",

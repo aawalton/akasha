@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0034034OathOfTwo = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 34,
   ownLength: 1750,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpg/chapter/3485971/034-oath-of-two",

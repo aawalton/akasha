@@ -24,7 +24,7 @@ export const sherlyTheMostVirtuousHolyCow = {
     "Monster Evolution",
     "Mythos",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/129185/sherly-the-most-virtuous-holy-cow",
   externalId: "129185",
 } as const satisfies StoryRead

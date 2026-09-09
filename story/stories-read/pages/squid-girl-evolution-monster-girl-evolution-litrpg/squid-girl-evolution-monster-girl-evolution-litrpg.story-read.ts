@@ -25,7 +25,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg = {
     "Slice of Life",
     "Strong Lead",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg",
   externalId: "130456",

@@ -5,7 +5,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons = {
   pageTypeSlug: "story-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons",
   rank: "C",
-  unitSlug: "words",
+  unit: "words",
   externalId: "96185",
   externalLink:
     "https://www.royalroad.com/fiction/96185/blind-chaos-tales-beneath-the-dragoneye-moons",

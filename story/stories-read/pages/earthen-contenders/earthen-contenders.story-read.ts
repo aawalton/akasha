@@ -10,5 +10,5 @@ export const earthenContenders = {
   rank: "C",
   following: true,
   tags: ["System Apocalypse"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

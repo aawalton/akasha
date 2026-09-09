@@ -9,5 +9,5 @@ export const vuldranni = {
   source: "kindle",
   rank: "B",
   tags: ["Comedy"],
-  unitSlug: "words",
+  unit: "words",
 } as const satisfies StoryRead

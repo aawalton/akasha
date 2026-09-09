@@ -18,7 +18,7 @@ export const succulentGirlEvolution = {
     "High Fantasy",
     "Magic",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution",
   externalId: "129183",
 } as const satisfies StoryRead

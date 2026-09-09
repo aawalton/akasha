@@ -22,7 +22,7 @@ export const ultimateLevel1LitrpgBook11Stubs310 = {
     "Fantasy",
     "Dungeon Crawler",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310",
   externalId: "76259",
   prose: "txt",

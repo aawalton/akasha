@@ -32,7 +32,7 @@ export const darkMatterAscensionLitrpgSwordmageMc = {
     "System Invasion",
   ],
   ownProgress: 83325,
-  unitSlug: "words",
+  unit: "words",
   externalLink: "https://www.royalroad.com/fiction/99657/dark-matter-ascension-litrpg-swordmage-mc",
   externalId: "99657",
 } as const satisfies StoryRead

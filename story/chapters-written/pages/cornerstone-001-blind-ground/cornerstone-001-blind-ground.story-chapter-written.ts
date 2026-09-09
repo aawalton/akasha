@@ -8,6 +8,6 @@ export const cornerstone001BlindGround = {
   story: "cornerstone",
   position: 1,
   ownLength: 4805,
-  unitSlug: "words",
+  unit: "words",
   prose: "txt",
 } as const satisfies StoryChapterWritten

@@ -23,7 +23,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife = {
     "Lesbian Romance",
     "Slice of Life",
   ],
-  unitSlug: "words",
+  unit: "words",
   externalLink:
     "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life",
   externalId: "179650",
