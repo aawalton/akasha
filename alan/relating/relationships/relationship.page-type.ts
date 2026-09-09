@@ -17,7 +17,7 @@ import type { RelationshipPhone } from "./properties/relationship-phone.phone-nu
 import type { RelationshipRole } from "./properties/relationship-role.text-property.ts"
 import type { RelationshipSmsAllowed } from "./properties/relationship-sms-allowed.boolean-property.ts"
 import type { RelationshipSmsHandlerTarget } from "./properties/relationship-sms-handler-target.relation-property.ts"
-import type { RelationshipTopicSlugs } from "./properties/relationship-topic-slugs.relation-property.ts"
+import type { RelationshipTopics } from "./properties/relationship-topics.relation-property.ts"
 
 export type Relationship = Page & {
   title: Title
@@ -36,7 +36,7 @@ export type Relationship = Page & {
   relationshipRole?: RelationshipRole
   relationshipSmsAllowed?: RelationshipSmsAllowed
   relationshipSmsHandlerTarget?: RelationshipSmsHandlerTarget
-  relationshipTopicSlugs?: readonly RelationshipTopicSlugs[]
+  relationshipTopics?: readonly RelationshipTopics[]
   relationshipNotes?: RelationshipNotes
 }
 
@@ -57,7 +57,7 @@ export const relationship = {
     "number-property/relationship-interest",
     "phone-number-property/relationship-phone",
     "relation-property/relationship-sms-handler-target",
-    "relation-property/relationship-topic-slugs",
+    "relation-property/relationship-topics",
     "select-property/relationship-current-circle",
     "text-property/relationship-account-user-id",
     "text-property/relationship-aliases",
@@ -101,7 +101,7 @@ export const relationship = {
       many: false,
     },
     {
-      pagePropertySlug: "relation-property/relationship-topic-slugs",
+      pagePropertySlug: "relation-property/relationship-topics",
       required: false,
       many: true,
       maxCount: null,

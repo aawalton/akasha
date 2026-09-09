@@ -17,7 +17,7 @@ export const jenniferWalton = {
   relationshipPhone: "+16085122511",
   relationshipSmsAllowed: true,
   relationshipSmsHandlerTarget: "jenny",
-  relationshipTopicSlugs: [
+  relationshipTopics: [
     "rituals-audit",
     "marriage-relationship",
     "coordinate-on-family-projects",
