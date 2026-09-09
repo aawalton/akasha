@@ -1,20 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCatalogThing } from "../../../temper-catalog/things/temper-catalog-thing.page-type.ts"
-import type { EsoEnchantConstantName } from "../properties/eso-enchant-constant-name.text-property.ts"
-import type { EssenceRune } from "../properties/essence-rune.text-property.ts"
-import type { GlyphName } from "../properties/glyph-name.text-property.ts"
-import type { ItemLevel } from "../properties/item-level.text-property.ts"
-import type { PotionSeconds } from "../properties/potion-seconds.number-property.ts"
-import type { ValidSlots } from "../properties/valid-slots.text-property.ts"
-
-export type TemperGearThing = TemperCatalogThing & {
-  glyphName?: GlyphName
-  essenceRune?: EssenceRune
-  esoEnchantConstantName?: EsoEnchantConstantName
-  validSlots?: ValidSlots
-  level?: ItemLevel
-  seconds?: PotionSeconds
-}
 
 export const temperGearThing = {
   id: "01a05fcc-41ef-7386-84ed-43fb6534121e",
@@ -53,4 +37,5 @@ export const temperGearThing = {
         "Which buff a drink grants is a field of the shared effect shape rather than a key here.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

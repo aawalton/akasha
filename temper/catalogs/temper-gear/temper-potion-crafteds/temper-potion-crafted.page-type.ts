@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { Recipes } from "../properties/recipes.record-property.ts"
-import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
+import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.types.ts"
 
 export type TemperPotionCrafted = TemperGearThing & {
   reagents: Recipes

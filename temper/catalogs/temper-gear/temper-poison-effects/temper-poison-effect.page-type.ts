@@ -2,7 +2,7 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Cooldown } from "../properties/cooldown.number-property.ts"
 import type { IsPositive } from "../properties/is-positive.boolean-property.ts"
 import type { OppositeId } from "../properties/opposite-id.text-property.ts"
-import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.ts"
+import type { TemperGearThing } from "../temper-gear-things/temper-gear-thing.page-type.types.ts"
 
 export type TemperPoisonEffect = TemperGearThing & {
   oppositeId: OppositeId
