@@ -5,7 +5,7 @@ export const bewareOfChicken0098InterludeInheritanceOfRaggedLeaves = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0098-interlude-inheritance-of-ragged-leaves",
   title: "Interlude: Inheritance of Ragged Leaves",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 98,
   ownLength: 1565,
   ownProgress: 1565,

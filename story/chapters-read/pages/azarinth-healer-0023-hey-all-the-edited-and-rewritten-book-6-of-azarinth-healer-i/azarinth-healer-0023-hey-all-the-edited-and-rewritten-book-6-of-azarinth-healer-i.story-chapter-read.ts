@@ -6,7 +6,7 @@ export const azarinthHealer0023HeyAllTheEditedAndRewrittenBook6OfAzarinthHealerI
   slug: "azarinth-healer-0023-hey-all-the-edited-and-rewritten-book-6-of-azarinth-healer-i",
   title:
     "Hey all - The edited and rewritten book 6 of Azarinth Healer is out on audible and kindle :)",
-  partOfCollectionSlugs: ["story-read/azarinth-healer"],
+  storySlug: "story-read/azarinth-healer",
   position: 23,
   ownLength: 111,
   unitSlug: "words",

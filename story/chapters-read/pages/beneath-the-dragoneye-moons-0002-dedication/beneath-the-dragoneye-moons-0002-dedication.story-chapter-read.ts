@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0002Dedication = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0002-dedication",
   title: "Dedication",
-  partOfCollectionSlugs: ["story-read/beneath-the-dragoneye-moons"],
+  storySlug: "story-read/beneath-the-dragoneye-moons",
   position: 2,
   ownLength: 117,
   unitSlug: "words",

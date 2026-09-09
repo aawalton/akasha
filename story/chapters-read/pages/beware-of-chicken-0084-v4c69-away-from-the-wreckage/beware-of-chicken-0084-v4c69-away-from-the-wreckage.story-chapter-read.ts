@@ -5,7 +5,7 @@ export const bewareOfChicken0084V4c69AwayFromTheWreckage = {
   pageTypeSlug: "story-chapter-read",
   slug: "beware-of-chicken-0084-v4c69-away-from-the-wreckage",
   title: "v4c69: Away from the Wreckage",
-  partOfCollectionSlugs: ["story-read/beware-of-chicken"],
+  storySlug: "story-read/beware-of-chicken",
   position: 84,
   ownLength: 2863,
   ownProgress: 2863,

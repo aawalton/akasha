@@ -5,7 +5,7 @@ export const beneathTheDragoneyeMoons0001ImageGallery = {
   pageTypeSlug: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0001-image-gallery",
   title: "Image Gallery!",
-  partOfCollectionSlugs: ["story-read/beneath-the-dragoneye-moons"],
+  storySlug: "story-read/beneath-the-dragoneye-moons",
   position: 1,
   ownLength: 96,
   unitSlug: "words",
