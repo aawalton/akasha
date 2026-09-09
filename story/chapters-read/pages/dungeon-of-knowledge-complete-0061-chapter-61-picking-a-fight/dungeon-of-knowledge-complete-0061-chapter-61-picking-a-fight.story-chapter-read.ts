@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0061Chapter61PickingAFight = {
   position: 61,
   ownLength: 5405,
   ownProgress: 5405,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:58.548Z",
   publishedAt: "2024-04-18",
   externalLink:

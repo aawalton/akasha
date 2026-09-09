@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0056Chapter56PiercerScorpion = {
   position: 56,
   ownLength: 3953,
   ownProgress: 3953,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:49.046Z",
   publishedAt: "2024-04-09",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0029Chapter29GoblinBugbears = {
   position: 29,
   ownLength: 4432,
   ownProgress: 4432,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:56.985Z",
   publishedAt: "2024-02-25",
   externalLink:

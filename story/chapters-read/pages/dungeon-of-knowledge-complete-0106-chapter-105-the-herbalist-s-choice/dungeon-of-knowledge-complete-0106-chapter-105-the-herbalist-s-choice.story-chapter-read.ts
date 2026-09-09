@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0106Chapter105TheHerbalistSChoice = {
   position: 106,
   ownLength: 5550,
   ownProgress: 5550,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:33.860Z",
   publishedAt: "2024-07-30",
   externalLink:

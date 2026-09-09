@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0107Chapter106ANecromancerSDeception = {
   position: 107,
   ownLength: 3319,
   ownProgress: 3319,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:36.079Z",
   publishedAt: "2024-08-01",
   externalLink:

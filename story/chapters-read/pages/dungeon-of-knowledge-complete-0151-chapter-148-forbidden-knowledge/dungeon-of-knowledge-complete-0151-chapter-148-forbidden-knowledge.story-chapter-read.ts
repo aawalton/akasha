@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0151Chapter148ForbiddenKnowledge = {
   position: 151,
   ownLength: 4412,
   ownProgress: 4412,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:04.270Z",
   publishedAt: "2024-10-27",
   externalLink:

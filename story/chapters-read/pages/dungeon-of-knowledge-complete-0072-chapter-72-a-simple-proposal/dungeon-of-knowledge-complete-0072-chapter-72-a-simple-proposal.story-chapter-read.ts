@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0072Chapter72ASimpleProposal = {
   position: 72,
   ownLength: 4768,
   ownProgress: 4768,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:20.041Z",
   publishedAt: "2024-05-14",
   externalLink:

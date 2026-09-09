@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0034Chapter34LunchAtLaurelSCafe = {
   position: 34,
   ownLength: 3315,
   ownProgress: 3315,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:06.517Z",
   publishedAt: "2024-03-01",
   externalLink:

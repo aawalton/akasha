@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0095Chapter94BattleOfTheSteamVents = {
   position: 95,
   ownLength: 4419,
   ownProgress: 4419,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:08.865Z",
   publishedAt: "2024-07-04",
   externalLink:

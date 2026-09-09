@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0077Chapter77AerialBattle = {
   position: 77,
   ownLength: 3266,
   ownProgress: 3266,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:30.195Z",
   publishedAt: "2024-05-26",
   externalLink:

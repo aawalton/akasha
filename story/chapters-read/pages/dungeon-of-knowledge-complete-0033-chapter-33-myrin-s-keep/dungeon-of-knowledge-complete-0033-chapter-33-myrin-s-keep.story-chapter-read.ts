@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0033Chapter33MyrinSKeep = {
   position: 33,
   ownLength: 5527,
   ownProgress: 5527,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:04.572Z",
   publishedAt: "2024-02-29",
   externalLink:

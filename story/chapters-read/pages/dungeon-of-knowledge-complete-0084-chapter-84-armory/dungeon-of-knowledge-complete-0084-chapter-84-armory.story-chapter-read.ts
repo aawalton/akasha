@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0084Chapter84Armory = {
   position: 84,
   ownLength: 4899,
   ownProgress: 4899,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:45.262Z",
   publishedAt: "2024-06-11",
   externalLink:

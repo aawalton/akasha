@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0035Chapter35AdventurersGuild = {
   position: 35,
   ownLength: 6193,
   ownProgress: 6193,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:08.477Z",
   publishedAt: "2024-03-02",
   externalLink:

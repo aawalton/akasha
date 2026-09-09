@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0148Chapter146PathfinderTraining = {
   position: 148,
   ownLength: 4638,
   ownProgress: 4638,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:57.488Z",
   publishedAt: "2024-10-22",
   externalLink:

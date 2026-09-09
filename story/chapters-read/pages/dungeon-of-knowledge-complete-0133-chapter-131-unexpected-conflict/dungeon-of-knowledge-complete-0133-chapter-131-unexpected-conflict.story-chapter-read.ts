@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0133Chapter131UnexpectedConflict = {
   position: 133,
   ownLength: 7072,
   ownProgress: 7072,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:28.358Z",
   publishedAt: "2024-09-17",
   externalLink:

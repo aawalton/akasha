@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0026Chapter26AncientMistress = {
   position: 26,
   ownLength: 7284,
   ownProgress: 7284,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:51.145Z",
   publishedAt: "2024-02-22",
   externalLink:

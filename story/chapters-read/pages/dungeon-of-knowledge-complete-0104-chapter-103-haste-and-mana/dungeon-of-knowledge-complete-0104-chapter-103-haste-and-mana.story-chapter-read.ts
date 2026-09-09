@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0104Chapter103HasteAndMana = {
   position: 104,
   ownLength: 4913,
   ownProgress: 4913,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:29.430Z",
   publishedAt: "2024-07-25",
   externalLink:

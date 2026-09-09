@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0037Chapter37Trees = {
   position: 37,
   ownLength: 4975,
   ownProgress: 4975,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:12.263Z",
   publishedAt: "2024-03-04",
   externalLink:

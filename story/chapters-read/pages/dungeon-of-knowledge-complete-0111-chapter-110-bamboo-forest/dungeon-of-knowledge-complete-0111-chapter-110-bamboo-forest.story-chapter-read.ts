@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0111Chapter110BambooForest = {
   position: 111,
   ownLength: 4603,
   ownProgress: 4603,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:44.868Z",
   publishedAt: "2024-08-08",
   externalLink:

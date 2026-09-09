@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0003Chapter3AnInstantFrozenInTime = {
   position: 3,
   ownLength: 3348,
   ownProgress: 3348,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:06.882Z",
   publishedAt: "2024-01-29",
   externalLink:

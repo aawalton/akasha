@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0156Chapter153TheForgingOfARaidTeam = {
   position: 156,
   ownLength: 5724,
   ownProgress: 5724,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:15.295Z",
   publishedAt: "2024-11-05",
   externalLink:

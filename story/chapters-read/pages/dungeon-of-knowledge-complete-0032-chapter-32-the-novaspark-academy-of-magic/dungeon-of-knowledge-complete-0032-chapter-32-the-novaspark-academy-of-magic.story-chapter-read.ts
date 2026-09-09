@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0032Chapter32TheNovasparkAcademyOfMagic =
   position: 32,
   ownLength: 3383,
   ownProgress: 3383,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:02.643Z",
   publishedAt: "2024-02-28",
   externalLink:

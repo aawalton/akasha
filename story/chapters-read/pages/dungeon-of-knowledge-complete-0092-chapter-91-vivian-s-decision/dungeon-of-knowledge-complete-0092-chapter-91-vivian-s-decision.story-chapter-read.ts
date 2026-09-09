@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0092Chapter91VivianSDecision = {
   position: 92,
   ownLength: 3728,
   ownProgress: 3728,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:02.536Z",
   publishedAt: "2024-06-27",
   externalLink:

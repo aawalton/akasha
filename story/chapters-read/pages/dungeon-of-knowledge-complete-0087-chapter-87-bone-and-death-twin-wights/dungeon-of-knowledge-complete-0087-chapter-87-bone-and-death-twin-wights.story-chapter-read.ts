@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0087Chapter87BoneAndDeathTwinWights = {
   position: 87,
   ownLength: 3338,
   ownProgress: 3338,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:51.573Z",
   publishedAt: "2024-06-18",
   externalLink:

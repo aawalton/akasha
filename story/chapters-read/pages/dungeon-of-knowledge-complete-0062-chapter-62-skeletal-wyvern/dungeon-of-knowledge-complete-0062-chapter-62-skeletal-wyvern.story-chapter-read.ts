@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0062Chapter62SkeletalWyvern = {
   position: 62,
   ownLength: 3980,
   ownProgress: 3980,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:00.494Z",
   publishedAt: "2024-04-21",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0160Chapter157PortentousDivination = {
   position: 160,
   ownLength: 5449,
   ownProgress: 5449,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:24.786Z",
   publishedAt: "2024-11-14",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0038Chapter38MushroomsAndMana = {
   position: 38,
   ownLength: 3353,
   ownProgress: 3353,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:14.180Z",
   publishedAt: "2024-03-05",
   externalLink:

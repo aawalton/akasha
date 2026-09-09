@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0119Chapter118TheDryad = {
   position: 119,
   ownLength: 4102,
   ownProgress: 4102,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:02.870Z",
   publishedAt: "2024-08-22",
   externalLink:

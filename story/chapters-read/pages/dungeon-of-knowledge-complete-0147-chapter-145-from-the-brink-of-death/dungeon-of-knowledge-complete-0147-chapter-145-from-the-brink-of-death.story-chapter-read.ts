@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0147Chapter145FromTheBrinkOfDeath = {
   position: 147,
   ownLength: 5319,
   ownProgress: 5319,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:55.305Z",
   publishedAt: "2024-10-20",
   externalLink:

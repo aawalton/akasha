@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0025Chapter25KoboldRogue = {
   position: 25,
   ownLength: 5347,
   ownProgress: 5347,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:49.222Z",
   publishedAt: "2024-02-21",
   externalLink:

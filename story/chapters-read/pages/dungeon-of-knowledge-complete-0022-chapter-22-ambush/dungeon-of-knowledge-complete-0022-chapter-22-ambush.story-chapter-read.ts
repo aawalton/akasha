@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0022Chapter22Ambush = {
   position: 22,
   ownLength: 4963,
   ownProgress: 4963,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:43.486Z",
   publishedAt: "2024-02-18",
   externalLink:

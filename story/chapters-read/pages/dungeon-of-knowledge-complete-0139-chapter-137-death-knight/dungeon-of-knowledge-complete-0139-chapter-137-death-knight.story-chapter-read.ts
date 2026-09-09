@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0139Chapter137DeathKnight = {
   position: 139,
   ownLength: 5413,
   ownProgress: 5413,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:31.479Z",
   publishedAt: "2024-10-01",
   externalLink:

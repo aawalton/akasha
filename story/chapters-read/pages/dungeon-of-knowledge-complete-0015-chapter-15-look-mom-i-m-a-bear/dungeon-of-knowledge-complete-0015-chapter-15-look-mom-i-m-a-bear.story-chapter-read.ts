@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0015Chapter15LookMomIMABear = {
   position: 15,
   ownLength: 5979,
   ownProgress: 5979,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:30.258Z",
   publishedAt: "2024-02-11",
   externalLink:

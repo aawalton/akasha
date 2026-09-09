@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0039Chapter39AccidentsHappen = {
   position: 39,
   ownLength: 4338,
   ownProgress: 4338,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:16.114Z",
   publishedAt: "2024-03-06",
   externalLink:

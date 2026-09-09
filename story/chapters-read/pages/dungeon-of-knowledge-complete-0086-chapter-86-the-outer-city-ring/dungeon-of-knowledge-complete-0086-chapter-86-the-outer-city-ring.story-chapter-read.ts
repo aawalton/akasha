@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0086Chapter86TheOuterCityRing = {
   position: 86,
   ownLength: 3993,
   ownProgress: 3993,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:49.220Z",
   publishedAt: "2024-06-16",
   externalLink:

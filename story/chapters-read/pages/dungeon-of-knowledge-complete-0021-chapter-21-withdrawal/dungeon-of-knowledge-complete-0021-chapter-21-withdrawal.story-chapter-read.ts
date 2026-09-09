@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0021Chapter21Withdrawal = {
   position: 21,
   ownLength: 3606,
   ownProgress: 3606,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:41.605Z",
   publishedAt: "2024-02-17",
   externalLink:

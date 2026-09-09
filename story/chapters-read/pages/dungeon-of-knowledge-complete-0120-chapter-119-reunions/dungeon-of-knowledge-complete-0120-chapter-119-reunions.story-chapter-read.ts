@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0120Chapter119Reunions = {
   position: 120,
   ownLength: 6906,
   ownProgress: 6906,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:04.842Z",
   publishedAt: "2024-08-23",
   externalLink:

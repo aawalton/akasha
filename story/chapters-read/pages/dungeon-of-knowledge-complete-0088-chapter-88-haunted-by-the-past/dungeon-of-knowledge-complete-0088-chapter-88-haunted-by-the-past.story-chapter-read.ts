@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0088Chapter88HauntedByThePast = {
   position: 88,
   ownLength: 3797,
   ownProgress: 3797,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:53.638Z",
   publishedAt: "2024-06-20",
   externalLink:

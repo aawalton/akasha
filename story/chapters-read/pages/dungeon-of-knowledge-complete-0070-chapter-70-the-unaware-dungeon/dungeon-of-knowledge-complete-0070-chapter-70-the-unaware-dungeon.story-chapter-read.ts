@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0070Chapter70TheUnawareDungeon = {
   position: 70,
   ownLength: 3907,
   ownProgress: 3907,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:16.076Z",
   publishedAt: "2024-05-09",
   externalLink:

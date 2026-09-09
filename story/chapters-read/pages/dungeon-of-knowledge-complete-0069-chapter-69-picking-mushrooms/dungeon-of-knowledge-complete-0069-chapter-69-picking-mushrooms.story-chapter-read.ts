@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0069Chapter69PickingMushrooms = {
   position: 69,
   ownLength: 4604,
   ownProgress: 4604,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:14.086Z",
   publishedAt: "2024-05-07",
   externalLink:

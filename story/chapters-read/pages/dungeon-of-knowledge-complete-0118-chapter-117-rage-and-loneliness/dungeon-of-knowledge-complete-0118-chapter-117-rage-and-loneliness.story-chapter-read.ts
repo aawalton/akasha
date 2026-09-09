@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0118Chapter117RageAndLoneliness = {
   position: 118,
   ownLength: 2915,
   ownProgress: 2915,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:00.773Z",
   publishedAt: "2024-08-21",
   externalLink:

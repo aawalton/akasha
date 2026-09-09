@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0060Chapter60ThuliSDream = {
   position: 60,
   ownLength: 4381,
   ownProgress: 4381,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:56.609Z",
   publishedAt: "2024-04-16",
   externalLink:

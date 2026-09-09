@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0043Chapter43ThePowerOfACrazyIdea = {
   position: 43,
   ownLength: 4147,
   ownProgress: 4147,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:23.773Z",
   publishedAt: "2024-03-10",
   externalLink:

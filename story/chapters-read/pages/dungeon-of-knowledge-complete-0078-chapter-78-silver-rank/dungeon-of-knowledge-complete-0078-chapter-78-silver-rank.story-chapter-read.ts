@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0078Chapter78SilverRank = {
   position: 78,
   ownLength: 5178,
   ownProgress: 5178,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:32.375Z",
   publishedAt: "2024-05-28",
   externalLink:

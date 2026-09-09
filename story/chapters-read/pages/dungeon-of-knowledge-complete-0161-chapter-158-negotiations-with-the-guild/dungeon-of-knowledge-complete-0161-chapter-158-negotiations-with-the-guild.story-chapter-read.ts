@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0161Chapter158NegotiationsWithTheGuild = 
   position: 161,
   ownLength: 5018,
   ownProgress: 5018,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:26.891Z",
   publishedAt: "2024-11-17",
   externalLink:

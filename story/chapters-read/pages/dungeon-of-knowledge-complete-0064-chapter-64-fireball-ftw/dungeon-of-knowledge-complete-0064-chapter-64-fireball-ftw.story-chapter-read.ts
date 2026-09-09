@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0064Chapter64FireballFtw = {
   position: 64,
   ownLength: 5296,
   ownProgress: 5296,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:04.374Z",
   publishedAt: "2024-04-25",
   externalLink:

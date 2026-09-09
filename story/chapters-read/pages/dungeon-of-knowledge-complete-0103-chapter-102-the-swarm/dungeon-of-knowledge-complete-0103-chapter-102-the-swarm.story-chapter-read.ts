@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0103Chapter102TheSwarm = {
   position: 103,
   ownLength: 5043,
   ownProgress: 5043,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:27.177Z",
   publishedAt: "2024-07-23",
   externalLink:

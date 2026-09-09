@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0113Chapter112AFancyRock = {
   position: 113,
   ownLength: 4094,
   ownProgress: 4094,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:49.342Z",
   publishedAt: "2024-08-13",
   externalLink:

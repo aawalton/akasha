@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0023Chapter23KelDarranMerchantCaravan = {
   position: 23,
   ownLength: 6334,
   ownProgress: 6334,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:45.448Z",
   publishedAt: "2024-02-19",
   externalLink:

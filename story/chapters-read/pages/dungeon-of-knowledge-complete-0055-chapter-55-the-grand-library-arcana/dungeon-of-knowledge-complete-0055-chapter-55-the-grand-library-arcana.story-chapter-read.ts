@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0055Chapter55TheGrandLibraryArcana = {
   position: 55,
   ownLength: 3663,
   ownProgress: 3663,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:47.112Z",
   publishedAt: "2024-04-07",
   externalLink:

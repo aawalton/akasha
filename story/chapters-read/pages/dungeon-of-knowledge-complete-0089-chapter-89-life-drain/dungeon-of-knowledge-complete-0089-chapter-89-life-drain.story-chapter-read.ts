@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0089Chapter89LifeDrain = {
   position: 89,
   ownLength: 4152,
   ownProgress: 4152,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:55.777Z",
   publishedAt: "2024-06-23",
   externalLink:

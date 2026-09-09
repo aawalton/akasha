@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0155Chapter152DeathSUnyieldingGrasp = {
   position: 155,
   ownLength: 3389,
   ownProgress: 3389,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:13.188Z",
   publishedAt: "2024-11-04",
   externalLink:

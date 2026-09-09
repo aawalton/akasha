@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0127MapMyrinSKeep = {
   position: 127,
   ownLength: 193,
   ownProgress: 193,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:20.779Z",
   publishedAt: "2024-09-04",
   externalLink:

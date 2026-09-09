@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0117Chapter116TheBurningOfTheGrove = {
   position: 117,
   ownLength: 3935,
   ownProgress: 3935,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:58.748Z",
   publishedAt: "2024-08-20",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0051Chapter51TheRuinsOfDalMohra = {
   position: 51,
   ownLength: 6090,
   ownProgress: 6090,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:39.195Z",
   publishedAt: "2024-03-28",
   externalLink:

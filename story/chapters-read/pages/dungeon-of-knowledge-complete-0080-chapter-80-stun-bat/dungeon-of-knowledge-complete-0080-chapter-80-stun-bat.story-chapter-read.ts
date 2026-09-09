@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0080Chapter80StunBat = {
   position: 80,
   ownLength: 3303,
   ownProgress: 3303,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:36.564Z",
   publishedAt: "2024-06-02",
   externalLink:

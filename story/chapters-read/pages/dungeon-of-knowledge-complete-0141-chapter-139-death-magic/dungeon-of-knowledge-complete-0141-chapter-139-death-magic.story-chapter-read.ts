@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0141Chapter139DeathMagic = {
   position: 141,
   ownLength: 5867,
   ownProgress: 5867,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:40.879Z",
   publishedAt: "2024-10-06",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0076Chapter76RuinsOfDalMohraSuspendedCity
   position: 76,
   ownLength: 3227,
   ownProgress: 3227,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:28.061Z",
   publishedAt: "2024-05-23",
   externalLink:

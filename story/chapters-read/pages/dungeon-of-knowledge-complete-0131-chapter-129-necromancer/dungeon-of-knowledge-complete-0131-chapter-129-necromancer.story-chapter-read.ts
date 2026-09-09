@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0131Chapter129Necromancer = {
   position: 131,
   ownLength: 4370,
   ownProgress: 4370,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:24.050Z",
   publishedAt: "2024-09-12",
   externalLink:

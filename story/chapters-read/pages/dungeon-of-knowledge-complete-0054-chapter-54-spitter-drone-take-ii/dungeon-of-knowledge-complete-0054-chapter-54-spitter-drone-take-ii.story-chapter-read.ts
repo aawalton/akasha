@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0054Chapter54SpitterDroneTakeIi = {
   position: 54,
   ownLength: 4835,
   ownProgress: 4835,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:45.118Z",
   publishedAt: "2024-04-04",
   externalLink:

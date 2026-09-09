@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0005Chapter5TheStreetRatAndTheManaButterf
   position: 5,
   ownLength: 6043,
   ownProgress: 6043,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:10.622Z",
   publishedAt: "2024-01-30",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0011Chapter11RatRedux = {
   position: 11,
   ownLength: 6252,
   ownProgress: 6252,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:22.227Z",
   publishedAt: "2024-02-07",
   externalLink:

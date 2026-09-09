@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0014Chapter14Summoner = {
   position: 14,
   ownLength: 5329,
   ownProgress: 5329,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:27.991Z",
   publishedAt: "2024-02-10",
   externalLink:

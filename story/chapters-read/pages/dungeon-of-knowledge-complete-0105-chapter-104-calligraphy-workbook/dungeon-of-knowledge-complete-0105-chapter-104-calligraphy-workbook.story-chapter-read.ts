@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0105Chapter104CalligraphyWorkbook = {
   position: 105,
   ownLength: 4107,
   ownProgress: 4107,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:31.756Z",
   publishedAt: "2024-07-28",
   externalLink:

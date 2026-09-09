@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0045Chapter45Hobgoblin = {
   position: 45,
   ownLength: 7209,
   ownProgress: 7209,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:27.645Z",
   publishedAt: "2024-03-14",
   externalLink:

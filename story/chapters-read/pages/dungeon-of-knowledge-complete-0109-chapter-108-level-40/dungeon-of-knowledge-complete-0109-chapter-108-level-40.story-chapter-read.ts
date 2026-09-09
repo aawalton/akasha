@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0109Chapter108Level40 = {
   position: 109,
   ownLength: 4546,
   ownProgress: 4546,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:40.451Z",
   publishedAt: "2024-08-04",
   externalLink:

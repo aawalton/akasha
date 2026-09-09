@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0158Chapter155Disruptor = {
   position: 158,
   ownLength: 5888,
   ownProgress: 5888,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:19.912Z",
   publishedAt: "2024-11-10",
   externalLink:

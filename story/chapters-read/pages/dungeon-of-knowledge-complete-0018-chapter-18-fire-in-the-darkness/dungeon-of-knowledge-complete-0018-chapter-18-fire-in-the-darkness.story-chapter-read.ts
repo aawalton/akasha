@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0018Chapter18FireInTheDarkness = {
   position: 18,
   ownLength: 5015,
   ownProgress: 5015,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:35.917Z",
   publishedAt: "2024-02-14",
   externalLink:

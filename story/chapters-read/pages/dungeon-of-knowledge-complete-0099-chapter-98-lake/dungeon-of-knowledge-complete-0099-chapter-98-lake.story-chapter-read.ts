@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0099Chapter98Lake = {
   position: 99,
   ownLength: 6823,
   ownProgress: 6823,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:17.848Z",
   publishedAt: "2024-07-14",
   externalLink:

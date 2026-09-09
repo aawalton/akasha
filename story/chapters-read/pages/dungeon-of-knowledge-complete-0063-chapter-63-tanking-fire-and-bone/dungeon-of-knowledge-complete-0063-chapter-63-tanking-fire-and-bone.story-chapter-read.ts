@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0063Chapter63TankingFireAndBone = {
   position: 63,
   ownLength: 3140,
   ownProgress: 3140,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:02.443Z",
   publishedAt: "2024-04-23",
   externalLink:

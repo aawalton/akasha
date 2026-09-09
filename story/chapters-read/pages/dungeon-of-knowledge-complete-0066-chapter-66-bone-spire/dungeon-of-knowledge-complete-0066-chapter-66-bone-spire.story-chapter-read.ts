@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0066Chapter66BoneSpire = {
   position: 66,
   ownLength: 4159,
   ownProgress: 4159,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:08.272Z",
   publishedAt: "2024-04-30",
   externalLink:

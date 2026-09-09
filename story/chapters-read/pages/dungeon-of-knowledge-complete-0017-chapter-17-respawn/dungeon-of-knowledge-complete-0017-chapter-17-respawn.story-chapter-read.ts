@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0017Chapter17Respawn = {
   position: 17,
   ownLength: 6881,
   ownProgress: 6881,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:33.982Z",
   publishedAt: "2024-02-13",
   externalLink:

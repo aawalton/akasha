@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0122Chapter121LiraSRequest = {
   position: 122,
   ownLength: 6798,
   ownProgress: 6798,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:09.565Z",
   publishedAt: "2024-08-25",
   externalLink:

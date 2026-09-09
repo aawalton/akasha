@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0128Chapter126TheTreeSBalance = {
   position: 128,
   ownLength: 4505,
   ownProgress: 4505,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:22.881Z",
   publishedAt: "2024-09-05",
   externalLink:

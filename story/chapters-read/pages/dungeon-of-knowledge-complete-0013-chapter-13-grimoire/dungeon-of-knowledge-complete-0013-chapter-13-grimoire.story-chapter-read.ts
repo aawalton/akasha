@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0013Chapter13Grimoire = {
   position: 13,
   ownLength: 5390,
   ownProgress: 5390,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:26.062Z",
   publishedAt: "2024-02-09",
   externalLink:

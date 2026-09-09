@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0108Chapter107KitesFly = {
   position: 108,
   ownLength: 6438,
   ownProgress: 6438,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:38.298Z",
   publishedAt: "2024-08-02",
   externalLink:

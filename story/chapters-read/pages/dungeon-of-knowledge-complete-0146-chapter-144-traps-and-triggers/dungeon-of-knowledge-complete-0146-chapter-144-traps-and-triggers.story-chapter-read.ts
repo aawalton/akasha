@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0146Chapter144TrapsAndTriggers = {
   position: 146,
   ownLength: 6629,
   ownProgress: 6629,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:53.117Z",
   publishedAt: "2024-10-17",
   externalLink:

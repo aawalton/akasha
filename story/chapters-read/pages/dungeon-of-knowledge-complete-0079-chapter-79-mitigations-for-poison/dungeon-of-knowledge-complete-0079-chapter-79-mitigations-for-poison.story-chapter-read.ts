@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0079Chapter79MitigationsForPoison = {
   position: 79,
   ownLength: 3879,
   ownProgress: 3879,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:34.475Z",
   publishedAt: "2024-05-30",
   externalLink:

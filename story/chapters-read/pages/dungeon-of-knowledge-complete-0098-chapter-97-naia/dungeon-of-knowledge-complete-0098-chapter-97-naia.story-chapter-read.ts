@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0098Chapter97Naia = {
   position: 98,
   ownLength: 3434,
   ownProgress: 3434,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:15.761Z",
   publishedAt: "2024-07-11",
   externalLink:

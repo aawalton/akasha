@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0112Chapter111HowBadCanOneOozeBe = {
   position: 112,
   ownLength: 4200,
   ownProgress: 4200,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:47.265Z",
   publishedAt: "2024-08-11",
   externalLink:

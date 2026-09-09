@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0058Chapter58ThatWhichLurksBelow = {
   position: 58,
   ownLength: 4733,
   ownProgress: 4733,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:52.822Z",
   publishedAt: "2024-04-14",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0149Chapter147ANecromancerSValue = {
   position: 149,
   ownLength: 3540,
   ownProgress: 3540,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:59.804Z",
   publishedAt: "2024-10-24",
   externalLink:

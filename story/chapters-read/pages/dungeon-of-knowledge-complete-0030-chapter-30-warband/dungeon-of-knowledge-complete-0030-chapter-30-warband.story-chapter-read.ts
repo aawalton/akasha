@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0030Chapter30Warband = {
   position: 30,
   ownLength: 4703,
   ownProgress: 4703,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:58.914Z",
   publishedAt: "2024-02-26",
   externalLink:

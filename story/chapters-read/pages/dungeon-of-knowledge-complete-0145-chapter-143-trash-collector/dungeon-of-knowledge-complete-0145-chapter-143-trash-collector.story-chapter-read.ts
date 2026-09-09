@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0145Chapter143TrashCollector = {
   position: 145,
   ownLength: 4786,
   ownProgress: 4786,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:50.068Z",
   publishedAt: "2024-10-15",
   externalLink:

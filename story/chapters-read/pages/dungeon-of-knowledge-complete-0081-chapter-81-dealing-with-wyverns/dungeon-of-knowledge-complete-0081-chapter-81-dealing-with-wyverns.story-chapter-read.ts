@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0081Chapter81DealingWithWyverns = {
   position: 81,
   ownLength: 3984,
   ownProgress: 3984,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:38.862Z",
   publishedAt: "2024-06-04",
   externalLink:

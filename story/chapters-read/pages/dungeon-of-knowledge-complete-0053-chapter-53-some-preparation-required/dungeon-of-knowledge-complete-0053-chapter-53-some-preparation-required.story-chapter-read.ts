@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0053Chapter53SomePreparationRequired = {
   position: 53,
   ownLength: 5188,
   ownProgress: 5188,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:43.194Z",
   publishedAt: "2024-04-02",
   externalLink:

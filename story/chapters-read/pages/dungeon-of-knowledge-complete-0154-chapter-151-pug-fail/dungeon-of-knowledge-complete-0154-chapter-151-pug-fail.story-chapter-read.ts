@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0154Chapter151PugFail = {
   position: 154,
   ownLength: 4136,
   ownProgress: 4136,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:10.953Z",
   publishedAt: "2024-11-03",
   externalLink:

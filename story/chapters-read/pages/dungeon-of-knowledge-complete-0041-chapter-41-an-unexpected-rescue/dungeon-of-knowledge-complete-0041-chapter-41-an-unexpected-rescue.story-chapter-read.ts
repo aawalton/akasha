@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0041Chapter41AnUnexpectedRescue = {
   position: 41,
   ownLength: 5469,
   ownProgress: 5469,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:19.974Z",
   publishedAt: "2024-03-08",
   externalLink:

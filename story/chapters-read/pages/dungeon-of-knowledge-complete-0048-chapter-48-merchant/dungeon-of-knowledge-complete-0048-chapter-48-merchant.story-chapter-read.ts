@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0048Chapter48Merchant = {
   position: 48,
   ownLength: 5461,
   ownProgress: 5461,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:33.278Z",
   publishedAt: "2024-03-21",
   externalLink:

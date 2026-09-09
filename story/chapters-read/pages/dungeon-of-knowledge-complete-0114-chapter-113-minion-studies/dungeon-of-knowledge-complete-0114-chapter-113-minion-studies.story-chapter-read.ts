@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0114Chapter113MinionStudies = {
   position: 114,
   ownLength: 5271,
   ownProgress: 5271,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:51.373Z",
   publishedAt: "2024-08-15",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0047Chapter47TheReadingCorner = {
   position: 47,
   ownLength: 3855,
   ownProgress: 3855,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:31.475Z",
   publishedAt: "2024-03-19",
   externalLink:

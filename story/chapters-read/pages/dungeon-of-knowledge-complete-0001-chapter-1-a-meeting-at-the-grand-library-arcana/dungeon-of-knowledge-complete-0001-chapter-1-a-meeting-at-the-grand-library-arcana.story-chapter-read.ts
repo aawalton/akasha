@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0001Chapter1AMeetingAtTheGrandLibraryArca
   position: 1,
   ownLength: 5061,
   ownProgress: 5061,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:02.984Z",
   publishedAt: "2024-01-29",
   externalLink:

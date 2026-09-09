@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0159Chapter156EmberforgeMines = {
   position: 159,
   ownLength: 6658,
   ownProgress: 6658,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:22.394Z",
   publishedAt: "2024-11-12",
   externalLink:

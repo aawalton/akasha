@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0052Chapter52BoneSpitterDrone = {
   position: 52,
   ownLength: 4617,
   ownProgress: 4617,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:41.125Z",
   publishedAt: "2024-03-31",
   externalLink:

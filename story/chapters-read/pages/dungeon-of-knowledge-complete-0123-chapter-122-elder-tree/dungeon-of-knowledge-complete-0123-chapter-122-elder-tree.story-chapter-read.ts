@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0123Chapter122ElderTree = {
   position: 123,
   ownLength: 4955,
   ownProgress: 4955,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:11.884Z",
   publishedAt: "2024-08-27",
   externalLink:

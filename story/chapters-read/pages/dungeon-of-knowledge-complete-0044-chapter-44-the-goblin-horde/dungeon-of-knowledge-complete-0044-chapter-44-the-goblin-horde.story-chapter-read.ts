@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0044Chapter44TheGoblinHorde = {
   position: 44,
   ownLength: 3443,
   ownProgress: 3443,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:25.698Z",
   publishedAt: "2024-03-12",
   externalLink:

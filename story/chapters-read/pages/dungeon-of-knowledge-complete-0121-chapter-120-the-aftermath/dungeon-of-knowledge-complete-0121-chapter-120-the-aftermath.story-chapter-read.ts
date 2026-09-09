@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0121Chapter120TheAftermath = {
   position: 121,
   ownLength: 5001,
   ownProgress: 5001,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:07.168Z",
   publishedAt: "2024-08-24",
   externalLink:

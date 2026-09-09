@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0006Chapter6SpidersAndRats = {
   position: 6,
   ownLength: 5256,
   ownProgress: 5256,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:12.586Z",
   publishedAt: "2024-01-30",
   externalLink:

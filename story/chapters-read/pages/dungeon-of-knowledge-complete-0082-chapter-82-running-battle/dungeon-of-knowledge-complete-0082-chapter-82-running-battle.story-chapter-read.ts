@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0082Chapter82RunningBattle = {
   position: 82,
   ownLength: 3637,
   ownProgress: 3637,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:41.000Z",
   publishedAt: "2024-06-06",
   externalLink:

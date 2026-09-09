@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0050Chapter50SneakySmash = {
   position: 50,
   ownLength: 4409,
   ownProgress: 4409,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:37.245Z",
   publishedAt: "2024-03-26",
   externalLink:

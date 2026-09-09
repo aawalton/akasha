@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0085Chapter85Bounty = {
   position: 85,
   ownLength: 4486,
   ownProgress: 4486,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:13:47.353Z",
   publishedAt: "2024-06-13",
   externalLink:

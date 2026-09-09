@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0157Chapter154AGiftForAFriend = {
   position: 157,
   ownLength: 5439,
   ownProgress: 5439,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:17.575Z",
   publishedAt: "2024-11-07",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0093Chapter92EliyenSRequest = {
   position: 93,
   ownLength: 4651,
   ownProgress: 4651,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:04.529Z",
   publishedAt: "2024-06-30",
   externalLink:

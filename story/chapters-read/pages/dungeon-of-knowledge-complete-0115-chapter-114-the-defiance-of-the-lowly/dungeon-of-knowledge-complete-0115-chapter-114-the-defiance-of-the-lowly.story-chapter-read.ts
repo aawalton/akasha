@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0115Chapter114TheDefianceOfTheLowly = {
   position: 115,
   ownLength: 3094,
   ownProgress: 3094,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:54.074Z",
   publishedAt: "2024-08-18",
   externalLink:

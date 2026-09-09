@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0143Chapter141TheDungeonSSurvivalGuide = 
   position: 143,
   ownLength: 5172,
   ownProgress: 5172,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:45.654Z",
   publishedAt: "2024-10-10",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0135Chapter133Bloodline = {
   position: 135,
   ownLength: 4394,
   ownProgress: 4394,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:33.285Z",
   publishedAt: "2024-09-22",
   externalLink:

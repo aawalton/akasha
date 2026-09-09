@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0152Chapter149TheFirstBoss = {
   position: 152,
   ownLength: 5335,
   ownProgress: 5335,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:16:06.477Z",
   publishedAt: "2024-10-29",
   externalLink:

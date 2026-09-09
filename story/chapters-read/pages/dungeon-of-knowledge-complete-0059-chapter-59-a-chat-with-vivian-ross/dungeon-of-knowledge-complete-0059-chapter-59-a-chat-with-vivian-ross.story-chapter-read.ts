@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0059Chapter59AChatWithVivianRoss = {
   position: 59,
   ownLength: 4746,
   ownProgress: 4746,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:54.773Z",
   publishedAt: "2024-04-15",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0134Chapter132TheLegendaryPathfinder = {
   position: 134,
   ownLength: 7673,
   ownProgress: 7673,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:30.742Z",
   publishedAt: "2024-09-19",
   externalLink:

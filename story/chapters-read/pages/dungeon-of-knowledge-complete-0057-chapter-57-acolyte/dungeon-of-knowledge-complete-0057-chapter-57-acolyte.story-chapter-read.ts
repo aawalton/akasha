@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0057Chapter57Acolyte = {
   position: 57,
   ownLength: 4269,
   ownProgress: 4269,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:50.967Z",
   publishedAt: "2024-04-11",
   externalLink:

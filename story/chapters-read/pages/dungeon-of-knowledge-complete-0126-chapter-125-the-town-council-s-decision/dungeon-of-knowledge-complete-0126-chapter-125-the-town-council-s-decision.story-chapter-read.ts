@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0126Chapter125TheTownCouncilSDecision = {
   position: 126,
   ownLength: 7072,
   ownProgress: 7072,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:18.290Z",
   publishedAt: "2024-09-03",
   externalLink:

@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0028Chapter28AWalkThroughTheForest = {
   position: 28,
   ownLength: 4977,
   ownProgress: 4977,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:55.042Z",
   publishedAt: "2024-02-24",
   externalLink:

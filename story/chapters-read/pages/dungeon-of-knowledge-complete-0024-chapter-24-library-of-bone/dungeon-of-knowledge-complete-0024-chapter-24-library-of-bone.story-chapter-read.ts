@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0024Chapter24LibraryOfBone = {
   position: 24,
   ownLength: 5651,
   ownProgress: 5651,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:47.396Z",
   publishedAt: "2024-02-20",
   externalLink:

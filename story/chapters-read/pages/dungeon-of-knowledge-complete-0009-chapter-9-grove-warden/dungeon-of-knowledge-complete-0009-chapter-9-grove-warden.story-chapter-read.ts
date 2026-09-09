@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0009Chapter9GroveWarden = {
   position: 9,
   ownLength: 4168,
   ownProgress: 4168,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:18.343Z",
   publishedAt: "2024-02-04",
   externalLink:

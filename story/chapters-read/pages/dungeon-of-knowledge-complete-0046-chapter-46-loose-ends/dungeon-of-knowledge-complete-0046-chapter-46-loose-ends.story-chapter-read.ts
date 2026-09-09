@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0046Chapter46LooseEnds = {
   position: 46,
   ownLength: 4312,
   ownProgress: 4312,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:12:29.577Z",
   publishedAt: "2024-03-17",
   externalLink:

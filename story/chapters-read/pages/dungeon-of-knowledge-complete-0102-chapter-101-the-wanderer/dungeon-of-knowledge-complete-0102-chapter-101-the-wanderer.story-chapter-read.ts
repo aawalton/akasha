@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0102Chapter101TheWanderer = {
   position: 102,
   ownLength: 4543,
   ownProgress: 4543,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:24.900Z",
   publishedAt: "2024-07-21",
   externalLink:

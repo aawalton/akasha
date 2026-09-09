@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0125Chapter124PreparationAndPlanning = {
   position: 125,
   ownLength: 4204,
   ownProgress: 4204,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:15:16.166Z",
   publishedAt: "2024-09-01",
   externalLink:

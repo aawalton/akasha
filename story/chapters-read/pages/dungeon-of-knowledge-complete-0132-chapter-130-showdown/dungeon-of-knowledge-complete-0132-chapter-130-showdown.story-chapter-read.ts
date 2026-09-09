@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0132Chapter130Showdown = {
   position: 132,
   ownLength: 3947,
   ownProgress: 3947,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:31:26.233Z",
   publishedAt: "2024-09-15",
   externalLink:

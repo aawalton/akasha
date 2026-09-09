@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0012Chapter12WolvesRevisited = {
   position: 12,
   ownLength: 4420,
   ownProgress: 4420,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:24.090Z",
   publishedAt: "2024-02-08",
   externalLink:

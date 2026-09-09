@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0008Chapter8SoulMonk = {
   position: 8,
   ownLength: 8477,
   ownProgress: 8477,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:16.308Z",
   publishedAt: "2024-02-03",
   externalLink:

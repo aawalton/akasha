@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0002Chapter2DalMohraCityOfLearning = {
   position: 2,
   ownLength: 4367,
   ownProgress: 4367,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:11:04.923Z",
   publishedAt: "2024-01-29",
   externalLink:

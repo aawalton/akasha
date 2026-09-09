@@ -9,7 +9,7 @@ export const dungeonOfKnowledgeComplete0101Chapter100Brawlers = {
   position: 101,
   ownLength: 5279,
   ownProgress: 5279,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:14:22.683Z",
   publishedAt: "2024-07-18",
   externalLink:
