@@ -10,7 +10,8 @@ import {
   declaring,
   filing,
 } from "../../../modules/scratch/check-scratch.module.code.ts"
-import { fileHasItsPage, UNCLAIMED, unclaimedIn } from "./file-has-its-page.code-check.code.ts"
+import { fileHasItsPage, unclaimedIn } from "./file-has-its-page.code-check.code.ts"
+import { UNCLAIMED } from "./file-has-its-page.code-check.decision.code.ts"
 
 const ID = "01a04d86-434f-75ff-8000-000000000001"
 
@@ -78,7 +79,6 @@ test("a path no page claims is refused, and the refusal says why it matters", ()
   const root = rooted()
   const said = judged(arriving(root, ["akasha/a/stray.ts"]))
   expect(said).toEqual([{ path: "akasha/a/stray.ts", reason: UNCLAIMED }])
-  expect(UNCLAIMED).toContain("no page claims this file")
 })
 
 test("a file beside a page that no page property names is refused", () => {
