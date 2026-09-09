@@ -98,6 +98,16 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page states the page type the caller named under `pageTypeSlug` and under `type`.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Both keys are stated here rather than kept from the page, which only a merge does.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page has the slug the caller named.",
     },
     {

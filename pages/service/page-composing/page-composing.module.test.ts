@@ -208,6 +208,7 @@ test("a merge keeps every key the caller does not name", () => {
   expect(content).toContain('completedTasks: "jsonl"')
   expect(content).toContain('slug: "day-2026-03-06"')
   expect(content).toContain('pageTypeSlug: "day"')
+  expect(content).toContain('type: "day"')
   expect(content).toContain("01a060ba-f203-7ab9-b6f4-796574aad5cd")
 })
 
@@ -346,6 +347,15 @@ test("a write that does not merge keeps only the keys the caller names", () => {
   expect(content).toContain('title: "a new title"')
   expect(content).not.toContain("date:")
   expect(content).not.toContain("completedTasks")
+})
+
+test("a write that does not merge states both keys naming the page type", () => {
+  const said = foldedFor(ROOT, [
+    { pageTypeSlug: "day", slug: A_HELD_DAY, values: { title: "a new title" } },
+  ])
+  const content = "puts" in said ? said.puts[0]?.content : ""
+  expect(content).toContain('pageTypeSlug: "day"')
+  expect(content).toContain('type: "day"')
 })
 
 test("a merge naming nothing composes the body the page already carries", async () => {

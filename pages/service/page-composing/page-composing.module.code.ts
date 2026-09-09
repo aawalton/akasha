@@ -19,6 +19,8 @@ const ID = "id"
 
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
+const TYPE = "type"
+
 const SLUG = "slug"
 
 const JSONL = "jsonl"
@@ -273,6 +275,7 @@ export function composedFor(root: string, named: Naming): Composed {
   const wasId = was === null ? undefined : was[ID]
   if (inside[ID] === undefined && wasId !== undefined) inside[ID] = wasId
   inside[PAGE_TYPE_SLUG] = named.pageTypeSlug
+  inside[TYPE] = named.pageTypeSlug
   inside[SLUG] = named.slug
   const content = bodyOf({
     pageTypeSlug: named.pageTypeSlug,
