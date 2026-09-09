@@ -3,6 +3,7 @@ import type { PageAddressKind } from "../page-address-kind.page-type.ts"
 export const inPageProperty = {
   id: "01a0731d-f940-7d5d-ade6-7b2d21f69025",
   pageTypeSlug: "page-address-kind",
+  type: "page-address-kind",
   slug: "in-page-property",
   definition: "an address naming a page by a value unique among the pages sharing a property value",
   code: "ts",
