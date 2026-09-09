@@ -17,6 +17,7 @@
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/icloud-photos": "workspace:*",
         "@akasha/imessage": "workspace:*",
+        "@akasha/indexes": "workspace:*",
         "@akasha/inference-clients": "workspace:*",
         "@akasha/inference-pool": "workspace:*",
         "@akasha/inference-runs": "workspace:*",
@@ -24,6 +25,7 @@
         "@akasha/mobile-cli": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
         "@akasha/pages": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/rules-engine": "workspace:*",
         "@akasha/seat-system": "workspace:*",
@@ -379,19 +381,6 @@
         "@akasha/spotify": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
-      },
-    },
-    "alan/music/commands": {
-      "name": "@akasha/music-commands",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/music-choosing": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/pages-service": "workspace:*",
-        "@akasha/spotify": "workspace:*",
-        "@akasha/utils": "workspace:*",
       },
     },
     "alan/music/spotify": {
@@ -2787,8 +2776,6 @@
     "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:alan/harness/mobile-cli"],
 
     "@akasha/music-choosing": ["@akasha/music-choosing@workspace:alan/music/choosing"],
-
-    "@akasha/music-commands": ["@akasha/music-commands@workspace:alan/music/commands"],
 
     "@akasha/named-for": ["@akasha/named-for@workspace:pages/naming/named-for"],
 

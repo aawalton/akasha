@@ -77,7 +77,9 @@
     "@akasha/inference-clients": "workspace:*",
     "@akasha/inference-pool": "workspace:*",
     "@akasha/inference-runs": "workspace:*",
-    "@akasha/mobile-cli": "workspace:*"
+    "@akasha/mobile-cli": "workspace:*",
+    "@akasha/indexes": "workspace:*",
+    "@akasha/pages-service": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

@@ -1,10 +1,9 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const musicCommands = {
   id: "01a062f5-7bb2-750a-ba0b-8e132d65105f",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "music-commands",
   definition: "what an agent runs by name over Alan's music",
-  manifest: "json",
   parts: [],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
