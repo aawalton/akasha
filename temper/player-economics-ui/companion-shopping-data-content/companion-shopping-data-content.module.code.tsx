@@ -19,11 +19,11 @@ import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { PricingRegionNote } from "akasha/temper/player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
 import {
   type CompanionEquipmentQualityId,
   companionEquipmentQualities,
 } from "akasha/temper/temper-companions-core/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { PricingRegionNote } from "akasha/temper/temper-player-inventory-management-ui/pricing-region-note/pricing-region-note.module.code.tsx"
 import { Gamepad2, PackageCheck } from "lucide-react"
 import { type ReactNode, useMemo, useState } from "react"
 import { CompanionGearByCompanionPanelCard } from "../companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx"
