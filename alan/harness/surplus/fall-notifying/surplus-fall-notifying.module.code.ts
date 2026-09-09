@@ -1,4 +1,7 @@
-import { TICKS_BEFORE_ENDING, tickRatchet } from "@akasha/service/tick-ratchet"
+import {
+  TICKS_BEFORE_ENDING,
+  tickRatchet,
+} from "akasha/services/workstation-services/tick-ratchet/tick-ratchet.module.code.ts"
 import {
   sleptUntilStopped,
   stopsOnSignal,

@@ -1,4 +1,4 @@
-import type { WorkstationService } from "@akasha/service/workstation-service"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.ts"
 
 export const activityRelayService = {
   id: "01a06222-9828-77f2-adbb-5b83d7528e2d",

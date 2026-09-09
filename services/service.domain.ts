@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const service = {
   id: "01a05a3c-cafd-7ded-8901-f1468940d7ca",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "service",
   definition: "what the system runs without being asked each time",
-  manifest: "json",
   parts: [
     "page-type/service",
     "page-type/workstation-service",
@@ -15,4 +14,4 @@ export const service = {
     "page-type/secret",
     "workstation-service/service-watching",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

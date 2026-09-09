@@ -5,9 +5,12 @@ import {
   ownedByService,
   planFor,
   systemctl,
-} from "@akasha/service/service-installing"
-import { everyService, readFor } from "@akasha/service/service-reading"
-import { installedUnitName } from "@akasha/service/unit-writing"
+} from "akasha/services/workstation-services/service-installing/service-installing.module.code.ts"
+import {
+  everyService,
+  readFor,
+} from "akasha/services/workstation-services/service-reading/service-reading.module.code.ts"
+import { installedUnitName } from "akasha/services/workstation-services/unit-writing/unit-writing.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
 import { namesDrawn } from "./name-drawing/name-drawing.module.code.ts"

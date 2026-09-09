@@ -667,7 +667,6 @@
         "@akasha/git": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/service": "workspace:*",
       },
     },
     "pages/ui": {
@@ -841,18 +840,6 @@
         "@akasha/utils": "workspace:*",
         "@modelcontextprotocol/sdk": "^1.30.0",
         "zod": "^4.3.6",
-      },
-    },
-    "services": {
-      "name": "@akasha/service",
-      "dependencies": {
-        "@akasha/cluster-manifests": "workspace:*",
-        "@akasha/code": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
-        "@akasha/git": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "yaml": "^2.8.1",
       },
     },
     "smilingjenny/web": {
@@ -1228,8 +1215,6 @@
     "@akasha/rules-engine": ["@akasha/rules-engine@workspace:alan/harness/rules-engine"],
 
     "@akasha/seat-system": ["@akasha/seat-system@workspace:seat-system"],
-
-    "@akasha/service": ["@akasha/service@workspace:services"],
 
     "@akasha/smilingjenny-web": ["@akasha/smilingjenny-web@workspace:smilingjenny/web"],
 

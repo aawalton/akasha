@@ -1,4 +1,4 @@
-import type { WorkstationService } from "@akasha/service/workstation-service"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.ts"
 
 export const inboxRelayService = {
   id: "01a06230-b156-7667-b81e-d7a74183ae8d",

@@ -1,4 +1,4 @@
-import type { WorkstationService } from "@akasha/service/workstation-service"
+import type { WorkstationService } from "akasha/services/workstation-services/workstation-service.page-type.ts"
 
 export const sleepRelayService = {
   id: "01a06220-ef8c-7a3e-a40b-06bc3fc01541",

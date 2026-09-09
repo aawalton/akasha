@@ -5,7 +5,10 @@ import { indexValue } from "@akasha/indexes/value/page"
 import { akashaRoot, akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
 import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { seatTurnStateOf } from "@akasha/seat-system/seat-turn-state"
-import { followFolders, followWithin } from "@akasha/service/file-following"
+import {
+  followFolders,
+  followWithin,
+} from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
 import {
   MARK_TAIL,
   marksIn,

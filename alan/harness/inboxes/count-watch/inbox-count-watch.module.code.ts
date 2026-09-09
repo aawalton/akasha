@@ -10,8 +10,8 @@ import {
   relayReading,
   statedIn,
 } from "@akasha/readouts/readout-relay"
-import { followFolders } from "@akasha/service/file-following"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { followFolders } from "akasha/services/workstation-services/file-following/file-following.module.code.ts"
 import { saidBy } from "../../../../commands/modules/fault-saying/fault-saying.module.code.ts"
 import {
   pollTaskCounts,

@@ -5,7 +5,7 @@ export const theWorkloadCensusAndTheSecretPlacingLandInsideAkashaWithNoCaller = 
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-workload-census-and-the-secret-placing-land-inside-akasha-with-no-caller",
-  domain: "workspace-package/service",
+  domain: "domain/service",
   claim:
     "The two `deploy-system/` files an earlier lane kept back as unrepointable are now inside akasha, because the four modules they reached for are findable after all: three of the four are one module. They land loadable and uncalled, so the capability each holds is restored to the tree without being restored to the deploy path.",
   evidence:

@@ -5,7 +5,7 @@ export const theDeployCommandCannotBeLoaded = {
   pageTypeSlug: "finding",
   type: "finding",
   slug: "the-deploy-command-cannot-be-loaded",
-  domain: "workspace-package/service",
+  domain: "domain/service",
   claim:
     "`ops deploy` cannot be loaded: its entry point imports a module deleted on purpose, nothing calls it, and CI has no twin of it. It does not follow, as this first said, that no cluster service can be put up and there is no path to a new build. There is one: `akasha deploy` loads, builds in the pod and put a site up tonight. Two spellings of a deploy now stand and only the dead one is named here.",
   evidence:

@@ -1,16 +1,18 @@
 import { existsSync, openSync, unlinkSync } from "node:fs"
 import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
+import { errnoCodeOf } from "@akasha/utils/process/pid-signal"
+import { enforceMemoryGuard } from "@akasha/utils/system/memory-guard"
 import {
   readEnvLocal,
   resolveEnvLocalPath,
   writeEnvLocalFromPages,
-} from "@akasha/service/dev-server-env-writing"
+} from "akasha/services/web-apps/dev-server-env-writing/dev-server-env-writing.module.code.ts"
 import {
   type DevServerRecord,
   devServerTsvLine,
   recordFromState,
   stoppedRecord,
-} from "@akasha/service/dev-server-recording"
+} from "akasha/services/web-apps/dev-server-recording/dev-server-recording.module.code.ts"
 import {
   APP_NAMES,
   computePort,
@@ -23,10 +25,8 @@ import {
   readStateFile,
   stateFilePath,
   writeStateFile,
-} from "@akasha/service/dev-server-stating"
-import { resolveWorktreePath } from "@akasha/service/dev-server-worktree"
-import { errnoCodeOf } from "@akasha/utils/process/pid-signal"
-import { enforceMemoryGuard } from "@akasha/utils/system/memory-guard"
+} from "akasha/services/web-apps/dev-server-stating/dev-server-stating.module.code.ts"
+import { resolveWorktreePath } from "akasha/services/web-apps/dev-server-worktree/dev-server-worktree.module.code.ts"
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
 import { whyOf } from "../../../modules/fault-saying/fault-saying.module.code.ts"
