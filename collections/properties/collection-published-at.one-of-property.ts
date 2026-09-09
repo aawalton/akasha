@@ -7,6 +7,7 @@ export type CollectionPublishedAt = PublishedDay | PublishedAt
 export const collectionPublishedAt = {
   id: "01a063de-2c60-700f-a1f5-3c8c3ba8a091",
   pageTypeSlug: "one-of-property",
+  type: "one-of-property",
   slug: "collection-published-at",
   propertySlug: "published-at",
   definition: "when a collection was released, to the day or to the moment",
