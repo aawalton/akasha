@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0020Epilogue1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0020-epilogue-1",
   title: "Epilogue 1 – 🗿 ",
-  partOfCollectionSlugs: ["rock-falls-everyone-dies"],
+  storySlug: "rock-falls-everyone-dies",
   position: 20,
   ownLength: 1344,
   unitSlug: "words",

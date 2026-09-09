@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0018Chapter17NumbersGoUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0018-chapter-17-numbers-go-up",
   title: "Chapter 17 – Numbers Go Up",
-  partOfCollectionSlugs: ["rock-falls-everyone-dies"],
+  storySlug: "rock-falls-everyone-dies",
   position: 18,
   ownLength: 829,
   unitSlug: "words",

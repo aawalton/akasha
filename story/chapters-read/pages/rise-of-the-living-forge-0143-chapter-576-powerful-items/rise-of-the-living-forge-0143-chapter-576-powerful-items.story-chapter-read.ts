@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0143Chapter576PowerfulItems = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0143-chapter-576-powerful-items",
   title: "Chapter 576: Powerful Items",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 143,
   ownLength: 1801,
   unitSlug: "words",

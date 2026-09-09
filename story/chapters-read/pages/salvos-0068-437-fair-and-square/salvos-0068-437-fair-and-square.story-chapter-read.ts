@@ -5,7 +5,7 @@ export const salvos0068437FairAndSquare = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0068-437-fair-and-square",
   title: "437. Fair and Square",
-  partOfCollectionSlugs: ["story-read/salvos"],
+  storySlug: "story-read/salvos",
   position: 68,
   ownLength: 1463,
   unitSlug: "words",

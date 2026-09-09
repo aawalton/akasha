@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0139Chapter572Devils = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0139-chapter-572-devils",
   title: "Chapter 572: Devils",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 139,
   ownLength: 1973,
   unitSlug: "words",

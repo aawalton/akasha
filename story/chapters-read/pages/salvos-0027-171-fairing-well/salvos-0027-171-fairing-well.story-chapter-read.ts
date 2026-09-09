@@ -5,7 +5,7 @@ export const salvos0027171FairingWell = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0027-171-fairing-well",
   title: "171. Fairing Well",
-  partOfCollectionSlugs: ["story-read/salvos"],
+  storySlug: "story-read/salvos",
   position: 27,
   ownLength: 2143,
   unitSlug: "words",

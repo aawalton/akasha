@@ -5,7 +5,7 @@ export const salvos0043293FatherAndDaughter = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0043-293-father-and-daughter",
   title: "293. Father and Daughter",
-  partOfCollectionSlugs: ["story-read/salvos"],
+  storySlug: "story-read/salvos",
   position: 43,
   ownLength: 2396,
   unitSlug: "words",

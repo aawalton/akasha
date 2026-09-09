@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0185Chapter617HarshRealities = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0185-chapter-617-harsh-realities",
   title: "Chapter 617: Harsh Realities",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 185,
   ownLength: 1933,
   unitSlug: "words",

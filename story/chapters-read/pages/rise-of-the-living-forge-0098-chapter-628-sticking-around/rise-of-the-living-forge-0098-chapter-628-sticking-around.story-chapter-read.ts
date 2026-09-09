@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0098Chapter628StickingAround = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0098-chapter-628-sticking-around",
   title: "Chapter 628: Sticking Around",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 98,
   ownLength: 1693,
   unitSlug: "words",

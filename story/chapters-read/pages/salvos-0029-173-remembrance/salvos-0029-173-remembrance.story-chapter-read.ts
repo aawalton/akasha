@@ -5,7 +5,7 @@ export const salvos0029173Remembrance = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0029-173-remembrance",
   title: "173. Remembrance",
-  partOfCollectionSlugs: ["story-read/salvos"],
+  storySlug: "story-read/salvos",
   position: 29,
   ownLength: 2100,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const salvos00042TheOthers = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0004-2-the-others",
   title: "2. The Others",
-  partOfCollectionSlugs: ["story-read/salvos"],
+  storySlug: "story-read/salvos",
   position: 4,
   ownLength: 3338,
   unitSlug: "words",

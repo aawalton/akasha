@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0191Chapter622Blake = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0191-chapter-622-blake",
   title: "Chapter 622: Blake",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 191,
   ownLength: 2077,
   unitSlug: "words",

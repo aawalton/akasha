@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0097Chapter531Satisfied = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0097-chapter-531-satisfied",
   title: "Chapter 531: Satisfied",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 97,
   ownLength: 1539,
   unitSlug: "words",

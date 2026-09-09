@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0122Chapter555BigGame = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0122-chapter-555-big-game",
   title: "Chapter 555: Big Game",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 122,
   ownLength: 1677,
   unitSlug: "words",

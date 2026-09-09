@@ -5,7 +5,7 @@ export const salvos0120671Ancients = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0120-671-ancients",
   title: "671. Ancients",
-  partOfCollectionSlugs: ["story-read/salvos"],
+  storySlug: "story-read/salvos",
   position: 120,
   ownLength: 2192,
   unitSlug: "words",

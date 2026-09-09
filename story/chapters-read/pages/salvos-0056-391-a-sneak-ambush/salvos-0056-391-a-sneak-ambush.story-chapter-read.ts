@@ -5,7 +5,7 @@ export const salvos0056391ASneakAmbush = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0056-391-a-sneak-ambush",
   title: "391. A Sneak Ambush!",
-  partOfCollectionSlugs: ["story-read/salvos"],
+  storySlug: "story-read/salvos",
   position: 56,
   ownLength: 2722,
   unitSlug: "words",

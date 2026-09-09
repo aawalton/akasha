@@ -5,7 +5,7 @@ export const salvos0051NotAChapterDeletingCommentingRulesQuick = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0051-not-a-chapter-deleting-commenting-rules-quick",
   title: "Not A Chapter - Deleting Commenting Rules + Quick Little Announcement",
-  partOfCollectionSlugs: ["story-read/salvos"],
+  storySlug: "story-read/salvos",
   position: 51,
   ownLength: 110,
   unitSlug: "words",

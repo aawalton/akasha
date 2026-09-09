@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0095Chapter529Effective = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0095-chapter-529-effective",
   title: "Chapter 529: Effective",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 95,
   ownLength: 2251,
   unitSlug: "words",

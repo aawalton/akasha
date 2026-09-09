@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0100Chapter630Dinner = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0100-chapter-630-dinner",
   title: "Chapter 630: Dinner",
-  partOfCollectionSlugs: ["story-read/rise-of-the-living-forge"],
+  storySlug: "story-read/rise-of-the-living-forge",
   position: 100,
   ownLength: 1686,
   unitSlug: "words",
