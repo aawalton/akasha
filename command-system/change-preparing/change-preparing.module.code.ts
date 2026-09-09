@@ -9,6 +9,7 @@ import { lockingFor } from "../manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { globbedFor } from "../source-globbing/source-globbing.module.code.ts"
 import { steppedFor } from "../spacing-stepping/spacing-stepping.module.code.ts"
+import { typesFor } from "../type-generating/type-generating.module.code.ts"
 import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
 
 export type Formatting = {
@@ -81,17 +82,26 @@ export function preparing(
   const mapped = mappedFor(change)
   const stepped = steppedFor(change)
   const globbed = globbedFor(change)
+  const typed = typesFor(change)
   const added = [
     ...bodiedFrom(locking.edits),
     ...bodiedFrom(worked.edits),
     ...bodiedFrom(mapped.edits),
     ...bodiedFrom(stepped.edits),
     ...bodiedFrom(globbed.edits),
+    ...bodiedFrom(typed.edits),
   ]
   return {
     formatting,
     changes: added.length === 0 ? formatting.changes : [...formatting.changes, ...added],
-    said: [...locking.said, ...worked.said, ...mapped.said, ...stepped.said, ...globbed.said],
+    said: [
+      ...locking.said,
+      ...worked.said,
+      ...mapped.said,
+      ...stepped.said,
+      ...globbed.said,
+      ...typed.said,
+    ],
     over: added.length === 0 ? change : null,
   }
 }

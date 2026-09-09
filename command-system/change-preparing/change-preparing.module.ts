@@ -65,7 +65,20 @@ export const changePreparing = {
     },
     {
       invariantKind: "departure",
-      statement: "Every road that lands works those three out through one step here.",
+      statement: "The written types are worked out before the hold is taken alongside those six.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page type's generator writes for every page of that page type on the one landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A generator that is not there is said here rather than refusing the landing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every road that lands works those seven out through one step here.",
     },
     {
       invariantKind: "departure",

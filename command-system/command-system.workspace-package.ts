@@ -40,6 +40,7 @@ export const commandSystem = {
     "module/address-mapping",
     "module/spacing-stepping",
     "module/source-globbing",
+    "module/type-generating",
     "module/argument-reading",
     "module/body-merging",
     "module/patching",
