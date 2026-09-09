@@ -51,7 +51,7 @@ export const watcherDispatch = {
     },
     {
       invariantKind: "departure",
-      statement: "A run holding no operation is reported nowhere.",
+      statement: "A run with no operation is reported nowhere.",
     },
     {
       invariantKind: "departure",

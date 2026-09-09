@@ -32,7 +32,7 @@ export const changePagePageProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A key holding many values is refused here.",
+      statement: "A key with many values is refused here.",
     },
     {
       invariantKind: "departure",

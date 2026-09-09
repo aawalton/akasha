@@ -9,7 +9,7 @@ export const orphanResourceAudit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A checkout holding no synth source at all is refused.",
+      statement: "A checkout with no synth source at all is refused.",
     },
     {
       invariantKind: "departure",

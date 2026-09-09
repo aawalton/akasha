@@ -56,7 +56,7 @@ export const pageValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A runtime holding no transpiler refuses rather than answering nothing.",
+      statement: "A runtime with no transpiler refuses rather than answering nothing.",
     },
     {
       invariantKind: "departure",

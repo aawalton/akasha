@@ -19,7 +19,7 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "An input holding no byte is nothing piped in.",
+      statement: "An input with no byte is nothing piped in.",
     },
     {
       invariantKind: "departure",

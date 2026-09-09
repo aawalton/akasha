@@ -17,7 +17,7 @@ export const changePropertyRecordField = {
     },
     {
       invariantKind: "departure",
-      statement: "A key holding no record is refused.",
+      statement: "A key with no record is refused.",
     },
     {
       invariantKind: "departure",

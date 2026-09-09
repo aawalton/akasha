@@ -46,7 +46,7 @@ export const temperAddonBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "An addon holding no tsconfig is compiled against settings written from its page.",
+      statement: "An addon with no tsconfig is compiled against settings written from its page.",
     },
     {
       invariantKind: "departure",
