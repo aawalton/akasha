@@ -24,7 +24,6 @@ export const commandSystem = {
     "module/gate-building",
     "module/holding",
     "module/landing-reading",
-    "module/landing-saying",
     "module/piping",
     "module/reading",
     "module/restating",

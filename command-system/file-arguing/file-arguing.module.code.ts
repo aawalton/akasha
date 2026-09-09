@@ -1,6 +1,7 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { besideAll } from "@akasha/pages/page-beside"
+import { defaultMessage } from "../../commands/modules/landing-saying/landing-saying.module.code.ts"
 import { BREAK_GLASS, bytesAt, mistaking, textOf, troubling } from "../asking/asking.module.code.ts"
 import { type Answer, type Given, kindNamed } from "../calling/calling.module.code.ts"
 import {
@@ -16,7 +17,6 @@ import {
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf } from "../landing/landing.module.code.ts"
-import { defaultMessage } from "../landing-saying/landing-saying.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
 import { markingIn, pipedIn, RUNS_SAID } from "../piping/piping.module.code.ts"
 import { unrestatedIn } from "../restating/restating.module.code.ts"

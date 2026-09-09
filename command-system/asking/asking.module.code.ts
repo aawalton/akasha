@@ -13,6 +13,14 @@ import {
   passedOver,
   reachedIn,
 } from "../../commands/modules/judged-saying/judged-saying.module.code.ts"
+import {
+  draftedSaid,
+  filledSaid,
+  formattedSaid,
+  pathsOf,
+  reported,
+  type Saying,
+} from "../../commands/modules/landing-saying/landing-saying.module.code.ts"
 import { installingIn } from "../../commands/modules/manifest-locking/manifest-locking.module.code.ts"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
 import { runningOf } from "../drafting/drafting.module.code.ts"
@@ -26,14 +34,6 @@ import {
   NO_OWING,
   recordLanded,
 } from "../landing-reading/landing-reading.module.code.ts"
-import {
-  draftedSaid,
-  filledSaid,
-  formattedSaid,
-  pathsOf,
-  reported,
-  type Saying,
-} from "../landing-saying/landing-saying.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { type Carry, type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import type { Minted } from "../value-minting/value-minting.module.code.ts"

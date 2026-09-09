@@ -63,6 +63,7 @@ export const command = {
     "module/change-preparing",
     "module/address-mapping",
     "module/judged-saying",
+    "module/landing-saying",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",
