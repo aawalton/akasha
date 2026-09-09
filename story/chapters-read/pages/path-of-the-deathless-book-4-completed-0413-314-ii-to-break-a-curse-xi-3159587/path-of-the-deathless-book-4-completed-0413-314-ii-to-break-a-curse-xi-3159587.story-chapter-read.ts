@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0413314IiToBreakACurseXi3159587 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0413-314-ii-to-break-a-curse-xi-3159587",
   title: "314 (II) To Break a Curse [XI]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 413,
   ownLength: 3444,
   unitSlug: "words",

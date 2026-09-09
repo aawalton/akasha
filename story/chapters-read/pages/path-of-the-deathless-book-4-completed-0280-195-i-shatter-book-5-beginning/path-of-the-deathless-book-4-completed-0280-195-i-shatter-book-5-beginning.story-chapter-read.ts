@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0280195IShatterBook5Beginning = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0280-195-i-shatter-book-5-beginning",
   title: "195 (I) Shatter [Book 5 Beginning] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 280,
   ownLength: 0,
   unitSlug: "words",

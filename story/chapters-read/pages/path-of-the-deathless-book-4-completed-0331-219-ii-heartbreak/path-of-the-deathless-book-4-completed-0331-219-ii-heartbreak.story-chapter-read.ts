@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0331219IiHeartbreak = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0331-219-ii-heartbreak",
   title: "219 (II) Heartbreak",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 331,
   ownLength: 0,
   unitSlug: "words",

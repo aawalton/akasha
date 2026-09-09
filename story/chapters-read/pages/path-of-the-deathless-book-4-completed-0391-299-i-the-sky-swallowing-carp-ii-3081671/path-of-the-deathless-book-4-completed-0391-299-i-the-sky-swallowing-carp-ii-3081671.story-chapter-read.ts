@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0391299ITheSkySwallowingCarpIi30816
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0391-299-i-the-sky-swallowing-carp-ii-3081671",
   title: "299 (I) The Sky-Swallowing Carp [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 391,
   ownLength: 3926,
   unitSlug: "words",

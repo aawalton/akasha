@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0266233IiRage2859998 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0266-233-ii-rage-2859998",
   title: "233 (II) Rage",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 266,
   ownLength: 2399,
   unitSlug: "words",

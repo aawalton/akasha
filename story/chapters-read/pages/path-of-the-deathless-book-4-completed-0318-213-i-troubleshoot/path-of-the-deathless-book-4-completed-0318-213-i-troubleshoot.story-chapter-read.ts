@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0318213ITroubleshoot = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0318-213-i-troubleshoot",
   title: "213 (I) Troubleshoot",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 318,
   ownLength: 0,
   unitSlug: "words",

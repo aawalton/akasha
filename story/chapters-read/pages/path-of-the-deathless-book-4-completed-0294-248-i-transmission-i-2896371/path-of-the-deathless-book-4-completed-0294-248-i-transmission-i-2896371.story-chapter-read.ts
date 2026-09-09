@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0294248ITransmissionI2896371 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0294-248-i-transmission-i-2896371",
   title: "248 (I) Transmission [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 294,
   ownLength: 2900,
   unitSlug: "words",

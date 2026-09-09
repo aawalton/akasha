@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0420264IiBeyondI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0420-264-ii-beyond-i",
   title: "264 (II) Beyond [I] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 420,
   ownLength: 0,
   unitSlug: "words",

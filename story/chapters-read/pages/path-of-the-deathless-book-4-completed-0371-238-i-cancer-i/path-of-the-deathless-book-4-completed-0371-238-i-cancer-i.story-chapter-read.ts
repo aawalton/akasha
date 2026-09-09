@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0371238ICancerI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0371-238-i-cancer-i",
   title: "238 (I) Cancer [I] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 371,
   ownLength: 0,
   unitSlug: "words",

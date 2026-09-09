@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0353278IiCounterMetamorphosis299273
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0353-278-ii-counter-metamorphosis-2992734",
   title: "278 (II) Counter-Metamorphosis",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 353,
   ownLength: 2427,
   unitSlug: "words",

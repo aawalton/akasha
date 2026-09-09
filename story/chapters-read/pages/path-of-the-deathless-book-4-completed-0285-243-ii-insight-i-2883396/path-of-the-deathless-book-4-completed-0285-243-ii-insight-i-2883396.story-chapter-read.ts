@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0285243IiInsightI2883396 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0285-243-ii-insight-i-2883396",
   title: "243 (II) Insight [I]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 285,
   ownLength: 3015,
   unitSlug: "words",

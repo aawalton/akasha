@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0372288IDodge3025802 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0372-288-i-dodge-3025802",
   title: "288 (I) Dodge",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 372,
   ownLength: 3162,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0336270ITheChoiceOfVirtueIi2965363 
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0336-270-i-the-choice-of-virtue-ii-2965363",
   title: "270 (I) “The Choice of Virtue” [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 336,
   ownLength: 3061,
   unitSlug: "words",

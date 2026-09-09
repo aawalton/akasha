@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0427267IiFuryAloneIsButImpotence = 
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0427-267-ii-fury-alone-is-but-impotence",
   title: "267 (II) “Fury Alone is but Impotence”",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 427,
   ownLength: 0,
   unitSlug: "words",

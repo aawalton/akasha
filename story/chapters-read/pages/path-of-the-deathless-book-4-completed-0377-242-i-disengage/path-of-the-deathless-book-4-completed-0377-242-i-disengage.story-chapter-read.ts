@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0377242IDisengage = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0377-242-i-disengage",
   title: "242 (I) Disengage",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 377,
   ownLength: 0,
   unitSlug: "words",

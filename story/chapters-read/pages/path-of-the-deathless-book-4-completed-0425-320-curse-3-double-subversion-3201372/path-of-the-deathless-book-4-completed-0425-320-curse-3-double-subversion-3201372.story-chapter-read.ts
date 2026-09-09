@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0425320Curse3DoubleSubversion320137
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0425-320-curse-3-double-subversion-3201372",
   title: "320 Curse 3: Double-Subversion",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 425,
   ownLength: 4912,
   unitSlug: "words",

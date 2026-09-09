@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0428268NothingIsGrantedEverythingIs
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0428-268-nothing-is-granted-everything-is-taken",
   title: "268 “Nothing is Granted, Everything is Taken”",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 428,
   ownLength: 0,
   unitSlug: "words",

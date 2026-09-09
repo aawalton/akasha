@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0432270IiTheChoiceOfVirtueIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0432-270-ii-the-choice-of-virtue-ii",
   title: "270 (II) “The Choice of Virtue” [II] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 432,
   ownLength: 0,
   unitSlug: "words",

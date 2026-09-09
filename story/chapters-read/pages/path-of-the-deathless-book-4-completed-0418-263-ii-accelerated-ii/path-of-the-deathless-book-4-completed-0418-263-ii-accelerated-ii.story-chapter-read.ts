@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0418263IiAcceleratedIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0418-263-ii-accelerated-ii",
   title: "263 (II) Accelerated [II] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 418,
   ownLength: 0,
   unitSlug: "words",

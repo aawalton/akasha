@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0367236IDietaryIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0367-236-i-dietary-ii",
   title: "236 (I) Dietary [II] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 367,
   ownLength: 0,
   unitSlug: "words",

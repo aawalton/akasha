@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0331267IFuryAloneIsButImpotence2956
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0331-267-i-fury-alone-is-but-impotence-2956095",
   title: "267 (I) “Fury Alone is but Impotence”",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 331,
   ownLength: 3589,
   unitSlug: "words",

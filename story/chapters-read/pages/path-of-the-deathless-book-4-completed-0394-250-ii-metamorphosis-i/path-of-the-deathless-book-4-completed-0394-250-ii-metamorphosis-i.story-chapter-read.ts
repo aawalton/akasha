@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0394250IiMetamorphosisI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0394-250-ii-metamorphosis-i",
   title: "250 (II) Metamorphosis [I] ",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 394,
   ownLength: 0,
   unitSlug: "words",

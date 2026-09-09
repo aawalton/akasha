@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0426321CurseTheNextGenerationAdamGe
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0426-321-curse-the-next-generation-adam-gets-a-new-hole",
   title: "321 Curse: The Next Generation (Adam gets a new hole he doesn’t want)",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 426,
   ownLength: 6283,
   unitSlug: "words",

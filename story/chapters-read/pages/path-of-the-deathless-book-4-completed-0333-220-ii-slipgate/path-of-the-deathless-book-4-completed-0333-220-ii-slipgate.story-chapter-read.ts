@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0333220IiSlipgate = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0333-220-ii-slipgate",
   title: "220 (II) Slipgate",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 333,
   ownLength: 0,
   unitSlug: "words",

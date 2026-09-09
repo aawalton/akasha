@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0272192IWhores = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0272-192-i-whores",
   title: "192 (I) Whores",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 272,
   ownLength: 0,
   unitSlug: "words",

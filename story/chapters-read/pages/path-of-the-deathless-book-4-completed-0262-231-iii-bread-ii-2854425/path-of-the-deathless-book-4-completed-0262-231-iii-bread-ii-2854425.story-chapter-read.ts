@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0262231IiiBreadIi2854425 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0262-231-iii-bread-ii-2854425",
   title: "231 (III) Bread [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 262,
   ownLength: 1898,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0350277IUnseenUnheardUnknownIi29886
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0350-277-i-unseen-unheard-unknown-ii-2988677",
   title: "277 (I) Unseen, Unheard, Unknown [II]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 350,
   ownLength: 3451,
   unitSlug: "words",

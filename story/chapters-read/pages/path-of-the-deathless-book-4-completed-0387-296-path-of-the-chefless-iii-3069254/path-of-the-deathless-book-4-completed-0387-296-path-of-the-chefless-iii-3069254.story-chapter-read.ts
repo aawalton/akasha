@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0387296PathOfTheCheflessIii3069254 
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0387-296-path-of-the-chefless-iii-3069254",
   title: "296 Path of the Chefless [III]",
-  storySlug: "path-of-the-deathless-book-4-completed",
+  story: "path-of-the-deathless-book-4-completed",
   position: 387,
   ownLength: 5636,
   unitSlug: "words",
