@@ -8,6 +8,6 @@ export const libGps = {
   esoAddonSlug: "temper-lib-gps",
   addonKind: "library",
   heldBy: 13216,
-  adjacentSlugs: ["temper-navigation", "temper-collections"],
+  adjacents: ["temper-navigation", "temper-collections"],
   tiClean: true,
 } as const satisfies HeldAddon

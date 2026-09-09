@@ -8,6 +8,6 @@ export const temperDataMining = {
   esoAddonSlug: "temper-capture-datamining-addon",
   addonKind: "native",
   heldBy: 13035,
-  adjacentSlugs: ["temper-catalog", "temper-inventory"],
+  adjacents: ["temper-catalog", "temper-inventory"],
   tiClean: true,
 } as const satisfies HeldAddon

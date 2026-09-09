@@ -8,6 +8,6 @@ export const libZone = {
   esoAddonSlug: "temper-lib-zone",
   addonKind: "library",
   heldBy: 14340,
-  adjacentSlugs: ["lib-sets"],
+  adjacents: ["lib-sets"],
   tiClean: true,
 } as const satisfies HeldAddon

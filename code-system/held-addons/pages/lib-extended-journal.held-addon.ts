@@ -8,6 +8,6 @@ export const libExtendedJournal = {
   esoAddonSlug: "temper-lib-extended-journal",
   addonKind: "library",
   heldBy: 14479,
-  adjacentSlugs: ["temper-collections"],
+  adjacents: ["temper-collections"],
   tiClean: true,
 } as const satisfies HeldAddon

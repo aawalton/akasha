@@ -8,6 +8,6 @@ export const libAsync = {
   esoAddonSlug: "temper-lib-async",
   addonKind: "library",
   heldBy: 13237,
-  adjacentSlugs: ["temper-crafting", "temper-navigation"],
+  adjacents: ["temper-crafting", "temper-navigation"],
   tiClean: true,
 } as const satisfies HeldAddon

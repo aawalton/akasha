@@ -8,6 +8,6 @@ export const libAddonKeybinds = {
   esoAddonSlug: "temper-lib-addon-keybinds",
   addonKind: "library",
   heldBy: 13231,
-  adjacentSlugs: ["temper-keybinder"],
+  adjacents: ["temper-keybinder"],
   tiClean: true,
 } as const satisfies HeldAddon

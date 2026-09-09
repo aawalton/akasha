@@ -8,6 +8,6 @@ export const libSavedVars = {
   esoAddonSlug: "temper-lib-saved-vars",
   addonKind: "library",
   heldBy: 13238,
-  adjacentSlugs: ["temper-navigation", "temper-collections"],
+  adjacents: ["temper-navigation", "temper-collections"],
   tiClean: true,
 } as const satisfies HeldAddon

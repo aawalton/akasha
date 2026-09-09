@@ -8,6 +8,6 @@ export const libMainMenu = {
   esoAddonSlug: "temper-lib-main-menu",
   addonKind: "library",
   heldBy: 13226,
-  adjacentSlugs: ["temper-crafting"],
+  adjacents: ["temper-crafting"],
   tiClean: true,
 } as const satisfies HeldAddon

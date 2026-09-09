@@ -8,6 +8,6 @@ export const temperTableFunctions = {
   esoAddonSlug: "temper-lib-table-functions",
   addonKind: "library",
   heldBy: 13246,
-  adjacentSlugs: ["temper-characters"],
+  adjacents: ["temper-characters"],
   tiClean: true,
 } as const satisfies HeldAddon

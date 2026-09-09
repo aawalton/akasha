@@ -8,7 +8,7 @@ export const libAddonMenu = {
   esoAddonSlug: "temper-lib-addon-menu",
   addonKind: "library",
   heldBy: 13212,
-  adjacentSlugs: [
+  adjacents: [
     "temper-crafting",
     "temper-navigation",
     "temper-collections",

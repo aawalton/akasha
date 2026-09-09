@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { AddonKind } from "./properties/addon-kind.text-property.ts"
 import type { AddonName } from "./properties/addon-name.text-property.ts"
-import type { AdjacentSlugs } from "./properties/adjacent-slugs.relation-property.ts"
+import type { Adjacents } from "./properties/adjacents.relation-property.ts"
 import type { EsoAddonSlug } from "./properties/eso-addon-slug.relation-property.ts"
 import type { HeldBy } from "./properties/held-by.number-property.ts"
 import type { TiClean } from "./properties/ti-clean.boolean-property.ts"
@@ -13,7 +13,7 @@ export type HeldAddon = Page & {
   esoAddonSlug: EsoAddonSlug
   addonKind: AddonKind
   heldBy: HeldBy
-  adjacentSlugs?: AdjacentSlugs
+  adjacents?: Adjacents
   tiClean?: TiClean
   tiCleanBlockedReason?: TiCleanBlockedReason
 }
@@ -28,7 +28,7 @@ export const heldAddon = {
   partSlugs: [
     "boolean-property/ti-clean",
     "number-property/held-by",
-    "relation-property/adjacent-slugs",
+    "relation-property/adjacents",
     "relation-property/eso-addon-slug",
     "text-property/addon-kind",
     "text-property/addon-name",
@@ -40,7 +40,7 @@ export const heldAddon = {
     { pagePropertySlug: "text-property/addon-kind", required: true, many: false },
     { pagePropertySlug: "number-property/held-by", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/adjacent-slugs",
+      pagePropertySlug: "relation-property/adjacents",
       required: false,
       many: true,
       maxCount: null,

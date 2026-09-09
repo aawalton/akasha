@@ -8,7 +8,7 @@ export const temperCollections = {
   esoAddonSlug: "temper-collections-addon",
   addonKind: "ported",
   heldBy: 15143,
-  adjacentSlugs: [
+  adjacents: [
     "temper-navigation",
     "lib-map-pins",
     "lib-extended-journal",

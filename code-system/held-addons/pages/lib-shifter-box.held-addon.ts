@@ -8,6 +8,6 @@ export const libShifterBox = {
   esoAddonSlug: "temper-lib-shifter-box",
   addonKind: "library",
   heldBy: 14477,
-  adjacentSlugs: ["temper-interface"],
+  adjacents: ["temper-interface"],
   tiClean: true,
 } as const satisfies HeldAddon

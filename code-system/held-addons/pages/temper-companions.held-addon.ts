@@ -8,6 +8,6 @@ export const temperCompanions = {
   esoAddonSlug: "temper-companions-addon",
   addonKind: "native",
   heldBy: 13024,
-  adjacentSlugs: ["temper-characters"],
+  adjacents: ["temper-characters"],
   tiClean: true,
 } as const satisfies HeldAddon

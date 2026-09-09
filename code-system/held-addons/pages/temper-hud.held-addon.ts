@@ -8,6 +8,6 @@ export const temperHud = {
   esoAddonSlug: "temper-hud-addon",
   addonKind: "native",
   heldBy: 13085,
-  adjacentSlugs: ["temper-inventory", "temper-interface"],
+  adjacents: ["temper-inventory", "temper-interface"],
   tiClean: true,
 } as const satisfies HeldAddon

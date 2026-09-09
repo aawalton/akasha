@@ -8,6 +8,6 @@ export const libMapPing = {
   esoAddonSlug: "temper-lib-map-ping",
   addonKind: "library",
   heldBy: 13227,
-  adjacentSlugs: ["lib-gps"],
+  adjacents: ["lib-gps"],
   tiClean: true,
 } as const satisfies HeldAddon

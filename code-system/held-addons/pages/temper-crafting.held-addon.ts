@@ -8,7 +8,7 @@ export const temperCrafting = {
   esoAddonSlug: "temper-crafting-addon",
   addonKind: "ported",
   heldBy: 14506,
-  adjacentSlugs: [
+  adjacents: [
     "temper-characters",
     "lib-character-knowledge",
     "temper-keybinder",

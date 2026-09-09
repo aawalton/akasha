@@ -8,7 +8,7 @@ export const libNotification = {
   esoAddonSlug: "temper-lib-notification",
   addonKind: "library",
   heldBy: 13224,
-  adjacentSlugs: ["temper-navigation", "temper-collections"],
+  adjacents: ["temper-navigation", "temper-collections"],
   tiCleanBlockedReason:
     "member-expr game-table append: providers.ts table.insert(notificationManager.providers, provider) writes game-owned NOTIFICATIONS/GAMEPAD_NOTIFICATIONS providers via a member-expression; .push lowers to the cached-temp form, not byte-equivalent to table.insert — source-zero and strict byte-equivalence mutually exclusive.",
 } as const satisfies HeldAddon
