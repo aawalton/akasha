@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0175BocMerchFor5TierAndAbovePatreons = {
   id: "01a06731-adad-7001-b20c-1d447fb771a3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0175-boc-merch-for-5-tier-and-above-patreons",
   title: "BOC Merch For $5 tier and above patreons",
   story: "story-read/beware-of-chicken",

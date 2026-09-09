@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0311V7c58EnlightenmentFoundInTheDirt = {
   id: "01a06731-ade0-7000-ba03-0a2b2ceae8bd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0311-v7c58-enlightenment-found-in-the-dirt",
   title: "v7c58: Enlightenment Found in the Dirt",
   story: "story-read/beware-of-chicken",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0037Book4Chapter32EmbracingHerChoice = {
   id: "01a06731-aecc-7000-b627-49da03f5a8d7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0037-book-4-chapter-32-embracing-her-choice",
   title: "Book 4 - Chapter 32 - Embracing Her Choice",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

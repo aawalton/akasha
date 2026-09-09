@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0247V6c58TopOfTheMountainButStillAWaysToGo = {
   id: "01a06731-adc4-7008-9402-deadb9d28d22",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0247-v6c58-top-of-the-mountain-but-still-a-ways-to-go",
   title: "v6c58: Top of the Mountain, But Still a Ways to Go",
   story: "story-read/beware-of-chicken",

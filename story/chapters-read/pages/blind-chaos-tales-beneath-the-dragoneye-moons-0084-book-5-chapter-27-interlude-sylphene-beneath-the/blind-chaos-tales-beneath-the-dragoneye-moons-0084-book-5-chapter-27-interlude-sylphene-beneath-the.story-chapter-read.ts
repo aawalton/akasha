@@ -4,6 +4,7 @@ export const blindChaosTalesBeneathTheDragoneyeMoons0084Book5Chapter27InterludeS
   {
     id: "01a06731-aefc-7000-b684-163338d86bfc",
     pageTypeSlug: "story-chapter-read",
+    type: "story-chapter-read",
     slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0084-book-5-chapter-27-interlude-sylphene-beneath-the",
     title: "Book 5 - Chapter 27 - Interlude – Sylphene – Beneath the Dragon’s Eye I",
     story: "blind-chaos-tales-beneath-the-dragoneye-moons",

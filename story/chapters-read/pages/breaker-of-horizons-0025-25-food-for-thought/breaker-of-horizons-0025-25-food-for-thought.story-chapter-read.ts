@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons002525FoodForThought = {
   id: "01a06731-ad9c-7006-b7f3-be1283ae25f5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0025-25-food-for-thought",
   title: "25. Food for Thought",
   story: "story-read/breaker-of-horizons",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons00044AdvancedGlyphs = {
   id: "01a06731-ad99-7003-9f1e-18d4e469a7a3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0004-4-advanced-glyphs",
   title: "4. Advanced Glyphs",
   story: "story-read/breaker-of-horizons",

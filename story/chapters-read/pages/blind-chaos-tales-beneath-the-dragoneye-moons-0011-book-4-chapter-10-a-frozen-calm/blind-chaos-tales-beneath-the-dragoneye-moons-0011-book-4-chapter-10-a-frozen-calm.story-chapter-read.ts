@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0011Book4Chapter10AFrozenCalm = {
   id: "01a06731-aead-7000-95ca-224f44d6267a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0011-book-4-chapter-10-a-frozen-calm",
   title: "Book 4 - Chapter 10 - A Frozen Calm",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

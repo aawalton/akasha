@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bornForTheApocalypseADaopcalypseLitrpgBook00088Selfishness = {
   id: "01a06731-af08-7003-a61c-4da3c2734ffa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0008-8-selfishness",
   title: "8: Selfishness",
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",

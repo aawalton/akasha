@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0090NoUpdateToday = {
   id: "01a06731-af04-7000-8d65-8b9d3733de50",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0090-no-update-today",
   title: "No Update Today",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

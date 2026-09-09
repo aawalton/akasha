@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0063Book5Chapter6ArSuelleTheCityOfArts = {
   id: "01a06731-aeea-7000-96a8-dba8d4e05caf",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0063-book-5-chapter-6-ar-suelle-the-city-of-arts",
   title: "Book 5 - Chapter 6 - Ar-Suelle, The City of Arts",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

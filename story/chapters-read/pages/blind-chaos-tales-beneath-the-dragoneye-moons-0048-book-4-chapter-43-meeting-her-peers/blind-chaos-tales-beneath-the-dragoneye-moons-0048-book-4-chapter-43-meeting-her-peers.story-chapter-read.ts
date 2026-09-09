@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0048Book4Chapter43MeetingHerPeers = {
   id: "01a06731-aed9-7000-80e6-e67af73b1378",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0048-book-4-chapter-43-meeting-her-peers",
   title: "Book 4 - Chapter 43 - Meeting Her Peers",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

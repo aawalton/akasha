@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0067V4c52TheGrandMarshal = {
   id: "01a06731-ad7d-7004-b1bb-90d0be250e6c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0067-v4c52-the-grand-marshal",
   title: "v4c52: The Grand Marshal",
   story: "story-read/beware-of-chicken",

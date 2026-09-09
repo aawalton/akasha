@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0285V7c32TheWorkContinuesInLightAndShadow = {
   id: "01a06731-add9-7000-af0a-b8fe65b9e793",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0285-v7c32-the-work-continues-in-light-and-shadow",
   title: "v7c32: The Work Continues, in Light and Shadow",
   story: "story-read/beware-of-chicken",

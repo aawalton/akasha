@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0330V7c77ImperialMandate = {
   id: "01a06731-adec-7002-9e2d-4af10c0f716d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0330-v7c77-imperial-mandate",
   title: "v7c77: Imperial Mandate",
   story: "story-read/beware-of-chicken",

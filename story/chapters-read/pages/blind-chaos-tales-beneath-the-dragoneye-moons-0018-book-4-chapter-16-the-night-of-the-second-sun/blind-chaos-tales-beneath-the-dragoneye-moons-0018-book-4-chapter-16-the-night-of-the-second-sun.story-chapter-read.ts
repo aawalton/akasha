@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0018Book4Chapter16TheNightOfTheSecondSun = {
   id: "01a06731-aeb4-7001-9a2c-f2a4b17f5ec1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0018-book-4-chapter-16-the-night-of-the-second-sun",
   title: "Book 4 - Chapter 16 - The Night of the Second Sun",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

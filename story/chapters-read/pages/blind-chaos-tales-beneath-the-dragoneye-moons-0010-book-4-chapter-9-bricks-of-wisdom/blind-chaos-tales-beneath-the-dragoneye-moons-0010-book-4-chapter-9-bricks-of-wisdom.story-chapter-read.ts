@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0010Book4Chapter9BricksOfWisdom = {
   id: "01a06731-aeac-7000-ab38-8b7f62078660",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0010-book-4-chapter-9-bricks-of-wisdom",
   title: "Book 4 - Chapter 9 - Bricks of Wisdom",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

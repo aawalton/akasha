@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0165Vol4HardcoverPreorder = {
   id: "01a06731-adaa-7000-b458-e892c2f1f463",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0165-vol-4-hardcover-preorder",
   title: "Vol 4 Hardcover preorder",
   story: "story-read/beware-of-chicken",

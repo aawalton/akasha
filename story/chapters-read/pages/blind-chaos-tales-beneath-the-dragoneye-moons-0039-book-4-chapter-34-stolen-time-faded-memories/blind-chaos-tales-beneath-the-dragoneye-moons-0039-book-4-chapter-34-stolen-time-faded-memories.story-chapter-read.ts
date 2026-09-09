@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0039Book4Chapter34StolenTimeFadedMemories = {
   id: "01a06731-aecf-7000-a321-f47cfa77a410",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0039-book-4-chapter-34-stolen-time-faded-memories",
   title: "Book 4 - Chapter 34 - Stolen Time, Faded Memories",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

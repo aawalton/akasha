@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons00099BoltsAndBonds = {
   id: "01a06731-ad9b-7000-ae69-56b4e7c889e0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0009-9-bolts-and-bonds",
   title: "9. Bolts and Bonds",
   story: "story-read/breaker-of-horizons",

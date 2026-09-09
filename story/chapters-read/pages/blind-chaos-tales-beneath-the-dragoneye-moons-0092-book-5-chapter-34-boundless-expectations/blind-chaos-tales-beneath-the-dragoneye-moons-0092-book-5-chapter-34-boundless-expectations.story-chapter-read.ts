@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0092Book5Chapter34BoundlessExpectations = {
   id: "01a06731-af05-7000-a2b1-9585ee618dac",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0092-book-5-chapter-34-boundless-expectations",
   title: "Book 5 - Chapter 34 - Boundless Expectations",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

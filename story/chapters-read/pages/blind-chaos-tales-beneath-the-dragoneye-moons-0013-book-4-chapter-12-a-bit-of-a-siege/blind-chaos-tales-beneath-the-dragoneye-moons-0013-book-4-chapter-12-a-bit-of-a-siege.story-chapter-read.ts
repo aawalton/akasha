@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0013Book4Chapter12ABitOfASiege = {
   id: "01a06731-aeb1-7000-8ef3-deee7e3b6564",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0013-book-4-chapter-12-a-bit-of-a-siege",
   title: "Book 4 - Chapter 12 - A Bit of a Siege",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0034Book4Chapter29AStrategicWithdrawal = {
   id: "01a06731-aec9-7002-8dfd-55572b246d2c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0034-book-4-chapter-29-a-strategic-withdrawal",
   title: "Book 4 - Chapter 29 - A Strategic Withdrawal",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

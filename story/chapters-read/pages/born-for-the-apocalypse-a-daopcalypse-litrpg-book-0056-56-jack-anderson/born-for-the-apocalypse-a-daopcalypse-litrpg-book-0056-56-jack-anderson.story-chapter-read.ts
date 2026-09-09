@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bornForTheApocalypseADaopcalypseLitrpgBook005656JackAnderson = {
   id: "01a06731-af0d-7000-a5e5-8d51611f9ff5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0056-56-jack-anderson",
   title: "56: Jack Anderson",
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",

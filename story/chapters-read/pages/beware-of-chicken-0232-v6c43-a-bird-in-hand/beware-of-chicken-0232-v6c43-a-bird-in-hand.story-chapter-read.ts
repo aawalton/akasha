@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0232V6c43ABirdInHand = {
   id: "01a06731-adc1-700a-a90c-4011793efe18",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0232-v6c43-a-bird-in-hand",
   title: "v6c43: A Bird in Hand",
   story: "story-read/beware-of-chicken",

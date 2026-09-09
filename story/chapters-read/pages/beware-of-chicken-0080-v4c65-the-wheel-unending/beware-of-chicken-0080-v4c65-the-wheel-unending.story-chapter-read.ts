@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0080V4c65TheWheelUnending = {
   id: "01a06731-ad83-7001-a69b-533c22349e81",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0080-v4c65-the-wheel-unending",
   title: "v4c65: The Wheel Unending",
   story: "story-read/beware-of-chicken",

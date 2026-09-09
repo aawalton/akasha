@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0252V6EpilogueResoundingThroughTheHeavens = {
   id: "01a06731-adc6-7001-b2ae-d132037771ed",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0252-v6-epilogue-resounding-through-the-heavens",
   title: "v6 Epilogue: Resounding Through the Heavens",
   story: "story-read/beware-of-chicken",

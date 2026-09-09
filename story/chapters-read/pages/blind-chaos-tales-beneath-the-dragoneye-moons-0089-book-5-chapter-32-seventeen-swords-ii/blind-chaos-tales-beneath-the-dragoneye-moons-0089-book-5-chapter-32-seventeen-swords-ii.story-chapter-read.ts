@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0089Book5Chapter32SeventeenSwordsIi = {
   id: "01a06731-af03-7000-be20-fac869821747",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0089-book-5-chapter-32-seventeen-swords-ii",
   title: "Book 5 - Chapter 32 - Seventeen Swords II",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

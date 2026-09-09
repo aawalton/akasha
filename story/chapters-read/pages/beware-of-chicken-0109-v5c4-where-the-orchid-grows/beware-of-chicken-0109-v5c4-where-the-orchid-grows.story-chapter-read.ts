@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0109V5c4WhereTheOrchidGrows = {
   id: "01a06731-ad8b-7002-83cd-70accc230bc0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0109-v5c4-where-the-orchid-grows",
   title: "v5c4: Where the Orchid Grows",
   story: "story-read/beware-of-chicken",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0256V7c3SteamAndGlass = {
   id: "01a06731-adc6-7005-acf7-5fa175999be4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0256-v7c3-steam-and-glass",
   title: "v7c3: Steam and Glass",
   story: "story-read/beware-of-chicken",

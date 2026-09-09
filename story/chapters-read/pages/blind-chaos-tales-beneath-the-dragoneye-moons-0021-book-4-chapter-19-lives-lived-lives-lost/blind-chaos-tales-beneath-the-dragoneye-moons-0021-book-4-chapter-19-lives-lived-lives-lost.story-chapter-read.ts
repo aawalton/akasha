@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0021Book4Chapter19LivesLivedLivesLost = {
   id: "01a06731-aeb8-7000-ad63-1f1f231be222",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0021-book-4-chapter-19-lives-lived-lives-lost",
   title: "Book 4 - Chapter 19 - Lives Lived, Lives Lost",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

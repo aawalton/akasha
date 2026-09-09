@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0269V7c16AManHasThreeMasks = {
   id: "01a06731-adcd-7001-81c6-32de98c927ce",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0269-v7c16-a-man-has-three-masks",
   title: "v7c16: A Man has Three Masks",
   story: "story-read/beware-of-chicken",

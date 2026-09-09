@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bornForTheApocalypseADaopcalypseLitrpgBook00022DaoMarked = {
   id: "01a06731-af07-7000-80a1-d79c3b7ddc8b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0002-2-dao-marked",
   title: "2: Dao Marked",
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",

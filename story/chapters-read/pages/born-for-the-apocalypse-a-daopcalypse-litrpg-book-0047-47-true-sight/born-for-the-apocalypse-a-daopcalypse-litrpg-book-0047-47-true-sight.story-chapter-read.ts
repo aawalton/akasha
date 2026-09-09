@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bornForTheApocalypseADaopcalypseLitrpgBook004747TrueSight = {
   id: "01a06731-af0a-700a-95f9-59a0746a530e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0047-47-true-sight",
   title: "47: True Sight",
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0129V5c23TomorrowOneStepAtATime = {
   id: "01a06731-ad8e-7002-b203-0ba42c9d3439",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0129-v5c23-tomorrow-one-step-at-a-time",
   title: "v5c23: Tomorrow, One Step at a Time",
   story: "story-read/beware-of-chicken",

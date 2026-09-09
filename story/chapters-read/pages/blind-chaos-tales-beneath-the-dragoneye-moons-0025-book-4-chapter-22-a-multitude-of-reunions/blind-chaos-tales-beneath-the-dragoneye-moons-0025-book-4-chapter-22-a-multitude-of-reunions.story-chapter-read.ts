@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0025Book4Chapter22AMultitudeOfReunions = {
   id: "01a06731-aebc-7001-8150-b705422f5177",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0025-book-4-chapter-22-a-multitude-of-reunions",
   title: "Book 4 - Chapter 22 - A Multitude of Reunions",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bornForTheApocalypseADaopcalypseLitrpgBook002424ThePlan = {
   id: "01a06731-af09-7007-9a8c-ff80b2c1424d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0024-24-the-plan",
   title: "24: The Plan",
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",

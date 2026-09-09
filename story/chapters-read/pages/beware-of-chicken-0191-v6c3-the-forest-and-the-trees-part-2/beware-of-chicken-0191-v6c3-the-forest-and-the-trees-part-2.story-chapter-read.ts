@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0191V6c3TheForestAndTheTreesPart2 = {
   id: "01a06731-adb5-7005-aafb-59836d8c13da",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0191-v6c3-the-forest-and-the-trees-part-2",
   title: "v6c3: The Forest and the Trees Part 2",
   story: "story-read/beware-of-chicken",

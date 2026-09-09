@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0107V5c2TheStrongestTechnique = {
   id: "01a06731-ad8b-7000-a30c-eae4bf3b9da8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0107-v5c2-the-strongest-technique",
   title: "v5c2: The Strongest Technique",
   story: "story-read/beware-of-chicken",

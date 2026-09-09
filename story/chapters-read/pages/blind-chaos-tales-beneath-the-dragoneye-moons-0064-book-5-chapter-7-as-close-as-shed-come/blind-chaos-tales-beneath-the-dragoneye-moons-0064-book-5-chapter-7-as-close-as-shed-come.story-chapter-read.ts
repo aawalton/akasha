@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0064Book5Chapter7AsCloseAsShedCome = {
   id: "01a06731-aeea-7001-b2df-107a5aa8abed",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0064-book-5-chapter-7-as-close-as-shed-come",
   title: "Book 5 - Chapter 7 - As Close as She’d Come",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

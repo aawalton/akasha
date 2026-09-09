@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0162V5c56TheTruthLaidBarePart1 = {
   id: "01a06731-ada8-7000-aa98-f00d226a2a4e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0162-v5c56-the-truth-laid-bare-part-1",
   title: "v5c56: The Truth Laid Bare Part 1",
   story: "story-read/beware-of-chicken",

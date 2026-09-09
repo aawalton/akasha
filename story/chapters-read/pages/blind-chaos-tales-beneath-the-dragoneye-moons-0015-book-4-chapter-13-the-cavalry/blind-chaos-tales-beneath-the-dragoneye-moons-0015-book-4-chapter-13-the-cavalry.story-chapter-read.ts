@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0015Book4Chapter13TheCavalry = {
   id: "01a06731-aeb2-7001-8baf-20fbb4d4cd32",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0015-book-4-chapter-13-the-cavalry",
   title: "Book 4 - Chapter 13 - The Cavalry",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

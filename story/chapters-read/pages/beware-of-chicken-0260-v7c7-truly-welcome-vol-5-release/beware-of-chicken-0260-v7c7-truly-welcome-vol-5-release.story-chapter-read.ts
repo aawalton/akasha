@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0260V7c7TrulyWelcomeVol5Release = {
   id: "01a06731-adc9-7003-94b6-ef96774dee67",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0260-v7c7-truly-welcome-vol-5-release",
   title: "v7c7: Truly Welcome+ Vol 5 Release",
   story: "story-read/beware-of-chicken",

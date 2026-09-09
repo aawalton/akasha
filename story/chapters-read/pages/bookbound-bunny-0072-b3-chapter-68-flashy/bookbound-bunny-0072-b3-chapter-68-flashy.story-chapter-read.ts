@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bookboundBunny0072B3Chapter68Flashy = {
   id: "01a06731-b0cf-7010-a14e-c7e1a0cd2d18",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "bookbound-bunny-0072-b3-chapter-68-flashy",
   title: "B3 - Chapter 68 - Flashy",
   story: "bookbound-bunny",

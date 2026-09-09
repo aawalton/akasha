@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bornForTheApocalypseADaopcalypseLitrpgBook0070Book2Chapter7DanceToTheDeath = {
   id: "01a06731-af0e-700a-913c-ce5474518407",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0070-book-2-chapter-7-dance-to-the-death",
   title: "Book 2: Chapter 7- Dance to the death",
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",

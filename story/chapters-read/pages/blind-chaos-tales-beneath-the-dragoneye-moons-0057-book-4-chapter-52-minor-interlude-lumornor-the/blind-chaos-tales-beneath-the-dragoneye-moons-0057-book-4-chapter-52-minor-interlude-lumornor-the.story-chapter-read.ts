@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0057Book4Chapter52MinorInterludeLumornorThe = {
   id: "01a06731-aee3-7000-afc2-077fd82d5ee4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0057-book-4-chapter-52-minor-interlude-lumornor-the",
   title: "Book 4 - Chapter 52 - Minor Interlude – Lumornor – The Pursuit of Progress",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

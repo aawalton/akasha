@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0008Book4Chapter7TheFirstChallenge = {
   id: "01a06731-aea4-7000-be93-2ddf6d9732bc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0008-book-4-chapter-7-the-first-challenge",
   title: "Book 4 - Chapter 7 - The First Challenge",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

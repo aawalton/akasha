@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0169V5c62TheHeavensConverge = {
   id: "01a06731-adab-7002-9286-dc2984594d25",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0169-v5c62-the-heavens-converge",
   title: "v5c62: The Heavens Converge",
   story: "story-read/beware-of-chicken",

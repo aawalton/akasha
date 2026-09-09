@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0012Book4Chapter11FeedingThanatos = {
   id: "01a06731-aeaf-7000-9036-cd9790c5ee3e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0012-book-4-chapter-11-feeding-thanatos",
   title: "Book 4 - Chapter 11 - Feeding Thanatos",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

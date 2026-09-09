@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0100V4c80TheWheelKeepsTurning = {
   id: "01a06731-ad89-7009-81b9-cc4dffacdc16",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0100-v4c80-the-wheel-keeps-turning",
   title: "v4c80: The Wheel Keeps Turning",
   story: "story-read/beware-of-chicken",

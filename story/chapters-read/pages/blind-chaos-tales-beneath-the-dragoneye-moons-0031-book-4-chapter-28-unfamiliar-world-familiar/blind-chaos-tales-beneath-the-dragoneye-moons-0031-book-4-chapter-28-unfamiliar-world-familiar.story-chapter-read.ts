@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0031Book4Chapter28UnfamiliarWorldFamiliar = {
   id: "01a06731-aec8-7000-852f-f834d3dbf9e8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0031-book-4-chapter-28-unfamiliar-world-familiar",
   title: "Book 4 - Chapter 28 - Unfamiliar World, Familiar Strife",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

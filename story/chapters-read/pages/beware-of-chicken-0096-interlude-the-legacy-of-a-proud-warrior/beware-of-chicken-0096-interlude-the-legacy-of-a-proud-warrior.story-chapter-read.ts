@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0096InterludeTheLegacyOfAProudWarrior = {
   id: "01a06731-ad89-7005-93ba-4f82d7823eac",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0096-interlude-the-legacy-of-a-proud-warrior",
   title: "Interlude: The Legacy of a Proud Warrior",
   story: "story-read/beware-of-chicken",

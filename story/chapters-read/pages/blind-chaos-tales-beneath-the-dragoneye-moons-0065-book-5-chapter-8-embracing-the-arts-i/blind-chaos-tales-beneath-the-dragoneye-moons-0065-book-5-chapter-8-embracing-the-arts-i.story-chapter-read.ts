@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0065Book5Chapter8EmbracingTheArtsI = {
   id: "01a06731-aeeb-7000-84bf-f55779f18717",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0065-book-5-chapter-8-embracing-the-arts-i",
   title: "Book 5 - Chapter 8 - Embracing the Arts I",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

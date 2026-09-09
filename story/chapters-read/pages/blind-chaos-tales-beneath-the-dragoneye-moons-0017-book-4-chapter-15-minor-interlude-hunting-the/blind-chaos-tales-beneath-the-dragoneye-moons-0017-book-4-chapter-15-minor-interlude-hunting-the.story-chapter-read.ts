@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0017Book4Chapter15MinorInterludeHuntingThe = {
   id: "01a06731-aeb4-7000-b00a-566b13bfae77",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0017-book-4-chapter-15-minor-interlude-hunting-the",
   title: "Book 4 - Chapter 15 - Minor Interlude - Hunting - The Hunter",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

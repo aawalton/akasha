@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0030Book4Chapter27BlindRetributionIi = {
   id: "01a06731-aec7-7000-a12b-7af7126f7eff",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0030-book-4-chapter-27-blind-retribution-ii",
   title: "Book 4 - Chapter 27 - Blind Retribution II",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0072Book5Chapter15InterludeLumornorAn = {
   id: "01a06731-aef0-7001-87b9-1992f9a64686",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0072-book-5-chapter-15-interlude-lumornor-an",
   title: "Book 5 - Chapter 15 - Interlude – Lumornor – An Unexpectedly Wild Lecture",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

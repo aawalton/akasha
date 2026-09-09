@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons003535APlea = {
   id: "01a06731-ad9f-7003-ac12-eb57a365a820",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0035-35-a-plea",
   title: "35. A Plea",
   story: "story-read/breaker-of-horizons",

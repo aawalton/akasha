@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0123V5c17InTheEmperorSNameLeaveNoneAlive = {
   id: "01a06731-ad8d-7006-9c88-6ba97d95d366",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0123-v5c17-in-the-emperor-s-name-leave-none-alive",
   title: "v5c17: In the Emperor's Name, Leave None Alive",
   story: "story-read/beware-of-chicken",

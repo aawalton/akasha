@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bornForTheApocalypseADaopcalypseLitrpgBook005151Oath = {
   id: "01a06731-af0a-700e-8a8d-ed679e59137a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0051-51-oath",
   title: "51: Oath",
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",

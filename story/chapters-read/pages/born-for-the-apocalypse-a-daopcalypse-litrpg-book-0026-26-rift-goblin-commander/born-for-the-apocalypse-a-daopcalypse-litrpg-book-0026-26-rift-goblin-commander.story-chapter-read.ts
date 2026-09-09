@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bornForTheApocalypseADaopcalypseLitrpgBook002626RiftGoblinCommander = {
   id: "01a06731-af09-7009-b3b6-26d42a294711",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0026-26-rift-goblin-commander",
   title: "26: Rift Goblin Commander",
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",

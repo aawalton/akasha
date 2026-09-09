@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0236V6c47GrassEarthAndTheRavine = {
   id: "01a06731-adc2-7000-9319-b99dd57971c1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0236-v6c47-grass-earth-and-the-ravine",
   title: "v6c47: Grass, Earth, and the Ravine.",
   story: "story-read/beware-of-chicken",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0071V4c56TheTaleOfLightningAndMist = {
   id: "01a06731-ad7e-7001-8bc5-f38390b0b192",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0071-v4c56-the-tale-of-lightning-and-mist",
   title: "v4c56: The Tale of Lightning and Mist",
   story: "story-read/beware-of-chicken",

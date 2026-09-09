@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0046Book4Chapter41MinorInterludeAvyna = {
   id: "01a06731-aed8-7000-8bfd-0b4dd673a3f2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0046-book-4-chapter-41-minor-interlude-avyna",
   title: "Book 4 - Chapter 41 - Minor Interlude – Avyna – Absolution",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

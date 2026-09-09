@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bornForTheApocalypseADaopcalypseLitrpgBook004343PrimordialClaw = {
   id: "01a06731-af0a-7006-bc6e-7b4bb123244d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "born-for-the-apocalypse-a-daopcalypse-litrpg-book-0043-43-primordial-claw",
   title: "43: Primordial Claw",
   story: "born-for-the-apocalypse-a-daopcalypse-litrpg-book",

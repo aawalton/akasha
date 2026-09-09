@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0028Book4Chapter25TheFoulWindsOfChange = {
   id: "01a06731-aebf-7000-b204-a732c3b69a7d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0028-book-4-chapter-25-the-foul-winds-of-change",
   title: "Book 4 - Chapter 25 - The Foul Winds of Change",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

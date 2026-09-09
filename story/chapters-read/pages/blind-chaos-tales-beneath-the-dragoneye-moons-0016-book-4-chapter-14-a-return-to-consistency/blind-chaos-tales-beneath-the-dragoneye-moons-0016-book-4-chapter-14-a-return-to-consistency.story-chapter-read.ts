@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const blindChaosTalesBeneathTheDragoneyeMoons0016Book4Chapter14AReturnToConsistency = {
   id: "01a06731-aeb3-7000-9b86-7cca3af76bbf",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "blind-chaos-tales-beneath-the-dragoneye-moons-0016-book-4-chapter-14-a-return-to-consistency",
   title: "Book 4 - Chapter 14 - A Return to Consistency",
   story: "blind-chaos-tales-beneath-the-dragoneye-moons",

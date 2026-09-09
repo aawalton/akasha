@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons00033PrecisionMatters = {
   id: "01a06731-ad99-7002-b0ce-eaf075781d06",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0003-3-precision-matters",
   title: "3. Precision Matters",
   story: "story-read/breaker-of-horizons",

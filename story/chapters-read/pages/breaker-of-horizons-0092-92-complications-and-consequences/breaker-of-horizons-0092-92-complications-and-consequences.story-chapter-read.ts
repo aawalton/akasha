@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const breakerOfHorizons009292ComplicationsAndConsequences = {
   id: "01a06731-adac-7013-8821-b6405e23abbc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "breaker-of-horizons-0092-92-complications-and-consequences",
   title: "92. Complications and Consequences",
   story: "story-read/breaker-of-horizons",
