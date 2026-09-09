@@ -5,7 +5,7 @@ export const theBigBangTheorySeason11 = {
   pageTypeSlug: "season",
   slug: "the-big-bang-theory-season-11",
   title: "The Big Bang Theory Season 11",
-  partOfCollectionSlugs: ["the-big-bang-theory"],
+  partOfCollections: ["the-big-bang-theory"],
   position: 11,
   ownLength: 484.8,
   ownProgress: 0,

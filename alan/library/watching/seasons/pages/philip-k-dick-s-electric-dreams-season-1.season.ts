@@ -5,7 +5,7 @@ export const philipKDickSElectricDreamsSeason1 = {
   pageTypeSlug: "season",
   slug: "philip-k-dick-s-electric-dreams-season-1",
   title: "Philip K. Dick's Electric Dreams Season 1",
-  partOfCollectionSlugs: ["electric-dreams"],
+  partOfCollections: ["electric-dreams"],
   position: 1,
   ownLength: 502.8,
   ownProgress: 0,

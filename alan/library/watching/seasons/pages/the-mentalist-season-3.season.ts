@@ -5,7 +5,7 @@ export const theMentalistSeason3 = {
   pageTypeSlug: "season",
   slug: "the-mentalist-season-3",
   title: "The Mentalist Season 3",
-  partOfCollectionSlugs: ["the-mentalist"],
+  partOfCollections: ["the-mentalist"],
   position: 3,
   ownLength: 1019,
   ownProgress: 1019,

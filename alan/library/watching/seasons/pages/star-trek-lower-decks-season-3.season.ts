@@ -5,7 +5,7 @@ export const starTrekLowerDecksSeason3 = {
   pageTypeSlug: "season",
   slug: "star-trek-lower-decks-season-3",
   title: "Star Trek: Lower Decks Season 3",
-  partOfCollectionSlugs: ["star-trek-lower-decks"],
+  partOfCollections: ["star-trek-lower-decks"],
   position: 3,
   ownLength: 276,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const marvelSAgentsOfSHIELDSeason2 = {
   pageTypeSlug: "season",
   slug: "marvel-s-agents-of-s-h-i-e-l-d-season-2",
   title: "Marvel's Agents of S.H.I.E.L.D. Season 2",
-  partOfCollectionSlugs: ["agents-of-s-h-i-e-l-d"],
+  partOfCollections: ["agents-of-s-h-i-e-l-d"],
   position: 2,
   ownLength: 954,
   ownProgress: 954,

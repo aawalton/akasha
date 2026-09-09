@@ -5,7 +5,7 @@ export const torchwoodSeason2 = {
   pageTypeSlug: "season",
   slug: "torchwood-season-2",
   title: "Torchwood Season 2",
-  partOfCollectionSlugs: ["torchwood"],
+  partOfCollections: ["torchwood"],
   position: 2,
   ownLength: 645,
   ownProgress: 0,

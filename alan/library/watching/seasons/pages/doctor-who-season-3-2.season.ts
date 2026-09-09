@@ -5,7 +5,7 @@ export const doctorWhoSeason32 = {
   pageTypeSlug: "season",
   slug: "doctor-who-season-3-2",
   title: "Doctor Who Season 3",
-  partOfCollectionSlugs: ["doctor-who-1963-1989"],
+  partOfCollections: ["doctor-who-1963-1989"],
   position: 3,
   ownLength: 1110,
   ownProgress: 0,

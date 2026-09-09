@@ -5,7 +5,7 @@ export const dungeonsAndDragonsShows = {
   pageTypeSlug: "show-collection",
   slug: "dungeons-and-dragons-shows",
   title: "Dungeons and Dragons Shows",
-  partOfCollectionSlugs: ["dungeons-and-dragons"],
+  partOfCollections: ["dungeons-and-dragons"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

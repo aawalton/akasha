@@ -5,7 +5,7 @@ export const rwbyFairyTalesSeason1 = {
   pageTypeSlug: "season",
   slug: "rwby-fairy-tales-season-1",
   title: "RWBY: Fairy Tales Season 1",
-  partOfCollectionSlugs: ["rwby-fairy-tales"],
+  partOfCollections: ["rwby-fairy-tales"],
   position: 1,
   ownLength: 240,
   ownProgress: 0,

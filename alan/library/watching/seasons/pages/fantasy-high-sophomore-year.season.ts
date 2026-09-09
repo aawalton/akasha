@@ -5,7 +5,7 @@ export const fantasyHighSophomoreYear = {
   pageTypeSlug: "season",
   slug: "fantasy-high-sophomore-year",
   title: "Fantasy High: Sophomore Year",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 7,
   ownLength: 3124.8,
   ownProgress: 0,

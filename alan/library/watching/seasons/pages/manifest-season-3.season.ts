@@ -5,7 +5,7 @@ export const manifestSeason3 = {
   pageTypeSlug: "season",
   slug: "manifest-season-3",
   title: "Manifest Season 3",
-  partOfCollectionSlugs: ["manifest"],
+  partOfCollections: ["manifest"],
   position: 3,
   ownLength: 559,
   ownProgress: 0,

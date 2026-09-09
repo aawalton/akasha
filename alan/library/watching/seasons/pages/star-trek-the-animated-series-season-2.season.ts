@@ -5,7 +5,7 @@ export const starTrekTheAnimatedSeriesSeason2 = {
   pageTypeSlug: "season",
   slug: "star-trek-the-animated-series-season-2",
   title: "Star Trek: The Animated Series Season 2",
-  partOfCollectionSlugs: ["star-trek-the-animated-series"],
+  partOfCollections: ["star-trek-the-animated-series"],
   position: 2,
   ownLength: 144,
   ownProgress: 144,

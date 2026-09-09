@@ -5,7 +5,7 @@ export const theXFilesSeason4 = {
   pageTypeSlug: "season",
   slug: "the-x-files-season-4",
   title: "The X-Files Season 4",
-  partOfCollectionSlugs: ["the-x-files-1993-2002"],
+  partOfCollections: ["the-x-files-1993-2002"],
   position: 4,
   ownLength: 1076,
   ownProgress: 1076,

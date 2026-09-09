@@ -5,7 +5,7 @@ export const doctorWhoSeason8 = {
   pageTypeSlug: "season",
   slug: "doctor-who-season-8",
   title: "Doctor Who Season 8",
-  partOfCollectionSlugs: ["doctor-who-2005"],
+  partOfCollections: ["doctor-who-2005"],
   position: 8,
   ownLength: 592.2,
   ownProgress: 592.2,

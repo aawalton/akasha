@@ -5,7 +5,7 @@ export const stargateAtlantisSeason2 = {
   pageTypeSlug: "season",
   slug: "stargate-atlantis-season-2",
   title: "Stargate Atlantis Season 2",
-  partOfCollectionSlugs: ["stargate-atlantis"],
+  partOfCollections: ["stargate-atlantis"],
   position: 2,
   ownLength: 870,
   ownProgress: 0,

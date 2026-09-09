@@ -5,7 +5,7 @@ export const ruriRocksSeason1 = {
   pageTypeSlug: "season",
   slug: "ruri-rocks-season-1",
   title: "Ruri Rocks Season 1",
-  partOfCollectionSlugs: ["ruri-rocks"],
+  partOfCollections: ["ruri-rocks"],
   position: 1,
   ownLength: 312,
   ownProgress: 0,

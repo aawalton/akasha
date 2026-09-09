@@ -5,7 +5,7 @@ export const eurekaSeason5 = {
   pageTypeSlug: "season",
   slug: "eureka-season-5",
   title: "Eureka Season 5",
-  partOfCollectionSlugs: ["eureka"],
+  partOfCollections: ["eureka"],
   position: 5,
   ownLength: 559,
   ownProgress: 0,

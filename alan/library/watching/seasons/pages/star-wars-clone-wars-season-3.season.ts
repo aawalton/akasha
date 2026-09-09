@@ -5,7 +5,7 @@ export const starWarsCloneWarsSeason3 = {
   pageTypeSlug: "season",
   slug: "star-wars-clone-wars-season-3",
   title: "Star Wars: Clone Wars Season 3",
-  partOfCollectionSlugs: ["clone-wars"],
+  partOfCollections: ["clone-wars"],
   position: 3,
   ownLength: 60,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const pushingDaisiesSeason1 = {
   pageTypeSlug: "season",
   slug: "pushing-daisies-season-1",
   title: "Pushing Daisies Season 1",
-  partOfCollectionSlugs: ["pushing-daisies"],
+  partOfCollections: ["pushing-daisies"],
   position: 1,
   ownLength: 376.2,
   ownProgress: 376.2,

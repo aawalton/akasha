@@ -5,7 +5,7 @@ export const ncisNewOrleansSeason2 = {
   pageTypeSlug: "season",
   slug: "ncis-new-orleans-season-2",
   title: "NCIS: New Orleans Season 2",
-  partOfCollectionSlugs: ["ncis-new-orleans"],
+  partOfCollections: ["ncis-new-orleans"],
   position: 2,
   ownLength: 1080,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const ruriRocksSpecials = {
   pageTypeSlug: "season",
   slug: "ruri-rocks-specials",
   title: "Ruri Rocks Specials",
-  partOfCollectionSlugs: ["ruri-rocks"],
+  partOfCollections: ["ruri-rocks"],
   position: 0,
   ownLength: 36,
   ownProgress: 0,

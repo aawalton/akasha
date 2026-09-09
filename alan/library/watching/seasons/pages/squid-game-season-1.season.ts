@@ -5,7 +5,7 @@ export const squidGameSeason1 = {
   pageTypeSlug: "season",
   slug: "squid-game-season-1",
   title: "Squid Game Season 1",
-  partOfCollectionSlugs: ["squid-game"],
+  partOfCollections: ["squid-game"],
   position: 1,
   ownLength: 495,
   ownProgress: 0,

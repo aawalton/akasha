@@ -5,7 +5,7 @@ export const theBigBangTheorySeason8 = {
   pageTypeSlug: "season",
   slug: "the-big-bang-theory-season-8",
   title: "The Big Bang Theory Season 8",
-  partOfCollectionSlugs: ["the-big-bang-theory"],
+  partOfCollections: ["the-big-bang-theory"],
   position: 8,
   ownLength: 475.2,
   ownProgress: 0,

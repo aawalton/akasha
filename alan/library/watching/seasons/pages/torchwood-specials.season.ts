@@ -5,7 +5,7 @@ export const torchwoodSpecials = {
   pageTypeSlug: "season",
   slug: "torchwood-specials",
   title: "Torchwood Specials",
-  partOfCollectionSlugs: ["torchwood"],
+  partOfCollections: ["torchwood"],
   position: 0,
   ownLength: 34.2,
   ownProgress: 0,

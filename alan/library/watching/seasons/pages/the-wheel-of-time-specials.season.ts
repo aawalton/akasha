@@ -5,7 +5,7 @@ export const theWheelOfTimeSpecials = {
   pageTypeSlug: "season",
   slug: "the-wheel-of-time-specials",
   title: "The Wheel of Time Specials",
-  partOfCollectionSlugs: ["the-wheel-of-time"],
+  partOfCollections: ["the-wheel-of-time"],
   position: 0,
   ownLength: 316.2,
   ownProgress: 0,

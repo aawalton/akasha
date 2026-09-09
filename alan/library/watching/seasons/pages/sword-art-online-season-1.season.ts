@@ -5,7 +5,7 @@ export const swordArtOnlineSeason1 = {
   pageTypeSlug: "season",
   slug: "sword-art-online-season-1",
   title: "Sword Art Online (Season 1)",
-  partOfCollectionSlugs: ["sword-art-online-shows"],
+  partOfCollections: ["sword-art-online-shows"],
   position: 1,
   ownLength: 601.2,
   ownProgress: 601.2,

@@ -5,7 +5,7 @@ export const theMandalorianSeason2 = {
   pageTypeSlug: "season",
   slug: "the-mandalorian-season-2",
   title: "The Mandalorian Season 2",
-  partOfCollectionSlugs: ["the-mandalorian"],
+  partOfCollections: ["the-mandalorian"],
   position: 2,
   ownLength: 348,
   ownProgress: 0,

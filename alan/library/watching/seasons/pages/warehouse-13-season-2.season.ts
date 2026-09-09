@@ -5,7 +5,7 @@ export const warehouse13Season2 = {
   pageTypeSlug: "season",
   slug: "warehouse-13-season-2",
   title: "Warehouse 13 Season 2",
-  partOfCollectionSlugs: ["warehouse-13"],
+  partOfCollections: ["warehouse-13"],
   position: 2,
   ownLength: 570,
   ownProgress: 0,

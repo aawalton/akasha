@@ -5,7 +5,7 @@ export const rwbyVolume9 = {
   pageTypeSlug: "season",
   slug: "rwby-volume-9",
   title: "RWBY Volume 9",
-  partOfCollectionSlugs: ["rwby-2"],
+  partOfCollections: ["rwby-2"],
   position: 9,
   ownLength: 193.2,
   ownProgress: 0,

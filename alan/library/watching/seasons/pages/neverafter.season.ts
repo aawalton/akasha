@@ -5,7 +5,7 @@ export const neverafter = {
   pageTypeSlug: "season",
   slug: "neverafter",
   title: "Neverafter",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 16,
   ownLength: 2554.2,
   ownProgress: 0,

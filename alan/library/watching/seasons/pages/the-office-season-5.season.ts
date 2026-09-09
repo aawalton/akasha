@@ -5,7 +5,7 @@ export const theOfficeSeason5 = {
   pageTypeSlug: "season",
   slug: "the-office-season-5",
   title: "The Office Season 5",
-  partOfCollectionSlugs: ["the-office"],
+  partOfCollections: ["the-office"],
   position: 5,
   ownLength: 613.8,
   ownProgress: 0,

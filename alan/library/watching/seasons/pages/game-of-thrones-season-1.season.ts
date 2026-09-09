@@ -5,7 +5,7 @@ export const gameOfThronesSeason1 = {
   pageTypeSlug: "season",
   slug: "game-of-thrones-season-1",
   title: "Game of Thrones Season 1",
-  partOfCollectionSlugs: ["game-of-thrones"],
+  partOfCollections: ["game-of-thrones"],
   position: 1,
   ownLength: 567,
   ownProgress: 0,

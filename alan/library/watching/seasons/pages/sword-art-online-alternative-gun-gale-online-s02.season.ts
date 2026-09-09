@@ -8,7 +8,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS02 = {
   description:
     "Llenn, Pitohui, Fuka and M form team LPHM and participate in the 3rd Squad Jam. It's again a Battle Royal style play but with a twist. All the while, Llenn keeps asking herself why she continues to play a game that is essentially about killing other people.",
   position: 2,
-  partOfCollectionSlugs: ["sword-art-online-alternative-gun-gale-online"],
+  partOfCollections: ["sword-art-online-alternative-gun-gale-online"],
   publishedAt: "2024-10-04",
   posterPath: "/jfCmk1YBBXR4M1WzN3GHnNSekff.jpg",
   voteAverage: 7.4,

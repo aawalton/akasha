@@ -5,7 +5,7 @@ export const rwbySpecials = {
   pageTypeSlug: "season",
   slug: "rwby-specials",
   title: "RWBY Specials",
-  partOfCollectionSlugs: ["rwby-2"],
+  partOfCollections: ["rwby-2"],
   position: 0,
   ownLength: 126,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const sherlockSeason2 = {
   pageTypeSlug: "season",
   slug: "sherlock-season-2",
   title: "Sherlock Season 2",
-  partOfCollectionSlugs: ["sherlock"],
+  partOfCollections: ["sherlock"],
   position: 2,
   ownLength: 268.2,
   ownProgress: 268.2,

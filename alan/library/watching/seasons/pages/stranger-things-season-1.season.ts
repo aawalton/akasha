@@ -5,7 +5,7 @@ export const strangerThingsSeason1 = {
   pageTypeSlug: "season",
   slug: "stranger-things-season-1",
   title: "Stranger Things Season 1",
-  partOfCollectionSlugs: ["stranger-things"],
+  partOfCollections: ["stranger-things"],
   position: 1,
   ownLength: 397.8,
   ownProgress: 0,

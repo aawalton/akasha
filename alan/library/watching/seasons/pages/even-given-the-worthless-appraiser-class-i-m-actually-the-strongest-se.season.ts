@@ -5,7 +5,7 @@ export const evenGivenTheWorthlessAppraiserClassIMActuallyTheStrongestSe = {
   pageTypeSlug: "season",
   slug: "even-given-the-worthless-appraiser-class-i-m-actually-the-strongest-se",
   title: 'Even Given the Worthless "Appraiser" Class, I\'m Actually the Strongest Season 1',
-  partOfCollectionSlugs: ["even-given-the-worthless-appraiser-class-i-m-actually-the-strongest"],
+  partOfCollections: ["even-given-the-worthless-appraiser-class-i-m-actually-the-strongest"],
   position: 1,
   ownLength: 288,
   ownProgress: 288,

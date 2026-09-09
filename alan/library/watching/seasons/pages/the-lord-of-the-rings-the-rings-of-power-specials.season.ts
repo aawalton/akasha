@@ -5,7 +5,7 @@ export const theLordOfTheRingsTheRingsOfPowerSpecials = {
   pageTypeSlug: "season",
   slug: "the-lord-of-the-rings-the-rings-of-power-specials",
   title: "The Lord of the Rings: The Rings of Power Specials",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-the-rings-of-power"],
+  partOfCollections: ["the-lord-of-the-rings-the-rings-of-power"],
   position: 0,
   ownLength: 310.2,
   ownProgress: 0,

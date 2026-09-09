@@ -5,7 +5,7 @@ export const doctorWhoSeason26 = {
   pageTypeSlug: "season",
   slug: "doctor-who-season-26",
   title: "Doctor Who Season 26",
-  partOfCollectionSlugs: ["doctor-who-1963-1989"],
+  partOfCollections: ["doctor-who-1963-1989"],
   position: 26,
   ownLength: 349.8,
   ownProgress: 0,

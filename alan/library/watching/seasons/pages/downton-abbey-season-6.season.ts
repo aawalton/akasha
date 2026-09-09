@@ -5,7 +5,7 @@ export const downtonAbbeySeason6 = {
   pageTypeSlug: "season",
   slug: "downton-abbey-season-6",
   title: "Downton Abbey Season 6",
-  partOfCollectionSlugs: ["downton-abbey"],
+  partOfCollections: ["downton-abbey"],
   position: 6,
   ownLength: 445.2,
   ownProgress: 0,

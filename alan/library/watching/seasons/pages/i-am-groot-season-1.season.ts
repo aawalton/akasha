@@ -5,7 +5,7 @@ export const iAmGrootSeason1 = {
   pageTypeSlug: "season",
   slug: "i-am-groot-season-1",
   title: "I Am Groot Season 1",
-  partOfCollectionSlugs: ["i-am-groot"],
+  partOfCollections: ["i-am-groot"],
   position: 1,
   ownLength: 28.2,
   ownProgress: 28.2,

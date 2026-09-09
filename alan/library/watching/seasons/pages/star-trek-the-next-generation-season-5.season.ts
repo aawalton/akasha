@@ -5,7 +5,7 @@ export const starTrekTheNextGenerationSeason5 = {
   pageTypeSlug: "season",
   slug: "star-trek-the-next-generation-season-5",
   title: "Star Trek: The Next Generation Season 5",
-  partOfCollectionSlugs: ["star-trek-the-next-generation"],
+  partOfCollections: ["star-trek-the-next-generation"],
   position: 5,
   ownLength: 1195.8,
   ownProgress: 0,

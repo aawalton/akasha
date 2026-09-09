@@ -5,7 +5,7 @@ export const highPotentialSeason1 = {
   pageTypeSlug: "season",
   slug: "high-potential-season-1",
   title: "High Potential Season 1",
-  partOfCollectionSlugs: ["high-potential"],
+  partOfCollections: ["high-potential"],
   position: 1,
   ownLength: 576,
   ownProgress: 576,

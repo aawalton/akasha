@@ -5,7 +5,7 @@ export const starWarsRebelsSeason3 = {
   pageTypeSlug: "season",
   slug: "star-wars-rebels-season-3",
   title: "Star Wars Rebels Season 3",
-  partOfCollectionSlugs: ["star-wars-rebels"],
+  partOfCollections: ["star-wars-rebels"],
   position: 3,
   ownLength: 523.8,
   ownProgress: 0,

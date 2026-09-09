@@ -5,7 +5,7 @@ export const soloLevelingSpecials = {
   pageTypeSlug: "season",
   slug: "solo-leveling-specials",
   title: "Solo Leveling Specials",
-  partOfCollectionSlugs: ["solo-leveling"],
+  partOfCollections: ["solo-leveling"],
   position: 0,
   ownLength: 24,
   ownProgress: 0,

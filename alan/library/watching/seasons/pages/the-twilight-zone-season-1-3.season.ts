@@ -5,7 +5,7 @@ export const theTwilightZoneSeason13 = {
   pageTypeSlug: "season",
   slug: "the-twilight-zone-season-1-3",
   title: "The Twilight Zone Season 1",
-  partOfCollectionSlugs: ["the-twilight-zone-2019"],
+  partOfCollections: ["the-twilight-zone-2019"],
   position: 1,
   ownLength: 454,
   ownProgress: 0,

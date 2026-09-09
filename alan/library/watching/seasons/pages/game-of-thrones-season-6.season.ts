@@ -5,7 +5,7 @@ export const gameOfThronesSeason6 = {
   pageTypeSlug: "season",
   slug: "game-of-thrones-season-6",
   title: "Game of Thrones Season 6",
-  partOfCollectionSlugs: ["game-of-thrones"],
+  partOfCollections: ["game-of-thrones"],
   position: 6,
   ownLength: 564,
   ownProgress: 0,

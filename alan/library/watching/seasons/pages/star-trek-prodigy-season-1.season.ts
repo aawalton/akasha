@@ -5,7 +5,7 @@ export const starTrekProdigySeason1 = {
   pageTypeSlug: "season",
   slug: "star-trek-prodigy-season-1",
   title: "Star Trek: Prodigy Season 1",
-  partOfCollectionSlugs: ["star-trek-prodigy"],
+  partOfCollections: ["star-trek-prodigy"],
   position: 1,
   ownLength: 475.8,
   ownProgress: 0,

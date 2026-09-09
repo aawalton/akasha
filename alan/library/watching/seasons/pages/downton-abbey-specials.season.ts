@@ -5,7 +5,7 @@ export const downtonAbbeySpecials = {
   pageTypeSlug: "season",
   slug: "downton-abbey-specials",
   title: "Downton Abbey Specials",
-  partOfCollectionSlugs: ["downton-abbey"],
+  partOfCollections: ["downton-abbey"],
   position: 0,
   ownLength: 838.8,
   ownProgress: 0,

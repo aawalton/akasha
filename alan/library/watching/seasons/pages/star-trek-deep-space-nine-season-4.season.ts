@@ -5,7 +5,7 @@ export const starTrekDeepSpaceNineSeason4 = {
   pageTypeSlug: "season",
   slug: "star-trek-deep-space-nine-season-4",
   title: "Star Trek: Deep Space Nine Season 4",
-  partOfCollectionSlugs: ["star-trek-deep-space-nine"],
+  partOfCollections: ["star-trek-deep-space-nine"],
   position: 4,
   ownLength: 1170,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const marvelSInhumansSeason1 = {
   pageTypeSlug: "season",
   slug: "marvel-s-inhumans-season-1",
   title: "Marvel's Inhumans Season 1",
-  partOfCollectionSlugs: ["inhumans"],
+  partOfCollections: ["inhumans"],
   position: 1,
   ownLength: 354,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const lokiSeason2 = {
   pageTypeSlug: "season",
   slug: "loki-season-2",
   title: "Loki Season 2",
-  partOfCollectionSlugs: ["marvel-cinematic-universe"],
+  partOfCollections: ["marvel-cinematic-universe"],
   position: 44,
   ownLength: 313.2,
   ownProgress: 313.2,

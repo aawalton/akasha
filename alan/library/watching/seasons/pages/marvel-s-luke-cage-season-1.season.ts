@@ -5,7 +5,7 @@ export const marvelSLukeCageSeason1 = {
   pageTypeSlug: "season",
   slug: "marvel-s-luke-cage-season-1",
   title: "Marvel's Luke Cage Season 1",
-  partOfCollectionSlugs: ["luke-cage"],
+  partOfCollections: ["luke-cage"],
   position: 1,
   ownLength: 703.8,
   ownProgress: 0,

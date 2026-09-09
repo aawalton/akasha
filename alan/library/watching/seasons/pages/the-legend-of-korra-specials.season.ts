@@ -5,7 +5,7 @@ export const theLegendOfKorraSpecials = {
   pageTypeSlug: "season",
   slug: "the-legend-of-korra-specials",
   title: "The Legend of Korra Specials",
-  partOfCollectionSlugs: ["the-legend-of-korra"],
+  partOfCollections: ["the-legend-of-korra"],
   position: 0,
   ownLength: 358.2,
   ownProgress: 0,

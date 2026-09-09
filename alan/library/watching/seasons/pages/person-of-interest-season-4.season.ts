@@ -5,7 +5,7 @@ export const personOfInterestSeason4 = {
   pageTypeSlug: "season",
   slug: "person-of-interest-season-4",
   title: "Person of Interest Season 4",
-  partOfCollectionSlugs: ["person-of-interest"],
+  partOfCollections: ["person-of-interest"],
   position: 4,
   ownLength: 967,
   ownProgress: 0,

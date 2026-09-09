@@ -5,7 +5,7 @@ export const whiteCollarSeason1 = {
   pageTypeSlug: "season",
   slug: "white-collar-season-1",
   title: "White Collar Season 1",
-  partOfCollectionSlugs: ["white-collar"],
+  partOfCollections: ["white-collar"],
   position: 1,
   ownLength: 616.2,
   ownProgress: 616.2,

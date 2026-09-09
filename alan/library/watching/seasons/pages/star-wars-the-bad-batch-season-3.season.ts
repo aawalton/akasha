@@ -5,7 +5,7 @@ export const starWarsTheBadBatchSeason3 = {
   pageTypeSlug: "season",
   slug: "star-wars-the-bad-batch-season-3",
   title: "Star Wars: The Bad Batch Season 3",
-  partOfCollectionSlugs: ["star-wars-the-bad-batch"],
+  partOfCollections: ["star-wars-the-bad-batch"],
   position: 3,
   ownLength: 423,
   ownProgress: 0,

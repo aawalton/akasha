@@ -5,7 +5,7 @@ export const theLoneGunmenSpecials = {
   pageTypeSlug: "season",
   slug: "the-lone-gunmen-specials",
   title: "The Lone Gunmen Specials",
-  partOfCollectionSlugs: ["the-lone-gunmen-2001"],
+  partOfCollections: ["the-lone-gunmen-2001"],
   position: 0,
   ownLength: 90,
   ownProgress: 0,

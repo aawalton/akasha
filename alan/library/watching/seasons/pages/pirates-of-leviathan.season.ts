@@ -5,7 +5,7 @@ export const piratesOfLeviathan = {
   pageTypeSlug: "season",
   slug: "pirates-of-leviathan",
   title: "Pirates of Leviathan",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 6,
   ownLength: 784.2,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const doctorWhoSpecials = {
   pageTypeSlug: "season",
   slug: "doctor-who-specials",
   title: "Doctor Who Specials",
-  partOfCollectionSlugs: ["doctor-who-1963-1989"],
+  partOfCollections: ["doctor-who-1963-1989"],
   position: 0,
   ownLength: 14920.2,
   ownProgress: 0,

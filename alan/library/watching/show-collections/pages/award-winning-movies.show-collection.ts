@@ -5,7 +5,7 @@ export const awardWinningMovies = {
   pageTypeSlug: "show-collection",
   slug: "award-winning-movies",
   title: "Award-winning Movies",
-  partOfCollectionSlugs: ["shows"],
+  partOfCollections: ["shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

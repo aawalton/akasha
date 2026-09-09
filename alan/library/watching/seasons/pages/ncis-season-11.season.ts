@@ -5,7 +5,7 @@ export const ncisSeason11 = {
   pageTypeSlug: "season",
   slug: "ncis-season-11",
   title: "NCIS Season 11",
-  partOfCollectionSlugs: ["ncis"],
+  partOfCollections: ["ncis"],
   position: 11,
   ownLength: 1029,
   ownProgress: 0,

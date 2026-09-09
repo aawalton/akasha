@@ -5,7 +5,7 @@ export const theLordOfTheRingsTheRingsOfPowerSeason2 = {
   pageTypeSlug: "season",
   slug: "the-lord-of-the-rings-the-rings-of-power-season-2",
   title: "The Lord of the Rings: The Rings of Power Season 2",
-  partOfCollectionSlugs: ["the-lord-of-the-rings-the-rings-of-power"],
+  partOfCollections: ["the-lord-of-the-rings-the-rings-of-power"],
   position: 2,
   ownLength: 546,
   ownProgress: 0,

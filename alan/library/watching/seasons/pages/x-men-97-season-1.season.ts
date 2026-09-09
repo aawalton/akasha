@@ -5,7 +5,7 @@ export const xMen97Season1 = {
   pageTypeSlug: "season",
   slug: "x-men-97-season-1",
   title: "X-Men '97 Season 1",
-  partOfCollectionSlugs: ["x-men-97"],
+  partOfCollections: ["x-men-97"],
   position: 1,
   ownLength: 343.2,
   ownProgress: 0,

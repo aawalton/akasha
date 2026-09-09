@@ -5,7 +5,7 @@ export const wednesdaySeason2 = {
   pageTypeSlug: "season",
   slug: "wednesday-season-2",
   title: "Wednesday Season 2",
-  partOfCollectionSlugs: ["wednesday"],
+  partOfCollections: ["wednesday"],
   position: 2,
   ownLength: 471,
   ownProgress: 471,

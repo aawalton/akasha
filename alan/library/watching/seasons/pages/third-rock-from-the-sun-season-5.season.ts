@@ -5,7 +5,7 @@ export const thirdRockFromTheSunSeason5 = {
   pageTypeSlug: "season",
   slug: "third-rock-from-the-sun-season-5",
   title: "3rd Rock from the Sun Season 5",
-  partOfCollectionSlugs: ["third-rock-from-the-sun"],
+  partOfCollections: ["third-rock-from-the-sun"],
   position: 5,
   ownLength: 484,
   ownProgress: 0,

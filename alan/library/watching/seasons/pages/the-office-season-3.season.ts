@@ -5,7 +5,7 @@ export const theOfficeSeason3 = {
   pageTypeSlug: "season",
   slug: "the-office-season-3",
   title: "The Office Season 3",
-  partOfCollectionSlugs: ["the-office"],
+  partOfCollections: ["the-office"],
   position: 3,
   ownLength: 565.2,
   ownProgress: 0,

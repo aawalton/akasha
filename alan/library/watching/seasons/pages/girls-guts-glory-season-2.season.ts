@@ -5,7 +5,7 @@ export const girlsGutsGlorySeason2 = {
   pageTypeSlug: "season",
   slug: "girls-guts-glory-season-2",
   title: "Girls Guts Glory Season 2",
-  partOfCollectionSlugs: ["girls-guts-glory"],
+  partOfCollections: ["girls-guts-glory"],
   position: 2,
   ownLength: 420,
   ownProgress: 420,

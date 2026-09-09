@@ -5,7 +5,7 @@ export const animeShows = {
   pageTypeSlug: "show-collection",
   slug: "anime-shows",
   title: "Anime Shows",
-  partOfCollectionSlugs: ["shows"],
+  partOfCollections: ["shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

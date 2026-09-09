@@ -5,7 +5,7 @@ export const severanceSpecials = {
   pageTypeSlug: "season",
   slug: "severance-specials",
   title: "Severance Specials",
-  partOfCollectionSlugs: ["severance"],
+  partOfCollections: ["severance"],
   position: 0,
   ownLength: 7,
   ownProgress: 0,

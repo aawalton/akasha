@@ -5,7 +5,7 @@ export const theBookOfBobaFettMiniseries = {
   pageTypeSlug: "season",
   slug: "the-book-of-boba-fett-miniseries",
   title: "The Book of Boba Fett Miniseries",
-  partOfCollectionSlugs: ["the-book-of-boba-fett"],
+  partOfCollections: ["the-book-of-boba-fett"],
   position: 1,
   ownLength: 346.8,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const awardWinningShows = {
   pageTypeSlug: "show-collection",
   slug: "award-winning-shows",
   title: "Award-winning Shows",
-  partOfCollectionSlugs: ["shows"],
+  partOfCollections: ["shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

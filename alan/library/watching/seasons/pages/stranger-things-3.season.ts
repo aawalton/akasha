@@ -5,7 +5,7 @@ export const strangerThings3 = {
   pageTypeSlug: "season",
   slug: "stranger-things-3",
   title: "Stranger Things 3",
-  partOfCollectionSlugs: ["stranger-things"],
+  partOfCollections: ["stranger-things"],
   position: 3,
   ownLength: 451.2,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const mentopolis = {
   pageTypeSlug: "season",
   slug: "mentopolis",
   title: "Mentopolis",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 19,
   ownLength: 751.2,
   ownProgress: 0,

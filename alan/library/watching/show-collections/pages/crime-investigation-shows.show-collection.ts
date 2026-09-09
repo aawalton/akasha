@@ -5,7 +5,7 @@ export const crimeInvestigationShows = {
   pageTypeSlug: "show-collection",
   slug: "crime-investigation-shows",
   title: "Crime Investigation Shows",
-  partOfCollectionSlugs: ["shows"],
+  partOfCollections: ["shows"],
   position: 0,
   ownLength: 0,
   ownProgress: 0,

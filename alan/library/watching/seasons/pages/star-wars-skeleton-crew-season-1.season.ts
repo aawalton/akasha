@@ -5,7 +5,7 @@ export const starWarsSkeletonCrewSeason1 = {
   pageTypeSlug: "season",
   slug: "star-wars-skeleton-crew-season-1",
   title: "Star Wars: Skeleton Crew Season 1",
-  partOfCollectionSlugs: ["skeleton-crew"],
+  partOfCollections: ["skeleton-crew"],
   position: 1,
   ownLength: 316.2,
   ownProgress: 0,

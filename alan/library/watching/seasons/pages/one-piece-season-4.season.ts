@@ -5,7 +5,7 @@ export const onePieceSeason4 = {
   pageTypeSlug: "season",
   slug: "one-piece-season-4",
   title: "One Piece Season 4",
-  partOfCollectionSlugs: ["one-piece"],
+  partOfCollections: ["one-piece"],
   position: 4,
   ownLength: 936,
   ownProgress: 0,

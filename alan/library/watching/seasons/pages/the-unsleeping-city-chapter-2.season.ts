@@ -5,7 +5,7 @@ export const theUnsleepingCityChapter2 = {
   pageTypeSlug: "season",
   slug: "the-unsleeping-city-chapter-2",
   title: "The Unsleeping City: Chapter 2",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 8,
   ownLength: 2563.8,
   ownProgress: 0,

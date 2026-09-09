@@ -5,7 +5,7 @@ export const theLoneGunmenSeason1 = {
   pageTypeSlug: "season",
   slug: "the-lone-gunmen-season-1",
   title: "The Lone Gunmen Season 1",
-  partOfCollectionSlugs: ["the-lone-gunmen-2001"],
+  partOfCollections: ["the-lone-gunmen-2001"],
   position: 1,
   ownLength: 585,
   ownProgress: 585,

@@ -5,7 +5,7 @@ export const misfitsAndMagicSeason2 = {
   pageTypeSlug: "season",
   slug: "misfits-and-magic-season-2",
   title: "Misfits and Magic Season 2",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 23,
   ownLength: 1405.8,
   ownProgress: 0,

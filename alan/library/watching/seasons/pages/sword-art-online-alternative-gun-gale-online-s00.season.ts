@@ -6,7 +6,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineS00 = {
   slug: "sword-art-online-alternative-gun-gale-online-s00",
   title: "Specials",
   position: 0,
-  partOfCollectionSlugs: ["sword-art-online-alternative-gun-gale-online"],
+  partOfCollections: ["sword-art-online-alternative-gun-gale-online"],
   publishedAt: "2018-05-13",
   posterPath: "/1EBk96E3cVVOEVlx2z744oEuFQk.jpg",
   voteAverage: 0,

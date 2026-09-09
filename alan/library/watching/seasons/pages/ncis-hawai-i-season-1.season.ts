@@ -5,7 +5,7 @@ export const ncisHawaiISeason1 = {
   pageTypeSlug: "season",
   slug: "ncis-hawai-i-season-1",
   title: "NCIS: Hawai'i Season 1",
-  partOfCollectionSlugs: ["ncis-hawai-i"],
+  partOfCollections: ["ncis-hawai-i"],
   position: 1,
   ownLength: 928.2,
   ownProgress: 0,

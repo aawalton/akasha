@@ -5,7 +5,7 @@ export const starTrekSeason1 = {
   pageTypeSlug: "season",
   slug: "star-trek-season-1",
   title: "Star Trek Season 1",
-  partOfCollectionSlugs: ["star-trek-2"],
+  partOfCollections: ["star-trek-2"],
   position: 1,
   ownLength: 1453.8,
   ownProgress: 1453.8,

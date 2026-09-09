@@ -5,7 +5,7 @@ export const swordArtOnlineIiSeason2 = {
   pageTypeSlug: "season",
   slug: "sword-art-online-ii-season-2",
   title: "Sword Art Online II (Season 2)",
-  partOfCollectionSlugs: ["sword-art-online-shows"],
+  partOfCollections: ["sword-art-online-shows"],
   position: 2,
   ownLength: 576,
   ownProgress: 576,

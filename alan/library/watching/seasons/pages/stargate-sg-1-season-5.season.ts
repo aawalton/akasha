@@ -5,7 +5,7 @@ export const stargateSg1Season5 = {
   pageTypeSlug: "season",
   slug: "stargate-sg-1-season-5",
   title: "Stargate SG-1 Season 5",
-  partOfCollectionSlugs: ["stargate-sg-1"],
+  partOfCollections: ["stargate-sg-1"],
   position: 5,
   ownLength: 967.8,
   ownProgress: 0,

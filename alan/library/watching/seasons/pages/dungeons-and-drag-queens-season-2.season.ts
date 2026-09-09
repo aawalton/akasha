@@ -5,7 +5,7 @@ export const dungeonsAndDragQueensSeason2 = {
   pageTypeSlug: "season",
   slug: "dungeons-and-drag-queens-season-2",
   title: "Dungeons and Drag Queens Season 2",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 24,
   ownLength: 876,
   ownProgress: 0,

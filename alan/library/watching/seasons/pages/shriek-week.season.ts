@@ -5,7 +5,7 @@ export const shriekWeek = {
   pageTypeSlug: "season",
   slug: "shriek-week",
   title: "Shriek Week",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 12,
   ownLength: 472.2,
   ownProgress: 0,

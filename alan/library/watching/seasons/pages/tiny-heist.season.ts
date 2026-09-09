@@ -5,7 +5,7 @@ export const tinyHeist = {
   pageTypeSlug: "season",
   slug: "tiny-heist",
   title: "Tiny Heist",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 4,
   ownLength: 750,
   ownProgress: 0,

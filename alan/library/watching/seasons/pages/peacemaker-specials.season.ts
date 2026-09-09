@@ -5,7 +5,7 @@ export const peacemakerSpecials = {
   pageTypeSlug: "season",
   slug: "peacemaker-specials",
   title: "Peacemaker Specials",
-  partOfCollectionSlugs: ["peacemaker"],
+  partOfCollections: ["peacemaker"],
   position: 0,
   ownLength: 55.8,
   ownProgress: 0,

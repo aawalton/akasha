@@ -5,7 +5,7 @@ export const swordArtOnlineAlternativeGunGaleOnlineSeason1 = {
   pageTypeSlug: "season",
   slug: "sword-art-online-alternative-gun-gale-online-season-1",
   title: "Sword Art Online Alternative: Gun Gale Online Season 1",
-  partOfCollectionSlugs: ["sword-art-online-alternative-gun-gale-online"],
+  partOfCollections: ["sword-art-online-alternative-gun-gale-online"],
   position: 1,
   ownLength: 288,
   ownProgress: 288,

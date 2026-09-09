@@ -5,7 +5,7 @@ export const marvelSThePunisherSeason1 = {
   pageTypeSlug: "season",
   slug: "marvel-s-the-punisher-season-1",
   title: "Marvel's The Punisher Season 1",
-  partOfCollectionSlugs: ["the-punisher"],
+  partOfCollections: ["the-punisher"],
   position: 1,
   ownLength: 699,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const studioCSeason7 = {
   pageTypeSlug: "season",
   slug: "studio-c-season-7",
   title: "Studio C Season 7",
-  partOfCollectionSlugs: ["studio-c"],
+  partOfCollections: ["studio-c"],
   position: 7,
   ownLength: 463.8,
   ownProgress: 463.8,

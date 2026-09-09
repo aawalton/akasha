@@ -5,7 +5,7 @@ export const stevenUniverseSeason4 = {
   pageTypeSlug: "season",
   slug: "steven-universe-season-4",
   title: "Steven Universe Season 4",
-  partOfCollectionSlugs: ["steven-universe"],
+  partOfCollections: ["steven-universe"],
   position: 4,
   ownLength: 298.8,
   ownProgress: 0,

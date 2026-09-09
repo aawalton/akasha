@@ -5,7 +5,7 @@ export const starTrekDiscoverySeason5 = {
   pageTypeSlug: "season",
   slug: "star-trek-discovery-season-5",
   title: "Star Trek: Discovery Season 5",
-  partOfCollectionSlugs: ["star-trek-discovery"],
+  partOfCollections: ["star-trek-discovery"],
   position: 5,
   ownLength: 580.8,
   ownProgress: 0,

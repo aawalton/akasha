@@ -5,7 +5,7 @@ export const starTrekLowerDecksSeason4 = {
   pageTypeSlug: "season",
   slug: "star-trek-lower-decks-season-4",
   title: "Star Trek: Lower Decks Season 4",
-  partOfCollectionSlugs: ["star-trek-lower-decks"],
+  partOfCollections: ["star-trek-lower-decks"],
   position: 4,
   ownLength: 264,
   ownProgress: 0,

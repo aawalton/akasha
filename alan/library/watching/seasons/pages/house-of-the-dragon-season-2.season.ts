@@ -5,7 +5,7 @@ export const houseOfTheDragonSeason2 = {
   pageTypeSlug: "season",
   slug: "house-of-the-dragon-season-2",
   title: "House of the Dragon Season 2",
-  partOfCollectionSlugs: ["house-of-the-dragon"],
+  partOfCollections: ["house-of-the-dragon"],
   position: 2,
   ownLength: 516,
   ownProgress: 0,

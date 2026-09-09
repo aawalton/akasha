@@ -5,7 +5,7 @@ export const starWarsTalesOfTheJediMiniseries = {
   pageTypeSlug: "season",
   slug: "star-wars-tales-of-the-jedi-miniseries",
   title: "Star Wars: Tales of the Jedi Miniseries",
-  partOfCollectionSlugs: ["star-wars-tales-of-the-jedi"],
+  partOfCollections: ["star-wars-tales-of-the-jedi"],
   position: 1,
   ownLength: 99,
   ownProgress: 0,

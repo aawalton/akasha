@@ -5,7 +5,7 @@ export const starTrekPicardSeason2 = {
   pageTypeSlug: "season",
   slug: "star-trek-picard-season-2",
   title: "Star Trek: Picard Season 2",
-  partOfCollectionSlugs: ["star-trek-picard"],
+  partOfCollections: ["star-trek-picard"],
   position: 2,
   ownLength: 481.2,
   ownProgress: 0,

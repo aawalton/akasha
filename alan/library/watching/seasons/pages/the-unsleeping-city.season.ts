@@ -5,7 +5,7 @@ export const theUnsleepingCity = {
   pageTypeSlug: "season",
   slug: "the-unsleeping-city",
   title: "The Unsleeping City",
-  partOfCollectionSlugs: ["dimension-20"],
+  partOfCollections: ["dimension-20"],
   position: 3,
   ownLength: 2061,
   ownProgress: 0,

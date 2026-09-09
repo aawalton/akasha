@@ -5,7 +5,7 @@ export const starWarsAndorSpecials = {
   pageTypeSlug: "season",
   slug: "star-wars-andor-specials",
   title: "Star Wars: Andor Specials",
-  partOfCollectionSlugs: ["andor"],
+  partOfCollections: ["andor"],
   position: 0,
   ownLength: 250.2,
   ownProgress: 0,

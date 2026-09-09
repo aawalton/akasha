@@ -5,7 +5,7 @@ export const starWarsTheCloneWarsSpecials = {
   pageTypeSlug: "season",
   slug: "star-wars-the-clone-wars-specials",
   title: "Star Wars: The Clone Wars Specials",
-  partOfCollectionSlugs: ["star-wars-the-clone-wars"],
+  partOfCollections: ["star-wars-the-clone-wars"],
   position: 0,
   ownLength: 1227,
   ownProgress: 0,

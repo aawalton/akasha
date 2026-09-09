@@ -5,7 +5,7 @@ export const marvelSRunawaysSeason2 = {
   pageTypeSlug: "season",
   slug: "marvel-s-runaways-season-2",
   title: "Marvel's Runaways Season 2",
-  partOfCollectionSlugs: ["runaways"],
+  partOfCollections: ["runaways"],
   position: 2,
   ownLength: 627,
   ownProgress: 0,

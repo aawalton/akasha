@@ -5,7 +5,7 @@ export const starTrekShortTreksSeason2 = {
   pageTypeSlug: "season",
   slug: "star-trek-short-treks-season-2",
   title: "Star Trek: Short Treks Season 2",
-  partOfCollectionSlugs: ["star-trek-short-treks"],
+  partOfCollections: ["star-trek-short-treks"],
   position: 2,
   ownLength: 61.2,
   ownProgress: 0,

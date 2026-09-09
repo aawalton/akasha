@@ -5,7 +5,7 @@ export const ncisOriginsSeason1 = {
   pageTypeSlug: "season",
   slug: "ncis-origins-season-1",
   title: "NCIS: Origins Season 1",
-  partOfCollectionSlugs: ["ncis-origins"],
+  partOfCollections: ["ncis-origins"],
   position: 1,
   ownLength: 790.2,
   ownProgress: 0,

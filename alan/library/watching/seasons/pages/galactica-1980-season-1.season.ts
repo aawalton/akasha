@@ -5,7 +5,7 @@ export const galactica1980Season1 = {
   pageTypeSlug: "season",
   slug: "galactica-1980-season-1",
   title: "Galactica 1980 Season 1",
-  partOfCollectionSlugs: ["galactica-1980"],
+  partOfCollections: ["galactica-1980"],
   position: 1,
   ownLength: 490.2,
   ownProgress: 0,
