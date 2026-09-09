@@ -1,16 +1,15 @@
 import { DesignSystemPageContent } from "@akasha/design-system/design-system-page-content"
-import type { Route } from "./+types/design"
 
 export function meta() {
   return [{ title: "Design System" }]
 }
 
-export function loader({ request }: Route.LoaderArgs) {
+export function loader({ request }: { request: Request }) {
   const url = new URL(request.url)
   const tab = url.searchParams.get("tab") ?? undefined
   return { tab }
 }
 
-export default function DesignRoute({ loaderData }: Route.ComponentProps) {
+export default function DesignRoute({ loaderData }: { loaderData: { tab: string | undefined } }) {
   return <DesignSystemPageContent initialTab={loaderData.tab} />
 }

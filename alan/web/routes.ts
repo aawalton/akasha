@@ -4,7 +4,7 @@ export default [
   layout("routes/_app-layout.tsx", [
     route("home", "routes/home.tsx"),
     route("principles", "routes/alan-web-principles/alan-web-principles.route.code.tsx"),
-    route("design", "routes/design.tsx"),
+    route("design", "routes/alan-web-design/alan-web-design.route.code.tsx"),
     route(":pageTypeSlug/:pageHrefParam", "routes/page-detail.tsx"),
     route(":pageTypeSlug", "routes/page-listing.tsx"),
   ]),
@@ -18,7 +18,7 @@ export default [
   route("sign-in", "routes/alan-web-sign-in/alan-web-sign-in.route.code.tsx"),
   route("sign-up", "routes/alan-web-sign-up/alan-web-sign-up.route.code.tsx"),
   route("sign-out", "routes/alan-web-sign-out/alan-web-sign-out.route.code.ts"),
-  route("idle", "routes/idle.ts"),
+  route("idle", "routes/alan-web-idle/alan-web-idle.route.code.ts"),
   route("api/health", "routes/alan-web-api-health/alan-web-api-health.route.code.ts"),
   route("api/pages-ready", "routes/pages-ready/pages-ready.route.code.ts"),
   route(
