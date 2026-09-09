@@ -1,10 +1,13 @@
 import { readFile, writeFile } from "node:fs/promises"
-import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
+import {
+  ensureOutputDir,
+  resolveOutputPath,
+} from "akasha/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import {
   buildSegmentFields,
   deriveSiblingPath,
   runSegment,
-} from "@akasha/inference-clients/segment-client"
+} from "akasha/inference/clients/segment-client/segment-client.module.code.ts"
 import {
   buildInferenceRunRecord,
   sha256Hex,

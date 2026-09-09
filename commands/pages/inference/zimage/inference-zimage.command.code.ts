@@ -2,8 +2,11 @@ import { createHash } from "node:crypto"
 import { copyFile, mkdir, rename, stat, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
-import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
-import { drawSeed } from "@akasha/inference-clients/inference-seed"
+import {
+  fetchImage,
+  runComfyGraph,
+} from "akasha/inference/clients/comfy-client/comfy-client.module.code.ts"
+import { drawSeed } from "akasha/inference/clients/inference-seed/inference-seed.module.code.ts"
 import { buildModelGraph } from "akasha/inference/generations/zimage/graph/zimage-graph.module.code.ts"
 import {
   MODEL_IDS,

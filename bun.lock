@@ -18,7 +18,6 @@
         "@akasha/git": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/inference-clients": "workspace:*",
         "@akasha/mobile-cli": "workspace:*",
         "@akasha/object-store": "workspace:*",
         "@akasha/pages": "workspace:*",
@@ -408,7 +407,6 @@
         "@akasha/code": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/indexes": "workspace:*",
-        "@akasha/inference-clients": "workspace:*",
         "@akasha/seat-system": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
@@ -573,14 +571,6 @@
         "@akasha/code": "workspace:*",
         "@akasha/domains": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "inference/clients": {
-      "name": "@akasha/inference-clients",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/errors-core": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -1225,8 +1215,6 @@
     "@akasha/idle-system": ["@akasha/idle-system@workspace:alan/harness/idle-system"],
 
     "@akasha/indexes": ["@akasha/indexes@workspace:pages/indexes"],
-
-    "@akasha/inference-clients": ["@akasha/inference-clients@workspace:inference/clients"],
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:alan/harness/location-traces-access"],
 

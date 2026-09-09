@@ -1,7 +1,10 @@
 import { setTimeout as sleep } from "node:timers/promises"
-import { runMusic } from "@akasha/inference-clients/ace-step-client"
-import { resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
-import { drawSeed, resolveSeed } from "@akasha/inference-clients/inference-seed"
+import { runMusic } from "akasha/inference/clients/ace-step-client/ace-step-client.module.code.ts"
+import { resolveOutputPath } from "akasha/inference/clients/inference-output-path/inference-output-path.module.code.ts"
+import {
+  drawSeed,
+  resolveSeed,
+} from "akasha/inference/clients/inference-seed/inference-seed.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
 import { recordInferenceRun } from "akasha/inference/runs/store/inference-run-store.module.code.ts"
 import {

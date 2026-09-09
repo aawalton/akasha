@@ -1,8 +1,11 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, dirname, join } from "node:path"
-import { fetchImage, runComfyGraph } from "@akasha/inference-clients/comfy-client"
-import { drawSeed } from "@akasha/inference-clients/inference-seed"
+import {
+  fetchImage,
+  runComfyGraph,
+} from "akasha/inference/clients/comfy-client/comfy-client.module.code.ts"
+import { drawSeed } from "akasha/inference/clients/inference-seed/inference-seed.module.code.ts"
 import {
   WAN_DEFAULT_NEGATIVE_PROMPT,
   WAN_FPS,

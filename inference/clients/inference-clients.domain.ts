@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const inferenceClients = {
   id: "01a0682d-8f07-7000-ab6b-b7ebbf0863a0",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "inference-clients",
   definition: "how a caller reaches a model service and reads back what that service made",
-  manifest: "json",
   parts: [
     "module/ace-step-client",
     "module/comfy-client",
@@ -39,4 +38,4 @@ export const inferenceClients = {
       statement: "Nothing here knows which host a service is on.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -1,7 +1,10 @@
 import { readFile, writeFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { join } from "node:path"
-import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
+import {
+  ensureOutputDir,
+  resolveOutputPath,
+} from "akasha/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import { runClusterUpscale } from "akasha/inference/generations/upscale/cluster/upscale-cluster.module.code.ts"
 import { runWorkstationUpscale } from "akasha/inference/generations/upscale/workstation/upscale-workstation.module.code.ts"
 import {

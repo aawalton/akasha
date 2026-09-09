@@ -1,11 +1,14 @@
 import { readFile, writeFile } from "node:fs/promises"
-import type { GeminiImageConfig } from "@akasha/inference-clients/gemini-image-client"
+import type { GeminiImageConfig } from "akasha/inference/clients/gemini-image-client/gemini-image-client.module.code.ts"
 import {
   imageFormatForPath,
   runGeminiEdit,
   transcodeImage,
-} from "@akasha/inference-clients/gemini-image-client"
-import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
+} from "akasha/inference/clients/gemini-image-client/gemini-image-client.module.code.ts"
+import {
+  ensureOutputDir,
+  resolveOutputPath,
+} from "akasha/inference/clients/inference-output-path/inference-output-path.module.code.ts"
 import {
   buildInferenceRunRecord,
   sha256Hex,

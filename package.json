@@ -42,7 +42,6 @@
     "@akasha/seat-system": "workspace:*",
     "@akasha/pages": "workspace:*",
     "@akasha/rules-engine": "workspace:*",
-    "@akasha/inference-clients": "workspace:*",
     "@akasha/mobile-cli": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages-service": "workspace:*",

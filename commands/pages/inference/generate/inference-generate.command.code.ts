@@ -1,11 +1,17 @@
 import { writeFile } from "node:fs/promises"
-import { ensureOutputDir, resolveOutputPath } from "@akasha/inference-clients/inference-output-path"
-import { drawSeed, resolveSeed } from "@akasha/inference-clients/inference-seed"
+import {
+  ensureOutputDir,
+  resolveOutputPath,
+} from "akasha/inference/clients/inference-output-path/inference-output-path.module.code.ts"
+import {
+  drawSeed,
+  resolveSeed,
+} from "akasha/inference/clients/inference-seed/inference-seed.module.code.ts"
 import {
   buildGenerationBody,
   parseGenerationSize,
   runGeneration,
-} from "@akasha/inference-clients/mlx-image-client"
+} from "akasha/inference/clients/mlx-image-client/mlx-image-client.module.code.ts"
 import { buildInferenceRunRecord } from "akasha/inference/runs/record/inference-run-record.module.code.ts"
 import type { InferenceService } from "akasha/inference/runs/services/inference-run-services.module.code.ts"
 import { INFERENCE_SERVICES } from "akasha/inference/runs/services/inference-run-services.module.code.ts"

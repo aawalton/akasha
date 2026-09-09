@@ -14,7 +14,6 @@
     "@akasha/agents": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/errors-core": "workspace:*",
-    "@akasha/inference-clients": "workspace:*",
     "@akasha/utils": "workspace:*"
   }
 }

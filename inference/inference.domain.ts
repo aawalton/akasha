@@ -9,7 +9,7 @@ export const inference = {
   parts: [
     "domain/generation",
     "domain/comfy",
-    "workspace-package/inference-clients",
+    "domain/inference-clients",
     "domain/inference-commands",
     "domain/inference-pool",
     "domain/inference-run",

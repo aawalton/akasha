@@ -10,7 +10,7 @@ import {
   runVideoQa,
   selectFrameIndices,
   toPngDataUrl,
-} from "@akasha/inference-clients/mlx-vlm-client"
+} from "akasha/inference/clients/mlx-vlm-client/mlx-vlm-client.module.code.ts"
 import {
   buildInferenceRunRecord,
   sha256Hex,
