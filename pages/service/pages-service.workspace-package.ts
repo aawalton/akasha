@@ -114,8 +114,8 @@ export const pagesService = {
         "The store the cluster reaches reads as ready only while the pages system service is listening.",
     },
     {
-      invariantKind: "gap",
-      statement: "The pages system service does not limit any caller of the pages system service.",
+      invariantKind: "absence",
+      statement: "No caller of the pages system service is asked for a credential.",
     },
     {
       invariantKind: "gap",
