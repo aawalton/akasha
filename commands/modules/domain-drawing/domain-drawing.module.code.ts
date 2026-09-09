@@ -19,7 +19,7 @@ const PART = "domain/"
 
 const SLUG = "slug"
 
-const PART_SLUGS = "partSlugs"
+const PARTS = "parts"
 
 const UNDECLARED = "— named as a part, carried by no domain page"
 
@@ -43,7 +43,7 @@ export function kindsUnderDomain(root: string): ReadonlySet<string> {
 }
 
 function partsOf(value: Value): readonly string[] {
-  const held = value[PART_SLUGS]
+  const held = value[PARTS]
   if (!Array.isArray(held)) return []
   return held.flatMap((one) =>
     typeof one === "string" && one.startsWith(PART) ? [one.slice(PART.length)] : []

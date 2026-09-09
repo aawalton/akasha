@@ -104,13 +104,13 @@ function typed(root: string, slug: string, above: readonly string[]): undefined 
   const named = above.map((one) => `page-type/${one}`)
   listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
   valueAlsoFiled(root, "page-type", [
-    { path, value: { id: `id-${slug}`, pageTypeSlug: "page-type", slug, extendsSlug: named } },
+    { path, value: { id: `id-${slug}`, pageTypeSlug: "page-type", slug, extends: named } },
   ])
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
   writeFileSync(
     page,
-    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${JSON.stringify(named)} }\n`
+    `export const held = { slug: ${JSON.stringify(slug)}, extends: ${JSON.stringify(named)} }\n`
   )
   return undefined
 }
