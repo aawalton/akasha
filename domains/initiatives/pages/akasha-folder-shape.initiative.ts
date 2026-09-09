@@ -43,6 +43,6 @@ export const akashaFolderShape = {
     "A property declaration names its scoping property under `uniquePropertySlug`.",
     "A page-property path names the page type, then the scope property and its value, then the unique property and its value.",
     "The property `uniquePropertySlug` names is declared on the same page type, is required, and carries one value.",
-    "`partSlugs` keeps its name, and the collections edge becomes `partOfCollectionSlugs`.",
+    "The domain parts edge and the collections parts edge stay two relations.",
   ],
 } as const satisfies Initiative
