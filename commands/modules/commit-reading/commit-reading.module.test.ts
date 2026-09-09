@@ -2,13 +2,20 @@ import { expect, test } from "bun:test"
 import { spawn } from "node:child_process"
 import { until } from "@akasha/testing-system/waiting"
 import { ran } from "@akasha/utils/run/running"
-import { baseOf } from "../landing/landing.module.code.ts"
-import { git, gitOver, repoWith } from "../landing/landing.module.test-fixtures.ts"
+import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
+import {
+  git,
+  gitOver,
+  repoWith,
+} from "../../../command-system/landing/landing.module.test-fixtures.ts"
 import { bodyAt, readingEnded } from "./commit-reading.module.code.ts"
 
 const MODULE_AT = new URL("./commit-reading.module.code.ts", import.meta.url).pathname
 
-const LANDING_AT = new URL("../landing/landing.module.code.ts", import.meta.url).pathname
+const LANDING_AT = new URL(
+  "../../../command-system/landing/landing.module.code.ts",
+  import.meta.url
+).pathname
 
 const NUL = new Uint8Array([104, 0, 101, 108, 100, 0, 0, 10])
 

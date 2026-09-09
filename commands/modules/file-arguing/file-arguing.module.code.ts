@@ -23,7 +23,6 @@ import {
   REMOVE,
   unknownIn,
 } from "../../../command-system/command-flags/command-flags.module.code.ts"
-import { bodyAt } from "../../../command-system/commit-reading/commit-reading.module.code.ts"
 import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
 import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
@@ -33,6 +32,7 @@ import {
   offRepo,
   pathAt,
 } from "../../../command-system/said-pathing/said-pathing.module.code.ts"
+import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import { defaultMessage } from "../landing-saying/landing-saying.module.code.ts"
 import { unrestatedIn } from "../restating/restating.module.code.ts"
 import { unwarrantedIn } from "../warrant-owing/warrant-owing.module.code.ts"

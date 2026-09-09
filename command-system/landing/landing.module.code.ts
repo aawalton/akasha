@@ -12,6 +12,10 @@ import {
   unfresh,
 } from "../../commands/modules/change-freshness/change-freshness.module.code.ts"
 import {
+  bodyAt,
+  readingEnded,
+} from "../../commands/modules/commit-reading/commit-reading.module.code.ts"
+import {
   clearedOff,
   clearedUnder,
   isFolder,
@@ -22,7 +26,6 @@ import {
   orphaningIn,
   orphaningSaid,
 } from "../../commands/modules/orphaning/orphaning.module.code.ts"
-import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
 import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
 import type { Bodies } from "../drafting/drafting.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"

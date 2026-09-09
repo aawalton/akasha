@@ -1,5 +1,4 @@
 import type { Given } from "../../../command-system/calling/calling.module.code.ts"
-import { bodyAt } from "../../../command-system/commit-reading/commit-reading.module.code.ts"
 import type { Running } from "../../../command-system/drafting/drafting.module.code.ts"
 import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
 import {
@@ -11,6 +10,7 @@ import {
   readingIn,
   recordRead,
 } from "../../../command-system/reading/reading.module.code.ts"
+import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 
 export function recordLanded(given: Given, changes: readonly FileEdit[]): undefined {
   if (given.agentId === null) return

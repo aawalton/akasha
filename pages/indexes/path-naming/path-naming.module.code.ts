@@ -3,7 +3,7 @@ import { typed } from "@akasha/code/code-typing"
 import type { Listed } from "@akasha/indexes"
 import { everyPath, importersOf, listedByPath, readingIn } from "@akasha/indexes"
 import { textOf } from "../../../command-system/asking/asking.module.code.ts"
-import { bodyAt } from "../../../command-system/commit-reading/commit-reading.module.code.ts"
+import { bodyAt } from "../../../commands/modules/commit-reading/commit-reading.module.code.ts"
 import type { Answering } from "../answering/index-answering.module.code.ts"
 
 export type Naming = { readonly held: Listed | null } | { readonly unread: string }
@@ -27,7 +27,6 @@ export function namingOf(root: string, path: string): Naming {
   return { held: listed[0] ?? null }
 }
 
-/** A root reads the committed index, and an index face reads the index a change leaves. */
 function importedBy(given: string | Answering, from: string): readonly string[] {
   return typeof given === "string" ? importersOf(from, readingIn(given)) : given.importersOf(from)
 }
