@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0069Chapter503Bargain = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0069-chapter-503-bargain",
   title: "Chapter 503: Bargain",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 69,
   ownLength: 1780,
   unitSlug: "words",

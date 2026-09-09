@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0179Chapter611Friends = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0179-chapter-611-friends",
   title: "Chapter 611: Friends!",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 179,
   ownLength: 2076,
   unitSlug: "words",

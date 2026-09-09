@@ -5,7 +5,7 @@ export const salvos0010ADemonsPrideSalvosVolume2IsNowLiveOn = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0010-a-demons-pride-salvos-volume-2-is-now-live-on",
   title: "A Demon's Pride: Salvos Volume 2 is now live on Amazon!",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 10,
   ownLength: 153,
   unitSlug: "words",

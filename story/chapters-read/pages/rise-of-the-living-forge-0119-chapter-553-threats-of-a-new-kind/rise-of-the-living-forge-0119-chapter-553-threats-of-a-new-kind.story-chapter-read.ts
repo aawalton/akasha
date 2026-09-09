@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0119Chapter553ThreatsOfANewKind = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0119-chapter-553-threats-of-a-new-kind",
   title: "Chapter 553: Threats of a new kind",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 119,
   ownLength: 1878,
   unitSlug: "words",

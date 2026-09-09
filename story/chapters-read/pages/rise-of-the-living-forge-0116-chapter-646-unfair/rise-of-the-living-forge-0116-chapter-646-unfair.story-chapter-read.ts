@@ -4,7 +4,7 @@ export const riseOfTheLivingForge0116Chapter646Unfair = {
   id: "01a081aa-8086-7a0a-b782-4a09e6f15c3d",
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0116-chapter-646-unfair",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 116,
   publishedAt: "2026-09-08",
   unitSlug: "words",

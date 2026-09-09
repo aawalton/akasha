@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0101Chapter535JustBetter = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0101-chapter-535-just-better",
   title: "Chapter 535: Just better",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 101,
   ownLength: 1602,
   unitSlug: "words",

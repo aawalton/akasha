@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0114Chapter548Koyu = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0114-chapter-548-koyu",
   title: "Chapter 548: Koyu",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 114,
   ownLength: 1862,
   unitSlug: "words",

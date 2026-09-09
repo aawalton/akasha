@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0011Chapter10AQuarryToSettle = {
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0011-chapter-10-a-quarry-to-settle",
   title: "Chapter 10 – A Quarry to Settle",
-  storySlug: "rock-falls-everyone-dies",
+  story: "rock-falls-everyone-dies",
   position: 11,
   ownLength: 2368,
   unitSlug: "words",

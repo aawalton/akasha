@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0056Chapter489HerTurn = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0056-chapter-489-her-turn",
   title: "Chapter 489: Her Turn",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 56,
   ownLength: 1669,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse0001Chapter1ApocalypseDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0001-chapter-1-apocalypse-day",
   title: "Chapter 1: Apocalypse Day",
-  storySlug: "road-to-mastery-a-litrpg-apocalypse",
+  story: "road-to-mastery-a-litrpg-apocalypse",
   position: 1,
   ownLength: 2799,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse0010159HoursTheOmnibusIsOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0010-159-hours-the-omnibus-is-out",
   title: "159 Hours!? The Omnibus is Out!",
-  storySlug: "road-to-mastery-a-litrpg-apocalypse",
+  story: "road-to-mastery-a-litrpg-apocalypse",
   position: 10,
   ownLength: 64,
   unitSlug: "words",

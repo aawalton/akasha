@@ -5,7 +5,7 @@ export const salvos0099568Claws = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0099-568-claws",
   title: "568. Claws",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 99,
   ownLength: 1661,
   unitSlug: "words",

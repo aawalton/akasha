@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0030Chapter463EsmereldaSFavor = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0030-chapter-463-esmerelda-s-favor",
   title: "Chapter 463: Esmerelda's Favor",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 30,
   ownLength: 1986,
   unitSlug: "words",

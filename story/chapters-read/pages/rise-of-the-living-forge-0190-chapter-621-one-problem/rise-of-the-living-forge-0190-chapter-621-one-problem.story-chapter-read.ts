@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0190Chapter621OneProblem = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0190-chapter-621-one-problem",
   title: "Chapter 621: One Problem",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 190,
   ownLength: 1902,
   unitSlug: "words",

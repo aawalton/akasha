@@ -6,7 +6,7 @@ export const salvos0101TheSalvosPaperbackHardcoverKickstarterIs = {
   slug: "salvos-0101-the-salvos-paperback-hardcover-kickstarter-is",
   title:
     "THE SALVOS PAPERBACK + HARDCOVER KICKSTARTER IS OFFICIALLY OUT! Get a print copy of Salvos!",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 101,
   ownLength: 221,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0127Chapter560Soaring = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0127-chapter-560-soaring",
   title: "Chapter 560: Soaring",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 127,
   ownLength: 1864,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0151Chapter584Tie = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0151-chapter-584-tie",
   title: "Chapter 584: Tie",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 151,
   ownLength: 2047,
   unitSlug: "words",

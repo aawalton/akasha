@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0159Chapter591Rennovations = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0159-chapter-591-rennovations",
   title: "Chapter 591: Rennovations",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 159,
   ownLength: 1669,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0099Chapter629JustRight = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0099-chapter-629-just-right",
   title: "Chapter 629: Just right",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 99,
   ownLength: 1877,
   unitSlug: "words",

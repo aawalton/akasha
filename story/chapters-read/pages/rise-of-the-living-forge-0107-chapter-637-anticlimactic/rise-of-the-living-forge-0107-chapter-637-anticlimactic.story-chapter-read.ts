@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0107Chapter637Anticlimactic = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0107-chapter-637-anticlimactic",
   title: "Chapter 637: Anticlimactic",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 107,
   ownLength: 2177,
   unitSlug: "words",

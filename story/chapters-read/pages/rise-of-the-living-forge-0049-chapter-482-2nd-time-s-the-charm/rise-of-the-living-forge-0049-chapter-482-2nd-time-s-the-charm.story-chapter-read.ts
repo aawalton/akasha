@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0049Chapter4822ndTimeSTheCharm = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0049-chapter-482-2nd-time-s-the-charm",
   title: "Chapter 482: 2nd time's the charm",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 49,
   ownLength: 1597,
   unitSlug: "words",

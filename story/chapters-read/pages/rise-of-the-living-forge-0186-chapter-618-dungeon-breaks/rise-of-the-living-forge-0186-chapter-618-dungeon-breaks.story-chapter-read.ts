@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0186Chapter618DungeonBreaks = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0186-chapter-618-dungeon-breaks",
   title: "Chapter 618: Dungeon Breaks",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 186,
   ownLength: 2010,
   unitSlug: "words",

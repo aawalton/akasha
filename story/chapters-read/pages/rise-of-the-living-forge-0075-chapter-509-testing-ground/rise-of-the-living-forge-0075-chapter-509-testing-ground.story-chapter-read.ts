@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0075Chapter509TestingGround = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0075-chapter-509-testing-ground",
   title: "Chapter 509: Testing Ground",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 75,
   ownLength: 1762,
   unitSlug: "words",

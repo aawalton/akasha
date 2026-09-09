@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0146Chapter579ItSOlive = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0146-chapter-579-it-s-olive",
   title: "Chapter 579: It's Olive",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 146,
   ownLength: 1847,
   unitSlug: "words",

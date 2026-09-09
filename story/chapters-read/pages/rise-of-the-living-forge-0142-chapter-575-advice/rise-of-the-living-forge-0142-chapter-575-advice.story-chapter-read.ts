@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0142Chapter575Advice = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0142-chapter-575-advice",
   title: "Chapter 575: Advice",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 142,
   ownLength: 1814,
   unitSlug: "words",

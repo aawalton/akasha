@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0013Chapter12AstralAscension = {
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0013-chapter-12-astral-ascension",
   title: "Chapter 12 – Astral Ascension",
-  storySlug: "rock-falls-everyone-dies",
+  story: "rock-falls-everyone-dies",
   position: 13,
   ownLength: 1626,
   unitSlug: "words",

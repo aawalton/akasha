@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0004Chapter4RockHardHotAndSteamy = {
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0004-chapter-4-rock-hard-hot-and-steamy",
   title: "Chapter 4 – Rock Hard; Hot and Steamy",
-  storySlug: "rock-falls-everyone-dies",
+  story: "rock-falls-everyone-dies",
   position: 4,
   ownLength: 1819,
   unitSlug: "words",

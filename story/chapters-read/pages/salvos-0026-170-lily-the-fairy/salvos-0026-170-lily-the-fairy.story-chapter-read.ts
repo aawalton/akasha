@@ -5,7 +5,7 @@ export const salvos0026170LilyTheFairy = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0026-170-lily-the-fairy",
   title: "170. Lily the Fairy",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 26,
   ownLength: 2189,
   unitSlug: "words",

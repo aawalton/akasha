@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0031Chapter464BirthdayBoy = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0031-chapter-464-birthday-boy",
   title: "Chapter 464: Birthday boy",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 31,
   ownLength: 2702,
   unitSlug: "words",

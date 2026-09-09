@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0015Chapter14HeavyMetalVsRock = {
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0015-chapter-14-heavy-metal-vs-rock",
   title: "Chapter 14 – Heavy Metal VS Rock",
-  storySlug: "rock-falls-everyone-dies",
+  story: "rock-falls-everyone-dies",
   position: 15,
   ownLength: 2114,
   unitSlug: "words",

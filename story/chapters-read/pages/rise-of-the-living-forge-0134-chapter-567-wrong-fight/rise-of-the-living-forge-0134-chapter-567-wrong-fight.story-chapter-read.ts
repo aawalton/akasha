@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0134Chapter567WrongFight = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0134-chapter-567-wrong-fight",
   title: "Chapter 567: Wrong Fight",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 134,
   ownLength: 1817,
   unitSlug: "words",

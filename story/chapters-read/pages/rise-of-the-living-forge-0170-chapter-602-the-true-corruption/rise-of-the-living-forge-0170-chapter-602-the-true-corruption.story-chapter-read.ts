@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0170Chapter602TheTrueCorruption = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0170-chapter-602-the-true-corruption",
   title: "Chapter 602: The True Corruption",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 170,
   ownLength: 1640,
   unitSlug: "words",

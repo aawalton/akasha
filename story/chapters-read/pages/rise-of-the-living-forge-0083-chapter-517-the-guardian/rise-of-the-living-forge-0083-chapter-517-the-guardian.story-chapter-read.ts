@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0083Chapter517TheGuardian = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0083-chapter-517-the-guardian",
   title: "Chapter 517: The Guardian",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 83,
   ownLength: 2075,
   unitSlug: "words",

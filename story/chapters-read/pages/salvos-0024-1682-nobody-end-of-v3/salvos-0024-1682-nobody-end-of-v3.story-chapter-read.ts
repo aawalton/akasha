@@ -5,7 +5,7 @@ export const salvos00241682NobodyEndOfV3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0024-1682-nobody-end-of-v3",
   title: "168.2. Nobody (End of V3)",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 24,
   ownLength: 2003,
   unitSlug: "words",

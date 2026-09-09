@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0089Chapter523Eager = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0089-chapter-523-eager",
   title: "Chapter 523: Eager",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 89,
   ownLength: 1767,
   unitSlug: "words",

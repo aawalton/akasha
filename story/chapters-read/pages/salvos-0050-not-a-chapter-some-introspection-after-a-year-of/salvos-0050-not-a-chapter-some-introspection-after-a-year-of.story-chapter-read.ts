@@ -5,7 +5,7 @@ export const salvos0050NotAChapterSomeIntrospectionAfterAYearOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0050-not-a-chapter-some-introspection-after-a-year-of",
   title: "Not A Chapter: Some Introspection After A Year of Full-time Writing",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 50,
   ownLength: 1357,
   unitSlug: "words",

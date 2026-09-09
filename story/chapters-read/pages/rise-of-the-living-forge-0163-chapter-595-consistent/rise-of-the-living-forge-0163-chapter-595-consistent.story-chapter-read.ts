@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0163Chapter595Consistent = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0163-chapter-595-consistent",
   title: "Chapter 595: Consistent",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 163,
   ownLength: 2202,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0094Chapter528Oops = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0094-chapter-528-oops",
   title: "Chapter 528: Oops",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 94,
   ownLength: 1586,
   unitSlug: "words",

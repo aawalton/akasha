@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0109Chapter639GoodReasons = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0109-chapter-639-good-reasons",
   title: "Chapter 639: Good Reasons",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 109,
   ownLength: 1763,
   unitSlug: "words",

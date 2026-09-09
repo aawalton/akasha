@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0078Chapter512Synchronized = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0078-chapter-512-synchronized",
   title: "Chapter 512: Synchronized",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 78,
   ownLength: 1679,
   unitSlug: "words",

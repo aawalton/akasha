@@ -5,7 +5,7 @@ export const salvos0086ComicPreviewSixDaysLeft = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0086-comic-preview-six-days-left",
   title: "Comic Preview - SIX DAYS LEFT",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 86,
   ownLength: 115,
   unitSlug: "words",

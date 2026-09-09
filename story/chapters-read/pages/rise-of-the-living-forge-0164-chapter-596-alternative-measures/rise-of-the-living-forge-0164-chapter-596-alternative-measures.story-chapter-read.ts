@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0164Chapter596AlternativeMeasures = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0164-chapter-596-alternative-measures",
   title: "Chapter 596: Alternative Measures",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 164,
   ownLength: 1753,
   unitSlug: "words",

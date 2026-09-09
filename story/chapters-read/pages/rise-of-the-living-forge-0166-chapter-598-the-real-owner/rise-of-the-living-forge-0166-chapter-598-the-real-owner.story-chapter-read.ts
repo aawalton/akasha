@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0166Chapter598TheRealOwner = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0166-chapter-598-the-real-owner",
   title: "Chapter 598: The real owner",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 166,
   ownLength: 1717,
   unitSlug: "words",

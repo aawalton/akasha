@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0110Chapter544TheWholePoint = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0110-chapter-544-the-whole-point",
   title: "Chapter 544: The whole point",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 110,
   ownLength: 1537,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse0003Chapter3HelloWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0003-chapter-3-hello-world",
   title: "Chapter 3: Hello World",
-  storySlug: "road-to-mastery-a-litrpg-apocalypse",
+  story: "road-to-mastery-a-litrpg-apocalypse",
   position: 3,
   ownLength: 2414,
   unitSlug: "words",

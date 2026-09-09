@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0053Chapter486Reunion = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0053-chapter-486-reunion",
   title: "Chapter 486: Reunion",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 53,
   ownLength: 1514,
   unitSlug: "words",

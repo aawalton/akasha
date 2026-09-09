@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0105Chapter635AllThisWay = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0105-chapter-635-all-this-way",
   title: "Chapter 635: All this way...",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 105,
   ownLength: 1680,
   unitSlug: "words",

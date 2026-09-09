@@ -5,7 +5,7 @@ export const salvos0049347EdithesElation = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0049-347-edithes-elation",
   title: "347. Edithe's Elation",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 49,
   ownLength: 2755,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0018Chapter276Tests = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0018-chapter-276-tests",
   title: "Chapter 276: Tests",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 18,
   ownLength: 1539,
   unitSlug: "words",

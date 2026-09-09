@@ -10,7 +10,7 @@ export const riseOfTheLivingForge0117Chapter647TheQuest = {
   externalId: "3934849",
   source: "royal-road",
   title: "Chapter 647: The Quest",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   ownLength: 3031,
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3934849/chapter-647-the-quest",

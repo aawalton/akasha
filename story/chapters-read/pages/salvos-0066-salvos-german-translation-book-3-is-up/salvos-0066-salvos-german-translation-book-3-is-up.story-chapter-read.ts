@@ -5,7 +5,7 @@ export const salvos0066SalvosGermanTranslationBook3IsUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0066-salvos-german-translation-book-3-is-up",
   title: "Salvos German Translation Book 3 is up!",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 66,
   ownLength: 93,
   unitSlug: "words",

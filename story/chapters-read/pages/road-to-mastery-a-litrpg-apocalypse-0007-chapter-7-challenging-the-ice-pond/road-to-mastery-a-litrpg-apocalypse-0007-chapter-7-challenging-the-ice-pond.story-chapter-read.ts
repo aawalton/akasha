@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse0007Chapter7ChallengingTheIcePond = {
   pageTypeSlug: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0007-chapter-7-challenging-the-ice-pond",
   title: "Chapter 7: Challenging the Ice Pond",
-  storySlug: "road-to-mastery-a-litrpg-apocalypse",
+  story: "road-to-mastery-a-litrpg-apocalypse",
   position: 7,
   ownLength: 2299,
   unitSlug: "words",

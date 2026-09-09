@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0136Chapter569StreetSweeper = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0136-chapter-569-street-sweeper",
   title: "Chapter 569: Street sweeper",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 136,
   ownLength: 1618,
   unitSlug: "words",

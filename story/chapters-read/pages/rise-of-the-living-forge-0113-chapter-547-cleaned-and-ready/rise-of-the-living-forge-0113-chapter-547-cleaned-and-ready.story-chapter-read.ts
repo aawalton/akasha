@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0113Chapter547CleanedAndReady = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0113-chapter-547-cleaned-and-ready",
   title: "Chapter 547: Cleaned and ready",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 113,
   ownLength: 1976,
   unitSlug: "words",

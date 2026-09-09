@@ -5,7 +5,7 @@ export const salvos0077EndOfVolume5PopularityPoll = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0077-end-of-volume-5-popularity-poll",
   title: "End of Volume 5 Popularity Poll",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 77,
   ownLength: 110,
   unitSlug: "words",

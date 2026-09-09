@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0081Chapter515Body = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0081-chapter-515-body",
   title: "Chapter 515: Body",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 81,
   ownLength: 1839,
   unitSlug: "words",

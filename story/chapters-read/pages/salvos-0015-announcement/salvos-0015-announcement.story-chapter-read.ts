@@ -5,7 +5,7 @@ export const salvos0015Announcement = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0015-announcement",
   title: "Announcement",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 15,
   ownLength: 221,
   unitSlug: "words",

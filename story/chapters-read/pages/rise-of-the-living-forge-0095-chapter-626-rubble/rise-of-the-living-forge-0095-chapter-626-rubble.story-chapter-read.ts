@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0095Chapter626Rubble = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0095-chapter-626-rubble",
   title: "Chapter 626: Rubble",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 95,
   ownLength: 1868,
   unitSlug: "words",

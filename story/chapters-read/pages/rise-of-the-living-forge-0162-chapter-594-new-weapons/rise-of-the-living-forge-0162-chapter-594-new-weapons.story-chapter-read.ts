@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0162Chapter594NewWeapons = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0162-chapter-594-new-weapons",
   title: "Chapter 594: New Weapons",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 162,
   ownLength: 2334,
   unitSlug: "words",

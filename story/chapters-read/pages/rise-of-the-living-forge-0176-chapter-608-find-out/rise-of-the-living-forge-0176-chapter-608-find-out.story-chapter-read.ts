@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0176Chapter608FindOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0176-chapter-608-find-out",
   title: "Chapter 608: Find Out",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 176,
   ownLength: 1668,
   unitSlug: "words",

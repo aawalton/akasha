@@ -5,7 +5,7 @@ export const salvos0109661HonoredFairy = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0109-661-honored-fairy",
   title: "661. Honored Fairy",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 109,
   ownLength: 2644,
   unitSlug: "words",

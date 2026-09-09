@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0058Chapter491Sunset = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0058-chapter-491-sunset",
   title: "Chapter 491: Sunset",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 58,
   ownLength: 1604,
   unitSlug: "words",

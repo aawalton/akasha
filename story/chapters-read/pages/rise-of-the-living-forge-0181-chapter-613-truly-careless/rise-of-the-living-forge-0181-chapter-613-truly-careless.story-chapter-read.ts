@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0181Chapter613TrulyCareless = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0181-chapter-613-truly-careless",
   title: "Chapter 613: Truly Careless",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 181,
   ownLength: 2100,
   unitSlug: "words",

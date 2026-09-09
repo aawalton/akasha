@@ -5,7 +5,7 @@ export const rockFallsEveryoneDies0002Chapter2GatheringMoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "rock-falls-everyone-dies-0002-chapter-2-gathering-moss",
   title: "Chapter 2 – Gathering moss",
-  storySlug: "rock-falls-everyone-dies",
+  story: "rock-falls-everyone-dies",
   position: 2,
   ownLength: 1570,
   unitSlug: "words",

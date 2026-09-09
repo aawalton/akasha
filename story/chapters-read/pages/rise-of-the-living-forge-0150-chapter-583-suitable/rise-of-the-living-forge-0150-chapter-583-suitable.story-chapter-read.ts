@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0150Chapter583Suitable = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0150-chapter-583-suitable",
   title: "Chapter 583: Suitable",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 150,
   ownLength: 1917,
   unitSlug: "words",

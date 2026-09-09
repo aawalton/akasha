@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0045Chapter478Mouth = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0045-chapter-478-mouth",
   title: "Chapter 478: Mouth",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 45,
   ownLength: 2236,
   unitSlug: "words",

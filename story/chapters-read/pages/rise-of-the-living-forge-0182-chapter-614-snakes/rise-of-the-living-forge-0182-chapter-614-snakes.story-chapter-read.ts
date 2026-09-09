@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0182Chapter614Snakes = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0182-chapter-614-snakes",
   title: "Chapter 614: Snakes",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 182,
   ownLength: 1849,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const salvos0035246BeginStartOfVolume5 = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0035-246-begin-start-of-volume-5",
   title: "246. Begin (Start of Volume 5)",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 35,
   ownLength: 2023,
   unitSlug: "words",

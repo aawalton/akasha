@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0105Chapter539Cheese = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0105-chapter-539-cheese",
   title: "Chapter 539: Cheese",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 105,
   ownLength: 1852,
   unitSlug: "words",

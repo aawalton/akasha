@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0057Chapter490Endure = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0057-chapter-490-endure",
   title: "Chapter 490: Endure",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 57,
   ownLength: 1649,
   unitSlug: "words",

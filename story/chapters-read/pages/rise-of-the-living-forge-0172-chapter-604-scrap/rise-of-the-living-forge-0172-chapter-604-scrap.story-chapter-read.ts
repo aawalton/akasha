@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0172Chapter604Scrap = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0172-chapter-604-scrap",
   title: "Chapter 604: Scrap",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 172,
   ownLength: 1834,
   unitSlug: "words",

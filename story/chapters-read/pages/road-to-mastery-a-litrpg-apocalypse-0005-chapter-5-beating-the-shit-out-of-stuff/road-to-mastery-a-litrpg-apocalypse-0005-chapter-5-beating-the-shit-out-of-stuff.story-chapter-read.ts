@@ -5,7 +5,7 @@ export const roadToMasteryALitrpgApocalypse0005Chapter5BeatingTheShitOutOfStuff 
   pageTypeSlug: "story-chapter-read",
   slug: "road-to-mastery-a-litrpg-apocalypse-0005-chapter-5-beating-the-shit-out-of-stuff",
   title: "Chapter 5: Beating the Shit out of Stuff",
-  storySlug: "road-to-mastery-a-litrpg-apocalypse",
+  story: "road-to-mastery-a-litrpg-apocalypse",
   position: 5,
   ownLength: 2018,
   unitSlug: "words",

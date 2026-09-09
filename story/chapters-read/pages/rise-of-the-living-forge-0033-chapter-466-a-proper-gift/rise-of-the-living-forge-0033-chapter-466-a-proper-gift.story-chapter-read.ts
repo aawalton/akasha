@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0033Chapter466AProperGift = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0033-chapter-466-a-proper-gift",
   title: "Chapter 466: A proper gift",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 33,
   ownLength: 1957,
   unitSlug: "words",

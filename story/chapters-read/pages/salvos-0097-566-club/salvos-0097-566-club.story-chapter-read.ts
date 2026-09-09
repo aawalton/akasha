@@ -5,7 +5,7 @@ export const salvos0097566Club = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0097-566-club",
   title: "566. Club",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 97,
   ownLength: 2111,
   unitSlug: "words",

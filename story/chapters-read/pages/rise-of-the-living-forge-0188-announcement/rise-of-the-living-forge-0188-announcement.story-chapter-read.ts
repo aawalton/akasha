@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0188Announcement = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0188-announcement",
   title: "Announcement ",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 188,
   ownLength: 91,
   unitSlug: "words",

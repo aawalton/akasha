@@ -5,7 +5,7 @@ export const salvos0052388NamesAndStuff = {
   pageTypeSlug: "story-chapter-read",
   slug: "salvos-0052-388-names-and-stuff",
   title: "388. Names and Stuff",
-  storySlug: "story-read/salvos",
+  story: "story-read/salvos",
   position: 52,
   ownLength: 2265,
   unitSlug: "words",

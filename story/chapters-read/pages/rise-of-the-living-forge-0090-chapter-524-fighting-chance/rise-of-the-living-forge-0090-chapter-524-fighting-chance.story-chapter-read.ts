@@ -5,7 +5,7 @@ export const riseOfTheLivingForge0090Chapter524FightingChance = {
   pageTypeSlug: "story-chapter-read",
   slug: "rise-of-the-living-forge-0090-chapter-524-fighting-chance",
   title: "Chapter 524: Fighting Chance",
-  storySlug: "story-read/rise-of-the-living-forge",
+  story: "story-read/rise-of-the-living-forge",
   position: 90,
   ownLength: 1740,
   unitSlug: "words",
