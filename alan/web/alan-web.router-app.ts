@@ -182,5 +182,7 @@ export const alanWeb = {
     "route/alan-web-api-catalog",
     "route/alan-web-api-chess-analyze",
     "route/alan-web-api-property-option",
+    "route/alan-web-sign-up",
+    "route/alan-web-sign-in",
   ],
 } as const satisfies RouterApp
