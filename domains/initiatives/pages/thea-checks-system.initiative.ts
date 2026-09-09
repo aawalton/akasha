@@ -8,11 +8,6 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement: "named-file-property is gone, the name it stated now optional on file-property.",
-      workingMemory:
-        "38 pages are named-file-property, each stating the fileName required there. That property moves to file-properties/properties and becomes optional. The fileName is also what hides those 38 from the index, whose besides rule at pages/indexes/entries/index-entries.module.code.ts:53 matches the slug file-property exactly. Taking the second slug out before code-file-property arrives is what makes the widening after it safe. named-folder-property and its folderName are the parallel and stay.",
-    },
-    {
       statement:
         "code-file-property extends file-property, and the index finds it by what it extends.",
       workingMemory:
