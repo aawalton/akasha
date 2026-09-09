@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theBigQuestionsOfPhilosophy = {
   id: "019db533-f39e-7a5d-9c1a-9ab4b1c750a6",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-big-questions-of-philosophy",
   title: "The Big Questions of Philosophy",
   status: "not-started",

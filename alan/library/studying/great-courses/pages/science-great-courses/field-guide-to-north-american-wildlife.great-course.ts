@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const fieldGuideToNorthAmericanWildlife = {
   id: "019db533-f39e-7ea3-9ff8-662c736ebb8c",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "field-guide-to-north-american-wildlife",
   title: "Field Guide to North American Wildlife",
   status: "not-started",

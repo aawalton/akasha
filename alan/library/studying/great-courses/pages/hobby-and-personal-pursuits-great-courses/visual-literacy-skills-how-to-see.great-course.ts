@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const visualLiteracySkillsHowToSee = {
   id: "019db533-f39e-7544-8970-701a86fc1f59",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "visual-literacy-skills-how-to-see",
   title: "Visual Literacy Skills: How to See",
   status: "not-started",

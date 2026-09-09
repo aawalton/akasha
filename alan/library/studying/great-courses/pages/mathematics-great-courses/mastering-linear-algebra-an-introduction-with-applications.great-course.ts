@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const masteringLinearAlgebraAnIntroductionWithApplications = {
   id: "019db533-f3a0-72b8-813f-c5b80915a220",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "mastering-linear-algebra-an-introduction-with-applications",
   title: "Mastering Linear Algebra: An Introduction with Applications",
   status: "not-started",

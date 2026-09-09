@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const exploringTheRootsOfReligion = {
   id: "019db533-f39e-7ae2-a5b7-090427a24a21",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "exploring-the-roots-of-religion",
   title: "Exploring the Roots of Religion",
   status: "not-started",

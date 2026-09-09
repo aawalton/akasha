@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const adobeLightroomClassicCcTheCompleteGuide = {
   id: "019db533-f39e-7802-b7ab-63d821b48651",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "adobe-lightroom-classic-cc-the-complete-guide",
   title: "Adobe Lightroom Classic CC: The Complete Guide",
   status: "completed",

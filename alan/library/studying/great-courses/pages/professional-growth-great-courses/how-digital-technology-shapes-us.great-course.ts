@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howDigitalTechnologyShapesUs = {
   id: "019db533-f39f-725f-9ad6-bd1b41716a53",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-digital-technology-shapes-us",
   title: "How Digital Technology Shapes Us",
   status: "not-started",

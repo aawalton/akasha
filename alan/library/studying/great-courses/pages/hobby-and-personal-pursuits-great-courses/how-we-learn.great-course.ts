@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howWeLearn = {
   id: "019db533-f39e-7e4e-96cb-f3342ab10cc6",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-we-learn",
   title: "How We Learn",
   status: "not-started",

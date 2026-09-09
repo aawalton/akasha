@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const classicalMythology = {
   id: "019db533-f39e-79c4-9b16-fddf360be6a9",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "classical-mythology",
   title: "Classical Mythology",
   status: "not-started",

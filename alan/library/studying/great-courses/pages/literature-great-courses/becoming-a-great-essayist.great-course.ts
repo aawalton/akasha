@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const becomingAGreatEssayist = {
   id: "019db533-f39e-7784-a3ca-6d5c15ee1402",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "becoming-a-great-essayist",
   title: "Becoming a Great Essayist",
   status: "completed",

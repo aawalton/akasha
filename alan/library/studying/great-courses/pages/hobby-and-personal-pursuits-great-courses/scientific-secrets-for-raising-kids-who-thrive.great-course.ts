@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const scientificSecretsForRaisingKidsWhoThrive = {
   id: "019db533-f39f-7003-bd79-20d396bf709d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "scientific-secrets-for-raising-kids-who-thrive",
   title: "Scientific Secrets for Raising Kids Who Thrive",
   status: "not-started",

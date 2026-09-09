@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const settingsForEveryShape = {
   id: "019db533-f39e-7636-bb7e-f93d53209be0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "settings-for-every-shape",
   title: "Settings for Every Shape",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const beginnerSergingMachineBasicsAndTechniques = {
   id: "019db533-f39e-77cb-acc6-68c033a63b68",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "beginner-serging-machine-basics-and-techniques",
   title: "Beginner Serging: Machine Basics and Techniques",
   status: "completed",

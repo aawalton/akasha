@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingDisordersOfTheBrain = {
   id: "019db533-f39f-7195-a7ed-b461d2e06738",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-disorders-of-the-brain",
   title: "Understanding Disorders of the Brain",
   status: "not-started",

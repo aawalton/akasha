@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToTalkAboutRace = {
   id: "019db533-f39e-75bb-b5b4-b1b920a33a55",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-talk-about-race",
   title: "How to Talk about Race",
   status: "not-started",

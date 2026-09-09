@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const crochetToolkitDesignerTipsAndTricks = {
   id: "019db533-f39e-7694-88d1-709d48f167da",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "crochet-toolkit-designer-tips-and-tricks",
   title: "Crochet Toolkit: Designer Tips & Tricks",
   status: "completed",

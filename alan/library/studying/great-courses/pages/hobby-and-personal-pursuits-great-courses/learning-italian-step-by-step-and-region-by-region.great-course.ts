@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const learningItalianStepByStepAndRegionByRegion = {
   id: "019db533-f39f-7517-98c5-74ba665cf7fd",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "learning-italian-step-by-step-and-region-by-region",
   title: "Learning Italian: Step by Step and Region by Region",
   status: "completed",

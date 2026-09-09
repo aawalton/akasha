@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const handheldRouterTechniquesAndTips = {
   id: "019db533-f39e-7727-a7f3-1397e0367ee2",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "handheld-router-techniques-and-tips",
   title: "Handheld Router Techniques and Tips",
   status: "completed",

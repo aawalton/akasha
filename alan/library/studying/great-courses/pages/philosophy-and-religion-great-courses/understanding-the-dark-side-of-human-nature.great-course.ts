@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingTheDarkSideOfHumanNature = {
   id: "019db533-f39e-79f5-b52c-cf038be581f1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-the-dark-side-of-human-nature",
   title: "Understanding the Dark Side of Human Nature",
   status: "not-started",

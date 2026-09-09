@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatIdeasOfClassicalPhysics = {
   id: "019db533-f39f-729e-b9a0-3e7931cb716f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-ideas-of-classical-physics",
   title: "Great Ideas of Classical Physics",
   status: "not-started",

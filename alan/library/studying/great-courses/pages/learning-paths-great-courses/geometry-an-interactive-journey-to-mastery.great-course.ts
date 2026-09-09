@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const geometryAnInteractiveJourneyToMastery = {
   id: "019db533-f3a0-79f8-aec6-91e76dbb988d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "geometry-an-interactive-journey-to-mastery",
   title: "Geometry: An Interactive Journey to Mastery",
   status: "not-started",

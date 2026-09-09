@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const mastersOfGreekThoughtPlatoSocratesAndAristotle = {
   id: "019db533-f39e-7a8c-94f7-e5a2843650f7",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "masters-of-greek-thought-plato-socrates-and-aristotle",
   title: "Masters of Greek Thought: Plato, Socrates, and Aristotle",
   status: "not-started",

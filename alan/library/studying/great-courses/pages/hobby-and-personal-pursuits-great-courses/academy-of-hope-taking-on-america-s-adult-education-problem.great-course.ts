@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const academyOfHopeTakingOnAmericaSAdultEducationProblem = {
   id: "019db533-f39e-751e-9906-dfe0bbb55d20",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "academy-of-hope-taking-on-america-s-adult-education-problem",
   title: "Academy of Hope: Taking On America’s Adult Education Problem",
   status: "completed",

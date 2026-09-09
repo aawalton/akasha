@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatHeroesAndDiscoveriesOfAstronomy = {
   id: "019db533-f39e-7eb9-b104-9de8d6d4664f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-heroes-and-discoveries-of-astronomy",
   title: "Great Heroes and Discoveries of Astronomy",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theScientificWonderOfBirds = {
   id: "019db533-f39e-7b37-8ced-1e2ae9fe99a2",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-scientific-wonder-of-birds",
   title: "The Scientific Wonder of Birds",
   status: "not-started",

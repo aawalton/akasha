@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const everydayUrbanSketching = {
   id: "019db533-f39e-757c-b74e-2aa3e63b0642",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "everyday-urban-sketching",
   title: "Everyday Urban Sketching",
   status: "completed",

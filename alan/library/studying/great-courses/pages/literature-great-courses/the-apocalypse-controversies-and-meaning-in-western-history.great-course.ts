@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theApocalypseControversiesAndMeaningInWesternHistory = {
   id: "019db533-f39e-7c36-b1de-cf55b67a6da0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-apocalypse-controversies-and-meaning-in-western-history",
   title: "The Apocalypse: Controversies and Meaning in Western History",
   status: "not-started",

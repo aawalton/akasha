@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theUltimateTShirtQuilt = {
   id: "019db533-f39e-745d-b564-7b4cfa93d604",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-ultimate-t-shirt-quilt",
   title: "The Ultimate T-Shirt Quilt",
   status: "completed",

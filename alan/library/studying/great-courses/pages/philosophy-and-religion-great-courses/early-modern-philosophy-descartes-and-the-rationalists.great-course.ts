@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const earlyModernPhilosophyDescartesAndTheRationalists = {
   id: "019db533-f39e-7cdd-b34a-94894bc767de",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "early-modern-philosophy-descartes-and-the-rationalists",
   title: "Early Modern Philosophy: Descartes and the Rationalists",
   status: "not-started",

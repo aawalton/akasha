@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theBigBangAndBeyondExploringTheEarlyUniverse = {
   id: "019db533-f39f-71ab-851a-45ba518a3880",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-big-bang-and-beyond-exploring-the-early-universe",
   title: "The Big Bang and Beyond: Exploring the Early Universe",
   status: "not-started",

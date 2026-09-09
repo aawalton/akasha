@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingJapanACulturalHistory = {
   id: "019db533-f39f-77fd-8ce3-d2924442dc19",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-japan-a-cultural-history",
   title: "Understanding Japan: A Cultural History",
   status: "completed",

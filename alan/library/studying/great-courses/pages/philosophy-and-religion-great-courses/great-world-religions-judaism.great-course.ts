@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatWorldReligionsJudaism = {
   id: "019db533-f39e-7b08-b13f-507e4c72555f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-world-religions-judaism",
   title: "Great World Religions: Judaism",
   status: "not-started",

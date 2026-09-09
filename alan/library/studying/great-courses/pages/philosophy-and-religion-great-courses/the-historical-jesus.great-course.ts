@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theHistoricalJesus = {
   id: "019db533-f39e-78fb-bcec-983677d766d2",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-historical-jesus",
   title: "The Historical Jesus",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const historyOfTheBibleTheMakingOfTheNewTestamentCanon = {
   id: "019db533-f39e-7ad3-b09e-e72c2a9a73e4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "history-of-the-bible-the-making-of-the-new-testament-canon",
   title: "History of the Bible: The Making of the New Testament Canon",
   status: "not-started",

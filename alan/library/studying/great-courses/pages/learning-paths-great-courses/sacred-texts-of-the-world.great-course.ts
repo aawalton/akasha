@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const sacredTextsOfTheWorld = {
   id: "019db533-f39e-7c45-8f02-0c1914fa5d93",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "sacred-texts-of-the-world",
   title: "Sacred Texts of the World",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theHolyLandRevealed = {
   id: "019db533-f3a0-707e-9396-20d731ca9772",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-holy-land-revealed",
   title: "The Holy Land Revealed",
   status: "not-started",

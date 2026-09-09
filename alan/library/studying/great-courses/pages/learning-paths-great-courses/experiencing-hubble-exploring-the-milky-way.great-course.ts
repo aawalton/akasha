@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const experiencingHubbleExploringTheMilkyWay = {
   id: "019db533-f39f-7055-8155-37b86503e52d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "experiencing-hubble-exploring-the-milky-way",
   title: "Experiencing Hubble: Exploring the Milky Way",
   status: "not-started",

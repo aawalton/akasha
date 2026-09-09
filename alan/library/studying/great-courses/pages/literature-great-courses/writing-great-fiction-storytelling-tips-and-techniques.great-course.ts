@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const writingGreatFictionStorytellingTipsAndTechniques = {
   id: "019db533-f39e-77bc-934d-2a8322cedfd1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "writing-great-fiction-storytelling-tips-and-techniques",
   title: "Writing Great Fiction: Storytelling Tips and Techniques",
   status: "in-progress",

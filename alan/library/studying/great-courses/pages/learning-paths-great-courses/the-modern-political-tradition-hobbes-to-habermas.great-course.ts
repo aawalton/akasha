@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theModernPoliticalTraditionHobbesToHabermas = {
   id: "019db533-f39e-7bfc-aa60-7398f173ad2e",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-modern-political-tradition-hobbes-to-habermas",
   title: "The Modern Political Tradition: Hobbes to Habermas",
   status: "not-started",

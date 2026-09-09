@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const knitSocksTwoAtATime = {
   id: "019db533-f39e-75e2-972a-29a1b592479c",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "knit-socks-two-at-a-time",
   title: "Knit Socks: Two at a Time!",
   status: "completed",

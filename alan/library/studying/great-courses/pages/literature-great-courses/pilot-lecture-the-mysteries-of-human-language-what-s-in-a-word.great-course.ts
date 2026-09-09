@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureTheMysteriesOfHumanLanguageWhatSInAWord = {
   id: "019db533-f39e-78af-9cd0-e975bf87d03d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-the-mysteries-of-human-language-what-s-in-a-word",
   title: "Pilot Lecture: The Mysteries of Human Language—What’s in a Word?",
   status: "completed",

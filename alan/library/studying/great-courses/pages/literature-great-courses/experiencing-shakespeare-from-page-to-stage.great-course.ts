@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const experiencingShakespeareFromPageToStage = {
   id: "019db533-f39e-7903-86be-d9c595e55c21",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "experiencing-shakespeare-from-page-to-stage",
   title: "Experiencing Shakespeare: From Page to Stage",
   status: "not-started",

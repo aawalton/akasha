@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatCourse12RevolutionaryDiscoveriesThatCouldChangeEverything = {
   id: "019db533-f39f-7444-99b0-6ee542c5680e",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-course-12-revolutionary-discoveries-that-could-change-everything",
   title: "12 Revolutionary Discoveries That Could Change Everything",
   status: "completed",

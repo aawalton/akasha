@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const languageAToZ = {
   id: "019db533-f39f-74ae-add2-f190ca8b03d3",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "language-a-to-z",
   title: "Language A to Z",
   status: "completed",

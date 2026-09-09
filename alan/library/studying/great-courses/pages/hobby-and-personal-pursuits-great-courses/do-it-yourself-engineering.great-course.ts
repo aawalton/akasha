@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const doItYourselfEngineering = {
   id: "019db533-f39f-7312-81f0-f0ff4860a84a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "do-it-yourself-engineering",
   title: "Do-It-Yourself Engineering",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const masterYourPeopleSkills = {
   id: "019db533-f39e-72b8-8e12-e6beb8819693",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "master-your-people-skills",
   title: "Master Your People Skills",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const storiesAboutGreatStorytellers = {
   id: "019db533-f39e-785d-b256-61f5499f59ea",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "stories-about-great-storytellers",
   title: "Stories about Great Storytellers",
   status: "completed",

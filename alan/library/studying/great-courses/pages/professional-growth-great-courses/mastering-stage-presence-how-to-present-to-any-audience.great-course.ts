@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const masteringStagePresenceHowToPresentToAnyAudience = {
   id: "019db533-f39e-72cf-86f7-46a97cb5fd44",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "mastering-stage-presence-how-to-present-to-any-audience",
   title: "Mastering Stage Presence: How to Present to Any Audience",
   status: "not-started",

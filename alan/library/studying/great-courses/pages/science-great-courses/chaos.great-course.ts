@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const chaos = {
   id: "019db533-f39f-7352-a7e4-ebaec20d2199",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "chaos",
   title: "Chaos",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theVikingAgeNewPerspectivesOnHistoryAndCulture = {
   id: "019db533-f3a0-705c-a308-eae03d9a41ca",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-viking-age-new-perspectives-on-history-and-culture",
   title: "The Viking Age: New Perspectives on History and Culture",
   status: "not-started",

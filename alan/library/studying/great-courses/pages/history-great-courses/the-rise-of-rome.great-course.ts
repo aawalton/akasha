@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theRiseOfRome = {
   id: "019db533-f39f-7cdb-bbbd-ba4ac2b01c87",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-rise-of-rome",
   title: "The Rise of Rome",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const readingBiblicalLiteratureGenesisToRevelation = {
   id: "019db533-f39e-7c6a-94ee-16ea80571b4c",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "reading-biblical-literature-genesis-to-revelation",
   title: "Reading Biblical Literature: Genesis to Revelation",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatMastersHaydnHisLifeAndMusic = {
   id: "019db533-f3a0-75ea-8cc0-d2190aee4477",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-masters-haydn-his-life-and-music",
   title: "Great Masters: Haydn-His Life and Music",
   status: "not-started",

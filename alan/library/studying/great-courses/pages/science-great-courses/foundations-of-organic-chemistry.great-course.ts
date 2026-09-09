@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const foundationsOfOrganicChemistry = {
   id: "019db533-f39f-702a-9b48-55480018d5ad",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "foundations-of-organic-chemistry",
   title: "Foundations of Organic Chemistry",
   status: "not-started",

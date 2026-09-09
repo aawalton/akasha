@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingTheWorldSGreatestStructures = {
   id: "019db533-f39f-7b5e-b9bf-ff972673d9d8",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-the-world-s-greatest-structures",
   title: "Understanding the World's Greatest Structures",
   status: "completed",

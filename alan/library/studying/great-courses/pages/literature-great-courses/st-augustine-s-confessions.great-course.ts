@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const stAugustineSConfessions = {
   id: "019db533-f39e-7c63-863c-b176e0067cdd",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "st-augustine-s-confessions",
   title: "St. Augustine's Confessions",
   status: "not-started",

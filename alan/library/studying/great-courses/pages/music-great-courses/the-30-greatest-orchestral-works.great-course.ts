@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const the30GreatestOrchestralWorks = {
   id: "019db533-f3a0-72fe-a9e6-cc6cb6bffbc4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-30-greatest-orchestral-works",
   title: "The 30 Greatest Orchestral Works",
   status: "not-started",

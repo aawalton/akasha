@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const startupLibraryQuilting = {
   id: "019db533-f39e-7402-9e94-579c1f8a08c7",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "startup-library-quilting",
   title: "Startup Library: Quilting",
   status: "completed",

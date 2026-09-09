@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const yourDeceptiveMindAScientificGuideToCriticalThinkingSkills = {
   id: "019db533-f39e-7ada-a3cb-8cb537ed451c",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "your-deceptive-mind-a-scientific-guide-to-critical-thinking-skills",
   title: "Your Deceptive Mind: A Scientific Guide to Critical Thinking Skills",
   status: "not-started",

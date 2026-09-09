@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const aLiteraryTourOfTheUnitedStates = {
   id: "019db533-f39e-77d3-a6ae-c909aa8e5a7a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "a-literary-tour-of-the-united-states",
   title: "A Literary Tour of the United States",
   status: "not-started",

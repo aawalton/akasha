@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theIrishIdentityIndependenceHistoryAndLiterature = {
   id: "019db533-f39f-77d2-aaac-61325c9ece3d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-irish-identity-independence-history-and-literature",
   title: "The Irish Identity: Independence, History, and Literature",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const thePowerOfThoughtExperiments = {
   id: "019db533-f39e-7b57-9173-73091a81f4cc",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-power-of-thought-experiments",
   title: "The Power of Thought Experiments",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const danteSDivineComedy = {
   id: "019db533-f39e-79bd-8a93-288adcdf5817",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "dante-s-divine-comedy",
   title: "Dante's Divine Comedy",
   status: "not-started",

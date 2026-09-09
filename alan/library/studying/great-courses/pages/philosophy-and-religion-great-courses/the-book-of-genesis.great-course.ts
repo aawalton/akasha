@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theBookOfGenesis = {
   id: "019db533-f39e-7c0a-b532-0ec73722880f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-book-of-genesis",
   title: "The Book of Genesis",
   status: "not-started",

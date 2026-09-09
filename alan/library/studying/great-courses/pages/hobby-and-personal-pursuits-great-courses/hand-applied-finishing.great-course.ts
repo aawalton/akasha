@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const handAppliedFinishing = {
   id: "019db533-f39e-75c2-97e2-2801de8e0653",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "hand-applied-finishing",
   title: "Hand-Applied Finishing",
   status: "completed",

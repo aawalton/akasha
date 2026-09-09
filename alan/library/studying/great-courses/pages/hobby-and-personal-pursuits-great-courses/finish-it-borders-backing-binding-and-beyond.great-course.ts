@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const finishItBordersBackingBindingAndBeyond = {
   id: "019db533-f39e-776c-9d28-d9a503cbb1f2",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "finish-it-borders-backing-binding-and-beyond",
   title: "Finish It! Borders, Backing, Binding & Beyond",
   status: "completed",

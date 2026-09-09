@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const victorianBritain = {
   id: "019db533-f39f-7b33-a5fe-b74a5d754099",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "victorian-britain",
   title: "Victorian Britain",
   status: "not-started",

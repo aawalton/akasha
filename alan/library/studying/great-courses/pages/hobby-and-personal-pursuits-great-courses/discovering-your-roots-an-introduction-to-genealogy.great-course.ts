@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const discoveringYourRootsAnIntroductionToGenealogy = {
   id: "019db533-f39e-7755-98e1-ed7a3b9b34c3",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "discovering-your-roots-an-introduction-to-genealogy",
   title: "Discovering Your Roots: An Introduction to Genealogy",
   status: "not-started",

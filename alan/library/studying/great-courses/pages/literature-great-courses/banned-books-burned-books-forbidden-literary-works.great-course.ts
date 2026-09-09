@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const bannedBooksBurnedBooksForbiddenLiteraryWorks = {
   id: "019db533-f39e-79fc-ad7f-fda55273facf",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "banned-books-burned-books-forbidden-literary-works",
   title: "Banned Books, Burned Books: Forbidden Literary Works",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const mythInHumanHistory = {
   id: "019db533-f39e-7819-bb53-0c6c84cfdcfc",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "myth-in-human-history",
   title: "Myth in Human History",
   status: "not-started",

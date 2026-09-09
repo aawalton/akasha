@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingTheUsGovernment = {
   id: "019db533-f3a0-7052-bfc9-bb44683dce2d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-the-us-government",
   title: "Understanding the US Government",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theTriumphOfChristianity = {
   id: "019db533-f39e-7b3f-9002-efed96b1d34e",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-triumph-of-christianity",
   title: "The Triumph of Christianity",
   status: "not-started",

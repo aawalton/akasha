@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const artAndCraftOfMathematicalProblemSolving = {
   id: "019db533-f3a0-7479-a406-863f03a2cced",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "art-and-craft-of-mathematical-problem-solving",
   title: "Art and Craft of Mathematical Problem Solving",
   status: "completed",

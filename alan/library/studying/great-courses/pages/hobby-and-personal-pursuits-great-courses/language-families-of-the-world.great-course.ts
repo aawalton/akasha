@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const languageFamiliesOfTheWorld = {
   id: "019db533-f39f-7502-b429-125aae6a616a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "language-families-of-the-world",
   title: "Language Families of the World",
   status: "completed",

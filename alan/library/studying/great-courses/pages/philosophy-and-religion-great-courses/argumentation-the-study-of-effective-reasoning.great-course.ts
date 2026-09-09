@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const argumentationTheStudyOfEffectiveReasoning = {
   id: "019db533-f39e-7dcc-8cd1-32a0be7df6fc",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "argumentation-the-study-of-effective-reasoning",
   title: "Argumentation: The Study of Effective Reasoning",
   status: "completed",

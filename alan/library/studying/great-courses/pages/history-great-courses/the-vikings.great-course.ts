@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theVikings = {
   id: "019db533-f3a0-7281-9c99-294ae9b27f47",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-vikings",
   title: "The Vikings",
   status: "not-started",

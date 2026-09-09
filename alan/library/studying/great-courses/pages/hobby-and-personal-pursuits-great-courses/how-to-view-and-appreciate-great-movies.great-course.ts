@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToViewAndAppreciateGreatMovies = {
   id: "019db533-f39e-775d-893b-60c3da5a51ed",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-view-and-appreciate-great-movies",
   title: "How to View and Appreciate Great Movies",
   status: "not-started",

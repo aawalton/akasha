@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theUsConstitutionThroughHistory = {
   id: "019db533-f39f-7f82-b63d-2d90184d0923",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-us-constitution-through-history",
   title: "The US Constitution through History",
   status: "not-started",

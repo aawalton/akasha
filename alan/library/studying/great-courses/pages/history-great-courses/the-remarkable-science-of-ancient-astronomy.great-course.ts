@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theRemarkableScienceOfAncientAstronomy = {
   id: "019db533-f3a0-703a-a4ad-9c48d9f4ffc8",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-remarkable-science-of-ancient-astronomy",
   title: "The Remarkable Science of Ancient Astronomy",
   status: "completed",

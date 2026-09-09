@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const effectiveCommunicationSkills = {
   id: "019db533-f39e-78e5-a6d0-9d37c2f92ef9",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "effective-communication-skills",
   title: "Effective Communication Skills",
   status: "not-started",

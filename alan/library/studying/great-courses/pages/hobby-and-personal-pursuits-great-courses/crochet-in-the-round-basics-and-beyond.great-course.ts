@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const crochetInTheRoundBasicsAndBeyond = {
   id: "019db533-f39e-77c4-a768-8cef51a4b381",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "crochet-in-the-round-basics-and-beyond",
   title: "Crochet in the Round: Basics & Beyond",
   status: "completed",

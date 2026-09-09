@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const introductionToPsychology = {
   id: "019db533-f39f-7308-99dc-622b092fa6b7",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "introduction-to-psychology",
   title: "Introduction to Psychology",
   status: "not-started",

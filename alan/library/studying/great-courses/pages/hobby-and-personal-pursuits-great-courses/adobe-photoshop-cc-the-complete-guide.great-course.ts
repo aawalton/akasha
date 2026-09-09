@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const adobePhotoshopCcTheCompleteGuide = {
   id: "019db533-f39e-750f-a43b-1e90172e91a9",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "adobe-photoshop-cc-the-complete-guide",
   title: "Adobe Photoshop CC: The Complete Guide",
   status: "completed",

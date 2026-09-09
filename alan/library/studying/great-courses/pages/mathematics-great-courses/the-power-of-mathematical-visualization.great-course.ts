@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const thePowerOfMathematicalVisualization = {
   id: "019db533-f3a0-7649-87e1-c3e9dc8049fd",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-power-of-mathematical-visualization",
   title: "The Power of Mathematical Visualization",
   status: "not-started",

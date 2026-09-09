@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const didYouKnow = {
   id: "019db533-f39e-763e-8359-11be06a56c45",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "did-you-know",
   title: "Did You Know?",
   status: "completed",

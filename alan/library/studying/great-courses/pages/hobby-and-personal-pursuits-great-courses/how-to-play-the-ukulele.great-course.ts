@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToPlayTheUkulele = {
   id: "019db533-f3a0-736e-a0a3-4b7c19a1bbc7",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-play-the-ukulele",
   title: "How to Play the Ukulele",
   status: "not-started",

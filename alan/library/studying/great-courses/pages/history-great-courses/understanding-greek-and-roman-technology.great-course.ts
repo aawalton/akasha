@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingGreekAndRomanTechnology = {
   id: "019db533-f39f-7a88-9c43-8cc15d98a104",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-greek-and-roman-technology",
   title: "Understanding Greek and Roman Technology",
   status: "completed",

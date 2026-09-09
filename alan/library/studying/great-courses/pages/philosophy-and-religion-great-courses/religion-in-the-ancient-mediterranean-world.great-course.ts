@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const religionInTheAncientMediterraneanWorld = {
   id: "019db533-f39e-7c04-bf5b-0d16261a7854",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "religion-in-the-ancient-mediterranean-world",
   title: "Religion in the Ancient Mediterranean World",
   status: "not-started",

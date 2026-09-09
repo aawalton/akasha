@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const searchingForPeopleAndPlacesOfTheBible = {
   id: "019db533-f39e-7a7d-ad8f-a9bb31699fa0",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "searching-for-people-and-places-of-the-bible",
   title: "Searching for People and Places of the Bible",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const fittingSoloFromMeasurementsToMuslin = {
   id: "019db533-f39e-74ea-9348-5b2253beefc2",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "fitting-solo-from-measurements-to-muslin",
   title: "Fitting Solo: From Measurements to Muslin",
   status: "completed",

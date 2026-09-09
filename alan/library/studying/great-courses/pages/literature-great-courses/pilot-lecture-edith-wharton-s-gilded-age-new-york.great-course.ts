@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureEdithWhartonSGildedAgeNewYork = {
   id: "019db533-f39e-7838-954d-5ba4720ad157",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-edith-wharton-s-gilded-age-new-york",
   title: "Pilot Lecture: Edith Wharton’s Gilded Age New York",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theRiseOfCommunismFromMarxToLenin = {
   id: "019db533-f3a0-702a-9b58-b964c9556a32",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-rise-of-communism-from-marx-to-lenin",
   title: "The Rise of Communism: From Marx to Lenin",
   status: "not-started",

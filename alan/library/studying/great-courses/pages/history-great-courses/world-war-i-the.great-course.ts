@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const worldWarIThe = {
   id: "019db533-f3a0-7256-b743-a2a933399fff",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "world-war-i-the",
   title: "World War I: The",
   status: "not-started",

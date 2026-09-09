@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const metalsmithingAtHome = {
   id: "019db533-f39e-74b2-9794-d7f9aea0d44a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "metalsmithing-at-home",
   title: "Metalsmithing at Home",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const existentialismAndTheAuthenticLife = {
   id: "019db533-f39e-7b10-849b-44c9c68fffe5",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "existentialism-and-the-authentic-life",
   title: "Existentialism and the Authentic Life",
   status: "not-started",

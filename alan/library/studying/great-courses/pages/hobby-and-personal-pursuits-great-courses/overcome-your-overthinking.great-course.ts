@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const overcomeYourOverthinking = {
   id: "019db533-f39e-7456-827f-722d1907fafd",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "overcome-your-overthinking",
   title: "Overcome Your Overthinking",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const yourPublicPersonaSelfPresentationInEverydayLife = {
   id: "019db533-f39e-753d-bfd3-612f3c67e9ca",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "your-public-persona-self-presentation-in-everyday-life",
   title: "Your Public Persona: Self-Presentation in Everyday Life",
   status: "not-started",

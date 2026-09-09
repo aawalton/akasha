@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const fairIsleFundamentals = {
   id: "019db533-f39e-76e2-ad3c-aaf06f68e6e3",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "fair-isle-fundamentals",
   title: "Fair Isle Fundamentals",
   status: "completed",

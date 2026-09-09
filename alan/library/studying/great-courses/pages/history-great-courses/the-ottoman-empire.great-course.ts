@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theOttomanEmpire = {
   id: "019db533-f3a0-704d-ab44-f9eabb76b3fb",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-ottoman-empire",
   title: "The Ottoman Empire",
   status: "not-started",

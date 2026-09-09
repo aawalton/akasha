@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const musicAsAMirrorOfHistory = {
   id: "019db533-f3a0-72db-baeb-c496441e8ebe",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "music-as-a-mirror-of-history",
   title: "Music as a Mirror of History",
   status: "not-started",

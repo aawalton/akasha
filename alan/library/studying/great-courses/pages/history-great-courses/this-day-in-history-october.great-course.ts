@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const thisDayInHistoryOctober = {
   id: "019db533-f39f-7c86-bd13-acde09554c64",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "this-day-in-history-october",
   title: "This Day in History: October",
   status: "completed",

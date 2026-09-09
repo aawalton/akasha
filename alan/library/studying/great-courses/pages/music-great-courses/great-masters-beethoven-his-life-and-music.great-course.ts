@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatMastersBeethovenHisLifeAndMusic = {
   id: "019db533-f3a0-758a-adde-f3042a1da3d4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-masters-beethoven-his-life-and-music",
   title: "Great Masters: Beethoven—His Life and Music",
   status: "not-started",

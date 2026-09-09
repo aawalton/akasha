@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureTheStoryOfTheMahabharata = {
   id: "019db533-f39e-78c6-8d2d-6f7f1133c8f1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-the-story-of-the-mahabharata",
   title: "Pilot Lecture: The Story of the Mahabharata",
   status: "completed",

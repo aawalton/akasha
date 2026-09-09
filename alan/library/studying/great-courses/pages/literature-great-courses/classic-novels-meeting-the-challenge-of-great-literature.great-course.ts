@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const classicNovelsMeetingTheChallengeOfGreatLiterature = {
   id: "019db533-f39e-7a03-af73-b7489fed1912",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "classic-novels-meeting-the-challenge-of-great-literature",
   title: "Classic Novels: Meeting the Challenge of Great Literature",
   status: "not-started",

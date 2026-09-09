@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const buildingGreatSentencesExploringTheWriterSCraft = {
   id: "019db533-f39e-79b4-86ed-fe3cbaaf0d82",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "building-great-sentences-exploring-the-writer-s-craft",
   title: "Building Great Sentences: Exploring the Writer's Craft",
   status: "not-started",

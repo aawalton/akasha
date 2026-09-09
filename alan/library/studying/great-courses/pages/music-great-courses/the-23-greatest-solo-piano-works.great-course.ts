@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const the23GreatestSoloPianoWorks = {
   id: "019db533-f3a0-729d-9539-8be2a167d04a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-23-greatest-solo-piano-works",
   title: "The 23 Greatest Solo Piano Works",
   status: "not-started",

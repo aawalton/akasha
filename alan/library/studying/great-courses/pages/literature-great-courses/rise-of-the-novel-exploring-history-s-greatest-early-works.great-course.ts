@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const riseOfTheNovelExploringHistorySGreatestEarlyWorks = {
   id: "019db533-f39e-784e-80ff-97d3a0cad081",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "rise-of-the-novel-exploring-history-s-greatest-early-works",
   title: "Rise of the Novel: Exploring History’s Greatest Early Works",
   status: "not-started",

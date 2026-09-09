@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const mathematicsPhilosophyAndTheRealWorld = {
   id: "019db533-f3a0-7313-bfe4-129558f301aa",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "mathematics-philosophy-and-the-real-world",
   title: "Mathematics, Philosophy, and the “Real World”",
   status: "not-started",

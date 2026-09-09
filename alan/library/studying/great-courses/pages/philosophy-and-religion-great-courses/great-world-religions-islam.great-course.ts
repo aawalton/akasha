@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatWorldReligionsIslam = {
   id: "019db533-f39e-7d2b-8716-8ec902b253f4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-world-religions-islam",
   title: "Great World Religions: Islam",
   status: "not-started",

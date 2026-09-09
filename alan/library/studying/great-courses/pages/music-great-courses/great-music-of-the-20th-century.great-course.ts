@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatMusicOfThe20thCentury = {
   id: "019db533-f3a0-737d-9ae6-b547a11065a9",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-music-of-the-20th-century",
   title: "Great Music of the 20th Century",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theRiseOfModernJapan = {
   id: "019db533-f39f-7c90-a11b-d70074a5d14a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-rise-of-modern-japan",
   title: "The Rise of Modern Japan",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToProgramComputerScienceConceptsAndPythonExercises = {
   id: "019db533-f39e-7332-a9cf-0e6de2faa839",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-program-computer-science-concepts-and-python-exercises",
   title: "How to Program: Computer Science Concepts and Python Exercises",
   status: "not-started",

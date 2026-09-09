@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const cutToItStrategiesForSmarterQuilting = {
   id: "019db533-f39e-7646-a503-bceb36cbdaa7",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "cut-to-it-strategies-for-smarter-quilting",
   title: "Cut to It: Strategies for Smarter Quilting",
   status: "completed",

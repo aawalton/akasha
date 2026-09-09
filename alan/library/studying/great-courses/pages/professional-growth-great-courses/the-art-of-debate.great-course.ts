@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theArtOfDebate = {
   id: "019db533-f39e-7299-8507-079d12f31d21",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-art-of-debate",
   title: "The Art of Debate",
   status: "not-started",

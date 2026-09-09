@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const buildingLoveThatLasts = {
   id: "019db533-f39e-7774-bb14-9dff48d0323d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "building-love-that-lasts",
   title: "Building Love That Lasts",
   status: "not-started",

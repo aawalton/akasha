@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const afterTheTraumaLessonsFromMarjoryStonemanDouglas = {
   id: "019db533-f39e-760f-a487-c091ec999a5b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "after-the-trauma-lessons-from-marjory-stoneman-douglas",
   title: "After the Trauma: Lessons from Marjory Stoneman Douglas",
   status: "completed",

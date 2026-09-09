@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToTurnYourPassionIntoProfit = {
   id: "019db533-f39e-76d2-8383-4a7640048c10",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-turn-your-passion-into-profit",
   title: "How to Turn Your Passion into Profit",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const socialMedia101 = {
   id: "019db533-f39e-7617-af33-c66b0278eeb6",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "social-media-101",
   title: "Social Media 101",
   status: "not-started",

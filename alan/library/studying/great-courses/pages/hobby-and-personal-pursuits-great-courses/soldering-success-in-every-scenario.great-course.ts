@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const solderingSuccessInEveryScenario = {
   id: "019db533-f39e-75fa-a477-7d0bc6f9e2f4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "soldering-success-in-every-scenario",
   title: "Soldering Success in Every Scenario",
   status: "completed",

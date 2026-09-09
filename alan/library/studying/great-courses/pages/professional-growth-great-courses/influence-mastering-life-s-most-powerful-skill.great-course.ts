@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const influenceMasteringLifeSMostPowerfulSkill = {
   id: "019db533-f39e-72a8-b30b-f9a14f21b355",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "influence-mastering-life-s-most-powerful-skill",
   title: "Influence: Mastering Life's Most Powerful Skill",
   status: "not-started",

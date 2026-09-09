@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theHistoryOfTheUnitedStatesNavy = {
   id: "019db533-f39f-7cf0-b1b7-2fe32ba5ef5f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-history-of-the-united-states-navy",
   title: "The History of the United States Navy",
   status: "not-started",

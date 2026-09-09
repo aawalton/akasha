@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howTheEarthWorks = {
   id: "019db533-f39e-7ed9-bd14-4d00da5be3ea",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-the-earth-works",
   title: "How the Earth Works",
   status: "not-started",

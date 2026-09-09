@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const anIntroductionToNumberTheory = {
   id: "019db533-f3a0-7a38-bde8-bfebfea94124",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "an-introduction-to-number-theory",
   title: "An Introduction to Number Theory",
   status: "completed",

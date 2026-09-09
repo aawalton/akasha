@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const thePaganWorldAncientReligionsBeforeChristianity = {
   id: "019db533-f3a0-7079-8edc-a62a34ecc216",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-pagan-world-ancient-religions-before-christianity",
   title: "The Pagan World: Ancient Religions before Christianity",
   status: "completed",

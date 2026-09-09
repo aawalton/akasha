@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const myFirstToeUpSocks = {
   id: "019db533-f39e-7438-9119-ac8ca241a4ae",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "my-first-toe-up-socks",
   title: "My First Toe-Up Socks",
   status: "completed",

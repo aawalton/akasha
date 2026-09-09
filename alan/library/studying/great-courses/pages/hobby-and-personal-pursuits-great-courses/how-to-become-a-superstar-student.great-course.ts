@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToBecomeASuperstarStudent = {
   id: "019db533-f39e-75ab-9ea9-5e96d2cfec60",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-become-a-superstar-student",
   title: "How to Become a SuperStar Student",
   status: "not-started",

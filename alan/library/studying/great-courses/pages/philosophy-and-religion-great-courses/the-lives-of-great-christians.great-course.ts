@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theLivesOfGreatChristians = {
   id: "019db533-f39e-7bbf-90e9-d642516270ac",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-lives-of-great-christians",
   title: "The Lives of Great Christians",
   status: "not-started",

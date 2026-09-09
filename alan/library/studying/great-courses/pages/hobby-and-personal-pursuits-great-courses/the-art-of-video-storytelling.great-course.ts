@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theArtOfVideoStorytelling = {
   id: "019db533-f39e-7535-9729-3431b4831ceb",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-art-of-video-storytelling",
   title: "The Art of Video Storytelling",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const americaSMusicalHeritage = {
   id: "019db533-f3a0-756a-aca4-8d58d6952e5b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "america-s-musical-heritage",
   title: "America's Musical Heritage",
   status: "completed",

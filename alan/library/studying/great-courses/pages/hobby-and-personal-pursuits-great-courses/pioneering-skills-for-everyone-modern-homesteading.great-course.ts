@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pioneeringSkillsForEveryoneModernHomesteading = {
   id: "019db533-f39e-765e-9088-0b001b00e323",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pioneering-skills-for-everyone-modern-homesteading",
   title: "Pioneering Skills for Everyone: Modern Homesteading",
   status: "not-started",

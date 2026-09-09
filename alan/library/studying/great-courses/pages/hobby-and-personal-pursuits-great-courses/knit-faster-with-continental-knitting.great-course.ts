@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const knitFasterWithContinentalKnitting = {
   id: "019db533-f39e-75ea-a98a-ea7ae83335d2",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "knit-faster-with-continental-knitting",
   title: "Knit Faster with Continental Knitting",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const examiningTheBigQuestionsOfTime = {
   id: "019db533-f39e-7cce-816a-eac85c693998",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "examining-the-big-questions-of-time",
   title: "Examining the Big Questions of Time",
   status: "not-started",

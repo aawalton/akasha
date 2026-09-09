@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatMastersBrahmsHisLifeAndMusic = {
   id: "019db533-f3a0-75d4-88c1-d7d737b78eaa",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-masters-brahms-his-life-and-music",
   title: "Great Masters: Brahms—His Life and Music",
   status: "not-started",

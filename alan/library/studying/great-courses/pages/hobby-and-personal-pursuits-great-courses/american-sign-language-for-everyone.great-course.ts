@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const americanSignLanguageForEveryone = {
   id: "019db533-f39e-77e3-a05a-6cdba52ef750",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "american-sign-language-for-everyone",
   title: "American Sign Language for Everyone",
   status: "completed",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const oldEnglishLiteratureLanguageAsHistory = {
   id: "019db533-f39e-78a0-b23c-6eaea8c18149",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "old-english-literature-language-as-history",
   title: "Old English Literature: Language as History",
   status: "not-started",

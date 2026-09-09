@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatScientificIdeasThatChangedTheWorld = {
   id: "019db533-f39e-7e59-8e07-c7db21d0f507",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-scientific-ideas-that-changed-the-world",
   title: "Great Scientific Ideas That Changed the World",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theOdysseyOfHomer = {
   id: "019db533-f39e-77b4-a460-1851dc83b977",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-odyssey-of-homer",
   title: "The Odyssey of Homer",
   status: "not-started",

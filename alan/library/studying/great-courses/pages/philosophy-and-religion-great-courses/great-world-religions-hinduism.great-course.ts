@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatWorldReligionsHinduism = {
   id: "019db533-f39e-7d3a-86da-b0dc3c8ba0bc",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-world-religions-hinduism",
   title: "Great World Religions: Hinduism",
   status: "not-started",

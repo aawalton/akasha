@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const lostChristianitiesChristianScripturesAndTheBattlesOverAuthenti = {
   id: "019db533-f39e-7a6d-b39a-868159cf9b1f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "lost-christianities-christian-scriptures-and-the-battles-over-authenti",
   title: "Lost Christianities: Christian Scriptures and the Battles over Authentication",
   status: "not-started",

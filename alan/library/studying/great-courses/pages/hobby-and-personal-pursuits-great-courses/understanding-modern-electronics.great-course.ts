@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingModernElectronics = {
   id: "019db533-f39e-7db1-9fcf-a26f0821db7c",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-modern-electronics",
   title: "Understanding Modern Electronics",
   status: "not-started",

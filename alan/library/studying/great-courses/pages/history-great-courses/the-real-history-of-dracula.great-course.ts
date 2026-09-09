@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theRealHistoryOfDracula = {
   id: "019db533-f3a0-7057-bbdb-543993d464e7",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-real-history-of-dracula",
   title: "The Real History of Dracula",
   status: "not-started",

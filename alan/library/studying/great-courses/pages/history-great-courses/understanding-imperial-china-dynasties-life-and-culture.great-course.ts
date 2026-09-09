@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingImperialChinaDynastiesLifeAndCulture = {
   id: "019db533-f39f-7701-89e3-386965a2f90b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-imperial-china-dynasties-life-and-culture",
   title: "Understanding Imperial China: Dynasties, Life, and Culture",
   status: "completed",

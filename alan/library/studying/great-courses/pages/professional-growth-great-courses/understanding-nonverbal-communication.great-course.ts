@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingNonverbalCommunication = {
   id: "019db533-f39e-72e0-9192-859b07268573",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-nonverbal-communication",
   title: "Understanding Nonverbal Communication",
   status: "not-started",

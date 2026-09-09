@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const fundamentalsOfHomeMaintenanceFromRepairsToRenovations = {
   id: "019db533-f39e-76f9-a8cc-952aacb64273",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "fundamentals-of-home-maintenance-from-repairs-to-renovations",
   title: "Fundamentals of Home Maintenance: From Repairs to Renovations",
   status: "completed",

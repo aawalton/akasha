@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const thePowerOfMathematicalThinkingFromNewtonSLawsToElectionsAnd = {
   id: "019db533-f3a0-76b3-857f-9390c64ed241",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-power-of-mathematical-thinking-from-newton-s-laws-to-elections-and",
   title: "The Power of Mathematical Thinking: From Newton’s Laws to Elections and the Economy",
   status: "not-started",

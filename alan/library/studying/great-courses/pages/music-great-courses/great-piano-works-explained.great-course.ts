@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatPianoWorksExplained = {
   id: "019db533-f3a0-7366-afba-83b0af530edb",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-piano-works-explained",
   title: "Great Piano Works Explained",
   status: "not-started",

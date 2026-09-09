@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theWisdomOfHistory = {
   id: "019db533-f3a0-71da-b6da-df9653fa8576",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-wisdom-of-history",
   title: "The Wisdom of History",
   status: "not-started",

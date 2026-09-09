@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const worldWarIiUpCloseAndPersonal = {
   id: "019db533-f3a0-71c7-ab61-f5f7ec0fd339",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "world-war-ii-up-close-and-personal",
   title: "World War II: Up Close and Personal",
   status: "not-started",

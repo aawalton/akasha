@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const understandingTheNewTestament = {
   id: "019db533-f39e-7b4f-aa49-a3f93ac17921",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "understanding-the-new-testament",
   title: "Understanding the New Testament",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const chamberMusicOfMozart = {
   id: "019db533-f3a0-757f-979d-f90dfcd8832a",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "chamber-music-of-mozart",
   title: "Chamber Music of Mozart",
   status: "not-started",

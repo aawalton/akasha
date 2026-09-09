@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const symphoniesOfBeethoven = {
   id: "019db533-f3a0-72a4-9c55-038625a36112",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "symphonies-of-beethoven",
   title: "Symphonies of Beethoven",
   status: "not-started",

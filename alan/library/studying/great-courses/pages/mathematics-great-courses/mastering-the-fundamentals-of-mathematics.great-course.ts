@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const masteringTheFundamentalsOfMathematics = {
   id: "019db533-f3a0-7826-a92e-5b3c6d8778bf",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "mastering-the-fundamentals-of-mathematics",
   title: "Mastering the Fundamentals of Mathematics",
   status: "not-started",

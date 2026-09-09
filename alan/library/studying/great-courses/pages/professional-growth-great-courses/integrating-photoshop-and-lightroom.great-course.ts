@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const integratingPhotoshopAndLightroom = {
   id: "019db533-f39e-72c7-8e2f-50e4c1316637",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "integrating-photoshop-and-lightroom",
   title: "Integrating Photoshop and Lightroom",
   status: "archived",

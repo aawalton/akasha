@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const underneathItAllGuideToInterfacingsLiningsAndFacings = {
   id: "019db533-f39e-767c-b154-cbee1524d1dd",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "underneath-it-all-guide-to-interfacings-linings-and-facings",
   title: "Underneath It All: Guide to Interfacings, Linings, and Facings",
   status: "completed",

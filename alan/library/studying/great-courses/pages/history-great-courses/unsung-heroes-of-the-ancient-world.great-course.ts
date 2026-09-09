@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const unsungHeroesOfTheAncientWorld = {
   id: "019db533-f39f-77bd-98a5-866569256da2",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "unsung-heroes-of-the-ancient-world",
   title: "Unsung Heroes of the Ancient World",
   status: "not-started",

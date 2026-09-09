@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const confuciusBuddhaJesusAndMuhammad = {
   id: "019db533-f39e-7b01-a400-5a467c3d47a8",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "confucius-buddha-jesus-and-muhammad",
   title: "Confucius, Buddha, Jesus, and Muhammad",
   status: "not-started",

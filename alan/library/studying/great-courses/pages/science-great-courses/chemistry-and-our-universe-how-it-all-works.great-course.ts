@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const chemistryAndOurUniverseHowItAllWorks = {
   id: "019db533-f39f-704a-a876-bdc5bb5daaf4",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "chemistry-and-our-universe-how-it-all-works",
   title: "Chemistry and Our Universe: How It All Works",
   status: "not-started",

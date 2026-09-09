@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const impossiblePhysicsBeyondTheEdge = {
   id: "019db533-f39e-7eee-8ba7-4201cf501eba",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "impossible-physics-beyond-the-edge",
   title: "Impossible: Physics Beyond the Edge",
   status: "not-started",

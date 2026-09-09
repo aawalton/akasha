@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const writingCreativeNonfiction = {
   id: "019db533-f39e-7626-98a9-970309b503a5",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "writing-creative-nonfiction",
   title: "Writing Creative Nonfiction",
   status: "not-started",

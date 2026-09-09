@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const underwaterArchaeologyMysteriesOfTheDeep = {
   id: "019db533-f3a0-706f-be87-9390cb627735",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "underwater-archaeology-mysteries-of-the-deep",
   title: "Underwater Archaeology: Mysteries of the Deep",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const lifeLessonsFromTheGreatMyths = {
   id: "019db533-f39e-7cd5-b782-feddf35dbd0d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "life-lessons-from-the-great-myths",
   title: "Life Lessons from the Great Myths",
   status: "not-started",

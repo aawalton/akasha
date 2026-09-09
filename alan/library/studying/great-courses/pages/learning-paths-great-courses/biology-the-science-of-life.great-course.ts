@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const biologyTheScienceOfLife = {
   id: "019db533-f39f-72dd-a003-cbd2d837116b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "biology-the-science-of-life",
   title: "Biology: The Science of Life",
   status: "in-progress",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const aBrandCalledYou = {
   id: "019db533-f39e-72f9-9792-73a20df2e75c",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "a-brand-called-you",
   title: "A Brand Called You",
   status: "completed",

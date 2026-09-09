@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const askADogTrainer = {
   id: "019db533-f39e-766d-ba4b-560e1cccbac1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "ask-a-dog-trainer",
   title: "Ask a Dog Trainer",
   status: "completed",

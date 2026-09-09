@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const buildingYourResilienceFindingMeaningInAdversity = {
   id: "019db533-f39e-747c-8f06-1b43fe81932c",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "building-your-resilience-finding-meaning-in-adversity",
   title: "Building Your Resilience: Finding Meaning in Adversity",
   status: "not-started",

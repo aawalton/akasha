@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const veterinarySchoolForEveryoneCaringForCatsAndDogs = {
   id: "019db533-f39e-754c-b8c5-78911e2985ad",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "veterinary-school-for-everyone-caring-for-cats-and-dogs",
   title: "Veterinary School for Everyone: Caring for Cats and Dogs",
   status: "not-started",

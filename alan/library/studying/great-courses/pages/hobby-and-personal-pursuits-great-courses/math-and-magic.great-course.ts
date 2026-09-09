@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const mathAndMagic = {
   id: "019db533-f3a0-77fc-8ec6-32c4d954d64b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "math-and-magic",
   title: "Math and Magic",
   status: "completed",

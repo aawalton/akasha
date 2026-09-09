@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const pilotLectureTheGeniusOfSocrates = {
   id: "019db533-f39e-7a3e-9e9c-49f01a2683a1",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "pilot-lecture-the-genius-of-socrates",
   title: "Pilot Lecture: The Genius of Socrates",
   status: "completed",

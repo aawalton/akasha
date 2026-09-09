@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const epigeneticsHowEnvironmentChangesYourBiology = {
   id: "019db533-f39f-733c-aa9d-289327b64213",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "epigenetics-how-environment-changes-your-biology",
   title: "Epigenetics: How Environment Changes Your Biology",
   status: "not-started",

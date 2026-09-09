@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const languageAndTheMind = {
   id: "019db533-f39e-7828-8f53-eca4a1a3e830",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "language-and-the-mind",
   title: "Language and the Mind",
   status: "completed",

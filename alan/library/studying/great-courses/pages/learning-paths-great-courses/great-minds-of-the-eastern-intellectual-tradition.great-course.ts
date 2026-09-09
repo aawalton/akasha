@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const greatMindsOfTheEasternIntellectualTradition = {
   id: "019db533-f39e-7c80-b97e-3a65361f5984",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "great-minds-of-the-eastern-intellectual-tradition",
   title: "Great Minds of the Eastern Intellectual Tradition",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const thePowerOfStorytellingWithAriShapiro = {
   id: "019db533-f39e-727b-a036-d09af379923d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-power-of-storytelling-with-ari-shapiro",
   title: "The Power of Storytelling with Ari Shapiro",
   status: "not-started",

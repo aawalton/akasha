@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const writtenCommunicationsBeingHeardAndUnderstood = {
   id: "019db533-f39e-77ac-b9d0-bbb3857d0ab5",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "written-communications-being-heard-and-understood",
   title: "Written Communications: Being Heard and Understood",
   status: "not-started",

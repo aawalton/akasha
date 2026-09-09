@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howChemistrySurroundsYou = {
   id: "01a06578-6719-7002-9d6d-364de7881031",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-chemistry-surrounds-you",
   title: "How Chemistry Surrounds You",
   status: "not-started",

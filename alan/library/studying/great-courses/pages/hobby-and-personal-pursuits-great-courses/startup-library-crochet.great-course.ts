@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const startupLibraryCrochet = {
   id: "019db533-f39e-74ff-a67a-f3d31d81a856",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "startup-library-crochet",
   title: "Startup Library: Crochet",
   status: "completed",

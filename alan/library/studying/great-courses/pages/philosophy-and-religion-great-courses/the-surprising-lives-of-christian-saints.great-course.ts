@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theSurprisingLivesOfChristianSaints = {
   id: "019db533-f39e-7b30-884a-e7debebef69f",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-surprising-lives-of-christian-saints",
   title: "The Surprising Lives of Christian Saints",
   status: "not-started",

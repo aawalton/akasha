@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const lighting101 = {
   id: "019db533-f39e-72c0-8deb-c4652ea69124",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "lighting-101",
   title: "Lighting 101",
   status: "not-started",

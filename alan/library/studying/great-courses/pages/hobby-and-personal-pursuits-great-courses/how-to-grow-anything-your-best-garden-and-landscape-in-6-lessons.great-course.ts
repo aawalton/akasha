@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const howToGrowAnythingYourBestGardenAndLandscapeIn6Lessons = {
   id: "019db533-f39e-76ea-a989-716affbd7645",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "how-to-grow-anything-your-best-garden-and-landscape-in-6-lessons",
   title: "How to Grow Anything: Your Best Garden and Landscape in 6 Lessons",
   status: "completed",

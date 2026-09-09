@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const musicAndTheBrain = {
   id: "019db533-f3a0-72e9-928a-9e08bb1ee127",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "music-and-the-brain",
   title: "Music and the Brain",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theDeadSeaScrolls = {
   id: "019db533-f39e-7a9c-866a-edb45b70481d",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-dead-sea-scrolls",
   title: "The Dead Sea Scrolls",
   status: "not-started",

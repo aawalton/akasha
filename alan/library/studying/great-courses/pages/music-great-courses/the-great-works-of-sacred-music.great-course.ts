@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theGreatWorksOfSacredMusic = {
   id: "019db533-f3a0-724f-a087-c41ab912999b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-great-works-of-sacred-music",
   title: "The Great Works of Sacred Music",
   status: "not-started",

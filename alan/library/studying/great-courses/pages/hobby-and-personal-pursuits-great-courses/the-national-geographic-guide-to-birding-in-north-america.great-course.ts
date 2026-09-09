@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const theNationalGeographicGuideToBirdingInNorthAmerica = {
   id: "019db533-f39e-7d95-86e8-781b3410b371",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "the-national-geographic-guide-to-birding-in-north-america",
   title: "The National Geographic Guide to Birding in North America",
   status: "not-started",

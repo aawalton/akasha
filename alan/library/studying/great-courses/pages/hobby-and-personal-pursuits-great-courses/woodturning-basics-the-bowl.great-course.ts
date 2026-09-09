@@ -3,6 +3,7 @@ import type { GreatCourse } from "../../great-course.page-type.ts"
 export const woodturningBasicsTheBowl = {
   id: "019db533-f39e-752d-8817-4deefccbbb0b",
   pageTypeSlug: "great-course",
+  type: "great-course",
   slug: "woodturning-basics-the-bowl",
   title: "Woodturning Basics: The Bowl",
   status: "completed",
