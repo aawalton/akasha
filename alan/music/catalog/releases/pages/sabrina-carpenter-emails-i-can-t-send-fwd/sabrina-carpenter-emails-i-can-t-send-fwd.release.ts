@@ -9,7 +9,7 @@ export const sabrinaCarpenterEmailsICanTSendFwd = {
   position: 0,
   ownLength: 51.083633,
   ownProgress: 51.083633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-17",
   externalId: "2g4aJTa5ejGpp0O0GKzWAQ",

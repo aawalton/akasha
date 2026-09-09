@@ -9,7 +9,7 @@ export const sabrinaCarpenterSpotifySingles = {
   position: 0,
   ownLength: 6.984483,
   ownProgress: 6.984483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-10-18",
   externalId: "2kJnIPJHIRZlfOx0TZEKBP",

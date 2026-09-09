@@ -9,7 +9,7 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
   position: 0,
   ownLength: 5.53765,
   ownProgress: 5.53765,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-14",
   externalId: "0TN8dXBkeIqDjVfUV3gPpc",

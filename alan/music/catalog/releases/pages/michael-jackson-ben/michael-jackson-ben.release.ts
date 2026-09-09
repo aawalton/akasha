@@ -9,7 +9,7 @@ export const michaelJacksonBen = {
   position: 0,
   ownLength: 31.607283,
   ownProgress: 31.607283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1972-08-04",

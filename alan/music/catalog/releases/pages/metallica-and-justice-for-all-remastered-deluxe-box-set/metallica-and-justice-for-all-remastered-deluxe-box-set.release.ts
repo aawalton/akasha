@@ -9,7 +9,7 @@ export const metallicaAndJusticeForAllRemasteredDeluxeBoxSet = {
   position: 0,
   ownLength: 788.81305,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1988-09-07",
   externalId: "2XbWaerVk9fjhEiGSrd6TF",

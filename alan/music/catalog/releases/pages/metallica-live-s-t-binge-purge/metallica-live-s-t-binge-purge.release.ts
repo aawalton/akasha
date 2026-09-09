@@ -9,7 +9,7 @@ export const metallicaLiveSTBingePurge = {
   position: 0,
   ownLength: 177.172733,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1993-11-23",
   externalId: "4iBN00FZaKlaXVYfxV7bBQ",

@@ -9,7 +9,7 @@ export const sabrinaCarpenterShortNSweetDeluxe = {
   position: 0,
   ownLength: 50.990583,
   ownProgress: 50.990583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-14",
   externalId: "3WzBIQmn2hrulLeTY9smkk",

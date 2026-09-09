@@ -9,7 +9,7 @@ export const paulCardallFocusStudyWithPeacefulPianoMusicRemastered2025 = {
   position: 0,
   ownLength: 73.048683,
   ownProgress: 73.048683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-03",
   externalId: "3NSN9FGcnLlbQnwB23W4PM",

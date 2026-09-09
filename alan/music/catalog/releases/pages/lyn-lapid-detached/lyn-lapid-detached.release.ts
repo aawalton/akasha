@@ -9,7 +9,7 @@ export const lynLapidDetached = {
   position: 0,
   ownLength: 2.436267,
   ownProgress: 2.436267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-10-07",

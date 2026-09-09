@@ -9,7 +9,7 @@ export const linkinParkMeteoraLiveAroundTheWorld = {
   position: 0,
   ownLength: 25.52885,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-05",
   externalId: "4flcwtqnLoKZJ2wrCp1aJq",

@@ -9,7 +9,7 @@ export const metallicaIDisappear = {
   position: 0,
   ownLength: 4.437333,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2000-04-19",
   externalId: "412VzhW8RnyldxUxC5pb8G",

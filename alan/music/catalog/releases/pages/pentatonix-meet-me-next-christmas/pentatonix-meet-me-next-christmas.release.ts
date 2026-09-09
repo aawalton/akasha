@@ -9,7 +9,7 @@ export const pentatonixMeetMeNextChristmas = {
   position: 0,
   ownLength: 2.732033,
   ownProgress: 2.732033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-01",
   externalId: "2VVfxBR6rxdMOyBPQZAyPx",

@@ -9,7 +9,7 @@ export const paulCardallSavingTinyHearts = {
   position: 0,
   ownLength: 53.186567,
   ownProgress: 53.186567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-11-11",
   externalId: "5rmINAZz8JiUVDSvktSK4v",

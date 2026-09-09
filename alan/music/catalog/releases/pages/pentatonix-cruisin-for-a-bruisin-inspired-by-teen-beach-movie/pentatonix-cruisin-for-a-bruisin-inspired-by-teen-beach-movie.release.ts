@@ -9,7 +9,7 @@ export const pentatonixCruisinForABruisinInspiredByTeenBeachMovie = {
   position: 0,
   ownLength: 2.048883,
   ownProgress: 2.048883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
   externalId: "6gfPLNyKpIs8Aafvd8ajnD",

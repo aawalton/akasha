@@ -9,7 +9,7 @@ export const paulCardallSacredPiano = {
   position: 0,
   ownLength: 59.599033,
   ownProgress: 59.599033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2009-08-18",
   externalId: "3D82z6ou9OTYQHFrQwUb2j",

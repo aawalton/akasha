@@ -9,7 +9,7 @@ export const paulCardallFatherSBlessing = {
   position: 0,
   ownLength: 2.514567,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-01-30",
   externalId: "65YCv8qtswBUKezJa52DNG",

@@ -9,7 +9,7 @@ export const siaAngelByTheWings = {
   position: 0,
   ownLength: 5.32,
   ownProgress: 5.32,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-02",
   externalId: "1diZXhFKWvBHJg6YMEZ74b",

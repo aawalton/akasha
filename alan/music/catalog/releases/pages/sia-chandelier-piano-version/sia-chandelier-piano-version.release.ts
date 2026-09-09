@@ -9,7 +9,7 @@ export const siaChandelierPianoVersion = {
   position: 0,
   ownLength: 4.006667,
   ownProgress: 4.006667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-09-09",
   externalId: "5jJssYihQiAJzdx3rgdbRz",

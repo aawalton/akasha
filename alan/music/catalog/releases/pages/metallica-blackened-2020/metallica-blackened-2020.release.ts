@@ -9,7 +9,7 @@ export const metallicaBlackened2020 = {
   position: 0,
   ownLength: 5.538883,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-05-15",
   externalId: "4UAflzkXm8xkKy1BbHaQQU",

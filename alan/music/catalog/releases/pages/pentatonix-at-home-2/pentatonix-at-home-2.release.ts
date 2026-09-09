@@ -9,7 +9,7 @@ export const pentatonixAtHome2 = {
   position: 0,
   ownLength: 24.9761,
   ownProgress: 24.9761,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-02",
   externalId: "27y7LkojjT5POmnZeWIttg",

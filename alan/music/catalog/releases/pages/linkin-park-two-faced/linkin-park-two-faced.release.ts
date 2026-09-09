@@ -9,7 +9,7 @@ export const linkinParkTwoFaced = {
   position: 0,
   ownLength: 3.059733,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-11-13",
   externalId: "4kksZlvAqineklmhltdTFe",

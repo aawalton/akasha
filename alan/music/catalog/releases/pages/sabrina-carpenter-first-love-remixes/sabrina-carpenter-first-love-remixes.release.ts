@@ -9,7 +9,7 @@ export const sabrinaCarpenterFirstLoveRemixes = {
   position: 0,
   ownLength: 10.124367,
   ownProgress: 10.124367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-01",
   externalId: "0PRCtct3H4TvrHdVBhKKxc",

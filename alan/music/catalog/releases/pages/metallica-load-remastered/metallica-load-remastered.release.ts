@@ -9,7 +9,7 @@ export const metallicaLoadRemastered = {
   position: 0,
   ownLength: 78.957683,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1996-06-04",
   externalId: "2V0L7LHTSvlv5aaOCqILvP",

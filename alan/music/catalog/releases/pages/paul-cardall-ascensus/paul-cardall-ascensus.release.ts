@@ -9,7 +9,7 @@ export const paulCardallAscensus = {
   position: 0,
   ownLength: 29.9369,
   ownProgress: 29.9369,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-23",
   externalId: "6ZUz8GuEhTlA5t6zSm7FQa",

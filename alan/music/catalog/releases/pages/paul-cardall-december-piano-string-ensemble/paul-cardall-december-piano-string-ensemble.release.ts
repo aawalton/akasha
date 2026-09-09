@@ -9,7 +9,7 @@ export const paulCardallDecemberPianoStringEnsemble = {
   position: 0,
   ownLength: 45.786783,
   ownProgress: 45.786783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-03",
   externalId: "7gPTqqmN9P8vPNjy7HJP5c",

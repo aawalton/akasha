@@ -9,7 +9,7 @@ export const sabrinaCarpenterNonsenseSpedUpVersion = {
   position: 0,
   ownLength: 5.019367,
   ownProgress: 5.019367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-14",
   externalId: "23eBqMqUmcb1wcxuXfYw6k",

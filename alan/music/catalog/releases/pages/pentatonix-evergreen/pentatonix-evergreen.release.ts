@@ -9,7 +9,7 @@ export const pentatonixEvergreen = {
   position: 0,
   ownLength: 39.5988,
   ownProgress: 39.5988,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-29",
   externalId: "7HgVH7ChzqayHdf1eAi9c1",

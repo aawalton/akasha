@@ -9,7 +9,7 @@ export const linkinParkOneMoreLightSteveAokiChesterForeverRemix = {
   position: 0,
   ownLength: 4.177767,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-10-25",
   externalId: "51WStYbzUKG6O0XZd5Ta9x",

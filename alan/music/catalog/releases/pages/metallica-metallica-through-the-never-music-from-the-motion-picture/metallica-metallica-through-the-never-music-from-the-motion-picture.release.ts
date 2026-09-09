@@ -9,7 +9,7 @@ export const metallicaMetallicaThroughTheNeverMusicFromTheMotionPicture = {
   position: 0,
   ownLength: 101.0959,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-01-01",
   externalId: "72grIwGP38Iy2S1jxt1Gjd",

@@ -9,7 +9,7 @@ export const michaelJacksonHistoryPastPresentAndFutureBookI = {
   position: 0,
   ownLength: 148.685167,
   ownProgress: 148.685167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1995-06-16",

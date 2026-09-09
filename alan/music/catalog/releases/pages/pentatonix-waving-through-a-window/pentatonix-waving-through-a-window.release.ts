@@ -9,7 +9,7 @@ export const pentatonixWavingThroughAWindow = {
   position: 0,
   ownLength: 3.85185,
   ownProgress: 3.85185,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-22",
   externalId: "1Lu19hxsgZSYrDFT7gGIK1",

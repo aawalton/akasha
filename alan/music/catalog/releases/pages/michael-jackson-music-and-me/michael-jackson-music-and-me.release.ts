@@ -9,7 +9,7 @@ export const michaelJacksonMusicAndMe = {
   position: 0,
   ownLength: 32.238617,
   ownProgress: 32.238617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1973-08-13",

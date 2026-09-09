@@ -9,7 +9,7 @@ export const phoebeBridgersMotionSickness = {
   position: 0,
   ownLength: 3.829333,
   ownProgress: 3.829333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-18",
   externalId: "35SwvxbVW5F8uyRaOMvVTd",

@@ -9,7 +9,7 @@ export const linkinParkReanimation = {
   position: 0,
   ownLength: 73.66855,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2002-01-01",
   externalId: "1MhedvSCTqGphXQz3oucpj",

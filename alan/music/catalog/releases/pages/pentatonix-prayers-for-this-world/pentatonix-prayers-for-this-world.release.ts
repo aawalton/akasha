@@ -9,7 +9,7 @@ export const pentatonixPrayersForThisWorld = {
   position: 0,
   ownLength: 3.707767,
   ownProgress: 3.707767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-09-23",
   externalId: "6e4ASUu9fUIw2QBGppK4Qb",

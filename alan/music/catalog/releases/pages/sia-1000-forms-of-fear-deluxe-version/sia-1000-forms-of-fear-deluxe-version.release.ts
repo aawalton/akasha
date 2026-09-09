@@ -9,7 +9,7 @@ export const sia1000FormsOfFearDeluxeVersion = {
   position: 0,
   ownLength: 84.62565,
   ownProgress: 84.62565,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-05-04",
   externalId: "6FdNvoO5sF4EKwCX9je1MH",

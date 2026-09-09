@@ -9,7 +9,7 @@ export const siaAudioCidRemix = {
   position: 0,
   ownLength: 2.69955,
   ownProgress: 2.69955,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-15",
   externalId: "1BuWvOi9Z2Tmgv9eQdooR6",

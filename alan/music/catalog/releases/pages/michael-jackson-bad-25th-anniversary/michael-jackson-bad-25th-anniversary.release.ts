@@ -9,7 +9,7 @@ export const michaelJacksonBad25thAnniversary = {
   position: 0,
   ownLength: 107.368133,
   ownProgress: 107.368133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2012-09-18",

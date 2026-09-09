@@ -9,7 +9,7 @@ export const siaCheapThrills = {
   position: 0,
   ownLength: 3.516217,
   ownProgress: 3.516217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-12-17",
   externalId: "1ZMYMTP0S4hp9AlGkAWWjt",

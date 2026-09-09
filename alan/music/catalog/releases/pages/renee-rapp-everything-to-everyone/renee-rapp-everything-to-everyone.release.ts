@@ -9,7 +9,7 @@ export const reneeRappEverythingToEveryone = {
   position: 0,
   ownLength: 19.3732,
   ownProgress: 19.3732,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-11-11",

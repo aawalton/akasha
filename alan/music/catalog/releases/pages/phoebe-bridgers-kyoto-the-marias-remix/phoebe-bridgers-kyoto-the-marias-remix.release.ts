@@ -9,7 +9,7 @@ export const phoebeBridgersKyotoTheMariasRemix = {
   position: 0,
   ownLength: 3.638217,
   ownProgress: 3.638217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2021-08-19",

@@ -9,7 +9,7 @@ export const siaBornYesterday = {
   position: 0,
   ownLength: 3.308817,
   ownProgress: 3.308817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-04",
   externalId: "7mjYTOjmcH4UHnCdct2xZi",

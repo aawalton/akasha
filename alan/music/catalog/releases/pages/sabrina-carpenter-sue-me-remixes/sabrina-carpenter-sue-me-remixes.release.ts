@@ -9,7 +9,7 @@ export const sabrinaCarpenterSueMeRemixes = {
   position: 0,
   ownLength: 16.689633,
   ownProgress: 16.689633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-18",
   externalId: "6WZNqfmrunSLlgesOaPC5I",

@@ -9,7 +9,7 @@ export const lynLapidCruiseControl = {
   position: 0,
   ownLength: 2.591433,
   ownProgress: 2.591433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-03-29",

@@ -9,7 +9,7 @@ export const lynLapidWishIDidnTCareFeatLynLapid = {
   position: 0,
   ownLength: 2.673333,
   ownProgress: 2.673333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-05-09",

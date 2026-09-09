@@ -9,7 +9,7 @@ export const linkinParkMinutesToMidnightDeluxeEdition = {
   position: 0,
   ownLength: 57.40455,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-05-14",
   externalId: "4JtIVJRA342O0YoAchen5Q",

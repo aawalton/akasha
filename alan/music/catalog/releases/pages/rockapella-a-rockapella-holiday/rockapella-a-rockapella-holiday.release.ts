@@ -9,7 +9,7 @@ export const rockapellaARockapellaHoliday = {
   position: 0,
   ownLength: 40.670717,
   ownProgress: 40.670717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-11-15",
   externalId: "1WCdcmjKznIqlpGrSzMKWO",

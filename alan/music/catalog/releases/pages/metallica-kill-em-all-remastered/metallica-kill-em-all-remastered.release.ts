@@ -9,7 +9,7 @@ export const metallicaKillEmAllRemastered = {
   position: 0,
   ownLength: 51.244833,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1983-07-25",
   externalId: "0vNBQof86Lv5gLuf26ML7o",

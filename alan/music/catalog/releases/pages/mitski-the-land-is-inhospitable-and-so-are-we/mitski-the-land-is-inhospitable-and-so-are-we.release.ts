@@ -9,7 +9,7 @@ export const mitskiTheLandIsInhospitableAndSoAreWe = {
   position: 0,
   ownLength: 32.372167,
   ownProgress: 32.372167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-09-15",

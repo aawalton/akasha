@@ -9,7 +9,7 @@ export const siaFloatingThroughSpaceFeatDavidGuettaJimOumaRemix = {
   position: 0,
   ownLength: 5.474233,
   ownProgress: 5.474233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-09",
   externalId: "4zk1FVSi3R3iS6xvoTg8ij",

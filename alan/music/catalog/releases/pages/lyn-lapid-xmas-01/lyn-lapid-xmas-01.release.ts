@@ -9,7 +9,7 @@ export const lynLapidXmas01 = {
   position: 0,
   ownLength: 4.5855,
   ownProgress: 4.5855,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-11-12",

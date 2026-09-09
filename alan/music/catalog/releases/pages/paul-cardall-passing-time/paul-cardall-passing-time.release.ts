@@ -9,7 +9,7 @@ export const paulCardallPassingTime = {
   position: 0,
   ownLength: 14.059917,
   ownProgress: 14.059917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-02-12",
   externalId: "0XBLI2qaipLjefHBfBIXGT",

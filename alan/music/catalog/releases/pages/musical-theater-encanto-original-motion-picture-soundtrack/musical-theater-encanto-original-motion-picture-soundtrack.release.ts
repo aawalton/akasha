@@ -9,7 +9,7 @@ export const musicalTheaterEncantoOriginalMotionPictureSoundtrack = {
   position: 0,
   ownLength: 114.716617,
   ownProgress: 114.716617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "S",
   publishedAt: "2021-11-19",

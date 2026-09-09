@@ -9,7 +9,7 @@ export const michaelJacksonGotToBeThere = {
   position: 0,
   ownLength: 35.8315,
   ownProgress: 35.8315,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1972-01-24",

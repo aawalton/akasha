@@ -9,7 +9,7 @@ export const pentatonixPtxVol2 = {
   position: 0,
   ownLength: 31.002833,
   ownProgress: 31.002833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-11-05",
   externalId: "12dPqNFIdjiVFSHvtsDmzJ",

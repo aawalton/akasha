@@ -9,7 +9,7 @@ export const lynLapidCoraline = {
   position: 0,
   ownLength: 2.816883,
   ownProgress: 2.816883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-01-31",

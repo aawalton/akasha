@@ -9,7 +9,7 @@ export const linkinParkMeteora20thAnniversaryEdition = {
   position: 0,
   ownLength: 301.08035,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-07",
   externalId: "3Q9wXhEAX7NYCPP0hxIuDz",

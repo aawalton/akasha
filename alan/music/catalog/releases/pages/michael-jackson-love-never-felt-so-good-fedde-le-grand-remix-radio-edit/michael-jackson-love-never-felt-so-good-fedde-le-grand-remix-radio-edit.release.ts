@@ -9,7 +9,7 @@ export const michaelJacksonLoveNeverFeltSoGoodFeddeLeGrandRemixRadioEdit = {
   position: 0,
   ownLength: 3.43625,
   ownProgress: 3.43625,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2014-05-19",

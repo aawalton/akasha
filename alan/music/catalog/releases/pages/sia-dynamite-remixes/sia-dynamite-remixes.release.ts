@@ -9,7 +9,7 @@ export const siaDynamiteRemixes = {
   position: 0,
   ownLength: 9.281567,
   ownProgress: 9.281567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-14",
   externalId: "6t6hMOCSo4HcnUbr39Ys9V",

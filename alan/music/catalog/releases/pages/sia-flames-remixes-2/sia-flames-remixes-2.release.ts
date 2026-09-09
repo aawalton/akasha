@@ -9,7 +9,7 @@ export const siaFlamesRemixes2 = {
   position: 0,
   ownLength: 13.776667,
   ownProgress: 13.776667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-05-25",
   externalId: "6q755Y9Bfi7Y1o7hFdLhRQ",

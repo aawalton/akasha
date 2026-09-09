@@ -9,7 +9,7 @@ export const mitskiPuberty2 = {
   position: 0,
   ownLength: 31.432533,
   ownProgress: 31.432533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2016-06-17",

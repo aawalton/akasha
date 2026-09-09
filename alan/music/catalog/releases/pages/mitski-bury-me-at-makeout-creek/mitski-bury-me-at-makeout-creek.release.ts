@@ -9,7 +9,7 @@ export const mitskiBuryMeAtMakeoutCreek = {
   position: 0,
   ownLength: 30.311067,
   ownProgress: 30.311067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2014-11-11",

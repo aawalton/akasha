@@ -9,7 +9,7 @@ export const siaColdFeatSia = {
   position: 0,
   ownLength: 3.327383,
   ownProgress: 3.327383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-02",
   externalId: "7J2EUjTRwOJkCExYxFTz0R",

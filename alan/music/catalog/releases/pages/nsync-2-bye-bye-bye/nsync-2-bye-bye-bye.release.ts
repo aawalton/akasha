@@ -9,7 +9,7 @@ export const nsync2ByeByeBye = {
   position: 0,
   ownLength: 3.34,
   ownProgress: 3.34,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2000-01-17",
   externalId: "5GUIkRnz03vje7l2mkG2NA",

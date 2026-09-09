@@ -9,7 +9,7 @@ export const linkinParkNewDivide = {
   position: 0,
   ownLength: 17.811317,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-05-26",
   externalId: "4zSLTDQZtXRZOAS9e0fiGM",

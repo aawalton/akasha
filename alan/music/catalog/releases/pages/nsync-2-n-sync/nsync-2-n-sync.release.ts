@@ -9,7 +9,7 @@ export const nsync2NSync = {
   position: 0,
   ownLength: 50.277733,
   ownProgress: 50.277733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1997-05-26",
   externalId: "0CADmCXbIx4F9m6TBwLtFd",

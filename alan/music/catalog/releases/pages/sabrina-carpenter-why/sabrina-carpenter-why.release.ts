@@ -9,7 +9,7 @@ export const sabrinaCarpenterWhy = {
   position: 0,
   ownLength: 2.8516,
   ownProgress: 2.8516,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-07-07",
   externalId: "55QjSqhCofvsx559gCIMI7",

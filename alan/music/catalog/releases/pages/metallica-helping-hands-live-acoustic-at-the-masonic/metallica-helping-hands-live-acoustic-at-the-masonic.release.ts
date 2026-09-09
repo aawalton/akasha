@@ -9,7 +9,7 @@ export const metallicaHelpingHandsLiveAcousticAtTheMasonic = {
   position: 0,
   ownLength: 71.5359,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-02-01",
   externalId: "3KESkLVC8ivaWmZAoDinoc",

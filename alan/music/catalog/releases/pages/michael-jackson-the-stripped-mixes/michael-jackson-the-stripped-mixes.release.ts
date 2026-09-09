@@ -9,7 +9,7 @@ export const michaelJacksonTheStrippedMixes = {
   position: 0,
   ownLength: 38.571317,
   ownProgress: 38.571317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2009-07-28",

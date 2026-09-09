@@ -9,7 +9,7 @@ export const siaDiamondEyesFeatSia = {
   position: 0,
   ownLength: 3.72525,
   ownProgress: 3.72525,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-01",
   externalId: "1Wz4TaOdgu0xzFcn4itx7M",

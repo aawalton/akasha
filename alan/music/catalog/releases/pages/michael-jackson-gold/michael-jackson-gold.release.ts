@@ -9,7 +9,7 @@ export const michaelJacksonGold = {
   position: 0,
   ownLength: 107.475133,
   ownProgress: 107.475133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2008-08-26",

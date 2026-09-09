@@ -9,7 +9,7 @@ export const linkinParkNumbEncoreMtvUltimateMashUpsPresentsCollisionCourse = {
   position: 0,
   ownLength: 18.6682,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2004-11-30",
   externalId: "4lhyg7YGQagE8FT8cZBqyw",

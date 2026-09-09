@@ -9,7 +9,7 @@ export const lynLapidInMyMind = {
   position: 0,
   ownLength: 14.943733,
   ownProgress: 14.943733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-10-01",

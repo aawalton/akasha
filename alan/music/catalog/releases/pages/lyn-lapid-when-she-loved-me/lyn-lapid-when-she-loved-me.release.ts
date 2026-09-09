@@ -9,7 +9,7 @@ export const lynLapidWhenSheLovedMe = {
   position: 0,
   ownLength: 3.128483,
   ownProgress: 3.128483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-05-25",

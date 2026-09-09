@@ -9,7 +9,7 @@ export const mitskiSpotifySingles = {
   position: 0,
   ownLength: 5.6022,
   ownProgress: 5.6022,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2024-03-13",

@@ -9,7 +9,7 @@ export const linkinParkMinutesToMidnightLiveAroundTheWorld = {
   position: 0,
   ownLength: 50.574383,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-12",
   externalId: "7IYqppCBhR5z9z8JqgXuxi",

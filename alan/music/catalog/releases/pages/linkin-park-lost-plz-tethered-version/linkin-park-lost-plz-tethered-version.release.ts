@@ -9,7 +9,7 @@ export const linkinParkLostPlzTetheredVersion = {
   position: 0,
   ownLength: 6.70555,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-04-21",
   externalId: "30LrTt6t4su1DMqI5dTjyv",

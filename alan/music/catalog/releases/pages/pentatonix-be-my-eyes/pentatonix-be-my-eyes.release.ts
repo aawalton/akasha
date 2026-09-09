@@ -9,7 +9,7 @@ export const pentatonixBeMyEyes = {
   position: 0,
   ownLength: 3.404433,
   ownProgress: 3.404433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-14",
   externalId: "6Sa0akcBToQpENN4FY6SzQ",

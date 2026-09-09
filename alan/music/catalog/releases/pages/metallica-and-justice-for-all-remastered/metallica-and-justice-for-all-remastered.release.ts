@@ -9,7 +9,7 @@ export const metallicaAndJusticeForAllRemastered = {
   position: 0,
   ownLength: 65.412467,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1988-09-07",
   externalId: "4Cn4T0onWhfJZwWVzU5a2t",

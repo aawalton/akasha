@@ -9,7 +9,7 @@ export const siaExhaleFeatSia = {
   position: 0,
   ownLength: 2.5739,
   ownProgress: 2.5739,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-06-24",
   externalId: "0jN9u42ixbBaGnk8CFYl24",

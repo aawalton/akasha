@@ -9,7 +9,7 @@ export const rockapellaLetItBe = {
   position: 0,
   ownLength: 3.451867,
   ownProgress: 3.451867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-31",
   externalId: "0ACMjPgeuyAGTnGy8siePH",

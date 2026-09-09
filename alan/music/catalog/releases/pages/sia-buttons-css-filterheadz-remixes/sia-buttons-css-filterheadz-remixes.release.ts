@@ -9,7 +9,7 @@ export const siaButtonsCssFilterheadzRemixes = {
   position: 0,
   ownLength: 11.13955,
   ownProgress: 11.13955,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
   externalId: "0Txr8gEa4Lrdy9qELw1pir",

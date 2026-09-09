@@ -9,7 +9,7 @@ export const sabrinaCarpenterSkinQuarterheadRemix = {
   position: 0,
   ownLength: 3.116667,
   ownProgress: 3.116667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-26",
   externalId: "5kxJROPwGs1X92WrcMXkdt",

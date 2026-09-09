@@ -9,7 +9,7 @@ export const michaelJacksonInvincible = {
   position: 0,
   ownLength: 76.923283,
   ownProgress: 76.923283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2001-10-29",

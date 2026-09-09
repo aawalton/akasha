@@ -9,7 +9,7 @@ export const sabrinaCarpenterAlienDarkHeartRemix = {
   position: 0,
   ownLength: 3.49055,
   ownProgress: 3.49055,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-13",
   externalId: "4mswsu3o2Bt2vYkXK9nKtC",

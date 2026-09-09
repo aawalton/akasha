@@ -9,7 +9,7 @@ export const paulCardallSleep = {
   position: 0,
   ownLength: 57.3318,
   ownProgress: 57.3318,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-03",
   externalId: "7KmM2VWfvX26JwYaTbmucc",

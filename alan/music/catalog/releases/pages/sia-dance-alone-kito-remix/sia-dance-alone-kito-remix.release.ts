@@ -9,7 +9,7 @@ export const siaDanceAloneKitoRemix = {
   position: 0,
   ownLength: 6.036533,
   ownProgress: 6.036533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-08",
   externalId: "0QPJ40cXdOLGrLDcLjVsmo",

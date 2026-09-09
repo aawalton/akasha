@@ -9,7 +9,7 @@ export const musicalTheaterTheGreatestShowmanOriginalMotionPictureSoundtrack = {
   position: 0,
   ownLength: 39.941717,
   ownProgress: 39.941717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2017-12-08",

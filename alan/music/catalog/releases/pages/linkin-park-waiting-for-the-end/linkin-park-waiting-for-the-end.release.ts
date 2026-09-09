@@ -9,7 +9,7 @@ export const linkinParkWaitingForTheEnd = {
   position: 0,
   ownLength: 11.874983,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2010-10-01",
   externalId: "6KntytDKDCI7jorIZM9Biq",

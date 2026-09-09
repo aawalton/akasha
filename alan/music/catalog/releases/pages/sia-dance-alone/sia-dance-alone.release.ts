@@ -9,7 +9,7 @@ export const siaDanceAlone = {
   position: 0,
   ownLength: 2.870767,
   ownProgress: 2.870767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-02-07",
   externalId: "6VFvESDvhvsBjCSlIXpIXw",

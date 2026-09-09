@@ -9,7 +9,7 @@ export const linkinParkLiveInTexas = {
   position: 0,
   ownLength: 41.8515,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2003-12-02",
   externalId: "0ZBE7rVC0zKFVt5osvXlnz",

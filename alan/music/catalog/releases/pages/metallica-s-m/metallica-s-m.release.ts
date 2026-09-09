@@ -9,7 +9,7 @@ export const metallicaSM = {
   position: 0,
   ownLength: 133.193417,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1999-11-23",
   externalId: "3kVRcb2fuCcKcqltzczxRP",

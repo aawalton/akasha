@@ -9,7 +9,7 @@ export const lynLapidILlBeHappyWhen = {
   position: 0,
   ownLength: 2.942883,
   ownProgress: 2.942883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-02-28",

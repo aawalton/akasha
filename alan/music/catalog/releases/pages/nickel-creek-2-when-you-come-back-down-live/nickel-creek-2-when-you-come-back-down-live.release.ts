@@ -9,7 +9,7 @@ export const nickelCreek2WhenYouComeBackDownLive = {
   position: 0,
   ownLength: 5.061767,
   ownProgress: 5.061767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-21",
   externalId: "28QYaRrqDwFu4PFpGMGwd8",

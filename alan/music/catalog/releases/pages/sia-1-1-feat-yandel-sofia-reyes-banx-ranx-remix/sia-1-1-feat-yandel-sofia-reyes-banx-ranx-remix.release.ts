@@ -9,7 +9,7 @@ export const sia11FeatYandelSofiaReyesBanxRanxRemix = {
   position: 0,
   ownLength: 3.411783,
   ownProgress: 3.411783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-06",
   externalId: "2ds7l2UKWHAj3nKX2Pfmdz",

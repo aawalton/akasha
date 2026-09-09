@@ -9,7 +9,7 @@ export const mitskiLush = {
   position: 0,
   ownLength: 26.024167,
   ownProgress: 26.024167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2012-01-31",

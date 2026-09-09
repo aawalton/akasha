@@ -9,7 +9,7 @@ export const lynLapidMySunnyDay = {
   position: 0,
   ownLength: 2.160683,
   ownProgress: 2.160683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-12-10",

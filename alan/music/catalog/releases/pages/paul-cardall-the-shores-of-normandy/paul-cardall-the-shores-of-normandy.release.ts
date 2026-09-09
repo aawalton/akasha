@@ -9,7 +9,7 @@ export const paulCardallTheShoresOfNormandy = {
   position: 0,
   ownLength: 4.3414,
   ownProgress: 4.3414,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-02",
   externalId: "76ErnhzN5N0srD2O7RuEtU",

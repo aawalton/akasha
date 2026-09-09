@@ -9,7 +9,7 @@ export const lynLapidMySunnyDayKinaRemix = {
   position: 0,
   ownLength: 1.934217,
   ownProgress: 1.934217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-03-25",

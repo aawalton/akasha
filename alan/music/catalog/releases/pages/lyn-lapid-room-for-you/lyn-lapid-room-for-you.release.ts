@@ -9,7 +9,7 @@ export const lynLapidRoomForYou = {
   position: 0,
   ownLength: 3.056217,
   ownProgress: 3.056217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-07-26",

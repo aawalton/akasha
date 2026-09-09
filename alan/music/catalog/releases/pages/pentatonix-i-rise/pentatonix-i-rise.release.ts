@@ -9,7 +9,7 @@ export const pentatonixIRise = {
   position: 0,
   ownLength: 3.347817,
   ownProgress: 3.347817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-08-11",
   externalId: "2N3GoTPzZ81DIIujoxCYYP",

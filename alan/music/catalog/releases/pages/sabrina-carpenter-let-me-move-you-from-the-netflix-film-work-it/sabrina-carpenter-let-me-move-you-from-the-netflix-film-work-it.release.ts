@@ -9,7 +9,7 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkIt = {
   position: 0,
   ownLength: 2.451167,
   ownProgress: 2.451167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-24",
   externalId: "3Ytt3q5EhvSCbvCTrVkz11",

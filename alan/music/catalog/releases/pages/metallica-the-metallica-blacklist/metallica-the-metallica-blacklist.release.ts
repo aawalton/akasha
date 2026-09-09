@@ -9,7 +9,7 @@ export const metallicaTheMetallicaBlacklist = {
   position: 0,
   ownLength: 245.4364,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-10",
   externalId: "73pUIoNvoi8m51Vg97CAKX",

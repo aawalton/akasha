@@ -9,7 +9,7 @@ export const siaDistractions = {
   position: 0,
   ownLength: 40.1038,
   ownProgress: 40.1038,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2002-03-25",
   externalId: "0LnqF2lMc6fB0VSuVy9W6R",

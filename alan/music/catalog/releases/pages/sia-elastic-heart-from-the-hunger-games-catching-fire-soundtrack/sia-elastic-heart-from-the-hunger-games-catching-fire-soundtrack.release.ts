@@ -9,7 +9,7 @@ export const siaElasticHeartFromTheHungerGamesCatchingFireSoundtrack = {
   position: 0,
   ownLength: 4.299767,
   ownProgress: 4.299767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
   externalId: "0AIrVKNeDCRotkxdezfo3X",

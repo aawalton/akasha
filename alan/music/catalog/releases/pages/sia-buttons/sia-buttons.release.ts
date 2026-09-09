@@ -9,7 +9,7 @@ export const siaButtons = {
   position: 0,
   ownLength: 36.37485,
   ownProgress: 36.37485,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
   externalId: "7fosq6V3NqDCnwU5f3Wu4S",

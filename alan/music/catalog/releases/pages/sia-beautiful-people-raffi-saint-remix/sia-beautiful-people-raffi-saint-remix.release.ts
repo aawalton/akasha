@@ -9,7 +9,7 @@ export const siaBeautifulPeopleRaffiSaintRemix = {
   position: 0,
   ownLength: 15.190567,
   ownProgress: 15.190567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-28",
   externalId: "3C3SbADiKJlGxMtBLMvhV9",

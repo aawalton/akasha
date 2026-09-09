@@ -9,7 +9,7 @@ export const michaelJacksonHelloWorldTheMotownSoloCollection = {
   position: 0,
   ownLength: 233.57895,
   ownProgress: 233.57895,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2009-09-01",

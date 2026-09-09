@@ -9,7 +9,7 @@ export const michaelJackson20thCenturyMastersTheMillenniumCollectionBestOfMichae
   position: 0,
   ownLength: 36.086617,
   ownProgress: 36.086617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2000-01-01",

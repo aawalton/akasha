@@ -9,7 +9,7 @@ export const paulCardallTheLookingGlass = {
   position: 0,
   ownLength: 48.3352,
   ownProgress: 48.3352,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1999-01-01",
   externalId: "31tc6XnhHUP3WOWSfC2AuX",

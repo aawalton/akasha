@@ -9,7 +9,7 @@ export const pentatonixJoyfulJoyful = {
   position: 0,
   ownLength: 3.907767,
   ownProgress: 3.907767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-24",
   externalId: "208bCz548yflYMALLMh1kN",

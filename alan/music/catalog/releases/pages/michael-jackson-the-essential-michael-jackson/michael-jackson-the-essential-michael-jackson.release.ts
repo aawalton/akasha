@@ -9,7 +9,7 @@ export const michaelJacksonTheEssentialMichaelJackson = {
   position: 0,
   ownLength: 157.779317,
   ownProgress: 157.779317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2005-07-19",

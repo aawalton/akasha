@@ -9,7 +9,7 @@ export const linkinParkOneMoreLight = {
   position: 0,
   ownLength: 35.37795,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-05-19",
   externalId: "5Eevxp2BCbWq25ZdiXRwYd",

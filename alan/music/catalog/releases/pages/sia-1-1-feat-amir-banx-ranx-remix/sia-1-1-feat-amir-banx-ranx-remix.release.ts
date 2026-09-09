@@ -9,7 +9,7 @@ export const sia11FeatAmirBanxRanxRemix = {
   position: 0,
   ownLength: 3.270667,
   ownProgress: 3.270667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-13",
   externalId: "2ac5QfPyFu7gGY2BpzuqAc",

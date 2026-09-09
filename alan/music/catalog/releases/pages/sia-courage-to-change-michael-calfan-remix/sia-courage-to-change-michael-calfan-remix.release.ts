@@ -9,7 +9,7 @@ export const siaCourageToChangeMichaelCalfanRemix = {
   position: 0,
   ownLength: 7.487767,
   ownProgress: 7.487767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-03",
   externalId: "01DUi2JC51Ers9bAypxDrk",

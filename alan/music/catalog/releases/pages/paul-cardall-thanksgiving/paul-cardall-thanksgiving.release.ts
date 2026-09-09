@@ -9,7 +9,7 @@ export const paulCardallThanksgiving = {
   position: 0,
   ownLength: 2.35955,
   ownProgress: 2.35955,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-05",
   externalId: "3G8EZFSyWjwSqjc0p2zDjs",

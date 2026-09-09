@@ -9,7 +9,7 @@ export const phoebeBridgersSmokeSignals = {
   position: 0,
   ownLength: 5.395183,
   ownProgress: 5.395183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-01-13",
   externalId: "6gouZs8Y2Tx6NVF1zr4hof",

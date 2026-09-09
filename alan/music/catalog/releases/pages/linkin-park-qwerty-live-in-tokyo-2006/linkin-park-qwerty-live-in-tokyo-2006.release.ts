@@ -9,7 +9,7 @@ export const linkinParkQwertyLiveInTokyo2006 = {
   position: 0,
   ownLength: 10.621783,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-04-26",
   externalId: "7bYai93piRObiZD6utMG8Y",

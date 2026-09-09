@@ -9,7 +9,7 @@ export const lynLapidTheSimlishSong = {
   position: 0,
   ownLength: 3.317467,
   ownProgress: 3.317467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-10-03",

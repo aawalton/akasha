@@ -9,7 +9,7 @@ export const lynLapidOkWithIt = {
   position: 0,
   ownLength: 2.763217,
   ownProgress: 2.763217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-05-19",

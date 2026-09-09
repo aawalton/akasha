@@ -9,7 +9,7 @@ export const musicalTheaterTangled = {
   position: 0,
   ownLength: 55.7928,
   ownProgress: 55.7928,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2010-01-01",

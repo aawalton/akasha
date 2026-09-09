@@ -9,7 +9,7 @@ export const phoebeBridgersHaveYourselfAMerryLittleChristmas = {
   position: 0,
   ownLength: 2.989467,
   ownProgress: 2.989467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-20",
   externalId: "5P6ipsN2cYH8Bp2DokqkHf",

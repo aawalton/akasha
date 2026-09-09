@@ -9,7 +9,7 @@ export const siaFloatingThroughSpaceFeatDavidGuettaHexSiaInSpaceMix = {
   position: 0,
   ownLength: 8.153417,
   ownProgress: 8.153417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-04-30",
   externalId: "6cRpVZpFEOMYuTlQLXWcMv",

@@ -9,7 +9,7 @@ export const michaelJacksonOffTheWall = {
   position: 0,
   ownLength: 42.41415,
   ownProgress: 42.41415,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1979-08-10",

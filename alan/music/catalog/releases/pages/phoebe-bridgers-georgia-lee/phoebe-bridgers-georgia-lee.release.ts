@@ -9,7 +9,7 @@ export const phoebeBridgersGeorgiaLee = {
   position: 0,
   ownLength: 4.309833,
   ownProgress: 4.309833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-22",
   externalId: "0H71hciQVDJq3azuJ3IIFz",

@@ -9,7 +9,7 @@ export const paulCardallAGriefObserved = {
   position: 0,
   ownLength: 3.948817,
   ownProgress: 3.948817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-26",
   externalId: "0QeqfRxjPmLfILhSA0Z4Go",

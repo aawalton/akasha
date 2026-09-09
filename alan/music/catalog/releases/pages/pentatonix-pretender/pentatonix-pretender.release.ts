@@ -9,7 +9,7 @@ export const pentatonixPretender = {
   position: 0,
   ownLength: 2.9208,
   ownProgress: 2.9208,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-24",
   externalId: "7sFY2qG2fa1fkcoftCFQ45",

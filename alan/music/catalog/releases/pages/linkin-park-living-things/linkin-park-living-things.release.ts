@@ -9,7 +9,7 @@ export const linkinParkLivingThings = {
   position: 0,
   ownLength: 37.0575,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-19",
   externalId: "4XHIjbhjRmqWlosjj5rqSI",

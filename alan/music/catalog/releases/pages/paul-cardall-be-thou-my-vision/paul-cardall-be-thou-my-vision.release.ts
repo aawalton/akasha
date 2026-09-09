@@ -9,7 +9,7 @@ export const paulCardallBeThouMyVision = {
   position: 0,
   ownLength: 4.141667,
   ownProgress: 4.141667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-04-26",
   externalId: "1zpeBbqlIIsyYxbMDcjvB2",

@@ -9,7 +9,7 @@ export const linkinParkMeteoraBonusEdition = {
   position: 0,
   ownLength: 46.067233,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2003-03-25",
   externalId: "0y13VbGddQ4azdVWakksAL",

@@ -9,7 +9,7 @@ export const lynLapidBuzzkill = {
   position: 0,
   ownLength: 33.687217,
   ownProgress: 33.687217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-04-25",

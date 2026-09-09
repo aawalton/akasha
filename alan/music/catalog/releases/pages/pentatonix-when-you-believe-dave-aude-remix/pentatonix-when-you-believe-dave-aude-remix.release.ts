@@ -9,7 +9,7 @@ export const pentatonixWhenYouBelieveDaveAudeRemix = {
   position: 0,
   ownLength: 3.91935,
   ownProgress: 3.91935,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-12-21",
   externalId: "1sOijKdZkO38GIUDmAxQP2",

@@ -9,7 +9,7 @@ export const nsync2Celebrity = {
   position: 0,
   ownLength: 49.769917,
   ownProgress: 49.769917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2001-07-23",
   externalId: "7zBue2Vuzg4Z3ncRXaIkJg",

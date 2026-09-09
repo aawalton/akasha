@@ -9,7 +9,7 @@ export const michaelJacksonSlaveToTheRhythmAudienRemixRadioEdit = {
   position: 0,
   ownLength: 3.231767,
   ownProgress: 3.231767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2014-08-12",

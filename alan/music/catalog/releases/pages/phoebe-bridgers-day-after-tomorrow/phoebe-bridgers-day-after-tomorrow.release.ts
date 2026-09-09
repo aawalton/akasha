@@ -9,7 +9,7 @@ export const phoebeBridgersDayAfterTomorrow = {
   position: 0,
   ownLength: 17.76525,
   ownProgress: 17.76525,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-11-30",

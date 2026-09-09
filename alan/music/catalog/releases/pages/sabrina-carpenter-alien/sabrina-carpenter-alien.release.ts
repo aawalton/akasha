@@ -9,7 +9,7 @@ export const sabrinaCarpenterAlien = {
   position: 0,
   ownLength: 2.914,
   ownProgress: 2.914,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-16",
   externalId: "3LXVxMUrioKZcoheV2zT3u",

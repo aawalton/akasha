@@ -9,7 +9,7 @@ export const michaelJacksonMotownLegendsRockinRobin = {
   position: 0,
   ownLength: 37.05105,
   ownProgress: 37.05105,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1993-01-01",

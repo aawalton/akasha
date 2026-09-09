@@ -9,7 +9,7 @@ export const michaelJacksonTheDefinitiveCollection = {
   position: 0,
   ownLength: 65.418567,
   ownProgress: 65.418567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2009-01-01",

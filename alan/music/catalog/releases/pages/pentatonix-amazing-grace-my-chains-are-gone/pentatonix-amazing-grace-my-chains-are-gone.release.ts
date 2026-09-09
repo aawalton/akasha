@@ -9,7 +9,7 @@ export const pentatonixAmazingGraceMyChainsAreGone = {
   position: 0,
   ownLength: 4.423333,
   ownProgress: 4.423333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-06",
   externalId: "79lEnReHKSSddS0nGdXMKk",

@@ -9,7 +9,7 @@ export const metallicaTooFarGoneLiveAtMetlifeStadiumEastRutherfordNjAugust62023 
   position: 0,
   ownLength: 9.365383,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-09-15",
   externalId: "4fd8mqhFEDpn8sJitGqS8k",

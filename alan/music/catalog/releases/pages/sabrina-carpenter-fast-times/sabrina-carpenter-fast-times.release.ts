@@ -9,7 +9,7 @@ export const sabrinaCarpenterFastTimes = {
   position: 0,
   ownLength: 2.908983,
   ownProgress: 2.908983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-02-18",
   externalId: "2rR0wpBcmvYpxQd77BWShd",

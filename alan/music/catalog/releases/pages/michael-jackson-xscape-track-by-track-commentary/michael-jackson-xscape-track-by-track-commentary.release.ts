@@ -9,7 +9,7 @@ export const michaelJacksonXscapeTrackByTrackCommentary = {
   position: 0,
   ownLength: 6.422467,
   ownProgress: 6.422467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2014-05-09",

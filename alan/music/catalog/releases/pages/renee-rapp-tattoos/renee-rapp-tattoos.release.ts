@@ -9,7 +9,7 @@ export const reneeRappTattoos = {
   position: 0,
   ownLength: 2.883767,
   ownProgress: 2.883767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-06-03",

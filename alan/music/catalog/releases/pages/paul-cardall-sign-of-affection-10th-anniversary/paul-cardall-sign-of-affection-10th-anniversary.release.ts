@@ -9,7 +9,7 @@ export const paulCardallSignOfAffection10thAnniversary = {
   position: 0,
   ownLength: 37.392183,
   ownProgress: 37.392183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2006-01-01",
   externalId: "6VSh7aoAeo35kOZ9xu6EOO",

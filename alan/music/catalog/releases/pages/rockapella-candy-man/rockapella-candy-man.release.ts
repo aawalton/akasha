@@ -9,7 +9,7 @@ export const rockapellaCandyMan = {
   position: 0,
   ownLength: 2.594783,
   ownProgress: 2.594783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-02-09",
   externalId: "4CuC17SpqvkUr8zO7bD0kc",

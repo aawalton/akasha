@@ -9,7 +9,7 @@ export const linkinParkRecharged = {
   position: 0,
   ownLength: 68.803233,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-10-25",
   externalId: "2FUsvD1bw53HGOjAg56vRD",

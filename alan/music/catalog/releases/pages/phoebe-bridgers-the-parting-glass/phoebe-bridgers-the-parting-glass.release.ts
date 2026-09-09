@@ -9,7 +9,7 @@ export const phoebeBridgersThePartingGlass = {
   position: 0,
   ownLength: 26.008583,
   ownProgress: 26.008583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-17",

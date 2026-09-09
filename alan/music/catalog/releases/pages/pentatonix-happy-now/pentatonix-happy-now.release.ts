@@ -9,7 +9,7 @@ export const pentatonixHappyNow = {
   position: 0,
   ownLength: 3.435583,
   ownProgress: 3.435583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-14",
   externalId: "5JmZwvs3mfGduPjumjiFvB",

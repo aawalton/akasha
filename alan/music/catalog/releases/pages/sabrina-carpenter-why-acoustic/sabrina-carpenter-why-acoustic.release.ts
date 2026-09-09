@@ -9,7 +9,7 @@ export const sabrinaCarpenterWhyAcoustic = {
   position: 0,
   ownLength: 3.075,
   ownProgress: 3.075,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-03",
   externalId: "3oAvhwkc4AwieC8QHaEgVi",

@@ -9,7 +9,7 @@ export const sabrinaCarpenterANonsenseChristmas = {
   position: 0,
   ownLength: 5.279117,
   ownProgress: 5.279117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-07",
   externalId: "2D2boDrCPl6idtxpJF6r38",

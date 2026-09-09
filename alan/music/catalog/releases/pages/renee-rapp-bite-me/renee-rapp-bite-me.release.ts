@@ -9,7 +9,7 @@ export const reneeRappBiteMe = {
   position: 0,
   ownLength: 33.484367,
   ownProgress: 33.484367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2025-08-01",

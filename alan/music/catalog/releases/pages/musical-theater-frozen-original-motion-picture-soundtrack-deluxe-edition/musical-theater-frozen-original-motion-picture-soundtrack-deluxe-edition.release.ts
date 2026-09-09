@@ -9,7 +9,7 @@ export const musicalTheaterFrozenOriginalMotionPictureSoundtrackDeluxeEdition = 
   position: 0,
   ownLength: 129.0428,
   ownProgress: 129.0428,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2013-01-01",

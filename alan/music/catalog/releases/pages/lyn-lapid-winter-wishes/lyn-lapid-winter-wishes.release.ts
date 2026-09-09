@@ -9,7 +9,7 @@ export const lynLapidWinterWishes = {
   position: 0,
   ownLength: 12.6711,
   ownProgress: 12.6711,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-11-15",

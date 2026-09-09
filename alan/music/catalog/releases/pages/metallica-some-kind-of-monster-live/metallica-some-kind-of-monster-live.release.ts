@@ -9,7 +9,7 @@ export const metallicaSomeKindOfMonsterLive = {
   position: 0,
   ownLength: 43.183517,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2004-07-13",
   externalId: "3A0FTyAAcjgfhPibPsuVSc",

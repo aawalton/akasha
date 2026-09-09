@@ -9,7 +9,7 @@ export const siaCheapThrillsRemixFeatNickyJam = {
   position: 0,
   ownLength: 3.536,
   ownProgress: 3.536,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-06-17",
   externalId: "3vKCCBYeYS6oE1gYSNlU5L",

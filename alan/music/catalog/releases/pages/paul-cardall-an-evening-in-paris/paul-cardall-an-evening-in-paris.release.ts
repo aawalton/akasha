@@ -9,7 +9,7 @@ export const paulCardallAnEveningInParis = {
   position: 0,
   ownLength: 5.135633,
   ownProgress: 5.135633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-05-05",
   externalId: "0bUCCiuzQAXVURSa8SjKES",

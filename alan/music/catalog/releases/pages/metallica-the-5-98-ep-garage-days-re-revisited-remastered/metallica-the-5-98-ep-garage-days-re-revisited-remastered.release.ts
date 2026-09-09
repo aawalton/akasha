@@ -9,7 +9,7 @@ export const metallicaThe598EpGarageDaysReRevisitedRemastered = {
   position: 0,
   ownLength: 24.829133,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1987-08-21",
   externalId: "2ob2V3qqYLyKUrQB5YNm4C",

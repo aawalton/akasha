@@ -9,7 +9,7 @@ export const pentatonixHavana = {
   position: 0,
   ownLength: 2.568383,
   ownProgress: 2.568383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-02-23",
   externalId: "6JBFPW02DEVMX4xlRNJm2Z",

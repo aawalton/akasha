@@ -9,7 +9,7 @@ export const siaExhaleFeatSiaPinkPandaRemix = {
   position: 0,
   ownLength: 2.16235,
   ownProgress: 2.16235,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-31",
   externalId: "4hlpb8S8WMJ3N5VEvn6Ijr",

@@ -9,7 +9,7 @@ export const rockapellaBang = {
   position: 0,
   ownLength: 46.951083,
   ownProgress: 46.951083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-10-12",
   externalId: "3y7Sk6v8mTAv1KPNKO4pMV",

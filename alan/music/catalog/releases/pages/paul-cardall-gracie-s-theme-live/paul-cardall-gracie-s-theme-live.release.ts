@@ -9,7 +9,7 @@ export const paulCardallGracieSThemeLive = {
   position: 0,
   ownLength: 5.018233,
   ownProgress: 5.018233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-05-15",
   externalId: "23pcrIQJF11ZdqSVVVBMuv",

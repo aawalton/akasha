@@ -9,7 +9,7 @@ export const reneeRappSnowAngel = {
   position: 0,
   ownLength: 36.582367,
   ownProgress: 36.582367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-08-18",

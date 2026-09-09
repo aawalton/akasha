@@ -9,7 +9,7 @@ export const paulCardallDanceOfTheSugarPlumFairyArrForPianoByPaulCardall = {
   position: 0,
   ownLength: 3.54985,
   ownProgress: 3.54985,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-22",
   externalId: "2gEb1BYQ3x2vQrFktHCdBe",

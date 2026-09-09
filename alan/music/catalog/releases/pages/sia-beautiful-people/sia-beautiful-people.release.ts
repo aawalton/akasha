@@ -9,7 +9,7 @@ export const siaBeautifulPeople = {
   position: 0,
   ownLength: 7.464533,
   ownProgress: 7.464533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-07",
   externalId: "41GrpCcoPSawyIVDbLRdLW",

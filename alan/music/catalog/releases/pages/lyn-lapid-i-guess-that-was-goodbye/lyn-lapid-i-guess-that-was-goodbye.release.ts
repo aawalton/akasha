@@ -9,7 +9,7 @@ export const lynLapidIGuessThatWasGoodbye = {
   position: 0,
   ownLength: 3.170717,
   ownProgress: 3.170717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-02-04",

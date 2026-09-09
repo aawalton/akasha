@@ -9,7 +9,7 @@ export const phoebeBridgersNothingElseMatters = {
   position: 0,
   ownLength: 4.5751,
   ownProgress: 4.5751,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-08-11",

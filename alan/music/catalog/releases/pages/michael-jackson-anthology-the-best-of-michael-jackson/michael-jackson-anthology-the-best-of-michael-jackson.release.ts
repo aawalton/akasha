@@ -9,7 +9,7 @@ export const michaelJacksonAnthologyTheBestOfMichaelJackson = {
   position: 0,
   ownLength: 145.80155,
   ownProgress: 145.80155,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1986-11-14",

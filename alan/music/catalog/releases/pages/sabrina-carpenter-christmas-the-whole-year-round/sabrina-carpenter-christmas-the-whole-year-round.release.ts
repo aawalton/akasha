@@ -9,7 +9,7 @@ export const sabrinaCarpenterChristmasTheWholeYearRound = {
   position: 0,
   ownLength: 2.990433,
   ownProgress: 2.990433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-01",
   externalId: "637asSTw4aLXrTD4ZLHSMV",

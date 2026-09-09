@@ -9,7 +9,7 @@ export const phoebeBridgers7OClockNewsSilentNight = {
   position: 0,
   ownLength: 2.0071,
   ownProgress: 2.0071,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-12",
   externalId: "43copJZSJKuxBmKbOG7lnn",

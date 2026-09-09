@@ -9,7 +9,7 @@ export const siaBeautifulPeopleKaazeRemix = {
   position: 0,
   ownLength: 15.50155,
   ownProgress: 15.50155,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-04",
   externalId: "6WcmniYgzJOxahWNYODkmv",

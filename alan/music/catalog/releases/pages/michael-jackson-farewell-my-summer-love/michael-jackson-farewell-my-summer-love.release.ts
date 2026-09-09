@@ -9,7 +9,7 @@ export const michaelJacksonFarewellMySummerLove = {
   position: 0,
   ownLength: 30.994167,
   ownProgress: 30.994167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1984-05-08",

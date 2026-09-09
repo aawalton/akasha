@@ -9,7 +9,7 @@ export const michaelJacksonForeverMichael = {
   position: 0,
   ownLength: 33.6735,
   ownProgress: 33.6735,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1975-01-16",

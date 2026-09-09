@@ -9,7 +9,7 @@ export const michaelJacksonLoveSongs = {
   position: 0,
   ownLength: 50.773683,
   ownProgress: 50.773683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2002-01-01",

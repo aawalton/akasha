@@ -9,7 +9,7 @@ export const pentatonixCanYouFeelTheLoveTonight = {
   position: 0,
   ownLength: 4.120417,
   ownProgress: 4.120417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-18",
   externalId: "06poQ7idFBLVrOIi18JlKo",

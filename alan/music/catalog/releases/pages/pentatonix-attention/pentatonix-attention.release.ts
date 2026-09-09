@@ -9,7 +9,7 @@ export const pentatonixAttention = {
   position: 0,
   ownLength: 2.858667,
   ownProgress: 2.858667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-03-23",
   externalId: "6OMyQmPmiu4dKGC2gGd7pk",

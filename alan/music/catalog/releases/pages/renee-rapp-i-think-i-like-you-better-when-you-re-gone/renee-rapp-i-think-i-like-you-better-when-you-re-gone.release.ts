@@ -9,7 +9,7 @@ export const reneeRappIThinkILikeYouBetterWhenYouReGone = {
   position: 0,
   ownLength: 2.3883,
   ownProgress: 2.3883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-07-31",

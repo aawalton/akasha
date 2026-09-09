@@ -9,7 +9,7 @@ export const metallicaScreamingSuicide = {
   position: 0,
   ownLength: 8.935533,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-01-19",
   externalId: "5RuyqGjhakCG2teiB6VkaC",

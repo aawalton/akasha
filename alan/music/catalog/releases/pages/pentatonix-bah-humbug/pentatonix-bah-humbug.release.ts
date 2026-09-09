@@ -9,7 +9,7 @@ export const pentatonixBahHumbug = {
   position: 0,
   ownLength: 3.826567,
   ownProgress: 3.826567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-24",
   externalId: "14qiH7IopCWCBIiG5Dacqn",

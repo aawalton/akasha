@@ -9,7 +9,7 @@ export const rockapellaWhereInTheWorldIsCarmenSandiegoEp = {
   position: 0,
   ownLength: 17.4482,
   ownProgress: 17.4482,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-23",
   externalId: "6GbGSJdKJhhBKeHjlebt2j",

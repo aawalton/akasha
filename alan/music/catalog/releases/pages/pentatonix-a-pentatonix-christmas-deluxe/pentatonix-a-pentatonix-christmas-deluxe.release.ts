@@ -9,7 +9,7 @@ export const pentatonixAPentatonixChristmasDeluxe = {
   position: 0,
   ownLength: 50.997917,
   ownProgress: 50.997917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-06",
   externalId: "3sId8sOH47yqOWopzbEtJn",

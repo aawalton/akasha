@@ -9,7 +9,7 @@ export const rockapellaComfortJoy = {
   position: 0,
   ownLength: 41.28495,
   ownProgress: 41.28495,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2002-11-12",
   externalId: "2tMv57b5M2KxjuT3LFsrzz",

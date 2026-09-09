@@ -9,7 +9,7 @@ export const sabrinaCarpenterAlienM22Remix = {
   position: 0,
   ownLength: 3.419983,
   ownProgress: 3.419983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-13",
   externalId: "0960lqbJIkGdYJ97UGY9My",

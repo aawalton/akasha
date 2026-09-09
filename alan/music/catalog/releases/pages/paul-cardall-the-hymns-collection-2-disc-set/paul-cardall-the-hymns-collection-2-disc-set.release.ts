@@ -9,7 +9,7 @@ export const paulCardallTheHymnsCollection2DiscSet = {
   position: 0,
   ownLength: 104.653667,
   ownProgress: 104.653667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-01-01",
   externalId: "5nMLSSi5QhzqRNAgpbLNFF",

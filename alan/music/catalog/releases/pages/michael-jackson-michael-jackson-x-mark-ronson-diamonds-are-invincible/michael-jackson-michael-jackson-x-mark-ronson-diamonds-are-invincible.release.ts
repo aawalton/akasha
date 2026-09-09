@@ -9,7 +9,7 @@ export const michaelJacksonMichaelJacksonXMarkRonsonDiamondsAreInvincible = {
   position: 0,
   ownLength: 5.000433,
   ownProgress: 5.000433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2018-08-29",

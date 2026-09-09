@@ -9,7 +9,7 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmas = {
   position: 0,
   ownLength: 3.77855,
   ownProgress: 3.77855,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-27",
   externalId: "78ghmfG83tQUF43coZ6FiH",

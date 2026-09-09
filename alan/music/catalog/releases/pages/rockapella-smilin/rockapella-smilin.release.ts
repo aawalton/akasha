@@ -9,7 +9,7 @@ export const rockapellaSmilin = {
   position: 0,
   ownLength: 39.921217,
   ownProgress: 39.921217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2002-08-13",
   externalId: "7bidRB2tHdPFVrgUAJF1sR",

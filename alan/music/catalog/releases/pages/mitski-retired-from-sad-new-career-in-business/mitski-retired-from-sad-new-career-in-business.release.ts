@@ -9,7 +9,7 @@ export const mitskiRetiredFromSadNewCareerInBusiness = {
   position: 0,
   ownLength: 23.945083,
   ownProgress: 23.945083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2013-08-01",

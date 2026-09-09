@@ -9,7 +9,7 @@ export const michaelJacksonXscape = {
   position: 0,
   ownLength: 73.462117,
   ownProgress: 73.462117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2014-05-09",

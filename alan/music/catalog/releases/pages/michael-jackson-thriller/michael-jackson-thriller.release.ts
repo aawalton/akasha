@@ -9,7 +9,7 @@ export const michaelJacksonThriller = {
   position: 0,
   ownLength: 42.3666,
   ownProgress: 42.3666,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1982-11-30",

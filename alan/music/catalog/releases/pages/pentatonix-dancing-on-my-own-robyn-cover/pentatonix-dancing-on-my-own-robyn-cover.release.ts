@@ -9,7 +9,7 @@ export const pentatonixDancingOnMyOwnRobynCover = {
   position: 0,
   ownLength: 3.067983,
   ownProgress: 3.067983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-08-01",
   externalId: "3seQEEdIpwRzqntrQfnzM2",

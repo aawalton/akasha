@@ -9,7 +9,7 @@ export const mitskiLaurelHell = {
   position: 0,
   ownLength: 32.518417,
   ownProgress: 32.518417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2022-02-04",

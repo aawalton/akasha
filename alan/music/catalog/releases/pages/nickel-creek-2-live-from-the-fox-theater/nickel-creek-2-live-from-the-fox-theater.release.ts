@@ -9,7 +9,7 @@ export const nickelCreek2LiveFromTheFoxTheater = {
   position: 0,
   ownLength: 110.924383,
   ownProgress: 110.924383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-18",
   externalId: "7lq39QANQUHMNp0DVNqscQ",

@@ -9,7 +9,7 @@ export const metallicaForWhomTheBellTollsLive = {
   position: 0,
   ownLength: 33.067883,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-08-20",
   externalId: "6JUqqwbNtGFsHmCxKhkfJo",

@@ -9,7 +9,7 @@ export const paulCardallTheBrokenMiracle = {
   position: 0,
   ownLength: 62.925417,
   ownProgress: 62.925417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-02-05",
   externalId: "5QyZxY41tqeIlMok3tmscu",

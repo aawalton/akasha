@@ -9,7 +9,7 @@ export const pentatonixFirst = {
   position: 0,
   ownLength: 17.234367,
   ownProgress: 17.234367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-05-09",
   externalId: "4Xp506l5LAdPyMRW0xDdr0",

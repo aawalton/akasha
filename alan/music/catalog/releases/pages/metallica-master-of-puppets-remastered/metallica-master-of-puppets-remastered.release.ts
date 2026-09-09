@@ -9,7 +9,7 @@ export const metallicaMasterOfPuppetsRemastered = {
   position: 0,
   ownLength: 54.7866,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1986-03-03",
   externalId: "5gzLOflH95LkKYE6XSXE9k",

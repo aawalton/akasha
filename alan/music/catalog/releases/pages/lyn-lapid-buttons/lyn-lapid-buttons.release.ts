@@ -9,7 +9,7 @@ export const lynLapidButtons = {
   position: 0,
   ownLength: 2.122367,
   ownProgress: 2.122367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-10-25",

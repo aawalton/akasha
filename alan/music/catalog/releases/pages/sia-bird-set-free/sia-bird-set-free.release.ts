@@ -9,7 +9,7 @@ export const siaBirdSetFree = {
   position: 0,
   ownLength: 4.21355,
   ownProgress: 4.21355,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-11-04",
   externalId: "4DRmZpoOLpnqRGX2dmfktM",

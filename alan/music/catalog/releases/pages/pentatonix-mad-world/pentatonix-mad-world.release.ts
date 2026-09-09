@@ -9,7 +9,7 @@ export const pentatonixMadWorld = {
   position: 0,
   ownLength: 6.3776,
   ownProgress: 6.3776,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-02",
   externalId: "1ZulBNAFP9rXcTJmmncBae",

@@ -9,7 +9,7 @@ export const michaelJacksonTheOriginalSoulOfMichaelJackson = {
   position: 0,
   ownLength: 40.245267,
   ownProgress: 40.245267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1987-10-01",

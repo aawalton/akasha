@@ -9,7 +9,7 @@ export const linkinParkLost = {
   position: 0,
   ownLength: 3.322367,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-02-10",
   externalId: "7bN4OM5mtWq0UrAxdN6qMC",

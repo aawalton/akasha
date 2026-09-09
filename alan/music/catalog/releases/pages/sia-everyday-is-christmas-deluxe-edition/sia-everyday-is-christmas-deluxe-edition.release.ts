@@ -9,7 +9,7 @@ export const siaEverydayIsChristmasDeluxeEdition = {
   position: 0,
   ownLength: 44.8554,
   ownProgress: 44.8554,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-01",
   externalId: "2vcGYJcPfXUmCdcXXqqukg",

@@ -9,7 +9,7 @@ export const sabrinaCarpenterEspressoWorkingLateRemixes = {
   position: 0,
   ownLength: 11.6299,
   ownProgress: 11.6299,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-05-31",
   externalId: "29UKCfgIX2fgBff2uSz6qV",

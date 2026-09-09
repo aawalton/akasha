@@ -9,7 +9,7 @@ export const pentatonixTheSoundOfSilence = {
   position: 0,
   ownLength: 3.543933,
   ownProgress: 3.543933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-02-15",
   externalId: "2d5CHsmyOYGqfjDaPrdEzc",

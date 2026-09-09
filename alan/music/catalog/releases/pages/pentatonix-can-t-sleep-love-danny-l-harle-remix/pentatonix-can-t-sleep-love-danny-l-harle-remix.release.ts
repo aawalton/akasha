@@ -9,7 +9,7 @@ export const pentatonixCanTSleepLoveDannyLHarleRemix = {
   position: 0,
   ownLength: 3.8911,
   ownProgress: 3.8911,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-05-13",
   externalId: "73shpBomHwCRwLworpdGK0",

@@ -9,7 +9,7 @@ export const sabrinaCarpenterSkinnyDippingAcoustic = {
   position: 0,
   ownLength: 6.177283,
   ownProgress: 6.177283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-05",
   externalId: "39dXXRroxeXJdEMGay4Zos",

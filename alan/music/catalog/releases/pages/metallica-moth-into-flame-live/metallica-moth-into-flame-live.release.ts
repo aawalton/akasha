@@ -9,7 +9,7 @@ export const metallicaMothIntoFlameLive = {
   position: 0,
   ownLength: 28.4553,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-08-05",
   externalId: "5Od43KqRw3TLAusoGZpXMx",

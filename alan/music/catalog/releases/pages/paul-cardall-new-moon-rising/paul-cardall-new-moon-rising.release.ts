@@ -9,7 +9,7 @@ export const paulCardallNewMoonRising = {
   position: 0,
   ownLength: 3.62155,
   ownProgress: 3.62155,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-01",
   externalId: "3yP3aw60J3gTniESqLjTNR",

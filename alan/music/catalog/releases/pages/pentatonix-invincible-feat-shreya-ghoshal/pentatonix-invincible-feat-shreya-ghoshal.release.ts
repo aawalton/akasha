@@ -9,7 +9,7 @@ export const pentatonixInvincibleFeatShreyaGhoshal = {
   position: 0,
   ownLength: 3.298883,
   ownProgress: 3.298883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-26",
   externalId: "0hWZXbvK256SG6xGLaf9uA",

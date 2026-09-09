@@ -9,7 +9,7 @@ export const pentatonixChristmasInTheCity = {
   position: 0,
   ownLength: 46.091167,
   ownProgress: 46.091167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-10-24",
   externalId: "7xaP8xn3tGJYPg3xwcbe9s",

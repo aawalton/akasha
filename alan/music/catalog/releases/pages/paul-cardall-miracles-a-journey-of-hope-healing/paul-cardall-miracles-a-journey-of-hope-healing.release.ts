@@ -9,7 +9,7 @@ export const paulCardallMiraclesAJourneyOfHopeHealing = {
   position: 0,
   ownLength: 43.172817,
   ownProgress: 43.172817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2004-05-03",
   externalId: "528gkSTdmuVzXaQtOWzioW",

@@ -9,7 +9,7 @@ export const pentatonixShallow = {
   position: 0,
   ownLength: 3.334867,
   ownProgress: 3.334867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-31",
   externalId: "3LKj5a1ySvJZysPCkUXYfv",

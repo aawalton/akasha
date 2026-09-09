@@ -9,7 +9,7 @@ export const siaExhaleFeatSiaHookNSlingRemix = {
   position: 0,
   ownLength: 5.202333,
   ownProgress: 5.202333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-07-10",
   externalId: "52FgqulIXZc4i2Bu6bgt7A",

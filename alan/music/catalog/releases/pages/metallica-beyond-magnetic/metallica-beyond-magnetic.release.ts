@@ -9,7 +9,7 @@ export const metallicaBeyondMagnetic = {
   position: 0,
   ownLength: 29.175983,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2011-12-13",
   externalId: "5WSYGRqZDvQphb2Ugig4jh",

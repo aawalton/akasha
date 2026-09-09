@@ -9,7 +9,7 @@ export const phoebeBridgersGoodbyeToLoveFromMinionsTheRiseOfGruSoundtrack = {
   position: 0,
   ownLength: 4.038517,
   ownProgress: 4.038517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2022-07-01",

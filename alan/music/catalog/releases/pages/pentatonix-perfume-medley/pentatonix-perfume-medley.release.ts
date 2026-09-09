@@ -9,7 +9,7 @@ export const pentatonixPerfumeMedley = {
   position: 0,
   ownLength: 2.21955,
   ownProgress: 2.21955,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-24",
   externalId: "3PMe1M0mKrfKZhtdoJuwQy",

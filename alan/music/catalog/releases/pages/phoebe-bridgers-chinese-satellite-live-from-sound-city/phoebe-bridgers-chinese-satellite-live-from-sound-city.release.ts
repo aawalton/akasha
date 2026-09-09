@@ -9,7 +9,7 @@ export const phoebeBridgersChineseSatelliteLiveFromSoundCity = {
   position: 0,
   ownLength: 3.914667,
   ownProgress: 3.914667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-03-11",

@@ -9,7 +9,7 @@ export const sabrinaCarpenterOnMyWayDaTweekazRemix = {
   position: 0,
   ownLength: 3.4033,
   ownProgress: 3.4033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-25",
   externalId: "1ODOCRQWwjfJRqJ34RtrKa",

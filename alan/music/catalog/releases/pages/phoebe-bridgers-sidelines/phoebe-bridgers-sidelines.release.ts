@@ -9,7 +9,7 @@ export const phoebeBridgersSidelines = {
   position: 0,
   ownLength: 4.4062,
   ownProgress: 4.4062,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2022-04-15",

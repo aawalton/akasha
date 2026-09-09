@@ -9,7 +9,7 @@ export const siaDanceAloneOfenbachRemix = {
   position: 0,
   ownLength: 8.969633,
   ownProgress: 8.969633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-03-01",
   externalId: "6umwUX0AZ2kh89048ghhL9",

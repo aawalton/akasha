@@ -9,7 +9,7 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorld = {
   position: 0,
   ownLength: 3.210667,
   ownProgress: 3.210667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-01-01",
   externalId: "2gfzrQkA6WzsX13kOhf3wU",

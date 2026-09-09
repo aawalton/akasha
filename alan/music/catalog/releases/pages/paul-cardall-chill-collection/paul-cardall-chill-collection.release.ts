@@ -9,7 +9,7 @@ export const paulCardallChillCollection = {
   position: 0,
   ownLength: 62.52745,
   ownProgress: 62.52745,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-05-05",
   externalId: "1Hnv3cvHjvxjr0w0VIJp5S",

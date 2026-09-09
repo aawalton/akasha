@@ -9,7 +9,7 @@ export const michaelJacksonLookingBackToYesterday = {
   position: 0,
   ownLength: 36.833933,
   ownProgress: 36.833933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1986-02-11",

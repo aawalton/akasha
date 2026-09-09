@@ -9,7 +9,7 @@ export const michaelJacksonBloodOnTheDanceFloorHistoryInTheMix = {
   position: 0,
   ownLength: 75.8126,
   ownProgress: 75.8126,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "D",
   publishedAt: "1997-05-11",

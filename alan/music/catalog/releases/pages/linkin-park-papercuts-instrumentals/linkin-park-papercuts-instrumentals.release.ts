@@ -9,7 +9,7 @@ export const linkinParkPapercutsInstrumentals = {
   position: 0,
   ownLength: 67.873667,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-06-28",
   externalId: "494aUGKXMH5ruXtR3O1a3H",

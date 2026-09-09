@@ -9,7 +9,7 @@ export const siaBeautifulPeopleCassoRemix = {
   position: 0,
   ownLength: 10.841167,
   ownProgress: 10.841167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-21",
   externalId: "3R9DDzJykPdc19JAFFPiEH",

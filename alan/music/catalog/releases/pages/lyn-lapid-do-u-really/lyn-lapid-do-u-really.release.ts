@@ -9,7 +9,7 @@ export const lynLapidDoUReally = {
   position: 0,
   ownLength: 2.685383,
   ownProgress: 2.685383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-02-03",

@@ -9,7 +9,7 @@ export const rockapellaRockAroundTheClockTellMeSomethingGood = {
   position: 0,
   ownLength: 2.964583,
   ownProgress: 2.964583,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-04-11",
   externalId: "1sLoy1MRJTRjsAdIF6duAW",

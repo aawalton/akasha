@@ -9,7 +9,7 @@ export const phoebeBridgersKyotoBarteesStrangeRemix = {
   position: 0,
   ownLength: 2.778433,
   ownProgress: 2.778433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2021-08-19",

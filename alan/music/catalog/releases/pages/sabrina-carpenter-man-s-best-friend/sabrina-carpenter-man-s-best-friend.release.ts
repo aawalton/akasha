@@ -9,7 +9,7 @@ export const sabrinaCarpenterManSBestFriend = {
   position: 0,
   ownLength: 38.415183,
   ownProgress: 38.415183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-29",
   externalId: "1aqg30bNvLSWgShZgX4oop",

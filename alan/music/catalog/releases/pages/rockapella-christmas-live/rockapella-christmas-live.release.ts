@@ -9,7 +9,7 @@ export const rockapellaChristmasLive = {
   position: 0,
   ownLength: 40.959483,
   ownProgress: 40.959483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-01",
   externalId: "4qq6lk5dA23eAKI7Dut0jV",

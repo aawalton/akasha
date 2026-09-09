@@ -9,7 +9,7 @@ export const paulCardallWhereCanITurnForPeace = {
   position: 0,
   ownLength: 3.916667,
   ownProgress: 3.916667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-14",
   externalId: "6bqJzuXO1nQtmzJIQzDtXt",

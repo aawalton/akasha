@@ -9,7 +9,7 @@ export const siaBeautifulPeopleSethHillsRemix = {
   position: 0,
   ownLength: 16.409833,
   ownProgress: 16.409833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-28",
   externalId: "0X4kIs7U2I7HEL1DDNU8DM",

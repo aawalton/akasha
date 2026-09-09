@@ -9,7 +9,7 @@ export const sabrinaCarpenterFruitcake = {
   position: 0,
   ownLength: 15.772417,
   ownProgress: 15.772417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-17",
   externalId: "7EisdwWcodpmHxgpGVE5Pg",

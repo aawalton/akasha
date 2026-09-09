@@ -9,7 +9,7 @@ export const phoebeBridgersKillerTheSound = {
   position: 0,
   ownLength: 7.919767,
   ownProgress: 7.919767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2018-04-28",

@@ -9,7 +9,7 @@ export const lynLapidEastSide = {
   position: 0,
   ownLength: 2.759633,
   ownProgress: 2.759633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-11-17",

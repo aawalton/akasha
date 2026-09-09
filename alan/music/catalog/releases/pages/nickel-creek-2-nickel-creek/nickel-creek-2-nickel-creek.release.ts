@@ -9,7 +9,7 @@ export const nickelCreek2NickelCreek = {
   position: 0,
   ownLength: 49.601133,
   ownProgress: 49.601133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2000-01-01",
   externalId: "5SGG7graQOU3OnK3cZZCNd",

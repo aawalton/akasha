@@ -9,7 +9,7 @@ export const phoebeBridgersKyoto = {
   position: 0,
   ownLength: 6.743317,
   ownProgress: 6.743317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-10",
   externalId: "7IgYjX0xQMqWEBwIjF8vjM",

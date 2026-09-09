@@ -9,7 +9,7 @@ export const mitskiMitskiOnAudiotreeLive = {
   position: 0,
   ownLength: 13.782717,
   ownProgress: 13.782717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2015-07-31",

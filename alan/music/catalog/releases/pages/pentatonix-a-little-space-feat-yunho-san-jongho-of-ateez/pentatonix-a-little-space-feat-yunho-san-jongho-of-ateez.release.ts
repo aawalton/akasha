@@ -9,7 +9,7 @@ export const pentatonixALittleSpaceFeatYunhoSanJonghoOfAteez = {
   position: 0,
   ownLength: 2.913767,
   ownProgress: 2.913767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-20",
   externalId: "4SXsvcrYpEi6NYfjv2qIjA",

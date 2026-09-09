@@ -9,7 +9,7 @@ export const michaelJacksonImmortal = {
   position: 0,
   ownLength: 102.801833,
   ownProgress: 102.801833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2011-11-21",

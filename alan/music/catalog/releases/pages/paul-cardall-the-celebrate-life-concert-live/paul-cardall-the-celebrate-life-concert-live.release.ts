@@ -9,7 +9,7 @@ export const paulCardallTheCelebrateLifeConcertLive = {
   position: 0,
   ownLength: 60.050133,
   ownProgress: 60.050133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-09-09",
   externalId: "5N3QPn6eIMFc73jfHxtCC1",

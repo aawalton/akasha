@@ -9,7 +9,7 @@ export const phoebeBridgersThatFunnyFeeling = {
   position: 0,
   ownLength: 6.676083,
   ownProgress: 6.676083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-10-04",

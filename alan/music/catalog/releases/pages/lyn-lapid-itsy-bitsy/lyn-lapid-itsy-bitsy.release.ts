@@ -9,7 +9,7 @@ export const lynLapidItsyBitsy = {
   position: 0,
   ownLength: 2.950217,
   ownProgress: 2.950217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-01-29",

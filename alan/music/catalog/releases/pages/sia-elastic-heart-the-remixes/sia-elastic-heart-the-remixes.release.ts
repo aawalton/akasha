@@ -9,7 +9,7 @@ export const siaElasticHeartTheRemixes = {
   position: 0,
   ownLength: 38.3115,
   ownProgress: 38.3115,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-04-14",
   externalId: "1bk1IYJzSEDqBxDaiqxO2S",

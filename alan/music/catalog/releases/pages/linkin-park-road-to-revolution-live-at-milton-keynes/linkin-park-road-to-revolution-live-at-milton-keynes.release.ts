@@ -9,7 +9,7 @@ export const linkinParkRoadToRevolutionLiveAtMiltonKeynes = {
   position: 0,
   ownLength: 77.45035,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2008-11-21",
   externalId: "72seWTJF9U5SljizfyF2ZK",

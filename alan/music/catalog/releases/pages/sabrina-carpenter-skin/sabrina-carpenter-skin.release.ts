@@ -9,7 +9,7 @@ export const sabrinaCarpenterSkin = {
   position: 0,
   ownLength: 2.958333,
   ownProgress: 2.958333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-22",
   externalId: "6JISV6SiJtQnIsNC6OVpUf",

@@ -9,7 +9,7 @@ export const rockapellaMotownMore = {
   position: 0,
   ownLength: 35.805967,
   ownProgress: 35.805967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-03-15",
   externalId: "4zGjOIzSS64HrZ5Kqy3WGE",

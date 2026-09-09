@@ -9,7 +9,7 @@ export const michaelJacksonMichaelJacksonTheCompleteRemixSuite = {
   position: 0,
   ownLength: 85.517683,
   ownProgress: 85.517683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2009-10-20",

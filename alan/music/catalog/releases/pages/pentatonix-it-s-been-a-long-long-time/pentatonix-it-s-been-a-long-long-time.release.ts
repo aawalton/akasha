@@ -9,7 +9,7 @@ export const pentatonixItSBeenALongLongTime = {
   position: 0,
   ownLength: 1.129767,
   ownProgress: 1.129767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-27",
   externalId: "5CBhIk6ynI75VsLEjrpH77",

@@ -9,7 +9,7 @@ export const metallicaDeathMagnetic = {
   position: 0,
   ownLength: 74.750833,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2008-09-12",
   externalId: "0lf5ceMub7KQhLfGxCdM06",

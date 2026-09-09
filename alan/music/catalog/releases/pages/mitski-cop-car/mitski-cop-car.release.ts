@@ -9,7 +9,7 @@ export const mitskiCopCar = {
   position: 0,
   ownLength: 3.144533,
   ownProgress: 3.144533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2020-03-07",

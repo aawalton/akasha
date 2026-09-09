@@ -9,7 +9,7 @@ export const lynLapidToLoveInThe21stCentury = {
   position: 0,
   ownLength: 26.3775,
   ownProgress: 26.3775,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-06-23",

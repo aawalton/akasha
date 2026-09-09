@@ -9,7 +9,7 @@ export const paulCardallFaithful = {
   position: 0,
   ownLength: 45.249733,
   ownProgress: 45.249733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2004-05-03",
   externalId: "4reM22AiywSJDI40oyEcEf",

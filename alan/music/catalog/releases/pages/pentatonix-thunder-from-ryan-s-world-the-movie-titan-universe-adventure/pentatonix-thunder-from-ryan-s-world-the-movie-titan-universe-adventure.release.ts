@@ -9,7 +9,7 @@ export const pentatonixThunderFromRyanSWorldTheMovieTitanUniverseAdventure = {
   position: 0,
   ownLength: 2.222683,
   ownProgress: 2.222683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-07-12",
   externalId: "08ZPn9eysoME0txaUpYVEc",

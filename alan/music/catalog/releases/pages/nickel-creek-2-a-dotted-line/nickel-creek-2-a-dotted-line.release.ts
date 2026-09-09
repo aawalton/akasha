@@ -9,7 +9,7 @@ export const nickelCreek2ADottedLine = {
   position: 0,
   ownLength: 37.926633,
   ownProgress: 37.926633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-03-28",
   externalId: "3ujidZyCiCruwocS0bDmt2",

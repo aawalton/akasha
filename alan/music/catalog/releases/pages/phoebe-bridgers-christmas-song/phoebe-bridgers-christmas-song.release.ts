@@ -9,7 +9,7 @@ export const phoebeBridgersChristmasSong = {
   position: 0,
   ownLength: 3.698433,
   ownProgress: 3.698433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-29",
   externalId: "57QwFfafVAQLKXjBSLQwxC",

@@ -9,7 +9,7 @@ export const pentatonixDoYouHearWhatIHear2 = {
   position: 0,
   ownLength: 3.085767,
   ownProgress: 3.085767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-09",
   externalId: "2FJVY528PwIOfqDkAn25a4",

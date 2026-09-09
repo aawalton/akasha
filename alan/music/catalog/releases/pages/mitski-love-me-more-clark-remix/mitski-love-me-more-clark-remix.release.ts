@@ -9,7 +9,7 @@ export const mitskiLoveMeMoreClarkRemix = {
   position: 0,
   ownLength: 8.3959,
   ownProgress: 8.3959,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2022-01-26",

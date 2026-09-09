@@ -9,7 +9,7 @@ export const paulCardallSongsOfPraise = {
   position: 0,
   ownLength: 48.1555,
   ownProgress: 48.1555,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2007-01-01",
   externalId: "07NBxNrDIfAxHsPlsSzd8K",

@@ -9,7 +9,7 @@ export const rockapellaDonTTellMeYouDo = {
   position: 0,
   ownLength: 49.074883,
   ownProgress: 49.074883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "1998-03-04",

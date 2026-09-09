@@ -9,7 +9,7 @@ export const phoebeBridgersKyotoGlitchGumRemix = {
   position: 0,
   ownLength: 2.66355,
   ownProgress: 2.66355,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "D",
   publishedAt: "2021-08-19",

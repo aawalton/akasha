@@ -9,7 +9,7 @@ export const pentatonixKidOnChristmasFeatMeghanTrainor = {
   position: 0,
   ownLength: 3.376667,
   ownProgress: 3.376667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-27",
   externalId: "5PHAhfCFx2NRUfzYHLVuhm",

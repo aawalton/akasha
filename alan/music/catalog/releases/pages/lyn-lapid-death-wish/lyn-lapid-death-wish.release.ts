@@ -9,7 +9,7 @@ export const lynLapidDeathWish = {
   position: 0,
   ownLength: 2.841983,
   ownProgress: 2.841983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-03-28",
