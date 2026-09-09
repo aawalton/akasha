@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theArtOfConflictManagement = {
   id: "019db533-f39e-73f3-b5a2-cb0a434ee743",

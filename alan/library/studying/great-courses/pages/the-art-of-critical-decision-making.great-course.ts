@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theArtOfCriticalDecisionMaking = {
   id: "019db533-f39e-7a4d-a3a8-1433fe9a5ce4",

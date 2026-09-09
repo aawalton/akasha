@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const theEconomicsOfUncertainty = {
   id: "019db533-f39e-7411-829b-ad03b3b93299",

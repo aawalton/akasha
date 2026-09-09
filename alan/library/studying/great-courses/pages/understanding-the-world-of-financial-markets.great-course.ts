@@ -1,4 +1,4 @@
-import type { GreatCourse } from "../../great-course.page-type.ts"
+import type { GreatCourse } from "../great-course.page-type.ts"
 
 export const understandingTheWorldOfFinancialMarkets = {
   id: "019db533-f39e-72e9-adab-3d81a6f1f36e",
