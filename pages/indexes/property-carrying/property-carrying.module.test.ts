@@ -193,7 +193,7 @@ test("the answer is read with no page body standing anywhere", () => {
 })
 
 const NAMING: Naming = {
-  path: "akasha/lockfile.named-file-property.ts",
+  path: "akasha/lockfile.file-property.ts",
   value: { fileName: "bun.lock", said: true },
 }
 
@@ -209,7 +209,7 @@ function saidNever(): boolean {
 
 function carryingAt(at: string): (named: string) => Carried {
   return (named) =>
-    named === "named-file-property/lockfile"
+    named === "file-property/lockfile"
       ? { carrying: [{ pageTypeSlug: "workspace", path: at, id: ONE, within: null }] }
       : { refused: "no page property carries that slug" }
 }

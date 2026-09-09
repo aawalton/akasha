@@ -3,7 +3,7 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { BiomeConfig } from "./properties/biome-config.named-file-property.ts"
 import type { BunConfig } from "./properties/bun-config.named-file-property.ts"
 import type { DockerIgnore } from "./properties/docker-ignore.named-file-property.ts"
-import type { Lockfile } from "./properties/lockfile.named-file-property.ts"
+import type { Lockfile } from "./properties/lockfile.file-property.ts"
 import type { PackageDirectory } from "./properties/package-directory.build-folder-property.ts"
 import type { SecretsConfig } from "./properties/secrets-config.named-file-property.ts"
 import type { TypescriptBaseConfig } from "./properties/typescript-base-config.named-file-property.ts"
@@ -36,7 +36,7 @@ export const workspace = {
     "named-file-property/biome-config",
     "named-file-property/bun-config",
     "named-file-property/docker-ignore",
-    "named-file-property/lockfile",
+    "file-property/lockfile",
     "named-file-property/secrets-config",
     "named-file-property/typescript-base-config",
     "named-file-property/typescript-build-info",
@@ -48,7 +48,7 @@ export const workspace = {
   extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "named-file-property/workspace-manifest", required: true, many: false },
-    { pagePropertySlug: "named-file-property/lockfile", required: true, many: false },
+    { pagePropertySlug: "file-property/lockfile", required: true, many: false },
     { pagePropertySlug: "named-file-property/biome-config", required: true, many: false },
     { pagePropertySlug: "named-file-property/bun-config", required: true, many: false },
     { pagePropertySlug: "named-file-property/docker-ignore", required: true, many: false },
