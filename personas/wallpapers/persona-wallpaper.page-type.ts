@@ -1,10 +1,10 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { EsoDay } from "../../alan/track/daily/eso-days/properties/eso-day.text-property.ts"
 import type { Description } from "../../pages/properties/description.text-property.ts"
 import type { RelationshipLevel } from "../closeness-levels/properties/relationship-level.number-property.ts"
 import type { Stage } from "../closeness-levels/properties/stage.text-property.ts"
 import type { PersonaImage } from "../images/persona-image.page-type.ts"
 import type { ValueSlug } from "../properties/value-slug.text-property.ts"
+import type { EsoDay } from "./properties/eso-day.text-property.ts"
 
 export type PersonaWallpaper = PersonaImage & {
   relationshipLevel?: RelationshipLevel
@@ -21,6 +21,7 @@ export const personaWallpaper = {
   definition: "the picture a persona was hung on Alan's glass as",
   pluralSlug: "persona-wallpapers",
   extendsSlug: ["page-type/persona-image"],
+  partSlugs: ["text-property/eso-day"],
   properties: [
     { pagePropertySlug: "number-property/relationship-level", required: false, many: false },
     { pagePropertySlug: "text-property/stage", required: false, many: false },

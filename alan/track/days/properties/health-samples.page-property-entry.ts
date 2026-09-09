@@ -8,6 +8,13 @@ export const healthSamples = {
   slug: "health-samples",
   propertySlug: "health-samples",
   definition: "every measurement Alan's phone took whose stretch began on a day, one to a line",
+  partSlugs: [
+    "instant-property/arrived-at",
+    "instant-property/ended-at",
+    "instant-property/started-at",
+    "number-property/value",
+    "text-property/source-name",
+  ],
   properties: [
     { pagePropertySlug: "number-property/seq", required: true, many: false },
     { pagePropertySlug: "text-property/metric", required: true, many: false },

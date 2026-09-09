@@ -7,7 +7,6 @@ export const trackDaily = {
   definition: "what is measured about Alan a day at a time",
   partSlugs: [
     "page-type/email-entry",
-    "page-type/eso-day",
     "page-type/day",
     "module/day-narrow-types",
     "module/day-place",
@@ -50,7 +49,11 @@ export const trackDaily = {
     },
     {
       invariantKind: "departure",
-      statement: "The page tracked is a day and the page type says which kind of day.",
+      statement: "An ESO day is a boundary rather than a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ESO day decides which day a health reading or a listen is filed under.",
     },
   ],
 } as const satisfies Domain

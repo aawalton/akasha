@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Metric } from "../../../alan/track/daily/eso-days/properties/metric.text-property.ts"
+import type { Metric } from "../../../alan/track/days/properties/metric.text-property.ts"
 import type { Description } from "../../../pages/properties/description.text-property.ts"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { Scope } from "../../../temper/temper-progress/progress-things/properties/scope.text-property.ts"
