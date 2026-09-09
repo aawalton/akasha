@@ -9,7 +9,7 @@ export const houseOfTheDragon = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-08-21",
   externalLink: "https://trakt.tv/shows/house-of-the-dragon/seasons/all",

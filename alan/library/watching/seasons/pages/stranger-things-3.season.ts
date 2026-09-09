@@ -9,7 +9,7 @@ export const strangerThings3 = {
   position: 3,
   ownLength: 451.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-07-04",
   externalId: "trakt-season-164416",

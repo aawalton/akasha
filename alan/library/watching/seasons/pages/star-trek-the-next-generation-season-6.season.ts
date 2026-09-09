@@ -9,7 +9,7 @@ export const starTrekTheNextGenerationSeason6 = {
   position: 6,
   ownLength: 1179,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1992-09-22",
   externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/6",

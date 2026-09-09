@@ -9,7 +9,7 @@ export const starTrekProdigySeason2 = {
   position: 2,
   ownLength: 480,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-07-01",
   externalLink: "https://trakt.tv/shows/star-trek-prodigy/seasons/2",

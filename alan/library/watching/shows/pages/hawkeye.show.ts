@@ -9,7 +9,7 @@ export const hawkeye = {
   position: 32,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-24",
   externalLink: "https://trakt.tv/shows/hawkeye-2021",

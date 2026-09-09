@@ -9,7 +9,7 @@ export const theUnsleepingCityChapter2 = {
   position: 8,
   ownLength: 2563.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-11-12",
   externalId: "trakt-season-250422",

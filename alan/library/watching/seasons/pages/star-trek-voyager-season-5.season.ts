@@ -9,7 +9,7 @@ export const starTrekVoyagerSeason5 = {
   position: 5,
   ownLength: 1237.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1998-10-15",
   externalLink: "https://trakt.tv/shows/star-trek-voyager/seasons/5",

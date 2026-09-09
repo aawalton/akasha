@@ -9,7 +9,7 @@ export const theAcolyteSeason1 = {
   position: 1,
   ownLength: 328.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-06-05",
   externalId: "trakt-season-285382",

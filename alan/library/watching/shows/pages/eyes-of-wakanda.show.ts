@@ -9,7 +9,7 @@ export const eyesOfWakanda = {
   position: 53,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-08-01",
   externalLink: "https://trakt.tv/shows/eyes-of-wakanda",

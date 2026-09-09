@@ -9,7 +9,7 @@ export const theChosenSeason2 = {
   position: 2,
   ownLength: 405,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-04-04",
   externalId: "trakt-season-235402",

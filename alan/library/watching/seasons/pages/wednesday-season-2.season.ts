@@ -9,7 +9,7 @@ export const wednesdaySeason2 = {
   position: 2,
   ownLength: 471,
   ownProgress: 471,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-06",
   externalId: "trakt-season-312736",

@@ -9,7 +9,7 @@ export const helstrom = {
   position: 12,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-10-16",
   externalLink: "https://trakt.tv/shows/helstrom",

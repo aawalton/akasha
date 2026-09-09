@@ -9,7 +9,7 @@ export const scorpionSeason1 = {
   position: 1,
   ownLength: 921,
   ownProgress: 921,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-09-23",
   externalId: "trakt-season-61514",

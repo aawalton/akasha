@@ -9,7 +9,7 @@ export const returnToThePlanetOfTheApesSeason1 = {
   position: 1,
   ownLength: 390,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1975-09-06",
   externalId: "trakt-season-23828",

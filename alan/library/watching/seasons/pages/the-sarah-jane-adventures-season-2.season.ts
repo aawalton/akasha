@@ -9,7 +9,7 @@ export const theSarahJaneAdventuresSeason2 = {
   position: 2,
   ownLength: 360,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2008-09-29",
   externalId: "trakt-season-761",

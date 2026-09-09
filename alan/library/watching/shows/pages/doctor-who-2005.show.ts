@@ -9,7 +9,7 @@ export const doctorWho2005 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "paused",
   publishedAt: "2005-03-26",
   externalLink: "https://trakt.tv/shows/doctor-who-2005",

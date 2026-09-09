@@ -9,7 +9,7 @@ export const theRaveningWar = {
   position: 17,
   ownLength: 903,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-05-10",
   externalId: "trakt-season-321996",

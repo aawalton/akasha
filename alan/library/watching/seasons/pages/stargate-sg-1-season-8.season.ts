@@ -9,7 +9,7 @@ export const stargateSg1Season8 = {
   position: 8,
   ownLength: 900,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2004-07-10",
   externalId: "trakt-season-14615",

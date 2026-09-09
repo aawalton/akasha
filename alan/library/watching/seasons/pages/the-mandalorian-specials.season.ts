@@ -9,7 +9,7 @@ export const theMandalorianSpecials = {
   position: 0,
   ownLength: 55.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2023-12-12",
   externalId: "trakt-season-355315",

@@ -9,7 +9,7 @@ export const starTrekEnterpriseSeason2 = {
   position: 2,
   ownLength: 1117.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2002-09-09",
   externalLink: "https://trakt.tv/shows/star-trek-enterprise/seasons/2",

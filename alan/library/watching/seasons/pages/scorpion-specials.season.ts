@@ -9,7 +9,7 @@ export const scorpionSpecials = {
   position: 0,
   ownLength: 49.8,
   ownProgress: 49.8,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2014-08-13",
   externalId: "trakt-season-96845",

@@ -9,7 +9,7 @@ export const battlestarGalactica1978 = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1978-09-18",
   externalLink: "https://trakt.tv/shows/battlestar-galactica",

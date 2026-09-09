@@ -9,7 +9,7 @@ export const starTrekLowerDecksSeason4 = {
   position: 4,
   ownLength: 264,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-09-07",
   externalLink: "https://trakt.tv/shows/star-trek-lower-decks/seasons/4",

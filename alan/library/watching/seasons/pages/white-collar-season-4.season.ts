@@ -9,7 +9,7 @@ export const whiteCollarSeason4 = {
   position: 4,
   ownLength: 697.2,
   ownProgress: 697.2,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-07-11",
   externalId: "trakt-season-31978",

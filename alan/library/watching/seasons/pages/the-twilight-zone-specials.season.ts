@@ -9,7 +9,7 @@ export const theTwilightZoneSpecials = {
   position: 0,
   ownLength: 4901,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "1958-11-25",
   externalId: "0",

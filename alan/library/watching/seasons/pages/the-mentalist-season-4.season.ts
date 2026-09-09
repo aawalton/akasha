@@ -9,7 +9,7 @@ export const theMentalistSeason4 = {
   position: 4,
   ownLength: 1012,
   ownProgress: 1012,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-09-23",
   externalId: "4",

@@ -9,7 +9,7 @@ export const starWarsTheCloneWars = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2008-10-03",
   externalLink: "https://trakt.tv/shows/star-wars-the-clone-wars",

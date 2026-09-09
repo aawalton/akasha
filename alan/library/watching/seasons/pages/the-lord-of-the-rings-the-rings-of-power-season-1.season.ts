@@ -9,7 +9,7 @@ export const theLordOfTheRingsTheRingsOfPowerSeason1 = {
   position: 1,
   ownLength: 565.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-09-02",
   externalId: "trakt-season-239914",

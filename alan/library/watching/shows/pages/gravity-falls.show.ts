@@ -9,7 +9,7 @@ export const gravityFalls = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-06-15",
   externalLink: "https://trakt.tv/shows/gravity-falls",

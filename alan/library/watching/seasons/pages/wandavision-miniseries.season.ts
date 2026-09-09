@@ -9,7 +9,7 @@ export const wandavisionMiniseries = {
   position: 1,
   ownLength: 363,
   ownProgress: 363,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-15",
   externalId: "trakt-season-233908",

@@ -9,7 +9,7 @@ export const starTrekEnterpriseSeason3 = {
   position: 3,
   ownLength: 1032,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2003-09-11",
   externalLink: "https://trakt.tv/shows/star-trek-enterprise/seasons/3",

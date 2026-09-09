@@ -9,7 +9,7 @@ export const stevenUniverse = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2013-11-05",
   externalLink: "https://trakt.tv/shows/steven-universe",

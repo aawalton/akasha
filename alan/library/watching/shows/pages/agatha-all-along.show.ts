@@ -9,7 +9,7 @@ export const agathaAllAlong = {
   position: 51,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-09-18",
   externalLink: "https://trakt.tv/shows/agatha-all-along",

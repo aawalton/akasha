@@ -9,7 +9,7 @@ export const theSeven = {
   position: 11,
   ownLength: 1440,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-08-18",
   externalId: "trakt-season-267049",

@@ -9,7 +9,7 @@ export const theOffice = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2005-03-24",
   externalLink: "https://trakt.tv/shows/the-office",

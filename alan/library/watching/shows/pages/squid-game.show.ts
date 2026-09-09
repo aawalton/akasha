@@ -9,7 +9,7 @@ export const squidGame = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-17",
   externalLink: "https://trakt.tv/shows/squid-game",

@@ -9,7 +9,7 @@ export const studioC = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "C",
   publishedAt: "2012-10-07",

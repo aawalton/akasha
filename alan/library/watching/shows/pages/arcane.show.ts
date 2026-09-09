@@ -9,7 +9,7 @@ export const arcane = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "S",
   publishedAt: "2021-11-06",

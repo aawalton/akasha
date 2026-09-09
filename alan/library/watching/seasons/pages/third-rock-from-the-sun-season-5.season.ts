@@ -9,7 +9,7 @@ export const thirdRockFromTheSunSeason5 = {
   position: 5,
   ownLength: 484,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1999-09-21",
   externalId: "5",

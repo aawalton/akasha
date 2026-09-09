@@ -9,7 +9,7 @@ export const theLegendOfKorra = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-04-15",
   externalLink: "https://trakt.tv/shows/the-legend-of-korra",

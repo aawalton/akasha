@@ -9,7 +9,7 @@ export const inhumans = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-09-30",
   externalLink: "https://trakt.tv/shows/marvel-s-inhumans",

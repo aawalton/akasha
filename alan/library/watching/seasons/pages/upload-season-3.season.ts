@@ -9,7 +9,7 @@ export const uploadSeason3 = {
   position: 3,
   ownLength: 280.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-10-20",
   externalId: "trakt-season-331097",

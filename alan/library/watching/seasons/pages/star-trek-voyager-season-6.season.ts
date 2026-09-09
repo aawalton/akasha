@@ -9,7 +9,7 @@ export const starTrekVoyagerSeason6 = {
   position: 6,
   ownLength: 1144.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1999-09-23",
   externalLink: "https://trakt.tv/shows/star-trek-voyager/seasons/6",

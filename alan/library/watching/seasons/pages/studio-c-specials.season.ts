@@ -9,7 +9,7 @@ export const studioCSpecials = {
   position: 0,
   ownLength: 200,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2013-10-06",
   externalId: "0",

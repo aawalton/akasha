@@ -9,7 +9,7 @@ export const k9 = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-10-31",
   externalLink: "https://trakt.tv/shows/k-9",

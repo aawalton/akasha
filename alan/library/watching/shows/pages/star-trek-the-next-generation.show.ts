@@ -9,7 +9,7 @@ export const starTrekTheNextGeneration = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "paused",
   rank: "B",
   publishedAt: "1987-09-28",

@@ -9,7 +9,7 @@ export const ironFist = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-03-17",
   externalLink: "https://trakt.tv/shows/marvel-s-iron-fist",

@@ -9,7 +9,7 @@ export const peacemaker = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2003-10-06",
   externalLink: "https://trakt.tv/shows/peacemaker",

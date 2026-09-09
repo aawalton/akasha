@@ -9,7 +9,7 @@ export const stargateUniverse = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-10-02",
   externalLink: "https://trakt.tv/shows/stargate-universe",

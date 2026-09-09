@@ -9,7 +9,7 @@ export const sheHulkAttorneyAtLawMiniseries = {
   position: 1,
   ownLength: 309,
   ownProgress: 309,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-18",
   externalId: "trakt-season-240816",

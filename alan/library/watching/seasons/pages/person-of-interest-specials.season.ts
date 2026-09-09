@@ -9,7 +9,7 @@ export const personOfInterestSpecials = {
   position: 0,
   ownLength: 283,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2012-09-05",
   externalId: "0",

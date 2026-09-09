@@ -9,7 +9,7 @@ export const ruriRocksSeason1 = {
   position: 1,
   ownLength: 312,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-07-06",
   externalId: "1",

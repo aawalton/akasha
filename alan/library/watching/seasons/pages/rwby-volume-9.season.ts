@@ -9,7 +9,7 @@ export const rwbyVolume9 = {
   position: 9,
   ownLength: 193.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-02-18",
   externalLink: "https://trakt.tv/shows/rwby/seasons/9",

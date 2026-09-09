@@ -9,7 +9,7 @@ export const starTrekTheNextGenerationSeason5 = {
   position: 5,
   ownLength: 1195.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1991-09-24",
   externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/5",

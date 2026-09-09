@@ -9,7 +9,7 @@ export const stevenUniverseSeason3 = {
   position: 3,
   ownLength: 298.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-05-12",
   externalId: "trakt-season-125705",

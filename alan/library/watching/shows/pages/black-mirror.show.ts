@@ -9,7 +9,7 @@ export const blackMirror = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2011-12-04",
   externalLink: "https://trakt.tv/shows/black-mirror",

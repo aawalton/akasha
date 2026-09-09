@@ -9,7 +9,7 @@ export const starTrekDiscoverySeason1 = {
   position: 1,
   ownLength: 676.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-09-24",
   externalLink: "https://trakt.tv/shows/star-trek-discovery/seasons/1",

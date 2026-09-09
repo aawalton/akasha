@@ -9,7 +9,7 @@ export const starTrekStrangeNewWorldsSeason3 = {
   position: 3,
   ownLength: 550.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-07-17",
   externalLink: "https://trakt.tv/shows/star-trek-strange-new-worlds/seasons/3",

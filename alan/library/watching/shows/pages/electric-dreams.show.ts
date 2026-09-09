@@ -9,7 +9,7 @@ export const electricDreams = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-09-17",
   externalLink: "https://trakt.tv/shows/philip-k-dick-s-electric-dreams",

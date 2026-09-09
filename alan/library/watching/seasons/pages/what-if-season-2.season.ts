@@ -9,7 +9,7 @@ export const whatIfSeason2 = {
   position: 47,
   ownLength: 289.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-12-22",
   externalLink: "https://trakt.tv/shows/what-if-2021/seasons/2",

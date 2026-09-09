@@ -9,7 +9,7 @@ export const theExpanseSeason6 = {
   position: 6,
   ownLength: 291,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-12-10",
   externalId: "trakt-season-276002",

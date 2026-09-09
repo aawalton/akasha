@@ -9,7 +9,7 @@ export const parksAndRecreation = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-04-10",
   externalLink: "https://trakt.tv/shows/parks-and-recreation",

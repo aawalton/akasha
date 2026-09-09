@@ -9,7 +9,7 @@ export const agentCarter = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-07",
   externalLink: "https://trakt.tv/shows/marvel-s-agent-carter",

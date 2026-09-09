@@ -9,7 +9,7 @@ export const theWheelOfTimeSeason3 = {
   position: 3,
   ownLength: 534,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-03-13",
   externalId: "trakt-season-434203",

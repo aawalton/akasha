@@ -9,7 +9,7 @@ export const theLoneGunmenSeason1 = {
   position: 1,
   ownLength: 585,
   ownProgress: 585,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2001-03-05",
   externalId: "1",

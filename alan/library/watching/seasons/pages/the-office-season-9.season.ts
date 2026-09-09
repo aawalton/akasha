@@ -9,7 +9,7 @@ export const theOfficeSeason9 = {
   position: 9,
   ownLength: 591,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2012-09-20",
   externalId: "trakt-season-7617",

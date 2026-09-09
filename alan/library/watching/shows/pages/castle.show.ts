@@ -9,7 +9,7 @@ export const castle = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2009-03-09",
   externalLink: "https://trakt.tv/shows/castle",

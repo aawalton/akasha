@@ -9,7 +9,7 @@ export const stargateOriginsSpecials = {
   position: 0,
   ownLength: 103.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2018-06-19",
   externalId: "trakt-season-160724",

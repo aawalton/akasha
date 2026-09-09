@@ -9,7 +9,7 @@ export const stargateOrigins = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-02-14",
   externalLink: "https://trakt.tv/shows/stargate-origins",

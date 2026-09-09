@@ -9,7 +9,7 @@ export const starTrekDiscoverySpecials = {
   position: 0,
   ownLength: 871.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2018-03-23",
   externalId: "trakt-season-167671",

@@ -9,7 +9,7 @@ export const starTrekTheAnimatedSeriesSeason2 = {
   position: 2,
   ownLength: 144,
   ownProgress: 144,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1974-09-07",

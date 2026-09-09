@@ -9,7 +9,7 @@ export const starTrekPicardSeason1 = {
   position: 1,
   ownLength: 495,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-01-23",
   externalLink: "https://trakt.tv/shows/star-trek-picard/seasons/1",

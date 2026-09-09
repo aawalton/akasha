@@ -9,7 +9,7 @@ export const starTrekStrangeNewWorldsSeason1 = {
   position: 1,
   ownLength: 529.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-05-05",
   externalLink: "https://trakt.tv/shows/star-trek-strange-new-worlds/seasons/1",

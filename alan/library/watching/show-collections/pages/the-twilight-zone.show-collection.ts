@@ -9,7 +9,7 @@ export const theTwilightZone = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   lastSyncedAt: "2025-10-30",
 } as const satisfies ShowCollection

@@ -9,7 +9,7 @@ export const theKeyToTime = {
   position: 16,
   ownLength: 649.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1978-09-02",
   externalId: "trakt-season-436",

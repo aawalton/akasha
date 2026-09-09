@@ -9,7 +9,7 @@ export const starWarsTalesOfTheJediMiniseries = {
   position: 1,
   ownLength: 99,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-10-26",
   externalId: "trakt-season-295674",

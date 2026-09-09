@@ -9,7 +9,7 @@ export const andor = {
   position: 20,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-09-21",
   externalLink: "https://trakt.tv/shows/star-wars-andor",

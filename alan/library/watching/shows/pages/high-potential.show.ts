@@ -9,7 +9,7 @@ export const highPotential = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   publishedAt: "2024-09-18",
   externalLink: "https://trakt.tv/shows/high-potential",

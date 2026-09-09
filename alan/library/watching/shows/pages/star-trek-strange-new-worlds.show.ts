@@ -9,7 +9,7 @@ export const starTrekStrangeNewWorlds = {
   position: 25,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-05-05",
   externalLink: "https://trakt.tv/shows/star-trek-strange-new-worlds",

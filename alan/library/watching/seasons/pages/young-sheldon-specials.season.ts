@@ -9,7 +9,7 @@ export const youngSheldonSpecials = {
   position: 0,
   ownLength: 75,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2017-05-29",
   externalId: "trakt-season-148590",

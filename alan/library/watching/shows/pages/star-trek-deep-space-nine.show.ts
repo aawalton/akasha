@@ -9,7 +9,7 @@ export const starTrekDeepSpaceNine = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1993-01-03",
   externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine",

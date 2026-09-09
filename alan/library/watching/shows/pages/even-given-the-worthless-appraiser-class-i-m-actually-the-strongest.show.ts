@@ -9,7 +9,7 @@ export const evenGivenTheWorthlessAppraiserClassIMActuallyTheStrongest = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2025-01-09",
   externalLink:

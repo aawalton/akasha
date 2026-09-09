@@ -9,7 +9,7 @@ export const torchwoodSpecials = {
   position: 0,
   ownLength: 34.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2006-12-26",
   externalId: "trakt-season-1386",

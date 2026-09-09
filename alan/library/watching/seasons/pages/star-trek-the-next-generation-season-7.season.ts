@@ -9,7 +9,7 @@ export const starTrekTheNextGenerationSeason7 = {
   position: 7,
   ownLength: 1216.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1993-09-21",
   externalLink: "https://trakt.tv/shows/star-trek-the-next-generation/seasons/7",

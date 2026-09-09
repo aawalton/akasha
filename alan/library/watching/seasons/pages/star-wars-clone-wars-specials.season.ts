@@ -9,7 +9,7 @@ export const starWarsCloneWarsSpecials = {
   position: 0,
   ownLength: 160.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2005-04-24",
   externalId: "trakt-season-262044",

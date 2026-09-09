@@ -9,7 +9,7 @@ export const theBigBangTheorySeason12 = {
   position: 12,
   ownLength: 516,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-09-25",
   externalId: "trakt-season-163410",

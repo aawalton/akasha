@@ -9,7 +9,7 @@ export const theBookOfBobaFettMiniseries = {
   position: 1,
   ownLength: 346.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-12-29",
   externalId: "trakt-season-237250",

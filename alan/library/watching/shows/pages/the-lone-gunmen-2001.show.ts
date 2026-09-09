@@ -9,7 +9,7 @@ export const theLoneGunmen2001 = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2001-03-05",
   externalId: "the-lone-gunmen",

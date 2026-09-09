@@ -9,7 +9,7 @@ export const starTrekDeepSpaceNineSeason2 = {
   position: 2,
   ownLength: 1170,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1993-09-26",
   externalLink: "https://trakt.tv/shows/star-trek-deep-space-nine/seasons/2",

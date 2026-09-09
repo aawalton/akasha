@@ -9,7 +9,7 @@ export const personOfInterest = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2011-09-23",
   externalLink: "https://trakt.tv/shows/person-of-interest",

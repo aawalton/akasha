@@ -9,7 +9,7 @@ export const starWarsRebelsSpecials = {
   position: 0,
   ownLength: 105,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2014-08-12",
   externalId: "trakt-season-62238",

@@ -9,7 +9,7 @@ export const stargateSg1 = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1997-07-28",
   externalLink: "https://trakt.tv/shows/stargate-sg-1",

@@ -9,7 +9,7 @@ export const pushingDaisiesSeason2 = {
   position: 2,
   ownLength: 553.2,
   ownProgress: 553.2,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2008-10-02",
   externalId: "trakt-season-16203",

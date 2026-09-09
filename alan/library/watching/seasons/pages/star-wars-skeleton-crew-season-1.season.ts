@@ -9,7 +9,7 @@ export const starWarsSkeletonCrewSeason1 = {
   position: 1,
   ownLength: 316.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-12-03",
   externalId: "trakt-season-295476",

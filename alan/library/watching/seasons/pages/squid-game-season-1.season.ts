@@ -9,7 +9,7 @@ export const squidGameSeason1 = {
   position: 1,
   ownLength: 495,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-17",
   externalId: "trakt-season-253460",

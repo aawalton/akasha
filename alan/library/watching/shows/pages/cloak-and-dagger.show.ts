@@ -9,7 +9,7 @@ export const cloakAndDagger = {
   position: 11,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-06-08",
   externalLink: "https://trakt.tv/shows/marvel-s-cloak-dagger",

@@ -9,7 +9,7 @@ export const theLegendOfKorraSpecials = {
   position: 0,
   ownLength: 358.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2013-08-10",
   externalId: "trakt-season-45515",

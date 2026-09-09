@@ -9,7 +9,7 @@ export const deptQ = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   publishedAt: "2025-05-29",
   externalLink: "https://trakt.tv/shows/dept-q",

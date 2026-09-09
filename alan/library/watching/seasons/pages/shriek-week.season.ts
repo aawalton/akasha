@@ -9,7 +9,7 @@ export const shriekWeek = {
   position: 12,
   ownLength: 472.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-11-11",
   externalId: "trakt-season-280227",

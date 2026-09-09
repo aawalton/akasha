@@ -9,7 +9,7 @@ export const msMarvel = {
   position: 35,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-08",
   externalLink: "https://trakt.tv/shows/ms-marvel",

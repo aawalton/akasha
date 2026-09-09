@@ -9,7 +9,7 @@ export const galactica1980 = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1980-01-28",
   externalLink: "https://trakt.tv/shows/galactica-1980",

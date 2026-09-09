@@ -9,7 +9,7 @@ export const starWarsTheBadBatchSeason2 = {
   position: 2,
   ownLength: 462,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-01-04",
   externalId: "trakt-season-295695",

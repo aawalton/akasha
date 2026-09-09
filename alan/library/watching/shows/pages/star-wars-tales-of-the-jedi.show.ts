@@ -9,7 +9,7 @@ export const starWarsTalesOfTheJedi = {
   position: 21,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-10-26",
   externalLink: "https://trakt.tv/shows/star-wars-tales-of-the-jedi",

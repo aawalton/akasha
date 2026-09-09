@@ -9,7 +9,7 @@ export const swordArtOnlineAlicizationWarOfUnderworldSeason4 = {
   position: 5,
   ownLength: 552,
   ownProgress: 552,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2019-10-12",

@@ -9,7 +9,7 @@ export const starTrekPicardSpecials = {
   position: 0,
   ownLength: 481.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2020-10-06",
   externalId: "trakt-season-267674",

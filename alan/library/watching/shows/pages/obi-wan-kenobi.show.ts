@@ -9,7 +9,7 @@ export const obiWanKenobi = {
   position: 19,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-05-26",
   externalLink: "https://trakt.tv/shows/obi-wan-kenobi",

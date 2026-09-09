@@ -9,7 +9,7 @@ export const secretInvasion = {
   position: 42,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-21",
   externalLink: "https://trakt.tv/shows/secret-invasion",

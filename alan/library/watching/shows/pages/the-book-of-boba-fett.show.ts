@@ -9,7 +9,7 @@ export const theBookOfBobaFett = {
   position: 18,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-12-29",
   externalLink: "https://trakt.tv/shows/the-book-of-boba-fett",

@@ -9,7 +9,7 @@ export const stargateAtlantisSeason1 = {
   position: 1,
   ownLength: 865.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2004-07-16",
   externalId: "trakt-season-7510",

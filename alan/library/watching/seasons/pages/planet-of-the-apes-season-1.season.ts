@@ -9,7 +9,7 @@ export const planetOfTheApesSeason1 = {
   position: 1,
   ownLength: 840,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1974-09-14",
   externalId: "trakt-season-38",

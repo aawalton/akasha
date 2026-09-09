@@ -9,7 +9,7 @@ export const starTrekPicard = {
   position: 22,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-01-23",
   externalLink: "https://trakt.tv/shows/star-trek-picard",

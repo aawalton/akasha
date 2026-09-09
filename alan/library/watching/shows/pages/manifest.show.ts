@@ -9,7 +9,7 @@ export const manifest = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "in-progress",
   publishedAt: "2018-09-24",
   externalId: "manifest",

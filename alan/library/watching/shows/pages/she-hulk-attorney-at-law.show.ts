@@ -9,7 +9,7 @@ export const sheHulkAttorneyAtLaw = {
   position: 37,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-18",
   externalLink: "https://trakt.tv/shows/she-hulk-attorney-at-law",

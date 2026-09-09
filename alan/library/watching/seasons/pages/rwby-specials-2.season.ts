@@ -9,7 +9,7 @@ export const rwbySpecials2 = {
   position: 0,
   ownLength: 126,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2012-11-07",
   externalLink: "https://trakt.tv/shows/rwby/seasons/0",

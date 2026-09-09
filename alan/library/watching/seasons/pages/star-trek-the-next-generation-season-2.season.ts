@@ -9,7 +9,7 @@ export const starTrekTheNextGenerationSeason2 = {
   position: 2,
   ownLength: 1011,
   ownProgress: 1011,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "1988-11-22",

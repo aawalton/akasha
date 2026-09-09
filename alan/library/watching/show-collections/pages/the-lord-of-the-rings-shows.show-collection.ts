@@ -9,7 +9,7 @@ export const theLordOfTheRingsShows = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "following",
   rank: "A",
 } as const satisfies ShowCollection

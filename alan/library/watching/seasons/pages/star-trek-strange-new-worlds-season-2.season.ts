@@ -9,7 +9,7 @@ export const starTrekStrangeNewWorldsSeason2 = {
   position: 2,
   ownLength: 562.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-06-15",
   externalLink: "https://trakt.tv/shows/star-trek-strange-new-worlds/seasons/2",

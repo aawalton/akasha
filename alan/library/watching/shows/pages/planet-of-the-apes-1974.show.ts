@@ -9,7 +9,7 @@ export const planetOfTheApes1974 = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1974-09-14",
   externalLink: "https://trakt.tv/shows/planet-of-the-apes",

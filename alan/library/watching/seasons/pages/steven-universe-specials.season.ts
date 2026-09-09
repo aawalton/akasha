@@ -9,7 +9,7 @@ export const stevenUniverseSpecials = {
   position: 0,
   ownLength: 214.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2013-05-21",
   externalId: "trakt-season-97190",

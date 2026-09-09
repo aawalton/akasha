@@ -9,7 +9,7 @@ export const talesOfTheTardis = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2023-11-01",
   externalLink: "https://trakt.tv/shows/tales-of-the-tardis",

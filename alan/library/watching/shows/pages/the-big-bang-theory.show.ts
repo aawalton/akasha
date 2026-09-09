@@ -9,7 +9,7 @@ export const theBigBangTheory = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2007-09-24",
   externalLink: "https://trakt.tv/shows/the-big-bang-theory",

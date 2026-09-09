@@ -9,7 +9,7 @@ export const sherlockSpecials = {
   position: 0,
   ownLength: 367.8,
   ownProgress: 367.8,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2010-08-30",
   externalId: "trakt-season-30834",

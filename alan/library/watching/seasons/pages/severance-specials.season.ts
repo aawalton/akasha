@@ -9,7 +9,7 @@ export const severanceSpecials = {
   position: 0,
   ownLength: 7,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2021-12-16",
   externalId: "0",

@@ -9,7 +9,7 @@ export const starTrekDiscovery = {
   position: 20,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2017-09-24",
   externalLink: "https://trakt.tv/shows/star-trek-discovery",

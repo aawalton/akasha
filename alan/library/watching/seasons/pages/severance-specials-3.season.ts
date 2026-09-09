@@ -9,7 +9,7 @@ export const severanceSpecials3 = {
   position: 0,
   ownLength: 7.2,
   ownProgress: 7.2,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2021-12-16",
   externalId: "trakt-season-444956",

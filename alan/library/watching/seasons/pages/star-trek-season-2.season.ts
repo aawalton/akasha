@@ -9,7 +9,7 @@ export const starTrekSeason2 = {
   position: 2,
   ownLength: 1305,
   ownProgress: 1305,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "1967-09-16",

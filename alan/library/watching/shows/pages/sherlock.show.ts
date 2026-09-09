@@ -9,7 +9,7 @@ export const sherlock = {
   position: 8,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-07-25",
   externalLink: "https://trakt.tv/shows/sherlock",

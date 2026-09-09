@@ -9,7 +9,7 @@ export const theAcolyte = {
   position: 23,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-06-05",
   externalLink: "https://trakt.tv/shows/the-acolyte",

@@ -9,7 +9,7 @@ export const returnToThePlanetOfTheApes = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1975-09-06",
   externalLink: "https://trakt.tv/shows/return-to-the-planet-of-the-apes",

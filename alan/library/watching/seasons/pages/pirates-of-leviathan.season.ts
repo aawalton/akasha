@@ -9,7 +9,7 @@ export const piratesOfLeviathan = {
   position: 6,
   ownLength: 784.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-09-16",
   externalId: "trakt-season-228898",

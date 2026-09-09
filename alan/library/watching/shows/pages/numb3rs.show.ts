@@ -9,7 +9,7 @@ export const numb3rs = {
   position: 11,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2005-01-24",
   externalLink: "https://trakt.tv/shows/numb3rs",

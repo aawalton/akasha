@@ -9,7 +9,7 @@ export const ncisLosAngeles = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2009-09-22",
   externalLink: "https://trakt.tv/shows/ncis-los-angeles",

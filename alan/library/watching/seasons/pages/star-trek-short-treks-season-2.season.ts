@@ -9,7 +9,7 @@ export const starTrekShortTreksSeason2 = {
   position: 2,
   ownLength: 61.2,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-10-05",
   externalLink: "https://trakt.tv/shows/star-trek-short-treks/seasons/2",

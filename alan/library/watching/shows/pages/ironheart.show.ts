@@ -9,7 +9,7 @@ export const ironheart = {
   position: 58,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-06-25",
   externalLink: "https://trakt.tv/shows/ironheart",

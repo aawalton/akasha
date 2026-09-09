@@ -10,7 +10,7 @@ export const bogusSkillFruitmasterAboutThatTimeIBecameAbleToEatUnlimited2 = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "2025-01-07",
   externalLink:

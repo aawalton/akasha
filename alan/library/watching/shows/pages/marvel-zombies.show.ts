@@ -9,7 +9,7 @@ export const marvelZombies = {
   position: 59,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-09-24",
   externalLink: "https://trakt.tv/shows/marvel-zombies",

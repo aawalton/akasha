@@ -9,7 +9,7 @@ export const thirdRockFromTheSunSpecials = {
   position: 0,
   ownLength: 660,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "1996-01-09",
   externalId: "0",

@@ -9,6 +9,6 @@ export const awardWinningMovies = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-applicable",
 } as const satisfies ShowCollection

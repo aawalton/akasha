@@ -9,7 +9,7 @@ export const agentsOfSHIELD = {
   position: 1,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-09-24",
   externalLink: "https://trakt.tv/shows/marvel-s-agents-of-s-h-i-e-l-d",

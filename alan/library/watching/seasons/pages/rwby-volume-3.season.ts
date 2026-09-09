@@ -9,7 +9,7 @@ export const rwbyVolume3 = {
   position: 3,
   ownLength: 192,
   ownProgress: 192,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2015-10-25",

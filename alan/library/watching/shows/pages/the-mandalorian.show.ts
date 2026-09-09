@@ -9,7 +9,7 @@ export const theMandalorian = {
   position: 16,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-11-12",
   externalLink: "https://trakt.tv/shows/the-mandalorian",

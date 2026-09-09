@@ -9,7 +9,7 @@ export const starTrekSpecials = {
   position: 0,
   ownLength: 1461,
   ownProgress: 1461,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   rank: "B",
   publishedAt: "1988-10-16",

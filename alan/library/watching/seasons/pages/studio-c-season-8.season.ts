@@ -9,7 +9,7 @@ export const studioCSeason8 = {
   position: 8,
   ownLength: 354,
   ownProgress: 354,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-10-03",
   externalId: "trakt-season-151263",

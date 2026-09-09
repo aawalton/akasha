@@ -9,7 +9,7 @@ export const iAmGroot = {
   position: 36,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-10",
   externalLink: "https://trakt.tv/shows/i-am-groot",

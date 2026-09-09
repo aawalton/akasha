@@ -9,7 +9,7 @@ export const skeletonCrew = {
   position: 24,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-12-03",
   externalLink: "https://trakt.tv/shows/star-wars-skeleton-crew",

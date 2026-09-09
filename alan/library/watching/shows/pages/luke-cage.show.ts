@@ -9,7 +9,7 @@ export const lukeCage = {
   position: 5,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2016-09-30",
   externalLink: "https://trakt.tv/shows/marvel-s-luke-cage",

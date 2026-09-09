@@ -9,7 +9,7 @@ export const theLordOfTheRingsTheRingsOfPower = {
   position: 7,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-09-01",
   externalLink: "https://trakt.tv/shows/the-lord-of-the-rings-the-rings-of-power",

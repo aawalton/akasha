@@ -9,7 +9,7 @@ export const daredevil = {
   position: 3,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2015-04-10",
   externalLink: "https://trakt.tv/shows/marvel-s-daredevil",

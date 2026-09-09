@@ -9,7 +9,7 @@ export const rwbyFairyTales = {
   position: 0,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-10-30",
   externalId: "rwby-fairy-tales",

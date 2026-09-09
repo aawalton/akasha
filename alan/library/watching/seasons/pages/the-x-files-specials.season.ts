@@ -9,7 +9,7 @@ export const theXFilesSpecials = {
   position: 0,
   ownLength: 1205,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "archived",
   publishedAt: "1998-06-20",
   externalId: "0",

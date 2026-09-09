@@ -9,7 +9,7 @@ export const swordArtOnlineSeason1 = {
   position: 1,
   ownLength: 601.2,
   ownProgress: 601.2,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2012-07-07",

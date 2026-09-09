@@ -9,7 +9,7 @@ export const starWarsAndorSeason1 = {
   position: 1,
   ownLength: 582,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-09-22",
   externalId: "trakt-season-240810",

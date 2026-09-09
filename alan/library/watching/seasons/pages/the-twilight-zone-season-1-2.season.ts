@@ -9,7 +9,7 @@ export const theTwilightZoneSeason12 = {
   position: 1,
   ownLength: 1175,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1985-09-27",
   externalId: "1",

@@ -9,7 +9,7 @@ export const ncisHawaiI = {
   position: 4,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-20",
   externalLink: "https://trakt.tv/shows/ncis-hawai-i",

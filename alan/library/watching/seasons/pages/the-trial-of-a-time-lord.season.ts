@@ -9,7 +9,7 @@ export const theTrialOfATimeLord = {
   position: 23,
   ownLength: 349.8,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1986-09-06",
   externalId: "trakt-season-443",
