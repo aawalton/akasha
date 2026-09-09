@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { editsAt } from "@akasha/changes/edits-keeping"
-import type { Judged, Judging } from "@akasha/checks/judging"
+import type { Judging } from "@akasha/checks/judging"
 import { agentPathOf } from "@akasha/context/warranting"
 import type { Change } from "@akasha/pages/change"
 import { isMissing } from "@akasha/utils/fs/missing"
@@ -26,7 +26,7 @@ import {
   reported,
   type Saying,
 } from "../landing-saying/landing-saying.module.code.ts"
-import { installingIn, sameBytes } from "../manifest-locking/manifest-locking.module.code.ts"
+import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { type Carry, type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import type { Minted } from "../value-minting/value-minting.module.code.ts"
@@ -41,17 +41,11 @@ const NOTHING = "nothing was judged and nothing was written"
 
 export const NO_CHECKS = "runs no check, so this landing was judged by none"
 
-export type Held = {
-  readonly path: string
-  readonly was: Uint8Array
-}
-
 export type Asked = {
   readonly changes: readonly FileEdit[]
   readonly message: string
   readonly dryRun: boolean
   readonly glass: string | null
-  readonly unmoved: readonly Held[]
   readonly saying: Saying
   readonly read?: string | null
   readonly moves?: readonly FileMove[]
@@ -101,26 +95,6 @@ export function textAt(at: string): string | null {
   return "bytes" in held ? textOf(held.bytes) : null
 }
 
-function alsoUnmoved(judging: Judging, held: readonly Held[]): Judging {
-  return {
-    named: judging.named,
-    checksFor: judging.checksFor,
-    over: async (change) => {
-      const moved: Judged[] = []
-      for (const one of held) {
-        const now = bytesAt(join(change.root, one.path))
-        if ("bytes" in now && sameBytes(now.bytes, one.was)) continue
-        moved.push({
-          path: one.path,
-          reason:
-            "changed after this call read it, so the body worked out for it is not the body on disk — run it again",
-        })
-      }
-      return moved.length > 0 ? moved : await judging.over(change)
-    },
-  }
-}
-
 export function unloadable(why: string): Answer {
   return {
     report: [],
@@ -130,10 +104,6 @@ export function unloadable(why: string): Answer {
     ],
     code: 3,
   }
-}
-
-function gateFor(asked: Asked, held: Judging): Judging {
-  return asked.unmoved.length === 0 ? held : alsoUnmoved(held, asked.unmoved)
 }
 
 type Bypass = {
@@ -304,7 +274,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   const built = gateBuilt(given.root)
   if ("broken" in built && bypass === null) return unloadable(built.broken)
   const broken = "broken" in built ? built.broken : null
-  const gate = gateFor(held, bypass === null && "gate" in built ? built.gate : NO_GATE)
+  const gate = bypass === null && "gate" in built ? built.gate : NO_GATE
   held.reaching?.()
   if (held.dryRun) return await reporting(given.root, held, gate, aside, prepared.over)
   const message = messageWith(held, bypass, broken)

@@ -210,7 +210,6 @@ export function asking(over: Partial<Asked>): Asked {
     message: "held",
     dryRun: false,
     glass: null,
-    unmoved: [],
     saying: () => {
       throw new Error("a report that could not be built")
     },
