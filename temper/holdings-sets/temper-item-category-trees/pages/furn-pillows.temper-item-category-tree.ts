@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnPillows = {
   id: "01a05fcf-f807-7dc4-8e86-3c58af64da3f",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-pillows",
   title: "Pillows",
   parent: "furn-suite",

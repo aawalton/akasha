@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const companionMedium = {
   id: "01a05fcf-f7cd-70db-a3e4-284db40eda7c",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "companion-medium",
   title: "Medium Armor",
   parent: "companion-armor",

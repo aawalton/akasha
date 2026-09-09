@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnSaplings = {
   id: "01a05fcf-f80c-79bc-81f6-99f15de4c17b",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-saplings",
   title: "Saplings",
   parent: "furn-conservatory",

@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const equipmentRepairKits = {
   id: "01a05fcf-f7df-7b68-8a7b-19a48ecd8ac8",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "equipment-repair-kits",
   title: "Equipment Repair Kits",
   parent: "repair-kits",

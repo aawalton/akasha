@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const grimoires = {
   id: "01a05fcf-f81e-746c-a0f2-abe5708f6e12",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "grimoires",
   title: "Grimoires",
   parent: "scribing",

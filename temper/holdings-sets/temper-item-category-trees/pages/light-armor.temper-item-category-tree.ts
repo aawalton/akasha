@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const lightArmor = {
   id: "01a05fcf-f826-74c2-9b85-d6d3b26d1006",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "light-armor",
   title: "Light Armor",
   parent: "armor",

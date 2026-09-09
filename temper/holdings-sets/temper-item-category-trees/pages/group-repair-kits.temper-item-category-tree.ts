@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const groupRepairKits = {
   id: "01a05fcf-f81e-7a79-a87e-7098e36151e3",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "group-repair-kits",
   title: "Group Repair Kits",
   parent: "repair-kits",

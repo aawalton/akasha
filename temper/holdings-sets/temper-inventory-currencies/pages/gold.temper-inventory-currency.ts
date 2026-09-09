@@ -3,6 +3,7 @@ import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-
 export const gold = {
   id: "01a05fcf-26bb-757b-9699-47c68673d7b1",
   pageTypeSlug: "temper-inventory-currency",
+  type: "temper-inventory-currency",
   slug: "gold",
   title: "Gold",
   key: "gold",

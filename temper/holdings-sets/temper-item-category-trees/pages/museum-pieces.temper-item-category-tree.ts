@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const museumPieces = {
   id: "01a05fcf-f82f-768b-bf0d-6becdfabc22c",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "museum-pieces",
   title: "Museum Pieces",
   parent: "tasks",

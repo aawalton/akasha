@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnishingRecipes = {
   id: "01a05fcf-f81d-72f1-9a9f-af4abd4d7af3",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furnishing-recipes",
   title: "Furnishing Recipes",
   parent: "recipes",

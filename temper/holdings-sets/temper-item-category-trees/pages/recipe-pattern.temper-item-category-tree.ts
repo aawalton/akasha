@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const recipePattern = {
   id: "01a05fcf-f837-7c1b-9836-540d762d3d09",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "recipe-pattern",
   title: "Patterns (Clothing)",
   parent: "furnishing-recipes",

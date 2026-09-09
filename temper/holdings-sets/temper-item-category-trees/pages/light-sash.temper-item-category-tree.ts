@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const lightSash = {
   id: "01a05fcf-f828-7f32-939a-b44f2f120f46",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "light-sash",
   title: "Sash",
   parent: "light-armor",

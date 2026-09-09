@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const potions = {
   id: "01a05fcf-f831-7324-a22d-c91221d0b896",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "potions",
   title: "Potions",
   parent: "consumables",

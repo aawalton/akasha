@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnTrainingDummies = {
   id: "01a05fcf-f815-729e-a615-498b60c633ac",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-training-dummies",
   title: "Training Dummies",
   parent: "furn-services",

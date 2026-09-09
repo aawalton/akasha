@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const greatsword = {
   id: "01a05fcf-f81e-7e59-9636-2b0aaff61102",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "greatsword",
   title: "Greatsword",
   parent: "two-handed",

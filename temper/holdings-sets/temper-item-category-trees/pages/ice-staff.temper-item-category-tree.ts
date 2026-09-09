@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const iceStaff = {
   id: "01a05fcf-f822-7a20-b0b5-3e339b816ec1",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "ice-staff",
   title: "Ice Staff",
   parent: "destruction-staff",

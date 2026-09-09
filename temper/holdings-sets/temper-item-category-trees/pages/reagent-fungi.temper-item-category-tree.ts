@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const reagentFungi = {
   id: "01a05fcf-f834-7be1-8aa4-a223d564bf53",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "reagent-fungi",
   title: "Fungi",
   parent: "reagents",

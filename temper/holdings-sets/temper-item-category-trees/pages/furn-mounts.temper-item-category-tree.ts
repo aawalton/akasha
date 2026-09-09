@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnMounts = {
   id: "01a05fcf-f803-7da6-9d1b-711d77ae5419",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-mounts",
   title: "Mounts",
   parent: "furnishings",

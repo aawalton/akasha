@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const shield = {
   id: "01a05fcf-f83b-7096-bf42-2c6f6bbb40d8",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "shield",
   title: "Shield",
   parent: "armor",

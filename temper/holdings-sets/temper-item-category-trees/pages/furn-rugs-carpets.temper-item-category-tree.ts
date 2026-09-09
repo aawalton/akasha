@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnRugsCarpets = {
   id: "01a05fcf-f80b-775c-a7ef-b9e6cb7a33f1",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-rugs-carpets",
   title: "Rugs and Carpets",
   parent: "furn-parlor",

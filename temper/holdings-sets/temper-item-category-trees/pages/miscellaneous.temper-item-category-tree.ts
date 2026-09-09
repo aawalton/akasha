@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const miscellaneous = {
   id: "01a05fcf-f82d-70ac-acc3-bf1ea2338fec",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "miscellaneous",
   title: "Miscellaneous",
   displayOrder: 8,

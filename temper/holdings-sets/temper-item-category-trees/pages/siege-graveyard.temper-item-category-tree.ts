@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const siegeGraveyard = {
   id: "01a05fcf-f83c-70f3-b3a3-4fd61dbbed14",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "siege-graveyard",
   title: "Graveyard",
   parent: "siege-equipment",

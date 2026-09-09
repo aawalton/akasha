@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const avaRepairKits = {
   id: "01a05fcf-f7bd-7ff3-be59-f310374cffdf",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "ava-repair-kits",
   title: "Repair Kits",
   parent: "alliance-war",

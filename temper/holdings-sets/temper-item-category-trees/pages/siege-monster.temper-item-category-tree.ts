@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const siegeMonster = {
   id: "01a05fcf-f83d-7e4f-9594-7973f004378e",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "siege-monster",
   title: "Monster",
   parent: "siege-equipment",

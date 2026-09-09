@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const styleMotifs = {
   id: "01a05fcf-f840-7795-97b9-cc227882cacf",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "style-motifs",
   title: "Style Motifs",
   parent: "knowledge",

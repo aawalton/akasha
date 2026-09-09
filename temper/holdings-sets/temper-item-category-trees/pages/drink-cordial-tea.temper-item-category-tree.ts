@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const drinkCordialTea = {
   id: "01a05fcf-f7da-7e83-89cb-402b5512cd2a",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "drink-cordial-tea",
   title: "Cordial Tea",
   parent: "drink",

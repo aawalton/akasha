@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const potencyRunestones = {
   id: "01a05fcf-f831-709f-93b8-f0dbdee3f85c",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "potency-runestones",
   title: "Potency Runestones",
   parent: "enchanting",

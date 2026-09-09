@@ -3,6 +3,7 @@ import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-
 export const undauntedKeys = {
   id: "01a05fcf-26bd-7d73-b337-6a9ddbff750f",
   pageTypeSlug: "temper-inventory-currency",
+  type: "temper-inventory-currency",
   slug: "undaunted-keys",
   title: "Undaunted Keys",
   key: "undauntedKeys",

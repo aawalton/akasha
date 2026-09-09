@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const ingredients = {
   id: "01a05fcf-f822-7ada-b3b2-23e1ad6c7845",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "ingredients",
   title: "Ingredients",
   parent: "provisioning",

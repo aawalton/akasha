@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const companionGreaves = {
   id: "01a05fcf-f7c8-7ffc-9c6f-1b343178af90",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "companion-greaves",
   title: "Greaves",
   parent: "companion-heavy",

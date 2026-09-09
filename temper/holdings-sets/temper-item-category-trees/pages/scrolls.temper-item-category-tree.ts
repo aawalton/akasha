@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const scrolls = {
   id: "01a05fcf-f83b-78ec-88c9-71ce9addceec",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "scrolls",
   title: "Scrolls",
   parent: "consumables",

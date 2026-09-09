@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const drinkTincture = {
   id: "01a05fcf-f7dc-71c2-99ec-f64edf44993b",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "drink-tincture",
   title: "Tincture",
   parent: "drink",

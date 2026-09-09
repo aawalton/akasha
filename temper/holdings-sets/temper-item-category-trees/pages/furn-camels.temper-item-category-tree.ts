@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnCamels = {
   id: "01a05fcf-f7ec-7054-ba7c-965c58f25e56",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-camels",
   title: "Camels",
   parent: "furn-mounts",

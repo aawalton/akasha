@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const companionDestructionStaff = {
   id: "01a05fcf-f7c6-744b-a7d5-7cd76987c768",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "companion-destruction-staff",
   title: "Destruction Staff",
   parent: "companion-weapons",

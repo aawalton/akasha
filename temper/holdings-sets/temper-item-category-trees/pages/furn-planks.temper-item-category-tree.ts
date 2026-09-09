@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnPlanks = {
   id: "01a05fcf-f807-725c-85c8-f82955082be7",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-planks",
   title: "Planks",
   parent: "furn-structures",

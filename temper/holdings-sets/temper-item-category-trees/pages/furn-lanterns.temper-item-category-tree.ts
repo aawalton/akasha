@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnLanterns = {
   id: "01a05fcf-f7fe-731d-8fe4-25256c3ec9fc",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-lanterns",
   title: "Lanterns",
   parent: "furn-lighting",

@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const poisonSolvents = {
   id: "01a05fcf-f830-7722-80ea-c4ee4d577b09",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "poison-solvents",
   title: "Poison Solvents",
   parent: "alchemy",

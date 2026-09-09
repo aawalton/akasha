@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnChandeliers = {
   id: "01a05fcf-f7ed-7e82-ad87-cfe11dd03b43",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-chandeliers",
   title: "Chandeliers",
   parent: "furn-lighting",

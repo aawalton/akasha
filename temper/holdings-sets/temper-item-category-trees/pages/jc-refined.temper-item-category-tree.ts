@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const jcRefined = {
   id: "01a05fcf-f824-7c07-bce0-b96eb710f5f2",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "jc-refined",
   title: "Refined Materials",
   parent: "jewelry-crafting",

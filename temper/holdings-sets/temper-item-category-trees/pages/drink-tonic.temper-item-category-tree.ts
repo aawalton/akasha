@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const drinkTonic = {
   id: "01a05fcf-f7dd-7d86-b602-1c9bd8f551d3",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "drink-tonic",
   title: "Tonic",
   parent: "drink",

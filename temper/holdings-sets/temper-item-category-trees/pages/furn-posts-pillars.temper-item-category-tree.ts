@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnPostsPillars = {
   id: "01a05fcf-f808-709e-9abc-83680e6b3f23",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-posts-pillars",
   title: "Posts and Pillars",
   parent: "furn-courtyard",

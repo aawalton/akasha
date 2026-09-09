@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnFerns = {
   id: "01a05fcf-f7f6-7488-9734-889763fc00aa",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-ferns",
   title: "Ferns",
   parent: "furn-conservatory",

@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const companionAxe = {
   id: "01a05fcf-f7c3-7465-8d1c-5a26ec243428",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "companion-axe",
   title: "Axe",
   parent: "companion-one-handed",

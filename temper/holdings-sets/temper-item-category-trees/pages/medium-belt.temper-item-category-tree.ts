@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const mediumBelt = {
   id: "01a05fcf-f82b-767f-99d9-0c98435a473b",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "medium-belt",
   title: "Belt",
   parent: "medium-armor",

@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const mediumJack = {
   id: "01a05fcf-f82d-7e2d-9945-c5afcaebefdb",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "medium-jack",
   title: "Jack",
   parent: "medium-armor",

@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const clRefined = {
   id: "01a05fcf-f7c0-7bee-9172-de4a7ee86dba",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "cl-refined",
   title: "Refined Materials",
   parent: "clothing",

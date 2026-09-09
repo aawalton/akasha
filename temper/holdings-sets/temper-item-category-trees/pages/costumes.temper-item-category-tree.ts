@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const costumes = {
   id: "01a05fcf-f7d5-78c6-b782-20d0185e6081",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "costumes",
   title: "Costumes",
   parent: "appearance",

@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const containerUnopened = {
   id: "01a05fcf-f7d4-7adb-ad8b-5598fd0f7528",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "container-unopened",
   title: "Unopened",
   parent: "containers",

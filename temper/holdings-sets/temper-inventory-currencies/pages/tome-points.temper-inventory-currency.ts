@@ -3,6 +3,7 @@ import type { TemperInventoryCurrency } from "../temper-inventory-currency.page-
 export const tomePoints = {
   id: "01a05fcf-26bc-7a4f-bbe2-ea96eb5881d2",
   pageTypeSlug: "temper-inventory-currency",
+  type: "temper-inventory-currency",
   slug: "tome-points",
   title: "Tome Points",
   key: "tomePoints",

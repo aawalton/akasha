@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const companionEpaulets = {
   id: "01a05fcf-f7c7-749d-b127-31e9908fe11a",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "companion-epaulets",
   title: "Epaulets",
   parent: "companion-light",

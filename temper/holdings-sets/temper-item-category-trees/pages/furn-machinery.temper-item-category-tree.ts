@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnMachinery = {
   id: "01a05fcf-f800-7583-a49f-605585e7b858",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-machinery",
   title: "Machinery",
   parent: "furn-workshop",

@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const masterWrits = {
   id: "01a05fcf-f82a-72f2-9920-aafdfcddddd9",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "master-writs",
   title: "Master Writs",
   parent: "tasks",

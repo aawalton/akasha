@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const furnIncense = {
   id: "01a05fcf-f7fc-70a1-806d-4b6c229d2abe",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "furn-incense",
   title: "Incense",
   parent: "furn-undercroft",

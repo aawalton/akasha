@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const recipeDiagram = {
   id: "01a05fcf-f836-7198-a088-fea16cadbd3f",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "recipe-diagram",
   title: "Diagrams (Blacksmithing)",
   parent: "furnishing-recipes",

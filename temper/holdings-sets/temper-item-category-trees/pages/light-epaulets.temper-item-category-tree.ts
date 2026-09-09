@@ -3,6 +3,7 @@ import type { TemperItemCategoryTree } from "../temper-item-category-tree.page-t
 export const lightEpaulets = {
   id: "01a05fcf-f827-7026-a23c-c4c0ead87666",
   pageTypeSlug: "temper-item-category-tree",
+  type: "temper-item-category-tree",
   slug: "light-epaulets",
   title: "Epaulets",
   parent: "light-armor",
