@@ -36,7 +36,8 @@ export const pagesOfTheTypeAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "Each subfolder has one page of that page type.",
+      statement:
+        "Each subfolder has one page of that page type or one page that page type declares a part.",
     },
     {
       invariantKind: "absence",

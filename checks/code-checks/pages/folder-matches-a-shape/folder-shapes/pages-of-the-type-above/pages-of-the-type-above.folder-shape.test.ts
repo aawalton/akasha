@@ -57,6 +57,29 @@ test("a subfolder holding no page of that type is refused, and the reason names 
   expect(said[0]).toContain("one")
 })
 
+function declaring(named: Readonly<Record<string, readonly string[]>>) {
+  return folderFrom({
+    folder: FOLDER,
+    pageTypes: PAGE_TYPES,
+    declaring: (at) => (at === ABOVE ? CODE_CHECK : null),
+    deep: ["one/one.model-check.ts"],
+    holds: (at) => (at === `${FOLDER}/one` ? ["model-check/one"] : []),
+    declared: (at) => new Set<string>(named[at] ?? []),
+  })
+}
+
+test("a subfolder holding a page that page type declares a part takes the shape", () => {
+  const held = declaring({ [ABOVE]: ["model-check/one"] })
+  expect(pagesOfTheTypeAbove(held([]))).toEqual([])
+})
+
+test("a subfolder holding a page that page type declares nowhere is refused", () => {
+  const held = declaring({ [ABOVE]: ["model-check/other"] })
+  const said = pagesOfTheTypeAbove(held([]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("one")
+})
+
 test("a folder named pages above which no page type sits is refused", () => {
   const held = folderFrom({ folder: "akasha/schema/pages", pageTypes: PAGE_TYPES })
   expect(pagesOfTheTypeAbove(held([]))).toEqual(["the folder above holds no page type of its own"])

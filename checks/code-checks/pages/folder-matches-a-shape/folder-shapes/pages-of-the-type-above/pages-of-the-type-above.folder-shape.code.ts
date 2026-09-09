@@ -15,6 +15,10 @@ function ownPagesIn(standing: Standing, at: string, slug: string): number {
   }).length
 }
 
+function declaredIn(standing: Standing, at: string, declared: ReadonlySet<string>): number {
+  return standing.holds(at).filter((one) => declared.has(one)).length
+}
+
 export function pagesOfTheTypeAbove(standing: Standing): readonly string[] {
   const said: string[] = []
   const above = standing.declaring(dirname(standing.folder))
@@ -44,10 +48,13 @@ export function pagesOfTheTypeAbove(standing: Standing): readonly string[] {
       `it holds page files alone or page folders alone, and ${standing.pages.length} pages here are files beside ${standing.subfolders.length} folders: ${saidInside(standing.folder, standing.pages)}`
     )
   }
-  const loose = standing.subfolders.filter((at) => ownPagesIn(standing, at, above.slug) !== 1)
+  const declared = standing.declared(dirname(standing.folder))
+  const loose = standing.subfolders.filter(
+    (at) => ownPagesIn(standing, at, above.slug) !== 1 && declaredIn(standing, at, declared) !== 1
+  )
   if (loose.length > 0) {
     said.push(
-      `${loose.length} subfolders hold no one page of \`${above.slug}\`: ${saidInside(standing.folder, loose)}`
+      `${loose.length} subfolders hold no one page of \`${above.slug}\` and no one page \`${above.slug}\` declares: ${saidInside(standing.folder, loose)}`
     )
   }
   return said
