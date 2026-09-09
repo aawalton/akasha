@@ -1,9 +1,9 @@
 import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
-import type { MemberSlugs } from "./properties/member-slugs.relation-property.ts"
+import type { Members } from "./properties/members.relation-property.ts"
 
 export type OneOfProperty = PageProperty & {
-  memberSlugs: MemberSlugs
+  members: Members
 }
 
 export const oneOfProperty = {
@@ -12,11 +12,11 @@ export const oneOfProperty = {
   slug: "one-of-property",
   definition: "a page property with a value one of its members has",
   pluralSlug: "one-of-properties",
-  partSlugs: ["relation-property/member-slugs"],
+  partSlugs: ["relation-property/members"],
   extendsSlug: ["page-type/page-property"],
   properties: [
     {
-      pagePropertySlug: "relation-property/member-slugs",
+      pagePropertySlug: "relation-property/members",
       required: true,
       many: true,
       maxCount: null,

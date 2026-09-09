@@ -10,7 +10,7 @@ export const collectionPublishedAt = {
   slug: "collection-published-at",
   propertySlug: "published-at",
   definition: "when a collection was released, to the day or to the moment",
-  memberSlugs: ["calendar-date-property/published-day", "instant-property/published-at"],
+  members: ["calendar-date-property/published-day", "instant-property/published-at"],
   invariants: [
     {
       invariantKind: "departure",

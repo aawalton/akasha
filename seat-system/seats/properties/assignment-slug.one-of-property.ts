@@ -10,7 +10,7 @@ export const assignmentSlug = {
   slug: "assignment-slug",
   propertySlug: "assignment-slug",
   definition: "the domain or initiative whose work a seat answers to",
-  memberSlugs: ["relation-property/domain-slug", "relation-property/initiative"],
+  members: ["relation-property/domain-slug", "relation-property/initiative"],
   invariants: [
     {
       invariantKind: "departure",
