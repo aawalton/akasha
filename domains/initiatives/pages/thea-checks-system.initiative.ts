@@ -9,9 +9,9 @@ export const theaChecksSystem = {
   intents: [
     {
       statement:
-        "A code file property states the cpu, wall and memory a run of its file may spend.",
+        "Each check runs as its own spawned process, held to the ceilings its page states.",
       workingMemory:
-        'The guard to generalise is CEILING = 5 in code-system/code-tests/code-tests.module.code.ts, held by the page invariant "One test file may spend five processor seconds." — that 5 belongs on test. checks/modules/run-cost holds the other scale, bands fast lagging slow painful torture eternal in milliseconds, and no code-check names a band. A check is loaded rather than run as a file, code-check naming loadedBySlug module/checking, so these three bound what is spawned.',
+        "checks/modules/checking loads a check in process, code-check naming loadedBySlug module/checking, so nothing stops a check that never yields. utils/run/running spawns with cpuCeiling in seconds, held by a per-run cgroup and a 50ms watcher, and timeout in milliseconds for wall, and has no memory ceiling. code-file-property states max-cpu-seconds, max-wall-seconds and max-memory-mb; only test states one, maxCpuSeconds 5, which code-tests reads off the page.",
     },
     {
       statement: "Every check is cheap enough for audit.",
