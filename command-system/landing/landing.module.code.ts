@@ -28,7 +28,6 @@ import type { Reading as AsRead } from "../reading/reading.module.code.ts"
 export type FileEdit = {
   readonly path: string
   readonly body: Uint8Array | null
-  readonly readersOweReading?: boolean
 }
 
 export type Proposed = {
@@ -78,11 +77,7 @@ function textFrom(bytes: Uint8Array): string | null {
 }
 
 export function editsOf(held: Bodies): readonly FileEdit[] {
-  return [...held].map(([path, one]) => ({
-    path,
-    body: one.body,
-    readersOweReading: one.readersOweReading,
-  }))
+  return [...held].map(([path, one]) => ({ path, body: one.body }))
 }
 
 export function baseOf(root: string): string {
@@ -289,23 +284,21 @@ function statedFrom(
   )
   const rows: FileChange[] = []
   for (const one of changes) {
-    const reading =
-      one.readersOweReading === undefined ? {} : { readersOweReading: one.readersOweReading }
     if (one.body === null) {
-      rows.push({ ...reading, kind: "remove", path: one.path })
+      rows.push({ kind: "remove", path: one.path })
       continue
     }
     const body = textFrom(one.body)
     if (body === null) return { why: `${one.path} ${NO_TEXT}` }
     const held = before.get(one.path) ?? null
     if (held === null) {
-      rows.push({ ...reading, kind: "add", path: one.path, content: body })
+      rows.push({ kind: "add", path: one.path, content: body })
       continue
     }
     const was = textFrom(held)
     if (was === null) return { why: `${one.path} ${NO_TEXT}` }
     if (was === body) continue
-    rows.push({ ...reading, kind: "replace", path: one.path, contentFrom: was, contentTo: body })
+    rows.push({ kind: "replace", path: one.path, contentFrom: was, contentTo: body })
   }
   return { rows }
 }
