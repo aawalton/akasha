@@ -198,6 +198,12 @@ test("a way in opens with the folder path between the two packages", () => {
   ])
 })
 
+test("a way in naming the package itself opens with that folder path alone", () => {
+  expect(waysIn({ exports: { ".": "./inner.ts" } }, "inner")).toEqual([
+    ["./inner", "./inner/inner.ts"],
+  ])
+})
+
 test("ways in stated as anything but an object of paths answer nothing", () => {
   expect(waysIn({ exports: "./two/two.ts" }, "inner")).toBe(null)
 })

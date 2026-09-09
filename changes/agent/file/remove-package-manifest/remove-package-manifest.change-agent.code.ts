@@ -113,12 +113,13 @@ export function waysIn(held: Record<string, unknown>, under: string): readonly P
   const said = held[EXPORTS]
   if (said === undefined) return []
   if (said === null || typeof said !== "object" || Array.isArray(said)) return null
-  const opened = `${OPENING}${under}${PARTED_BY}`
+  const opened = `${OPENING}${under}`
   const found: Pair[] = []
   for (const [key, one] of Object.entries(said as Record<string, unknown>)) {
-    if (typeof one !== "string") return null
-    if (!key.startsWith(OPENING) || !one.startsWith(OPENING)) return null
-    found.push([`${opened}${key.slice(OPENING.length)}`, `${opened}${one.slice(OPENING.length)}`])
+    if (typeof one !== "string" || !one.startsWith(OPENING)) return null
+    if (key !== ITSELF && !key.startsWith(OPENING)) return null
+    const tail = key === ITSELF ? "" : `${PARTED_BY}${key.slice(OPENING.length)}`
+    found.push([`${opened}${tail}`, `${opened}${PARTED_BY}${one.slice(OPENING.length)}`])
   }
   return found
 }

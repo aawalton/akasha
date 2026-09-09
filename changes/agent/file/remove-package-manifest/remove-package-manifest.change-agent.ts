@@ -58,6 +58,10 @@ export const removePackageManifest = {
     },
     {
       invariantKind: "departure",
+      statement: "A way in naming the package itself opens with that folder path alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A manifest stating its ways in as anything but an object of paths is refused.",
     },
     {
