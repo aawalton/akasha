@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0003Chapter2ThePoliceman = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 3,
   ownLength: 2279,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/911390/chapter-2-the-policeman",

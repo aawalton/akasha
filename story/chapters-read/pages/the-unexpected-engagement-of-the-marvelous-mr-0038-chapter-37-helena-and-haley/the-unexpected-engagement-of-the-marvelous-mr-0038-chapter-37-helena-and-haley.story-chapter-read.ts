@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0038Chapter37HelenaAndHaley 
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 38,
   ownLength: 3024,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/938010/chapter-37-helena-and-haley",

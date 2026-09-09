@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0029Chapter28HaleyAndEdward 
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 29,
   ownLength: 2659,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/931665/chapter-28-haley-and-edward",

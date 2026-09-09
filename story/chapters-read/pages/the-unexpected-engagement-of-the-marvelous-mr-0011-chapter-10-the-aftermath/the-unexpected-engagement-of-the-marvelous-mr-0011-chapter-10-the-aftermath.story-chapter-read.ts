@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0011Chapter10TheAftermath = 
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 11,
   ownLength: 3143,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/917957/chapter-10-the-aftermath",

@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0028Chapter27WhyDidYouRefuse
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 28,
   ownLength: 3148,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/930317/chapter-27-why-did-you-refuse-them",

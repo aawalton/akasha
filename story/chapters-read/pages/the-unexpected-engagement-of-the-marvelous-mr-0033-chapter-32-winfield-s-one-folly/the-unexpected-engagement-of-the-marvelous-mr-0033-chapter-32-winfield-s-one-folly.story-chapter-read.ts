@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0033Chapter32WinfieldSOneFol
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 33,
   ownLength: 1377,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/933959/chapter-32-winfields-one-folly",

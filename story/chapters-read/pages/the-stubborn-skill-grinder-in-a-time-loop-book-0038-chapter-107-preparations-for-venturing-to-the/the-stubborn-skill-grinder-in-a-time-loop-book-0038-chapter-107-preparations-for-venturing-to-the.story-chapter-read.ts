@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0038Chapter107PreparationsFor
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 38,
   ownLength: 10012,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2845492/chapter-107-preparations-for-venturing-to-the",

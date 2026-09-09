@@ -9,7 +9,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0015TheStubbornSkillGrinderIn
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 15,
   ownLength: 89,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2276108/the-stubborn-skill-grinder-in-a-time-loop-is-available",

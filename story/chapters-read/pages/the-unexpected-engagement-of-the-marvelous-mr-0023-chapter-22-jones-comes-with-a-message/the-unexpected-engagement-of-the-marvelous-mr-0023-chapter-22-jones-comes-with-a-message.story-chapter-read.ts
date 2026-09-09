@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0023Chapter22JonesComesWithA
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 23,
   ownLength: 2442,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/927480/chapter-22-jones-comes-with-a-message",

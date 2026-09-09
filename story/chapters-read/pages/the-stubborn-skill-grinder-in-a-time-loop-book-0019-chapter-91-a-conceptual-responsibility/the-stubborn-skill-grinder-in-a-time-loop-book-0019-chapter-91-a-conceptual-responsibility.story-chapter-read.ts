@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0019Chapter91AConceptualRespo
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 19,
   ownLength: 15675,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2431296/chapter-91-a-conceptual-responsibility",

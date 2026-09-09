@@ -9,7 +9,7 @@ export const theWanderingInn0027InterludeKingEdition = {
   position: 27,
   ownLength: 6401,
   ownProgress: 6401,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-04",
   externalLink: "https://wanderinginn.com/2017/03/04/rwinterlude-king-edition/",
   prose: "txt",

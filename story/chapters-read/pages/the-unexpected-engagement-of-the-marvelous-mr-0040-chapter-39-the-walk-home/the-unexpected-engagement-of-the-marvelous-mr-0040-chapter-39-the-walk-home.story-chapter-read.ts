@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0040Chapter39TheWalkHome = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 40,
   ownLength: 5261,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/939425/chapter-39-the-walk-home",

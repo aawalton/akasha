@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0041Chapter110TrainProtectSys
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 41,
   ownLength: 7835,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2908457/chapter-110-train-protect-system-space-die-repeat",

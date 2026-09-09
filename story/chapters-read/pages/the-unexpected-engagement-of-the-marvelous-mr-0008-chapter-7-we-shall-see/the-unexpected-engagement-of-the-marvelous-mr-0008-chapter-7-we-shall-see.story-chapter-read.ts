@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0008Chapter7WeShallSee = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 8,
   ownLength: 1457,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/915375/chapter-7-we-shall-see",

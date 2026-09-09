@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0005Chapter4TheEveningAndMor
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 5,
   ownLength: 2442,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/913461/chapter-4-the-evening-and-morning-editions",

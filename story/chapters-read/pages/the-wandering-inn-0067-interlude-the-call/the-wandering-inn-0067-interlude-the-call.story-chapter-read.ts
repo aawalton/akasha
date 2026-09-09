@@ -9,7 +9,7 @@ export const theWanderingInn0067InterludeTheCall = {
   position: 67,
   ownLength: 3422,
   ownProgress: 3422,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-07",
   externalLink: "https://wanderinginn.com/2017/03/07/interlude-2/",
   prose: "txt",

@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0003Chapter3WarehouseMassacre
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 3,
   ownLength: 5920,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/1559938/chapter-3-warehouse-massacre",

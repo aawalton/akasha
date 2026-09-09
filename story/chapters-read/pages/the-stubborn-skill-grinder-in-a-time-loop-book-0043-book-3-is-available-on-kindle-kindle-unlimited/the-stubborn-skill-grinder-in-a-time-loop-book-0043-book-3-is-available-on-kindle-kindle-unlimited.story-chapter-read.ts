@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0043Book3IsAvailableOnKindleK
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 43,
   ownLength: 114,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/3068022/book-3-is-available-on-kindle-kindle-unlimited",

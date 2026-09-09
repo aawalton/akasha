@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0044Chapter112TheWarCouncilAn
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 44,
   ownLength: 13381,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/3261095/chapter-112-the-war-council-formal-duel",

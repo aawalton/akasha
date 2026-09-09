@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0013Chapter86TheConfrontation
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 13,
   ownLength: 19402,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2234070/chapter-86-the-confrontation-the-alliance",

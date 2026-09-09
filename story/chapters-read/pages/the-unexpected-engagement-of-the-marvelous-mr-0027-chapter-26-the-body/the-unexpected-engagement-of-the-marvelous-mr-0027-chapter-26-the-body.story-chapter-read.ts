@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0027Chapter26TheBody = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 27,
   ownLength: 1180,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/929617/chapter-26-the-body",

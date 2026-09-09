@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0026Chapter97TrainTeachDieRep
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 26,
   ownLength: 17014,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2633712/chapter-97-train-teach-die-repeat-iii",

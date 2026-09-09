@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0026Chapter25AtTheHospital =
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 26,
   ownLength: 1865,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/928922/chapter-25-at-the-hospital",

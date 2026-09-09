@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0045Chapter113TheBattleOfGlyp
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 45,
   ownLength: 18519,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/3423881/chapter-113-the-battle-of-glyphward-fortress",

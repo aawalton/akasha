@@ -9,7 +9,7 @@ export const theWanderingInn0012InterludeTheGreatRitual = {
   position: 12,
   ownLength: 2738,
   ownProgress: 2738,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-03-03",
   externalLink: "https://wanderinginn.com/2017/03/03/rwinterlude-the-great-ritual/",
   prose: "txt",

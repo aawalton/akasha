@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0011Chapter84TurningTheTideOf
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 11,
   ownLength: 21634,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2196319/chapter-84-turning-the-tide-of-war",

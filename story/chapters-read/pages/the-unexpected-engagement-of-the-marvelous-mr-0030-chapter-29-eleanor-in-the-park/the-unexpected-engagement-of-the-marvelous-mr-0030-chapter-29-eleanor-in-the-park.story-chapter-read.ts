@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0030Chapter29EleanorInThePar
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 30,
   ownLength: 2818,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/932512/chapter-29-eleanor-in-the-park",

@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0016Chapter88PeaceQuietAndCon
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 16,
   ownLength: 8236,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2277622/chapter-88-peace-quiet-consolidation-i",

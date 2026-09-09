@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0006Chapter5CousinEddie = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 6,
   ownLength: 1765,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/914143/chapter-5-cousin-eddie",

@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0006Chapter79TheVariousAvenue
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 6,
   ownLength: 20759,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2104515/chapter-79-the-various-avenues-of-training",

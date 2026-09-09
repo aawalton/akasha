@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0031Chapter100TheDefenseOfAla
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 31,
   ownLength: 13185,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2686506/chapter-100-the-defense-of-alastaia-part-iii",

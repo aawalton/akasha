@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0036Chapter105AnInvasionAndAN
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 36,
   ownLength: 22607,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2783918/chapter-105-an-invasion-a-new-problem",

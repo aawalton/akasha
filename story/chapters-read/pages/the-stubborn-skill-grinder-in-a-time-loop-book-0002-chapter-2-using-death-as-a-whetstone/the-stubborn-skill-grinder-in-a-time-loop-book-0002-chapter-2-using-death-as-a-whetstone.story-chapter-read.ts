@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0002Chapter2UsingDeathAsAWhet
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 2,
   ownLength: 5944,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/1559937/chapter-2-using-death-as-a-whetstone",

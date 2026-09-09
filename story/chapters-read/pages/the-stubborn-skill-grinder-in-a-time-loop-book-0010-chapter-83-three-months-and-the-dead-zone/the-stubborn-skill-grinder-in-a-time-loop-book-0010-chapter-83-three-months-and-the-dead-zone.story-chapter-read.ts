@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0010Chapter83ThreeMonthsAndTh
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 10,
   ownLength: 22378,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2177153/chapter-83-three-months-the-dead-zone",

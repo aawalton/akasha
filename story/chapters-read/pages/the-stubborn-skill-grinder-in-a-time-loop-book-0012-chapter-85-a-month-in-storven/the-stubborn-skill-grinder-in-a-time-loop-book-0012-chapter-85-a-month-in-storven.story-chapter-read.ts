@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0012Chapter85AMonthInStorven 
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 12,
   ownLength: 21869,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2220618/chapter-85-a-month-in-storven",

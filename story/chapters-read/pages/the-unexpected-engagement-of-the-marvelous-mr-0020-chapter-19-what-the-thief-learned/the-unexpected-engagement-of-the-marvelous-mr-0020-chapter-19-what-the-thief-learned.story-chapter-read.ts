@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0020Chapter19WhatTheThiefLea
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 20,
   ownLength: 1925,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/924656/chapter-19-what-the-thief-learned",

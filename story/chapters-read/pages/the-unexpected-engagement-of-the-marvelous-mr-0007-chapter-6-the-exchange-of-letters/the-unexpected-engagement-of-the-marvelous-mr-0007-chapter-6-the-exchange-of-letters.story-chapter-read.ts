@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0007Chapter6TheExchangeOfLet
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 7,
   ownLength: 2156,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/914716/chapter-6-the-exchange-of-letters",

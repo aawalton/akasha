@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0035Chapter104TestingLimitsIi
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 35,
   ownLength: 12496,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2764483/chapter-104-testing-limits-iii",

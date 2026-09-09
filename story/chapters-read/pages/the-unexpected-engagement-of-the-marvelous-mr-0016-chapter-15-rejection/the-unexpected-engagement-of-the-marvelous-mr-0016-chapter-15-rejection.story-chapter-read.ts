@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0016Chapter15Rejection = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 16,
   ownLength: 2253,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/921824/chapter-15-rejection",

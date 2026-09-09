@@ -8,7 +8,7 @@ export const theRunesmith0057Ch55 = {
   story: "the-runesmith",
   position: 57,
   ownLength: 7162,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/31474/magic-smithing/chapter/607913/ch-55",
   externalId: "607913",

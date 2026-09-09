@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0039Chapter38RaphaelSStory =
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 39,
   ownLength: 2776,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/938712/chapter-38-raphaels-story",

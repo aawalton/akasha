@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0021Chapter20ThePrinter = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 21,
   ownLength: 2180,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/925340/chapter-20-the-printer",

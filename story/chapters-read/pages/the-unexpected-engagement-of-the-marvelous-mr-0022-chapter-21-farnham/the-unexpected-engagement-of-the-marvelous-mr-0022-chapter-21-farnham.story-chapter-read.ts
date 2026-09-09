@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0022Chapter21Farnham = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 22,
   ownLength: 1789,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/926672/chapter-21-farnham",

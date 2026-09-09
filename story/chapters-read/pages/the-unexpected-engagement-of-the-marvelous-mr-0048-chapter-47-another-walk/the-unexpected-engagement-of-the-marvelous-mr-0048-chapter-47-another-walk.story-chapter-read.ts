@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0048Chapter47AnotherWalk = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 48,
   ownLength: 1654,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/943700/chapter-47-another-walk",

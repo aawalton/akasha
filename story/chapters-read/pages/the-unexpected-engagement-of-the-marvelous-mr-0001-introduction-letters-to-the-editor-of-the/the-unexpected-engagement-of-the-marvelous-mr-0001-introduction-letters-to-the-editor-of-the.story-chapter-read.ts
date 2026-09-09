@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0001IntroductionLettersToThe
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 1,
   ownLength: 627,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/910114/introduction-letters-to-the-editor-of-the-quotidian",

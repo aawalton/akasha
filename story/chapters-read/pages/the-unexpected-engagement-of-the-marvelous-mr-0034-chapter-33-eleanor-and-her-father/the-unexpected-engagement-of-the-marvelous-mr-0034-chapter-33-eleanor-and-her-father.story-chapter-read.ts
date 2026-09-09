@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0034Chapter33EleanorAndHerFa
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 34,
   ownLength: 913,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/934619/chapter-33-eleanor-and-her-father",

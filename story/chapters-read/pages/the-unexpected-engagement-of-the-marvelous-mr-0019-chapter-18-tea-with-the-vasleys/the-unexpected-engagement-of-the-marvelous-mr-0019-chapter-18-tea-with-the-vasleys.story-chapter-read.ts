@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0019Chapter18TeaWithTheVasle
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 19,
   ownLength: 1037,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/923932/chapter-18-tea-with-the-vasleys",

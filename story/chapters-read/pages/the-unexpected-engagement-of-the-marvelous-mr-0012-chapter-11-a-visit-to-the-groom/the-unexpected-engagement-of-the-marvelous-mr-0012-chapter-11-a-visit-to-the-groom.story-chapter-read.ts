@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0012Chapter11AVisitToTheGroo
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 12,
   ownLength: 2879,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/918613/chapter-11-a-visit-to-the-groom",

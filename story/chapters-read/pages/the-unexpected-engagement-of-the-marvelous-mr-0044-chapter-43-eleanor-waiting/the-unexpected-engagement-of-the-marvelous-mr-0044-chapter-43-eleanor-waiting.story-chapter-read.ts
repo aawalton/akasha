@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0044Chapter43EleanorWaiting 
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 44,
   ownLength: 1220,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/942341/chapter-43-eleanor-waiting",

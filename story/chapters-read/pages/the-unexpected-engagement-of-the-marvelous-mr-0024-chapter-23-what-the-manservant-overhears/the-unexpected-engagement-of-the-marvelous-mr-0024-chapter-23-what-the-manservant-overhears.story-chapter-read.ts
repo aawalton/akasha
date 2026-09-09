@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0024Chapter23WhatTheManserva
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 24,
   ownLength: 507,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/927507/chapter-23-what-the-manservant-overhears",

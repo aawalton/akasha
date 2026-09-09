@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0023Chapter94DiversifyingTheB
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 23,
   ownLength: 17178,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2579689/chapter-94-diversifying-the-basics-iii",

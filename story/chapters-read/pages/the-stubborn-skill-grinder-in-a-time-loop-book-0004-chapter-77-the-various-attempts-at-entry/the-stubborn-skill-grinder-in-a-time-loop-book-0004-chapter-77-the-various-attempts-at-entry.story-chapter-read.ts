@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0004Chapter77TheVariousAttemp
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 4,
   ownLength: 20583,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2077768/chapter-77-the-various-attempts-at-entry",

@@ -8,7 +8,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0013Chapter12TheRideHome = {
   story: "the-unexpected-engagement-of-the-marvelous-mr",
   position: 13,
   ownLength: 2785,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/54508/the-unexpected-engagement-of-the-marvelous-mr/chapter/919164/chapter-12-the-ride-home",

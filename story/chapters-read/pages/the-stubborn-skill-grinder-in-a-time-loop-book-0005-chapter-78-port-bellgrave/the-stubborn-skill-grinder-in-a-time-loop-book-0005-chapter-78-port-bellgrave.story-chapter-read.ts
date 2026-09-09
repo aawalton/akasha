@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0005Chapter78PortBellgrave = 
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 5,
   ownLength: 19090,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2093771/chapter-78-port-bellgrave",

@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0018Chapter90TheUnintendedCon
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 18,
   ownLength: 8696,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2412658/chapter-90-the-unintended-consequences-of-true",

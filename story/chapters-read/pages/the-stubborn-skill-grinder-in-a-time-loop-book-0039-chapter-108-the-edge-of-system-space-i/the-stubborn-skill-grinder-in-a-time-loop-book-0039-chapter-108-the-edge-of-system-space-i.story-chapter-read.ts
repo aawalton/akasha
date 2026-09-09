@@ -8,7 +8,7 @@ export const theStubbornSkillGrinderInATimeLoopBook0039Chapter108TheEdgeOfSystem
   story: "the-stubborn-skill-grinder-in-a-time-loop-book",
   position: 39,
   ownLength: 10443,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/83294/the-stubborn-skill-grinder-in-a-time-loop-book/chapter/2865026/chapter-108-the-edge-of-system-space-i",
