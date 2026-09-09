@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const romans15 = {
   id: "01a06804-11b1-702a-b536-5ba63262c52d",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "romans-15",
   title: "Romans 15",
   book: "Romans",

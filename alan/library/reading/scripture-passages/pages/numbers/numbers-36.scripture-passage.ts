@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const numbers36 = {
   id: "01a06804-11af-7080-817a-fc84776d1984",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "numbers-36",
   title: "Numbers 36",
   book: "Numbers",

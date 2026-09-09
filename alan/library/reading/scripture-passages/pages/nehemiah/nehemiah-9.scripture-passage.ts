@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const nehemiah9 = {
   id: "01a06804-11af-7062-9bf3-f0b771bbda67",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "nehemiah-9",
   title: "Nehemiah 9",
   book: "Nehemiah",

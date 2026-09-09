@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const moses7 = {
   id: "01a06804-11af-7051-a605-e22980d762de",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "moses-7",
   title: "Moses 7",
   book: "Moses",

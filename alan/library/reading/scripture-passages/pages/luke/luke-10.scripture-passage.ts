@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const luke10 = {
   id: "01a06804-11ae-70cc-9436-c7ababd8f9f2",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "luke-10",
   title: "Luke 10",
   book: "Luke",

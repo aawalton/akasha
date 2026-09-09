@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const mosiah20 = {
   id: "019f0976-eccb-7d17-bc3c-58461fa96489",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "mosiah-20",
   title: "Mosiah 20",
   book: "Mosiah",

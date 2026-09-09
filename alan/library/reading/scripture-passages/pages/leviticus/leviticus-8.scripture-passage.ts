@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const leviticus8 = {
   id: "01a06804-11ae-70c9-9aab-b4334637b0d5",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "leviticus-8",
   title: "Leviticus 8",
   book: "Leviticus",

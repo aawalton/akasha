@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const malachi1 = {
   id: "01a06804-11af-7014-80c1-f359a4412d86",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "malachi-1",
   title: "Malachi 1",
   book: "Malachi",

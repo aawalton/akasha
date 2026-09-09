@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const matthew3 = {
   id: "01a06804-11af-703d-a04f-c06e33c1151b",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "matthew-3",
   title: "Matthew 3",
   book: "Matthew",
