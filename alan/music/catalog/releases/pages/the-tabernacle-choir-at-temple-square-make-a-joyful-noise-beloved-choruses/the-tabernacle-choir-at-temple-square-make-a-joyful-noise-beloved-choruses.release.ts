@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareMakeAJoyfulNoiseBelovedChoruses = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-make-a-joyful-noise-beloved-choruses",
   title: "Make a Joyful Noise - Beloved Choruses",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 75.301017,
   ownProgress: 0,

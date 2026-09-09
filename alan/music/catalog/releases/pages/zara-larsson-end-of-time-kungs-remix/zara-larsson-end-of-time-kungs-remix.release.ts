@@ -5,7 +5,7 @@ export const zaraLarssonEndOfTimeKungsRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-end-of-time-kungs-remix",
   title: "End Of Time (Kungs Remix)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 2.5815,
   ownProgress: 2.5815,

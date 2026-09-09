@@ -5,7 +5,7 @@ export const tomLehrerTheElements = {
   pageTypeSlug: "release",
   slug: "tom-lehrer-the-elements",
   title: "The Elements",
-  partOfCollectionSlugs: ["tom-lehrer"],
+  partOfCollections: ["tom-lehrer"],
   position: 0,
   ownLength: 1.49755,
   ownProgress: 1.49755,

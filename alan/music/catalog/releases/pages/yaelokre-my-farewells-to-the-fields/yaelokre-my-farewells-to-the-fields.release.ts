@@ -5,7 +5,7 @@ export const yaelokreMyFarewellsToTheFields = {
   pageTypeSlug: "release",
   slug: "yaelokre-my-farewells-to-the-fields",
   title: "My farewells to the fields",
-  partOfCollectionSlugs: ["yaelokre"],
+  partOfCollections: ["yaelokre"],
   position: 0,
   ownLength: 2.092667,
   ownProgress: 2.092667,

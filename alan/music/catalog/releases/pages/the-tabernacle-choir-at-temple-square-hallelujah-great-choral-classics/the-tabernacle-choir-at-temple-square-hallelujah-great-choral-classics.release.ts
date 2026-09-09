@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHallelujahGreatChoralClassics = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-hallelujah-great-choral-classics",
   title: "Hallelujah! Great Choral Classics",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 50.975233,
   ownProgress: 0,

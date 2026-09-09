@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHeIsRisen = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-he-is-risen",
   title: "He Is Risen",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 26.3353,
   ownProgress: 0,

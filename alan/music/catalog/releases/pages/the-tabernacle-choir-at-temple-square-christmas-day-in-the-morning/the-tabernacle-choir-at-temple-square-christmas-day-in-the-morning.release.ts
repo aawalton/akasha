@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareChristmasDayInTheMorning = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-christmas-day-in-the-morning",
   title: "Christmas Day in the Morning",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 67.26305,
   ownProgress: 0,

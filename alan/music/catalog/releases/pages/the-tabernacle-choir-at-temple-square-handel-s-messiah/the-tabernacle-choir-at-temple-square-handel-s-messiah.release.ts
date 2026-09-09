@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHandelSMessiah = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-handel-s-messiah",
   title: "Handel's Messiah",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 143.17355,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSongsFromAmericaSHeartland = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-songs-from-america-s-heartland",
   title: "Songs from America's Heartland",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 61.343683,
   ownProgress: 0,

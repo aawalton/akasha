@@ -5,7 +5,7 @@ export const zaraLarssonAinTMyFaultR3habRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-ain-t-my-fault-r3hab-remix",
   title: "Ain't My Fault (R3hab Remix)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 2.6462,
   ownProgress: 2.6462,

@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquarePressForwardSaints = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-press-forward-saints",
   title: "Press Forward, Saints",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 3.595983,
   ownProgress: 0,

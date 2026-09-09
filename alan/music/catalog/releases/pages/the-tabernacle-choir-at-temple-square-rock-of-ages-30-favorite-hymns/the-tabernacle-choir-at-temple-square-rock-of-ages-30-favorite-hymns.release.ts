@@ -6,7 +6,7 @@ export const theTabernacleChoirAtTempleSquareRockOfAges30FavoriteHymns = {
   slug: "the-tabernacle-choir-at-temple-square-rock-of-ages-30-favorite-hymns",
   title:
     "Rock of Ages - 30 Favorite Hymns (with The Philadelphia Brass Ensemble & Percussion & Alexander Schreiner)",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 74.579833,
   ownProgress: 74.579833,

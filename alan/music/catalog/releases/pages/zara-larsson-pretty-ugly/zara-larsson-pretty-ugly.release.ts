@@ -5,7 +5,7 @@ export const zaraLarssonPrettyUgly = {
   pageTypeSlug: "release",
   slug: "zara-larsson-pretty-ugly",
   title: "Pretty Ugly",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 2.644933,
   ownProgress: 2.644933,

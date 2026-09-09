@@ -5,7 +5,7 @@ export const zaraLarssonOnMyLove = {
   pageTypeSlug: "release",
   slug: "zara-larsson-on-my-love",
   title: "On My Love",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 3.715183,
   ownProgress: 3.715183,

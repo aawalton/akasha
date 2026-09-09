@@ -5,7 +5,7 @@ export const vinnyMarchiSoldierPoetKing = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-soldier-poet-king",
   title: "Soldier, Poet, King",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 2.803767,
   ownProgress: 2.803767,

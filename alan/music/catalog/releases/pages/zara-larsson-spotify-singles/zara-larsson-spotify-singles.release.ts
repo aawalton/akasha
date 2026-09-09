@@ -5,7 +5,7 @@ export const zaraLarssonSpotifySingles = {
   pageTypeSlug: "release",
   slug: "zara-larsson-spotify-singles",
   title: "Spotify Singles",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 5.841717,
   ownProgress: 5.841717,

@@ -5,7 +5,7 @@ export const weirdAlYankovic2EvenWorse = {
   pageTypeSlug: "release",
   slug: "weird-al-yankovic-2-even-worse",
   title: "Even Worse",
-  partOfCollectionSlugs: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic-2"],
   position: 0,
   ownLength: 37.627717,
   ownProgress: 0,

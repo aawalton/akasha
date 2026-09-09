@@ -5,7 +5,7 @@ export const yaelokreHearken = {
   pageTypeSlug: "release",
   slug: "yaelokre-hearken",
   title: "Hearken",
-  partOfCollectionSlugs: ["yaelokre"],
+  partOfCollections: ["yaelokre"],
   position: 0,
   ownLength: 6.194517,
   ownProgress: 0,

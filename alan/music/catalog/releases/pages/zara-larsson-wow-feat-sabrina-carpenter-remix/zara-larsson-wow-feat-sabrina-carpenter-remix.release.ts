@@ -5,7 +5,7 @@ export const zaraLarssonWowFeatSabrinaCarpenterRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-wow-feat-sabrina-carpenter-remix",
   title: "WOW (feat. Sabrina Carpenter) [Remix]",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 2.9942,
   ownProgress: 2.9942,

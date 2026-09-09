@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareSlowDown = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-slow-down",
   title: "Slow Down",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 5.139333,
   ownProgress: 0,

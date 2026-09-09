@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareBrynTerfelHomewardBound = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-bryn-terfel-homeward-bound",
   title: "Bryn Terfel: Homeward Bound",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 87.06365,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const vinnyMarchiPoserRemastered = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-poser-remastered",
   title: "POSER (remastered)",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 14.244317,
   ownProgress: 14.244317,

@@ -5,7 +5,7 @@ export const zaraLarssonInvisibleEndTitleFromKlaus = {
   pageTypeSlug: "release",
   slug: "zara-larsson-invisible-end-title-from-klaus",
   title: "Invisible (End Title from Klaus)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 2.861933,
   ownProgress: 2.861933,

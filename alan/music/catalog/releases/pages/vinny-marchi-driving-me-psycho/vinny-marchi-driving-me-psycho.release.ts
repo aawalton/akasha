@@ -5,7 +5,7 @@ export const vinnyMarchiDrivingMePsycho = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-driving-me-psycho",
   title: "DRIVING ME PSYCHO",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 3.472683,
   ownProgress: 3.472683,

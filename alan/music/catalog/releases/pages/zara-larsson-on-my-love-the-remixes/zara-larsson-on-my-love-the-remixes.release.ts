@@ -5,7 +5,7 @@ export const zaraLarssonOnMyLoveTheRemixes = {
   pageTypeSlug: "release",
   slug: "zara-larsson-on-my-love-the-remixes",
   title: "On My Love (The Remixes)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 28.975267,
   ownProgress: 28.975267,

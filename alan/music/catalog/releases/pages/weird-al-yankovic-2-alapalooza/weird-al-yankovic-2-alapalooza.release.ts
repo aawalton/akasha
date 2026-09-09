@@ -5,7 +5,7 @@ export const weirdAlYankovic2Alapalooza = {
   pageTypeSlug: "release",
   slug: "weird-al-yankovic-2-alapalooza",
   title: "Alapalooza",
-  partOfCollectionSlugs: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic-2"],
   position: 0,
   ownLength: 44.889033,
   ownProgress: 0,

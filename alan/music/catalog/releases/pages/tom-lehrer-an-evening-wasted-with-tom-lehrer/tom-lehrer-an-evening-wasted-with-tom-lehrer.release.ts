@@ -5,7 +5,7 @@ export const tomLehrerAnEveningWastedWithTomLehrer = {
   pageTypeSlug: "release",
   slug: "tom-lehrer-an-evening-wasted-with-tom-lehrer",
   title: "An Evening Wasted with Tom Lehrer",
-  partOfCollectionSlugs: ["tom-lehrer"],
+  partOfCollections: ["tom-lehrer"],
   position: 0,
   ownLength: 42.406617,
   ownProgress: 42.406617,

@@ -5,7 +5,7 @@ export const yaelokreAndTheHoundReprise = {
   pageTypeSlug: "release",
   slug: "yaelokre-and-the-hound-reprise",
   title: "And the Hound (Reprise)",
-  partOfCollectionSlugs: ["yaelokre"],
+  partOfCollections: ["yaelokre"],
   position: 0,
   ownLength: 2.27805,
   ownProgress: 2.27805,

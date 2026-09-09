@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHymnsOfFaithLegacySeries = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-hymns-of-faith-legacy-series",
   title: "Hymns of Faith (Legacy Series)",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 59.319033,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const vinnyMarchiTheBastardInTheKitchen = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-the-bastard-in-the-kitchen",
   title: "The Bastard in the Kitchen",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 1.890383,
   ownProgress: 1.890383,

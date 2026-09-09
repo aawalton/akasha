@@ -5,7 +5,7 @@ export const vinnyMarchiDannyBoy = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-danny-boy",
   title: "Danny Boy",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 2.997517,
   ownProgress: 2.997517,

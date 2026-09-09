@@ -5,7 +5,7 @@ export const vinnyMarchiLovelessAndModernLanguage = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-loveless-and-modern-language",
   title: "Loveless and Modern Language",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 3.658933,
   ownProgress: 3.658933,

@@ -5,7 +5,7 @@ export const weirdAlYankovic2DejaVuButWorse = {
   pageTypeSlug: "release",
   slug: "weird-al-yankovic-2-deja-vu-but-worse",
   title: "Deja Vu (But Worse)",
-  partOfCollectionSlugs: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic-2"],
   position: 0,
   ownLength: 4.850667,
   ownProgress: 0,

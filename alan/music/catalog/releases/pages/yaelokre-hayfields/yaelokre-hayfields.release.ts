@@ -5,7 +5,7 @@ export const yaelokreHayfields = {
   pageTypeSlug: "release",
   slug: "yaelokre-hayfields",
   title: "Hayfields",
-  partOfCollectionSlugs: ["yaelokre"],
+  partOfCollections: ["yaelokre"],
   position: 0,
   ownLength: 16.151383,
   ownProgress: 16.151383,

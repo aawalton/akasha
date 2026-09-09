@@ -5,7 +5,7 @@ export const zaraLarssonCanTTameHerVizeRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-can-t-tame-her-vize-remix",
   title: "Can't Tame Her (VIZE Remix)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 2.888883,
   ownProgress: 2.888883,

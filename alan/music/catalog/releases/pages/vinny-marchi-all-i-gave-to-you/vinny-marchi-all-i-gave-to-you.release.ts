@@ -5,7 +5,7 @@ export const vinnyMarchiAllIGaveToYou = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-all-i-gave-to-you",
   title: "all i gave to you",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 3.426867,
   ownProgress: 3.426867,

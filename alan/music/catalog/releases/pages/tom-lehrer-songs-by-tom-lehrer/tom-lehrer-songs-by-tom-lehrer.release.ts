@@ -5,7 +5,7 @@ export const tomLehrerSongsByTomLehrer = {
   pageTypeSlug: "release",
   slug: "tom-lehrer-songs-by-tom-lehrer",
   title: "Songs by Tom Lehrer",
-  partOfCollectionSlugs: ["tom-lehrer"],
+  partOfCollections: ["tom-lehrer"],
   position: 0,
   ownLength: 23.3066,
   ownProgress: 23.3066,

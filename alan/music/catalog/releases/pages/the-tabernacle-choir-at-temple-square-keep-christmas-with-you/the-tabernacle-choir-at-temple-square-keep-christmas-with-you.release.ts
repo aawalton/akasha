@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareKeepChristmasWithYou = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-keep-christmas-with-you",
   title: "Keep Christmas With You",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 74.057667,
   ownProgress: 0,

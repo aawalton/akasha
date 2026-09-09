@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareNoelAWorldwideChristmasCelebrationL
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-noel-a-worldwide-christmas-celebration-legacy-series",
   title: "Noel: a Worldwide Christmas Celebration (Legacy Series)",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 64.84815,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const vinnyMarchiCaptainPlatonic = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-captain-platonic",
   title: "Captain Platonic",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 2.0246,
   ownProgress: 2.0246,

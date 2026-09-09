@@ -5,7 +5,7 @@ export const vinnyMarchiTheSadSadAlphaMan = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-the-sad-sad-alpha-man",
   title: "The Sad Sad Alpha Man",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 2.214617,
   ownProgress: 2.214617,

@@ -5,7 +5,7 @@ export const yaelokreNeathTheGroveIsAHeart = {
   pageTypeSlug: "release",
   slug: "yaelokre-neath-the-grove-is-a-heart",
   title: "Neath the grove is a heart",
-  partOfCollectionSlugs: ["yaelokre"],
+  partOfCollections: ["yaelokre"],
   position: 0,
   ownLength: 5.5033,
   ownProgress: 5.5033,

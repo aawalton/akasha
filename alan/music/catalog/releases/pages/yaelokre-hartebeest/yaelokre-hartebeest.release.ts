@@ -5,7 +5,7 @@ export const yaelokreHartebeest = {
   pageTypeSlug: "release",
   slug: "yaelokre-hartebeest",
   title: "Hartebeest",
-  partOfCollectionSlugs: ["yaelokre"],
+  partOfCollections: ["yaelokre"],
   position: 0,
   ownLength: 4.243467,
   ownProgress: 4.243467,

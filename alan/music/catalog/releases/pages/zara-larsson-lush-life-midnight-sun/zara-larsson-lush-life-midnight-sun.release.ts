@@ -5,7 +5,7 @@ export const zaraLarssonLushLifeMidnightSun = {
   pageTypeSlug: "release",
   slug: "zara-larsson-lush-life-midnight-sun",
   title: "Lush Life + Midnight Sun",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 6.502767,
   ownProgress: 6.502767,

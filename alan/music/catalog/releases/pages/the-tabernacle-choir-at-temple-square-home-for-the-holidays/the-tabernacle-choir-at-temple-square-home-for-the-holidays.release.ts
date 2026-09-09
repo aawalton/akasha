@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHomeForTheHolidays = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-home-for-the-holidays",
   title: "Home for the Holidays",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 56.36305,
   ownProgress: 0,

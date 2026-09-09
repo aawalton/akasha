@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareJoy = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-joy",
   title: "Joy! Christmas with The Tabernacle Choir and Orchestra at Temple Square",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 59.669017,
   ownProgress: 0,

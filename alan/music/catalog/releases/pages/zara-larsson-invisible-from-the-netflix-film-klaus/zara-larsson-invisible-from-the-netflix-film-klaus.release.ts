@@ -5,7 +5,7 @@ export const zaraLarssonInvisibleFromTheNetflixFilmKlaus = {
   pageTypeSlug: "release",
   slug: "zara-larsson-invisible-from-the-netflix-film-klaus",
   title: "Invisible (from the Netflix Film Klaus)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 2.899583,
   ownProgress: 2.899583,

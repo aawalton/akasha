@@ -5,7 +5,7 @@ export const yaelokreColeSResponse = {
   pageTypeSlug: "release",
   slug: "yaelokre-cole-s-response",
   title: "Cole's Response",
-  partOfCollectionSlugs: ["yaelokre"],
+  partOfCollections: ["yaelokre"],
   position: 0,
   ownLength: 2.14975,
   ownProgress: 2.14975,

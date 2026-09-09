@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareMackWilbergRequiem = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-mack-wilberg-requiem",
   title: "Mack Wilberg: Requiem",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 63.321483,
   ownProgress: 0,

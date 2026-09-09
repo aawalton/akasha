@@ -5,7 +5,7 @@ export const weirdAlYankovic2LegoStarWarsSummerVacationOriginalSoundtrack = {
   pageTypeSlug: "release",
   slug: "weird-al-yankovic-2-lego-star-wars-summer-vacation-original-soundtrack",
   title: "LEGO Star Wars: Summer Vacation (Original Soundtrack)",
-  partOfCollectionSlugs: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic-2"],
   position: 0,
   ownLength: 5.524317,
   ownProgress: 0,

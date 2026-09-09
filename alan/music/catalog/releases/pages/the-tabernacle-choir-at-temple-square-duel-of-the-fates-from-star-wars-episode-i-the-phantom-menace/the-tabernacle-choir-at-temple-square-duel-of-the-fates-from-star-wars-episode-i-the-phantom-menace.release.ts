@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareDuelOfTheFatesFromStarWarsEpisodeIT
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-duel-of-the-fates-from-star-wars-episode-i-the-phantom-menace",
   title: 'Duel of the Fates (From "Star Wars Episode I: The Phantom Menace")',
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 3.340567,
   ownProgress: 0,

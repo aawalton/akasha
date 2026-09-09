@@ -5,7 +5,7 @@ export const zaraLarssonEndOfTimeJustinCarusoRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-end-of-time-justin-caruso-remix",
   title: "End Of Time (Justin Caruso Remix)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 2.545333,
   ownProgress: 2.545333,

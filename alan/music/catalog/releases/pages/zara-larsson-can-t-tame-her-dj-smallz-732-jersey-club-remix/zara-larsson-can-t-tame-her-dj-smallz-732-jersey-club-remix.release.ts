@@ -5,7 +5,7 @@ export const zaraLarssonCanTTameHerDjSmallz732JerseyClubRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-can-t-tame-her-dj-smallz-732-jersey-club-remix",
   title: "Can't Tame Her (DJ Smallz 732 Jersey Club Remix)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 2.5132,
   ownProgress: 2.5132,

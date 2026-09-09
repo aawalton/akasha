@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareTheSoundOfGlory = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-the-sound-of-glory",
   title: "The Sound of Glory",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 74.487233,
   ownProgress: 0,

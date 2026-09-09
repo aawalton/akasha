@@ -5,7 +5,7 @@ export const vinnyMarchiRidingWaves = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-riding-waves",
   title: "Riding Waves",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 2.811183,
   ownProgress: 2.811183,

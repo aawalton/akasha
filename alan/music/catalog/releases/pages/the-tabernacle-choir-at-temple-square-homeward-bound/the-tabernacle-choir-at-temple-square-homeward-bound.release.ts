@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHomewardBound = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-homeward-bound",
   title: "Homeward Bound",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 78.170317,
   ownProgress: 0,

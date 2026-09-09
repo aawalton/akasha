@@ -5,7 +5,7 @@ export const zaraLarssonStatesideZaraLarsson = {
   pageTypeSlug: "release",
   slug: "zara-larsson-stateside-zara-larsson",
   title: "Stateside + Zara Larsson",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 3.07935,
   ownProgress: 3.07935,

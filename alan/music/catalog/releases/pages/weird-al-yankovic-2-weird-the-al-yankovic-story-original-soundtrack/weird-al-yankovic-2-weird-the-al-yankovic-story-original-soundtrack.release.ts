@@ -5,7 +5,7 @@ export const weirdAlYankovic2WeirdTheAlYankovicStoryOriginalSoundtrack = {
   pageTypeSlug: "release",
   slug: "weird-al-yankovic-2-weird-the-al-yankovic-story-original-soundtrack",
   title: "Weird: The Al Yankovic Story - Original Soundtrack",
-  partOfCollectionSlugs: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic-2"],
   position: 0,
   ownLength: 78.1555,
   ownProgress: 0,

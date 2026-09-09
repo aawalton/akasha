@@ -5,7 +5,7 @@ export const zaraLarssonCanTTameHerAcoustic = {
   pageTypeSlug: "release",
   slug: "zara-larsson-can-t-tame-her-acoustic",
   title: "Can't Tame Her (Acoustic)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 6.782317,
   ownProgress: 6.782317,

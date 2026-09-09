@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareGreaterLoveACelebrationOfEaster = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-greater-love-a-celebration-of-easter",
   title: "Greater Love: A Celebration of Easter",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 36.110583,
   ownProgress: 0,

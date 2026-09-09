@@ -5,7 +5,7 @@ export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2 = {
   pageTypeSlug: "release",
   slug: "zara-larsson-a-brand-new-day-bts-world-original-soundtrack-pt-2",
   title: "A Brand New Day (BTS World Original Soundtrack) (Pt. 2)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 3.416983,
   ownProgress: 3.416983,

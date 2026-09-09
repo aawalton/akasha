@@ -6,7 +6,7 @@ export const theTabernacleChoirAtTempleSquareStarsAndStripesForever = {
   slug: "the-tabernacle-choir-at-temple-square-stars-and-stripes-forever",
   title:
     "Stars and Stripes Forever ! - The Mormon Tabernacle Choir sings March Favorites and College Songs",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 66.240983,
   ownProgress: 0,

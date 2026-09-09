@@ -5,7 +5,7 @@ export const zaraLarssonMorningBillenTedRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-morning-billen-ted-remix",
   title: "Morning (Billen Ted Remix)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 2.4484,
   ownProgress: 2.4484,

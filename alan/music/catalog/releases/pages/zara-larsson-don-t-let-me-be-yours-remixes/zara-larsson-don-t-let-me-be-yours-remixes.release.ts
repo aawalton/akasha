@@ -5,7 +5,7 @@ export const zaraLarssonDonTLetMeBeYoursRemixes = {
   pageTypeSlug: "release",
   slug: "zara-larsson-don-t-let-me-be-yours-remixes",
   title: "Don't Let Me Be Yours (Remixes)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 7.6131,
   ownProgress: 7.6131,

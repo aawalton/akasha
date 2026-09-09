@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareJoyToTheWorld = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-joy-to-the-world",
   title: "Joy to the World",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 45.045917,
   ownProgress: 0,

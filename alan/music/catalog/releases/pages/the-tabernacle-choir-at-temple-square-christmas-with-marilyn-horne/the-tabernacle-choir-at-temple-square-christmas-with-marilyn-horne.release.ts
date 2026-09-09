@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareChristmasWithMarilynHorne = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-christmas-with-marilyn-horne",
   title: "Christmas with Marilyn Horne",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 45.971467,
   ownProgress: 0,

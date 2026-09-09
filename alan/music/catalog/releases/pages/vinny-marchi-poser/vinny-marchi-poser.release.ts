@@ -5,7 +5,7 @@ export const vinnyMarchiPoser = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-poser",
   title: "POSER",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 2.730133,
   ownProgress: 2.730133,

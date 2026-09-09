@@ -5,7 +5,7 @@ export const yaelokreToDouseAScaldedTongue = {
   pageTypeSlug: "release",
   slug: "yaelokre-to-douse-a-scalded-tongue",
   title: "To douse a scalded tongue",
-  partOfCollectionSlugs: ["yaelokre"],
+  partOfCollections: ["yaelokre"],
   position: 0,
   ownLength: 2.725233,
   ownProgress: 2.725233,

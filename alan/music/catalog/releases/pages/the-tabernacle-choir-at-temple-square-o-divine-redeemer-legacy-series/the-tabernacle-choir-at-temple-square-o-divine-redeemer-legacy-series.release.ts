@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareODivineRedeemerLegacySeries = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-o-divine-redeemer-legacy-series",
   title: "O Divine Redeemer (Legacy Series)",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 54.330367,
   ownProgress: 0,

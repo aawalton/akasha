@@ -6,7 +6,7 @@ export const theTabernacleChoirAtTempleSquareThisIsMyCountry = {
   slug: "the-tabernacle-choir-at-temple-square-this-is-my-country",
   title:
     "This Is My Country - The World's Great Songs of Patriotism and Brotherhood (2023 Remastered Version)",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 56.6606,
   ownProgress: 56.6606,

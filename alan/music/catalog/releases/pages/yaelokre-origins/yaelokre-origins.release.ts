@@ -5,7 +5,7 @@ export const yaelokreOrigins = {
   pageTypeSlug: "release",
   slug: "yaelokre-origins",
   title: "Origins",
-  partOfCollectionSlugs: ["yaelokre"],
+  partOfCollections: ["yaelokre"],
   position: 0,
   ownLength: 10.5081,
   ownProgress: 10.5081,

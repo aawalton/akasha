@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHandelMessiahHwv56Highlights = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-handel-messiah-hwv-56-highlights",
   title: "Handel: Messiah, Hwv 56 (highlights)",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 61.21795,
   ownProgress: 0,

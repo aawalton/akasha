@@ -5,7 +5,7 @@ export const tomLehrerThatSMathematicsIGotItFromAgnes = {
   pageTypeSlug: "release",
   slug: "tom-lehrer-that-s-mathematics-i-got-it-from-agnes",
   title: "That's Mathematics / I Got It from Agnes",
-  partOfCollectionSlugs: ["tom-lehrer"],
+  partOfCollections: ["tom-lehrer"],
   position: 0,
   ownLength: 3.4966,
   ownProgress: 3.4966,

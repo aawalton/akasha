@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareCalledToServe = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-called-to-serve",
   title: "Called to Serve",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 66.6268,
   ownProgress: 0,

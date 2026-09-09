@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareHeavensongMusicOfContemplationAndLi
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-heavensong-music-of-contemplation-and-light",
   title: "Heavensong: Music of Contemplation and Light",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 68.271017,
   ownProgress: 0,

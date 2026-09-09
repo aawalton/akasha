@@ -5,7 +5,7 @@ export const zaraLarssonBadBoys = {
   pageTypeSlug: "release",
   slug: "zara-larsson-bad-boys",
   title: "Bad Boys",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 4.309317,
   ownProgress: 4.309317,

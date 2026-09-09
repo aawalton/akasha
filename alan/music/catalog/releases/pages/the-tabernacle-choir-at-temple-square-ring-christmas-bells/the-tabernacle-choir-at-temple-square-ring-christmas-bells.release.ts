@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareRingChristmasBells = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-ring-christmas-bells",
   title: "Ring Christmas Bells",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 71.61525,
   ownProgress: 0,

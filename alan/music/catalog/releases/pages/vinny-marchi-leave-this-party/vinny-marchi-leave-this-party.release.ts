@@ -5,7 +5,7 @@ export const vinnyMarchiLeaveThisParty = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-leave-this-party",
   title: "Leave This Party",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 3.99125,
   ownProgress: 3.99125,

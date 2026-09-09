@@ -5,7 +5,7 @@ export const vinnyMarchiWingsOfWax = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-wings-of-wax",
   title: "Wings of Wax",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 3.815233,
   ownProgress: 0,

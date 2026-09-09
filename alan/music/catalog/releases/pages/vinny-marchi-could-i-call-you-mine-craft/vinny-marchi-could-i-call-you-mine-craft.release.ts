@@ -5,7 +5,7 @@ export const vinnyMarchiCouldICallYouMineCraft = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-could-i-call-you-mine-craft",
   title: "Could I Call You Mine (Craft)",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 3.152967,
   ownProgress: 3.152967,

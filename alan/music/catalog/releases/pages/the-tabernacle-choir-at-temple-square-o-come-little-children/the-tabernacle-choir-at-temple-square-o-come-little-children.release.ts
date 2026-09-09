@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareOComeLittleChildren = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-o-come-little-children",
   title: "O Come Little Children",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 79.513683,
   ownProgress: 0,

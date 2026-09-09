@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareLetUsAllPressOnHymnsOfPraiseAndInsp
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-let-us-all-press-on-hymns-of-praise-and-inspiration",
   title: "Let Us All Press On: Hymns of Praise and Inspiration",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 61.586933,
   ownProgress: 0,

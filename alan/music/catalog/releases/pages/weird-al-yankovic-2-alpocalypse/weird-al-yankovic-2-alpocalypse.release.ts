@@ -5,7 +5,7 @@ export const weirdAlYankovic2Alpocalypse = {
   pageTypeSlug: "release",
   slug: "weird-al-yankovic-2-alpocalypse",
   title: "Alpocalypse",
-  partOfCollectionSlugs: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic-2"],
   position: 0,
   ownLength: 46.0162,
   ownProgress: 0,

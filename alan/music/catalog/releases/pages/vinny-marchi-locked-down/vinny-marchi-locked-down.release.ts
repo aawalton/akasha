@@ -5,7 +5,7 @@ export const vinnyMarchiLockedDown = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-locked-down",
   title: "LOCKED DOWN",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 2.38645,
   ownProgress: 2.38645,

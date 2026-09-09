@@ -5,7 +5,7 @@ export const zaraLarssonAinTMyFaultFeatLilYachtyRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-ain-t-my-fault-feat-lil-yachty-remix",
   title: "Ain't My Fault (feat. Lil Yachty) [Remix]",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 3.972667,
   ownProgress: 3.972667,

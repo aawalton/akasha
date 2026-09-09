@@ -5,7 +5,7 @@ export const weirdAlYankovic2TheEssentialWeirdAlYankovic = {
   pageTypeSlug: "release",
   slug: "weird-al-yankovic-2-the-essential-weird-al-yankovic",
   title: 'The Essential "Weird Al" Yankovic',
-  partOfCollectionSlugs: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic-2"],
   position: 0,
   ownLength: 153.164683,
   ownProgress: 0,

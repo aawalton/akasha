@@ -5,7 +5,7 @@ export const vinnyMarchiBadDaysGood = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-bad-days-good",
   title: "Bad Days Good",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 2.65,
   ownProgress: 2.65,

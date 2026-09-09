@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareMoreGreatestHits18BestLovedFavorite
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-more-greatest-hits-18-best-loved-favorites",
   title: "More Greatest Hits - 18 Best Loved Favorites",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 74.021,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const vinnyMarchiMyJollySailorBold = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-my-jolly-sailor-bold",
   title: "My Jolly Sailor Bold",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 3.604333,
   ownProgress: 3.604333,

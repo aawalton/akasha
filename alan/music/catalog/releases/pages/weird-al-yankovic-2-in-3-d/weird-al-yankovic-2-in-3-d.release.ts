@@ -5,7 +5,7 @@ export const weirdAlYankovic2In3D = {
   pageTypeSlug: "release",
   slug: "weird-al-yankovic-2-in-3-d",
   title: "In 3-D",
-  partOfCollectionSlugs: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic-2"],
   position: 0,
   ownLength: 44.454167,
   ownProgress: 0,

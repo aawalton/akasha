@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquarePeaceLikeARiver = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-peace-like-a-river",
   title: "Peace Like a River",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 68.775217,
   ownProgress: 0,

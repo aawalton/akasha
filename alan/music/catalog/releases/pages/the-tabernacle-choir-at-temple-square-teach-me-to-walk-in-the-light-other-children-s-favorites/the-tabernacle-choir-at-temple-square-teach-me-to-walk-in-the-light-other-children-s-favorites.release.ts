@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareTeachMeToWalkInTheLightOtherChildre
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-teach-me-to-walk-in-the-light-other-children-s-favorites",
   title: "Teach Me to Walk in the Light & Other Children's Favorites",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 58.365267,
   ownProgress: 0,

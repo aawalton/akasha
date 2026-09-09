@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareMormonTabernacleChoirFriends = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-mormon-tabernacle-choir-friends",
   title: "Mormon Tabernacle Choir & Friends",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 38.7426,
   ownProgress: 0,

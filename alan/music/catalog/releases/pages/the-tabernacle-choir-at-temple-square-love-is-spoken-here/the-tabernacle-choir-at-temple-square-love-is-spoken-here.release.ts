@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareLoveIsSpokenHere = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-love-is-spoken-here",
   title: "Love Is Spoken Here",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 79.60765,
   ownProgress: 0,

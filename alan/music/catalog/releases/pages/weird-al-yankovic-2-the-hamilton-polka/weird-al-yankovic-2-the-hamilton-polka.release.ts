@@ -5,7 +5,7 @@ export const weirdAlYankovic2TheHamiltonPolka = {
   pageTypeSlug: "release",
   slug: "weird-al-yankovic-2-the-hamilton-polka",
   title: "The Hamilton Polka",
-  partOfCollectionSlugs: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic-2"],
   position: 0,
   ownLength: 5.01135,
   ownProgress: 0,

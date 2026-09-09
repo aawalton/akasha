@@ -5,7 +5,7 @@ export const zaraLarssonMemoryLane = {
   pageTypeSlug: "release",
   slug: "zara-larsson-memory-lane",
   title: "Memory Lane",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 8.533683,
   ownProgress: 8.533683,

@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareConsiderTheLilies20thAnniversaryRem
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-consider-the-lilies-20th-anniversary-remastered-edition",
   title: "Consider the Lilies (20th Anniversary Remastered Edition)",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 67.527467,
   ownProgress: 0,

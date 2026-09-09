@@ -5,7 +5,7 @@ export const vinnyMarchiISeeFire = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-i-see-fire",
   title: "I See Fire",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 3.890883,
   ownProgress: 3.890883,

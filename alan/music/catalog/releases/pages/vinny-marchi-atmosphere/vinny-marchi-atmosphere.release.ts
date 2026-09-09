@@ -5,7 +5,7 @@ export const vinnyMarchiAtmosphere = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-atmosphere",
   title: "Atmosphere",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 3.415183,
   ownProgress: 3.415183,

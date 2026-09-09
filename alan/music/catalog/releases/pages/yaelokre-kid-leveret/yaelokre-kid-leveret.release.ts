@@ -5,7 +5,7 @@ export const yaelokreKidLeveret = {
   pageTypeSlug: "release",
   slug: "yaelokre-kid-leveret",
   title: "Kid & Leveret",
-  partOfCollectionSlugs: ["yaelokre"],
+  partOfCollections: ["yaelokre"],
   position: 0,
   ownLength: 5.223417,
   ownProgress: 5.223417,

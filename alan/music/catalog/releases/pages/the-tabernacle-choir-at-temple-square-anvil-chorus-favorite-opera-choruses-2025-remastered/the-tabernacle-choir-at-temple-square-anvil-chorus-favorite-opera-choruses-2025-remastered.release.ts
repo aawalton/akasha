@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareAnvilChorusFavoriteOperaChoruses202
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-anvil-chorus-favorite-opera-choruses-2025-remastered",
   title: "Anvil Chorus - Favorite Opera Choruses (2025 Remastered)",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 49.208183,
   ownProgress: 0,

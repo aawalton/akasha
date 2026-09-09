@@ -5,7 +5,7 @@ export const zaraLarssonIWouldLikeR3habRemix = {
   pageTypeSlug: "release",
   slug: "zara-larsson-i-would-like-r3hab-remix",
   title: "I Would Like (R3hab Remix)",
-  partOfCollectionSlugs: ["zara-larsson"],
+  partOfCollections: ["zara-larsson"],
   position: 0,
   ownLength: 2.449983,
   ownProgress: 2.449983,

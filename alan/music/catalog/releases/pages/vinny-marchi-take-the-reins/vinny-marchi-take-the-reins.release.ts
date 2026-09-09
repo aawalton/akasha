@@ -5,7 +5,7 @@ export const vinnyMarchiTakeTheReins = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-take-the-reins",
   title: "Take The Reins",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 2.669233,
   ownProgress: 2.669233,

@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareBestLovedAmericanFolkSongs = {
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-best-loved-american-folk-songs",
   title: "Best Loved American Folk Songs: This Land is your Land (2024 Remastered)",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 42.859267,
   ownProgress: 42.859267,

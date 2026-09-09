@@ -5,7 +5,7 @@ export const theTabernacleChoirAtTempleSquareBrahmsAGermanRequiem2023RemasteredV
   pageTypeSlug: "release",
   slug: "the-tabernacle-choir-at-temple-square-brahms-a-german-requiem-2023-remastered-version",
   title: "Brahms: A German Requiem (2023 Remastered Version)",
-  partOfCollectionSlugs: ["the-tabernacle-choir-at-temple-square"],
+  partOfCollections: ["the-tabernacle-choir-at-temple-square"],
   position: 0,
   ownLength: 64.584633,
   ownProgress: 0,

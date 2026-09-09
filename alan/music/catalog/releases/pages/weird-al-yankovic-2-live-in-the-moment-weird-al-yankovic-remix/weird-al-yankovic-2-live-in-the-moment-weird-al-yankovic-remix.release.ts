@@ -5,7 +5,7 @@ export const weirdAlYankovic2LiveInTheMomentWeirdAlYankovicRemix = {
   pageTypeSlug: "release",
   slug: "weird-al-yankovic-2-live-in-the-moment-weird-al-yankovic-remix",
   title: "Live in the Moment ('Weird Al' Yankovic Remix)",
-  partOfCollectionSlugs: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic-2"],
   position: 0,
   ownLength: 3.354717,
   ownProgress: 0,

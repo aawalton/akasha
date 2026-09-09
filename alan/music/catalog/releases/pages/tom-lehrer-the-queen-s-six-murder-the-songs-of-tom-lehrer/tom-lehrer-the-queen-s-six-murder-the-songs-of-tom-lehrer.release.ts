@@ -5,7 +5,7 @@ export const tomLehrerTheQueenSSixMurderTheSongsOfTomLehrer = {
   pageTypeSlug: "release",
   slug: "tom-lehrer-the-queen-s-six-murder-the-songs-of-tom-lehrer",
   title: "The Queen's Six Murder the Songs of Tom Lehrer",
-  partOfCollectionSlugs: ["tom-lehrer"],
+  partOfCollections: ["tom-lehrer"],
   position: 0,
   ownLength: 35.009483,
   ownProgress: 35.009483,

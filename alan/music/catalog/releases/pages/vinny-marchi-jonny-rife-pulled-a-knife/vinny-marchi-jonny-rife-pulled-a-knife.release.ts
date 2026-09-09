@@ -5,7 +5,7 @@ export const vinnyMarchiJonnyRifePulledAKnife = {
   pageTypeSlug: "release",
   slug: "vinny-marchi-jonny-rife-pulled-a-knife",
   title: "Jonny Rife Pulled a Knife",
-  partOfCollectionSlugs: ["vinny-marchi"],
+  partOfCollections: ["vinny-marchi"],
   position: 0,
   ownLength: 3.016667,
   ownProgress: 3.016667,

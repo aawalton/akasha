@@ -5,7 +5,7 @@ export const tomLehrerTomLehrerTheMasochismAndHisHits = {
   pageTypeSlug: "release",
   slug: "tom-lehrer-tom-lehrer-the-masochism-and-his-hits",
   title: "Tom Lehrer - The Masochism and his hits",
-  partOfCollectionSlugs: ["tom-lehrer"],
+  partOfCollections: ["tom-lehrer"],
   position: 0,
   ownLength: 80.065733,
   ownProgress: 80.065733,

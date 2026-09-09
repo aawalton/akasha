@@ -5,7 +5,7 @@ export const weirdAlYankovic2OffTheDeepEnd = {
   pageTypeSlug: "release",
   slug: "weird-al-yankovic-2-off-the-deep-end",
   title: "Off The Deep End",
-  partOfCollectionSlugs: ["weird-al-yankovic-2"],
+  partOfCollections: ["weird-al-yankovic-2"],
   position: 0,
   ownLength: 41.4955,
   ownProgress: 0,
