@@ -7,12 +7,12 @@ import { editsAt } from "akasha/changes/modules/edits-keeping/edits-keeping.modu
 import type { Judging } from "akasha/checks/modules/judging/judging.module.code.ts"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
-import { preparing, rowsOf, sequenced } from "../change-preparing/change-preparing.module.code.ts"
+import { preparing, sequenced } from "../change-preparing/change-preparing.module.code.ts"
 import { runningOf } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { passedOver, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
-import type { Drafted, FileEdit, Landed, Refused } from "../landing/landing.module.code.ts"
+import type { Drafted, Landed, Refused } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
 import {
   asReadIn,
@@ -44,7 +44,7 @@ const NOTHING = "nothing was judged and nothing was written"
 export const NO_CHECKS = "runs no check, so this landing was judged by none"
 
 export type Asked = {
-  readonly changes: readonly FileEdit[]
+  readonly changes: readonly FileChange[]
   readonly message: string
   readonly dryRun: boolean
   readonly glass: string | null
@@ -255,11 +255,9 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
       `${DRY_RUN} reports what the checks say and ${BREAK_GLASS} runs none, so together they report nothing`,
     ])
   }
-  const stated = rowsOf(asked.changes)
-  if ("why" in stated) return mistaking([stated.why, NOTHING])
   let minted: Minted
   try {
-    minted = mintingOnto(given.root, stated.rows)
+    minted = mintingOnto(given.root, asked.changes)
   } catch (thrown) {
     return { report: [], refusals: [`${NOTHING} — ${whyOf(thrown)}`], code: 3 }
   }
@@ -267,7 +265,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   const prepared = preparing(
     given.root,
     base,
-    sequenced(stated.rows, minted.edits),
+    sequenced(asked.changes, minted.edits),
     asked.moves ?? []
   )
   if ("refusals" in prepared) return mistaking([...prepared.refusals, NOTHING])

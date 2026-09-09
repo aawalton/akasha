@@ -6,9 +6,9 @@ import { partedIn } from "@akasha/pages/page-file-name"
 import { valueAt } from "@akasha/pages/page-value"
 import { supervisorsRootDir } from "@akasha/seat-system/supervisor-log-path"
 import { textAt } from "@akasha/utils/narrow/text-at"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import type { FileEdit } from "../../../commands/modules/landing/landing.module.code.ts"
 import { landedMechanically } from "../../../commands/modules/mechanical-landing/mechanical-landing.module.code.ts"
 import {
   dropReadings,
@@ -120,7 +120,11 @@ export function seatNamedIn(root: string, seatId: string): string | null {
   return named.slug
 }
 
-async function handed(root: string, changes: readonly FileEdit[], message: string): Promise<Went> {
+async function handed(
+  root: string,
+  changes: readonly FileChange[],
+  message: string
+): Promise<Went> {
   const answer = await landedMechanically(root, CALLED_AS, changes, message)
   if (answer.code === 0) return WENT
   const why = answer.refusals.join(" ").trim()
@@ -149,19 +153,17 @@ export async function wrote(
         ` assignment its seat states, so ${at} was not written`,
     }
   }
-  const body = new TextEncoder().encode(
-    bodyOf(
-      slug,
-      seatName,
-      assignmentSlug,
-      textAt(held, KIND) ?? dispatchedAs,
-      agentId,
-      textAt(held, ID)
-    )
+  const content = bodyOf(
+    slug,
+    seatName,
+    assignmentSlug,
+    textAt(held, KIND) ?? dispatchedAs,
+    agentId,
+    textAt(held, ID)
   )
   return await handed(
     root,
-    [{ path: at, body }],
+    [{ kind: "add", path: at, content }],
     had === null
       ? `${slug}: a subagent states the agent id it acts under`
       : `${slug}: a subagent resuming takes up the page it had`
@@ -202,7 +204,7 @@ export async function tookUnder(root: string, seatName: string, why: string): Pr
   if (paths.length === 0) return WENT
   const gone = await handed(
     root,
-    paths.map((path) => ({ path, body: null })),
+    paths.map((path): FileChange => ({ kind: "remove", path })),
     `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) under it go`
   )
   if (!("why" in gone)) dropReadings(root, paths)

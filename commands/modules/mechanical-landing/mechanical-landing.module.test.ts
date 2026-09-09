@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { REFUSES_CODE } from "@akasha/testing-system/minting"
 import { landingAsked, MECHANICAL, NO_CHECKS } from "../asking/asking.module.code.ts"
 import {
@@ -43,7 +42,7 @@ test("a program's landing is refused where a path moved between what it read and
       changeKind: MECHANICAL,
     },
     asking({
-      changes: [{ path: ONE_AT, body: bytes(PROPOSED) }],
+      changes: [{ kind: "add", path: ONE_AT, content: PROPOSED }],
       read: was,
       saying: () => [],
     })

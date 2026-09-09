@@ -3,6 +3,7 @@ import { join } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { landedMechanically } from "../../../commands/modules/mechanical-landing/mechanical-landing.module.code.ts"
 import {
   keptAt,
@@ -21,7 +22,7 @@ export function landingNaming(named: string[]): Landing {
     const answer = await landedMechanically(
       root,
       "subagent-presence",
-      paths.map((path) => ({ path, body: null })),
+      paths.map((path): FileChange => ({ kind: "remove", path })),
       message
     )
     return { refusals: answer.code === 0 ? [] : answer.refusals }

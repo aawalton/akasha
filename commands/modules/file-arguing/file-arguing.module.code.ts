@@ -1,6 +1,8 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { besideAll } from "@akasha/pages/page-beside"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
+import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import { BREAK_GLASS, bytesAt, mistaking, textOf, troubling } from "../asking/asking.module.code.ts"
 import { type Answer, type Given, kindNamed } from "../calling/calling.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
@@ -14,7 +16,6 @@ import {
   REMOVE,
   unknownIn,
 } from "../flags/command-flags.module.code.ts"
-import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf } from "../landing/landing.module.code.ts"
 import { defaultMessage } from "../landing-saying/landing-saying.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
@@ -30,6 +31,10 @@ export const RESTATED_KIND = "change-restated"
 export const VALUED = [FILE_PATH, CONTENT_FILE, REMOVE, MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE: readonly string[] = [RESTATED]
+
+const PIPED_IN = "the body piped in"
+
+const BYTES = new TextEncoder()
 
 export function restatedIn(
   argv: readonly string[],
@@ -52,16 +57,29 @@ function wasAt(root: string, path: string): Uint8Array | null {
   return "bytes" in held ? held.bytes : null
 }
 
-export function unrestatedFor(given: Given, changes: readonly FileEdit[]): readonly string[] {
+export function pathIn(one: FileChange): string {
+  return one.kind === "move" ? one.pathTo : one.path
+}
+
+function bodyIn(one: FileChange): Uint8Array | null {
+  if (one.kind === "add") return BYTES.encode(one.content)
+  return one.kind === "replace" ? BYTES.encode(one.contentTo) : null
+}
+
+export function unrestatedFor(given: Given, changes: readonly FileChange[]): readonly string[] {
   if (given.changeKind?.slug !== RESTATED_KIND) return []
   return unrestatedIn(
     given.root,
-    changes.map((one) => ({ path: one.path, was: wasAt(given.root, one.path), now: one.body }))
+    changes.map((one) => ({
+      path: pathIn(one),
+      was: wasAt(given.root, pathIn(one)),
+      now: bodyIn(one),
+    }))
   )
 }
 
 export type Removing = {
-  readonly changes: readonly FileEdit[]
+  readonly changes: readonly FileChange[]
   readonly taken: readonly string[]
   readonly base: string | null
   readonly mistaken: readonly string[]
@@ -75,7 +93,7 @@ export function removingIn(
   both: (path: string) => string
 ): Removing {
   const base = removals.length === 0 ? null : baseOf(given.root)
-  const changes: FileEdit[] = []
+  const changes: FileChange[] = []
   const taken: string[] = []
   const mistaken: string[] = []
   const wrong: string[] = []
@@ -99,7 +117,7 @@ export function removingIn(
       continue
     }
     taken.push(path)
-    changes.push({ path, body: null })
+    changes.push({ kind: "remove", path })
   }
   return { changes, taken, base, mistaken, wrong }
 }
@@ -109,13 +127,13 @@ export function besideTaken(
   base: string | null,
   taken: readonly string[],
   seen: Set<string>
-): readonly FileEdit[] {
+): readonly FileChange[] {
   if (base === null) return []
-  const changes: FileEdit[] = []
+  const changes: FileChange[] = []
   for (const one of besideAll(resolve(given.root), taken)) {
     if (seen.has(one)) continue
     seen.add(one)
-    changes.push({ path: one, body: null })
+    changes.push({ kind: "remove", path: one })
   }
   return changes
 }
@@ -183,7 +201,7 @@ function readIn(argv: readonly string[]): Read {
 }
 
 export type Built = {
-  readonly changes: readonly FileEdit[]
+  readonly changes: readonly FileChange[]
   readonly message: string
 }
 
@@ -202,7 +220,7 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
   const said = messageIn(argv, VALUED)
   if ("refusals" in said) return mistaking(said.refusals)
 
-  let piped: Uint8Array | null = null
+  let piped: string | null = null
   if (read.pairs.length > 0) {
     const wanted = read.pairs.find((one) => one.from === null)?.path ?? null
     const held = pipedIn(piping, wanted, {
@@ -217,19 +235,20 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
     if ("refusals" in held) return mistaking(held.refusals)
     if ("bytes" in held) {
       const body = textOf(held.bytes)
-      if (body !== null && markingIn(body)) {
+      if (body === null) return mistaking([notUtf8(PIPED_IN, held.bytes)])
+      if (markingIn(body)) {
         return mistaking([
-          `the body piped in holds a line beginning with ${RUNS_SAID}, and a body like that` +
+          `${PIPED_IN} holds a line beginning with ${RUNS_SAID}, and a body like that` +
             ` is handed in at ${CONTENT_FILE} rather than piped in`,
         ])
       }
-      piped = held.bytes
+      piped = body
     }
   }
 
   const mistaken: string[] = []
   const wrong: string[] = []
-  const changes: FileEdit[] = []
+  const changes: FileChange[] = []
   const seen = new Set<string>()
   for (const one of read.pairs) {
     const path = pathAt(given.root, one.path)
@@ -248,7 +267,7 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
     }
     seen.add(path)
     if (one.from === null) {
-      changes.push({ path, body: piped ?? new Uint8Array() })
+      changes.push({ kind: "add", path, content: piped ?? "" })
       continue
     }
     const held = bytesAt(one.from)
@@ -262,7 +281,12 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
       )
       continue
     }
-    changes.push({ path, body: held.bytes })
+    const body = textOf(held.bytes)
+    if (body === null) {
+      mistaken.push(notUtf8(one.from, held.bytes))
+      continue
+    }
+    changes.push({ kind: "add", path, content: body })
   }
   const removing = removingIn(
     given,
@@ -280,11 +304,6 @@ export function builtIn(argv: readonly string[], given: Given, piping: Piping): 
   if (troubled !== null) return troubled
   return {
     changes,
-    message:
-      said.message ??
-      defaultMessage(
-        "write",
-        changes.map((one) => one.path)
-      ),
+    message: said.message ?? defaultMessage("write", changes.map(pathIn)),
   }
 }

@@ -27,10 +27,6 @@ export const mechanicalFiling = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that is not text refuses the call rather than being landed.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Every body a call has is worked out before any of them is run.",
     },
     {

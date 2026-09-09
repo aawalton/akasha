@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Given, Kind } from "../calling/calling.module.code.ts"
 import { unwarrantedIn } from "./warrant-owing.module.code.ts"
 
@@ -17,7 +18,7 @@ const OWES: Kind = {
   readersOweReading: true,
 }
 
-const CHANGES = [{ path: "akasha/two.ts", body: new Uint8Array() }]
+const CHANGES: readonly FileChange[] = [{ kind: "add", path: "akasha/two.ts", content: "" }]
 
 test("a change kind saying the writer owes no reading is answered with nothing owed", () => {
   const given: Given = { ...GIVEN, changeKind: { ...OWES, writerOwesReading: false } }

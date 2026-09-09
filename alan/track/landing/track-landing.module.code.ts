@@ -1,10 +1,9 @@
-import { decodeUtf8 } from "@akasha/code/utf8-body"
+import { pathsOf } from "akasha/changes/modules/answer/change-answer.module.code.ts"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import type { Asking } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { runMechanicalChange } from "akasha/changes/runners/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { notUtf8 } from "akasha/checks/modules/body-not-utf8/body-not-utf8.module.code.ts"
 import { mistaking } from "../../../commands/modules/asking/asking.module.code.ts"
 import { type Answer, answering } from "../../../commands/modules/calling/calling.module.code.ts"
-import type { FileEdit } from "../../../commands/modules/landing/landing.module.code.ts"
 
 export const DAYS_AT = "alan/track/days/pages/"
 
@@ -43,33 +42,24 @@ function changeAt(path: string, body: string | null): Asking {
   return { at: PUT, given: { at: path, body } }
 }
 
-export type Asked = { readonly asked: readonly Asking[] } | { readonly wrong: readonly string[] }
-
-export function askedFor(changes: readonly FileEdit[]): Asked {
+export function askedFor(changes: readonly FileChange[]): readonly Asking[] {
   const asked: Asking[] = []
-  const wrong: string[] = []
   for (const one of changes) {
-    if (one.body === null) {
-      asked.push(changeAt(one.path, null))
-      continue
-    }
-    const body = decodeUtf8(one.body)
-    if (body === null) wrong.push(notUtf8(one.path, one.body))
-    else asked.push(changeAt(one.path, body))
+    if (one.kind === "move") continue
+    if (one.kind === "remove") asked.push(changeAt(one.path, null))
+    else asked.push(changeAt(one.path, one.kind === "add" ? one.content : one.contentTo))
   }
-  return wrong.length > 0 ? { wrong } : { asked }
+  return asked
 }
 
 export async function landingTracked(
   root: string,
-  changes: readonly FileEdit[],
+  changes: readonly FileChange[],
   message: string
 ): Promise<Answer> {
-  const stray = strayAmong(changes.map((one) => one.path))
+  const stray = strayAmong(changes.flatMap(pathsOf))
   if (stray.length > 0) return mistaking(stray)
-  const asked = askedFor(changes)
-  if ("wrong" in asked) return mistaking(asked.wrong)
-  const landed = await runMechanicalChange(root, asked.asked, message)
+  const landed = await runMechanicalChange(root, askedFor(changes), message)
   if ("refusals" in landed) return answering([], landed.refusals, WRONG)
   return answering(landed.said, landed.wrong, landed.wrong.length === 0 ? 0 : WRONG)
 }

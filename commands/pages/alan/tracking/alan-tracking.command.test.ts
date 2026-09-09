@@ -108,12 +108,10 @@ test("a day and the rows beside it are named as the change adding a file, with t
   )
   if ("code" in built) throw new Error(built.refusals.join("\n"))
   expect(built.message).toBe("held")
-  expect(askedFor(built.changes)).toEqual({
-    asked: [
-      { at: ADDS, given: { at: AT, body: DAY } },
-      { at: ADDS, given: { at: ROWS_AT, body: ROW } },
-    ],
-  })
+  expect(askedFor(built.changes)).toEqual([
+    { at: ADDS, given: { at: AT, body: DAY } },
+    { at: ADDS, given: { at: ROWS_AT, body: ROW } },
+  ])
 })
 
 test("a food entry is named as the change adding a file at its path", () => {
@@ -132,7 +130,5 @@ test("a food entry is named as the change adding a file at its path", () => {
   )
   if ("code" in built) throw new Error(built.refusals.join("\n"))
   expect(built.message).toBe("ate")
-  expect(askedFor(built.changes)).toEqual({
-    asked: [{ at: ADDS, given: { at: FOOD_AT, body: BANANA } }],
-  })
+  expect(askedFor(built.changes)).toEqual([{ at: ADDS, given: { at: FOOD_AT, body: BANANA } }])
 })

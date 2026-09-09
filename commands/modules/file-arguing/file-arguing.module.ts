@@ -63,6 +63,10 @@ export const fileArguing = {
     },
     {
       invariantKind: "departure",
+      statement: "A body that is not text refuses the call rather than being carried on.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A call naming no file to write and no path to take away is refused.",
     },
     {

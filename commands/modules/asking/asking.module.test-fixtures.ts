@@ -5,6 +5,7 @@ import { noImportersFiled, pageFiled } from "@akasha/indexes/testing"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { ADMITS_CODE, MINTED, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import { appendEdits } from "akasha/changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Phase } from "akasha/checks/modules/checking/checking.module.code.ts"
 import { agentPathOf } from "akasha/context/modules/warranting/warranting.module.code.ts"
@@ -206,7 +207,7 @@ export async function wrote(
 
 export function asking(over: Partial<Asked>): Asked {
   return {
-    changes: [{ path: TWO_AT, body: bytes(PROPOSED) }],
+    changes: [{ kind: "add", path: TWO_AT, content: PROPOSED }],
     message: "held",
     dryRun: false,
     glass: null,
@@ -221,8 +222,8 @@ export function blocked(root: string): Asked {
   mkdirSync(join(root, "akasha/three.ts"), { recursive: true })
   return asking({
     changes: [
-      { path: TWO_AT, body: bytes(PROPOSED) },
-      { path: "akasha/three.ts", body: bytes(PROPOSED) },
+      { kind: "add", path: TWO_AT, content: PROPOSED },
+      { kind: "add", path: "akasha/three.ts", content: PROPOSED },
     ],
     saying: () => [],
   })
@@ -230,7 +231,7 @@ export function blocked(root: string): Asked {
 
 export const THREE_AT = "akasha/three.ts"
 
-const THREE = [{ path: THREE_AT, body: bytes(PROPOSED) }]
+const THREE: readonly FileChange[] = [{ kind: "add", path: THREE_AT, content: PROPOSED }]
 
 export const holds = (root: string, path: string): boolean => existsSync(join(root, path))
 
@@ -240,7 +241,7 @@ export const applying = async (root: string): Promise<Answer> =>
 export const mechanically = async (root: string): Promise<number> =>
   (await landedMechanically(root, "akasha change apply", THREE, "held")).code
 
-export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
+export const PROGRAM: readonly FileChange[] = [{ kind: "add", path: TWO_AT, content: PROPOSED }]
 
 export function seeded(root: string): boolean {
   const held = [

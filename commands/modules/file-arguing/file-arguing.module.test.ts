@@ -67,7 +67,7 @@ test("the body for a file is read from the file --content-file names", () => {
     TERMINAL
   )
   if ("code" in said) throw new Error(said.refusals.join("\n"))
-  expect(said.changes).toEqual([{ path: "akasha/one.ts", body: new TextEncoder().encode(BODY) }])
+  expect(said.changes).toEqual([{ kind: "add", path: "akasha/one.ts", content: BODY }])
 })
 
 test("a commit message worked out from the paths names the path written", () => {

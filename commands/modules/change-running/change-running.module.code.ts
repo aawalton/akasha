@@ -49,8 +49,6 @@ export function noPageSaid(root: string, agentId: string | null): string {
 
 const BARE: readonly string[] = []
 
-const BYTES = new TextEncoder()
-
 const AT = "at"
 
 const MESSAGE = "message"
@@ -198,16 +196,11 @@ export function unwarrantedFor(
 ): readonly string[] {
   const after = replayed({ edits: rows, refused: null }, bodyIn(root))
   if ("refused" in after) return [after.refused]
-  const edits = [...after].map(([path, body]) => ({
-    path,
-    body: typeof body === "string" ? BYTES.encode(body) : null,
-  }))
-  return owedIn(
-    root,
-    agentId,
-    edits.map((one) => one.path),
-    changingOf(root, edits)
+  const edits = [...after].map(
+    ([path, body]): FileChange =>
+      typeof body === "string" ? { kind: "add", path, content: body } : { kind: "remove", path }
   )
+  return owedIn(root, agentId, [...after.keys()], changingOf(root, edits))
 }
 
 export function owedBy(value: Value | null): boolean {

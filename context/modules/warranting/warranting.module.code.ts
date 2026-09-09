@@ -5,6 +5,7 @@ import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import { slugOf } from "@akasha/seat-system/subagent-presence"
+import type { FileChange } from "akasha/changes/modules/answer/change-answer.module.types.ts"
 import {
   blobIdOf,
   partly,
@@ -296,22 +297,27 @@ function gatheredAt(every: readonly Gathered[], when: When): readonly Gathered[]
   return every.filter((one) => (when === "read" ? one.runsOnRead : one.runsOnWrite))
 }
 
-export function changingOf(
-  root: string,
-  changes: readonly { readonly path: string; readonly body: Uint8Array | null }[]
-): Changing {
-  const after = new Map(changes.map((one) => [one.path, one.body]))
-  return {
-    changed: changes.map((one) => one.path),
-    before: (path) => {
-      try {
-        return readFileSync(join(root, path))
-      } catch {
-        return null
-      }
-    },
-    after: (path) => after.get(path) ?? null,
+export function changingOf(root: string, changes: readonly FileChange[]): Changing {
+  const before = (path: string): Uint8Array | null => {
+    try {
+      return readFileSync(join(root, path))
+    } catch {
+      return null
+    }
   }
+  const bytes = new TextEncoder()
+  const after = new Map<string, Uint8Array | null>()
+  for (const one of changes) {
+    if (one.kind === "move") {
+      after.set(one.pathFrom, null)
+      after.set(one.pathTo, before(one.pathFrom))
+    } else if (one.kind === "remove") {
+      after.set(one.path, null)
+    } else {
+      after.set(one.path, bytes.encode(one.kind === "add" ? one.content : one.contentTo))
+    }
+  }
+  return { changed: [...after.keys()], before, after: (path) => after.get(path) ?? null }
 }
 
 export function warrantsIn(

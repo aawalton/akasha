@@ -14,19 +14,17 @@ const GIVEN: Given = {
 const AT = "akasha/one/one.held.ts"
 
 test("a body to write goes in through the change adding a file of any kind", () => {
-  const asked = askedFor([{ path: AT, body: new TextEncoder().encode("alpha\n") }])
+  const asked = askedFor([{ kind: "add", path: AT, content: "alpha\n" }])
 
-  expect(asked).toEqual({
-    asked: [{ at: "change-mechanical/add-file-of-any-kind", given: { at: AT, body: "alpha\n" } }],
-  })
+  expect(asked).toEqual([
+    { at: "change-mechanical/add-file-of-any-kind", given: { at: AT, body: "alpha\n" } },
+  ])
 })
 
 test("a path to take away goes through the change removing a file", () => {
-  const asked = askedFor([{ path: AT, body: null }])
+  const asked = askedFor([{ kind: "remove", path: AT }])
 
-  expect(asked).toEqual({
-    asked: [{ at: "change-mechanical-file/remove-file", given: { at: AT } }],
-  })
+  expect(asked).toEqual([{ at: "change-mechanical-file/remove-file", given: { at: AT } }])
 })
 
 test("a refusal the reading answers with is passed back untouched", async () => {
