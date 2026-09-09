@@ -5,6 +5,7 @@ import type { Directives } from "./properties/directives.record-property.ts"
 import type { Expands } from "./properties/expands.boolean-property.ts"
 import type { Invariants } from "./properties/invariants.record-property.ts"
 import type { PartSlugs } from "./properties/part-slugs.relation-property.ts"
+import type { Parts } from "./properties/parts.relation-property.ts"
 import type { PluralSlug } from "./properties/plural-slug.text-property.ts"
 
 export type Domain = Page & {
@@ -14,6 +15,7 @@ export type Domain = Page & {
   invariants?: Invariants
   directives?: Directives
   expands?: Expands
+  parts?: Parts
 }
 
 export const domain = {
@@ -33,6 +35,7 @@ export const domain = {
     "text-property/name",
     "text-property/plural-slug",
     "standard-agent-english-property/warrant",
+    "relation-property/parts",
   ],
   pageTypeSlug: "page-type",
   slug: "domain",
@@ -51,6 +54,7 @@ export const domain = {
     { pagePropertySlug: "record-property/invariants", required: false, many: true, maxCount: null },
     { pagePropertySlug: "record-property/directives", required: false, many: true, maxCount: null },
     { pagePropertySlug: "boolean-property/expands", required: false, many: false },
+    { pagePropertySlug: "relation-property/parts", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {
