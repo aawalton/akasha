@@ -2,11 +2,15 @@ import type { Asking } from "@akasha/changes/mechanical-change-running"
 import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { notUtf8 } from "@akasha/checks/body-not-utf8"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
-import { mistaking } from "../asking/asking.module.code.ts"
-import { type Answer, answering, type Given } from "../calling/calling.module.code.ts"
-import { builtIn } from "../file-arguing/file-arguing.module.code.ts"
-import type { FileEdit } from "../landing/landing.module.code.ts"
-import type { Piping } from "../piping/piping.module.code.ts"
+import { mistaking } from "../../../command-system/asking/asking.module.code.ts"
+import {
+  type Answer,
+  answering,
+  type Given,
+} from "../../../command-system/calling/calling.module.code.ts"
+import { builtIn } from "../../../command-system/file-arguing/file-arguing.module.code.ts"
+import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
+import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
 
 const PUT = "change-mechanical/add-file-of-any-kind"
 

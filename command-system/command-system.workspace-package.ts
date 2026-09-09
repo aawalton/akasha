@@ -34,7 +34,6 @@ export const commandSystem = {
     "module/command-flags",
     "module/said-pathing",
     "module/file-arguing",
-    "module/mechanical-filing",
     "module/change-acting",
     "module/edits-landing",
     "module/change-arguing",
