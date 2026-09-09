@@ -8,7 +8,7 @@ export const godOfTrash007272BecomingSalesmen = {
   story: "god-of-trash",
   position: 72,
   ownLength: 2822,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-11",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2272138/72-becoming-salesmen",

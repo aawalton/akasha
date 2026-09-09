@@ -8,7 +8,7 @@ export const godOfTrash002222LibraryCat = {
   story: "god-of-trash",
   position: 22,
   ownLength: 2828,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-16",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2130672/22-library-cat",

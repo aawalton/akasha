@@ -8,7 +8,7 @@ export const godOfTrash007777DoubleDate = {
   story: "god-of-trash",
   position: 77,
   ownLength: 2405,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-16",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2284485/77-double-date",

@@ -9,7 +9,7 @@ export const gamerGirlEvolution004949TheAncientDragonSovereignOfCurses2 = {
   position: 49,
   ownLength: 1663,
   ownProgress: 1663,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:08.753Z",
   publishedAt: "2026-01-20",
   externalLink:

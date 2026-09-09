@@ -8,7 +8,7 @@ export const forgeOfDestiny0531Threads486Rehearsal = {
   story: "forge-of-destiny",
   position: 531,
   ownLength: 1729,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-02",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2810919/threads-486-rehearsal",

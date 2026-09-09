@@ -8,7 +8,7 @@ export const godOfTrash005050PluckingADiamond = {
   story: "god-of-trash",
   position: 50,
   ownLength: 1876,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-13",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2199348/50-plucking-a-diamond",

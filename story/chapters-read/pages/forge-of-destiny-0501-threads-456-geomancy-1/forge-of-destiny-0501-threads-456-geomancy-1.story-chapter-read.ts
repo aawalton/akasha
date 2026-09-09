@@ -8,7 +8,7 @@ export const forgeOfDestiny0501Threads456Geomancy1 = {
   story: "forge-of-destiny",
   position: 501,
   ownLength: 2484,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-27",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2388509/threads-456-geomancy-1",

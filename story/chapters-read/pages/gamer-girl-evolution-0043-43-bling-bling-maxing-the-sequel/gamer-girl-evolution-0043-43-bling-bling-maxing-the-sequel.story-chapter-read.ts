@@ -9,7 +9,7 @@ export const gamerGirlEvolution004343BlingBlingMaxingTheSequel = {
   position: 43,
   ownLength: 1730,
   ownProgress: 1730,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:57.287Z",
   publishedAt: "2026-01-12",
   externalLink:

@@ -8,7 +8,7 @@ export const godOfTrash004040DiggingThroughTheTrash = {
   story: "god-of-trash",
   position: 40,
   ownLength: 2757,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-03",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2171995/40-digging-through-the-trash",

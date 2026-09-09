@@ -8,7 +8,7 @@ export const forgeOfDestiny0484ThreadsChapter440LessonPlan1 = {
   story: "forge-of-destiny",
   position: 484,
   ownLength: 1768,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-01",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2164772/threads-chapter-440-lesson-plan-1",

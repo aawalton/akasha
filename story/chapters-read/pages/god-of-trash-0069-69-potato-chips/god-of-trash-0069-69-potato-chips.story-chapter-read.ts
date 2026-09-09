@@ -8,7 +8,7 @@ export const godOfTrash006969PotatoChips = {
   story: "god-of-trash",
   position: 69,
   ownLength: 3369,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2265322/69-potato-chips",

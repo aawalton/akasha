@@ -9,7 +9,7 @@ export const gamerGirlEvolution003131SecretStage = {
   position: 31,
   ownLength: 1775,
   ownProgress: 1775,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:34.485Z",
   publishedAt: "2025-11-26",
   externalLink:

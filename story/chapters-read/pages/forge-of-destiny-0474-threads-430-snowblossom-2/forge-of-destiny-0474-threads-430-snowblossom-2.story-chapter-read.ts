@@ -8,7 +8,7 @@ export const forgeOfDestiny0474Threads430Snowblossom2 = {
   story: "forge-of-destiny",
   position: 474,
   ownLength: 1876,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-18",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2073634/threads-430-snowblossom-2",

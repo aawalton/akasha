@@ -9,7 +9,7 @@ export const gamerGirlEvolution005453WithinTheCastleWalls = {
   position: 54,
   ownLength: 1984,
   ownProgress: 765,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-07",
   externalLink:
     "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3243876/53-within-the-castle-walls",

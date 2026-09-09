@@ -8,7 +8,7 @@ export const godOfTrash008383ArchEm = {
   story: "god-of-trash",
   position: 83,
   ownLength: 1915,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-22",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2298327/83-arch-em",

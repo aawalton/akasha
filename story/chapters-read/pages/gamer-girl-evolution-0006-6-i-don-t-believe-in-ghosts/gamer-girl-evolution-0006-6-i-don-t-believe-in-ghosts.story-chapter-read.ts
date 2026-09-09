@@ -9,7 +9,7 @@ export const gamerGirlEvolution00066IDonTBelieveInGhosts = {
   position: 6,
   ownLength: 1519,
   ownProgress: 1519,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:05:47.157Z",
   publishedAt: "2025-09-22",
   externalLink:

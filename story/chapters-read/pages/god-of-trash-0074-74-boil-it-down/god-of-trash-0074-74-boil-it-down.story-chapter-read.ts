@@ -8,7 +8,7 @@ export const godOfTrash007474BoilItDown = {
   story: "god-of-trash",
   position: 74,
   ownLength: 3429,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-13",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2277205/74-boil-it-down",

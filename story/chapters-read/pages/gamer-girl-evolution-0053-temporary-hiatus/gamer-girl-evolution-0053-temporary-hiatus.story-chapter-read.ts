@@ -9,7 +9,7 @@ export const gamerGirlEvolution0053TemporaryHiatus = {
   position: 53,
   ownLength: 100,
   ownProgress: 100,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:16.270Z",
   publishedAt: "2026-02-02",
   externalLink:

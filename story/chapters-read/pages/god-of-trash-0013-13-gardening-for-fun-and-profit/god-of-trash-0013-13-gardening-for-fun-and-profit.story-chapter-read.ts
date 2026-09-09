@@ -8,7 +8,7 @@ export const godOfTrash001313GardeningForFunAndProfit = {
   story: "god-of-trash",
   position: 13,
   ownLength: 1560,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-07",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2112002/13-gardening-for-fun-and-profit",

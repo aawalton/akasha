@@ -8,7 +8,7 @@ export const forgeOfDestiny0444ThreadsChapter400Recovery8 = {
   story: "forge-of-destiny",
   position: 444,
   ownLength: 2406,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-09-17",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1806678/threads-chapter-400-recovery-8",

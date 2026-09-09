@@ -8,7 +8,7 @@ export const forgeOfDestiny0532Threads487Ceremony1 = {
   story: "forge-of-destiny",
   position: 532,
   ownLength: 2128,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-05",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2820070/threads-487-ceremony-1",

@@ -9,7 +9,7 @@ export const gamerGirlEvolution00033BlingBlingMaxing = {
   position: 3,
   ownLength: 1899,
   ownProgress: 1899,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:05:41.168Z",
   publishedAt: "2025-09-22",
   externalLink:

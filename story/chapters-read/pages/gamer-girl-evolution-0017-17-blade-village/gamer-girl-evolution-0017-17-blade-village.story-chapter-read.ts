@@ -9,7 +9,7 @@ export const gamerGirlEvolution001717BladeVillage = {
   position: 17,
   ownLength: 2230,
   ownProgress: 2230,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:07.852Z",
   publishedAt: "2025-10-21",
   externalLink:

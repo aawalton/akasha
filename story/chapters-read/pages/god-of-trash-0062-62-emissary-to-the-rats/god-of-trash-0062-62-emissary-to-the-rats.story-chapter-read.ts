@@ -8,7 +8,7 @@ export const godOfTrash006262EmissaryToTheRats = {
   story: "god-of-trash",
   position: 62,
   ownLength: 2746,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-01",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2247269/62-emissary-to-the-rats",

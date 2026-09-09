@@ -9,7 +9,7 @@ export const gamerGirlEvolution00044JustASkillIssue = {
   position: 4,
   ownLength: 1901,
   ownProgress: 1901,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:05:43.325Z",
   publishedAt: "2025-09-22",
   externalLink:

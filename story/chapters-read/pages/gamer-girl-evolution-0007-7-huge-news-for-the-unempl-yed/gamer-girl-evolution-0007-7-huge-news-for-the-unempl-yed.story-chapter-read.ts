@@ -9,7 +9,7 @@ export const gamerGirlEvolution00077HugeNewsForTheUnemplYed = {
   position: 7,
   ownLength: 1776,
   ownProgress: 1776,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:05:49.008Z",
   publishedAt: "2025-09-22",
   externalLink:

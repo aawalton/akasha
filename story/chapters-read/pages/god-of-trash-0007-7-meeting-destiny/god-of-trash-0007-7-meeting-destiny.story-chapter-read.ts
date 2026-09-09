@@ -8,7 +8,7 @@ export const godOfTrash00077MeetingDestiny = {
   story: "god-of-trash",
   position: 7,
   ownLength: 3626,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-01",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2097601/7-meeting-destiny",

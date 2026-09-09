@@ -8,7 +8,7 @@ export const forgeOfDestiny0505ThreadsChapter460Roadtrip2 = {
   story: "forge-of-destiny",
   position: 505,
   ownLength: 2370,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-15",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2437480/threads-chapter-460-roadtrip-2",

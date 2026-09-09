@@ -8,7 +8,7 @@ export const gamerGirlEvolution005554WhenOneDoorCloses = {
   story: "gamer-girl-evolution",
   position: 55,
   ownLength: 1584,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-08",
   externalLink:
     "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3248297/54-when-one-door-closes",

@@ -8,7 +8,7 @@ export const godOfTrash007171GreatTractsOfLand = {
   story: "god-of-trash",
   position: 71,
   ownLength: 1938,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-10",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2270052/71-great-tracts-of-land",

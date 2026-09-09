@@ -8,7 +8,7 @@ export const godOfTrash006464UnderTheMask = {
   story: "god-of-trash",
   position: 64,
   ownLength: 3252,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-03",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2252513/64-under-the-mask",

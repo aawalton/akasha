@@ -9,7 +9,7 @@ export const gamerGirlEvolution002525TheMistMilitaryOutpost2 = {
   position: 25,
   ownLength: 2016,
   ownProgress: 2016,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:23.099Z",
   publishedAt: "2025-10-30",
   externalLink:

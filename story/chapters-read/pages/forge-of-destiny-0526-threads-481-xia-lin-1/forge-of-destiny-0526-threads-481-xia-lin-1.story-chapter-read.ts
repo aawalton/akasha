@@ -8,7 +8,7 @@ export const forgeOfDestiny0526Threads481XiaLin1 = {
   story: "forge-of-destiny",
   position: 526,
   ownLength: 1596,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-31",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2718384/threads-481-xia-lin-1",

@@ -8,7 +8,7 @@ export const forgeOfDestiny0434Threads391NewPeace2 = {
   story: "forge-of-destiny",
   position: 434,
   ownLength: 1674,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-18",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1723010/threads-391-new-peace-2",

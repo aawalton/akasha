@@ -8,7 +8,7 @@ export const godOfTrash0103103CursedHoles = {
   story: "god-of-trash",
   position: 103,
   ownLength: 2393,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-11",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2349126/103-cursed-holes",

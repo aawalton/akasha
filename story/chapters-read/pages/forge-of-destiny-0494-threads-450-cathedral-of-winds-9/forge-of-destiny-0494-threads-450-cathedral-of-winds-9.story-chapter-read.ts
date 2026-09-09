@@ -8,7 +8,7 @@ export const forgeOfDestiny0494Threads450CathedralOfWinds9 = {
   story: "forge-of-destiny",
   position: 494,
   ownLength: 1480,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-20",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2291942/threads-450-cathedral-of-winds-9",

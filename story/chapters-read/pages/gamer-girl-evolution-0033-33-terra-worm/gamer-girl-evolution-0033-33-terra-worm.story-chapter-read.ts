@@ -9,7 +9,7 @@ export const gamerGirlEvolution003333TerraWorm = {
   position: 33,
   ownLength: 1428,
   ownProgress: 1428,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:38.301Z",
   publishedAt: "2025-11-28",
   externalLink:

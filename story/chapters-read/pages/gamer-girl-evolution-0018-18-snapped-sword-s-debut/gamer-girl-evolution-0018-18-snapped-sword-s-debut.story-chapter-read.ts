@@ -9,7 +9,7 @@ export const gamerGirlEvolution001818SnappedSwordSDebut = {
   position: 18,
   ownLength: 2408,
   ownProgress: 2408,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:09.802Z",
   publishedAt: "2025-10-22",
   externalLink:

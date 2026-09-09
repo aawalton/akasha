@@ -9,7 +9,7 @@ export const gamerGirlEvolution004545TheEonianKing = {
   position: 45,
   ownLength: 1492,
   ownProgress: 1492,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:01.175Z",
   publishedAt: "2026-01-14",
   externalLink:

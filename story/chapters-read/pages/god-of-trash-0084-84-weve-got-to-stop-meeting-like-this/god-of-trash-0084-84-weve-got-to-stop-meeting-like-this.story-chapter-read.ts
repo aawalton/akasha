@@ -8,7 +8,7 @@ export const godOfTrash008484WeveGotToStopMeetingLikeThis = {
   story: "god-of-trash",
   position: 84,
   ownLength: 2375,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-23",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2301027/84-weve-got-to-stop-meeting-like-this",

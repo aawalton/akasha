@@ -8,7 +8,7 @@ export const godOfTrash008282FirstMatch = {
   story: "god-of-trash",
   position: 82,
   ownLength: 3040,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-21",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2296030/82-first-match",

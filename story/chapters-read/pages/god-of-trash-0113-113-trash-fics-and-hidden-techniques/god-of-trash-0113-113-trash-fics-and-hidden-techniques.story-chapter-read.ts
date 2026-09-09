@@ -8,7 +8,7 @@ export const godOfTrash0113113TrashFicsAndHiddenTechniques = {
   story: "god-of-trash",
   position: 113,
   ownLength: 2141,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-27",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2390544/113-trash-fics-and-hidden-techniques",

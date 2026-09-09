@@ -8,7 +8,7 @@ export const godOfTrash00088ThePassageOfTime = {
   story: "god-of-trash",
   position: 8,
   ownLength: 3906,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-02",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2099499/8-the-passage-of-time",

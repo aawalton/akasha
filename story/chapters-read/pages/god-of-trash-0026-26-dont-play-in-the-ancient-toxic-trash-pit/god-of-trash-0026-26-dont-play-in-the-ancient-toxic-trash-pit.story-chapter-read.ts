@@ -8,7 +8,7 @@ export const godOfTrash002626DontPlayInTheAncientToxicTrashPit = {
   story: "god-of-trash",
   position: 26,
   ownLength: 3815,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-20",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2139744/26-dont-play-in-the-ancient-toxic-trash-pit",

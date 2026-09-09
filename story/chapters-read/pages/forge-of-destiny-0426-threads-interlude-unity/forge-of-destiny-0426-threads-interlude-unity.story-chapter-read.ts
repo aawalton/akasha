@@ -8,7 +8,7 @@ export const forgeOfDestiny0426ThreadsInterludeUnity = {
   story: "forge-of-destiny",
   position: 426,
   ownLength: 2473,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-06-13",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1675853/threads-interlude-unity",

@@ -8,7 +8,7 @@ export const forgeOfDestiny0522Threads477Grudge1 = {
   story: "forge-of-destiny",
   position: 522,
   ownLength: 1992,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-10-03",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2647198/threads-477-grudge-1",

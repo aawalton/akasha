@@ -9,7 +9,7 @@ export const gamerGirlEvolution004040TheReturn = {
   position: 40,
   ownLength: 1642,
   ownProgress: 1642,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:51.641Z",
   publishedAt: "2026-01-07",
   externalLink:

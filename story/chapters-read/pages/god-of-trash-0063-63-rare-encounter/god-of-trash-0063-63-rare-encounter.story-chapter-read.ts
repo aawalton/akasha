@@ -8,7 +8,7 @@ export const godOfTrash006363RareEncounter = {
   story: "god-of-trash",
   position: 63,
   ownLength: 3944,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-02",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2250154/63-rare-encounter",

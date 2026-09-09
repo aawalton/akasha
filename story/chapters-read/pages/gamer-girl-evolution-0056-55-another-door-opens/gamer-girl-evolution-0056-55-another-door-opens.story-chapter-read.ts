@@ -8,7 +8,7 @@ export const gamerGirlEvolution005655AnotherDoorOpens = {
   story: "gamer-girl-evolution",
   position: 56,
   ownLength: 1446,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-10",
   externalLink:
     "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3256505/55-another-door-opens",

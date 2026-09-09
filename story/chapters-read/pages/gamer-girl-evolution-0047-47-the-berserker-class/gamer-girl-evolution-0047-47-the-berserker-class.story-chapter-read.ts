@@ -9,7 +9,7 @@ export const gamerGirlEvolution004747TheBerserkerClass = {
   position: 47,
   ownLength: 1624,
   ownProgress: 1624,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:05.044Z",
   publishedAt: "2026-01-16",
   externalLink:

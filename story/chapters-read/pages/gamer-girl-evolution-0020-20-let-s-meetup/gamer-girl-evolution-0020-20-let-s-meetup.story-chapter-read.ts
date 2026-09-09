@@ -9,7 +9,7 @@ export const gamerGirlEvolution002020LetSMeetup = {
   position: 20,
   ownLength: 1770,
   ownProgress: 1770,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:13.585Z",
   publishedAt: "2025-10-23",
   externalLink:

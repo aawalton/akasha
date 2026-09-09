@@ -8,7 +8,7 @@ export const forgeOfDestiny0480Threads436Green5 = {
   story: "forge-of-destiny",
   position: 480,
   ownLength: 1957,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-18",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2133662/threads-436-green-5",

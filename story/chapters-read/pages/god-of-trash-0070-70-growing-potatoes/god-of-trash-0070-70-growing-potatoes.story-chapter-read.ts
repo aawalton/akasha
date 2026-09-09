@@ -8,7 +8,7 @@ export const godOfTrash007070GrowingPotatoes = {
   story: "god-of-trash",
   position: 70,
   ownLength: 2130,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-09",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2267737/70-growing-potatoes",

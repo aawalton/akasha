@@ -9,7 +9,7 @@ export const gamerGirlEvolution002121LetSExploreMarshia = {
   position: 21,
   ownLength: 2041,
   ownProgress: 2041,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:15.489Z",
   publishedAt: "2025-10-24",
   externalLink:

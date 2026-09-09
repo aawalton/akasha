@@ -8,7 +8,7 @@ export const godOfTrash009393SmallChatsWithASmallCat = {
   story: "god-of-trash",
   position: 93,
   ownLength: 2688,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-01",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2322752/93-small-chats-with-a-small-cat",

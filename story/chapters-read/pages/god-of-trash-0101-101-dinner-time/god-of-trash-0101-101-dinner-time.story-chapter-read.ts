@@ -8,7 +8,7 @@ export const godOfTrash0101101DinnerTime = {
   story: "god-of-trash",
   position: 101,
   ownLength: 3471,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-09",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2343409/101-dinner-time",

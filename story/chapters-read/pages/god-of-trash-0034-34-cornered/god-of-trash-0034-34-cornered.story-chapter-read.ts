@@ -8,7 +8,7 @@ export const godOfTrash003434Cornered = {
   story: "god-of-trash",
   position: 34,
   ownLength: 2591,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-28",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2157727/34-cornered",

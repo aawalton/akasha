@@ -9,7 +9,7 @@ export const gamerGirlEvolution001515TheCyclopsMarsh1 = {
   position: 15,
   ownLength: 1835,
   ownProgress: 1835,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:04.118Z",
   publishedAt: "2025-10-17",
   externalLink:

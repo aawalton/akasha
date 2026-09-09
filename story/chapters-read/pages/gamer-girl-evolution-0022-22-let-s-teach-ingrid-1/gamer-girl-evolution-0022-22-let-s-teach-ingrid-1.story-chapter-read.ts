@@ -9,7 +9,7 @@ export const gamerGirlEvolution002222LetSTeachIngrid1 = {
   position: 22,
   ownLength: 1974,
   ownProgress: 1974,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:17.354Z",
   publishedAt: "2025-10-27",
   externalLink:

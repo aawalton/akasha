@@ -8,7 +8,7 @@ export const forgeOfDestiny0541LaunchDay = {
   story: "forge-of-destiny",
   position: 541,
   ownLength: 119,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-20",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2961417/launch-day",

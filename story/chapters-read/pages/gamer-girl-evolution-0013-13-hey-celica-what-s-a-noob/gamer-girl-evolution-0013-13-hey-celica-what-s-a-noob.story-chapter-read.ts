@@ -9,7 +9,7 @@ export const gamerGirlEvolution001313HeyCelicaWhatSANoob = {
   position: 13,
   ownLength: 1678,
   ownProgress: 1678,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:00.242Z",
   publishedAt: "2025-10-01",
   externalLink:

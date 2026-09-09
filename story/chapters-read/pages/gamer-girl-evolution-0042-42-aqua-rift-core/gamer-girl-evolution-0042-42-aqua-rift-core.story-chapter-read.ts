@@ -9,7 +9,7 @@ export const gamerGirlEvolution004242AquaRiftCore = {
   position: 42,
   ownLength: 1530,
   ownProgress: 1530,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:55.374Z",
   publishedAt: "2026-01-09",
   externalLink:

@@ -8,7 +8,7 @@ export const godOfTrash007676ProblemCustomers = {
   story: "god-of-trash",
   position: 76,
   ownLength: 2904,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2281919/76-problem-customers",

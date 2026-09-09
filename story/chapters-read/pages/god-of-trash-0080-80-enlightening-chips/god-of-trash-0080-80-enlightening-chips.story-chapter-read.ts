@@ -8,7 +8,7 @@ export const godOfTrash008080EnlighteningChips = {
   story: "god-of-trash",
   position: 80,
   ownLength: 2003,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-19",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2291354/80-enlightening-chips",

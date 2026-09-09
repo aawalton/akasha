@@ -8,7 +8,7 @@ export const godOfTrash006868PohTayToes = {
   story: "god-of-trash",
   position: 68,
   ownLength: 3611,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-07",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2263089/68-poh-tay-toes",

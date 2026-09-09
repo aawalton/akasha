@@ -8,7 +8,7 @@ export const godOfTrash00099AForkInTheRoad = {
   story: "god-of-trash",
   position: 9,
   ownLength: 4436,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-03",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2101810/9-a-fork-in-the-road",

@@ -8,7 +8,7 @@ export const godOfTrash007979BellyOfTheBeast = {
   story: "god-of-trash",
   position: 79,
   ownLength: 2407,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-18",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2289041/79-belly-of-the-beast",

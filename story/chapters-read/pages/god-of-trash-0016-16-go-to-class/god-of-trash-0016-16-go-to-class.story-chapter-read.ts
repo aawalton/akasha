@@ -8,7 +8,7 @@ export const godOfTrash001616GoToClass = {
   story: "god-of-trash",
   position: 16,
   ownLength: 2293,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-10",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2118174/16-go-to-class",

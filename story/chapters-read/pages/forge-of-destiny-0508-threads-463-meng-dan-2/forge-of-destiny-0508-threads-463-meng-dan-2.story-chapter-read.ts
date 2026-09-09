@@ -8,7 +8,7 @@ export const forgeOfDestiny0508Threads463MengDan2 = {
   story: "forge-of-destiny",
   position: 508,
   ownLength: 1982,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-25",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2463883/threads-463-meng-dan-2",

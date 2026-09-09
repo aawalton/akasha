@@ -8,7 +8,7 @@ export const godOfTrash00055Scalping = {
   story: "god-of-trash",
   position: 5,
   ownLength: 4113,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-27",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2093534/5-scalping",

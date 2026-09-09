@@ -8,7 +8,7 @@ export const godOfTrash006565SmeltingAndForging = {
   story: "god-of-trash",
   position: 65,
   ownLength: 2215,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-04",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2255078/65-smelting-and-forging",

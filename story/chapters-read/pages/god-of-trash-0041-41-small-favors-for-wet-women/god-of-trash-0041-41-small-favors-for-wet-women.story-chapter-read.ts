@@ -8,7 +8,7 @@ export const godOfTrash004141SmallFavorsForWetWomen = {
   story: "god-of-trash",
   position: 41,
   ownLength: 2619,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-04",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2174917/41-small-favors-for-wet-women",

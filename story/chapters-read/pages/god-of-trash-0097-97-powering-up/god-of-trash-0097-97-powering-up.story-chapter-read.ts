@@ -8,7 +8,7 @@ export const godOfTrash009797PoweringUp = {
   story: "god-of-trash",
   position: 97,
   ownLength: 2276,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-05",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2333403/97-powering-up",

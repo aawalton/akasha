@@ -8,7 +8,7 @@ export const forgeOfDestiny0467Threads423Shenglu2 = {
   story: "forge-of-destiny",
   position: 467,
   ownLength: 1856,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-16",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2013895/threads-423-shenglu-2",

@@ -9,7 +9,7 @@ export const gamerGirlEvolution00088WeDoALittleBitOfTrolling = {
   position: 8,
   ownLength: 2745,
   ownProgress: 2745,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:05:50.915Z",
   publishedAt: "2025-09-22",
   externalLink:

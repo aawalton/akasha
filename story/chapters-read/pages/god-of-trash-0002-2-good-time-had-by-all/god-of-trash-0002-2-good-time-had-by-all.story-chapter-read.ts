@@ -8,7 +8,7 @@ export const godOfTrash00022GoodTimeHadByAll = {
   story: "god-of-trash",
   position: 2,
   ownLength: 4677,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-02-27",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2092907/2-good-time-had-by-all",

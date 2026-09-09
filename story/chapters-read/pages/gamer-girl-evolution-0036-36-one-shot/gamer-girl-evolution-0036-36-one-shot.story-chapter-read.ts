@@ -9,7 +9,7 @@ export const gamerGirlEvolution003636OneShot = {
   position: 36,
   ownLength: 1674,
   ownProgress: 1674,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:44.039Z",
   publishedAt: "2025-12-03",
   externalLink:

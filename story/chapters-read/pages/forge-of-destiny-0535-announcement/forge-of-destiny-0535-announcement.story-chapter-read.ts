@@ -8,7 +8,7 @@ export const forgeOfDestiny0535Announcement = {
   story: "forge-of-destiny",
   position: 535,
   ownLength: 229,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-12-19",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2862944/announcement",

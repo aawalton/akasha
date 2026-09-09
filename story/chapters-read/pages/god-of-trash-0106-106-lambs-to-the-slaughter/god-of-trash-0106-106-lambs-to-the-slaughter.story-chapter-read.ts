@@ -8,7 +8,7 @@ export const godOfTrash0106106LambsToTheSlaughter = {
   story: "god-of-trash",
   position: 106,
   ownLength: 2107,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-20",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2372460/106-lambs-to-the-slaughter",

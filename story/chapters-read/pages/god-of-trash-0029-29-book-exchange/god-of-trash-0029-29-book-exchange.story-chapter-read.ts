@@ -8,7 +8,7 @@ export const godOfTrash002929BookExchange = {
   story: "god-of-trash",
   position: 29,
   ownLength: 2206,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-23",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2146251/29-book-exchange",

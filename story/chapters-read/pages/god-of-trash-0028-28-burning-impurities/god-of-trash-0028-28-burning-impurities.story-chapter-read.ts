@@ -8,7 +8,7 @@ export const godOfTrash002828BurningImpurities = {
   story: "god-of-trash",
   position: 28,
   ownLength: 3086,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-22",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2144289/28-burning-impurities",

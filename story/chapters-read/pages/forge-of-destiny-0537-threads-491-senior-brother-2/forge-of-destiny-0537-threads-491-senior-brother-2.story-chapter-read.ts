@@ -8,7 +8,7 @@ export const forgeOfDestiny0537Threads491SeniorBrother2 = {
   story: "forge-of-destiny",
   position: 537,
   ownLength: 2462,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-01-09",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2925314/threads-491-senior-brother-2",

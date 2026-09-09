@@ -8,7 +8,7 @@ export const godOfTrash009999VitalTomatoes = {
   story: "god-of-trash",
   position: 99,
   ownLength: 2261,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-07",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2338408/99-vital-tomatoes",

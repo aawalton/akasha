@@ -8,7 +8,7 @@ export const godOfTrash005757PleaseExplain = {
   story: "god-of-trash",
   position: 57,
   ownLength: 1255,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-20",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2217708/57-please-explain",

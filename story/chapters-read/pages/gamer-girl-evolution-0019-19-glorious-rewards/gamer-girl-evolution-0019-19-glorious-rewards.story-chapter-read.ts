@@ -9,7 +9,7 @@ export const gamerGirlEvolution001919GloriousRewards = {
   position: 19,
   ownLength: 2190,
   ownProgress: 2190,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:11.665Z",
   publishedAt: "2025-10-23",
   externalLink:

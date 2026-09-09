@@ -8,7 +8,7 @@ export const godOfTrash0108108PitifulHeavens = {
   story: "god-of-trash",
   position: 108,
   ownLength: 1523,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-22",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2377356/108-pitiful-heavens",

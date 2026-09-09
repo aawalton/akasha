@@ -9,7 +9,7 @@ export const gamerGirlEvolution003535TheGraveDigger = {
   position: 35,
   ownLength: 1610,
   ownProgress: 1610,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:42.122Z",
   publishedAt: "2025-12-02",
   externalLink:

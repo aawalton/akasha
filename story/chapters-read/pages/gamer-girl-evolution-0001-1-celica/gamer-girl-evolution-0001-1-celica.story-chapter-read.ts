@@ -9,7 +9,7 @@ export const gamerGirlEvolution00011Celica = {
   position: 1,
   ownLength: 1641,
   ownProgress: 1641,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:05:37.327Z",
   publishedAt: "2025-09-22",
   externalLink:

@@ -8,7 +8,7 @@ export const forgeOfDestiny0551Volume3Relaunch = {
   story: "forge-of-destiny",
   position: 551,
   ownLength: 92,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-02-25",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3091337/volume-3-relaunch",

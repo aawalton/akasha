@@ -8,7 +8,7 @@ export const godOfTrash0102102TheQuietBeforeTheStorm = {
   story: "god-of-trash",
   position: 102,
   ownLength: 2148,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-10",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2346303/102-the-quiet-before-the-storm",

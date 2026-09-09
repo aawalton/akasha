@@ -9,7 +9,7 @@ export const gamerGirlEvolution001111TheOpportunityOfALifetime = {
   position: 11,
   ownLength: 1789,
   ownProgress: 1789,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:05:56.444Z",
   publishedAt: "2025-09-25",
   externalLink:

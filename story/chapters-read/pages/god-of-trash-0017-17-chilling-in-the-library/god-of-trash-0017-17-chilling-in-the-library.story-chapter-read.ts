@@ -8,7 +8,7 @@ export const godOfTrash001717ChillingInTheLibrary = {
   story: "god-of-trash",
   position: 17,
   ownLength: 2140,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-11",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2120409/17-chilling-in-the-library",

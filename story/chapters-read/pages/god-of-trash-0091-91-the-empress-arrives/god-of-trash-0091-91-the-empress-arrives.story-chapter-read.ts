@@ -8,7 +8,7 @@ export const godOfTrash009191TheEmpressArrives = {
   story: "god-of-trash",
   position: 91,
   ownLength: 2177,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-30",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2317834/91-the-empress-arrives",

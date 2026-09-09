@@ -8,7 +8,7 @@ export const forgeOfDestiny0568ThreadsChapter519Borders3 = {
   story: "forge-of-destiny",
   position: 568,
   ownLength: 2158,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-15",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3397639/threads-chapter-519-borders-3",

@@ -8,7 +8,7 @@ export const forgeOfDestiny0498ThreadsChapter453Shell1 = {
   story: "forge-of-destiny",
   position: 498,
   ownLength: 2237,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-13",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2352259/threads-chapter-453-shell-1",

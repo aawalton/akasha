@@ -8,7 +8,7 @@ export const gamerGirlEvolution005756TheDoorWhichShouldNotHaveOpened = {
   story: "gamer-girl-evolution",
   position: 57,
   ownLength: 1879,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-08",
   externalLink:
     "https://www.royalroad.com/fiction/130828/gamer-girl-evolution/chapter/3371314/56-the-door-which-should-not-have-opened",

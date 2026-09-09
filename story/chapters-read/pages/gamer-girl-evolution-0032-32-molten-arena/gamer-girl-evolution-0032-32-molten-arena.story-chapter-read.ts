@@ -9,7 +9,7 @@ export const gamerGirlEvolution003232MoltenArena = {
   position: 32,
   ownLength: 1856,
   ownProgress: 1856,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:36.390Z",
   publishedAt: "2025-11-27",
   externalLink:

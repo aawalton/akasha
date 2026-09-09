@@ -8,7 +8,7 @@ export const godOfTrash008585Supernova = {
   story: "god-of-trash",
   position: 85,
   ownLength: 2310,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-24",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2303303/85-supernova",

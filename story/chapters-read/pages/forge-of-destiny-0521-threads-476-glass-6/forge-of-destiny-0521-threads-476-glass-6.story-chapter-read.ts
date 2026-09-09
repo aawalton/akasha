@@ -8,7 +8,7 @@ export const forgeOfDestiny0521Threads476Glass6 = {
   story: "forge-of-destiny",
   position: 521,
   ownLength: 1604,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-09-30",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2639469/threads-476--glass-6",

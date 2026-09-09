@@ -8,7 +8,7 @@ export const forgeOfDestiny0432Threads389MakingGood2 = {
   story: "forge-of-destiny",
   position: 432,
   ownLength: 1868,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1704996/threads-389-making-good-2",

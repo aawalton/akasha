@@ -8,7 +8,7 @@ export const forgeOfDestiny0590ThreadsChapter541Fantasia4 = {
   story: "forge-of-destiny",
   position: 590,
   ownLength: 2160,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-28",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3875197/threads-chapter-541-fantasia-4",

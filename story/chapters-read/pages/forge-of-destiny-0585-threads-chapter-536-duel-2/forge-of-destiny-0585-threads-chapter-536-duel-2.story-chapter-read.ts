@@ -8,7 +8,7 @@ export const forgeOfDestiny0585ThreadsChapter536Duel2 = {
   story: "forge-of-destiny",
   position: 585,
   ownLength: 1868,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3798110/threads-chapter-536-duel-2",

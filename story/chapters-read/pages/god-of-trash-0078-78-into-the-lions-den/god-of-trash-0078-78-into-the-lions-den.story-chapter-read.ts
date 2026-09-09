@@ -8,7 +8,7 @@ export const godOfTrash007878IntoTheLionsDen = {
   story: "god-of-trash",
   position: 78,
   ownLength: 3873,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-17",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2286972/78-into-the-lions-den",

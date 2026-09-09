@@ -8,7 +8,7 @@ export const forgeOfDestiny0496BonusChapterWelcomeToTheJungleEverythingYou = {
   story: "forge-of-destiny",
   position: 496,
   ownLength: 1238,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-03",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2325988/bonus-chapter-welcome-to-the-jungle-everything",

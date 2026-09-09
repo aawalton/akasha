@@ -8,7 +8,7 @@ export const godOfTrash002121AskingForABeating = {
   story: "god-of-trash",
   position: 21,
   ownLength: 2418,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-15",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2128746/21-asking-for-a-beating",

@@ -8,7 +8,7 @@ export const godOfTrash001515ANaturalAlliance = {
   story: "god-of-trash",
   position: 15,
   ownLength: 2760,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-09",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2115909/15-a-natural-alliance",

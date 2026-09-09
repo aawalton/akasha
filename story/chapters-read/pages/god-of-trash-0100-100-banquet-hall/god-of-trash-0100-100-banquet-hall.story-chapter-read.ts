@@ -8,7 +8,7 @@ export const godOfTrash0100100BanquetHall = {
   story: "god-of-trash",
   position: 100,
   ownLength: 2212,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-08",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2340717/100-banquet-hall",

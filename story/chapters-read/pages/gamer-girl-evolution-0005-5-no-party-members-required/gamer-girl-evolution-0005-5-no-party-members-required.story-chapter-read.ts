@@ -9,7 +9,7 @@ export const gamerGirlEvolution00055NoPartyMembersRequired = {
   position: 5,
   ownLength: 2062,
   ownProgress: 2062,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:05:45.241Z",
   publishedAt: "2025-09-22",
   externalLink:

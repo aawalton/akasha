@@ -8,7 +8,7 @@ export const forgeOfDestiny0578Threads529Lakeside4 = {
   story: "forge-of-destiny",
   position: 578,
   ownLength: 2143,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-06-26",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3592064/threads-529-lakeside-4",

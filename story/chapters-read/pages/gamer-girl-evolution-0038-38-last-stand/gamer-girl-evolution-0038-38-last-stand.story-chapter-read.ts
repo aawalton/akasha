@@ -9,7 +9,7 @@ export const gamerGirlEvolution003838LastStand = {
   position: 38,
   ownLength: 1905,
   ownProgress: 1905,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:47.936Z",
   publishedAt: "2026-01-05",
   externalLink:

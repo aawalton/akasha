@@ -8,7 +8,7 @@ export const forgeOfDestiny0514Threads469Revelry3 = {
   story: "forge-of-destiny",
   position: 514,
   ownLength: 2062,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-08-22",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2537517/threads-469-revelry-3",

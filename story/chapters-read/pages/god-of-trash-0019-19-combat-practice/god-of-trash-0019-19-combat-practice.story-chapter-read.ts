@@ -8,7 +8,7 @@ export const godOfTrash001919CombatPractice = {
   story: "god-of-trash",
   position: 19,
   ownLength: 2456,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-13",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2124569/19-combat-practice",

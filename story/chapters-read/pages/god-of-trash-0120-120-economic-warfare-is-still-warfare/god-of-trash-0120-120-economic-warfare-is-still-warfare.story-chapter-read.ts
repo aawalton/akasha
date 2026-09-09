@@ -8,7 +8,7 @@ export const godOfTrash0120120EconomicWarfareIsStillWarfare = {
   story: "god-of-trash",
   position: 120,
   ownLength: 2816,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-04",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2409564/120-economic-warfare-is-still-warfare",

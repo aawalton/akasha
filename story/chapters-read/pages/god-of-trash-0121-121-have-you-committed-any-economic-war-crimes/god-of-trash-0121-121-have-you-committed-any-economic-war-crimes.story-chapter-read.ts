@@ -8,7 +8,7 @@ export const godOfTrash0121121HaveYouCommittedAnyEconomicWarCrimes = {
   story: "god-of-trash",
   position: 121,
   ownLength: 2050,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-05",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2411974/121-have-you-committed-any-economic-war-crimes",

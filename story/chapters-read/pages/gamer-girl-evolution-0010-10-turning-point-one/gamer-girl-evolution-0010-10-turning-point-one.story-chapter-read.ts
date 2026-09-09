@@ -9,7 +9,7 @@ export const gamerGirlEvolution001010TurningPointOne = {
   position: 10,
   ownLength: 2511,
   ownProgress: 2511,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:05:54.525Z",
   publishedAt: "2025-09-22",
   externalLink:

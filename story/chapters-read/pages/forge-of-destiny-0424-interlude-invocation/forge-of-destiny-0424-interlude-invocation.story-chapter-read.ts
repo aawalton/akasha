@@ -8,7 +8,7 @@ export const forgeOfDestiny0424InterludeInvocation = {
   story: "forge-of-destiny",
   position: 424,
   ownLength: 1665,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2024-05-30",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1657520/interlude-invocation",

@@ -8,7 +8,7 @@ export const godOfTrash002424DeliveringTheFlower = {
   story: "god-of-trash",
   position: 24,
   ownLength: 2562,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-18",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2135332/24-delivering-the-flower",

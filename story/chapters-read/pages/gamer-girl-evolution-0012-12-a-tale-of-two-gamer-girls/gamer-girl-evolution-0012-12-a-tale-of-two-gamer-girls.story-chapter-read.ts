@@ -9,7 +9,7 @@ export const gamerGirlEvolution001212ATaleOfTwoGamerGirls = {
   position: 12,
   ownLength: 1969,
   ownProgress: 1969,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:05:58.351Z",
   publishedAt: "2025-09-28",
   externalLink:

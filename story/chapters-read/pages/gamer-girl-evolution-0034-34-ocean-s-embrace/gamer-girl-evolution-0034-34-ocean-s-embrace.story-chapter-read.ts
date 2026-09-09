@@ -9,7 +9,7 @@ export const gamerGirlEvolution003434OceanSEmbrace = {
   position: 34,
   ownLength: 1559,
   ownProgress: 1559,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:40.206Z",
   publishedAt: "2025-12-01",
   externalLink:

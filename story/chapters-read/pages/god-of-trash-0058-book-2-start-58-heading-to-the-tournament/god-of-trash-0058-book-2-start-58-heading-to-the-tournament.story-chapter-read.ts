@@ -8,7 +8,7 @@ export const godOfTrash0058Book2Start58HeadingToTheTournament = {
   story: "god-of-trash",
   position: 58,
   ownLength: 2242,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-04-27",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2235935/book-2-start-58-heading-to-the-tournament",

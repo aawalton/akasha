@@ -8,7 +8,7 @@ export const godOfTrash0118118TheMostFunYouCanHaveOutsideOfALibrary = {
   story: "god-of-trash",
   position: 118,
   ownLength: 2654,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-02",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2404074/118-the-most-fun-you-can-have-outside-of-a-library",

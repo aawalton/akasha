@@ -8,7 +8,7 @@ export const forgeOfDestiny0571ThreadsChapter522DeepFire3 = {
   story: "forge-of-destiny",
   position: 571,
   ownLength: 2253,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-05-26",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3446970/threads-chapter-522--deep-fire-3",

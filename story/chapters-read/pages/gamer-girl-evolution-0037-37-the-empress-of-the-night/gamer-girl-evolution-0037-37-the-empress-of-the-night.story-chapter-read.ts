@@ -9,7 +9,7 @@ export const gamerGirlEvolution003737TheEmpressOfTheNight = {
   position: 37,
   ownLength: 1558,
   ownProgress: 1558,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:46.003Z",
   publishedAt: "2025-12-04",
   externalLink:

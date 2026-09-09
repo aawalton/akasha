@@ -8,7 +8,7 @@ export const godOfTrash0110110NewHideout = {
   story: "god-of-trash",
   position: 110,
   ownLength: 2272,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-24",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2382685/110-new-hideout",

@@ -8,7 +8,7 @@ export const forgeOfDestiny0502Threads457Sincerity1 = {
   story: "forge-of-destiny",
   position: 502,
   ownLength: 1807,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-07-01",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/2399080/threads-457-sincerity-1",

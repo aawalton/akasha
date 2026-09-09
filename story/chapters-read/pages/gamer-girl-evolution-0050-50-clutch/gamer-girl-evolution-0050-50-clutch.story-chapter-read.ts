@@ -9,7 +9,7 @@ export const gamerGirlEvolution005050Clutch = {
   position: 50,
   ownLength: 2415,
   ownProgress: 2415,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:10.664Z",
   publishedAt: "2026-01-21",
   externalLink:

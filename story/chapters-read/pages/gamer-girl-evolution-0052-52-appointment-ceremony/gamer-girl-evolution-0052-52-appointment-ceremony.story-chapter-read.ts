@@ -9,7 +9,7 @@ export const gamerGirlEvolution005252AppointmentCeremony = {
   position: 52,
   ownLength: 1916,
   ownProgress: 1916,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:07:14.446Z",
   publishedAt: "2026-01-23",
   externalLink:

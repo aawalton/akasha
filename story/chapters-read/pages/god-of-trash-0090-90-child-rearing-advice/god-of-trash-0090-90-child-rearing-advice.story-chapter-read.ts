@@ -8,7 +8,7 @@ export const godOfTrash009090ChildRearingAdvice = {
   story: "god-of-trash",
   position: 90,
   ownLength: 2853,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-29",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2315156/90-child-rearing-advice",

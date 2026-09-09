@@ -8,7 +8,7 @@ export const godOfTrash008888SurelyAYoungMaster = {
   story: "god-of-trash",
   position: 88,
   ownLength: 2118,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-05-27",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2310144/88-surely-a-young-master",

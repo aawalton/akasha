@@ -8,7 +8,7 @@ export const forgeOfDestiny0564ThreadsChapter515Homecoming3 = {
   story: "forge-of-destiny",
   position: 564,
   ownLength: 1887,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-04-21",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/3299087/threads-chapter-515-homecoming-3",

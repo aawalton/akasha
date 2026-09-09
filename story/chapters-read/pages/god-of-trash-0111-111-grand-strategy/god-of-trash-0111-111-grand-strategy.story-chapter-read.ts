@@ -8,7 +8,7 @@ export const godOfTrash0111111GrandStrategy = {
   story: "god-of-trash",
   position: 111,
   ownLength: 2230,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-25",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2385216/111-grand-strategy",

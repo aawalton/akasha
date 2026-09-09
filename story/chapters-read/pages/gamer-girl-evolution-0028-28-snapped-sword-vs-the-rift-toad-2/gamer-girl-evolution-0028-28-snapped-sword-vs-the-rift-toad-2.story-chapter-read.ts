@@ -9,7 +9,7 @@ export const gamerGirlEvolution002828SnappedSwordVsTheRiftToad2 = {
   position: 28,
   ownLength: 1324,
   ownProgress: 1324,
-  unitSlug: "words",
+  unit: "words",
   completedAt: "2026-06-29T20:06:28.737Z",
   publishedAt: "2025-11-21",
   externalLink:

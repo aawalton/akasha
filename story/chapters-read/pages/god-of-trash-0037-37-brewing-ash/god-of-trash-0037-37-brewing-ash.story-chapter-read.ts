@@ -8,7 +8,7 @@ export const godOfTrash003737BrewingAsh = {
   story: "god-of-trash",
   position: 37,
   ownLength: 2181,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-03-31",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2164185/37-brewing-ash",

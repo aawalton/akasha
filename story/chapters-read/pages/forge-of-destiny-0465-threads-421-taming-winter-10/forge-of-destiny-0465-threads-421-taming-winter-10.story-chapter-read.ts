@@ -8,7 +8,7 @@ export const forgeOfDestiny0465Threads421TamingWinter10 = {
   story: "forge-of-destiny",
   position: 465,
   ownLength: 1813,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-01-03",
   externalLink:
     "https://www.royalroad.com/fiction/21188/forge-of-destiny/chapter/1988875/threads-421-taming-winter-10",

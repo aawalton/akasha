@@ -8,7 +8,7 @@ export const godOfTrash0105105OverthrowingPrison = {
   story: "god-of-trash",
   position: 105,
   ownLength: 2113,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2025-06-19",
   externalLink:
     "https://www.royalroad.com/fiction/107252/god-of-trash-cultivation-litrpg-from-trash-tier/chapter/2369559/105-overthrowing-prison",
