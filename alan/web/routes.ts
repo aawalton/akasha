@@ -19,7 +19,7 @@ export default [
   route("sign-up", "routes/sign-up.tsx"),
   route("sign-out", "routes/sign-out.ts"),
   route("idle", "routes/idle.ts"),
-  route("api/health", "routes/api.health.ts"),
+  route("api/health", "routes/alan-web-api-health/alan-web-api-health.route.code.ts"),
   route("api/pages-ready", "routes/pages-ready/pages-ready.route.code.ts"),
   route("api/live-version", "routes/api.live-version.ts"),
   route("api/errors", "routes/api.errors.ts"),
