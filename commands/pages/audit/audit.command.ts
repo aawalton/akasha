@@ -23,9 +23,9 @@ export const audit = {
     "a run where no named file is a check's input is refused rather than answered clean.",
     "a run narrowed by --file-path says nothing about the files that run did not judge.",
     "it writes nothing, and holds nothing still while it runs.",
-    "one whole run peaks above 20 GB for about eight minutes, measured 2026-09-04 at 21 GB and 8m25s.",
+    "a bare run judges by the checks stating the audit phase, and that is one today, measured 2026-09-09 at 732 MB and 4.1s over 122262 files.",
     "--check narrows which checks run rather than which files they see, so the cost sits in which checks run.",
-    "one cheap check over every file costs about 1.5 GB and 12 seconds, and typecheck alone is most of a whole run.",
+    "a check forced by name over every file measured 620 MB and 4.5s at the cheapest and 47s at the slowest, on 2026-09-08 and 09.",
     "a seat runs it in the background and a subagent does not run it at all, several at once costing the swarm its model service.",
   ],
   invariants: [
