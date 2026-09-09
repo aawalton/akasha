@@ -1,11 +1,11 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-types/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { HOSTNAME_KEY } from "akasha/infrastructure/cluster/k8s-types/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-types/k8s-namespace/k8s-namespace.module.code.ts"
-import { masterDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
 import {
   backupPvcYaml,
   backupPvYaml,
-} from "../seaweedfs-backup-manifests/seaweedfs-backup-manifests.module.code.ts"
+} from "../backup-manifests/seaweedfs-backup-manifests.module.code.ts"
+import { masterDeploymentYaml } from "../deployments/seaweedfs-deployments.module.code.ts"
 import {
   COMPONENT_MASTER,
   componentLabels,

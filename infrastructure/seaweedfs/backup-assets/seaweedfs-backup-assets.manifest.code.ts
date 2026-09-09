@@ -1,9 +1,9 @@
-import { namespaceYaml } from "../namespace/seaweedfs-namespace.module.code.ts"
 import {
   backupPvcYaml,
   backupPvYaml,
   COMPONENT_BACKUP,
-} from "../seaweedfs-backup-manifests/seaweedfs-backup-manifests.module.code.ts"
+} from "../backup-manifests/seaweedfs-backup-manifests.module.code.ts"
+import { namespaceYaml } from "../namespace/seaweedfs-namespace.module.code.ts"
 import {
   ASSETS_NAMESPACE,
   backupAssetsCronJobYaml,
