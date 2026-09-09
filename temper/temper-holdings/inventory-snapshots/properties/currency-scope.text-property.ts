@@ -5,6 +5,7 @@ export type CurrencyScope = string
 export const currencyScope = {
   id: "01a0675a-f185-7129-990f-a2084aecc2dc",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "currency-scope",
   propertySlug: "scope",
   definition: "how widely a purse reaches across an account",

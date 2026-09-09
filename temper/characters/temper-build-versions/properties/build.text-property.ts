@@ -5,6 +5,7 @@ export type Build = string
 export const build = {
   id: "01a0685d-89aa-749c-b7bc-b0f638217233",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "build",
   propertySlug: "build",
   definition: "the build a version was taken of",

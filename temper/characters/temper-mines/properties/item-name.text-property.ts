@@ -5,6 +5,7 @@ export type ItemName = string
 export const itemName = {
   id: "01a06553-ace7-70af-be45-b007740978fa",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "item-name",
   propertySlug: "name",
   definition: "what a sweep read an item's name as",

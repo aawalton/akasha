@@ -5,6 +5,7 @@ export type IconSlot = string
 export const iconSlot = {
   id: "01a05fd1-d43b-783e-b447-1fb92ded8285",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "icon-slot",
   propertySlug: "slot",
   definition: "the piece an icon is shown for",

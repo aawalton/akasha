@@ -5,6 +5,7 @@ export type TraitName = string
 export const traitName = {
   id: "01a0616b-2cdf-7003-9ab6-582d883b8161",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "trait-name",
   propertySlug: "trait-name",
   definition: "the name a researchable trait is shown under",

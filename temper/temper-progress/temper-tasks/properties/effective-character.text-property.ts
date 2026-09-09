@@ -5,6 +5,7 @@ export type EffectiveCharacter = string
 export const effectiveCharacter = {
   id: "01a05fd3-435d-7270-818b-8846a738e4c8",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "effective-character",
   propertySlug: "effective-character",
   definition: "the character a rotating task falls to for its current turn",

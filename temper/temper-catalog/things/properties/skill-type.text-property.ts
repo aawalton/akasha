@@ -5,6 +5,7 @@ export type SkillType = string
 export const skillType = {
   id: "01a05fba-ce3b-7869-b428-d3dd2f8703d7",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "skill-type",
   propertySlug: "skill-type",
   definition: "the sort of skill a page is about",

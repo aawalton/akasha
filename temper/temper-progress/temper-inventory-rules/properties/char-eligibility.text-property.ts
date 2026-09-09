@@ -5,6 +5,7 @@ export type CharEligibility = string
 export const charEligibility = {
   id: "01a07283-f298-7cad-8c9f-82f3ca167ff1",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "char-eligibility",
   propertySlug: "char-eligibility",
   definition: "which characters one leg of a destination chain will send an item to",

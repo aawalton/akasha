@@ -7,6 +7,7 @@ export type ValidPieces = List<ValidPiece>
 export const validPieces = {
   id: "01a05fd1-d43f-7be1-a074-25f62cd6a7ee",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "valid-pieces",
   propertySlug: "valid",
   definition: "the pieces a set is made in",

@@ -5,6 +5,7 @@ export type Epoch = string
 export const epoch = {
   id: "01a05fc4-7a91-7076-af1b-6ce3e35e4b9a",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "epoch",
   propertySlug: "epoch",
   definition: "the day a rotation is counted from",

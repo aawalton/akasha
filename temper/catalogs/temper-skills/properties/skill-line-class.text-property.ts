@@ -5,6 +5,7 @@ export type SkillLineClass = string
 export const skillLineClass = {
   id: "01a05fca-cb87-7a9a-9dda-95916e9f73d7",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "skill-line-class",
   propertySlug: "class",
   definition: "the class a skill line belongs to",

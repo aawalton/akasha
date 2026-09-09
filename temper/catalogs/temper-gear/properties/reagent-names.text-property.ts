@@ -7,6 +7,7 @@ export type ReagentNames = List<ReagentName>
 export const reagentNames = {
   id: "01a05fd1-d43d-7249-ac3e-8dcf8869e271",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "reagent-names",
   propertySlug: "names",
   definition: "the reagents one recipe is brewed from",

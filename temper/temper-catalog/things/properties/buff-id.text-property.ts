@@ -5,6 +5,7 @@ export type BuffId = string
 export const buffId = {
   id: "01a05fcc-41f1-7e7a-abd6-c8c6650999ad",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "buff-id",
   propertySlug: "buff-id",
   definition: "the helpful effect a thing puts on whoever uses it",

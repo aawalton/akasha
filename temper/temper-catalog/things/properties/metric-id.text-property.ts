@@ -5,6 +5,7 @@ export type MetricId = string
 export const metricId = {
   id: "01a05fb0-3ced-7636-a899-431b497b3f1f",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "metric-id",
   propertySlug: "metric-id",
   definition: "the number an effect moves",

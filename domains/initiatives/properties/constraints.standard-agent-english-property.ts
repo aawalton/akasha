@@ -5,6 +5,7 @@ export type Constraints = string
 export const constraints = {
   id: "01a058a3-b01f-7000-8216-401fe8124486",
   pageTypeSlug: "standard-agent-english-property",
+  type: "standard-agent-english-property",
   slug: "constraints",
   propertySlug: "constraints",
   definition: "a bound the work is done within",
