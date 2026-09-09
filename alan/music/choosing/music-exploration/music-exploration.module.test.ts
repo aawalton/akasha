@@ -13,7 +13,14 @@ function artist(slug: string, fields: Partial<CatalogArtist> = {}): CatalogArtis
 }
 
 function song(slug: string, artistSlug: string, fields: Partial<CatalogSong> = {}): CatalogSong {
-  return { slug, title: slug, artistSlug, songType: "original", performed: true, ...fields }
+  return {
+    slug,
+    title: slug,
+    artist: artistSlug,
+    songType: "original",
+    performed: true,
+    ...fields,
+  }
 }
 
 function catalog(artists: readonly CatalogArtist[], songs: readonly CatalogSong[] = []): Catalog {

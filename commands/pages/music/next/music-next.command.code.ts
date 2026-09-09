@@ -90,7 +90,7 @@ function songIn(held: Held): CatalogSong {
   return {
     slug: text(held, "slug") ?? "",
     title: text(held, "title") ?? "",
-    artistSlug: text(held, "artist") ?? text(held, "artistSlug") ?? "",
+    artist: text(held, "artist") ?? "",
     songType: oneOf(held, "songType", SONG_TYPES) ?? "derivative",
     performed: held["performed"] === true,
     ...(graded === undefined ? {} : { rank: graded }),

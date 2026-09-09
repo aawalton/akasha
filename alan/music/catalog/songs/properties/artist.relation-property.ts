@@ -1,12 +1,12 @@
 import type { Slug } from "@akasha/pages/page/slug"
 import type { RelationProperty } from "@akasha/pages/relation-property"
 
-export type SongArtist = Slug
+export type Artist = Slug
 
-export const songArtist = {
-  id: "01a0875e-3f43-7a26-a689-61a8729dedcc",
+export const artist = {
+  id: "01a06243-144b-7006-9730-d6fc5ce88a90",
   pageTypeSlug: "relation-property",
-  slug: "song-artist",
+  slug: "artist",
   propertySlug: "artist",
   definition: "the artist whose song it is",
   targetPageTypeSlug: "page-type/artist",

@@ -17,7 +17,7 @@ export type ArtistFields = Pick<
 export type SongFields = Pick<
   Song,
   | "title"
-  | "artistSlug"
+  | "artist"
   | "externalId"
   | "externalLink"
   | "source"
@@ -194,7 +194,7 @@ export function mbWorkToSongFields(args: {
   const written = deriveWritten(args.work, args.artistMbid)
   return {
     title: args.work.title,
-    artistSlug: args.artistSlug,
+    artist: args.artistSlug,
     externalId: args.work.id,
     externalLink: workExternalLink(args.work.id),
     source: SOURCE,
@@ -213,7 +213,7 @@ export function mbRecordingToSongFields(args: {
 }): SongFields {
   return {
     title: args.title,
-    artistSlug: args.artistSlug,
+    artist: args.artistSlug,
     externalId: args.recordingId,
     externalLink: recordingExternalLink(args.recordingId),
     source: SOURCE,

@@ -6,7 +6,7 @@ export type CatalogArtist = Pick<Artist, "slug" | "title" | "genre" | "rank">
 
 export type CatalogSong = Pick<
   Song,
-  "slug" | "title" | "artistSlug" | "songType" | "performed" | "rank"
+  "slug" | "title" | "artist" | "songType" | "performed" | "rank"
 >
 
 export type Catalog = {
@@ -46,7 +46,7 @@ function isRecordedOriginal(song: CatalogSong): boolean {
 
 export function selectNextSong(catalog: Catalog, artistSlug: string): CatalogSong | null {
   const recorded = catalog.songs
-    .filter((song) => song.artistSlug === artistSlug && isRecordedOriginal(song))
+    .filter((song) => song.artist === artistSlug && isRecordedOriginal(song))
     .sort(byTitleThenSlug)
   const graded = new Set<string>()
   const offered = new Map<string, CatalogSong>()
@@ -67,7 +67,7 @@ export function selectNextSong(catalog: Catalog, artistSlug: string): CatalogSon
 function songsByArtist(catalog: Catalog): Map<string, CatalogSong[]> {
   const byArtist = new Map<string, CatalogSong[]>()
   for (const song of catalog.songs) {
-    const named = song.artistSlug ?? ""
+    const named = song.artist ?? ""
     const held = byArtist.get(named)
     if (held === undefined) byArtist.set(named, [song])
     else held.push(song)

@@ -342,7 +342,7 @@ describe("mbWorkToSongFields", () => {
       })
     ).toEqual({
       title: "Bohemian Rhapsody",
-      artistSlug: "queen",
+      artist: "queen",
       externalId: "w1",
       externalLink: "https://musicbrainz.org/work/w1",
       source: "musicbrainz",
@@ -388,7 +388,7 @@ describe("mbRecordingToSongFields", () => {
       })
     ).toEqual({
       title: "Under Pressure (Live)",
-      artistSlug: "queen",
+      artist: "queen",
       externalId: "r1",
       externalLink: "https://musicbrainz.org/recording/r1",
       source: "musicbrainz",

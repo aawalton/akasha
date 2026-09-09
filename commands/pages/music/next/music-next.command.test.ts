@@ -33,7 +33,7 @@ const CATALOG: Catalog = {
     {
       slug: "loved-one-heard",
       title: "Heard",
-      artistSlug: "loved-one",
+      artist: "loved-one",
       songType: "original",
       performed: true,
       rank: "A",
@@ -41,14 +41,14 @@ const CATALOG: Catalog = {
     {
       slug: "loved-one-unheard",
       title: "Unheard",
-      artistSlug: "loved-one",
+      artist: "loved-one",
       songType: "original",
       performed: true,
     },
     {
       slug: "unknown-one-first",
       title: "First",
-      artistSlug: "unknown-one",
+      artist: "unknown-one",
       songType: "original",
       performed: true,
     },
@@ -89,7 +89,7 @@ test("the catalogue is read from the song pages and the artist pages", () => {
   expect(catalog.artists.length).toBeGreaterThan(0)
   expect(catalog.songs.length).toBeGreaterThan(0)
   expect(catalog.artists.every((one) => one.slug !== "")).toBe(true)
-  expect(catalog.songs.every((one) => one.artistSlug !== "")).toBe(true)
+  expect(catalog.songs.every((one) => one.artist !== "")).toBe(true)
 })
 
 test("the grades on the pages reach the catalogue", () => {

@@ -2,14 +2,13 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
 import type { ExternalId } from "../../../../collections/externals/properties/external-id.text-property.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { ArtistSlug } from "./properties/artist-slug.relation-property.ts"
+import type { Artist } from "./properties/artist.relation-property.ts"
 import type { Insights } from "./properties/insights.file-property.ts"
 import type { Lyrics } from "./properties/lyrics.file-property.ts"
 import type { LyricsSource } from "./properties/lyrics-source.text-property.ts"
 import type { Performed } from "./properties/performed.boolean-property.ts"
 import type { PersonalConnections } from "./properties/personal-connections.file-property.ts"
 import type { Singability } from "./properties/singability.text-property.ts"
-import type { SongArtist } from "./properties/song-artist.relation-property.ts"
 import type { SongType } from "./properties/song-type.text-property.ts"
 import type { SyncedLyrics } from "./properties/synced-lyrics.file-property.ts"
 import type { Written } from "./properties/written.text-property.ts"
@@ -17,7 +16,7 @@ import type { Written } from "./properties/written.text-property.ts"
 export type Song = CollectionExternal & {
   externalId: ExternalId
   title: Title
-  artistSlug?: ArtistSlug
+  artist?: Artist
   songType: SongType
   performed: Performed
   lyricsSource?: LyricsSource
@@ -27,7 +26,6 @@ export type Song = CollectionExternal & {
   syncedLyrics?: SyncedLyrics
   insights?: Insights
   personalConnections?: PersonalConnections
-  artist?: SongArtist
 }
 
 export const song = {
@@ -43,17 +41,16 @@ export const song = {
     "file-property/lyrics",
     "file-property/personal-connections",
     "file-property/synced-lyrics",
-    "relation-property/artist-slug",
+    "relation-property/artist",
     "text-property/lyrics-source",
     "text-property/singability",
     "text-property/song-type",
     "text-property/written",
-    "relation-property/song-artist",
   ],
   properties: [
     { pagePropertySlug: "text-property/external-id", required: true, many: false },
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/artist-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/artist", required: false, many: false },
     { pagePropertySlug: "text-property/song-type", required: true, many: false },
     { pagePropertySlug: "boolean-property/performed", required: true, many: false },
     { pagePropertySlug: "text-property/lyrics-source", required: false, many: false },
@@ -63,7 +60,6 @@ export const song = {
     { pagePropertySlug: "file-property/synced-lyrics", required: false, many: false },
     { pagePropertySlug: "file-property/insights", required: false, many: false },
     { pagePropertySlug: "file-property/personal-connections", required: false, many: false },
-    { pagePropertySlug: "relation-property/song-artist", required: false, many: false },
   ],
   invariants: [
     {
