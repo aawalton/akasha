@@ -1,4 +1,4 @@
-import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
+import type { ScripturePassage } from "../scripture-passage.page-type.ts"
 
 export const psalms89 = {
   id: "01a06804-11b1-7002-97e9-ad31cfde2b6c",
