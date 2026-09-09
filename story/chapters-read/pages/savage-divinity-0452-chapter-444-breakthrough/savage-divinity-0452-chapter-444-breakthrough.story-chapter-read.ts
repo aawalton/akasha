@@ -8,7 +8,7 @@ export const savageDivinity0452Chapter444Breakthrough = {
   story: "savage-divinity",
   position: 452,
   ownLength: 4117,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/352850/chapter-444-breakthrough",

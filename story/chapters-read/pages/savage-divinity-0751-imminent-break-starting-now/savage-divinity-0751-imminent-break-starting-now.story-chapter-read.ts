@@ -8,7 +8,7 @@ export const savageDivinity0751ImminentBreakStartingNow = {
   story: "savage-divinity",
   position: 751,
   ownLength: 350,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/757784/imminent-break-starting-now",

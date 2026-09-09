@@ -8,7 +8,7 @@ export const savageDivinity0587Chapter579Prosper = {
   story: "savage-divinity",
   position: 587,
   ownLength: 6423,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/492506/chapter-579-prosper",

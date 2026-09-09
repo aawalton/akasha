@@ -8,7 +8,7 @@ export const savageDivinity0563Chapter556Compromise = {
   story: "savage-divinity",
   position: 563,
   ownLength: 5448,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/465073/chapter-556-compromise",

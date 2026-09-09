@@ -8,7 +8,7 @@ export const savageDivinity0448AnnouncingTheSavageDivinityManga = {
   story: "savage-divinity",
   position: 448,
   ownLength: 213,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/348732/announcing-the-savage-divinity-manga",
