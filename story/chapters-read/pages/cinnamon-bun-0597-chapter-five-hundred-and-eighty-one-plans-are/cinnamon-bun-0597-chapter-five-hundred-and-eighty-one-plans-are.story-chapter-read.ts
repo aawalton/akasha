@@ -5,7 +5,7 @@ export const cinnamonBun0597ChapterFiveHundredAndEightyOnePlansAre = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0597-chapter-five-hundred-and-eighty-one-plans-are",
   title: "Chapter Five Hundred and Eighty-One - Plans are Useless, But Planning is Indispensable",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 597,
   ownLength: 1700,
   unitSlug: "words",

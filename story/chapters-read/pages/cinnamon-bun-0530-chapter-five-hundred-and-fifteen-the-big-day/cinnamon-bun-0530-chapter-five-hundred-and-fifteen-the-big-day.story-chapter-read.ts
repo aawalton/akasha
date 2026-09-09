@@ -5,7 +5,7 @@ export const cinnamonBun0530ChapterFiveHundredAndFifteenTheBigDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0530-chapter-five-hundred-and-fifteen-the-big-day",
   title: "Chapter Five Hundred and Fifteen - The Big Day",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 530,
   ownLength: 1514,
   unitSlug: "words",

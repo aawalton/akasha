@@ -5,7 +5,7 @@ export const cinnamonBun0523ChapterFiveHundredAndNineAddressingProblems = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0523-chapter-five-hundred-and-nine-addressing-problems",
   title: "Chapter Five Hundred and Nine - Addressing Problems",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 523,
   ownLength: 1722,
   unitSlug: "words",

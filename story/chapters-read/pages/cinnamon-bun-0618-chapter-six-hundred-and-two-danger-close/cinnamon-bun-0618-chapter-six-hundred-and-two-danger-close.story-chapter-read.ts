@@ -10,7 +10,7 @@ export const cinnamonBun0618ChapterSixHundredAndTwoDangerClose = {
   externalId: "3935131",
   source: "royal-road",
   title: "Chapter Six Hundred and Two - Danger Close",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   ownLength: 2120,
   externalLink:
     "https://www.royalroad.com/fiction/31429/cinnamon-bun/chapter/3935131/chapter-six-hundred-and-two-danger-close",

@@ -5,7 +5,7 @@ export const cinnamonBun0553ChapterFiveHundredAndThirtyEightFortressOf = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0553-chapter-five-hundred-and-thirty-eight-fortress-of",
   title: "Chapter Five Hundred and Thirty-Eight - Fortress of Solitude",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 553,
   ownLength: 1795,
   unitSlug: "words",

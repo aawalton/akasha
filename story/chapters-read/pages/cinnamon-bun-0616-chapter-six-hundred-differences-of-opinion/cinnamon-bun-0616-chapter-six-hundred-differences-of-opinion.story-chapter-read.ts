@@ -5,7 +5,7 @@ export const cinnamonBun0616ChapterSixHundredDifferencesOfOpinion = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0616-chapter-six-hundred-differences-of-opinion",
   title: "Chapter Six Hundred - Differences of Opinion",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 616,
   ownLength: 2121,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0593ChapterFiveHundredAndSeventySevenCloudy = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0593-chapter-five-hundred-and-seventy-seven-cloudy",
   title: "Chapter Five Hundred and Seventy-Seven - Cloudy Memories",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 593,
   ownLength: 1555,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0417ChapterFourHundredAndFourMushy = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0417-chapter-four-hundred-and-four-mushy",
   title: "Chapter Four Hundred and Four - Mushy",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 417,
   ownLength: 1950,
   unitSlug: "words",

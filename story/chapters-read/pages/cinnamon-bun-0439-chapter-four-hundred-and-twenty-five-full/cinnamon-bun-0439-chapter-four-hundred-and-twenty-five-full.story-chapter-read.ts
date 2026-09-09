@@ -5,7 +5,7 @@ export const cinnamonBun0439ChapterFourHundredAndTwentyFiveFull = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0439-chapter-four-hundred-and-twenty-five-full",
   title: "Chapter Four Hundred and Twenty-Five - Full Broadside",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 439,
   ownLength: 1940,
   unitSlug: "words",

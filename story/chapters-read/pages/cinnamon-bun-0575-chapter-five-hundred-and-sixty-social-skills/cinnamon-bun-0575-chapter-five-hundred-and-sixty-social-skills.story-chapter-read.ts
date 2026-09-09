@@ -5,7 +5,7 @@ export const cinnamonBun0575ChapterFiveHundredAndSixtySocialSkills = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0575-chapter-five-hundred-and-sixty-social-skills",
   title: "Chapter Five Hundred and Sixty - Social Skills",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 575,
   ownLength: 1325,
   unitSlug: "words",

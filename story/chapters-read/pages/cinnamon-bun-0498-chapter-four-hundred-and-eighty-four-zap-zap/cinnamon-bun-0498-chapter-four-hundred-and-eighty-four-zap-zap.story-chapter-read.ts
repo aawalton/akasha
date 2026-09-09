@@ -5,7 +5,7 @@ export const cinnamonBun0498ChapterFourHundredAndEightyFourZapZap = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0498-chapter-four-hundred-and-eighty-four-zap-zap",
   title: "Chapter Four Hundred and Eighty-Four - Zap Zap",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 498,
   ownLength: 1493,
   unitSlug: "words",

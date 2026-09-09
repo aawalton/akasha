@@ -5,7 +5,7 @@ export const cinnamonBun0368ChapterThreeHundredAndFiftyNineTheGreat = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0368-chapter-three-hundred-and-fifty-nine-the-great",
   title: "Chapter Three Hundred and Fifty-Nine - The Great Escape",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 368,
   ownLength: 2124,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0499ChapterFourHundredAndEightyFiveMoneyTalks = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0499-chapter-four-hundred-and-eighty-five-money-talks",
   title: "Chapter Four Hundred and Eighty-Five - Money Talks",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 499,
   ownLength: 1461,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0495ChapterFourHundredAndEightyOneScratchThat = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0495-chapter-four-hundred-and-eighty-one-scratch-that",
   title: "Chapter Four Hundred and Eighty-One - Scratch That",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 495,
   ownLength: 1558,
   unitSlug: "words",

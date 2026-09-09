@@ -5,7 +5,7 @@ export const cinnamonBun0462ChapterFourHundredAndFortyEightEgo = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0462-chapter-four-hundred-and-forty-eight-ego",
   title: "Chapter Four Hundred and Forty-Eight - Ego",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 462,
   ownLength: 1604,
   unitSlug: "words",

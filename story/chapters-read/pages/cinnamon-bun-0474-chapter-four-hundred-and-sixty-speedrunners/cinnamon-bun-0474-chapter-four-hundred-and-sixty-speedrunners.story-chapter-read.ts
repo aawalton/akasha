@@ -5,7 +5,7 @@ export const cinnamonBun0474ChapterFourHundredAndSixtySpeedrunners = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0474-chapter-four-hundred-and-sixty-speedrunners",
   title: "Chapter Four Hundred and Sixty - Speedrunners",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 474,
   ownLength: 1549,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0520ChapterFiveHundredAndSixThatsSoMetal = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0520-chapter-five-hundred-and-six-thats-so-metal",
   title: "Chapter Five Hundred and Six - That's So Metal",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 520,
   ownLength: 1594,
   unitSlug: "words",

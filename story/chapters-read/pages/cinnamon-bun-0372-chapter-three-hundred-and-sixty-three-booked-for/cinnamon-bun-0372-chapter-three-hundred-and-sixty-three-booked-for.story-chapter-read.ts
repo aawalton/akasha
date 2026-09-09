@@ -5,7 +5,7 @@ export const cinnamonBun0372ChapterThreeHundredAndSixtyThreeBookedFor = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0372-chapter-three-hundred-and-sixty-three-booked-for",
   title: "Chapter Three Hundred and Sixty-Three - Booked for the Foreseeable Future",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 372,
   ownLength: 2138,
   unitSlug: "words",

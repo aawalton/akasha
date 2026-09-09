@@ -5,7 +5,7 @@ export const cinnamonBun0572ChapterFiveHundredAndFiftySevenOutside = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0572-chapter-five-hundred-and-fifty-seven-outside",
   title: "Chapter Five Hundred and Fifty-Seven - Outside Context People",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 572,
   ownLength: 1509,
   unitSlug: "words",

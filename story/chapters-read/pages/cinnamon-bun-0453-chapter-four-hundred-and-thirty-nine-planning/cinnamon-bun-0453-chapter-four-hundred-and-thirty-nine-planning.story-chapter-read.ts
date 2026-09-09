@@ -5,7 +5,7 @@ export const cinnamonBun0453ChapterFourHundredAndThirtyNinePlanning = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0453-chapter-four-hundred-and-thirty-nine-planning",
   title: "Chapter Four Hundred and Thirty-Nine - Planning Ahead",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 453,
   ownLength: 1985,
   unitSlug: "words",

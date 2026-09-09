@@ -5,7 +5,7 @@ export const cinnamonBun0607ChapterFiveHundredAndNinetyOneFoxBunny = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0607-chapter-five-hundred-and-ninety-one-fox-bunny",
   title: "Chapter Five Hundred and Ninety-One - Fox & Bunny",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 607,
   ownLength: 1524,
   unitSlug: "words",

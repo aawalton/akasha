@@ -5,7 +5,7 @@ export const cinnamonBun0396ChapterThreeHundredAndEightyFourSmallTown = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0396-chapter-three-hundred-and-eighty-four-small-town",
   title: "Chapter Three Hundred and Eighty-Four - Small Town Charm",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 396,
   ownLength: 2011,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0422CinnamonBunVolumeFiveIsOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0422-cinnamon-bun-volume-five-is-out",
   title: "Cinnamon Bun Volume Five is Out!",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 422,
   ownLength: 279,
   unitSlug: "words",

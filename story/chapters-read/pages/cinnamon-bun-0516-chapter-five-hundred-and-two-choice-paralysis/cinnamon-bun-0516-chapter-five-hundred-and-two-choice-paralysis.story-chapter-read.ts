@@ -5,7 +5,7 @@ export const cinnamonBun0516ChapterFiveHundredAndTwoChoiceParalysis = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0516-chapter-five-hundred-and-two-choice-paralysis",
   title: "Chapter Five Hundred and Two - Choice Paralysis",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 516,
   ownLength: 1681,
   unitSlug: "words",

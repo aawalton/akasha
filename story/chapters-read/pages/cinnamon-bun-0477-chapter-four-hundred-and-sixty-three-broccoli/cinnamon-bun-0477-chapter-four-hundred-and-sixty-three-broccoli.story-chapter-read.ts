@@ -5,7 +5,7 @@ export const cinnamonBun0477ChapterFourHundredAndSixtyThreeBroccoli = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0477-chapter-four-hundred-and-sixty-three-broccoli",
   title: "Chapter Four Hundred and Sixty-Three - Broccoli Moneybags",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 477,
   ownLength: 1485,
   unitSlug: "words",

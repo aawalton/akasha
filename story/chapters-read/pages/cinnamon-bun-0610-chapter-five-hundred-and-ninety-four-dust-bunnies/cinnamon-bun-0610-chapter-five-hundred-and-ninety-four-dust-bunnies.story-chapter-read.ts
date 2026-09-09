@@ -5,7 +5,7 @@ export const cinnamonBun0610ChapterFiveHundredAndNinetyFourDustBunnies = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0610-chapter-five-hundred-and-ninety-four-dust-bunnies",
   title: "Chapter Five Hundred and Ninety-Four - Dust Bunnies",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 610,
   ownLength: 1451,
   unitSlug: "words",

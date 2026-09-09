@@ -5,7 +5,7 @@ export const cinnamonBun0418ChapterFourHundredAndFiveSocialNetworking = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0418-chapter-four-hundred-and-five-social-networking",
   title: "Chapter Four Hundred and Five - Social Networking",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 418,
   ownLength: 1956,
   unitSlug: "words",

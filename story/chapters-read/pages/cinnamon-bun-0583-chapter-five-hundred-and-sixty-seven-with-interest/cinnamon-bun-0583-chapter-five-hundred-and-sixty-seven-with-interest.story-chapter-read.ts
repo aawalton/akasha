@@ -5,7 +5,7 @@ export const cinnamonBun0583ChapterFiveHundredAndSixtySevenWithInterest = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0583-chapter-five-hundred-and-sixty-seven-with-interest",
   title: "Chapter Five Hundred and Sixty-Seven - With Interest",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 583,
   ownLength: 1452,
   unitSlug: "words",

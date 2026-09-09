@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0080B2FullStoryArtThusFar = 
   pageTypeSlug: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0080-b2-full-story-art-thus-far",
   title: "B2 | Full Story Art Thus Far",
-  storySlug: "crimson-eternal-an-immortal-death-mage-litrpg",
+  story: "crimson-eternal-an-immortal-death-mage-litrpg",
   position: 80,
   ownLength: 155,
   ownProgress: 155,

@@ -5,7 +5,7 @@ export const cinnamonBun0533ChapterFiveHundredAndEighteenPostIDos = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0533-chapter-five-hundred-and-eighteen-post-i-dos",
   title: "Chapter Five Hundred and Eighteen - Post I-Dos",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 533,
   ownLength: 1499,
   unitSlug: "words",

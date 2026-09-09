@@ -5,7 +5,7 @@ export const cinnamonBun0360ChapterThreeHundredAndFiftyTwoWithCatlike = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0360-chapter-three-hundred-and-fifty-two-with-catlike",
   title: "Chapter Three Hundred and Fifty-Two - With Catlike Tread",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 360,
   ownLength: 1933,
   unitSlug: "words",

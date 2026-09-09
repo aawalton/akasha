@@ -5,7 +5,7 @@ export const cinnamonBun0604ChapterFiveHundredAndEightyEightTheWhy = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0604-chapter-five-hundred-and-eighty-eight-the-why",
   title: "Chapter Five Hundred and Eighty-Eight - The Why",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 604,
   ownLength: 1532,
   unitSlug: "words",

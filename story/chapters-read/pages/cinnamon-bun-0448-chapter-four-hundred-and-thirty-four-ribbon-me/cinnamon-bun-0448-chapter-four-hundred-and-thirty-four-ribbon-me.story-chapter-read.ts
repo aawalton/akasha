@@ -5,7 +5,7 @@ export const cinnamonBun0448ChapterFourHundredAndThirtyFourRibbonMe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0448-chapter-four-hundred-and-thirty-four-ribbon-me",
   title: "Chapter Four Hundred and Thirty-Four - Ribbon Me This",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 448,
   ownLength: 1970,
   unitSlug: "words",

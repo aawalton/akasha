@@ -5,7 +5,7 @@ export const cinnamonBun0589ChapterFiveHundredAndSeventyThreeDark = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0589-chapter-five-hundred-and-seventy-three-dark",
   title: "Chapter Five Hundred and Seventy-Three - Dark Knights of the Soul",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 589,
   ownLength: 1693,
   unitSlug: "words",

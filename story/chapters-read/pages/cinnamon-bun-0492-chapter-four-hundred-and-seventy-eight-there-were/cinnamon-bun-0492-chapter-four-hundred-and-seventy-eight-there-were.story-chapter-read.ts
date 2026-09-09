@@ -5,7 +5,7 @@ export const cinnamonBun0492ChapterFourHundredAndSeventyEightThereWere = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0492-chapter-four-hundred-and-seventy-eight-there-were",
   title: "Chapter Four Hundred and Seventy-Eight - There Were More Fish Than Expected",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 492,
   ownLength: 1514,
   unitSlug: "words",

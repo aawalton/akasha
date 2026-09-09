@@ -5,7 +5,7 @@ export const cinnamonBun0457ChapterFourHundredAndFortyThreeNeverSteal = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0457-chapter-four-hundred-and-forty-three-never-steal",
   title: "Chapter Four Hundred and Forty-Three - Never Steal from a Dragon's Hoard",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 457,
   ownLength: 1517,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0442ChapterFourHundredAndTwentyEightAdrenaline = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0442-chapter-four-hundred-and-twenty-eight-adrenaline",
   title: "Chapter Four Hundred and Twenty-Eight - Adrenaline Crash",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 442,
   ownLength: 1829,
   unitSlug: "words",

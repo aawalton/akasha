@@ -5,7 +5,7 @@ export const cinnamonBun0425ChapterFourHundredAndElevenChartingACourse = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0425-chapter-four-hundred-and-eleven-charting-a-course",
   title: "Chapter Four Hundred and Eleven - Charting a Course",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 425,
   ownLength: 2205,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0402ChapterThreeHundredAndNinetyTheClass = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0402-chapter-three-hundred-and-ninety-the-class",
   title: "Chapter Three Hundred and Ninety - The Class Struggle is Real",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 402,
   ownLength: 1906,
   unitSlug: "words",

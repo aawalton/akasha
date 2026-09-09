@@ -5,7 +5,7 @@ export const cinnamonBun0486ChapterFourHundredAndSeventyTwoAllYouCant = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0486-chapter-four-hundred-and-seventy-two-all-you-cant",
   title: "Chapter Four Hundred and Seventy-Two - All You Can't Eat",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 486,
   ownLength: 1508,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const cinnamonBun0409ChapterThreeHundredAndNinetySixCoreStrength = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0409-chapter-three-hundred-and-ninety-six-core-strength",
   title: "Chapter Three Hundred and Ninety-Six - Core Strength",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 409,
   ownLength: 2047,
   unitSlug: "words",

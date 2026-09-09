@@ -5,7 +5,7 @@ export const cinnamonBun0527ChapterFiveHundredAndTwelveCleaningUpThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0527-chapter-five-hundred-and-twelve-cleaning-up-the",
   title: "Chapter Five Hundred and Twelve - Cleaning Up the Remainder",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 527,
   ownLength: 1606,
   unitSlug: "words",

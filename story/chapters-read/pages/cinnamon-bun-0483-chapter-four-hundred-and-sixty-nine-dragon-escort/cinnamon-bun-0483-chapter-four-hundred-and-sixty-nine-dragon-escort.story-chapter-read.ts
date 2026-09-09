@@ -5,7 +5,7 @@ export const cinnamonBun0483ChapterFourHundredAndSixtyNineDragonEscort = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0483-chapter-four-hundred-and-sixty-nine-dragon-escort",
   title: "Chapter Four Hundred and Sixty-Nine - Dragon Escort",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 483,
   ownLength: 1506,
   unitSlug: "words",

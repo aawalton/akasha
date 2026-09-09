@@ -5,7 +5,7 @@ export const cinnamonBun0571ChapterFiveHundredAndFiftySixEdgeOfAn = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0571-chapter-five-hundred-and-fifty-six-edge-of-an",
   title: "Chapter Five Hundred and Fifty-Six - Edge of an Empire",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 571,
   ownLength: 1497,
   unitSlug: "words",

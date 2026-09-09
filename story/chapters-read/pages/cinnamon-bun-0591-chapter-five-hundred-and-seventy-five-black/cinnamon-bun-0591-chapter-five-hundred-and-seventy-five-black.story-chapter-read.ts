@@ -5,7 +5,7 @@ export const cinnamonBun0591ChapterFiveHundredAndSeventyFiveBlack = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0591-chapter-five-hundred-and-seventy-five-black",
   title: "Chapter Five Hundred and Seventy-Five - Black Project",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 591,
   ownLength: 2089,
   unitSlug: "words",

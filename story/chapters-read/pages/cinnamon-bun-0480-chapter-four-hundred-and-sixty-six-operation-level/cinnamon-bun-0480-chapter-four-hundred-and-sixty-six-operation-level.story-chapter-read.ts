@@ -5,7 +5,7 @@ export const cinnamonBun0480ChapterFourHundredAndSixtySixOperationLevel = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0480-chapter-four-hundred-and-sixty-six-operation-level",
   title: "Chapter Four Hundred and Sixty-Six - Operation Level-Up",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 480,
   ownLength: 1529,
   unitSlug: "words",
