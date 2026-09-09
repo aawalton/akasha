@@ -13,7 +13,12 @@ const INPUT = {
 describe("buildWallpaperImageRecord", () => {
   test("matches the wallpaper by the persona and the level together", () => {
     expect(buildWallpaperImageRecord(INPUT).where).toEqual([
-      { key: "personaSlug", eq: "aria" },
+      {
+        or: [
+          { key: "persona", eq: "aria" },
+          { key: "personaSlug", eq: "aria" },
+        ],
+      },
       {
         or: [
           { key: "relationshipLevel", eq: 7 },

@@ -6,7 +6,12 @@ import {
 
 describe("personaSlugCondition", () => {
   test("matches the persona by her slug", () => {
-    expect(personaSlugCondition("aria")).toEqual({ key: "personaSlug", eq: "aria" })
+    expect(personaSlugCondition("aria")).toEqual({
+      or: [
+        { key: "persona", eq: "aria" },
+        { key: "personaSlug", eq: "aria" },
+      ],
+    })
   })
 })
 
