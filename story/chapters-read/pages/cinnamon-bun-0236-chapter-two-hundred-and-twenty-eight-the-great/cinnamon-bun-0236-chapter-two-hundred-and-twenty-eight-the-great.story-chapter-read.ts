@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0236ChapterTwoHundredAndTwentyEightTheGreat = {
   id: "01a0672c-eb14-7004-a547-0b1a0892d938",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0236-chapter-two-hundred-and-twenty-eight-the-great",
   title: "Chapter Two Hundred and Twenty-Eight - The Great Grey Wall",
   story: "story-read/cinnamon-bun",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0387Chapter1735NightTimeInTheCityAbove = {
   id: "01a0672c-eb68-7013-af02-edffad537cd2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0387-chapter-1735-night-time-in-the-city-above",
   title: "Chapter 1735 - Night Time in the City Above",
   story: "story-read/chrysalis",

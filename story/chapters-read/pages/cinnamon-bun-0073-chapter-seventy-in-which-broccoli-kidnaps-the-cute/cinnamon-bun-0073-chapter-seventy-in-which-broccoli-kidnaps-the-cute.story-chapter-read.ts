@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0073ChapterSeventyInWhichBroccoliKidnapsTheCute = {
   id: "01a0672c-eb06-7008-8d08-c9921a2992c2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0073-chapter-seventy-in-which-broccoli-kidnaps-the-cute",
   title: "Chapter Seventy - In Which Broccoli Kidnaps the Cute",
   story: "story-read/cinnamon-bun",

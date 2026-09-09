@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0257ChapterTwoHundredAndFortyNineAnythingYou = {
   id: "01a0672c-eb15-700b-bb6d-5672bb262bd9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0257-chapter-two-hundred-and-forty-nine-anything-you",
   title:
     "Chapter Two Hundred and Forty-Nine - Anything You Can Do, I Can Do Better (Except for Hugs)",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0219ChapterTwoHundredAndElevenThePrisoners = {
   id: "01a0672c-eb13-7002-9724-fdfd7a92bf74",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0219-chapter-two-hundred-and-eleven-the-prisoners",
   title: "Chapter Two Hundred and Eleven - The Prisoner's Dilemma",
   story: "story-read/cinnamon-bun",

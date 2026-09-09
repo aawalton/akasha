@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0335ChapterThreeHundredAndTwentySevenFlightOf = {
   id: "01a0672c-eb1b-700a-9130-4547eefa8555",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0335-chapter-three-hundred-and-twenty-seven-flight-of",
   title: "Chapter Three Hundred and Twenty-Seven - Flight of the Wyverns",
   story: "story-read/cinnamon-bun",

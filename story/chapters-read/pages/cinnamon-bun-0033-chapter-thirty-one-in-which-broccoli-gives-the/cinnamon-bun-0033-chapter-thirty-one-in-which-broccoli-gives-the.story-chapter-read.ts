@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0033ChapterThirtyOneInWhichBroccoliGivesThe = {
   id: "01a0672c-eb03-7009-af4d-bb1392e5a822",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0033-chapter-thirty-one-in-which-broccoli-gives-the",
   title: "Chapter Thirty-One - In Which Broccoli Gives the Locals Weaponry",
   story: "story-read/cinnamon-bun",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0290Chapter1641HopeWithinTheMenu = {
   id: "01a0672c-eb65-7008-b7e9-d5ab72af2996",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0290-chapter-1641-hope-within-the-menu",
   title: "Chapter 1641 - Hope Within the Menu",
   story: "story-read/chrysalis",

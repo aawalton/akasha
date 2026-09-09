@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0257Chapter1608TooSmartToBeCalledCunning = {
   id: "01a0672c-eb64-7002-ac20-1d41cc835eb2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0257-chapter-1608-too-smart-to-be-called-cunning",
   title: "Chapter 1608 - Too Smart to be Called Cunning",
   story: "story-read/chrysalis",

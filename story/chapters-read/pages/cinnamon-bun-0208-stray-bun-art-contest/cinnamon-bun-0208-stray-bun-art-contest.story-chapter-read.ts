@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0208StrayBunArtContest = {
   id: "01a0672c-eb12-7009-b005-e953ce86a56c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0208-stray-bun-art-contest",
   title: "Stray Bun Art Contest!",
   story: "story-read/cinnamon-bun",

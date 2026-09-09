@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0289ChapterTwoHundredAndEightyOneHowToWin = {
   id: "01a0672c-eb17-700e-9956-457f24bb79c9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0289-chapter-two-hundred-and-eighty-one-how-to-win",
   title: "Chapter Two Hundred and Eighty-One - How to Win Friends and Influence People",
   story: "story-read/cinnamon-bun",

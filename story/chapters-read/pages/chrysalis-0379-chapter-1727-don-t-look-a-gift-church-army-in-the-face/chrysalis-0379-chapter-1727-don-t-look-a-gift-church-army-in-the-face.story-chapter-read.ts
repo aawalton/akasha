@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0379Chapter1727DonTLookAGiftChurchArmyInTheFace = {
   id: "01a0672c-eb68-700b-8593-f02f75084f26",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0379-chapter-1727-don-t-look-a-gift-church-army-in-the-face",
   title: "Chapter 1727 - Don’t Look a Gift Church Army in the… Face?",
   story: "story-read/chrysalis",

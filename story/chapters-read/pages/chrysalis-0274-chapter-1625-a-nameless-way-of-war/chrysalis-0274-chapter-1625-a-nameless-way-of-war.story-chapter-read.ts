@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0274Chapter1625ANamelessWayOfWar = {
   id: "01a0672c-eb64-7013-a872-d041b3007ed2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0274-chapter-1625-a-nameless-way-of-war",
   title: "Chapter 1625 - A Nameless Way of War",
   story: "story-read/chrysalis",

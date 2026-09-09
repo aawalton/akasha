@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0389Chapter1737ThingsTookQuiteTheTurnForTheWorse = {
   id: "01a0672c-eb68-7015-bc16-3afc6b53e0c7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0389-chapter-1737-things-took-quite-the-turn-for-the-worse",
   title: "Chapter 1737 - Things Took Quite the Turn For the Worse",
   story: "story-read/chrysalis",

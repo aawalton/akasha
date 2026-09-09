@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0392Chapter1740WhatCouldVeBeenDone = {
   id: "01a0672c-eb68-7018-9ff5-41c8f1fdd9b6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0392-chapter-1740-what-could-ve-been-done",
   title: "Chapter 1740 - What Could’ve Been Done?",
   story: "story-read/chrysalis",

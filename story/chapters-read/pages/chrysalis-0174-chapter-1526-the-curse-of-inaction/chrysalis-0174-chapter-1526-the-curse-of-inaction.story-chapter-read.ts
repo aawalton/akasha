@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0174Chapter1526TheCurseOfInaction = {
   id: "01a0672c-eb61-7007-8ec7-45dc98e97b93",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0174-chapter-1526-the-curse-of-inaction",
   title: "Chapter 1526 - The Curse of Inaction",
   story: "story-read/chrysalis",

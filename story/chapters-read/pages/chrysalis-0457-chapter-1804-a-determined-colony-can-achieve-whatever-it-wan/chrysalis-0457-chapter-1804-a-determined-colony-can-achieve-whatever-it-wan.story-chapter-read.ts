@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0457Chapter1804ADeterminedColonyCanAchieveWhateverItWan = {
   id: "01a0672c-eb6b-700a-844b-c0306cc60b55",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0457-chapter-1804-a-determined-colony-can-achieve-whatever-it-wan",
   title: "Chapter 1804 - A Determined Colony Can Achieve... Whatever it Wants",
   story: "story-read/chrysalis",

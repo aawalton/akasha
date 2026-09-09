@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0046ChapterFortyThreeTheSilverBoot = {
   id: "01a0672c-eb04-7008-87d5-8874f307bb7a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0046-chapter-forty-three-the-silver-boot",
   title: "Chapter Forty-Three - The Silver Boot",
   story: "story-read/cinnamon-bun",

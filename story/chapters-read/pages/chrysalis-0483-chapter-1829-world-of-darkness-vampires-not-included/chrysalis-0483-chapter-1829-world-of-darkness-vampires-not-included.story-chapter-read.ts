@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0483Chapter1829WorldOfDarknessVampiresNotIncluded = {
   id: "01a0672c-eb6c-7004-9638-96bfd164e904",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0483-chapter-1829-world-of-darkness-vampires-not-included",
   title: "Chapter 1829 -  World of Darkness (Vampires not included)",
   story: "story-read/chrysalis",

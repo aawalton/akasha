@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0086ChapterEightyThreeTheresNoSenseCryingOver = {
   id: "01a0672c-eb07-7008-a87e-d8832aca5f9f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0086-chapter-eighty-three-theres-no-sense-crying-over",
   title: "Chapter Eighty-Three - There's No Sense Crying Over Every Mistake",
   story: "story-read/cinnamon-bun",

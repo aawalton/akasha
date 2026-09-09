@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0233ChapterTwoHundredAndTwentyFiveAHappySort = {
   id: "01a0672c-eb14-7001-af26-092296738e5c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0233-chapter-two-hundred-and-twenty-five-a-happy-sort",
   title: "Chapter Two Hundred and Twenty-Five - A Happy Sort of Busy",
   story: "story-read/cinnamon-bun",

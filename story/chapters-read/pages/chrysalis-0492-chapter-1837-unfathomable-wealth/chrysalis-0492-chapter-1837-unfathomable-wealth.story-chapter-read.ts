@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0492Chapter1837UnfathomableWealth = {
   id: "01a0672c-eb6c-700d-a7ca-ca51994b3ad3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0492-chapter-1837-unfathomable-wealth",
   title: "Chapter 1837 -  Unfathomable Wealth",
   story: "story-read/chrysalis",

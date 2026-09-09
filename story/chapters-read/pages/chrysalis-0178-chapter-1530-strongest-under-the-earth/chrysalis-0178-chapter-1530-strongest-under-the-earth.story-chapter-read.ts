@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0178Chapter1530StrongestUnderTheEarth = {
   id: "01a0672c-eb61-700b-8bd6-9e0c8cf17a23",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0178-chapter-1530-strongest-under-the-earth",
   title: "Chapter 1530 - Strongest Under the Earth",
   story: "story-read/chrysalis",

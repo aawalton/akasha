@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0357Chapter1705SlickerThanAnEelBathingInOliveOilWithB = {
   id: "01a0672c-eb67-7013-bdf3-662e5276c669",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0357-chapter-1705-slicker-than-an-eel-bathing-in-olive-oil-with-b",
   title:
     "Chapter 1705 - Slicker Than an Eel Bathing in Olive Oil with Buttered Soap and a Wax Body Wash",

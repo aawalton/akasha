@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0232ChapterTwoHundredAndTwentyFourCelebrating = {
   id: "01a0672c-eb14-7000-bb1f-6f2a939a7c6e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0232-chapter-two-hundred-and-twenty-four-celebrating",
   title: "Chapter Two Hundred and Twenty-Four - Celebrating the Good Things",
   story: "story-read/cinnamon-bun",

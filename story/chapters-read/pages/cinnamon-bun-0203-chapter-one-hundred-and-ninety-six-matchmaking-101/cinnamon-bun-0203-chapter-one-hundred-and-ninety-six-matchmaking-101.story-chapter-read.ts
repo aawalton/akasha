@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0203ChapterOneHundredAndNinetySixMatchmaking101 = {
   id: "01a0672c-eb12-7004-af40-b984f2e6a6ea",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0203-chapter-one-hundred-and-ninety-six-matchmaking-101",
   title: "Chapter One Hundred and Ninety-Six - Matchmaking 101 With Momma",
   story: "story-read/cinnamon-bun",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0205ChapterOneHundredAndNinetyEightEverybunyWas = {
   id: "01a0672c-eb12-7006-ad78-dc20fabe55fb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0205-chapter-one-hundred-and-ninety-eight-everybuny-was",
   title: "Chapter One Hundred and Ninety-Eight - Everybuny was Draugr Fighting",
   story: "story-read/cinnamon-bun",

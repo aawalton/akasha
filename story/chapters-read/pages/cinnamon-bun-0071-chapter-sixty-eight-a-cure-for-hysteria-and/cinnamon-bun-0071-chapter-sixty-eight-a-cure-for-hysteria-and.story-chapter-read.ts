@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0071ChapterSixtyEightACureForHysteriaAnd = {
   id: "01a0672c-eb06-7006-969e-660426c1a067",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0071-chapter-sixty-eight-a-cure-for-hysteria-and",
   title: "Chapter Sixty-Eight - A Cure for Hysteria and Loneliness",
   story: "story-read/cinnamon-bun",

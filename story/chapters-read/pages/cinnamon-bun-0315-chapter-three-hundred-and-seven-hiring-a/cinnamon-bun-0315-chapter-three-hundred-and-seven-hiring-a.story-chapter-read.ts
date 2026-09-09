@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0315ChapterThreeHundredAndSevenHiringA = {
   id: "01a0672c-eb19-700a-8457-755fab21a1aa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0315-chapter-three-hundred-and-seven-hiring-a",
   title: "Chapter Three Hundred and Seven - Hiring a Professional Cleaner",
   story: "story-read/cinnamon-bun",

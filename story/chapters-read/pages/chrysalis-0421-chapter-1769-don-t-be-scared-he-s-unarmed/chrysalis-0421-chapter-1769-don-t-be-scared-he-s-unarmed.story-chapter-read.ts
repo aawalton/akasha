@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0421Chapter1769DonTBeScaredHeSUnarmed = {
   id: "01a0672c-eb6a-7000-8922-3792f0563d1e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0421-chapter-1769-don-t-be-scared-he-s-unarmed",
   title: "Chapter 1769 - Don’t Be Scared, He’s Unarmed",
   story: "story-read/chrysalis",

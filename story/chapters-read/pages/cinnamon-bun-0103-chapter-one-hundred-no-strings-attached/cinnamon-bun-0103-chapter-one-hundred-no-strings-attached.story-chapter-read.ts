@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0103ChapterOneHundredNoStringsAttached = {
   id: "01a0672c-eb08-700b-a8e9-87977f5524ad",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0103-chapter-one-hundred-no-strings-attached",
   title: "Chapter One Hundred - No Strings Attached",
   story: "story-read/cinnamon-bun",

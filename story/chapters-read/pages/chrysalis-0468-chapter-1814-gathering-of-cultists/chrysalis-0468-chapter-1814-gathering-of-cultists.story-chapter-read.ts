@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0468Chapter1814GatheringOfCultists = {
   id: "01a0672c-eb6b-7015-9282-28bed920aaba",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0468-chapter-1814-gathering-of-cultists",
   title: "Chapter 1814 - Gathering of Cultists",
   story: "story-read/chrysalis",

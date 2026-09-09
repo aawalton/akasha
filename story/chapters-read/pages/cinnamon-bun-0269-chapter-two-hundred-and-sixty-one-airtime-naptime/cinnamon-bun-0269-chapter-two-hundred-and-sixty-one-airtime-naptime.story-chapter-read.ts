@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0269ChapterTwoHundredAndSixtyOneAirtimeNaptime = {
   id: "01a0672c-eb16-7008-b2f5-9625ec76b9d2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0269-chapter-two-hundred-and-sixty-one-airtime-naptime",
   title: "Chapter Two Hundred and Sixty-One - Airtime Naptime",
   story: "story-read/cinnamon-bun",

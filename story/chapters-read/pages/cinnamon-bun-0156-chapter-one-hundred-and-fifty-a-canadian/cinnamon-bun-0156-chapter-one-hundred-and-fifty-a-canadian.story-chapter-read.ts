@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0156ChapterOneHundredAndFiftyACanadian = {
   id: "01a0672c-eb0c-7008-9e8d-1f532d5db53b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0156-chapter-one-hundred-and-fifty-a-canadian",
   title: "Chapter One Hundred and Fifty - A Canadian Riftwalker in the Harpies' Court",
   story: "story-read/cinnamon-bun",

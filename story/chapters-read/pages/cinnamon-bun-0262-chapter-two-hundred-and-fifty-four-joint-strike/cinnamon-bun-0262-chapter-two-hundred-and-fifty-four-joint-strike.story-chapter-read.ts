@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0262ChapterTwoHundredAndFiftyFourJointStrike = {
   id: "01a0672c-eb16-7001-8e2b-844881442008",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0262-chapter-two-hundred-and-fifty-four-joint-strike",
   title: "Chapter Two Hundred and Fifty-Four - Joint Strike Fighters",
   story: "story-read/cinnamon-bun",

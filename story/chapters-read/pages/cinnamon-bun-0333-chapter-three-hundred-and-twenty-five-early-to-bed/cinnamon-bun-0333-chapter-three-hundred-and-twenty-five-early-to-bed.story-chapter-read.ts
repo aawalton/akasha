@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0333ChapterThreeHundredAndTwentyFiveEarlyToBed = {
   id: "01a0672c-eb1b-7008-be08-1cafd4ffefb2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0333-chapter-three-hundred-and-twenty-five-early-to-bed",
   title: "Chapter Three Hundred and Twenty-Five - Early to Bed and Early to Rise",
   story: "story-read/cinnamon-bun",

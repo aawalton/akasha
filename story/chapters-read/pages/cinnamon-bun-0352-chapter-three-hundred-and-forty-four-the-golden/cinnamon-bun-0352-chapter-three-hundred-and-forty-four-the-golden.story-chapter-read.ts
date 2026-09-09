@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0352ChapterThreeHundredAndFortyFourTheGolden = {
   id: "01a0672c-eb1c-700d-be1d-a85aac9d5ecc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0352-chapter-three-hundred-and-forty-four-the-golden",
   title: "Chapter Three Hundred and Forty-Four - The Golden Gold Inn of Goldpass",
   story: "story-read/cinnamon-bun",

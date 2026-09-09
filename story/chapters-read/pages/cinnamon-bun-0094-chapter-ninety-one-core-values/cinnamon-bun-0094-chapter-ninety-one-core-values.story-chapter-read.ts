@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0094ChapterNinetyOneCoreValues = {
   id: "01a0672c-eb08-7002-a46e-d3a0c76a768e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0094-chapter-ninety-one-core-values",
   title: "Chapter Ninety-One - Core Values",
   story: "story-read/cinnamon-bun",

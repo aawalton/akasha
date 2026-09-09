@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0348Chapter1696HowTheTablesDoTheTurnThing = {
   id: "01a0672c-eb67-700a-b88e-17f303309cda",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0348-chapter-1696-how-the-tables-do-the-turn-thing",
   title: "Chapter 1696 - How the Tables do the Turn Thing",
   story: "story-read/chrysalis",

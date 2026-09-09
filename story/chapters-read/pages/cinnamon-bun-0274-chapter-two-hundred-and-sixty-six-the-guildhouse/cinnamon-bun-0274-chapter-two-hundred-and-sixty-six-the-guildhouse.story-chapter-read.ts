@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0274ChapterTwoHundredAndSixtySixTheGuildhouse = {
   id: "01a0672c-eb16-700d-ae7d-f4b315d49f18",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0274-chapter-two-hundred-and-sixty-six-the-guildhouse",
   title: "Chapter Two Hundred and Sixty-Six - The Guildhouse",
   story: "story-read/cinnamon-bun",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0206ChapterOneHundredAndNinetyNineAshesAshes = {
   id: "01a0672c-eb12-7007-8e36-ec830b961d38",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0206-chapter-one-hundred-and-ninety-nine-ashes-ashes",
   title: "Chapter One Hundred and Ninety-Nine - Ashes, Ashes, They All Fall Down",
   story: "story-read/cinnamon-bun",

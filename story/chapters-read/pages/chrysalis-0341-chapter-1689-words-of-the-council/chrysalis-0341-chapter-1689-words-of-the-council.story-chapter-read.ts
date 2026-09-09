@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0341Chapter1689WordsOfTheCouncil = {
   id: "01a0672c-eb67-7003-b8de-86902e40cb20",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0341-chapter-1689-words-of-the-council",
   title: "Chapter 1689 - Words of the Council",
   story: "story-read/chrysalis",

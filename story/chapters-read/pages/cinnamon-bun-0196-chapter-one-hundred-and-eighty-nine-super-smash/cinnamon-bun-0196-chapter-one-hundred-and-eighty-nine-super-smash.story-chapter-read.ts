@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0196ChapterOneHundredAndEightyNineSuperSmash = {
   id: "01a0672c-eb11-700d-a826-0cebed72c0df",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0196-chapter-one-hundred-and-eighty-nine-super-smash",
   title: "Chapter One Hundred and Eighty-Nine - Super Smash Bunnies Melee",
   story: "story-read/cinnamon-bun",

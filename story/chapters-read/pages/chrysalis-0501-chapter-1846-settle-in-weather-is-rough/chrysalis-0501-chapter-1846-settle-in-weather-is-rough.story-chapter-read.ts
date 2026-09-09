@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0501Chapter1846SettleInWeatherIsRough = {
   id: "01a0672c-eb6c-7016-916c-27ba508fcfe7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0501-chapter-1846-settle-in-weather-is-rough",
   title: "Chapter 1846 - Settle in, Weather is Rough",
   story: "story-read/chrysalis",

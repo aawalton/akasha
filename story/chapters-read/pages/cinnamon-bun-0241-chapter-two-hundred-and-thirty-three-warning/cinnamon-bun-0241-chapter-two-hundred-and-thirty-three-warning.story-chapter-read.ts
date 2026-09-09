@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0241ChapterTwoHundredAndThirtyThreeWarning = {
   id: "01a0672c-eb14-7009-970b-06389254940c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0241-chapter-two-hundred-and-thirty-three-warning",
   title: "Chapter Two Hundred and Thirty-Three - Warning: Rocket Launch Detected",
   story: "story-read/cinnamon-bun",

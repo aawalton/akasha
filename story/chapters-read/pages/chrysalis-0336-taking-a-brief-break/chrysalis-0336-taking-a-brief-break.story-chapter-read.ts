@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0336TakingABriefBreak = {
   id: "01a0672c-eb66-701d-ae20-f269023af9b6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0336-taking-a-brief-break",
   title: "Taking a brief break",
   story: "story-read/chrysalis",

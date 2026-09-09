@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const chrysalis0215Chapter1567EndlessSong = {
   id: "01a0672c-eb62-7012-838c-cb89e4126583",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "chrysalis-0215-chapter-1567-endless-song",
   title: "Chapter 1567 - Endless Song",
   story: "story-read/chrysalis",

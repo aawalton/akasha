@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0074ChapterSeventyOneFriendshipIsMagical = {
   id: "01a0672c-eb06-7009-980c-78ab11c12e9b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0074-chapter-seventy-one-friendship-is-magical",
   title: "Chapter Seventy-One - Friendship is Magical",
   story: "story-read/cinnamon-bun",
