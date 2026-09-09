@@ -15,7 +15,7 @@ export const akashaFolderShape = {
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
       workingMemory:
-        "`akasha audit --check folder-matches-a-shape` forces a check that runs at no audit and takes many `--file-path` at once. A subagent is refused the audit, so the seat gathers and hands the files over. Narrowing does not confine the answer, so dedupe on the path before the dash. Each line stops near 300 characters, so only the first shape reason survives and grepping clauses reads one shape rather than all. 653 refused: alan 288, temper 205. Opens-with is answered before any shape is asked.\n",
+        "`--check folder-matches-a-shape` forces a check that runs at no audit and takes many `--file-path` at once. A subagent is refused the audit, so the seat gathers and hands them over. Narrowing does not confine the answer, so dedupe on the path before the dash. `oneLine` at `audit.command.code.ts:169` holds a reason to 240 characters, so only the first shape reason survives; landing calls it nowhere, so a refused apply carries the whole reason. Opens-with is answered before any shape is asked.\n",
     },
     {
       statement: "Every shape allowed by folder-matches-a-shape is clean and approved by Alan.",
