@@ -1,5 +1,5 @@
-import type { FilePropertyGroup } from "@akasha/pages/file-property-group"
 import type { PageType } from "@akasha/pages/page-type"
+import type { FilePropertyGroup } from "akasha/pages/file-property-groups/file-property-group.page-type.types.ts"
 
 export type ModulePropertyGroup = FilePropertyGroup
 
