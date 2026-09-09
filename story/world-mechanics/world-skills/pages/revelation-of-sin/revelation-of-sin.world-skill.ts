@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const revelationOfSin = {
   id: "01a0657d-02b1-7a06-b9a3-16ec49b562e9",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "revelation-of-sin",
   title: "Revelation of Sin",
   world: "the-wandering-inn",

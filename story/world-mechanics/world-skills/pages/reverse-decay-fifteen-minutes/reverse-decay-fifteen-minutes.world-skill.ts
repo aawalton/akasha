@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const reverseDecayFifteenMinutes = {
   id: "01a0657d-02b1-7041-aace-874decc03e2b",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "reverse-decay-fifteen-minutes",
   title: "Reverse Decay: Fifteen Minutes",
   world: "the-wandering-inn",

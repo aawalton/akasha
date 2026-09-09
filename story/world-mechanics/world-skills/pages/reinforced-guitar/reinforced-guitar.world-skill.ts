@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const reinforcedGuitar = {
   id: "01a0657d-02a6-7820-9edf-6991d73555dc",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "reinforced-guitar",
   title: "Reinforced Guitar",
   world: "the-wandering-inn",

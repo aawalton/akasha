@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const reinforcedFrame = {
   id: "01a0657d-02a6-7def-a475-48a6b46497e1",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "reinforced-frame",
   title: "Reinforced Frame",
   world: "the-wandering-inn",

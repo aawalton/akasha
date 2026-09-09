@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const reducedPresence = {
   id: "01a0657d-02a6-7abe-84e4-dd4190929e5e",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "reduced-presence",
   title: "Reduced Presence",
   world: "the-wandering-inn",

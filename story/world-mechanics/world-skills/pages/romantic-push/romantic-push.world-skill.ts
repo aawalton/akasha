@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const romanticPush = {
   id: "01a0657d-02b6-7f4e-a946-e522e88de12b",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "romantic-push",
   title: "Romantic Push",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const shadowhookPunch = {
   id: "01a0657d-02bf-7905-b268-82936540266e",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "shadowhook-punch",
   title: "Shadowhook Punch",
   world: "the-wandering-inn",

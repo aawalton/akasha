@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const quickStep = {
   id: "01a0657d-029b-7c42-8cb2-19a961687a1a",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "quick-step",
   title: "Quick Step",
   world: "the-wandering-inn",
