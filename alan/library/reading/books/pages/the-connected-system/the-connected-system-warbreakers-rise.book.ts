@@ -6,7 +6,7 @@ export const theConnectedSystemWarbreakersRise = {
   slug: "the-connected-system-warbreakers-rise",
   title: "The Connected System: Warbreaker's Rise",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 161000,
   publishedAt: "2024-03-05",

@@ -6,7 +6,7 @@ export const theHistoryOfMoney = {
   slug: "the-history-of-money",
   title: "The History of Money",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 598.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

@@ -7,7 +7,7 @@ export const nationalGeographicMastersOfPhotography = {
   title: "National Geographic Masters of Photography",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 766.8,
   ownProgress: 766.8,
   partOfCollections: [

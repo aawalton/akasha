@@ -6,7 +6,7 @@ export const lifelongHealthAchievingOptimumWellBeingAtAnyAge = {
   slug: "lifelong-health-achieving-optimum-well-being-at-any-age",
   title: "Lifelong Health: Achieving Optimum Well-Being at Any Age",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1087.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],

@@ -6,7 +6,7 @@ export const stonehavenLeagueCitadelOfSmoke = {
   slug: "stonehaven-league-citadel-of-smoke",
   title: "Stonehaven League: Citadel of Smoke",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 104500,
   ownProgress: 104500,

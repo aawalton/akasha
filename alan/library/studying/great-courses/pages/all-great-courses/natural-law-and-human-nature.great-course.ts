@@ -6,7 +6,7 @@ export const naturalLawAndHumanNature = {
   slug: "natural-law-and-human-nature",
   title: "Natural Law and Human Nature",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 737.816667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

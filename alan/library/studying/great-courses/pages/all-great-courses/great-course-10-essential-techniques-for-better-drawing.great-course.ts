@@ -7,7 +7,7 @@ export const greatCourse10EssentialTechniquesForBetterDrawing = {
   title: "10 Essential Techniques for Better Drawing",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 153,
   ownProgress: 153,
   partOfCollections: ["all-great-courses"],

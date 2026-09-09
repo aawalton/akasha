@@ -7,7 +7,7 @@ export const pilotLectureAntioxidantsWhatAreTheyAndWhyDoWeNeedThem = {
   title: "Pilot Lecture: Antioxidants—What Are They and Why Do We Need Them?",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 34.2,
   ownProgress: 34.2,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],

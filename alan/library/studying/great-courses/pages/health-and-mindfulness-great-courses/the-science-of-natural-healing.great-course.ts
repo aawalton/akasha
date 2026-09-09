@@ -6,7 +6,7 @@ export const theScienceOfNaturalHealing = {
   slug: "the-science-of-natural-healing",
   title: "The Science of Natural Healing",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 725.4,
   ownProgress: 0,
   partOfCollections: [

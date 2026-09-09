@@ -9,7 +9,7 @@ export const mark = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalId: "mark",
 } as const satisfies ScriptureCollection

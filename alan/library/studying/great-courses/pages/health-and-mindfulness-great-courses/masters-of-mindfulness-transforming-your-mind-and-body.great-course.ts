@@ -6,7 +6,7 @@ export const mastersOfMindfulnessTransformingYourMindAndBody = {
   slug: "masters-of-mindfulness-transforming-your-mind-and-body",
   title: "Masters of Mindfulness: Transforming Your Mind and Body",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 694.8,
   ownProgress: 0,
   partOfCollections: [

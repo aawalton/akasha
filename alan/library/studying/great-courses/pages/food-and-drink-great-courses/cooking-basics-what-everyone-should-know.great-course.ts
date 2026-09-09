@@ -7,7 +7,7 @@ export const cookingBasicsWhatEveryoneShouldKnow = {
   title: "Cooking Basics: What Everyone Should Know",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 789.6,
   ownProgress: 789.6,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

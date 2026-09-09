@@ -6,7 +6,7 @@ export const capitalismVsSocialismComparingEconomicSystems = {
   slug: "capitalism-vs-socialism-comparing-economic-systems",
   title: "Capitalism vs. Socialism: Comparing Economic Systems",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 727.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],

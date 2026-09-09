@@ -6,7 +6,7 @@ export const taiChiFitnessWorkouts = {
   slug: "tai-chi-fitness-workouts",
   title: "Tai Chi Fitness Workouts",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 304.8,
   ownProgress: 0,
   partOfCollections: [

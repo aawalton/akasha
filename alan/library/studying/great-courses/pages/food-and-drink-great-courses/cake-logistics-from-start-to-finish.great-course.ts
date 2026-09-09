@@ -7,7 +7,7 @@ export const cakeLogisticsFromStartToFinish = {
   title: "Cake Logistics From Start to Finish",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 97.8,
   ownProgress: 97.8,
   partOfCollections: [

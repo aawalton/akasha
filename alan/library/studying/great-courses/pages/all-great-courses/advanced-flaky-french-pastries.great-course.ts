@@ -7,7 +7,7 @@ export const advancedFlakyFrenchPastries = {
   title: "Advanced Flaky French Pastries",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 135.2,
   ownProgress: 135.2,
   partOfCollections: ["all-great-courses"],

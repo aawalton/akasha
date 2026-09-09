@@ -7,7 +7,7 @@ export const theGam3EarthsGambit = {
   title: "The Gam3: Earth's Gambit",
   status: "completed",
   author: "Cosimo Yap",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 102250,
   ownProgress: 102250,

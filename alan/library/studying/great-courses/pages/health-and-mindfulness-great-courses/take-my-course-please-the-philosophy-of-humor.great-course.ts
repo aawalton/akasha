@@ -6,7 +6,7 @@ export const takeMyCoursePleaseThePhilosophyOfHumor = {
   slug: "take-my-course-please-the-philosophy-of-humor",
   title: "Take My Course, Please! The Philosophy of Humor",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 702.6,
   ownProgress: 0,
   partOfCollections: [

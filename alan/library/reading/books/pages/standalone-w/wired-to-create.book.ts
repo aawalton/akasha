@@ -7,6 +7,6 @@ export const wiredToCreate = {
   title: "Wired to Create",
   status: "not-started",
   author: "Scott Barry Kaufman",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 99750,
 } as const satisfies Book

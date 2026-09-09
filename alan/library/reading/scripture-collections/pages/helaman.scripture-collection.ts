@@ -9,7 +9,7 @@ export const helaman = {
   position: 10,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalId: "helaman",
 } as const satisfies ScriptureCollection

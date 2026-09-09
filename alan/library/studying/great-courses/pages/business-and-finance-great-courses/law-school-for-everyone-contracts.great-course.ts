@@ -6,7 +6,7 @@ export const lawSchoolForEveryoneContracts = {
   slug: "law-school-for-everyone-contracts",
   title: "Law School for Everyone: Contracts",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 393.6,
   ownProgress: 0,
   partOfCollections: [

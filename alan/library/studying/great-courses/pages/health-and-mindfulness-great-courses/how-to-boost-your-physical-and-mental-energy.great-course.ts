@@ -6,7 +6,7 @@ export const howToBoostYourPhysicalAndMentalEnergy = {
   slug: "how-to-boost-your-physical-and-mental-energy",
   title: "How to Boost Your Physical and Mental Energy",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 380.4,
   ownProgress: 0,
   partOfCollections: [

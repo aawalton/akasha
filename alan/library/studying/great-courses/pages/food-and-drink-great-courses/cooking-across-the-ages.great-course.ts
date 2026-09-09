@@ -7,7 +7,7 @@ export const cookingAcrossTheAges = {
   title: "Cooking across the Ages",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 791.4,
   ownProgress: 791.4,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

@@ -7,7 +7,7 @@ export const greatArtistsOfTheItalianRenaissance = {
   title: "Great Artists of the Italian Renaissance",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1092,
   ownProgress: 1092,
   partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],

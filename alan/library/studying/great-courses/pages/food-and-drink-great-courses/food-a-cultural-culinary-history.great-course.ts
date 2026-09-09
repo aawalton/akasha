@@ -7,7 +7,7 @@ export const foodACulturalCulinaryHistory = {
   title: "Food: A Cultural Culinary History",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1114.2,
   ownProgress: 1114.2,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses", "history-great-courses"],

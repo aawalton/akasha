@@ -7,7 +7,7 @@ export const inTheFootstepsOfVincentVanGogh = {
   title: "In the Footsteps of Vincent van Gogh",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 339.6,
   ownProgress: 339.6,
   partOfCollections: ["all-great-courses", "art-great-courses"],

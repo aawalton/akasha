@@ -7,7 +7,7 @@ export const theGuideToEssentialItaly = {
   title: "The Guide to Essential Italy",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1080,
   ownProgress: 1080,
   partOfCollections: [

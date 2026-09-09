@@ -7,7 +7,7 @@ export const theSystemApocalypseRedeemerOfTheDead = {
   title: "The System Apocalypse: Redeemer of the Dead",
   status: "completed",
   author: "Tao Wong",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 80250,
   ownProgress: 80250,

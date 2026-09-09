@@ -7,7 +7,7 @@ export const paintingTreesInAcrylic = {
   title: "Painting Trees in Acrylic",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 167.4,
   ownProgress: 167.4,
   partOfCollections: [

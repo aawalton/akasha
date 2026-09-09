@@ -6,7 +6,7 @@ export const thinkingLikeAnEconomistAGuideToRationalDecisionMaking = {
   slug: "thinking-like-an-economist-a-guide-to-rational-decision-making",
   title: "Thinking like an Economist: A Guide to Rational Decision Making",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 372.6,
   ownProgress: 0,
   partOfCollections: [

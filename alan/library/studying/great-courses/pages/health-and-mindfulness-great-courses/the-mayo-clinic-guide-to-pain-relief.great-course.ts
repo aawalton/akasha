@@ -6,7 +6,7 @@ export const theMayoClinicGuideToPainRelief = {
   slug: "the-mayo-clinic-guide-to-pain-relief",
   title: "The Mayo Clinic Guide to Pain Relief",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 372,
   ownProgress: 0,
   partOfCollections: [

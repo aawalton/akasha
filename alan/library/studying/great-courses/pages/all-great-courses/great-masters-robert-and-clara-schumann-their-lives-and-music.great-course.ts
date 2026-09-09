@@ -6,7 +6,7 @@ export const greatMastersRobertAndClaraSchumannTheirLivesAndMusic = {
   slug: "great-masters-robert-and-clara-schumann-their-lives-and-music",
   title: "Great Masters: Robert and Clara Schumann—Their Lives and Music",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 375.183333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

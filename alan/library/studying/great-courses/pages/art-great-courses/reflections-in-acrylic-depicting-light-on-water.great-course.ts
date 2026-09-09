@@ -7,7 +7,7 @@ export const reflectionsInAcrylicDepictingLightOnWater = {
   title: "Reflections in Acrylic: Depicting Light on Water",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 141.6,
   ownProgress: 141.6,
   partOfCollections: [

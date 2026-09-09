@@ -6,7 +6,7 @@ export const worldTreeTrilogyWorldTreeOnline = {
   slug: "world-tree-trilogy-world-tree-online",
   title: "World-Tree Trilogy: World-Tree Online",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 123750,
   ownProgress: 123750,

@@ -7,7 +7,7 @@ export const whereOurFoodReallyComesFrom = {
   title: "Where Our Food Really Comes From",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 193.8,
   ownProgress: 193.8,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

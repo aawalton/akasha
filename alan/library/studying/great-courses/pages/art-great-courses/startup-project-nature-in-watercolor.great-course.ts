@@ -7,7 +7,7 @@ export const startupProjectNatureInWatercolor = {
   title: "Startup Project: Nature in Watercolor",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 132.6,
   ownProgress: 132.6,
   partOfCollections: [

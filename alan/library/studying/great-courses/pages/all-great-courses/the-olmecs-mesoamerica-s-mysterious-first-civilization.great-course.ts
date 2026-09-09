@@ -6,7 +6,7 @@ export const theOlmecsMesoamericaSMysteriousFirstCivilization = {
   slug: "the-olmecs-mesoamerica-s-mysterious-first-civilization",
   title: "The Olmecs: Mesoamerica’s Mysterious First Civilization",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 436.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

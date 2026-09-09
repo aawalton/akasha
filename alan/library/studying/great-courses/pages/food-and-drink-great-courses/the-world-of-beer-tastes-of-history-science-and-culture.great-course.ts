@@ -6,7 +6,7 @@ export const theWorldOfBeerTastesOfHistoryScienceAndCulture = {
   slug: "the-world-of-beer-tastes-of-history-science-and-culture",
   title: "The World of Beer: Tastes of History, Science, and Culture",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 425.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

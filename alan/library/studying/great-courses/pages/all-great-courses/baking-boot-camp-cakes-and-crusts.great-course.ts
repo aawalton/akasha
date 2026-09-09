@@ -6,7 +6,7 @@ export const bakingBootCampCakesAndCrusts = {
   slug: "baking-boot-camp-cakes-and-crusts",
   title: "Baking Boot Camp: Cakes & Crusts",
   status: "completed",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 171.6,
   ownProgress: 171.6,
   partOfCollections: ["all-great-courses"],

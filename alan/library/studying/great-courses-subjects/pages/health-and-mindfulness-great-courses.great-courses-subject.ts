@@ -6,7 +6,7 @@ export const healthAndMindfulnessGreatCourses = {
   slug: "health-and-mindfulness-great-courses",
   title: "Health & Mindfulness Great Courses",
   status: "paused",
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-health-mindfulness",

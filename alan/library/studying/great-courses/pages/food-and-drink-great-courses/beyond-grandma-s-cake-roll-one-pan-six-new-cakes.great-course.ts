@@ -7,7 +7,7 @@ export const beyondGrandmaSCakeRollOnePanSixNewCakes = {
   title: "Beyond Grandma's Cake Roll: One Pan, Six New Cakes",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 157.8,
   ownProgress: 157.8,
   partOfCollections: [

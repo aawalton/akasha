@@ -7,7 +7,7 @@ export const anIntroductionToFormalLogic = {
   title: "An Introduction to Formal Logic",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 742.8,
   ownProgress: 742.8,
   partOfCollections: [

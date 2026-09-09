@@ -6,7 +6,7 @@ export const greatMastersStravinskyHisLifeAndMusic = {
   slug: "great-masters-stravinsky-his-life-and-music",
   title: "Great Masters: Stravinsky—His Life and Music",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 373.783333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

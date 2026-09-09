@@ -6,7 +6,7 @@ export const theMayoClinicDietTheHealthyApproachToWeightLoss = {
   slug: "the-mayo-clinic-diet-the-healthy-approach-to-weight-loss",
   title: "The Mayo Clinic Diet: The Healthy Approach to Weight Loss.",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 400.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],

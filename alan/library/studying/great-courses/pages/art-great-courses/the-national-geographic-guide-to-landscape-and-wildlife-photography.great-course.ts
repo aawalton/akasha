@@ -7,7 +7,7 @@ export const theNationalGeographicGuideToLandscapeAndWildlifePhotography = {
   title: "The National Geographic Guide to Landscape and Wildlife Photography",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 721.2,
   ownProgress: 721.2,
   partOfCollections: [

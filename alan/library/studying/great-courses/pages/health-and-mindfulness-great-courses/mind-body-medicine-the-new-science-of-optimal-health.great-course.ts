@@ -6,7 +6,7 @@ export const mindBodyMedicineTheNewScienceOfOptimalHealth = {
   slug: "mind-body-medicine-the-new-science-of-optimal-health",
   title: "Mind-Body Medicine: The New Science of Optimal Health",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1147.8,
   ownProgress: 0,
   partOfCollections: [

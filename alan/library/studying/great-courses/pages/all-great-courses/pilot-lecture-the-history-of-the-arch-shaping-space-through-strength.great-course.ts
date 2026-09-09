@@ -7,7 +7,7 @@ export const pilotLectureTheHistoryOfTheArchShapingSpaceThroughStrength = {
   title: "Pilot Lecture: The History of the Arch—Shaping Space through Strength",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 35.066667,
   ownProgress: 35.066667,
   partOfCollections: ["all-great-courses"],

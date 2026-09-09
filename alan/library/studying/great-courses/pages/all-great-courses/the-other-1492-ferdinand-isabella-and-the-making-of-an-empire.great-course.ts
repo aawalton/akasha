@@ -6,7 +6,7 @@ export const theOther1492FerdinandIsabellaAndTheMakingOfAnEmpire = {
   slug: "the-other-1492-ferdinand-isabella-and-the-making-of-an-empire",
   title: "The Other 1492: Ferdinand, Isabella, and the Making of an Empire",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 371.583333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

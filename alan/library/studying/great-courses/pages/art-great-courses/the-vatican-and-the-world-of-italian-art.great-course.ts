@@ -6,7 +6,7 @@ export const theVaticanAndTheWorldOfItalianArt = {
   slug: "the-vatican-and-the-world-of-italian-art",
   title: "The Vatican and the World of Italian Art",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 14,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "art-great-courses"],

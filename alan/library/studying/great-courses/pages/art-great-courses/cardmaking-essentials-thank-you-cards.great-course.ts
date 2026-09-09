@@ -7,7 +7,7 @@ export const cardmakingEssentialsThankYouCards = {
   title: "Cardmaking Essentials: Thank You Cards",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 131.4,
   ownProgress: 131.4,
   partOfCollections: [

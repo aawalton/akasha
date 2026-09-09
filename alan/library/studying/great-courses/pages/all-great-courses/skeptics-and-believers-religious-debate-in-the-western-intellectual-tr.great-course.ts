@@ -6,7 +6,7 @@ export const skepticsAndBelieversReligiousDebateInTheWesternIntellectualTr = {
   slug: "skeptics-and-believers-religious-debate-in-the-western-intellectual-tr",
   title: "Skeptics and Believers: Religious Debate in the Western Intellectual Tradition",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1119.55,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

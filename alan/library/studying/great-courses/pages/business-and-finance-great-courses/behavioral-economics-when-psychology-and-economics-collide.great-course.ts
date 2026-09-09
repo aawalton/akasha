@@ -7,7 +7,7 @@ export const behavioralEconomicsWhenPsychologyAndEconomicsCollide = {
   title: "Behavioral Economics: When Psychology and Economics Collide",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 714.6,
   ownProgress: 714.6,
   partOfCollections: [

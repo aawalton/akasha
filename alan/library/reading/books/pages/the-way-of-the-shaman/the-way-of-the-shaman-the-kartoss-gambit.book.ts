@@ -7,7 +7,7 @@ export const theWayOfTheShamanTheKartossGambit = {
   title: "The Way of the Shaman: The Kartoss Gambit",
   status: "completed",
   author: "Vasily Mahanenko",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 128250,
   ownProgress: 128250,

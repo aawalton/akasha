@@ -6,7 +6,7 @@ export const transformationalLeadershipHowLeadersChangeTeamsCompaniesAndOrg = {
   slug: "transformational-leadership-how-leaders-change-teams-companies-and-org",
   title: "Transformational Leadership: How Leaders Change Teams, Companies, and Organizations",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 756.6,
   ownProgress: 0,
   partOfCollections: [

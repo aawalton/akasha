@@ -6,7 +6,7 @@ export const practicingMindfulnessAnIntroductionToMeditation = {
   slug: "practicing-mindfulness-an-introduction-to-meditation",
   title: "Practicing Mindfulness: An Introduction to Meditation",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 750,
   ownProgress: 0,
   partOfCollections: [

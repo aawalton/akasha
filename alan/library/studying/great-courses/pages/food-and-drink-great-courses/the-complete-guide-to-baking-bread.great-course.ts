@@ -7,7 +7,7 @@ export const theCompleteGuideToBakingBread = {
   title: "The Complete Guide to Baking Bread",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 603,
   ownProgress: 603,
   partOfCollections: [

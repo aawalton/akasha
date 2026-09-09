@@ -6,7 +6,7 @@ export const gamesPeoplePlayGameTheoryInLifeBusinessAndBeyond = {
   slug: "games-people-play-game-theory-in-life-business-and-beyond",
   title: "Games People Play: Game Theory in Life, Business, and Beyond",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 736.2,
   ownProgress: 0,
   partOfCollections: [

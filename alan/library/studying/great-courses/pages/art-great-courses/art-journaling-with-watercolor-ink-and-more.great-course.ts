@@ -7,7 +7,7 @@ export const artJournalingWithWatercolorInkAndMore = {
   title: "Art Journaling With Watercolor, Ink & More",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 148.2,
   ownProgress: 148.2,
   partOfCollections: [

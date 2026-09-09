@@ -9,7 +9,7 @@ export const scriptureCollection1Thessalonians = {
   position: 13,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalId: "1thessalonians",
 } as const satisfies ScriptureCollection

@@ -7,7 +7,7 @@ export const masteringTaiChi = {
   title: "Mastering Tai Chi",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 751.8,
   ownProgress: 751.8,
   partOfCollections: [

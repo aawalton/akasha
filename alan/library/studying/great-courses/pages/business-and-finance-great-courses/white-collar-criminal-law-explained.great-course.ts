@@ -6,7 +6,7 @@ export const whiteCollarCriminalLawExplained = {
   slug: "white-collar-criminal-law-explained",
   title: "White Collar Criminal Law Explained",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 745.2,
   ownProgress: 0,
   partOfCollections: [

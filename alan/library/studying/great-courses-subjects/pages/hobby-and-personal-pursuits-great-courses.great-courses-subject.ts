@@ -6,7 +6,7 @@ export const hobbyAndPersonalPursuitsGreatCourses = {
   slug: "hobby-and-personal-pursuits-great-courses",
   title: "Hobby & Personal Pursuits Great Courses",
   status: "paused",
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-hobby-personal-pursuits",

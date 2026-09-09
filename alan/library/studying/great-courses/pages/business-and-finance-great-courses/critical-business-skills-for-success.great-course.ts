@@ -6,7 +6,7 @@ export const criticalBusinessSkillsForSuccess = {
   slug: "critical-business-skills-for-success",
   title: "Critical Business Skills for Success",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1884.6,
   ownProgress: 157.05,
   partOfCollections: [

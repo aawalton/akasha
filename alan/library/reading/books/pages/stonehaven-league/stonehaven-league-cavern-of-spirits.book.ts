@@ -6,7 +6,7 @@ export const stonehavenLeagueCavernOfSpirits = {
   slug: "stonehaven-league-cavern-of-spirits",
   title: "Stonehaven League: Cavern of Spirits",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 99000,
   ownProgress: 99000,

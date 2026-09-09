@@ -6,7 +6,7 @@ export const economics3rdEdition = {
   slug: "economics-3rd-edition",
   title: "Economics, 3rd Edition",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1111.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],

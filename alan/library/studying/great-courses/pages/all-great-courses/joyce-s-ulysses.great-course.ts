@@ -6,7 +6,7 @@ export const joyceSUlysses = {
   slug: "joyce-s-ulysses",
   title: "Joyce's “Ulysses”",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 730.616667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

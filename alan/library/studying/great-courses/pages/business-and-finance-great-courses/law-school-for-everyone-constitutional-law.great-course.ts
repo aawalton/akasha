@@ -6,7 +6,7 @@ export const lawSchoolForEveryoneConstitutionalLaw = {
   slug: "law-school-for-everyone-constitutional-law",
   title: "Law School for Everyone: Constitutional Law",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 389.4,
   ownProgress: 0,
   partOfCollections: [

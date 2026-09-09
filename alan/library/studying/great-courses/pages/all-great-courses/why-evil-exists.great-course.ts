@@ -6,7 +6,7 @@ export const whyEvilExists = {
   slug: "why-evil-exists",
   title: "Why Evil Exists",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1148.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

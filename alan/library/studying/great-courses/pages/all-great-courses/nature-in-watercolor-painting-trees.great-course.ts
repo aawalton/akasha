@@ -7,7 +7,7 @@ export const natureInWatercolorPaintingTrees = {
   title: "Nature in Watercolor: Painting Trees",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 151.2,
   ownProgress: 151.2,
   partOfCollections: ["all-great-courses"],

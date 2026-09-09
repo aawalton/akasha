@@ -6,7 +6,7 @@ export const theScientificGuideToHealthAndHappiness = {
   slug: "the-scientific-guide-to-health-and-happiness",
   title: "The Scientific Guide to Health and Happiness",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 594.6,
   ownProgress: 0,
   partOfCollections: [

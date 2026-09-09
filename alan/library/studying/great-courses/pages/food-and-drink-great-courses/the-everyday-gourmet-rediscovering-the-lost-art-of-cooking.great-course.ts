@@ -6,7 +6,7 @@ export const theEverydayGourmetRediscoveringTheLostArtOfCooking = {
   slug: "the-everyday-gourmet-rediscovering-the-lost-art-of-cooking",
   title: "The Everyday Gourmet: Rediscovering the Lost Art of Cooking",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 850.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

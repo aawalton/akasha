@@ -7,7 +7,7 @@ export const pilotLectureBusinessEtiquetteForTheVirtualWorld = {
   title: "Pilot Lecture: Business Etiquette for the Virtual World",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 30,
   ownProgress: 30,
   partOfCollections: [

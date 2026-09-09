@@ -6,7 +6,7 @@ export const theSystemApocalypseStarsAwoken = {
   slug: "the-system-apocalypse-stars-awoken",
   title: "The System Apocalypse: Stars Awoken",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 85500,
   ownProgress: 85500,

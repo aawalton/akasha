@@ -7,7 +7,7 @@ export const startupLibraryBakingAndPastry = {
   title: "Startup Library: Baking & Pastry",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 223.2,
   ownProgress: 223.2,
   partOfCollections: [

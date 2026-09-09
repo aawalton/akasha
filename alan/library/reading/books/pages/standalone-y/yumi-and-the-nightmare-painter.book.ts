@@ -7,7 +7,7 @@ export const yumiAndTheNightmarePainter = {
   title: "Yumi and the Nightmare Painter",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 119000,
   source: "kindle",

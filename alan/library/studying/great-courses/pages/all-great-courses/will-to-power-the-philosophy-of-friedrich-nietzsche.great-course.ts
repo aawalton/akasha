@@ -6,7 +6,7 @@ export const willToPowerThePhilosophyOfFriedrichNietzsche = {
   slug: "will-to-power-the-philosophy-of-friedrich-nietzsche",
   title: "Will to Power: The Philosophy of Friedrich Nietzsche",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 729.433333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

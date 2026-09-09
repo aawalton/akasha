@@ -6,7 +6,7 @@ export const theSpiritualBrainScienceAndReligiousExperience = {
   slug: "the-spiritual-brain-science-and-religious-experience",
   title: "The Spiritual Brain: Science and Religious Experience",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 738.6,
   ownProgress: 0,
   partOfCollections: [

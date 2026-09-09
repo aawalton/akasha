@@ -6,7 +6,7 @@ export const changingBodyCompositionThroughDietAndExercise = {
   slug: "changing-body-composition-through-diet-and-exercise",
   title: "Changing Body Composition through Diet and Exercise",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 775.8,
   ownProgress: 0,
   partOfCollections: [

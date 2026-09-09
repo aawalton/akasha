@@ -7,7 +7,7 @@ export const foodScienceAndTheHumanBody = {
   title: "Food, Science, and the Human Body",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1072.8,
   ownProgress: 1072.8,
   partOfCollections: [

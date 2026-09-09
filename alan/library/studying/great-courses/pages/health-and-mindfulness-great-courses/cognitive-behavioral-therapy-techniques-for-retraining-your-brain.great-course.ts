@@ -6,7 +6,7 @@ export const cognitiveBehavioralTherapyTechniquesForRetrainingYourBrain = {
   slug: "cognitive-behavioral-therapy-techniques-for-retraining-your-brain",
   title: "Cognitive Behavioral Therapy: Techniques for Retraining Your Brain",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 757.2,
   ownProgress: 0,
   partOfCollections: [

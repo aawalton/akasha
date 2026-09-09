@@ -6,7 +6,7 @@ export const theWhisperingCrystalsUnimaginedAdventures = {
   slug: "the-whispering-crystals-unimagined-adventures",
   title: "The Whispering Crystals: Unimagined Adventures",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 101250,
   ownProgress: 101250,

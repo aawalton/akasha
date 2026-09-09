@@ -6,7 +6,7 @@ export const understandingAndApplyingSelfDefenseStrategies = {
   slug: "understanding-and-applying-self-defense-strategies",
   title: "Understanding and Applying Self-Defense Strategies",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 796.8,
   ownProgress: 0,
   partOfCollections: [

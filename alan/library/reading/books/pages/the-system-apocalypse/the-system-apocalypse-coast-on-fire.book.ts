@@ -6,7 +6,7 @@ export const theSystemApocalypseCoastOnFire = {
   slug: "the-system-apocalypse-coast-on-fire",
   title: "The System Apocalypse: Coast on Fire",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 94500,
   ownProgress: 94500,

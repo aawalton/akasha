@@ -7,7 +7,7 @@ export const howToPaint = {
   title: "How to Paint",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 778.2,
   ownProgress: 778.2,
   partOfCollections: [

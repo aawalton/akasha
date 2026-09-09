@@ -6,7 +6,7 @@ export const theArtOfCriticalDecisionMaking = {
   slug: "the-art-of-critical-decision-making",
   title: "The Art of Critical Decision Making",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: [

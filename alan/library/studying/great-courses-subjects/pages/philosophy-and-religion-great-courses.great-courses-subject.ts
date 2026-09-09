@@ -6,7 +6,7 @@ export const philosophyAndReligionGreatCourses = {
   slug: "philosophy-and-religion-great-courses",
   title: "Philosophy & Religion Great Courses",
   status: "paused",
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-philosophy-religion",

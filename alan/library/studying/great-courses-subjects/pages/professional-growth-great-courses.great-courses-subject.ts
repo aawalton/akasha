@@ -6,7 +6,7 @@ export const professionalGrowthGreatCourses = {
   slug: "professional-growth-great-courses",
   title: "Professional Growth Great Courses",
   status: "paused",
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-professional-growth",

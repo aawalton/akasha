@@ -6,7 +6,7 @@ export const europeanThoughtAndCultureInThe20thCentury = {
   slug: "european-thought-and-culture-in-the-20th-century",
   title: "European Thought and Culture in the 20th Century",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 735.783333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

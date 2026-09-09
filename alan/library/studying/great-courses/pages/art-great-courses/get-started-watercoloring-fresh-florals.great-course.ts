@@ -7,7 +7,7 @@ export const getStartedWatercoloringFreshFlorals = {
   title: "Get Started Watercoloring: Fresh Florals",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 123.6,
   ownProgress: 123.6,
   partOfCollections: [

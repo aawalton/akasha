@@ -6,7 +6,7 @@ export const whoWroteTheBibleSearchingForItsOriginsAndAuthors = {
   slug: "who-wrote-the-bible-searching-for-its-origins-and-authors",
   title: "Who Wrote the Bible? Searching for Its Origins and Authors",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 634.033333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

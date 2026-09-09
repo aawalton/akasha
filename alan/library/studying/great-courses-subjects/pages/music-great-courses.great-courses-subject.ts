@@ -6,7 +6,7 @@ export const musicGreatCourses = {
   slug: "music-great-courses",
   title: "Music Great Courses",
   status: "paused",
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-music",

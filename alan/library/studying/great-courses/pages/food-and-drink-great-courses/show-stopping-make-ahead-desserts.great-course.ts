@@ -7,7 +7,7 @@ export const showStoppingMakeAheadDesserts = {
   title: "Show-Stopping Make-Ahead Desserts",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 175.8,
   ownProgress: 175.8,
   partOfCollections: [

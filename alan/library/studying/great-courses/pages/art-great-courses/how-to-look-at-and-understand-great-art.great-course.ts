@@ -7,7 +7,7 @@ export const howToLookAtAndUnderstandGreatArt = {
   title: "How to Look at and Understand Great Art",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1106.4,
   ownProgress: 1106.4,
   partOfCollections: [

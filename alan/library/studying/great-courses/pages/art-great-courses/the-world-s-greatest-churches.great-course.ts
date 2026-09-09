@@ -7,7 +7,7 @@ export const theWorldSGreatestChurches = {
   title: "The World's Greatest Churches",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 757.8,
   ownProgress: 757.8,
   partOfCollections: [

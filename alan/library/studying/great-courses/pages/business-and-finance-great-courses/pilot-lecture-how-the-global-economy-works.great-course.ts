@@ -7,7 +7,7 @@ export const pilotLectureHowTheGlobalEconomyWorks = {
   title: "Pilot Lecture: How the Global Economy Works",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],

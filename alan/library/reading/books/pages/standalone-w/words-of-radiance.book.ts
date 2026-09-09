@@ -7,7 +7,7 @@ export const wordsOfRadiance = {
   title: "Words of Radiance",
   status: "not-started",
   author: "Brandon Sanderson",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 271750,
   source: "kindle",

@@ -7,7 +7,7 @@ export const theWayOfTheShamanTheSecretOfTheDarkForest = {
   title: "The Way of the Shaman: The Secret of the Dark Forest",
   status: "completed",
   author: "Vasily Mahanenko",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 149000,
   ownProgress: 149000,

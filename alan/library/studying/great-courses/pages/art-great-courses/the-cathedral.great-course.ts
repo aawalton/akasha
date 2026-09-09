@@ -7,7 +7,7 @@ export const theCathedral = {
   title: "The Cathedral",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 739.8,
   ownProgress: 739.8,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const theEnglishNovel = {
   slug: "the-english-novel",
   title: "The English Novel",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 745.95,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

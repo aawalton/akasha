@@ -7,7 +7,7 @@ export const pilotLectureABriefHistoryOfCuba = {
   title: "Pilot Lecture: A Brief History of Cuba",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 37.8,
   ownProgress: 37.8,
   partOfCollections: ["all-great-courses"],

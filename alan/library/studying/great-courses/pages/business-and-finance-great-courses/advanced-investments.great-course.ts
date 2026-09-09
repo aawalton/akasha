@@ -7,7 +7,7 @@ export const advancedInvestments = {
   title: "Advanced Investments",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 766.2,
   ownProgress: 766.2,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],

@@ -7,7 +7,7 @@ export const newApproachesToMixedMediaMaterials = {
   title: "New Approaches to Mixed Media Materials",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 165,
   ownProgress: 165,
   partOfCollections: [

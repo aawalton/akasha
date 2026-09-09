@@ -6,7 +6,7 @@ export const narrativePortraiturePaintingInAcrylic = {
   slug: "narrative-portraiture-painting-in-acrylic",
   title: "Narrative Portraiture: Painting in Acrylic",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 312.833333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

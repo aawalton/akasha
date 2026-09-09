@@ -6,7 +6,7 @@ export const thePsychologyOfPerformanceHowToBeYourBestInLife = {
   slug: "the-psychology-of-performance-how-to-be-your-best-in-life",
   title: "The Psychology of Performance: How to Be Your Best in Life",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: [

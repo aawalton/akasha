@@ -9,7 +9,7 @@ export const scriptureCollection2Nephi = {
   position: 2,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalId: "2nephi",
 } as const satisfies ScriptureCollection

@@ -6,7 +6,7 @@ export const whiteSandBrandonSandersonsWhiteSandVol2 = {
   slug: "white-sand-brandon-sandersons-white-sand-vol-2",
   title: "White Sand: Brandon Sanderson's White Sand Vol. 2",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 38000,
   publishedAt: "2018-02-21",

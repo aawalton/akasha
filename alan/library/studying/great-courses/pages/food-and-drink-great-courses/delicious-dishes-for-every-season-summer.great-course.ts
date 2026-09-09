@@ -7,7 +7,7 @@ export const deliciousDishesForEverySeasonSummer = {
   title: "Delicious Dishes for Every Season: Summer",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 68.4,
   ownProgress: 68.4,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

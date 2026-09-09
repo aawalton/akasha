@@ -9,7 +9,7 @@ export const moroni = {
   position: 15,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalId: "moroni",
 } as const satisfies ScriptureCollection

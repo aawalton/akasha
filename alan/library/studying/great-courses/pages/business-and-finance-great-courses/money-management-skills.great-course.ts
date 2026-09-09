@@ -7,7 +7,7 @@ export const moneyManagementSkills = {
   title: "Money Management Skills",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 370.8,
   ownProgress: 370.8,
   partOfCollections: [

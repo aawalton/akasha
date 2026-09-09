@@ -6,7 +6,7 @@ export const theWhisperingCrystalsUnchainedPotential = {
   slug: "the-whispering-crystals-unchained-potential",
   title: "The Whispering Crystals: Unchained Potential",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 91250,
   ownProgress: 91250,

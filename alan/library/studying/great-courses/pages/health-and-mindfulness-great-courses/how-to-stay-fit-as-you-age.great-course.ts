@@ -6,7 +6,7 @@ export const howToStayFitAsYouAge = {
   slug: "how-to-stay-fit-as-you-age",
   title: "How to Stay Fit As You Age",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 561.6,
   ownProgress: 0,
   partOfCollections: [

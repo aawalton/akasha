@@ -9,7 +9,7 @@ export const omni = {
   position: 6,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalId: "omni",
 } as const satisfies ScriptureCollection

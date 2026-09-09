@@ -6,7 +6,7 @@ export const whyEconomiesRiseOrFall = {
   slug: "why-economies-rise-or-fall",
   title: "Why Economies Rise or Fall",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 727.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],

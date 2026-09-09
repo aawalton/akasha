@@ -6,7 +6,7 @@ export const theSystemApocalypseCitiesInChains = {
   slug: "the-system-apocalypse-cities-in-chains",
   title: "The System Apocalypse: Cities in Chains",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 4,
   ownLength: 86500,
   ownProgress: 86500,

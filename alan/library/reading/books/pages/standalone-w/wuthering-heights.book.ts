@@ -7,7 +7,7 @@ export const wutheringHeights = {
   title: "Wuthering Heights",
   status: "not-started",
   author: "Emily Brontë",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 100250,
 } as const satisfies Book

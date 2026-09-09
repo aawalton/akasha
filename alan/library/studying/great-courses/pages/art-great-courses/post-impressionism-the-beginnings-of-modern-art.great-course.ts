@@ -7,7 +7,7 @@ export const postImpressionismTheBeginningsOfModernArt = {
   title: "Post-Impressionism: The Beginnings of Modern Art",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 642.6,
   ownProgress: 642.6,
   partOfCollections: ["all-great-courses", "art-great-courses", "learning-paths-great-courses"],

@@ -7,7 +7,7 @@ export const penAndInkEssentials = {
   title: "Pen & Ink Essentials",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 140.4,
   ownProgress: 140.4,
   partOfCollections: [

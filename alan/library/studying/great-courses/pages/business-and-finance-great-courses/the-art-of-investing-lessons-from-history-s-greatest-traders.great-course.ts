@@ -6,7 +6,7 @@ export const theArtOfInvestingLessonsFromHistorySGreatestTraders = {
   slug: "the-art-of-investing-lessons-from-history-s-greatest-traders",
   title: "The Art of Investing: Lessons from History's Greatest Traders",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 720,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],

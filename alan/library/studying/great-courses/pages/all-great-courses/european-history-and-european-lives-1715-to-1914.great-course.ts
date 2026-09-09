@@ -6,7 +6,7 @@ export const europeanHistoryAndEuropeanLives1715To1914 = {
   slug: "european-history-and-european-lives-1715-to-1914",
   title: "European History and European Lives: 1715 to 1914",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1107.133333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

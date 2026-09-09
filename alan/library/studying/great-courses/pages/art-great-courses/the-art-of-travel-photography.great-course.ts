@@ -7,7 +7,7 @@ export const theArtOfTravelPhotography = {
   title: "The Art of Travel Photography",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 165,
   ownProgress: 165,
   partOfCollections: [

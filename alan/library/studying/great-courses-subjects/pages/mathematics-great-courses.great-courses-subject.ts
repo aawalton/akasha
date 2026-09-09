@@ -6,7 +6,7 @@ export const mathematicsGreatCourses = {
   slug: "mathematics-great-courses",
   title: "Mathematics Great Courses",
   status: "paused",
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-mathematics",

@@ -6,7 +6,7 @@ export const thinkingAboutCybersecurityFromCyberCrimeToCyberWarfare = {
   slug: "thinking-about-cybersecurity-from-cyber-crime-to-cyber-warfare",
   title: "Thinking about Cybersecurity: From Cyber Crime to Cyber Warfare",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 581.4,
   ownProgress: 0,
   partOfCollections: [

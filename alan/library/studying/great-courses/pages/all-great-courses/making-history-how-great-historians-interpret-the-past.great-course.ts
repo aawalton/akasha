@@ -6,7 +6,7 @@ export const makingHistoryHowGreatHistoriansInterpretThePast = {
   slug: "making-history-how-great-historians-interpret-the-past",
   title: "Making History: How Great Historians Interpret the Past",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 734.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

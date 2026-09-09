@@ -6,7 +6,7 @@ export const creationStoriesOfTheAmericas = {
   slug: "creation-stories-of-the-americas",
   title: "Creation Stories of the Americas",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 341.116667,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

@@ -7,7 +7,7 @@ export const howToMakeStressWorkForYou = {
   title: "How to Make Stress Work for You",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 580.2,
   ownProgress: 580.2,
   partOfCollections: [

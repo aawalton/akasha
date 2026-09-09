@@ -6,7 +6,7 @@ export const taiChiForAgingWithStrengthAndTranquility = {
   slug: "tai-chi-for-aging-with-strength-and-tranquility",
   title: "Tai Chi for Aging with Strength and Tranquility",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 473.4,
   ownProgress: 0,
   partOfCollections: [

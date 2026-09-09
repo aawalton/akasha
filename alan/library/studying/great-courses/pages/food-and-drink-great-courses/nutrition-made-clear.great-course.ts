@@ -6,7 +6,7 @@ export const nutritionMadeClear = {
   slug: "nutrition-made-clear",
   title: "Nutrition Made Clear",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1115.4,
   ownProgress: 433.766667,
   partOfCollections: [

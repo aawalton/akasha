@@ -7,7 +7,7 @@ export const figureDrawingAnEssentialGuide = {
   title: "Figure Drawing: An Essential Guide",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 93.6,
   ownProgress: 93.6,
   partOfCollections: ["all-great-courses"],

@@ -7,7 +7,7 @@ export const thePathOfAscension11 = {
   title: "The Path of Ascension 11",
   status: "not-started",
   author: "Frederic William Farrar",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 164000,
   publishedAt: "2026-03-04",

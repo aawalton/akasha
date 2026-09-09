@@ -6,7 +6,7 @@ export const bigDataHowDataAnalyticsIsTransformingTheWorld = {
   slug: "big-data-how-data-analytics-is-transforming-the-world",
   title: "Big Data: How Data Analytics Is Transforming the World",
   status: "completed",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 756.6,
   ownProgress: 662.025,
   partOfCollections: [

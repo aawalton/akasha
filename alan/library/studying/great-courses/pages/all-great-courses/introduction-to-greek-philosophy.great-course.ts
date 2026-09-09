@@ -6,7 +6,7 @@ export const introductionToGreekPhilosophy = {
   slug: "introduction-to-greek-philosophy",
   title: "Introduction to Greek Philosophy",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 736.05,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

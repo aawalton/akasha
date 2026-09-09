@@ -6,7 +6,7 @@ export const medicalMythsLiesAndHalfTruthsWhatWeThinkWeKnowMayBeHurtin = {
   slug: "medical-myths-lies-and-half-truths-what-we-think-we-know-may-be-hurtin",
   title: "Medical Myths, Lies, and Half-Truths: What We Think We Know May Be Hurting Us",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 746.4,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const essentialsOfTaiChiAndQigong = {
   slug: "essentials-of-tai-chi-and-qigong",
   title: "Essentials of Tai Chi and Qigong",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 744.6,
   ownProgress: 0,
   partOfCollections: [

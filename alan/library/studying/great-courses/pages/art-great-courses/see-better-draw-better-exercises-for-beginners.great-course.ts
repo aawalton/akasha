@@ -7,7 +7,7 @@ export const seeBetterDrawBetterExercisesForBeginners = {
   title: "See Better, Draw Better: Exercises for Beginners",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 133.8,
   ownProgress: 133.8,
   partOfCollections: [

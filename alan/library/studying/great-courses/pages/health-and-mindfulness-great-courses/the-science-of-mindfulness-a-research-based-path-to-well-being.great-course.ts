@@ -6,7 +6,7 @@ export const theScienceOfMindfulnessAResearchBasedPathToWellBeing = {
   slug: "the-science-of-mindfulness-a-research-based-path-to-well-being",
   title: "The Science of Mindfulness: A Research-Based Path to Well-Being",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 852,
   ownProgress: 0,
   partOfCollections: [

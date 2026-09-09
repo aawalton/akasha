@@ -7,7 +7,7 @@ export const paintingWithWatercolors = {
   title: "Painting with Watercolors",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 360.6,
   ownProgress: 360.6,
   partOfCollections: [

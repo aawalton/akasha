@@ -6,7 +6,7 @@ export const theGreatToursTheWorldSMostSacredSites = {
   slug: "the-great-tours-the-world-s-most-sacred-sites",
   title: "The Great Tours: The World’s Most Sacred Sites",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 708.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

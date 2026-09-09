@@ -6,7 +6,7 @@ export const theWayOfTheShamanTheKarmadontChessSet = {
   slug: "the-way-of-the-shaman-the-karmadont-chess-set",
   title: "The Way of the Shaman: The Karmadont Chess Set",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 126250,
   ownProgress: 126250,

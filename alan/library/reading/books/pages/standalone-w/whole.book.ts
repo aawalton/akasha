@@ -7,6 +7,6 @@ export const whole = {
   title: "Whole",
   status: "not-started",
   author: "Sandra Brown",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 167250,
 } as const satisfies Book

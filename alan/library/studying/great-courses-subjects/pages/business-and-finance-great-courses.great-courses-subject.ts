@@ -6,7 +6,7 @@ export const businessAndFinanceGreatCourses = {
   slug: "business-and-finance-great-courses",
   title: "Business & Finance Great Courses",
   status: "paused",
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-business-finance",

@@ -7,7 +7,7 @@ export const bakeYourOwnBagelsBialysAndPretzels = {
   title: "Bake Your Own Bagels, Bialys & Pretzels",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 113.4,
   ownProgress: 113.4,
   partOfCollections: [

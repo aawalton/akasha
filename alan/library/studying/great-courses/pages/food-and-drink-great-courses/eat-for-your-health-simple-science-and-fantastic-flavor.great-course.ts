@@ -7,7 +7,7 @@ export const eatForYourHealthSimpleScienceAndFantasticFlavor = {
   title: "Eat for Your Health: Simple Science and Fantastic Flavor",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 420,
   ownProgress: 420,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

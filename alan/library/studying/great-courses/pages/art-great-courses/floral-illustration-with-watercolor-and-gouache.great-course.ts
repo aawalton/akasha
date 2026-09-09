@@ -7,7 +7,7 @@ export const floralIllustrationWithWatercolorAndGouache = {
   title: "Floral Illustration With Watercolor & Gouache",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 82.8,
   ownProgress: 82.8,
   partOfCollections: [

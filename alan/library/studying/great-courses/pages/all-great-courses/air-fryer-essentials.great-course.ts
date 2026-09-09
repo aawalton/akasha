@@ -7,7 +7,7 @@ export const airFryerEssentials = {
   title: "Air Fryer Essentials",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 87.6,
   ownProgress: 87.6,
   partOfCollections: ["all-great-courses"],

@@ -7,6 +7,6 @@ export const youAreNotSoSmart = {
   title: "You Are Not So Smart",
   status: "not-started",
   author: "David McRaney",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 126000,
 } as const satisfies Book

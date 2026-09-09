@@ -7,7 +7,7 @@ export const bakeYourBestSweetYeastBreadsChallahAndMore = {
   title: "Bake Your Best: Sweet Yeast Breads, Challah & More",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 135.6,
   ownProgress: 135.6,
   partOfCollections: ["all-great-courses"],

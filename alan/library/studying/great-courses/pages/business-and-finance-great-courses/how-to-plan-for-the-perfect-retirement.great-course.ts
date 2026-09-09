@@ -6,7 +6,7 @@ export const howToPlanForThePerfectRetirement = {
   slug: "how-to-plan-for-the-perfect-retirement",
   title: "How to Plan for the Perfect Retirement",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 357.6,
   ownProgress: 0,
   partOfCollections: [

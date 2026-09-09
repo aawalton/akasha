@@ -7,7 +7,7 @@ export const scientificSecretsForSelfControl = {
   title: "Scientific Secrets for Self-Control",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 183,
   ownProgress: 0,
   partOfCollections: [

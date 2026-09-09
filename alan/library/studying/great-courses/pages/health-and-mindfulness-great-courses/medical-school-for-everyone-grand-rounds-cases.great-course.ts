@@ -6,7 +6,7 @@ export const medicalSchoolForEveryoneGrandRoundsCases = {
   slug: "medical-school-for-everyone-grand-rounds-cases",
   title: "Medical School for Everyone: Grand Rounds Cases",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 747,
   ownProgress: 0,
   partOfCollections: [

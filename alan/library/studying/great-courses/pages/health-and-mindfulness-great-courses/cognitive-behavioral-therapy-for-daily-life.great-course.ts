@@ -6,7 +6,7 @@ export const cognitiveBehavioralTherapyForDailyLife = {
   slug: "cognitive-behavioral-therapy-for-daily-life",
   title: "Cognitive Behavioral Therapy for Daily Life",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 733.2,
   ownProgress: 0,
   partOfCollections: [

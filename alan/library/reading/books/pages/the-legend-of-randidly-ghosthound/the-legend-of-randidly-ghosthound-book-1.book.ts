@@ -7,7 +7,7 @@ export const theLegendOfRandidlyGhosthoundBook1 = {
   title: "The Legend of Randidly Ghosthound",
   status: "completed",
   author: "Noret Flood",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 143500,
   ownProgress: 143500,

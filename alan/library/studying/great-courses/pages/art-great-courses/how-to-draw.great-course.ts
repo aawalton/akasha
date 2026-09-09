@@ -7,7 +7,7 @@ export const howToDraw = {
   title: "How to Draw",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1087.8,
   ownProgress: 1087.8,
   partOfCollections: [

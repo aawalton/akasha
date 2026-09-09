@@ -6,7 +6,7 @@ export const theWayOfTheShamanClansWar = {
   slug: "the-way-of-the-shaman-clans-war",
   title: "The Way of the Shaman: Clans War",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 138750,
   ownProgress: 138750,

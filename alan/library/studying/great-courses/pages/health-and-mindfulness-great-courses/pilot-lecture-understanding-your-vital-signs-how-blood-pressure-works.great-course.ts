@@ -7,7 +7,7 @@ export const pilotLectureUnderstandingYourVitalSignsHowBloodPressureWorks = {
   title: "Pilot Lecture: Understanding Your Vital Signs—How Blood Pressure Works",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 31.2,
   ownProgress: 31.2,
   partOfCollections: [

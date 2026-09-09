@@ -6,7 +6,7 @@ export const masterpiecesOfAncientGreekLiterature = {
   slug: "masterpieces-of-ancient-greek-literature",
   title: "Masterpieces of Ancient Greek Literature",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1105.133333,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

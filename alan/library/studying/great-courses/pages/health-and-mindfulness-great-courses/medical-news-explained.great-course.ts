@@ -7,7 +7,7 @@ export const medicalNewsExplained = {
   title: "Medical News Explained",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 72,
   ownProgress: 72,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],

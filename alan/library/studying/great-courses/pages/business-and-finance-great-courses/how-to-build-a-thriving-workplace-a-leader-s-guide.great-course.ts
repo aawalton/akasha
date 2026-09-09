@@ -6,7 +6,7 @@ export const howToBuildAThrivingWorkplaceALeaderSGuide = {
   slug: "how-to-build-a-thriving-workplace-a-leader-s-guide",
   title: "How to Build a Thriving Workplace: A Leader’s Guide",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 363,
   ownProgress: 0,
   partOfCollections: [

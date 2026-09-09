@@ -9,7 +9,7 @@ export const haggai = {
   position: 37,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalId: "haggai",
 } as const satisfies ScriptureCollection

@@ -6,7 +6,7 @@ export const whatAreTheChancesProbabilityMadeClear = {
   slug: "what-are-the-chances-probability-made-clear",
   title: "What Are the Chances? Probability Made Clear",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 370.8,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const theInstantSommelierChoosingYourBestWine = {
   title: "The Instant Sommelier: Choosing Your Best Wine",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 186,
   ownProgress: 186,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

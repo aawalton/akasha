@@ -7,7 +7,7 @@ export const interconnectedThePastPresentAndFutureOfTheInternet = {
   title: "Interconnected: The Past, Present, and Future of the Internet",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 108,
   ownProgress: 108,
   partOfCollections: [

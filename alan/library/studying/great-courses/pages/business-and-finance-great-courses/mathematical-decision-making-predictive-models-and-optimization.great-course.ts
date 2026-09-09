@@ -6,7 +6,7 @@ export const mathematicalDecisionMakingPredictiveModelsAndOptimization = {
   slug: "mathematical-decision-making-predictive-models-and-optimization",
   title: "Mathematical Decision Making: Predictive Models and Optimization",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 747.6,
   ownProgress: 0,
   partOfCollections: [

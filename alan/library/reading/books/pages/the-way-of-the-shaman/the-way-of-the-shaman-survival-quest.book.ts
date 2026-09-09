@@ -7,7 +7,7 @@ export const theWayOfTheShamanSurvivalQuest = {
   title: "The Way of the Shaman: Survival Quest",
   status: "completed",
   author: "Vasily Mahanenko",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 82000,
   ownProgress: 82000,

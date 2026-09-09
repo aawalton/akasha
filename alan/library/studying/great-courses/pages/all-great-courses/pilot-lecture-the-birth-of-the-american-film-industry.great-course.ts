@@ -7,7 +7,7 @@ export const pilotLectureTheBirthOfTheAmericanFilmIndustry = {
   title: "Pilot Lecture: The Birth of the American Film Industry",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 30.183333,
   ownProgress: 30.183333,
   partOfCollections: ["all-great-courses"],

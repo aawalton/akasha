@@ -7,7 +7,7 @@ export const theCompletePainterLessonsFromTheMasters = {
   title: "The Complete Painter: Lessons from the Masters",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 976.2,
   ownProgress: 976.2,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const fightingMisinformationDigitalMediaLiteracy = {
   slug: "fighting-misinformation-digital-media-literacy",
   title: "Fighting Misinformation: Digital Media Literacy",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 214.8,
   ownProgress: 0,
   partOfCollections: [

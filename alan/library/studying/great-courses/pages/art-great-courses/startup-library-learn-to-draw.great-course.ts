@@ -7,7 +7,7 @@ export const startupLibraryLearnToDraw = {
   title: "Startup Library: Learn to Draw",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 355.8,
   ownProgress: 355.8,
   partOfCollections: [

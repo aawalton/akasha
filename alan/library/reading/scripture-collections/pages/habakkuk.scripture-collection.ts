@@ -9,7 +9,7 @@ export const habakkuk = {
   position: 35,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalId: "habakkuk",
 } as const satisfies ScriptureCollection

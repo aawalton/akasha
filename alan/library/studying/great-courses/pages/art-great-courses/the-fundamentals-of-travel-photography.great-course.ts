@@ -7,7 +7,7 @@ export const theFundamentalsOfTravelPhotography = {
   title: "The Fundamentals of Travel Photography",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 601.2,
   ownProgress: 601.2,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const theEverydayGourmetEssentialSecretsOfSpicesInCooking = {
   title: "The Everyday Gourmet: Essential Secrets of Spices in Cooking",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 195.6,
   ownProgress: 195.6,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

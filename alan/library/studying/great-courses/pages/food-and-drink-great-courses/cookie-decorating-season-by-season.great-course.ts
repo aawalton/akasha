@@ -7,7 +7,7 @@ export const cookieDecoratingSeasonBySeason = {
   title: "Cookie Decorating Season by Season",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 123,
   ownProgress: 123,
   partOfCollections: [

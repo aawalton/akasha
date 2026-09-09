@@ -6,7 +6,7 @@ export const theEntrepreneurSToolkit = {
   slug: "the-entrepreneur-s-toolkit",
   title: "The Entrepreneur's Toolkit",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 763.8,
   ownProgress: 0,
   partOfCollections: [

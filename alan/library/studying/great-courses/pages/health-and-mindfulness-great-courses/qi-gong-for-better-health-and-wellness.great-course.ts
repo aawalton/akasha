@@ -6,7 +6,7 @@ export const qiGongForBetterHealthAndWellness = {
   slug: "qi-gong-for-better-health-and-wellness",
   title: "Qi Gong for Better Health and Wellness",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 505.8,
   ownProgress: 0,
   partOfCollections: [

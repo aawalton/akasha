@@ -7,7 +7,7 @@ export const americaAndTheNewGlobalEconomy = {
   title: "America and the New Global Economy",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1120.2,
   ownProgress: 1120.2,
   partOfCollections: [

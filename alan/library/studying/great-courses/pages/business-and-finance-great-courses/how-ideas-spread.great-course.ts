@@ -6,7 +6,7 @@ export const howIdeasSpread = {
   slug: "how-ideas-spread",
   title: "How Ideas Spread",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 354.6,
   ownProgress: 0,
   partOfCollections: [

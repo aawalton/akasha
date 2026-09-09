@@ -6,6 +6,6 @@ export const yourBestBrainTheScienceOfBrainImprovement = {
   slug: "your-best-brain-the-science-of-brain-improvement",
   title: "Your Best Brain: The Science of Brain Improvement",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   ownLength: 189750,
 } as const satisfies Book

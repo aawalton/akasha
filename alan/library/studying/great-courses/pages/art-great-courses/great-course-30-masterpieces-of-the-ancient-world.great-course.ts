@@ -7,7 +7,7 @@ export const greatCourse30MasterpiecesOfTheAncientWorld = {
   title: "30 Masterpieces of the Ancient World",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1117.8,
   ownProgress: 1117.8,
   partOfCollections: ["all-great-courses", "art-great-courses", "history-great-courses"],

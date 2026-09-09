@@ -6,7 +6,7 @@ export const understandingEconomicsGameTheory = {
   slug: "understanding-economics-game-theory",
   title: "Understanding Economics: Game Theory",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 360,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],

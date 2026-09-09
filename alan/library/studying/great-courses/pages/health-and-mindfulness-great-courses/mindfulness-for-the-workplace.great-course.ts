@@ -6,7 +6,7 @@ export const mindfulnessForTheWorkplace = {
   slug: "mindfulness-for-the-workplace",
   title: "Mindfulness for the Workplace",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 289.8,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const theWorldSGreatestPaintings = {
   title: "The World's Greatest Paintings",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 732,
   ownProgress: 732,
   partOfCollections: ["all-great-courses", "art-great-courses"],

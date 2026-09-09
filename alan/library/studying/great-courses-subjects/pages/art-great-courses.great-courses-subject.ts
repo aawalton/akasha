@@ -7,7 +7,7 @@ export const artGreatCourses = {
   title: "Art Great Courses",
   status: "following",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   partOfCollections: ["great-courses-by-subject"],
   source: "the-great-courses",
   externalId: "great-courses-subject-art",

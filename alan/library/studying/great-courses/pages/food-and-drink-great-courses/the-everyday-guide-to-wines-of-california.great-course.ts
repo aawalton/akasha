@@ -7,7 +7,7 @@ export const theEverydayGuideToWinesOfCalifornia = {
   title: "The Everyday Guide to Wines of California",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 195.6,
   ownProgress: 195.6,
   partOfCollections: [

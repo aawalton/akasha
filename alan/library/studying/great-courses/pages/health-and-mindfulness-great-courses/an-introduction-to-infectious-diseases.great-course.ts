@@ -7,7 +7,7 @@ export const anIntroductionToInfectiousDiseases = {
   title: "An Introduction to Infectious Diseases",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 765,
   ownProgress: 765,
   partOfCollections: [

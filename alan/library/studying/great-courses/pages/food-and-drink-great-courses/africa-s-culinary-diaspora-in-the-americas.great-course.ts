@@ -7,7 +7,7 @@ export const africaSCulinaryDiasporaInTheAmericas = {
   title: "Africa’s Culinary Diaspora in the Americas",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 289.8,
   ownProgress: 289.8,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

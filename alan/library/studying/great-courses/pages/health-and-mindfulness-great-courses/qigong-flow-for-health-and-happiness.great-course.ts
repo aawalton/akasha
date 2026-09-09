@@ -6,7 +6,7 @@ export const qigongFlowForHealthAndHappiness = {
   slug: "qigong-flow-for-health-and-happiness",
   title: "Qigong Flow for Health and Happiness",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 567.6,
   ownProgress: 0,
   partOfCollections: [

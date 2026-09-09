@@ -7,7 +7,7 @@ export const pilotLectureWhatIsMoney = {
   title: "Pilot Lecture: What Is Money?",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 25.8,
   ownProgress: 25.8,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],

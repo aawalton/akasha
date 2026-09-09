@@ -6,7 +6,7 @@ export const meaningFromDataStatisticsMadeClear = {
   slug: "meaning-from-data-statistics-made-clear",
   title: "Meaning from Data: Statistics Made Clear",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 744,
   ownProgress: 0,
   partOfCollections: [

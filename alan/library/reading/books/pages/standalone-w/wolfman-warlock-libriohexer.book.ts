@@ -6,7 +6,7 @@ export const wolfmanWarlockLibriohexer = {
   slug: "wolfman-warlock-libriohexer",
   title: "Wolfman Warlock: Libriohexer",
   status: "not-started",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 93250,
   publishedAt: "2021-10-27",

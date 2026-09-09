@@ -6,7 +6,7 @@ export const theKnightsTemplarAHistoryStrangeAndTrue = {
   slug: "the-knights-templar-a-history-strange-and-true",
   title: "The Knights Templar: A History Strange and True",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 663,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

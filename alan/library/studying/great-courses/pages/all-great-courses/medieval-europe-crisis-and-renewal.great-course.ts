@@ -6,7 +6,7 @@ export const medievalEuropeCrisisAndRenewal = {
   slug: "medieval-europe-crisis-and-renewal",
   title: "Medieval Europe: Crisis and Renewal",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 713.9,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

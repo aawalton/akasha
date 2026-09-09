@@ -6,7 +6,7 @@ export const theAgingBrain = {
   slug: "the-aging-brain",
   title: "The Aging Brain",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 382.2,
   ownProgress: 0,
   partOfCollections: [

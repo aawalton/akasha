@@ -7,7 +7,7 @@ export const mixedMediaPenInkAndWatercolor = {
   title: "Mixed Media: Pen, Ink & Watercolor",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 187.8,
   ownProgress: 187.8,
   partOfCollections: [

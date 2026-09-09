@@ -7,7 +7,7 @@ export const pilotLectureBuildingAWebsiteWithHtmlAndCss = {
   title: "Pilot Lecture: Building a Website with HTML and CSS",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 25.2,
   ownProgress: 25.2,
   partOfCollections: [

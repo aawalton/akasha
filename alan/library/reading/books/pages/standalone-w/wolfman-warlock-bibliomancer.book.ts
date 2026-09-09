@@ -6,7 +6,7 @@ export const wolfmanWarlockBibliomancer = {
   slug: "wolfman-warlock-bibliomancer",
   title: "Wolfman Warlock: Bibliomancer",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 98000,
   ownProgress: 98000,

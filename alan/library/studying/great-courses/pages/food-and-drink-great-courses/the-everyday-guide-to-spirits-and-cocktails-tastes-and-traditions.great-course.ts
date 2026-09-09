@@ -7,7 +7,7 @@ export const theEverydayGuideToSpiritsAndCocktailsTastesAndTraditions = {
   title: "The Everyday Guide to Spirits and Cocktails: Tastes and Traditions",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 252,
   ownProgress: 252,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

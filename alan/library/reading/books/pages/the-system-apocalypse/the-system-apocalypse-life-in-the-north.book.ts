@@ -7,7 +7,7 @@ export const theSystemApocalypseLifeInTheNorth = {
   title: "The System Apocalypse: Life in the North",
   status: "completed",
   author: "Tao Wong",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 93000,
   ownProgress: 93000,

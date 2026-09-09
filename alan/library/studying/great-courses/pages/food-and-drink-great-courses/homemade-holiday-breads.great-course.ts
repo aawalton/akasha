@@ -7,7 +7,7 @@ export const homemadeHolidayBreads = {
   title: "Homemade Holiday Breads",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 119.4,
   ownProgress: 119.4,
   partOfCollections: [

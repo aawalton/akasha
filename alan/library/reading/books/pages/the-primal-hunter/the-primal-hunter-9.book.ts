@@ -7,7 +7,7 @@ export const thePrimalHunter9 = {
   title: "The Primal Hunter 9",
   status: "completed",
   author: "Nick Roberts, Greg Kramer",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 151000,
   ownProgress: 151000,

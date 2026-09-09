@@ -6,7 +6,7 @@ export const howToSpeakSoThatPeopleWantToListen = {
   slug: "how-to-speak-so-that-people-want-to-listen",
   title: "How to Speak So That People Want to Listen",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 417.6,
   ownProgress: 0,
   partOfCollections: [

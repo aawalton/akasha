@@ -7,7 +7,7 @@ export const greatCourse7DaysOfDrawing = {
   title: "7 Days of Drawing",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 94.2,
   ownProgress: 94.2,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const stressAndYourBody = {
   slug: "stress-and-your-body",
   title: "Stress and Your Body",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 737.4,
   ownProgress: 0,
   partOfCollections: [

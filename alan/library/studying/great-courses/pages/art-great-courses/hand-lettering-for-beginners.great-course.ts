@@ -7,7 +7,7 @@ export const handLetteringForBeginners = {
   title: "Hand-Lettering for Beginners",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 116.4,
   ownProgress: 116.4,
   partOfCollections: [

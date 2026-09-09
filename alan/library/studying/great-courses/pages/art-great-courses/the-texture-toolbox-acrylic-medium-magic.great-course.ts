@@ -7,7 +7,7 @@ export const theTextureToolboxAcrylicMediumMagic = {
   title: "The Texture Toolbox: Acrylic Medium Magic",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 145.8,
   ownProgress: 145.8,
   partOfCollections: [

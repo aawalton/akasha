@@ -7,7 +7,7 @@ export const theSystemApocalypseTheCostOfSurvival = {
   title: "The System Apocalypse: The Cost of Survival",
   status: "completed",
   author: "Tao Wong",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 75750,
   ownProgress: 75750,

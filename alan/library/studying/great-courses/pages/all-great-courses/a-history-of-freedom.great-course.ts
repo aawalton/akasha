@@ -6,7 +6,7 @@ export const aHistoryOfFreedom = {
   slug: "a-history-of-freedom",
   title: "A History of Freedom",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1100.1,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

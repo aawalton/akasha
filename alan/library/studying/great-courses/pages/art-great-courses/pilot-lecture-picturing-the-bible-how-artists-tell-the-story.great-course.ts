@@ -7,7 +7,7 @@ export const pilotLecturePicturingTheBibleHowArtistsTellTheStory = {
   title: "Pilot Lecture: Picturing the Bible—How Artists Tell the Story",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 30.6,
   ownProgress: 30.6,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const thePerfectCupcake = {
   title: "The Perfect Cupcake",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 151.2,
   ownProgress: 151.2,
   partOfCollections: [

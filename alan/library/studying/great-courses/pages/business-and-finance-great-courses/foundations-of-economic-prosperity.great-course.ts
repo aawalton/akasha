@@ -6,7 +6,7 @@ export const foundationsOfEconomicProsperity = {
   slug: "foundations-of-economic-prosperity",
   title: "Foundations of Economic Prosperity",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 736.2,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],

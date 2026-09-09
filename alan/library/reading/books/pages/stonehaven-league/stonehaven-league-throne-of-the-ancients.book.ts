@@ -6,7 +6,7 @@ export const stonehavenLeagueThroneOfTheAncients = {
   slug: "stonehaven-league-throne-of-the-ancients",
   title: "Stonehaven League: Throne of the Ancients",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 87500,
   ownProgress: 87500,

@@ -7,7 +7,7 @@ export const theEverydayGuideToBeer = {
   title: "The Everyday Guide to Beer",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 340.2,
   ownProgress: 340.2,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

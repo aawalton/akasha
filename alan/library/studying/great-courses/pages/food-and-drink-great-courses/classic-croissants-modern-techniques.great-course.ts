@@ -7,7 +7,7 @@ export const classicCroissantsModernTechniques = {
   title: "Classic Croissants, Modern Techniques",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 108,
   ownProgress: 108,
   partOfCollections: [

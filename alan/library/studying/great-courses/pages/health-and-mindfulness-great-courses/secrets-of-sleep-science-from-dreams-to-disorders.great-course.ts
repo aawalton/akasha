@@ -6,7 +6,7 @@ export const secretsOfSleepScienceFromDreamsToDisorders = {
   slug: "secrets-of-sleep-science-from-dreams-to-disorders",
   title: "Secrets of Sleep Science: From Dreams to Disorders",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 739.2,
   ownProgress: 0,
   partOfCollections: [

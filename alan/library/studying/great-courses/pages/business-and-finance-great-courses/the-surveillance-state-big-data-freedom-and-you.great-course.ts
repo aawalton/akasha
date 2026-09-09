@@ -6,7 +6,7 @@ export const theSurveillanceStateBigDataFreedomAndYou = {
   slug: "the-surveillance-state-big-data-freedom-and-you",
   title: "The Surveillance State: Big Data, Freedom, and You",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 734.4,
   ownProgress: 0,
   partOfCollections: [

@@ -6,7 +6,7 @@ export const irestIntegrativeRestorationYogaNidraForDeepRelaxation = {
   slug: "irest-integrative-restoration-yoga-nidra-for-deep-relaxation",
   title: "iRest: Integrative Restoration Yoga Nidra for Deep Relaxation",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 835.2,
   ownProgress: 0,
   partOfCollections: [

@@ -7,7 +7,7 @@ export const illustratedNatureJournaling = {
   title: "Illustrated Nature Journaling",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 137.4,
   ownProgress: 137.4,
   partOfCollections: [

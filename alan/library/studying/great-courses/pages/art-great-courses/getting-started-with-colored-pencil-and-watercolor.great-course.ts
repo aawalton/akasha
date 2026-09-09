@@ -7,7 +7,7 @@ export const gettingStartedWithColoredPencilAndWatercolor = {
   title: "Getting Started With Colored Pencil & Watercolor",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 132.6,
   ownProgress: 132.6,
   partOfCollections: [

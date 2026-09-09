@@ -7,7 +7,7 @@ export const theEverydayGuideToWinesOfFrance = {
   title: "The Everyday Guide to Wines of France",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 213,
   ownProgress: 213,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

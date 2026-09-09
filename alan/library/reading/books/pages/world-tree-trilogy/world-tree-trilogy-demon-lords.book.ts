@@ -6,7 +6,7 @@ export const worldTreeTrilogyDemonLords = {
   slug: "world-tree-trilogy-demon-lords",
   title: "World-Tree Trilogy: Demon Lords",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 2,
   ownLength: 109750,
   ownProgress: 109750,

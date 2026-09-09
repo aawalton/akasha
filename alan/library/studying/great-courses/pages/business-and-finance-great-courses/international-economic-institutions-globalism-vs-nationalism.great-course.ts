@@ -6,7 +6,7 @@ export const internationalEconomicInstitutionsGlobalismVsNationalism = {
   slug: "international-economic-institutions-globalism-vs-nationalism",
   title: "International Economic Institutions: Globalism vs. Nationalism",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 749.4,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],

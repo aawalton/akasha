@@ -6,7 +6,7 @@ export const theSystemApocalypseForbiddenZone = {
   slug: "the-system-apocalypse-forbidden-zone",
   title: "The System Apocalypse: Forbidden Zone",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 11,
   ownLength: 107500,
   ownProgress: 107500,

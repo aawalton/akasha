@@ -6,7 +6,7 @@ export const theWayOfTheShamanShamansRevenge = {
   slug: "the-way-of-the-shaman-shamans-revenge",
   title: "The Way of the Shaman: Shaman's Revenge",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 6,
   ownLength: 140250,
   ownProgress: 140250,

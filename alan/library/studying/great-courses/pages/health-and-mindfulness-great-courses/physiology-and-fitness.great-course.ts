@@ -6,7 +6,7 @@ export const physiologyAndFitness = {
   slug: "physiology-and-fitness",
   title: "Physiology and Fitness",
   status: "in-progress",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1130.4,
   ownProgress: 345.4,
   partOfCollections: [

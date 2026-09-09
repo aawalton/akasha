@@ -7,7 +7,7 @@ export const worldTreeTrilogyWorldTreesEnd = {
   title: "World-Tree Trilogy: World-Tree's End",
   status: "completed",
   author: "Daniel Defoe, J. J. Grandville, Petrus Borel, Les éditions du Rey, N. C. Wyeth",
-  unitSlug: "words",
+  unit: "words",
   position: 3,
   ownLength: 118750,
   ownProgress: 118750,

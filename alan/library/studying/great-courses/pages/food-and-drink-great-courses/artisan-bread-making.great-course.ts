@@ -7,7 +7,7 @@ export const artisanBreadMaking = {
   title: "Artisan Bread Making",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 320.4,
   ownProgress: 320.4,
   partOfCollections: [

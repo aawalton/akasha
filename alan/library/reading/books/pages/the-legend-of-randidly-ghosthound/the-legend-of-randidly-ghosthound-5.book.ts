@@ -6,7 +6,7 @@ export const theLegendOfRandidlyGhosthound5 = {
   slug: "the-legend-of-randidly-ghosthound-5",
   title: "The Legend of Randidly Ghosthound 5",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 5,
   ownLength: 182500,
   ownProgress: 182500,

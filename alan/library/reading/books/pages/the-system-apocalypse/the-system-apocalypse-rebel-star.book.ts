@@ -6,7 +6,7 @@ export const theSystemApocalypseRebelStar = {
   slug: "the-system-apocalypse-rebel-star",
   title: "The System Apocalypse: Rebel Star",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 8,
   ownLength: 103750,
   ownProgress: 103750,

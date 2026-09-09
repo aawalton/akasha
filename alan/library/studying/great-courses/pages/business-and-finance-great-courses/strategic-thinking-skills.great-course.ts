@@ -6,7 +6,7 @@ export const strategicThinkingSkills = {
   slug: "strategic-thinking-skills",
   title: "Strategic Thinking Skills",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 730.8,
   ownProgress: 0,
   partOfCollections: [

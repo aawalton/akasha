@@ -6,7 +6,7 @@ export const theGreatCourses = {
   slug: "the-great-courses",
   title: "The Great Courses",
   status: "not-applicable",
-  unitSlug: "minutes",
+  unit: "minutes",
   source: "the-great-courses",
   lastSyncedAt: "2026-08-24",
 } as const satisfies GreatCoursesCollection

@@ -9,7 +9,7 @@ export const jonah = {
   position: 32,
   ownLength: 0,
   ownProgress: 0,
-  unitSlug: "words",
+  unit: "words",
   status: "not-started",
   externalId: "jonah",
 } as const satisfies ScriptureCollection

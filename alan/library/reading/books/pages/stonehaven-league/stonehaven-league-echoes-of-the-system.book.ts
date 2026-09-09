@@ -6,7 +6,7 @@ export const stonehavenLeagueEchoesOfTheSystem = {
   slug: "stonehaven-league-echoes-of-the-system",
   title: "Stonehaven League: Echoes of the System",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 7,
   ownLength: 68250,
   ownProgress: 68250,

@@ -7,7 +7,7 @@ export const essentialTechniquesForOutstandingPaintings = {
   title: "Essential Techniques for Outstanding Paintings",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 118.8,
   ownProgress: 118.8,
   partOfCollections: ["all-great-courses"],

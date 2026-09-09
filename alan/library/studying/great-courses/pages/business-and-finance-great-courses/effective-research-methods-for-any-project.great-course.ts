@@ -6,7 +6,7 @@ export const effectiveResearchMethodsForAnyProject = {
   slug: "effective-research-methods-for-any-project",
   title: "Effective Research Methods for Any Project",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 729.6,
   ownProgress: 0,
   partOfCollections: [

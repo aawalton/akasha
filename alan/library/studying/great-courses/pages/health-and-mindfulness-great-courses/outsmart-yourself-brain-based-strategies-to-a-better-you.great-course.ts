@@ -6,7 +6,7 @@ export const outsmartYourselfBrainBasedStrategiesToABetterYou = {
   slug: "outsmart-yourself-brain-based-strategies-to-a-better-you",
   title: "Outsmart Yourself: Brain-Based Strategies to a Better You",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 757.2,
   ownProgress: 0,
   partOfCollections: [

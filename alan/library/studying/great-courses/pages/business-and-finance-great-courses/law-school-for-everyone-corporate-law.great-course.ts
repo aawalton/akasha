@@ -6,7 +6,7 @@ export const lawSchoolForEveryoneCorporateLaw = {
   slug: "law-school-for-everyone-corporate-law",
   title: "Law School for Everyone: Corporate Law",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 348,
   ownProgress: 0,
   partOfCollections: [

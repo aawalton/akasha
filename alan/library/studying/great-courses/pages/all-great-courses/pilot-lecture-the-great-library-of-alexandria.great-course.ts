@@ -7,7 +7,7 @@ export const pilotLectureTheGreatLibraryOfAlexandria = {
   title: "Pilot Lecture: The Great Library of Alexandria",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 34.3,
   ownProgress: 34.3,
   partOfCollections: ["all-great-courses"],

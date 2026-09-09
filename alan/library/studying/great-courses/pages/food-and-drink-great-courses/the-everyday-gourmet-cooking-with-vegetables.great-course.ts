@@ -6,7 +6,7 @@ export const theEverydayGourmetCookingWithVegetables = {
   slug: "the-everyday-gourmet-cooking-with-vegetables",
   title: "The Everyday Gourmet: Cooking with Vegetables",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 846.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "food-and-drink-great-courses"],

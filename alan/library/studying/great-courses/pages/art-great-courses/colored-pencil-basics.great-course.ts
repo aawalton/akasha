@@ -7,7 +7,7 @@ export const coloredPencilBasics = {
   title: "Colored Pencil Basics",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 643.2,
   ownProgress: 643.2,
   partOfCollections: [

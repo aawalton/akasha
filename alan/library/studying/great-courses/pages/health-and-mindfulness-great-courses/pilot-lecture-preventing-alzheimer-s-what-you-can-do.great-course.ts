@@ -7,7 +7,7 @@ export const pilotLecturePreventingAlzheimerSWhatYouCanDo = {
   title: "Pilot Lecture: Preventing Alzheimer’s—What You Can Do",
   status: "completed",
   rank: "B",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 34.2,
   ownProgress: 34.2,
   partOfCollections: ["all-great-courses", "health-and-mindfulness-great-courses"],

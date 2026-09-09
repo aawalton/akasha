@@ -6,7 +6,7 @@ export const macroeconomicsMadeClear = {
   slug: "macroeconomics-made-clear",
   title: "Macroeconomics Made Clear",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 753.6,
   ownProgress: 0,
   partOfCollections: ["all-great-courses", "business-and-finance-great-courses"],

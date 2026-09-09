@@ -6,7 +6,7 @@ export const theWhisperingCrystalsUnnaturalLaws = {
   slug: "the-whispering-crystals-unnatural-laws",
   title: "The Whispering Crystals: Unnatural Laws",
   status: "completed",
-  unitSlug: "words",
+  unit: "words",
   position: 1,
   ownLength: 88500,
   ownProgress: 88500,

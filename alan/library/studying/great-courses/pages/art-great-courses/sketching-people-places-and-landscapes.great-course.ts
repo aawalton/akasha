@@ -7,7 +7,7 @@ export const sketchingPeoplePlacesAndLandscapes = {
   title: "Sketching People, Places, and Landscapes",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 763.2,
   ownProgress: 763.2,
   partOfCollections: ["all-great-courses", "art-great-courses"],

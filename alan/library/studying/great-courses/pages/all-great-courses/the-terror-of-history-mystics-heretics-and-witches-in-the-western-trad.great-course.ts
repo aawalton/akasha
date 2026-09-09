@@ -6,7 +6,7 @@ export const theTerrorOfHistoryMysticsHereticsAndWitchesInTheWesternTrad = {
   slug: "the-terror-of-history-mystics-heretics-and-witches-in-the-western-trad",
   title: "The Terror of History: Mystics, Heretics, and Witches in the Western Tradition",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 738.8,
   ownProgress: 0,
   partOfCollections: ["all-great-courses"],

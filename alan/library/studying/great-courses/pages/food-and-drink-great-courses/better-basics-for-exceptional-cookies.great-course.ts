@@ -7,7 +7,7 @@ export const betterBasicsForExceptionalCookies = {
   title: "Better Basics for Exceptional Cookies",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 166.8,
   ownProgress: 166.8,
   partOfCollections: [

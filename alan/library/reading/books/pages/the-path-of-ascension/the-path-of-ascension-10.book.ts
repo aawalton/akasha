@@ -7,7 +7,7 @@ export const thePathOfAscension10 = {
   title: "The Path of Ascension 10",
   status: "completed",
   author: "Joshua D. Stone",
-  unitSlug: "words",
+  unit: "words",
   position: 10,
   ownLength: 183000,
   ownProgress: 183000,

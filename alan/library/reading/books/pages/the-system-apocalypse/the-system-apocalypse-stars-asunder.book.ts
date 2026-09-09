@@ -7,7 +7,7 @@ export const theSystemApocalypseStarsAsunder = {
   title: "The System Apocalypse: Stars Asunder",
   status: "completed",
   author: "Tao Wong",
-  unitSlug: "words",
+  unit: "words",
   position: 9,
   ownLength: 118000,
   ownProgress: 118000,

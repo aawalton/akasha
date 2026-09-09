@@ -6,7 +6,7 @@ export const moneyAndBankingWhatEveryoneShouldKnow = {
   slug: "money-and-banking-what-everyone-should-know",
   title: "Money and Banking: What Everyone Should Know",
   status: "not-started",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 1091.4,
   ownProgress: 0,
   partOfCollections: [

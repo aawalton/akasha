@@ -7,7 +7,7 @@ export const billCoorsTheWillToLive = {
   title: "Bill Coors: The Will to Live",
   status: "completed",
   rank: "C",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 126.6,
   ownProgress: 126.6,
   partOfCollections: [

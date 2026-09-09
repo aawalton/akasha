@@ -7,7 +7,7 @@ export const simpleAndStunningWatercolorTechniques = {
   title: "Simple and Stunning Watercolor Techniques",
   status: "completed",
   rank: "D",
-  unitSlug: "minutes",
+  unit: "minutes",
   ownLength: 151.8,
   ownProgress: 151.8,
   partOfCollections: ["all-great-courses", "art-great-courses"],
