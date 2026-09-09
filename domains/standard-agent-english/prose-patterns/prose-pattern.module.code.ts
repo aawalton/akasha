@@ -149,6 +149,7 @@ const PARTICLES: ReadonlySet<string> = new Set([
   "apart",
   "back",
   "down",
+  "forward",
   "off",
   "out",
   "over",
