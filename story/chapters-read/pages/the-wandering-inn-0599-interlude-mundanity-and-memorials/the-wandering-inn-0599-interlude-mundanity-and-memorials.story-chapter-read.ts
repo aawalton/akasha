@@ -5,7 +5,7 @@ export const theWanderingInn0599InterludeMundanityAndMemorials = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0599-interlude-mundanity-and-memorials",
   title: "Interlude - Mundanity and Memorials",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 599,
   ownLength: 28648,
   ownProgress: 28904,

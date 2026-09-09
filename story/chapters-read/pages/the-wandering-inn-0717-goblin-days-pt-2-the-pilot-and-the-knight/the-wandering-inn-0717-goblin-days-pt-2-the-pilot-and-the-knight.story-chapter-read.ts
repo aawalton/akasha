@@ -5,7 +5,7 @@ export const theWanderingInn0717GoblinDaysPt2ThePilotAndTheKnight = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0717-goblin-days-pt-2-the-pilot-and-the-knight",
   title: "Goblin Days (Pt. 2) -- The Pilot and the Knight",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 717,
   ownLength: 12799,
   ownProgress: 13319,

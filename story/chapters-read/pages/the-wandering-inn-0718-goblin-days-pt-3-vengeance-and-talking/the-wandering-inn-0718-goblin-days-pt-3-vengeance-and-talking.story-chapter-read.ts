@@ -5,7 +5,7 @@ export const theWanderingInn0718GoblinDaysPt3VengeanceAndTalking = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0718-goblin-days-pt-3-vengeance-and-talking",
   title: "Goblin Days (Pt. 3) - Vengeance and Talking",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 718,
   ownLength: 14796,
   ownProgress: 14981,

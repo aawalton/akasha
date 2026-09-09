@@ -5,7 +5,7 @@ export const theWanderingInn0721GoblinDaysPt6OfDragons = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0721-goblin-days-pt-6-of-dragons",
   title: "Goblin Days (Pt. 6) - Of Dragons",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 721,
   ownLength: 10228,
   ownProgress: 10477,
