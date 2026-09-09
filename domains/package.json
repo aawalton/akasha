@@ -11,7 +11,7 @@
     "./prose-reach": "./standard-agent-english/prose-reaches/prose-reach.module.code.ts",
     "./prose-rewrite": "./standard-agent-english/prose-rewrites/prose-rewrite.module.code.ts",
     "./prose-restating": "./standard-agent-english/prose-restatings/prose-restating.module.code.ts",
-    "./domain-rows": "./modules/domain-rows/domain-rows.module.code.ts",
+    "./domain-rows": "./modules/rows/domain-rows.module.code.ts",
     "./work-initiatives": "./modules/work-initiatives/work-initiatives.module.code.ts"
   }
 }

@@ -47,7 +47,7 @@ function typing(root: string, slug: string, id: string, above: string): undefine
   pageAt(
     root,
     path,
-    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ["${above}"] }\n`
+    `export const held = { slug: ${JSON.stringify(slug)}, extends: ["${above}"] }\n`
   )
 }
 
