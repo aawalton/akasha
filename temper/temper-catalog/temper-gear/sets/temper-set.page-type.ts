@@ -1,10 +1,10 @@
 import type { PageType } from "@akasha/pages/page-type"
+import type { Bonuses } from "../../../catalogs/temper-gear/properties/bonuses.page-property-entry.ts"
+import type { EsoSetId } from "../../../catalogs/temper-gear/properties/eso-set-id.number-property.ts"
+import type { Icons } from "../../../catalogs/temper-gear/properties/icons.page-property-entry.ts"
+import type { SetClassId } from "../../../catalogs/temper-gear/properties/set-class-id.text-property.ts"
+import type { ValidPieces } from "../../../catalogs/temper-gear/properties/valid-pieces.text-property.ts"
 import type { TemperCatalogThing } from "../../temper-catalog-things/temper-catalog-thing.page-type.ts"
-import type { Bonuses } from "../properties/bonuses.page-property-entry.ts"
-import type { EsoSetId } from "../properties/eso-set-id.number-property.ts"
-import type { Icons } from "../properties/icons.page-property-entry.ts"
-import type { SetClassId } from "../properties/set-class-id.text-property.ts"
-import type { ValidPieces } from "../properties/valid-pieces.text-property.ts"
 
 export type TemperSet = TemperCatalogThing & {
   esoSetId: EsoSetId
