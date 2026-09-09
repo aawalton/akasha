@@ -46,7 +46,7 @@ export function drawnIn(root: string): readonly Drawn[] {
   if ("refused" in asked) throw new Error(asked.refused)
   for (const row of asked.rows) {
     const one = row as Readonly<Record<string, unknown>>
-    const groups = one["groupSlugs"]
+    const groups = one["groups"] ?? one["groupSlugs"]
     if (!Array.isArray(groups) || !groups.includes(GROUP)) continue
     const attributeSlug = String(one["attributeSlug"] ?? "")
     if (attributeSlug === "") continue
