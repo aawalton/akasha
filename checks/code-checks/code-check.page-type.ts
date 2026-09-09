@@ -19,6 +19,7 @@ export type CodeCheck = Module & {
 export const codeCheck = {
   id: "01a04bc4-7e86-7beb-8dfb-3666785dd3d5",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "code-check",
   definition: "a module run over a change to judge whether it may land",
   pluralSlug: "code-checks",

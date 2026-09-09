@@ -11,6 +11,7 @@ export type ChangeRunner = Module & {
 export const changeRunner = {
   id: "01a077c2-3a15-7c14-8900-ecb0624ff450",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "change-runner",
   definition: "a module running a change named by the address that change is filed under",
   pluralSlug: "change-runners",

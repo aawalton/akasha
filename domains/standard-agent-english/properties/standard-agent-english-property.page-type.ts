@@ -6,6 +6,7 @@ export type StandardAgentEnglishProperty = TextProperty
 export const standardAgentEnglishProperty = {
   id: "01a07c99-fb58-79b6-a204-a2bf1f056902",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "standard-agent-english-property",
   definition: "a text property whose value Standard Agent English judges",
   pluralSlug: "standard-agent-english-properties",

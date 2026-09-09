@@ -20,6 +20,7 @@ export type Page = {
 export const page = {
   id: "01a049b9-856c-7090-bd14-5a916f574259",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "page",
   definition: "all that is kept about one thing",
   pluralSlug: "pages",

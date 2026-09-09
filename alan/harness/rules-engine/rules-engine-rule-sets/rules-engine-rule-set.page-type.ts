@@ -3,6 +3,7 @@ import type { PageType } from "@akasha/pages/page-type"
 export const rulesEngineRuleSet = {
   id: "01a06838-7a9e-7718-bfdd-784885fe5f76",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "rules-engine-rule-set",
   definition: "one set of rules, run and proven together",
   pluralSlug: "rules-engine-rule-sets",

@@ -11,6 +11,7 @@ export type LuaRuntimeLibrary = Domain & {
 export const luaRuntimeLibrary = {
   id: "01a06759-2aa6-7000-9523-2fbcc69fd891",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "lua-runtime-library",
   definition: "TypeScript a compiler turns into the Lua a game loads",
   pluralSlug: "lua-runtime-libraries",

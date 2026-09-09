@@ -17,6 +17,7 @@ export type List<T> = readonly T[]
 export const pageProperty = {
   id: "01a04dff-9d7d-7459-a8c0-e038dc7714c3",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "page-property",
   definition: "one value a page carries",
   pluralSlug: "page-properties",

@@ -49,6 +49,7 @@ export type ConnectionActivity = Page & {
 export const connectionActivity = {
   id: "01a0658e-c30d-7f83-bcba-db0766dbd484",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "connection-activity",
   definition: "one way Alan spends time with someone, and what an hour of it is worth to him",
   pluralSlug: "connection-activities",

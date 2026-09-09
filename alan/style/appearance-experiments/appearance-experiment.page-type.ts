@@ -21,6 +21,7 @@ export type AppearanceExperiment = Page & {
 export const appearanceExperiment = {
   id: "01a06826-794a-7da2-8027-9f143d989e3d",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "appearance-experiment",
   definition: "one thing Alan tried wearing and how it read",
   pluralSlug: "appearance-experiments",

@@ -9,6 +9,7 @@ export type ChangeMechanical = Change & {
 export const changeMechanical = {
   id: "01a078e8-e0c0-7001-9d36-808d02d6c285",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "change-mechanical",
   definition: "a change another change composes rather than a command line reaches",
   pluralSlug: "change-mechanical",

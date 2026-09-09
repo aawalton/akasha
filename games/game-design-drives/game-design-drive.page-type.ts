@@ -9,6 +9,7 @@ export type GameDesignDrive = Domain & {
 export const gameDesignDrive = {
   id: "01a06746-de46-7a10-980b-3134872d9f6b",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "game-design-drive",
   definition: "what makes a person want to act",
   pluralSlug: "game-design-drives",

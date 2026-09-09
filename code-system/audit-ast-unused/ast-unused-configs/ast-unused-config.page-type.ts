@@ -11,6 +11,7 @@ export type AstUnusedConfig = Domain & {
 export const astUnusedConfig = {
   id: "01a08198-1060-7b7c-b4d4-b7d8ba41baf1",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "ast-unused-config",
   definition: "one file of the curation the ast-unused audit reads its globs from",
   pluralSlug: "ast-unused-configs",

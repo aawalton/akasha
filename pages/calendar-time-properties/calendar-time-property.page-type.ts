@@ -6,6 +6,7 @@ export type CalendarTimeProperty = PageProperty
 export const calendarTimeProperty = {
   id: "01a06d87-9d4d-7c65-aad0-8a0385b221c6",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "calendar-time-property",
   definition: "a page property with a time of day",
   pluralSlug: "calendar-time-properties",

@@ -6,6 +6,7 @@ export type EmailAddressProperty = PageProperty
 export const emailAddressProperty = {
   id: "01a053ef-69a0-7d7d-ac01-f2cb92cc7c63",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "email-address-property",
   definition: "a page property with an email address",
   pluralSlug: "email-address-properties",

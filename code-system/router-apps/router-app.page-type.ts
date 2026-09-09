@@ -41,6 +41,7 @@ export type RouterApp = WorkspacePackage & {
 export const routerApp = {
   id: "01a063f3-c2ab-765b-9c87-954f96167da7",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "router-app",
   definition: "what serves the routes its own table declares",
   pluralSlug: "router-apps",

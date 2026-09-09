@@ -11,6 +11,7 @@ export type MonarchDirection = MonarchRecord & {
 export const monarchDirection = {
   id: "01a0680a-1a00-7019-8e94-6c1d5b7f1119",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "monarch-direction",
   definition: "what an agent settling a transaction is told to weigh, and where it applies",
   pluralSlug: "monarch-directions",

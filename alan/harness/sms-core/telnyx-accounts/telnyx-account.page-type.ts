@@ -11,6 +11,7 @@ export type TelnyxAccount = Page & {
 export const telnyxAccount = {
   id: "01a06861-e7cd-7e44-b19a-09599abde817",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "telnyx-account",
   definition: "the account the system sends texts through",
   pluralSlug: "telnyx-accounts",

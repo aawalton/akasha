@@ -17,6 +17,7 @@ export type Command = Module & {
 export const command = {
   id: "01a04bdd-596d-7b81-9204-1a882f474a5f",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "command",
   definition: "a module reached by name from the command line",
   pluralSlug: "commands",

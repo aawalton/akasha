@@ -6,6 +6,7 @@ export type CalendarDateProperty = PageProperty
 export const calendarDateProperty = {
   id: "01a063de-2c60-7001-89b5-5efdc8482d83",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "calendar-date-property",
   definition: "a page property with a day",
   pluralSlug: "calendar-date-properties",

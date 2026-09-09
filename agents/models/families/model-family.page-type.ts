@@ -9,6 +9,7 @@ export type ModelFamily = Domain & {
 export const modelFamily = {
   id: "01a0535c-f2cf-7d57-8803-2dbb722ac8bc",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "model-family",
   definition: "a family of models",
   pluralSlug: "model-families",

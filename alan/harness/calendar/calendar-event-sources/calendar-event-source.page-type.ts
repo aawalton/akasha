@@ -29,6 +29,7 @@ export type CalendarEventSource = Page & {
 export const calendarEventSource = {
   id: "01a06836-795a-7684-9968-814f598da8e3",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "calendar-event-source",
   definition: "another calendar read for the events it publishes",
   pluralSlug: "calendar-event-sources",

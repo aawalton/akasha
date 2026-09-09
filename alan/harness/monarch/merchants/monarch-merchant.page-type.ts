@@ -11,6 +11,7 @@ export type MonarchMerchant = Page & {
 export const monarchMerchant = {
   id: "01a0680c-3c00-700b-a937-4d1f6c8b310c",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "monarch-merchant",
   definition: "who or what a transaction was with, read out of the words it carries",
   pluralSlug: "monarch-merchants",

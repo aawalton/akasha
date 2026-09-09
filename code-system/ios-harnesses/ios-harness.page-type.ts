@@ -11,6 +11,7 @@ export type IosHarness = Domain & {
 export const iosHarness = {
   id: "01a0584d-22a8-7eb5-83f8-e9912fd9297c",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "ios-harness",
   definition: "code that draws an iOS component to be looked at",
   pluralSlug: "ios-harnesses",

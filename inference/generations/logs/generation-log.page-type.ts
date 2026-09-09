@@ -7,6 +7,7 @@ import type { GenerationRuns } from "./properties/generation-runs.file-property.
 export const generationLog = {
   id: "01a01d18-306b-7000-9796-b41f285a1bad",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "generation-log",
   definition: "the record kept of what one set of model services has made",
   pluralSlug: "generation-logs",

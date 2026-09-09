@@ -11,6 +11,7 @@ export type ChessPuzzleSet = Page & {
 export const chessPuzzleSet = {
   id: "01a06582-bd62-7a9f-a011-94835eaaf909",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "chess-puzzle-set",
   definition: "a body of chess puzzles taken from one place",
   pluralSlug: "chess-puzzle-sets",

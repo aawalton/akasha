@@ -9,6 +9,7 @@ export type OneOfProperty = PageProperty & {
 export const oneOfProperty = {
   id: "01a062b2-e0ca-7409-b87f-b8122ca96d56",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "one-of-property",
   definition: "a page property with a value one of its members has",
   pluralSlug: "one-of-properties",

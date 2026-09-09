@@ -19,6 +19,7 @@ export type MonarchAccount = MonarchRecord & {
 export const monarchAccount = {
   id: "01a0680a-1a00-7008-8d64-7a3b9e1f1109",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "monarch-account",
   definition: "one balance, whether it is money held or money owed",
   pluralSlug: "monarch-accounts",

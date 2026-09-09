@@ -19,6 +19,7 @@ export type MonarchHolding = MonarchRecord & {
 export const monarchHolding = {
   id: "01a0680a-1a00-7016-b283-5a9c7e1f1116",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "monarch-holding",
   definition: "how much of one investment an account holds",
   pluralSlug: "monarch-holdings",

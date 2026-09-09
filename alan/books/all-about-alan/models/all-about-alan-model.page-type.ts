@@ -13,6 +13,7 @@ export type AllAboutAlanModel = Page & {
 export const allAboutAlanModel = {
   id: "01a0657f-a729-72ba-94d1-7b8ccb90a8e4",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "all-about-alan-model",
   definition: "one computation of a mechanism in Alan",
   pluralSlug: "all-about-alan-models",

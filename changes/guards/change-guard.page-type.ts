@@ -9,6 +9,7 @@ export type ChangeGuard = Module & {
 export const changeGuard = {
   id: "01a07744-1310-721d-8751-4a3757cf2d90",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "change-guard",
   definition: "what judges the answer a change gives and says why that answer is refused",
   pluralSlug: "change-guards",

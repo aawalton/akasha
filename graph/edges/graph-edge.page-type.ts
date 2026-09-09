@@ -11,6 +11,7 @@ export type GraphEdge = Domain & {
 export const graphEdge = {
   id: "01a04fe8-cebd-71d5-a040-d50b202e6eb1",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "graph-edge",
   definition: "a way one thing reaches another",
   pluralSlug: "graph-edges",

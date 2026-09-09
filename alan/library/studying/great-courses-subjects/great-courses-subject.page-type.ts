@@ -9,6 +9,7 @@ export type GreatCoursesSubject = CollectionExternal & {
 export const greatCoursesSubject = {
   id: "01a06574-0291-7003-8e30-de8222ab3a07",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "great-courses-subject",
   definition: "one shelf the courses are sorted onto by what they teach",
   pluralSlug: "great-courses-subjects",

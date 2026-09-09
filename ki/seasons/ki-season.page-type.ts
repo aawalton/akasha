@@ -6,6 +6,7 @@ export type KiSeason = KiCollectionTemplate
 export const kiSeason = {
   id: "01a06825-d0ec-7400-bf71-2d0c0b75b3be",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "ki-season",
   definition: "one run of episodes of a show Ki watches",
   pluralSlug: "ki-seasons",

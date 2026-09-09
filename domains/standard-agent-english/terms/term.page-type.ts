@@ -13,6 +13,7 @@ export type Term = Page & {
 export const term = {
   id: "01a081e9-9784-7d46-ac3d-c0dd6d88cb38",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "term",
   definition: "one word or phrase, and what that word means here",
   pluralSlug: "terms",

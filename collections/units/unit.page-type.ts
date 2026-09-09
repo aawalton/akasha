@@ -9,6 +9,7 @@ export type Unit = Domain & {
 export const unit = {
   id: "01a063de-2c60-7014-9620-56bbc19efcd1",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "unit",
   definition: "what a length is counted in",
   pluralSlug: "units",

@@ -39,6 +39,7 @@ export type CalendarEvent = Page & {
 export const calendarEvent = {
   id: "01a06836-795a-7511-bf90-ba565a6bcdf9",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "calendar-event",
   definition: "an occasion at a set time somebody may attend",
   pluralSlug: "calendar-events",

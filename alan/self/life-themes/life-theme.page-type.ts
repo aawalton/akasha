@@ -19,6 +19,7 @@ export type LifeTheme = Page & {
 export const lifeTheme = {
   id: "01a06575-c2c0-7479-ae1f-92956ac3d48e",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "life-theme",
   definition: "a stretch of Alan's life given over to one of his values",
   pluralSlug: "life-themes",

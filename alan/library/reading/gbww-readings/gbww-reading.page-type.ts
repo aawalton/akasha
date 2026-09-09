@@ -23,6 +23,7 @@ export type GbwwReading = Collection & {
 export const gbwwReading = {
   id: "01a0659f-93da-7019-b3d4-198e7acfbd4c",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "gbww-reading",
   definition: "one reading on the Great Books of the Western World ten-year plan",
   pluralSlug: "gbww-readings",

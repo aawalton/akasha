@@ -11,6 +11,7 @@ export type MonarchMonth = MonarchRecord & {
 export const monarchMonth = {
   id: "01a0680b-2b00-7012-a659-4d8f2c7e2113",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "monarch-month",
   definition: "one calendar month of the household's money",
   pluralSlug: "monarch-months",

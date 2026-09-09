@@ -17,6 +17,7 @@ export type Proof = Page & {
 export const proof = {
   id: "01a0657f-5da8-7d50-9da8-5ad4177c9541",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "proof",
   definition: "one attempt at deriving a proposition in the formal system",
   pluralSlug: "proofs",

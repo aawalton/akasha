@@ -9,6 +9,7 @@ export type ContainerRecipe = Domain & {
 export const containerRecipe = {
   id: "01a06815-9efd-7003-8c8e-4c03b44672b2",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "container-recipe",
   definition: "the steps a container image is built from",
   pluralSlug: "container-recipes",

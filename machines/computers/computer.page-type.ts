@@ -47,6 +47,7 @@ export type Computer = Page & {
 export const computer = {
   id: "01a0658c-329a-7d00-b3f3-8abf47bf46cf",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "computer",
   definition: "one machine Alan owns, and what it is worth running",
   pluralSlug: "computers",

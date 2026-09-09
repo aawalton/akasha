@@ -11,6 +11,7 @@ export type LuaModule = Domain & {
 export const luaModule = {
   id: "01a06036-9b74-79ba-9f54-27289400cf14",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "lua-module",
   definition: "Lua the game loads without compiling it",
   pluralSlug: "lua-modules",

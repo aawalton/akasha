@@ -40,6 +40,7 @@ export type Judging = (standing: Standing) => readonly string[]
 export const folderShape = {
   id: "01a04e33-f280-701e-96a0-859a53ed8298",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "folder-shape",
   definition: "a shape a folder is allowed to have",
   pluralSlug: "folder-shapes",

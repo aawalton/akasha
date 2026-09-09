@@ -17,6 +17,7 @@ export type ProvisionedFile = Domain & {
 export const provisionedFile = {
   id: "01a06861-49aa-70de-9ba6-733c82989f81",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "provisioned-file",
   definition: "a file a machine is set up by putting where something outside akasha reads it",
   pluralSlug: "provisioned-files",

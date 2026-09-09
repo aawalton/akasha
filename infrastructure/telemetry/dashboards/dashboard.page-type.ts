@@ -9,6 +9,7 @@ export type Dashboard = Domain & {
 export const dashboard = {
   id: "01a07c67-a724-7337-8adc-5a5e3a393057",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "dashboard",
   definition: "what a chart server draws over one subject",
   pluralSlug: "dashboards",

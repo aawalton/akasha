@@ -35,6 +35,7 @@ export const domain = {
     "relation-property/parts",
   ],
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "domain",
   definition: "a bounded area of concern",
   pluralSlug: "domains",

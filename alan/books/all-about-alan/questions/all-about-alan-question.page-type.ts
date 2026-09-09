@@ -11,6 +11,7 @@ export type AllAboutAlanQuestion = Page & {
 export const allAboutAlanQuestion = {
   id: "01a077d9-ec56-7451-945a-1b2355aa31dc",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "all-about-alan-question",
   definition: "one thing still open about a topic about Alan",
   pluralSlug: "all-about-alan-questions",

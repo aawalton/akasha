@@ -17,6 +17,7 @@ export type CategoryRule = Page & {
 export const categoryRule = {
   id: "01a0680c-3c00-7007-a659-3e8d1c4f3108",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "category-rule",
   definition: "a written rule deciding what a transaction counts as",
   pluralSlug: "category-rules",

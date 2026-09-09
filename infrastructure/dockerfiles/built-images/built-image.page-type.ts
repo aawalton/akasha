@@ -13,6 +13,7 @@ export type BuiltImage = Domain & {
 export const builtImage = {
   id: "01a08193-c20c-7525-aced-8d801a2e9cd6",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "built-image",
   definition: "a container image a Dockerfile is written for",
   pluralSlug: "built-images",

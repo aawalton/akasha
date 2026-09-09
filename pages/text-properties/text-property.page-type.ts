@@ -11,6 +11,7 @@ export type TextProperty = PageProperty & {
 export const textProperty = {
   id: "01a04dff-9d7d-7b50-a58a-419207af8ec0",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "text-property",
   definition: "a page property holding text",
   pluralSlug: "text-properties",

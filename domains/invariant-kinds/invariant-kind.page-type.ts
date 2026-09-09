@@ -9,6 +9,7 @@ export type InvariantKind = Domain & {
 export const invariantKind = {
   id: "01a04e11-9f98-775b-846d-a9985a5ebd21",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "invariant-kind",
   definition: "which sort one invariant is",
   pluralSlug: "invariant-kinds",

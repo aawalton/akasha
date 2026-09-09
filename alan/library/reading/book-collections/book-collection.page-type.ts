@@ -9,6 +9,7 @@ export type BookCollection = CollectionExternal & {
 export const bookCollection = {
   id: "01a06807-be66-7002-8260-b13166dc16e1",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "book-collection",
   definition: "a shelf of books Alan keeps together",
   pluralSlug: "book-collections",

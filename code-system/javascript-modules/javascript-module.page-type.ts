@@ -9,6 +9,7 @@ export type JavascriptModule = Domain & {
 export const javascriptModule = {
   id: "01a06954-f7db-7006-ba1c-605a60e17fab",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "javascript-module",
   definition: "code in the JavaScript language",
   pluralSlug: "javascript-modules",

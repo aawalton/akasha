@@ -9,6 +9,7 @@ export type Recipe = Collection & {
 export const recipe = {
   id: "01a06807-be66-700f-92e8-bca7096b21be",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "recipe",
   definition: "a dish Alan cooks",
   pluralSlug: "recipes",

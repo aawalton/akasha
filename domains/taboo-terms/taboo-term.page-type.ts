@@ -13,6 +13,7 @@ export type TabooTerm = Page & {
 export const tabooTerm = {
   id: "01a0592c-2737-7057-aa66-a46141334052",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "taboo-term",
   definition: "a word this system never writes in the senses it bars",
   pluralSlug: "taboo-terms",

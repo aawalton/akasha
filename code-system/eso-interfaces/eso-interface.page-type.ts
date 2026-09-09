@@ -11,6 +11,7 @@ export type EsoInterface = Domain & {
 export const esoInterface = {
   id: "01a06036-9b76-7bf2-b21b-2f45a8b14ac4",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "eso-interface",
   definition: "one XML document the game reads",
   pluralSlug: "eso-interfaces",

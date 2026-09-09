@@ -23,6 +23,7 @@ export type CarModel = Car & {
 export const carModel = {
   id: "01a0659a-4bc5-745f-bbb3-18171fb52343",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "car-model",
   definition: "a nameplate a make builds",
   pluralSlug: "car-models",

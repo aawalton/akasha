@@ -6,6 +6,7 @@ export type ModelTestOutcome = Domain
 export const modelTestOutcome = {
   id: "01a05905-af36-7e9e-b4a3-99f20936dd14",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "model-test-outcome",
   definition: "what a review found a model test's answer to be",
   pluralSlug: "model-test-outcomes",

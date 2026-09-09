@@ -6,6 +6,7 @@ export type FilePurpose = Domain
 export const filePurpose = {
   id: "01a06837-0535-7469-ab8e-6bda76b453a7",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "file-purpose",
   definition: "what a file is for, told by its name ending rather than its format",
   pluralSlug: "file-purposes",

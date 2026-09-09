@@ -36,6 +36,7 @@ export type PageType = Domain & {
 export const pageType = {
   id: "01a049ae-fe2c-7343-8ab6-f94d8927164a",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "page-type",
   definition: "the specification for a kind of page",
   pluralSlug: "page-types",

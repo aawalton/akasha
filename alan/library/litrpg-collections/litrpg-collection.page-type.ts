@@ -9,6 +9,7 @@ export type LitrpgCollection = Collection & {
 export const litrpgCollection = {
   id: "01a06807-be66-700a-962a-c99e0bc93be5",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "litrpg-collection",
   definition: "a shelf of litrpg stories Alan keeps together",
   pluralSlug: "litrpg-collections",

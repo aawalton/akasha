@@ -9,6 +9,7 @@ export type Fandom = CollectionExternal & {
 export const fandom = {
   id: "01a06807-be66-7004-85ae-8df6ba0ad747",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "fandom",
   definition: "a world Alan follows across its shows and films",
   pluralSlug: "fandoms",

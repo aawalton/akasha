@@ -18,6 +18,7 @@ export type Work<Page, Held> = (page: Page, reach: Reach) => Held | null
 export const computedProperty = {
   id: "01a06e70-0f25-77ad-9080-95388ef3ba51",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "computed-property",
   definition: "a page property a function works out from the page",
   pluralSlug: "computed-properties",

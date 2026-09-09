@@ -15,6 +15,7 @@ export type ParserModel = Page & {
 export const parserModel = {
   id: "01a06d3b-743e-7d49-b8e6-3703a4b4fbfb",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "parser-model",
   definition: "a trained parser the code loads to read a sentence",
   pluralSlug: "parser-models",

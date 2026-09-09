@@ -15,6 +15,7 @@ export type RustCrate = Domain & {
 export const rustCrate = {
   id: "01a0602d-6ad2-7a2e-8686-1b1cf565107a",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "rust-crate",
   definition: "one thing Cargo builds",
   pluralSlug: "rust-crates",

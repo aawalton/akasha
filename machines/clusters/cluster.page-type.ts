@@ -9,6 +9,7 @@ export type Cluster = Host & {
 export const cluster = {
   id: "01a06835-e289-7833-a83f-42355181b6da",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "cluster",
   definition: "the machines in Alan's home lab",
   pluralSlug: "clusters",

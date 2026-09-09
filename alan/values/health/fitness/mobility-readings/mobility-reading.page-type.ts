@@ -23,6 +23,7 @@ export type MobilityReading = Page & {
 export const mobilityReading = {
   id: "01a06558-36e9-75e2-bcf3-ce91fd6e945b",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "mobility-reading",
   definition: "one measurement of how far a joint moved on a day",
   pluralSlug: "mobility-readings",

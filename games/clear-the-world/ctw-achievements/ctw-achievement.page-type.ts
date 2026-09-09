@@ -17,6 +17,7 @@ export type CtwAchievement = Page & {
 export const ctwAchievement = {
   id: "01a06579-e4f7-7cac-8aa3-87b59725c97d",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "ctw-achievement",
   definition: "one mark a player of Clear the World earns by passing a threshold",
   pluralSlug: "ctw-achievements",

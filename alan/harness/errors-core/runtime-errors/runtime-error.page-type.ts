@@ -27,6 +27,7 @@ export type RuntimeError = Page & {
 export const runtimeError = {
   id: "01a05f3f-e3df-76da-ba22-9282e49c2d98",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "runtime-error",
   definition: "one fault a client met, gathered under the fingerprint the fault hashes to",
   pluralSlug: "runtime-errors",

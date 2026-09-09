@@ -6,6 +6,7 @@ export type FileKindDomain = Domain
 export const fileKindDomain = {
   id: "01a06837-0535-70c2-9917-d332b4b6a505",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "file-kind-domain",
   definition: "one kind of file, told by the name a file has",
   pluralSlug: "file-kind-domains",

@@ -6,6 +6,7 @@ export type InvariantGroup = Domain
 export const invariantGroup = {
   id: "01a04e11-9f97-7f42-bb41-d519ae123a65",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "invariant-group",
   definition: "the standing an invariant has",
   pluralSlug: "invariant-groups",

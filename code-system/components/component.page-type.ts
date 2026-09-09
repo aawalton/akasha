@@ -13,6 +13,7 @@ export type Component = Domain & {
 export const component = {
   id: "01a071cb-913c-7e3f-9698-f5f4a5019a9c",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "component",
   definition: "code drawing something for a browser",
   pluralSlug: "components",

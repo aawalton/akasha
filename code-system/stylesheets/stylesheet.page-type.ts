@@ -9,6 +9,7 @@ export type Stylesheet = Domain & {
 export const stylesheet = {
   id: "01a05b01-48b1-72b3-961d-f31190becdc7",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "stylesheet",
   definition: "the rules a browser dresses something by",
   pluralSlug: "stylesheets",

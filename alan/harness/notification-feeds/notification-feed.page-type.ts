@@ -11,6 +11,7 @@ export type NotificationFeed = Page & {
 export const notificationFeed = {
   id: "01a06861-e7cd-7f8b-a674-034ea5efe956",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "notification-feed",
   definition: "everything this system has pushed at one person",
   pluralSlug: "notification-feeds",

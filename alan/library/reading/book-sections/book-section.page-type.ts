@@ -13,6 +13,7 @@ export type BookSection = Collection & {
 export const bookSection = {
   id: "01a0658d-fe50-7001-976d-fd0d35660d1d",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "book-section",
   definition: "one instalment of a book",
   pluralSlug: "book-sections",

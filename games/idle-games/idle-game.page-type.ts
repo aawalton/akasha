@@ -13,6 +13,7 @@ export type IdleGame = Collection & {
 export const idleGame = {
   id: "01a0658b-3654-7f0d-80b2-2a2c080f184c",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "idle-game",
   definition: "a game Alan plays where the cards are his personas",
   pluralSlug: "idle-games",

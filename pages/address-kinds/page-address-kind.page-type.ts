@@ -6,6 +6,7 @@ export type PageAddressKind = Module
 export const pageAddressKind = {
   id: "01a0731d-07e7-77ea-85a1-aac50ce5d3b2",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "page-address-kind",
   definition: "a form an address takes when it names a page",
   pluralSlug: "page-address-kinds",

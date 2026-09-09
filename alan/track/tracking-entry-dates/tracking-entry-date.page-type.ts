@@ -6,6 +6,7 @@ export type TrackingEntryDate = TrackingEntry
 export const trackingEntryDate = {
   id: "01a06827-ec0c-7939-809f-82468d73e2e6",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "tracking-entry-date",
   definition: "a tracking entry for something true of a whole day",
   pluralSlug: "tracking-entry-dates",

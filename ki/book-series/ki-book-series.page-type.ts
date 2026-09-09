@@ -6,6 +6,7 @@ export type KiBookSeries = KiCollectionTemplate
 export const kiBookSeries = {
   id: "01a06825-d0ec-7bfd-b89f-ecf2d7fbbaad",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "ki-book-series",
   definition: "the books Ki keeps that have one story in order",
   pluralSlug: "ki-book-series",

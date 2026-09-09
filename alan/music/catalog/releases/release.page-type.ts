@@ -9,6 +9,7 @@ export type Release = CollectionExternal & {
 export const release = {
   id: "01a06769-ed1a-7000-825b-b75cf6badf16",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "release",
   definition: "an album Alan keeps",
   pluralSlug: "releases",

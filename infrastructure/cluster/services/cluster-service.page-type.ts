@@ -27,6 +27,7 @@ export type ClusterService = Service & {
 export const clusterService = {
   id: "01a05a41-58c2-7cbb-bfed-c234697164e3",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "cluster-service",
   definition: "a service the cluster runs as a workload",
   pluralSlug: "cluster-services",

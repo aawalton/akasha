@@ -17,6 +17,7 @@ export type Reminder = Page & {
 export const reminder = {
   id: "01a05f42-d941-7001-9948-d1816099c8ac",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "reminder",
   definition: "words sent to somebody at the times the words name",
   pluralSlug: "reminders",

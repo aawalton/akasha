@@ -6,6 +6,7 @@ export type GraphAttribute = Domain
 export const graphAttribute = {
   id: "01a04fe8-cec0-78cc-85d5-3ca1e47761ce",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "graph-attribute",
   definition: "a fact carried on an edge",
   parts: ["graph-attribute/known", "graph-attribute/property"],

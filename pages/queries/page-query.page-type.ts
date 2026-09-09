@@ -29,6 +29,7 @@ export type PageQuery = Page & {
 export const pageQuery = {
   id: "01a063ee-2a3a-7dd7-8509-19858f61fe50",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "page-query",
   definition: "a question asked of the pages of one page type",
   pluralSlug: "page-queries",

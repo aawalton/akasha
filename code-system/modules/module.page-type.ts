@@ -17,6 +17,7 @@ export type Module = Domain & {
 export const module = {
   id: "01a04a20-6e04-7b99-81a0-0efe0ad0a02a",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "module",
   definition: "code reached by importing it",
   pluralSlug: "modules",

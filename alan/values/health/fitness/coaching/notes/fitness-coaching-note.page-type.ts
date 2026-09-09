@@ -21,6 +21,7 @@ export type FitnessCoachingNote = Page & {
 export const fitnessCoachingNote = {
   id: "01a08181-f205-7092-900f-58e2075a7529",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "fitness-coaching-note",
   definition: "a limit, a cue or a thing noticed that the coach programs by",
   pluralSlug: "fitness-coaching-notes",

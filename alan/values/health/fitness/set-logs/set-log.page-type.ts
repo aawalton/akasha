@@ -35,6 +35,7 @@ export type SetLog = Page & {
 export const setLog = {
   id: "01a06580-66fc-7e15-9138-eda9b0267961",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "set-log",
   definition: "one set Alan performed, as it was recorded",
   pluralSlug: "set-logs",

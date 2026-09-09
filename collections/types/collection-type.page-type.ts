@@ -13,6 +13,7 @@ export type CollectionType = Page & {
 export const collectionType = {
   id: "01a0680f-6f00-7001-b374-6d2a9f5c6102",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "collection-type",
   definition: "a kind of thing collected, and what one of that kind is measured in",
   pluralSlug: "collection-types",

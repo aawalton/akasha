@@ -21,6 +21,7 @@ export type EquipmentItem = Page & {
 export const equipmentItem = {
   id: "01a06834-ca86-76cb-a54a-6f86a5225afc",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "equipment-item",
   definition: "a piece of kit Alan can load a movement with",
   pluralSlug: "equipment-items",

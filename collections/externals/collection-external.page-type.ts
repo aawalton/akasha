@@ -15,6 +15,7 @@ export type CollectionExternal = Collection & {
 export const collectionExternal = {
   id: "01a063de-2c60-701b-ab74-7e3436f4abe3",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "collection-external",
   definition: "a collection a provider outside akasha is the record of",
   pluralSlug: "collection-externals",

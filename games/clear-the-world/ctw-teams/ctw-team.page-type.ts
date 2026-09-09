@@ -19,6 +19,7 @@ export type CtwTeam = Page & {
 export const ctwTeam = {
   id: "01a06579-e4f7-77d8-a696-adb848da2d3e",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "ctw-team",
   definition: "one demining organisation a player of Clear the World plays as",
   pluralSlug: "ctw-teams",

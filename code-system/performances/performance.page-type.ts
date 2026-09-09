@@ -6,6 +6,7 @@ export type Performance = Module
 export const performance = {
   id: "01a08786-9212-746c-80e0-13134209de62",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "performance",
   definition: "code that measures how fast something is",
   pluralSlug: "performances",

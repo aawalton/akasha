@@ -11,6 +11,7 @@ export type BookSeries = CollectionExternal & {
 export const bookSeries = {
   id: "01a06598-222b-7003-beee-2001c8924b27",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "book-series",
   definition: "a shelf with the books of one work",
   pluralSlug: "book-series",

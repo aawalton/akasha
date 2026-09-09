@@ -39,6 +39,7 @@ export type LocationTrace = Page & {
 export const locationTrace = {
   id: "01a06836-795a-76ec-95fa-2b57e5a7dc38",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "location-trace",
   definition: "where Alan's phone put him at one moment",
   pluralSlug: "location-traces",

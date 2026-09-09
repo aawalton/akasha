@@ -9,6 +9,7 @@ export type IosComponent = Domain & {
 export const iosComponent = {
   id: "01a05472-ab84-78cc-8758-9f95622d1b04",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "ios-component",
   definition: "code an iOS app is built from",
   pluralSlug: "ios-components",

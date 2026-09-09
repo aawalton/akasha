@@ -6,6 +6,7 @@ export type KiMovie = KiCollectionTemplate
 export const kiMovie = {
   id: "01a06825-d0ec-7654-8084-1e099d039f38",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "ki-movie",
   definition: "a story Ki watches in one sitting",
   pluralSlug: "ki-movies",

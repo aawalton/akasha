@@ -21,6 +21,7 @@ export type Show = CollectionExternal & {
 export const show = {
   id: "01a06599-ee09-7002-9418-3960f44ce6b4",
   pageTypeSlug: "page-type",
+  type: "page-type",
   slug: "show",
   definition: "a story told in episodes over seasons",
   pluralSlug: "shows",
