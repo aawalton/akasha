@@ -4,7 +4,7 @@ export const alanDatabaseRowAll = {
   id: "01a05433-f100-7fa0-9ef6-d999cb540ee9",
   pageTypeSlug: "person-access",
   slug: "alan-database-row-all",
-  personSlug: "alan",
+  person: "alan",
   accessKind: "database-row",
   target: "all",
 } as const satisfies PersonAccess

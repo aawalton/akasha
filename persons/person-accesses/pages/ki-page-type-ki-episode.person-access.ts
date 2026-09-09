@@ -4,7 +4,7 @@ export const kiPageTypeKiEpisode = {
   id: "01a05433-f104-721c-acb4-2e62a1cdd395",
   pageTypeSlug: "person-access",
   slug: "ki-page-type-ki-episode",
-  personSlug: "ki",
+  person: "ki",
   accessKind: "page-type",
   target: "ki-episode",
   serves: "episode",

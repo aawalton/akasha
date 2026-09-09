@@ -1,12 +1,12 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { AccessKind } from "./properties/person-access-kind.relation-property.ts"
-import type { PersonSlug } from "./properties/person-access-person-slug.relation-property.ts"
+import type { PersonSlug } from "./properties/person-access-person.relation-property.ts"
 import type { Serves } from "./properties/person-access-serves.text-property.ts"
 import type { Target } from "./properties/person-access-target.text-property.ts"
 
 export type PersonAccess = Page & {
-  personSlug: PersonSlug
+  person: PersonSlug
   accessKind: AccessKind
   target: Target
   serves?: Serves
@@ -21,13 +21,13 @@ export const personAccess = {
   extendsSlug: ["page-type/page"],
   partSlugs: [
     "relation-property/person-access-kind",
-    "relation-property/person-access-person-slug",
+    "relation-property/person-access-person",
     "text-property/person-access-serves",
     "text-property/person-access-target",
   ],
   properties: [
     {
-      pagePropertySlug: "relation-property/person-access-person-slug",
+      pagePropertySlug: "relation-property/person-access-person",
       required: true,
       many: false,
     },
