@@ -24,7 +24,7 @@ export const alanHarness = {
     "workspace-package/idle-system",
     "domain/sms-access",
     "workspace-package/sms-core",
-    "workspace-package/email-inbound",
+    "domain/email-inbound",
     "domain/email-watch",
     "workspace-package/ssh-access",
     "workspace-package/calendar-sync",

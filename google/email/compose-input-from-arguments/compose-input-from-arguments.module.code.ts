@@ -1,4 +1,4 @@
-import { parseSender } from "@akasha/email-inbound/sender"
+import { parseSender } from "akasha/alan/harness/email-inbound/sender/sender.module.code.ts"
 import type { ComposeInput } from "../email-shapes/email-shapes.module.code.ts"
 import { loadAttachmentFile } from "../gmail-attachments/gmail-attachments.module.code.ts"
 

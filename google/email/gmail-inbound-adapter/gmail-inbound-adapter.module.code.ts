@@ -1,6 +1,6 @@
-import { matchAgentChannel } from "@akasha/email-inbound/agent-channel"
-import type { InboundMessage } from "@akasha/email-inbound/inbound-message"
-import { parseSender } from "@akasha/email-inbound/sender"
+import { matchAgentChannel } from "akasha/alan/harness/email-inbound/agent-channel/agent-channel.module.code.ts"
+import type { InboundMessage } from "akasha/alan/harness/email-inbound/inbound-message/inbound-message.module.code.ts"
+import { parseSender } from "akasha/alan/harness/email-inbound/sender/sender.module.code.ts"
 import type { GmailClient } from "../gmail-client/gmail-client.module.code.ts"
 import {
   getRawMessage,

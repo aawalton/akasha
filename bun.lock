@@ -215,9 +215,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/harness/email-inbound": {
-      "name": "@akasha/email-inbound",
-    },
     "alan/harness/errors-client": {
       "name": "@akasha/errors-client",
       "dependencies": {
@@ -786,7 +783,6 @@
       "dependencies": {
         "@akasha/code": "workspace:*",
         "@akasha/command-system": "workspace:*",
-        "@akasha/email-inbound": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/google-oauth": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -2458,8 +2454,6 @@
     "@akasha/domains": ["@akasha/domains@workspace:domains"],
 
     "@akasha/editor-extension": ["@akasha/editor-extension@workspace:editor-extension"],
-
-    "@akasha/email-inbound": ["@akasha/email-inbound@workspace:alan/harness/email-inbound"],
 
     "@akasha/errors-client": ["@akasha/errors-client@workspace:alan/harness/errors-client"],
 

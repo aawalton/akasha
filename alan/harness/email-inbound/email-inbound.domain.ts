@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const emailInbound = {
   id: "01a05bcd-25e2-7b0c-aff6-314192c66a72",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "email-inbound",
   definition: "what an arriving email is read into before anything acts on it",
-  manifest: "json",
   parts: [
     "module/inbound-message",
     "module/sender",
@@ -22,4 +21,4 @@ export const emailInbound = {
       statement: "Every judgement here is made from headers alone.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
