@@ -10,7 +10,6 @@ export const check = {
     "module/body-not-utf8",
     "module/refusal-text",
     "page-type/code-check",
-    "page-type/cluster-check",
     "page-type/model-check",
     "page-type/refusal",
     "module/judged-body",
