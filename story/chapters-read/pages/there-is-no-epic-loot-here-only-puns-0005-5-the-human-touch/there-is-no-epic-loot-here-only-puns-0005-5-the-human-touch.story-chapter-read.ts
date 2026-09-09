@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns00055TheHumanTouch = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0005-5-the-human-touch",
   title: "5: The Human Touch",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 5,
   ownLength: 2805,
   unitSlug: "words",

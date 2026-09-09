@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0128112LowHangingFruit = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0128-112-low-hanging-fruit",
   title: "112: Low-hanging fruit",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 128,
   ownLength: 4046,
   unitSlug: "words",

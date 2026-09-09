@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns00099QuissingTheDungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0009-9-quissing-the-dungeon",
   title: "9: Quissing the Dungeon",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 9,
   ownLength: 1758,
   unitSlug: "words",

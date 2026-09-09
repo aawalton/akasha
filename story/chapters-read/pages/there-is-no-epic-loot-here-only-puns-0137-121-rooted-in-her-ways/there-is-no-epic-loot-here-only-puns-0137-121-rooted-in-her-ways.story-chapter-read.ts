@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0137121RootedInHerWays = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0137-121-rooted-in-her-ways",
   title: "121: Rooted in Her Ways",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 137,
   ownLength: 1934,
   unitSlug: "words",

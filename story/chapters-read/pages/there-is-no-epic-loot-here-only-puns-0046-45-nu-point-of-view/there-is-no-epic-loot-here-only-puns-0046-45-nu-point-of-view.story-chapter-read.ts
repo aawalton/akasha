@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns004645NuPointOfView = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0046-45-nu-point-of-view",
   title: "45: Nu point of view",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 46,
   ownLength: 4321,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0135119TheRoyalWee = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0135-119-the-royal-wee",
   title: "119: The Royal Wee",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 135,
   ownLength: 2675,
   unitSlug: "words",

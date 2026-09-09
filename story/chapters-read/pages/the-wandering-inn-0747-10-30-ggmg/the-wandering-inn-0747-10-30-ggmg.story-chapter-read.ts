@@ -5,7 +5,7 @@ export const theWanderingInn07471030Ggmg = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0747-10-30-ggmg",
   title: "10.30 GGMG",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 747,
   ownLength: 54516,
   ownProgress: 55122,

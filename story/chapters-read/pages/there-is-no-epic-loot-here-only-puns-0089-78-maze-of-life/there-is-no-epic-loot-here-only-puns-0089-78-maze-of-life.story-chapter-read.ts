@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns008978MazeOfLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0089-78-maze-of-life",
   title: "78: Maze of Life",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 89,
   ownLength: 3015,
   unitSlug: "words",

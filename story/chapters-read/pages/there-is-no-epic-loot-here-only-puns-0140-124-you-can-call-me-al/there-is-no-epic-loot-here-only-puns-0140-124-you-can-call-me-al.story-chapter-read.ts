@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0140124YouCanCallMeAl = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0140-124-you-can-call-me-al",
   title: "124: You can call me Al",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 140,
   ownLength: 2803,
   unitSlug: "words",

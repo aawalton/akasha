@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns003939LostInTranslation = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0039-39-lost-in-translation",
   title: "39: Lost in Translation",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 39,
   ownLength: 2408,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns003636ChallengeAccepted = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0036-36-challenge-accepted",
   title: "36: Challenge Accepted",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 36,
   ownLength: 2817,
   unitSlug: "words",

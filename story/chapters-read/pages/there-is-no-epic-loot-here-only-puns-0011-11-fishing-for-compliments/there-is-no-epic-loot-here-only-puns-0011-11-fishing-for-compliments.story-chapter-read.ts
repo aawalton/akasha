@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns001111FishingForCompliments = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0011-11-fishing-for-compliments",
   title: "11: Fishing for Compliments",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 11,
   ownLength: 3046,
   unitSlug: "words",

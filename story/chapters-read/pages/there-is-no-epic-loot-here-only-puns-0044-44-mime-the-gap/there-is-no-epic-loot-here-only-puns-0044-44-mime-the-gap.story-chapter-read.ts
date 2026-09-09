@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns004444MimeTheGap = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0044-44-mime-the-gap",
   title: "44: Mime the Gap",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 44,
   ownLength: 3322,
   unitSlug: "words",

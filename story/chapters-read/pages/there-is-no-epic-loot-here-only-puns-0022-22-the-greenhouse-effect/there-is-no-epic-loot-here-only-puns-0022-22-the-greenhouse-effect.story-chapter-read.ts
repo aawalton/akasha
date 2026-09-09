@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns002222TheGreenhouseEffect = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0022-22-the-greenhouse-effect",
   title: "22: The Greenhouse Effect",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 22,
   ownLength: 2403,
   unitSlug: "words",

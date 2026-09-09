@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0074SideStoryTheVillageOfWoodedly = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0074-side-story-the-village-of-woodedly",
   title: "Side Story: The Village of Woodedly",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 74,
   ownLength: 3762,
   unitSlug: "words",

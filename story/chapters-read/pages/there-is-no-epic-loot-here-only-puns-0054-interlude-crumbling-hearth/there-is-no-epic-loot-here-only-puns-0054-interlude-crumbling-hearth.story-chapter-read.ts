@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0054InterludeCrumblingHearth = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0054-interlude-crumbling-hearth",
   title: "Interlude: Crumbling Hearth",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 54,
   ownLength: 2991,
   unitSlug: "words",

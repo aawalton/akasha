@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns006962HollyWater = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0069-62-holly-water",
   title: "62: Holly Water",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 69,
   ownLength: 4434,
   unitSlug: "words",

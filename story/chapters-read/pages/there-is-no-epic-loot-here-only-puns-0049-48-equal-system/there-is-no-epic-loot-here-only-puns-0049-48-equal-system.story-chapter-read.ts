@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns004948EqualSystem = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0049-48-equal-system",
   title: "48: Equal-system",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 49,
   ownLength: 3319,
   unitSlug: "words",

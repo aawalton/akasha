@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns010490TheDungeonAndHerVillage = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0104-90-the-dungeon-and-her-village",
   title: "90: The Dungeon and her Village",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 104,
   ownLength: 4182,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const theWanderingInn0788InterludeHalfseekersPt6 = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0788-interlude-halfseekers-pt-6",
   title: "Interlude – Halfseekers (Pt. 6)",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 788,
   ownLength: 20054,
   unitSlug: "words",

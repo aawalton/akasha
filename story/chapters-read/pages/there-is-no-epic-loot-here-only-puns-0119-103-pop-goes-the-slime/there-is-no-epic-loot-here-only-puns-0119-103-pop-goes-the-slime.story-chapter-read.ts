@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0119103PopGoesTheSlime = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0119-103-pop-goes-the-slime",
   title: "103: Pop goes the Slime",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 119,
   ownLength: 3622,
   unitSlug: "words",

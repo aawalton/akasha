@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns005150EvolutionOfTheFirstFloor = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0051-50-evolution-of-the-first-floor",
   title: "50: Evolution of the First Floor",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 51,
   ownLength: 1751,
   unitSlug: "words",

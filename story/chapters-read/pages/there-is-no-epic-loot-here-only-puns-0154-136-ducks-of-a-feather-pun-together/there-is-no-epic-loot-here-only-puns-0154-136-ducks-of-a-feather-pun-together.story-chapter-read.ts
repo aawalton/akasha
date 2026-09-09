@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0154136DucksOfAFeatherPunTogether = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0154-136-ducks-of-a-feather-pun-together",
   title: "136: Ducks of a feather, pun together",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 154,
   ownLength: 4786,
   unitSlug: "words",

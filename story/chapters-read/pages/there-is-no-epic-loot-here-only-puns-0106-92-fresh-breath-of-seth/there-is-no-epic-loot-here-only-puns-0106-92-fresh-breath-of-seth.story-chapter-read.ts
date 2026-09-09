@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns010692FreshBreathOfSeth = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0106-92-fresh-breath-of-seth",
   title: "92: Fresh Breath of Seth",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 106,
   ownLength: 4199,
   unitSlug: "words",

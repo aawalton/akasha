@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns00033MushroomFarming = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0003-3-mushroom-farming",
   title: "3: Mushroom Farming",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 3,
   ownLength: 1668,
   unitSlug: "words",

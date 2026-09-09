@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns008675HeartToHeart = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0086-75-heart-to-heart",
   title: "75: Heart to Heart",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 86,
   ownLength: 4083,
   unitSlug: "words",

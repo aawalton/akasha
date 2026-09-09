@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns004040SeeingTheMushroomForTheForest = 
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0040-40-seeing-the-mushroom-for-the-forest",
   title: "40: Seeing the Mushroom for the Forest",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 40,
   ownLength: 2762,
   unitSlug: "words",

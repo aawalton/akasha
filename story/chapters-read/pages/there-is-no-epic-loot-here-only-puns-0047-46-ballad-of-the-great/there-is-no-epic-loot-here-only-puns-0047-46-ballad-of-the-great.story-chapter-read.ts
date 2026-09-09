@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns004746BalladOfTheGreat = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0047-46-ballad-of-the-great",
   title: "46: Ballad of the Great",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 47,
   ownLength: 2456,
   unitSlug: "words",

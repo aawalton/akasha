@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns004343RaleishTheThought = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0043-43-raleish-the-thought",
   title: "43: Raleish the thought",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 43,
   ownLength: 3405,
   unitSlug: "words",

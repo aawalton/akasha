@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns003535RulisAndTermis = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0035-35-rulis-and-termis",
   title: "35: Rulis and Termis",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 35,
   ownLength: 2441,
   unitSlug: "words",

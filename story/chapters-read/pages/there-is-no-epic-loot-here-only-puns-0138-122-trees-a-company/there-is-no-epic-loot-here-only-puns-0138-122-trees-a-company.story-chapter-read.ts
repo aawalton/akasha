@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0138122TreesACompany = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0138-122-trees-a-company",
   title: "122: Tree's a Company",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 138,
   ownLength: 2408,
   unitSlug: "words",

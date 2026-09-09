@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0124108AlFarWillHeGo = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0124-108-al-far-will-he-go",
   title: "108: Al Far will he go?",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 124,
   ownLength: 5413,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns010288XanatosGambitNoThisIsADeltaGambl
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0102-88-xanatos-gambit-no-this-is-a-delta-gamble",
   title: "88: Xanatos Gambit? No, this is a Delta Gamble!",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 102,
   ownLength: 5053,
   unitSlug: "words",

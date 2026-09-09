@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0126110HungryPython = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0126-110-hungry-python",
   title: "110: Hungry Python",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 126,
   ownLength: 2890,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0152InterludeTurtog = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0152-interlude-turtog",
   title: "Interlude: Turtog",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 152,
   ownLength: 5227,
   unitSlug: "words",

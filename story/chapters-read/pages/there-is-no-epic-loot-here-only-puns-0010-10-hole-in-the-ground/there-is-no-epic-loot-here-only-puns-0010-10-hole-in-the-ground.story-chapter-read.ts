@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns001010HoleInTheGround = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0010-10-hole-in-the-ground",
   title: "10: Hole in the Ground",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 10,
   ownLength: 2281,
   unitSlug: "words",

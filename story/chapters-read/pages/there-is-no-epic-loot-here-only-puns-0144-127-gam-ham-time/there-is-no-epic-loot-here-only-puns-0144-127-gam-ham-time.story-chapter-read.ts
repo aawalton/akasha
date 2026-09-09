@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0144127GamHamTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0144-127-gam-ham-time",
   title: "127: Gam Ham Time",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 144,
   ownLength: 3600,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0117101HowToBeADungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0117-101-how-to-be-a-dungeon",
   title: "101: How to be a Dungeon",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 117,
   ownLength: 3192,
   unitSlug: "words",

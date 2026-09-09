@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns002929TheJungleRoom = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0029-29-the-jungle-room",
   title: "29: The Jungle Room",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 29,
   ownLength: 1924,
   unitSlug: "words",

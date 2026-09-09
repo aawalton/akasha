@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0148131GhoulishIntentions = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0148-131-ghoulish-intentions",
   title: "131: Ghoulish Intentions",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 148,
   ownLength: 3094,
   unitSlug: "words",

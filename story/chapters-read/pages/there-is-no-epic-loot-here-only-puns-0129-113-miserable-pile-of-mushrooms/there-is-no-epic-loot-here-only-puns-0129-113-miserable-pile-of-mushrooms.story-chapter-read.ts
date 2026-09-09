@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0129113MiserablePileOfMushrooms = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0129-113-miserable-pile-of-mushrooms",
   title: "113: Miserable Pile of Mushrooms!",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 129,
   ownLength: 2078,
   unitSlug: "words",

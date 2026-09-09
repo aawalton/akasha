@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0094InterludeTheImpOfNoImportance = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0094-interlude-the-imp-of-no-importance",
   title: "Interlude: The Imp of no Importance",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 94,
   ownLength: 3301,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns006661ThisDungeonBelongsToNoland = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0066-61-this-dungeon-belongs-to-noland",
   title: "61: This Dungeon Belongs to Noland",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 66,
   ownLength: 3734,
   unitSlug: "words",

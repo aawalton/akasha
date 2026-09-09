@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns00066TheCappedLimit = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0006-6-the-capped-limit",
   title: "6: The Capped Limit",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 6,
   ownLength: 2555,
   unitSlug: "words",

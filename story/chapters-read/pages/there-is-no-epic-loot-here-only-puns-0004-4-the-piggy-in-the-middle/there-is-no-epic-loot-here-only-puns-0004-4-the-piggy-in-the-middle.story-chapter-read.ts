@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns00044ThePiggyInTheMiddle = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0004-4-the-piggy-in-the-middle",
   title: "4: The Piggy in the Middle",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 4,
   ownLength: 2148,
   unitSlug: "words",

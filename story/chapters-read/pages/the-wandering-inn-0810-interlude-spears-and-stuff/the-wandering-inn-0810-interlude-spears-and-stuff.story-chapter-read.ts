@@ -5,7 +5,7 @@ export const theWanderingInn0810InterludeSpearsAndStuff = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0810-interlude-spears-and-stuff",
   title: "Interlude - Spears and Stuff",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 810,
   ownLength: 11636,
   unitSlug: "words",

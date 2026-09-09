@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns011095AllActionNoTalk = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0110-95-all-action-no-talk",
   title: "95: All Action, No Talk",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 110,
   ownLength: 3495,
   unitSlug: "words",

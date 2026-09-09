@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0130114SootableUpgrades = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0130-114-sootable-upgrades",
   title: "114: Sootable Upgrades",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 130,
   ownLength: 1699,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns001414Conviction = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0014-14-conviction",
   title: "14: Conviction",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 14,
   ownLength: 2742,
   unitSlug: "words",

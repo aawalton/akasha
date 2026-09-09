@@ -4,7 +4,7 @@ export const theWanderingInn08331075HPt2 = {
   id: "01a07c1a-0b17-77bd-b83a-362049464b52",
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0833-10-75-h-pt-2",
-  storySlug: "story-read/the-wandering-inn",
+  story: "story-read/the-wandering-inn",
   position: 833,
   publishedAt: "2026-09-02",
   unitSlug: "words",

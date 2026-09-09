@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0125109QuickiesAndSquidies = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0125-109-quickies-and-squidies",
   title: "109: Quickies and Squidies",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 125,
   ownLength: 3591,
   unitSlug: "words",

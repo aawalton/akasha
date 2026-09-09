@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns009986OhHolyKnight = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0099-86-oh-holy-knight",
   title: "86: Oh Holy Knight",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 99,
   ownLength: 4180,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns008171TruthSeeker = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0081-71-truth-seeker",
   title: "71: Truth Seeker",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 81,
   ownLength: 3883,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns008877FlowerPower = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0088-77-flower-power",
   title: "77: Flower Power",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 88,
   ownLength: 2763,
   unitSlug: "words",

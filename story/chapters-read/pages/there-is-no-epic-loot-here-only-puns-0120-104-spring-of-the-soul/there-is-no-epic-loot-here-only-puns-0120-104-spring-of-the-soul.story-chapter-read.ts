@@ -5,7 +5,7 @@ export const thereIsNoEpicLootHereOnlyPuns0120104SpringOfTheSoul = {
   pageTypeSlug: "story-chapter-read",
   slug: "there-is-no-epic-loot-here-only-puns-0120-104-spring-of-the-soul",
   title: "104: Spring of the Soul",
-  storySlug: "there-is-no-epic-loot-here-only-puns",
+  story: "there-is-no-epic-loot-here-only-puns",
   position: 120,
   ownLength: 3249,
   unitSlug: "words",
