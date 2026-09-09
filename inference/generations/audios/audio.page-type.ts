@@ -1,4 +1,3 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 
 export const audio = {
@@ -23,6 +22,5 @@ export const audio = {
       statement: "An audio records where its bytes are rather than the bytes.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
-
-export type Audio = Page
