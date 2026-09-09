@@ -12,7 +12,7 @@ import type {
   AnyTemperFilter,
   FilterEditorOption,
   FilterRangeValue,
-} from "@akasha/temper-items-filters-core/search-filter-types"
+} from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
 import type { FilterController } from "../panel-filter-binding/panel-filter-binding.module.code.ts"
 
 export const COLOR_PRIMARY = [0.8442, 0.8442, 0.8442] as const

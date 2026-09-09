@@ -7,12 +7,6 @@ import "@akasha/temper-eso-types/eso-objects-02"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import {
-  deserializeSavedSearch,
-  serializeSavedSearch,
-} from "@akasha/temper-items-filters-core/saved-search"
-import { buildFilterIndex } from "@akasha/temper-items-filters-core/search-filter-registry"
-import type { ActiveFilterValues } from "@akasha/temper-items-filters-core/search-filter-set"
-import {
   type BarButton,
   CONTROL_GAP,
   CONTROL_HEIGHT,
@@ -22,6 +16,12 @@ import {
   PADDING_Y,
   setButtonActive,
 } from "akasha/temper/items-filters-addon/filter-bar-controls/filter-bar-controls.module.code.ts"
+import {
+  deserializeSavedSearch,
+  serializeSavedSearch,
+} from "akasha/temper/items-filters-core/saved-search/saved-search.module.code.ts"
+import { buildFilterIndex } from "akasha/temper/items-filters-core/search-filter-registry/search-filter-registry.module.code.ts"
+import type { ActiveFilterValues } from "akasha/temper/items-filters-core/search-filter-set/search-filter-set.module.code.ts"
 import {
   addSavedSearch,
   getSavedSearches,

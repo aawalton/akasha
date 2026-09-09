@@ -4,16 +4,16 @@ import "@akasha/temper-eso-types/eso-objects-02"
 import "@akasha/temper-eso-types/eso-ui"
 import "@akasha/temper-eso-types/eso-ui-2"
 import "@akasha/temper-eso-types/eso-ui-3"
-import { TEMPER_FILTERS } from "@akasha/temper-items-filters-core/search-filter-registry"
-import type {
-  AnyTemperFilter,
-  FilterGroup,
-  FilterId,
-} from "@akasha/temper-items-filters-core/search-filter-types"
 import {
   createMovableWindow,
   type WindowPosition,
 } from "akasha/temper/hud-window/movable-window/movable-window.module.code.ts"
+import { TEMPER_FILTERS } from "akasha/temper/items-filters-core/search-filter-registry/search-filter-registry.module.code.ts"
+import type {
+  AnyTemperFilter,
+  FilterGroup,
+  FilterId,
+} from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
 import type { BarContext } from "../filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   buildMultiselectEditor,

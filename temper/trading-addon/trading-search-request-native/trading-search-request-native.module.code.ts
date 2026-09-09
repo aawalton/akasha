@@ -4,7 +4,7 @@ import type {
   SearchRequestCollector,
   ServerFilterField,
   ServerRangeField,
-} from "@akasha/temper-items-filters-core/search-filter-types"
+} from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
 
 function nativeFilterType(field: ServerFilterField): number | undefined {
   switch (field) {

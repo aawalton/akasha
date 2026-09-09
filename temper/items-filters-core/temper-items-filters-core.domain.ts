@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperItemsFiltersCore = {
   id: "01a0613a-e0b3-78d9-aaac-decd150b1b76",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-items-filters-core",
   definition:
     "the filters a player narrows an item search with, and how a saved search keeps a filter value",
-  manifest: "json",
   parts: [
     "module/saved-search",
     "module/search-armor-weight-filter",
@@ -69,4 +68,4 @@ export const temperItemsFiltersCore = {
         "The rule-editor filters of the same names are another layer in `temper-items-rules-core`.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

@@ -7,13 +7,13 @@ import "@akasha/temper-eso-types/eso-functions-03"
 import "@akasha/temper-eso-types/eso-functions-08"
 import "@akasha/temper-eso-types/eso-functions-09"
 import "@akasha/temper-eso-types/eso-globals"
-import { buildFilterIndex } from "@akasha/temper-items-filters-core/search-filter-registry"
+import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
+import { buildFilterIndex } from "akasha/temper/items-filters-core/search-filter-registry/search-filter-registry.module.code.ts"
 import {
   type ActiveFilterValues,
   itemPassesFilters,
-} from "@akasha/temper-items-filters-core/search-filter-set"
-import { createSearchRequestCollector } from "@akasha/temper-items-filters-core/search-filter-types"
-import type { ItemFacts } from "@akasha/temper-items-rules-eval/item-facts"
+} from "akasha/temper/items-filters-core/search-filter-set/search-filter-set.module.code.ts"
+import { createSearchRequestCollector } from "akasha/temper/items-filters-core/search-filter-types/search-filter-types.module.code.ts"
 import {
   type BrowseListing,
   mergeListings,
