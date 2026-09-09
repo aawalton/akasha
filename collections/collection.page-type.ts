@@ -14,6 +14,7 @@ import type { PartsProgressInWords } from "./properties/parts-progress-in-words.
 import type { Position } from "./properties/position.number-property.ts"
 import type { Rank } from "./properties/rank.rank-property.ts"
 import type { Status } from "./properties/status.select-property.ts"
+import type { TmpPartOfCollections } from "./properties/tmp-part-of-collections.relation-property.ts"
 import type { UnitSlug } from "./properties/unit-slug.relation-property.ts"
 import type { UnitWords } from "./properties/unit-words.number-property.ts"
 
@@ -23,6 +24,7 @@ export type Collection = Page & {
   following?: Following
   ownLength?: OwnLength
   ownProgress?: OwnProgress
+  partOfCollections?: TmpPartOfCollections
   partOfCollectionSlugs?: PartOfCollectionSlugs
   partsLengthInWords?: PartsLengthInWords
   partsProgressInWords?: PartsProgressInWords
@@ -75,6 +77,7 @@ export const collection = {
     "rank-property/rank",
     "relation-property/collection-type",
     "relation-property/part-of-collection-slugs",
+    "relation-property/tmp-part-of-collections",
     "relation-property/unit-slug",
     "select-property/status",
     "text-property/collection-author",
@@ -104,6 +107,12 @@ export const collection = {
     { pagePropertySlug: "number-property/own-progress", required: false, many: false },
     {
       pagePropertySlug: "relation-property/part-of-collection-slugs",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pagePropertySlug: "relation-property/tmp-part-of-collections",
       required: false,
       many: true,
       maxCount: null,
