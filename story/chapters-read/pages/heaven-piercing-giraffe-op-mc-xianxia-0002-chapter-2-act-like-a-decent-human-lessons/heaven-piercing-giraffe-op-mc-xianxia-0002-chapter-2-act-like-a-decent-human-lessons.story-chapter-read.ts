@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0002Chapter2ActLikeADecentHumanLess
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0002-chapter-2-act-like-a-decent-human-lessons",
   title: "Chapter 2: Act Like a Decent Human Lessons",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 2,
   ownLength: 2586,
   unitSlug: "words",

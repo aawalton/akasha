@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0194Chapter866FragmentOfStarlessSky = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0194-chapter-866-fragment-of-starless-sky",
   title: "Chapter 866 - Fragment of Starless Sky",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 194,
   ownLength: 3442,
   unitSlug: "words",

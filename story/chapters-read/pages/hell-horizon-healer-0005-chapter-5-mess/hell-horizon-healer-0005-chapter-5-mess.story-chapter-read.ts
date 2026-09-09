@@ -5,7 +5,7 @@ export const hellHorizonHealer0005Chapter5Mess = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0005-chapter-5-mess",
   title: "Chapter 5 - Mess",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 5,
   ownLength: 1830,
   unitSlug: "words",

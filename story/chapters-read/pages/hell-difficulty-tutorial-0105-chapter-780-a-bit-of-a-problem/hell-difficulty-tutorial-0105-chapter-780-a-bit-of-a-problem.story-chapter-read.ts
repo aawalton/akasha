@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0105Chapter780ABitOfAProblem = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0105-chapter-780-a-bit-of-a-problem",
   title: "Chapter 780 - A bit of a problem",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 105,
   ownLength: 2615,
   unitSlug: "words",

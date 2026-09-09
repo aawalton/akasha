@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0014NotAChapterAnnouncementAprilFoolsDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0014-not-a-chapter-announcement-april-fools-day",
   title: "Not a Chapter - Announcement (April Fool's Day)",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 14,
   ownLength: 381,
   unitSlug: "words",

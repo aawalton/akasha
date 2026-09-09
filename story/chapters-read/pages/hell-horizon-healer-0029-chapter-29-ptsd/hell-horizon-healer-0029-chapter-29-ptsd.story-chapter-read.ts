@@ -5,7 +5,7 @@ export const hellHorizonHealer0029Chapter29Ptsd = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0029-chapter-29-ptsd",
   title: "Chapter 29 - PTSD",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 29,
   ownLength: 1782,
   ownProgress: 181,

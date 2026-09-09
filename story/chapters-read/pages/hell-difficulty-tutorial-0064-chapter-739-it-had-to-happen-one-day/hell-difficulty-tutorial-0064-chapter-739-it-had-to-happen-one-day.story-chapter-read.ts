@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0064Chapter739ItHadToHappenOneDay = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0064-chapter-739-it-had-to-happen-one-day",
   title: "Chapter 739 - It had to happen one day",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 64,
   ownLength: 2599,
   unitSlug: "words",

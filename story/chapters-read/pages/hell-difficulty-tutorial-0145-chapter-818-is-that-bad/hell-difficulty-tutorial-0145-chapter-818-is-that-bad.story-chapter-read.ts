@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0145Chapter818IsThatBad = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0145-chapter-818-is-that-bad",
   title: "Chapter 818 - Is that bad?",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 145,
   ownLength: 2199,
   unitSlug: "words",

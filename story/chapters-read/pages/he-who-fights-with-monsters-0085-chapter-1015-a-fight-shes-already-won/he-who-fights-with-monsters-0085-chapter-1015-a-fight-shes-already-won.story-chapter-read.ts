@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0085Chapter1015AFightShesAlreadyWon = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0085-chapter-1015-a-fight-shes-already-won",
   title: "Chapter 1015: A Fight She’s Already Won",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 85,
   ownLength: 2619,
   unitSlug: "words",

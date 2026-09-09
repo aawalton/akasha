@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0046Chapter979UnequivocallyMyThing = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0046-chapter-979-unequivocally-my-thing",
   title: "Chapter 979: Unequivocally My Thing",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 46,
   ownLength: 2651,
   ownProgress: 2651,

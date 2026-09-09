@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0141Chapter814BoysTrip = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0141-chapter-814-boys-trip",
   title: "Chapter 814 - Boys' trip",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 141,
   ownLength: 2181,
   unitSlug: "words",

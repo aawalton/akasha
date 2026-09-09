@@ -5,7 +5,7 @@ export const hellHorizonHealer0027Chapter27FallenApe = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0027-chapter-27-fallen-ape",
   title: "Chapter 27 - Fallen Ape",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 27,
   ownLength: 1526,
   unitSlug: "words",

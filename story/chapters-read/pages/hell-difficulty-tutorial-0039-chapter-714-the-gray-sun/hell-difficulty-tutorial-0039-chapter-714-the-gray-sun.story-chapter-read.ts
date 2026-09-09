@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0039Chapter714TheGraySun = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0039-chapter-714-the-gray-sun",
   title: "Chapter 714 - The Gray Sun",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 39,
   ownLength: 2204,
   unitSlug: "words",

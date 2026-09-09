@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0059Chapter992BattleOfThePlants = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0059-chapter-992-battle-of-the-plants",
   title: "Chapter 992: Battle of the Plants",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 59,
   ownLength: 2457,
   unitSlug: "words",

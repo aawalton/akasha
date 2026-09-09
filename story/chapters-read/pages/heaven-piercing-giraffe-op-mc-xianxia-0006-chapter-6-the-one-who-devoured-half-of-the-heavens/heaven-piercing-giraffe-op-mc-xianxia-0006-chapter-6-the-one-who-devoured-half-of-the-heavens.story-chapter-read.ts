@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0006Chapter6TheOneWhoDevouredHalfOf
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0006-chapter-6-the-one-who-devoured-half-of-the-heavens",
   title: "Chapter 6: The One Who Devoured Half of the Heavens",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 6,
   ownLength: 1980,
   unitSlug: "words",

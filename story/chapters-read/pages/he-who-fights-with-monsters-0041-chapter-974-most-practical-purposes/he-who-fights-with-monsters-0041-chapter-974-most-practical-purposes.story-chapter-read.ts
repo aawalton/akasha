@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0041Chapter974MostPracticalPurposes = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0041-chapter-974-most-practical-purposes",
   title: "Chapter 974: Most Practical Purposes",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 41,
   ownLength: 2236,
   ownProgress: 2236,

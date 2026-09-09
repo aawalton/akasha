@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0153Chapter826VisitingDuncan = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0153-chapter-826-visiting-duncan",
   title: "Chapter 826 - Visiting Duncan",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 153,
   ownLength: 2068,
   unitSlug: "words",

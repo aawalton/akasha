@@ -5,7 +5,7 @@ export const hellHorizonHealer0003Chapter3WellThatCanTBeGood = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0003-chapter-3-well-that-can-t-be-good",
   title: "Chapter 3 - Well, That Can't Be Good",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 3,
   ownLength: 1356,
   unitSlug: "words",

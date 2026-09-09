@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0013Chapter13Fall = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0013-chapter-13-fall",
   title: "Chapter 13: Fall",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 13,
   ownLength: 1768,
   unitSlug: "words",

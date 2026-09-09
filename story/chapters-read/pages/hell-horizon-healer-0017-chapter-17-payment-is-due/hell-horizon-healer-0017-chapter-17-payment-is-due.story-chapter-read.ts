@@ -5,7 +5,7 @@ export const hellHorizonHealer0017Chapter17PaymentIsDue = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0017-chapter-17-payment-is-due",
   title: "Chapter 17 - Payment is Due",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 17,
   ownLength: 1513,
   unitSlug: "words",

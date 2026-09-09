@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0103Chapter778DangerZones = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0103-chapter-778-danger-zones",
   title: "Chapter 778 - Danger zones",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 103,
   ownLength: 2170,
   unitSlug: "words",

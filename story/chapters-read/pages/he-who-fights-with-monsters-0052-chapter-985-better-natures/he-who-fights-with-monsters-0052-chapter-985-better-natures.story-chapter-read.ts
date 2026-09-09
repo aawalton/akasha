@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0052Chapter985BetterNatures = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0052-chapter-985-better-natures",
   title: "Chapter 985: Better Natures",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 52,
   ownLength: 2608,
   ownProgress: 2608,

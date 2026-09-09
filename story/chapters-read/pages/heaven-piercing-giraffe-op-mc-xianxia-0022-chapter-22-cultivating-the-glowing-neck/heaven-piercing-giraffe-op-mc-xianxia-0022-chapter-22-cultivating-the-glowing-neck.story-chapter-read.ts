@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0022Chapter22CultivatingTheGlowingN
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0022-chapter-22-cultivating-the-glowing-neck",
   title: "Chapter 22: Cultivating the Glowing Neck",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 22,
   ownLength: 1923,
   unitSlug: "words",

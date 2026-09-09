@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0180Chapter853WhoDoYouTakeMeFor = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0180-chapter-853-who-do-you-take-me-for",
   title: "Chapter 853 - Who do you take me for?",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 180,
   ownLength: 2438,
   unitSlug: "words",

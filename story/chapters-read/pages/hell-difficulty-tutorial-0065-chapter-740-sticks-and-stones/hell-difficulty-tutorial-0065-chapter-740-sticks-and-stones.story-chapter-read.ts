@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0065Chapter740SticksAndStones = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0065-chapter-740-sticks-and-stones",
   title: "Chapter 740 - Sticks and stones",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 65,
   ownLength: 2115,
   unitSlug: "words",

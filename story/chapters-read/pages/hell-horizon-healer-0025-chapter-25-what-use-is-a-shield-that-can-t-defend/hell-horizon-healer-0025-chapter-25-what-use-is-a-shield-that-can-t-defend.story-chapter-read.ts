@@ -5,7 +5,7 @@ export const hellHorizonHealer0025Chapter25WhatUseIsAShieldThatCanTDefend = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0025-chapter-25-what-use-is-a-shield-that-can-t-defend",
   title: "Chapter 25 - What Use Is A Shield That Can't Defend",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 25,
   ownLength: 1877,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0004Chapter4MockBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0004-chapter-4-mock-battle",
   title: "Chapter 4: Mock Battle",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 4,
   ownLength: 1908,
   unitSlug: "words",

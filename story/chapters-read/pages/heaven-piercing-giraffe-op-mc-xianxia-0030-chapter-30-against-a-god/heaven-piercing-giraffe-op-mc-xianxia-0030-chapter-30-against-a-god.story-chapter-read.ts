@@ -4,7 +4,7 @@ export const heavenPiercingGiraffeOpMcXianxia0030Chapter30AgainstAGod = {
   id: "01a077e4-4cee-7e1b-a408-f6618fcf3bf5",
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0030-chapter-30-against-a-god",
-  storySlug: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
+  story: "story-read/heaven-piercing-giraffe-op-mc-xianxia",
   position: 30,
   publishedAt: "2026-09-05",
   unitSlug: "words",

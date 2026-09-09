@@ -5,7 +5,7 @@ export const hellHorizonHealer0016Chapter16SkillMerge = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0016-chapter-16-skill-merge",
   title: "Chapter 16 - Skill Merge",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 16,
   ownLength: 1879,
   unitSlug: "words",

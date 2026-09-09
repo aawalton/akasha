@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0014BooksAvailableOnKindleKindleUnlimitedAnd
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0014-books-available-on-kindle-kindle-unlimited-and-audible",
   title: "Books available on Kindle, Kindle Unlimited and Audible",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 14,
   ownLength: 118,
   ownProgress: 118,

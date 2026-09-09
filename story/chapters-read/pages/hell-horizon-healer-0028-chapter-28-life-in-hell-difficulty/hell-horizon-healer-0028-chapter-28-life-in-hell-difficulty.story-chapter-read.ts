@@ -5,7 +5,7 @@ export const hellHorizonHealer0028Chapter28LifeInHellDifficulty = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0028-chapter-28-life-in-hell-difficulty",
   title: "Chapter 28 - Life in Hell Difficulty",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 28,
   ownLength: 1636,
   unitSlug: "words",

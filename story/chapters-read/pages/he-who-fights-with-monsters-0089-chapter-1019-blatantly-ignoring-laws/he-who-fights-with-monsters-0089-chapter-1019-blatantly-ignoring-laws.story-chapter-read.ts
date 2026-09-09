@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0089Chapter1019BlatantlyIgnoringLaws = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0089-chapter-1019-blatantly-ignoring-laws",
   title: "Chapter 1019: Blatantly Ignoring Laws",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 89,
   ownLength: 2258,
   unitSlug: "words",

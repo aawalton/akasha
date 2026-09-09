@@ -5,7 +5,7 @@ export const hellHorizonHealer0019Chapter19TheCalmAfterTheStorm = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0019-chapter-19-the-calm-after-the-storm",
   title: "Chapter 19 - The Calm after the Storm",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 19,
   ownLength: 1867,
   unitSlug: "words",

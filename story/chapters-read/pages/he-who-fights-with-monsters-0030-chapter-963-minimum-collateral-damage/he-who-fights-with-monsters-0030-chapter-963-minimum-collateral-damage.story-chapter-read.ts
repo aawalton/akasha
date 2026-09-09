@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0030Chapter963MinimumCollateralDamage = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0030-chapter-963-minimum-collateral-damage",
   title: "Chapter 963: Minimum Collateral Damage",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 30,
   ownLength: 2597,
   ownProgress: 2597,

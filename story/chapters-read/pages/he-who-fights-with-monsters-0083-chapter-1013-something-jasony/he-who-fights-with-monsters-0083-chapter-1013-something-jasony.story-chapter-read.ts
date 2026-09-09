@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0083Chapter1013SomethingJasony = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0083-chapter-1013-something-jasony",
   title: "Chapter 1013: Something Jasony",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 83,
   ownLength: 2571,
   unitSlug: "words",

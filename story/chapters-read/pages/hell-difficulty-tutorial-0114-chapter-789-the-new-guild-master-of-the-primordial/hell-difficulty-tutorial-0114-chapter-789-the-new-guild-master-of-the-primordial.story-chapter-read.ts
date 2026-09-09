@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0114Chapter789TheNewGuildMasterOfThePrimordia
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0114-chapter-789-the-new-guild-master-of-the-primordial",
   title: "Chapter 789 - The new guild master of the Primordial Knights",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 114,
   ownLength: 2619,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0031Chapter706NotEnoughToStopMe = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0031-chapter-706-not-enough-to-stop-me",
   title: "Chapter 706 - Not enough to stop me",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 31,
   ownLength: 3145,
   unitSlug: "words",

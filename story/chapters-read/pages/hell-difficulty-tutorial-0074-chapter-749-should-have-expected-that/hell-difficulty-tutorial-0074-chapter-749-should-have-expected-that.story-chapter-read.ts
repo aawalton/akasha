@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0074Chapter749ShouldHaveExpectedThat = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0074-chapter-749-should-have-expected-that",
   title: "Chapter 749 - Should have expected that",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 74,
   ownLength: 2294,
   unitSlug: "words",

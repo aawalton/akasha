@@ -4,7 +4,7 @@ export const hellDifficultyTutorial0206Chapter878GoodAnt = {
   id: "01a08397-1fcb-700e-816e-36651caf7f84",
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0206-chapter-878-good-ant",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 206,
   publishedAt: "2026-09-08",
   unitSlug: "words",

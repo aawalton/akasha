@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0021Chapter21TheHeavensDivinePunish
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0021-chapter-21-the-heavens-divine-punishment-god-of",
   title: "Chapter 21: The Heavens' Divine Punishment (God of Beasts' POV)",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 21,
   ownLength: 1865,
   unitSlug: "words",

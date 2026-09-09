@@ -5,7 +5,7 @@ export const hellHorizonHealer0021Chapter21MeetingTheLandlord = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0021-chapter-21-meeting-the-landlord",
   title: "Chapter 21 - Meeting the Landlord",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 21,
   ownLength: 1607,
   unitSlug: "words",

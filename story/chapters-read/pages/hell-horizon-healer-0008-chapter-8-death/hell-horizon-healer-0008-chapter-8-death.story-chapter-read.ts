@@ -5,7 +5,7 @@ export const hellHorizonHealer0008Chapter8Death = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0008-chapter-8-death",
   title: "Chapter 8 - Death? ",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 8,
   ownLength: 1441,
   unitSlug: "words",

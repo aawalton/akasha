@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0161Chapter834Negotiations = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0161-chapter-834-negotiations",
   title: "Chapter 834 - Negotiations",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 161,
   ownLength: 2484,
   unitSlug: "words",

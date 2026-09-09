@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0016Chapter16LivingWithATribe = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0016-chapter-16-living-with-a-tribe",
   title: "Chapter 16: Living with a Tribe",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 16,
   ownLength: 1806,
   unitSlug: "words",

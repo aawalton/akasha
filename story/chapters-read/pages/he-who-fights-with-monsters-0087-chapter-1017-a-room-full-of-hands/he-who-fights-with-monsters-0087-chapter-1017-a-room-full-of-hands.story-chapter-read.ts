@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0087Chapter1017ARoomFullOfHands = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0087-chapter-1017-a-room-full-of-hands",
   title: "Chapter 1017: A Room Full of Hands",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 87,
   ownLength: 3179,
   unitSlug: "words",

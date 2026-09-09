@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0027Chapter27WhatIsLove = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0027-chapter-27-what-is-love",
   title: "Chapter 27: What is Love?",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 27,
   ownLength: 1581,
   unitSlug: "words",

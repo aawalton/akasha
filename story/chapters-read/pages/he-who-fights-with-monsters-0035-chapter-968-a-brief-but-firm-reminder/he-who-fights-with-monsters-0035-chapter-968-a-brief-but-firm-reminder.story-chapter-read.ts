@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0035Chapter968ABriefButFirmReminder = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0035-chapter-968-a-brief-but-firm-reminder",
   title: "Chapter 968: A Brief but Firm Reminder",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 35,
   ownLength: 2751,
   ownProgress: 2751,

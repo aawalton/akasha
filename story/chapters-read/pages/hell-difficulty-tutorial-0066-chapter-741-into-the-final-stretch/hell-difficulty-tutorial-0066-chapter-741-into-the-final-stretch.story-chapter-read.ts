@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0066Chapter741IntoTheFinalStretch = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0066-chapter-741-into-the-final-stretch",
   title: "Chapter 741 - Into the final stretch",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 66,
   ownLength: 2254,
   unitSlug: "words",

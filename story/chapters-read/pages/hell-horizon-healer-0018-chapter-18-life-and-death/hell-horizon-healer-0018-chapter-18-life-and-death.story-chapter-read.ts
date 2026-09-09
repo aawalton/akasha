@@ -5,7 +5,7 @@ export const hellHorizonHealer0018Chapter18LifeAndDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0018-chapter-18-life-and-death",
   title: "Chapter 18 - Life and Death",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 18,
   ownLength: 1996,
   unitSlug: "words",

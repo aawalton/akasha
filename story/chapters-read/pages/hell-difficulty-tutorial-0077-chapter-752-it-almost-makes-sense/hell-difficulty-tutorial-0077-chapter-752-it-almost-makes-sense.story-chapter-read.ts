@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0077Chapter752ItAlmostMakesSense = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0077-chapter-752-it-almost-makes-sense",
   title: "Chapter 752 - It almost makes sense",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 77,
   ownLength: 2532,
   unitSlug: "words",

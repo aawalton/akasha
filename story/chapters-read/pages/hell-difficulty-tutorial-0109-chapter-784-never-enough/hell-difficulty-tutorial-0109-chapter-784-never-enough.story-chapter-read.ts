@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0109Chapter784NeverEnough = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0109-chapter-784-never-enough",
   title: "Chapter 784 - Never enough",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 109,
   ownLength: 2668,
   unitSlug: "words",

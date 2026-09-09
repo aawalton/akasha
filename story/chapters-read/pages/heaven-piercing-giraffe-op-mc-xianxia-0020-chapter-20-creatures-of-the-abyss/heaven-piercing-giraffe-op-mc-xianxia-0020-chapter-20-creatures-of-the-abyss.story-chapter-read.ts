@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0020Chapter20CreaturesOfTheAbyss = 
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0020-chapter-20-creatures-of-the-abyss",
   title: "Chapter 20: Creatures of the Abyss",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 20,
   ownLength: 1777,
   unitSlug: "words",

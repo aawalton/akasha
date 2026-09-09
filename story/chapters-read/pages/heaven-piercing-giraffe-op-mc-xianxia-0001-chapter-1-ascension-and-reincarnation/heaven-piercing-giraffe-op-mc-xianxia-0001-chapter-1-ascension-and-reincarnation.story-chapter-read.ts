@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0001Chapter1AscensionAndReincarnati
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0001-chapter-1-ascension-and-reincarnation",
   title: "Chapter 1: Ascension and Reincarnation",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 1,
   ownLength: 2514,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0188Chapter860GrandPrize = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0188-chapter-860-grand-prize",
   title: "Chapter 860 - Grand Prize",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 188,
   ownLength: 2234,
   unitSlug: "words",

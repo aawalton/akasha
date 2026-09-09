@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0043Chapter718IntoTheQuarantine = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0043-chapter-718-into-the-quarantine",
   title: "Chapter 718 - Into the Quarantine",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 43,
   ownLength: 2203,
   unitSlug: "words",

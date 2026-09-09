@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0164Chapter837TheBoysRemainUndefeated = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0164-chapter-837-the-boys-remain-undefeated",
   title: "Chapter 837 - The boys remain undefeated",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 164,
   ownLength: 2471,
   unitSlug: "words",

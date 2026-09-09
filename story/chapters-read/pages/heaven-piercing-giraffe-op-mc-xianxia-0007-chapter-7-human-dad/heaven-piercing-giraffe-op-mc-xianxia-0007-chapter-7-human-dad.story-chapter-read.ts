@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0007Chapter7HumanDad = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0007-chapter-7-human-dad",
   title: "Chapter 7: Human Dad",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 7,
   ownLength: 1872,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0049Chapter982TheStuffOfFaithAndMadness = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0049-chapter-982-the-stuff-of-faith-and-madness",
   title: "Chapter 982: The Stuff of Faith and Madness",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 49,
   ownLength: 2245,
   ownProgress: 2245,

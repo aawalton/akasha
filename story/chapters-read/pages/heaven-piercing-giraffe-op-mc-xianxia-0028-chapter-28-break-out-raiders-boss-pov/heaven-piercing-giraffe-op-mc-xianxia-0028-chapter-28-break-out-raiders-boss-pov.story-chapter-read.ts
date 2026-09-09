@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0028Chapter28BreakOutRaidersBossPov
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0028-chapter-28-break-out-raiders-boss-pov",
   title: "Chapter 28: Break Out (Raiders Boss' POV)",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 28,
   ownLength: 1687,
   unitSlug: "words",

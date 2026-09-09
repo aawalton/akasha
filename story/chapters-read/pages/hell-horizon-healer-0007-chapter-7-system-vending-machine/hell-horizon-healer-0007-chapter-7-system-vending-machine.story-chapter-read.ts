@@ -5,7 +5,7 @@ export const hellHorizonHealer0007Chapter7SystemVendingMachine = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0007-chapter-7-system-vending-machine",
   title: "Chapter 7 - System Vending Machine",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 7,
   ownLength: 2168,
   unitSlug: "words",

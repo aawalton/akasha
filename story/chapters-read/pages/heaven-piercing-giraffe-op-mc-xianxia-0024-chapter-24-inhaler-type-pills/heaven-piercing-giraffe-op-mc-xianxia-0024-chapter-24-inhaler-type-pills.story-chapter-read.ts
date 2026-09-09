@@ -5,7 +5,7 @@ export const heavenPiercingGiraffeOpMcXianxia0024Chapter24InhalerTypePills = {
   pageTypeSlug: "story-chapter-read",
   slug: "heaven-piercing-giraffe-op-mc-xianxia-0024-chapter-24-inhaler-type-pills",
   title: "Chapter 24: Inhaler Type Pills",
-  storySlug: "heaven-piercing-giraffe-op-mc-xianxia",
+  story: "heaven-piercing-giraffe-op-mc-xianxia",
   position: 24,
   ownLength: 1636,
   unitSlug: "words",

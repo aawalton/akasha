@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0102Chapter777ASilentAcknowledgment = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0102-chapter-777-a-silent-acknowledgment",
   title: "Chapter 777 - A silent acknowledgment",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 102,
   ownLength: 1941,
   unitSlug: "words",

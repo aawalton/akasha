@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0057Chapter732ThievingRat = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0057-chapter-732-thieving-rat",
   title: "Chapter 732 - Thieving rat",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 57,
   ownLength: 2219,
   unitSlug: "words",

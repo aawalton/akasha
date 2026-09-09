@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0024Chapter699WhereIsTheLoot = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0024-chapter-699-where-is-the-loot",
   title: "Chapter 699 - Where is the loot?",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 24,
   ownLength: 2472,
   unitSlug: "words",

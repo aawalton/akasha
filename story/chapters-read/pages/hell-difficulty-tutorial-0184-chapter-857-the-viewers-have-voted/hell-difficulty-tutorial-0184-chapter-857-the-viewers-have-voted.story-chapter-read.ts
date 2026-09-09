@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0184Chapter857TheViewersHaveVoted = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0184-chapter-857-the-viewers-have-voted",
   title: "Chapter 857 - The viewers have voted",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 184,
   ownLength: 2424,
   unitSlug: "words",

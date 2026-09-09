@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0046Chapter721FundamentalTheoremOfMinions = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0046-chapter-721-fundamental-theorem-of-minions",
   title: "Chapter 721 - Fundamental theorem of minions",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 46,
   ownLength: 2448,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0056Chapter989AManFoughtMonsters = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0056-chapter-989-a-man-fought-monsters",
   title: "Chapter 989: A Man Fought Monsters",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 56,
   ownLength: 2721,
   ownProgress: 2721,

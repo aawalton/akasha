@@ -5,7 +5,7 @@ export const hellDifficultyTutorial0185Chapter858WhyWouldThatCrazyAssholeDoThat 
   pageTypeSlug: "story-chapter-read",
   slug: "hell-difficulty-tutorial-0185-chapter-858-why-would-that-crazy-asshole-do-that",
   title: "Chapter 858 - Why would that crazy asshole do that!?",
-  storySlug: "story-read/hell-difficulty-tutorial",
+  story: "story-read/hell-difficulty-tutorial",
   position: 185,
   ownLength: 2253,
   unitSlug: "words",

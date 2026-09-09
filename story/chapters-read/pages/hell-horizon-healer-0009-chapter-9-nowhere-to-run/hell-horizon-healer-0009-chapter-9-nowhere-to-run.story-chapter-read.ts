@@ -5,7 +5,7 @@ export const hellHorizonHealer0009Chapter9NowhereToRun = {
   pageTypeSlug: "story-chapter-read",
   slug: "hell-horizon-healer-0009-chapter-9-nowhere-to-run",
   title: "Chapter 9 - Nowhere to Run",
-  storySlug: "hell-horizon-healer",
+  story: "hell-horizon-healer",
   position: 9,
   ownLength: 1609,
   unitSlug: "words",
