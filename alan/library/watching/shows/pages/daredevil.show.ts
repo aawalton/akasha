@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const daredevil = {
   id: "01a06802-9331-7017-adc1-8d535db36d7b",
   pageTypeSlug: "show",
+  type: "show",
   slug: "daredevil",
   title: "Daredevil",
   partOfCollections: ["marvel-television"],

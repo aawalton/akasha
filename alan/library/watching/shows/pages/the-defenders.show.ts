@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theDefenders = {
   id: "01a06802-9332-7045-8b44-b0f22d08a7a8",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-defenders",
   title: "The Defenders",
   partOfCollections: ["marvel-television"],

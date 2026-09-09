@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const ruriRocks = {
   id: "01a06802-9332-701b-8b42-fb7f4c81a3ac",
   pageTypeSlug: "show",
+  type: "show",
   slug: "ruri-rocks",
   title: "Ruri Rocks",
   partOfCollections: ["watch-with-jen"],

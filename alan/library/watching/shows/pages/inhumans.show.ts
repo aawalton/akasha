@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const inhumans = {
   id: "01a06802-9332-7002-a616-7758e81e4777",
   pageTypeSlug: "show",
+  type: "show",
   slug: "inhumans",
   title: "Inhumans",
   partOfCollections: ["marvel-television"],

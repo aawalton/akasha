@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const upload = {
   id: "01a06802-9333-700b-9e2d-443f54b562cb",
   pageTypeSlug: "show",
+  type: "show",
   slug: "upload",
   title: "Upload",
   partOfCollections: ["science-fiction-shows"],

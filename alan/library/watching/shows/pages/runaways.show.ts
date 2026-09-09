@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const runaways = {
   id: "01a06802-9332-701a-896c-0975c653b0e6",
   pageTypeSlug: "show",
+  type: "show",
   slug: "runaways",
   title: "Runaways",
   partOfCollections: ["marvel-television"],

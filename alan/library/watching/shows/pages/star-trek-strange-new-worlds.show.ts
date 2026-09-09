@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const starTrekStrangeNewWorlds = {
   id: "01a06802-9332-702e-82d4-997bd82a0e4f",
   pageTypeSlug: "show",
+  type: "show",
   slug: "star-trek-strange-new-worlds",
   title: "Star Trek: Strange New Worlds",
   partOfCollections: ["star-trek-3"],

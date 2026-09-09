@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const hawkeye = {
   id: "01a06802-9331-702d-b007-506640a3957c",
   pageTypeSlug: "show",
+  type: "show",
   slug: "hawkeye",
   title: "Hawkeye",
   partOfCollections: ["marvel-cinematic-universe"],

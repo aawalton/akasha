@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const squidGame = {
   id: "01a06802-9332-7025-a175-c90f86683f15",
   pageTypeSlug: "show",
+  type: "show",
   slug: "squid-game",
   title: "Squid Game",
   partOfCollections: ["science-fiction-shows"],

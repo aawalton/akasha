@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const ironFist = {
   id: "01a06802-9332-7003-96d2-c9c78222e785",
   pageTypeSlug: "show",
+  type: "show",
   slug: "iron-fist",
   title: "Iron Fist",
   partOfCollections: ["marvel-television"],

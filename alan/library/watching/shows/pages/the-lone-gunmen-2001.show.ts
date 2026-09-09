@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theLoneGunmen2001 = {
   id: "01a06802-9332-704a-8a48-3500c96e9004",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-lone-gunmen-2001",
   title: "The Lone Gunmen (2001)",
   partOfCollections: ["x-files"],

@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theChosen = {
   id: "01a06802-9332-7044-ba34-6521f4f44287",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-chosen",
   title: "The Chosen",
   partOfCollections: ["award-winning-shows"],

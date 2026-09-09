@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const secretInvasion = {
   id: "01a06802-9332-701f-bb5d-f71d5f032575",
   pageTypeSlug: "show",
+  type: "show",
   slug: "secret-invasion",
   title: "Secret Invasion",
   partOfCollections: ["marvel-cinematic-universe"],

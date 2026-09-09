@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const parksAndRecreation = {
   id: "01a06802-9332-7014-a430-a9dc9a13d739",
   pageTypeSlug: "show",
+  type: "show",
   slug: "parks-and-recreation",
   title: "Parks and Recreation",
   partOfCollections: ["sitcoms"],

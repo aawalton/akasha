@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const girlsGutsGlory = {
   id: "01a06802-9331-702b-868b-a41e45f94b3e",
   pageTypeSlug: "show",
+  type: "show",
   slug: "girls-guts-glory",
   title: "Girls Guts Glory",
   partOfCollections: ["dungeons-and-dragons-shows"],

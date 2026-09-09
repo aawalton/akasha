@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const battlestarGalactica2004 = {
   id: "01a06802-9331-700a-ae44-b7ab5efc9472",
   pageTypeSlug: "show",
+  type: "show",
   slug: "battlestar-galactica-2004",
   title: "Battlestar Galactica (2004)",
   partOfCollections: ["battlestar-galactica"],

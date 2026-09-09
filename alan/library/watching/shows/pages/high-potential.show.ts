@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const highPotential = {
   id: "01a06802-9331-702f-919b-f1dfcb4702d7",
   pageTypeSlug: "show",
+  type: "show",
   slug: "high-potential",
   title: "High Potential",
   partOfCollections: ["crime-investigation-shows", "watch-with-jen"],

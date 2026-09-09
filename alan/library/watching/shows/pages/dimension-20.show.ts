@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const dimension20 = {
   id: "01a06802-9331-701a-ab01-1f10cfc9a398",
   pageTypeSlug: "show",
+  type: "show",
   slug: "dimension-20",
   title: "Dimension 20",
   partOfCollections: ["dungeons-and-dragons-shows"],

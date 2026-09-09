@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const avatarTheLastAirbender = {
   id: "01a06802-9331-7007-95e3-b9560ead3f8a",
   pageTypeSlug: "show",
+  type: "show",
   slug: "avatar-the-last-airbender",
   title: "Avatar: The Last Airbender",
   partOfCollections: ["family-friendly-shows"],

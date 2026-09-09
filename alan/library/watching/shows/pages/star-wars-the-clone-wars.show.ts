@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const starWarsTheCloneWars = {
   id: "01a06802-9332-7036-90db-d248fda1171d",
   pageTypeSlug: "show",
+  type: "show",
   slug: "star-wars-the-clone-wars",
   title: "Star Wars: The Clone Wars",
   partOfCollections: ["star-wars-2"],

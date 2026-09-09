@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const strangerThings = {
   id: "01a06802-9332-703d-9427-f3f98f74053c",
   pageTypeSlug: "show",
+  type: "show",
   slug: "stranger-things",
   title: "Stranger Things",
   partOfCollections: ["award-winning-shows"],

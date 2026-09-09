@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const peacemaker = {
   id: "01a06802-9332-7015-b90c-cf51ff16fd9c",
   pageTypeSlug: "show",
+  type: "show",
   slug: "peacemaker",
   title: "Peacemaker",
   partOfCollections: ["dc-universe"],

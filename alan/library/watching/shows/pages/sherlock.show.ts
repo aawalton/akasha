@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const sherlock = {
   id: "01a06802-9332-7022-ab51-34f4a94947dc",
   pageTypeSlug: "show",
+  type: "show",
   slug: "sherlock",
   title: "Sherlock",
   partOfCollections: ["crime-investigation-shows"],

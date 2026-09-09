@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const ahsoka = {
   id: "01a06802-9331-7004-bb3e-0cc318b540b4",
   pageTypeSlug: "show",
+  type: "show",
   slug: "ahsoka",
   title: "Ahsoka",
   partOfCollections: ["star-wars-2"],

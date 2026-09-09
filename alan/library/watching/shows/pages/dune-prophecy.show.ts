@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const duneProphecy = {
   id: "01a06802-9331-701e-a037-602c614d3dba",
   pageTypeSlug: "show",
+  type: "show",
   slug: "dune-prophecy",
   title: "Dune: Prophecy",
   partOfCollections: ["dune-2"],

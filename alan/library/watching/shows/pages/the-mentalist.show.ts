@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theMentalist = {
   id: "01a06802-9332-704d-acc2-2f07248ff37c",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-mentalist",
   title: "The Mentalist",
   partOfCollections: ["crime-investigation-shows", "watch-with-jen"],

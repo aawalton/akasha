@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theBigBangTheory = {
   id: "01a06802-9332-7042-bab6-4bb636b043cc",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-big-bang-theory",
   title: "The Big Bang Theory",
   partOfCollections: ["sitcoms"],

@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const warehouse13 = {
   id: "01a06802-9333-700d-84e5-37530b01da74",
   pageTypeSlug: "show",
+  type: "show",
   slug: "warehouse-13",
   title: "Warehouse 13",
   partOfCollections: ["speculative-antholoagies"],

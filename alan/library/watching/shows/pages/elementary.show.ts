@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const elementary = {
   id: "01a06802-9331-7021-98fc-a4ff176620c5",
   pageTypeSlug: "show",
+  type: "show",
   slug: "elementary",
   title: "Elementary",
   partOfCollections: ["crime-investigation-shows"],

@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const helstrom = {
   id: "01a06802-9331-702e-b4b4-921d71c00856",
   pageTypeSlug: "show",
+  type: "show",
   slug: "helstrom",
   title: "Helstrom",
   partOfCollections: ["marvel-television"],

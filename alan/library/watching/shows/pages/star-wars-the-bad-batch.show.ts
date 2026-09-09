@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const starWarsTheBadBatch = {
   id: "01a06802-9332-7035-bff6-868562b45cd1",
   pageTypeSlug: "show",
+  type: "show",
   slug: "star-wars-the-bad-batch",
   title: "Star Wars: The Bad Batch",
   partOfCollections: ["star-wars-2"],

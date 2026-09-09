@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const stargateOrigins = {
   id: "01a06802-9332-7039-aad6-2c38660c15e6",
   pageTypeSlug: "show",
+  type: "show",
   slug: "stargate-origins",
   title: "Stargate Origins",
   partOfCollections: ["stargate-2"],

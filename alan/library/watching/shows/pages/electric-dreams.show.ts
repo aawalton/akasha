@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const electricDreams = {
   id: "01a06802-9331-7020-98bd-43d4780b387d",
   pageTypeSlug: "show",
+  type: "show",
   slug: "electric-dreams",
   title: "Electric Dreams",
   partOfCollections: ["speculative-antholoagies"],

@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const criticalRole = {
   id: "01a06802-9331-7015-96a3-52b48ac3d274",
   pageTypeSlug: "show",
+  type: "show",
   slug: "critical-role",
   title: "Critical Role",
   partOfCollections: ["dungeons-and-dragons-shows"],

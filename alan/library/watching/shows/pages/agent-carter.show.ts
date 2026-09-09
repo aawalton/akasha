@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const agentCarter = {
   id: "01a06802-9331-7002-84e4-94d1056ceb8e",
   pageTypeSlug: "show",
+  type: "show",
   slug: "agent-carter",
   title: "Agent Carter",
   partOfCollections: ["marvel-television"],

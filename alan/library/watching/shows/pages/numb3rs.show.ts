@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const numb3rs = {
   id: "01a06802-9332-7012-aa15-d78084de1843",
   pageTypeSlug: "show",
+  type: "show",
   slug: "numb3rs",
   title: "Numb3rs",
   partOfCollections: ["crime-investigation-shows"],

@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const thePunisher = {
   id: "01a06802-9333-7000-b8a0-89cec056daea",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-punisher",
   title: "The Punisher",
   partOfCollections: ["marvel-television"],

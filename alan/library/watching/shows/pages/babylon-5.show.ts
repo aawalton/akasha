@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const babylon5 = {
   id: "01a06802-9331-7008-bb33-49c6381eabf6",
   pageTypeSlug: "show",
+  type: "show",
   slug: "babylon-5",
   title: "Babylon 5",
   partOfCollections: ["babylon-5-2"],

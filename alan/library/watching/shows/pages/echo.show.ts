@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const echo = {
   id: "01a06802-9331-701f-93b2-c8c22ccde51c",
   pageTypeSlug: "show",
+  type: "show",
   slug: "echo",
   title: "Echo",
   partOfCollections: ["marvel-cinematic-universe"],

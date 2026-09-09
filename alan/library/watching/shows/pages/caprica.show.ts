@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const caprica = {
   id: "01a06802-9331-700e-8261-11fd1d9ad165",
   pageTypeSlug: "show",
+  type: "show",
   slug: "caprica",
   title: "Caprica",
   partOfCollections: ["battlestar-galactica"],

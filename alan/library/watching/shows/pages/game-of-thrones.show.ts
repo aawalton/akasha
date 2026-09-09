@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const gameOfThrones = {
   id: "01a06802-9331-702a-a823-8baf5684c808",
   pageTypeSlug: "show",
+  type: "show",
   slug: "game-of-thrones",
   title: "Game of Thrones",
   partOfCollections: ["game-of-thrones-2"],

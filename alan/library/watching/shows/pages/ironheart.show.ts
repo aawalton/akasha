@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const ironheart = {
   id: "01a06802-9332-7004-b436-5f6a0fdfa1fc",
   pageTypeSlug: "show",
+  type: "show",
   slug: "ironheart",
   title: "Ironheart",
   partOfCollections: ["marvel-cinematic-universe"],

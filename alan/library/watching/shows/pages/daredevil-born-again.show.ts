@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const daredevilBornAgain = {
   id: "01a06802-9331-7018-8a1b-d262fe2ccc4e",
   pageTypeSlug: "show",
+  type: "show",
   slug: "daredevil-born-again",
   title: "Daredevil: Born Again",
   partOfCollections: ["marvel-cinematic-universe"],

@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const rwby2 = {
   id: "01a06802-9332-701c-b9ba-0b05d7b34b33",
   pageTypeSlug: "show",
+  type: "show",
   slug: "rwby-2",
   title: "RWBY",
   partOfCollections: ["rwby"],

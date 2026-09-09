@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theWheelOfTimeOrigins = {
   id: "01a06802-9333-7008-ba07-5cbeb4405e43",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-wheel-of-time-origins",
   title: "The Wheel of Time: Origins",
   partOfCollections: ["the-wheel-of-time-2"],

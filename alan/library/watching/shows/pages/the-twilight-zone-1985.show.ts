@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theTwilightZone1985 = {
   id: "01a06802-9333-7004-8613-c7ab0670e942",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-twilight-zone-1985",
   title: "The Twilight Zone (1985)",
   partOfCollections: ["the-twilight-zone"],

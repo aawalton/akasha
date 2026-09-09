@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const lukeCage = {
   id: "01a06802-9332-7007-8220-a6c45b6077b0",
   pageTypeSlug: "show",
+  type: "show",
   slug: "luke-cage",
   title: "Luke Cage",
   partOfCollections: ["marvel-television"],

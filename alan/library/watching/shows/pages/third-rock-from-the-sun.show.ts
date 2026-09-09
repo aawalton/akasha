@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const thirdRockFromTheSun = {
   id: "01a06802-9330-7000-85f2-ecb3e75c4bf8",
   pageTypeSlug: "show",
+  type: "show",
   slug: "third-rock-from-the-sun",
   title: "3rd Rock from the Sun",
   partOfCollections: ["comedy-shows"],

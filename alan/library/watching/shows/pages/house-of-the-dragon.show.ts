@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const houseOfTheDragon = {
   id: "01a06802-9332-7000-886d-5b74a9c8a6ef",
   pageTypeSlug: "show",
+  type: "show",
   slug: "house-of-the-dragon",
   title: "House of the Dragon",
   partOfCollections: ["game-of-thrones-2"],

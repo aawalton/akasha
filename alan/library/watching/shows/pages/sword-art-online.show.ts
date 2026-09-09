@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const swordArtOnline = {
   id: "019ea442-6715-7476-b42a-c5104a8d12e5",
   pageTypeSlug: "show",
+  type: "show",
   slug: "sword-art-online",
   title: "Sword Art Online",
   description:

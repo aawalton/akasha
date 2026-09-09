@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theRookie = {
   id: "01a06802-9333-7001-9632-ca9706fe386d",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-rookie",
   title: "The Rookie",
   partOfCollections: ["crime-investigation-shows", "watch-with-jen"],

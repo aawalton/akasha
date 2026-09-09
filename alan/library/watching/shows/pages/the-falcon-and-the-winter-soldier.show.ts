@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theFalconAndTheWinterSoldier = {
   id: "01a06802-9332-7048-b921-cc93e922b6ad",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-falcon-and-the-winter-soldier",
   title: "The Falcon and the Winter Soldier",
   partOfCollections: ["marvel-cinematic-universe"],

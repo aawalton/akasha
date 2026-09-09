@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const blackMirror = {
   id: "01a06802-9331-700b-997a-b4fca1a11bde",
   pageTypeSlug: "show",
+  type: "show",
   slug: "black-mirror",
   title: "Black Mirror",
   partOfCollections: ["speculative-antholoagies"],

@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theLegendOfKorra = {
   id: "01a06802-9332-7049-a679-ea4818156d40",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-legend-of-korra",
   title: "The Legend of Korra",
   partOfCollections: ["family-friendly-shows"],

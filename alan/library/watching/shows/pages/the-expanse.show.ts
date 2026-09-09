@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theExpanse = {
   id: "01a06802-9332-7047-be1a-773a5c200330",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-expanse",
   title: "The Expanse",
   partOfCollections: ["science-fiction-shows"],

@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const creatureCommandos = {
   id: "01a06802-9331-7013-bd23-e5bcbc864db4",
   pageTypeSlug: "show",
+  type: "show",
   slug: "creature-commandos",
   title: "Creature Commandos",
   partOfCollections: ["dc-universe"],

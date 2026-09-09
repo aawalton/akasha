@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const stevenUniverse = {
   id: "01a06802-9332-703c-8150-160c00975384",
   pageTypeSlug: "show",
+  type: "show",
   slug: "steven-universe",
   title: "Steven Universe",
   partOfCollections: ["cultural-literacy"],

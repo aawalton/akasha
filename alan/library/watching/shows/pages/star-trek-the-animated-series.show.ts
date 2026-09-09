@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const starTrekTheAnimatedSeries = {
   id: "01a06802-9332-702f-9cb5-29fad1a92fae",
   pageTypeSlug: "show",
+  type: "show",
   slug: "star-trek-the-animated-series",
   title: "Star Trek: The Animated Series",
   partOfCollections: ["star-trek-3"],

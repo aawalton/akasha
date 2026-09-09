@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const starTrekLowerDecks = {
   id: "01a06802-9332-702a-87a1-cd80caa0b049",
   pageTypeSlug: "show",
+  type: "show",
   slug: "star-trek-lower-decks",
   title: "Star Trek: Lower Decks",
   partOfCollections: ["star-trek-3"],

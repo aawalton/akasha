@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const msMarvel = {
   id: "01a06802-9332-700b-8722-e329ec7e146e",
   pageTypeSlug: "show",
+  type: "show",
   slug: "ms-marvel",
   title: "Ms. Marvel",
   partOfCollections: ["marvel-cinematic-universe"],

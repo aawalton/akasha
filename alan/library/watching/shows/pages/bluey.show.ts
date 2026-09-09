@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const bluey = {
   id: "01a06802-9331-700c-844b-973b801b3349",
   pageTypeSlug: "show",
+  type: "show",
   slug: "bluey",
   title: "Bluey",
   partOfCollections: ["family-friendly-shows"],

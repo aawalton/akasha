@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theTwilightZone2019 = {
   id: "01a06802-9333-7006-a6a6-fc5a766ed6c7",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-twilight-zone-2019",
   title: "The Twilight Zone (2019)",
   partOfCollections: ["the-twilight-zone"],

@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const talesOfTheTardis = {
   id: "01a06802-9332-7040-abe2-62dd3411b3b1",
   pageTypeSlug: "show",
+  type: "show",
   slug: "tales-of-the-tardis",
   title: "Tales of the TARDIS",
   partOfCollections: ["doctor-who"],

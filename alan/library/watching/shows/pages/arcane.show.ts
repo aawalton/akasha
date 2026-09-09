@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const arcane = {
   id: "01a06802-9331-7006-9514-a731c8f42770",
   pageTypeSlug: "show",
+  type: "show",
   slug: "arcane",
   title: "Arcane",
   partOfCollections: ["league-of-legends"],

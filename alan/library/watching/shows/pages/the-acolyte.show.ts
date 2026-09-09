@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theAcolyte = {
   id: "01a06802-9332-7041-914f-5b6bcd175b90",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-acolyte",
   title: "The Acolyte",
   partOfCollections: ["star-wars-2"],

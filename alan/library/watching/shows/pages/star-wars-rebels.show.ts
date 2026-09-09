@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const starWarsRebels = {
   id: "01a06802-9332-7032-b9a5-0e30a3be811f",
   pageTypeSlug: "show",
+  type: "show",
   slug: "star-wars-rebels",
   title: "Star Wars Rebels",
   partOfCollections: ["star-wars-2"],

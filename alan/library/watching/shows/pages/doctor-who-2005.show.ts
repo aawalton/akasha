@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const doctorWho2005 = {
   id: "01a06802-9331-701c-84e0-4911261cc004",
   pageTypeSlug: "show",
+  type: "show",
   slug: "doctor-who-2005",
   title: "Doctor Who (2005)",
   partOfCollections: ["doctor-who"],

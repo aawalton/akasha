@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const youngSheldon = {
   id: "01a06802-9333-7011-b346-db5cd5909917",
   pageTypeSlug: "show",
+  type: "show",
   slug: "young-sheldon",
   title: "Young Sheldon",
   partOfCollections: ["sitcoms"],

@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const showClass = {
   id: "01a06802-9331-7010-ba51-c0d25803c45e",
   pageTypeSlug: "show",
+  type: "show",
   slug: "show-class",
   title: "Class",
   partOfCollections: ["doctor-who"],

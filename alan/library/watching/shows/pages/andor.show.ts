@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const andor = {
   id: "01a06802-9331-7005-b34b-e628e5eba5a9",
   pageTypeSlug: "show",
+  type: "show",
   slug: "andor",
   title: "Andor",
   partOfCollections: ["star-wars-2"],

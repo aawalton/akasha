@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const starWarsTalesOfTheJedi = {
   id: "01a06802-9332-7034-9508-8522d27666d9",
   pageTypeSlug: "show",
+  type: "show",
   slug: "star-wars-tales-of-the-jedi",
   title: "Star Wars: Tales of the Jedi",
   partOfCollections: ["star-wars-2"],

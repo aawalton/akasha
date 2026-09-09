@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const theSarahJaneAdventures = {
   id: "01a06802-9333-7002-baa3-013325e48f15",
   pageTypeSlug: "show",
+  type: "show",
   slug: "the-sarah-jane-adventures",
   title: "The Sarah Jane Adventures",
   partOfCollections: ["doctor-who"],

@@ -3,6 +3,7 @@ import type { Show } from "../show.page-type.ts"
 export const ncisHawaiI = {
   id: "01a06802-9332-700d-939d-5fe0be5c197b",
   pageTypeSlug: "show",
+  type: "show",
   slug: "ncis-hawai-i",
   title: "NCIS: Hawai'i",
   partOfCollections: ["ncis-2"],
