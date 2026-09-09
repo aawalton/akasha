@@ -1,5 +1,4 @@
 import type { CurseState } from "@akasha/temper-character-sources/curses"
-import type { StandardArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
@@ -12,6 +11,7 @@ import {
   getWeaponTypeIdsForBar,
 } from "akasha/temper/temper-character-skills/passive-queries/passive-queries.module.code.ts"
 import { getWeaponSkillLineIdsForBar } from "akasha/temper/temper-character-skills/skill-line-queries/skill-line-queries.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/temper-equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { TranslationContext } from "../pipeline-types/pipeline-types.module.code.ts"
 
 export interface PassiveEligibilityContext {

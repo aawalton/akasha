@@ -1,5 +1,5 @@
-import type { SetId } from "@akasha/temper-equipment/set-ids"
 import { keysOf } from "@akasha/temper-formula-framework/record-parts"
+import type { SetId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import type {
   Loadout,
   WeaponSlot,

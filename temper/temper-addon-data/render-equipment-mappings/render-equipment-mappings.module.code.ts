@@ -1,10 +1,10 @@
-import { armorTraits } from "@akasha/temper-equipment/armor-traits"
-import { jewelryTraits } from "@akasha/temper-equipment/jewelry-traits"
-import { weaponTraits } from "@akasha/temper-equipment/weapon-traits"
 import { armorEnchants } from "akasha/temper/temper-characters-equipment/armor-enchants/armor-enchants.module.code.ts"
 import { jewelryEnchants } from "akasha/temper/temper-characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
 import { weaponEnchantments } from "akasha/temper/temper-characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import { armorTraits } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
+import { jewelryTraits } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import { weaponTraits } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
 
 interface EquipmentMappingTable {
   tableName: string

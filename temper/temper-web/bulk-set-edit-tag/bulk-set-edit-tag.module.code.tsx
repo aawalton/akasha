@@ -1,7 +1,5 @@
 "use client"
 
-import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
-import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { canClassEquipSet } from "akasha/temper/temper-characters-equipment/set-class-restrictions/set-class-restrictions.module.code.ts"
@@ -16,6 +14,8 @@ import {
   type SetSourceId,
 } from "akasha/temper/temper-characters-equipment/set-source/set-source.module.code.ts"
 import { isSetsAllId } from "akasha/temper/temper-characters-equipment/sets-all/sets-all.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
 import { useMemo, useState } from "react"
 import { FilterableSelectDialog } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 

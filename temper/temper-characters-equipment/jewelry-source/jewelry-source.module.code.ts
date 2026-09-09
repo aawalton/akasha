@@ -1,7 +1,7 @@
-import type { JewelryTraitId } from "@akasha/temper-equipment/jewelry-traits"
 import type { JewelryTypeId } from "@akasha/temper-equipment-kinds/jewelry-types"
 import type { Effect, MetricEffect } from "@akasha/temper-formula-framework/effect"
 import type { EffectSourceInterface } from "@akasha/temper-formula-framework/effect-source"
+import type { JewelryTraitId } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
 import type { JewelryItem } from "../item-composites/item-composites.module.code.ts"
 import {
   getJewelryEnchantmentEffects,

@@ -2,12 +2,6 @@
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
-import {
-  type WeaponTraitId,
-  weaponTraitsBuildList,
-  weaponTraits as weaponTraitsData,
-} from "@akasha/temper-equipment/weapon-traits"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { weaponSlots as weaponSlotsData } from "@akasha/temper-equipment-kinds/weapon-slots"
 import {
@@ -37,6 +31,12 @@ import {
   updateWeaponItem,
 } from "akasha/temper/temper-characters-equipment/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
 import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+import {
+  type WeaponTraitId,
+  weaponTraitsBuildList,
+  weaponTraits as weaponTraitsData,
+} from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
 import { useMemo } from "react"
 import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"

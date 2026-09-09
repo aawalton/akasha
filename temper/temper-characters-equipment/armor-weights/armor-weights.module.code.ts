@@ -1,7 +1,3 @@
-import type {
-  ArmorWeightId,
-  StandardArmorWeightId,
-} from "@akasha/temper-equipment/armor-weight-ids"
 import { type ArmorTypeId, getArmorMultiplier } from "@akasha/temper-equipment-kinds/armor-types"
 import {
   type EquipmentQualityId,
@@ -10,6 +6,10 @@ import {
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { createDataFile, type DataFile } from "@akasha/utils/narrow/create-data-file"
+import type {
+  ArmorWeightId,
+  StandardArmorWeightId,
+} from "akasha/temper/temper-equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
 import {
   calculateNirnhonedValue,
   calculateReinforcedValue,

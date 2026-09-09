@@ -3,9 +3,6 @@ import { curses } from "@akasha/temper-character-sources/curses"
 import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
 import { mundus } from "@akasha/temper-character-sources/mundus-source"
 import { vampireStages } from "@akasha/temper-character-sources/vampire-stages"
-import { armorTraits } from "@akasha/temper-equipment/armor-traits"
-import { jewelryTraits } from "@akasha/temper-equipment/jewelry-traits"
-import { weaponTraits } from "@akasha/temper-equipment/weapon-traits"
 import { races } from "@akasha/temper-races/races"
 import { affixScripts } from "@akasha/temper-skill-kinds/scribing-affix-scripts"
 import { focusScripts } from "@akasha/temper-skill-kinds/scribing-focus-scripts"
@@ -23,6 +20,9 @@ import { weaponEnchantments } from "akasha/temper/temper-characters-equipment/we
 import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { companionSkills } from "akasha/temper/temper-companions-core/companion-skills/companion-skills.module.code.ts"
 import { companions } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import { armorTraits } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
+import { jewelryTraits } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import { weaponTraits } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
 
 export function buildMappingTotals(): Record<string, string> {
   return {

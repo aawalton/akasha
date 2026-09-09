@@ -8,13 +8,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import {
-  type JewelryTraitId,
-  jewelryTraits,
-  jewelryTraitsBuildList,
-} from "@akasha/temper-equipment/jewelry-traits"
-import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
-import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { type JewelrySlotId, jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
@@ -37,6 +30,13 @@ import {
   jewelryEnchants,
 } from "akasha/temper/temper-characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
 import { getValidSetsForSlot } from "akasha/temper/temper-characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
+import {
+  type JewelryTraitId,
+  jewelryTraits,
+  jewelryTraitsBuildList,
+} from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 

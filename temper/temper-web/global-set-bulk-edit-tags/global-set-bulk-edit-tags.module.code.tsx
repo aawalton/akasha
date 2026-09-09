@@ -1,8 +1,6 @@
 "use client"
 
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
-import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
@@ -30,6 +28,8 @@ import {
   shouldHideWeaponSlot,
 } from "akasha/temper/temper-characters-equipment/weapon-slot-access/weapon-slot-access.module.code.ts"
 import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
 import { useMemo } from "react"
 import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"

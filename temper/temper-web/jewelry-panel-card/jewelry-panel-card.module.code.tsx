@@ -2,12 +2,6 @@
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import {
-  type JewelryTraitId,
-  jewelryTraits,
-  jewelryTraitsBuildList,
-} from "@akasha/temper-equipment/jewelry-traits"
-import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { type JewelrySlotId, jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import {
@@ -26,6 +20,12 @@ import {
 } from "akasha/temper/temper-characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
 import { mergeItemData } from "akasha/temper/temper-characters-equipment/merge-item-data/merge-item-data.module.code.ts"
 import { getMythicSlots } from "akasha/temper/temper-characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+import {
+  type JewelryTraitId,
+  jewelryTraits,
+  jewelryTraitsBuildList,
+} from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import { useMemo } from "react"
 import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"

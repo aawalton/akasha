@@ -1,8 +1,3 @@
-import {
-  PLAYER_ARMOR_ESO_TO_TRAIT,
-  PLAYER_JEWELRY_ESO_TO_TRAIT,
-  PLAYER_WEAPON_ESO_TO_TRAIT,
-} from "@akasha/temper-equipment/eso-trait-map"
 import type { EvalContext } from "@akasha/temper-items-rules-eval/eval-env"
 import type {
   IndeterminateReason,
@@ -10,6 +5,11 @@ import type {
 } from "@akasha/temper-items-rules-eval/eval-result"
 import { evaluateRule, walkRules } from "@akasha/temper-items-rules-eval/evaluator"
 import { requireAt } from "@akasha/utils/narrow/require-at"
+import {
+  PLAYER_ARMOR_ESO_TO_TRAIT,
+  PLAYER_JEWELRY_ESO_TO_TRAIT,
+  PLAYER_WEAPON_ESO_TO_TRAIT,
+} from "akasha/temper/temper-equipment/eso-trait-map/eso-trait-map.module.code.ts"
 import { buildItemFactsForLink } from "../inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
 import { buildEsoEvalEnv } from "../inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
 import {

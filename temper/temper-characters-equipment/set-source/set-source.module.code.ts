@@ -1,9 +1,9 @@
-import type { SetId } from "@akasha/temper-equipment/set-ids"
 import type { EquipmentQualityId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { Effect } from "@akasha/temper-formula-framework/effect"
 import { isMetricEffect } from "@akasha/temper-formula-framework/effect"
 import type { EffectSourceInterface } from "@akasha/temper-formula-framework/effect-source"
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import type { SetId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import { setsAll } from "../sets-all/sets-all.module.code.ts"
 
 interface SetSourceTemplate extends EffectSourceInterface<"sets", Effect> {

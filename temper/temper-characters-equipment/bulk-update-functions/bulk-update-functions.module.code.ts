@@ -1,6 +1,6 @@
-import type { SetId } from "@akasha/temper-equipment/set-ids"
-import type { SetTemplate } from "@akasha/temper-equipment/set-template"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
+import type { SetId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+import type { SetTemplate } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
 import {
   bulkUpdateArmorQuality,
   bulkUpdateArmorSet,

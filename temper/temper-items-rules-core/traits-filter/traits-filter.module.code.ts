@@ -1,7 +1,7 @@
-import { armorTraits } from "@akasha/temper-equipment/armor-traits"
-import { jewelryTraits } from "@akasha/temper-equipment/jewelry-traits"
-import { weaponTraits } from "@akasha/temper-equipment/weapon-traits"
 import { companionTraits } from "akasha/temper/temper-companions-core/companion-traits/companion-traits.module.code.ts"
+import { armorTraits } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
+import { jewelryTraits } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import { weaponTraits } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
 import type { ItemCategoryNode } from "akasha/temper/temper-items-core/item-category-tree-types/item-category-tree-types.module.code.ts"
 import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {

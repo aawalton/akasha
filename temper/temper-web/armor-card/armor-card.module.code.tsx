@@ -7,14 +7,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import {
-  type ArmorTraitId,
-  armorTraits,
-  armorTraitsBuildList,
-} from "@akasha/temper-equipment/armor-traits"
-import type { StandardArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
-import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
-import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import { type ArmorSlotId, armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
@@ -40,6 +32,14 @@ import {
   getValidSetsForArmorSlot,
   getValidWeightsForSet,
 } from "akasha/temper/temper-characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
+import {
+  type ArmorTraitId,
+  armorTraits,
+  armorTraitsBuildList,
+} from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/temper-equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 

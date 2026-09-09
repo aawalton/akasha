@@ -1,8 +1,8 @@
-import type { ArmorTraitId } from "@akasha/temper-equipment/armor-traits"
-import type { ArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
 import type { ArmorTypeId } from "@akasha/temper-equipment-kinds/armor-types"
 import type { Effect, MetricEffect } from "@akasha/temper-formula-framework/effect"
 import type { EffectSourceInterface } from "@akasha/temper-formula-framework/effect-source"
+import type { ArmorTraitId } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
+import type { ArmorWeightId } from "akasha/temper/temper-equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
 import {
   type ArmorEnchantId,
   getArmorEnchantmentEffects,

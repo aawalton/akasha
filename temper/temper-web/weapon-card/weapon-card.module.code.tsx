@@ -8,19 +8,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import {
-  type ArmorTraitId,
-  armorTraits,
-  armorTraitsBuildList,
-} from "@akasha/temper-equipment/armor-traits"
-import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
-import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
-import {
-  type WeaponTraitId,
-  weaponTraits,
-  weaponTraitsBuildList,
-} from "@akasha/temper-equipment/weapon-traits"
-import type { WeaponTypeId } from "@akasha/temper-equipment/weapon-type-ids"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { WeaponBar } from "@akasha/temper-equipment-kinds/weapon-bars"
 import { type WeaponSlot, weaponSlots } from "@akasha/temper-equipment-kinds/weapon-slots"
@@ -55,6 +42,19 @@ import {
   weaponEnchantments,
 } from "akasha/temper/temper-characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import {
+  type ArmorTraitId,
+  armorTraits,
+  armorTraitsBuildList,
+} from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
+import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
+import {
+  type WeaponTraitId,
+  weaponTraits,
+  weaponTraitsBuildList,
+} from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
+import type { WeaponTypeId } from "akasha/temper/temper-equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 

@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperEquipment = {
   id: "01a060d5-2f11-79b8-9e55-62a1973c12cc",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-equipment",
   definition: "the types an Elder Scrolls Online gear set and the pieces it covers are named by",
-  manifest: "json",
   parts: [
     "module/set-ids",
     "module/set-ids-a-to-o",
@@ -34,4 +33,4 @@ export const temperEquipment = {
       statement: "A trait moved to another place breaks every build hash saved.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

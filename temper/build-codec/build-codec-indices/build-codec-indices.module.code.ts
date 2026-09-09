@@ -4,9 +4,6 @@ import { esoPlus } from "@akasha/temper-character-sources/eso-plus-source"
 import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
 import { mundus } from "@akasha/temper-character-sources/mundus-source"
 import { vampireStages } from "@akasha/temper-character-sources/vampire-stages"
-import { armorTraits } from "@akasha/temper-equipment/armor-traits"
-import { jewelryTraits } from "@akasha/temper-equipment/jewelry-traits"
-import { weaponTraits } from "@akasha/temper-equipment/weapon-traits"
 import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import { equipmentQualities } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
@@ -31,6 +28,9 @@ import { jewelryEnchants } from "akasha/temper/temper-characters-equipment/jewel
 import { setsAll } from "akasha/temper/temper-characters-equipment/sets-all/sets-all.module.code.ts"
 import { weaponEnchantments } from "akasha/temper/temper-characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
 import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
+import { armorTraits } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
+import { jewelryTraits } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
+import { weaponTraits } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
 
 const classIds = classes.ids
 const raceIds = races.ids

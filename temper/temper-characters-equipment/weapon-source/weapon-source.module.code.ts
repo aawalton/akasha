@@ -1,12 +1,12 @@
-import type { WeaponTraitId } from "@akasha/temper-equipment/weapon-traits"
-import { getNirnhonedWeaponBonus } from "@akasha/temper-equipment/weapon-traits"
-import type { WeaponTypeId } from "@akasha/temper-equipment/weapon-type-ids"
 import {
   type EquipmentQualityId,
   resolveQuality,
 } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { Effect, MetricEffect } from "@akasha/temper-formula-framework/effect"
 import type { EffectSourceInterface } from "@akasha/temper-formula-framework/effect-source"
+import type { WeaponTraitId } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
+import { getNirnhonedWeaponBonus } from "akasha/temper/temper-equipment/weapon-traits/weapon-traits.module.code.ts"
+import type { WeaponTypeId } from "akasha/temper/temper-equipment/weapon-type-ids/weapon-type-ids.module.code.ts"
 import type { PoisonId, WeaponItem } from "../item-composites/item-composites.module.code.ts"
 import type { WeaponEnchantmentId } from "../weapon-enchants/weapon-enchants.module.code.ts"
 import { getWeaponEnchantmentEffects } from "../weapon-enchants/weapon-enchants.module.code.ts"

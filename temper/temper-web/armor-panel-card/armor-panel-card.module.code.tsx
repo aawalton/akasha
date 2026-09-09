@@ -2,13 +2,6 @@
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import {
-  type ArmorTraitId,
-  armorTraitsBuildList,
-  armorTraits as armorTraitsData,
-} from "@akasha/temper-equipment/armor-traits"
-import type { StandardArmorWeightId } from "@akasha/temper-equipment/armor-weight-ids"
-import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import { type ArmorSlotId, armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import {
@@ -29,6 +22,13 @@ import {
 } from "akasha/temper/temper-characters-equipment/bulk-update-armor/bulk-update-armor.module.code.ts"
 import { mergeItemData } from "akasha/temper/temper-characters-equipment/merge-item-data/merge-item-data.module.code.ts"
 import { getMythicSlots } from "akasha/temper/temper-characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+import {
+  type ArmorTraitId,
+  armorTraitsBuildList,
+  armorTraits as armorTraitsData,
+} from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
+import type { StandardArmorWeightId } from "akasha/temper/temper-equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import { useMemo } from "react"
 import type { ArmorUpdateParams } from "../armor-card/armor-card.module.code.tsx"
 import { ArmorCard } from "../armor-card/armor-card.module.code.tsx"

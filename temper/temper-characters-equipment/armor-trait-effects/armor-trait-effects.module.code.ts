@@ -1,10 +1,13 @@
-import { ARMOR_TRAIT_QUALITY_VALUES, armorTraits } from "@akasha/temper-equipment/armor-traits"
 import {
   type EquipmentQualityId,
   resolveQuality,
 } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import {
+  ARMOR_TRAIT_QUALITY_VALUES,
+  armorTraits,
+} from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
 import type { ArmorItem } from "../item-composites/item-composites.module.code.ts"
 
 export function calculateDivinesValue(baseValue: number, armorItems: readonly ArmorItem[]): number {
