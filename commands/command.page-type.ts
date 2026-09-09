@@ -114,6 +114,8 @@ export const command = {
     "module/command-declaring",
     "module/command-answering",
     "module/calling",
+    "module/fault-saying",
+    "module/rooting",
     "performance/landing-throughput",
     "namespace/change",
     "namespace/refresh",
