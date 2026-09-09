@@ -5,7 +5,7 @@ export const godOfTrash0358358ExcuseMe = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0358-358-excuse-me",
   title: "358. Excuse Me",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 358,
   ownLength: 2045,
   unitSlug: "words",

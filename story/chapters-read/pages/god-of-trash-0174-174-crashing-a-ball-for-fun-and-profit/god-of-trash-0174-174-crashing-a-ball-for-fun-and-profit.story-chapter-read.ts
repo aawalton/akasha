@@ -5,7 +5,7 @@ export const godOfTrash0174174CrashingABallForFunAndProfit = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0174-174-crashing-a-ball-for-fun-and-profit",
   title: "174. Crashing a Ball for Fun and Profit",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 174,
   ownLength: 2127,
   unitSlug: "words",

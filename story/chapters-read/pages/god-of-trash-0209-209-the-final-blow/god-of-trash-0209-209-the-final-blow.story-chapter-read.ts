@@ -5,7 +5,7 @@ export const godOfTrash0209209TheFinalBlow = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0209-209-the-final-blow",
   title: "209. The Final Blow",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 209,
   ownLength: 1639,
   unitSlug: "words",

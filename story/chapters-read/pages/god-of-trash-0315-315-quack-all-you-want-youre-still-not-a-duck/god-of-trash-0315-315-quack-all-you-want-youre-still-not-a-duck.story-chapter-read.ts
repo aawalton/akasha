@@ -5,7 +5,7 @@ export const godOfTrash0315315QuackAllYouWantYoureStillNotADuck = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0315-315-quack-all-you-want-youre-still-not-a-duck",
   title: "315. Quack All You Want, You're Still Not a Duck",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 315,
   ownLength: 3170,
   unitSlug: "words",

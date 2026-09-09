@@ -5,7 +5,7 @@ export const godOfTrash0167167TheMoment = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0167-167-the-moment",
   title: "167. The Moment",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 167,
   ownLength: 2513,
   unitSlug: "words",

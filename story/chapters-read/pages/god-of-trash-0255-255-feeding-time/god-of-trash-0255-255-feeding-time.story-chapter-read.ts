@@ -5,7 +5,7 @@ export const godOfTrash0255255FeedingTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0255-255-feeding-time",
   title: "255. Feeding Time",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 255,
   ownLength: 2154,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0204204BoysWillBeBoys = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0204-204-boys-will-be-boys",
   title: "204. Boys Will Be Boys",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 204,
   ownLength: 1930,
   unitSlug: "words",

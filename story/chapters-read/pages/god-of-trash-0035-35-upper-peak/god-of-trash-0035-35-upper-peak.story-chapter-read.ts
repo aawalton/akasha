@@ -5,7 +5,7 @@ export const godOfTrash003535UpperPeak = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0035-35-upper-peak",
   title: "35. Upper Peak",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 35,
   ownLength: 2672,
   unitSlug: "words",

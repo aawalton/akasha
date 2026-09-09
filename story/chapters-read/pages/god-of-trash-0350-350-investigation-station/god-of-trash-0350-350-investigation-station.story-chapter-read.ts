@@ -5,7 +5,7 @@ export const godOfTrash0350350InvestigationStation = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0350-350-investigation-station",
   title: "350. Investigation Station",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 350,
   ownLength: 1998,
   unitSlug: "words",

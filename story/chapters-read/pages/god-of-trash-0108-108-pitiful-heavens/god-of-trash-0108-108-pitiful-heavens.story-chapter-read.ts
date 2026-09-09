@@ -5,7 +5,7 @@ export const godOfTrash0108108PitifulHeavens = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0108-108-pitiful-heavens",
   title: "108. Pitiful Heavens",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 108,
   ownLength: 1523,
   unitSlug: "words",

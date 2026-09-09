@@ -5,7 +5,7 @@ export const godOfTrash0144144ItsAllUpToYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0144-144-its-all-up-to-you",
   title: "144. It's All Up To You",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 144,
   ownLength: 2030,
   unitSlug: "words",

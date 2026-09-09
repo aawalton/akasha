@@ -5,7 +5,7 @@ export const godOfTrash0287287PullingAllTheThreadsAtOnce = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0287-287-pulling-all-the-threads-at-once",
   title: "287. Pulling All the Threads at Once",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 287,
   ownLength: 2052,
   unitSlug: "words",

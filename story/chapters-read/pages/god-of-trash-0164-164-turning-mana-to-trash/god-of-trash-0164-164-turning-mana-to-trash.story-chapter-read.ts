@@ -5,7 +5,7 @@ export const godOfTrash0164164TurningManaToTrash = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0164-164-turning-mana-to-trash",
   title: "164. Turning Mana to Trash",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 164,
   ownLength: 1974,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0131131DisregardWomenAcquireSoda = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0131-131-disregard-women-acquire-soda",
   title: "131. Disregard Women, Acquire Soda",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 131,
   ownLength: 2212,
   unitSlug: "words",

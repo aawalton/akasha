@@ -5,7 +5,7 @@ export const godOfTrash0058Book2Start58HeadingToTheTournament = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0058-book-2-start-58-heading-to-the-tournament",
   title: "Book 2 Start! 58. Heading to the Tournament",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 58,
   ownLength: 2242,
   unitSlug: "words",

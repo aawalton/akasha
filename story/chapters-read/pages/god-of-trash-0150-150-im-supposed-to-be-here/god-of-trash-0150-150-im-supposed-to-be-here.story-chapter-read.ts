@@ -5,7 +5,7 @@ export const godOfTrash0150150ImSupposedToBeHere = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0150-150-im-supposed-to-be-here",
   title: "150. I'm Supposed to be Here",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 150,
   ownLength: 2184,
   unitSlug: "words",

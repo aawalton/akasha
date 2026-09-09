@@ -5,7 +5,7 @@ export const godOfTrash0208208SheMeansMe = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0208-208-she-means-me",
   title: "208. She Means Me?",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 208,
   ownLength: 2660,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0356356HaltPayForYourCrimes = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0356-356-halt-pay-for-your-crimes",
   title: "356. Halt! Pay for Your Crimes!",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 356,
   ownLength: 2096,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0130130HomewardBound = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0130-130-homeward-bound",
   title: "130. Homeward Bound",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 130,
   ownLength: 2982,
   unitSlug: "words",

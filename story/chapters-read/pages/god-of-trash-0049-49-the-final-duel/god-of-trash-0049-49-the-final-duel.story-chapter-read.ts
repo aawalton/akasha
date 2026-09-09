@@ -5,7 +5,7 @@ export const godOfTrash004949TheFinalDuel = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0049-49-the-final-duel",
   title: "49. The Final Duel",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 49,
   ownLength: 4136,
   unitSlug: "words",

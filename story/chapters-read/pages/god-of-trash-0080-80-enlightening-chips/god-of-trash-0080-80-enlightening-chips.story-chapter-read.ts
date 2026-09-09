@@ -5,7 +5,7 @@ export const godOfTrash008080EnlighteningChips = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0080-80-enlightening-chips",
   title: "80. Enlightening Chips",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 80,
   ownLength: 2003,
   unitSlug: "words",

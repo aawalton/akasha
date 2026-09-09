@@ -4,7 +4,7 @@ export const godOfTrash0359359OnceInACentury = {
   id: "01a07252-32ed-7c8f-9ea9-c2d36846f8fc",
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0359-359-once-in-a-century",
-  storySlug: "story-read/god-of-trash",
+  story: "story-read/god-of-trash",
   position: 359,
   publishedAt: "2026-09-04",
   unitSlug: "words",

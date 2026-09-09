@@ -5,7 +5,7 @@ export const godOfTrash0285285Politics = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0285-285-politics",
   title: "285. Politics",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 285,
   ownLength: 2473,
   unitSlug: "words",

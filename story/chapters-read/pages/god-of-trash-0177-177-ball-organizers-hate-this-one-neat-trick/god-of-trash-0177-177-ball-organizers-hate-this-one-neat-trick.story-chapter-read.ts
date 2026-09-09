@@ -5,7 +5,7 @@ export const godOfTrash0177177BallOrganizersHateThisOneNeatTrick = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0177-177-ball-organizers-hate-this-one-neat-trick",
   title: "177. Ball Organizers Hate This One Neat Trick!",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 177,
   ownLength: 2047,
   unitSlug: "words",

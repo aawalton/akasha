@@ -5,7 +5,7 @@ export const godOfTrash008989BattleOfAttrition = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0089-89-battle-of-attrition",
   title: "89. Battle of Attrition",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 89,
   ownLength: 2175,
   unitSlug: "words",

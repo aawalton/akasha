@@ -5,7 +5,7 @@ export const godOfTrash0250250ForScience = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0250-250-for-science",
   title: "250. For Science!",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 250,
   ownLength: 1993,
   unitSlug: "words",

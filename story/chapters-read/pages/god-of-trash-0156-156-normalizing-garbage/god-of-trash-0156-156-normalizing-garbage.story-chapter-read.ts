@@ -5,7 +5,7 @@ export const godOfTrash0156156NormalizingGarbage = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0156-156-normalizing-garbage",
   title: "156. Normalizing Garbage",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 156,
   ownLength: 2220,
   unitSlug: "words",

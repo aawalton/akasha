@@ -5,7 +5,7 @@ export const godOfTrash0179179CouldItBeYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0179-179-could-it-be-you",
   title: "179. Could It Be You?",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 179,
   ownLength: 2084,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash006969PotatoChips = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0069-69-potato-chips",
   title: "69. Potato Chips",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 69,
   ownLength: 3369,
   unitSlug: "words",

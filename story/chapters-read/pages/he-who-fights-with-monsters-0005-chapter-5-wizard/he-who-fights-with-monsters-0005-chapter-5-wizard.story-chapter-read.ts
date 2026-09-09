@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0005Chapter5Wizard = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0005-chapter-5-wizard",
   title: "Chapter 5: Wizard",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 5,
   ownLength: 1735,
   ownProgress: 1735,

@@ -5,7 +5,7 @@ export const godOfTrash0211211WipeOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0211-211-wipe-out",
   title: "211. Wipe Out",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 211,
   ownLength: 2436,
   unitSlug: "words",

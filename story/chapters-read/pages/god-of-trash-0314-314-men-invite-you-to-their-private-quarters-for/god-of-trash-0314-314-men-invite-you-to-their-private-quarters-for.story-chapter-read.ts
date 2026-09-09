@@ -5,7 +5,7 @@ export const godOfTrash0314314MenInviteYouToTheirPrivateQuartersFor = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0314-314-men-invite-you-to-their-private-quarters-for",
   title: "314. Men Invite You to their Private Quarters for One Reason",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 314,
   ownLength: 1979,
   unitSlug: "words",

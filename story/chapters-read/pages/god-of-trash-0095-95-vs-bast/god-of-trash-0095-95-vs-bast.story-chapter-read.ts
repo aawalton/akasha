@@ -5,7 +5,7 @@ export const godOfTrash009595VsBast = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0095-95-vs-bast",
   title: "95. VS Bast",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 95,
   ownLength: 1537,
   unitSlug: "words",

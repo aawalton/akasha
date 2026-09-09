@@ -5,7 +5,7 @@ export const godOfTrash007979BellyOfTheBeast = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0079-79-belly-of-the-beast",
   title: "79. Belly of the Beast",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 79,
   ownLength: 2407,
   unitSlug: "words",

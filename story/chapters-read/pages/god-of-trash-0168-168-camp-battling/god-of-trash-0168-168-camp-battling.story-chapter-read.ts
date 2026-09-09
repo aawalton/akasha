@@ -5,7 +5,7 @@ export const godOfTrash0168168CampBattling = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0168-168-camp-battling",
   title: "168. Camp Battling",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 168,
   ownLength: 2329,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0161161AreYouACriminal = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0161-161-are-you-a-criminal",
   title: "161. Are You a Criminal?",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 161,
   ownLength: 2206,
   unitSlug: "words",

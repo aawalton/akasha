@@ -5,7 +5,7 @@ export const godOfTrash008686ChampionMatch = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0086-86-champion-match",
   title: "86. Champion Match",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 86,
   ownLength: 2930,
   unitSlug: "words",

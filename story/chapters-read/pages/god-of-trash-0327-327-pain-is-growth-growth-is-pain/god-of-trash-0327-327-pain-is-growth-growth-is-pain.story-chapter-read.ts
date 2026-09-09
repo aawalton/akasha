@@ -5,7 +5,7 @@ export const godOfTrash0327327PainIsGrowthGrowthIsPain = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0327-327-pain-is-growth-growth-is-pain",
   title: "327. Pain is Growth. Growth is Pain",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 327,
   ownLength: 1851,
   unitSlug: "words",

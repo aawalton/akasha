@@ -5,7 +5,7 @@ export const godOfTrash0219219WeArentAlone = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0219-219-we-arent-alone",
   title: "219. We Aren't Alone",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 219,
   ownLength: 2001,
   unitSlug: "words",

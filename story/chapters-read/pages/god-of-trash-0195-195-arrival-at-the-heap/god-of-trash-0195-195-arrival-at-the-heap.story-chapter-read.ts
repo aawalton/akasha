@@ -5,7 +5,7 @@ export const godOfTrash0195195ArrivalAtTheHeap = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0195-195-arrival-at-the-heap",
   title: "195. Arrival at the Heap",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 195,
   ownLength: 1941,
   unitSlug: "words",

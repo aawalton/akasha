@@ -5,7 +5,7 @@ export const godOfTrash0135135ACurseOhGoody = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0135-135-a-curse-oh-goody",
   title: "135. A Curse? Oh Goody!",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 135,
   ownLength: 2373,
   unitSlug: "words",

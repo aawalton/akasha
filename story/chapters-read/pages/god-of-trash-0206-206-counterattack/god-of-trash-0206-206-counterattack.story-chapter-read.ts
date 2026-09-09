@@ -5,7 +5,7 @@ export const godOfTrash0206206Counterattack = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0206-206-counterattack",
   title: "206. Counterattack",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 206,
   ownLength: 2052,
   unitSlug: "words",

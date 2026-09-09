@@ -5,7 +5,7 @@ export const godOfTrash003131SeeItToTheEnd = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0031-31-see-it-to-the-end",
   title: "31. See It To The End",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 31,
   ownLength: 2282,
   unitSlug: "words",

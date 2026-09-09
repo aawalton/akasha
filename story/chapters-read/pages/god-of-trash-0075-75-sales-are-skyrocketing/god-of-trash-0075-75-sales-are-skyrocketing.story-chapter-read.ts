@@ -5,7 +5,7 @@ export const godOfTrash007575SalesAreSkyrocketing = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0075-75-sales-are-skyrocketing",
   title: "75. Sales are Skyrocketing",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 75,
   ownLength: 2846,
   unitSlug: "words",

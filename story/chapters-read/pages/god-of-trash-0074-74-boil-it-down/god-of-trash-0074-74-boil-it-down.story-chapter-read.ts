@@ -5,7 +5,7 @@ export const godOfTrash007474BoilItDown = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0074-74-boil-it-down",
   title: "74. Boil it Down",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 74,
   ownLength: 3429,
   unitSlug: "words",

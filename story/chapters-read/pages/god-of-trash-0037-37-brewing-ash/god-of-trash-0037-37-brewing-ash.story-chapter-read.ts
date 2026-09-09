@@ -5,7 +5,7 @@ export const godOfTrash003737BrewingAsh = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0037-37-brewing-ash",
   title: "37. Brewing Ash",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 37,
   ownLength: 2181,
   unitSlug: "words",

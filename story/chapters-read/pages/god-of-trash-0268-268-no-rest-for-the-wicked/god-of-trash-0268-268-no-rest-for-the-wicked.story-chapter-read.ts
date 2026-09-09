@@ -5,7 +5,7 @@ export const godOfTrash0268268NoRestForTheWicked = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0268-268-no-rest-for-the-wicked",
   title: "268. No Rest for the Wicked",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 268,
   ownLength: 2061,
   unitSlug: "words",

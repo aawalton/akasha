@@ -5,7 +5,7 @@ export const godOfTrash0270270EnterTheCapital = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0270-270-enter-the-capital",
   title: "270. Enter the Capital",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 270,
   ownLength: 1867,
   unitSlug: "words",

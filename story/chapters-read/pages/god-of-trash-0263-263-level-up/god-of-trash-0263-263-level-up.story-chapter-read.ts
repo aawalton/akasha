@@ -5,7 +5,7 @@ export const godOfTrash0263263LevelUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0263-263-level-up",
   title: "263. Level Up!",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 263,
   ownLength: 2046,
   unitSlug: "words",

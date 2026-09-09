@@ -5,7 +5,7 @@ export const godOfTrash0112112SeekingACatAndFindingAMouse = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0112-112-seeking-a-cat-and-finding-a-mouse",
   title: "112. Seeking a Cat and Finding a Mouse",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 112,
   ownLength: 2123,
   unitSlug: "words",

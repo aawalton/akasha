@@ -5,7 +5,7 @@ export const godOfTrash0129129ARemnantWeapon = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0129-129-a-remnant-weapon",
   title: "129. A Remnant Weapon",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 129,
   ownLength: 2151,
   unitSlug: "words",

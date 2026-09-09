@@ -5,7 +5,7 @@ export const godOfTrash0181181TheBallBegins = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0181-181-the-ball-begins",
   title: "181. The Ball Begins",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 181,
   ownLength: 2152,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0312312NormalPeopleDontSayTheyreNormal = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0312-312-normal-people-dont-say-theyre-normal",
   title: "312. Normal People Don't Say They're Normal",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 312,
   ownLength: 2154,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0183183TheTimeHasCome = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0183-183-the-time-has-come",
   title: "183. The Time Has Come",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 183,
   ownLength: 2084,
   unitSlug: "words",

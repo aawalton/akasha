@@ -5,7 +5,7 @@ export const godOfTrash007777DoubleDate = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0077-77-double-date",
   title: "77. Double Date",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 77,
   ownLength: 2405,
   unitSlug: "words",

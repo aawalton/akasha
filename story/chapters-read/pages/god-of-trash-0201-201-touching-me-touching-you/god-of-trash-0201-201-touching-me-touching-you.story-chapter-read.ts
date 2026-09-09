@@ -5,7 +5,7 @@ export const godOfTrash0201201TouchingMeTouchingYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0201-201-touching-me-touching-you",
   title: "201. Touching Me (Touching You)",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 201,
   ownLength: 1820,
   unitSlug: "words",

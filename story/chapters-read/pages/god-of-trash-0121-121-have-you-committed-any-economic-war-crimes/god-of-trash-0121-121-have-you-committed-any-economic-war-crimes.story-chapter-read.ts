@@ -5,7 +5,7 @@ export const godOfTrash0121121HaveYouCommittedAnyEconomicWarCrimes = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0121-121-have-you-committed-any-economic-war-crimes",
   title: "121. Have You Committed Any Economic War Crimes Today?",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 121,
   ownLength: 2050,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0298298DrainingTheCore = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0298-298-draining-the-core",
   title: "298. Draining the Core",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 298,
   ownLength: 1615,
   unitSlug: "words",

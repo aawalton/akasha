@@ -5,7 +5,7 @@ export const godOfTrash0260260ClearingTheMark = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0260-260-clearing-the-mark",
   title: "260. Clearing the Mark",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 260,
   ownLength: 1907,
   unitSlug: "words",

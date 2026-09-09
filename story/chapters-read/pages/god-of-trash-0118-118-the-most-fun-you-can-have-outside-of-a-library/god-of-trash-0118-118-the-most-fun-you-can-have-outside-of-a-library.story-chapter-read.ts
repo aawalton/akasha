@@ -5,7 +5,7 @@ export const godOfTrash0118118TheMostFunYouCanHaveOutsideOfALibrary = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0118-118-the-most-fun-you-can-have-outside-of-a-library",
   title: "118. The Most Fun You Can Have Outside of a Library",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 118,
   ownLength: 2654,
   unitSlug: "words",

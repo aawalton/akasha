@@ -5,7 +5,7 @@ export const godOfTrash0253253FilthGolem = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0253-253-filth-golem",
   title: "253. Filth Golem",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 253,
   ownLength: 1965,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0330330BeyondTheForest = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0330-330-beyond-the-forest",
   title: "330. Beyond the Forest",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 330,
   ownLength: 2185,
   unitSlug: "words",

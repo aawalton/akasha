@@ -5,7 +5,7 @@ export const godOfTrash0117117AcquiringResources = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0117-117-acquiring-resources",
   title: "117. Acquiring Resources",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 117,
   ownLength: 2222,
   unitSlug: "words",

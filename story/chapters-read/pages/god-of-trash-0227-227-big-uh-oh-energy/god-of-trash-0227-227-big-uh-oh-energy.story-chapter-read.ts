@@ -5,7 +5,7 @@ export const godOfTrash0227227BigUhOhEnergy = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0227-227-big-uh-oh-energy",
   title: "227. Big Uh Oh Energy",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 227,
   ownLength: 1955,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash009898TsunamiAndAPebble = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0098-98-tsunami-and-a-pebble",
   title: "98. Tsunami and a Pebble",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 98,
   ownLength: 2160,
   unitSlug: "words",

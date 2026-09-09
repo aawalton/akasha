@@ -5,7 +5,7 @@ export const godOfTrash006464UnderTheMask = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0064-64-under-the-mask",
   title: "64. Under the Mask",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 64,
   ownLength: 3252,
   unitSlug: "words",

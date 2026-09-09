@@ -5,7 +5,7 @@ export const godOfTrash0198198AloneInAPocketDimension = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0198-198-alone-in-a-pocket-dimension",
   title: "198. Alone in a Pocket Dimension",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 198,
   ownLength: 2146,
   unitSlug: "words",

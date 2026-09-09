@@ -5,7 +5,7 @@ export const godOfTrash004343GuestTeacher = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0043-43-guest-teacher",
   title: "43. Guest Teacher",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 43,
   ownLength: 2276,
   unitSlug: "words",

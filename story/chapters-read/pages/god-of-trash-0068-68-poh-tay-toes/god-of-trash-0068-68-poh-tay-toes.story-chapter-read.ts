@@ -5,7 +5,7 @@ export const godOfTrash006868PohTayToes = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0068-68-poh-tay-toes",
   title: "68. Poh Tay Toes",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 68,
   ownLength: 3611,
   unitSlug: "words",

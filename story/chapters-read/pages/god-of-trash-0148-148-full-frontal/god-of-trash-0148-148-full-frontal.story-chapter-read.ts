@@ -5,7 +5,7 @@ export const godOfTrash0148148FullFrontal = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0148-148-full-frontal",
   title: "148. Full Frontal",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 148,
   ownLength: 2446,
   unitSlug: "words",

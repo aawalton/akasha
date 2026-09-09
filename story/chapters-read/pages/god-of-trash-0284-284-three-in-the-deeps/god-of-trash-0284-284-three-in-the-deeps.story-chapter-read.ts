@@ -5,7 +5,7 @@ export const godOfTrash0284284ThreeInTheDeeps = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0284-284-three-in-the-deeps",
   title: "284. Three in the Deeps",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 284,
   ownLength: 2002,
   unitSlug: "words",

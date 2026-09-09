@@ -5,7 +5,7 @@ export const godOfTrash0302302HereWeCome = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0302-302-here-we-come",
   title: "302. Here We Come",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 302,
   ownLength: 1720,
   unitSlug: "words",

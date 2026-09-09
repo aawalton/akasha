@@ -5,7 +5,7 @@ export const godOfTrash0340340TakingCareOfBusiness = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0340-340-taking-care-of-business",
   title: "340. Taking Care of Business",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 340,
   ownLength: 2022,
   unitSlug: "words",

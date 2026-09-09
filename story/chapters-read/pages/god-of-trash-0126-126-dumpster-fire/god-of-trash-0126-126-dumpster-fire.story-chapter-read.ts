@@ -5,7 +5,7 @@ export const godOfTrash0126126DumpsterFire = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0126-126-dumpster-fire",
   title: "126. Dumpster Fire",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 126,
   ownLength: 2302,
   unitSlug: "words",

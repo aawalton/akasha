@@ -5,7 +5,7 @@ export const godOfTrash0289289RoseGarden = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0289-289-rose-garden",
   title: "289. Rose Garden",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 289,
   ownLength: 2390,
   unitSlug: "words",

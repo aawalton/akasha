@@ -5,7 +5,7 @@ export const godOfTrash0300300AndNow = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0300-300-and-now",
   title: "300. And Now",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 300,
   ownLength: 1963,
   unitSlug: "words",

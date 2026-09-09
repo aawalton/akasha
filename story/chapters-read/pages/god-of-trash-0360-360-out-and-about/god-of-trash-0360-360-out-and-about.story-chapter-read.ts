@@ -4,7 +4,7 @@ export const godOfTrash0360360OutAndAbout = {
   id: "01a07d79-1755-79de-9c45-f00b4d30b9b4",
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0360-360-out-and-about",
-  storySlug: "story-read/god-of-trash",
+  story: "story-read/god-of-trash",
   position: 360,
   publishedAt: "2026-09-07",
   unitSlug: "words",

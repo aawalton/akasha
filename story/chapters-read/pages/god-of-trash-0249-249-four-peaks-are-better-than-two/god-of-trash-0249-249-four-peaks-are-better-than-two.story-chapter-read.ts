@@ -5,7 +5,7 @@ export const godOfTrash0249249FourPeaksAreBetterThanTwo = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0249-249-four-peaks-are-better-than-two",
   title: "249. Four Peaks are Better than Two",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 249,
   ownLength: 1890,
   unitSlug: "words",

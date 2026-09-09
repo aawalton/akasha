@@ -5,7 +5,7 @@ export const godOfTrash0132132Byproducts = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0132-132-byproducts",
   title: "132. Byproducts",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 132,
   ownLength: 2013,
   unitSlug: "words",

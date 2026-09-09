@@ -5,7 +5,7 @@ export const godOfTrash0338338DisposalSquad = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0338-338-disposal-squad",
   title: "338. Disposal Squad",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 338,
   ownLength: 1895,
   unitSlug: "words",

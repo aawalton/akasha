@@ -5,7 +5,7 @@ export const godOfTrash0331331ItsATrap = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0331-331-its-a-trap",
   title: "331. It's a Trap!",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 331,
   ownLength: 2075,
   unitSlug: "words",

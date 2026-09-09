@@ -5,7 +5,7 @@ export const godOfTrash003838Condensed = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0038-38-condensed",
   title: "38. Condensed",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 38,
   ownLength: 3107,
   unitSlug: "words",

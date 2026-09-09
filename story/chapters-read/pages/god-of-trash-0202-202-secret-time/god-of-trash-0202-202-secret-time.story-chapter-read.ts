@@ -5,7 +5,7 @@ export const godOfTrash0202202SecretTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0202-202-secret-time",
   title: "202. Secret Time",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 202,
   ownLength: 1764,
   unitSlug: "words",

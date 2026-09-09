@@ -5,7 +5,7 @@ export const godOfTrash0297297TheCoreOfTheProblem = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0297-297-the-core-of-the-problem",
   title: "297. The Core of the Problem",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 297,
   ownLength: 1884,
   unitSlug: "words",

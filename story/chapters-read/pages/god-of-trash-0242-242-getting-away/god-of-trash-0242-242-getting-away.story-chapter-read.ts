@@ -5,7 +5,7 @@ export const godOfTrash0242242GettingAway = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0242-242-getting-away",
   title: "242. Getting Away",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 242,
   ownLength: 1997,
   unitSlug: "words",

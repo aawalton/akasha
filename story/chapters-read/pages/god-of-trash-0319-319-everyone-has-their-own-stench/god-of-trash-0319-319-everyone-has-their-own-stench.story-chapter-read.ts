@@ -5,7 +5,7 @@ export const godOfTrash0319319EveryoneHasTheirOwnStench = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0319-319-everyone-has-their-own-stench",
   title: "319. Everyone Has Their Own Stench",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 319,
   ownLength: 3203,
   unitSlug: "words",

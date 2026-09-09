@@ -5,7 +5,7 @@ export const godOfTrash0324324FavoriteTrash = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0324-324-favorite-trash",
   title: "324. Favorite Trash",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 324,
   ownLength: 2134,
   unitSlug: "words",

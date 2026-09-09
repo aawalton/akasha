@@ -5,7 +5,7 @@ export const godOfTrash003232CarryingOn = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0032-32-carrying-on",
   title: "32. Carrying On",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 32,
   ownLength: 3302,
   unitSlug: "words",

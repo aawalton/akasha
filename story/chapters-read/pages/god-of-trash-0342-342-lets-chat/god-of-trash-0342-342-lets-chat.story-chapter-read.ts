@@ -5,7 +5,7 @@ export const godOfTrash0342342LetsChat = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0342-342-lets-chat",
   title: "342. Let's Chat",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 342,
   ownLength: 2299,
   unitSlug: "words",

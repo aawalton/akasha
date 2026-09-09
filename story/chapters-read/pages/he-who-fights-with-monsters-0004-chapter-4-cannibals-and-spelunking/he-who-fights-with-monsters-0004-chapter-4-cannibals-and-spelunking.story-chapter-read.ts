@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0004Chapter4CannibalsAndSpelunking = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0004-chapter-4-cannibals-and-spelunking",
   title: "Chapter 4: Cannibals and Spelunking",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 4,
   ownLength: 1651,
   ownProgress: 1651,

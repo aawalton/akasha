@@ -5,7 +5,7 @@ export const godOfTrash0165165Whoops = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0165-165-whoops",
   title: "165. Whoops",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 165,
   ownLength: 2304,
   unitSlug: "words",

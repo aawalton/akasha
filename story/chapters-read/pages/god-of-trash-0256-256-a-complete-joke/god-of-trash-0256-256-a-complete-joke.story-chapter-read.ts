@@ -5,7 +5,7 @@ export const godOfTrash0256256ACompleteJoke = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0256-256-a-complete-joke",
   title: "256. A Complete Joke",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 256,
   ownLength: 2033,
   unitSlug: "words",

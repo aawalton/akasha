@@ -5,7 +5,7 @@ export const godOfTrash0355355CastleInTheSky = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0355-355-castle-in-the-sky",
   title: "355. Castle in the Sky",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 355,
   ownLength: 2263,
   unitSlug: "words",

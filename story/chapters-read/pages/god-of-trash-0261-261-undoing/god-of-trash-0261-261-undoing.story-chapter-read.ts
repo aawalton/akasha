@@ -5,7 +5,7 @@ export const godOfTrash0261261Undoing = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0261-261-undoing",
   title: "261. Undoing",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 261,
   ownLength: 1778,
   unitSlug: "words",

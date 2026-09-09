@@ -5,7 +5,7 @@ export const godOfTrash0351351BabyImAFirework = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0351-351-baby-im-a-firework",
   title: "351. Baby I'm a Firework",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 351,
   ownLength: 2177,
   unitSlug: "words",

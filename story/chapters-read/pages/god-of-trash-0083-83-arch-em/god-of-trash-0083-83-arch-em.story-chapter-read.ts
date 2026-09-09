@@ -5,7 +5,7 @@ export const godOfTrash008383ArchEm = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0083-83-arch-em",
   title: "83. Arch 'em",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 83,
   ownLength: 1915,
   unitSlug: "words",

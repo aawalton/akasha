@@ -5,7 +5,7 @@ export const godOfTrash0157157CursesAndImpurity = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0157-157-curses-and-impurity",
   title: "157. Curses and Impurity",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 157,
   ownLength: 3296,
   unitSlug: "words",

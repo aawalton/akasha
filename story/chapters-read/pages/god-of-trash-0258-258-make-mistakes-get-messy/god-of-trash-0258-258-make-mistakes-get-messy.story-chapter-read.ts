@@ -5,7 +5,7 @@ export const godOfTrash0258258MakeMistakesGetMessy = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0258-258-make-mistakes-get-messy",
   title: "258. Make Mistakes, Get Messy",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 258,
   ownLength: 2078,
   unitSlug: "words",

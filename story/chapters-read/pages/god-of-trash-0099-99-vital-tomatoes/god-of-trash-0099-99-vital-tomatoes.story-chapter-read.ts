@@ -5,7 +5,7 @@ export const godOfTrash009999VitalTomatoes = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0099-99-vital-tomatoes",
   title: "99. Vital Tomatoes",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 99,
   ownLength: 2261,
   unitSlug: "words",

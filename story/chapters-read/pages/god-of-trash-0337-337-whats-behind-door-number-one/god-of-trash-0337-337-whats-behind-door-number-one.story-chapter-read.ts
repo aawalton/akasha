@@ -5,7 +5,7 @@ export const godOfTrash0337337WhatsBehindDoorNumberOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0337-337-whats-behind-door-number-one",
   title: "337. What's Behind Door Number One?",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 337,
   ownLength: 1858,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash009090ChildRearingAdvice = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0090-90-child-rearing-advice",
   title: "90. Child-Rearing Advice",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 90,
   ownLength: 2853,
   unitSlug: "words",

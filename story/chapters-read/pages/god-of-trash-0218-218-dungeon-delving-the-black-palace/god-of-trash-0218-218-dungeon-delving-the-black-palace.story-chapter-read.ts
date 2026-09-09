@@ -5,7 +5,7 @@ export const godOfTrash0218218DungeonDelvingTheBlackPalace = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0218-218-dungeon-delving-the-black-palace",
   title: "218. Dungeon Delving the Black Palace",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 218,
   ownLength: 1875,
   unitSlug: "words",

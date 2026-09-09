@@ -5,7 +5,7 @@ export const godOfTrash006262EmissaryToTheRats = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0062-62-emissary-to-the-rats",
   title: "62. Emissary to the Rats",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 62,
   ownLength: 2746,
   unitSlug: "words",

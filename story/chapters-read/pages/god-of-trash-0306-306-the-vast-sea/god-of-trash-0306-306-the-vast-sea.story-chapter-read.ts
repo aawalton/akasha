@@ -5,7 +5,7 @@ export const godOfTrash0306306TheVastSea = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0306-306-the-vast-sea",
   title: "306. The Vast Sea",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 306,
   ownLength: 2039,
   unitSlug: "words",

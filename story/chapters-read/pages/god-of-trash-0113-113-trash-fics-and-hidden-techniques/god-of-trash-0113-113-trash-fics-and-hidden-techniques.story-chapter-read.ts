@@ -5,7 +5,7 @@ export const godOfTrash0113113TrashFicsAndHiddenTechniques = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0113-113-trash-fics-and-hidden-techniques",
   title: "113. Trash Fics and Hidden Techniques",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 113,
   ownLength: 2141,
   unitSlug: "words",

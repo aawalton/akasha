@@ -5,7 +5,7 @@ export const godOfTrash0128128SkellyBoy = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0128-128-skelly-boy",
   title: "128. Skelly Boy",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 128,
   ownLength: 2193,
   unitSlug: "words",

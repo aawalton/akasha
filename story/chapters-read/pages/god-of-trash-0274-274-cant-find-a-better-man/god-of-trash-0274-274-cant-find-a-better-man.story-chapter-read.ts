@@ -5,7 +5,7 @@ export const godOfTrash0274274CantFindABetterMan = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0274-274-cant-find-a-better-man",
   title: "274. (Can't Find) A Better Man",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 274,
   ownLength: 2357,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0277277SubtleAndLessSubtle = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0277-277-subtle-and-less-subtle",
   title: "277. Subtle and Less Subtle",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 277,
   ownLength: 2284,
   unitSlug: "words",

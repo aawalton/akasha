@@ -5,7 +5,7 @@ export const godOfTrash0100100BanquetHall = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0100-100-banquet-hall",
   title: "100. Banquet Hall",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 100,
   ownLength: 2212,
   unitSlug: "words",

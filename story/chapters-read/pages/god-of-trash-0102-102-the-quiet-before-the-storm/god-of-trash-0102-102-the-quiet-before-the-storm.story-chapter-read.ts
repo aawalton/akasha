@@ -5,7 +5,7 @@ export const godOfTrash0102102TheQuietBeforeTheStorm = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0102-102-the-quiet-before-the-storm",
   title: "102. The Quiet Before the Storm",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 102,
   ownLength: 2148,
   unitSlug: "words",

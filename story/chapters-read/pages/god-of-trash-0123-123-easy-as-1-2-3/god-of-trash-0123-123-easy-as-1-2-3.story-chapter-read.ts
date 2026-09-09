@@ -5,7 +5,7 @@ export const godOfTrash0123123EasyAs123 = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0123-123-easy-as-1-2-3",
   title: "123. Easy as 1, 2, 3",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 123,
   ownLength: 1948,
   unitSlug: "words",

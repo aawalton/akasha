@@ -5,7 +5,7 @@ export const godOfTrash0229229TimeToSeeTheLord = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0229-229-time-to-see-the-lord",
   title: "229. Time to See the Lord",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 229,
   ownLength: 1975,
   unitSlug: "words",

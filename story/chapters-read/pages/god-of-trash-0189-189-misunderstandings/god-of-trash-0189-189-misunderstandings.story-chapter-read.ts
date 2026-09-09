@@ -5,7 +5,7 @@ export const godOfTrash0189189Misunderstandings = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0189-189-misunderstandings",
   title: "189. Misunderstandings",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 189,
   ownLength: 1860,
   unitSlug: "words",

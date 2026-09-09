@@ -5,7 +5,7 @@ export const godOfTrash0122122CraftingFries = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0122-122-crafting-fries",
   title: "122. Crafting Fries",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 122,
   ownLength: 1642,
   unitSlug: "words",

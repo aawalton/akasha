@@ -5,7 +5,7 @@ export const godOfTrash0328328IntoTheHole = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0328-328-into-the-hole",
   title: "328. Into the Hole",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 328,
   ownLength: 2510,
   unitSlug: "words",

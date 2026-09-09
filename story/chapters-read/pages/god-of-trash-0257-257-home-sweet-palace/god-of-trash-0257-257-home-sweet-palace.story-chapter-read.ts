@@ -5,7 +5,7 @@ export const godOfTrash0257257HomeSweetPalace = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0257-257-home-sweet-palace",
   title: "257. Home Sweet Palace",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 257,
   ownLength: 1890,
   unitSlug: "words",

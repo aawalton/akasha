@@ -5,7 +5,7 @@ export const godOfTrash0233233AreYouARetainer = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0233-233-are-you-a-retainer",
   title: "233. Are You a Retainer?",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 233,
   ownLength: 2256,
   unitSlug: "words",

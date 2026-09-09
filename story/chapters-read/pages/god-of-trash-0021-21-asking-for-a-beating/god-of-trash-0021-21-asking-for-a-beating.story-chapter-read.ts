@@ -5,7 +5,7 @@ export const godOfTrash002121AskingForABeating = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0021-21-asking-for-a-beating",
   title: "21. Asking for a Beating",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 21,
   ownLength: 2418,
   unitSlug: "words",

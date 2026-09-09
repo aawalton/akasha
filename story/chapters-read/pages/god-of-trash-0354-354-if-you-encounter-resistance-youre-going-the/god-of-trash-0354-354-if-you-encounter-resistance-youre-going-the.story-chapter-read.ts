@@ -5,7 +5,7 @@ export const godOfTrash0354354IfYouEncounterResistanceYoureGoingThe = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0354-354-if-you-encounter-resistance-youre-going-the",
   title: "354. If You Encounter Resistance, You’re Going The Right Way (to Die)",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 354,
   ownLength: 2180,
   unitSlug: "words",

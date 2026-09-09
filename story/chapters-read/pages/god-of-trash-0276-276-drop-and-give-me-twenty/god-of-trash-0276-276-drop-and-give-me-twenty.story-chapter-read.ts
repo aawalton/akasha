@@ -5,7 +5,7 @@ export const godOfTrash0276276DropAndGiveMeTwenty = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0276-276-drop-and-give-me-twenty",
   title: "276. Drop and Give Me Twenty!",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 276,
   ownLength: 2179,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0186186MagicalEngineering = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0186-186-magical-engineering",
   title: "186. Magical Engineering",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 186,
   ownLength: 2400,
   unitSlug: "words",

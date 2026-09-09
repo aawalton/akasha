@@ -5,7 +5,7 @@ export const godOfTrash0301301HoldingTheLine = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0301-301-holding-the-line",
   title: "301. Holding the Line",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 301,
   ownLength: 1703,
   unitSlug: "words",

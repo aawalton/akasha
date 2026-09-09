@@ -5,7 +5,7 @@ export const godOfTrash0120120EconomicWarfareIsStillWarfare = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0120-120-economic-warfare-is-still-warfare",
   title: "120. Economic Warfare is Still Warfare",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 120,
   ownLength: 2816,
   unitSlug: "words",

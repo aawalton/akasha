@@ -5,7 +5,7 @@ export const heWhoFightsWithMonsters0006Chapter6PotentPotable = {
   pageTypeSlug: "story-chapter-read",
   slug: "he-who-fights-with-monsters-0006-chapter-6-potent-potable",
   title: "Chapter 6: Potent Potable",
-  storySlug: "story-read/he-who-fights-with-monsters",
+  story: "story-read/he-who-fights-with-monsters",
   position: 6,
   ownLength: 1421,
   ownProgress: 1421,

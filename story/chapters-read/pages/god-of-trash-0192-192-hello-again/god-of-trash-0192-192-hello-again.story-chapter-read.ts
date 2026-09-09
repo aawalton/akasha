@@ -5,7 +5,7 @@ export const godOfTrash0192192HelloAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0192-192-hello-again",
   title: "192. Hello Again",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 192,
   ownLength: 1679,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0275275IThinkIveBeenRevealed = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0275-275-i-think-ive-been-revealed",
   title: "275. I Think I've Been Revealed?",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 275,
   ownLength: 2185,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const godOfTrash0223223MickiesHut = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0223-223-mickies-hut",
   title: "223. Mickie's Hut",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 223,
   ownLength: 2183,
   unitSlug: "words",
