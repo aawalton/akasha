@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import type { Adding, Replacing } from "@akasha/changes/change-answer/types"
 import { textOf } from "@akasha/code/body-text"
 import { formattedBody } from "@akasha/code/code-format"
 import type { Schema } from "@akasha/indexes/shape"
@@ -8,7 +9,6 @@ import { partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
 import { textOnDisk } from "@akasha/utils/fs/text-on-disk"
-import type { FileEdit } from "../landing/landing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -38,7 +38,7 @@ export type Key = {
 }
 
 export type Worked = {
-  readonly edits: readonly FileEdit[]
+  readonly edits: readonly (Adding | Replacing)[]
   readonly said: readonly string[]
 }
 
@@ -58,13 +58,12 @@ function declaresWorked(text: string, typeName: string): boolean {
 }
 
 export function textIn(
-  root: string,
-  codeAt: (path: string) => string | null,
-  readAt: (at: string) => string | null
+  change: Change,
+  codeAt: (path: string) => string | null
 ): (path: string) => string | null {
   return (path) => {
     const at = codeAt(path)
-    return at === null ? null : readAt(join(root, at))
+    return at === null ? null : textOf(change.after(at))
   }
 }
 
@@ -126,10 +125,10 @@ export function bodyFor(pageTypePath: string, slug: string, keys: readonly Key[]
   return `${lines.join("\n")}\n`
 }
 
-export function workedOver(root: string, shadow: Shadow): Worked {
-  const edits: FileEdit[] = []
+export function workedOver(change: Change, shadow: Shadow): Worked {
+  const edits: (Adding | Replacing)[] = []
   const said: string[] = []
-  const textAt = textIn(root, shadow.codeAt, textOnDisk)
+  const textAt = textIn(change, shadow.codeAt)
   for (const listed of shadow.index.everyOfType(PAGE_TYPE)) {
     const value = shadow.pageOf(listed.path)
     if (value === null) continue
@@ -140,10 +139,14 @@ export function workedOver(root: string, shadow: Shadow): Worked {
     if (keys.length === 0) continue
     const at = workedAtOf(listed.path)
     const raw = new TextEncoder().encode(bodyFor(listed.path, slug, keys))
-    const body = formattedBody(root, at, raw).body
-    const was = textAt(at)
-    if (was !== null && was === new TextDecoder().decode(body)) continue
-    edits.push({ path: at, body })
+    const now = new TextDecoder().decode(formattedBody(change.root, at, raw).body)
+    const was = textOf(change.after(at))
+    if (was === now) continue
+    edits.push(
+      was === null
+        ? { kind: "add", path: at, content: now }
+        : { kind: "replace", path: at, contentFrom: was, contentTo: now }
+    )
     said.push(`\`${at}\` was written again from the ${keys.length} keys \`${slug}\` declares`)
   }
   return edits.length === 0 ? NOTHING_WORKED : { edits, said }
@@ -171,7 +174,7 @@ export function workedFor(change: Change): Worked {
     if (!couldTurn(change)) return NOTHING_WORKED
     const cast = shadowFor(change)
     if ("refused" in cast) return NOTHING_WORKED
-    return workedOver(change.root, cast.shadow)
+    return workedOver(change, cast.shadow)
   } catch (thrown) {
     return {
       edits: [],

@@ -66,6 +66,19 @@ export const workedTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "That file's body is read through the change rather than off the disk.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "What is written again is answered as a change rather than as a body.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file that is not there yet is answered as an addition rather than a replacement.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A body written here is handed to the formatter rather than left for a landing to reformat.",
     },

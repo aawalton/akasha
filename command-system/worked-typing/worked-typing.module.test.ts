@@ -74,11 +74,15 @@ test("two stored properties declaring a worked form are both omitted", () => {
   expect(body).toContain(`Omit<Collection, "one" | "two">`)
 })
 
-test("a body is read at the path the shadow says holds that body", () => {
+test("a body is read through the change at the path the shadow says holds that body", () => {
   const read = textIn(
-    "/root",
-    (path) => (path === "held.ts" ? "came-from.ts" : null),
-    (at) => (at === "/root/came-from.ts" ? "BODY" : null)
+    {
+      root: "/root",
+      changed: [],
+      before: () => null,
+      after: (at) => (at === "came-from.ts" ? new TextEncoder().encode("BODY") : null),
+    },
+    (path) => (path === "held.ts" ? "came-from.ts" : null)
   )
   expect(read("held.ts")).toBe("BODY")
   expect(read("anew.ts")).toBeNull()
