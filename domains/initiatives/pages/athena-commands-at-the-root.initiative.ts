@@ -32,7 +32,7 @@ export const athenaCommandsAtTheRoot = {
       statement:
         "Every command sits in one folder at the root, named by the namespace it is under.",
       workingMemory:
-        "238 commands and 48 namespaces, 18 top and 30 nested. Every command has one parent: a namespace names 202, the `command` page type names 36, and no domain or package names a command, where 187 such entries sat over 19 pages. Phase 2 moves the folders under one root: `REPAIR_AT` in `calling.module.code.ts` names the index command's code and moves with that command, or a tree holding no index cannot build an index; `tree-drawing.module.code.ts` reaches four command folders by relative path.",
+        "Phase 2 is done: `REPAIR_AT` in `calling.module.code.ts` and the four reaches in `tree-drawing.module.code.ts` all name `commands/pages/...`, and no domain or package names a command among its parts, where 187 such entries sat over 19 pages. What is left is the 12 commands under no namespace, which the `command` page type names directly. The constraint says a command's parent is its namespace, so either those 12 want namespaces or the constraint wants the exception written in.",
     },
     {
       statement: "A seat has the commands its domain and role need, without being handed them.",
