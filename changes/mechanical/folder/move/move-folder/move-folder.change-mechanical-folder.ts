@@ -63,8 +63,16 @@ export const moveFolder = {
       statement: "A manifest carried with the folder is left to the ways in that manifest spells.",
     },
     {
+      invariantKind: "departure",
+      statement: "A way in keeps its key and takes the path that key's file landed at.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A key is the caller's entrance rather than the file's place.",
+    },
+    {
       invariantKind: "absence",
-      statement: "No way in is renamed, so a caller spells the way in that caller already spells.",
+      statement: "No way in is renamed, no route running from a moved file to a package specifier.",
     },
     {
       invariantKind: "departure",
