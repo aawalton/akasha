@@ -2,22 +2,25 @@ import { createHash } from "node:crypto"
 import { cpSync, existsSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { codeRoot } from "@akasha/pages/code-root"
-import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
-import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
+import { CONSOLIDATION_MIGRATIONS } from "akasha/temper/addon-build/consolidation-migrations/consolidation-migrations.module.code.ts"
+import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
 import {
   ADDONS_REL_ROOT,
   listAllAddons,
   resolveAddon,
-} from "@akasha/temper-addons-resolve/addon-roster"
+} from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import {
   collectFloorsFor,
   decideFolderOwnership,
   decideInstallAction,
   foreignCopySatisfies,
   OWNERSHIP_MARKER_FILE,
-} from "@akasha/temper-addons-resolve/folder-ownership"
-import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
-import { CONSOLIDATION_MIGRATIONS } from "akasha/temper/addon-build/consolidation-migrations/consolidation-migrations.module.code.ts"
+} from "akasha/temper/addons-resolve/folder-ownership/folder-ownership.module.code.ts"
+import {
+  readSiblingAddonNames,
+  siblingDistDir,
+} from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
 import {
   addonsDir,
   savedVarsDir,

@@ -14,8 +14,8 @@ import {
   compilerCommand,
   compilerRoot,
 } from "akasha/temper/addon-build/lua-build-command/lua-build-command.module.code.ts"
-import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
-import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
+import { listAllAddons, resolveAddon } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
+import { readSiblingAddonNames, siblingDistDir } from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
 import { ran, shown } from "@akasha/utils/run/running"
 import { valuesOf } from "../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import { inNameOrder } from "../../../../../temper/commands/name-ordering/name-ordering.module.code.ts"

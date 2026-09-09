@@ -1,12 +1,11 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperAddonsResolve = {
   id: "01a06060-ec3c-725c-b37c-206e3c7f7e97",
-  pageTypeSlug: "workspace-package",
-  type: "workspace-package",
+  pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-addons-resolve",
   definition: "which addons the repository has and what each addon needs to be built",
-  manifest: "json",
   parts: [
     "module/addon-json",
     "module/addon-manifest-file",
@@ -35,4 +34,4 @@ export const temperAddonsResolve = {
       statement: "Nothing here writes to the game's addons folder.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

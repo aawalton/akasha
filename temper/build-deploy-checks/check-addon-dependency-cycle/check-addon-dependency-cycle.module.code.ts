@@ -1,6 +1,9 @@
 import { readFileSync } from "node:fs"
-import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
-import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
+import {
+  type AddonInfo,
+  listAllAddons,
+} from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import { z } from "zod"
 import {
   type AddonDepInput,

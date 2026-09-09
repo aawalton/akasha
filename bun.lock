@@ -35,7 +35,6 @@
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/talos": "workspace:*",
         "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/temper-build-deploy-checks": "workspace:*",
         "@akasha/temper-eso-types": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -349,7 +348,6 @@
       "name": "@akasha/checks",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/utils": "workspace:*",
         "typescript": "5.9.3",
         "typescript-7": "npm:typescript@7.1.0-dev.20260904.1",
@@ -928,14 +926,6 @@
     "temper/addon-library-types": {
       "name": "@akasha/temper-addon-library-types",
     },
-    "temper/addons-resolve": {
-      "name": "@akasha/temper-addons-resolve",
-      "dependencies": {
-        "@akasha/command-system": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "temper/antiquities-addon": {
       "name": "@akasha/temper-antiquities-addon",
       "dependencies": {
@@ -946,7 +936,6 @@
     "temper/build-deploy-checks": {
       "name": "@akasha/temper-build-deploy-checks",
       "dependencies": {
-        "@akasha/temper-addons-resolve": "workspace:*",
         "@akasha/utils": "workspace:*",
         "typescript": "^5.8.3",
         "zod": "^4.3.6",
@@ -1370,8 +1359,6 @@
     "@akasha/talos": ["@akasha/talos@workspace:infrastructure/cluster/provisioning/talos"],
 
     "@akasha/temper-addon-library-types": ["@akasha/temper-addon-library-types@workspace:temper/addon-library-types"],
-
-    "@akasha/temper-addons-resolve": ["@akasha/temper-addons-resolve@workspace:temper/addons-resolve"],
 
     "@akasha/temper-antiquities-addon": ["@akasha/temper-antiquities-addon@workspace:temper/antiquities-addon"],
 

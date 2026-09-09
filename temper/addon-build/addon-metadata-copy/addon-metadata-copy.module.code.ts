@@ -1,14 +1,14 @@
 import { cpSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
-import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
-import { OWNERSHIP_MARKER_FILE } from "@akasha/temper-addons-resolve/folder-ownership"
+import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { OWNERSHIP_MARKER_FILE } from "akasha/temper/addons-resolve/folder-ownership/folder-ownership.module.code.ts"
 import {
   readSiblingAddonNames,
   siblingDistDir,
   siblingManifestsIn,
   siblingSourceDir,
-} from "@akasha/temper-addons-resolve/sibling-addons"
+} from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
 import {
   ADDONS_REL_ROOT,
   DIST_UNDER,

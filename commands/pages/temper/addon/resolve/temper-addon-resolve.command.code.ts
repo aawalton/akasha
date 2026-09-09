@@ -1,6 +1,9 @@
 import { resolve } from "node:path"
 import { codeRoot } from "@akasha/pages/code-root"
-import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
+import {
+  listAllAddons,
+  resolveAddon,
+} from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import { valuesOf } from "../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 import type { Answer } from "../../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../../modules/calling/calling.module.code.ts"

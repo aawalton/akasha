@@ -1,4 +1,4 @@
-import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
+import { listDeployables } from "akasha/temper/addons-resolve/deployable-addons/deployable-addons.module.code.ts"
 import { downloadAndInstall } from "akasha/temper/community-addons/addon-download/addon-download.module.code.ts"
 import {
   distinctUids,

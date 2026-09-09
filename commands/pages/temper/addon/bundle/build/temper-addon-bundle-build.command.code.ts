@@ -4,14 +4,14 @@ import type { Answer } from "../../../../../modules/calling/calling.module.code.
 import { refused } from "../../../../../modules/calling/calling.module.code.ts"
 import { saidBy as messageOf } from "../../../../../modules/fault-saying/fault-saying.module.code.ts"
 import { codeRoot } from "@akasha/pages/code-root"
-import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
-import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
-import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+import { addonManifestSchema } from "akasha/temper/addons-resolve/addon-json/addon-json.module.code.ts"
+import { addonManifestPathIn } from "akasha/temper/addons-resolve/addon-manifest-file/addon-manifest-file.module.code.ts"
+import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import {
   type AddonDependencies,
   resolveDistributableSet,
-} from "@akasha/temper-addons-resolve/distributable-set"
-import { readSiblingAddonNames, siblingDistDir } from "@akasha/temper-addons-resolve/sibling-addons"
+} from "akasha/temper/addons-resolve/distributable-set/distributable-set.module.code.ts"
+import { readSiblingAddonNames, siblingDistDir } from "akasha/temper/addons-resolve/sibling-addons/sibling-addons.module.code.ts"
 import { type Zippable, zipSync } from "fflate"
 import { valuesOf } from "../../../../../../temper/commands/argument-word-reading/argument-word-reading.module.code.ts"
 

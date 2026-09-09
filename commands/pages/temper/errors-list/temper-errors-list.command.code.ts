@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { codeRoot } from "@akasha/pages/code-root"
-import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { ran } from "@akasha/utils/run/running"
+import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import type { ErrorEntry } from "akasha/temper/capture-errors/errors-payload/errors-payload.module.code.ts"
 import {
   collectEntries,

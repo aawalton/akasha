@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { relative } from "node:path"
-import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 import {
   collectSourceSymbols,
   detectOrphans,

@@ -1,4 +1,4 @@
-import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
+import { listAllAddons } from "akasha/temper/addons-resolve/addon-roster/addon-roster.module.code.ts"
 
 export const EMPTY_ADDON_ROSTER_HINT =
   "addon roster is empty — listAllAddons() found no addon.json across the domain tree; the scan would pass vacuously. Check that addon dirs are declared workspace members carrying an addon.json (listExternalAddonRelDirs)."
