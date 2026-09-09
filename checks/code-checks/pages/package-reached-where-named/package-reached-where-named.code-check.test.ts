@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
-import { rootOf } from "@akasha/command-system/rooting"
 import { matchingIn } from "@akasha/pages/name-format/format-reaching"
 import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
 import { shadowAt } from "@akasha/pages/shadow"
+import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
 import {
   holdingIn,
   namingIn,

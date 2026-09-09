@@ -1,9 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+import { rootOf } from "../../../../modules/rooting/rooting.module.code.ts"
 import {
   answering,
   domainsIn,

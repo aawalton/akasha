@@ -1,8 +1,8 @@
 import type { Asking as Asked } from "@akasha/changes/mechanical-change-running"
-import { rootOf } from "@akasha/command-system/rooting"
 import type { Applied } from "../../../modules/applying/applying.module.code.ts"
 import type { Given } from "../../../modules/calling/calling.module.code.ts"
 import type { Refused } from "../../../modules/landing/landing.module.code.ts"
+import { rootOf } from "../../../modules/rooting/rooting.module.code.ts"
 import {
   changesFor,
   heardPageIn,

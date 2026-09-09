@@ -1,6 +1,5 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   identitiesTakenFrom,
@@ -13,6 +12,7 @@ import {
 } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { exportedAs } from "@akasha/pages/page-export-name"
+import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
 
 export const CHECK = "code-check"

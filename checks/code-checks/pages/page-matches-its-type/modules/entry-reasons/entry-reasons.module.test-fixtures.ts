@@ -1,10 +1,10 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { rootOf } from "@akasha/command-system/rooting"
 import type { Formatting } from "@akasha/pages/name-format/format-reaching"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import { valueAt } from "@akasha/pages/page-value"
 import { shadowAt } from "@akasha/pages/shadow"
+import { rootOf } from "../../../../../../commands/modules/rooting/rooting.module.code.ts"
 import { entryReasonsIn, type Shaping } from "./entry-reasons.module.code.ts"
 
 const ALLOWS: Formatting = () => (): boolean => true

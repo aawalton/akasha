@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { rootOf } from "@akasha/command-system/rooting"
 import { indexNamed } from "@akasha/indexes"
+import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import {
   editsInPlace,
   landingsIn,

@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
-import { rootOf } from "@akasha/command-system/rooting"
 import { readingIn } from "@akasha/indexes"
 import { type Answering, answeringOver, type PageOf } from "@akasha/indexes/answering"
 import type { Reading } from "@akasha/indexes/shape"
 import { readingLaidOver } from "@akasha/indexes/testing"
 import { valueAt } from "@akasha/pages/page-value"
+import { rootOf } from "../../commands/modules/rooting/rooting.module.code.ts"
 import { edgesInto, reachingInto } from "./graph-asking.module.code.ts"
 import {
   APART_AT,

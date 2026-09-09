@@ -1,10 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { ran } from "@akasha/utils/run/running"
 import { dataAt } from "akasha/file-system/data-place/data-place.module.code.ts"
+import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
 import { askedIn, refusalFor, SCOPE } from "./block-akasha-edits.agent-hook.code.ts"
 

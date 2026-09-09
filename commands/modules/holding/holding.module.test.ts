@@ -6,10 +6,10 @@ import { said as git } from "@akasha/git/git-running"
 import { idFiledIn, listedFiledIn } from "@akasha/indexes/testing"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { until } from "@akasha/testing-system/waiting"
-import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import { baseOf, landing } from "../landing/landing.module.code.ts"
 import { CARRIED } from "../landing/landing.module.test-fixtures.ts"
+import { rootOf } from "../rooting/rooting.module.code.ts"
 import { holding, LOCK_AT } from "./holding.module.code.ts"
 
 const HERE = rootOf(import.meta.path)

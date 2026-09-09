@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { rootOf } from "@akasha/command-system/rooting"
 import { shadowAt } from "@akasha/pages/shadow"
 import { bodiesAt } from "@akasha/testing-system/bodying"
+import { rootOf } from "../../../../commands/modules/rooting/rooting.module.code.ts"
 import {
   reasonsIn,
   reasonsShaped,

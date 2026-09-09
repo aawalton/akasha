@@ -1,6 +1,5 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { rootOf } from "@akasha/command-system/rooting"
 import { writing } from "@akasha/command-system/scratching/testing"
 import {
   idFiled,
@@ -13,6 +12,7 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import { mintedId } from "@akasha/testing-system/minting"
 import { dataAt } from "akasha/file-system/data-place/data-place.module.code.ts"
 import { recordRead, SUBAGENT_MARK } from "../../../commands/modules/reading/reading.module.code.ts"
+import { rootOf } from "../../../commands/modules/rooting/rooting.module.code.ts"
 import type { Warrant } from "./warranting.module.code.ts"
 
 const HERE = rootOf(import.meta.path)
