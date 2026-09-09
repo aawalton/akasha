@@ -30,6 +30,12 @@ test("a flag this command does not take is refused by name", async () => {
   expect(answer.refusals[0]).toContain("`--again`")
 })
 
+test("a deploy told to be measured is taken rather than refused as a flag it does not take", async () => {
+  const answer = await infrastructureDeploy(["no-such-app-here", "--measured"], HERE)
+
+  expect(answer.code).toBe(2)
+})
+
 test("a slug no app page of either kind carries is refused as the data's fault", async () => {
   const answer = await infrastructureDeploy(["no-such-app-here"], HERE)
   expect(answer.code).toBe(2)

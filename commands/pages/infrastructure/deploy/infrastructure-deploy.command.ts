@@ -20,6 +20,10 @@ export const infrastructureDeploy = {
     { said: "--dry-run", takes: "say what a web app would have applied and change nothing" },
     { said: "--no-upload", takes: "build and validate an ios app without uploading it" },
     { said: "--ref <rev>", takes: "the commit an ios app is built at" },
+    {
+      said: "--measured",
+      takes: "run the whole deploy under no ceiling, so what it cost is recorded",
+    },
   ],
   helpNotes: [
     "one call names one app, and a second name is refused rather than chosen between.",
@@ -34,6 +38,8 @@ export const infrastructureDeploy = {
     "nothing is said until an ios build has finished, because a command prints nothing itself, and what the build said is the report.",
     "an upload reaches every internal tester, since each app's one group holds all builds and each build notifies, so `--no-upload` is what holds a build back from a phone.",
     "`--dry-run` belongs to a web app, `--no-upload` and `--ref` to an ios app, and one named on the other kind is refused rather than ignored.",
+    "`--measured` lifts the ceiling the call runs under, so a deploy longer than that ceiling finishes rather than being stopped part way.",
+    "`--measured` belongs to a deploy of either kind, since either kind can run past the ceiling.",
     "what the deploy is made of is not on the call: the page names a cluster service, that page names a workload, and the code beside it emits the manifests.",
     "the namespace comes first, then what is placed in it, then the workload that reads it.",
     "a manifest the cluster already holds is applied again by nothing, so a second call does nothing.",
@@ -85,6 +91,15 @@ export const infrastructureDeploy = {
     {
       invariantKind: "departure",
       statement: "A flag belonging to the other kind of app is refused rather than ignored.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A deploy runs under the ceiling a command runs under unless the call says otherwise.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A deploy told to be measured runs under no ceiling.",
     },
   ],
 } as const satisfies Command

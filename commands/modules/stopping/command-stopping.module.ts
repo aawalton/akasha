@@ -73,6 +73,18 @@ export const commandStopping = {
       statement: "A call allowed more seconds where no watch is live is left with no watch.",
     },
     {
+      invariantKind: "departure",
+      statement: "A call may be allowed the rest of its run under no ceiling.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Allowing a call through ends the watch that was live.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call stopped at the ceiling records nothing about what that call cost.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here waits on the answer a command gives.",
     },

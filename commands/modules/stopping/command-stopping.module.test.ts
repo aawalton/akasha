@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   ALLOWED,
   allowedAgain,
+  allowedThrough,
   MEASURED_ALLOWED,
   saidOf,
   secondsIn,
@@ -65,4 +66,21 @@ test("a call may be allowed more seconds while that call runs", async () => {
   watch.ended()
 
   expect(Date.now() - at).toBeGreaterThan(SECOND)
+})
+
+test("a call may be allowed the rest of its run under no ceiling", async () => {
+  const watch = watching(1, NAMED)
+  allowedThrough()
+  const at = Date.now()
+
+  await Bun.sleep(SECOND + SECOND / 2)
+  watch.ended()
+
+  expect(Date.now() - at).toBeGreaterThan(SECOND)
+})
+
+test("allowing a call through where no watch is live leaves it with no watch", () => {
+  watching(1, NAMED).ended()
+
+  expect(() => allowedThrough()).not.toThrow()
 })

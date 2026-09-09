@@ -50,3 +50,8 @@ export function allowedAgain(seconds: number, named: string): undefined {
     live = workerFor(seconds, named)
   }
 }
+
+export function allowedThrough(): undefined {
+  if (live !== null) live.terminate()
+  live = null
+}

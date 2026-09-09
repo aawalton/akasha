@@ -1,5 +1,6 @@
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
+import { allowedThrough } from "../../../modules/stopping/command-stopping.module.code.ts"
 import { shipIosApp } from "./deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
 import { IOS_APP, kindNamed } from "./deploy-kind-reading/deploy-kind-reading.module.code.ts"
 import { putUpWebApp } from "./deploy-web-putting-up/deploy-web-putting-up.module.code.ts"
@@ -8,8 +9,9 @@ const INPUT = 1
 const DATA = 2
 const DRY_RUN = "--dry-run"
 const NO_UPLOAD = "--no-upload"
+const MEASURED = "--measured"
 const REF = "--ref"
-const FLAGS = [DRY_RUN, NO_UPLOAD]
+const FLAGS = [DRY_RUN, NO_UPLOAD, MEASURED]
 
 export interface RefNamed {
   readonly ref: string | null
@@ -66,6 +68,8 @@ export async function infrastructureDeploy(argv: readonly string[], given: Given
       INPUT
     )
   }
+
+  if (rest.includes(MEASURED)) allowedThrough()
 
   const slug = named[0] as string
   const read = kindNamed(given.root, slug)
