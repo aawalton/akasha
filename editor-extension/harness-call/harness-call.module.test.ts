@@ -16,7 +16,9 @@ describe("the files the harness names", () => {
   })
 
   test("a command the server does not answer is spawned as the dispatcher on PATH", () => {
-    expect(within(dispatcherPath())).toBe(path.join("command-system", "cli", "cli.module.code.ts"))
+    expect(within(dispatcherPath())).toBe(
+      path.join("commands", "modules", "cli", "cli.module.code.ts")
+    )
     expect(existsSync(path.join(CHECKOUT, within(dispatcherPath())))).toBe(true)
   })
 

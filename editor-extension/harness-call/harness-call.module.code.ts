@@ -24,7 +24,7 @@ export function serverPath(): string {
   return path.join(akashaRoot(), SERVER_AT)
 }
 
-const DISPATCHER_AT = "command-system/cli/cli.module.code.ts"
+const DISPATCHER_AT = "commands/modules/cli/cli.module.code.ts"
 
 export function dispatcherPath(): string {
   return path.join(akashaRoot(), DISPATCHER_AT)

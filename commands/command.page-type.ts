@@ -53,6 +53,7 @@ export const command = {
     "namespace/domain",
     "namespace/model-gateway",
     "namespace/temper",
+    "module/cli",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",

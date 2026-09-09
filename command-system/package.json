@@ -13,7 +13,7 @@
     "./change-acting": "./change-acting/change-acting.module.code.ts",
     "./change-arguing": "./change-arguing/change-arguing.module.code.ts",
     "./change-running": "./change-running/change-running.module.code.ts",
-    "./cli": "./cli/cli.module.code.ts",
+    "./commit-author": "./commit-author/commit-author.module.code.ts",
     "./commit-reading": "./commit-reading/commit-reading.module.code.ts",
     "./differing": "./differing/differing.module.code.ts",
     "./holding": "./holding/holding.module.code.ts",
