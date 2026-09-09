@@ -1,12 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { TelnyxAccountApiKey } from "./properties/telnyx-account-api-key.text-property.ts"
-import type { TelnyxAccountFromNumber } from "./properties/telnyx-account-from-number.phone-number-property.ts"
-
-export type TelnyxAccount = Page & {
-  fromNumber: TelnyxAccountFromNumber
-  apiKey?: TelnyxAccountApiKey
-}
 
 export const telnyxAccount = {
   id: "01a06861-e7cd-7e44-b19a-09599abde817",
@@ -47,4 +39,5 @@ export const telnyxAccount = {
       statement: "The accounts are pages under this type rather than markdown.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
