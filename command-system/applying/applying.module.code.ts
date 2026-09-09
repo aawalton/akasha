@@ -11,6 +11,10 @@ import {
   type Running,
   rebasedHeld,
 } from "../../commands/modules/drafting/drafting.module.code.ts"
+import {
+  gateBuilt,
+  NO_GATE,
+} from "../../commands/modules/gate-building/gate-building.module.code.ts"
 import { carryLanded } from "../../commands/modules/landing-reading/landing-reading.module.code.ts"
 import {
   defaultMessage,
@@ -21,7 +25,6 @@ import { refusalsKept } from "../../commands/modules/refusals-keeping/refusals-k
 import { bypassedIn, glassSaid, mistaking, unloadableIn } from "../asking/asking.module.code.ts"
 import type { Answer, Given } from "../calling/calling.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
-import { gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { editsOf, type FileEdit, landing, type Refused } from "../landing/landing.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"

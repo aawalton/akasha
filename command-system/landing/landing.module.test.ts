@@ -12,7 +12,7 @@ import {
 } from "@akasha/indexes/testing"
 import { everyFileUnder } from "@akasha/testing-system/walking"
 import { readingEnded } from "../../commands/modules/commit-reading/commit-reading.module.code.ts"
-import { NO_GATE } from "../gate-building/gate-building.module.code.ts"
+import { NO_GATE } from "../../commands/modules/gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf, landing } from "./landing.module.code.ts"
 import {
   A,

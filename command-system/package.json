@@ -8,7 +8,6 @@
     "./asking": "./asking/asking.module.code.ts",
     "./asking/testing": "./asking/asking.module.test-fixtures.ts",
     "./applying": "./applying/applying.module.code.ts",
-    "./gate-building": "./gate-building/gate-building.module.code.ts",
     "./seat-act-calling": "./seat-act-calling/seat-act-calling.module.code.ts",
     "./calling": "./calling/calling.module.code.ts",
     "./calling/testing": "./calling/calling.module.test-fixtures.ts",

@@ -96,6 +96,7 @@ export const command = {
     "module/refusals-keeping",
     "module/value-minting",
     "module/drafting",
+    "module/gate-building",
     "namespace/change",
     "namespace/refresh",
     "number-property/timeout",

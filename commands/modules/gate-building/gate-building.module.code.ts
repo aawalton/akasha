@@ -3,8 +3,8 @@ import { dirname, join, relative } from "node:path"
 import { fileURLToPath } from "node:url"
 import type { Judging } from "@akasha/checks/judging"
 import type { Indexing } from "@akasha/indexes/indexing"
-import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
-import { rootOf } from "../rooting/rooting.module.code.ts"
+import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import { rootOf } from "../../../command-system/rooting/rooting.module.code.ts"
 
 const CHECKING_IN = "@akasha/checks/checking"
 
