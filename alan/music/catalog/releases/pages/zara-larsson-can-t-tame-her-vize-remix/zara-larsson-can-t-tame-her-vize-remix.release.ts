@@ -9,7 +9,7 @@ export const zaraLarssonCanTTameHerVizeRemix = {
   position: 0,
   ownLength: 2.888883,
   ownProgress: 2.888883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-02",
   externalId: "2nrFTw7MyZ2zYRDeC7asts",

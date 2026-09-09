@@ -9,7 +9,7 @@ export const zaraLarssonOnMyLoveTheRemixes = {
   position: 0,
   ownLength: 28.975267,
   ownProgress: 28.975267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-01",
   externalId: "0iAv3656WbI551gLIRS6NB",

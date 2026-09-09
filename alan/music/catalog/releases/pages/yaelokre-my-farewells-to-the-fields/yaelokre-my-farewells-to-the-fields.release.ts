@@ -9,7 +9,7 @@ export const yaelokreMyFarewellsToTheFields = {
   position: 0,
   ownLength: 2.092667,
   ownProgress: 2.092667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-25",
   externalId: "4fxgTB02u9rXHd7SCTrSHd",

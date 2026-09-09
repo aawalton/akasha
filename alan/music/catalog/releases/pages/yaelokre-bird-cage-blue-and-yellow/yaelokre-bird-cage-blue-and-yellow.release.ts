@@ -9,7 +9,7 @@ export const yaelokreBirdCageBlueAndYellow = {
   position: 0,
   ownLength: 3.214217,
   ownProgress: 3.214217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-25",
   externalId: "1sQolI66l35OQFsJIZ3hH9",

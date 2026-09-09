@@ -9,7 +9,7 @@ export const vinnyMarchiLyingHereAlone = {
   position: 0,
   ownLength: 2.67385,
   ownProgress: 2.67385,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-09-13",

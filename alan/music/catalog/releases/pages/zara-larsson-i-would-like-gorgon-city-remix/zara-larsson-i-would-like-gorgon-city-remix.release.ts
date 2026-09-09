@@ -9,7 +9,7 @@ export const zaraLarssonIWouldLikeGorgonCityRemix = {
   position: 0,
   ownLength: 4.39425,
   ownProgress: 4.39425,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-09",
   externalId: "1gCqvEj5wVUNCHIEtm26up",

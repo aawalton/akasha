@@ -9,7 +9,7 @@ export const weirdAlYankovic2PoodleHat = {
   position: 0,
   ownLength: 54.7006,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2003-05-20",
   externalId: "4VzAwj9nYwEqjY6JLaTwCm",

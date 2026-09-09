@@ -9,7 +9,7 @@ export const vinnyMarchiLovelessAndModernLanguage = {
   position: 0,
   ownLength: 3.658933,
   ownProgress: 3.658933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2023-03-31",

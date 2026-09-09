@@ -9,7 +9,7 @@ export const yaelokreAndTheHoundReprise = {
   position: 0,
   ownLength: 2.27805,
   ownProgress: 2.27805,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2026-01-09",
   externalId: "048OiuY493d6ayD7k37QeS",

@@ -9,7 +9,7 @@ export const vinnyMarchiTakeTheReins = {
   position: 0,
   ownLength: 2.669233,
   ownProgress: 2.669233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2024-08-16",

@@ -9,7 +9,7 @@ export const vinnyMarchiRidingWaves = {
   position: 0,
   ownLength: 2.811183,
   ownProgress: 2.811183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-28",
   externalId: "25HximsuHWvp7i3HGwqd7u",

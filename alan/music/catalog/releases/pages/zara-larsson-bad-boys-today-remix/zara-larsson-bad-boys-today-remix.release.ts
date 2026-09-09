@@ -9,7 +9,7 @@ export const zaraLarssonBadBoysTodayRemix = {
   position: 0,
   ownLength: 2.592,
   ownProgress: 2.592,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-12-09",
   externalId: "5z4d1UdvJ8DchCibnaCF81",

@@ -9,7 +9,7 @@ export const vinnyMarchiTheSadSadAlphaMan = {
   position: 0,
   ownLength: 2.214617,
   ownProgress: 2.214617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2024-03-29",

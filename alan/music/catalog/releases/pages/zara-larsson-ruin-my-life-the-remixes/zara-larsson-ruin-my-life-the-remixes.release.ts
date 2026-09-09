@@ -9,7 +9,7 @@ export const zaraLarssonRuinMyLifeTheRemixes = {
   position: 0,
   ownLength: 21.958067,
   ownProgress: 21.958067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-01-01",
   externalId: "3eGJGZSlGVLfbVRkQQeOYg",

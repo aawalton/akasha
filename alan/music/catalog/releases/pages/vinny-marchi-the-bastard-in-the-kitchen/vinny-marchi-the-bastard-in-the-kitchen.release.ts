@@ -9,7 +9,7 @@ export const vinnyMarchiTheBastardInTheKitchen = {
   position: 0,
   ownLength: 1.890383,
   ownProgress: 1.890383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2024-03-15",

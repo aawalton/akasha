@@ -9,7 +9,7 @@ export const zaraLarssonWowFeatSabrinaCarpenterRemix = {
   position: 0,
   ownLength: 2.9942,
   ownProgress: 2.9942,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-09-25",
   externalId: "1RE0ZZJkxSZXdkNac4lcJD",

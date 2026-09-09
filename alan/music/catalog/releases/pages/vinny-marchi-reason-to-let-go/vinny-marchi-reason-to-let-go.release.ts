@@ -9,7 +9,7 @@ export const vinnyMarchiReasonToLetGo = {
   position: 0,
   ownLength: 3.5245,
   ownProgress: 3.5245,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2021-12-10",

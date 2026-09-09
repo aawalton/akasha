@@ -9,7 +9,7 @@ export const yaelokreHearken = {
   position: 0,
   ownLength: 6.194517,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-11",
   externalId: "76esxIQUhXuZW0d7VdNy2g",

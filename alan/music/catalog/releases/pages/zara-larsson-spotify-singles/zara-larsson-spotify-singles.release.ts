@@ -9,7 +9,7 @@ export const zaraLarssonSpotifySingles = {
   position: 0,
   ownLength: 5.841717,
   ownProgress: 5.841717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-04-05",
   externalId: "3RH0hpUJfWcCNEjuypAtGC",

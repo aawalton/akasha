@@ -5,6 +5,6 @@ export const elderScrollsOnlineCollection = {
   pageTypeSlug: "collection-type",
   slug: "elder-scrolls-online-collection",
   title: "Elder Scrolls Online Collection",
-  unitSlug: "words",
+  unit: "words",
   collectionTypeStatus: "someday-maybe",
 } as const satisfies CollectionType

@@ -9,7 +9,7 @@ export const yaelokreOrigins = {
   position: 0,
   ownLength: 10.5081,
   ownProgress: 10.5081,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-10-23",

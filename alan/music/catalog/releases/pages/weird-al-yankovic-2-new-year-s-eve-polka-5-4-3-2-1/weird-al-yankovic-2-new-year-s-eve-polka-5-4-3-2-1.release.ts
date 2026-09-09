@@ -9,7 +9,7 @@ export const weirdAlYankovic2NewYearSEvePolka54321 = {
   position: 0,
   ownLength: 1.705583,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-10-31",
   externalId: "43mopyD01RjmKiSlnOWycJ",

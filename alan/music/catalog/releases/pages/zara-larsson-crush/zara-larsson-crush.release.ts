@@ -9,7 +9,7 @@ export const zaraLarssonCrush = {
   position: 0,
   ownLength: 8.761867,
   ownProgress: 8.761867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-15",
   externalId: "66uFqZHRtk56y6wyj0EFst",

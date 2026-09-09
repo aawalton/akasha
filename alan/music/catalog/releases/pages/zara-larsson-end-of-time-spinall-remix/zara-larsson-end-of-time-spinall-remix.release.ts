@@ -9,7 +9,7 @@ export const zaraLarssonEndOfTimeSpinallRemix = {
   position: 0,
   ownLength: 3.68775,
   ownProgress: 3.68775,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-07-07",
   externalId: "1od8RiQnyZfx0BwYp7JOa2",

@@ -9,7 +9,7 @@ export const yaelokreComposingColentine = {
   position: 0,
   ownLength: 18.879817,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-02-12",
   externalId: "2zXl66SXNVTZX0DkkNjFy7",

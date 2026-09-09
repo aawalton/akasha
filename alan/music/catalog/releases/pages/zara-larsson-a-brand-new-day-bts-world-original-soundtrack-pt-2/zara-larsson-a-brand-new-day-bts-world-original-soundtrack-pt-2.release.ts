@@ -9,7 +9,7 @@ export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2 = {
   position: 0,
   ownLength: 3.416983,
   ownProgress: 3.416983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-14",
   externalId: "7AksZp2xptzhgOaiwJxjkh",

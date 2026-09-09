@@ -9,7 +9,7 @@ export const weirdAlYankovic2TheHamiltonPolka = {
   position: 0,
   ownLength: 5.01135,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-03-02",
   externalId: "6W9Zh48twLSES56hA8mJEK",

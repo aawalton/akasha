@@ -9,7 +9,7 @@ export const weirdAlYankovic2OffTheDeepEnd = {
   position: 0,
   ownLength: 41.4955,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1992-01-01",
   externalId: "6qr3P9IV7X8zSmRWUfKTNL",

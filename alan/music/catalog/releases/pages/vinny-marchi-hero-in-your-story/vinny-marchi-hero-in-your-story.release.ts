@@ -9,7 +9,7 @@ export const vinnyMarchiHeroInYourStory = {
   position: 0,
   ownLength: 2.8611,
   ownProgress: 2.8611,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2024-05-24",

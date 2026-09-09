@@ -9,7 +9,7 @@ export const zaraLarssonHonorTheLight = {
   position: 0,
   ownLength: 15.716617,
   ownProgress: 15.716617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-01",
   externalId: "1Nxzeq5f7m7kpCP8PtWFPm",

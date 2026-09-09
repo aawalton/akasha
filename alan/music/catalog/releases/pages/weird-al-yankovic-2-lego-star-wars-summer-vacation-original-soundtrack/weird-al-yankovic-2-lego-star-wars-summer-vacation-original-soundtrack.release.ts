@@ -9,7 +9,7 @@ export const weirdAlYankovic2LegoStarWarsSummerVacationOriginalSoundtrack = {
   position: 0,
   ownLength: 5.524317,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2022-08-05",
   externalId: "4CHtFjeBXVir6bP7nKBqhg",

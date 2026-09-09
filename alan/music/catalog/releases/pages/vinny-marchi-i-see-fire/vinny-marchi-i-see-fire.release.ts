@@ -9,7 +9,7 @@ export const vinnyMarchiISeeFire = {
   position: 0,
   ownLength: 3.890883,
   ownProgress: 3.890883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-03-08",

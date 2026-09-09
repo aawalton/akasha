@@ -9,7 +9,7 @@ export const weirdAlYankovic2BadHairDay = {
   position: 0,
   ownLength: 42.306833,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1996-12-31",
   externalId: "0Jlz2oUJcRROhY8MFMp609",

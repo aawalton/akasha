@@ -9,7 +9,7 @@ export const vinnyMarchiHabanera = {
   position: 0,
   ownLength: 2.180383,
   ownProgress: 2.180383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2023-04-28",

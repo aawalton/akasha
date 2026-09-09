@@ -9,7 +9,7 @@ export const vinnyMarchiHaveYourselfAMerryLittleChristmas = {
   position: 0,
   ownLength: 2.70115,
   ownProgress: 2.70115,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-12-18",
   externalId: "78iMfpsmCqjkZ9vcU7lPss",

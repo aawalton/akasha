@@ -5,6 +5,6 @@ export const scriptureChapter = {
   pageTypeSlug: "collection-type",
   slug: "scripture-chapter",
   title: "Scripture Chapter",
-  unitSlug: "words",
+  unit: "words",
   collectionTypeStatus: "done",
 } as const satisfies CollectionType

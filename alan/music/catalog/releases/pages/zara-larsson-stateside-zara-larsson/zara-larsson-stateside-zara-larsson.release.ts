@@ -9,7 +9,7 @@ export const zaraLarssonStatesideZaraLarsson = {
   position: 0,
   ownLength: 3.07935,
   ownProgress: 3.07935,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-24",
   externalId: "553gwPPa6VUWikljMiQyGM",

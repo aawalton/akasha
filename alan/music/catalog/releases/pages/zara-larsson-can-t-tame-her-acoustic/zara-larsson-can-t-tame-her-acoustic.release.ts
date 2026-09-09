@@ -9,7 +9,7 @@ export const zaraLarssonCanTTameHerAcoustic = {
   position: 0,
   ownLength: 6.782317,
   ownProgress: 6.782317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-10",
   externalId: "7kSvTMG6BOS7O7yHyKeGpg",

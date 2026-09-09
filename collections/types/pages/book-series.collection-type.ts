@@ -5,6 +5,6 @@ export const bookSeries = {
   pageTypeSlug: "collection-type",
   slug: "book-series",
   title: "Book Series",
-  unitSlug: "words",
+  unit: "words",
   collectionTypeStatus: "done",
 } as const satisfies CollectionType

@@ -9,7 +9,7 @@ export const weirdAlYankovic2WhoSGonnaStopMeFeatWeirdAlYankovic = {
   position: 0,
   ownLength: 3.87645,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-10-12",
   externalId: "4iW2N7yfkOX2FfTZalpuyP",

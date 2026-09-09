@@ -5,6 +5,6 @@ export const season = {
   pageTypeSlug: "collection-type",
   slug: "season",
   title: "Season",
-  unitSlug: "minutes",
+  unit: "minutes",
   collectionTypeStatus: "done",
 } as const satisfies CollectionType

@@ -9,7 +9,7 @@ export const vinnyMarchiMyJollySailorBold = {
   position: 0,
   ownLength: 3.604333,
   ownProgress: 3.604333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-19",
   externalId: "3SlDy6kC80wJqJeIJFT13l",

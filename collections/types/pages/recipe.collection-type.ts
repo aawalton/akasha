@@ -5,6 +5,6 @@ export const recipe = {
   pageTypeSlug: "collection-type",
   slug: "recipe",
   title: "Recipe",
-  unitSlug: "words",
+  unit: "words",
   collectionTypeStatus: "not-doing",
 } as const satisfies CollectionType

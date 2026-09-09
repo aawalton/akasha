@@ -9,7 +9,7 @@ export const vinnyMarchiLockedDown = {
   position: 0,
   ownLength: 2.38645,
   ownProgress: 2.38645,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-04",
   externalId: "2GNRWSKNCCyGrntPGMKiiP",

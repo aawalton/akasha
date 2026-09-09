@@ -9,7 +9,7 @@ export const zaraLarssonAllTheTimeDonDiabloRemix = {
   position: 0,
   ownLength: 2.9436,
   ownProgress: 2.9436,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-05",
   externalId: "1HoSmj2eLcsrR0vE9gThr4",

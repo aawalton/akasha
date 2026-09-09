@@ -9,7 +9,7 @@ export const zaraLarssonLoveMeLandSecondcityRemix = {
   position: 0,
   ownLength: 3.781683,
   ownProgress: 3.781683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-07",
   externalId: "61wfDA0geMT9skXQZ4oxGI",

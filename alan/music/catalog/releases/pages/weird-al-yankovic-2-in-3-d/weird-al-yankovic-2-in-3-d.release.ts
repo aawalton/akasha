@@ -9,7 +9,7 @@ export const weirdAlYankovic2In3D = {
   position: 0,
   ownLength: 44.454167,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1984-01-01",
   externalId: "5mIwtOp8f0flDHmn8jOxDD",

@@ -9,7 +9,7 @@ export const zaraLarssonIWouldLikeR3habRemix = {
   position: 0,
   ownLength: 2.449983,
   ownProgress: 2.449983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-23",
   externalId: "74jAjZr6wn5MdqUSVi5ump",

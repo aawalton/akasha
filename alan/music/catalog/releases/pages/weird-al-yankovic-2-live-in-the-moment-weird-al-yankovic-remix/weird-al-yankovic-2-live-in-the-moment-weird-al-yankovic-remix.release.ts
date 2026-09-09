@@ -9,7 +9,7 @@ export const weirdAlYankovic2LiveInTheMomentWeirdAlYankovicRemix = {
   position: 0,
   ownLength: 3.354717,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-03-16",
   externalId: "57JwyYSRHJzonPxiGsGZBv",

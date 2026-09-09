@@ -9,7 +9,7 @@ export const vinnyMarchiMissingMe = {
   position: 0,
   ownLength: 3.308667,
   ownProgress: 3.308667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-03",
   externalId: "5yeONclCHVTkgawO1OlNiF",

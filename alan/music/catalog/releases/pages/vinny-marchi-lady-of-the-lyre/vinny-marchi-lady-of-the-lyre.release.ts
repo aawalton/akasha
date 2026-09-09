@@ -9,7 +9,7 @@ export const vinnyMarchiLadyOfTheLyre = {
   position: 0,
   ownLength: 2.6,
   ownProgress: 2.6,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-06-14",

@@ -9,7 +9,7 @@ export const weirdAlYankovic2RunningWithScissors = {
   position: 0,
   ownLength: 49.880167,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1999-06-29",
   externalId: "1vo55G8xWatvOHe38UF9yD",

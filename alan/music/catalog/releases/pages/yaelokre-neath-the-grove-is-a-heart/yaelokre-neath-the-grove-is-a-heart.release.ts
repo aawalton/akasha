@@ -9,7 +9,7 @@ export const yaelokreNeathTheGroveIsAHeart = {
   position: 0,
   ownLength: 5.5033,
   ownProgress: 5.5033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-01-08",
   externalId: "5kDMl7KFaOovhc0H9AaGDP",

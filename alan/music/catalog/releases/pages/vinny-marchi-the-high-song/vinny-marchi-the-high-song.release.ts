@@ -9,7 +9,7 @@ export const vinnyMarchiTheHighSong = {
   position: 0,
   ownLength: 2.491767,
   ownProgress: 2.491767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2023-05-26",

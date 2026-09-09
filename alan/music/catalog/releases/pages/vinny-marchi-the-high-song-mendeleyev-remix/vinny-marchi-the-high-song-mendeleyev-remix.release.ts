@@ -9,7 +9,7 @@ export const vinnyMarchiTheHighSongMendeleyevRemix = {
   position: 0,
   ownLength: 2.313883,
   ownProgress: 2.313883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2023-07-07",

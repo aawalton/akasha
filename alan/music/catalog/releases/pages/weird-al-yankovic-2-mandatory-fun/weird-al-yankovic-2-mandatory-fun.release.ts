@@ -9,7 +9,7 @@ export const weirdAlYankovic2MandatoryFun = {
   position: 0,
   ownLength: 45.440167,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2014-07-15",
   externalId: "36jlZKG1sNZQA2HbWdYveV",

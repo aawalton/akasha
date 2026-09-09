@@ -9,7 +9,7 @@ export const vinnyMarchiTakeMeBackToYou = {
   position: 0,
   ownLength: 2.885567,
   ownProgress: 2.885567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-23",
   externalId: "5qISoGQuqwNr32IFk4y7ZK",

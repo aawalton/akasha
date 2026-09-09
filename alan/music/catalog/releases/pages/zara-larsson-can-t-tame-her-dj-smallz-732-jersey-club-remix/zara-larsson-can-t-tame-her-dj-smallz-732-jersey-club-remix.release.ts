@@ -9,7 +9,7 @@ export const zaraLarssonCanTTameHerDjSmallz732JerseyClubRemix = {
   position: 0,
   ownLength: 2.5132,
   ownProgress: 2.5132,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-07",
   externalId: "3uBceis1Eppr25zMURrFZb",

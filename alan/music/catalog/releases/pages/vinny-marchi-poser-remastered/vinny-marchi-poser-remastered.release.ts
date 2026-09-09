@@ -9,7 +9,7 @@ export const vinnyMarchiPoserRemastered = {
   position: 0,
   ownLength: 14.244317,
   ownProgress: 14.244317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2023-02-06",

@@ -9,7 +9,7 @@ export const vinnyMarchiWingsOfWax = {
   position: 0,
   ownLength: 3.815233,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2026-01-30",
   externalId: "3ULDMABxdqYNCfuFidESqv",

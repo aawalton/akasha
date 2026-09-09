@@ -9,7 +9,7 @@ export const zaraLarssonOnMyLove = {
   position: 0,
   ownLength: 3.715183,
   ownProgress: 3.715183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-15",
   externalId: "1NoYjCb7ReBR4kfmjntHTi",

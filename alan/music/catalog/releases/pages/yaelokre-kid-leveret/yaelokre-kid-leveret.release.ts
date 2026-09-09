@@ -9,7 +9,7 @@ export const yaelokreKidLeveret = {
   position: 0,
   ownLength: 5.223417,
   ownProgress: 5.223417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-21",
   externalId: "0qua5UZqpo15MI7WeLXDvl",

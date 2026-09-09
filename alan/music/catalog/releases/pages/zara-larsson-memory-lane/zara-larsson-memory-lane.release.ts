@@ -9,7 +9,7 @@ export const zaraLarssonMemoryLane = {
   position: 0,
   ownLength: 8.533683,
   ownProgress: 8.533683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-04",
   externalId: "057XtVTFa9pDl6AivW7UeP",

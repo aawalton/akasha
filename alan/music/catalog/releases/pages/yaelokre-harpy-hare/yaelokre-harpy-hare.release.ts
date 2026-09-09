@@ -9,7 +9,7 @@ export const yaelokreHarpyHare = {
   position: 0,
   ownLength: 3.015367,
   ownProgress: 3.015367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2024-01-04",

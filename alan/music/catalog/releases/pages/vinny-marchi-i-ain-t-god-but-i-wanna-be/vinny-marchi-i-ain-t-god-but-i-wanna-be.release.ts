@@ -9,7 +9,7 @@ export const vinnyMarchiIAinTGodButIWannaBe = {
   position: 0,
   ownLength: 3.466667,
   ownProgress: 3.466667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-05-02",

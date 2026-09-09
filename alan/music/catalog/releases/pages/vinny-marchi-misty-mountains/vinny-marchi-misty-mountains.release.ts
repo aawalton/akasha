@@ -9,7 +9,7 @@ export const vinnyMarchiMistyMountains = {
   position: 0,
   ownLength: 3.153,
   ownProgress: 3.153,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2022-08-27",

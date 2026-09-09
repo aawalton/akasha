@@ -9,7 +9,7 @@ export const zaraLarssonCanTTameHer = {
   position: 0,
   ownLength: 3.282317,
   ownProgress: 3.282317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-01-26",
   externalId: "7ytOBcbbFsYDHojnMP5Gs7",

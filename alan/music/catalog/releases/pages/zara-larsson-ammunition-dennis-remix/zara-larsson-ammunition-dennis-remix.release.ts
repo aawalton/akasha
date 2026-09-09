@@ -9,7 +9,7 @@ export const zaraLarssonAmmunitionDennisRemix = {
   position: 0,
   ownLength: 2.316083,
   ownProgress: 2.316083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-13",
   externalId: "3aIqR3VX1QMeQzrWgmalVp",

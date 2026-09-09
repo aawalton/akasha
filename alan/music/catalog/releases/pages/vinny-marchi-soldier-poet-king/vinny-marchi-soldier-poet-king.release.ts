@@ -9,7 +9,7 @@ export const vinnyMarchiSoldierPoetKing = {
   position: 0,
   ownLength: 2.803767,
   ownProgress: 2.803767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2022-10-28",

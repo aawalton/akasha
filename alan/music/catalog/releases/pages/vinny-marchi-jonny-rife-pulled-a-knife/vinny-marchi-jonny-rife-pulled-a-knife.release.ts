@@ -9,7 +9,7 @@ export const vinnyMarchiJonnyRifePulledAKnife = {
   position: 0,
   ownLength: 3.016667,
   ownProgress: 3.016667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-10-25",

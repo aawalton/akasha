@@ -9,7 +9,7 @@ export const vinnyMarchiMeetUThere = {
   position: 0,
   ownLength: 2.8,
   ownProgress: 2.8,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-03",
   externalId: "4iKKPhwEZVIkxifDZOdpoM",

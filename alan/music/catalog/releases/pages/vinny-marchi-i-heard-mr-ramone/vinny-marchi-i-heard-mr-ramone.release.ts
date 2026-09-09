@@ -9,7 +9,7 @@ export const vinnyMarchiIHeardMrRamone = {
   position: 0,
   ownLength: 3.50075,
   ownProgress: 3.50075,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2025-11-07",

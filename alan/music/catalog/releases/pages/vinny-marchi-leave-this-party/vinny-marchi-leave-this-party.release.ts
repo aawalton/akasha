@@ -9,7 +9,7 @@ export const vinnyMarchiLeaveThisParty = {
   position: 0,
   ownLength: 3.99125,
   ownProgress: 3.99125,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-02-09",

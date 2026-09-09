@@ -9,7 +9,7 @@ export const zaraLarssonInvisibleEndTitleFromKlaus = {
   position: 0,
   ownLength: 2.861933,
   ownProgress: 2.861933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-11-22",
   externalId: "21NYKwIJL8DCFDf6Z2UIzQ",

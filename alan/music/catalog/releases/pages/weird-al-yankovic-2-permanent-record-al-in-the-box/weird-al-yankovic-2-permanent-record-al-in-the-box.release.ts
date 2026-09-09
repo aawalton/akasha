@@ -9,7 +9,7 @@ export const weirdAlYankovic2PermanentRecordAlInTheBox = {
   position: 0,
   ownLength: 180.001933,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "1994-09-27",
   externalId: "6qe9hRwFfbcgtXXsif6BQZ",

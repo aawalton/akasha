@@ -9,7 +9,7 @@ export const yaelokreKamahalan = {
   position: 0,
   ownLength: 2.470633,
   ownProgress: 2.470633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2025-10-23",

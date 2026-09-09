@@ -9,7 +9,7 @@ export const zaraLarssonOnlyYouRemixes = {
   position: 0,
   ownLength: 14.610317,
   ownProgress: 14.610317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-08-11",
   externalId: "3hkSh2CXNjWfqdsoOmnB8u",

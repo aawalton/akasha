@@ -9,7 +9,7 @@ export const yaelokreColeSResponse = {
   position: 0,
   ownLength: 2.14975,
   ownProgress: 2.14975,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-05-22",
   externalId: "3c9v4CNoqLy1h3x8nlM5vP",

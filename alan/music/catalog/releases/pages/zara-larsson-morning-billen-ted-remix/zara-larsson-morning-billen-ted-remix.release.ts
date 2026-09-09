@@ -9,7 +9,7 @@ export const zaraLarssonMorningBillenTedRemix = {
   position: 0,
   ownLength: 2.4484,
   ownProgress: 2.4484,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-18",
   externalId: "5N9bzslQhj3XW8Apf7SSLW",
