@@ -122,7 +122,7 @@ export const temper = {
     "workspace-package/temper-character-skills",
     "eso-addon/temper-combat-addon",
     "eso-addon/temper-lib-histoire",
-    "workspace-package/temper-skyshards",
+    "domain/temper-skyshards",
     "workspace-package/temper-build-metadata",
     "workspace-package/temper-skill-morphs",
     "eso-addon/temper-hud-addon",

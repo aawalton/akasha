@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperSkyshards = {
   id: "01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-skyshards",
   definition: "every skyshard in Tamriel, shown on the map and the compass until the player has it",
-  manifest: "json",
   parts: [
     "module/skyshards-console-compass",
     "module/skyshards-console-load",
@@ -75,4 +74,4 @@ export const temperSkyshards = {
       statement: "No program in this repository rebuilds the placement table.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

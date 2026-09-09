@@ -1493,7 +1493,6 @@
       "dependencies": {
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-lorebooks": "workspace:*",
-        "@akasha/temper-skyshards": "workspace:*",
       },
     },
     "temper/community-addons": {
@@ -2321,13 +2320,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/temper-skyshards": {
-      "name": "@akasha/temper-skyshards",
-      "dependencies": {
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-      },
-    },
     "temper/temper-trading-pricing-client": {
       "name": "@akasha/temper-trading-pricing-client",
       "dependencies": {
@@ -2966,8 +2958,6 @@
     "@akasha/temper-skill-morphs-access": ["@akasha/temper-skill-morphs-access@workspace:temper/skill-morphs-access"],
 
     "@akasha/temper-skill-point-finder": ["@akasha/temper-skill-point-finder@workspace:temper/skill-point-finder"],
-
-    "@akasha/temper-skyshards": ["@akasha/temper-skyshards@workspace:temper/temper-skyshards"],
 
     "@akasha/temper-trading-addon": ["@akasha/temper-trading-addon@workspace:temper/trading-addon"],
 
