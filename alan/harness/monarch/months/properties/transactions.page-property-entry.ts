@@ -22,7 +22,12 @@ export const transactions = {
     { pagePropertySlug: "select-property/category-source", required: false, many: false },
     { pagePropertySlug: "text-property/category-decided-by", required: false, many: false },
     { pagePropertySlug: "text-property/amazon-order-number", required: false, many: false },
-    { pagePropertySlug: "relation-property/tags", required: false, many: true, maxCount: 20 },
+    {
+      pagePropertySlug: "relation-property/transaction-tags",
+      required: false,
+      many: true,
+      maxCount: 20,
+    },
     { pagePropertySlug: "boolean-property/split", required: false, many: false },
     { pagePropertySlug: "boolean-property/recurring", required: false, many: false },
     { pagePropertySlug: "boolean-property/needs-review", required: false, many: false },

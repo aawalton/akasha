@@ -25,7 +25,7 @@ export const monarchMonth = {
     "instant-property/monarch-updated-at",
     "number-property/amount",
     "page-property-entry/transactions",
-    "relation-property/tags",
+    "relation-property/transaction-tags",
     "select-property/category-source",
     "text-property/account-name",
     "text-property/amazon-order-number",
