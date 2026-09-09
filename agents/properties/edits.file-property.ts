@@ -5,6 +5,7 @@ export type Edits = "jsonl"
 export const edits = {
   id: "01a07771-c8a1-7ef9-b931-04ce8f6bbc85",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "edits",
   propertySlug: "edits",
   definition: "the edits an agent has answered and not yet landed",

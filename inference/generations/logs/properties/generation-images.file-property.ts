@@ -5,6 +5,7 @@ export type GenerationImages = "jsonl"
 export const generationImages = {
   id: "01a0685d-b81f-7a4b-bdfb-f1daf8fbfda4",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "generation-images",
   propertySlug: "images",
   definition: "every picture the runs in this log have made",

@@ -5,6 +5,7 @@ export type ReviewSessionNotes = "txt"
 export const reviewSessionNotes = {
   id: "01a06743-d160-7000-a21c-00ed7a409bee",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "review-session-notes",
   propertySlug: "notes",
   definition: "what a persona found when she looked, in her own words",

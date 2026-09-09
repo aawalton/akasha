@@ -5,6 +5,7 @@ export type Addressed = "ts"
 export const addressed = {
   id: "01a077c9-302e-73d9-ab09-7e86e4854566",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "addressed",
   propertySlug: "addressed",
   definition: "the type binding each change address to that change's own arguments",

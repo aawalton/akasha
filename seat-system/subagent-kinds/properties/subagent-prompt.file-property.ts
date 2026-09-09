@@ -5,6 +5,7 @@ export type SubagentPrompt = "md"
 export const subagentPrompt = {
   id: "01a06838-7a9e-7b95-ab3e-f0ad9a5d9095",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "subagent-prompt",
   propertySlug: "subagent-prompt",
   definition: "what a subagent of one kind is told before its work is handed to it",

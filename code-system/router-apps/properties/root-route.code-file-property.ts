@@ -5,6 +5,7 @@ export type RootRoute = "tsx"
 export const rootRoute = {
   id: "01a063f3-c2ad-7357-b6ab-267960198089",
   pageTypeSlug: "code-file-property",
+  type: "code-file-property",
   slug: "root-route",
   propertySlug: "root-route",
   definition: "the route every other route renders inside",

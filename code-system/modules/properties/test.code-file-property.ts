@@ -5,6 +5,7 @@ export type Test = "ts" | "tsx"
 export const test = {
   id: "01a04a2e-7e3e-7000-acbe-3a33ab105ce0",
   pageTypeSlug: "code-file-property",
+  type: "code-file-property",
   slug: "test",
   propertySlug: "test",
   definition: "what proves a page's code",

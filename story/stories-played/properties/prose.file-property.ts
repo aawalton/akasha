@@ -5,6 +5,7 @@ export type Prose = "txt"
 export const prose = {
   id: "01a06424-329c-73d2-a881-67d728085a28",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "prose",
   propertySlug: "prose",
   definition: "the text a page carries, however long the text runs",

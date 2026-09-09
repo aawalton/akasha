@@ -5,6 +5,7 @@ export type AppLayout = "tsx"
 export const appLayout = {
   id: "01a07917-b971-76f3-8ada-fc17be46e258",
   pageTypeSlug: "code-file-property",
+  type: "code-file-property",
   slug: "app-layout",
   propertySlug: "app-layout",
   definition: "the route a signed-in reader's routes render inside",

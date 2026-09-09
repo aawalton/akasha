@@ -5,6 +5,7 @@ export type Entries = "jsonl"
 export const entries = {
   id: "01a06dc1-5cd2-7bc0-b943-c68e1d872c39",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "entries",
   propertySlug: "entries",
   definition: "what each run of a check cost, one line appended as that run ends",

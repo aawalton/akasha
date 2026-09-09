@@ -5,6 +5,7 @@ export type HarnessSettings = "json"
 export const harnessSettings = {
   id: "01a0657b-ad40-7560-a9d3-d510dfab3cf8",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "harness-settings",
   propertySlug: "harness-settings",
   definition: "what an agent harness is told before the harness starts",

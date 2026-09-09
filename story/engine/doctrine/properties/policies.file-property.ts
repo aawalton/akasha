@@ -5,6 +5,7 @@ export type Policies = "json"
 export const policies = {
   id: "01a06590-c57a-759d-9dcc-73c83dba1a1a",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "policies",
   propertySlug: "policies",
   definition: "the rulings a game master applies, each named and versioned",

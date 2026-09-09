@@ -5,6 +5,7 @@ export type DesktopWallpaper = "png"
 export const desktopWallpaper = {
   id: "01a07861-ccaa-7c89-8461-ecbc1ac81264",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "desktop-wallpaper",
   propertySlug: "desktop-wallpaper",
   definition: "the picture a persona is shown as on Alan's monitor",

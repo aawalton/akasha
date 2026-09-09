@@ -5,6 +5,7 @@ export type ModelManifest = "json"
 export const modelManifest = {
   id: "01a06d3b-743f-7cf0-8f82-5c0f41cfeaf0",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "model-manifest",
   propertySlug: "model-manifest",
   definition: "what a trained parser says about itself",

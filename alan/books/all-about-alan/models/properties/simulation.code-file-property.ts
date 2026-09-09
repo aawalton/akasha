@@ -5,6 +5,7 @@ export type Simulation = "py"
 export const simulation = {
   id: "01a0657f-a729-7667-bb50-f50d5da51399",
   pageTypeSlug: "code-file-property",
+  type: "code-file-property",
   slug: "simulation",
   propertySlug: "simulation",
   definition: "the computation a model is, written in Python",

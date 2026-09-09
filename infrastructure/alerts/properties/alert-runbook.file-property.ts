@@ -5,6 +5,7 @@ export type AlertRunbook = "txt"
 export const alertRunbook = {
   id: "01a06755-0778-7275-8076-4aec6002693b",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "alert-runbook",
   propertySlug: "runbook",
   definition: "what to check once an alert is raised",

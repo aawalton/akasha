@@ -5,6 +5,7 @@ export type Appearance = "md"
 export const appearance = {
   id: "01a0658c-fbfe-7000-a50a-efaa762bf9d7",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "appearance",
   propertySlug: "appearance",
   definition: "what a persona looks like, written in her own voice",

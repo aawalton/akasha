@@ -5,6 +5,7 @@ export type Writing = "md"
 export const writing = {
   id: "01a0657d-b91d-7400-8d2e-61275a1db1c9",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "writing",
   propertySlug: "writing",
   definition: "the markdown a page carries, however long the markdown runs",

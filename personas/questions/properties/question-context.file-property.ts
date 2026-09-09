@@ -5,6 +5,7 @@ export type QuestionContext = "txt"
 export const questionContext = {
   id: "01a06823-89b2-7008-be90-ba24ce4e692b",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "question-context",
   propertySlug: "context",
   definition: "what the persona set out around a question so Alan could answer it",

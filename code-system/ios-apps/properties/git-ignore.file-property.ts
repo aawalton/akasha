@@ -5,6 +5,7 @@ export type GitIgnore = "gitignore"
 export const gitIgnore = {
   id: "01a0591d-e23c-76ca-8764-552fd305e707",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "git-ignore",
   propertySlug: "git-ignore",
   definition: "what a build leaves behind that git does not keep",

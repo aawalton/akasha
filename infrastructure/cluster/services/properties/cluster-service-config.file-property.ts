@@ -5,6 +5,7 @@ export type ClusterServiceConfig = "yaml"
 export const clusterServiceConfig = {
   id: "01a07c92-3daf-72f1-8010-749415723ba4",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "cluster-service-config",
   propertySlug: "config",
   definition: "the settings a workload's own program reads",

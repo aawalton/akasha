@@ -5,6 +5,7 @@ export type ComponentTest = "tsx"
 export const componentTest = {
   id: "01a071cb-913e-712f-ae34-97ed4fde93c2",
   pageTypeSlug: "code-file-property",
+  type: "code-file-property",
   slug: "component-test",
   propertySlug: "test",
   definition: "what proves a component's code",

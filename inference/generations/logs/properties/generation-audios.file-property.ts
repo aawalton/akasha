@@ -5,6 +5,7 @@ export type GenerationAudios = "jsonl"
 export const generationAudios = {
   id: "01a0685d-b81f-7b18-83d0-35da71ba6877",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "generation-audios",
   propertySlug: "audios",
   definition: "every sound the runs in this log have made",

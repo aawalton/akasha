@@ -5,6 +5,7 @@ export type ParserWeights = "onnx"
 export const parserWeights = {
   id: "01a06d3b-743e-7a19-bfa1-9abb1cb17381",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "parser-weights",
   propertySlug: "parser-weights",
   definition: "the trained graph saying which word a word hangs off",

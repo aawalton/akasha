@@ -5,6 +5,7 @@ export type AmbientTypes = "ts"
 export const ambientTypes = {
   id: "01a0605a-98f3-7ddc-b839-afde87fe7bbf",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "ambient-types",
   propertySlug: "d",
   definition: "the types a page declares for a compiler to read",

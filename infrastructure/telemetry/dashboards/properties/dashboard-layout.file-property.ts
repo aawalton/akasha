@@ -5,6 +5,7 @@ export type DashboardLayout = "json"
 export const dashboardLayout = {
   id: "01a07c67-99f2-750d-ba7b-7eb5c1950ed1",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "dashboard-layout",
   propertySlug: "layout",
   definition: "the panels and queries a dashboard draws",

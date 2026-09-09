@@ -5,6 +5,7 @@ export type ComponentCode = "tsx"
 export const componentCode = {
   id: "01a071cb-913e-7640-a55f-ecae5999419f",
   pageTypeSlug: "code-file-property",
+  type: "code-file-property",
   slug: "component-code",
   propertySlug: "code",
   definition: "the code a component is",

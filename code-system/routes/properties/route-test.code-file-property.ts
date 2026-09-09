@@ -5,6 +5,7 @@ export type RouteTest = "ts" | "tsx"
 export const routeTest = {
   id: "01a071dc-83c6-7d33-b8f1-64b3986f1f58",
   pageTypeSlug: "code-file-property",
+  type: "code-file-property",
   slug: "route-test",
   propertySlug: "test",
   definition: "what proves a route's code",

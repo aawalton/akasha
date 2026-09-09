@@ -5,6 +5,7 @@ export type Types = "ts"
 export const types = {
   id: "01a0879f-af02-7fcb-8c36-cd34429f89ab",
   pageTypeSlug: "file-property",
+  type: "file-property",
   slug: "types",
   propertySlug: "types",
   definition: "the type with a page type's stored keys beside its calculations",
