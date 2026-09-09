@@ -6,9 +6,9 @@ import {
   answering,
   type Given,
 } from "../../../command-system/calling/calling.module.code.ts"
-import { FILE_PATH } from "../../../command-system/command-flags/command-flags.module.code.ts"
 import { saidBy } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
 import { offRepo, pathAt } from "../../../command-system/said-pathing/said-pathing.module.code.ts"
+import { FILE_PATH } from "../../modules/command-flags/command-flags.module.code.ts"
 import { bodyAt } from "../../modules/commit-reading/commit-reading.module.code.ts"
 
 const HEAD = "HEAD"

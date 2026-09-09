@@ -18,7 +18,6 @@
     "./command-answering": "./command-answering/command-answering.module.code.ts",
     "./command-filling": "./command-filling/command-filling.module.code.ts",
     "./command-declaring": "./command-declaring/command-declaring.module.code.ts",
-    "./command-flags": "./command-flags/command-flags.module.code.ts",
     "./drafting": "./drafting/drafting.module.code.ts",
     "./during-call": "./during-call/during-call.module.code.ts",
     "./edits-landing": "./edits-landing/edits-landing.module.code.ts",
