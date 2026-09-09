@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperLostTreasure = {
   id: "01a06141-8003-755d-8ec8-3764b298f7ef",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-lost-treasure",
   definition:
     "the buried treasure a map or a survey report points to, drawn where the player must dig",

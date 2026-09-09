@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperLuaRunner = {
   id: "01a06059-248e-7afb-9115-253f8636048f",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-lua-runner",
   definition: "a Lua 5.1 interpreter kept alive in a subprocess and talked to over a pipe",
   parts: [

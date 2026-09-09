@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperCharactersStats = {
   id: "01a0612f-aae6-7c1d-a590-b3004241a082",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-characters-stats",
   definition: "the character stats an Elder Scrolls Online build is measured by",
   parts: [

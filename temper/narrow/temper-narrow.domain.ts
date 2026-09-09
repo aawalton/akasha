@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperNarrow = {
   id: "01a060b6-99a1-7f39-a4b3-1a7f8d33b445",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-narrow",
   definition: "the narrowings add-on code needs that only the game's own Lua can do",
   parts: ["module/require-numeric-key"],

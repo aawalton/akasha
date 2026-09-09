@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperSavedVariables = {
   id: "01a06053-3633-77f0-8acd-df36807c5f6c",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-saved-variables",
   definition: "the Lua file the game writes an add-on's own state into",
   parts: ["module/lua-parser", "module/lua-serializer", "module/account-wide", "module/lua-array"],

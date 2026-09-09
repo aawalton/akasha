@@ -3,6 +3,7 @@ import type { Domain } from "../domains/domain.page-type.ts"
 export const quote = {
   id: "01a06815-ceaf-7d64-bb5e-3b8a0ff93c0f",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "quote",
   definition: "a link whose text sits in the document it names",
   invariants: [

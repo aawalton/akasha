@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperShopping = {
   id: "01a060cf-b0ae-749c-8084-93aa1e9a4247",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-shopping",
   definition: "which guild trader listings to buy and how few kiosks that takes",
   parts: [

@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperCatalog = {
   id: "01a05fac-7580-7d88-a660-0f4eff1ab95e",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-catalog",
   definition: "what The Elder Scrolls Online itself has, mirrored",
   pluralSlug: "temper-catalogs",

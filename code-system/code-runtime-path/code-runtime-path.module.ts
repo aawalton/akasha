@@ -3,6 +3,7 @@ import type { Module } from "../modules/module.page-type.ts"
 export const codeRuntimePath = {
   id: "01a06558-3a63-7eb3-af7c-3a1c913d02c1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "code-runtime-path",
   definition:
     "a body rewritten so the paths it builds off its own directory follow the files that moved",

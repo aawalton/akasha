@@ -3,6 +3,7 @@ import type { Module } from "../modules/module.page-type.ts"
 export const codePathBetween = {
   id: "01a06558-3a62-7fa9-90c6-0d6dc35875f0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "code-path-between",
   definition:
     "the folder a path sits in, the way from one folder to a path, and where a href lands",

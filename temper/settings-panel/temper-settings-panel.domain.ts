@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperSettingsPanel = {
   id: "01a06053-3636-7e00-b329-e1ac77ae851e",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-settings-panel",
   definition: "the settings an add-on shows in the game's own add-on menu",
   parts: ["module/build-lookup", "module/dropdown", "module/header", "module/register-panel"],

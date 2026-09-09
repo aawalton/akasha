@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperLorebooks = {
   id: "01a06176-9c44-7c00-8a3b-7cf902e62430",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-lorebooks",
   definition:
     "the lore books of Tamriel, drawn where a player must go to read one they have not read",

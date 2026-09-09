@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperCharacterSkills = {
   id: "01a0617a-2c72-7654-ad18-45a07d7e27ca",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-character-skills",
   definition: "the skills an Elder Scrolls Online character learns, slots and scribes",
   parts: [

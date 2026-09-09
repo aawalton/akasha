@@ -3,6 +3,7 @@ import type { Module } from "../modules/module.page-type.ts"
 export const codeSource = {
   id: "01a05026-bc17-76c6-8a84-242b988bdd57",
   pageTypeSlug: "module",
+  type: "module",
   slug: "code-source",
   definition: "a body read as TypeScript, and where in that reading a thing is",
   code: "ts",

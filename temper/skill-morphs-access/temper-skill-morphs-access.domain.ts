@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperSkillMorphsAccess = {
   id: "01a061e2-5e38-795d-b1f0-b50d142c48d5",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-skill-morphs-access",
   definition: "the morph progress a saved completion row carries",
   parts: [

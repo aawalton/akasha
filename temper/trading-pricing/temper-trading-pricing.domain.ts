@@ -3,6 +3,7 @@ import type { Domain } from "../../domains/domain.page-type.ts"
 export const temperTradingPricing = {
   id: "01a0609b-e59c-7c6b-906c-4ab055fc9039",
   pageTypeSlug: "domain",
+  type: "domain",
   slug: "temper-trading-pricing",
   definition: "what Tamriel Trade Centre last saw an item sell for",
   parts: [
