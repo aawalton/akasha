@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0650InterludeLucySchoolDaysPartThree =
   story: "stray-cat-strut-stubbing-never-lol",
   position: 650,
   ownLength: 1455,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2246122/interlude-lucy-school-days-part-three",

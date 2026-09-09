@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0670StrayCatStrutCrossoverFanficContes
   story: "stray-cat-strut-stubbing-never-lol",
   position: 670,
   ownLength: 236,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2401308/stray-cat-strut-crossover-fanfic-contest",

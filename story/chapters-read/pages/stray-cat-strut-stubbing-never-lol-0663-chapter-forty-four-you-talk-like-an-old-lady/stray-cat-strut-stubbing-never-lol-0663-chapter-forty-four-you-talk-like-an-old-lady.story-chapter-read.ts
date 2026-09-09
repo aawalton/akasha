@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0663ChapterFortyFourYouTalkLikeAnOldLa
   story: "stray-cat-strut-stubbing-never-lol",
   position: 663,
   ownLength: 1538,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2345076/chapter-forty-four-you-talk-like-an-old-lady",

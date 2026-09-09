@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0579ChapterSixtyOneLightsCameraBullshi
   story: "stray-cat-strut-stubbing-never-lol",
   position: 579,
   ownLength: 1523,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1833609/chapter-sixty-one-lights-camera-bullshit",

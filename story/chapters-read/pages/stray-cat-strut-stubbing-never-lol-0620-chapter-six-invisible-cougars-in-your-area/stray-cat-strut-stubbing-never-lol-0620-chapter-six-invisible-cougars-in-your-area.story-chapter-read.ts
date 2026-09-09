@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0620ChapterSixInvisibleCougarsInYourAr
   story: "stray-cat-strut-stubbing-never-lol",
   position: 620,
   ownLength: 1511,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2051400/chapter-six-invisible-cougars-in-your-area",

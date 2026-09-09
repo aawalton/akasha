@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0468ChapterFiftyFourItsFunToPlayWithTh
   story: "stray-cat-strut-stubbing-never-lol",
   position: 468,
   ownLength: 1489,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1450422/chapter-fifty-four-its-fun-to-play-with-the-pmc",

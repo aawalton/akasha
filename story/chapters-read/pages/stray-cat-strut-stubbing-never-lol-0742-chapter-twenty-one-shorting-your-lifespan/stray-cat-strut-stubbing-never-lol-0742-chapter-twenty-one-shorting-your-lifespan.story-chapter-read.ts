@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0742ChapterTwentyOneShortingYourLifesp
   story: "stray-cat-strut-stubbing-never-lol",
   position: 742,
   ownLength: 1473,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3248676/chapter-twenty-one-shorting-your-lifespan",

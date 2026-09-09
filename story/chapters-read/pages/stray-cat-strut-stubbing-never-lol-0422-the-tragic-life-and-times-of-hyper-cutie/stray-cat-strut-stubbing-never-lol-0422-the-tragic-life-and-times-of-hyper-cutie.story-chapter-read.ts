@@ -9,7 +9,7 @@ export const strayCatStrutStubbingNeverLol0422TheTragicLifeAndTimesOfHyperCutie 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 422,
   ownLength: 1546,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1340716/the-tragic-life-and-times-of-hyper-cutie-bubblechan",

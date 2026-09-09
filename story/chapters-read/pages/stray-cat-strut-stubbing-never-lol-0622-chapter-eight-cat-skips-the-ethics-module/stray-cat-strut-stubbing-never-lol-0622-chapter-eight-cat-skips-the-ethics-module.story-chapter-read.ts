@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0622ChapterEightCatSkipsTheEthicsModul
   story: "stray-cat-strut-stubbing-never-lol",
   position: 622,
   ownLength: 1532,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2065162/chapter-eight-cat-skips-the-ethics-module",

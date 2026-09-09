@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0438InterludeARoamingRaccoonsReasonabl
   story: "stray-cat-strut-stubbing-never-lol",
   position: 438,
   ownLength: 1507,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1379374/interlude-a-roaming-raccoons-reasonable-relationships",

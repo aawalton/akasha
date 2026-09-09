@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0564InterludeTheSamuraisSamurai = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 564,
   ownLength: 1347,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1767306/interlude-the-samurais-samurai",

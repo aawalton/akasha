@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0698ChapterSeventyOneThisActionWillHav
   story: "stray-cat-strut-stubbing-never-lol",
   position: 698,
   ownLength: 1483,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2603059/chapter-seventy-one-this-action-will-have-consequences",

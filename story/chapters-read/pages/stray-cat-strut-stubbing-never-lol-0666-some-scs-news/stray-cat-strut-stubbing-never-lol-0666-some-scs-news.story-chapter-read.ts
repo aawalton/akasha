@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0666SomeScsNews = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 666,
   ownLength: 969,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2381977/some-scs-news",

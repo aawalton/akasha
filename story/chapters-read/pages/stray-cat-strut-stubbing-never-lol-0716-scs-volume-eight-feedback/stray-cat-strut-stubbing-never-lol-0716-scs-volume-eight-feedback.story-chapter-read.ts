@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0716ScsVolumeEightFeedback = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 716,
   ownLength: 135,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2720573/scs-volume-eight-feedback",

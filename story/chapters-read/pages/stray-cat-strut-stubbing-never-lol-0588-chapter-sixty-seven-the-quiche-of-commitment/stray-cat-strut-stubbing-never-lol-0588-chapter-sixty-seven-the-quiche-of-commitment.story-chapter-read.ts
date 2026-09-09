@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0588ChapterSixtySevenTheQuicheOfCommit
   story: "stray-cat-strut-stubbing-never-lol",
   position: 588,
   ownLength: 1769,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1878687/chapter-sixty-seven-the-quiche-of-commitment",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0625ChapterNineSweetSchemesAreMadeOfTh
   story: "stray-cat-strut-stubbing-never-lol",
   position: 625,
   ownLength: 1451,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2079638/chapter-nine-sweet-schemes-are-made-of-this",

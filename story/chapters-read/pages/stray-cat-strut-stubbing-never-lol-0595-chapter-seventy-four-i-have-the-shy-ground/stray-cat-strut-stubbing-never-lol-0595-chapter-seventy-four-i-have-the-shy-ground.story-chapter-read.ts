@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0595ChapterSeventyFourIHaveTheShyGroun
   story: "stray-cat-strut-stubbing-never-lol",
   position: 595,
   ownLength: 1479,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1926056/chapter-seventy-four-i-have-the-shy-ground",

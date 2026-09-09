@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0675ChapterFiftyThreeWarCrimeWaifu = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 675,
   ownLength: 1442,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2437244/chapter-fifty-three-war-crime-waifu",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0582InterludeStayAtHomePrManagergf = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 582,
   ownLength: 1448,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1845621/interlude-stay-at-home-pr-managergf",

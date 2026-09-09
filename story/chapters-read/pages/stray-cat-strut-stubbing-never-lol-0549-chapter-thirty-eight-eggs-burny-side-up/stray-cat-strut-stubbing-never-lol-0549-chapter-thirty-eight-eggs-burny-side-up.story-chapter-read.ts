@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0549ChapterThirtyEightEggsBurnySideUp 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 549,
   ownLength: 1531,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1711247/chapter-thirty-eight-eggs-burny-side-up",

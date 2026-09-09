@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0631ChapterFifteenImNotWiserJustOlder 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 631,
   ownLength: 1564,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2120501/chapter-fifteen-im-not-wiser-just-older",

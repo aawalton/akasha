@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0637ChapterTwentyOneBabysittingTheNuke
   story: "stray-cat-strut-stubbing-never-lol",
   position: 637,
   ownLength: 1507,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2164262/chapter-twenty-one-babysitting-the-nukes",

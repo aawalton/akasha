@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0644ChapterTwentySevenPostTraumaticSam
   story: "stray-cat-strut-stubbing-never-lol",
   position: 644,
   ownLength: 1532,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2204338/chapter-twenty-seven-post-traumatic-samurai-disorder",

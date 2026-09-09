@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0419ChapterTwentyFiveCottagecoreSamura
   story: "stray-cat-strut-stubbing-never-lol",
   position: 419,
   ownLength: 1497,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1328152/chapter-twenty-five-cottagecore-samurai-power-couple",

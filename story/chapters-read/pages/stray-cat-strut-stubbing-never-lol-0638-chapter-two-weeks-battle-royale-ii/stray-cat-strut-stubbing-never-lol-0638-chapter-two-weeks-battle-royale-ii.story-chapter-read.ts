@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0638ChapterTwoWeeksBattleRoyaleIi = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 638,
   ownLength: 979,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2166299/chapter-two-weeks-battle-royale-ii",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0540ChapterThirtyThreeTheArtOfBeingFas
   story: "stray-cat-strut-stubbing-never-lol",
   position: 540,
   ownLength: 1524,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1675184/chapter-thirty-three-the-art-of-being-fashionably",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0488ChapterSixtySixPeanutButterAndLesb
   story: "stray-cat-strut-stubbing-never-lol",
   position: 488,
   ownLength: 1417,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1500209/chapter-sixty-six-peanut-butter-and-lesbian-time",

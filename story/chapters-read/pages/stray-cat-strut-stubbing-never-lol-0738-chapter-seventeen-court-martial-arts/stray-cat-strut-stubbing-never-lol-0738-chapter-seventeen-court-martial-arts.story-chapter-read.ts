@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0738ChapterSeventeenCourtMartialArts =
   story: "stray-cat-strut-stubbing-never-lol",
   position: 738,
   ownLength: 1504,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3167225/chapter-seventeen-court-martial-arts",

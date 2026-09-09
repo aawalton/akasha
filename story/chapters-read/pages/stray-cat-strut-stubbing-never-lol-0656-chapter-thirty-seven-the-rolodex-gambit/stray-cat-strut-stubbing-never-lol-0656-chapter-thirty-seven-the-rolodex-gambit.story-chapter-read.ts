@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0656ChapterThirtySevenTheRolodexGambit
   story: "stray-cat-strut-stubbing-never-lol",
   position: 656,
   ownLength: 1494,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2282095/chapter-thirty-seven-the-rolodex-gambit",

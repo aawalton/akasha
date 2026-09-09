@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0727ChapterEightPreemptiveBitching = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 727,
   ownLength: 1487,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2965282/chapter-eight-preemptive-bitching",

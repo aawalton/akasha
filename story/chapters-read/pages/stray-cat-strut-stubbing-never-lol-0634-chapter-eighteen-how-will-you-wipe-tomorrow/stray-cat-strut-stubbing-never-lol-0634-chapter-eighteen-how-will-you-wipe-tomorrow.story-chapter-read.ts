@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0634ChapterEighteenHowWillYouWipeTomor
   story: "stray-cat-strut-stubbing-never-lol",
   position: 634,
   ownLength: 1508,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2139343/chapter-eighteen-how-will-you-wipe-tomorrow",

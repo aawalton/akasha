@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0640ChapterTwentyThreeHikikomoriWithAS
   story: "stray-cat-strut-stubbing-never-lol",
   position: 640,
   ownLength: 1548,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2175019/chapter-twenty-three-hikikomori-with-a-shotgun",

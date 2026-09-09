@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0473MissGrasshopperChapterOne = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 473,
   ownLength: 1643,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1458071/miss-grasshopper-chapter-one",

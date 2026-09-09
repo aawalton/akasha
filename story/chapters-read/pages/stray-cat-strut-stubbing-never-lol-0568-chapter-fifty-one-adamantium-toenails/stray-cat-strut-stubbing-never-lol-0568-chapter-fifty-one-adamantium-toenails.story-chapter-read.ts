@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0568ChapterFiftyOneAdamantiumToenails 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 568,
   ownLength: 1470,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1780099/chapter-fifty-one-adamantium-toenails",

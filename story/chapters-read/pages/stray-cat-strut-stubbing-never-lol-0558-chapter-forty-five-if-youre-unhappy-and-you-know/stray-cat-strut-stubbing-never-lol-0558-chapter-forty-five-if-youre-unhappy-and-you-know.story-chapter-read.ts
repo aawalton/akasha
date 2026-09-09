@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0558ChapterFortyFiveIfYoureUnhappyAndY
   story: "stray-cat-strut-stubbing-never-lol",
   position: 558,
   ownLength: 1525,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1740985/chapter-forty-five-if-youre-unhappy-and-you-know",

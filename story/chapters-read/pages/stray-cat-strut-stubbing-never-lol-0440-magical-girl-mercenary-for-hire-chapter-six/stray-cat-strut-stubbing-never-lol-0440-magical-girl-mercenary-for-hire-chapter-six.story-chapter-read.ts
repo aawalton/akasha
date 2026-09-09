@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0440MagicalGirlMercenaryForHireChapter
   story: "stray-cat-strut-stubbing-never-lol",
   position: 440,
   ownLength: 1442,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1384650/magical-girl-mercenary-for-hire-chapter-six",

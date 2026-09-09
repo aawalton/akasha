@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0753ChapterThirtyGoingDownGenevasCheck
   story: "stray-cat-strut-stubbing-never-lol",
   position: 753,
   ownLength: 1541,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3420208/chapter-thirty-going-down-genevas-checklist",

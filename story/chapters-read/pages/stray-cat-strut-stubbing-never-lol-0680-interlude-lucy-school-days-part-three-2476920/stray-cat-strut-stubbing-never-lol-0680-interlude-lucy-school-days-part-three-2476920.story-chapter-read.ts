@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0680InterludeLucySchoolDaysPartThree24
   story: "stray-cat-strut-stubbing-never-lol",
   position: 680,
   ownLength: 1663,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2476920/interlude-lucy-school-days-part-three",

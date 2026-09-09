@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0457ChapterFortyEightRecreationalRespi
   story: "stray-cat-strut-stubbing-never-lol",
   position: 457,
   ownLength: 1464,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1427542/chapter-forty-eight-recreational-respiratory-deterioration",

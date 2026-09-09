@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0526ChapterTwentyThreeDrMyalisMedicine
   story: "stray-cat-strut-stubbing-never-lol",
   position: 526,
   ownLength: 1499,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1629397/chapter-twenty-three-dr-myalis-medicine-ai",

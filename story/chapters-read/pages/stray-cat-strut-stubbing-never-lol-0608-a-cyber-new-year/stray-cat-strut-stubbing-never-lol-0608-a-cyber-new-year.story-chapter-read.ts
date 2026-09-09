@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0608ACyberNewYear = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 608,
   ownLength: 2225,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1984426/a-cyber-new-year",

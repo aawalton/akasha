@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0616ChapterThreeElectivesInFutureTribu
   story: "stray-cat-strut-stubbing-never-lol",
   position: 616,
   ownLength: 1478,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2026502/chapter-three-electives-in-future-tribulations",

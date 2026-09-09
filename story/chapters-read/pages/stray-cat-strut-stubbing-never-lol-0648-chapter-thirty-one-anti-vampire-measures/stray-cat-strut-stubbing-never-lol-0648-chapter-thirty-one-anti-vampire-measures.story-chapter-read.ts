@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0648ChapterThirtyOneAntiVampireMeasure
   story: "stray-cat-strut-stubbing-never-lol",
   position: 648,
   ownLength: 1527,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2231809/chapter-thirty-one-anti-vampire-measures",

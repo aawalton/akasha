@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0700ChapterSeventyThreeIHaveBeenArtifi
   story: "stray-cat-strut-stubbing-never-lol",
   position: 700,
   ownLength: 1530,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2610440/chapter-seventy-three-i-have-been-artificial-before",

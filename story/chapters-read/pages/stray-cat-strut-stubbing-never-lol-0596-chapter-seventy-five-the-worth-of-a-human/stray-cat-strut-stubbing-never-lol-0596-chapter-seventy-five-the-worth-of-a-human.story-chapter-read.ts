@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0596ChapterSeventyFiveTheWorthOfAHuman
   story: "stray-cat-strut-stubbing-never-lol",
   position: 596,
   ownLength: 1582,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1929255/chapter-seventy-five-the-worth-of-a-human",

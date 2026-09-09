@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0704ChapterSeventySixMaximumClonage = 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 704,
   ownLength: 1481,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2646545/chapter-seventy-six-maximum-clonage",

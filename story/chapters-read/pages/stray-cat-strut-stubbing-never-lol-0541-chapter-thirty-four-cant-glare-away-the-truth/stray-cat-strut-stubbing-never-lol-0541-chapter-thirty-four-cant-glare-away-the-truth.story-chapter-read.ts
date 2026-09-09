@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0541ChapterThirtyFourCantGlareAwayTheT
   story: "stray-cat-strut-stubbing-never-lol",
   position: 541,
   ownLength: 1522,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1682988/chapter-thirty-four-cant-glare-away-the-truth",

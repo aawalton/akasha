@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0464ChapterFiftyTwoCatNapWrap = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 464,
   ownLength: 1436,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1443517/chapter-fifty-two-cat-nap-wrap",

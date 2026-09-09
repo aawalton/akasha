@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0502ChapterFive105mmArmourPiercingFinS
   story: "stray-cat-strut-stubbing-never-lol",
   position: 502,
   ownLength: 1495,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1543269/chapter-five-105mm-armour-piercing-fin-stabilised",

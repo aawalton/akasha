@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0612ForewordByTheAuthor = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 612,
   ownLength: 545,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2009667/foreword-by-the-author",

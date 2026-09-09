@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0525ChapterTwentyTwoLazyPillowTalk = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 525,
   ownLength: 1472,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1627379/chapter-twenty-two-lazy-pillow-talk",

@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0574ChapterFiftySixLeBadSuck = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 574,
   ownLength: 1504,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1807791/chapter-fifty-six-le-bad-suck",

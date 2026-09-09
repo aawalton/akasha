@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0484ChapterSixtyThreeMealsRefusingExit
   story: "stray-cat-strut-stubbing-never-lol",
   position: 484,
   ownLength: 1467,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1486251/chapter-sixty-three-meals-refusing-exit",

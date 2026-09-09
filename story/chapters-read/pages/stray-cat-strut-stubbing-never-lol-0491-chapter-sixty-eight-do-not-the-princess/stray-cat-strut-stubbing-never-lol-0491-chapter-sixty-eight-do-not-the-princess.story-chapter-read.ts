@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0491ChapterSixtyEightDoNotThePrincess 
   story: "stray-cat-strut-stubbing-never-lol",
   position: 491,
   ownLength: 1555,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1508710/chapter-sixty-eight-do-not-the-princess",

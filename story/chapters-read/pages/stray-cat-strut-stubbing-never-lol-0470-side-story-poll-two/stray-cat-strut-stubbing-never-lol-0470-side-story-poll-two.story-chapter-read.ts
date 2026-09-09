@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0470SideStoryPollTwo = {
   story: "stray-cat-strut-stubbing-never-lol",
   position: 470,
   ownLength: 282,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1451326/side-story-poll-two",

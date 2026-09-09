@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0575ChapterFiftySevenInSpaceNoOneCanHe
   story: "stray-cat-strut-stubbing-never-lol",
   position: 575,
   ownLength: 1445,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1810356/chapter-fifty-seven-in-space-no-one-can-hear-you",

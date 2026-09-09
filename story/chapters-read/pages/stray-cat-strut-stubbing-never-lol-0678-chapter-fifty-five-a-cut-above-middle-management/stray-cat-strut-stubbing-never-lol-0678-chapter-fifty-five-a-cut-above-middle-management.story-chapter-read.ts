@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0678ChapterFiftyFiveACutAboveMiddleMan
   story: "stray-cat-strut-stubbing-never-lol",
   position: 678,
   ownLength: 1467,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2457545/chapter-fifty-five-a-cut-above-middle-management",

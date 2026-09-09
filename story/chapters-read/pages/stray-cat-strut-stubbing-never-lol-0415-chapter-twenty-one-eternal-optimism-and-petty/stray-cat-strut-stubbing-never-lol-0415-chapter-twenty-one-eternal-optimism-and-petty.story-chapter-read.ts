@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0415ChapterTwentyOneEternalOptimismAnd
   story: "stray-cat-strut-stubbing-never-lol",
   position: 415,
   ownLength: 1495,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1311382/chapter-twenty-one-eternal-optimism-and-petty",

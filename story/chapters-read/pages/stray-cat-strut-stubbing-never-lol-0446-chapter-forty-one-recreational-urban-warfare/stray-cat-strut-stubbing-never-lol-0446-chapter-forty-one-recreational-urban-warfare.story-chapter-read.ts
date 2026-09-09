@@ -8,7 +8,7 @@ export const strayCatStrutStubbingNeverLol0446ChapterFortyOneRecreationalUrbanWa
   story: "stray-cat-strut-stubbing-never-lol",
   position: 446,
   ownLength: 1468,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1400687/chapter-forty-one-recreational-urban-warfare",
