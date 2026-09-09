@@ -3,6 +3,7 @@ import type { ChangeGuard } from "../../change-guard.page-type.ts"
 export const importReachesAFile = {
   id: "01a07969-9122-7db9-ad3c-de58ab103a06",
   pageTypeSlug: "change-guard",
+  type: "change-guard",
   slug: "import-reaches-a-file",
   changeTargetType: "change-target-type/file-content",
   definition: "the guard refusing an answer whose written code names an import reaching no file",

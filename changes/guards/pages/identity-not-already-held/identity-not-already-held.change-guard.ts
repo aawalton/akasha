@@ -3,6 +3,7 @@ import type { ChangeGuard } from "../../change-guard.page-type.ts"
 export const identityNotAlreadyHeld = {
   id: "01a0797f-d415-717a-919e-cc0760a816fd",
   pageTypeSlug: "change-guard",
+  type: "change-guard",
   slug: "identity-not-already-held",
   changeTargetType: "change-target-type/file-content",
   definition: "the guard refusing an answer whose written page takes an identity another page has",

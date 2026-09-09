@@ -3,6 +3,7 @@ import type { ChangeGuard } from "../../change-guard.page-type.ts"
 export const fieldKeyNotCarriedTwice = {
   id: "01a07984-2e7f-7d7a-aee0-2708d063ae88",
   pageTypeSlug: "change-guard",
+  type: "change-guard",
   slug: "field-key-not-carried-twice",
   changeTargetType: "change-target-type/file-content",
   definition: "the guard refusing an answer whose written property has one key on two fields",

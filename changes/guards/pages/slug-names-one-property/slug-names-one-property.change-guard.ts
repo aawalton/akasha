@@ -3,6 +3,7 @@ import type { ChangeGuard } from "../../change-guard.page-type.ts"
 export const slugNamesOneProperty = {
   id: "01a087a8-1eb3-77b4-bc4e-82237084862d",
   pageTypeSlug: "change-guard",
+  type: "change-guard",
   slug: "slug-names-one-property",
   changeTargetType: "change-target-type/file-content",
   definition:

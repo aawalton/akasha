@@ -3,6 +3,7 @@ import type { ChangeGuard } from "../../change-guard.page-type.ts"
 export const pageTypeCarriesNoPages = {
   id: "01a0798b-75e5-74cb-96a6-d72e53dc5424",
   pageTypeSlug: "change-guard",
+  type: "change-guard",
   slug: "page-type-carries-no-pages",
   changeTargetType: "change-target-type/file-content",
   definition:

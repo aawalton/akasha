@@ -3,6 +3,7 @@ import type { ChangeGuard } from "../../change-guard.page-type.ts"
 export const generatedFileNotWritten = {
   id: "01a087ae-be91-76cb-aee3-043c099c6ea2",
   pageTypeSlug: "change-guard",
+  type: "change-guard",
   slug: "generated-file-not-written",
   changeTargetType: "change-target-type/file-content",
   definition: "the guard refusing a change to the content of a file a generated property has",

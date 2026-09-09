@@ -3,6 +3,7 @@ import type { ChangeGuard } from "../../change-guard.page-type.ts"
 export const importNotLeftHanging = {
   id: "01a07750-f2bd-7d2d-8ad4-0ebf57b8dd1f",
   pageTypeSlug: "change-guard",
+  type: "change-guard",
   slug: "import-not-left-hanging",
   changeTargetType: "change-target-type/file-content",
   definition: "the guard refusing an answer that takes a file away another file still imports",
