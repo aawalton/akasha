@@ -6,7 +6,7 @@ import type { CollectionTypeStatus } from "./properties/collection-type-status.s
 
 export type CollectionType = Page & {
   title: Title
-  unit?: CollectionUnit
+  unit: CollectionUnit
   collectionTypeStatus: CollectionTypeStatus
 }
 
@@ -20,7 +20,7 @@ export const collectionType = {
   parts: ["select-property/collection-type-status"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "relation-property/collection-unit", required: false, many: false },
+    { pageProperty: "relation-property/collection-unit", required: true, many: false },
     { pageProperty: "select-property/collection-type-status", required: true, many: false },
   ],
   invariants: [
