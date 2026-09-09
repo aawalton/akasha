@@ -16,7 +16,7 @@ import type { Written } from "./properties/written.text-property.ts"
 export type Song = CollectionExternal & {
   externalId: ExternalId
   title: Title
-  artist?: Artist
+  artist: Artist
   songType: SongType
   performed: Performed
   lyricsSource?: LyricsSource
@@ -50,7 +50,7 @@ export const song = {
   properties: [
     { pagePropertySlug: "text-property/external-id", required: true, many: false },
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/artist", required: false, many: false },
+    { pagePropertySlug: "relation-property/artist", required: true, many: false },
     { pagePropertySlug: "text-property/song-type", required: true, many: false },
     { pagePropertySlug: "boolean-property/performed", required: true, many: false },
     { pagePropertySlug: "text-property/lyrics-source", required: false, many: false },
