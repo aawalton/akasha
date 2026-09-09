@@ -5,7 +5,7 @@ export const digitalRemodel = {
   pageTypeSlug: "relationship-topic",
   slug: "digital-remodel",
   title: "Digital Remodel",
-  relationshipTopicParentSlug: "coordinate-on-family-projects",
+  relationshipTopicParent: "coordinate-on-family-projects",
   relationshipTopicSensitivity: "low",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

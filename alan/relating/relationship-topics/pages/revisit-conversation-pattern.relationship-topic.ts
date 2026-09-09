@@ -5,7 +5,7 @@ export const revisitConversationPattern = {
   pageTypeSlug: "relationship-topic",
   slug: "revisit-conversation-pattern",
   title: "Revisit Conversation Pattern",
-  relationshipTopicParentSlug: "rules-of-engagement",
+  relationshipTopicParent: "rules-of-engagement",
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "up-next",
 } as const satisfies RelationshipTopic

@@ -5,7 +5,7 @@ export const narrativesAboutJenDoingCollege = {
   pageTypeSlug: "relationship-topic",
   slug: "narratives-about-jen-doing-college",
   title: "Narratives About Jen Doing College",
-  relationshipTopicParentSlug: "narratives",
+  relationshipTopicParent: "narratives",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",

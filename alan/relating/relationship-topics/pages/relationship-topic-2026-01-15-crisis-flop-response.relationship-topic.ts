@@ -5,7 +5,7 @@ export const relationshipTopic20260115CrisisFlopResponse = {
   pageTypeSlug: "relationship-topic",
   slug: "relationship-topic-2026-01-15-crisis-flop-response",
   title: "2026-01-15 Crisis Flop Response",
-  relationshipTopicParentSlug: "expectations-for-2026",
+  relationshipTopicParent: "expectations-for-2026",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "done",
 } as const satisfies RelationshipTopic

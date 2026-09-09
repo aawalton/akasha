@@ -5,7 +5,7 @@ export const loadAudit = {
   pageTypeSlug: "relationship-topic",
   slug: "load-audit",
   title: "Load Audit",
-  relationshipTopicParentSlug: "being-intentional",
+  relationshipTopicParent: "being-intentional",
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

@@ -5,7 +5,7 @@ export const ritualsAudit = {
   pageTypeSlug: "relationship-topic",
   slug: "rituals-audit",
   title: "Rituals Audit",
-  relationshipTopicParentSlug: "being-intentional",
+  relationshipTopicParent: "being-intentional",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "someday-maybe",

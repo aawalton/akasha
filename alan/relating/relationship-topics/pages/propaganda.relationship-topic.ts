@@ -5,7 +5,7 @@ export const propaganda = {
   pageTypeSlug: "relationship-topic",
   slug: "propaganda",
   title: "Propaganda",
-  relationshipTopicParentSlug: "shared",
+  relationshipTopicParent: "shared",
   relationshipTopicSensitivity: "critical",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

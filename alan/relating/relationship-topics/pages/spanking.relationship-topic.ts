@@ -5,7 +5,7 @@ export const spanking = {
   pageTypeSlug: "relationship-topic",
   slug: "spanking",
   title: "Spanking",
-  relationshipTopicParentSlug: "general",
+  relationshipTopicParent: "general",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

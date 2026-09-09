@@ -5,7 +5,7 @@ export const safetyAsAResourceBar = {
   pageTypeSlug: "relationship-topic",
   slug: "safety-as-a-resource-bar",
   title: "Safety As A Resource Bar",
-  relationshipTopicParentSlug: "alan-feeling-safe",
+  relationshipTopicParent: "alan-feeling-safe",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "done",
 } as const satisfies RelationshipTopic

@@ -5,7 +5,7 @@ export const financesBudget = {
   pageTypeSlug: "relationship-topic",
   slug: "finances-budget",
   title: "Finances / Budget",
-  relationshipTopicParentSlug: "family-values-culture-and-vision",
+  relationshipTopicParent: "family-values-culture-and-vision",
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

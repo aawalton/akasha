@@ -5,7 +5,7 @@ export const ideasForActivities = {
   pageTypeSlug: "relationship-topic",
   slug: "ideas-for-activities",
   title: "Ideas For Activities",
-  relationshipTopicParentSlug: "being-intentional",
+  relationshipTopicParent: "being-intentional",
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

@@ -5,7 +5,7 @@ export const valuesAlignment = {
   pageTypeSlug: "relationship-topic",
   slug: "values-alignment",
   title: "Values Alignment",
-  relationshipTopicParentSlug: "family-values-culture-and-vision",
+  relationshipTopicParent: "family-values-culture-and-vision",
   relationshipTopicSensitivity: "critical",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

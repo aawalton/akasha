@@ -5,7 +5,7 @@ export const mechanicsOfVagalToneAndNervousSystemDamage = {
   pageTypeSlug: "relationship-topic",
   slug: "mechanics-of-vagal-tone-and-nervous-system-damage",
   title: "Mechanics Of Vagal Tone And Nervous System Damage",
-  relationshipTopicParentSlug: "mental-models",
+  relationshipTopicParent: "mental-models",
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

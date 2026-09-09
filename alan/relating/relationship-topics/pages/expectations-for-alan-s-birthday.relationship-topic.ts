@@ -5,7 +5,7 @@ export const expectationsForAlanSBirthday = {
   pageTypeSlug: "relationship-topic",
   slug: "expectations-for-alan-s-birthday",
   title: "Expectations For Alan’s Birthday",
-  relationshipTopicParentSlug: "expectations-for-2026",
+  relationshipTopicParent: "expectations-for-2026",
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "up-next",
 } as const satisfies RelationshipTopic

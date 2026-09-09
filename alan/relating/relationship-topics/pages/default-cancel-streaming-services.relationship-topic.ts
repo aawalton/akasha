@@ -5,7 +5,7 @@ export const defaultCancelStreamingServices = {
   pageTypeSlug: "relationship-topic",
   slug: "default-cancel-streaming-services",
   title: "Default Cancel Streaming Services",
-  relationshipTopicParentSlug: "coordinate-on-family-projects",
+  relationshipTopicParent: "coordinate-on-family-projects",
   relationshipTopicSensitivity: "low",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

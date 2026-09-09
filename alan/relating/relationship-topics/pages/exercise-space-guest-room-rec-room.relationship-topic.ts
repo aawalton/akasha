@@ -5,7 +5,7 @@ export const exerciseSpaceGuestRoomRecRoom = {
   pageTypeSlug: "relationship-topic",
   slug: "exercise-space-guest-room-rec-room",
   title: "Exercise Space / Guest Room / Rec Room",
-  relationshipTopicParentSlug: "long-term-vision-for-our-home",
+  relationshipTopicParent: "long-term-vision-for-our-home",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",

@@ -5,7 +5,7 @@ export const newYearRoomSwap = {
   pageTypeSlug: "relationship-topic",
   slug: "new-year-room-swap",
   title: "New Year Room Swap",
-  relationshipTopicParentSlug: "coordinate-on-family-projects",
+  relationshipTopicParent: "coordinate-on-family-projects",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

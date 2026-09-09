@@ -5,7 +5,7 @@ export const traumaResponses = {
   pageTypeSlug: "relationship-topic",
   slug: "trauma-responses",
   title: "Trauma Responses",
-  relationshipTopicParentSlug: "alan",
+  relationshipTopicParent: "alan",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "critical",
   relationshipTopicStatus: "someday-maybe",

@@ -5,7 +5,7 @@ export const rateLimitHardConversations = {
   pageTypeSlug: "relationship-topic",
   slug: "rate-limit-hard-conversations",
   title: "Rate Limit Hard Conversations",
-  relationshipTopicParentSlug: "reducing-jen-s-load-in-2026",
+  relationshipTopicParent: "reducing-jen-s-load-in-2026",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

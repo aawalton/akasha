@@ -5,7 +5,7 @@ export const parenting = {
   pageTypeSlug: "relationship-topic",
   slug: "parenting",
   title: "Parenting",
-  relationshipTopicParentSlug: "family-values-culture-and-vision",
+  relationshipTopicParent: "family-values-culture-and-vision",
   relationshipTopicSensitivity: "critical",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

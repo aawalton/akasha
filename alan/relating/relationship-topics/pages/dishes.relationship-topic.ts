@@ -5,7 +5,7 @@ export const dishes = {
   pageTypeSlug: "relationship-topic",
   slug: "dishes",
   title: "Dishes",
-  relationshipTopicParentSlug: "increase-support-from-alan",
+  relationshipTopicParent: "increase-support-from-alan",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "medium",
   relationshipTopicStatus: "planned",

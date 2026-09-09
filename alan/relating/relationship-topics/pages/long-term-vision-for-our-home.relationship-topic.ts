@@ -5,7 +5,7 @@ export const longTermVisionForOurHome = {
   pageTypeSlug: "relationship-topic",
   slug: "long-term-vision-for-our-home",
   title: "Long-term Vision For Our Home",
-  relationshipTopicParentSlug: "family-values-culture-and-vision",
+  relationshipTopicParent: "family-values-culture-and-vision",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

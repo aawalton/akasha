@@ -5,7 +5,7 @@ export const redYellowGreenDecisions = {
   pageTypeSlug: "relationship-topic",
   slug: "red-yellow-green-decisions",
   title: "Red, Yellow, Green Decisions",
-  relationshipTopicParentSlug: "mental-models",
+  relationshipTopicParent: "mental-models",
   relationshipTopicSensitivity: "low",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

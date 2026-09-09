@@ -1,14 +1,14 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { RelationshipTopicParentSlug } from "./properties/relationship-topic-parent-slug.relation-property.ts"
+import type { RelationshipTopicParent } from "./properties/relationship-topic-parent.relation-property.ts"
 import type { RelationshipTopicPeople } from "./properties/relationship-topic-people.relation-property.ts"
 import type { RelationshipTopicSensitivity } from "./properties/relationship-topic-sensitivity.select-property.ts"
 import type { RelationshipTopicStatus } from "./properties/relationship-topic-status.select-property.ts"
 
 export type RelationshipTopic = Page & {
   title: Title
-  relationshipTopicParentSlug?: RelationshipTopicParentSlug
+  relationshipTopicParent?: RelationshipTopicParent
   relationshipTopicPeople?: readonly RelationshipTopicPeople[]
   relationshipTopicSensitivity: RelationshipTopicSensitivity
   relationshipTopicStatus: RelationshipTopicStatus
@@ -22,7 +22,7 @@ export const relationshipTopic = {
   pluralSlug: "relationship-topics",
   extendsSlug: ["page-type/page"],
   partSlugs: [
-    "relation-property/relationship-topic-parent-slug",
+    "relation-property/relationship-topic-parent",
     "relation-property/relationship-topic-people",
     "select-property/relationship-topic-sensitivity",
     "select-property/relationship-topic-status",
@@ -30,7 +30,7 @@ export const relationshipTopic = {
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/relationship-topic-parent-slug",
+      pagePropertySlug: "relation-property/relationship-topic-parent",
       required: false,
       many: false,
     },

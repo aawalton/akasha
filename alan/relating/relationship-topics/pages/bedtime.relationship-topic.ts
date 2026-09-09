@@ -5,7 +5,7 @@ export const bedtime = {
   pageTypeSlug: "relationship-topic",
   slug: "bedtime",
   title: "Bedtime",
-  relationshipTopicParentSlug: "increase-support-from-alan",
+  relationshipTopicParent: "increase-support-from-alan",
   relationshipTopicPeople: ["jenny"],
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "done",

@@ -5,7 +5,7 @@ export const weBothFeelMoreThreatenedWhenAlanInitiatesTopics = {
   pageTypeSlug: "relationship-topic",
   slug: "we-both-feel-more-threatened-when-alan-initiates-topics",
   title: "We Both Feel More Threatened When Alan Initiates Topics",
-  relationshipTopicParentSlug: "shared",
+  relationshipTopicParent: "shared",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

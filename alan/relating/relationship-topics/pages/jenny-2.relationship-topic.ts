@@ -5,7 +5,7 @@ export const jenny2 = {
   pageTypeSlug: "relationship-topic",
   slug: "jenny-2",
   title: "Jenny",
-  relationshipTopicParentSlug: "sharing-interests-insights",
+  relationshipTopicParent: "sharing-interests-insights",
   relationshipTopicSensitivity: "not-applicable",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic

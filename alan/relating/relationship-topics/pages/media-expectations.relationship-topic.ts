@@ -5,7 +5,7 @@ export const mediaExpectations = {
   pageTypeSlug: "relationship-topic",
   slug: "media-expectations",
   title: "Media Expectations",
-  relationshipTopicParentSlug: "general",
+  relationshipTopicParent: "general",
   relationshipTopicSensitivity: "high",
   relationshipTopicStatus: "someday-maybe",
 } as const satisfies RelationshipTopic
