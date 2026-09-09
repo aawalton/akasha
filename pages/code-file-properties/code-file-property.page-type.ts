@@ -9,5 +9,5 @@ export const codeFileProperty = {
   slug: "code-file-property",
   definition: "a page property held in a file something runs",
   pluralSlug: "code-file-properties",
-  extendsSlug: ["page-type/file-property"],
+  extends: ["page-type/file-property"],
 } as const satisfies PageType

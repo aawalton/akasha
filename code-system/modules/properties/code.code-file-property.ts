@@ -1,10 +1,10 @@
-import type { FileProperty } from "@akasha/pages/file-property"
+import type { CodeFileProperty } from "@akasha/pages/code-file-property"
 
 export type Code = "ts" | "tsx"
 
 export const code = {
   id: "01a04a20-6e04-7e3d-88e8-a8af6fd9c02b",
-  pageTypeSlug: "file-property",
+  pageTypeSlug: "code-file-property",
   slug: "code",
   propertySlug: "code",
   definition: "the code a page is",
@@ -22,4 +22,4 @@ export const code = {
       statement: "TSX is TypeScript the parser admits JSX into.",
     },
   ],
-} as const satisfies FileProperty
+} as const satisfies CodeFileProperty

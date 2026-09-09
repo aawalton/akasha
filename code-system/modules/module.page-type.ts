@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Code } from "./properties/code.file-property.ts"
+import type { Code } from "./properties/code.code-file-property.ts"
 import type { ModuleTypes } from "./properties/module-types.file-property.ts"
 import type { Test } from "./properties/test.file-property.ts"
 import type { TestFixtures } from "./properties/test-fixtures.file-property.ts"
@@ -19,14 +19,14 @@ export const module = {
   definition: "code reached by importing it",
   pluralSlug: "modules",
   partSlugs: [
-    "file-property/code",
+    "code-file-property/code",
     "file-property/module-types",
     "file-property/test",
     "file-property/test-fixtures",
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/code", required: true, many: false },
+    { pagePropertySlug: "code-file-property/code", required: true, many: false },
     { pagePropertySlug: "file-property/module-types", required: false, many: false },
     { pagePropertySlug: "file-property/test", required: false, many: false },
     { pagePropertySlug: "file-property/test-fixtures", required: false, many: false },

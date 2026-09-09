@@ -13,6 +13,7 @@
     "./calendar-time-property": "./calendar-time-properties/calendar-time-property.page-type.ts",
     "./change": "./change/change.module.code.ts",
     "./checkout-roots": "./checkout-roots/checkout-roots.module.code.ts",
+    "./code-file-property": "./code-file-properties/code-file-property.page-type.ts",
     "./code-root": "./code-root/code-root.module.code.ts",
     "./computed-property": "./computed-properties/computed-property.page-type.ts",
     "./computed-property-module": "./computed-property-modules/computed-property-module.page-type.ts",

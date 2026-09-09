@@ -1,4 +1,4 @@
-import type { Code } from "../../code-system/modules/properties/code.file-property.ts"
+import type { Code } from "../../code-system/modules/properties/code.code-file-property.ts"
 import type { Test } from "../../code-system/modules/properties/test.file-property.ts"
 import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
@@ -39,7 +39,7 @@ export const attribute = {
     "text-property/point-unit",
   ],
   properties: [
-    { pagePropertySlug: "file-property/code", required: false, many: false },
+    { pagePropertySlug: "code-file-property/code", required: false, many: false },
     { pagePropertySlug: "file-property/test", required: false, many: false },
     { pagePropertySlug: "text-property/point-unit", required: true, many: false },
     {
