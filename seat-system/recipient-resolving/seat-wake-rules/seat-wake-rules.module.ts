@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatWakeRules = {
   id: "01a0686d-9d5e-7017-a8e4-4b5dc1d6aa6b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-wake-rules",
   definition:
     "what an on-demand seat declares it wakes for, and whether inbound work matches a rule",

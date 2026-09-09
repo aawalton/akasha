@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const blockedPrincipalDecide = {
   id: "01a0686d-9d5e-7019-8649-bafbe4a8eaa2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "blocked-principal-decide",
   definition: "who is waiting on a blocked agent, which nothing in the pages yet says",
   code: "ts",

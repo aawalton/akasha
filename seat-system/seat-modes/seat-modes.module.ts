@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatModes = {
   id: "01a06867-7fc9-7001-ab42-25809f0fc7df",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-modes",
   definition:
     "the two modes a seat runs in, the flag that sets one, and the launch each is seen as",

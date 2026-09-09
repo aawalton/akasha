@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const readoutUnread = {
   id: "01a0657f-4cdb-7000-ae3c-a06d78dc0854",
   pageTypeSlug: "module",
+  type: "module",
   slug: "readout-unread",
   definition: "the lights a group draws that have no reading",
   code: "ts",

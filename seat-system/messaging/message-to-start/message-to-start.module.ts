@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const messageToStart = {
   id: "01a0686c-f06b-700d-8620-76cd6d957722",
   pageTypeSlug: "module",
+  type: "module",
   slug: "message-to-start",
   definition: "the seat a message reaches, woken or started where none is sitting there",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const memoryReaperOwner = {
   id: "01a0686c-f06b-7003-8046-1fd5f5849520",
   pageTypeSlug: "module",
+  type: "module",
   slug: "memory-reaper-owner",
   definition: "which seat a process about to be killed belongs to",
   code: "ts",

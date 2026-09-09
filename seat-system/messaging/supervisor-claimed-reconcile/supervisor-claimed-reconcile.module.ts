@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const supervisorClaimedReconcile = {
   id: "01a0683e-3dbe-7011-964e-6ba8498d44b5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "supervisor-claimed-reconcile",
   definition: "messages a seat claimed and ended without consuming, released again",
   code: "ts",

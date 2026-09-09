@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const gatedLanding = {
   id: "01a068a4-60f0-7001-aebb-1a5a0fbc991d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "gated-landing",
   definition:
     "bodies written and paths taken away in one mechanical landing, answering the sha it made",

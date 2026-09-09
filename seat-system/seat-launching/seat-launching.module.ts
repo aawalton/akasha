@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatLaunching = {
   id: "01a05d8f-50d9-7000-8a2a-2bc819c63d01",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-launching",
   definition: "a seat started under a tmux session named for it",
   code: "ts",

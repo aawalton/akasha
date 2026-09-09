@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatAttributes = {
   id: "01a06949-b281-754d-abc3-b81859567424",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-attributes",
   definition:
     "the persona, domain and role declared of an agent, with the mode its session started in",

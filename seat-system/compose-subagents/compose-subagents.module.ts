@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const composeSubagents = {
   id: "01a0693a-bad9-717d-acdb-f16a6ac2554c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "compose-subagents",
   definition: "every subagent kind rendered as the JSON object the client's agents flag takes",
   code: "ts",

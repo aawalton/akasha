@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const seatInitiative = {
   id: "01a06949-b281-745b-96f6-05ec9619e469",
   pageTypeSlug: "module",
+  type: "module",
   slug: "seat-initiative",
   definition: "a seat's initiative, found by slug in akasha and read off the assignment it states",
   code: "ts",

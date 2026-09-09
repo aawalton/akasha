@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const recipientResolverDeps = {
   id: "01a0657d-a75e-7001-8ac5-1d57805bf5ae",
   pageTypeSlug: "module",
+  type: "module",
   slug: "recipient-resolver-deps",
   definition:
     "the effects a resolver tick calls: seat lookup, inbound reading, presence, revive and report",

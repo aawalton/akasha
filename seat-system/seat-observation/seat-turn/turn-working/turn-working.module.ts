@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const turnWorking = {
   id: "01a0687b-3c85-7000-b60f-9d7b8c037697",
   pageTypeSlug: "module",
+  type: "module",
   slug: "turn-working",
   definition:
     "what one read of a seat's transcript says about the turn and the tasks still running",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const memoryReaperKill = {
   id: "01a0686c-f06b-7006-9d1b-e53dd0c8cb4a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "memory-reaper-kill",
   definition: "a process or a whole tree asked to end and then made to",
   code: "ts",

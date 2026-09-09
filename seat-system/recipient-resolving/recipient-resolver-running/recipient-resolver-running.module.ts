@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const recipientResolverRunning = {
   id: "01a0686a-7a57-77d0-b626-30a20097aacc",
   pageTypeSlug: "module",
+  type: "module",
   slug: "recipient-resolver-running",
   definition: "an absent seat revived when its work arrives",
   code: "ts",

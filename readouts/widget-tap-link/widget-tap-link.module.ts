@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const widgetTapLink = {
   id: "01a078a5-b8d4-7914-bdf7-41f482a36806",
   pageTypeSlug: "module",
+  type: "module",
   slug: "widget-tap-link",
   definition: "the widget a link names, read off the link's fragment",
   code: "ts",

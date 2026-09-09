@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const agentNameBind = {
   id: "01a0695a-d2ea-7203-a1a2-06a2a8188bc0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "agent-name-bind",
   definition:
     "a name request gathered from what the workstation sees, prior holder and ancestry included",

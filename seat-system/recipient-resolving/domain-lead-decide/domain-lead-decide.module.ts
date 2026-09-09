@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const domainLeadDecide = {
   id: "01a0686d-9d5e-701a-ba33-fdc3ba8ade91",
   pageTypeSlug: "module",
+  type: "module",
   slug: "domain-lead-decide",
   definition:
     "which persona leads a domain, read from the walk up its tree, and who is reached where none does",

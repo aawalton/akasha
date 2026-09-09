@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const memoryReaperPlan = {
   id: "01a0686c-f06b-7004-8e58-5c2972baf99d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "memory-reaper-plan",
   definition: "the whole set of kills one tick would signal, and what each of them is refused for",
   code: "ts",

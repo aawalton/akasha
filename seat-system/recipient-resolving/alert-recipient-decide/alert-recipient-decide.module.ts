@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const alertRecipientDecide = {
   id: "01a0686d-9d5e-7018-8b7e-f981205706bf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "alert-recipient-decide",
   definition: "who answers for an alert, read from the alert's own document",
   code: "ts",
