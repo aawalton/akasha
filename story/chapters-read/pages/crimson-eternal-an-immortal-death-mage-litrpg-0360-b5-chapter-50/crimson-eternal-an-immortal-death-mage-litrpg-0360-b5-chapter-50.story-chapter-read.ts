@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0360B5Chapter50 = {
   pageTypeSlug: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0360-b5-chapter-50",
   title: "B5 | Chapter 50",
-  storySlug: "crimson-eternal-an-immortal-death-mage-litrpg",
+  story: "crimson-eternal-an-immortal-death-mage-litrpg",
   position: 360,
   ownLength: 1332,
   unitSlug: "words",

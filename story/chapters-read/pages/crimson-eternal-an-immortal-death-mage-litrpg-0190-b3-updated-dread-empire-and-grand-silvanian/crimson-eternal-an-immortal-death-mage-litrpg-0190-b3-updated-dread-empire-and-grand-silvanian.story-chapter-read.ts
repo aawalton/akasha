@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0190B3UpdatedDreadEmpireAndG
   pageTypeSlug: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0190-b3-updated-dread-empire-and-grand-silvanian",
   title: "B3 | Updated Dread Empire and Grand Silvanian Empire Glossary",
-  storySlug: "crimson-eternal-an-immortal-death-mage-litrpg",
+  story: "crimson-eternal-an-immortal-death-mage-litrpg",
   position: 190,
   ownLength: 51,
   ownProgress: 51,

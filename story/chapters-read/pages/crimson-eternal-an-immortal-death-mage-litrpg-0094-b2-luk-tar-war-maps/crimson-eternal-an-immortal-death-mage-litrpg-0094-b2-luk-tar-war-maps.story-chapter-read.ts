@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0094B2LukTarWarMaps = {
   pageTypeSlug: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0094-b2-luk-tar-war-maps",
   title: "B2 | Luk'tar War Maps",
-  storySlug: "crimson-eternal-an-immortal-death-mage-litrpg",
+  story: "crimson-eternal-an-immortal-death-mage-litrpg",
   position: 94,
   ownLength: 101,
   ownProgress: 101,

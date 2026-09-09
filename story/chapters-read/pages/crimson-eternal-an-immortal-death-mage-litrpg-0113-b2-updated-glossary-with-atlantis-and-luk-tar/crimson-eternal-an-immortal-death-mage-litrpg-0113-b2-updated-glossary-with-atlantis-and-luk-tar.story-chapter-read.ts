@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0113B2UpdatedGlossaryWithAtl
   pageTypeSlug: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0113-b2-updated-glossary-with-atlantis-and-luk-tar",
   title: "B2 | Updated Glossary with Atlantis and Luk'tar",
-  storySlug: "crimson-eternal-an-immortal-death-mage-litrpg",
+  story: "crimson-eternal-an-immortal-death-mage-litrpg",
   position: 113,
   ownLength: 4917,
   ownProgress: 4917,

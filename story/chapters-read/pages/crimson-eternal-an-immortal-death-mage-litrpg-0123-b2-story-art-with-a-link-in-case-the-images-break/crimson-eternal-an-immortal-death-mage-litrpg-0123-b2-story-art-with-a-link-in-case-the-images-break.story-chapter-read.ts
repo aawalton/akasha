@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0123B2StoryArtWithALinkInCas
   pageTypeSlug: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0123-b2-story-art-with-a-link-in-case-the-images-break",
   title: "B2 | Story Art with a Link in case the images break",
-  storySlug: "crimson-eternal-an-immortal-death-mage-litrpg",
+  story: "crimson-eternal-an-immortal-death-mage-litrpg",
   position: 123,
   ownLength: 122,
   ownProgress: 122,

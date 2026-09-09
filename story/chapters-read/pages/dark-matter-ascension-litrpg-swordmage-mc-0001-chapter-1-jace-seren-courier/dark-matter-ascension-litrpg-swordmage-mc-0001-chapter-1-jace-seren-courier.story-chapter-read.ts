@@ -5,7 +5,7 @@ export const darkMatterAscensionLitrpgSwordmageMc0001Chapter1JaceSerenCourier = 
   pageTypeSlug: "story-chapter-read",
   slug: "dark-matter-ascension-litrpg-swordmage-mc-0001-chapter-1-jace-seren-courier",
   title: "Chapter 1 – Jace Seren, Courier",
-  storySlug: "dark-matter-ascension-litrpg-swordmage-mc",
+  story: "dark-matter-ascension-litrpg-swordmage-mc",
   position: 1,
   ownLength: 2353,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0304B5StoryArtAndNewYearsArt
   pageTypeSlug: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0304-b5-story-art-and-new-years-art",
   title: "B5 | Story Art and New Years Art",
-  storySlug: "crimson-eternal-an-immortal-death-mage-litrpg",
+  story: "crimson-eternal-an-immortal-death-mage-litrpg",
   position: 304,
   ownLength: 164,
   ownProgress: 164,

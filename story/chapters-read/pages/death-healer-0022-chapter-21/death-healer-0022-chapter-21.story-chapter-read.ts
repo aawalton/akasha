@@ -5,7 +5,7 @@ export const deathHealer0022Chapter21 = {
   pageTypeSlug: "story-chapter-read",
   slug: "death-healer-0022-chapter-21",
   title: "Chapter 21",
-  storySlug: "death-healer",
+  story: "death-healer",
   position: 22,
   ownLength: 2743,
   unitSlug: "words",
