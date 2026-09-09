@@ -1,8 +1,5 @@
 import { InputError } from "@akasha/errors-core/exit-code"
-import type {
-  FlagValueShape,
-  HelpFlag,
-} from "../command-declaring/command-declaring.module.code.ts"
+import type { FlagValueShape, HelpFlag } from "../declaring/command-declaring.module.code.ts"
 
 export const PROSE_ROUTE_SUFFIX = "-file"
 
