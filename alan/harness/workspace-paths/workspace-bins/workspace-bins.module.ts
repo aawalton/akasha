@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const workspaceBins = {
   id: "01a05c48-deeb-700c-9384-d37c13743ae5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "workspace-bins",
   definition:
     "the command names the manifests of a workspace declare, and which of them are absent",

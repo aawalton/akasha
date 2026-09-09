@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const telnyxSend = {
   id: "01a05b6f-999d-731e-a182-ed95ac7ecc35",
   pageTypeSlug: "module",
+  type: "module",
   slug: "telnyx-send",
   definition: "one outgoing message put into the request Telnyx wants and the answer read back",
   code: "ts",

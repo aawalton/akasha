@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const claudeAccountOauth = {
   id: "01a0632e-cb60-74d1-a6d9-2f68882c142c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "claude-account-oauth",
   definition: "the OAuth exchange an account's credentials and usage arrive over",
   code: "ts",

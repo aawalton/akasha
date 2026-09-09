@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const liveVersion = {
   id: "01a05c48-deeb-700f-82ef-afcd8de33755",
   pageTypeSlug: "module",
+  type: "module",
   slug: "live-version",
   definition: "the response a running site answers with when asked which commit it is",
   code: "ts",

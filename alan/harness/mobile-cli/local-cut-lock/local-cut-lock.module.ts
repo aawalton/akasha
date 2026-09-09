@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const localCutLock = {
   id: "01a05cee-e560-799d-8874-d6c9518059c9",
   pageTypeSlug: "module",
+  type: "module",
   slug: "local-cut-lock",
   definition: "the workstation file lock a testflight cut holds while it runs",
   code: "ts",

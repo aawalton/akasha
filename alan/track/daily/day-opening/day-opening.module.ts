@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const dayOpening = {
   id: "01a069c3-a82a-798b-b746-3c9dfa4f21fc",
   pageTypeSlug: "module",
+  type: "module",
   slug: "day-opening",
   definition: "which day an instant falls in, counted from the moment Alan's day opens",
   code: "ts",

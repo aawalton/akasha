@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const recurrenceShape = {
   id: "01a05c6f-c7c3-732d-8113-3c8b675fd74f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "recurrence-shape",
   definition: "what a repeating thing has, and what advancing it answers",
   code: "ts",

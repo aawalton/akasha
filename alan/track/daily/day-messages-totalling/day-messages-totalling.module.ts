@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const dayMessagesTotalling = {
   id: "01a082e7-25cd-7547-840c-7cd58dad9c8c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "day-messages-totalling",
   definition: "how many messages each persona was written over a run of days",
   code: "ts",

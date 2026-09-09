@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchEvidence = {
   id: "01a06866-06f1-7651-b09b-84d76da97cdf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-evidence",
   definition: "what our copy has about a transaction, read out and never written to",
   code: "ts",

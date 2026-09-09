@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const staleFolders = {
   id: "01a0683d-3c17-7dd8-991b-d05270ddec1f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "stale-folders",
   definition:
     "a repository folder no tracked or untracked file accounts for, and what it costs on disk",

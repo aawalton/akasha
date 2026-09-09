@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const capacityClassification = {
   id: "01a0623c-6939-7dce-a9f7-3cfecdd8823a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "capacity-classification",
   definition: "what a 429 from upstream says about capacity",
   code: "ts",

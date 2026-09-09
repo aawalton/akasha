@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const trackLanding = {
   id: "01a072c2-e567-7000-a1b9-3a51eea84ed2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "track-landing",
   definition: "a body Alan's tracking composed, landed under the tracked trees or refused",
   code: "ts",

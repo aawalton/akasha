@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const patchKeeping = {
   id: "01a062f5-e62d-72fc-81d4-e2391e39ae87",
   pageTypeSlug: "module",
+  type: "module",
   slug: "patch-keeping",
   definition: "the patch an agent is drafting, kept in a file beside the agent's page",
   code: "ts",

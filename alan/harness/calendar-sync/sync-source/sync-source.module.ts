@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const syncSource = {
   id: "01a05c22-7bc9-7004-b731-91ee1035d0ba",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sync-source",
   definition: "one calendar source synced, event by event",
   code: "ts",

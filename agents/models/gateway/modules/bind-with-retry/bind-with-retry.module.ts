@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const bindWithRetry = {
   id: "01a0622e-02ab-7b1e-a875-ff5fdad4afbf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "bind-with-retry",
   definition: "a port bind retried while the port is still held by the process on its way out",
   code: "ts",

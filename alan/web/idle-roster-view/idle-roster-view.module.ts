@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const idleRosterView = {
   id: "01a0655d-dac0-7cfe-803f-555661832078",
   pageTypeSlug: "module",
+  type: "module",
   slug: "idle-roster-view",
   definition: "a held persona worked out into what the roster draws",
   code: "ts",

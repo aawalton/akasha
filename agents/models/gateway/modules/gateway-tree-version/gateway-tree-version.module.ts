@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const gatewayTreeVersion = {
   id: "01a069d1-5918-7000-93b1-fb263acda9d0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "gateway-tree-version",
   definition: "the gateway's own file closure, hashed, so a supervisor can tell its proxy changed",
   code: "ts",

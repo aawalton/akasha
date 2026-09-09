@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const inboxTrackingPolling = {
   id: "01a0686a-7a57-72a3-bd0e-04ddd401bb78",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inbox-tracking-polling",
   definition: "one poll of every inbox, written onto the day's tracking row",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const rulePartition = {
   id: "01a0657b-9adc-7005-95a5-a56941403096",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rule-partition",
   definition: "the distinguishable cases a set of rules tells apart, with one witness for each",
   code: "ts",

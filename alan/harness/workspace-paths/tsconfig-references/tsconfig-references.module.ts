@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const tsconfigReferences = {
   id: "01a06868-b18d-78ce-87db-9426be7dee4b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "tsconfig-references",
   definition: "the references a repository's tsconfig files have, and which reach nothing",
   code: "ts",

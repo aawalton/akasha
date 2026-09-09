@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const ruleConditions = {
   id: "01a0657b-9adc-7004-9d71-1576f12eb0cf",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rule-conditions",
   definition: "the conditions a rule's match is made of, and whether one match covers another",
   code: "ts",

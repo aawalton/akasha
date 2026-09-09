@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchRuleDescribe = {
   id: "01a06865-ecc3-7e80-81ec-7da942f39d07",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-rule-describe",
   definition: "a rule said back in one line, as the clauses it narrows on",
   code: "ts",

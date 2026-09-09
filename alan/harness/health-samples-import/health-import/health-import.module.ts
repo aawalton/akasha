@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const healthImport = {
   id: "01a05c14-b11a-7002-a357-a2cd51c9856a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "health-import",
   definition: "an exported record turned into a stored sample, and what is counted on the way",
   code: "ts",

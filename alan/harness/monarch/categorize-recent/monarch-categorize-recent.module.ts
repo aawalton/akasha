@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchCategorizeRecent = {
   id: "01a06867-fdff-7025-8e5f-0b54b3e88265",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-categorize-recent",
   definition: "the standing rules run over what arrived lately, without asking",
   code: "ts",

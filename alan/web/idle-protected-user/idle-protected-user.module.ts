@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const idleProtectedUser = {
   id: "01a0655d-dabf-7ac8-8c3c-cb506859e06c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "idle-protected-user",
   definition: "the one save no test is allowed to write over",
   code: "ts",

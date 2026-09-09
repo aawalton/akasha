@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const modelUnavailable = {
   id: "01a0628c-26f7-71b6-893e-e3d3e34bb01f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "model-unavailable",
   definition: "what a 404 body says about upstream not carrying the model asked for",
   code: "ts",

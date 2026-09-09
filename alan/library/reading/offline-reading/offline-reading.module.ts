@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const offlineReading = {
   id: "01a0657b-06ac-7293-a09b-01ff92f25730",
   pageTypeSlug: "module",
+  type: "module",
   slug: "offline-reading",
   definition: "the chapters carried onto a device and the progress carried back",
   code: "ts",

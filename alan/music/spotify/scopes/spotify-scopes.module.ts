@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const spotifyScopes = {
   id: "01a06261-dc1d-7005-9e93-d5c9f5bf2239",
   pageTypeSlug: "module",
+  type: "module",
   slug: "spotify-scopes",
   definition: "what Alan consents to when he authorises this client",
   code: "ts",

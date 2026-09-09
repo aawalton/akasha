@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const serviceRole = {
   id: "01a05c75-871a-75ee-b566-9d7b5f975f72",
   pageTypeSlug: "module",
+  type: "module",
   slug: "service-role",
   definition: "the Supabase client acting as the service role, past every row policy",
   code: "ts",

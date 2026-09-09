@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const simDriver = {
   id: "01a05cee-e560-7b19-818c-dae87acdf7de",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sim-driver",
   definition: "opening an appium session on the sim and landing its webview on an app route",
   code: "ts",

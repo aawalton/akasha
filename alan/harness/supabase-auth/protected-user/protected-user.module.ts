@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const protectedUser = {
   id: "01a05c6d-3509-78ee-a418-3d1217065a1e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "protected-user",
   definition: "the guard stopping a path from acting as Alan's real account",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchApply = {
   id: "01a06867-e5ed-7dbd-9dc1-7068e19aad4f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-apply",
   definition: "one rule's decision written onto the transaction it decided",
   code: "ts",

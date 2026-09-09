@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const mobileSsh = {
   id: "01a05cee-e560-740b-bd8f-abdea9c8358c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "mobile-ssh",
   definition: "the ssh and rsync child processes that reach an ssh target",
   code: "ts",

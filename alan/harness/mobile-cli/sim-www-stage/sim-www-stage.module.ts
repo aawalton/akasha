@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const simWwwStage = {
   id: "01a05cee-e560-7417-9312-b0a5a3996f67",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sim-www-stage",
   definition: "the web bundle staged into a native shell from the working tree",
   code: "ts",

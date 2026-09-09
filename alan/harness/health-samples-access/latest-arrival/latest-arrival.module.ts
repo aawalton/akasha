@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const latestArrival = {
   id: "01a05bc7-9129-7005-b4b8-2f62e20c1b94",
   pageTypeSlug: "module",
+  type: "module",
   slug: "latest-arrival",
   definition: "when the newest stored reading of one metric arrived",
   code: "ts",

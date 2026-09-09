@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const gitTreeHash = {
   id: "01a05cee-e560-7f54-b7d4-20862a654a8c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "git-tree-hash",
   definition: "a sha256 over the git object ids named paths carry at a ref",
   code: "ts",

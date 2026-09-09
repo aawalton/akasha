@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const exportFetching = {
   id: "01a05c14-b11a-7000-a275-a3e0c5949f69",
   pageTypeSlug: "module",
+  type: "module",
   slug: "export-fetching",
   definition: "an export read off this workstation or off the laptop, and parsed",
   code: "ts",

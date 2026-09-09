@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const claudeAccountMaking = {
   id: "01a0686c-6c89-7001-b558-43fec5b9b833",
   pageTypeSlug: "module",
+  type: "module",
   slug: "claude-account-making",
   definition: "making the page a new claude-account is reached by",
   code: "ts",

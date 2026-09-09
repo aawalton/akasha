@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const kiHandlerRouting = {
   id: "01a05b6f-999d-7d2b-b85c-510e49ca5cd2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "ki-handler-routing",
   definition: "what Ki's handler does with a message, chosen from what the message was read as",
   code: "ts",

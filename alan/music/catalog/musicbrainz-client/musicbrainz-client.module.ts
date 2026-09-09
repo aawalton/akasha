@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const musicbrainzClient = {
   id: "01a06262-ff4c-7000-b193-5ca094701486",
   pageTypeSlug: "module",
+  type: "module",
   slug: "musicbrainz-client",
   definition: "MusicBrainz asked for an artist, the works and the recordings",
   code: "ts",

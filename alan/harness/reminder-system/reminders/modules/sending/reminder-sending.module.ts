@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const reminderSending = {
   id: "01a05f4b-4a6f-7000-b814-4d63f9e06e66",
   pageTypeSlug: "module",
+  type: "module",
   slug: "reminder-sending",
   definition: "the reminders there are, when each next falls due, and taking a spent one away",
   code: "ts",

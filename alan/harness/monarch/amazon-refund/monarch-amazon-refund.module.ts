@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchAmazonRefund = {
   id: "01a06863-ac0c-71ae-9a80-431ca793b133",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-amazon-refund",
   definition: "an Amazon refund read out of the refund mail Amazon sends",
   code: "ts",

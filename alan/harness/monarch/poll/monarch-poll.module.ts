@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchPoll = {
   id: "01a06868-1536-7a16-9123-ffbef5c8c5b5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-poll",
   definition: "the Monarch rows whose update time has moved, landed a minute at a time",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchRuleAmounts = {
   id: "01a06863-264d-7413-a29a-4e2976d1dc3b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-rule-amounts",
   definition:
     "the amount clause a rule states, weighed against a transaction and said back in words",

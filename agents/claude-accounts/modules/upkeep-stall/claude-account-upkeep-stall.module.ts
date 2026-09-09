@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const claudeAccountUpkeepStall = {
   id: "01a0686a-6c02-7000-aab4-ab51e35ecc88",
   pageTypeSlug: "module",
+  type: "module",
   slug: "claude-account-upkeep-stall",
   definition: "how far behind the upkeep an account has fallen",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchNotesRevert = {
   id: "01a06865-ecc3-7197-8546-e38b32431638",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-notes-revert",
   definition:
     "the notes and tags a transaction carried before this project wrote, and putting them back",

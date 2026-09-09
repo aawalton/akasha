@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const simRunTree = {
   id: "01a05cee-e560-74ed-a1cf-c9f340983fda",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sim-run-tree",
   definition: "the repo-root paths a mobile sim run is built from, delivered whole to the macbook",
   code: "ts",

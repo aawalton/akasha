@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const oauthEffects = {
   id: "01a063af-ee62-7b70-928c-682cd8bb780f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "oauth-effects",
   definition: "the reads and marks a gateway reaches one root's claude accounts by",
   code: "ts",

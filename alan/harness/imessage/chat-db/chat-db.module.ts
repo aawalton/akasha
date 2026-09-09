@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const chatDb = {
   id: "01a05bc9-4308-7004-be2b-a24f942f8823",
   pageTypeSlug: "module",
+  type: "module",
   slug: "chat-db",
   definition: "the questions asked of the message store and the rows that answer them",
   code: "ts",

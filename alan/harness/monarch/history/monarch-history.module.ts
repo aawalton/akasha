@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchHistory = {
   id: "01a06866-06f1-7379-8907-207d1cc99b42",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-history",
   definition: "our copy of Monarch read as the rows a rule is weighed against",
   code: "ts",

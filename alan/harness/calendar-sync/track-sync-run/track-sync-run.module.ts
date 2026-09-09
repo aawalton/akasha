@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const trackSyncRun = {
   id: "01a05c22-7bc9-7005-9bb7-3dc974d43422",
   pageTypeSlug: "module",
+  type: "module",
   slug: "track-sync-run",
   definition: "a sync run written down as it starts and settled once it ends",
   code: "ts",

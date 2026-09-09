@@ -3,6 +3,7 @@ import type { Module } from "../../../../../code-system/modules/module.page-type
 export const pageTreeAssemble = {
   id: "01a064f6-a793-7d40-b075-7d7a7f1f133a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "page-tree-assemble",
   definition: "the tree of page types and page property types a page query answer is turned into",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const authFailedRetry = {
   id: "01a0629f-9062-7001-bdc1-9f1651af79cd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "auth-failed-retry",
   definition: "what a 401 becomes once the credential store is asked for a newer token",
   code: "ts",

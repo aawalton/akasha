@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const inboxWatching = {
   id: "01a0686a-7a57-789b-82d6-c6d715e27ae4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inbox-watching",
   definition:
     "alan's mail decided against his email rules over and over, and the handler told what waits",

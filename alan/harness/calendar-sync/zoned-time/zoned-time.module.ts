@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const zonedTime = {
   id: "01a05c22-7bc9-7000-a354-10e39d5cdc0b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "zoned-time",
   definition: "a wall clock reading in a named zone turned into the instant it names",
   code: "ts",

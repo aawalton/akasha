@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchTransactionCreate = {
   id: "01a06865-ecc3-7529-b7f4-6be99588abe2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-transaction-create",
   definition: "a transaction written into Monarch, and the pair of them a budget transfer is",
   code: "ts",

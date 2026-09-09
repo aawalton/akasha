@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const exportOptionsPlist = {
   id: "01a05cee-e560-75d1-bc5d-3afdaa86f77d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "export-options-plist",
   definition: "the plist that tells Xcode which profile signs which bundle",
   code: "ts",

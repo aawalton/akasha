@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const labeling = {
   id: "01a05c6f-c7c3-7893-ad78-650f6e3d81c6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "labeling",
   definition: "an rrule said back as the English a person reads",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const activityReading = {
   id: "01a069bc-1a49-76f5-89d4-4edb7d44a3d1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "activity-reading",
   definition: "the calories Alan burned, taken from his day and kept on the activity readout",
   code: "ts",

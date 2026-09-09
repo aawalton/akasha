@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const rateLimitRefusal = {
   id: "01a0643b-c943-7a1f-b0e1-0b4d0a926680",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rate-limit-refusal",
   definition: "the 429 a client is answered where every account is at its limit",
   code: "ts",

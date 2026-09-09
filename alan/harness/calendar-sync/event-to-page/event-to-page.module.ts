@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const eventToPage = {
   id: "01a05c22-7bc9-7002-ae46-e40f41cc7836",
   pageTypeSlug: "module",
+  type: "module",
   slug: "event-to-page",
   definition: "a feed event turned into the values a calendar event page has",
   code: "ts",

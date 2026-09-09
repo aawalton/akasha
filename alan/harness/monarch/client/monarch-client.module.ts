@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchClient = {
   id: "01a06863-264d-79d8-8aef-9cdb6f51a8ba",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-client",
   definition: "Monarch's own GraphQL API, read into the shapes this harness names",
   code: "ts",

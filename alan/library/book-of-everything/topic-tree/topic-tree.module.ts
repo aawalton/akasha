@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const topicTree = {
   id: "01a06862-5a9a-7710-b320-dda3a41abf31",
   pageTypeSlug: "module",
+  type: "module",
   slug: "topic-tree",
   definition: "the topic pages read into the tree they name, each with its coverage and status",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchEvalPopulation = {
   id: "01a06867-e5ed-70fd-8fee-bffe0cd3c068",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-eval-population",
   definition: "which transactions an agent can be scored on, and the sample drawn from them",
   code: "ts",

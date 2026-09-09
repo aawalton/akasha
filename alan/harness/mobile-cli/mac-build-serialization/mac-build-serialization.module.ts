@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const macBuildSerialization = {
   id: "01a05cee-e560-7580-bebc-253f65ce563a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "mac-build-serialization",
   definition: "the shell that serialises mac builds behind a directory lock and numbers each one",
   code: "ts",

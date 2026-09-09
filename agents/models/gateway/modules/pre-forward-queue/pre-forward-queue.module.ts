@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const preForwardQueue = {
   id: "01a063af-ee63-747b-a323-989159ff8362",
   pageTypeSlug: "module",
+  type: "module",
   slug: "pre-forward-queue",
   definition:
     "the re-probing a request waits through when no account is eligible to have that request",

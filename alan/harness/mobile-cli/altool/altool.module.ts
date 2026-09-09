@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const altool = {
   id: "01a05cee-e560-762e-9911-22cd2e9873c6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "altool",
   definition: "the named failure classes read out of xcrun altool's validate and upload output",
   code: "ts",

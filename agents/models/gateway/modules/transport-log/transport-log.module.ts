@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const transportLog = {
   id: "01a062be-c8b4-7000-b087-7fa57405121c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "transport-log",
   definition: "what a gateway writes down about a stream once that stream has ended",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const workspaceBinsVerifying = {
   id: "01a0683d-3c17-736b-ae61-e1f0c1749067",
   pageTypeSlug: "module",
+  type: "module",
   slug: "workspace-bins-verifying",
   definition:
     "whether every command name the workspace manifests declare is linked under node_modules/.bin",

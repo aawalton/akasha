@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const accountUpkeepRunning = {
   id: "01a0686a-7a56-7f96-9527-a198f47be23e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "account-upkeep-running",
   definition: "every claude account's token and usage kept current, pass after pass",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const imessageSend = {
   id: "01a05bc9-4308-7006-988e-9b8bab4f1ec5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "imessage-send",
   definition: "the script handing a message to Messages on the machine that sends it",
   code: "ts",

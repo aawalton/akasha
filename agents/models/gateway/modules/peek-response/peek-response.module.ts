@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const peekResponse = {
   id: "01a0629f-9062-7000-b86c-849d04fd83c0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "peek-response",
   definition: "a response read to text with a replacement response left in place",
   code: "ts",

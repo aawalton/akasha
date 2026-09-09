@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const idleSaves = {
   id: "01a0655e-d39b-7622-a70b-508466de5c7c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "idle-saves",
   definition: "a player's idle save read from and written to Supabase",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const claudeAccountCredentialFile = {
   id: "01a0686d-236a-7000-8b8f-acbdc729fc69",
   pageTypeSlug: "module",
+  type: "module",
   slug: "claude-account-credential-file",
   definition: "the credential file a signed-in agent reads, kept level with the account's page",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const usZoneOffset = {
   id: "01a05c77-31e6-7877-b124-3f103fd4ac3d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "us-zone-offset",
   definition: "how far behind UTC New York and Denver are at one instant",
   code: "ts",

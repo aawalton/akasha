@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const fableFallback = {
   id: "01a0628b-a005-7a3c-a6f6-8e20462f3bb8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "fable-fallback",
   definition: "whether a request body names a fable model",
   code: "ts",

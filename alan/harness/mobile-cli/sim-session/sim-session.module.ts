@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const simSession = {
   id: "01a05cee-e560-7fa8-b30a-1b0defa5f6c3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sim-session",
   definition: "the state of the one live sim session, persisted to a file in the home directory",
   code: "ts",

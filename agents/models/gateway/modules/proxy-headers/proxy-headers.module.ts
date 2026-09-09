@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const proxyHeaders = {
   id: "01a0622f-4550-7230-9809-915f90bdb897",
   pageTypeSlug: "module",
+  type: "module",
   slug: "proxy-headers",
   definition: "the headers copied across a proxy hop",
   code: "ts",

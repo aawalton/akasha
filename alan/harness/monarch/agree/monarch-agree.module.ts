@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchAgree = {
   id: "01a06867-e5ed-703d-b129-e891c8fed291",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-agree",
   definition:
     "the rules' two paths to a neighbourhood weighed against each other over the live history",

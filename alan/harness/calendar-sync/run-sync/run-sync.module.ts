@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const runSync = {
   id: "01a05c22-7bc9-7007-bae2-cd4e94fd6035",
   pageTypeSlug: "module",
+  type: "module",
   slug: "run-sync",
   definition: "what a command line says a sync is to do",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchRulePages = {
   id: "01a06865-ecc3-732a-af06-7eaca3662b5c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-rule-pages",
   definition: "the category pages a rule names, and the flags a rule tool is called with",
   code: "ts",

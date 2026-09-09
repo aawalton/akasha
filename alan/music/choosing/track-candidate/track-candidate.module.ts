@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const trackCandidate = {
   id: "01a06281-4d9d-7003-a5cb-de0f475a7e60",
   pageTypeSlug: "module",
+  type: "module",
   slug: "track-candidate",
   definition: "a Spotify search hit read as a track that could be played",
   code: "ts",

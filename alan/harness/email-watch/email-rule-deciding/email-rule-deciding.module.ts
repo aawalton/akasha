@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const emailRuleDeciding = {
   id: "01a06871-54e5-7002-a44f-3d96cfa5d667",
   pageTypeSlug: "module",
+  type: "module",
   slug: "email-rule-deciding",
   definition: "which of a person's email rules claims a piece of mail",
   code: "ts",

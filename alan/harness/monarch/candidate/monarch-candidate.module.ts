@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchCandidate = {
   id: "01a06866-06f1-7e0b-a8bd-0233e7915dee",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-candidate",
   definition:
     "a rule stated on the command line rather than on a page, checked as a page's would be",

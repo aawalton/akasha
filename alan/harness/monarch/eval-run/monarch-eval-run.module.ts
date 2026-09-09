@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchEvalRun = {
   id: "01a06868-1535-7f9d-812e-7f071e571d5b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-eval-run",
   definition: "one scored run of the agent over a drawn sample, kept as a file",
   code: "ts",

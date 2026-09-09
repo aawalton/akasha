@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const personaPointsRebuilding = {
   id: "01a082eb-4f25-7bd5-b488-a5c24903072e",
   pageTypeSlug: "module",
+  type: "module",
   slug: "persona-points-rebuilding",
   definition: "each persona's points, worked out again from the days her messages were counted on",
   code: "ts",

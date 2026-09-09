@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const inboxCountWatch = {
   id: "01a079de-6d8f-7a3c-b51f-9a53ca155b81",
   pageTypeSlug: "module",
+  type: "module",
   slug: "inbox-count-watch",
   definition: "the task counts kept current as pages land",
   code: "ts",

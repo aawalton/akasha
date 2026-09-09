@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const sshDelivery = {
   id: "01a05cee-e560-75d3-9a15-b030e7638a12",
   pageTypeSlug: "module",
+  type: "module",
   slug: "ssh-delivery",
   definition: "the ssh wire settings shared by every ssh and rsync call to a host",
   code: "ts",

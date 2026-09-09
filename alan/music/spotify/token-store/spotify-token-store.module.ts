@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const spotifyTokenStore = {
   id: "01a06261-dc1d-7003-91e1-246d336ed495",
   pageTypeSlug: "module",
+  type: "module",
   slug: "spotify-token-store",
   definition: "the access token and refresh token kept between runs",
   code: "ts",

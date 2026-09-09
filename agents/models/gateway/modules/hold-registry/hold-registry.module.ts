@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const holdRegistry = {
   id: "01a0623c-6939-7f9a-848d-be904e3cf57c",
   pageTypeSlug: "module",
+  type: "module",
   slug: "hold-registry",
   definition: "what a gateway is holding open, counted and aged",
   code: "ts",

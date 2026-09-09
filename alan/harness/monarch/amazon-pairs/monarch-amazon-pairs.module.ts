@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchAmazonPairs = {
   id: "01a06866-06f1-75a5-8052-12c391088698",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-amazon-pairs",
   definition: "the Amazon charges and refunds standing under one order, and where they disagree",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const hlsRender = {
   id: "01a0655d-daa7-7a55-823d-371cdbce9a51",
   pageTypeSlug: "module",
+  type: "module",
   slug: "hls-render",
   definition: "an HLS playlist made for a medium that has none yet",
   code: "ts",

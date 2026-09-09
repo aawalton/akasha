@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const musicbrainzMap = {
   id: "01a06262-ff4c-7002-9c61-e7ce9273581d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "musicbrainz-map",
   definition: "a MusicBrainz answer read as the fields a song or an artist carries",
   code: "ts",

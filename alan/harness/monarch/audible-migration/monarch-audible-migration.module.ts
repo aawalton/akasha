@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchAudibleMigration = {
   id: "01a06866-06f1-7168-a141-d8d56c28cd00",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-audible-migration",
   definition:
     "the Audible charges already standing, carried onto the budget scheme that replaced them",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchSeat = {
   id: "01a06863-264d-7226-9284-b759229ac5a6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-seat",
   definition: "the seat a categorization agent runs in, and what it was allowed to reach",
   code: "ts",

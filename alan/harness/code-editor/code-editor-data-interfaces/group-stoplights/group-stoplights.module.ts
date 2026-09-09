@@ -3,6 +3,7 @@ import type { Module } from "../../../../../code-system/modules/module.page-type
 export const groupStoplights = {
   id: "01a064e4-627c-717e-bcf8-2ad1f41c1222",
   pageTypeSlug: "module",
+  type: "module",
   slug: "group-stoplights",
   definition: "the glyph row and the legend a set of stoplights is drawn as",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const serverErrorRetry = {
   id: "01a0643b-c947-7454-86f4-50dab4df4448",
   pageTypeSlug: "module",
+  type: "module",
   slug: "server-error-retry",
   definition: "the attempts a request makes again at one account while upstream keeps failing",
   code: "ts",

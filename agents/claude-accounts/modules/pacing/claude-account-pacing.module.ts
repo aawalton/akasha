@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const claudeAccountPacing = {
   id: "01a06318-c048-798d-9da5-8554d16da7cd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "claude-account-pacing",
   definition: "how far ahead or behind a weekly quota an account is",
   code: "ts",

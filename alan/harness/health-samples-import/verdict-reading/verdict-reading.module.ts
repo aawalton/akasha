@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const verdictReading = {
   id: "01a05c14-b119-7000-9120-df7558499051",
   pageTypeSlug: "module",
+  type: "module",
   slug: "verdict-reading",
   definition: "how something is, with what was covered and what was found",
   code: "ts",

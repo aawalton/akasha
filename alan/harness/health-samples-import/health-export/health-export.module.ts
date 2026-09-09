@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const healthExport = {
   id: "01a05c14-b119-7001-b832-1c3d7e46c281",
   pageTypeSlug: "module",
+  type: "module",
   slug: "health-export",
   definition: "the Apple Health export read off the laptop, and the script fetching it",
   code: "ts",

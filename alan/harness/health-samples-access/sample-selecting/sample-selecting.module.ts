@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const sampleSelecting = {
   id: "01a05bc7-9129-7004-a85c-285fd90a0c08",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sample-selecting",
   definition: "the readings of one metric over a span of time, oldest first",
   code: "ts",

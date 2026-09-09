@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const serverError = {
   id: "01a0628c-26f7-7201-b637-f25306c00618",
   pageTypeSlug: "module",
+  type: "module",
   slug: "server-error",
   definition: "an upstream failure a later attempt can get past",
   code: "ts",

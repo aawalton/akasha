@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const modelAsking = {
   id: "01a05a43-f8db-71c8-8c89-8850c6e1b851",
   pageTypeSlug: "module",
+  type: "module",
   slug: "model-asking",
   definition: "prompts put to a model, each answered by the words it opens with",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const spotifyPersonalization = {
   id: "01a06261-dc1d-700b-8dad-bfbcd632cbad",
   pageTypeSlug: "module",
+  type: "module",
   slug: "spotify-personalization",
   definition: "the artists and tracks Alan has heard most over a window",
   code: "ts",

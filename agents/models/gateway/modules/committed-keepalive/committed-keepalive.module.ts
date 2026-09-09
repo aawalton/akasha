@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const committedKeepalive = {
   id: "01a0643b-c949-7ef9-a390-9c33451d3e59",
   pageTypeSlug: "module",
+  type: "module",
   slug: "committed-keepalive",
   definition: "the stream a client is held on while a request is still being tried",
   code: "ts",

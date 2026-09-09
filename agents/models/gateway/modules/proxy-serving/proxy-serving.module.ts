@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const proxyServing = {
   id: "01a06421-4b73-741a-990a-c82a314d3fe8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "proxy-serving",
   definition: "a gateway serving from its start to its stop",
   code: "ts",

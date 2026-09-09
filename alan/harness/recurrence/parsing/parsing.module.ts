@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const parsing = {
   id: "01a05c6f-c7c3-7f40-b36e-54f054cb61d6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "parsing",
   definition: "an `every ...` phrase read into an rrule and a time of day",
   code: "ts",

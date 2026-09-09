@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const healthSnapshot = {
   id: "01a05c14-b11a-7001-878a-9f73d85a1b3a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "health-snapshot",
   definition: "a summary of what an export has, and how that summary reads",
   code: "ts",

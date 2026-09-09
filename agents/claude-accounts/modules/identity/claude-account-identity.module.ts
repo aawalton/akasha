@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const claudeAccountIdentity = {
   id: "01a0686b-604a-7000-a940-38d8a7a13399",
   pageTypeSlug: "module",
+  type: "module",
   slug: "claude-account-identity",
   definition: "which upstream account a credential belongs to, and pinning a page to it",
   code: "ts",

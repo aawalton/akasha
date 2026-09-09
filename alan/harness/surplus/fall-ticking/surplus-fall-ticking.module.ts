@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const surplusFallTicking = {
   id: "01a0697e-ded3-7147-92a2-3c8650eaf635",
   pageTypeSlug: "module",
+  type: "module",
   slug: "surplus-fall-ticking",
   definition:
     "the tick weighing today's surplus against the night's, telling Alan each rung it falls",

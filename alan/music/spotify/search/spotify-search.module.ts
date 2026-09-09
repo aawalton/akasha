@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const spotifySearch = {
   id: "01a06261-dc1d-7009-8b51-0a4990d03db0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "spotify-search",
   definition: "Spotify's catalog searched by text",
   code: "ts",

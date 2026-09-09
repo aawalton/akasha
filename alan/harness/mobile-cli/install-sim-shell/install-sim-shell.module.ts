@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const installSimShell = {
   id: "01a05cee-e560-7cb3-8284-d288f21f913a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "install-sim-shell",
   definition: "the native shell built on the macbook and installed to an ios simulator",
   code: "ts",

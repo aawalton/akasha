@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const accountPicker = {
   id: "01a063af-ee63-7fa9-bca2-74c7c61561a7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "account-picker",
   definition: "the account a gateway sends the next request under",
   code: "ts",

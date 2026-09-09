@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const openingWindow = {
   id: "01a05bc7-9129-7008-8402-c98c706da8be",
   pageTypeSlug: "module",
+  type: "module",
   slug: "opening-window",
   definition: "the span from one opening of Alan's day to the next opening of it",
   code: "ts",

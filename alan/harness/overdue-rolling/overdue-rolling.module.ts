@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const overdueRolling = {
   id: "01a0795a-2cb4-7d47-b7d6-2b120f641fd4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "overdue-rolling",
   definition: "an overdue task moved onto the day now open",
   code: "ts",

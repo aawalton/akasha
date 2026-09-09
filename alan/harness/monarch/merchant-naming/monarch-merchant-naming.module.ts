@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchMerchantNaming = {
   id: "01a06863-264d-729e-aab5-0dd77d14abc2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-merchant-naming",
   definition: "the merchant a transaction's own words name, drawn from the merchant pages",
   code: "ts",

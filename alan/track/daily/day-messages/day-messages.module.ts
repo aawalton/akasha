@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const dayMessages = {
   id: "01a082e3-a5f5-71fb-a321-c2a5a3b230b8",
   pageTypeSlug: "module",
+  type: "module",
   slug: "day-messages",
   definition: "how many messages each persona was written on a day, read and raised by one",
   code: "ts",

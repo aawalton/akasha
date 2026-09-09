@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const idleTrainVerb = {
   id: "01a0655d-dabf-7728-923c-5382413f3d33",
   pageTypeSlug: "module",
+  type: "module",
   slug: "idle-train-verb",
   definition: "one training asked for from a card",
   code: "ts",

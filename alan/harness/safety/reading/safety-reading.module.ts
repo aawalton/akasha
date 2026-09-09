@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const safetyReading = {
   id: "01a069bc-9375-7eee-b662-6f844c8880b6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "safety-reading",
   definition:
     "the safety level Alan logged, taken from his open block and kept on the safety readout",

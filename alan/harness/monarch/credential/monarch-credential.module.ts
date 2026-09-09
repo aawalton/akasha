@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchCredential = {
   id: "01a0685f-4ed9-74ca-87d5-38f3cedf684a",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-credential",
   definition: "the Monarch session headers, built from the cookie a signed-in browser holds",
   code: "ts",

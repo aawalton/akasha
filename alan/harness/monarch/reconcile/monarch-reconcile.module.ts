@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchReconcile = {
   id: "01a06865-ecc3-7dce-83d7-64dbed1ee5a2",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-reconcile",
   definition:
     "our copy weighed against what Monarch listed, and what Monarch no longer lists retired",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const trackResolving = {
   id: "01a06281-4d9d-7004-9a0b-82fe940e4d95",
   pageTypeSlug: "module",
+  type: "module",
   slug: "track-resolving",
   definition: "the track and the device a play command acts on",
   code: "ts",

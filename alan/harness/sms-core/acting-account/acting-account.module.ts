@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const actingAccount = {
   id: "01a05b6f-999c-79d6-962f-62b580eda479",
   pageTypeSlug: "module",
+  type: "module",
   slug: "acting-account",
   definition: "which account a seat is acting for, read back off the surface the channel wrote",
   code: "ts",

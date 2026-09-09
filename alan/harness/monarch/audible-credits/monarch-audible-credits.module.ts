@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchAudibleCredits = {
   id: "01a06866-06f1-7d56-8ec9-2fc9f52bc4eb",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-audible-credits",
   definition:
     "the books Alan spent an Audible credit on, written into Monarch as the budget each moved",

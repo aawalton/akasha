@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const retry = {
   id: "01a06255-4c6e-7515-882a-618e9bffc960",
   pageTypeSlug: "module",
+  type: "module",
   slug: "retry",
   definition: "an upstream connection break either side of the first chunk of a response",
   code: "ts",

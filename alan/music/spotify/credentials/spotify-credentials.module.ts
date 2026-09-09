@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const spotifyCredentials = {
   id: "01a06261-dc1d-7001-9784-4341766fba01",
   pageTypeSlug: "module",
+  type: "module",
   slug: "spotify-credentials",
   definition: "the three secrets a Spotify call is made under",
   code: "ts",

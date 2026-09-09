@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const musicbrainzSchema = {
   id: "01a06262-ff4b-7000-b97e-0a84ff1da2bd",
   pageTypeSlug: "module",
+  type: "module",
   slug: "musicbrainz-schema",
   definition: "the shape a MusicBrainz answer takes",
   code: "ts",

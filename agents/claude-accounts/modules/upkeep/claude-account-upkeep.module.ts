@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const claudeAccountUpkeep = {
   id: "01a0686d-ac38-7000-b5d8-56953633bf9f",
   pageTypeSlug: "module",
+  type: "module",
   slug: "claude-account-upkeep",
   definition: "the pass that renews every account's token and reads what each has spent",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchEvalAgent = {
   id: "01a06867-fdff-757f-b949-c56622460db1",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-eval-agent",
   definition: "the categories an agent proposes for a batch of transactions, and what it was asked",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const authError = {
   id: "01a0655d-daa6-78c9-a8e1-bdadc1e9ebed",
   pageTypeSlug: "module",
+  type: "module",
   slug: "auth-error",
   definition: "a thrown thing judged to be a sign-in that lapsed",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const smsCommandReading = {
   id: "01a0685f-c8ed-7006-a7df-a69c84e56f74",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sms-command-reading",
   definition: "the words an SMS command was called with, read, and the answer built from them",
   code: "ts",

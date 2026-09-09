@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const spotifyCacheFile = {
   id: "01a06261-dc1d-7002-81c0-cf6b422e7fb3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "spotify-cache-file",
   definition: "a small JSON file kept for Spotify in the user's cache folder",
   code: "ts",

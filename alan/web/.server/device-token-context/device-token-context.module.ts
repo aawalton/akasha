@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const deviceTokenContext = {
   id: "01a0655e-d399-7f83-8b69-496707b129e5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "device-token-context",
   definition: "the account a push registration is made for, read out of the request",
   code: "ts",

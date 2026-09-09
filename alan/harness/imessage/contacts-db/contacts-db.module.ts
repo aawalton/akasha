@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const contactsDb = {
   id: "01a05bc9-4308-7003-8ead-78b2057545e5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "contacts-db",
   definition: "names and the numbers and addresses they answer at, read from the address book",
   code: "ts",

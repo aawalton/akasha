@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const permissionDeniedRebind = {
   id: "01a0643b-c945-7a70-b5f1-62d8e7b25aa3",
   pageTypeSlug: "module",
+  type: "module",
   slug: "permission-denied-rebind",
   definition: "the account a request moves to after one account is refused permission",
   code: "ts",

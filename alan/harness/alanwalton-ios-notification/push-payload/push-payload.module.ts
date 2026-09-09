@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const pushPayload = {
   id: "01a069b6-bb6b-7ff9-a785-a069880a2e41",
   pageTypeSlug: "module",
+  type: "module",
   slug: "push-payload",
   definition: "what one push carries, and whose devices it is carried to",
   code: "ts",

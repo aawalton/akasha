@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const attributeStoplights = {
   id: "01a06858-8cfa-79e8-a5bc-b735b8f2f652",
   pageTypeSlug: "module",
+  type: "module",
   slug: "attribute-stoplights",
   definition: "the attributes group answered as the stoplights Alan's tile reads",
   code: "ts",

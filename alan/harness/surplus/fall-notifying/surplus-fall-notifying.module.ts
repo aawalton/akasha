@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const surplusFallNotifying = {
   id: "01a0686a-7a57-7e6e-8a26-5e4ca27ca43d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "surplus-fall-notifying",
   definition: "the day eating into the night, told to Alan once per rung it falls",
   code: "ts",

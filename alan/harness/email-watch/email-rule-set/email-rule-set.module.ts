@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const emailRuleSet = {
   id: "01a06871-54e5-7000-b703-1ea0c1101a4d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "email-rule-set",
   definition: "the fields an email rule tests, and where a person's rules of each kind are",
   code: "ts",

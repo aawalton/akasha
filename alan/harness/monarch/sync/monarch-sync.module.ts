@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchSync = {
   id: "01a06868-1536-78a0-ac3e-855101a65f64",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-sync",
   definition:
     "the whole of Monarch copied, compared against itself, and the rules run over what arrived",

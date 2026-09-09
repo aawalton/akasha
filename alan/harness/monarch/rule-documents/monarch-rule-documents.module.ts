@@ -3,6 +3,7 @@ import type { Module } from "../../../../code-system/modules/module.page-type.ts
 export const monarchRuleDocuments = {
   id: "01a06866-06f1-762e-b1c3-4910e1884927",
   pageTypeSlug: "module",
+  type: "module",
   slug: "monarch-rule-documents",
   definition: "the category rules, read from the pages inside akasha",
   code: "ts",

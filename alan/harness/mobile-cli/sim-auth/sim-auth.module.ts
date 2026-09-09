@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const simAuth = {
   id: "01a05cee-e560-7b4b-9878-974e9ad04004",
   pageTypeSlug: "module",
+  type: "module",
   slug: "sim-auth",
   definition: "password sign-in against supabase yielding a session and the user id it belongs to",
   code: "ts",

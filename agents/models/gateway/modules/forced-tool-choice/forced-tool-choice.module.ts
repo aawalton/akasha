@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const forcedToolChoice = {
   id: "01a0643b-c942-7c90-8314-374492f9e097",
   pageTypeSlug: "module",
+  type: "module",
   slug: "forced-tool-choice",
   definition: "a tool choice upstream refuses to force",
   code: "ts",
