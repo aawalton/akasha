@@ -9,5 +9,5 @@ export const inventory = {
   slug: "inventory",
   propertySlug: "inventory",
   definition: "the reading a slice belongs to",
-  targetPageTypeSlug: "page-type/temper-inventory-snapshot",
+  targetPageType: "page-type/temper-inventory-snapshot",
 } as const satisfies RelationProperty

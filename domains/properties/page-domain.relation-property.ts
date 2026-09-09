@@ -9,5 +9,5 @@ export const pageDomain = {
   slug: "page-domain",
   propertySlug: "domain",
   definition: "a slug naming a domain",
-  targetPageTypeSlug: "page-type/domain",
+  targetPageType: "page-type/domain",
 } as const satisfies RelationProperty

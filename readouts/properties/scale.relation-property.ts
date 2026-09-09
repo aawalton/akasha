@@ -9,5 +9,5 @@ export const scale = {
   slug: "scale",
   propertySlug: "scale",
   definition: "the scale a reading is read against",
-  targetPageTypeSlug: "page-type/readout-scale",
+  targetPageType: "page-type/readout-scale",
 } as const satisfies RelationProperty

@@ -9,5 +9,5 @@ export const proves = {
   slug: "proves",
   propertySlug: "proves",
   definition: "the proposition a proof attempts",
-  targetPageTypeSlug: "page-type/proposition",
+  targetPageType: "page-type/proposition",
 } as const satisfies RelationProperty

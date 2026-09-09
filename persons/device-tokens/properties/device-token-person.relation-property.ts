@@ -9,7 +9,7 @@ export const deviceTokenPerson = {
   slug: "device-token-person",
   propertySlug: "person",
   definition: "the person whose device has a token",
-  targetPageTypeSlug: "page-type/person",
+  targetPageType: "page-type/person",
   invariants: [
     {
       invariantKind: "departure",

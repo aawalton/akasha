@@ -9,7 +9,7 @@ export const person = {
   slug: "person",
   propertySlug: "person",
   definition: "the person a page is of",
-  targetPageTypeSlug: "page-type/person",
+  targetPageType: "page-type/person",
   invariants: [
     {
       invariantKind: "departure",

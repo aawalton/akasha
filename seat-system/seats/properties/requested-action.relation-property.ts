@@ -9,5 +9,5 @@ export const requestedAction = {
   slug: "requested-action",
   propertySlug: "action",
   definition: "what a seat's supervisor has been asked to do",
-  targetPageTypeSlug: "page-type/supervisor-action",
+  targetPageType: "page-type/supervisor-action",
 } as const satisfies RelationProperty

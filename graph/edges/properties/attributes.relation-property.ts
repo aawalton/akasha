@@ -10,5 +10,5 @@ export const attributes = {
   slug: "attributes",
   propertySlug: "attributes",
   definition: "the attributes an edge kind carries",
-  targetPageTypeSlug: "page-type/graph-attribute",
+  targetPageType: "page-type/graph-attribute",
 } as const satisfies RelationProperty

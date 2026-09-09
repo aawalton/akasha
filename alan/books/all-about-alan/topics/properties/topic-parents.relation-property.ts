@@ -10,7 +10,7 @@ export const topicParents = {
   slug: "topic-parents",
   propertySlug: "parents",
   definition: "the topics a topic sits under",
-  targetPageTypeSlug: "page-type/all-about-alan-topic",
+  targetPageType: "page-type/all-about-alan-topic",
   invariants: [
     {
       invariantKind: "departure",

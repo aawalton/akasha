@@ -10,7 +10,7 @@ export const partOfCollectionSlugs = {
   slug: "part-of-collection-slugs",
   propertySlug: "part-of-collection-slugs",
   definition: "the collections a collection is part of",
-  targetPageTypeSlug: "page-type/collection",
+  targetPageType: "page-type/collection",
   invariants: [
     {
       invariantKind: "departure",

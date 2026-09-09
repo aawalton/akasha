@@ -9,5 +9,5 @@ export const subStatements = {
   slug: "sub-statements",
   propertySlug: "sub-statements",
   definition: "the statements sitting under this one",
-  targetPageTypeSlug: "page-type/identity-statement",
+  targetPageType: "page-type/identity-statement",
 } as const satisfies RelationProperty

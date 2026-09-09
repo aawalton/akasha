@@ -9,5 +9,5 @@ export const parentStatement = {
   slug: "parent-statement",
   propertySlug: "parent-statement",
   definition: "the statement this one sits under",
-  targetPageTypeSlug: "page-type/identity-statement",
+  targetPageType: "page-type/identity-statement",
 } as const satisfies RelationProperty

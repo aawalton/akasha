@@ -10,5 +10,5 @@ export const esoInterfaces = {
   slug: "eso-interfaces",
   propertySlug: "interfaces",
   definition: "the XML documents an addon loads",
-  targetPageTypeSlug: "page-type/eso-interface",
+  targetPageType: "page-type/eso-interface",
 } as const satisfies RelationProperty

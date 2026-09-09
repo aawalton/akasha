@@ -8,7 +8,7 @@ export const generator = {
   slug: "generator",
   propertySlug: "generator",
   definition: "how this property's value is worked out when its page is created",
-  targetPageTypeSlug: "page-type/generator-kind",
+  targetPageType: "page-type/generator-kind",
   invariants: [
     {
       invariantKind: "departure",

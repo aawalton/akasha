@@ -10,5 +10,5 @@ export const groups = {
   slug: "groups",
   propertySlug: "groups",
   definition: "the groups a reading is drawn in",
-  targetPageTypeSlug: "page-type/readout-group",
+  targetPageType: "page-type/readout-group",
 } as const satisfies RelationProperty

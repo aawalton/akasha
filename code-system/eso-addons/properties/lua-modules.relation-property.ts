@@ -10,5 +10,5 @@ export const luaModules = {
   slug: "lua-modules",
   propertySlug: "lua-modules",
   definition: "the Lua modules an addon loads",
-  targetPageTypeSlug: "page-type/lua-module",
+  targetPageType: "page-type/lua-module",
 } as const satisfies RelationProperty

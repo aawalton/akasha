@@ -9,5 +9,5 @@ export const exercise = {
   slug: "exercise",
   propertySlug: "exercise",
   definition: "the movement the set was of",
-  targetPageTypeSlug: "page-type/exercise",
+  targetPageType: "page-type/exercise",
 } as const satisfies RelationProperty

@@ -9,7 +9,7 @@ export const questionAskedBy = {
   slug: "question-asked-by",
   propertySlug: "asked-by",
   definition: "the persona who put a question to Alan",
-  targetPageTypeSlug: "page-type/persona",
+  targetPageType: "page-type/persona",
   invariants: [
     {
       invariantKind: "departure",

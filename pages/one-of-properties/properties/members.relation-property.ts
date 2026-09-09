@@ -10,5 +10,5 @@ export const members = {
   slug: "members",
   propertySlug: "members",
   definition: "a slug naming a property a one-of property admits a value of",
-  targetPageTypeSlug: "page-type/page-property",
+  targetPageType: "page-type/page-property",
 } as const satisfies RelationProperty

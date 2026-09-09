@@ -9,5 +9,5 @@ export const sourcePersona = {
   slug: "source-persona",
   propertySlug: "persona",
   definition: "the persona whose points a source is counted into",
-  targetPageTypeSlug: "page-type/persona",
+  targetPageType: "page-type/persona",
 } as const satisfies RelationProperty

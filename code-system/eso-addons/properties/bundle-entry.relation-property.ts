@@ -9,5 +9,5 @@ export const bundleEntry = {
   slug: "bundle-entry",
   propertySlug: "bundle-entry",
   definition: "the module the transpiler starts an addon's one Lua file from",
-  targetPageTypeSlug: "page-type/module",
+  targetPageType: "page-type/module",
 } as const satisfies RelationProperty

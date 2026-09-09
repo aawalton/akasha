@@ -9,5 +9,5 @@ export const casePage = {
   slug: "case-page",
   propertySlug: "page",
   definition: "the page a case is drawn from",
-  targetPageTypeSlug: "page-type/page",
+  targetPageType: "page-type/page",
 } as const satisfies RelationProperty

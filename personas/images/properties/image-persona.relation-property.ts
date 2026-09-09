@@ -9,5 +9,5 @@ export const imagePersona = {
   slug: "image-persona",
   propertySlug: "persona",
   definition: "the persona a picture is drawn of",
-  targetPageTypeSlug: "page-type/persona",
+  targetPageType: "page-type/persona",
 } as const satisfies RelationProperty

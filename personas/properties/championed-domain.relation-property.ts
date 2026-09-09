@@ -9,5 +9,5 @@ export const championedDomain = {
   slug: "championed-domain",
   propertySlug: "championed-domain",
   definition: "the domain a persona champions",
-  targetPageTypeSlug: "page-type/domain",
+  targetPageType: "page-type/domain",
 } as const satisfies RelationProperty

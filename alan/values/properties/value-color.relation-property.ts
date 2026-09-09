@@ -9,7 +9,7 @@ export const valueColor = {
   slug: "value-color",
   propertySlug: "color",
   definition: "the color a value is always drawn in",
-  targetPageTypeSlug: "page-type/color",
+  targetPageType: "page-type/color",
   invariants: [
     {
       invariantKind: "departure",

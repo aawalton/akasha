@@ -9,7 +9,7 @@ export const manifest = {
   slug: "manifest",
   propertySlug: "manifest",
   definition: "the manifest a cluster service is applied as",
-  targetPageTypeSlug: "page-type/manifest",
+  targetPageType: "page-type/manifest",
   invariants: [
     {
       invariantKind: "departure",

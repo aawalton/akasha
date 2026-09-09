@@ -9,5 +9,5 @@ export const relationshipSmsHandlerTarget = {
   slug: "relationship-sms-handler-target",
   propertySlug: "relationship-sms-handler-target",
   definition: "the handler seat a text from this person is routed to",
-  targetPageTypeSlug: "page-type/person",
+  targetPageType: "page-type/person",
 } as const satisfies RelationProperty

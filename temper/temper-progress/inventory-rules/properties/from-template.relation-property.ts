@@ -8,7 +8,7 @@ export const fromTemplate = {
   slug: "from-template",
   propertySlug: "from-template",
   definition: "the template a rule in force was adopted from",
-  targetPageTypeSlug: "page-type/temper-rule-template",
+  targetPageType: "page-type/temper-rule-template",
   invariants: [
     {
       invariantKind: "departure",

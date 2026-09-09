@@ -10,5 +10,5 @@ export const personasCrafted = {
   slug: "personas-crafted",
   propertySlug: "personas-crafted",
   definition: "the personas made or improved on a day",
-  targetPageTypeSlug: "page-type/persona",
+  targetPageType: "page-type/persona",
 } as const satisfies RelationProperty

@@ -17,5 +17,5 @@ export const origin = {
   slug: "origin",
   propertySlug: "origin",
   definition: "where a persona's name comes from",
-  targetPageTypeSlug: "page-type/origin-kind",
+  targetPageType: "page-type/origin-kind",
 } as const satisfies RelationProperty

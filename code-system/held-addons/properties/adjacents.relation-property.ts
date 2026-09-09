@@ -10,7 +10,7 @@ export const adjacents = {
   slug: "adjacents",
   propertySlug: "adjacents",
   definition: "the addons a bite at this addon reaches",
-  targetPageTypeSlug: "page-type/held-addon",
+  targetPageType: "page-type/held-addon",
   invariants: [
     {
       invariantKind: "departure",

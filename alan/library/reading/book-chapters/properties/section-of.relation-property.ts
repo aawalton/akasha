@@ -9,7 +9,7 @@ export const sectionOf = {
   slug: "section-of",
   propertySlug: "section-of",
   definition: "the collection a section is an instalment of",
-  targetPageTypeSlug: "page-type/collection",
+  targetPageType: "page-type/collection",
   invariants: [
     {
       invariantKind: "departure",

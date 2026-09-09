@@ -10,5 +10,5 @@ export const programs = {
   slug: "programs",
   propertySlug: "programs",
   definition: "the programs an app builds",
-  targetPageTypeSlug: "page-type/ios-program",
+  targetPageType: "page-type/ios-program",
 } as const satisfies RelationProperty

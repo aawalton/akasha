@@ -10,7 +10,7 @@ export const secrets = {
   slug: "secrets",
   propertySlug: "secrets",
   definition: "a secret a workload reads",
-  targetPageTypeSlug: "page-type/secret",
+  targetPageType: "page-type/secret",
   invariants: [
     {
       invariantKind: "departure",

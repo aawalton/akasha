@@ -9,5 +9,5 @@ export const initiative = {
   slug: "initiative",
   propertySlug: "initiative",
   definition: "a slug naming an initiative",
-  targetPageTypeSlug: "page-type/initiative",
+  targetPageType: "page-type/initiative",
 } as const satisfies RelationProperty

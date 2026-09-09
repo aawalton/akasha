@@ -8,7 +8,7 @@ export const invariantKind = {
   slug: "invariant-kind",
   propertySlug: "invariant-kind",
   definition: "which sort of invariant one entry is",
-  targetPageTypeSlug: "page-type/invariant-kind",
+  targetPageType: "page-type/invariant-kind",
   invariants: [
     {
       invariantKind: "constraint",

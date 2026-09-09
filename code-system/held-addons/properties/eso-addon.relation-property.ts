@@ -9,7 +9,7 @@ export const esoAddon = {
   slug: "eso-addon",
   propertySlug: "eso-addon",
   definition: "the addon page the port holds",
-  targetPageTypeSlug: "page-type/eso-addon",
+  targetPageType: "page-type/eso-addon",
   invariants: [
     {
       invariantKind: "departure",

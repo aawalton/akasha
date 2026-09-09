@@ -10,7 +10,7 @@ export const topicPartOf = {
   slug: "topic-part-of",
   propertySlug: "part-of",
   definition: "the topics a topic sits under",
-  targetPageTypeSlug: "page-type/learn-everything-topic",
+  targetPageType: "page-type/learn-everything-topic",
   invariants: [
     {
       invariantKind: "departure",

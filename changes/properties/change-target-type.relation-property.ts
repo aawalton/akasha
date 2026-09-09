@@ -9,5 +9,5 @@ export const changeTargetType = {
   slug: "change-target-type",
   propertySlug: "change-target-type",
   definition: "the change target type a page names",
-  targetPageTypeSlug: "page-type/change-target-type",
+  targetPageType: "page-type/change-target-type",
 } as const satisfies RelationProperty

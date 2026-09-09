@@ -9,7 +9,7 @@ export const day = {
   slug: "day",
   propertySlug: "day",
   definition: "the tracked day a set falls on",
-  targetPageTypeSlug: "page-type/day",
+  targetPageType: "page-type/day",
   invariants: [
     {
       invariantKind: "departure",

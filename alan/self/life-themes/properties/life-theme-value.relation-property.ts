@@ -9,5 +9,5 @@ export const lifeThemeValue = {
   slug: "life-theme-value",
   propertySlug: "life-theme-value",
   definition: "the value a life theme is given over to",
-  targetPageTypeSlug: "page-type/value",
+  targetPageType: "page-type/value",
 } as const satisfies RelationProperty

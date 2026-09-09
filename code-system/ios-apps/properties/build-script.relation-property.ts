@@ -9,7 +9,7 @@ export const buildScript = {
   slug: "build-script",
   propertySlug: "build-script",
   definition: "the script that builds an app",
-  targetPageTypeSlug: "page-type/shell-script",
+  targetPageType: "page-type/shell-script",
   invariants: [
     {
       invariantKind: "departure",

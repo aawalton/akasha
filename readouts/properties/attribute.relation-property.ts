@@ -9,7 +9,7 @@ export const attribute = {
   slug: "attribute",
   propertySlug: "attribute",
   definition: "the attribute whose points a reading counts",
-  targetPageTypeSlug: "page-type/attribute",
+  targetPageType: "page-type/attribute",
   invariants: [
     {
       invariantKind: "departure",

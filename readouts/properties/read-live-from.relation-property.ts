@@ -9,7 +9,7 @@ export const readLiveFrom = {
   slug: "read-live-from",
   propertySlug: "read-live-from",
   definition: "the outside service a reading is taken from at the moment it is drawn",
-  targetPageTypeSlug: "page-type/domain",
+  targetPageType: "page-type/domain",
   invariants: [
     {
       invariantKind: "departure",

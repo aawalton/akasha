@@ -9,5 +9,5 @@ export const changeTargetSubtypeParent = {
   slug: "change-target-subtype-parent",
   propertySlug: "parent",
   definition: "the change target subtype another change target subtype narrows",
-  targetPageTypeSlug: "page-type/change-target-subtype",
+  targetPageType: "page-type/change-target-subtype",
 } as const satisfies RelationProperty

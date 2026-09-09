@@ -9,7 +9,7 @@ export const extendsSlug = {
   slug: "extends-slug",
   propertySlug: "extends-slug",
   definition: "a type a type takes its properties from",
-  targetPageTypeSlug: "page-type/page-type",
+  targetPageType: "page-type/page-type",
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const topicMasteryLevel = {
   slug: "topic-mastery-level",
   propertySlug: "mastery-level",
   definition: "the rung a topic is scored at",
-  targetPageTypeSlug: "page-type/mastery-level",
+  targetPageType: "page-type/mastery-level",
   invariants: [
     {
       invariantKind: "departure",

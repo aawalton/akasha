@@ -9,5 +9,5 @@ export const writtenChapterStory = {
   slug: "written-chapter-story",
   propertySlug: "story",
   definition: "the story a chapter was written for",
-  targetPageTypeSlug: "page-type/story-written",
+  targetPageType: "page-type/story-written",
 } as const satisfies RelationProperty

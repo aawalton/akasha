@@ -9,5 +9,5 @@ export const principalSeatName = {
   slug: "principal-seat-name",
   propertySlug: "principal-seat-name",
   definition: "the seat that spawned this one",
-  targetPageTypeSlug: "page-type/seat",
+  targetPageType: "page-type/seat",
 } as const satisfies RelationProperty

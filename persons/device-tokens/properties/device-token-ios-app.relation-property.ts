@@ -9,7 +9,7 @@ export const deviceTokenIosApp = {
   slug: "device-token-ios-app",
   propertySlug: "ios-app",
   definition: "the app a push reaches on the device with a token",
-  targetPageTypeSlug: "page-type/ios-app",
+  targetPageType: "page-type/ios-app",
   invariants: [
     {
       invariantKind: "departure",

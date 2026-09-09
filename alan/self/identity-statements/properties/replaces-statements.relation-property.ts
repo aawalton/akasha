@@ -9,5 +9,5 @@ export const replacesStatements = {
   slug: "replaces-statements",
   propertySlug: "replaces-statements",
   definition: "the statements this one supersedes",
-  targetPageTypeSlug: "page-type/identity-statement",
+  targetPageType: "page-type/identity-statement",
 } as const satisfies RelationProperty

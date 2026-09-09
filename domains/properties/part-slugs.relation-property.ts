@@ -10,7 +10,7 @@ export const partSlugs = {
   slug: "part-slugs",
   propertySlug: "part-slugs",
   definition: "the domains this one is made of, in the order they are read",
-  targetPageTypeSlug: "page-type/domain",
+  targetPageType: "page-type/domain",
   invariants: [
     {
       invariantKind: "departure",

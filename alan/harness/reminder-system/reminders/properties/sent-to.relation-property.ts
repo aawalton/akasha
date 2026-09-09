@@ -9,5 +9,5 @@ export const sentTo = {
   slug: "sent-to",
   propertySlug: "to",
   definition: "the persona something is sent to",
-  targetPageTypeSlug: "page-type/persona",
+  targetPageType: "page-type/persona",
 } as const satisfies RelationProperty

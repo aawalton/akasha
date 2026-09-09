@@ -10,5 +10,5 @@ export const components = {
   slug: "components",
   propertySlug: "components",
   definition: "the components a program compiles",
-  targetPageTypeSlug: "page-type/ios-component",
+  targetPageType: "page-type/ios-component",
 } as const satisfies RelationProperty

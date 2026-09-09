@@ -9,5 +9,5 @@ export const relationshipDepositValue = {
   slug: "relationship-deposit-value",
   propertySlug: "relationship-deposit-value",
   definition: "the value it served",
-  targetPageTypeSlug: "page-type/value",
+  targetPageType: "page-type/value",
 } as const satisfies RelationProperty

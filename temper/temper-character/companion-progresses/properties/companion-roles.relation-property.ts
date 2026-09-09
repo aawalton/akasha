@@ -9,5 +9,5 @@ export const companionRoles = {
   slug: "companion-roles",
   propertySlug: "roles",
   definition: "a duty a companion is planned to cover",
-  targetPageTypeSlug: "page-type/temper-companion-role",
+  targetPageType: "page-type/temper-companion-role",
 } as const satisfies RelationProperty

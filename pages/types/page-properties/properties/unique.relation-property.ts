@@ -8,7 +8,7 @@ export const unique = {
   slug: "unique",
   propertySlug: "unique",
   definition: "the pages this property's value is unique among",
-  targetPageTypeSlug: "page-type/unique-kind",
+  targetPageType: "page-type/unique-kind",
   invariants: [
     {
       invariantKind: "departure",

@@ -8,5 +8,5 @@ export const action = {
   slug: "action",
   propertySlug: "action",
   definition: "what a rule does to an item the rule matches",
-  targetPageTypeSlug: "page-type/temper-item-action",
+  targetPageType: "page-type/temper-item-action",
 } as const satisfies RelationProperty

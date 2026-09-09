@@ -8,7 +8,7 @@ export const proseFrame = {
   slug: "prose-frame",
   propertySlug: "frame",
   definition: "the construction a replacement pair is written for",
-  targetPageTypeSlug: "page-type/prose-frame",
+  targetPageType: "page-type/prose-frame",
   invariants: [
     {
       invariantKind: "constraint",

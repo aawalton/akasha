@@ -9,7 +9,7 @@ export const questionTopic = {
   slug: "question-topic",
   propertySlug: "topic",
   definition: "the topic a question is open on",
-  targetPageTypeSlug: "page-type/all-about-alan-topic",
+  targetPageType: "page-type/all-about-alan-topic",
   invariants: [
     {
       invariantKind: "departure",

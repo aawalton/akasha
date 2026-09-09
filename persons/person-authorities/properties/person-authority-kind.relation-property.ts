@@ -13,5 +13,5 @@ export const personAuthorityKind = {
   slug: "person-authority-kind",
   propertySlug: "authority-kind",
   definition: "which sort of act the authority permits",
-  targetPageTypeSlug: "page-type/authority-kind",
+  targetPageType: "page-type/authority-kind",
 } as const satisfies RelationProperty

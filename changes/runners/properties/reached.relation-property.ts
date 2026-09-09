@@ -9,5 +9,5 @@ export const reached = {
   slug: "reached",
   propertySlug: "reached",
   definition: "the page type whose changes a runner reaches",
-  targetPageTypeSlug: "page-type/page-type",
+  targetPageType: "page-type/page-type",
 } as const satisfies RelationProperty

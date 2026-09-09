@@ -9,5 +9,5 @@ export const component = {
   slug: "component",
   propertySlug: "component",
   definition: "the component a tile is drawn in",
-  targetPageTypeSlug: "page-type/ios-component",
+  targetPageType: "page-type/ios-component",
 } as const satisfies RelationProperty

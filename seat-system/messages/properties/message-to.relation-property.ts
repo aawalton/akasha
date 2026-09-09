@@ -9,7 +9,7 @@ export const messageTo = {
   slug: "message-to",
   propertySlug: "to",
   definition: "the seat a message is addressed to",
-  targetPageTypeSlug: "page-type/seat",
+  targetPageType: "page-type/seat",
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const viewPageType = {
   slug: "view-page-type",
   propertySlug: "page-type",
   definition: "the page type whose pages a view lists",
-  targetPageTypeSlug: "page-type/page-type",
+  targetPageType: "page-type/page-type",
   invariants: [
     {
       invariantKind: "departure",

@@ -9,7 +9,7 @@ export const turnStateColor = {
   slug: "turn-state-color",
   propertySlug: "color",
   definition: "the color a seat in this turn state is drawn in",
-  targetPageTypeSlug: "page-type/color",
+  targetPageType: "page-type/color",
   invariants: [
     {
       invariantKind: "departure",

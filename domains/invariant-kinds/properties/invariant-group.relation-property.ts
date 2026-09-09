@@ -9,5 +9,5 @@ export const invariantGroup = {
   slug: "invariant-group",
   propertySlug: "invariant-group",
   definition: "a slug naming an invariant group",
-  targetPageTypeSlug: "page-type/invariant-group",
+  targetPageType: "page-type/invariant-group",
 } as const satisfies RelationProperty

@@ -9,5 +9,5 @@ export const currencyKey = {
   slug: "currency-key",
   propertySlug: "currency-key",
   definition: "the currency an amount is held in",
-  targetPageTypeSlug: "page-type/temper-inventory-currency",
+  targetPageType: "page-type/temper-inventory-currency",
 } as const satisfies RelationProperty

@@ -10,5 +10,5 @@ export const rustModules = {
   slug: "rust-modules",
   propertySlug: "modules",
   definition: "the modules a crate compiles",
-  targetPageTypeSlug: "page-type/rust-module",
+  targetPageType: "page-type/rust-module",
 } as const satisfies RelationProperty

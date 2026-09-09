@@ -9,5 +9,5 @@ export const sessionPersona = {
   slug: "session-persona",
   propertySlug: "persona",
   definition: "the persona who made a review pass",
-  targetPageTypeSlug: "page-type/persona",
+  targetPageType: "page-type/persona",
 } as const satisfies RelationProperty

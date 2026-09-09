@@ -10,5 +10,5 @@ export const tags = {
   slug: "tags",
   propertySlug: "tags",
   definition: "the labels applied to a transaction",
-  targetPageTypeSlug: "page-type/monarch-tag",
+  targetPageType: "page-type/monarch-tag",
 } as const satisfies RelationProperty

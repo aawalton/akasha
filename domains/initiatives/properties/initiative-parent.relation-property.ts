@@ -9,7 +9,7 @@ export const initiativeParent = {
   slug: "initiative-parent",
   propertySlug: "parent",
   definition: "the initiative an initiative sits under",
-  targetPageTypeSlug: "page-type/initiative",
+  targetPageType: "page-type/initiative",
   invariants: [
     {
       invariantKind: "departure",

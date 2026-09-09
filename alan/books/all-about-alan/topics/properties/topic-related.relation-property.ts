@@ -10,7 +10,7 @@ export const topicRelated = {
   slug: "topic-related",
   propertySlug: "related",
   definition: "the topics a topic reaches across to",
-  targetPageTypeSlug: "page-type/all-about-alan-topic",
+  targetPageType: "page-type/all-about-alan-topic",
   invariants: [
     {
       invariantKind: "departure",

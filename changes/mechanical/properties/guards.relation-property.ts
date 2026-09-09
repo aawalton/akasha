@@ -9,7 +9,7 @@ export const guards = {
   slug: "guards",
   propertySlug: "guards",
   definition: "a guard that runs on the answer a change gives",
-  targetPageTypeSlug: "page-type/change-guard",
+  targetPageType: "page-type/change-guard",
   invariants: [
     {
       invariantKind: "departure",

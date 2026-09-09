@@ -8,5 +8,5 @@ export const directiveKind = {
   slug: "directive-kind",
   propertySlug: "directive-kind",
   definition: "which sort of directive one entry is",
-  targetPageTypeSlug: "page-type/directive-kind",
+  targetPageType: "page-type/directive-kind",
 } as const satisfies RelationProperty

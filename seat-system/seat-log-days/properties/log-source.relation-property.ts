@@ -9,5 +9,5 @@ export const logSource = {
   slug: "log-source",
   propertySlug: "source",
   definition: "the stream a day of lines was written by",
-  targetPageTypeSlug: "page-type/log-source",
+  targetPageType: "page-type/log-source",
 } as const satisfies RelationProperty

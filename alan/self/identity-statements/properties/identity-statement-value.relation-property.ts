@@ -9,5 +9,5 @@ export const identityStatementValue = {
   slug: "identity-statement-value",
   propertySlug: "identity-statement-value",
   definition: "the value the statement serves",
-  targetPageTypeSlug: "page-type/value",
+  targetPageType: "page-type/value",
 } as const satisfies RelationProperty

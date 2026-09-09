@@ -9,7 +9,7 @@ export const emailRuleCodeForwardTo = {
   slug: "email-rule-code-forward-to",
   propertySlug: "forward-to",
   definition: "who a piece of mail the rule matches is forwarded to",
-  targetPageTypeSlug: "page-type/person",
+  targetPageType: "page-type/person",
   invariants: [
     { invariantKind: "departure", statement: "Forwarding names a person rather than an address." },
   ],

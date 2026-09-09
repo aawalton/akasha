@@ -8,5 +8,5 @@ export const questGiver = {
   slug: "quest-giver",
   propertySlug: "quest-giver",
   definition: "the character handing out a dungeon's pledge",
-  targetPageTypeSlug: "page-type/temper-quest-giver",
+  targetPageType: "page-type/temper-quest-giver",
 } as const satisfies RelationProperty

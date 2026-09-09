@@ -9,5 +9,5 @@ export const categorySlug = {
   slug: "category-slug",
   propertySlug: "category-slug",
   definition: "what a transaction counts as",
-  targetPageTypeSlug: "page-type/monarch-category",
+  targetPageType: "page-type/monarch-category",
 } as const satisfies RelationProperty

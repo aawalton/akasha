@@ -9,5 +9,5 @@ export const loadedBy = {
   slug: "loaded-by",
   propertySlug: "loaded-by",
   definition: "the module whose code loads pages of this type",
-  targetPageTypeSlug: "page-type/module",
+  targetPageType: "page-type/module",
 } as const satisfies RelationProperty

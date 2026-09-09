@@ -9,5 +9,5 @@ export const artist = {
   slug: "artist",
   propertySlug: "artist",
   definition: "the artist whose song it is",
-  targetPageTypeSlug: "page-type/artist",
+  targetPageType: "page-type/artist",
 } as const satisfies RelationProperty

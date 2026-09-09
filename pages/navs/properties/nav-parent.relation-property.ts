@@ -9,7 +9,7 @@ export const navParent = {
   slug: "nav-parent",
   propertySlug: "nav-parent",
   definition: "the nav item a nav item sits beneath",
-  targetPageTypeSlug: "page-type/nav",
+  targetPageType: "page-type/nav",
   invariants: [
     {
       invariantKind: "departure",

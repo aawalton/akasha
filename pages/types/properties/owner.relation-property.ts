@@ -9,7 +9,7 @@ export const owner = {
   slug: "owner",
   propertySlug: "owner",
   definition: "the property naming the account a page belongs to",
-  targetPageTypeSlug: "page-type/page-property",
+  targetPageType: "page-type/page-property",
   invariants: [
     {
       invariantKind: "departure",

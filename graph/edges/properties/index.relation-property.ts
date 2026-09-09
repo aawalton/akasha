@@ -9,5 +9,5 @@ export const index = {
   slug: "index",
   propertySlug: "index",
   definition: "the index answering an edge kind",
-  targetPageTypeSlug: "page-type/index",
+  targetPageType: "page-type/index",
 } as const satisfies RelationProperty

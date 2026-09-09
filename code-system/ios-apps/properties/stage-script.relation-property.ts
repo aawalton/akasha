@@ -9,7 +9,7 @@ export const stageScript = {
   slug: "stage-script",
   propertySlug: "stage-script",
   definition: "the script that builds the site an app serves",
-  targetPageTypeSlug: "page-type/shell-script",
+  targetPageType: "page-type/shell-script",
   invariants: [
     {
       invariantKind: "departure",

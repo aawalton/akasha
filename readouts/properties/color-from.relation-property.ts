@@ -9,7 +9,7 @@ export const colorFrom = {
   slug: "color-from",
   propertySlug: "color-from",
   definition: "the reading whose color this one takes",
-  targetPageTypeSlug: "page-type/readout",
+  targetPageType: "page-type/readout",
   invariants: [
     {
       invariantKind: "departure",

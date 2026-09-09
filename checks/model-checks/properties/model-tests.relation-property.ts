@@ -10,7 +10,7 @@ export const modelTests = {
   slug: "model-tests",
   propertySlug: "model-tests",
   definition: "the tests a check puts to a model, in the order they are run",
-  targetPageTypeSlug: "page-type/model-test",
+  targetPageType: "page-type/model-test",
   invariants: [
     {
       invariantKind: "departure",

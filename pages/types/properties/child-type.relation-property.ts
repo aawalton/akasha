@@ -9,5 +9,5 @@ export const childType = {
   slug: "child-type",
   propertySlug: "child-type",
   definition: "the page type of the pages a page gathers",
-  targetPageTypeSlug: "page-type/page-type",
+  targetPageType: "page-type/page-type",
 } as const satisfies RelationProperty

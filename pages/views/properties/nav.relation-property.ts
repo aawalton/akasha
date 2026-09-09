@@ -9,7 +9,7 @@ export const nav = {
   slug: "nav",
   propertySlug: "nav",
   definition: "the nav item a view sits under",
-  targetPageTypeSlug: "page-type/nav",
+  targetPageType: "page-type/nav",
   invariants: [
     {
       invariantKind: "departure",

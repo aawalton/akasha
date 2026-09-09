@@ -8,5 +8,5 @@ export const personAccessKind = {
   slug: "person-access-kind",
   propertySlug: "access-kind",
   definition: "which sort of thing the access reaches",
-  targetPageTypeSlug: "page-type/access-kind",
+  targetPageType: "page-type/access-kind",
 } as const satisfies RelationProperty

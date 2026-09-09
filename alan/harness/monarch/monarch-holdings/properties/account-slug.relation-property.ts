@@ -9,7 +9,7 @@ export const accountSlug = {
   slug: "account-slug",
   propertySlug: "account-slug",
   definition: "the account a holding or a transaction sits under",
-  targetPageTypeSlug: "page-type/monarch-account",
+  targetPageType: "page-type/monarch-account",
   invariants: [
     {
       invariantKind: "departure",
