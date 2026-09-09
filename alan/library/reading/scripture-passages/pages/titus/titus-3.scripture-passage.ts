@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const titus3 = {
   id: "01a06804-11b2-7003-b374-2014eec2e5b4",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "titus-3",
   title: "Titus 3",
   book: "Titus",

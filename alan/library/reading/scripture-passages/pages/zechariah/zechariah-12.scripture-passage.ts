@@ -3,6 +3,7 @@ import type { ScripturePassage } from "../../scripture-passage.page-type.ts"
 export const zechariah12 = {
   id: "01a06804-11b2-7007-943e-70ad7384d3ba",
   pageTypeSlug: "scripture-passage",
+  type: "scripture-passage",
   slug: "zechariah-12",
   title: "Zechariah 12",
   book: "Zechariah",
