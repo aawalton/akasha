@@ -8,8 +8,8 @@ import type { World } from "@akasha/changes/change-shadow"
 import { editsIn, keptEdits } from "@akasha/changes/edits-keeping"
 import { handedPageOf } from "@akasha/changes/subagent-handed"
 import { idOf, indexedRepo, NAMER_CODE, NAMER_PAGE, pageOf } from "@akasha/indexes/indexing/testing"
-import type { Answer } from "../calling/calling.module.code.ts"
-import type { Piping } from "../piping/piping.module.code.ts"
+import type { Answer } from "../../../command-system/calling/calling.module.code.ts"
+import type { Piping } from "../../../command-system/piping/piping.module.code.ts"
 import { type Applying, type Chosen, changing, type Over } from "./change-running.module.code.ts"
 
 export const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
@@ -105,7 +105,7 @@ const ANY_KIND = "akasha/changes/remove-file-of-any-kind.change-mechanical"
 
 const ANY_KIND_CODE = join(
   import.meta.dir,
-  "../../changes/mechanical/file/remove/remove-file-of-any-kind",
+  "../../../changes/mechanical/file/remove/remove-file-of-any-kind",
   "remove-file-of-any-kind.change-mechanical.code.ts"
 )
 

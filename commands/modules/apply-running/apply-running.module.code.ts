@@ -10,7 +10,6 @@ import {
 } from "../../../command-system/applying/applying.module.code.ts"
 import { mistaking } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { noPageSaid } from "../../../command-system/change-running/change-running.module.code.ts"
 import {
   type Rebased,
   type Running,
@@ -25,6 +24,7 @@ import {
 } from "../argument-reading/argument-reading.module.code.ts"
 import { waitingSaid } from "../change-acting/change-acting.module.code.ts"
 import { APPLY, CHANGE_APPLY_PAGE } from "../change-costing/change-costing.module.code.ts"
+import { noPageSaid } from "../change-running/change-running.module.code.ts"
 import { allowedAgain, MEASURED_ALLOWED } from "../command-stopping/command-stopping.module.code.ts"
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }

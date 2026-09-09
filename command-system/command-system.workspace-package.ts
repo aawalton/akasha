@@ -29,7 +29,6 @@ export const commandSystem = {
     "module/mechanical-landing",
     "module/seat-act-calling",
     "module/edits-landing",
-    "module/change-running",
     "module/path-moving",
     "performance/landing-throughput",
   ],
