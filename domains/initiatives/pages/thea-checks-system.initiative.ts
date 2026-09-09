@@ -7,11 +7,6 @@ export const theaChecksSystem = {
   domainSlug: "workspace-package/check",
   personaSlug: "thea",
   intents: [
-    {
-      statement: "The old system has no check of its own.",
-      workingMemory:
-        "What is left of the old system is scaffolding rather than checks: no page of type cluster-check remains. checks/cluster-checks holds the page type, 11 properties nothing outside names, 32 module pages the page type alone names, and 34 code bodies of which 2 are unpaged. One live import leaves the folder: no-unparsed-boundary-read takes CHECK_EXEMPT_DIRS, two strings, from repo-scope. checks/package.json exports three subpaths nobody imports.",
-    },
     { statement: "No finding is filed on checks-system or any part beneath it." },
     { statement: "No gap invariant is written on checks-system or any part beneath it." },
     {
@@ -45,11 +40,6 @@ export const theaChecksSystem = {
         "Ten of eleven settled. The eight ESO days from 2026-08-31 to 09-07 have pages again and their samples are claimed, Alan taking the writer itself separately. The two eso-daily-tracking strays are gone, every measurement in them already on its ESO day once floats and timestamps are normalised. Left is change-running.change-runner.addressed.ts, which no hand can remove: an apply drops any edit naming a change-runner addressed file, reading only the name. Filed as a finding.",
     },
     {
-      statement: "Every cluster-check module body is claimed by a page.",
-      workingMemory:
-        "Three left: cli-args, repo-root and tree-reading. No page can be written for any, a slug being unique within its page type and each of those three slugs already held by a module page elsewhere. They wait on the same uniquePropertySlug call as the routes.",
-    },
-    {
       statement: "Every checksum annotation a workload has derives from a secret its page names.",
       workingMemory:
         "Every workload carrying a checksum annotation now names its secrets, but buildkit and promtail, whose annotation tracks a ConfigMap the manifest emits rather than a secret. 8 secret pages were written for the 4 s3-creds resources that had none, placements only and no sops value. Left: the deploy fills the annotation. workload-deploying cannot, carrying the absence that nothing there reads a page, so the filling sits with web-app-reading, which already reads the cluster-service page.",
@@ -59,7 +49,11 @@ export const theaChecksSystem = {
       workingMemory:
         "Six commits: every client read takes import.meta.env.VITE_* now, the manifests hand each key under both names, and the iOS stage script supplies VITE_API_ORIGIN, the only supplier that key has anywhere. supabaseClientEnvDefine still inlines four process.env.NEXT_PUBLIC_* keys no client read uses, and throws unless two are set, so six vite builds require two dead variables. Dropping the Next names is held: seven route files with the build sha and the pmtiles url are claimed by no page.",
     },
-    { statement: "A check looks for unused code and passes." },
+    {
+      statement: "A check looks for unused code and passes.",
+      workingMemory:
+        "The ast-unused audit is the finder that exists: 8 ast-unused-config pages, now under code-system/audit-ast-unused/ast-unused-configs/pages, name the entry globs each workspace family is read under. They were parked in the cluster-checks folder and came out before it went. Nothing in the tree resolves the curation path or runs the tool, so both what runs it and what it answers over the tree as it is are unmeasured. nimue-code-cleanup names it too.",
+    },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
