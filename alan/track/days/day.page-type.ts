@@ -141,7 +141,7 @@ export const day = {
     "page-property-entry/completed-tasks",
     "page-property-entry/sessions",
     "record-property/persona-messages",
-    "relation-property/messaged-persona-slug",
+    "relation-property/messaged-persona",
     "text-property/date",
     "text-property/meals",
     "text-property/recurrence",

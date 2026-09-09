@@ -1,10 +1,10 @@
 import type { List } from "@akasha/pages/page-property"
 import type { RecordProperty } from "@akasha/pages/record-property"
-import type { MessagedPersonaSlug } from "./messaged-persona-slug.relation-property.ts"
+import type { MessagedPersona } from "./messaged-persona.relation-property.ts"
 import type { MessagesSent } from "./messages-sent.number-property.ts"
 
 export type PersonaMessage = {
-  personaSlug: MessagedPersonaSlug
+  personaSlug: MessagedPersona
   sent: MessagesSent
 }
 
@@ -17,7 +17,7 @@ export const personaMessages = {
   propertySlug: "persona-messages",
   definition: "how many messages each persona was written on a day",
   properties: [
-    { pagePropertySlug: "relation-property/messaged-persona-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/messaged-persona", required: true, many: false },
     { pagePropertySlug: "number-property/messages-sent", required: true, many: false },
   ],
   invariants: [
