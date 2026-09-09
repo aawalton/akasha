@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0010Chapter484EchoingWillow = {
   story: "system-change-system-universe",
   position: 10,
   ownLength: 1993,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1938491/chapter-484-echoing-willow",

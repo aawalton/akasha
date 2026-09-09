@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0096Chapter674GainsAndPlans = {
   story: "system-change-system-universe",
   position: 96,
   ownLength: 2175,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3779779/chapter-674-gains-and-plans",

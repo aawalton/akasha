@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0072Chapter71TheGrandOpening = 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 72,
   ownLength: 3247,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3285821/chapter-71-the-grand-opening",

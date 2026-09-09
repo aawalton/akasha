@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0057Chapter635Terms = {
   story: "system-change-system-universe",
   position: 57,
   ownLength: 2014,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3145455/chapter-635-terms",

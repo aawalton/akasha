@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0103Chapter681Protocol3 = {
   story: "system-change-system-universe",
   position: 103,
   ownLength: 2094,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3898000/chapter-681-protocol-3",

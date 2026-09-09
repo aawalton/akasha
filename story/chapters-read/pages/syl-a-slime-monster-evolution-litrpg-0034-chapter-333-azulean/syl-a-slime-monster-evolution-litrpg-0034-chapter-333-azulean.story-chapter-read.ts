@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0034Chapter333Azulean = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 34,
   ownLength: 2225,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2912795/chapter-333-azulean",

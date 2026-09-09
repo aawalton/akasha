@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0005SystemChangeSystemUniverseBook1Announ
   story: "system-change-system-universe",
   position: 5,
   ownLength: 475,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1041040/system-change-system-universe-book-1-announcement",

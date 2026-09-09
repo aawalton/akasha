@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0091Chapter90TheMichelinMenu = 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 91,
   ownLength: 2212,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3656135/chapter-90-the-michelin-menu",

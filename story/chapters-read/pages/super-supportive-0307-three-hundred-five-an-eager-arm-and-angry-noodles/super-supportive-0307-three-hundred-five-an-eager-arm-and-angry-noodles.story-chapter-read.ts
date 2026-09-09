@@ -7,7 +7,7 @@ export const superSupportive0307ThreeHundredFiveAnEagerArmAndAngryNoodles = {
   story: "story-read/super-supportive",
   position: 307,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3913299",
   source: "royal-road",
   title: "THREE HUNDRED FIVE: An Eager Arm and Angry Noodles",

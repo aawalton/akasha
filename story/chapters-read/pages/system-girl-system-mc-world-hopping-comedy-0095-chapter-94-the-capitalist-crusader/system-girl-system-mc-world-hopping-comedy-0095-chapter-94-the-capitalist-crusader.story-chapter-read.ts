@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0095Chapter94TheCapitalistCrusa
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 95,
   ownLength: 1990,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3744796/chapter-94-the-capitalist-crusader",

@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0094Chapter672JumpInRankings = {
   story: "system-change-system-universe",
   position: 94,
   ownLength: 2146,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3770723/chapter-672-jump-in-rankings",

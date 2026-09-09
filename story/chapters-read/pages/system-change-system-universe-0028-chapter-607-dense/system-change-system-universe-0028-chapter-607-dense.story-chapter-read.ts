@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0028Chapter607Dense = {
   story: "system-change-system-universe",
   position: 28,
   ownLength: 2593,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2798002/chapter-607-dense",

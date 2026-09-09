@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0035Chapter614OriginCity = {
   story: "system-change-system-universe",
   position: 35,
   ownLength: 2191,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2874837/chapter-614-origin-city",

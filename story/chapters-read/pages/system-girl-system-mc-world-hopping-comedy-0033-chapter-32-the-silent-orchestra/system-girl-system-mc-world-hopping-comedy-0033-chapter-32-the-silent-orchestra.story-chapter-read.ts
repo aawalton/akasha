@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0033Chapter32TheSilentOrchestra
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 33,
   ownLength: 1996,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2712234/chapter-32-the-silent-orchestra",

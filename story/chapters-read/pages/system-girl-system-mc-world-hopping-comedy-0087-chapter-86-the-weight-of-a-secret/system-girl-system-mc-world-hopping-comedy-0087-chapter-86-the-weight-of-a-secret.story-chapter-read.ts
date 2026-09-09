@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0087Chapter86TheWeightOfASecret
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 87,
   ownLength: 2631,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3571839/chapter-86-the-weight-of-a-secret",

@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0032Chapter611TastyElfPerson = {
   story: "system-change-system-universe",
   position: 32,
   ownLength: 2240,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2840187/chapter-611-tasty-elf-person",

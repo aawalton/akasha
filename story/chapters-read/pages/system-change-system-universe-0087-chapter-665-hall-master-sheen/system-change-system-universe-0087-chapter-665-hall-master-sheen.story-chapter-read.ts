@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0087Chapter665HallMasterSheen = {
   story: "system-change-system-universe",
   position: 87,
   ownLength: 2132,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3655220/chapter-665-hall-master-sheen",

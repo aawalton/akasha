@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0001Chapter1IntoThePortal = {
   story: "system-change-system-universe",
   position: 1,
   ownLength: 1911,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/544906/chapter-1-into-the-portal",

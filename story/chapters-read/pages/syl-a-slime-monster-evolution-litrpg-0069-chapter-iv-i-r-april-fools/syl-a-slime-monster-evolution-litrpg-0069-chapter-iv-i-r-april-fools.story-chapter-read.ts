@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0069ChapterIvIRAprilFools = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 69,
   ownLength: 12018,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3217291/chapter-iv-i-r-april-fools",

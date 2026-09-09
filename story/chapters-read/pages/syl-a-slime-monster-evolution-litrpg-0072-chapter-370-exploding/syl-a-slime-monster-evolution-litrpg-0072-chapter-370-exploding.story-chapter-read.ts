@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0072Chapter370Exploding = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 72,
   ownLength: 2366,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3246566/chapter-370-exploding",

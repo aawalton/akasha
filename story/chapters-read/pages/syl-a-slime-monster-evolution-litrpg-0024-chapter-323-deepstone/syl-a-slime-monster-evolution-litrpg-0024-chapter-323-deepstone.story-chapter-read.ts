@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0024Chapter323Deepstone = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 24,
   ownLength: 2199,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2834791/chapter-323-deepstone",

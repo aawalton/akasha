@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0040Chapter39TheDebriefing = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 40,
   ownLength: 1820,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2781279/chapter-39-the-debriefing",

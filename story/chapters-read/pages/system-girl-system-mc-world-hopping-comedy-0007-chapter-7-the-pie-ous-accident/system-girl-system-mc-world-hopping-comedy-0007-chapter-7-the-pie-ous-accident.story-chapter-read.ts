@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0007Chapter7ThePieOusAccident =
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 7,
   ownLength: 1584,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2583226/chapter-7-the-pie-ous-accident",

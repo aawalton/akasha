@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0019Chapter318ADifferentPerspective 
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 19,
   ownLength: 2324,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2793855/chapter-318-a-different-perspective",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0122Chapter420TravelTraining = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 122,
   ownLength: 2316,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3866229/chapter-420-travel-training",

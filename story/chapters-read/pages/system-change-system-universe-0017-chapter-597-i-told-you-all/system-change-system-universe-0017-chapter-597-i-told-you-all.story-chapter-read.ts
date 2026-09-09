@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0017Chapter597IToldYouAll = {
   story: "system-change-system-universe",
   position: 17,
   ownLength: 2083,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2712862/chapter-597-i-told-you-all",

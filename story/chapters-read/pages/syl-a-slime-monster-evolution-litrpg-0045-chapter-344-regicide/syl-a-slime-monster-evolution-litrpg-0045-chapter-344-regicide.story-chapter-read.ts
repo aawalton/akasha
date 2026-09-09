@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0045Chapter344Regicide = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 45,
   ownLength: 2255,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3003678/chapter-344-regicide",

@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0070Chapter648NoIngredients = {
   story: "system-change-system-universe",
   position: 70,
   ownLength: 2063,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3388411/chapter-648-no-ingredients",

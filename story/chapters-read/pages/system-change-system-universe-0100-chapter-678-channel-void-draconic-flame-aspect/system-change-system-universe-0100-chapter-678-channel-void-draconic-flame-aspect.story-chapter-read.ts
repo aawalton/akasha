@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0100Chapter678ChannelVoidDraconicFlameAsp
   story: "system-change-system-universe",
   position: 100,
   ownLength: 2330,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3840844/chapter-678-channel-void-draconic-flame-aspect",

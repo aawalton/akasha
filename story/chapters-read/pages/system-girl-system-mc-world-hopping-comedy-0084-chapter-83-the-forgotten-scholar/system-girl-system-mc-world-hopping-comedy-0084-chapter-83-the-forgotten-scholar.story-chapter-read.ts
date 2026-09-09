@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0084Chapter83TheForgottenSchola
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 84,
   ownLength: 2093,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3510800/chapter-83-the-forgotten-scholar",

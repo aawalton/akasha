@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0063Chapter362Deduction = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 63,
   ownLength: 2400,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3164551/chapter-362-deduction",

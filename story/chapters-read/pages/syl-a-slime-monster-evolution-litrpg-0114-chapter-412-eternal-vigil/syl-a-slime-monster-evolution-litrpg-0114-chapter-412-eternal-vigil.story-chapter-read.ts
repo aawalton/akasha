@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0114Chapter412EternalVigil = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 114,
   ownLength: 2409,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3780619/chapter-412-eternal-vigil",

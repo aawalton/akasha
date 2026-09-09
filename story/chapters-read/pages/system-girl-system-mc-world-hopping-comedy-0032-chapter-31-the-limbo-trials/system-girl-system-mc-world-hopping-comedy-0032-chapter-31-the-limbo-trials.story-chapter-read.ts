@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0032Chapter31TheLimboTrials = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 32,
   ownLength: 2240,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2702144/chapter-31-the-limbo-trials",

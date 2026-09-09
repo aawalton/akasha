@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0123Chapter421LessonsAndThreads = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 123,
   ownLength: 2324,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3888640/chapter-421-lessons-and-threads",

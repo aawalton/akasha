@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0033Chapter612Dorian = {
   story: "system-change-system-universe",
   position: 33,
   ownLength: 2340,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2854641/chapter-612-dorian",

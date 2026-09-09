@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0063Chapter641Nikolai = {
   story: "system-change-system-universe",
   position: 63,
   ownLength: 2142,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3283187/chapter-641-nikolai",

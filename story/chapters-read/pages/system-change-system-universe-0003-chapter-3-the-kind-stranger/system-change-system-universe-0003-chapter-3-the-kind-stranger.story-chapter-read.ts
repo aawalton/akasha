@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0003Chapter3TheKindStranger = {
   story: "system-change-system-universe",
   position: 3,
   ownLength: 2047,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/548007/chapter-3-the-kind-stranger",

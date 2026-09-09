@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0022Chapter22DaveDial = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 22,
   ownLength: 2356,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2641527/chapter-22-dave-dial",

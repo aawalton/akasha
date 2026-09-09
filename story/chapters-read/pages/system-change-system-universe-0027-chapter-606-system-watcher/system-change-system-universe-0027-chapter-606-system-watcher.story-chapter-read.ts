@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0027Chapter606SystemWatcher = {
   story: "system-change-system-universe",
   position: 27,
   ownLength: 2139,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2793343/chapter-606-system-watcher",

@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0007SystemUniverse4TrialsOfCydariaOutToda
   story: "system-change-system-universe",
   position: 7,
   ownLength: 515,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1311258/system-universe-4-trials-of-cydaria-out-today",

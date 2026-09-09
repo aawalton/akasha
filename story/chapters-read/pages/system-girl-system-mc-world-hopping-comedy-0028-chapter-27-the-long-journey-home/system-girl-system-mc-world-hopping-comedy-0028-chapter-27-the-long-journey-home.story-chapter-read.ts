@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0028Chapter27TheLongJourneyHome
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 28,
   ownLength: 2215,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2671329/chapter-27-the-long-journey-home",

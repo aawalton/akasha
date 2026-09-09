@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0064Chapter642Fish = {
   story: "system-change-system-universe",
   position: 64,
   ownLength: 2073,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3302683/chapter-642-fish",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0043Chapter342LettingLoose = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 43,
   ownLength: 2309,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2979716/chapter-342-letting-loose",

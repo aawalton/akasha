@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0048Chapter626Status = {
   story: "system-change-system-universe",
   position: 48,
   ownLength: 2083,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3010334/chapter-626-status",

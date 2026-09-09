@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0059Chapter358Riftmancer = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 59,
   ownLength: 2445,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3131927/chapter-358-riftmancer",

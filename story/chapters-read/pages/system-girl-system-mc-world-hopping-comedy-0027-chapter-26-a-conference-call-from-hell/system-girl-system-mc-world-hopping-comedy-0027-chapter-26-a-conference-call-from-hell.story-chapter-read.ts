@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0027Chapter26AConferenceCallFro
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 27,
   ownLength: 2037,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2666688/chapter-26-a-conference-call-from-hell",

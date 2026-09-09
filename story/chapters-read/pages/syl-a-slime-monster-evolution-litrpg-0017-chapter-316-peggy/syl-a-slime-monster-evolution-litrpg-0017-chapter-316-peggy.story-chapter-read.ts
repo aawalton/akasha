@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0017Chapter316Peggy = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 17,
   ownLength: 1881,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2779503/chapter-316-peggy",

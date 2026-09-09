@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0101Chapter100TheBrokenCage = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 101,
   ownLength: 2515,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3882327/chapter-100-the-broken-cage",

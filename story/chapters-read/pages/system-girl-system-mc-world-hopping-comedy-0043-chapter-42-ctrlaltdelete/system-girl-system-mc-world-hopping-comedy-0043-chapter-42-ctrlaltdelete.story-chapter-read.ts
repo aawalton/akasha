@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0043Chapter42Ctrlaltdelete = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 43,
   ownLength: 1719,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2822141/chapter-42-ctrlaltdelete",

@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0011Chapter485Ignite = {
   story: "system-change-system-universe",
   position: 11,
   ownLength: 2913,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1942238/chapter-485-ignite",

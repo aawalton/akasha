@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0069Chapter68TheMythOfTheMichel
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 69,
   ownLength: 2228,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3228146/chapter-68-the-myth-of-the-michelin-duck",

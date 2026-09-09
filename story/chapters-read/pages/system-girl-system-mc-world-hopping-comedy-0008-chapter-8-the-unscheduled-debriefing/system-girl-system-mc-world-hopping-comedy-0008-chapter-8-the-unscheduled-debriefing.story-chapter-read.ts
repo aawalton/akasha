@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0008Chapter8TheUnscheduledDebri
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 8,
   ownLength: 1723,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2587142/chapter-8-the-unscheduled-debriefing",

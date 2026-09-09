@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0104Chapter402TravelingVisits = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 104,
   ownLength: 2347,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3669545/chapter-402-traveling-visits",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0031Chapter30TheGrandParade = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 31,
   ownLength: 2474,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2694483/chapter-30-the-grand-parade",

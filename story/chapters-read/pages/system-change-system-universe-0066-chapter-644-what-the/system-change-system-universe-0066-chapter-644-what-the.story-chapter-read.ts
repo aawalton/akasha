@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0066Chapter644WhatThe = {
   story: "system-change-system-universe",
   position: 66,
   ownLength: 2121,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3330893/chapter-644-what-the",

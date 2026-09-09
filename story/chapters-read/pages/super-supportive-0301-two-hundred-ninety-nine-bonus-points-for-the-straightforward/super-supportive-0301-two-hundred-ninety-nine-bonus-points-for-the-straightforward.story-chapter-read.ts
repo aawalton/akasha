@@ -8,7 +8,7 @@ export const superSupportive0301TwoHundredNinetyNineBonusPointsForTheStraightfor
   story: "super-supportive",
   position: 301,
   ownLength: 4367,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3722335/two-hundred-ninety-nine-bonus-points-for-the-straightforward",

@@ -8,7 +8,7 @@ export const superSupportive0300TwoHundredNinetyEightAChanceToAppreciate = {
   story: "super-supportive",
   position: 300,
   ownLength: 5415,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3692436/two-hundred-ninety-eight-a-chance-to-appreciate",

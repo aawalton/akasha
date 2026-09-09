@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0021Chapter320Patrolling = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 21,
   ownLength: 2257,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2814238/chapter-320-patrolling",

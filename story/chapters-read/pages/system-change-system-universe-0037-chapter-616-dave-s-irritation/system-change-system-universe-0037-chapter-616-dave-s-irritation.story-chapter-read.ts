@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0037Chapter616DaveSIrritation = {
   story: "system-change-system-universe",
   position: 37,
   ownLength: 2201,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2894209/chapter-616-daves-irritation",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0014Chapter313ProvisionalRegistratio
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 14,
   ownLength: 2279,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2759443/chapter-313-provisional-registration",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0052Chapter51TheThermostatOfTea
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 52,
   ownLength: 2624,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2939871/chapter-51-the-thermostat-of-tears",

@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0020Chapter600PostInvasion = {
   story: "system-change-system-universe",
   position: 20,
   ownLength: 2079,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2739029/chapter-600-post-invasion",

@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0086Chapter664HallOfTheDeceased = {
   story: "system-change-system-universe",
   position: 86,
   ownLength: 2015,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3646269/chapter-664-hall-of-the-deceased",

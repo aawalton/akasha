@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0079Chapter657HowBad = {
   story: "system-change-system-universe",
   position: 79,
   ownLength: 2157,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3526446/chapter-657-how-bad",

@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0004Chapter4Thomas = {
   story: "system-change-system-universe",
   position: 4,
   ownLength: 2029,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/548773/chapter-4-thomas",

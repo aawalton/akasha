@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0064Chapter363Gamble = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 64,
   ownLength: 2296,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3171794/chapter-363-gamble",

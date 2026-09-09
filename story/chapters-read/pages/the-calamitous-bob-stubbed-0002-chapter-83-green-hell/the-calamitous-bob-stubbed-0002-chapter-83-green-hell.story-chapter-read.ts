@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0002Chapter83GreenHell = {
   story: "the-calamitous-bob-stubbed",
   position: 2,
   ownLength: 5394,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/964111/chapter-83-green-hell",

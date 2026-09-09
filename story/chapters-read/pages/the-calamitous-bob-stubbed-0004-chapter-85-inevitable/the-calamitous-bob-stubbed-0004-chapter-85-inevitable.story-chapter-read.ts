@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0004Chapter85Inevitable = {
   story: "the-calamitous-bob-stubbed",
   position: 4,
   ownLength: 5259,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/974992/chapter-85-inevitable",

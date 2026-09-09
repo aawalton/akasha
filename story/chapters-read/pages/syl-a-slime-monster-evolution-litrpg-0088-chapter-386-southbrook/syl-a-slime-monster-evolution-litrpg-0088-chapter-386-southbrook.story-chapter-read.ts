@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0088Chapter386Southbrook = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 88,
   ownLength: 2042,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3486011/chapter-386-southbrook",

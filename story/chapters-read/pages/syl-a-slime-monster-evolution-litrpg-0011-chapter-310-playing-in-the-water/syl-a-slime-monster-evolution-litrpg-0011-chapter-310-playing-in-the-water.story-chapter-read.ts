@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0011Chapter310PlayingInTheWater = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 11,
   ownLength: 2284,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2739545/chapter-310-playing-in-the-water",

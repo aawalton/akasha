@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0042Book8AudioIsOut = {
   story: "system-change-system-universe",
   position: 42,
   ownLength: 120,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2942157/book-8-audio-is-out",

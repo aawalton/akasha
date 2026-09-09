@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0002Chapter2TheEndUserExperienc
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 2,
   ownLength: 1195,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2568719/chapter-2-the-end-user-experience",

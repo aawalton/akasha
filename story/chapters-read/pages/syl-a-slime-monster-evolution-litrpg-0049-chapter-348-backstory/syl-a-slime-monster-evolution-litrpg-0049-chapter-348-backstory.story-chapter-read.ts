@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0049Chapter348Backstory = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 49,
   ownLength: 2192,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3035312/chapter-348-backstory",

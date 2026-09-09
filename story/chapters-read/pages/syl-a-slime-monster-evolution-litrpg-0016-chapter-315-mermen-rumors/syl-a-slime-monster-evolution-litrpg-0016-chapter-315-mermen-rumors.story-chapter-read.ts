@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0016Chapter315MermenRumors = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 16,
   ownLength: 2362,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2773789/chapter-315-mermen-rumors",

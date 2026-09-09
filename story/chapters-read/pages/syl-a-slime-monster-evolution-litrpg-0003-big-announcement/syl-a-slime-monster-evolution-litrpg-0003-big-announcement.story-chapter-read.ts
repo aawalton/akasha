@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0003BigAnnouncement = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 3,
   ownLength: 500,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/1836079/big-announcement",

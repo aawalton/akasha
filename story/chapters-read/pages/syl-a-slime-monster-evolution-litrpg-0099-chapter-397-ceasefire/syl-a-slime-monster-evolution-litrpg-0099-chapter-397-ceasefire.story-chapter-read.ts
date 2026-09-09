@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0099Chapter397Ceasefire = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 99,
   ownLength: 2207,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3615571/chapter-397-ceasefire",

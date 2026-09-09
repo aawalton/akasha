@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0052Chapter351Sylbera = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 52,
   ownLength: 2114,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3066888/chapter-351-sylbera",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0100Chapter99TheCostOfGrainAndM
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 100,
   ownLength: 1947,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3857642/chapter-99-the-cost-of-grain-and-mercy",

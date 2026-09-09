@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0063Chapter62TheLordAndTacoTues
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 63,
   ownLength: 2115,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3124334/chapter-62-the-lord-and-taco-tuesday",

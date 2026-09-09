@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0030Chapter609Rude = {
   story: "system-change-system-universe",
   position: 30,
   ownLength: 2383,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2819690/chapter-609-rude",

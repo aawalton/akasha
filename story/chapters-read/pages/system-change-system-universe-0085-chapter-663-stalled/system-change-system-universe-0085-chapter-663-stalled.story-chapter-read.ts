@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0085Chapter663Stalled = {
   story: "system-change-system-universe",
   position: 85,
   ownLength: 2040,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3624183/chapter-663-stalled",

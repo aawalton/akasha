@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0035Chapter34TheEchoChamber = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 35,
   ownLength: 2157,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2726420/chapter-34-the-echo-chamber",

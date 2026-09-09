@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0055Chapter633FavoritePastime = {
   story: "system-change-system-universe",
   position: 55,
   ownLength: 2148,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3113921/chapter-633-favorite-pastime",

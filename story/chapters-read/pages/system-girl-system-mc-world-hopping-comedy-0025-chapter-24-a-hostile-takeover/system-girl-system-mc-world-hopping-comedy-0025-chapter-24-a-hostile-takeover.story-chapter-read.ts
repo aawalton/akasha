@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0025Chapter24AHostileTakeover =
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 25,
   ownLength: 2348,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2653904/chapter-24-a-hostile-takeover",

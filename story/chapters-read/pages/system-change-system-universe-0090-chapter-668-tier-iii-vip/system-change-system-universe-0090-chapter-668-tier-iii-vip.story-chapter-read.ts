@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0090Chapter668TierIiiVip = {
   story: "system-change-system-universe",
   position: 90,
   ownLength: 2206,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3708521/chapter-668-tier-iii-vip",

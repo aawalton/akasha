@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0034Chapter613PeaceOfMind = {
   story: "system-change-system-universe",
   position: 34,
   ownLength: 2144,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2860191/chapter-613-peace-of-mind",

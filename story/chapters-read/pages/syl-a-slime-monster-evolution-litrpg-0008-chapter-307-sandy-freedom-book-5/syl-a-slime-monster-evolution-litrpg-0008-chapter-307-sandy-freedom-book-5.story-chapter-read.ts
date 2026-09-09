@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0008Chapter307SandyFreedomBook5 = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 8,
   ownLength: 2441,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2718627/chapter-307-sandy-freedom-book-5",

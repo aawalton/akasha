@@ -7,7 +7,7 @@ export const systemChangeSystemUniverse0105Chapter683CunningSheen = {
   story: "story-read/system-change-system-universe",
   position: 105,
   publishedAt: "2026-09-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3932198",
   source: "royal-road",
   title: "Chapter 683: Cunning Sheen",

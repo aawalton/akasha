@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0026Chapter605HotPotato = {
   story: "system-change-system-universe",
   position: 26,
   ownLength: 2262,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2778930/chapter-605-hot-potato",

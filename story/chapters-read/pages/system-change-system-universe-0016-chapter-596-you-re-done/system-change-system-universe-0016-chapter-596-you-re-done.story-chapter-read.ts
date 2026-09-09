@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0016Chapter596YouReDone = {
   story: "system-change-system-universe",
   position: 16,
   ownLength: 2248,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2699922/chapter-596-youre-done",

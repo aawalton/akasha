@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0041Chapter620YouKnew = {
   story: "system-change-system-universe",
   position: 41,
   ownLength: 2605,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2940654/chapter-620-you-knew",

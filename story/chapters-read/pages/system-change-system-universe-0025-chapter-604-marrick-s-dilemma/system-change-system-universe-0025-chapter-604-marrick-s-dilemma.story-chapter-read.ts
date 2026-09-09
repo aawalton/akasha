@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0025Chapter604MarrickSDilemma = {
   story: "system-change-system-universe",
   position: 25,
   ownLength: 2099,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2773258/chapter-604-marricks-dilemma",

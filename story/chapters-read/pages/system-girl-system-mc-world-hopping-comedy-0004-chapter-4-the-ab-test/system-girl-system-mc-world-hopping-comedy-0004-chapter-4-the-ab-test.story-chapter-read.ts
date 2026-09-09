@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0004Chapter4TheAbTest = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 4,
   ownLength: 1948,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2574475/chapter-4-the-ab-test",

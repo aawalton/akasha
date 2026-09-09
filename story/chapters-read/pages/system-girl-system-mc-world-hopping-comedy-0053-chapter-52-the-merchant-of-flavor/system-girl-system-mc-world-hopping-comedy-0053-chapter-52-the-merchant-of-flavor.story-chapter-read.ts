@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0053Chapter52TheMerchantOfFlavo
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 53,
   ownLength: 3062,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2955637/chapter-52-the-merchant-of-flavor",

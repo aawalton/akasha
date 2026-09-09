@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0005Chapter5UserInterfaceUserIn
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 5,
   ownLength: 1793,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2577325/chapter-5-user-interface-user-incompetence",

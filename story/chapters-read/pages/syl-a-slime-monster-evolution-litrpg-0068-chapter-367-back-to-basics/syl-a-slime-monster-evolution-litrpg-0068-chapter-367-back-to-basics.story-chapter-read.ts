@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0068Chapter367BackToBasics = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 68,
   ownLength: 2411,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3217053/chapter-367-back-to-basics",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0100Chapter398Trading = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 100,
   ownLength: 2167,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3625196/chapter-398-trading",

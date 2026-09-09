@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0044Chapter622FinalPiece = {
   story: "system-change-system-universe",
   position: 44,
   ownLength: 2055,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2962880/chapter-622-final-piece",

@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0049Chapter48TheNewTown = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 49,
   ownLength: 1699,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2887924/chapter-48-the-new-town",

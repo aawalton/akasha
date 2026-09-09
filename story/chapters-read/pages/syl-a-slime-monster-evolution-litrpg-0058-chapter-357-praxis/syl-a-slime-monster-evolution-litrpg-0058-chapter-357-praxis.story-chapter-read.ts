@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0058Chapter357Praxis = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 58,
   ownLength: 2487,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3121626/chapter-357-praxis",

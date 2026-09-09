@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0074Chapter372VTeam = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 74,
   ownLength: 2373,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3266620/chapter-372-v-team",

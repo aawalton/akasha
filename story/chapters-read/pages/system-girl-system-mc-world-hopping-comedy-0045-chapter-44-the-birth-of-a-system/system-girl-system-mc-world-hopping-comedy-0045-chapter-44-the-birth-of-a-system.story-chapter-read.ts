@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0045Chapter44TheBirthOfASystem 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 45,
   ownLength: 1776,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2842506/chapter-44-the-birth-of-a-system",

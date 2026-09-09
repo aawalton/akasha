@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0109Chapter407SlimeSwarm = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 109,
   ownLength: 2399,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3717855/chapter-407-slime-swarm",

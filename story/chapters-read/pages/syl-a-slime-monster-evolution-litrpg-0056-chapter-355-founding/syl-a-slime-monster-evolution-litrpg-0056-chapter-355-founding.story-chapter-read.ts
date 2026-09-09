@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0056Chapter355Founding = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 56,
   ownLength: 2388,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3107135/chapter-355-founding",

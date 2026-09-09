@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0080Chapter378SlimeInTheDark = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 80,
   ownLength: 2389,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3331853/chapter-378-slime-in-the-dark",

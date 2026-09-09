@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0095Chapter673Velari = {
   story: "system-change-system-universe",
   position: 95,
   ownLength: 2218,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3770733/chapter-673-velari",

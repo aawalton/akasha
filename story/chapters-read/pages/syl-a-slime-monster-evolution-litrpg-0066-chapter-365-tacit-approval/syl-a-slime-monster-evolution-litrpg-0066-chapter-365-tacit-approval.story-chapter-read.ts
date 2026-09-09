@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0066Chapter365TacitApproval = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 66,
   ownLength: 2474,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3191004/chapter-365-tacit-approval",

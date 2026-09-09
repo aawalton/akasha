@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0078Chapter656Teleporter = {
   story: "system-change-system-universe",
   position: 78,
   ownLength: 2054,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3516691/chapter-656-teleporter",

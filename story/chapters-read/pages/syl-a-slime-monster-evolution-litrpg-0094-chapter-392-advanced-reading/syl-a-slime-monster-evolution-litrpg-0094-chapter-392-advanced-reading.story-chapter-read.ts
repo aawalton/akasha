@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0094Chapter392AdvancedReading = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 94,
   ownLength: 2303,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3550689/chapter-392-advanced-reading",

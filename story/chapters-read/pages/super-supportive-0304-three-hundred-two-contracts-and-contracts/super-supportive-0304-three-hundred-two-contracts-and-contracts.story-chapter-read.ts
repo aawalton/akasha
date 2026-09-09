@@ -8,7 +8,7 @@ export const superSupportive0304ThreeHundredTwoContractsAndContracts = {
   story: "super-supportive",
   position: 304,
   ownLength: 4734,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3814667/three-hundred-two-contracts-and-contracts",

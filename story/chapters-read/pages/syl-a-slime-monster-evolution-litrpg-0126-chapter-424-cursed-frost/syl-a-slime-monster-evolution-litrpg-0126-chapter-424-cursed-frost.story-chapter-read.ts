@@ -7,7 +7,7 @@ export const sylASlimeMonsterEvolutionLitrpg0126Chapter424CursedFrost = {
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 126,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3923518",
   source: "royal-road",
   title: "Chapter 424 : Cursed Frost",

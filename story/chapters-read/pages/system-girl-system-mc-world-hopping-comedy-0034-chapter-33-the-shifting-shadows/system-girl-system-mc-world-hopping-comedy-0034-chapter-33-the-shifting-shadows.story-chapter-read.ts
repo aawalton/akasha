@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0034Chapter33TheShiftingShadows
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 34,
   ownLength: 2173,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2720942/chapter-33-the-shifting-shadows",

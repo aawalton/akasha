@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0077Chapter375HolyCrab = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 77,
   ownLength: 2279,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3295197/chapter-375-holy-crab",

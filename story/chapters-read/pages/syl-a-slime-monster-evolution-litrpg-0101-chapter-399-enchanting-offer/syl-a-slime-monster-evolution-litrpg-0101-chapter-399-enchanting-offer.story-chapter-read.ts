@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0101Chapter399EnchantingOffer = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 101,
   ownLength: 2391,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3638098/chapter-399-enchanting-offer",

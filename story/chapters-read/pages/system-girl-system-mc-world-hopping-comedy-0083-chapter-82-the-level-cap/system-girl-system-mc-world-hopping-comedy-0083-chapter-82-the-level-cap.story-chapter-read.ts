@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0083Chapter82TheLevelCap = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 83,
   ownLength: 2559,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3493326/chapter-82-the-level-cap",

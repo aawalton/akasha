@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0022SystemUniverseBook8IsOutToday = {
   story: "system-change-system-universe",
   position: 22,
   ownLength: 307,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2754640/system-universe-book-8-is-out-today",

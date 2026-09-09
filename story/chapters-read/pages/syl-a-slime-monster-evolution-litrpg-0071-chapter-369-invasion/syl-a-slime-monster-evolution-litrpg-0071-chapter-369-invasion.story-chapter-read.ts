@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0071Chapter369Invasion = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 71,
   ownLength: 2174,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3237621/chapter-369-invasion",

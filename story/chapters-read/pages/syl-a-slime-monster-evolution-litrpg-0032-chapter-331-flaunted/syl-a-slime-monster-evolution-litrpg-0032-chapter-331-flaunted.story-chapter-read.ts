@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0032Chapter331Flaunted = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 32,
   ownLength: 2162,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2894673/chapter-331-flaunted",

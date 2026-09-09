@@ -7,7 +7,7 @@ export const systemGirlSystemMcWorldHoppingComedy0103Chapter102TheTrial = {
   story: "story-read/system-girl-system-mc-world-hopping-comedy",
   position: 103,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3926617",
   source: "royal-road",
   title: "Chapter 102: The Trial",

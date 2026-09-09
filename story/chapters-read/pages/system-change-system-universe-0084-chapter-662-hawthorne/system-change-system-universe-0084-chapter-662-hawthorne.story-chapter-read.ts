@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0084Chapter662Hawthorne = {
   story: "system-change-system-universe",
   position: 84,
   ownLength: 2032,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3614513/chapter-662-hawthorne",

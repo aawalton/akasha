@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0097Chapter96TheCarpetAndThePig
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 97,
   ownLength: 2327,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3788127/chapter-96-the-carpet-and-the-pig",

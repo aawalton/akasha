@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0031Chapter330KeptBusy = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 31,
   ownLength: 2184,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2888960/chapter-330-kept-busy",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0060Chapter359TearsAndFolds = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 60,
   ownLength: 2658,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3139183/chapter-359-tears-and-folds",

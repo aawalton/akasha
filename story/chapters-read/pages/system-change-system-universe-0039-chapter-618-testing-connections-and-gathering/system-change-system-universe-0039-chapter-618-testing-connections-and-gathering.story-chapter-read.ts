@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0039Chapter618TestingConnectionsAndGather
   story: "system-change-system-universe",
   position: 39,
   ownLength: 2339,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2918872/chapter-618-testing-connections-and-gathering",

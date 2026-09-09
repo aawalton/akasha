@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0050Chapter628Wasteland = {
   story: "system-change-system-universe",
   position: 50,
   ownLength: 2185,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3034735/chapter-628-wasteland",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0075Chapter373Guardians = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 75,
   ownLength: 2342,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3275621/chapter-373-guardians",

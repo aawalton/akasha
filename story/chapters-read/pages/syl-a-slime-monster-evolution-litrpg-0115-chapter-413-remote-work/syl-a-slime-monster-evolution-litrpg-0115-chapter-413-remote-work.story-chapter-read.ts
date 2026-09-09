@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0115Chapter413RemoteWork = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 115,
   ownLength: 2579,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3793929/chapter-413-remote-work",

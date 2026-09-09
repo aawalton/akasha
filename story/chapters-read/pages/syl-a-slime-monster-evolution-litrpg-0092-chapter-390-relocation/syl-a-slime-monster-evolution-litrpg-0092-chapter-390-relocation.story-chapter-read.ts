@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0092Chapter390Relocation = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 92,
   ownLength: 2317,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3527384/chapter-390-relocation",

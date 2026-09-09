@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0076Chapter75TheHalfElfMage = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 76,
   ownLength: 2030,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3358908/chapter-75-the-half-elf-mage",

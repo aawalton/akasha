@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0010Chapter10CriticalHostFailur
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 10,
   ownLength: 1376,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2593195/chapter-10-critical-host-failure",

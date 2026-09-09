@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0015Chapter15PerformanceReview 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 15,
   ownLength: 2980,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2605544/chapter-15-performance-review",

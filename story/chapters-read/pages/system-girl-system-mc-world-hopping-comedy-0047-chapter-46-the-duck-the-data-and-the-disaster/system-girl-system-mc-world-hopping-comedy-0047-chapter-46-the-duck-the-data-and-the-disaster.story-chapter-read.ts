@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0047Chapter46TheDuckTheDataAndT
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 47,
   ownLength: 3651,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2862676/chapter-46-the-duck-the-data-and-the-disaster",

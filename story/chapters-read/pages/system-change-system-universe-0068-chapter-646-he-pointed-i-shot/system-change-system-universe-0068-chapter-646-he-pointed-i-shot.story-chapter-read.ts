@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0068Chapter646HePointedIShot = {
   story: "system-change-system-universe",
   position: 68,
   ownLength: 2126,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3360021/chapter-646-he-pointed-i-shot",

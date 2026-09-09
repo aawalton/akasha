@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0029Chapter608DoYourJob = {
   story: "system-change-system-universe",
   position: 29,
   ownLength: 2182,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2813666/chapter-608-do-your-job",

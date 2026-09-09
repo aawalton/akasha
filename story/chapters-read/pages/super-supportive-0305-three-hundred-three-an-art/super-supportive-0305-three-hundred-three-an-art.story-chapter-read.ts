@@ -8,7 +8,7 @@ export const superSupportive0305ThreeHundredThreeAnArt = {
   story: "super-supportive",
   position: 305,
   ownLength: 3739,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3845831/three-hundred-three-an-art",

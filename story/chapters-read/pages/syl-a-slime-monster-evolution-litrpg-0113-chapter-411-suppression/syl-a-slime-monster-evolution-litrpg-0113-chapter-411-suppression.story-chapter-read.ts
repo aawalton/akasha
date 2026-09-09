@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0113Chapter411Suppression = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 113,
   ownLength: 2405,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3771681/chapter-411-suppression",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0112Chapter410DemonSGambit = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 112,
   ownLength: 2670,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3762122/chapter-410-demons-gambit",

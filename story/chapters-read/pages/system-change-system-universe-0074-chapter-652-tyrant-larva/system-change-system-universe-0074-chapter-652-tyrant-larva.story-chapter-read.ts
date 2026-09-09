@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0074Chapter652TyrantLarva = {
   story: "system-change-system-universe",
   position: 74,
   ownLength: 2075,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3451202/chapter-652-tyrant-larva",

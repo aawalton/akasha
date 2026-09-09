@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0081Chapter80TheOldCircle = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 81,
   ownLength: 2946,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3450697/chapter-80-the-old-circle",

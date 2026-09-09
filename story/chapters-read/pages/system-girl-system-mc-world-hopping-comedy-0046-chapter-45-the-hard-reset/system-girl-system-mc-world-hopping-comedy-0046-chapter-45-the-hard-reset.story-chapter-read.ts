@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0046Chapter45TheHardReset = {
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 46,
   ownLength: 1904,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2853917/chapter-45-the-hard-reset",

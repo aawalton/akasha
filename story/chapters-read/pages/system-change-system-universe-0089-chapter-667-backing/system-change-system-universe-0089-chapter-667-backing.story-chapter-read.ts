@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0089Chapter667Backing = {
   story: "system-change-system-universe",
   position: 89,
   ownLength: 2195,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3686733/chapter-667-backing",

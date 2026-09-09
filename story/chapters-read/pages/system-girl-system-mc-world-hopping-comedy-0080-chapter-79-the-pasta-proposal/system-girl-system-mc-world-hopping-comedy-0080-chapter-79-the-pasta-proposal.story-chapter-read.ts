@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0080Chapter79ThePastaProposal =
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 80,
   ownLength: 2629,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3430224/chapter-79-the-pasta-proposal",

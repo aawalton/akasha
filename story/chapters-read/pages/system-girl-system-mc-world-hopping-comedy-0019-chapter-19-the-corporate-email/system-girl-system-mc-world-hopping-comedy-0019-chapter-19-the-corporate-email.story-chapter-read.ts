@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0019Chapter19TheCorporateEmail 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 19,
   ownLength: 2608,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2623425/chapter-19-the-corporate-email",

@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0124Chapter422FrozenDreams = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 124,
   ownLength: 2299,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-book-5-stub-sep-9th/chapter/3898943/chapter-422-frozen-dreams",

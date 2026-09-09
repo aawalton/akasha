@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0121Chapter419RaysOfPower = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 121,
   ownLength: 2214,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3856960/chapter-419-rays-of-power",

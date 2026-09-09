@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0013Chapter487ConfrontationEpilogue = {
   story: "system-change-system-universe",
   position: 13,
   ownLength: 4209,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1951194/chapter-487-confrontationepilogue",

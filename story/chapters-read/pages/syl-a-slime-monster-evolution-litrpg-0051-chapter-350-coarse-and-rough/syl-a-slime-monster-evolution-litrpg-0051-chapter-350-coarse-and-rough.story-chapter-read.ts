@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0051Chapter350CoarseAndRough = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 51,
   ownLength: 2243,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3058511/chapter-350-coarse-and-rough",

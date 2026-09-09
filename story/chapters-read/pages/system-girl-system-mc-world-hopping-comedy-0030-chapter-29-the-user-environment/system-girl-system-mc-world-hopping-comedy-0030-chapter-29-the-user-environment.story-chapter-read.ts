@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0030Chapter29TheUserEnvironment
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 30,
   ownLength: 1967,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2684539/chapter-29-the-user-environment",

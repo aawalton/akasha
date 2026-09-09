@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0025Chapter324MagicSeven = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 25,
   ownLength: 2337,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2840656/chapter-324-magic-seven",

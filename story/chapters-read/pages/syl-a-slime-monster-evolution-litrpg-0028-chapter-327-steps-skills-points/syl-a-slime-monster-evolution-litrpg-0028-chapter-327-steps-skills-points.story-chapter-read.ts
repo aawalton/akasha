@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0028Chapter327StepsSkillsPoints = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 28,
   ownLength: 2167,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2860715/chapter-327-steps-skills-points",

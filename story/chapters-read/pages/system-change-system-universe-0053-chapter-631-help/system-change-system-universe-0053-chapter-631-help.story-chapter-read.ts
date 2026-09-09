@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0053Chapter631Help = {
   story: "system-change-system-universe",
   position: 53,
   ownLength: 2006,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3072704/chapter-631-help",

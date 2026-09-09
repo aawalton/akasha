@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0046Chapter624JustTheStart = {
   story: "system-change-system-universe",
   position: 46,
   ownLength: 2124,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2986240/chapter-624-just-the-start",

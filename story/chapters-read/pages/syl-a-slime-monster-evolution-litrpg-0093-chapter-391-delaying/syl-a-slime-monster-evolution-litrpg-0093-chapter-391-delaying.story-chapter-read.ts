@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0093Chapter391Delaying = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 93,
   ownLength: 2340,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3540872/chapter-391-delaying",

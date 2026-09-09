@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0058Chapter636OriginSystemOath = {
   story: "system-change-system-universe",
   position: 58,
   ownLength: 2122,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3163763/chapter-636-origin-system-oath",

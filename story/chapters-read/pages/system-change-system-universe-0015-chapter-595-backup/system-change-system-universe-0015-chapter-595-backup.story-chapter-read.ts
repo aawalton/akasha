@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0015Chapter595Backup = {
   story: "system-change-system-universe",
   position: 15,
   ownLength: 2207,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2694902/chapter-595-backup",

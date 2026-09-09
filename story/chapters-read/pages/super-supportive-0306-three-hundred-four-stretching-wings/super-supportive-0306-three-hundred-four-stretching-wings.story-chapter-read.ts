@@ -8,7 +8,7 @@ export const superSupportive0306ThreeHundredFourStretchingWings = {
   story: "super-supportive",
   position: 306,
   ownLength: 4605,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3880155/three-hundred-four-stretching-wings",

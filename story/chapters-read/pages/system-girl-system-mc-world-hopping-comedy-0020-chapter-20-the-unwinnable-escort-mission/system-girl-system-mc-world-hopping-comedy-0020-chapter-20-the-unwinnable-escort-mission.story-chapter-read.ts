@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0020Chapter20TheUnwinnableEscor
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 20,
   ownLength: 2251,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2631538/chapter-20-the-unwinnable-escort-mission",

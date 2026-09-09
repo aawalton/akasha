@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0006SystemUniverseBook2TorithIsFinallyOut
   story: "system-change-system-universe",
   position: 6,
   ownLength: 453,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/1113618/system-universe-book-2-torith-is-finally-out",

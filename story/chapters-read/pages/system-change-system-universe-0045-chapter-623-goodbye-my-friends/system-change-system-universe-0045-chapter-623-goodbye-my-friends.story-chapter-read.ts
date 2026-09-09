@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0045Chapter623GoodbyeMyFriends = {
   story: "system-change-system-universe",
   position: 45,
   ownLength: 3268,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2969608/chapter-623-goodbye-my-friends",

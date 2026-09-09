@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0048Chapter47TheCommissionAndTh
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 48,
   ownLength: 2069,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2878273/chapter-47-the-commission-and-the-culinary-arts",

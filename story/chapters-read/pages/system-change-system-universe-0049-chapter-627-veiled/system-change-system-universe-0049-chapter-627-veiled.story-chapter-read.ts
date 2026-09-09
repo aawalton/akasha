@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0049Chapter627Veiled = {
   story: "system-change-system-universe",
   position: 49,
   ownLength: 2203,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3016844/chapter-627-veiled",

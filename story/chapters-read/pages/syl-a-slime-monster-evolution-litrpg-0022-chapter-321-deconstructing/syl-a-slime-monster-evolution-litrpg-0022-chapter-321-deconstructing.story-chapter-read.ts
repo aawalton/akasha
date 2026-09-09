@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0022Chapter321Deconstructing = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 22,
   ownLength: 2242,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2820284/chapter-321-deconstructing",

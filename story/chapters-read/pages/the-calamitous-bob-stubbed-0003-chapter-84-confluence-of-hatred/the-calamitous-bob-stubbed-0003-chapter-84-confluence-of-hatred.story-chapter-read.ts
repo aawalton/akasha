@@ -8,7 +8,7 @@ export const theCalamitousBobStubbed0003Chapter84ConfluenceOfHatred = {
   story: "the-calamitous-bob-stubbed",
   position: 3,
   ownLength: 6221,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/44132/the-calamitous-bob-stubbed/chapter/969659/chapter-84-confluence-of-hatred",

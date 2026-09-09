@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0043Chapter621ThanksDave = {
   story: "system-change-system-universe",
   position: 43,
   ownLength: 2514,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2947200/chapter-621-thanks-dave",

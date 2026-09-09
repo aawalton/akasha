@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0054Chapter632IWouldnTDare = {
   story: "system-change-system-universe",
   position: 54,
   ownLength: 2217,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3089564/chapter-632-i-wouldnt-dare",

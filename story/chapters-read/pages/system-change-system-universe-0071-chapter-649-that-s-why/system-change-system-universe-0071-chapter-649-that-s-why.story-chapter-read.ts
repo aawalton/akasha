@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0071Chapter649ThatSWhy = {
   story: "system-change-system-universe",
   position: 71,
   ownLength: 2101,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3397132/chapter-649-thats-why",

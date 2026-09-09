@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0088Chapter87TheShadowOfTheBeas
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 88,
   ownLength: 2230,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3590666/chapter-87-the-shadow-of-the-beast",

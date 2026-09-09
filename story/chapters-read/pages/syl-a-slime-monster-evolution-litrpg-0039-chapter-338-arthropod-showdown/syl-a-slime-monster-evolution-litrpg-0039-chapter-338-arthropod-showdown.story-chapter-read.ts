@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0039Chapter338ArthropodShowdown = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 39,
   ownLength: 2498,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2947744/chapter-338-arthropod-showdown",

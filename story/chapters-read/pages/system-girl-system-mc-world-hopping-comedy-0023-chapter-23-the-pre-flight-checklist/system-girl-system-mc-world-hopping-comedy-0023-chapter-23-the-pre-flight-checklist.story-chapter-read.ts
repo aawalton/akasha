@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0023Chapter23ThePreFlightCheckl
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 23,
   ownLength: 2324,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2649429/chapter-23-the-pre-flight-checklist",

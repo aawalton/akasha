@@ -7,7 +7,7 @@ export const sylASlimeMonsterEvolutionLitrpg0125Chapter423MiniatureWonderland = 
   story: "story-read/syl-a-slime-monster-evolution-litrpg",
   position: 125,
   publishedAt: "2026-09-04",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3909959",
   source: "royal-road",
   title: "Chapter 423 : Miniature Wonderland",

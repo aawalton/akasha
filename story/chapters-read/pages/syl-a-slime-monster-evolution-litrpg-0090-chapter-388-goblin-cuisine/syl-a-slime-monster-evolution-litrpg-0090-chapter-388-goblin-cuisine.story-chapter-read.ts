@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0090Chapter388GoblinCuisine = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 90,
   ownLength: 2409,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3508279/chapter-388-goblin-cuisine",

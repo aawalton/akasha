@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0057Chapter356MadProgress = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 57,
   ownLength: 2246,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3114520/chapter-356-mad-progress",

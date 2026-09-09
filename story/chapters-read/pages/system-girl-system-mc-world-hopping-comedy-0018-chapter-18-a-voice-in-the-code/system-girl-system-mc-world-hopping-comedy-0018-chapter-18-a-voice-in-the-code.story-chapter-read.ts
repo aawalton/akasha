@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0018Chapter18AVoiceInTheCode = 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 18,
   ownLength: 2567,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2618129/chapter-18-a-voice-in-the-code",

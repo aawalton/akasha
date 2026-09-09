@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0080Chapter658FunThings = {
   story: "system-change-system-universe",
   position: 80,
   ownLength: 2011,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3549828/chapter-658-fun-things",

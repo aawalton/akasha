@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0040Chapter339ACrabbySituation = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 40,
   ownLength: 2155,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2956801/chapter-339-a-crabby-situation",

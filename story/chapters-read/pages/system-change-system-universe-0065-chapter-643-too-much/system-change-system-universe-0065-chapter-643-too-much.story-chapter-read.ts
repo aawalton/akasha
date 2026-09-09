@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0065Chapter643TooMuch = {
   story: "system-change-system-universe",
   position: 65,
   ownLength: 2229,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3311101/chapter-643-too-much",

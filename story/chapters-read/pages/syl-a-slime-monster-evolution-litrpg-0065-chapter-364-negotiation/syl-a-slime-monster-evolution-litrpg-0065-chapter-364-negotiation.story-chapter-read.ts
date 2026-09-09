@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0065Chapter364Negotiation = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 65,
   ownLength: 2084,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3182387/chapter-364-negotiation",

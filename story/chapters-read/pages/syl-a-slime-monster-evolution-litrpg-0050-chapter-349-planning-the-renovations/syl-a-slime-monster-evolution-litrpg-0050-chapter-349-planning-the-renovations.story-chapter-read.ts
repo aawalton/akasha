@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0050Chapter349PlanningTheRenovations
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 50,
   ownLength: 2541,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3042225/chapter-349-planning-the-renovations",

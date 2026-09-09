@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0010Chapter309Brine = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 10,
   ownLength: 2284,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/2733695/chapter-309-brine",

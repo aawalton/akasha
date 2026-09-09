@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0067Chapter66TheLeftoverLord = 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 67,
   ownLength: 2290,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3189100/chapter-66-the-leftover-lord",

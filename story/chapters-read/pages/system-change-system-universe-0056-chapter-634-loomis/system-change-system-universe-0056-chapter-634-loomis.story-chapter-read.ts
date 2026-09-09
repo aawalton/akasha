@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0056Chapter634Loomis = {
   story: "system-change-system-universe",
   position: 56,
   ownLength: 2093,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3138362/chapter-634-loomis",

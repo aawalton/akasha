@@ -8,7 +8,7 @@ export const superSupportive0302ThreeHundredSmallNewsAtThePitcherhouse = {
   story: "super-supportive",
   position: 302,
   ownLength: 4649,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/63759/super-supportive/chapter/3753999/three-hundred-small-news-at-the-pitcherhouse",

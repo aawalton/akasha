@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0037Chapter36ThePathOfNoMind = 
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 37,
   ownLength: 1825,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2752617/chapter-36-the-path-of-no-mind",

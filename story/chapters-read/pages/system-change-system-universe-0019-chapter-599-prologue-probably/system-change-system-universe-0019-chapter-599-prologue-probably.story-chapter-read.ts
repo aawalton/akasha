@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0019Chapter599PrologueProbably = {
   story: "system-change-system-universe",
   position: 19,
   ownLength: 2752,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/2733117/chapter-599-prologue-probably",

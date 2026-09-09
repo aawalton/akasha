@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0068Chapter67TheSeaSpiderChroni
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 68,
   ownLength: 2399,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3207895/chapter-67-the-sea-spider-chronicles",

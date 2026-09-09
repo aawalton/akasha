@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0036Chapter35CrunchTimeInTheLab
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 36,
   ownLength: 1993,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2741885/chapter-35-crunch-time-in-the-labyrinth",

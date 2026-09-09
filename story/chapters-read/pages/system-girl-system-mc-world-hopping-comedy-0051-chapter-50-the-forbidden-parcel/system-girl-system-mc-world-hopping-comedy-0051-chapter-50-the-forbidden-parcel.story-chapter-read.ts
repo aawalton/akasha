@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0051Chapter50TheForbiddenParcel
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 51,
   ownLength: 2477,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/2926465/chapter-50-the-forbidden-parcel",

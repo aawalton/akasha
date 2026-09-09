@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0055Chapter354BranchOut = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 55,
   ownLength: 2257,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3090172/chapter-354-branch-out",

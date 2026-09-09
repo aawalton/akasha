@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0056Chapter55TheAscensionOfTheS
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 56,
   ownLength: 2281,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3004325/chapter-55-the-ascension-of-the-supply-lord",

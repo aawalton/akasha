@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0099Chapter677AspectIi = {
   story: "system-change-system-universe",
   position: 99,
   ownLength: 2476,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3832165/chapter-677-aspect-ii",

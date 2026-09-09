@@ -8,7 +8,7 @@ export const systemGirlSystemMcWorldHoppingComedy0064Chapter63ThePrankstersThePr
   story: "system-girl-system-mc-world-hopping-comedy",
   position: 64,
   ownLength: 2255,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/131265/system-girl-system-mc-world-hopping-comedy/chapter/3139313/chapter-63-the-pranksters-the-princess-and-the",

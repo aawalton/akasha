@@ -8,7 +8,7 @@ export const sylASlimeMonsterEvolutionLitrpg0046Chapter345Chaos = {
   story: "syl-a-slime-monster-evolution-litrpg",
   position: 46,
   ownLength: 2200,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/77972/syl-a-slime-monster-evolution-litrpg/chapter/3010871/chapter-345-chaos",

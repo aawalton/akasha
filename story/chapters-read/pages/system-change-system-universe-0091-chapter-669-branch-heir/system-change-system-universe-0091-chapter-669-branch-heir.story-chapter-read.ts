@@ -8,7 +8,7 @@ export const systemChangeSystemUniverse0091Chapter669BranchHeir = {
   story: "system-change-system-universe",
   position: 91,
   ownLength: 2038,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/35372/system-change-system-universe/chapter/3716948/chapter-669-branch-heir",
