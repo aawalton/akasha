@@ -73,7 +73,7 @@ function property(root: string, slug: string, shape: string, id: string): undefi
 }
 
 function declares(root: string, named: string, by: string, at: string): undefined {
-  relationFiled(root, named, "page-property-slug", by, [{ path: at }])
+  relationFiled(root, named, "page-property", by, [{ path: at }])
 }
 
 function extending(root: string, above: string, below: string, at: string): undefined {

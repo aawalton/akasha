@@ -39,7 +39,7 @@ function body(kind: string, slug: string, id: string, declares?: readonly string
   const said =
     declares === undefined
       ? ""
-      : `, properties: ${JSON.stringify(declares.map((one) => ({ pagePropertySlug: one })))}`
+      : `, properties: ${JSON.stringify(declares.map((one) => ({ pageProperty: one })))}`
   return new TextEncoder().encode(
     `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(kind)}, ` +
       `slug: ${JSON.stringify(slug)}${said} }\n`
@@ -64,7 +64,7 @@ function rooted(): string {
   typed(root, "one-of-property", "page-property")
   typed(root, "page-type", "domain")
   declaring(root, "properties", { pageTypeSlug: "record-property" })
-  declaring(root, "page-property-slug", {
+  declaring(root, "page-property", {
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: "page-property",
   })
@@ -76,7 +76,7 @@ function rooted(): string {
   put(
     root,
     pathFor("record-property", "properties"),
-    body("record-property", "properties", RECORD, ["page-property-slug"])
+    body("record-property", "properties", RECORD, ["page-property"])
   )
   valueAlsoFiled(root, "record-property", [
     {
@@ -85,7 +85,7 @@ function rooted(): string {
         id: RECORD,
         pageTypeSlug: "record-property",
         slug: "properties",
-        properties: [{ pagePropertySlug: "page-property-slug" }],
+        properties: [{ pageProperty: "page-property" }],
       },
     },
   ])
@@ -105,7 +105,7 @@ function judged(change: Change): readonly Judged[] {
 test("a property the index says some page type declares is let through", () => {
   const root = rooted()
   filing(root, "relation-property", "held", ONE)
-  edging(root, ONE, "page-property-slug", TWO, UP_AT)
+  edging(root, ONE, "page-property", TWO, UP_AT)
   pageFiled(root, TWO, UP_AT)
   const said = judged(
     landing(root, {
@@ -144,7 +144,7 @@ test("a page type that stops declaring a property leaves that property refused",
   const root = rooted()
   filing(root, "relation-property", "held", ONE)
   filing(root, "page-type", "over", TWO)
-  edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
+  edging(root, ONE, "page-property", TWO, pathFor("page-type", "over"))
   const at = pathFor("page-type", "over")
   const said = judged(
     landing(
@@ -165,7 +165,7 @@ test("a page type dropping a property leaves it refused, though the property did
   filing(root, "relation-property", "held", ONE)
   filing(root, "page-type", "over", TWO)
   pageFiled(root, ONE, pathFor("relation-property", "held"))
-  edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
+  edging(root, ONE, "page-property", TWO, pathFor("page-type", "over"))
   const at = pathFor("page-type", "over")
   const said = judged(
     landing(
@@ -185,7 +185,7 @@ test("a page type the change takes away leaves the property it declared refused"
   claiming(root, pathFor("relation-property", "held"), pathFor("relation-property", "held"), ONE)
   filing(root, "page-type", "over", TWO)
   pageFiled(root, TWO, pathFor("page-type", "over"))
-  edging(root, ONE, "page-property-slug", TWO, pathFor("page-type", "over"))
+  edging(root, ONE, "page-property", TWO, pathFor("page-type", "over"))
   const at = pathFor("page-type", "over")
   const said = judged(
     landing(root, { [at]: null }, { [at]: put(root, at, body("page-type", "over", TWO, ["held"])) })
