@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const ameliaTheLevelZeroHeroAnOpMcIsekaiLitrpg = {
   id: "01a0657d-ada0-796c-a819-952701a30928",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "amelia-the-level-zero-hero-an-op-mc-isekai-litrpg",
   rank: "C",
   unit: "words",

@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y81AristophanesThesmophoriazusaeTheEcclesiazusaeThePlutus = {
   id: "019f0c09-beca-7c26-88a9-436d120f4cbd",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y8-1-aristophanes-thesmophoriazusae-the-ecclesiazusae-the-plutus",
   title: "Y8.1 Aristophanes: Thesmophoriazusae, The Ecclesiazusae, The Plutus",
   author: "Aristophanes",

@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y51PlatoPhaedo = {
   id: "019f0c09-bda7-7e28-b7c1-b10fea4888fb",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y5-1-plato-phaedo",
   title: "Y5.1 Plato: Phaedo",
   author: "Plato",

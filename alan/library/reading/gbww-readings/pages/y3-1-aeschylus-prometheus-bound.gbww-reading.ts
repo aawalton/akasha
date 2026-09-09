@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y31AeschylusPrometheusBound = {
   id: "019f0c09-bcef-7ffc-aa1d-b170c3ac8071",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y3-1-aeschylus-prometheus-bound",
   title: "Y3.1 Aeschylus: Prometheus Bound",
   author: "Aeschylus",

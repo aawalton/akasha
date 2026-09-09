@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y1018ErasmusThePraiseOfFolly = {
   id: "019f0c09-c2c0-783b-ac0d-07d0ab977c04",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y10-18-erasmus-the-praise-of-folly",
   title: "Y10.18 Erasmus: The Praise of Folly",
   author: "Erasmus",

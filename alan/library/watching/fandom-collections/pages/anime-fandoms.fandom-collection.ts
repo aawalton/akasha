@@ -3,6 +3,7 @@ import type { FandomCollection } from "../fandom-collection.page-type.ts"
 export const animeFandoms = {
   id: "01a06808-5f7f-7000-afdb-200adf4ef0cc",
   pageTypeSlug: "fandom-collection",
+  type: "fandom-collection",
   slug: "anime-fandoms",
   title: "Anime Fandoms",
   partOfCollections: ["fandoms"],

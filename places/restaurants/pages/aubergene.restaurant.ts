@@ -3,6 +3,7 @@ import type { Restaurant } from "../restaurant.page-type.ts"
 export const aubergene = {
   id: "01a06808-a2ec-7001-bbba-7c14b16d57e4",
   pageTypeSlug: "restaurant",
+  type: "restaurant",
   slug: "aubergene",
   title: "Aubergene",
   partOfCollections: ["provo-restaurants"],

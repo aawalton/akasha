@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y812RousseauADiscourseOnPoliticalEconomy = {
   id: "019f0c09-bf9e-72ff-9c62-3db412495f65",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y8-12-rousseau-a-discourse-on-political-economy",
   title: "Y8.12 Rousseau: A Discourse on Political Economy",
   author: "Rousseau",

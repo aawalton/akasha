@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y412NewtonMathematicalPrinciplesOfNaturalPhilosophy = {
   id: "019f0c09-bd7e-7009-9056-e5ddac0bf8ec",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y4-12-newton-mathematical-principles-of-natural-philosophy",
   title: "Y4.12 Newton: Mathematical Principles of Natural Philosophy",
   author: "Newton",

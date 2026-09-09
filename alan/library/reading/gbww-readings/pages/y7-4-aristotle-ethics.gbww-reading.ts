@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y74AristotleEthics = {
   id: "019f0c09-be7a-7ad8-a47c-660711d5b59f",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y7-4-aristotle-ethics",
   title: "Y7.4 Aristotle: Ethics",
   author: "Aristotle",

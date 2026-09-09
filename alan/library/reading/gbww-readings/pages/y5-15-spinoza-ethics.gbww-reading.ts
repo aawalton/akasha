@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y515SpinozaEthics = {
   id: "019f0c09-bde6-7f4b-9dac-9c93de9ff3c5",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y5-15-spinoza-ethics",
   title: "Y5.15 Spinoza: Ethics",
   author: "Spinoza",

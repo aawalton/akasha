@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y817WilliamJamesThePrinciplesOfPsychology = {
   id: "019f0c09-bfbd-7e93-aa4e-6dcbd1e9bde4",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y8-17-william-james-the-principles-of-psychology",
   title: "Y8.17 William James: The Principles of Psychology",
   author: "William James",

@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y116AmericanFoundersDeclarationOfIndependenceConstitutionOfTh = {
   id: "019f0c09-bc60-71aa-b291-b4326bc8f114",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y1-16-american-founders-declaration-of-independence-constitution-of-th",
   title:
     "Y1.16 American Founders: Declaration of Independence; Constitution of the United States; The Federalist",

@@ -3,6 +3,7 @@ import type { StoryChapterWritten } from "../../story-chapter-written.page-type.
 export const anthology0003Iris = {
   id: "01a06599-c380-70a6-af8b-35dc312b1259",
   pageTypeSlug: "story-chapter-written",
+  type: "story-chapter-written",
   slug: "anthology-0003-iris",
   title: "Iris",
   story: "anthology",

@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y71OldTestamentJobIsaiahAmos = {
   id: "019f0c09-be6d-71d0-bbb3-1304dd1f8097",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y7-1-old-testament-job-isaiah-amos",
   title: "Y7.1 Old Testament: Job, Isaiah, Amos",
   author: "Old Testament",

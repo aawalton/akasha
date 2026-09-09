@@ -3,6 +3,7 @@ import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.ts"
 export const celebrationCheesecake = {
   id: "01a06808-b765-7001-804a-798f881c42f6",
   pageTypeSlug: "restaurant-menu-item",
+  type: "restaurant-menu-item",
   slug: "celebration-cheesecake",
   title: "Celebration Cheesecake",
   partOfCollections: ["cheesecake-factory-cheescakes"],

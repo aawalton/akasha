@@ -3,6 +3,7 @@ import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.ts"
 export const caramelPecanTurtleCheesecake = {
   id: "01a06808-b765-7000-a172-538ca66dc45e",
   pageTypeSlug: "restaurant-menu-item",
+  type: "restaurant-menu-item",
   slug: "caramel-pecan-turtle-cheesecake",
   title: "Caramel Pecan Turtle Cheesecake",
   partOfCollections: ["cheesecake-factory-cheescakes"],

@@ -3,6 +3,7 @@ import type { AlanBook } from "../alan-book.page-type.ts"
 export const bookOfEverything = {
   id: "01a0659d-311d-7001-b736-ae7c499c3bf3",
   pageTypeSlug: "alan-book",
+  type: "alan-book",
   slug: "book-of-everything",
   title: "Book of Everything",
   description:

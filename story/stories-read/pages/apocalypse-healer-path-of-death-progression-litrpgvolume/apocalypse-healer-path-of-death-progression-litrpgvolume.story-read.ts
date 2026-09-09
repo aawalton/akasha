@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const apocalypseHealerPathOfDeathProgressionLitrpgvolume = {
   id: "01a0657d-ada0-7d5b-934e-4ef1b70305bb",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "apocalypse-healer-path-of-death-progression-litrpgvolume",
   title: "Apocalypse Healer",
   world: "apocalypse-healer-path-of-death-progression-litrpgvolume",

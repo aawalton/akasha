@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y313LockeAnEssayConcerningHumanUnderstanding = {
   id: "019f0c09-bd27-7195-9ff9-b54dc4bdcb9b",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y3-13-locke-an-essay-concerning-human-understanding",
   title: "Y3.13 Locke: An Essay Concerning Human Understanding",
   author: "Locke",

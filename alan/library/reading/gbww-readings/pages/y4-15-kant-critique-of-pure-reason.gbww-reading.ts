@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y415KantCritiqueOfPureReason = {
   id: "019f0c09-bd8a-78b1-81c7-49b65b03c1a4",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y4-15-kant-critique-of-pure-reason",
   title: "Y4.15 Kant: Critique of Pure Reason",
   author: "Kant",

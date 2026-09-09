@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y88BaconTheAdvancementOfLearning = {
   id: "019f0c09-bee9-7a55-a42d-d1621636de62",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y8-8-bacon-the-advancement-of-learning",
   title: "Y8.8 Bacon: The Advancement of Learning",
   author: "Bacon",

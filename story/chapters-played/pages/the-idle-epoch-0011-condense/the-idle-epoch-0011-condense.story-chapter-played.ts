@@ -3,6 +3,7 @@ import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts
 export const theIdleEpoch0011Condense = {
   id: "01a064b4-9ec8-7c82-a1a6-f0fbfe238466",
   pageTypeSlug: "story-chapter-played",
+  type: "story-chapter-played",
   slug: "the-idle-epoch-0011-condense",
   title: "Condense",
   story: "the-idle-epoch",

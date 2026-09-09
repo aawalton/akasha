@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y23SophoclesOedipusTheKingAntigone = {
   id: "019f0c09-bc99-7356-ad8c-40fc120a74c7",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y2-3-sophocles-oedipus-the-king-antigone",
   title: "Y2.3 Sophocles: Oedipus the King, Antigone",
   author: "Sophocles",

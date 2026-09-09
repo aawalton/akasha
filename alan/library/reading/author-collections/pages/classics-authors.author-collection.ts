@@ -3,6 +3,7 @@ import type { AuthorCollection } from "../author-collection.page-type.ts"
 export const classicsAuthors = {
   id: "01a06808-06b4-7003-abac-a8b7670a911e",
   pageTypeSlug: "author-collection",
+  type: "author-collection",
   slug: "classics-authors",
   title: "Classics Authors",
   partOfCollections: ["authors"],

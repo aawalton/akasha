@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y212MiltonAreopagitica = {
   id: "019f0c09-bcc3-72b8-8683-0896e650493c",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y2-12-milton-areopagitica",
   title: "Y2.12 Milton: Areopagitica",
   author: "Milton",

@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y917AustenEmma = {
   id: "019f0c09-c0a5-79be-84fc-728e0b4ed610",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y9-17-austen-emma",
   title: "Y9.17 Austen: Emma",
   author: "Austen",

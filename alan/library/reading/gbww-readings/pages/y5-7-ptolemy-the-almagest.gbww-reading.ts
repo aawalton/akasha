@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y57PtolemyTheAlmagest = {
   id: "019f0c09-bdc1-78b4-981c-3eb9c661149c",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y5-7-ptolemy-the-almagest",
   title: "Y5.7 Ptolemy: The Almagest",
   author: "Ptolemy",

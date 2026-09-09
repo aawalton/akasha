@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y916MoliereTartuffe = {
   id: "019f0c09-c09e-7504-a66d-4c113feac9b7",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y9-16-moliere-tartuffe",
   title: "Y9.16 Moliere: Tartuffe",
   author: "Moliere",

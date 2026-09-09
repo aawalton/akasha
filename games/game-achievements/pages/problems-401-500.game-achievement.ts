@@ -3,6 +3,7 @@ import type { GameAchievement } from "../game-achievement.page-type.ts"
 export const problems401500 = {
   id: "01a06808-8818-7006-bcaa-54a94dd4f86f",
   pageTypeSlug: "game-achievement",
+  type: "game-achievement",
   slug: "problems-401-500",
   title: "Problems 401-500",
   partOfCollections: ["project-euler"],

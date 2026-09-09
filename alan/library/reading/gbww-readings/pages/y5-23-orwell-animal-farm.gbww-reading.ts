@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y523OrwellAnimalFarm = {
   id: "019f0c09-be09-7186-8974-4bd8d079cc8e",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y5-23-orwell-animal-farm",
   title: "Y5.23 Orwell: Animal Farm",
   author: "Orwell",

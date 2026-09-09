@@ -3,6 +3,7 @@ import type { TravelCollection } from "../travel-collection.page-type.ts"
 export const piratesOfTheCaribbean = {
   id: "01a06808-caa5-7001-82e9-fd16e052f9fb",
   pageTypeSlug: "travel-collection",
+  type: "travel-collection",
   slug: "pirates-of-the-caribbean",
   title: "Pirates of the Caribbean",
   partOfCollections: ["pirates-of-the-caribbean-2"],

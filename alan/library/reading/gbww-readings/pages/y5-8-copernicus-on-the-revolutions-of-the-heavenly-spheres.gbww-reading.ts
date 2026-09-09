@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y58CopernicusOnTheRevolutionsOfTheHeavenlySpheres = {
   id: "019f0c09-bdc5-7eab-bdbf-73c490cfad88",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y5-8-copernicus-on-the-revolutions-of-the-heavenly-spheres",
   title: "Y5.8 Copernicus: On the Revolutions of the Heavenly Spheres",
   author: "Copernicus",

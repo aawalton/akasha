@@ -3,6 +3,7 @@ import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.ts"
 export const toastedMarshmallowSMoresGalore = {
   id: "01a06808-b765-701c-943d-49faddaaa260",
   pageTypeSlug: "restaurant-menu-item",
+  type: "restaurant-menu-item",
   slug: "toasted-marshmallow-s-mores-galore",
   title: "Toasted Marshmallow S'mores Galore",
   partOfCollections: ["cheesecake-factory-cheescakes"],

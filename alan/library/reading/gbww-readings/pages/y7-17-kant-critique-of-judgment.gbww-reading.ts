@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y717KantCritiqueOfJudgment = {
   id: "019f0c09-beb4-7cbc-84ca-4af34277c697",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y7-17-kant-critique-of-judgment",
   title: "Y7.17 Kant: Critique of Judgment",
   author: "Kant",

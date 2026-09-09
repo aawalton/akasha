@@ -3,6 +3,7 @@ import type { StoryChapterWritten } from "../../story-chapter-written.page-type.
 export const towerOfNimue001TheFirstHour = {
   id: "01a06599-c380-7eff-8fad-2ae24c0f8377",
   pageTypeSlug: "story-chapter-written",
+  type: "story-chapter-written",
   slug: "tower-of-nimue-001-the-first-hour",
   title: "The First Hour",
   story: "tower-of-nimue",

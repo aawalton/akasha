@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y618TolstoyWarAndPeace = {
   id: "019f0c09-be5b-76f3-b316-27c090c39473",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y6-18-tolstoy-war-and-peace",
   title: "Y6.18 Tolstoy: War and Peace",
   author: "Tolstoy",

@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y615GibbonTheDeclineAndFallOfTheRomanEmpire = {
   id: "019f0c09-be4e-786d-909d-bd0ca3a8b902",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y6-15-gibbon-the-decline-and-fall-of-the-roman-empire",
   title: "Y6.15 Gibbon: The Decline and Fall of the Roman Empire",
   author: "Gibbon",

@@ -3,6 +3,7 @@ import type { StoryRead } from "../../story-read.page-type.ts"
 export const alexaThyme = {
   id: "01a0657d-ada7-7f0e-9e5a-b55048331c58",
   pageTypeSlug: "story-read",
+  type: "story-read",
   slug: "alexa-thyme",
   title: "Alexa Thyme",
   world: "alexa-thyme",

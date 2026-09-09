@@ -3,6 +3,7 @@ import type { GameAchievement } from "../game-achievement.page-type.ts"
 export const reachTop3000InBeatSaber = {
   id: "01a06808-8818-7012-9f49-abca9e6d2b33",
   pageTypeSlug: "game-achievement",
+  type: "game-achievement",
   slug: "reach-top-3-000-in-beat-saber",
   title: "Reach Top 3,000 in Beat Saber",
   partOfCollections: ["beat-saber"],

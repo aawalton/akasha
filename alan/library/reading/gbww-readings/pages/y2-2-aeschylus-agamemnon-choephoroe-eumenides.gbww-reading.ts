@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y22AeschylusAgamemnonChoephoroeEumenides = {
   id: "019f0c09-bc94-7a5b-a7b9-0fe91bb96f51",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y2-2-aeschylus-agamemnon-choephoroe-eumenides",
   title: "Y2.2 Aeschylus: Agamemnon, Choephoroe, Eumenides",
   author: "Aeschylus",

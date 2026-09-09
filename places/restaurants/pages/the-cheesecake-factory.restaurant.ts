@@ -3,6 +3,7 @@ import type { Restaurant } from "../restaurant.page-type.ts"
 export const theCheesecakeFactory = {
   id: "01a06808-a2ec-7004-b5e3-b0735799fcf0",
   pageTypeSlug: "restaurant",
+  type: "restaurant",
   slug: "the-cheesecake-factory",
   title: "The Cheesecake Factory",
   partOfCollections: ["provo-restaurants"],

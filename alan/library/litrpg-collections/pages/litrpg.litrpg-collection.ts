@@ -3,6 +3,7 @@ import type { LitrpgCollection } from "../litrpg-collection.page-type.ts"
 export const litrpg = {
   id: "01a06808-9b5c-7000-ad54-37fb2efd87af",
   pageTypeSlug: "litrpg-collection",
+  type: "litrpg-collection",
   slug: "litrpg",
   title: "LitRPG",
   position: 0,

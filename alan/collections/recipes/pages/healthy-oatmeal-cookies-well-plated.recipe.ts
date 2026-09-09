@@ -3,6 +3,7 @@ import type { Recipe } from "../recipe.page-type.ts"
 export const healthyOatmealCookiesWellPlated = {
   id: "01a06808-d4f7-7002-94cd-ccdf23319ce4",
   pageTypeSlug: "recipe",
+  type: "recipe",
   slug: "healthy-oatmeal-cookies-well-plated",
   title: "Healthy Oatmeal Cookies — Well Plated",
   partOfCollections: ["cookies"],

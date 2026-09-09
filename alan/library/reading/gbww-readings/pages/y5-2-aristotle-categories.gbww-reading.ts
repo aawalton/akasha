@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y52AristotleCategories = {
   id: "019f0c09-bdac-70cb-af67-a125bfc60fd1",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y5-2-aristotle-categories",
   title: "Y5.2 Aristotle: Categories",
   author: "Aristotle",

@@ -3,6 +3,7 @@ import type { RestaurantMenuItem } from "../restaurant-menu-item.page-type.ts"
 export const godivaChocolateCheesecake = {
   id: "01a06808-b765-700b-9e98-e46d41ea7f55",
   pageTypeSlug: "restaurant-menu-item",
+  type: "restaurant-menu-item",
   slug: "godiva-chocolate-cheesecake",
   title: "Godiva Chocolate Cheesecake",
   partOfCollections: ["cheesecake-factory-cheescakes"],

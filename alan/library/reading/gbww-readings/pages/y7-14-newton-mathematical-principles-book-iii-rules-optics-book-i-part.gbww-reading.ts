@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y714NewtonMathematicalPrinciplesBookIiiRulesOpticsBookIPart = {
   id: "019f0c09-bea7-781d-adf3-93e3036c656c",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y7-14-newton-mathematical-principles-book-iii-rules-optics-book-i-part",
   title:
     "Y7.14 Newton: Mathematical Principles (Book III, Rules); Optics (Book I, Part I; Book III, Queries)",

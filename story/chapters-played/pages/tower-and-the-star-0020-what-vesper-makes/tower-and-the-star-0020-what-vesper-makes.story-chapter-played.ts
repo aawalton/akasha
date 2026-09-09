@@ -3,6 +3,7 @@ import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts
 export const towerAndTheStar0020WhatVesperMakes = {
   id: "01a064b4-9ec8-7b8b-8c51-98471bc27a1e",
   pageTypeSlug: "story-chapter-played",
+  type: "story-chapter-played",
   slug: "tower-and-the-star-0020-what-vesper-makes",
   title: "What Vesper Makes",
   story: "tower-and-the-star",

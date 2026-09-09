@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y617HegelThePhilosophyOfHistory = {
   id: "019f0c09-be57-7287-bcce-ac0eda42a293",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y6-17-hegel-the-philosophy-of-history",
   title: "Y6.17 Hegel: The Philosophy of History",
   author: "Hegel",

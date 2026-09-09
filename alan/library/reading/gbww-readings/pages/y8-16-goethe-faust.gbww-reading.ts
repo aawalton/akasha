@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y816GoetheFaust = {
   id: "019f0c09-bfb7-7ce4-8ebf-f0e4a00aadba",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y8-16-goethe-faust",
   title: "Y8.16 Goethe: Faust",
   author: "Goethe",

@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y311ShakespeareMacbeth = {
   id: "019f0c09-bd1e-7c59-8c05-12443c20a98a",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y3-11-shakespeare-macbeth",
   title: "Y3.11 Shakespeare: Macbeth",
   author: "Shakespeare",

@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y55GalenOnTheNaturalFaculties = {
   id: "019f0c09-bdb8-7aac-8501-df341abd14f0",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y5-5-galen-on-the-natural-faculties",
   title: "Y5.5 Galen: On the Natural Faculties",
   author: "Galen",

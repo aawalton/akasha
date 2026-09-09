@@ -3,6 +3,7 @@ import type { AuthorCollection } from "../author-collection.page-type.ts"
 export const faithAuthors = {
   id: "01a06808-06b4-7004-b933-54bb2f173708",
   pageTypeSlug: "author-collection",
+  type: "author-collection",
   slug: "faith-authors",
   title: "Faith Authors",
   partOfCollections: ["authors"],

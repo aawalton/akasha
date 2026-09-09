@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y84AristotleRhetoric = {
   id: "019f0c09-bed7-7d19-ba5b-f20311c0a0d3",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y8-4-aristotle-rhetoric",
   title: "Y8.4 Aristotle: Rhetoric",
   author: "Aristotle",

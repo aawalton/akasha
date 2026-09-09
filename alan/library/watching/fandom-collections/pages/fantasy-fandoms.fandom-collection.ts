@@ -3,6 +3,7 @@ import type { FandomCollection } from "../fandom-collection.page-type.ts"
 export const fantasyFandoms = {
   id: "01a06808-5f7f-7002-bcc1-c5d4d7487a5f",
   pageTypeSlug: "fandom-collection",
+  type: "fandom-collection",
   slug: "fantasy-fandoms",
   title: "Fantasy Fandoms",
   partOfCollections: ["fandoms"],

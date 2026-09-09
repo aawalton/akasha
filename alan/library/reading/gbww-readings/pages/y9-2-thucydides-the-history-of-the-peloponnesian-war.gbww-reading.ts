@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y92ThucydidesTheHistoryOfThePeloponnesianWar = {
   id: "019f0c09-bfdc-72cb-9495-70559b6cae7a",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y9-2-thucydides-the-history-of-the-peloponnesian-war",
   title: "Y9.2 Thucydides: The History of the Peloponnesian War",
   author: "Thucydides",

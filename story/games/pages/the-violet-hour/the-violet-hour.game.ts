@@ -3,6 +3,7 @@ import type { Game } from "../../game.page-type.ts"
 export const theVioletHour = {
   id: "01a0673f-a3d8-7000-910a-f80b20ecd496",
   pageTypeSlug: "game",
+  type: "game",
   slug: "the-violet-hour",
   title: "The Violet Hour",
   unit: "words",

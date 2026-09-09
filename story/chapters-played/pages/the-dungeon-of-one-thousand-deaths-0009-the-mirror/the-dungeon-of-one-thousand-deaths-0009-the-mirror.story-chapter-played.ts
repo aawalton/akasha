@@ -3,6 +3,7 @@ import type { StoryChapterPlayed } from "../../story-chapter-played.page-type.ts
 export const theDungeonOfOneThousandDeaths0009TheMirror = {
   id: "01a064b4-9ec8-70bb-afd3-feada5a65324",
   pageTypeSlug: "story-chapter-played",
+  type: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0009-the-mirror",
   title: "The Mirror",
   story: "the-dungeon-of-one-thousand-deaths",

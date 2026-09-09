@@ -3,6 +3,7 @@ import type { GbwwReading } from "../gbww-reading.page-type.ts"
 export const y44AristotlePhysics = {
   id: "019f0c09-bd59-70c7-aa99-da1297758704",
   pageTypeSlug: "gbww-reading",
+  type: "gbww-reading",
   slug: "y4-4-aristotle-physics",
   title: "Y4.4 Aristotle: Physics",
   author: "Aristotle",

@@ -3,6 +3,7 @@ import type { Restaurant } from "../restaurant.page-type.ts"
 export const ambrosiaBakery = {
   id: "01a06808-a2ec-7000-8553-2071ebade26b",
   pageTypeSlug: "restaurant",
+  type: "restaurant",
   slug: "ambrosia-bakery",
   title: "Ambrosia Bakery",
   partOfCollections: ["provo-restaurants"],

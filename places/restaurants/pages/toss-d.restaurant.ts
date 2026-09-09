@@ -3,6 +3,7 @@ import type { Restaurant } from "../restaurant.page-type.ts"
 export const tossD = {
   id: "01a06808-a2ec-7005-8920-e1eef9c76115",
   pageTypeSlug: "restaurant",
+  type: "restaurant",
   slug: "toss-d",
   title: "Toss’d",
   partOfCollections: ["provo-restaurants"],
