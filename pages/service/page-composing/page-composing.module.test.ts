@@ -22,7 +22,7 @@ const A_DEVICE_TOKEN = {
     id: "01a05dc7-421c-7000-b93a-ac4514adf294",
     pageTypeSlug: "device-token",
     slug: "held-one",
-    personSlug: "alan",
+    person: "alan",
     iosApp: "alanwalton",
     lastSeenAt: AN_INSTANT,
   },
@@ -143,7 +143,7 @@ test("several pages compose into what one write puts and what it keeps", () => {
 
 test("a value the page type keeps outside the commit is written into no body", () => {
   const said = foldedFor(ROOT, [A_DEVICE_TOKEN])
-  expect("puts" in said && said.puts[0]?.content).toContain("personSlug")
+  expect("puts" in said && said.puts[0]?.content).toContain('person: "alan"')
   expect("puts" in said && said.puts[0]?.content).not.toContain("lastSeenAt")
 })
 

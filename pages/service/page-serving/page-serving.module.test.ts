@@ -336,7 +336,7 @@ const A_DEVICE_TOKEN = {
     id: "01a05dc7-421c-7000-b93a-ac4514adf294",
     pageTypeSlug: "device-token",
     slug: "held-one",
-    personSlug: "alan",
+    person: "alan",
     iosApp: "alanwalton",
     lastSeenAt: AN_INSTANT,
   },
