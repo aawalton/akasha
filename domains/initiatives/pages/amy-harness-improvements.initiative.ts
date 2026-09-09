@@ -9,9 +9,9 @@ export const amyHarnessImprovements = {
   persona: "amy",
   intents: [
     {
-      statement: "Alan's widgets load.",
+      statement: "A certificate renewal reaches the headscale server serving that certificate.",
       workingMemory:
-        'TestFlight build 208 (`c2aba127`) puts a word under "Sign in" naming which keychain case refused the tile: `no key`, `2 keys`, `key err <n>` or `key ok`. `DeviceSecretReader.read()` answers nothing both for no keychain item and for two, so that word is what separates them. The pod now carries the access query naming `person` rather than `personSlug`. Alan reads the word off any tile next.\n',
+        "cert-manager renewed the secret, but `headscale-0` went on serving the expired one from memory, which is what took the tailnet down on 2026-09-02 and stopped the widgets. `headscale.manifest.code.ts:75` emits a `checksum/tls` annotation that would roll the pod on renewal, but nothing imports that file and the live statefulset carries only `checksum/s3-creds`. The cluster certificate runs to 2026-11-01, so the next renewal is early October.\n",
     },
     {
       statement: "Alan's app fills his password in from 1Password.",
