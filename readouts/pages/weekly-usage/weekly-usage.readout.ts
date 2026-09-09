@@ -10,7 +10,7 @@ export const weeklyUsage = {
   unit: "percent",
   place: 1,
   drawnAs: "number",
-  colorFromSlug: "weekly-ends",
+  colorFrom: "weekly-ends",
   groupSlugs: ["claude-usage"],
   wireKey: "weekly-usage",
   querySlug: "claude-accounts-mean-weekly-used",

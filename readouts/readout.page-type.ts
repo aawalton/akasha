@@ -1,7 +1,7 @@
 import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
 import type { AttributeSlug } from "./properties/attribute-slug.relation-property.ts"
-import type { ColorFromSlug } from "./properties/color-from-slug.relation-property.ts"
+import type { ColorFrom } from "./properties/color-from.relation-property.ts"
 import type { ColorSlug } from "./properties/color-slug.text-property.ts"
 import type { DrawnAs } from "./properties/drawn-as.text-property.ts"
 import type { EarnedKey } from "./properties/earned-key.text-property.ts"
@@ -28,7 +28,7 @@ export type Readout = Module & {
   drawnAs?: DrawnAs
   scaleSlug?: ScaleSlug
   colorSlug?: ColorSlug
-  colorFromSlug?: ColorFromSlug
+  colorFrom?: ColorFrom
   earnedKey?: EarnedKey
   attributeSlug?: AttributeSlug
   groupSlugs?: GroupSlugs
@@ -56,7 +56,7 @@ export const readout = {
     "number-property/last-value",
     "number-property/place",
     "relation-property/attribute-slug",
-    "relation-property/color-from-slug",
+    "relation-property/color-from",
     "relation-property/group-slugs",
     "relation-property/read-live-from",
     "relation-property/scale-slug",
@@ -85,7 +85,7 @@ export const readout = {
     },
     { pagePropertySlug: "relation-property/scale-slug", required: false, many: false },
     { pagePropertySlug: "text-property/color-slug", required: false, many: false },
-    { pagePropertySlug: "relation-property/color-from-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/color-from", required: false, many: false },
     { pagePropertySlug: "text-property/earned-key", required: false, many: false },
     { pagePropertySlug: "relation-property/attribute-slug", required: false, many: false },
     {
