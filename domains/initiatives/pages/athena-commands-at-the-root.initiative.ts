@@ -37,7 +37,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "A seat has the commands its domain and role need, without being handed them.",
       workingMemory:
-        "This began when the `alan` handler seat could not reach `akasha track session`. Alan wants narrow warrants per use case, not one generic relation, and rejected `partSlugs` as the edge: too broad in what it targets, and it demands a spanning tree, while a command belongs to its namespace and should register to several domains and roles. Wanted: a `command-slugs` relation on `domain`, the `alan` domain naming the `track-session` namespace, and warrants from a seat's domain and role.",
+        "This began when the `alan` handler seat could not reach `akasha track session`. Alan wants narrow warrants per use case, not one generic relation, and rejected `partSlugs` as the edge: too broad, and it demands a spanning tree, while a command belongs to its namespace and answers to several domains and roles. Nothing is built: no such relation is anywhere and `alan` names no command. The name wants settling, since `partSlugs` is `parts` now, and the example names a namespace.",
     },
     {
       statement: "An instrument that cannot see its subject says so rather than reporting clean.",
