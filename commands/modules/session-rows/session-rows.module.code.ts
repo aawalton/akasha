@@ -15,7 +15,7 @@ import {
   difficultyForTitle,
   readDifficulty,
   readSafety,
-} from "../session-leveling/session-leveling.module.code.ts"
+} from "../../pages/track/session/amend/session-leveling/session-leveling.module.code.ts"
 import { dayBefore } from "../waking/waking.module.code.ts"
 
 export type RelationshipPage = {
