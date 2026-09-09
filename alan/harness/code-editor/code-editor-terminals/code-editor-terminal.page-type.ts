@@ -1,7 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type CodeEditorTerminal = Page
 
 export const codeEditorTerminal = {
   id: "01a06826-92e5-7481-a7d4-68af91528f0b",
@@ -23,4 +20,5 @@ export const codeEditorTerminal = {
         "A closed terminal's page goes in the hourly sweep rather than as the terminal closes.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
