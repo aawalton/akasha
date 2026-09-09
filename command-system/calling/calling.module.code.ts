@@ -5,11 +5,6 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { costRecorded, opening } from "../../checks/modules/check-cost/check-cost.module.code.ts"
 import {
-  type Reached,
-  saidIn,
-  walkingIn,
-} from "../../commands/modules/command-walking/command-walking.module.code.ts"
-import {
   type Held,
   listingOf,
   partsOf,
@@ -22,6 +17,11 @@ import {
   secondsIn,
   watching,
 } from "../../commands/modules/stopping/command-stopping.module.code.ts"
+import {
+  type Reached,
+  saidIn,
+  walkingIn,
+} from "../../commands/modules/walking/command-walking.module.code.ts"
 import type { HelpNotes } from "../../commands/properties/help-notes.text-property.ts"
 import type { Taking } from "../../commands/properties/taking.record-property.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
