@@ -7,7 +7,7 @@ import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   type PotionId,
   potions,
-} from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
+} from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
 import { Info } from "lucide-react"
 import { useState } from "react"
 import type { FoodOrDrinkId } from "../../character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"

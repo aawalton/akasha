@@ -1,5 +1,5 @@
 import { assertNever } from "@akasha/utils/narrow/assert-never"
-import type { PotionSource } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
+import type { PotionSource } from "akasha/temper/alchemy/potion-source/potion-source.module.code.ts"
 import type { BuffOrDebuffSource } from "../../formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { BuffOrDebuffEffect } from "../../formula-framework/effect/effect.module.code.ts"
 import {
