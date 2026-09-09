@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theShapeBehindTheTwoLines = {
   id: "01a047c8-d166-721a-b35d-489c6ef7a33e",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whyIKeepMyDataInFiles = {
   id: "01a04615-305e-763d-b28f-bedf12d64461",

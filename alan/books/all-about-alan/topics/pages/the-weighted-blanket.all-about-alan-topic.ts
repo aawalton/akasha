@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theWeightedBlanket = {
   id: "01a06559-9d65-762e-b11c-095ca1fe26eb",

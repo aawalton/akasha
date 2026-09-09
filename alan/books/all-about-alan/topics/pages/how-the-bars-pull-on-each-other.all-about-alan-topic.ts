@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const howTheBarsPullOnEachOther = {
   id: "01a06559-9d65-78f3-854a-d7a403a8c74e",

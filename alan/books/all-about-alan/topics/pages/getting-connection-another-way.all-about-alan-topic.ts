@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const gettingConnectionAnotherWay = {
   id: "01a06559-9d65-77c5-9e69-2da0c2cce931",

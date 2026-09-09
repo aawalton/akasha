@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const beingAnInventorNotACoder = {
   id: "01a04615-3063-7254-b8ed-cc437fdfe056",

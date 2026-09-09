@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const buildingADefinitionICanRunOn = {
   id: "01a06559-9d65-73b1-9d60-64d20787d877",

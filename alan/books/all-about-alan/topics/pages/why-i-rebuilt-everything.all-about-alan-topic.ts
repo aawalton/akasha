@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whyIRebuiltEverything = {
   id: "01a04615-305d-74ac-9bd3-68083fd2e2d5",

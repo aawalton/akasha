@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theRatingMyBudgetRestsOn = {
   id: "01a07824-30b9-7011-884c-1d5498be5e6d",

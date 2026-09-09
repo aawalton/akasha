@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whatRepetitionEncodes = {
   id: "01a06559-9d65-75ef-8aaf-0a53e3f23763",

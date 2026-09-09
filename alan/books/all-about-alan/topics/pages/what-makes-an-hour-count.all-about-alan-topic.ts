@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whatMakesAnHourCount = {
   id: "01a06559-9d65-776a-b08f-b6f82656f0f1",

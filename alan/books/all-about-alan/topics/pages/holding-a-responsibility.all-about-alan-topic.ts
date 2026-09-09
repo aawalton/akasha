@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const holdingAResponsibility = {
   id: "01a06559-9d65-77a5-86c7-f2383c80123c",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whenWeNeedOppositeThings = {
   id: "01a06559-9d65-79bf-bd25-b3ab923523ce",

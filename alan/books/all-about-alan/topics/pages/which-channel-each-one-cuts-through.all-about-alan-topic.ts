@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whichChannelEachOneCutsThrough = {
   id: "01a06559-9d65-70d6-8e0f-55d18f6b3f43",

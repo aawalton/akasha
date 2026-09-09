@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const believingThingsICannotTrace = {
   id: "01a06559-9d65-7468-a8e6-0e56eeaf1f83",

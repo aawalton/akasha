@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const thePartIHaveNotOpened = {
   id: "01a06559-9d65-74ed-b2ce-d4c011d2c683",

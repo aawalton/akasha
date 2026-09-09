@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whatIDoWhenIAmPastBearing = {
   id: "01a06559-9d65-7b7a-b12d-63e9b3de5732",

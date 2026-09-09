@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whyIStoppedWorking = {
   id: "01a06559-9d65-75ec-b0b4-ffbce1261906",

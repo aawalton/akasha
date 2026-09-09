@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whetherTheRuleSurvives = {
   id: "01a06559-9d65-76d7-a5d1-d19e1d99570f",

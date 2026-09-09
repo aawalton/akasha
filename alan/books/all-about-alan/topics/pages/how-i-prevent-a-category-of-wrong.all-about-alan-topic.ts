@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const howIPreventACategoryOfWrong = {
   id: "01a04615-e75d-75d0-b3fd-9d09d8b9b090",

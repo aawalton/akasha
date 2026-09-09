@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const keepingMyOwnVolumeDown = {
   id: "01a06559-9d65-7c52-8d68-f4f91e8a5993",

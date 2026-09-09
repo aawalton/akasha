@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whatTheChannelHasToCarry = {
   id: "01a06559-9d65-708d-be4b-0644fda391fe",

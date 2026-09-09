@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whetherMy2026ForecastIsHolding = {
   id: "01a047c8-d16a-781b-a03e-5c3f63142f53",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const blankCheckModeAndRecoveryMode = {
   id: "01a0784f-0bde-7fdb-9262-4615d39727ad",

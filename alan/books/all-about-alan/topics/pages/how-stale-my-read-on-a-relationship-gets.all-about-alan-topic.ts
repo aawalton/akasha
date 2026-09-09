@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const howStaleMyReadOnARelationshipGets = {
   id: "01a06559-9d65-799f-af0a-6d80a0ab55c0",

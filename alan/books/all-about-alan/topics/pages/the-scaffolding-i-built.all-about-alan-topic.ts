@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theScaffoldingIBuilt = {
   id: "01a06559-9d65-7ec9-b3bf-87a17dee0c36",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theRepeatingIDoToSettle = {
   id: "01a06559-9d65-771f-9271-27cf7ac918eb",

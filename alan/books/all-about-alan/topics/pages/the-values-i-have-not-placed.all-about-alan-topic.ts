@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theValuesIHaveNotPlaced = {
   id: "01a06559-9d65-771d-88e9-f3838e542f98",

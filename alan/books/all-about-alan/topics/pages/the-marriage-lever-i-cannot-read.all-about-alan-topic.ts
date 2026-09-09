@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theMarriageLeverICannotRead = {
   id: "01a0784a-5761-7614-9bc5-c0913da356b1",

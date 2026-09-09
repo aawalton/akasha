@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theScoreIKeepOnMyself = {
   id: "01a06559-9d65-7d7b-b045-0acff11e4f98",

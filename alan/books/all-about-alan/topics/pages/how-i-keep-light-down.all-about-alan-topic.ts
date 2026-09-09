@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const howIKeepLightDown = {
   id: "01a06559-9d65-7a26-87a6-a13c4f8e0c55",

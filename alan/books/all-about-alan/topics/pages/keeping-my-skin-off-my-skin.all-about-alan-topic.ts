@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const keepingMySkinOffMySkin = {
   id: "01a06559-9d65-764f-913c-0ea96194d504",

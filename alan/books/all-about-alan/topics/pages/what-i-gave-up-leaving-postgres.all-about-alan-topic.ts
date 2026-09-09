@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whatIGaveUpLeavingPostgres = {
   id: "01a04615-305f-7b56-995d-0efcc02c79c6",

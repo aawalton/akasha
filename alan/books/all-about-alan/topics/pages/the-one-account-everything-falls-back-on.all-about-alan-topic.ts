@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theOneAccountEverythingFallsBackOn = {
   id: "01a06559-9d65-78b0-bf36-e2813b9c69cd",

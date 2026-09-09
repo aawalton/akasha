@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const howIMakeADecisionICannotUndo = {
   id: "01a06559-9d65-74bf-8edc-41ce72c7375d",

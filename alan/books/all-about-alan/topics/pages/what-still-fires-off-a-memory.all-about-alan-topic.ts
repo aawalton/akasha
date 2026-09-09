@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whatStillFiresOffAMemory = {
   id: "01a06559-9d65-7310-8ba1-e5448ee4506a",

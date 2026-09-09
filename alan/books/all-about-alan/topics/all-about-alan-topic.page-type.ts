@@ -1,18 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Definition } from "../../../../domains/properties/definition.standard-agent-english-property.ts"
-import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { TopicParents } from "./properties/topic-parents.relation-property.ts"
-import type { TopicRelated } from "./properties/topic-related.relation-property.ts"
-import type { TopicSettled } from "./properties/topic-settled.text-property.ts"
-
-export type AllAboutAlanTopic = Page & {
-  title: Title
-  definition: Definition
-  parents?: TopicParents
-  related?: TopicRelated
-  settled?: TopicSettled
-}
 
 export const allAboutAlanTopic = {
   id: "01a01acb-287b-7001-a5dd-b90e367fe4f8",
@@ -62,4 +48,5 @@ export const allAboutAlanTopic = {
       statement: "A topic with no settled text is a title and a definition alone.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

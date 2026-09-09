@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whatALevelOfRecoveryCosts = {
   id: "01a06559-9d65-7c84-9dee-d09ecd78b6a5",

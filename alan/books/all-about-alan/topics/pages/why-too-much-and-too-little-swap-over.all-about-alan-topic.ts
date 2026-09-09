@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whyTooMuchAndTooLittleSwapOver = {
   id: "01a06559-9d65-7f72-932f-0e6a859b3334",

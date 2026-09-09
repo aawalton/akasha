@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theFoodsICanStillManage = {
   id: "01a06559-9d65-7cc2-adc2-4be6e81bc574",

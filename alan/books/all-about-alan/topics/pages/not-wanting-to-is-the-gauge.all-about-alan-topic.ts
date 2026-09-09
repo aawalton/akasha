@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const notWantingToIsTheGauge = {
   id: "01a06559-9d65-73c5-9c38-c2134c5f2d54",

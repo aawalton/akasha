@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whatTheGraphIsMadeOf = {
   id: "01a047c8-d165-7dc6-a4d7-12800519c6af",

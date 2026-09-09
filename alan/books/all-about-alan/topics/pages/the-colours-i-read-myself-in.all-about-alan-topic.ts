@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theColoursIReadMyselfIn = {
   id: "01a06559-9d65-7926-8228-eab7219413b2",

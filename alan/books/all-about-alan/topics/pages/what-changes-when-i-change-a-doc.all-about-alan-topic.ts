@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whatChangesWhenIChangeADoc = {
   id: "01a047c8-d167-7e81-b2dc-fd5adc1cf6b2",

@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const whatIHaveStoppedTreatingAsCompulsory = {
   id: "01a06559-9d65-7f00-8227-5935140f9b02",

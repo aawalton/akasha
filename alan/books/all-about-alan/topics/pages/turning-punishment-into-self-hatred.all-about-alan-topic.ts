@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const turningPunishmentIntoSelfHatred = {
   id: "01a06559-9d65-7cd5-b84a-8283af358b43",

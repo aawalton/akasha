@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const playingTheLongGame = {
   id: "01a06559-9d65-74a4-8e00-75c7a058dad0",

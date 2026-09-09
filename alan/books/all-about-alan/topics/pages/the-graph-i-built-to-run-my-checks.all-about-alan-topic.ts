@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const theGraphIBuiltToRunMyChecks = {
   id: "01a04625-d809-7468-9ddd-c403fc72d67e",

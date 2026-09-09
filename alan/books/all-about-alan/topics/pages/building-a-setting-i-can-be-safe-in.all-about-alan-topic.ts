@@ -1,4 +1,4 @@
-import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.types.ts"
 
 export const buildingASettingICanBeSafeIn = {
   id: "01a06559-9d65-79b0-9dd9-896a4ac6b4a0",
