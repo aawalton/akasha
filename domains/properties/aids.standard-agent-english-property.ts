@@ -1,5 +1,5 @@
 import type { List } from "@akasha/pages/page-property"
-import type { StandardAgentEnglishProperty } from "../standard-agent-english/standard-agent-english-properties/standard-agent-english-property.page-type.ts"
+import type { StandardAgentEnglishProperty } from "../standard-agent-english/properties/standard-agent-english-property.page-type.ts"
 
 export type Aid = string
 export type Aids = List<Aid>

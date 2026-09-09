@@ -1,4 +1,4 @@
-import type { StandardAgentEnglishProperty } from "../standard-agent-english/standard-agent-english-properties/standard-agent-english-property.page-type.ts"
+import type { StandardAgentEnglishProperty } from "../standard-agent-english/properties/standard-agent-english-property.page-type.ts"
 
 export type InvariantStatement = string
 
