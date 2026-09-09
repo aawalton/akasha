@@ -7,7 +7,7 @@ export const commandSystem = {
   slug: "command-system",
   definition: "what an agent runs by name",
   manifest: "json",
-  parts: ["page-type/command", "module/scratching"],
+  parts: ["page-type/command"],
   invariants: [
     {
       invariantKind: "departure",
