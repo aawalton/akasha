@@ -1,12 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Car } from "../cars/car.page-type.types.ts"
-import type { CarYear } from "./properties/car-year.relation-property.ts"
-
-export type CarTrim = Car & {
-  title: Title
-  carYear: CarYear
-}
 
 export const carTrim = {
   id: "01a06827-645d-74f5-957f-25b077d85817",
@@ -28,4 +20,5 @@ export const carTrim = {
       statement: "A trim is a row in its make's file rather than a page filed on its own.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
