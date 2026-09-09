@@ -24,6 +24,7 @@ export const changeGuard = {
     "change-guard/relation-reaches-a-page",
     "change-guard/field-key-not-carried-twice",
     "change-guard/folder-not-left-named",
+    "change-guard/slug-names-one-property",
   ],
   properties: [
     { pageProperty: "relation-property/change-target-type", required: true, many: false },

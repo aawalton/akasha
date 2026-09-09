@@ -29,4 +29,5 @@ export const renamePageSlug = {
     },
   ],
   changeKind: "change-mechanical",
+  guards: ["change-guard/slug-names-one-property"],
 } as const satisfies ChangeMechanicalFileContent
