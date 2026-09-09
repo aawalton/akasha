@@ -1,20 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { MonarchRecord } from "../records/monarch-record.page-type.ts"
-import type { Account } from "./properties/account.relation-property.ts"
-import type { CostBasis } from "./properties/cost-basis.number-property.ts"
-import type { HoldingValue } from "./properties/holding-value.number-property.ts"
-import type { Quantity } from "./properties/quantity.number-property.ts"
-import type { SecurityName } from "./properties/security-name.text-property.ts"
-import type { Ticker } from "./properties/ticker.text-property.ts"
-
-export type MonarchHolding = MonarchRecord & {
-  account: Account
-  securityName: SecurityName
-  ticker: Ticker
-  quantity: Quantity
-  costBasis: CostBasis
-  holdingValue: HoldingValue
-}
 
 export const monarchHolding = {
   id: "01a0680a-1a00-7016-b283-5a9c7e1f1116",
@@ -55,4 +39,5 @@ export const monarchHolding = {
       statement: "A holding sits in memory.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
