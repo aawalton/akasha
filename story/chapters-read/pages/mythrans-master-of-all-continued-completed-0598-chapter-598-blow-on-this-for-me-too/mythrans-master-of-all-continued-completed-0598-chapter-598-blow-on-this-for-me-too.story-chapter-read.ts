@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0598Chapter598BlowOnThisForMeT
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0598-chapter-598-blow-on-this-for-me-too",
   title: "Chapter 598 - Blow On This For Me, Too",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 598,
   ownLength: 2413,
   unitSlug: "words",

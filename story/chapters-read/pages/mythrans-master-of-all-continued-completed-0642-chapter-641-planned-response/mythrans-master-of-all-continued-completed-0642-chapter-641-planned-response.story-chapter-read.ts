@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0642Chapter641PlannedResponse 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0642-chapter-641-planned-response",
   title: "Chapter 641 - Planned Response",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 642,
   ownLength: 2772,
   unitSlug: "words",

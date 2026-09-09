@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0767Chapter766TravelTrouble = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0767-chapter-766-travel-trouble",
   title: "Chapter 766 - Travel Trouble",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 767,
   ownLength: 2823,
   unitSlug: "words",

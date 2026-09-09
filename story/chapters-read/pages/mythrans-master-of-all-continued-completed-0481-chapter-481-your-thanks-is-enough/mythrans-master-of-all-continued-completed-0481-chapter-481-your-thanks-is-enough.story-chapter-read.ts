@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0481Chapter481YourThanksIsEnou
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0481-chapter-481-your-thanks-is-enough",
   title: "Chapter 481 - Your Thanks Is Enough",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 481,
   ownLength: 3778,
   unitSlug: "words",

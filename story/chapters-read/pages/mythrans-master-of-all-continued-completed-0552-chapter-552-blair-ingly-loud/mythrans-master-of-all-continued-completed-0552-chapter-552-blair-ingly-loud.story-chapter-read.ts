@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0552Chapter552BlairInglyLoud =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0552-chapter-552-blair-ingly-loud",
   title: "Chapter 552 - Blair-ingly Loud",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 552,
   ownLength: 2729,
   unitSlug: "words",

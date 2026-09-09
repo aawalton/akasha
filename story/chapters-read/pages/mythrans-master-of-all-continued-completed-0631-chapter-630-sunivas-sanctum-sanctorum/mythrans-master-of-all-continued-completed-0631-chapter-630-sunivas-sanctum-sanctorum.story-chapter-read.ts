@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0631Chapter630SunivasSanctumSa
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0631-chapter-630-sunivas-sanctum-sanctorum",
   title: "Chapter 630 - Suniva's Sanctum Sanctorum",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 631,
   ownLength: 3135,
   unitSlug: "words",

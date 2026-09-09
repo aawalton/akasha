@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0476Chapter476GhoulGrinding = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0476-chapter-476-ghoul-grinding",
   title: "Chapter 476 - Ghoul Grinding",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 476,
   ownLength: 3096,
   unitSlug: "words",

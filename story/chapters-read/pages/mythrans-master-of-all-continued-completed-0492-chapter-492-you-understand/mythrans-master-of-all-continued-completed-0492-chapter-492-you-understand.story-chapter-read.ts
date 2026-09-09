@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0492Chapter492YouUnderstand = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0492-chapter-492-you-understand",
   title: "Chapter 492 - You Understand",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 492,
   ownLength: 3272,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0743Chapter742CynicalCaravan =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0743-chapter-742-cynical-caravan",
   title: "Chapter 742 - Cynical Caravan",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 743,
   ownLength: 3096,
   unitSlug: "words",

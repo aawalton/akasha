@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0561Chapter561IHopeYouLearnedS
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0561-chapter-561-i-hope-you-learned-something",
   title: "Chapter 561 - I Hope You Learned Something",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 561,
   ownLength: 2555,
   unitSlug: "words",

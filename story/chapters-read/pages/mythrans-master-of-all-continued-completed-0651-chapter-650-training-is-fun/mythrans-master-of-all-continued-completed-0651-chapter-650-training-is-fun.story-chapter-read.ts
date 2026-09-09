@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0651Chapter650TrainingIsFun = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0651-chapter-650-training-is-fun",
   title: "Chapter 650 - Training Is Fun",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 651,
   ownLength: 5862,
   unitSlug: "words",

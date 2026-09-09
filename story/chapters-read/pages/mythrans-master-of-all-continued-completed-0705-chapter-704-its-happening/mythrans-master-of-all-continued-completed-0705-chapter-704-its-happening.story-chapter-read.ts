@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0705Chapter704ItsHappening = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0705-chapter-704-its-happening",
   title: "Chapter 704 - It's Happening",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 705,
   ownLength: 3357,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0511Chapter511FeedMeSeeMore = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0511-chapter-511-feed-me-see-more",
   title: "Chapter 511 - Feed Me, See More",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 511,
   ownLength: 3376,
   unitSlug: "words",

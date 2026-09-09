@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0658Chapter657FunInThePool = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0658-chapter-657-fun-in-the-pool",
   title: "Chapter 657 - Fun In The Pool",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 658,
   ownLength: 2777,
   unitSlug: "words",

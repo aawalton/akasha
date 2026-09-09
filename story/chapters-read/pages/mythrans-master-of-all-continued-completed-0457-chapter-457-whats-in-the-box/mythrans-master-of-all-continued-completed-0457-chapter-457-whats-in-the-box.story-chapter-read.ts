@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0457Chapter457WhatsInTheBox = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0457-chapter-457-whats-in-the-box",
   title: "Chapter 457 - What's In The Box?",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 457,
   ownLength: 3201,
   unitSlug: "words",

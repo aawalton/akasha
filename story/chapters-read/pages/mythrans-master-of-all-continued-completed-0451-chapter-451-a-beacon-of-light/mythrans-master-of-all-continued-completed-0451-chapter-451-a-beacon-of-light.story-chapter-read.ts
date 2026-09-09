@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0451Chapter451ABeaconOfLight =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0451-chapter-451-a-beacon-of-light",
   title: "Chapter 451 - A Beacon Of Light",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 451,
   ownLength: 3206,
   unitSlug: "words",

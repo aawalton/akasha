@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0560Chapter560CookForMeBaby = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0560-chapter-560-cook-for-me-baby",
   title: "Chapter 560 - Cook For Me, Baby!",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 560,
   ownLength: 2594,
   unitSlug: "words",

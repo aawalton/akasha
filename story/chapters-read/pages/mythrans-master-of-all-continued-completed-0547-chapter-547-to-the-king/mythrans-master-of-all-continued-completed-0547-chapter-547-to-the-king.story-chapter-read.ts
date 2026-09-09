@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0547Chapter547ToTheKing = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0547-chapter-547-to-the-king",
   title: "Chapter 547 - To The King",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 547,
   ownLength: 2729,
   unitSlug: "words",

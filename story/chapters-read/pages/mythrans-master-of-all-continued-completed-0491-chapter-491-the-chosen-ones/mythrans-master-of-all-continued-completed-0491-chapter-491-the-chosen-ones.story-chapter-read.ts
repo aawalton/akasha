@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0491Chapter491TheChosenOnes = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0491-chapter-491-the-chosen-ones",
   title: "Chapter 491 - The Chosen Ones",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 491,
   ownLength: 3732,
   unitSlug: "words",

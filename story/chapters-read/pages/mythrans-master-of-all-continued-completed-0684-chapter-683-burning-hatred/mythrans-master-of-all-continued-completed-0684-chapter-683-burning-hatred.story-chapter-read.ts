@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0684Chapter683BurningHatred = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0684-chapter-683-burning-hatred",
   title: "Chapter 683 - Burning Hatred",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 684,
   ownLength: 2814,
   unitSlug: "words",

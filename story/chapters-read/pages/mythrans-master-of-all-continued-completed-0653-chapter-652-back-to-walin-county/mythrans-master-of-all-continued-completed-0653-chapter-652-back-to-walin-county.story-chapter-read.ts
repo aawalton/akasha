@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0653Chapter652BackToWalinCount
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0653-chapter-652-back-to-walin-county",
   title: "Chapter 652 - Back To Walin County",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 653,
   ownLength: 2924,
   unitSlug: "words",

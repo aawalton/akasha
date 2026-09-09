@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0484Chapter484DifferentViews =
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0484-chapter-484-different-views",
   title: "Chapter 484 - Different Views",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 484,
   ownLength: 3299,
   unitSlug: "words",

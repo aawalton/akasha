@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0464Chapter464HonorDuel = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0464-chapter-464-honor-duel",
   title: "Chapter 464 - Honor Duel",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 464,
   ownLength: 3223,
   unitSlug: "words",

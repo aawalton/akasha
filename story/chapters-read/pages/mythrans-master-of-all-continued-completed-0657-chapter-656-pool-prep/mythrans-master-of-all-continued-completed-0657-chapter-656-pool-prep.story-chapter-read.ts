@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0657Chapter656PoolPrep = {
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0657-chapter-656-pool-prep",
   title: "Chapter 656 - Pool Prep",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 657,
   ownLength: 3030,
   unitSlug: "words",

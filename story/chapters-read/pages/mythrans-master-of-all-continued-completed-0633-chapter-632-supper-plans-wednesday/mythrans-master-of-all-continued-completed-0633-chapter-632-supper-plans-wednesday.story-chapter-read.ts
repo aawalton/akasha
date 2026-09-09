@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0633Chapter632SupperPlansWedne
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0633-chapter-632-supper-plans-wednesday",
   title: "Chapter 632 - Supper Plans (Wednesday)",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 633,
   ownLength: 3159,
   unitSlug: "words",

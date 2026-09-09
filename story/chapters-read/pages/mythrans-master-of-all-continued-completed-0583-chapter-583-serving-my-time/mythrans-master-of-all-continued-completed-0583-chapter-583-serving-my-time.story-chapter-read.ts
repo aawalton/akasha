@@ -5,7 +5,7 @@ export const mythransMasterOfAllContinuedCompleted0583Chapter583ServingMyTime = 
   pageTypeSlug: "story-chapter-read",
   slug: "mythrans-master-of-all-continued-completed-0583-chapter-583-serving-my-time",
   title: "Chapter 583 - Serving My Time",
-  partOfCollectionSlugs: ["mythrans-master-of-all-continued-completed"],
+  storySlug: "mythrans-master-of-all-continued-completed",
   position: 583,
   ownLength: 2969,
   unitSlug: "words",
