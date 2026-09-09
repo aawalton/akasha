@@ -109,7 +109,9 @@ export function readCutPages(): readonly CutPage[] {
 }
 
 function cutPagesOf(appSlug: string): readonly CutPage[] {
-  return readCutPages().filter((page) => slugAt(page.value, "appSlug") === appSlug)
+  return readCutPages().filter(
+    (page) => (slugAt(page.value, "app") ?? slugAt(page.value, "appSlug")) === appSlug
+  )
 }
 
 export const cutFingerprintValues = z.object({
