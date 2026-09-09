@@ -5,7 +5,7 @@ export const temperSkills = {
   pageTypeSlug: "domain",
   slug: "temper-skills",
   definition: "what a character can do and where the doing is learned",
-  pluralSlug: "temper-skillss",
+  pluralSlug: "temper-skills",
   parts: [
     "page-type/temper-affix-script",
     "page-type/temper-class",
