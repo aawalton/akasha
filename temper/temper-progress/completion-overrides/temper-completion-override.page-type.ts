@@ -15,7 +15,7 @@ export const temperCompletionOverride = {
   definition: "a completion count set by hand where the game reports it too low",
   pluralSlug: "temper-completion-overrides",
   extends: ["page-type/temper-progress-thing"],
-  partSlugs: ["number-property/floor", "text-property/override-reason"],
+  parts: ["number-property/floor", "text-property/override-reason"],
   properties: [
     { pagePropertySlug: "text-property/account-page", required: true, many: false },
     { pagePropertySlug: "text-property/character", required: true, many: false },

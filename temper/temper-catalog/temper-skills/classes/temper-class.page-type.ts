@@ -13,7 +13,7 @@ export const temperClass = {
   definition: "a calling a character is made with",
   pluralSlug: "temper-classes",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: ["number-property/eso-class-id"],
+  parts: ["number-property/eso-class-id"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/eso-class-id", required: true, many: false },

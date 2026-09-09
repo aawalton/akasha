@@ -20,7 +20,7 @@ export const initiative = {
   slug: "initiative",
   definition: "work that closes gaps between how a domain is and how it should be",
   pluralSlug: "initiatives",
-  partSlugs: [
+  parts: [
     "record-property/intents",
     "relation-property/initiative-persona",
     "relation-property/initiative",

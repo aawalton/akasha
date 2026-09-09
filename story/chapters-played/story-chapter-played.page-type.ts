@@ -20,7 +20,7 @@ export const storyChapterPlayed = {
   pluralSlug: "story-chapters-played",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
-  partSlugs: ["relation-property/played-chapter-story"],
+  parts: ["relation-property/played-chapter-story"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     {

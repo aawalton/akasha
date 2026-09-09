@@ -15,7 +15,7 @@ export const temperRace = {
   definition: "a people a character is born into",
   pluralSlug: "temper-races",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: ["number-property/eso-race-id", "text-property/alt-name"],
+  parts: ["number-property/eso-race-id", "text-property/alt-name"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "text-property/alt-name", required: false, many: false },

@@ -13,7 +13,7 @@ export const temperPursuitThing = {
   definition: "one node of a catalog the game shows a player's progress against",
   pluralSlug: "temper-pursuit-things",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: ["number-property/eso-collectible-id"],
+  parts: ["number-property/eso-collectible-id"],
   properties: [
     { pagePropertySlug: "number-property/eso-collectible-id", required: false, many: false },
   ],

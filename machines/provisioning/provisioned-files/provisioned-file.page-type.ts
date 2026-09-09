@@ -20,7 +20,7 @@ export const provisionedFile = {
   slug: "provisioned-file",
   definition: "a file a machine is set up by putting where something outside akasha reads it",
   pluralSlug: "provisioned-files",
-  partSlugs: [
+  parts: [
     "file-property/content",
     "provisioned-file/bashrc",
     "provisioned-file/btw5-udev-rule",

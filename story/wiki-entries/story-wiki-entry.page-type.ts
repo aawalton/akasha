@@ -22,7 +22,7 @@ export const storyWikiEntry = {
   pluralSlug: "story-wiki-entries",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: ["number-property/chapter-number", "select-property/wiki-kind"],
+  parts: ["number-property/chapter-number", "select-property/wiki-kind"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/world", required: false, many: false },

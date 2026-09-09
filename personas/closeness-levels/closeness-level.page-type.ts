@@ -23,7 +23,7 @@ export const closenessLevel = {
   definition: "one rung of how close a persona is drawn, from public to unveiled",
   pluralSlug: "closeness-levels",
   extends: ["page-type/domain"],
-  partSlugs: [
+  parts: [
     "closeness-level/level-1",
     "closeness-level/level-2",
     "closeness-level/level-3",

@@ -47,7 +47,7 @@ export const location = {
   definition: "a place on the map somebody kept",
   pluralSlug: "locations",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/visited",
     "calendar-date-property/review-date",
     "instant-property/scheduled-end-at",

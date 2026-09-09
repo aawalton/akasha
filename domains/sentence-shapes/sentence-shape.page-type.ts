@@ -16,7 +16,7 @@ export const sentenceShape = {
   definition: "one shape a sentence takes, and whether akasha writes in it",
   pluralSlug: "sentence-shapes",
   extends: ["page-type/module"],
-  partSlugs: [
+  parts: [
     "boolean-property/allowed",
     "text-property/reason",
     "sentence-shape/closing-count",

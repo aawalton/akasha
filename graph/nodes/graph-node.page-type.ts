@@ -8,7 +8,7 @@ export const graphNode = {
   pageTypeSlug: "page-type",
   slug: "graph-node",
   definition: "a thing the graph can name",
-  partSlugs: ["graph-node/file"],
+  parts: ["graph-node/file"],
   pluralSlug: "graph-nodes",
   extends: ["page-type/domain"],
   invariants: [

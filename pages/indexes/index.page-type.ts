@@ -14,7 +14,7 @@ export const index = {
   slug: "index",
   definition: "one question the pages can be asked, answered by reading one file",
   pluralSlug: "indexes",
-  partSlugs: ["text-property/index-name"],
+  parts: ["text-property/index-name"],
   extends: ["page-type/module"],
   properties: [
     { pagePropertySlug: "text-property/index-name", required: true, many: false },

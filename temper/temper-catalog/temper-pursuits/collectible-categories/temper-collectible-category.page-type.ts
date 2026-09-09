@@ -15,7 +15,7 @@ export const temperCollectibleCategory = {
   definition: "a heading the game files a collectible under",
   pluralSlug: "temper-collectible-categories",
   extends: ["page-type/temper-pursuit-thing"],
-  partSlugs: [
+  parts: [
     "number-property/eso-category-index",
     "page-property-entry/collectibles",
     "text-property/collectible-name",

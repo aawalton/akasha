@@ -16,7 +16,7 @@ export const codeFileProperty = {
   slug: "code-file-property",
   definition: "a page property held in a file something runs",
   pluralSlug: "code-file-properties",
-  partSlugs: [
+  parts: [
     "number-property/max-cpu-seconds",
     "number-property/max-memory-mb",
     "number-property/max-wall-seconds",

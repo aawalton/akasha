@@ -15,7 +15,7 @@ export const pagePropertyEntry = {
   definition: "a page property whose values are kept one to a line beside the page",
   pluralSlug: "page-property-entries",
   extends: ["page-type/page-property"],
-  partSlugs: ["text-property/rendered-as"],
+  parts: ["text-property/rendered-as"],
   properties: [
     { pagePropertySlug: "record-property/properties", required: true, many: true, maxCount: null },
     { pagePropertySlug: "text-property/rendered-as", required: false, many: false },

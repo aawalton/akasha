@@ -9,7 +9,7 @@ export const authorityKind = {
   slug: "authority-kind",
   definition: "which sort of act an authority permits",
   pluralSlug: "authority-kinds",
-  partSlugs: [
+  parts: [
     "authority-kind/domain",
     "authority-kind/feature-approval",
     "authority-kind/feature-request",

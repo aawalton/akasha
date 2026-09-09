@@ -19,7 +19,7 @@ export const parserModel = {
   definition: "a trained parser the code loads to read a sentence",
   pluralSlug: "parser-models",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "file-property/model-manifest",
     "file-property/parser-weights",
     "file-property/relation-weights",

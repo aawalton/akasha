@@ -13,7 +13,7 @@ export const personaCoverImage = {
   definition: "the picture a persona is shown by at a rung of closeness",
   pluralSlug: "persona-cover-images",
   extends: ["page-type/persona-image"],
-  partSlugs: [],
+  parts: [],
   properties: [
     { pagePropertySlug: "number-property/relationship-level", required: true, many: false },
   ],

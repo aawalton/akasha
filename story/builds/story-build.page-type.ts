@@ -26,11 +26,7 @@ export const storyBuild = {
   pluralSlug: "story-builds",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: [
-    "number-property/build-level",
-    "text-property/class-name",
-    "text-property/game-system",
-  ],
+  parts: ["number-property/build-level", "text-property/class-name", "text-property/game-system"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/world", required: false, many: false },

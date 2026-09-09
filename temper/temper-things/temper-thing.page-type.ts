@@ -30,7 +30,7 @@ export const temperThing = {
   pluralSlug: "temper-things",
   extends: ["page-type/page"],
   owner: "account-page",
-  partSlugs: [
+  parts: [
     "number-property/display-order",
     "text-property/account-page",
     "text-property/category",

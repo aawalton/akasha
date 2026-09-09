@@ -28,7 +28,7 @@ export const storyElementPlayed = {
   pluralSlug: "story-elements-played",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: [
+  parts: [
     "file-property/turn-states",
     "relation-property/played-story",
     "select-property/element-kind",

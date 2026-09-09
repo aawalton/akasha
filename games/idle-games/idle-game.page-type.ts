@@ -20,7 +20,7 @@ export const idleGame = {
   detailConfig: {
     display: "game",
   },
-  partSlugs: ["instant-property/favorited-at"],
+  parts: ["instant-property/favorited-at"],
   properties: [
     { pagePropertySlug: "text-property/game-engine", required: true, many: false },
     { pagePropertySlug: "instant-property/favorited-at", required: false, many: false },

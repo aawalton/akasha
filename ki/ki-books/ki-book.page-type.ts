@@ -19,7 +19,7 @@ export const kiBook = {
   definition: "one edition of a book Ki keeps",
   pluralSlug: "ki-books",
   extends: ["page-type/ki-collection-template"],
-  partSlugs: [],
+  parts: [],
   properties: [
     { pagePropertySlug: "text-property/isbn", required: false, many: false },
     { pagePropertySlug: "text-property/isbn13", required: false, many: false },

@@ -29,7 +29,7 @@ export const question = {
   definition: "something a persona put to Alan that only Alan can settle",
   pluralSlug: "questions",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "file-property/question-context",
     "instant-property/question-closed-at",
     "record-property/question-links",

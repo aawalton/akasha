@@ -14,7 +14,7 @@ export const readoutGroup = {
   slug: "readout-group",
   definition: "the readings drawn together",
   pluralSlug: "readout-groups",
-  partSlugs: [
+  parts: [
     "boolean-property/figure-off-scale",
     "readout-group/attributes",
     "readout-group/categorization",

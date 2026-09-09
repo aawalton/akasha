@@ -21,7 +21,7 @@ export const temperSet = {
   definition: "a run of pieces giving more the more of them are worn",
   pluralSlug: "temper-sets",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: [
+  parts: [
     "number-property/bonus-count",
     "number-property/eso-set-id",
     "page-property-entry/bonuses",

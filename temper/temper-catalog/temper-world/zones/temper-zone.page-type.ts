@@ -15,7 +15,7 @@ export const temperZone = {
   definition: "a region of the game world",
   pluralSlug: "temper-zones",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: ["boolean-property/drops-scripts", "boolean-property/is-dlc"],
+  parts: ["boolean-property/drops-scripts", "boolean-property/is-dlc"],
   properties: [
     { pagePropertySlug: "boolean-property/drops-scripts", required: true, many: false },
     { pagePropertySlug: "boolean-property/is-dlc", required: true, many: false },

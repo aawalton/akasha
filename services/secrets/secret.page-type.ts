@@ -15,11 +15,7 @@ export const secret = {
   definition: "one secret value under a name of its own",
   pluralSlug: "secrets",
   extends: ["page-type/page"],
-  partSlugs: [
-    "record-property/placements",
-    "text-property/resource-key",
-    "text-property/secret-value",
-  ],
+  parts: ["record-property/placements", "text-property/resource-key", "text-property/secret-value"],
   properties: [
     { pagePropertySlug: "record-property/placements", required: true, many: true, maxCount: null },
     { pagePropertySlug: "text-property/secret-value", required: false, many: false, secret: true },

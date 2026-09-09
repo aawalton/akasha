@@ -12,7 +12,7 @@ export const generatorKind = {
   slug: "generator-kind",
   definition: "how a property's value is worked out when its page is created",
   pluralSlug: "generator-kinds",
-  partSlugs: ["boolean-property/after-checks", "generator-kind/uuid-v7"],
+  parts: ["boolean-property/after-checks", "generator-kind/uuid-v7"],
   extends: ["page-type/domain"],
   properties: [{ pagePropertySlug: "boolean-property/after-checks", required: true, many: false }],
   invariants: [

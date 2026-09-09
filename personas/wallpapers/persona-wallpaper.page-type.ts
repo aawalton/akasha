@@ -21,7 +21,7 @@ export const personaWallpaper = {
   definition: "the picture a persona was hung on Alan's glass as",
   pluralSlug: "persona-wallpapers",
   extends: ["page-type/persona-image"],
-  partSlugs: ["text-property/eso-day"],
+  parts: ["text-property/eso-day"],
   properties: [
     { pagePropertySlug: "number-property/relationship-level", required: false, many: false },
     { pagePropertySlug: "text-property/stage", required: false, many: false },

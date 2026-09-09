@@ -8,7 +8,7 @@ export const graphAttribute = {
   pageTypeSlug: "page-type",
   slug: "graph-attribute",
   definition: "a fact carried on an edge",
-  partSlugs: ["graph-attribute/known", "graph-attribute/property"],
+  parts: ["graph-attribute/known", "graph-attribute/property"],
   pluralSlug: "graph-attributes",
   extends: ["page-type/domain"],
 } as const satisfies PageType

@@ -35,7 +35,7 @@ export const storyRead = {
       childRelation: "storySlug",
     },
   },
-  partSlugs: ["select-property/publication-status", "text-property/external-tags"],
+  parts: ["select-property/publication-status", "text-property/external-tags"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/world", required: true, many: false },

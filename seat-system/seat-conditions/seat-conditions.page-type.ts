@@ -31,7 +31,7 @@ export const seatConditions = {
   definition: "what a seat settles for an agent before the agent starts working there",
   pluralSlug: "seat-conditions-documents",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/extended-context-available",
     "number-property/auto-compact-window",
     "number-property/resume-threshold-minutes",

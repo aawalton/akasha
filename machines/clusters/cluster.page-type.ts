@@ -12,7 +12,7 @@ export const cluster = {
   slug: "cluster",
   definition: "the machines in Alan's home lab",
   pluralSlug: "clusters",
-  partSlugs: ["cluster/main", "text-property/talos-secrets"],
+  parts: ["cluster/main", "text-property/talos-secrets"],
   extends: ["page-type/host"],
   properties: [
     { pagePropertySlug: "text-property/talos-secrets", required: false, many: false, secret: true },

@@ -9,7 +9,7 @@ export const pageAddressKind = {
   slug: "page-address-kind",
   definition: "a form an address takes when it names a page",
   pluralSlug: "page-address-kinds",
-  partSlugs: [
+  parts: [
     "page-address-kind/in-page",
     "page-address-kind/in-page-type",
     "page-address-kind/in-page-property",

@@ -25,7 +25,7 @@ export const smsConsent = {
   definition: "one person's agreement to be sent text messages",
   pluralSlug: "sms-consents",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/sms-consent-consent",
     "instant-property/sms-consent-submitted-at",
     "phone-number-property/sms-consent-phone",

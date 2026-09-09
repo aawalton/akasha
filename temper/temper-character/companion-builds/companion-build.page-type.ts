@@ -21,7 +21,7 @@ export const companionBuild = {
   definition: "one saved arrangement of a companion's gear, skills and stats",
   pluralSlug: "companion-builds",
   extends: ["page-type/temper-character-thing"],
-  partSlugs: ["select-property/base-roles"],
+  parts: ["select-property/base-roles"],
   properties: [
     { pagePropertySlug: "text-property/build-hash", required: true, many: false },
     { pagePropertySlug: "select-property/build-visibility", required: true, many: false },

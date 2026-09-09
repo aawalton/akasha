@@ -13,7 +13,7 @@ export const temperAlliance = {
   definition: "a faction the players of Tamriel are divided among",
   pluralSlug: "temper-alliances",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: ["number-property/eso-alliance-id"],
+  parts: ["number-property/eso-alliance-id"],
   properties: [
     { pagePropertySlug: "number-property/eso-alliance-id", required: true, many: false },
   ],

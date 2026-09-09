@@ -50,7 +50,7 @@ export const readout = {
   slug: "readout",
   definition: "one reading a person is shown",
   pluralSlug: "readouts",
-  partSlugs: [
+  parts: [
     "boolean-property/readout-enabled",
     "instant-property/last-value-at",
     "number-property/last-value",

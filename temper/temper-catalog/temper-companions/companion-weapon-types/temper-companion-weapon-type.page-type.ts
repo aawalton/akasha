@@ -13,7 +13,7 @@ export const temperCompanionWeaponType = {
   definition: "a kind of weapon a companion wields",
   pluralSlug: "temper-companion-weapon-types",
   extends: ["page-type/temper-companion-thing"],
-  partSlugs: ["boolean-property/is-off-hand-only"],
+  parts: ["boolean-property/is-off-hand-only"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },

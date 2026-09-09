@@ -21,7 +21,7 @@ export const temperPlayer = {
   definition: "the person behind an account, and how that person has asked temper to behave",
   pluralSlug: "temper-players",
   extends: ["page-type/temper-character-thing"],
-  partSlugs: [
+  parts: [
     "file-property/settings",
     "select-property/platform",
     "select-property/server",

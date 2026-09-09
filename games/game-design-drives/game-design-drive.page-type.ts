@@ -13,7 +13,7 @@ export const gameDesignDrive = {
   definition: "what makes a person want to act",
   pluralSlug: "game-design-drives",
   extends: ["page-type/domain"],
-  partSlugs: [
+  parts: [
     "game-design-drive/game-design-drive-collection",
     "game-design-drive/game-design-drive-connection",
     "game-design-drive/game-design-drive-creativity",

@@ -19,7 +19,7 @@ export const personAccess = {
   definition: "what a person may reach in the system",
   pluralSlug: "person-accesses",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "relation-property/person-access-kind",
     "relation-property/person-access-person",
     "text-property/person-access-serves",

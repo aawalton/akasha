@@ -22,7 +22,7 @@ export const doctrine = {
   pluralSlug: "doctrine",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: [
+  parts: [
     "file-property/gate-dimensions",
     "file-property/policies",
     "file-property/sheet-template",

@@ -35,7 +35,7 @@ export const locationDeal = {
   definition: "an offer redeemable at places on the map",
   pluralSlug: "location-deals",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/struck-out",
     "number-property/uses-used",
     "relation-property/locations",

@@ -57,7 +57,7 @@ export const persona = {
       },
     },
   },
-  partSlugs: [
+  parts: [
     "computed-property/persona-relationship-level",
     "file-property/appearance",
     "file-property/desktop-wallpaper",

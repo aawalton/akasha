@@ -29,7 +29,7 @@ export const temperProgressThing = {
   definition: "anything temper keeps a page for about what is done and what is left",
   pluralSlug: "temper-progress-things",
   extends: ["page-type/temper-thing"],
-  partSlugs: [
+  parts: [
     "boolean-property/rrule-anchor-from-completion",
     "calendar-date-property/due-date",
     "text-property/character",

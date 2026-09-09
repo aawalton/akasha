@@ -13,6 +13,6 @@ export const temperScript = {
   definition: "one of the writings a grimoire is filled in with",
   pluralSlug: "temper-scripts",
   extends: ["page-type/temper-scribing-thing"],
-  partSlugs: ["text-property/slot-type"],
+  parts: ["text-property/slot-type"],
   properties: [{ pagePropertySlug: "text-property/slot-type", required: true, many: false }],
 } as const satisfies PageType

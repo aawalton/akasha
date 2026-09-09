@@ -13,7 +13,7 @@ export const temperCraftType = {
   definition: "a craft a player researches item traits under",
   pluralSlug: "temper-craft-types",
   extends: ["page-type/temper-pursuit-thing"],
-  partSlugs: ["number-property/eso-craft-type-id"],
+  parts: ["number-property/eso-craft-type-id"],
   properties: [
     { pagePropertySlug: "number-property/eso-craft-type-id", required: true, many: false },
   ],

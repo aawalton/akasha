@@ -20,7 +20,7 @@ export const storyDesignNote = {
   pluralSlug: "story-design-notes",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: ["text-property/note-subject"],
+  parts: ["text-property/note-subject"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/world", required: false, many: false },

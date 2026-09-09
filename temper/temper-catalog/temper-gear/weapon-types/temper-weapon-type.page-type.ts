@@ -17,7 +17,7 @@ export const temperWeaponType = {
   definition: "a kind of weapon",
   pluralSlug: "temper-weapon-types",
   extends: ["page-type/temper-gear-thing"],
-  partSlugs: [
+  parts: [
     "number-property/enchantment-multiplier",
     "number-property/weapon-type-power",
     "text-property/eso-weapon-type",

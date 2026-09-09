@@ -19,7 +19,7 @@ export const temperCompanionBaseRole = {
   definition: "a part a companion is built to play",
   pluralSlug: "temper-companion-base-roles",
   extends: ["page-type/temper-companion-thing"],
-  partSlugs: [
+  parts: [
     "text-property/abbreviation",
     "text-property/valid-armor-weights",
     "text-property/valid-trait-ids",

@@ -17,11 +17,7 @@ export const temperPoisonEffect = {
   definition: "one effect a reagent lends what it is brewed into",
   pluralSlug: "temper-poison-effects",
   extends: ["page-type/temper-gear-thing"],
-  partSlugs: [
-    "boolean-property/is-positive",
-    "number-property/cooldown",
-    "text-property/opposite-id",
-  ],
+  parts: ["boolean-property/is-positive", "number-property/cooldown", "text-property/opposite-id"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "text-property/opposite-id", required: true, many: false },

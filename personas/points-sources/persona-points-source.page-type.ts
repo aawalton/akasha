@@ -27,7 +27,7 @@ export const personaPointsSource = {
   definition: "the thing a persona's points are counted from",
   pluralSlug: "persona-points-sources",
   extends: ["page-type/domain"],
-  partSlugs: [
+  parts: [
     "relation-property/source-persona",
     "text-property/points-source-kind",
     "text-property/points-source-marker",

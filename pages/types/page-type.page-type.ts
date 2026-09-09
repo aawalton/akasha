@@ -35,7 +35,7 @@ export const pageType = {
   slug: "page-type",
   definition: "the specification for a kind of page",
   pluralSlug: "page-types",
-  partSlugs: [
+  parts: [
     "module/page-type-descent",
     "module/page-type-folder",
     "module/page-type-gathering",

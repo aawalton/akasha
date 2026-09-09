@@ -13,7 +13,7 @@ export const temperPotionCrafted = {
   definition: "a drink brewed from reagents",
   pluralSlug: "temper-potion-crafteds",
   extends: ["page-type/temper-gear-thing"],
-  partSlugs: ["record-property/recipes", "text-property/reagent-names"],
+  parts: ["record-property/recipes", "text-property/reagent-names"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "text-property/description", required: true, many: false },

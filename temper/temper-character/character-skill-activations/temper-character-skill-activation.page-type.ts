@@ -15,7 +15,7 @@ export const temperCharacterSkillActivation = {
   definition: "what one slotted skill does each time a character fires it",
   pluralSlug: "temper-character-skill-activations",
   extends: ["page-type/temper-character-thing"],
-  partSlugs: [
+  parts: [
     "number-property/coefficient",
     "page-property-entry/activation-effects",
     "text-property/activation-effect-type",

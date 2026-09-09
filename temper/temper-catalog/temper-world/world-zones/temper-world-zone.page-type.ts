@@ -19,7 +19,7 @@ export const temperWorldZone = {
   definition: "a region of the game world a player is shown completion against",
   pluralSlug: "temper-world-zones",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: [
+  parts: [
     "number-property/activity-index",
     "number-property/completion-type",
     "number-property/eso-activity-id",

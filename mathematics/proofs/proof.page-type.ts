@@ -21,7 +21,7 @@ export const proof = {
   definition: "one attempt at deriving a proposition in the formal system",
   pluralSlug: "proofs",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "file-property/derivation",
     "number-property/attempt",
     "relation-property/proves",

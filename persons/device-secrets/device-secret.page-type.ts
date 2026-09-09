@@ -19,7 +19,7 @@ export const deviceSecret = {
   definition: "the credential one device presents in place of a session",
   pluralSlug: "device-secrets",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "instant-property/device-secret-revoked-at",
     "text-property/device-secret-device-id",
     "text-property/device-secret-hash",

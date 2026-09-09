@@ -20,7 +20,7 @@ export const world = {
   pluralSlug: "worlds",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: [
+  parts: [
     "page-property-entry/character-readings",
     "page-property-entry/mechanic-readings",
     "text-property/character-slug",

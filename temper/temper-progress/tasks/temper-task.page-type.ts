@@ -29,7 +29,7 @@ export const temperTask = {
   definition: "something Alan means to do in the game, once or again and again",
   pluralSlug: "temper-tasks",
   extends: ["page-type/temper-progress-thing"],
-  partSlugs: [
+  parts: [
     "boolean-property/pending-sync",
     "calendar-time-property/due-time",
     "instant-property/completed-at",

@@ -9,7 +9,7 @@ export const proseFrame = {
   slug: "prose-frame",
   definition: "which construction one word is written in",
   pluralSlug: "prose-frames",
-  partSlugs: [
+  parts: [
     "prose-frame/fronted",
     "prose-frame/object",
     "prose-frame/participle",

@@ -29,7 +29,7 @@ export const nav = {
   definition: "one item in an app's navigation, and the views beneath it",
   pluralSlug: "navs",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/show-count-badge",
     "number-property/draw-cost",
     "number-property/mobile-pin-order",

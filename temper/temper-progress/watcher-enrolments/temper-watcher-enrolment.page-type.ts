@@ -23,7 +23,7 @@ export const temperWatcherEnrolment = {
   definition: "one watcher allowed to have a machine's saved game files in",
   pluralSlug: "temper-watcher-enrolments",
   extends: ["page-type/temper-progress-thing"],
-  partSlugs: [
+  parts: [
     "instant-property/token-created-at",
     "instant-property/token-last-used-at",
     "text-property/last-run-outcome",

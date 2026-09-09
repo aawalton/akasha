@@ -12,7 +12,7 @@ export const invariantKind = {
   slug: "invariant-kind",
   definition: "which sort one invariant is",
   pluralSlug: "invariant-kinds",
-  partSlugs: [
+  parts: [
     "invariant-kind/absence",
     "invariant-kind/constraint",
     "invariant-kind/departure",

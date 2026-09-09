@@ -17,7 +17,7 @@ export const temperLoreCollection = {
   definition: "a grouping the game files lore library books under",
   pluralSlug: "temper-lore-collections",
   extends: ["page-type/temper-pursuit-thing"],
-  partSlugs: [
+  parts: [
     "number-property/book-index",
     "number-property/eso-collection-index",
     "number-property/eso-lore-category-id",

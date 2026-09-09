@@ -13,7 +13,7 @@ export const temperVampireStage = {
   definition: "how far a character's vampirism has run",
   pluralSlug: "temper-vampire-stages",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: ["number-property/eso-vampire-stage-id"],
+  parts: ["number-property/eso-vampire-stage-id"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "text-property/description", required: true, many: false },

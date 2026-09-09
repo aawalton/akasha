@@ -23,7 +23,7 @@ export const temperCatalogDomain = {
   definition: "one area of the game a capture mirrors",
   pluralSlug: "temper-catalog-domains",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: [
+  parts: [
     "boolean-property/dormant",
     "number-property/generator-ran-for-manifest-api-version",
     "number-property/manifest-api-version",

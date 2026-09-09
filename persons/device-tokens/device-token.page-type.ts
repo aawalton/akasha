@@ -20,7 +20,7 @@ export const deviceToken = {
   pluralSlug: "device-tokens",
   extends: ["page-type/page"],
   mortal: true,
-  partSlugs: [
+  parts: [
     "instant-property/device-token-last-seen-at",
     "relation-property/device-token-ios-app",
     "relation-property/device-token-person",

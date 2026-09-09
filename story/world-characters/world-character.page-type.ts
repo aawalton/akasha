@@ -24,7 +24,7 @@ export const worldCharacter = {
   pluralSlug: "world-characters",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: [
+  parts: [
     "number-property/event-count",
     "number-property/first-chapter",
     "number-property/last-chapter",

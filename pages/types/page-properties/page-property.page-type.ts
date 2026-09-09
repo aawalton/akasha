@@ -20,7 +20,7 @@ export const pageProperty = {
   slug: "page-property",
   definition: "one value a page carries",
   pluralSlug: "page-properties",
-  partSlugs: [
+  parts: [
     "module/page-property-key",
     "number-property/max-count",
     "number-property/max-length",

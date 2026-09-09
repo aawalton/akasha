@@ -13,7 +13,7 @@ export const personaAnchorImage = {
   definition: "the picture every other picture of a persona is drawn to match",
   pluralSlug: "persona-anchor-images",
   extends: ["page-type/persona-image"],
-  partSlugs: ["text-property/grade"],
+  parts: ["text-property/grade"],
   properties: [{ pagePropertySlug: "text-property/grade", required: false, many: false }],
   invariants: [
     {

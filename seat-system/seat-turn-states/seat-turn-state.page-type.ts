@@ -13,7 +13,7 @@ export const seatTurnState = {
   definition: "what a seat is doing about its turn, and the color that is drawn in",
   pluralSlug: "seat-turn-states",
   extends: ["page-type/domain"],
-  partSlugs: [
+  parts: [
     "relation-property/turn-state-color",
     "seat-turn-state/idle",
     "seat-turn-state/stopped",

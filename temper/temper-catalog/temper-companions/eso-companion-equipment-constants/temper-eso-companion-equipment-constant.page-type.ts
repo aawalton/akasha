@@ -19,7 +19,7 @@ export const temperEsoCompanionEquipmentConstant = {
   definition: "a value The Elder Scrolls Online names for companion equipment",
   pluralSlug: "temper-eso-companion-equipment-constants",
   extends: ["page-type/temper-companion-thing"],
-  partSlugs: [
+  parts: [
     "number-property/value-num",
     "text-property/constant-kind",
     "text-property/key-text",

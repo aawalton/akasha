@@ -16,7 +16,7 @@ export const tabooTerm = {
   slug: "taboo-term",
   definition: "a word this system never writes in the senses it bars",
   pluralSlug: "taboo-terms",
-  partSlugs: [
+  parts: [
     "record-property/taboo-senses",
     "text-property/kept-senses",
     "text-property/pattern",

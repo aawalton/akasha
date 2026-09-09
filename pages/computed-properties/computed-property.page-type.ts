@@ -22,7 +22,7 @@ export const computedProperty = {
   definition: "a page property a function works out from the page",
   pluralSlug: "computed-properties",
   extends: ["page-type/module", "page-type/page-property"],
-  partSlugs: ["select-property/holds"],
+  parts: ["select-property/holds"],
   properties: [{ pagePropertySlug: "select-property/holds", required: true, many: false }],
   invariants: [
     {

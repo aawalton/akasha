@@ -16,7 +16,7 @@ export const term = {
   slug: "term",
   definition: "one word or phrase, and what that word means here",
   pluralSlug: "terms",
-  partSlugs: ["text-property/spelling", "text-property/variants"],
+  parts: ["text-property/spelling", "text-property/variants"],
   extends: ["page-type/page"],
   properties: [
     { pagePropertySlug: "text-property/spelling", required: true, many: false },

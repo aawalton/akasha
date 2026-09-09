@@ -22,7 +22,7 @@ export const message = {
   pluralSlug: "messages",
   extends: ["page-type/page"],
   mortal: true,
-  partSlugs: [
+  parts: [
     "instant-property/message-claimed-at",
     "relation-property/message-to",
     "select-property/message-warrant",

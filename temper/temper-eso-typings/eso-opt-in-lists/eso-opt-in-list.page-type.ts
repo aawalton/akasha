@@ -12,7 +12,7 @@ export const esoOptInList = {
   slug: "eso-opt-in-list",
   definition: "the eso api tokens chosen to be declared",
   pluralSlug: "eso-opt-in-lists",
-  partSlugs: ["file-property/tokens"],
+  parts: ["file-property/tokens"],
   extends: ["page-type/domain"],
   properties: [{ pagePropertySlug: "file-property/tokens", required: true, many: false }],
 } as const satisfies PageType

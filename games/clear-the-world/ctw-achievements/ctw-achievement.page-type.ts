@@ -22,7 +22,7 @@ export const ctwAchievement = {
   pluralSlug: "ctw-achievements",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: ["number-property/threshold", "text-property/metric"],
+  parts: ["number-property/threshold", "text-property/metric"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "text-property/scope", required: true, many: false },

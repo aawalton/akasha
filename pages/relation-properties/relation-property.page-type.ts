@@ -12,7 +12,7 @@ export const relationProperty = {
   slug: "relation-property",
   definition: "a page property naming another page",
   pluralSlug: "relation-properties",
-  partSlugs: ["relation-property/target-page-type"],
+  parts: ["relation-property/target-page-type"],
   extends: ["page-type/page-property"],
   properties: [
     { pagePropertySlug: "relation-property/target-page-type", required: true, many: false },

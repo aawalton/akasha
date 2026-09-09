@@ -9,7 +9,7 @@ export const accessKind = {
   slug: "access-kind",
   definition: "which sort of thing an access reaches",
   pluralSlug: "access-kinds",
-  partSlugs: [
+  parts: [
     "access-kind/database-row",
     "access-kind/domain",
     "access-kind/page-type",

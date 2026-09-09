@@ -19,7 +19,7 @@ export const webApp = {
   definition: "a site built from one folder of this repository and served over the web",
   pluralSlug: "web-apps",
   extends: ["page-type/domain"],
-  partSlugs: [
+  parts: [
     "relation-property/cluster-services",
     "text-property/build-command",
     "text-property/hostnames",

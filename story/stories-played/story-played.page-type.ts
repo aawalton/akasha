@@ -18,7 +18,7 @@ export const storyPlayed = {
   pluralSlug: "stories-played",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
-  partSlugs: ["file-property/prose", "relation-property/world"],
+  parts: ["file-property/prose", "relation-property/world"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/world", required: true, many: false },

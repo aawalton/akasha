@@ -36,7 +36,7 @@ export const readoutWidget = {
   slug: "readout-widget",
   definition: "one tile a person places on a phone",
   pluralSlug: "readout-widgets",
-  partSlugs: [
+  parts: [
     "readout-widget/alanwalton-attribute-stoplights",
     "readout-widget/alanwalton-categorize",
     "readout-widget/alanwalton-claude-usage",

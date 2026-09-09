@@ -28,7 +28,7 @@ export const storyDecision = {
   pluralSlug: "story-decisions",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: [
+  parts: [
     "select-property/decision-type",
     "text-property/chosen",
     "text-property/decision-effect",

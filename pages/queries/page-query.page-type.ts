@@ -32,7 +32,7 @@ export const pageQuery = {
   slug: "page-query",
   definition: "a question asked of the pages of one page type",
   pluralSlug: "page-queries",
-  partSlugs: [
+  parts: [
     "boolean-property/descending",
     "number-property/limit",
     "number-property/offset",

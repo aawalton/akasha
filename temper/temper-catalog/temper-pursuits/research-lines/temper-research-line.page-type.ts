@@ -13,11 +13,7 @@ export const temperResearchLine = {
   definition: "one shape of item a player researches traits on",
   pluralSlug: "temper-research-lines",
   extends: ["page-type/temper-pursuit-thing"],
-  partSlugs: [
-    "number-property/trait-index",
-    "page-property-entry/traits",
-    "text-property/trait-name",
-  ],
+  parts: ["number-property/trait-index", "page-property-entry/traits", "text-property/trait-name"],
   properties: [
     { pagePropertySlug: "text-property/parent", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },

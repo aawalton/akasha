@@ -13,7 +13,7 @@ export const audhdalanSubscriber = {
   definition: "someone who asked to hear when Alan publishes",
   pluralSlug: "audhdalan-subscribers",
   extends: ["page-type/page"],
-  partSlugs: ["email-address-property/subscriber-email"],
+  parts: ["email-address-property/subscriber-email"],
   properties: [
     { pagePropertySlug: "email-address-property/subscriber-email", required: true, many: false },
   ],

@@ -15,7 +15,7 @@ export const temperAccount = {
   definition: "one Elder Scrolls Online account temper keeps track of",
   pluralSlug: "temper-accounts",
   extends: ["page-type/temper-character-thing"],
-  partSlugs: ["text-property/eso-display-name", "text-property/world-name"],
+  parts: ["text-property/eso-display-name", "text-property/world-name"],
   properties: [
     { pagePropertySlug: "text-property/eso-display-name", required: false, many: false },
     { pagePropertySlug: "text-property/world-name", required: false, many: false },

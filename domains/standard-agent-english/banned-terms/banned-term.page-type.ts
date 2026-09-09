@@ -14,7 +14,7 @@ export const bannedTerm = {
   slug: "banned-term",
   definition: "one term akasha writes another term in place of",
   pluralSlug: "banned-terms",
-  partSlugs: [
+  parts: [
     "text-property/instead",
     "text-property/from-pattern",
     "text-property/to-pattern",

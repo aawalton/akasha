@@ -17,7 +17,7 @@ export const temperSkillPoint = {
   definition: "one source a character earns skill points from",
   pluralSlug: "temper-skill-points",
   extends: ["page-type/temper-character-thing"],
-  partSlugs: [
+  parts: [
     "number-property/max-quests",
     "number-property/max-skyshards",
     "number-property/max-value",

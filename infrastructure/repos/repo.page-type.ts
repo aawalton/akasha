@@ -10,7 +10,7 @@ export const repo = {
   definition: "a domain whose subject is one repository",
   pluralSlug: "repos",
   extends: ["page-type/domain"],
-  partSlugs: ["repo/akasha-repo"],
+  parts: ["repo/akasha-repo"],
   invariants: [
     {
       invariantKind: "departure",

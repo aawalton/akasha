@@ -15,7 +15,7 @@ export const temperMine = {
   definition: "one sweep of what the game itself would tell temper about",
   pluralSlug: "temper-mines",
   extends: ["page-type/temper-character-thing"],
-  partSlugs: [
+  parts: [
     "boolean-property/has-on-use-ability",
     "boolean-property/has-set",
     "boolean-property/is-perfected",

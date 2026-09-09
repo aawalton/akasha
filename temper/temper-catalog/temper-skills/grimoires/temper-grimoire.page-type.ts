@@ -19,7 +19,7 @@ export const temperGrimoire = {
   definition: "a book a character scribes a skill from",
   pluralSlug: "temper-grimoires",
   extends: ["page-type/temper-scribing-thing"],
-  partSlugs: [
+  parts: [
     "page-property-entry/affix-scripts",
     "page-property-entry/signature-scripts",
     "text-property/ability-icon",

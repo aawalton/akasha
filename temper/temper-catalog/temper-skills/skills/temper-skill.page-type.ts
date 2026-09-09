@@ -27,7 +27,7 @@ export const temperSkill = {
   definition: "something a character does, learned from a skill line",
   pluralSlug: "temper-skills",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: [
+  parts: [
     "boolean-property/is-morph",
     "number-property/eso-skill-id",
     "number-property/learned-level",

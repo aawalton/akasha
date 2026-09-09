@@ -13,7 +13,7 @@ export const temperTargetArmor = {
   definition: "a sort of enemy damage is worked out against",
   pluralSlug: "temper-target-armors",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: ["number-property/armor"],
+  parts: ["number-property/armor"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/armor", required: true, many: false },

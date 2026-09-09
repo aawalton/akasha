@@ -76,7 +76,7 @@ export const game = {
   detailConfig: {
     display: "game",
   },
-  partSlugs: [
+  parts: [
     "boolean-property/maintains-design",
     "boolean-property/maintains-lore",
     "boolean-property/requires-per-turn-gate",

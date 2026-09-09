@@ -24,7 +24,7 @@ export const readoutScale = {
   slug: "readout-scale",
   definition: "what turns a reading into a color",
   pluralSlug: "readout-scales",
-  partSlugs: [
+  parts: [
     "readout-scale/activity-calories",
     "readout-scale/allowance-hours",
     "readout-scale/attribute-points",

@@ -17,7 +17,7 @@ export const temperCompanionWeaponRole = {
   definition: "a way a companion's weapons are paired",
   pluralSlug: "temper-companion-weapon-roles",
   extends: ["page-type/temper-companion-thing"],
-  partSlugs: [
+  parts: [
     "text-property/valid-main-hand-weapon-types",
     "text-property/valid-off-hand-weapon-types",
     "text-property/weapon-skill-line-id",

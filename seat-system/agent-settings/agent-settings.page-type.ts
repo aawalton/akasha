@@ -12,7 +12,7 @@ export const agentSettings = {
   slug: "agent-settings",
   definition: "one document declaring how the agent harness on this workstation is set up",
   pluralSlug: "agent-settings-documents",
-  partSlugs: [
+  parts: [
     "agent-settings/agents",
     "agent-settings/claude-config",
     "agent-settings/launch-flags",

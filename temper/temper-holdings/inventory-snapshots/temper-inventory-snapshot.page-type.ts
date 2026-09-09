@@ -37,7 +37,7 @@ export const temperInventorySnapshot = {
   definition: "one whole reading of everything an account carries and banks",
   pluralSlug: "temper-inventory-snapshots",
   extends: ["page-type/temper-holdings-thing"],
-  partSlugs: [
+  parts: [
     "boolean-property/bop-tradeable",
     "boolean-property/bound",
     "boolean-property/crafted",

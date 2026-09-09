@@ -19,7 +19,7 @@ export const proposition = {
   definition: "one statement in the formal system Alan is building",
   pluralSlug: "propositions",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "file-property/statement",
     "select-property/proposition-kind",
     "select-property/proposition-status",

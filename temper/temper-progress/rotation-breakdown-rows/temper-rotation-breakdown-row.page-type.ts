@@ -13,7 +13,7 @@ export const temperRotationBreakdownRow = {
   definition: "one figure a rotation is broken down into",
   pluralSlug: "temper-rotation-breakdown-rows",
   extends: ["page-type/temper-progress-thing"],
-  partSlugs: ["text-property/full-name"],
+  parts: ["text-property/full-name"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "text-property/description", required: true, many: false },

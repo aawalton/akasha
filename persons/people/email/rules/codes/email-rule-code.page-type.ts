@@ -19,7 +19,7 @@ export const emailRuleCode = {
   definition: "an email rule its own clauses carry out",
   pluralSlug: "email-rule-codes",
   extends: ["page-type/email-rule"],
-  partSlugs: [
+  parts: [
     "relation-property/email-rule-code-forward-to",
     "select-property/email-rule-code-actions",
     "select-property/email-rule-code-filing",

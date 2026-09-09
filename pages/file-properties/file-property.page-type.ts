@@ -18,7 +18,7 @@ export const fileProperty = {
   slug: "file-property",
   definition: "a page property held in its own file",
   pluralSlug: "file-properties",
-  partSlugs: [
+  parts: [
     "boolean-property/holds-bytes",
     "boolean-property/generated",
     "boolean-property/runs-file-length",

@@ -61,7 +61,7 @@ export const storyChapterRead = {
     orderBy: "position",
     direction: "asc",
   },
-  partSlugs: [
+  parts: [
     "instant-property/marked-read-at",
     "instant-property/removed-at",
     "number-property/anchor-beat",

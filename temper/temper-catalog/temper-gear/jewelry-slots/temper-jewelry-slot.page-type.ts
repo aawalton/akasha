@@ -13,7 +13,7 @@ export const temperJewelrySlot = {
   definition: "a place on the body a piece of jewelry is worn",
   pluralSlug: "temper-jewelry-slots",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: ["text-property/jewelry-type-id"],
+  parts: ["text-property/jewelry-type-id"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },

@@ -15,7 +15,7 @@ export const temperArmorWeight = {
   definition: "how heavy a piece of armor is made",
   pluralSlug: "temper-armor-weights",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: ["boolean-property/is-standard", "number-property/armor-base-value"],
+  parts: ["boolean-property/is-standard", "number-property/armor-base-value"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/armor-base-value", required: true, many: false },

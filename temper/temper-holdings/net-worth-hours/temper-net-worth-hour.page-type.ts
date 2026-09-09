@@ -13,7 +13,7 @@ export const temperNetWorthHour = {
   definition: "one hour of readings of what an account was worth",
   pluralSlug: "temper-net-worth-hours",
   extends: ["page-type/temper-holdings-thing"],
-  partSlugs: [
+  parts: [
     "number-property/currency-gold-value",
     "number-property/excluded-guild-bank-value",
     "number-property/gold-amount",

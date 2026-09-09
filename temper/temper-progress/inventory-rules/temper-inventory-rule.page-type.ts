@@ -19,7 +19,7 @@ export const temperInventoryRule = {
   definition: "a rule a player has in force over what they carry",
   pluralSlug: "temper-inventory-rules",
   extends: ["page-type/temper-rule"],
-  partSlugs: [
+  parts: [
     "boolean-property/rule-locked",
     "instant-property/updated-at",
     "number-property/target-quantity",

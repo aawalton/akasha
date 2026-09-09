@@ -12,7 +12,7 @@ export const namePlace = {
   slug: "name-place",
   definition: "a place a name appears, and the format it is written in there",
   pluralSlug: "name-places",
-  partSlugs: [
+  parts: [
     "name-place/component-identifier",
     "name-place/constant-identifier",
     "name-place/derived-identifier",

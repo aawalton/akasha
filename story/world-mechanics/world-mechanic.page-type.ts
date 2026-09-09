@@ -24,7 +24,7 @@ export const worldMechanic = {
   pluralSlug: "world-mechanics",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: [
+  parts: [
     "boolean-property/claimed",
     "boolean-property/effect-claimed",
     "domain/ability",

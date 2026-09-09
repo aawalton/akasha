@@ -15,7 +15,7 @@ export const temperScribedSkill = {
   definition: "a skill written out of a grimoire and its scripts",
   pluralSlug: "temper-scribed-skills",
   extends: ["page-type/temper-skill"],
-  partSlugs: ["text-property/focus-script-id", "text-property/grimoire-id"],
+  parts: ["text-property/focus-script-id", "text-property/grimoire-id"],
   properties: [
     { pagePropertySlug: "text-property/icon", required: true, many: false },
     { pagePropertySlug: "text-property/focus-script-id", required: true, many: false },

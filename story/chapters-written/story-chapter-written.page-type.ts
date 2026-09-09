@@ -20,7 +20,7 @@ export const storyChapterWritten = {
   pluralSlug: "story-chapters-written",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
-  partSlugs: ["relation-property/written-chapter-story"],
+  parts: ["relation-property/written-chapter-story"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     {

@@ -21,7 +21,7 @@ export const reviewSession = {
   definition: "one pass a persona made over the part of Alan's life she watches",
   pluralSlug: "review-sessions",
   extends: ["page-type/page"],
-  partSlugs: ["file-property/review-session-notes", "relation-property/session-persona"],
+  parts: ["file-property/review-session-notes", "relation-property/session-persona"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/session-persona", required: true, many: false },

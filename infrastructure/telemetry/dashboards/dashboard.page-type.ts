@@ -12,7 +12,7 @@ export const dashboard = {
   slug: "dashboard",
   definition: "what a chart server draws over one subject",
   pluralSlug: "dashboards",
-  partSlugs: ["file-property/dashboard-layout"],
+  parts: ["file-property/dashboard-layout"],
   extends: ["page-type/domain"],
   properties: [{ pagePropertySlug: "file-property/dashboard-layout", required: true, many: false }],
   invariants: [

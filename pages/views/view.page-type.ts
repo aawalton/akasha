@@ -55,7 +55,7 @@ export const view = {
   definition: "one arrangement of the pages of a type, as a person has set it up",
   pluralSlug: "views",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/locked-page-type",
     "boolean-property/sort-descending",
     "number-property/group-page-size",

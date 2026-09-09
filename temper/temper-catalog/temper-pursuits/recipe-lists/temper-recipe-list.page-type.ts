@@ -13,7 +13,7 @@ export const temperRecipeList = {
   definition: "one list the game groups craftable recipes under",
   pluralSlug: "temper-recipe-lists",
   extends: ["page-type/temper-pursuit-thing"],
-  partSlugs: [
+  parts: [
     "number-property/recipe-item-id",
     "page-property-entry/recipes",
     "text-property/recipe-name",

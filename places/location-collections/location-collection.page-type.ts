@@ -17,7 +17,7 @@ export const locationCollection = {
   definition: "places gathered under one name",
   pluralSlug: "location-collections",
   extends: ["page-type/page"],
-  partSlugs: ["file-property/location-collection-description"],
+  parts: ["file-property/location-collection-description"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     {

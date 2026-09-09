@@ -33,7 +33,7 @@ export const page = {
     { pagePropertySlug: "text-property/description", required: false, many: false },
     { pagePropertySlug: "text-property/cover", required: false, many: false },
   ],
-  partSlugs: [
+  parts: [
     "relation-property/page-page-type",
     "relation-property/page-type-slug",
     "text-property/cover",

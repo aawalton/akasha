@@ -13,7 +13,7 @@ export const temperCompanionProgress = {
   definition: "how far a companion has come with one account",
   pluralSlug: "temper-companion-progresses",
   extends: ["page-type/temper-character-thing"],
-  partSlugs: ["relation-property/companion-roles"],
+  parts: ["relation-property/companion-roles"],
   properties: [
     { pagePropertySlug: "text-property/companion-id", required: true, many: false },
     { pagePropertySlug: "text-property/account-page", required: true, many: false },

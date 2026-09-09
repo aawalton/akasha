@@ -17,7 +17,7 @@ export const temperMetricTree = {
   definition: "one node of the tree of numbers a build is measured by",
   pluralSlug: "temper-metric-trees",
   extends: ["page-type/temper-progress-thing"],
-  partSlugs: [
+  parts: [
     "boolean-property/include-in-child-aggregates",
     "boolean-property/use-accent-color",
     "text-property/node-type",

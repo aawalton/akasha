@@ -17,7 +17,7 @@ export const personAuthority = {
   definition: "what a person may cause the system to do",
   pluralSlug: "person-authorities",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "relation-property/person-authority-kind",
     "relation-property/person-authority-person",
     "text-property/person-authority-target",

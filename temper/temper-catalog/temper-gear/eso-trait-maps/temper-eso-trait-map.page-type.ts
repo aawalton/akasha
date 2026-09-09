@@ -17,11 +17,7 @@ export const temperEsoTraitMap = {
   definition: "the number the game has for one trait on one kind of piece",
   pluralSlug: "temper-eso-trait-maps",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: [
-    "number-property/eso-trait-num",
-    "text-property/trait-family",
-    "text-property/trait-id",
-  ],
+  parts: ["number-property/eso-trait-num", "text-property/trait-family", "text-property/trait-id"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },

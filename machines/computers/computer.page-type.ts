@@ -51,7 +51,7 @@ export const computer = {
   definition: "one machine Alan owns, and what it is worth running",
   pluralSlug: "computers",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "calendar-date-property/purchase-date",
     "number-property/cost",
     "number-property/cpu-score",

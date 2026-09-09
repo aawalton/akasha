@@ -13,7 +13,7 @@ export const list = {
   definition: "a domain whose subject is a set, its members named and glossed",
   pluralSlug: "lists",
   extends: ["page-type/domain"],
-  partSlugs: ["record-property/members", "text-property/member-name"],
+  parts: ["record-property/members", "text-property/member-name"],
   properties: [
     { pagePropertySlug: "record-property/members", required: true, many: true, maxCount: null },
   ],

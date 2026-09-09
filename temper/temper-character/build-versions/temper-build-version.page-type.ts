@@ -21,7 +21,7 @@ export const temperBuildVersion = {
   definition: "one saved revision of a character's build",
   pluralSlug: "temper-build-versions",
   extends: ["page-type/temper-character-thing"],
-  partSlugs: [
+  parts: [
     "boolean-property/is-checkpoint",
     "number-property/version-number",
     "text-property/build",

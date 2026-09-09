@@ -13,7 +13,7 @@ export const temperCurse = {
   definition: "a lasting affliction a character takes on",
   pluralSlug: "temper-curses",
   extends: ["page-type/temper-catalog-thing"],
-  partSlugs: ["number-property/eso-curse-ids"],
+  parts: ["number-property/eso-curse-ids"],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },

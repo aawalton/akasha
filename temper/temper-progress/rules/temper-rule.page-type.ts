@@ -23,7 +23,7 @@ export const temperRule = {
   definition: "what to do with an item that matches a set of tests",
   pluralSlug: "temper-rules",
   extends: ["page-type/temper-progress-thing"],
-  partSlugs: [
+  parts: [
     "boolean-property/active",
     "page-property-entry/conditions",
     "relation-property/action",

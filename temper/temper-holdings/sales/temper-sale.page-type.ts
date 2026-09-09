@@ -31,7 +31,7 @@ export const temperSale = {
   definition: "one item sold through a guild store, and what it fetched",
   pluralSlug: "temper-sales",
   extends: ["page-type/temper-thing"],
-  partSlugs: [
+  parts: [
     "instant-property/sold-at",
     "number-property/net-payout",
     "number-property/sale-price",

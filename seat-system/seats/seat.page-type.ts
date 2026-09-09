@@ -48,7 +48,7 @@ export const seat = {
   pluralSlug: "seats",
   extends: ["page-type/agent"],
   mortal: true,
-  partSlugs: [
+  parts: [
     "boolean-property/active-turn",
     "boolean-property/compacting",
     "boolean-property/live-shell",

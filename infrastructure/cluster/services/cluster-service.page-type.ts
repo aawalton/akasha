@@ -32,7 +32,7 @@ export const clusterService = {
   pluralSlug: "cluster-services",
   extends: ["page-type/service"],
   allowsTmpPaths: true,
-  partSlugs: [
+  parts: [
     "cluster-service/alanwalton-atlas",
     "cluster-service/alanwalton-web",
     "cluster-service/archive-of-worlds-web",
