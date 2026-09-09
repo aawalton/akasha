@@ -8,12 +8,12 @@ import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import { useCompanion as useCompanionZero } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import {
   type CompanionState,
   type CompanionVisibility,
   toVisibility,
 } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
-import { useCompanion as useCompanionZero } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
 import { type ReactNode, useCallback, useReducer } from "react"
 import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"

@@ -1,6 +1,10 @@
 "use client"
 
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
+import {
+  getQualityClassName,
+  getQualityVariant,
+} from "akasha/temper/companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
 import {
   bulkUpdateAllCompanionQualities,
@@ -16,10 +20,6 @@ import {
 import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/temper-companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/temper-companions-core/companion-weapon-types/companion-weapon-types.module.code.ts"
-import {
-  getQualityClassName,
-  getQualityVariant,
-} from "akasha/temper/temper-companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { useMemo } from "react"
 import { BulkEditTag } from "../companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 

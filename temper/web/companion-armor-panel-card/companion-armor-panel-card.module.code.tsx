@@ -14,6 +14,10 @@ import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { groupByCount } from "akasha/temper/build-support/row-grouping/row-grouping.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
+  getQualityClassName,
+  getQualityVariant,
+} from "akasha/temper/companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
+import {
   type CompanionArmorSlotId,
   companionArmorSlots,
 } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
@@ -27,10 +31,6 @@ import {
   companionTraits,
 } from "akasha/temper/temper-companions-core/companion-traits/companion-traits.module.code.ts"
 import type { CompanionArmorSlotItem } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
-import {
-  getQualityClassName,
-  getQualityVariant,
-} from "akasha/temper/temper-companions-ui/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { useMemo } from "react"
 import { armorSlots } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
 import { BulkEditTag } from "../companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"

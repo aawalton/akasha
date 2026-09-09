@@ -24,7 +24,7 @@ import {
 } from "akasha/temper/build-metadata/build-metadata/build-metadata.module.code.ts"
 import { useCharacterList } from "akasha/temper/characters-character-ui/use-characters/use-characters.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
-import { useCompanionList } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
+import { useCompanionList } from "akasha/temper/companions-ui/use-companions/use-companions.module.code.ts"
 import { groupInventoryByType } from "akasha/temper/temper-items-core/inventory-grouping/inventory-grouping.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/temper-items-core/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import { useCompletionCharacters } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
