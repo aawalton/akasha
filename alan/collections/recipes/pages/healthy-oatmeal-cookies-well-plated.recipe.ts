@@ -1,4 +1,4 @@
-import type { Recipe } from "../recipe.page-type.ts"
+import type { Recipe } from "../recipe.page-type.types.ts"
 
 export const healthyOatmealCookiesWellPlated = {
   id: "01a06808-d4f7-7002-94cd-ccdf23319ce4",

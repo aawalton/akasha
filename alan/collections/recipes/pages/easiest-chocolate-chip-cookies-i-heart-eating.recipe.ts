@@ -1,4 +1,4 @@
-import type { Recipe } from "../recipe.page-type.ts"
+import type { Recipe } from "../recipe.page-type.types.ts"
 
 export const easiestChocolateChipCookiesIHeartEating = {
   id: "01a06808-d4f7-7000-a015-d40f3c2b763f",
