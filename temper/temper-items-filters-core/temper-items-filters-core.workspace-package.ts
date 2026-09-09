@@ -7,7 +7,7 @@ export const temperItemsFiltersCore = {
   definition:
     "the filters a player narrows an item search with, and how a saved search keeps a filter value",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/saved-search",
     "module/search-armor-weight-filter",
     "module/search-bop-tradeable-filter",

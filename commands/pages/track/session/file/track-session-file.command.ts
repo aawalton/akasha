@@ -7,7 +7,7 @@ export const trackSessionFile = {
   definition: "the command taking a whole day in as written lines",
   code: "ts",
   changeKind: "change-mechanical",
-  partSlugs: ["module/day-landing"],
+  parts: ["module/day-landing"],
   taking: [
     {
       said: "--from-file <path|->",

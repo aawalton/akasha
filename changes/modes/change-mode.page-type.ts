@@ -9,7 +9,7 @@ export const changeMode = {
   slug: "change-mode",
   definition: "the act one change makes",
   pluralSlug: "change-modes",
-  partSlugs: [
+  parts: [
     "change-mode/change-mode-add",
     "change-mode/change-mode-change",
     "change-mode/change-mode-move",

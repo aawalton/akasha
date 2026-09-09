@@ -14,7 +14,7 @@ export const shellScript = {
   slug: "shell-script",
   definition: "code in the shell language",
   pluralSlug: "shell-scripts",
-  partSlugs: [
+  parts: [
     "boolean-property/sourced",
     "code-file-property/shell",
     "shell-script/bash-env",

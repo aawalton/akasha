@@ -18,7 +18,7 @@ export const collectionExternal = {
   slug: "collection-external",
   definition: "a collection a provider outside akasha is the record of",
   pluralSlug: "collection-externals",
-  partSlugs: [
+  parts: [
     "calendar-date-property/last-synced-at",
     "text-property/external-id",
     "text-property/source",

@@ -6,8 +6,5 @@ export const temperPlayerCompletionSkillsMorphsUi = {
   slug: "temper-player-completion-skills-morphs-ui",
   definition: "the cards a browser gives one player's skill morph progress in",
   manifest: "json",
-  partSlugs: [
-    "module/skill-morphs-progress-panel-card",
-    "module/subclassing-skill-morphs-panel-card",
-  ],
+  parts: ["module/skill-morphs-progress-panel-card", "module/subclassing-skill-morphs-panel-card"],
 } as const satisfies WorkspacePackage

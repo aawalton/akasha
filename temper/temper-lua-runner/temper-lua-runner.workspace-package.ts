@@ -6,7 +6,7 @@ export const temperLuaRunner = {
   slug: "temper-lua-runner",
   definition: "a Lua 5.1 interpreter kept alive in a subprocess and talked to over a pipe",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "lua-module/lua-driver",
     "lua-module/eso-sandbox-prelude",
     "module/lua-protocol",

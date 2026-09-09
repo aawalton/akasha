@@ -47,7 +47,7 @@ export const relationship = {
   definition: "one person in Alan's life, and how close they are",
   pluralSlug: "relationships",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/relationship-sms-allowed",
     "email-address-property/relationship-email",
     "file-property/relationship-notes",

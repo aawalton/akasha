@@ -5,7 +5,7 @@ export const temperCatalog = {
   pageTypeSlug: "namespace",
   slug: "temper-catalog",
   definition: "the catalog Temper reads the game's things out of",
-  partSlugs: [
+  parts: [
     "command/temper-catalog-invalidate",
     "command/temper-catalog-list",
     "command/temper-catalog-status",

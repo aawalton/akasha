@@ -14,7 +14,7 @@ export const luaRuntimeLibrary = {
   slug: "lua-runtime-library",
   definition: "TypeScript a compiler turns into the Lua a game loads",
   pluralSlug: "lua-runtime-libraries",
-  partSlugs: ["file-property/lua50-config", "file-property/universal-config"],
+  parts: ["file-property/lua50-config", "file-property/universal-config"],
   extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "file-property/universal-config", required: true, many: false },

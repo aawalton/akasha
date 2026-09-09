@@ -23,7 +23,7 @@ export const monarchAccount = {
   definition: "one balance, whether it is money held or money owed",
   pluralSlug: "monarch-accounts",
   extends: ["page-type/monarch-record"],
-  partSlugs: [
+  parts: [
     "boolean-property/account-active",
     "boolean-property/account-hidden",
     "boolean-property/asset",

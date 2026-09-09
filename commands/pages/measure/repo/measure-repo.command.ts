@@ -7,7 +7,7 @@ export const measureRepo = {
   definition: "the command counting the files the checkout has, by file type",
   code: "ts",
   changeKind: "change-mechanical",
-  partSlugs: ["module/repo-measuring", "module/checkout-counting"],
+  parts: ["module/repo-measuring", "module/checkout-counting"],
   taking: [],
   helpNotes: [
     "`repo` counts the files the checkout holds and the lines those files run to, by file type.",

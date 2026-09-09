@@ -7,7 +7,7 @@ export const trackSessionSwitch = {
   definition: "the command ending one stretch and beginning the next at one time",
   code: "ts",
   changeKind: "change-mechanical",
-  partSlugs: ["module/waking"],
+  parts: ["module/waking"],
   taking: [
     { said: "--title <text>", takes: "what the next stretch is called" },
     { said: "--at <time>", takes: "the wall time the open stretch ends and the next begins" },

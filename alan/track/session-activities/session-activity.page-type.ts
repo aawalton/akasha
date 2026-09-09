@@ -19,7 +19,7 @@ export const sessionActivity = {
   definition: "a kind of thing Alan spends his time on",
   pluralSlug: "session-activities",
   extends: ["page-type/page"],
-  partSlugs: ["number-property/default-difficulty"],
+  parts: ["number-property/default-difficulty"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "number-property/default-difficulty", required: true, many: false },

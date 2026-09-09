@@ -6,7 +6,7 @@ export const temperTradingListings = {
   slug: "temper-trading-listings",
   definition: "guild store listings gathered one store at a time",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/browse-listings",
     "module/browse-state",
     "module/listing-entry-schema",

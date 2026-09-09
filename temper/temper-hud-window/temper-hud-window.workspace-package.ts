@@ -6,7 +6,7 @@ export const temperHudWindow = {
   slug: "temper-hud-window",
   definition: "an addon window a player drags around the screen",
   manifest: "json",
-  partSlugs: ["module/movable-window"],
+  parts: ["module/movable-window"],
   invariants: [
     {
       invariantKind: "departure",

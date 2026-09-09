@@ -5,5 +5,5 @@ export const temperUpstream = {
   pageTypeSlug: "namespace",
   slug: "temper-upstream",
   definition: "the data Temper takes in from outside",
-  partSlugs: ["command/temper-upstream-data-port", "command/temper-upstream-data-verify"],
+  parts: ["command/temper-upstream-data-port", "command/temper-upstream-data-verify"],
 } as const satisfies Namespace

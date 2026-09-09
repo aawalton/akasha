@@ -41,7 +41,7 @@ export const selectionPolicy = {
   definition: "the numbers the coach picks and bounds a session by",
   pluralSlug: "selection-policies",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "number-property/anchor-block-weeks",
     "number-property/anchor-escape-rpe-ceiling",
     "number-property/layoff-grace-days",

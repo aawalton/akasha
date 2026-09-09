@@ -17,7 +17,7 @@ export const codeEditorDataInterface = {
   definition: "what one part of the editor draws, held where that part reads it",
   pluralSlug: "code-editor-data-interfaces",
   extends: ["page-type/domain"],
-  partSlugs: [
+  parts: [
     "file-property/state",
     "module/data-watching",
     "module/state-cooldown",

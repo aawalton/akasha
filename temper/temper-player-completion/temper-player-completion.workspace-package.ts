@@ -6,7 +6,7 @@ export const temperPlayerCompletion = {
   slug: "temper-player-completion",
   definition: "how much of The Elder Scrolls Online one player has finished, reckoned card by card",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/completion-category-tree-types",
     "module/completion-category-tree",
     "module/completion-category-tree-composed",

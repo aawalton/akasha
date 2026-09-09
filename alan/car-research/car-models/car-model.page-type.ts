@@ -27,7 +27,7 @@ export const carModel = {
   definition: "a nameplate a make builds",
   pluralSlug: "car-models",
   extends: ["page-type/car"],
-  partSlugs: [
+  parts: [
     "relation-property/car-make",
     "text-property/body-style",
     "text-property/generation",

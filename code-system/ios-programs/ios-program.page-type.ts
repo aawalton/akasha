@@ -24,7 +24,7 @@ export const iosProgram = {
   slug: "ios-program",
   definition: "one thing an iOS package builds",
   pluralSlug: "ios-programs",
-  partSlugs: [
+  parts: [
     "file-property/entitlements",
     "file-property/info-plist",
     "ios-program/alanwalton-app",

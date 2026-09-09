@@ -18,7 +18,7 @@ export const contextWarrant = {
   slug: "context-warrant",
   definition: "a module naming what a change to a file requires its writer to have read",
   pluralSlug: "context-warrants",
-  partSlugs: [
+  parts: [
     "boolean-property/runs-on-read",
     "boolean-property/runs-on-write",
     "boolean-property/transitive",

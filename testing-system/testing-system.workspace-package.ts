@@ -6,7 +6,7 @@ export const testingSystem = {
   slug: "testing-system",
   definition: "what a test sets up to try something, and what it takes away after",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "domain/test",
     "domain/test-fixture",
     "module/declaring",

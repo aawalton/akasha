@@ -10,6 +10,6 @@ export const codeEditorGroup = {
   definition: "a container of tabs, one of which is showing",
   pluralSlug: "code-editor-groups",
   extends: ["page-type/page"],
-  partSlugs: ["page-type/code-editor-group-tab"],
+  parts: ["page-type/code-editor-group-tab"],
   mortal: true,
 } as const satisfies PageType

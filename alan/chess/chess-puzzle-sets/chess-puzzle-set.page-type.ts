@@ -16,7 +16,7 @@ export const chessPuzzleSet = {
   pluralSlug: "chess-puzzle-sets",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: [
+  parts: [
     "boolean-property/solved",
     "number-property/nb-plays",
     "number-property/popularity",

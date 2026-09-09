@@ -5,5 +5,5 @@ export const agent = {
   pageTypeSlug: "namespace",
   slug: "agent",
   definition: "the agents at work and the pages each one has",
-  partSlugs: ["command/agent-subagent-sweep", "command/agent-forest"],
+  parts: ["command/agent-subagent-sweep", "command/agent-forest"],
 } as const satisfies Namespace

@@ -42,7 +42,7 @@ export const collection = {
   slug: "collection",
   definition: "something for a person to experience",
   pluralSlug: "collections",
-  partSlugs: [
+  parts: [
     "boolean-property/following",
     "calendar-date-property/published-day",
     "computed-property/collection-completion",

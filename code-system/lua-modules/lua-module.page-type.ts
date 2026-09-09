@@ -14,7 +14,7 @@ export const luaModule = {
   slug: "lua-module",
   definition: "Lua the game loads without compiling it",
   pluralSlug: "lua-modules",
-  partSlugs: ["code-file-property/lua"],
+  parts: ["code-file-property/lua"],
   extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "code-file-property/lua", required: true, many: false },

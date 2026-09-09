@@ -7,7 +7,7 @@ export const temperItemsRulesCore = {
   definition:
     "the rules saying what becomes of an item and the conditions those rules are written in",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/rule-constants",
     "module/comparison-op-data",
     "module/comparison-op",

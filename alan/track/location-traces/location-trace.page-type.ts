@@ -42,7 +42,7 @@ export const locationTrace = {
   slug: "location-trace",
   definition: "where Alan's phone put him at one moment",
   pluralSlug: "location-traces",
-  partSlugs: [
+  parts: [
     "boolean-property/battery-is-charging",
     "boolean-property/is-moving",
     "instant-property/trace-captured-at",

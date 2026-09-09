@@ -5,5 +5,5 @@ export const temperWatcher = {
   pageTypeSlug: "namespace",
   slug: "temper-watcher",
   definition: "the watcher running beside the game",
-  partSlugs: ["command/temper-watcher-logs", "command/temper-watcher-status"],
+  parts: ["command/temper-watcher-logs", "command/temper-watcher-status"],
 } as const satisfies Namespace

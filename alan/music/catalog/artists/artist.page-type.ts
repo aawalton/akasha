@@ -17,7 +17,7 @@ export const artist = {
   definition: "a musician whose work Alan keeps",
   pluralSlug: "artists",
   extends: ["page-type/collection-external"],
-  partSlugs: ["file-property/reaction", "text-property/artist-genre"],
+  parts: ["file-property/reaction", "text-property/artist-genre"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "text-property/artist-genre", required: false, many: true, maxCount: null },

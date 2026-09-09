@@ -39,7 +39,7 @@ export const toDo = {
   definition: "something a person intends to do",
   pluralSlug: "to-dos",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/to-do-anchored-from-completion",
     "calendar-date-property/to-do-due-date",
     "file-property/what-it-takes",

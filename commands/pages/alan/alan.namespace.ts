@@ -5,7 +5,7 @@ export const alan = {
   pageTypeSlug: "namespace",
   slug: "alan",
   definition: "Alan's own days, what he eats and what he is learning",
-  partSlugs: [
+  parts: [
     "command/alan-elaine",
     "command/alan-food",
     "command/alan-learn-next",

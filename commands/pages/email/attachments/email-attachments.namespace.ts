@@ -5,5 +5,5 @@ export const emailAttachments = {
   pageTypeSlug: "namespace",
   slug: "email-attachments",
   definition: "a file carried by a message",
-  partSlugs: ["command/email-attachments-get", "command/email-attachments-list"],
+  parts: ["command/email-attachments-get", "command/email-attachments-list"],
 } as const satisfies Namespace

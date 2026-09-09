@@ -15,7 +15,7 @@ export const monarchCategory = {
   definition: "what a transaction counts as, from groceries to salary",
   pluralSlug: "monarch-categories",
   extends: ["page-type/monarch-record"],
-  partSlugs: ["select-property/category-group-type", "text-property/category-group"],
+  parts: ["select-property/category-group-type", "text-property/category-group"],
   properties: [
     { pagePropertySlug: "text-property/category-group", required: false, many: false },
     { pagePropertySlug: "select-property/category-group-type", required: false, many: false },

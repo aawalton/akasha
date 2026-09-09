@@ -24,7 +24,7 @@ export const esoAddon = {
   slug: "eso-addon",
   definition: "one thing the game loads out of its AddOns folder",
   pluralSlug: "eso-addons",
-  partSlugs: [
+  parts: [
     "file-property/addon-manifest",
     "file-property/sibling-manifest",
     "file-property/addon-git-ignore",

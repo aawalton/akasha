@@ -5,5 +5,5 @@ export const mobileCut = {
   pageTypeSlug: "namespace",
   slug: "mobile-cut",
   definition: "the commit a TestFlight build was taken from",
-  partSlugs: ["command/mobile-cut-record", "command/mobile-cut-status"],
+  parts: ["command/mobile-cut-record", "command/mobile-cut-status"],
 } as const satisfies Namespace

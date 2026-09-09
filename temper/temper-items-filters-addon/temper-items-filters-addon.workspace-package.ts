@@ -7,7 +7,7 @@ export const temperItemsFiltersAddon = {
   definition:
     "the filter panel a player narrows the inventory with, and the binding that narrows the rows",
   manifest: "json",
-  partSlugs: ["module/filter-bar", "module/filter-bar-controls", "module/panel-filter-binding"],
+  parts: ["module/filter-bar", "module/filter-bar-controls", "module/panel-filter-binding"],
   invariants: [
     {
       invariantKind: "constraint",

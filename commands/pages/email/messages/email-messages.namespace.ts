@@ -5,7 +5,7 @@ export const emailMessages = {
   pageTypeSlug: "namespace",
   slug: "email-messages",
   definition: "a message in Alan's mailbox",
-  partSlugs: [
+  parts: [
     "command/email-messages-archive",
     "command/email-messages-get",
     "command/email-messages-list",

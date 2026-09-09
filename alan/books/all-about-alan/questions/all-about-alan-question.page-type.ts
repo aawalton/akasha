@@ -16,7 +16,7 @@ export const allAboutAlanQuestion = {
   pluralSlug: "all-about-alan-questions",
   extends: ["page-type/page"],
   mortal: true,
-  partSlugs: ["relation-property/question-topic", "text-property/open-question"],
+  parts: ["relation-property/question-topic", "text-property/open-question"],
   properties: [
     { pagePropertySlug: "relation-property/question-topic", required: true, many: false },
     { pagePropertySlug: "text-property/open-question", required: true, many: false },

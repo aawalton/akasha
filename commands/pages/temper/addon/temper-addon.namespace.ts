@@ -5,7 +5,7 @@ export const temperAddon = {
   pageTypeSlug: "namespace",
   slug: "temper-addon",
   definition: "an addon of Temper's own, built and put where the game reads it",
-  partSlugs: [
+  parts: [
     "command/temper-addon-build",
     "command/temper-addon-copy-metadata",
     "command/temper-addon-data-generate",

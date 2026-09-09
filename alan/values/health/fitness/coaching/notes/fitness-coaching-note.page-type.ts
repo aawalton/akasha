@@ -24,7 +24,7 @@ export const fitnessCoachingNote = {
   slug: "fitness-coaching-note",
   definition: "a limit, a cue or a thing noticed that the coach programs by",
   pluralSlug: "fitness-coaching-notes",
-  partSlugs: [
+  parts: [
     "boolean-property/fitness-coaching-note-active",
     "calendar-date-property/fitness-coaching-note-date",
     "file-property/says",

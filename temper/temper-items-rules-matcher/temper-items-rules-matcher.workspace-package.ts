@@ -6,7 +6,7 @@ export const temperItemsRulesMatcher = {
   slug: "temper-items-rules-matcher",
   definition: "every item the rules affect, found over the captured holdings",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/compile-rules",
     "module/inventory-item-classifier",
     "module/inventory-rule-matcher",

@@ -6,7 +6,7 @@ export const headscale = {
   slug: "headscale",
   definition:
     "the workload, service and policies running the server that admits machines to the private network",
-  partSlugs: ["module/headscale-configmaps", "module/headscale-network-policies"],
+  parts: ["module/headscale-configmaps", "module/headscale-network-policies"],
   code: "ts",
   generatedDirectory: true,
 } as const satisfies Manifest

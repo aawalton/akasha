@@ -5,5 +5,5 @@ export const temperEso = {
   pageTypeSlug: "namespace",
   slug: "temper-eso",
   definition: "the game's own files, read and written out from",
-  partSlugs: ["command/temper-eso-typings-audit", "namespace/temper-eso-generate"],
+  parts: ["command/temper-eso-typings-audit", "namespace/temper-eso-generate"],
 } as const satisfies Namespace

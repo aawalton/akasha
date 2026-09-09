@@ -39,7 +39,7 @@ export const idlePersonaCard = {
   definition: "one persona as one player holds her in the idle game",
   pluralSlug: "idle-persona-cards",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/lock-eligible",
     "boolean-property/specialize-locked",
     "number-property/card-rank",

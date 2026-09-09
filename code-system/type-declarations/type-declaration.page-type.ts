@@ -14,7 +14,7 @@ export const typeDeclaration = {
   slug: "type-declaration",
   definition: "types a compiler reads and emits nothing from",
   pluralSlug: "type-declarations",
-  partSlugs: [
+  parts: [
     "file-property/ambient-types",
     "record-property/generated",
     "text-property/written-by",

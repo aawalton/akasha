@@ -6,7 +6,7 @@ export const temperNarrow = {
   slug: "temper-narrow",
   definition: "the narrowings add-on code needs that only the game's own Lua can do",
   manifest: "json",
-  partSlugs: ["module/require-numeric-key"],
+  parts: ["module/require-numeric-key"],
   invariants: [
     {
       invariantKind: "constraint",

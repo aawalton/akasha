@@ -35,7 +35,7 @@ export const song = {
   definition: "a piece of music Alan keeps",
   pluralSlug: "songs",
   extends: ["page-type/collection-external"],
-  partSlugs: [
+  parts: [
     "boolean-property/performed",
     "file-property/insights",
     "file-property/lyrics",

@@ -7,7 +7,7 @@ export const temperSkillKinds = {
   definition:
     "the kinds a skill is sorted by and the shapes a skill activation effect is written in",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/skill-types",
     "module/skill-slots",
     "module/skill-bars",

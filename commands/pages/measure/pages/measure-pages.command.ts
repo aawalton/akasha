@@ -7,7 +7,7 @@ export const measurePages = {
   definition: "the command counting the checkout's files by page type rather than by file type",
   code: "ts",
   changeKind: "change-mechanical",
-  partSlugs: ["module/page-measuring"],
+  parts: ["module/page-measuring"],
   taking: [],
   helpNotes: [
     "a page type is the second part of a file name, so `amy.persona.ts` is a `persona` page.",

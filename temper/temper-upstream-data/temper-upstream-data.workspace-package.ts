@@ -6,7 +6,7 @@ export const temperUpstreamData = {
   slug: "temper-upstream-data",
   definition: "the data temper copies out of community ESO libraries and rules on afterwards",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/upstream-libraries",
     "module/ts-lua-serializer",
     "module/zone-eso-stubs",

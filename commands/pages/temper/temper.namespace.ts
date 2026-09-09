@@ -5,7 +5,7 @@ export const temper = {
   pageTypeSlug: "namespace",
   slug: "temper",
   definition: "the commands Temper is run by",
-  partSlugs: [
+  parts: [
     "command/temper-auto-quest-trace",
     "command/temper-errors-list",
     "command/temper-package-typecheck",

@@ -6,7 +6,7 @@ export const nodeExporterDaemonset = {
   slug: "node-exporter-daemonset",
   definition:
     "the daemon set publishing each node's processor, memory, disk and network as metrics",
-  partSlugs: [
+  parts: [
     "module/cgroup-psi-collector",
     "module/cgroup-psi-constants",
     "module/kubepods-oom-constants",

@@ -5,5 +5,5 @@ export const emailDrafts = {
   pageTypeSlug: "namespace",
   slug: "email-drafts",
   definition: "a message written and not sent",
-  partSlugs: ["command/email-drafts-create", "command/email-drafts-list"],
+  parts: ["command/email-drafts-create", "command/email-drafts-list"],
 } as const satisfies Namespace

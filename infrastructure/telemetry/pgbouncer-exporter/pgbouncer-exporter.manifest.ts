@@ -5,7 +5,7 @@ export const pgbouncerExporter = {
   pageTypeSlug: "manifest",
   slug: "pgbouncer-exporter",
   definition: "the connection pool exporter's deployment and the way in to it",
-  partSlugs: ["module/pgbouncer-exporter-manifests"],
+  parts: ["module/pgbouncer-exporter-manifests"],
   code: "ts",
   generatedDirectory: true,
 } as const satisfies Manifest

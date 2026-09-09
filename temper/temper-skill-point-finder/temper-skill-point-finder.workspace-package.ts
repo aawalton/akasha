@@ -6,7 +6,7 @@ export const temperSkillPointFinder = {
   slug: "temper-skill-point-finder",
   definition: "where a character's remaining skill points are, counted per zone and per dungeon",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/skill-point-sources",
     "module/skill-point-finder-constants",
     "module/skill-point-finder-types",

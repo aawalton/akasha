@@ -41,7 +41,7 @@ export const folderShape = {
   slug: "folder-shape",
   definition: "a shape a folder is allowed to have",
   pluralSlug: "folder-shapes",
-  partSlugs: [
+  parts: [
     "boolean-property/folder-shape-enabled",
     "folder-shape/sections-of-the-book-above",
     "folder-shape/folders-only",

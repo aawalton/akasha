@@ -18,7 +18,7 @@ export const rustCrate = {
   slug: "rust-crate",
   definition: "one thing Cargo builds",
   pluralSlug: "rust-crates",
-  partSlugs: [
+  parts: [
     "file-property/crate-icon",
     "code-file-property/cargo-build-script",
     "file-property/cargo-manifest",

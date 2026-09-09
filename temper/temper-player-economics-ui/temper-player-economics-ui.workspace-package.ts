@@ -6,7 +6,7 @@ export const temperPlayerEconomicsUi = {
   slug: "temper-player-economics-ui",
   definition: "the shopping a player does to close the gear their companions still want",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/companion-gear-by-companion-panel-card",
     "module/companion-gear-by-price-panel-card",
     "module/companion-gear-by-trait-panel-card",

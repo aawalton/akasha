@@ -5,5 +5,5 @@ export const sms = {
   pageTypeSlug: "namespace",
   slug: "sms",
   definition: "a text message to or from a phone",
-  partSlugs: ["command/sms-acting-account", "command/sms-send"],
+  parts: ["command/sms-acting-account", "command/sms-send"],
 } as const satisfies Namespace

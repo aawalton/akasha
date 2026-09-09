@@ -16,7 +16,7 @@ export const modelTest = {
   slug: "model-test",
   definition: "a prompt and the labelled cases that say whether it works",
   pluralSlug: "model-tests",
-  partSlugs: [
+  parts: [
     "model-test/restatement",
     "page-property-entry/cases",
     "page-type/model-test-outcome",

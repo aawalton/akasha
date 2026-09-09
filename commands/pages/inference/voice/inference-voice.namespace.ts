@@ -5,5 +5,5 @@ export const inferenceVoice = {
   pageTypeSlug: "namespace",
   slug: "inference-voice",
   definition: "a voice copied from a recording or drawn up from a description",
-  partSlugs: ["command/inference-voice-clone", "command/inference-voice-design"],
+  parts: ["command/inference-voice-clone", "command/inference-voice-design"],
 } as const satisfies Namespace

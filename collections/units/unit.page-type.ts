@@ -12,7 +12,7 @@ export const unit = {
   slug: "unit",
   definition: "what a length is counted in",
   pluralSlug: "units",
-  partSlugs: [
+  parts: [
     "number-property/words",
     "unit/hours",
     "unit/minutes",

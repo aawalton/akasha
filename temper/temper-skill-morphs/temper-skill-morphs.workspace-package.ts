@@ -6,7 +6,7 @@ export const temperSkillMorphs = {
   slug: "temper-skill-morphs",
   definition: "a character's progress through the skills that morph",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/morph-progress-types",
     "module/applicable-eso-skill-lines",
     "module/morphable-skills",

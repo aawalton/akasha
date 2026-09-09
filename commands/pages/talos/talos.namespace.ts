@@ -5,7 +5,7 @@ export const talos = {
   pageTypeSlug: "namespace",
   slug: "talos",
   definition: "the operating system the cluster's machines run",
-  partSlugs: [
+  parts: [
     "command/talos-apply",
     "command/talos-bootstrap",
     "command/talos-config-gen",

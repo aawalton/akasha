@@ -14,7 +14,7 @@ export const iosHarness = {
   slug: "ios-harness",
   definition: "code that draws an iOS component to be looked at",
   pluralSlug: "ios-harnesses",
-  partSlugs: [
+  parts: [
     "ios-harness/render-harness",
     "ios-harness/render-harness-cases",
     "ios-harness/render-harness-cases-categorize",

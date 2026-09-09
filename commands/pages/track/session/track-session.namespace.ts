@@ -5,7 +5,7 @@ export const trackSession = {
   pageTypeSlug: "namespace",
   slug: "track-session",
   definition: "the stretches of time one of Alan's days is made of",
-  partSlugs: [
+  parts: [
     "command/track-session-open",
     "command/track-session-switch",
     "command/track-session-close",

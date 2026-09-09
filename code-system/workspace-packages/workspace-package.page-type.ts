@@ -18,7 +18,7 @@ export const workspacePackage = {
   slug: "workspace-package",
   definition: "a folder with a package.json file",
   pluralSlug: "workspace-packages",
-  partSlugs: [
+  parts: [
     "file-property/dockerfile-extensions",
     "file-property/manifest",
     "code-file-property/tunnel-routes",

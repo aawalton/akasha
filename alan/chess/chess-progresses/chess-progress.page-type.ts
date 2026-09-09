@@ -30,7 +30,7 @@ export const chessProgress = {
   pluralSlug: "chess-progresses",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: [
+  parts: [
     "boolean-property/active-drill",
     "calendar-date-property/last-reviewed",
     "select-property/chess-progress-status",

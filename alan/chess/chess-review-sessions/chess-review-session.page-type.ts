@@ -19,7 +19,7 @@ export const chessReviewSession = {
   definition: "one game stepped through move by move with the coach",
   pluralSlug: "chess-review-sessions",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "file-property/chess-review-session-notes",
     "instant-property/reviewed-at",
     "relation-property/chess-game",

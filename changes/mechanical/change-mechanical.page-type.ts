@@ -13,7 +13,7 @@ export const changeMechanical = {
   definition: "a change another change composes rather than a command line reaches",
   pluralSlug: "change-mechanical",
   extends: ["page-type/change"],
-  partSlugs: [
+  parts: [
     "page-type/change-mechanical-file",
     "page-type/change-mechanical-folder",
     "page-type/change-mechanical-file-content",

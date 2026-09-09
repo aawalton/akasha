@@ -6,7 +6,7 @@ export const temperShopping = {
   slug: "temper-shopping",
   definition: "which guild trader listings to buy and how few kiosks that takes",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/companion-gear-shopping-bridge",
     "module/shopping-settings",
     "module/ttc-budget-strategy",

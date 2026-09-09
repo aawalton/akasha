@@ -25,7 +25,7 @@ export const mobileCut = {
   definition: "one build of an app, and the state of the tree it was built from",
   pluralSlug: "mobile-cuts",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "instant-property/cut-at",
     "number-property/build-number",
     "text-property/build-input-tree-hash",

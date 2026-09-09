@@ -6,7 +6,7 @@ export const temperPlayerCompletionUi = {
   slug: "temper-player-completion-ui",
   definition: "the panel a browser draws one player's completion in",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/completion-activity-mode-context",
     "module/completion-search-context",
     "module/completion-panel-card",

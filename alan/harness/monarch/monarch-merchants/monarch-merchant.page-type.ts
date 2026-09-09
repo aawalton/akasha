@@ -15,7 +15,7 @@ export const monarchMerchant = {
   definition: "who or what a transaction was with, read out of the words it carries",
   pluralSlug: "monarch-merchants",
   extends: ["page-type/page"],
-  partSlugs: ["text-property/merchant-patterns"],
+  parts: ["text-property/merchant-patterns"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     {

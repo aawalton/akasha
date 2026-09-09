@@ -5,7 +5,7 @@ export const modelGateway = {
   pageTypeSlug: "namespace",
   slug: "model-gateway",
   definition: "the model gateway a seat runs, started, weighed or swapped",
-  partSlugs: [
+  parts: [
     "command/model-gateway-start",
     "command/model-gateway-status",
     "command/model-gateway-swap",

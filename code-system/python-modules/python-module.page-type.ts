@@ -14,7 +14,7 @@ export const pythonModule = {
   slug: "python-module",
   definition: "code in the Python language",
   pluralSlug: "python-modules",
-  partSlugs: ["code-file-property/python", "build-folder-property/bytecode-directory"],
+  parts: ["code-file-property/python", "build-folder-property/bytecode-directory"],
   extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "code-file-property/python", required: true, many: false },

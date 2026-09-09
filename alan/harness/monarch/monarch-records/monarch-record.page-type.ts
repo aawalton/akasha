@@ -17,7 +17,7 @@ export const monarchRecord = {
   definition: "one thing Monarch keeps about the household's money",
   pluralSlug: "monarch-records",
   extends: ["page-type/page"],
-  partSlugs: ["text-property/monarch-id"],
+  parts: ["text-property/monarch-id"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "text-property/monarch-id", required: false, many: false },

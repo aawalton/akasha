@@ -5,7 +5,7 @@ export const temperInventoryBuyRule = {
   pageTypeSlug: "namespace",
   slug: "temper-inventory-buy-rule",
   definition: "the rules saying what a character buys",
-  partSlugs: [
+  parts: [
     "command/temper-inventory-buy-rule-create",
     "command/temper-inventory-buy-rule-delete",
     "command/temper-inventory-buy-rule-duplicate",

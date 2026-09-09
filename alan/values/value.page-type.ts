@@ -32,7 +32,7 @@ export const value = {
   slug: "value",
   definition: "what a person is spending their life on",
   pluralSlug: "values",
-  partSlugs: [
+  parts: [
     "relation-property/value-color",
     "value/faith",
     "value/fun",

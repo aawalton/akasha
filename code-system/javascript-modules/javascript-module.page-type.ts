@@ -12,7 +12,7 @@ export const javascriptModule = {
   slug: "javascript-module",
   definition: "code in the JavaScript language",
   pluralSlug: "javascript-modules",
-  partSlugs: ["code-file-property/javascript"],
+  parts: ["code-file-property/javascript"],
   extends: ["page-type/domain"],
   properties: [{ pagePropertySlug: "code-file-property/javascript", required: true, many: false }],
   invariants: [

@@ -5,7 +5,7 @@ export const temperInventoryMaster = {
   pageTypeSlug: "namespace",
   slug: "temper-inventory-master",
   definition: "the master writs a character holds",
-  partSlugs: [
+  parts: [
     "command/temper-inventory-master-consumable-trace",
     "command/temper-inventory-master-craft-trace",
     "command/temper-inventory-master-writ-probe",

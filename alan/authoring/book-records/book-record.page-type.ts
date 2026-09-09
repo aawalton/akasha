@@ -24,7 +24,7 @@ export const bookRecord = {
   pluralSlug: "book-records",
   extends: ["page-type/page"],
   runsTabooCheck: false,
-  partSlugs: [
+  parts: [
     "file-property/writing",
     "text-property/kept-by",
     "text-property/record-book-slug",

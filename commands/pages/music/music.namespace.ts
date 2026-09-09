@@ -5,7 +5,7 @@ export const music = {
   pageTypeSlug: "namespace",
   slug: "music",
   definition: "the music playing now and what Alan says about it",
-  partSlugs: [
+  parts: [
     "command/music-capture",
     "command/music-import-artist",
     "command/music-listening",

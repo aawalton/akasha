@@ -5,7 +5,7 @@ export const change = {
   pageTypeSlug: "namespace",
   slug: "change",
   definition: "the edits an agent keeps, and what becomes of them",
-  partSlugs: [
+  parts: [
     "command/change-show",
     "command/change-list",
     "command/change-drop",

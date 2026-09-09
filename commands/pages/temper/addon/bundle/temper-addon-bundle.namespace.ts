@@ -5,5 +5,5 @@ export const temperAddonBundle = {
   pageTypeSlug: "namespace",
   slug: "temper-addon-bundle",
   definition: "the addons shipped together as one",
-  partSlugs: ["command/temper-addon-bundle-build", "command/temper-addon-bundle-publish"],
+  parts: ["command/temper-addon-bundle-build", "command/temper-addon-bundle-publish"],
 } as const satisfies Namespace

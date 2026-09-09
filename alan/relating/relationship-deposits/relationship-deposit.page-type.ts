@@ -23,7 +23,7 @@ export const relationshipDeposit = {
   definition: "one thing Alan did that put something into a relationship",
   pluralSlug: "relationship-deposits",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "calendar-date-property/relationship-deposit-date",
     "relation-property/relationship-deposit-persona",
     "relation-property/relationship-deposit-relationship",

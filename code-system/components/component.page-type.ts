@@ -16,7 +16,7 @@ export const component = {
   slug: "component",
   definition: "code drawing something for a browser",
   pluralSlug: "components",
-  partSlugs: [
+  parts: [
     "code-file-property/component-code",
     "code-file-property/component-test",
     "code-file-property/component-test-fixtures",

@@ -7,7 +7,7 @@ export const temperItemsRulesEval = {
   definition:
     "whether a compiled inventory rule matches one item, and where a matching rule sends that item",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/build-item-facts-from-inventory-item",
     "module/category-match",
     "module/check-classification",

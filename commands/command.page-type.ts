@@ -20,7 +20,7 @@ export const command = {
   slug: "command",
   definition: "a module reached by name from the command line",
   pluralSlug: "commands",
-  partSlugs: [
+  parts: [
     "command/agent-turn-colors",
     "command/audit",
     "command/calendar",

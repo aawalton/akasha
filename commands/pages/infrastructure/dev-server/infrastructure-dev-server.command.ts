@@ -8,7 +8,7 @@ export const infrastructureDevServer = {
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",
-  partSlugs: ["module/last-lines"],
+  parts: ["module/last-lines"],
   taking: [
     {
       said: "bootstrap",

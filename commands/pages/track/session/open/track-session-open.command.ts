@@ -7,7 +7,7 @@ export const trackSessionOpen = {
   definition: "the command beginning a stretch on a day with none open",
   code: "ts",
   changeKind: "change-mechanical",
-  partSlugs: ["module/session-acting"],
+  parts: ["module/session-acting"],
   taking: [
     { said: "--title <text>", takes: "what the stretch is called" },
     { said: "--at <time>", takes: "the wall time the stretch begins" },

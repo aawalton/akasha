@@ -5,7 +5,7 @@ export const temperInventoryItemRule = {
   pageTypeSlug: "namespace",
   slug: "temper-inventory-item-rule",
   definition: "the rules saying where one item goes",
-  partSlugs: [
+  parts: [
     "command/temper-inventory-item-rule-create",
     "command/temper-inventory-item-rule-delete",
     "command/temper-inventory-item-rule-duplicate",

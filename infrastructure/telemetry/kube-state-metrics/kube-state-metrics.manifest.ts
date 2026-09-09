@@ -5,7 +5,7 @@ export const kubeStateMetrics = {
   pageTypeSlug: "manifest",
   slug: "kube-state-metrics",
   definition: "the cluster object exporter's permissions, its deployment and the way in to it",
-  partSlugs: ["module/kube-state-metrics-manifests"],
+  parts: ["module/kube-state-metrics-manifests"],
   code: "ts",
   generatedDirectory: true,
 } as const satisfies Manifest

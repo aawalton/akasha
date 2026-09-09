@@ -33,7 +33,7 @@ export const calendarEventSource = {
   definition: "another calendar read for the events it publishes",
   pluralSlug: "calendar-event-sources",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "page-property-entry/events",
     "text-property/calendar-source-color",
     "text-property/calendar-source-detail-url-template",

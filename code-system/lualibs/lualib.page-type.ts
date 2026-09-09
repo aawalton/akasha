@@ -20,7 +20,7 @@ export const lualib = {
   slug: "lualib",
   definition: "one helper a compiler writes into every addon's Lua",
   pluralSlug: "lualibs",
-  partSlugs: [
+  parts: [
     "code-file-property/compiled-lua",
     "code-file-property/lua50-code",
     "text-property/lua-export",

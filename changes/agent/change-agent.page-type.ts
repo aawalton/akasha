@@ -10,7 +10,7 @@ export const changeAgent = {
   definition: "a change an agent reaches by name",
   pluralSlug: "change-agent",
   extends: ["page-type/change"],
-  partSlugs: [
+  parts: [
     "domain/change-agent-file",
     "domain/change-agent-folder",
     "domain/change-agent-file-content",

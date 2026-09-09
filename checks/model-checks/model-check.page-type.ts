@@ -16,7 +16,7 @@ export const modelCheck = {
   slug: "model-check",
   definition: "a check judging a change by putting prompts to a model",
   pluralSlug: "model-checks",
-  partSlugs: [
+  parts: [
     "model-check/invariant-earns-its-place",
     "number-property/audit-runs",
     "number-property/patch-runs",

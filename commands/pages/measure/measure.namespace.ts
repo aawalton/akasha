@@ -5,7 +5,7 @@ export const measure = {
   pageTypeSlug: "namespace",
   slug: "measure",
   definition: "what a thing has spent of what that thing is allowed",
-  partSlugs: [
+  parts: [
     "command/measure-repo",
     "command/measure-pages",
     "command/measure-checks",

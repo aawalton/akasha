@@ -12,7 +12,7 @@ export const containerRecipe = {
   slug: "container-recipe",
   definition: "the steps a container image is built from",
   pluralSlug: "container-recipes",
-  partSlugs: ["file-property/recipe"],
+  parts: ["file-property/recipe"],
   extends: ["page-type/domain"],
   properties: [{ pagePropertySlug: "file-property/recipe", required: true, many: false }],
   invariants: [

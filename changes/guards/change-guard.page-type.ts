@@ -13,7 +13,7 @@ export const changeGuard = {
   definition: "what judges the answer a change gives and says why that answer is refused",
   pluralSlug: "change-guards",
   extends: ["page-type/module"],
-  partSlugs: [
+  parts: [
     "change-guard/claimed-file-not-left-behind",
     "change-guard/import-not-left-hanging",
     "change-guard/page-type-carries-no-pages",

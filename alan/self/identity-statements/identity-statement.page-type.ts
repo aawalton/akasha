@@ -37,7 +37,7 @@ export const identityStatement = {
   definition: "one sentence Alan means to become true of him",
   pluralSlug: "identity-statements",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "number-property/identity-statement-level",
     "relation-property/identity-statement-value",
     "relation-property/parent-statement",

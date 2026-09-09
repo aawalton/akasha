@@ -5,7 +5,7 @@ export const temperEsoGenerate = {
   pageTypeSlug: "namespace",
   slug: "temper-eso-generate",
   definition: "what is written out from the game's own files",
-  partSlugs: [
+  parts: [
     "command/temper-eso-generate-base-game-globals",
     "command/temper-eso-generate-chatter-names",
     "command/temper-eso-generate-colon-methods",

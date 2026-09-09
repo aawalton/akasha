@@ -5,7 +5,7 @@ export const mobile = {
   pageTypeSlug: "namespace",
   slug: "mobile",
   definition: "the iOS apps Alan runs and what puts a build in front of him",
-  partSlugs: [
+  parts: [
     "namespace/mobile-cut",
     "command/mobile-deploy-device",
     "namespace/mobile-sim",

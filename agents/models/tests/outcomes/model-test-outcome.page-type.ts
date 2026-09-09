@@ -9,7 +9,7 @@ export const modelTestOutcome = {
   slug: "model-test-outcome",
   definition: "what a review found a model test's answer to be",
   pluralSlug: "model-test-outcomes",
-  partSlugs: [
+  parts: [
     "model-test-outcome/negative-false",
     "model-test-outcome/negative-true",
     "model-test-outcome/positive-false",

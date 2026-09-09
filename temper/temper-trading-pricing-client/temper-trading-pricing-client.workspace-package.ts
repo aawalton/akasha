@@ -6,7 +6,7 @@ export const temperTradingPricingClient = {
   slug: "temper-trading-pricing-client",
   definition: "live guild store listings fetched from Tamriel Trade Centre",
   manifest: "json",
-  partSlugs: ["module/ttc-listing-client"],
+  parts: ["module/ttc-listing-client"],
   invariants: [
     {
       invariantKind: "departure",

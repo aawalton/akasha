@@ -17,7 +17,7 @@ export const collectionType = {
   definition: "a kind of thing collected, and what one of that kind is measured in",
   pluralSlug: "collection-types",
   extends: ["page-type/page"],
-  partSlugs: ["select-property/collection-type-status"],
+  parts: ["select-property/collection-type-status"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/unit-slug", required: true, many: false },

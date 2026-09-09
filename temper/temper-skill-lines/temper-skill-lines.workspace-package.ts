@@ -6,7 +6,7 @@ export const temperSkillLines = {
   slug: "temper-skill-lines",
   definition: "the skill lines an Elder Scrolls Online character advances",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/skill-line-category-data",
     "module/skill-line-template",
     "module/class-skill-lines",

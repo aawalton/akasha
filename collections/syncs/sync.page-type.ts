@@ -13,7 +13,7 @@ export const sync = {
   definition: "one outside place this system pulls from, and how each pull went",
   pluralSlug: "syncs",
   extends: ["page-type/page"],
-  partSlugs: ["page-property-entry/sync-runs"],
+  parts: ["page-property-entry/sync-runs"],
   properties: [
     {
       pagePropertySlug: "page-property-entry/sync-runs",

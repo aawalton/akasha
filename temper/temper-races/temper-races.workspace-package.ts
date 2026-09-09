@@ -6,7 +6,7 @@ export const temperRaces = {
   slug: "temper-races",
   definition: "the playable races an Elder Scrolls Online character is born into",
   manifest: "json",
-  partSlugs: ["module/races", "module/race-icon-url"],
+  parts: ["module/races", "module/race-icon-url"],
   invariants: [
     {
       invariantKind: "departure",

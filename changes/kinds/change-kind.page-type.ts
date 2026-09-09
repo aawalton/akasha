@@ -16,7 +16,7 @@ export const changeKind = {
   slug: "change-kind",
   definition: "which sort one change is",
   pluralSlug: "change-kinds",
-  partSlugs: [
+  parts: [
     "change-kind/change-authored",
     "change-kind/change-checked",
     "change-kind/change-mechanical",

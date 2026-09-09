@@ -9,7 +9,7 @@ export const changeTargetType = {
   slug: "change-target-type",
   definition: "the sort of thing a change acts on",
   pluralSlug: "change-target-types",
-  partSlugs: [
+  parts: [
     "change-target-type/file",
     "change-target-type/folder",
     "change-target-type/file-content",

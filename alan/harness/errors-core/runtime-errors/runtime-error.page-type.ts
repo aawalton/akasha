@@ -32,7 +32,7 @@ export const runtimeError = {
   pluralSlug: "runtime-errors",
   extends: ["page-type/page"],
   mortal: true,
-  partSlugs: [
+  parts: [
     "instant-property/error-first-seen-at",
     "instant-property/error-last-seen-at",
     "number-property/error-count",

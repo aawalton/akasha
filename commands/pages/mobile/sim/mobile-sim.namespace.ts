@@ -5,7 +5,7 @@ export const mobileSim = {
   pageTypeSlug: "namespace",
   slug: "mobile-sim",
   definition: "the iOS simulator and what is driven on it",
-  partSlugs: [
+  parts: [
     "command/mobile-sim-boot",
     "command/mobile-sim-eval",
     "command/mobile-sim-long-press-drag",

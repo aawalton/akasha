@@ -5,7 +5,7 @@ export const postgresExporter = {
   pageTypeSlug: "manifest",
   slug: "postgres-exporter",
   definition: "the database exporter's queries, its deployment and the way in to it",
-  partSlugs: [
+  parts: [
     "module/postgres-exporter-manifests",
     "module/query-perf-constants",
     "module/query-perf-queries",

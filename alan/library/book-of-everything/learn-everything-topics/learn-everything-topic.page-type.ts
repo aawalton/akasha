@@ -37,7 +37,7 @@ export const learnEverythingTopic = {
   definition: "one subject in the map of all there is to know",
   pluralSlug: "learn-everything-topics",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "calendar-date-property/topic-scored-on",
     "computed-property/topic-coverage",
     "file-property/bites",

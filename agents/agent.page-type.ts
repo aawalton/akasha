@@ -20,7 +20,7 @@ export const agent = {
   pluralSlug: "agents",
   extends: ["page-type/page"],
   mortal: true,
-  partSlugs: [
+  parts: [
     "file-property/edits",
     "file-property/refusals",
     "one-of-property/assignment-slug",

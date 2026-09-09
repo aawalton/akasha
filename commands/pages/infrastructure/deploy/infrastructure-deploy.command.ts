@@ -9,7 +9,7 @@ export const infrastructureDeploy = {
   test: "ts",
   testFixtures: "ts",
   changeKind: "change-none",
-  partSlugs: [
+  parts: [
     "module/deploy-ios-shipping",
     "module/deploy-kind-reading",
     "module/deploy-web-putting-up",

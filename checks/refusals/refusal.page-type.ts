@@ -16,7 +16,7 @@ export const refusal = {
   pluralSlug: "refusals",
   extends: ["page-type/page"],
   mortal: true,
-  partSlugs: ["text-property/refusal-text"],
+  parts: ["text-property/refusal-text"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "text-property/refusal-text", required: true, many: false },

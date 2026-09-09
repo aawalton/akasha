@@ -21,7 +21,7 @@ export const scripturePassage = {
   definition: "one chapter of scripture Alan reads",
   pluralSlug: "scripture-passages",
   extends: ["page-type/collection"],
-  partSlugs: [
+  parts: [
     "file-property/passage-text",
     "select-property/scripture-translation",
     "text-property/scripture-book",

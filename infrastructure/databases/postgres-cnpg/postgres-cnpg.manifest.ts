@@ -6,7 +6,7 @@ export const postgresCnpg = {
   slug: "postgres-cnpg",
   definition:
     "the namespace, volume, service, managed cluster, object store and scheduled backup of Postgres",
-  partSlugs: ["module/cnpg-cluster", "module/cnpg-object-store", "module/cnpg-scheduled-backup"],
+  parts: ["module/cnpg-cluster", "module/cnpg-object-store", "module/cnpg-scheduled-backup"],
   code: "ts",
   generatedDirectory: true,
 } as const satisfies Manifest

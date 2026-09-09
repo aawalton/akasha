@@ -6,7 +6,7 @@ export const temperWatcher = {
   slug: "temper-watcher",
   definition: "what carries what Alan did in the game across to the web",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/watcher-paths",
     "module/watcher-daemon",
     "module/watcher-log-line",

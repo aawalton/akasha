@@ -5,7 +5,7 @@ export const pageSecret = {
   pageTypeSlug: "namespace",
   slug: "page-secret",
   definition: "a value a page carries that the files hide",
-  partSlugs: [
+  parts: [
     "command/page-secret-clear",
     "command/page-secret-reveal",
     "command/page-secret-set",

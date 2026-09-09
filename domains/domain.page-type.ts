@@ -20,7 +20,7 @@ export type Domain = Page & {
 
 export const domain = {
   id: "01a049c8-3ead-7c52-9ab6-88767954ed5f",
-  partSlugs: [
+  parts: [
     "boolean-property/expands",
     "record-property/directives",
     "record-property/invariants",

@@ -21,7 +21,7 @@ export const foodEntry = {
   definition: "one thing Alan ate, written down",
   pluralSlug: "food-entries",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "file-property/food-entry-note",
     "instant-property/happened-at",
     "number-property/estimated-calories",

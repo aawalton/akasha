@@ -15,7 +15,7 @@ export const masteryLevel = {
   definition: "one rung on the scale a topic's mastery is scored against",
   pluralSlug: "mastery-levels",
   extends: ["page-type/domain"],
-  partSlugs: [
+  parts: [
     "mastery-level/novice",
     "mastery-level/reader",
     "mastery-level/student",

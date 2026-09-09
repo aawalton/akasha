@@ -5,7 +5,7 @@ export const inference = {
   pageTypeSlug: "namespace",
   slug: "inference",
   definition: "a model asked for something and what came back",
-  partSlugs: [
+  parts: [
     "command/inference-activate",
     "command/inference-active",
     "command/inference-apply",

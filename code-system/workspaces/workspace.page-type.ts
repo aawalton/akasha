@@ -32,7 +32,7 @@ export const workspace = {
   slug: "workspace",
   definition: "the tree a package manager installs every package in at once",
   pluralSlug: "workspaces",
-  partSlugs: [
+  parts: [
     "file-property/biome-config",
     "file-property/bun-config",
     "file-property/docker-ignore",

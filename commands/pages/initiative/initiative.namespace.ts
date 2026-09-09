@@ -5,5 +5,5 @@ export const initiative = {
   pageTypeSlug: "namespace",
   slug: "initiative",
   definition: "the initiatives at work and the intents each one has",
-  partSlugs: ["command/initiative-move-intent", "command/initiative-work-tree"],
+  parts: ["command/initiative-move-intent", "command/initiative-work-tree"],
 } as const satisfies Namespace

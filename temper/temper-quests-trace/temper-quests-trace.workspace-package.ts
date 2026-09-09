@@ -6,7 +6,7 @@ export const temperQuestsTrace = {
   slug: "temper-quests-trace",
   definition: "what the quest addon decided, read back from what the addon saved",
   manifest: "json",
-  partSlugs: ["module/auto-quest-trace"],
+  parts: ["module/auto-quest-trace"],
   invariants: [
     {
       invariantKind: "departure",

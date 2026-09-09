@@ -12,7 +12,7 @@ export const iosComponent = {
   slug: "ios-component",
   definition: "code an iOS app is built from",
   pluralSlug: "ios-components",
-  partSlugs: [
+  parts: [
     "ios-component/alanwalton-attribute-stoplights-widget",
     "ios-component/alanwalton-categorize-widget",
     "ios-component/alanwalton-claude-usage-payload",

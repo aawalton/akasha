@@ -6,7 +6,7 @@ export const temperItemsRulesRouting = {
   slug: "temper-items-rules-routing",
   definition: "a whole management session planned out of the rules and the captured holdings",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/inventory-management-plan",
     "module/inventory-management-plan-buy",
     "module/inventory-management-plan-capacity",

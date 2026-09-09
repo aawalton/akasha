@@ -5,7 +5,7 @@ export const email = {
   pageTypeSlug: "namespace",
   slug: "email",
   definition: "the mail Alan sends and receives",
-  partSlugs: [
+  parts: [
     "namespace/email-attachments",
     "command/email-auth-login",
     "namespace/email-drafts",

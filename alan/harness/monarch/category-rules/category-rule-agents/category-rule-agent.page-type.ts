@@ -13,7 +13,7 @@ export const categoryRuleAgent = {
   definition: "a category rule an agent carries out",
   pluralSlug: "category-rule-agents",
   extends: ["page-type/category-rule"],
-  partSlugs: ["text-property/judgement"],
+  parts: ["text-property/judgement"],
   properties: [{ pagePropertySlug: "text-property/judgement", required: true, many: false }],
   invariants: [
     {

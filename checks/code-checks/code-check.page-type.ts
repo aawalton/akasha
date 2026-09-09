@@ -22,7 +22,7 @@ export const codeCheck = {
   slug: "code-check",
   definition: "a module run over a change to judge whether it may land",
   pluralSlug: "code-checks",
-  partSlugs: [
+  parts: [
     "boolean-property/runs-on-audit",
     "list/code-comment-forms",
     "boolean-property/runs-on-deploy",

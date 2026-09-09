@@ -6,7 +6,7 @@ export const temperSkillMorphsAccess = {
   slug: "temper-skill-morphs-access",
   definition: "the morph progress a saved completion row carries",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/morph-completion-shapes",
     "module/eso-id-helpers",
     "module/character-skill-morph-transform",

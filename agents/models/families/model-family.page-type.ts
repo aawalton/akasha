@@ -12,7 +12,7 @@ export const modelFamily = {
   slug: "model-family",
   definition: "a family of models",
   pluralSlug: "model-families",
-  partSlugs: [
+  parts: [
     "model-family/fable",
     "model-family/haiku",
     "model-family/opus",

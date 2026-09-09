@@ -5,7 +5,7 @@ export const temperInventory = {
   pageTypeSlug: "namespace",
   slug: "temper-inventory",
   definition: "what a character has, and where each thing carried belongs",
-  partSlugs: [
+  parts: [
     "command/temper-inventory-capacity-audit",
     "command/temper-inventory-decode-link",
     "command/temper-inventory-explain",

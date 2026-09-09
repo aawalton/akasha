@@ -5,5 +5,5 @@ export const measureClaudeAccounts = {
   pageTypeSlug: "namespace",
   slug: "measure-claude-accounts",
   definition: "what the fleet of claude accounts has spent",
-  partSlugs: ["command/measure-claude-accounts-usage", "command/measure-claude-accounts-cost"],
+  parts: ["command/measure-claude-accounts-usage", "command/measure-claude-accounts-cost"],
 } as const satisfies Namespace

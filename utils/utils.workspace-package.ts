@@ -6,7 +6,7 @@ export const utils = {
   slug: "utils",
   definition: "the pieces every domain reaches for and no domain claims",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "domain/utils-fs",
     "domain/utils-narrow",
     "domain/utils-process",

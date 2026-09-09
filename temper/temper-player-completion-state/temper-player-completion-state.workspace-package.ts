@@ -6,7 +6,7 @@ export const temperPlayerCompletionState = {
   slug: "temper-player-completion-state",
   definition: "the completion addon's saved table and the shapes read out of it",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/completion-addon-constants",
     "module/completion-daily-writs-state",
     "module/completion-motif-knowledge",

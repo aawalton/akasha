@@ -8,7 +8,7 @@ export const agentForest = {
   code: "ts",
   test: "ts",
   changeKind: "change-none",
-  partSlugs: ["module/no-word-reading"],
+  parts: ["module/no-word-reading"],
   taking: [],
   helpNotes: [
     "it takes no word at all, so any word said to it is refused.",

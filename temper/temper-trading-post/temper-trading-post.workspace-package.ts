@@ -6,7 +6,7 @@ export const temperTradingPost = {
   slug: "temper-trading-post",
   definition: "putting an item up for sale at a guild store",
   manifest: "json",
-  partSlugs: ["module/guild-store-poster"],
+  parts: ["module/guild-store-poster"],
   invariants: [
     {
       invariantKind: "departure",

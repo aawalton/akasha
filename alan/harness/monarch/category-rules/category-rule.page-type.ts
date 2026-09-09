@@ -21,7 +21,7 @@ export const categoryRule = {
   definition: "a written rule deciding what a transaction counts as",
   pluralSlug: "category-rules",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "number-property/counterpart-within-days",
     "record-property/matches",
     "relation-property/category",

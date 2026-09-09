@@ -61,7 +61,7 @@ export const chessGame = {
   detailConfig: {
     display: "chess-review",
   },
-  partSlugs: [
+  parts: [
     "boolean-property/rated",
     "file-property/pgn",
     "instant-property/played-at",

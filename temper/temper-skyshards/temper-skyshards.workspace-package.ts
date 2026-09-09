@@ -6,7 +6,7 @@ export const temperSkyshards = {
   slug: "temper-skyshards",
   definition: "every skyshard in Tamriel, shown on the map and the compass until the player has it",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/skyshards-console-compass",
     "module/skyshards-console-load",
     "module/skyshards-console-pins",

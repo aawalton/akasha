@@ -25,7 +25,7 @@ export const equipmentItem = {
   definition: "a piece of kit Alan can load a movement with",
   pluralSlug: "equipment-items",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/equipment-available",
     "number-property/equipment-loads",
     "number-property/equipment-sort-order",

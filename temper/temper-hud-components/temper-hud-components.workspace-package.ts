@@ -6,7 +6,7 @@ export const temperHudComponents = {
   slug: "temper-hud-components",
   definition: "the parts of the game's HUD, each with the way the game hides that part",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/hud-scene-source",
     "module/hud-component-record",
     "module/hud-component-labels",

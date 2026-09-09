@@ -15,7 +15,7 @@ export const notificationFeed = {
   definition: "everything this system has pushed at one person",
   pluralSlug: "notification-feeds",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "instant-property/notification-read-at",
     "instant-property/notification-sent-at",
     "page-property-entry/notifications",

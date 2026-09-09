@@ -6,7 +6,7 @@ export const temperTradingPricing = {
   slug: "temper-trading-pricing",
   definition: "what Tamriel Trade Centre last saw an item sell for",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/companion-gear-ids",
     "module/companion-gear-price-lookup",
     "module/crown-consumable-price-lookup",

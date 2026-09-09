@@ -18,7 +18,7 @@ export const module = {
   slug: "module",
   definition: "code reached by importing it",
   pluralSlug: "modules",
-  partSlugs: [
+  parts: [
     "code-file-property/code",
     "file-property/module-types",
     "code-file-property/test",

@@ -8,7 +8,7 @@ export const inferenceWan = {
   code: "ts",
   test: "ts",
   changeKind: "change-mechanical",
-  partSlugs: [
+  parts: [
     "module/flag-arguing",
     "module/wan-arguing",
     "module/wan-clip-rendering",

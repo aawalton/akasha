@@ -6,7 +6,7 @@ export const prometheus = {
   slug: "prometheus",
   definition:
     "the metrics server, its namespace, its access rules, its storage, its configuration and its way in",
-  partSlugs: ["module/prometheus-config", "module/prometheus-manifests"],
+  parts: ["module/prometheus-config", "module/prometheus-manifests"],
   code: "ts",
   generatedDirectory: true,
 } as const satisfies Manifest

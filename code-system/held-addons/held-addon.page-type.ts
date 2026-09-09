@@ -25,7 +25,7 @@ export const heldAddon = {
   definition: "an addon the temper port has taken over",
   pluralSlug: "held-addons",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/ti-clean",
     "number-property/held-by",
     "relation-property/adjacents",

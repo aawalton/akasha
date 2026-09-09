@@ -42,7 +42,7 @@ export const calendarEvent = {
   slug: "calendar-event",
   definition: "an occasion at a set time somebody may attend",
   pluralSlug: "calendar-events",
-  partSlugs: [
+  parts: [
     "boolean-property/calendar-event-all-day",
     "boolean-property/calendar-event-registration-required",
     "instant-property/calendar-event-end-at",

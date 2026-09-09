@@ -6,7 +6,7 @@ export const verdict = {
   slug: "verdict",
   definition: "a judgement on something measured, with what it covered and what it found",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/outcome",
     "module/verdict-shape",
     "module/verdict-exit",

@@ -53,7 +53,7 @@ export const connectionActivity = {
   definition: "one way Alan spends time with someone, and what an hour of it is worth to him",
   pluralSlug: "connection-activities",
   extends: ["page-type/page"],
-  partSlugs: [
+  parts: [
     "boolean-property/connection-activity-repeatable",
     "number-property/connection-activity-attn",
     "number-property/connection-activity-attractiveness",

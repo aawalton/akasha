@@ -5,7 +5,7 @@ export const claudeAccount = {
   pageTypeSlug: "namespace",
   slug: "claude-account",
   definition: "an Anthropic subscription put into service or brought back",
-  partSlugs: [
+  parts: [
     "command/claude-account-add",
     "command/claude-account-re-enable",
     "command/claude-account-usage",

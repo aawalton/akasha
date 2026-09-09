@@ -7,7 +7,7 @@ export const measureChecks = {
   definition: "the command saying what a check's run cost in processor time and memory",
   code: "ts",
   changeKind: "change-mechanical",
-  partSlugs: ["module/check-measuring"],
+  parts: ["module/check-measuring"],
   taking: [
     { said: "--last <count>", takes: "how many of the most recent runs the numbers cover" },
     {

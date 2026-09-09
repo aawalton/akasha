@@ -7,7 +7,7 @@ export const temperLostTreasure = {
   definition:
     "the buried treasure a map or a survey report points to, drawn where the player must dig",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/lost-treasure-ui-strings",
     "module/lost-treasure-constants",
     "module/lost-treasure-types",

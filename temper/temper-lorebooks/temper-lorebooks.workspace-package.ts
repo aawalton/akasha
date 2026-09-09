@@ -7,7 +7,7 @@ export const temperLorebooks = {
   definition:
     "the lore books of Tamriel, drawn where a player must go to read one they have not read",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/lorebooks-book-data",
     "module/lorebooks-book-data-00",
     "module/lorebooks-book-data-01",

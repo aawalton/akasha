@@ -14,7 +14,7 @@ export const changeTargetSubtype = {
   slug: "change-target-subtype",
   definition: "a narrower sort of thing a change acts on",
   pluralSlug: "change-target-subtypes",
-  partSlugs: [
+  parts: [
     "relation-property/change-target-subtype-parent",
     "change-target-subtype/file",
     "change-target-subtype/file-code",

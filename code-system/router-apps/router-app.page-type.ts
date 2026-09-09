@@ -44,7 +44,7 @@ export const routerApp = {
   slug: "router-app",
   definition: "what serves the routes its own table declares",
   pluralSlug: "router-apps",
-  partSlugs: [
+  parts: [
     "code-file-property/addon-bundle-image",
     "code-file-property/app-layout",
     "file-property/compile-config",

@@ -8,7 +8,7 @@ export const modelGatewayStatus = {
   code: "ts",
   test: "ts",
   changeKind: "change-none",
-  partSlugs: ["module/live-gateway-seats"],
+  parts: ["module/live-gateway-seats"],
   taking: [{ said: "--json", takes: "the answer as one JSON object rather than as rows" }],
   helpNotes: [
     "auto-swap is disarmed, so a running gateway stays on the version it was spawned at until a swap moves it, and a status reports the lag that leaves.",

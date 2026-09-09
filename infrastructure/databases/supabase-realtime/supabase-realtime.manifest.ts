@@ -6,7 +6,7 @@ export const supabaseRealtime = {
   slug: "supabase-realtime",
   definition:
     "the namespace, service and deployment of the server pushing a row's change to subscribed browsers",
-  partSlugs: ["module/realtime-tenant-bootstrap"],
+  parts: ["module/realtime-tenant-bootstrap"],
   code: "ts",
   generatedDirectory: true,
 } as const satisfies Manifest

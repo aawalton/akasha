@@ -6,7 +6,7 @@ export const temperPlayerInventoryManagementUi = {
   slug: "temper-player-inventory-management-ui",
   definition: "the pages a browser manages one player's inventory from",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/action-filter-cascades",
     "module/action-filter-utils",
     "module/action-options",

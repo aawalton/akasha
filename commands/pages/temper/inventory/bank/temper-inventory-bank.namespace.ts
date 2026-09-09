@@ -5,5 +5,5 @@ export const temperInventoryBank = {
   pageTypeSlug: "namespace",
   slug: "temper-inventory-bank",
   definition: "what a character keeps in the bank",
-  partSlugs: ["command/temper-inventory-bank-profile", "command/temper-inventory-bank-trace"],
+  parts: ["command/temper-inventory-bank-profile", "command/temper-inventory-bank-trace"],
 } as const satisfies Namespace

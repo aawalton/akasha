@@ -6,5 +6,5 @@ export const temperPlayerProfile = {
   slug: "temper-player-profile",
   definition: "the handle and platform settings one player is known by",
   manifest: "json",
-  partSlugs: ["module/use-player"],
+  parts: ["module/use-player"],
 } as const satisfies WorkspacePackage

@@ -5,7 +5,7 @@ export const infrastructure = {
   pageTypeSlug: "namespace",
   slug: "infrastructure",
   definition: "the machines, the services on them, and what puts code onto them",
-  partSlugs: [
+  parts: [
     "command/infrastructure-deploy",
     "command/infrastructure-dev-server",
     "command/infrastructure-loki",

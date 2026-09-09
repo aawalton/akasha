@@ -5,7 +5,7 @@ export const temperCommunity = {
   pageTypeSlug: "namespace",
   slug: "temper-community",
   definition: "an addon somebody outside Temper wrote",
-  partSlugs: [
+  parts: [
     "command/temper-community-addon-install",
     "command/temper-community-addon-list",
     "command/temper-community-addon-update",

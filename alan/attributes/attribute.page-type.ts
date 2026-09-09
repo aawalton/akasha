@@ -23,7 +23,7 @@ export const attribute = {
   definition: "a capacity Alan builds through a daily habit",
   pluralSlug: "attributes",
   extends: ["page-type/domain"],
-  partSlugs: [
+  parts: [
     "module/attribute-points",
     "computed-property/attribute-level",
     "attribute/charisma",

@@ -8,7 +8,7 @@ export const infrastructureService = {
   code: "ts",
   test: "ts",
   changeKind: "change-none",
-  partSlugs: ["module/name-drawing"],
+  parts: ["module/name-drawing"],
   taking: [
     {
       said: "install",

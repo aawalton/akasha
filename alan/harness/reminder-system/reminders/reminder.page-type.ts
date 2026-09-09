@@ -22,7 +22,7 @@ export const reminder = {
   pluralSlug: "reminders",
   extends: ["page-type/page"],
   mortal: true,
-  partSlugs: [
+  parts: [
     "instant-property/next-at",
     "relation-property/sent-from",
     "relation-property/sent-to",

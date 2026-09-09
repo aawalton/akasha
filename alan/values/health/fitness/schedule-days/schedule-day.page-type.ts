@@ -17,7 +17,7 @@ export const scheduleDay = {
   definition: "one day of a training rotation, and what it trains",
   pluralSlug: "schedule-days",
   extends: ["page-type/page"],
-  partSlugs: ["select-property/day-of-week", "select-property/focus"],
+  parts: ["select-property/day-of-week", "select-property/focus"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "select-property/day-of-week", required: true, many: false },

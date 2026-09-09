@@ -7,7 +7,7 @@ export const measureClaudeAccountsCost = {
   definition: "the command pricing the calls the transcripts on this machine have",
   code: "ts",
   changeKind: "change-mechanical",
-  partSlugs: ["module/claude-account-costing"],
+  parts: ["module/claude-account-costing"],
   taking: [],
   helpNotes: [
     "the calls priced are the ones the transcripts on this machine hold over the last thirty days.",

@@ -58,7 +58,7 @@ export const iosApp = {
   slug: "ios-app",
   definition: "the app on a phone and the shell it runs in",
   pluralSlug: "ios-apps",
-  partSlugs: [
+  parts: [
     "file-property/app-icon",
     "file-property/capacitor-config",
     "file-property/icon-drawing",

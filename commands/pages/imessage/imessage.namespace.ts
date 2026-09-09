@@ -5,7 +5,7 @@ export const imessage = {
   pageTypeSlug: "namespace",
   slug: "imessage",
   definition: "Alan's messages on iMessage",
-  partSlugs: [
+  parts: [
     "command/imessage-contacts",
     "command/imessage-recent",
     "command/imessage-search",

@@ -6,7 +6,7 @@ export const temperItemsRulesRoutingCore = {
   slug: "temper-items-rules-routing-core",
   definition: "the route a plan takes through the game world, and the shape of the plan itself",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/inventory-consolidate-dest",
     "module/inventory-management-plan-route",
     "module/inventory-management-plan-route-actor",

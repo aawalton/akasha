@@ -10,7 +10,7 @@ export const read = {
   test: "ts",
   testFixtures: "ts",
   changeKind: "change-none",
-  partSlugs: ["module/long-body"],
+  parts: ["module/long-body"],
   taking: [
     {
       said: "--file-path <path>",

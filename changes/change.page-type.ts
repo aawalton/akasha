@@ -19,7 +19,7 @@ export const change = {
   definition: "a mechanical change whose bodies are answered rather than written",
   pluralSlug: "changes",
   extends: ["page-type/module"],
-  partSlugs: [
+  parts: [
     "page-type/change-agent",
     "page-type/change-mechanical",
     "page-type/change-runner",

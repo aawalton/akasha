@@ -25,7 +25,7 @@ export const book = {
   definition: "one book Alan reads",
   pluralSlug: "books",
   extends: ["page-type/collection-external"],
-  partSlugs: [
+  parts: [
     "number-property/original-publication-year",
     "number-property/page-count",
     "number-property/rating",

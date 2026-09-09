@@ -25,7 +25,7 @@ export const syntaxRule = {
   slug: "syntax-rule",
   definition: "a pattern a source file may not carry",
   pluralSlug: "syntax-rules",
-  partSlugs: [
+  parts: [
     "syntax-rule/exhaustive-dispatch",
     "syntax-rule/no-akasha-command-from-code",
     "syntax-rule/no-angle-bracket-cast",

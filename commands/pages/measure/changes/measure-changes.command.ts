@@ -8,7 +8,7 @@ export const measureChanges = {
     "the command saying what a change run and an apply run cost in processor time and memory",
   code: "ts",
   changeKind: "change-mechanical",
-  partSlugs: ["module/change-measuring"],
+  parts: ["module/change-measuring"],
   taking: [
     { said: "--last <count>", takes: "how many of the most recent runs the numbers cover" },
     {

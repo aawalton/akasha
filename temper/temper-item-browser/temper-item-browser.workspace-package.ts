@@ -7,7 +7,7 @@ export const temperItemBrowser = {
   definition:
     "every item set in the game, what it takes to complete one, and where its pieces drop",
   manifest: "json",
-  partSlugs: [
+  parts: [
     "module/item-browser-constants",
     "module/item-browser-types",
     "module/item-browser-refresh-state",

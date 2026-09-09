@@ -5,7 +5,7 @@ export const seat = {
   pageTypeSlug: "namespace",
   slug: "seat",
   definition: "the seats akasha carries and what runs them",
-  partSlugs: [
+  parts: [
     "namespace/seat-supervisor",
     "command/seat-resume",
     "command/seat-reset",

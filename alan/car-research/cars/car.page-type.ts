@@ -19,11 +19,7 @@ export const car = {
   definition: "one level of a maker's catalogue, as Alan weighed buying from it",
   pluralSlug: "cars",
   extends: ["page-type/page"],
-  partSlugs: [
-    "boolean-property/short-list",
-    "text-property/exclusion-reason",
-    "text-property/sources",
-  ],
+  parts: ["boolean-property/short-list", "text-property/exclusion-reason", "text-property/sources"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "boolean-property/short-list", required: false, many: false },

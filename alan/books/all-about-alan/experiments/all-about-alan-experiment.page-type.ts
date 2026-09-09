@@ -17,7 +17,7 @@ export const allAboutAlanExperiment = {
   definition: "one measured trial about Alan",
   pluralSlug: "all-about-alan-experiments",
   extends: ["page-type/page"],
-  partSlugs: ["file-property/line-set"],
+  parts: ["file-property/line-set"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },

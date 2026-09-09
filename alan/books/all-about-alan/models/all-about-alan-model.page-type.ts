@@ -17,7 +17,7 @@ export const allAboutAlanModel = {
   definition: "one computation of a mechanism in Alan",
   pluralSlug: "all-about-alan-models",
   extends: ["page-type/page"],
-  partSlugs: ["code-file-property/simulation"],
+  parts: ["code-file-property/simulation"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },

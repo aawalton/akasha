@@ -16,7 +16,7 @@ export const route = {
   slug: "route",
   definition: "code a router serves under a url path",
   pluralSlug: "routes",
-  partSlugs: [
+  parts: [
     "code-file-property/route-code",
     "code-file-property/route-test",
     "text-property/url-path",
