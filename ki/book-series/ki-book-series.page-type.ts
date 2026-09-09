@@ -1,7 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { KiCollectionTemplate } from "../collection-templates/ki-collection-template.page-type.ts"
-
-export type KiBookSeries = KiCollectionTemplate
 
 export const kiBookSeries = {
   id: "01a06825-d0ec-7bfd-b89f-ecf2d7fbbaad",
@@ -25,4 +22,5 @@ export const kiBookSeries = {
       statement: "The books a series of Ki's holds are the books naming that series.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
