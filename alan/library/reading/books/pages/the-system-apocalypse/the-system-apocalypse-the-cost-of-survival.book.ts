@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theSystemApocalypseTheCostOfSurvival = {
   id: "019db533-f391-7bf2-bc8b-9b7774bb7258",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-system-apocalypse-the-cost-of-survival",
   title: "The System Apocalypse: The Cost of Survival",
   status: "completed",

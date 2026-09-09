@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theConnectedSystemWarbreakersRise = {
   id: "019db533-f391-78db-88be-69d97f182861",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-connected-system-warbreakers-rise",
   title: "The Connected System: Warbreaker's Rise",
   status: "not-started",

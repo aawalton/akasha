@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theSystemApocalypseRebelStar = {
   id: "019db533-f391-7ba0-800b-020bf01f705f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-system-apocalypse-rebel-star",
   title: "The System Apocalypse: Rebel Star",
   status: "completed",

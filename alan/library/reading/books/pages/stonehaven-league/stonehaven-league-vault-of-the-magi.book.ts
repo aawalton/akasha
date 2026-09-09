@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const stonehavenLeagueVaultOfTheMagi = {
   id: "019db533-f391-768e-bad9-9d4cedb0393f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "stonehaven-league-vault-of-the-magi",
   title: "Stonehaven League: Vault of the Magi",
   status: "completed",

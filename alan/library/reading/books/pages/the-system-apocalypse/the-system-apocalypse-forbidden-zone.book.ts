@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theSystemApocalypseForbiddenZone = {
   id: "019db533-f391-7b74-97b2-5e4c9e66233d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-system-apocalypse-forbidden-zone",
   title: "The System Apocalypse: Forbidden Zone",
   status: "completed",

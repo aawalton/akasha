@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const worldTreeTrilogyWorldTreesEnd = {
   id: "019db533-f38b-75dd-a24a-57e46985e2b3",
   pageTypeSlug: "book",
+  type: "book",
   slug: "world-tree-trilogy-world-trees-end",
   title: "World-Tree Trilogy: World-Tree's End",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theSystemApocalypseBrokenCouncil = {
   id: "019db533-f391-7b91-9f46-643bf0c6e57b",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-system-apocalypse-broken-council",
   title: "The System Apocalypse: Broken Council",
   status: "completed",

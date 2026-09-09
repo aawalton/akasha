@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const thePrimalHunter9 = {
   id: "019db533-f391-7a4a-8aaf-a01ef5b4d830",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-primal-hunter-9",
   title: "The Primal Hunter 9",
   status: "completed",

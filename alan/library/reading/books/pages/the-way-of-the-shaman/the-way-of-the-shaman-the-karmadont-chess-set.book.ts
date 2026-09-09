@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theWayOfTheShamanTheKarmadontChessSet = {
   id: "019db533-f38b-75b8-b6e5-3d889ac5d9ad",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-way-of-the-shaman-the-karmadont-chess-set",
   title: "The Way of the Shaman: The Karmadont Chess Set",
   status: "completed",

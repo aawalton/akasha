@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theWayOfTheShamanTheKartossGambit = {
   id: "019db533-f38b-75d5-8306-bb3df8ae569c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-way-of-the-shaman-the-kartoss-gambit",
   title: "The Way of the Shaman: The Kartoss Gambit",
   status: "completed",

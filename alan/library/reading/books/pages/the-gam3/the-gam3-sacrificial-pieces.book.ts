@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theGam3SacrificialPieces = {
   id: "019db533-f391-78ec-ab72-ea7b7b261162",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-gam3-sacrificial-pieces",
   title: "The Gam3: Sacrificial Pieces",
   status: "completed",

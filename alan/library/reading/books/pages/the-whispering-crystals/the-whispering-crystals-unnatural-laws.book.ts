@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theWhisperingCrystalsUnnaturalLaws = {
   id: "019db533-f38b-759c-b8ce-5f143b670222",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-whispering-crystals-unnatural-laws",
   title: "The Whispering Crystals: Unnatural Laws",
   status: "completed",

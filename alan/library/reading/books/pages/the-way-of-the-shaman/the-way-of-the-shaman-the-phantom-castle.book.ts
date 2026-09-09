@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theWayOfTheShamanThePhantomCastle = {
   id: "019db533-f38b-75c9-9690-0a0da43d5e69",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-way-of-the-shaman-the-phantom-castle",
   title: "The Way of the Shaman: The Phantom Castle",
   status: "completed",

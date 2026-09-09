@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theWhisperingCrystalsUndividedWorlds = {
   id: "019db533-f38b-757c-bc60-b61fbfe4f987",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-whispering-crystals-undivided-worlds",
   title: "The Whispering Crystals: Undivided Worlds",
   status: "completed",

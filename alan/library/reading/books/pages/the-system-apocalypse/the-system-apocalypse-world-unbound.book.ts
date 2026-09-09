@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theSystemApocalypseWorldUnbound = {
   id: "019db533-f391-7bb0-b66f-cbb2d0facf4e",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-system-apocalypse-world-unbound",
   title: "The System Apocalypse: World Unbound",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theWhisperingCrystalsUnimaginedAdventures = {
   id: "019db533-f38b-7594-9ba5-8673f04aaf7f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-whispering-crystals-unimagined-adventures",
   title: "The Whispering Crystals: Unimagined Adventures",
   status: "completed",

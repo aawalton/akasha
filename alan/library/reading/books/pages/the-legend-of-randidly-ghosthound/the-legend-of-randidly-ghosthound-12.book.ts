@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theLegendOfRandidlyGhosthound12 = {
   id: "019db533-f391-799f-95f0-fb5138d57aad",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-legend-of-randidly-ghosthound-12",
   title: "The Legend of Randidly Ghosthound 12",
   status: "completed",

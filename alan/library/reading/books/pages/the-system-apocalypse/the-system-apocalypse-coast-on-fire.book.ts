@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theSystemApocalypseCoastOnFire = {
   id: "019db533-f391-7bbf-a963-8886cc91eb11",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-system-apocalypse-coast-on-fire",
   title: "The System Apocalypse: Coast on Fire",
   status: "completed",
