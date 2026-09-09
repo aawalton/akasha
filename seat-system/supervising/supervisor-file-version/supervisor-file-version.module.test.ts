@@ -1,7 +1,7 @@
-import { expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { scratchWorld } from "@akasha/command-system/scratching"
 import {
   CEILING_MS,
   DEBOUNCE_MS,
@@ -15,6 +15,10 @@ import {
   type VersionWatch,
   workspaceNaming,
 } from "./supervisor-file-version.module.code.ts"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 const TREE: Readonly<Record<string, string>> = {
   "/a/entry.ts":
@@ -98,25 +102,22 @@ test("the root is the nearest folder above the entry whose manifest names worksp
 })
 
 test("a root that is not there names no package rather than throwing", () => {
-  expect(workspaceNaming(join(tmpdir(), "no-such-root-at-all")).size).toBe(0)
+  const root = join(scratch.rootFor("supervisor-file-version-"), "no-such-root-at-all")
+  expect(workspaceNaming(root).size).toBe(0)
 })
 
 test("a package is named by the exports its manifest states", () => {
-  const root = mkdtempSync(join(tmpdir(), "supervisor-file-version-"))
-  try {
-    writeFileSync(join(root, "package.json"), '{"name":"root","workspaces":["**"]}')
-    mkdirSync(join(root, "one", "deep"), { recursive: true })
-    writeFileSync(
-      join(root, "one", "package.json"),
-      '{"name":"@akasha/one","exports":{".":"./one.ts","./deep":"./deep/deep.ts"}}'
-    )
-    const naming = workspaceNaming(root)
-    expect(naming.get("@akasha/one")).toBe(join(root, "one", "one.ts"))
-    expect(naming.get("@akasha/one/deep")).toBe(join(root, "one", "deep", "deep.ts"))
-    expect(naming.get("@akasha/one/absent")).toBeUndefined()
-  } finally {
-    rmSync(root, { recursive: true, force: true })
-  }
+  const root = scratch.rootFor("supervisor-file-version-")
+  writeFileSync(join(root, "package.json"), '{"name":"root","workspaces":["**"]}')
+  mkdirSync(join(root, "one", "deep"), { recursive: true })
+  writeFileSync(
+    join(root, "one", "package.json"),
+    '{"name":"@akasha/one","exports":{".":"./one.ts","./deep":"./deep/deep.ts"}}'
+  )
+  const naming = workspaceNaming(root)
+  expect(naming.get("@akasha/one")).toBe(join(root, "one", "one.ts"))
+  expect(naming.get("@akasha/one/deep")).toBe(join(root, "one", "deep", "deep.ts"))
+  expect(naming.get("@akasha/one/absent")).toBeUndefined()
 })
 
 test("a file that cannot be read still changes the hash", async () => {
