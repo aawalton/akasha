@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0207Chapter200TheHatchery2Of2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0207-chapter-200-the-hatchery-2-of-2",
   title: "Chapter 200: The Hatchery (2 of 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 207,
   ownLength: 2071,
   ownProgress: 2071,

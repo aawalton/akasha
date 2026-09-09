@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0066Chapter66BoneSpire = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0066-chapter-66-bone-spire",
   title: "Chapter 66: Bone Spire",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 66,
   ownLength: 4159,
   ownProgress: 4159,

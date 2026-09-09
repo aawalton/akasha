@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0088Chapter88HauntedByThePast = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0088-chapter-88-haunted-by-the-past",
   title: "Chapter 88: Haunted by the Past",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 88,
   ownLength: 3797,
   ownProgress: 3797,

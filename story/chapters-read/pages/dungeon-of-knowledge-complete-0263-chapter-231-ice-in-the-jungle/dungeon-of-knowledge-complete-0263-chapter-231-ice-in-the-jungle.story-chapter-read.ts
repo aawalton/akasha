@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0263Chapter231IceInTheJungle = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0263-chapter-231-ice-in-the-jungle",
   title: "Chapter 231: Ice In The Jungle",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 263,
   ownLength: 2311,
   ownProgress: 2311,

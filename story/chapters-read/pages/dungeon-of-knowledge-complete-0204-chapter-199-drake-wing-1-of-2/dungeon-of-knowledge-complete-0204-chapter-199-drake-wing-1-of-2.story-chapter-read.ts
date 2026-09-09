@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0204Chapter199DrakeWing1Of2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0204-chapter-199-drake-wing-1-of-2",
   title: "Chapter 199: Drake Wing (1 of 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 204,
   ownLength: 2975,
   ownProgress: 2975,

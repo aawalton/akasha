@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0399Chapter362JewelryIsADungeonSBestFrien
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0399-chapter-362-jewelry-is-a-dungeon-s-best-friend",
   title: "Chapter 362: Jewelry is a Dungeon’s Best Friend",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 399,
   ownLength: 2250,
   ownProgress: 2250,

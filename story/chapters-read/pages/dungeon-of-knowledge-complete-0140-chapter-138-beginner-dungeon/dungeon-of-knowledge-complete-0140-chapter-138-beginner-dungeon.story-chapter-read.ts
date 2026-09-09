@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0140Chapter138BeginnerDungeon = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0140-chapter-138-beginner-dungeon",
   title: "Chapter 138: Beginner Dungeon",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 140,
   ownLength: 6156,
   ownProgress: 6156,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0335Chapter299TheMonkSPath = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0335-chapter-299-the-monk-s-path",
   title: "Chapter 299: The Monk’s Path",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 335,
   ownLength: 2417,
   ownProgress: 2417,

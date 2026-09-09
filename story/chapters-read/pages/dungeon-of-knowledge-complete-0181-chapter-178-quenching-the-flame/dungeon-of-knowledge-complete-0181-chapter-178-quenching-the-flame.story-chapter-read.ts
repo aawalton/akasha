@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0181Chapter178QuenchingTheFlame = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0181-chapter-178-quenching-the-flame",
   title: "Chapter 178: Quenching the Flame",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 181,
   ownLength: 4988,
   ownProgress: 4988,

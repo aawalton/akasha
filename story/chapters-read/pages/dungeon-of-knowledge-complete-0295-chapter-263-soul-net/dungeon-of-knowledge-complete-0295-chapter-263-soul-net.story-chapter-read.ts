@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0295Chapter263SoulNet = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0295-chapter-263-soul-net",
   title: "Chapter 263: Soul Net",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 295,
   ownLength: 2923,
   ownProgress: 2923,

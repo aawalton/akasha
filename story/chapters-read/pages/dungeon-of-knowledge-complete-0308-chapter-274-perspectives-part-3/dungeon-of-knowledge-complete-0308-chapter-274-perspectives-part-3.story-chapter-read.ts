@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0308Chapter274PerspectivesPart3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0308-chapter-274-perspectives-part-3",
   title: "Chapter 274: Perspectives (Part 3)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 308,
   ownLength: 2654,
   ownProgress: 2654,

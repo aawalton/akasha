@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0355Chapter318AnAncientArt = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0355-chapter-318-an-ancient-art",
   title: "Chapter 318: An Ancient Art",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 355,
   ownLength: 2443,
   ownProgress: 2443,

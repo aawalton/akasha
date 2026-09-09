@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0197Chapter194DinnerAndGuests1Of2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0197-chapter-194-dinner-and-guests-1-of-2",
   title: "Chapter 194: Dinner and Guests (1 of 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 197,
   ownLength: 3748,
   ownProgress: 3748,

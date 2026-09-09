@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0193Chapter190FlameCurses = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0193-chapter-190-flame-curses",
   title: "Chapter 190: Flame Curses",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 193,
   ownLength: 4430,
   ownProgress: 4430,

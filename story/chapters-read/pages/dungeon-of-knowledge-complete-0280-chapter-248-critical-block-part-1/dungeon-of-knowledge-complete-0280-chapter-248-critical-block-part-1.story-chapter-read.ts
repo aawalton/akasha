@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0280Chapter248CriticalBlockPart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0280-chapter-248-critical-block-part-1",
   title: "Chapter 248: Critical Block (Part 1)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 280,
   ownLength: 2652,
   ownProgress: 2652,

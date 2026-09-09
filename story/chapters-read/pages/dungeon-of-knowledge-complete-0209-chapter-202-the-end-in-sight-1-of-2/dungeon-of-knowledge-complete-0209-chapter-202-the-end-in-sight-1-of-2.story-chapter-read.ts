@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0209Chapter202TheEndInSight1Of2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0209-chapter-202-the-end-in-sight-1-of-2",
   title: "Chapter 202: The End in Sight (1 of 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 209,
   ownLength: 2312,
   ownProgress: 2312,

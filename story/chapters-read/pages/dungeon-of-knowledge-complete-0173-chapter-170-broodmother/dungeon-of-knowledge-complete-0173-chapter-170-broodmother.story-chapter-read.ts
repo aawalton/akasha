@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0173Chapter170Broodmother = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0173-chapter-170-broodmother",
   title: "Chapter 170: Broodmother",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 173,
   ownLength: 5628,
   ownProgress: 5628,

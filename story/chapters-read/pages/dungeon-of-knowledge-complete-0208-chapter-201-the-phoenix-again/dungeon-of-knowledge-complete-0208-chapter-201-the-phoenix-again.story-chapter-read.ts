@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0208Chapter201ThePhoenixAgain = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0208-chapter-201-the-phoenix-again",
   title: "Chapter 201: The Phoenix, Again",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 208,
   ownLength: 3984,
   ownProgress: 3984,

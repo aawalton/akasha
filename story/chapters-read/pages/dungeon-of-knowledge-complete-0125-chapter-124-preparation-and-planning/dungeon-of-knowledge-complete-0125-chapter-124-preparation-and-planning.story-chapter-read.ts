@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0125Chapter124PreparationAndPlanning = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0125-chapter-124-preparation-and-planning",
   title: "Chapter 124: Preparation and Planning",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 125,
   ownLength: 4204,
   ownProgress: 4204,

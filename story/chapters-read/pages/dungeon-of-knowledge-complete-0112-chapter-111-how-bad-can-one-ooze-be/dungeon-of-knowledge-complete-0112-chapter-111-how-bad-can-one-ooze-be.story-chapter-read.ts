@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0112Chapter111HowBadCanOneOozeBe = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0112-chapter-111-how-bad-can-one-ooze-be",
   title: "Chapter 111: How Bad Can One Ooze Be?",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 112,
   ownLength: 4200,
   ownProgress: 4200,

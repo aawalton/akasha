@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0356Chapter319ADisturbingRevelation = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0356-chapter-319-a-disturbing-revelation",
   title: "Chapter 319: A Disturbing Revelation",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 356,
   ownLength: 2550,
   ownProgress: 2550,

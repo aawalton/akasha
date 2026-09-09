@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0301MapNewDaria = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0301-map-new-daria",
   title: "Map: New Daria",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 301,
   ownLength: 60,
   ownProgress: 60,

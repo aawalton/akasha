@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0332Chapter297TheBranchingPathsOfTheDruid
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0332-chapter-297-the-branching-paths-of-the-druid",
   title: "Chapter 297: The Branching Paths of the Druid",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 332,
   ownLength: 3168,
   ownProgress: 3168,

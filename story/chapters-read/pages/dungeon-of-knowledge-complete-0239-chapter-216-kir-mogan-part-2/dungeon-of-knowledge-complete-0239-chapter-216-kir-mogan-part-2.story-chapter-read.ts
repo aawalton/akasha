@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0239Chapter216KirMoganPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0239-chapter-216-kir-mogan-part-2",
   title: "Chapter 216: Kir’mogan (Part 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 239,
   ownLength: 2147,
   ownProgress: 2147,

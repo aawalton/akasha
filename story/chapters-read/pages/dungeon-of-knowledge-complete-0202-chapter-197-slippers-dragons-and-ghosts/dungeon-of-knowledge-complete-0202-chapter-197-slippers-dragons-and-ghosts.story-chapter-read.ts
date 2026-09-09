@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0202Chapter197SlippersDragonsAndGhosts = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0202-chapter-197-slippers-dragons-and-ghosts",
   title: "Chapter 197: Slippers, Dragons, and Ghosts",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 202,
   ownLength: 4996,
   ownProgress: 4996,

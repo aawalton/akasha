@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0095Chapter94BattleOfTheSteamVents = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0095-chapter-94-battle-of-the-steam-vents",
   title: "Chapter 94: Battle of the Steam Vents",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 95,
   ownLength: 4419,
   ownProgress: 4419,

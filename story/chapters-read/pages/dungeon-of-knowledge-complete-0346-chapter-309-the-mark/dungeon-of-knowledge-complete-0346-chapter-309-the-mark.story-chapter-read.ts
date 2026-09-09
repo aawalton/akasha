@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0346Chapter309TheMark = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0346-chapter-309-the-mark",
   title: "Chapter 309: The Mark",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 346,
   ownLength: 1495,
   ownProgress: 1495,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0349Chapter312LoomingVengeance = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0349-chapter-312-looming-vengeance",
   title: "Chapter 312: Looming Vengeance",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 349,
   ownLength: 2041,
   ownProgress: 2041,

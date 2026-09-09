@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0311Chapter277ThePathfinderSReport = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0311-chapter-277-the-pathfinder-s-report",
   title: "Chapter 277: The Pathfinder’s Report",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 311,
   ownLength: 1736,
   ownProgress: 1736,

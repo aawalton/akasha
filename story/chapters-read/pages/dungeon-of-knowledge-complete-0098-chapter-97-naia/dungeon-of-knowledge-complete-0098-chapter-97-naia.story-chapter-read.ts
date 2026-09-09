@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0098Chapter97Naia = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0098-chapter-97-naia",
   title: "Chapter 97: Naia",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 98,
   ownLength: 3434,
   ownProgress: 3434,

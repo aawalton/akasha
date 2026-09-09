@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0196Chapter193RealmBreak = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0196-chapter-193-realm-break",
   title: "Chapter 193: Realm Break",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 196,
   ownLength: 5245,
   ownProgress: 5245,

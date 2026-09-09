@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0146Chapter144TrapsAndTriggers = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0146-chapter-144-traps-and-triggers",
   title: "Chapter 144: Traps and Triggers",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 146,
   ownLength: 6629,
   ownProgress: 6629,

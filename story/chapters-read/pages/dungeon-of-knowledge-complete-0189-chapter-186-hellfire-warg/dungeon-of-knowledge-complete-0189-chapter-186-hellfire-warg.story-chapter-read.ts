@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0189Chapter186HellfireWarg = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0189-chapter-186-hellfire-warg",
   title: "Chapter 186: Hellfire Warg",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 189,
   ownLength: 5458,
   ownProgress: 5458,

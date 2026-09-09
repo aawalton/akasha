@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0267Chapter235DoesItHaveToBeFire = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0267-chapter-235-does-it-have-to-be-fire",
   title: "Chapter 235: Does It Have To Be Fire?",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 267,
   ownLength: 2647,
   ownProgress: 2647,

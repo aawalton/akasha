@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0233Chapter213BonePart3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0233-chapter-213-bone-part-3",
   title: "Chapter 213: Bone (Part 3)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 233,
   ownLength: 2074,
   ownProgress: 2074,

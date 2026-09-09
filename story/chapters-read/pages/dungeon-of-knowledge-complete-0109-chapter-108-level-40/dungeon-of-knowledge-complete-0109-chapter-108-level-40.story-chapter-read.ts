@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0109Chapter108Level40 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0109-chapter-108-level-40",
   title: "Chapter 108: Level 40",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 109,
   ownLength: 4546,
   ownProgress: 4546,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0155Chapter152DeathSUnyieldingGrasp = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0155-chapter-152-death-s-unyielding-grasp",
   title: "Chapter 152: Death’s Unyielding Grasp",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 155,
   ownLength: 3389,
   ownProgress: 3389,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0128Chapter126TheTreeSBalance = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0128-chapter-126-the-tree-s-balance",
   title: "Chapter 126: The Tree’s Balance",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 128,
   ownLength: 4505,
   ownProgress: 4505,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0152Chapter149TheFirstBoss = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0152-chapter-149-the-first-boss",
   title: "Chapter 149: The First Boss",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 152,
   ownLength: 5335,
   ownProgress: 5335,

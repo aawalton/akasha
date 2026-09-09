@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0089Chapter89LifeDrain = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0089-chapter-89-life-drain",
   title: "Chapter 89: Life Drain",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 89,
   ownLength: 4152,
   ownProgress: 4152,

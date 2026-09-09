@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0097Chapter96AConversationWithADungeon = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0097-chapter-96-a-conversation-with-a-dungeon",
   title: "Chapter 96: A Conversation with a Dungeon",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 97,
   ownLength: 3580,
   ownProgress: 3580,

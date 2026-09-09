@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0283Chapter251TheSpecterOfAGuardian = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0283-chapter-251-the-specter-of-a-guardian",
   title: "Chapter 251: The Specter of a Guardian",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 283,
   ownLength: 2030,
   ownProgress: 2030,

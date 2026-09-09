@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0361Chapter324TeharissaEvensong = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0361-chapter-324-teharissa-evensong",
   title: "Chapter 324: Teharissa Evensong",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 361,
   ownLength: 1507,
   ownProgress: 1507,

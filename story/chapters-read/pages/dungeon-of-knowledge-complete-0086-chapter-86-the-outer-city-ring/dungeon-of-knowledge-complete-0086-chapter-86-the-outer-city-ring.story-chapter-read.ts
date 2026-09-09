@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0086Chapter86TheOuterCityRing = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0086-chapter-86-the-outer-city-ring",
   title: "Chapter 86: The Outer City Ring",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 86,
   ownLength: 3993,
   ownProgress: 3993,

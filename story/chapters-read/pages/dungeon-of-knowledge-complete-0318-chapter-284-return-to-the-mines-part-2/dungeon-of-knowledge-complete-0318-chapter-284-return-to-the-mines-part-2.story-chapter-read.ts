@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0318Chapter284ReturnToTheMinesPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0318-chapter-284-return-to-the-mines-part-2",
   title: "Chapter 284: Return to the Mines (Part 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 318,
   ownLength: 2259,
   ownProgress: 2259,

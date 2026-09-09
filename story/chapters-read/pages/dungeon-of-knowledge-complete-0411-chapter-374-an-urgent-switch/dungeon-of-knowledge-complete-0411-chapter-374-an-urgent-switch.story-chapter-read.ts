@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0411Chapter374AnUrgentSwitch = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0411-chapter-374-an-urgent-switch",
   title: "Chapter 374: An Urgent Switch",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 411,
   ownLength: 2234,
   ownProgress: 2234,

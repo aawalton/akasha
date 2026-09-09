@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0078Chapter78SilverRank = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0078-chapter-78-silver-rank",
   title: "Chapter 78: Silver Rank",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 78,
   ownLength: 5178,
   ownProgress: 5178,

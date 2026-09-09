@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0161Chapter158NegotiationsWithTheGuild = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0161-chapter-158-negotiations-with-the-guild",
   title: "Chapter 158: Negotiations with the Guild",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 161,
   ownLength: 5018,
   ownProgress: 5018,

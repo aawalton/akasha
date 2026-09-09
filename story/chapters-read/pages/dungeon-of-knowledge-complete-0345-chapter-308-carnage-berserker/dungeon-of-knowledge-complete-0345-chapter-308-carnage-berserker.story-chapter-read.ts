@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0345Chapter308CarnageBerserker = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0345-chapter-308-carnage-berserker",
   title: "Chapter 308: Carnage Berserker",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 345,
   ownLength: 3400,
   ownProgress: 3400,

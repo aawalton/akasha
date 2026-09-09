@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0150MapMyrinSKeepNightTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0150-map-myrin-s-keep-night-time",
   title: "Map: Myrin's Keep - Night Time",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 150,
   ownLength: 67,
   ownProgress: 67,

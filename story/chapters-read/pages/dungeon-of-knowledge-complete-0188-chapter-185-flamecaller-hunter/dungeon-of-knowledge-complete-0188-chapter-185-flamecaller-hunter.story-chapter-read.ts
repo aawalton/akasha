@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0188Chapter185FlamecallerHunter = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0188-chapter-185-flamecaller-hunter",
   title: "Chapter 185: Flamecaller Hunter",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 188,
   ownLength: 3417,
   ownProgress: 3417,

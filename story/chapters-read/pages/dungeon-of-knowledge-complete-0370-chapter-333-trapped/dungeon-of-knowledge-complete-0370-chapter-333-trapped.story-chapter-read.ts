@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0370Chapter333Trapped = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0370-chapter-333-trapped",
   title: "Chapter 333: Trapped",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 370,
   ownLength: 1970,
   ownProgress: 1970,

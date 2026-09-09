@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0246Chapter219BloodShamanPart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0246-chapter-219-blood-shaman-part-1",
   title: "Chapter 219: Blood Shaman (Part 1)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 246,
   ownLength: 2579,
   ownProgress: 2579,

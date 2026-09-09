@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0213Chapter204DungeonsKill2Of2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0213-chapter-204-dungeons-kill-2-of-2",
   title: "Chapter 204: Dungeons Kill (2 of 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 213,
   ownLength: 1631,
   ownProgress: 1631,

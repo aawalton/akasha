@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0156Chapter153TheForgingOfARaidTeam = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0156-chapter-153-the-forging-of-a-raid-team",
   title: "Chapter 153: The Forging of a Raid Team",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 156,
   ownLength: 5724,
   ownProgress: 5724,

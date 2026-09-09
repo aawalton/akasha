@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0191Chapter188Gold = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0191-chapter-188-gold",
   title: "Chapter 188: Gold",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 191,
   ownLength: 6512,
   ownProgress: 6512,

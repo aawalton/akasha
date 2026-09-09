@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0082Chapter82RunningBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0082-chapter-82-running-battle",
   title: "Chapter 82: Running Battle",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 82,
   ownLength: 3637,
   ownProgress: 3637,

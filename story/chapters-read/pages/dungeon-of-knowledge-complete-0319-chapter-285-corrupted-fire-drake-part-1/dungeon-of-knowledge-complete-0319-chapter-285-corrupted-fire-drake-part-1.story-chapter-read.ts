@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0319Chapter285CorruptedFireDrakePart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0319-chapter-285-corrupted-fire-drake-part-1",
   title: "Chapter 285: Corrupted Fire Drake (Part 1)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 319,
   ownLength: 2126,
   ownProgress: 2126,

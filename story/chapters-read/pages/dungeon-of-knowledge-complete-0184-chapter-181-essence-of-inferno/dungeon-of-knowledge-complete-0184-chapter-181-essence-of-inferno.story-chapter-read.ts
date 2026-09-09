@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0184Chapter181EssenceOfInferno = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0184-chapter-181-essence-of-inferno",
   title: "Chapter 181: Essence of Inferno",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 184,
   ownLength: 5271,
   ownProgress: 5271,

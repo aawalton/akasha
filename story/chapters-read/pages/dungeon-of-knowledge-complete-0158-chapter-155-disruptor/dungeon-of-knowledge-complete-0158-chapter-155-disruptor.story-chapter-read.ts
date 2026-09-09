@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0158Chapter155Disruptor = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0158-chapter-155-disruptor",
   title: "Chapter 155: Disruptor",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 158,
   ownLength: 5888,
   ownProgress: 5888,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0408Chapter371TheBattleForLytonRuinsPart3
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0408-chapter-371-the-battle-for-lyton-ruins-part-3",
   title: "Chapter 371: The Battle for Lyton Ruins (Part 3)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 408,
   ownLength: 2622,
   ownProgress: 2622,

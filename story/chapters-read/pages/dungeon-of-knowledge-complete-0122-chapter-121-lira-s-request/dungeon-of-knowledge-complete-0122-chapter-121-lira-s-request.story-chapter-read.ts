@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0122Chapter121LiraSRequest = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0122-chapter-121-lira-s-request",
   title: "Chapter 121: Lira’s Request",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 122,
   ownLength: 6798,
   ownProgress: 6798,

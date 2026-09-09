@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0276Chapter244WinterSDesolateCelerity = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0276-chapter-244-winter-s-desolate-celerity",
   title: "Chapter 244: Winter’s Desolate Celerity",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 276,
   ownLength: 2755,
   ownProgress: 2755,

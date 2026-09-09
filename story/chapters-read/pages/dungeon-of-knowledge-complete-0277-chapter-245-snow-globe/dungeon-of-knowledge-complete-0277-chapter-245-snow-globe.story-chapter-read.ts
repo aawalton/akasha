@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0277Chapter245SnowGlobe = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0277-chapter-245-snow-globe",
   title: "Chapter 245: Snow Globe",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 277,
   ownLength: 2225,
   ownProgress: 2225,

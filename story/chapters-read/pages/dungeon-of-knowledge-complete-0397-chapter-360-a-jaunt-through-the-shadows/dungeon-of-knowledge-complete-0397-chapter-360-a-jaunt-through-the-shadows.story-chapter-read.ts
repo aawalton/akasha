@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0397Chapter360AJauntThroughTheShadows = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0397-chapter-360-a-jaunt-through-the-shadows",
   title: "Chapter 360: A Jaunt Through the Shadows",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 397,
   ownLength: 2990,
   ownProgress: 2990,

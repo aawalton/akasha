@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0322Chapter288AnEncounterWithSilverCogTra
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0322-chapter-288-an-encounter-with-silver-cog-trading",
   title: "Chapter 288: An Encounter with Silver Cog Trading",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 322,
   ownLength: 4005,
   ownProgress: 4005,

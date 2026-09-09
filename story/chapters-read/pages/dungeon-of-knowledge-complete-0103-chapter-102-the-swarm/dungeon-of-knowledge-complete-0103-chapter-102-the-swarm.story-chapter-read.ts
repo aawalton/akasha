@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0103Chapter102TheSwarm = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0103-chapter-102-the-swarm",
   title: "Chapter 102: The Swarm",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 103,
   ownLength: 5043,
   ownProgress: 5043,

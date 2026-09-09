@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0357Chapter320RallyingTheGuild = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0357-chapter-320-rallying-the-guild",
   title: "Chapter 320: Rallying the Guild",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 357,
   ownLength: 4670,
   ownProgress: 4670,

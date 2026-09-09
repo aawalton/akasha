@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0163Chapter160TheClassShrine = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0163-chapter-160-the-class-shrine",
   title: "Chapter 160: The Class Shrine",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 163,
   ownLength: 4885,
   ownProgress: 4885,

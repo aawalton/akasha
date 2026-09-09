@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0256Chapter224KirVellaPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0256-chapter-224-kir-vella-part-2",
   title: "Chapter 224: Kir’vella (Part 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 256,
   ownLength: 3154,
   ownProgress: 3154,

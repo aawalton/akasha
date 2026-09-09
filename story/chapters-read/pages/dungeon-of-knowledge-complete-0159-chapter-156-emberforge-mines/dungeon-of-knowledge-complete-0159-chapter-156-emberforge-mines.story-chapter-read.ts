@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0159Chapter156EmberforgeMines = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0159-chapter-156-emberforge-mines",
   title: "Chapter 156: Emberforge Mines",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 159,
   ownLength: 6658,
   ownProgress: 6658,

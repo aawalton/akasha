@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0390Chapter353LibraryDivination = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0390-chapter-353-library-divination",
   title: "Chapter 353: Library Divination",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 390,
   ownLength: 1917,
   ownProgress: 1917,

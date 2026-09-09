@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0179Chapter176FiguringOutAStrategy = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0179-chapter-176-figuring-out-a-strategy",
   title: "Chapter 176: Figuring out a Strategy",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 179,
   ownLength: 6327,
   ownProgress: 6327,

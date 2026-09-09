@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0337Chapter3005MalikaStatusSheet = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0337-chapter-300-5-malika-status-sheet",
   title: "Chapter 300.5: Malika - Status Sheet ",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 337,
   ownLength: 970,
   ownProgress: 970,

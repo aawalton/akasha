@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0396Chapter359GuildPlans = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0396-chapter-359-guild-plans",
   title: "Chapter 359: Guild Plans",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 396,
   ownLength: 2769,
   ownProgress: 2769,

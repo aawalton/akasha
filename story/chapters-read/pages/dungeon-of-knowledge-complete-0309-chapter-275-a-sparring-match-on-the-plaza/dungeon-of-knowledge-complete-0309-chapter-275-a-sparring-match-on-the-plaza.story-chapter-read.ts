@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0309Chapter275ASparringMatchOnThePlaza = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0309-chapter-275-a-sparring-match-on-the-plaza",
   title: "Chapter 275: A Sparring Match on the Plaza",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 309,
   ownLength: 1970,
   ownProgress: 1970,

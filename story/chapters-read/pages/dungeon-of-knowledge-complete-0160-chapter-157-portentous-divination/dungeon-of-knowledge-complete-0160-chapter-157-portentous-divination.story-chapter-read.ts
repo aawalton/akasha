@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0160Chapter157PortentousDivination = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0160-chapter-157-portentous-divination",
   title: "Chapter 157: Portentous Divination",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 160,
   ownLength: 5449,
   ownProgress: 5449,

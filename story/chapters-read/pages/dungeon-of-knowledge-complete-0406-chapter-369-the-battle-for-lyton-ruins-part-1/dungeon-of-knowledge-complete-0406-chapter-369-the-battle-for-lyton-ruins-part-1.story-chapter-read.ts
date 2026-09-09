@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0406Chapter369TheBattleForLytonRuinsPart1
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0406-chapter-369-the-battle-for-lyton-ruins-part-1",
   title: "Chapter 369: The Battle for Lyton Ruins (Part 1)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 406,
   ownLength: 2067,
   ownProgress: 2067,

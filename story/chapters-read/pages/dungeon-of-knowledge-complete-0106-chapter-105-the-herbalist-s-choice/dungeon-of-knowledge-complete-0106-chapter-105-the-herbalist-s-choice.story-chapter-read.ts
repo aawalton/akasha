@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0106Chapter105TheHerbalistSChoice = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0106-chapter-105-the-herbalist-s-choice",
   title: "Chapter 105: The Herbalist’s Choice",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 106,
   ownLength: 5550,
   ownProgress: 5550,

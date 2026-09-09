@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0268Chapter236ASpecterOfAmanRak = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0268-chapter-236-a-specter-of-aman-rak",
   title: "Chapter 236: A Specter of Aman Rak",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 268,
   ownLength: 1984,
   ownProgress: 1984,

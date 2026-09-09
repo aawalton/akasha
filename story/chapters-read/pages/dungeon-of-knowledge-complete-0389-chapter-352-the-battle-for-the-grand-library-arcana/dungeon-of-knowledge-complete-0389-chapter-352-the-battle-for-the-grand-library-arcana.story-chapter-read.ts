@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0389Chapter352TheBattleForTheGrandLibrary
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0389-chapter-352-the-battle-for-the-grand-library-arcana",
   title: "Chapter 352: The Battle for the Grand Library Arcana",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 389,
   ownLength: 2479,
   ownProgress: 2479,

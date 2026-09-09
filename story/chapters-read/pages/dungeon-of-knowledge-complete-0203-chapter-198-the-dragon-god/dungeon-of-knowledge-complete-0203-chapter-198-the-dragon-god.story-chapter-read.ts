@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0203Chapter198TheDragonGod = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0203-chapter-198-the-dragon-god",
   title: "Chapter 198: The Dragon God",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 203,
   ownLength: 4956,
   ownProgress: 4956,

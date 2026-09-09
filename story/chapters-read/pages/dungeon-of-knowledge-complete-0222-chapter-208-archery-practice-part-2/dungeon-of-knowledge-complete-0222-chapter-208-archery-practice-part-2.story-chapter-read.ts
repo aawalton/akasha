@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0222Chapter208ArcheryPracticePart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0222-chapter-208-archery-practice-part-2",
   title: "Chapter 208: Archery Practice (Part 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 222,
   ownLength: 2400,
   ownProgress: 2400,

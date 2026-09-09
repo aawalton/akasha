@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0195Chapter192PredatorAndPrey = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0195-chapter-192-predator-and-prey",
   title: "Chapter 192: Predator and Prey",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 195,
   ownLength: 7024,
   ownProgress: 7024,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0123Chapter122ElderTree = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0123-chapter-122-elder-tree",
   title: "Chapter 122: Elder Tree",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 123,
   ownLength: 4955,
   ownProgress: 4955,

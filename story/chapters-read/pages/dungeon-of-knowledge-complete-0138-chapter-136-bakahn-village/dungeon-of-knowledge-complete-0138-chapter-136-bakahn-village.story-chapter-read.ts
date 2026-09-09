@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0138Chapter136BakahnVillage = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0138-chapter-136-bakahn-village",
   title: "Chapter 136: Bakahn Village",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 138,
   ownLength: 6091,
   ownProgress: 6091,

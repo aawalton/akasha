@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0117Chapter116TheBurningOfTheGrove = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0117-chapter-116-the-burning-of-the-grove",
   title: "Chapter 116: The Burning of the Grove",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 117,
   ownLength: 3935,
   ownProgress: 3935,

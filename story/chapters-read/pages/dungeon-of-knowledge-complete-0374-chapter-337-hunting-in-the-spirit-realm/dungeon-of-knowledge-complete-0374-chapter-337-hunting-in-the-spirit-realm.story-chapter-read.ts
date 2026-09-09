@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0374Chapter337HuntingInTheSpiritRealm = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0374-chapter-337-hunting-in-the-spirit-realm",
   title: "Chapter 337: Hunting in the Spirit Realm",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 374,
   ownLength: 4259,
   ownProgress: 4259,

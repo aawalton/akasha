@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0383Chapter346BreakingAndEntering = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0383-chapter-346-breaking-and-entering",
   title: "Chapter 346: Breaking and Entering",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 383,
   ownLength: 3075,
   ownProgress: 3075,

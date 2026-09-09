@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0149Chapter147ANecromancerSValue = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0149-chapter-147-a-necromancer-s-value",
   title: "Chapter 147: A Necromancer’s Value",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 149,
   ownLength: 3540,
   ownProgress: 3540,

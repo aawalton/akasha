@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0194Chapter191DemonHunter = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0194-chapter-191-demon-hunter",
   title: "Chapter 191: Demon Hunter",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 194,
   ownLength: 6085,
   ownProgress: 6085,

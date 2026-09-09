@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0151Chapter148ForbiddenKnowledge = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0151-chapter-148-forbidden-knowledge",
   title: "Chapter 148: Forbidden Knowledge",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 151,
   ownLength: 4412,
   ownProgress: 4412,

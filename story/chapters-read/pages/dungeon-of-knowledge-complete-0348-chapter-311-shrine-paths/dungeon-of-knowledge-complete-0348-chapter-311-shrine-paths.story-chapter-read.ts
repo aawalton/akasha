@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0348Chapter311ShrinePaths = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0348-chapter-311-shrine-paths",
   title: "Chapter 311: Shrine Paths",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 348,
   ownLength: 3243,
   ownProgress: 3243,

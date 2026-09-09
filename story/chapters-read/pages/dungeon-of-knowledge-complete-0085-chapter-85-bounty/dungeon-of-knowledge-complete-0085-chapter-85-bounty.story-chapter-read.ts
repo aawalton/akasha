@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0085Chapter85Bounty = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0085-chapter-85-bounty",
   title: "Chapter 85: Bounty",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 85,
   ownLength: 4486,
   ownProgress: 4486,

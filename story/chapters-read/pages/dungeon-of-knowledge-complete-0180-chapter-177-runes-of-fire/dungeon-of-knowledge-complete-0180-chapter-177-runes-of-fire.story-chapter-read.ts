@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0180Chapter177RunesOfFire = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0180-chapter-177-runes-of-fire",
   title: "Chapter 177: Runes of Fire",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 180,
   ownLength: 4225,
   ownProgress: 4225,

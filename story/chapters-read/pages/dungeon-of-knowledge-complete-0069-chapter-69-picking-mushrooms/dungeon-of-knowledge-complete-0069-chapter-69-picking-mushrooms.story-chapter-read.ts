@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0069Chapter69PickingMushrooms = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0069-chapter-69-picking-mushrooms",
   title: "Chapter 69: Picking Mushrooms",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 69,
   ownLength: 4604,
   ownProgress: 4604,

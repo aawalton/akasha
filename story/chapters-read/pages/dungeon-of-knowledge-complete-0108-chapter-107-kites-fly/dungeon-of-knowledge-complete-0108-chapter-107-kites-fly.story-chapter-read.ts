@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0108Chapter107KitesFly = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0108-chapter-107-kites-fly",
   title: "Chapter 107: Kites Fly",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 108,
   ownLength: 6438,
   ownProgress: 6438,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0115Chapter114TheDefianceOfTheLowly = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0115-chapter-114-the-defiance-of-the-lowly",
   title: "Chapter 114: The Defiance of the Lowly",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 115,
   ownLength: 3094,
   ownProgress: 3094,

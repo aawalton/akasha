@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0077Chapter77AerialBattle = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0077-chapter-77-aerial-battle",
   title: "Chapter 77: Aerial Battle",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 77,
   ownLength: 3266,
   ownProgress: 3266,

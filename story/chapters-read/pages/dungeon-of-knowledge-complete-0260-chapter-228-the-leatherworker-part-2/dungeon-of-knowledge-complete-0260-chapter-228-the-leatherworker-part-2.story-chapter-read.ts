@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0260Chapter228TheLeatherworkerPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0260-chapter-228-the-leatherworker-part-2",
   title: "Chapter 228: The Leatherworker (Part 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 260,
   ownLength: 2931,
   ownProgress: 2931,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0403Chapter366SixfoldStrike = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0403-chapter-366-sixfold-strike",
   title: "Chapter 366: Sixfold Strike",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 403,
   ownLength: 2206,
   ownProgress: 2206,

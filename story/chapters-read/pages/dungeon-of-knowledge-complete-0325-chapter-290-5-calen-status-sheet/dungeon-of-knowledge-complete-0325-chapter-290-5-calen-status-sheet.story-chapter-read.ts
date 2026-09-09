@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0325Chapter2905CalenStatusSheet = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0325-chapter-290-5-calen-status-sheet",
   title: "Chapter 290.5: Calen - Status Sheet",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 325,
   ownLength: 1279,
   ownProgress: 1279,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0303Chapter270Ego = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0303-chapter-270-ego",
   title: "Chapter 270: Ego",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 303,
   ownLength: 2450,
   ownProgress: 2450,

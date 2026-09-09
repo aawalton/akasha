@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0412Chapter375AllGoldRaidPart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0412-chapter-375-all-gold-raid-part-1",
   title: "Chapter 375: All Gold Raid (Part 1)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 412,
   ownLength: 2464,
   ownProgress: 2464,

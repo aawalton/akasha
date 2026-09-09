@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0121Chapter120TheAftermath = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0121-chapter-120-the-aftermath",
   title: "Chapter 120: The Aftermath",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 121,
   ownLength: 5001,
   ownProgress: 5001,

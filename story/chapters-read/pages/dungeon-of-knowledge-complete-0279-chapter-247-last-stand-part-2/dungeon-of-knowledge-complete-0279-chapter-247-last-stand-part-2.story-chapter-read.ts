@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0279Chapter247LastStandPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0279-chapter-247-last-stand-part-2",
   title: "Chapter 247: Last Stand (Part 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 279,
   ownLength: 1801,
   ownProgress: 1801,

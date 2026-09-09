@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0341Chapter304TheArchmageSChoice = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0341-chapter-304-the-archmage-s-choice",
   title: "Chapter 304: The Archmage’s Choice",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 341,
   ownLength: 4396,
   ownProgress: 4396,

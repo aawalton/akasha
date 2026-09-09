@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0068Chapter68TeaWithLydia = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0068-chapter-68-tea-with-lydia",
   title: "Chapter 68: Tea with Lydia",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 68,
   ownLength: 4391,
   ownProgress: 4391,

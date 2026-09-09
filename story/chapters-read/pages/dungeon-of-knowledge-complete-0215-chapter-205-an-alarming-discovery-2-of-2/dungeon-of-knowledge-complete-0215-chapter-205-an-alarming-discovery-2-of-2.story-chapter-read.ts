@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0215Chapter205AnAlarmingDiscovery2Of2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0215-chapter-205-an-alarming-discovery-2-of-2",
   title: "Chapter 205: An Alarming Discovery (2 of 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 215,
   ownLength: 2127,
   ownProgress: 2127,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0154Chapter151PugFail = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0154-chapter-151-pug-fail",
   title: "Chapter 151: PUG Fail",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 154,
   ownLength: 4136,
   ownProgress: 4136,

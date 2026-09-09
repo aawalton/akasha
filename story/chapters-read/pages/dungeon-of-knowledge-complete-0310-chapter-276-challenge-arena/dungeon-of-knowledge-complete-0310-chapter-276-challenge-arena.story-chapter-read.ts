@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0310Chapter276ChallengeArena = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0310-chapter-276-challenge-arena",
   title: "Chapter 276: Challenge Arena",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 310,
   ownLength: 2111,
   ownProgress: 2111,

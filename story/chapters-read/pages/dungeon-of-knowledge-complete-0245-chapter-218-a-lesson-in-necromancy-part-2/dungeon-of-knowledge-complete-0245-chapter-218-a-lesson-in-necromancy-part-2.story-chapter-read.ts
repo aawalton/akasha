@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0245Chapter218ALessonInNecromancyPart2 = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0245-chapter-218-a-lesson-in-necromancy-part-2",
   title: "Chapter 218: A Lesson in Necromancy (Part 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 245,
   ownLength: 3561,
   ownProgress: 3561,

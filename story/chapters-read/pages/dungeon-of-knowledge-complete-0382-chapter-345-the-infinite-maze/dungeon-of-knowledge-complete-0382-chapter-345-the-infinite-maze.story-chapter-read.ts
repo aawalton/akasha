@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0382Chapter345TheInfiniteMaze = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0382-chapter-345-the-infinite-maze",
   title: "Chapter 345: The Infinite Maze",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 382,
   ownLength: 2910,
   ownProgress: 2910,

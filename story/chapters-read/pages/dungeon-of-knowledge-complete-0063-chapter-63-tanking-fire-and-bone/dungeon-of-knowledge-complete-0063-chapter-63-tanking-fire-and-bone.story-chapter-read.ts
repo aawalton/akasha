@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0063Chapter63TankingFireAndBone = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0063-chapter-63-tanking-fire-and-bone",
   title: "Chapter 63: Tanking Fire and Bone",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 63,
   ownLength: 3140,
   ownProgress: 3140,

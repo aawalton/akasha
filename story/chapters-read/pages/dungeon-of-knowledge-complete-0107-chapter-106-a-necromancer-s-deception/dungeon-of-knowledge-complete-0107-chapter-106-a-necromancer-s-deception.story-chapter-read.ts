@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0107Chapter106ANecromancerSDeception = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0107-chapter-106-a-necromancer-s-deception",
   title: "Chapter 106: A Necromancer’s Deception",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 107,
   ownLength: 3319,
   ownProgress: 3319,

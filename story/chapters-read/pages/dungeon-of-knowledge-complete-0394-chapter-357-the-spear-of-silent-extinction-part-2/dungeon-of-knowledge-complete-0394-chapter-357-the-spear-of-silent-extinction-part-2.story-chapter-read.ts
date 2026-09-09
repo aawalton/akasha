@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0394Chapter357TheSpearOfSilentExtinctionP
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0394-chapter-357-the-spear-of-silent-extinction-part-2",
   title: "Chapter 357: The Spear of Silent Extinction (Part 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 394,
   ownLength: 3887,
   ownProgress: 3887,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0372Chapter335CurseProliferation = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0372-chapter-335-curse-proliferation",
   title: "Chapter 335: Curse Proliferation",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 372,
   ownLength: 1403,
   ownProgress: 1403,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0364Chapter327PlagueGhoul = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0364-chapter-327-plague-ghoul",
   title: "Chapter 327: Plague Ghoul",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 364,
   ownLength: 2903,
   ownProgress: 2903,

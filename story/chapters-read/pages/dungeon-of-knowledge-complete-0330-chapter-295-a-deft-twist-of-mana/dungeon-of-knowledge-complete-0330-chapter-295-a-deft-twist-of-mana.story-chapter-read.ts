@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0330Chapter295ADeftTwistOfMana = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0330-chapter-295-a-deft-twist-of-mana",
   title: "Chapter 295: A Deft Twist of Mana",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 330,
   ownLength: 2323,
   ownProgress: 2323,

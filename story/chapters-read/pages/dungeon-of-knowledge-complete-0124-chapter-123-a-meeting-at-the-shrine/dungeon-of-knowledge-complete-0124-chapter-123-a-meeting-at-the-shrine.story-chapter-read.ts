@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0124Chapter123AMeetingAtTheShrine = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0124-chapter-123-a-meeting-at-the-shrine",
   title: "Chapter 123: A Meeting at the Shrine",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 124,
   ownLength: 4161,
   ownProgress: 4161,

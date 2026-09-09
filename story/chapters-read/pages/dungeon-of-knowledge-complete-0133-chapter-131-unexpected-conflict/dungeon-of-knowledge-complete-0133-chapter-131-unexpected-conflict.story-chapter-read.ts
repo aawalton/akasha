@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0133Chapter131UnexpectedConflict = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0133-chapter-131-unexpected-conflict",
   title: "Chapter 131: Unexpected Conflict",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 133,
   ownLength: 7072,
   ownProgress: 7072,

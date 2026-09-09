@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0328Chapter293ADiscoveryOfSignificance = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0328-chapter-293-a-discovery-of-significance",
   title: "Chapter 293: A Discovery of Significance",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 328,
   ownLength: 2516,
   ownProgress: 2516,

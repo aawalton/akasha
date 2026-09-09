@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0367Chapter330HeroesOfTheCrimsonBladePart
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0367-chapter-330-heroes-of-the-crimson-blade-part-1",
   title: "Chapter 330: Heroes of the Crimson Blade (Part 1)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 367,
   ownLength: 2193,
   ownProgress: 2193,

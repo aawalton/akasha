@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0131Chapter129Necromancer = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0131-chapter-129-necromancer",
   title: "Chapter 129: Necromancer",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 131,
   ownLength: 4370,
   ownProgress: 4370,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0294Chapter262TradeWinds = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0294-chapter-262-trade-winds",
   title: "Chapter 262: Trade Winds",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 294,
   ownLength: 1454,
   ownProgress: 1454,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0286Chapter254JoraaTheBetrayerPart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0286-chapter-254-joraa-the-betrayer-part-1",
   title: "Chapter 254: Joraa, The Betrayer (Part 1)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 286,
   ownLength: 2840,
   ownProgress: 2840,

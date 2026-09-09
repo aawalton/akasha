@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0153Chapter150ANameAndAQuest = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0153-chapter-150-a-name-and-a-quest",
   title: "Chapter 150: A Name and a Quest",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 153,
   ownLength: 4269,
   ownProgress: 4269,

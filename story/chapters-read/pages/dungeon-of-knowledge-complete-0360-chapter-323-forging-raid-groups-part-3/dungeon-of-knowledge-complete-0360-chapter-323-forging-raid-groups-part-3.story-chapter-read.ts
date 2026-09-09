@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0360Chapter323ForgingRaidGroupsPart3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0360-chapter-323-forging-raid-groups-part-3",
   title: "Chapter 323: Forging Raid Groups (Part 3)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 360,
   ownLength: 1451,
   ownProgress: 1451,

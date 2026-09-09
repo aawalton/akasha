@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0076Chapter76RuinsOfDalMohraSuspendedCity
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0076-chapter-76-ruins-of-dal-mohra-suspended-city",
   title: "Chapter 76: Ruins of Dal’mohra: Suspended City",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 76,
   ownLength: 3227,
   ownProgress: 3227,

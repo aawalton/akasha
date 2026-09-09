@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0147Chapter145FromTheBrinkOfDeath = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0147-chapter-145-from-the-brink-of-death",
   title: "Chapter 145: From the Brink of Death",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 147,
   ownLength: 5319,
   ownProgress: 5319,

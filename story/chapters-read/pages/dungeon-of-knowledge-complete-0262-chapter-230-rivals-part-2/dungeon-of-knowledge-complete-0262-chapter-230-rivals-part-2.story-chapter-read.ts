@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0262Chapter230RivalsPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0262-chapter-230-rivals-part-2",
   title: "Chapter 230: Rivals (Part 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 262,
   ownLength: 2132,
   ownProgress: 2132,

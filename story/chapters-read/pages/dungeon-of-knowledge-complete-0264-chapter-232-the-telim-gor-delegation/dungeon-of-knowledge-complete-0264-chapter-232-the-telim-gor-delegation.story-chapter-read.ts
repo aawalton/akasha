@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0264Chapter232TheTelimGorDelegation = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0264-chapter-232-the-telim-gor-delegation",
   title: "Chapter 232: The Telim Gor Delegation",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 264,
   ownLength: 3092,
   ownProgress: 3092,

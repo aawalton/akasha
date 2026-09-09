@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0314Chapter280TheCraftersConundrum = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0314-chapter-280-the-crafters-conundrum",
   title: "Chapter 280: The Crafters’ Conundrum",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 314,
   ownLength: 1554,
   ownProgress: 1554,

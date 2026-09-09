@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0371Chapter334AnUndergroundEarthquake = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0371-chapter-334-an-underground-earthquake",
   title: "Chapter 334: An Underground Earthquake",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 371,
   ownLength: 1855,
   ownProgress: 1855,

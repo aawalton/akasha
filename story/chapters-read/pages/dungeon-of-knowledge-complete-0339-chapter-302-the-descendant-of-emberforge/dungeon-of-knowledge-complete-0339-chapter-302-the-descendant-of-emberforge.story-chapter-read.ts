@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0339Chapter302TheDescendantOfEmberforge =
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0339-chapter-302-the-descendant-of-emberforge",
   title: "Chapter 302: The Descendant of Emberforge",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 339,
   ownLength: 2385,
   ownProgress: 2385,

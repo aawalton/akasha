@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0114Chapter113MinionStudies = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0114-chapter-113-minion-studies",
   title: "Chapter 113: Minion Studies",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 114,
   ownLength: 5271,
   ownProgress: 5271,

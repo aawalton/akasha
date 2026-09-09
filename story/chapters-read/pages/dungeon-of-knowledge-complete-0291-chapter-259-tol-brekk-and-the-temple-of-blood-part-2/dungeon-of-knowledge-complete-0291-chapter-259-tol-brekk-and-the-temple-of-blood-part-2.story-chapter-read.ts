@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0291Chapter259TolBrekkAndTheTempleOfBlood
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0291-chapter-259-tol-brekk-and-the-temple-of-blood-part-2",
   title: "Chapter 259: Tol’brekk and the Temple of Blood (Part 2)",
-  storySlug: "dungeon-of-knowledge-complete",
+  story: "dungeon-of-knowledge-complete",
   position: 291,
   ownLength: 3390,
   ownProgress: 3390,
