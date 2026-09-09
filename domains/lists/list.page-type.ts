@@ -1,9 +1,9 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Members } from "./properties/members.record-property.ts"
+import type { ListMembers } from "./properties/list-members.record-property.ts"
 
 export type List = Domain & {
-  members: Members
+  members: ListMembers
 }
 
 export const list = {
@@ -13,9 +13,14 @@ export const list = {
   definition: "a domain whose subject is a set, its members named and glossed",
   pluralSlug: "lists",
   extends: ["page-type/domain"],
-  parts: ["record-property/members", "text-property/member-name"],
+  parts: ["record-property/list-members", "text-property/member-name"],
   properties: [
-    { pagePropertySlug: "record-property/members", required: true, many: true, maxCount: null },
+    {
+      pagePropertySlug: "record-property/list-members",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
   ],
   invariants: [
     {

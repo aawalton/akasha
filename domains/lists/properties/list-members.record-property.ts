@@ -8,12 +8,12 @@ export type Member = {
   definition: Definition
 }
 
-export type Members = List<Member>
+export type ListMembers = List<Member>
 
-export const members = {
+export const listMembers = {
   id: "01a06838-7a9e-7730-9e7f-e9d9393fe6ad",
   pageTypeSlug: "record-property",
-  slug: "members",
+  slug: "list-members",
   propertySlug: "members",
   definition: "the things a list's subject is a set of, each with its gloss",
   properties: [
