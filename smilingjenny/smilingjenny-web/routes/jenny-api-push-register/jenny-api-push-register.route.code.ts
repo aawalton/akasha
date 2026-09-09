@@ -1,15 +1,14 @@
 import { registerDeviceToken } from "@akasha/persons/device-token"
 import { SMILINGJENNY_PUSH_APP } from "@akasha/persons/push-apps"
 import { z } from "zod"
-import { requireApiJenny } from "../.server/jenny-session/jenny-session.module.code.ts"
-import type { Route } from "./+types/api.push.register"
+import { requireApiJenny } from "../../.server/jenny-session/jenny-session.module.code.ts"
 
 const RegisterBody = z.object({
   deviceToken: z.string().min(1).max(512),
   platform: z.literal("ios"),
 })
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   await requireApiJenny(request)
 
   let body: unknown
