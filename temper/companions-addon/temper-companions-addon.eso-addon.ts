@@ -55,6 +55,7 @@ export const temperCompanionsAddon = {
     "module/companions-skills-panel",
     "module/companions-equipment-match",
     "module/companions-summary-panel",
+    "module/companions-summary-refresh",
     "module/companions-entry",
     "type-declaration/companions-declarations",
     "type-declaration/companions-saved-variables-declarations",

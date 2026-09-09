@@ -51,10 +51,8 @@ import {
   createCompanionSkillsPanel,
   refreshCompanionSkillsPanel,
 } from "../companions-skills-panel/companions-skills-panel.module.code.ts"
-import {
-  createCompanionSummaryPanel,
-  refreshCompanionSummaryPanel,
-} from "../companions-summary-panel/companions-summary-panel.module.code.ts"
+import { createCompanionSummaryPanel } from "../companions-summary-panel/companions-summary-panel.module.code.ts"
+import { refreshCompanionSummaryPanel } from "../companions-summary-refresh/companions-summary-refresh.module.code.ts"
 
 function registerCompanionSceneCallbacks(): undefined {
   const companionScenes = [
