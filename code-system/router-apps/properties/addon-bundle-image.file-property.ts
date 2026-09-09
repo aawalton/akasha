@@ -1,12 +1,12 @@
-import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+import type { FileProperty } from "@akasha/pages/file-property"
 
 export type AddonBundleImage = "ts"
 
 export const addonBundleImage = {
   id: "01a0817a-a1c9-7577-a1f2-bf5e6c93a43d",
-  pageTypeSlug: "named-file-property",
+  pageTypeSlug: "file-property",
   slug: "addon-bundle-image",
   propertySlug: "addon-bundle-image",
   definition: "the addon bundle image an app serves, named by its content hash",
   fileName: "deploy/addon-bundle-image.ts",
-} as const satisfies NamedFileProperty
+} as const satisfies FileProperty

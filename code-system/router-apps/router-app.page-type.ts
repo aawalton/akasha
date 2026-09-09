@@ -1,22 +1,22 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
-import type { AddonBundleImage } from "./properties/addon-bundle-image.named-file-property.ts"
-import type { AppLayout } from "./properties/app-layout.named-file-property.ts"
+import type { AddonBundleImage } from "./properties/addon-bundle-image.file-property.ts"
+import type { AppLayout } from "./properties/app-layout.file-property.ts"
 import type { BundleDirectory } from "./properties/bundle-directory.build-folder-property.ts"
-import type { CompileConfig } from "./properties/compile-config.named-file-property.ts"
+import type { CompileConfig } from "./properties/compile-config.file-property.ts"
 import type { DeclarationDirectory } from "./properties/declaration-directory.build-folder-property.ts"
-import type { PlaceholderImage } from "./properties/placeholder-image.named-file-property.ts"
-import type { RootRoute } from "./properties/root-route.named-file-property.ts"
-import type { RouteTable } from "./properties/route-table.named-file-property.ts"
+import type { PlaceholderImage } from "./properties/placeholder-image.file-property.ts"
+import type { RootRoute } from "./properties/root-route.file-property.ts"
+import type { RouteTable } from "./properties/route-table.file-property.ts"
 import type { RouteTypesDirectory } from "./properties/route-types-directory.build-folder-property.ts"
-import type { RouterAppGitIgnore } from "./properties/router-app-git-ignore.named-file-property.ts"
-import type { RouterConfig } from "./properties/router-config.named-file-property.ts"
-import type { Server } from "./properties/server.named-file-property.ts"
-import type { ServerEntry } from "./properties/server-entry.named-file-property.ts"
-import type { SidebarBoot } from "./properties/sidebar-boot.named-file-property.ts"
-import type { SiteIcon } from "./properties/site-icon.named-file-property.ts"
-import type { TestPreload } from "./properties/test-preload.named-file-property.ts"
-import type { ViteConfig } from "./properties/vite-config.named-file-property.ts"
+import type { RouterAppGitIgnore } from "./properties/router-app-git-ignore.file-property.ts"
+import type { RouterConfig } from "./properties/router-config.file-property.ts"
+import type { Server } from "./properties/server.file-property.ts"
+import type { ServerEntry } from "./properties/server-entry.file-property.ts"
+import type { SidebarBoot } from "./properties/sidebar-boot.file-property.ts"
+import type { SiteIcon } from "./properties/site-icon.file-property.ts"
+import type { TestPreload } from "./properties/test-preload.file-property.ts"
+import type { ViteConfig } from "./properties/vite-config.file-property.ts"
 
 export type RouterApp = WorkspacePackage & {
   rootRoute: RootRoute
@@ -45,20 +45,20 @@ export const routerApp = {
   definition: "what serves the routes its own table declares",
   pluralSlug: "router-apps",
   partSlugs: [
-    "named-file-property/addon-bundle-image",
-    "named-file-property/app-layout",
-    "named-file-property/compile-config",
-    "named-file-property/placeholder-image",
-    "named-file-property/root-route",
-    "named-file-property/route-table",
-    "named-file-property/router-app-git-ignore",
-    "named-file-property/router-config",
-    "named-file-property/server",
-    "named-file-property/server-entry",
-    "named-file-property/sidebar-boot",
-    "named-file-property/site-icon",
-    "named-file-property/test-preload",
-    "named-file-property/vite-config",
+    "file-property/addon-bundle-image",
+    "file-property/app-layout",
+    "file-property/compile-config",
+    "file-property/placeholder-image",
+    "file-property/root-route",
+    "file-property/route-table",
+    "file-property/router-app-git-ignore",
+    "file-property/router-config",
+    "file-property/server",
+    "file-property/server-entry",
+    "file-property/sidebar-boot",
+    "file-property/site-icon",
+    "file-property/test-preload",
+    "file-property/vite-config",
     "type-declaration/vite-client",
     "build-folder-property/route-types-directory",
     "build-folder-property/declaration-directory",
@@ -66,24 +66,24 @@ export const routerApp = {
   ],
   extendsSlug: ["page-type/workspace-package"],
   properties: [
-    { pagePropertySlug: "named-file-property/root-route", required: true, many: false },
-    { pagePropertySlug: "named-file-property/route-table", required: true, many: false },
-    { pagePropertySlug: "named-file-property/server-entry", required: true, many: false },
-    { pagePropertySlug: "named-file-property/router-config", required: true, many: false },
-    { pagePropertySlug: "named-file-property/compile-config", required: false, many: false },
-    { pagePropertySlug: "named-file-property/app-layout", required: false, many: false },
-    { pagePropertySlug: "named-file-property/vite-config", required: false, many: false },
-    { pagePropertySlug: "named-file-property/server", required: false, many: false },
-    { pagePropertySlug: "named-file-property/addon-bundle-image", required: false, many: false },
-    { pagePropertySlug: "named-file-property/sidebar-boot", required: false, many: false },
-    { pagePropertySlug: "named-file-property/placeholder-image", required: false, many: false },
-    { pagePropertySlug: "named-file-property/site-icon", required: false, many: false },
+    { pagePropertySlug: "file-property/root-route", required: true, many: false },
+    { pagePropertySlug: "file-property/route-table", required: true, many: false },
+    { pagePropertySlug: "file-property/server-entry", required: true, many: false },
+    { pagePropertySlug: "file-property/router-config", required: true, many: false },
+    { pagePropertySlug: "file-property/compile-config", required: false, many: false },
+    { pagePropertySlug: "file-property/app-layout", required: false, many: false },
+    { pagePropertySlug: "file-property/vite-config", required: false, many: false },
+    { pagePropertySlug: "file-property/server", required: false, many: false },
+    { pagePropertySlug: "file-property/addon-bundle-image", required: false, many: false },
+    { pagePropertySlug: "file-property/sidebar-boot", required: false, many: false },
+    { pagePropertySlug: "file-property/placeholder-image", required: false, many: false },
+    { pagePropertySlug: "file-property/site-icon", required: false, many: false },
     {
-      pagePropertySlug: "named-file-property/router-app-git-ignore",
+      pagePropertySlug: "file-property/router-app-git-ignore",
       required: false,
       many: false,
     },
-    { pagePropertySlug: "named-file-property/test-preload", required: false, many: false },
+    { pagePropertySlug: "file-property/test-preload", required: false, many: false },
     {
       pagePropertySlug: "build-folder-property/route-types-directory",
       required: false,

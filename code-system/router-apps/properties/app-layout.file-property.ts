@@ -1,10 +1,10 @@
-import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+import type { FileProperty } from "@akasha/pages/file-property"
 
 export type AppLayout = "tsx"
 
 export const appLayout = {
   id: "01a07917-b971-76f3-8ada-fc17be46e258",
-  pageTypeSlug: "named-file-property",
+  pageTypeSlug: "file-property",
   slug: "app-layout",
   propertySlug: "app-layout",
   definition: "the route a signed-in reader's routes render inside",
@@ -19,4 +19,4 @@ export const appLayout = {
       statement: "A router app serving a signed-out reader alone states no app layout.",
     },
   ],
-} as const satisfies NamedFileProperty
+} as const satisfies FileProperty
