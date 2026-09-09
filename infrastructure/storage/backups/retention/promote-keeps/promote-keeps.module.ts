@@ -3,6 +3,7 @@ import type { Module } from "../../../../../code-system/modules/module.page-type
 export const promoteKeeps = {
   id: "01a06863-74eb-7fce-8275-9b6074382cb4",
   pageTypeSlug: "module",
+  type: "module",
   slug: "promote-keeps",
   definition: "one run bringing the backup store's keep markings to what the windows say",
   code: "ts",

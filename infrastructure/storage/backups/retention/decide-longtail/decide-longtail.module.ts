@@ -3,6 +3,7 @@ import type { Module } from "../../../../../code-system/modules/module.page-type
 export const decideLongtail = {
   id: "01a06863-74e4-72ed-9169-700d492e6ad5",
   pageTypeSlug: "module",
+  type: "module",
   slug: "decide-longtail",
   definition: "what the slower store is to have and what it is to let go of",
   code: "ts",

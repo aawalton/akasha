@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const lualibPages = {
   id: "01a0818b-cd49-79f1-95e9-0b5ce73c5bb7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "lualib-pages",
   definition: "the source file each lualib page names, in place of the file a tsconfig scan finds",
   code: "ts",

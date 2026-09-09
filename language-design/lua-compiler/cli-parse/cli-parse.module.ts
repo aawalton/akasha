@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const cliParse = {
   id: "01a06758-8e66-7000-81d3-2c841d7348d7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "cli-parse",
   definition: "the compiler option declarations and the values read for them",
   code: "ts",

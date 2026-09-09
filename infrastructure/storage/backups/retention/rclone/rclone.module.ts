@@ -3,6 +3,7 @@ import type { Module } from "../../../../../code-system/modules/module.page-type
 export const rclone = {
   id: "01a06863-74ea-71ef-b9e2-e47a850c7d47",
   pageTypeSlug: "module",
+  type: "module",
   slug: "rclone",
   definition: "the rclone commands a store is listed, read, copied and hashed through",
   code: "ts",

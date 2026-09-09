@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const builtinMath = {
   id: "01a06758-8ecd-7000-8612-3b40cf193206",
   pageTypeSlug: "module",
+  type: "module",
   slug: "builtin-math",
   definition: "the Lua a Math built-in becomes",
   code: "ts",

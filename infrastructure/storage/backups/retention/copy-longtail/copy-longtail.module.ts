@@ -3,6 +3,7 @@ import type { Module } from "../../../../../code-system/modules/module.page-type
 export const copyLongtail = {
   id: "01a06863-b0ae-7ca1-800b-d4bd20dd7345",
   pageTypeSlug: "module",
+  type: "module",
   slug: "copy-longtail",
   definition: "one run bringing the slower store to the units the monthly windows say",
   code: "ts",
