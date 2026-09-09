@@ -11,7 +11,7 @@ export const agentSettings = {
   pageTypeSlug: "page-type",
   slug: "agent-settings",
   definition: "one document declaring how the agent harness on this workstation is set up",
-  pluralSlug: "agent-settings-documents",
+  pluralSlug: "agent-settings",
   parts: [
     "agent-settings/agents",
     "agent-settings/claude-config",
