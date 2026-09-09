@@ -22,7 +22,7 @@ function addonFolderNaming(entrySlug: string | null): { root: string; dir: strin
     join(dir, "table-functions-entry/table-functions-entry.module.code.ts"),
     "export const ONE = 1\n"
   )
-  const names = entrySlug === null ? "" : `  bundleEntrySlug: "${entrySlug}",\n`
+  const names = entrySlug === null ? "" : `  bundleEntry: "${entrySlug}",\n`
   writeFileSync(
     join(dir, "temper-lib-table-functions.eso-addon.ts"),
     `export const temperLibTableFunctions = {\n  pageTypeSlug: "eso-addon",\n  slug: "temper-lib-table-functions",\n${names}}\n`

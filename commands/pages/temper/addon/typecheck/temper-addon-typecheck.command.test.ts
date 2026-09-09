@@ -55,7 +55,7 @@ function addonIn(root: string, name: string, held: Held): string {
     join(dir, "package.json"),
     JSON.stringify({ name: `@akasha/${held.folder}`, dependencies: {} })
   )
-  const names = held.entry === null ? "" : `  bundleEntrySlug: "${held.entry}",\n`
+  const names = held.entry === null ? "" : `  bundleEntry: "${held.entry}",\n`
   writeFileSync(
     join(dir, `${held.folder}.eso-addon.ts`),
     `export const page = {\n  pageTypeSlug: "eso-addon",\n  slug: "${held.folder}",\n${names}}\n`
