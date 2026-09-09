@@ -101,12 +101,11 @@ export async function readEsoAddonPage(dir: string): Promise<EsoAddonPage | null
       bundleEntry?: unknown
       bindings?: unknown
       luaModules?: unknown
-      luaModuleSlugs?: unknown
     }
     if (said.pageTypeSlug !== "eso-addon" || typeof said.slug !== "string") continue
     const entry = said.bundleEntry
     const bound = said.bindings
-    const luaHeld = said.luaModules ?? said.luaModuleSlugs
+    const luaHeld = said.luaModules
     const luaSaid: readonly unknown[] = Array.isArray(luaHeld) ? luaHeld : []
     return {
       slug: said.slug,
