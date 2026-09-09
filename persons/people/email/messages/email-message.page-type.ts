@@ -1,7 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-
-export type EmailMessage = Page
 
 export const emailMessage = {
   id: "01a06828-59d3-79b5-a23b-24604d220bf0",
@@ -29,4 +26,5 @@ export const emailMessage = {
       statement: "The fields a message has are yet to exist as properties.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
