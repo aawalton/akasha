@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import { runChange as addKey } from "../../../mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts"
-import { runChange as removeKey } from "../../../mechanical/file-content/remove/remove-page-property/remove-page-property.change-mechanical-file-content.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   bodiesIn,
@@ -9,18 +8,14 @@ import {
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { worldOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { spelledAs } from "../../../modules/value-carrying/value-carrying.module.code.ts"
 import {
-  movePropertyOnEveryPage,
+  copyPropertyOnEveryPage,
   runChange,
-} from "./move-property-on-every-page.change-agent.code.ts"
+} from "./copy-property-on-every-page.change-agent.code.ts"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === "change-mechanical-file-content/add-page-property") {
     return Promise.resolve(addKey(world, given as Parameters<typeof addKey>[1]))
-  }
-  if (at === "change-mechanical-file-content/remove-page-property") {
-    return Promise.resolve(removeKey(world, given as Parameters<typeof removeKey>[1]))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
 }
@@ -106,7 +101,7 @@ function pagesIn(
   }
 }
 
-const MOVING = {
+const COPYING = {
   pageType: "story-chapter-read",
   from: "partOfCollectionSlugs",
   to: "storySlug",
@@ -115,7 +110,7 @@ const MOVING = {
 test("every page of the page type has the value under the key written to", async () => {
   const world = pagesIn(BODIES, DECLARED)
 
-  const said = await movePropertyOnEveryPage(world, MOVING)
+  const said = await copyPropertyOnEveryPage(world, COPYING)
 
   expect(said.refused).toBeNull()
   const bodies = bodiesIn(said, world.base)
@@ -123,39 +118,24 @@ test("every page of the page type has the value under the key written to", async
   expect(bodies.get(TWO_AT) ?? "").toContain(`storySlug: "story-read/delve"`)
 })
 
-test("the key read from is taken away", async () => {
+test("the key read from is left where it is, with the value that key has", async () => {
   const world = pagesIn(BODIES, DECLARED)
 
-  const said = await movePropertyOnEveryPage(world, MOVING)
+  const said = await copyPropertyOnEveryPage(world, COPYING)
 
-  expect(bodiesIn(said, world.base).get(ONE_AT) ?? "").not.toContain("partOfCollectionSlugs")
+  const bodies = bodiesIn(said, world.base)
+  expect(bodies.get(ONE_AT) ?? "").toContain(`partOfCollectionSlugs: ["salvos"]`)
+  expect(bodies.get(TWO_AT) ?? "").toContain(`partOfCollectionSlugs: ["story-read/delve"]`)
 })
 
 test("the key written to is put in after the key read from", async () => {
   const world = pagesIn(BODIES, DECLARED)
 
-  const said = await movePropertyOnEveryPage(world, MOVING)
+  const said = await copyPropertyOnEveryPage(world, COPYING)
 
   expect(bodiesIn(said, world.base).get(ONE_AT) ?? "").toContain(
-    `slug: "one",\n  storySlug: "salvos",\n  position: 1,`
+    `partOfCollectionSlugs: ["salvos"],\n  storySlug: "salvos",\n  position: 1,`
   )
-})
-
-test("a list of one becomes one value where the key written to holds one value", () => {
-  expect(spelledAs(["salvos"], false)).toBe(`"salvos"`)
-})
-
-test("a list is left a list where the key written to holds many values", () => {
-  expect(spelledAs(["salvos"], true)).toBe(`["salvos"]`)
-})
-
-test("a list of more than one is refused where the key written to holds one value", async () => {
-  const values: Values = new Map([[ONE_AT, { partOfCollectionSlugs: ["salvos", "delve"] }]])
-
-  const said = await movePropertyOnEveryPage(pagesIn(BODIES, DECLARED, values), MOVING)
-
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain("more than one value under `partOfCollectionSlugs`")
 })
 
 test("a page already with the key written to is passed over rather than refused", async () => {
@@ -163,7 +143,7 @@ test("a page already with the key written to is passed over rather than refused"
     [ONE_AT, { partOfCollectionSlugs: ["salvos"], storySlug: "salvos" }],
   ])
 
-  const said = await movePropertyOnEveryPage(pagesIn(BODIES, DECLARED, values), MOVING)
+  const said = await copyPropertyOnEveryPage(pagesIn(BODIES, DECLARED, values), COPYING)
 
   expect(said.refused).toBeNull()
   expect(said.edits).toEqual([])
@@ -172,20 +152,59 @@ test("a page already with the key written to is passed over rather than refused"
 test("a page with no value under the key read from is passed over rather than refused", async () => {
   const values: Values = new Map([[ONE_AT, { slug: "one" }]])
 
-  const said = await movePropertyOnEveryPage(pagesIn(BODIES, DECLARED, values), MOVING)
+  const said = await copyPropertyOnEveryPage(pagesIn(BODIES, DECLARED, values), COPYING)
 
   expect(said.refused).toBeNull()
   expect(said.edits).toEqual([])
 })
 
-test("a count handed in holds how many pages the value is moved on", async () => {
+test("a count handed in holds how many pages the value is written on", async () => {
   const world = pagesIn(BODIES, DECLARED)
 
-  const said = await movePropertyOnEveryPage(world, { ...MOVING, most: 1 })
+  const said = await copyPropertyOnEveryPage(world, { ...COPYING, most: 1 })
 
   const bodies = bodiesIn(said, world.base)
   expect(bodies.get(ONE_AT) ?? "").toContain(`storySlug: "salvos"`)
   expect(bodies.has(TWO_AT)).toBe(false)
+})
+
+test("a list of more than one is refused where the key written to holds one value", async () => {
+  const values: Values = new Map([[ONE_AT, { partOfCollectionSlugs: ["salvos", "delve"] }]])
+
+  const said = await copyPropertyOnEveryPage(pagesIn(BODIES, DECLARED, values), COPYING)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("more than one value under `partOfCollectionSlugs`")
+})
+
+test("a page type with no property under the key written to is refused", async () => {
+  const said = await copyPropertyOnEveryPage(pagesIn(BODIES, [MANY_VALUES]), COPYING)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("has no property under `storySlug`")
+})
+
+test("a page type with no property under the key read from is refused", async () => {
+  const said = await copyPropertyOnEveryPage(pagesIn(BODIES, [ONE_VALUE]), COPYING)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("has no property under `partOfCollectionSlugs`")
+})
+
+test("a page type the index does not name is refused", async () => {
+  const said = await copyPropertyOnEveryPage(pagesIn(BODIES, null), COPYING)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`story-chapter-read` names no page type")
+})
+
+test("one page refused refuses the whole change, and the refusal names that page", async () => {
+  const held = { ...BODIES, [TWO_AT]: "const two = 1\n" }
+
+  const said = await copyPropertyOnEveryPage(pagesIn(held, DECLARED), COPYING)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain(TWO_AT)
 })
 
 test("a count that is no whole number above nothing is refused", async () => {
@@ -198,36 +217,6 @@ test("a count that is no whole number above nothing is refused", async () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toContain("is no count of pages")
-})
-
-test("a page type with no property under the key written to is refused", async () => {
-  const said = await movePropertyOnEveryPage(pagesIn(BODIES, [MANY_VALUES]), MOVING)
-
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain("has no property under `storySlug`")
-})
-
-test("a page type with no property under the key read from is refused", async () => {
-  const said = await movePropertyOnEveryPage(pagesIn(BODIES, [ONE_VALUE]), MOVING)
-
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain("has no property under `partOfCollectionSlugs`")
-})
-
-test("a page type the index does not name is refused", async () => {
-  const said = await movePropertyOnEveryPage(pagesIn(BODIES, null), MOVING)
-
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe("`story-chapter-read` names no page type")
-})
-
-test("one page refused refuses the whole change, and the refusal names that page", async () => {
-  const held = { ...BODIES, [TWO_AT]: "const two = 1\n" }
-
-  const said = await movePropertyOnEveryPage(pagesIn(held, DECLARED), MOVING)
-
-  expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain(TWO_AT)
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {

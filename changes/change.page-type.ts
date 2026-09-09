@@ -44,6 +44,7 @@ export const change = {
     "module/target-kinding",
     "module/target-narrowing",
     "module/key-requiring",
+    "module/value-carrying",
   ],
   properties: [
     { pageProperty: "relation-property/change-kind", required: true, many: false },
