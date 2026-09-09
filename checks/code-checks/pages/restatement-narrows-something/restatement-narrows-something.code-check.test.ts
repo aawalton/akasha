@@ -234,7 +234,7 @@ test("a page type is judged when the change carries a property it declares", () 
   typing(root, "over", TWO, null, [{ pagePropertySlug: "held", required: true, many: false }])
   typing(root, "under", ONE, "over", [{ pagePropertySlug: "held", required: true, many: false }])
   pageFiled(root, ONE, at)
-  edging(root, THREE, "page-property-slug", ONE, at)
+  edging(root, THREE, "page-property", ONE, at)
   const said = judged(
     landing(root, { [pathFor(TEXT, "held")]: propertied(root, TEXT, "held", THREE) })
   )
