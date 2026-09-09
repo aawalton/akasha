@@ -3,7 +3,7 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Metric } from "../../../alan/track/days/properties/metric.text-property.ts"
 import type { Description } from "../../../pages/properties/description.text-property.ts"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Scope } from "../../../temper/temper-progress/things/properties/scope.text-property.ts"
+import type { Scope } from "../../../temper/progressions/things/properties/scope.text-property.ts"
 import type { Threshold } from "./properties/threshold.number-property.ts"
 
 export type CtwAchievement = Page & {
