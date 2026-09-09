@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0545ChapterFiveHundredAndThirtyWellIfItIsnt = {
   id: "01a0672c-eb26-7012-911b-3f1906e95b9a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0545-chapter-five-hundred-and-thirty-well-if-it-isnt",
   title:
     "Chapter Five Hundred and Thirty - Well, If It Isn't the Consequences of Caprica's Own Actions",

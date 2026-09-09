@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0527ChapterFiveHundredAndTwelveCleaningUpThe = {
   id: "01a0672c-eb26-7000-992e-ec8b2e0eae3e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0527-chapter-five-hundred-and-twelve-cleaning-up-the",
   title: "Chapter Five Hundred and Twelve - Cleaning Up the Remainder",
   story: "story-read/cinnamon-bun",

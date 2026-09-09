@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const darkMatterAscensionLitrpgSwordmageMc0001Chapter1JaceSerenCourier = {
   id: "01a06731-affc-7003-b696-5fa086c351b1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "dark-matter-ascension-litrpg-swordmage-mc-0001-chapter-1-jace-seren-courier",
   title: "Chapter 1 – Jace Seren, Courier",
   story: "dark-matter-ascension-litrpg-swordmage-mc",

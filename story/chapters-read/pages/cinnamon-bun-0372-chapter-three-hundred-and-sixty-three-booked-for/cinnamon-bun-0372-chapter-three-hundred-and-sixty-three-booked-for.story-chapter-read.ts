@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0372ChapterThreeHundredAndSixtyThreeBookedFor = {
   id: "01a0672c-eb1d-7010-9bde-7c640e294bb7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0372-chapter-three-hundred-and-sixty-three-booked-for",
   title: "Chapter Three Hundred and Sixty-Three - Booked for the Foreseeable Future",
   story: "story-read/cinnamon-bun",

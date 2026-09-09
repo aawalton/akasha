@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const deathHealer0039Chapter38 = {
   id: "01a06591-3c65-7b4d-8027-eb0ba0d1f9b7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "death-healer-0039-chapter-38",
   title: "Chapter 38",
   story: "death-healer",

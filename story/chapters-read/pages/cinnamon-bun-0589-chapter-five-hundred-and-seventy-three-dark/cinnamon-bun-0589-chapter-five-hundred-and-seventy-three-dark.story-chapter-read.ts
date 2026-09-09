@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0589ChapterFiveHundredAndSeventyThreeDark = {
   id: "01a0672c-eb28-700d-a0cf-bafb07ec3206",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0589-chapter-five-hundred-and-seventy-three-dark",
   title: "Chapter Five Hundred and Seventy-Three - Dark Knights of the Soul",
   story: "story-read/cinnamon-bun",

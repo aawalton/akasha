@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0493ChapterFourHundredAndSeventyNineListYour = {
   id: "01a0672c-eb23-700d-a40c-7ea742db8660",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0493-chapter-four-hundred-and-seventy-nine-list-your",
   title: "Chapter Four Hundred and Seventy-Nine - List Your Strengths",
   story: "story-read/cinnamon-bun",

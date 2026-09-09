@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0598ChapterFiveHundredAndEightyTwoAddADashOf = {
   id: "01a0672c-eb28-7016-9bda-8345e0fbbc6f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0598-chapter-five-hundred-and-eighty-two-add-a-dash-of",
   title: "Chapter Five Hundred and Eighty-Two - Add a Dash of Impending Storm",
   story: "story-read/cinnamon-bun",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0541ChapterFiveHundredAndTwentySixBroccoliBunch = {
   id: "01a0672c-eb26-700e-9256-8628b100accc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0541-chapter-five-hundred-and-twenty-six-broccoli-bunch",
   title:
     "Chapter Five Hundred and Twenty-Six - Broccoli Bunch and the Search for the Public Library",

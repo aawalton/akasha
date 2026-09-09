@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0446ChapterFourHundredAndThirtyTwoFriendsLike = {
   id: "01a0672c-eb21-7007-a977-c07ed7b4e2be",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0446-chapter-four-hundred-and-thirty-two-friends-like",
   title: "Chapter Four Hundred and Thirty-Two - Friends Like These",
   story: "story-read/cinnamon-bun",

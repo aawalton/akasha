@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0428ChapterFourHundredAndFourteenCanYouSay = {
   id: "01a0672c-eb20-700b-9b06-0374a071a843",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0428-chapter-four-hundred-and-fourteen-can-you-say",
   title: "Chapter Four Hundred and Fourteen - Can You Say Uncle",
   story: "story-read/cinnamon-bun",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0432ChapterFourHundredAndEighteenReluctantly = {
   id: "01a0672c-eb20-700f-9056-8077bef276fc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0432-chapter-four-hundred-and-eighteen-reluctantly",
   title: "Chapter Four Hundred and Eighteen - Reluctantly Crouched at the Starting Line",
   story: "story-read/cinnamon-bun",

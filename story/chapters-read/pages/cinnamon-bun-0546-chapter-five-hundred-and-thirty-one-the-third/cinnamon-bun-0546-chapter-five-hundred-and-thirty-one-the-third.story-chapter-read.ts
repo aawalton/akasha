@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0546ChapterFiveHundredAndThirtyOneTheThird = {
   id: "01a0672c-eb26-7013-b917-837890bbbfde",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0546-chapter-five-hundred-and-thirty-one-the-third",
   title: "Chapter Five Hundred and Thirty-One - The Third Stage of Grief",
   story: "story-read/cinnamon-bun",

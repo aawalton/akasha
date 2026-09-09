@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0575ChapterFiveHundredAndSixtySocialSkills = {
   id: "01a0672c-eb27-7017-82c7-efc1336cfbce",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0575-chapter-five-hundred-and-sixty-social-skills",
   title: "Chapter Five Hundred and Sixty - Social Skills",
   story: "story-read/cinnamon-bun",

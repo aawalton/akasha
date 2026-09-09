@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0437ChapterFourHundredAndTwentyThreeAwakeAtThe = {
   id: "01a0672c-eb20-7014-abc7-36207cbd5234",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0437-chapter-four-hundred-and-twenty-three-awake-at-the",
   title: "Chapter Four Hundred and Twenty-Three - Awake at the Witching Hour",
   story: "story-read/cinnamon-bun",

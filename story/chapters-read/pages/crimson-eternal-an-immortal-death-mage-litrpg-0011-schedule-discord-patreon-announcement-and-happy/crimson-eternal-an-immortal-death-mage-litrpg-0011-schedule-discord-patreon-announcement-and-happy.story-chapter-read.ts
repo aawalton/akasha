@@ -4,6 +4,7 @@ export const crimsonEternalAnImmortalDeathMageLitrpg0011ScheduleDiscordPatreonAn
   {
     id: "01a0672c-ec6d-7007-a906-c421543ed710",
     pageTypeSlug: "story-chapter-read",
+    type: "story-chapter-read",
     slug: "crimson-eternal-an-immortal-death-mage-litrpg-0011-schedule-discord-patreon-announcement-and-happy",
     title: "Schedule, Discord, Patreon Announcement, and Happy New Year!",
     story: "crimson-eternal-an-immortal-death-mage-litrpg",

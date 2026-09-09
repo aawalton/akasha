@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0567ChapterFiveHundredAndFiftyTwoIHaveTheHigh = {
   id: "01a0672c-eb27-700f-9e3a-b9ed7847524e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0567-chapter-five-hundred-and-fifty-two-i-have-the-high",
   title: "Chapter Five Hundred and Fifty-Two - I Have the High Sky",
   story: "story-read/cinnamon-bun",

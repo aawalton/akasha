@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0506ChapterFourHundredAndNinetyTwoTakingYour = {
   id: "01a0672c-eb24-7004-b6c9-9a34b7d28558",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0506-chapter-four-hundred-and-ninety-two-taking-your",
   title: "Chapter Four Hundred and Ninety-Two - Taking Your Leader with Me",
   story: "story-read/cinnamon-bun",

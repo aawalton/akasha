@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0439ChapterFourHundredAndTwentyFiveFull = {
   id: "01a0672c-eb21-7000-aacd-e250f224571e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0439-chapter-four-hundred-and-twenty-five-full",
   title: "Chapter Four Hundred and Twenty-Five - Full Broadside",
   story: "story-read/cinnamon-bun",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0362ChapterThreeHundredAndFiftyFourPiracysA = {
   id: "01a0672c-eb1d-7006-aa71-0766511def7e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0362-chapter-three-hundred-and-fifty-four-piracys-a",
   title: "Chapter Three Hundred and Fifty-Four - Piracy's a Crime and Crime Doesn't Pay",
   story: "story-read/cinnamon-bun",

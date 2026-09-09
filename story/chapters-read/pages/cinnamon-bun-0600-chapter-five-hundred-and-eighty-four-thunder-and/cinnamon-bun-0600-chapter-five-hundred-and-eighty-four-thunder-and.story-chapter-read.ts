@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0600ChapterFiveHundredAndEightyFourThunderAnd = {
   id: "01a0672c-eb29-7000-93b6-fcc82d986fb9",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0600-chapter-five-hundred-and-eighty-four-thunder-and",
   title:
     "Chapter Five Hundred and Eighty-Four - Thunder and Lightning, Very Moderately Frightening",

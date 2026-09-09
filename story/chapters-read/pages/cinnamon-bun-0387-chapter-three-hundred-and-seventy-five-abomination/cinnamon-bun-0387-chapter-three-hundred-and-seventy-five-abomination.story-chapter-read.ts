@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0387ChapterThreeHundredAndSeventyFiveAbomination = {
   id: "01a0672c-eb1e-700e-9d4b-9ee85200a465",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0387-chapter-three-hundred-and-seventy-five-abomination",
   title: "Chapter Three Hundred and Seventy-Five - Abomination Against Engineering and Good Sense",
   story: "story-read/cinnamon-bun",

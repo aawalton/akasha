@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0433ChapterFourHundredAndNineteenRecklessAnd = {
   id: "01a0672c-eb20-7010-a43d-502e9f3df9b3",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0433-chapter-four-hundred-and-nineteen-reckless-and",
   title: "Chapter Four Hundred and Nineteen - Reckless and Wild, they Pour Through the Turns",
   story: "story-read/cinnamon-bun",

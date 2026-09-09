@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0613ChapterFiveHundredAndNinetySevenStormTrek = {
   id: "01a0672c-eb29-700d-a2fd-5f43913ba333",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0613-chapter-five-hundred-and-ninety-seven-storm-trek",
   title: "Chapter Five Hundred and Ninety-Seven - Storm Trek Nemesis",
   story: "story-read/cinnamon-bun",

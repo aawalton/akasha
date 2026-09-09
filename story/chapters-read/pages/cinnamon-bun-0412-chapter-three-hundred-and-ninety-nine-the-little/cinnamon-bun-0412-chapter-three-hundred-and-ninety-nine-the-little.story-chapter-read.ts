@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0412ChapterThreeHundredAndNinetyNineTheLittle = {
   id: "01a0672c-eb1f-7012-bb6b-86abd3c4f652",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0412-chapter-three-hundred-and-ninety-nine-the-little",
   title: "Chapter Three Hundred and Ninety-Nine - The Little Cheese of Airship Inspections",
   story: "story-read/cinnamon-bun",

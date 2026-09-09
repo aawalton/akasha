@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const crimsonEternalAnImmortalDeathMageLitrpg0113B2UpdatedGlossaryWithAtlantisAndLukTar = {
   id: "01a0672c-ec72-7013-9b12-966dbb579d07",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0113-b2-updated-glossary-with-atlantis-and-luk-tar",
   title: "B2 | Updated Glossary with Atlantis and Luk'tar",
   story: "crimson-eternal-an-immortal-death-mage-litrpg",

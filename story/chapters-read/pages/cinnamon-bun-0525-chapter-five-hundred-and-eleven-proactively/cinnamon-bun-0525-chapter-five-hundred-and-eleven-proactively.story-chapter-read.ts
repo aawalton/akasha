@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const cinnamonBun0525ChapterFiveHundredAndElevenProactively = {
   id: "01a0672c-eb25-700a-ae03-129036586079",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "cinnamon-bun-0525-chapter-five-hundred-and-eleven-proactively",
   title:
     "Chapter Five Hundred and Eleven - Proactively Circling Back to See if We Moved the Needle",

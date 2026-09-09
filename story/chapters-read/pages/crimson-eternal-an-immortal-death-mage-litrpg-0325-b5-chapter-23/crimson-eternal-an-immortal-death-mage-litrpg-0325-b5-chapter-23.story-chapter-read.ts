@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const crimsonEternalAnImmortalDeathMageLitrpg0325B5Chapter23 = {
   id: "01a0672c-ec7b-7002-abbb-aed5b8aaa456",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "crimson-eternal-an-immortal-death-mage-litrpg-0325-b5-chapter-23",
   title: "B5 | Chapter 23",
   story: "crimson-eternal-an-immortal-death-mage-litrpg",
