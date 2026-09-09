@@ -29,7 +29,9 @@ export function modulesOnly(standing: Standing): readonly string[] {
     if (holding.length > 0 && !held.some((one) => declared.has(one))) loose.push(at)
   }
   if (other.length > 0) {
-    said.push(`${other.length} subfolders hold no module: ${saidInside(standing.folder, other)}`)
+    said.push(
+      `${other.length} subfolders are the folder of no module: ${saidInside(standing.folder, other)}`
+    )
   }
   if (loose.length > 0) {
     const slug = holding[0]?.split("/")[1] ?? ""

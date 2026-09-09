@@ -41,5 +41,9 @@ export const modulesOnly = {
       invariantKind: "absence",
       statement: "The files a module holds are judged where that module is judged.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A subfolder holding a second page is the folder of no module.",
+    },
   ],
 } as const satisfies FolderShape

@@ -103,7 +103,7 @@ test("a module the page above declares nothing of is refused, and the reason nam
 test("a subfolder holding no module is refused", () => {
   const said = modulesOnly(foreign([]))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("hold no module")
+  expect(said[0]).toContain("the folder of no module")
 })
 
 test("a folder above holding no page is asked for no part", () => {
