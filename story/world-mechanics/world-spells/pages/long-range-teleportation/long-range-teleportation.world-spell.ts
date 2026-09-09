@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const longRangeTeleportation = {
   id: "01a06572-95d0-784b-891b-1b34dac12b89",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "long-range-teleportation",
   title: "Long-range Teleportation",
   world: "the-wandering-inn",

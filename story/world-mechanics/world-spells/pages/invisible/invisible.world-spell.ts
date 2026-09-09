@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const invisible = {
   id: "01a06572-95cc-7b67-8a5c-1b9fc2190824",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "invisible",
   title: "Invisible",
   world: "the-wandering-inn",

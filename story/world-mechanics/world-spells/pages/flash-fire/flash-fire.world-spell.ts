@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const flashFire = {
   id: "01a06572-95c3-7b24-98a2-e6621afc120d",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "flash-fire",
   title: "Flash Fire",
   world: "the-wandering-inn",

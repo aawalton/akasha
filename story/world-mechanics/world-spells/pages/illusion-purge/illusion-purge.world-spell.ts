@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const illusionPurge = {
   id: "01a06572-95cb-7126-b07c-b0c834ce8cea",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "illusion-purge",
   title: "Illusion Purge",
   world: "the-wandering-inn",

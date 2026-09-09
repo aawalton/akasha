@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const lesserTwister = {
   id: "01a06572-95cd-7e75-a612-eb85b0d0312d",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "lesser-twister",
   title: "Lesser Twister",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const handOfTheGaleElemental = {
   id: "01a06572-95c8-7d81-a003-6c22d2cff9f9",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "hand-of-the-gale-elemental",
   title: "Hand of the Gale Elemental",
   world: "the-wandering-inn",

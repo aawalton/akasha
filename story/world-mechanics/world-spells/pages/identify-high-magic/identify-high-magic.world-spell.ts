@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const identifyHighMagic = {
   id: "01a06572-95cb-78eb-a126-4b040e40d1bc",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "identify-high-magic",
   title: "Identify High Magic",
   world: "the-wandering-inn",

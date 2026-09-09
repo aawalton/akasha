@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const forceBarrier = {
   id: "01a06572-95c4-7bbd-8dea-4eac44b5f80f",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "force-barrier",
   title: "Force Barrier",
   world: "the-wandering-inn",

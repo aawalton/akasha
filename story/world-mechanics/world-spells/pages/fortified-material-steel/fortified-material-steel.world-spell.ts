@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const fortifiedMaterialSteel = {
   id: "01a06572-95c5-7c15-a96a-2e4b1407884e",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "fortified-material-steel",
   title: "Fortified Material: Steel",
   world: "the-wandering-inn",

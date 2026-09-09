@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const handOfTheStoneGiant = {
   id: "01a06572-95c8-711c-b63c-43f7ac941a13",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "hand-of-the-stone-giant",
   title: "Hand of the Stone Giant",
   world: "the-wandering-inn",

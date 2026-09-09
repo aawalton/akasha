@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const firespray = {
   id: "01a06572-95c2-7fc2-8961-1f653bf1c7ba",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "firespray",
   title: "Firespray",
   world: "the-wandering-inn",

@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const greaterDispel = {
   id: "01a06572-95c7-7473-87f2-970637ef0ff2",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "greater-dispel",
   title: "Greater Dispel",
   world: "the-wandering-inn",

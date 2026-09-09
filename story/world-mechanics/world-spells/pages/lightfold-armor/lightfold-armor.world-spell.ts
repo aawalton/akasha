@@ -3,6 +3,7 @@ import type { WorldSpell } from "../../world-spell.page-type.ts"
 export const lightfoldArmor = {
   id: "01a06572-95cf-741e-b784-0ad2492a45aa",
   pageTypeSlug: "world-spell",
+  type: "world-spell",
   slug: "lightfold-armor",
   title: "Lightfold Armor",
   world: "the-wandering-inn",
