@@ -42,9 +42,6 @@ function joined(found: readonly Uint8Array[]): Uint8Array<ArrayBuffer> {
   return whole
 }
 
-// THE BYTES ARE READ BEFORE ANY DECODING IS CHOSEN. A decoder turns every byte no encoding admits
-// into the replacement character, which re-encodes as three different bytes, so a picture read as
-// text and written back is a different file and the first byte of a PNG is the one that goes.
 export function bytesAt(root: string, page: string, propertySlug: string, held: string): Bytes {
   const first = besideAt(page, propertySlug, held)
   if (first === null) return { refused: `'${page}' is no page file, ${UNKNOWN}` }
