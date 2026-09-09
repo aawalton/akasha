@@ -9,7 +9,7 @@ export const sophia20260619 = {
   date: "2026-06-19",
   valueSlug: "love",
   icon: "file-text",
-  personasCraftedSlugs: ["erin", "eppie", "zadi", "zeli"],
+  personasCrafted: ["erin", "eppie", "zadi", "zeli"],
   newPersonaCount: 4,
   improvementCount: 0,
   greenDay: 1,
