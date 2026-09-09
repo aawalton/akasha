@@ -7,4 +7,5 @@ export const dockerfileServices = {
   slug: "dockerfile-services",
   definition: "which services get a Dockerfile, where each one lives and what type it builds as",
   code: "ts",
+  test: "ts",
 } as const satisfies Module
