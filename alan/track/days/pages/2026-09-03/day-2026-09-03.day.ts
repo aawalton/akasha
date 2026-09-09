@@ -7,7 +7,7 @@ export const day20260903 = {
   title: "@date:2026-09-03",
   date: "2026-09-03",
   version: "3.0",
-  activeCalories: 542.893,
+  activeCalories: 541.1290000000001,
   inboxTasks: 24,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 22,
