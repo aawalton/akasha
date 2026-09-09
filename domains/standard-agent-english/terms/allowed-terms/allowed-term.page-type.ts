@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { Term } from "../terms/term.page-type.ts"
+import type { Term } from "../term.page-type.ts"
 
 export type AllowedTerm = Term
 
