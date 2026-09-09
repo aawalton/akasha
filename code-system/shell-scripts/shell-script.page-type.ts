@@ -1,6 +1,6 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Shell } from "./properties/shell.file-property.ts"
+import type { Shell } from "./properties/shell.code-file-property.ts"
 import type { Sourced } from "./properties/sourced.boolean-property.ts"
 
 export type ShellScript = Domain & {
@@ -16,7 +16,7 @@ export const shellScript = {
   pluralSlug: "shell-scripts",
   partSlugs: [
     "boolean-property/sourced",
-    "file-property/shell",
+    "code-file-property/shell",
     "shell-script/bash-env",
     "shell-script/repos-empty-dir-purge",
     "shell-script/statusline",
@@ -24,7 +24,7 @@ export const shellScript = {
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "file-property/shell", required: true, many: false },
+    { pagePropertySlug: "code-file-property/shell", required: true, many: false },
     { pagePropertySlug: "boolean-property/sourced", required: true, many: false },
   ],
   invariants: [
