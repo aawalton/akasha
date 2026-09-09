@@ -3,6 +3,6 @@
   "runtime_cmd": [
     "bun",
     "run",
-    "infrastructure/networks/auth-proxy/auth-proxy-server/auth-proxy-server.module.code.ts"
+    "infrastructure/networks/auth-proxy/server/auth-proxy-server.module.code.ts"
   ]
 }
