@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const lockDoor = {
   id: "01a0657d-0240-78f9-9fd4-6bb3a96d78d7",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "lock-door",
   title: "Lock Door",
   world: "the-wandering-inn",

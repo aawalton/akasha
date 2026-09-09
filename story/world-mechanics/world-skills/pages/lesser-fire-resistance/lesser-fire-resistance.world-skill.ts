@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const lesserFireResistance = {
   id: "01a06575-9822-7635-a7ed-6513f51929cb",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "lesser-fire-resistance",
   title: "Lesser Fire Resistance",
   world: "the-wandering-inn",

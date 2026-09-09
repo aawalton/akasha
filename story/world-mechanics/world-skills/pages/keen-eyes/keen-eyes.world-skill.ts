@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const keenEyes = {
   id: "01a06575-9821-730f-bd94-a6212ff72697",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "keen-eyes",
   title: "Keen Eyes",
   world: "the-wandering-inn",

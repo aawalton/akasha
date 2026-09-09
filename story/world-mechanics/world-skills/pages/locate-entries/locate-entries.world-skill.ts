@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const locateEntries = {
   id: "01a0657d-0240-7dd5-876e-efa598a371d6",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "locate-entries",
   title: "Locate Entries",
   world: "the-wandering-inn",

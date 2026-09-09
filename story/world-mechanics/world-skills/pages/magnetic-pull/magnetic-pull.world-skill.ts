@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const magneticPull = {
   id: "01a0657d-0242-787f-8826-e545c04776ba",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "magnetic-pull",
   title: "Magnetic Pull",
   world: "the-wandering-inn",

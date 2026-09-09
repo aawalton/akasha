@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const massSilentSickle = {
   id: "01a0657d-024b-7d9a-a693-3baf822d4cbf",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "mass-silent-sickle",
   title: "Mass Silent Sickle",
   world: "the-wandering-inn",

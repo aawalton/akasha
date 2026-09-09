@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const massRestoreStamina = {
   id: "01a0657d-024b-78fb-a1c7-a6428647ede4",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "mass-restore-stamina",
   title: "Mass Restore Stamina",
   world: "the-wandering-inn",
