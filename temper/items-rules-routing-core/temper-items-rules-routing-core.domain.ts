@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperItemsRulesRoutingCore = {
   id: "01a06151-370b-7fa6-ad43-f200b0ae0fb9",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-items-rules-routing-core",
   definition: "the route a plan takes through the game world, and the shape of the plan itself",
-  manifest: "json",
   parts: [
     "module/inventory-consolidate-dest",
     "module/inventory-management-plan-route",
@@ -25,4 +24,4 @@ export const temperItemsRulesRoutingCore = {
       statement: "No code here reaches the game.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

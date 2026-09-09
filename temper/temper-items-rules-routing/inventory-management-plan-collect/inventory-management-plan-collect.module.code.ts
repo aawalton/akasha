@@ -10,8 +10,8 @@ import type {
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import type { CharacterId } from "@akasha/temper-items-rules-core/use-destination-types"
-import { resolveItemRoute } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-route"
-import type { RouteStep } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
+import { resolveItemRoute } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route/inventory-management-plan-route.module.code.ts"
+import type { RouteStep } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import {
   buildExistingStorageItems,
   isItemStackable,

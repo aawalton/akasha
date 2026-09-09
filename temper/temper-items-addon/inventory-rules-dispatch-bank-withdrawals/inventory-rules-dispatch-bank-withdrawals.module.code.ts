@@ -1,7 +1,7 @@
 import { isBackpackRequiredAction } from "@akasha/temper-items-rules-core/action-storage-capability"
 import { planStockReconcile } from "@akasha/temper-items-rules-core/stock-reconcile-plan"
-import { isConsolidateDest } from "@akasha/temper-items-rules-routing-core/inventory-consolidate-dest"
 import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
+import { isConsolidateDest } from "akasha/temper/items-rules-routing-core/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
 import { getConfiguredBufferSlots } from "../inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
 import { ADDON_NAME } from "../inventory-constants/inventory-constants.module.code.ts"
 import {

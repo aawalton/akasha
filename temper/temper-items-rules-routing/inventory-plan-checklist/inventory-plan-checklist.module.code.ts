@@ -1,7 +1,7 @@
 import type {
   ManagementPlan,
   VenueStop,
-} from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
+} from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 
 const HEADER = "[TemperInventory] Checklist"
 

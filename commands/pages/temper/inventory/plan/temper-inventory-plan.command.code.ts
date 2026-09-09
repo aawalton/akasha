@@ -7,13 +7,13 @@ import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-type
 import type { ClassifiableItem } from "@akasha/temper-items-core/item-category-tree-types"
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import type { ClassifiedInventoryItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
+import { assertNever } from "@akasha/utils/narrow/assert-never"
 import type {
   CharacterSession,
   ManagementPlan,
   PlanItem,
   VenueStop,
-} from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
-import { assertNever } from "@akasha/utils/narrow/assert-never"
+} from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import type { CharacterKnowledge } from "../../../../../temper/temper-commands/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import {
   capacityFilter,

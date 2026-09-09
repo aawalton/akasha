@@ -5,7 +5,7 @@ import type {
   MoveToDestination,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
-import type { ManagementPlan } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
+import type { ManagementPlan } from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import fc from "fast-check"
 import { makeStackableItem } from "../inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.module.code.ts"
 import {

@@ -4,8 +4,8 @@ import { narrowDestination } from "@akasha/temper-items-rules-core/inventory-des
 import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/inventory-rule-compiler-types"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
-import { resolveStorageKey } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-route-helpers"
-import { getActionVenue } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-route-venue"
+import { resolveStorageKey } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"
+import { getActionVenue } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 import {
   buildExistingStorageItems,
   buildStorageFreeSlots,

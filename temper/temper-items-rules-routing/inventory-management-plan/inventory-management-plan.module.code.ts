@@ -4,12 +4,12 @@ import type { CompiledOrderedRule } from "@akasha/temper-items-rules-core/invent
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
 import type { RuleMatcherContext } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
-import { resolveCharacterName } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-route-helpers"
+import { requireGet } from "@akasha/utils/narrow/require-get"
+import { resolveCharacterName } from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts"
 import type {
   CharacterSession,
   ManagementPlan,
-} from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
-import { requireGet } from "@akasha/utils/narrow/require-get"
+} from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import {
   BUY_CHARACTER_ID,
   BUY_CHARACTER_NAME,

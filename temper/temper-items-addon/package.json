@@ -11,7 +11,6 @@
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*",
     "@akasha/temper-items-rules-eval": "workspace:*",
-    "@akasha/temper-items-rules-routing-core": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-skill-morphs": "workspace:*",
     "@akasha/utils": "workspace:*"

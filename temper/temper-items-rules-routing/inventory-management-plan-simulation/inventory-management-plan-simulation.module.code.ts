@@ -2,12 +2,12 @@ import {
   buildVenueLabel,
   VENUE_LABELS,
   VENUE_ORDER,
-} from "@akasha/temper-items-rules-routing-core/inventory-management-plan-route-venue"
+} from "akasha/temper/items-rules-routing-core/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 import type {
   PlanItem,
   VenueStop,
   VenueType,
-} from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
+} from "akasha/temper/items-rules-routing-core/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import {
   buildActionGroups,
   sumTotalValues,

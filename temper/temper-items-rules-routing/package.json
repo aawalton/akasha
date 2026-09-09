@@ -20,7 +20,6 @@
   "dependencies": {
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*",
-    "@akasha/temper-items-rules-routing-core": "workspace:*",
     "@akasha/utils": "workspace:*",
     "fast-check": "^4.5.3"
   }
