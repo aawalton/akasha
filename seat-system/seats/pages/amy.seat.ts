@@ -5,7 +5,7 @@ export const amy = {
   pageTypeSlug: "seat",
   slug: "amy",
   persona: "amy",
-  assignmentSlug: "domain/alan-harness",
+  assignmentSlug: "initiative/amy-harness-improvements",
   role: "definer",
   person: "alan",
   startMode: "interactive",
