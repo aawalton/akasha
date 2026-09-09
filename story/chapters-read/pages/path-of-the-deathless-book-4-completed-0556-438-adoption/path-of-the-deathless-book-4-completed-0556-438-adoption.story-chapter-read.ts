@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0556438Adoption = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0556-438-adoption",
   title: "438 Adoption",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 556,
   ownLength: 4677,
   unitSlug: "words",

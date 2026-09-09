@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0083Chapter83TimeToCultivate = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0083-chapter-83-time-to-cultivate",
   title: "Chapter 83: Time to Cultivate",
-  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  storySlug: "phoenix-ascension-cultivation-litrpg",
   position: 83,
   ownLength: 2454,
   unitSlug: "words",

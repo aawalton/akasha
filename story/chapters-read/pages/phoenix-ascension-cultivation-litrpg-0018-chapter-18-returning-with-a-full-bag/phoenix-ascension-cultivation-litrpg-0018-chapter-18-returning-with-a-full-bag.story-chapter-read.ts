@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0018Chapter18ReturningWithAFullBag
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0018-chapter-18-returning-with-a-full-bag",
   title: "Chapter 18: Returning with a full bag",
-  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  storySlug: "phoenix-ascension-cultivation-litrpg",
   position: 18,
   ownLength: 2564,
   unitSlug: "words",

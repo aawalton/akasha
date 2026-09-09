@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0082Chapter82ShesCheating = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0082-chapter-82-shes-cheating",
   title: "Chapter 82: She’s cheating!",
-  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  storySlug: "phoenix-ascension-cultivation-litrpg",
   position: 82,
   ownLength: 2506,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0495380ThisSharedMomentOfFlavorAndM
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0495-380-this-shared-moment-of-flavor-and-monologue-iii",
   title: "380 This Shared Moment of Flavor and Monologue [III]",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 495,
   ownLength: 4672,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0036Chapter36TheresTrouble = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0036-chapter-36-theres-trouble",
   title: "Chapter 36: There's trouble!",
-  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  storySlug: "phoenix-ascension-cultivation-litrpg",
   position: 36,
   ownLength: 3332,
   unitSlug: "words",

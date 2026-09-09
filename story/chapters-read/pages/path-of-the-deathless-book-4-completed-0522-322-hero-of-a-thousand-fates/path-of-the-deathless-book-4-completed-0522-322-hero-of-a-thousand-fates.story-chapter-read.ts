@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0522322HeroOfAThousandFates = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0522-322-hero-of-a-thousand-fates",
   title: "322 Hero of a Thousand Fates",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 522,
   ownLength: 0,
   unitSlug: "words",

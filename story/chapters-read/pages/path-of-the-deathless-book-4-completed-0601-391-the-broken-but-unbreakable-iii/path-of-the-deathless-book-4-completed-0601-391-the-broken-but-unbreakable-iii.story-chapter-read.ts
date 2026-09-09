@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0601391TheBrokenButUnbreakableIii =
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0601-391-the-broken-but-unbreakable-iii",
   title: "391 The Broken But Unbreakable [III]",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 601,
   ownLength: 0,
   unitSlug: "words",

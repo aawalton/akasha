@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0073Chapter73TheLittleEmperorIsInT
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0073-chapter-73-the-little-emperor-is-in-trouble",
   title: "Chapter 73: The Little Emperor is in trouble",
-  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  storySlug: "phoenix-ascension-cultivation-litrpg",
   position: 73,
   ownLength: 2214,
   unitSlug: "words",

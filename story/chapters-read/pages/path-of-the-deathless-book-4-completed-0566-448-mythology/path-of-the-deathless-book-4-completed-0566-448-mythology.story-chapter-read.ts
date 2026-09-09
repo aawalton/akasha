@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0566448Mythology = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0566-448-mythology",
   title: "448 Mythology",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 566,
   ownLength: 4922,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0032Chapter32DragonsFlames = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0032-chapter-32-dragons-flames",
   title: "Chapter 32: Dragons Flames",
-  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  storySlug: "phoenix-ascension-cultivation-litrpg",
   position: 32,
   ownLength: 2302,
   unitSlug: "words",

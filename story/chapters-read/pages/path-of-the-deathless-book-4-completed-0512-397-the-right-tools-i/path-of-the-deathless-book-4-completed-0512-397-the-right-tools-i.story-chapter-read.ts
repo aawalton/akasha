@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0512397TheRightToolsI = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0512-397-the-right-tools-i",
   title: "397 The Right Tools [I]",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 512,
   ownLength: 4836,
   unitSlug: "words",

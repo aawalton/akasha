@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0114Chapter114Heist = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0114-chapter-114-heist",
   title: "Chapter 114: Heist",
-  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  storySlug: "phoenix-ascension-cultivation-litrpg",
   position: 114,
   ownLength: 3710,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const pathOfTheDeathlessBook4Completed0487372ThievesOfDivinity3489272 = {
   pageTypeSlug: "story-chapter-read",
   slug: "path-of-the-deathless-book-4-completed-0487-372-thieves-of-divinity-3489272",
   title: "372 Thieves of Divinity",
-  partOfCollectionSlugs: ["path-of-the-deathless-book-4-completed"],
+  storySlug: "path-of-the-deathless-book-4-completed",
   position: 487,
   ownLength: 3830,
   unitSlug: "words",

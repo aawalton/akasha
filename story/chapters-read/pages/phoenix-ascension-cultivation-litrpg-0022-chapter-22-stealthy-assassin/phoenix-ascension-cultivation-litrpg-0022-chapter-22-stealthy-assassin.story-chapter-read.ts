@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0022Chapter22StealthyAssassin = {
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0022-chapter-22-stealthy-assassin",
   title: "Chapter 22: Stealthy Assassin",
-  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  storySlug: "phoenix-ascension-cultivation-litrpg",
   position: 22,
   ownLength: 2484,
   unitSlug: "words",

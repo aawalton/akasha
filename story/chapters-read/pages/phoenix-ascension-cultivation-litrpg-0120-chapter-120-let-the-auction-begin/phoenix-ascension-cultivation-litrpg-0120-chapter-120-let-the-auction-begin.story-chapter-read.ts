@@ -5,7 +5,7 @@ export const phoenixAscensionCultivationLitrpg0120Chapter120LetTheAuctionBegin =
   pageTypeSlug: "story-chapter-read",
   slug: "phoenix-ascension-cultivation-litrpg-0120-chapter-120-let-the-auction-begin",
   title: "Chapter 120: Let the auction begin.",
-  partOfCollectionSlugs: ["phoenix-ascension-cultivation-litrpg"],
+  storySlug: "phoenix-ascension-cultivation-litrpg",
   position: 120,
   ownLength: 1916,
   unitSlug: "words",
