@@ -13,9 +13,9 @@ export const COMMANDS_SERVED: readonly string[] = [
   "agent-forest",
   "agent-turn-colors",
   "claude-account-usage",
+  "initiative-work-tree",
   "seat-messaged",
   "seat-transcripts",
-  "work-tree",
 ]
 
 export function isServed(command: string): boolean {

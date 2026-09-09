@@ -78,9 +78,9 @@ const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Ran }>>> = {
 const CALLED: ReadonlySet<string> = new Set([
   "agent-forest",
   "claude-account-usage",
+  "initiative-work-tree",
   "seat-messaged",
   "seat-transcripts",
-  "work-tree",
 ])
 
 async function called(command: string, argv: readonly string[]): Promise<number> {
