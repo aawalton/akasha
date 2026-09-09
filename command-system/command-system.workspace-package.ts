@@ -40,7 +40,6 @@ export const commandSystem = {
     "module/change-arguing",
     "module/change-running",
     "module/path-moving",
-    "module/command-stopping",
     "performance/landing-throughput",
   ],
   invariants: [

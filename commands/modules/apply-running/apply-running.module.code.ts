@@ -17,10 +17,6 @@ import type { Answer, Given } from "../../../command-system/calling/calling.modu
 import { waitingSaid } from "../../../command-system/change-acting/change-acting.module.code.ts"
 import { noPageSaid } from "../../../command-system/change-running/change-running.module.code.ts"
 import {
-  allowedAgain,
-  MEASURED_ALLOWED,
-} from "../../../command-system/command-stopping/command-stopping.module.code.ts"
-import {
   type Rebased,
   type Running,
   rebasedHeld,
@@ -29,6 +25,7 @@ import { bodiesFrom } from "../../../command-system/edits-landing/edits-landing.
 import { inputIn, type Piping } from "../../../command-system/piping/piping.module.code.ts"
 import { writtenPathsIn } from "../address-mapping/address-mapping.module.code.ts"
 import { APPLY, CHANGE_APPLY_PAGE } from "../change-costing/change-costing.module.code.ts"
+import { allowedAgain, MEASURED_ALLOWED } from "../command-stopping/command-stopping.module.code.ts"
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 

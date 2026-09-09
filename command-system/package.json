@@ -21,7 +21,6 @@
     "./command-filling": "./command-filling/command-filling.module.code.ts",
     "./command-declaring": "./command-declaring/command-declaring.module.code.ts",
     "./command-flags": "./command-flags/command-flags.module.code.ts",
-    "./command-stopping": "./command-stopping/command-stopping.module.code.ts",
     "./committing": "./committing/committing.module.code.ts",
     "./drafting": "./drafting/drafting.module.code.ts",
     "./during-call": "./during-call/during-call.module.code.ts",
