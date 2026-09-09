@@ -8,7 +8,6 @@
     "@akasha/temper-addon-library-types": "workspace:*",
     "@akasha/temper-eso-types": "workspace:*",
     "@akasha/temper-items-rules-core": "workspace:*",
-    "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils": "workspace:*"
   }
 }

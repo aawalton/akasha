@@ -38,7 +38,6 @@
     "@akasha/temper-completion": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
-    "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@fontsource-variable/geist": "^5.2.9",

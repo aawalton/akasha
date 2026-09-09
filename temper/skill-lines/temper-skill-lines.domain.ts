@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperSkillLines = {
   id: "01a0608a-c135-79d5-91c5-4cf48adc59f3",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-skill-lines",
   definition: "the skill lines an Elder Scrolls Online character advances",
-  manifest: "json",
   parts: [
     "module/skill-line-category-data",
     "module/skill-line-template",
@@ -29,4 +28,4 @@ export const temperSkillLines = {
         "A class line names its category by the category page's key rather than by that page's slug.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
