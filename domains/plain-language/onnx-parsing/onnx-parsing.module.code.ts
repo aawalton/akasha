@@ -63,7 +63,7 @@ type Loaded = {
 }
 
 const MODEL_PAGE = new URL(
-  "../parser-models/compact-parser/compact-parser.parser-model.ts",
+  "../parser-models/pages/compact-parser/compact-parser.parser-model.ts",
   import.meta.url
 )
 
