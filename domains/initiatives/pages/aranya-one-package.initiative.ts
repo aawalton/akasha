@@ -33,7 +33,7 @@ export const aranyaOnePackage = {
     {
       statement: "No folder but the root is a workspace package.",
       workingMemory:
-        "279 manifests, 96 of them under temper. None is installed separately from the root: the generated service Dockerfiles reproduce the root install inside the image, the one hand-written Containerfile that installs is `COPY . .` then `bun install --frozen-lockfile`, and the five inference Containerfiles use only apt and pip.",
+        "None is installed separately from the root: the service Dockerfiles reproduce the root install inside the image. 113 files no page claims are absent from the index, so a fold neither sees nor respells their reaches and lands broken in silence; they are the react-router route modules under the five apps and `lua-compiler/lualib/src`, and 19 packages are named from them. `temper/temper-web` shows the shape that claims a route.",
     },
     {
       statement: "One change replaces every relative path in a folder with an absolute path.",
