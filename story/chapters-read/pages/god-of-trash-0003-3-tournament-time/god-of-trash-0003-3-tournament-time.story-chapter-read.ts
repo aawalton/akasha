@@ -5,7 +5,7 @@ export const godOfTrash00033TournamentTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0003-3-tournament-time",
   title: "3. Tournament Time",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 3,
   ownLength: 5337,
   unitSlug: "words",

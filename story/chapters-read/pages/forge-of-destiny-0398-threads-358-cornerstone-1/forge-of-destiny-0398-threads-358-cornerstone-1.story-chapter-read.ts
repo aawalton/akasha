@@ -5,7 +5,7 @@ export const forgeOfDestiny0398Threads358Cornerstone1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0398-threads-358-cornerstone-1",
   title: "Threads 358-Cornerstone 1",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 398,
   ownLength: 1683,
   unitSlug: "words",

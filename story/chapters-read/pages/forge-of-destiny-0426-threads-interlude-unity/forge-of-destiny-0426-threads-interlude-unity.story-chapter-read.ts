@@ -5,7 +5,7 @@ export const forgeOfDestiny0426ThreadsInterludeUnity = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0426-threads-interlude-unity",
   title: "Threads Interlude:  Unity",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 426,
   ownLength: 2473,
   unitSlug: "words",

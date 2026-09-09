@@ -5,7 +5,7 @@ export const gamerGirlEvolution00099NoobPartyAntics = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0009-9-noob-party-antics",
   title: "9 – Noob Party Antics",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 9,
   ownLength: 2235,
   ownProgress: 2235,

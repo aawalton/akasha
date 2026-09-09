@@ -5,7 +5,7 @@ export const gamerGirlEvolution001717BladeVillage = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0017-17-blade-village",
   title: "17 - Blade Village ",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 17,
   ownLength: 2230,
   ownProgress: 2230,

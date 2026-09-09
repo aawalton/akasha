@@ -5,7 +5,7 @@ export const forgeOfDestiny0511ThreadsChapter466MengDan5 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0511-threads-chapter-466-meng-dan-5",
   title: "Threads Chapter 466-Meng Dan 5",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 511,
   ownLength: 1808,
   unitSlug: "words",

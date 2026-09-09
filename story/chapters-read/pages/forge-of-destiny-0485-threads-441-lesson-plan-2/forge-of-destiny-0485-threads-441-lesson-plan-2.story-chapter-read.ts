@@ -5,7 +5,7 @@ export const forgeOfDestiny0485Threads441LessonPlan2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0485-threads-441-lesson-plan-2",
   title: "Threads 441-Lesson Plan 2",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 485,
   ownLength: 1716,
   unitSlug: "words",

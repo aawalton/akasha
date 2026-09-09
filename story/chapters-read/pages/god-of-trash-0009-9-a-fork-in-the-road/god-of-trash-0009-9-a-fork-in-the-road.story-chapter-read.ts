@@ -5,7 +5,7 @@ export const godOfTrash00099AForkInTheRoad = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0009-9-a-fork-in-the-road",
   title: "9. A Fork in the Road",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 9,
   ownLength: 4436,
   unitSlug: "words",

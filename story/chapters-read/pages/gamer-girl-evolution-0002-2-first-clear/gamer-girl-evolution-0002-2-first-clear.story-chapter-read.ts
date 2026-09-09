@@ -5,7 +5,7 @@ export const gamerGirlEvolution00022FirstClear = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0002-2-first-clear",
   title: "2 - First Clear",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 2,
   ownLength: 1881,
   ownProgress: 1881,

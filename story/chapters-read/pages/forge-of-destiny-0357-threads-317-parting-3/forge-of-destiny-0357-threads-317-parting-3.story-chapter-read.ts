@@ -5,7 +5,7 @@ export const forgeOfDestiny0357Threads317Parting3 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0357-threads-317-parting-3",
   title: "Threads 317 Parting 3",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 357,
   ownLength: 2202,
   unitSlug: "words",

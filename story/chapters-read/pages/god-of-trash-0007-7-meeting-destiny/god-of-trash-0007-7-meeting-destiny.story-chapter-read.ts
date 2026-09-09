@@ -5,7 +5,7 @@ export const godOfTrash00077MeetingDestiny = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0007-7-meeting-destiny",
   title: "7. Meeting Destiny",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 7,
   ownLength: 3626,
   unitSlug: "words",

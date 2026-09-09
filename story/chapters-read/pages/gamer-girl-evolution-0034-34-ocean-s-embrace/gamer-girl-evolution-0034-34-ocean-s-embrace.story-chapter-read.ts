@@ -5,7 +5,7 @@ export const gamerGirlEvolution003434OceanSEmbrace = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0034-34-ocean-s-embrace",
   title: "34 - Ocean's Embrace",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 34,
   ownLength: 1559,
   ownProgress: 1559,

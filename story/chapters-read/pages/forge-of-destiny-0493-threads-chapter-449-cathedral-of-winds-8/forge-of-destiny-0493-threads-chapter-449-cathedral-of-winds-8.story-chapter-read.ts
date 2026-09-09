@@ -5,7 +5,7 @@ export const forgeOfDestiny0493ThreadsChapter449CathedralOfWinds8 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0493-threads-chapter-449-cathedral-of-winds-8",
   title: "Threads Chapter 449-Cathedral of Winds 8",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 493,
   ownLength: 1957,
   unitSlug: "words",

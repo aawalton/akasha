@@ -5,7 +5,7 @@ export const forgeOfDestiny0460Threads416TamingWinter5 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0460-threads-416-taming-winter-5",
   title: "Threads 416-Taming Winter 5",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 460,
   ownLength: 1413,
   unitSlug: "words",

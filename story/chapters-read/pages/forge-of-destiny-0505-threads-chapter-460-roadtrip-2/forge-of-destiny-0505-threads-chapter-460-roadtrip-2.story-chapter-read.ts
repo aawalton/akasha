@@ -5,7 +5,7 @@ export const forgeOfDestiny0505ThreadsChapter460Roadtrip2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0505-threads-chapter-460-roadtrip-2",
   title: "Threads Chapter 460-Roadtrip 2",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 505,
   ownLength: 2370,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const forgeOfDestiny0332InterludeWintersEndTourPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0332-interlude-winters-end-tour-part-2",
   title: "Interlude: Winter's End Tour Part 2",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 332,
   ownLength: 1691,
   unitSlug: "words",

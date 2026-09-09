@@ -4,7 +4,7 @@ export const forgeOfDestiny0592Threads543Fantasia6 = {
   id: "01a07252-32ed-752b-9adc-20945e707870",
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0592-threads-543-fantasia-6",
-  storySlug: "story-read/forge-of-destiny",
+  story: "story-read/forge-of-destiny",
   position: 592,
   publishedAt: "2026-09-04",
   unitSlug: "words",

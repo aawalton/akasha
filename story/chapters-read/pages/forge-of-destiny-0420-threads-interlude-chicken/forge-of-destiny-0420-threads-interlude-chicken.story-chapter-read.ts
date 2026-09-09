@@ -5,7 +5,7 @@ export const forgeOfDestiny0420ThreadsInterludeChicken = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0420-threads-interlude-chicken",
   title: "Threads Interlude: Chicken.",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 420,
   ownLength: 1236,
   unitSlug: "words",

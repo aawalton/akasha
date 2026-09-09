@@ -5,7 +5,7 @@ export const gamerGirlEvolution004242AquaRiftCore = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0042-42-aqua-rift-core",
   title: "42 - Aqua Rift-Core",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 42,
   ownLength: 1530,
   ownProgress: 1530,

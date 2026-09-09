@@ -5,7 +5,7 @@ export const gamerGirlEvolution001212ATaleOfTwoGamerGirls = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0012-12-a-tale-of-two-gamer-girls",
   title: "12 - A Tale of Two Gamer Girls",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 12,
   ownLength: 1969,
   ownProgress: 1969,

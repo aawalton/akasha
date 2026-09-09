@@ -5,7 +5,7 @@ export const godOfTrash00044CashingIn = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0004-4-cashing-in",
   title: "4. Cashing In",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 4,
   ownLength: 3610,
   unitSlug: "words",

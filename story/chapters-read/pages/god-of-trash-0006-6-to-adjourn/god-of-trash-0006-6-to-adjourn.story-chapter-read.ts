@@ -5,7 +5,7 @@ export const godOfTrash00066ToAdjourn = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0006-6-to-adjourn",
   title: "6. To Adjourn",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 6,
   ownLength: 4057,
   unitSlug: "words",

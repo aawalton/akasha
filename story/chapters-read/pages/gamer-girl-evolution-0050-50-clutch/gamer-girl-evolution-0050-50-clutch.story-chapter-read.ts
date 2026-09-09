@@ -5,7 +5,7 @@ export const gamerGirlEvolution005050Clutch = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0050-50-clutch",
   title: "50 - Clutch",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 50,
   ownLength: 2415,
   ownProgress: 2415,

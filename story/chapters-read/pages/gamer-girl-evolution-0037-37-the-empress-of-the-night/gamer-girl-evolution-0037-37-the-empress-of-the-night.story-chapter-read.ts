@@ -5,7 +5,7 @@ export const gamerGirlEvolution003737TheEmpressOfTheNight = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0037-37-the-empress-of-the-night",
   title: "37 - The Empress of the Night",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 37,
   ownLength: 1558,
   ownProgress: 1558,

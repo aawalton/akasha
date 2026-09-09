@@ -5,7 +5,7 @@ export const gamerGirlEvolution001414WelcomeBackPlayers = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0014-14-welcome-back-players",
   title: "14 - Welcome Back Players",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 14,
   ownLength: 1747,
   ownProgress: 1747,

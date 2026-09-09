@@ -5,7 +5,7 @@ export const forgeOfDestiny0447ThreadsChapterChapter403Standing1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0447-threads-chapter-chapter-403-standing-1",
   title: "Threads Chapter Chapter 403-Standing 1",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 447,
   ownLength: 1897,
   unitSlug: "words",

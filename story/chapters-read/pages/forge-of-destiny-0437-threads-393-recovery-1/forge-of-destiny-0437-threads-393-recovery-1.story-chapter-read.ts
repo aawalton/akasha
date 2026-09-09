@@ -5,7 +5,7 @@ export const forgeOfDestiny0437Threads393Recovery1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0437-threads-393-recovery-1",
   title: "Threads 393-Recovery 1",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 437,
   ownLength: 2618,
   unitSlug: "words",

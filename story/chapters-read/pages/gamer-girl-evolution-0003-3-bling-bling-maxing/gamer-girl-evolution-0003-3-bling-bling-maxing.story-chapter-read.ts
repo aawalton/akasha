@@ -5,7 +5,7 @@ export const gamerGirlEvolution00033BlingBlingMaxing = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0003-3-bling-bling-maxing",
   title: "3 – Bling Bling Maxing",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 3,
   ownLength: 1899,
   ownProgress: 1899,

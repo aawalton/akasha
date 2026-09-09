@@ -5,7 +5,7 @@ export const gamerGirlEvolution00055NoPartyMembersRequired = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0005-5-no-party-members-required",
   title: "5 – No Party Members Required",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 5,
   ownLength: 2062,
   ownProgress: 2062,

@@ -5,7 +5,7 @@ export const gamerGirlEvolution002323LetSTeachIngrid2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0023-23-let-s-teach-ingrid-2",
   title: "23 - Let's Teach Ingrid (2)",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 23,
   ownLength: 2134,
   ownProgress: 2134,

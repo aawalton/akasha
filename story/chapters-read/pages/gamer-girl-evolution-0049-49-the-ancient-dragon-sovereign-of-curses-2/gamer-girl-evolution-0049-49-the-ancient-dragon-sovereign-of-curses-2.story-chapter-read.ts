@@ -5,7 +5,7 @@ export const gamerGirlEvolution004949TheAncientDragonSovereignOfCurses2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0049-49-the-ancient-dragon-sovereign-of-curses-2",
   title: "49 - The Ancient Dragon Sovereign of Curses (2)",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 49,
   ownLength: 1663,
   ownProgress: 1663,

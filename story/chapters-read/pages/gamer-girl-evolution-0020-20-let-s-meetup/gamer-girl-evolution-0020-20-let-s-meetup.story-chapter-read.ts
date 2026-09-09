@@ -5,7 +5,7 @@ export const gamerGirlEvolution002020LetSMeetup = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0020-20-let-s-meetup",
   title: "20 - Let's Meetup",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 20,
   ownLength: 1770,
   ownProgress: 1770,

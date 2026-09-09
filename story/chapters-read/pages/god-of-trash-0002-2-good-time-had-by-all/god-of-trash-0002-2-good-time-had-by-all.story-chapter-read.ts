@@ -5,7 +5,7 @@ export const godOfTrash00022GoodTimeHadByAll = {
   pageTypeSlug: "story-chapter-read",
   slug: "god-of-trash-0002-2-good-time-had-by-all",
   title: "2. Good Time Had By All",
-  storySlug: "god-of-trash",
+  story: "god-of-trash",
   position: 2,
   ownLength: 4677,
   unitSlug: "words",

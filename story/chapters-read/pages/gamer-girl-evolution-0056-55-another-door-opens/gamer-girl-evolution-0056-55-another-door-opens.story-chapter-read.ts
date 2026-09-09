@@ -5,7 +5,7 @@ export const gamerGirlEvolution005655AnotherDoorOpens = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0056-55-another-door-opens",
   title: "55 - Another Door Opens!",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 56,
   ownLength: 1446,
   unitSlug: "words",

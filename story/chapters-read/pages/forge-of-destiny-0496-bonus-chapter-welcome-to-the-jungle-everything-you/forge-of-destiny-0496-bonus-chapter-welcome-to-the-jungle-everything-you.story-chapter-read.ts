@@ -5,7 +5,7 @@ export const forgeOfDestiny0496BonusChapterWelcomeToTheJungleEverythingYou = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0496-bonus-chapter-welcome-to-the-jungle-everything-you",
   title: "Bonus Chapter Welcome to the Jungle: Everything you Want",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 496,
   ownLength: 1238,
   unitSlug: "words",

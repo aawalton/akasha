@@ -5,7 +5,7 @@ export const forgeOfDestiny0432Threads389MakingGood2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0432-threads-389-making-good-2",
   title: "Threads 389-Making Good 2",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 432,
   ownLength: 1868,
   unitSlug: "words",

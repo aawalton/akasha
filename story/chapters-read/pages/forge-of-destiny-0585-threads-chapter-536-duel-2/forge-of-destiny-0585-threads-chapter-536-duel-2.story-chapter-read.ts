@@ -5,7 +5,7 @@ export const forgeOfDestiny0585ThreadsChapter536Duel2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0585-threads-chapter-536-duel-2",
   title: "Threads Chapter 536-Duel 2",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 585,
   ownLength: 1868,
   unitSlug: "words",

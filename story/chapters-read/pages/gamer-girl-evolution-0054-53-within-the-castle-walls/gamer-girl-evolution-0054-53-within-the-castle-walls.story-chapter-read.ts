@@ -5,7 +5,7 @@ export const gamerGirlEvolution005453WithinTheCastleWalls = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0054-53-within-the-castle-walls",
   title: "53 - Within The Castle Walls",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 54,
   ownLength: 1984,
   ownProgress: 765,

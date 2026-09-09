@@ -5,7 +5,7 @@ export const gamerGirlEvolution001616TheCyclopsMarsh2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0016-16-the-cyclops-marsh-2",
   title: "16 - The Cyclops' Marsh (2)",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 16,
   ownLength: 1952,
   ownProgress: 1952,

@@ -5,7 +5,7 @@ export const forgeOfDestiny0535Announcement = {
   pageTypeSlug: "story-chapter-read",
   slug: "forge-of-destiny-0535-announcement",
   title: "Announcement!",
-  storySlug: "forge-of-destiny",
+  story: "forge-of-destiny",
   position: 535,
   ownLength: 229,
   unitSlug: "words",

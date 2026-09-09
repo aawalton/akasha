@@ -5,7 +5,7 @@ export const gamerGirlEvolution00077HugeNewsForTheUnemplYed = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0007-7-huge-news-for-the-unempl-yed",
   title: "7 – Huge News for the Unempl*yed",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 7,
   ownLength: 1776,
   ownProgress: 1776,

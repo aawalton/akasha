@@ -5,7 +5,7 @@ export const gamerGirlEvolution00088WeDoALittleBitOfTrolling = {
   pageTypeSlug: "story-chapter-read",
   slug: "gamer-girl-evolution-0008-8-we-do-a-little-bit-of-trolling",
   title: "8 – We do a Little Bit of Trolling",
-  storySlug: "gamer-girl-evolution",
+  story: "gamer-girl-evolution",
   position: 8,
   ownLength: 2745,
   ownProgress: 2745,
