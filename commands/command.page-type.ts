@@ -62,6 +62,7 @@ export const command = {
     "module/manifest-locking",
     "module/change-preparing",
     "module/address-mapping",
+    "module/judged-saying",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",

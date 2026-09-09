@@ -1,8 +1,11 @@
+import type { Counting } from "../../commands/modules/judged-saying/judged-saying.module.code.ts"
+import {
+  judgedBy,
+  reachedIn,
+} from "../../commands/modules/judged-saying/judged-saying.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT } from "../gate-building/gate-building.module.code.ts"
-import type { Counting } from "../judged-saying/judged-saying.module.code.ts"
-import { judgedBy, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
 import type { Drafted, FileEdit, Landed } from "../landing/landing.module.code.ts"
 import type { Filled } from "../value-minting/value-minting.module.code.ts"
 
