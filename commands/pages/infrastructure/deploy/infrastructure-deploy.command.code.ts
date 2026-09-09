@@ -1,11 +1,11 @@
 import type { Answer, Given } from "../../../modules/calling/calling.module.code.ts"
 import { refused } from "../../../modules/calling/calling.module.code.ts"
-import { shipIosApp } from "../../../modules/deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
 import {
   IOS_APP,
   kindNamed,
 } from "../../../modules/deploy-kind-reading/deploy-kind-reading.module.code.ts"
 import { putUpWebApp } from "../../../modules/deploy-web-putting-up/deploy-web-putting-up.module.code.ts"
+import { shipIosApp } from "./deploy-ios-shipping/deploy-ios-shipping.module.code.ts"
 
 const INPUT = 1
 const DATA = 2
