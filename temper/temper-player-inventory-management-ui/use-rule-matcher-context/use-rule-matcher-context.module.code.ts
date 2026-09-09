@@ -1,5 +1,4 @@
 import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
-import { useCharacterList } from "@akasha/temper-characters-character-ui/use-characters"
 import { useCompanionList } from "@akasha/temper-companions-ui/use-companions"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
 import type {
@@ -14,6 +13,7 @@ import {
   buildDerivedContext,
   mergeInventoryContext,
 } from "akasha/temper/items-rules-matcher/rule-matcher-context/rule-matcher-context.module.code.ts"
+import { useCharacterList } from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
 import { useMemo } from "react"
 
 export function useRuleMatcherContext(

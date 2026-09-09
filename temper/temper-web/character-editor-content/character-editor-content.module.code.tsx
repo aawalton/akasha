@@ -14,14 +14,14 @@ import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { encodeBuild } from "@akasha/temper-build-codec/build-codec"
 import { extractCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { characterUrl } from "@akasha/temper-build-support/build-url"
-import {
-  useCharacterLifecycle,
-  useCharacterList,
-} from "@akasha/temper-characters-character-ui/use-characters"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useCompletionCharacters } from "@akasha/temper-player-completion-ui/use-completion"
 import { usePlayer } from "@akasha/temper-player-profile/use-player"
 import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import {
+  useCharacterLifecycle,
+  useCharacterList,
+} from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
 import { CharacterEditorHeader } from "../character-editor-header/character-editor-header.module.code.tsx"

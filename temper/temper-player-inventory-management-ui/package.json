@@ -22,7 +22,6 @@
     "@akasha/pages-query": "workspace:*",
     "@akasha/pages-ui": "workspace:*",
     "@akasha/temper-build-support": "workspace:*",
-    "@akasha/temper-characters-character-ui": "workspace:*",
     "@akasha/temper-characters-equipment": "workspace:*",
     "@akasha/temper-characters-equipment-ui": "workspace:*",
     "@akasha/temper-companions-ui": "workspace:*",

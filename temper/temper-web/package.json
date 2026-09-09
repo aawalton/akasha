@@ -40,7 +40,6 @@
     "@akasha/temper-character-build": "workspace:*",
     "@akasha/temper-character-skills": "workspace:*",
     "@akasha/temper-character-sources": "workspace:*",
-    "@akasha/temper-characters-character-ui": "workspace:*",
     "@akasha/temper-characters-equipment": "workspace:*",
     "@akasha/temper-characters-equipment-ui": "workspace:*",
     "@akasha/temper-characters-stats": "workspace:*",

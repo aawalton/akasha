@@ -120,7 +120,8 @@
     "@akasha/temper-capture-errors": "workspace:*",
     "@akasha/temper-character-build": "workspace:*",
     "@akasha/temper-items-filters-core": "workspace:*",
-    "@akasha/supabase-rr": "workspace:*"
+    "@akasha/supabase-rr": "workspace:*",
+    "@akasha/pages-ui": "workspace:*"
   },
   "devDependencies": {
     "@biomejs/biome": "2.4.7",

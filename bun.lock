@@ -32,6 +32,7 @@
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-query": "workspace:*",
         "@akasha/pages-service": "workspace:*",
+        "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/rules-engine": "workspace:*",
         "@akasha/seat-system": "workspace:*",
@@ -1571,20 +1572,6 @@
         "@akasha/utils": "workspace:*",
       },
     },
-    "temper/temper-characters-character-ui": {
-      "name": "@akasha/temper-characters-character-ui",
-      "dependencies": {
-        "@akasha/pages-access": "workspace:*",
-        "@akasha/pages-ui": "workspace:*",
-        "@akasha/temper-build-metadata": "workspace:*",
-        "@akasha/temper-character-build": "workspace:*",
-        "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-      "peerDependencies": {
-        "react": "^18 || ^19",
-      },
-    },
     "temper/temper-characters-equipment": {
       "name": "@akasha/temper-characters-equipment",
       "dependencies": {
@@ -1857,7 +1844,6 @@
         "@akasha/pages-query": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-characters-character-ui": "workspace:*",
         "@akasha/temper-characters-equipment": "workspace:*",
         "@akasha/temper-characters-equipment-ui": "workspace:*",
         "@akasha/temper-companions-ui": "workspace:*",
@@ -1942,7 +1928,6 @@
         "@akasha/temper-character-build": "workspace:*",
         "@akasha/temper-character-skills": "workspace:*",
         "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-characters-character-ui": "workspace:*",
         "@akasha/temper-characters-equipment": "workspace:*",
         "@akasha/temper-characters-equipment-ui": "workspace:*",
         "@akasha/temper-characters-stats": "workspace:*",
@@ -2235,8 +2220,6 @@
     "@akasha/temper-characters-addon": ["@akasha/temper-characters-addon@workspace:temper/temper-characters-addon"],
 
     "@akasha/temper-characters-capture-addon": ["@akasha/temper-characters-capture-addon@workspace:temper/characters-capture-addon"],
-
-    "@akasha/temper-characters-character-ui": ["@akasha/temper-characters-character-ui@workspace:temper/temper-characters-character-ui"],
 
     "@akasha/temper-characters-equipment": ["@akasha/temper-characters-equipment@workspace:temper/temper-characters-equipment"],
 

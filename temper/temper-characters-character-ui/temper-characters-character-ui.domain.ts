@@ -1,10 +1,9 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCharactersCharacterUi = {
   id: "01a06360-7480-7000-9774-4c44f4a2124c",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-characters-character-ui",
   definition: "the character builds a player keeps, listed, edited and shared",
-  manifest: "json",
   parts: ["module/use-characters"],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
