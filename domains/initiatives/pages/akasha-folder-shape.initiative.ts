@@ -10,7 +10,7 @@ export const akashaFolderShape = {
     {
       statement: "No relation property's name ends in `slug`.",
       workingMemory:
-        "`rename-page-property-property-slug` then `rename-page`, in three landings: readers take both keys, the rename, readers take one. Grep kebab and camel. 481 pages hold in one checked apply; past that `copy-property-on-every-page` opens a second key where the type member cannot go optional. Move at 700 — 11s plus 0.053s a page. One bad page refuses a whole batch and sits in every later one, so read `page-matches-its-type` first. A stale index makes the rename do nothing and say nothing.\n",
+        "`rename-page-property-property-slug` then `rename-page`. The key turn, the declarations and the window removal are one landing: an orphaned property page is no restable state. A two-key window files every carrying page's edge under the window's own slug, so refresh at both seams and read `relation-resolves` there. Batch 350 long, 500 light; 1000 dies at the ceiling. Grep kebab and camel after every batch — a run reaching no page now refuses rather than reporting done.\n",
     },
     {
       statement: "Every folder in akasha has a shape allowed by folder-matches-a-shape.",
