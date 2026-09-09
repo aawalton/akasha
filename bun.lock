@@ -1562,9 +1562,6 @@
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "temper/explain": {
-      "name": "@akasha/temper-explain",
-    },
     "temper/game-catalog-capture-addon": {
       "name": "@akasha/temper-game-catalog-capture-addon",
       "dependencies": {
@@ -2859,8 +2856,6 @@
     "@akasha/temper-eso-typings": ["@akasha/temper-eso-typings@workspace:temper/eso-typings"],
 
     "@akasha/temper-events-addon": ["@akasha/temper-events-addon@workspace:temper/events-addon"],
-
-    "@akasha/temper-explain": ["@akasha/temper-explain@workspace:temper/explain"],
 
     "@akasha/temper-formula-framework": ["@akasha/temper-formula-framework@workspace:temper/temper-formula-framework"],
 

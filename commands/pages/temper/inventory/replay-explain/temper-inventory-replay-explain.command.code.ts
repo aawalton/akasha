@@ -7,7 +7,7 @@ import {
   formatExplainWalk,
   type JsonOutput,
   type RuleTraceRow,
-} from "@akasha/temper-explain/explain-walk"
+} from "akasha/temper/explain/explain-walk/explain-walk.module.code.ts"
 import { readLastExplain } from "../../../../../temper/temper-commands/explain-replay-reading/explain-replay-reading.module.code.ts"
 
 const INPUT = 1

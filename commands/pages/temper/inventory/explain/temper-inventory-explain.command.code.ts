@@ -10,7 +10,7 @@ import {
   type OutcomeJson,
   type RuleTraceRow,
   type TtcBreakdown,
-} from "@akasha/temper-explain/explain-walk"
+} from "akasha/temper/explain/explain-walk/explain-walk.module.code.ts"
 import {
   allBagItems,
   type CharacterKnowledge,

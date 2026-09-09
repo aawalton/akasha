@@ -37,7 +37,7 @@ export const temper = {
     "domain/temper-commands",
     "workspace-package/temper-dungeons",
     "domain/temper-dungeon-champions",
-    "workspace-package/temper-explain",
+    "domain/temper-explain",
     "workspace-package/temper-upstream-data",
     "workspace-package/temper-addon-build",
     "workspace-package/temper-capture-shapes",

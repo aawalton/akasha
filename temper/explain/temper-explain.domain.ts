@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperExplain = {
   id: "01a06036-188b-7300-a40a-cf64d7d65a8b",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-explain",
   definition: "an account of what the inventory rules did to one item",
-  manifest: "json",
   parts: ["module/explain-walk"],
   invariants: [
     {
@@ -18,4 +17,4 @@ export const temperExplain = {
         "An account names every rule the item met rather than the rule that took the item.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
