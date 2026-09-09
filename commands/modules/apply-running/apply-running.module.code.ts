@@ -3,7 +3,6 @@ import type { FileChange } from "@akasha/changes/change-answer/types"
 import { droppedFirst, editsAt, foldedIn, keptEdits, linesIn } from "@akasha/changes/edits-keeping"
 import { agentPathOf } from "@akasha/context/warranting"
 import { costRecorded, opening } from "../../../checks/modules/check-cost/check-cost.module.code.ts"
-import { writtenPathsIn } from "../../../command-system/address-mapping/address-mapping.module.code.ts"
 import {
   applying,
   askedIn,
@@ -28,6 +27,7 @@ import {
 } from "../../../command-system/drafting/drafting.module.code.ts"
 import { bodiesFrom } from "../../../command-system/edits-landing/edits-landing.module.code.ts"
 import { inputIn, type Piping } from "../../../command-system/piping/piping.module.code.ts"
+import { writtenPathsIn } from "../address-mapping/address-mapping.module.code.ts"
 import { APPLY, CHANGE_APPLY_PAGE } from "../change-costing/change-costing.module.code.ts"
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
