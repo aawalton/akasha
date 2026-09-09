@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const azarinthHealer0016NotAChapterUpdateOnTheStoryserialized = {
   id: "01a08396-093d-7001-82f0-d2995611f5fa",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "azarinth-healer-0016-not-a-chapter-update-on-the-storyserialized",
   story: "story-read/azarinth-healer",
   position: 16,

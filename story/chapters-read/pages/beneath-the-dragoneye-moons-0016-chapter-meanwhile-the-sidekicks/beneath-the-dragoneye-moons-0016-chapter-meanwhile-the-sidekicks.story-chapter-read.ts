@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const beneathTheDragoneyeMoons0016ChapterMeanwhileTheSidekicks = {
   id: "01a06731-af15-7006-b244-01a001da03f7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0016-chapter-meanwhile-the-sidekicks",
   title: "Chapter ??? - Meanwhile, the sidekicks",
   story: "story-read/beneath-the-dragoneye-moons",

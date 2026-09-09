@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const azarinthHealer0007AzarinthHealerBookOneEditedByPortalBooksOutDecember = {
   id: "01a06731-aff7-7001-8682-84d27fa9979e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "azarinth-healer-0007-azarinth-healer-book-one-edited-by-portal-books-out-december",
   title: "Azarinth Healer - Book One - Edited by Portal Books - Out December 1st",
   story: "story-read/azarinth-healer",

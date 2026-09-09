@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const beneathTheDragoneyeMoons0006ChapterTheCovenOfFabulousWitches0 = {
   id: "01a06731-af13-7005-8dbf-b8422cefd154",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0006-chapter-the-coven-of-fabulous-witches-0",
   title: "Chapter ???? – The Coven of Fabulous Witches 0",
   story: "story-read/beneath-the-dragoneye-moons",

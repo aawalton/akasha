@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const beneathTheDragoneyeMoons0010ChapterDragoneyeMortis12 = {
   id: "01a08396-4ad9-7d4d-8395-dbe35c1b070a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0010-chapter-dragoneye-mortis-12",
   story: "story-read/beneath-the-dragoneye-moons",
   position: 10,

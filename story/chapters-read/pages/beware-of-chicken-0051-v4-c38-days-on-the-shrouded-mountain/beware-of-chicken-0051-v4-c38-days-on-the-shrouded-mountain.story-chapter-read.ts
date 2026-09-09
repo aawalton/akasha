@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0051V4C38DaysOnTheShroudedMountain = {
   id: "01a06731-ad74-7000-8063-4f0381172ec1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0051-v4-c38-days-on-the-shrouded-mountain",
   title: "v4 c38: Days on the Shrouded Mountain",
   story: "story-read/beware-of-chicken",

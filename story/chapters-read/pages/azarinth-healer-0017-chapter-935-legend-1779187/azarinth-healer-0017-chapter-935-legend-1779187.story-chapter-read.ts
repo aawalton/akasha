@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const azarinthHealer0017Chapter935Legend1779187 = {
   id: "01a08396-0a45-7515-b02b-ccb0519574fc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "azarinth-healer-0017-chapter-935-legend-1779187",
   story: "story-read/azarinth-healer",
   position: 17,

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0055V4c42FortyYearsAndFortyMore = {
   id: "01a06731-ad78-7002-93f5-9731b353e7a0",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0055-v4c42-forty-years-and-forty-more",
   title: "v4c42: Forty Years, and Forty More",
   story: "story-read/beware-of-chicken",

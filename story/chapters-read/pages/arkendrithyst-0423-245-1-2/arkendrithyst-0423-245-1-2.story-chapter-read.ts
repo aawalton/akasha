@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const arkendrithyst042324512 = {
   id: "01a0672c-ecae-7000-acc1-c20e5f1aec52",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "arkendrithyst-0423-245-1-2",
   title: "245, 1/2",
   story: "arkendrithyst",

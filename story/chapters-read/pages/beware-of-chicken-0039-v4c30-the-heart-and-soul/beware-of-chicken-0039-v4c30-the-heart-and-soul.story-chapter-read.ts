@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0039V4c30TheHeartAndSoul = {
   id: "01a06731-ad69-7002-895c-7ecd4b964dce",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0039-v4c30-the-heart-and-soul",
   title: "v4c30: The Heart and Soul",
   story: "story-read/beware-of-chicken",

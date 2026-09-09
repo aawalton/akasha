@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0034V4c25TheMoonNoLongerHiddenByClouds = {
   id: "01a06731-ad64-7003-ae1b-8762a28cc1c2",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0034-v4c25-the-moon-no-longer-hidden-by-clouds",
   title: "v4c25: The Moon, no Longer Hidden By Clouds",
   story: "story-read/beware-of-chicken",

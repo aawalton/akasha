@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const azarinthHealer0015AzarinthHealerBook3OutTodayOnAmazonAndAudibleMassi = {
   id: "01a06731-affa-7000-8dfd-29fc4a2f8283",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "azarinth-healer-0015-azarinth-healer-book-3-out-today-on-amazon-and-audible-massi",
   title:
     "Azarinth Healer – Book 3 – Out today on Amazon and Audible! Massive edits. M a s s I v e.",

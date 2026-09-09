@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0043V4c322TheScribeSReturnP2 = {
   id: "01a06731-ad69-7006-a253-336b6f22b0ca",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0043-v4c32-2-the-scribe-s-return-p2",
   title: "v4c32.2: The Scribe's Return p2",
   story: "story-read/beware-of-chicken",

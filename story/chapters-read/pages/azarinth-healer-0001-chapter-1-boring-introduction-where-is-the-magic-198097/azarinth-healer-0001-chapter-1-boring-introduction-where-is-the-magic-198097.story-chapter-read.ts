@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const azarinthHealer0001Chapter1BoringIntroductionWhereIsTheMagic198097 = {
   id: "01a08395-fb5a-70d7-b77a-71e963219388",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "azarinth-healer-0001-chapter-1-boring-introduction-where-is-the-magic-198097",
   story: "story-read/azarinth-healer",
   position: 1,

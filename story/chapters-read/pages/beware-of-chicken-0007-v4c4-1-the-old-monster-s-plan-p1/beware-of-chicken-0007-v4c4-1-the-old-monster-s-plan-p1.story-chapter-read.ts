@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0007V4c41TheOldMonsterSPlanP1 = {
   id: "01a0672c-ec7f-7007-8f3c-79423c3425da",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0007-v4c4-1-the-old-monster-s-plan-p1",
   title: "v4c4.1: The Old Monster's Plan p1",
   story: "story-read/beware-of-chicken",

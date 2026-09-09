@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const beneathTheDragoneyeMoons0001ImageGallery = {
   id: "01a06731-af13-7000-a3b2-c7eecb1ade81",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0001-image-gallery",
   title: "Image Gallery!",
   story: "story-read/beneath-the-dragoneye-moons",

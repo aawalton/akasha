@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const azarinthHealer0006TheUnionOfDubiousDamesIi656181 = {
   id: "01a08395-fff2-75aa-b40a-b06e4f7e0ef8",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "azarinth-healer-0006-the-union-of-dubious-dames-ii-656181",
   story: "story-read/azarinth-healer",
   position: 6,

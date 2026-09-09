@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0050V4c37TheLegendOfTheAzureHeroes1332094 = {
   id: "01a08396-b51a-7f49-b718-d24a792a6687",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0050-v4c37-the-legend-of-the-azure-heroes-1332094",
   story: "story-read/beware-of-chicken",
   position: 50,

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const beneathTheDragoneyeMoons0013CatchupArtwork = {
   id: "01a06731-af15-7003-85e8-4c108c47a751",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0013-catchup-artwork",
   title: "Catchup Artwork!",
   story: "story-read/beneath-the-dragoneye-moons",

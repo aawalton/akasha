@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const bewareOfChicken0035V4c26TheMountaineerAndTheCraftsman = {
   id: "01a06731-ad64-7004-bf4d-b7c500791085",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "beware-of-chicken-0035-v4c26-the-mountaineer-and-the-craftsman",
   title: "v4c26: The Mountaineer and the Craftsman",
   story: "story-read/beware-of-chicken",
