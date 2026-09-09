@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0086113IiBlock = {
   story: "path-of-the-deathless-book-4-completed",
   position: 86,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2593051/113-ii-block",

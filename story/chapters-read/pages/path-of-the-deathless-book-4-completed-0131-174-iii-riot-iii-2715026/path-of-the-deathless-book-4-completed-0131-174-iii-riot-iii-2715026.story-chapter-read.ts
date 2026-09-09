@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0131174IiiRiotIii2715026 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 131,
   ownLength: 2015,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2715026/174-iii-riot-iii",

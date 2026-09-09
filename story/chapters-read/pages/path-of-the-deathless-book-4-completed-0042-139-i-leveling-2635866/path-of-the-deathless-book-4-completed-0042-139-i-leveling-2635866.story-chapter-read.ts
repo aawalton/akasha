@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0042139ILeveling2635866 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 42,
   ownLength: 2227,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2635866/139-i-leveling",

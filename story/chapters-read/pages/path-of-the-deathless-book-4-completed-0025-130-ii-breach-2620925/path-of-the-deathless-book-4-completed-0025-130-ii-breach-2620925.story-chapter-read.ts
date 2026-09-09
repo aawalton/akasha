@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0025130IiBreach2620925 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 25,
   ownLength: 3317,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2620925/130-ii-breach",

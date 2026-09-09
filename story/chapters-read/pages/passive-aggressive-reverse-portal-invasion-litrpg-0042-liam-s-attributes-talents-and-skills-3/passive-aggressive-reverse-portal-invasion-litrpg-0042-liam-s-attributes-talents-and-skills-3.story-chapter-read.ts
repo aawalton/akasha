@@ -8,7 +8,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0042LiamSAttributesTale
   story: "passive-aggressive-reverse-portal-invasion-litrpg",
   position: 42,
   ownLength: 665,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3611260/liams-attributes-talents-and-skills-3",

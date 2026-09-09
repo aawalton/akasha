@@ -8,7 +8,7 @@ export const newGam3Plus0009Paths = {
   story: "new-gam3-plus",
   position: 9,
   ownLength: 2245,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1383997/paths",
   externalId: "1383997",

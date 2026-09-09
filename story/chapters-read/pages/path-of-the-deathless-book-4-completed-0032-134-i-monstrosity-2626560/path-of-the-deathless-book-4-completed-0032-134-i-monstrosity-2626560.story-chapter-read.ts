@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0032134IMonstrosity2626560 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 32,
   ownLength: 2377,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2626560/134-i-monstrosity",

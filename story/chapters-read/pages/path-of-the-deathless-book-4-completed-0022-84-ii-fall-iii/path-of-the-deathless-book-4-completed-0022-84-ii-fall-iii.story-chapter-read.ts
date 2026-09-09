@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed002284IiFallIii = {
   story: "path-of-the-deathless-book-4-completed",
   position: 22,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2528353/84-ii-fall-iii",

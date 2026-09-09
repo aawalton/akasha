@@ -9,7 +9,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0016InterruptingTheStor
     story: "passive-aggressive-reverse-portal-invasion-litrpg",
     position: 16,
     ownLength: 179,
-    unitSlug: "words",
+    unit: "words",
     source: "royal-road",
     externalLink:
       "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3491474/interrupting-the-story-for-a-thank-you-note",

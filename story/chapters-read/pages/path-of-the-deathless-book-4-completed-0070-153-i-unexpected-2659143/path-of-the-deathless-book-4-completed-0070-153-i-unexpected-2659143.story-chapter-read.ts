@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0070153IUnexpected2659143 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 70,
   ownLength: 1855,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2659143/153-i-unexpected",

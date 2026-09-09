@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0098161IiiOverwhelmed2682054 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 98,
   ownLength: 2859,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2682054/161-iii-overwhelmed",

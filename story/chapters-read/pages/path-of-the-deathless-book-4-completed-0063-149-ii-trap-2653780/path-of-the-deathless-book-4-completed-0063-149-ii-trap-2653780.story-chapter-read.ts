@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0063149IiTrap2653780 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 63,
   ownLength: 2097,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2653780/149-ii-trap",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0079155IiiTarrasque2666783 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 79,
   ownLength: 1996,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2666783/155-iii-tarrasque",

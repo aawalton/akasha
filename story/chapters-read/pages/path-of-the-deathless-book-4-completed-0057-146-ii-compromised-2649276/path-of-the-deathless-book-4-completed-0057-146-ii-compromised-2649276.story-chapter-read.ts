@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0057146IiCompromised2649276 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 57,
   ownLength: 2548,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2649276/146-ii-compromised",

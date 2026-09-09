@@ -8,7 +8,7 @@ export const newGam3Plus0012HiddenEdits = {
   story: "new-gam3-plus",
   position: 12,
   ownLength: 2782,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1408542/hidden-edits",

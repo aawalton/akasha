@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0114168ILegend2696894 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 114,
   ownLength: 7875,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2696894/168-i-legend",

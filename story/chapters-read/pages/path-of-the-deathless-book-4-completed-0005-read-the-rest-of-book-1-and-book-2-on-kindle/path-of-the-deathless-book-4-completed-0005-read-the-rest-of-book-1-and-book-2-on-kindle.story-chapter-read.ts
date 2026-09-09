@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0005ReadTheRestOfBook1AndBook2OnKin
   story: "path-of-the-deathless-book-4-completed",
   position: 5,
   ownLength: 107,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/3171481/read-the-rest-of-book-1-and-book-2-on-kindle-unlimited",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0058147IConfessions2649518 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 58,
   ownLength: 3389,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2649518/147-i-confessions",

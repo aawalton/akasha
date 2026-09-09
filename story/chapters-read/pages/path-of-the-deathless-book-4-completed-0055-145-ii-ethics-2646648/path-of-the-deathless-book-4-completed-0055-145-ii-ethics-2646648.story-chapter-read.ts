@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0055145IiEthics2646648 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 55,
   ownLength: 2894,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2646648/145-ii-ethics",

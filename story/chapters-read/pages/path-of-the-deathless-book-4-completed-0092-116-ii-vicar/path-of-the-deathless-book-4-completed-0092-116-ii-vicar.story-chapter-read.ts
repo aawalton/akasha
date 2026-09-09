@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0092116IiVicar = {
   story: "path-of-the-deathless-book-4-completed",
   position: 92,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2597882/116-ii-vicar",

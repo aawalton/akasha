@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0073154IWeapon2661776 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 73,
   ownLength: 2803,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2661776/154-i-weapon",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0037136IiAssimilationI2631659 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 37,
   ownLength: 2988,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2631659/136-ii-assimilation-i",

@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed004192IiRadiant = {
   story: "path-of-the-deathless-book-4-completed",
   position: 41,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2547843/92-ii-radiant",

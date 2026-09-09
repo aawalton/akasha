@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0108166IPrison2691624 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 108,
   ownLength: 3791,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2691624/166-i-prison",

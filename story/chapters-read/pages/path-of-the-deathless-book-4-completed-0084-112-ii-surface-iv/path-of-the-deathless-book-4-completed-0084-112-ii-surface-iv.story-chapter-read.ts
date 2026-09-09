@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0084112IiSurfaceIv = {
   story: "path-of-the-deathless-book-4-completed",
   position: 84,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2590814/112-ii-surface-iv",

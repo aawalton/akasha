@@ -8,7 +8,7 @@ export const newGam3Plus0013ToRecap = {
   story: "new-gam3-plus",
   position: 13,
   ownLength: 4731,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1417042/to-recap",
   externalId: "1417042",

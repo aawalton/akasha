@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0046141IPredatorsIi2638791 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 46,
   ownLength: 2454,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2638791/141-i-predators-ii",

@@ -8,7 +8,7 @@ export const newGam3Plus0011BreakingAndEnteringPt2 = {
   story: "new-gam3-plus",
   position: 11,
   ownLength: 2935,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1399822/breaking-and-entering-pt-2",

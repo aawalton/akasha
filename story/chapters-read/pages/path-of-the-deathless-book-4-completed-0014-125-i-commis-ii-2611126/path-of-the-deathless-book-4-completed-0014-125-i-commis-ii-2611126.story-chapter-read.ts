@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0014125ICommisIi2611126 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 14,
   ownLength: 2864,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2611126/125-i-commis-ii",

@@ -9,7 +9,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0043CountdownToLitrpgCo
     story: "passive-aggressive-reverse-portal-invasion-litrpg",
     position: 43,
     ownLength: 208,
-    unitSlug: "words",
+    unit: "words",
     source: "royal-road",
     externalLink:
       "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3616322/countdown-to-litrpg-con-officially-starts-progress",

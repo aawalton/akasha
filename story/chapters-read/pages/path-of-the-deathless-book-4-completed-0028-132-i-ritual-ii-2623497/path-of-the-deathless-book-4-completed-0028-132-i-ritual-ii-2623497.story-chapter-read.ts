@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0028132IRitualIi2623497 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 28,
   ownLength: 2666,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2623497/132-i-ritual-ii",

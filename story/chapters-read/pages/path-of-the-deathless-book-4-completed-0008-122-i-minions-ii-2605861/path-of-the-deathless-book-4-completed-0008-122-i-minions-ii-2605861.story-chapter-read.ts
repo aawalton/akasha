@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0008122IMinionsIi2605861 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 8,
   ownLength: 3433,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2605861/122-i-minions-ii",

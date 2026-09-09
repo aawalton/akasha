@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed004795IiChange = {
   story: "path-of-the-deathless-book-4-completed",
   position: 47,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2556037/95-ii-change",

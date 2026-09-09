@@ -8,7 +8,7 @@ export const passiveAggressiveReversePortalInvasionLitrpg0054Chapter47 = {
   story: "passive-aggressive-reverse-portal-invasion-litrpg",
   position: 54,
   ownLength: 2241,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3723491/chapter-47",

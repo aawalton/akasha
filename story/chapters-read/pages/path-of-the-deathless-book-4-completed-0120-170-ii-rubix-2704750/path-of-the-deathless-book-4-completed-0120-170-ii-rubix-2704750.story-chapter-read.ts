@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed0120170IiRubix2704750 = {
   story: "path-of-the-deathless-book-4-completed",
   position: 120,
   ownLength: 2868,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2704750/170-ii-rubix",

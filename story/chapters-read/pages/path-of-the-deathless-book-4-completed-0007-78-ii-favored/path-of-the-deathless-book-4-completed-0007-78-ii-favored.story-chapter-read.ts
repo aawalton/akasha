@@ -8,7 +8,7 @@ export const pathOfTheDeathlessBook4Completed000778IiFavored = {
   story: "path-of-the-deathless-book-4-completed",
   position: 7,
   ownLength: 0,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-2-stubbed/chapter/2516095/78-ii-favored",
