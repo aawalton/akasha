@@ -39,7 +39,7 @@ export const alanHarness = {
     "workspace-package/web-security-headers",
     "workspace-package/web-page-answers",
     "workspace-package/workspace-paths",
-    "workspace-package/web-build-version",
+    "domain/web-build-version",
     "workspace-package/recurrence",
     "workspace-package/reminder-system",
     "workspace-package/supabase-auth",

@@ -109,7 +109,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/web-build-version": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@capacitor/core": "^8.4.1",
@@ -359,9 +358,6 @@
         "zod": "^4.3.6",
       },
     },
-    "alan/harness/web-build-version": {
-      "name": "@akasha/web-build-version",
-    },
     "alan/harness/web-page-answers": {
       "name": "@akasha/web-page-answers",
       "dependencies": {
@@ -481,7 +477,6 @@
         "@akasha/supabase-server": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/voice-core": "workspace:*",
-        "@akasha/web-build-version": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "@fontsource-variable/literata": "^5.2.5",
@@ -552,7 +547,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/web-build-version": "workspace:*",
         "@fontsource-variable/literata": "^5.2.5",
         "lucide-react": "^0.576.0",
         "react": "19.2.0",
@@ -1225,7 +1219,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/voice-core": "workspace:*",
-        "@akasha/web-build-version": "workspace:*",
         "@types/mdast": "^4.0.4",
         "mdast-util-to-hast": "^13.2.1",
         "react-markdown": "^10.1.0",
@@ -1329,7 +1322,6 @@
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/web-build-version": "workspace:*",
         "@akasha/web-page-answers": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
@@ -1444,7 +1436,6 @@
         "@akasha/status-bar-access": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/web-build-version": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
         "isbot": "^5.1.36",
@@ -2739,7 +2730,6 @@
         "@akasha/temper-trading-pricing": "workspace:*",
         "@akasha/temper-trading-pricing-client": "workspace:*",
         "@akasha/utils": "workspace:*",
-        "@akasha/web-build-version": "workspace:*",
         "@akasha/web-page-answers": "workspace:*",
         "@akasha/web-security-headers": "workspace:*",
         "@akasha/web-static-assets": "workspace:*",
@@ -3368,8 +3358,6 @@
     "@akasha/voice-inference": ["@akasha/voice-inference@workspace:inference/voice-inference"],
 
     "@akasha/wan": ["@akasha/wan@workspace:inference/generations/wan"],
-
-    "@akasha/web-build-version": ["@akasha/web-build-version@workspace:alan/harness/web-build-version"],
 
     "@akasha/web-page-answers": ["@akasha/web-page-answers@workspace:alan/harness/web-page-answers"],
 

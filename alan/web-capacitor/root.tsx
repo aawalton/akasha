@@ -23,8 +23,8 @@ import {
   configurePagesPersistence,
   configurePagesStoreFetch,
 } from "@akasha/pages-ui-store/singleton"
-import { parseBuildSha } from "@akasha/web-build-version/build-sha"
 import literataLatinWoff2 from "@fontsource-variable/literata/files/literata-latin-wght-normal.woff2?url"
+import { parseBuildSha } from "akasha/alan/harness/web-build-version/build-sha/build-sha.module.code.ts"
 import { type ReactNode, useEffect } from "react"
 import {
   isRouteErrorResponse,

@@ -28,7 +28,6 @@
     "@akasha/pages-url": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
     "@akasha/utils": "workspace:*",
-    "@akasha/web-build-version": "workspace:*",
     "@fontsource-variable/literata": "^5.2.5",
     "lucide-react": "^0.576.0",
     "react": "19.2.0",

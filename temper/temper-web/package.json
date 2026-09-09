@@ -73,7 +73,6 @@
     "@akasha/temper-trading-pricing": "workspace:*",
     "@akasha/temper-trading-pricing-client": "workspace:*",
     "@akasha/utils": "workspace:*",
-    "@akasha/web-build-version": "workspace:*",
     "@akasha/web-page-answers": "workspace:*",
     "@akasha/web-security-headers": "workspace:*",
     "@akasha/web-static-assets": "workspace:*",
