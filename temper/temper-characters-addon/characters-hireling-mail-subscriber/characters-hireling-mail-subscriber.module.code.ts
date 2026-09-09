@@ -1,6 +1,6 @@
-import { getEsoDayStringFromSec } from "@akasha/temper-dungeons/eso-reset"
 import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
 import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import {
   HIRELING_MAILS_DAILY_TARGET,
   nextHirelingMailCount,

@@ -1,7 +1,7 @@
-import { getEsoDayStringFromSec } from "@akasha/temper-dungeons/eso-reset"
 import { DAILY_WRIT_COUNT } from "@akasha/temper-player-completion-state/completion-daily-writs-state"
 import type { SavedCharacterEntry } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
+import { getEsoDayStringFromSec } from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import { tallyDone } from "../characters-progress-tally/characters-progress-tally.module.code.ts"
 import { getRecipeTotals } from "../characters-recipes/characters-recipes.module.code.ts"
 

@@ -120,7 +120,6 @@
   "dependencies": {
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
-    "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-player-completion": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",

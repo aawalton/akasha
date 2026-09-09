@@ -1,8 +1,11 @@
-import { getEsoDayStringFromSec, getEsoResetTimestampSec } from "@akasha/temper-dungeons/eso-reset"
 import {
   getSavedVariables,
   type TaskData,
 } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import {
+  getEsoDayStringFromSec,
+  getEsoResetTimestampSec,
+} from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import { isPermanentlyComplete } from "../characters-task-hud-full-completion/characters-task-hud-full-completion.module.code.ts"
 import {
   userCollapsedQuestIds,

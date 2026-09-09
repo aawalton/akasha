@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperDungeons = {
   id: "01a06031-70e4-7e81-a058-c2574ec503a7",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-dungeons",
   definition: "the group dungeons of Tamriel and the pledges quest givers hand out each day",
-  manifest: "json",
   parts: [
     "module/dungeon-registry",
     "module/solo-difficulty",
@@ -31,4 +30,4 @@ export const temperDungeons = {
       statement: "The dungeon data here is written out from the dungeon pages.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

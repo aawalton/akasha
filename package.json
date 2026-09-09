@@ -16,7 +16,6 @@
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/temper-addons-resolve": "workspace:*",
     "@akasha/temper-catalog-core": "workspace:*",
-    "@akasha/temper-dungeons": "workspace:*",
     "@akasha/temper-eso-paths": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
     "@akasha/temper-saved-variables": "workspace:*",

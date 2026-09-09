@@ -1,4 +1,3 @@
-import { getEsoDayStringFromSec, getEsoResetTimestampSec } from "@akasha/temper-dungeons/eso-reset"
 import { ADDON_NAME } from "@akasha/temper-player-completion-state/completion-addon-constants"
 import type {
   SavedVariablesData,
@@ -7,6 +6,10 @@ import type {
 import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
 import { isSkillMorphTaskComplete } from "akasha/temper/characters-skills-morphs-addon/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"
+import {
+  getEsoDayStringFromSec,
+  getEsoResetTimestampSec,
+} from "akasha/temper/dungeons/eso-reset/eso-reset.module.code.ts"
 import {
   hasNoAntiquityLeadMatching,
   isActionableLead,

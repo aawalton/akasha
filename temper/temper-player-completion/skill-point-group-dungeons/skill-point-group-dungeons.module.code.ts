@@ -1,4 +1,4 @@
-import { TEMPER_DUNGEONS } from "@akasha/temper-dungeons/dungeon-data"
+import { TEMPER_DUNGEONS } from "akasha/temper/dungeons/dungeon-data/dungeon-data.module.code.ts"
 import type { SkillPointDungeonSource } from "../skill-point-source-types/skill-point-source-types.module.code.ts"
 
 export const SKILL_POINT_GROUP_DUNGEON_SOURCES: readonly SkillPointDungeonSource[] =

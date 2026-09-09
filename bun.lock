@@ -54,7 +54,6 @@
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-companions-ui": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-eso-paths": "workspace:*",
@@ -976,7 +975,6 @@
       "dependencies": {
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
-        "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
@@ -1070,9 +1068,6 @@
         "@akasha/temper-formula-framework": "workspace:*",
         "zod": "^4.3.6",
       },
-    },
-    "temper/dungeons": {
-      "name": "@akasha/temper-dungeons",
     },
     "temper/errors-addon": {
       "name": "@akasha/temper-errors-addon",
@@ -1286,7 +1281,6 @@
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-companions-addon": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -1520,7 +1514,6 @@
         "@akasha/temper-characters-equipment": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-races": "workspace:*",
@@ -1606,7 +1599,6 @@
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-companions-ui": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-dungeons": "workspace:*",
         "@akasha/temper-equipment": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
@@ -1864,8 +1856,6 @@
     "@akasha/temper-completion": ["@akasha/temper-completion@workspace:temper/completion"],
 
     "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:temper/temper-crafting-addon"],
-
-    "@akasha/temper-dungeons": ["@akasha/temper-dungeons@workspace:temper/dungeons"],
 
     "@akasha/temper-equipment": ["@akasha/temper-equipment@workspace:temper/temper-equipment"],
 
