@@ -159,14 +159,14 @@ export const monarchEval = {
   directives: [
     {
       directiveKind: "principle",
-      name: "Never Buy A Number With Its Meaning",
-      act: "Leave a fault in the agent unfixed where the fix would write this history's own answers into the prompt.",
+      name: "A Bought Number Means Nothing",
+      act: "Leave a fault in the agent unfixed where the fix writes this history's answers into the prompt.",
       warrant:
-        "The fix is always available and always raises the number, and a score taken after the answer key was copied in describes this history rather than the next transaction.",
+        "A score taken after the answer key was copied in describes this history rather than the next row.",
       aids: [
         "Repair the instrument where it is faulty and leave the subject alone.",
         "Say in the report which of the two a change was.",
-        "A prompt decision taken after seeing scores is the failure this work is most exposed to; make it on the development pool or not at all.",
+        "Take a prompt decision on the development pool or not at all.",
       ],
     },
   ],
