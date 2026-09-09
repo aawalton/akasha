@@ -1,0 +1,7 @@
+The certificate served on the wire expires before the certificate cert-manager holds in its secret.
+
+Read the wire with `openssl s_client -connect HOST:443 -servername HOST </dev/null 2>/dev/null | openssl x509 -noout -dates`, and the secret with `kubectl -n NAMESPACE get secret SECRET -o jsonpath='{.data.tls\.crt}' | base64 -d | openssl x509 -noout -dates`.
+
+Two different notAfter dates mean the process read its certificate once as it started and holds the old one in memory. cert-manager reads Ready the whole time, because cert-manager is right about the secret and blind to the process.
+
+Roll the workload. For headscale that is `kubectl -n headscale rollout restart statefulset/headscale`, which reads tls_cert_path once at start and never again.
