@@ -1,7 +1,7 @@
 import type { List } from "@akasha/pages/page-property"
 import type { RecordProperty } from "@akasha/pages/record-property"
 import type { IntentStatement } from "./intent-statement.standard-agent-english-property.ts"
-import type { WorkingMemory } from "./working-memory.standard-agent-english-property.ts"
+import type { WorkingMemory } from "./working-memory.text-property.ts"
 
 export type Intent = {
   statement: IntentStatement
@@ -23,7 +23,7 @@ export const intents = {
       many: false,
     },
     {
-      pagePropertySlug: "standard-agent-english-property/working-memory",
+      pagePropertySlug: "text-property/working-memory",
       required: false,
       many: false,
     },
