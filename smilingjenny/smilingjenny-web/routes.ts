@@ -4,7 +4,7 @@ export default [
   index("routes/home.tsx"),
   route("sign-in", "routes/sign-in.tsx"),
   route("sign-out", "routes/sign-out.ts"),
-  route("api/health", "routes/api.health.ts"),
+  route("api/health", "routes/jenny-api-health/jenny-api-health.route.code.ts"),
   route("api/live-version", "routes/api.live-version.ts"),
   route("api/categorization", "routes/jenny-categorization/jenny-categorization.route.code.ts"),
   route("api/readout-relay", "routes/jenny-readout-relay/jenny-readout-relay.route.code.ts"),

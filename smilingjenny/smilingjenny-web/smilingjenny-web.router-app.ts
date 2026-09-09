@@ -31,5 +31,6 @@ export const smilingjennyWeb = {
     "route/jenny-safety-level",
     "route/jenny-surplus",
     "type-declaration/jenny-capacitor-globals",
+    "route/jenny-api-health",
   ],
 } as const satisfies RouterApp
