@@ -64,7 +64,6 @@
     "@akasha/story-engine-core": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-rr": "workspace:*",
-    "@akasha/supabase-server": "workspace:*",
     "@akasha/utils": "workspace:*",
     "@akasha/voice-core": "workspace:*",
     "@fontsource-variable/geist": "^5.2.9",

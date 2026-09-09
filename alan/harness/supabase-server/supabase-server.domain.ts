@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const supabaseServer = {
   id: "01a05c75-8718-772e-bcdb-e24fb342750c",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "supabase-server",
   definition: "the Supabase client a server holds, acting as the service role",
-  manifest: "json",
   parts: ["module/service-role", "module/throwaway-user"],
   invariants: [
     {
@@ -21,4 +20,4 @@ export const supabaseServer = {
       statement: "Nothing made here is ever handed to a browser.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

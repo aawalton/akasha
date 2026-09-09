@@ -38,7 +38,6 @@
         "@akasha/spotify": "workspace:*",
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
-        "@akasha/supabase-server": "workspace:*",
         "@akasha/talos": "workspace:*",
         "@akasha/temper-addon-build": "workspace:*",
         "@akasha/temper-addon-generators": "workspace:*",
@@ -282,14 +281,6 @@
         "react-router": ">=7",
       },
     },
-    "alan/harness/supabase-server": {
-      "name": "@akasha/supabase-server",
-      "dependencies": {
-        "@akasha/supabase-auth": "workspace:*",
-        "@supabase/supabase-js": "^2.104.0",
-        "zod": "^4.3.6",
-      },
-    },
     "alan/harness/voice-core": {
       "name": "@akasha/voice-core",
       "dependencies": {
@@ -360,7 +351,6 @@
         "@akasha/story-engine-core": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/supabase-server": "workspace:*",
         "@akasha/utils": "workspace:*",
         "@akasha/voice-core": "workspace:*",
         "@fontsource-variable/geist": "^5.2.9",
@@ -2078,7 +2068,6 @@
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/supabase-rr": "workspace:*",
-        "@akasha/supabase-server": "workspace:*",
         "@akasha/temper-alchemy": "workspace:*",
         "@akasha/temper-build-codec": "workspace:*",
         "@akasha/temper-build-metadata": "workspace:*",
@@ -2331,8 +2320,6 @@
     "@akasha/supabase-auth": ["@akasha/supabase-auth@workspace:alan/harness/supabase-auth"],
 
     "@akasha/supabase-rr": ["@akasha/supabase-rr@workspace:alan/harness/supabase-rr"],
-
-    "@akasha/supabase-server": ["@akasha/supabase-server@workspace:alan/harness/supabase-server"],
 
     "@akasha/talos": ["@akasha/talos@workspace:infrastructure/cluster/provisioning/talos"],
 
