@@ -9,7 +9,7 @@ export const comfyClient = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The graph's own types are taken from `@akasha/comfy` rather than declared again.",
+      statement: "The graph's own types are taken from `comfy-graph` rather than declared again.",
     },
     {
       invariantKind: "departure",
