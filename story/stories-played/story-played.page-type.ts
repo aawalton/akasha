@@ -6,7 +6,8 @@ import type { World } from "./properties/world.relation-property.ts"
 
 export type StoryPlayed = Collection & {
   title: Title
-  worldSlug: World
+  worldSlug?: World
+  world?: World
   prose?: Prose
 }
 
@@ -18,10 +19,11 @@ export const storyPlayed = {
   pluralSlug: "stories-played",
   extends: ["page-type/collection"],
   runsTabooCheck: false,
-  parts: ["file-property/prose", "relation-property/world"],
+  parts: ["file-property/prose", "relation-property/world", "relation-property/world-window"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world", required: true, many: false },
+    { pagePropertySlug: "relation-property/world", required: false, many: false },
+    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
     { pagePropertySlug: "file-property/prose", required: false, many: false },
   ],
   invariants: [

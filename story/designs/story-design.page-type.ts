@@ -30,6 +30,7 @@ import type { WritingPhilosophy } from "./properties/writing-philosophy.text-pro
 export type StoryDesign = Page & {
   title: Title
   worldSlug?: World
+  world?: World
   premise?: StoryPremise
   genre?: StoryGenre
   tone?: StoryTone
@@ -92,6 +93,7 @@ export const storyDesign = {
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/world", required: false, many: false },
+    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
     { pagePropertySlug: "text-property/story-premise", required: false, many: false },
     { pagePropertySlug: "text-property/story-genre", required: false, many: false },
     { pagePropertySlug: "text-property/story-tone", required: false, many: false },

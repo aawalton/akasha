@@ -9,7 +9,8 @@ import type { PublicationStatus } from "./properties/publication-status.select-p
 
 export type StoryRead = CollectionExternal & {
   title: Title
-  worldSlug: World
+  worldSlug?: World
+  world?: World
   source: Source
   externalTags?: readonly ExternalTags[]
   publicationStatus?: PublicationStatus
@@ -38,7 +39,8 @@ export const storyRead = {
   parts: ["select-property/publication-status", "text-property/external-tags"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world", required: true, many: false },
+    { pagePropertySlug: "relation-property/world", required: false, many: false },
+    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
     { pagePropertySlug: "text-property/source", required: true, many: false },
     {
       pagePropertySlug: "text-property/external-tags",

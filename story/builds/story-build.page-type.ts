@@ -11,6 +11,7 @@ import type { GameSystem } from "./properties/game-system.text-property.ts"
 export type StoryBuild = Page & {
   title: Title
   worldSlug?: World
+  world?: World
   chapterNumber?: ChapterNumber
   level?: BuildLevel
   className?: ClassName
@@ -30,6 +31,7 @@ export const storyBuild = {
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/world", required: false, many: false },
+    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
     { pagePropertySlug: "number-property/chapter-number", required: false, many: false },
     { pagePropertySlug: "number-property/build-level", required: false, many: false },
     { pagePropertySlug: "text-property/class-name", required: false, many: false },

@@ -9,7 +9,8 @@ import type { References } from "./properties/references.page-property-entry.ts"
 
 export type WorldMechanic = Page & {
   title: Title
-  worldSlug: World
+  worldSlug?: World
+  world?: World
   aliases?: Aliases
   evolvesFromSlugs?: EvolvesFromSlugs
   evolvesToSlugs?: EvolvesToSlugs
@@ -66,7 +67,8 @@ export const worldMechanic = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/world", required: true, many: false },
+    { pagePropertySlug: "relation-property/world", required: false, many: false },
+    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
     { pagePropertySlug: "text-property/aliases", required: false, many: true, maxCount: null },
     {
       pagePropertySlug: "text-property/evolves-from-slugs",

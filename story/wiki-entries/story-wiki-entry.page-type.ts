@@ -9,6 +9,7 @@ import type { WikiKind } from "./properties/wiki-kind.select-property.ts"
 export type StoryWikiEntry = Page & {
   title: Title
   worldSlug?: World
+  world?: World
   kind?: WikiKind
   chapterNumber?: ChapterNumber
   prose?: Prose
@@ -26,6 +27,7 @@ export const storyWikiEntry = {
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/world", required: false, many: false },
+    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
     { pagePropertySlug: "select-property/wiki-kind", required: false, many: false },
     { pagePropertySlug: "number-property/chapter-number", required: false, many: false },
     { pagePropertySlug: "file-property/prose", required: false, many: false },

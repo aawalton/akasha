@@ -12,6 +12,7 @@ import type { DecisionType } from "./properties/decision-type.select-property.ts
 export type StoryDecision = Page & {
   title: Title
   worldSlug?: World
+  world?: World
   chapterNumber?: ChapterNumber
   decisionType?: DecisionType
   options?: DecisionOptions
@@ -37,6 +38,7 @@ export const storyDecision = {
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/world", required: false, many: false },
+    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
     { pagePropertySlug: "number-property/chapter-number", required: false, many: false },
     { pagePropertySlug: "select-property/decision-type", required: false, many: false },
     { pagePropertySlug: "text-property/decision-options", required: false, many: false },

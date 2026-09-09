@@ -21,7 +21,8 @@ export type NamedEvent = Page & {
   namedEventKind: NamedEventKind
   lastChapter?: EventLastChapter
   seq: Seq
-  worldSlug: World
+  worldSlug?: World
+  world?: World
 }
 
 export const namedEvent = {
@@ -55,7 +56,8 @@ export const namedEvent = {
     { pagePropertySlug: "select-property/named-event-kind", required: true, many: false },
     { pagePropertySlug: "number-property/event-last-chapter", required: false, many: false },
     { pagePropertySlug: "number-property/seq", required: true, many: false },
-    { pagePropertySlug: "relation-property/world", required: true, many: false },
+    { pagePropertySlug: "relation-property/world", required: false, many: false },
+    { pagePropertySlug: "relation-property/world-window", required: false, many: false },
   ],
   invariants: [
     {
