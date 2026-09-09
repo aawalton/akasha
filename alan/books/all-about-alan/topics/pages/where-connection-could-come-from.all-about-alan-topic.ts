@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whereConnectionCouldComeFrom = {
   id: "01a06559-9d65-7f10-aa71-5cfa133af885",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "where-connection-could-come-from",
   title: "Where Connection Could Come From",
   definition: "the whole map of directions, and which of them are actually live",

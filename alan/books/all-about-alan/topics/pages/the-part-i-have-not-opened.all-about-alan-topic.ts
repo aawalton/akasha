@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const thePartIHaveNotOpened = {
   id: "01a06559-9d65-74ed-b2ce-d4c011d2c683",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-part-i-have-not-opened",
   title: "The Part I Have Not Opened",
   definition: "the seams in my marriage I have left shut, and the state I would need to open them",

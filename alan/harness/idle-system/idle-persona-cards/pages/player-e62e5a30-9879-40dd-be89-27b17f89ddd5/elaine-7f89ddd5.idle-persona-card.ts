@@ -3,6 +3,7 @@ import type { IdlePersonaCard } from "../../idle-persona-card.page-type.ts"
 export const elaine7f89ddd5 = {
   id: "01a0659f-c5bb-7017-bbb3-3625ccd43ab7",
   pageTypeSlug: "idle-persona-card",
+  type: "idle-persona-card",
   slug: "elaine-7f89ddd5",
   title: "???",
   playerId: "e62e5a30-9879-40dd-be89-27b17f89ddd5",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatIValueInOrder = {
   id: "01a06559-9d65-7fa4-be82-1f4372a514f1",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-i-value-in-order",
   title: "What I Value, In Order",
   definition:

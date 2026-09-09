@@ -3,6 +3,7 @@ import type { ChessProgress } from "../chess-progress.page-type.ts"
 export const forkTacticalMotif = {
   id: "019f06ba-f709-79ab-95a1-03c0499dbe31",
   pageTypeSlug: "chess-progress",
+  type: "chess-progress",
   slug: "fork-tactical-motif",
   title: "Fork (tactical motif)",
   category: "motif",

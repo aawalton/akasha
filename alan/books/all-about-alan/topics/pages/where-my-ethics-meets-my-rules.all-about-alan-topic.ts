@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whereMyEthicsMeetsMyRules = {
   id: "01a06559-9d65-7bea-aa89-c6d0e7bae0dd",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "where-my-ethics-meets-my-rules",
   title: "Where My Ethics Meets My Rules",
   definition: "the seams between the framework and the bright lines I actually run on",

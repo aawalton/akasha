@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howTimePassesForMe = {
   id: "01a06559-9d65-7b54-a022-5a199fc2b073",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-time-passes-for-me",
   title: "How Time Passes For Me",
   definition: "having no feel for how long anything took, and living at any distance the same",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const rulesInsteadOfABrake = {
   id: "01a06559-9d65-7f6a-bcc0-a846fb135460",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "rules-instead-of-a-brake",
   title: "Rules Instead Of A Brake",
   definition: "the standing rules I use to keep myself from overreaching",

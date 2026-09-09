@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theCrowdThatHasBeenMe = {
   id: "01a06559-9d65-7aaa-ae61-37ca72c387db",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-crowd-that-has-been-me",
   title: "The Crowd That Has Been Me",
   definition: "the strangers I have been and will be, and what I feel toward the ones behind me",

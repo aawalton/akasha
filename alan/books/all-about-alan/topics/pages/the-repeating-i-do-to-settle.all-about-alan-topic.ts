@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theRepeatingIDoToSettle = {
   id: "01a06559-9d65-771f-9271-27cf7ac918eb",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-repeating-i-do-to-settle",
   title: "The Repeating I Do To Settle",
   definition: "the movements and loops I run to keep my nervous system steady",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howUnderstandingArrives = {
   id: "01a06559-9d65-7dbb-a7a9-25f0e8988b94",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-understanding-arrives",
   title: "How Understanding Arrives",
   definition: "in quakes rather than by degrees, and usually late",

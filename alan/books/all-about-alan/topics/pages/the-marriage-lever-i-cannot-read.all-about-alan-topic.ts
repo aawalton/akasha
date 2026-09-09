@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theMarriageLeverICannotRead = {
   id: "01a0784a-5761-7614-9bc5-c0913da356b1",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-marriage-lever-i-cannot-read",
   title: "The Marriage Lever I Cannot Read",
   definition: "the marriage intervention on my safety, and the proxy I read it by",

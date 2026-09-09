@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatAnActivityCostsMe = {
   id: "01a06559-9d65-74b7-8285-535889f4f996",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-an-activity-costs-me",
   title: "What An Activity Costs Me",
   definition: "what doing a particular thing takes out of me",

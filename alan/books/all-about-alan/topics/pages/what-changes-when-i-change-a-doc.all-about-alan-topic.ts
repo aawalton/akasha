@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatChangesWhenIChangeADoc = {
   id: "01a047c8-d167-7e81-b2dc-fd5adc1cf6b2",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-changes-when-i-change-a-doc",
   title: "What Changes When I Change A Doc",
   definition: "what a documentation change sets off, and how I work out how far it reaches",

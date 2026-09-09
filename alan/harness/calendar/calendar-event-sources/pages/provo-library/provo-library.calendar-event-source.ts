@@ -3,6 +3,7 @@ import type { CalendarEventSource } from "../../calendar-event-source.page-type.
 export const provoLibrary = {
   id: "019e9cde-8e04-7e8e-8ffa-b8ca40f2a0d8",
   pageTypeSlug: "calendar-event-source",
+  type: "calendar-event-source",
   slug: "provo-library",
   title: "Provo City Library",
   externalId: "provo-library",

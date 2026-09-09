@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howASkillGetsIntoMe = {
   id: "01a06559-9d65-7092-af1c-1dd1b088c28e",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-a-skill-gets-into-me",
   title: "How A Skill Gets Into Me",
   definition: "the two places a skill can land in me, and what it takes to put one there",

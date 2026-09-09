@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatMakesAnHourCount = {
   id: "01a06559-9d65-776a-b08f-b6f82656f0f1",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-makes-an-hour-count",
   title: "What Makes An Hour Count",
   definition: "how much a clock hour with someone actually pays down, and what decides it",

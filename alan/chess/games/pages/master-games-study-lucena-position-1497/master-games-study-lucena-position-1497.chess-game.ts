@@ -3,6 +3,7 @@ import type { ChessGame } from "../../chess-game.page-type.ts"
 export const masterGamesStudyLucenaPosition1497 = {
   id: "019f248f-e855-716b-92d3-540364ae0f16",
   pageTypeSlug: "chess-game",
+  type: "chess-game",
   slug: "master-games-study-lucena-position-1497",
   title: "Rook and pawn vs Rook (Lucena position) · classical · 1497-01-01",
   externalId: "master-games_study-lucena-position-1497",

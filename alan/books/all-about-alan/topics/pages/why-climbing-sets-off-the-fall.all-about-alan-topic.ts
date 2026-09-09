@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whyClimbingSetsOffTheFall = {
   id: "01a06559-9d65-76a5-b8a0-ab3de44b87bd",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "why-climbing-sets-off-the-fall",
   title: "Why Climbing Sets Off The Fall",
   definition: "why each climb runs into something my guards do not cover",

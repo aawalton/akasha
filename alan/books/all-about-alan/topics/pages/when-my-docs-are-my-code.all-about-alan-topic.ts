@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whenMyDocsAreMyCode = {
   id: "01a04615-3060-7c9d-baa6-90b37783964f",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "when-my-docs-are-my-code",
   title: "When My Docs Are My Code",
   definition: "what changes once my data, my docs and my code are one thing",

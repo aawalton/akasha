@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatPullsMeIntoDoingSomething = {
   id: "01a06559-9d65-78bc-a02c-3071e18b967e",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-pulls-me-into-doing-something",
   title: "What Pulls Me Into Doing Something",
   definition: "the two ways a thing gets me moving, one I feel and one I reason out",

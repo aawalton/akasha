@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const beingMet = {
   id: "01a06559-9d65-7974-8cd3-835ea6fe6c40",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "being-met",
   title: "Being Met",
   definition: "someone oriented toward me, glad that it is me",

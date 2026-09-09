@@ -3,6 +3,7 @@ import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
 export const amazonStoreCardPayment = {
   id: "01a0655b-fccf-7004-9bc4-26a5a5aab421",
   pageTypeSlug: "category-rule-code",
+  type: "category-rule-code",
   slug: "amazon-store-card-payment",
   title: "Amazon store card payment",
   matches: [

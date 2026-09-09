@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatWearsMyBodyDown = {
   id: "01a06559-9d65-7a8e-a6aa-de15db324edb",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-wears-my-body-down",
   title: "What Wears My Body Down",
   definition: "the cost of carrying stress over years, and how much of it I can clear",

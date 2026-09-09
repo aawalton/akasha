@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whetherAnyClosenessEscapesIt = {
   id: "01a06559-9d65-73a4-a176-ab0b6643c6a7",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "whether-any-closeness-escapes-it",
   title: "Whether Any Closeness Escapes It",
   definition:

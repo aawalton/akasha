@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const shuttingAChannelAfterItHurtMe = {
   id: "01a06559-9d65-7b3a-b6bb-3158e3237be9",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "shutting-a-channel-after-it-hurt-me",
   title: "Shutting A Channel After It Hurt Me",
   definition: "a checkable act that tells my body the thing cannot reach me again",

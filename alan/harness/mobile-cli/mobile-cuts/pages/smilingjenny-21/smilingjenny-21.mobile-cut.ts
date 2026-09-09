@@ -3,6 +3,7 @@ import type { MobileCut } from "../../mobile-cut.page-type.ts"
 export const smilingjenny21 = {
   id: "01a0685d-b820-7008-a161-b0f7614622a1",
   pageTypeSlug: "mobile-cut",
+  type: "mobile-cut",
   slug: "smilingjenny-21",
   title: "smilingjenny cut build 21",
   app: "smilingjenny",

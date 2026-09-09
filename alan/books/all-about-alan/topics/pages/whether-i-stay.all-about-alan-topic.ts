@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whetherIStay = {
   id: "01a06559-9d65-761c-8bc6-44c95343fe22",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "whether-i-stay",
   title: "Whether I Stay",
   definition: "the stay-or-leave question, worked as a ledger because I cannot feel my way to it",

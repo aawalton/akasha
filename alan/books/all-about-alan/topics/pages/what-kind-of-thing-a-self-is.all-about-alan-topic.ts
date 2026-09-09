@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatKindOfThingASelfIs = {
   id: "01a06559-9d65-70ee-8e72-7ed66dc4fefc",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-kind-of-thing-a-self-is",
   title: "What Kind Of Thing A Self Is",
   definition: "three selves stacked, one made of my map and two made of the relation between maps",

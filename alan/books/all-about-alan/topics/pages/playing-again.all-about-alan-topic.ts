@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const playingAgain = {
   id: "01a06559-9d65-7eee-801d-9286163c9d3f",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "playing-again",
   title: "Playing Again",
   definition: "the return of doing things for their own sake, and the ramp that got me there",

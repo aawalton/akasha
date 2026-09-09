@@ -3,6 +3,7 @@ import type { ChessGame } from "../../chess-game.page-type.ts"
 export const maiaGame1787873898267 = {
   id: "01a04596-af1d-7000-a757-bc47c6fb9498",
   pageTypeSlug: "chess-game",
+  type: "chess-game",
   slug: "maia-game-1787873898267",
   title: "Alan vs Maia 1500 · 2026-08-27",
   externalId: "maia-game_1787873898267",

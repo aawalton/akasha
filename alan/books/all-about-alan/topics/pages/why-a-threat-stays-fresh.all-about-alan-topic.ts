@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whyAThreatStaysFresh = {
   id: "01a06559-9d65-7e22-baa5-3ec00699f209",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "why-a-threat-stays-fresh",
   title: "Why A Threat Stays Fresh",
   definition: "why something that frightened me keeps its edge for years instead of wearing down",

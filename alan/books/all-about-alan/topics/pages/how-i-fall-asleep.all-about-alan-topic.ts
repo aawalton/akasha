@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howIFallAsleep = {
   id: "01a06559-9d65-7927-97cb-592fbd60332f",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-i-fall-asleep",
   title: "How I Fall Asleep",
   definition: "what happens between getting into bed and being asleep",

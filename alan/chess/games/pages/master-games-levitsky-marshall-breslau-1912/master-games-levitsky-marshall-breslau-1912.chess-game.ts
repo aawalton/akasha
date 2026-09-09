@@ -3,6 +3,7 @@ import type { ChessGame } from "../../chess-game.page-type.ts"
 export const masterGamesLevitskyMarshallBreslau1912 = {
   id: "019f1e68-9798-735d-9417-82c24077dd86",
   pageTypeSlug: "chess-game",
+  type: "chess-game",
   slug: "master-games-levitsky-marshall-breslau-1912",
   title: "Stepan Levitsky vs Frank Marshall · classical · 1912-07-20",
   externalId: "master-games_levitsky-marshall-breslau-1912",

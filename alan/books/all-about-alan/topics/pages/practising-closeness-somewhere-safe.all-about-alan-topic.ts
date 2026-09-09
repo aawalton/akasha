@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const practisingClosenessSomewhereSafe = {
   id: "01a06559-9d65-7185-90f3-dc203dd0e78a",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "practising-closeness-somewhere-safe",
   title: "Practising Closeness Somewhere Safe",
   definition: "drilling the skills of being close where nobody real takes the damage",

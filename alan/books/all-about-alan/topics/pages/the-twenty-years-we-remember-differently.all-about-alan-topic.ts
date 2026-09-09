@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theTwentyYearsWeRememberDifferently = {
   id: "01a06559-9d65-702f-ad52-a8b54d783abd",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-twenty-years-we-remember-differently",
   title: "The Twenty Years We Remember Differently",
   definition: "my record of the worst stretch, and Jen not remembering it that way",

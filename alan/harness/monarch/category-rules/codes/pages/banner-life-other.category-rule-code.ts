@@ -3,6 +3,7 @@ import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
 export const bannerLifeOther = {
   id: "01a0655b-fccf-700a-bfb8-3a6b2ca766f3",
   pageTypeSlug: "category-rule-code",
+  type: "category-rule-code",
   slug: "banner-life-other",
   title: "Banner life other",
   matches: [

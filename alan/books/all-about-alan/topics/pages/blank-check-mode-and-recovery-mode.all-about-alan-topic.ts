@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const blankCheckModeAndRecoveryMode = {
   id: "01a0784f-0bde-7fdb-9262-4615d39727ad",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "blank-check-mode-and-recovery-mode",
   title: "Blank Check Mode And Recovery Mode",
   definition: "the two extremes I have lived at, one paying any cost and one counting every cost",

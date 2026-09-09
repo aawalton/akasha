@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const havingAdhd = {
   id: "01a06559-9d65-7901-83a6-18ec6ca8297e",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "having-adhd",
   title: "Having ADHD",
   definition: "the ADHD half of how I am built, what it costs and what it gives",

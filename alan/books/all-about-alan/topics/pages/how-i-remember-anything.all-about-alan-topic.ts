@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howIRememberAnything = {
   id: "01a06559-9d65-7615-99ee-ddcd2c23191d",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-i-remember-anything",
   title: "How I Remember Anything",
   definition:

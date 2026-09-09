@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const sex = {
   id: "01a06559-9d65-7ab9-a2bd-5ec33355bf13",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "sex",
   title: "Sex",
   definition: "the one place my body shouts, and the three things tangled up in the shout",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const thePicturesAtTheEdgeOfSleep = {
   id: "01a06559-9d65-7412-a168-d45d54aa37f2",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-pictures-at-the-edge-of-sleep",
   title: "The Pictures At The Edge Of Sleep",
   definition: "the fragments I see as I go under, the one time anything close to picturing happens",

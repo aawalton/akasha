@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const keepingMySkinOffMySkin = {
   id: "01a06559-9d65-764f-913c-0ea96194d504",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "keeping-my-skin-off-my-skin",
   title: "Keeping My Skin Off My Skin",
   definition: "putting something between my own surfaces, because the touch registers twice",

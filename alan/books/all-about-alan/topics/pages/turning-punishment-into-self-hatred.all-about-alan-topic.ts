@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const turningPunishmentIntoSelfHatred = {
   id: "01a06559-9d65-7cd5-b84a-8283af358b43",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "turning-punishment-into-self-hatred",
   title: "Turning Punishment Into Self-Hatred",
   definition: "taking what lands on me and making it evidence against myself",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howStimulatedIAm = {
   id: "01a06559-9d65-7389-a20b-90c051226f6d",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-stimulated-i-am",
   title: "How Stimulated I Am",
   definition: "how wound up or how flat I am, which I keep in a band by hand",

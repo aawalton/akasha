@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const workingOutHowSheThinks = {
   id: "01a06559-9d65-74f7-9441-92bd8b7d820d",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "working-out-how-she-thinks",
   title: "Working Out How She Thinks",
   definition: "I cannot simulate her, so understanding her is a map I build slowly and by hand",

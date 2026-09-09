@@ -3,6 +3,7 @@ import type { ChessGame } from "../../chess-game.page-type.ts"
 export const masterGamesEdwardLaskerThomasLondon1912 = {
   id: "019f1e68-979b-7b22-bac4-bce37e8628ac",
   pageTypeSlug: "chess-game",
+  type: "chess-game",
   slug: "master-games-edward-lasker-thomas-london-1912",
   title: "Edward Lasker vs George Alan Thomas · classical · 1912-10-29",
   externalId: "master-games_edward-lasker-thomas-london-1912",

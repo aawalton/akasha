@@ -3,6 +3,7 @@ import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
 export const spotify = {
   id: "01a0655b-fcda-7001-8247-1a8ffd271881",
   pageTypeSlug: "category-rule-code",
+  type: "category-rule-code",
   slug: "spotify",
   title: "Spotify",
   matches: [

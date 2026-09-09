@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const noticingWhatSheNeeds = {
   id: "01a06559-9d65-77da-96b6-383288fae230",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "noticing-what-she-needs",
   title: "Noticing What She Needs",
   definition: "the doing works, and what fails is seeing that something is wanted",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const buildingMyWantsIntoTheRoom = {
   id: "01a06559-9d65-70d8-b63f-aa45bc3f147d",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "building-my-wants-into-the-room",
   title: "Building My Wants Into The Room",
   definition: "authoring what surrounds me, because only what I can see comes to mind",

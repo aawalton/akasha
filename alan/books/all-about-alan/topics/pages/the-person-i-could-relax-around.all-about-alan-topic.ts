@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const thePersonICouldRelaxAround = {
   id: "01a06559-9d65-7ad2-a705-97034fc95e80",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-person-i-could-relax-around",
   title: "The Person I Could Relax Around",
   definition:

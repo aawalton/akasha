@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howASongReachesMe = {
   id: "01a06559-9d65-7c35-98b0-6ae6b6bd3210",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-a-song-reaches-me",
   title: "How A Song Reaches Me",
   definition: "music as the one thing that gets a feeling to the surface, and how it gets in",

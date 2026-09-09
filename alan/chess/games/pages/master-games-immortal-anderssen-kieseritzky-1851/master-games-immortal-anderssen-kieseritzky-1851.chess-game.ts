@@ -3,6 +3,7 @@ import type { ChessGame } from "../../chess-game.page-type.ts"
 export const masterGamesImmortalAnderssenKieseritzky1851 = {
   id: "019f1e68-9778-7d60-aa95-d24553a2884b",
   pageTypeSlug: "chess-game",
+  type: "chess-game",
   slug: "master-games-immortal-anderssen-kieseritzky-1851",
   title: "Adolf Anderssen vs Lionel Kieseritzky · classical · 1851-06-21",
   externalId: "master-games_immortal-anderssen-kieseritzky-1851",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatIGaveUpLeavingPostgres = {
   id: "01a04615-305f-7b56-995d-0efcc02c79c6",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-i-gave-up-leaving-postgres",
   title: "What I Gave Up Leaving Postgres",
   definition: "the trade I actually made moving my data out of a database and into files",

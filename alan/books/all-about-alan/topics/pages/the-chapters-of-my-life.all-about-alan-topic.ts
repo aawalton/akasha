@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theChaptersOfMyLife = {
   id: "01a06559-9d65-7240-86da-528ebdd3bbd7",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-chapters-of-my-life",
   title: "The Chapters Of My Life",
   definition: "my life written as chapters, and how much of it is still only a title",

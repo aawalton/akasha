@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whyIRebuiltEverything = {
   id: "01a04615-305d-74ac-9bd3-68083fd2e2d5",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "why-i-rebuilt-everything",
   title: "Why I Rebuilt Everything",
   definition: "what a better model did to the system I already had",

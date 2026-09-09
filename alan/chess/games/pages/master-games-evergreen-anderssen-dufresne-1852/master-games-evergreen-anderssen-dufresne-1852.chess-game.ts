@@ -3,6 +3,7 @@ import type { ChessGame } from "../../chess-game.page-type.ts"
 export const masterGamesEvergreenAnderssenDufresne1852 = {
   id: "019f1e68-9785-71f0-b18d-1db1722ecff8",
   pageTypeSlug: "chess-game",
+  type: "chess-game",
   slug: "master-games-evergreen-anderssen-dufresne-1852",
   title: "Adolf Anderssen vs Jean Dufresne · classical · 1852-01-01",
   externalId: "master-games_evergreen-anderssen-dufresne-1852",

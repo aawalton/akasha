@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whereIStandLikeAWomanDoes = {
   id: "01a06559-9d65-76ed-af6c-ef2348f2274c",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "where-i-stand-like-a-woman-does",
   title: "Where I Stand Like A Woman Does",
   definition: "the shape my position shares with women's, and why their material lands on me",

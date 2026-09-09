@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatLonelinessCostsMyBody = {
   id: "01a06559-9d65-76fe-ae1e-ac866e20d4d2",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-loneliness-costs-my-body",
   title: "What Loneliness Costs My Body",
   definition: "my working guess that being unknown is the largest thing still wearing me down",

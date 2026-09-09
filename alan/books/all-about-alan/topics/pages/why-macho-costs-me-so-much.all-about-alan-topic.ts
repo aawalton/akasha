@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whyMachoCostsMeSoMuch = {
   id: "01a06559-9d65-74d6-b96d-360117b2c2ed",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "why-macho-costs-me-so-much",
   title: "Why Macho Costs Me So Much",
   definition: "what large, loud and threatening does to me, and why it hit harder than the rest",

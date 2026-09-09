@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whenACompanyChangesHands = {
   id: "01a06559-9d65-7c34-8e9a-706c90c3d819",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "when-a-company-changes-hands",
   title: "When A Company Changes Hands",
   definition: "a trusted organisation changing owners or leaders puts its trust back to zero",

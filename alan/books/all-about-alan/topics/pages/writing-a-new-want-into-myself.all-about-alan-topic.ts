@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const writingANewWantIntoMyself = {
   id: "01a06559-9d65-74be-b4a7-873003992e1b",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "writing-a-new-want-into-myself",
   title: "Writing A New Want Into Myself",
   definition: "the wants I install in myself, as against the ones that came with me",

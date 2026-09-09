@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theProgressIGetToKeep = {
   id: "01a06559-9d65-7c4e-bcb0-7584d4b303c3",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-progress-i-get-to-keep",
   title: "The Progress I Get To Keep",
   definition: "the deepest and steadiest source of permanent progress I have is inside a game",

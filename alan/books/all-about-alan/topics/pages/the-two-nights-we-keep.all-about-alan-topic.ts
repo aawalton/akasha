@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theTwoNightsWeKeep = {
   id: "01a06559-9d65-7074-8111-4a6937445aee",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-two-nights-we-keep",
   title: "The Two Nights We Keep",
   definition: "two nights a week on the calendar, one for how she connects and one for how I do",

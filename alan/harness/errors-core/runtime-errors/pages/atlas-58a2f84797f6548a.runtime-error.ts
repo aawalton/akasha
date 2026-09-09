@@ -3,6 +3,7 @@ import type { RuntimeError } from "../runtime-error.page-type.ts"
 export const atlas58a2f84797f6548a = {
   id: "01a0791b-3002-711b-a3f6-95e4f7a07677",
   pageTypeSlug: "runtime-error",
+  type: "runtime-error",
   slug: "atlas-58a2f84797f6548a",
   fingerprint: "58a2f84797f6548a",
   app: "atlas",

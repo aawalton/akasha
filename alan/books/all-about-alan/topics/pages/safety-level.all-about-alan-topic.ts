@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const safetyLevel = {
   id: "01a06559-9d65-7700-b42c-16b3182c13c6",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "safety-level",
   title: "Safety Level",
   definition: "how settled my body is underneath the day",

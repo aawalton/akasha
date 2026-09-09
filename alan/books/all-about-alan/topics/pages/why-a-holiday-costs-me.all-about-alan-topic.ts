@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whyAHolidayCostsMe = {
   id: "01a06559-9d65-723a-8815-58542dc5c22b",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "why-a-holiday-costs-me",
   title: "Why A Holiday Costs Me",
   definition:

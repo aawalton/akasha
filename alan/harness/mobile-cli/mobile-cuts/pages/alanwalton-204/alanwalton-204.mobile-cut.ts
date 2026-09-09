@@ -3,6 +3,7 @@ import type { MobileCut } from "../../mobile-cut.page-type.ts"
 export const alanwalton204 = {
   id: "01a078c4-1b50-7000-bfba-6d0c9b4123ae",
   pageTypeSlug: "mobile-cut",
+  type: "mobile-cut",
   slug: "alanwalton-204",
   title: "alanwalton cut build 204",
   app: "alanwalton",

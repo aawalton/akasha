@@ -3,6 +3,7 @@ import type { ChessGame } from "../../chess-game.page-type.ts"
 export const masterGamesCapablancaTartakowerNewYork1924 = {
   id: "019f248f-e85a-7419-a0ac-2b7323a94284",
   pageTypeSlug: "chess-game",
+  type: "chess-game",
   slug: "master-games-capablanca-tartakower-new-york-1924",
   title: "Jose Raul Capablanca vs Savielly Tartakower · classical · 1924-03-23",
   externalId: "master-games_capablanca-tartakower-new-york-1924",

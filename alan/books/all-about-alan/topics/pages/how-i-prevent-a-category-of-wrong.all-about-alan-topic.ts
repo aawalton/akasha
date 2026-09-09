@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howIPreventACategoryOfWrong = {
   id: "01a04615-e75d-75d0-b3fd-9d09d8b9b090",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-i-prevent-a-category-of-wrong",
   title: "How I Prevent A Category Of Wrong",
   definition: "what I do with a failure once I have seen it",

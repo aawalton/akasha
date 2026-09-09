@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const thePlansIOverBuild = {
   id: "01a06559-9d65-71c5-bcb3-efa39f558a58",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-plans-i-over-build",
   title: "The Plans I Over-Build",
   definition: "written plans far past what anyone needs, standing in for planning I cannot hold",

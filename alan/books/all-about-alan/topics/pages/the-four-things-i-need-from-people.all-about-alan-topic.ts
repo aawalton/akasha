@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theFourThingsINeedFromPeople = {
   id: "01a06559-9d65-7320-a8f5-908e482b21cc",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-four-things-i-need-from-people",
   title: "The Four Things I Need From People",
   definition: "connection as a requirement, and the four separate tanks it splits into",

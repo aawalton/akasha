@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatHoldsMyMarriage = {
   id: "01a06559-9d65-71ea-aeea-b27cc873759d",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-holds-my-marriage",
   title: "What Holds My Marriage",
   definition: "commitment rather than attachment, and what standing on that costs both of us",

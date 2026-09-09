@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatMattersAgainstWhatShouts = {
   id: "01a06559-9d65-757d-aae0-8241e986abc0",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-matters-against-what-shouts",
   title: "What Matters Against What Shouts",
   definition: "steering by how much a thing moves my life rather than how loudly it pulls",

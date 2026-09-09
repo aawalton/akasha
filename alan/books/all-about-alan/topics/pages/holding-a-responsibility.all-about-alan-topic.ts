@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const holdingAResponsibility = {
   id: "01a06559-9d65-77a5-86c7-f2383c80123c",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "holding-a-responsibility",
   title: "Holding A Responsibility",
   definition: "what an owed thing does to me while I am holding it, and what actually lets go",

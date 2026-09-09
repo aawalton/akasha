@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const workingOutWhatLoveIs = {
   id: "01a06559-9d65-74f1-9625-8866124a0eb3",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "working-out-what-love-is",
   title: "Working Out What Love Is",
   definition: "building a concept I cannot feel my way into, out of its parts",

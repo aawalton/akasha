@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const buildingASettingICanBeSafeIn = {
   id: "01a06559-9d65-79b0-9dd9-896a4ac6b4a0",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "building-a-setting-i-can-be-safe-in",
   title: "Building A Setting I Can Be Safe In",
   definition:

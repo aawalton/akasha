@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatTheChannelHasToCarry = {
   id: "01a06559-9d65-708d-be4b-0644fda391fe",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-the-channel-has-to-carry",
   title: "What The Channel Has To Carry",
   definition:

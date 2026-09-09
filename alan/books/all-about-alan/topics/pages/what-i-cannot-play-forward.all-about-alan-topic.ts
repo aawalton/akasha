@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatICannotPlayForward = {
   id: "01a06559-9d65-798d-9778-0ee21ceffde9",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-i-cannot-play-forward",
   title: "What I Cannot Play Forward",
   definition: "the pre-play of what I am not inside, gated off while I am awake",

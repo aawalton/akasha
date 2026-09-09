@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const testingTheThingAtMyCentre = {
   id: "01a06559-9d65-7865-8115-ce4a2895f662",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "testing-the-thing-at-my-centre",
   title: "Testing The Thing At My Centre",
   definition: "re-examining the belief everything else of mine rests on",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const beingAnInventorNotACoder = {
   id: "01a04615-3063-7254-b8ed-cc437fdfe056",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "being-an-inventor-not-a-coder",
   title: "Being An Inventor Not A Coder",
   definition: "what I actually am, against the trade I was raised into",

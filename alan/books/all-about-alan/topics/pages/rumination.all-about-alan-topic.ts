@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const rumination = {
   id: "01a06559-9d65-7601-b282-99807b135266",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "rumination",
   title: "Rumination",
   definition: "a thought my mind grabs and grinds when I go to sleep stressed",

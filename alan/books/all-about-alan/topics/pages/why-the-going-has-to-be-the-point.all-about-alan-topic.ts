@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whyTheGoingHasToBeThePoint = {
   id: "01a06559-9d65-7dea-8a17-569fc49c807a",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "why-the-going-has-to-be-the-point",
   title: "Why The Going Has To Be The Point",
   definition: "why a long piece of work only works if the going itself is worth being in",

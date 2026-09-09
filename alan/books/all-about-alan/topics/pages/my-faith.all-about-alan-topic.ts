@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const myFaith = {
   id: "01a06559-9d65-7f49-8183-aaece34682ab",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "my-faith",
   title: "My Faith",
   definition: "what I believe about God and the church, and how I hold it",

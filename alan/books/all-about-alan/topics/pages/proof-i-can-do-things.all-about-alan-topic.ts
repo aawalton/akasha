@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const proofICanDoThings = {
   id: "01a06559-9d65-7ee4-9c61-4d87edae576b",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "proof-i-can-do-things",
   title: "Proof I Can Do Things",
   definition: "the safety I get from evidence that I am capable",

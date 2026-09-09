@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howMuchOfMeIsMachine = {
   id: "01a06559-9d65-7121-8b2c-e6bee036adca",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-much-of-me-is-machine",
   title: "How Much Of Me Is Machine",
   definition: "how close my mind runs to a machine's, and where my body votes the other way",

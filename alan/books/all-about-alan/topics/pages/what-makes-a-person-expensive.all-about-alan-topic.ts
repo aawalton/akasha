@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatMakesAPersonExpensive = {
   id: "01a07866-7795-75e8-9ed9-5c69ef2ffc1a",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-makes-a-person-expensive",
   title: "What Makes A Person Expensive",
   definition: "what drives the difficulty I rate time with a particular person at",

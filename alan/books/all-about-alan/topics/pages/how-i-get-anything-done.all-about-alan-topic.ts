@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howIGetAnythingDone = {
   id: "01a06559-9d65-7d47-8734-f22a1158a86b",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-i-get-anything-done",
   title: "How I Get Anything Done",
   definition: "the parts of running myself that do not work on their own, and what I built instead",

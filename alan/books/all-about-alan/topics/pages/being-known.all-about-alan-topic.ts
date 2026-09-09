@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const beingKnown = {
   id: "01a06559-9d65-7670-a465-952dfe3ce570",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "being-known",
   title: "Being Known",
   definition: "what it takes for someone to have an accurate model of me, and why so few can",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theGraphIBuiltToRunMyChecks = {
   id: "01a04625-d809-7468-9ddd-c403fc72d67e",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-graph-i-built-to-run-my-checks",
   title: "The Graph I Built To Run My Checks",
   definition: "the typed graph my checks are defined on, and what made me build it",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatHasKeptMeHere = {
   id: "01a06559-9d65-73e7-9045-bae8c003b5a0",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-has-kept-me-here",
   title: "What Has Kept Me Here",
   definition: "the arguments that have stopped me, and how they changed while the longing did not",

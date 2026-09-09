@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whereTheScarEnds = {
   id: "01a06559-9d65-7eb6-a275-20c60815241f",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "where-the-scar-ends",
   title: "Where The Scar Ends",
   definition: "how far the alarm reaches, and what ground stays cool",

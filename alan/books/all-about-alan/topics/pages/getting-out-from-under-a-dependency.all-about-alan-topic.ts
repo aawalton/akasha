@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const gettingOutFromUnderADependency = {
   id: "01a06559-9d65-7364-b67e-9512b86395b0",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "getting-out-from-under-a-dependency",
   title: "Getting Out From Under A Dependency",
   definition: "the ways out of depending on someone, ranked by how much trust each one still costs",

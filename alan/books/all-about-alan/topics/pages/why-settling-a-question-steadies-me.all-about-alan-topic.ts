@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whySettlingAQuestionSteadiesMe = {
   id: "01a06559-9d65-7df9-b365-2b7b5b26bc73",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "why-settling-a-question-steadies-me",
   title: "Why Settling A Question Steadies Me",
   definition: "how settling a foundational question takes weight off my nervous system",

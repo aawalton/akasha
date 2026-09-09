@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const arousalTimesSafety = {
   id: "01a06559-9d65-798b-9cae-68c604c962d3",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "arousal-times-safety",
   title: "Arousal Times Safety",
   definition:

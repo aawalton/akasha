@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whyPeopleReadAsUnsafe = {
   id: "01a06559-9d65-7b42-8470-ef366949645b",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "why-people-read-as-unsafe",
   title: "Why People Read As Unsafe",
   definition: "the childhood setting that makes people dangerous before any evidence arrives",

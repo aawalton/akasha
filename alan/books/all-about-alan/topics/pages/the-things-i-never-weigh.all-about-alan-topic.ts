@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theThingsINeverWeigh = {
   id: "01a06559-9d65-79f0-951e-c601ee3c505c",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-things-i-never-weigh",
   title: "The Things I Never Weigh",
   definition: "obligations filed as compulsory, so what they cost never reaches them",

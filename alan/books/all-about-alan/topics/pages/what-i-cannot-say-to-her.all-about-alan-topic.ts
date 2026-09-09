@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatICannotSayToHer = {
   id: "01a06559-9d65-7c51-98f4-bfb4fc6f710b",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-i-cannot-say-to-her",
   title: "What I Cannot Say To Her",
   definition:

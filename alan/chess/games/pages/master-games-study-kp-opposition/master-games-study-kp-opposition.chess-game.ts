@@ -3,6 +3,7 @@ import type { ChessGame } from "../../chess-game.page-type.ts"
 export const masterGamesStudyKpOpposition = {
   id: "019f248f-e850-7205-8e06-f4cafc478427",
   pageTypeSlug: "chess-game",
+  type: "chess-game",
   slug: "master-games-study-kp-opposition",
   title: "King and pawn vs King (the opposition) · classical · 1900-01-01",
   externalId: "master-games_study-kp-opposition",

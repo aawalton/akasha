@@ -3,6 +3,7 @@ import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
 export const ninthEastDental = {
   id: "01a0655b-fcd0-702b-95f8-e828c5c4168e",
   pageTypeSlug: "category-rule-code",
+  type: "category-rule-code",
   slug: "ninth-east-dental",
   title: "Ninth east dental",
   matches: [

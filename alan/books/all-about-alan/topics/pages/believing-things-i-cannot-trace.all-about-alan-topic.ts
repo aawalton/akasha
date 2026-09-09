@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const believingThingsICannotTrace = {
   id: "01a06559-9d65-7468-a8e6-0e56eeaf1f83",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "believing-things-i-cannot-trace",
   title: "Believing Things I Cannot Trace",
   definition: "holding a conclusion whose source is gone, and leaving the checking to the world",

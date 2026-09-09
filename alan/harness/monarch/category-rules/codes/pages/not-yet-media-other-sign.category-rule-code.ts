@@ -3,6 +3,7 @@ import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
 export const notYetMediaOtherSign = {
   id: "01a0655b-fcd0-702d-92f5-0bca45000569",
   pageTypeSlug: "category-rule-code",
+  type: "category-rule-code",
   slug: "not-yet-media-other-sign",
   title: "Not yet media other sign",
   matches: [

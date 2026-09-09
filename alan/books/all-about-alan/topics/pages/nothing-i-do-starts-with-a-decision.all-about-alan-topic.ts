@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const nothingIDoStartsWithADecision = {
   id: "01a06559-9d65-7521-839e-0c2dbdd01f36",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "nothing-i-do-starts-with-a-decision",
   title: "Nothing I Do Starts With A Decision",
   definition: "acting on what fires rather than on what I resolve to do",

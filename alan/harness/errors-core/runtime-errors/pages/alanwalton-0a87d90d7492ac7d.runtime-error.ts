@@ -3,6 +3,7 @@ import type { RuntimeError } from "../runtime-error.page-type.ts"
 export const alanwalton0a87d90d7492ac7d = {
   id: "01a05fbb-1313-7659-be69-09451617ab3a",
   pageTypeSlug: "runtime-error",
+  type: "runtime-error",
   slug: "alanwalton-0a87d90d7492ac7d",
   fingerprint: "0a87d90d7492ac7d",
   app: "alanwalton",

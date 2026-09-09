@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howIWillKnowTheMiddleWorked = {
   id: "01a07884-bdb8-7a4b-a1e0-aaa606caaa64",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-i-will-know-the-middle-worked",
   title: "How I Will Know The Middle Worked",
   definition: "the test I set for whether overspending on the marriage is paying",

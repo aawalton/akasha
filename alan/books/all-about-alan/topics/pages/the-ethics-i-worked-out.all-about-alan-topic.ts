@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theEthicsIWorkedOut = {
   id: "01a06559-9d65-7524-9a5c-6f6ac98e266c",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-ethics-i-worked-out",
   title: "The Ethics I Worked Out",
   definition: "the moral framework I built, and what it still cannot do outside the story",

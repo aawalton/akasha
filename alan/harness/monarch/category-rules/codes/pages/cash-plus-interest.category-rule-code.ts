@@ -3,6 +3,7 @@ import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
 export const cashPlusInterest = {
   id: "01a0655b-fccf-7012-b055-37082357c171",
   pageTypeSlug: "category-rule-code",
+  type: "category-rule-code",
   slug: "cash-plus-interest",
   title: "Cash plus interest",
   matches: [

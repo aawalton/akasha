@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const defaultingToTooMuchProtection = {
   id: "01a06559-9d65-70c5-a4f1-b33387c55edd",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "defaulting-to-too-much-protection",
   title: "Defaulting To Too Much Protection",
   definition: "starting at the protective extreme and easing off from there",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howIKnowThings = {
   id: "01a06559-9d65-7aed-971e-6be72faf2b06",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-i-know-things",
   title: "How I Know Things",
   definition: "keeping the account rather than the events, and testing it by how much it explains",

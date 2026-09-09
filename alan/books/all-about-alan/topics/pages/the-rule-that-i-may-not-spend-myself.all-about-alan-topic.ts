@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theRuleThatIMayNotSpendMyself = {
   id: "01a06559-9d65-743a-8ee6-75fa7f632f25",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-rule-that-i-may-not-spend-myself",
   title: "The Rule That I May Not Spend Myself",
   definition: "the hard rule standing in for a sense of self-preservation I do not have",

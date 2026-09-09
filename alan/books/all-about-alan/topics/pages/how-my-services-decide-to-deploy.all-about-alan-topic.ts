@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howMyServicesDecideToDeploy = {
   id: "01a04625-d80a-7cfd-9b51-484dfd18b410",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-my-services-decide-to-deploy",
   title: "How My Services Decide To Deploy",
   definition: "how a deploy gets decided, and the CI I had to build to run it",

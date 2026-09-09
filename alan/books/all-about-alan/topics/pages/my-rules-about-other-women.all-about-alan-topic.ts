@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const myRulesAboutOtherWomen = {
   id: "01a06559-9d65-70e0-ac7b-9cf16c62ab14",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "my-rules-about-other-women",
   title: "My Rules About Other Women",
   definition: "pre-decided lines standing in for a judgment I cannot make in the moment",

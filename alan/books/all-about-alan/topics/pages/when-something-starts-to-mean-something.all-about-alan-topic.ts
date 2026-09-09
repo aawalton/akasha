@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whenSomethingStartsToMeanSomething = {
   id: "01a06559-9d65-7d25-a918-7cc73db30e6c",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "when-something-starts-to-mean-something",
   title: "When Something Starts To Mean Something",
   definition: "meaning arriving when a mechanism comes clear rather than when a thing completes",

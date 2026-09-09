@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const diggingUpAnOldBelief = {
   id: "01a06559-9d65-7fb1-b3d1-d358ba8362f2",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "digging-up-an-old-belief",
   title: "Digging Up An Old Belief",
   definition:

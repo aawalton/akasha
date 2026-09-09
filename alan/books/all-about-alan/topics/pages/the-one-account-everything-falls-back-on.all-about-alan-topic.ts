@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theOneAccountEverythingFallsBackOn = {
   id: "01a06559-9d65-78b0-bf36-e2813b9c69cd",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-one-account-everything-falls-back-on",
   title: "The One Account Everything Falls Back On",
   definition: "the address every other account uses to prove I am me",

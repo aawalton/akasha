@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howManyChecksIRun = {
   id: "01a04625-d808-7189-b17c-aebd9448483c",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-many-checks-i-run",
   title: "How Many Checks I Run",
   definition: "how many automatic checks I keep, against what the trade normally keeps",

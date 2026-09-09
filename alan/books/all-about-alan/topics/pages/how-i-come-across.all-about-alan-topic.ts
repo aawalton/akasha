@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howIComeAcross = {
   id: "01a0659e-de90-76d1-8017-021fd529515d",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-i-come-across",
   title: "How I Come Across",
   definition: "the voice I speak and write in, and the one cost that voice reliably has",

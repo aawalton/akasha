@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whyIHoldTheBookTrue = {
   id: "01a06559-9d65-7819-bb55-75ed2bc4cb9c",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "why-i-hold-the-book-true",
   title: "Why I Hold The Book True",
   definition: "the compactness argument my faith actually rests on",

@@ -3,6 +3,7 @@ import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
 export const royalRoadAlan = {
   id: "01a0655b-fcd1-7008-a59f-dadeb90f0a9b",
   pageTypeSlug: "category-rule-code",
+  type: "category-rule-code",
   slug: "royal-road-alan",
   title: "Royal road Alan",
   matches: [

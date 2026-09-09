@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatItTakesToBreakMe = {
   id: "01a06559-9d65-7a70-ba48-169523af43fb",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-it-takes-to-break-me",
   title: "What It Takes To Break Me",
   definition: "holding while there is no other choice, and going the moment there is one",

@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const beingTheOneWhoKnows = {
   id: "01a06559-9d65-7861-a606-41f12bc7231a",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "being-the-one-who-knows",
   title: "Being The One Who Knows",
   definition: "running the responses that make someone else feel known, and what that costs me",

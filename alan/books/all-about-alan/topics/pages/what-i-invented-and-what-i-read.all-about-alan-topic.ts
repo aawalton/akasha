@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatIInventedAndWhatIRead = {
   id: "01a047c8-d168-7d39-8148-fb06ab90c551",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-i-invented-and-what-i-read",
   title: "What I Invented And What I Read",
   definition: "the line between what I took from the literature and what I worked out myself",

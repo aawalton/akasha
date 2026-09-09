@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whySomeoneElsesDistressAlarmsMe = {
   id: "01a06559-9d65-767f-b9b3-51b10e4ec341",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "why-someone-elses-distress-alarms-me",
   title: "Why Someone Else's Distress Alarms Me",
   definition: "what fires in me when someone near me is hurting, and what it is actually about",

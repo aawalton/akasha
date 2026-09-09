@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatStaysWarmForAWhile = {
   id: "01a06559-9d65-7bbb-bc16-b0115cda5e63",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-stays-warm-for-a-while",
   title: "What Stays Warm For A While",
   definition: "why something I touched recently is cheaper to reach for",

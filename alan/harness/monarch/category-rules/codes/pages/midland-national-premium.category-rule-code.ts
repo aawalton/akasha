@@ -3,6 +3,7 @@ import type { CategoryRuleCode } from "../category-rule-code.page-type.ts"
 export const midlandNationalPremium = {
   id: "01a0655b-fcd0-7023-8289-288ef490604f",
   pageTypeSlug: "category-rule-code",
+  type: "category-rule-code",
   slug: "midland-national-premium",
   title: "Midland national premium",
   matches: [

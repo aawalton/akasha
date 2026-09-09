@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howAHardTalkWithJenGetsSafer = {
   id: "01a06559-9d65-7770-a820-7558fa669e85",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-a-hard-talk-with-jen-gets-safer",
   title: "How A Hard Talk With Jen Gets Safer",
   definition: "timing a hard conversation so my body learns it is survivable",

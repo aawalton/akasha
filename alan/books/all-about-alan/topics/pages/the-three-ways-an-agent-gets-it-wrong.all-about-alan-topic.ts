@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const theThreeWaysAnAgentGetsItWrong = {
   id: "01a047c8-d164-76b0-bab2-11688b8c7987",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "the-three-ways-an-agent-gets-it-wrong",
   title: "The Three Ways An Agent Gets It Wrong",
   definition: "the failure categories only an instruction can catch",

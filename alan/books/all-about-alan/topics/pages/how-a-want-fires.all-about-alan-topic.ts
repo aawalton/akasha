@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const howAWantFires = {
   id: "01a06559-9d65-7ebe-8da9-e96edf72a838",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "how-a-want-fires",
   title: "How A Want Fires",
   definition: "seeing a gap between how something is and how it should be, and wanting to close it",

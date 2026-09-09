@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whyTooMuchAndTooLittleSwapOver = {
   id: "01a06559-9d65-7f72-932f-0e6a859b3334",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "why-too-much-and-too-little-swap-over",
   title: "Why Too Much And Too Little Swap Over",
   definition: "the same load reading as overwhelming or as empty depending on what I have left",

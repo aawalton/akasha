@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whenItActuallyLands = {
   id: "01a06559-9d65-7662-a654-3f132f874e42",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "when-it-actually-lands",
   title: "When It Actually Lands",
   definition: "the difference between praise I can explain and praise that surprises me",

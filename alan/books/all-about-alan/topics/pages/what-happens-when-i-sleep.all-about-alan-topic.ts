@@ -3,6 +3,7 @@ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
 export const whatHappensWhenISleep = {
   id: "01a06559-9d65-7648-9913-f37e803dcd34",
   pageTypeSlug: "all-about-alan-topic",
+  type: "all-about-alan-topic",
   slug: "what-happens-when-i-sleep",
   title: "What Happens When I Sleep",
   definition: "the one state where the whole machine runs, senses and feelings and all",
