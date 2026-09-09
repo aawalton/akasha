@@ -21,6 +21,7 @@
         "@akasha/inference-pool": "workspace:*",
         "@akasha/inference-runs": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
+        "@akasha/mobile-cli": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-url": "workspace:*",
@@ -1000,16 +1001,6 @@
       },
       "peerDependencies": {
         "typescript": "5.9.3",
-      },
-    },
-    "mobile-commands": {
-      "name": "@akasha/mobile-commands",
-      "dependencies": {
-        "@akasha/code": "workspace:*",
-        "@akasha/command-system": "workspace:*",
-        "@akasha/mobile-cli": "workspace:*",
-        "@akasha/pages": "workspace:*",
-        "@akasha/utils": "workspace:*",
       },
     },
     "pages": {
@@ -2794,8 +2785,6 @@
     "@akasha/lua-compiler": ["@akasha/lua-compiler@workspace:language-design/lua-compiler"],
 
     "@akasha/mobile-cli": ["@akasha/mobile-cli@workspace:alan/harness/mobile-cli"],
-
-    "@akasha/mobile-commands": ["@akasha/mobile-commands@workspace:mobile-commands"],
 
     "@akasha/music-choosing": ["@akasha/music-choosing@workspace:alan/music/choosing"],
 

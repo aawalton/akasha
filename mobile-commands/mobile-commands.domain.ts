@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../domains/domain.page-type.ts"
 
 export const mobileCommands = {
   id: "01a0685d-ceae-7000-bca6-75f9319e56ca",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "mobile-commands",
   definition: "what an agent runs by name over the ios apps and the simulator driving them",
-  manifest: "json",
   parts: ["module/mobile-answering"],
   invariants: [
     {
@@ -34,4 +33,4 @@ export const mobileCommands = {
       statement: "The build a command here installs to a simulator is taken by `ios-app build`.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

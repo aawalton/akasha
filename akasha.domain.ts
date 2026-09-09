@@ -57,7 +57,7 @@ export const akasha = {
     "domain/language-design",
     "domain/smilingjenny",
     "domain/ki",
-    "workspace-package/mobile-commands",
+    "domain/mobile-commands",
     "workspace/akasha-workspace",
     "domain/products",
     "workspace-package/utils",
