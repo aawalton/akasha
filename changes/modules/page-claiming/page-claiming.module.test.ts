@@ -12,10 +12,6 @@ import { claimedIn } from "./page-claiming.module.code.ts"
 
 afterAll(scratch.sweep)
 
-function worldIn(): World {
-  return worldAt(indexedRepo(), textIn(indexedRepo()))
-}
-
 function heldValue(world: World): Value {
   const one = world.index.pageAt("module", "held")
   if (one === null) throw new Error("the fixture holds no `held` page")

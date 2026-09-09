@@ -58,7 +58,6 @@ test("the first guard to refuse gives the reason and no guard runs after", () =>
 
 test("a file an earlier answer took away is gone from the files a guard reads", () => {
   const root = indexedRepo()
-  const was = textIn(root)
   const world = worldOver(worldIn(root), stating([{ kind: "remove", path: NAMER_CODE }]))
   const said = stating([{ kind: "remove", path: HELD_CODE }])
 
