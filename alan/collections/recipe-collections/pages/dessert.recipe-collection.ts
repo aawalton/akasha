@@ -1,4 +1,4 @@
-import type { RecipeCollection } from "../recipe-collection.page-type.ts"
+import type { RecipeCollection } from "../recipe-collection.page-type.types.ts"
 
 export const dessert = {
   id: "01a06808-ddb3-7002-b29a-9faa833af26e",

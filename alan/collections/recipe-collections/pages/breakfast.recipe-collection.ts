@@ -1,4 +1,4 @@
-import type { RecipeCollection } from "../recipe-collection.page-type.ts"
+import type { RecipeCollection } from "../recipe-collection.page-type.types.ts"
 
 export const breakfast = {
   id: "01a06808-ddb3-7000-8cea-e1e015b167bc",

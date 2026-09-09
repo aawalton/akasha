@@ -1,4 +1,4 @@
-import type { RecipeCollection } from "../recipe-collection.page-type.ts"
+import type { RecipeCollection } from "../recipe-collection.page-type.types.ts"
 
 export const cookies = {
   id: "01a06808-ddb3-7001-b771-c0db3c7e6020",
