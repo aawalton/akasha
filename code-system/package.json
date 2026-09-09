@@ -35,6 +35,7 @@
     "./lua-runtime-library/universal-config": "./lua-runtime-libraries/properties/universal-config.file-property.ts",
     "./lualib": "./lualibs/lualib.page-type.ts",
     "./module": "./modules/module.page-type.ts",
+    "./module-property-group": "./module-property-groups/module-property-group.page-type.ts",
     "./name-series": "./name-series/name-series.module.code.ts",
     "./module/test": "./modules/properties/test.code-file-property.ts",
     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
