@@ -1043,6 +1043,15 @@
         "zod": "^4.3.6",
       },
     },
+    "temper/crafting-addon": {
+      "name": "@akasha/temper-crafting-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
+        "@akasha/temper-settings-panel": "workspace:*",
+      },
+    },
     "temper/equipment-kinds": {
       "name": "@akasha/temper-equipment-kinds",
       "dependencies": {
@@ -1266,15 +1275,6 @@
     },
     "temper/temper-catalog-core": {
       "name": "@akasha/temper-catalog-core",
-    },
-    "temper/temper-crafting-addon": {
-      "name": "@akasha/temper-crafting-addon",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
-        "@akasha/temper-settings-panel": "workspace:*",
-      },
     },
     "temper/temper-eso-types": {
       "name": "@akasha/temper-eso-types",
@@ -1540,7 +1540,7 @@
 
     "@akasha/temper-completion": ["@akasha/temper-completion@workspace:temper/completion"],
 
-    "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:temper/temper-crafting-addon"],
+    "@akasha/temper-crafting-addon": ["@akasha/temper-crafting-addon@workspace:temper/crafting-addon"],
 
     "@akasha/temper-equipment-kinds": ["@akasha/temper-equipment-kinds@workspace:temper/equipment-kinds"],
 
