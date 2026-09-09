@@ -1185,6 +1185,12 @@
     "temper/lib-scrollable-menu": {
       "name": "@akasha/temper-lib-scrollable-menu",
     },
+    "temper/lib-sets": {
+      "name": "@akasha/temper-lib-sets",
+      "dependencies": {
+        "@akasha/temper-eso-types": "workspace:*",
+      },
+    },
     "temper/lib-shifter-box": {
       "name": "@akasha/temper-lib-shifter-box",
     },
@@ -1275,12 +1281,6 @@
     },
     "temper/temper-lib-async": {
       "name": "@akasha/temper-lib-async",
-    },
-    "temper/temper-lib-sets": {
-      "name": "@akasha/temper-lib-sets",
-      "dependencies": {
-        "@akasha/temper-eso-types": "workspace:*",
-      },
     },
     "temper/temper-web": {
       "name": "@akasha/temper-web",
@@ -1590,7 +1590,7 @@
 
     "@akasha/temper-lib-scrollable-menu": ["@akasha/temper-lib-scrollable-menu@workspace:temper/lib-scrollable-menu"],
 
-    "@akasha/temper-lib-sets": ["@akasha/temper-lib-sets@workspace:temper/temper-lib-sets"],
+    "@akasha/temper-lib-sets": ["@akasha/temper-lib-sets@workspace:temper/lib-sets"],
 
     "@akasha/temper-lib-shifter-box": ["@akasha/temper-lib-shifter-box@workspace:temper/lib-shifter-box"],
 
