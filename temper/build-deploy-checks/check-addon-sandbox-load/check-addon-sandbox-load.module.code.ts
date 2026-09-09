@@ -22,7 +22,7 @@ import {
 } from "../addon-sandbox-load/addon-sandbox-load.module.code.ts"
 import { parseArgs as parseCliArgs } from "../cli-args/cli-args.module.code.ts"
 import { errnoCode, errorMessage } from "../error-message/error-message.module.code.ts"
-import { ESO_BASE_GAME_STRING_IDS } from "../generated/eso-base-game-string-ids/eso-base-game-string-ids.module.code.ts"
+import { ESO_BASE_GAME_STRING_IDS } from "../eso-base-game-string-ids/eso-base-game-string-ids.module.code.ts"
 import { renderPopulationBound } from "../population-bound/population-bound.module.code.ts"
 
 const ESO_BANNED_GLOBALS = [
