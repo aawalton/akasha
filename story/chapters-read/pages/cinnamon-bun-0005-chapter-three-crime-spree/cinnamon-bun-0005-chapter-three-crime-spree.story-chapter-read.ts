@@ -5,7 +5,7 @@ export const cinnamonBun0005ChapterThreeCrimeSpree = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0005-chapter-three-crime-spree",
   title: "Chapter Three - Crime Spree",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 5,
   ownLength: 2004,
   unitSlug: "words",

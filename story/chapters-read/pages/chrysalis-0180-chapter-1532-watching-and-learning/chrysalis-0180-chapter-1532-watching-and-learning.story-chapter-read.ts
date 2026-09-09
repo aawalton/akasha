@@ -5,7 +5,7 @@ export const chrysalis0180Chapter1532WatchingAndLearning = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0180-chapter-1532-watching-and-learning",
   title: "Chapter 1532 - Watching and Learning",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 180,
   ownLength: 1013,
   ownProgress: 1013,

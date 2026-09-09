@@ -5,7 +5,7 @@ export const chrysalis0234Chapter1586AntVenturing = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0234-chapter-1586-ant-venturing",
   title: "Chapter 1586 - Ant-venturing",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 234,
   ownLength: 1032,
   ownProgress: 1032,

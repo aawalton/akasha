@@ -5,7 +5,7 @@ export const chrysalis0382Chapter1730MonstrousWeight = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0382-chapter-1730-monstrous-weight",
   title: "Chapter 1730 - Monstrous Weight",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 382,
   ownLength: 1208,
   ownProgress: 1208,

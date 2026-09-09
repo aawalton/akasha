@@ -5,7 +5,7 @@ export const chrysalis0199Chapter1551SkillsOfTheSophos = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0199-chapter-1551-skills-of-the-sophos",
   title: "Chapter 1551 - Skills of the Sophos",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 199,
   ownLength: 1025,
   ownProgress: 1025,

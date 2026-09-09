@@ -5,7 +5,7 @@ export const chrysalis0272Chapter1623Catastrophe = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0272-chapter-1623-catastrophe",
   title: "Chapter 1623 - Catastrophe",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 272,
   ownLength: 957,
   ownProgress: 957,

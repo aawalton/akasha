@@ -5,7 +5,7 @@ export const chrysalis0490Chapter1835PlanningAhead = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0490-chapter-1835-planning-ahead",
   title: "Chapter 1835 - Planning Ahead",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 490,
   ownLength: 941,
   unitSlug: "words",

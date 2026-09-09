@@ -5,7 +5,7 @@ export const chrysalis0185Chapter1537TheMoustacheSong = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0185-chapter-1537-the-moustache-song",
   title: "Chapter 1537 - The Moustache Song",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 185,
   ownLength: 1102,
   ownProgress: 1102,

@@ -5,7 +5,7 @@ export const chrysalis0238Chapter1590TugOfWar = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0238-chapter-1590-tug-of-war",
   title: "Chapter 1590 - Tug of War",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 238,
   ownLength: 1032,
   ownProgress: 1032,

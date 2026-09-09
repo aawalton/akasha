@@ -5,7 +5,7 @@ export const chrysalis0321KickstarterIsLive = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0321-kickstarter-is-live",
   title: "Kickstarter is live!",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 321,
   ownLength: 60,
   ownProgress: 60,

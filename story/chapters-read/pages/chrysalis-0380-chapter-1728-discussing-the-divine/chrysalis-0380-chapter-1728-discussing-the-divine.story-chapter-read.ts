@@ -5,7 +5,7 @@ export const chrysalis0380Chapter1728DiscussingTheDivine = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0380-chapter-1728-discussing-the-divine",
   title: "Chapter 1728 - Discussing the Divine",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 380,
   ownLength: 941,
   ownProgress: 941,

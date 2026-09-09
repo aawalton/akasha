@@ -5,7 +5,7 @@ export const chrysalis0408Chapter1756Invasion = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0408-chapter-1756-invasion",
   title: "Chapter 1756 - Invasion!",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 408,
   ownLength: 986,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const chrysalis0336TakingABriefBreak = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0336-taking-a-brief-break",
   title: "Taking a brief break",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 336,
   ownLength: 174,
   ownProgress: 174,

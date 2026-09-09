@@ -5,7 +5,7 @@ export const chrysalis0232Chapter1584NewOldFriends = {
   pageTypeSlug: "story-chapter-read",
   slug: "chrysalis-0232-chapter-1584-new-old-friends",
   title: "Chapter 1584 - New - Old Friends",
-  storySlug: "story-read/chrysalis",
+  story: "story-read/chrysalis",
   position: 232,
   ownLength: 1258,
   ownProgress: 1258,

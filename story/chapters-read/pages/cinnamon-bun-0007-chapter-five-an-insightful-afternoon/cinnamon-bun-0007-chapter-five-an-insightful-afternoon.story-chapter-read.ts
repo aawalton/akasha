@@ -5,7 +5,7 @@ export const cinnamonBun0007ChapterFiveAnInsightfulAfternoon = {
   pageTypeSlug: "story-chapter-read",
   slug: "cinnamon-bun-0007-chapter-five-an-insightful-afternoon",
   title: "Chapter Five - An Insightful Afternoon",
-  storySlug: "story-read/cinnamon-bun",
+  story: "story-read/cinnamon-bun",
   position: 7,
   ownLength: 2044,
   unitSlug: "words",
