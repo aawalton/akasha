@@ -1,3 +1,4 @@
+import { lowerUuid } from "@akasha/pages/name-format/lower-uuid"
 import type { PidSnapshot } from "../memory-reaper-proc-scan/memory-reaper-proc-scan.module.code.ts"
 
 export const MAX_OWNER_HOPS = 32
@@ -8,8 +9,6 @@ export type SeatBinding = {
   readonly pid: number
   readonly hops: number
 }
-
-const UUID_RE = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/
 
 function flagValue(argv: readonly string[], flag: string): string | null {
   const prefix = `${flag}=`
@@ -24,7 +23,7 @@ function flagValue(argv: readonly string[], flag: string): string | null {
 
 function flagUuid(argv: readonly string[], flag: string): string | null {
   const value = flagValue(argv, flag)
-  return value !== null && UUID_RE.test(value) ? value : null
+  return value !== null && lowerUuid(value) ? value : null
 }
 
 export function seatBindingInArgv(
