@@ -284,7 +284,10 @@ test("an import completes what it resolves, clears a zero, and reports the rest 
     NO_CLIENT,
     landing({
       userId: "u1",
-      ask: async (query) => (query.pageTypeSlug === "temper-task" ? { rows: tasks } : { rows: [] }),
+      ask: async (query) =>
+        query.pageTypeSlug === "temper-task"
+          ? { rows: tasks, n: tasks.length }
+          : { rows: [], n: 0 },
       landTask: async (slug, values) => {
         landed.push({ slug, values })
         return LANDED
@@ -324,7 +327,7 @@ test("a task at its cumulative cap that no completion named is marked done at th
     landing({
       userId: "u1",
       ask: async (query) =>
-        query.pageTypeSlug === "temper-task" ? { rows: [capped] } : { rows: [] },
+        query.pageTypeSlug === "temper-task" ? { rows: [capped], n: 1 } : { rows: [], n: 0 },
       landTask: async (slug, values) => {
         landed.push({ slug, values })
         return LANDED
@@ -358,7 +361,7 @@ test("a task already marked done is swept no second time", async () => {
     landing({
       userId: "u1",
       ask: async (query) =>
-        query.pageTypeSlug === "temper-task" ? { rows: [capped] } : { rows: [] },
+        query.pageTypeSlug === "temper-task" ? { rows: [capped], n: 1 } : { rows: [], n: 0 },
       landTask: async (slug, values) => {
         landed.push({ slug, values })
         return LANDED
@@ -396,7 +399,7 @@ test("the recomputation is handed every task and what it landed is reported", as
     landing({
       userId: "u1",
       ask: async (query) =>
-        query.pageTypeSlug === "temper-task" ? { rows: [task] } : { rows: [] },
+        query.pageTypeSlug === "temper-task" ? { rows: [task], n: 1 } : { rows: [], n: 0 },
       refreshProgress: async (forUser, tasks) => {
         handed.push(forUser, ...tasks)
         return 3
@@ -417,8 +420,8 @@ test("a task naming no card is handed over with its slug alone", async () => {
       userId: "u1",
       ask: async (query) =>
         query.pageTypeSlug === "temper-task"
-          ? { rows: [{ id: ONE_OFF_ID, slug: "one-off-task", title: "One Off" }] }
-          : { rows: [] },
+          ? { rows: [{ id: ONE_OFF_ID, slug: "one-off-task", title: "One Off" }], n: 1 }
+          : { rows: [], n: 0 },
       refreshProgress: async (_forUser, tasks) => {
         handed.push(...tasks)
         return 0

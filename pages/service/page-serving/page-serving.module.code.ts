@@ -364,5 +364,5 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   if ("refused" in read) return said({ refused: read.refused }, 400)
   const answered = asking(given.root, read.query)
   if ("refused" in answered) return said({ refused: answered.refused }, 400)
-  return said({ rows: answered.rows }, 200)
+  return said({ rows: answered.rows, n: answered.n }, 200)
 }

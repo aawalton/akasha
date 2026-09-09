@@ -7,7 +7,10 @@ import {
   unfoundIn,
 } from "./store-spelling.module.code.ts"
 
-function answering(rows: readonly Record<string, unknown>[]): {
+function answering(
+  matched: number,
+  rows: readonly Record<string, unknown>[]
+): {
   ask: (asked: ComposedQuery) => Promise<Asked>
   asked: () => ComposedQuery
 } {
@@ -18,7 +21,7 @@ function answering(rows: readonly Record<string, unknown>[]): {
       return {
         ok: true,
         answer: {
-          n: rows.length,
+          n: matched,
           value: null,
           over: null,
           rows: rows.map((values) => ({ values: { ...values } })),
@@ -72,12 +75,20 @@ test("a key no row carries is unfound, and an empty answer names none", () => {
 })
 
 test("asking spells the question and answers both spellings", async () => {
-  const store = answering([{ valueSlug: "a" }])
+  const store = answering(9, [{ valueSlug: "a" }])
   const asked = await askedAsSpelled({ "page-type": "t", keys: ["value-slug", "gone"] }, store.ask)
   expect(store.asked().keys).toEqual(["valueSlug", "gone"])
   if (!asked.ok) throw new Error(asked.why)
   expect(asked.answer.rows[0]?.values).toEqual({ valueSlug: "a", "value-slug": "a" })
   expect(asked.answer.unfound).toEqual(["gone"])
+})
+
+test("the count of what matched comes through rather than the count of the rows", async () => {
+  const store = answering(9, [{ valueSlug: "a" }])
+  const asked = await askedAsSpelled({ "page-type": "t", limit: 1 }, store.ask)
+  if (!asked.ok) throw new Error(asked.why)
+  expect(asked.answer.rows).toHaveLength(1)
+  expect(asked.answer.n).toBe(9)
 })
 
 test("a refusal comes back as it stood", async () => {

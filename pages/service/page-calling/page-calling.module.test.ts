@@ -101,11 +101,38 @@ test("rows the service answers are carried back", async () => {
   process.env.PAGES_SERVICE_ORIGIN = "http://held.invalid:8787"
   const said = await askingFor(
     { pageTypeSlug: "role", keys: ["slug"] },
-    answering(200, { rows: [{ slug: "definer" }] }),
+    answering(200, { rows: [{ slug: "definer" }], n: 1 }),
     neverNaps
   )
   expect("rows" in said && said.rows).toEqual([{ slug: "definer" }])
   delete process.env.PAGES_SERVICE_ORIGIN
+})
+
+test("the count of what matched is carried back beside the rows", async () => {
+  const said = await askingFor(
+    { pageTypeSlug: "role", limit: 1 },
+    answering(200, { rows: [{ slug: "definer" }], n: 12 }),
+    neverNaps
+  )
+  expect("n" in said && said.n).toBe(12)
+})
+
+test("a limit answered with no count is refused rather than read as the whole", async () => {
+  const said = await askingFor(
+    { pageTypeSlug: "role", limit: 1 },
+    answering(200, { rows: [{ slug: "definer" }] }),
+    neverNaps
+  )
+  expect("refused" in said && said.refused).toContain("no count of what matched")
+})
+
+test("a question skipping and taking nothing needs no count from the service", async () => {
+  const said = await askingFor(
+    { pageTypeSlug: "role" },
+    answering(200, { rows: [{ slug: "definer" }, { slug: "worker" }] }),
+    neverNaps
+  )
+  expect("n" in said && said.n).toBe(2)
 })
 
 test("a call the service refuses for its own reasons is not tried again", async () => {

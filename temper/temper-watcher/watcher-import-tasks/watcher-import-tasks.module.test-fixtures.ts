@@ -104,7 +104,7 @@ export async function applied(
 export function landing(seams: ImportTasksOptions = {}): ImportTasksOptions {
   return {
     now: () => NOW,
-    ask: async () => ({ rows: [] }),
+    ask: async () => ({ rows: [], n: 0 }),
     landTask: async () => LANDED,
     refreshProgress: async () => 0,
     report: () => undefined,

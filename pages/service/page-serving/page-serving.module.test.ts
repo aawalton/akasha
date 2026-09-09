@@ -54,6 +54,13 @@ test("a question is answered with rows", async () => {
   expect(JSON.stringify(held.rows)).toContain("departure")
 })
 
+test("an answer counts what matched before what was taken", async () => {
+  const held = await bodyOf(
+    await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind", limit: 1 }))
+  )
+  expect(held.n).toBe(6)
+})
+
 test("nothing is asked at another path", async () => {
   const answered = await answering(GIVEN, asking({ pageTypeSlug: "invariant-kind" }, "/elsewhere"))
   expect(answered.status).toBe(404)

@@ -149,6 +149,10 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
+      statement: "An answer counts every page matching before any row is skipped or taken.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "The values a page keeps outside the commit are read from the file beside that page.",
     },

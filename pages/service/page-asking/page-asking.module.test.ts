@@ -187,6 +187,22 @@ test("what is skipped is skipped before what is taken is taken", () => {
   expect(some).toEqual(every.slice(1, 3))
 })
 
+test("the count answered is every page matching rather than every row taken", () => {
+  const every = asking(root, { pageTypeSlug: "invariant-kind", sortBy: "slug", keys: ["slug"] })
+  const some = asking(root, {
+    pageTypeSlug: "invariant-kind",
+    sortBy: "slug",
+    keys: ["slug"],
+    offset: 1,
+    limit: 2,
+  })
+  if ("refused" in every) throw new Error(every.refused)
+  if ("refused" in some) throw new Error(some.refused)
+  expect(some.rows.length).toBe(2)
+  expect(some.n).toBe(every.rows.length)
+  expect(some.n).toBeGreaterThan(some.rows.length)
+})
+
 test("a limit below nothing is refused rather than taken as none", () => {
   const asked = asking(root, { pageTypeSlug: "invariant-kind", limit: -1 })
   expect("refused" in asked && asked.refused).toContain("limit")

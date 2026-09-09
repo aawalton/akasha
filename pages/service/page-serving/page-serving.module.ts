@@ -50,6 +50,10 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
+      statement: "An answer to a question carries the count of what matched beside the rows.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A read is handed in at a path of its own.",
     },
     {

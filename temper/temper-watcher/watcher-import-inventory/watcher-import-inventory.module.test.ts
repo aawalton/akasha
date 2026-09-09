@@ -188,7 +188,7 @@ test("a whole import writes what the legacy import wrote over the same scan", as
       },
       now: () => 0,
       mint: () => "id-1",
-      ask: async () => ({ rows: [{ settings: {} }] }),
+      ask: async () => ({ rows: [{ settings: {} }], n: 1 }),
       land: async () => ({ outcome: "landed" as const, at: "abc1234" }),
     }
   )
@@ -205,7 +205,7 @@ test("the reading handed over carries the account, the moment, and every part of
       say: () => undefined,
       now: () => 0,
       mint: () => "id-1",
-      ask: async () => ({ rows: [{ settings: {} }] }),
+      ask: async () => ({ rows: [{ settings: {} }], n: 1 }),
       land: async (values) => {
         handed = values
         return { outcome: "landed" as const, at: "abc1234" }
@@ -233,7 +233,7 @@ test("a filing refused ends the import and names the hour the reading was for", 
       say: () => undefined,
       now: () => 0,
       mint: () => "id-1",
-      ask: async () => ({ rows: [{ settings: {} }] }),
+      ask: async () => ({ rows: [{ settings: {} }], n: 1 }),
       land: async () => ({ outcome: "refused" as const, why: "the store would not take it" }),
     }
   )

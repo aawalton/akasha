@@ -59,6 +59,9 @@ const KNOWN_TESTS = [
   "at-or-before",
 ]
 
+const NO_COUNT_SAYS =
+  "asked the store to skip or to take and came back with no count of what matched, so the rows that came back would be read as the whole population"
+
 const DROPPING_SAYS =
   "a test this client cannot run is refused rather than dropped, because dropping one answers with every page of the type instead of the pages asked for"
 
@@ -143,12 +146,14 @@ function groupedBy(
   }))
 }
 
-function rowsIn(body: unknown): readonly Flat[] | null {
+function answerIn(body: unknown): { rows: readonly Flat[]; n: number | null } | null {
   if (typeof body !== "object" || body === null || !("rows" in body)) return null
   const rows = (body as { rows: unknown }).rows
   if (!Array.isArray(rows)) return null
   for (const one of rows) if (typeof one !== "object" || one === null) return null
-  return rows as readonly Flat[]
+  const said = (body as { n?: unknown }).n
+  const counted = typeof said === "number" && Number.isInteger(said) && said >= 0 ? said : null
+  return { rows: rows as readonly Flat[], n: counted }
 }
 
 function projected(rows: readonly Flat[], keys: readonly string[] | undefined): readonly Flat[] {
@@ -198,15 +203,19 @@ export async function askComposed(
   }
   const reached = await postingTo("/ask", what, body, fetcher, ASK_CEILING_MS, naps)
   if (!reached.ok) return reached
-  const answered = rowsIn(reached.body)
-  if (answered === null) {
+  const said = answerIn(reached.body)
+  if (said === null) {
     return { ok: false, why: `${what} answered in a shape this reader cannot read` }
   }
+  const answered = said.rows
   if (!here) {
+    if (said.n === null && (query.limit !== undefined || query.offset !== undefined)) {
+      return { ok: false, why: `${what} ${NO_COUNT_SAYS}` }
+    }
     return {
       ok: true,
       answer: {
-        n: answered.length,
+        n: said.n ?? answered.length,
         value: null,
         over: null,
         rows: answered.map((values) => ({ values: { ...values } })),

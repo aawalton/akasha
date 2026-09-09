@@ -120,6 +120,41 @@ test("nothing is skipped or taken by the store where a test still stands here", 
   expect(answer.n).toBe(2)
 })
 
+function counting(rows: readonly Record<string, unknown>[], n: number): Fetcher {
+  return async () =>
+    new Response(JSON.stringify({ rows, n }), { headers: { "content-type": "application/json" } })
+}
+
+test("a limit the store took answers how many matched rather than how many came back", async () => {
+  const asked = await askComposed(
+    { "page-type": "story-chapter", limit: 1 },
+    counting([{ slug: "one" }], 19774),
+    noNap
+  )
+  if (!asked.ok) throw new Error(asked.why)
+  expect(asked.answer.rows).toHaveLength(1)
+  expect(asked.answer.n).toBe(19774)
+})
+
+test("a limit sent to a store answering no count is refused", async () => {
+  const { fetcher } = recording([{ slug: "one" }])
+  const asked = await askComposed({ "page-type": "story-chapter", limit: 1 }, fetcher, noNap)
+  expect(asked.ok).toBe(false)
+  if (asked.ok) return
+  expect(asked.why).toContain("no count of what matched")
+})
+
+test("an offset sent to a store answering no count is refused", async () => {
+  const { fetcher } = recording([{ slug: "one" }])
+  const asked = await askComposed({ "page-type": "story-chapter", offset: 1 }, fetcher, noNap)
+  expect(asked.ok).toBe(false)
+})
+
+test("a question skipping and taking nothing needs no count from the store", async () => {
+  const { answer } = await asking({ "page-type": "finding" }, [{ slug: "one" }, { slug: "two" }])
+  expect(answer.n).toBe(2)
+})
+
 test("at-or-after and before narrow to a window", async () => {
   const { answer } = await asking(
     {

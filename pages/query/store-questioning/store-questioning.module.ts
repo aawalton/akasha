@@ -31,6 +31,15 @@ export const storeQuestioning = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The count answered beside the rows counts everything matching rather than those rows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A limit sent to a store answering no count is refused rather than answered.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Grouping counts the rows falling under each set of keys.",
     },
     {

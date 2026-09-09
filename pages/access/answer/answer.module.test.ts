@@ -24,7 +24,7 @@ function depsRostering(roster: PageTypesDeps["roster"]): PageTypesDeps {
 function depsReading(readPageType: PagesDeps["readPageType"]): PagesDeps {
   return {
     readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    ask: async () => ({ rows: [] }),
+    ask: async () => ({ rows: [], n: 0 }),
     readPageType,
     definitionsFor: async () => [],
   }

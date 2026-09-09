@@ -28,7 +28,7 @@ function watching(
   const deps: FileWriteDeps = {
     ask: (query) => {
       taken.asks.push(query)
-      return Promise.resolve({ rows } as Asked)
+      return Promise.resolve({ rows, n: rows.length } as Asked)
     },
     read: (sought) => {
       taken.reads.push(sought)
@@ -170,14 +170,12 @@ describe("a write hands over the body of a file a property is held in", () => {
     )
     expect(standing.taken.writes[0]?.pages?.[0]?.bodies).toEqual({ portrait: "# one" })
 
-    // A CREATE READS ITSELF BACK, so the fresh branch answers empty only until the page is
-    // addressed by its slug — the same shape `matching none makes it` already uses.
     const writes: Writing[] = []
     const fresh: FileWriteDeps = {
-      ask: (query) =>
-        Promise.resolve({
-          rows: query.where?.slug === undefined ? [] : [{ slug: "two" }],
-        } as Asked),
+      ask: (query) => {
+        const rows = query.where?.slug === undefined ? [] : [{ slug: "two" }]
+        return Promise.resolve({ rows, n: rows.length } as Asked)
+      },
       read: () => Promise.resolve({ at: "a", bodies: [], unplaced: [] }),
       write: (asked) => {
         writes.push(asked)
@@ -247,10 +245,10 @@ describe("an upsert writes over what is there or makes it", () => {
 
   test("matching none makes it under the slug the where looked for", async () => {
     const deps: FileWriteDeps = {
-      ask: (query) =>
-        Promise.resolve({
-          rows: query.where?.slug === undefined ? [] : [{ slug: "fresh" }],
-        } as Asked),
+      ask: (query) => {
+        const rows = query.where?.slug === undefined ? [] : [{ slug: "fresh" }]
+        return Promise.resolve({ rows, n: rows.length } as Asked)
+      },
       read: () => Promise.resolve({ at: "a", bodies: [], unplaced: [] }),
       write: () => Promise.resolve({ commit: "c", wrote: [], took: [] }),
     }

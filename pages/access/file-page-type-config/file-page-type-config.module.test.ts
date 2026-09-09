@@ -22,10 +22,14 @@ function fakeOver(store: Store): Fake {
   const deps: FilePageTypeConfigDeps = {
     ask: (query: Query): Promise<Asked> => {
       const named = query.where?.slug?.is
-      if (named === undefined) return Promise.resolve({ rows: Object.values(store) })
+      if (named === undefined) {
+        const every = Object.values(store)
+        return Promise.resolve({ rows: every, n: every.length })
+      }
       asked.push(named)
       const row = store[named]
-      return Promise.resolve({ rows: row === undefined ? [] : [row] })
+      const rows = row === undefined ? [] : [row]
+      return Promise.resolve({ rows, n: rows.length })
     },
   }
   return { deps, asked }

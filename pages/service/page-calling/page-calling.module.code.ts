@@ -27,6 +27,9 @@ export const FILE_CEILING_MS = 15000
 
 export const ATTEMPTS = 4
 
+const NO_COUNT_SAYS =
+  "the pages were asked to skip or to take and answered no count of what matched, so the rows that came back would be read as the whole population"
+
 export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
 
 export type Sleeper = (waited: number) => Promise<void>
@@ -147,7 +150,10 @@ export async function askingFor(
   }
   const rows = said.rows
   if (!Array.isArray(rows)) return { refused: "the pages answered a question with no rows" }
-  return { rows: rows as readonly Row[] }
+  const n = said.n
+  if (typeof n === "number") return { rows: rows as readonly Row[], n }
+  if (query.limit !== undefined || query.offset !== undefined) return { refused: NO_COUNT_SAYS }
+  return { rows: rows as readonly Row[], n: rows.length }
 }
 
 export async function shapeFor(
@@ -202,9 +208,6 @@ async function refusalIn(answered: Response): Promise<string> {
   }
 }
 
-// THE ANSWER IS NOT READ AS JSON. Every other call here reads the body as JSON before looking at
-// the status, which would turn a picture into a refusal about a parser, so this one takes the bytes
-// when the answer is good and reads JSON only to find out why a bad answer was bad.
 export async function filingFor(
   asked: Asking,
   fetcher: Fetcher = fetchThrough,

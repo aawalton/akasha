@@ -59,7 +59,9 @@ export type Query = {
 
 export type Row = Readonly<Record<string, unknown>>
 
-export type Asked = { readonly rows: readonly Row[] } | { readonly refused: string }
+export type Asked =
+  | { readonly rows: readonly Row[]; readonly n: number }
+  | { readonly refused: string }
 
 export function meets(value: Value, key: string, test: Test): boolean {
   const held = value[key]
@@ -259,5 +261,5 @@ export function asking(root: string, query: Query): Asked {
   if (query.descending === true) sorted.reverse()
   const from = offset ?? 0
   const taken = limit === undefined ? sorted.slice(from) : sorted.slice(from, from + limit)
-  return { rows: taken.map((one) => rowOf(one.value, query.keys)) }
+  return { rows: taken.map((one) => rowOf(one.value, query.keys)), n: sorted.length }
 }

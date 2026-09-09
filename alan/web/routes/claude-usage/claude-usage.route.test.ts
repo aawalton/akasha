@@ -11,7 +11,7 @@ import {
 const NOW = Date.parse("2026-09-01T20:00:00.000Z")
 const HOUR = 3_600_000
 
-const NOTHING: Asked = { rows: [] }
+const NOTHING: Asked = { rows: [], n: 0 }
 
 function answers(over: Partial<ClaudeUsageAnswers>): ClaudeUsageAnswers {
   return {
@@ -28,6 +28,7 @@ function spent(...percents: readonly (number | null)[]): Asked {
     rows: percents.map((one, at) =>
       one === null ? { slug: `a${at}` } : { slug: `a${at}`, effectiveSevenDayUsage: one }
     ),
+    n: percents.length,
   }
 }
 
@@ -84,7 +85,7 @@ test("every reading that failed is named, not just the first", async () => {
   const unread = await unreadIn(
     answers({
       meanWeeklyUsed: { refused: "one" },
-      nextSevenDayEnd: { rows: [{ slug: "aine" }] },
+      nextSevenDayEnd: { rows: [{ slug: "aine" }], n: 1 },
     })
   )
   expect(unread).toHaveLength(2)
@@ -102,7 +103,7 @@ test("a picked account carrying no instant refuses rather than reading as absent
   const unread = await unreadIn(
     answers({
       meanWeeklyUsed: spent(4),
-      nextFiveHourBack: { rows: [{ slug: "aine" }] },
+      nextFiveHourBack: { rows: [{ slug: "aine" }], n: 1 },
     })
   )
   expect(unread).toHaveLength(1)
@@ -113,7 +114,7 @@ test("a picked account carrying text that is no instant refuses", async () => {
   const unread = await unreadIn(
     answers({
       meanWeeklyUsed: spent(4),
-      nextSevenDayEnd: { rows: [{ sevenDayResetsAt: "whenever" }] },
+      nextSevenDayEnd: { rows: [{ sevenDayResetsAt: "whenever" }], n: 1 },
     })
   )
   expect(unread[0]).toContain("which is no instant")
@@ -124,9 +125,9 @@ test("the instants come back as milliseconds", async () => {
   const payload = await payloadOf(
     answers({
       meanWeeklyUsed: spent(4),
-      nextFiveHourBack: { rows: [{ fiveHourResetsAt: at }] },
-      nextSevenDayBack: { rows: [{ sevenDayResetsAt: at }] },
-      nextSevenDayEnd: { rows: [{ sevenDayResetsAt: at }] },
+      nextFiveHourBack: { rows: [{ fiveHourResetsAt: at }], n: 1 },
+      nextSevenDayBack: { rows: [{ sevenDayResetsAt: at }], n: 1 },
+      nextSevenDayEnd: { rows: [{ sevenDayResetsAt: at }], n: 1 },
     })
   )
   expect(payload.fiveHourBackAt).toBe(Date.parse(at))
@@ -137,7 +138,10 @@ test("the tier is read off how long the seven-day window has left", async () => 
   const tierAt = async (hours: number): Promise<string> => {
     const at = new Date(NOW + hours * HOUR).toISOString()
     const payload = await payloadOf(
-      answers({ meanWeeklyUsed: spent(4), nextSevenDayEnd: { rows: [{ sevenDayResetsAt: at }] } })
+      answers({
+        meanWeeklyUsed: spent(4),
+        nextSevenDayEnd: { rows: [{ sevenDayResetsAt: at }], n: 1 },
+      })
     )
     return payload.tier
   }
