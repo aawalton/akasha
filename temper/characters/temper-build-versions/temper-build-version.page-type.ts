@@ -1,18 +1,4 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperCharacterThing } from "../things/temper-character-thing.page-type.ts"
-import type { Build } from "./properties/build.text-property.ts"
-import type { BuildHash } from "./properties/build-hash.text-property.ts"
-import type { CheckpointName } from "./properties/checkpoint-name.text-property.ts"
-import type { IsCheckpoint } from "./properties/is-checkpoint.boolean-property.ts"
-import type { VersionNumber } from "./properties/version-number.number-property.ts"
-
-export type TemperBuildVersion = TemperCharacterThing & {
-  build: Build
-  versionNumber: VersionNumber
-  buildHash: BuildHash
-  isCheckpoint?: IsCheckpoint
-  checkpointName?: CheckpointName
-}
 
 export const temperBuildVersion = {
   id: "019dbb6c-51c0-7b3c-b483-0a739f32d9fb",
@@ -59,4 +45,5 @@ export const temperBuildVersion = {
       statement: "The build metadata a version keeps is no declared property.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
