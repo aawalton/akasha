@@ -6,7 +6,9 @@ import { matchingIn } from "@akasha/pages/name-format/format-reaching"
 import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
 import type { Matching } from "@akasha/pages/name-format/name-matching"
 import { packageName } from "@akasha/pages/name-place/package-name"
+import { pageOf, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
+import { types } from "../../../../pages/types/properties/types.file-property.ts"
 import {
   bodyOf,
   FILES,
@@ -25,6 +27,8 @@ const EXPORTS = "exports"
 const AT = "@"
 
 const PARTED_BY = "/"
+
+const TS = ".ts"
 
 const SAID = "a package is reached only where its manifest names"
 
@@ -138,7 +142,15 @@ export function holdingIn(packages: readonly Package[], path: string): Package |
 }
 
 export function pageIn(shadow: Shadow): (at: string) => boolean {
-  return (at) => shadow.index.listedByPath(at).some((one) => one.path === at)
+  const listed = (at: string): boolean =>
+    shadow.index.listedByPath(at).some((one) => one.path === at)
+  return (at) => {
+    if (listed(at)) return true
+    const said = partedIn(at)
+    if (said === null || said.sections.length !== 1) return false
+    if (said.sections[0] !== types.propertySlug) return false
+    return listed(join(dirname(at), `${pageOf(said)}${TS}`))
+  }
 }
 
 export function reasonsIn(

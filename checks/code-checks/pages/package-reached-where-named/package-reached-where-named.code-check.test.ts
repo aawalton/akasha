@@ -7,6 +7,7 @@ import {
   holdingIn,
   namingIn,
   type Package,
+  pageIn,
   partsIn,
   reasonsIn,
   refusalOf,
@@ -230,4 +231,27 @@ test("a name parted by more than one slash is no package name", () => {
 test("a scope carrying nothing past the at sign is refused", () => {
   expect(partsIn("@/indexes")).toEqual(["", "indexes"])
   expect(refusing("@/indexes")).toContain(lowerKebabCase.slug)
+})
+
+const WRITTEN = `${FOLDER}/index/index-import/index-import.index.types.ts`
+
+function filed(paths: readonly string[]) {
+  const listed = (at: string) => (paths.includes(at) ? [{ path: at }] : [])
+  return pageIn({ index: { listedByPath: listed } } as never)
+}
+
+test("a page the index files under its own path is reached from anywhere", () => {
+  expect(filed([PAGE])(PAGE)).toBe(true)
+})
+
+test("the written type beside a page is reached wherever that page is", () => {
+  expect(filed([PAGE])(WRITTEN)).toBe(true)
+})
+
+test("a written type beside no page the index files is reached only where a manifest names it", () => {
+  expect(filed([])(WRITTEN)).toBe(false)
+})
+
+test("a file beside a page under another section is reached only where a manifest names it", () => {
+  expect(filed([SHAPE.replace(".module.code.ts", ".module.ts")])(SHAPE)).toBe(false)
 })

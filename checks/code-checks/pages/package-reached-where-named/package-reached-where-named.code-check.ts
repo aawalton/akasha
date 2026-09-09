@@ -121,5 +121,14 @@ export const packageReachedWhereNamed = {
       invariantKind: "absence",
       statement: "An index naming no package judges clean.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The written type beside a page is reached wherever that page is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A file beside a page under another section is reached only where a manifest names it.",
+    },
   ],
 } as const satisfies CodeCheck
