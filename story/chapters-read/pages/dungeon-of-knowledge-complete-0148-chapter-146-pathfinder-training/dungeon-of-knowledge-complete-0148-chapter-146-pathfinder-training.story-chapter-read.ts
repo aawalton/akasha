@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0148Chapter146PathfinderTraining = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0148-chapter-146-pathfinder-training",
   title: "Chapter 146: Pathfinder Training",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 148,
   ownLength: 4638,
   ownProgress: 4638,

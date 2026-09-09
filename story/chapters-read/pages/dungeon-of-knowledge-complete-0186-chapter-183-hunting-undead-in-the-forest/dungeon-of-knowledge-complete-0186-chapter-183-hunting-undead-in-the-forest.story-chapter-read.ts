@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0186Chapter183HuntingUndeadInTheForest = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0186-chapter-183-hunting-undead-in-the-forest",
   title: "Chapter 183: Hunting Undead in the Forest",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 186,
   ownLength: 6305,
   ownProgress: 6305,

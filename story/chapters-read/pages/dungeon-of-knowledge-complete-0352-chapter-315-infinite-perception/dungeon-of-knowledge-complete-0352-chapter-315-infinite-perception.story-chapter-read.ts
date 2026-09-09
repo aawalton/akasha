@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0352Chapter315InfinitePerception = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0352-chapter-315-infinite-perception",
   title: "Chapter 315: Infinite Perception",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 352,
   ownLength: 2038,
   ownProgress: 2038,

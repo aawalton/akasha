@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0241Chapter217BoneTemplePart1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0241-chapter-217-bone-temple-part-1",
   title: "Chapter 217: Bone Temple (Part 1)",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 241,
   ownLength: 1962,
   ownProgress: 1962,

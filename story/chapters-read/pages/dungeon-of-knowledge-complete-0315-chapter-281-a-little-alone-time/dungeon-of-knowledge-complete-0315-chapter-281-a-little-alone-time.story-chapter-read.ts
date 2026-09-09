@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0315Chapter281ALittleAloneTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0315-chapter-281-a-little-alone-time",
   title: "Chapter 281: A Little Alone Time",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 315,
   ownLength: 1461,
   ownProgress: 1461,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0298Chapter266AbundantHealing = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0298-chapter-266-abundant-healing",
   title: "Chapter 266: Abundant Healing",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 298,
   ownLength: 2107,
   ownProgress: 2107,

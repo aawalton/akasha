@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0366Chapter329VisitorsFromSouthport = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0366-chapter-329-visitors-from-southport",
   title: "Chapter 329: Visitors From Southport",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 366,
   ownLength: 2353,
   ownProgress: 2353,

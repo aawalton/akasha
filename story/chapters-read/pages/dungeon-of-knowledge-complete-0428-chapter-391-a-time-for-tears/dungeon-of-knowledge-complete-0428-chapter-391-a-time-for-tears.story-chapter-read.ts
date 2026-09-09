@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0428Chapter391ATimeForTears = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0428-chapter-391-a-time-for-tears",
   title: "Chapter 391: A Time for Tears",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 428,
   ownLength: 2498,
   ownProgress: 2498,

@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0395Chapter358MayorAidenTurner = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0395-chapter-358-mayor-aiden-turner",
   title: "Chapter 358: Mayor Aiden Turner",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 395,
   ownLength: 2751,
   ownProgress: 2751,

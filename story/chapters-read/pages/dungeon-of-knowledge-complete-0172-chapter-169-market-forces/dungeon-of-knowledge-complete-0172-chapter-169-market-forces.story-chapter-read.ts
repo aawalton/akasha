@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0172Chapter169MarketForces = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0172-chapter-169-market-forces",
   title: "Chapter 169: Market Forces",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 172,
   ownLength: 4818,
   ownProgress: 4818,

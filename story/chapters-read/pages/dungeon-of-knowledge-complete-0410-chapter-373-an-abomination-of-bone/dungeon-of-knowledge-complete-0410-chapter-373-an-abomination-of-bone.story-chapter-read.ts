@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0410Chapter373AnAbominationOfBone = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0410-chapter-373-an-abomination-of-bone",
   title: "Chapter 373: An Abomination of Bone",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 410,
   ownLength: 2764,
   ownProgress: 2764,

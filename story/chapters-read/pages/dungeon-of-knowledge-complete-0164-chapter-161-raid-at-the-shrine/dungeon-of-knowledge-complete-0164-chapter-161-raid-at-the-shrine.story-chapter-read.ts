@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0164Chapter161RaidAtTheShrine = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0164-chapter-161-raid-at-the-shrine",
   title: "Chapter 161: Raid at the Shrine",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 164,
   ownLength: 4108,
   ownProgress: 4108,

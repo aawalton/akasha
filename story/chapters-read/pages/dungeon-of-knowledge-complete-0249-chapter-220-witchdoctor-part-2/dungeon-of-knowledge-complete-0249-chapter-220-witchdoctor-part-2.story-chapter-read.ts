@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0249Chapter220WitchdoctorPart2 = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0249-chapter-220-witchdoctor-part-2",
   title: "Chapter 220: Witchdoctor (Part 2)",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 249,
   ownLength: 2034,
   ownProgress: 2034,

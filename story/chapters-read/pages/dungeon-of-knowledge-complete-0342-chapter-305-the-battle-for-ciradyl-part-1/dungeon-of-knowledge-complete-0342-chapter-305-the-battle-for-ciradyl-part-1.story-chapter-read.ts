@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0342Chapter305TheBattleForCiradylPart1 = 
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0342-chapter-305-the-battle-for-ciradyl-part-1",
   title: "Chapter 305: The Battle for Ciradyl (Part 1)",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 342,
   ownLength: 3002,
   ownProgress: 3002,

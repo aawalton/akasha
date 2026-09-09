@@ -5,7 +5,7 @@ export const dungeonOfKnowledgeComplete0168Chapter165HerFirstShield = {
   pageTypeSlug: "story-chapter-read",
   slug: "dungeon-of-knowledge-complete-0168-chapter-165-her-first-shield",
   title: "Chapter 165: Her First Shield",
-  partOfCollectionSlugs: ["dungeon-of-knowledge-complete"],
+  storySlug: "dungeon-of-knowledge-complete",
   position: 168,
   ownLength: 4465,
   ownProgress: 4465,
