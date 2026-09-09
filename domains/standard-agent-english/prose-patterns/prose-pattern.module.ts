@@ -149,7 +149,7 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A participle set against a word by `rather than` is left alone.",
+      statement: "A participle read as a clause of its own names an act, so it describes no thing.",
     },
     {
       invariantKind: "departure",

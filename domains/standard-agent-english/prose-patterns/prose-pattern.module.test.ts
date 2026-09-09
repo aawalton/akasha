@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { foundIn } from "./prose-pattern.module.code.ts"
 import {
   A_BODY_IS_HOLDING_A_CONFLICT,
+  A_CHECK_REFUSES_HOLDING_THE_FILE,
   A_DAY_HOLDING_ROWS_AND_DECLARING,
   A_FLAG_HOLDING,
   A_KEY_HOLDING_MANY_VALUES,
@@ -259,7 +260,11 @@ test("a participle under a form of `be` is left alone", () => {
   expect(foundIn(sentenceOf(A_BODY_IS_HOLDING_A_CONFLICT), HOLD)).toEqual([])
 })
 
-test("a participle set against a word by `rather than` is left alone", () => {
+test("a participle read as a clause of its own is left alone", () => {
+  expect(foundIn(sentenceOf(A_CHECK_REFUSES_HOLDING_THE_FILE), HOLD)).toEqual([])
+})
+
+test("a participle read as a clause of its own after `rather than` is left alone", () => {
   expect(foundIn(sentenceOf(A_READ_ASKS_RATHER_THAN_HOLDING), HOLD)).toEqual([])
 })
 

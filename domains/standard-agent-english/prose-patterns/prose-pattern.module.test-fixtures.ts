@@ -439,6 +439,16 @@ export const A_BODY_IS_HOLDING_A_CONFLICT: readonly Row[] = [
   ["conflict", "NOUN", 4, "obj"],
 ]
 
+export const A_CHECK_REFUSES_HOLDING_THE_FILE: readonly Row[] = [
+  ["The", "DET", 2, "det"],
+  ["check", "NOUN", 3, "nsubj"],
+  ["refuses", "VERB", 0, "root"],
+  ["holding", "VERB", 3, "advcl"],
+  ["the", "DET", 6, "det"],
+  ["file", "NOUN", 4, "obj"],
+  ["open", "ADV", 4, "xcomp"],
+]
+
 export const A_READ_ASKS_RATHER_THAN_HOLDING: readonly Row[] = [
   ["a", "DET", 2, "det"],
   ["read", "NOUN", 3, "nsubj"],

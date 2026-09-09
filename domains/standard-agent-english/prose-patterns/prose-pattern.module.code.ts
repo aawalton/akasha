@@ -56,6 +56,8 @@ const CONJUNCT = "conj"
 
 const CLAUSAL_SUBJECT = "csubj"
 
+const CLAUSE_OF_ITS_OWN = "advcl"
+
 const COORDINATOR = "cc"
 
 const AUXILIARY = "aux"
@@ -298,18 +300,14 @@ function joined(sentence: DepSentence, token: DepToken): boolean {
   return token.deprel === CONJUNCT || hasChild(sentence, token.id, CONJUNCT)
 }
 
-function setApart(sentence: DepSentence, token: DepToken): boolean {
-  return childrenByRel(sentence, token.id, COORDINATOR).some((one) => lower(one) === RATHER)
-}
-
 function participleOf(sentence: DepSentence, token: DepToken): Frame | null {
   if (token.id === FIRST) return null
   if (token.deprel === CLAUSAL_SUBJECT) return null
+  if (token.deprel === CLAUSE_OF_ITS_OWN) return null
   if (underAPreposition(sentence, token)) return null
   if (adverbBefore(sentence, token)) return null
   if (clauseBeside(sentence, token)) return null
   if (beBeside(sentence, token)) return null
-  if (setApart(sentence, token)) return null
   return joined(sentence, token) ? null : PARTICIPLE_FRAME
 }
 
