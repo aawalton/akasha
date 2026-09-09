@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0557ChapterFortyFourTheWeltraumGewittermeister = {
   id: "01a06730-4ec2-7eb4-876d-ebcc8a274b5f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0557-chapter-forty-four-the-weltraum-gewittermeister",
   title: "Chapter Forty-Four - The Weltraum-Gewittermeister Tesla-Kollisionsgenerator",
   story: "stray-cat-strut-stubbing-never-lol",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0652ChapterThirtyFourWelcomeToTheBroomCloset = {
   id: "01a06730-4ed3-7e2c-90d6-6a2df686f93e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0652-chapter-thirty-four-welcome-to-the-broom-closet",
   title: "Chapter Thirty-Four - Welcome to the Broom Closet",
   story: "stray-cat-strut-stubbing-never-lol",

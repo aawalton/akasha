@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0678ChapterFiftyFiveACutAboveMiddleManagement = {
   id: "01a06730-4ed4-7f98-b6fb-750a5f2f3c2b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0678-chapter-fifty-five-a-cut-above-middle-management",
   title: "Chapter Fifty-Five - A Cut Above Middle Management",
   story: "stray-cat-strut-stubbing-never-lol",

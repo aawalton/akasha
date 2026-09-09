@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0052FiftyTwoTheNecessaryFunctions = {
   id: "01a06730-4e11-7b2b-b31c-65fb41090f51",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0052-fifty-two-the-necessary-functions",
   title: "FIFTY-TWO: The Necessary Functions",
   story: "super-supportive",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0075SeventyFourABusyMorningPt2 = {
   id: "01a06730-4e2b-7a7a-a534-5f1a967ac056",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0075-seventy-four-a-busy-morning-pt-2",
   title: "SEVENTY-FOUR: A Busy Morning, pt. 2",
   story: "super-supportive",

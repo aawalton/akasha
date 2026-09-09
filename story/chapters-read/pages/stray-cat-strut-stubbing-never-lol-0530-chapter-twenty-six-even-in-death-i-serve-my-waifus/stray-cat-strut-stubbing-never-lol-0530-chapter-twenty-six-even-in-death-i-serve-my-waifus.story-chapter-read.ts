@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0530ChapterTwentySixEvenInDeathIServeMyWaifus = {
   id: "01a06730-4e8f-77c8-8234-785baf757d5d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0530-chapter-twenty-six-even-in-death-i-serve-my-waifus",
   title: "Chapter Twenty-Six - Even In Death I Serve My Waifus",
   story: "stray-cat-strut-stubbing-never-lol",

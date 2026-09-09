@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0599ChapterSeventySevenDeadSamuraiTellNoTales = {
   id: "01a06730-4ec3-7fb7-a375-ffa2fce1e8bc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0599-chapter-seventy-seven-dead-samurai-tell-no-tales",
   title: "Chapter Seventy-Seven - Dead Samurai Tell No Tales",
   story: "stray-cat-strut-stubbing-never-lol",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0008EightTigerShorts = {
   id: "01a06730-4de7-7001-963b-0991e338c1d5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0008-eight-tiger-shorts",
   title: "EIGHT: Tiger Shorts",
   story: "super-supportive",

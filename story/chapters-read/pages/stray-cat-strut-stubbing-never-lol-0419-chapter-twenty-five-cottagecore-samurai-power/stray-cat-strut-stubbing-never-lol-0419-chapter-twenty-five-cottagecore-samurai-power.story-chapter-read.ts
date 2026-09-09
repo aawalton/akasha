@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0419ChapterTwentyFiveCottagecoreSamuraiPower = {
   id: "01a06730-4e4d-73a5-b12d-4e9ca6d937bb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0419-chapter-twenty-five-cottagecore-samurai-power",
   title: "Chapter Twenty-Five - Cottagecore Samurai Power-Couple",
   story: "stray-cat-strut-stubbing-never-lol",

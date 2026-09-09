@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0441InterludeARoamingRaccoonsReasonable1385687 = {
   id: "01a06730-4e59-721b-a1c6-c9a8ce8a2133",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0441-interlude-a-roaming-raccoons-reasonable-1385687",
   title: "Interlude - A Roaming Raccoon's Reasonable Relationships [Part Five]",
   story: "stray-cat-strut-stubbing-never-lol",

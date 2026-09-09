@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0647ChapterThirtyIsItReallyPossibleForAnEmo = {
   id: "01a06730-4ed3-7b83-97b1-118bf19da622",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0647-chapter-thirty-is-it-really-possible-for-an-emo",
   title:
     "Chapter Thirty - Is It Really Possible for an Emo Girl and a Country Boy to Build a Doomsday Weapon?",

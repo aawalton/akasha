@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const succulentGirlEvolution0008Chapter8ChakChakChak = {
   id: "01a06730-4dea-7c5c-8dc1-e9898c936379",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "succulent-girl-evolution-0008-chapter-8-chak-chak-chak",
   title: "Chapter 8: Chak-chak-chak!",
   story: "succulent-girl-evolution",

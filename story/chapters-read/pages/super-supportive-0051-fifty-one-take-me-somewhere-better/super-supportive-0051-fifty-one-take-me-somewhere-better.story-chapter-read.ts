@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0051FiftyOneTakeMeSomewhereBetter = {
   id: "01a06730-4e11-78d6-83f8-cc34f26217ab",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0051-fifty-one-take-me-somewhere-better",
   title: "FIFTY-ONE: Take Me Somewhere Better",
   story: "super-supportive",

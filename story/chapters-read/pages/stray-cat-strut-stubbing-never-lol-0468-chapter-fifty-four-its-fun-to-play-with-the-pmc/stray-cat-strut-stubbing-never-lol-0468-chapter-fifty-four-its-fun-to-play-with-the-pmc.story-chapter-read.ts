@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0468ChapterFiftyFourItsFunToPlayWithThePmc = {
   id: "01a06730-4e5a-714c-857a-a95eb68aa9f5",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0468-chapter-fifty-four-its-fun-to-play-with-the-pmc",
   title: "Chapter Fifty-Four - It's fun to play with the P.M.C.",
   story: "stray-cat-strut-stubbing-never-lol",

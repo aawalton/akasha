@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0700ChapterSeventyThreeIHaveBeenArtificial = {
   id: "01a06730-4ed6-7536-8692-fd11b4d52b0d",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0700-chapter-seventy-three-i-have-been-artificial",
   title: "Chapter Seventy-Three - I Have Been Artificial Before You Were Intelligent!",
   story: "stray-cat-strut-stubbing-never-lol",

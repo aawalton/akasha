@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0585ChapterSixtyFiveSkysTheLimitButICanReach = {
   id: "01a06730-4ec3-7f96-910c-848d02ad0fe1",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0585-chapter-sixty-five-skys-the-limit-but-i-can-reach",
   title: "Chapter Sixty-Five - Sky's the Limit, But I Can Reach",
   story: "stray-cat-strut-stubbing-never-lol",

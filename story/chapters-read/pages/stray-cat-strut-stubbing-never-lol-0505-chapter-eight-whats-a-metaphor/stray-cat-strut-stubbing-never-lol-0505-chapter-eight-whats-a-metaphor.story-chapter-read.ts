@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0505ChapterEightWhatsAMetaphor = {
   id: "01a06730-4e5b-7189-a2d4-54e445b089f6",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0505-chapter-eight-whats-a-metaphor",
   title: "Chapter Eight - What's a Metaphor?",
   story: "stray-cat-strut-stubbing-never-lol",

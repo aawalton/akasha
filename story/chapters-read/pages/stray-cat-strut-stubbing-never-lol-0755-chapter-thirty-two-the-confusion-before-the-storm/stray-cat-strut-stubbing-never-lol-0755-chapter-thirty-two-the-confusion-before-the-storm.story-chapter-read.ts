@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0755ChapterThirtyTwoTheConfusionBeforeTheStorm = {
   id: "01a06730-4ed8-7728-bf0e-ac2511dbd6cd",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0755-chapter-thirty-two-the-confusion-before-the-storm",
   title: "Chapter Thirty-Two - The Confusion Before the Storm",
   story: "stray-cat-strut-stubbing-never-lol",

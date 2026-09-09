@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0586ChapterSixtySixPointsArePreciousBut = {
   id: "01a06730-4ec3-7249-8cc7-d0a92aaa462a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0586-chapter-sixty-six-points-are-precious-but",
   title: "Chapter Sixty-Six - Points Are Precious, But Explosions Are Priceless",
   story: "stray-cat-strut-stubbing-never-lol",

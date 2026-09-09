@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0721ChapterFourYouCanLieOnAReportButReports = {
   id: "01a06730-4ed7-72ff-89a3-22f0ebb9ba11",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0721-chapter-four-you-can-lie-on-a-report-but-reports",
   title: "Chapter Four - You Can Lie on a Report, But Reports Don't Lie",
   story: "stray-cat-strut-stubbing-never-lol",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0425MagicalGirlMercenaryForHireChapterOne = {
   id: "01a06730-4e4d-7613-8964-27a44ac6a6bb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0425-magical-girl-mercenary-for-hire-chapter-one",
   title: "Magical Girl Mercenary For Hire - Chapter One",
   story: "stray-cat-strut-stubbing-never-lol",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0026TwentySixFirstAssignment = {
   id: "01a06730-4df6-7aaa-b81d-960588d0ac8e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0026-twenty-six-first-assignment",
   title: "TWENTY-SIX: First Assignment",
   story: "super-supportive",

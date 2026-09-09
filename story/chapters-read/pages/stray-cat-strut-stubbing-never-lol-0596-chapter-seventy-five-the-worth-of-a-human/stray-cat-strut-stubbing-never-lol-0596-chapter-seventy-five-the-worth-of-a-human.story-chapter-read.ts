@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0596ChapterSeventyFiveTheWorthOfAHuman = {
   id: "01a06730-4ec3-7574-867c-09f1e5f4c7bc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0596-chapter-seventy-five-the-worth-of-a-human",
   title: "Chapter Seventy-Five - The Worth of a Human",
   story: "stray-cat-strut-stubbing-never-lol",

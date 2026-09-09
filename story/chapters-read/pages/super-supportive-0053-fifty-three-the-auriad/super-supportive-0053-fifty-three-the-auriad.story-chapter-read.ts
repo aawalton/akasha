@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0053FiftyThreeTheAuriad = {
   id: "01a06730-4e12-7ce4-aa2c-947c5bf374ad",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0053-fifty-three-the-auriad",
   title: "FIFTY-THREE: The Auriad",
   story: "super-supportive",

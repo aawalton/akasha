@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0077SeventySixTheRescueGame = {
   id: "01a06730-4e32-7afc-ab68-ad6cf6d7d18b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0077-seventy-six-the-rescue-game",
   title: "SEVENTY-SIX: The Rescue Game",
   story: "super-supportive",

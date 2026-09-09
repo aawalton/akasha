@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0544NewsTheContestsGeneralCategoryWinnersHave = {
   id: "01a06730-4e8f-74f2-8b1f-213590c552d7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0544-news-the-contests-general-category-winners-have",
   title: "News: The Contest's General Category Winners have been announced!",
   story: "stray-cat-strut-stubbing-never-lol",

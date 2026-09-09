@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0415ChapterTwentyOneEternalOptimismAndPetty = {
   id: "01a06730-4e4c-7026-ab4b-6c8060021492",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0415-chapter-twenty-one-eternal-optimism-and-petty",
   title: "Chapter Twenty-One - Eternal Optimism and Petty Spite",
   story: "stray-cat-strut-stubbing-never-lol",

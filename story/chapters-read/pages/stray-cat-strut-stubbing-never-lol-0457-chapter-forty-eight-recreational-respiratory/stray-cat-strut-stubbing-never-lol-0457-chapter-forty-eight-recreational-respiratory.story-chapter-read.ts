@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0457ChapterFortyEightRecreationalRespiratory = {
   id: "01a06730-4e5a-7362-87ac-98f64710c454",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0457-chapter-forty-eight-recreational-respiratory",
   title: "Chapter Forty-Eight - Recreational Respiratory Deterioration",
   story: "stray-cat-strut-stubbing-never-lol",

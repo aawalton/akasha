@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0577ChapterFiftyNineTheFullStopDoesNotStop = {
   id: "01a06730-4ec2-7807-8d10-bed6692d5e66",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0577-chapter-fifty-nine-the-full-stop-does-not-stop",
   title: "Chapter Fifty-Nine - The Full Stop Does Not Stop",
   story: "stray-cat-strut-stubbing-never-lol",

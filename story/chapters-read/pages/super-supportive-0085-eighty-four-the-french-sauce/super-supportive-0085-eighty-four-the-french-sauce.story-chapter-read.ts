@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0085EightyFourTheFrenchSauce = {
   id: "01a06730-4e40-7ac8-9431-4a6bffe3d83f",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0085-eighty-four-the-french-sauce",
   title: "EIGHTY-FOUR: The French Sauce",
   story: "super-supportive",

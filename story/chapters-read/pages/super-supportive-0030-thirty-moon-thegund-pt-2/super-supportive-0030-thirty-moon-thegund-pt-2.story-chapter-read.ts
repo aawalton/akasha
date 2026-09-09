@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0030ThirtyMoonThegundPt2 = {
   id: "01a06730-4dfc-7fe2-b181-3c66c75280e7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0030-thirty-moon-thegund-pt-2",
   title: "THIRTY: Moon Thegund, Pt. 2",
   story: "super-supportive",

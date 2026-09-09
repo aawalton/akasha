@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0578ChapterSixtyReligiousExemption = {
   id: "01a06730-4ec2-7dd3-b273-9f3d95121351",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0578-chapter-sixty-religious-exemption",
   title: "Chapter Sixty - Religious Exemption",
   story: "stray-cat-strut-stubbing-never-lol",

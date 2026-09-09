@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0736ChapterFifteenSpontaneousLobotomySyndrome = {
   id: "01a06730-4ed7-7092-9ca3-551cc78129a4",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0736-chapter-fifteen-spontaneous-lobotomy-syndrome",
   title: "Chapter Fifteen - Spontaneous Lobotomy Syndrome",
   story: "stray-cat-strut-stubbing-never-lol",

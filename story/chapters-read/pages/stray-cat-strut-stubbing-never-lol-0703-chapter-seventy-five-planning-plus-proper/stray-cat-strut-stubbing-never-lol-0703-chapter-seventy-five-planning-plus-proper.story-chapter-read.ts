@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0703ChapterSeventyFivePlanningPlusProper = {
   id: "01a06730-4ed6-740b-817c-1e9368c9a1f7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0703-chapter-seventy-five-planning-plus-proper",
   title:
     "Chapter Seventy-Five - Planning Plus Proper Preparation Prevents Potential Problems, Probably",

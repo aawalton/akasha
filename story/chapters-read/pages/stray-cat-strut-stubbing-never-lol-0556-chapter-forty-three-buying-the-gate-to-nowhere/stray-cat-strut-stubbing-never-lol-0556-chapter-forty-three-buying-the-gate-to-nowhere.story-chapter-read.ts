@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0556ChapterFortyThreeBuyingTheGateToNowhere = {
   id: "01a06730-4ec2-79fe-9a0e-6edf946a3936",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0556-chapter-forty-three-buying-the-gate-to-nowhere",
   title: "Chapter Forty-Three - Buying the Gate to Nowhere",
   story: "stray-cat-strut-stubbing-never-lol",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0642ChapterTwentyFiveKawaiiKittyKohaiKicking = {
   id: "01a06730-4ed3-72af-bd70-db89b9b28e5b",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0642-chapter-twenty-five-kawaii-kitty-kohai-kicking",
   title: "Chapter Twenty-Five - Kawaii Kitty Kohai Kicking",
   story: "stray-cat-strut-stubbing-never-lol",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0518ChapterEighteenBetterThanSomeWorseThanMost = {
   id: "01a06730-4e8e-7313-b12c-cad7bde2ccbb",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0518-chapter-eighteen-better-than-some-worse-than-most",
   title: "Chapter Eighteen - Better Than Some, Worse Than Most",
   story: "stray-cat-strut-stubbing-never-lol",

@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0693ChapterSixtySevenNotMushroomForEmotions = {
   id: "01a06730-4ed6-76e9-b0e8-59c864aa6375",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0693-chapter-sixty-seven-not-mushroom-for-emotions",
   title: "Chapter Sixty-Seven - Not Mushroom for Emotions",
   story: "stray-cat-strut-stubbing-never-lol",

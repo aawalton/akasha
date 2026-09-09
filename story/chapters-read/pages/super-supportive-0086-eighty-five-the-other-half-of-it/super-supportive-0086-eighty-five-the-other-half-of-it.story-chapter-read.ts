@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0086EightyFiveTheOtherHalfOfIt = {
   id: "01a06730-4e41-71df-bd84-96d384e5b5bc",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0086-eighty-five-the-other-half-of-it",
   title: "EIGHTY-FIVE: The Other Half of It",
   story: "super-supportive",

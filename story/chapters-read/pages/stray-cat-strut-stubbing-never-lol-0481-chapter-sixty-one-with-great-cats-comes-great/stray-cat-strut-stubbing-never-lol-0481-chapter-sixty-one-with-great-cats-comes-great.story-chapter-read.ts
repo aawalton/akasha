@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0481ChapterSixtyOneWithGreatCatsComesGreat = {
   id: "01a06730-4e5b-7a1b-8183-82434290655e",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0481-chapter-sixty-one-with-great-cats-comes-great",
   title: "Chapter Sixty-One - With Great Cats Comes Great Responsibility",
   story: "stray-cat-strut-stubbing-never-lol",

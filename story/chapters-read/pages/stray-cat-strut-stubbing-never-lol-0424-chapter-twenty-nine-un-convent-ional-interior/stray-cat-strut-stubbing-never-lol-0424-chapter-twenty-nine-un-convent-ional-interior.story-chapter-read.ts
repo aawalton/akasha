@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0424ChapterTwentyNineUnConventIonalInterior = {
   id: "01a06730-4e4d-70ec-a1ff-d553499a9623",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0424-chapter-twenty-nine-un-convent-ional-interior",
   title: "Chapter Twenty-Nine - Un-convent-ional Interior Design",
   story: "stray-cat-strut-stubbing-never-lol",

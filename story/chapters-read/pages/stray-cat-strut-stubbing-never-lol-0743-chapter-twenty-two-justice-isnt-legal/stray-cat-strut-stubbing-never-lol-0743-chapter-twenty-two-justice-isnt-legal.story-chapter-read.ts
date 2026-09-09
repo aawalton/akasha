@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0743ChapterTwentyTwoJusticeIsntLegal = {
   id: "01a06730-4ed7-70a4-9b20-e58ef4603167",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0743-chapter-twenty-two-justice-isnt-legal",
   title: "Chapter Twenty-Two - Justice Isn't Legal",
   story: "stray-cat-strut-stubbing-never-lol",

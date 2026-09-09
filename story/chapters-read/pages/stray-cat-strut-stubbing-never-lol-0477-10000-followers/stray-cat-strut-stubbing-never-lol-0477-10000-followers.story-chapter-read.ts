@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol047710000Followers = {
   id: "01a06730-4e5b-7c79-8732-f20a8962f2e7",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0477-10000-followers",
   title: "10,000 Followers!",
   story: "stray-cat-strut-stubbing-never-lol",

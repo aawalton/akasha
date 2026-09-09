@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0073SeventyTwoMyDaughterIsAnAlienHonorsStudent = {
   id: "01a06730-4e25-77f4-bd1c-c7ada328f061",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0073-seventy-two-my-daughter-is-an-alien-honors-student",
   title: "SEVENTY-TWO: My Daughter is An Alien Honors Student",
   story: "super-supportive",

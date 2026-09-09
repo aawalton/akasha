@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const superSupportive0048FortyEightTheMachine = {
   id: "01a06730-4e0f-7d67-8b17-a825960bec5a",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "super-supportive-0048-forty-eight-the-machine",
   title: "FORTY-EIGHT: The Machine",
   story: "super-supportive",

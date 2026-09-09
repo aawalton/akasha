@@ -3,6 +3,7 @@ import type { StoryChapterRead } from "../../story-chapter-read.page-type.ts"
 export const strayCatStrutStubbingNeverLol0554TheOngoingContestHasComeToAClose = {
   id: "01a06730-4ea4-7eec-a28b-09c9d2ce911c",
   pageTypeSlug: "story-chapter-read",
+  type: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0554-the-ongoing-contest-has-come-to-a-close",
   title: "The Ongoing Contest has come to a close!",
   story: "stray-cat-strut-stubbing-never-lol",
