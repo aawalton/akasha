@@ -9,7 +9,7 @@ export const florenceTheMachineNoLightNoLightRemixes = {
   position: 0,
   ownLength: 8.873767,
   ownProgress: 8.873767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalId: "7CDDqqMHWYLw0SaEIhznv8",

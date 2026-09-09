@@ -9,7 +9,7 @@ export const jamesTaylor2Gorilla2019Remaster = {
   position: 0,
   ownLength: 39.041283,
   ownProgress: 39.041283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1975-05-01",
   externalId: "0x491s63vRDvG25x2Fzrny",

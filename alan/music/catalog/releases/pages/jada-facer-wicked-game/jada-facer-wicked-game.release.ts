@@ -9,7 +9,7 @@ export const jadaFacerWickedGame = {
   position: 0,
   ownLength: 2.821417,
   ownProgress: 2.821417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-25",
   externalId: "5FY5Q60bcB5M45YVYyJqss",

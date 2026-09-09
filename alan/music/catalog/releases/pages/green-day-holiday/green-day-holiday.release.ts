@@ -9,7 +9,7 @@ export const greenDayHoliday = {
   position: 0,
   ownLength: 9.901767,
   ownProgress: 9.901767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2005-03-30",

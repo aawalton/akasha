@@ -9,7 +9,7 @@ export const girlInRedWeFellInLoveInOctoberOctoberPassedMeBy = {
   position: 0,
   ownLength: 8.2209,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-11-21",
   externalId: "7vud0sY43VTv28MbWiglDa",

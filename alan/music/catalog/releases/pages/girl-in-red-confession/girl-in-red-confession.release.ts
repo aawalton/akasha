@@ -9,7 +9,7 @@ export const girlInRedConfession = {
   position: 0,
   ownLength: 1.409633,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-02-28",
   externalId: "20leNPAVftANfsWCY2hCfJ",

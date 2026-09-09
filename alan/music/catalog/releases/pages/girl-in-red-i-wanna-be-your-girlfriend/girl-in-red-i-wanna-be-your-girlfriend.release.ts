@@ -9,7 +9,7 @@ export const girlInRedIWannaBeYourGirlfriend = {
   position: 0,
   ownLength: 3.4165,
   ownProgress: 3.4165,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2018-03-02",

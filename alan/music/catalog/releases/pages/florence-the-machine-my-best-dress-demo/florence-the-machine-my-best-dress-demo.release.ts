@@ -9,7 +9,7 @@ export const florenceTheMachineMyBestDressDemo = {
   position: 0,
   ownLength: 2.576433,
   ownProgress: 2.576433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-03",
   externalId: "5LZOlK8ktgEVoX2DlKsm4S",

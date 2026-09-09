@@ -9,7 +9,7 @@ export const gracieAbramsILoveYouIMSorryLiveFromVevo = {
   position: 0,
   ownLength: 6.02185,
   ownProgress: 6.02185,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2024-10-11",

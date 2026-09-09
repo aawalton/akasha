@@ -9,7 +9,7 @@ export const florenceTheMachinePatriciaAcoustic = {
   position: 0,
   ownLength: 4.468433,
   ownProgress: 4.468433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-07-06",
   externalId: "2eIak7bTvFXo9O9z8sSIp0",

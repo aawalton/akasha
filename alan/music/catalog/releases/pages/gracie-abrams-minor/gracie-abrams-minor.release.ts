@@ -9,7 +9,7 @@ export const gracieAbramsMinor = {
   position: 0,
   ownLength: 20.215567,
   ownProgress: 20.215567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2020-07-14",

@@ -9,7 +9,7 @@ export const florenceTheMachineWaterToDrinkNotWriteAbout = {
   position: 0,
   ownLength: 45.92345,
   ownProgress: 45.92345,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-28",
   externalId: "0tnCDvhS2L1WASkhOVgerW",

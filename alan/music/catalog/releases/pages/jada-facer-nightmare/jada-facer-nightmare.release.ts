@@ -9,7 +9,7 @@ export const jadaFacerNightmare = {
   position: 0,
   ownLength: 2.710817,
   ownProgress: 2.710817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-30",
   externalId: "59YsQVYBGG8aBDWtgxbDkp",

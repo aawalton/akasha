@@ -9,7 +9,7 @@ export const jadaFacer7MinutesInHeavenAcoustic = {
   position: 0,
   ownLength: 3.433333,
   ownProgress: 3.433333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-02-09",
   externalId: "7lbiSX1k1SJ4f53GfEhBF1",

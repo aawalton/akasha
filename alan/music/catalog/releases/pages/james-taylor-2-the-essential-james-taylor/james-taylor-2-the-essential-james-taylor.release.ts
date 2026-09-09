@@ -9,7 +9,7 @@ export const jamesTaylor2TheEssentialJamesTaylor = {
   position: 0,
   ownLength: 110.790733,
   ownProgress: 110.790733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-10-29",
   externalId: "69BraN93YbUqOGH1URqGka",

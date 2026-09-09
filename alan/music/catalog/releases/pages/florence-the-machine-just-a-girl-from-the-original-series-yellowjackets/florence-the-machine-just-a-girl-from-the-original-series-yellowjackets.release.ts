@@ -9,7 +9,7 @@ export const florenceTheMachineJustAGirlFromTheOriginalSeriesYellowjackets = {
   position: 0,
   ownLength: 4.580483,
   ownProgress: 4.580483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-09",
   externalId: "2g9A59r1lqhUp29wxLY3Nk",

@@ -9,7 +9,7 @@ export const girlInRedMidnightLove = {
   position: 0,
   ownLength: 3.232133,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-04-14",
   externalId: "1fqH4fCx9J4hTF1DACVfen",

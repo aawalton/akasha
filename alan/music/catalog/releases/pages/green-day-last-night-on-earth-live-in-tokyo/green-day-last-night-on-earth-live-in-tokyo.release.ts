@@ -9,7 +9,7 @@ export const greenDayLastNightOnEarthLiveInTokyo = {
   position: 0,
   ownLength: 23.922433,
   ownProgress: 23.922433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2009-05-09",

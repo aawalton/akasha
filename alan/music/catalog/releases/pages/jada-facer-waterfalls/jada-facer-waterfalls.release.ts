@@ -9,7 +9,7 @@ export const jadaFacerWaterfalls = {
   position: 0,
   ownLength: 3.602767,
   ownProgress: 3.602767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-22",
   externalId: "3dxFh4DG4QAqyGFty7glP4",

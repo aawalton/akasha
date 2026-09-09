@@ -9,7 +9,7 @@ export const imagineDragonsThunderYoungDumbBrokeWithKhalidMedley = {
   position: 0,
   ownLength: 4.18805,
   ownProgress: 4.18805,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-20",
   externalId: "573iLAebuuBiOerLRZRaSZ",

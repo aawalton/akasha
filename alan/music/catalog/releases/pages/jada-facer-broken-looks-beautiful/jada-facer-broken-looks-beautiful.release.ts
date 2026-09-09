@@ -9,7 +9,7 @@ export const jadaFacerBrokenLooksBeautiful = {
   position: 0,
   ownLength: 3.57595,
   ownProgress: 3.57595,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-13",
   externalId: "6JXbjZMzTTvehw8PGt7Ejk",

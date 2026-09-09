@@ -9,7 +9,7 @@ export const jadaFacerWrongDirection = {
   position: 0,
   ownLength: 3.088,
   ownProgress: 3.088,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-02-17",
   externalId: "1gplWCYxnLtCP7uOlHNJO0",

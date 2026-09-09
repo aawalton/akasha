@@ -9,7 +9,7 @@ export const imagineDragonsNightVisions = {
   position: 0,
   ownLength: 48.07795,
   ownProgress: 48.07795,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-09-04",
   externalId: "6htgf3qv7vGcsdxLCDxKp8",

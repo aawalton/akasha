@@ -9,7 +9,7 @@ export const greenDayStrayHeart = {
   position: 0,
   ownLength: 3.739333,
   ownProgress: 3.739333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2012-10-15",

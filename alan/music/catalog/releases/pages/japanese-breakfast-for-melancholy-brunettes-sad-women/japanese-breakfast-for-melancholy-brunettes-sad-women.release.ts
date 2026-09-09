@@ -9,7 +9,7 @@ export const japaneseBreakfastForMelancholyBrunettesSadWomen = {
   position: 0,
   ownLength: 32.377517,
   ownProgress: 32.377517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-21",
   externalId: "4qqdOkr3Ff3kN8GxoxvRES",

@@ -9,7 +9,7 @@ export const jamesTaylor2OneManDog2019Remaster = {
   position: 0,
   ownLength: 37.74895,
   ownProgress: 37.74895,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1972-11-01",
   externalId: "5fgXXyM1kcpCz3z0XHRniE",

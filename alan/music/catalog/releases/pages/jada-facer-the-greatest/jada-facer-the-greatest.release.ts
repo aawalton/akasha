@@ -9,7 +9,7 @@ export const jadaFacerTheGreatest = {
   position: 0,
   ownLength: 2.217633,
   ownProgress: 2.217633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-10-01",
   externalId: "3o0sZduJc1VeLtLzpbuWu5",

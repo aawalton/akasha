@@ -9,7 +9,7 @@ export const greenDayShenanigans = {
   position: 0,
   ownLength: 33.393717,
   ownProgress: 33.393717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2002-07-02",

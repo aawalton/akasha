@@ -9,7 +9,7 @@ export const florenceTheMachineLightOfLove = {
   position: 0,
   ownLength: 4.012,
   ownProgress: 4.012,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-17",
   externalId: "6Aq25x5FMLzkgn5qXdLp5N",

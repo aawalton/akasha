@@ -9,7 +9,7 @@ export const florenceTheMachineCeremonials = {
   position: 0,
   ownLength: 72.288117,
   ownProgress: 72.288117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2011-01-01",
   externalId: "3tFAP5BTa1lwUp7lLJ9FlG",

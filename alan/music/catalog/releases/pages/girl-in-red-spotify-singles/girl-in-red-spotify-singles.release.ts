@@ -9,7 +9,7 @@ export const girlInRedSpotifySingles = {
   position: 0,
   ownLength: 5.36215,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2021-09-08",
   externalId: "6H1GSOFY2sL863KbEYUq5c",

@@ -9,7 +9,7 @@ export const jadaFacerBeMyMistakeAcoustic = {
   position: 0,
   ownLength: 3.239817,
   ownProgress: 3.239817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-11-05",
   externalId: "37slLlxMuH4NZp9hpUwuDI",

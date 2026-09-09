@@ -9,7 +9,7 @@ export const jadaFacerFlyMeToTheMoonAcoustic = {
   position: 0,
   ownLength: 2.4144,
   ownProgress: 2.4144,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-13",
   externalId: "7ylp6qOcm2rWZBTcdx6d4U",

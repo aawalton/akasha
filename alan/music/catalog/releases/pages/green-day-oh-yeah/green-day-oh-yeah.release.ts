@@ -9,7 +9,7 @@ export const greenDayOhYeah = {
   position: 0,
   ownLength: 7.257683,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-01-16",

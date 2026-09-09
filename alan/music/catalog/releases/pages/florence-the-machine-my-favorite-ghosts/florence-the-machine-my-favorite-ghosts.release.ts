@@ -9,7 +9,7 @@ export const florenceTheMachineMyFavoriteGhosts = {
   position: 0,
   ownLength: 42.940483,
   ownProgress: 42.940483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-02-04",
   externalId: "0Vv3T9dsjpcPEIaQ2FAagK",

@@ -9,7 +9,7 @@ export const imagineDragonsStarsWillAlignZerbRemix = {
   position: 0,
   ownLength: 3.70225,
   ownProgress: 3.70225,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-01",
   externalId: "2uarBvl6p3yHwNGYDpJCEA",

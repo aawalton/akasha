@@ -9,7 +9,7 @@ export const florenceTheMachineHunger = {
   position: 0,
   ownLength: 3.577767,
   ownProgress: 3.577767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-05-03",
   externalId: "2Weyn0N5HAw59OM87LCR7i",

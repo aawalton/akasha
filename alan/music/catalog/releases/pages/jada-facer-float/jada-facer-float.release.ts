@@ -9,7 +9,7 @@ export const jadaFacerFloat = {
   position: 0,
   ownLength: 11.275617,
   ownProgress: 11.275617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-24",
   externalId: "6ZUc8aLTlUcAceyUyhYe92",

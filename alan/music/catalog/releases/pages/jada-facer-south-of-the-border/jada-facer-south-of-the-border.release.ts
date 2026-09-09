@@ -9,7 +9,7 @@ export const jadaFacerSouthOfTheBorder = {
   position: 0,
   ownLength: 2.359683,
   ownProgress: 2.359683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-08-02",
   externalId: "5WOj3ebKbFPURallwZj0D6",

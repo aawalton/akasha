@@ -9,7 +9,7 @@ export const jadaFacerLittleThingsAcoustic = {
   position: 0,
   ownLength: 3.300817,
   ownProgress: 3.300817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-12",
   externalId: "7DQ8NfC3MegBGjQOTWQjX5",

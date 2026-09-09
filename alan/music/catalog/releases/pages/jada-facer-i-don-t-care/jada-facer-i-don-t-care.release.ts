@@ -9,7 +9,7 @@ export const jadaFacerIDonTCare = {
   position: 0,
   ownLength: 3.1658,
   ownProgress: 3.1658,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-28",
   externalId: "6HkWlOM8D90OeisuOWhUaU",

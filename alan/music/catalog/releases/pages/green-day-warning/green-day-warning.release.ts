@@ -9,7 +9,7 @@ export const greenDayWarning = {
   position: 0,
   ownLength: 41.153267,
   ownProgress: 41.153267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2000-10-03",

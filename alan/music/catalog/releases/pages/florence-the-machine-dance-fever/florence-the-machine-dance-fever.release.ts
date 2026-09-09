@@ -9,7 +9,7 @@ export const florenceTheMachineDanceFever = {
   position: 0,
   ownLength: 47.241217,
   ownProgress: 47.241217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-13",
   externalId: "4ohh1zQ4yybSK9FS7LLyDE",

@@ -9,7 +9,7 @@ export const jadaFacerCanYouFeelTheLoveTonight = {
   position: 0,
   ownLength: 4.059817,
   ownProgress: 4.059817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-17",
   externalId: "4BOO2knLJPSLB0LUGzI6cj",

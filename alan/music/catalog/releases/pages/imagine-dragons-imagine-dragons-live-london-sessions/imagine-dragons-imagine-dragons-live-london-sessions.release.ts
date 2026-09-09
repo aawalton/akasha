@@ -9,7 +9,7 @@ export const imagineDragonsImagineDragonsLiveLondonSessions = {
   position: 0,
   ownLength: 11.792433,
   ownProgress: 11.792433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2013-01-01",
   externalId: "2RQtDABXELc8EqB7pujcEi",

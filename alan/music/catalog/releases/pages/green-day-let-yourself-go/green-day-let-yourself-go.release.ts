@@ -9,7 +9,7 @@ export const greenDayLetYourselfGo = {
   position: 0,
   ownLength: 2.949767,
   ownProgress: 2.949767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2012-09-05",

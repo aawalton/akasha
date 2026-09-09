@@ -9,7 +9,7 @@ export const harryStyles2FineLine = {
   position: 0,
   ownLength: 46.720367,
   ownProgress: 46.720367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-12-13",
   externalId: "7xV2TzoaVc0ycW7fwBwAml",

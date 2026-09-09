@@ -9,7 +9,7 @@ export const greenDay21GunsEp = {
   position: 0,
   ownLength: 15.087983,
   ownProgress: 15.087983,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2010-01-26",

@@ -9,7 +9,7 @@ export const jadaFacerWhereIsMyMindAcoustic = {
   position: 0,
   ownLength: 2.796167,
   ownProgress: 2.796167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-03-23",
   externalId: "5sSDA4zIIj48IAc2lhnaAF",

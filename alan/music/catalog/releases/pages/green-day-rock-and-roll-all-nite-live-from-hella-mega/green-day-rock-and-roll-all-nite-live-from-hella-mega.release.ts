@@ -9,7 +9,7 @@ export const greenDayRockAndRollAllNiteLiveFromHellaMega = {
   position: 0,
   ownLength: 3.703817,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2021-09-10",

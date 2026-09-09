@@ -9,7 +9,7 @@ export const girlInRedWeFellInLoveInOctoberSpedUp = {
   position: 0,
   ownLength: 2.43345,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2018-11-28",
   externalId: "4sE4T8gYJ8dZJobkmOjdxF",

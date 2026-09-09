@@ -9,7 +9,7 @@ export const gracieAbramsTheSecretOfUs = {
   position: 0,
   ownLength: 47.661267,
   ownProgress: 47.661267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-21",
   externalId: "56bdWeO40o3WfAD2Lja4dl",

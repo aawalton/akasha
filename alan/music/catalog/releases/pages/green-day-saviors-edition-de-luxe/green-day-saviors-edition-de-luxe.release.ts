@@ -9,7 +9,7 @@ export const greenDaySaviorsEditionDeLuxe = {
   position: 0,
   ownLength: 72.288683,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2025-08-29",

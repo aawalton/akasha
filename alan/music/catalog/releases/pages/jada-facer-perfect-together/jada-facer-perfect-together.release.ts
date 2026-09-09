@@ -9,7 +9,7 @@ export const jadaFacerPerfectTogether = {
   position: 0,
   ownLength: 2.458333,
   ownProgress: 2.458333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-09-19",
   externalId: "3xrBxBnYn9ufSyM6HRL7aB",

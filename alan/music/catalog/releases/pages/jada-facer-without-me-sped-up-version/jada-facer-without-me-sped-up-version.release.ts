@@ -9,7 +9,7 @@ export const jadaFacerWithoutMeSpedUpVersion = {
   position: 0,
   ownLength: 2.1482,
   ownProgress: 2.1482,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-29",
   externalId: "4wypTAULJVa3WGBZ5u4BGv",

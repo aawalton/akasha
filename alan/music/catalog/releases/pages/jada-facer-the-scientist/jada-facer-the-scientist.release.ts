@@ -9,7 +9,7 @@ export const jadaFacerTheScientist = {
   position: 0,
   ownLength: 4.1371,
   ownProgress: 4.1371,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-17",
   externalId: "3U0dRdIYC3Lwtctsyh1fh7",

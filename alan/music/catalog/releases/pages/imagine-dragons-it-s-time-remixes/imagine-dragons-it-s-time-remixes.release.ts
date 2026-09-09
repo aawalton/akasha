@@ -9,7 +9,7 @@ export const imagineDragonsItSTimeRemixes = {
   position: 0,
   ownLength: 17.392217,
   ownProgress: 17.392217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalId: "5RO33QZORXxIKqneSZNuyl",

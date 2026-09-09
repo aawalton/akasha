@@ -9,7 +9,7 @@ export const japaneseBreakfastGliderFromSableOriginalVideoGameSoundtrack = {
   position: 0,
   ownLength: 2.85,
   ownProgress: 2.85,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-08-27",
   externalId: "70zXnYjeRgIzhiC7gYJZpO",

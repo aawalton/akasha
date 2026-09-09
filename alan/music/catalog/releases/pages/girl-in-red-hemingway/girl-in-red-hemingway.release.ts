@@ -9,7 +9,7 @@ export const girlInRedHemingway = {
   position: 0,
   ownLength: 3.278283,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2025-05-30",
   externalId: "3JKMx86ymxWRpnBhmbBAus",

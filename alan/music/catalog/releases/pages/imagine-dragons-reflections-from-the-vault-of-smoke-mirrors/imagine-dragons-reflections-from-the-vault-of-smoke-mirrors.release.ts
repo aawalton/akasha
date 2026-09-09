@@ -9,7 +9,7 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrors = {
   position: 0,
   ownLength: 41.7833,
   ownProgress: 41.7833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2025-02-21",

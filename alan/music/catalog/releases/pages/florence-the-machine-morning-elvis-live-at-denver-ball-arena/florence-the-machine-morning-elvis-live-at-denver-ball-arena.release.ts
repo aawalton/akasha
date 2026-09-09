@@ -9,7 +9,7 @@ export const florenceTheMachineMorningElvisLiveAtDenverBallArena = {
   position: 0,
   ownLength: 4.26085,
   ownProgress: 4.26085,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-12-09",
   externalId: "2x9KxA4G0o6qePmduWIoWh",

@@ -9,7 +9,7 @@ export const jadaFacerAllIWantAcoustic = {
   position: 0,
   ownLength: 3.6941,
   ownProgress: 3.6941,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-10-23",
   externalId: "72j52zJxZysMuED7VnQ2um",

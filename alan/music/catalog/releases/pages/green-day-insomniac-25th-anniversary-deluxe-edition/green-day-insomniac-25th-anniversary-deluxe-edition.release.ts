@@ -9,7 +9,7 @@ export const greenDayInsomniac25thAnniversaryDeluxeEdition = {
   position: 0,
   ownLength: 52.959467,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2021-03-19",

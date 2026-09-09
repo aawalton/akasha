@@ -9,7 +9,7 @@ export const jadaFacerSnowOnTheBeachAcoustic = {
   position: 0,
   ownLength: 3.476633,
   ownProgress: 3.476633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-31",
   externalId: "2AzBYVXkh50YPLNsTm3ENE",

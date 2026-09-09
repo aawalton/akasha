@@ -9,7 +9,7 @@ export const izzyEscobarSunnyInLondon = {
   position: 0,
   ownLength: 20.74235,
   ownProgress: 20.74235,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2025-10-24",

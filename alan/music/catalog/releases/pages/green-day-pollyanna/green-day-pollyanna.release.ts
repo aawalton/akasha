@@ -9,7 +9,7 @@ export const greenDayPollyanna = {
   position: 0,
   ownLength: 3.250283,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2021-05-17",

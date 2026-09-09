@@ -9,7 +9,7 @@ export const greenDayNotThatWayAnymore = {
   position: 0,
   ownLength: 2.878683,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-10-23",

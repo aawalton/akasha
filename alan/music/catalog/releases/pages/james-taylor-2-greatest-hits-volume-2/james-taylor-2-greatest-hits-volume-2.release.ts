@@ -9,7 +9,7 @@ export const jamesTaylor2GreatestHitsVolume2 = {
   position: 0,
   ownLength: 62.025483,
   ownProgress: 62.025483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2000-10-31",
   externalId: "7fNCStUd7WYRLavfWfsuno",

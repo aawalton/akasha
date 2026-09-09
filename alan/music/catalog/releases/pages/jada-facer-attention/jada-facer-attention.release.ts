@@ -9,7 +9,7 @@ export const jadaFacerAttention = {
   position: 0,
   ownLength: 3.333333,
   ownProgress: 3.333333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-14",
   externalId: "2f43i7K8jxIZAoltmMpqL0",

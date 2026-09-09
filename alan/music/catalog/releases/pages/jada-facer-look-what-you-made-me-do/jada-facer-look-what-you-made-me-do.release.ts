@@ -9,7 +9,7 @@ export const jadaFacerLookWhatYouMadeMeDo = {
   position: 0,
   ownLength: 2.216,
   ownProgress: 2.216,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-11",
   externalId: "3lNmDRQMciHkGz83DlTUH6",

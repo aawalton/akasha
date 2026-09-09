@@ -9,7 +9,7 @@ export const florenceTheMachineDanceFeverPoemVersions = {
   position: 0,
   ownLength: 9.891483,
   ownProgress: 9.891483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-08-31",
   externalId: "2w7hx8bI5HpuEve5jA6l4t",

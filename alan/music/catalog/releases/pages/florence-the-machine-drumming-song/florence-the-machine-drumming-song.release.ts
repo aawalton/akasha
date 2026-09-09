@@ -9,7 +9,7 @@ export const florenceTheMachineDrummingSong = {
   position: 0,
   ownLength: 23.072417,
   ownProgress: 23.072417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2009-01-01",
   externalId: "4TpneFAVpBvHJBdcrDbPZw",

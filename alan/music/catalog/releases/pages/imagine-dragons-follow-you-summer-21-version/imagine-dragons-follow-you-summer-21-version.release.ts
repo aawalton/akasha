@@ -9,7 +9,7 @@ export const imagineDragonsFollowYouSummer21Version = {
   position: 0,
   ownLength: 5.8098,
   ownProgress: 5.8098,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-06-04",
   externalId: "5XbogAOTpIAb0cuULw9FcP",

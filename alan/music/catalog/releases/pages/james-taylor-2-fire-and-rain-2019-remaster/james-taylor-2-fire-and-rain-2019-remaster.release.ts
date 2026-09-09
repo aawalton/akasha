@@ -9,7 +9,7 @@ export const jamesTaylor2FireAndRain2019Remaster = {
   position: 0,
   ownLength: 3.39355,
   ownProgress: 3.39355,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-05-21",
   externalId: "50HMoBvu6Qcy2idNeffED4",

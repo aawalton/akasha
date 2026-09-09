@@ -9,7 +9,7 @@ export const japaneseBreakfastBeSweetKoreanVersion = {
   position: 0,
   ownLength: 6.512383,
   ownProgress: 6.512383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-20",
   externalId: "5WfeCVyCMFpTkkYkcVHT1x",

@@ -9,7 +9,7 @@ export const jadaFacerTheKid = {
   position: 0,
   ownLength: 7.473533,
   ownProgress: 7.473533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-28",
   externalId: "6vLorzmDwVSsAtMA2hoVxw",

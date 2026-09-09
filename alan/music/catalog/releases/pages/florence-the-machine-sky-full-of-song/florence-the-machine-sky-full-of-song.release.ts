@@ -9,7 +9,7 @@ export const florenceTheMachineSkyFullOfSong = {
   position: 0,
   ownLength: 3.769333,
   ownProgress: 3.769333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-12",
   externalId: "0rI4Lse9Ffh0HoXVYmdiHa",

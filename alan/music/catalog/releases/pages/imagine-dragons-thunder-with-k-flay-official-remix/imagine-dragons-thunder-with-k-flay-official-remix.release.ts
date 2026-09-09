@@ -9,7 +9,7 @@ export const imagineDragonsThunderWithKFlayOfficialRemix = {
   position: 0,
   ownLength: 3.262,
   ownProgress: 3.262,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-08",
   externalId: "7eNvFPoAnO4X944LXMmICz",

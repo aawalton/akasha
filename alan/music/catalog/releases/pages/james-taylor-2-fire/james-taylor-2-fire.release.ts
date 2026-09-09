@@ -9,7 +9,7 @@ export const jamesTaylor2Fire = {
   position: 0,
   ownLength: 10.066667,
   ownProgress: 10.066667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2000-01-03",
   externalId: "2ATrZVFsFYoyFaOr0xtDhB",

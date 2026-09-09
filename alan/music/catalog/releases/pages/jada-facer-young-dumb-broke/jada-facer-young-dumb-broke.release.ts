@@ -9,7 +9,7 @@ export const jadaFacerYoungDumbBroke = {
   position: 0,
   ownLength: 2.019733,
   ownProgress: 2.019733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-09-27",
   externalId: "51pFX3O6cjHfVQLECCyPwy",

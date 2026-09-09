@@ -9,7 +9,7 @@ export const jadaFacerConsequences = {
   position: 0,
   ownLength: 2.35095,
   ownProgress: 2.35095,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-02-05",
   externalId: "0c7DowZ16x4Rh2NxY0iQdn",

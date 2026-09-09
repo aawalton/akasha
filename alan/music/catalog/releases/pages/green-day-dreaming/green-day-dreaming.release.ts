@@ -9,7 +9,7 @@ export const greenDayDreaming = {
   position: 0,
   ownLength: 3.1234,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-05-22",

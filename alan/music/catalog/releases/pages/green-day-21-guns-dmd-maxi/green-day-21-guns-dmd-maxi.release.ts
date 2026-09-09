@@ -9,7 +9,7 @@ export const greenDay21GunsDmdMaxi = {
   position: 0,
   ownLength: 12.6562,
   ownProgress: 12.6562,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2009-01-01",

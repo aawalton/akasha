@@ -9,7 +9,7 @@ export const greenDayHitchinARideBbcLiveSession = {
   position: 0,
   ownLength: 2.847033,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2021-11-26",

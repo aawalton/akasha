@@ -9,7 +9,7 @@ export const japaneseBreakfastMaterialistsOriginalSoundtrack = {
   position: 0,
   ownLength: 41.965083,
   ownProgress: 41.965083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-06-13",
   externalId: "20fuKKdQbvoDR93W19PtYf",

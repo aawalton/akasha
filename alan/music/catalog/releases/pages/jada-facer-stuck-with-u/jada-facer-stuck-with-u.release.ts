@@ -9,7 +9,7 @@ export const jadaFacerStuckWithU = {
   position: 0,
   ownLength: 3.131917,
   ownProgress: 3.131917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-28",
   externalId: "0GRRiimsVdiQZtexAvdNgf",

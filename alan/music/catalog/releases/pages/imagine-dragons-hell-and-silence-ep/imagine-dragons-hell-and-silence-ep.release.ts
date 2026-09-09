@@ -9,7 +9,7 @@ export const imagineDragonsHellAndSilenceEp = {
   position: 0,
   ownLength: 22.747733,
   ownProgress: 22.747733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-06-01",
   externalId: "0q0BORsAWpbFNf7UqWwDbd",

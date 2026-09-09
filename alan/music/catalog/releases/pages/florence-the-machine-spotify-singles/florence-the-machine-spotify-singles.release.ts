@@ -9,7 +9,7 @@ export const florenceTheMachineSpotifySingles = {
   position: 0,
   ownLength: 8.2785,
   ownProgress: 8.2785,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-19",
   externalId: "6MfeMJhhtj6Aas0rDfkHcO",

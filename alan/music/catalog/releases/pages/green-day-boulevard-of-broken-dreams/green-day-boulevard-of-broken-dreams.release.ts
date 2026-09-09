@@ -9,7 +9,7 @@ export const greenDayBoulevardOfBrokenDreams = {
   position: 0,
   ownLength: 4.354433,
   ownProgress: 4.354433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2004-01-01",

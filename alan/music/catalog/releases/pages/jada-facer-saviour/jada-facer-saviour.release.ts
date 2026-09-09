@@ -9,7 +9,7 @@ export const jadaFacerSaviour = {
   position: 0,
   ownLength: 3.238483,
   ownProgress: 3.238483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-06",
   externalId: "2K2WvcCvBgypwWingLoSvE",

@@ -9,7 +9,7 @@ export const jadaFacerYellow = {
   position: 0,
   ownLength: 3.946667,
   ownProgress: 3.946667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-04-16",
   externalId: "65v33p7N8leWjxZM83KQqa",

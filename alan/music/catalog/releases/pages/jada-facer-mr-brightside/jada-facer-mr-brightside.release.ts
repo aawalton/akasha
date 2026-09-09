@@ -9,7 +9,7 @@ export const jadaFacerMrBrightside = {
   position: 0,
   ownLength: 3.45435,
   ownProgress: 3.45435,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-03-09",
   externalId: "7z4CkC1GkG9IikAcygwj0C",

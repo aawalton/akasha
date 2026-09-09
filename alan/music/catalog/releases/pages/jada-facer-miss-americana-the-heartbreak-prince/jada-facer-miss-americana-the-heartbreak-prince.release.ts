@@ -9,7 +9,7 @@ export const jadaFacerMissAmericanaTheHeartbreakPrince = {
   position: 0,
   ownLength: 3.36775,
   ownProgress: 3.36775,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-09-20",
   externalId: "2WELi5UWqOkwx7e5XJNLEH",

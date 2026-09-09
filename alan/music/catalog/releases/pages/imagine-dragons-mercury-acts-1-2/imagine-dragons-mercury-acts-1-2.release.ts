@@ -9,7 +9,7 @@ export const imagineDragonsMercuryActs12 = {
   position: 0,
   ownLength: 102.998467,
   ownProgress: 102.998467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-01",
   externalId: "6yiXkzHvC0OTmhfDQOEWtS",

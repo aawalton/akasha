@@ -9,7 +9,7 @@ export const jadaFacerShutUpAndDanceAcoustic = {
   position: 0,
   ownLength: 2.194233,
   ownProgress: 2.194233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-05",
   externalId: "2XDvjclTrlsrdUbsseVhqr",

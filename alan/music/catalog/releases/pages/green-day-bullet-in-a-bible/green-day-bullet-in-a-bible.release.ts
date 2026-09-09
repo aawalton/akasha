@@ -9,7 +9,7 @@ export const greenDayBulletInABible = {
   position: 0,
   ownLength: 65.04035,
   ownProgress: 65.04035,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2005-11-15",

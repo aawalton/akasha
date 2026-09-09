@@ -9,7 +9,7 @@ export const imagineDragonsItSTimeCherryCherryBoomBoomRemix = {
   position: 0,
   ownLength: 5.2611,
   ownProgress: 5.2611,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalId: "0jrhqGuZkqsTFsWy4Dbz7U",

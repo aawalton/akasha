@@ -9,7 +9,7 @@ export const jadaFacerNobodySLoveAcoustic = {
   position: 0,
   ownLength: 3.512517,
   ownProgress: 3.512517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-08-10",
   externalId: "2hzsal85X97JEiYcvXs20S",

@@ -9,7 +9,7 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentre = {
   position: 0,
   ownLength: 88.878117,
   ownProgress: 88.878117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-06-03",
   externalId: "71s3w0NvaGZcoHlKtPRGjp",

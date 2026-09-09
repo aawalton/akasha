@@ -9,7 +9,7 @@ export const jadaFacerThinkingOutLoudAcoustic = {
   position: 0,
   ownLength: 4.104733,
   ownProgress: 4.104733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-20",
   externalId: "23XDhcB6YoFnltW5cYPJJu",

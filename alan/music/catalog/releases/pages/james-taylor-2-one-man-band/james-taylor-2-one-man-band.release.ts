@@ -9,7 +9,7 @@ export const jamesTaylor2OneManBand = {
   position: 0,
   ownLength: 77.861667,
   ownProgress: 77.861667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2007-01-01",
   externalId: "0C8IHwZUTmSGcFTeakuZNG",

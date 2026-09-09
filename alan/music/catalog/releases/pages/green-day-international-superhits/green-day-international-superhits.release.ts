@@ -9,7 +9,7 @@ export const greenDayInternationalSuperhits = {
   position: 0,
   ownLength: 60.670767,
   ownProgress: 60.670767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2001-11-13",

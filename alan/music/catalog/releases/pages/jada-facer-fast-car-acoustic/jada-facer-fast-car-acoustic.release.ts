@@ -9,7 +9,7 @@ export const jadaFacerFastCarAcoustic = {
   position: 0,
   ownLength: 2.7699,
   ownProgress: 2.7699,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-28",
   externalId: "0X4GdyP4xXihtf6N0ZqjqI",

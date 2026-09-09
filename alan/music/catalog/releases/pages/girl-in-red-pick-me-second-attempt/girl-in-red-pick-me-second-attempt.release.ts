@@ -9,7 +9,7 @@ export const girlInRedPickMeSecondAttempt = {
   position: 0,
   ownLength: 2.561117,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-05-31",
   externalId: "27kXwbzhAXAxlJhrU7qdCe",

@@ -9,7 +9,7 @@ export const jadaFacerColdShowers = {
   position: 0,
   ownLength: 3.02795,
   ownProgress: 3.02795,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-22",
   externalId: "2mQqgOjK9PG88KiXpAyg89",

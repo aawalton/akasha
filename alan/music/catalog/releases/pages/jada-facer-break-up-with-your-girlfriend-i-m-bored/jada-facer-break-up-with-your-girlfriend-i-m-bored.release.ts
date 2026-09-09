@@ -9,7 +9,7 @@ export const jadaFacerBreakUpWithYourGirlfriendIMBored = {
   position: 0,
   ownLength: 2.492717,
   ownProgress: 2.492717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-02-20",
   externalId: "4oszi5lBbSRF5qTA9hAhXO",

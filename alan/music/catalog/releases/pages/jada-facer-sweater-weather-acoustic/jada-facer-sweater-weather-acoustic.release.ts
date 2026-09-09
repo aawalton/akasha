@@ -9,7 +9,7 @@ export const jadaFacerSweaterWeatherAcoustic = {
   position: 0,
   ownLength: 2.508617,
   ownProgress: 2.508617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-01-21",
   externalId: "0BdJo2A39iIZxoJXZLLTkG",

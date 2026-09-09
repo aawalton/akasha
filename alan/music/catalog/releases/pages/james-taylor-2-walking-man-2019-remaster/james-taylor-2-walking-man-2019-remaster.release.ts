@@ -9,7 +9,7 @@ export const jamesTaylor2WalkingMan2019Remaster = {
   position: 0,
   ownLength: 34.060617,
   ownProgress: 34.060617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1974-06-01",
   externalId: "1pa0QvYjLsiYWQlkMvqPZL",

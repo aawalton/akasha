@@ -9,7 +9,7 @@ export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersion = 
   position: 0,
   ownLength: 3.1448,
   ownProgress: 3.1448,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-06-23",
   externalId: "2fGxoIq6W6i4p9cavzwWP4",

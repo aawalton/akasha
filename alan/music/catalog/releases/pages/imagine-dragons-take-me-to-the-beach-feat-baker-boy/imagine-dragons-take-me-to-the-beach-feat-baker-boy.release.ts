@@ -9,7 +9,7 @@ export const imagineDragonsTakeMeToTheBeachFeatBakerBoy = {
   position: 0,
   ownLength: 3.0892,
   ownProgress: 3.0892,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-11",
   externalId: "6qe9TokikN4yu5VaPRSouw",

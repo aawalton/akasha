@@ -9,7 +9,7 @@ export const imagineDragonsEnemyFromTheSeriesArcaneLeagueOfLegends = {
   position: 0,
   ownLength: 2.889683,
   ownProgress: 2.889683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-27",
   externalId: "2Y9Kal9IDz6JphsCfY6GzG",

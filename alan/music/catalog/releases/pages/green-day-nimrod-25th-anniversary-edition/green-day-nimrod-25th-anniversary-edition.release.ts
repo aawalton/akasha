@@ -9,7 +9,7 @@ export const greenDayNimrod25thAnniversaryEdition = {
   position: 0,
   ownLength: 159.528333,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2023-01-27",

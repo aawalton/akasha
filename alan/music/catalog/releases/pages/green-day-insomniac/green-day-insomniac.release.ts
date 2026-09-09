@@ -9,7 +9,7 @@ export const greenDayInsomniac = {
   position: 0,
   ownLength: 32.9008,
   ownProgress: 32.9008,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1995-10-10",

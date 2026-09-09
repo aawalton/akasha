@@ -9,7 +9,7 @@ export const jamesTaylor2ComingBackToYou = {
   position: 0,
   ownLength: 3.676667,
   ownProgress: 3.676667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-07-28",
   externalId: "5kHIm8MtwOa6jVGS4nFC31",

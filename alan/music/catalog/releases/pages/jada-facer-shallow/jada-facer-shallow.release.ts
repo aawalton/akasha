@@ -9,7 +9,7 @@ export const jadaFacerShallow = {
   position: 0,
   ownLength: 3.1563,
   ownProgress: 3.1563,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-11-13",
   externalId: "4cKPmcaSCx63J1IayA54oI",

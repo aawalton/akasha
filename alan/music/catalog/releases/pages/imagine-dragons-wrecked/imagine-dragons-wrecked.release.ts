@@ -9,7 +9,7 @@ export const imagineDragonsWrecked = {
   position: 0,
   ownLength: 4.066733,
   ownProgress: 4.066733,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-07-02",
   externalId: "2qjb5OwlllLLOmrueU08kG",

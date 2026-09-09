@@ -9,7 +9,7 @@ export const florenceTheMachineDelilahRadioEdit = {
   position: 0,
   ownLength: 3.623433,
   ownProgress: 3.623433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-10-28",
   externalId: "4RtpG3AwcMM9oxCBd2IRAj",

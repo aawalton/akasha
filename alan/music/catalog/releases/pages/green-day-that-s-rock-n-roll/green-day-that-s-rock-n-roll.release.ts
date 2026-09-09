@@ -9,7 +9,7 @@ export const greenDayThatSRockNRoll = {
   position: 0,
   ownLength: 2.990583,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-10-30",

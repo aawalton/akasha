@@ -9,7 +9,7 @@ export const jadaFacerSucker = {
   position: 0,
   ownLength: 3.028817,
   ownProgress: 3.028817,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-03-18",
   externalId: "0kj50SWRrSO4cHKH15KGAo",

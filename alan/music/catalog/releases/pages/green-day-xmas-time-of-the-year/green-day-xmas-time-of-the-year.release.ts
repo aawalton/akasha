@@ -9,7 +9,7 @@ export const greenDayXmasTimeOfTheYear = {
   position: 0,
   ownLength: 2.298183,
   ownProgress: 2.298183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2015-01-01",

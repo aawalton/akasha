@@ -9,7 +9,7 @@ export const greenDaySmashItLikeBelushi = {
   position: 0,
   ownLength: 2.809233,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2025-04-09",

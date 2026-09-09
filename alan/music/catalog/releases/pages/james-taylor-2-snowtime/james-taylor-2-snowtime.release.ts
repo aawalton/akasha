@@ -9,7 +9,7 @@ export const jamesTaylor2Snowtime = {
   position: 0,
   ownLength: 5.8091,
   ownProgress: 5.8091,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-01",
   externalId: "7ApahkquX5fjyoqg4SpNrD",

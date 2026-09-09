@@ -9,7 +9,7 @@ export const girlInRedRue = {
   position: 0,
   ownLength: 3.61385,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-08-26",
   externalId: "2atCibcxnI4r4LG1zV12gM",

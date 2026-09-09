@@ -9,7 +9,7 @@ export const greenDayNoFunMondays = {
   position: 0,
   ownLength: 40.729217,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-11-27",

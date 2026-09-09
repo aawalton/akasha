@@ -9,7 +9,7 @@ export const imagineDragonsLoom = {
   position: 0,
   ownLength: 31.532167,
   ownProgress: 31.532167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-06-28",
   externalId: "7EPrkhjTBrwAV8yAKCmY0Y",

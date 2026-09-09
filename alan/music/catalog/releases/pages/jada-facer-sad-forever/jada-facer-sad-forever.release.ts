@@ -9,7 +9,7 @@ export const jadaFacerSadForever = {
   position: 0,
   ownLength: 2.5,
   ownProgress: 2.5,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-08",
   externalId: "1GcMQKKRFtvEeNxyuw3X8W",

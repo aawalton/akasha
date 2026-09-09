@@ -9,7 +9,7 @@ export const jadaFacerScaredOfLovingYou = {
   position: 0,
   ownLength: 1.830467,
   ownProgress: 1.830467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-03-14",
   externalId: "236gIpHG6gYtEUAUhcnhmZ",

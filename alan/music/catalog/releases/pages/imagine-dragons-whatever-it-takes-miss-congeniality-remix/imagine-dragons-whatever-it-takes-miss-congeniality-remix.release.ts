@@ -9,7 +9,7 @@ export const imagineDragonsWhateverItTakesMissCongenialityRemix = {
   position: 0,
   ownLength: 5.776433,
   ownProgress: 5.776433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-17",
   externalId: "3w4h2g9y4AyfNyle4h6BbQ",

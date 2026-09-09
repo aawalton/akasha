@@ -9,7 +9,7 @@ export const florenceTheMachineWhatKindOfManNicolasJaarRemix = {
   position: 0,
   ownLength: 12.360217,
   ownProgress: 12.360217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-03-11",
   externalId: "0D5WccOMXR35o9Mu0V3jwO",

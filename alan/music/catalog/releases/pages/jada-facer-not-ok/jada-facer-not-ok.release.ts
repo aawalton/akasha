@@ -9,7 +9,7 @@ export const jadaFacerNotOk = {
   position: 0,
   ownLength: 2.4738,
   ownProgress: 2.4738,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-06-13",
   externalId: "78d84MhMk98gyJ3Jj8bjzQ",

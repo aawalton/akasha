@@ -9,7 +9,7 @@ export const girlInRedBadIdea = {
   position: 0,
   ownLength: 3.660633,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-09-03",
   externalId: "4AEKKY9Sny3Uj6U3ELK4Sl",

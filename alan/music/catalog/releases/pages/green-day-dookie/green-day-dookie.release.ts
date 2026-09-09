@@ -9,7 +9,7 @@ export const greenDayDookie = {
   position: 0,
   ownLength: 38.368117,
   ownProgress: 38.368117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1994-02-01",

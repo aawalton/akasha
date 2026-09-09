@@ -9,7 +9,7 @@ export const greenDayYouCanTPutYourArmsRoundAMemory = {
   position: 0,
   ownLength: 3.521417,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-09-25",

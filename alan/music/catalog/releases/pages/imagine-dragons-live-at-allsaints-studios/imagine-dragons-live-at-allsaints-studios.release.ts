@@ -9,7 +9,7 @@ export const imagineDragonsLiveAtAllsaintsStudios = {
   position: 0,
   ownLength: 14.308333,
   ownProgress: 14.308333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-08-04",
   externalId: "22y98JB7rKhh335uj6nDZ4",

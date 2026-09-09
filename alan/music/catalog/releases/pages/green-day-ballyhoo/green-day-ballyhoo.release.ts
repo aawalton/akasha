@@ -9,7 +9,7 @@ export const greenDayBallyhoo = {
   position: 0,
   ownLength: 2.766233,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2025-05-02",

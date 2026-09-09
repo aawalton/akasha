@@ -9,7 +9,7 @@ export const greenDayNimrod = {
   position: 0,
   ownLength: 49.107683,
   ownProgress: 49.107683,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1997-10-14",

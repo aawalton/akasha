@@ -9,7 +9,7 @@ export const jadaFacerLandslide = {
   position: 0,
   ownLength: 2.813333,
   ownProgress: 2.813333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-04-20",
   externalId: "1s3BGHbUzlPmN99u1dMWDt",

@@ -9,7 +9,7 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachine = {
   position: 0,
   ownLength: 47.74725,
   ownProgress: 47.74725,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalId: "4N2zZysR0BWTLT4uU21PmV",

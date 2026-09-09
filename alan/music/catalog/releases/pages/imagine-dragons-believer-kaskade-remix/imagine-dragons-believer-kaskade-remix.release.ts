@@ -9,7 +9,7 @@ export const imagineDragonsBelieverKaskadeRemix = {
   position: 0,
   ownLength: 3.18155,
   ownProgress: 3.18155,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-06-09",
   externalId: "2wVV49qXJai8kmCb1Czp0p",

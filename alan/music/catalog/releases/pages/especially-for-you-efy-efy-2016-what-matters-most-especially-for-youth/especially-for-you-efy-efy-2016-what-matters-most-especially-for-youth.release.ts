@@ -9,7 +9,7 @@ export const especiallyForYouEfyEfy2016WhatMattersMostEspeciallyForYouth = {
   position: 2016,
   ownLength: 43.093033,
   ownProgress: 43.093033,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-06-01",
   externalId: "5RNRRDbnfEqxtcwYiug7cO",

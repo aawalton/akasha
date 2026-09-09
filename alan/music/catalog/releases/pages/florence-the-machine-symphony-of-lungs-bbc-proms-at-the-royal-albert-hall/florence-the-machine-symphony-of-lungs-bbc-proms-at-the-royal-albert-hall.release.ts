@@ -9,7 +9,7 @@ export const florenceTheMachineSymphonyOfLungsBbcPromsAtTheRoyalAlbertHall = {
   position: 0,
   ownLength: 83.071633,
   ownProgress: 83.071633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-10-25",
   externalId: "6qaCznAyIPlFLBbbh2vHub",

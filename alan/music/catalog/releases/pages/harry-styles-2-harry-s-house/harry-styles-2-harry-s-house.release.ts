@@ -9,7 +9,7 @@ export const harryStyles2HarrySHouse = {
   position: 0,
   ownLength: 41.9926,
   ownProgress: 41.9926,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-20",
   externalId: "5r36AJ6VOJtp00oxSkBZ5h",

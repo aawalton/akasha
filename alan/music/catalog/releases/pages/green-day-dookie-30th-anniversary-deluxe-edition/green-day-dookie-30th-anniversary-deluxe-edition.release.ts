@@ -9,7 +9,7 @@ export const greenDayDookie30thAnniversaryDeluxeEdition = {
   position: 0,
   ownLength: 201.4421,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2023-08-17",

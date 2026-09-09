@@ -9,7 +9,7 @@ export const jamesTaylor2NewMoonShine = {
   position: 0,
   ownLength: 47.769467,
   ownProgress: 47.769467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1991-08-31",
   externalId: "36DBvvp7XO5oSulZANyCIM",

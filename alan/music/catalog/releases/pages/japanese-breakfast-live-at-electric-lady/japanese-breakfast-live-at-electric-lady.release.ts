@@ -9,7 +9,7 @@ export const japaneseBreakfastLiveAtElectricLady = {
   position: 0,
   ownLength: 28.099367,
   ownProgress: 28.099367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-28",
   externalId: "6v1WdsONXHBh8sCWCQWYUJ",

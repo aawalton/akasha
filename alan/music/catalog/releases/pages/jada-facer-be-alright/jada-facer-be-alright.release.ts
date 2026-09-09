@@ -9,7 +9,7 @@ export const jadaFacerBeAlright = {
   position: 0,
   ownLength: 3.010333,
   ownProgress: 3.010333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-01",
   externalId: "3NptEYzfyVi3LqeXYl4fQH",

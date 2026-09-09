@@ -9,7 +9,7 @@ export const greenDayRevolutionRadio = {
   position: 0,
   ownLength: 44.634383,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2016-10-07",

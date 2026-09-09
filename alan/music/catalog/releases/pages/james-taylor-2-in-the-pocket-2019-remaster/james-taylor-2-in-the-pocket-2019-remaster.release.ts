@@ -9,7 +9,7 @@ export const jamesTaylor2InThePocket2019Remaster = {
   position: 0,
   ownLength: 44.945483,
   ownProgress: 44.945483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1976-06-01",
   externalId: "45fMwpxS1ZOMqNt8Rq5pxP",

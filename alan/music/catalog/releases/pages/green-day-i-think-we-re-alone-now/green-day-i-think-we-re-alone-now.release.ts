@@ -9,7 +9,7 @@ export const greenDayIThinkWeReAloneNow = {
   position: 0,
   ownLength: 2.244517,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-04-17",

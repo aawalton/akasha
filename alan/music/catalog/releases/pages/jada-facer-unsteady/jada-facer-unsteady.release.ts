@@ -9,7 +9,7 @@ export const jadaFacerUnsteady = {
   position: 0,
   ownLength: 2.93815,
   ownProgress: 2.93815,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-21",
   externalId: "6FJZibc6mweTNNnQCeFs3w",

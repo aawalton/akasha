@@ -9,7 +9,7 @@ export const greenDayTheSimpsonsTheme = {
   position: 0,
   ownLength: 1.390433,
   ownProgress: 1.390433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2007-07-23",

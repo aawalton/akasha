@@ -9,7 +9,7 @@ export const florenceTheMachineOneOfTheGreats = {
   position: 0,
   ownLength: 6.534967,
   ownProgress: 6.534967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-09-24",
   externalId: "2tJD14Pr3uNltSZJ4Iz4Yi",

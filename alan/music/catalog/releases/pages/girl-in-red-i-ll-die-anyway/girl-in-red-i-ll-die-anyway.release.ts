@@ -9,7 +9,7 @@ export const girlInRedILlDieAnyway = {
   position: 0,
   ownLength: 3.2102,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-07-17",
   externalId: "4Zt3XT3vADR97nZGrFoSOY",

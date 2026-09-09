@@ -9,7 +9,7 @@ export const imagineDragonsEnemyWithJidOpeningTitleVersionFromTheSeriesArcaneLea
   position: 0,
   ownLength: 3.102217,
   ownProgress: 3.102217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "A",
   publishedAt: "2024-11-23",

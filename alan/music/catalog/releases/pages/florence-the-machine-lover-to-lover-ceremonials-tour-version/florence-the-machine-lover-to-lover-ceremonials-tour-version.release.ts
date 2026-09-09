@@ -9,7 +9,7 @@ export const florenceTheMachineLoverToLoverCeremonialsTourVersion = {
   position: 0,
   ownLength: 3.727083,
   ownProgress: 3.727083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalId: "4FSUSStK2MbPv29LdGDnnZ",

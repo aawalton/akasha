@@ -9,7 +9,7 @@ export const jamesTaylor2Flag = {
   position: 0,
   ownLength: 42.551267,
   ownProgress: 42.551267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1979-01-01",
   externalId: "1gFeUg5zdqdHTq48VA7PVJ",

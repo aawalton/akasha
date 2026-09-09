@@ -9,7 +9,7 @@ export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYou = {
   position: 0,
   ownLength: 7.32955,
   ownProgress: 7.32955,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1976-06-01",
   externalId: "4OBiFBh2lWlZfnMPKBl1zR",

@@ -9,7 +9,7 @@ export const jadaFacerLetMeDownSlowly = {
   position: 0,
   ownLength: 2.796367,
   ownProgress: 2.796367,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-03-10",
   externalId: "1j72S9CKX6O5Nlo6gJVaZC",

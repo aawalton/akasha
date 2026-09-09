@@ -9,7 +9,7 @@ export const greenDayNuclearFamily = {
   position: 0,
   ownLength: 3.052433,
   ownProgress: 3.052433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2012-09-11",

@@ -9,7 +9,7 @@ export const greenDayFatherOfAll = {
   position: 0,
   ownLength: 26.282567,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-02-07",

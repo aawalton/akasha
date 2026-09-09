@@ -9,7 +9,7 @@ export const jadaFacerPhotographAcoustic = {
   position: 0,
   ownLength: 4.0736,
   ownProgress: 4.0736,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-11",
   externalId: "3yRerO2ANNikojQPFnVLI0",

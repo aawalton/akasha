@@ -9,7 +9,7 @@ export const jadaFacerCaravan = {
   position: 0,
   ownLength: 3.08235,
   ownProgress: 3.08235,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-20",
   externalId: "2CxyxiA6HrYIz3T0wdNfrb",

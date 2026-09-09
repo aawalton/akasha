@@ -9,7 +9,7 @@ export const jamesTaylor2NeverDieYoung = {
   position: 0,
   ownLength: 40.2715,
   ownProgress: 40.2715,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1988-09-16",
   externalId: "1j6fH6Wu4ROhcOYAYpjiUt",

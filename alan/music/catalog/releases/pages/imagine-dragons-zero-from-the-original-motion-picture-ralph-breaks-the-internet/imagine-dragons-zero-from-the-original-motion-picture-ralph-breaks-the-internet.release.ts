@@ -9,7 +9,7 @@ export const imagineDragonsZeroFromTheOriginalMotionPictureRalphBreaksTheInterne
   position: 0,
   ownLength: 3.515567,
   ownProgress: 3.515567,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-09-19",
   externalId: "3eiAj6uPlzdAKagriQb3Hq",

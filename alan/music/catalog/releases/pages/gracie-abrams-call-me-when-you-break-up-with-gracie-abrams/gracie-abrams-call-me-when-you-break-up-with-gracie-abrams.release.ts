@@ -9,7 +9,7 @@ export const gracieAbramsCallMeWhenYouBreakUpWithGracieAbrams = {
   position: 0,
   ownLength: 2.11385,
   ownProgress: 2.11385,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-02-20",
   externalId: "4hnX5vXj6JoAhZ2lUrxwn3",

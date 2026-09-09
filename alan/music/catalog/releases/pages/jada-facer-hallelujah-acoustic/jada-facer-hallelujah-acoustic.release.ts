@@ -9,7 +9,7 @@ export const jadaFacerHallelujahAcoustic = {
   position: 0,
   ownLength: 2.897267,
   ownProgress: 2.897267,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-11-28",
   externalId: "620sEzmHRuOfXiY2HhRZyN",

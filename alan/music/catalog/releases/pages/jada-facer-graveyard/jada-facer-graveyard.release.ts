@@ -9,7 +9,7 @@ export const jadaFacerGraveyard = {
   position: 0,
   ownLength: 2.76035,
   ownProgress: 2.76035,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-10-18",
   externalId: "4k1RZZYFzalAf1ayAepAgf",

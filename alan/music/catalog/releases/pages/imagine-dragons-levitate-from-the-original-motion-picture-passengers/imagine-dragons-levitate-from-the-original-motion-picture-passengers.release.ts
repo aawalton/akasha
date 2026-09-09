@@ -9,7 +9,7 @@ export const imagineDragonsLevitateFromTheOriginalMotionPicturePassengers = {
   position: 0,
   ownLength: 3.302883,
   ownProgress: 3.302883,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-11-29",
   externalId: "77C7N5engnxpD5Fw0Ctlq3",

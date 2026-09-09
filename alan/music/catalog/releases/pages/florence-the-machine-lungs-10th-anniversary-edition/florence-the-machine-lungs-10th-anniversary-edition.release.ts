@@ -9,7 +9,7 @@ export const florenceTheMachineLungs10thAnniversaryEdition = {
   position: 0,
   ownLength: 79.2272,
   ownProgress: 79.2272,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2009-07-03",
   externalId: "58nHLzYWPr0YhsECvy7Ihw",

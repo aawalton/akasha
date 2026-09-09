@@ -9,7 +9,7 @@ export const imagineDragonsIBetMyLifeRemixes = {
   position: 0,
   ownLength: 16.067767,
   ownProgress: 16.067767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-01-26",
   externalId: "6VTwHlsilffsneBm3LbZef",

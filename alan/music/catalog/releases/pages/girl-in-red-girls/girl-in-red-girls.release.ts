@@ -9,7 +9,7 @@ export const girlInRedGirls = {
   position: 0,
   ownLength: 3.306667,
   ownProgress: 3.306667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2018-06-08",

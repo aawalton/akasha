@@ -9,7 +9,7 @@ export const jadaFacerSidelines = {
   position: 0,
   ownLength: 3.135317,
   ownProgress: 3.135317,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-09-14",
   externalId: "6SKzkXoi2Fb5knXtmLB0gM",

@@ -9,7 +9,7 @@ export const jadaFacerAmericanIdiot = {
   position: 0,
   ownLength: 2.167783,
   ownProgress: 2.167783,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-01-17",
   externalId: "01q9RGIBLRHLrl4T0tiuqD",

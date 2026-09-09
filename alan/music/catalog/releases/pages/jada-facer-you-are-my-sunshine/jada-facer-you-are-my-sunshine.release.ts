@@ -9,7 +9,7 @@ export const jadaFacerYouAreMySunshine = {
   position: 0,
   ownLength: 2.5465,
   ownProgress: 2.5465,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2020-05-14",
   externalId: "7A6AKJTfbg483XiYZZWsfL",

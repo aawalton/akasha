@@ -9,7 +9,7 @@ export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadors = {
   position: 0,
   ownLength: 4.058167,
   ownProgress: 4.058167,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-06-24",
   externalId: "704GHNtZhEe9TBgleCNNGv",

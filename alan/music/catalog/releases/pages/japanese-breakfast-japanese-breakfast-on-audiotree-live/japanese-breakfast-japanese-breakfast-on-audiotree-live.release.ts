@@ -9,7 +9,7 @@ export const japaneseBreakfastJapaneseBreakfastOnAudiotreeLive = {
   position: 0,
   ownLength: 19.341133,
   ownProgress: 19.341133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-16",
   externalId: "04Gdmj42ybAsx9AJ2Bbk56",

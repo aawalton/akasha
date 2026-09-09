@@ -9,7 +9,7 @@ export const girlInRedWatchYouSleep = {
   position: 0,
   ownLength: 3.00375,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-01-23",
   externalId: "788Q6tUcihFxDsOGGeyuFE",

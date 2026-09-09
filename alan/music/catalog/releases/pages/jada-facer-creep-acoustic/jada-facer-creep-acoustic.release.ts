@@ -9,7 +9,7 @@ export const jadaFacerCreepAcoustic = {
   position: 0,
   ownLength: 3.48645,
   ownProgress: 3.48645,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-10-19",
   externalId: "66fGOFux91Nimas67e7MK0",

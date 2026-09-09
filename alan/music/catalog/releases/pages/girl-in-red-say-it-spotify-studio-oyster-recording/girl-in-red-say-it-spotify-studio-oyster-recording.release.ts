@@ -9,7 +9,7 @@ export const girlInRedSayItSpotifyStudioOysterRecording = {
   position: 0,
   ownLength: 2.88625,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-05-15",
   externalId: "16BMvFgwCXraSyFnGONJIc",

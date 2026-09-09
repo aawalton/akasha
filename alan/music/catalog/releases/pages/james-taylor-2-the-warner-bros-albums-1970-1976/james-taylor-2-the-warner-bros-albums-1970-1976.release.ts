@@ -9,7 +9,7 @@ export const jamesTaylor2TheWarnerBrosAlbums19701976 = {
   position: 0,
   ownLength: 225.062183,
   ownProgress: 225.062183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-07-19",
   externalId: "3IqdPUFXuL3v0UGlAGUKSV",

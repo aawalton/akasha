@@ -9,7 +9,7 @@ export const jadaFacerPsychoAcoustic = {
   position: 0,
   ownLength: 2.615533,
   ownProgress: 2.615533,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-04-11",
   externalId: "3qshnXS0qjMbHs1B4ogCTd",

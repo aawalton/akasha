@@ -9,7 +9,7 @@ export const florenceTheMachineBetweenTwoLungs = {
   position: 0,
   ownLength: 95.48615,
   ownProgress: 95.48615,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-01",
   externalId: "1iA9sq6Ldnw1HP1YXpa8jh",

@@ -9,7 +9,7 @@ export const florenceTheMachineSayMyNameRemix = {
   position: 0,
   ownLength: 2.8,
   ownProgress: 2.8,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-06",
   externalId: "5zs9KJ2YsEjRzafvTdYTsk",

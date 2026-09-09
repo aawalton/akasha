@@ -9,7 +9,7 @@ export const florenceTheMachineMermaids = {
   position: 0,
   ownLength: 4.58865,
   ownProgress: 4.58865,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-04-21",
   externalId: "28DpATUm863aldgGwPIkQt",

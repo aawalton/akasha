@@ -9,7 +9,7 @@ export const greenDayKidsInAmerica = {
   position: 0,
   ownLength: 3.14595,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-09-18",

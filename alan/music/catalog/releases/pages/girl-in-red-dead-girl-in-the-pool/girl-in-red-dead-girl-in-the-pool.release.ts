@@ -9,7 +9,7 @@ export const girlInRedDeadGirlInThePool = {
   position: 0,
   ownLength: 3.1107,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-05-08",
   externalId: "7vWkk6Bzs6hwPGwPY3cgTo",

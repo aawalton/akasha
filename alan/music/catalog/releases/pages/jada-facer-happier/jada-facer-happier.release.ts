@@ -9,7 +9,7 @@ export const jadaFacerHappier = {
   position: 0,
   ownLength: 2.881617,
   ownProgress: 2.881617,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-11-07",
   externalId: "402QyvwBjb0uNy56hA1R9V",

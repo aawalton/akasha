@@ -9,7 +9,7 @@ export const greenDayAmericanIdiot20thAnniversaryOnHoliday = {
   position: 0,
   ownLength: 17.219733,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2024-08-09",

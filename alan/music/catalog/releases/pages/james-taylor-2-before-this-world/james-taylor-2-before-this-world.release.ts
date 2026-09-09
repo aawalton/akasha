@@ -9,7 +9,7 @@ export const jamesTaylor2BeforeThisWorld = {
   position: 0,
   ownLength: 41.83505,
   ownProgress: 41.83505,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-06-15",
   externalId: "2pmZbxvc1ysu9pddrpAZe9",

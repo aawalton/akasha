@@ -9,7 +9,7 @@ export const jadaFacerVivaLaVida = {
   position: 0,
   ownLength: 3.998067,
   ownProgress: 3.998067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-20",
   externalId: "2ss3fRbqHRDgqQY5zVkC1z",

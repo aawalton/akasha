@@ -9,7 +9,7 @@ export const jadaFacerSummerOf69Acoustic = {
   position: 0,
   ownLength: 3.163017,
   ownProgress: 3.163017,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-05",
   externalId: "4u5XiSuPB9xLmmwiGGKhVA",

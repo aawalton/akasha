@@ -9,7 +9,7 @@ export const florenceTheMachineHeavenIsHereIdlesRemix = {
   position: 0,
   ownLength: 4.135117,
   ownProgress: 4.135117,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-10-21",
   externalId: "2Gcppu1zVf0W5KvcjJxVQB",

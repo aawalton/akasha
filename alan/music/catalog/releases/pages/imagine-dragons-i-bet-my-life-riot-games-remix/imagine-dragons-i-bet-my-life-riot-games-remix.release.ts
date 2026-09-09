@@ -9,7 +9,7 @@ export const imagineDragonsIBetMyLifeRiotGamesRemix = {
   position: 0,
   ownLength: 3.5131,
   ownProgress: 3.5131,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2014-09-18",
   externalId: "0ebCNFubPQlnPLuHvbwgTE",

@@ -9,7 +9,7 @@ export const imagineDragonsShotsTheFunkHuntersRemix = {
   position: 0,
   ownLength: 4.76555,
   ownProgress: 4.76555,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-08-07",
   externalId: "3gFrDk1Gewhg25dR7XAWSl",

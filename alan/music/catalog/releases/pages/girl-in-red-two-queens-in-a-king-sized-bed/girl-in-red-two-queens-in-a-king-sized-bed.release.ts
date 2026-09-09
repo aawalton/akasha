@@ -9,7 +9,7 @@ export const girlInRedTwoQueensInAKingSizedBed = {
   position: 0,
   ownLength: 3.1824,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2020-11-18",
   externalId: "6CHnC6lp4ZR9F8iKECQOII",

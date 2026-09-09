@@ -9,7 +9,7 @@ export const greenDayTheSaintsAreComingLive = {
   position: 0,
   ownLength: 3.45755,
   ownProgress: 3.45755,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2006-01-01",

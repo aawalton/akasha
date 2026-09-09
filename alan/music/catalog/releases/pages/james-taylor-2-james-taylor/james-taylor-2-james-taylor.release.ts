@@ -9,7 +9,7 @@ export const jamesTaylor2JamesTaylor = {
   position: 0,
   ownLength: 51.11595,
   ownProgress: 51.11595,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1968-01-01",
   externalId: "67zzo0nNsK1dR94u5lhH3C",

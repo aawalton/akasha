@@ -9,7 +9,7 @@ export const girlInRedINeedToBeAlone = {
   position: 0,
   ownLength: 2.941667,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-03-13",
   externalId: "3UN8IYnBeUlkCjdb7B34EY",

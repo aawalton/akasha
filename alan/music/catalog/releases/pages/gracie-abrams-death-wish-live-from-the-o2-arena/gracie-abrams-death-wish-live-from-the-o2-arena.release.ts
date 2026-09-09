@@ -9,7 +9,7 @@ export const gracieAbramsDeathWishLiveFromTheO2Arena = {
   position: 0,
   ownLength: 3.789183,
   ownProgress: 3.789183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-04-01",
   externalId: "44uIJOur5ep2lIaNmbAHfO",

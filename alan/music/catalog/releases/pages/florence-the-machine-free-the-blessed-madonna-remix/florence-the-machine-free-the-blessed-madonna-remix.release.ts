@@ -9,7 +9,7 @@ export const florenceTheMachineFreeTheBlessedMadonnaRemix = {
   position: 0,
   ownLength: 4.3962,
   ownProgress: 4.3962,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-05-27",
   externalId: "1A3PKoQipHwu0zBDaOrTjs",

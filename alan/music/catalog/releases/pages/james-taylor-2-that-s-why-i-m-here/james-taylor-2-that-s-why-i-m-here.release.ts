@@ -9,7 +9,7 @@ export const jamesTaylor2ThatSWhyIMHere = {
   position: 0,
   ownLength: 39.439717,
   ownProgress: 39.439717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1985-01-01",
   externalId: "24C7QcqwW2DvYgGiQeNTr6",

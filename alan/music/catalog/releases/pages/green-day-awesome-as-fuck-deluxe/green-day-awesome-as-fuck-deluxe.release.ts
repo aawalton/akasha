@@ -9,7 +9,7 @@ export const greenDayAwesomeAsFuckDeluxe = {
   position: 0,
   ownLength: 72.460083,
   ownProgress: 72.460083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2011-03-21",

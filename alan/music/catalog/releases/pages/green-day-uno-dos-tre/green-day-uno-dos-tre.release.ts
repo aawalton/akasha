@@ -9,7 +9,7 @@ export const greenDayUnoDosTre = {
   position: 0,
   ownLength: 127.9922,
   ownProgress: 127.9922,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2012-12-11",

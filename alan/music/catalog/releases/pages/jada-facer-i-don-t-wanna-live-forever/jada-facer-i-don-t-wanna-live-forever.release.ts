@@ -9,7 +9,7 @@ export const jadaFacerIDonTWannaLiveForever = {
   position: 0,
   ownLength: 2.840933,
   ownProgress: 2.840933,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-12-19",
   externalId: "05z29CKJBPWgqR73S8TnTs",

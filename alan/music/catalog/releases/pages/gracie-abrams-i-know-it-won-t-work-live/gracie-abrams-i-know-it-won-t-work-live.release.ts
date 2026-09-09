@@ -9,7 +9,7 @@ export const gracieAbramsIKnowItWonTWorkLive = {
   position: 0,
   ownLength: 3.772433,
   ownProgress: 3.772433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-02-23",
   externalId: "4iRWUVgDWkUoMPjz7YTXpy",

@@ -9,7 +9,7 @@ export const florenceTheMachineSpectrumSayMyNameEp = {
   position: 0,
   ownLength: 19.572517,
   ownProgress: 19.572517,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalId: "2cwJklonI65VsnAw9Z0bIu",

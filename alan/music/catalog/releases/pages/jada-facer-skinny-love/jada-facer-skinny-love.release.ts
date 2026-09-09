@@ -9,7 +9,7 @@ export const jadaFacerSkinnyLove = {
   position: 0,
   ownLength: 2.6399,
   ownProgress: 2.6399,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-02-21",
   externalId: "2TTVtRfUqZuQDEVZVHTrF3",

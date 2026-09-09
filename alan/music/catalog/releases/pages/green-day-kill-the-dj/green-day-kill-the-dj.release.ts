@@ -9,7 +9,7 @@ export const greenDayKillTheDj = {
   position: 0,
   ownLength: 3.714217,
   ownProgress: 3.714217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2012-08-14",

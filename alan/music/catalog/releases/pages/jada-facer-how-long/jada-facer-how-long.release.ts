@@ -9,7 +9,7 @@ export const jadaFacerHowLong = {
   position: 0,
   ownLength: 2.1089,
   ownProgress: 2.1089,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-01",
   externalId: "47bw5XNUM5M8kLfVvIEe7u",

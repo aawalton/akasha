@@ -9,7 +9,7 @@ export const girlInRedGirlfriendIsBetter = {
   position: 0,
   ownLength: 3.088883,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2024-04-24",
   externalId: "0NE7g8mQKHZ43DqGvmEFg6",

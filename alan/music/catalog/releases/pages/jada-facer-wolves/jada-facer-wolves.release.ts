@@ -9,7 +9,7 @@ export const jadaFacerWolves = {
   position: 0,
   ownLength: 2.291667,
   ownProgress: 2.291667,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-12-04",
   externalId: "1HzPI71fhVDdFcYyMkqCP6",

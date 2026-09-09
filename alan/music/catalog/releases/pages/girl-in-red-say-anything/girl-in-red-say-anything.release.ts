@@ -9,7 +9,7 @@ export const girlInRedSayAnything = {
   position: 0,
   ownLength: 2.378333,
   ownProgress: 2.378333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2018-03-03",

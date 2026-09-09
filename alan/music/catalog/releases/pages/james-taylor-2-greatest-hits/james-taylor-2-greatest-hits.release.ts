@@ -9,7 +9,7 @@ export const jamesTaylor2GreatestHits = {
   position: 0,
   ownLength: 41.45535,
   ownProgress: 41.45535,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1976-01-01",
   externalId: "2L4U4JjEADYaVltkvDrkCC",

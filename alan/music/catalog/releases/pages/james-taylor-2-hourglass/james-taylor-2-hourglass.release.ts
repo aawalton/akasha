@@ -9,7 +9,7 @@ export const jamesTaylor2Hourglass = {
   position: 0,
   ownLength: 53.701483,
   ownProgress: 53.701483,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "1997-05-20",
   externalId: "3E7Sj3kKbxY1Tsp7U0SKQi",

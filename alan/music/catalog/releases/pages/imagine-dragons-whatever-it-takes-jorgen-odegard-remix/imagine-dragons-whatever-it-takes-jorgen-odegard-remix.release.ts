@@ -9,7 +9,7 @@ export const imagineDragonsWhateverItTakesJorgenOdegardRemix = {
   position: 0,
   ownLength: 3.881467,
   ownProgress: 3.881467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2017-11-10",
   externalId: "0m0eZs2dMG94vnMAJmcRSe",

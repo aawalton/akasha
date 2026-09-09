@@ -9,7 +9,7 @@ export const greenDayKnowYourEnemy = {
   position: 0,
   ownLength: 8.11575,
   ownProgress: 8.11575,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2009-05-01",

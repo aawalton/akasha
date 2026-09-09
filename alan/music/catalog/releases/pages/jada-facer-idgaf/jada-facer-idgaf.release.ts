@@ -9,7 +9,7 @@ export const jadaFacerIdgaf = {
   position: 0,
   ownLength: 2.443283,
   ownProgress: 2.443283,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-02-07",
   externalId: "4oSOAf4SkMvvHPi77ZB6JQ",

@@ -9,7 +9,7 @@ export const florenceTheMachineEverybodyScream2 = {
   position: 0,
   ownLength: 4.075,
   ownProgress: 4.075,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-20",
   externalId: "5u1NqZCwMNykkWMrCaR4bu",

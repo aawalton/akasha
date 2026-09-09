@@ -9,7 +9,7 @@ export const greenDayGreatestHitsGodSFavoriteBand = {
   position: 0,
   ownLength: 75.727117,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2017-11-17",

@@ -9,7 +9,7 @@ export const izzyEscobarTheseEyes = {
   position: 0,
   ownLength: 2.754017,
   ownProgress: 2.754017,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2025-03-07",

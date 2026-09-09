@@ -9,7 +9,7 @@ export const gracieAbramsMeanIt = {
   position: 0,
   ownLength: 2.8523,
   ownProgress: 2.8523,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "B",
   publishedAt: "2019-10-24",

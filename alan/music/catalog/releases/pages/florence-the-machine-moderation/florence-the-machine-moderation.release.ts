@@ -9,7 +9,7 @@ export const florenceTheMachineModeration = {
   position: 0,
   ownLength: 5.040133,
   ownProgress: 5.040133,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-24",
   externalId: "7kytZHAdRdVINFw8W1TB50",

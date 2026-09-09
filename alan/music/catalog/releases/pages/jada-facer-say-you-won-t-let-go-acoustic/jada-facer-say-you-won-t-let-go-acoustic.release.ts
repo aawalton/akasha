@@ -9,7 +9,7 @@ export const jadaFacerSayYouWonTLetGoAcoustic = {
   position: 0,
   ownLength: 3.513917,
   ownProgress: 3.513917,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-10-08",
   externalId: "5QRLJmxvM9pgo9emH9OESX",

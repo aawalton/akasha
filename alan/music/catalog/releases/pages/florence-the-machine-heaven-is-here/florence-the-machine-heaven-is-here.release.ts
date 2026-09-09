@@ -9,7 +9,7 @@ export const florenceTheMachineHeavenIsHere = {
   position: 0,
   ownLength: 1.854717,
   ownProgress: 1.854717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-07",
   externalId: "0hXSbYZ7JjhagNJ5kKiELq",

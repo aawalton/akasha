@@ -9,7 +9,7 @@ export const jadaFacerHurtlessAcoustic = {
   position: 0,
   ownLength: 2.880833,
   ownProgress: 2.880833,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-01",
   externalId: "5s20BMWStxZhx1sMiDhcqb",

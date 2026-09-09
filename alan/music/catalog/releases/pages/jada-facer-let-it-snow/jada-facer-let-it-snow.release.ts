@@ -9,7 +9,7 @@ export const jadaFacerLetItSnow = {
   position: 0,
   ownLength: 8.304717,
   ownProgress: 8.304717,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-11-28",
   externalId: "0NJy2eqYNXmUmgklF02S6X",

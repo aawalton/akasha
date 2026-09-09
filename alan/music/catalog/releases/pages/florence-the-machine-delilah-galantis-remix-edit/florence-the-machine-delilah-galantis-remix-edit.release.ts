@@ -9,7 +9,7 @@ export const florenceTheMachineDelilahGalantisRemixEdit = {
   position: 0,
   ownLength: 3.707633,
   ownProgress: 3.707633,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-11-27",
   externalId: "1HBQW3rq19r87s2x4OhLGH",

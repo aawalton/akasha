@@ -9,7 +9,7 @@ export const imagineDragonsTakeMeToTheBeachFeatAdo = {
   position: 0,
   ownLength: 2.784433,
   ownProgress: 2.784433,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-12-16",
   externalId: "42qtC6akiL6crX1i4Sf4yJ",

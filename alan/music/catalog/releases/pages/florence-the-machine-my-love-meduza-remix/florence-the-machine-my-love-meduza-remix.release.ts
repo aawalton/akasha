@@ -9,7 +9,7 @@ export const florenceTheMachineMyLoveMeduzaRemix = {
   position: 0,
   ownLength: 3.52,
   ownProgress: 3.52,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-04-14",
   externalId: "7MMKSqLZsScjyX29FNqDou",

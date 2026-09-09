@@ -9,7 +9,7 @@ export const imagineDragonsBelieverFeatLilWayne = {
   position: 0,
   ownLength: 3.66175,
   ownProgress: 3.66175,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2019-01-07",
   externalId: "6Q0aPCxLqK5EDSJdlPkNeT",

@@ -9,7 +9,7 @@ export const imagineDragonsBornToBeYours = {
   position: 0,
   ownLength: 3.222,
   ownProgress: 3.222,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-15",
   externalId: "3Nlbg1BHLXDKqQVQ9ErCmg",

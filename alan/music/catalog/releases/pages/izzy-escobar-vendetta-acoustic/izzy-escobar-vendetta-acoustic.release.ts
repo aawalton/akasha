@@ -9,7 +9,7 @@ export const izzyEscobarVendettaAcoustic = {
   position: 0,
   ownLength: 6.744333,
   ownProgress: 6.744333,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-21",
   externalId: "665owzwJ2O1SxxVRGgaeA7",

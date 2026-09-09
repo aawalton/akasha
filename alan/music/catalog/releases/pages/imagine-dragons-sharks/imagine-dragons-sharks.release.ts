@@ -9,7 +9,7 @@ export const imagineDragonsSharks = {
   position: 0,
   ownLength: 3.181383,
   ownProgress: 3.181383,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-06-24",
   externalId: "587Ykd8NOCdzRmaW4nlT4e",

@@ -9,7 +9,7 @@ export const greenDayKerplunk = {
   position: 0,
   ownLength: 42.10345,
   ownProgress: 42.10345,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "1992-01-17",

@@ -9,7 +9,7 @@ export const girlInRedSummerDepression = {
   position: 0,
   ownLength: 2.528217,
   ownProgress: 2.528217,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2018-03-03",

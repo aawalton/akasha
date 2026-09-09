@@ -9,7 +9,7 @@ export const jadaFacerILlBeHomeForChristmasAcoustic = {
   position: 0,
   ownLength: 2.284417,
   ownProgress: 2.284417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-11-25",
   externalId: "74FOFKXt9gpibb3nI0eAqt",

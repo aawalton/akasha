@@ -9,7 +9,7 @@ export const imagineDragonsBones = {
   position: 0,
   ownLength: 2.7544,
   ownProgress: 2.7544,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-03-11",
   externalId: "1Q9SnHWPNEjVM0LrBFvJ1q",

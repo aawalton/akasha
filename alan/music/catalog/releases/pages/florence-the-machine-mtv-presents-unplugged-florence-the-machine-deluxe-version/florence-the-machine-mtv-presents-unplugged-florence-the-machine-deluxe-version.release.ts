@@ -9,7 +9,7 @@ export const florenceTheMachineMtvPresentsUnpluggedFlorenceTheMachineDeluxeVersi
   position: 0,
   ownLength: 61.525233,
   ownProgress: 61.525233,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2012-01-01",
   externalId: "0wKJlJVLq79jSWHTnsVVq6",

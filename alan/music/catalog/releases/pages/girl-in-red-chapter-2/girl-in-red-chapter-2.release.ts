@@ -9,7 +9,7 @@ export const girlInRedChapter2 = {
   position: 0,
   ownLength: 15.92695,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   publishedAt: "2019-09-06",
   externalId: "2PjloAS981jof5y1KEhOPb",

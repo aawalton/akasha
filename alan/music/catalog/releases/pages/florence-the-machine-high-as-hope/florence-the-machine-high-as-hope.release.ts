@@ -9,7 +9,7 @@ export const florenceTheMachineHighAsHope = {
   position: 0,
   ownLength: 40.039083,
   ownProgress: 40.039083,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2018-06-29",
   externalId: "0pKZJj9GzcKPCS8r4IaksA",

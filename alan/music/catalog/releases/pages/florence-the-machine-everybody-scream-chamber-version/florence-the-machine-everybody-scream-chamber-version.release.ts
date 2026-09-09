@@ -9,7 +9,7 @@ export const florenceTheMachineEverybodyScreamChamberVersion = {
   position: 0,
   ownLength: 64.226867,
   ownProgress: 64.226867,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-11-03",
   externalId: "1OlrQBbVBbFHZX1YcLC5aZ",

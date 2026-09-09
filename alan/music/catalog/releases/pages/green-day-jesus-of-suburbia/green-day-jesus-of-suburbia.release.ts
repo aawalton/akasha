@@ -9,7 +9,7 @@ export const greenDayJesusOfSuburbia = {
   position: 0,
   ownLength: 12.2471,
   ownProgress: 12.2471,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2005-01-01",

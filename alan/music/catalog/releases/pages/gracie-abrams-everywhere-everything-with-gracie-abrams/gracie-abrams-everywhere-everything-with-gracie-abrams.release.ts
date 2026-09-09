@@ -9,7 +9,7 @@ export const gracieAbramsEverywhereEverythingWithGracieAbrams = {
   position: 0,
   ownLength: 4.294467,
   ownProgress: 4.294467,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2023-12-01",
   externalId: "0kOisOp4b7xNUNs7aSMSno",

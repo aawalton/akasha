@@ -9,7 +9,7 @@ export const greenDayHereComesTheShock = {
   position: 0,
   ownLength: 2.567817,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2021-02-21",

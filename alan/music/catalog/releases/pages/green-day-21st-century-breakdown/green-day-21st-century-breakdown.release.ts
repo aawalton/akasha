@@ -9,7 +9,7 @@ export const greenDay21stCenturyBreakdown = {
   position: 0,
   ownLength: 69.239417,
   ownProgress: 69.239417,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   rank: "C",
   publishedAt: "2009-05-15",

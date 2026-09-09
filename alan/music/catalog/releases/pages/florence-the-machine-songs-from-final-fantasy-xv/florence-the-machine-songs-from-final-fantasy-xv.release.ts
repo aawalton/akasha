@@ -9,7 +9,7 @@ export const florenceTheMachineSongsFromFinalFantasyXv = {
   position: 0,
   ownLength: 15.317967,
   ownProgress: 15.317967,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2016-08-12",
   externalId: "3G5GOLjvWUBRIrRp3GKnXO",

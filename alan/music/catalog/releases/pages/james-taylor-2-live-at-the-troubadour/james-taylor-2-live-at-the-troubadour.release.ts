@@ -9,7 +9,7 @@ export const jamesTaylor2LiveAtTheTroubadour = {
   position: 0,
   ownLength: 63.88125,
   ownProgress: 63.88125,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2010-01-01",
   externalId: "0sCulNLnuzZW4TGugGi6Gv",

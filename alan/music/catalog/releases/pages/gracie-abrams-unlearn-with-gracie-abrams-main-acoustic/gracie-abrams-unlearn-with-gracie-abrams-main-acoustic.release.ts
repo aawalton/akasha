@@ -9,7 +9,7 @@ export const gracieAbramsUnlearnWithGracieAbramsMainAcoustic = {
   position: 0,
   ownLength: 5.214067,
   ownProgress: 5.214067,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-03-24",
   externalId: "4SK0QpYnhcowDzvRSePk05",

@@ -9,7 +9,7 @@ export const jadaFacerRadioactiveAcoustic = {
   position: 0,
   ownLength: 2.80435,
   ownProgress: 2.80435,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2022-01-25",
   externalId: "1Vz25HwCZ0Kx4ns3y3w3QP",

@@ -9,7 +9,7 @@ export const greenDayAmericanIdiot20thAnniversaryDeluxeEdition = {
   position: 0,
   ownLength: 252.713467,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2024-10-25",

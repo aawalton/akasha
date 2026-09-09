@@ -9,7 +9,7 @@ export const greenDayBbcSessionsLive = {
   position: 0,
   ownLength: 48.564067,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2021-12-10",

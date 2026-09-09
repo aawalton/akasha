@@ -9,7 +9,7 @@ export const jamesTaylor2AngelsOfFenway = {
   position: 0,
   ownLength: 3.289767,
   ownProgress: 3.289767,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2015-05-04",
   externalId: "6CObzvPjKQ3XIgEmp8mPrQ",

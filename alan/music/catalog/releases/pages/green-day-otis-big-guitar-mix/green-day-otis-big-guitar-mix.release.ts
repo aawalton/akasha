@@ -9,7 +9,7 @@ export const greenDayOtisBigGuitarMix = {
   position: 0,
   ownLength: 12.899167,
   ownProgress: 0,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "not-started",
   rank: "C",
   publishedAt: "2020-04-03",

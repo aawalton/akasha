@@ -9,7 +9,7 @@ export const imagineDragonsStarsWillAlign = {
   position: 0,
   ownLength: 3.9061,
   ownProgress: 3.9061,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2024-09-27",
   externalId: "5q923PscX4aJaonXBWTDcj",

@@ -9,7 +9,7 @@ export const jadaFacerMistletoe = {
   position: 0,
   ownLength: 2.614183,
   ownProgress: 2.614183,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2021-12-24",
   externalId: "4h5WDm9BzWBsW7NITuqXqL",

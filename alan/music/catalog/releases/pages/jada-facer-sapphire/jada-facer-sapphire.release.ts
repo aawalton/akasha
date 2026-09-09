@@ -9,7 +9,7 @@ export const jadaFacerSapphire = {
   position: 0,
   ownLength: 2.73275,
   ownProgress: 2.73275,
-  unitSlug: "minutes",
+  unit: "minutes",
   status: "completed",
   publishedAt: "2025-08-22",
   externalId: "7vswlMKsrPbYGpT3rtsPmi",
