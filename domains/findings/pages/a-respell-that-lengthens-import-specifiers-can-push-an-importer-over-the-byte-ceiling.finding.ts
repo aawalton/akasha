@@ -3,6 +3,7 @@ import type { Finding } from "../finding.page-type.types.ts"
 export const aRespellThatLengthensImportSpecifiersCanPushAnImporterOverTheByteCeiling = {
   id: "01a08827-9337-767b-b181-e41b75cd0aeb",
   pageTypeSlug: "finding",
+  type: "finding",
   slug: "a-respell-that-lengthens-import-specifiers-can-push-an-importer-over-the-byte-ceiling",
   domain: "workspace-package/change",
   claim:
