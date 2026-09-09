@@ -3,6 +3,7 @@ import type { TemperScribingSource } from "../../temper-scribing-source.page-typ
 export const dlcWorldBossDailies = {
   id: "019e12b0-85e7-70ea-a0d8-773c407acbbf",
   pageTypeSlug: "temper-scribing-source",
+  type: "temper-scribing-source",
   slug: "dlc-world-boss-dailies",
   title: "DLC World Boss Dailies",
   displayOrder: 2,

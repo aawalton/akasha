@@ -3,6 +3,7 @@ import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.
 export const weakening = {
   id: "019e5c0d-dcfb-74c1-8cd6-816b879f6357",
   pageTypeSlug: "temper-weapon-enchant",
+  type: "temper-weapon-enchant",
   slug: "weakening",
   title: "Weakening",
   key: "weakening",

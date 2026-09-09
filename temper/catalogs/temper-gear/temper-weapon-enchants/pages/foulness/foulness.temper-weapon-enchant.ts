@@ -3,6 +3,7 @@ import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.
 export const foulness = {
   id: "019e5c0d-dcfd-78d4-9209-d0659cdd162f",
   pageTypeSlug: "temper-weapon-enchant",
+  type: "temper-weapon-enchant",
   slug: "foulness",
   title: "Foulness",
   key: "foulness",

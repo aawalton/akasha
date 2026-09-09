@@ -3,6 +3,7 @@ import type { TemperSignatureScript } from "../temper-signature-script.page-type
 export const huntersSnare = {
   id: "019e46b5-7e17-787b-94be-90ec9a26117e",
   pageTypeSlug: "temper-signature-script",
+  type: "temper-signature-script",
   slug: "hunters-snare",
   title: "Hunter's Snare",
   key: "hunters-snare",

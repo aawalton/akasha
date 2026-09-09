@@ -3,6 +3,7 @@ import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.ts"
 export const currency = {
   id: "01a05fc5-742f-7eb0-99ba-8009bd41be0d",
   pageTypeSlug: "temper-catalog-domain",
+  type: "temper-catalog-domain",
   slug: "currency",
   title: "Currency",
   icon: "file-text",

@@ -3,6 +3,7 @@ import type { TemperReagent } from "../temper-reagent.page-type.ts"
 export const butterflyWing = {
   id: "019e21f7-3b0a-7b4e-ba3b-53ccd2d693f6",
   pageTypeSlug: "temper-reagent",
+  type: "temper-reagent",
   slug: "butterfly-wing",
   title: "Butterfly Wing",
   key: "butterfly-wing",

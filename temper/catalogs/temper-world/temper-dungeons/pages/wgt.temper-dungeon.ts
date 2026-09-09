@@ -3,6 +3,7 @@ import type { TemperDungeon } from "../temper-dungeon.page-type.ts"
 export const wgt = {
   id: "01a05fc5-742d-7524-b8d1-94ff6e6a6145",
   pageTypeSlug: "temper-dungeon",
+  type: "temper-dungeon",
   slug: "wgt",
   title: "White-Gold Tower",
   key: "WGT",

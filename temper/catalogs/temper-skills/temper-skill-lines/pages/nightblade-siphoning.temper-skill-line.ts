@@ -3,6 +3,7 @@ import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 export const nightbladeSiphoning = {
   id: "019e61dc-f1b1-7661-bca6-7f22791364a9",
   pageTypeSlug: "temper-skill-line",
+  type: "temper-skill-line",
   slug: "nightblade-siphoning",
   title: "Siphoning",
   key: "nightblade-siphoning",

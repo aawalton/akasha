@@ -3,6 +3,7 @@ import type { TemperSkillLineCategory } from "../temper-skill-line-category.page
 export const characterClass = {
   id: "01a05fce-2962-7125-8f42-408279e72b57",
   pageTypeSlug: "temper-skill-line-category",
+  type: "temper-skill-line-category",
   slug: "character-class",
   title: "Class",
   key: "class",

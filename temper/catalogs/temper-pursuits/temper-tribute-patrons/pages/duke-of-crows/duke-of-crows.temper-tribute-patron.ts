@@ -3,6 +3,7 @@ import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.
 export const dukeOfCrows = {
   id: "01a06153-0eaa-7001-8805-706f7471901d",
   pageTypeSlug: "temper-tribute-patron",
+  type: "temper-tribute-patron",
   slug: "duke-of-crows",
   title: "Duke of Crows",
   category: "patrons",

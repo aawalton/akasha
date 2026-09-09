@@ -3,6 +3,7 @@ import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.
 export const crushing = {
   id: "019e5c0d-dcf2-7ea9-8369-59125d45ba78",
   pageTypeSlug: "temper-weapon-enchant",
+  type: "temper-weapon-enchant",
   slug: "crushing",
   title: "Crushing",
   key: "crushing",

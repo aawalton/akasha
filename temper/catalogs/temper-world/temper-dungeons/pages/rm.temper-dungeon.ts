@@ -3,6 +3,7 @@ import type { TemperDungeon } from "../temper-dungeon.page-type.ts"
 export const rm = {
   id: "01a05fc5-742a-763e-9712-593b8e5f602a",
   pageTypeSlug: "temper-dungeon",
+  type: "temper-dungeon",
   slug: "rm",
   title: "Ruins of Mazzatun",
   key: "RM",

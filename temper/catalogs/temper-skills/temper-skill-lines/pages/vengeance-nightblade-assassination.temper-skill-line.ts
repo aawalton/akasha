@@ -3,6 +3,7 @@ import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 export const vengeanceNightbladeAssassination = {
   id: "019e6f53-86ae-7369-9937-5556b3cdbd1f",
   pageTypeSlug: "temper-skill-line",
+  type: "temper-skill-line",
   slug: "vengeance-nightblade-assassination",
   title: "Vengeance Assassination",
   key: "vengeance-nightblade-assassination",

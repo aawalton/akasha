@@ -3,6 +3,7 @@ import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.ts"
 export const companionEquipment = {
   id: "01a05fc5-742f-7b3d-b6d2-21b561c37559",
   pageTypeSlug: "temper-catalog-domain",
+  type: "temper-catalog-domain",
   slug: "companion-equipment",
   title: "Companion Equipment",
   icon: "file-text",

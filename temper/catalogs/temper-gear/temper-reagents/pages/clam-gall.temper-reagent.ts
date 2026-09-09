@@ -3,6 +3,7 @@ import type { TemperReagent } from "../temper-reagent.page-type.ts"
 export const clamGall = {
   id: "019e21f7-3b0e-71af-9af1-3f3e0b61a2f2",
   pageTypeSlug: "temper-reagent",
+  type: "temper-reagent",
   slug: "clam-gall",
   title: "Clam Gall",
   key: "clam-gall",

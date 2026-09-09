@@ -3,6 +3,7 @@ import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.ts"
 export const loreLibrary = {
   id: "01a05fc5-7430-7f7e-8208-2bf680e93a3d",
   pageTypeSlug: "temper-catalog-domain",
+  type: "temper-catalog-domain",
   slug: "lore-library",
   title: "Lore Library",
   icon: "file-text",

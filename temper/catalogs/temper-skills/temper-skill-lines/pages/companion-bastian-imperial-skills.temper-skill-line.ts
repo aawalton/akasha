@@ -3,6 +3,7 @@ import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 export const companionBastianImperialSkills = {
   id: "019e61dc-f1fb-7f4c-a1f2-0035f339a657",
   pageTypeSlug: "temper-skill-line",
+  type: "temper-skill-line",
   slug: "companion-bastian-imperial-skills",
   title: "Imperial Skills",
   key: "companion-bastian-imperial-skills",

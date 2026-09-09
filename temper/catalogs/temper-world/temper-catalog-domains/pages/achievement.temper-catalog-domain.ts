@@ -3,6 +3,7 @@ import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.ts"
 export const achievement = {
   id: "01a05fc5-742e-7187-a89f-e39a11d5559f",
   pageTypeSlug: "temper-catalog-domain",
+  type: "temper-catalog-domain",
   slug: "achievement",
   title: "Achievement",
   icon: "file-text",

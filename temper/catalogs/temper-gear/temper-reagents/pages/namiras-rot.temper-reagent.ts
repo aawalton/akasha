@@ -3,6 +3,7 @@ import type { TemperReagent } from "../temper-reagent.page-type.ts"
 export const namirasRot = {
   id: "019e21f7-3b20-729b-ae00-34c60476efd2",
   pageTypeSlug: "temper-reagent",
+  type: "temper-reagent",
   slug: "namiras-rot",
   title: "Namira's Rot",
   key: "namiras-rot",

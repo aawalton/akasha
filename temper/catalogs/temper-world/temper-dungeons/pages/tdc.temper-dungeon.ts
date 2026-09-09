@@ -3,6 +3,7 @@ import type { TemperDungeon } from "../temper-dungeon.page-type.ts"
 export const tdc = {
   id: "01a05fc5-742c-7d60-876a-22458e7b15f5",
   pageTypeSlug: "temper-dungeon",
+  type: "temper-dungeon",
   slug: "tdc",
   title: "The Dread Cellar",
   key: "TDC",

@@ -3,6 +3,7 @@ import type { TemperScribingSource } from "../../temper-scribing-source.page-typ
 export const fightersGuildDaily = {
   id: "019e12b0-85e2-71ad-9427-28de2cd3a2ee",
   pageTypeSlug: "temper-scribing-source",
+  type: "temper-scribing-source",
   slug: "fighters-guild-daily",
   title: "Fighters Guild Daily",
   displayOrder: 0,

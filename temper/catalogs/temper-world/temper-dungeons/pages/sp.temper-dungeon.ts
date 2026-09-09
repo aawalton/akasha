@@ -3,6 +3,7 @@ import type { TemperDungeon } from "../temper-dungeon.page-type.ts"
 export const sp = {
   id: "01a05fc5-742b-741a-be8d-217daba50379",
   pageTypeSlug: "temper-dungeon",
+  type: "temper-dungeon",
   slug: "sp",
   title: "Scalecaller Peak",
   key: "SP",

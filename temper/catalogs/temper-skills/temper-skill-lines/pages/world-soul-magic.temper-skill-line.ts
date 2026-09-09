@@ -3,6 +3,7 @@ import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 export const worldSoulMagic = {
   id: "019e61dc-f1d1-785d-be2c-8b63937594ad",
   pageTypeSlug: "temper-skill-line",
+  type: "temper-skill-line",
   slug: "world-soul-magic",
   title: "Soul Magic",
   key: "world-soul-magic",

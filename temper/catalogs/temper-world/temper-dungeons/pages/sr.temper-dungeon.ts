@@ -3,6 +3,7 @@ import type { TemperDungeon } from "../temper-dungeon.page-type.ts"
 export const sr = {
   id: "01a05fc5-742c-7900-a3fb-3e9f7a089d7e",
   pageTypeSlug: "temper-dungeon",
+  type: "temper-dungeon",
   slug: "sr",
   title: "Shipwright's Regret",
   key: "SR",

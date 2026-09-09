@@ -3,6 +3,7 @@ import type { TemperReagent } from "../temper-reagent.page-type.ts"
 export const bugloss = {
   id: "019e21f7-3b08-742e-8c13-d4033e20e18a",
   pageTypeSlug: "temper-reagent",
+  type: "temper-reagent",
   slug: "bugloss",
   title: "Bugloss",
   key: "bugloss",

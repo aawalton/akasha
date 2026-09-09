@@ -3,6 +3,7 @@ import type { TemperWeaponTrait } from "../../temper-weapon-trait.page-type.ts"
 export const nirnhoned = {
   id: "019e5b8b-e547-7d4a-8306-4568b26afcec",
   pageTypeSlug: "temper-weapon-trait",
+  type: "temper-weapon-trait",
   slug: "nirnhoned",
   title: "Nirnhoned",
   key: "nirnhoned",

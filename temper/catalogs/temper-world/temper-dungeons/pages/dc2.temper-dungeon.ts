@@ -3,6 +3,7 @@ import type { TemperDungeon } from "../temper-dungeon.page-type.ts"
 export const dc2 = {
   id: "01a05fc5-7424-74fa-b9b1-454aa9fc53bf",
   pageTypeSlug: "temper-dungeon",
+  type: "temper-dungeon",
   slug: "dc2",
   title: "Darkshade Caverns II",
   key: "DC2",

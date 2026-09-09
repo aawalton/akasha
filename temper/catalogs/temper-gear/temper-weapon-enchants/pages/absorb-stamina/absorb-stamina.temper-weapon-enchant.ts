@@ -3,6 +3,7 @@ import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.
 export const absorbStamina = {
   id: "019e5c0d-dcf0-7d4e-9a33-4ea92911078b",
   pageTypeSlug: "temper-weapon-enchant",
+  type: "temper-weapon-enchant",
   slug: "absorb-stamina",
   title: "Absorb Stamina",
   key: "absorb-stamina",

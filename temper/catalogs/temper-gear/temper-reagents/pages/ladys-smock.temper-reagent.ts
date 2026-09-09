@@ -3,6 +3,7 @@ import type { TemperReagent } from "../temper-reagent.page-type.ts"
 export const ladysSmock = {
   id: "019e21f7-3b1c-7253-87bc-fdf867a99938",
   pageTypeSlug: "temper-reagent",
+  type: "temper-reagent",
   slug: "ladys-smock",
   title: "Lady's Smock",
   key: "ladys-smock",

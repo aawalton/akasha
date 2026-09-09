@@ -3,6 +3,7 @@ import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 export const racialBretonSkills = {
   id: "019e61dc-f1d8-77ef-8feb-06d05f0c8ed1",
   pageTypeSlug: "temper-skill-line",
+  type: "temper-skill-line",
   slug: "racial-breton-skills",
   title: "Breton Skills",
   key: "racial-breton-skills",

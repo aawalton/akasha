@@ -3,6 +3,7 @@ import type { TemperReagent } from "../temper-reagent.page-type.ts"
 export const waterHyacinth = {
   id: "019e21f7-3b28-76bb-9ffb-f5bf7132e5b8",
   pageTypeSlug: "temper-reagent",
+  type: "temper-reagent",
   slug: "water-hyacinth",
   title: "Water Hyacinth",
   key: "water-hyacinth",

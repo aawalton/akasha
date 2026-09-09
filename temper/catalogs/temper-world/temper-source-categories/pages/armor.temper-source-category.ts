@@ -3,6 +3,7 @@ import type { TemperSourceCategory } from "../temper-source-category.page-type.t
 export const armor = {
   id: "019e3104-cbfe-721f-ab5e-d48ed8335f31",
   pageTypeSlug: "temper-source-category",
+  type: "temper-source-category",
   slug: "armor",
   title: "Armor",
   displayOrder: 3,

@@ -3,6 +3,7 @@ import type { TemperSourceCategory } from "../temper-source-category.page-type.t
 export const attributes = {
   id: "019e3104-cbfb-7f99-942f-64417431dcb9",
   pageTypeSlug: "temper-source-category",
+  type: "temper-source-category",
   slug: "attributes",
   title: "Attributes",
   displayOrder: 2,

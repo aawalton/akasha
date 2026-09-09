@@ -3,6 +3,7 @@ import type { TemperReagent } from "../temper-reagent.page-type.ts"
 export const blessedThistle = {
   id: "019e21f7-3b03-7823-9739-32504de7ebed",
   pageTypeSlug: "temper-reagent",
+  type: "temper-reagent",
   slug: "blessed-thistle",
   title: "Blessed Thistle",
   key: "blessed-thistle",

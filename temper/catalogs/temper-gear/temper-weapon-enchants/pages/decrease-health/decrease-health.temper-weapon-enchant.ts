@@ -3,6 +3,7 @@ import type { TemperWeaponEnchant } from "../../temper-weapon-enchant.page-type.
 export const decreaseHealth = {
   id: "019e5c0d-dcf4-78ce-bda8-5b4eda7f0a26",
   pageTypeSlug: "temper-weapon-enchant",
+  type: "temper-weapon-enchant",
   slug: "decrease-health",
   title: "Decrease Health",
   key: "decrease-health",

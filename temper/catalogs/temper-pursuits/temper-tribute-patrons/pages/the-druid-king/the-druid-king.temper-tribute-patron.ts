@@ -3,6 +3,7 @@ import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.
 export const theDruidKing = {
   id: "01a06153-0eaa-700a-9109-247000ac4a81",
   pageTypeSlug: "temper-tribute-patron",
+  type: "temper-tribute-patron",
   slug: "the-druid-king",
   title: "The Druid King",
   category: "patrons",

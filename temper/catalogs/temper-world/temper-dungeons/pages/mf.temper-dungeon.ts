@@ -3,6 +3,7 @@ import type { TemperDungeon } from "../temper-dungeon.page-type.ts"
 export const mf = {
   id: "01a05fc5-7429-737e-9309-96447ebb1db5",
   pageTypeSlug: "temper-dungeon",
+  type: "temper-dungeon",
   slug: "mf",
   title: "Moongrave Fane",
   key: "MF",

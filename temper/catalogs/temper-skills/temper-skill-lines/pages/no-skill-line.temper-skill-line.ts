@@ -3,6 +3,7 @@ import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 export const noSkillLine = {
   id: "019e61dc-f19f-759a-adff-9ead12469f07",
   pageTypeSlug: "temper-skill-line",
+  type: "temper-skill-line",
   slug: "no-skill-line",
   title: "No Skill Line",
   key: "no-skill-line",

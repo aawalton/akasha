@@ -3,6 +3,7 @@ import type { TemperSignatureScript } from "../temper-signature-script.page-type
 export const leechingThirst = {
   id: "019e46b5-7e1b-746d-809d-a5553793d1d2",
   pageTypeSlug: "temper-signature-script",
+  type: "temper-signature-script",
   slug: "leeching-thirst",
   title: "Leeching Thirst",
   key: "leeching-thirst",

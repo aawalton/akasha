@@ -3,6 +3,7 @@ import type { TemperSkillLineCategory } from "../temper-skill-line-category.page
 export const craft = {
   id: "019e2fc7-4af9-7652-973f-666d79ab52ef",
   pageTypeSlug: "temper-skill-line-category",
+  type: "temper-skill-line-category",
   slug: "craft",
   title: "Craft",
   key: "craft",

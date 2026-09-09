@@ -3,6 +3,7 @@ import type { TemperSourceCategory } from "../temper-source-category.page-type.t
 export const companionWeapons = {
   id: "019e3104-cc15-7570-a50e-9913d8c1b68d",
   pageTypeSlug: "temper-source-category",
+  type: "temper-source-category",
   slug: "companion-weapons",
   title: "Companion Weapons",
   displayOrder: 21,

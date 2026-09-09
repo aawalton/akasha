@@ -3,6 +3,7 @@ import type { TemperSignatureScript } from "../temper-signature-script.page-type
 export const gladiatorsTenacity = {
   id: "019e46b5-7e29-75a4-ad22-f407c118491c",
   pageTypeSlug: "temper-signature-script",
+  type: "temper-signature-script",
   slug: "gladiators-tenacity",
   title: "Gladiator's Tenacity",
   key: "gladiators-tenacity",

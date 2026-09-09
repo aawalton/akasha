@@ -3,6 +3,7 @@ import type { TemperScribingSource } from "../../temper-scribing-source.page-typ
 export const magesGuildDaily = {
   id: "019e12b0-85db-772f-8925-757e9bacd178",
   pageTypeSlug: "temper-scribing-source",
+  type: "temper-scribing-source",
   slug: "mages-guild-daily",
   title: "Mages Guild Daily",
   displayOrder: 0,

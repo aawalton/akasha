@@ -3,6 +3,7 @@ import type { TemperSignatureScript } from "../temper-signature-script.page-type
 export const thiefsSwiftness = {
   id: "019e46b5-7e25-7b46-8c03-9a8a85fee4c3",
   pageTypeSlug: "temper-signature-script",
+  type: "temper-signature-script",
   slug: "thiefs-swiftness",
   title: "Thief's Swiftness",
   key: "thiefs-swiftness",

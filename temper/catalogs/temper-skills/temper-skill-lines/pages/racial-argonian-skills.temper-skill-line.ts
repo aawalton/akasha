@@ -3,6 +3,7 @@ import type { TemperSkillLine } from "../temper-skill-line.page-type.ts"
 export const racialArgonianSkills = {
   id: "019e61dc-f1d7-78ff-ad35-c4e5f5426091",
   pageTypeSlug: "temper-skill-line",
+  type: "temper-skill-line",
   slug: "racial-argonian-skills",
   title: "Argonian Skills",
   key: "racial-argonian-skills",

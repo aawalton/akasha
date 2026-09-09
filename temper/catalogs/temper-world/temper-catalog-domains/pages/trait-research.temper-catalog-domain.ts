@@ -3,6 +3,7 @@ import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.ts"
 export const traitResearch = {
   id: "01a05fc5-7432-7bef-b331-19876e0f8bad",
   pageTypeSlug: "temper-catalog-domain",
+  type: "temper-catalog-domain",
   slug: "trait-research",
   title: "Trait Research",
   icon: "file-text",

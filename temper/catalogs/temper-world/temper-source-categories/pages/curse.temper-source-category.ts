@@ -3,6 +3,7 @@ import type { TemperSourceCategory } from "../temper-source-category.page-type.t
 export const curse = {
   id: "019e3104-cc11-7b97-9c92-0a57b4258713",
   pageTypeSlug: "temper-source-category",
+  type: "temper-source-category",
   slug: "curse",
   title: "Curse",
   displayOrder: 17,

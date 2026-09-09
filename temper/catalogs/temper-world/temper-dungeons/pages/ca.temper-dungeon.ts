@@ -3,6 +3,7 @@ import type { TemperDungeon } from "../temper-dungeon.page-type.ts"
 export const ca = {
   id: "01a05fc5-7423-7681-aad3-a2b02df6b6ec",
   pageTypeSlug: "temper-dungeon",
+  type: "temper-dungeon",
   slug: "ca",
   title: "Coral Aerie",
   key: "CA",

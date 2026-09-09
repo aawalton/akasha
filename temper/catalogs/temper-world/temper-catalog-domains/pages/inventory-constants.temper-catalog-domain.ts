@@ -3,6 +3,7 @@ import type { TemperCatalogDomain } from "../temper-catalog-domain.page-type.ts"
 export const inventoryConstants = {
   id: "01a05fc5-7430-762e-87e8-3acee57f3719",
   pageTypeSlug: "temper-catalog-domain",
+  type: "temper-catalog-domain",
   slug: "inventory-constants",
   title: "Inventory Constants",
   icon: "file-text",

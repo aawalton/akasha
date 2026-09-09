@@ -3,6 +3,7 @@ import type { TemperScribingSource } from "../../temper-scribing-source.page-typ
 export const cyrodiilTownDailies = {
   id: "019e12b0-85e4-77f3-aa3b-76b242b50c2f",
   pageTypeSlug: "temper-scribing-source",
+  type: "temper-scribing-source",
   slug: "cyrodiil-town-dailies",
   title: "Cyrodiil Town Dailies",
   displayOrder: 1,

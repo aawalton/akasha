@@ -3,6 +3,7 @@ import type { TemperPotionDropped } from "../../temper-potion-dropped.page-type.
 export const essenceOfStamina = {
   id: "019e21f5-bdb9-73e7-a572-5983beaac766",
   pageTypeSlug: "temper-potion-dropped",
+  type: "temper-potion-dropped",
   slug: "essence-of-stamina",
   title: "Essence of Stamina",
   key: "essence-of-stamina",

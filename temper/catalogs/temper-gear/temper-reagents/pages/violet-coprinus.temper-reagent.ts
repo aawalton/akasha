@@ -3,6 +3,7 @@ import type { TemperReagent } from "../temper-reagent.page-type.ts"
 export const violetCoprinus = {
   id: "019e21f7-3b27-798b-a4d4-e37f887f6917",
   pageTypeSlug: "temper-reagent",
+  type: "temper-reagent",
   slug: "violet-coprinus",
   title: "Violet Coprinus",
   key: "violet-coprinus",

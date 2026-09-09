@@ -3,6 +3,7 @@ import type { TemperReagent } from "../temper-reagent.page-type.ts"
 export const dragonsBlood = {
   id: "019e21f7-3b15-7981-bc74-ec954096ea0c",
   pageTypeSlug: "temper-reagent",
+  type: "temper-reagent",
   slug: "dragons-blood",
   title: "Dragon's Blood",
   key: "dragons-blood",

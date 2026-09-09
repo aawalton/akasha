@@ -3,6 +3,7 @@ import type { TemperTributePatron } from "../../temper-tribute-patron.page-type.
 export const rajhinThePurringLiar = {
   id: "01a06153-0eaa-7005-becf-7b09d996c7cc",
   pageTypeSlug: "temper-tribute-patron",
+  type: "temper-tribute-patron",
   slug: "rajhin-the-purring-liar",
   title: "Rajhin, the Purring Liar",
   category: "patrons",
