@@ -6,7 +6,7 @@ export const olwen = {
   slug: "olwen",
   personaSlug: "olwen",
   assignmentSlug: "initiative/olwen-persona-cleanup",
-  roleSlug: "definer",
+  role: "worker",
   personSlug: "alan",
   startMode: "interactive",
   onCall: true,
