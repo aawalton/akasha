@@ -8,11 +8,6 @@ export const theaChecksSystem = {
   persona: "thea",
   intents: [
     {
-      statement: "Every code file property is a code-file-property.",
-      workingMemory:
-        "A code file property is one whose file something runs, Alan's call, against the wider reading of anything written in a programming language. Clear: code, test, test-fixtures, component-code, component-test, route-code, route-test, lua, compiled-lua, lua50-code, python, rust, swift, javascript, shell, main, server, server-entry, web-entry, manifest-code. Left plain are the ones read rather than run: types, ambient-types, styles, markup, every config and manifest. 151 file property pages in all.",
-    },
-    {
       statement:
         "A code file property states the cpu, wall and memory a run of its file may spend.",
       workingMemory:
