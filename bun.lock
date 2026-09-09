@@ -1774,6 +1774,24 @@
         "@akasha/temper-items-rules-eval": "workspace:*",
       },
     },
+    "temper/items-rules-matcher": {
+      "name": "@akasha/temper-items-rules-matcher",
+      "dependencies": {
+        "@akasha/temper-alchemy": "workspace:*",
+        "@akasha/temper-build-codec": "workspace:*",
+        "@akasha/temper-build-support": "workspace:*",
+        "@akasha/temper-character-sources": "workspace:*",
+        "@akasha/temper-companion-codec": "workspace:*",
+        "@akasha/temper-formula-framework": "workspace:*",
+        "@akasha/temper-items-core": "workspace:*",
+        "@akasha/temper-items-rules-core": "workspace:*",
+        "@akasha/temper-items-rules-eval": "workspace:*",
+        "@akasha/temper-skill-lines": "workspace:*",
+        "@akasha/temper-skill-morphs-access": "workspace:*",
+        "@akasha/utils": "workspace:*",
+        "fast-check": "^4.5.3",
+      },
+    },
     "temper/items-rules-routing-core": {
       "name": "@akasha/temper-items-rules-routing-core",
       "dependencies": {
@@ -1788,8 +1806,26 @@
     "temper/lib-alchemy-station": {
       "name": "@akasha/temper-lib-alchemy-station",
     },
+    "temper/lib-chat-message": {
+      "name": "@akasha/temper-lib-chat-message",
+    },
+    "temper/lib-custom-menu": {
+      "name": "@akasha/temper-lib-custom-menu",
+    },
     "temper/lib-data-encode": {
       "name": "@akasha/temper-lib-data-encode",
+    },
+    "temper/lib-debug-logger": {
+      "name": "@akasha/temper-lib-debug-logger",
+    },
+    "temper/lib-gps": {
+      "name": "@akasha/temper-lib-gps",
+    },
+    "temper/lib-map-ping": {
+      "name": "@akasha/temper-lib-map-ping",
+    },
+    "temper/lib-map-pins": {
+      "name": "@akasha/temper-lib-map-pins",
     },
     "temper/lib-notification": {
       "name": "@akasha/temper-lib-notification",
@@ -1844,6 +1880,15 @@
         "react": "^18 || ^19",
       },
     },
+    "temper/quests-addon": {
+      "name": "@akasha/temper-quests-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-quests-trace": "workspace:*",
+        "@akasha/utils": "workspace:*",
+      },
+    },
     "temper/quests-trace": {
       "name": "@akasha/temper-quests-trace",
       "dependencies": {
@@ -1864,6 +1909,14 @@
         "@akasha/command-system": "workspace:*",
         "@akasha/utils": "workspace:*",
         "zod": "^4.3.6",
+      },
+    },
+    "temper/selector-addon": {
+      "name": "@akasha/temper-selector-addon",
+      "dependencies": {
+        "@akasha/temper-addon-init": "workspace:*",
+        "@akasha/temper-addon-library-types": "workspace:*",
+        "@akasha/temper-eso-types": "workspace:*",
       },
     },
     "temper/settings-panel": {
@@ -2352,24 +2405,6 @@
         "@akasha/temper-items-rules-core": "workspace:*",
       },
     },
-    "temper/temper-items-rules-matcher": {
-      "name": "@akasha/temper-items-rules-matcher",
-      "dependencies": {
-        "@akasha/temper-alchemy": "workspace:*",
-        "@akasha/temper-build-codec": "workspace:*",
-        "@akasha/temper-build-support": "workspace:*",
-        "@akasha/temper-character-sources": "workspace:*",
-        "@akasha/temper-companion-codec": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/temper-items-core": "workspace:*",
-        "@akasha/temper-items-rules-core": "workspace:*",
-        "@akasha/temper-items-rules-eval": "workspace:*",
-        "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/temper-skill-morphs-access": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "fast-check": "^4.5.3",
-      },
-    },
     "temper/temper-items-rules-routing": {
       "name": "@akasha/temper-items-rules-routing",
       "dependencies": {
@@ -2402,20 +2437,8 @@
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "temper/temper-lib-chat-message": {
-      "name": "@akasha/temper-lib-chat-message",
-    },
-    "temper/temper-lib-custom-menu": {
-      "name": "@akasha/temper-lib-custom-menu",
-    },
-    "temper/temper-lib-debug-logger": {
-      "name": "@akasha/temper-lib-debug-logger",
-    },
     "temper/temper-lib-extended-journal": {
       "name": "@akasha/temper-lib-extended-journal",
-    },
-    "temper/temper-lib-gps": {
-      "name": "@akasha/temper-lib-gps",
     },
     "temper/temper-lib-histoire": {
       "name": "@akasha/temper-lib-histoire",
@@ -2430,12 +2453,6 @@
     },
     "temper/temper-lib-map-data": {
       "name": "@akasha/temper-lib-map-data",
-    },
-    "temper/temper-lib-map-ping": {
-      "name": "@akasha/temper-lib-map-ping",
-    },
-    "temper/temper-lib-map-pins": {
-      "name": "@akasha/temper-lib-map-pins",
     },
     "temper/temper-lib-media-provider": {
       "name": "@akasha/temper-lib-media-provider",
@@ -2591,27 +2608,10 @@
         "react-dom": "^18 || ^19",
       },
     },
-    "temper/temper-quests-addon": {
-      "name": "@akasha/temper-quests-addon",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-quests-trace": "workspace:*",
-        "@akasha/utils": "workspace:*",
-      },
-    },
     "temper/temper-races": {
       "name": "@akasha/temper-races",
       "dependencies": {
         "@akasha/utils": "workspace:*",
-      },
-    },
-    "temper/temper-selector-addon": {
-      "name": "@akasha/temper-selector-addon",
-      "dependencies": {
-        "@akasha/temper-addon-init": "workspace:*",
-        "@akasha/temper-addon-library-types": "workspace:*",
-        "@akasha/temper-eso-types": "workspace:*",
       },
     },
     "temper/temper-shopping": {
@@ -3252,7 +3252,7 @@
 
     "@akasha/temper-items-rules-eval": ["@akasha/temper-items-rules-eval@workspace:temper/temper-items-rules-eval"],
 
-    "@akasha/temper-items-rules-matcher": ["@akasha/temper-items-rules-matcher@workspace:temper/temper-items-rules-matcher"],
+    "@akasha/temper-items-rules-matcher": ["@akasha/temper-items-rules-matcher@workspace:temper/items-rules-matcher"],
 
     "@akasha/temper-items-rules-routing": ["@akasha/temper-items-rules-routing@workspace:temper/temper-items-rules-routing"],
 
@@ -3272,17 +3272,17 @@
 
     "@akasha/temper-lib-character-knowledge": ["@akasha/temper-lib-character-knowledge@workspace:temper/temper-lib-character-knowledge"],
 
-    "@akasha/temper-lib-chat-message": ["@akasha/temper-lib-chat-message@workspace:temper/temper-lib-chat-message"],
+    "@akasha/temper-lib-chat-message": ["@akasha/temper-lib-chat-message@workspace:temper/lib-chat-message"],
 
-    "@akasha/temper-lib-custom-menu": ["@akasha/temper-lib-custom-menu@workspace:temper/temper-lib-custom-menu"],
+    "@akasha/temper-lib-custom-menu": ["@akasha/temper-lib-custom-menu@workspace:temper/lib-custom-menu"],
 
     "@akasha/temper-lib-data-encode": ["@akasha/temper-lib-data-encode@workspace:temper/lib-data-encode"],
 
-    "@akasha/temper-lib-debug-logger": ["@akasha/temper-lib-debug-logger@workspace:temper/temper-lib-debug-logger"],
+    "@akasha/temper-lib-debug-logger": ["@akasha/temper-lib-debug-logger@workspace:temper/lib-debug-logger"],
 
     "@akasha/temper-lib-extended-journal": ["@akasha/temper-lib-extended-journal@workspace:temper/temper-lib-extended-journal"],
 
-    "@akasha/temper-lib-gps": ["@akasha/temper-lib-gps@workspace:temper/temper-lib-gps"],
+    "@akasha/temper-lib-gps": ["@akasha/temper-lib-gps@workspace:temper/lib-gps"],
 
     "@akasha/temper-lib-histoire": ["@akasha/temper-lib-histoire@workspace:temper/temper-lib-histoire"],
 
@@ -3290,9 +3290,9 @@
 
     "@akasha/temper-lib-map-data": ["@akasha/temper-lib-map-data@workspace:temper/temper-lib-map-data"],
 
-    "@akasha/temper-lib-map-ping": ["@akasha/temper-lib-map-ping@workspace:temper/temper-lib-map-ping"],
+    "@akasha/temper-lib-map-ping": ["@akasha/temper-lib-map-ping@workspace:temper/lib-map-ping"],
 
-    "@akasha/temper-lib-map-pins": ["@akasha/temper-lib-map-pins@workspace:temper/temper-lib-map-pins"],
+    "@akasha/temper-lib-map-pins": ["@akasha/temper-lib-map-pins@workspace:temper/lib-map-pins"],
 
     "@akasha/temper-lib-media-provider": ["@akasha/temper-lib-media-provider@workspace:temper/temper-lib-media-provider"],
 
@@ -3340,7 +3340,7 @@
 
     "@akasha/temper-player-profile": ["@akasha/temper-player-profile@workspace:temper/player-profile"],
 
-    "@akasha/temper-quests-addon": ["@akasha/temper-quests-addon@workspace:temper/temper-quests-addon"],
+    "@akasha/temper-quests-addon": ["@akasha/temper-quests-addon@workspace:temper/quests-addon"],
 
     "@akasha/temper-quests-trace": ["@akasha/temper-quests-trace@workspace:temper/quests-trace"],
 
@@ -3350,7 +3350,7 @@
 
     "@akasha/temper-saved-vars-migration": ["@akasha/temper-saved-vars-migration@workspace:temper/saved-vars-migration"],
 
-    "@akasha/temper-selector-addon": ["@akasha/temper-selector-addon@workspace:temper/temper-selector-addon"],
+    "@akasha/temper-selector-addon": ["@akasha/temper-selector-addon@workspace:temper/selector-addon"],
 
     "@akasha/temper-settings-panel": ["@akasha/temper-settings-panel@workspace:temper/settings-panel"],
 
