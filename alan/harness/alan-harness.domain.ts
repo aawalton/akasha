@@ -30,7 +30,7 @@ export const alanHarness = {
     "workspace-package/calendar-sync",
     "workspace-package/imessage",
     "workspace-package/health-samples-access",
-    "workspace-package/health-samples-day",
+    "domain/health-samples-day",
     "workspace-package/health-samples-import",
     "workspace-package/location-traces-access",
     "domain/day",

@@ -1,4 +1,3 @@
-import { loadActiveCaloriesByDay } from "@akasha/health-samples-day/active-calories"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
 import {
   dayStrOf,
@@ -6,6 +5,7 @@ import {
   NOON,
   parseDay,
 } from "akasha/alan/harness/day/string/day-string.module.code.ts"
+import { loadActiveCaloriesByDay } from "akasha/alan/harness/health-samples-day/active-calories/active-calories.module.code.ts"
 import {
   type WriteOutcome,
   writeActiveCalories,

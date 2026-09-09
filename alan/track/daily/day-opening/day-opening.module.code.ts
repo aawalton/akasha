@@ -1,16 +1,16 @@
-import {
-  type DayWindow,
-  dayAfter,
-  dayBefore,
-  type Refused,
-  spannedWindowIn,
-} from "@akasha/health-samples-day/opening-window"
 import { AKASHA, rootFor } from "@akasha/pages/checkout-roots"
 import type { Roots } from "@akasha/pages/markdown-page-at"
 import {
   getEsoDayStr,
   getEsoDayWindow,
 } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import {
+  type DayWindow,
+  dayAfter,
+  dayBefore,
+  type Refused,
+  spannedWindowIn,
+} from "akasha/alan/harness/health-samples-day/opening-window/opening-window.module.code.ts"
 
 export function openedWindowOn(roots: Roots, dayStr: string): DayWindow | Refused {
   return spannedWindowIn(rootFor(roots, AKASHA), dayStr)

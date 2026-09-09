@@ -20,7 +20,6 @@
         "@akasha/google-email": "workspace:*",
         "@akasha/google-oauth": "workspace:*",
         "@akasha/health-samples-access": "workspace:*",
-        "@akasha/health-samples-day": "workspace:*",
         "@akasha/health-samples-import": "workspace:*",
         "@akasha/icloud-photos": "workspace:*",
         "@akasha/imessage": "workspace:*",
@@ -239,14 +238,6 @@
       "dependencies": {
         "@akasha/pages": "workspace:*",
         "@akasha/pages-service": "workspace:*",
-      },
-    },
-    "alan/harness/health-samples-day": {
-      "name": "@akasha/health-samples-day",
-      "dependencies": {
-        "@akasha/health-samples-access": "workspace:*",
-        "@akasha/indexes": "workspace:*",
-        "@akasha/pages": "workspace:*",
       },
     },
     "alan/harness/health-samples-import": {
@@ -2529,8 +2520,6 @@
     "@akasha/graph": ["@akasha/graph@workspace:graph"],
 
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:alan/harness/health-samples-access"],
-
-    "@akasha/health-samples-day": ["@akasha/health-samples-day@workspace:alan/harness/health-samples-day"],
 
     "@akasha/health-samples-import": ["@akasha/health-samples-import@workspace:alan/harness/health-samples-import"],
 

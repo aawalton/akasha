@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../../domains/domain.page-type.ts"
 
 export const healthSamplesDay = {
   id: "01a05bc7-9129-7007-82af-fd4145203797",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "health-samples-day",
   definition: "a day's health readings, counted from the moment that day opened",
-  manifest: "json",
   parts: ["module/opening-window", "module/active-calories"],
   invariants: [
     {
@@ -21,4 +20,4 @@ export const healthSamplesDay = {
       statement: "A day whose sleep was never recorded is refused rather than given a window.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
