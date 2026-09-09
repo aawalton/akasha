@@ -2,7 +2,7 @@ import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { everythingFiled } from "@akasha/indexes/testing"
 import { bytesOf } from "@akasha/testing-system/bodying"
-import { landing } from "../../../command-system/landing/landing.module.code.ts"
+import { landing } from "../landing/landing.module.code.ts"
 import {
   A,
   ADMITS,
@@ -11,7 +11,7 @@ import {
   git,
   PAGE,
   repoWith,
-} from "../../../command-system/landing/landing.module.test-fixtures.ts"
+} from "../landing/landing.module.test-fixtures.ts"
 import type { FileMove } from "./path-moving.module.code.ts"
 
 export const MOVED_BIN = "akasha/one.bin"

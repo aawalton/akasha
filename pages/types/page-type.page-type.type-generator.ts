@@ -1,6 +1,6 @@
 import { dirname, relative } from "node:path"
 import type { Schema } from "@akasha/indexes/shape"
-import type { FileEdit } from "../../command-system/landing/landing.module.code.ts"
+import type { FileEdit } from "../../commands/modules/landing/landing.module.code.ts"
 import { exportedAs, typedAs } from "../export-name/page-export-name.module.code.ts"
 import { besideAt } from "../file-name/page-file-name.module.code.ts"
 import type { Shadow } from "../shadow/shadow.module.code.ts"

@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Asking } from "@akasha/changes/mechanical-change-running"
 import type { Given } from "@akasha/command-system/calling"
-import type { Refused } from "@akasha/command-system/landing"
 import { rootOf } from "@akasha/command-system/rooting"
 import type { LrclibRecord } from "../../../../alan/music/catalog/lrclib-schema/lrclib-schema.module.code.ts"
 import type {
@@ -10,6 +9,7 @@ import type {
   MbWork,
 } from "../../../../alan/music/catalog/musicbrainz-schema/musicbrainz-schema.module.code.ts"
 import type { Applied } from "../../../modules/applying/applying.module.code.ts"
+import type { Refused } from "../../../modules/landing/landing.module.code.ts"
 import {
   type Gathered,
   gathered,

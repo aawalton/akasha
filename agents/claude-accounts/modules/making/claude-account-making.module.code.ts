@@ -1,8 +1,8 @@
 import { type Asking, runMechanicalChange } from "@akasha/changes/mechanical-change-running"
-import type { Refused } from "@akasha/command-system/landing"
 import type { Reading } from "@akasha/indexes/shape"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import type { Applied } from "../../../../commands/modules/applying/applying.module.code.ts"
+import type { Refused } from "../../../../commands/modules/landing/landing.module.code.ts"
 import { accountPathIn, everyAccountIn } from "../reading/claude-account-reading.module.code.ts"
 
 export const PAGE_TYPE_SLUG = "claude-account"

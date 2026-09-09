@@ -7,42 +7,23 @@ import { textIn, textOf } from "@akasha/code/body-text"
 import { gitIgnoring } from "@akasha/git/git-pathspec"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages/change"
-import {
-  commitNamed,
-  unfresh,
-} from "../../commands/modules/change-freshness/change-freshness.module.code.ts"
-import {
-  bodyAt,
-  readingEnded,
-} from "../../commands/modules/commit-reading/commit-reading.module.code.ts"
-import {
-  committed,
-  whileIndexFrees,
-} from "../../commands/modules/committing/committing.module.code.ts"
-import type { Bodies } from "../../commands/modules/drafting/drafting.module.code.ts"
+import { saidBy } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import type { Reading as AsRead } from "../../../command-system/reading/reading.module.code.ts"
+import { commitNamed, unfresh } from "../change-freshness/change-freshness.module.code.ts"
+import { bodyAt, readingEnded } from "../commit-reading/commit-reading.module.code.ts"
+import { committed, whileIndexFrees } from "../committing/committing.module.code.ts"
+import type { Bodies } from "../drafting/drafting.module.code.ts"
 import {
   clearedOff,
   clearedUnder,
   isFolder,
-} from "../../commands/modules/folder-clearing/folder-clearing.module.code.ts"
-import {
-  indexingLoaded,
-  type Keeping,
-} from "../../commands/modules/gate-building/gate-building.module.code.ts"
-import { holding } from "../../commands/modules/holding/holding.module.code.ts"
-import {
-  absentAfter,
-  orphaningIn,
-  orphaningSaid,
-} from "../../commands/modules/orphaning/orphaning.module.code.ts"
-import type { FileMove } from "../../commands/modules/path-moving/path-moving.module.code.ts"
-import { movedOnto, movesHeld } from "../../commands/modules/path-moving/path-moving.module.code.ts"
-import {
-  outsideRoot,
-  writesOutside,
-} from "../../commands/modules/said-pathing/said-pathing.module.code.ts"
-import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
-import type { Reading as AsRead } from "../reading/reading.module.code.ts"
+} from "../folder-clearing/folder-clearing.module.code.ts"
+import { indexingLoaded, type Keeping } from "../gate-building/gate-building.module.code.ts"
+import { holding } from "../holding/holding.module.code.ts"
+import { absentAfter, orphaningIn, orphaningSaid } from "../orphaning/orphaning.module.code.ts"
+import type { FileMove } from "../path-moving/path-moving.module.code.ts"
+import { movedOnto, movesHeld } from "../path-moving/path-moving.module.code.ts"
+import { outsideRoot, writesOutside } from "../said-pathing/said-pathing.module.code.ts"
 
 export type FileEdit = {
   readonly path: string

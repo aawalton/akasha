@@ -8,8 +8,8 @@ import { heldIn, pageNamed, partedIn } from "@akasha/pages/page-file-name"
 import { loadedFrom } from "@akasha/pages/page-value"
 import { type Shadow, shadowFor } from "@akasha/pages/shadow"
 import { uuidVersion7 } from "akasha/id-minting/uuid-version-7/uuid-version-7.module.code.ts"
-import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
-import { baseOf, changeOf } from "../../../command-system/landing/landing.module.code.ts"
+import type { FileEdit } from "../landing/landing.module.code.ts"
+import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
 const UUID_V7 = "uuid-v7"
 

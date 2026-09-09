@@ -7,7 +7,7 @@ import type { Change } from "@akasha/pages/change"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
-import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
+import type { FileEdit } from "../landing/landing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

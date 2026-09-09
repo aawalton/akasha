@@ -3,10 +3,10 @@ import { copyFileSync, mkdirSync } from "node:fs"
 import { join } from "node:path"
 import type { Asking } from "@akasha/changes/mechanical-change-running"
 import type { Given } from "@akasha/command-system/calling"
-import type { Refused } from "@akasha/command-system/landing"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import type { Applied } from "../../../commands/modules/applying/applying.module.code.ts"
+import type { Refused } from "../../../commands/modules/landing/landing.module.code.ts"
 import {
   FILE_PATH,
   KEEP_LAST_NEWLINE,

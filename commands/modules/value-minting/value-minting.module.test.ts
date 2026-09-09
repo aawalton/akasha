@@ -5,8 +5,8 @@ import type { Replacing } from "@akasha/changes/change-answer/types"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
-import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import type { FileEdit } from "../landing/landing.module.code.ts"
 import {
   earlyIn,
   identified,

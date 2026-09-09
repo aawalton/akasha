@@ -1,11 +1,11 @@
 import { expect, test } from "bun:test"
 import type { Asking } from "@akasha/changes/mechanical-change-running"
 import type { Given } from "@akasha/command-system/calling"
-import type { Refused } from "@akasha/command-system/landing"
 import { readingIn, recordRead } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
 import type { Applied } from "../../commands/modules/applying/applying.module.code.ts"
+import type { Refused } from "../../commands/modules/landing/landing.module.code.ts"
 import {
   isAgentProcess,
   killTarget,

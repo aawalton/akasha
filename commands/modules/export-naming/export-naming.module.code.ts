@@ -1,6 +1,6 @@
 import { textOf } from "@akasha/code/body-text"
 import { nameFaultIn } from "@akasha/pages/page-export-name"
-import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
+import type { FileEdit } from "../landing/landing.module.code.ts"
 
 const SLUG_AT = /^ {2}slug: "([^"]*)",$/m
 

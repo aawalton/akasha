@@ -3,8 +3,8 @@ import { runMechanicalChange } from "@akasha/changes/mechanical-change-running"
 import { notUtf8 } from "@akasha/checks/body-not-utf8"
 import { decodeUtf8 } from "@akasha/code/utf8-body"
 import { type Answer, answering } from "@akasha/command-system/calling"
-import type { FileEdit } from "@akasha/command-system/landing"
 import { mistaking } from "../../../commands/modules/asking/asking.module.code.ts"
+import type { FileEdit } from "../../../commands/modules/landing/landing.module.code.ts"
 
 export const DAYS_AT = "alan/track/days/pages/"
 

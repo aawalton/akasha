@@ -3,7 +3,10 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { noImportersFiled } from "@akasha/indexes/testing"
-import { landing } from "../../../command-system/landing/landing.module.code.ts"
+import { readingIn } from "../../../command-system/reading/reading.module.code.ts"
+import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
+import type { Running } from "../drafting/drafting.module.code.ts"
+import { landing } from "../landing/landing.module.code.ts"
 import {
   A,
   ADMITS,
@@ -14,10 +17,7 @@ import {
   REFUSES,
   repoWith,
   scratch,
-} from "../../../command-system/landing/landing.module.test-fixtures.ts"
-import { readingIn } from "../../../command-system/reading/reading.module.code.ts"
-import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
-import type { Running } from "../drafting/drafting.module.code.ts"
+} from "../landing/landing.module.test-fixtures.ts"
 import { applied, askedIn, type Carried, messageFor } from "./applying.module.code.ts"
 
 const HELD = { was: null, body: null, readersOweReading: true }

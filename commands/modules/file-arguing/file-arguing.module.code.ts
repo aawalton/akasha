@@ -6,8 +6,6 @@ import {
   type Given,
   kindNamed,
 } from "../../../command-system/calling/calling.module.code.ts"
-import type { FileEdit } from "../../../command-system/landing/landing.module.code.ts"
-import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
 import { BREAK_GLASS, bytesAt, mistaking, textOf, troubling } from "../asking/asking.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import {
@@ -20,6 +18,8 @@ import {
   REMOVE,
   unknownIn,
 } from "../flags/command-flags.module.code.ts"
+import type { FileEdit } from "../landing/landing.module.code.ts"
+import { baseOf } from "../landing/landing.module.code.ts"
 import { defaultMessage } from "../landing-saying/landing-saying.module.code.ts"
 import type { Piping } from "../piping/piping.module.code.ts"
 import { markingIn, pipedIn, RUNS_SAID } from "../piping/piping.module.code.ts"

@@ -2,13 +2,9 @@ import { afterAll, expect, test } from "bun:test"
 import { chmodSync, existsSync, mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
-import { landing } from "../../../command-system/landing/landing.module.code.ts"
-import {
-  ADMITS,
-  bytes,
-  edged,
-} from "../../../command-system/landing/landing.module.test-fixtures.ts"
 import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
+import { landing } from "../landing/landing.module.code.ts"
+import { ADMITS, bytes, edged } from "../landing/landing.module.test-fixtures.ts"
 import { AUTHOR, committed, whileIndexFrees } from "./committing.module.code.ts"
 
 const scratch = scratchWorld()
