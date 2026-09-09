@@ -8,7 +8,7 @@ export const salvos0104TheBeastSalvosBook11DownloadAvailableFor5 = {
   story: "story-read/salvos",
   position: 104,
   ownLength: 88,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1385256/the-beast-salvos-book-11-download-available-for",

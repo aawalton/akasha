@@ -8,7 +8,7 @@ export const salvos0103615DreadEndOfBook11volume6Part2 = {
   story: "story-read/salvos",
   position: 103,
   ownLength: 1380,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1384316/615-dread-end-of-book-11volume-6-part-2",

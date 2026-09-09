@@ -8,7 +8,7 @@ export const salvos0027171FairingWell = {
   story: "story-read/salvos",
   position: 27,
   ownLength: 2143,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/738522/171-fairing-well",

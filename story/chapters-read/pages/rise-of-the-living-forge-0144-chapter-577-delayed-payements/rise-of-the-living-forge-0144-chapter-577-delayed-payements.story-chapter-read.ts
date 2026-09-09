@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0144Chapter577DelayedPayements = {
   story: "story-read/rise-of-the-living-forge",
   position: 144,
   ownLength: 1650,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3184010/chapter-577-delayed-payements",

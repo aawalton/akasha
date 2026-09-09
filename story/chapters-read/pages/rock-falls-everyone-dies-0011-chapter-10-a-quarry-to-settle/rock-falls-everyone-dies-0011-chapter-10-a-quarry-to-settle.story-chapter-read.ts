@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0011Chapter10AQuarryToSettle = {
   story: "rock-falls-everyone-dies",
   position: 11,
   ownLength: 2368,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1095849/chapter-10-a-quarry-to-settle",

@@ -8,7 +8,7 @@ export const salvos0105Book11IsNowUpOnAmazonKuKickstarterEnding = {
   story: "story-read/salvos",
   position: 105,
   ownLength: 158,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1394267/book-11-is-now-up-on-amazon-ku-kickstarter-ending",

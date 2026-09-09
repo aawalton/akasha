@@ -8,7 +8,7 @@ export const savageDivinity0020Chapter20Convictions = {
   story: "savage-divinity",
   position: 20,
   ownLength: 2467,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/59375/chapter-20-convictions",

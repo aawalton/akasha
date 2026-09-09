@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0142Chapter575Advice = {
   story: "story-read/rise-of-the-living-forge",
   position: 142,
   ownLength: 1814,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3165741/chapter-575-advice",

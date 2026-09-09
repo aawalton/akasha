@@ -8,7 +8,7 @@ export const salvos0086ComicPreviewSixDaysLeft = {
   story: "story-read/salvos",
   position: 86,
   ownLength: 115,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1214117/comic-preview-six-days-left",

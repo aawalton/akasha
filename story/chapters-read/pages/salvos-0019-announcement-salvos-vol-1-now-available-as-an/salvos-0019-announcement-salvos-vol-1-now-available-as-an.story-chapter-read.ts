@@ -8,7 +8,7 @@ export const salvos0019AnnouncementSalvosVol1NowAvailableAsAn = {
   story: "story-read/salvos",
   position: 19,
   ownLength: 153,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/699849/announcement-salvos-vol-1-now-available-as-an",

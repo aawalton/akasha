@@ -8,7 +8,7 @@ export const salvos0053389SoItBeginsEndOfVolume5Part3 = {
   story: "story-read/salvos",
   position: 53,
   ownLength: 1617,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/953513/389-so-it-begins-end-of-volume-5-part-3",

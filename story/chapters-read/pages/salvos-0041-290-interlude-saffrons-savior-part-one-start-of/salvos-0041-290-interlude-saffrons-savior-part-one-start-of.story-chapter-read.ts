@@ -8,7 +8,7 @@ export const salvos0041290InterludeSaffronsSaviorPartOneStartOf = {
   story: "story-read/salvos",
   position: 41,
   ownLength: 2311,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/855015/290-interlude-saffrons-savior-part-one-start-of",

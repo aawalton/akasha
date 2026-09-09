@@ -7,7 +7,7 @@ export const riseOfTheLivingForge0116Chapter646Unfair = {
   story: "story-read/rise-of-the-living-forge",
   position: 116,
   publishedAt: "2026-09-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3930026",
   source: "royal-road",
   title: "Chapter 646: Unfair",

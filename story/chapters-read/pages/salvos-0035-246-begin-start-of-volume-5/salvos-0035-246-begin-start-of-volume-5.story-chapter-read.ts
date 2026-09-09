@@ -8,7 +8,7 @@ export const salvos0035246BeginStartOfVolume5 = {
   story: "story-read/salvos",
   position: 35,
   ownLength: 2023,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/808169/246-begin-start-of-volume-5",

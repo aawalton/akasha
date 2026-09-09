@@ -8,7 +8,7 @@ export const salvos0072516LordOfLies = {
   story: "story-read/salvos",
   position: 72,
   ownLength: 4730,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1120689/516-lord-of-lies",

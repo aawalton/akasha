@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0121Chapter554MatterOfTime = {
   story: "story-read/rise-of-the-living-forge",
   position: 121,
   ownLength: 1789,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3015300/chapter-554-matter-of-time",

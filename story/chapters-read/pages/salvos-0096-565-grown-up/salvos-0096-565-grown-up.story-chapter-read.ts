@@ -8,7 +8,7 @@ export const salvos0096565GrownUp = {
   story: "story-read/salvos",
   position: 96,
   ownLength: 2048,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1250975/565-grown-up",

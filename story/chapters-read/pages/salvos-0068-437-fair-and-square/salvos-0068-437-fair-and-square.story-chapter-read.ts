@@ -8,7 +8,7 @@ export const salvos0068437FairAndSquare = {
   story: "story-read/salvos",
   position: 68,
   ownLength: 1463,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1020857/437-fair-and-square",

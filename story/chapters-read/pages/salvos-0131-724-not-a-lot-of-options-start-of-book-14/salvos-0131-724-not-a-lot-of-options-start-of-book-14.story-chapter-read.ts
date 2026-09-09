@@ -8,7 +8,7 @@ export const salvos0131724NotALotOfOptionsStartOfBook14 = {
   story: "story-read/salvos",
   position: 131,
   ownLength: 1600,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2175477/724-not-a-lot-of-options-start-of-book-14",

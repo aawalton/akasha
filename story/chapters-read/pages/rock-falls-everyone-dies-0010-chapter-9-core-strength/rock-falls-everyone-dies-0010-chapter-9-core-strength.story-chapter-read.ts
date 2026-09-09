@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0010Chapter9CoreStrength = {
   story: "rock-falls-everyone-dies",
   position: 10,
   ownLength: 1909,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094733/chapter-9-core-strength",

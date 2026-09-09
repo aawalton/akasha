@@ -8,7 +8,7 @@ export const salvos0107616ColdTrailStartOfVolume7Part1book12 = {
   story: "story-read/salvos",
   position: 107,
   ownLength: 1609,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1410003/616-cold-trail-start-of-volume-7-part-1book-12",

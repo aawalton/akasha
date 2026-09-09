@@ -8,7 +8,7 @@ export const salvos0122716Betrayal = {
   story: "story-read/salvos",
   position: 122,
   ownLength: 1780,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1877765/716-betrayal",

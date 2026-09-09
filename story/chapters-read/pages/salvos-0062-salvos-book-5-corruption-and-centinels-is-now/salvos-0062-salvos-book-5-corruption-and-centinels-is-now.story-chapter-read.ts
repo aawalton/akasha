@@ -8,7 +8,7 @@ export const salvos0062SalvosBook5CorruptionAndCentinelsIsNow = {
   story: "story-read/salvos",
   position: 62,
   ownLength: 93,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1003096/salvos-book-5-corruption-and-centinels-is-now",

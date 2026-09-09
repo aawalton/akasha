@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0112Chapter546EsmereldaSRules = {
   story: "story-read/rise-of-the-living-forge",
   position: 112,
   ownLength: 1652,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2964698/chapter-546-esmereldas-rules",

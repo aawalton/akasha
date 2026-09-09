@@ -8,7 +8,7 @@ export const salvos0046344ChampionPartFour = {
   story: "story-read/salvos",
   position: 46,
   ownLength: 2950,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/908492/344-champion-part-four",

@@ -8,7 +8,7 @@ export const salvos0076520RevelationEndOfVolume5Part5 = {
   story: "story-read/salvos",
   position: 76,
   ownLength: 667,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1123913/520-revelation-end-of-volume-5-part-5",

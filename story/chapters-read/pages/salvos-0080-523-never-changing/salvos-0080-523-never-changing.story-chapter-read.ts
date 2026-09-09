@@ -8,7 +8,7 @@ export const salvos0080523NeverChanging = {
   story: "story-read/salvos",
   position: 80,
   ownLength: 2050,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1146126/523-never-changing",

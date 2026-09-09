@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0007Chapter7YesHardFeelings = {
   story: "rock-falls-everyone-dies",
   position: 7,
   ownLength: 1714,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094532/chapter-7-yes-hard-feelings",

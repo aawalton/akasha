@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0119Chapter553ThreatsOfANewKind = {
   story: "story-read/rise-of-the-living-forge",
   position: 119,
   ownLength: 1878,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3012072/chapter-553-threats-of-a-new-kind",

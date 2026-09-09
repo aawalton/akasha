@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0008CosmicTower = {
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 8,
   ownLength: 252,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/2678629/cosmic-tower",

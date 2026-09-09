@@ -8,7 +8,7 @@ export const salvos0044Chapter300SpecialSalvosSideCharacter = {
   story: "story-read/salvos",
   position: 44,
   ownLength: 68,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/866508/chapter-300-special-salvos-side-character-popularity",

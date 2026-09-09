@@ -9,7 +9,7 @@ export const salvos0130Gifting25FreePatronsSubsSalvosComicUpdate = {
   story: "story-read/salvos",
   position: 130,
   ownLength: 179,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1905327/gifting-25-free-patrons-subs-salvos-comic-update",

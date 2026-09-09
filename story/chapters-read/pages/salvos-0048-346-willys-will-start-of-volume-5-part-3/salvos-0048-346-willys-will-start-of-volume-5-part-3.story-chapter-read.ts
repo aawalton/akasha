@@ -8,7 +8,7 @@ export const salvos0048346WillysWillStartOfVolume5Part3 = {
   story: "story-read/salvos",
   position: 48,
   ownLength: 2168,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/909778/346-willys-will-start-of-volume-5-part-3",

@@ -8,7 +8,7 @@ export const salvos0009SideStory1SurvivalOfTheFittest = {
   story: "story-read/salvos",
   position: 9,
   ownLength: 3470,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/642805/side-story-1-survival-of-the-fittest",

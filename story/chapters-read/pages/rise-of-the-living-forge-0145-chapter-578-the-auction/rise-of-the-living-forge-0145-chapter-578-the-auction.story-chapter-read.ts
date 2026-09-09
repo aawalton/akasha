@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0145Chapter578TheAuction = {
   story: "story-read/rise-of-the-living-forge",
   position: 145,
   ownLength: 1819,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3187679/chapter-578-the-auction",

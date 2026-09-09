@@ -8,7 +8,7 @@ export const salvos0087FiveDaysLeft = {
   story: "story-read/salvos",
   position: 87,
   ownLength: 40,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1215360/five-days-left",

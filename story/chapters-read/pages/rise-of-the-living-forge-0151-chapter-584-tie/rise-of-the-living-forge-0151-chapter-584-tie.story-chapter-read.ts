@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0151Chapter584Tie = {
   story: "story-read/rise-of-the-living-forge",
   position: 151,
   ownLength: 2047,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3353745/chapter-584-tie",

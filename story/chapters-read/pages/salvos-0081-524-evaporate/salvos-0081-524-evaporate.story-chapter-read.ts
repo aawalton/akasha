@@ -8,7 +8,7 @@ export const salvos0081524Evaporate = {
   story: "story-read/salvos",
   position: 81,
   ownLength: 2578,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1147386/524-evaporate",

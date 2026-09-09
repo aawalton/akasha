@@ -8,7 +8,7 @@ export const salvos0031241NightsveilPart1 = {
   story: "story-read/salvos",
   position: 31,
   ownLength: 2240,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/802088/241-nightsveil-part-1",

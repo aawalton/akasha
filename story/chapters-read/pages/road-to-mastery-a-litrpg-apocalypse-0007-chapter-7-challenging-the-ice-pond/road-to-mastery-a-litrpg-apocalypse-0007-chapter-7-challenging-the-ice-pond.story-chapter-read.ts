@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0007Chapter7ChallengingTheIcePond = {
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 7,
   ownLength: 2299,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1043646/chapter-7-challenging-the-ice-pond",

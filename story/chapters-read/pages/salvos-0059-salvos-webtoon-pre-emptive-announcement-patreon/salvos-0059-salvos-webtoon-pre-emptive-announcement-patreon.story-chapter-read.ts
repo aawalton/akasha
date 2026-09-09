@@ -8,7 +8,7 @@ export const salvos0059SalvosWebtoonPreEmptiveAnnouncementPatreon = {
   story: "story-read/salvos",
   position: 59,
   ownLength: 1076,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/963346/salvos-webtoon-pre-emptive-announcement-patreon",

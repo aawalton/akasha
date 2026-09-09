@@ -8,7 +8,7 @@ export const salvos0064434FallingSky = {
   story: "story-read/salvos",
   position: 64,
   ownLength: 3395,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1014752/434-falling-sky",

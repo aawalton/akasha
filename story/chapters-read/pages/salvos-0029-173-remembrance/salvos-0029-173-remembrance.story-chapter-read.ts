@@ -8,7 +8,7 @@ export const salvos0029173Remembrance = {
   story: "story-read/salvos",
   position: 29,
   ownLength: 2100,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/739682/173-remembrance",

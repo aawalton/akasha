@@ -8,7 +8,7 @@ export const salvos0099568Claws = {
   story: "story-read/salvos",
   position: 99,
   ownLength: 1661,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1261848/568-claws",
   externalId: "1261848",

@@ -8,7 +8,7 @@ export const salvos0014103Compromising = {
   story: "story-read/salvos",
   position: 14,
   ownLength: 2240,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/668651/103-compromising",

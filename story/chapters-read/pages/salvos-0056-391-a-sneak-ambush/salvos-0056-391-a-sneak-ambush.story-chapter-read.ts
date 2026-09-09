@@ -8,7 +8,7 @@ export const salvos0056391ASneakAmbush = {
   story: "story-read/salvos",
   position: 56,
   ownLength: 2722,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/956906/391-a-sneak-ambush",

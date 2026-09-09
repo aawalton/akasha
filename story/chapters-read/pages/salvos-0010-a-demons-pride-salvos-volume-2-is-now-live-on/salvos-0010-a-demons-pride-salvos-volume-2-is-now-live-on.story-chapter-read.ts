@@ -8,7 +8,7 @@ export const salvos0010ADemonsPrideSalvosVolume2IsNowLiveOn = {
   story: "story-read/salvos",
   position: 10,
   ownLength: 153,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/663950/a-demons-pride-salvos-volume-2-is-now-live-on",

@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0104Chapter538Answers = {
   story: "story-read/rise-of-the-living-forge",
   position: 104,
   ownLength: 1527,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2917491/chapter-538-answers",

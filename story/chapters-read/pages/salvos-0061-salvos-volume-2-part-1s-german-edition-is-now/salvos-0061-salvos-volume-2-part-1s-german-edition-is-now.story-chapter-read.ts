@@ -8,7 +8,7 @@ export const salvos0061SalvosVolume2Part1sGermanEditionIsNow = {
   story: "story-read/salvos",
   position: 61,
   ownLength: 160,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/994517/salvos-volume-2-part-1s-german-edition-is-now",

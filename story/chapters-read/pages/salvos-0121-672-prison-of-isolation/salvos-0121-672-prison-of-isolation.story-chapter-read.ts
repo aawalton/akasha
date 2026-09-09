@@ -8,7 +8,7 @@ export const salvos0121672PrisonOfIsolation = {
   story: "story-read/salvos",
   position: 121,
   ownLength: 1594,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1719553/672-prison-of-isolation",

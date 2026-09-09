@@ -8,7 +8,7 @@ export const savageDivinity0059Chapter59Conflicts = {
   story: "savage-divinity",
   position: 59,
   ownLength: 3557,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/5701/savage-divinity/chapter/68290/chapter-59-conflicts",

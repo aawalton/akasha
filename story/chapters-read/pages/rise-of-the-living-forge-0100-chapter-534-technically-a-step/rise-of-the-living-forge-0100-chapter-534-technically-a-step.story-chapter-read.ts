@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0100Chapter534TechnicallyAStep = {
   story: "story-read/rise-of-the-living-forge",
   position: 100,
   ownLength: 1661,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2890122/chapter-534-technically-a-step",

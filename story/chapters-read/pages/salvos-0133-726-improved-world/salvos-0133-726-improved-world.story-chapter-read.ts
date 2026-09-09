@@ -8,7 +8,7 @@ export const salvos0133726ImprovedWorld = {
   story: "story-read/salvos",
   position: 133,
   ownLength: 1531,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2191434/726-improved-world",

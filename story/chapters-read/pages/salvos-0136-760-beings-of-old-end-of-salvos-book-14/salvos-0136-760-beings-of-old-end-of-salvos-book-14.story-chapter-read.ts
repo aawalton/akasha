@@ -8,7 +8,7 @@ export const salvos0136760BeingsOfOldEndOfSalvosBook14 = {
   story: "story-read/salvos",
   position: 136,
   ownLength: 1154,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2693692/760-beings-of-old-end-of-salvos-book-14",

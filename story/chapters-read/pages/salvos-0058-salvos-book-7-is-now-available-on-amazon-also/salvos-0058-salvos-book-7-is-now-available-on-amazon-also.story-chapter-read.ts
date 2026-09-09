@@ -9,7 +9,7 @@ export const salvos0058SalvosBook7IsNowAvailableOnAmazonAlso = {
   story: "story-read/salvos",
   position: 58,
   ownLength: 111,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/961857/salvos-book-7-is-now-available-on-amazon-also",

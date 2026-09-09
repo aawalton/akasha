@@ -8,7 +8,7 @@ export const salvos000740SurvivorEndOfVolume1 = {
   story: "story-read/salvos",
   position: 7,
   ownLength: 1877,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/618813/40-survivor-end-of-volume-1",

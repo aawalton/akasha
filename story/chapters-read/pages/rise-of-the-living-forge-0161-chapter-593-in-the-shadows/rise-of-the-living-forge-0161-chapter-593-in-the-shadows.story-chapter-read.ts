@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0161Chapter593InTheShadows = {
   story: "story-read/rise-of-the-living-forge",
   position: 161,
   ownLength: 1634,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3418552/chapter-593-in-the-shadows",

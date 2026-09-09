@@ -8,7 +8,7 @@ export const salvos0115667Stasis = {
   story: "story-read/salvos",
   position: 115,
   ownLength: 2046,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1571318/667-stasis",
   externalId: "1571318",

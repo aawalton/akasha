@@ -8,7 +8,7 @@ export const salvos0070NewFicAnnouncementAmeliaTheLevelZeroHero = {
   story: "story-read/salvos",
   position: 70,
   ownLength: 240,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1069645/new-fic-announcement-amelia-the-level-zero-hero",

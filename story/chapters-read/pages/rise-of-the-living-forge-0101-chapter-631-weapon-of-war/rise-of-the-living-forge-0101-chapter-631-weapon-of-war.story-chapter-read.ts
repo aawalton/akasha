@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0101Chapter631WeaponOfWar = {
   story: "story-read/rise-of-the-living-forge",
   position: 101,
   ownLength: 2198,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3804604/chapter-631-weapon-of-war",

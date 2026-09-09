@@ -8,7 +8,7 @@ export const salvos0119670DangersAroundMavosAcademy = {
   story: "story-read/salvos",
   position: 119,
   ownLength: 2076,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1707498/670-dangers-around-mavos-academy",

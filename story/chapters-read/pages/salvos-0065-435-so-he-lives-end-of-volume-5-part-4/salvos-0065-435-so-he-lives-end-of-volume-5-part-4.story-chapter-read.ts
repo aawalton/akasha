@@ -8,7 +8,7 @@ export const salvos0065435SoHeLivesEndOfVolume5Part4 = {
   story: "story-read/salvos",
   position: 65,
   ownLength: 1797,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1015560/435-so-he-lives-end-of-volume-5-part-4",

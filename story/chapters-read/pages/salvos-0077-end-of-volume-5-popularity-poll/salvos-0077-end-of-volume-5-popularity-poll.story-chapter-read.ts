@@ -8,7 +8,7 @@ export const salvos0077EndOfVolume5PopularityPoll = {
   story: "story-read/salvos",
   position: 77,
   ownLength: 110,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1127395/end-of-volume-5-popularity-poll",

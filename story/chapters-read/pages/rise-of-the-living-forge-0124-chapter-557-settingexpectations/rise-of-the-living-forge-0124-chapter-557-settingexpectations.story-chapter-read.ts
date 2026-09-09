@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0124Chapter557Settingexpectations = {
   story: "story-read/rise-of-the-living-forge",
   position: 124,
   ownLength: 1743,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3036728/chapter-557-settingexpectations",

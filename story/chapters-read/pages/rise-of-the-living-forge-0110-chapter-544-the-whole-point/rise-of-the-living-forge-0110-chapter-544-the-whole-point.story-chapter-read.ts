@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0110Chapter544TheWholePoint = {
   story: "story-read/rise-of-the-living-forge",
   position: 110,
   ownLength: 1537,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2945789/chapter-544-the-whole-point",

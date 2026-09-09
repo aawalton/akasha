@@ -8,7 +8,7 @@ export const salvos0084SalvosBook19HaveBeenStubbedForAmazonKu = {
   story: "story-read/salvos",
   position: 84,
   ownLength: 414,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1170010/salvos-book-1-9-have-been-stubbed-for-amazon-ku",

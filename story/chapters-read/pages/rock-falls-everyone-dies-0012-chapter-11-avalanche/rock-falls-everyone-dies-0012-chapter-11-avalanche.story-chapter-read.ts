@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0012Chapter11Avalanche = {
   story: "rock-falls-everyone-dies",
   position: 12,
   ownLength: 2236,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1095997/chapter-11-avalanche",

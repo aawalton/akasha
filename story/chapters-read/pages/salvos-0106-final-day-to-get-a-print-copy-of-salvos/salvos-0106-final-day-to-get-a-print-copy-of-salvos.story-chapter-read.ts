@@ -8,7 +8,7 @@ export const salvos0106FinalDayToGetAPrintCopyOfSalvos = {
   story: "story-read/salvos",
   position: 106,
   ownLength: 93,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1399350/final-day-to-get-a-print-copy-of-salvos",

@@ -8,7 +8,7 @@ export const salvos0034245NightsveilPart5EndOfVolume4 = {
   story: "story-read/salvos",
   position: 34,
   ownLength: 2949,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/805801/245-nightsveil-part-5-end-of-volume-4",

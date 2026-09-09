@@ -8,7 +8,7 @@ export const salvos0049347EdithesElation = {
   story: "story-read/salvos",
   position: 49,
   ownLength: 2755,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/910233/347-edithes-elation",

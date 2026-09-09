@@ -8,7 +8,7 @@ export const salvos0102614PerditionPartFive = {
   story: "story-read/salvos",
   position: 102,
   ownLength: 2591,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1383239/614-perdition-part-five",

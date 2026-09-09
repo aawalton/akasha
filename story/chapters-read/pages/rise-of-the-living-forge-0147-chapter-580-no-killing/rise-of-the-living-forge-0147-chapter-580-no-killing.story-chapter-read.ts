@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0147Chapter580NoKilling = {
   story: "story-read/rise-of-the-living-forge",
   position: 147,
   ownLength: 2106,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3214557/chapter-580-no-killing",

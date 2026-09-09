@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0172Chapter604Scrap = {
   story: "story-read/rise-of-the-living-forge",
   position: 172,
   ownLength: 1834,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3511980/chapter-604-scrap",

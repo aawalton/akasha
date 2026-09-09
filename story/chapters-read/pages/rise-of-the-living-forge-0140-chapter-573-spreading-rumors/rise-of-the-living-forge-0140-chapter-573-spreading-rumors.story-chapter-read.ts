@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0140Chapter573SpreadingRumors = {
   story: "story-read/rise-of-the-living-forge",
   position: 140,
   ownLength: 1554,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3143868/chapter-573-spreading-rumors",

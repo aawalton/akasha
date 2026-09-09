@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0168Chapter600DeeperTroubles = {
   story: "story-read/rise-of-the-living-forge",
   position: 168,
   ownLength: 1641,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3478272/chapter-600-deeper-troubles",

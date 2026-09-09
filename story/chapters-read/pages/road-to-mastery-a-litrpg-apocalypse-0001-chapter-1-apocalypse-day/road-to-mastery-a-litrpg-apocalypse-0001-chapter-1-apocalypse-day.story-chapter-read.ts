@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0001Chapter1ApocalypseDay = {
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 1,
   ownLength: 2799,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042784/chapter-1-apocalypse-day",

@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0004Chapter4RockHardHotAndSteamy = {
   story: "rock-falls-everyone-dies",
   position: 4,
   ownLength: 1819,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094374/chapter-4-rock-hard-hot-and-steamy",

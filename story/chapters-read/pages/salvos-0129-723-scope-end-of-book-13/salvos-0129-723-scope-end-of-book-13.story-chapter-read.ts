@@ -8,7 +8,7 @@ export const salvos0129723ScopeEndOfBook13 = {
   story: "story-read/salvos",
   position: 129,
   ownLength: 1350,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1889104/723-scope-end-of-book-13",

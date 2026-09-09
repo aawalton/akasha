@@ -8,7 +8,7 @@ export const salvos0028172CosmicCompression = {
   story: "story-read/salvos",
   position: 28,
   ownLength: 2467,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/739141/172-cosmic-compression",

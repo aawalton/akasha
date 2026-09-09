@@ -8,7 +8,7 @@ export const salvos0071SalvosBook9 = {
   story: "story-read/salvos",
   position: 71,
   ownLength: 94,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1103275/salvos-book-9-hellprincessesssseessesesssessesesessesesssessssesssesess",

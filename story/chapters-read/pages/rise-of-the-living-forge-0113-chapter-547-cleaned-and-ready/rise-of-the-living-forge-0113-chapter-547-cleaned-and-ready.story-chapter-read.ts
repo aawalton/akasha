@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0113Chapter547CleanedAndReady = {
   story: "story-read/rise-of-the-living-forge",
   position: 113,
   ownLength: 1976,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2968131/chapter-547-cleaned-and-ready",

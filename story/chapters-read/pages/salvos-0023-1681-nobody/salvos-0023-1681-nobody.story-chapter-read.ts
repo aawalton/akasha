@@ -8,7 +8,7 @@ export const salvos00231681Nobody = {
   story: "story-read/salvos",
   position: 23,
   ownLength: 2158,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/735850/1681-nobody",
   externalId: "735850",

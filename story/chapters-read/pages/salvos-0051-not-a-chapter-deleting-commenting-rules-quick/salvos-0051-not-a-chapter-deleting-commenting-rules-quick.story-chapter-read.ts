@@ -8,7 +8,7 @@ export const salvos0051NotAChapterDeletingCommentingRulesQuick = {
   story: "story-read/salvos",
   position: 51,
   ownLength: 110,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/947959/not-a-chapter-deleting-commenting-rules-quick",

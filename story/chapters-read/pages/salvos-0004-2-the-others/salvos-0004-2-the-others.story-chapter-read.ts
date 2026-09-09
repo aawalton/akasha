@@ -8,7 +8,7 @@ export const salvos00042TheOthers = {
   story: "story-read/salvos",
   position: 4,
   ownLength: 3338,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/582222/2-the-others",

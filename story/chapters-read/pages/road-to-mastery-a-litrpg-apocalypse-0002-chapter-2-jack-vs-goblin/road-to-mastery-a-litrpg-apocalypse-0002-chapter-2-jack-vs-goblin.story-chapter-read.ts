@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0002Chapter2JackVsGoblin = {
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 2,
   ownLength: 2433,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042789/chapter-2-jack-vs-goblin",

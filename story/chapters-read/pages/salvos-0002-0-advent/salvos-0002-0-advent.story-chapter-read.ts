@@ -8,7 +8,7 @@ export const salvos00020Advent = {
   story: "story-read/salvos",
   position: 2,
   ownLength: 585,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/580224/0-advent",
   externalId: "580224",

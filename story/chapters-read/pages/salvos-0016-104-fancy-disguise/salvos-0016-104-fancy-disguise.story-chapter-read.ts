@@ -8,7 +8,7 @@ export const salvos0016104FancyDisguise = {
   story: "story-read/salvos",
   position: 16,
   ownLength: 3728,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/669236/104-fancy-disguise",

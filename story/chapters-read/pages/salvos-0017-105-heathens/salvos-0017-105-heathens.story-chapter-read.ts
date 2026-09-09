@@ -8,7 +8,7 @@ export const salvos0017105Heathens = {
   story: "story-read/salvos",
   position: 17,
   ownLength: 2174,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/669779/105-heathens",

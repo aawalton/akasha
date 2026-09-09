@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0009Chapter85OkMaybeSomethingDidActuallyHappen
   story: "rock-falls-everyone-dies",
   position: 9,
   ownLength: 1397,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094658/chapter-85-ok-maybe-something-did-actually-happen",

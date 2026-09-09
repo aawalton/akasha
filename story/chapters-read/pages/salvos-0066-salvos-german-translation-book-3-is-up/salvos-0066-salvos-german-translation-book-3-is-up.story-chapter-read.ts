@@ -8,7 +8,7 @@ export const salvos0066SalvosGermanTranslationBook3IsUp = {
   story: "story-read/salvos",
   position: 66,
   ownLength: 93,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1016455/salvos-german-translation-book-3-is-up",

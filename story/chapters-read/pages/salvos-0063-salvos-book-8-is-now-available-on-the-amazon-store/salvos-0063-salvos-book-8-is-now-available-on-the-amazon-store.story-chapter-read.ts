@@ -8,7 +8,7 @@ export const salvos0063SalvosBook8IsNowAvailableOnTheAmazonStore = {
   story: "story-read/salvos",
   position: 63,
   ownLength: 212,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1006844/salvos-book-8-is-now-available-on-the-amazon-store",

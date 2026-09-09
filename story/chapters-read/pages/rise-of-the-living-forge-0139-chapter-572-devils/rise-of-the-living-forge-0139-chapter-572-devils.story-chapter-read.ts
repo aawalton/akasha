@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0139Chapter572Devils = {
   story: "story-read/rise-of-the-living-forge",
   position: 139,
   ownLength: 1973,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3142227/chapter-572-devils",

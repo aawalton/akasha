@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0017Chapter16TheWorldEndsWithRock = {
   story: "rock-falls-everyone-dies",
   position: 17,
   ownLength: 2683,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1100076/chapter-16-the-world-ends-with-rock",

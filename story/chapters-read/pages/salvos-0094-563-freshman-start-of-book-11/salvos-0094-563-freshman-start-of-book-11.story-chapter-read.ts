@@ -8,7 +8,7 @@ export const salvos0094563FreshmanStartOfBook11 = {
   story: "story-read/salvos",
   position: 94,
   ownLength: 1629,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1241789/563-freshman-start-of-book-11",

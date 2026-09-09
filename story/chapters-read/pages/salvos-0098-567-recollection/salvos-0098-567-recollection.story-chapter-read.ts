@@ -8,7 +8,7 @@ export const salvos0098567Recollection = {
   story: "story-read/salvos",
   position: 98,
   ownLength: 1522,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1259680/567-recollection",

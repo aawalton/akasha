@@ -8,7 +8,7 @@ export const salvos0012101ConsequencesStartOfVolume3 = {
   story: "story-read/salvos",
   position: 12,
   ownLength: 2966,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/667496/101-consequences-start-of-volume-3",

@@ -8,7 +8,7 @@ export const salvos0120671Ancients = {
   story: "story-read/salvos",
   position: 120,
   ownLength: 2192,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1718015/671-ancients",

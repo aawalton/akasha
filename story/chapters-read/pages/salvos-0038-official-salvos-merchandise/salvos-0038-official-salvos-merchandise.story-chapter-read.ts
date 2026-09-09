@@ -8,7 +8,7 @@ export const salvos0038OfficialSalvosMerchandise = {
   story: "story-read/salvos",
   position: 38,
   ownLength: 216,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/847612/official-salvos-merchandise",

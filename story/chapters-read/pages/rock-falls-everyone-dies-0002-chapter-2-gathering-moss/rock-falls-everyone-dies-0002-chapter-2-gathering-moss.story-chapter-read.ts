@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0002Chapter2GatheringMoss = {
   story: "rock-falls-everyone-dies",
   position: 2,
   ownLength: 1570,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094252/chapter-2-gathering-moss",

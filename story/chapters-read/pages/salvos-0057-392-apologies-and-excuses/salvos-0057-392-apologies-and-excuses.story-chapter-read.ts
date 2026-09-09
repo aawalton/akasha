@@ -8,7 +8,7 @@ export const salvos0057392ApologiesAndExcuses = {
   story: "story-read/salvos",
   position: 57,
   ownLength: 2685,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/957411/392-apologies-and-excuses",

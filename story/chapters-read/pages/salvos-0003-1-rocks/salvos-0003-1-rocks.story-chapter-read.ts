@@ -8,7 +8,7 @@ export const salvos00031Rocks = {
   story: "story-read/salvos",
   position: 3,
   ownLength: 2058,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/581008/1-rocks",
   externalId: "581008",

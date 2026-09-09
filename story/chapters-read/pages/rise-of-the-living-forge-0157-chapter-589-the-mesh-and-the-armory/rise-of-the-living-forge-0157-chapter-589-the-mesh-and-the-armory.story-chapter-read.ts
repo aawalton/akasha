@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0157Chapter589TheMeshAndTheArmory = {
   story: "story-read/rise-of-the-living-forge",
   position: 157,
   ownLength: 2315,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3386546/chapter-589-the-mesh-and-the-armory",

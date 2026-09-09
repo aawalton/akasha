@@ -8,7 +8,7 @@ export const salvos0134UpdateOnPostingSalvosIsOutInBookstores = {
   story: "story-read/salvos",
   position: 134,
   ownLength: 204,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2646882/update-on-posting-salvos-is-out-in-bookstores",

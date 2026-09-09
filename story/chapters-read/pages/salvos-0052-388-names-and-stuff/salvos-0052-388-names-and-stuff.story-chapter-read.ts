@@ -8,7 +8,7 @@ export const salvos0052388NamesAndStuff = {
   story: "story-read/salvos",
   position: 52,
   ownLength: 2265,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/951323/388-names-and-stuff",

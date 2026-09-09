@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0006Chapter6OneStoneBreaksBone = {
   story: "rock-falls-everyone-dies",
   position: 6,
   ownLength: 2037,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1094460/chapter-6-one-stone-breaks-bone",

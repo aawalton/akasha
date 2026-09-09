@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0108Chapter638Overwhelming = {
   story: "story-read/rise-of-the-living-forge",
   position: 108,
   ownLength: 1933,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3863530/chapter-638-overwhelming",

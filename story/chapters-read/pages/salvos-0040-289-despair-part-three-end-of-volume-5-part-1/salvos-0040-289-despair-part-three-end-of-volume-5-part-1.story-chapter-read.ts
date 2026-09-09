@@ -8,7 +8,7 @@ export const salvos0040289DespairPartThreeEndOfVolume5Part1 = {
   story: "story-read/salvos",
   position: 40,
   ownLength: 3094,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/852624/289-despair-part-three-end-of-volume-5-part-1",

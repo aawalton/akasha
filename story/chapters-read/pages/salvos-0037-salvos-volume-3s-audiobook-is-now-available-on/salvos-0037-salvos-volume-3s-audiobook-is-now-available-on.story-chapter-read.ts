@@ -8,7 +8,7 @@ export const salvos0037SalvosVolume3sAudiobookIsNowAvailableOn = {
   story: "story-read/salvos",
   position: 37,
   ownLength: 85,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/846299/salvos-volume-3s-audiobook-is-now-available-on",

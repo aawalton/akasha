@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0146Chapter579ItSOlive = {
   story: "story-read/rise-of-the-living-forge",
   position: 146,
   ownLength: 1847,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3195933/chapter-579-its-olive",

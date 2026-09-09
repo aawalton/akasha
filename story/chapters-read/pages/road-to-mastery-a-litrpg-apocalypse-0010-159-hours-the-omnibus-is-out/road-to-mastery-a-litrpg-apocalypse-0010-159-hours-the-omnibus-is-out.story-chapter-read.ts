@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0010159HoursTheOmnibusIsOut = {
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 10,
   ownLength: 64,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/3866951/159-hours-the-omnibus-is-out",

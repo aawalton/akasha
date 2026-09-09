@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0120Book5IsOutOnAmazon = {
   story: "story-read/rise-of-the-living-forge",
   position: 120,
   ownLength: 93,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3012119/book-5-is-out-on-amazon",

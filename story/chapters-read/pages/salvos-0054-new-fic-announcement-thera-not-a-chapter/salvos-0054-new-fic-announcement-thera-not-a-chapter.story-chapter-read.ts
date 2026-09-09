@@ -8,7 +8,7 @@ export const salvos0054NewFicAnnouncementTheraNotAChapter = {
   story: "story-read/salvos",
   position: 54,
   ownLength: 3175,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/955549/new-fic-announcement-thera-not-a-chapter",

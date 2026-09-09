@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0138Chapter571TheRightFeeling = {
   story: "story-read/rise-of-the-living-forge",
   position: 138,
   ownLength: 2218,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3136776/chapter-571-the-right-feeling",

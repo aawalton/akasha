@@ -8,7 +8,7 @@ export const salvos0018AWitchAndADemonWalkIntoA = {
   story: "story-read/salvos",
   position: 18,
   ownLength: 242,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/674514/a-witch-and-a-demon-walk-into-a",

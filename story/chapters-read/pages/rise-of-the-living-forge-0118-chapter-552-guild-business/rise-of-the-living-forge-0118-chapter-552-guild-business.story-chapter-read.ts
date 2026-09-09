@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0118Chapter552GuildBusiness = {
   story: "story-read/rise-of-the-living-forge",
   position: 118,
   ownLength: 1708,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3008769/chapter-552-guild-business",

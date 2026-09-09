@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0130Chapter563Alliance = {
   story: "story-read/rise-of-the-living-forge",
   position: 130,
   ownLength: 1645,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3087953/chapter-563-alliance",

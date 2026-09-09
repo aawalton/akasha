@@ -8,7 +8,7 @@ export const salvos0073517DisillusionPartOne = {
   story: "story-read/salvos",
   position: 73,
   ownLength: 2232,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1121580/517-disillusion-part-one",

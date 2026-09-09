@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0014Chapter13LonelyVoyage = {
   story: "rock-falls-everyone-dies",
   position: 14,
   ownLength: 2012,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1097810/chapter-13-lonely-voyage",

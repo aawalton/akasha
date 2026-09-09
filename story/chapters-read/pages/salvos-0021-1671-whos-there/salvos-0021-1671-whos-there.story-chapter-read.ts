@@ -8,7 +8,7 @@ export const salvos00211671WhosThere = {
   story: "story-read/salvos",
   position: 21,
   ownLength: 1055,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/735267/1671-whos-there",

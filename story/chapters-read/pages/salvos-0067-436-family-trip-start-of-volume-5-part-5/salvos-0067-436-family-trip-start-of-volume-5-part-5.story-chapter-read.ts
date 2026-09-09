@@ -8,7 +8,7 @@ export const salvos0067436FamilyTripStartOfVolume5Part5 = {
   story: "story-read/salvos",
   position: 67,
   ownLength: 2441,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1020109/436-family-trip-start-of-volume-5-part-5",

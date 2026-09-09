@@ -8,7 +8,7 @@ export const rockFallsEveryoneDies0001Chapter1ARollingStoneGathersNoMoss = {
   story: "rock-falls-everyone-dies",
   position: 1,
   ownLength: 1365,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/55418/rock-falls-everyone-dies/chapter/1083016/chapter-1-a-rolling-stone-gathers-no-moss",

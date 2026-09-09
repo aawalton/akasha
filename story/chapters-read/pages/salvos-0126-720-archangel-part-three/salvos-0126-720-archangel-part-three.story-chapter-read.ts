@@ -8,7 +8,7 @@ export const salvos0126720ArchangelPartThree = {
   story: "story-read/salvos",
   position: 126,
   ownLength: 1688,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1884722/720-archangel-part-three",

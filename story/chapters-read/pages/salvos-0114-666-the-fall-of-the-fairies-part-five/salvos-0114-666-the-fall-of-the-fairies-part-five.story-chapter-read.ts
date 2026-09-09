@@ -8,7 +8,7 @@ export const salvos0114666TheFallOfTheFairiesPartFive = {
   story: "story-read/salvos",
   position: 114,
   ownLength: 1786,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1570130/666-the-fall-of-the-fairies-part-five",

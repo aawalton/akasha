@@ -8,7 +8,7 @@ export const salvos0026170LilyTheFairy = {
   story: "story-read/salvos",
   position: 26,
   ownLength: 2189,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/736829/170-lily-the-fairy",

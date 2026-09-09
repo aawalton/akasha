@@ -8,7 +8,7 @@ export const salvos0079522ThePrimordial = {
   story: "story-read/salvos",
   position: 79,
   ownLength: 3333,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1144805/522-the-primordial",

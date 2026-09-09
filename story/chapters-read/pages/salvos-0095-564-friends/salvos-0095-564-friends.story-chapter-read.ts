@@ -8,7 +8,7 @@ export const salvos0095564Friends = {
   story: "story-read/salvos",
   position: 95,
   ownLength: 1833,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1249466/564-friends",

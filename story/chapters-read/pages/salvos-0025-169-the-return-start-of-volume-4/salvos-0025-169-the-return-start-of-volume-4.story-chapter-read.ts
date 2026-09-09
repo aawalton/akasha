@@ -8,7 +8,7 @@ export const salvos0025169TheReturnStartOfVolume4 = {
   story: "story-read/salvos",
   position: 25,
   ownLength: 2108,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/736412/169-the-return-start-of-volume-4",

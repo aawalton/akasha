@@ -6,7 +6,7 @@ export const riseOfTheLivingForge0117Chapter647TheQuest = {
   slug: "rise-of-the-living-forge-0117-chapter-647-the-quest",
   position: 117,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3934849",
   source: "royal-road",
   title: "Chapter 647: The Quest",

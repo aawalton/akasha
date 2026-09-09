@@ -8,7 +8,7 @@ export const salvos00241682NobodyEndOfV3 = {
   story: "story-read/salvos",
   position: 24,
   ownLength: 2003,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/735856/1682-nobody-end-of-v3",

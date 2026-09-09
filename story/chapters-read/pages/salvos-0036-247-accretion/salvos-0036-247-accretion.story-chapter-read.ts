@@ -8,7 +8,7 @@ export const salvos0036247Accretion = {
   story: "story-read/salvos",
   position: 36,
   ownLength: 1992,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/810684/247-accretion",

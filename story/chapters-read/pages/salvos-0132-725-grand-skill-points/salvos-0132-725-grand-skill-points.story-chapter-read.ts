@@ -8,7 +8,7 @@ export const salvos0132725GrandSkillPoints = {
   story: "story-read/salvos",
   position: 132,
   ownLength: 1504,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2185438/725-grand-skill-points",

@@ -8,7 +8,7 @@ export const salvos0117SalvosBook12LaunchOnAmazonReminderPublicIs = {
   story: "story-read/salvos",
   position: 117,
   ownLength: 156,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1578363/salvos-book-12-launch-on-amazon-reminder-public",

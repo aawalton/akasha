@@ -8,7 +8,7 @@ export const salvos0011100ContractEndOfVolume2 = {
   story: "story-read/salvos",
   position: 11,
   ownLength: 3627,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/665886/100-contract-end-of-volume-2",

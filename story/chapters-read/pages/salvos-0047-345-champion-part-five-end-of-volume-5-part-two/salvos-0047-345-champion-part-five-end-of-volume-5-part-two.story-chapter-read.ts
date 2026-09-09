@@ -8,7 +8,7 @@ export const salvos0047345ChampionPartFiveEndOfVolume5PartTwo = {
   story: "story-read/salvos",
   position: 47,
   ownLength: 2857,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/908833/345-champion-part-five-end-of-volume-5-part-two",

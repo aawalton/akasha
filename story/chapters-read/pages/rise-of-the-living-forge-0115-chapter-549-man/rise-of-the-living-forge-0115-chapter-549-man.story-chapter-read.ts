@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0115Chapter549Man = {
   story: "story-read/rise-of-the-living-forge",
   position: 115,
   ownLength: 1936,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/2984672/chapter-549-man",

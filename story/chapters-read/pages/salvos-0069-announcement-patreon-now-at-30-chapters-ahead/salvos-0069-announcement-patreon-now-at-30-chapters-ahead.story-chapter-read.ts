@@ -8,7 +8,7 @@ export const salvos0069AnnouncementPatreonNowAt30ChaptersAhead = {
   story: "story-read/salvos",
   position: 69,
   ownLength: 186,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1029959/announcement-patreon-now-at-30-chapters-ahead",

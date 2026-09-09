@@ -8,7 +8,7 @@ export const salvos0085ApparentlyIHaveASalvosWikiComicPreview = {
   story: "story-read/salvos",
   position: 85,
   ownLength: 43,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1211931/apparently-i-have-a-salvos-wiki-comic-preview",

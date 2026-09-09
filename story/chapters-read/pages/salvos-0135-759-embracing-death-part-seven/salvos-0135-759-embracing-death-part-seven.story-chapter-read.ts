@@ -8,7 +8,7 @@ export const salvos0135759EmbracingDeathPartSeven = {
   story: "story-read/salvos",
   position: 135,
   ownLength: 1701,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/2691839/759-embracing-death-part-seven",

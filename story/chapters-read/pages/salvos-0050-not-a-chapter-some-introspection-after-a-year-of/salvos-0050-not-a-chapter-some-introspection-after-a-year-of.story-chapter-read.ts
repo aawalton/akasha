@@ -8,7 +8,7 @@ export const salvos0050NotAChapterSomeIntrospectionAfterAYearOf = {
   story: "story-read/salvos",
   position: 50,
   ownLength: 1357,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/939533/not-a-chapter-some-introspection-after-a-year",

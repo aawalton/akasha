@@ -8,7 +8,7 @@ export const salvos00053LearningExperience = {
   story: "story-read/salvos",
   position: 5,
   ownLength: 2100,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/587965/3-learning-experience",

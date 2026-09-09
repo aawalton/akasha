@@ -8,7 +8,7 @@ export const riseOfTheLivingForge0176Chapter608FindOut = {
   story: "story-read/rise-of-the-living-forge",
   position: 176,
   ownLength: 1668,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/79094/rise-of-the-living-forge/chapter/3542515/chapter-608-find-out",

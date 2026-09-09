@@ -8,7 +8,7 @@ export const salvos0091562NewHorizonsEndOfBook10Tomorrow = {
   story: "story-read/salvos",
   position: 91,
   ownLength: 1521,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1219299/562-new-horizons-end-of-book-10-tomorrow",

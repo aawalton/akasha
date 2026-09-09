@@ -8,7 +8,7 @@ export const salvos0109661HonoredFairy = {
   story: "story-read/salvos",
   position: 109,
   ownLength: 2644,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1566500/661-honored-fairy",

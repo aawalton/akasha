@@ -8,7 +8,7 @@ export const salvos0092AfterOverTwoYearsTheSalvosWebcomicIs = {
   story: "story-read/salvos",
   position: 92,
   ownLength: 1,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1220460/after-over-two-years-the-salvos-webcomic-is-finally",

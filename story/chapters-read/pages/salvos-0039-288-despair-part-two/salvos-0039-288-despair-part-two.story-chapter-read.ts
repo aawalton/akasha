@@ -8,7 +8,7 @@ export const salvos0039288DespairPartTwo = {
   story: "story-read/salvos",
   position: 39,
   ownLength: 2143,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/851939/288-despair-part-two",

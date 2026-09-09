@@ -8,7 +8,7 @@ export const salvos0083526NetherworldDungeon = {
   story: "story-read/salvos",
   position: 83,
   ownLength: 1660,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1150293/526-netherworld-dungeon",

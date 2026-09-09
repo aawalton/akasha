@@ -8,7 +8,7 @@ export const salvos0001ArtGallery = {
   story: "story-read/salvos",
   position: 1,
   ownLength: 285,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink: "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/662170/art-gallery",
   externalId: "662170",

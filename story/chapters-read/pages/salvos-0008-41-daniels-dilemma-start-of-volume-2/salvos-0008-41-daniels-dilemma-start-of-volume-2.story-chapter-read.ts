@@ -8,7 +8,7 @@ export const salvos000841DanielsDilemmaStartOfVolume2 = {
   story: "story-read/salvos",
   position: 8,
   ownLength: 1828,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/619938/41-daniels-dilemma-start-of-volume-2",

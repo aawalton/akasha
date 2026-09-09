@@ -8,7 +8,7 @@ export const salvos0078521UniqueStartOfVolume6Part1book10 = {
   story: "story-read/salvos",
   position: 78,
   ownLength: 1622,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1143780/521-unique-start-of-volume-6-part-1book-10",

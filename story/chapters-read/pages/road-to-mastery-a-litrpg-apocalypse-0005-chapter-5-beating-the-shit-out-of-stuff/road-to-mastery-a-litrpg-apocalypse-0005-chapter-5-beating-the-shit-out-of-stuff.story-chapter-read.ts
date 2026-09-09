@@ -8,7 +8,7 @@ export const roadToMasteryALitrpgApocalypse0005Chapter5BeatingTheShitOutOfStuff 
   story: "road-to-mastery-a-litrpg-apocalypse",
   position: 5,
   ownLength: 2018,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/61041/road-to-mastery-a-litrpg-apocalypse/chapter/1042831/chapter-5-beating-the-shit-out-of-stuff",

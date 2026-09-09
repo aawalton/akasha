@@ -8,7 +8,7 @@ export const salvos0093SalvosBook10HasBeenTakenDownAndPublished = {
   story: "story-read/salvos",
   position: 93,
   ownLength: 147,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/37438/salvos-stubbed/chapter/1226794/salvos-book-10-has-been-taken-down-and-published",
