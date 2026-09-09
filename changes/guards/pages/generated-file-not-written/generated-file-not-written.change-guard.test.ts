@@ -21,6 +21,8 @@ const FOREIGN = "akasha/one/held.code-check.entries.jsonl"
 
 const PLAIN = "akasha/one/held.module.code.ts"
 
+const CARRIED = "akasha/two/held.module.entries.jsonl"
+
 const NO_SLUG = "no page property carries that slug"
 
 const ENTRIES: Value = {
@@ -55,6 +57,10 @@ function replacing(path: string): FileChange {
   return { kind: "replace", path, contentFrom: "one", contentTo: "two" }
 }
 
+function moving(from: string, to: string): FileChange {
+  return { kind: "move", pathFrom: from, pathTo: to }
+}
+
 function judgedIn(shadow: Shadow, edits: readonly FileChange[]): string | null {
   return generatedFileNotWritten({ said: stating(edits), shadow, before: worldOf({}) })
 }
@@ -65,6 +71,24 @@ function judged(edits: readonly FileChange[]): string | null {
 
 test("a change to the content of a file a generated property has is refused", () => {
   const why = judged([replacing(GENERATED)])
+
+  expect(why ?? "").toContain(`\`${GENERATED}\``)
+  expect(why ?? "").toContain("rather than by hand")
+})
+
+test("a file a generated property has carried onto that path travels with its page", () => {
+  expect(judged([moving(CARRIED, GENERATED), replacing(GENERATED)])).toBe(null)
+})
+
+test("that same change beside a move landing somewhere else is refused", () => {
+  const why = judged([moving(CARRIED, PLAIN), replacing(GENERATED)])
+
+  expect(why ?? "").toContain(`\`${GENERATED}\``)
+  expect(why ?? "").toContain("rather than by hand")
+})
+
+test("a file no generated property has carried onto that path is refused", () => {
+  const why = judged([moving(PLAIN, GENERATED), replacing(GENERATED)])
 
   expect(why ?? "").toContain(`\`${GENERATED}\``)
   expect(why ?? "").toContain("rather than by hand")

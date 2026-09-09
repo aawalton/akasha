@@ -46,6 +46,24 @@ export const generatedFileNotWritten = {
       statement: "The first path judged generated gives the reason.",
     },
     {
+      invariantKind: "departure",
+      statement: "A generated file travels with the page claiming that file.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A move in the answer carrying a generated file onto a path passes that path over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move onto that path from a path no generated property has passes nothing over.",
+    },
+    {
+      invariantKind: "gap",
+      statement:
+        "A move onto such a path answering no change of content is judged by nothing here.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads the index on disk.",
     },
