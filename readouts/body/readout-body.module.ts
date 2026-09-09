@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const readoutBody = {
   id: "01a05e63-1c18-7baa-a113-890ebfb04463",
   pageTypeSlug: "module",
+  type: "module",
   slug: "readout-body",
   definition: "the shape a reading takes on the wire to the surface drawing it",
   code: "ts",

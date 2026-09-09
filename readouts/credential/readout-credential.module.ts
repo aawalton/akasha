@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const readoutCredential = {
   id: "01a054d9-d41f-796f-a2ff-b2c0fa9863a0",
   pageTypeSlug: "module",
+  type: "module",
   slug: "readout-credential",
   definition: "what a readout route admits a caller on",
   code: "ts",

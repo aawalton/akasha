@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const readoutTier = {
   id: "01a05f42-92f5-7001-98d7-66166fa0b0f6",
   pageTypeSlug: "module",
+  type: "module",
   slug: "readout-tier",
   definition: "the rung a reading reaches on the scale it is read against",
   code: "ts",

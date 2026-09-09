@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const readoutRelay = {
   id: "01a05b53-8d89-70aa-a7f0-f32ee7eac52b",
   pageTypeSlug: "module",
+  type: "module",
   slug: "readout-relay",
   definition: "the reading carried from the machine that took it to the machine that shows it",
   code: "ts",

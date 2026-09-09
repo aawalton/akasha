@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const readoutNoneLeft = {
   id: "01a05b88-a4a3-76a2-abf1-db8351d2a5b7",
   pageTypeSlug: "module",
+  type: "module",
   slug: "readout-none-left",
   definition: "the words and emoji a readout page states for when nothing is left",
   code: "ts",

@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const readoutRing = {
   id: "01a05b1a-4c00-7000-9d21-6f0f1a3c7b40",
   pageTypeSlug: "module",
+  type: "module",
   slug: "readout-ring",
   definition: "a reading drawn in a browser as a ring colored by the rung it reached",
   code: "tsx",

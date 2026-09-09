@@ -3,6 +3,7 @@ import type { Module } from "@akasha/code/module"
 export const readoutServing = {
   id: "01a05bc9-a678-768f-ba6e-f91fdcf9ec6d",
   pageTypeSlug: "module",
+  type: "module",
   slug: "readout-serving",
   definition: "what a route answers when a caller asks for one readout's reading",
   code: "ts",
