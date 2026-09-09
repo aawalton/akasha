@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.ts"
 import type { IncludeInChildAggregates } from "./properties/include-in-child-aggregates.boolean-property.ts"
 import type { NodeType } from "./properties/node-type.text-property.ts"
 import type { UseAccentColor } from "./properties/use-accent-color.boolean-property.ts"

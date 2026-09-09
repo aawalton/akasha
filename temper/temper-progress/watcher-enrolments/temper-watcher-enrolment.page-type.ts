@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
+import type { TemperProgressThing } from "../things/temper-progress-thing.page-type.ts"
 import type { LastRunOutcome } from "./properties/last-run-outcome.text-property.ts"
 import type { Token } from "./properties/token.text-property.ts"
 import type { TokenCreatedAt } from "./properties/token-created-at.instant-property.ts"
