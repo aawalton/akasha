@@ -42,7 +42,7 @@ export default [
     "api/sms/webhook",
     "routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts"
   ),
-  route("api/sms/opt-in", "routes/api.sms.opt-in.ts"),
+  route("api/sms/opt-in", "routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.code.ts"),
   route(
     "api/spotify/callback",
     "routes/alan-web-api-spotify-callback/alan-web-api-spotify-callback.route.code.ts"
@@ -106,7 +106,10 @@ export default [
     "api/device-secret/admission",
     "routes/device-secret-admission/device-secret-admission.route.code.ts"
   ),
-  route("api/device-secret/mint", "routes/api.device-secret.mint.ts"),
+  route(
+    "api/device-secret/mint",
+    "routes/alan-web-api-device-secret-mint/alan-web-api-device-secret-mint.route.code.ts"
+  ),
   route(
     "api/device-secret/revoke",
     "routes/alan-web-api-device-secret-revoke/alan-web-api-device-secret-revoke.route.code.ts"

@@ -1,7 +1,6 @@
 import { z } from "zod"
-import { capacitorCorsHeaders } from "../capacitor-cors/capacitor-cors.module.code.ts"
-import { unwritten } from "../pages-unheld/pages-unheld.module.code.ts"
-import type { Route } from "./+types/api.sms.opt-in"
+import { capacitorCorsHeaders } from "../../capacitor-cors/capacitor-cors.module.code.ts"
+import { unwritten } from "../../pages-unheld/pages-unheld.module.code.ts"
 
 const CORS_METHODS = "POST, OPTIONS"
 
@@ -26,7 +25,7 @@ function toE164Us(raw: string): string | null {
   return digits.length === 10 ? `+1${digits}` : null
 }
 
-export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
+export async function loader({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   if (request.method === "OPTIONS") {
     return new Response(null, { status: 204, headers: cors })
@@ -34,7 +33,7 @@ export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
   return Response.json({ error: "Method not allowed" }, { status: 405, headers: cors })
 }
 
-export async function action({ request }: Route.ActionArgs): Promise<Response> {
+export async function action({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   if (request.method !== "POST") {
     return Response.json({ error: "Method not allowed" }, { status: 405, headers: cors })
@@ -71,14 +70,6 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     )
   }
 
-  // A CONSENT THAT WENT UNRECORDED IS NEVER ANSWERED `{ok: true}`. This wrote an `sms-consent`
-  // page — the name, the number, the text version agreed to, the moment, the address and the
-  // agent it came from — through `@shared/pages-query`, into this pod's own checkout. That reach
-  // is severed, and `sms-consent` is no page type the pages system service holds.
-  //
-  // The consent page is the record that this person said yes, and it is the record the carrier
-  // asks for. Answering `{ok: true}` would tell the visitor they are signed up and leave nothing
-  // behind saying they ever agreed, which is the one failure here that reaches past this app.
   const named = consentNamed(e164, new Date().toISOString())
   const why = unwritten(CONSENT_PAGE_TYPE_SLUG, `the consent named \`${named}\``)
   return Response.json(
