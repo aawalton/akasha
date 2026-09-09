@@ -319,3 +319,12 @@ test("a page type declaring a file property group holds every member of that gro
 test("a page type that is a file property group holds nothing of its own in a file", () => {
   expect([...(filePropertiesIn(GROUPED).get("module-property-group") ?? [])]).toEqual([])
 })
+
+test("a group's own key names no file, and each member of it names one", () => {
+  expect([...fileKeysIn(GROUPED)]).toEqual([
+    ["code", null],
+    ["test", null],
+    ["audit.code", null],
+    ["audit.test", null],
+  ])
+})

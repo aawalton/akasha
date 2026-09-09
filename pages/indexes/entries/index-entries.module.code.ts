@@ -99,9 +99,28 @@ function typesIn(given: string | Reading): ReadonlyMap<string, Value> {
   return typesAmong(typeValuesIn(given, among), among)
 }
 
+function keyedBy(
+  key: string,
+  said: string | null,
+  types: ReadonlyMap<string, Value>,
+  properties: ReadonlyMap<string, Held>,
+  above: ReadonlyMap<string, readonly string[]>,
+  found: Map<string, string | null>
+): undefined {
+  const beside = besidesIn(above)
+  for (const one of statedIn(said ?? "", types, properties, bareAmong(properties), above)) {
+    if (one.hit.fileName === null && !beside(one.hit.pageTypeSlug)) continue
+    found.set(`${key}.${one.hit.propertySlug}`, one.hit.fileName)
+  }
+}
+
 export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string | null> {
   const held = [...values]
-  const beside = besidesIn(aboveIn(typesAmong(held)))
+  const types = typesAmong(held)
+  const above = aboveIn(types)
+  const beside = besidesIn(above)
+  const grouped = reachingIn(above, GROUP)
+  const properties = propertiesAmong(held)
   const found = new Map<string, string | null>()
   for (const value of held) {
     const key = textAt(value, "propertySlug")
@@ -111,7 +130,12 @@ export function fileKeysIn(values: Iterable<Value>): ReadonlyMap<string, string 
       found.set(key, fileName)
       continue
     }
-    if (beside(textAt(value, "type") ?? textAt(value, "pageTypeSlug"))) found.set(key, null)
+    const said = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+    if (said !== null && grouped(said)) {
+      keyedBy(key, said, types, properties, above, found)
+      continue
+    }
+    if (beside(said)) found.set(key, null)
   }
   return found
 }
@@ -150,11 +174,17 @@ export function schemaAt(given: string | Reading): ReadonlyMap<string, Schema> {
 
 export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string | null> {
   return answered(given, "", "which keys any page type holds in a file", (reading) => {
-    const beside = besidesIn(aboveIn(typesIn(reading)))
+    const types = typesIn(reading)
+    const above = aboveIn(types)
+    const beside = besidesIn(above)
+    const grouped = reachingIn(above, GROUP)
+    const properties = schemaAt(reading)
     const found = new Map<string, string | null>()
-    for (const held of schemaAt(reading).values()) {
+    for (const held of properties.values()) {
       if (held.fileName !== null) found.set(held.propertySlug, held.fileName)
-      else if (beside(held.pageTypeSlug)) found.set(held.propertySlug, null)
+      else if (grouped(held.pageTypeSlug)) {
+        keyedBy(held.propertySlug, held.pageTypeSlug, types, properties, above, found)
+      } else if (beside(held.pageTypeSlug)) found.set(held.propertySlug, null)
     }
     return found
   })

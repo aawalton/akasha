@@ -84,6 +84,14 @@ export const indexEntries = {
     },
     {
       invariantKind: "departure",
+      statement: "The keys any page type holds in a file have each member under that same key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group's own key is among them nowhere, no file being held under it.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type that is a file property group holds nothing of its own in a file.",
     },
   ],
