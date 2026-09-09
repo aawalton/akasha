@@ -1,5 +1,5 @@
 import geistSansWoff2 from "@fontsource-variable/geist/files/geist-latin-wght-normal.woff2?url"
-import "./temper-web-look/temper-web-look.stylesheet.styles.css"
+import "./look/temper-web-look.stylesheet.styles.css"
 import "./temper-declared-effects/temper-declared-effects.module.code.ts"
 import {
   type LayoutLinkProps,
