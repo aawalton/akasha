@@ -1,6 +1,6 @@
+import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
 import { transformSkillMorphProgress } from "akasha/temper/skill-morphs-access/character-skill-morph-transform/character-skill-morph-transform.module.code.ts"
 import { ESO_SKILL_LINE_ID_TO_SKILL_LINE_ID } from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
-import type { CharacterSkillMorphProgress } from "akasha/temper/temper-skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
 import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "../completion-measured/completion-measured.module.code.ts"

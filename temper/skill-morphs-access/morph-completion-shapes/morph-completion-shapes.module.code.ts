@@ -1,4 +1,4 @@
-import type { MorphSkillLineProgressMap } from "akasha/temper/temper-skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import type { MorphSkillLineProgressMap } from "akasha/temper/skill-morphs/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 
 export interface MorphCharacterCompletion {
   classId?: number | null

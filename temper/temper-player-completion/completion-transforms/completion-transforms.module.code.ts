@@ -1,8 +1,8 @@
+import type { CharacterSkillMorphProgress } from "akasha/temper/skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
   ESO_RACE_ID_TO_RACE_ID,
 } from "akasha/temper/skill-morphs-access/eso-id-helpers/eso-id-helpers.module.code.ts"
-import type { CharacterSkillMorphProgress } from "akasha/temper/temper-skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
 import { transformAccountLoreUnion } from "../completion-account-lore-union/completion-account-lore-union.module.code.ts"
 import type { CompletionCharacterRow } from "../completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "../completion-measured/completion-measured.module.code.ts"

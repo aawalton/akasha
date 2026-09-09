@@ -1,3 +1,8 @@
+import { areConflictingMorphs } from "akasha/temper/skill-morphs/morph-conflict/morph-conflict.module.code.ts"
+import {
+  type CategoryData,
+  organizeSkills,
+} from "akasha/temper/skill-morphs/skill-organization/skill-organization.module.code.ts"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import type {
   Skill,
@@ -5,11 +10,6 @@ import type {
 } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
 import { findSkillById } from "akasha/temper/temper-character-skills/find-skill-by-id/find-skill-by-id.module.code.ts"
 import { filterSkillsForBar } from "akasha/temper/temper-character-skills/skill-bar-filtering/skill-bar-filtering.module.code.ts"
-import { areConflictingMorphs } from "akasha/temper/temper-skill-morphs/morph-conflict/morph-conflict.module.code.ts"
-import {
-  type CategoryData,
-  organizeSkills,
-} from "akasha/temper/temper-skill-morphs/skill-organization/skill-organization.module.code.ts"
 import { useMemo, useState } from "react"
 import { keysOf } from "../../formula-framework/record-parts/record-parts.module.code.ts"
 import type { SkillSlotId } from "../../skill-kinds/skill-slots/skill-slots.module.code.ts"

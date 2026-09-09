@@ -1,5 +1,5 @@
-import { computeCharacterMorphProgress } from "akasha/temper/temper-skill-morphs/character-morph-progress/character-morph-progress.module.code.ts"
-import { morphableSkillsByLine } from "akasha/temper/temper-skill-morphs/morphable-skills/morphable-skills.module.code.ts"
+import { computeCharacterMorphProgress } from "akasha/temper/skill-morphs/character-morph-progress/character-morph-progress.module.code.ts"
+import { morphableSkillsByLine } from "akasha/temper/skill-morphs/morphable-skills/morphable-skills.module.code.ts"
 import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import {
   ESO_CLASS_ID_TO_CLASS_ID,
