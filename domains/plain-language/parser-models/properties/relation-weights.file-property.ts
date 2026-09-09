@@ -8,6 +8,8 @@ export const relationWeights = {
   slug: "relation-weights",
   propertySlug: "relation-weights",
   definition: "the trained graph saying what one word is to the word it hangs off",
+  generated: true,
+  runsFileLength: false,
   invariants: [
     {
       invariantKind: "departure",
