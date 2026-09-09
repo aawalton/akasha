@@ -80,29 +80,29 @@ function statementIn(node: ts.ObjectLiteralExpression): ts.Expression | null {
 
 export function statementsIn(path: string, text: string): readonly Stated[] {
   const source = parsedAs(path, text)
-  const found: Stated[] = []
+  const every: Stated[] = []
   const walk = (node: ts.Node): undefined => {
     if (ts.isObjectLiteralExpression(node)) {
       const held = statementIn(node)
       if (held !== null) {
         const said = joinedIn(held)
-        if (said !== null) found.push({ line: lineOf(source, held), text: said })
+        if (said !== null) every.push({ line: lineOf(source, held), text: said })
       }
     }
     ts.forEachChild(node, walk)
   }
   ts.forEachChild(source, walk)
-  return found
+  return every
 }
 
 export function splitAt(one: Stated): Split | null {
   const said = scanned(one.text)
   const why = WHY.exec(said)
-  const join = JOIN.exec(said)
+  const joined = JOIN.exec(said)
   const two = TWO.exec(said)
   const every: readonly (readonly [number, Shape, string])[] = [
     why === null ? null : ([why.index, "why", why[0]] as const),
-    join === null ? null : ([join.index, "join", join[0]] as const),
+    joined === null ? null : ([joined.index, "join", joined[0]] as const),
     two === null ? null : ([two.index + 1, "two", "."] as const),
   ].filter((held) => held !== null)
   let best: readonly [number, Shape, string] | null = null
@@ -144,16 +144,16 @@ function exportedAs(slug: string): string {
 const REFUSED = new WeakMap<Answering, Promise<readonly Refused[]>>()
 
 async function refusedFrom(root: string, index: Answering): Promise<readonly Refused[]> {
-  const found: Refused[] = []
+  const every: Refused[] = []
   for (const shape of shapesIn(index)) {
     if (shape.allowed !== false) continue
     const at = join(root, `${shape.path.slice(0, -PAGE_ENDING.length)}${CODE_ENDING}`)
     const held = (await import(at)) as Record<string, unknown>
     const run = held[exportedAs(shape.slug)]
     if (typeof run !== "function") continue
-    found.push({ slug: shape.slug, reason: shape.reason, run: run as ShapePredicate })
+    every.push({ slug: shape.slug, reason: shape.reason, run: run as ShapePredicate })
   }
-  return found
+  return every
 }
 
 function refusedIn(root: string, index: Answering): Promise<readonly Refused[]> {
