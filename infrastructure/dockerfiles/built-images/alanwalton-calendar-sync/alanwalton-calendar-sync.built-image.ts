@@ -7,5 +7,5 @@ export const alanwaltonCalendarSync = {
   slug: "alanwalton-calendar-sync",
   definition: "the image the calendar sync runs in",
   kind: "bun-service",
-  folder: "akasha/calendar-sync",
+  folder: "alan/harness/calendar-sync",
 } as const satisfies BuiltImage
