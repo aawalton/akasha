@@ -6,6 +6,7 @@ export const seatPending = {
   slug: "seat-pending",
   definition: "the four verdicts a seat's pendency is read as, and what decides between them",
   code: "ts",
+  parts: ["module/pending-from-files", "module/pending-maintaining"],
   invariants: [
     {
       invariantKind: "departure",
