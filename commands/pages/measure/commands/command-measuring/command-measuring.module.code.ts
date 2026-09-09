@@ -13,7 +13,7 @@ import {
   totalOf,
   underRan,
   withinOf,
-} from "../../pages/measure/checks/check-measuring/check-measuring.module.code.ts"
+} from "../../checks/check-measuring/check-measuring.module.code.ts"
 
 export const COMMAND = "command"
 
