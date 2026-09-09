@@ -14,7 +14,7 @@ import {
   addResponseSchema,
   type PlaceCandidate,
   searchResponseSchema,
-} from "../place-candidate/place-candidate.module.code.ts"
+} from "../../place-candidate/place-candidate.module.code.ts"
 
 export function meta() {
   return [{ title: "Search places — Atlas" }]

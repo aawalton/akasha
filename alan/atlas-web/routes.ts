@@ -3,7 +3,7 @@ import { index, layout, type RouteConfig, route } from "@react-router/dev/routes
 export default [
   layout("routes/_app-layout.tsx", [
     index("routes/atlas-home/atlas-home.route.code.tsx"),
-    route("search", "routes/search.tsx"),
+    route("search", "routes/atlas-search/atlas-search.route.code.tsx"),
     route("map", "routes/atlas-map/atlas-map.route.code.tsx"),
     route("trip/:tripParam", "routes/atlas-trip/atlas-trip.route.code.tsx"),
     route(
