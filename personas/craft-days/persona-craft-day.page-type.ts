@@ -5,7 +5,7 @@ import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Icon } from "../../temper/temper-things/properties/icon.text-property.ts"
 import type { ValueSlug } from "../properties/value-slug.text-property.ts"
 import type { AdvanceCount } from "./properties/advance-count.number-property.ts"
-import type { CraftDayPersonaSlug } from "./properties/craft-day-persona-slug.relation-property.ts"
+import type { CraftDayPersona } from "./properties/craft-day-persona.relation-property.ts"
 import type { GreenDay } from "./properties/green-day.number-property.ts"
 import type { ImprovementCount } from "./properties/improvement-count.number-property.ts"
 import type { NewPersonaCount } from "./properties/new-persona-count.number-property.ts"
@@ -13,7 +13,7 @@ import type { PersonasCrafted } from "./properties/personas-crafted.relation-pro
 
 export type PersonaCraftDay = Page & {
   title: Title
-  personaSlug: CraftDayPersonaSlug
+  persona: CraftDayPersona
   date: TrackedDate
   valueSlug: ValueSlug
   icon?: Icon
@@ -36,12 +36,12 @@ export const personaCraftDay = {
     "number-property/green-day",
     "number-property/improvement-count",
     "number-property/new-persona-count",
-    "relation-property/craft-day-persona-slug",
+    "relation-property/craft-day-persona",
     "relation-property/personas-crafted",
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "relation-property/craft-day-persona-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/craft-day-persona", required: true, many: false },
     { pagePropertySlug: "text-property/date", required: true, many: false },
     { pagePropertySlug: "text-property/value-slug", required: true, many: false },
     { pagePropertySlug: "text-property/icon", required: false, many: false },
