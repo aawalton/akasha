@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const annalsOfAmericaVolume2 = {
   id: "019db533-f39d-7b95-a253-e09878f82705",
   pageTypeSlug: "book",
+  type: "book",
   slug: "annals-of-america-volume-2",
   title: "Annals of America Volume 2",
   status: "paused",

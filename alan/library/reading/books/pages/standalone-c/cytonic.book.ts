@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const cytonic = {
   id: "019db533-f39c-7f6c-8542-d6c871039189",
   pageTypeSlug: "book",
+  type: "book",
   slug: "cytonic",
   title: "Cytonic",
   status: "completed",

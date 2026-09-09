@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const ameliaAmeliaTheLevelZeroHeroBook1 = {
   id: "019db533-f390-76fe-bdb3-e4b6a6926f2a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "amelia-amelia-the-level-zero-hero-book-1",
   title: "Amelia: Amelia The Level Zero Hero Book 1",
   status: "not-started",

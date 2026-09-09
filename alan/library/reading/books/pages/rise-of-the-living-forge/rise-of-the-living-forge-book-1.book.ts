@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const riseOfTheLivingForgeBook1 = {
   id: "019db533-f391-74fe-8b7c-1877ad948a75",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rise-of-the-living-forge-book-1",
   title: "Rise of the Living Forge",
   status: "completed",

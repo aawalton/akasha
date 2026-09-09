@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const autobiographyOfBenjaminFranklin = {
   id: "019db533-f39d-7b32-b023-e872a39d6f3f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "autobiography-of-benjamin-franklin",
   title: "Autobiography of Benjamin Franklin",
   status: "completed",

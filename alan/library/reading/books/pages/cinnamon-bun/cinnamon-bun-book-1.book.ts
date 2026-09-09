@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const cinnamonBunBook1 = {
   id: "019db533-f390-7bd7-86a1-3ce90b64f679",
   pageTypeSlug: "book",
+  type: "book",
   slug: "cinnamon-bun-book-1",
   title: "Cinnamon Bun",
   status: "not-started",

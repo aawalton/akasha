@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const chrysalisUppingTheAnte = {
   id: "019db533-f390-7abb-8188-29e45d87a598",
   pageTypeSlug: "book",
+  type: "book",
   slug: "chrysalis-upping-the-ante",
   title: "Chrysalis: Upping the Ante",
   status: "completed",

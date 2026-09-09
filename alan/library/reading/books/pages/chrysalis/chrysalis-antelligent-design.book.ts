@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const chrysalisAntelligentDesign = {
   id: "019db533-f390-7b8b-a74e-30578550a84d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "chrysalis-antelligent-design",
   title: "Chrysalis: Antelligent Design",
   status: "completed",

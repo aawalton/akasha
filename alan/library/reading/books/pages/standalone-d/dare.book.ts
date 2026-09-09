@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const dare = {
   id: "019db533-f39e-7235-812f-a647d9d0df34",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dare",
   title: "Dare",
   status: "not-started",

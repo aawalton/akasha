@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const chalionTheCurseOfChalion = {
   id: "019db533-f39a-7aa1-85ca-006797d633bc",
   pageTypeSlug: "book",
+  type: "book",
   slug: "chalion-the-curse-of-chalion",
   title: "Chalion: The Curse of Chalion",
   status: "not-started",

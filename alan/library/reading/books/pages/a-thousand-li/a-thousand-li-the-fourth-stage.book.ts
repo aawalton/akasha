@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const aThousandLiTheFourthStage = {
   id: "019db533-f390-75bf-a9eb-b537186f10e2",
   pageTypeSlug: "book",
+  type: "book",
   slug: "a-thousand-li-the-fourth-stage",
   title: "A Thousand Li: the Fourth Stage",
   status: "completed",

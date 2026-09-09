@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const riseOfTheDevourerAbyssalRift = {
   id: "019db533-f391-74f2-8dfd-931a0759ffab",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rise-of-the-devourer-abyssal-rift",
   title: "Rise of the Devourer: Abyssal Rift",
   status: "not-started",

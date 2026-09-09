@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const somniaOnlineFusion = {
   id: "019db533-f391-7636-a343-f2395ea89f86",
   pageTypeSlug: "book",
+  type: "book",
   slug: "somnia-online-fusion",
   title: "Somnia Online: Fusion",
   status: "completed",

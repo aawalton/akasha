@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theBadGuysWarOfThePosers = {
   id: "019db533-f391-77ad-bb9c-fabfbf234620",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-bad-guys-war-of-the-posers",
   title: "The Bad Guys: War of the Posers",
   status: "completed",

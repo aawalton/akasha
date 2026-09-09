@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const bastilleVsTheEvilLibrarians = {
   id: "019db533-f39d-7308-afbc-169c56e8c4f8",
   pageTypeSlug: "book",
+  type: "book",
   slug: "bastille-vs-the-evil-librarians",
   title: "Bastille vs the Evil Librarians",
   status: "completed",

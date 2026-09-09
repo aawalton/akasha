@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const salvosSacrifices = {
   id: "019db533-f391-7595-b938-9a457a50c2ba",
   pageTypeSlug: "book",
+  type: "book",
   slug: "salvos-sacrifices",
   title: "Salvos: Sacrifices",
   status: "not-started",

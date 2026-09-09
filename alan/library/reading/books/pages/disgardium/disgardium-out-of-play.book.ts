@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const disgardiumOutOfPlay = {
   id: "019db533-f390-7d83-9613-6512bbdb2426",
   pageTypeSlug: "book",
+  type: "book",
   slug: "disgardium-out-of-play",
   title: "Disgardium: Out of Play",
   status: "not-started",

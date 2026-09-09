@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const markOfTheCrijikTheBurningLake = {
   id: "019db533-f391-71a4-8f63-b2aa7ef4224d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "mark-of-the-crijik-the-burning-lake",
   title: "Mark of the Crijik: The Burning Lake",
   status: "not-started",

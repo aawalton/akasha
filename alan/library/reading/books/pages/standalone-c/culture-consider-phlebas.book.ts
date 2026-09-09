@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const cultureConsiderPhlebas = {
   id: "019db533-f39b-72db-bcfe-6bd2995ea7a1",
   pageTypeSlug: "book",
+  type: "book",
   slug: "culture-consider-phlebas",
   title: "Culture: Consider Phlebas",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const riseOfTheDevourerDragonsHeart = {
   id: "019db533-f391-74b5-bc94-1deecd202eeb",
   pageTypeSlug: "book",
+  type: "book",
   slug: "rise-of-the-devourer-dragons-heart",
   title: "Rise of the Devourer: Dragon's Heart",
   status: "not-started",

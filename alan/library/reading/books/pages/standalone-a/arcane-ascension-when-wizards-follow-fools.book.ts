@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const arcaneAscensionWhenWizardsFollowFools = {
   id: "019db533-f38a-73e4-8b26-32077612b1b4",
   pageTypeSlug: "book",
+  type: "book",
   slug: "arcane-ascension-when-wizards-follow-fools",
   title: "Arcane Ascension: When Wizards Follow Fools",
   status: "not-started",

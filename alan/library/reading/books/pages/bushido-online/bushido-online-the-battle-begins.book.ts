@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const bushidoOnlineTheBattleBegins = {
   id: "019db533-f390-7a51-8036-812d4322c92c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "bushido-online-the-battle-begins",
   title: "Bushido Online: the Battle Begins",
   status: "completed",

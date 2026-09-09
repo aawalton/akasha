@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theCompletionistChroniclesUntapped = {
   id: "019db533-f391-7844-acc0-be95b6009cbe",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-completionist-chronicles-untapped",
   title: "The Completionist Chronicles: Untapped",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const motherOfLearning2 = {
   id: "019db533-f391-7345-80a0-57509c56012e",
   pageTypeSlug: "book",
+  type: "book",
   slug: "mother-of-learning-2",
   title: "Mother of Learning 2",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theBadGuysScampsAndScoundrels = {
   id: "019db533-f391-77d8-a847-714dc992214c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-bad-guys-scamps-and-scoundrels",
   title: "The Bad Guys: Scamps & Scoundrels",
   status: "completed",

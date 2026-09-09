@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const alteredRealmsAscension = {
   id: "019db533-f390-76d0-a4ef-6d553e4f354f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "altered-realms-ascension",
   title: "Altered Realms: Ascension",
   status: "not-started",

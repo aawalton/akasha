@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const rebornAsADemonicTree4 = {
   id: "019db533-f391-747b-8d90-d83b73cd7129",
   pageTypeSlug: "book",
+  type: "book",
   slug: "reborn-as-a-demonic-tree-4",
   title: "Reborn as a Demonic Tree 4",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theBadGuysDarktownFunk = {
   id: "019db533-f391-7793-81c4-9780b53dc82f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-bad-guys-darktown-funk",
   title: "The Bad Guys: Darktown Funk",
   status: "not-started",

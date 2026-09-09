@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theCalamitousBobCasusBelle = {
   id: "019db533-f391-77e9-8bf3-73824a49ce08",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-calamitous-bob-casus-belle",
   title: "The Calamitous Bob: Casus Belle",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const cultureLookToWindward = {
   id: "019db533-f39a-7e54-bf12-d4d60e1734bf",
   pageTypeSlug: "book",
+  type: "book",
   slug: "culture-look-to-windward",
   title: "Culture: Look to Windward",
   status: "not-started",

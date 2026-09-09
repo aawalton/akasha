@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const somniaOnlineDissonance = {
   id: "019db533-f391-7616-8a0c-caa837288d32",
   pageTypeSlug: "book",
+  type: "book",
   slug: "somnia-online-dissonance",
   title: "Somnia Online: Dissonance",
   status: "completed",

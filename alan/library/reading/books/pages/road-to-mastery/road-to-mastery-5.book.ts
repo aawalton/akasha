@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const roadToMastery5 = {
   id: "019db533-f391-7519-99fb-f2350dfee42f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "road-to-mastery-5",
   title: "Road to Mastery 5",
   status: "completed",

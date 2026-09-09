@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const melodyOfMana3 = {
   id: "019db533-f391-72a3-b9ac-9e08c20c6cab",
   pageTypeSlug: "book",
+  type: "book",
   slug: "melody-of-mana-3",
   title: "Melody of Mana 3",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const beneathTheDragoneyeMoonsMandateOfHeaven = {
   id: "019db533-f390-797b-b732-cbdd577487cc",
   pageTypeSlug: "book",
+  type: "book",
   slug: "beneath-the-dragoneye-moons-mandate-of-heaven",
   title: "Beneath the Dragoneye Moons: Mandate of Heaven",
   status: "completed",

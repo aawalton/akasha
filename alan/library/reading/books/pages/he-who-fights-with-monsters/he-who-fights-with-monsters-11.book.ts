@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const heWhoFightsWithMonsters11 = {
   id: "019db533-f391-703c-88d9-cae186801bde",
   pageTypeSlug: "book",
+  type: "book",
   slug: "he-who-fights-with-monsters-11",
   title: "He Who Fights with Monsters 11",
   status: "completed",

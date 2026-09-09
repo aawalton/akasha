@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theCalamitousBobTheLeagueOfLesserEvil = {
   id: "019db533-f391-77f1-b937-4023f725cd39",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-calamitous-bob-the-league-of-lesser-evil",
   title: "The Calamitous Bob: The League of Lesser Evil",
   status: "completed",

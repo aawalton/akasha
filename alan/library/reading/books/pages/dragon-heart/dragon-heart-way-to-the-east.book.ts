@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const dragonHeartWayToTheEast = {
   id: "019db533-f390-7e23-bcb7-b53f1221e9ad",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dragon-heart-way-to-the-east",
   title: "Dragon Heart: Way To The East",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const markOfTheFool3 = {
   id: "019db533-f391-7217-847e-341218f1e873",
   pageTypeSlug: "book",
+  type: "book",
   slug: "mark-of-the-fool-3",
   title: "Mark of the Fool 3",
   status: "completed",

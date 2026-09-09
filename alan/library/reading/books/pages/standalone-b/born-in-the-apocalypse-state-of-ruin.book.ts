@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const bornInTheApocalypseStateOfRuin = {
   id: "019db533-f390-7a46-95a1-654cb6fc337e",
   pageTypeSlug: "book",
+  type: "book",
   slug: "born-in-the-apocalypse-state-of-ruin",
   title: "Born in the Apocalypse: State Of Ruin",
   status: "not-started",

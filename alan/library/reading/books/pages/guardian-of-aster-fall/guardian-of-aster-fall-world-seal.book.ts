@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const guardianOfAsterFallWorldSeal = {
   id: "019db533-f391-700e-b419-0b766ec2e076",
   pageTypeSlug: "book",
+  type: "book",
   slug: "guardian-of-aster-fall-world-seal",
   title: "Guardian of Aster Fall: World Seal",
   status: "completed",

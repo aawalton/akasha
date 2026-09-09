@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const beneathTheDragoneyeMoonsOathboundHealer = {
   id: "019db533-f390-79f5-9a2c-e3fe2fa334f5",
   pageTypeSlug: "book",
+  type: "book",
   slug: "beneath-the-dragoneye-moons-oathbound-healer",
   title: "Beneath the Dragoneye Moons: Oathbound Healer",
   status: "completed",

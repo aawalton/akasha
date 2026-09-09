@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const dragonHeartPathToTheUnknown = {
   id: "019db533-f390-7e52-b6cb-06dc0eb5a2b0",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dragon-heart-path-to-the-unknown",
   title: "Dragon Heart: Path to the Unknown",
   status: "completed",

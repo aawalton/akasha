@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const awakenOnlineUnity = {
   id: "019db533-f390-7873-b33d-d2c5fabb5486",
   pageTypeSlug: "book",
+  type: "book",
   slug: "awaken-online-unity",
   title: "Awaken Online: Unity",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const anOutcastInAnotherWorldBook1 = {
   id: "019db533-f390-7751-93b5-72351f79757c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "an-outcast-in-another-world-book-1",
   title: "An Outcast In Another World",
   status: "completed",

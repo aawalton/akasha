@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const disgardiumClassAThreat = {
   id: "019db533-f390-7dbe-a698-1bd76c55ed7f",
   pageTypeSlug: "book",
+  type: "book",
   slug: "disgardium-class-a-threat",
   title: "Disgardium: Class-A Threat",
   status: "completed",

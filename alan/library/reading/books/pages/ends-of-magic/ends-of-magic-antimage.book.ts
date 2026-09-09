@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const endsOfMagicAntimage = {
   id: "019db533-f390-7f88-a945-dcadae075e1a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "ends-of-magic-antimage",
   title: "Ends of Magic: Antimage",
   status: "completed",

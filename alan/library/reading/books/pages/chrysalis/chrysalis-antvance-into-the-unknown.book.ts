@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const chrysalisAntvanceIntoTheUnknown = {
   id: "019db533-f390-7ace-a470-63bdd27ac423",
   pageTypeSlug: "book",
+  type: "book",
   slug: "chrysalis-antvance-into-the-unknown",
   title: "Chrysalis: Antvance into the Unknown",
   status: "completed",

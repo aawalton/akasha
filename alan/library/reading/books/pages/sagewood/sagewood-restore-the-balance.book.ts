@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const sagewoodRestoreTheBalance = {
   id: "019db533-f391-7573-9656-54dc412b8fb3",
   pageTypeSlug: "book",
+  type: "book",
   slug: "sagewood-restore-the-balance",
   title: "Sagewood: Restore the Balance",
   status: "not-started",

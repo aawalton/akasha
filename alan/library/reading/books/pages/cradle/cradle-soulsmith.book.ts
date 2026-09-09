@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const cradleSoulsmith = {
   id: "019db533-f390-7c57-9fd3-517a41011440",
   pageTypeSlug: "book",
+  type: "book",
   slug: "cradle-soulsmith",
   title: "Cradle: Soulsmith",
   status: "completed",

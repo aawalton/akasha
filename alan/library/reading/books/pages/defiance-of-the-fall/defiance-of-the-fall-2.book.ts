@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const defianceOfTheFall2 = {
   id: "019db533-f390-7d1b-91c4-1513fdee11fd",
   pageTypeSlug: "book",
+  type: "book",
   slug: "defiance-of-the-fall-2",
   title: "Defiance of the Fall 2",
   status: "completed",

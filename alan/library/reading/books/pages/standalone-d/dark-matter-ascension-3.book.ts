@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const darkMatterAscension3 = {
   id: "019db533-f390-7c6e-9f7c-c61135e365d8",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dark-matter-ascension-3",
   title: "Dark Matter Ascension 3",
   status: "not-started",

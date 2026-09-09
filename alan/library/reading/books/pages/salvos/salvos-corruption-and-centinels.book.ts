@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const salvosCorruptionAndCentinels = {
   id: "019db533-f391-7601-8786-aae9254d572d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "salvos-corruption-and-centinels",
   title: "Salvos: Corruption and Centinels",
   status: "not-started",

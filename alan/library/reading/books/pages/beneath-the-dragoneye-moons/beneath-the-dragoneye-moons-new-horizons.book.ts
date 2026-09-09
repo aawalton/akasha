@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const beneathTheDragoneyeMoonsNewHorizons = {
   id: "019db533-f390-798b-8243-057df7a2f269",
   pageTypeSlug: "book",
+  type: "book",
   slug: "beneath-the-dragoneye-moons-new-horizons",
   title: "Beneath the Dragoneye Moons: New Horizons",
   status: "completed",

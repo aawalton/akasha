@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theCompletionistChroniclesRexusSideQuest = {
   id: "019db533-f391-7866-8a4f-00e78341263b",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-completionist-chronicles-rexus-side-quest",
   title: "The Completionist Chronicles: Rexus, Side Quest",
   status: "completed",

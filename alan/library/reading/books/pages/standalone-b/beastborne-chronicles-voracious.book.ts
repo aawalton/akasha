@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const beastborneChroniclesVoracious = {
   id: "019db533-f390-78fb-933f-b244e29405ec",
   pageTypeSlug: "book",
+  type: "book",
   slug: "beastborne-chronicles-voracious",
   title: "Beastborne Chronicles: Voracious",
   status: "completed",

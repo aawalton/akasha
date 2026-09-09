@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const levelingUpTheWorld3 = {
   id: "019db533-f391-7175-b75c-1912e7d3d47a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "leveling-up-the-world-3",
   title: "Leveling Up The World 3",
   status: "completed",

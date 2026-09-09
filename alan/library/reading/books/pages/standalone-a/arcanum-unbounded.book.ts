@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const arcanumUnbounded = {
   id: "019db533-f39d-75d7-980d-7c911c4e2de9",
   pageTypeSlug: "book",
+  type: "book",
   slug: "arcanum-unbounded",
   title: "Arcanum Unbounded",
   status: "not-started",

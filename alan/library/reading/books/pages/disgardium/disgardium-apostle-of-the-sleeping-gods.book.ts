@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const disgardiumApostleOfTheSleepingGods = {
   id: "019db533-f390-7dce-9613-098be15c6684",
   pageTypeSlug: "book",
+  type: "book",
   slug: "disgardium-apostle-of-the-sleeping-gods",
   title: "Disgardium: Apostle of the Sleeping Gods",
   status: "completed",

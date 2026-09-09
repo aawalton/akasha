@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theBadGuysSeasTheDay = {
   id: "019db533-f391-77b5-85a7-b25fc5363c95",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-bad-guys-seas-the-day",
   title: "The Bad Guys: Seas the Day",
   status: "completed",

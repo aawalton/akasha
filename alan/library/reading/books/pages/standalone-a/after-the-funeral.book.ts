@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const afterTheFuneral = {
   id: "019db533-f399-7c0b-b9b0-2db342c1f30d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "after-the-funeral",
   title: "After the Funeral",
   status: "not-started",

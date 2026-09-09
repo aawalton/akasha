@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const arcaneAscensionTheSilenceOfUnworthyGods = {
   id: "019db533-f38a-73cc-9c00-87e4df80f795",
   pageTypeSlug: "book",
+  type: "book",
   slug: "arcane-ascension-the-silence-of-unworthy-gods",
   title: "Arcane Ascension: The Silence of Unworthy Gods",
   status: "not-started",

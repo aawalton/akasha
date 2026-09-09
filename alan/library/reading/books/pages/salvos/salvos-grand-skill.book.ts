@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const salvosGrandSkill = {
   id: "019db533-f391-75c3-bec6-2cbf4d4772bb",
   pageTypeSlug: "book",
+  type: "book",
   slug: "salvos-grand-skill",
   title: "Salvos: Grand Skill",
   status: "not-started",

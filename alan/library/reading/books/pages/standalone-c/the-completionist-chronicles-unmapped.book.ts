@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theCompletionistChroniclesUnmapped = {
   id: "019db533-f386-7b1c-86ea-a9621b662811",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-completionist-chronicles-unmapped",
   title: "The Completionist Chronicles: Unmapped",
   status: "not-started",

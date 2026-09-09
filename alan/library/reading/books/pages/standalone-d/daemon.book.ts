@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const daemon = {
   id: "019db533-f39b-7309-971e-bf4518eec2e0",
   pageTypeSlug: "book",
+  type: "book",
   slug: "daemon",
   title: "Daemon",
   status: "not-started",

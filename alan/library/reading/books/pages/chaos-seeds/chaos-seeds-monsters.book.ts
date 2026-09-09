@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const chaosSeedsMonsters = {
   id: "019db533-f390-7a73-b33c-5e4debf6b1b7",
   pageTypeSlug: "book",
+  type: "book",
   slug: "chaos-seeds-monsters",
   title: "Chaos Seeds: Monsters",
   status: "completed",

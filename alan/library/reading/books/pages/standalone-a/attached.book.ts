@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const attached = {
   id: "019db533-f39e-713a-a066-e325d765444d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "attached",
   title: "Attached",
   status: "not-started",

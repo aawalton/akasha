@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const alienSeaOfSorrows = {
   id: "019db533-f39b-727b-a76e-fcf50958c8eb",
   pageTypeSlug: "book",
+  type: "book",
   slug: "alien-sea-of-sorrows",
   title: "Alien: Sea of Sorrows",
   status: "not-started",

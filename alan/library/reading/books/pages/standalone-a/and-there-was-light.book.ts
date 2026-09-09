@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const andThereWasLight = {
   id: "019db533-f39d-7c47-8b7f-d9d8477ba417",
   pageTypeSlug: "book",
+  type: "book",
   slug: "and-there-was-light",
   title: "And There Was Light",
   status: "completed",

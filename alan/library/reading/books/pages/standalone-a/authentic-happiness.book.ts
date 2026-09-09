@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const authenticHappiness = {
   id: "019db533-f39e-7205-989d-b882db4392d4",
   pageTypeSlug: "book",
+  type: "book",
   slug: "authentic-happiness",
   title: "Authentic Happiness",
   status: "not-started",

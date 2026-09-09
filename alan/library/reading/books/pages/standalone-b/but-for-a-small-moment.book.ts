@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const butForASmallMoment = {
   id: "019db533-f39d-73bc-b2ab-6637aef9bb2e",
   pageTypeSlug: "book",
+  type: "book",
   slug: "but-for-a-small-moment",
   title: "But For A Small Moment",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const aThousandLiTheSecondStorm = {
   id: "019db533-f390-7623-a253-a1820da7af84",
   pageTypeSlug: "book",
+  type: "book",
   slug: "a-thousand-li-the-second-storm",
   title: "A Thousand Li: The Second Storm",
   status: "completed",

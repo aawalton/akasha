@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theBadGuysOnAThroneOfLies = {
   id: "019db533-f391-776d-ab4e-8a4e2401fe5a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-bad-guys-on-a-throne-of-lies",
   title: "The Bad Guys: On a Throne of Lies",
   status: "not-started",

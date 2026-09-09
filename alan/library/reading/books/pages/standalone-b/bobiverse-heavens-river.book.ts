@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const bobiverseHeavensRiver = {
   id: "019db533-f39a-7fcf-8199-7ab599179063",
   pageTypeSlug: "book",
+  type: "book",
   slug: "bobiverse-heavens-river",
   title: "Bobiverse: Heaven's River",
   status: "not-started",

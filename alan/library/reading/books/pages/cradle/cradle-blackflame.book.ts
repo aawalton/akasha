@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const cradleBlackflame = {
   id: "019db533-f390-7c2d-86de-57c396eae142",
   pageTypeSlug: "book",
+  type: "book",
   slug: "cradle-blackflame",
   title: "Cradle: Blackflame",
   status: "completed",

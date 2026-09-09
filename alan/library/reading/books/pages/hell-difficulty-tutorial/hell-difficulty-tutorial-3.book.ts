@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const hellDifficultyTutorial3 = {
   id: "019db533-f391-70db-ae42-1f57e3773503",
   pageTypeSlug: "book",
+  type: "book",
   slug: "hell-difficulty-tutorial-3",
   title: "Hell Difficulty Tutorial 3",
   status: "not-started",

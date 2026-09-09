@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const salvosTheTreasuresOfAlexander = {
   id: "019db533-f391-75da-81d4-8bfda3e80a1c",
   pageTypeSlug: "book",
+  type: "book",
   slug: "salvos-the-treasures-of-alexander",
   title: "Salvos: The Treasures of Alexander",
   status: "not-started",

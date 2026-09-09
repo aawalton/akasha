@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const awakenOnlineEvolution = {
   id: "019db533-f390-788c-b4c4-458626012440",
   pageTypeSlug: "book",
+  type: "book",
   slug: "awaken-online-evolution",
   title: "Awaken Online: Evolution",
   status: "completed",

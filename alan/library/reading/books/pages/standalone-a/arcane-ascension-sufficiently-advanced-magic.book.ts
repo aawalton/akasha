@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const arcaneAscensionSufficientlyAdvancedMagic = {
   id: "019db533-f38a-73f2-afb9-9054d65e3bdc",
   pageTypeSlug: "book",
+  type: "book",
   slug: "arcane-ascension-sufficiently-advanced-magic",
   title: "Arcane Ascension: Sufficiently Advanced Magic",
   status: "completed",

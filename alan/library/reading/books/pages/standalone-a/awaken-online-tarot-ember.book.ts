@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const awakenOnlineTarotEmber = {
   id: "019db533-f390-78c8-8d92-abe79e8f97d9",
   pageTypeSlug: "book",
+  type: "book",
   slug: "awaken-online-tarot-ember",
   title: "Awaken Online: Tarot: Ember",
   status: "completed",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const cultureMatter = {
   id: "019db533-f39a-7f14-b646-d816225f48d8",
   pageTypeSlug: "book",
+  type: "book",
   slug: "culture-matter",
   title: "Culture: Matter",
   status: "not-started",

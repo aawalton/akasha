@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theAlchemicWeaponeerViridianGateOnline = {
   id: "019db533-f38a-72d4-92ec-8953639b2237",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-alchemic-weaponeer-viridian-gate-online",
   title: "The Alchemic Weaponeer: Viridian Gate Online",
   status: "completed",

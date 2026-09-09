@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const artoriansArchivesAvalon = {
   id: "019db533-f390-77cd-a117-d228aa1c625d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "artorians-archives-avalon",
   title: "Artorian's Archives: Avalon",
   status: "not-started",

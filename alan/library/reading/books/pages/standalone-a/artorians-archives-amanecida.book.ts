@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const artoriansArchivesAmanecida = {
   id: "019db533-f390-77b1-af32-352c911e3b34",
   pageTypeSlug: "book",
+  type: "book",
   slug: "artorians-archives-amanecida",
   title: "Artorian's Archives: Amanecida",
   status: "not-started",

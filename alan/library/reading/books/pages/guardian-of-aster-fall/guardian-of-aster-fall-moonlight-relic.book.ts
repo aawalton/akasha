@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const guardianOfAsterFallMoonlightRelic = {
   id: "019db533-f390-7faa-9b7f-4564c5acba53",
   pageTypeSlug: "book",
+  type: "book",
   slug: "guardian-of-aster-fall-moonlight-relic",
   title: "Guardian of Aster Fall: Moonlight Relic",
   status: "completed",

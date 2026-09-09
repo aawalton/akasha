@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const theBadGuysSecondStoryMan = {
   id: "019db533-f391-77cf-b56d-bc61f8582d5d",
   pageTypeSlug: "book",
+  type: "book",
   slug: "the-bad-guys-second-story-man",
   title: "The Bad Guys: Second Story Man",
   status: "completed",

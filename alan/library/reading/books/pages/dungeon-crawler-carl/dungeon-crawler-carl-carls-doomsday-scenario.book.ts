@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const dungeonCrawlerCarlCarlsDoomsdayScenario = {
   id: "019db533-f390-7ef3-9beb-48307a644839",
   pageTypeSlug: "book",
+  type: "book",
   slug: "dungeon-crawler-carl-carls-doomsday-scenario",
   title: "Dungeon Crawler Carl: Carl's Doomsday Scenario",
   status: "not-started",

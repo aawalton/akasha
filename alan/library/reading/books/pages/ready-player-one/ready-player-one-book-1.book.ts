@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const readyPlayerOneBook1 = {
   id: "019db533-f391-7486-8319-05820d7a9f45",
   pageTypeSlug: "book",
+  type: "book",
   slug: "ready-player-one-book-1",
   title: "Ready Player One",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const alexaThymeBreakingThrough = {
   id: "019db533-f390-76c4-bd39-b7aed5585867",
   pageTypeSlug: "book",
+  type: "book",
   slug: "alexa-thyme-breaking-through",
   title: "Alexa Thyme: Breaking Through",
   status: "completed",

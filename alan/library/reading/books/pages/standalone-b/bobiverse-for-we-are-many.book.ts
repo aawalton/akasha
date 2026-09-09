@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const bobiverseForWeAreMany = {
   id: "019db533-f39b-70e5-86ad-ef2cdbc4cc2a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "bobiverse-for-we-are-many",
   title: "Bobiverse: For We Are Many",
   status: "not-started",

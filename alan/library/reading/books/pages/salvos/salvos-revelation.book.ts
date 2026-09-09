@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const salvosRevelation = {
   id: "019db533-f391-758a-8e52-25be0769c51a",
   pageTypeSlug: "book",
+  type: "book",
   slug: "salvos-revelation",
   title: "Salvos: Revelation",
   status: "not-started",

@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const adhdIsAwesome = {
   id: "019db533-f39e-725c-8b02-17d186e3ea03",
   pageTypeSlug: "book",
+  type: "book",
   slug: "adhd-is-awesome",
   title: "ADHD Is Awesome",
   status: "not-started",

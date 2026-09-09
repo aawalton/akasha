@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const awakenOnlinePrecipice = {
   id: "019db533-f390-7884-a525-403ccd8912cc",
   pageTypeSlug: "book",
+  type: "book",
   slug: "awaken-online-precipice",
   title: "Awaken Online: Precipice",
   status: "completed",

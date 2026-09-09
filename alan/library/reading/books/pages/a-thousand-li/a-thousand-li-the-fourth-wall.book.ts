@@ -3,6 +3,7 @@ import type { Book } from "../../book.page-type.ts"
 export const aThousandLiTheFourthWall = {
   id: "019db533-f390-75dd-b8fe-92d68bdfedba",
   pageTypeSlug: "book",
+  type: "book",
   slug: "a-thousand-li-the-fourth-wall",
   title: "A Thousand Li: the Fourth Wall",
   status: "completed",
