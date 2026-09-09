@@ -66,9 +66,10 @@ function grouping(under: Readonly<Record<string, readonly string[]>>): Grouped {
   }
 }
 
-test("a folder a file property declares a path through is passed over", () => {
+test("a folder holding nothing but files a property names is passed over", () => {
   expect(segmented("one/deploy")).toBe(true)
   expect(segmented("two/deploy")).toBe(false)
+  expect(segmented("four/deploy")).toBe(false)
 })
 
 test("a segment comes from the properties, so a property stated later is reached", () => {

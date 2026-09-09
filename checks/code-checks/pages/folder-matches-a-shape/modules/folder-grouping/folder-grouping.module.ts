@@ -56,5 +56,13 @@ export const folderGrouping = {
       invariantKind: "departure",
       statement: "A folder is such a segment only where the file that name gives sits under it.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding a subfolder is no such segment.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding a file no declared name gives is no such segment.",
+    },
   ],
 } as const satisfies Module

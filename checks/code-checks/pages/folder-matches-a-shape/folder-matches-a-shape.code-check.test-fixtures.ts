@@ -94,6 +94,8 @@ const DEPLOYING = groupedBy([
   "one/deploy/dockerfile-extensions.json",
   "two/deploy/other.ts",
   "three/public/favicon.svg",
+  "four/deploy/dockerfile-extensions.json",
+  "four/deploy/nested/held.ts",
 ])
 
 export const segmented = segmentingOver(DECLARING, DEPLOYING)

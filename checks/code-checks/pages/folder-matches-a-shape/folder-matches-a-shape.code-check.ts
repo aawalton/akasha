@@ -175,7 +175,17 @@ export const folderMatchesAShape = {
     {
       invariantKind: "departure",
       statement:
-        "A folder that is a segment of a path a file property declares is no folder of its own.",
+        "A folder holding nothing but files some page's property names is no folder of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The files such a folder holds are judged where the page declaring them is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A folder holding a subfolder is a folder of its own whatever else that folder holds.",
     },
     {
       invariantKind: "departure",

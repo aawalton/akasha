@@ -79,15 +79,17 @@ export function segmentingOver(
 ): (folder: string) => boolean {
   const segments: (readonly [string, string])[] = []
   for (const fileName of declaring.values()) {
-    const named = fileName === null ? [] : fileName.split("/")
-    for (let at = 1; at < named.length; at += 1) {
-      segments.push([named.slice(0, at).join("/"), named.slice(at).join("/")])
-    }
+    const cut = fileName === null ? -1 : fileName.lastIndexOf("/")
+    if (fileName === null || cut === -1) continue
+    segments.push([fileName.slice(0, cut), fileName.slice(cut + 1)])
   }
-  return (folder) =>
-    segments.some(([under, rest]) => {
-      if (folder !== under && !folder.endsWith(`/${under}`)) return false
-      const path = `${folder}/${rest}`
-      return grouped.at(folderOf(path)).includes(path)
-    })
+  return (folder) => {
+    if (grouped.foldersIn(folder).length > 0) return false
+    const named = new Set<string>()
+    for (const [under, rest] of segments) {
+      if (folder === under || folder.endsWith(`/${under}`)) named.add(`${folder}/${rest}`)
+    }
+    const files = grouped.at(folder)
+    return files.length > 0 && files.every((one) => named.has(one))
+  }
 }
