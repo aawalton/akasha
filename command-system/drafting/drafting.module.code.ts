@@ -91,6 +91,15 @@ export type Body = {
 
 export type Bodies = ReadonlyMap<string, Body>
 
+export function owedOf(held: Bodies): ReadonlyMap<string, boolean> {
+  const owed = new Map<string, boolean>()
+  for (const [path, one] of held) {
+    if (one.readersOweReading === undefined) continue
+    owed.set(path, one.readersOweReading)
+  }
+  return owed
+}
+
 export type Rebased = {
   readonly held: Bodies
   readonly moved: readonly string[]
