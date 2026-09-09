@@ -48,6 +48,7 @@ export const temperCatalogThing = {
     "text-property/achievement-name",
     "text-property/armor-weight",
     "text-property/effect",
+    "text-property/effect-type",
     "text-property/effect-weapon-types",
     "text-property/eso-trait-constant-name",
     "text-property/material",

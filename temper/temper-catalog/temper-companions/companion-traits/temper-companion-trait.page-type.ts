@@ -1,13 +1,13 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { EffectType } from "../../temper-catalog-things/properties/effect-type.text-property.ts"
 import type { MetricId } from "../../temper-catalog-things/properties/metric-id.text-property.ts"
 import type { IsReduction } from "../temper-companion-things/properties/is-reduction.boolean-property.ts"
 import type { TemperCompanionThing } from "../temper-companion-things/temper-companion-thing.page-type.ts"
+import type { TraitEffectType } from "./properties/trait-effect-type.text-property.ts"
 
 export type TemperCompanionTrait = TemperCompanionThing & {
   isReduction: IsReduction
   metricId?: MetricId
-  type?: EffectType
+  effectType?: TraitEffectType
 }
 
 export const temperCompanionTrait = {
@@ -19,13 +19,13 @@ export const temperCompanionTrait = {
   extends: ["page-type/temper-companion-thing"],
   partSlugs: [
     "boolean-property/is-reduction",
-    "text-property/effect-type",
     "text-property/metric-id",
+    "text-property/trait-effect-type",
   ],
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "text-property/metric-id", required: false, many: false },
-    { pagePropertySlug: "text-property/effect-type", required: false, many: false },
+    { pagePropertySlug: "text-property/trait-effect-type", required: false, many: false },
     { pagePropertySlug: "boolean-property/is-reduction", required: true, many: false },
   ],
 } as const satisfies PageType

@@ -8,7 +8,7 @@ export const vigorous = {
   title: "Vigorous",
   description: "Increases companion Maximum Health",
   metricId: "companion-health-maximum",
-  type: "fractional-change",
+  effectType: "fractional-change",
   isReduction: false,
   qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait

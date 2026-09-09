@@ -47,7 +47,7 @@ function parseCompanionTrait(row: Page): ParsedCompanionTrait {
     key: row.key,
     description: row.description,
     metricId: row.metricId,
-    effectType: row.type,
+    effectType: row.effectType,
     isReduction: row.isReduction,
     qualityValues: row.qualityValues,
   })

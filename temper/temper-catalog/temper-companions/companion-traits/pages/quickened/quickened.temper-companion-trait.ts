@@ -8,7 +8,7 @@ export const quickened = {
   title: "Quickened",
   description: "Reduces companion ability cooldowns",
   metricId: "companion-ability-cooldown",
-  type: "fractional-change",
+  effectType: "fractional-change",
   isReduction: true,
   qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait

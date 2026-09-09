@@ -8,7 +8,7 @@ export const shattering = {
   title: "Shattering",
   description: "Increases companion Penetration",
   metricId: "companion-penetration",
-  type: "integer",
+  effectType: "integer",
   isReduction: false,
   qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait

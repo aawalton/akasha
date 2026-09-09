@@ -8,7 +8,7 @@ export const aggressive = {
   title: "Aggressive",
   description: "Increases companion damage done",
   metricId: "companion-damage-done",
-  type: "fractional-change",
+  effectType: "fractional-change",
   isReduction: false,
   qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait

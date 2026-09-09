@@ -8,7 +8,7 @@ export const bolstered = {
   title: "Bolstered",
   description: "Reduces companion damage taken",
   metricId: "companion-damage-taken",
-  type: "fractional-change",
+  effectType: "fractional-change",
   isReduction: true,
   qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait

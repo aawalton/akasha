@@ -8,7 +8,7 @@ export const augmented = {
   title: "Augmented",
   description: "Increases duration of all companion buffs and debuffs",
   metricId: "companion-buff-duration",
-  type: "fractional-change",
+  effectType: "fractional-change",
   isReduction: false,
   qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait

@@ -8,7 +8,7 @@ export const focused = {
   title: "Focused",
   description: "Increases companion Critical Strike rating",
   metricId: "companion-critical-chance",
-  type: "integer",
+  effectType: "integer",
   isReduction: false,
   qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait

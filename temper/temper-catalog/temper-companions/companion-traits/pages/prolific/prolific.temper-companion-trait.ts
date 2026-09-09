@@ -8,7 +8,7 @@ export const prolific = {
   title: "Prolific",
   description: "Increases companion Ultimate generation",
   metricId: "companion-ultimate-generation",
-  type: "fractional-change",
+  effectType: "fractional-change",
   isReduction: false,
   qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait

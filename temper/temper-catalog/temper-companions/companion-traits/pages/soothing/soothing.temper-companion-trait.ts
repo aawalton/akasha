@@ -8,7 +8,7 @@ export const soothing = {
   title: "Soothing",
   description: "Increases companion healing done",
   metricId: "companion-healing-done",
-  type: "fractional-change",
+  effectType: "fractional-change",
   isReduction: false,
   qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait
