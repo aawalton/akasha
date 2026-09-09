@@ -9,14 +9,13 @@ import {
   taskProgressPath,
 } from "./watcher-task-landing.module.code.ts"
 
-const PAGE_PATH =
-  "temper/temper-progress/temper-tasks/pages/hireling-mails/hireling-mails.temper-task.ts"
+const PAGE_PATH = "temper/temper-progress/temper-tasks/pages/held-task/held-task.temper-task.ts"
 
 const PROGRESS_PATH =
-  "temper/temper-progress/temper-tasks/pages/hireling-mails/hireling-mails.temper-task.progress.jsonl"
+  "temper/temper-progress/temper-tasks/pages/held-task/held-task.temper-task.progress.jsonl"
 
 const BODY =
-  'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const hirelingMails = {\n  id: "019db533-f3b3-77e0-bac5-71806d6387b1",\n  pageTypeSlug: "temper-task",\n  slug: "hireling-mails",\n  title: "Hireling Mails",\n  dueDate: "2026-03-05",\n} as const satisfies TemperTask\n'
+  'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-05",\n} as const satisfies TemperTask\n'
 
 type Body = { readonly path: string; readonly content: string | null }
 
@@ -70,26 +69,26 @@ function store(
 }
 
 test("a task names its page and the progress lines beside it", () => {
-  expect(taskPagePath("hireling-mails")).toBe(PAGE_PATH)
-  expect(taskProgressPath("hireling-mails")).toBe(PROGRESS_PATH)
+  expect(taskPagePath("held-task")).toBe(PAGE_PATH)
+  expect(taskProgressPath("held-task")).toBe(PROGRESS_PATH)
   expect(TASK_PAGE_TYPE_SLUG).toBe("temper-task")
 })
 
 test("a key the body already carries is restated in place", () => {
   expect(taskBodyWith(BODY, { dueDate: "2026-03-12" })).toBe(
-    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const hirelingMails = {\n  id: "019db533-f3b3-77e0-bac5-71806d6387b1",\n  pageTypeSlug: "temper-task",\n  slug: "hireling-mails",\n  title: "Hireling Mails",\n  dueDate: "2026-03-12",\n} as const satisfies TemperTask\n'
+    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-12",\n} as const satisfies TemperTask\n'
   )
 })
 
 test("a key the body carries nowhere is added on the line before the closing", () => {
   expect(taskBodyWith(BODY, { completedAt: "2026-03-05T13:57:43.192Z" })).toBe(
-    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const hirelingMails = {\n  id: "019db533-f3b3-77e0-bac5-71806d6387b1",\n  pageTypeSlug: "temper-task",\n  slug: "hireling-mails",\n  title: "Hireling Mails",\n  dueDate: "2026-03-05",\n  completedAt: "2026-03-05T13:57:43.192Z",\n} as const satisfies TemperTask\n'
+    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  dueDate: "2026-03-05",\n  completedAt: "2026-03-05T13:57:43.192Z",\n} as const satisfies TemperTask\n'
   )
 })
 
 test("a key told null is taken off the body", () => {
   expect(taskBodyWith(BODY, { dueDate: null })).toBe(
-    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const hirelingMails = {\n  id: "019db533-f3b3-77e0-bac5-71806d6387b1",\n  pageTypeSlug: "temper-task",\n  slug: "hireling-mails",\n  title: "Hireling Mails",\n} as const satisfies TemperTask\n'
+    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n} as const satisfies TemperTask\n'
   )
 })
 
@@ -102,7 +101,7 @@ test("several keys are taken off, restated, and added in the order they were giv
       paused: true,
     })
   ).toBe(
-    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const hirelingMails = {\n  id: "019db533-f3b3-77e0-bac5-71806d6387b1",\n  pageTypeSlug: "temper-task",\n  slug: "hireling-mails",\n  title: "Hireling Mails",\n  completedAt: "2026-03-05T13:57:43.192Z",\n  streak: 4,\n  paused: true,\n} as const satisfies TemperTask\n'
+    'import type { TemperTask } from "../../temper-task.page-type.ts"\n\nexport const heldTask = {\n  id: "01a06381-0000-7000-8000-000000000001",\n  pageTypeSlug: "temper-task",\n  slug: "held-task",\n  title: "Held Task",\n  completedAt: "2026-03-05T13:57:43.192Z",\n  streak: 4,\n  paused: true,\n} as const satisfies TemperTask\n'
   )
 })
 
@@ -132,9 +131,9 @@ test("only a key indented by two spaces is matched", () => {
 test("a task's whole body goes back with the values the completion changes", async () => {
   const { deps, wrote } = store([{ path: PAGE_PATH, content: BODY }], [{ ok: true, at: "c1" }])
   const landed = await landTaskValues(
-    "hireling-mails",
+    "held-task",
     { dueDate: "2026-03-12" },
-    "temper: hireling mails came round again",
+    "temper: the held task came round again",
     deps
   )
   expect(landed).toEqual({ outcome: "landed", at: "c1" })
@@ -142,7 +141,7 @@ test("a task's whole body goes back with the values the completion changes", asy
     {
       given: [{ path: PAGE_PATH, content: taskBodyWith(BODY, { dueDate: "2026-03-12" }) }],
       writer: "temper watcher <watcher@alanwalton.com>",
-      message: "temper: hireling mails came round again",
+      message: "temper: the held task came round again",
       read: "read-commit",
     },
   ])
@@ -150,15 +149,16 @@ test("a task's whole body goes back with the values the completion changes", asy
 
 test("a body already carrying these values counts as landed rather than as a refusal", async () => {
   const { deps, wrote } = store([{ path: PAGE_PATH, content: BODY }], [])
-  expect(
-    await landTaskValues("hireling-mails", { dueDate: "2026-03-05" }, "no change", deps)
-  ).toEqual({ outcome: "already", at: "read-commit" })
+  expect(await landTaskValues("held-task", { dueDate: "2026-03-05" }, "no change", deps)).toEqual({
+    outcome: "already",
+    at: "read-commit",
+  })
   expect(wrote).toEqual([])
 })
 
 test("a task the store holds no body for is refused, naming the path", async () => {
   const { deps } = store([], [])
-  expect(await landTaskValues("hireling-mails", { dueDate: "2026-03-12" }, "any", deps)).toEqual({
+  expect(await landTaskValues("held-task", { dueDate: "2026-03-12" }, "any", deps)).toEqual({
     outcome: "refused",
     why: `the store holds no body at ${PAGE_PATH}`,
   })
@@ -173,9 +173,9 @@ test("a task and the files beside it are taken away together", async () => {
     [{ ok: true, at: "c1" }]
   )
   const landed = await landTaskGone(
-    "hireling-mails",
+    "held-task",
     [PROGRESS_PATH],
-    "temper: hireling mails will not come round again",
+    "temper: the held task will not come round again",
     deps
   )
   expect(landed).toEqual({ outcome: "landed", at: "c1" })
@@ -183,7 +183,7 @@ test("a task and the files beside it are taken away together", async () => {
     {
       paths: [PAGE_PATH, PROGRESS_PATH],
       writer: "temper watcher <watcher@alanwalton.com>",
-      message: "temper: hireling mails will not come round again",
+      message: "temper: the held task will not come round again",
       read: "read-commit",
     },
   ])
@@ -191,7 +191,7 @@ test("a task and the files beside it are taken away together", async () => {
 
 test("a file beside a task the store holds nothing for is left out of the taking", async () => {
   const { deps, took } = store([{ path: PAGE_PATH, content: BODY }], [{ ok: true, at: "c1" }])
-  await landTaskGone("hireling-mails", [PROGRESS_PATH], "gone", deps)
+  await landTaskGone("held-task", [PROGRESS_PATH], "gone", deps)
   expect(took).toEqual([
     {
       paths: [PAGE_PATH],
@@ -204,7 +204,7 @@ test("a file beside a task the store holds nothing for is left out of the taking
 
 test("a task already gone counts as taken away", async () => {
   const { deps, took } = store([], [])
-  expect(await landTaskGone("hireling-mails", [PROGRESS_PATH], "gone", deps)).toEqual({
+  expect(await landTaskGone("held-task", [PROGRESS_PATH], "gone", deps)).toEqual({
     outcome: "already",
     at: "read-commit",
   })
@@ -221,7 +221,7 @@ test("four takings the store turned back are refused, naming the last reason", a
       { ok: false, why: "four" },
     ]
   )
-  expect(await landTaskGone("hireling-mails", [], "gone", deps)).toEqual({
+  expect(await landTaskGone("held-task", [], "gone", deps)).toEqual({
     outcome: "refused",
     why: "four — 4 attempts were spent",
   })
