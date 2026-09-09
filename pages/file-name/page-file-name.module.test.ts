@@ -3,7 +3,6 @@ import {
   besideAt,
   heldIn,
   pageNamed,
-  pageOf,
   partedIn,
   partIn,
   secretAt,
@@ -14,6 +13,7 @@ import {
   uncommittedNamed,
 } from "./page-file-name.module.code.ts"
 import {
+  agreeing,
   FILE_PROPERTIES,
   itemsAt,
   kindOf,
@@ -21,13 +21,8 @@ import {
   PAGE_TYPES,
   PATCH,
   PORTRAIT,
+  pageNameIn,
 } from "./page-file-name.module.test-fixtures.ts"
-
-function pageNameIn(path: string): string {
-  const said = partedIn(path)
-  if (said === null) throw new Error(`expected \`${path}\` to parse`)
-  return pageOf(said)
-}
 
 test("a page's name is the slug and the page type, whatever sections come after them", () => {
   expect(pageNameIn("one/file-length.check.ts")).toBe("file-length.check")
@@ -298,17 +293,6 @@ test("a page type nothing knows still holds a property, an uncommitted file and 
   expect(kindOf("one/dalla.seat.ts")).toBe("stray")
 })
 
-function agreeing(
-  path: string,
-  pageTypes: ReadonlySet<string> = PAGE_TYPES,
-  fileProperties: ReadonlySet<string> = FILE_PROPERTIES
-): undefined {
-  const kind = heldIn(path, pageTypes, fileProperties).kind
-  expect(pageNamed(path, pageTypes)).toBe(kind === "page")
-  expect(uncommittedNamed(path)).toBe(kind === "uncommitted")
-  expect(secretNamed(path)).toBe(kind === "secret")
-}
-
 test("what heldIn answers of a name is what each predicate answers of that name", () => {
   agreeing("one/file-length.check.ts")
   agreeing("one/file-length.check.uncommitted.ts")
@@ -388,4 +372,17 @@ test("a part number below two is never written, and a part needs a property befo
   expect(partIn("part02")).toBeNull()
   expect(itemsAt(`${MINE}.items.part1.jsonl`).kind).toBe("stray")
   expect(itemsAt(`${MINE}.part2.jsonl`).propertySlug).toBe("part2")
+})
+
+const AUDITED = new Set(["code", "audit.code"])
+
+test("two sections name a property only where the set handed in has them joined by a dot", () => {
+  const path = "one/file-length.check.audit.code.ts"
+  expect(heldIn(path, PAGE_TYPES, AUDITED).propertySlug).toBe("audit.code")
+  expect(kindOf(path)).toBe("stray")
+})
+
+test("what besideAt puts together for a group member, heldIn takes apart again", () => {
+  const beside = besideAt("one/file-length.check.ts", "audit.code", "ts")
+  expect(beside).toBe("one/file-length.check.audit.code.ts")
 })

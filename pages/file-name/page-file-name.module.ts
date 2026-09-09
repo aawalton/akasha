@@ -44,6 +44,18 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
+      statement: "A section list is a property slug, or a group slug and then a member slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group member's key is the group slug and the member slug joined by a dot.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A section list of two is read only where the set handed in has that key.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A name carrying a known page type but held as anything but TypeScript is no page.",
     },
