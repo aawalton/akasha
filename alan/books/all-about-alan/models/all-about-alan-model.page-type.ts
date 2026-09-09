@@ -2,7 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Definition } from "../../../../domains/properties/definition.standard-agent-english-property.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
-import type { Simulation } from "./properties/simulation.file-property.ts"
+import type { Simulation } from "./properties/simulation.code-file-property.ts"
 
 export type AllAboutAlanModel = Page & {
   title: Title
@@ -17,11 +17,11 @@ export const allAboutAlanModel = {
   definition: "one computation of a mechanism in Alan",
   pluralSlug: "all-about-alan-models",
   extends: ["page-type/page"],
-  partSlugs: ["file-property/simulation"],
+  partSlugs: ["code-file-property/simulation"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "standard-agent-english-property/definition", required: true, many: false },
-    { pagePropertySlug: "file-property/simulation", required: false, many: false },
+    { pagePropertySlug: "code-file-property/simulation", required: false, many: false },
   ],
   invariants: [
     {
