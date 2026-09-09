@@ -1,20 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../pages/properties/title.text-property.ts"
-import type { World } from "../stories-played/properties/world.relation-property.ts"
-import type { Aliases } from "./properties/aliases.text-property.ts"
-import type { EvolvesFromSlugs } from "./properties/evolves-from-slugs.text-property.ts"
-import type { EvolvesToSlugs } from "./properties/evolves-to-slugs.text-property.ts"
-import type { References } from "./properties/references.page-property-entry.ts"
-
-export type WorldMechanic = Page & {
-  title: Title
-  world?: World
-  aliases?: Aliases
-  evolvesFromSlugs?: EvolvesFromSlugs
-  evolvesToSlugs?: EvolvesToSlugs
-  references?: References
-}
 
 export const worldMechanic = {
   id: "01a06558-a991-7f75-b03b-962c2df9e390",
@@ -134,4 +118,5 @@ export const worldMechanic = {
       statement: "Every mechanic a world's readings name is a page of a type this domain has.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType
