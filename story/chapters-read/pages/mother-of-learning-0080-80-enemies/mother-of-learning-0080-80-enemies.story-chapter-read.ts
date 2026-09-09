@@ -5,7 +5,7 @@ export const motherOfLearning008080Enemies = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0080-80-enemies",
   title: "80. Enemies",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 80,
   ownLength: 7243,
   ownProgress: 7243,

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0013Chapter12Deviation =
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0013-chapter-12-deviation",
   title: "Chapter 12 Deviation",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 13,
   ownLength: 2271,
   unitSlug: "words",

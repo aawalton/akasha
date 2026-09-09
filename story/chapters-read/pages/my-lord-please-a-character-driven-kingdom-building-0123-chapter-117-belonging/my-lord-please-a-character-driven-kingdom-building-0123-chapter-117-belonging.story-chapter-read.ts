@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0123Chapter117Belonging 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0123-chapter-117-belonging",
   title: "Chapter 117 Belonging",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 123,
   ownLength: 2310,
   unitSlug: "words",

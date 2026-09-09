@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0073Chapter68Misconstrue
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0073-chapter-68-misconstrued",
   title: "Chapter 68 Misconstrued",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 73,
   ownLength: 2068,
   unitSlug: "words",

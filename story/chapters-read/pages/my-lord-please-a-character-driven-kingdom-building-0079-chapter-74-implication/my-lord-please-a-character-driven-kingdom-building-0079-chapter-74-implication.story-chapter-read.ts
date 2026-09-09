@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0079Chapter74Implication
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0079-chapter-74-implication",
   title: "Chapter 74 Implication",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 79,
   ownLength: 2261,
   unitSlug: "words",

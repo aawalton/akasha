@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0058Chapter54Threshold =
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0058-chapter-54-threshold",
   title: "Chapter 54 Threshold",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 58,
   ownLength: 1921,
   unitSlug: "words",

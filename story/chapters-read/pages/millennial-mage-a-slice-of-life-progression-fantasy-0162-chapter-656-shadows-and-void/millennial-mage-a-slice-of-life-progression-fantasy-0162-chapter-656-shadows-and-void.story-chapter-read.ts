@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0162Chapter656ShadowsAn
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0162-chapter-656-shadows-and-void",
   title: "Chapter: 656 - Shadows and Void",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 162,
   ownLength: 2594,
   ownProgress: 2594,

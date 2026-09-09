@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0169Chapter663ToTheDuel
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0169-chapter-663-to-the-duel",
   title: "Chapter: 663 - To the Duel!",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 169,
   ownLength: 2717,
   ownProgress: 2717,

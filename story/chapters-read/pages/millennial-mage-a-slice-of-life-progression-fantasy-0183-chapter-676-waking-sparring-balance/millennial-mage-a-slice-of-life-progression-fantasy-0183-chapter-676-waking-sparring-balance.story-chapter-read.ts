@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0183Chapter676WakingSpa
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0183-chapter-676-waking-sparring-balance",
   title: "Chapter: 676 - Waking, Sparring, Balance",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 183,
   ownLength: 3517,
   ownProgress: 3517,

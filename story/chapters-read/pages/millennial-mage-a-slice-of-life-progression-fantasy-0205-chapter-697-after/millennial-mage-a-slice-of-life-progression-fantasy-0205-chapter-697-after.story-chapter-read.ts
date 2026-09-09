@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0205Chapter697After = {
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0205-chapter-697-after",
   title: "Chapter: 697 - After",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 205,
   ownLength: 2965,
   unitSlug: "words",

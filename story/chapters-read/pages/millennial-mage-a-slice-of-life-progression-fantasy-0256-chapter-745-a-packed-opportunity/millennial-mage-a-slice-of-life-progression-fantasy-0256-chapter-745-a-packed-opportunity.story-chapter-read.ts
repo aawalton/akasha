@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0256Chapter745APackedOp
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0256-chapter-745-a-packed-opportunity",
   title: "Chapter: 745 - A Packed Opportunity",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 256,
   ownLength: 2586,
   unitSlug: "words",

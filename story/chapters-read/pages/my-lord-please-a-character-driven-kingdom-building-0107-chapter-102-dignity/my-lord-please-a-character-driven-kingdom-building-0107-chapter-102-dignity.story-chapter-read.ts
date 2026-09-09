@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0107Chapter102Dignity = 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0107-chapter-102-dignity",
   title: "Chapter 102 Dignity",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 107,
   ownLength: 2010,
   unitSlug: "words",

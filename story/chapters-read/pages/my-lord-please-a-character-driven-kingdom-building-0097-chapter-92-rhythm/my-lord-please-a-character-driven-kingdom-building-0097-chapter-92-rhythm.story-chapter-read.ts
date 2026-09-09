@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0097Chapter92Rhythm = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0097-chapter-92-rhythm",
   title: "Chapter 92 Rhythm",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 97,
   ownLength: 3006,
   unitSlug: "words",

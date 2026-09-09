@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0192Chapter684TheDiscus
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0192-chapter-684-the-discussion-ends",
   title: "Chapter: 684 - The Discussion Ends",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 192,
   ownLength: 3021,
   ownProgress: 3021,

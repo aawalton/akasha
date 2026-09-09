@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0250Chapter739ShortBrea
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0250-chapter-739-short-breather",
   title: "Chapter: 739 - Short Breather",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 250,
   ownLength: 2934,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const motherOfLearning009494Ghosts = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0094-94-ghosts",
   title: "94. Ghosts",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 94,
   ownLength: 5956,
   ownProgress: 5956,

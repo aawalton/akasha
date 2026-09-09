@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0053Chapter49Weight = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0053-chapter-49-weight",
   title: "Chapter 49 Weight",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 53,
   ownLength: 2050,
   unitSlug: "words",

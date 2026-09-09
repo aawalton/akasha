@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0009Chapter8Foundations 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0009-chapter-8-foundations",
   title: "Chapter 8 Foundations",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 9,
   ownLength: 2505,
   unitSlug: "words",

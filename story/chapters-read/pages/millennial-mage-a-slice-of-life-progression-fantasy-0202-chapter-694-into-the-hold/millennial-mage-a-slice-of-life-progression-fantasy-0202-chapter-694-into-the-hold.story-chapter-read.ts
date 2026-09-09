@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0202Chapter694IntoTheHo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0202-chapter-694-into-the-hold",
   title: "Chapter: 694 - Into the Hold",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 202,
   ownLength: 2442,
   ownProgress: 2442,

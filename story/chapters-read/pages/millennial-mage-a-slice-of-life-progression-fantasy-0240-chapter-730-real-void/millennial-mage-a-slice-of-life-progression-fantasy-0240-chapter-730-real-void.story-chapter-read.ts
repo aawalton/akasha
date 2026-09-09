@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0240Chapter730RealVoid 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0240-chapter-730-real-void",
   title: "Chapter: 730 - Real Void",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 240,
   ownLength: 2952,
   unitSlug: "words",

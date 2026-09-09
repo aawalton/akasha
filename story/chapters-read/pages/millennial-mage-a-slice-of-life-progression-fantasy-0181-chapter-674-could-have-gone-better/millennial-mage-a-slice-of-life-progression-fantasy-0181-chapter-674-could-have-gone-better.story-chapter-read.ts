@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0181Chapter674CouldHave
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0181-chapter-674-could-have-gone-better",
   title: "Chapter: 674 - Could Have Gone Better",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 181,
   ownLength: 2879,
   ownProgress: 2879,

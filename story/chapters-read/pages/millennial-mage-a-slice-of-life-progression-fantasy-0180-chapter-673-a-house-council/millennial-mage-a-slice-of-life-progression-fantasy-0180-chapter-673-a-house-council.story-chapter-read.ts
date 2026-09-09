@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0180Chapter673AHouseCou
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0180-chapter-673-a-house-council",
   title: "Chapter: 673 - A House Council",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 180,
   ownLength: 2773,
   ownProgress: 2773,

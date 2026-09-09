@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0248Chapter737Temptatio
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0248-chapter-737-temptation",
   title: "Chapter: 737 - Temptation",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 248,
   ownLength: 2575,
   unitSlug: "words",

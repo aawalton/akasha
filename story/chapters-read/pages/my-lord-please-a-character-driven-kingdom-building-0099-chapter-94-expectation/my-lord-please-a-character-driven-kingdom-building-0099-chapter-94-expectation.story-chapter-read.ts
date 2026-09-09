@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0099Chapter94Expectation
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0099-chapter-94-expectation",
   title: "Chapter 94 Expectation",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 99,
   ownLength: 2664,
   unitSlug: "words",

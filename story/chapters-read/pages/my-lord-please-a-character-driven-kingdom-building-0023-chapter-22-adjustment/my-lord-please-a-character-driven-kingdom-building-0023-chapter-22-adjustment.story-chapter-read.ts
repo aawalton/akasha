@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0023Chapter22Adjustment 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0023-chapter-22-adjustment",
   title: "Chapter 22 Adjustment",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 23,
   ownLength: 3682,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0055Chapter51Irregularit
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0055-chapter-51-irregularity",
   title: "Chapter 51 Irregularity",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 55,
   ownLength: 1988,
   unitSlug: "words",

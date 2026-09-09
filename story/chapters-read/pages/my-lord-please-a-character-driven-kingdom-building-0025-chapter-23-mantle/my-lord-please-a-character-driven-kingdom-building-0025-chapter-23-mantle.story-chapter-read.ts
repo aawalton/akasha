@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0025Chapter23Mantle = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0025-chapter-23-mantle",
   title: "Chapter 23 Mantle",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 25,
   ownLength: 2222,
   unitSlug: "words",

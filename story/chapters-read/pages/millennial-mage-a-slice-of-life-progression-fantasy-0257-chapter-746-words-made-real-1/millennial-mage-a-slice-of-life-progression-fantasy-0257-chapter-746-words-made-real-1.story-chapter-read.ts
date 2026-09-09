@@ -4,7 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0257Chapter746WordsMade
   id: "01a07252-32ee-7a9e-836d-7e42edf328a6",
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0257-chapter-746-words-made-real-1",
-  storySlug: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 257,
   publishedAt: "2026-09-04",
   unitSlug: "words",

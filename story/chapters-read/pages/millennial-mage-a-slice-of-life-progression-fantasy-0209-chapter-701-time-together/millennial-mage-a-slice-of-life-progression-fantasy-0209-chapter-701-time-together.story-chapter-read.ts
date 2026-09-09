@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0209Chapter701TimeToget
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0209-chapter-701-time-together",
   title: "Chapter: 701 - Time Together",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 209,
   ownLength: 3062,
   unitSlug: "words",

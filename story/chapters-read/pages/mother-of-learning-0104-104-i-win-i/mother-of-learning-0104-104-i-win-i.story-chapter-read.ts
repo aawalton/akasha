@@ -5,7 +5,7 @@ export const motherOfLearning0104104IWinI = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0104-104-i-win-i",
   title: "104. I Win (I)",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 104,
   ownLength: 3525,
   ownProgress: 3525,

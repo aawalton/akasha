@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0165Chapter659ToTheCore
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0165-chapter-659-to-the-core",
   title: "Chapter: 659 - To the Core",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 165,
   ownLength: 3236,
   ownProgress: 3236,

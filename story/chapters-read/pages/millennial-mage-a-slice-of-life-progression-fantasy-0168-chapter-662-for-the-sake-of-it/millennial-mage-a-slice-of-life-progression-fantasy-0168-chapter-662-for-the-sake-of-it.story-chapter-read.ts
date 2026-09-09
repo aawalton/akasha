@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0168Chapter662ForTheSak
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0168-chapter-662-for-the-sake-of-it",
   title: "Chapter: 662 - For the Sake of It",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 168,
   ownLength: 2795,
   ownProgress: 2795,

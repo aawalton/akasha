@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0247HomeboundBook13Cove
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0247-homebound-book-13-cover-reveal",
   title: "Homebound - Book 13 Cover Reveal!",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 247,
   ownLength: 36,
   unitSlug: "words",

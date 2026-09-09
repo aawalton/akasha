@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0179OutboundBook12Cover
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0179-outbound-book-12-cover-reveal",
   title: "Outbound - Book 12 Cover Reveal!",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 179,
   ownLength: 29,
   ownProgress: 29,

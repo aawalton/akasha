@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0167Chapter661Twice = {
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0167-chapter-661-twice",
   title: "Chapter: 661 - Twice",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 167,
   ownLength: 3238,
   ownProgress: 3238,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0197Chapter689DelaysAnd
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0197-chapter-689-delays-and-timing",
   title: "Chapter: 689 - Delays and Timing",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 197,
   ownLength: 2493,
   ownProgress: 2493,

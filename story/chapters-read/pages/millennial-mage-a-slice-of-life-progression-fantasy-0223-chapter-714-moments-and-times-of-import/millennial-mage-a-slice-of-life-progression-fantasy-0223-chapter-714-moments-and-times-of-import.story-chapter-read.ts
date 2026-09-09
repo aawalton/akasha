@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0223Chapter714MomentsAn
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0223-chapter-714-moments-and-times-of-import",
   title: "Chapter: 714 - Moments and Times of Import",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 223,
   ownLength: 2890,
   unitSlug: "words",

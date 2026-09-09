@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0189Chapter681TheEndOfA
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0189-chapter-681-the-end-of-a-long-day",
   title: "Chapter: 681 - The End of a Long Day",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 189,
   ownLength: 3023,
   ownProgress: 3023,

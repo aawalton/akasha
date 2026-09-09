@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0184Chapter677OfCourseY
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0184-chapter-677-of-course-you-did",
   title: "Chapter: 677 - Of Course You Did",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 184,
   ownLength: 2870,
   ownProgress: 2870,

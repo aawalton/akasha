@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0176Chapter670TravelAnd
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0176-chapter-670-travel-and-quickways",
   title: "Chapter: 670 - Travel and Quickways",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 176,
   ownLength: 2975,
   ownProgress: 2975,

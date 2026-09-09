@@ -5,7 +5,7 @@ export const motherOfLearning001111Limiters = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0011-11-limiters",
   title: "11. Limiters",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 11,
   ownLength: 6491,
   ownProgress: 6491,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0164Chapter658RebukingT
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0164-chapter-658-rebuking-the-house-of-the",
   title: "Chapter: 658 - Rebuking the House of the Frost Lance",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 164,
   ownLength: 2659,
   ownProgress: 2659,

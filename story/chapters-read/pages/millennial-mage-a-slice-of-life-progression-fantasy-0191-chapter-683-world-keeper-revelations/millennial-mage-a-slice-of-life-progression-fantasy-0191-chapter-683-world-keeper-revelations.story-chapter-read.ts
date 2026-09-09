@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0191Chapter683WorldKeep
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0191-chapter-683-world-keeper-revelations",
   title: "Chapter: 683 - World Keeper Revelations",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 191,
   ownLength: 2622,
   ownProgress: 2622,

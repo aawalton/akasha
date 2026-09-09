@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0234Chapter724ReuniteAn
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0234-chapter-724-reunite-and-re-examine",
   title: "Chapter: 724 - Reunite and Re-Examine",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 234,
   ownLength: 2803,
   unitSlug: "words",

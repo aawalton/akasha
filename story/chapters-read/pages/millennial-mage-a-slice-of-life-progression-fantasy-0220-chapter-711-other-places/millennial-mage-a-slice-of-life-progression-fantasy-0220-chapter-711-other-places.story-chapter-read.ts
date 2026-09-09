@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0220Chapter711OtherPlac
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0220-chapter-711-other-places",
   title: "Chapter: 711 - Other Places",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 220,
   ownLength: 2549,
   unitSlug: "words",

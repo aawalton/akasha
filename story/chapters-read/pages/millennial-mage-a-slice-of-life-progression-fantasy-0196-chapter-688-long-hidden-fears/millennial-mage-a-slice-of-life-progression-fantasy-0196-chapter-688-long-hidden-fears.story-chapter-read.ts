@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0196Chapter688LongHidde
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0196-chapter-688-long-hidden-fears",
   title: "Chapter: 688 - Long Hidden Fears",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 196,
   ownLength: 3072,
   ownProgress: 3072,

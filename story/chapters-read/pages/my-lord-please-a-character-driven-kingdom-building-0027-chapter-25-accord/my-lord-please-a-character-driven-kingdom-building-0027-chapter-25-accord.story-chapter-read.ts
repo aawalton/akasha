@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0027Chapter25Accord = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0027-chapter-25-accord",
   title: "Chapter 25 Accord",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 27,
   ownLength: 2683,
   unitSlug: "words",

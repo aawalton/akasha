@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0128Chapter122Brace = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0128-chapter-122-brace",
   title: "Chapter 122 Brace",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 128,
   ownLength: 2109,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0251Chapter740Discussio
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0251-chapter-740-discussions-and-weariness",
   title: "Chapter: 740 - Discussions and Weariness",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 251,
   ownLength: 3025,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0171Chapter665FairyGard
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0171-chapter-665-fairy-garden",
   title: "Chapter: 665 - Fairy Garden?",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 171,
   ownLength: 2977,
   ownProgress: 2977,

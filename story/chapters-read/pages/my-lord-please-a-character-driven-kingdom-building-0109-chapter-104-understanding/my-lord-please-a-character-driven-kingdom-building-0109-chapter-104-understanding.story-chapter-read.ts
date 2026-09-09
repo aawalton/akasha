@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0109Chapter104Understand
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0109-chapter-104-understanding",
   title: "Chapter 104 Understanding",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 109,
   ownLength: 2119,
   unitSlug: "words",

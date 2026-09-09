@@ -4,7 +4,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0132Chapter126Snare = {
   id: "01a0781c-ce39-78c6-a49f-5c267caabd96",
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0132-chapter-126-snare",
-  storySlug: "story-read/my-lord-please-a-character-driven-kingdom-building",
+  story: "story-read/my-lord-please-a-character-driven-kingdom-building",
   position: 132,
   publishedAt: "2026-09-06",
   unitSlug: "words",

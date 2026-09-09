@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0224Chapter715FlightsAn
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0224-chapter-715-flights-and-fragments",
   title: "Chapter: 715 - Flights and Fragments",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 224,
   ownLength: 2736,
   unitSlug: "words",

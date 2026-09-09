@@ -5,7 +5,7 @@ export const motherOfLearning009292TheScramble = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0092-92-the-scramble",
   title: "92. The Scramble",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 92,
   ownLength: 8279,
   ownProgress: 8279,

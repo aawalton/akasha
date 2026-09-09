@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0177Chapter671ACeremoni
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0177-chapter-671-a-ceremonial-welcome",
   title: "Chapter: 671 - A Ceremonial Welcome",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 177,
   ownLength: 2513,
   ownProgress: 2513,

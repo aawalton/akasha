@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0174Chapter668MeetingWi
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0174-chapter-668-meeting-with-pillar-sanguis",
   title: "Chapter: 668 - Meeting with Pillar Sanguis",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 174,
   ownLength: 3018,
   ownProgress: 3018,

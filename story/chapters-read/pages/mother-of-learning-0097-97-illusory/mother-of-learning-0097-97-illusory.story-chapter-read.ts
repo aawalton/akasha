@@ -5,7 +5,7 @@ export const motherOfLearning009797Illusory = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0097-97-illusory",
   title: "97. Illusory",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 97,
   ownLength: 7025,
   ownProgress: 7025,

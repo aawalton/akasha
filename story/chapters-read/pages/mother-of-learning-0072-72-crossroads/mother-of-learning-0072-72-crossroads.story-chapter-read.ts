@@ -5,7 +5,7 @@ export const motherOfLearning007272Crossroads = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0072-72-crossroads",
   title: "72. Crossroads",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 72,
   ownLength: 7316,
   ownProgress: 7316,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0206Chapter698ABreathAP
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0206-chapter-698-a-breath-a-plan",
   title: "Chapter: 698 - A Breath, A Plan",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 206,
   ownLength: 3651,
   unitSlug: "words",

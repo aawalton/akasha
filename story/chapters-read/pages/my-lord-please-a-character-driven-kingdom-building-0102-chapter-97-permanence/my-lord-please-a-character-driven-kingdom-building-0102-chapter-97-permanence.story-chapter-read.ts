@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0102Chapter97Permanence 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0102-chapter-97-permanence",
   title: "Chapter 97 Permanence",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 102,
   ownLength: 2074,
   unitSlug: "words",

@@ -10,7 +10,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0190Chapter748WordsMade
   externalId: "3934072",
   source: "royal-road",
   title: "Chapter: 748 - Words Made Real (3)",
-  storySlug: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   ownLength: 2535,
   externalLink:
     "https://www.royalroad.com/fiction/47826/millennial-mage-a-slice-of-life-progression-fantasy/chapter/3934072/chapter-748-words-made-real-3",

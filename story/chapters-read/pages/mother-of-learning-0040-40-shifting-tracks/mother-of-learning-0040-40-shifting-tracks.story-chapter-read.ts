@@ -5,7 +5,7 @@ export const motherOfLearning004040ShiftingTracks = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0040-40-shifting-tracks",
   title: "40. Shifting Tracks",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 40,
   ownLength: 8872,
   ownProgress: 8872,

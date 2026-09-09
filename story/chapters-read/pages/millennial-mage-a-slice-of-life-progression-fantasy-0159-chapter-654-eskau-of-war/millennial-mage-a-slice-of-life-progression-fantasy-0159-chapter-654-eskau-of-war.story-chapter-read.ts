@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0159Chapter654EskauOfWa
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0159-chapter-654-eskau-of-war",
   title: "Chapter: 654 - Eskau of War",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 159,
   ownLength: 3314,
   ownProgress: 3314,

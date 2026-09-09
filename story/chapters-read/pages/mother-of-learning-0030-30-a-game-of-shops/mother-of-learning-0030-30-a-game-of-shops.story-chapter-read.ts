@@ -5,7 +5,7 @@ export const motherOfLearning003030AGameOfShops = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0030-30-a-game-of-shops",
   title: "30. A Game of Shops",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 30,
   ownLength: 6439,
   ownProgress: 6439,

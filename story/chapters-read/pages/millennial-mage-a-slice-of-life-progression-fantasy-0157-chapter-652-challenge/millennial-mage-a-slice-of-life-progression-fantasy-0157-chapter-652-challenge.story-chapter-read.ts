@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0157Chapter652Challenge
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0157-chapter-652-challenge",
   title: "Chapter: 652 - Challenge",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 157,
   ownLength: 3235,
   ownProgress: 3235,

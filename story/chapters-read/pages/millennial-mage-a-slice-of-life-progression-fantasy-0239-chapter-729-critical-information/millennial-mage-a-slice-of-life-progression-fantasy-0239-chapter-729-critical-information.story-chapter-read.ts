@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0239Chapter729CriticalI
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0239-chapter-729-critical-information",
   title: "Chapter: 729 - Critical Information",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 239,
   ownLength: 3084,
   unitSlug: "words",

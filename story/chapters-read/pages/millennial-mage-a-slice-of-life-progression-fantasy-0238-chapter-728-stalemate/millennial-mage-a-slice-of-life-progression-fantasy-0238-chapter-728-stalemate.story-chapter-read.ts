@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0238Chapter728Stalemate
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0238-chapter-728-stalemate",
   title: "Chapter: 728 - Stalemate?",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 238,
   ownLength: 2596,
   unitSlug: "words",

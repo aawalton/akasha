@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0031Chapter29Deliberatio
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0031-chapter-29-deliberation",
   title: "Chapter 29 Deliberation",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 31,
   ownLength: 2119,
   unitSlug: "words",

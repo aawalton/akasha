@@ -5,7 +5,7 @@ export const motherOfLearning005959OneStepForward = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0059-59-one-step-forward",
   title: "59. One Step Forward",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 59,
   ownLength: 8040,
   ownProgress: 8040,

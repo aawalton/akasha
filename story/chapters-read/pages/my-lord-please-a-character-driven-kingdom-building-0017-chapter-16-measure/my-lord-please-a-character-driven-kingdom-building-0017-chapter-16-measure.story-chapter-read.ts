@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0017Chapter16Measure = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0017-chapter-16-measure",
   title: "Chapter 16 Measure",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 17,
   ownLength: 2038,
   unitSlug: "words",

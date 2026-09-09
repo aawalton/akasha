@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0198Chapter690FirstEnco
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0198-chapter-690-first-encounter",
   title: "Chapter: 690 - First Encounter",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 198,
   ownLength: 3261,
   ownProgress: 3261,

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0074Chapter69Refinement 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0074-chapter-69-refinement",
   title: "Chapter 69 Refinement",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 74,
   ownLength: 2303,
   unitSlug: "words",

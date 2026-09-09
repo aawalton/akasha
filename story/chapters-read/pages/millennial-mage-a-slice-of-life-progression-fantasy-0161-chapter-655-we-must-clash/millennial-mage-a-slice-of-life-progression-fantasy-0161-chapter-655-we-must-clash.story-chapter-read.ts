@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0161Chapter655WeMustCla
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0161-chapter-655-we-must-clash",
   title: "Chapter: 655 - We Must Clash",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 161,
   ownLength: 2764,
   ownProgress: 2764,

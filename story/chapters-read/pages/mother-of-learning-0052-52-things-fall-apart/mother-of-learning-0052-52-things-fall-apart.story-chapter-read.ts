@@ -5,7 +5,7 @@ export const motherOfLearning005252ThingsFallApart = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0052-52-things-fall-apart",
   title: "52. Things Fall Apart",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 52,
   ownLength: 9250,
   ownProgress: 9250,

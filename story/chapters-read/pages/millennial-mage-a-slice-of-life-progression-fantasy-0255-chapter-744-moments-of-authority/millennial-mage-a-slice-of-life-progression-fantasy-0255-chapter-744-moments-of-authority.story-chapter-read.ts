@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0255Chapter744MomentsOf
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0255-chapter-744-moments-of-authority",
   title: "Chapter: 744 - Moments of Authority",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 255,
   ownLength: 2611,
   unitSlug: "words",

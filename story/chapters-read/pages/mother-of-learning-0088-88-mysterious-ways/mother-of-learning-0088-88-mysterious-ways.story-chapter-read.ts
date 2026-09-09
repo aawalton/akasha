@@ -5,7 +5,7 @@ export const motherOfLearning008888MysteriousWays = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0088-88-mysterious-ways",
   title: "88. Mysterious Ways",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 88,
   ownLength: 6822,
   ownProgress: 6822,

@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0126Chapter120Framework 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0126-chapter-120-framework",
   title: "Chapter 120 Framework",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 126,
   ownLength: 2578,
   unitSlug: "words",

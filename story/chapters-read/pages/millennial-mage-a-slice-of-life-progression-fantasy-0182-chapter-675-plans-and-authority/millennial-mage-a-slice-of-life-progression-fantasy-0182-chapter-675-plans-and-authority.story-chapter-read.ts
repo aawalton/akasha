@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0182Chapter675PlansAndA
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0182-chapter-675-plans-and-authority",
   title: "Chapter: 675 - Plans and Authority",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 182,
   ownLength: 2840,
   ownProgress: 2840,

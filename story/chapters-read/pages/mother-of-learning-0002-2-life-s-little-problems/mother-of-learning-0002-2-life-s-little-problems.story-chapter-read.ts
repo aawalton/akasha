@@ -5,7 +5,7 @@ export const motherOfLearning00022LifeSLittleProblems = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0002-2-life-s-little-problems",
   title: "2. Life’s Little Problems",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 2,
   ownLength: 7521,
   ownProgress: 7521,

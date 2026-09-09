@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0226Chapter717ReachingT
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0226-chapter-717-reaching-the-mountain",
   title: "Chapter: 717 - Reaching the Mountain",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 226,
   ownLength: 2934,
   unitSlug: "words",

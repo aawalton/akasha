@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0200Chapter692Officers 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0200-chapter-692-officers",
   title: "Chapter: 692 - Officers",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 200,
   ownLength: 2886,
   ownProgress: 2886,

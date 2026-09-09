@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0006Chapter5Constraints 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0006-chapter-5-constraints",
   title: "Chapter 5 Constraints",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 6,
   ownLength: 2626,
   unitSlug: "words",

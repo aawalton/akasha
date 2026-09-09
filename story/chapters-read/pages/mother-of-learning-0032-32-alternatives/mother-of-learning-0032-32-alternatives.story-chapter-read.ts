@@ -5,7 +5,7 @@ export const motherOfLearning003232Alternatives = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0032-32-alternatives",
   title: "32. Alternatives",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 32,
   ownLength: 5953,
   ownProgress: 5953,

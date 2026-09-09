@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0170Chapter664LayersUpo
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0170-chapter-664-layers-upon-layers",
   title: "Chapter: 664 - Layers Upon Layers",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 170,
   ownLength: 3002,
   ownProgress: 3002,

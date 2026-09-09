@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0199Chapter691ThePlanIs
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0199-chapter-691-the-plan-is-chosen",
   title: "Chapter: 691 - The Plan Is Chosen",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 199,
   ownLength: 3841,
   ownProgress: 3841,

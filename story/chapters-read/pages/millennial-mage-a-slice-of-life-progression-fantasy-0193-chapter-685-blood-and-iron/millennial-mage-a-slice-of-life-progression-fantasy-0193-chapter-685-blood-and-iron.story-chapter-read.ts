@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0193Chapter685BloodAndI
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0193-chapter-685-blood-and-iron",
   title: "Chapter: 685 - Blood and Iron",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 193,
   ownLength: 2816,
   ownProgress: 2816,

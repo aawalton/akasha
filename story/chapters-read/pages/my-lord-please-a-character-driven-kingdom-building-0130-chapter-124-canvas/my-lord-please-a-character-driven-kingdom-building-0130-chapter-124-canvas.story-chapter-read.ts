@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0130Chapter124Canvas = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0130-chapter-124-canvas",
   title: "Chapter 124 Canvas",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 130,
   ownLength: 2243,
   unitSlug: "words",

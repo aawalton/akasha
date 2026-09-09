@@ -5,7 +5,7 @@ export const motherOfLearning003434UnreasonableThings = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0034-34-unreasonable-things",
   title: "34. Unreasonable Things",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 34,
   ownLength: 7300,
   ownProgress: 7300,

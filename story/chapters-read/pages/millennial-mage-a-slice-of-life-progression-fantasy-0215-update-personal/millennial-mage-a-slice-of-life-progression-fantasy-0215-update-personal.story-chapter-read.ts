@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0215UpdatePersonal = {
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0215-update-personal",
   title: "<Update> Personal",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 215,
   ownLength: 146,
   unitSlug: "words",

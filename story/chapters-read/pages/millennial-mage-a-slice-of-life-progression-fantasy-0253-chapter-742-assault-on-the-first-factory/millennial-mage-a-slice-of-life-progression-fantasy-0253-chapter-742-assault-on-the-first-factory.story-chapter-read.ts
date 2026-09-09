@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0253Chapter742AssaultOn
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0253-chapter-742-assault-on-the-first-factory",
   title: "Chapter: 742 - Assault on the First Factory",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 253,
   ownLength: 2576,
   unitSlug: "words",

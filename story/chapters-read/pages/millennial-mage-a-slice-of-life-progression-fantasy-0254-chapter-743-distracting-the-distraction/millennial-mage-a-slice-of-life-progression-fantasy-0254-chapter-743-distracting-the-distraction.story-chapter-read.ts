@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0254Chapter743Distracti
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0254-chapter-743-distracting-the-distraction",
   title: "Chapter: 743 - Distracting the Distraction",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 254,
   ownLength: 2622,
   unitSlug: "words",

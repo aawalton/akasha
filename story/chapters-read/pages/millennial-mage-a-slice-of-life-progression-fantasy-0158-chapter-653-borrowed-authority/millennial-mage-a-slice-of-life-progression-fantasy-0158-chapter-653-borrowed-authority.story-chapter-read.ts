@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0158Chapter653BorrowedA
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0158-chapter-653-borrowed-authority",
   title: "Chapter: 653 - Borrowed Authority",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 158,
   ownLength: 2657,
   ownProgress: 2657,

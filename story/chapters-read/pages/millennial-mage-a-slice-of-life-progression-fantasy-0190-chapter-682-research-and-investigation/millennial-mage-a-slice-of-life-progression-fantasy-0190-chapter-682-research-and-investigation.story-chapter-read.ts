@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0190Chapter682ResearchA
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0190-chapter-682-research-and-investigation",
   title: "Chapter: 682 - Research and Investigation Begins",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 190,
   ownLength: 2773,
   ownProgress: 2773,

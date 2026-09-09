@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0249Chapter738TheRealit
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0249-chapter-738-the-reality-of-clean-up",
   title: "Chapter: 738 - The Reality of Clean-up",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 249,
   ownLength: 3011,
   unitSlug: "words",

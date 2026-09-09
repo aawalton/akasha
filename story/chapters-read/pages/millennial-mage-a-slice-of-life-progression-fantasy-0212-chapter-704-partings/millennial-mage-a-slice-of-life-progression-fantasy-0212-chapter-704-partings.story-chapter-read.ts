@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0212Chapter704Partings 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0212-chapter-704-partings",
   title: "Chapter: 704 - Partings",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 212,
   ownLength: 2793,
   unitSlug: "words",

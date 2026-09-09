@@ -5,7 +5,7 @@ export const motherOfLearning007070CarriedAway = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0070-70-carried-away",
   title: "70. Carried Away",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 70,
   ownLength: 5950,
   ownProgress: 5950,

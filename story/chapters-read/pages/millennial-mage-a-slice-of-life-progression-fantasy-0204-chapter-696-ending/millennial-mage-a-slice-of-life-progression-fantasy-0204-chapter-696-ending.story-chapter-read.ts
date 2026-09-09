@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0204Chapter696Ending = 
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0204-chapter-696-ending",
   title: "Chapter: 696 - Ending",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 204,
   ownLength: 4451,
   ownProgress: 3732,

@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0208Chapter700ARoyalGam
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0208-chapter-700-a-royal-gambit",
   title: "Chapter: 700 - A Royal Gambit",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 208,
   ownLength: 2809,
   unitSlug: "words",

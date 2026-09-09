@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0098Chapter93Consequence
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0098-chapter-93-consequence",
   title: "Chapter 93 Consequence",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 98,
   ownLength: 2395,
   unitSlug: "words",

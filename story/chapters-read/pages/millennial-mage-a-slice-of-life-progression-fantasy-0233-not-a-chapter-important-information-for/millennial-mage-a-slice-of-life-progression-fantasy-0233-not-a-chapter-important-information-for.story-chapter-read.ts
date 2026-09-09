@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0233NotAChapterImportan
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0233-not-a-chapter-important-information-for",
   title: "<Not a Chapter> Important Information for Readers and Supporters <Update>",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 233,
   ownLength: 428,
   unitSlug: "words",

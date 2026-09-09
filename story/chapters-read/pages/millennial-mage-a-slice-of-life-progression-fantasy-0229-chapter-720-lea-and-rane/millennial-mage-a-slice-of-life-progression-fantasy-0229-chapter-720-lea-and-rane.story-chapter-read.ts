@@ -5,7 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0229Chapter720LeaAndRan
   pageTypeSlug: "story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0229-chapter-720-lea-and-rane",
   title: "Chapter: 720 - Lea and Rane",
-  storySlug: "millennial-mage-a-slice-of-life-progression-fantasy",
+  story: "millennial-mage-a-slice-of-life-progression-fantasy",
   position: 229,
   ownLength: 2743,
   unitSlug: "words",

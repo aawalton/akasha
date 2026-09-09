@@ -5,7 +5,7 @@ export const motherOfLearning004343Overwhelmed = {
   pageTypeSlug: "story-chapter-read",
   slug: "mother-of-learning-0043-43-overwhelmed",
   title: "43. Overwhelmed",
-  storySlug: "story-read/mother-of-learning",
+  story: "story-read/mother-of-learning",
   position: 43,
   ownLength: 9043,
   ownProgress: 9043,

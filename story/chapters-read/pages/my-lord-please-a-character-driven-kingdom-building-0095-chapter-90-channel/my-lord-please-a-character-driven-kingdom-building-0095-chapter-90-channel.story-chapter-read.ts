@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0095Chapter90Channel = {
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0095-chapter-90-channel",
   title: "Chapter 90 Channel",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 95,
   ownLength: 2062,
   unitSlug: "words",

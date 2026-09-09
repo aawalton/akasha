@@ -5,7 +5,7 @@ export const myLordPleaseACharacterDrivenKingdomBuilding0028Chapter26Conception 
   pageTypeSlug: "story-chapter-read",
   slug: "my-lord-please-a-character-driven-kingdom-building-0028-chapter-26-conception",
   title: "Chapter 26 Conception",
-  storySlug: "my-lord-please-a-character-driven-kingdom-building",
+  story: "my-lord-please-a-character-driven-kingdom-building",
   position: 28,
   ownLength: 1948,
   unitSlug: "words",
