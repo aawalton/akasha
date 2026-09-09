@@ -2,22 +2,6 @@
 
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
-import {
-  bulkUpdateAllQuality,
-  bulkUpdateAllSets,
-} from "@akasha/temper-characters-equipment/bulk-update-functions"
-import type { WeaponBars } from "@akasha/temper-characters-equipment/loadout-types"
-import {
-  getMythicSlots,
-  getWeaponMythicSlots,
-} from "@akasha/temper-characters-equipment/mythic-set-rules"
-import {
-  getWeaponItem,
-  isShieldSlot,
-  isWeaponSlot,
-  shouldHideWeaponSlot,
-} from "@akasha/temper-characters-equipment/weapon-slot-access"
-import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
 import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
@@ -30,6 +14,22 @@ import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+import {
+  bulkUpdateAllQuality,
+  bulkUpdateAllSets,
+} from "akasha/temper/temper-characters-equipment/bulk-update-functions/bulk-update-functions.module.code.ts"
+import type { WeaponBars } from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
+import {
+  getMythicSlots,
+  getWeaponMythicSlots,
+} from "akasha/temper/temper-characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+import {
+  getWeaponItem,
+  isShieldSlot,
+  isWeaponSlot,
+  shouldHideWeaponSlot,
+} from "akasha/temper/temper-characters-equipment/weapon-slot-access/weapon-slot-access.module.code.ts"
+import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { useMemo } from "react"
 import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"

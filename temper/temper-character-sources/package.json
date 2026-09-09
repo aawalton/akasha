@@ -19,7 +19,6 @@
     "./vampire-stages": "./vampire-stages/vampire-stages.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-characters-equipment": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/utils": "workspace:*"
   }

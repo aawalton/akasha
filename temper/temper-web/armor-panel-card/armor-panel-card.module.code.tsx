@@ -3,20 +3,6 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
 import {
-  type ArmorEnchantId,
-  armorEnchants,
-} from "@akasha/temper-characters-equipment/armor-enchants"
-import { standardArmorWeights } from "@akasha/temper-characters-equipment/armor-weights"
-import {
-  bulkUpdateArmorEnchant,
-  bulkUpdateArmorQuality,
-  bulkUpdateArmorSet,
-  bulkUpdateArmorTrait,
-  bulkUpdateArmorWeight,
-} from "@akasha/temper-characters-equipment/bulk-update-armor"
-import { mergeItemData } from "@akasha/temper-characters-equipment/merge-item-data"
-import { getMythicSlots } from "@akasha/temper-characters-equipment/mythic-set-rules"
-import {
   type ArmorTraitId,
   armorTraitsBuildList,
   armorTraits as armorTraitsData,
@@ -29,6 +15,20 @@ import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+import {
+  type ArmorEnchantId,
+  armorEnchants,
+} from "akasha/temper/temper-characters-equipment/armor-enchants/armor-enchants.module.code.ts"
+import { standardArmorWeights } from "akasha/temper/temper-characters-equipment/armor-weights/armor-weights.module.code.ts"
+import {
+  bulkUpdateArmorEnchant,
+  bulkUpdateArmorQuality,
+  bulkUpdateArmorSet,
+  bulkUpdateArmorTrait,
+  bulkUpdateArmorWeight,
+} from "akasha/temper/temper-characters-equipment/bulk-update-armor/bulk-update-armor.module.code.ts"
+import { mergeItemData } from "akasha/temper/temper-characters-equipment/merge-item-data/merge-item-data.module.code.ts"
+import { getMythicSlots } from "akasha/temper/temper-characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
 import { useMemo } from "react"
 import type { ArmorUpdateParams } from "../armor-card/armor-card.module.code.tsx"
 import { ArmorCard } from "../armor-card/armor-card.module.code.tsx"

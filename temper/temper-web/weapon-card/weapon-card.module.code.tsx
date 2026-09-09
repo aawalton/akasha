@@ -9,28 +9,6 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import {
-  type ArmorEnchantId,
-  armorEnchants,
-} from "@akasha/temper-characters-equipment/armor-enchants"
-import {
-  convertIconPathToUrl,
-  getEquipmentIcon,
-} from "@akasha/temper-characters-equipment/get-equipment-icon"
-import type {
-  WeaponSlotItem,
-  WeaponSlotUpdateParams,
-} from "@akasha/temper-characters-equipment/loadout-types"
-import {
-  getValidSetsForSlot,
-  getValidTypesForSet,
-  isShieldValidForSet,
-} from "@akasha/temper-characters-equipment/set-pattern-matcher"
-import {
-  type WeaponEnchantmentId,
-  weaponEnchantments,
-} from "@akasha/temper-characters-equipment/weapon-enchants"
-import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
-import {
   type ArmorTraitId,
   armorTraits,
   armorTraitsBuildList,
@@ -55,6 +33,28 @@ import {
   getQualityLabel,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+import {
+  type ArmorEnchantId,
+  armorEnchants,
+} from "akasha/temper/temper-characters-equipment/armor-enchants/armor-enchants.module.code.ts"
+import {
+  convertIconPathToUrl,
+  getEquipmentIcon,
+} from "akasha/temper/temper-characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
+import type {
+  WeaponSlotItem,
+  WeaponSlotUpdateParams,
+} from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
+import {
+  getValidSetsForSlot,
+  getValidTypesForSet,
+  isShieldValidForSet,
+} from "akasha/temper/temper-characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
+import {
+  type WeaponEnchantmentId,
+  weaponEnchantments,
+} from "akasha/temper/temper-characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
+import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 

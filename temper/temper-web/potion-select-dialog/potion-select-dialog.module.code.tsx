@@ -1,6 +1,5 @@
 "use client"
 
-import { convertIconPathToUrl } from "@akasha/temper-characters-equipment/get-equipment-icon"
 import { getSubcategory } from "@akasha/utils/narrow/get-subcategory"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
@@ -8,6 +7,7 @@ import {
   type PotionSource,
   potions,
 } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
+import { convertIconPathToUrl } from "akasha/temper/temper-characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { useMemo } from "react"
 import {
   FilterableSelectDialog,

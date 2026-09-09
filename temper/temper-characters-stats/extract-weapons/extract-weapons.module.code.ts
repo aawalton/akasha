@@ -1,4 +1,4 @@
-import { createWeaponSource } from "@akasha/temper-characters-equipment/weapon-source"
+import { createWeaponSource } from "akasha/temper/temper-characters-equipment/weapon-source/weapon-source.module.code.ts"
 import type { PipelineStage } from "../pipeline-types/pipeline-types.module.code.ts"
 
 export const extractWeapons: PipelineStage = (build, context) => {

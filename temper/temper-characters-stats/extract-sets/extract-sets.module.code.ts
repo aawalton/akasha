@@ -1,15 +1,18 @@
-import type {
-  ArmorSlotItem,
-  JewelrySlotItem,
-  WeaponSlotItem,
-} from "@akasha/temper-characters-equipment/loadout-types"
-import { createSetSource, type SetSource } from "@akasha/temper-characters-equipment/set-source"
 import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import {
   type EquipmentQualityId,
   resolveQuality,
 } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
+import type {
+  ArmorSlotItem,
+  JewelrySlotItem,
+  WeaponSlotItem,
+} from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
+import {
+  createSetSource,
+  type SetSource,
+} from "akasha/temper/temper-characters-equipment/set-source/set-source.module.code.ts"
 import type { PipelineStage } from "../pipeline-types/pipeline-types.module.code.ts"
 
 function getSetInfo(

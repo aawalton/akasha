@@ -9,19 +9,6 @@ import {
 } from "@akasha/design-primitives/select-control"
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import {
-  type ArmorEnchantId,
-  armorEnchants,
-} from "@akasha/temper-characters-equipment/armor-enchants"
-import { standardArmorWeights } from "@akasha/temper-characters-equipment/armor-weights"
-import {
-  convertIconPathToUrl,
-  getEquipmentIcon,
-} from "@akasha/temper-characters-equipment/get-equipment-icon"
-import {
-  getValidSetsForArmorSlot,
-  getValidWeightsForSet,
-} from "@akasha/temper-characters-equipment/set-pattern-matcher"
-import {
   type ArmorTraitId,
   armorTraits,
   armorTraitsBuildList,
@@ -40,6 +27,19 @@ import {
   getQualityLabel,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+import {
+  type ArmorEnchantId,
+  armorEnchants,
+} from "akasha/temper/temper-characters-equipment/armor-enchants/armor-enchants.module.code.ts"
+import { standardArmorWeights } from "akasha/temper/temper-characters-equipment/armor-weights/armor-weights.module.code.ts"
+import {
+  convertIconPathToUrl,
+  getEquipmentIcon,
+} from "akasha/temper/temper-characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
+import {
+  getValidSetsForArmorSlot,
+  getValidWeightsForSet,
+} from "akasha/temper/temper-characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 

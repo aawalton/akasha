@@ -10,16 +10,6 @@ import {
 } from "@akasha/design-primitives/select-control"
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import {
-  convertIconPathToUrl,
-  getEquipmentIcon,
-} from "@akasha/temper-characters-equipment/get-equipment-icon"
-import type { JewelryItem } from "@akasha/temper-characters-equipment/item-composites"
-import {
-  type JewelryEnchantId,
-  jewelryEnchants,
-} from "@akasha/temper-characters-equipment/jewelry-enchants"
-import { getValidSetsForSlot } from "@akasha/temper-characters-equipment/set-pattern-matcher"
-import {
   type JewelryTraitId,
   jewelryTraits,
   jewelryTraitsBuildList,
@@ -37,6 +27,16 @@ import {
   getQualityLabel,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+import {
+  convertIconPathToUrl,
+  getEquipmentIcon,
+} from "akasha/temper/temper-characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
+import type { JewelryItem } from "akasha/temper/temper-characters-equipment/item-composites/item-composites.module.code.ts"
+import {
+  type JewelryEnchantId,
+  jewelryEnchants,
+} from "akasha/temper/temper-characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
+import { getValidSetsForSlot } from "akasha/temper/temper-characters-equipment/set-pattern-matcher/set-pattern-matcher.module.code.ts"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 

@@ -116,7 +116,6 @@
     "./skill-line-queries": "./skill-line-queries/skill-line-queries.module.code.ts"
   },
   "dependencies": {
-    "@akasha/temper-characters-equipment": "workspace:*",
     "@akasha/temper-equipment": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-races": "workspace:*",

@@ -8,7 +8,6 @@ import type { FoodOrDrinkId } from "@akasha/temper-character-sources/food-or-dri
 import type { MundusId } from "@akasha/temper-character-sources/mundus-source"
 import type { TargetArmorId } from "@akasha/temper-character-sources/target-armors"
 import type { VampireStageId } from "@akasha/temper-character-sources/vampire-stages"
-import type { Loadout } from "@akasha/temper-characters-equipment/loadout-types"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { RaceId } from "@akasha/temper-races/races"
@@ -16,6 +15,7 @@ import type { SkillSlotId } from "@akasha/temper-skill-kinds/skill-slots"
 import type { SkillLineId } from "@akasha/temper-skill-lines/skill-lines"
 import type { PotionId } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
 import type { ChampionPointId } from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
+import type { Loadout } from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
 
 export interface CharacterState {
   id: BuildId

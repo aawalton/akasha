@@ -1,4 +1,4 @@
-import { setCategories } from "@akasha/temper-characters-equipment/set-categories"
+import { setCategories } from "akasha/temper/temper-characters-equipment/set-categories/set-categories.module.code.ts"
 import type { CategoryRule } from "../inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   FilterOption,

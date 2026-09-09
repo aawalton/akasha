@@ -1,23 +1,23 @@
 "use client"
 
-import { convertIconPathToUrl } from "@akasha/temper-characters-equipment/get-equipment-icon"
-import { canClassEquipSet } from "@akasha/temper-characters-equipment/set-class-restrictions"
-import {
-  createSetSelectConfig,
-  getMaxBonusPieceCount,
-  NO_SET_SOURCE,
-} from "@akasha/temper-characters-equipment/set-select-helpers"
-import {
-  isSetSourceId,
-  type SetSource,
-  type SetSourceId,
-} from "@akasha/temper-characters-equipment/set-source"
-import { isSetsAllId } from "@akasha/temper-characters-equipment/sets-all"
 import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { typedPartialRecordKeys } from "@akasha/temper-formula-framework/record-parts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
+import { convertIconPathToUrl } from "akasha/temper/temper-characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
+import { canClassEquipSet } from "akasha/temper/temper-characters-equipment/set-class-restrictions/set-class-restrictions.module.code.ts"
+import {
+  createSetSelectConfig,
+  getMaxBonusPieceCount,
+  NO_SET_SOURCE,
+} from "akasha/temper/temper-characters-equipment/set-select-helpers/set-select-helpers.module.code.ts"
+import {
+  isSetSourceId,
+  type SetSource,
+  type SetSourceId,
+} from "akasha/temper/temper-characters-equipment/set-source/set-source.module.code.ts"
+import { isSetsAllId } from "akasha/temper/temper-characters-equipment/sets-all/sets-all.module.code.ts"
 import { Shield } from "lucide-react"
 import { useMemo } from "react"
 import { FilterableSelectDialog } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"

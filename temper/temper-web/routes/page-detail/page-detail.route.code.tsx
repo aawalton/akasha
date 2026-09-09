@@ -17,7 +17,6 @@ import { createEmptyCharacter } from "@akasha/temper-character-build/build-facto
 import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import { toCharacterVisibility } from "@akasha/temper-character-build/build-types"
 import { skills } from "@akasha/temper-character-skills/character-skills"
-import { setsAll } from "@akasha/temper-characters-equipment/sets-all"
 import { createEmptyCompanion } from "@akasha/temper-companions-core/companion-factory"
 import { toVisibility } from "@akasha/temper-companions-core/companion-types"
 import {
@@ -32,6 +31,7 @@ import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import { setsAll } from "akasha/temper/temper-characters-equipment/sets-all/sets-all.module.code.ts"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"

@@ -2,29 +2,6 @@
 
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import {
-  bulkUpdateWeaponEnchant,
-  bulkUpdateWeaponQuality,
-  bulkUpdateWeaponSet,
-  bulkUpdateWeaponTrait,
-} from "@akasha/temper-characters-equipment/bulk-update-weapons"
-import type { WeaponBars } from "@akasha/temper-characters-equipment/loadout-types"
-import { getWeaponMythicSlots } from "@akasha/temper-characters-equipment/mythic-set-rules"
-import {
-  type WeaponEnchantmentId,
-  weaponEnchantments,
-} from "@akasha/temper-characters-equipment/weapon-enchants"
-import {
-  getWeaponItem,
-  isShieldSlot,
-  isWeaponSlot,
-  shouldHideWeaponSlot,
-} from "@akasha/temper-characters-equipment/weapon-slot-access"
-import {
-  removeWeaponItem,
-  updateWeaponItem,
-} from "@akasha/temper-characters-equipment/weapon-slot-mutations"
-import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
 import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import {
   type WeaponTraitId,
@@ -37,6 +14,29 @@ import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
 } from "akasha/temper/characters-equipment-ui/equipment-quality-rules/equipment-quality-rules.module.code.ts"
+import {
+  bulkUpdateWeaponEnchant,
+  bulkUpdateWeaponQuality,
+  bulkUpdateWeaponSet,
+  bulkUpdateWeaponTrait,
+} from "akasha/temper/temper-characters-equipment/bulk-update-weapons/bulk-update-weapons.module.code.ts"
+import type { WeaponBars } from "akasha/temper/temper-characters-equipment/loadout-types/loadout-types.module.code.ts"
+import { getWeaponMythicSlots } from "akasha/temper/temper-characters-equipment/mythic-set-rules/mythic-set-rules.module.code.ts"
+import {
+  type WeaponEnchantmentId,
+  weaponEnchantments,
+} from "akasha/temper/temper-characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
+import {
+  getWeaponItem,
+  isShieldSlot,
+  isWeaponSlot,
+  shouldHideWeaponSlot,
+} from "akasha/temper/temper-characters-equipment/weapon-slot-access/weapon-slot-access.module.code.ts"
+import {
+  removeWeaponItem,
+  updateWeaponItem,
+} from "akasha/temper/temper-characters-equipment/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
+import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 import { useMemo } from "react"
 import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"

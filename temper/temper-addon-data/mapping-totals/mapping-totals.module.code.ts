@@ -5,11 +5,6 @@ import { curses } from "@akasha/temper-character-sources/curses"
 import { foodOrDrink } from "@akasha/temper-character-sources/food-or-drink-source"
 import { mundus } from "@akasha/temper-character-sources/mundus-source"
 import { vampireStages } from "@akasha/temper-character-sources/vampire-stages"
-import { armorEnchants } from "@akasha/temper-characters-equipment/armor-enchants"
-import { jewelryEnchants } from "@akasha/temper-characters-equipment/jewelry-enchants"
-import { setsAll } from "@akasha/temper-characters-equipment/sets-all"
-import { weaponEnchantments } from "@akasha/temper-characters-equipment/weapon-enchants"
-import { weaponTypes } from "@akasha/temper-characters-equipment/weapon-types-data"
 import { companionSkills } from "@akasha/temper-companions-core/companion-skills"
 import { companions } from "@akasha/temper-companions-core/companions"
 import { armorTraits } from "@akasha/temper-equipment/armor-traits"
@@ -23,6 +18,11 @@ import { passiveSkillIds } from "akasha/temper/build-codec/build-codec-indices/b
 import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
 import { championPoints } from "akasha/temper/temper-champion-points/champion-point-source/champion-point-source.module.code.ts"
+import { armorEnchants } from "akasha/temper/temper-characters-equipment/armor-enchants/armor-enchants.module.code.ts"
+import { jewelryEnchants } from "akasha/temper/temper-characters-equipment/jewelry-enchants/jewelry-enchants.module.code.ts"
+import { setsAll } from "akasha/temper/temper-characters-equipment/sets-all/sets-all.module.code.ts"
+import { weaponEnchantments } from "akasha/temper/temper-characters-equipment/weapon-enchants/weapon-enchants.module.code.ts"
+import { weaponTypes } from "akasha/temper/temper-characters-equipment/weapon-types-data/weapon-types-data.module.code.ts"
 
 export function buildMappingTotals(): Record<string, string> {
   return {

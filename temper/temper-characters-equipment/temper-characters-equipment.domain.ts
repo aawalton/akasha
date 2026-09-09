@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperCharactersEquipment = {
   id: "01a0616f-8e1c-76b3-861c-26bdb8cfc586",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-characters-equipment",
   definition: "every piece of gear a character wears, with the effects each piece carries",
-  manifest: "json",
   parts: [
     "module/item-composites",
     "module/level-scaling",
@@ -175,4 +174,4 @@ export const temperCharactersEquipment = {
       statement: "Both copies of a generated table move together.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain
