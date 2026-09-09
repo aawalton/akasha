@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0018Chapter18OnlyShadowBit
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 18,
   ownLength: 1833,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2577382/chapter-18-only-shadow-bites",

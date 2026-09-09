@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0118Chapter117Anticipating
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 118,
   ownLength: 2900,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3240204/chapter-117-anticipating-ant-delicacies-to-terrible",

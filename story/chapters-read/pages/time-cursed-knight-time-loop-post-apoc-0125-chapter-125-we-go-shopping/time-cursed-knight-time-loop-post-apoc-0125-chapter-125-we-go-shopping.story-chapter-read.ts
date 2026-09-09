@@ -7,7 +7,7 @@ export const timeCursedKnightTimeLoopPostApoc0125Chapter125WeGoShopping = {
   story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 125,
   publishedAt: "2026-09-07",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3925863",
   source: "royal-road",
   title: "Chapter 125: We Go Shopping",

@@ -6,7 +6,7 @@ export const timeCursedKnightTimeLoopPostApoc0127Chapter127BloodBetweenStones = 
   slug: "time-cursed-knight-time-loop-post-apoc-0127-chapter-127-blood-between-stones",
   position: 127,
   publishedAt: "2026-09-09",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3935206",
   source: "royal-road",
   title: "Chapter 127: Blood Between Stones",

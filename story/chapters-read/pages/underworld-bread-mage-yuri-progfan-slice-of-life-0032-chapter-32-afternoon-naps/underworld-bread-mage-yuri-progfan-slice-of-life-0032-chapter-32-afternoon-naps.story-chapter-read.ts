@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0032Chapter32AfternoonNaps
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 32,
   ownLength: 1428,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3863105/chapter-32-afternoon-naps",

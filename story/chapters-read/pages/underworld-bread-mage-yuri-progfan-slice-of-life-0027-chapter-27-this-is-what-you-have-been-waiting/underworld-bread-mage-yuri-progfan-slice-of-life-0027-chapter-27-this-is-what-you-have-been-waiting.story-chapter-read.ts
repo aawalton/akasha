@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0027Chapter27ThisIsWhatYou
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 27,
   ownLength: 1548,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3821314/chapter-27-this-is-what-you-have-been-waiting",

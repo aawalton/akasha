@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0139Chapter137OfMlemierPro
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 139,
   ownLength: 1924,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3618504/chapter-137-of-mlemier-promises",

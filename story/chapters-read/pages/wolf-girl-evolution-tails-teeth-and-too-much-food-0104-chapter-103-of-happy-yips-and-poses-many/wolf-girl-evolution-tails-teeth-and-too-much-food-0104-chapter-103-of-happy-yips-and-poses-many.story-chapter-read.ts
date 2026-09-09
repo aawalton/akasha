@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0104Chapter103OfHappyYipsA
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 104,
   ownLength: 2635,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3088873/chapter-103-of-happy-yips-and-poses-many",

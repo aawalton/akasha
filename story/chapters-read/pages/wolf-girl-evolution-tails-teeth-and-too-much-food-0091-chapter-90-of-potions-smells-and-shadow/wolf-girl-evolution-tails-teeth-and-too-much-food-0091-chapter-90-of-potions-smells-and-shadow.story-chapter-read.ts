@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0091Chapter90OfPotionsSmel
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 91,
   ownLength: 2111,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2975549/chapter-90-of-potions-smells-and-shadow-tricks",

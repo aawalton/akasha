@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0059Chapter59EffectiveImmediately =
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 59,
   ownLength: 3725,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3497773/chapter-59-effective-immediately",

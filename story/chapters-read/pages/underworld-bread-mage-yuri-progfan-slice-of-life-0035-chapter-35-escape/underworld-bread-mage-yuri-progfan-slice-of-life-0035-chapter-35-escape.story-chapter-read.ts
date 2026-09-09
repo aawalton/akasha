@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0035Chapter35Escape = {
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 35,
   ownLength: 1411,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3895413/chapter-35-escape",

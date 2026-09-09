@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0044Chapter44NewBlood = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 44,
   ownLength: 2702,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3400579/chapter-44-new-blood",

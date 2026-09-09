@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0134Chapter132OfEconomicCa
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 134,
   ownLength: 3387,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3544132/chapter-132-of-economic-catastrophes-and-campfire",

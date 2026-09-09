@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0031Chapter31FastFurAndFug
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 31,
   ownLength: 1332,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2610819/chapter-31-fast-fur-and-fugly",

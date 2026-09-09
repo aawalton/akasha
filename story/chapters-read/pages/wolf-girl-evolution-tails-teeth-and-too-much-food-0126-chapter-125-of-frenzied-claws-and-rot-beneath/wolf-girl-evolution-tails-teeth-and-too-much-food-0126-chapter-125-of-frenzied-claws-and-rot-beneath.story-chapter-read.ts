@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0126Chapter125OfFrenziedCl
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 126,
   ownLength: 3393,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3359216/chapter-125-of-frenzied-claws-and-rot-beneath",

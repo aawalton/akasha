@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0037Chapter36LittleBi
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 37,
   ownLength: 2142,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-17",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3827545/chapter-36-little-bird",

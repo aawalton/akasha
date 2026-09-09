@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0024Chapter24MlemOfDestiny
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 24,
   ownLength: 1482,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2593191/chapter-24-mlem-of-destiny",

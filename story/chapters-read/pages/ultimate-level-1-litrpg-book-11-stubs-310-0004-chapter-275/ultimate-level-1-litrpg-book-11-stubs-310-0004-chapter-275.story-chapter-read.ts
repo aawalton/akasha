@@ -8,7 +8,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100004Chapter275 = {
   story: "ultimate-level-1-litrpg-book-11-stubs-310",
   position: 4,
   ownLength: 2181,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1884372/chapter-275",

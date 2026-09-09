@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0008Chapter8FirstBloodFirs
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 8,
   ownLength: 1490,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2544500/chapter-8-first-blood-first-fear",

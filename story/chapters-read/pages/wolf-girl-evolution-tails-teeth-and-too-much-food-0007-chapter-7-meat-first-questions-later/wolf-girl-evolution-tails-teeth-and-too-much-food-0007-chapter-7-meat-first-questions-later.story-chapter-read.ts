@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0007Chapter7MeatFirstQuest
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 7,
   ownLength: 1468,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2542007/chapter-7-meat-first-questions-later",

@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0010Chapter10ShadowGames =
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 10,
   ownLength: 1731,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2550148/chapter-10-shadow-games",

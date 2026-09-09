@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0083Chapter83InsideThePalaceOfQalat
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 83,
   ownLength: 2471,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3654302/chapter-83-inside-the-palace-of-qalathar",

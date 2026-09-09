@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0031Chapter30Construc
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 31,
   ownLength: 1682,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-10",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3797419/chapter-30-constructs",

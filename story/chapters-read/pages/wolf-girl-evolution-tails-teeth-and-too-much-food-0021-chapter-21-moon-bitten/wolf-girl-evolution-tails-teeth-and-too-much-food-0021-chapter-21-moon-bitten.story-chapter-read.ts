@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0021Chapter21MoonBitten = 
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 21,
   ownLength: 1456,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2585275/chapter-21-moon-bitten",

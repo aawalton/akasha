@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0034Chapter34SecondInComma
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 34,
   ownLength: 1210,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2618112/chapter-34-second-in-command",

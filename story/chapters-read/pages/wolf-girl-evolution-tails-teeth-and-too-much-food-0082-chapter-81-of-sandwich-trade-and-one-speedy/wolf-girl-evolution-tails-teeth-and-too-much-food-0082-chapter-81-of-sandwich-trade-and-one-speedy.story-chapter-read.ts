@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0082Chapter81OfSandwichTra
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 82,
   ownLength: 1888,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2891077/chapter-81-of-sandwich-trade-and-one-speedy-gambit",

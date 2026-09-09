@@ -7,7 +7,7 @@ export const timeCursedKnightTimeLoopPostApoc0123Chapter123StudentEnRoute = {
   story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 123,
   publishedAt: "2026-09-03",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3905764",
   source: "royal-road",
   title: "Chapter 123: Student En Route",

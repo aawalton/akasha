@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0005Chapter5Training 
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 5,
   ownLength: 2323,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701714/chapter-5-training",

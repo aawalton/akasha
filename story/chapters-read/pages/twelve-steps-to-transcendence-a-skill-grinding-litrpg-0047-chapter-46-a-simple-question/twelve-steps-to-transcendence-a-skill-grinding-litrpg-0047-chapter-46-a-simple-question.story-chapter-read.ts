@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0047Chapter46ASimpleQ
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 47,
   ownLength: 1915,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-30",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3887351/chapter-46-a-simple-question",

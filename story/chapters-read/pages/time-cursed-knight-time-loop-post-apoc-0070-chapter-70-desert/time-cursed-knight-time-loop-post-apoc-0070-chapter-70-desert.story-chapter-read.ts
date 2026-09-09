@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0070Chapter70Desert = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 70,
   ownLength: 3128,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3576215/chapter-70-desert",

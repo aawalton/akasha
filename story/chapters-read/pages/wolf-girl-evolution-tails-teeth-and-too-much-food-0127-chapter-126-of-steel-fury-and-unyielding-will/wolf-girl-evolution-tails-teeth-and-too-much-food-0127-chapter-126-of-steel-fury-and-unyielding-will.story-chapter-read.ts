@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0127Chapter126OfSteelFuryA
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 127,
   ownLength: 3353,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3367725/chapter-126-of-steel-fury-and-unyielding-will",

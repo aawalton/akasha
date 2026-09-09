@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0117Chapter117Traitor = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 117,
   ownLength: 2549,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3868618/chapter-117-traitor",

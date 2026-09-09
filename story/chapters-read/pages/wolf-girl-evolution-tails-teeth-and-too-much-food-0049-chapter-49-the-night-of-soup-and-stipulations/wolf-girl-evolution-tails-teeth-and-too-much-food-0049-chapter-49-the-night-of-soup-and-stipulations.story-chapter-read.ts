@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0049Chapter49TheNightOfSou
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 49,
   ownLength: 1709,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2666680/chapter-49-the-night-of-soup-and-stipulations",

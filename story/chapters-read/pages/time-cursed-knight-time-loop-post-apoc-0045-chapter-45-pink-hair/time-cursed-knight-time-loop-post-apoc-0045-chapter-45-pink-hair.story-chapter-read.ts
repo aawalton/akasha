@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0045Chapter45PinkHair = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 45,
   ownLength: 3312,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3415017/chapter-45-pink-hair",

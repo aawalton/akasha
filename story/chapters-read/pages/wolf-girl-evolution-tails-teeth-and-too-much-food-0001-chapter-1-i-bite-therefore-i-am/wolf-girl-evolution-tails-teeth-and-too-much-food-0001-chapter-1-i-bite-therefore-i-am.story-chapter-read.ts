@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0001Chapter1IBiteTherefore
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 1,
   ownLength: 1817,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2535634/chapter-1-i-bite-therefore-i-am",

@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0002Chapter2Goals = {
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 2,
   ownLength: 2131,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-20",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3701705/chapter-2-goals",

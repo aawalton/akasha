@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0120Chapter119OfWarmWaking
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 120,
   ownLength: 2652,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3273794/chapter-119-of-warm-waking-and-earned-praise",

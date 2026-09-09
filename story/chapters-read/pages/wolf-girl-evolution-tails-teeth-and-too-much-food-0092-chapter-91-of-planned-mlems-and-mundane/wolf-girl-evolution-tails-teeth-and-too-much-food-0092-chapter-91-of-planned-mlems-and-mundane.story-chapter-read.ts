@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0092Chapter91OfPlannedMlem
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 92,
   ownLength: 1870,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2985442/chapter-91-of-planned-mlems-and-mundane-worries",

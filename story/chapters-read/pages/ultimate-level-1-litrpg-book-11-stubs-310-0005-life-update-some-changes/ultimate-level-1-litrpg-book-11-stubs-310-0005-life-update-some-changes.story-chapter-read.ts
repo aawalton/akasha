@@ -8,7 +8,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100005LifeUpdateSomeChanges = {
   story: "ultimate-level-1-litrpg-book-11-stubs-310",
   position: 5,
   ownLength: 544,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/2896525/life-update-some-changes",

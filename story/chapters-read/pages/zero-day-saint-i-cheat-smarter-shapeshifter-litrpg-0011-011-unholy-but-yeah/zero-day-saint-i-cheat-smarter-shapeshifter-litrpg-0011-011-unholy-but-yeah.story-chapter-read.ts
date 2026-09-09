@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0011011UnholyButYeah = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 11,
   ownLength: 2358,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3344412/011-unholy-but-yeah",

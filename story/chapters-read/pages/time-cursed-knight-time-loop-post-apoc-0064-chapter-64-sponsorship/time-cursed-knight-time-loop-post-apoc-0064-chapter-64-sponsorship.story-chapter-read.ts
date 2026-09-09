@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0064Chapter64Sponsorship = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 64,
   ownLength: 3405,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3530777/chapter-64-sponsorship",

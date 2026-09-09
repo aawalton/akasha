@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0049Chapter49NoTimeToLose = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 49,
   ownLength: 3973,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3432981/chapter-49-no-time-to-lose",

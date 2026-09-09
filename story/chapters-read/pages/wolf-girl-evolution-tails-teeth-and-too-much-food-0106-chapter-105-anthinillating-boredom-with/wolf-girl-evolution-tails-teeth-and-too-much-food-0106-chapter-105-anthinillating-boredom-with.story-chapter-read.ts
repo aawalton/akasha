@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0106Chapter105Anthinillati
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 106,
   ownLength: 2086,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3105815/chapter-105-anthinillating-boredom-with-awoos",

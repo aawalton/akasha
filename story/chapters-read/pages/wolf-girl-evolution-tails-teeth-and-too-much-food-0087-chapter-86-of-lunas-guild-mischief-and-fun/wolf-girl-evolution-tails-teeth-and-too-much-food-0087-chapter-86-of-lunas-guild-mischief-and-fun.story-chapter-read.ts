@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0087Chapter86OfLunasGuildM
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 87,
   ownLength: 1957,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2943816/chapter-86-of-lunas-guild-mischief-and-fun",

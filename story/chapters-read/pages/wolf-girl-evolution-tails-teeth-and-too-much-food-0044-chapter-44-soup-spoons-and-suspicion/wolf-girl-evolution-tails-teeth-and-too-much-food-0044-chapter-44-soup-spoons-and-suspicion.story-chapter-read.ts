@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0044Chapter44SoupSpoonsAnd
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 44,
   ownLength: 1574,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2649438/chapter-44-soup-spoons-and-suspicion",

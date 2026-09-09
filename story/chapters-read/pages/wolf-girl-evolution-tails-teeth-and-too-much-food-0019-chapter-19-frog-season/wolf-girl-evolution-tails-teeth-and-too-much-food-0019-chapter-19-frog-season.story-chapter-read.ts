@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0019Chapter19FrogSeason = 
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 19,
   ownLength: 1442,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2580071/chapter-19-frog-season",

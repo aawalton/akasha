@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0147Chapter144OfTunnelsTro
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 147,
   ownLength: 2134,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3734057/chapter-144-of-tunnels-troubles-and-tactical-jerky",

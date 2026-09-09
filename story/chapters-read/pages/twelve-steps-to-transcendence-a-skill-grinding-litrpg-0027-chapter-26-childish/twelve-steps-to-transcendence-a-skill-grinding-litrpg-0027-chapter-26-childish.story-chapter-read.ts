@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0027Chapter26Childish
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 27,
   ownLength: 3661,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-06",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3779497/chapter-26-childish",

@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0035Chapter34DontCry 
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 35,
   ownLength: 2259,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-14",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3815174/chapter-34-dont-cry",

@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0137Chapter135OfAwfulTalks
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 137,
   ownLength: 2796,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3585836/chapter-135-of-awful-talks-and-stupid-plans",

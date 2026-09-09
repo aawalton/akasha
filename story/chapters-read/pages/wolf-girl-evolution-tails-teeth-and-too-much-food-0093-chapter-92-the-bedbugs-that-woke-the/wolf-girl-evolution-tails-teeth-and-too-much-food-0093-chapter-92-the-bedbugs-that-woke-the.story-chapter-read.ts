@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0093Chapter92TheBedbugsTha
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 93,
   ownLength: 2067,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2989225/chapter-92-the-bedbugs-that-woke-the-sleeping",

@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0009009TheWildHunt = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 9,
   ownLength: 1436,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340978/009-the-wild-hunt",

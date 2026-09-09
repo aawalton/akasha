@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0048Chapter48Punishment = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 48,
   ownLength: 2846,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3428487/chapter-48-punishment",

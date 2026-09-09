@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0085Chapter84OfLunaTrainin
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 85,
   ownLength: 2147,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2927955/chapter-84-of-luna-training-and-pack-groaning",

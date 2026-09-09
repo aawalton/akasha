@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0072Chapter72TheMetropolis = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 72,
   ownLength: 2817,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3585648/chapter-72-the-metropolis",

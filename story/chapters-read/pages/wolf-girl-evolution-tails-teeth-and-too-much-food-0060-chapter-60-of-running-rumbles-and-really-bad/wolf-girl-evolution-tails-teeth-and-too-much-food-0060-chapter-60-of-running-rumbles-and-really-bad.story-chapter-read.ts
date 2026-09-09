@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0060Chapter60OfRunningRumb
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 60,
   ownLength: 1538,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2709796/chapter-60-of-running-rumbles-and-really-bad-ideas",

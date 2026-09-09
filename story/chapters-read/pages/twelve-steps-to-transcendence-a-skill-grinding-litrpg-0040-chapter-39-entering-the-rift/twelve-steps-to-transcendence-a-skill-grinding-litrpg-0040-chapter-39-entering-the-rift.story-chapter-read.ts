@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0040Chapter39Entering
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 40,
   ownLength: 1700,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-20",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3840543/chapter-39-entering-the-rift",

@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0066Chapter66DravenmoorAlliance = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 66,
   ownLength: 2465,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3548760/chapter-66-dravenmoor-alliance",

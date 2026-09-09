@@ -7,7 +7,7 @@ export const timeCursedKnightTimeLoopPostApoc0126Chapter126TheAcademyVoice = {
   story: "story-read/time-cursed-knight-time-loop-post-apoc",
   position: 126,
   publishedAt: "2026-09-08",
-  unitSlug: "words",
+  unit: "words",
   externalId: "3931028",
   source: "royal-road",
   title: "Chapter 126: The Academy Voice",

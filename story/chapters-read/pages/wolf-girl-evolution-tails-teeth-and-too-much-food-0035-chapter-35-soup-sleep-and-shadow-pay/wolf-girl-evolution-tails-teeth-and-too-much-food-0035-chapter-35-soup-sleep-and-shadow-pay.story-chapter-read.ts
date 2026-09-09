@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0035Chapter35SoupSleepAndS
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 35,
   ownLength: 1495,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2620853/chapter-35-soup-sleep-and-shadow-pay",

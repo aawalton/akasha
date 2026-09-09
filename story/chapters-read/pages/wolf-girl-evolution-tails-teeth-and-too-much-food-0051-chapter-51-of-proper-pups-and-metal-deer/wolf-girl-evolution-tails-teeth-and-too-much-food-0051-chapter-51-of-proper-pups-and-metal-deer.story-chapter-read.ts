@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0051Chapter51OfProperPupsA
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 51,
   ownLength: 1772,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2676681/chapter-51-of-proper-pups-and-metal-deer-solid",

@@ -8,7 +8,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100003Book5LiveOnAmazon = {
   story: "ultimate-level-1-litrpg-book-11-stubs-310",
   position: 3,
   ownLength: 182,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1878893/book-5-live-on-amazon",

@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0120Chapter120Goldfield = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 120,
   ownLength: 2814,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3891652/chapter-120-goldfield",

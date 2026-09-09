@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0071Chapter71Qalathar = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 71,
   ownLength: 2761,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3580891/chapter-71-qalathar",

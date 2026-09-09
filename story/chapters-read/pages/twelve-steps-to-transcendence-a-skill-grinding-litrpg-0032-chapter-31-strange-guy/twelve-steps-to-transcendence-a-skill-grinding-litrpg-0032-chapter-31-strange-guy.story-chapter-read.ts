@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0032Chapter31StrangeG
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 32,
   ownLength: 2151,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-11",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3801684/chapter-31-strange-guy",

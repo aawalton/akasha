@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0157Chapter154OfFullMawsAn
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 157,
   ownLength: 2894,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3891839/chapter-154-of-full-maws-and-crunchy-gains",

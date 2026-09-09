@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0006Chapter6TheHungerAndTh
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 6,
   ownLength: 1407,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2539466/chapter-6-the-hunger-and-the-howl",

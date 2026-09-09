@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0029Chapter29CreamAndButte
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 29,
   ownLength: 1421,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3834070/chapter-29-cream-and-butter",

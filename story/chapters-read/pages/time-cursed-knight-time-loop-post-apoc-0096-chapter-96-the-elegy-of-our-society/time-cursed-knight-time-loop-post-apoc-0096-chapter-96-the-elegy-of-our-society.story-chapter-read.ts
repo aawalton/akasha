@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0096Chapter96TheElegyOfOurSociety =
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 96,
   ownLength: 2420,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3738367/chapter-96-the-elegy-of-our-society",

@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0066Chapter66OfBigBitesAnd
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 66,
   ownLength: 2360,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2732562/chapter-66-of-big-bites-and-bigger-shadows",

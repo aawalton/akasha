@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0155Chapter152OfApexHuntsA
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 155,
   ownLength: 2618,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3859860/chapter-152-of-apex-hunts-and-broken-mountain",

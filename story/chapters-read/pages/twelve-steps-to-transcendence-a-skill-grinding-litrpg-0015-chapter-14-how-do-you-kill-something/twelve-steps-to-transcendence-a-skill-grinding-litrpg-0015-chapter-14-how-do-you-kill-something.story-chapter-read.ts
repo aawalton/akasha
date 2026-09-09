@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0015Chapter14HowDoYou
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 15,
   ownLength: 2230,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-25",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3725982/chapter-14-how-do-you-kill-something-that-wont",

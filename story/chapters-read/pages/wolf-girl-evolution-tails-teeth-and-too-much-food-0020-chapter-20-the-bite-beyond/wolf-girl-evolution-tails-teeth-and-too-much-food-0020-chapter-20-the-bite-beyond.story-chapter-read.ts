@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0020Chapter20TheBiteBeyond
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 20,
   ownLength: 1461,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2582231/chapter-20-the-bite-beyond",

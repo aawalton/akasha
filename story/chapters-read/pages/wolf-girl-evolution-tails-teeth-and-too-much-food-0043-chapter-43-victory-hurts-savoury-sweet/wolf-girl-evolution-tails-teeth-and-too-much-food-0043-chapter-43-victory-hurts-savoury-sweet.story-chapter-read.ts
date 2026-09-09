@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0043Chapter43VictoryHurtsS
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 43,
   ownLength: 1388,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2646552/chapter-43-victory-hurts-savoury-sweet",

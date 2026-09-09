@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0007Chapter7WeirdTrees = {
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 7,
   ownLength: 1303,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3732624/chapter-7-weird-trees",

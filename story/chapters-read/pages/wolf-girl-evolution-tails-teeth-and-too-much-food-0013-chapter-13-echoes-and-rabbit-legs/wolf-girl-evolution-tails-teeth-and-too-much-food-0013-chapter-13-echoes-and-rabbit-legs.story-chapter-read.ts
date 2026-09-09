@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0013Chapter13EchoesAndRabb
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 13,
   ownLength: 1541,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2558620/chapter-13-echoes-and-rabbit-legs",

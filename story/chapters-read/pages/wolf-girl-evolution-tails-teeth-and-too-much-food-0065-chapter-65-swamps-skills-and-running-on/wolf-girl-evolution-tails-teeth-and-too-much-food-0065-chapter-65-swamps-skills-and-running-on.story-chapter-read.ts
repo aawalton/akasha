@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0065Chapter65SwampsSkillsA
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 65,
   ownLength: 1617,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2729658/chapter-65-swamps-skills-and-running-on-repeat",

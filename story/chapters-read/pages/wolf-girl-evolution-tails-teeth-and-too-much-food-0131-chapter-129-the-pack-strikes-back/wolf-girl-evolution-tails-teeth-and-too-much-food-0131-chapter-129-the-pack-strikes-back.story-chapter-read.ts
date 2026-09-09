@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0131Chapter129ThePackStrik
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 131,
   ownLength: 2560,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3488833/chapter-129-the-pack-strikes-back",

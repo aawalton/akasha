@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0092Chapter92TheComptroller = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 92,
   ownLength: 2891,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3711993/chapter-92-the-comptroller",

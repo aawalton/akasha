@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0010Chapter10CreditWhereCr
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 10,
   ownLength: 1519,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3733580/chapter-10-credit-where-credit-is-due",

@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0097Chapter97Coexistence = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 97,
   ownLength: 3000,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3743032/chapter-97-coexistence",

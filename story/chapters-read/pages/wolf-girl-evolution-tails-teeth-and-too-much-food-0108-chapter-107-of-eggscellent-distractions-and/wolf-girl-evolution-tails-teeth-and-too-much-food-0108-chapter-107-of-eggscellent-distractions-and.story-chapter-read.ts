@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0108Chapter107OfEggscellen
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 108,
   ownLength: 1820,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3124294/chapter-107-of-eggscellent-distractions-and-forest",

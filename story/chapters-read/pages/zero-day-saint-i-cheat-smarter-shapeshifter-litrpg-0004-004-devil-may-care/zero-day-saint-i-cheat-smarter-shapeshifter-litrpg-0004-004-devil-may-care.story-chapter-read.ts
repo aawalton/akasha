@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0004004DevilMayCare = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 4,
   ownLength: 1414,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340008/004-devil-may-care",

@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0033Chapter33RescuePlan = 
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 33,
   ownLength: 1560,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3871624/chapter-33-rescue-plan",

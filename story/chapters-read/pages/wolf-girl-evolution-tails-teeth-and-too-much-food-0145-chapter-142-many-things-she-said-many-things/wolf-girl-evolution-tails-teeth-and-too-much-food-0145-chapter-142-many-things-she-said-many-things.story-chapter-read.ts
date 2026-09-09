@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0145Chapter142ManyThingsSh
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 145,
   ownLength: 2726,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3703231/chapter-142-many-things-she-said-many-things-to",

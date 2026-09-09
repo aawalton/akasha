@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0054Chapter54FastWolfFalli
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 54,
   ownLength: 1830,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2684526/chapter-54-fast-wolf-falling-rocks",

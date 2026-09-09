@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0030Chapter30TheWayBackwar
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 30,
   ownLength: 1210,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2608248/chapter-30-the-way-backward-forwards",

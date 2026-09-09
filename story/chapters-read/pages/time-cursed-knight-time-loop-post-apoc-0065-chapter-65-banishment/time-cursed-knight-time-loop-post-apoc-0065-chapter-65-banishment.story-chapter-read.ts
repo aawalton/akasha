@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0065Chapter65Banishment = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 65,
   ownLength: 2745,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3543961/chapter-65-banishment",

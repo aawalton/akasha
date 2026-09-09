@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0025Chapter25TheFirstDough
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 25,
   ownLength: 1717,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-lit-rpg-slice-of-life/chapter/3808511/chapter-25-the-first-dough-of-many",

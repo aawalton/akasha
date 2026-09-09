@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0003003NotAGoodGirl = {
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 3,
   ownLength: 1960,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3339888/003-not-a-good-girl",

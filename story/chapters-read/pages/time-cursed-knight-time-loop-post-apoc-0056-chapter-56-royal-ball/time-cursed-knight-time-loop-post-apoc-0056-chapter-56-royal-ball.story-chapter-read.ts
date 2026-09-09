@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0056Chapter56RoyalBall = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 56,
   ownLength: 2905,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3484044/chapter-56-royal-ball",

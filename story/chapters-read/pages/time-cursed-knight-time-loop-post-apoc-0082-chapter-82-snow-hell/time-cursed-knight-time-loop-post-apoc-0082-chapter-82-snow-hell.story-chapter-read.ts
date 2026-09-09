@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0082Chapter82SnowHell = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 82,
   ownLength: 2041,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3649869/chapter-82-snow-hell",

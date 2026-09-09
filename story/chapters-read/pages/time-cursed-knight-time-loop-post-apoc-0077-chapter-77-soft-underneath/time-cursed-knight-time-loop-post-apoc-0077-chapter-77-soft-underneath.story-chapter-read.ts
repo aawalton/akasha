@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0077Chapter77SoftUnderneath = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 77,
   ownLength: 2432,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3618369/chapter-77-soft-underneath",

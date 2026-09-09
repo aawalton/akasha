@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0119Chapter119Auricht = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 119,
   ownLength: 2391,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3878080/chapter-119-auricht",

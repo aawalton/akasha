@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0012Chapter12Snacktastroph
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 12,
   ownLength: 1648,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2555723/chapter-12-snacktastrophe",

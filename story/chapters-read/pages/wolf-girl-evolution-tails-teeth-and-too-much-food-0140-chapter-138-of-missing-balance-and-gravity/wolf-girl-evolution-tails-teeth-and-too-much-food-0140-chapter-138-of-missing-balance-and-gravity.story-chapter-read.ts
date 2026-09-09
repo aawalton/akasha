@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0140Chapter138OfMissingBal
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 140,
   ownLength: 2658,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3641023/chapter-138-of-missing-balance-and-gravity-suggestions",

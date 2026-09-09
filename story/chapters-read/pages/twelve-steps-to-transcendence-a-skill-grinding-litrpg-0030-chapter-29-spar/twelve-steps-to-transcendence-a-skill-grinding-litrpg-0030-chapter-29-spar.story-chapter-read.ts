@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0030Chapter29Spar = {
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 30,
   ownLength: 1837,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-09",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3792772/chapter-29-spar",

@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0036Chapter35Mana = {
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 36,
   ownLength: 1937,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-15",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3819150/chapter-35-mana",

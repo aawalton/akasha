@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0064Chapter64StretchingThe
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 64,
   ownLength: 1484,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2721005/chapter-64-stretching-the-legs-clawing-the-chews",

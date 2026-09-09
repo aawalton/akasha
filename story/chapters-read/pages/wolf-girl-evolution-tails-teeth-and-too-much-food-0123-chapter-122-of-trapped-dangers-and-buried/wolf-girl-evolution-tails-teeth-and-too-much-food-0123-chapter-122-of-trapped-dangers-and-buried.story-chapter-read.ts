@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0123Chapter122OfTrappedDan
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 123,
   ownLength: 2667,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3310529/chapter-122-of-trapped-dangers-and-buried-threats",

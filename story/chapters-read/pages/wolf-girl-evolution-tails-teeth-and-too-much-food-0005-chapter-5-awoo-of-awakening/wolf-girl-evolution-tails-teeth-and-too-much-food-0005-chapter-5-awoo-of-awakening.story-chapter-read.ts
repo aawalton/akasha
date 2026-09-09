@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0005Chapter5AwooOfAwakenin
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 5,
   ownLength: 1530,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2535653/chapter-5-awoo-of-awakening",

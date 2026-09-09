@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0128Chapter127OfReliefReco
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 128,
   ownLength: 3560,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3383571/chapter-127-of-relief-recovery-and-resting-reins",

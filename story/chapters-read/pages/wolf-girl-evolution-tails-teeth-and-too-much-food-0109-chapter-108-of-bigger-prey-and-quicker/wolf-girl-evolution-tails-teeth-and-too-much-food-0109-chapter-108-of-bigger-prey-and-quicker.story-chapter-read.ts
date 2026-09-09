@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0109Chapter108OfBiggerPrey
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 109,
   ownLength: 2228,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3130813/chapter-108-of-bigger-prey-and-quicker-returns",

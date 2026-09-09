@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0153Chapter150OfBrushiesBe
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 153,
   ownLength: 2320,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/3826851/chapter-150-of-brushies-behemoths-and-big-big",

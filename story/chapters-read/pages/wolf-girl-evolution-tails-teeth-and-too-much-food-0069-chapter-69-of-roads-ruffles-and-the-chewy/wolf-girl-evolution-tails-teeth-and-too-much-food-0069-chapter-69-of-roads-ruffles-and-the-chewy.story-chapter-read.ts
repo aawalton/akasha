@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0069Chapter69OfRoadsRuffle
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 69,
   ownLength: 1879,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2741416/chapter-69-of-roads-ruffles-and-the-chewy-horizon",

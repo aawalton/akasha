@@ -8,7 +8,7 @@ export const underworldBreadMageYuriProgfanSliceOfLife0001Chapter1TheDeathOfMari
   story: "underworld-bread-mage-yuri-progfan-slice-of-life",
   position: 1,
   ownLength: 1813,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/179650/underworld-bread-mage-yuri-progfan-slice-of-life/chapter/3731385/chapter-1-the-death-of-marina-verne",

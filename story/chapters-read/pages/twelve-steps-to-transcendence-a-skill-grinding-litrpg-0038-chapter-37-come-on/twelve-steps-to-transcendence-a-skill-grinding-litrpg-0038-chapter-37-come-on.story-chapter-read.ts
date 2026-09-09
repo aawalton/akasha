@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0038Chapter37ComeOn =
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 38,
   ownLength: 1629,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-08-18",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3831868/chapter-37-come-on",

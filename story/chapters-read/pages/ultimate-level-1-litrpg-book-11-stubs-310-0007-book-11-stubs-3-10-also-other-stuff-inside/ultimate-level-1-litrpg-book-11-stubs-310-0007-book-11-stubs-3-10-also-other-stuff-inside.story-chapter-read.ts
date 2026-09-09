@@ -8,7 +8,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100007Book11Stubs310AlsoOtherStuffI
   story: "ultimate-level-1-litrpg-book-11-stubs-310",
   position: 7,
   ownLength: 110,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/3113713/book-11-stubs-310-also-other-stuff-inside",

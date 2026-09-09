@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0079Chapter78OfOfficesOafs
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 79,
   ownLength: 2463,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2831076/chapter-78-of-offices-oafs-and-one-very-dangerous",

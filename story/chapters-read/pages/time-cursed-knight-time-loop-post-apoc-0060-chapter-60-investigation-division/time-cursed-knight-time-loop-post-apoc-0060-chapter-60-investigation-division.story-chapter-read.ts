@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0060Chapter60InvestigationDivision 
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 60,
   ownLength: 2793,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3510690/chapter-60-investigation-division",

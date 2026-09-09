@@ -8,7 +8,7 @@ export const zeroDaySaintICheatSmarterShapeshifterLitrpg0008008DeathByHummingbir
   story: "zero-day-saint-i-cheat-smarter-shapeshifter-litrpg",
   position: 8,
   ownLength: 2063,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/164273/zero-day-saint-i-cheat-smarter-shapeshifter-litrpgvol/chapter/3340754/008-death-by-hummingbird",

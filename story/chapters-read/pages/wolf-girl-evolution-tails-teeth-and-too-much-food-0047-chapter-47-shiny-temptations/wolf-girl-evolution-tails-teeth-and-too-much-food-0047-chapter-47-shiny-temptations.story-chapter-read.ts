@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0047Chapter47ShinyTemptati
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 47,
   ownLength: 1598,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2661680/chapter-47-shiny-temptations",

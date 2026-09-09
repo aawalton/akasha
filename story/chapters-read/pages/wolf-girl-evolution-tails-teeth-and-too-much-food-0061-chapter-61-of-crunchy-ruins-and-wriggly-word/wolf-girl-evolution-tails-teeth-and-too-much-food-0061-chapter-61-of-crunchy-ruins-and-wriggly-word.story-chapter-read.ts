@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0061Chapter61OfCrunchyRuin
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 61,
   ownLength: 2042,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2712407/chapter-61-of-crunchy-ruins-and-wriggly-word-dilemmas",

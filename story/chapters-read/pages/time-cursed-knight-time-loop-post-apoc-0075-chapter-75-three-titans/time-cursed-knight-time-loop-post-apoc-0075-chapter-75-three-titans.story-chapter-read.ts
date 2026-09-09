@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0075Chapter75ThreeTitans = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 75,
   ownLength: 2981,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3608710/chapter-75-three-titans",

@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0070NotAChapterBook1EndSta
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 70,
   ownLength: 313,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2741802/not-a-chapter-book-1-end-status-update-and-qa",

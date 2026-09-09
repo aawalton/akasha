@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0058Chapter58OfDeepHolesAn
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 58,
   ownLength: 1658,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2699513/chapter-58-of-deep-holes-and-deeper-dum-dums",

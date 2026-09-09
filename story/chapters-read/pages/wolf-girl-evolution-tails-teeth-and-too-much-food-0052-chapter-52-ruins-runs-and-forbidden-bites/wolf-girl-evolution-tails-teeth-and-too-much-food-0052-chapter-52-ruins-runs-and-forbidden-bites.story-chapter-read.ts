@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0052Chapter52RuinsRunsAndF
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 52,
   ownLength: 1603,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2679176/chapter-52-ruins-runs-and-forbidden-bites",

@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0071Chapter70OfEndlessFiel
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 71,
   ownLength: 1509,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2789794/chapter-70-of-endless-fields-speed-and-proper",

@@ -8,7 +8,7 @@ export const ultimateLevel1LitrpgBook11Stubs3100001001WhoWantsToBeABaker = {
   story: "ultimate-level-1-litrpg-book-11-stubs-310",
   position: 1,
   ownLength: 3004,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/76259/ultimate-level-1-litrpg-book-11-stubs-310/chapter/1391286/001-who-wants-to-be-a-baker",

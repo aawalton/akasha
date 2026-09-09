@@ -8,7 +8,7 @@ export const twelveStepsToTranscendenceASkillGrindingLitrpg0013Chapter12Spirited
   story: "twelve-steps-to-transcendence-a-skill-grinding-litrpg",
   position: 13,
   ownLength: 2114,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2026-07-23",
   externalLink:
     "https://www.royalroad.com/fiction/181591/12-steps-to-transcendence-a-skill-grinding-litrpg/chapter/3716673/chapter-12-spirited-away",

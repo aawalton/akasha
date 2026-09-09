@@ -8,7 +8,7 @@ export const timeCursedKnightTimeLoopPostApoc0085Chapter85HighTreason = {
   story: "time-cursed-knight-time-loop-post-apoc",
   position: 85,
   ownLength: 2852,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3672481/chapter-85-high-treason",

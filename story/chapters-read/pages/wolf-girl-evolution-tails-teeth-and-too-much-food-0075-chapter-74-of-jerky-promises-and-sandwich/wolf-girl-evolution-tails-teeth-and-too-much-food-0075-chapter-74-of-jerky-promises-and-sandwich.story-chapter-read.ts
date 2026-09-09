@@ -8,7 +8,7 @@ export const wolfGirlEvolutionTailsTeethAndTooMuchFood0075Chapter74OfJerkyPromis
   story: "wolf-girl-evolution-tails-teeth-and-too-much-food",
   position: 75,
   ownLength: 2311,
-  unitSlug: "words",
+  unit: "words",
   source: "royal-road",
   externalLink:
     "https://www.royalroad.com/fiction/129699/wolf-girl-evolution-tails-teeth-and-too-much-food/chapter/2801948/chapter-74-of-jerky-promises-and-sandwich-crimes",
