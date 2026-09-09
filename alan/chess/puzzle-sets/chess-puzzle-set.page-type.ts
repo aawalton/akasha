@@ -1,12 +1,4 @@
-import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Puzzles } from "./properties/puzzles.page-property-entry.ts"
-
-export type ChessPuzzleSet = Page & {
-  title: Title
-  puzzles?: Puzzles
-}
 
 export const chessPuzzleSet = {
   id: "01a06582-bd62-7a9f-a011-94835eaaf909",
@@ -51,4 +43,5 @@ export const chessPuzzleSet = {
         "A row's position in Forsyth-Edwards notation is the position the solver moves from.",
     },
   ],
+  types: "ts",
 } as const satisfies PageType

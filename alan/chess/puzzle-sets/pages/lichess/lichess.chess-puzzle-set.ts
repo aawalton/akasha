@@ -1,4 +1,4 @@
-import type { ChessPuzzleSet } from "../../chess-puzzle-set.page-type.ts"
+import type { ChessPuzzleSet } from "../../chess-puzzle-set.page-type.types.ts"
 
 export const lichess = {
   id: "01a06582-bd62-775e-a5b4-28fee8b58455",
