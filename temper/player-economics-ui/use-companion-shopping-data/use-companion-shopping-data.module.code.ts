@@ -1,7 +1,6 @@
 "use client"
 
 import { applyCompanionMetadata } from "@akasha/temper-build-metadata/build-metadata"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
@@ -29,6 +28,7 @@ import {
   resolvePricingRegionNote,
 } from "akasha/temper/temper-player-inventory-management-ui/pricing-region/pricing-region.module.code.ts"
 import { useMemo } from "react"
+import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import {
   type BlendedPriceKey,
   buildBlendedPriceMap,

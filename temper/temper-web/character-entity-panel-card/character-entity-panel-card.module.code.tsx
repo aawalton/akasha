@@ -4,8 +4,6 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { characterUrl } from "@akasha/temper-build-support/build-url"
-import { buildId } from "@akasha/temper-formula-framework/branded-id"
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
@@ -17,6 +15,8 @@ import {
   type RoleId,
   characterRoles as roles,
 } from "../../character-sources/character-roles/character-roles.module.code.ts"
+import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
+import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 import type { RaceId } from "../../races/races/races.module.code.ts"
 
 interface CharacterPlanBuild {

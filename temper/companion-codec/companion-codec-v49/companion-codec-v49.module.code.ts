@@ -10,7 +10,6 @@ import {
   writeBits,
 } from "@akasha/temper-build-hash/build-hash-bit-writer"
 import { recordFromKeys } from "@akasha/temper-build-hash/record-from-keys"
-import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import type { CompanionArmorSlotId } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
 import { companionArmorSlots } from "akasha/temper/temper-companions-core/companion-armor-slots/companion-armor-slots.module.code.ts"
 import {
@@ -30,6 +29,7 @@ import type {
 } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import type { CompanionWeaponSlotId } from "akasha/temper/temper-companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/temper-companions-core/companion-weapon-slots/companion-weapon-slots.module.code.ts"
+import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import {
   COMPANION_ARMOR_WEIGHT_BITS,
   COMPANION_BITS,

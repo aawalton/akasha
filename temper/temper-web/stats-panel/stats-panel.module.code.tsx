@@ -13,7 +13,6 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "@akasha/design-patterns/empty"
-import { isNamedSource } from "@akasha/temper-formula-framework/effect-source"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { METRIC_TREE } from "akasha/temper/temper-characters-stats/metric-tree-data/metric-tree-data.module.code.ts"
 import {
@@ -24,6 +23,7 @@ import {
 import { getMetricDisplayName } from "akasha/temper/temper-characters-stats/metrics/metrics.module.code.ts"
 import { Search } from "lucide-react"
 import { useCallback, useState } from "react"
+import { isNamedSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
 import { BuffOrDebuffExplanationDialog } from "../buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx"
 import { EffectsPanelCard } from "../effects-panel-card/effects-panel-card.module.code.tsx"
 import { OptimizationPanelCard } from "../optimization-panel-card/optimization-panel-card.module.code.tsx"

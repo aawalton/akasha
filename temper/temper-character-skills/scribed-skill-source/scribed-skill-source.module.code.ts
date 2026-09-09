@@ -1,4 +1,4 @@
-import type { Effect } from "@akasha/temper-formula-framework/effect"
+import type { Effect } from "../../formula-framework/effect/effect.module.code.ts"
 import type { SkillSource } from "../../skill-kinds/skills-source/skills-source.module.code.ts"
 import type { ScribedSkill } from "../scribed-skill-types/scribed-skill-types.module.code.ts"
 import { getScribedSkillByGrimoireAndFocus } from "../scribed-skills/scribed-skills.module.code.ts"

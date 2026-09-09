@@ -1,5 +1,5 @@
-import { buildId } from "@akasha/temper-formula-framework/branded-id"
-import { randomFrom } from "@akasha/temper-formula-framework/random-from"
+import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
+import { randomFrom } from "../../formula-framework/random-from/random-from.module.code.ts"
 import {
   type CompanionBaseRoleId,
   getArmorWeightForBaseRoles,

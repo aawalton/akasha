@@ -1,4 +1,4 @@
-import type { BuildHash } from "@akasha/temper-formula-framework/branded-id"
+import type { BuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 export interface AchievementCriteriaProgress {
   completedSteps: number

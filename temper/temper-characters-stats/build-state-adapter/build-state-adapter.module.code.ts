@@ -1,5 +1,5 @@
-import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
+import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
 import { extractAccount } from "../extract-account/extract-account.module.code.ts"
 import { extractArmor } from "../extract-armor/extract-armor.module.code.ts"
 import { extractAttributes } from "../extract-attributes/extract-attributes.module.code.ts"

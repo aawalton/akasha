@@ -1,4 +1,3 @@
-import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import {
   JEWELRY_TRAIT_QUALITY_VALUES,
@@ -8,6 +7,7 @@ import {
   type EquipmentQualityId,
   resolveQuality,
 } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
 import type { JewelryItem } from "../item-composites/item-composites.module.code.ts"
 
 function calculateBloodthirstyValue(maxValue: number, targetHealth: number): number {

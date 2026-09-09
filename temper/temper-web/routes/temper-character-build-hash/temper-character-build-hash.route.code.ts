@@ -1,9 +1,9 @@
 import { characterUrl } from "@akasha/temper-build-support/build-url"
+import { z } from "zod"
 import {
   buildHash,
   esoCharacterId as toEsoCharacterId,
-} from "@akasha/temper-formula-framework/branded-id"
-import { z } from "zod"
+} from "../../../formula-framework/branded-id/branded-id.module.code.ts"
 import { importCharacterFromHash } from "../../.server/character-import/character-import.module.code.ts"
 
 const BASE_URL_SCHEMA = z.string().optional()

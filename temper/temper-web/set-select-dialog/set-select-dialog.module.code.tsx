@@ -1,7 +1,5 @@
 "use client"
 
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
-import { typedPartialRecordKeys } from "@akasha/temper-formula-framework/record-parts"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import { convertIconPathToUrl } from "akasha/temper/temper-characters-equipment/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { canClassEquipSet } from "akasha/temper/temper-characters-equipment/set-class-restrictions/set-class-restrictions.module.code.ts"
@@ -20,6 +18,8 @@ import type { SetId as SetsAllId } from "akasha/temper/temper-equipment/set-ids/
 import type { SetTemplate as SetsAll } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
 import { Shield } from "lucide-react"
 import { useMemo } from "react"
+import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
+import { typedPartialRecordKeys } from "../../formula-framework/record-parts/record-parts.module.code.ts"
 import { FilterableSelectDialog } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 
 interface SetSelectDialogProps {

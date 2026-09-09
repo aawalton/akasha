@@ -1,6 +1,6 @@
-import { isMetricEffect } from "@akasha/temper-formula-framework/effect"
-import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
-import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
+import { isMetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
+import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
 
 export function getAttributeEffects(
   metricId: MetricId | readonly MetricId[],

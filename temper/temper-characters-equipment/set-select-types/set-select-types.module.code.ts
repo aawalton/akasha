@@ -1,4 +1,4 @@
-import type { Effect } from "@akasha/temper-formula-framework/effect"
+import type { Effect } from "../../formula-framework/effect/effect.module.code.ts"
 
 interface FilterableSelectDialogItem {
   id: string

@@ -1,6 +1,6 @@
-import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 import type { EquipmentQualityId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
 
 export type JewelryTraitQualityValues = Record<EquipmentQualityId, number>
 

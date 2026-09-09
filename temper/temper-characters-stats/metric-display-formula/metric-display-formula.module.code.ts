@@ -1,18 +1,18 @@
+import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { requireFirst } from "@akasha/utils/narrow/require-first"
 import {
   convertArithmeticToDisplay,
   type DisplayResult,
-} from "@akasha/temper-formula-framework/display-formula-convert"
+} from "../../formula-framework/display-formula-convert/display-formula-convert.module.code.ts"
 import type {
   DisplayFormulaNode,
   NumberFormat,
-} from "@akasha/temper-formula-framework/display-formula-node"
-import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
-import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
-import { formatDecimal } from "@akasha/temper-formula-framework/number-format"
-import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
-import { sourceCategories } from "@akasha/temper-formula-framework/source-category"
-import { assertNever } from "@akasha/utils/narrow/assert-never"
-import { requireFirst } from "@akasha/utils/narrow/require-first"
+} from "../../formula-framework/display-formula-node/display-formula-node.module.code.ts"
+import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
+import { formatDecimal } from "../../formula-framework/number-format/number-format.module.code.ts"
+import { convertRatingToChance } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
+import { sourceCategories } from "../../formula-framework/source-category/source-category.module.code.ts"
 import {
   getAttributeEffects,
   getConditionalChanceEffects,

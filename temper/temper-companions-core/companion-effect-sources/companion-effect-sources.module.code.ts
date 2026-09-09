@@ -1,5 +1,5 @@
-import type { SourceCategoryId } from "@akasha/temper-formula-framework/source-category"
 import { targetArmor } from "../../character-sources/target-armors/target-armors.module.code.ts"
+import type { SourceCategoryId } from "../../formula-framework/source-category/source-category.module.code.ts"
 import { getCompanionArmorBaseValue } from "../companion-armor-base-values/companion-armor-base-values.module.code.ts"
 import { companionArmorSlots } from "../companion-armor-slots/companion-armor-slots.module.code.ts"
 import { companionJewelrySlots } from "../companion-jewelry-slots/companion-jewelry-slots.module.code.ts"

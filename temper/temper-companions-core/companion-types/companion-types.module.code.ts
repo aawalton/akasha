@@ -1,5 +1,5 @@
-import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import type { TargetArmorId } from "../../character-sources/target-armors/target-armors.module.code.ts"
+import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import type { CompanionArmorSlotId } from "../companion-armor-slots/companion-armor-slots.module.code.ts"
 import type { CompanionArmorWeight } from "../companion-armor-weights/companion-armor-weights.module.code.ts"
 import type { CompanionBaseRoleId } from "../companion-base-roles/companion-base-roles.module.code.ts"

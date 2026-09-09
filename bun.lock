@@ -1065,6 +1065,12 @@
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
+    "temper/formula-framework": {
+      "name": "@akasha/temper-formula-framework",
+      "dependencies": {
+        "@akasha/utils": "workspace:*",
+      },
+    },
     "temper/housing-addon": {
       "name": "@akasha/temper-housing-addon",
       "dependencies": {
@@ -1283,12 +1289,6 @@
     },
     "temper/temper-eso-types": {
       "name": "@akasha/temper-eso-types",
-    },
-    "temper/temper-formula-framework": {
-      "name": "@akasha/temper-formula-framework",
-      "dependencies": {
-        "@akasha/utils": "workspace:*",
-      },
     },
     "temper/temper-interface-addon": {
       "name": "@akasha/temper-interface-addon",
@@ -1617,7 +1617,7 @@
 
     "@akasha/temper-events-addon": ["@akasha/temper-events-addon@workspace:temper/events-addon"],
 
-    "@akasha/temper-formula-framework": ["@akasha/temper-formula-framework@workspace:temper/temper-formula-framework"],
+    "@akasha/temper-formula-framework": ["@akasha/temper-formula-framework@workspace:temper/formula-framework"],
 
     "@akasha/temper-housing-addon": ["@akasha/temper-housing-addon@workspace:temper/housing-addon"],
 

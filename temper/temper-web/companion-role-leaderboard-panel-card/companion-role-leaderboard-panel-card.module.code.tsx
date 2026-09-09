@@ -17,12 +17,12 @@ import {
 } from "@akasha/design-primitives/table"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
-import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import {
   displayRolesToLabel,
   type RankedEntry,
 } from "akasha/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import { buildId as toBuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { LEADERBOARD_COLUMNS } from "../leaderboard-columns/leaderboard-columns.module.code.ts"
 
 interface CompanionRoleLeaderboardPanelCardProps {

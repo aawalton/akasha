@@ -15,10 +15,10 @@ import { Button } from "@akasha/design-primitives/button"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
-import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useCompanion } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
 import { useState } from "react"
 import { toast } from "sonner"
+import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { VersionHistoryDialog } from "../companion-version-history-dialog/companion-version-history-dialog.module.code.tsx"
 
 interface CompanionManagementPanelCardProps {

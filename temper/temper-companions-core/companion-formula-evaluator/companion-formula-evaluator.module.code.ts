@@ -1,6 +1,6 @@
-import { evaluateArithmeticNode } from "@akasha/temper-formula-framework/arithmetic-evaluate"
-import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { evaluateArithmeticNode } from "../../formula-framework/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"
+import { convertRatingToChance } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
 import type { CompanionBaseRoleId } from "../companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionEffectSource } from "../companion-effect-sources/companion-effect-sources.module.code.ts"
 import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"

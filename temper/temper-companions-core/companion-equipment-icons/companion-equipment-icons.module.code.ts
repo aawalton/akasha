@@ -1,4 +1,4 @@
-import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
+import { getEsoIconUrl } from "../../formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 import type { CompanionArmorSlotId } from "../companion-armor-slots/companion-armor-slots.module.code.ts"
 import type { CompanionArmorWeight } from "../companion-armor-weights/companion-armor-weights.module.code.ts"
 import type { CompanionEquipmentQualityId } from "../companion-equipment-qualities/companion-equipment-qualities.module.code.ts"

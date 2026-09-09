@@ -1,4 +1,3 @@
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import {
   getSkillsToRemoveOnClassChange,
   validateSkillLinesForClass,
@@ -6,6 +5,7 @@ import {
 import { clearIncompatibleSets } from "akasha/temper/temper-characters-equipment/clear-incompatible-sets/clear-incompatible-sets.module.code.ts"
 import { getSetIdsClassCannotEquip } from "akasha/temper/temper-characters-equipment/set-class-restrictions/set-class-restrictions.module.code.ts"
 import { useState } from "react"
+import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 import {
   useCharacter,
   useCharacterActions,

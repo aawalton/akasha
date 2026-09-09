@@ -1,6 +1,5 @@
 import type { AutomationSettings } from "@akasha/temper-build-support/automation-settings"
 import { resolveCharacterToggles } from "@akasha/temper-build-support/automation-settings"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import type {
   CharacterBuildInput,
   CompletionCharacterInput,
@@ -11,6 +10,7 @@ import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-sourc
 import type { InventoryDatabase } from "akasha/temper/temper-items-core/inventory-types/inventory-types.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/temper-items-core/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import { foodOrDrink } from "../../character-sources/food-or-drink-source/food-or-drink-source.module.code.ts"
+import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 function getCompletionField(completion: unknown, field: string): unknown {
   if (!isObjectRecord(completion)) return undefined

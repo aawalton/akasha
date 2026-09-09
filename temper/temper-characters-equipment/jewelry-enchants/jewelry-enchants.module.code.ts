@@ -1,5 +1,3 @@
-import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
-import { updateEffectValue } from "@akasha/temper-formula-framework/effect-value-update"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 import { getInfusedJewelryBonus } from "akasha/temper/temper-equipment/jewelry-traits/jewelry-traits.module.code.ts"
@@ -8,6 +6,8 @@ import {
   minQuality,
   resolveQuality,
 } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
+import { updateEffectValue } from "../../formula-framework/effect-value-update/effect-value-update.module.code.ts"
 import type { JewelryItem } from "../item-composites/item-composites.module.code.ts"
 import {
   TEMPER_JEWELRY_ENCHANT_QUALITY_VALUES,

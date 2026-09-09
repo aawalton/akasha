@@ -1,6 +1,6 @@
-import type { Effect } from "@akasha/temper-formula-framework/effect"
-import type { EffectSourceInterface } from "@akasha/temper-formula-framework/effect-source"
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import type { Effect } from "../../formula-framework/effect/effect.module.code.ts"
+import type { EffectSourceInterface } from "../../formula-framework/effect-source/effect-source.module.code.ts"
 import { craftPassives } from "../craft-passives/craft-passives.module.code.ts"
 import { craftSlottables } from "../craft-slottables/craft-slottables.module.code.ts"
 import { fitnessPassives } from "../fitness-passives/fitness-passives.module.code.ts"

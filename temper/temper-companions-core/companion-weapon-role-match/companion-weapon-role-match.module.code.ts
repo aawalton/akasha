@@ -1,4 +1,4 @@
-import { randomFrom } from "@akasha/temper-formula-framework/random-from"
+import { randomFrom } from "../../formula-framework/random-from/random-from.module.code.ts"
 import type { CompanionState } from "../companion-types/companion-types.module.code.ts"
 import {
   type CompanionWeaponRoleId,

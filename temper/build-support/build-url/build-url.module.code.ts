@@ -1,6 +1,6 @@
 import { buildPageHref } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
-import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
+import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 const CHARACTER_SLUG = toPageTypeSlug("character-build")
 const COMPANION_SLUG = toPageTypeSlug("companion-build")

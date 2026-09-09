@@ -3,8 +3,6 @@
 import { cn } from "@akasha/design-primitives/cn"
 import { Heading } from "@akasha/design-primitives/heading"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
-import { formatAbbreviated } from "@akasha/temper-formula-framework/number-format"
 import { capitalize } from "@akasha/utils/narrow/capitalize"
 import { BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { sortEffectsByCategory } from "akasha/temper/temper-companions-core/companion-effect-category/companion-effect-category.module.code.ts"
@@ -17,6 +15,8 @@ import {
   updateDescriptionWithCalculatedValues,
 } from "akasha/temper/temper-companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
 import type { ReactNode } from "react"
+import { getEsoIconUrl } from "../../formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
+import { formatAbbreviated } from "../../formula-framework/number-format/number-format.module.code.ts"
 import { CollapsibleSkillCard } from "../collapsible-skill-card/collapsible-skill-card.module.code.tsx"
 import { ConstraintBadges } from "../constraint-badges/constraint-badges.module.code.tsx"
 import { EffectBadge } from "../effect-badge/effect-badge.module.code.tsx"

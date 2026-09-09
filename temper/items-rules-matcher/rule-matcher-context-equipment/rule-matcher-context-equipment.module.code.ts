@@ -3,7 +3,6 @@ import {
   resolveCharacterToggles,
   resolveCompanionToggles,
 } from "@akasha/temper-build-support/automation-settings"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import {
   compileWantedCompanionEquipmentForBuild,
   compileWantedEquipmentForBuild,
@@ -20,6 +19,7 @@ import type {
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
+import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 export function compileWantedEquipment(
   characters: readonly CompletionCharacterInput[],

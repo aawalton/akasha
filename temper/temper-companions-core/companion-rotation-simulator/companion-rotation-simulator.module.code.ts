@@ -1,5 +1,5 @@
-import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
 import { requireGet } from "@akasha/utils/narrow/require-get"
+import { convertRatingToChance } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
 import { activateLightAttack } from "../companion-light-attack/companion-light-attack.module.code.ts"
 import {
   type CompanionMetricValue,

@@ -1,4 +1,4 @@
-import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
+import { convertRatingToChance } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
 import { companionMetrics } from "../companion-metrics/companion-metrics.module.code.ts"
 import type { CompanionEffect } from "../companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import { companionSkills } from "../companion-skills/companion-skills.module.code.ts"

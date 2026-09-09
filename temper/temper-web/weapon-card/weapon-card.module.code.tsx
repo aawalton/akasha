@@ -8,7 +8,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
@@ -59,6 +58,7 @@ import {
   type WeaponSlot,
   weaponSlots,
 } from "../../equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
+import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 
 interface WeaponCardProps {

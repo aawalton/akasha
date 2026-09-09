@@ -1,4 +1,3 @@
-import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
 import type {
   ArmorSlotItem,
   JewelrySlotItem,
@@ -13,6 +12,7 @@ import {
   type EquipmentQualityId,
   resolveQuality,
 } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import { valuesOf } from "../../formula-framework/record-parts/record-parts.module.code.ts"
 import type { PipelineStage } from "../pipeline-types/pipeline-types.module.code.ts"
 
 function getSetInfo(

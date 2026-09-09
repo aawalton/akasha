@@ -2,9 +2,9 @@
 
 import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
-import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import type { Skill } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
 import type { ReactNode } from "react"
+import { getEsoIconUrl } from "../../formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import { CollapsibleSkillCard } from "../collapsible-skill-card/collapsible-skill-card.module.code.tsx"
 

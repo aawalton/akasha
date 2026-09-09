@@ -1,6 +1,9 @@
-import { CRITICAL_RATING_BASE, POWER_LEVEL_BASE } from "@akasha/temper-formula-framework/base-stat"
-import type { EffectSourceInterface } from "@akasha/temper-formula-framework/effect-source"
-import { createSourceFile } from "@akasha/temper-formula-framework/source-file"
+import {
+  CRITICAL_RATING_BASE,
+  POWER_LEVEL_BASE,
+} from "../../formula-framework/base-stat/base-stat.module.code.ts"
+import type { EffectSourceInterface } from "../../formula-framework/effect-source/effect-source.module.code.ts"
+import { createSourceFile } from "../../formula-framework/source-file/source-file.module.code.ts"
 
 interface BaseTemplate extends EffectSourceInterface {
   categoryId: "base"

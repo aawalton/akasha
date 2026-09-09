@@ -1,6 +1,6 @@
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { SetId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
+import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 import { setsAll } from "../sets-all/sets-all.module.code.ts"
 
 export function canClassEquipSet(set: SetTemplate, classId: ClassId | null | undefined): boolean {

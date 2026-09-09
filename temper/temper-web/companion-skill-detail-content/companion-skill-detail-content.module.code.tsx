@@ -3,7 +3,6 @@
 import { COLUMN_WIDTH } from "@akasha/design-layout/layout-data"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { capitalize } from "@akasha/utils/narrow/capitalize"
 import { BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { sortEffectsByCategory } from "akasha/temper/temper-companions-core/companion-effect-category/companion-effect-category.module.code.ts"
@@ -15,6 +14,7 @@ import {
   extractPrimaryTargeting,
   updateDescriptionWithCalculatedValues,
 } from "akasha/temper/temper-companions-core/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
+import { getEsoIconUrl } from "../../formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 import { ConstraintBadges } from "../constraint-badges/constraint-badges.module.code.tsx"
 import { EffectBadge } from "../effect-badge/effect-badge.module.code.tsx"
 import {

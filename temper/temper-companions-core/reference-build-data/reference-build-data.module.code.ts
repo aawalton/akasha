@@ -1,5 +1,5 @@
-import type { BuildHash } from "@akasha/temper-formula-framework/branded-id"
-import { buildHash } from "@akasha/temper-formula-framework/branded-id"
+import type { BuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
+import { buildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { computeReferenceBaseline } from "../companion-support-baseline/companion-support-baseline.module.code.ts"
 import type { ReferenceBaseline } from "../companion-support-types/companion-support-types.module.code.ts"
 import type { CompanionState } from "../companion-types/companion-types.module.code.ts"

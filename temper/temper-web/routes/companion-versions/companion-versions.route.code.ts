@@ -1,7 +1,7 @@
 import { getPages } from "@akasha/pages-access/get"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
-import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
+import { buildId as toBuildId } from "../../../formula-framework/branded-id/branded-id.module.code.ts"
 import type { Route } from "./+types/companion-versions.route.code"
 
 interface CompanionVersion {

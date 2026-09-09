@@ -1,8 +1,8 @@
 import { base64urlToBytes, bytesToBase64url } from "@akasha/temper-build-hash/build-hash-base64url"
-import type { BuildHash } from "@akasha/temper-formula-framework/branded-id"
-import { buildHash } from "@akasha/temper-formula-framework/branded-id"
 import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import { registerCompanionDecoder } from "akasha/temper/temper-companions-core/reference-build-data/reference-build-data.module.code.ts"
+import type { BuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
+import { buildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import {
   COMPANION_BUILD_TYPE,
   decodeV48,

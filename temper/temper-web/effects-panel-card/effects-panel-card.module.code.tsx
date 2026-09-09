@@ -1,7 +1,10 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { StatRow } from "@akasha/design-patterns/stat-row"
-import type { BuffOrDebuffSource } from "@akasha/temper-formula-framework/buff-or-debuff-source"
-import { type EffectSource, isNamedSource } from "@akasha/temper-formula-framework/effect-source"
+import type { BuffOrDebuffSource } from "../../formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import {
+  type EffectSource,
+  isNamedSource,
+} from "../../formula-framework/effect-source/effect-source.module.code.ts"
 import {
   filterEffectsBySearch,
   groupEffectsBySubcategory,

@@ -1,4 +1,4 @@
-import { buffOrDebuff } from "@akasha/temper-formula-framework/buff-or-debuff-source"
+import { buffOrDebuff } from "../../formula-framework/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type {
   SpecialEffectType,
   StatusEffectType,

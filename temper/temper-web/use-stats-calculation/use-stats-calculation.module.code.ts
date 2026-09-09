@@ -1,9 +1,9 @@
-import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
-import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { calculateBuildStatsByBar } from "akasha/temper/temper-characters-stats/metric-calculator/metric-calculator.module.code.ts"
 import type { MetricValue } from "akasha/temper/temper-characters-stats/metric-value/metric-value.module.code.ts"
 import { useEffect, useState } from "react"
+import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
 
 export function useStatsCalculation(build: CharacterState) {
   const [frontStats, setFrontStats] = useState<Partial<Record<MetricId, MetricValue>>>({})

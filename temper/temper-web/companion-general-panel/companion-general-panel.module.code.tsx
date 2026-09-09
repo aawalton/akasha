@@ -1,7 +1,7 @@
 "use client"
 
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
-import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
+import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { BuildDescriptionPanelCard } from "../build-description-panel-card/build-description-panel-card.module.code.tsx"
 import { CompanionInfoPanelCard } from "../companion-info-panel-card/companion-info-panel-card.module.code.tsx"
 import { CompanionManagementPanelCard } from "../companion-management-panel-card/companion-management-panel-card.module.code.tsx"

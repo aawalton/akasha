@@ -5,12 +5,12 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
-import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import type { CompanionState } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import { getWeaponRole } from "akasha/temper/temper-companions-core/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"
 import { companionWeaponRoles } from "akasha/temper/temper-companions-core/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
+import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 interface LiveOnlyBuild {
   id: string

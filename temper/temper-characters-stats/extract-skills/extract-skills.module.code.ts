@@ -1,7 +1,7 @@
-import type { Effect } from "@akasha/temper-formula-framework/effect"
-import type { SkillSource } from "@akasha/temper-formula-framework/skill-source"
 import { skills } from "akasha/temper/temper-character-skills/character-skills/character-skills.module.code.ts"
 import { createScribedSkillSource } from "akasha/temper/temper-character-skills/scribed-skill-source/scribed-skill-source.module.code.ts"
+import type { Effect } from "../../formula-framework/effect/effect.module.code.ts"
+import type { SkillSource } from "../../formula-framework/skill-source/skill-source.module.code.ts"
 import { skillSlots } from "../../skill-kinds/skill-slots/skill-slots.module.code.ts"
 import type { PipelineStage } from "../pipeline-types/pipeline-types.module.code.ts"
 

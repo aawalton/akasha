@@ -25,7 +25,6 @@ import {
 import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
-import type { Effect } from "@akasha/temper-formula-framework/effect"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
@@ -36,6 +35,7 @@ import { Check, ChevronDown, ChevronRight, X } from "lucide-react"
 import type * as React from "react"
 import type { ReactNode } from "react"
 import { useMemo, useState } from "react"
+import type { Effect } from "../../formula-framework/effect/effect.module.code.ts"
 
 export function FilterableSelectTrigger({
   className,

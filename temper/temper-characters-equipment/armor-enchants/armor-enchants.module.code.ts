@@ -1,5 +1,3 @@
-import type { MetricEffect } from "@akasha/temper-formula-framework/effect"
-import { updateEffectValue } from "@akasha/temper-formula-framework/effect-value-update"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
 import { getInfusedArmorBonus } from "akasha/temper/temper-equipment/armor-traits/armor-traits.module.code.ts"
@@ -9,6 +7,8 @@ import {
   minQuality,
   resolveQuality,
 } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { MetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
+import { updateEffectValue } from "../../formula-framework/effect-value-update/effect-value-update.module.code.ts"
 import type { ArmorItem } from "../item-composites/item-composites.module.code.ts"
 export const TEMPER_ARMOR_ENCHANTS_BY_ID = {
   "no-enchant": {

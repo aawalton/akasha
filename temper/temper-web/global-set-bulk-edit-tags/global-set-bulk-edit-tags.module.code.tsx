@@ -1,7 +1,6 @@
 "use client"
 
 import { groupByCount } from "@akasha/temper-build-support/row-grouping"
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import {
   AVAILABLE_QUALITY_OPTIONS,
   getQualityVariant,
@@ -31,6 +30,7 @@ import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-q
 import { jewelrySlots } from "../../equipment-kinds/jewelry-slots/jewelry-slots.module.code.ts"
 import { weaponBars } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
 import { weaponSlots } from "../../equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
+import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 import { BulkEditTag } from "../bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "../bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 

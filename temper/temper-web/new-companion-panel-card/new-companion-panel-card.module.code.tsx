@@ -8,13 +8,13 @@ import { usePagesUIRouter } from "@akasha/pages-ui/navigation-context"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { extractCompanionMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
-import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import { encodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { createNewCompanion } from "akasha/temper/temper-companions-core/companion-factory/companion-factory.module.code.ts"
 import { useCompanionLifecycle } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
 import { Plus } from "lucide-react"
 import { useState } from "react"
 import { toast } from "sonner"
+import { buildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 export function NewCompanionPanelCard() {
   const [isCreating, setIsCreating] = useState(false)

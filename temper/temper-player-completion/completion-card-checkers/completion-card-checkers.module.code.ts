@@ -1,6 +1,6 @@
 import { LORE_LIBRARY_DATA } from "@akasha/temper-completion/lore-library-data"
-import { getEsoDateString } from "@akasha/temper-formula-framework/eso-date"
 import { SKILL_MORPHS_CHECKER } from "akasha/temper/skill-morphs-access/skill-morphs-checker/skill-morphs-checker.module.code.ts"
+import { getEsoDateString } from "../../formula-framework/eso-date/eso-date.module.code.ts"
 import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 import type { CompletionCardChecker } from "../completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { CharacterCardId } from "../completion-card-registry/completion-card-registry.module.code.ts"

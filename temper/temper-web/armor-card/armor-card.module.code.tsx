@@ -7,7 +7,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@akasha/design-primitives/select-control"
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { EquipmentIcon } from "akasha/temper/characters-equipment-ui/equipment-icon/equipment-icon.module.code.tsx"
 import {
@@ -44,6 +43,7 @@ import {
   armorSlots,
 } from "../../equipment-kinds/armor-slots/armor-slots.module.code.ts"
 import type { EquipmentQualityOptionId } from "../../equipment-kinds/equipment-qualities/equipment-qualities.module.code.ts"
+import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 
 export interface ArmorUpdateParams {

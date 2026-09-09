@@ -1,6 +1,6 @@
-import type { RatingSurplusInfo } from "@akasha/temper-formula-framework/rating-chance"
-import type { SourceCategoryId } from "@akasha/temper-formula-framework/source-category"
 import { createDataFile } from "@akasha/utils/narrow/create-data-file"
+import type { RatingSurplusInfo } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
+import type { SourceCategoryId } from "../../formula-framework/source-category/source-category.module.code.ts"
 import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionMetricTemplate } from "../companion-metric-template/companion-metric-template.module.code.ts"
 import { COMPANION_METRICS_00 } from "../companion-metrics-00/companion-metrics-00.module.code.ts"

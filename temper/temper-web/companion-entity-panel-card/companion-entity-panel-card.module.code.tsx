@@ -3,7 +3,6 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
 import { companionUrl } from "@akasha/temper-build-support/build-url"
-import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { Badge, IconBadge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   BadgeToggleGroup,
@@ -25,6 +24,7 @@ import { getWeaponRole } from "akasha/temper/temper-companions-core/companion-we
 import { companionWeaponRoles } from "akasha/temper/temper-companions-core/companion-weapon-roles/companion-weapon-roles.module.code.ts"
 import type { CompanionId } from "akasha/temper/temper-companions-core/companions/companions.module.code.ts"
 import { Search, Trophy } from "lucide-react"
+import { buildId as toBuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 interface CompanionPlanBuild {
   id: string

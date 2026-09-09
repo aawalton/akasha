@@ -4,8 +4,6 @@ import {
   applyCompanionMetadata,
   type CompanionBuildMetadata,
 } from "@akasha/temper-build-metadata/build-metadata"
-import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import {
   decodeCompanion,
   encodeCompanion,
@@ -17,6 +15,8 @@ import {
 } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import { useCompanion as useCompanionZero } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
 import { type ReactNode, useCallback, useReducer } from "react"
+import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
+import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import type { CompanionAction } from "../companion-actions/companion-actions.module.code.ts"
 import { COMPANION_ACTIONS } from "../companion-actions/companion-actions.module.code.ts"
 import {

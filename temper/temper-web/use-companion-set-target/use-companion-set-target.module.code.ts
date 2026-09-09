@@ -4,7 +4,6 @@ import {
   applyCompanionMetadata,
   extractCompanionMetadata,
 } from "@akasha/temper-build-metadata/build-metadata"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import {
   decodeCompanion,
   encodeCompanion,
@@ -19,6 +18,7 @@ import {
 } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { useMemo, useState, useTransition } from "react"
+import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import type { SetTargetEntity } from "../set-target-dialog/set-target-dialog.module.code.tsx"
 
 interface UseCompanionSetTargetArgs {

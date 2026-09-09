@@ -1,7 +1,7 @@
 import { parseRestoreMetricIdsFromAbilityText } from "@akasha/temper-addon-generators/parse-restore-metrics-from-ability-text"
-import { isMetricEffect } from "@akasha/temper-formula-framework/effect"
 import { potions } from "akasha/temper/temper-alchemy/potion-source/potion-source.module.code.ts"
 import { ALCHEMY_EFFECT_IDS } from "akasha/temper/temper-alchemy/potion-traits/potion-traits.module.code.ts"
+import { isMetricEffect } from "../../formula-framework/effect/effect.module.code.ts"
 
 export interface MinedRestorePotion {
   readonly itemId: number

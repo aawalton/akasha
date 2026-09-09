@@ -1,9 +1,9 @@
 import { companionUrl } from "@akasha/temper-build-support/build-url"
-import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import type { CompanionVisibility } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import type { useCompanionList } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
 import type { useCompletionCompanions } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { useMemo } from "react"
+import { buildId as toBuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 
 type CompletionCompanions = ReturnType<typeof useCompletionCompanions>["companions"]
 type CompanionBuilds = ReturnType<typeof useCompanionList>["builds"]

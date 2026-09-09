@@ -6,7 +6,7 @@ import type {
   MaxNode,
   MinNode,
   MultiplyNode,
-} from "@akasha/temper-formula-framework/arithmetic-node"
+} from "../../formula-framework/arithmetic-node/arithmetic-node.module.code.ts"
 import type { CompanionBaseRoleId } from "../companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
 

@@ -1,4 +1,4 @@
-import { convertRatingToChance } from "@akasha/temper-formula-framework/rating-chance"
+import { convertRatingToChance } from "../../formula-framework/rating-chance/rating-chance.module.code.ts"
 import type { CompanionMetricId } from "../companion-metric-ids/companion-metric-ids.module.code.ts"
 import { companionMetrics } from "../companion-metrics/companion-metrics.module.code.ts"
 

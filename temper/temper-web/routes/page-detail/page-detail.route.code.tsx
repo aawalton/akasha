@@ -14,10 +14,6 @@ import {
   applyCompanionMetadata,
 } from "@akasha/temper-build-metadata/build-metadata"
 import {
-  buildHash as toBuildHash,
-  buildId as toBuildId,
-} from "@akasha/temper-formula-framework/branded-id"
-import {
   decodeBuild,
   encodeBuild,
 } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
@@ -35,6 +31,10 @@ import { toVisibility } from "akasha/temper/temper-companions-core/companion-typ
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"
+import {
+  buildHash as toBuildHash,
+  buildId as toBuildId,
+} from "../../../formula-framework/branded-id/branded-id.module.code.ts"
 import { CharacterEditor } from "../../character-editor/character-editor.module.code.tsx"
 import { CompanionEditor } from "../../companion-editor/companion-editor.module.code.tsx"
 import type { Route } from "./+types/page-detail.route.code"

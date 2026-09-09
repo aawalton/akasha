@@ -1,4 +1,4 @@
-import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import type { ClassId } from "../../formula-framework/class-id/class-id.module.code.ts"
 import type { AffixScriptId } from "../../skill-kinds/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import type { FocusScriptId } from "../../skill-kinds/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import type { SignatureScriptId } from "../../skill-kinds/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"

@@ -1,11 +1,11 @@
 "use client"
 
-import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import type {
   CompanionState,
   CompanionVisibility,
 } from "akasha/temper/temper-companions-core/companion-types/companion-types.module.code.ts"
 import { createContext } from "react"
+import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import type { CompanionAction } from "../companion-actions/companion-actions.module.code.ts"
 
 export const CompanionStateContext = createContext<CompanionState | null>(null)

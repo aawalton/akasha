@@ -1,4 +1,4 @@
-import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
+import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
 import type { MetricTemplate } from "../metric-template/metric-template.module.code.ts"
 
 export const METRICS_DATA_10: Partial<Record<MetricId, MetricTemplate>> = {

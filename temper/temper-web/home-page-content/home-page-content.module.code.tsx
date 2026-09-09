@@ -21,7 +21,6 @@ import {
   applyCharacterMetadata,
   applyCompanionMetadata,
 } from "@akasha/temper-build-metadata/build-metadata"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { useCharacterList } from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
@@ -35,6 +34,7 @@ import { InventoryScopeNote } from "akasha/temper/temper-player-inventory-manage
 import { InventoryTypeSummaryPanelCard } from "akasha/temper/temper-player-inventory-management-ui/inventory-summary-panel-card/inventory-summary-panel-card.module.code.tsx"
 import { Gamepad2 } from "lucide-react"
 import { Suspense, useMemo } from "react"
+import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import { OverallSummaryPanelCard } from "../overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
 import { RecentCharactersCard } from "../recent-characters-card/recent-characters-card.module.code.tsx"
 import { RecentCompanionsCard } from "../recent-companions-card/recent-companions-card.module.code.tsx"

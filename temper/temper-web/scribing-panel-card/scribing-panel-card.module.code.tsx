@@ -1,12 +1,12 @@
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import { Button } from "@akasha/design-primitives/button"
-import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import type { ScribedSkill } from "akasha/temper/temper-character-skills/scribed-skill-types/scribed-skill-types.module.code.ts"
 import { getScribedSkillName } from "akasha/temper/temper-character-skills/scribed-skills/scribed-skills.module.code.ts"
 import { grimoires } from "akasha/temper/temper-character-skills/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { Plus } from "lucide-react"
 import { useMemo } from "react"
+import { getEsoIconUrl } from "../../formula-framework/eso-icon-url/eso-icon-url.module.code.ts"
 import { skillLines } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 
 interface ScribedSkillItemProps {

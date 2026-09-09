@@ -1,8 +1,8 @@
-import { valuesOf } from "@akasha/temper-formula-framework/record-parts"
 import type { SetId } from "akasha/temper/temper-equipment/set-ids/set-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/temper-equipment/set-template/set-template.module.code.ts"
 import { weaponBars } from "../../equipment-kinds/weapon-bars/weapon-bars.module.code.ts"
 import { weaponSlots } from "../../equipment-kinds/weapon-slots/weapon-slots.module.code.ts"
+import { valuesOf } from "../../formula-framework/record-parts/record-parts.module.code.ts"
 import type { Loadout, WeaponSlot } from "../loadout-types/loadout-types.module.code.ts"
 import {
   getWeaponItem,

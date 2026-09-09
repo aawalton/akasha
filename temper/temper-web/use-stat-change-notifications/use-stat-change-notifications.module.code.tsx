@@ -1,7 +1,5 @@
 "use client"
 
-import type { EffectSource } from "@akasha/temper-formula-framework/effect-source"
-import type { MetricId } from "@akasha/temper-formula-framework/metric-id"
 import type { CharacterState } from "akasha/temper/temper-character-build/build-types/build-types.module.code.ts"
 import { buildStateToEffectSources } from "akasha/temper/temper-characters-stats/build-state-adapter/build-state-adapter.module.code.ts"
 import {
@@ -16,6 +14,8 @@ import { calculateBuildStatsByBar } from "akasha/temper/temper-characters-stats/
 import type { MetricValue } from "akasha/temper/temper-characters-stats/metric-value/metric-value.module.code.ts"
 import { useEffect, useRef } from "react"
 import { toast } from "sonner"
+import type { EffectSource } from "../../formula-framework/effect-source/effect-source.module.code.ts"
+import type { MetricId } from "../../formula-framework/metric-id/metric-id.module.code.ts"
 import {
   type StatChangeNotification,
   StatChangesDescription,

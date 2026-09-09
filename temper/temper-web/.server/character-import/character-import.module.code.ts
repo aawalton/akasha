@@ -4,14 +4,14 @@ import { patchPage } from "@akasha/pages-access/patch"
 import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { extractCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
+import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
 import type {
   BuildHash,
   BuildId,
   EsoCharacterId,
-} from "@akasha/temper-formula-framework/branded-id"
-import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
-import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
-import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+} from "../../../formula-framework/branded-id/branded-id.module.code.ts"
+import { buildId as toBuildId } from "../../../formula-framework/branded-id/branded-id.module.code.ts"
 import { races } from "../../../races/races/races.module.code.ts"
 export type ImportCharacterResult =
   | { buildId: BuildId; buildName: string }

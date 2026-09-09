@@ -19,12 +19,12 @@ import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
-import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import type { Json } from "@akasha/utils/narrow/json-value"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { Loader2 } from "lucide-react"
 import { useCallback, useEffect, useState } from "react"
 import { toast } from "sonner"
+import type { BuildId } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import {
   type CompanionVersion,
   getCompanionVersions,

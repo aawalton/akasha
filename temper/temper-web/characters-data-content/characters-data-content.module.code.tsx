@@ -15,7 +15,6 @@ import { Card, CardContent } from "@akasha/design-primitives/card"
 import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { applyCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
-import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import {
@@ -25,6 +24,7 @@ import {
 import { useCompletionCharactersByUser } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
+import { buildHash as toBuildHash } from "../../formula-framework/branded-id/branded-id.module.code.ts"
 import {
   BuildsBrowseTab,
   type DecodedBuild,

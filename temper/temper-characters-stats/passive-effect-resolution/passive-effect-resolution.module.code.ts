@@ -1,16 +1,16 @@
+import type { StandardArmorWeightId } from "akasha/temper/temper-equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type {
   ArmorPieceScalingEffect,
   Effect,
   MetricEffect,
   SlottedAbilityScalingEffect,
   WeaponTypeConditionalEffect,
-} from "@akasha/temper-formula-framework/effect"
+} from "../../formula-framework/effect/effect.module.code.ts"
 import {
   isArmorPieceScalingEffect,
   isSlottedAbilityScalingEffect,
   isWeaponTypeConditionalEffect,
-} from "@akasha/temper-formula-framework/effect"
-import type { StandardArmorWeightId } from "akasha/temper/temper-equipment/armor-weight-ids/armor-weight-ids.module.code.ts"
+} from "../../formula-framework/effect/effect.module.code.ts"
 import type { SkillLineId } from "../../skill-lines/skill-lines/skill-lines.module.code.ts"
 
 function resolveEffects<E extends Effect>(
