@@ -5,7 +5,7 @@ export const theIdleEpoch0005TheTheorist = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-idle-epoch-0005-the-theorist",
   title: "The Theorist",
-  storySlug: "the-idle-epoch",
+  story: "the-idle-epoch",
   position: 5,
   ownLength: 6216,
   unitSlug: "words",

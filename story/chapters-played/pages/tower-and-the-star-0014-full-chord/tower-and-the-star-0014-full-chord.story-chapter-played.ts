@@ -5,7 +5,7 @@ export const towerAndTheStar0014FullChord = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0014-full-chord",
   title: "Full Chord",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 14,
   ownLength: 5518,
   unitSlug: "words",

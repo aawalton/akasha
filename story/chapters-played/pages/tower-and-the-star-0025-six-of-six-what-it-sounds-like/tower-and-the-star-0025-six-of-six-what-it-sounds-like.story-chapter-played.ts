@@ -5,7 +5,7 @@ export const towerAndTheStar0025SixOfSixWhatItSoundsLike = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0025-six-of-six-what-it-sounds-like",
   title: "Six of Six (What It Sounds Like)",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 25,
   ownLength: 3680,
   unitSlug: "words",

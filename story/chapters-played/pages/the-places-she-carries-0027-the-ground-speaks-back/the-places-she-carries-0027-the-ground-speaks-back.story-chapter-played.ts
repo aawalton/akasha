@@ -5,7 +5,7 @@ export const thePlacesSheCarries0027TheGroundSpeaksBack = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0027-the-ground-speaks-back",
   title: "The Ground Speaks Back",
-  storySlug: "the-places-she-carries",
+  story: "the-places-she-carries",
   position: 27,
   ownLength: 2514,
   unitSlug: "words",

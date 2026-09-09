@@ -17,6 +17,16 @@ export const CHAPTER_TYPE_BY_STORY_TYPE: Readonly<Record<string, string>> = {
 
 const STORY_TYPES = Object.keys(CHAPTER_TYPE_BY_STORY_TYPE)
 
+const STORY_KEY_BY_CHAPTER_TYPE: Readonly<Record<string, string>> = {
+  "story-chapter-read": "storySlug",
+  "story-chapter-played": "story",
+  "story-chapter-written": "storySlug",
+}
+
+function storyKeyOf(chapterType: string): string {
+  return STORY_KEY_BY_CHAPTER_TYPE[chapterType] ?? "storySlug"
+}
+
 const STORY_KEYS = ["id", "title", "slug", "ownProgress", "ownLength"]
 const CHAPTER_KEYS = ["id", "title", "slug", "position", "ownLength", "ownProgress", "completedAt"]
 
@@ -185,7 +195,7 @@ async function chapterRowsPartOf(
   for (const shape of partOfShapes(storyType, slug)) {
     const rows = await askRows({
       "page-type": chapterType,
-      where: { storySlug: { is: shape } },
+      where: { [storyKeyOf(chapterType)]: { is: shape } },
       keys: CHAPTER_KEYS,
       "sort-by": "position",
       limit: ASK_LIMIT,
@@ -229,13 +239,14 @@ export async function loadLitrpgCatalog(): Promise<LitrpgCatalog> {
       for (const shape of partOfShapes(storyType, String(record.slug)))
         idBySlug.set(shape, String(record.id))
     }
+    const storyKey = storyKeyOf(chapterType)
     const chapterRows = await askRows({
       "page-type": chapterType,
-      keys: [...CHAPTER_KEYS, "storySlug"],
+      keys: [...CHAPTER_KEYS, storyKey],
       limit: ASK_LIMIT,
     })
     for (const values of chapterRows) {
-      const said = values.storySlug
+      const said = values[storyKey]
       const named = Array.isArray(said) ? String(said[0] ?? "") : String(said ?? "")
       const storyId = idBySlug.get(named) ?? ""
       chapters.push(rowToLitrpgChapter(chapterRecordOf(values, storyId, chapterType)))

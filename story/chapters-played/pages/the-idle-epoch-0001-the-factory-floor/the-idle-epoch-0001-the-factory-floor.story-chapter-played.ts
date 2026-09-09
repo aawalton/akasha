@@ -5,7 +5,7 @@ export const theIdleEpoch0001TheFactoryFloor = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-idle-epoch-0001-the-factory-floor",
   title: "The Factory Floor",
-  storySlug: "the-idle-epoch",
+  story: "the-idle-epoch",
   position: 1,
   ownLength: 4388,
   unitSlug: "words",

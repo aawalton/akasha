@@ -5,7 +5,7 @@ export const towerAndTheStar0032Section31 = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0032-section-31",
   title: "Section 31",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 32,
   ownLength: 2573,
   unitSlug: "words",

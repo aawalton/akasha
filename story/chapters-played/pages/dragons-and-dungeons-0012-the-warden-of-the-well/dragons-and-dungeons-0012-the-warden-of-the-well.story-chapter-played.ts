@@ -5,7 +5,7 @@ export const dragonsAndDungeons0012TheWardenOfTheWell = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0012-the-warden-of-the-well",
   title: "The Warden of the Well",
-  storySlug: "story-played/dragons-and-dungeons",
+  story: "story-played/dragons-and-dungeons",
   position: 12,
   ownLength: 1240,
   unitSlug: "words",

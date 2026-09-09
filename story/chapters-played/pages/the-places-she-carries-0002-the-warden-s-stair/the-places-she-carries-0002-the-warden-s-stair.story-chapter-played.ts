@@ -5,7 +5,7 @@ export const thePlacesSheCarries0002TheWardenSStair = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0002-the-warden-s-stair",
   title: "The Warden's Stair",
-  storySlug: "the-places-she-carries",
+  story: "the-places-she-carries",
   position: 2,
   ownLength: 5316,
   unitSlug: "words",

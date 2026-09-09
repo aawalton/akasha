@@ -5,7 +5,7 @@ export const theIdleEpoch0012BeginAgain = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-idle-epoch-0012-begin-again",
   title: "Begin Again",
-  storySlug: "the-idle-epoch",
+  story: "the-idle-epoch",
   position: 12,
   ownLength: 5516,
   unitSlug: "words",

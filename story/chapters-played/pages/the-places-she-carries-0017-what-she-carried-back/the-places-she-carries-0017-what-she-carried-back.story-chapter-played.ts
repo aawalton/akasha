@@ -5,7 +5,7 @@ export const thePlacesSheCarries0017WhatSheCarriedBack = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0017-what-she-carried-back",
   title: "What She Carried Back",
-  storySlug: "the-places-she-carries",
+  story: "the-places-she-carries",
   position: 17,
   ownLength: 3186,
   unitSlug: "words",

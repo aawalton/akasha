@@ -5,7 +5,7 @@ export const thePlacesSheCarries0023WhatTheLandRemembers = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0023-what-the-land-remembers",
   title: "What the Land Remembers",
-  storySlug: "the-places-she-carries",
+  story: "the-places-she-carries",
   position: 23,
   ownLength: 2523,
   unitSlug: "words",

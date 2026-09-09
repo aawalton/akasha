@@ -5,7 +5,7 @@ export const dragonsAndDungeons0007TheHushAndTheCage = {
   pageTypeSlug: "story-chapter-played",
   slug: "dragons-and-dungeons-0007-the-hush-and-the-cage",
   title: "The Hush and the Cage",
-  storySlug: "story-played/dragons-and-dungeons",
+  story: "story-played/dragons-and-dungeons",
   position: 7,
   ownLength: 2881,
   unitSlug: "words",

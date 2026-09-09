@@ -5,7 +5,7 @@ export const towerAndTheStar0004Floor8HasAnOpinion = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0004-floor-8-has-an-opinion",
   title: "Floor 8 Has an Opinion",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 4,
   ownLength: 3595,
   unitSlug: "words",

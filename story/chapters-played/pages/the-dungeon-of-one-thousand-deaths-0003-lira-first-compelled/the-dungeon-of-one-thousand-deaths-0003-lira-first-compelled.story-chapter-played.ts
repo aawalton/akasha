@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0003LiraFirstCompelled = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0003-lira-first-compelled",
   title: "Lira, First Compelled",
-  storySlug: "the-dungeon-of-one-thousand-deaths",
+  story: "the-dungeon-of-one-thousand-deaths",
   position: 3,
   ownLength: 3917,
   unitSlug: "words",

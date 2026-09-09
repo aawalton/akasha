@@ -3,11 +3,11 @@ import type { Collection } from "../../collections/collection.page-type.ts"
 import type { OwnLength } from "../../collections/properties/own-length.number-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
-import type { PlayedChapterStorySlug } from "./properties/played-chapter-story-slug.relation-property.ts"
+import type { PlayedChapterStory } from "./properties/played-chapter-story.relation-property.ts"
 
 export type StoryChapterPlayed = Collection & {
   title: Title
-  storySlug: PlayedChapterStorySlug
+  story: PlayedChapterStory
   ownLength: OwnLength
   prose: Prose
 }
@@ -20,11 +20,11 @@ export const storyChapterPlayed = {
   pluralSlug: "story-chapters-played",
   extendsSlug: ["page-type/collection"],
   runsTabooCheck: false,
-  partSlugs: ["relation-property/played-chapter-story-slug"],
+  partSlugs: ["relation-property/played-chapter-story"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     {
-      pagePropertySlug: "relation-property/played-chapter-story-slug",
+      pagePropertySlug: "relation-property/played-chapter-story",
       required: true,
       many: false,
     },

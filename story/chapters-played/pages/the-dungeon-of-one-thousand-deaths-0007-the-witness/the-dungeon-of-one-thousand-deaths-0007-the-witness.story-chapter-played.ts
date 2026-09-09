@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0007TheWitness = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0007-the-witness",
   title: "The Witness",
-  storySlug: "the-dungeon-of-one-thousand-deaths",
+  story: "the-dungeon-of-one-thousand-deaths",
   position: 7,
   ownLength: 3826,
   unitSlug: "words",

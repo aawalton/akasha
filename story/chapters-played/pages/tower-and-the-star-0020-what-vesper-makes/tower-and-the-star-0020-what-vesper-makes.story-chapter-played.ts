@@ -5,7 +5,7 @@ export const towerAndTheStar0020WhatVesperMakes = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0020-what-vesper-makes",
   title: "What Vesper Makes",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 20,
   ownLength: 3638,
   unitSlug: "words",

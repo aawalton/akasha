@@ -5,7 +5,7 @@ export const theVioletHour0002Experiment2NataliesTable = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-violet-hour-0002-experiment-2-natalies-table",
   title: "Experiment 2 — Natalie's Table",
-  storySlug: "story-played/the-violet-hour",
+  story: "story-played/the-violet-hour",
   position: 2,
   ownLength: 1001,
   unitSlug: "words",

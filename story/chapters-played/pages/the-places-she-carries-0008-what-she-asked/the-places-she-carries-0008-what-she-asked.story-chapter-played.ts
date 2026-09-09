@@ -5,7 +5,7 @@ export const thePlacesSheCarries0008WhatSheAsked = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0008-what-she-asked",
   title: "What She Asked",
-  storySlug: "the-places-she-carries",
+  story: "the-places-she-carries",
   position: 8,
   ownLength: 4234,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const breathOfTheWild0001OpenYourEyes = {
   pageTypeSlug: "story-chapter-played",
   slug: "breath-of-the-wild-0001-open-your-eyes",
   title: "Open Your Eyes",
-  storySlug: "breath-of-the-wild",
+  story: "breath-of-the-wild",
   position: 1,
   ownLength: 4943,
   unitSlug: "words",

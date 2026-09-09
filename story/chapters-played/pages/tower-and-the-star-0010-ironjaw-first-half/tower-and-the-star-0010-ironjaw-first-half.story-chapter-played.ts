@@ -5,7 +5,7 @@ export const towerAndTheStar0010IronjawFirstHalf = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0010-ironjaw-first-half",
   title: "Ironjaw (First Half)",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 10,
   ownLength: 3787,
   unitSlug: "words",

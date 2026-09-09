@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0005TheTerminalBuilder = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0005-the-terminal-builder",
   title: "The Terminal Builder",
-  storySlug: "the-dungeon-of-one-thousand-deaths",
+  story: "the-dungeon-of-one-thousand-deaths",
   position: 5,
   ownLength: 3264,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const towerAndTheStar0017TheBondTrial = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0017-the-bond-trial",
   title: "The Bond Trial",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 17,
   ownLength: 3576,
   unitSlug: "words",

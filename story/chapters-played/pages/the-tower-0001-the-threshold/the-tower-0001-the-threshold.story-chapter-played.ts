@@ -5,7 +5,7 @@ export const theTower0001TheThreshold = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-tower-0001-the-threshold",
   title: "The Threshold",
-  storySlug: "story-played/the-tower",
+  story: "story-played/the-tower",
   position: 1,
   ownLength: 1833,
   unitSlug: "words",

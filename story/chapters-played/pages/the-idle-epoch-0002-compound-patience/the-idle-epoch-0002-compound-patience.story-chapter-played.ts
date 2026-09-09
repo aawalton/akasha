@@ -5,7 +5,7 @@ export const theIdleEpoch0002CompoundPatience = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-idle-epoch-0002-compound-patience",
   title: "Compound Patience",
-  storySlug: "the-idle-epoch",
+  story: "the-idle-epoch",
   position: 2,
   ownLength: 5215,
   unitSlug: "words",

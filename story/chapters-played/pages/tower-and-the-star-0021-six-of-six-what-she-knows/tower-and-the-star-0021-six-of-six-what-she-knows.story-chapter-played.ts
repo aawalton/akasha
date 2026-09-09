@@ -5,7 +5,7 @@ export const towerAndTheStar0021SixOfSixWhatSheKnows = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0021-six-of-six-what-she-knows",
   title: "Six of Six (What She Knows)",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 21,
   ownLength: 3530,
   unitSlug: "words",

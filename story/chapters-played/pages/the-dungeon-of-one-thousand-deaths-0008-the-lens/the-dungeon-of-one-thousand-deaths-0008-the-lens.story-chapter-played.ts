@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0008TheLens = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0008-the-lens",
   title: "The Lens",
-  storySlug: "the-dungeon-of-one-thousand-deaths",
+  story: "the-dungeon-of-one-thousand-deaths",
   position: 8,
   ownLength: 4406,
   unitSlug: "words",

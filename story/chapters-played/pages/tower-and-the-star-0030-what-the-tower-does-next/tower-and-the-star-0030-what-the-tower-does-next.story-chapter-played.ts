@@ -5,7 +5,7 @@ export const towerAndTheStar0030WhatTheTowerDoesNext = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0030-what-the-tower-does-next",
   title: "What the Tower Does Next",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 30,
   ownLength: 2320,
   unitSlug: "words",

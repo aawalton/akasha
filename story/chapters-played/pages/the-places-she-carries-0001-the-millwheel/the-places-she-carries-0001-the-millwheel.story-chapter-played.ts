@@ -5,7 +5,7 @@ export const thePlacesSheCarries0001TheMillwheel = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0001-the-millwheel",
   title: "The Millwheel",
-  storySlug: "the-places-she-carries",
+  story: "the-places-she-carries",
   position: 1,
   ownLength: 3811,
   unitSlug: "words",

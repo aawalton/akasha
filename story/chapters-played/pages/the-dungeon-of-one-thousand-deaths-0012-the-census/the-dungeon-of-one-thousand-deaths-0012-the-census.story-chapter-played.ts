@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0012TheCensus = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0012-the-census",
   title: "The Census",
-  storySlug: "the-dungeon-of-one-thousand-deaths",
+  story: "the-dungeon-of-one-thousand-deaths",
   position: 12,
   ownLength: 2962,
   unitSlug: "words",

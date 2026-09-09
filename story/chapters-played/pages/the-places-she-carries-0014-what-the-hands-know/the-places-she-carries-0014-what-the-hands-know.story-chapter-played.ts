@@ -5,7 +5,7 @@ export const thePlacesSheCarries0014WhatTheHandsKnow = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-places-she-carries-0014-what-the-hands-know",
   title: "What the Hands Know",
-  storySlug: "the-places-she-carries",
+  story: "the-places-she-carries",
   position: 14,
   ownLength: 3059,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const towerAndTheStar0012ClassSelectionAndWhatComesAfter = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0012-class-selection-and-what-comes-after",
   title: "Class Selection and What Comes After",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 12,
   ownLength: 4195,
   unitSlug: "words",

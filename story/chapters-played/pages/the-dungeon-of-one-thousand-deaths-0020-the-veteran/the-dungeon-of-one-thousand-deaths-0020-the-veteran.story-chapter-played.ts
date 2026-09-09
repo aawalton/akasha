@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0020TheVeteran = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0020-the-veteran",
   title: "The Veteran",
-  storySlug: "the-dungeon-of-one-thousand-deaths",
+  story: "the-dungeon-of-one-thousand-deaths",
   position: 20,
   ownLength: 4527,
   unitSlug: "words",

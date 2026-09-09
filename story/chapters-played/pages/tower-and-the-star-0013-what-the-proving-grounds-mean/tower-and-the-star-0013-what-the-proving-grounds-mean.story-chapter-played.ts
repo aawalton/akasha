@@ -5,7 +5,7 @@ export const towerAndTheStar0013WhatTheProvingGroundsMean = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0013-what-the-proving-grounds-mean",
   title: "What the Proving Grounds Mean",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 13,
   ownLength: 5112,
   unitSlug: "words",

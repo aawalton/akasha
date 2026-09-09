@@ -5,7 +5,7 @@ export const towerAndTheStar0029TheOrganized = {
   pageTypeSlug: "story-chapter-played",
   slug: "tower-and-the-star-0029-the-organized",
   title: "The Organized",
-  storySlug: "tower-and-the-star",
+  story: "tower-and-the-star",
   position: 29,
   ownLength: 2394,
   unitSlug: "words",

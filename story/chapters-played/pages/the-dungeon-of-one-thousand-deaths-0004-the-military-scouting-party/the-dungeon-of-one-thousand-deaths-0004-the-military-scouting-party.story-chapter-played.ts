@@ -5,7 +5,7 @@ export const theDungeonOfOneThousandDeaths0004TheMilitaryScoutingParty = {
   pageTypeSlug: "story-chapter-played",
   slug: "the-dungeon-of-one-thousand-deaths-0004-the-military-scouting-party",
   title: "The Military Scouting Party",
-  storySlug: "the-dungeon-of-one-thousand-deaths",
+  story: "the-dungeon-of-one-thousand-deaths",
   position: 4,
   ownLength: 6076,
   unitSlug: "words",
