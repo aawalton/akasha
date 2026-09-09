@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const oakWardGoogleNoticeNoreplyDmarcSupport = {
   id: "01a06860-54a2-7a94-8b16-96e8c60dbecd",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "oak-ward-google-notice-noreply-dmarc-support",
   title: "Oak ward google notice noreply dmarc support",
   matches: [

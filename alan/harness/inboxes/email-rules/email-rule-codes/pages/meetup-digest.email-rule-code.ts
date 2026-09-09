@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const meetupDigest = {
   id: "01a06860-54a2-7b18-b5ac-3b2fc978b9f4",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "meetup-digest",
   title: "Meetup digest",
   matches: [

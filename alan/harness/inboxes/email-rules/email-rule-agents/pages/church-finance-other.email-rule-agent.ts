@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const churchFinanceOther = {
   id: "01a06863-fbe8-7e61-b27e-6ec3fa303a5c",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "church-finance-other",
   title: "Church finance other",
   matches: [

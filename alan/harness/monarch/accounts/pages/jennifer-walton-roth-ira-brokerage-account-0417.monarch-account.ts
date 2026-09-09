@@ -3,6 +3,7 @@ import type { MonarchAccount } from "../monarch-account.page-type.ts"
 export const jenniferWaltonRothIraBrokerageAccount0417 = {
   id: "01a06559-5ea8-700f-9bde-0ebf0d9953a0",
   pageTypeSlug: "monarch-account",
+  type: "monarch-account",
   slug: "jennifer-walton-roth-ira-brokerage-account-0417",
   title: "Roth IRA Brokerage Account - 0417",
   definition: "money the family has, sitting in a Roth IRA account",

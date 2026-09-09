@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const preahVihear = {
   id: "019dbb6d-e335-7920-b64d-a63b793a8722",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "preah-vihear",
   title: "Preah Vihear",
   scope: "team",

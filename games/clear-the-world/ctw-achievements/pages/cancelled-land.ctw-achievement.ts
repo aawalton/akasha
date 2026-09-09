@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const cancelledLand = {
   id: "019dbb6d-d8d2-7dd0-981f-1a6851c0b732",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "cancelled-land",
   title: "Cancelled Land",
   scope: "team",

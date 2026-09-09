@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const marketingSenders = {
   id: "01a06860-54a2-7b07-8558-6dc9a9684e60",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "marketing-senders",
   title: "Marketing senders",
   matches: [

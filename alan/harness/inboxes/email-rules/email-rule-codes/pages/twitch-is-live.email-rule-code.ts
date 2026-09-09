@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const twitchIsLive = {
   id: "01a06860-54a2-74e4-b1de-c25726f6d96a",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "twitch-is-live",
   title: "Twitch is live",
   matches: [

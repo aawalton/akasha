@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const clusterRemnant = {
   id: "019dbb6d-8ad5-7962-b2e1-ff2b3c020382",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "cluster-remnant",
   title: "Cluster Remnant",
   scope: "profile",

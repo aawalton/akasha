@@ -3,6 +3,7 @@ import type { MonarchAccount } from "../monarch-account.page-type.ts"
 export const moneyMarket9490 = {
   id: "01a06559-5ea8-7011-9340-e5612ac60e45",
   pageTypeSlug: "monarch-account",
+  type: "monarch-account",
   slug: "money-market-9490",
   title: "Money Market 9490",
   definition: "money the family has, sitting in a savings account",

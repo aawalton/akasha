@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const mineFree = {
   id: "019dbb6d-b6c3-72fa-a5c2-928ce1aaf4e1",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "mine-free",
   title: "Mine-Free",
   scope: "profile",

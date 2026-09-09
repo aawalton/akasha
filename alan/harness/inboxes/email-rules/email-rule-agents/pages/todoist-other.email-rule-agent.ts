@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const todoistOther = {
   id: "01a06863-fbe9-78c1-8ffa-abf5582ccf42",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "todoist-other",
   title: "Todoist other",
   matches: [

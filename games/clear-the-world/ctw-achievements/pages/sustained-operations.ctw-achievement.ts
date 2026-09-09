@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const sustainedOperations = {
   id: "019dbb6d-bea1-7eed-bc19-0ae89fe2dd96",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "sustained-operations",
   title: "Sustained Operations",
   scope: "profile",

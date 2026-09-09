@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const crunchyrollOther = {
   id: "01a06863-fbe8-76a7-a1d5-71039852f17d",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "crunchyroll-other",
   title: "Crunchyroll other",
   matches: [

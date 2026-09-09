@@ -3,6 +3,7 @@ import type { MonarchCategory } from "../monarch-category.page-type.ts"
 export const rickWaltonTrust = {
   id: "01a06559-5ea9-7000-ad4c-bd87646ecf0d",
   pageTypeSlug: "monarch-category",
+  type: "monarch-category",
   slug: "rick-walton-trust",
   title: "Rick Walton Trust",
   definition: "money moving under the Rick Walton Trust",

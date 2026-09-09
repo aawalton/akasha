@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const osloActionPlan = {
   id: "019dbb6e-04cb-715f-8114-7bce40d03d75",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "oslo-action-plan",
   title: "Oslo Action Plan",
   scope: "team",

@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const penjwin = {
   id: "019dbb6d-c919-707c-b32e-85fc229bfd48",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "penjwin",
   title: "Penjwin",
   scope: "team",

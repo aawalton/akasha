@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const backerkitVaultPromo = {
   id: "01a06860-54a2-76bd-b8b3-dace27c0296e",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "backerkit-vault-promo",
   title: "Backerkit vault promo",
   matches: [

@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const notionUpdatesOther = {
   id: "01a06863-fbe9-7635-b1fe-46f0733246a8",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "notion-updates-other",
   title: "Notion updates other",
   matches: [

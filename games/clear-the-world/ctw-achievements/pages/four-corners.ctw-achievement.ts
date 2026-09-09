@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const fourCorners = {
   id: "019dbb6d-a452-7beb-ad6f-5234ab51d3e4",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "four-corners",
   title: "Four Corners",
   scope: "profile",

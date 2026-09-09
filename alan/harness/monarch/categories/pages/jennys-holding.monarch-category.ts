@@ -3,6 +3,7 @@ import type { MonarchCategory } from "../monarch-category.page-type.ts"
 export const jennysHolding = {
   id: "01a06559-5ea8-702c-b080-ee05c234d629",
   pageTypeSlug: "monarch-category",
+  type: "monarch-category",
   slug: "jennys-holding",
   title: "Jenny's Holding",
   definition: "money held in Jenny's name rather than spent from it",

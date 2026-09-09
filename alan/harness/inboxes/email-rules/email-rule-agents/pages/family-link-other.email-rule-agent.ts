@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const familyLinkOther = {
   id: "01a06863-fbe9-74e9-a0dd-8933309fbd22",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "family-link-other",
   title: "Family link other",
   matches: [

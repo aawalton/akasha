@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const ordnanceCatalogue = {
   id: "019dbb6d-9009-70af-8976-812ed1b2c671",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "ordnance-catalogue",
   title: "Ordnance Catalogue",
   scope: "profile",

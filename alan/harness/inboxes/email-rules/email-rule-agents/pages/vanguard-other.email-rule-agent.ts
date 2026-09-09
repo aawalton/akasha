@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const vanguardOther = {
   id: "01a06863-fbe9-7beb-b3e9-2216e374fd3b",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "vanguard-other",
   title: "Vanguard other",
   matches: [

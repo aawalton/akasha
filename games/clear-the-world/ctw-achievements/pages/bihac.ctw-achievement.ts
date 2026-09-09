@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const bihac = {
   id: "019dbb6d-7887-71c8-90f9-729286fb8022",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "bihac",
   title: "Bihać",
   scope: "profile",

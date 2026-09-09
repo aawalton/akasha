@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const noreplySteampoweredComOther = {
   id: "01a06863-fbe9-78cc-9e0a-4ff1d5dedb14",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "noreply-steampowered-com-other",
   title: "Noreply steampowered com other",
   matches: [

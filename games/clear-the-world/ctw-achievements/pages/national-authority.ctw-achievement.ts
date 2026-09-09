@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const nationalAuthority = {
   id: "019dbb6d-e838-7c13-b275-ac282c9aa167",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "national-authority",
   title: "National Authority",
   scope: "team",

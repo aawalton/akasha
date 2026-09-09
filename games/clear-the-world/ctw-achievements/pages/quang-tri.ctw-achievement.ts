@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const quangTri = {
   id: "019dbb6d-7da3-73bf-bd74-c071a509c413",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "quang-tri",
   title: "Quang Tri",
   scope: "profile",

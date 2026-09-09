@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const twitchOther = {
   id: "01a06863-fbe9-787c-a7b7-31046d56808e",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "twitch-other",
   title: "Twitch other",
   matches: [

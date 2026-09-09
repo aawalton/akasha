@@ -3,6 +3,7 @@ import type { MonarchCategory } from "../monarch-category.page-type.ts"
 export const dividendsAndCapitalGains = {
   id: "01a06559-5ea8-7022-91fc-a1170aeaa879",
   pageTypeSlug: "monarch-category",
+  type: "monarch-category",
   slug: "dividends-and-capital-gains",
   title: "Dividends & Capital Gains",
   definition: "money the family's investments paid out",

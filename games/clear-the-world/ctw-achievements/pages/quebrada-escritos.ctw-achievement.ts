@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const quebradaEscritos = {
   id: "019dbb6d-d10d-7e9b-802d-ac0b3316bb95",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "quebrada-escritos",
   title: "Quebrada Escritos",
   scope: "team",

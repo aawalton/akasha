@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const maputoActionPlan = {
   id: "019dbb6d-ff8d-7fc2-8447-893cdb5151d4",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "maputo-action-plan",
   title: "Maputo Action Plan",
   scope: "team",

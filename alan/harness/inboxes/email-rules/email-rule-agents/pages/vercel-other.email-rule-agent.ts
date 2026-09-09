@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const vercelOther = {
   id: "01a06863-fbe9-7a2e-a862-908814d55c1f",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "vercel-other",
   title: "Vercel other",
   matches: [

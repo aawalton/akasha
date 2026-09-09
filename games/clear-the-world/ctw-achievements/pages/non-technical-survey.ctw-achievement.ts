@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const nonTechnicalSurvey = {
   id: "019dbb6d-d619-780b-87da-7d4c4dbbafda",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "non-technical-survey",
   title: "Non-Technical Survey",
   scope: "team",

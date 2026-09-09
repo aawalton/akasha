@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const royaltytrackerOther = {
   id: "01a06863-fbe9-783a-89c4-f5e4918a3524",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "royaltytracker-other",
   title: "Royaltytracker other",
   matches: [

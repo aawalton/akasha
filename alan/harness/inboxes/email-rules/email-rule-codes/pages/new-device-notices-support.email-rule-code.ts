@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const newDeviceNoticesSupport = {
   id: "01a06860-54a2-7a60-843a-096b18555b10",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "new-device-notices-support",
   title: "New device notices support",
   matches: [

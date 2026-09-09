@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const googlePaymentsOther = {
   id: "01a06863-fbe9-7e87-b74e-8ed56db7254f",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "google-payments-other",
   title: "Google payments other",
   matches: [

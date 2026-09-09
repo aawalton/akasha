@@ -3,6 +3,7 @@ import type { MonarchAccount } from "../monarch-account.page-type.ts"
 export const alanWaltonJenniferWaltonBrokerageAccount8993445936 = {
   id: "01a06559-5ea7-7005-b27d-48aa1f8ceed5",
   pageTypeSlug: "monarch-account",
+  type: "monarch-account",
   slug: "alan-walton-jennifer-walton-brokerage-account-8993-445936",
   title: "Brokerage Account - 8993",
   definition: "money the family has, sitting in a brokerage account",

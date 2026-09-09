@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const caqueta = {
   id: "019dbb6d-ce6a-7299-a68a-766b71f144c9",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "caqueta",
   title: "Caquetá",
   scope: "team",

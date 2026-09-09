@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const amazonStoreNews = {
   id: "01a06860-54a2-72ca-8867-f1457e9af4a7",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "amazon-store-news",
   title: "Amazon store news",
   matches: [{ field: "from", comparison: "is", values: ["store-news@amazon.com"] }],

@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const certificateOfCompletion = {
   id: "019dbb6d-9cb9-7e22-8ce9-c014b4ff7ec2",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "certificate-of-completion",
   title: "Certificate of Completion",
   scope: "profile",

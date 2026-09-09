@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const landRelease = {
   id: "019dbb6d-97a4-725d-85d9-21c13cc2dac7",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "land-release",
   title: "Land Release",
   scope: "profile",

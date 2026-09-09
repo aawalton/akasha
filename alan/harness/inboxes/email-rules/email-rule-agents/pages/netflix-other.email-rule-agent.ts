@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const netflixOther = {
   id: "01a06863-fbe9-7e1b-b158-1123bd76c4c8",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "netflix-other",
   title: "Netflix other",
   matches: [

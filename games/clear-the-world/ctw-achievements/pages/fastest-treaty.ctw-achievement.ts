@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const fastestTreaty = {
   id: "019dbb6e-3df8-75db-83a6-c598b6531840",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "fastest-treaty",
   title: "Fastest Treaty",
   scope: "global",

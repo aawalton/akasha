@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const anthropicReceipt = {
   id: "01a06860-54a2-717c-a258-2e8e779167cd",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "anthropic-receipt",
   title: "Anthropic receipt",
   matches: [

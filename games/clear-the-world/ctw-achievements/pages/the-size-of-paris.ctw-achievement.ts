@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const theSizeOfParis = {
   id: "019dbb6e-0a56-7afd-b9c3-f281ef9ec23f",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "the-size-of-paris",
   title: "The Size of Paris",
   scope: "global",

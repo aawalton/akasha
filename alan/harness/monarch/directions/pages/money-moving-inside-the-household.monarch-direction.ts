@@ -3,6 +3,7 @@ import type { MonarchDirection } from "../monarch-direction.page-type.ts"
 export const moneyMovingInsideTheHousehold = {
   id: "01a06559-5ea9-700e-9643-a72f5f272746",
   pageTypeSlug: "monarch-direction",
+  type: "monarch-direction",
   slug: "money-moving-inside-the-household",
   title: "Money Moving Inside The Household",
   definition:

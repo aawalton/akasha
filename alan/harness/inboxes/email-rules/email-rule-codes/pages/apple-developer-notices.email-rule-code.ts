@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const appleDeveloperNotices = {
   id: "01a06860-54a2-7e9e-a022-c0af20204aa9",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "apple-developer-notices",
   title: "Apple developer notices",
   matches: [

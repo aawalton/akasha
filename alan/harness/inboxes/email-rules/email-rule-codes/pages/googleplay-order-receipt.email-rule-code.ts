@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const googleplayOrderReceipt = {
   id: "01a06860-54a2-7ba4-a60a-621ee362e6b3",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "googleplay-order-receipt",
   title: "Googleplay order receipt",
   matches: [

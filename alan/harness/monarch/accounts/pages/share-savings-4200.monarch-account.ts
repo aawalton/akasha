@@ -3,6 +3,7 @@ import type { MonarchAccount } from "../monarch-account.page-type.ts"
 export const shareSavings4200 = {
   id: "01a06559-5ea8-7017-a5ea-5abe01a099f0",
   pageTypeSlug: "monarch-account",
+  type: "monarch-account",
   slug: "share-savings-4200",
   title: "Share Savings 4200",
   definition: "money the family has, sitting in a savings account",

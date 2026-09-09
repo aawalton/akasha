@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const dmarcAggregateReport = {
   id: "01a06860-54a2-75dd-8a60-688dd2cc3423",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "dmarc-aggregate-report",
   title: "Dmarc aggregate report",
   matches: [

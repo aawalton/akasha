@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const cartagenaDeclaration = {
   id: "019dbb6e-0243-78a0-9503-4ec2aedb9683",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "cartagena-declaration",
   title: "Cartagena Declaration",
   scope: "team",

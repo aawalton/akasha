@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const synchronyCardPayment = {
   id: "01a06860-54a2-71f9-9c21-085bc65204cf",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "synchrony-card-payment",
   title: "Synchrony card payment",
   matches: [

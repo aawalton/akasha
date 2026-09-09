@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const theTeteCorridor = {
   id: "019dbb6d-b163-79d1-91f7-0ec011336e9d",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "the-tete-corridor",
   title: "The Tete Corridor",
   scope: "profile",

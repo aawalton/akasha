@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const tplinkOther = {
   id: "01a06863-fbe9-7be0-9875-fa479d38723b",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "tplink-other",
   title: "Tplink other",
   matches: [

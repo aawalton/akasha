@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const throughTheSmoke = {
   id: "019dbb6d-a1cd-704d-8f46-649da7982c47",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "through-the-smoke",
   title: "Through the Smoke",
   scope: "profile",

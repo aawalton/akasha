@@ -3,6 +3,7 @@ import type { MonarchAccount } from "../monarch-account.page-type.ts"
 export const personalProfile = {
   id: "01a06559-5ea8-7013-832c-a432c9370260",
   pageTypeSlug: "monarch-account",
+  type: "monarch-account",
   slug: "personal-profile",
   title: "Personal Profile",
   definition: "money the family has, sitting in a checking account",

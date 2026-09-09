@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const tsaPrecheckClearPromo = {
   id: "01a06860-54a2-726f-a1c8-605e69131e95",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "tsa-precheck-clear-promo",
   title: "Tsa precheck clear promo",
   matches: [

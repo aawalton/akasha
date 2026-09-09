@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const linkedinOther = {
   id: "01a06863-fbe9-74a1-85f0-aba579f8060b",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "linkedin-other",
   title: "Linkedin other",
   matches: [

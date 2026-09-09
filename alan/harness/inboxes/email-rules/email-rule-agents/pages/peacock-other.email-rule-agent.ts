@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const peacockOther = {
   id: "01a06863-fbe9-7752-9a74-0df3dac49450",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "peacock-other",
   title: "Peacock other",
   matches: [

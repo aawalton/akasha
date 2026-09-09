@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const spotifyOther = {
   id: "01a06863-fbe9-76f6-aefd-fe66f3727fb7",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "spotify-other",
   title: "Spotify other",
   matches: [

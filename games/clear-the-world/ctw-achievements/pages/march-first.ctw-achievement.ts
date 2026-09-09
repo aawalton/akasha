@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const marchFirst = {
   id: "019dbb6e-3379-75aa-8761-58c2c6a2f5a8",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "march-first",
   title: "March First",
   scope: "global",

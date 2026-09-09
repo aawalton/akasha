@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const gcpDeprecationNotice = {
   id: "01a06860-54a2-743b-870a-d0cd1ee752cb",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "gcp-deprecation-notice",
   title: "Gcp deprecation notice",
   matches: [

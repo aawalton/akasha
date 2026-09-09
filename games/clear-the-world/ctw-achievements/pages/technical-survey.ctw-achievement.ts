@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const technicalSurvey = {
   id: "019dbb6d-9514-7f8d-a932-7e30a9480a7a",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "technical-survey",
   title: "Technical Survey",
   scope: "profile",

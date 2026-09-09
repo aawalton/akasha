@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const steamOther = {
   id: "01a06863-fbe9-7a24-a9c0-bfa232813f2e",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "steam-other",
   title: "Steam other",
   matches: [

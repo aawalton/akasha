@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const vanguardTransactionConfirm = {
   id: "01a06860-54a2-7564-ae67-fb1830491d30",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "vanguard-transaction-confirm",
   title: "Vanguard transaction confirm",
   matches: [

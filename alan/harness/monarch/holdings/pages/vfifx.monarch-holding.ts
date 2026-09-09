@@ -3,6 +3,7 @@ import type { MonarchHolding } from "../monarch-holding.page-type.ts"
 export const vfifx = {
   id: "01a06559-5ea9-700b-968f-62b276e5ab33",
   pageTypeSlug: "monarch-holding",
+  type: "monarch-holding",
   slug: "vfifx",
   title: "VFIFX",
   monarchId: "77361742949811209",

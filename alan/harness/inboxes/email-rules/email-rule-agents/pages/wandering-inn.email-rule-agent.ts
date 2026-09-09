@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const wanderingInn = {
   id: "01a06863-fbe9-7867-a6d3-481549d39ef3",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "wandering-inn",
   title: "Wandering inn",
   matches: [{ field: "from", comparison: "ends-with", values: ["wanderinginn.com"] }],

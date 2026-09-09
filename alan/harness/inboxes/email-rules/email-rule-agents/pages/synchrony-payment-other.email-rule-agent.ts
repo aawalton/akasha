@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const synchronyPaymentOther = {
   id: "01a06863-fbe9-76be-b152-44092cbf06ca",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "synchrony-payment-other",
   title: "Synchrony payment other",
   matches: [

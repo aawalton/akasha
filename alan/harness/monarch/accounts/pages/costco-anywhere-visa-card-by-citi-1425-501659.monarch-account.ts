@@ -3,6 +3,7 @@ import type { MonarchAccount } from "../monarch-account.page-type.ts"
 export const costcoAnywhereVisaCardByCiti1425501659 = {
   id: "01a06559-5ea8-700b-a4de-a696f793b8c0",
   pageTypeSlug: "monarch-account",
+  type: "monarch-account",
   slug: "costco-anywhere-visa-card-by-citi-1425-501659",
   title: "Costco Anywhere Visa Card by Citi 1425",
   definition: "money the family owes, sitting in a credit card account",

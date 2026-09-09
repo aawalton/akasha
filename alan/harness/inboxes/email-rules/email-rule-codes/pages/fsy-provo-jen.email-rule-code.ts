@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const fsyProvoJen = {
   id: "01a06860-54a2-7902-b652-d121b4affcab",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "fsy-provo-jen",
   title: "Fsy provo jen",
   matches: [{ field: "from", comparison: "is", values: ["fsyprovosessions@byu.edu"] }],

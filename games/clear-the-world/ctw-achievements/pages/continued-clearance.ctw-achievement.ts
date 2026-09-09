@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const continuedClearance = {
   id: "019dbb6d-bbfe-7117-8927-a08c32d1f81c",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "continued-clearance",
   title: "Continued Clearance",
   scope: "profile",

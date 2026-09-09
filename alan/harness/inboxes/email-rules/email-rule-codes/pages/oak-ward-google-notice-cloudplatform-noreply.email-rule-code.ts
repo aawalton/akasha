@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const oakWardGoogleNoticeCloudplatformNoreply = {
   id: "01a06860-54a2-734e-b702-ac0d9c338cd3",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "oak-ward-google-notice-cloudplatform-noreply",
   title: "Oak ward google notice cloudplatform noreply",
   matches: [

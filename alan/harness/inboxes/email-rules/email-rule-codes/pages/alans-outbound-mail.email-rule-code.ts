@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const alansOutboundMail = {
   id: "01a06860-54a1-7d94-a4d0-eab66bcd5920",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "alans-outbound-mail",
   title: "Alans outbound mail",
   matches: [

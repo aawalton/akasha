@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const citiOther = {
   id: "01a06863-fbe8-7b8a-97b6-50bffdd8fd19",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "citi-other",
   title: "Citi other",
   matches: [

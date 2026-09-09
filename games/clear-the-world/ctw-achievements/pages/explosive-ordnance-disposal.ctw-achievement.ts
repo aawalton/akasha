@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const explosiveOrdnanceDisposal = {
   id: "019dbb6d-9a33-773f-bc6b-ec2174b215fd",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "explosive-ordnance-disposal",
   title: "Explosive Ordnance Disposal",
   scope: "profile",

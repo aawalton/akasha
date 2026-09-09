@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const fivePillars = {
   id: "019dbb6d-de12-7770-bce0-12c7964a46ee",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "five-pillars",
   title: "Five Pillars",
   scope: "team",

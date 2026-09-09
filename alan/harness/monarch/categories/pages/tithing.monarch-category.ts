@@ -3,6 +3,7 @@ import type { MonarchCategory } from "../monarch-category.page-type.ts"
 export const tithing = {
   id: "01a06559-5ea9-7004-b212-924de00889dc",
   pageTypeSlug: "monarch-category",
+  type: "monarch-category",
   slug: "tithing",
   title: "Tithing",
   definition: "the tithing the family pays",

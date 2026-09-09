@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const mineActionCannotWait = {
   id: "019dbb6e-2bd9-75c4-9abc-d32e77df6c46",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "mine-action-cannot-wait",
   title: "Mine Action Cannot Wait",
   scope: "global",

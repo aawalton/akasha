@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const oneHundredMillionLives = {
   id: "019dbb6e-1485-7687-aab2-305ec8c311ea",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "one-hundred-million-lives",
   title: "One Hundred Million Lives",
   scope: "global",

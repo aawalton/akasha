@@ -3,6 +3,7 @@ import type { CtwAchievement } from "../ctw-achievement.page-type.ts"
 export const pmn2 = {
   id: "019dbb6d-884f-7a55-9d53-8d092e2d0eec",
   pageTypeSlug: "ctw-achievement",
+  type: "ctw-achievement",
   slug: "pmn-2",
   title: "PMN-2",
   scope: "profile",

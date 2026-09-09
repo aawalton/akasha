@@ -3,6 +3,7 @@ import type { EmailRuleCode } from "../../../../../../persons/people/email/rules
 export const churchChildrensProgramsNoreplyFinance = {
   id: "01a06860-54a2-727d-89c0-f3f602a0576e",
   pageTypeSlug: "email-rule-code",
+  type: "email-rule-code",
   slug: "church-childrens-programs-noreply-finance",
   title: "Church childrens programs noreply finance",
   matches: [

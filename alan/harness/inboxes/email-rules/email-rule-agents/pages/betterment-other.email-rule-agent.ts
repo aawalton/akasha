@@ -3,6 +3,7 @@ import type { EmailRuleAgent } from "../../../../../../persons/people/email/rule
 export const bettermentOther = {
   id: "01a06863-fbe8-7cc6-a93a-02ba58f523b8",
   pageTypeSlug: "email-rule-agent",
+  type: "email-rule-agent",
   slug: "betterment-other",
   title: "Betterment other",
   matches: [
