@@ -1,0 +1,19 @@
+import type { GreatCourse } from "../great-course.page-type.ts"
+
+export const pilotLecturePyramidsOfTheWorldAngkorWat = {
+  id: "019db533-f3a0-7112-8c7e-463bb92a6a16",
+  pageTypeSlug: "great-course",
+  type: "great-course",
+  slug: "pilot-lecture-pyramids-of-the-world-angkor-wat",
+  title: "Pilot Lecture: Pyramids of the World—Angkor Wat",
+  status: "completed",
+  rank: "C",
+  unit: "minutes",
+  ownLength: 31.2,
+  ownProgress: 31.2,
+  partOfCollections: ["all-great-courses", "history-great-courses"],
+  source: "the-great-courses",
+  externalId: "wondrium-pilots-pyramids-of-the-world-angkor-wat",
+  externalLink:
+    "https://www.thegreatcoursesplus.com/wondrium-pilots-pyramids-of-the-world-angkor-wat",
+} as const satisfies GreatCourse
