@@ -11,17 +11,17 @@ export const athenaCommandsAtTheRoot = {
       statement:
         "Tooling specific to the command domain sits under `commands/`, and no other tooling does.",
       workingMemory:
-        "At 692aa4c990 all 220 command pages sit under `commands/` and none outside, under 47 namespaces, with the `command` page type at `commands/command.page-type.ts` and no package alias left reaching it. Code outside `commands/` reaches modules under `commands/modules/`, and that breaks nothing: `commands/` is no package, so the root manifest names every file in it. What is left is the modules still in `command-system/`.",
+        "At 7470a0274e all 220 command pages sit under `commands/` and none outside, under 47 namespaces, with the `command` page type at `commands/command.page-type.ts` and no package alias left reaching it. Code outside `commands/` reaches modules under `commands/modules/`, and that breaks nothing: `commands/` is no package, so the root manifest names every file in it. What is left is `scratching`, `rooting` and `fault-saying`, which the constraint on `checks/` holds.",
     },
     {
       statement: "No `command-system` folder is there.",
       workingMemory:
-        "22 folders sit under `command-system` at e024447e90, down from 70. `move-folder` follows a relative reach but is blind to `@akasha/command-system/<name>`, and every draft order deadlocks; respelling each alias reach relative to the module's current place first lets the move carry it, proved on `value-minting`. The 33 files under `checks/` reach only `scratching`, `rooting` and `fault-saying`, so no other module is held by that constraint. `calling` has 187 alias reachers and goes last.",
+        "3 folders sit under `command-system` at 7470a0274e, down from 70: `scratching`, `rooting`, `fault-saying`. Mending `change-imports` to read the manifest (56a514a7a3) let every move carry its alias reachers, and `move-folder` strikes the source manifest's own export lines itself, so no separate edit follows it and no fold cascades. 35 files under `checks/` reach the three, of 228 tree-wide; moving them rewrites those 35, which this initiative forbids.",
     },
     {
       statement: "The `commands/` folder passes `folder-matches-a-shape`.",
       workingMemory:
-        "7 refusals over `commands/` at 9cfa5fb663, of 470 tree-wide, down from 196 of 1121 at 440b43ad0a. Three are the repository root, `commands/pages` and `commands/modules`, each holding no page of its own. The other 4 are module folders opening with `command`, what the page above them is named; three more arrive as `command-answering`, `command-declaring` and `command-filling` move. Dropping that prefix collides with `walking` and `declaring` under `testing-system`.",
+        "A run scoped to `commands/` answers 2 refusals at 7470a0274e, of 727 tree-wide, down from 196 of 1121 at 440b43ad0a. One is the repository root, which is not under `commands/`. The other is `commands/pages`: `pages-of-the-type-above` asks each subfolder for a page of the type above it, and 47 namespace folders sit there, since `namespace` extends `domain` rather than `command`. Every remedy is a folder shape under `checks/`.",
     },
     {
       statement: "A command's folder sits inside its namespace's folder under `commands/pages/`.",
