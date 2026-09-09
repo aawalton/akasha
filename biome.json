@@ -111,7 +111,10 @@
           "suspicious": {
             "noExplicitAny": "off",
             "noSelfCompare": "off",
-            "noShadowRestrictedNames": "off"
+            "noShadowRestrictedNames": "off",
+            "noThenProperty": "off",
+            "useAdjacentOverloadSignatures": "off",
+            "noImplicitAnyLet": "off"
           },
           "nursery": {
             "noShadow": "off"
