@@ -76,7 +76,8 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
-      statement: "A past participle is a word read as a verb and spelled with a trailing `ed`.",
+      statement:
+        "A past participle is a word read as a verb and spelled with a trailing `ed` or `en`.",
     },
     {
       invariantKind: "departure",

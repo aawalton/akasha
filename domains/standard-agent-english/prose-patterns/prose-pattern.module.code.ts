@@ -110,7 +110,7 @@ const SELVES: ReadonlySet<string> = new Set([
   "oneself",
 ])
 
-const PAST = /ed$/i
+const PAST = /(ed|en)$/i
 
 const ING = /ing$/i
 

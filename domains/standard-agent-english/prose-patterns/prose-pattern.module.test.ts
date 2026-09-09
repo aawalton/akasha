@@ -44,6 +44,7 @@ import {
   THE_DAY_HOLDS_TURNED_INTO_POINTS,
   THE_FORWARDER_HOLDS_A_REQUEST_TO,
   THE_HOLD_SITS,
+  THE_PAGES_IT_HELD_TAKEN,
   THE_PROXY_HOLDS_TRAFFIC_OUT,
   THE_PUSH_HOLDS_THE_BRANCH_ON,
   THE_SEAT_HOLDS,
@@ -139,6 +140,10 @@ test("a word after a preposition names an act rather than describing a thing", (
 
 test("a word a past participle comes right after is left alone", () => {
   expect(foundIn(sentenceOf(THE_DAY_HOLDS_TURNED_INTO_POINTS), HOLD)).toEqual([])
+})
+
+test("a word a past participle spelled with `en` comes right after is left alone", () => {
+  expect(foundIn(sentenceOf(THE_PAGES_IT_HELD_TAKEN), HELD)).toEqual([])
 })
 
 test("a word another verb comes right after is found", () => {
