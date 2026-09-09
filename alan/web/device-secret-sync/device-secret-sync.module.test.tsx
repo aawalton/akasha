@@ -1,17 +1,3 @@
-/**
- * The sign-out consequence, held in place.
- *
- * `DeviceSecretSync` is the only caller of the native `DeviceSecret.clear()`, and it reaches it
- * on exactly one edge: a render where `userID` is null preceded by a render where it was not.
- * Everything about how sign-out is written has to respect that edge, so it is asserted here
- * rather than left to be re-derived.
- *
- * The second test is the one with teeth. Sign-out used to end with
- * `window.location.href = "/sign-in"`, and a whole-document reload boots this component with no
- * earlier identity to compare against — the null-to-null case below. It never clears. That is
- * why a stale keychain item survived every sign-out on the phone, and why sign-out now drops the
- * identity on the live tree and moves by client-side navigation instead of reloading.
- */
 import { beforeEach, expect, mock, test } from "bun:test"
 import * as apiFetchModule from "@akasha/alanwalton-web/api-fetch"
 import * as capacitorBridge from "@akasha/alanwalton-web/capacitor-bridge"
@@ -22,9 +8,6 @@ import { act } from "react"
 let clearCount = 0
 const apiCalls: string[] = []
 
-// `present` + the `pinned` domain is the "already stored where the widget can read it" answer,
-// so the signed-in render settles on "skip" and the only store traffic these tests can see is
-// the revoke that sign-out is supposed to send.
 const plugin = {
   getDeviceId: () => Promise.resolve({ deviceId: "device-under-test" }),
   peek: () => Promise.resolve({ present: true, fingerprint: null, domain: "pinned" }),
@@ -59,7 +42,6 @@ function Harness({ userID }: { userID: string | null }) {
   )
 }
 
-/** Lets the effect's async body settle; it is a short chain of already-resolved promises. */
 async function settle(): Promise<void> {
   for (let i = 0; i < 10; i++) {
     await act(async () => {

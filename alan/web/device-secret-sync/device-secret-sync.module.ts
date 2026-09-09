@@ -55,5 +55,18 @@ export const deviceSecretSync = {
       statement:
         "A secret the server no longer accepts looks the same as a good one from the keychain.",
     },
+    {
+      invariantKind: "departure",
+      statement: "This is the only caller of the native keychain clear.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The clear is reached on one edge alone: a null identity after a render that had one.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A whole-document reload boots with no earlier identity to compare against.",
+    },
   ],
 } as const satisfies Module
