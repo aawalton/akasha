@@ -7,8 +7,6 @@ export const theaChecksSystem = {
   domainSlug: "workspace-package/check",
   personaSlug: "thea",
   intents: [
-    { statement: "No finding is filed on checks-system or any part beneath it." },
-    { statement: "No gap invariant is written on checks-system or any part beneath it." },
     {
       statement: "Every page property is in a properties folder for the page type defining it.",
       workingMemory:
@@ -54,6 +52,8 @@ export const theaChecksSystem = {
       workingMemory:
         "The ast-unused audit is the finder that exists: 8 ast-unused-config pages, now under code-system/audit-ast-unused/ast-unused-configs/pages, name the entry globs each workspace family is read under. They were parked in the cluster-checks folder and came out before it went. Nothing in the tree resolves the curation path or runs the tool, so both what runs it and what it answers over the tree as it is are unmeasured. nimue-code-cleanup names it too.",
     },
+    { statement: "No finding is filed on checks-system or any part beneath it." },
+    { statement: "No gap invariant is written on checks-system or any part beneath it." },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
