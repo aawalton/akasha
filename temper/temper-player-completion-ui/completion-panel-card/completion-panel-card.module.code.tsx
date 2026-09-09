@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { buildNodePath } from "@akasha/design-patterns/path"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
@@ -11,6 +10,7 @@ import {
   type ActivityCategoryId,
 } from "@akasha/temper-player-completion/activity-categories"
 import { completionPercent } from "@akasha/temper-player-completion/completion-percent"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { CheckIcon, MinusIcon } from "lucide-react"
 import type { ReactNode } from "react"
 import { useEffect, useRef, useState } from "react"

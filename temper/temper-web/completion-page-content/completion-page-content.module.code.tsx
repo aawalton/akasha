@@ -1,6 +1,5 @@
 "use client"
 
-import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import {
   PageLayout,
   PageLayoutSkeleton,
@@ -31,6 +30,7 @@ import type {
   CompletionSortMode,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { CompletionSearchContext } from "@akasha/temper-player-completion-ui/completion-search-context"
+import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 import { CompletionAccountTab } from "../completion-account-tab/completion-account-tab.module.code.tsx"

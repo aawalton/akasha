@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import {
@@ -11,6 +10,7 @@ import {
   CardTitle,
 } from "@akasha/design-primitives/card"
 import { Heading } from "@akasha/design-primitives/heading"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 
 const BUTTON_VARIANTS = ["primary", "secondary", "tertiary", "destructive", "accent"] as const
 const BUTTON_SIZES = ["sm", "default", "lg", "icon-sm", "icon", "icon-lg"] as const

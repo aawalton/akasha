@@ -1,8 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { LayoutLink } from "@akasha/design-layout/router-context"
 import {
   Select,
@@ -18,6 +15,9 @@ import {
   inventoryRuleGoals,
 } from "@akasha/temper-items-rules-core/inventory-rule-goals"
 import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 
 interface RuleCardPriorityRowProps {
   rule: CategoryRule

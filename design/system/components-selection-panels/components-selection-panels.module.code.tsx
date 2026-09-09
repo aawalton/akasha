@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
 import { MultiSelect, type MultiSelectItem } from "@akasha/design-forms/multi-select"
 import {
   SearchMultiSelect,
@@ -12,6 +8,10 @@ import {
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { SearchButton } from "@akasha/design-patterns/search-button"
 import { Heading } from "@akasha/design-primitives/heading"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { useState } from "react"
 
 const FIRST_MULTI_SELECT_ITEM: MultiSelectItem = { value: "warrior", label: "Warrior" }

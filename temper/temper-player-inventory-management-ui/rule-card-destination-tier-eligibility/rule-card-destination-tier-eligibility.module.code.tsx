@@ -1,10 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import {
   Select,
@@ -22,6 +17,11 @@ import type {
   RequiredSkillLinesMode,
 } from "@akasha/temper-items-rules-core/required-skill-lines-filter-types"
 import { skillLines } from "@akasha/temper-skill-lines/skill-lines"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type { ReactNode } from "react"
 
 const SKILL_LINE_OPTIONS: readonly BadgeToggleGroupItem[] = skillLines.list

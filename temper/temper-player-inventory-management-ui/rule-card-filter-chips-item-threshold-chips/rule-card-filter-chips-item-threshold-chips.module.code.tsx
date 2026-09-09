@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import {
   Select,
   SelectContent,
@@ -10,6 +9,7 @@ import {
 } from "@akasha/design-primitives/select-control"
 import { LEVEL_OPTIONS } from "@akasha/temper-items-rules-core/level-filter"
 import { QUALITY_OPTIONS } from "@akasha/temper-items-rules-core/rule-quality-filter"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import type { ReactNode } from "react"
 import { ComparisonOpPicker } from "../comparison-op-picker/comparison-op-picker.module.code.tsx"
 import type { RuleCardState } from "../rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"

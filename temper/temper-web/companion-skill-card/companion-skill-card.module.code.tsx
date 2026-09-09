@@ -1,6 +1,5 @@
 "use client"
 
-import { BadgeRow } from "@akasha/design-badges/badge"
 import { cn } from "@akasha/design-primitives/cn"
 import { Heading } from "@akasha/design-primitives/heading"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
@@ -16,6 +15,7 @@ import {
 import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { formatAbbreviated } from "@akasha/temper-formula-framework/number-format"
 import { capitalize } from "@akasha/utils/narrow/capitalize"
+import { BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
 import type { ReactNode } from "react"
 import { CollapsibleSkillCard } from "../collapsible-skill-card/collapsible-skill-card.module.code.tsx"
 import { ConstraintBadges } from "../constraint-badges/constraint-badges.module.code.tsx"

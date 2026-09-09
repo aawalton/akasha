@@ -1,4 +1,3 @@
-import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import { CardContent, CardTitle } from "@akasha/design-primitives/card"
@@ -11,6 +10,7 @@ import { getWeaponRole } from "@akasha/temper-companions-core/companion-weapon-r
 import { companionWeaponRoles } from "@akasha/temper-companions-core/companion-weapon-roles"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 
 interface LiveOnlyBuild {
   id: string

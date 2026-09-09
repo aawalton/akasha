@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "@akasha/code/workspace-package"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const designBadges = {
   id: "01a05b55-a539-766c-98d3-a4d3e2fc6c4b",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "design-badges",
   definition: "the badges a browser draws a short value in",
-  manifest: "json",
   parts: [
     "module/badge",
     "module/badge-layout-context",
@@ -22,4 +21,4 @@ export const designBadges = {
     "module/time-badge",
     "module/url-badge",
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

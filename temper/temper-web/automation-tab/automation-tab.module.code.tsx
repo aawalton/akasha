@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { Heading } from "@akasha/design-primitives/heading"
@@ -14,6 +10,10 @@ import type {
   CompanionAutomationToggles,
 } from "@akasha/temper-build-support/automation-settings"
 import { useAutomationSettings } from "@akasha/temper-player-inventory-management-ui/hooks-inventory-settings"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { Info } from "lucide-react"
 import { useMemo } from "react"
 

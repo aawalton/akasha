@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { Button } from "@akasha/design-primitives/button"
 import { cn } from "@akasha/design-primitives/cn"
 import {
@@ -22,6 +21,7 @@ import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { BuildId } from "@akasha/temper-formula-framework/branded-id"
 import type { Json } from "@akasha/utils/narrow/json-value"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { Loader2 } from "lucide-react"
 import { useCallback, useEffect, useState } from "react"
 import { toast } from "sonner"

@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import {
   Select,
   SelectContent,
@@ -10,6 +9,7 @@ import {
 } from "@akasha/design-primitives/select-control"
 import { classifyLocation } from "@akasha/temper-items-core/location-classify"
 import { type LocationTypeId, locationTypes } from "@akasha/temper-items-core/location-type-data"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 

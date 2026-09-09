@@ -1,6 +1,5 @@
 "use client"
 
-import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import type { InventoryLocationConditionId } from "@akasha/temper-items-core/location-condition"
 import type { ComparisonOpId } from "@akasha/temper-items-rules-core/comparison-op-data"
 import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
@@ -10,6 +9,7 @@ import type {
   RequiredSkillLinesCondition,
   RequiredSkillLinesMode,
 } from "@akasha/temper-items-rules-core/required-skill-lines-filter-types"
+import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { patchConditions } from "../rule-card-conditions-patch/rule-card-conditions-patch.module.code.ts"
 
 export function useConditionHandlers(

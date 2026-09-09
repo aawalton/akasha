@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
 import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
 import { FilterButton } from "@akasha/design-patterns/filter-button"
 import { FilterGroup } from "@akasha/design-patterns/filter-group"
@@ -11,6 +7,10 @@ import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { SortButton } from "@akasha/design-patterns/sort-button"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { useState } from "react"
 import {
   type CharactersFilterDef,

@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { ListContentSkeleton } from "@akasha/design-layout/list-content-skeleton"
 import { PageTabHeader, PageTabTitleBadges } from "@akasha/design-layout/page-tab-header"
 import {
@@ -23,6 +22,7 @@ import {
 } from "@akasha/temper-characters-character-ui/use-characters"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
 import { useCompletionCharactersByUser } from "@akasha/temper-player-completion-ui/use-completion"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
 import {

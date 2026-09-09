@@ -1,6 +1,5 @@
 "use client"
 
-import { BadgeToggleGroup } from "@akasha/design-badges/badge-toggle-group"
 import { COLUMN_WIDTH } from "@akasha/design-layout/layout-data"
 import { PageLayout } from "@akasha/design-layout/page-layout"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
@@ -22,6 +21,7 @@ import {
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
 import { useCompletionCharacters } from "@akasha/temper-player-completion-ui/use-completion"
 import { usePlayer } from "@akasha/temper-player-profile/use-player"
+import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
 import { CharacterEditorHeader } from "../character-editor-header/character-editor-header.module.code.tsx"

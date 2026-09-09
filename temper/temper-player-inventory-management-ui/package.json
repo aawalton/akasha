@@ -14,7 +14,6 @@
     "./use-inventory-import": "./use-inventory-import/use-inventory-import.module.code.ts"
   },
   "dependencies": {
-    "@akasha/design-badges": "workspace:*",
     "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",

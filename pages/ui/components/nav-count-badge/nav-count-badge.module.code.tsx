@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { parsePageTypeData } from "@akasha/pages-core/schema/pages"
 import { resolveDefinitionOptions } from "@akasha/pages-core/schema/resolve-select-options"
 import type { ViewDataJSON } from "@akasha/pages-core/schema/view-data"
@@ -11,6 +10,7 @@ import { useOptionListLookup } from "@akasha/pages-ui/supabase/use-option-list-l
 import { usePageTypeDirectory } from "@akasha/pages-ui/supabase/use-page-type-directory"
 import { viewDataOfPage } from "@akasha/pages-ui/supabase/view-data-of-page"
 import { shouldShowCountBadge } from "@akasha/pages-ui-components/nav-count-badge-decider"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"

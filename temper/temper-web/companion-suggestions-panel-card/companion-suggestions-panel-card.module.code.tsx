@@ -1,9 +1,9 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import type { CompanionSuggestion } from "@akasha/temper-companions-core/companion-suggestion-generator"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   useCompanion,
   useCompanionActions,

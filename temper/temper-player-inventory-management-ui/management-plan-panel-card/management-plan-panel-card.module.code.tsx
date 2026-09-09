@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ItemRow } from "@akasha/design-patterns/item-row"
 import { buildNodePath } from "@akasha/design-patterns/path"
@@ -17,6 +16,7 @@ import type {
   VenueStop,
 } from "@akasha/temper-items-rules-routing-core/inventory-management-plan-types"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useCallback, useState } from "react"
 import {
   decideManagementPlanPanelState,

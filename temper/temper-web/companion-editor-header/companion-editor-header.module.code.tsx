@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
 import { PAGE_TITLE_CLASSES } from "@akasha/design-layout/page-layout-data"
 import { LayoutLink as Link } from "@akasha/design-layout/router-context"
@@ -8,6 +7,7 @@ import { Button } from "@akasha/design-primitives/button"
 import { cn } from "@akasha/design-primitives/cn"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import type { CompanionVisibility } from "@akasha/temper-companions-core/companion-types"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ChevronLeft, Copy, Eye, Search, Target } from "lucide-react"
 import { BuildActionButtons } from "../build-action-buttons/build-action-buttons.module.code.tsx"
 

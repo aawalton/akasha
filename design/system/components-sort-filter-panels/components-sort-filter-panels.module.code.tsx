@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
 import { AddSortButton } from "@akasha/design-patterns/add-sort-button"
@@ -13,6 +12,7 @@ import type { SortDirection, SortEntry, SortOption } from "@akasha/design-patter
 import { cn } from "@akasha/design-primitives/cn"
 import { Heading } from "@akasha/design-primitives/heading"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useState } from "react"
 
 const SORT_OPTIONS: SortOption[] = [

@@ -1,8 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import {
@@ -26,6 +23,9 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { Text } from "@akasha/design-primitives/text-body"
 import type { BuyRule } from "@akasha/temper-items-rules-core/buy-rule-types"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 import { EllipsisVertical, Info, ShoppingCart } from "lucide-react"
 import { memo, useEffect, useState } from "react"
 import { RuleNotesDialog } from "../rule-notes-dialog/rule-notes-dialog.module.code.tsx"

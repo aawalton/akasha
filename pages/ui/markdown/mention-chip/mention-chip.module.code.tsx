@@ -1,10 +1,9 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { formatSmartDate } from "@akasha/pages-core/view/format-smart-date"
-
 import type { MentionResolver, MentionType } from "@akasha/pages-ui/markdown/remark-mentions"
 import { isMentionType } from "@akasha/pages-ui/markdown/remark-mentions"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 
 const VARIANT_BY_MENTION_TYPE: Record<MentionType, "accent" | "green" | "blue"> = {
   page: "accent",

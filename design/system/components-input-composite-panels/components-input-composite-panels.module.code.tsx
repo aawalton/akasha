@@ -1,6 +1,5 @@
 "use client"
 
-import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
 import {
   InputGroup,
@@ -18,6 +17,7 @@ import {
 } from "@akasha/design-forms/input-otp"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Heading } from "@akasha/design-primitives/heading"
+import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 import { Mail, Search, Tag } from "lucide-react"
 import { useState } from "react"
 

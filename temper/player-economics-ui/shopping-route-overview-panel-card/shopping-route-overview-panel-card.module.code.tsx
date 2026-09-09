@@ -1,6 +1,5 @@
 "use client"
 
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { scrollToCard } from "@akasha/design-layout/scroll-to-card"
 import { ItemRow } from "@akasha/design-patterns/item-row"
@@ -9,6 +8,7 @@ import { companionTraits } from "@akasha/temper-companions-core/companion-traits
 import { TTC_QUALITY_TEXT_CLASSES } from "@akasha/temper-shopping/ttc-quality-text-classes"
 import type { PurchaseRecommendation } from "@akasha/temper-shopping/ttc-shopping-types"
 import { kioskLocationName } from "@akasha/temper-trading-pricing/kiosk-location-name"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { Fragment, useMemo, useState } from "react"
 import { formatGold } from "../companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { LocationSummary } from "../shopping-optimizer-types/shopping-optimizer-types.module.code.ts"

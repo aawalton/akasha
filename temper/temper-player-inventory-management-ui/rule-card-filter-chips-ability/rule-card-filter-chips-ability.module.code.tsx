@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import {
   Select,
   SelectContent,
@@ -15,6 +14,7 @@ import { CAN_OPEN_OPTIONS } from "@akasha/temper-items-rules-core/can-open-filte
 import { CAN_RESEARCH_OPTIONS } from "@akasha/temper-items-rules-core/can-research-filter"
 import { CAN_UNLOCK_OPTIONS } from "@akasha/temper-items-rules-core/can-unlock-filter"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import type { ReactNode } from "react"
 import { FilterLock } from "../rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"
 import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"

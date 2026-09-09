@@ -1,6 +1,5 @@
 "use client"
 
-import { BadgeToggleGroup } from "@akasha/design-badges/badge-toggle-group"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
@@ -16,6 +15,7 @@ import type {
   CharacterSummaryData,
   CompanionSummaryData,
 } from "@akasha/temper-player-completion/completion-card-registry"
+import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { useState } from "react"
 import { AccountSummaryPanelCard } from "../account-summary-panel-card/account-summary-panel-card.module.code.tsx"
 import { CharactersSummaryPanelCard } from "../characters-summary-panel-card/characters-summary-panel-card.module.code.tsx"

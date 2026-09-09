@@ -1,4 +1,3 @@
-import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import type { SortDirection, SortOption } from "@akasha/design-patterns/sort-types"
 import {
   type RoleId,
@@ -7,6 +6,7 @@ import {
 import { classes } from "@akasha/temper-classes/character-class"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import { type RaceId, races } from "@akasha/temper-races/races"
+import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type { ReactNode } from "react"
 
 export type TabValue = "plan" | "build" | "browse" | "leaderboard"

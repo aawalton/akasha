@@ -1,6 +1,5 @@
 "use client"
 
-import { InputBadge } from "@akasha/design-badges/input-badge"
 import {
   SearchMultiSelect,
   type SearchMultiSelectItem,
@@ -12,6 +11,7 @@ import type { PageFilterDimension } from "@akasha/pages-core/view/generate-filte
 import { usePageResolverOptional } from "@akasha/pages-ui/contexts/page-resolver-context"
 import { useRelationPicker } from "@akasha/pages-ui/contexts/relation-picker-context"
 import { toStringArray } from "@akasha/pages-ui-components/value-filter-inputs"
+import { InputBadge } from "akasha/design/badges/input-badge/input-badge.module.code.tsx"
 import { useMemo, useState } from "react"
 
 const RELATION_SEARCH_DEBOUNCE_MS = 200

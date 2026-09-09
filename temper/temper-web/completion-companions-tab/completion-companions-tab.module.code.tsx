@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
@@ -16,6 +12,10 @@ import { SortButton } from "@akasha/design-patterns/sort-button"
 import { TabsContent } from "@akasha/design-patterns/tabs"
 import type { CompanionSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
 import { buildCompanionSummary } from "@akasha/temper-player-completion/completion-summary-companion"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { useMemo, useState } from "react"
 import { CompanionLevelPanelCard } from "../companion-level-panel-card/companion-level-panel-card.module.code.tsx"
 import type { CompanionProgressData } from "../companion-progress/companion-progress.module.code.ts"

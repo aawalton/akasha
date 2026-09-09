@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Input } from "@akasha/design-primitives/input"
@@ -26,6 +22,10 @@ import {
   type DestructiveAction,
 } from "@akasha/temper-items-core/inventory-safety-types"
 import { useBackpackSettings } from "@akasha/temper-player-inventory-management-ui/hooks-inventory-settings"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { useEffect, useMemo, useState } from "react"
 import {
   useLoggingSettings,

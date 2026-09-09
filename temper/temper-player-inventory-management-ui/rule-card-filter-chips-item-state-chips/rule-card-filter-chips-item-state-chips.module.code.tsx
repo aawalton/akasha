@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import {
   Select,
   SelectContent,
@@ -15,6 +14,7 @@ import { LOCKED_OPTIONS } from "@akasha/temper-items-rules-core/locked-filter"
 import { QUEST_RELEVANT_OPTIONS } from "@akasha/temper-items-rules-core/quest-relevant-filter"
 import { STACK_FULLNESS_OPTIONS } from "@akasha/temper-items-rules-core/stack-fullness-filter"
 import { STOLEN_OPTIONS } from "@akasha/temper-items-rules-core/stolen-filter"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import type { ReactNode } from "react"
 import type { RuleCardState } from "../rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
 import { FilterLock } from "../rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"

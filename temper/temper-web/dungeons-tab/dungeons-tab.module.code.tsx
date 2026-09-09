@@ -1,12 +1,12 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import { TabsContent } from "@akasha/design-patterns/tabs"
 import { Text } from "@akasha/design-primitives/text-body"
 import { TEMPER_DUNGEONS, TEMPER_QUEST_GIVERS } from "@akasha/temper-dungeons/dungeon-data"
 import { getSoloDifficulty } from "@akasha/temper-dungeons/solo-difficulty"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 
 const DIFFICULTY_VARIANT = {
   easy: "elevation",

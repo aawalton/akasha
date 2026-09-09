@@ -1,8 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { InlineEditableText } from "@akasha/design-forms/inline-editable-text"
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import {
@@ -26,6 +23,9 @@ import {
   inventoryRuleGoals,
 } from "@akasha/temper-items-rules-core/inventory-rule-goals"
 import type { ItemRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 import { EllipsisVertical, Info } from "lucide-react"
 import { memo, useEffect, useState } from "react"
 import {

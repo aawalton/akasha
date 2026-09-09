@@ -1,12 +1,12 @@
 "use client"
 
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Empty, EmptyDescription, EmptyHeader, EmptyTitle } from "@akasha/design-patterns/empty"
 import { Button } from "@akasha/design-primitives/button"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
 import type { AffectedItem } from "@akasha/temper-items-rules-core/inventory-rule-matcher-types"
 import type { CategoryRule } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { Plus } from "lucide-react"
 import { useCallback, useState } from "react"
 import type {

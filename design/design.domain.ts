@@ -6,7 +6,7 @@ export const design = {
   slug: "design",
   definition: "how a thing is drawn on a screen and worked by hand",
   parts: [
-    "workspace-package/design-badges",
+    "domain/design-badges",
     "workspace-package/design-forms",
     "workspace-package/design-layout",
     "workspace-package/design-patterns",

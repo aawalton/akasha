@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import { HorizontalScrollFade } from "@akasha/design-primitives/horizontal-scroll-fade"
@@ -32,6 +31,7 @@ import {
   getQualityVariant,
 } from "@akasha/temper-companions-ui/companion-quality-rules"
 import { armorSlots } from "@akasha/temper-equipment-kinds/armor-slots"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useMemo } from "react"
 import { BulkEditTag } from "../companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import type { CompanionEquipmentPanelProps } from "../companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"

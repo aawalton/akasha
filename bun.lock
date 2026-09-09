@@ -10,6 +10,7 @@
         "@akasha/changes": "workspace:*",
         "@akasha/code": "workspace:*",
         "@akasha/comfy": "workspace:*",
+        "@akasha/design-primitives": "workspace:*",
         "@akasha/errors-core": "workspace:*",
         "@akasha/file-page-identity": "workspace:*",
         "@akasha/git": "workspace:*",
@@ -49,15 +50,19 @@
         "@googleapis/drive": "^20.2.0",
         "@googleapis/gmail": "^17.0.0",
         "@modelcontextprotocol/sdk": "^1.30.0",
+        "@radix-ui/react-slot": "*",
         "@supabase/supabase-js": "^2.104.0",
         "@vscode/ripgrep": "^1.18.0",
         "cdk8s": "^2.70.60",
+        "class-variance-authority": "^0.7.1",
         "extract-zip": "^2.0.1",
         "fflate": "0.8.3",
         "jsdom": "^28.1.0",
+        "lucide-react": "^0.576.0",
         "onnxruntime-node": "1.29.0",
         "pg": "^8.13.0",
         "playwright-core": "1.61.1",
+        "react": "^18 || ^19",
         "rrule": "^2.8.1",
         "yaml": "^2.8.1",
         "zod": "^4.3.6",
@@ -680,19 +685,6 @@
     "context": {
       "name": "@akasha/context",
     },
-    "design/badges": {
-      "name": "@akasha/design-badges",
-      "dependencies": {
-        "@akasha/design-primitives": "workspace:*",
-        "class-variance-authority": "^0.7.1",
-        "lucide-react": "^0.576.0",
-        "zod": "^4.3.6",
-      },
-      "peerDependencies": {
-        "@radix-ui/react-slot": "*",
-        "react": "^18 || ^19",
-      },
-    },
     "design/forms": {
       "name": "@akasha/design-forms",
       "dependencies": {
@@ -727,7 +719,6 @@
     "design/patterns": {
       "name": "@akasha/design-patterns",
       "dependencies": {
-        "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
@@ -791,7 +782,6 @@
       "name": "@akasha/design-system",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
@@ -1205,7 +1195,6 @@
     "pages/ui/components": {
       "name": "@akasha/pages-ui-components",
       "dependencies": {
-        "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
@@ -1296,7 +1285,6 @@
       "name": "@akasha/audhdalan-web",
       "version": "0.1.0",
       "dependencies": {
-        "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-primitives": "workspace:*",
@@ -2474,7 +2462,6 @@
     "temper/temper-player-completion-ui": {
       "name": "@akasha/temper-player-completion-ui",
       "dependencies": {
-        "@akasha/design-badges": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
         "@akasha/pages-access": "workspace:*",
@@ -2490,7 +2477,6 @@
     "temper/temper-player-inventory-management-ui": {
       "name": "@akasha/temper-player-inventory-management-ui",
       "dependencies": {
-        "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
@@ -2612,7 +2598,6 @@
       "version": "0.1.0",
       "dependencies": {
         "@akasha/code": "workspace:*",
-        "@akasha/design-badges": "workspace:*",
         "@akasha/design-forms": "workspace:*",
         "@akasha/design-layout": "workspace:*",
         "@akasha/design-patterns": "workspace:*",
@@ -2824,8 +2809,6 @@
     "@akasha/command-system": ["@akasha/command-system@workspace:command-system"],
 
     "@akasha/context": ["@akasha/context@workspace:context"],
-
-    "@akasha/design-badges": ["@akasha/design-badges@workspace:design/badges"],
 
     "@akasha/design-forms": ["@akasha/design-forms@workspace:design/forms"],
 

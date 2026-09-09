@@ -1,4 +1,3 @@
-import { Badge, BadgeRow } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardContent, CardHeader, CardTitle, CardTitleBadges } from "@akasha/design-primitives/card"
 import { Text } from "@akasha/design-primitives/text-body"
@@ -15,6 +14,7 @@ import { getWeaponRole } from "@akasha/temper-companions-core/companion-weapon-r
 import { companionWeaponRoles } from "@akasha/temper-companions-core/companion-weapon-roles"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
+import { Badge, BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
 
 function getRolePrimaryStats(roles: readonly CompanionBaseRoleId[]): ReadonlySet<string> {
   const stats = new Set<string>()

@@ -1,12 +1,12 @@
 "use client"
 
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@akasha/design-primitives/dropdown-menu"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { Plus } from "lucide-react"
 import { Fragment } from "react"
 import { RuleCardFilterChip } from "../rule-card-filter-chip/rule-card-filter-chip.module.code.tsx"

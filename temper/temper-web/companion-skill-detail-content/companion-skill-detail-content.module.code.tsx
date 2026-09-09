@@ -1,6 +1,5 @@
 "use client"
 
-import { BadgeRow } from "@akasha/design-badges/badge"
 import { COLUMN_WIDTH } from "@akasha/design-layout/layout-data"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
@@ -15,6 +14,7 @@ import {
 } from "@akasha/temper-companions-core/companion-skill-tooltip"
 import { getEsoIconUrl } from "@akasha/temper-formula-framework/eso-icon-url"
 import { capitalize } from "@akasha/utils/narrow/capitalize"
+import { BadgeRow } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ConstraintBadges } from "../constraint-badges/constraint-badges.module.code.tsx"
 import { EffectBadge } from "../effect-badge/effect-badge.module.code.tsx"
 import {

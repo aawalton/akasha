@@ -1,4 +1,3 @@
-import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type {
   AccountCompletion,
@@ -18,6 +17,7 @@ import {
   useCompletionCompanions,
   useCompletionCompanionsByUser,
 } from "@akasha/temper-player-completion-ui/use-completion"
+import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { useMemo } from "react"
 import type { AccountProgressData } from "../account-progress/account-progress.module.code.ts"
 import { useAccountProgress } from "../account-progress/account-progress.module.code.ts"

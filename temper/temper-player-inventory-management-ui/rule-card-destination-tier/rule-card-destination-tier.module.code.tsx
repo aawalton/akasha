@@ -1,7 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { EditableNumber } from "@akasha/design-forms/editable-number"
 import { Button } from "@akasha/design-primitives/button"
 import type {
@@ -9,6 +7,8 @@ import type {
   MoveToDestination,
   Tier,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { ArrowDown, ArrowUp, ChevronRight, Trash2 } from "lucide-react"
 import { CharacterTargetSelect } from "../character-target-select/character-target-select.module.code.tsx"
 import { DestinationCascade } from "../destination-cascade/destination-cascade.module.code.tsx"

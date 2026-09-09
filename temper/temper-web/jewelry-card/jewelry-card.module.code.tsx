@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import {
   Select,
@@ -37,6 +36,7 @@ import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-templa
 import type { EquipmentQualityOptionId } from "@akasha/temper-equipment-kinds/equipment-qualities"
 import { type JewelrySlotId, jewelrySlots } from "@akasha/temper-equipment-kinds/jewelry-slots"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useMemo, useState } from "react"
 import { getSetById, SetSelectDialog } from "../set-select-dialog/set-select-dialog.module.code.tsx"
 

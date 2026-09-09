@@ -2,7 +2,6 @@
 @import "@akasha/design-system/styles.css";
 
 @source "../../../../alan/harness/errors-client/**/*.{ts,tsx}";
-@source "../../../../design/badges/**/*.{ts,tsx}";
 @source "../../../../design/forms/**/*.{ts,tsx}";
 @source "../../../../design/layout/**/*.{ts,tsx}";
 @source "../../../../design/patterns/**/*.{ts,tsx}";

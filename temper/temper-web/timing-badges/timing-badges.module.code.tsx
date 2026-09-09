@@ -1,7 +1,7 @@
-import { Badge } from "@akasha/design-badges/badge"
 import { formatCooldown } from "@akasha/temper-companions-core/companion-effect-formatters"
 import type { ExtractedSkillTiming } from "@akasha/temper-companions-core/companion-skill-activation-effect-types"
 import type { CompanionFormulaStats } from "@akasha/temper-companions-core/companion-skill-formula"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import type { BadgeVariant } from "../effect-badge-types/effect-badge-types.module.code.ts"
 
 interface TimingBadgesProps {

@@ -1,10 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import {
   Select,
@@ -15,6 +10,11 @@ import {
 } from "@akasha/design-primitives/select-control"
 import { Text } from "@akasha/design-primitives/text-body"
 import { POTION_EFFECTS_OPTIONS } from "@akasha/temper-items-rules-core/potion-effects-filter"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
 

@@ -1,10 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
 import { ItemCard } from "@akasha/design-patterns/item-card"
 import { cn } from "@akasha/design-primitives/cn"
 import {
@@ -32,6 +27,11 @@ import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
 import { formatEffects } from "@akasha/temper-characters-stats/format-effects"
 import type { Effect } from "@akasha/temper-formula-framework/effect"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { Check, ChevronDown, ChevronRight, X } from "lucide-react"
 import type * as React from "react"
 import type { ReactNode } from "react"

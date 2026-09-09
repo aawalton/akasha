@@ -1,11 +1,11 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import {
   Collapsible,
   CollapsibleContent,
   CollapsibleTrigger,
 } from "@akasha/design-primitives/collapsible"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ChevronDownIcon } from "lucide-react"
 import type { ReactNode } from "react"
 

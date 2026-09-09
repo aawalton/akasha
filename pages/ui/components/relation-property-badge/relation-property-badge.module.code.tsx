@@ -1,9 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
-import { useBadgeLayoutContext } from "@akasha/design-badges/badge-layout-context"
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
-import { LinkBadge } from "@akasha/design-badges/link-badge"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { relationConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
@@ -20,6 +16,10 @@ import {
   resolveRelationVariant,
 } from "@akasha/pages-ui-components/relation-display"
 import { RelationPopover } from "@akasha/pages-ui-components/relation-popover"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { useBadgeLayoutContext } from "akasha/design/badges/badge-layout-context/badge-layout-context.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
+import { LinkBadge } from "akasha/design/badges/link-badge/link-badge.module.code.tsx"
 
 function isRelationObject(value: unknown): value is { id: string; title: string } {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return false

@@ -1,6 +1,5 @@
 "use client"
 
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
@@ -32,6 +31,7 @@ import {
   needToShoppingKey,
 } from "@akasha/temper-shopping/companion-gear-shopping-bridge"
 import { isShoppingSettings } from "@akasha/temper-shopping/shopping-settings"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { ShoppingCart } from "lucide-react"
 import { Fragment, useCallback, useMemo, useState } from "react"
 import { formatGold } from "../companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"

@@ -1,10 +1,5 @@
 "use client"
 
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useDebouncedCallback } from "@akasha/design-primitives/use-debounced-callback"
@@ -33,6 +28,11 @@ import {
 } from "@akasha/pages-ui-components/value-filter-inputs"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
 

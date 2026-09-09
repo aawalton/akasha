@@ -1,6 +1,5 @@
 "use client"
 
-import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { FilterGroup } from "@akasha/design-patterns/filter-group"
 import { SubView } from "@akasha/design-primitives/sub-view"
 import {
@@ -8,6 +7,7 @@ import {
   DEFAULT_ITEM_PAGE_SIZE,
   DEFAULT_PAGE_SIZE,
 } from "@akasha/pages-core/schema/view-data"
+import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 
 interface PageSizePickerProps {
   groupBy: string | null

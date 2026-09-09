@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import {
   Select,
   SelectContent,
@@ -9,6 +8,7 @@ import {
   SelectValue,
 } from "@akasha/design-primitives/select-control"
 import type { MoveToDestination } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { ChevronRight } from "lucide-react"
 import type { ActionVariant } from "../action-options/action-options.module.code.ts"
 import type { DestinationOptions } from "../use-destination-options/use-destination-options.module.code.ts"

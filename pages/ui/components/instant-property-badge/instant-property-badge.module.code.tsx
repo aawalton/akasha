@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { formatRelativeTime } from "@akasha/design-primitives/format-relative-time"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { formatAbsoluteInstant } from "@akasha/pages-core/property-types/instant"
@@ -15,6 +14,7 @@ import {
 } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useState } from "react"
 
 function getInstantFormat(definition: PropertyDefinition): InstantFormat {

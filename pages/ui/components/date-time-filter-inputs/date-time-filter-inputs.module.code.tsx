@@ -1,6 +1,5 @@
 "use client"
 
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
@@ -22,6 +21,7 @@ import {
   sentinelDateToJson,
   sentinelInstantToJson,
 } from "@akasha/pages-ui-components/date-time-filter-inputs-parse"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { Check, ChevronDown } from "lucide-react"
 import { useEffect, useState } from "react"
 

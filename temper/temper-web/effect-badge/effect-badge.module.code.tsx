@@ -1,4 +1,3 @@
-import { Badge } from "@akasha/design-badges/badge"
 import {
   formatCooldown,
   formatDamageType,
@@ -15,6 +14,7 @@ import type { CompanionFormulaStats } from "@akasha/temper-companions-core/compa
 import { calculateEffectValue } from "@akasha/temper-companions-core/companion-skill-tooltip"
 import { formatAbbreviated } from "@akasha/temper-formula-framework/number-format"
 import { assertNever } from "@akasha/utils/narrow/assert-never"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import type {
   ArmorPieceCounts,
   BadgeVariant,

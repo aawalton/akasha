@@ -1,11 +1,11 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import { parseConfig } from "@akasha/pages-core/schema/pages"
 import { pathSelectConfigSchema } from "@akasha/pages-core/schema/property-config-schemas"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 
 const DEFAULT_SEPARATOR = " > "
 

@@ -1,9 +1,3 @@
-import { Badge, IconBadge } from "@akasha/design-badges/badge"
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
-import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
@@ -24,6 +18,12 @@ import { getWeaponRole } from "@akasha/temper-companions-core/companion-weapon-r
 import { companionWeaponRoles } from "@akasha/temper-companions-core/companion-weapon-roles"
 import type { CompanionId } from "@akasha/temper-companions-core/companions"
 import { buildId as toBuildId } from "@akasha/temper-formula-framework/branded-id"
+import { Badge, IconBadge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 import { Search, Trophy } from "lucide-react"
 
 interface CompanionPlanBuild {

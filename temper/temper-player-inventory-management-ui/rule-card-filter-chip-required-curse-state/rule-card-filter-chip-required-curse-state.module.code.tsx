@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import {
   Select,
@@ -11,6 +10,7 @@ import {
 } from "@akasha/design-primitives/select-control"
 import { Text } from "@akasha/design-primitives/text-body"
 import type { RequiredCurseStateCondition } from "@akasha/temper-items-rules-core/required-curse-state-filter-types"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import type { ReactNode } from "react"
 import type { useRuleCard } from "../use-rule-card/use-rule-card.module.code.ts"
 

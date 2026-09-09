@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
 import { AddFilterButton } from "@akasha/design-patterns/add-filter-button"
 import { FilterButton } from "@akasha/design-patterns/filter-button"
 import { FilterGroup } from "@akasha/design-patterns/filter-group"
@@ -14,6 +10,10 @@ import type { SortDirection, SortOption } from "@akasha/design-patterns/sort-typ
 import { targetArmor } from "@akasha/temper-character-sources/target-armors"
 import { companions } from "@akasha/temper-companions-core/companions"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { useEffect, useState } from "react"
 
 export type SortField = "updated" | "name" | "score"

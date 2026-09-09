@@ -9,7 +9,6 @@
     "./use-completion": "./use-completion/use-completion.module.code.ts"
   },
   "dependencies": {
-    "@akasha/design-badges": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-patterns": "workspace:*",
     "@akasha/pages-access": "workspace:*",

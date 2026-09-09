@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { canClassEquipSet } from "@akasha/temper-characters-equipment/set-class-restrictions"
 import {
   createSetSelectConfig,
@@ -16,6 +15,7 @@ import { isSetsAllId } from "@akasha/temper-characters-equipment/sets-all"
 import type { SetId as SetsAllId } from "@akasha/temper-equipment/set-ids"
 import type { SetTemplate as SetsAll } from "@akasha/temper-equipment/set-template"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { useMemo, useState } from "react"
 import { FilterableSelectDialog } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 

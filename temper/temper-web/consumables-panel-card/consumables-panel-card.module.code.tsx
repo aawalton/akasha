@@ -1,12 +1,12 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { InputPanelCard } from "@akasha/design-patterns/input-panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import { Popover, PopoverContent, PopoverTrigger } from "@akasha/design-primitives/popover"
 import { type PotionId, potions } from "@akasha/temper-alchemy/potion-source"
 import type { FoodOrDrinkId } from "@akasha/temper-character-sources/food-or-drink-source"
 import type { MundusId } from "@akasha/temper-character-sources/mundus-source"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { Info } from "lucide-react"
 import { useState } from "react"
 import { FilterableSelectTrigger } from "../filterable-select-dialog/filterable-select-dialog.module.code.tsx"

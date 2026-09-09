@@ -1,7 +1,5 @@
 "use client"
 
-import type { badgeVariants } from "@akasha/design-badges/badge"
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import {
   AlertDialog,
   AlertDialogAction,
@@ -22,6 +20,8 @@ import {
 import { ScrollArea } from "@akasha/design-primitives/scroll-area"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { useSurface } from "@akasha/design-primitives/surface-provider"
+import type { badgeVariants } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import type { VariantProps } from "class-variance-authority"
 import { useState } from "react"
 

@@ -1,9 +1,3 @@
-import { Badge } from "@akasha/design-badges/badge"
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
-import { NumberBadge } from "@akasha/design-badges/number-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { CardContent, CardTitle } from "@akasha/design-primitives/card"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
@@ -18,6 +12,12 @@ import {
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { RaceId } from "@akasha/temper-races/races"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import { NumberBadge } from "akasha/design/badges/number-badge/number-badge.module.code.tsx"
 
 interface CharacterPlanBuild {
   id: string

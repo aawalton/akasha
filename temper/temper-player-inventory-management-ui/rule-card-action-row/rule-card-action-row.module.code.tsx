@@ -1,7 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { EditableNumber } from "@akasha/design-forms/editable-number"
 import { InputGroup, InputGroupAddon, InputGroupInput } from "@akasha/design-forms/input-group"
 import {
@@ -17,6 +15,8 @@ import type {
   MoveToDestination,
   StockScope,
 } from "@akasha/temper-items-rules-core/inventory-rule-types"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { ChevronRight } from "lucide-react"
 import {
   ACTION_OPTIONS,

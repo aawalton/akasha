@@ -1,6 +1,5 @@
 "use client"
 
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { ItemRow } from "@akasha/design-patterns/item-row"
 import { CardTitleBadges } from "@akasha/design-primitives/card"
@@ -10,6 +9,7 @@ import type { CompanionGearNeed } from "@akasha/temper-items-core/companion-gear
 import { needToShoppingKey } from "@akasha/temper-shopping/companion-gear-shopping-bridge"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { requireGet } from "@akasha/utils/narrow/require-get"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 import { useMemo, useState } from "react"
 import {
   buildBlendedPriceMap,

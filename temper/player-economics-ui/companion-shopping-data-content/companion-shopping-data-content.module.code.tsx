@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
@@ -24,6 +20,10 @@ import {
   companionEquipmentQualities,
 } from "@akasha/temper-companions-core/companion-equipment-qualities"
 import { PricingRegionNote } from "@akasha/temper-player-inventory-management-ui/pricing-region-note"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { Gamepad2, PackageCheck } from "lucide-react"
 import { type ReactNode, useMemo, useState } from "react"
 import { CompanionGearByCompanionPanelCard } from "../companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx"

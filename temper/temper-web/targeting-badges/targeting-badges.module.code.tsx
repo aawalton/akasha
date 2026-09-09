@@ -1,7 +1,7 @@
-import { Badge } from "@akasha/design-badges/badge"
 import type { Targeting } from "@akasha/temper-skill-kinds/skill-activation-effect-types"
 import { targetScopes } from "@akasha/temper-skill-kinds/target-scopes"
 import { targetTypes } from "@akasha/temper-skill-kinds/target-types"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import type { BadgeVariant } from "../effect-badge-types/effect-badge-types.module.code.ts"
 
 interface TargetingBadgeProps {

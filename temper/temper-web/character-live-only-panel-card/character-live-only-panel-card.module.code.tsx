@@ -1,4 +1,3 @@
-import { Badge } from "@akasha/design-badges/badge"
 import { PanelCard } from "@akasha/design-layout/panel-card"
 import { Button } from "@akasha/design-primitives/button"
 import { CardContent, CardTitle } from "@akasha/design-primitives/card"
@@ -10,6 +9,7 @@ import type { CharacterState } from "@akasha/temper-character-build/build-types"
 import { buildId } from "@akasha/temper-formula-framework/branded-id"
 import type { ClassId } from "@akasha/temper-formula-framework/class-id"
 import type { RaceId } from "@akasha/temper-races/races"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 
 interface LiveOnlyBuild {
   id: string

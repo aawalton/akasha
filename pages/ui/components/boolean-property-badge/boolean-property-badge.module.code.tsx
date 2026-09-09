@@ -1,8 +1,7 @@
 "use client"
 
-import { CheckboxBadge } from "@akasha/design-badges/checkbox-badge"
-
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
+import { CheckboxBadge } from "akasha/design/badges/checkbox-badge/checkbox-badge.module.code.tsx"
 
 function isTruthy(value: unknown): boolean {
   return Boolean(value)

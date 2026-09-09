@@ -1,10 +1,10 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
-import { ButtonBadge } from "@akasha/design-badges/button-badge"
 import { richDocumentSchema } from "@akasha/pages-core/property-types/rich-document"
 import type { PropertyValue } from "@akasha/pages-core/property-types/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+import { ButtonBadge } from "akasha/design/badges/button-badge/button-badge.module.code.tsx"
 
 function blockCount(value: PropertyValue): number {
   const parsed = richDocumentSchema.safeParse(value)

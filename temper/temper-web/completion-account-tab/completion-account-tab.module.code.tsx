@@ -1,9 +1,5 @@
 "use client"
 
-import {
-  BadgeToggleGroup,
-  type BadgeToggleGroupItem,
-} from "@akasha/design-badges/badge-toggle-group"
 import { PageTabHeader } from "@akasha/design-layout/page-tab-header"
 import { PanelToggleProvider } from "@akasha/design-layout/panel-toggle-provider"
 import { LayoutLink } from "@akasha/design-layout/router-context"
@@ -26,6 +22,10 @@ import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
 import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
 import type { AccountSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
+import {
+  BadgeToggleGroup,
+  type BadgeToggleGroupItem,
+} from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { Globe } from "lucide-react"
 import { useState } from "react"
 import {

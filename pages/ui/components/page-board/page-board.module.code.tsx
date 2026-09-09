@@ -1,6 +1,5 @@
 "use client"
 
-import { Badge } from "@akasha/design-badges/badge"
 import { LoadMoreButton } from "@akasha/design-layout/load-more-button"
 import { Heading } from "@akasha/design-primitives/heading"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
@@ -21,6 +20,7 @@ import {
   useSensors,
 } from "@dnd-kit/core"
 import { restrictToHorizontalAxis } from "@dnd-kit/modifiers"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
 
 interface PageBoardProps {

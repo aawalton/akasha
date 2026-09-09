@@ -1,6 +1,5 @@
 "use client"
 
-import { EmptyBadge } from "@akasha/design-badges/empty-badge"
 import { resolveComputedProperty } from "@akasha/pages-core/property-types/resolve-computed-type"
 import {
   type PageTypePropertiesMap,
@@ -8,6 +7,7 @@ import {
 } from "@akasha/pages-core/property-types/rollup"
 import type { PropertyDefinition } from "@akasha/pages-core/types"
 import type { PropertyBadgeProps } from "@akasha/pages-ui-components/property-badge"
+import { EmptyBadge } from "akasha/design/badges/empty-badge/empty-badge.module.code.tsx"
 import type * as React from "react"
 
 export function ComputedPropertyBadge(props: PropertyBadgeProps) {

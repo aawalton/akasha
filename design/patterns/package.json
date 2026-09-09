@@ -43,7 +43,6 @@
     "./use-set-toggle": "./use-set-toggle/use-set-toggle.module.code.ts"
   },
   "dependencies": {
-    "@akasha/design-badges": "workspace:*",
     "@akasha/design-forms": "workspace:*",
     "@akasha/design-layout": "workspace:*",
     "@akasha/design-primitives": "workspace:*",

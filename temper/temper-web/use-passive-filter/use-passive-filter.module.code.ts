@@ -1,9 +1,9 @@
-import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
 import {
   type SkillLineCategoryId,
   skillLineCategories,
   skillLineCategoriesSorted,
 } from "@akasha/temper-skill-lines/skill-line-category-data"
+import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { useState } from "react"
 
 export const PASSIVE_CATEGORY_FILTER_ITEMS: BadgeToggleGroupItem[] = skillLineCategoriesSorted
