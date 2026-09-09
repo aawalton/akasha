@@ -15,7 +15,7 @@ import type {
   LitrpgStory,
   NowReading,
   SelectOptions,
-} from "../reading-shapes/reading-shapes.module.code.ts"
+} from "../shapes/reading-shapes.module.code.ts"
 
 export function selectNextStory(
   catalog: LitrpgCatalog,

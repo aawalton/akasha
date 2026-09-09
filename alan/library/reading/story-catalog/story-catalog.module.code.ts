@@ -7,7 +7,7 @@ import {
   type LitrpgChapter,
   type LitrpgRating,
   type LitrpgStory,
-} from "../reading-shapes/reading-shapes.module.code.ts"
+} from "../shapes/reading-shapes.module.code.ts"
 
 export const CHAPTER_TYPE_BY_STORY_TYPE: Readonly<Record<string, string>> = {
   "story-read": "story-chapter-read",

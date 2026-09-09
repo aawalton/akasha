@@ -1,4 +1,8 @@
 import {
+  type ChapterLength,
+  resolveResumeChapter,
+} from "../resume-chapter/resume-chapter.module.code.ts"
+import {
   LITRPG_RATINGS,
   type LitrpgCatalog,
   type LitrpgChapter,
@@ -6,11 +10,7 @@ import {
   type LitrpgStory,
   type Pool,
   type SelectOptions,
-} from "../reading-shapes/reading-shapes.module.code.ts"
-import {
-  type ChapterLength,
-  resolveResumeChapter,
-} from "../resume-chapter/resume-chapter.module.code.ts"
+} from "../shapes/reading-shapes.module.code.ts"
 
 export const LIKED_RATINGS: ReadonlySet<LitrpgRating> = new Set<LitrpgRating>([
   "B-",
