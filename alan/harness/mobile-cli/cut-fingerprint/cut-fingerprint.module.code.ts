@@ -109,9 +109,7 @@ export function readCutPages(): readonly CutPage[] {
 }
 
 function cutPagesOf(appSlug: string): readonly CutPage[] {
-  return readCutPages().filter(
-    (page) => (slugAt(page.value, "app") ?? slugAt(page.value, "appSlug")) === appSlug
-  )
+  return readCutPages().filter((page) => slugAt(page.value, "app") === appSlug)
 }
 
 export const cutFingerprintValues = z.object({
@@ -142,7 +140,7 @@ export function cutPageBody(appSlug: string, fp: CutFingerprint): string {
     `  pageTypeSlug: "${MOBILE_CUT_PAGE_TYPE_SLUG}",`,
     `  slug: "${slug}",`,
     `  title: ${JSON.stringify(`${appSlug} cut build ${fp.buildNumber}`)},`,
-    `  appSlug: ${JSON.stringify(appSlug)},`,
+    `  app: ${JSON.stringify(appSlug)},`,
     `  buildNumber: ${fp.buildNumber},`,
     `  mainSha: ${JSON.stringify(fp.mainSha)},`,
     ...(fp.shellSha === null ? [] : [`  shellSha: ${JSON.stringify(fp.shellSha)},`]),

@@ -89,9 +89,7 @@ describe("readCutPages", () => {
 
 describe("readLatestCutFingerprint", () => {
   test("the last cut is the page carrying the highest build number", async () => {
-    const filed = readCutPages().filter(
-      (page) => (page.value["app"] ?? page.value["appSlug"]) === "alanwalton"
-    )
+    const filed = readCutPages().filter((page) => page.value["app"] === "alanwalton")
     expect(filed.length).toBeGreaterThan(1)
     const highest = Math.max(...filed.map((page) => Number(page.value["buildNumber"])))
 
