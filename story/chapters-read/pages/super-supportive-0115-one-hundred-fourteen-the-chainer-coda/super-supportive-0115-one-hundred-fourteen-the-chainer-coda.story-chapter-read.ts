@@ -5,7 +5,7 @@ export const superSupportive0115OneHundredFourteenTheChainerCoda = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0115-one-hundred-fourteen-the-chainer-coda",
   title: "ONE HUNDRED FOURTEEN: The Chainer, coda",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 115,
   ownLength: 20746,
   unitSlug: "words",

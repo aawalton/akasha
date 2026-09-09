@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0768AnnouncementBiteTheStars = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0768-announcement-bite-the-stars",
   title: "Announcement! Bite the Stars",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 768,
   ownLength: 147,
   unitSlug: "words",

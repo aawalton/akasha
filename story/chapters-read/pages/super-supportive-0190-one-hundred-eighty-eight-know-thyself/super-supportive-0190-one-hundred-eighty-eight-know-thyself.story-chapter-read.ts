@@ -5,7 +5,7 @@ export const superSupportive0190OneHundredEightyEightKnowThyself = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0190-one-hundred-eighty-eight-know-thyself",
   title: "ONE HUNDRED EIGHTY-EIGHT: Know Thyself",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 190,
   ownLength: 6156,
   unitSlug: "words",

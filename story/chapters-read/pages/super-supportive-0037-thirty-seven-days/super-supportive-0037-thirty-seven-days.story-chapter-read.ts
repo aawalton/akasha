@@ -5,7 +5,7 @@ export const superSupportive0037ThirtySevenDays = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0037-thirty-seven-days",
   title: "THIRTY-SEVEN: Days",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 37,
   ownLength: 5615,
   unitSlug: "words",

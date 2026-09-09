@@ -5,7 +5,7 @@ export const succulentGirlEvolution0035Chapter35NewParty = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0035-chapter-35-new-party",
   title: "Chapter 35: New Party",
-  storySlug: "succulent-girl-evolution",
+  story: "succulent-girl-evolution",
   position: 35,
   ownLength: 1993,
   unitSlug: "words",

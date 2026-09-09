@@ -5,7 +5,7 @@ export const superSupportive0081EightyFirstYearImpressions = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0081-eighty-first-year-impressions",
   title: "EIGHTY:  First Year Impressions",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 81,
   ownLength: 5446,
   unitSlug: "words",

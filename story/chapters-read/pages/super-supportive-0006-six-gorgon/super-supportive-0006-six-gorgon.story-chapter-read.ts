@@ -5,7 +5,7 @@ export const superSupportive0006SixGorgon = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0006-six-gorgon",
   title: "SIX: Gorgon",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 6,
   ownLength: 2433,
   unitSlug: "words",

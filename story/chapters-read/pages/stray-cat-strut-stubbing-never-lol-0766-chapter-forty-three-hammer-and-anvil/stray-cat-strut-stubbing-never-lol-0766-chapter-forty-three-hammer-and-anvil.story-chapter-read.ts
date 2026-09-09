@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0766ChapterFortyThreeHammerAndAnvil = 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0766-chapter-forty-three-hammer-and-anvil",
   title: "Chapter Forty-Three - Hammer and Anvil",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 766,
   ownLength: 1529,
   unitSlug: "words",

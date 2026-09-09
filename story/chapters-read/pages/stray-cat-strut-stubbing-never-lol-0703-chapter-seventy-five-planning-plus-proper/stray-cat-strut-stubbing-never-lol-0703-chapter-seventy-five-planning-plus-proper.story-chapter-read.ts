@@ -6,7 +6,7 @@ export const strayCatStrutStubbingNeverLol0703ChapterSeventyFivePlanningPlusProp
   slug: "stray-cat-strut-stubbing-never-lol-0703-chapter-seventy-five-planning-plus-proper",
   title:
     "Chapter Seventy-Five - Planning Plus Proper Preparation Prevents Potential Problems, Probably",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 703,
   ownLength: 1502,
   unitSlug: "words",

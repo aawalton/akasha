@@ -5,7 +5,7 @@ export const superSupportive0079SeventyEightFactsAreFacts = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0079-seventy-eight-facts-are-facts",
   title: "SEVENTY-EIGHT: Facts are Facts",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 79,
   ownLength: 7018,
   unitSlug: "words",

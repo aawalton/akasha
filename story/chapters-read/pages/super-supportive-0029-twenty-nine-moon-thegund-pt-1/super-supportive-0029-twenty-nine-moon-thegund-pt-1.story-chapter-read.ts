@@ -5,7 +5,7 @@ export const superSupportive0029TwentyNineMoonThegundPt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0029-twenty-nine-moon-thegund-pt-1",
   title: "TWENTY-NINE: Moon Thegund, pt. 1",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 29,
   ownLength: 5050,
   unitSlug: "words",

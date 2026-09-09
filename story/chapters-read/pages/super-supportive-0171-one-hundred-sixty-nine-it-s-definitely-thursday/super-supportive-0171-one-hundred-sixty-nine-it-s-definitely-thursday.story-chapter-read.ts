@@ -5,7 +5,7 @@ export const superSupportive0171OneHundredSixtyNineItSDefinitelyThursday = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0171-one-hundred-sixty-nine-it-s-definitely-thursday",
   title: "ONE HUNDRED SIXTY-NINE: It's Definitely Thursday",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 171,
   ownLength: 4388,
   unitSlug: "words",

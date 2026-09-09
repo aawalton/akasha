@@ -5,7 +5,7 @@ export const superSupportive0085EightyFourTheFrenchSauce = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0085-eighty-four-the-french-sauce",
   title: "EIGHTY-FOUR: The French Sauce",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 85,
   ownLength: 5782,
   unitSlug: "words",

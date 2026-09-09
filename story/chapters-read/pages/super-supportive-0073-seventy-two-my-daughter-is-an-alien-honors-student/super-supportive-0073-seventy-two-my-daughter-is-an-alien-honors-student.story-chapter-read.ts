@@ -5,7 +5,7 @@ export const superSupportive0073SeventyTwoMyDaughterIsAnAlienHonorsStudent = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0073-seventy-two-my-daughter-is-an-alien-honors-student",
   title: "SEVENTY-TWO: My Daughter is An Alien Honors Student",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 73,
   ownLength: 7634,
   unitSlug: "words",

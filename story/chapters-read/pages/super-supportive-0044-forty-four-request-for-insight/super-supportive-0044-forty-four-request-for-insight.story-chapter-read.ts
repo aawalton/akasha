@@ -5,7 +5,7 @@ export const superSupportive0044FortyFourRequestForInsight = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0044-forty-four-request-for-insight",
   title: "FORTY-FOUR: Request for Insight",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 44,
   ownLength: 324,
   unitSlug: "words",

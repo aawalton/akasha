@@ -5,7 +5,7 @@ export const superSupportive0088EightySevenIncautiousCaring = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0088-eighty-seven-incautious-caring",
   title: "EIGHTY-SEVEN: Incautious Caring",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 88,
   ownLength: 4175,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0679ChapterFiftySixFillTheSkyWithFireA
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0679-chapter-fifty-six-fill-the-sky-with-fire-and-smoke",
   title: "Chapter Fifty-Six - Fill The Sky With Fire And Smoke",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 679,
   ownLength: 1493,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0762ChapterThirtyNineTheDifferenceBetw
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0762-chapter-thirty-nine-the-difference-between-brave",
   title: "Chapter Thirty-Nine - The Difference Between Brave and Stupid",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 762,
   ownLength: 1540,
   unitSlug: "words",

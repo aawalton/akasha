@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0738ChapterSeventeenCourtMartialArts =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0738-chapter-seventeen-court-martial-arts",
   title: "Chapter Seventeen - Court Martial Arts",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 738,
   ownLength: 1504,
   unitSlug: "words",

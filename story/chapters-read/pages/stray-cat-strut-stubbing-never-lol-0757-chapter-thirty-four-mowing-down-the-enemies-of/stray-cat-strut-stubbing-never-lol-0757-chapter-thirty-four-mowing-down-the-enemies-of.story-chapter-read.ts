@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0757ChapterThirtyFourMowingDownTheEnem
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0757-chapter-thirty-four-mowing-down-the-enemies-of",
   title: "Chapter Thirty-Four - Mowing Down the Enemies of Mankind",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 757,
   ownLength: 1519,
   unitSlug: "words",

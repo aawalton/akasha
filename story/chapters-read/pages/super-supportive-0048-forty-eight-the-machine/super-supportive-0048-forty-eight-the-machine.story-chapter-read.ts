@@ -5,7 +5,7 @@ export const superSupportive0048FortyEightTheMachine = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0048-forty-eight-the-machine",
   title: "FORTY-EIGHT: The Machine",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 48,
   ownLength: 3191,
   unitSlug: "words",

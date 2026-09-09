@@ -5,7 +5,7 @@ export const superSupportive0032ThirtyTwoChaining = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0032-thirty-two-chaining",
   title: "THIRTY-TWO: Chaining ",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 32,
   ownLength: 4034,
   unitSlug: "words",

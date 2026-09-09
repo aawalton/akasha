@@ -5,7 +5,7 @@ export const superSupportive0051FiftyOneTakeMeSomewhereBetter = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0051-fifty-one-take-me-somewhere-better",
   title: "FIFTY-ONE: Take Me Somewhere Better",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 51,
   ownLength: 2835,
   unitSlug: "words",

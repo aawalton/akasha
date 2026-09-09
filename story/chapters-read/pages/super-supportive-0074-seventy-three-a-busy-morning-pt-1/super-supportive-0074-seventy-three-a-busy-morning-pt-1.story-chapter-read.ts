@@ -5,7 +5,7 @@ export const superSupportive0074SeventyThreeABusyMorningPt1 = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0074-seventy-three-a-busy-morning-pt-1",
   title: "SEVENTY-THREE: A Busy Morning, pt. 1",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 74,
   ownLength: 8299,
   unitSlug: "words",

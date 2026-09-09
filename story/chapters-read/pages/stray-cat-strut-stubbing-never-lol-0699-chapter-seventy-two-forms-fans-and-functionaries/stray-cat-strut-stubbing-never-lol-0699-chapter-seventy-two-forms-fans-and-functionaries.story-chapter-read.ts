@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0699ChapterSeventyTwoFormsFansAndFunct
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0699-chapter-seventy-two-forms-fans-and-functionaries",
   title: "Chapter Seventy-Two - Forms, Fans, and Functionaries",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 699,
   ownLength: 1572,
   unitSlug: "words",

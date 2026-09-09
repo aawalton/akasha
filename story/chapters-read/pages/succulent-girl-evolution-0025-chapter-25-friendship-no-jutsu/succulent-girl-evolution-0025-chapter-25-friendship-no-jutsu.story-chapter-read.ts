@@ -5,7 +5,7 @@ export const succulentGirlEvolution0025Chapter25FriendshipNoJutsu = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0025-chapter-25-friendship-no-jutsu",
   title: "Chapter 25: Friendship no jutsu",
-  storySlug: "succulent-girl-evolution",
+  story: "succulent-girl-evolution",
   position: 25,
   ownLength: 2392,
   unitSlug: "words",

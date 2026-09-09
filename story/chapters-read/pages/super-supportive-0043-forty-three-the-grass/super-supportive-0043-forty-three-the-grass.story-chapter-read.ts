@@ -5,7 +5,7 @@ export const superSupportive0043FortyThreeTheGrass = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0043-forty-three-the-grass",
   title: "FORTY-THREE: The Grass",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 43,
   ownLength: 5467,
   unitSlug: "words",

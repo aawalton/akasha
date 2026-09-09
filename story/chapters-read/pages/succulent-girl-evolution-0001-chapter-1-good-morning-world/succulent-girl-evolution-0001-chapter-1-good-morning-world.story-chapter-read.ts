@@ -5,7 +5,7 @@ export const succulentGirlEvolution0001Chapter1GoodMorningWorld = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0001-chapter-1-good-morning-world",
   title: "Chapter 1: Good Morning, World!",
-  storySlug: "succulent-girl-evolution",
+  story: "succulent-girl-evolution",
   position: 1,
   ownLength: 2077,
   unitSlug: "words",

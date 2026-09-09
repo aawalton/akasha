@@ -5,7 +5,7 @@ export const superSupportive0179OneHundredSeventySevenGuests = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0179-one-hundred-seventy-seven-guests",
   title: "ONE HUNDRED SEVENTY-SEVEN: Guests",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 179,
   ownLength: 4965,
   unitSlug: "words",

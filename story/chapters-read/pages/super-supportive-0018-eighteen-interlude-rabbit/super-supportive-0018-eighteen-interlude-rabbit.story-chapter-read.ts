@@ -5,7 +5,7 @@ export const superSupportive0018EighteenInterludeRabbit = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0018-eighteen-interlude-rabbit",
   title: "EIGHTEEN: Interlude - Rabbit",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 18,
   ownLength: 1638,
   unitSlug: "words",

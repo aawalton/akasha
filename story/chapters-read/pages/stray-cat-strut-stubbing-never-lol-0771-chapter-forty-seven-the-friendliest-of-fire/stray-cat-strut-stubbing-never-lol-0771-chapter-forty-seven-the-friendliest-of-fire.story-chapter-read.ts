@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0771ChapterFortySevenTheFriendliestOfF
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0771-chapter-forty-seven-the-friendliest-of-fire",
   title: "Chapter Forty-Seven - The Friendliest of Fire",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 771,
   ownLength: 1577,
   unitSlug: "words",

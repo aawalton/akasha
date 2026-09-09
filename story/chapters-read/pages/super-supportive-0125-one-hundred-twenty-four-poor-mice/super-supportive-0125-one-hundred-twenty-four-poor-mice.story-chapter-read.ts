@@ -5,7 +5,7 @@ export const superSupportive0125OneHundredTwentyFourPoorMice = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0125-one-hundred-twenty-four-poor-mice",
   title: "ONE HUNDRED TWENTY-FOUR: Poor Mice",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 125,
   ownLength: 6816,
   unitSlug: "words",

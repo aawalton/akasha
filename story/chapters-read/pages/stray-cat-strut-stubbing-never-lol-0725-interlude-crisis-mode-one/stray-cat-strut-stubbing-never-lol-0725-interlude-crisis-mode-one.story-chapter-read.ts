@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0725InterludeCrisisModeOne = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0725-interlude-crisis-mode-one",
   title: "Interlude - Crisis Mode One",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 725,
   ownLength: 1474,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0123OneHundredTwentyTwoObstacles = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0123-one-hundred-twenty-two-obstacles",
   title: "ONE HUNDRED TWENTY-TWO:  Obstacles",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 123,
   ownLength: 8103,
   unitSlug: "words",

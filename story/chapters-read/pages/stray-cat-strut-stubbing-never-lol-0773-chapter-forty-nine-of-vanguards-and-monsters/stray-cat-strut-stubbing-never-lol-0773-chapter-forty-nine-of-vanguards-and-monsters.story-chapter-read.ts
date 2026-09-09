@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0773ChapterFortyNineOfVanguardsAndMons
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0773-chapter-forty-nine-of-vanguards-and-monsters",
   title: "Chapter Forty-Nine - Of Vanguards and Monsters",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 773,
   ownLength: 1460,
   unitSlug: "words",

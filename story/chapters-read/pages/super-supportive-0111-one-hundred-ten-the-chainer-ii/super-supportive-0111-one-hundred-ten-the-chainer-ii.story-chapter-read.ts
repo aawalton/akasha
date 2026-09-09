@@ -5,7 +5,7 @@ export const superSupportive0111OneHundredTenTheChainerIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0111-one-hundred-ten-the-chainer-ii",
   title: "ONE HUNDRED TEN: The Chainer, II",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 111,
   ownLength: 9591,
   unitSlug: "words",

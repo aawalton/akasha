@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0753ChapterThirtyGoingDownGenevasCheck
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0753-chapter-thirty-going-down-genevas-checklist",
   title: "Chapter Thirty - Going Down Geneva's Checklist",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 753,
   ownLength: 1541,
   unitSlug: "words",

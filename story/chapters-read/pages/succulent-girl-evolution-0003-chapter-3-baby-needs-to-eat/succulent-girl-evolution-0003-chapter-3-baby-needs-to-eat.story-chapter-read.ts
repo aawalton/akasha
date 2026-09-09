@@ -5,7 +5,7 @@ export const succulentGirlEvolution0003Chapter3BabyNeedsToEat = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0003-chapter-3-baby-needs-to-eat",
   title: "Chapter 3: Baby Needs to Eat",
-  storySlug: "succulent-girl-evolution",
+  story: "succulent-girl-evolution",
   position: 3,
   ownLength: 2051,
   unitSlug: "words",

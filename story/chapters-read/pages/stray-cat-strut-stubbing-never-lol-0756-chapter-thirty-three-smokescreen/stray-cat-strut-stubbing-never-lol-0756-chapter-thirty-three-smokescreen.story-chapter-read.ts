@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0756ChapterThirtyThreeSmokescreen = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0756-chapter-thirty-three-smokescreen",
   title: "Chapter Thirty-Three - Smokescreen",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 756,
   ownLength: 1471,
   unitSlug: "words",

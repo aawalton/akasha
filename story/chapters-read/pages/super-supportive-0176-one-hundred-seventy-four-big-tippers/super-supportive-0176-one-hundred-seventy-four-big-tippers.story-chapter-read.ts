@@ -5,7 +5,7 @@ export const superSupportive0176OneHundredSeventyFourBigTippers = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0176-one-hundred-seventy-four-big-tippers",
   title: "ONE HUNDRED SEVENTY-FOUR: Big Tippers",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 176,
   ownLength: 4546,
   unitSlug: "words",

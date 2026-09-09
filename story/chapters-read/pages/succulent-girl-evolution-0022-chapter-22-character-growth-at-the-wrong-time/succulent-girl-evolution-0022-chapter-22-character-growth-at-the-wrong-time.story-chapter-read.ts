@@ -5,7 +5,7 @@ export const succulentGirlEvolution0022Chapter22CharacterGrowthAtTheWrongTime = 
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0022-chapter-22-character-growth-at-the-wrong-time",
   title: "Chapter 22: Character Growth at the Wrong Time",
-  storySlug: "succulent-girl-evolution",
+  story: "succulent-girl-evolution",
   position: 22,
   ownLength: 2398,
   unitSlug: "words",

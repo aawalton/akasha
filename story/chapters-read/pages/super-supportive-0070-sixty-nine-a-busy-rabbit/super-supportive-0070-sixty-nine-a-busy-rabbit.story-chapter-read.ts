@@ -5,7 +5,7 @@ export const superSupportive0070SixtyNineABusyRabbit = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0070-sixty-nine-a-busy-rabbit",
   title: "SIXTY-NINE: A Busy Rabbit",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 70,
   ownLength: 7961,
   unitSlug: "words",

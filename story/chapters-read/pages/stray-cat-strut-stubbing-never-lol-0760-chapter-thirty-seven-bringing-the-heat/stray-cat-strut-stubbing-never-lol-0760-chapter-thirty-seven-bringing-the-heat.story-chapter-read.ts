@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0760ChapterThirtySevenBringingTheHeat 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0760-chapter-thirty-seven-bringing-the-heat",
   title: "Chapter Thirty-Seven - Bringing the Heat",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 760,
   ownLength: 1402,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0086EightyFiveTheOtherHalfOfIt = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0086-eighty-five-the-other-half-of-it",
   title: "EIGHTY-FIVE: The Other Half of It",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 86,
   ownLength: 8028,
   unitSlug: "words",

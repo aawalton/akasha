@@ -5,7 +5,7 @@ export const superSupportive0069SixtyEightTheWarren = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0069-sixty-eight-the-warren",
   title: "SIXTY-EIGHT: The Warren",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 69,
   ownLength: 3929,
   unitSlug: "words",

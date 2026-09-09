@@ -5,7 +5,7 @@ export const superSupportive0152OneHundredFiftyOneMadeForASaint = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0152-one-hundred-fifty-one-made-for-a-saint",
   title: "ONE HUNDRED FIFTY-ONE: Made for a Saint",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 152,
   ownLength: 4934,
   unitSlug: "words",

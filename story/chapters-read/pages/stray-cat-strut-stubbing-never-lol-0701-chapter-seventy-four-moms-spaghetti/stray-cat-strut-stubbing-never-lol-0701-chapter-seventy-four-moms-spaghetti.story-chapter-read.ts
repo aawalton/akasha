@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0701ChapterSeventyFourMomsSpaghetti = 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0701-chapter-seventy-four-moms-spaghetti",
   title: "Chapter Seventy-Four - Mom's Spaghetti",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 701,
   ownLength: 1526,
   unitSlug: "words",

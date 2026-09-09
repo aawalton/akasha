@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0674ChapterFiftyTwoTermsAndConditions 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0674-chapter-fifty-two-terms-and-conditions",
   title: "Chapter Fifty-Two - Terms and Conditions",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 674,
   ownLength: 1630,
   unitSlug: "words",

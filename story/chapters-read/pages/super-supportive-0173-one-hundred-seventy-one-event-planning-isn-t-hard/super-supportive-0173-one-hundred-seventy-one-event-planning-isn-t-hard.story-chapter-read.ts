@@ -5,7 +5,7 @@ export const superSupportive0173OneHundredSeventyOneEventPlanningIsnTHard = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0173-one-hundred-seventy-one-event-planning-isn-t-hard",
   title: "ONE HUNDRED SEVENTY-ONE:  Event Planning Isn't Hard",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 173,
   ownLength: 6434,
   unitSlug: "words",

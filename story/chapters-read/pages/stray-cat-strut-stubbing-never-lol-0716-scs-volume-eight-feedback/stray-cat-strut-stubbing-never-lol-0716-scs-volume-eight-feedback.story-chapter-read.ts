@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0716ScsVolumeEightFeedback = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0716-scs-volume-eight-feedback",
   title: "SCS Volume Eight Feedback!",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 716,
   ownLength: 135,
   unitSlug: "words",

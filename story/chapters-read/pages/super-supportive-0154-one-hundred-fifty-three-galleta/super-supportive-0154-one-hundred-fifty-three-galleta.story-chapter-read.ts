@@ -5,7 +5,7 @@ export const superSupportive0154OneHundredFiftyThreeGalleta = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0154-one-hundred-fifty-three-galleta",
   title: "ONE HUNDRED FIFTY-THREE: Galleta",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 154,
   ownLength: 3820,
   unitSlug: "words",

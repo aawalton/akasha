@@ -5,7 +5,7 @@ export const superSupportive0082EightyOneOCruzamento = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0082-eighty-one-o-cruzamento",
   title: "EIGHTY-ONE: O Cruzamento",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 82,
   ownLength: 2310,
   unitSlug: "words",

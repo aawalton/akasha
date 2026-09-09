@@ -5,7 +5,7 @@ export const superSupportive0103OneHundredTwoWhatKindOfWordchain = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0103-one-hundred-two-what-kind-of-wordchain",
   title: "ONE HUNDRED TWO: What kind of wordchain?",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 103,
   ownLength: 4833,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const succulentGirlEvolution0023Chapter23EmotionalDevelopmentMaybe = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0023-chapter-23-emotional-development-maybe",
   title: "Chapter 23: Emotional Development (Maybe)",
-  storySlug: "succulent-girl-evolution",
+  story: "succulent-girl-evolution",
   position: 23,
   ownLength: 2033,
   unitSlug: "words",

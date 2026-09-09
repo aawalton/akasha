@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0704ChapterSeventySixMaximumClonage = 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0704-chapter-seventy-six-maximum-clonage",
   title: "Chapter Seventy-Six - Maximum Clonage",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 704,
   ownLength: 1481,
   unitSlug: "words",

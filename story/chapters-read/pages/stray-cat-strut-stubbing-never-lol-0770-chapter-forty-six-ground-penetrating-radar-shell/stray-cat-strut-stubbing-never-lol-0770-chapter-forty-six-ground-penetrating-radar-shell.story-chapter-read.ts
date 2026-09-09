@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0770ChapterFortySixGroundPenetratingRa
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0770-chapter-forty-six-ground-penetrating-radar-shell",
   title: "Chapter Forty-Six - Ground Penetrating Radar Shell",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 770,
   ownLength: 1512,
   unitSlug: "words",

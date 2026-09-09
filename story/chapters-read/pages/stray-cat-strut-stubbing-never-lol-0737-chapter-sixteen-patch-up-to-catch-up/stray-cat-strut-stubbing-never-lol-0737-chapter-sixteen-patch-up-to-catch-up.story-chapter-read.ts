@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0737ChapterSixteenPatchUpToCatchUp = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0737-chapter-sixteen-patch-up-to-catch-up",
   title: "Chapter Sixteen - Patch Up to Catch Up",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 737,
   ownLength: 1669,
   unitSlug: "words",

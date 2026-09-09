@@ -5,7 +5,7 @@ export const superSupportive0186OneHundredEightyFourTheInwardPath = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0186-one-hundred-eighty-four-the-inward-path",
   title: "ONE HUNDRED EIGHTY-FOUR: The Inward Path",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 186,
   ownLength: 4362,
   unitSlug: "words",

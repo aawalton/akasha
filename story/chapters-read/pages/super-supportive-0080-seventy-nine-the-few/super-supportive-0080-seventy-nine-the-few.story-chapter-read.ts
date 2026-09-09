@@ -5,7 +5,7 @@ export const superSupportive0080SeventyNineTheFew = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0080-seventy-nine-the-few",
   title: "SEVENTY-NINE: The Few",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 80,
   ownLength: 5849,
   unitSlug: "words",

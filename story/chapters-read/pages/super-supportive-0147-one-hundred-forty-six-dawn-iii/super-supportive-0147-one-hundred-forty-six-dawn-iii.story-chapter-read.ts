@@ -5,7 +5,7 @@ export const superSupportive0147OneHundredFortySixDawnIii = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0147-one-hundred-forty-six-dawn-iii",
   title: "ONE HUNDRED FORTY-SIX: Dawn III",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 147,
   ownLength: 4718,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const superSupportive0139OneHundredThirtyEightWavesIv = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0139-one-hundred-thirty-eight-waves-iv",
   title: "ONE HUNDRED THIRTY-EIGHT: Waves IV",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 139,
   ownLength: 3973,
   unitSlug: "words",

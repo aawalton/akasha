@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0680InterludeLucySchoolDaysPartThree24
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0680-interlude-lucy-school-days-part-three-2476920",
   title: "Interlude Lucy - School Days Part Three",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 680,
   ownLength: 1663,
   unitSlug: "words",

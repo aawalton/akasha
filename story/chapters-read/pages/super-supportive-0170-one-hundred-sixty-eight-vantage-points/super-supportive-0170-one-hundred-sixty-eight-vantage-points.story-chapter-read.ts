@@ -5,7 +5,7 @@ export const superSupportive0170OneHundredSixtyEightVantagePoints = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0170-one-hundred-sixty-eight-vantage-points",
   title: "ONE HUNDRED SIXTY-EIGHT: Vantage Points",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 170,
   ownLength: 5109,
   unitSlug: "words",

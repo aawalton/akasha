@@ -5,7 +5,7 @@ export const superSupportive0108OneHundredSevenOppositeStone = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0108-one-hundred-seven-opposite-stone",
   title: "ONE HUNDRED SEVEN: Opposite Stone",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 108,
   ownLength: 5231,
   unitSlug: "words",

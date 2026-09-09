@@ -5,7 +5,7 @@ export const superSupportive0053FiftyThreeTheAuriad = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0053-fifty-three-the-auriad",
   title: "FIFTY-THREE: The Auriad",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 53,
   ownLength: 2792,
   unitSlug: "words",

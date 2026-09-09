@@ -10,7 +10,7 @@ export const strayCatStrutStubbingNeverLol0779ChapterFiftyFourSlappingSomeSense 
   externalId: "3935134",
   source: "royal-road",
   title: "Chapter Fifty-Four - Slapping Some Sense",
-  storySlug: "story-read/stray-cat-strut-stubbing-never-lol",
+  story: "story-read/stray-cat-strut-stubbing-never-lol",
   ownLength: 1552,
   externalLink:
     "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3935134/chapter-fifty-four-slapping-some-sense",

@@ -5,7 +5,7 @@ export const superSupportive0068SixtySevenGoals = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0068-sixty-seven-goals",
   title: "SIXTY-SEVEN: Goals",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 68,
   ownLength: 6715,
   unitSlug: "words",

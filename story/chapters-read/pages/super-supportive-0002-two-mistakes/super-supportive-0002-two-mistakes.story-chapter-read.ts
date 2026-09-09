@@ -5,7 +5,7 @@ export const superSupportive0002TwoMistakes = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0002-two-mistakes",
   title: "TWO: Mistakes",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 2,
   ownLength: 3764,
   unitSlug: "words",

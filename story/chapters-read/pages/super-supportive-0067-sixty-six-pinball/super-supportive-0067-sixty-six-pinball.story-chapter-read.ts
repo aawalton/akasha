@@ -5,7 +5,7 @@ export const superSupportive0067SixtySixPinball = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0067-sixty-six-pinball",
   title: "SIXTY-SIX: Pinball",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 67,
   ownLength: 3837,
   unitSlug: "words",

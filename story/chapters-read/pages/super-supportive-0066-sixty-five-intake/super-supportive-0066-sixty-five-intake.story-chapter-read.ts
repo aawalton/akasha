@@ -5,7 +5,7 @@ export const superSupportive0066SixtyFiveIntake = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0066-sixty-five-intake",
   title: "SIXTY-FIVE: Intake",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 66,
   ownLength: 4835,
   unitSlug: "words",

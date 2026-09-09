@@ -5,7 +5,7 @@ export const superSupportive0028TwentyEightPerception = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0028-twenty-eight-perception",
   title: "TWENTY-EIGHT: Perception",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 28,
   ownLength: 7182,
   unitSlug: "words",

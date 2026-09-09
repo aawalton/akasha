@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0742ChapterTwentyOneShortingYourLifesp
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0742-chapter-twenty-one-shorting-your-lifespan",
   title: "Chapter Twenty-One - Shorting Your Lifespan",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 742,
   ownLength: 1473,
   unitSlug: "words",

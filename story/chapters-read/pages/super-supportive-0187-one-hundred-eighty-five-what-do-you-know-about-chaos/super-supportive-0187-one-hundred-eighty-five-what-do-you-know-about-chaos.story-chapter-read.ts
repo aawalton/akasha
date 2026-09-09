@@ -5,7 +5,7 @@ export const superSupportive0187OneHundredEightyFiveWhatDoYouKnowAboutChaos = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0187-one-hundred-eighty-five-what-do-you-know-about-chaos",
   title: "ONE HUNDRED EIGHTY-FIVE: What do you know about chaos?",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 187,
   ownLength: 3421,
   unitSlug: "words",

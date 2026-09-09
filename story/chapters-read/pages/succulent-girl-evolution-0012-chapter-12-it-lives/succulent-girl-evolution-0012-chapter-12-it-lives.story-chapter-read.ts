@@ -5,7 +5,7 @@ export const succulentGirlEvolution0012Chapter12ItLives = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0012-chapter-12-it-lives",
   title: "Chapter 12: It Lives",
-  storySlug: "succulent-girl-evolution",
+  story: "succulent-girl-evolution",
   position: 12,
   ownLength: 2110,
   unitSlug: "words",

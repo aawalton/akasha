@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0721ChapterFourYouCanLieOnAReportButRe
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0721-chapter-four-you-can-lie-on-a-report-but-reports",
   title: "Chapter Four - You Can Lie on a Report, But Reports Don't Lie",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 721,
   ownLength: 1533,
   unitSlug: "words",

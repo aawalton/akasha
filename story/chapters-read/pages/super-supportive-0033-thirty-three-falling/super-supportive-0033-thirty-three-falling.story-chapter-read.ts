@@ -5,7 +5,7 @@ export const superSupportive0033ThirtyThreeFalling = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0033-thirty-three-falling",
   title: "THIRTY-THREE: Falling",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 33,
   ownLength: 3343,
   unitSlug: "words",

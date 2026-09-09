@@ -5,7 +5,7 @@ export const superSupportive0129OneHundredTwentyEightBetterWatchOut = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0129-one-hundred-twenty-eight-better-watch-out",
   title: "ONE HUNDRED TWENTY-EIGHT: Better Watch Out ",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 129,
   ownLength: 6943,
   unitSlug: "words",

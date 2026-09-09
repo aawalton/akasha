@@ -5,7 +5,7 @@ export const superSupportive0022TwentyTwoUneven = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0022-twenty-two-uneven",
   title: "TWENTY-TWO: Uneven",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 22,
   ownLength: 4751,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const succulentGirlEvolution0021Chapter21ThatsNotAll = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0021-chapter-21-thats-not-all",
   title: "Chapter 21: That's not all!",
-  storySlug: "succulent-girl-evolution",
+  story: "succulent-girl-evolution",
   position: 21,
   ownLength: 1898,
   unitSlug: "words",

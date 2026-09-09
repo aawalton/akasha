@@ -5,7 +5,7 @@ export const superSupportive0132OneHundredThirtyOneRipplesIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0132-one-hundred-thirty-one-ripples-ii",
   title: "ONE HUNDRED THIRTY-ONE: Ripples, II",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 132,
   ownLength: 5471,
   unitSlug: "words",

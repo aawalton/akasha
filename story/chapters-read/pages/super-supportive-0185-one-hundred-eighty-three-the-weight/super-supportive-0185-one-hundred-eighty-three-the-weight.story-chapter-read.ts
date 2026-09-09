@@ -5,7 +5,7 @@ export const superSupportive0185OneHundredEightyThreeTheWeight = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0185-one-hundred-eighty-three-the-weight",
   title: "ONE HUNDRED EIGHTY-THREE: The Weight",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 185,
   ownLength: 3845,
   unitSlug: "words",

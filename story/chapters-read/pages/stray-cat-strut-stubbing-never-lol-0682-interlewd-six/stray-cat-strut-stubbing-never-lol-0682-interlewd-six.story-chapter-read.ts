@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0682InterlewdSix = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0682-interlewd-six",
   title: "Interlewd Six",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 682,
   ownLength: 1106,
   unitSlug: "words",

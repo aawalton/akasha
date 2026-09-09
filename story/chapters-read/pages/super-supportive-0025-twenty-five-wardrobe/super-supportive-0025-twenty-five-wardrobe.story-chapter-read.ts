@@ -5,7 +5,7 @@ export const superSupportive0025TwentyFiveWardrobe = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0025-twenty-five-wardrobe",
   title: "TWENTY-FIVE: Wardrobe",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 25,
   ownLength: 4262,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const succulentGirlEvolution0020Chapter20ButWaitThatsNotAll = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0020-chapter-20-but-wait-thats-not-all",
   title: "Chapter 20: But Wait! That's Not All",
-  storySlug: "succulent-girl-evolution",
+  story: "succulent-girl-evolution",
   position: 20,
   ownLength: 2263,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0687ChapterSixtyOneEveryoneAssemble = 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0687-chapter-sixty-one-everyone-assemble",
   title: "Chapter Sixty-One - @-Everyone Assemble",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 687,
   ownLength: 1492,
   unitSlug: "words",

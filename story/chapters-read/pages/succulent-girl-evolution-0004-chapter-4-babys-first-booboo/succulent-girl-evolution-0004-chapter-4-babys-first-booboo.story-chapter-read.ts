@@ -5,7 +5,7 @@ export const succulentGirlEvolution0004Chapter4BabysFirstBooboo = {
   pageTypeSlug: "story-chapter-read",
   slug: "succulent-girl-evolution-0004-chapter-4-babys-first-booboo",
   title: "Chapter 4: Baby's First Booboo",
-  storySlug: "succulent-girl-evolution",
+  story: "succulent-girl-evolution",
   position: 4,
   ownLength: 2295,
   unitSlug: "words",

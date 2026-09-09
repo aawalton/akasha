@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0702InterludeKkPartTwo = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0702-interlude-kk-part-two",
   title: "Interlude K&K - Part Two",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 702,
   ownLength: 1475,
   unitSlug: "words",

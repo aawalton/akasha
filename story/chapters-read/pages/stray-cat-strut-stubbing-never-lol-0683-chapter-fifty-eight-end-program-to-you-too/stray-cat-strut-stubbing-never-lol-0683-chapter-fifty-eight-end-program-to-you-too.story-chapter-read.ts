@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0683ChapterFiftyEightEndProgramToYouTo
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0683-chapter-fifty-eight-end-program-to-you-too",
   title: "Chapter Fifty-Eight - End Program To You Too",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 683,
   ownLength: 1562,
   unitSlug: "words",

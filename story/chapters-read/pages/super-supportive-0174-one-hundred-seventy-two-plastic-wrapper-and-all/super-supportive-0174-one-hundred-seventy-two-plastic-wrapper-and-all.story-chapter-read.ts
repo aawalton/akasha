@@ -5,7 +5,7 @@ export const superSupportive0174OneHundredSeventyTwoPlasticWrapperAndAll = {
   pageTypeSlug: "story-chapter-read",
   slug: "super-supportive-0174-one-hundred-seventy-two-plastic-wrapper-and-all",
   title: "ONE HUNDRED SEVENTY-TWO: Plastic Wrapper and All",
-  storySlug: "super-supportive",
+  story: "super-supportive",
   position: 174,
   ownLength: 4641,
   unitSlug: "words",

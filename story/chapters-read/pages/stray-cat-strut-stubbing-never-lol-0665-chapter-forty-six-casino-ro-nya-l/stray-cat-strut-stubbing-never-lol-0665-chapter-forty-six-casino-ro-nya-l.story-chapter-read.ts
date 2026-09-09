@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0665ChapterFortySixCasinoRoNyaL = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0665-chapter-forty-six-casino-ro-nya-l",
   title: "Chapter Forty-Six - Casino Ro-nya-l",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 665,
   ownLength: 1453,
   unitSlug: "words",
