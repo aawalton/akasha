@@ -1,16 +1,4 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
-import {
-  ACHIEVEMENT_CATEGORY_ACTIVITY,
-  ACHIEVEMENT_SUBCATEGORY_ACTIVITY,
-  achievementNameToActivity,
-} from "@akasha/temper-player-completion/activity-category-mapping"
-import type {
-  AchievementTallyCategory,
-  CharacterAchievementProgressResult,
-} from "@akasha/temper-player-completion/completion-achievement-progress"
-import type { CharacterCardId } from "@akasha/temper-player-completion/completion-card-registry"
-import type { CompletionCharacter } from "@akasha/temper-player-completion/completion-ui-types"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -19,6 +7,18 @@ import {
   createNodeFilter,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
+import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
+import {
+  ACHIEVEMENT_CATEGORY_ACTIVITY,
+  ACHIEVEMENT_SUBCATEGORY_ACTIVITY,
+  achievementNameToActivity,
+} from "akasha/temper/temper-player-completion/activity-category-mapping/activity-category-mapping.module.code.ts"
+import type {
+  AchievementTallyCategory,
+  CharacterAchievementProgressResult,
+} from "akasha/temper/temper-player-completion/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import type { CharacterCardId } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import type { CompletionCharacter } from "akasha/temper/temper-player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 
 interface CharacterAchievementsPanelCardProps {
   id?: CharacterCardId

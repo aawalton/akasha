@@ -4,7 +4,7 @@ export const theCrossCharacterRollupIsRefusedByTheProgressValidator = {
   id: "01a06418-219c-736b-ba57-606b34d01ced",
   pageTypeSlug: "finding",
   slug: "the-cross-character-rollup-is-refused-by-the-progress-validator",
-  domain: "workspace-package/temper-player-completion",
+  domain: "domain/temper-player-completion",
   claim:
     "The cross-character progress value the legacy index builds is refused by akasha's progress validator. `buildCrossCharacterCompletionIndex` sets the top-level current and total to the roll-up across the roster while `activeEntryKey` names one character, and `validateProgressValue` requires the active entry to mirror the top-level pair. The four recovered tests pin the roll-up, so the producer and the consumer cannot both be satisfied until someone rules on what the top-level pair means.",
   evidence:

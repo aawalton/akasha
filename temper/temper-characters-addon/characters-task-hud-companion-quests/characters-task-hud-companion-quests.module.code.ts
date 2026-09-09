@@ -1,4 +1,4 @@
-import { pickFirstActionableCompanionQuest } from "@akasha/temper-player-completion/completion-companion-quest-actionability"
+import { pickFirstActionableCompanionQuest } from "akasha/temper/temper-player-completion/completion-companion-quest-actionability/completion-companion-quest-actionability.module.code.ts"
 
 export interface CompanionQuestEnrichment {
   companionName: string

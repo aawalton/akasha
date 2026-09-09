@@ -1,13 +1,13 @@
 import { ALL_COMPANION_IDS } from "@akasha/temper-companions-addon/companions-id-map"
 import type { AccountCompletion } from "@akasha/temper-completion/completion-record"
-import { COMPANION_QUEST_DATA } from "@akasha/temper-player-completion/companion-quest-data"
+import type { SavedCharacterEntry } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
+import { COMPANION_QUEST_DATA } from "akasha/temper/temper-player-completion/companion-quest-data/companion-quest-data.module.code.ts"
 import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,
-} from "@akasha/temper-player-completion/companion-rapport"
-import { countLoreLibrary } from "@akasha/temper-player-completion/completion-lore-library-progress"
-import type { SavedCharacterEntry } from "@akasha/temper-player-completion-state/completion-saved-variables"
-import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
+} from "akasha/temper/temper-player-completion/companion-rapport/companion-rapport.module.code.ts"
+import { countLoreLibrary } from "akasha/temper/temper-player-completion/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import { tallyPathScopedLeaves } from "../characters-progress-tally/characters-progress-tally.module.code.ts"
 
 const ALL_COMPANION_ID_SET = new Set<number>(ALL_COMPANION_IDS)

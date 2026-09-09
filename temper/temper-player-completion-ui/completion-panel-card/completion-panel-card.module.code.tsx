@@ -5,12 +5,12 @@ import { buildNodePath } from "@akasha/design-patterns/path"
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
 import { StatRow } from "@akasha/design-patterns/stat-row"
 import { useSetToggle } from "@akasha/design-patterns/use-set-toggle"
+import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import {
   ACTIVITY_CATEGORIES,
   type ActivityCategoryId,
-} from "@akasha/temper-player-completion/activity-categories"
-import { completionPercent } from "@akasha/temper-player-completion/completion-percent"
-import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
+} from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
+import { completionPercent } from "akasha/temper/temper-player-completion/completion-percent/completion-percent.module.code.ts"
 import { CheckIcon, MinusIcon } from "lucide-react"
 import type { ReactNode } from "react"
 import { useEffect, useRef, useState } from "react"

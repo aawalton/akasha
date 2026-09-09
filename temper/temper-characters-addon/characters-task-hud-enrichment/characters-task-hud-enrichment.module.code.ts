@@ -1,12 +1,12 @@
 import { LORE_LIBRARY_DATA } from "@akasha/temper-completion/lore-library-data"
+import type { TaskData } from "@akasha/temper-player-completion-state/completion-saved-variables"
+import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
 import {
   findFirstIncompleteCadwellZone,
   sortCadwellPois,
-} from "@akasha/temper-player-completion/completion-cadwell-sort"
-import { findFirstIncompleteLoreCollection } from "@akasha/temper-player-completion/completion-lore-collection"
-import { extractLoreKnownSet } from "@akasha/temper-player-completion/completion-lore-library-progress"
-import type { TaskData } from "@akasha/temper-player-completion-state/completion-saved-variables"
-import type { TaskProgress } from "@akasha/temper-player-completion-state/completion-task-progress"
+} from "akasha/temper/temper-player-completion/completion-cadwell-sort/completion-cadwell-sort.module.code.ts"
+import { findFirstIncompleteLoreCollection } from "akasha/temper/temper-player-completion/completion-lore-collection/completion-lore-collection.module.code.ts"
+import { extractLoreKnownSet } from "akasha/temper/temper-player-completion/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import {
   type ActiveAntiquityLead,
   collectActiveAntiquityLeads,

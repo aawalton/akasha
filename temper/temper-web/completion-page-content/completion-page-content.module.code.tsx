@@ -14,16 +14,6 @@ import { Button } from "@akasha/design-primitives/button"
 import { useDebouncedValue } from "@akasha/design-primitives/use-debounced-value"
 import { useKeyboardBinding } from "@akasha/design-primitives/use-keyboard-registry"
 import { PagesUILink as Link } from "@akasha/pages-ui/navigation-context"
-import {
-  ACTIVITY_CATEGORIES,
-  type ActivityCategoryId,
-} from "@akasha/temper-player-completion/activity-categories"
-import { getCompletionCardTab } from "@akasha/temper-player-completion/completion-card-tab"
-import {
-  isAccountMeasured,
-  isCharacterMeasured,
-  isCompanionMeasured,
-} from "@akasha/temper-player-completion/completion-measured"
 import { CompletionActivityModeContext } from "@akasha/temper-player-completion-ui/completion-activity-mode-context"
 import type {
   CompletionFilter,
@@ -31,6 +21,16 @@ import type {
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { CompletionSearchContext } from "@akasha/temper-player-completion-ui/completion-search-context"
 import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import {
+  ACTIVITY_CATEGORIES,
+  type ActivityCategoryId,
+} from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
+import { getCompletionCardTab } from "akasha/temper/temper-player-completion/completion-card-tab/completion-card-tab.module.code.ts"
+import {
+  isAccountMeasured,
+  isCharacterMeasured,
+  isCompanionMeasured,
+} from "akasha/temper/temper-player-completion/completion-measured/completion-measured.module.code.ts"
 import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 import { CompletionAccountTab } from "../completion-account-tab/completion-account-tab.module.code.tsx"

@@ -121,7 +121,6 @@
     "@akasha/temper-character-sources": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-equipment-kinds": "workspace:*",
-    "@akasha/temper-player-completion": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",
     "@akasha/utils": "workspace:*",

@@ -1,4 +1,3 @@
-import type { CompletionOverride } from "@akasha/temper-player-completion/completion-override"
 import type {
   CharactersConfigGlobal,
   SavedVariablesData,
@@ -6,6 +5,7 @@ import type {
 } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import { getSavedVariables } from "@akasha/temper-player-completion-state/completion-saved-variables"
 import { isObjectRecord } from "@akasha/utils/narrow/is-object-record"
+import type { CompletionOverride } from "akasha/temper/temper-player-completion/completion-override/completion-override.module.code.ts"
 
 export interface CharactersConfigView {
   characterPriority: SavedVariablesData["characterPriority"] | readonly string[]

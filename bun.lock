@@ -55,7 +55,6 @@
         "@akasha/temper-items-core": "workspace:*",
         "@akasha/temper-items-rules-core": "workspace:*",
         "@akasha/temper-items-rules-eval": "workspace:*",
-        "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/temper-player-completion-ui": "workspace:*",
         "@akasha/temper-races": "workspace:*",
@@ -956,7 +955,6 @@
         "@akasha/temper-character-sources": "workspace:*",
         "@akasha/temper-companions-core": "workspace:*",
         "@akasha/temper-equipment-kinds": "workspace:*",
-        "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
         "@akasha/temper-skill-lines": "workspace:*",
         "@akasha/utils": "workspace:*",
@@ -1147,7 +1145,6 @@
       "name": "@akasha/temper-player-completion-state",
       "dependencies": {
         "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-player-completion": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
     },
@@ -1206,7 +1203,6 @@
         "@akasha/temper-addon-init": "workspace:*",
         "@akasha/temper-companions-addon": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-player-completion-state": "workspace:*",
         "@akasha/utils": "workspace:*",
       },
@@ -1378,20 +1374,6 @@
         "@akasha/temper-settings-panel": "workspace:*",
       },
     },
-    "temper/temper-player-completion": {
-      "name": "@akasha/temper-player-completion",
-      "dependencies": {
-        "@akasha/temper-companions-core": "workspace:*",
-        "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-equipment": "workspace:*",
-        "@akasha/temper-formula-framework": "workspace:*",
-        "@akasha/temper-races": "workspace:*",
-        "@akasha/temper-skill-kinds": "workspace:*",
-        "@akasha/temper-skill-lines": "workspace:*",
-        "@akasha/utils": "workspace:*",
-        "fast-check": "^4.5.3",
-      },
-    },
     "temper/temper-player-completion-ui": {
       "name": "@akasha/temper-player-completion-ui",
       "dependencies": {
@@ -1400,7 +1382,6 @@
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/temper-completion": "workspace:*",
-        "@akasha/temper-player-completion": "workspace:*",
         "lucide-react": "^0.576.0",
       },
       "peerDependencies": {
@@ -1456,7 +1437,6 @@
         "@akasha/temper-equipment-kinds": "workspace:*",
         "@akasha/temper-formula-framework": "workspace:*",
         "@akasha/temper-items-core": "workspace:*",
-        "@akasha/temper-player-completion": "workspace:*",
         "@akasha/temper-player-completion-ui": "workspace:*",
         "@akasha/temper-races": "workspace:*",
         "@akasha/temper-skill-kinds": "workspace:*",
@@ -1780,8 +1760,6 @@
     "@akasha/temper-lib-zone": ["@akasha/temper-lib-zone@workspace:temper/lib-zone"],
 
     "@akasha/temper-navigation-addon": ["@akasha/temper-navigation-addon@workspace:temper/temper-navigation-addon"],
-
-    "@akasha/temper-player-completion": ["@akasha/temper-player-completion@workspace:temper/temper-player-completion"],
 
     "@akasha/temper-player-completion-state": ["@akasha/temper-player-completion-state@workspace:temper/player-completion-state"],
 

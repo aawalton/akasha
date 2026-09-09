@@ -1,7 +1,4 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
-import type { AccountTraitResearchUnionProgress } from "@akasha/temper-player-completion/completion-account-trait-union"
-import type { AccountCardId } from "@akasha/temper-player-completion/completion-card-registry"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -10,6 +7,9 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
+import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
+import type { AccountTraitResearchUnionProgress } from "akasha/temper/temper-player-completion/completion-account-trait-union/completion-account-trait-union.module.code.ts"
+import type { AccountCardId } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 
 interface AccountTraitResearchPanelCardProps {
   id?: AccountCardId

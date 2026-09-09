@@ -1,14 +1,4 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import type {
-  AccountSummaryData,
-  CharacterSummaryData,
-  CompanionSummaryData,
-} from "@akasha/temper-player-completion/completion-card-registry"
-import {
-  sumAccountScope,
-  sumCharacterScope,
-  sumCompanionScope,
-} from "@akasha/temper-player-completion/completion-scope-rollup"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -16,6 +6,16 @@ import {
   type CompletionSortMode,
   createNodeFilter,
 } from "@akasha/temper-player-completion-ui/completion-panel-card"
+import type {
+  AccountSummaryData,
+  CharacterSummaryData,
+  CompanionSummaryData,
+} from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import {
+  sumAccountScope,
+  sumCharacterScope,
+  sumCompanionScope,
+} from "akasha/temper/temper-player-completion/completion-scope-rollup/completion-scope-rollup.module.code.ts"
 
 interface OverallSummaryPanelCardProps {
   accountSummary: AccountSummaryData

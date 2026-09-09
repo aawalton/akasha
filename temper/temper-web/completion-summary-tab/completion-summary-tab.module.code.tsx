@@ -10,12 +10,12 @@ import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { SortButton } from "@akasha/design-patterns/sort-button"
 import { TabsContent } from "@akasha/design-patterns/tabs"
+import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type {
   AccountSummaryData,
   CharacterSummaryData,
   CompanionSummaryData,
-} from "@akasha/temper-player-completion/completion-card-registry"
-import { BadgeToggleGroup } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+} from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { useState } from "react"
 import { AccountSummaryPanelCard } from "../account-summary-panel-card/account-summary-panel-card.module.code.tsx"
 import { CharactersSummaryPanelCard } from "../characters-summary-panel-card/characters-summary-panel-card.module.code.tsx"

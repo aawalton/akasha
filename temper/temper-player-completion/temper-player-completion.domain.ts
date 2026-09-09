@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperPlayerCompletion = {
   id: "01a06103-061c-7f39-82ee-5a83ddec0f3d",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-player-completion",
   definition: "how much of The Elder Scrolls Online one player has finished, reckoned card by card",
-  manifest: "json",
   parts: [
     "module/completion-category-tree-types",
     "module/completion-category-tree",
@@ -95,4 +94,4 @@ export const temperPlayerCompletion = {
       statement: "A completion card is the unit a player is measured by.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

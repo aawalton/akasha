@@ -9,8 +9,8 @@ import {
 } from "@akasha/pages-core/task-lifecycle"
 import type { Row } from "@akasha/pages-service/asking"
 import { askingFor } from "@akasha/pages-service/calling"
-import { isCumulativeCard } from "@akasha/temper-player-completion/completion-card-reset-behavior"
 import { getEsoDayStr } from "akasha/alan/harness/day/eso-day/eso-day.module.code.ts"
+import { isCumulativeCard } from "akasha/temper/temper-player-completion/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 import { log, logError } from "../watcher-logging/watcher-logging.module.code.ts"
 import {
   type SignedInReader,

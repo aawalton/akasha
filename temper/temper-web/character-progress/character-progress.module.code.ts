@@ -1,20 +1,25 @@
 import type {
+  useAccountCompletion,
+  useCompletionCharacters,
+} from "@akasha/temper-player-completion-ui/use-completion"
+import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type {
   AchievementTallyCategory,
   CharacterAchievementProgressResult,
-} from "@akasha/temper-player-completion/completion-achievement-progress"
+} from "akasha/temper/temper-player-completion/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import {
   achievementTally,
   transformCharacterAchievementProgress,
-} from "@akasha/temper-player-completion/completion-achievement-progress"
-import { transformCadwellProgress } from "@akasha/temper-player-completion/completion-cadwell-progress"
-import type { CharacterSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
-import { transformDailyWritsProgress } from "@akasha/temper-player-completion/completion-daily-writs-progress"
-import { transformLoreLibraryProgress } from "@akasha/temper-player-completion/completion-lore-library-progress"
-import { transformPoiProgress } from "@akasha/temper-player-completion/completion-poi-progress"
-import { transformQuestProgress } from "@akasha/temper-player-completion/completion-quest-progress"
-import { transformSkillPointsProgress } from "@akasha/temper-player-completion/completion-skill-points-progress"
-import { buildCharacterSummary } from "@akasha/temper-player-completion/completion-summary"
-import { transformCompletionCharacters } from "@akasha/temper-player-completion/completion-transforms"
+} from "akasha/temper/temper-player-completion/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import { transformCadwellProgress } from "akasha/temper/temper-player-completion/completion-cadwell-progress/completion-cadwell-progress.module.code.ts"
+import type { CharacterSummaryData } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import { transformDailyWritsProgress } from "akasha/temper/temper-player-completion/completion-daily-writs-progress/completion-daily-writs-progress.module.code.ts"
+import { transformLoreLibraryProgress } from "akasha/temper/temper-player-completion/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
+import { transformPoiProgress } from "akasha/temper/temper-player-completion/completion-poi-progress/completion-poi-progress.module.code.ts"
+import { transformQuestProgress } from "akasha/temper/temper-player-completion/completion-quest-progress/completion-quest-progress.module.code.ts"
+import { transformSkillPointsProgress } from "akasha/temper/temper-player-completion/completion-skill-points-progress/completion-skill-points-progress.module.code.ts"
+import { buildCharacterSummary } from "akasha/temper/temper-player-completion/completion-summary/completion-summary.module.code.ts"
+import { transformCompletionCharacters } from "akasha/temper/temper-player-completion/completion-transforms/completion-transforms.module.code.ts"
 import type {
   AccountLoreProgress,
   CharacterCadwellProgress,
@@ -32,13 +37,8 @@ import type {
   CharacterTraitResearchProgress,
   CharacterZoneCompletionProgress,
   CompletionCharacter,
-} from "@akasha/temper-player-completion/completion-ui-types"
-import { transformZoneCompletionProgress } from "@akasha/temper-player-completion/completion-zone-progress"
-import type {
-  useAccountCompletion,
-  useCompletionCharacters,
-} from "@akasha/temper-player-completion-ui/use-completion"
-import type { BadgeToggleGroupItem } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+} from "akasha/temper/temper-player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import { transformZoneCompletionProgress } from "akasha/temper/temper-player-completion/completion-zone-progress/completion-zone-progress.module.code.ts"
 import type { CharacterSkillMorphProgress } from "akasha/temper/temper-skill-morphs/morph-progress-types/morph-progress-types.module.code.ts"
 import { useMemo } from "react"
 import type { CompletionCatalogs } from "../use-completion-catalogs/use-completion-catalogs.module.code.ts"

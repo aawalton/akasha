@@ -1,22 +1,22 @@
-import type { AccountQuestUnionProgress } from "@akasha/temper-player-completion/completion-account-union-progress"
-import { transformCompanionQuestUnion } from "@akasha/temper-player-completion/completion-account-union-progress"
-import type { CompanionSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
+import type {
+  useCompletionCharacters,
+  useCompletionCompanions,
+} from "@akasha/temper-player-completion-ui/use-completion"
+import type { AccountQuestUnionProgress } from "akasha/temper/temper-player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
+import { transformCompanionQuestUnion } from "akasha/temper/temper-player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
+import type { CompanionSummaryData } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import {
   transformCharacterCompanionRapport,
   transformCompanionProgress,
-} from "@akasha/temper-player-completion/completion-companion-progress"
-import { transformCompanionQuestProgress } from "@akasha/temper-player-completion/completion-quest-progress"
-import { buildCompanionSummary } from "@akasha/temper-player-completion/completion-summary-companion"
+} from "akasha/temper/temper-player-completion/completion-companion-progress/completion-companion-progress.module.code.ts"
+import { transformCompanionQuestProgress } from "akasha/temper/temper-player-completion/completion-quest-progress/completion-quest-progress.module.code.ts"
+import { buildCompanionSummary } from "akasha/temper/temper-player-completion/completion-summary-companion/completion-summary-companion.module.code.ts"
 import type {
   CharacterCompanionRapportProgress,
   CharacterQuestProgress,
   CompanionProgressEntry,
   CompanionSkillLineProgress,
-} from "@akasha/temper-player-completion/completion-ui-types"
-import type {
-  useCompletionCharacters,
-  useCompletionCompanions,
-} from "@akasha/temper-player-completion-ui/use-completion"
+} from "akasha/temper/temper-player-completion/completion-ui-types/completion-ui-types.module.code.ts"
 import { useMemo } from "react"
 
 export interface CompanionProgressData {

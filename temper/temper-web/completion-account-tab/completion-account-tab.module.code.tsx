@@ -20,12 +20,12 @@ import { SortButton } from "@akasha/design-patterns/sort-button"
 import { TabsContent } from "@akasha/design-patterns/tabs"
 import { Button } from "@akasha/design-primitives/button"
 import { Card, CardContent } from "@akasha/design-primitives/card"
-import type { ActivityCategoryId } from "@akasha/temper-player-completion/activity-categories"
-import type { AccountSummaryData } from "@akasha/temper-player-completion/completion-card-registry"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
+import type { AccountSummaryData } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
 import { Globe } from "lucide-react"
 import { useState } from "react"
 import {
