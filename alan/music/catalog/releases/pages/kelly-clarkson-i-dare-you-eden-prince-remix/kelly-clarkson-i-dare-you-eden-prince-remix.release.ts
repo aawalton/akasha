@@ -5,7 +5,7 @@ export const kellyClarksonIDareYouEdenPrinceRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-dare-you-eden-prince-remix",
   title: "I Dare You (Eden Prince Remix)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 6.569683,
   ownProgress: 6.569683,

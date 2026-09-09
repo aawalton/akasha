@@ -5,7 +5,7 @@ export const pentatonixHappyNow = {
   pageTypeSlug: "release",
   slug: "pentatonix-happy-now",
   title: "Happy Now",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.435583,
   ownProgress: 3.435583,

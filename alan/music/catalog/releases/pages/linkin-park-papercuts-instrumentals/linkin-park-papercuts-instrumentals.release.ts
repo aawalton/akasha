@@ -5,7 +5,7 @@ export const linkinParkPapercutsInstrumentals = {
   pageTypeSlug: "release",
   slug: "linkin-park-papercuts-instrumentals",
   title: "Papercuts: Instrumentals",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 67.873667,
   ownProgress: 0,

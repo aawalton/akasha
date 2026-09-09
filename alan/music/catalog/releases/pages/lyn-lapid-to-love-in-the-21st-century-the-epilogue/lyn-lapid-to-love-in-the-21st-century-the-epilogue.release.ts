@@ -5,7 +5,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogue = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-to-love-in-the-21st-century-the-epilogue",
   title: "to love in the 21st century: the epilogue",
-  partOfCollectionSlugs: ["lyn-lapid"],
+  partOfCollections: ["lyn-lapid"],
   position: 0,
   ownLength: 35.017567,
   ownProgress: 35.017567,

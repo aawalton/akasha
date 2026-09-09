@@ -5,7 +5,7 @@ export const michaelJacksonHistoryPastPresentAndFutureBookI = {
   pageTypeSlug: "release",
   slug: "michael-jackson-history-past-present-and-future-book-i",
   title: "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 148.685167,
   ownProgress: 148.685167,

@@ -5,7 +5,7 @@ export const lilithMaxIceAge = {
   pageTypeSlug: "release",
   slug: "lilith-max-ice-age",
   title: "Ice Age",
-  partOfCollectionSlugs: ["lilith-max"],
+  partOfCollections: ["lilith-max"],
   position: 0,
   ownLength: 3.141183,
   ownProgress: 3.141183,

@@ -5,7 +5,7 @@ export const lindseyStirling2SnowWaltz = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-snow-waltz",
   title: "Snow Waltz",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 45.095717,
   ownProgress: 45.095717,

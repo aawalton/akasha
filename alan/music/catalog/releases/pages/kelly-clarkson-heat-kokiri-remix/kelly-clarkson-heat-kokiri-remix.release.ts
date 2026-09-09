@@ -5,7 +5,7 @@ export const kellyClarksonHeatKokiriRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-heat-kokiri-remix",
   title: "Heat (Kokiri Remix)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.131467,
   ownProgress: 3.131467,

@@ -5,7 +5,7 @@ export const lilithMaxBornToDie = {
   pageTypeSlug: "release",
   slug: "lilith-max-born-to-die",
   title: "Born to Die",
-  partOfCollectionSlugs: ["lilith-max"],
+  partOfCollections: ["lilith-max"],
   position: 0,
   ownLength: 2.277483,
   ownProgress: 2.277483,

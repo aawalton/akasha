@@ -5,7 +5,7 @@ export const kellyClarksonIDareYouFeatMayaBuskila = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-dare-you-feat-maya-buskila",
   title: "I Dare You (בוא נראה) [feat. Maya Buskila]",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.60205,
   ownProgress: 3.60205,

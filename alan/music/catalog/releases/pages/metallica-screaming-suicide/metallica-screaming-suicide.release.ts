@@ -5,7 +5,7 @@ export const metallicaScreamingSuicide = {
   pageTypeSlug: "release",
   slug: "metallica-screaming-suicide",
   title: "Screaming Suicide",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 8.935533,
   ownProgress: 0,

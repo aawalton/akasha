@@ -5,7 +5,7 @@ export const metallicaLulu = {
   pageTypeSlug: "release",
   slug: "metallica-lulu",
   title: "Lulu",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 87.129267,
   ownProgress: 0,

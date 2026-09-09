@@ -5,7 +5,7 @@ export const metallicaSM2 = {
   pageTypeSlug: "release",
   slug: "metallica-s-m2",
   title: "S&M2",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 143.62585,
   ownProgress: 0,

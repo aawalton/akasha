@@ -5,7 +5,7 @@ export const linkinParkNumbEncoreMtvUltimateMashUpsPresentsCollisionCourse = {
   pageTypeSlug: "release",
   slug: "linkin-park-numb-encore-mtv-ultimate-mash-ups-presents-collision-course",
   title: "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 18.6682,
   ownProgress: 0,

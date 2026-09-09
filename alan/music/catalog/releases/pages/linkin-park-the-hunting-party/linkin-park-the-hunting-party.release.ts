@@ -5,7 +5,7 @@ export const linkinParkTheHuntingParty = {
   pageTypeSlug: "release",
   slug: "linkin-park-the-hunting-party",
   title: "The Hunting Party",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 45.280617,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const kellyClarksonIDareYouArkadiRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-dare-you-arkadi-remix",
   title: "I Dare You (Arkadi Remix)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 7.021133,
   ownProgress: 7.021133,

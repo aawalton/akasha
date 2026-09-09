@@ -5,7 +5,7 @@ export const mitskiSpotifySingles = {
   pageTypeSlug: "release",
   slug: "mitski-spotify-singles",
   title: "Spotify Singles",
-  partOfCollectionSlugs: ["mitski"],
+  partOfCollections: ["mitski"],
   position: 0,
   ownLength: 5.6022,
   ownProgress: 5.6022,

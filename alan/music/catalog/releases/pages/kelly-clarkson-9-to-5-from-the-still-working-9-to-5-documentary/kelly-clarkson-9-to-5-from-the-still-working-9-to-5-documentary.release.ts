@@ -5,7 +5,7 @@ export const kellyClarkson9To5FromTheStillWorking9To5Documentary = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-9-to-5-from-the-still-working-9-to-5-documentary",
   title: "9 to 5 (FROM THE STILL WORKING 9 TO 5 DOCUMENTARY)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.6091,
   ownProgress: 3.6091,

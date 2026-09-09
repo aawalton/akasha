@@ -5,7 +5,7 @@ export const kellyClarksonMrKnowItAllCountryVersion = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-mr-know-it-all-country-version",
   title: "Mr. Know It All (Country Version)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.636217,
   ownProgress: 3.636217,

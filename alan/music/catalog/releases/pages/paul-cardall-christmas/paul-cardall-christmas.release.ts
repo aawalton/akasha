@@ -5,7 +5,7 @@ export const paulCardallChristmas = {
   pageTypeSlug: "release",
   slug: "paul-cardall-christmas",
   title: "Christmas",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 56.990683,
   ownProgress: 56.990683,

@@ -5,7 +5,7 @@ export const nickelCreek2WhenYouComeBackDownLive = {
   pageTypeSlug: "release",
   slug: "nickel-creek-2-when-you-come-back-down-live",
   title: "When You Come Back Down (Live)",
-  partOfCollectionSlugs: ["nickel-creek-2"],
+  partOfCollections: ["nickel-creek-2"],
   position: 0,
   ownLength: 5.061767,
   ownProgress: 5.061767,

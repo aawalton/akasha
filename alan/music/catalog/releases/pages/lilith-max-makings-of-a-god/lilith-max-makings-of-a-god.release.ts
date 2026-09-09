@@ -5,7 +5,7 @@ export const lilithMaxMakingsOfAGod = {
   pageTypeSlug: "release",
   slug: "lilith-max-makings-of-a-god",
   title: "Makings of a God",
-  partOfCollectionSlugs: ["lilith-max"],
+  partOfCollections: ["lilith-max"],
   position: 0,
   ownLength: 15.205133,
   ownProgress: 15.205133,

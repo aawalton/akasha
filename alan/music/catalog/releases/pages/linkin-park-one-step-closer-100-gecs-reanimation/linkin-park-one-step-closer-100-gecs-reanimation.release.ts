@@ -5,7 +5,7 @@ export const linkinParkOneStepCloser100GecsReanimation = {
   pageTypeSlug: "release",
   slug: "linkin-park-one-step-closer-100-gecs-reanimation",
   title: "One Step Closer (100 gecs Reanimation)",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 2.351183,
   ownProgress: 0,

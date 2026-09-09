@@ -5,7 +5,7 @@ export const pentatonixHappyBirthdayBeautiful = {
   pageTypeSlug: "release",
   slug: "pentatonix-happy-birthday-beautiful",
   title: "Happy Birthday Beautiful",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.309517,
   ownProgress: 3.309517,

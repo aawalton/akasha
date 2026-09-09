@@ -5,7 +5,7 @@ export const michaelJacksonNumberOnes = {
   pageTypeSlug: "release",
   slug: "michael-jackson-number-ones",
   title: "Number Ones",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 78.86705,
   ownProgress: 78.86705,

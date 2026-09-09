@@ -5,7 +5,7 @@ export const lindseyStirling2LivingRoomSessions = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-living-room-sessions",
   title: "Living Room Sessions",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 7.02255,
   ownProgress: 7.02255,

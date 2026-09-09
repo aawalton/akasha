@@ -5,7 +5,7 @@ export const michaelJacksonThriller = {
   pageTypeSlug: "release",
   slug: "michael-jackson-thriller",
   title: "Thriller",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 42.3666,
   ownProgress: 42.3666,

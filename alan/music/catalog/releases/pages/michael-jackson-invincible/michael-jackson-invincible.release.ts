@@ -5,7 +5,7 @@ export const michaelJacksonInvincible = {
   pageTypeSlug: "release",
   slug: "michael-jackson-invincible",
   title: "Invincible",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 76.923283,
   ownProgress: 76.923283,

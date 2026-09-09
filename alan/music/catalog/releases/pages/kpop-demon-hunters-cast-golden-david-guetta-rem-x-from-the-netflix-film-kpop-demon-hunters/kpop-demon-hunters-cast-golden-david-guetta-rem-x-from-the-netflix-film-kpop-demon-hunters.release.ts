@@ -5,7 +5,7 @@ export const kpopDemonHuntersCastGoldenDavidGuettaRemXFromTheNetflixFilmKpopDemo
   pageTypeSlug: "release",
   slug: "kpop-demon-hunters-cast-golden-david-guetta-rem-x-from-the-netflix-film-kpop-demon-hunters",
   title: "Golden [David Guetta REM/X (from the Netflix film KPop Demon Hunters)]",
-  partOfCollectionSlugs: ["kpop-demon-hunters-cast"],
+  partOfCollections: ["kpop-demon-hunters-cast"],
   position: 0,
   ownLength: 10.097617,
   ownProgress: 10.097617,

@@ -5,7 +5,7 @@ export const pentatonixBeMyEyes = {
   pageTypeSlug: "release",
   slug: "pentatonix-be-my-eyes",
   title: "Be My Eyes",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.404433,
   ownProgress: 3.404433,

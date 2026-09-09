@@ -5,7 +5,7 @@ export const kellyClarksonLoveSoSoftCedricGervaisRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-love-so-soft-cedric-gervais-remix",
   title: "Love So Soft (Cedric Gervais Remix)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.259167,
   ownProgress: 3.259167,

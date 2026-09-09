@@ -5,7 +5,7 @@ export const paulCardallBeThouMyVision = {
   pageTypeSlug: "release",
   slug: "paul-cardall-be-thou-my-vision",
   title: "Be Thou My Vision",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 4.141667,
   ownProgress: 4.141667,

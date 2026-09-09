@@ -5,7 +5,7 @@ export const kellyClarksonHappierThanEver = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-happier-than-ever",
   title: "Happier Than Ever",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 6.331883,
   ownProgress: 6.331883,

@@ -5,7 +5,7 @@ export const paulCardallLivingForEden = {
   pageTypeSlug: "release",
   slug: "paul-cardall-living-for-eden",
   title: "Living For Eden",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 88.707,
   ownProgress: 88.707,

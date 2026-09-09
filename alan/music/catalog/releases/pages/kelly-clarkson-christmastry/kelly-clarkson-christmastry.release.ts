@@ -5,7 +5,7 @@ export const kellyClarksonChristmastry = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-christmastry",
   title: "Christmastry",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 18.449,
   ownProgress: 18.449,

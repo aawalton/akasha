@@ -5,7 +5,7 @@ export const linkinParkFriendlyFireACappellaInstrumental = {
   pageTypeSlug: "release",
   slug: "linkin-park-friendly-fire-a-cappella-instrumental",
   title: "Friendly Fire: A Cappella + Instrumental",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 5.922483,
   ownProgress: 0,

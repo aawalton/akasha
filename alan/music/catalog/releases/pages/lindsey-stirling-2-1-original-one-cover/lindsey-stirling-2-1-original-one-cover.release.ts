@@ -5,7 +5,7 @@ export const lindseyStirling21OriginalOneCover = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-1-original-one-cover",
   title: "1 Original, ONE Cover",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 7.500433,
   ownProgress: 7.500433,

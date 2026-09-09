@@ -5,7 +5,7 @@ export const michaelJacksonImmortal = {
   pageTypeSlug: "release",
   slug: "michael-jackson-immortal",
   title: "Immortal",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 102.801833,
   ownProgress: 102.801833,

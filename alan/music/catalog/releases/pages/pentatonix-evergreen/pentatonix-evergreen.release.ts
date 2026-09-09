@@ -5,7 +5,7 @@ export const pentatonixEvergreen = {
   pageTypeSlug: "release",
   slug: "pentatonix-evergreen",
   title: "Evergreen",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 39.5988,
   ownProgress: 39.5988,

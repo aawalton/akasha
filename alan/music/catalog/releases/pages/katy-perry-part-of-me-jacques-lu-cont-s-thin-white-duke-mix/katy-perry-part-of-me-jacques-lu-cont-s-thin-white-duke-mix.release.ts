@@ -5,7 +5,7 @@ export const katyPerryPartOfMeJacquesLuContSThinWhiteDukeMix = {
   pageTypeSlug: "release",
   slug: "katy-perry-part-of-me-jacques-lu-cont-s-thin-white-duke-mix",
   title: "Part Of Me (Jacques Lu Cont's Thin White Duke Mix)",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 6.035417,
   ownProgress: 6.035417,

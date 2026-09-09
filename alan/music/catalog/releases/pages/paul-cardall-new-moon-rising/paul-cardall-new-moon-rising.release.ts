@@ -5,7 +5,7 @@ export const paulCardallNewMoonRising = {
   pageTypeSlug: "release",
   slug: "paul-cardall-new-moon-rising",
   title: "New Moon Rising",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 3.62155,
   ownProgress: 3.62155,

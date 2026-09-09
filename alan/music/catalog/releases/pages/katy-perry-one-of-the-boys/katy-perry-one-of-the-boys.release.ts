@@ -5,7 +5,7 @@ export const katyPerryOneOfTheBoys = {
   pageTypeSlug: "release",
   slug: "katy-perry-one-of-the-boys",
   title: "One Of The Boys",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 43.68565,
   ownProgress: 43.68565,

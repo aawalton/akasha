@@ -5,7 +5,7 @@ export const nsync2NSyncUkVersion = {
   pageTypeSlug: "release",
   slug: "nsync-2-n-sync-uk-version",
   title: "'N Sync UK Version",
-  partOfCollectionSlugs: ["nsync-2"],
+  partOfCollections: ["nsync-2"],
   position: 0,
   ownLength: 52.818367,
   ownProgress: 52.818367,

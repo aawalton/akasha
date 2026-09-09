@@ -5,7 +5,7 @@ export const linkinParkDarkerThanTheLightThatNeverBleedsChesterForeverSteveAokiR
   pageTypeSlug: "release",
   slug: "linkin-park-darker-than-the-light-that-never-bleeds-chester-forever-steve-aoki-remix",
   title: "Darker Than The Light That Never Bleeds (Chester Forever Steve Aoki Remix)",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 4.064,
   ownProgress: 0,

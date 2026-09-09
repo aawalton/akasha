@@ -5,7 +5,7 @@ export const pentatonixChristmasInTheCity = {
   pageTypeSlug: "release",
   slug: "pentatonix-christmas-in-the-city",
   title: "Christmas in the City",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 46.091167,
   ownProgress: 46.091167,

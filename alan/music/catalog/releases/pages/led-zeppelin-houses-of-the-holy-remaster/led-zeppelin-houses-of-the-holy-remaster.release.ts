@@ -5,7 +5,7 @@ export const ledZeppelinHousesOfTheHolyRemaster = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-houses-of-the-holy-remaster",
   title: "Houses of the Holy (Remaster)",
-  partOfCollectionSlugs: ["led-zeppelin"],
+  partOfCollections: ["led-zeppelin"],
   position: 0,
   ownLength: 40.94915,
   ownProgress: 0,

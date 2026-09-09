@@ -5,7 +5,7 @@ export const lynLapidILlBeHappyWhen = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-i-ll-be-happy-when",
   title: "i'll be happy when",
-  partOfCollectionSlugs: ["lyn-lapid"],
+  partOfCollections: ["lyn-lapid"],
   position: 0,
   ownLength: 2.942883,
   ownProgress: 2.942883,

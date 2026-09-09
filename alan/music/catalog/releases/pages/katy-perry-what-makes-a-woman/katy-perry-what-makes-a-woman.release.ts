@@ -5,7 +5,7 @@ export const katyPerryWhatMakesAWoman = {
   pageTypeSlug: "release",
   slug: "katy-perry-what-makes-a-woman",
   title: "What Makes A Woman",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 2.18785,
   ownProgress: 2.18785,

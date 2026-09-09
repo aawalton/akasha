@@ -5,7 +5,7 @@ export const kellyClarksonHeatPaulMorrellRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-heat-paul-morrell-remix",
   title: "Heat (Paul Morrell Remix)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.335633,
   ownProgress: 3.335633,

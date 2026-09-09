@@ -5,7 +5,7 @@ export const ledZeppelinInThroughTheOutDoorRemaster = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-in-through-the-out-door-remaster",
   title: "In Through the out Door (Remaster)",
-  partOfCollectionSlugs: ["led-zeppelin"],
+  partOfCollections: ["led-zeppelin"],
   position: 0,
   ownLength: 42.616633,
   ownProgress: 0,

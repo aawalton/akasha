@@ -5,7 +5,7 @@ export const kellyClarksonIDonTThinkAboutYou = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-don-t-think-about-you",
   title: "I Don't Think About You",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.736883,
   ownProgress: 3.736883,

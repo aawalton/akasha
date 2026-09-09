@@ -5,7 +5,7 @@ export const nickelCreek2LiveFromTheFoxTheater = {
   pageTypeSlug: "release",
   slug: "nickel-creek-2-live-from-the-fox-theater",
   title: "Live from the Fox Theater",
-  partOfCollectionSlugs: ["nickel-creek-2"],
+  partOfCollections: ["nickel-creek-2"],
   position: 0,
   ownLength: 110.924383,
   ownProgress: 110.924383,

@@ -5,7 +5,7 @@ export const lindseyStirling2GratefulStringSessions = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-grateful-string-sessions",
   title: "Grateful (String Sessions)",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 8.590033,
   ownProgress: 8.590033,

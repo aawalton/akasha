@@ -5,7 +5,7 @@ export const katyPerrySwishSwishBlondeRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-swish-swish-blonde-remix",
   title: "Swish Swish (Blonde Remix)",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 4.108,
   ownProgress: 4.108,

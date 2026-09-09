@@ -5,7 +5,7 @@ export const pentatonixFirst = {
   pageTypeSlug: "release",
   slug: "pentatonix-first",
   title: "First",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 17.234367,
   ownProgress: 17.234367,

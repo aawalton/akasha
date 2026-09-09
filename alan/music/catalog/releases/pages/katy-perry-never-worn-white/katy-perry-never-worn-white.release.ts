@@ -5,7 +5,7 @@ export const katyPerryNeverWornWhite = {
   pageTypeSlug: "release",
   slug: "katy-perry-never-worn-white",
   title: "Never Worn White",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 3.75065,
   ownProgress: 3.75065,

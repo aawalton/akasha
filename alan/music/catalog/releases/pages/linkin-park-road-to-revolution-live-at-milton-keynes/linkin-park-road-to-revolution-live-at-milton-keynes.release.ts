@@ -5,7 +5,7 @@ export const linkinParkRoadToRevolutionLiveAtMiltonKeynes = {
   pageTypeSlug: "release",
   slug: "linkin-park-road-to-revolution-live-at-milton-keynes",
   title: "Road to Revolution (Live at Milton Keynes)",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 77.45035,
   ownProgress: 0,

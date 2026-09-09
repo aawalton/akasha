@@ -5,7 +5,7 @@ export const leonardCohenRecentSongs = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-recent-songs",
   title: "Recent Songs",
-  partOfCollectionSlugs: ["leonard-cohen"],
+  partOfCollections: ["leonard-cohen"],
   position: 0,
   ownLength: 53.34905,
   ownProgress: 0,

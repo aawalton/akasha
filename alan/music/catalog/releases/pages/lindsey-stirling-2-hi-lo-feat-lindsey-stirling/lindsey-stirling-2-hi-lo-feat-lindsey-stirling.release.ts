@@ -5,7 +5,7 @@ export const lindseyStirling2HiLoFeatLindseyStirling = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-hi-lo-feat-lindsey-stirling",
   title: "Hi-Lo (feat. Lindsey Stirling)",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 4.27245,
   ownProgress: 4.27245,

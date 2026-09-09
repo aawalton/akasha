@@ -5,7 +5,7 @@ export const lynLapidInfinite = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-infinite",
   title: "Infinite",
-  partOfCollectionSlugs: ["lyn-lapid"],
+  partOfCollections: ["lyn-lapid"],
   position: 0,
   ownLength: 3.7906,
   ownProgress: 3.7906,

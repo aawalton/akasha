@@ -5,7 +5,7 @@ export const linkinParkFromZero = {
   pageTypeSlug: "release",
   slug: "linkin-park-from-zero",
   title: "From Zero",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 31.975517,
   ownProgress: 0,

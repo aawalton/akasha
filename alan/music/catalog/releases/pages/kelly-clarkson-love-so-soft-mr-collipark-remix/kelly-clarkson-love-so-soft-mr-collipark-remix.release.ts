@@ -5,7 +5,7 @@ export const kellyClarksonLoveSoSoftMrColliparkRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-love-so-soft-mr-collipark-remix",
   title: "Love So Soft (Mr. Collipark Remix)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 2.84,
   ownProgress: 2.84,

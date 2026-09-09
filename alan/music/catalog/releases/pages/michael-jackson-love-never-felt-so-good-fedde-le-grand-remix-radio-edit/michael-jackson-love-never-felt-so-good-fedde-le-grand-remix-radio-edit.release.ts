@@ -5,7 +5,7 @@ export const michaelJacksonLoveNeverFeltSoGoodFeddeLeGrandRemixRadioEdit = {
   pageTypeSlug: "release",
   slug: "michael-jackson-love-never-felt-so-good-fedde-le-grand-remix-radio-edit",
   title: "Love Never Felt So Good (Fedde Le Grand Remix Radio Edit)",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 3.43625,
   ownProgress: 3.43625,

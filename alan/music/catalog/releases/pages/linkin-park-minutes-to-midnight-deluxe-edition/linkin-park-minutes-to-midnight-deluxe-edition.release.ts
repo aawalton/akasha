@@ -5,7 +5,7 @@ export const linkinParkMinutesToMidnightDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "linkin-park-minutes-to-midnight-deluxe-edition",
   title: "Minutes to Midnight (Deluxe Edition)",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 57.40455,
   ownProgress: 0,

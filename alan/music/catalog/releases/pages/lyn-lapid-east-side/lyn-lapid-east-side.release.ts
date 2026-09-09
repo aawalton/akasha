@@ -5,7 +5,7 @@ export const lynLapidEastSide = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-east-side",
   title: "east side",
-  partOfCollectionSlugs: ["lyn-lapid"],
+  partOfCollections: ["lyn-lapid"],
   position: 0,
   ownLength: 2.759633,
   ownProgress: 2.759633,

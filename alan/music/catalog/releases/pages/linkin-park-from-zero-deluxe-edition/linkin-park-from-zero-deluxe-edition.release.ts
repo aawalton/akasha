@@ -5,7 +5,7 @@ export const linkinParkFromZeroDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "linkin-park-from-zero-deluxe-edition",
   title: "From Zero (Deluxe Edition)",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 41.77675,
   ownProgress: 0,

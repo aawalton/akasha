@@ -5,7 +5,7 @@ export const kellyClarksonIDareYouGozziRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-dare-you-gozzi-remix",
   title: "I Dare You (Gozzi Remix)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 6.785633,
   ownProgress: 6.785633,

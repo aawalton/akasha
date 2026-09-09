@@ -5,7 +5,7 @@ export const metallicaReload = {
   pageTypeSlug: "release",
   slug: "metallica-reload",
   title: "Reload",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 76.07995,
   ownProgress: 0,

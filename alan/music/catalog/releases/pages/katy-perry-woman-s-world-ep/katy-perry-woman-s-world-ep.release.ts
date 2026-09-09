@@ -5,7 +5,7 @@ export const katyPerryWomanSWorldEp = {
   pageTypeSlug: "release",
   slug: "katy-perry-woman-s-world-ep",
   title: "WOMAN’S WORLD EP",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 17.596067,
   ownProgress: 17.596067,

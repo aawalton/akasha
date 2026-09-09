@@ -5,7 +5,7 @@ export const paulCardallDailyDevotions = {
   pageTypeSlug: "release",
   slug: "paul-cardall-daily-devotions",
   title: "Daily Devotions",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 39.7548,
   ownProgress: 39.7548,

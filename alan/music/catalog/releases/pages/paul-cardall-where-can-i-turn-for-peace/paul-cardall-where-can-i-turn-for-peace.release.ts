@@ -5,7 +5,7 @@ export const paulCardallWhereCanITurnForPeace = {
   pageTypeSlug: "release",
   slug: "paul-cardall-where-can-i-turn-for-peace",
   title: "Where Can I Turn for Peace?",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 3.916667,
   ownProgress: 3.916667,

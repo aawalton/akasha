@@ -5,7 +5,7 @@ export const lynLapidBuzzkillForever = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-buzzkill-forever",
   title: "BUZZKILL (forever)",
-  partOfCollectionSlugs: ["lyn-lapid"],
+  partOfCollections: ["lyn-lapid"],
   position: 0,
   ownLength: 46.137733,
   ownProgress: 46.137733,

@@ -5,7 +5,7 @@ export const paulCardallPachelbelSCanonInD = {
   pageTypeSlug: "release",
   slug: "paul-cardall-pachelbel-s-canon-in-d",
   title: "Pachelbel's Canon in D",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 3.23705,
   ownProgress: 3.23705,

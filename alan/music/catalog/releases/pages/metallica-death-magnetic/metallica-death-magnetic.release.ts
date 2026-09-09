@@ -5,7 +5,7 @@ export const metallicaDeathMagnetic = {
   pageTypeSlug: "release",
   slug: "metallica-death-magnetic",
   title: "Death Magnetic",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 74.750833,
   ownProgress: 0,

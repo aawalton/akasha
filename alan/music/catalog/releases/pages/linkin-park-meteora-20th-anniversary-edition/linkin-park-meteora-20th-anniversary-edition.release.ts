@@ -5,7 +5,7 @@ export const linkinParkMeteora20thAnniversaryEdition = {
   pageTypeSlug: "release",
   slug: "linkin-park-meteora-20th-anniversary-edition",
   title: "Meteora 20th Anniversary Edition",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 301.08035,
   ownProgress: 0,

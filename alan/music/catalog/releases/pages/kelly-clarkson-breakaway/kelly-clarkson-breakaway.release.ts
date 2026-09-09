@@ -5,7 +5,7 @@ export const kellyClarksonBreakaway = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-breakaway",
   title: "Breakaway",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 44.797033,
   ownProgress: 44.797033,

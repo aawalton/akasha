@@ -5,7 +5,7 @@ export const linkinParkHybridTheoryBonusEdition = {
   pageTypeSlug: "release",
   slug: "linkin-park-hybrid-theory-bonus-edition",
   title: "Hybrid Theory (Bonus Edition)",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 49.144383,
   ownProgress: 0,

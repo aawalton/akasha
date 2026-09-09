@@ -5,7 +5,7 @@ export const pentatonixComeAlong = {
   pageTypeSlug: "release",
   slug: "pentatonix-come-along",
   title: "Come Along",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.015833,
   ownProgress: 3.015833,

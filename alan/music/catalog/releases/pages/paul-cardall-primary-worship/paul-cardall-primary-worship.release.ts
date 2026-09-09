@@ -5,7 +5,7 @@ export const paulCardallPrimaryWorship = {
   pageTypeSlug: "release",
   slug: "paul-cardall-primary-worship",
   title: "Primary Worship",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 52.410383,
   ownProgress: 52.410383,

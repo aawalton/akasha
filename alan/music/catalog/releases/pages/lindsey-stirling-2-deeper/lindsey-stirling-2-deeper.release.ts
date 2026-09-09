@@ -5,7 +5,7 @@ export const lindseyStirling2Deeper = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-deeper",
   title: "Deeper",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 3.089333,
   ownProgress: 3.089333,

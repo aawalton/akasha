@@ -5,7 +5,7 @@ export const paulCardallSeptemberWinds = {
   pageTypeSlug: "release",
   slug: "paul-cardall-september-winds",
   title: "September Winds",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 3.804167,
   ownProgress: 3.804167,

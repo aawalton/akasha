@@ -5,7 +5,7 @@ export const lindseyStirling2BestOfChristmasClassics = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-best-of-christmas-classics",
   title: "Best Of Christmas Classics",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 79.0825,
   ownProgress: 79.0825,

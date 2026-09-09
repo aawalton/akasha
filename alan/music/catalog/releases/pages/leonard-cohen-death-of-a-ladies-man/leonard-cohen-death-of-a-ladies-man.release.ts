@@ -5,7 +5,7 @@ export const leonardCohenDeathOfALadiesMan = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-death-of-a-ladies-man",
   title: "Death Of A Ladies' Man",
-  partOfCollectionSlugs: ["leonard-cohen"],
+  partOfCollections: ["leonard-cohen"],
   position: 0,
   ownLength: 42.552183,
   ownProgress: 0,

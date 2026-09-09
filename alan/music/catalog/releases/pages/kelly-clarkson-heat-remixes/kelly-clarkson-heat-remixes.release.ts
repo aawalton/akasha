@@ -5,7 +5,7 @@ export const kellyClarksonHeatRemixes = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-heat-remixes",
   title: "Heat (Remixes)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 26.104617,
   ownProgress: 26.104617,

@@ -5,7 +5,7 @@ export const katyPerryPartOfMe = {
   pageTypeSlug: "release",
   slug: "katy-perry-part-of-me",
   title: "Part Of Me",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 17.00535,
   ownProgress: 17.00535,

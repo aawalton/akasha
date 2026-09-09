@@ -5,7 +5,7 @@ export const pentatonixAtHome = {
   pageTypeSlug: "release",
   slug: "pentatonix-at-home",
   title: "At Home",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 18.416617,
   ownProgress: 18.416617,

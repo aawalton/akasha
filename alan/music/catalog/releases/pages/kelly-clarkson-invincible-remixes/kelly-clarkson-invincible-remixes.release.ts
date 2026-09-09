@@ -5,7 +5,7 @@ export const kellyClarksonInvincibleRemixes = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-invincible-remixes",
   title: "Invincible (Remixes)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 31.510867,
   ownProgress: 31.510867,

@@ -5,7 +5,7 @@ export const pentatonixGangnamStyleLive = {
   pageTypeSlug: "release",
   slug: "pentatonix-gangnam-style-live",
   title: "Gangnam Style (Live)",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 2.717683,
   ownProgress: 2.717683,

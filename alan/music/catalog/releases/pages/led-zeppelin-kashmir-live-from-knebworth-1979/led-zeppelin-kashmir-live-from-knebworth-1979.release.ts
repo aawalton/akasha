@@ -5,7 +5,7 @@ export const ledZeppelinKashmirLiveFromKnebworth1979 = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-kashmir-live-from-knebworth-1979",
   title: "Kashmir (Live from Knebworth, 1979)",
-  partOfCollectionSlugs: ["led-zeppelin"],
+  partOfCollections: ["led-zeppelin"],
   position: 0,
   ownLength: 9.033567,
   ownProgress: 0,

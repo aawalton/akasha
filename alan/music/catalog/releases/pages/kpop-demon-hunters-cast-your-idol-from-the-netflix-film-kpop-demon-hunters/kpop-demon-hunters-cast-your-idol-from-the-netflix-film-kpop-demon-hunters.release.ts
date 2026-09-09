@@ -5,7 +5,7 @@ export const kpopDemonHuntersCastYourIdolFromTheNetflixFilmKpopDemonHunters = {
   pageTypeSlug: "release",
   slug: "kpop-demon-hunters-cast-your-idol-from-the-netflix-film-kpop-demon-hunters",
   title: "Your Idol (from the Netflix film KPop Demon Hunters)",
-  partOfCollectionSlugs: ["kpop-demon-hunters-cast"],
+  partOfCollections: ["kpop-demon-hunters-cast"],
   position: 0,
   ownLength: 6.381467,
   ownProgress: 6.381467,

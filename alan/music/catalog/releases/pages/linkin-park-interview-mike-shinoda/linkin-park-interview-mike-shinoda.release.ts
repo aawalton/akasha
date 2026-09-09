@@ -5,7 +5,7 @@ export const linkinParkInterviewMikeShinoda = {
   pageTypeSlug: "release",
   slug: "linkin-park-interview-mike-shinoda",
   title: "Interview: Mike Shinoda",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 20.89955,
   ownProgress: 0,

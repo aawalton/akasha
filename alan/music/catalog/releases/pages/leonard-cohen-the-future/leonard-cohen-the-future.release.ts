@@ -5,7 +5,7 @@ export const leonardCohenTheFuture = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-the-future",
   title: "The Future",
-  partOfCollectionSlugs: ["leonard-cohen"],
+  partOfCollections: ["leonard-cohen"],
   position: 0,
   ownLength: 59.375517,
   ownProgress: 0,

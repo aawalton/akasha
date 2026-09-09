@@ -5,7 +5,7 @@ export const lindseyStirling2HolidayFavoritesWithLindseyStirling = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-holiday-favorites-with-lindsey-stirling",
   title: "Holiday Favorites with Lindsey Stirling",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 79.0825,
   ownProgress: 79.0825,

@@ -5,7 +5,7 @@ export const michaelJackson20thCenturyMastersTheMillenniumCollectionBestOfMichae
   pageTypeSlug: "release",
   slug: "michael-jackson-20th-century-masters-the-millennium-collection-best-of-michael-jackson",
   title: "20th Century Masters: The Millennium Collection: Best of Michael Jackson",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 36.086617,
   ownProgress: 36.086617,

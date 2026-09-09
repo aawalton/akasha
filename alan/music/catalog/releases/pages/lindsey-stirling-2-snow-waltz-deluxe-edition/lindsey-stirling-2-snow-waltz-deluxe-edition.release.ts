@@ -5,7 +5,7 @@ export const lindseyStirling2SnowWaltzDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-snow-waltz-deluxe-edition",
   title: "Snow Waltz (Deluxe Edition)",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 58.780267,
   ownProgress: 58.780267,

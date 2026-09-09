@@ -5,7 +5,7 @@ export const nickelCreek2DestinationLive = {
   pageTypeSlug: "release",
   slug: "nickel-creek-2-destination-live",
   title: "Destination (Live)",
-  partOfCollectionSlugs: ["nickel-creek-2"],
+  partOfCollections: ["nickel-creek-2"],
   position: 0,
   ownLength: 9.34765,
   ownProgress: 9.34765,

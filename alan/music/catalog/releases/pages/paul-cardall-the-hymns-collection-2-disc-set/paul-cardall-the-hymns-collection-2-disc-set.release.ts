@@ -5,7 +5,7 @@ export const paulCardallTheHymnsCollection2DiscSet = {
   pageTypeSlug: "release",
   slug: "paul-cardall-the-hymns-collection-2-disc-set",
   title: "The Hymns Collection (2 Disc Set)",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 104.653667,
   ownProgress: 104.653667,

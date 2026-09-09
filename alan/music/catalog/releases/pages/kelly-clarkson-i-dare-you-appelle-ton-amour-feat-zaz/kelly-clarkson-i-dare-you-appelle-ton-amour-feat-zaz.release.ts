@@ -5,7 +5,7 @@ export const kellyClarksonIDareYouAppelleTonAmourFeatZaz = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-dare-you-appelle-ton-amour-feat-zaz",
   title: "I Dare You (Appelle Ton Amour) [feat. Zaz]",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.636767,
   ownProgress: 3.636767,

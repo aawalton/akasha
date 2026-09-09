@@ -5,7 +5,7 @@ export const paulCardallMarySLament = {
   pageTypeSlug: "release",
   slug: "paul-cardall-mary-s-lament",
   title: "Mary's Lament",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 5.118233,
   ownProgress: 5.118233,

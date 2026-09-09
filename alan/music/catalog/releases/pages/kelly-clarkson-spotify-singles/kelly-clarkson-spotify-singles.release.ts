@@ -5,7 +5,7 @@ export const kellyClarksonSpotifySingles = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-spotify-singles",
   title: "Spotify Singles",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 6.962567,
   ownProgress: 6.962567,

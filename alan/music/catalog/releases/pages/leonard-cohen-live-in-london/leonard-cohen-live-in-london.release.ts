@@ -5,7 +5,7 @@ export const leonardCohenLiveInLondon = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-live-in-london",
   title: "Live In London",
-  partOfCollectionSlugs: ["leonard-cohen"],
+  partOfCollections: ["leonard-cohen"],
   position: 0,
   ownLength: 155.76695,
   ownProgress: 0,

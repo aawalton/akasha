@@ -5,7 +5,7 @@ export const pentatonixCreep = {
   pageTypeSlug: "release",
   slug: "pentatonix-creep",
   title: "Creep",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 2.45,
   ownProgress: 2.45,

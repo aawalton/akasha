@@ -5,7 +5,7 @@ export const pentatonixCheerleaderOmiCover = {
   pageTypeSlug: "release",
   slug: "pentatonix-cheerleader-omi-cover",
   title: "Cheerleader (OMI Cover)",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.0511,
   ownProgress: 3.0511,

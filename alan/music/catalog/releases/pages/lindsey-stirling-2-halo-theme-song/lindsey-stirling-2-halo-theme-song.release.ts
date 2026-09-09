@@ -5,7 +5,7 @@ export const lindseyStirling2HaloThemeSong = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-halo-theme-song",
   title: "Halo Theme Song",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 3.938883,
   ownProgress: 3.938883,

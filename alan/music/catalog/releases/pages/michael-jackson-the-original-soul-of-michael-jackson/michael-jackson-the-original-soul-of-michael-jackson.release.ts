@@ -5,7 +5,7 @@ export const michaelJacksonTheOriginalSoulOfMichaelJackson = {
   pageTypeSlug: "release",
   slug: "michael-jackson-the-original-soul-of-michael-jackson",
   title: "The Original Soul Of Michael Jackson",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 40.245267,
   ownProgress: 40.245267,

@@ -5,7 +5,7 @@ export const kellyClarksonReadyForLoveLive = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-ready-for-love-live",
   title: "Ready for Love (Live)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 4.30805,
   ownProgress: 4.30805,

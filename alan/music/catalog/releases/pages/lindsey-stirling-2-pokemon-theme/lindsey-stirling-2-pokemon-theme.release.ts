@@ -5,7 +5,7 @@ export const lindseyStirling2PokemonTheme = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-pokemon-theme",
   title: "Pokemon Theme",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 3.34245,
   ownProgress: 3.34245,

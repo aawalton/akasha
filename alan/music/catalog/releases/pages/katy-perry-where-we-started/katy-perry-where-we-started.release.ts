@@ -5,7 +5,7 @@ export const katyPerryWhereWeStarted = {
   pageTypeSlug: "release",
   slug: "katy-perry-where-we-started",
   title: "Where We Started",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 3.033767,
   ownProgress: 3.033767,

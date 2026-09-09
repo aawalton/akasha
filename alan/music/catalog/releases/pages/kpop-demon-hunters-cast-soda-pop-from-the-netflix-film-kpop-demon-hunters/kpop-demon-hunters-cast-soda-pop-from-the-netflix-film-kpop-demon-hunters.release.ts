@@ -5,7 +5,7 @@ export const kpopDemonHuntersCastSodaPopFromTheNetflixFilmKpopDemonHunters = {
   pageTypeSlug: "release",
   slug: "kpop-demon-hunters-cast-soda-pop-from-the-netflix-film-kpop-demon-hunters",
   title: "Soda Pop (from the Netflix film KPop Demon Hunters)",
-  partOfCollectionSlugs: ["kpop-demon-hunters-cast"],
+  partOfCollections: ["kpop-demon-hunters-cast"],
   position: 0,
   ownLength: 7.498033,
   ownProgress: 7.498033,

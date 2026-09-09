@@ -5,7 +5,7 @@ export const nsync2NoStringsAttached = {
   pageTypeSlug: "release",
   slug: "nsync-2-no-strings-attached",
   title: "No Strings Attached",
-  partOfCollectionSlugs: ["nsync-2"],
+  partOfCollections: ["nsync-2"],
   position: 0,
   ownLength: 47.09995,
   ownProgress: 47.09995,

@@ -5,7 +5,7 @@ export const paulCardallYouWereMade = {
   pageTypeSlug: "release",
   slug: "paul-cardall-you-were-made",
   title: "You Were Made",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 3.19375,
   ownProgress: 0,

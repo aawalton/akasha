@@ -5,7 +5,7 @@ export const kellyClarksonStrongerDeluxeVersion = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-stronger-deluxe-version",
   title: "Stronger (Deluxe Version)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 61.879917,
   ownProgress: 61.879917,

@@ -5,7 +5,7 @@ export const metallicaHardwiredToSelfDestructDeluxe = {
   pageTypeSlug: "release",
   slug: "metallica-hardwired-to-self-destruct-deluxe",
   title: "Hardwired…To Self-Destruct (Deluxe)",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 157.194283,
   ownProgress: 0,

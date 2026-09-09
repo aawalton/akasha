@@ -5,7 +5,7 @@ export const kellyClarksonMeaningOfLife = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-meaning-of-life",
   title: "Meaning of Life",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 44.220817,
   ownProgress: 44.220817,

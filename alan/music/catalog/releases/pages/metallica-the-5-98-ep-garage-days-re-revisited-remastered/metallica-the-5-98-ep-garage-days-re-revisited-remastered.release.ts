@@ -5,7 +5,7 @@ export const metallicaThe598EpGarageDaysReRevisitedRemastered = {
   pageTypeSlug: "release",
   slug: "metallica-the-5-98-ep-garage-days-re-revisited-remastered",
   title: "The $5.98 EP - Garage Days Re-Revisited (Remastered)",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 24.829133,
   ownProgress: 0,

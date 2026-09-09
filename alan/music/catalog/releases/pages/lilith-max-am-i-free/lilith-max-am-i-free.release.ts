@@ -5,7 +5,7 @@ export const lilithMaxAmIFree = {
   pageTypeSlug: "release",
   slug: "lilith-max-am-i-free",
   title: "Am I Free",
-  partOfCollectionSlugs: ["lilith-max"],
+  partOfCollections: ["lilith-max"],
   position: 0,
   ownLength: 2.380767,
   ownProgress: 2.380767,

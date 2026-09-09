@@ -5,7 +5,7 @@ export const katyPerryThinkingOfYou = {
   pageTypeSlug: "release",
   slug: "katy-perry-thinking-of-you",
   title: "Thinking Of You",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 8.958383,
   ownProgress: 8.958383,

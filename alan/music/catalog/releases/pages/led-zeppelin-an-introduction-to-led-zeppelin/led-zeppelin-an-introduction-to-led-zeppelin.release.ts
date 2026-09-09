@@ -5,7 +5,7 @@ export const ledZeppelinAnIntroductionToLedZeppelin = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-an-introduction-to-led-zeppelin",
   title: "An Introduction to Led Zeppelin",
-  partOfCollectionSlugs: ["led-zeppelin"],
+  partOfCollections: ["led-zeppelin"],
   position: 0,
   ownLength: 49.042117,
   ownProgress: 0,

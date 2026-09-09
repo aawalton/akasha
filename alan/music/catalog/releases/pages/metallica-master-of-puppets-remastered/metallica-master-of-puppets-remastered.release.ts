@@ -5,7 +5,7 @@ export const metallicaMasterOfPuppetsRemastered = {
   pageTypeSlug: "release",
   slug: "metallica-master-of-puppets-remastered",
   title: "Master of Puppets (Remastered)",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 54.7866,
   ownProgress: 0,

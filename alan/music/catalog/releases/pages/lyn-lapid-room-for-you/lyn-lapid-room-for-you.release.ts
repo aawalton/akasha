@@ -5,7 +5,7 @@ export const lynLapidRoomForYou = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-room-for-you",
   title: "Room For You",
-  partOfCollectionSlugs: ["lyn-lapid"],
+  partOfCollections: ["lyn-lapid"],
   position: 0,
   ownLength: 3.056217,
   ownProgress: 3.056217,

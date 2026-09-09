@@ -5,7 +5,7 @@ export const nsync2ByeByeBye = {
   pageTypeSlug: "release",
   slug: "nsync-2-bye-bye-bye",
   title: "Bye Bye Bye",
-  partOfCollectionSlugs: ["nsync-2"],
+  partOfCollections: ["nsync-2"],
   position: 0,
   ownLength: 3.34,
   ownProgress: 3.34,

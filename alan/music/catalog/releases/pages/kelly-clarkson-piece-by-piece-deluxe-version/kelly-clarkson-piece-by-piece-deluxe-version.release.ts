@@ -5,7 +5,7 @@ export const kellyClarksonPieceByPieceDeluxeVersion = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-piece-by-piece-deluxe-version",
   title: "Piece By Piece (Deluxe Version)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 65.465183,
   ownProgress: 65.465183,

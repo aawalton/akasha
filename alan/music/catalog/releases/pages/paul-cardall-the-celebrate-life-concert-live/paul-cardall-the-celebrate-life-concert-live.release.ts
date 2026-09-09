@@ -5,7 +5,7 @@ export const paulCardallTheCelebrateLifeConcertLive = {
   pageTypeSlug: "release",
   slug: "paul-cardall-the-celebrate-life-concert-live",
   title: "The Celebrate Life Concert (Live)",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 60.050133,
   ownProgress: 60.050133,

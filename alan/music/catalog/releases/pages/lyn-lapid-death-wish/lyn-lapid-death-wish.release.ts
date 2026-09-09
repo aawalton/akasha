@@ -5,7 +5,7 @@ export const lynLapidDeathWish = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-death-wish",
   title: "death wish",
-  partOfCollectionSlugs: ["lyn-lapid"],
+  partOfCollections: ["lyn-lapid"],
   position: 0,
   ownLength: 2.841983,
   ownProgress: 2.841983,

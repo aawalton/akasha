@@ -5,7 +5,7 @@ export const metallicaAndJusticeForAllRemasteredDeluxeBoxSet = {
   pageTypeSlug: "release",
   slug: "metallica-and-justice-for-all-remastered-deluxe-box-set",
   title: "...And Justice for All (Remastered Deluxe Box Set)",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 788.81305,
   ownProgress: 0,

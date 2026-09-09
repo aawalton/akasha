@@ -5,7 +5,7 @@ export const pentatonixAttention = {
   pageTypeSlug: "release",
   slug: "pentatonix-attention",
   title: "Attention",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 2.858667,
   ownProgress: 2.858667,

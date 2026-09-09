@@ -5,7 +5,7 @@ export const linkinParkUpFromTheBottom = {
   pageTypeSlug: "release",
   slug: "linkin-park-up-from-the-bottom",
   title: "Up From the Bottom",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 3.053717,
   ownProgress: 0,

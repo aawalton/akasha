@@ -5,7 +5,7 @@ export const nsync2TheEssentialNsync = {
   pageTypeSlug: "release",
   slug: "nsync-2-the-essential-nsync",
   title: "The Essential *NSYNC",
-  partOfCollectionSlugs: ["nsync-2"],
+  partOfCollections: ["nsync-2"],
   position: 0,
   ownLength: 129.129783,
   ownProgress: 129.129783,

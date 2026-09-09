@@ -5,7 +5,7 @@ export const paulCardallShropshireHills = {
   pageTypeSlug: "release",
   slug: "paul-cardall-shropshire-hills",
   title: "Shropshire Hills",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 3.237383,
   ownProgress: 3.237383,

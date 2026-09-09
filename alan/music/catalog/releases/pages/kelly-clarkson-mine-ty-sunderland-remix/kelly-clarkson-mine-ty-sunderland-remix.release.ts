@@ -5,7 +5,7 @@ export const kellyClarksonMineTySunderlandRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-mine-ty-sunderland-remix",
   title: "mine (Ty Sunderland Remix)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 7.205883,
   ownProgress: 7.205883,

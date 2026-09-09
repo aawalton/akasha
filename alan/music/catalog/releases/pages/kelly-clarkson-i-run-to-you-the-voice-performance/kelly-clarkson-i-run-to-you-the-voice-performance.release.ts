@@ -5,7 +5,7 @@ export const kellyClarksonIRunToYouTheVoicePerformance = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-run-to-you-the-voice-performance",
   title: "I Run To You (The Voice Performance)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 2.839683,
   ownProgress: 2.839683,

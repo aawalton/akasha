@@ -5,7 +5,7 @@ export const paulCardallChristmasHymns = {
   pageTypeSlug: "release",
   slug: "paul-cardall-christmas-hymns",
   title: "Christmas Hymns",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 44.88955,
   ownProgress: 44.88955,

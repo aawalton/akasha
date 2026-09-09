@@ -5,7 +5,7 @@ export const katyPerrySwishSwishCheatCodesRemix = {
   pageTypeSlug: "release",
   slug: "katy-perry-swish-swish-cheat-codes-remix",
   title: "Swish Swish (Cheat Codes Remix)",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 3.018567,
   ownProgress: 3.018567,

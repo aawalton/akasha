@@ -5,7 +5,7 @@ export const pentatonixCruisinForABruisinInspiredByTeenBeachMovie = {
   pageTypeSlug: "release",
   slug: "pentatonix-cruisin-for-a-bruisin-inspired-by-teen-beach-movie",
   title: "Cruisin' for a Bruisin' (Inspired by \"Teen Beach Movie\")",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 2.048883,
   ownProgress: 2.048883,

@@ -5,7 +5,7 @@ export const paulCardallBeCalmBrainHealthyMusic = {
   pageTypeSlug: "release",
   slug: "paul-cardall-be-calm-brain-healthy-music",
   title: "Be Calm: Brain Healthy Music",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 18.420133,
   ownProgress: 18.420133,

@@ -5,7 +5,7 @@ export const paulCardallReturnHomeSoloPianoVersion = {
   pageTypeSlug: "release",
   slug: "paul-cardall-return-home-solo-piano-version",
   title: "Return Home (Solo Piano Version)",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 48.9287,
   ownProgress: 48.9287,

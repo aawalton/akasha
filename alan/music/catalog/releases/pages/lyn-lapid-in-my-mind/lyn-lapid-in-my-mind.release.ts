@@ -5,7 +5,7 @@ export const lynLapidInMyMind = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-in-my-mind",
   title: "In My Mind",
-  partOfCollectionSlugs: ["lyn-lapid"],
+  partOfCollections: ["lyn-lapid"],
   position: 0,
   ownLength: 14.943733,
   ownProgress: 14.943733,

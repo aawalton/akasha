@@ -5,7 +5,7 @@ export const metallicaLoadRemastered = {
   pageTypeSlug: "release",
   slug: "metallica-load-remastered",
   title: "Load (Remastered)",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 78.957683,
   ownProgress: 0,

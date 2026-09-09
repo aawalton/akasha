@@ -5,7 +5,7 @@ export const paulCardallHymnsVol2 = {
   pageTypeSlug: "release",
   slug: "paul-cardall-hymns-vol-2",
   title: "Hymns, Vol. 2",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 45.534233,
   ownProgress: 45.534233,

@@ -5,7 +5,7 @@ export const lindseyStirling2LoseYouNow = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-lose-you-now",
   title: "Lose You Now",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 3.223233,
   ownProgress: 3.223233,

@@ -5,7 +5,7 @@ export const paulCardallSignOfTheTimes = {
   pageTypeSlug: "release",
   slug: "paul-cardall-sign-of-the-times",
   title: "Sign of the Times",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 4.18385,
   ownProgress: 4.18385,

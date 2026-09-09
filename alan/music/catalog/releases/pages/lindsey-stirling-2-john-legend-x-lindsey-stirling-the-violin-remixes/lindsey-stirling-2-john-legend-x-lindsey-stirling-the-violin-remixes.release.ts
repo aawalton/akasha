@@ -5,7 +5,7 @@ export const lindseyStirling2JohnLegendXLindseyStirlingTheViolinRemixes = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-john-legend-x-lindsey-stirling-the-violin-remixes",
   title: "John Legend x Lindsey Stirling: The Violin Remixes",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 8.352217,
   ownProgress: 8.352217,

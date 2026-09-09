@@ -5,7 +5,7 @@ export const leonardCohenTheBestOfLeonardCohen = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-the-best-of-leonard-cohen",
   title: "The Best Of Leonard Cohen",
-  partOfCollectionSlugs: ["leonard-cohen"],
+  partOfCollections: ["leonard-cohen"],
   position: 0,
   ownLength: 46.335483,
   ownProgress: 0,

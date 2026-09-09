@@ -5,7 +5,7 @@ export const mitskiRetiredFromSadNewCareerInBusiness = {
   pageTypeSlug: "release",
   slug: "mitski-retired-from-sad-new-career-in-business",
   title: "Retired from Sad, New Career in Business",
-  partOfCollectionSlugs: ["mitski"],
+  partOfCollections: ["mitski"],
   position: 0,
   ownLength: 23.945083,
   ownProgress: 23.945083,

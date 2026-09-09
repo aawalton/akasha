@@ -5,7 +5,7 @@ export const nsync2YoTeVoyAAmarThisIPromiseYou = {
   pageTypeSlug: "release",
   slug: "nsync-2-yo-te-voy-a-amar-this-i-promise-you",
   title: "Yo Te Voy A Amar (This I Promise You)",
-  partOfCollectionSlugs: ["nsync-2"],
+  partOfCollections: ["nsync-2"],
   position: 0,
   ownLength: 13.414333,
   ownProgress: 13.414333,

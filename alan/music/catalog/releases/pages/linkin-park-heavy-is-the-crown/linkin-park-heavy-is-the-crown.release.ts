@@ -5,7 +5,7 @@ export const linkinParkHeavyIsTheCrown = {
   pageTypeSlug: "release",
   slug: "linkin-park-heavy-is-the-crown",
   title: "Heavy Is the Crown",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 5.957317,
   ownProgress: 0,

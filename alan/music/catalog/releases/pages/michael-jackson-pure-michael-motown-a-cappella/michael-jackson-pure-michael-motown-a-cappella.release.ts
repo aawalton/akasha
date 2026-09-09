@@ -5,7 +5,7 @@ export const michaelJacksonPureMichaelMotownACappella = {
   pageTypeSlug: "release",
   slug: "michael-jackson-pure-michael-motown-a-cappella",
   title: "Pure Michael: Motown A Cappella",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 27.4286,
   ownProgress: 27.4286,

@@ -5,7 +5,7 @@ export const lindseyStirling2BraveEnough = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-brave-enough",
   title: "Brave Enough",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 55.463867,
   ownProgress: 55.463867,

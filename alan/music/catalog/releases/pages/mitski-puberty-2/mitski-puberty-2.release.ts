@@ -5,7 +5,7 @@ export const mitskiPuberty2 = {
   pageTypeSlug: "release",
   slug: "mitski-puberty-2",
   title: "Puberty 2",
-  partOfCollectionSlugs: ["mitski"],
+  partOfCollections: ["mitski"],
   position: 0,
   ownLength: 31.432533,
   ownProgress: 31.432533,

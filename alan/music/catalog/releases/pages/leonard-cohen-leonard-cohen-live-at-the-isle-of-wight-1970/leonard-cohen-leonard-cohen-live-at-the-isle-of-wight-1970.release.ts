@@ -5,7 +5,7 @@ export const leonardCohenLeonardCohenLiveAtTheIsleOfWight1970 = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-leonard-cohen-live-at-the-isle-of-wight-1970",
   title: "Leonard Cohen Live at the Isle of Wight 1970",
-  partOfCollectionSlugs: ["leonard-cohen"],
+  partOfCollections: ["leonard-cohen"],
   position: 0,
   ownLength: 77.3621,
   ownProgress: 0,

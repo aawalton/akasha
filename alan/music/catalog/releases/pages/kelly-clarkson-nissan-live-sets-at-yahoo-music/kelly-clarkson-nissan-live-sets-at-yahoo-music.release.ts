@@ -5,7 +5,7 @@ export const kellyClarksonNissanLiveSetsAtYahooMusic = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-nissan-live-sets-at-yahoo-music",
   title: "Nissan Live Sets At Yahoo! Music",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 28.9846,
   ownProgress: 28.9846,

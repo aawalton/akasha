@@ -5,7 +5,7 @@ export const linkinParkQwertyLiveInTokyo2006 = {
   pageTypeSlug: "release",
   slug: "linkin-park-qwerty-live-in-tokyo-2006",
   title: "QWERTY (Live in Tokyo, 2006)",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 10.621783,
   ownProgress: 0,

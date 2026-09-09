@@ -5,7 +5,7 @@ export const pentatonixBestDays = {
   pageTypeSlug: "release",
   slug: "pentatonix-best-days",
   title: "Best Days",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.576733,
   ownProgress: 3.576733,

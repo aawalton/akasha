@@ -5,7 +5,7 @@ export const linkinParkAThousandSunsPuertaDeAlcala = {
   pageTypeSlug: "release",
   slug: "linkin-park-a-thousand-suns-puerta-de-alcala",
   title: "A Thousand Suns: Puerta De Alcalá",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 25.986633,
   ownProgress: 0,

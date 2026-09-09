@@ -5,7 +5,7 @@ export const lindseyStirling2TheUpsideTheUpsideUndergroundFeatElleKing = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-the-upside-the-upside-underground-feat-elle-king",
   title: "The Upside / The Upside / Underground (feat. Elle King)",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 11.9647,
   ownProgress: 11.9647,

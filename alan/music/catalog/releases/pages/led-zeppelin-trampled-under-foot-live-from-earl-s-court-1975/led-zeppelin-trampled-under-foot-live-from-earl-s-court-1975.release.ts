@@ -5,7 +5,7 @@ export const ledZeppelinTrampledUnderFootLiveFromEarlSCourt1975 = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-trampled-under-foot-live-from-earl-s-court-1975",
   title: "Trampled Under Foot (Live from Earl's Court, 1975)",
-  partOfCollectionSlugs: ["led-zeppelin"],
+  partOfCollections: ["led-zeppelin"],
   position: 0,
   ownLength: 9.094433,
   ownProgress: 0,

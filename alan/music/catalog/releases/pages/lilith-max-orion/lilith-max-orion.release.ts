@@ -5,7 +5,7 @@ export const lilithMaxOrion = {
   pageTypeSlug: "release",
   slug: "lilith-max-orion",
   title: "Orion",
-  partOfCollectionSlugs: ["lilith-max"],
+  partOfCollections: ["lilith-max"],
   position: 0,
   ownLength: 5.901883,
   ownProgress: 5.901883,

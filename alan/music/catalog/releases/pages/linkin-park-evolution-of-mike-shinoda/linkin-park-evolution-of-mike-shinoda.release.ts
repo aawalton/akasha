@@ -5,7 +5,7 @@ export const linkinParkEvolutionOfMikeShinoda = {
   pageTypeSlug: "release",
   slug: "linkin-park-evolution-of-mike-shinoda",
   title: "Evolution Of Mike Shinoda",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 18.486633,
   ownProgress: 0,

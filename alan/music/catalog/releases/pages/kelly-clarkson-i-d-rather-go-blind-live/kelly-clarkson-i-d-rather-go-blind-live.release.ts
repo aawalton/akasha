@@ -5,7 +5,7 @@ export const kellyClarksonIDRatherGoBlindLive = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-d-rather-go-blind-live",
   title: "I'd Rather Go Blind (Live)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 2.933417,
   ownProgress: 2.933417,

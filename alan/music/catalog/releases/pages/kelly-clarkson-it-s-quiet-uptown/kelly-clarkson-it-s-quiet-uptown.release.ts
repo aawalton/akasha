@@ -5,7 +5,7 @@ export const kellyClarksonItSQuietUptown = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-it-s-quiet-uptown",
   title: "It's Quiet Uptown",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 4.63145,
   ownProgress: 4.63145,

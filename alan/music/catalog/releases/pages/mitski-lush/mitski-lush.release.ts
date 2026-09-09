@@ -5,7 +5,7 @@ export const mitskiLush = {
   pageTypeSlug: "release",
   slug: "mitski-lush",
   title: "Lush",
-  partOfCollectionSlugs: ["mitski"],
+  partOfCollections: ["mitski"],
   position: 0,
   ownLength: 26.024167,
   ownProgress: 26.024167,

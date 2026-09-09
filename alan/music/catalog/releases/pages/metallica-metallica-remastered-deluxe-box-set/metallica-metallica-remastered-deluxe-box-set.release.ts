@@ -5,7 +5,7 @@ export const metallicaMetallicaRemasteredDeluxeBoxSet = {
   pageTypeSlug: "release",
   slug: "metallica-metallica-remastered-deluxe-box-set",
   title: "Metallica (Remastered Deluxe Box Set)",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 938.5522,
   ownProgress: 0,

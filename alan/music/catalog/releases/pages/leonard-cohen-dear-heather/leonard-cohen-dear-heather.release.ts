@@ -5,7 +5,7 @@ export const leonardCohenDearHeather = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-dear-heather",
   title: "Dear Heather",
-  partOfCollectionSlugs: ["leonard-cohen"],
+  partOfCollections: ["leonard-cohen"],
   position: 0,
   ownLength: 48.920167,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const paulCardallElizaSTheme = {
   pageTypeSlug: "release",
   slug: "paul-cardall-eliza-s-theme",
   title: "Eliza's Theme",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 3.646933,
   ownProgress: 3.646933,

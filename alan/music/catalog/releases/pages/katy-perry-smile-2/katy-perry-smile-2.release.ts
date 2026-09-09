@@ -5,7 +5,7 @@ export const katyPerrySmile2 = {
   pageTypeSlug: "release",
   slug: "katy-perry-smile-2",
   title: "Smile",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 36.70775,
   ownProgress: 36.70775,

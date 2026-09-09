@@ -5,7 +5,7 @@ export const pentatonixChristmastimeIsFinallyHere = {
   pageTypeSlug: "release",
   slug: "pentatonix-christmastime-is-finally-here",
   title: "Christmastime Is Finally Here",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.924933,
   ownProgress: 3.924933,

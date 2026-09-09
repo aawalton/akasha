@@ -5,7 +5,7 @@ export const katyPerryWakingUpInVegas = {
   pageTypeSlug: "release",
   slug: "katy-perry-waking-up-in-vegas",
   title: "Waking Up In Vegas",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 32.3133,
   ownProgress: 32.3133,

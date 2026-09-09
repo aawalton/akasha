@@ -5,7 +5,7 @@ export const kellyClarksonIVeLovedYouSinceForever = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-ve-loved-you-since-forever",
   title: "I've Loved You Since Forever",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 1.349117,
   ownProgress: 1.349117,

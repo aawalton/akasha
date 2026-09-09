@@ -5,7 +5,7 @@ export const linkinParkOneMoreLightSteveAokiChesterForeverRemix = {
   pageTypeSlug: "release",
   slug: "linkin-park-one-more-light-steve-aoki-chester-forever-remix",
   title: "One More Light (Steve Aoki Chester Forever Remix)",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 4.177767,
   ownProgress: 0,

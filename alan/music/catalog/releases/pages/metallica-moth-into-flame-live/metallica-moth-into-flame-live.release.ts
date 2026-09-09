@@ -5,7 +5,7 @@ export const metallicaMothIntoFlameLive = {
   pageTypeSlug: "release",
   slug: "metallica-moth-into-flame-live",
   title: "Moth Into Flame (Live)",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 28.4553,
   ownProgress: 0,

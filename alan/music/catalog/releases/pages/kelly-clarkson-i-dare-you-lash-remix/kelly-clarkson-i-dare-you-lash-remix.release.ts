@@ -5,7 +5,7 @@ export const kellyClarksonIDareYouLashRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-dare-you-lash-remix",
   title: "I Dare You (Lash Remix)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 6.701783,
   ownProgress: 6.701783,

@@ -5,7 +5,7 @@ export const michaelJacksonBloodOnTheDanceFloorHistoryInTheMix = {
   pageTypeSlug: "release",
   slug: "michael-jackson-blood-on-the-dance-floor-history-in-the-mix",
   title: "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 75.8126,
   ownProgress: 75.8126,

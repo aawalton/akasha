@@ -5,7 +5,7 @@ export const katyPerryThisIsHowWeDo = {
   pageTypeSlug: "release",
   slug: "katy-perry-this-is-how-we-do",
   title: "This Is How We Do",
-  partOfCollectionSlugs: ["katy-perry"],
+  partOfCollections: ["katy-perry"],
   position: 0,
   ownLength: 3.392383,
   ownProgress: 3.392383,

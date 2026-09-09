@@ -5,7 +5,7 @@ export const michaelJacksonThrillerSteveAokiMidnightHourRemix = {
   pageTypeSlug: "release",
   slug: "michael-jackson-thriller-steve-aoki-midnight-hour-remix",
   title: "Thriller (Steve Aoki Midnight Hour Remix)",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 5.016217,
   ownProgress: 5.016217,

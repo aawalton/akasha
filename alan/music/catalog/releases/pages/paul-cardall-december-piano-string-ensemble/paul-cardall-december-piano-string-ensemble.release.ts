@@ -5,7 +5,7 @@ export const paulCardallDecemberPianoStringEnsemble = {
   pageTypeSlug: "release",
   slug: "paul-cardall-december-piano-string-ensemble",
   title: "December (Piano & String Ensemble)",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 45.786783,
   ownProgress: 45.786783,

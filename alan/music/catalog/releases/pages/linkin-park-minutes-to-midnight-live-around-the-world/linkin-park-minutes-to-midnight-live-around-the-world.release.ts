@@ -5,7 +5,7 @@ export const linkinParkMinutesToMidnightLiveAroundTheWorld = {
   pageTypeSlug: "release",
   slug: "linkin-park-minutes-to-midnight-live-around-the-world",
   title: "Minutes to Midnight Live Around the World",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 50.574383,
   ownProgress: 0,

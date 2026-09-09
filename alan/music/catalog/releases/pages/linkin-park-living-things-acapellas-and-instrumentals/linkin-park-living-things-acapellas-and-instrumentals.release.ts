@@ -5,7 +5,7 @@ export const linkinParkLivingThingsAcapellasAndInstrumentals = {
   pageTypeSlug: "release",
   slug: "linkin-park-living-things-acapellas-and-instrumentals",
   title: "LIVING THINGS: Acapellas and Instrumentals",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 68.401767,
   ownProgress: 0,

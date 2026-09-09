@@ -5,7 +5,7 @@ export const lilithMaxSeraph = {
   pageTypeSlug: "release",
   slug: "lilith-max-seraph",
   title: "Seraph",
-  partOfCollectionSlugs: ["lilith-max"],
+  partOfCollections: ["lilith-max"],
   position: 0,
   ownLength: 6.505333,
   ownProgress: 6.505333,

@@ -5,7 +5,7 @@ export const pentatonixCanYouFeelTheLoveTonight = {
   pageTypeSlug: "release",
   slug: "pentatonix-can-you-feel-the-love-tonight",
   title: "Can You Feel the Love Tonight",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 4.120417,
   ownProgress: 4.120417,

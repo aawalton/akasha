@@ -5,7 +5,7 @@ export const kellyClarksonIDonTThinkAboutYouRemixes = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-don-t-think-about-you-remixes",
   title: "I Don't Think About You (Remixes)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 14.807983,
   ownProgress: 14.807983,

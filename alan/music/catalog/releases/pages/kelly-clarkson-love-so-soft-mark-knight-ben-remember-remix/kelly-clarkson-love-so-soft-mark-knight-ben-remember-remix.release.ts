@@ -5,7 +5,7 @@ export const kellyClarksonLoveSoSoftMarkKnightBenRememberRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-love-so-soft-mark-knight-ben-remember-remix",
   title: "Love So Soft (Mark Knight & Ben Remember Remix)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 6.856,
   ownProgress: 6.856,

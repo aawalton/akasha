@@ -5,7 +5,7 @@ export const lindseyStirling2LongWayHome = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-long-way-home",
   title: "Long Way Home",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 2.629617,
   ownProgress: 2.629617,

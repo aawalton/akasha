@@ -5,7 +5,7 @@ export const metallicaBeyondMagnetic = {
   pageTypeSlug: "release",
   slug: "metallica-beyond-magnetic",
   title: "Beyond Magnetic",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 29.175983,
   ownProgress: 0,

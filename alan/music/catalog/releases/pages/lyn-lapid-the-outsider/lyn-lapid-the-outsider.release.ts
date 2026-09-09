@@ -5,7 +5,7 @@ export const lynLapidTheOutsider = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-the-outsider",
   title: "The Outsider",
-  partOfCollectionSlugs: ["lyn-lapid"],
+  partOfCollections: ["lyn-lapid"],
   position: 0,
   ownLength: 3.010067,
   ownProgress: 3.010067,

@@ -5,7 +5,7 @@ export const linkinParkLostPlzTetheredVersion = {
   pageTypeSlug: "release",
   slug: "linkin-park-lost-plz-tethered-version",
   title: "Lost (PLZ Tethered Version)",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 6.70555,
   ownProgress: 0,

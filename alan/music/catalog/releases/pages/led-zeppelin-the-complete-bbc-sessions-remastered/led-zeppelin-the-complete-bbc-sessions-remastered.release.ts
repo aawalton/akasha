@@ -5,7 +5,7 @@ export const ledZeppelinTheCompleteBbcSessionsRemastered = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-the-complete-bbc-sessions-remastered",
   title: "The Complete BBC Sessions (Remastered)",
-  partOfCollectionSlugs: ["led-zeppelin"],
+  partOfCollections: ["led-zeppelin"],
   position: 0,
   ownLength: 201.81935,
   ownProgress: 0,

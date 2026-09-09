@@ -5,7 +5,7 @@ export const kellyClarksonHeartbeatSongTheRemixes = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-heartbeat-song-the-remixes",
   title: "Heartbeat Song (The Remixes)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 25.584183,
   ownProgress: 25.584183,

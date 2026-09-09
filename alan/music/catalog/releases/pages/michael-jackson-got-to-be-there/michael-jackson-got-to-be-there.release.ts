@@ -5,7 +5,7 @@ export const michaelJacksonGotToBeThere = {
   pageTypeSlug: "release",
   slug: "michael-jackson-got-to-be-there",
   title: "Got To Be There",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 35.8315,
   ownProgress: 35.8315,

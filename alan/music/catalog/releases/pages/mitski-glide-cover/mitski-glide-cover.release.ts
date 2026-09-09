@@ -5,7 +5,7 @@ export const mitskiGlideCover = {
   pageTypeSlug: "release",
   slug: "mitski-glide-cover",
   title: "Glide (cover)",
-  partOfCollectionSlugs: ["mitski"],
+  partOfCollections: ["mitski"],
   position: 0,
   ownLength: 3.686533,
   ownProgress: 3.686533,

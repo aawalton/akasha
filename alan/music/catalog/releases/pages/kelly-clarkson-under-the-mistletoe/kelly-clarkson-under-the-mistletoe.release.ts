@@ -5,7 +5,7 @@ export const kellyClarksonUnderTheMistletoe = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-under-the-mistletoe",
   title: "Under The Mistletoe",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.76145,
   ownProgress: 3.76145,

@@ -5,7 +5,7 @@ export const lindseyStirling2RememberingSundayFeatLindseyStirlingLisaGaskarth = 
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-remembering-sunday-feat-lindsey-stirling-lisa-gaskarth",
   title: "Remembering Sunday (feat. Lindsey Stirling & Lisa Gaskarth)",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 4.278833,
   ownProgress: 4.278833,

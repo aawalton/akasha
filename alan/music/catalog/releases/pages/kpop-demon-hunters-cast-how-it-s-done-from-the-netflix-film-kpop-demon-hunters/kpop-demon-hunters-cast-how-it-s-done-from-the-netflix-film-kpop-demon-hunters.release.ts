@@ -5,7 +5,7 @@ export const kpopDemonHuntersCastHowItSDoneFromTheNetflixFilmKpopDemonHunters = 
   pageTypeSlug: "release",
   slug: "kpop-demon-hunters-cast-how-it-s-done-from-the-netflix-film-kpop-demon-hunters",
   title: "How It’s Done (from the Netflix film KPop Demon Hunters)",
-  partOfCollectionSlugs: ["kpop-demon-hunters-cast"],
+  partOfCollections: ["kpop-demon-hunters-cast"],
   position: 0,
   ownLength: 5.861583,
   ownProgress: 5.861583,

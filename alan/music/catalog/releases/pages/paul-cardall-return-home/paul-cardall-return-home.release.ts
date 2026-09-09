@@ -5,7 +5,7 @@ export const paulCardallReturnHome = {
   pageTypeSlug: "release",
   slug: "paul-cardall-return-home",
   title: "Return Home",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 50.622783,
   ownProgress: 50.622783,

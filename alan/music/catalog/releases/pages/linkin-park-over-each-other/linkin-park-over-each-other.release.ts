@@ -5,7 +5,7 @@ export const linkinParkOverEachOther = {
   pageTypeSlug: "release",
   slug: "linkin-park-over-each-other",
   title: "Over Each Other",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 8.798067,
   ownProgress: 0,

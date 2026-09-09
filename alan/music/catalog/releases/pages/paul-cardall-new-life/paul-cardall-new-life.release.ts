@@ -5,7 +5,7 @@ export const paulCardallNewLife = {
   pageTypeSlug: "release",
   slug: "paul-cardall-new-life",
   title: "New Life",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 52.614367,
   ownProgress: 52.614367,

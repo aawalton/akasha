@@ -5,7 +5,7 @@ export const paulCardallSignOfAffection10thAnniversary = {
   pageTypeSlug: "release",
   slug: "paul-cardall-sign-of-affection-10th-anniversary",
   title: "Sign of Affection (10th Anniversary)",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 37.392183,
   ownProgress: 37.392183,

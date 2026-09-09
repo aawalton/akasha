@@ -5,7 +5,7 @@ export const lynLapidButtons = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-buttons",
   title: "buttons",
-  partOfCollectionSlugs: ["lyn-lapid"],
+  partOfCollections: ["lyn-lapid"],
   position: 0,
   ownLength: 2.122367,
   ownProgress: 2.122367,

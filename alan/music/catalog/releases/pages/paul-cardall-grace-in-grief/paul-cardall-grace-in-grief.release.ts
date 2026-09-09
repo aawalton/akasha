@@ -5,7 +5,7 @@ export const paulCardallGraceInGrief = {
   pageTypeSlug: "release",
   slug: "paul-cardall-grace-in-grief",
   title: "Grace in Grief",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 37.589783,
   ownProgress: 37.589783,

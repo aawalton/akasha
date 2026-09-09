@@ -5,7 +5,7 @@ export const metallicaKillEmAllDeluxeRemaster = {
   pageTypeSlug: "release",
   slug: "metallica-kill-em-all-deluxe-remaster",
   title: "Kill 'Em All (Deluxe Remaster)",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 300.872883,
   ownProgress: 0,

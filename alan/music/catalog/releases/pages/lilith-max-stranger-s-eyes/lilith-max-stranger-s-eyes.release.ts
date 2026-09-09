@@ -5,7 +5,7 @@ export const lilithMaxStrangerSEyes = {
   pageTypeSlug: "release",
   slug: "lilith-max-stranger-s-eyes",
   title: "Stranger's Eyes",
-  partOfCollectionSlugs: ["lilith-max"],
+  partOfCollections: ["lilith-max"],
   position: 0,
   ownLength: 3.238283,
   ownProgress: 3.238283,

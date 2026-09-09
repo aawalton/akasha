@@ -5,7 +5,7 @@ export const linkinParkNewDivide = {
   pageTypeSlug: "release",
   slug: "linkin-park-new-divide",
   title: "New Divide",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 17.811317,
   ownProgress: 0,

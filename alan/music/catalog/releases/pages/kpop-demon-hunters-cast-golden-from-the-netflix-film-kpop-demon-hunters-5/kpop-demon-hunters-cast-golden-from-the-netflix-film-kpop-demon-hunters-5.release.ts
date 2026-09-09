@@ -5,7 +5,7 @@ export const kpopDemonHuntersCastGoldenFromTheNetflixFilmKpopDemonHunters5 = {
   pageTypeSlug: "release",
   slug: "kpop-demon-hunters-cast-golden-from-the-netflix-film-kpop-demon-hunters-5",
   title: "Golden (from the Netflix film KPop Demon Hunters)",
-  partOfCollectionSlugs: ["kpop-demon-hunters-cast"],
+  partOfCollections: ["kpop-demon-hunters-cast"],
   position: 0,
   ownLength: 19.746317,
   ownProgress: 19.746317,

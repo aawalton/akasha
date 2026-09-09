@@ -5,7 +5,7 @@ export const metallicaLiveSTBingePurge = {
   pageTypeSlug: "release",
   slug: "metallica-live-s-t-binge-purge",
   title: "Live S**t: Binge & Purge",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 177.172733,
   ownProgress: 0,

@@ -5,7 +5,7 @@ export const kellyClarksonHeatWolvesByNightRemix = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-heat-wolves-by-night-remix",
   title: "Heat (Wolves by Night Remix)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.154467,
   ownProgress: 3.154467,

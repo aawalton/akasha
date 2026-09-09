@@ -5,7 +5,7 @@ export const paulCardallFocusStudyWithPeacefulPianoMusicRemastered2025 = {
   pageTypeSlug: "release",
   slug: "paul-cardall-focus-study-with-peaceful-piano-music-remastered-2025",
   title: "Focus & Study with Peaceful Piano Music (Remastered 2025)",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 73.048683,
   ownProgress: 73.048683,

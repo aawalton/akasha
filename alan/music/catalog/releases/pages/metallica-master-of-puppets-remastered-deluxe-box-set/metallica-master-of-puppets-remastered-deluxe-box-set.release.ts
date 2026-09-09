@@ -5,7 +5,7 @@ export const metallicaMasterOfPuppetsRemasteredDeluxeBoxSet = {
   pageTypeSlug: "release",
   slug: "metallica-master-of-puppets-remastered-deluxe-box-set",
   title: "Master of Puppets (Remastered Deluxe Box Set)",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 687.810933,
   ownProgress: 0,

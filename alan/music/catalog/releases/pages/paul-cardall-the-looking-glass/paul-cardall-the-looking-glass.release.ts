@@ -5,7 +5,7 @@ export const paulCardallTheLookingGlass = {
   pageTypeSlug: "release",
   slug: "paul-cardall-the-looking-glass",
   title: "The Looking Glass",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 48.3352,
   ownProgress: 48.3352,

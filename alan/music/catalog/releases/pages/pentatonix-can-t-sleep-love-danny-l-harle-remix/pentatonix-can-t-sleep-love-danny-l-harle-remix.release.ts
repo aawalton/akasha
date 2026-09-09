@@ -5,7 +5,7 @@ export const pentatonixCanTSleepLoveDannyLHarleRemix = {
   pageTypeSlug: "release",
   slug: "pentatonix-can-t-sleep-love-danny-l-harle-remix",
   title: "Can't Sleep Love (Danny L Harle Remix)",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 3.8911,
   ownProgress: 3.8911,

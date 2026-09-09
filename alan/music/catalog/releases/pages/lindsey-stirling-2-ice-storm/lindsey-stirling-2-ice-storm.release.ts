@@ -5,7 +5,7 @@ export const lindseyStirling2IceStorm = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-ice-storm",
   title: "Ice Storm",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 3.119433,
   ownProgress: 3.119433,

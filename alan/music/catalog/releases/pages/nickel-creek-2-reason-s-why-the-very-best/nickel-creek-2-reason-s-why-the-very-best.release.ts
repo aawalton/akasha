@@ -5,7 +5,7 @@ export const nickelCreek2ReasonSWhyTheVeryBest = {
   pageTypeSlug: "release",
   slug: "nickel-creek-2-reason-s-why-the-very-best",
   title: "Reason's Why (The Very Best)",
-  partOfCollectionSlugs: ["nickel-creek-2"],
+  partOfCollections: ["nickel-creek-2"],
   position: 0,
   ownLength: 65.005717,
   ownProgress: 65.005717,

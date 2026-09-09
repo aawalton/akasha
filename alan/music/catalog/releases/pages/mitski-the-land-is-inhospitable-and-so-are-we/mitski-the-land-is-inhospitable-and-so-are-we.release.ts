@@ -5,7 +5,7 @@ export const mitskiTheLandIsInhospitableAndSoAreWe = {
   pageTypeSlug: "release",
   slug: "mitski-the-land-is-inhospitable-and-so-are-we",
   title: "The Land Is Inhospitable and So Are We",
-  partOfCollectionSlugs: ["mitski"],
+  partOfCollections: ["mitski"],
   position: 0,
   ownLength: 32.372167,
   ownProgress: 32.372167,

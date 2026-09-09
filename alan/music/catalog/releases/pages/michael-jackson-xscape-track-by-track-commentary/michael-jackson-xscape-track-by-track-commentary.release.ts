@@ -5,7 +5,7 @@ export const michaelJacksonXscapeTrackByTrackCommentary = {
   pageTypeSlug: "release",
   slug: "michael-jackson-xscape-track-by-track-commentary",
   title: "XSCAPE - Track by Track Commentary",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 6.422467,
   ownProgress: 6.422467,

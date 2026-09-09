@@ -5,7 +5,7 @@ export const kellyClarksonGetUpACowboysAnthem = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-get-up-a-cowboys-anthem",
   title: "Get Up (A Cowboys Anthem)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.77555,
   ownProgress: 3.77555,

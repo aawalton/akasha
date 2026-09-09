@@ -5,7 +5,7 @@ export const ledZeppelinHousesOfTheHolyDeluxeEdition = {
   pageTypeSlug: "release",
   slug: "led-zeppelin-houses-of-the-holy-deluxe-edition",
   title: "Houses of the Holy (Deluxe Edition)",
-  partOfCollectionSlugs: ["led-zeppelin"],
+  partOfCollections: ["led-zeppelin"],
   position: 0,
   ownLength: 77.168217,
   ownProgress: 0,

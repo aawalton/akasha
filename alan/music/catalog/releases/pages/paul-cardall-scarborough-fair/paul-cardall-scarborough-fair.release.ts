@@ -5,7 +5,7 @@ export const paulCardallScarboroughFair = {
   pageTypeSlug: "release",
   slug: "paul-cardall-scarborough-fair",
   title: "Scarborough Fair",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 16.967583,
   ownProgress: 16.967583,

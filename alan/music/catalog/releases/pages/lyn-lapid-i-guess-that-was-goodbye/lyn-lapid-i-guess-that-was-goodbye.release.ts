@@ -5,7 +5,7 @@ export const lynLapidIGuessThatWasGoodbye = {
   pageTypeSlug: "release",
   slug: "lyn-lapid-i-guess-that-was-goodbye",
   title: "I Guess That Was Goodbye",
-  partOfCollectionSlugs: ["lyn-lapid"],
+  partOfCollections: ["lyn-lapid"],
   position: 0,
   ownLength: 3.170717,
   ownProgress: 3.170717,

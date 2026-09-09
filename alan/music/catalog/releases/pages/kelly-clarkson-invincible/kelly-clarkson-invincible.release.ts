@@ -5,7 +5,7 @@ export const kellyClarksonInvincible = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-invincible",
   title: "Invincible",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.97265,
   ownProgress: 3.97265,

@@ -5,7 +5,7 @@ export const paulCardallSleep = {
   pageTypeSlug: "release",
   slug: "paul-cardall-sleep",
   title: "Sleep",
-  partOfCollectionSlugs: ["paul-cardall"],
+  partOfCollections: ["paul-cardall"],
   position: 0,
   ownLength: 57.3318,
   ownProgress: 57.3318,

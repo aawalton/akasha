@@ -5,7 +5,7 @@ export const lindseyStirling2Artemis = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-artemis",
   title: "Artemis",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 51.2967,
   ownProgress: 51.2967,

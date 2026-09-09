@@ -5,7 +5,7 @@ export const pentatonixHavana = {
   pageTypeSlug: "release",
   slug: "pentatonix-havana",
   title: "Havana",
-  partOfCollectionSlugs: ["pentatonix"],
+  partOfCollections: ["pentatonix"],
   position: 0,
   ownLength: 2.568383,
   ownProgress: 2.568383,

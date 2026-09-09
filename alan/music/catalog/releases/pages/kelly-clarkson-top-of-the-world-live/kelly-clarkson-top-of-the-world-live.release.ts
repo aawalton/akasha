@@ -5,7 +5,7 @@ export const kellyClarksonTopOfTheWorldLive = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-top-of-the-world-live",
   title: "Top of the World (Live)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 5.272717,
   ownProgress: 5.272717,

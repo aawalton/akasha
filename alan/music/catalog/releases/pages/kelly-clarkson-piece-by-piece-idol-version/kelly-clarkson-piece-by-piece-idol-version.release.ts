@@ -5,7 +5,7 @@ export const kellyClarksonPieceByPieceIdolVersion = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-piece-by-piece-idol-version",
   title: "Piece by Piece (Idol Version)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.5279,
   ownProgress: 3.5279,

@@ -5,7 +5,7 @@ export const lindseyStirling2WhatYouReMadeOfFeatKieszaAzurLaneSoundtrack = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-what-you-re-made-of-feat-kiesza-azur-lane-soundtrack",
   title: "What You’re Made Of (feat. Kiesza) [Azur Lane Soundtrack]",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 3.443283,
   ownProgress: 3.443283,

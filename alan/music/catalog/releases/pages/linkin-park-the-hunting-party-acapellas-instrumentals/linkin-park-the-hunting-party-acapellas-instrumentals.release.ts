@@ -5,7 +5,7 @@ export const linkinParkTheHuntingPartyAcapellasInstrumentals = {
   pageTypeSlug: "release",
   slug: "linkin-park-the-hunting-party-acapellas-instrumentals",
   title: "The Hunting Party: Acapellas + Instrumentals",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 86.47025,
   ownProgress: 0,

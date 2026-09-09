@@ -5,7 +5,7 @@ export const linkinParkTheCatalyst = {
   pageTypeSlug: "release",
   slug: "linkin-park-the-catalyst",
   title: "The Catalyst",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 5.664217,
   ownProgress: 0,

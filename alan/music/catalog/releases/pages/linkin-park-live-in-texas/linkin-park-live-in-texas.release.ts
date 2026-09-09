@@ -5,7 +5,7 @@ export const linkinParkLiveInTexas = {
   pageTypeSlug: "release",
   slug: "linkin-park-live-in-texas",
   title: "Live in Texas",
-  partOfCollectionSlugs: ["linkin-park"],
+  partOfCollections: ["linkin-park"],
   position: 0,
   ownLength: 41.8515,
   ownProgress: 0,

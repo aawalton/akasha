@@ -5,7 +5,7 @@ export const kellyClarksonWhenYouSayNothingAtAllTheVoicePerformance = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-when-you-say-nothing-at-all-the-voice-performance",
   title: "When You Say Nothing At All (The Voice Performance)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 2.70615,
   ownProgress: 2.70615,

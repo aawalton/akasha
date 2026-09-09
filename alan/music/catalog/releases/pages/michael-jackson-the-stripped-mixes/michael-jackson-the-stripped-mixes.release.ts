@@ -5,7 +5,7 @@ export const michaelJacksonTheStrippedMixes = {
   pageTypeSlug: "release",
   slug: "michael-jackson-the-stripped-mixes",
   title: "The Stripped Mixes",
-  partOfCollectionSlugs: ["michael-jackson"],
+  partOfCollections: ["michael-jackson"],
   position: 0,
   ownLength: 38.571317,
   ownProgress: 38.571317,

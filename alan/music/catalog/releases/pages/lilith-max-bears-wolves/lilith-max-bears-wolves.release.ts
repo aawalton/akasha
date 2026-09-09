@@ -5,7 +5,7 @@ export const lilithMaxBearsWolves = {
   pageTypeSlug: "release",
   slug: "lilith-max-bears-wolves",
   title: "Bears & Wolves",
-  partOfCollectionSlugs: ["lilith-max"],
+  partOfCollections: ["lilith-max"],
   position: 0,
   ownLength: 3.313167,
   ownProgress: 3.313167,

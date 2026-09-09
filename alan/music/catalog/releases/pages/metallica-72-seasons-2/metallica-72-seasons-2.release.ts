@@ -5,7 +5,7 @@ export const metallica72Seasons2 = {
   pageTypeSlug: "release",
   slug: "metallica-72-seasons-2",
   title: "72 Seasons",
-  partOfCollectionSlugs: ["metallica"],
+  partOfCollections: ["metallica"],
   position: 0,
   ownLength: 77.244367,
   ownProgress: 0,

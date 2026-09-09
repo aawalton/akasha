@@ -5,7 +5,7 @@ export const lindseyStirling2Kashmir = {
   pageTypeSlug: "release",
   slug: "lindsey-stirling-2-kashmir",
   title: "Kashmir",
-  partOfCollectionSlugs: ["lindsey-stirling-2"],
+  partOfCollections: ["lindsey-stirling-2"],
   position: 0,
   ownLength: 3.426,
   ownProgress: 3.426,

@@ -5,7 +5,7 @@ export const lilithMaxPeasantSThrone = {
   pageTypeSlug: "release",
   slug: "lilith-max-peasant-s-throne",
   title: "Peasant's Throne",
-  partOfCollectionSlugs: ["lilith-max"],
+  partOfCollections: ["lilith-max"],
   position: 0,
   ownLength: 2.856983,
   ownProgress: 2.856983,

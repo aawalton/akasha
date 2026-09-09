@@ -5,7 +5,7 @@ export const leonardCohenYouWantItDarkerPaulKalkbrennerRemix = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-you-want-it-darker-paul-kalkbrenner-remix",
   title: "You Want It Darker (Paul Kalkbrenner Remix)",
-  partOfCollectionSlugs: ["leonard-cohen"],
+  partOfCollections: ["leonard-cohen"],
   position: 0,
   ownLength: 7.201417,
   ownProgress: 0,

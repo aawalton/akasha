@@ -5,7 +5,7 @@ export const kellyClarksonTakeYouHigh = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-take-you-high",
   title: "Take You High",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 4.336817,
   ownProgress: 4.336817,

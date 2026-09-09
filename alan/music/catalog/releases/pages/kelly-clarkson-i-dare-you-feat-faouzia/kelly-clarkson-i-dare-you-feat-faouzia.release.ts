@@ -5,7 +5,7 @@ export const kellyClarksonIDareYouFeatFaouzia = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-i-dare-you-feat-faouzia",
   title: "I Dare You (كنتحداك) [feat. Faouzia]",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.60205,
   ownProgress: 3.60205,

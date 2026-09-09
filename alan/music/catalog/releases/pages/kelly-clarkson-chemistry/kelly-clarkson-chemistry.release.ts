@@ -5,7 +5,7 @@ export const kellyClarksonChemistry = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-chemistry",
   title: "chemistry",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 44.751317,
   ownProgress: 44.751317,

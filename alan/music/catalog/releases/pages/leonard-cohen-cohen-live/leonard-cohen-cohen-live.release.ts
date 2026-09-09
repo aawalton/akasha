@@ -5,7 +5,7 @@ export const leonardCohenCohenLive = {
   pageTypeSlug: "release",
   slug: "leonard-cohen-cohen-live",
   title: "Cohen Live",
-  partOfCollectionSlugs: ["leonard-cohen"],
+  partOfCollections: ["leonard-cohen"],
   position: 0,
   ownLength: 71.831483,
   ownProgress: 0,

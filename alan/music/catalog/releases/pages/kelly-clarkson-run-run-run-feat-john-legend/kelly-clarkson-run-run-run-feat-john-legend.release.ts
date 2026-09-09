@@ -5,7 +5,7 @@ export const kellyClarksonRunRunRunFeatJohnLegend = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-run-run-run-feat-john-legend",
   title: "Run Run Run (feat. John Legend)",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 4.544817,
   ownProgress: 4.544817,

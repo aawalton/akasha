@@ -5,7 +5,7 @@ export const kellyClarksonWhereHaveYouBeen = {
   pageTypeSlug: "release",
   slug: "kelly-clarkson-where-have-you-been",
   title: "Where Have You Been",
-  partOfCollectionSlugs: ["kelly-clarkson"],
+  partOfCollections: ["kelly-clarkson"],
   position: 0,
   ownLength: 3.9651,
   ownProgress: 3.9651,
