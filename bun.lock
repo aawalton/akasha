@@ -1143,12 +1143,6 @@
         "zod": "^4.3.6",
       },
     },
-    "infrastructure/postgres-annual-dump": {
-      "name": "@akasha/postgres-annual-dump",
-      "dependencies": {
-        "@akasha/k8s-types": "workspace:*",
-      },
-    },
     "infrastructure/storage/object-store": {
       "name": "@akasha/object-store",
       "dependencies": {
@@ -3065,8 +3059,6 @@
     "@akasha/persons": ["@akasha/persons@workspace:persons"],
 
     "@akasha/plain-language": ["@akasha/plain-language@workspace:domains/plain-language"],
-
-    "@akasha/postgres-annual-dump": ["@akasha/postgres-annual-dump@workspace:infrastructure/postgres-annual-dump"],
 
     "@akasha/reading": ["@akasha/reading@workspace:alan/library/reading"],
 
