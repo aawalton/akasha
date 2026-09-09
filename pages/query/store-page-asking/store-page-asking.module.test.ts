@@ -141,19 +141,19 @@ test("the store standing on this workstation answers a page type's shape", async
   expect(claim).toBeDefined()
   expect(claim?.type).toBe("text-property")
   expect(claim?.mayBeGone).toBe(false)
-  const domain = asked.shape.declarations.find(
-    (one) => one.key === "domain" || one.key === "domain-slug"
-  )
+  const domain = asked.shape.declarations.find((one) => one.key === "domain-slug")
   expect(domain?.type).toBe("relation-property")
   expect(domain?.targetSlug).toBe("page-type/domain")
 })
 
 test("the store standing on this workstation answers what names a domain", async () => {
-  const naming = (key: string): Promise<Awaited<ReturnType<typeof askNaming>>> =>
-    underOrigin(() => askNaming({ key, name: "workspace-package/page", pageTypes: ["finding"] }))
-  const first = await naming("domain")
-  const asked =
-    first.ok && (first.naming[0]?.rows.length ?? 0) > 0 ? first : await naming("domainSlug")
+  const asked = await underOrigin(() =>
+    askNaming({
+      key: "domainSlug",
+      name: "workspace-package/page",
+      pageTypes: ["finding"],
+    })
+  )
   expect(asked.ok).toBe(true)
   if (!asked.ok) return
   expect(asked.naming.length).toBe(1)

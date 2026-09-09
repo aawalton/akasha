@@ -13,15 +13,13 @@ const INITIATIVE_TYPE = "initiative"
 
 const KEY = "assignmentSlug"
 
-const DOMAIN_KEY = "domain"
-
-const DOMAIN_KEY_WAS = "domainSlug"
+const DOMAIN_KEY = "domainSlug"
 
 const PARTS = "part-slugs"
 
 function domainOf(root: string, path: string): Listed | undefined {
   const value = valueAt(path, root)
-  const named = value === null ? null : (textAt(value, DOMAIN_KEY) ?? textAt(value, DOMAIN_KEY_WAS))
+  const named = value === null ? null : textAt(value, DOMAIN_KEY)
   if (named === null) return undefined
   const address = addressedIn(named)
   if ("refused" in address) throw new Error(address.refused)

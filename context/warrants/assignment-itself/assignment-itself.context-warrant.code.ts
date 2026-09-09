@@ -16,9 +16,7 @@ const INITIATIVE_TYPE = "initiative"
 
 const KEY = "assignmentSlug"
 
-const DOMAIN_KEY = "domain"
-
-const DOMAIN_KEY_WAS = "domainSlug"
+const DOMAIN_KEY = "domainSlug"
 
 function warrantAt(root: string, path: string, owed: string): readonly Warrant[] {
   const oid = blobAt(root, path)
@@ -31,7 +29,7 @@ function namedAt(root: string, path: string, key: string): string | null {
 }
 
 function domainOf(root: string, path: string): readonly Warrant[] {
-  const named = namedAt(root, path, DOMAIN_KEY) ?? namedAt(root, path, DOMAIN_KEY_WAS)
+  const named = namedAt(root, path, DOMAIN_KEY)
   if (named === null) return []
   const address = addressedIn(named)
   if ("refused" in address) throw new Error(address.refused)
