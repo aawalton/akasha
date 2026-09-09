@@ -1,12 +1,4 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import {
-  type CompletionFilter,
-  type CompletionNode,
-  CompletionPanelCard,
-  type CompletionSortMode,
-  createNodeFilter,
-  withActivityCategories,
-} from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { skillLineCategoriesSorted } from "@akasha/temper-skill-lines/skill-line-category-data"
 import {
   getSkillLineIdsForClass,
@@ -26,6 +18,14 @@ import type {
   CompletionCharacter,
   SkillLineProgressEntry,
 } from "akasha/temper/temper-player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import {
+  type CompletionFilter,
+  type CompletionNode,
+  CompletionPanelCard,
+  type CompletionSortMode,
+  createNodeFilter,
+  withActivityCategories,
+} from "akasha/temper/temper-player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
 
 interface SkillLinesProgressPanelCardProps {
   id?: CharacterCardId

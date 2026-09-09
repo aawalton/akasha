@@ -1,7 +1,3 @@
-import type {
-  useCompletionCharacters,
-  useCompletionCompanions,
-} from "@akasha/temper-player-completion-ui/use-completion"
 import type { AccountQuestUnionProgress } from "akasha/temper/temper-player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import { transformCompanionQuestUnion } from "akasha/temper/temper-player-completion/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import type { CompanionSummaryData } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
@@ -17,6 +13,10 @@ import type {
   CompanionProgressEntry,
   CompanionSkillLineProgress,
 } from "akasha/temper/temper-player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import type {
+  useCompletionCharacters,
+  useCompletionCompanions,
+} from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { useMemo } from "react"
 
 export interface CompanionProgressData {

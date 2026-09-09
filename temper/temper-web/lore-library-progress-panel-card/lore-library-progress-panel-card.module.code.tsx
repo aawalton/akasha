@@ -1,12 +1,4 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import {
-  type CompletionFilter,
-  type CompletionNode,
-  CompletionPanelCard,
-  type CompletionSortMode,
-  createNodeFilter,
-  withActivityCategories,
-} from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
 import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
@@ -14,6 +6,14 @@ import type {
   CharacterLoreLibraryProgress,
   CompletionCharacter,
 } from "akasha/temper/temper-player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import {
+  type CompletionFilter,
+  type CompletionNode,
+  CompletionPanelCard,
+  type CompletionSortMode,
+  createNodeFilter,
+  withActivityCategories,
+} from "akasha/temper/temper-player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
 
 interface LoreLibraryProgressPanelCardProps {
   id?: CharacterCardId

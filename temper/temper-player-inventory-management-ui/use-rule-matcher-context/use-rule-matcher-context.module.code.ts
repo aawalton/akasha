@@ -5,15 +5,15 @@ import type {
   RuleMatcherContext,
 } from "@akasha/temper-items-rules-core/rule-matcher-context-types"
 import {
-  useCompletionCharacters,
-  useCompletionCompanions,
-} from "@akasha/temper-player-completion-ui/use-completion"
-import {
   buildDerivedContext,
   mergeInventoryContext,
 } from "akasha/temper/items-rules-matcher/rule-matcher-context/rule-matcher-context.module.code.ts"
 import { useCharacterList } from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
 import { useCompanionList } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
+import {
+  useCompletionCharacters,
+  useCompletionCompanions,
+} from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { useMemo } from "react"
 
 export function useRuleMatcherContext(

@@ -1,11 +1,10 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { Domain } from "../../domains/domain.page-type.ts"
 
 export const temperPlayerCompletionUi = {
   id: "01a06267-372c-7003-8a9e-15b2f42d8750",
-  pageTypeSlug: "workspace-package",
+  pageTypeSlug: "domain",
   slug: "temper-player-completion-ui",
   definition: "the panel a browser draws one player's completion in",
-  manifest: "json",
   parts: [
     "module/completion-activity-mode-context",
     "module/completion-search-context",
@@ -18,4 +17,4 @@ export const temperPlayerCompletionUi = {
       statement: "A panel here reaches no data of its own.",
     },
   ],
-} as const satisfies WorkspacePackage
+} as const satisfies Domain

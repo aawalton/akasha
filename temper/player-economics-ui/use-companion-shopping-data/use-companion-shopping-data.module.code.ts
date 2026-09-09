@@ -9,12 +9,12 @@ import {
   type CompanionGearNeed,
   computeAllGearNeeds,
 } from "@akasha/temper-items-core/companion-gear-diff"
-import { useCompletionCompanions } from "@akasha/temper-player-completion-ui/use-completion"
 import type { CompanionGearPriceResult } from "@akasha/temper-trading-pricing/companion-gear-price-lookup"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
 import { decodeCompanion } from "akasha/temper/companion-codec/companion-codec/companion-codec.module.code.ts"
 import { usePlayer } from "akasha/temper/player-profile/use-player/use-player.module.code.ts"
 import { useAllCompanionList } from "akasha/temper/temper-companions-ui/use-companions/use-companions.module.code.ts"
+import { useCompletionCompanions } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import {
   useInventory,
   usePriceExtract,

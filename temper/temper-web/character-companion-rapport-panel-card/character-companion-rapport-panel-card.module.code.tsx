@@ -1,12 +1,4 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
-import {
-  type CompletionFilter,
-  type CompletionNode,
-  CompletionPanelCard,
-  type CompletionSortMode,
-  createNodeFilter,
-  withActivityCategories,
-} from "@akasha/temper-player-completion-ui/completion-panel-card"
 import { requireFirst } from "@akasha/utils/narrow/require-first"
 import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/temper-player-completion/companion-rapport/companion-rapport.module.code.ts"
@@ -15,6 +7,14 @@ import type {
   CharacterCompanionRapportProgress,
   CompletionCharacter,
 } from "akasha/temper/temper-player-completion/completion-ui-types/completion-ui-types.module.code.ts"
+import {
+  type CompletionFilter,
+  type CompletionNode,
+  CompletionPanelCard,
+  type CompletionSortMode,
+  createNodeFilter,
+  withActivityCategories,
+} from "akasha/temper/temper-player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
 
 interface CharacterCompanionRapportPanelCardProps {
   id?: CharacterCardId

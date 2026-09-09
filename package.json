@@ -67,7 +67,6 @@
     "@akasha/temper-build-metadata": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
-    "@akasha/temper-player-completion-ui": "workspace:*",
     "@akasha/temper-trading-pricing": "workspace:*",
     "react-dom": "^18 || ^19",
     "@akasha/cluster-manifests": "workspace:*",

@@ -3,7 +3,7 @@
 import { ResponsiveColumns } from "@akasha/design-layout/responsive-columns"
 import type { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import type { RoleId } from "@akasha/temper-character-sources/character-roles"
-import type { useCompletionCharactersByUser } from "@akasha/temper-player-completion-ui/use-completion"
+import type { useCompletionCharactersByUser } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { useCallback, useMemo } from "react"
 import type { DecodedBuild } from "../builds-browse-tab/builds-browse-tab.module.code.tsx"
 import {

@@ -41,7 +41,6 @@
     "@akasha/temper-equipment-kinds": "workspace:*",
     "@akasha/temper-formula-framework": "workspace:*",
     "@akasha/temper-items-core": "workspace:*",
-    "@akasha/temper-player-completion-ui": "workspace:*",
     "@akasha/temper-races": "workspace:*",
     "@akasha/temper-skill-kinds": "workspace:*",
     "@akasha/temper-skill-lines": "workspace:*",

@@ -8,11 +8,11 @@ import { SearchButton } from "@akasha/design-patterns/search-button"
 import { SearchSortFilterRow } from "@akasha/design-patterns/search-sort-filter-row"
 import { SortButton } from "@akasha/design-patterns/sort-button"
 import type { SortDirection, SortOption } from "@akasha/design-patterns/sort-types"
-import type { CompletionSortMode } from "@akasha/temper-player-completion-ui/completion-panel-card"
 import {
   BadgeToggleGroup,
   type BadgeToggleGroupItem,
 } from "akasha/design/badges/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type { CompletionSortMode } from "akasha/temper/temper-player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
 import { useState } from "react"
 
 type FilterId = "status" | "activity" | "character" | "skills"

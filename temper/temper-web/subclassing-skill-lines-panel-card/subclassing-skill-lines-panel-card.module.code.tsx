@@ -1,4 +1,9 @@
 import type { SortDirection } from "@akasha/design-patterns/sort-types"
+import { getSkillLineIdsForClass, skillLines } from "@akasha/temper-skill-lines/skill-lines"
+import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
+import type { AccountCardId } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
+import type { SubclassingSkillLineProgressResult } from "akasha/temper/temper-player-completion/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -6,12 +11,7 @@ import {
   type CompletionSortMode,
   createNodeFilter,
   withActivityCategories,
-} from "@akasha/temper-player-completion-ui/completion-panel-card"
-import { getSkillLineIdsForClass, skillLines } from "@akasha/temper-skill-lines/skill-lines"
-import { classes } from "akasha/temper/classes/character-class/character-class.module.code.ts"
-import type { ActivityCategoryId } from "akasha/temper/temper-player-completion/activity-categories/activity-categories.module.code.ts"
-import type { AccountCardId } from "akasha/temper/temper-player-completion/completion-card-registry/completion-card-registry.module.code.ts"
-import type { SubclassingSkillLineProgressResult } from "akasha/temper/temper-player-completion/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
+} from "akasha/temper/temper-player-completion-ui/completion-panel-card/completion-panel-card.module.code.tsx"
 
 interface SubclassingSkillLinesPanelCardProps {
   id?: AccountCardId

@@ -16,13 +16,13 @@ import { patchPage } from "@akasha/pages-access/patch"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { applyCharacterMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { buildHash as toBuildHash } from "@akasha/temper-formula-framework/branded-id"
-import { useCompletionCharactersByUser } from "@akasha/temper-player-completion-ui/use-completion"
 import { Badge } from "akasha/design/badges/badge/badge.module.code.tsx"
 import { decodeBuild } from "akasha/temper/build-codec/build-codec/build-codec.module.code.ts"
 import {
   useAllCharacterList,
   useCharacterLifecycle,
 } from "akasha/temper/temper-characters-character-ui/use-characters/use-characters.module.code.ts"
+import { useCompletionCharactersByUser } from "akasha/temper/temper-player-completion-ui/use-completion/use-completion.module.code.ts"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
 import {
