@@ -5,6 +5,7 @@ export type AsksOfSlug = string
 export const asksOfSlug = {
   id: "01a063ee-2a3b-7363-bba7-b3165d27a761",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "asks-of-slug",
   propertySlug: "asks-of-slug",
   definition: "the page type a query asks of",

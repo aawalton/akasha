@@ -5,6 +5,7 @@ export type QuestionAskedIn = string
 export const questionAskedIn = {
   id: "01a06823-89b2-7003-9361-9f665902bad0",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "question-asked-in",
   propertySlug: "asked-in",
   definition: "the stretch of work a question came out of, named by its id",

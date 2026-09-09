@@ -5,6 +5,7 @@ export type ViewPredicate = string
 export const viewPredicate = {
   id: "01a0680d-4d00-7002-b647-3d1a8c5f4103",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "view-predicate",
   propertySlug: "view-predicate",
   definition: "the named test a cross-type view draws by",

@@ -5,6 +5,7 @@ export type PosterPath = string
 export const posterPath = {
   id: "01a06599-ee09-7008-9531-f53ecb8ff93d",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "poster-path",
   propertySlug: "poster-path",
   definition: "the path to the artwork representing a collection",

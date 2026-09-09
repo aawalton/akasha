@@ -5,6 +5,7 @@ export type MessageBody = string
 export const messageBody = {
   id: "01a06818-107b-7003-af7a-fe09cd6ace6c",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "message-body",
   propertySlug: "body",
   definition: "the words a message carries",

@@ -7,6 +7,7 @@ export type PointsSourceReadings = List<PointsSourceReadingsReading>
 export const pointsSourceReadings = {
   id: "01a060b8-bfaf-7006-99ee-756f9ebe1b75",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "points-source-readings",
   propertySlug: "readings",
   definition:

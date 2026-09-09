@@ -5,6 +5,7 @@ export type LinkTarget = string
 export const linkTarget = {
   id: "01a06823-89b2-700b-91db-fce33ac0739a",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "link-target",
   propertySlug: "target",
   definition: "where a link goes: a web address, or a path inside the app",

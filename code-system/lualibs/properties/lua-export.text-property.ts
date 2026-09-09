@@ -5,6 +5,7 @@ export type LuaExport = string
 export const luaExport = {
   id: "01a08168-a789-7c4b-8c96-68f15749213a",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "lua-export",
   propertySlug: "lua-export",
   definition: "the name a compiled helper is reached by in Lua",

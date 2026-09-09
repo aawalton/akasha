@@ -5,6 +5,7 @@ export type FolderName = string
 export const folderName = {
   id: "01a081cc-3144-7cd7-8de6-3cc3911adc06",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "folder-name",
   propertySlug: "folder-name",
   definition: "the name a property's folder is under",

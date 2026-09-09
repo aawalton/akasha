@@ -5,6 +5,7 @@ export type EsoDay = string
 export const esoDay = {
   id: "01a060fb-040d-7f7f-bce8-a74c90df15bc",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "eso-day",
   propertySlug: "eso-day",
   definition: "the ESO day a record is of",

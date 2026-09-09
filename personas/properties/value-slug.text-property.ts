@@ -5,6 +5,7 @@ export type ValueSlug = string
 export const valueSlug = {
   id: "01a0534e-c7e0-74c3-9eea-499d48af54db",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "value-slug",
   propertySlug: "value-slug",
   definition: "the value a persona represents",

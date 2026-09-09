@@ -5,6 +5,7 @@ export type Date = string
 export const date = {
   id: "01a05fd8-c30e-7ae3-b3f5-528afcf00bbe",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "date",
   propertySlug: "date",
   definition: "the day a record is of",

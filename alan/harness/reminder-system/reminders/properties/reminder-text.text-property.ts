@@ -5,6 +5,7 @@ export type ReminderText = string
 export const reminderText = {
   id: "01a05f42-d941-7004-bf1f-acc8c93bb270",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "reminder-text",
   propertySlug: "text",
   definition: "the words a reminder sends",

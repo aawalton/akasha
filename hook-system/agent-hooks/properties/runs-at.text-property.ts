@@ -21,6 +21,7 @@ export type RunsAt = List<HarnessEvent>
 export const runsAt = {
   id: "01a04e0a-f8fb-7beb-b0b8-ac268528b27e",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "runs-at",
   propertySlug: "runs-at",
   definition: "the harness events at which a hook is called",

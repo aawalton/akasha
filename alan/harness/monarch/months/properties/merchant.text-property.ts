@@ -5,6 +5,7 @@ export type Merchant = string
 export const merchant = {
   id: "01a0680b-2b00-7004-a836-4c9d2b7e2105",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "merchant",
   propertySlug: "merchant",
   definition: "who or what a transaction was with",

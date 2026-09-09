@@ -5,6 +5,7 @@ export type MediaRenderer = string
 export const mediaRenderer = {
   id: "01a062b8-8775-7003-b1df-c7f935fcacbf",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "media-renderer",
   propertySlug: "renderer",
   definition: "the model that makes a page type's audio or image",

@@ -5,6 +5,7 @@ export type ShellSha = string
 export const shellSha = {
   id: "01a0685d-b81f-7896-a766-17b1183ecd8e",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "shell-sha",
   propertySlug: "shell-sha",
   definition: "the commit of the app shell a cut was built from",

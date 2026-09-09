@@ -6,6 +6,7 @@ export type Grade = Rung
 export const grade = {
   id: "01a0655b-4a9b-7003-a822-f4a3ceda67b2",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "grade",
   propertySlug: "grade",
   definition: "Alan's mark for how well a picture caught the persona",

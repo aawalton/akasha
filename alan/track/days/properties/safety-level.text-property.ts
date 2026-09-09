@@ -5,6 +5,7 @@ export type SafetyLevel = string
 export const safetyLevel = {
   id: "01a05fd8-c30f-757c-bda6-861e73844e8b",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "safety-level",
   propertySlug: "safety-level",
   definition: "how safe Alan was over a stretch of time",

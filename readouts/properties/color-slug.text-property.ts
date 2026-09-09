@@ -5,6 +5,7 @@ export type ColorSlug = string
 export const colorSlug = {
   id: "01a063bd-a526-78ae-ab87-fd2bf86d9fad",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "color-slug",
   propertySlug: "color-slug",
   definition: "the color a reading is always drawn in",

@@ -5,6 +5,7 @@ export type Kind = string
 export const errorKind = {
   id: "01a05f3f-e3e0-70ed-a9ac-229acd8e154c",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "error-kind",
   propertySlug: "kind",
   definition: "the way a client came to meet an error",

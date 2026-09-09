@@ -5,6 +5,7 @@ export type RenderedAs = string
 export const renderedAs = {
   id: "01a07cf4-b901-765b-8af0-c41424d855b9",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "rendered-as",
   propertySlug: "rendered-as",
   definition: "the type a screen draws this property's value as",

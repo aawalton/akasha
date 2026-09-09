@@ -5,6 +5,7 @@ export type ImagePath = string
 export const imagePath = {
   id: "01a0655b-4a9b-7000-be1d-ee856388970b",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "image-path",
   propertySlug: "image-path",
   definition: "where a picture is, read against the root it names",

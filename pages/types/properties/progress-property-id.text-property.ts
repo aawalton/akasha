@@ -5,6 +5,7 @@ export type ProgressPropertyId = string
 export const progressPropertyId = {
   id: "01a0683a-620a-7e65-a95a-efdc99a80eaa",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "progress-property-id",
   propertySlug: "progress-property-id",
   definition: "the key of the property holding how far into a page the reader has come",

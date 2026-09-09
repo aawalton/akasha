@@ -5,6 +5,7 @@ export type RegistrationAccount = string
 export const registrationAccount = {
   id: "01a05397-7f9b-783b-b5ec-f0b163957fdf",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "registration-account",
   propertySlug: "registration-account",
   definition: "the account an agent in a seat signs in as",

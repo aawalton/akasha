@@ -5,6 +5,7 @@ export type SequenceOrderBy = string
 export const sequenceOrderBy = {
   id: "01a062de-2001-7002-8dd0-f44937908528",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "sequence-order-by",
   propertySlug: "order-by",
   definition: "the key a run of pages is sorted by",

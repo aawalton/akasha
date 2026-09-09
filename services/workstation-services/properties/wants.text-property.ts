@@ -5,6 +5,7 @@ export type Wants = string
 export const wants = {
   id: "01a06738-9f12-7c0b-8ea5-4b76050ff060",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "wants",
   propertySlug: "wants",
   definition: "a unit this unit asks for without depending on",

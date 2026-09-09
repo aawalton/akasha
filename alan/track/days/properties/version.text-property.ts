@@ -5,6 +5,7 @@ export type Version = string
 export const version = {
   id: "01a05fd8-c30e-725c-ab9a-c6711e453753",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "version",
   propertySlug: "version",
   definition: "which shape of a record was written",

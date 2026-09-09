@@ -5,6 +5,7 @@ export type DetailDisplay = string
 export const detailDisplay = {
   id: "01a0683a-620a-7446-ae1d-032103346b3a",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "detail-display",
   propertySlug: "display",
   definition: "the layout a page type's pages are drawn in",

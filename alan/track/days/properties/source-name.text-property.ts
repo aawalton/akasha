@@ -5,6 +5,7 @@ export type SourceName = string
 export const sourceName = {
   id: "01a060fb-040f-7e46-8cbb-1cc3db787009",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "source-name",
   propertySlug: "source-name",
   definition: "what recorded a reading",

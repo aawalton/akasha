@@ -5,6 +5,7 @@ export type SubagentModel = string
 export const subagentModel = {
   id: "01a06861-f664-7cf4-a6e6-849205f43fff",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "subagent-model",
   propertySlug: "subagent-model",
   definition: "the model a seat's subagents answer on rather than the seat's own",

@@ -6,6 +6,7 @@ export type Aliases = List<string>
 export const aliases = {
   id: "01a06558-a991-7721-9c7a-fb59e452d286",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "aliases",
   propertySlug: "aliases",
   definition: "another name the text writes a thing under",

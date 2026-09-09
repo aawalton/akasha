@@ -5,6 +5,7 @@ export type TitleKey = string
 export const titleKey = {
   id: "01a06240-340f-700c-8b23-d85323898292",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "title-key",
   propertySlug: "title-key",
   definition: "the text a track title and an artist name are matched by",

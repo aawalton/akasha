@@ -27,6 +27,7 @@ export type ReadingKind =
 export const readingKind = {
   id: "01a063ce-6216-7005-95f1-cc6876e8a107",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "reading-kind",
   propertySlug: "reading-kind",
   definition: "what sort of thing a name in a world's text names",

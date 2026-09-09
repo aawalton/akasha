@@ -5,6 +5,7 @@ export type FileName = string
 export const fileName = {
   id: "01a0585d-233d-7e12-8214-d5f3f602412f",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "file-name",
   propertySlug: "file-name",
   definition: "the name a property's file is under",

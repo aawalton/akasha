@@ -5,6 +5,7 @@ export type UrlPath = string
 export const urlPath = {
   id: "01a071dc-83c6-7c58-b6e1-8aaf847e66ef",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "url-path",
   propertySlug: "url-path",
   definition: "the path a router serves a route under",

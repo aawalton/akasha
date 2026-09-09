@@ -5,6 +5,7 @@ export type DispatchedAs = string
 export const dispatchedAs = {
   id: "01a05978-f2e3-737b-8b65-7a65013f5626",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "dispatched-as",
   propertySlug: "dispatched-as",
   definition: "the kind of agent a subagent was run as",

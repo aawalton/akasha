@@ -5,6 +5,7 @@ export type Message = string
 export const errorMessage = {
   id: "01a05f3f-e3e0-7450-8ae9-c82bf3ef1359",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "error-message",
   propertySlug: "message",
   definition: "what an error said when a client met the error",

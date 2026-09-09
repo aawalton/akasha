@@ -5,6 +5,7 @@ export type ReleaseSha = string
 export const errorReleaseSha = {
   id: "01a05f3f-e3e0-7d68-b1de-729068552c64",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "error-release-sha",
   propertySlug: "release-sha",
   definition: "the build a client was running when a client met an error",

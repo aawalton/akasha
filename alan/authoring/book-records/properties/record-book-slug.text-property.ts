@@ -5,6 +5,7 @@ export type RecordBookSlug = string
 export const recordBookSlug = {
   id: "01a0657d-b91d-7100-a6a6-4e66e1a75ab3",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "record-book-slug",
   propertySlug: "book-slug",
   definition: "the book a record is kept about",

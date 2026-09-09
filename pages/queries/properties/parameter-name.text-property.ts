@@ -5,6 +5,7 @@ export type ParameterName = string
 export const parameterName = {
   id: "01a063ee-2a3b-738a-b58e-4974630c06f2",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "parameter-name",
   propertySlug: "name",
   definition: "what one value a query is given is called",

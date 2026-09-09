@@ -5,6 +5,7 @@ export type Feeling = string
 export const feeling = {
   id: "01a06828-cb94-75a3-bc5b-8a59e104524e",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "feeling",
   propertySlug: "feeling",
   definition: "how an element is",

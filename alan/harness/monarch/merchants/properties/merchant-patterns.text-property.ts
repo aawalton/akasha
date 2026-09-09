@@ -5,6 +5,7 @@ export type MerchantPatterns = string
 export const merchantPatterns = {
   id: "01a0680c-3c00-700a-8e26-5b3d7f4a310b",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "merchant-patterns",
   propertySlug: "merchant-patterns",
   definition: "a run of the bank's own words that names a merchant",

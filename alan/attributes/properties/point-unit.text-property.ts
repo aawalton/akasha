@@ -5,6 +5,7 @@ export type PointUnit = string
 export const pointUnit = {
   id: "01a06841-a113-7165-ba2c-70e40a2ecf42",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "point-unit",
   propertySlug: "point-unit",
   definition: "what earns one point in an attribute",

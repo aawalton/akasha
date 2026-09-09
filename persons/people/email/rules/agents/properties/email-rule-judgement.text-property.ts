@@ -5,6 +5,7 @@ export type EmailRuleJudgement = string
 export const emailRuleJudgement = {
   id: "01a06863-4147-764f-8400-158d7917527a",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "email-rule-judgement",
   propertySlug: "judgement",
   definition: "what an agent reaching a rule's mail is told to do with it",

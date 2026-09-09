@@ -5,6 +5,7 @@ export type MarketingVersion = string
 export const marketingVersion = {
   id: "01a05f96-1925-7984-9108-b4d5346476fc",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "marketing-version",
   propertySlug: "marketing-version",
   definition: "the version of an app a person reads on the App Store",

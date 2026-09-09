@@ -5,6 +5,7 @@ export type LoadScroll = string
 export const loadScroll = {
   id: "01a0683a-620a-720b-9442-1f4e5f29ea33",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "load-scroll",
   propertySlug: "load-scroll",
   definition: "the place in a page the reader is put at as the page opens",

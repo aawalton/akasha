@@ -5,6 +5,7 @@ export type ModelName = string
 export const modelName = {
   id: "01a05a43-f8db-7b4e-86f6-e79220f0d6eb",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "model-name",
   propertySlug: "name",
   definition: "the name a call carries to reach this family's model",

@@ -5,6 +5,7 @@ export type QueryArgument = string
 export const queryArgument = {
   id: "01a063bd-a526-74de-8e2c-45aa36499261",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "query-argument",
   propertySlug: "query-argument",
   definition: "the argument a reading's query takes its key as",

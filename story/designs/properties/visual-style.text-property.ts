@@ -5,6 +5,7 @@ export type VisualStyle = string
 export const visualStyle = {
   id: "01a06577-f385-7c1c-8e0b-5a8d4ac8821f",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "visual-style",
   propertySlug: "visual-style",
   definition: "how a story's pictures are meant to look",

@@ -5,6 +5,7 @@ export type SequenceDirection = string
 export const sequenceDirection = {
   id: "01a062de-2001-7003-a875-d6a5b29e480d",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "sequence-direction",
   propertySlug: "direction",
   definition: "whether a run of pages is sorted upward or downward",

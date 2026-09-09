@@ -5,6 +5,7 @@ export type Mode = string
 export const mode = {
   id: "01a07661-4b8c-7ac8-ba3a-9cbd32e9ae55",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "mode",
   propertySlug: "mode",
   definition: "the mode an agent in a seat is running in",

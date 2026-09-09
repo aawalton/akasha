@@ -5,6 +5,7 @@ export type PlayerId = string
 export const playerId = {
   id: "01a06596-f0d5-7007-a70d-0e2e56b9aacd",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "player-id",
   propertySlug: "player-id",
   definition: "the player whose card it is",

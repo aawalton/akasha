@@ -6,6 +6,7 @@ export type Singability = Rung
 export const singability = {
   id: "01a06243-144b-700b-83e8-f1b91786511f",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "singability",
   propertySlug: "singability",
   definition: "Alan's grade for how well a song sits in his own voice",

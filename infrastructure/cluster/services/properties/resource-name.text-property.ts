@@ -5,6 +5,7 @@ export type ResourceName = string
 export const resourceName = {
   id: "01a05a41-58c5-7070-8223-2b245078d3b9",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "resource-name",
   propertySlug: "resource-name",
   definition: "the name a resource carries in the cluster",

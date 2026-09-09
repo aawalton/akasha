@@ -8,6 +8,7 @@ export type OverTools = List<ToolName>
 export const overTools = {
   id: "01a04e0a-f8fd-794e-bc2d-4463964ebf9f",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "over-tools",
   propertySlug: "over-tools",
   definition: "the tools whose calls a hook judges",

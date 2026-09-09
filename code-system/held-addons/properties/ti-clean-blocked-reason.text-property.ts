@@ -5,6 +5,7 @@ export type TiCleanBlockedReason = string
 export const tiCleanBlockedReason = {
   id: "01a0819e-62fa-71d4-9b29-5683cd0211ea",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "ti-clean-blocked-reason",
   propertySlug: "ti-clean-blocked-reason",
   definition: "what keeps an addon from reaching ti-clean",

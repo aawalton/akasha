@@ -5,6 +5,7 @@ export type SecretValue = string
 export const secretValue = {
   id: "01a0684a-7d55-7002-8c14-3f7a2b5d9e08",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "secret-value",
   propertySlug: "value",
   definition: "the secret a page represents",

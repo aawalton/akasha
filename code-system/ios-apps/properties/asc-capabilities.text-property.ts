@@ -8,6 +8,7 @@ export type AscCapabilities = List<AscCapability>
 export const ascCapabilities = {
   id: "01a05f87-1b05-7b14-8908-d107128af1be",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "asc-capabilities",
   propertySlug: "asc-capabilities",
   definition: "the capabilities Apple enables on an app's identifier",

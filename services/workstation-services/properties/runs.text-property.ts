@@ -5,6 +5,7 @@ export type Runs = string
 export const runs = {
   id: "01a05a3f-b42b-7564-ba54-a63a51342f27",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "runs",
   propertySlug: "runs",
   definition: "a command line a service starts",

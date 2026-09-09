@@ -7,6 +7,7 @@ export type AlchemyEffects = List<AlchemyEffect>
 export const alchemyEffects = {
   id: "01a05fd1-d435-7be6-b06d-cee7752f59c6",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "alchemy-effects",
   propertySlug: "alchemy-effects",
   definition: "the four effects a reagent can lend what it is brewed into",

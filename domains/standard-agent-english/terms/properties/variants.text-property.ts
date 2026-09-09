@@ -5,6 +5,7 @@ export type Variants = string
 export const variants = {
   id: "01a08249-f82c-7f1b-8203-9dcefa386e51",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "variants",
   propertySlug: "variants",
   definition: "another spelling of a term, differing from the plainest only by grammar",

@@ -5,6 +5,7 @@ export type UserId = string
 export const deviceSecretUserId = {
   id: "01a05b39-f50c-7103-abe2-bf3c03f7aab4",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "device-secret-user-id",
   propertySlug: "user-id",
   definition: "the account a device secret was minted for",

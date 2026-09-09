@@ -5,6 +5,7 @@ export type SpotifyTrackId = string
 export const spotifyTrackId = {
   id: "01a06240-340f-7007-82de-0827e2457e43",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "spotify-track-id",
   propertySlug: "spotify-track-id",
   definition: "the id Spotify keeps a track under",

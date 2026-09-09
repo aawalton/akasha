@@ -5,6 +5,7 @@ export type Binds = string
 export const binds = {
   id: "01a05ae5-d9a7-703f-8841-aee7eb78244d",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "binds",
   propertySlug: "binds",
   definition: "a host name a service listens on",

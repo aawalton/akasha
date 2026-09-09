@@ -5,6 +5,7 @@ export type SortOrder = "label" | "place"
 export const sortOrder = {
   id: "01a063bd-a526-7474-a7c9-3980d10c48b3",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "sort-order",
   propertySlug: "sort-order",
   definition: "whether a group draws its readings in label order or in place order",

@@ -5,6 +5,7 @@ export type TransactionNote = string
 export const transactionNote = {
   id: "01a0680b-2b00-7007-9e41-3f7b6c5a2108",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "transaction-note",
   propertySlug: "transaction-note",
   definition: "what somebody wrote on a transaction",

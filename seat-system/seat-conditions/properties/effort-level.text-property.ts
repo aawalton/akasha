@@ -5,6 +5,7 @@ export type EffortLevel = string
 export const effortLevel = {
   id: "01a06861-f664-75ef-9d6e-47a09eef368b",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "effort-level",
   propertySlug: "effort-level",
   definition: "how much reasoning a seat spends before it answers",

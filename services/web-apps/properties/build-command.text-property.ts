@@ -5,6 +5,7 @@ export type BuildCommand = string
 export const buildCommand = {
   id: "01a05b26-f8b6-7600-9b5a-4fed2b228f2b",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "build-command",
   propertySlug: "build-command",
   definition: "the command run in a web app's source folder to make its build",

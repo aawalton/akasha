@@ -5,6 +5,7 @@ export type EnemyTypes = string
 export const enemyTypes = {
   id: "01a06193-6ca6-7e57-b847-abc05109ad79",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "enemy-types",
   propertySlug: "enemy-types",
   definition: "the sort of enemy a test holds for",

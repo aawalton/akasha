@@ -5,6 +5,7 @@ export type HeardSource = string
 export const heardSource = {
   id: "01a06240-340f-700e-a486-9e430bc408b2",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "heard-source",
   propertySlug: "heard-source",
   definition: "where a heard track was learned from",

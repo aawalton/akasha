@@ -5,6 +5,7 @@ export type SpaSourcePath = string
 export const spaSourcePath = {
   id: "01a05cc9-7251-72dc-8830-f9413bbb6333",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "spa-source-path",
   propertySlug: "spa-source-path",
   definition: "where the site an app serves is built from",

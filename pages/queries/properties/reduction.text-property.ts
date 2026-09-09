@@ -5,6 +5,7 @@ export type Reduction = "sum" | "mean"
 export const reduction = {
   id: "01a063ee-2a3b-7bb3-887a-95b643d06302",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "reduction",
   propertySlug: "reduction",
   definition: "how a query works the pages that passed down to one number",

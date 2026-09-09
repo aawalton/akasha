@@ -7,6 +7,7 @@ export type KeptSenses = List<KeptSense>
 export const keptSenses = {
   id: "01a05d78-f343-7862-8bea-66d8b696dedb",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "kept-senses",
   propertySlug: "kept-senses",
   definition: "the meanings a word is written in",

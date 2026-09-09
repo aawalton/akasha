@@ -5,6 +5,7 @@ export type AccountUuid = string
 export const accountUuid = {
   id: "01a054d8-1d39-7b26-b3d7-5857ea15a1b4",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "account-uuid",
   propertySlug: "account-uuid",
   definition: "the identity Anthropic knows the account by",

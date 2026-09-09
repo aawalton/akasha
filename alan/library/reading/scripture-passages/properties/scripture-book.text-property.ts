@@ -5,6 +5,7 @@ export type ScriptureBook = string
 export const scriptureBook = {
   id: "01a0658d-fe50-7003-842b-538187e1ae93",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "scripture-book",
   propertySlug: "book",
   definition: "the book of scripture a passage is in",

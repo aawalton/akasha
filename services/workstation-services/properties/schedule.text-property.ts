@@ -5,6 +5,7 @@ export type Schedule = string
 export const schedule = {
   id: "01a05a3f-b42e-78d1-a00b-e982e5830c5c",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "schedule",
   propertySlug: "schedule",
   definition: "the times a unit is started at",

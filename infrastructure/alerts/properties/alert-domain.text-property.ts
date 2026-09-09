@@ -5,6 +5,7 @@ export type AlertDomain = string
 export const alertDomain = {
   id: "01a06755-0778-78ee-bf36-f7fd5ffa5619",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "alert-domain",
   propertySlug: "domain",
   definition: "the area a raised alert is owed to",

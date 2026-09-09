@@ -5,6 +5,7 @@ export type ClaudeCodeSessionUuid = string
 export const claudeCodeSessionUuid = {
   id: "01a053e4-cf4a-7e0c-a936-1a0a62a7b7e5",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "claude-code-session-uuid",
   propertySlug: "claude-code-session-uuid",
   definition: "the session an agent in a seat is answering in",

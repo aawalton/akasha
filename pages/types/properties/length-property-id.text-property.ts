@@ -5,6 +5,7 @@ export type LengthPropertyId = string
 export const lengthPropertyId = {
   id: "01a0683a-620a-7c9f-8c62-ed7e2e10a9ca",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "length-property-id",
   propertySlug: "length-property-id",
   definition: "the key of the property holding how long a page is",

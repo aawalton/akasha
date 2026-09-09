@@ -5,6 +5,7 @@ export type PlayKey = string
 export const playKey = {
   id: "01a06240-340f-7002-b005-55a12884b9be",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "play-key",
   propertySlug: "play-key",
   definition: "the text one listen is told apart from every other listen by",

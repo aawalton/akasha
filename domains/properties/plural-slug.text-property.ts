@@ -5,6 +5,7 @@ export type PluralSlug = string
 export const pluralSlug = {
   id: "01a04fd9-50dd-74e4-86cd-6f72698418e2",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "plural-slug",
   propertySlug: "plural-slug",
   definition: "the slug for many of what a domain is about",

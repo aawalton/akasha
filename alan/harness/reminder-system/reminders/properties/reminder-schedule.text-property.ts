@@ -5,6 +5,7 @@ export type ReminderSchedule = string
 export const reminderSchedule = {
   id: "01a05f42-d941-7006-a1ef-7866d346525a",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "reminder-schedule",
   propertySlug: "schedule",
   definition: "the times a reminder is sent at, written as systemd states a calendar",

@@ -14,6 +14,7 @@ export type NarrowComparison =
 export const narrowComparison = {
   id: "01a063ee-2a3b-7703-9869-e8ab3280d56f",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "narrow-comparison",
   propertySlug: "comparison",
   definition: "how one narrow weighs a page's value against what it names",

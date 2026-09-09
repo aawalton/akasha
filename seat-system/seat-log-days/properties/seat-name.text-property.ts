@@ -5,6 +5,7 @@ export type SeatName = string
 export const seatName = {
   id: "01a0657c-cb14-7705-a95e-4fca37cc48c2",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "seat-name",
   propertySlug: "seat-name",
   definition: "the name of the seat whose processes wrote a day of lines",

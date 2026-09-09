@@ -5,6 +5,7 @@ export type QueryKey = string
 export const queryKey = {
   id: "01a063bd-a526-759f-a70b-5cdfae809328",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "query-key",
   propertySlug: "query-key",
   definition: "the number a reading takes where its query answers more than one",

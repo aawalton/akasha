@@ -5,6 +5,7 @@ export type PuzzleLicense = string
 export const puzzleLicense = {
   id: "01a06582-bd62-786a-a2c2-a8e5939869a4",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "puzzle-license",
   propertySlug: "license",
   definition: "the licence a puzzle is published under",

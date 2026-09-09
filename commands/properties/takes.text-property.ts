@@ -5,6 +5,7 @@ export type Takes = string
 export const takes = {
   id: "01a05027-c468-7573-9eec-f4d1ecd0bced",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "takes",
   propertySlug: "takes",
   definition: "what one thing a command takes is for",

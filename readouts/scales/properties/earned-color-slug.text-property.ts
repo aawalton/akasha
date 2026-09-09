@@ -5,6 +5,7 @@ export type EarnedColorSlug = string
 export const earnedColorSlug = {
   id: "01a06230-b155-7e50-83eb-ed2efad60e63",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "earned-color-slug",
   propertySlug: "earned-color-slug",
   definition: "the color a reading takes when the reading is earned rather than measured",

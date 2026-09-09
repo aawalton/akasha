@@ -5,6 +5,7 @@ export type NoticeWarrant = string
 export const noticeWarrant = {
   id: "01a0686b-cea8-7a45-9b23-fd9c6d3a0417",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "notice-warrant",
   propertySlug: "warrant",
   definition: "which seat a notice goes to and what editing its words costs",

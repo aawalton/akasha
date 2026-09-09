@@ -12,6 +12,7 @@ export type ParameterType =
 export const parameterType = {
   id: "01a063ee-2a3b-7dba-bd8e-70b39e540c34",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "parameter-type",
   propertySlug: "type",
   definition: "the type one value a query is given holds",

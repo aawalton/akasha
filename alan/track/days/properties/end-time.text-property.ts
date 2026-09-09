@@ -5,6 +5,7 @@ export type EndTime = string
 export const endTime = {
   id: "01a05fd8-c30f-7276-a32d-648df6a73f30",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "end-time",
   propertySlug: "end-time",
   definition: "when a stretch of time ended",

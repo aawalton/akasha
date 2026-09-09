@@ -5,6 +5,7 @@ export type SortBy = string
 export const sortBy = {
   id: "01a063ee-2a3b-73bd-a1a3-41f5ed381a14",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "sort-by",
   propertySlug: "sort-by",
   definition: "the key a query orders its answer by",

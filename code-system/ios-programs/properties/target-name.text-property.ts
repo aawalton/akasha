@@ -5,6 +5,7 @@ export type TargetName = string
 export const targetName = {
   id: "01a059c0-5610-793f-b79a-cb8f78cf963e",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "target-name",
   propertySlug: "target-name",
   definition: "the name Xcode builds a program under",

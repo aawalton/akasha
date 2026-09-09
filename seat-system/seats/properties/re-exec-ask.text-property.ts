@@ -5,6 +5,7 @@ export type ReExecAsk = string
 export const reExecAsk = {
   id: "01a05810-00ac-7843-9198-1c1fed82fd40",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "re-exec-ask",
   propertySlug: "re-exec-ask",
   definition: "the standing of a seat's request to re-exec its supervisor",

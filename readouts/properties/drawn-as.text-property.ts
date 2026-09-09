@@ -5,6 +5,7 @@ export type DrawnAs = "stoplight" | "number"
 export const drawnAs = {
   id: "01a063bd-a526-78b3-ad87-dc9525cc297e",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "drawn-as",
   propertySlug: "drawn-as",
   definition: "whether a reading is drawn as a stoplight or as a bare number",

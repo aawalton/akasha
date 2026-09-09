@@ -6,6 +6,7 @@ export type EvolvesToSlugs = List<string>
 export const evolvesToSlugs = {
   id: "01a0655d-ac15-78e3-a569-51e32648b88c",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "evolves-to-slugs",
   propertySlug: "evolves-to-slugs",
   definition: "every mechanic this one reaches",

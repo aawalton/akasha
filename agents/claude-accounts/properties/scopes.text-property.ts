@@ -7,6 +7,7 @@ export type Scopes = List<Scope>
 export const scopes = {
   id: "01a054d8-1d39-7232-855e-3f83e6fed615",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "scopes",
   propertySlug: "scopes",
   definition: "one permission the account's token was granted",

@@ -6,6 +6,7 @@ export type Meals = List<string>
 export const meals = {
   id: "01a05fd8-c30f-7952-9ba0-4a131ba3347a",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "meals",
   propertySlug: "meals",
   definition: "every meal recorded against a day",

@@ -5,6 +5,7 @@ export type WebEnvPath = string
 export const webEnvPath = {
   id: "01a05f87-1b06-7e23-8e4c-c86b56b73813",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "web-env-path",
   propertySlug: "web-env-path",
   definition: "where the env file a site is built against lives in the repository",

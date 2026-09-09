@@ -5,6 +5,7 @@ export type AgentId = string
 export const agentId = {
   id: "01a062c8-99b7-7bd3-91ac-676da441cf14",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "agent-id",
   propertySlug: "agent-id",
   definition: "the id an agent acts under",

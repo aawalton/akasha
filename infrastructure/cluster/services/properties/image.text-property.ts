@@ -5,6 +5,7 @@ export type Image = string
 export const image = {
   id: "01a05b26-f8b6-73e6-aedb-75b88fac6b4b",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "image",
   propertySlug: "image",
   definition: "the container image a workload's pods run",

@@ -6,6 +6,7 @@ export type OpenAgents = List<string>
 export const openAgents = {
   id: "01a06e54-0ed0-7742-a4ff-9477de411c0c",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "open-agents",
   propertySlug: "open-agents",
   definition: "every subagent a seat started that is still live",

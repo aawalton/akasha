@@ -6,6 +6,7 @@ export type Relationships = List<string>
 export const relationships = {
   id: "01a05fd8-c30f-754a-bb2e-de6ec74d6e4a",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "relationships",
   propertySlug: "relationships",
   definition: "the people a stretch of time was spent with",

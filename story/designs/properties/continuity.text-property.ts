@@ -5,6 +5,7 @@ export type Continuity = string
 export const continuity = {
   id: "01a06577-f385-7f47-8c46-429d378841ca",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "continuity",
   propertySlug: "continuity",
   definition: "what a story has constant between its chapters",

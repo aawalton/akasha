@@ -5,6 +5,7 @@ export type EmailRuleCodeDelay = string
 export const emailRuleCodeDelay = {
   id: "01a06860-54a0-7230-bcc6-36683850bf02",
   pageTypeSlug: "text-property",
+  type: "text-property",
   slug: "email-rule-code-delay",
   propertySlug: "delay",
   definition: "how long after mail arrives before the rule acts on it",
