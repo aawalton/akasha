@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0128ChapterFortySixImpeccableMathemati
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0128-chapter-forty-six-impeccable-mathematics",
   title: "Chapter Forty-Six - Impeccable Mathematics",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 128,
   ownLength: 1543,
   unitSlug: "words",

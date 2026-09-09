@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0251ChapterElevenGettingReadyToGetHot 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0251-chapter-eleven-getting-ready-to-get-hot",
   title: "Chapter Eleven - Getting Ready to Get Hot",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 251,
   ownLength: 1554,
   unitSlug: "words",

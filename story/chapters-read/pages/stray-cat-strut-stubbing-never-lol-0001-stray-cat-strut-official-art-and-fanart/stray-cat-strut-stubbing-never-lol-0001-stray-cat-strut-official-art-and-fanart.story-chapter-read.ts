@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0001StrayCatStrutOfficialArtAndFanart 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0001-stray-cat-strut-official-art-and-fanart",
   title: "Stray Cat Strut - Official Art and Fanart!",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 1,
   ownLength: 31,
   unitSlug: "words",

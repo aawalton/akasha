@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0074ChapterSeventyTwoInServiceToThePre
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0074-chapter-seventy-two-in-service-to-the-prevention",
   title: "Chapter Seventy-Two - In Service to the Prevention of Stupidity",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 74,
   ownLength: 1556,
   unitSlug: "words",

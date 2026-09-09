@@ -5,7 +5,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0002EndlessDream = {
   pageTypeSlug: "story-chapter-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg-0002-endless-dream",
   title: "Endless Dream",
-  storySlug: "squid-girl-evolution-monster-girl-evolution-litrpg",
+  story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 2,
   ownLength: 1328,
   unitSlug: "words",

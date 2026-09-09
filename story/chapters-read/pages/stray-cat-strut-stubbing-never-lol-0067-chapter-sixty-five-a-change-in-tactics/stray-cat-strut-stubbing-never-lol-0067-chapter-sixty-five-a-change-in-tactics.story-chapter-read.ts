@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0067ChapterSixtyFiveAChangeInTactics =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0067-chapter-sixty-five-a-change-in-tactics",
   title: "Chapter Sixty-Five - A Change in Tactics",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 67,
   ownLength: 1596,
   unitSlug: "words",

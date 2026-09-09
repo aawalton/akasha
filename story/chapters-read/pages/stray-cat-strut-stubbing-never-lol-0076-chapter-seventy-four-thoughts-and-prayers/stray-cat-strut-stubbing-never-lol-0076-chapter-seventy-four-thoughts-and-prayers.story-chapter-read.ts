@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0076ChapterSeventyFourThoughtsAndPraye
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0076-chapter-seventy-four-thoughts-and-prayers",
   title: "Chapter Seventy-Four - Thoughts and Prayers",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 76,
   ownLength: 1584,
   unitSlug: "words",

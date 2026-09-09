@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0084ChapterThreePostCoitalInterruption
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0084-chapter-three-post-coital-interruptions",
   title: "Chapter Three - Post Coital Interruptions",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 84,
   ownLength: 1525,
   unitSlug: "words",

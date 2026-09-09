@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0235ChapterSixtySevenThingsGetBetter =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0235-chapter-sixty-seven-things-get-better",
   title: "Chapter Sixty-Seven - Things get Better",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 235,
   ownLength: 1610,
   unitSlug: "words",

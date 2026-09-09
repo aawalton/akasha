@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0046290TheGodOfAlchemyIi = {
   pageTypeSlug: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0046-290-the-god-of-alchemy-ii",
   title: "290. The God of Alchemy (II) ",
-  storySlug: "speedrunning-the-multiverse-complete",
+  story: "speedrunning-the-multiverse-complete",
   position: 46,
   ownLength: 1696,
   unitSlug: "words",

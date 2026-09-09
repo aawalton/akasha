@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0006ChapterFourPoleDancing = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0006-chapter-four-pole-dancing",
   title: "Chapter Four - Pole Dancing",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 6,
   ownLength: 1641,
   unitSlug: "words",

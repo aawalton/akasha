@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0033ChapterThirtyOneTheBiggerTheyAre =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0033-chapter-thirty-one-the-bigger-they-are",
   title: "Chapter Thirty-One - The Bigger They Are",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 33,
   ownLength: 1252,
   unitSlug: "words",

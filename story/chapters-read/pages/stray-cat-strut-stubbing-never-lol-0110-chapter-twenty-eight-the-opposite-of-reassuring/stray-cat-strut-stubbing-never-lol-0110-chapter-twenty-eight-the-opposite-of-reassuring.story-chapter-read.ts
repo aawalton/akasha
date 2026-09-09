@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0110ChapterTwentyEightTheOppositeOfRea
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0110-chapter-twenty-eight-the-opposite-of-reassuring",
   title: "Chapter Twenty-Eight - The Opposite of Reassuring",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 110,
   ownLength: 1424,
   unitSlug: "words",

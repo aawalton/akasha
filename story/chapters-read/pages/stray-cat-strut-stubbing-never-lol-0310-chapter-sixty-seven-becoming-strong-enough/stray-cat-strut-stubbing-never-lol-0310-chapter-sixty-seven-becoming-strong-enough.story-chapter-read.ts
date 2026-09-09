@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0310ChapterSixtySevenBecomingStrongEno
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0310-chapter-sixty-seven-becoming-strong-enough",
   title: "Chapter Sixty-Seven - Becoming Strong Enough",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 310,
   ownLength: 1530,
   unitSlug: "words",

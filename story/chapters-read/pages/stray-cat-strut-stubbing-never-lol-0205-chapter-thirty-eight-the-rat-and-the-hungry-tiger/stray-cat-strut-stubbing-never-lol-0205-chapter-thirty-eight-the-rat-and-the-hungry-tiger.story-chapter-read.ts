@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0205ChapterThirtyEightTheRatAndTheHung
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0205-chapter-thirty-eight-the-rat-and-the-hungry-tiger",
   title: "Chapter Thirty-Eight - The Rat and the Hungry Tiger",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 205,
   ownLength: 1427,
   unitSlug: "words",

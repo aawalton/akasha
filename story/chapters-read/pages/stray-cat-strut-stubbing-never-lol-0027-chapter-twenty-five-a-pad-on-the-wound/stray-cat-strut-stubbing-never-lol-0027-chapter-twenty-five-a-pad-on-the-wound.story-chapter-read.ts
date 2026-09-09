@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0027ChapterTwentyFiveAPadOnTheWound = 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0027-chapter-twenty-five-a-pad-on-the-wound",
   title: "Chapter Twenty-Five - A Pad on the Wound",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 27,
   ownLength: 997,
   unitSlug: "words",

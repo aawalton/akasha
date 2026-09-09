@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0050294TheGodOfTime = {
   pageTypeSlug: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0050-294-the-god-of-time",
   title: "294. The God of Time",
-  storySlug: "speedrunning-the-multiverse-complete",
+  story: "speedrunning-the-multiverse-complete",
   position: 50,
   ownLength: 1535,
   unitSlug: "words",

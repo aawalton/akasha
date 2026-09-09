@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0184ChapterSeventeenShitBureaucracy = 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0184-chapter-seventeen-shit-bureaucracy",
   title: "Chapter Seventeen - Shit Bureaucracy",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 184,
   ownLength: 1511,
   unitSlug: "words",

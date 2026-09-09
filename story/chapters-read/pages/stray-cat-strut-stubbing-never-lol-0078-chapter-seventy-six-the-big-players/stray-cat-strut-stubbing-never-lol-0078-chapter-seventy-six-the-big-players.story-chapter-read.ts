@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0078ChapterSeventySixTheBigPlayers = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0078-chapter-seventy-six-the-big-players",
   title: "Chapter Seventy-Six - The Big Players",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 78,
   ownLength: 1344,
   unitSlug: "words",

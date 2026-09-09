@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0169ChapterTwoBecauseBeingABamfIsEasie
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0169-chapter-two-because-being-a-bamf-is-easier-in",
   title: "Chapter Two - Because being a BAMF is Easier in Power Armour",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 169,
   ownLength: 1569,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0231ChapterSixtyThreeAVeryNiceAndCivil
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0231-chapter-sixty-three-a-very-nice-and-civil",
   title: "Chapter Sixty-Three - A Very Nice and Civil Discussion",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 231,
   ownLength: 1441,
   unitSlug: "words",

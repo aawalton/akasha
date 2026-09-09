@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0062ChapterSixtyAUniqueCombatDoctrine 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0062-chapter-sixty-a-unique-combat-doctrine",
   title: "Chapter Sixty - A Unique Combat Doctrine",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 62,
   ownLength: 1475,
   unitSlug: "words",

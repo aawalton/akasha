@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0289ChapterFortyEightItsNeverEasy = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0289-chapter-forty-eight-its-never-easy",
   title: "Chapter Forty-Eight - It's Never Easy",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 289,
   ownLength: 1452,
   unitSlug: "words",

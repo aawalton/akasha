@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0186ChapterNineteenHumanityDegraded = 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0186-chapter-nineteen-humanity-degraded",
   title: "Chapter Nineteen - Humanity Degraded",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 186,
   ownLength: 1579,
   unitSlug: "words",

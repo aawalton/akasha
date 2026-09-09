@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0059NewStoryAnnouncement = {
   pageTypeSlug: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0059-new-story-announcement",
   title: "New Story Announcement!",
-  storySlug: "speedrunning-the-multiverse-complete",
+  story: "speedrunning-the-multiverse-complete",
   position: 59,
   ownLength: 224,
   unitSlug: "words",

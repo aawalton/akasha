@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0038ChapterThirtySixAMatterOfTrust = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0038-chapter-thirty-six-a-matter-of-trust",
   title: "Chapter Thirty-Six - A Matter of Trust",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 38,
   ownLength: 1178,
   unitSlug: "words",

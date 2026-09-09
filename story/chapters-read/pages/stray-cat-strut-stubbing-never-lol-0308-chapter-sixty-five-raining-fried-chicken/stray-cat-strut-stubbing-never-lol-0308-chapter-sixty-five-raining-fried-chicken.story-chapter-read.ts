@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0308ChapterSixtyFiveRainingFriedChicke
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0308-chapter-sixty-five-raining-fried-chicken",
   title: "Chapter Sixty-Five - Raining Fried Chicken",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 308,
   ownLength: 1500,
   unitSlug: "words",

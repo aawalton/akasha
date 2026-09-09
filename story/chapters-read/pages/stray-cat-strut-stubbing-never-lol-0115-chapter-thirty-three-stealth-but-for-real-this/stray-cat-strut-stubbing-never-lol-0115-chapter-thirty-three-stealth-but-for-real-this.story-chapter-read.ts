@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0115ChapterThirtyThreeStealthButForRea
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0115-chapter-thirty-three-stealth-but-for-real-this",
   title: "Chapter Thirty-Three - Stealth, But For Real This Time",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 115,
   ownLength: 1442,
   unitSlug: "words",

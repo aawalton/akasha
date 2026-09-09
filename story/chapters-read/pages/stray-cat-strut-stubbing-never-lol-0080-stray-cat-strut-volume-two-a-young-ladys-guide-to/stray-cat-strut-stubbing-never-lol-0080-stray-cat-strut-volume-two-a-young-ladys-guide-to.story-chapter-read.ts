@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0080StrayCatStrutVolumeTwoAYoungLadysG
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0080-stray-cat-strut-volume-two-a-young-ladys-guide-to",
   title: "Stray Cat Strut - Volume Two - A Young Lady's Guide to Exploding the Corporate Ladder",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 80,
   ownLength: 74,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0018ChapterSixteenLifeFindsAWay = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0018-chapter-sixteen-life-finds-a-way",
   title: "Chapter Sixteen - Life Finds a Way",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 18,
   ownLength: 1131,
   unitSlug: "words",

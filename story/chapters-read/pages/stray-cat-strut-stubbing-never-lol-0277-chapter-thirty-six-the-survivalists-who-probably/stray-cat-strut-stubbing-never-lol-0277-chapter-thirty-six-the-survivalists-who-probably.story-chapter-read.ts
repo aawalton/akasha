@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0277ChapterThirtySixTheSurvivalistsWho
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0277-chapter-thirty-six-the-survivalists-who-probably",
   title: "Chapter Thirty-Six - The Survivalists Who Probably Won't",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 277,
   ownLength: 1500,
   unitSlug: "words",

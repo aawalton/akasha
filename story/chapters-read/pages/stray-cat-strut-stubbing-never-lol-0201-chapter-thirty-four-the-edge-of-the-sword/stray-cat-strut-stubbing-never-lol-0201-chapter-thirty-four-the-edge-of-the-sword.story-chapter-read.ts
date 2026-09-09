@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0201ChapterThirtyFourTheEdgeOfTheSword
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0201-chapter-thirty-four-the-edge-of-the-sword",
   title: "Chapter Thirty-Four - The Edge of the Sword",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 201,
   ownLength: 1609,
   unitSlug: "words",

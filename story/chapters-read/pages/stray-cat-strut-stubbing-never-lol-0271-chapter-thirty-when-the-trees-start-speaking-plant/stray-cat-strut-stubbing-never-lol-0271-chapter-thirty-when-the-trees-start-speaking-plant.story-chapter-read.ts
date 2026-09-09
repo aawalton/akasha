@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0271ChapterThirtyWhenTheTreesStartSpea
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0271-chapter-thirty-when-the-trees-start-speaking-plant",
   title: "Chapter Thirty - When the Trees Start Speaking Plant",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 271,
   ownLength: 1471,
   unitSlug: "words",

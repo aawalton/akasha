@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0051295FinaleI = {
   pageTypeSlug: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0051-295-finale-i",
   title: "295. Finale (I) ",
-  storySlug: "speedrunning-the-multiverse-complete",
+  story: "speedrunning-the-multiverse-complete",
   position: 51,
   ownLength: 1532,
   unitSlug: "words",

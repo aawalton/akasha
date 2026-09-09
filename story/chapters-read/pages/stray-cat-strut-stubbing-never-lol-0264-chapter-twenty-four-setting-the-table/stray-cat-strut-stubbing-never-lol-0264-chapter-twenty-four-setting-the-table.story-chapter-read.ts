@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0264ChapterTwentyFourSettingTheTable =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0264-chapter-twenty-four-setting-the-table",
   title: "Chapter Twenty-Four - Setting the Table",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 264,
   ownLength: 1527,
   unitSlug: "words",

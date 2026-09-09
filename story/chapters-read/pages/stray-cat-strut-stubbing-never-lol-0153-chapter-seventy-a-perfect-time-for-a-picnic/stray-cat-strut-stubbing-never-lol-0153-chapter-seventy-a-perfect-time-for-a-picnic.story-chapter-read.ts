@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0153ChapterSeventyAPerfectTimeForAPicn
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0153-chapter-seventy-a-perfect-time-for-a-picnic",
   title: "Chapter Seventy - A Perfect Time for a Picnic",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 153,
   ownLength: 1431,
   unitSlug: "words",

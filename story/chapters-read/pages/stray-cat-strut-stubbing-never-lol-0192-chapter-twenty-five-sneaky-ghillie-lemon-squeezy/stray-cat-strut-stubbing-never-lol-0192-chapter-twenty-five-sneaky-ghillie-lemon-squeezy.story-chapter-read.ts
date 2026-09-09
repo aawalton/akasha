@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0192ChapterTwentyFiveSneakyGhillieLemo
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0192-chapter-twenty-five-sneaky-ghillie-lemon-squeezy",
   title: "Chapter Twenty-Five - Sneaky Ghillie Lemon Squeezy",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 192,
   ownLength: 1452,
   unitSlug: "words",

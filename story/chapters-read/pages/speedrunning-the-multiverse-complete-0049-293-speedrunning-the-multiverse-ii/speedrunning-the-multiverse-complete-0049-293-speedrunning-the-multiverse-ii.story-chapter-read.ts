@@ -5,7 +5,7 @@ export const speedrunningTheMultiverseComplete0049293SpeedrunningTheMultiverseIi
   pageTypeSlug: "story-chapter-read",
   slug: "speedrunning-the-multiverse-complete-0049-293-speedrunning-the-multiverse-ii",
   title: "293. Speedrunning the Multiverse (II)",
-  storySlug: "speedrunning-the-multiverse-complete",
+  story: "speedrunning-the-multiverse-complete",
   position: 49,
   ownLength: 1800,
   unitSlug: "words",

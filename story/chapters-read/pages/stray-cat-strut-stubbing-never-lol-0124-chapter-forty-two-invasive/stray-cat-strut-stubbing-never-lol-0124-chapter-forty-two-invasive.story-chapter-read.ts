@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0124ChapterFortyTwoInvasive = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0124-chapter-forty-two-invasive",
   title: "Chapter Forty-Two - Invasive",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 124,
   ownLength: 1562,
   unitSlug: "words",

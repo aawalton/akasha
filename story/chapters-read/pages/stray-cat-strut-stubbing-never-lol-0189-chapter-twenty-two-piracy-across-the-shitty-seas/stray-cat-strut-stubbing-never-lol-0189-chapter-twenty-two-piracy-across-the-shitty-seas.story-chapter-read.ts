@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0189ChapterTwentyTwoPiracyAcrossTheShi
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0189-chapter-twenty-two-piracy-across-the-shitty-seas",
   title: "Chapter Twenty-Two - Piracy Across the Shitty Seas",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 189,
   ownLength: 1493,
   unitSlug: "words",

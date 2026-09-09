@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0085ChapterFourMeanMinionMode = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0085-chapter-four-mean-minion-mode",
   title: "Chapter Four - Mean Minion Mode",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 85,
   ownLength: 1573,
   unitSlug: "words",

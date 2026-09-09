@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0056ChapterFiftyFourSettingToBoil = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0056-chapter-fifty-four-setting-to-boil",
   title: "Chapter Fifty-Four - Setting to Boil",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 56,
   ownLength: 1439,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0013ChapterElevenLikeSantaButWithGuns 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0013-chapter-eleven-like-santa-but-with-guns",
   title: "Chapter Eleven - Like Santa, but With Guns",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 13,
   ownLength: 1146,
   unitSlug: "words",

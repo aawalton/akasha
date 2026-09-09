@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0148ChapterSixtyFivePoliticsAccordingT
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0148-chapter-sixty-five-politics-according-to-cat",
   title: "Chapter Sixty-Five - Politics According to Cat",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 148,
   ownLength: 1439,
   unitSlug: "words",

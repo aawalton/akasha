@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0232ChapterSixtyFourTryingOutThatSteal
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0232-chapter-sixty-four-trying-out-that-stealth-stuff",
   title: "Chapter Sixty-Four - Trying out that Stealth Stuff",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 232,
   ownLength: 1573,
   unitSlug: "words",

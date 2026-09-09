@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0059ChapterFiftySevenCollateralDamage 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0059-chapter-fifty-seven-collateral-damage",
   title: "Chapter Fifty-Seven - Collateral Damage",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 59,
   ownLength: 1488,
   unitSlug: "words",

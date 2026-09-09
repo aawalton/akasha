@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0178ChapterElevenPlayingWithGomorrahsF
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0178-chapter-eleven-playing-with-gomorrahs-franny",
   title: "Chapter Eleven - Playing with Gomorrah’s Franny",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 178,
   ownLength: 1457,
   unitSlug: "words",

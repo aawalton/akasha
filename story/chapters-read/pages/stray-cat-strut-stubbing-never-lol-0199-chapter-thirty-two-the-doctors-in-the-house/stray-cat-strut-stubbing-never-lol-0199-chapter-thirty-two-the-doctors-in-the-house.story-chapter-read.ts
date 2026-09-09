@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0199ChapterThirtyTwoTheDoctorsInTheHou
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0199-chapter-thirty-two-the-doctors-in-the-house",
   title: "Chapter Thirty-Two - The Doctor’s In the House",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 199,
   ownLength: 1559,
   unitSlug: "words",

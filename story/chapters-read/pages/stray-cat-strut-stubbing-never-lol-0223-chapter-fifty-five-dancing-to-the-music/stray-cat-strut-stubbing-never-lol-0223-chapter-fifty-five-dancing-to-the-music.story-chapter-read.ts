@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0223ChapterFiftyFiveDancingToTheMusic 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0223-chapter-fifty-five-dancing-to-the-music",
   title: "Chapter Fifty-Five - Dancing to the Music",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 223,
   ownLength: 1533,
   unitSlug: "words",

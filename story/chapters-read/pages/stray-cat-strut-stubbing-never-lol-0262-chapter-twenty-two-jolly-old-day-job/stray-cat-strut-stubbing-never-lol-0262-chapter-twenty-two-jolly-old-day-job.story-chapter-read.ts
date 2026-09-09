@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0262ChapterTwentyTwoJollyOldDayJob = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0262-chapter-twenty-two-jolly-old-day-job",
   title: "Chapter Twenty-Two - Jolly Old Day Job",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 262,
   ownLength: 1479,
   unitSlug: "words",

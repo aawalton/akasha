@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0066ChapterSixtyFourTougherMeansMoreBo
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0066-chapter-sixty-four-tougher-means-more-boom",
   title: "Chapter Sixty-Four - Tougher Means More Boom",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 66,
   ownLength: 1522,
   unitSlug: "words",

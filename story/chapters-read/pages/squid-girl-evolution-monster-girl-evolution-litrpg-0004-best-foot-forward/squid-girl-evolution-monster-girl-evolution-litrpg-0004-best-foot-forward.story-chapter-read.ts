@@ -5,7 +5,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0004BestFootForward = {
   pageTypeSlug: "story-chapter-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg-0004-best-foot-forward",
   title: "Best Foot Forward",
-  storySlug: "squid-girl-evolution-monster-girl-evolution-litrpg",
+  story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 4,
   ownLength: 1455,
   unitSlug: "words",

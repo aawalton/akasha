@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0149ChapterSixtySixTanksAndSoldiersAnd
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0149-chapter-sixty-six-tanks-and-soldiers-and-guns-oh",
   title: "Chapter Sixty-Six - Tanks and Soldiers and Guns, Oh My!",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 149,
   ownLength: 1522,
   unitSlug: "words",

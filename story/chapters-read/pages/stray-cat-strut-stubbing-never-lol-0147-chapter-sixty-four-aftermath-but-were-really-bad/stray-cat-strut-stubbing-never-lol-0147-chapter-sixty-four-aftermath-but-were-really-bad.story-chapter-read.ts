@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0147ChapterSixtyFourAftermathButWereRe
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0147-chapter-sixty-four-aftermath-but-were-really-bad",
   title: "Chapter Sixty-Four - Aftermath, but we’re Really Bad at Math",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 147,
   ownLength: 1459,
   unitSlug: "words",

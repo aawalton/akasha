@@ -5,7 +5,7 @@ export const squidGirlEvolutionMonsterGirlEvolutionLitrpg0005Home = {
   pageTypeSlug: "story-chapter-read",
   slug: "squid-girl-evolution-monster-girl-evolution-litrpg-0005-home",
   title: "Home",
-  storySlug: "squid-girl-evolution-monster-girl-evolution-litrpg",
+  story: "squid-girl-evolution-monster-girl-evolution-litrpg",
   position: 5,
   ownLength: 1573,
   unitSlug: "words",

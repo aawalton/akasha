@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0007ChapterFiveDyingIsForOtherPeople =
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0007-chapter-five-dying-is-for-other-people",
   title: "Chapter Five - Dying is For Other People",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 7,
   ownLength: 1163,
   unitSlug: "words",

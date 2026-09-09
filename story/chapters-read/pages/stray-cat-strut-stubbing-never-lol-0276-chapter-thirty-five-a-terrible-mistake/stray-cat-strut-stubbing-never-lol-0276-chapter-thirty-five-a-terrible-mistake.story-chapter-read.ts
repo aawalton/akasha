@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0276ChapterThirtyFiveATerribleMistake 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0276-chapter-thirty-five-a-terrible-mistake",
   title: "Chapter Thirty-Five - A Terrible Mistake",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 276,
   ownLength: 1579,
   unitSlug: "words",

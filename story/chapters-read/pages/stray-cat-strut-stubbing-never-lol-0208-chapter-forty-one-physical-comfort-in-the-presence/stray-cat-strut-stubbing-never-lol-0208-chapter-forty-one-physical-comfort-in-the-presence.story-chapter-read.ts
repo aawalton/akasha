@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0208ChapterFortyOnePhysicalComfortInTh
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0208-chapter-forty-one-physical-comfort-in-the-presence",
   title: "Chapter Forty-One - Physical Comfort in the Presence of Another",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 208,
   ownLength: 1540,
   unitSlug: "words",

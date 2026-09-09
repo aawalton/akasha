@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0290AiPocryphaGpt3WrittenEpigraphs = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0290-ai-pocrypha-gpt-3-written-epigraphs",
   title: "AI-pocrypha - GPT-3 Written Epigraphs",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 290,
   ownLength: 1308,
   unitSlug: "words",

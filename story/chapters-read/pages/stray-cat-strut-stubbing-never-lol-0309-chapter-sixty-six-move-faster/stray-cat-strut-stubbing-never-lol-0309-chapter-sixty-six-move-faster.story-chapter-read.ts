@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0309ChapterSixtySixMoveFaster = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0309-chapter-sixty-six-move-faster",
   title: "Chapter Sixty-Six - Move Faster",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 309,
   ownLength: 1537,
   unitSlug: "words",

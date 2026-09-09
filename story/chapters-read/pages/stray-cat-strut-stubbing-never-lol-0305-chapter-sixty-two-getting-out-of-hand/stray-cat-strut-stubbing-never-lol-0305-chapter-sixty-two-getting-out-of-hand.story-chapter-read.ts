@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0305ChapterSixtyTwoGettingOutOfHand = 
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0305-chapter-sixty-two-getting-out-of-hand",
   title: "Chapter Sixty-Two - Getting Out of Hand",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 305,
   ownLength: 1584,
   unitSlug: "words",

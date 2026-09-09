@@ -5,7 +5,7 @@ export const strayCatStrutStubbingNeverLol0119ChapterThirtySevenCashMoney = {
   pageTypeSlug: "story-chapter-read",
   slug: "stray-cat-strut-stubbing-never-lol-0119-chapter-thirty-seven-cash-money",
   title: "Chapter Thirty-Seven - Cash Money",
-  storySlug: "stray-cat-strut-stubbing-never-lol",
+  story: "stray-cat-strut-stubbing-never-lol",
   position: 119,
   ownLength: 1592,
   unitSlug: "words",
