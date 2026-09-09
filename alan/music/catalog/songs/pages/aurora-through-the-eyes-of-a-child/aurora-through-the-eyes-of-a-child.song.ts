@@ -5,7 +5,7 @@ export const auroraThroughTheEyesOfAChild = {
   pageTypeSlug: "song",
   slug: "aurora-through-the-eyes-of-a-child",
   title: "Through the Eyes of a Child",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "63e79667-ac86-4a9d-85f0-7dd577de7b9e",
   externalLink: "https://musicbrainz.org/work/63e79667-ac86-4a9d-85f0-7dd577de7b9e",
   source: "musicbrainz",

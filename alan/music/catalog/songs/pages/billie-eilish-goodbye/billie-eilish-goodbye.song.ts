@@ -5,7 +5,7 @@ export const billieEilishGoodbye = {
   pageTypeSlug: "song",
   slug: "billie-eilish-goodbye",
   title: "goodbye",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "6a17fb4b-2190-4d64-b369-fed846ab42d2",
   externalLink: "https://musicbrainz.org/work/6a17fb4b-2190-4d64-b369-fed846ab42d2",
   source: "musicbrainz",

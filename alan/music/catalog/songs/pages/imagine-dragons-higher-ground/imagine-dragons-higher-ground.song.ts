@@ -5,7 +5,7 @@ export const imagineDragonsHigherGround = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-higher-ground",
   title: "Higher Ground",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "4b409796-03ee-4aff-b3af-7075458ec997",
   externalLink: "https://musicbrainz.org/work/4b409796-03ee-4aff-b3af-7075458ec997",
   source: "musicbrainz",

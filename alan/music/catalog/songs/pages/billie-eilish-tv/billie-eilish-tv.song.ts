@@ -5,7 +5,7 @@ export const billieEilishTv = {
   pageTypeSlug: "song",
   slug: "billie-eilish-tv",
   title: "TV",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "d4c211a7-df35-4815-b93c-72f6861b30c6",
   externalLink: "https://musicbrainz.org/work/d4c211a7-df35-4815-b93c-72f6861b30c6",
   source: "musicbrainz",

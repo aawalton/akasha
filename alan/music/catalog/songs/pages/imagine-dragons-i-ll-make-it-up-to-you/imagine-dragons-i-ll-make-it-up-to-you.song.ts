@@ -5,7 +5,7 @@ export const imagineDragonsILlMakeItUpToYou = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-i-ll-make-it-up-to-you",
   title: "I’ll Make It Up to You",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "9480f4de-ff56-4248-9366-eef3caeed7ad",
   externalLink: "https://musicbrainz.org/work/9480f4de-ff56-4248-9366-eef3caeed7ad",
   source: "musicbrainz",

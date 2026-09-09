@@ -5,7 +5,7 @@ export const auroraArtemis = {
   pageTypeSlug: "song",
   slug: "aurora-artemis",
   title: "Artemis",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "430b1cd9-51c3-44f9-a061-f01b5f248007",
   externalLink: "https://musicbrainz.org/work/430b1cd9-51c3-44f9-a061-f01b5f248007",
   source: "musicbrainz",

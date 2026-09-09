@@ -5,7 +5,7 @@ export const billieEilishSometimesTheyDo = {
   pageTypeSlug: "song",
   slug: "billie-eilish-sometimes-they-do",
   title: "Sometimes They Do",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "0f5c4876-f8aa-4ff3-83b0-73d486416289",
   externalLink: "https://musicbrainz.org/work/0f5c4876-f8aa-4ff3-83b0-73d486416289",
   source: "musicbrainz",

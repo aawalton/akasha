@@ -5,7 +5,7 @@ export const arianaGrandeTwilightZone = {
   pageTypeSlug: "song",
   slug: "ariana-grande-twilight-zone",
   title: "twilight zone",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "eded856f-03ba-4df3-a56a-2b9715617be6",
   externalLink: "https://musicbrainz.org/work/eded856f-03ba-4df3-a56a-2b9715617be6",
   source: "musicbrainz",

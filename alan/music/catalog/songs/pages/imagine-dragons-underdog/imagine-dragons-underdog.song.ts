@@ -5,7 +5,7 @@ export const imagineDragonsUnderdog = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-underdog",
   title: "Underdog",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "722eeed8-2c41-4f01-ba43-4005372317d6",
   externalLink: "https://musicbrainz.org/work/722eeed8-2c41-4f01-ba43-4005372317d6",
   source: "musicbrainz",

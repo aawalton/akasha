@@ -5,7 +5,7 @@ export const billieEilishWinner = {
   pageTypeSlug: "song",
   slug: "billie-eilish-winner",
   title: "Winner",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "af40fe56-5e2f-4f7e-8b03-a1ca5528ba45",
   externalLink: "https://musicbrainz.org/work/af40fe56-5e2f-4f7e-8b03-a1ca5528ba45",
   source: "musicbrainz",

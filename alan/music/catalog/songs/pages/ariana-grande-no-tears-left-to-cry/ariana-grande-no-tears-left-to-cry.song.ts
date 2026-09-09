@@ -5,7 +5,7 @@ export const arianaGrandeNoTearsLeftToCry = {
   pageTypeSlug: "song",
   slug: "ariana-grande-no-tears-left-to-cry",
   title: "no tears left to cry",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "a9f8136b-aa0e-429f-8c75-e1543864ba51",
   externalLink: "https://musicbrainz.org/work/a9f8136b-aa0e-429f-8c75-e1543864ba51",
   source: "musicbrainz",

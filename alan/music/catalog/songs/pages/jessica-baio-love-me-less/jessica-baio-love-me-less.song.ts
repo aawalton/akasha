@@ -5,7 +5,7 @@ export const jessicaBaioLoveMeLess = {
   pageTypeSlug: "song",
   slug: "jessica-baio-love-me-less",
   title: "love me less",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "e1b40c79-e5b7-4a54-808f-a5ec9a44de0c",
   externalLink: "https://musicbrainz.org/recording/e1b40c79-e5b7-4a54-808f-a5ec9a44de0c",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeSixThirty = {
   pageTypeSlug: "song",
   slug: "ariana-grande-six-thirty",
   title: "six thirty",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "3bab5d21-bc9c-44a5-a6df-4945eb6f387c",
   externalLink: "https://musicbrainz.org/work/3bab5d21-bc9c-44a5-a6df-4945eb6f387c",
   source: "musicbrainz",

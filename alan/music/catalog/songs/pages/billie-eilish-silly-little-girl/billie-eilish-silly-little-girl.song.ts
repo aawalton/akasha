@@ -5,7 +5,7 @@ export const billieEilishSillyLittleGirl = {
   pageTypeSlug: "song",
   slug: "billie-eilish-silly-little-girl",
   title: "Silly Little Girl",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "e2148b57-35ea-4d30-8906-d2f701026343",
   externalLink: "https://musicbrainz.org/work/e2148b57-35ea-4d30-8906-d2f701026343",
   source: "musicbrainz",

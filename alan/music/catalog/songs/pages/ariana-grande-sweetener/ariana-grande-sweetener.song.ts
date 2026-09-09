@@ -5,7 +5,7 @@ export const arianaGrandeSweetener = {
   pageTypeSlug: "song",
   slug: "ariana-grande-sweetener",
   title: "sweetener",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "c84d34d7-7a6f-4a7c-8ef8-2d27e20cf743",
   externalLink: "https://musicbrainz.org/work/c84d34d7-7a6f-4a7c-8ef8-2d27e20cf743",
   source: "musicbrainz",

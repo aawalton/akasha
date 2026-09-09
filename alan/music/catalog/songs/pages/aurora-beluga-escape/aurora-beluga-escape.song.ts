@@ -5,7 +5,7 @@ export const auroraBelugaEscape = {
   pageTypeSlug: "song",
   slug: "aurora-beluga-escape",
   title: "Beluga Escape",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "3a728258-9557-426a-92bb-daa9f49f0823",
   externalLink: "https://musicbrainz.org/work/3a728258-9557-426a-92bb-daa9f49f0823",
   source: "musicbrainz",

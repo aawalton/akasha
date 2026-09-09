@@ -5,7 +5,7 @@ export const billieEilishMaleFantasy = {
   pageTypeSlug: "song",
   slug: "billie-eilish-male-fantasy",
   title: "Male Fantasy",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "3b8a5b19-468e-4e60-9c6d-c310bf4f755a",
   externalLink: "https://musicbrainz.org/work/3b8a5b19-468e-4e60-9c6d-c310bf4f755a",
   source: "musicbrainz",

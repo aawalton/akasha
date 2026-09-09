@@ -5,7 +5,7 @@ export const kellyClarksonFixYou = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-fix-you",
   title: "Fix You",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "c309eb61-2852-35e5-841b-151d4cf5807e",
   externalLink: "https://musicbrainz.org/work/c309eb61-2852-35e5-841b-151d4cf5807e",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const jessicaBaioFerrari = {
   pageTypeSlug: "song",
   slug: "jessica-baio-ferrari",
   title: "ferrari",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "02568915-1df1-4b4d-917b-d354a4a272a4",
   externalLink: "https://musicbrainz.org/recording/02568915-1df1-4b4d-917b-d354a4a272a4",
   source: "musicbrainz",

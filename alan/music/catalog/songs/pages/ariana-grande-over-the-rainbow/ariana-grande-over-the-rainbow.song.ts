@@ -5,7 +5,7 @@ export const arianaGrandeOverTheRainbow = {
   pageTypeSlug: "song",
   slug: "ariana-grande-over-the-rainbow",
   title: "Over the Rainbow",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "f8217125-b460-3902-8903-82979e3785ee",
   externalLink: "https://musicbrainz.org/work/f8217125-b460-3902-8903-82979e3785ee",
   source: "musicbrainz",

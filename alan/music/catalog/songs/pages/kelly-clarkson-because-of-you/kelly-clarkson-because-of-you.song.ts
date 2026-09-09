@@ -5,7 +5,7 @@ export const kellyClarksonBecauseOfYou = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-because-of-you",
   title: "Because of You",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "d34e2b1a-f29b-3e55-aa52-545846dae40e",
   externalLink: "https://musicbrainz.org/work/d34e2b1a-f29b-3e55-aa52-545846dae40e",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const jessicaBaioKissTell = {
   pageTypeSlug: "song",
   slug: "jessica-baio-kiss-tell",
   title: "kiss & tell",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "ef3a60a1-0963-4b33-b873-df0bdd18ae83",
   externalLink: "https://musicbrainz.org/recording/ef3a60a1-0963-4b33-b873-df0bdd18ae83",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const imagineDragonsEyesClosed2 = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-eyes-closed-2",
   title: "Eyes Closed",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "ecf49b90-57ed-4702-ab23-fcbc726d64cf",
   externalLink: "https://musicbrainz.org/work/ecf49b90-57ed-4702-ab23-fcbc726d64cf",
   source: "musicbrainz",

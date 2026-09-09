@@ -5,7 +5,7 @@ export const arianaGrandeGhostin = {
   pageTypeSlug: "song",
   slug: "ariana-grande-ghostin",
   title: "ghostin",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "bba54d4b-35e9-4703-b763-7c15aeeda3bc",
   externalLink: "https://musicbrainz.org/work/bba54d4b-35e9-4703-b763-7c15aeeda3bc",
   source: "musicbrainz",

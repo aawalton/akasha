@@ -5,7 +5,7 @@ export const jessicaBaioStartOver = {
   pageTypeSlug: "song",
   slug: "jessica-baio-start-over",
   title: "start over",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "e28ea4df-0488-4965-917b-4f1a7825958c",
   externalLink: "https://musicbrainz.org/recording/e28ea4df-0488-4965-917b-4f1a7825958c",
   source: "musicbrainz",

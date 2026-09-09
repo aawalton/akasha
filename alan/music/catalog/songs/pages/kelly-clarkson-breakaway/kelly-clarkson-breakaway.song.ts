@@ -5,7 +5,7 @@ export const kellyClarksonBreakaway = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-breakaway",
   title: "Breakaway",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "2701fa8d-033c-31d5-a65a-4641b1a20455",
   externalLink: "https://musicbrainz.org/work/2701fa8d-033c-31d5-a65a-4641b1a20455",
   source: "musicbrainz",

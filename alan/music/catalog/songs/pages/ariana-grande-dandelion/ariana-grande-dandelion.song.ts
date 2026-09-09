@@ -5,7 +5,7 @@ export const arianaGrandeDandelion = {
   pageTypeSlug: "song",
   slug: "ariana-grande-dandelion",
   title: "dandelion",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "ed7e1ac0-10eb-47cd-9ea5-ded05b629991",
   externalLink: "https://musicbrainz.org/work/ed7e1ac0-10eb-47cd-9ea5-ded05b629991",
   source: "musicbrainz",

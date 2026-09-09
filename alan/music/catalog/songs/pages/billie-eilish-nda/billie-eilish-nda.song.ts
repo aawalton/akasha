@@ -5,7 +5,7 @@ export const billieEilishNda = {
   pageTypeSlug: "song",
   slug: "billie-eilish-nda",
   title: "NDA",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "991938e8-cbe0-4f93-bdcb-c161cfc3d695",
   externalLink: "https://musicbrainz.org/work/991938e8-cbe0-4f93-bdcb-c161cfc3d695",
   source: "musicbrainz",

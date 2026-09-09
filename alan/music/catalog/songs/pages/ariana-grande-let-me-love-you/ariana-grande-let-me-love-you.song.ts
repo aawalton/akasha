@@ -5,7 +5,7 @@ export const arianaGrandeLetMeLoveYou = {
   pageTypeSlug: "song",
   slug: "ariana-grande-let-me-love-you",
   title: "Let Me Love You",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "e47b223f-d28c-4747-8f9f-73a455281d94",
   externalLink: "https://musicbrainz.org/work/e47b223f-d28c-4747-8f9f-73a455281d94",
   source: "musicbrainz",

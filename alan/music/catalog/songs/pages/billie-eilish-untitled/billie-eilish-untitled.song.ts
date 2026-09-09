@@ -5,7 +5,7 @@ export const billieEilishUntitled = {
   pageTypeSlug: "song",
   slug: "billie-eilish-untitled",
   title: "!!!!!!!",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "2942b400-fb80-4690-a698-433d301724ea",
   externalLink: "https://musicbrainz.org/work/2942b400-fb80-4690-a698-433d301724ea",
   source: "musicbrainz",

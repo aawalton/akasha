@@ -5,7 +5,7 @@ export const arianaGrandeNoOneMournsTheWicked = {
   pageTypeSlug: "song",
   slug: "ariana-grande-no-one-mourns-the-wicked",
   title: "No One Mourns the Wicked",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "a356afbf-7443-4571-a5d3-b1f7619b8806",
   externalLink: "https://musicbrainz.org/work/a356afbf-7443-4571-a5d3-b1f7619b8806",
   source: "musicbrainz",

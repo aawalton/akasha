@@ -5,7 +5,7 @@ export const arianaGrandeKnewBetterForeverBoy = {
   pageTypeSlug: "song",
   slug: "ariana-grande-knew-better-forever-boy",
   title: "Knew Better / Forever Boy",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "c92185e9-ea35-4abb-94eb-1892349dd09f",
   externalLink: "https://musicbrainz.org/work/c92185e9-ea35-4abb-94eb-1892349dd09f",
   source: "musicbrainz",

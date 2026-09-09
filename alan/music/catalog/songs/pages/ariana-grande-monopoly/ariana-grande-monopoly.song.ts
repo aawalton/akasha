@@ -5,7 +5,7 @@ export const arianaGrandeMonopoly = {
   pageTypeSlug: "song",
   slug: "ariana-grande-monopoly",
   title: "Monopoly",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "e09bce07-36b2-45fd-aa16-2d7106eb5237",
   externalLink: "https://musicbrainz.org/work/e09bce07-36b2-45fd-aa16-2d7106eb5237",
   source: "musicbrainz",

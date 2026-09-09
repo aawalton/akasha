@@ -5,7 +5,7 @@ export const imagineDragonsTakeMeToTheBeach = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-take-me-to-the-beach",
   title: "Take Me to the Beach",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "c2fa30b1-4ab0-434f-b887-e6175761aae6",
   externalLink: "https://musicbrainz.org/work/c2fa30b1-4ab0-434f-b887-e6175761aae6",
   source: "musicbrainz",

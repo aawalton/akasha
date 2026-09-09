@@ -5,7 +5,7 @@ export const auroraWrangelIsland = {
   pageTypeSlug: "song",
   slug: "aurora-wrangel-island",
   title: "Wrangel Island",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "5366d8bc-bece-49ea-af40-d539f7e7016b",
   externalLink: "https://musicbrainz.org/work/5366d8bc-bece-49ea-af40-d539f7e7016b",
   source: "musicbrainz",

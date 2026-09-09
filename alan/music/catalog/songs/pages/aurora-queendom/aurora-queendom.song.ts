@@ -5,7 +5,7 @@ export const auroraQueendom = {
   pageTypeSlug: "song",
   slug: "aurora-queendom",
   title: "Queendom",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "1a82dfbf-326a-4912-a5cd-687deb2ebeb0",
   externalLink: "https://musicbrainz.org/work/1a82dfbf-326a-4912-a5cd-687deb2ebeb0",
   source: "musicbrainz",

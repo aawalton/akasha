@@ -5,7 +5,7 @@ export const kellyClarksonYouThoughtWrong = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-you-thought-wrong",
   title: "You Thought Wrong",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "87c564d3-e0c4-4cb6-afde-358e2d4e0d83",
   externalLink: "https://musicbrainz.org/work/87c564d3-e0c4-4cb6-afde-358e2d4e0d83",
   source: "musicbrainz",

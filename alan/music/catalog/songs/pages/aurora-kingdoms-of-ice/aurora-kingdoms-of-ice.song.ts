@@ -5,7 +5,7 @@ export const auroraKingdomsOfIce = {
   pageTypeSlug: "song",
   slug: "aurora-kingdoms-of-ice",
   title: "Kingdoms of Ice",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "80ac1fa8-a5ae-4ca3-b0b6-636ab4137e5c",
   externalLink: "https://musicbrainz.org/work/80ac1fa8-a5ae-4ca3-b0b6-636ab4137e5c",
   source: "musicbrainz",

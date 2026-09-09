@@ -5,7 +5,7 @@ export const arianaGrandeHeatstroke = {
   pageTypeSlug: "song",
   slug: "ariana-grande-heatstroke",
   title: "Heatstroke",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "4c0a1e33-748c-4ba1-bdfe-135632719a99",
   externalLink: "https://musicbrainz.org/work/4c0a1e33-748c-4ba1-bdfe-135632719a99",
   source: "musicbrainz",

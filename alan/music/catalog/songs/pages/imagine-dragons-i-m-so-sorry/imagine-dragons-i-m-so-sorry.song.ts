@@ -5,7 +5,7 @@ export const imagineDragonsIMSoSorry = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-i-m-so-sorry",
   title: "I’m So Sorry",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "b823ad3a-d189-4041-aa09-35ef0bb1aae3",
   externalLink: "https://musicbrainz.org/work/b823ad3a-d189-4041-aa09-35ef0bb1aae3",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeImperfectForYou = {
   pageTypeSlug: "song",
   slug: "ariana-grande-imperfect-for-you",
   title: "imperfect for you",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "203efb6c-2edf-41ce-bd0b-9ba4f399f1c1",
   externalLink: "https://musicbrainz.org/work/203efb6c-2edf-41ce-bd0b-9ba4f399f1c1",
   source: "musicbrainz",

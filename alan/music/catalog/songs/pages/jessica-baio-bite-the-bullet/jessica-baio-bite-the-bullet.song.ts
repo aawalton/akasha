@@ -5,7 +5,7 @@ export const jessicaBaioBiteTheBullet = {
   pageTypeSlug: "song",
   slug: "jessica-baio-bite-the-bullet",
   title: "bite the bullet",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "7a1ad5e8-4f38-46a4-ae25-29a5c7070617",
   externalLink: "https://musicbrainz.org/recording/7a1ad5e8-4f38-46a4-ae25-29a5c7070617",
   source: "musicbrainz",

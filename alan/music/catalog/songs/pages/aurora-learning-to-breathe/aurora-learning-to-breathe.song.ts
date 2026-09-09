@@ -5,7 +5,7 @@ export const auroraLearningToBreathe = {
   pageTypeSlug: "song",
   slug: "aurora-learning-to-breathe",
   title: "Learning to Breathe",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "eecac4c4-562e-46fa-8762-96d58b929dc4",
   externalLink: "https://musicbrainz.org/work/eecac4c4-562e-46fa-8762-96d58b929dc4",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const imagineDragonsBleedingOut = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-bleeding-out",
   title: "Bleeding Out",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "e49298fe-1aec-46dd-9c89-e9a65b22ab5c",
   externalLink: "https://musicbrainz.org/work/e49298fe-1aec-46dd-9c89-e9a65b22ab5c",
   source: "musicbrainz",

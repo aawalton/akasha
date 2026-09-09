@@ -5,7 +5,7 @@ export const kellyClarksonDoesHeLoveYou = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-does-he-love-you",
   title: "Does He Love You",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "63379111-830b-4a4d-a59d-9499c65c0eff",
   externalLink: "https://musicbrainz.org/work/63379111-830b-4a4d-a59d-9499c65c0eff",
   source: "musicbrainz",

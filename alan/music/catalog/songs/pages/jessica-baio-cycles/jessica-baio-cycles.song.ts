@@ -5,7 +5,7 @@ export const jessicaBaioCycles = {
   pageTypeSlug: "song",
   slug: "jessica-baio-cycles",
   title: "cycles",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "a0fdb2f2-fe08-4b7d-8d42-62329bb501a7",
   externalLink: "https://musicbrainz.org/recording/a0fdb2f2-fe08-4b7d-8d42-62329bb501a7",
   source: "musicbrainz",

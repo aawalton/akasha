@@ -5,7 +5,7 @@ export const arianaGrandeYouLlNeverKnow = {
   pageTypeSlug: "song",
   slug: "ariana-grande-you-ll-never-know",
   title: "You’ll Never Know",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "20c6c070-26b8-41a4-9266-dab0f343a36d",
   externalLink: "https://musicbrainz.org/work/20c6c070-26b8-41a4-9266-dab0f343a36d",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeWinterThings = {
   pageTypeSlug: "song",
   slug: "ariana-grande-winter-things",
   title: "Winter Things",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "e84114d6-dd29-474b-a8eb-ac8d461196dd",
   externalLink: "https://musicbrainz.org/work/e84114d6-dd29-474b-a8eb-ac8d461196dd",
   source: "musicbrainz",

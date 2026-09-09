@@ -5,7 +5,7 @@ export const arianaGrandeWithoutLove = {
   pageTypeSlug: "song",
   slug: "ariana-grande-without-love",
   title: "Without Love",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "2802f105-1f19-3538-a716-08efe5abad72",
   externalLink: "https://musicbrainz.org/work/2802f105-1f19-3538-a716-08efe5abad72",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraItHappenedQuiet = {
   pageTypeSlug: "song",
   slug: "aurora-it-happened-quiet",
   title: "It Happened Quiet",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "71e5c2f0-ff2e-4a84-8353-13136d39c405",
   externalLink: "https://musicbrainz.org/work/71e5c2f0-ff2e-4a84-8353-13136d39c405",
   source: "musicbrainz",

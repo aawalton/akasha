@@ -5,7 +5,7 @@ export const arianaGrandeSupernatural2 = {
   pageTypeSlug: "song",
   slug: "ariana-grande-supernatural-2",
   title: "supernatural",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "8814f734-3e59-4ce8-8cac-856bcfa7b0d0",
   externalLink: "https://musicbrainz.org/work/8814f734-3e59-4ce8-8cac-856bcfa7b0d0",
   source: "musicbrainz",

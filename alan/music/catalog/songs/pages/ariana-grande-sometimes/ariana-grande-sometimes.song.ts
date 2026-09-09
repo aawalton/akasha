@@ -5,7 +5,7 @@ export const arianaGrandeSometimes = {
   pageTypeSlug: "song",
   slug: "ariana-grande-sometimes",
   title: "Sometimes",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "9555d836-0483-486c-b90f-f08eb66c8c3a",
   externalLink: "https://musicbrainz.org/work/9555d836-0483-486c-b90f-f08eb66c8c3a",
   source: "musicbrainz",

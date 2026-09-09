@@ -5,7 +5,7 @@ export const arianaGrandeBeMyBaby = {
   pageTypeSlug: "song",
   slug: "ariana-grande-be-my-baby",
   title: "Be My Baby",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "72363883-f37f-4c63-a3e9-58fe98956ab6",
   externalLink: "https://musicbrainz.org/work/72363883-f37f-4c63-a3e9-58fe98956ab6",
   source: "musicbrainz",

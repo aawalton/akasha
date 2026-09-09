@@ -5,7 +5,7 @@ export const kellyClarksonInTheBlue = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-in-the-blue",
   title: "In the Blue",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "4d4568b9-e6ac-4841-919c-97edb6809fbe",
   externalLink: "https://musicbrainz.org/work/4d4568b9-e6ac-4841-919c-97edb6809fbe",
   source: "musicbrainz",

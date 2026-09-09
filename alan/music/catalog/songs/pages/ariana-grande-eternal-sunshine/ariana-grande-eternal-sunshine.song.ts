@@ -5,7 +5,7 @@ export const arianaGrandeEternalSunshine = {
   pageTypeSlug: "song",
   slug: "ariana-grande-eternal-sunshine",
   title: "eternal sunshine",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "10138ca6-66ca-407b-8ba0-8f754796ff07",
   externalLink: "https://musicbrainz.org/work/10138ca6-66ca-407b-8ba0-8f754796ff07",
   source: "musicbrainz",

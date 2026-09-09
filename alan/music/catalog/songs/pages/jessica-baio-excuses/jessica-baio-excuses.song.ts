@@ -5,7 +5,7 @@ export const jessicaBaioExcuses = {
   pageTypeSlug: "song",
   slug: "jessica-baio-excuses",
   title: "excuses",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "6db2fdc6-4a76-4ffd-bd6f-651bf4af9773",
   externalLink: "https://musicbrainz.org/recording/6db2fdc6-4a76-4ffd-bd6f-651bf4af9773",
   source: "musicbrainz",

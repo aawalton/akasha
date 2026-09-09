@@ -5,7 +5,7 @@ export const arianaGrandeGoodAsHell = {
   pageTypeSlug: "song",
   slug: "ariana-grande-good-as-hell",
   title: "Good as Hell",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "e55c3b0e-e8e1-4794-9ff9-6967d4b577c2",
   externalLink: "https://musicbrainz.org/work/e55c3b0e-e8e1-4794-9ff9-6967d4b577c2",
   source: "musicbrainz",

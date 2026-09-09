@@ -5,7 +5,7 @@ export const kellyClarksonChristmasIsnTCanceledJustYou = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-christmas-isn-t-canceled-just-you",
   title: "Christmas Isn’t Canceled (Just You)",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "62d59cf2-1382-47af-b76e-4d94779ffa27",
   externalLink: "https://musicbrainz.org/work/62d59cf2-1382-47af-b76e-4d94779ffa27",
   source: "musicbrainz",

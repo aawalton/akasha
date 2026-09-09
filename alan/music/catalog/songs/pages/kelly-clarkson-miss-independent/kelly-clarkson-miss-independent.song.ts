@@ -5,7 +5,7 @@ export const kellyClarksonMissIndependent = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-miss-independent",
   title: "Miss Independent",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "d70d9069-41ac-31ee-84e1-59292d79ff01",
   externalLink: "https://musicbrainz.org/work/d70d9069-41ac-31ee-84e1-59292d79ff01",
   source: "musicbrainz",

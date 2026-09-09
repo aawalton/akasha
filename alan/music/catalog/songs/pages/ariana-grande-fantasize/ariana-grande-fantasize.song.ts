@@ -5,7 +5,7 @@ export const arianaGrandeFantasize = {
   pageTypeSlug: "song",
   slug: "ariana-grande-fantasize",
   title: "Fantasize",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "dd7e2ca0-0ff0-4ec6-8dcc-613358a458cf",
   externalLink: "https://musicbrainz.org/work/dd7e2ca0-0ff0-4ec6-8dcc-613358a458cf",
   source: "musicbrainz",

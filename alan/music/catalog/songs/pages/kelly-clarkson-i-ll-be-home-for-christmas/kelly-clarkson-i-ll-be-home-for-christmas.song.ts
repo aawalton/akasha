@@ -5,7 +5,7 @@ export const kellyClarksonILlBeHomeForChristmas = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-i-ll-be-home-for-christmas",
   title: "I’ll Be Home for Christmas",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "1aa1b720-0c31-4f32-8a63-accc54024713",
   externalLink: "https://musicbrainz.org/work/1aa1b720-0c31-4f32-8a63-accc54024713",
   source: "musicbrainz",

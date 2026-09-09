@@ -5,7 +5,7 @@ export const arianaGrandeFocus = {
   pageTypeSlug: "song",
   slug: "ariana-grande-focus",
   title: "Focus",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "2a5cc6ba-8bd0-49ca-a2e9-1841422c8481",
   externalLink: "https://musicbrainz.org/work/2a5cc6ba-8bd0-49ca-a2e9-1841422c8481",
   source: "musicbrainz",

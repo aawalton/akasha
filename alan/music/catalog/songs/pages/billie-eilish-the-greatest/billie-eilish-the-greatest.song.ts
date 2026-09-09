@@ -5,7 +5,7 @@ export const billieEilishTheGreatest = {
   pageTypeSlug: "song",
   slug: "billie-eilish-the-greatest",
   title: "THE GREATEST",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "435b82d3-2bab-46ab-8386-a026fed5624b",
   externalLink: "https://musicbrainz.org/work/435b82d3-2bab-46ab-8386-a026fed5624b",
   source: "musicbrainz",

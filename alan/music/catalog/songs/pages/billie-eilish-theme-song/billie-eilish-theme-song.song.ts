@@ -5,7 +5,7 @@ export const billieEilishThemeSong = {
   pageTypeSlug: "song",
   slug: "billie-eilish-theme-song",
   title: "Theme Song",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "ff565d89-2ea5-45c8-8189-a2453c187635",
   externalLink: "https://musicbrainz.org/work/ff565d89-2ea5-45c8-8189-a2453c187635",
   source: "musicbrainz",

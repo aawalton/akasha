@@ -5,7 +5,7 @@ export const arianaGrandeGoodnightNGo = {
   pageTypeSlug: "song",
   slug: "ariana-grande-goodnight-n-go",
   title: "goodnight n go",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "0e025544-5997-43b9-8dfc-7d85815a9725",
   externalLink: "https://musicbrainz.org/work/0e025544-5997-43b9-8dfc-7d85815a9725",
   source: "musicbrainz",

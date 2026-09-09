@@ -5,7 +5,7 @@ export const kellyClarksonIDRatherGoBlind = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-i-d-rather-go-blind",
   title: "I’d Rather Go Blind",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "a804f054-e3f4-3a2d-82d6-210b2dbfec3b",
   externalLink: "https://musicbrainz.org/work/a804f054-e3f4-3a2d-82d6-210b2dbfec3b",
   source: "musicbrainz",

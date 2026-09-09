@@ -5,7 +5,7 @@ export const auroraEverythingMatters = {
   pageTypeSlug: "song",
   slug: "aurora-everything-matters",
   title: "Everything Matters",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "2fdf2dff-5f8a-460a-a9a8-0fcc717e04d7",
   externalLink: "https://musicbrainz.org/work/2fdf2dff-5f8a-460a-a9a8-0fcc717e04d7",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrande3435Remix = {
   pageTypeSlug: "song",
   slug: "ariana-grande-34-35-remix",
   title: "34+35 (remix)",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "1ae8cc10-9bcd-4244-b2b1-3e2f88dddd06",
   externalLink: "https://musicbrainz.org/work/1ae8cc10-9bcd-4244-b2b1-3e2f88dddd06",
   source: "musicbrainz",

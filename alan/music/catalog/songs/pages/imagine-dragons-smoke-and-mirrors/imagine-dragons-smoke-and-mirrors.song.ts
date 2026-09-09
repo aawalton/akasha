@@ -5,7 +5,7 @@ export const imagineDragonsSmokeAndMirrors = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-smoke-and-mirrors",
   title: "Smoke and Mirrors",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "85168510-9a14-49c1-8097-c3d36142d2b6",
   externalLink: "https://musicbrainz.org/work/85168510-9a14-49c1-8097-c3d36142d2b6",
   source: "musicbrainz",

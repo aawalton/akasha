@@ -5,7 +5,7 @@ export const imagineDragonsMouthOfTheRiver = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-mouth-of-the-river",
   title: "Mouth of the River",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "a0e5a264-4fe2-473e-be00-b092cc178da6",
   externalLink: "https://musicbrainz.org/work/a0e5a264-4fe2-473e-be00-b092cc178da6",
   source: "musicbrainz",

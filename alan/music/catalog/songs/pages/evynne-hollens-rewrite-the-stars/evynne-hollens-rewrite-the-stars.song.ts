@@ -5,7 +5,7 @@ export const evynneHollensRewriteTheStars = {
   pageTypeSlug: "song",
   slug: "evynne-hollens-rewrite-the-stars",
   title: "Rewrite the Stars",
-  artistSlug: "evynne-hollens",
+  artist: "evynne-hollens",
   externalId: "97603584-61b4-4bf2-a1aa-9aba1f136c66",
   externalLink: "https://musicbrainz.org/work/97603584-61b4-4bf2-a1aa-9aba1f136c66",
   source: "musicbrainz",

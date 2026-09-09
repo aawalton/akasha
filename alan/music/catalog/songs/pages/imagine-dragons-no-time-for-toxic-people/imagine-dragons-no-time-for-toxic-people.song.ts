@@ -5,7 +5,7 @@ export const imagineDragonsNoTimeForToxicPeople = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-no-time-for-toxic-people",
   title: "No Time for Toxic People",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "2cc96db3-c155-4bc8-b589-32897d048599",
   externalLink: "https://musicbrainz.org/work/2cc96db3-c155-4bc8-b589-32897d048599",
   source: "musicbrainz",

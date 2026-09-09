@@ -5,7 +5,7 @@ export const lilithMaxAtlas = {
   pageTypeSlug: "song",
   slug: "lilith-max-atlas",
   title: "Atlas",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "522a856d-d58a-4e3a-bc18-45a3f0e5a5e1",
   externalLink: "https://musicbrainz.org/recording/522a856d-d58a-4e3a-bc18-45a3f0e5a5e1",
   source: "musicbrainz",

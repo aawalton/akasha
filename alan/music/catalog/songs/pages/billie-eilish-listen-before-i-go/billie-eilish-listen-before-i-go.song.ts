@@ -5,7 +5,7 @@ export const billieEilishListenBeforeIGo = {
   pageTypeSlug: "song",
   slug: "billie-eilish-listen-before-i-go",
   title: "listen before i go",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "136522e5-ba6c-4350-9202-f564976a43d1",
   externalLink: "https://musicbrainz.org/work/136522e5-ba6c-4350-9202-f564976a43d1",
   source: "musicbrainz",

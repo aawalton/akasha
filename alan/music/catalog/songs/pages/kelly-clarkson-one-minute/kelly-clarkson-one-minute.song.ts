@@ -5,7 +5,7 @@ export const kellyClarksonOneMinute = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-one-minute",
   title: "One Minute",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "946a061f-1454-4849-88a4-4583731b5be8",
   externalLink: "https://musicbrainz.org/work/946a061f-1454-4849-88a4-4583731b5be8",
   source: "musicbrainz",

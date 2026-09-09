@@ -5,7 +5,7 @@ export const auroraAppleTree = {
   pageTypeSlug: "song",
   slug: "aurora-apple-tree",
   title: "Apple Tree",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "3658ba97-b1c5-4f5e-87e5-85ce17e62d5f",
   externalLink: "https://musicbrainz.org/work/3658ba97-b1c5-4f5e-87e5-85ce17e62d5f",
   source: "musicbrainz",

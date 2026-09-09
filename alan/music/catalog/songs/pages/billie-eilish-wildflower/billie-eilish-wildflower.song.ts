@@ -5,7 +5,7 @@ export const billieEilishWildflower = {
   pageTypeSlug: "song",
   slug: "billie-eilish-wildflower",
   title: "WILDFLOWER",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "6ce3e6f5-8a41-4dd3-967a-8be19ff7a25e",
   externalLink: "https://musicbrainz.org/work/6ce3e6f5-8a41-4dd3-967a-8be19ff7a25e",
   source: "musicbrainz",

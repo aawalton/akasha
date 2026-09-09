@@ -5,7 +5,7 @@ export const arianaGrandeMamaIMABigGirlNow = {
   pageTypeSlug: "song",
   slug: "ariana-grande-mama-i-m-a-big-girl-now",
   title: "Mama, I’m a Big Girl Now",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "c2048970-f983-3778-a3a9-d6e1ac501797",
   externalLink: "https://musicbrainz.org/work/c2048970-f983-3778-a3a9-d6e1ac501797",
   source: "musicbrainz",

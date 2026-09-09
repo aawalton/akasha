@@ -5,7 +5,7 @@ export const auroraInTheLight = {
   pageTypeSlug: "song",
   slug: "aurora-in-the-light",
   title: "In the Light",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "8adf346e-4a17-4059-92aa-8b5053758801",
   externalLink: "https://musicbrainz.org/work/8adf346e-4a17-4059-92aa-8b5053758801",
   source: "musicbrainz",

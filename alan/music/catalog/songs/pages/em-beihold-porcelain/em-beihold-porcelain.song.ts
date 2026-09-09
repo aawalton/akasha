@@ -5,7 +5,7 @@ export const emBeiholdPorcelain = {
   pageTypeSlug: "song",
   slug: "em-beihold-porcelain",
   title: "Porcelain",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "6273edad-b8f3-4d0c-b85f-4a48d3ab5343",
   externalLink: "https://musicbrainz.org/work/6273edad-b8f3-4d0c-b85f-4a48d3ab5343",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeComeSoFarGotSoFarToGo = {
   pageTypeSlug: "song",
   slug: "ariana-grande-come-so-far-got-so-far-to-go",
   title: "Come So Far (Got So Far to Go)",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "889afbb5-32a2-3e51-a4dc-f56db21b5f0d",
   externalLink: "https://musicbrainz.org/work/889afbb5-32a2-3e51-a4dc-f56db21b5f0d",
   source: "musicbrainz",

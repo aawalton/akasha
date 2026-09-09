@@ -5,7 +5,7 @@ export const arianaGrandeBlazed = {
   pageTypeSlug: "song",
   slug: "ariana-grande-blazed",
   title: "blazed",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "c3cbd845-79bc-444f-89be-21b0ccdf2ee6",
   externalLink: "https://musicbrainz.org/work/c3cbd845-79bc-444f-89be-21b0ccdf2ee6",
   source: "musicbrainz",

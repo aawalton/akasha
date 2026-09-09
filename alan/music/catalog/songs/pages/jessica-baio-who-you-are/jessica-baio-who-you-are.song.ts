@@ -5,7 +5,7 @@ export const jessicaBaioWhoYouAre = {
   pageTypeSlug: "song",
   slug: "jessica-baio-who-you-are",
   title: "who you are",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "17567374-5993-4e73-b246-fe6bfc1a5e3a",
   externalLink: "https://musicbrainz.org/recording/17567374-5993-4e73-b246-fe6bfc1a5e3a",
   source: "musicbrainz",

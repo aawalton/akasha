@@ -5,7 +5,7 @@ export const auroraLosingIce = {
   pageTypeSlug: "song",
   slug: "aurora-losing-ice",
   title: "Losing Ice",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "46e6c53c-9ff5-461b-ac0b-b645a6cfe2f5",
   externalLink: "https://musicbrainz.org/work/46e6c53c-9ff5-461b-ac0b-b645a6cfe2f5",
   source: "musicbrainz",

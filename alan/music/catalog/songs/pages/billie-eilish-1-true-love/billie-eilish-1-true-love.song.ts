@@ -5,7 +5,7 @@ export const billieEilish1TrueLove = {
   pageTypeSlug: "song",
   slug: "billie-eilish-1-true-love",
   title: "1 True Love",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "997a5b50-5d0c-490f-bea6-e223c26b5f2e",
   externalLink: "https://musicbrainz.org/work/997a5b50-5d0c-490f-bea6-e223c26b5f2e",
   source: "musicbrainz",

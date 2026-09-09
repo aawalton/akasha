@@ -5,7 +5,7 @@ export const auroraSoftUniverse = {
   pageTypeSlug: "song",
   slug: "aurora-soft-universe",
   title: "Soft Universe",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "41c28a9a-10d5-4396-ad55-d351a529cbf9",
   externalLink: "https://musicbrainz.org/work/41c28a9a-10d5-4396-ad55-d351a529cbf9",
   source: "musicbrainz",

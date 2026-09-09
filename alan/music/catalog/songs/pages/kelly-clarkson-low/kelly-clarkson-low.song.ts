@@ -5,7 +5,7 @@ export const kellyClarksonLow = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-low",
   title: "Low",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "91c516a7-f6c7-466d-83dc-75e7be3d3f5c",
   externalLink: "https://musicbrainz.org/work/91c516a7-f6c7-466d-83dc-75e7be3d3f5c",
   source: "musicbrainz",

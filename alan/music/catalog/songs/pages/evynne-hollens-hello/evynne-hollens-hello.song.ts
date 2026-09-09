@@ -5,7 +5,7 @@ export const evynneHollensHello = {
   pageTypeSlug: "song",
   slug: "evynne-hollens-hello",
   title: "Hello",
-  artistSlug: "evynne-hollens",
+  artist: "evynne-hollens",
   externalId: "59407397-1b56-4ba6-b409-4c427270cc1b",
   externalLink: "https://musicbrainz.org/work/59407397-1b56-4ba6-b409-4c427270cc1b",
   source: "musicbrainz",

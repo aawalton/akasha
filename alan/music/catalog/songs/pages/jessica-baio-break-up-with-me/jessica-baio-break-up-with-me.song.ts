@@ -5,7 +5,7 @@ export const jessicaBaioBreakUpWithMe = {
   pageTypeSlug: "song",
   slug: "jessica-baio-break-up-with-me",
   title: "break up with me",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "27a1b541-ccc2-4364-b037-6dba810e84da",
   externalLink: "https://musicbrainz.org/recording/27a1b541-ccc2-4364-b037-6dba810e84da",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraYouKeepMeCrawling = {
   pageTypeSlug: "song",
   slug: "aurora-you-keep-me-crawling",
   title: "You Keep Me Crawling",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "38ea70b2-f2ea-4c3e-9cad-b45febb15301",
   externalLink: "https://musicbrainz.org/work/38ea70b2-f2ea-4c3e-9cad-b45febb15301",
   source: "musicbrainz",

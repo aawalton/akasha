@@ -5,7 +5,7 @@ export const kellyClarksonTakeYouHigh = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-take-you-high",
   title: "Take You High",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "be9dd86b-0a92-4836-99da-c4db96d1db5e",
   externalLink: "https://musicbrainz.org/work/be9dd86b-0a92-4836-99da-c4db96d1db5e",
   source: "musicbrainz",

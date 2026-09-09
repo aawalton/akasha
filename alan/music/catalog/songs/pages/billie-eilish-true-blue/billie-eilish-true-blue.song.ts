@@ -5,7 +5,7 @@ export const billieEilishTrueBlue = {
   pageTypeSlug: "song",
   slug: "billie-eilish-true-blue",
   title: "TRUE BLUE",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "f2acbf2a-dea7-4c2b-afa2-b4a1d284c511",
   externalLink: "https://musicbrainz.org/work/f2acbf2a-dea7-4c2b-afa2-b4a1d284c511",
   source: "musicbrainz",

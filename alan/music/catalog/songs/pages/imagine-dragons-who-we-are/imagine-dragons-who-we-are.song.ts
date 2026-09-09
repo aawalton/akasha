@@ -5,7 +5,7 @@ export const imagineDragonsWhoWeAre = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-who-we-are",
   title: "Who We Are",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "d12e41e2-30d3-4634-b91f-719aaac98fe1",
   externalLink: "https://musicbrainz.org/work/d12e41e2-30d3-4634-b91f-719aaac98fe1",
   source: "musicbrainz",

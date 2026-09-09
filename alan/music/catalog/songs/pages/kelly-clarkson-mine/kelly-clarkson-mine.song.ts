@@ -5,7 +5,7 @@ export const kellyClarksonMine = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-mine",
   title: "mine",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "b153942d-c3f3-4658-a172-9479d033a599",
   externalLink: "https://musicbrainz.org/work/b153942d-c3f3-4658-a172-9479d033a599",
   source: "musicbrainz",

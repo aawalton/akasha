@@ -5,7 +5,7 @@ export const arianaGrandeMetHimLastNight = {
   pageTypeSlug: "song",
   slug: "ariana-grande-met-him-last-night",
   title: "Met Him Last Night",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "5c47c2ed-41cf-4ee6-af5c-f819aa6fa2ad",
   externalLink: "https://musicbrainz.org/work/5c47c2ed-41cf-4ee6-af5c-f819aa6fa2ad",
   source: "musicbrainz",

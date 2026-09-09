@@ -5,7 +5,7 @@ export const kellyClarksonBeforeYourLove = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-before-your-love",
   title: "Before Your Love",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "3aad7de1-9250-4860-8c3b-bd1cfdb5bf59",
   externalLink: "https://musicbrainz.org/work/3aad7de1-9250-4860-8c3b-bd1cfdb5bf59",
   source: "musicbrainz",

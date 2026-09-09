@@ -5,7 +5,7 @@ export const billieEilishKen = {
   pageTypeSlug: "song",
   slug: "billie-eilish-ken",
   title: "KEN",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "e8445176-d057-4cca-b336-528b9e756ca0",
   externalLink: "https://musicbrainz.org/work/e8445176-d057-4cca-b336-528b9e756ca0",
   source: "musicbrainz",

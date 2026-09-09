@@ -5,7 +5,7 @@ export const auroraGiantsOfTheDeep = {
   pageTypeSlug: "song",
   slug: "aurora-giants-of-the-deep",
   title: "Giants of the Deep",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "adaac1ba-1e26-47cf-b5c2-b96f28d5de72",
   externalLink: "https://musicbrainz.org/work/adaac1ba-1e26-47cf-b5c2-b96f28d5de72",
   source: "musicbrainz",

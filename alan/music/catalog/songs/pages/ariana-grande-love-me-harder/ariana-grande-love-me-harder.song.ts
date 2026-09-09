@@ -5,7 +5,7 @@ export const arianaGrandeLoveMeHarder = {
   pageTypeSlug: "song",
   slug: "ariana-grande-love-me-harder",
   title: "Love Me Harder",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "7822a325-e093-4794-8b34-d311f9058fb9",
   externalLink: "https://musicbrainz.org/work/7822a325-e093-4794-8b34-d311f9058fb9",
   source: "musicbrainz",

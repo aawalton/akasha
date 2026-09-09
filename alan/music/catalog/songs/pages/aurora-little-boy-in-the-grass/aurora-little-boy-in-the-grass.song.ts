@@ -5,7 +5,7 @@ export const auroraLittleBoyInTheGrass = {
   pageTypeSlug: "song",
   slug: "aurora-little-boy-in-the-grass",
   title: "Little Boy in the Grass",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "2f368c2f-7bb1-4cea-89ab-d65c5e654bf8",
   externalLink: "https://musicbrainz.org/work/2f368c2f-7bb1-4cea-89ab-d65c5e654bf8",
   source: "musicbrainz",

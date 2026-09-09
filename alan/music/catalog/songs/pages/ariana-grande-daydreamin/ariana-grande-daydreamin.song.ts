@@ -5,7 +5,7 @@ export const arianaGrandeDaydreamin = {
   pageTypeSlug: "song",
   slug: "ariana-grande-daydreamin",
   title: "Daydreamin’",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "c788d6b1-258a-459f-8907-6eb47d5c67d3",
   externalLink: "https://musicbrainz.org/work/c788d6b1-258a-459f-8907-6eb47d5c67d3",
   source: "musicbrainz",

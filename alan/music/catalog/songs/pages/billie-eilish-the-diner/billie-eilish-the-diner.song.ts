@@ -5,7 +5,7 @@ export const billieEilishTheDiner = {
   pageTypeSlug: "song",
   slug: "billie-eilish-the-diner",
   title: "THE DINER",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "80b2b437-eaa4-4232-aaed-7e9f1f675684",
   externalLink: "https://musicbrainz.org/work/80b2b437-eaa4-4232-aaed-7e9f1f675684",
   source: "musicbrainz",

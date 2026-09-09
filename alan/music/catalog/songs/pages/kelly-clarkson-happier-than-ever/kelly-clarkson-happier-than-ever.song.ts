@@ -5,7 +5,7 @@ export const kellyClarksonHappierThanEver = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-happier-than-ever",
   title: "Happier Than Ever",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "aab769d3-a157-427d-b6b0-ac8120efce4d",
   externalLink: "https://musicbrainz.org/work/aab769d3-a157-427d-b6b0-ac8120efce4d",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeBabyI = {
   pageTypeSlug: "song",
   slug: "ariana-grande-baby-i",
   title: "Baby I",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "cc4a9125-540b-436e-bc63-ecea09a9a9a8",
   externalLink: "https://musicbrainz.org/work/cc4a9125-540b-436e-bc63-ecea09a9a9a8",
   source: "musicbrainz",

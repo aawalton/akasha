@@ -5,7 +5,7 @@ export const billieEilishBad = {
   pageTypeSlug: "song",
   slug: "billie-eilish-bad",
   title: "Bad",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "b06efbd2-1520-37d8-bb17-c27093451c42",
   externalLink: "https://musicbrainz.org/work/b06efbd2-1520-37d8-bb17-c27093451c42",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeALittleMoreHomework = {
   pageTypeSlug: "song",
   slug: "ariana-grande-a-little-more-homework",
   title: "A Little More Homework",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "56884741-604d-4b31-8caf-b096b095ae68",
   externalLink: "https://musicbrainz.org/work/56884741-604d-4b31-8caf-b096b095ae68",
   source: "musicbrainz",

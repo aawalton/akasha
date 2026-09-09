@@ -5,7 +5,7 @@ export const auroraHeathens = {
   pageTypeSlug: "song",
   slug: "aurora-heathens",
   title: "Heathens",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "6577c3ae-3a6f-469f-a278-c81babff2746",
   externalLink: "https://musicbrainz.org/work/6577c3ae-3a6f-469f-a278-c81babff2746",
   source: "musicbrainz",

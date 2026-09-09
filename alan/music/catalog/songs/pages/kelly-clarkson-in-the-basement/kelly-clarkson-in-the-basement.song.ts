@@ -5,7 +5,7 @@ export const kellyClarksonInTheBasement = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-in-the-basement",
   title: "In the Basement",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "90fd65f3-e27d-46fe-9756-3690bb3ed1b5",
   externalLink: "https://musicbrainz.org/work/90fd65f3-e27d-46fe-9756-3690bb3ed1b5",
   source: "musicbrainz",

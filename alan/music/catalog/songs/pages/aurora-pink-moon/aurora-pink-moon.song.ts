@@ -5,7 +5,7 @@ export const auroraPinkMoon = {
   pageTypeSlug: "song",
   slug: "aurora-pink-moon",
   title: "Pink Moon",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "90a98928-f58a-3607-b534-ae5cb5e3e429",
   externalLink: "https://musicbrainz.org/work/90a98928-f58a-3607-b534-ae5cb5e3e429",
   source: "musicbrainz",

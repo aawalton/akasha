@@ -5,7 +5,7 @@ export const auroraAllIsSoftInside = {
   pageTypeSlug: "song",
   slug: "aurora-all-is-soft-inside",
   title: "All Is Soft Inside",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "23f8e867-e494-4226-94a5-b6207f29a657",
   externalLink: "https://musicbrainz.org/work/23f8e867-e494-4226-94a5-b6207f29a657",
   source: "musicbrainz",

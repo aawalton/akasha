@@ -5,7 +5,7 @@ export const kellyClarksonBeautifulDisaster = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-beautiful-disaster",
   title: "Beautiful Disaster",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "f7fdb25b-a042-3560-b1a3-64696dd26b79",
   externalLink: "https://musicbrainz.org/work/f7fdb25b-a042-3560-b1a3-64696dd26b79",
   source: "musicbrainz",

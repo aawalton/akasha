@@ -5,7 +5,7 @@ export const auroraOriginsOfLife = {
   pageTypeSlug: "song",
   slug: "aurora-origins-of-life",
   title: "Origins of Life",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "7bfdf73c-5e70-48f7-a81f-e17a67b8b651",
   externalLink: "https://musicbrainz.org/work/7bfdf73c-5e70-48f7-a81f-e17a67b8b651",
   source: "musicbrainz",

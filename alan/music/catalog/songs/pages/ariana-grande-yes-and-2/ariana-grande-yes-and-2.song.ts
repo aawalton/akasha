@@ -5,7 +5,7 @@ export const arianaGrandeYesAnd2 = {
   pageTypeSlug: "song",
   slug: "ariana-grande-yes-and-2",
   title: "yes, and?",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "f75c93dc-0090-46e7-92db-067753f8a24b",
   externalLink: "https://musicbrainz.org/work/f75c93dc-0090-46e7-92db-067753f8a24b",
   source: "musicbrainz",

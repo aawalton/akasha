@@ -5,7 +5,7 @@ export const emBeiholdSpiderman = {
   pageTypeSlug: "song",
   slug: "em-beihold-spiderman",
   title: "Spiderman",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "205c1a94-789f-4e76-a253-dc0a9fd3e184",
   externalLink: "https://musicbrainz.org/work/205c1a94-789f-4e76-a253-dc0a9fd3e184",
   source: "musicbrainz",

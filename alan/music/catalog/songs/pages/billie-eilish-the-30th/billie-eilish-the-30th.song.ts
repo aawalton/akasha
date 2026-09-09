@@ -5,7 +5,7 @@ export const billieEilishThe30th = {
   pageTypeSlug: "song",
   slug: "billie-eilish-the-30th",
   title: "The 30th",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "5f6dfe98-2c2c-41dc-b54b-677740858c3e",
   externalLink: "https://musicbrainz.org/work/5f6dfe98-2c2c-41dc-b54b-677740858c3e",
   source: "musicbrainz",

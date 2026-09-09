@@ -5,7 +5,7 @@ export const arianaGrandeAdore = {
   pageTypeSlug: "song",
   slug: "ariana-grande-adore",
   title: "Adore",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "664f655a-0eb9-45ea-a7bc-65f704c97a8f",
   externalLink: "https://musicbrainz.org/work/664f655a-0eb9-45ea-a7bc-65f704c97a8f",
   source: "musicbrainz",

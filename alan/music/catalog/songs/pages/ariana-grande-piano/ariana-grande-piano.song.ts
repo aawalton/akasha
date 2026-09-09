@@ -5,7 +5,7 @@ export const arianaGrandePiano = {
   pageTypeSlug: "song",
   slug: "ariana-grande-piano",
   title: "Piano",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "efc1df0c-9a48-43f6-9415-c08af6ef4f7b",
   externalLink: "https://musicbrainz.org/work/efc1df0c-9a48-43f6-9415-c08af6ef4f7b",
   source: "musicbrainz",

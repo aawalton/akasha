@@ -5,7 +5,7 @@ export const arianaGrandeLABoyz = {
   pageTypeSlug: "song",
   slug: "ariana-grande-l-a-boyz",
   title: "L.A. Boyz",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "5a826084-fdb6-4de6-907e-6ef379f049ec",
   externalLink: "https://musicbrainz.org/work/5a826084-fdb6-4de6-907e-6ef379f049ec",
   source: "musicbrainz",

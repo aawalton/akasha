@@ -5,7 +5,7 @@ export const auroraNatureBoy = {
   pageTypeSlug: "song",
   slug: "aurora-nature-boy",
   title: "Nature Boy",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "2e99ea26-6e86-3c23-879b-ecf44ab840fd",
   externalLink: "https://musicbrainz.org/work/2e99ea26-6e86-3c23-879b-ecf44ab840fd",
   source: "musicbrainz",

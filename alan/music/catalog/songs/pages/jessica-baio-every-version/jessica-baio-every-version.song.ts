@@ -5,7 +5,7 @@ export const jessicaBaioEveryVersion = {
   pageTypeSlug: "song",
   slug: "jessica-baio-every-version",
   title: "every version",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "49d39b84-2631-4f27-a5ce-b67b326fdd60",
   externalLink: "https://musicbrainz.org/recording/49d39b84-2631-4f27-a5ce-b67b326fdd60",
   source: "musicbrainz",

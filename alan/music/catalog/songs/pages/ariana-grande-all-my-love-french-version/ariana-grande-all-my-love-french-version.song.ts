@@ -5,7 +5,7 @@ export const arianaGrandeAllMyLoveFrenchVersion = {
   pageTypeSlug: "song",
   slug: "ariana-grande-all-my-love-french-version",
   title: "All My Love (French version)",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "af9f60da-0d76-47ee-bc83-bcaaa3b05ce0",
   externalLink: "https://musicbrainz.org/work/af9f60da-0d76-47ee-bc83-bcaaa3b05ce0",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraCureForMe = {
   pageTypeSlug: "song",
   slug: "aurora-cure-for-me",
   title: "Cure for Me",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "26e94c71-aed5-4aaa-86c1-d5dca29a9415",
   externalLink: "https://musicbrainz.org/work/26e94c71-aed5-4aaa-86c1-d5dca29a9415",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraGivingInToTheLove = {
   pageTypeSlug: "song",
   slug: "aurora-giving-in-to-the-love",
   title: "Giving In to the Love",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "bec8a290-1480-40c3-bcbd-a790f4f59f37",
   externalLink: "https://musicbrainz.org/work/bec8a290-1480-40c3-bcbd-a790f4f59f37",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonCallOutMyName = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-call-out-my-name",
   title: "Call Out My Name",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "7ba9ac29-3de4-4481-89ca-501e4575138d",
   externalLink: "https://musicbrainz.org/work/7ba9ac29-3de4-4481-89ca-501e4575138d",
   source: "musicbrainz",

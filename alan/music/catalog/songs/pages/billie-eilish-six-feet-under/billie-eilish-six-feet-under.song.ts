@@ -5,7 +5,7 @@ export const billieEilishSixFeetUnder = {
   pageTypeSlug: "song",
   slug: "billie-eilish-six-feet-under",
   title: "Six Feet Under",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "c10c966a-65c9-4e8a-ade7-868d4dade77d",
   externalLink: "https://musicbrainz.org/work/c10c966a-65c9-4e8a-ade7-868d4dade77d",
   source: "musicbrainz",

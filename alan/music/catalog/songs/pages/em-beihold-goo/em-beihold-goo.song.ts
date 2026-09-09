@@ -5,7 +5,7 @@ export const emBeiholdGoo = {
   pageTypeSlug: "song",
   slug: "em-beihold-goo",
   title: "Goo",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "0b734b72-f8d8-4f7b-acd0-323805e9fe2b",
   externalLink: "https://musicbrainz.org/work/0b734b72-f8d8-4f7b-acd0-323805e9fe2b",
   source: "musicbrainz",

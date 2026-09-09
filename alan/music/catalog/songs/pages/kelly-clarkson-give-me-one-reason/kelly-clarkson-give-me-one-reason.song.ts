@@ -5,7 +5,7 @@ export const kellyClarksonGiveMeOneReason = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-give-me-one-reason",
   title: "Give Me One Reason",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "74ade219-a091-4255-a11c-fc0a3c47fd8b",
   externalLink: "https://musicbrainz.org/work/74ade219-a091-4255-a11c-fc0a3c47fd8b",
   source: "musicbrainz",

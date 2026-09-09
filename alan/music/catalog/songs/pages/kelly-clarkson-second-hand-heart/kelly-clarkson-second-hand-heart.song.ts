@@ -5,7 +5,7 @@ export const kellyClarksonSecondHandHeart = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-second-hand-heart",
   title: "Second Hand Heart",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "6e7a0137-54a4-4577-b20c-3bc4a8d15636",
   externalLink: "https://musicbrainz.org/work/6e7a0137-54a4-4577-b20c-3bc4a8d15636",
   source: "musicbrainz",

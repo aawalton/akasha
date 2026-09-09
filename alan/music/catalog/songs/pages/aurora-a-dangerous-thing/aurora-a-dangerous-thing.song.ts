@@ -5,7 +5,7 @@ export const auroraADangerousThing = {
   pageTypeSlug: "song",
   slug: "aurora-a-dangerous-thing",
   title: "A Dangerous Thing",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "0c390168-525f-4fb3-b2b9-1e0b5127ea8e",
   externalLink: "https://musicbrainz.org/work/0c390168-525f-4fb3-b2b9-1e0b5127ea8e",
   source: "musicbrainz",

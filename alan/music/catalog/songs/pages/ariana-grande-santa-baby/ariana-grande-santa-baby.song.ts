@@ -5,7 +5,7 @@ export const arianaGrandeSantaBaby = {
   pageTypeSlug: "song",
   slug: "ariana-grande-santa-baby",
   title: "Santa Baby",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "a10d7ca4-2dea-3127-b84c-b15fdd24b026",
   externalLink: "https://musicbrainz.org/work/a10d7ca4-2dea-3127-b84c-b15fdd24b026",
   source: "musicbrainz",

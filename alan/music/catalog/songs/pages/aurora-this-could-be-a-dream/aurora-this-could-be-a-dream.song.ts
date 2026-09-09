@@ -5,7 +5,7 @@ export const auroraThisCouldBeADream = {
   pageTypeSlug: "song",
   slug: "aurora-this-could-be-a-dream",
   title: "This Could Be a Dream",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "f2dfa16d-2f97-4675-9adb-09c75ceac3c8",
   externalLink: "https://musicbrainz.org/work/f2dfa16d-2f97-4675-9adb-09c75ceac3c8",
   source: "musicbrainz",

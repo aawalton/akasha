@@ -5,7 +5,7 @@ export const arianaGrandeEveryday = {
   pageTypeSlug: "song",
   slug: "ariana-grande-everyday",
   title: "Everyday",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "1c057afd-6f3a-4cea-b30d-6f53658708cb",
   externalLink: "https://musicbrainz.org/work/1c057afd-6f3a-4cea-b30d-6f53658708cb",
   source: "musicbrainz",

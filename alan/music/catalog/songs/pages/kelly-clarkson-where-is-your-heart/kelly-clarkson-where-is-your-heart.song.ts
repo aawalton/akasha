@@ -5,7 +5,7 @@ export const kellyClarksonWhereIsYourHeart = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-where-is-your-heart",
   title: "Where Is Your Heart",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "c74cb12f-b969-3cdc-ac42-d3fa26713e17",
   externalLink: "https://musicbrainz.org/work/c74cb12f-b969-3cdc-ac42-d3fa26713e17",
   source: "musicbrainz",

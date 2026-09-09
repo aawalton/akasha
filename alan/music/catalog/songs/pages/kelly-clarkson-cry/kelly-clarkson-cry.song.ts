@@ -5,7 +5,7 @@ export const kellyClarksonCry = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-cry",
   title: "Cry",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "d357de82-7e7d-3d59-9608-a8cea2559121",
   externalLink: "https://musicbrainz.org/work/d357de82-7e7d-3d59-9608-a8cea2559121",
   source: "musicbrainz",

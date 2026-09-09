@@ -5,7 +5,7 @@ export const arianaGrandeWestSide = {
   pageTypeSlug: "song",
   slug: "ariana-grande-west-side",
   title: "west side",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "4184f032-f0d1-4524-81be-da52c65006d4",
   externalLink: "https://musicbrainz.org/work/4184f032-f0d1-4524-81be-da52c65006d4",
   source: "musicbrainz",

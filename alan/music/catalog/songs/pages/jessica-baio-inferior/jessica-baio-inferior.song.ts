@@ -5,7 +5,7 @@ export const jessicaBaioInferior = {
   pageTypeSlug: "song",
   slug: "jessica-baio-inferior",
   title: "inferior",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "7412d2f5-05ab-4626-9143-8523f7a92137",
   externalLink: "https://musicbrainz.org/recording/7412d2f5-05ab-4626-9143-8523f7a92137",
   source: "musicbrainz",

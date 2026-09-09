@@ -5,7 +5,7 @@ export const arianaGrandeIWishIHatedYou = {
   pageTypeSlug: "song",
   slug: "ariana-grande-i-wish-i-hated-you",
   title: "i wish i hated you",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "4bacb923-79cd-46c9-8d36-80fe942850b6",
   externalLink: "https://musicbrainz.org/work/4bacb923-79cd-46c9-8d36-80fe942850b6",
   source: "musicbrainz",

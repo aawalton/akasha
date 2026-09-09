@@ -5,7 +5,7 @@ export const imagineDragonsLoveOfMine = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-love-of-mine",
   title: "Love of Mine",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "6aae270b-cf31-4779-a1b4-e1a469aac8f3",
   externalLink: "https://musicbrainz.org/work/6aae270b-cf31-4779-a1b4-e1a469aac8f3",
   source: "musicbrainz",

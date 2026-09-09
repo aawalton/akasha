@@ -5,7 +5,7 @@ export const imagineDragonsDancingInTheDark = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-dancing-in-the-dark",
   title: "Dancing in the Dark",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "c54fabe0-0ba8-4bf8-b31c-1ff359b6719b",
   externalLink: "https://musicbrainz.org/work/c54fabe0-0ba8-4bf8-b31c-1ff359b6719b",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeTrueStory = {
   pageTypeSlug: "song",
   slug: "ariana-grande-true-story",
   title: "true story",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "9e2e20d5-76a7-405e-a8ea-3f877d6c3485",
   externalLink: "https://musicbrainz.org/work/9e2e20d5-76a7-405e-a8ea-3f877d6c3485",
   source: "musicbrainz",

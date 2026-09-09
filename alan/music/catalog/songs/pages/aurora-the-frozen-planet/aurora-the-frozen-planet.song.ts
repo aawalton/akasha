@@ -5,7 +5,7 @@ export const auroraTheFrozenPlanet = {
   pageTypeSlug: "song",
   slug: "aurora-the-frozen-planet",
   title: "The Frozen Planet",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "47d394c7-a959-4709-8747-14587247770b",
   externalLink: "https://musicbrainz.org/work/47d394c7-a959-4709-8747-14587247770b",
   source: "musicbrainz",

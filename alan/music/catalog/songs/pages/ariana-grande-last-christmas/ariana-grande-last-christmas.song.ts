@@ -5,7 +5,7 @@ export const arianaGrandeLastChristmas = {
   pageTypeSlug: "song",
   slug: "ariana-grande-last-christmas",
   title: "Last Christmas",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "8e438d29-bc0b-3cfe-8c47-17e14113a3c3",
   externalLink: "https://musicbrainz.org/work/8e438d29-bc0b-3cfe-8c47-17e14113a3c3",
   source: "musicbrainz",

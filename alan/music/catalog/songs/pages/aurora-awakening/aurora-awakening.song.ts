@@ -5,7 +5,7 @@ export const auroraAwakening = {
   pageTypeSlug: "song",
   slug: "aurora-awakening",
   title: "Awakening",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "576b6d67-7c33-4de2-85e4-1ef562343cbe",
   externalLink: "https://musicbrainz.org/work/576b6d67-7c33-4de2-85e4-1ef562343cbe",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraTheUniverseSentMe = {
   pageTypeSlug: "song",
   slug: "aurora-the-universe-sent-me",
   title: "The Universe Sent Me",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "26d29272-0967-487d-896e-a9578a04c808",
   externalLink: "https://musicbrainz.org/work/26d29272-0967-487d-896e-a9578a04c808",
   source: "musicbrainz",

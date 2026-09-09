@@ -5,7 +5,7 @@ export const imagineDragonsFireInTheseHills = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-fire-in-these-hills",
   title: "Fire in These Hills",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "e3cb5df5-cdbd-4248-a8b0-055024017b2c",
   externalLink: "https://musicbrainz.org/work/e3cb5df5-cdbd-4248-a8b0-055024017b2c",
   source: "musicbrainz",

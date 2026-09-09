@@ -5,7 +5,7 @@ export const arianaGrandeBoyfriend = {
   pageTypeSlug: "song",
   slug: "ariana-grande-boyfriend",
   title: "boyfriend",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "72d58b76-1f7d-4a46-a331-19a1e94cbf05",
   externalLink: "https://musicbrainz.org/work/72d58b76-1f7d-4a46-a331-19a1e94cbf05",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeBloodline = {
   pageTypeSlug: "song",
   slug: "ariana-grande-bloodline",
   title: "bloodline",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "609f0077-a1f8-43a0-8639-7084bec50f16",
   externalLink: "https://musicbrainz.org/work/609f0077-a1f8-43a0-8639-7084bec50f16",
   source: "musicbrainz",

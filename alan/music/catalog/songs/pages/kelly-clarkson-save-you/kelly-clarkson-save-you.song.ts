@@ -5,7 +5,7 @@ export const kellyClarksonSaveYou = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-save-you",
   title: "Save You",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "4b2bd486-4ad9-37ac-a1fc-c780d5f166c0",
   externalLink: "https://musicbrainz.org/work/4b2bd486-4ad9-37ac-a1fc-c780d5f166c0",
   source: "musicbrainz",

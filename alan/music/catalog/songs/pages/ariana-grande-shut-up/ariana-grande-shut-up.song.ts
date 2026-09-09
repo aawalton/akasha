@@ -5,7 +5,7 @@ export const arianaGrandeShutUp = {
   pageTypeSlug: "song",
   slug: "ariana-grande-shut-up",
   title: "shut up",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "660bb459-44f6-4757-aff2-c1d5bcb24098",
   externalLink: "https://musicbrainz.org/work/660bb459-44f6-4757-aff2-c1d5bcb24098",
   source: "musicbrainz",

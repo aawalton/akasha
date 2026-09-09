@@ -5,7 +5,7 @@ export const arianaGrandeSaveYourTears = {
   pageTypeSlug: "song",
   slug: "ariana-grande-save-your-tears",
   title: "Save Your Tears",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "c54dc70f-3d01-4560-b5e8-e8cbe12bf4b2",
   externalLink: "https://musicbrainz.org/work/c54dc70f-3d01-4560-b5e8-e8cbe12bf4b2",
   source: "musicbrainz",

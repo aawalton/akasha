@@ -5,7 +5,7 @@ export const kellyClarksonIrvineChivas = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-irvine-chivas",
   title: "Irvine / Chivas",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "f28853ee-a249-42d6-9657-11ad05d7758e",
   externalLink: "https://musicbrainz.org/work/f28853ee-a249-42d6-9657-11ad05d7758e",
   source: "musicbrainz",

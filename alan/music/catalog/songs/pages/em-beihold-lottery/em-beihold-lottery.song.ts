@@ -5,7 +5,7 @@ export const emBeiholdLottery = {
   pageTypeSlug: "song",
   slug: "em-beihold-lottery",
   title: "Lottery",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "9729f0d0-445d-4480-ad52-f7de6ac64cd8",
   externalLink: "https://musicbrainz.org/work/9729f0d0-445d-4480-ad52-f7de6ac64cd8",
   source: "musicbrainz",

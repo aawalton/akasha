@@ -5,7 +5,7 @@ export const jessicaBaioNeverAQuestion = {
   pageTypeSlug: "song",
   slug: "jessica-baio-never-a-question",
   title: "never a question",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "5604f87b-eab0-4dbf-9625-5e6e2c5e7e6b",
   externalLink: "https://musicbrainz.org/recording/5604f87b-eab0-4dbf-9625-5e6e2c5e7e6b",
   source: "musicbrainz",

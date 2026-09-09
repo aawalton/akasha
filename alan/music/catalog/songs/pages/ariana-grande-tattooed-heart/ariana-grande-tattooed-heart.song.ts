@@ -5,7 +5,7 @@ export const arianaGrandeTattooedHeart = {
   pageTypeSlug: "song",
   slug: "ariana-grande-tattooed-heart",
   title: "Tattooed Heart",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "17553fc0-8152-4548-8510-b6e3872e6254",
   externalLink: "https://musicbrainz.org/work/17553fc0-8152-4548-8510-b6e3872e6254",
   source: "musicbrainz",

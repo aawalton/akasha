@@ -5,7 +5,7 @@ export const auroraInAMinute = {
   pageTypeSlug: "song",
   slug: "aurora-in-a-minute",
   title: "IN A MINUTE",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "63d05f11-9a9d-467a-9493-cc638891e343",
   externalLink: "https://musicbrainz.org/work/63d05f11-9a9d-467a-9493-cc638891e343",
   source: "musicbrainz",

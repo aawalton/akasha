@@ -5,7 +5,7 @@ export const kellyClarksonYouFoundMe = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-you-found-me",
   title: "You Found Me",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "af585333-04de-38b2-95f6-f1276a89f931",
   externalLink: "https://musicbrainz.org/work/af585333-04de-38b2-95f6-f1276a89f931",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeMoonlight = {
   pageTypeSlug: "song",
   slug: "ariana-grande-moonlight",
   title: "Moonlight",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "c74896b9-7f3a-4a3d-b17a-badd2eb64eb1",
   externalLink: "https://musicbrainz.org/work/c74896b9-7f3a-4a3d-b17a-badd2eb64eb1",
   source: "musicbrainz",

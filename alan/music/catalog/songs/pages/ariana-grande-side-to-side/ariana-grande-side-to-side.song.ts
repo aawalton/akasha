@@ -5,7 +5,7 @@ export const arianaGrandeSideToSide = {
   pageTypeSlug: "song",
   slug: "ariana-grande-side-to-side",
   title: "Side to Side",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "465f790b-436f-4319-9200-219fbd832e97",
   externalLink: "https://musicbrainz.org/work/465f790b-436f-4319-9200-219fbd832e97",
   source: "musicbrainz",

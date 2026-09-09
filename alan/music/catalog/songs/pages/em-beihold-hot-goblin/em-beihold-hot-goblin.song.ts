@@ -5,7 +5,7 @@ export const emBeiholdHotGoblin = {
   pageTypeSlug: "song",
   slug: "em-beihold-hot-goblin",
   title: "Hot Goblin",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "9932fc9a-6198-45b2-ba43-de870d1b49c0",
   externalLink: "https://musicbrainz.org/work/9932fc9a-6198-45b2-ba43-de870d1b49c0",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeHampstead = {
   pageTypeSlug: "song",
   slug: "ariana-grande-hampstead",
   title: "Hampstead",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "7a0c5d9e-c898-41b4-a516-fc1bf716cc87",
   externalLink: "https://musicbrainz.org/work/7a0c5d9e-c898-41b4-a516-fc1bf716cc87",
   source: "musicbrainz",

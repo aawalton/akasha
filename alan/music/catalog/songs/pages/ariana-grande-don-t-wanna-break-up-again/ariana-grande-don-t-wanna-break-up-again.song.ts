@@ -5,7 +5,7 @@ export const arianaGrandeDonTWannaBreakUpAgain = {
   pageTypeSlug: "song",
   slug: "ariana-grande-don-t-wanna-break-up-again",
   title: "don’t wanna break up again",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "41a65254-7b42-4ae2-8f6d-810a10ae750c",
   externalLink: "https://musicbrainz.org/work/41a65254-7b42-4ae2-8f6d-810a10ae750c",
   source: "musicbrainz",

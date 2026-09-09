@@ -5,7 +5,7 @@ export const arianaGrandeFaith = {
   pageTypeSlug: "song",
   slug: "ariana-grande-faith",
   title: "Faith",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "900751bc-d0a6-4806-b769-ca4128d3c063",
   externalLink: "https://musicbrainz.org/work/900751bc-d0a6-4806-b769-ca4128d3c063",
   source: "musicbrainz",

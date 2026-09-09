@@ -5,7 +5,7 @@ export const billieEilishYouReStoned = {
   pageTypeSlug: "song",
   slug: "billie-eilish-you-re-stoned",
   title: "you’re stoned",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "415725ca-5846-4922-be24-7219f5b71a8e",
   externalLink: "https://musicbrainz.org/work/415725ca-5846-4922-be24-7219f5b71a8e",
   source: "musicbrainz",

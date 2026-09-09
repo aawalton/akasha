@@ -5,7 +5,7 @@ export const arianaGrandeIntroEndOfTheWorldExtended = {
   pageTypeSlug: "song",
   slug: "ariana-grande-intro-end-of-the-world-extended",
   title: "intro (end of the world) (extended)",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "68174bbb-a335-4ba1-8303-89905ea79707",
   externalLink: "https://musicbrainz.org/work/68174bbb-a335-4ba1-8303-89905ea79707",
   source: "musicbrainz",

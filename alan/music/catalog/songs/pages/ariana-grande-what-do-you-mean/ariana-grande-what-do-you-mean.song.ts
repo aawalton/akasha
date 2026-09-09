@@ -5,7 +5,7 @@ export const arianaGrandeWhatDoYouMean = {
   pageTypeSlug: "song",
   slug: "ariana-grande-what-do-you-mean",
   title: "What Do You Mean?",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "0a3f5c2b-750a-44ed-8f94-2d422d083d6c",
   externalLink: "https://musicbrainz.org/work/0a3f5c2b-750a-44ed-8f94-2d422d083d6c",
   source: "musicbrainz",

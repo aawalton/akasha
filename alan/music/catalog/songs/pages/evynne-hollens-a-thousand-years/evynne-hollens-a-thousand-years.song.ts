@@ -5,7 +5,7 @@ export const evynneHollensAThousandYears = {
   pageTypeSlug: "song",
   slug: "evynne-hollens-a-thousand-years",
   title: "A Thousand Years",
-  artistSlug: "evynne-hollens",
+  artist: "evynne-hollens",
   externalId: "2cb8d852-60c7-4e63-88f0-487624de93bd",
   externalLink: "https://musicbrainz.org/work/2cb8d852-60c7-4e63-88f0-487624de93bd",
   source: "musicbrainz",

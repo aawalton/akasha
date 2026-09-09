@@ -5,7 +5,7 @@ export const billieEilishOverheated = {
   pageTypeSlug: "song",
   slug: "billie-eilish-overheated",
   title: "OverHeated",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "08baf83f-789d-4eed-977f-67c193156e7a",
   externalLink: "https://musicbrainz.org/work/08baf83f-789d-4eed-977f-67c193156e7a",
   source: "musicbrainz",

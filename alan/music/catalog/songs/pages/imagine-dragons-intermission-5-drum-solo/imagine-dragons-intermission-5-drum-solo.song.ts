@@ -5,7 +5,7 @@ export const imagineDragonsIntermission5DrumSolo = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-intermission-5-drum-solo",
   title: "Intermission #5: Drum Solo",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "c3225b8a-5d93-42b2-b469-55d5ea13400a",
   externalLink: "https://musicbrainz.org/work/c3225b8a-5d93-42b2-b469-55d5ea13400a",
   source: "musicbrainz",

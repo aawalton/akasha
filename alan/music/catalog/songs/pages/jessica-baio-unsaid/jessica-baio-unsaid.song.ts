@@ -5,7 +5,7 @@ export const jessicaBaioUnsaid = {
   pageTypeSlug: "song",
   slug: "jessica-baio-unsaid",
   title: "unsaid",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "27ee24d2-d431-491f-9a8b-509af3f02a23",
   externalLink: "https://musicbrainz.org/recording/27ee24d2-d431-491f-9a8b-509af3f02a23",
   source: "musicbrainz",

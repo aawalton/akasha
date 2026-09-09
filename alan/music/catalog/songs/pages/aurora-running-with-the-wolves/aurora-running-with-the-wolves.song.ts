@@ -5,7 +5,7 @@ export const auroraRunningWithTheWolves = {
   pageTypeSlug: "song",
   slug: "aurora-running-with-the-wolves",
   title: "Running with the Wolves",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "9670461f-23ca-424e-8ad4-603b40a75eb6",
   externalLink: "https://musicbrainz.org/work/9670461f-23ca-424e-8ad4-603b40a75eb6",
   source: "musicbrainz",

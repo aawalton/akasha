@@ -5,7 +5,7 @@ export const lilithMaxDarkErlKing = {
   pageTypeSlug: "song",
   slug: "lilith-max-dark-erl-king",
   title: "Dark Erl King",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "9136a3b1-5475-4800-9264-3a1fed7df5ce",
   externalLink: "https://musicbrainz.org/recording/9136a3b1-5475-4800-9264-3a1fed7df5ce",
   source: "musicbrainz",

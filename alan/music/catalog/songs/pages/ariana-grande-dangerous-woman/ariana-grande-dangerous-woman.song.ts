@@ -5,7 +5,7 @@ export const arianaGrandeDangerousWoman = {
   pageTypeSlug: "song",
   slug: "ariana-grande-dangerous-woman",
   title: "Dangerous Woman",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "abb0e248-2ba3-4994-9e71-f0c8d5797eb1",
   externalLink: "https://musicbrainz.org/work/abb0e248-2ba3-4994-9e71-f0c8d5797eb1",
   source: "musicbrainz",

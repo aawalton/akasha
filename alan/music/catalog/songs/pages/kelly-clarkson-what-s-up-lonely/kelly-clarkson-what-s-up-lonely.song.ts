@@ -5,7 +5,7 @@ export const kellyClarksonWhatSUpLonely = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-what-s-up-lonely",
   title: "What’s Up Lonely",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "232e552d-ca0b-469e-a5d9-837992395176",
   externalLink: "https://musicbrainz.org/work/232e552d-ca0b-469e-a5d9-837992395176",
   source: "musicbrainz",

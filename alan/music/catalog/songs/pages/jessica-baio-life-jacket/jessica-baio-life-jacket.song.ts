@@ -5,7 +5,7 @@ export const jessicaBaioLifeJacket = {
   pageTypeSlug: "song",
   slug: "jessica-baio-life-jacket",
   title: "life jacket",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "c5ba7eef-426c-4497-90e0-cf9c99fd30ae",
   externalLink: "https://musicbrainz.org/recording/c5ba7eef-426c-4497-90e0-cf9c99fd30ae",
   source: "musicbrainz",

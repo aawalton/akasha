@@ -5,7 +5,7 @@ export const billieEilishUKnowWhatSUp = {
   pageTypeSlug: "song",
   slug: "billie-eilish-u-know-what-s-up",
   title: "U Know What’s Up",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "45b4e247-ac18-4583-84e6-5ec2f90b61a9",
   externalLink: "https://musicbrainz.org/work/45b4e247-ac18-4583-84e6-5ec2f90b61a9",
   source: "musicbrainz",

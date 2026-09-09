@@ -5,7 +5,7 @@ export const arianaGrandeAlmostIsNeverEnough = {
   pageTypeSlug: "song",
   slug: "ariana-grande-almost-is-never-enough",
   title: "Almost Is Never Enough",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "8f2f0e2f-4b0e-48ac-a9f4-a6fe2b5a7c24",
   externalLink: "https://musicbrainz.org/work/8f2f0e2f-4b0e-48ac-a9f4-a6fe2b5a7c24",
   source: "musicbrainz",

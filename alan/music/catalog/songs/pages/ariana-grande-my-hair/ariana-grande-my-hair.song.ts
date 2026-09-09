@@ -5,7 +5,7 @@ export const arianaGrandeMyHair = {
   pageTypeSlug: "song",
   slug: "ariana-grande-my-hair",
   title: "my hair",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "f323d6ff-af12-473c-b5a4-fedac89e2549",
   externalLink: "https://musicbrainz.org/work/f323d6ff-af12-473c-b5a4-fedac89e2549",
   source: "musicbrainz",

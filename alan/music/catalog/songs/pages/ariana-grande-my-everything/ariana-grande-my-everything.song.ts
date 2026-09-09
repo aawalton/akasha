@@ -5,7 +5,7 @@ export const arianaGrandeMyEverything = {
   pageTypeSlug: "song",
   slug: "ariana-grande-my-everything",
   title: "My Everything",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "82cf564f-5bdc-4f9e-bb7d-85a75ea247c2",
   externalLink: "https://musicbrainz.org/work/82cf564f-5bdc-4f9e-bb7d-85a75ea247c2",
   source: "musicbrainz",

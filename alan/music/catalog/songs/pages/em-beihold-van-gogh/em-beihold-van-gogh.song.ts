@@ -5,7 +5,7 @@ export const emBeiholdVanGogh = {
   pageTypeSlug: "song",
   slug: "em-beihold-van-gogh",
   title: "Van Gogh",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "ba60d3e5-fc85-4672-ba3d-6fed55ee9e2f",
   externalLink: "https://musicbrainz.org/work/ba60d3e5-fc85-4672-ba3d-6fed55ee9e2f",
   source: "musicbrainz",

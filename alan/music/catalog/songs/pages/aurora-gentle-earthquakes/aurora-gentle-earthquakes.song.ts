@@ -5,7 +5,7 @@ export const auroraGentleEarthquakes = {
   pageTypeSlug: "song",
   slug: "aurora-gentle-earthquakes",
   title: "Gentle Earthquakes",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "d0e659cf-643f-4cfa-a1e3-ae6b597f6f6f",
   externalLink: "https://musicbrainz.org/work/d0e659cf-643f-4cfa-a1e3-ae6b597f6f6f",
   source: "musicbrainz",

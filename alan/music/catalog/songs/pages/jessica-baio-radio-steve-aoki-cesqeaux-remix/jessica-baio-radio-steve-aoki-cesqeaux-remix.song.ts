@@ -5,7 +5,7 @@ export const jessicaBaioRadioSteveAokiCesqeauxRemix = {
   pageTypeSlug: "song",
   slug: "jessica-baio-radio-steve-aoki-cesqeaux-remix",
   title: "Radio (Steve Aoki & Cesqeaux remix)",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "d7591b3c-7477-4792-9502-89377aae4e87",
   externalLink: "https://musicbrainz.org/recording/d7591b3c-7477-4792-9502-89377aae4e87",
   source: "musicbrainz",

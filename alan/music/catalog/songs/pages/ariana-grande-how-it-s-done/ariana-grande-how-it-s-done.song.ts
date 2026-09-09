@@ -5,7 +5,7 @@ export const arianaGrandeHowItSDone = {
   pageTypeSlug: "song",
   slug: "ariana-grande-how-it-s-done",
   title: "How It’s Done",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "241734df-db59-4929-85e1-14360f47120e",
   externalLink: "https://musicbrainz.org/work/241734df-db59-4929-85e1-14360f47120e",
   source: "musicbrainz",

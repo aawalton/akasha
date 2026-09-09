@@ -5,7 +5,7 @@ export const arianaGrandeThankGoodness = {
   pageTypeSlug: "song",
   slug: "ariana-grande-thank-goodness",
   title: "Thank Goodness",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "6fa3f776-469c-4975-b9b8-48f6a7fdf998",
   externalLink: "https://musicbrainz.org/work/6fa3f776-469c-4975-b9b8-48f6a7fdf998",
   source: "musicbrainz",

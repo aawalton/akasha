@@ -5,7 +5,7 @@ export const arianaGrandeWhatIsThisFeeling = {
   pageTypeSlug: "song",
   slug: "ariana-grande-what-is-this-feeling",
   title: "What Is This Feeling?",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "e99ac88f-c050-4d2e-af2d-d19bbcfa8da8",
   externalLink: "https://musicbrainz.org/work/e99ac88f-c050-4d2e-af2d-d19bbcfa8da8",
   source: "musicbrainz",

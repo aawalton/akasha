@@ -5,7 +5,7 @@ export const kellyClarksonBlueChristmas = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-blue-christmas",
   title: "Blue Christmas",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "414afdb5-bd79-3349-8a93-d940da14c36e",
   externalLink: "https://musicbrainz.org/work/414afdb5-bd79-3349-8a93-d940da14c36e",
   source: "musicbrainz",

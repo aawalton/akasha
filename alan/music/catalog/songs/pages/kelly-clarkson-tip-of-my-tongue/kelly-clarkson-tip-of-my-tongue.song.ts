@@ -5,7 +5,7 @@ export const kellyClarksonTipOfMyTongue = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-tip-of-my-tongue",
   title: "Tip of My Tongue",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "3e76ba3f-d204-3981-b7f3-da57f6d79bfe",
   externalLink: "https://musicbrainz.org/work/3e76ba3f-d204-3981-b7f3-da57f6d79bfe",
   source: "musicbrainz",

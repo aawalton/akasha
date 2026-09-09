@@ -5,7 +5,7 @@ export const auroraUntitled = {
   pageTypeSlug: "song",
   slug: "aurora-untitled",
   title: "イントゥ・ジ・アンノウン〜心のままに",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "31623786-2076-48d9-b32a-09849643935b",
   externalLink: "https://musicbrainz.org/work/31623786-2076-48d9-b32a-09849643935b",
   source: "musicbrainz",

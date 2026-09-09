@@ -5,7 +5,7 @@ export const arianaGrandeStuckWithU = {
   pageTypeSlug: "song",
   slug: "ariana-grande-stuck-with-u",
   title: "Stuck with U",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "a29bb527-d829-4d0c-8901-f7dbad28325d",
   externalLink: "https://musicbrainz.org/work/a29bb527-d829-4d0c-8901-f7dbad28325d",
   source: "musicbrainz",

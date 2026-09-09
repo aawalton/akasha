@@ -5,7 +5,7 @@ export const arianaGrandeDieForYou = {
   pageTypeSlug: "song",
   slug: "ariana-grande-die-for-you",
   title: "Die for You",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "9f6b1fe4-458c-467c-88b6-39209961250f",
   externalLink: "https://musicbrainz.org/work/9f6b1fe4-458c-467c-88b6-39209961250f",
   source: "musicbrainz",

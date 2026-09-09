@@ -5,7 +5,7 @@ export const imagineDragonsIntermission6IntroToFriction = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-intermission-6-intro-to-friction",
   title: "Intermission #6: Intro to Friction",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "4e8b604c-ef61-447c-98cb-712637e1f1e6",
   externalLink: "https://musicbrainz.org/work/4e8b604c-ef61-447c-98cb-712637e1f1e6",
   source: "musicbrainz",

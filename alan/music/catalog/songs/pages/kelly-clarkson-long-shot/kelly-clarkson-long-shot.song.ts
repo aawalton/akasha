@@ -5,7 +5,7 @@ export const kellyClarksonLongShot = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-long-shot",
   title: "Long Shot",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "628fe463-dbcb-300b-b6e2-cb3a00b9da5c",
   externalLink: "https://musicbrainz.org/work/628fe463-dbcb-300b-b6e2-cb3a00b9da5c",
   source: "musicbrainz",

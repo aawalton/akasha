@@ -5,7 +5,7 @@ export const kellyClarksonUnderneathTheTree = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-underneath-the-tree",
   title: "Underneath the Tree",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "e82a05ea-1668-4efc-b994-cad8119ad8ac",
   externalLink: "https://musicbrainz.org/work/e82a05ea-1668-4efc-b994-cad8119ad8ac",
   source: "musicbrainz",

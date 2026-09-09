@@ -5,7 +5,7 @@ export const imagineDragonsForeverYoung = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-forever-young",
   title: "Forever Young",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "f8c51ad3-75f0-34da-91e9-9c76e02066cf",
   externalLink: "https://musicbrainz.org/work/f8c51ad3-75f0-34da-91e9-9c76e02066cf",
   source: "musicbrainz",

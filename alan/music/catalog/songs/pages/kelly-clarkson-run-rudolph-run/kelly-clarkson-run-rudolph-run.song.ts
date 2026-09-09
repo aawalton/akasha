@@ -5,7 +5,7 @@ export const kellyClarksonRunRudolphRun = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-run-rudolph-run",
   title: "Run Rudolph Run",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "a686cf82-c7c3-4032-9001-c08a0ea4c77a",
   externalLink: "https://musicbrainz.org/work/a686cf82-c7c3-4032-9001-c08a0ea4c77a",
   source: "musicbrainz",

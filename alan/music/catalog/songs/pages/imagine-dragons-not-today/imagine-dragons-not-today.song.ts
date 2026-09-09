@@ -5,7 +5,7 @@ export const imagineDragonsNotToday = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-not-today",
   title: "Not Today",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "e1299aba-2caf-428d-bdc7-1a3e3e45cb44",
   externalLink: "https://musicbrainz.org/work/e1299aba-2caf-428d-bdc7-1a3e3e45cb44",
   source: "musicbrainz",

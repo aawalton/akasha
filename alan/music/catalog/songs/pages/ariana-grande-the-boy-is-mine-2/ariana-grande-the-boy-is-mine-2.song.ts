@@ -5,7 +5,7 @@ export const arianaGrandeTheBoyIsMine2 = {
   pageTypeSlug: "song",
   slug: "ariana-grande-the-boy-is-mine-2",
   title: "the boy is mine",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "98dca56e-08b8-4c3f-9d93-5f72c0427f7d",
   externalLink: "https://musicbrainz.org/work/98dca56e-08b8-4c3f-9d93-5f72c0427f7d",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraScarsOfTheEarth = {
   pageTypeSlug: "song",
   slug: "aurora-scars-of-the-earth",
   title: "Scars of the Earth",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "aea25c27-90b2-4b53-9113-486e3ac9837b",
   externalLink: "https://musicbrainz.org/work/aea25c27-90b2-4b53-9113-486e3ac9837b",
   source: "musicbrainz",

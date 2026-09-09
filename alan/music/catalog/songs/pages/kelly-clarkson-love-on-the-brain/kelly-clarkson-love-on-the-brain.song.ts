@@ -5,7 +5,7 @@ export const kellyClarksonLoveOnTheBrain = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-love-on-the-brain",
   title: "Love on the Brain",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "55a7e31f-da75-4b86-b54f-fc765e871559",
   externalLink: "https://musicbrainz.org/work/55a7e31f-da75-4b86-b54f-fc765e871559",
   source: "musicbrainz",

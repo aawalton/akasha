@@ -5,7 +5,7 @@ export const auroraHelvegen = {
   pageTypeSlug: "song",
   slug: "aurora-helvegen",
   title: "Helvegen",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "13b0d677-6033-4608-bf23-a707ed514d6b",
   externalLink: "https://musicbrainz.org/work/13b0d677-6033-4608-bf23-a707ed514d6b",
   source: "musicbrainz",

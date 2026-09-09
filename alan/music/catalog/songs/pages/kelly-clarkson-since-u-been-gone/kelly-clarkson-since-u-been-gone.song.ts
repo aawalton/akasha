@@ -5,7 +5,7 @@ export const kellyClarksonSinceUBeenGone = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-since-u-been-gone",
   title: "Since U Been Gone",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "8cec7817-e78f-39f4-b58e-3cc9bf830423",
   externalLink: "https://musicbrainz.org/work/8cec7817-e78f-39f4-b58e-3cc9bf830423",
   source: "musicbrainz",

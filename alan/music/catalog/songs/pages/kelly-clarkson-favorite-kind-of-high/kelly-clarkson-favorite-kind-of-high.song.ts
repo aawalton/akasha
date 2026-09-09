@@ -5,7 +5,7 @@ export const kellyClarksonFavoriteKindOfHigh = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-favorite-kind-of-high",
   title: "favorite kind of high",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "4c687b9e-57ef-47ac-b234-d65955ce919c",
   externalLink: "https://musicbrainz.org/work/4c687b9e-57ef-47ac-b234-d65955ce919c",
   source: "musicbrainz",

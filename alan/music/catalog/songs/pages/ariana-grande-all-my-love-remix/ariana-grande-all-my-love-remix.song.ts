@@ -5,7 +5,7 @@ export const arianaGrandeAllMyLoveRemix = {
   pageTypeSlug: "song",
   slug: "ariana-grande-all-my-love-remix",
   title: "All My Love (remix)",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "7f3ba842-16ca-42d3-8d87-68f1606c5ae2",
   externalLink: "https://musicbrainz.org/work/7f3ba842-16ca-42d3-8d87-68f1606c5ae2",
   source: "musicbrainz",

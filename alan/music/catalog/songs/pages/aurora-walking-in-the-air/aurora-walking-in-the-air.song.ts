@@ -5,7 +5,7 @@ export const auroraWalkingInTheAir = {
   pageTypeSlug: "song",
   slug: "aurora-walking-in-the-air",
   title: "Walking in the Air",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "513f77fb-904c-3f2b-b17b-a91c3e7ea57c",
   externalLink: "https://musicbrainz.org/work/513f77fb-904c-3f2b-b17b-a91c3e7ea57c",
   source: "musicbrainz",

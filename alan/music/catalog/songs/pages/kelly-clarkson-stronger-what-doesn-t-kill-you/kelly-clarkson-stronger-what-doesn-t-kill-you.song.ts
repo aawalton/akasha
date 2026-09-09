@@ -5,7 +5,7 @@ export const kellyClarksonStrongerWhatDoesnTKillYou = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-stronger-what-doesn-t-kill-you",
   title: "Stronger (What Doesn't Kill You)",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "442c9ca8-ea7a-4769-b349-2c11cb078c61",
   externalLink: "https://musicbrainz.org/work/442c9ca8-ea7a-4769-b349-2c11cb078c61",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonHeartbeatSong = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-heartbeat-song",
   title: "Heartbeat Song",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "d7e2dac9-57b6-4561-9698-670fc54bc4c1",
   externalLink: "https://musicbrainz.org/work/d7e2dac9-57b6-4561-9698-670fc54bc4c1",
   source: "musicbrainz",

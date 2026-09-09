@@ -5,7 +5,7 @@ export const arianaGrandeMyFavoritePart = {
   pageTypeSlug: "song",
   slug: "ariana-grande-my-favorite-part",
   title: "My Favorite Part",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "c5175673-e2e2-4fbe-b8c3-0038a6bb72eb",
   externalLink: "https://musicbrainz.org/work/c5175673-e2e2-4fbe-b8c3-0038a6bb72eb",
   source: "musicbrainz",

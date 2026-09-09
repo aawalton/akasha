@@ -5,7 +5,7 @@ export const jessicaBaioVideoStore = {
   pageTypeSlug: "song",
   slug: "jessica-baio-video-store",
   title: "video store",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "ba36395a-76bd-48bd-8a35-80c65d114f10",
   externalLink: "https://musicbrainz.org/recording/ba36395a-76bd-48bd-8a35-80c65d114f10",
   source: "musicbrainz",

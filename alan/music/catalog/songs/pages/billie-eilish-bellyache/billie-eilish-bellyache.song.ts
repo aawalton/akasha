@@ -5,7 +5,7 @@ export const billieEilishBellyache = {
   pageTypeSlug: "song",
   slug: "billie-eilish-bellyache",
   title: "bellyache",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "46b993f9-e189-4742-b945-ef5e7809d3fa",
   externalLink: "https://musicbrainz.org/work/46b993f9-e189-4742-b945-ef5e7809d3fa",
   source: "musicbrainz",

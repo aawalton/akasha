@@ -5,7 +5,7 @@ export const auroraABoyLikeYou = {
   pageTypeSlug: "song",
   slug: "aurora-a-boy-like-you",
   title: "A BOY LIKE YOU",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "383effe2-76ee-454d-ae03-e6e73467fa7b",
   externalLink: "https://musicbrainz.org/work/383effe2-76ee-454d-ae03-e6e73467fa7b",
   source: "musicbrainz",

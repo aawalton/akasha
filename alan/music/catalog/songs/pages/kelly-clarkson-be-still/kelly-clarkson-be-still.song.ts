@@ -5,7 +5,7 @@ export const kellyClarksonBeStill = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-be-still",
   title: "Be Still",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "8ba8260e-f8b4-4aca-a03c-feeab5376275",
   externalLink: "https://musicbrainz.org/work/8ba8260e-f8b4-4aca-a03c-feeab5376275",
   source: "musicbrainz",

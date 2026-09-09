@@ -5,7 +5,7 @@ export const kellyClarksonHaveYourselfAMerryLittleChristmas = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-have-yourself-a-merry-little-christmas",
   title: "Have Yourself a Merry Little Christmas",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "2ff51d26-cc88-443e-83b9-baf9cf244112",
   externalLink: "https://musicbrainz.org/work/2ff51d26-cc88-443e-83b9-baf9cf244112",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const emBeiholdStrongMedicine = {
   pageTypeSlug: "song",
   slug: "em-beihold-strong-medicine",
   title: "Strong Medicine",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "7935cf8c-a232-4633-8dd7-1b160e3572c3",
   externalLink: "https://musicbrainz.org/work/7935cf8c-a232-4633-8dd7-1b160e3572c3",
   source: "musicbrainz",

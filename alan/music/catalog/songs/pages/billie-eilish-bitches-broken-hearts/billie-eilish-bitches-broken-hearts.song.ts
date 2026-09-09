@@ -5,7 +5,7 @@ export const billieEilishBitchesBrokenHearts = {
   pageTypeSlug: "song",
   slug: "billie-eilish-bitches-broken-hearts",
   title: "bitches broken hearts",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "2e63fa9c-0010-4ae8-9690-47b9efd1dcbd",
   externalLink: "https://musicbrainz.org/work/2e63fa9c-0010-4ae8-9690-47b9efd1dcbd",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const emBeiholdWonTLetGo = {
   pageTypeSlug: "song",
   slug: "em-beihold-won-t-let-go",
   title: "Won’t Let Go",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "b1079ebb-0918-4fb1-a36b-9fe5590d0fbb",
   externalLink: "https://musicbrainz.org/work/b1079ebb-0918-4fb1-a36b-9fe5590d0fbb",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeOrdinaryThings = {
   pageTypeSlug: "song",
   slug: "ariana-grande-ordinary-things",
   title: "ordinary things",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "4d916c35-06ef-437d-962b-12ca051bb9f8",
   externalLink: "https://musicbrainz.org/work/4d916c35-06ef-437d-962b-12ca051bb9f8",
   source: "musicbrainz",

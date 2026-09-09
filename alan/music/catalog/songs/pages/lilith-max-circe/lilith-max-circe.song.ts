@@ -5,7 +5,7 @@ export const lilithMaxCirce = {
   pageTypeSlug: "song",
   slug: "lilith-max-circe",
   title: "Circe",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "775e900f-5040-409b-8bca-18d4290e590c",
   externalLink: "https://musicbrainz.org/recording/775e900f-5040-409b-8bca-18d4290e590c",
   source: "musicbrainz",

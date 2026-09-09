@@ -5,7 +5,7 @@ export const kellyClarksonIDoNotHookUp = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-i-do-not-hook-up",
   title: "I Do Not Hook Up",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "1f8d389c-3498-355d-a1b4-cb5ba07b52e4",
   externalLink: "https://musicbrainz.org/work/1f8d389c-3498-355d-a1b4-cb5ba07b52e4",
   source: "musicbrainz",

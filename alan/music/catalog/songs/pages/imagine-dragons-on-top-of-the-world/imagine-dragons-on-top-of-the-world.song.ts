@@ -5,7 +5,7 @@ export const imagineDragonsOnTopOfTheWorld = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-on-top-of-the-world",
   title: "On Top of the World",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "262f8d3a-464f-4539-8566-8ac92455dfce",
   externalLink: "https://musicbrainz.org/work/262f8d3a-464f-4539-8566-8ac92455dfce",
   source: "musicbrainz",

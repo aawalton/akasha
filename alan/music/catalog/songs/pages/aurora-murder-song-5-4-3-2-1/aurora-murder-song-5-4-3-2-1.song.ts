@@ -5,7 +5,7 @@ export const auroraMurderSong54321 = {
   pageTypeSlug: "song",
   slug: "aurora-murder-song-5-4-3-2-1",
   title: "Murder Song (5, 4, 3, 2, 1)",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "be4abc7b-528d-4974-bc3a-dc777834edf4",
   externalLink: "https://musicbrainz.org/work/be4abc7b-528d-4974-bc3a-dc777834edf4",
   source: "musicbrainz",

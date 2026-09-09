@@ -5,7 +5,7 @@ export const billieEilishLimbo = {
   pageTypeSlug: "song",
   slug: "billie-eilish-limbo",
   title: "Limbo",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "da723e82-4050-4c35-be55-5ad2f1626ed2",
   externalLink: "https://musicbrainz.org/work/da723e82-4050-4c35-be55-5ad2f1626ed2",
   source: "musicbrainz",

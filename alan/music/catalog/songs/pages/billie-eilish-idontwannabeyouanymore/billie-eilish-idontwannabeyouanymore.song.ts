@@ -5,7 +5,7 @@ export const billieEilishIdontwannabeyouanymore = {
   pageTypeSlug: "song",
   slug: "billie-eilish-idontwannabeyouanymore",
   title: "idontwannabeyouanymore",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "1ed1c00c-a459-4aba-97ee-4bc8a33b25d3",
   externalLink: "https://musicbrainz.org/work/1ed1c00c-a459-4aba-97ee-4bc8a33b25d3",
   source: "musicbrainz",

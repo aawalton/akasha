@@ -5,7 +5,7 @@ export const arianaGrandeTooClose = {
   pageTypeSlug: "song",
   slug: "ariana-grande-too-close",
   title: "Too Close",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "6115c215-ef85-4c6c-ac8d-6308f11b4c2e",
   externalLink: "https://musicbrainz.org/work/6115c215-ef85-4c6c-ac8d-6308f11b4c2e",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraFullBloom = {
   pageTypeSlug: "song",
   slug: "aurora-full-bloom",
   title: "Full Bloom",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "0fc50b47-2445-4a1a-b058-dc8d42fda6de",
   externalLink: "https://musicbrainz.org/work/0fc50b47-2445-4a1a-b058-dc8d42fda6de",
   source: "musicbrainz",

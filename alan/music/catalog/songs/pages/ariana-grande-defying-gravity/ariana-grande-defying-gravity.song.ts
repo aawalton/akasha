@@ -5,7 +5,7 @@ export const arianaGrandeDefyingGravity = {
   pageTypeSlug: "song",
   slug: "ariana-grande-defying-gravity",
   title: "Defying Gravity",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "707e83a7-9cfd-3471-a13e-198e61cdbc49",
   externalLink: "https://musicbrainz.org/work/707e83a7-9cfd-3471-a13e-198e61cdbc49",
   source: "musicbrainz",

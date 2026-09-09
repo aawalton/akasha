@@ -5,7 +5,7 @@ export const kellyClarksonTimeless = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-timeless",
   title: "Timeless",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "f622d118-01c1-3696-ae9d-96d719e6dddb",
   externalLink: "https://musicbrainz.org/work/f622d118-01c1-3696-ae9d-96d719e6dddb",
   source: "musicbrainz",

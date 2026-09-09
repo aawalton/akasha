@@ -5,7 +5,7 @@ export const auroraAnimal = {
   pageTypeSlug: "song",
   slug: "aurora-animal",
   title: "Animal",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "c0125a33-540a-44f3-bb22-6ff19fc8f728",
   externalLink: "https://musicbrainz.org/work/c0125a33-540a-44f3-bb22-6ff19fc8f728",
   source: "musicbrainz",

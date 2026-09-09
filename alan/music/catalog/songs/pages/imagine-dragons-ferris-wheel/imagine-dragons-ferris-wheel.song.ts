@@ -5,7 +5,7 @@ export const imagineDragonsFerrisWheel = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-ferris-wheel",
   title: "Ferris Wheel",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "5acd14bd-dbf6-4d5f-adc0-0f78c18263c8",
   externalLink: "https://musicbrainz.org/work/5acd14bd-dbf6-4d5f-adc0-0f78c18263c8",
   source: "musicbrainz",

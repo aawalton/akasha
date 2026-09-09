@@ -5,7 +5,7 @@ export const kellyClarksonShakeItOut = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-shake-it-out",
   title: "Shake It Out",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "a69febae-9a12-439b-97f3-4c7fb3123b72",
   externalLink: "https://musicbrainz.org/work/a69febae-9a12-439b-97f3-4c7fb3123b72",
   source: "musicbrainz",

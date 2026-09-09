@@ -5,7 +5,7 @@ export const jessicaBaioElRoySt = {
   pageTypeSlug: "song",
   slug: "jessica-baio-el-roy-st",
   title: "el roy st.",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "7d8e7cd1-b4f4-4a9b-ad22-516b49a70b83",
   externalLink: "https://musicbrainz.org/recording/7d8e7cd1-b4f4-4a9b-ad22-516b49a70b83",
   source: "musicbrainz",

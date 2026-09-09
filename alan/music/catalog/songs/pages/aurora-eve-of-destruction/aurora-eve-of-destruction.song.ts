@@ -5,7 +5,7 @@ export const auroraEveOfDestruction = {
   pageTypeSlug: "song",
   slug: "aurora-eve-of-destruction",
   title: "Eve of Destruction",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "4df6b320-84c2-4dd9-95ae-99f6c551b4bb",
   externalLink: "https://musicbrainz.org/work/4df6b320-84c2-4dd9-95ae-99f6c551b4bb",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonMyLifeWouldSuckWithoutYou = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-my-life-would-suck-without-you",
   title: "My Life Would Suck Without You",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "3da16acc-cc19-3e2d-8896-d1d4041867b9",
   externalLink: "https://musicbrainz.org/work/3da16acc-cc19-3e2d-8896-d1d4041867b9",
   source: "musicbrainz",

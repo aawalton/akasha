@@ -5,7 +5,7 @@ export const imagineDragonsLookHowFarWeVeCome = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-look-how-far-we-ve-come",
   title: "Look How Far We’ve Come",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "740f277b-c4ba-4191-a35f-35a54a7dcc1f",
   externalLink: "https://musicbrainz.org/work/740f277b-c4ba-4191-a35f-35a54a7dcc1f",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraBango = {
   pageTypeSlug: "song",
   slug: "aurora-bango",
   title: "Bango",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "93049a8d-41f2-4dad-85f0-e71c0312a13b",
   externalLink: "https://musicbrainz.org/work/93049a8d-41f2-4dad-85f0-e71c0312a13b",
   source: "musicbrainz",

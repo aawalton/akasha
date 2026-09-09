@@ -5,7 +5,7 @@ export const billieEilishMyStrangeAddiction = {
   pageTypeSlug: "song",
   slug: "billie-eilish-my-strange-addiction",
   title: "my strange addiction",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "9c98d76e-2454-445c-aa8c-3f18cd9fe8c4",
   externalLink: "https://musicbrainz.org/work/9c98d76e-2454-445c-aa8c-3f18cd9fe8c4",
   source: "musicbrainz",

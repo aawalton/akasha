@@ -5,7 +5,7 @@ export const billieEilishTelegraphAve = {
   pageTypeSlug: "song",
   slug: "billie-eilish-telegraph-ave",
   title: "Telegraph Ave.",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "e34966a4-f200-4908-8fe4-d02b46c6cfdf",
   externalLink: "https://musicbrainz.org/work/e34966a4-f200-4908-8fe4-d02b46c6cfdf",
   source: "musicbrainz",

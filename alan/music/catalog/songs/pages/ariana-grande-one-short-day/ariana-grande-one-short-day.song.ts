@@ -5,7 +5,7 @@ export const arianaGrandeOneShortDay = {
   pageTypeSlug: "song",
   slug: "ariana-grande-one-short-day",
   title: "One Short Day",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "fc8b976a-3704-4480-88a6-d995d16d093e",
   externalLink: "https://musicbrainz.org/work/fc8b976a-3704-4480-88a6-d995d16d093e",
   source: "musicbrainz",

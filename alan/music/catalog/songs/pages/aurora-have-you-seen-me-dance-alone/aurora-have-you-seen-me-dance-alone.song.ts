@@ -5,7 +5,7 @@ export const auroraHaveYouSeenMeDanceAlone = {
   pageTypeSlug: "song",
   slug: "aurora-have-you-seen-me-dance-alone",
   title: "HAVE YOU SEEN ME DANCE ALONE",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "94edfe87-1da2-4eb5-b5f0-83e8fb292b1e",
   externalLink: "https://musicbrainz.org/work/94edfe87-1da2-4eb5-b5f0-83e8fb292b1e",
   source: "musicbrainz",

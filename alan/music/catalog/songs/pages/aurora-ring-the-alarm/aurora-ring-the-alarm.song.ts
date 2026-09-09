@@ -5,7 +5,7 @@ export const auroraRingTheAlarm = {
   pageTypeSlug: "song",
   slug: "aurora-ring-the-alarm",
   title: "RING THE ALARM",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "d302bbb8-d8d3-4e63-be6b-6817b594ebdc",
   externalLink: "https://musicbrainz.org/work/d302bbb8-d8d3-4e63-be6b-6817b594ebdc",
   source: "musicbrainz",

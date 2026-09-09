@@ -5,7 +5,7 @@ export const auroraTheInnocent = {
   pageTypeSlug: "song",
   slug: "aurora-the-innocent",
   title: "The Innocent",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "9d52c4a4-dcb7-4fb1-be64-87646f608de6",
   externalLink: "https://musicbrainz.org/work/9d52c4a4-dcb7-4fb1-be64-87646f608de6",
   source: "musicbrainz",

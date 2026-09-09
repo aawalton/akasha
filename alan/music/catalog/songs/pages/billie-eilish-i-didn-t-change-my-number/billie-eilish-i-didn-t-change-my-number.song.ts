@@ -5,7 +5,7 @@ export const billieEilishIDidnTChangeMyNumber = {
   pageTypeSlug: "song",
   slug: "billie-eilish-i-didn-t-change-my-number",
   title: "I Didn’t Change My Number",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "ac61a0fa-3546-4eba-bf40-777b1a692906",
   externalLink: "https://musicbrainz.org/work/ac61a0fa-3546-4eba-bf40-777b1a692906",
   source: "musicbrainz",

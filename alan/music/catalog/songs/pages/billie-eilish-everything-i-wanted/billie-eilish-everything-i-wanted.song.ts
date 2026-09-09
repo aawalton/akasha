@@ -5,7 +5,7 @@ export const billieEilishEverythingIWanted = {
   pageTypeSlug: "song",
   slug: "billie-eilish-everything-i-wanted",
   title: "everything i wanted",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "925e99ae-619a-4bb0-9799-2de17ab68bec",
   externalLink: "https://musicbrainz.org/work/925e99ae-619a-4bb0-9799-2de17ab68bec",
   source: "musicbrainz",

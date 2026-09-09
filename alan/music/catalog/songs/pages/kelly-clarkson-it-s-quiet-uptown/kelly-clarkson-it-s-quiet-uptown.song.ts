@@ -5,7 +5,7 @@ export const kellyClarksonItSQuietUptown = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-it-s-quiet-uptown",
   title: "It’s Quiet Uptown",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "1d41ebd5-d8c4-428f-b564-ad6d1313df0c",
   externalLink: "https://musicbrainz.org/work/1d41ebd5-d8c4-428f-b564-ad6d1313df0c",
   source: "musicbrainz",

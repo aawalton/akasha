@@ -5,7 +5,7 @@ export const billieEilishYesterday = {
   pageTypeSlug: "song",
   slug: "billie-eilish-yesterday",
   title: "Yesterday",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "0c80db24-389e-3620-8e0b-84dc2b7c009a",
   externalLink: "https://musicbrainz.org/work/0c80db24-389e-3620-8e0b-84dc2b7c009a",
   source: "musicbrainz",

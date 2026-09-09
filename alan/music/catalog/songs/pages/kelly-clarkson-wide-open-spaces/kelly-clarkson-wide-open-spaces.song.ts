@@ -5,7 +5,7 @@ export const kellyClarksonWideOpenSpaces = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-wide-open-spaces",
   title: "Wide Open Spaces",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "4b0f9afd-1113-4176-8766-8e3c8bf67b53",
   externalLink: "https://musicbrainz.org/work/4b0f9afd-1113-4176-8766-8e3c8bf67b53",
   source: "musicbrainz",

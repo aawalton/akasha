@@ -5,7 +5,7 @@ export const arianaGrandeBeAlright = {
   pageTypeSlug: "song",
   slug: "ariana-grande-be-alright",
   title: "Be Alright",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "67d75471-1309-4572-8b51-75e94f3f8612",
   externalLink: "https://musicbrainz.org/work/67d75471-1309-4572-8b51-75e94f3f8612",
   source: "musicbrainz",

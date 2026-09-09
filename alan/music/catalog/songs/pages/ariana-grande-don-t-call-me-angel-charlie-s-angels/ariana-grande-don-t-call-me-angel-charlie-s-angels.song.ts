@@ -5,7 +5,7 @@ export const arianaGrandeDonTCallMeAngelCharlieSAngels = {
   pageTypeSlug: "song",
   slug: "ariana-grande-don-t-call-me-angel-charlie-s-angels",
   title: "Don't Call Me Angel (Charlie's Angels)",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "ba184ac3-8279-4236-8146-965483c13732",
   externalLink: "https://musicbrainz.org/work/ba184ac3-8279-4236-8146-965483c13732",
   source: "musicbrainz",

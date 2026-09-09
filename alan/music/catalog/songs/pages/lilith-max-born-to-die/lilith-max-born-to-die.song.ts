@@ -5,7 +5,7 @@ export const lilithMaxBornToDie = {
   pageTypeSlug: "song",
   slug: "lilith-max-born-to-die",
   title: "Born to Die",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "784d3a93-fae2-4e44-b744-9942d8dafc16",
   externalLink: "https://musicbrainz.org/recording/784d3a93-fae2-4e44-b744-9942d8dafc16",
   source: "musicbrainz",

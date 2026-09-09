@@ -5,7 +5,7 @@ export const arianaGrandeRaindropsAnAngelCried = {
   pageTypeSlug: "song",
   slug: "ariana-grande-raindrops-an-angel-cried",
   title: "raindrops (an angel cried)",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "ee6d1ed0-059c-4bc8-88b9-0b733834375e",
   externalLink: "https://musicbrainz.org/work/ee6d1ed0-059c-4bc8-88b9-0b733834375e",
   source: "musicbrainz",

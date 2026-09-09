@@ -5,7 +5,7 @@ export const kellyClarksonHowIFeel = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-how-i-feel",
   title: "How I Feel",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "ea08aed3-2e8b-4543-82c4-b6f772b616dc",
   externalLink: "https://musicbrainz.org/work/ea08aed3-2e8b-4543-82c4-b6f772b616dc",
   source: "musicbrainz",

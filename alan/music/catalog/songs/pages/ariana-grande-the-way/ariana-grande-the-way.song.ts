@@ -5,7 +5,7 @@ export const arianaGrandeTheWay = {
   pageTypeSlug: "song",
   slug: "ariana-grande-the-way",
   title: "The Way",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "695398e2-7398-4689-95cc-5ec0a97183cd",
   externalLink: "https://musicbrainz.org/work/695398e2-7398-4689-95cc-5ec0a97183cd",
   source: "musicbrainz",

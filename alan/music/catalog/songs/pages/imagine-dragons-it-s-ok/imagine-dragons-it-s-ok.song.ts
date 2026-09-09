@@ -5,7 +5,7 @@ export const imagineDragonsItSOk = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-it-s-ok",
   title: "It’s Ok",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "da408d6d-4338-4b03-9cbd-f5d281f66584",
   externalLink: "https://musicbrainz.org/work/da408d6d-4338-4b03-9cbd-f5d281f66584",
   source: "musicbrainz",

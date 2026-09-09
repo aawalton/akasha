@@ -5,7 +5,7 @@ export const billieEilishEverybodyDies = {
   pageTypeSlug: "song",
   slug: "billie-eilish-everybody-dies",
   title: "Everybody Dies",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "610dc24d-f72f-4f22-b577-99b9bc8f2105",
   externalLink: "https://musicbrainz.org/work/610dc24d-f72f-4f22-b577-99b9bc8f2105",
   source: "musicbrainz",

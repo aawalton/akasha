@@ -5,7 +5,7 @@ export const billieEilishLovely2 = {
   pageTypeSlug: "song",
   slug: "billie-eilish-lovely-2",
   title: "lovely",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "9164af15-8d8f-470a-8c06-0718b24bc4cf",
   externalLink: "https://musicbrainz.org/work/9164af15-8d8f-470a-8c06-0718b24bc4cf",
   source: "musicbrainz",

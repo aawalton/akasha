@@ -5,7 +5,7 @@ export const auroraUnderStars = {
   pageTypeSlug: "song",
   slug: "aurora-under-stars",
   title: "Under Stars",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "0c7b93d8-caf4-477e-9fc4-2766888fd2c3",
   externalLink: "https://musicbrainz.org/work/0c7b93d8-caf4-477e-9fc4-2766888fd2c3",
   source: "musicbrainz",

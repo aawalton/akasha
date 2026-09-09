@@ -5,7 +5,7 @@ export const kellyClarksonSomeKindOfMiracle = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-some-kind-of-miracle",
   title: "Some Kind of Miracle",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "4c90a316-d3ee-463e-9d05-1888d6ea637a",
   externalLink: "https://musicbrainz.org/work/4c90a316-d3ee-463e-9d05-1888d6ea637a",
   source: "musicbrainz",

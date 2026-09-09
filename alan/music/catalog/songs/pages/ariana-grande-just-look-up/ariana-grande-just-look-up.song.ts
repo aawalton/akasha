@@ -5,7 +5,7 @@ export const arianaGrandeJustLookUp = {
   pageTypeSlug: "song",
   slug: "ariana-grande-just-look-up",
   title: "Just Look Up",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "6281e728-29f5-45b3-a466-c7fa96528d82",
   externalLink: "https://musicbrainz.org/work/6281e728-29f5-45b3-a466-c7fa96528d82",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraChurchyard = {
   pageTypeSlug: "song",
   slug: "aurora-churchyard",
   title: "Churchyard",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "c6758a17-228b-4cdf-bab4-958abf674be3",
   externalLink: "https://musicbrainz.org/work/c6758a17-228b-4cdf-bab4-958abf674be3",
   source: "musicbrainz",

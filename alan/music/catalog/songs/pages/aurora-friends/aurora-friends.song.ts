@@ -5,7 +5,7 @@ export const auroraFriends = {
   pageTypeSlug: "song",
   slug: "aurora-friends",
   title: "Friends",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "2c452d29-c0ab-4395-b5c9-1fd983aadbf9",
   externalLink: "https://musicbrainz.org/work/2c452d29-c0ab-4395-b5c9-1fd983aadbf9",
   source: "musicbrainz",

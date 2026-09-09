@@ -5,7 +5,7 @@ export const arianaGrande7RingsRemix = {
   pageTypeSlug: "song",
   slug: "ariana-grande-7-rings-remix",
   title: "7 rings (remix)",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "c155c56e-f776-4447-979f-db4c9d5f8b1e",
   externalLink: "https://musicbrainz.org/work/c155c56e-f776-4447-979f-db4c9d5f8b1e",
   source: "musicbrainz",

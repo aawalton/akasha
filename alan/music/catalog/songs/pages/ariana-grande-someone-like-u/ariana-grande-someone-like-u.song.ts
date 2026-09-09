@@ -5,7 +5,7 @@ export const arianaGrandeSomeoneLikeU = {
   pageTypeSlug: "song",
   slug: "ariana-grande-someone-like-u",
   title: "someone like u",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "37894bde-af3a-4f79-8063-d01d13372cb4",
   externalLink: "https://musicbrainz.org/work/37894bde-af3a-4f79-8063-d01d13372cb4",
   source: "musicbrainz",

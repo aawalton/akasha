@@ -5,7 +5,7 @@ export const arianaGrandeMotivation = {
   pageTypeSlug: "song",
   slug: "ariana-grande-motivation",
   title: "Motivation",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "b3d01a08-d801-4857-9563-a778bb7f1470",
   externalLink: "https://musicbrainz.org/work/b3d01a08-d801-4857-9563-a778bb7f1470",
   source: "musicbrainz",

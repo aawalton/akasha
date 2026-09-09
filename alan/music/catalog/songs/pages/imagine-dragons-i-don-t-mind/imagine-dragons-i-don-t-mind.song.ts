@@ -5,7 +5,7 @@ export const imagineDragonsIDonTMind = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-i-don-t-mind",
   title: "I Don’t Mind",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "ed883182-fc13-41b0-831c-9f46df81d674",
   externalLink: "https://musicbrainz.org/work/ed883182-fc13-41b0-831c-9f46df81d674",
   source: "musicbrainz",

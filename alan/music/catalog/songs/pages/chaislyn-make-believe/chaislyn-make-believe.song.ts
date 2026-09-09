@@ -5,7 +5,7 @@ export const chaislynMakeBelieve = {
   pageTypeSlug: "song",
   slug: "chaislyn-make-believe",
   title: "Make Believe",
-  artistSlug: "chaislyn",
+  artist: "chaislyn",
   externalId: "a131e3b2-d51d-4fb2-9e7d-7bac51da679e",
   externalLink: "https://musicbrainz.org/recording/a131e3b2-d51d-4fb2-9e7d-7bac51da679e",
   source: "musicbrainz",

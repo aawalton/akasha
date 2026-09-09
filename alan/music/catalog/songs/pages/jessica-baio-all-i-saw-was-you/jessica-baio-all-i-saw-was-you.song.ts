@@ -5,7 +5,7 @@ export const jessicaBaioAllISawWasYou = {
   pageTypeSlug: "song",
   slug: "jessica-baio-all-i-saw-was-you",
   title: "ALL I SAW WAS YOU",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "4141cf18-35b5-4b66-ab85-3b881f0b6600",
   externalLink: "https://musicbrainz.org/recording/4141cf18-35b5-4b66-ab85-3b881f0b6600",
   source: "musicbrainz",

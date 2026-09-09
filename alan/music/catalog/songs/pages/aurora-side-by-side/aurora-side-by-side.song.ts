@@ -5,7 +5,7 @@ export const auroraSideBySide = {
   pageTypeSlug: "song",
   slug: "aurora-side-by-side",
   title: "SIDE BY SIDE",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "54071568-fdbe-4a91-8eea-223c157b345a",
   externalLink: "https://musicbrainz.org/work/54071568-fdbe-4a91-8eea-223c157b345a",
   source: "musicbrainz",

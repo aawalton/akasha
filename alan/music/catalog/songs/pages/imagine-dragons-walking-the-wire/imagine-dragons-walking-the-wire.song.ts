@@ -5,7 +5,7 @@ export const imagineDragonsWalkingTheWire = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-walking-the-wire",
   title: "Walking the Wire",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "0c58d8f2-c1a2-4850-b839-429a3590ba99",
   externalLink: "https://musicbrainz.org/work/0c58d8f2-c1a2-4850-b839-429a3590ba99",
   source: "musicbrainz",

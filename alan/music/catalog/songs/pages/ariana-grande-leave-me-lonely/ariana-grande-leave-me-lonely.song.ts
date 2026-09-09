@@ -5,7 +5,7 @@ export const arianaGrandeLeaveMeLonely = {
   pageTypeSlug: "song",
   slug: "ariana-grande-leave-me-lonely",
   title: "Leave Me Lonely",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "da3f0e90-6a3e-4838-9453-514c4497f246",
   externalLink: "https://musicbrainz.org/work/da3f0e90-6a3e-4838-9453-514c4497f246",
   source: "musicbrainz",

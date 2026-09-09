@@ -5,7 +5,7 @@ export const kellyClarksonNostalgic = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-nostalgic",
   title: "Nostalgic",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "c5fdac11-3af8-4b94-b9c7-b2f0ce3764e1",
   externalLink: "https://musicbrainz.org/work/c5fdac11-3af8-4b94-b9c7-b2f0ce3764e1",
   source: "musicbrainz",

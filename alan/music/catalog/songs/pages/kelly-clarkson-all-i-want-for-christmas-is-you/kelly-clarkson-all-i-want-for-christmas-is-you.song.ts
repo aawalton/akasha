@@ -5,7 +5,7 @@ export const kellyClarksonAllIWantForChristmasIsYou = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-all-i-want-for-christmas-is-you",
   title: "All I Want for Christmas Is You",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "cefda372-3ea5-41b3-9a05-9d9fdb68b827",
   externalLink: "https://musicbrainz.org/work/cefda372-3ea5-41b3-9a05-9d9fdb68b827",
   source: "musicbrainz",

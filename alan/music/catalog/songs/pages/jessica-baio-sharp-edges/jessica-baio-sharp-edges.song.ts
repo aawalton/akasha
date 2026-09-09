@@ -5,7 +5,7 @@ export const jessicaBaioSharpEdges = {
   pageTypeSlug: "song",
   slug: "jessica-baio-sharp-edges",
   title: "sharp edges",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "62548ac0-d2c9-418d-a6f9-a8beac5fb197",
   externalLink: "https://musicbrainz.org/recording/62548ac0-d2c9-418d-a6f9-a8beac5fb197",
   source: "musicbrainz",

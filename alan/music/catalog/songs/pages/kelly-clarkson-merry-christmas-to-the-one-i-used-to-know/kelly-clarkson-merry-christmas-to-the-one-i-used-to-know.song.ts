@@ -5,7 +5,7 @@ export const kellyClarksonMerryChristmasToTheOneIUsedToKnow = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-merry-christmas-to-the-one-i-used-to-know",
   title: "Merry Christmas (to the One I Used to Know)",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "f08f698f-3d38-40d3-acb2-ab8d1d286f4e",
   externalLink: "https://musicbrainz.org/work/f08f698f-3d38-40d3-acb2-ab8d1d286f4e",
   source: "musicbrainz",

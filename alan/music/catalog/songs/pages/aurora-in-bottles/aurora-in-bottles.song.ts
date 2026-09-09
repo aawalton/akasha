@@ -5,7 +5,7 @@ export const auroraInBottles = {
   pageTypeSlug: "song",
   slug: "aurora-in-bottles",
   title: "In Bottles",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "62e9ac10-139c-43be-aecf-cdf11721ce58",
   externalLink: "https://musicbrainz.org/work/62e9ac10-139c-43be-aecf-cdf11721ce58",
   source: "musicbrainz",

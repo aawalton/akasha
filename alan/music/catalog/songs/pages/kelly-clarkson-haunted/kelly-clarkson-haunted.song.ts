@@ -5,7 +5,7 @@ export const kellyClarksonHaunted = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-haunted",
   title: "Haunted",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "d5902350-3fa1-4a74-a862-80fb3477324d",
   externalLink: "https://musicbrainz.org/work/d5902350-3fa1-4a74-a862-80fb3477324d",
   source: "musicbrainz",

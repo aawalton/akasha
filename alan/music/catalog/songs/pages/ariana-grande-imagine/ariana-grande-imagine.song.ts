@@ -5,7 +5,7 @@ export const arianaGrandeImagine = {
   pageTypeSlug: "song",
   slug: "ariana-grande-imagine",
   title: "imagine",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "332378d2-b629-4ec1-b4ae-a0c4c937b159",
   externalLink: "https://musicbrainz.org/work/332378d2-b629-4ec1-b4ae-a0c4c937b159",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const imagineDragonsDullKnives = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-dull-knives",
   title: "Dull Knives",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "87cc4222-363b-4332-b75c-1fe255aed685",
   externalLink: "https://musicbrainz.org/work/87cc4222-363b-4332-b75c-1fe255aed685",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const jessicaBaioLethal = {
   pageTypeSlug: "song",
   slug: "jessica-baio-lethal",
   title: "lethal",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "ad2736a3-1adc-4431-b55c-5c7e0fbb8304",
   externalLink: "https://musicbrainz.org/recording/ad2736a3-1adc-4431-b55c-5c7e0fbb8304",
   source: "musicbrainz",

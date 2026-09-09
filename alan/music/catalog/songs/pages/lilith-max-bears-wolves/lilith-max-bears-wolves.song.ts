@@ -5,7 +5,7 @@ export const lilithMaxBearsWolves = {
   pageTypeSlug: "song",
   slug: "lilith-max-bears-wolves",
   title: "Bears & Wolves",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "71824307-8169-4fd5-b567-f85ec512f6dc",
   externalLink: "https://musicbrainz.org/recording/71824307-8169-4fd5-b567-f85ec512f6dc",
   source: "musicbrainz",

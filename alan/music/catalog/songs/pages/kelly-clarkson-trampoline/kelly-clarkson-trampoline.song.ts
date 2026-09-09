@@ -5,7 +5,7 @@ export const kellyClarksonTrampoline = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-trampoline",
   title: "Trampoline",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "ac60bfa4-b797-4960-8e7a-7c4bfb1ed816",
   externalLink: "https://musicbrainz.org/work/ac60bfa4-b797-4960-8e7a-7c4bfb1ed816",
   source: "musicbrainz",

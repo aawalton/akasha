@@ -5,7 +5,7 @@ export const jessicaBaioTakeItBack = {
   pageTypeSlug: "song",
   slug: "jessica-baio-take-it-back",
   title: "take it back",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "ac4c1659-0073-4692-991f-5201eb27eaba",
   externalLink: "https://musicbrainz.org/recording/ac4c1659-0073-4692-991f-5201eb27eaba",
   source: "musicbrainz",

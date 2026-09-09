@@ -5,7 +5,7 @@ export const arianaGrandeBangBang = {
   pageTypeSlug: "song",
   slug: "ariana-grande-bang-bang",
   title: "Bang Bang",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "a5067caf-7bf1-41ac-9564-f202659d1690",
   externalLink: "https://musicbrainz.org/work/a5067caf-7bf1-41ac-9564-f202659d1690",
   source: "musicbrainz",

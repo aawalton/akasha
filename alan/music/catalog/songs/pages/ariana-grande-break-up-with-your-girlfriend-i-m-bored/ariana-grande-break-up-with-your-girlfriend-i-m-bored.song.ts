@@ -5,7 +5,7 @@ export const arianaGrandeBreakUpWithYourGirlfriendIMBored = {
   pageTypeSlug: "song",
   slug: "ariana-grande-break-up-with-your-girlfriend-i-m-bored",
   title: "break up with your girlfriend, i’m bored",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "d184f522-71c3-43d0-820f-7dbd4998e335",
   externalLink: "https://musicbrainz.org/work/d184f522-71c3-43d0-820f-7dbd4998e335",
   source: "musicbrainz",

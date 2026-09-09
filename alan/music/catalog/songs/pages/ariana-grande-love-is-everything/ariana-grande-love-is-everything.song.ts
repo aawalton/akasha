@@ -5,7 +5,7 @@ export const arianaGrandeLoveIsEverything = {
   pageTypeSlug: "song",
   slug: "ariana-grande-love-is-everything",
   title: "Love Is Everything",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "ca535430-223d-4478-8558-0b8e73fddfa4",
   externalLink: "https://musicbrainz.org/work/ca535430-223d-4478-8558-0b8e73fddfa4",
   source: "musicbrainz",

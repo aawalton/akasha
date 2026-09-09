@@ -5,7 +5,7 @@ export const evynneHollensAMillionDreams = {
   pageTypeSlug: "song",
   slug: "evynne-hollens-a-million-dreams",
   title: "A Million Dreams",
-  artistSlug: "evynne-hollens",
+  artist: "evynne-hollens",
   externalId: "551e27c0-5042-40ff-9662-fb30f7eca66d",
   externalLink: "https://musicbrainz.org/work/551e27c0-5042-40ff-9662-fb30f7eca66d",
   source: "musicbrainz",

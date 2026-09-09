@@ -5,7 +5,7 @@ export const kellyClarksonCatchMyBreath = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-catch-my-breath",
   title: "Catch My Breath",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "6f8011b9-4039-40f6-8b11-96d2117dfe89",
   externalLink: "https://musicbrainz.org/work/6f8011b9-4039-40f6-8b11-96d2117dfe89",
   source: "musicbrainz",

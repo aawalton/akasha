@@ -5,7 +5,7 @@ export const jessicaBaioHateMeLikeThat = {
   pageTypeSlug: "song",
   slug: "jessica-baio-hate-me-like-that",
   title: "hate me like that",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "9aaf93c9-a448-4c21-827e-4ddda346ffd3",
   externalLink: "https://musicbrainz.org/recording/9aaf93c9-a448-4c21-827e-4ddda346ffd3",
   source: "musicbrainz",

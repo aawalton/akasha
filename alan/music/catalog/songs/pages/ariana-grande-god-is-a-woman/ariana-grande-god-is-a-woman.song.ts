@@ -5,7 +5,7 @@ export const arianaGrandeGodIsAWoman = {
   pageTypeSlug: "song",
   slug: "ariana-grande-god-is-a-woman",
   title: "God is a woman",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "b7f117d7-5e23-4c96-bdf7-7890ecd93d89",
   externalLink: "https://musicbrainz.org/work/b7f117d7-5e23-4c96-bdf7-7890ecd93d89",
   source: "musicbrainz",

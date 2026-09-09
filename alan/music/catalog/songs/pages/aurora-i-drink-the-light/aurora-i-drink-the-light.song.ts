@@ -5,7 +5,7 @@ export const auroraIDrinkTheLight = {
   pageTypeSlug: "song",
   slug: "aurora-i-drink-the-light",
   title: "I DRINK THE LIGHT",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "56aad9c7-0460-4d78-80f6-274a4d9569c0",
   externalLink: "https://musicbrainz.org/work/56aad9c7-0460-4d78-80f6-274a4d9569c0",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const imagineDragonsLeaveMe = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-leave-me",
   title: "Leave Me",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "83f9b6c1-d0be-419c-b851-892fcd4c06d5",
   externalLink: "https://musicbrainz.org/work/83f9b6c1-d0be-419c-b851-892fcd4c06d5",
   source: "musicbrainz",

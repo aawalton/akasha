@@ -5,7 +5,7 @@ export const kellyClarksonBabyItSColdOutside = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-baby-it-s-cold-outside",
   title: "Baby, It’s Cold Outside",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "5de0b9fc-f9ae-4c8b-ab69-3f62b64a06a0",
   externalLink: "https://musicbrainz.org/work/5de0b9fc-f9ae-4c8b-ab69-3f62b64a06a0",
   source: "musicbrainz",

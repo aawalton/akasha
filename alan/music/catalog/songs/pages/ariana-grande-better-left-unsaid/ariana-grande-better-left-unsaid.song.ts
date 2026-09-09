@@ -5,7 +5,7 @@ export const arianaGrandeBetterLeftUnsaid = {
   pageTypeSlug: "song",
   slug: "ariana-grande-better-left-unsaid",
   title: "Better Left Unsaid",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "3a138a8e-a49d-47e4-bd8b-9fbe2e406661",
   externalLink: "https://musicbrainz.org/work/3a138a8e-a49d-47e4-bd8b-9fbe2e406661",
   source: "musicbrainz",

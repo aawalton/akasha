@@ -5,7 +5,7 @@ export const kellyClarksonJustForNow = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-just-for-now",
   title: "Just for Now",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "0bbb49f6-407b-3f1d-8169-75d7f77d869d",
   externalLink: "https://musicbrainz.org/work/0bbb49f6-407b-3f1d-8169-75d7f77d869d",
   source: "musicbrainz",

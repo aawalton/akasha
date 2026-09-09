@@ -5,7 +5,7 @@ export const arianaGrandeBadToYou = {
   pageTypeSlug: "song",
   slug: "ariana-grande-bad-to-you",
   title: "Bad to You",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "3650e75c-6c93-48dc-a685-264dabdd8ed4",
   externalLink: "https://musicbrainz.org/work/3650e75c-6c93-48dc-a685-264dabdd8ed4",
   source: "musicbrainz",

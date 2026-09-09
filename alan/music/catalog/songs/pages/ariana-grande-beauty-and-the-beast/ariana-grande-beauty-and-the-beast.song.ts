@@ -5,7 +5,7 @@ export const arianaGrandeBeautyAndTheBeast = {
   pageTypeSlug: "song",
   slug: "ariana-grande-beauty-and-the-beast",
   title: "Beauty and the Beast",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "dea11511-4254-3ae2-b6c3-906ea502668a",
   externalLink: "https://musicbrainz.org/work/dea11511-4254-3ae2-b6c3-906ea502668a",
   source: "musicbrainz",

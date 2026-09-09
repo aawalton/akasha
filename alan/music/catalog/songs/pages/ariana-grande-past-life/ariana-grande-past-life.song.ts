@@ -5,7 +5,7 @@ export const arianaGrandePastLife = {
   pageTypeSlug: "song",
   slug: "ariana-grande-past-life",
   title: "past life",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "f605e0f6-4f56-49cb-a7e6-9f501841eb7c",
   externalLink: "https://musicbrainz.org/work/f605e0f6-4f56-49cb-a7e6-9f501841eb7c",
   source: "musicbrainz",

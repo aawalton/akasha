@@ -5,7 +5,7 @@ export const billieEilishSkinny = {
   pageTypeSlug: "song",
   slug: "billie-eilish-skinny",
   title: "SKINNY",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "d8cc850d-10be-4895-8b2f-eb6cd9dee77c",
   externalLink: "https://musicbrainz.org/work/d8cc850d-10be-4895-8b2f-eb6cd9dee77c",
   source: "musicbrainz",

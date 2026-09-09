@@ -5,7 +5,7 @@ export const jessicaBaioHeLovesMeHeLovesMeNotStripped = {
   pageTypeSlug: "song",
   slug: "jessica-baio-he-loves-me-he-loves-me-not-stripped",
   title: "he loves me, he loves me not (stripped)",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "c303bb51-c44a-4a33-a09f-5217bd8c4c97",
   externalLink: "https://musicbrainz.org/recording/c303bb51-c44a-4a33-a09f-5217bd8c4c97",
   source: "musicbrainz",

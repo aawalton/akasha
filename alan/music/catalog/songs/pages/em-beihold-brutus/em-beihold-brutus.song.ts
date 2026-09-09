@@ -5,7 +5,7 @@ export const emBeiholdBrutus = {
   pageTypeSlug: "song",
   slug: "em-beihold-brutus",
   title: "Brutus",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "bc6c35c0-1077-41de-a0f3-e6c5d48a49cf",
   externalLink: "https://musicbrainz.org/work/bc6c35c0-1077-41de-a0f3-e6c5d48a49cf",
   source: "musicbrainz",

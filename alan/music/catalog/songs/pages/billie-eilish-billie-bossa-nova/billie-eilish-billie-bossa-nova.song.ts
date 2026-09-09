@@ -5,7 +5,7 @@ export const billieEilishBillieBossaNova = {
   pageTypeSlug: "song",
   slug: "billie-eilish-billie-bossa-nova",
   title: "Billie Bossa Nova",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "e778d68e-3e92-4b99-8d9b-712db81153c8",
   externalLink: "https://musicbrainz.org/work/e778d68e-3e92-4b99-8d9b-712db81153c8",
   source: "musicbrainz",

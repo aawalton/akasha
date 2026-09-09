@@ -5,7 +5,7 @@ export const emBeiholdTooPrecious = {
   pageTypeSlug: "song",
   slug: "em-beihold-too-precious",
   title: "Too Precious",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "56aa3cd0-0f82-4e57-83bb-418823b30dba",
   externalLink: "https://musicbrainz.org/work/56aa3cd0-0f82-4e57-83bb-418823b30dba",
   source: "musicbrainz",

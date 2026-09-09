@@ -5,7 +5,7 @@ export const kellyClarksonWalkawayJoe = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-walkaway-joe",
   title: "Walkaway Joe",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "07bf5ddb-c01b-4918-8140-04a861072555",
   externalLink: "https://musicbrainz.org/work/07bf5ddb-c01b-4918-8140-04a861072555",
   source: "musicbrainz",

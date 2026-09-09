@@ -5,7 +5,7 @@ export const kellyClarksonMyFavoriteThings = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-my-favorite-things",
   title: "My Favorite Things",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "edf0bfbc-c9e4-3b7d-9765-e8b86d9febbc",
   externalLink: "https://musicbrainz.org/work/edf0bfbc-c9e4-3b7d-9765-e8b86d9febbc",
   source: "musicbrainz",

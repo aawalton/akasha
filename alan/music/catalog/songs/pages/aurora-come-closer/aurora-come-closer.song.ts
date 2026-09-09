@@ -5,7 +5,7 @@ export const auroraComeCloser = {
   pageTypeSlug: "song",
   slug: "aurora-come-closer",
   title: "COME CLOSER",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "e6316a8d-35ac-42a0-9710-a946fd45f9ed",
   externalLink: "https://musicbrainz.org/work/e6316a8d-35ac-42a0-9710-a946fd45f9ed",
   source: "musicbrainz",

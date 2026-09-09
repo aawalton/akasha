@@ -5,7 +5,7 @@ export const kellyClarksonEveryChristmas = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-every-christmas",
   title: "Every Christmas",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "79ee9303-c009-4bad-a7af-f3628561ebda",
   externalLink: "https://musicbrainz.org/work/79ee9303-c009-4bad-a7af-f3628561ebda",
   source: "musicbrainz",

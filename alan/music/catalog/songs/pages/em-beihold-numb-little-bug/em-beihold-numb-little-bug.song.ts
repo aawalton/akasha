@@ -5,7 +5,7 @@ export const emBeiholdNumbLittleBug = {
   pageTypeSlug: "song",
   slug: "em-beihold-numb-little-bug",
   title: "Numb Little Bug",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "d924171a-e750-4126-9ef8-d58bcbbd6688",
   externalLink: "https://musicbrainz.org/work/d924171a-e750-4126-9ef8-d58bcbbd6688",
   source: "musicbrainz",

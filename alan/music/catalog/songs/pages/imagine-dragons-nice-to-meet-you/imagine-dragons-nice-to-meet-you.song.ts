@@ -5,7 +5,7 @@ export const imagineDragonsNiceToMeetYou = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-nice-to-meet-you",
   title: "Nice to Meet You",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "2ce80033-9250-4bbe-923e-0720e9d68322",
   externalLink: "https://musicbrainz.org/work/2ce80033-9250-4bbe-923e-0720e9d68322",
   source: "musicbrainz",

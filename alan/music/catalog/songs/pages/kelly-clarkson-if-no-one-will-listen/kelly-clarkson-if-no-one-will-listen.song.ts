@@ -5,7 +5,7 @@ export const kellyClarksonIfNoOneWillListen = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-if-no-one-will-listen",
   title: "If No One Will Listen",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "d093caa6-6453-37db-8412-609d10b205b1",
   externalLink: "https://musicbrainz.org/work/d093caa6-6453-37db-8412-609d10b205b1",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const billieEilishOceanEyes = {
   pageTypeSlug: "song",
   slug: "billie-eilish-ocean-eyes",
   title: "ocean eyes",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "e778f0a1-f500-4276-8fb9-918745ed6531",
   externalLink: "https://musicbrainz.org/work/e778f0a1-f500-4276-8fb9-918745ed6531",
   source: "musicbrainz",

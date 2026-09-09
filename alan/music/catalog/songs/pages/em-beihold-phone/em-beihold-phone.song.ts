@@ -5,7 +5,7 @@ export const emBeiholdPhone = {
   pageTypeSlug: "song",
   slug: "em-beihold-phone",
   title: "Phone",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "ccdb04e8-b2d0-4133-acfd-cad4d35d04c0",
   externalLink: "https://musicbrainz.org/work/ccdb04e8-b2d0-4133-acfd-cad4d35d04c0",
   source: "musicbrainz",

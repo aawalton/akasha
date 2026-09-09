@@ -5,7 +5,7 @@ export const arianaGrandeBestMistake = {
   pageTypeSlug: "song",
   slug: "ariana-grande-best-mistake",
   title: "Best Mistake",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "83a8fb6b-784e-4abc-adc9-aa349c25f096",
   externalLink: "https://musicbrainz.org/work/83a8fb6b-784e-4abc-adc9-aa349c25f096",
   source: "musicbrainz",

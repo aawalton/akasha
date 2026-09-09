@@ -5,7 +5,7 @@ export const arianaGrandeTheWizardAndI = {
   pageTypeSlug: "song",
   slug: "ariana-grande-the-wizard-and-i",
   title: "The Wizard and I",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "671da31c-d32b-4752-80b3-9efb10de96fd",
   externalLink: "https://musicbrainz.org/work/671da31c-d32b-4752-80b3-9efb10de96fd",
   source: "musicbrainz",

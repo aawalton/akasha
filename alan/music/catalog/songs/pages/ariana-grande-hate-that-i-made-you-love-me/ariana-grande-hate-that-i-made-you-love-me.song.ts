@@ -5,7 +5,7 @@ export const arianaGrandeHateThatIMadeYouLoveMe = {
   pageTypeSlug: "song",
   slug: "ariana-grande-hate-that-i-made-you-love-me",
   title: "hate that i made you love me",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "0a5275fb-630a-44ed-9346-5e64ac1f830a",
   externalLink: "https://musicbrainz.org/work/0a5275fb-630a-44ed-9346-5e64ac1f830a",
   source: "musicbrainz",

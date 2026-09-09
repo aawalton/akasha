@@ -5,7 +5,7 @@ export const arianaGrandeRightThere = {
   pageTypeSlug: "song",
   slug: "ariana-grande-right-there",
   title: "Right There",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "9b41bb33-53a1-42f2-8bb2-b4692b4d1a21",
   externalLink: "https://musicbrainz.org/work/9b41bb33-53a1-42f2-8bb2-b4692b4d1a21",
   source: "musicbrainz",

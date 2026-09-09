@@ -5,7 +5,7 @@ export const auroraASoulWithNoKing = {
   pageTypeSlug: "song",
   slug: "aurora-a-soul-with-no-king",
   title: "A Soul With No King",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "4ad32540-a447-442f-be07-b89b172fcb2b",
   externalLink: "https://musicbrainz.org/work/4ad32540-a447-442f-be07-b89b172fcb2b",
   source: "musicbrainz",

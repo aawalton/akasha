@@ -5,7 +5,7 @@ export const billieEilishMyBoy = {
   pageTypeSlug: "song",
   slug: "billie-eilish-my-boy",
   title: "my boy",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "d750625e-d2d3-4c60-92f6-c5ae9b1e1b10",
   externalLink: "https://musicbrainz.org/work/d750625e-d2d3-4c60-92f6-c5ae9b1e1b10",
   source: "musicbrainz",

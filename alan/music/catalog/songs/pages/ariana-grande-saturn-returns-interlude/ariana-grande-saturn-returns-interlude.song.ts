@@ -5,7 +5,7 @@ export const arianaGrandeSaturnReturnsInterlude = {
   pageTypeSlug: "song",
   slug: "ariana-grande-saturn-returns-interlude",
   title: "Saturn Returns Interlude",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "2ef45a47-cdbf-405d-8694-fa3f712978f8",
   externalLink: "https://musicbrainz.org/work/2ef45a47-cdbf-405d-8694-fa3f712978f8",
   source: "musicbrainz",

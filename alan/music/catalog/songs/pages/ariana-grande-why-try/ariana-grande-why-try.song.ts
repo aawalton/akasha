@@ -5,7 +5,7 @@ export const arianaGrandeWhyTry = {
   pageTypeSlug: "song",
   slug: "ariana-grande-why-try",
   title: "Why Try",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "034e9335-6c73-4d09-bb2d-fa0d1051a191",
   externalLink: "https://musicbrainz.org/work/034e9335-6c73-4d09-bb2d-fa0d1051a191",
   source: "musicbrainz",

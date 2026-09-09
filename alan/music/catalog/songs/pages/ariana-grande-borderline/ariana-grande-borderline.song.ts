@@ -5,7 +5,7 @@ export const arianaGrandeBorderline = {
   pageTypeSlug: "song",
   slug: "ariana-grande-borderline",
   title: "borderline",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "c6b616e6-ced1-4692-b1ca-42a9c0f7e2d9",
   externalLink: "https://musicbrainz.org/work/c6b616e6-ced1-4692-b1ca-42a9c0f7e2d9",
   source: "musicbrainz",

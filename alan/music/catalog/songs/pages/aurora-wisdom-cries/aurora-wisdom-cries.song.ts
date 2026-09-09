@@ -5,7 +5,7 @@ export const auroraWisdomCries = {
   pageTypeSlug: "song",
   slug: "aurora-wisdom-cries",
   title: "Wisdom Cries",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "9c663e93-9c48-4bd9-94d6-1f52b692766a",
   externalLink: "https://musicbrainz.org/work/9c663e93-9c48-4bd9-94d6-1f52b692766a",
   source: "musicbrainz",

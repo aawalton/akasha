@@ -5,7 +5,7 @@ export const arianaGrandeFakeSmile = {
   pageTypeSlug: "song",
   slug: "ariana-grande-fake-smile",
   title: "fake smile",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "d3467912-987d-49a6-b76d-a9e395fe923b",
   externalLink: "https://musicbrainz.org/work/d3467912-987d-49a6-b76d-a9e395fe923b",
   source: "musicbrainz",

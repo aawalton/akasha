@@ -5,7 +5,7 @@ export const jessicaBaioCrossedTheLine = {
   pageTypeSlug: "song",
   slug: "jessica-baio-crossed-the-line",
   title: "crossed the line",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "d7d14bd4-03a2-4d3d-b562-c5e85a807576",
   externalLink: "https://musicbrainz.org/recording/d7d14bd4-03a2-4d3d-b562-c5e85a807576",
   source: "musicbrainz",

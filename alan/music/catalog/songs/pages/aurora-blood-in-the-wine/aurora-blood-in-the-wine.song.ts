@@ -5,7 +5,7 @@ export const auroraBloodInTheWine = {
   pageTypeSlug: "song",
   slug: "aurora-blood-in-the-wine",
   title: "Blood in the Wine",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "64b9d85a-90ed-4758-a3bc-277421c54d75",
   externalLink: "https://musicbrainz.org/work/64b9d85a-90ed-4758-a3bc-277421c54d75",
   source: "musicbrainz",

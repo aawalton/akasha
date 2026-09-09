@@ -5,7 +5,7 @@ export const kellyClarksonWarPaint = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-war-paint",
   title: "War Paint",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "1f2db878-a1c4-4927-acb4-b67c33ee48bf",
   externalLink: "https://musicbrainz.org/work/1f2db878-a1c4-4927-acb4-b67c33ee48bf",
   source: "musicbrainz",

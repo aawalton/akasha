@@ -5,7 +5,7 @@ export const billieEilishLunch = {
   pageTypeSlug: "song",
   slug: "billie-eilish-lunch",
   title: "LUNCH",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "7e79557a-2452-44d9-8e71-585228633fb8",
   externalLink: "https://musicbrainz.org/work/7e79557a-2452-44d9-8e71-585228633fb8",
   source: "musicbrainz",

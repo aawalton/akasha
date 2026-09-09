@@ -5,7 +5,7 @@ export const arianaGrandeIMNotThatGirl = {
   pageTypeSlug: "song",
   slug: "ariana-grande-i-m-not-that-girl",
   title: "I'm Not That Girl",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "25be2832-2a15-4a21-80e6-09384a56fc79",
   externalLink: "https://musicbrainz.org/work/25be2832-2a15-4a21-80e6-09384a56fc79",
   source: "musicbrainz",

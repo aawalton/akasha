@@ -5,7 +5,7 @@ export const kellyClarkson4Carats = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-4-carats",
   title: "4 Carats",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "4a9c7f86-3c73-433f-bda4-37a05b912e1d",
   externalLink: "https://musicbrainz.org/work/4a9c7f86-3c73-433f-bda4-37a05b912e1d",
   source: "musicbrainz",

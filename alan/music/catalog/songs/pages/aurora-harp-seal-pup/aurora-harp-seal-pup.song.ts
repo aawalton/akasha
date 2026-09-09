@@ -5,7 +5,7 @@ export const auroraHarpSealPup = {
   pageTypeSlug: "song",
   slug: "aurora-harp-seal-pup",
   title: "Harp Seal Pup",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "6dab663f-ee91-4f41-b98e-2394046f847a",
   externalLink: "https://musicbrainz.org/work/6dab663f-ee91-4f41-b98e-2394046f847a",
   source: "musicbrainz",

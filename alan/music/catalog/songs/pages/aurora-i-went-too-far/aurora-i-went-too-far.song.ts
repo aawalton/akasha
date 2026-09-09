@@ -5,7 +5,7 @@ export const auroraIWentTooFar = {
   pageTypeSlug: "song",
   slug: "aurora-i-went-too-far",
   title: "I Went Too Far",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "1540738c-a75f-4e63-8b38-b0757366514b",
   externalLink: "https://musicbrainz.org/work/1540738c-a75f-4e63-8b38-b0757366514b",
   source: "musicbrainz",

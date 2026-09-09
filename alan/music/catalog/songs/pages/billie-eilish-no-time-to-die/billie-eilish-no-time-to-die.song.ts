@@ -5,7 +5,7 @@ export const billieEilishNoTimeToDie = {
   pageTypeSlug: "song",
   slug: "billie-eilish-no-time-to-die",
   title: "No Time to Die",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "ce59432d-3dcd-4a21-bdf3-92e3d6bb7b94",
   externalLink: "https://musicbrainz.org/work/ce59432d-3dcd-4a21-bdf3-92e3d6bb7b94",
   source: "musicbrainz",

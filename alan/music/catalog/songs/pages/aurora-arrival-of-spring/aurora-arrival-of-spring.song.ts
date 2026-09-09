@@ -5,7 +5,7 @@ export const auroraArrivalOfSpring = {
   pageTypeSlug: "song",
   slug: "aurora-arrival-of-spring",
   title: "Arrival of Spring",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "35295b77-b090-4709-b205-3813495548c5",
   externalLink: "https://musicbrainz.org/work/35295b77-b090-4709-b205-3813495548c5",
   source: "musicbrainz",

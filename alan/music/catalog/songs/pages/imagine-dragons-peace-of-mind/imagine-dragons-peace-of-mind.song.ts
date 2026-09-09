@@ -5,7 +5,7 @@ export const imagineDragonsPeaceOfMind = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-peace-of-mind",
   title: "Peace of Mind",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "0a74ce1c-2dbf-4cf8-b28d-23e74f2ad08b",
   externalLink: "https://musicbrainz.org/work/0a74ce1c-2dbf-4cf8-b28d-23e74f2ad08b",
   source: "musicbrainz",

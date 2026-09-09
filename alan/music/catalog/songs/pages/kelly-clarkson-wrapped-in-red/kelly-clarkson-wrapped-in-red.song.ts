@@ -5,7 +5,7 @@ export const kellyClarksonWrappedInRed = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-wrapped-in-red",
   title: "Wrapped in Red",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "c10f55b4-3436-48a7-af11-fea6bcad8b7b",
   externalLink: "https://musicbrainz.org/work/c10f55b4-3436-48a7-af11-fea6bcad8b7b",
   source: "musicbrainz",

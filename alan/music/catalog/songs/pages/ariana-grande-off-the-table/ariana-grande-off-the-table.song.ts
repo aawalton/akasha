@@ -5,7 +5,7 @@ export const arianaGrandeOffTheTable = {
   pageTypeSlug: "song",
   slug: "ariana-grande-off-the-table",
   title: "off the table",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "4594fd4d-cfb5-417f-8b71-245df81fd8eb",
   externalLink: "https://musicbrainz.org/work/4594fd4d-cfb5-417f-8b71-245df81fd8eb",
   source: "musicbrainz",

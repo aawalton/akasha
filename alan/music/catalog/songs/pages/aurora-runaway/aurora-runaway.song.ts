@@ -5,7 +5,7 @@ export const auroraRunaway = {
   pageTypeSlug: "song",
   slug: "aurora-runaway",
   title: "Runaway",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "0200883f-75ce-4a49-90e9-3305f331844b",
   externalLink: "https://musicbrainz.org/work/0200883f-75ce-4a49-90e9-3305f331844b",
   source: "musicbrainz",

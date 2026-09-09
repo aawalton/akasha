@@ -5,7 +5,7 @@ export const billieEilishWatch = {
   pageTypeSlug: "song",
   slug: "billie-eilish-watch",
   title: "watch",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "18d11606-c11e-4910-a92a-464b640ed029",
   externalLink: "https://musicbrainz.org/work/18d11606-c11e-4910-a92a-464b640ed029",
   source: "musicbrainz",

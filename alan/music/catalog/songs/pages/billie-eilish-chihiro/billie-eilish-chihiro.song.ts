@@ -5,7 +5,7 @@ export const billieEilishChihiro = {
   pageTypeSlug: "song",
   slug: "billie-eilish-chihiro",
   title: "CHIHIRO",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "37e62215-5eee-4fbd-996d-711be8517782",
   externalLink: "https://musicbrainz.org/work/37e62215-5eee-4fbd-996d-711be8517782",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const lilithMaxBigBadWolf = {
   pageTypeSlug: "song",
   slug: "lilith-max-big-bad-wolf",
   title: "Big Bad Wolf",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "071a71dc-a500-4ea3-8830-013a53441208",
   externalLink: "https://musicbrainz.org/recording/071a71dc-a500-4ea3-8830-013a53441208",
   source: "musicbrainz",

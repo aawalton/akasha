@@ -5,7 +5,7 @@ export const arianaGrandeBadDecisions = {
   pageTypeSlug: "song",
   slug: "ariana-grande-bad-decisions",
   title: "Bad Decisions",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "60615a1e-ae63-4ff4-90f5-6f18c1c19efe",
   externalLink: "https://musicbrainz.org/work/60615a1e-ae63-4ff4-90f5-6f18c1c19efe",
   source: "musicbrainz",

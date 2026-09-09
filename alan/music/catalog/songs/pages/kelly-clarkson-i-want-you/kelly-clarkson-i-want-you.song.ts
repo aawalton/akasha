@@ -5,7 +5,7 @@ export const kellyClarksonIWantYou = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-i-want-you",
   title: "I Want You",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "bcf99e0a-38c3-301e-b462-0e8918b4566d",
   externalLink: "https://musicbrainz.org/work/bcf99e0a-38c3-301e-b462-0e8918b4566d",
   source: "musicbrainz",

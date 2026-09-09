@@ -5,7 +5,7 @@ export const kellyClarksonThankful = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-thankful",
   title: "Thankful",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "8fb30c44-2d17-40ea-90bf-5d3918b9360a",
   externalLink: "https://musicbrainz.org/work/8fb30c44-2d17-40ea-90bf-5d3918b9360a",
   source: "musicbrainz",

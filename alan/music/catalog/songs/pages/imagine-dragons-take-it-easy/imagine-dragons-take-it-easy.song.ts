@@ -5,7 +5,7 @@ export const imagineDragonsTakeItEasy = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-take-it-easy",
   title: "Take It Easy",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "c737a5c3-82bb-44a6-9c42-ca2eaa06de8d",
   externalLink: "https://musicbrainz.org/work/c737a5c3-82bb-44a6-9c42-ca2eaa06de8d",
   source: "musicbrainz",

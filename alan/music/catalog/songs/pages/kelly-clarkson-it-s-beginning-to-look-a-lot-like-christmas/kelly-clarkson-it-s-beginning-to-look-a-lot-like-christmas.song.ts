@@ -5,7 +5,7 @@ export const kellyClarksonItSBeginningToLookALotLikeChristmas = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-it-s-beginning-to-look-a-lot-like-christmas",
   title: "It’s Beginning to Look a Lot Like Christmas",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "ffb60de2-3c6c-4c1f-b883-491075db11e1",
   externalLink: "https://musicbrainz.org/work/ffb60de2-3c6c-4c1f-b883-491075db11e1",
   source: "musicbrainz",

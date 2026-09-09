@@ -5,7 +5,7 @@ export const auroraUnderTheWater = {
   pageTypeSlug: "song",
   slug: "aurora-under-the-water",
   title: "Under the Water",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "301cc408-49e7-4ca4-9b99-abc3ab8e1745",
   externalLink: "https://musicbrainz.org/work/301cc408-49e7-4ca4-9b99-abc3ab8e1745",
   source: "musicbrainz",

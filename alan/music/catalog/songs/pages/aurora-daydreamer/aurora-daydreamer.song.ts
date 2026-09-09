@@ -5,7 +5,7 @@ export const auroraDaydreamer = {
   pageTypeSlug: "song",
   slug: "aurora-daydreamer",
   title: "Daydreamer",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "ea7f5965-a2b1-47fe-af60-ec81ff8d6c6d",
   externalLink: "https://musicbrainz.org/work/ea7f5965-a2b1-47fe-af60-ec81ff8d6c6d",
   source: "musicbrainz",

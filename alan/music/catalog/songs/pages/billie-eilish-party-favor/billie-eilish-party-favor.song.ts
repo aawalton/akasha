@@ -5,7 +5,7 @@ export const billieEilishPartyFavor = {
   pageTypeSlug: "song",
   slug: "billie-eilish-party-favor",
   title: "party favor",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "dddb35b2-d2fc-4910-85cb-493063450de4",
   externalLink: "https://musicbrainz.org/work/dddb35b2-d2fc-4910-85cb-493063450de4",
   source: "musicbrainz",

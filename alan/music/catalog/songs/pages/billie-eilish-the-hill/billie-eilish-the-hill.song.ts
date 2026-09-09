@@ -5,7 +5,7 @@ export const billieEilishTheHill = {
   pageTypeSlug: "song",
   slug: "billie-eilish-the-hill",
   title: "The Hill",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "6ce0d3b1-5008-4c6b-8ccc-16a581ff48c0",
   externalLink: "https://musicbrainz.org/work/6ce0d3b1-5008-4c6b-8ccc-16a581ff48c0",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonHearMe = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-hear-me",
   title: "Hear Me",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "55350852-9c6d-36f9-8531-bcab65ff2a0c",
   externalLink: "https://musicbrainz.org/work/55350852-9c6d-36f9-8531-bcab65ff2a0c",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const billieEilishAllTheGoodGirlsGoToHell = {
   pageTypeSlug: "song",
   slug: "billie-eilish-all-the-good-girls-go-to-hell",
   title: "all the good girls go to hell",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "13f586cd-e412-4b71-a2c0-c2a53fc4c1f8",
   externalLink: "https://musicbrainz.org/work/13f586cd-e412-4b71-a2c0-c2a53fc4c1f8",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonLittleGreenApples = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-little-green-apples",
   title: "Little Green Apples",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "f32fe068-b44c-34ec-b8f6-1beaf06f4765",
   externalLink: "https://musicbrainz.org/work/f32fe068-b44c-34ec-b8f6-1beaf06f4765",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraWavelengths = {
   pageTypeSlug: "song",
   slug: "aurora-wavelengths",
   title: "WAVELENGTHS",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "7178863d-3bed-4bb1-abcf-e3c907fc7505",
   externalLink: "https://musicbrainz.org/work/7178863d-3bed-4bb1-abcf-e3c907fc7505",
   source: "musicbrainz",

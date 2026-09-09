@@ -5,7 +5,7 @@ export const jessicaBaioAtLeast = {
   pageTypeSlug: "song",
   slug: "jessica-baio-at-least",
   title: "at least",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "aa1071eb-6fcd-4481-8c65-a90411ce96d1",
   externalLink: "https://musicbrainz.org/recording/aa1071eb-6fcd-4481-8c65-a90411ce96d1",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const kellyClarksonMerryChristmasBaby = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-merry-christmas-baby",
   title: "Merry Christmas Baby",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "2131259f-ae81-434d-a37f-8cd8130a2cc3",
   externalLink: "https://musicbrainz.org/work/2131259f-ae81-434d-a37f-8cd8130a2cc3",
   source: "musicbrainz",

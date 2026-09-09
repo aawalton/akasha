@@ -5,7 +5,7 @@ export const imagineDragonsTiptoe = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-tiptoe",
   title: "Tiptoe",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "1f5335da-01c5-42b0-af5e-9c7ab6d39eb3",
   externalLink: "https://musicbrainz.org/work/1f5335da-01c5-42b0-af5e-9c7ab6d39eb3",
   source: "musicbrainz",

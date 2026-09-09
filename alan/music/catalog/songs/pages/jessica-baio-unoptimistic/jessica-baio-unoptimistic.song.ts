@@ -5,7 +5,7 @@ export const jessicaBaioUnoptimistic = {
   pageTypeSlug: "song",
   slug: "jessica-baio-unoptimistic",
   title: "unoptimistic",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "b9c5e954-3c41-49d2-afbd-80510000e18a",
   externalLink: "https://musicbrainz.org/recording/b9c5e954-3c41-49d2-afbd-80510000e18a",
   source: "musicbrainz",

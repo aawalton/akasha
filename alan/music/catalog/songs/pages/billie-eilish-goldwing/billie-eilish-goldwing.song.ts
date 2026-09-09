@@ -5,7 +5,7 @@ export const billieEilishGoldwing = {
   pageTypeSlug: "song",
   slug: "billie-eilish-goldwing",
   title: "GOLDWING",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "4a145f8d-bf24-4497-a41d-e7947346b5a4",
   externalLink: "https://musicbrainz.org/work/4a145f8d-bf24-4497-a41d-e7947346b5a4",
   source: "musicbrainz",

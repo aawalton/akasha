@@ -5,7 +5,7 @@ export const arianaGrandeDanceToThis = {
   pageTypeSlug: "song",
   slug: "ariana-grande-dance-to-this",
   title: "Dance to This",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "1566c412-4381-4e93-9577-3734c1ac1c1d",
   externalLink: "https://musicbrainz.org/work/1566c412-4381-4e93-9577-3734c1ac1c1d",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const jessicaBaioRadioKrupaRemix = {
   pageTypeSlug: "song",
   slug: "jessica-baio-radio-krupa-remix",
   title: "Radio (Krupa remix)",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "043c8f4a-a14b-4758-90b6-909f3b2ed96d",
   externalLink: "https://musicbrainz.org/recording/043c8f4a-a14b-4758-90b6-909f3b2ed96d",
   source: "musicbrainz",

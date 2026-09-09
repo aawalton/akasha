@@ -5,7 +5,7 @@ export const auroraSouthernStar = {
   pageTypeSlug: "song",
   slug: "aurora-southern-star",
   title: "Southern Star",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "71ce3ee9-d4dc-4b9a-acd7-2901bd771c24",
   externalLink: "https://musicbrainz.org/work/71ce3ee9-d4dc-4b9a-acd7-2901bd771c24",
   source: "musicbrainz",

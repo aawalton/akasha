@@ -5,7 +5,7 @@ export const arianaGrandeDearOldShiz = {
   pageTypeSlug: "song",
   slug: "ariana-grande-dear-old-shiz",
   title: "Dear Old Shiz",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "c69d9717-ddc6-4747-951d-09b110af97e5",
   externalLink: "https://musicbrainz.org/work/c69d9717-ddc6-4747-951d-09b110af97e5",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const auroraSilentSky = {
   pageTypeSlug: "song",
   slug: "aurora-silent-sky",
   title: "Silent Sky",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "787cc6e3-5fd9-4730-b486-09fa618ad6cd",
   externalLink: "https://musicbrainz.org/work/787cc6e3-5fd9-4730-b486-09fa618ad6cd",
   source: "musicbrainz",

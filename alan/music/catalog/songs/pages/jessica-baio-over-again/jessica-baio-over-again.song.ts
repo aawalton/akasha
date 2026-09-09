@@ -5,7 +5,7 @@ export const jessicaBaioOverAgain = {
   pageTypeSlug: "song",
   slug: "jessica-baio-over-again",
   title: "over again",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "e95be9b6-fb7b-4428-ac89-6fe07dd8a6e5",
   externalLink: "https://musicbrainz.org/recording/e95be9b6-fb7b-4428-ac89-6fe07dd8a6e5",
   source: "musicbrainz",

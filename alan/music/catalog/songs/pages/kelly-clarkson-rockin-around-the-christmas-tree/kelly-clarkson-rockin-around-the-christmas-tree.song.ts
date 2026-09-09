@@ -5,7 +5,7 @@ export const kellyClarksonRockinAroundTheChristmasTree = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-rockin-around-the-christmas-tree",
   title: "Rockin’ Around the Christmas Tree",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "15875086-77a1-3e37-b125-75252d9d6bef",
   externalLink: "https://musicbrainz.org/work/15875086-77a1-3e37-b125-75252d9d6bef",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const arianaGrandeGreedyForTreasure = {
   pageTypeSlug: "song",
   slug: "ariana-grande-greedy-for-treasure",
   title: "Greedy for Treasure",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "bd416788-f533-457d-b3cd-3c281cb84e0a",
   externalLink: "https://musicbrainz.org/work/bd416788-f533-457d-b3cd-3c281cb84e0a",
   source: "musicbrainz",

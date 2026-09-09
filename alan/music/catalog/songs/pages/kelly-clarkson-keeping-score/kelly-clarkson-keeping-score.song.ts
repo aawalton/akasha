@@ -5,7 +5,7 @@ export const kellyClarksonKeepingScore = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-keeping-score",
   title: "Keeping Score",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "b4452948-ccf3-4230-b56f-9a264c80520c",
   externalLink: "https://musicbrainz.org/work/b4452948-ccf3-4230-b56f-9a264c80520c",
   source: "musicbrainz",

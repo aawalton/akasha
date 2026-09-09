@@ -5,7 +5,7 @@ export const billieEilishBurn = {
   pageTypeSlug: "song",
   slug: "billie-eilish-burn",
   title: "&burn",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "a8d7dd94-c737-4283-a549-9610fbf863ce",
   externalLink: "https://musicbrainz.org/work/a8d7dd94-c737-4283-a549-9610fbf863ce",
   source: "musicbrainz",

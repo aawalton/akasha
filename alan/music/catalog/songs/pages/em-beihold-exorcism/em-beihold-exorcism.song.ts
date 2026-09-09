@@ -5,7 +5,7 @@ export const emBeiholdExorcism = {
   pageTypeSlug: "song",
   slug: "em-beihold-exorcism",
   title: "Exorcism",
-  artistSlug: "em-beihold",
+  artist: "em-beihold",
   externalId: "bef07c50-6779-4543-9f40-af239949a4f9",
   externalLink: "https://musicbrainz.org/work/bef07c50-6779-4543-9f40-af239949a4f9",
   source: "musicbrainz",

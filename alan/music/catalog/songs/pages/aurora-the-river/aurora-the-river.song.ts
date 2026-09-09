@@ -5,7 +5,7 @@ export const auroraTheRiver = {
   pageTypeSlug: "song",
   slug: "aurora-the-river",
   title: "The River",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "495d41e1-4bbd-4571-bf81-42013d0e842e",
   externalLink: "https://musicbrainz.org/work/495d41e1-4bbd-4571-bf81-42013d0e842e",
   source: "musicbrainz",

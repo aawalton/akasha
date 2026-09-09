@@ -5,7 +5,7 @@ export const jessicaBaioBadTimes = {
   pageTypeSlug: "song",
   slug: "jessica-baio-bad-times",
   title: "bad times",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "068dd601-f033-424b-af34-ddc8eddafd16",
   externalLink: "https://musicbrainz.org/recording/068dd601-f033-424b-af34-ddc8eddafd16",
   source: "musicbrainz",

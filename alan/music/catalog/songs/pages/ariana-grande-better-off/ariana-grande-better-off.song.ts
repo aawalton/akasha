@@ -5,7 +5,7 @@ export const arianaGrandeBetterOff = {
   pageTypeSlug: "song",
   slug: "ariana-grande-better-off",
   title: "better off",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "e9419c15-c359-4c82-91da-08dfafe158d5",
   externalLink: "https://musicbrainz.org/work/e9419c15-c359-4c82-91da-08dfafe158d5",
   source: "musicbrainz",

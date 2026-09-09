@@ -5,7 +5,7 @@ export const billieEilishHostage = {
   pageTypeSlug: "song",
   slug: "billie-eilish-hostage",
   title: "hostage",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "4f699513-536a-402c-935b-b7b322e0ed62",
   externalLink: "https://musicbrainz.org/work/4f699513-536a-402c-935b-b7b322e0ed62",
   source: "musicbrainz",

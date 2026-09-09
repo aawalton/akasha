@@ -5,7 +5,7 @@ export const arianaGrandeBrandNewYou = {
   pageTypeSlug: "song",
   slug: "ariana-grande-brand-new-you",
   title: "Brand New You",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "d86a28a4-984a-4137-b1dd-04a886afaef2",
   externalLink: "https://musicbrainz.org/work/d86a28a4-984a-4137-b1dd-04a886afaef2",
   source: "musicbrainz",

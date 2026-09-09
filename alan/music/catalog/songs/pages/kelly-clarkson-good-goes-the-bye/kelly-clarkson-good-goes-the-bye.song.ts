@@ -5,7 +5,7 @@ export const kellyClarksonGoodGoesTheBye = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-good-goes-the-bye",
   title: "Good Goes the Bye",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "816be5bd-244d-455e-b8ac-452dca7164d4",
   externalLink: "https://musicbrainz.org/work/816be5bd-244d-455e-b8ac-452dca7164d4",
   source: "musicbrainz",

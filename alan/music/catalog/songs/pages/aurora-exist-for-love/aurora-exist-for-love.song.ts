@@ -5,7 +5,7 @@ export const auroraExistForLove = {
   pageTypeSlug: "song",
   slug: "aurora-exist-for-love",
   title: "Exist for Love",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "6c94292e-ad76-4396-99bf-e6367e8c12ea",
   externalLink: "https://musicbrainz.org/work/6c94292e-ad76-4396-99bf-e6367e8c12ea",
   source: "musicbrainz",

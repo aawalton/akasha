@@ -5,7 +5,7 @@ export const kellyClarksonIMMovinOn = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-i-m-movin-on",
   title: "I'm Movin' On",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "ca38f867-8093-4458-bf28-0163edd20e7d",
   externalLink: "https://musicbrainz.org/work/ca38f867-8093-4458-bf28-0163edd20e7d",
   source: "musicbrainz",

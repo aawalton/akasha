@@ -5,7 +5,7 @@ export const aurora3MilesHigh = {
   pageTypeSlug: "song",
   slug: "aurora-3-miles-high",
   title: "3 Miles High",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "f6067b6d-991a-4895-bb1c-ccd1d06251df",
   externalLink: "https://musicbrainz.org/work/f6067b6d-991a-4895-bb1c-ccd1d06251df",
   source: "musicbrainz",

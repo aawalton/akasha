@@ -5,7 +5,7 @@ export const auroraForgottenLove = {
   pageTypeSlug: "song",
   slug: "aurora-forgotten-love",
   title: "Forgotten Love",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "576914a2-4a1e-47b6-b71a-3af47efa50b2",
   externalLink: "https://musicbrainz.org/work/576914a2-4a1e-47b6-b71a-3af47efa50b2",
   source: "musicbrainz",

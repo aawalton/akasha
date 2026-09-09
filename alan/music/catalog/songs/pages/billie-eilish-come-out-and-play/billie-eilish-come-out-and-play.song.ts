@@ -5,7 +5,7 @@ export const billieEilishComeOutAndPlay = {
   pageTypeSlug: "song",
   slug: "billie-eilish-come-out-and-play",
   title: "come out and play",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "2ad3135e-8e2f-4f80-b98f-46574797695c",
   externalLink: "https://musicbrainz.org/work/2ad3135e-8e2f-4f80-b98f-46574797695c",
   source: "musicbrainz",

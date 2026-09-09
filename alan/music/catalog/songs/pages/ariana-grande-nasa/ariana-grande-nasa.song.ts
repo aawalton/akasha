@@ -5,7 +5,7 @@ export const arianaGrandeNasa = {
   pageTypeSlug: "song",
   slug: "ariana-grande-nasa",
   title: "NASA",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "d62ba737-11ca-4ae3-bdf4-93b3205dd15e",
   externalLink: "https://musicbrainz.org/work/d62ba737-11ca-4ae3-bdf4-93b3205dd15e",
   source: "musicbrainz",

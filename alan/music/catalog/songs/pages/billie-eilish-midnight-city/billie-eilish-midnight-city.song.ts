@@ -5,7 +5,7 @@ export const billieEilishMidnightCity = {
   pageTypeSlug: "song",
   slug: "billie-eilish-midnight-city",
   title: "Midnight City",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "8ad1f700-b48a-41fe-bda4-35a1e09d6ca3",
   externalLink: "https://musicbrainz.org/work/8ad1f700-b48a-41fe-bda4-35a1e09d6ca3",
   source: "musicbrainz",

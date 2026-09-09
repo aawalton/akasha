@@ -5,7 +5,7 @@ export const arianaGrandeNeedy = {
   pageTypeSlug: "song",
   slug: "ariana-grande-needy",
   title: "needy",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "db238bb2-23e9-42e4-9d00-21f654742602",
   externalLink: "https://musicbrainz.org/work/db238bb2-23e9-42e4-9d00-21f654742602",
   source: "musicbrainz",

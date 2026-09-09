@@ -5,7 +5,7 @@ export const arianaGrandeCadillacSong = {
   pageTypeSlug: "song",
   slug: "ariana-grande-cadillac-song",
   title: "Cadillac Song",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "d8159d2c-3207-49c1-8d95-81fc593e09cf",
   externalLink: "https://musicbrainz.org/work/d8159d2c-3207-49c1-8d95-81fc593e09cf",
   source: "musicbrainz",

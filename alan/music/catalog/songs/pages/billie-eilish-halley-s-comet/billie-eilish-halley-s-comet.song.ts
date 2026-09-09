@@ -5,7 +5,7 @@ export const billieEilishHalleySComet = {
   pageTypeSlug: "song",
   slug: "billie-eilish-halley-s-comet",
   title: "Halley’s Comet",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "4ad19067-b543-4a1e-9c70-7f2367ecb91b",
   externalLink: "https://musicbrainz.org/work/4ad19067-b543-4a1e-9c70-7f2367ecb91b",
   source: "musicbrainz",

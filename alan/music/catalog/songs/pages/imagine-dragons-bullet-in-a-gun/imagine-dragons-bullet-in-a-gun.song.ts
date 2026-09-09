@@ -5,7 +5,7 @@ export const imagineDragonsBulletInAGun = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-bullet-in-a-gun",
   title: "Bullet in a Gun",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "478a926d-ffcb-4376-bb86-459e8ade8caf",
   externalLink: "https://musicbrainz.org/work/478a926d-ffcb-4376-bb86-459e8ade8caf",
   source: "musicbrainz",

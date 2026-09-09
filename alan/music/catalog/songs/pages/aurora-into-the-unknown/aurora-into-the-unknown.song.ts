@@ -5,7 +5,7 @@ export const auroraIntoTheUnknown = {
   pageTypeSlug: "song",
   slug: "aurora-into-the-unknown",
   title: "Into the Unknown",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "4aefb4ed-8e57-42a3-ae70-819983a6b268",
   externalLink: "https://musicbrainz.org/work/4aefb4ed-8e57-42a3-ae70-819983a6b268",
   source: "musicbrainz",

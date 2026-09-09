@@ -5,7 +5,7 @@ export const jessicaBaioRadioHeklerRemixExtendedMix = {
   pageTypeSlug: "song",
   slug: "jessica-baio-radio-hekler-remix-extended-mix",
   title: "Radio (Hekler remix, extended mix)",
-  artistSlug: "jessica-baio",
+  artist: "jessica-baio",
   externalId: "38259c88-a9a9-4751-8519-a8baad409781",
   externalLink: "https://musicbrainz.org/recording/38259c88-a9a9-4751-8519-a8baad409781",
   source: "musicbrainz",

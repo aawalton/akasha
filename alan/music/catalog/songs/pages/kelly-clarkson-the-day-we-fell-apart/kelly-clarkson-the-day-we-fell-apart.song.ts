@@ -5,7 +5,7 @@ export const kellyClarksonTheDayWeFellApart = {
   pageTypeSlug: "song",
   slug: "kelly-clarkson-the-day-we-fell-apart",
   title: "The Day We Fell Apart",
-  artistSlug: "kelly-clarkson",
+  artist: "kelly-clarkson",
   externalId: "35ebbbac-6112-3902-8843-dd692cf40e9d",
   externalLink: "https://musicbrainz.org/work/35ebbbac-6112-3902-8843-dd692cf40e9d",
   source: "musicbrainz",

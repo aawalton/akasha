@@ -5,7 +5,7 @@ export const billieEilishWhenIWasOlder = {
   pageTypeSlug: "song",
   slug: "billie-eilish-when-i-was-older",
   title: "WHEN I WAS OLDER",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "62f538a4-8c6f-4556-b908-52d539754169",
   externalLink: "https://musicbrainz.org/work/62f538a4-8c6f-4556-b908-52d539754169",
   source: "musicbrainz",

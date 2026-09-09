@@ -5,7 +5,7 @@ export const imagineDragonsHandInMyPocket = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-hand-in-my-pocket",
   title: "Hand in My Pocket",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "9223a61c-6464-3e6d-8eeb-9feb63e94c48",
   externalLink: "https://musicbrainz.org/work/9223a61c-6464-3e6d-8eeb-9feb63e94c48",
   source: "musicbrainz",

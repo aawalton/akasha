@@ -5,7 +5,7 @@ export const billieEilishWhenThePartySOver = {
   pageTypeSlug: "song",
   slug: "billie-eilish-when-the-party-s-over",
   title: "when the party’s over",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "d8b3a1df-c7a0-4e58-8c31-f8a88c6f96bb",
   externalLink: "https://musicbrainz.org/work/d8b3a1df-c7a0-4e58-8c31-f8a88c6f96bb",
   source: "musicbrainz",

@@ -5,7 +5,7 @@ export const billieEilishGettingOlder = {
   pageTypeSlug: "song",
   slug: "billie-eilish-getting-older",
   title: "Getting Older",
-  artistSlug: "billie-eilish",
+  artist: "billie-eilish",
   externalId: "543b7d16-5083-4618-ad8e-9fed1c8fba78",
   externalLink: "https://musicbrainz.org/work/543b7d16-5083-4618-ad8e-9fed1c8fba78",
   source: "musicbrainz",

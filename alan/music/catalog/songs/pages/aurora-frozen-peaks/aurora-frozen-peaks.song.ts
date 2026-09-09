@@ -5,7 +5,7 @@ export const auroraFrozenPeaks = {
   pageTypeSlug: "song",
   slug: "aurora-frozen-peaks",
   title: "Frozen Peaks",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "4a57bc63-217b-4cd3-8ec0-a6c8fa45680d",
   externalLink: "https://musicbrainz.org/work/4a57bc63-217b-4cd3-8ec0-a6c8fa45680d",
   source: "musicbrainz",

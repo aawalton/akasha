@@ -5,7 +5,7 @@ export const auroraMothership = {
   pageTypeSlug: "song",
   slug: "aurora-mothership",
   title: "Mothership",
-  artistSlug: "aurora",
+  artist: "aurora",
   externalId: "7e3edeb7-4aa5-48ff-a9a3-c91b62ea9108",
   externalLink: "https://musicbrainz.org/work/7e3edeb7-4aa5-48ff-a9a3-c91b62ea9108",
   source: "musicbrainz",

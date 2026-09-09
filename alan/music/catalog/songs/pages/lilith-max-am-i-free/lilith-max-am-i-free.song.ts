@@ -5,7 +5,7 @@ export const lilithMaxAmIFree = {
   pageTypeSlug: "song",
   slug: "lilith-max-am-i-free",
   title: "Am I Free",
-  artistSlug: "lilith-max",
+  artist: "lilith-max",
   externalId: "c5e56a98-97a8-4982-9f6b-c3c3d7a0a279",
   externalLink: "https://musicbrainz.org/recording/c5e56a98-97a8-4982-9f6b-c3c3d7a0a279",
   source: "musicbrainz",

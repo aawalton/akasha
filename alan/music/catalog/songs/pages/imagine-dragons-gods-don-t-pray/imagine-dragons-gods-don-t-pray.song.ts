@@ -5,7 +5,7 @@ export const imagineDragonsGodsDonTPray = {
   pageTypeSlug: "song",
   slug: "imagine-dragons-gods-don-t-pray",
   title: "Gods Don’t Pray",
-  artistSlug: "imagine-dragons",
+  artist: "imagine-dragons",
   externalId: "efcbf65c-9ce6-4fdd-82f3-dbe458f017d3",
   externalLink: "https://musicbrainz.org/work/efcbf65c-9ce6-4fdd-82f3-dbe458f017d3",
   source: "musicbrainz",

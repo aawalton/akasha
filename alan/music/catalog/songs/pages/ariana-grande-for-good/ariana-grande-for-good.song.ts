@@ -5,7 +5,7 @@ export const arianaGrandeForGood = {
   pageTypeSlug: "song",
   slug: "ariana-grande-for-good",
   title: "For Good",
-  artistSlug: "ariana-grande",
+  artist: "ariana-grande",
   externalId: "e0259bdb-17bf-4ba0-bcaf-5a7d2014857b",
   externalLink: "https://musicbrainz.org/work/e0259bdb-17bf-4ba0-bcaf-5a7d2014857b",
   source: "musicbrainz",
