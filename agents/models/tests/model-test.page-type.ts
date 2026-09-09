@@ -1,11 +1,11 @@
 import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Cases } from "./properties/cases.page-property-entry.ts"
-import type { ModelFamilySlug } from "./properties/model-family-slug.relation-property.ts"
+import type { ModelFamily } from "./properties/model-family.relation-property.ts"
 import type { Prompt } from "./properties/prompt.text-property.ts"
 
 export type ModelTest = Module & {
-  modelFamilySlug: ModelFamilySlug
+  modelFamily: ModelFamily
   prompt: Prompt
   cases: Cases
 }
@@ -21,14 +21,14 @@ export const modelTest = {
     "page-property-entry/cases",
     "page-type/model-test-outcome",
     "relation-property/case-page",
-    "relation-property/model-family-slug",
+    "relation-property/model-family",
     "text-property/case-answer",
     "text-property/case-statement",
     "text-property/prompt",
   ],
   extendsSlug: ["page-type/module"],
   properties: [
-    { pagePropertySlug: "relation-property/model-family-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/model-family", required: true, many: false },
     { pagePropertySlug: "text-property/prompt", required: true, many: false },
     { pagePropertySlug: "page-property-entry/cases", required: true, many: false },
   ],

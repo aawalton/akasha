@@ -76,7 +76,7 @@ function testHeld(root: string, slug: string): Held {
   const own = partedIn(page)?.slug ?? ""
   const stated = valueAt(join(root, page), own)
   if (stated === null) throw new Error(`${page} answers to no \`${exportedAs(own)}\``)
-  const family = stated["modelFamilySlug"]
+  const family = stated["modelFamily"]
   if (typeof family !== "string") throw new Error(`${page} names no model family`)
   const at = pathOfSlug(root, family)
   const named = valueAt(join(root, at), partedIn(at)?.slug ?? "")

@@ -5,7 +5,7 @@ export const restatement = {
   pageTypeSlug: "model-test",
   slug: "restatement",
   definition: "whether a departure says again what its page's name and definition already say",
-  modelFamilySlug: "model-family/haiku",
+  modelFamily: "model-family/haiku",
   prompt:
     'You are looking at a page named {page} with a definition of "{definition}".\n\nIs the following statement obvious from the name and definition? YES/NO\n\n{statement}',
   code: "ts",
