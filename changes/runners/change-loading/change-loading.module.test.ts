@@ -221,6 +221,14 @@ test("a change acting on no file subtype has no path judged", () => {
   expect(targetRefusal(world, ADDRESS, { at: PLAIN })).toBeNull()
 })
 
+test("a change acting on a file of any kind runs a path of every kind", () => {
+  const world = judging("change-target-subtype/file")
+
+  expect(targetRefusal(world, ADDRESS, { at: PLAIN })).toBeNull()
+  expect(targetRefusal(world, ADDRESS, { at: AT })).toBeNull()
+  expect(targetRefusal(world, ADDRESS, { at: PAGE_TYPE_AT })).toBeNull()
+})
+
 test("the subtype a change judges a path against is worked out once over one world", () => {
   const world = judging("change-target-subtype/file-page")
   let asked = 0
