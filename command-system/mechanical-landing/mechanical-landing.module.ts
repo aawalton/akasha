@@ -32,5 +32,10 @@ export const mechanicalLanding = {
       invariantKind: "absence",
       statement: "Nothing here breaks the glass.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A landing here states the commit that landing read, so a path moved in between is refused.",
+    },
   ],
 } as const satisfies Module
