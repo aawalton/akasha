@@ -134,6 +134,10 @@ export const prosePattern = {
     },
     {
       invariantKind: "departure",
+      statement: "A participle set against a word by `rather than` is left alone.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A word with no object that places a thing somewhere is left alone.",
     },
     {

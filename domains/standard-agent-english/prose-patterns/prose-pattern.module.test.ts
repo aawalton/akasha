@@ -6,6 +6,7 @@ import {
   A_FLAG_HOLDING,
   A_NAME_ALREADY_HOLDING_TEXT,
   A_PERSON_HOLDS,
+  A_READ_ASKS_RATHER_THAN_HOLDING,
   A_RECORD_HOLDS_BETWEEN_ROUNDS,
   A_TERMINAL_HOLDING_KEYS,
   A_TIMER_HOLDS_THE_PROCESS_UP,
@@ -212,6 +213,10 @@ test("a gerund the parser hung elsewhere is found as a participle", () => {
 
 test("a participle under a form of `be` is left alone", () => {
   expect(foundIn(sentenceOf(A_BODY_IS_HOLDING_A_CONFLICT), HOLD)).toEqual([])
+})
+
+test("a participle set against a word by `rather than` is left alone", () => {
+  expect(foundIn(sentenceOf(A_READ_ASKS_RATHER_THAN_HOLDING), HOLD)).toEqual([])
 })
 
 test("a participle joined after `rather than` is left alone", () => {

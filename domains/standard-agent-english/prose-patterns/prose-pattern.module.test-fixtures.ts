@@ -385,6 +385,19 @@ export const A_BODY_IS_HOLDING_A_CONFLICT: readonly Row[] = [
   ["conflict", "NOUN", 4, "obj"],
 ]
 
+export const A_READ_ASKS_RATHER_THAN_HOLDING: readonly Row[] = [
+  ["a", "DET", 2, "det"],
+  ["read", "NOUN", 3, "nsubj"],
+  ["asks", "VERB", 0, "root"],
+  ["the", "DET", 5, "det"],
+  ["source", "NOUN", 3, "obj"],
+  ["rather", "ADV", 8, "cc"],
+  ["than", "SCONJ", 6, "fixed"],
+  ["holding", "VERB", 3, "advcl"],
+  ["a", "DET", 10, "det"],
+  ["token", "NOUN", 8, "obj"],
+]
+
 export const NAMES_A_PATH_RATHER_THAN_HOLDING: readonly Row[] = [
   ["A", "DET", 2, "det"],
   ["target", "NOUN", 3, "nsubj"],
