@@ -9,7 +9,7 @@ export const theWanderingInn0239TheDepthlessDoctor = {
   position: 239,
   ownLength: 4744,
   ownProgress: 4880,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-07-09",
   externalLink: "https://wanderinginn.com/2018/07/09/the-depthless-doctor/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0183406Km = {
   position: 183,
   ownLength: 12571,
   ownProgress: 12571,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-01-27",
   externalLink: "https://wanderinginn.com/2018/01/27/4-06-km/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0392MiniStoriesCrabsAndDrinks = {
   position: 392,
   ownLength: 5238,
   ownProgress: 5264,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-01-30",
   externalLink: "https://wanderinginn.com/2020/01/30/mini-stories-crabs-and-drinks/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0275InterludeBlackmage = {
   position: 275,
   ownLength: 12524,
   ownProgress: 12524,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-11-01",
   externalLink: "https://wanderinginn.com/2018/11/01/interlude-blackmage/",
   prose: "txt",

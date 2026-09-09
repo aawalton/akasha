@@ -9,7 +9,7 @@ export const theWanderingInn0407InterludeBurningAlcohol = {
   position: 407,
   ownLength: 18474,
   ownProgress: 18474,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-03-08",
   externalLink: "https://wanderinginn.com/2020/03/08/interlude-burning-alcohol/",
   prose: "txt",

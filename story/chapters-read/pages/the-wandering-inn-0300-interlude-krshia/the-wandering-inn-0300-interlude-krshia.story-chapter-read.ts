@@ -9,7 +9,7 @@ export const theWanderingInn0300InterludeKrshia = {
   position: 300,
   ownLength: 21466,
   ownProgress: 21466,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-01-26",
   externalLink: "https://wanderinginn.com/2019/01/26/interlude-krshia/",
   prose: "txt",

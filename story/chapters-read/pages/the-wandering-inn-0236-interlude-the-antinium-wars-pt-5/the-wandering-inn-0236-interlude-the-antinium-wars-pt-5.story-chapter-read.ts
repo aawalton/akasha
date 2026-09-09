@@ -9,7 +9,7 @@ export const theWanderingInn0236InterludeTheAntiniumWarsPt5 = {
   position: 236,
   ownLength: 8460,
   ownProgress: 8460,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-06-26",
   externalLink: "https://wanderinginn.com/2018/06/26/s02-the-antinium-wars-pt-5/",
   prose: "txt",

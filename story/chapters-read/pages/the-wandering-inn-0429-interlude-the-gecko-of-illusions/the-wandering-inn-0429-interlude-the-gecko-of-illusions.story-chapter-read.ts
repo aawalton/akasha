@@ -9,7 +9,7 @@ export const theWanderingInn0429InterludeTheGeckoOfIllusions = {
   position: 429,
   ownLength: 24225,
   ownProgress: 24384,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-06-07",
   externalLink: "https://wanderinginn.com/2020/06/07/interlude-the-gecko-of-illusions/",
   prose: "txt",

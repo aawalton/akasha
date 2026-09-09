@@ -9,7 +9,7 @@ export const theWanderingInn0249InterludeFlos = {
   position: 249,
   ownLength: 13904,
   ownProgress: 13927,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-08-04",
   externalLink: "https://wanderinginn.com/2018/08/04/interlude-flos/",
   prose: "txt",

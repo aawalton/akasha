@@ -9,7 +9,7 @@ export const theWanderingInn0434InterludeAMeetingOfDruids = {
   position: 434,
   ownLength: 26000,
   ownProgress: 26208,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-07-01",
   externalLink: "https://wanderinginn.com/2020/07/01/interlude-a-meeting-of-druids/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0348InterludeNumbtonguePt2 = {
   position: 348,
   ownLength: 28669,
   ownProgress: 28699,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-08-03",
   externalLink: "https://wanderinginn.com/2019/08/03/interlude-numbtongue-pt-2/",
   prose: "txt",

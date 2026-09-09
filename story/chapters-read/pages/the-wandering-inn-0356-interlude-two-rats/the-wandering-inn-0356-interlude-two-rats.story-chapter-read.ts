@@ -9,7 +9,7 @@ export const theWanderingInn0356InterludeTwoRats = {
   position: 356,
   ownLength: 24057,
   ownProgress: 24071,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-08-31",
   externalLink: "https://wanderinginn.com/2019/08/31/interlude-two-rats/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0405InterludeChocolateAlchemy = {
   position: 405,
   ownLength: 14694,
   ownProgress: 14694,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-03-06",
   externalLink: "https://wanderinginn.com/2020/03/06/interlude-chocolate-alchemy/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0294InterludeBird = {
   position: 294,
   ownLength: 5175,
   ownProgress: 5192,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-12-30",
   externalLink: "https://wanderinginn.com/2018/12/30/interlude-bird/",
   prose: "txt",

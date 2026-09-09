@@ -9,7 +9,7 @@ export const theWanderingInn0421InterludeANightInTheInn = {
   position: 421,
   ownLength: 24383,
   ownProgress: 24529,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-05-03",
   externalLink: "https://wanderinginn.com/2020/05/03/interlude-a-night-in-the-inn/",
   prose: "txt",

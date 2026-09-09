@@ -9,7 +9,7 @@ export const theWanderingInn0159InterludeWistramDaysPt2 = {
   position: 159,
   ownLength: 12696,
   ownProgress: 12696,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-11-10",
   externalLink: "https://wanderinginn.com/2017/11/10/s03-wistram-days-pt-2/",
   prose: "txt",

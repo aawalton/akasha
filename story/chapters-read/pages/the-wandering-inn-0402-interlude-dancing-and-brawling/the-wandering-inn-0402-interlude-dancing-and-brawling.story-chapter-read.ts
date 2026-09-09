@@ -9,7 +9,7 @@ export const theWanderingInn0402InterludeDancingAndBrawling = {
   position: 402,
   ownLength: 11336,
   ownProgress: 11336,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-03-03",
   externalLink: "https://wanderinginn.com/2020/03/03/interlude-dancing-and-brawling/",
   prose: "txt",

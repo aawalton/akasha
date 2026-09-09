@@ -9,7 +9,7 @@ export const theWanderingInn0378InterludeTalia = {
   position: 378,
   ownLength: 27562,
   ownProgress: 27562,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-11-30",
   externalLink: "https://wanderinginn.com/2019/11/30/interlude-talia/",
   prose: "txt",

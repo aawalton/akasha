@@ -9,7 +9,7 @@ export const theWanderingInn0298554NonCanon = {
   position: 298,
   ownLength: 10700,
   ownProgress: 10768,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-01-19",
   externalLink: "https://wanderinginn.com/2019/01/19/5-54/",
   prose: "txt",

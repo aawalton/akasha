@@ -9,7 +9,7 @@ export const theWanderingInn0394InterludeQueensAndDragons = {
   position: 394,
   ownLength: 11596,
   ownProgress: 11596,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-02-04",
   externalLink: "https://wanderinginn.com/2020/02/04/interlude-queens-and-dragons/",
   prose: "txt",

@@ -9,7 +9,7 @@ export const theWanderingInn0286InterludeNiers = {
   position: 286,
   ownLength: 4620,
   ownProgress: 4620,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2018-12-06",
   externalLink: "https://wanderinginn.com/2018/12/06/interlude-niers/",
   prose: "txt",

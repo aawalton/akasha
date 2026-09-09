@@ -9,7 +9,7 @@ export const theWanderingInn0306InterludePebblesnatchAndGarry = {
   position: 306,
   ownLength: 6842,
   ownProgress: 6842,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-02-16",
   externalLink: "https://wanderinginn.com/2019/02/16/interlude-pebblesnatch-and-garry/",
   prose: "txt",

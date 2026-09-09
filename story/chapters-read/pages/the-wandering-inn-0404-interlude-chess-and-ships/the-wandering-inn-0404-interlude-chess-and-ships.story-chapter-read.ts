@@ -9,7 +9,7 @@ export const theWanderingInn0404InterludeChessAndShips = {
   position: 404,
   ownLength: 7323,
   ownProgress: 7323,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-03-05",
   externalLink: "https://wanderinginn.com/2020/03/05/interlude-chess-and-ships/",
   prose: "txt",

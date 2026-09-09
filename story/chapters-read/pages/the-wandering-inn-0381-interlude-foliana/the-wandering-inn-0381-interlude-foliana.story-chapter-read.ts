@@ -9,7 +9,7 @@ export const theWanderingInn0381InterludeFoliana = {
   position: 381,
   ownLength: 14489,
   ownProgress: 14489,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-12-11",
   externalLink: "https://wanderinginn.com/2019/12/11/interlude-foliana/",
   prose: "txt",

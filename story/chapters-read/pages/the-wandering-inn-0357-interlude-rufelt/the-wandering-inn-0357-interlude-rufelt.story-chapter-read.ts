@@ -9,7 +9,7 @@ export const theWanderingInn0357InterludeRufelt = {
   position: 357,
   ownLength: 9880,
   ownProgress: 9880,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2019-09-03",
   externalLink: "https://wanderinginn.com/2019/09/03/interlude-rufelt/",
   prose: "txt",

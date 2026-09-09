@@ -9,7 +9,7 @@ export const theWanderingInn0411MatingRitualsPt2 = {
   position: 411,
   ownLength: 28462,
   ownProgress: 28828,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-03-21",
   externalLink: "https://wanderinginn.com/2020/03/21/mating-rituals-pt-2/",
   prose: "txt",

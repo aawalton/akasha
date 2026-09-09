@@ -9,7 +9,7 @@ export const theWanderingInn0408InterludeTheHangoverAfter = {
   position: 408,
   ownLength: 4420,
   ownProgress: 4420,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-03-09",
   externalLink: "https://wanderinginn.com/2020/03/09/interlude-the-hangover-after/",
   prose: "txt",

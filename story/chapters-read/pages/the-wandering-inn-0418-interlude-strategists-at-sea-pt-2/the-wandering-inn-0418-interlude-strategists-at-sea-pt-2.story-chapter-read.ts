@@ -9,7 +9,7 @@ export const theWanderingInn0418InterludeStrategistsAtSeaPt2 = {
   position: 418,
   ownLength: 27383,
   ownProgress: 27512,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-04-22",
   externalLink: "https://wanderinginn.com/2020/04/22/interlude-strategists-at-sea-pt-2/",
   prose: "txt",

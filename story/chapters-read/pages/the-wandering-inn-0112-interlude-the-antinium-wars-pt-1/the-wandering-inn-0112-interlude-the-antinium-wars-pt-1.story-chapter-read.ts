@@ -9,7 +9,7 @@ export const theWanderingInn0112InterludeTheAntiniumWarsPt1 = {
   position: 112,
   ownLength: 5513,
   ownProgress: 5513,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2017-06-25",
   externalLink: "https://wanderinginn.com/2017/06/25/s02-the-antinium-wars-pt-1/",
   prose: "txt",

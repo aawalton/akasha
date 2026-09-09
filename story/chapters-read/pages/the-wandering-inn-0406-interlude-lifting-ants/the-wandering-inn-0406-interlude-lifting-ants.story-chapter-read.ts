@@ -9,7 +9,7 @@ export const theWanderingInn0406InterludeLiftingAnts = {
   position: 406,
   ownLength: 15671,
   ownProgress: 15671,
-  unitSlug: "words",
+  unit: "words",
   publishedAt: "2020-03-07",
   externalLink: "https://wanderinginn.com/2020/03/07/interlude-lifting-ants/",
   prose: "txt",
