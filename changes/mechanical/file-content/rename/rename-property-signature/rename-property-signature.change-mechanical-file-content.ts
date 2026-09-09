@@ -10,5 +10,40 @@ export const renamePropertySignature = {
   definition: "one property a type declares spelled anew wherever the checker resolves to it",
   code: "ts",
   test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The property respelled is named as the type it sits on and then the property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name standing alone is refused, since one file declares one name on two types.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A star in place of the type names every type the file declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A star is asked for rather than fallen into, so the caller says it means them all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file declaring no type at all is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file whose types state that property nowhere is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A type already stating the name asked for is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property declared outside the file as well is refused.",
+    },
+  ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

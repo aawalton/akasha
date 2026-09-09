@@ -38,6 +38,8 @@ const ENTRY_PROPERTY = "page-property-entry"
 
 const PAGE_TYPE = "page-type"
 
+const ANY = "*"
+
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 
 const AT = "at"
@@ -157,6 +159,24 @@ function filedUnder(world: World, shape: Declared): readonly string[] {
   return found
 }
 
+type Within = {
+  readonly key: string
+  readonly carrying: readonly string[]
+}
+
+function withinOf(world: World, record: Declared, most: number | null): Within | null {
+  const value = pageIn(world, record.path)
+  const slug = value === null ? null : value[PROPERTY_SLUG]
+  if (typeof slug !== "string") return null
+  const under = world.index
+    .declaringOf(record.id)
+    .filter((one) => one.kind === PAGE_TYPE)
+    .map((one) => one.slug)
+  const key = exportedAs(slug)
+  const held = spelledIn(world, under, { key, was: slug, to: slug, beside: false, most })
+  return { key, carrying: held.carrying }
+}
+
 export async function renamePagePropertyPropertySlug(
   world: World,
   given: RenamePagePropertyPropertySlugAsked
@@ -164,14 +184,9 @@ export async function renamePagePropertyPropertySlug(
   const read = readingOf(world, given)
   if (typeof read === "string") return refusing(read)
   const declared = world.index.declaringOf(read.id)
-  const inside = declared.find((one) => one.kind === RECORD_PROPERTY)
-  if (inside !== undefined) {
-    return refusing(
-      `\`${inside.slug}\` declares this property as one of its fields, and a key inside a record is not spelled anew here`
-    )
-  }
   const types = declared.filter((one) => one.kind === PAGE_TYPE)
   const shapes = declared.filter((one) => one.kind === ENTRY_PROPERTY)
+  const records = declared.filter((one) => one.kind === RECORD_PROPERTY)
   const key = exportedAs(read.was)
   const now = exportedAs(given.to)
   const most = given.most ?? null
@@ -211,9 +226,21 @@ export async function renamePagePropertyPropertySlug(
     const why = await reaching(RENAME_KEY, { at: path, was: key, now })
     if (why !== null) return refusing(`\`${path}\` is refused, and ${why}`)
   }
+  for (const one of records) {
+    const within = withinOf(world, one, most)
+    if (within === null) continue
+    for (const path of within.carrying) {
+      const why = await reaching(RENAME_KEY, { at: path, was: key, now, within: within.key })
+      if (why !== null) return refusing(`\`${path}\` is refused, and ${why}`)
+    }
+  }
   for (const one of whole ? types : []) {
     const of = `${typedAs(one.slug)}.${key}`
     const why = await reaching(RENAME_SIGNATURE, { at: one.path, of, to: now })
+    if (why !== null) return refusing(`\`${one.path}\` is refused, and ${why}`)
+  }
+  for (const one of whole ? records : []) {
+    const why = await reaching(RENAME_SIGNATURE, { at: one.path, of: `${ANY}.${key}`, to: now })
     if (why !== null) return refusing(`\`${one.path}\` is refused, and ${why}`)
   }
   for (const at of entries) {

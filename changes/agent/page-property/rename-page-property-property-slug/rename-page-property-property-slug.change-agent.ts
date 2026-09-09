@@ -86,7 +86,25 @@ export const renamePagePropertyPropertySlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A property a record declares as one of its fields is refused.",
+      statement:
+        "A record declaring the property as a field has the key spelled anew in each of its records.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages whose records are written are the pages of every page type declaring that record.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key the records sit under is the one the record's page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The field the record's own type declares is spelled anew beside the key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That type is named as every type the record's page declares.",
     },
     {
       invariantKind: "departure",

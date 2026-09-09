@@ -23,7 +23,9 @@ import type {
 } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
-const ADDRESSED = /^([A-Za-z_$][A-Za-z0-9_$]*)\.([A-Za-z_$][A-Za-z0-9_$]*)$/
+const ANY = "*"
+
+const ADDRESSED = /^([A-Za-z_$][A-Za-z0-9_$]*|\*)\.([A-Za-z_$][A-Za-z0-9_$]*)$/
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
@@ -67,7 +69,16 @@ function signaturesIn(held: ts.Node, key: string): readonly ts.Node[] {
   )
 }
 
+function typesIn(typing: Typing, path: string): readonly ts.Node[] {
+  const source = typing.sourceAt(path)
+  if (source === null) return []
+  return source.statements.filter(
+    (one) => ts.isTypeAliasDeclaration(one) || ts.isInterfaceDeclaration(one)
+  )
+}
+
 function typesNamed(typing: Typing, path: string, named: string): readonly ts.Node[] {
+  if (named === ANY) return typesIn(typing, path)
   return declaredNamed(typing, path, named).filter(
     (one) => ts.isTypeAliasDeclaration(one) || ts.isInterfaceDeclaration(one)
   )
@@ -104,14 +115,29 @@ export function renamePropertySignature(world: World, given: RenamePropertySigna
   const over = [given.at, ...reading.importers]
   const placed = placingOver(pathsIn(world.over), world.textOf)
   const typing = typingOver(world.root, over, readingOf(world.root, world.textOf, placed), placed)
+  const any = address.type === ANY
   const types = typesNamed(typing, given.at, address.type)
-  if (types.length === 0) return refusing(`\`${given.at}\` declares no type \`${address.type}\``)
+  if (types.length === 0) {
+    return refusing(
+      any
+        ? `\`${given.at}\` declares no type at all`
+        : `\`${given.at}\` declares no type \`${address.type}\``
+    )
+  }
   const declared = new Set(types.flatMap((one) => [...signaturesIn(one, address.property)]))
   if (declared.size === 0)
-    return refusing(`\`${address.type}\` declares no \`${address.property}\``)
+    return refusing(
+      any
+        ? `no type \`${given.at}\` declares states \`${address.property}\``
+        : `\`${address.type}\` declares no \`${address.property}\``
+    )
   for (const one of types) {
     if (signaturesIn(one, given.to).length > 0) {
-      return refusing(`\`${address.type}\` already declares a \`${given.to}\``)
+      return refusing(
+        any
+          ? `a type \`${given.at}\` declares states \`${given.to}\` already`
+          : `\`${address.type}\` already declares a \`${given.to}\``
+      )
     }
   }
   if (outsideIn(typing, given.at, declared)) {

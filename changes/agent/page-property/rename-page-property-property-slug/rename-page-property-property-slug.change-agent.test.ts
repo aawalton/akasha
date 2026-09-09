@@ -60,8 +60,10 @@ const BY_A_TYPE: readonly Declaring[] = [
   { slug: "module", kind: "page-type", id: "module-id", path: MODULE_AT },
 ]
 
+const RECORD_AT = "akasha/i.record-property.ts"
+
 const BY_A_RECORD: readonly Declaring[] = [
-  { slug: "invariants", kind: "record-property", id: "invariants-id", path: "akasha/i.record.ts" },
+  { slug: "invariants", kind: "record-property", id: "invariants-id", path: RECORD_AT },
 ]
 
 type Reached = { readonly at: string; readonly given: unknown }
@@ -246,19 +248,58 @@ test("a property that is no file property carries no file", async () => {
   expect(reached.map((one) => one.at)).not.toContain(MOVE_FILE_CODE)
 })
 
-test("a property a record declares as one of its fields is refused", async () => {
+const RECORD_VALUES: Readonly<Record<string, Value>> = {
+  ...VALUES,
+  "record-property/i": {
+    id: "invariants-id",
+    pageTypeSlug: "record-property",
+    slug: "i",
+    propertySlug: "invariants",
+  },
+  "module/one": { id: "one", pageTypeSlug: "module", slug: "one", invariants: [{ code: "ts" }] },
+}
+
+function worldOfRecords(reaching: Reaching): World {
+  const world = worldIn(BY_A_RECORD, reaching, RECORD_VALUES)
+  return {
+    ...world,
+    index: {
+      ...world.index,
+      declaringOf: (id: string) => (id === "invariants-id" ? BY_A_TYPE : BY_A_RECORD),
+    } as never,
+  }
+}
+
+test("a record declaring the property has its key spelled anew in each record", async () => {
   const reached: Reached[] = []
 
-  const said = await renamePagePropertyPropertySlug(worldIn(BY_A_RECORD, watching(reached)), {
+  const said = await renamePagePropertyPropertySlug(worldOfRecords(watching(reached)), {
     at: CODE_AT,
     to: "code-file",
   })
 
-  expect(said.edits).toEqual([])
-  expect(said.refused).toBe(
-    "`invariants` declares this property as one of its fields, and a key inside a record is not spelled anew here"
-  )
-  expect(reached).toEqual([])
+  expect(said.refused).toBeNull()
+  expect(givenAt(reached, RENAME_KEY)).toEqual({
+    at: ONE_AT,
+    was: "code",
+    now: "codeFile",
+    within: "invariants",
+  })
+})
+
+test("the field the record's own type declares is spelled anew beside the key", async () => {
+  const reached: Reached[] = []
+
+  await renamePagePropertyPropertySlug(worldOfRecords(watching(reached)), {
+    at: CODE_AT,
+    to: "code-file",
+  })
+
+  expect(givenAt(reached, RENAME_SIGNATURE)).toEqual({
+    at: RECORD_AT,
+    of: "*.code",
+    to: "codeFile",
+  })
 })
 
 test("the property slug the page already carries is refused", async () => {
