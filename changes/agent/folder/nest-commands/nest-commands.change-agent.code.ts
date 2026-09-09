@@ -17,7 +17,7 @@ const MOVE_FILE = "change-mechanical/move-file-of-any-kind"
 
 const NAMESPACE = "namespace"
 
-const PART_SLUGS = "part-slugs"
+const PARTS = "parts"
 
 const ROOT = "commands/pages"
 
@@ -69,7 +69,7 @@ export async function parentedUnder(
 ): Promise<Carrying> {
   const held = world.index.listedAt(COMMAND, slug)[0]
   if (held === undefined) return { refused: `\`${slug}\` is at no path` }
-  if (world.index.idsNaming(held.id, PART_SLUGS).includes(holder)) return { said: [], world }
+  if (world.index.idsNaming(held.id, PARTS).includes(holder)) return { said: [], world }
   const put = await reach(world, CHANGE_DOMAIN_PARENT, {
     page: `${COMMAND}/${slug}`,
     to: `${NAMESPACE}/${under}`,
