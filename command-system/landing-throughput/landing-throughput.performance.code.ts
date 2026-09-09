@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as git } from "@akasha/git/git-running"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
@@ -68,7 +68,6 @@ function seeded(scratch: ReturnType<typeof scratchWorld>): string {
 }
 
 function landsOn(landingAt: string, root: string, name: string): string {
-  const page = `export const ${name} = { pageTypeSlug: "domain", slug: "${name}" }\n`
   return `import { landing } from ${JSON.stringify(landingAt)}
 import { existsSync, writeFileSync } from "node:fs"
 writeFileSync(${JSON.stringify(join(root, `${READY}${name}`))}, "ready")
@@ -76,7 +75,7 @@ while (!existsSync(${JSON.stringify(join(root, GO))})) Bun.sleepSync(${TICK})
 const began = Date.now()
 const said = await landing(
   ${JSON.stringify(root)},
-  [{ path: ${JSON.stringify(`akasha/${name}.domain.ts`)}, body: new TextEncoder().encode(${JSON.stringify(page)}) }],
+  [{ path: ${JSON.stringify(`${name}.txt`)}, body: new TextEncoder().encode("held\\n") }],
   "held",
   { named: ["admits"], over: () => [] }
 )
@@ -98,12 +97,28 @@ function laneIn(root: string, name: string): number {
   return existsSync(at) ? Number(readFileSync(at, "utf8")) : 0
 }
 
+export function failingIn(codes: readonly number[], why: string | null): readonly string[] {
+  const failed = codes.filter((one) => one !== 0).length
+  if (failed === 0) return []
+  return [`failed\t${failed}`, `why\t${why ?? "the lane said nothing"}`]
+}
+
+async function whyOfFirst(
+  kids: readonly Bun.Subprocess[],
+  codes: readonly number[]
+): Promise<string | null> {
+  const at = codes.indexOf(1)
+  const kid = at < 0 ? undefined : kids[at]
+  if (kid === undefined) return null
+  const said = await new Response(kid.stderr as ReadableStream).text()
+  return said.trim().split("\n").filter(Boolean).slice(-1)[0] ?? null
+}
+
 export async function measured(from: string): Promise<readonly string[]> {
   const landingAt = join(from, "command-system/landing/landing.module.code.ts")
   const scratch = scratchWorld()
   try {
     const root = seeded(scratch)
-    mkdirSync(join(root, "akasha"), { recursive: true })
     const names = namesOf(LANES)
     const kids = names.map((one) =>
       Bun.spawn(["bun", "-e", landsOn(landingAt, root, one)], { stderr: "pipe" })
@@ -113,12 +128,15 @@ export async function measured(from: string): Promise<readonly string[]> {
     writeFileSync(join(root, GO), GO)
     const codes = await Promise.all(kids.map((one) => one.exited))
     const wallSeconds = (Date.now() - began) / 1000
-    return linesFor({
-      lanes: LANES,
-      landed: codes.filter((one) => one === 0).length,
-      wallSeconds,
-      lane: names.map((one) => laneIn(root, one)),
-    })
+    return [
+      ...linesFor({
+        lanes: LANES,
+        landed: codes.filter((one) => one === 0).length,
+        wallSeconds,
+        lane: names.map((one) => laneIn(root, one)),
+      }),
+      ...failingIn(codes, await whyOfFirst(kids, codes)),
+    ]
   } finally {
     scratch.sweep()
   }
