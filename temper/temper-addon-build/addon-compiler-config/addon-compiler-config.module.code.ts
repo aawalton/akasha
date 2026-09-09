@@ -74,7 +74,7 @@ export type EsoAddonPage = {
   readonly slug: string
   readonly bundleEntry: string | null
   readonly bindings: string | null
-  readonly luaModuleSlugs: readonly string[]
+  readonly luaModules: readonly string[]
 }
 
 export function esoAddonPagePathIn(dir: string): string | null {
@@ -100,19 +100,19 @@ export async function readEsoAddonPage(dir: string): Promise<EsoAddonPage | null
       pageTypeSlug?: unknown
       bundleEntry?: unknown
       bindings?: unknown
+      luaModules?: unknown
       luaModuleSlugs?: unknown
     }
     if (said.pageTypeSlug !== "eso-addon" || typeof said.slug !== "string") continue
     const entry = said.bundleEntry
     const bound = said.bindings
-    const luaSaid: readonly unknown[] = Array.isArray(said.luaModuleSlugs)
-      ? said.luaModuleSlugs
-      : []
+    const luaHeld = said.luaModules ?? said.luaModuleSlugs
+    const luaSaid: readonly unknown[] = Array.isArray(luaHeld) ? luaHeld : []
     return {
       slug: said.slug,
       bundleEntry: typeof entry === "string" ? entry : null,
       bindings: typeof bound === "string" ? bound : null,
-      luaModuleSlugs: luaSaid.filter((one) => typeof one === "string"),
+      luaModules: luaSaid.filter((one) => typeof one === "string"),
     }
   }
   return null
