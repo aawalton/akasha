@@ -2,7 +2,7 @@ import type {
   AnyVerdict,
   VerdictCoverage,
   VerdictReach,
-} from "../verdict-shape/verdict-shape.module.code.ts"
+} from "../shape/verdict-shape.module.code.ts"
 
 export const UNMEASURED = "UNMEASURED"
 

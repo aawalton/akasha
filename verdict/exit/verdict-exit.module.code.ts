@@ -1,4 +1,4 @@
-import type { AnyVerdict } from "../verdict-shape/verdict-shape.module.code.ts"
+import type { AnyVerdict } from "../shape/verdict-shape.module.code.ts"
 
 const EXIT_CODE: Record<AnyVerdict["kind"], 0 | 1> = {
   pass: 0,

@@ -1,5 +1,5 @@
-import type { VerdictCoverage, VerdictFinding } from "../verdict-shape/verdict-shape.module.code.ts"
-import { renderCoverage } from "../verdict-text/verdict-text.module.code.ts"
+import type { VerdictCoverage, VerdictFinding } from "../shape/verdict-shape.module.code.ts"
+import { renderCoverage } from "../text/verdict-text.module.code.ts"
 
 export type ReadingCoverage = VerdictCoverage
 
