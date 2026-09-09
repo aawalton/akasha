@@ -2,6 +2,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { dropPatch, keepPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
+import { holding } from "../../commands/modules/holding/holding.module.code.ts"
 import {
   blobsIn,
   bodyOf,
@@ -19,7 +20,6 @@ import {
 import type { Kind } from "../calling/calling.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import { committed } from "../committing/committing.module.code.ts"
-import { holding } from "../holding/holding.module.code.ts"
 
 const NO_PAGE = "a path that is no page keeps no patch"
 

@@ -69,6 +69,7 @@ export const command = {
     "module/patching",
     "module/folder-clearing",
     "module/orphaning",
+    "module/holding",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",

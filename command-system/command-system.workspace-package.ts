@@ -21,7 +21,6 @@ export const commandSystem = {
     "module/during-call",
     "module/fault-saying",
     "module/gate-building",
-    "module/holding",
     "module/landing-reading",
     "module/piping",
     "module/reading",

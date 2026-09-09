@@ -7,7 +7,7 @@ import type { Drift } from "@akasha/indexes/rebuilding"
 import { counted } from "../../../command-system/asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
-import { holding } from "../../../command-system/holding/holding.module.code.ts"
+import { holding } from "../../modules/holding/holding.module.code.ts"
 import { namesDrawn } from "../../modules/name-drawing/name-drawing.module.code.ts"
 
 export const REFRESH = "refresh"

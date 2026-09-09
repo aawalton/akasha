@@ -12,6 +12,7 @@ import {
   clearedUnder,
   isFolder,
 } from "../../commands/modules/folder-clearing/folder-clearing.module.code.ts"
+import { holding } from "../../commands/modules/holding/holding.module.code.ts"
 import {
   absentAfter,
   orphaningIn,
@@ -24,7 +25,6 @@ import type { Bodies } from "../drafting/drafting.module.code.ts"
 import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 import type { Keeping } from "../gate-building/gate-building.module.code.ts"
 import { indexingLoaded } from "../gate-building/gate-building.module.code.ts"
-import { holding } from "../holding/holding.module.code.ts"
 import type { FileMove } from "../path-moving/path-moving.module.code.ts"
 import { movedOnto, movesHeld } from "../path-moving/path-moving.module.code.ts"
 import type { Reading as AsRead } from "../reading/reading.module.code.ts"
