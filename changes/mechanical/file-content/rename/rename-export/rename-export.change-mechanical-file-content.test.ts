@@ -32,6 +32,17 @@ const SHORT_BODY = `import { ${HELD_EXPORT} } from "../one/held.module.code.ts"
 export const short = { ${HELD_EXPORT} }
 `
 
+const OWN_CODE = "akasha/six/own.module.code.ts"
+
+const OWN_BODY = `type Kept = { readonly one: number }
+
+const kept: Kept = { one: 1 }
+
+export const held = kept.one
+`
+
+const ownBody = (path: string): string | null => (path === OWN_CODE ? OWN_BODY : null)
+
 const shorthandRepo = (): string =>
   indexedRepo({
     [SHORT_PAGE]: bodyOf({ id: idOf("f"), pageTypeSlug: "module", slug: "short", code: "ts" }),
@@ -93,11 +104,26 @@ test("a file left out of the paths handed in is left as that file is", () => {
   expect([...pathsIn(said)].sort()).toEqual([HELD_CODE])
 })
 
-test("a file exporting no such name is refused", () => {
+test("a file declaring no such name is refused", () => {
   const root = indexedRepo()
   const said = renameExport(root, HELD_CODE, [HELD_CODE], "missing", CARRIED, textIn(root), NOWHERE)
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${HELD_CODE}\` exports no \`missing\``)
+  expect(said.refused).toBe(`\`${HELD_CODE}\` declares no \`missing\``)
+})
+
+test("a name the file declares and exports nowhere is spelled anew over that file", () => {
+  const root = scratch.rootFor("rename-export-")
+  const said = renameExport(root, OWN_CODE, [OWN_CODE], "kept", CARRIED, ownBody, NOWHERE)
+  expect(said.refused).toBe(null)
+  expect([...new Set(pathsIn(said))]).toEqual([OWN_CODE])
+  expect(bodiesIn(said, ownBody).get(OWN_CODE)).toBe(OWN_BODY.replaceAll("kept", CARRIED))
+})
+
+test("a type alias the file declares and exports nowhere is spelled anew over that file", () => {
+  const root = scratch.rootFor("rename-export-")
+  const said = renameExport(root, OWN_CODE, [OWN_CODE], "Kept", "Carried", ownBody, NOWHERE)
+  expect(said.refused).toBe(null)
+  expect(bodiesIn(said, ownBody).get(OWN_CODE)).toBe(OWN_BODY.replaceAll("Kept", "Carried"))
 })
 
 test("a file that would change and already reaches the new name is refused", () => {

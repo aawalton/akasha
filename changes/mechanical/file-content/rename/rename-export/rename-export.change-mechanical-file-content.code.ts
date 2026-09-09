@@ -1,5 +1,6 @@
 import {
   boundAs,
+  declaredNamed,
   exportsNamed,
   type Placing,
   placingOver,
@@ -31,8 +32,9 @@ export function renameExport(
   placed: Placing
 ): Said {
   const typing = typingOver(root, over, readingOf(root, textOf, placed), placed)
-  const declared = new Set(exportsNamed(typing, at, of))
-  if (declared.size === 0) return refusing(`\`${at}\` exports no \`${of}\``)
+  const exported = exportsNamed(typing, at, of)
+  const declared = new Set(exported.length > 0 ? exported : declaredNamed(typing, at, of))
+  if (declared.size === 0) return refusing(`\`${at}\` declares no \`${of}\``)
   const held = new Map<string, Splice[]>()
   const seen = new Set<string>()
   for (const found of referencesOf(typing, root, declared)) {

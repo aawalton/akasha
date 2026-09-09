@@ -52,6 +52,29 @@ function namedOf(node: ts.Node): ts.Node | null {
   return null
 }
 
+function scoping(node: ts.Node): boolean {
+  return (
+    ts.isSourceFile(node) ||
+    ts.isBlock(node) ||
+    ts.isCaseBlock(node) ||
+    ts.isCatchClause(node) ||
+    ts.isForStatement(node) ||
+    ts.isForInStatement(node) ||
+    ts.isForOfStatement(node) ||
+    ts.isFunctionDeclaration(node) ||
+    ts.isFunctionExpression(node) ||
+    ts.isArrowFunction(node) ||
+    ts.isMethodDeclaration(node) ||
+    ts.isConstructorDeclaration(node)
+  )
+}
+
+function fileScoped(node: ts.Node): boolean {
+  let held: ts.Node | undefined = node.parent
+  while (held !== undefined && !scoping(held)) held = held.parent
+  return held === undefined || ts.isSourceFile(held)
+}
+
 function linesOf(typing: Typing, path: string, declared: readonly ts.Node[]): string {
   const lines = new Set<number>()
   for (const one of declared) {
@@ -97,18 +120,32 @@ function whyNot(given: RenameCodeTokenAsked): string | null {
   return null
 }
 
+async function spelling(
+  world: World,
+  given: RenameCodeTokenAsked,
+  over: readonly string[]
+): Promise<Answer> {
+  const spelled = await reach(world, RENAME_EXPORT, {
+    at: given.at,
+    over,
+    of: given.of,
+    to: given.to,
+  })
+  return gathered([spelled.said])
+}
+
 async function exported(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
   const why = whyNot(given)
   if (why !== null) return refusing(why)
   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
-  const spelled = await reach(world, RENAME_EXPORT, {
-    at: given.at,
-    over: [given.at, ...reading.importers],
-    of: given.of,
-    to: given.to,
-  })
-  return gathered([spelled.said])
+  return await spelling(world, given, [given.at, ...reading.importers])
+}
+
+async function overFile(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
+  const why = whyNot(given)
+  if (why !== null) return refusing(why)
+  return await spelling(world, given, [given.at])
 }
 
 export async function renameCodeToken(world: World, given: RenameCodeTokenAsked): Promise<Answer> {
@@ -123,6 +160,7 @@ export async function renameCodeToken(world: World, given: RenameCodeTokenAsked)
   if (declared.length === 0) return refusing(`\`${given.at}\` declares no \`${given.of}\``)
   const found = pickedIn(typing, given, declared)
   if ("refused" in found) return refusing(found.refused)
+  if (fileScoped(found.node)) return await overFile(world, given)
   const source = typing.sourceAt(given.at)
   if (source === null) return refusing(`\`${given.at}\` could not be read`)
   const named = namedOf(found.node)

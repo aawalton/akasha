@@ -39,6 +39,18 @@ const TYPES_BODY = `export type Kept = { readonly one: number }\n`
 
 const STRAY = "held.ts"
 
+const FILE_TYPE_BODY = `type Kept = { readonly one: number }
+
+export const held: Kept = { one: 1 }
+`
+
+const FILE_CONST_BODY = `const kept = 1
+
+export function held(): number {
+  return kept + 1
+}
+`
+
 function worldIn(root: string, textOf: (path: string) => string | null): World {
   return worldAt(root, textOf, async (world, at, given) => {
     if (at === "change-mechanical-file-content/rename-export") {
@@ -145,6 +157,36 @@ test("a name no export carries is renamed over its own file", async () => {
   expect(said.refused).toBe(null)
   expect(bodiesIn(said, world.base).get(LOCAL)).toBe(BODY.replaceAll("kept", CARRIED))
   expect(said.edits[0]?.kind).toBe("replace")
+})
+
+test("a top-level type alias no export carries is spelled anew over its own file", async () => {
+  const world = heldIn(scratch.rootFor("token-"), LOCAL, FILE_TYPE_BODY)
+  const said = await renameCodeToken(world, { at: LOCAL, of: "Kept", to: "Carried" })
+  expect(said.refused).toBe(null)
+  expect(bodiesIn(said, world.base).get(LOCAL)).toBe(FILE_TYPE_BODY.replaceAll("Kept", "Carried"))
+})
+
+test("a top-level const no export carries is spelled anew over its own file", async () => {
+  const world = heldIn(scratch.rootFor("token-"), LOCAL, FILE_CONST_BODY)
+  const said = await renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(bodiesIn(said, world.base).get(LOCAL)).toBe(FILE_CONST_BODY.replaceAll("kept", CARRIED))
+})
+
+test("a file-scope name is handed to the change reached at the export address", async () => {
+  const reached: string[] = []
+  const world = worldAt(
+    scratch.rootFor("token-"),
+    (path) => (path === LOCAL ? FILE_CONST_BODY : null),
+    (_world, at) => {
+      reached.push(at)
+      return Promise.resolve({ edits: [], refused: null })
+    }
+  )
+
+  await renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
+
+  expect(reached).toEqual(["change-mechanical-file-content/rename-export"])
 })
 
 test("a name the file declares nowhere is refused", async () => {
