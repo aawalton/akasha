@@ -1,7 +1,7 @@
 import type { Domain } from "@akasha/domains/domain"
 import type { PageType } from "@akasha/pages/page-type"
 import type { RouteCode } from "./properties/route-code.code-file-property.ts"
-import type { RouteTest } from "./properties/route-test.file-property.ts"
+import type { RouteTest } from "./properties/route-test.code-file-property.ts"
 import type { UrlPath } from "./properties/url-path.text-property.ts"
 
 export type Route = Domain & {
@@ -18,13 +18,13 @@ export const route = {
   pluralSlug: "routes",
   partSlugs: [
     "code-file-property/route-code",
-    "file-property/route-test",
+    "code-file-property/route-test",
     "text-property/url-path",
   ],
   extends: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "code-file-property/route-code", required: true, many: false },
-    { pagePropertySlug: "file-property/route-test", required: false, many: false },
+    { pagePropertySlug: "code-file-property/route-test", required: false, many: false },
     { pagePropertySlug: "text-property/url-path", required: false, many: false },
   ],
   invariants: [
