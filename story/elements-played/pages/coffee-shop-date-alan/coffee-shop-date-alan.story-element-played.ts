@@ -4,7 +4,7 @@ export const coffeeShopDateAlan = {
   id: "01a0682a-d9b5-7ff8-9c8b-a9abe2285bbc",
   pageTypeSlug: "story-element-played",
   slug: "coffee-shop-date-alan",
-  playedStorySlug: "coffee-shop-date",
+  playedStory: "coffee-shop-date",
   elementKind: "agent",
   perceiving:
     "Alan's attention is drawn to structure — the system beneath the surface, the load-bearing joint, the place where a design will later strain. He notices friction first: the redundant step, the abstraction that doesn't fit, the \"why is this harder than it should be.\" Elegance and waste both register loudly; the mundane middle often doesn't.\n\nHis focus is bursty — seized hard by a novel idea or a clean reduction, prone to skating past routine detail until it becomes interesting. He catches when something is *off* before he can say why, and trusts that signal enough to dig.",

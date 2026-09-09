@@ -4,7 +4,7 @@ export const coffeeShopDateCoffeeShop = {
   id: "01a0682a-d9b6-740b-aafd-f024df0bfe74",
   pageTypeSlug: "story-element-played",
   slug: "coffee-shop-date-coffee-shop",
-  playedStorySlug: "coffee-shop-date",
+  playedStory: "coffee-shop-date",
   elementKind: "setting",
   perceiving:
     "The shop registers what is done to it and within it: the door opening, a chair scraping, a voice raised above the murmur, a cup set down, someone lingering at the counter. It does not read minds or motives — only the physical facts of bodies, objects, and sound moving through its space.",

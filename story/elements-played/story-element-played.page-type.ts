@@ -5,12 +5,12 @@ import type { ElementKind } from "./properties/element-kind.select-property.ts"
 import type { Feeling } from "./properties/feeling.text-property.ts"
 import type { Knowing } from "./properties/knowing.text-property.ts"
 import type { Perceiving } from "./properties/perceiving.text-property.ts"
-import type { PlayedStorySlug } from "./properties/played-story-slug.relation-property.ts"
+import type { PlayedStory } from "./properties/played-story.relation-property.ts"
 import type { TurnStates } from "./properties/turn-states.file-property.ts"
 import type { Wanting } from "./properties/wanting.text-property.ts"
 
 export type StoryElementPlayed = Page & {
-  playedStorySlug: PlayedStorySlug
+  playedStory: PlayedStory
   elementKind: ElementKind
   perceiving: Perceiving
   knowing: Knowing
@@ -30,7 +30,7 @@ export const storyElementPlayed = {
   runsTabooCheck: false,
   partSlugs: [
     "file-property/turn-states",
-    "relation-property/played-story-slug",
+    "relation-property/played-story",
     "select-property/element-kind",
     "text-property/doing",
     "text-property/feeling",
@@ -39,7 +39,7 @@ export const storyElementPlayed = {
     "text-property/wanting",
   ],
   properties: [
-    { pagePropertySlug: "relation-property/played-story-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/played-story", required: true, many: false },
     { pagePropertySlug: "select-property/element-kind", required: true, many: false },
     { pagePropertySlug: "text-property/perceiving", required: true, many: false },
     { pagePropertySlug: "text-property/knowing", required: true, many: false },
