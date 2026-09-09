@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const copyLongtail = {
   id: "01a06863-b0ae-7ca1-800b-d4bd20dd7345",

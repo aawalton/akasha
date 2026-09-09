@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "../../code-system/workspace-packages/workspace-package.page-type.ts"
+import type { WorkspacePackage } from "../../../code-system/workspace-packages/workspace-package.page-type.ts"
 
 export const backupRetention = {
   id: "01a06863-74df-7622-85ad-e931851aec9d",

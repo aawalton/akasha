@@ -55,7 +55,7 @@ function cronjobYaml(): string {
                     "--",
                     "bun",
                     "run",
-                    "infrastructure/backup-retention/copy-longtail/copy-longtail.module.code.ts",
+                    "infrastructure/backups/retention/copy-longtail/copy-longtail.module.code.ts",
                   ],
                   env: [
                     { name: "NODE_ENV", value: "production" },

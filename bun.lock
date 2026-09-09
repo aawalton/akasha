@@ -604,7 +604,7 @@
         "zod": "^4.3.6",
       },
     },
-    "infrastructure/backup-retention": {
+    "infrastructure/backups/retention": {
       "name": "@akasha/backup-retention",
       "dependencies": {
         "@akasha/utils": "workspace:*",
@@ -1312,7 +1312,7 @@
 
     "@akasha/auth-proxy": ["@akasha/auth-proxy@workspace:infrastructure/auth-proxy"],
 
-    "@akasha/backup-retention": ["@akasha/backup-retention@workspace:infrastructure/backup-retention"],
+    "@akasha/backup-retention": ["@akasha/backup-retention@workspace:infrastructure/backups/retention"],
 
     "@akasha/calendar-sync": ["@akasha/calendar-sync@workspace:alan/harness/calendar-sync"],
 

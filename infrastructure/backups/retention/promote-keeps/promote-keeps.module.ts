@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const promoteKeeps = {
   id: "01a06863-74eb-7fce-8275-9b6074382cb4",

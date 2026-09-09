@@ -1,4 +1,4 @@
-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 
 export const backupInfo = {
   id: "01a06863-74e6-7d17-b5ef-a299f78c9080",
