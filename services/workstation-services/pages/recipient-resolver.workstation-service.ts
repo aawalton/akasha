@@ -24,5 +24,4 @@ export const recipientResolver = {
       statement: "A recipient that matches no seat has a seat created.",
     },
   ],
-  parts: [],
 } as const satisfies WorkstationService
