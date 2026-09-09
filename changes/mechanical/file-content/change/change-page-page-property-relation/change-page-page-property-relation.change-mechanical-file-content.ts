@@ -48,6 +48,16 @@ export const changePagePagePropertyRelation = {
       invariantKind: "absence",
       statement: "Nothing here reads the disk.",
     },
+    {
+      invariantKind: "absence",
+      statement:
+        "No name reaching nothing survives here, so a guard on what a name reaches finds none.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
+        "No page is taken away here, so a guard reading what an answer takes away reads nothing.",
+    },
   ],
   changeKind: "change-mechanical",
 } as const satisfies ChangeMechanicalFileContent
