@@ -57,6 +57,7 @@ export const command = {
     "module/spacing-stepping",
     "module/source-globbing",
     "module/worked-typing",
+    "module/type-generating",
     "module/yaml-lines",
     "module/play-row",
     "module/change-costing",

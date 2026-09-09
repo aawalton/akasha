@@ -36,7 +36,6 @@ export const commandSystem = {
     "module/folder-clearing",
     "module/manifest-locking",
     "module/address-mapping",
-    "module/type-generating",
     "module/argument-reading",
     "module/body-merging",
     "module/patching",
