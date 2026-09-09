@@ -88,12 +88,14 @@ export function seatBody(
   const person = personNamed(root, principal)
   const above = person ? null : stated.parentName
   if (!person && (above === null || above === "")) return null
+  const typeSlug = said(typeSlugOf(root, SEAT_TYPE))
   return [
     'import type { Seat } from "../seat.page-type.ts"',
     "",
     `export const ${exportedAs(seatName)} = {`,
     `  id: ${said(stated.agentId)},`,
-    `  pageTypeSlug: ${said(typeSlugOf(root, SEAT_TYPE))},`,
+    `  pageTypeSlug: ${typeSlug},`,
+    `  type: ${typeSlug},`,
     `  slug: ${said(seatName)},`,
     `  persona: ${said(persona)},`,
     `  assignmentSlug: ${said(addressed ?? assignmentAddressOf(domain, root))},`,
