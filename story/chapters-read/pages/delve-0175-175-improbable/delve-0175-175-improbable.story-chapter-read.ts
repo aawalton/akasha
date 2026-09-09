@@ -5,7 +5,7 @@ export const delve0175175Improbable = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0175-175-improbable",
   title: "175: Improbable",
-  storySlug: "delve",
+  story: "delve",
   position: 175,
   ownLength: 4748,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const delve0208208Priorities = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0208-208-priorities",
   title: "208: Priorities",
-  storySlug: "delve",
+  story: "delve",
   position: 208,
   ownLength: 4150,
   unitSlug: "words",

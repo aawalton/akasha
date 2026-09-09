@@ -4,7 +4,7 @@ export const defianceOfTheFall0138Chapter1457GrandUnity = {
   id: "01a08230-8764-7b8f-8f91-48e86812b35a",
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0138-chapter-1457-grand-unity",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 138,
   publishedAt: "2026-09-08",
   unitSlug: "words",

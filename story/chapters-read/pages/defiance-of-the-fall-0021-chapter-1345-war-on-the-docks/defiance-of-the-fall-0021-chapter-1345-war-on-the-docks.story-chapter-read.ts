@@ -5,7 +5,7 @@ export const defianceOfTheFall0021Chapter1345WarOnTheDocks = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0021-chapter-1345-war-on-the-docks",
   title: "Chapter 1,345 - War on the Docks",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 21,
   ownLength: 3142,
   unitSlug: "words",

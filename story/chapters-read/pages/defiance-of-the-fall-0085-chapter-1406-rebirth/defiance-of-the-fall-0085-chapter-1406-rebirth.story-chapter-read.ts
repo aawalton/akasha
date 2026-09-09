@@ -5,7 +5,7 @@ export const defianceOfTheFall0085Chapter1406Rebirth = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0085-chapter-1406-rebirth",
   title: "Chapter 1,406 - Rebirth",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 85,
   ownLength: 2945,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0088Chapter1409GhostMarkets = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0088-chapter-1409-ghost-markets",
   title: "Chapter 1,409 - Ghost Markets",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 88,
   ownLength: 3314,
   unitSlug: "words",

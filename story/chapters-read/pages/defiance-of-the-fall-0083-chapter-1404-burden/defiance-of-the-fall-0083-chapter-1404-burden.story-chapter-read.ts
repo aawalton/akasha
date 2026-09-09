@@ -5,7 +5,7 @@ export const defianceOfTheFall0083Chapter1404Burden = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0083-chapter-1404-burden",
   title: "Chapter 1,404 - Burden",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 83,
   ownLength: 2973,
   unitSlug: "words",

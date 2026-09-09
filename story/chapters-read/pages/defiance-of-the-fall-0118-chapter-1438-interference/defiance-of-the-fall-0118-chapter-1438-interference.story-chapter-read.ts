@@ -5,7 +5,7 @@ export const defianceOfTheFall0118Chapter1438Interference = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0118-chapter-1438-interference",
   title: "Chapter 1,438 - Interference",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 118,
   ownLength: 3156,
   unitSlug: "words",

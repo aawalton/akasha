@@ -5,7 +5,7 @@ export const delve0115115Camp = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0115-115-camp",
   title: "115: Camp",
-  storySlug: "delve",
+  story: "delve",
   position: 115,
   ownLength: 5843,
   unitSlug: "words",

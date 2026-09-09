@@ -5,7 +5,7 @@ export const defianceOfTheFall0061Chapter1384AncientIntent = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0061-chapter-1384-ancient-intent",
   title: "Chapter 1,384 - Ancient Intent",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 61,
   ownLength: 2855,
   unitSlug: "words",

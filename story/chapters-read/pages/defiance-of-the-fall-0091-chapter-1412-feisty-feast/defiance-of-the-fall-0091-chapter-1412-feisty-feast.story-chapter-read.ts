@@ -5,7 +5,7 @@ export const defianceOfTheFall0091Chapter1412FeistyFeast = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0091-chapter-1412-feisty-feast",
   title: "Chapter 1,412 - Feisty Feast",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 91,
   ownLength: 3005,
   unitSlug: "words",

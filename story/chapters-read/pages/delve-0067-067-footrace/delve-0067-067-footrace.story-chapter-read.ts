@@ -5,7 +5,7 @@ export const delve0067067Footrace = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0067-067-footrace",
   title: "067: Footrace",
-  storySlug: "delve",
+  story: "delve",
   position: 67,
   ownLength: 5347,
   unitSlug: "words",

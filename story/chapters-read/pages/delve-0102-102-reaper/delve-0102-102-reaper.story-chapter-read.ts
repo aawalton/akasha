@@ -5,7 +5,7 @@ export const delve0102102Reaper = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0102-102-reaper",
   title: "102: Reaper",
-  storySlug: "delve",
+  story: "delve",
   position: 102,
   ownLength: 5389,
   unitSlug: "words",

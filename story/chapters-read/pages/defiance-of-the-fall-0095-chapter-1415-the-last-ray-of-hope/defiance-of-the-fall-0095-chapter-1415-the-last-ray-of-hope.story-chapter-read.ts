@@ -5,7 +5,7 @@ export const defianceOfTheFall0095Chapter1415TheLastRayOfHope = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0095-chapter-1415-the-last-ray-of-hope",
   title: "Chapter 1,415 - The Last Ray of Hope",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 95,
   ownLength: 2969,
   unitSlug: "words",

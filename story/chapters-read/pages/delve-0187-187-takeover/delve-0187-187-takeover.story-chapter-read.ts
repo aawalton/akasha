@@ -5,7 +5,7 @@ export const delve0187187Takeover = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0187-187-takeover",
   title: "187: Takeover",
-  storySlug: "delve",
+  story: "delve",
   position: 187,
   ownLength: 4494,
   unitSlug: "words",

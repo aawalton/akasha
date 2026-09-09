@@ -5,7 +5,7 @@ export const delve0206206Warden = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0206-206-warden",
   title: "206: Warden",
-  storySlug: "delve",
+  story: "delve",
   position: 206,
   ownLength: 4801,
   unitSlug: "words",

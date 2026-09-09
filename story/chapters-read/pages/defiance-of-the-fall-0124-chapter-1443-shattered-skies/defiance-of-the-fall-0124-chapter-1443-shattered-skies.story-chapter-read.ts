@@ -5,7 +5,7 @@ export const defianceOfTheFall0124Chapter1443ShatteredSkies = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0124-chapter-1443-shattered-skies",
   title: "Chapter 1,443 - Shattered Skies",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 124,
   ownLength: 3017,
   unitSlug: "words",

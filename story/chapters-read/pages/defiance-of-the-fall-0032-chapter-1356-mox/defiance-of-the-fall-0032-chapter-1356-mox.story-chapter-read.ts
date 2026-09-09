@@ -5,7 +5,7 @@ export const defianceOfTheFall0032Chapter1356Mox = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0032-chapter-1356-mox",
   title: "Chapter 1,356 - Mox",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 32,
   ownLength: 3508,
   unitSlug: "words",

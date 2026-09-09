@@ -5,7 +5,7 @@ export const delve0013013Party = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0013-013-party",
   title: "013: Party",
-  storySlug: "delve",
+  story: "delve",
   position: 13,
   ownLength: 3890,
   unitSlug: "words",

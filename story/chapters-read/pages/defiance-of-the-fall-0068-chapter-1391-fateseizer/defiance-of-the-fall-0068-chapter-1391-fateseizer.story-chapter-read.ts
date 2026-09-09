@@ -5,7 +5,7 @@ export const defianceOfTheFall0068Chapter1391Fateseizer = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0068-chapter-1391-fateseizer",
   title: "Chapter 1,391 - Fateseizer",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 68,
   ownLength: 3088,
   unitSlug: "words",

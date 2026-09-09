@@ -5,7 +5,7 @@ export const defianceOfTheFall0027Chapter1351BadInfluence = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0027-chapter-1351-bad-influence",
   title: "Chapter 1,351 - Bad Influence",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 27,
   ownLength: 3156,
   unitSlug: "words",

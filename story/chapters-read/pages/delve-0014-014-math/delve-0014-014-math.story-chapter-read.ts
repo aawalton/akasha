@@ -5,7 +5,7 @@ export const delve0014014Math = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0014-014-math",
   title: "014: Math",
-  storySlug: "delve",
+  story: "delve",
   position: 14,
   ownLength: 3183,
   unitSlug: "words",

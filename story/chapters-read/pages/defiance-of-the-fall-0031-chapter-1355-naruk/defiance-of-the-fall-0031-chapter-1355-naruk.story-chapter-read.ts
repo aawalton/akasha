@@ -5,7 +5,7 @@ export const defianceOfTheFall0031Chapter1355Naruk = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0031-chapter-1355-naruk",
   title: "Chapter 1,355 - Naruk",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 31,
   ownLength: 3321,
   unitSlug: "words",

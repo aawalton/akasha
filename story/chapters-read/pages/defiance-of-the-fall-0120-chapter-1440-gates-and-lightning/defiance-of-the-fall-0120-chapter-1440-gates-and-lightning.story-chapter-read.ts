@@ -5,7 +5,7 @@ export const defianceOfTheFall0120Chapter1440GatesAndLightning = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0120-chapter-1440-gates-and-lightning",
   title: "Chapter 1,440 - Gates and Lightning",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 120,
   ownLength: 3168,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0078Chapter1400BloodAndMoonlight = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0078-chapter-1400-blood-and-moonlight",
   title: "Chapter 1,400 - Blood and Moonlight",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 78,
   ownLength: 3082,
   unitSlug: "words",

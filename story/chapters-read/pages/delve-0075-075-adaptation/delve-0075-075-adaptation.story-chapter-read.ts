@@ -5,7 +5,7 @@ export const delve0075075Adaptation = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0075-075-adaptation",
   title: "075: Adaptation",
-  storySlug: "delve",
+  story: "delve",
   position: 75,
   ownLength: 6342,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0060Chapter1383EternalGlory = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0060-chapter-1383-eternal-glory",
   title: "Chapter 1,383 - Eternal Glory",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 60,
   ownLength: 3113,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0050Chapter1373StatusQuo = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0050-chapter-1373-status-quo",
   title: "Chapter 1,373 - Status Quo",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 50,
   ownLength: 3160,
   unitSlug: "words",

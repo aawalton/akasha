@@ -5,7 +5,7 @@ export const defianceOfTheFall0114Chapter1434Fuxi = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0114-chapter-1434-fuxi",
   title: "Chapter 1,434 - Fuxi",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 114,
   ownLength: 3083,
   unitSlug: "words",

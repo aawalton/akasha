@@ -5,7 +5,7 @@ export const delve0036036Focus = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0036-036-focus",
   title: "036: Focus",
-  storySlug: "delve",
+  story: "delve",
   position: 36,
   ownLength: 4441,
   unitSlug: "words",

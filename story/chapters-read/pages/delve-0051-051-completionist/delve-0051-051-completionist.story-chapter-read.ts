@@ -5,7 +5,7 @@ export const delve0051051Completionist = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0051-051-completionist",
   title: "051: Completionist",
-  storySlug: "delve",
+  story: "delve",
   position: 51,
   ownLength: 5943,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0070Chapter1393NineSunsAndSixPaths = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0070-chapter-1393-nine-suns-and-six-paths",
   title: "Chapter 1,393 - Nine Suns and Six Paths",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 70,
   ownLength: 3457,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const delve0150150Windfall = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0150-150-windfall",
   title: "150: Windfall",
-  storySlug: "delve",
+  story: "delve",
   position: 150,
   ownLength: 7217,
   unitSlug: "words",

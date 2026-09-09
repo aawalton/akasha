@@ -5,7 +5,7 @@ export const delve0179179TimeManagement = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0179-179-time-management",
   title: "179: Time Management",
-  storySlug: "delve",
+  story: "delve",
   position: 179,
   ownLength: 5396,
   unitSlug: "words",

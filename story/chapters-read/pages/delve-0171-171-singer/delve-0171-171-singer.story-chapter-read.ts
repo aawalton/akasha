@@ -5,7 +5,7 @@ export const delve0171171Singer = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0171-171-singer",
   title: "171: Singer",
-  storySlug: "delve",
+  story: "delve",
   position: 171,
   ownLength: 6068,
   unitSlug: "words",

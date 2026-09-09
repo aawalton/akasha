@@ -5,7 +5,7 @@ export const defianceOfTheFall0039Chapter1363TheConfusionWillPass = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0039-chapter-1363-the-confusion-will-pass",
   title: "Chapter 1,363 - The Confusion Will Pass",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 39,
   ownLength: 3034,
   unitSlug: "words",

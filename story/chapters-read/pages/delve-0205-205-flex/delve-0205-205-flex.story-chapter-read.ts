@@ -5,7 +5,7 @@ export const delve0205205Flex = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0205-205-flex",
   title: "205: Flex",
-  storySlug: "delve",
+  story: "delve",
   position: 205,
   ownLength: 4218,
   unitSlug: "words",

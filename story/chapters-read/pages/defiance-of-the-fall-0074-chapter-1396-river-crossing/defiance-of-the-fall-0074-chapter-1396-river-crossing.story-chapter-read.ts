@@ -5,7 +5,7 @@ export const defianceOfTheFall0074Chapter1396RiverCrossing = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0074-chapter-1396-river-crossing",
   title: "Chapter 1,396 - River Crossing",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 74,
   ownLength: 3019,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const delve0107107Interface = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0107-107-interface",
   title: "107: Interface",
-  storySlug: "delve",
+  story: "delve",
   position: 107,
   ownLength: 5533,
   unitSlug: "words",

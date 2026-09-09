@@ -5,7 +5,7 @@ export const delve0137137Geometry = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0137-137-geometry",
   title: "137: Geometry",
-  storySlug: "delve",
+  story: "delve",
   position: 137,
   ownLength: 6229,
   unitSlug: "words",

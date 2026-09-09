@@ -5,7 +5,7 @@ export const defianceOfTheFall0026Chapter1350CircleOfLife = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0026-chapter-1350-circle-of-life",
   title: "Chapter 1,350 - Circle of Life",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 26,
   ownLength: 3203,
   unitSlug: "words",

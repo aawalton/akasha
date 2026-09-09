@@ -5,7 +5,7 @@ export const defianceOfTheFall0063Chapter1386ExcellentLuck = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0063-chapter-1386-excellent-luck",
   title: "Chapter 1,386 - Excellent Luck",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 63,
   ownLength: 3013,
   unitSlug: "words",

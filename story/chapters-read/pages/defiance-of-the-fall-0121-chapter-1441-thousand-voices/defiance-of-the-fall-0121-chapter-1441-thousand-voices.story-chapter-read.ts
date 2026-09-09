@@ -5,7 +5,7 @@ export const defianceOfTheFall0121Chapter1441ThousandVoices = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0121-chapter-1441-thousand-voices",
   title: "Chapter 1,441 - Thousand Voices",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 121,
   ownLength: 2990,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const delve0096096Sanctuary = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0096-096-sanctuary",
   title: "096: Sanctuary",
-  storySlug: "delve",
+  story: "delve",
   position: 96,
   ownLength: 7132,
   unitSlug: "words",

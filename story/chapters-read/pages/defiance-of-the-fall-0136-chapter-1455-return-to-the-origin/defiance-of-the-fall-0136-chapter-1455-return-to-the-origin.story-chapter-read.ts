@@ -4,7 +4,7 @@ export const defianceOfTheFall0136Chapter1455ReturnToTheOrigin = {
   id: "01a07252-32ec-79ff-a375-ef1ed92c3381",
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0136-chapter-1455-return-to-the-origin",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 136,
   publishedAt: "2026-09-03",
   unitSlug: "words",

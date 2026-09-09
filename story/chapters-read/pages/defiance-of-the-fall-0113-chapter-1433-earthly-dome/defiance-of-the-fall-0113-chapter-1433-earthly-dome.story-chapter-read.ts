@@ -5,7 +5,7 @@ export const defianceOfTheFall0113Chapter1433EarthlyDome = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0113-chapter-1433-earthly-dome",
   title: "Chapter 1,433 - Earthly Dome",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 113,
   ownLength: 2887,
   unitSlug: "words",

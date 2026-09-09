@@ -5,7 +5,7 @@ export const defianceOfTheFall0103Chapter1423DesperateMeasures = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0103-chapter-1423-desperate-measures",
   title: "Chapter 1,423 - Desperate Measures",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 103,
   ownLength: 2950,
   unitSlug: "words",

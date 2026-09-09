@@ -5,7 +5,7 @@ export const defianceOfTheFall0028Chapter1352Mousetrap = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0028-chapter-1352-mousetrap",
   title: "Chapter 1,352 - Mousetrap",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 28,
   ownLength: 3257,
   unitSlug: "words",

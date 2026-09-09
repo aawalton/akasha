@@ -5,7 +5,7 @@ export const delve0158158Scales = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0158-158-scales",
   title: "158: Scales",
-  storySlug: "delve",
+  story: "delve",
   position: 158,
   ownLength: 7379,
   unitSlug: "words",

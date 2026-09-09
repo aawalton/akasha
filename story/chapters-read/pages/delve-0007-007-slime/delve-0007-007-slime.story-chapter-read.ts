@@ -5,7 +5,7 @@ export const delve0007007Slime = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0007-007-slime",
   title: "007: Slime",
-  storySlug: "delve",
+  story: "delve",
   position: 7,
   ownLength: 3132,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const defianceOfTheFall0013Chapter1338Lawkeeping = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0013-chapter-1338-lawkeeping",
   title: "Chapter 1,338 - Lawkeeping",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 13,
   ownLength: 3145,
   unitSlug: "words",

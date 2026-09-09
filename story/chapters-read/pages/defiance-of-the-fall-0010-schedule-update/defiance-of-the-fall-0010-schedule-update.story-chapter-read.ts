@@ -5,7 +5,7 @@ export const defianceOfTheFall0010ScheduleUpdate = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0010-schedule-update",
   title: "Schedule Update",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 10,
   ownLength: 283,
   unitSlug: "words",

@@ -5,7 +5,7 @@ export const delve0178178Proposition = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0178-178-proposition",
   title: "178: Proposition",
-  storySlug: "delve",
+  story: "delve",
   position: 178,
   ownLength: 4059,
   unitSlug: "words",

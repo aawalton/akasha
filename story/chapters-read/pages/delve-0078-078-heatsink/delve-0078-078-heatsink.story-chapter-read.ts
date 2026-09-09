@@ -5,7 +5,7 @@ export const delve0078078Heatsink = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0078-078-heatsink",
   title: "078: Heatsink",
-  storySlug: "delve",
+  story: "delve",
   position: 78,
   ownLength: 4352,
   unitSlug: "words",

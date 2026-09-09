@@ -5,7 +5,7 @@ export const delve0042042Guesswork = {
   pageTypeSlug: "story-chapter-read",
   slug: "delve-0042-042-guesswork",
   title: "042: Guesswork",
-  storySlug: "delve",
+  story: "delve",
   position: 42,
   ownLength: 4514,
   unitSlug: "words",

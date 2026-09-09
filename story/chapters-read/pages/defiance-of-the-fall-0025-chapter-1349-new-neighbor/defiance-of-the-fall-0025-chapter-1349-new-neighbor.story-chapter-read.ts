@@ -5,7 +5,7 @@ export const defianceOfTheFall0025Chapter1349NewNeighbor = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0025-chapter-1349-new-neighbor",
   title: "Chapter 1,349 - New Neighbor",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 25,
   ownLength: 3466,
   unitSlug: "words",

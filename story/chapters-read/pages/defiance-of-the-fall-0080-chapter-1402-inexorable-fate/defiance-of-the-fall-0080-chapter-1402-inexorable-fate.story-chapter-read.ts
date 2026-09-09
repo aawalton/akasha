@@ -5,7 +5,7 @@ export const defianceOfTheFall0080Chapter1402InexorableFate = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0080-chapter-1402-inexorable-fate",
   title: "Chapter 1,402 - Inexorable Fate",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 80,
   ownLength: 2943,
   unitSlug: "words",

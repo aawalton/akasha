@@ -5,7 +5,7 @@ export const defianceOfTheFall0099Chapter1419CompassFactory = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0099-chapter-1419-compass-factory",
   title: "Chapter 1,419 - Compass Factory",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 99,
   ownLength: 2880,
   unitSlug: "words",

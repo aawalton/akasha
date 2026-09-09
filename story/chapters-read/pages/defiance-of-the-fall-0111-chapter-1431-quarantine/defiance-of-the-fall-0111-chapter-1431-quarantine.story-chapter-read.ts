@@ -5,7 +5,7 @@ export const defianceOfTheFall0111Chapter1431Quarantine = {
   pageTypeSlug: "story-chapter-read",
   slug: "defiance-of-the-fall-0111-chapter-1431-quarantine",
   title: "Chapter 1,431 - Quarantine",
-  storySlug: "story-read/defiance-of-the-fall",
+  story: "story-read/defiance-of-the-fall",
   position: 111,
   ownLength: 3295,
   unitSlug: "words",
