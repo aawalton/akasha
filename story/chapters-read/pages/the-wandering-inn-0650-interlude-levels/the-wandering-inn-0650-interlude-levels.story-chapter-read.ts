@@ -5,7 +5,7 @@ export const theWanderingInn0650InterludeLevels = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0650-interlude-levels",
   title: "Interlude - Levels",
-  partOfCollectionSlugs: ["story-read/the-wandering-inn"],
+  storySlug: "story-read/the-wandering-inn",
   position: 650,
   ownLength: 23251,
   ownProgress: 23566,

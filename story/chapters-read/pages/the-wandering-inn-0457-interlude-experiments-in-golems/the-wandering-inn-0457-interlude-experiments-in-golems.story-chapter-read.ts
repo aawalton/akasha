@@ -5,7 +5,7 @@ export const theWanderingInn0457InterludeExperimentsInGolems = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0457-interlude-experiments-in-golems",
   title: "Interlude - Experiments in Golems",
-  partOfCollectionSlugs: ["story-read/the-wandering-inn"],
+  storySlug: "story-read/the-wandering-inn",
   position: 457,
   ownLength: 29714,
   ownProgress: 29993,

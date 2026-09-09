@@ -5,7 +5,7 @@ export const theWanderingInn0771MiniChapterEldavin = {
   pageTypeSlug: "story-chapter-read",
   slug: "the-wandering-inn-0771-mini-chapter-eldavin",
   title: "Mini-Chapter: Eldavin",
-  partOfCollectionSlugs: ["story-read/the-wandering-inn"],
+  storySlug: "story-read/the-wandering-inn",
   position: 771,
   ownLength: 2730,
   ownProgress: 2730,
