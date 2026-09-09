@@ -25,7 +25,7 @@ export const codeSource = {
     {
       invariantKind: "departure",
       statement:
-        "The object literal a declaration holds is answered past whatever casts wrap the object literal.",
+        "The object literal a declaration has is answered past whatever casts wrap the object literal.",
     },
     {
       invariantKind: "departure",

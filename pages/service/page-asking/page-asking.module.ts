@@ -78,7 +78,7 @@ export const pageAsking = {
     },
     {
       invariantKind: "departure",
-      statement: "A row holds the keys the question names.",
+      statement: "A row has the keys the question names.",
     },
     {
       invariantKind: "departure",
@@ -212,7 +212,7 @@ export const pageAsking = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds an answer for a later question.",
+      statement: "Nothing here has an answer for a later question.",
     },
     {
       invariantKind: "absence",

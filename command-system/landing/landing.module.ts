@@ -109,7 +109,7 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder left holding nothing by a path taken away is cleared off the disk.",
+      statement: "A folder left with nothing by a path taken away is cleared off the disk.",
     },
     {
       invariantKind: "departure",
@@ -222,11 +222,11 @@ export const landing = {
     {
       invariantKind: "departure",
       statement:
-        "A draft is judged against the bodies the patch would hold rather than the change alone.",
+        "A draft is judged against the bodies the patch would have rather than the change alone.",
     },
     {
       invariantKind: "departure",
-      statement: "A path the patch holds is judged whether or not the draft names that path.",
+      statement: "A path the patch has is judged whether or not the draft names that path.",
     },
     {
       invariantKind: "departure",

@@ -5,7 +5,7 @@ export const changePropertyRecordField = {
   pageTypeSlug: "change-agent",
   slug: "change-property-record-field",
   changeModeSlug: "change-mode-change",
-  definition: "one field of one record a page's many-valued property holds, stated anew",
+  definition: "one field of one record a page's many-valued property has, stated anew",
   code: "ts",
   test: "ts",
   invariants: [

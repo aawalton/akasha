@@ -10,7 +10,7 @@ export const fileAnswering = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file is named by the page holding that file.",
+      statement: "A file is named by the page with that file.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const fileAnswering = {
     },
     {
       invariantKind: "constraint",
-      statement: "The bytes on disk are read rather than the bytes the commit holds.",
+      statement: "The bytes on disk are read rather than the bytes the commit has.",
     },
     {
       invariantKind: "absence",

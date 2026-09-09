@@ -39,11 +39,11 @@ export const movePropertyOnEveryPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A list of one becomes one value where the key written to holds one value.",
+      statement: "A list of one becomes one value where the key written to has one value.",
     },
     {
       invariantKind: "departure",
-      statement: "A list of more than one is refused where the key written to holds one value.",
+      statement: "A list of more than one is refused where the key written to has one value.",
     },
     {
       invariantKind: "departure",

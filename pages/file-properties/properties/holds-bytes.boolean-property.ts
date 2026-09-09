@@ -7,7 +7,7 @@ export const holdsBytes = {
   pageTypeSlug: "boolean-property",
   slug: "holds-bytes",
   propertySlug: "holds-bytes",
-  definition: "whether the files a property holds are bytes rather than text",
+  definition: "whether the files a property has are bytes rather than text",
   invariants: [
     {
       invariantKind: "departure",

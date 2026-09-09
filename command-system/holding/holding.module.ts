@@ -40,7 +40,7 @@ export const holding = {
     },
     {
       invariantKind: "departure",
-      statement: "A hold is released only by the process whose mark is in the hold.",
+      statement: "A hold is released only by the process whose mark is in the have.",
     },
     {
       invariantKind: "departure",

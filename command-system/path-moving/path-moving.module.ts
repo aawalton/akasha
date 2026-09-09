@@ -28,7 +28,7 @@ export const pathMoving = {
     },
     {
       invariantKind: "departure",
-      statement: "A path moved that no commit holds moves on disk and is committed nowhere.",
+      statement: "A path moved that no commit has moves on disk and is committed nowhere.",
     },
     {
       invariantKind: "departure",

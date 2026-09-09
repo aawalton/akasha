@@ -7,7 +7,7 @@ export const changePropertyRecordField = {
   changeModeSlug: "change-mode-change",
   changeTargetTypeSlug: "change-target-type/file-content",
   changeTargetSubtypeSlug: "change-target-subtype/file-content-page-property-value-prose",
-  definition: "one field of one record a page's many-valued property holds, stated anew",
+  definition: "one field of one record a page's many-valued property has, stated anew",
   code: "ts",
   test: "ts",
   invariants: [

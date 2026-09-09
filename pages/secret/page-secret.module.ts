@@ -80,7 +80,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "absence",
-      statement: "The key names a file holds are read without decrypting that file.",
+      statement: "The key names a file has are read without decrypting that file.",
     },
   ],
 } as const satisfies Module

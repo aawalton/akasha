@@ -30,11 +30,11 @@ export const pageReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A path holding a page's secret values is refused before anything is read.",
+      statement: "A path with a page's secret values is refused before anything is read.",
     },
     {
       invariantKind: "departure",
-      statement: "A path holding a page's uncommitted values is refused before anything is read.",
+      statement: "A path with a page's uncommitted values is refused before anything is read.",
     },
     {
       invariantKind: "departure",

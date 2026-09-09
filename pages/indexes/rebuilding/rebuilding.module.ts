@@ -23,7 +23,7 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "The body an entry file holds is its lines, one to a line, closed by a line end.",
+      statement: "The body an entry file has is its lines, one to a line, closed by a line end.",
     },
     {
       invariantKind: "departure",

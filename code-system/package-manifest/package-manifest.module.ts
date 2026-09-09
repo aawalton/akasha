@@ -64,7 +64,7 @@ export const packageManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "Every kind of dependency block a manifest holds is read.",
+      statement: "Every kind of dependency block a manifest has is read.",
     },
     {
       invariantKind: "departure",

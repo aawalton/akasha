@@ -10,8 +10,7 @@ export const jsonEntries = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The object answered is the one the named key of the body's top-level object holds.",
+      statement: "The object answered is the one the named key of the body's top-level object has.",
     },
     {
       invariantKind: "departure",

@@ -47,12 +47,12 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the index already holds is written back at the path the page has.",
+      statement: "A page the index already has is written back at the path the page has.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page the index does not hold is placed under the folder its type is declared in.",
+        "A page the index does not have is placed under the folder its type is declared in.",
     },
     {
       invariantKind: "departure",
@@ -102,7 +102,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A page the index already holds keeps the identity the page has.",
+      statement: "A page the index already has keeps the identity the page has.",
     },
     {
       invariantKind: "departure",

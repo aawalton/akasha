@@ -9,7 +9,7 @@ export const reducers = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Two nav items may each hold a view of the same name.",
+      statement: "Two nav items may each have a view of the same name.",
     },
     {
       invariantKind: "departure",

@@ -15,7 +15,7 @@ export const noSpacingLiteral = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A gap a spacing step holds is reached by name rather than written out again.",
+      statement: "A gap a spacing step has is reached by name rather than written out again.",
     },
     {
       invariantKind: "departure",

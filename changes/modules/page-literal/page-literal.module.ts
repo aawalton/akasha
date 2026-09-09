@@ -42,7 +42,7 @@ export const pageLiteral = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges the value a key holds.",
+      statement: "Nothing here judges the value a key has.",
     },
     {
       invariantKind: "absence",

@@ -4,7 +4,7 @@ export const measureClaudeAccountsCost = {
   id: "01a0796e-60fd-789e-af7f-3c8104ab8bb3",
   pageTypeSlug: "command",
   slug: "measure-claude-accounts-cost",
-  definition: "the command pricing the calls the transcripts on this machine hold",
+  definition: "the command pricing the calls the transcripts on this machine have",
   code: "ts",
   changeKindSlug: "change-mechanical",
   partSlugs: ["module/claude-account-costing"],

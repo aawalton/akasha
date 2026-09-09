@@ -33,7 +33,7 @@ export const folderNotLeftNamed = {
     },
     {
       invariantKind: "departure",
-      statement: "A string holding no separator is a name rather than a path naming that folder.",
+      statement: "A string with no separator is a name rather than a path naming that folder.",
     },
     {
       invariantKind: "departure",

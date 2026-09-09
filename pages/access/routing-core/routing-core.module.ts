@@ -18,7 +18,7 @@ export const routingCore = {
     },
     {
       invariantKind: "departure",
-      statement: "A key the attributes hold is read back under that key.",
+      statement: "A key the attributes have is read back under that key.",
     },
     {
       invariantKind: "departure",

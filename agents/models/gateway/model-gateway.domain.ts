@@ -67,7 +67,7 @@ export const modelGateway = {
     },
     {
       invariantKind: "constraint",
-      statement: "One thread has every stream a gateway holds open.",
+      statement: "One thread has every stream a gateway has open.",
     },
     {
       invariantKind: "departure",

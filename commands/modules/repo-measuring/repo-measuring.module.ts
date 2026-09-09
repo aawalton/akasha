@@ -11,7 +11,7 @@ export const repoMeasuring = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every file the checkout holds is counted.",
+      statement: "Every file the checkout has is counted.",
     },
     {
       invariantKind: "departure",

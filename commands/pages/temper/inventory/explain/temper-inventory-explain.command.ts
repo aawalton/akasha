@@ -40,7 +40,7 @@ export const temperInventoryExplain = {
     },
     {
       invariantKind: "departure",
-      statement: "An item no scan holds refuses the call.",
+      statement: "An item no scan has refuses the call.",
     },
   ],
 } as const satisfies Command

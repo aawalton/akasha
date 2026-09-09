@@ -12,7 +12,7 @@ export const sourceGlobbing = {
     {
       invariantKind: "departure",
       statement:
-        "The source globs an entry stylesheet holds are written by a machine rather than by an author.",
+        "The source globs an entry stylesheet has are written by a machine rather than by an author.",
     },
     {
       invariantKind: "departure",

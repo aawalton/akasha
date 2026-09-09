@@ -46,7 +46,7 @@ export const refusalsKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "How many bytes one answer holds is read from the module stating that count.",
+      statement: "How many bytes one answer has is read from the module stating that count.",
     },
     {
       invariantKind: "departure",

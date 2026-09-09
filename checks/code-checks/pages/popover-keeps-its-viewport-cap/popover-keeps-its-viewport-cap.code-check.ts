@@ -32,7 +32,7 @@ export const popoverKeepsItsViewportCap = {
     },
     {
       invariantKind: "departure",
-      statement: "A max-w holding a calc is left, the cap being reachable inside it.",
+      statement: "A max-w with a calc is left, the cap being reachable inside it.",
     },
     {
       invariantKind: "departure",
