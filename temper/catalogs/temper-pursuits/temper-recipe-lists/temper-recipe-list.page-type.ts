@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.ts"
+import type { TemperPursuitThing } from "../temper-pursuit-things/temper-pursuit-thing.page-type.types.ts"
 import type { Recipes } from "./properties/recipes.page-property-entry.ts"
 
 export type TemperRecipeList = TemperPursuitThing & {
