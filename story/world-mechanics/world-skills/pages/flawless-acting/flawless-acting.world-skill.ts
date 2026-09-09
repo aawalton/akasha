@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const flawlessActing = {
   id: "01a06575-980e-744a-b285-25ea209dd8b1",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "flawless-acting",
   title: "Flawless Acting",
   world: "the-wandering-inn",

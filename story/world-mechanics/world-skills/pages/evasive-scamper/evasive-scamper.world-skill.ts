@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const evasiveScamper = {
   id: "01a06575-9809-7d86-a76b-62743c335ea5",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "evasive-scamper",
   title: "Evasive Scamper",
   world: "the-wandering-inn",

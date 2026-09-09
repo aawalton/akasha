@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const enchantmentAcidCoating = {
   id: "01a06575-9808-7917-82ab-95cc4055a248",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "enchantment-acid-coating",
   title: "Enchantment: Acid Coating",
   world: "the-wandering-inn",

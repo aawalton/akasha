@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const everythingHasAPrice = {
   id: "01a06575-9809-7c7f-9d23-30bc4f8e6f82",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "everything-has-a-price",
   title: "Everything Has a Price",
   world: "the-wandering-inn",

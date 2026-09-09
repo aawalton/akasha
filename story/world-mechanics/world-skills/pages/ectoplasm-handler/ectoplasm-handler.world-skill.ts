@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const ectoplasmHandler = {
   id: "01a06575-9806-77cb-a785-36f78f6bd6a2",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "ectoplasm-handler",
   title: "Ectoplasm Handler",
   world: "the-wandering-inn",

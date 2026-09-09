@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const favoriteWeapon = {
   id: "01a06575-980c-7143-8e68-634b86ccc86f",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "favorite-weapon",
   title: "Favorite Weapon",
   world: "the-wandering-inn",

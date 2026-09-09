@@ -3,6 +3,7 @@ import type { WorldSkill } from "../../world-skill.page-type.ts"
 export const doubledImpact = {
   id: "01a06575-9805-7e5a-b171-2c6da1ae5983",
   pageTypeSlug: "world-skill",
+  type: "world-skill",
   slug: "doubled-impact",
   title: "Doubled Impact",
   world: "the-wandering-inn",
