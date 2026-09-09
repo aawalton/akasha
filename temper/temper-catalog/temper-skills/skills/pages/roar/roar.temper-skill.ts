@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const roar = {
   id: "019e6f53-a663-79b1-a4f9-ab3b3e85ce8c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "roar",
   title: "Roar",
   key: "roar",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeanceDragonfireBreath = {
   id: "019e6f53-a8f4-7495-b62f-0e0e7751297a",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-dragonfire-breath",
   title: "Vengeance Dragonfire Breath",
   key: "vengeance-dragonfire-breath",

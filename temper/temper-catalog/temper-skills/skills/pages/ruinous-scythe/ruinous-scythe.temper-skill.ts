@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const ruinousScythe = {
   id: "019e6245-a716-7489-878c-e6387675bd64",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "ruinous-scythe",
   title: "Ruinous Scythe",
   key: "ruinous-scythe",

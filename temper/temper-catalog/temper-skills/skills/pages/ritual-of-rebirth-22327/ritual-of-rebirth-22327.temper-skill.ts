@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const ritualOfRebirth22327 = {
   id: "019e6f53-a65e-7c19-b750-dad22afd730f",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "ritual-of-rebirth-22327",
   title: "Ritual of Rebirth",
   key: "ritual-of-rebirth-22327",

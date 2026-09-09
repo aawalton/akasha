@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeanceCrystalShard = {
   id: "019e6f53-a8de-72ce-be92-d33f87410208",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-crystal-shard",
   title: "Vengeance Crystal Shard",
   key: "vengeance-crystal-shard",

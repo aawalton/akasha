@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const strikeFromTheShadows = {
   id: "019e6251-4cf3-739b-b26e-794a01feb056",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "strike-from-the-shadows",
   title: "Strike from the Shadows",
   key: "strike-from-the-shadows",

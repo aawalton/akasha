@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const summonShade = {
   id: "019e6f53-a7dc-7443-a4dd-09322eef5d19",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "summon-shade",
   title: "Summon Shade",
   key: "summon-shade",

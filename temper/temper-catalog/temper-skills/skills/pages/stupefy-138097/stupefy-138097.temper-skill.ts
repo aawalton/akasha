@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const stupefy138097 = {
   id: "019e6f53-a7cf-79f1-ad40-e6d84bfdacda",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "stupefy-138097",
   title: "Stupefy",
   key: "stupefy-138097",

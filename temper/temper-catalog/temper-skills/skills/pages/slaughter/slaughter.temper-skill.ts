@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const slaughter = {
   id: "019e6226-0115-76f0-80a8-47b15d4a2118",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "slaughter",
   title: "Slaughter",
   key: "slaughter",

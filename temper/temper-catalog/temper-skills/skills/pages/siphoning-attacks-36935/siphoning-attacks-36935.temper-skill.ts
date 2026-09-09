@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const siphoningAttacks36935 = {
   id: "019e6f53-a72a-77d2-b91e-e21809fd3129",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "siphoning-attacks-36935",
   title: "Siphoning Attacks",
   key: "siphoning-attacks-36935",

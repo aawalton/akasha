@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const shatteringSpines28308 = {
   id: "019e6f53-a6f2-73ab-97d3-c276c4f8790b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "shattering-spines-28308",
   title: "Shattering Spines",
   key: "shattering-spines-28308",

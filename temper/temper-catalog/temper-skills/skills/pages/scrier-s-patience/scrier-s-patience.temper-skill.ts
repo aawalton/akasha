@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const scrierSPatience = {
   id: "019e6f53-a6c8-716d-83e4-e6f0ed2cf99b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "scrier-s-patience",
   title: "Scrier's Patience",
   key: "scrier-s-patience",

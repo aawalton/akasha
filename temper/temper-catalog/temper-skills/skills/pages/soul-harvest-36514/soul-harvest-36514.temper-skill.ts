@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const soulHarvest36514 = {
   id: "019e6f53-a764-7f2c-ad85-44f1cda83978",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "soul-harvest-36514",
   title: "Soul Harvest",
   key: "soul-harvest-36514",

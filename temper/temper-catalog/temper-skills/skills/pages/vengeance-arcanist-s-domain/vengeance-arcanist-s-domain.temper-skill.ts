@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeanceArcanistSDomain = {
   id: "019e6f53-a8b1-7436-89f9-1af2d4940893",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-arcanist-s-domain",
   title: "Vengeance Arcanist's Domain",
   key: "vengeance-arcanist-s-domain",

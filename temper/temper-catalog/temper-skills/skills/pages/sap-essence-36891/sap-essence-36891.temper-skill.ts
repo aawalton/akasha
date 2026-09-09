@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const sapEssence36891 = {
   id: "019e6f53-a6ae-711a-877a-e113e883dd0d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "sap-essence-36891",
   title: "Sap Essence",
   key: "sap-essence-36891",

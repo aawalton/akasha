@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const symbiosis = {
   id: "019e6238-c31d-7eda-a892-68fe356c5ce5",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "symbiosis",
   title: "Symbiosis",
   key: "symbiosis",

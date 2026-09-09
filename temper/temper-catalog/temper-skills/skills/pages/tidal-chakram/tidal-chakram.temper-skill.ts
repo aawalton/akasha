@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const tidalChakram = {
   id: "019e6245-a753-78e6-9c65-442c2989ea9e",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "tidal-chakram",
   title: "Tidal Chakram",
   key: "tidal-chakram",

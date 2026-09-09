@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const satedFury = {
   id: "019e6251-4ce2-7c82-97eb-dea55a06a562",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "sated-fury",
   title: "Sated Fury",
   key: "sated-fury",

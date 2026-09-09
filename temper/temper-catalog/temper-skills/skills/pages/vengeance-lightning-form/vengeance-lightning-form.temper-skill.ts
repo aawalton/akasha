@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeanceLightningForm = {
   id: "019e6f53-a930-7858-af14-0fe663bb62e7",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-lightning-form",
   title: "Vengeance Lightning Form",
   key: "vengeance-lightning-form",

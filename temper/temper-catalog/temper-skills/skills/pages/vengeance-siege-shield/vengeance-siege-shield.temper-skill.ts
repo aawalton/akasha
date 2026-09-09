@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeanceSiegeShield = {
   id: "019e6f53-a983-7813-92a1-146affb23ac7",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-siege-shield",
   title: "Vengeance Siege Shield",
   key: "vengeance-siege-shield",

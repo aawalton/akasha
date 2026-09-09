@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const snipe = {
   id: "019e6f53-a744-7da8-86b1-34e8cec90fd0",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "snipe",
   title: "Snipe",
   key: "snipe",

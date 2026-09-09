@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const sanguineAltar41967 = {
   id: "019e6f53-a6aa-7ce6-afdd-f99c20521c7f",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "sanguine-altar-41967",
   title: "Sanguine Altar",
   key: "sanguine-altar-41967",

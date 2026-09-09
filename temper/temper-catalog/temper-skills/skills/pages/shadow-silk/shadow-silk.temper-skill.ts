@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const shadowSilk = {
   id: "019e6238-c30b-70ef-9f08-9f26435f974f",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "shadow-silk",
   title: "Shadow Silk",
   key: "shadow-silk",

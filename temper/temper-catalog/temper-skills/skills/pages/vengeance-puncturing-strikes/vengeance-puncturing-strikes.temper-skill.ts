@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeancePuncturingStrikes = {
   id: "019e6f53-a957-7162-ae4d-43414e095f99",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-puncturing-strikes",
   title: "Vengeance Puncturing Strikes",
   key: "vengeance-puncturing-strikes",

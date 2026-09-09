@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const soulTether = {
   id: "019e6245-a73d-7239-a2ab-bb07746f5871",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "soul-tether",
   title: "Soul Tether",
   key: "soul-tether",

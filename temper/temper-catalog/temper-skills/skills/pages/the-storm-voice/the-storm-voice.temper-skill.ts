@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const theStormVoice = {
   id: "019e6f53-a833-7257-96c9-d6d52d499733",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "the-storm-voice",
   title: "The Storm Voice",
   key: "the-storm-voice",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const theUnblinkingEye = {
   id: "019e6f53-a837-7fd0-bf5a-83e2ba20cdf4",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "the-unblinking-eye",
   title: "The Unblinking Eye",
   key: "the-unblinking-eye",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const streak = {
   id: "019e6245-a743-77b3-bc3c-aa455e48830e",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "streak",
   title: "Streak",
   key: "streak",

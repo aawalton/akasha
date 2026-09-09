@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const unnaturalMovement = {
   id: "019e6251-4cfc-7bd6-b686-d80dfc44c3a1",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "unnatural-movement",
   title: "Unnatural Movement",
   key: "unnatural-movement",

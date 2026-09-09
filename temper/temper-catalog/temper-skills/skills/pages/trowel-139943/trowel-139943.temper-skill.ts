@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const trowel139943 = {
   id: "019e6f53-a865-7c83-ae56-49eed68c9c0b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "trowel-139943",
   title: "Trowel",
   key: "trowel-139943",

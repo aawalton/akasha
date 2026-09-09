@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const skeletalArcher118680 = {
   id: "019e6f53-a732-7c67-a379-9c7d3fe84441",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "skeletal-archer-118680",
   title: "Skeletal Archer",
   key: "skeletal-archer-118680",

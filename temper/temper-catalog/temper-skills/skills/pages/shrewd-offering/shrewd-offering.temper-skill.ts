@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const shrewdOffering = {
   id: "019e6245-a731-73b6-a07a-806ecab4d5b1",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "shrewd-offering",
   title: "Shrewd Offering",
   key: "shrewd-offering",

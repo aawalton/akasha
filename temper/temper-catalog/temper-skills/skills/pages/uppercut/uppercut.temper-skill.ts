@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const uppercut = {
   id: "019e6f53-a89f-7a0c-932b-87149e6a03db",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "uppercut",
   title: "Uppercut",
   key: "uppercut",

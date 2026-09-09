@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const soulSplittingTrap40328 = {
   id: "019e6f53-a776-71b6-a9d9-edc6cf08dc05",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "soul-splitting-trap-40328",
   title: "Soul Splitting Trap",
   key: "soul-splitting-trap-40328",

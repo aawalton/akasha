@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const superheatedWard = {
   id: "019e6f53-a7f5-7c52-8126-9f39761b6afe",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "superheated-ward",
   title: "Superheated Ward",
   key: "superheated-ward",

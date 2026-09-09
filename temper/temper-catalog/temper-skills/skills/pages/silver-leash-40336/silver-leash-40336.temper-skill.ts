@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const silverLeash40336 = {
   id: "019e6f53-a71d-72a8-bb22-53d4e3239c87",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "silver-leash-40336",
   title: "Silver Leash",
   key: "silver-leash-40336",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const undo = {
   id: "019e6f53-a881-79c5-ae8b-ce5a5374a9a1",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "undo",
   title: "Undo",
   key: "undo",

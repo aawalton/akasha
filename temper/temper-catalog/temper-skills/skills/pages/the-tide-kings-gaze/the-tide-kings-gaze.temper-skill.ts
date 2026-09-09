@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const theTideKingsGaze = {
   id: "019e6245-a752-76e7-81eb-05a330c70562",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "the-tide-kings-gaze",
   title: "The Tide King's Gaze",
   key: "the-tide-kings-gaze",

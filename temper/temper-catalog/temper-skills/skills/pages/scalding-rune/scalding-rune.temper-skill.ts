@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const scaldingRune = {
   id: "019e6238-c307-786c-b54c-96f81591e694",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "scalding-rune",
   title: "Scalding Rune",
   key: "scalding-rune",

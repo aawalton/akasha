@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeanceShieldWall = {
   id: "019e6f53-a981-7fc0-8bcc-9a9d6c557e72",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-shield-wall",
   title: "Vengeance Shield Wall",
   key: "vengeance-shield-wall",

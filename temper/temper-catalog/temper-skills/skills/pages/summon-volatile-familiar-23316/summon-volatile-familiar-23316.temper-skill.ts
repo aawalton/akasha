@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const summonVolatileFamiliar23316 = {
   id: "019e6f53-a7ec-7e27-9a66-0c859675f6e8",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "summon-volatile-familiar-23316",
   title: "Summon Volatile Familiar",
   key: "summon-volatile-familiar-23316",

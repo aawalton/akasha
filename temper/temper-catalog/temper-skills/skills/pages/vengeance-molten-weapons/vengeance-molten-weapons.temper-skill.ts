@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeanceMoltenWeapons = {
   id: "019e6f53-a940-7223-ae00-4f8d3786e66e",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-molten-weapons",
   title: "Vengeance Molten Weapons",
   key: "vengeance-molten-weapons",

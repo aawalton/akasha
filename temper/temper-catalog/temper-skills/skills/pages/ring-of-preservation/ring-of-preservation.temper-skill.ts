@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const ringOfPreservation = {
   id: "019e6238-c304-70c5-b39d-c2179391c1af",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "ring-of-preservation",
   title: "Ring of Preservation",
   key: "ring-of-preservation",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const runeguardOfFreedom186489 = {
   id: "019e6f53-a68d-7327-8a46-ee75627d3cb3",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "runeguard-of-freedom-186489",
   title: "Runeguard of Freedom",
   key: "runeguard-of-freedom-186489",

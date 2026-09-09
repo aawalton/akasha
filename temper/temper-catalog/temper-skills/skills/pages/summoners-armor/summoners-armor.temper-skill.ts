@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const summonersArmor = {
   id: "019e6245-a74a-7ea6-bcfa-3ce58e8a4d58",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "summoners-armor",
   title: "Summoner's Armor",
   key: "summoners-armor",

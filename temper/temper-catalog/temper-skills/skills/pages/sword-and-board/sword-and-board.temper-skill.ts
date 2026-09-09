@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const swordAndBoard = {
   id: "019e6226-0118-7cbc-9a8b-f9fed24efb10",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "sword-and-board",
   title: "Sword and Board",
   key: "sword-and-board",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const robustness = {
   id: "019e624a-12db-7ea4-a62e-b0ccb2882414",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "robustness",
   title: "Robustness",
   key: "robustness",

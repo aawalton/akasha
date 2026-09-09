@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const transfer36587 = {
   id: "019e6f53-a85a-7a7b-932d-43c1bd951048",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "transfer-36587",
   title: "Transfer",
   key: "transfer-36587",

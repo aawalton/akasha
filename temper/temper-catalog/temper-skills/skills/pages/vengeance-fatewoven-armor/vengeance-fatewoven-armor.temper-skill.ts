@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeanceFatewovenArmor = {
   id: "019e6f53-a909-7a44-b1b1-d78183e84e5c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-fatewoven-armor",
   title: "Vengeance Fatewoven Armor",
   key: "vengeance-fatewoven-armor",

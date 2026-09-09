@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeanceBoneTotem = {
   id: "019e6f53-a8ca-79ca-9b73-04cf482046d0",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-bone-totem",
   title: "Vengeance Bone Totem",
   key: "vengeance-bone-totem",

@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const twinSlashes = {
   id: "019e6f53-a86e-735a-b01a-4ca9419ea210",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "twin-slashes",
   title: "Twin Slashes",
   key: "twin-slashes",

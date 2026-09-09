@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeanceFungalGrowth = {
   id: "019e6f53-a919-74ee-86a4-7e4815371fe2",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-fungal-growth",
   title: "Vengeance Fungal Growth",
   key: "vengeance-fungal-growth",

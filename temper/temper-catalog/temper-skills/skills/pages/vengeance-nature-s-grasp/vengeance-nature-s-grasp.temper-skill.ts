@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vengeanceNatureSGrasp = {
   id: "019e6f53-a943-70c7-a90a-e895ad1f133c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vengeance-nature-s-grasp",
   title: "Vengeance Nature's Grasp",
   key: "vengeance-nature-s-grasp",

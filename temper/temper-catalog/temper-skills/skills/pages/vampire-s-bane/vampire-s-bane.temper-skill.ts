@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const vampireSBane = {
   id: "019e6f53-a8a1-7067-abcd-2fb4c471f908",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "vampire-s-bane",
   title: "Vampire's Bane",
   key: "vampire-s-bane",

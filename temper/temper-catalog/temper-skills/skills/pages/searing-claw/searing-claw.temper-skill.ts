@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const searingClaw = {
   id: "019e6f53-a6cd-759d-afca-ec7f00a5c39f",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "searing-claw",
   title: "Searing Claw",
   key: "searing-claw",

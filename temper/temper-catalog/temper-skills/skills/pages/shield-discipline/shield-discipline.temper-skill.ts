@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const shieldDiscipline = {
   id: "019e6226-0112-7258-9b80-cb29c645723c",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "shield-discipline",
   title: "Shield Discipline",
   key: "shield-discipline",

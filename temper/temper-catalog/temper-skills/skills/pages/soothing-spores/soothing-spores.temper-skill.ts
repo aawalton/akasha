@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const soothingSpores = {
   id: "019e6245-a738-7df0-8e71-7269cd7e2b8b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "soothing-spores",
   title: "Soothing Spores",
   key: "soothing-spores",

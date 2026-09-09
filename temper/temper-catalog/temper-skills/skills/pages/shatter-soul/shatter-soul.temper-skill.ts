@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const shatterSoul = {
   id: "019e6251-4ce7-7d6b-8689-aabbdb58d47b",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "shatter-soul",
   title: "Shatter Soul",
   key: "shatter-soul",

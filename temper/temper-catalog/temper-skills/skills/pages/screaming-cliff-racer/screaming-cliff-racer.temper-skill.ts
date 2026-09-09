@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const screamingCliffRacer = {
   id: "019e6245-a726-70ab-acb3-e8f2ba83dd18",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "screaming-cliff-racer",
   title: "Screaming Cliff Racer",
   key: "screaming-cliff-racer",

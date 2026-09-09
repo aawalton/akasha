@@ -3,6 +3,7 @@ import type { TemperSkill } from "../../temper-skill.page-type.ts"
 export const scalesOfPitilessJustice = {
   id: "019e6238-c308-7715-866c-75fb7033fd0d",
   pageTypeSlug: "temper-skill",
+  type: "temper-skill",
   slug: "scales-of-pitiless-justice",
   title: "Scales of Pitiless Justice",
   key: "scales-of-pitiless-justice",
