@@ -33,7 +33,6 @@
     "./path-moving": "./path-moving/path-moving.module.code.ts",
     "./mechanical-landing": "./mechanical-landing/mechanical-landing.module.code.ts",
     "./piping": "./piping/piping.module.code.ts",
-    "./prose-routing": "./prose-routing/prose-routing.module.code.ts",
     "./reading": "./reading/reading.module.code.ts",
     "./rooting": "./rooting/rooting.module.code.ts",
     "./said-pathing": "./said-pathing/said-pathing.module.code.ts",

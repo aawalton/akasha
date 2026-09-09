@@ -30,7 +30,6 @@ export const commandSystem = {
     "module/drafting",
     "module/applying",
     "module/mechanical-landing",
-    "module/prose-routing",
     "module/seat-act-calling",
     "module/command-flags",
     "module/said-pathing",

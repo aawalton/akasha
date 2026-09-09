@@ -3,12 +3,12 @@ import type { InputError, UnknownFlag } from "@akasha/errors-core/exit-code"
 import { inputError } from "@akasha/errors-core/exit-code"
 import { suggestClosest } from "@akasha/temper-build-deploy-checks/suggest-closest"
 import { expandTilde } from "@akasha/utils/fs/expand-tilde"
-import type { CommandHelp, HelpFlag } from "../command-declaring/command-declaring.module.code.ts"
 import {
   expandProseRoutes,
   normalizeRouteValue,
   planProseRouteReads,
-} from "../prose-routing/prose-routing.module.code.ts"
+} from "../../commands/modules/prose-routing/prose-routing.module.code.ts"
+import type { CommandHelp, HelpFlag } from "../command-declaring/command-declaring.module.code.ts"
 
 export interface ParsedArgs {
   string: (name: string) => string | undefined
