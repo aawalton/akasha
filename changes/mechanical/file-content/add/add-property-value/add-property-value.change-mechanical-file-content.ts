@@ -10,10 +10,15 @@ export const addPropertyValue = {
   definition: "one value put into one page property in a page's body",
   code: "ts",
   test: "ts",
+  guards: ["change-guard/relation-reaches-a-page"],
   invariants: [
     {
       invariantKind: "departure",
       statement: "A value is put after the values the property already has.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value naming a page that is not there refuses the answer.",
     },
     {
       invariantKind: "departure",
